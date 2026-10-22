@@ -1,0 +1,104 @@
+{
+ "fn": "google/torchax",
+ "sha": "8408d802e77e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 PyTorch 代码经 JAX 后端运行于 TPU 的互操作库",
+  "review": "torchax 是 PyTorch 的一个后端，使 PyTorch 程序能够在 Google Cloud TPU 上运行，并提供 PyTorch 与 JAX 之间的图级互操作。机制上通过 torch.Tensor 子类持有 jax.Array 并重写 __torch_dispatch__，将 PyTorch 算子替换为 JAX 等价实现。用户可在 PyTorch 代码中调用 jax.grad、optax、GSPMD 训练模型，或用 jax.jit 编译加速。提供 checkpoint 保存加载、JittableModule 辅助类。由 Google Cloud 团队维护，通过 pip 从 PyPI 或源码安装。",
+  "highlights": [
+   "以 JAX 为后端运行 PyTorch 程序，代码改动少",
+   "PyTorch 与 JAX 双向调用：jax.Array 传入 PyTorch 函数、torch.Tensor 传入 JAX 函数",
+   "通过 __torch_dispatch__ 算子替换实现，支持 jax.jit 编译加速",
+   "提供 torchax.save_checkpoint / load_checkpoint 训练状态保存"
+  ],
+  "use_cases": [
+   "把已有 PyTorch 模型迁移到 Google Cloud TPU 上运行",
+   "在 PyTorch 训练流程中使用 JAX 的 jax.grad 与 optax",
+   "将 PyTorch 模型作为特征提取器接入 JAX 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "框架互操作",
+   "TPU",
+   "PyTorch",
+   "JAX",
+   "ML基础设施"
+  ],
+  "domain": "机器学习框架/互操作",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: **torchax** is a backend for PyTorch that allows users to run",
+   "L7: PyTorch programs on Google Cloud TPUs. It also provides graph-level",
+   "L88: torchax uses a `torch.Tensor` subclass, `torchax.tensor.Tensor`, which holds a",
+   "L89: `jax.Array` and overrides the `__torch_dispatch__` method. When a PyTorch operation"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     45,
+     46
+    ],
+    "quotes": [
+     "# Install from PyPI",
+     "pip install torchax"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

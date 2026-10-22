@@ -1,0 +1,155 @@
+{
+ "fn": "DevelopersGlobal/ai-agent-skills",
+ "sha": "2de0079470c5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编程代理的 30 个生产级技能（SKILL.md）策展库",
+  "review": "收录 30 个结构化 markdown 技能文件的清单库，覆盖思考规划、任务分解、编码、测试、代码审查、安全加固（OWASP、提示注入防御、幻觉防范）与部署等 7 个阶段，另含 3 个日常生产力技能。技能以复制粘贴方式接入 Claude、Cursor、Copilot、Gemini CLI 等代理的系统提示或规则文件，提供 GitHub Pages 浏览器（全文搜索、分类过滤、一键复制）。灵感来自 addyosmani/agent-skills 与 karpathy-skills 两个仓库。",
+  "highlights": [
+   "30 个技能按 THINK→PLAN→BUILD→TEST→REVIEW→HARDEN→SHIP 流程组织",
+   "含提示注入防御、幻觉防范、AI 输出校验、多代理编排等 AI 安全类技能",
+   "提供 GitHub Pages 技能浏览器：全文搜索、分类过滤、一键复制",
+   "技能可通过复制到 CLAUDE.md / .cursor/rules / GEMINI.md 等方式接入各代理"
+  ],
+  "use_cases": [
+   "为我的 Claude Code / Cursor / Copilot 代理补充工程纪律与安全规范",
+   "查找防止 LLM 幻觉与提示注入攻击的现成技能",
+   "按类别浏览并复制生产部署、测试驱动开发等技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "developersglobal.github.io/ai-agent-skills",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "技能清单",
+   "提示工程",
+   "AI代理",
+   "开发工具"
+  ],
+  "domain": "开发工具/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: AI agents are only as good as the instructions they follow. **AI Agent Skills** is a curated, battle-tested library of s",
+   "L76: ## 📚 All 30 Skills"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     17,
+     50,
+     53
+    ],
+    "note": "Claude/Claude Code 作为技能接入的目标代理被列举，非专门接入适配",
+    "quotes": [
+     "AI agents are only as good as the instructions they follow. **AI Agent Skills** is a curated, battle-tested library of s",
+     "**Claude / Cursor / Copilot / any agent:**",
+     "**For Claude Code** — add to your project's `CLAUDE.md`:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     45
+    ],
+    "quotes": [
+     "git clone https://github.com/DevelopersGlobal/ai-agent-skills.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     17,
+     50
+    ],
+    "note": "作为技能适用的代理被列举",
+    "quotes": [
+     "AI agents are only as good as the instructions they follow. **AI Agent Skills** is a curated, battle-tested library of s",
+     "**Claude / Cursor / Copilot / any agent:**"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     17,
+     50,
+     58
+    ],
+    "note": "作为技能适用的代理被列举，含专用接入示例",
+    "quotes": [
+     "AI agents are only as good as the instructions they follow. **AI Agent Skills** is a curated, battle-tested library of s",
+     "**Claude / Cursor / Copilot / any agent:**",
+     "**For Cursor** — copy into `.cursor/rules/`:"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "作为技能接入目标，非替代关系",
+    "quotes": [
+     "**For Claude Code** — add to your project's `CLAUDE.md`:"
+    ]
+   }
+  ]
+ }
+}

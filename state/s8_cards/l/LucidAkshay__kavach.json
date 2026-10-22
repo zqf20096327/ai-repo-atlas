@@ -1,0 +1,107 @@
+{
+ "fn": "LucidAkshay/kavach",
+ "sha": "306036c62cbb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "监控并约束本地 AI agent 与 LLM 的端点检测响应（EDR）桌面工具",
+  "review": "基于 Tauri + Rust + React 的开源 EDR 层，针对运行在本机的自主 AI agent 与本地 LLM：以 Userland 异步文件系统观察者方式监控指定工作区，将破坏性文件操作路由到隐藏幻影目录、60 秒未处置自动终止 agent 进程、50MB 以下文件加密缓存支持一键回滚、部署蜜罐诱饵文件、扫描外发字符串中的密钥/PII 并覆写剪贴板，同时提供哈希链审计日志与依赖 CVE 扫描。宣称零云依赖、完全本地运行。限制：v1.1 为监控层而非同步沙箱，系统调用级拦截需内核驱动，列入 v1.2 路线图。通过 Releases 安装包部署，Windows 进程终止需管理员权限。",
+  "highlights": [
+   "破坏性文件操作拦截并路由到 .kavach_phantom 幻影目录",
+   "待处理动作超 60 秒自动向 agent 进程发送终止信号",
+   "50MB 以下文件加密缓存支持一键回滚",
+   "蜜罐诱饵文件触发 High Risk 锁定与 FNV 哈希链不可篡改审计日志"
+  ],
+  "use_cases": [
+   "防止本机 AI agent 误删源码、数据库或外泄密钥",
+   "对 agent 执行的文件操作做隔离、回滚与审计取证",
+   "实时扫描外发内容中的 API 密钥与 PII"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    19
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端点安全/EDR",
+   "AI agent 安全",
+   "桌面应用",
+   "文件监控"
+  ],
+  "domain": "AI 安全/端点防护",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: > **Kavach** (Sanskrit for \"Armor\") is an open source Endpoint Detection and Response (EDR) layer designed exclusively t",
+   "L19: **Architecture Transparency:** Kavach v1.1.0 operates as a high performance asynchronous file system observer using User"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     66,
+     67
+    ],
+    "quotes": [
+     "1. **Download:** Grab the latest installer for your operating system from the **Releases Page**.",
+     "2. **Launch:** Run the executable (e.g. `Akshays.Kavach_1.1.0_x64-setup.exe`). *(Note: Windows requires running as Admin"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

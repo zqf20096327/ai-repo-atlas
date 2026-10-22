@@ -1,0 +1,108 @@
+{
+ "fn": "yuvraj108c/ComfyUI-Upscaler-Tensorrt",
+ "sha": "875267bbc697",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 节点：用 TensorRT 加速 ESRGAN 图像超分（2-4x）",
+  "review": "ComfyUI 自定义节点，将 ESRGAN 架构超分模型（4x-UltraSharp、RealESRGAN 等 13 个已测试模型）转为 TensorRT 引擎执行，README 报告较常规路径提速 2-4 倍，附 RTX 5090/4090/3060 的 FPS 基准。引擎在工作流中自动构建，支持 256-1280px 动态输入分辨率与任意放大倍数，可用 export_onnx.py 导出自定义 ESRGAN 模型。需 NVIDIA GPU 环境，仅支持 ESRGAN 架构。通过 ComfyUI Manager 或 git clone 安装。",
+  "highlights": [
+   "13 个已测试 ESRGAN 超分模型的 TensorRT 执行",
+   "引擎从工作流自动构建，支持 256-1280px 动态分辨率",
+   "export_onnx.py 支持导出自定义 ESRGAN 模型",
+   "附 RTX 5090/4090/3060 的 FP16 基准数据（FPS）"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中加速图像超分放大",
+   "把生成或低分辨率图像放大到 2048-5120px",
+   "为自定义 ESRGAN 模型构建 TensorRT 引擎"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI节点",
+   "图像超分",
+   "TensorRT",
+   "推理加速",
+   "Stable Diffusion生态"
+  ],
+  "domain": "图像生成/超分工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: This project provides a Tensorrt implementation for fast image upscaling using models inside ComfyUI (2-4x faster)",
+   "L81: - The tensorrt engine will be built automatically"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     43,
+     47,
+     49
+    ],
+    "quotes": [
+     "- Install via the manager",
+     "git clone https://github.com/yuvraj108c/ComfyUI-Upscaler-Tensorrt.git",
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

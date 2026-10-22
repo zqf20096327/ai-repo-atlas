@@ -1,0 +1,113 @@
+{
+ "fn": "Health-Yang/MineEcho",
+ "sha": "40ead73252b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的个人 AI 助手记忆操作系统：记忆分层、知识库、技能路由",
+  "review": "面向个人 AI 助手的本地优先框架，核心为运行时记忆与 L0-L3 记忆树（原始记忆块/日/周/月归档）、Wiki++ 知识库（原始文件+AI 维护 wiki 页，向量/BM25/结构化/图四通道检索）、本地技能与注册 AI 应用统一路由，以及含 15 条内置规则的 TokenLess 输出压缩层。后端复用仓库内自带的 OpenClaw Gateway 运行时，模型 API key 需用户自配。提供 Windows 安装包、macOS DMG 与 npm 源码启动三种途径。",
+  "highlights": [
+   "L0-L3 记忆树与工作/短期/长期双视图，多信号召回加嵌入重排",
+   "Wiki++ 知识库支持向量、BM25、结构化、图四通道检索",
+   "本地技能与外部 AI 应用注册到同一触发/路由/健康检查面",
+   "TokenLess 压缩含 15 条内置 reducer 规则并本地记录节省指标"
+  ],
+  "use_cases": [
+   "搭建能长期记住偏好和历史工作的个人助手",
+   "把导入的资料组织成可浏览的 wiki 与知识图谱",
+   "将多个 AI 应用收编为可路由调用的技能并控制上下文成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI助手",
+   "记忆系统",
+   "知识库/RAG",
+   "本地优先",
+   "技能路由"
+  ],
+  "domain": "个人 AI 助手/记忆基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档入口（L5）",
+   "桌面安装包经百度网盘分发（L119, L140）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: MineEcho is a source-available, local-first AI assistant framework for building private, extensible assistant workflows ",
+   "L70: - Local console and BFF for chat, skills, memory, knowledge base, calendar/meeting helpers, and configuration."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     125
+    ],
+    "quotes": [
+     "2. Run `MineEcho Setup 1.0.0.exe` on Windows 10 or Windows 11."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     182
+    ],
+    "quotes": [
+     "git clone https://github.com/Health-Yang/MineEcho.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

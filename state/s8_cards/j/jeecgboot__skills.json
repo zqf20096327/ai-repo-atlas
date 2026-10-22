@@ -1,0 +1,159 @@
+{
+ "fn": "jeecgboot/skills",
+ "sha": "28e783b4b031",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 JeecgBoot 开发者的 Claude Code 技能集：一句话生成全套低代码工件",
+  "review": "JeecgBoot 官方维护的 12 个 Claude Code Skills，覆盖 JeecgBoot 低代码平台与 JimuReport 积木报表：在 Claude Code 对话中用自然语言生成 Java+Vue3 CRUD 代码、Online 表单/报表/图表、设计器表单、Flowable BPMN 流程、AIFlow AI 编排、门户配置以及大屏/仪表盘/积木报表，部分技能支持按截图还原。提供一键安装脚本（含写入 DeepSeek v4 作为模型后端、国内镜像加速）或 git clone 到 ~/.claude/skills；前置依赖 Python 3.12+，需修改路径与数据库连接配置并配合 JeecgBoot 3.x 后端 API 使用。",
+  "highlights": [
+   "12 个官方 Skills，自然语言触发生成代码/表单/流程/报表/图表/大屏/门户",
+   "jeecg-codegen-new 基于 Freemarker 模板驱动生成，支持单表/树表/主子表多布局",
+   "jeecg-desform 与 jimureport 支持按截图原样还原表单与报表",
+   "一键安装脚本经国内镜像装齐 Node/Python/Git/Claude Code 并配置 DeepSeek v4 后端"
+  ],
+  "use_cases": [
+   "用自然语言生成 JeecgBoot 模块的后端 Java、前端 Vue3 与菜单 SQL",
+   "在 Claude Code 中创建 Online 表单、数据报表与可视化图表",
+   "描述审批流程自动生成并部署 Flowable BPMN 2.0 XML",
+   "一句话搭建数据大屏、仪表盘与积木报表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "低代码",
+   "Claude Code Skills",
+   "代码生成",
+   "自然语言编程",
+   "企业级开发"
+  ],
+  "domain": "低代码/AI 辅助开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 镜像",
+   "华为云/npmmirror 国内镜像加速",
+   "Bilibili 视频教程",
+   "无需翻墙安装方案"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > 在 **Claude Code** 中，用一句话生成 **代码 · 表单 · 流程 · 报表 · 图表 · 大屏 · 仪表盘 · 门户**。",
+   "L90: |1|**jeecg-codegen**|自然语言描述业务需求，自动生成 JeecgBoot 全套 CRUD 代码，支持单表 / 树表 / 主子表|代码生成、创建模块、新增功能、加字段|Java + Vue3 + SQL|",
+   "L59: git clone https://github.com/jeecgboot/skills.git ~/.claude/skills"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     3,
+     16,
+     18
+    ],
+    "note": "Skills 运行于 Claude Code（Anthropic 客户端），方案 B 直接配合已有 Claude Code",
+    "quotes": [
+     "> 在 **Claude Code** 中，用一句话生成 **代码 · 表单 · 流程 · 报表 · 图表 · 大屏 · 仪表盘 · 门户**。",
+     "### 方案 A · Claude Code + DeepSeek v4 一键全栈（推荐 · 无需翻墙）",
+     "国内镜像加速，一行命令装齐 **Node.js · Python · Git · Claude Code · JEECG Skills**，并写入 DeepSeek v4 作为模型后端，**跑完即可使用**。"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     16,
+     40,
+     43
+    ],
+    "note": "方案 A 写入 DeepSeek v4 作为模型后端，需自备 API Key",
+    "quotes": [
+     "### 方案 A · Claude Code + DeepSeek v4 一键全栈（推荐 · 无需翻墙）",
+     "- 写入用户级环境变量 `ANTHROPIC_BASE_URL / ANTHROPIC_AUTH_TOKEN / ANTHROPIC_MODEL=deepseek-v4-pro`",
+     "> ⚠️ DeepSeek 按 token 计费，需自备 API Key：DeepSeek 开放平台 申请 API Key"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     56,
+     59
+    ],
+    "note": "git clone 仓库到 ~/.claude/skills；另有 curl/irm 一键脚本（L23/L31）",
+    "quotes": [
+     "不跑安装脚本，直接 `git clone` 仓库到 `~/.claude/skills`：",
+     "git clone https://github.com/jeecgboot/skills.git ~/.claude/skills"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     16
+    ],
+    "note": "Skills 的宿主运行环境，非替代/竞品对象",
+    "quotes": [
+     "> 在 **Claude Code** 中，用一句话生成 **代码 · 表单 · 流程 · 报表 · 图表 · 大屏 · 仪表盘 · 门户**。",
+     "### 方案 A · Claude Code + DeepSeek v4 一键全栈（推荐 · 无需翻墙）"
+    ]
+   }
+  ]
+ }
+}

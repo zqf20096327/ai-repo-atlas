@@ -1,0 +1,126 @@
+{
+ "fn": "ju-bezdek/langchain-decorators",
+ "sha": "0d20826a3cce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LangChain 之上的提示词/链编写装饰器语法糖库",
+  "review": "构建在 LangChain 之上的轻量 Python 层，用 @llm_prompt 装饰器将函数 docstring 定义为提示词模板，函数签名即输入参数。支持多角色消息块、可选段落、按返回类型自动选择输出解析器（list/dict/Pydantic）、LlmChatSession 会话、@llm_function 工具调用（含动态 schema）、流式与结构化输出，并集成 LangSmith 追踪标签。自声明为非官方附加层，通过 pip 安装，面向使用 LangChain 的开发者。",
+  "highlights": [
+   "@llm_prompt 装饰器以函数 docstring 定义多角色提示词模板",
+   "按返回类型自动选择输出解析器，支持 Pydantic 结构化输出",
+   "@llm_function 简化工具调用并支持动态 schema 生成",
+   "StreamingContext 流式输出与 LangSmith 追踪集成"
+  ],
+  "use_cases": [
+   "用更 Pythonic 的方式编写和管理 LangChain 提示词",
+   "在函数签名中声明提示词参数并保留 IDE 提示与类型检查",
+   "简化 LangChain 的工具调用与聊天会话管理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM应用开发",
+   "提示词工程",
+   "Python库",
+   "LangChain生态"
+  ],
+  "domain": "LLM 开发框架/提示词工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: LangChain Decorators is a lightweight layer built on top of LangChain that provides syntactic sugar 🍭 for writing custom",
+   "L5: > Note: This is an unofficial add-on to the LangChain library. It is not trying to compete—just to make using it easier."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     54
+    ],
+    "quotes": [
+     "pip install langchain_decorators"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     1,
+     3,
+     5
+    ],
+    "note": "被构建于其上的底层框架，README 明确声明不与其竞争",
+    "quotes": [
+     "# LangChain Decorators ✨",
+     "LangChain Decorators is a lightweight layer built on top of LangChain that provides syntactic sugar 🍭 for writing custom",
+     "> Note: This is an unofficial add-on to the LangChain library. It is not trying to compete—just to make using it easier."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "note": "仅出现于『ChatGPT-compatible models』角色说明语境",
+    "quotes": [
+     "The roles here are the model’s native roles (assistant, user, system for ChatGPT-compatible models)."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

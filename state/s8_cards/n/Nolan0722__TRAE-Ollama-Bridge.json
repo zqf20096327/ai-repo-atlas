@@ -1,0 +1,113 @@
+{
+ "fn": "Nolan0722/TRAE-Ollama-Bridge",
+ "sha": "9754bc74e764",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将本地 Ollama 包装为 OpenAI 兼容接口的桥接代理",
+  "review": "面向 TRAE 等无法自定义模型服务商或 Base URL 的 IDE 用户的代理服务：把本地 Ollama 模型包装为 OpenAI 兼容的 /v1 接口，支持流式/非流式响应与模型映射管理。提供 WebUI 管理映射与聊天测试；通过本地 CA 证书、hosts 写入与 443 端口转发的系统拦截策略，透明接管固定访问 api.openai.com 的客户端。需预先配置好可运行的 Ollama 环境，README 声明因 TRAE 已原生支持 Ollama 而停止维护。",
+  "highlights": [
+   "OpenAI 兼容 /v1 接口，支持流式/非流式响应",
+   "本地 Ollama 模型映射为 OpenAI 风格模型 ID",
+   "透明拦截模式：本地 CA + hosts + 443 端口转发接管固定请求",
+   "WebUI 管理映射、模型列表与聊天测试，支持可选 API Key 校验"
+  ],
+  "use_cases": [
+   "在不能改 Base URL 的 IDE 中调用本地 Ollama 模型",
+   "透明接管固定访问 api.openai.com 的客户端",
+   "通过 WebUI 管理模型映射并测试连通性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API代理/网关",
+   "本地模型接入",
+   "OpenAI兼容",
+   "IDE工具"
+  ],
+  "domain": "LLM 基础设施/API 网关",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 与多语言文档",
+   "知乎专栏启发致谢",
+   "简体中文为默认文档"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  由于在 TRAE （或其他IDE）中模型服务商被固定，无法使用本地Ollama模型或修改 Base URL。通过本项目，可让这些客户端直接与本地 Ollama 交互，绕开 IDE 限制。",
+   "L12: 将本地 Ollama 模型包装为 OpenAI 兼容接口，用于解决在 TRAE 等 IDE 中无法自定义模型或 API Base 时的限制。",
+   "L16: - OpenAI 兼容 `/v1` 接口：即插即用，兼容 TRAE 等主流 IDE 请求格式。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     9,
+     12,
+     20
+    ],
+    "note": "本体即为 Ollama 的桥接适配层",
+    "quotes": [
+     " 由于在 TRAE （或其他IDE）中模型服务商被固定，无法使用本地Ollama模型或修改 Base URL。通过本项目，可让这些客户端直接与本地 Ollama 交互，绕开 IDE 限制。",
+     "将本地 Ollama 模型包装为 OpenAI 兼容接口，用于解决在 TRAE 等 IDE 中无法自定义模型或 API Base 时的限制。",
+     "- 模型映射管理：将本地 Ollama 模型映射为 OpenAI 风格 ID，方便在 IDE 中选择与复用。"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    5
+   ]
+  },
+  "products": []
+ }
+}

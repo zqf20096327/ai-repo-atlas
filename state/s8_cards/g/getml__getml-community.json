@@ -1,0 +1,118 @@
+{
+ "fn": "getml/getml-community",
+ "sha": "dc0e96b14775",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向关系数据与时间序列的自动特征工程与预测建模工具",
+  "review": "getML 是用于关系型数据和时间序列自动特征工程的 Python 工具，内置专用数据库 Engine，包含 FastProp 算法、预处理器、预测器（线性回归、XGBoost 等）和超参优化器，并可通过 getML Monitor 查看项目、管线与特征信息。自动生成数千个特征并挑选最优。数据源支持 CSV、Pandas、JSON、SQLite、MySQL、PostgreSQL 等。标准版开源但不得用于生产用途，专业版/企业版提供生产使用、训练与部署功能。macOS/Windows 需先启动 Docker 服务。",
+  "highlights": [
+   "FastProp 算法自动生成并筛选数千个关系/时间序列特征",
+   "内置预处理器、预测器与超参优化器（含 XGBoost）",
+   "getML Monitor 展示项目、管线、特征与准确性信息",
+   "支持 CSV/Pandas/JSON/SQLite/MySQL/MariaDB/PostgreSQL 等数据源导入"
+  ],
+  "use_cases": [
+   "自动为关系型业务数据构建分类/回归特征",
+   "时间序列预测中替代手工特征构建",
+   "通过 Monitor 审查特征重要性与管线表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自动特征工程",
+   "AutoML",
+   "时间序列预测",
+   "关系型学习"
+  ],
+  "domain": "机器学习/数据科学工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: getML is a tool for automating feature engineering on relational data and time series. It includes a specifically custom",
+   "L48: The standard version includes preprocessors (like CategoryTrimmer, EmailDomain, Imputation, Mapping, Seasonal, Substring"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     20,
+     23
+    ],
+    "quotes": [
+     "As getML is available on PyPI, you can install it simply via",
+     "pip install getml"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     27,
+     30
+    ],
+    "note": "macOS/Windows 上运行所需的 getML docker 服务",
+    "quotes": [
+     "> To get started on macOS and Windows, you first need to start the getML docker service:",
+     "> curl -L https://raw.githubusercontent.com/getml/getml-community/refs/heads/main/runtime/docker-compose.yml | docker co"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    54
+   ],
+   "quotes": [
+    "While the standard version is open source, can be run on your local machine, and gets basic support via EMail and via th"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

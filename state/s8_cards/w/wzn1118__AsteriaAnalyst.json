@@ -1,0 +1,110 @@
+{
+ "fn": "wzn1118/AsteriaAnalyst",
+ "sha": "5ee3cf3a54fb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向企业的本地数据分析与统计实验、管理报告工作台",
+  "review": "本地运行的 Windows 数据分析工作台：接入 CSV/XLSX 等本机数据，通过 Analysis Lab 从 362 条注册统计方法（81 条可运行）中选择方法执行统计、机器学习与可视化；正式管理报告走内置强制处理链，数值由确定性执行器计算，AI 输出需留下追溯工件并通过结构校验，质量不达标不进入发布流程。另含数据质量核验、报告修订与版本发布、Skill/Report Agent Team/Codex Runtime 扩展层。前端 Next.js 16，后端 FastAPI，当前从源码启动（Python 3.11 + Node.js 20+），Windows 便携版开发中。",
+  "highlights": [
+   "362 条注册统计方法（81 条可运行），展开为 4,028 张 Lab 方法卡",
+   "正式报告强制处理链：确定性数值计算 + AI 输出追溯工件与结构校验",
+   "数据质量识别：字段类型、缺失值、异常值、重复项与时间连续性",
+   "报告修订工作区：批注、附件、差异与本地版本发布"
+  ],
+  "use_cases": [
+   "把销售、库存、成本等业务表格转化为可审阅的管理报告",
+   "统计实验与方法比较，保留字段角色、参数与运行记录",
+   "对既有报告做批注审阅与版本管理",
+   "沉淀数据字典与质量证据做口径治理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    29,
+    31
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据分析",
+   "统计分析",
+   "商业智能",
+   "报告生成",
+   "桌面工作台"
+  ],
+  "domain": "企业数据分析/商业智能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与中文文档导航",
+   "面向中文管理报告交付场景"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: > 面向经营分析、统计建模、数据质量核验与正式管理报告交付的本地工作台。Asteria Analyst 将数据接入、字段语义理解、分析方案、确定性计算、证据校验、报告生成、协作修订和版本发布连成一条可追溯的数据分析流程。",
+   "L64: - **经营与管理分析**：将销售、客户、渠道、库存、成本、预算或运营表格转化为可审阅的指标、图表、解释和管理报告材料。",
+   "L102: 这条链路分别承担数据画像、字段语义映射、业务场景路由、指标派生规划、确定性数值计算、证据验证、报告绑定与发布门控。AI 输出需要留下追溯工件并通过结构校验；数值由确定性执行器计算；缺少必要追溯信息或质量未达到发布要求时，正式报告不会进入发布"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     35,
+     40
+    ],
+    "quotes": [
+     "### 当前可用：从源码启动",
+     "git clone https://github.com/wzn1118/AsteriaAnalyst.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

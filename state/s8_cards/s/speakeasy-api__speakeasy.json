@@ -1,0 +1,177 @@
+{
+ "fn": "speakeasy-api/speakeasy",
+ "sha": "c4ce0c0e2c48",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 API 团队的 OpenAPI 工具链：生成多语言 SDK 与 Terraform Provider",
+  "review": "Speakeasy 提供以 OpenAPI 3.X 为输入的开发工具链：生成 10 种语言的类型安全 SDK（TypeScript/Python/Go/Java/C#/PHP/Ruby/Unity 等）、基于 Go SDK 的 Terraform Provider、基于 Arazzo 的契约测试与内置 mock server，并支持 lint/clean/diff OpenAPI 规范（基于 Overlays）、代码示例同步与包管理器发布管理。CLI 可经 Homebrew/Winget/Chocolatey/Shell 脚本/Docker 安装；另提供 Agent Skills 包供 Claude Code、Cursor、GitHub Copilot 等 AI 编码代理调用其功能。",
+  "highlights": [
+   "从 OpenAPI 生成 10 种语言的类型安全 SDK",
+   "生成 Terraform Provider 与契约测试（Arazzo + mock server）",
+   "OpenAPI 3.X 规范的 lint/清理/diff/编辑工具链（Overlays）",
+   "Agent Skills 包支持 Claude Code、Cursor、GitHub Copilot 等 15+ 平台的 AI 编码代理"
+  ],
+  "use_cases": [
+   "为自家 API 生成并发布多语言 SDK",
+   "从 OpenAPI 规范构建 Terraform Provider",
+   "在 AI 编码代理中通过技能命令初始化和再生成 SDK 项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API 工具链",
+   "SDK 生成",
+   "OpenAPI",
+   "Terraform",
+   "AI 编码代理"
+  ],
+  "domain": "API 开发工具/开发者体验",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L49:  Polished and type-safe SDKs, Terraform providers and Contract Tests for your API. 10 Languages and counting.",
+   "L115: - SDK code that looks like you wrote it. Optimised for performance, debuggability and modern idiomatics."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     37,
+     39
+    ],
+    "note": "出现在 Trusted By 客户展示，非接入关系",
+    "quotes": [
+     " <a href=\"https://github.com/OpenRouterTeam/typescript-sdk\" target=\"_blank\">",
+     " OpenRouter"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "note": "Claude Code 列为 Agent Skills 支持平台",
+    "quotes": [
+     "- Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     119,
+     149
+    ],
+    "note": "L119 为生成 SDK 的发布方式描述；L149 为 Agent Skills 包安装命令，均非 CLI 本体安装",
+    "quotes": [
+     "- Make `npm install your-api`. Manage versioning and publishing to package managers",
+     "npx skills add speakeasy-api/agent-skills"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     130
+    ],
+    "note": "CLI 官方安装途径之一",
+    "quotes": [
+     "- Homebrew"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "note": "Agent Skills 支持平台",
+    "quotes": [
+     "- Claude Code"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     155
+    ],
+    "note": "Agent Skills 支持平台",
+    "quotes": [
+     "- Cursor"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     156
+    ],
+    "note": "Agent Skills 支持平台",
+    "quotes": [
+     "- GitHub Copilot"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

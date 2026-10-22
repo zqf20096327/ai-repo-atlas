@@ -1,0 +1,97 @@
+{
+ "fn": "render-examples/fastai-v3",
+ "sha": "2fb68c4ebd32",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Render 上部署 fast.ai 模型的起始模板应用",
+  "review": "基于 fast.ai v3 的模型部署示例仓库：提供可直接改造的 starter 应用结构，用于将 fast.ai 训练的图像分类模型部署到 Render 平台，示例为熊类图片分类。支持通过 Docker 在本地构建和运行进行测试，生产部署遵循 fast.ai 官方 Render 部署指南，线上示例应用运行在 onrender.com。面向使用 fast.ai 课程并希望上线模型的学习者与开发者。",
+  "highlights": [
+   "提供 fast.ai 模型部署到 Render 的起始代码",
+   "Docker 本地构建与运行命令（端口 5000）",
+   "附带在线示例应用与生产部署指南链接"
+  ],
+  "use_cases": [
+   "把 fast.ai 训练的模型部署到 Render 平台",
+   "参考模板搭建自己的模型推理 Web 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://fastai-v3.onrender.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型部署",
+   "fast.ai",
+   "示例模板",
+   "Docker"
+  ],
+  "domain": "机器学习部署/示例",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # Starter for deploying fast.ai models on Render",
+   "L3: This repo can be used as a starting point to deploy fast.ai models on Render."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     10
+    ],
+    "quotes": [
+     "docker build -t fastai-v3 . && docker run --rm -it -p 5000:5000 fastai-v3"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

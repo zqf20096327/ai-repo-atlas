@@ -1,0 +1,110 @@
+{
+ "fn": "LSTM-Kirigaya/slidev-ai",
+ "sha": "d4bee5a4c517",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 LLM 把高密度文本生成 Slidev 在线演示文稿的 Web 应用",
+  "review": "面向工程师与学术用户的 Web 应用：读取结构化的高密度文本材料，借助 LLM 生成基于 Slidev 的在线演示文稿（PPT+讲稿），适合团队汇报、内部技术分享等文本转幻灯片场景；明确不适用于需要深度理解与重构内容的场景（如论文解读、年报）。技术栈为 NestJS 后端（SQLite、Puppeteer）+ Vite/Vue 前端，通过环境变量配置 OpenAI 兼容 API，提供 Docker 双容器部署。它是 OpenMCP 生态的下游实现，曾获 ModelScope MCP&Agent 竞赛最佳应用奖。",
+  "highlights": [
+   "LLM 生成基于 Slidev 的演示文稿与讲稿",
+   "NestJS + SQLite + Puppeteer 后端，Vite+Vue 前端",
+   "docker-compose 双容器部署，数据卷持久化",
+   "OpenMCP agent 开发的参考实现与模板"
+  ],
+  "use_cases": [
+   "把结构化的汇报文本快速转成在线幻灯片",
+   "团队例会、内部技术分享的 PPT 生成",
+   "作为 OpenMCP 框架构建领域 agent 的参考实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "演示文稿生成",
+   "LLM应用",
+   "agent",
+   "Web应用"
+  ],
+  "domain": "办公/内容生成工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档入口",
+   "Bilibili 演示视频",
+   "QQ 开发者群（OpenMCP）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Slidev-AI is a web app that leverages LLM (Large Language Model) technology to make creating Slidev-based online present",
+   "L25: Slidev AI is designed for scenarios where you have a high-density text material that you want to present in PPT format a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     51,
+     74
+    ],
+    "quotes": [
+     "We provide `backend/Dockerfile`, `frontend/Dockerfile`, and `docker-compose.yml`.",
+     "docker compose up -d --build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    94
+   ],
+   "note": "MIT 许可附加商用条款",
+   "quotes": [
+    "Slidev AI is open-source software licensed under the **MIT License** with additional terms for commercial use. See LICEN"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

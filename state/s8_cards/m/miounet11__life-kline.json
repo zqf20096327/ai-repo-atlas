@@ -1,0 +1,128 @@
+{
+ "fn": "miounet11/life-kline",
+ "sha": "59a761f1723a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 大模型+八字命理的人生运势 K 线可视化 Web 应用",
+  "review": "将传统八字排盘结果转成 1-100 岁的人生运势 K 线图（大运/流年双轨、OHLC 式图表），并由兼容 OpenAI API 格式的大模型生成命理分析报告（性格、事业财运、婚姻、健康等），另含加密货币交易运势分析、名人命盘案例库与积分定价系统。面向普通用户与自托管用户：前端 React 19 + Vite，后端 Express.js + SQLite，八字计算基于 lunar-javascript；自托管需 Node.js 18+ 并配置 API Key。README 声明仅供娱乐与文化研究。",
+  "highlights": [
+   "八字排盘 + 真太阳时修正 + 1-100 岁运势 K 线图（大运/流年双轨）",
+   "兼容任何 OpenAI API 格式服务的 AI 深度命理分析",
+   "自托管支持本地模型（LM Studio、Ollama 等）与积分定价自定义",
+   "名人命盘案例库与知识殿堂内容模块"
+  ],
+  "use_cases": [
+   "输入出生时间地点，用 K 线图查看人生运势走势",
+   "获取 AI 生成的命理分析报告（性格/事业/婚姻/健康）",
+   "自托管部署并用自己的 AI API Key 控制数据与成本",
+   "对比名人命盘案例学习命理知识"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.life-kline.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "八字命理",
+   "运势可视化",
+   "自托管 Web 应用",
+   "娱乐/文化研究"
+  ],
+  "domain": "命理娱乐/数据可视化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "八字/农历命理核心功能",
+   "提及国内各类中转 API"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20:  基于 AI 大模型 + 传统八字命理，以金融 K 线图的形式展现人生运势轨迹",
+   "L94: ### AI 深度分析",
+   "L162: - OpenAI GPT-4 / GPT-4o / GPT-3.5"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     163
+    ],
+    "note": "列出 Claude 通过兼容接口可用",
+    "quotes": [
+     "- Anthropic Claude (通过兼容接口)"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     166
+    ],
+    "note": "列为可用的本地模型之一",
+    "quotes": [
+     "- 本地模型（如 LM Studio、Ollama 等）"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     142
+    ],
+    "quotes": [
+     "git clone https://github.com/miounet11/life-kline.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

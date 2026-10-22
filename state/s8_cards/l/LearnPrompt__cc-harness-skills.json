@@ -1,0 +1,141 @@
+{
+ "fn": "LearnPrompt/cc-harness-skills",
+ "sha": "d59510211c0a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向编码 Agent 的六件套便携技能包：记忆/压缩/验证/路由",
+  "review": "从一个公开镜像的 CC 编码 Agent 代码库中提炼并重写的六个可安装技能，以 SKILL.md 便携包形式分发，可在 Claude Code、Codex、OpenClaw 三种宿主运行时中安装，不依赖私有运行时内部结构。技能覆盖记忆索引整合、持久记忆抽取、完成验证门、多 Agent 分工协调、长会话九段续接摘要与轻量主动任务。提供 npx 一键安装、手动复制与检查/发布脚本。Codex 侧仅验证了包结构，运行时冒烟测试因本地认证未完成。",
+  "highlights": [
+   "六个技能包：记忆整合/记忆抽取/验证门/群体协调/上下文压缩/主动任务",
+   "跨 Claude Code、Codex、OpenClaw 三种宿主运行时安装",
+   "npx skills add 一键安装，或手动复制 skills 目录",
+   "每个包含 SKILL.md、prompt 模板、源注与脚本"
+  ],
+  "use_cases": [
+   "给 Claude Code / Codex / OpenClaw 加一层共享的记忆与验证能力",
+   "长会话压缩与交接时保留用户修正",
+   "多 Agent 分工执行大型任务且不污染主上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "编码Agent",
+   "记忆管理",
+   "上下文压缩",
+   "多Agent协调"
+  ],
+  "domain": "开发者工具/Agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README（中文）",
+   "LearnPrompt 出品，公众号「卡尔的AI沃茨」",
+   "learnprompt.pro/skills 更多技能导流"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Portable agent skills distilled from a publicly mirrored `CC` coding-agent codebase, then rewritten so they can be insta",
+   "L113: |CC Dream Memory|`dream-memory`|Consolidates logs, recent sessions, and topic memories into a short durable memory index",
+   "L115: |CC Verification Gate|`verification-gate`|Runs a read-only challenge pass after implementation to distinguish verified f"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     12,
+     35,
+     39,
+     105
+    ],
+    "note": "技能可安装进 Claude Code（Anthropic 的 CLI 宿主）",
+    "quotes": [
+     "Portable agent skills distilled from a publicly mirrored `CC` coding-agent codebase, then rewritten so they can be insta",
+     "mkdir -p ~/.claude/skills",
+     "Then invoke it in `Claude Code`:",
+     "- teams using `Claude Code`, `Codex`, or `OpenClaw` and wanting a shared skill layer"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     20,
+     23
+    ],
+    "quotes": [
+     "npx skills add LearnPrompt/cc-harness-skills -g",
+     "npx skills add LearnPrompt/cc-harness-skills -s verification-gate -g"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     12,
+     113
+    ],
+    "note": "作为可安装技能的宿主运行时被提及，非替代/竞品",
+    "quotes": [
+     "Portable agent skills distilled from a publicly mirrored `CC` coding-agent codebase, then rewritten so they can be insta",
+     "|CC Dream Memory|`dream-memory`|Consolidates logs, recent sessions, and topic memories into a short durable memory index"
+    ]
+   }
+  ]
+ }
+}

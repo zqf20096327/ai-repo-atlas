@@ -1,0 +1,132 @@
+{
+ "fn": "122-syf-wcy/PhysicsOS",
+ "sha": "127a66f7f9ee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向初高中物理学习的公益可视化 AI 智能体：AI 解题+物理引擎仿真",
+  "review": "面向初高中物理教学的个人物理实验与学习平台（非学校 LMS）。AI 理解题面后调用物理引擎，将力学、电磁、光学、机械波等十二类物理过程转化为可交互、可校验的可视化场景；会话 Agent 通过 physics_solve_question 等七个工具解题、开实验、改条件，数值全部来自领域引擎并逐项验证。运行在 DeepSeek Harness Web Client 之上，含 80 道内置题、题转实验室与跨设备学习记录同步。公测阶段，单副本部署，需 Node.js>=24 与 Git submodule/overlay 流程启动。",
+  "highlights": [
+   "十二类物理实验领域引擎（力学/电路/电磁感应/光学/机械波等），数值由引擎给出并带验证测试",
+   "Agent 通过七个工具调用物理引擎解题与仿真，数值不来自模型本身",
+   "80 道内置题的 Question Runtime/Engine/Verifier/Observation 链，题与实验室共享同一 PhysicsScene",
+   "用户侧公共模型背后为管理员可运维的模型通道与号池"
+  ],
+  "use_cases": [
+   "学生输入物理题，获得 AI 讲解与引擎给定的可视化可复现场景",
+   "在实验中心调节参数观察电路、磁场、机械波等物理过程",
+   "教师以个人账号演示实验与解题链路"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://physics.dongsiwei.com",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    18
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "物理教育",
+   "AI智能体",
+   "物理仿真",
+   "K12",
+   "可视化学习"
+  ],
+  "domain": "教育/物理仿真",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向国内初高中物理教学",
+   "公益站 token 支撑模型额度"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L22: PhysicsOS 是一个面向初高中物理学习的公益可视化智能体，通过 AI 理解题目并结合物理引擎，将抽象物理过程转化为可交互、可观察、可计算、可验证的真实物理场景。",
+   "L83: - Harness 会话里的模型可以真正调用物理引擎：Agent 预设「物理学习模式」（`physics-student`）挂载 `@deepseek-ai/dsh-tool-physicsos`，模型通过 `physics_solve_q"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     24,
+     57,
+     83
+    ],
+    "note": "正式产品运行于 DeepSeek Harness，Agent 挂载 @deepseek-ai/dsh-tool-physicsos 专属工具",
+    "quotes": [
+     "当前正式产品运行在 DeepSeek Harness Web Client 中，Physics Engine 负责结果，Observation 与统一 `PhysicsCanvas` 负责把结果变成可交互视觉。",
+     "vendor/deepseek-harness/apps/web",
+     "- Harness 会话里的模型可以真正调用物理引擎：Agent 预设「物理学习模式」（`physics-student`）挂载 `@deepseek-ai/dsh-tool-physicsos`，模型通过 `physics_solve_q"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     122
+    ],
+    "note": "pnpm install 属包管理器安装，非 npm 命令本身；本产品另有 git submodule + overlay + pnpm 流程（L120-122）",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    18
+   ],
+   "note": "L18 自述公测开放，非弃用"
+  }
+ }
+}

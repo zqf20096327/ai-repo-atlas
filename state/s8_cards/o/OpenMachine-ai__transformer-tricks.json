@@ -1,0 +1,197 @@
+{
+ "fn": "OpenMachine-ai/transformer-tricks",
+ "sha": "1fbf12ef05a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "简化并加速 Transformer 模型的技巧与工具集（PyPI 库）",
+  "review": "收录多项以'架构简约化'为思路的 Transformer 优化技巧：Slim attention（移除 MHA 的 V-cache）、FlashNorm（移除 RMSNorm 权重并入下一线性层）、MatShrink（进行中）、首层预计算、无残差 transformer 的 KV-weights 等，均配有论文、视频、notebook 与代码。提供 Python 包：可将任意 RMSNorm 系 HuggingFace 检查点转换为数学等价的 FlashNorm 变体并发布，支持逐层冗余 norm 消除（含 MLA 模型的部分消除路径）。适用于 LLM 推理优化方向的研究者与工程师。",
+  "highlights": [
+   "FlashNorm：将 RMSNorm 权重折叠进下一线性层，输出与源模型数学等价",
+   "支持 Llama/Mistral/Gemma/Qwen/SmolLM 等 RMSNorm 检查点的 FlashNorm 转换与发布",
+   "冗余 norm 消除（含 DeepSeek-V2 等 MLA 模型的部分消除方案），附资格检查工具",
+   "每项技巧配套论文、解释视频、Jupyter/Colab notebook"
+  ],
+  "use_cases": [
+   "把现有 HuggingFace 检查点转换为 FlashNorm 变体以精简权重",
+   "研究去除冗余 norm、V-cache 等架构简约化技巧",
+   "复现论文配套的 notebook 实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理优化",
+   "模型压缩/简化",
+   "Transformer架构",
+   "研究代码"
+  ],
+  "domain": "LLM/模型优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: A collection of tricks to simplify and speed up transformer models:",
+   "L52: The `strict=True` flag folds the per-channel norm weights `g` into the following linear layer and removes the now-redund"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "跟踪 FlashNorm 检查点在 vLLM 的支持状态",
+    "quotes": [
+     "The `strict=True` flag folds the per-channel norm weights `g` into the following linear layer and removes the now-redund"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     75
+    ],
+    "note": "DeepSeek-V2 系 MLA 模型作为不适配案例被提及",
+    "quotes": [
+     "Important: eligibility must be checked, not assumed. In MLA models (DeepSeek-V2 family, MiniCPM3) the decoupled RoPE-key"
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     28,
+     30
+    ],
+    "quotes": [
+     "Install the transformer tricks package:",
+     "pip install transformer-tricks"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     33,
+     35
+    ],
+    "quotes": [
+     "Alternatively, to run from latest repo:",
+     "git clone https://github.com/OpenMachine-ai/transformer-tricks.git"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     84,
+     85,
+     86,
+     87,
+     88
+    ],
+    "note": "配套实验 notebook 的运行方式",
+    "quotes": [
+     "- Slim attention: Colab",
+     "- Flash normalization: Colab Colab Colab",
+     "- Flashify your own model and publish to HuggingFace: Colab",
+     "- MatShrink: Colab Colab",
+     "- Removing weights from skipless transformers: Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     43
+    ],
+    "note": "被转换/发布检查点的平台",
+    "quotes": [
+     "Convert any RMSNorm-based HuggingFace checkpoint to a `-FlashNorm` variant and publish it under your own account. The re"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     43
+    ],
+    "note": "Qwen 作为兼容的 RMSNorm 模型被列举",
+    "quotes": [
+     "Convert any RMSNorm-based HuggingFace checkpoint to a `-FlashNorm` variant and publish it under your own account. The re"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [
+     71
+    ],
+    "note": "误命中：此处 perplexity 为困惑度指标，非产品",
+    "quotes": [
+     "The cancellation is exact for unregularized RMS and epsilon-approximate in practice. Validated on Gemma-4-E2B and Gemma-"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "fn": "kieranjwood/slow-momentum-fast-reversion",
+ "sha": "dfd28d6dac14",
+ "source": "readme",
+ "identity": {
+  "one_liner": "论文配套代码：深度学习+变点检测的动量交易策略",
+  "review": "Oxford 研究者论文《Slow Momentum with Fast Reversion: A Trading Strategy Using Deep Learning and Changepoint Detection》的官方代码实现。在 Deep Momentum Network（LSTM 架构，同时学习趋势估计与仓位 sizing）管道中插入在线变点检测模块，输出变点位置与严重度分数，用于在趋势反转时快速切换快慢策略。数据基于 Nasdaq Data Link（Quandl）的 600+ 期货连续合约，README 给出下载数据、构造特征与运行 CPD 模块的命令。README 顶部声明该工作已被 Momentum Transformer 论文扩展并建议参考其仓库。",
+  "highlights": [
+   "在 LSTM 动量网络管道中插入在线变点检测（CPD）模块",
+   "CPD 模块输出变点位置与严重度分数",
+   "基于 Quandl 600+ 期货连续合约数据（1990-2020 期间测试 50 个品种）",
+   "提供数据下载、特征构造与 CPD 运行的命令行步骤"
+  ],
+  "use_cases": [
+   "复现论文中的动量+变点检测交易策略实验",
+   "研究变点检测如何改善动量策略对市场状态切换的响应",
+   "作为 Deep Momentum Network 方向研究的代码基础"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/pdf/2105.13727.pdf",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化交易",
+   "深度学习",
+   "变点检测",
+   "论文代码",
+   "金融时间序列"
+  ],
+  "domain": "量化金融/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: This code accompanies the the paper Slow Momentum with Fast Reversion: A Trading Strategy Using Deep Learning and Change",
+   "L21: > Momentum strategies are an important part of alternative investments and are at the heart of commodity trading advisor"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    19
+   ]
+  }
+ }
+}

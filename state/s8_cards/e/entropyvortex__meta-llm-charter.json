@@ -1,0 +1,164 @@
+{
+ "fn": "entropyvortex/meta-llm-charter",
+ "sha": "63d531c13864",
+ "source": "readme",
+ "identity": {
+  "one_liner": "约束 LLM 编码代理行为的精简操作宪章（核心 2,399 字节）",
+  "review": "面向 Claude Code、Cursor 等编码代理的行为约束规范：以一份 2,399 字节、每会话自动加载的核心宪章（一个 Bias、元规则 META-0、九条规则）替代散文式提示，将需求分解、提问门禁、复现后再修复、证据标注、不可逆操作门禁等固化为确定性规则；另含三个显式调用的技能（/zero-pause、/weave、/premortem）与可选的写范围守卫钩子。README 明示 v3 尚无已发布的评测运行，历史数值标记为未验证。供希望在编码代理会话中施加工程纪律的开发者使用。",
+  "highlights": [
+   "核心宪章 2,399 字节，CI 门禁 2,400 字节，每会话自动加载",
+   "九条规则 + 元规则 META-0（OVERRIDE 声明式偏离，两项硬底线豁免）",
+   "三个显式调用技能与 PreToolUse 范围守卫钩子",
+   "证据自标注（[executed]/[inspected]/[assumed]），README 自述 v3 尚无已发布评测"
+  ],
+  "use_cases": [
+   "让编码代理遵守不可逆操作确认门禁与证据标注规范",
+   "在架构决策或高风险计划前调用 /premortem 做预失效分析",
+   "为并行多线任务使用 /weave 编排与范围守卫"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    76,
+    84
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示工程/宪章",
+   "编码代理治理",
+   "Claude Code 配置",
+   "代理行为约束"
+  ],
+  "domain": "LLM 代理工程/提示工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: A compact, operational constitution that turns frontier coding agents (Claude Code, Cursor, etc.) from eager-junior beha",
+   "L19: |`CLAUDE.md`|The core charter: one Bias, one meta-rule (META-0), nine rules. 2,399 bytes `[executed: wc -c]`, CI-gated a",
+   "L39: curl -O https://raw.githubusercontent.com/entropyvortex/meta-llm-charter/main/CLAUDE.md"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     13,
+     19,
+     51
+    ],
+    "note": "技能与钩子为 Claude Code 原生，CLAUDE.md 自动加载",
+    "quotes": [
+     "A compact, operational constitution that turns frontier coding agents (Claude Code, Cursor, etc.) from eager-junior beha",
+     "|`CLAUDE.md`|The core charter: one Bias, one meta-rule (META-0), nine rules. 2,399 bytes `[executed: wc -c]`, CI-gated a",
+     "- **Claude Code**: reads `CLAUDE.md` automatically; the skills appear as `/zero-pause`, `/weave`, and `/premortem`."
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "compat",
+    "lines": [
+     101,
+     103
+    ],
+    "note": "提供 GROK-META.md 单文件适配用于 Grok Custom Instructions",
+    "quotes": [
+     "## Grok",
+     "→ `GROK-META.md` — a single-file adaptation generated from the core charter, for Grok's Custom Instructions."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     39,
+     45
+    ],
+    "quotes": [
+     "curl -O https://raw.githubusercontent.com/entropyvortex/meta-llm-charter/main/CLAUDE.md",
+     "git clone https://github.com/entropyvortex/meta-llm-charter"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     13,
+     51
+    ],
+    "note": "被配置的目标代理运行时",
+    "quotes": [
+     "A compact, operational constitution that turns frontier coding agents (Claude Code, Cursor, etc.) from eager-junior beha",
+     "- **Claude Code**: reads `CLAUDE.md` automatically; the skills appear as `/zero-pause`, `/weave`, and `/premortem`."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     13,
+     52
+    ],
+    "note": "通过 Cursor Rules 粘贴核心使用",
+    "quotes": [
+     "A compact, operational constitution that turns frontier coding agents (Claude Code, Cursor, etc.) from eager-junior beha",
+     "- **Cursor**: paste the core into Cursor Rules (or `.cursor/rules`)."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

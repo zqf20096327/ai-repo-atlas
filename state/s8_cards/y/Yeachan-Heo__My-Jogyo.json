@@ -1,0 +1,157 @@
+{
+ "fn": "Yeachan-Heo/My-Jogyo",
+ "sha": "a3274df954f7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenCode/Claude Code 的科研自动化插件：多 agent 协作生成可复现 notebook",
+  "review": "面向 OpenCode 与 Claude Code 的研究自动化系统，以四个 agent 角色分工：Gyoshu 负责规划与编排，Jogyo 通过持久化 Python REPL 执行实验，Baksa 以对抗方式核验声明并计算信任分，Paper Writer 将标记化产出转为叙述性报告。研究过程自动生成可复现的 .ipynb，支持交互/自主/REPL 三种模式；发现须附置信区间与效应量等统计标记方可通过质量门。通过 MCP 服务器、OpenCode 插件（npm 分发）或 CLI 安装；要求 Python 3.10+、Node.js 18+，Windows 仅支持 WSL2。",
+  "highlights": [
+   "四个 agent 角色分工：规划、执行、对抗核验、报告撰写",
+   "持久化 Python REPL 与自动生成可复现 .ipynb",
+   "[OBJECTIVE]/[HYPOTHESIS]/[FINDING] 等结构化标记组织研究输出",
+   "信任分质量门：发现须含置信区间与效应量，低于阈值降级为探索性观察"
+  ],
+  "use_cases": [
+   "设定研究目标后让 agent 自主完成 EDA、建模与报告",
+   "在 OpenCode/Claude Code 中以对话方式做交互式数据分析",
+   "把实验过程自动沉淀为带统计证据的可复现 notebook"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科研自动化",
+   "多agent编排",
+   "Jupyter/notebook",
+   "AI编程助手插件",
+   "数据分析"
+  ],
+  "domain": "科研自动化/AI 编程工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文等多语言入口"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: Together, they form an end-to-end research automation system for OpenCode that turns your research goals into reproducib",
+   "L41: ### Option 1: Claude Code (MCP Server)"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     41,
+     43
+    ],
+    "note": "提供 Claude Code 专属 MCP 服务器接入通道",
+    "quotes": [
+     "### Option 1: Claude Code (MCP Server)",
+     "Gyoshu works with Claude Code via the Model Context Protocol (MCP). Install in one command:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "quotes": [
+     "git clone https://github.com/Yeachan-Heo/My-Jogyo.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     89
+    ],
+    "quotes": [
+     "npm install -g gyoshu"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     329
+    ],
+    "note": "项目 .venv 内安装 pandas 等依赖库，非本产品安装途径",
+    "quotes": [
+     ".venv/bin/pip install pandas numpy scikit-learn matplotlib seaborn"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     41,
+     336
+    ],
+    "note": "被接入的宿主工具，非替代/竞品",
+    "quotes": [
+     "### Option 1: Claude Code (MCP Server)",
+     "- **Claude Code** or **OpenCode** v0.1.0+"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

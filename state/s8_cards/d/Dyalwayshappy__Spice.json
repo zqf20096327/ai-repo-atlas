@@ -1,0 +1,169 @@
+{
+ "fn": "Dyalwayshappy/Spice",
+ "sha": "b99ff197ed5e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Agent 系统的决策层运行时：感知上下文、比较选项、审批后委托执行",
+  "review": "Spice 是面向 agentic AI 系统的决策运行时，运行 perception → state model → simulation → decision → execution → reflection 循环。它在执行前把下一步动作转为有来源、可比较、需审批的决策卡（候选、证据、取舍、审批点），再委托给 Claude Code、Codex、Hermes、OpenClaw 等执行器；感知工具只读，执行跨界需显式审批。LLM 用于候选扩展与模拟等环节，支持 OpenRouter/OpenAI/Anthropic/DeepSeek/MiMo 等提供方及 deterministic 无模型路径，另有 subprocess 本地路径。以 pip 包与源码两种方式安装，提供交互 shell 与一次性 CLI 命令。",
+  "highlights": [
+   "决策与执行分离：决策卡含候选、证据、取舍与审批点",
+   "5 种执行器委托（Codex/Claude Code/Hermes/OpenClaw/SDEP 子进程），执行需审批",
+   "只读感知路径：工作区/git 状态/URL/轮询/OpenChronicle MCP",
+   "decision.md 用户可编辑的决策偏好与约束文件"
+  ],
+  "use_cases": [
+   "在让执行 agent 动手前先比较方案并留存审计痕迹",
+   "为 Claude Code/Codex 等执行器加一层审批边界的决策控制",
+   "通过交互 shell 询问下一步该做什么及原因"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "Spice-live-demo（L105，README 内链接）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "决策层",
+   "审批/治理",
+   "LLM编排"
+  ],
+  "domain": "AI Agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README（L4）",
+   "Bilibili 演示视频（L109）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L82: Spice is a **decision runtime for agentic AI systems**.",
+   "L98: Spice does not replace agents like Claude Code, Codex, Hermes, or OpenClaw.",
+   "L341: Spice separates decision from execution:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     291
+    ],
+    "note": "LLM 提供方表列 Anthropic/Claude provider，读取 ANTHROPIC_API_KEY",
+    "quotes": [
+     "|Anthropic|`anthropic`|`ANTHROPIC_API_KEY`|Claude provider.|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     272,
+     289
+    ],
+    "note": "示例配置启用 openrouter 并读取 OPENROUTER_API_KEY",
+    "quotes": [
+     "  --provider openrouter \\",
+     "|OpenRouter|`openrouter`|`OPENROUTER_API_KEY`|Recommended first hosted path. Works with models such as `minimax/minimax-"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     292
+    ],
+    "note": "LLM 提供方表列 DeepSeek",
+    "quotes": [
+     "|DeepSeek|`deepseek`|`DEEPSEEK_API_KEY`|Works for normal responses; some flash models may be less stable for strict JSON"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     207,
+     219
+    ],
+    "quotes": [
+     "pip install spice-runtime",
+     "pip install -U spice-runtime"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     193
+    ],
+    "quotes": [
+     "git clone https://github.com/Dyalwayshappy/Spice.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     98,
+     311
+    ],
+    "note": "README 明确不替代而是委托给 Claude Code（作为执行器之一）",
+    "quotes": [
+     "Spice does not replace agents like Claude Code, Codex, Hermes, or OpenClaw.",
+     "|Claude Code|`claude_code`|Handoff to Claude Code CLI|Approval-gated|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

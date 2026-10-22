@@ -1,0 +1,233 @@
+{
+ "fn": "dimetron/pi-go",
+ "sha": "37324bbc7474",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的终端 AI 编程 agent（Go 实现）",
+  "review": "基于 Google ADK Go 的终端编程 agent：以 Bubble Tea v2 TUI 交互，接入 Anthropic/OpenAI/Gemini/Mistral/xAI/Azure/OpenRouter/Ollama 等多家 LLM 提供商，运行受 os.Root 限制在项目目录内的沙箱工具（读写、shell、grep、git 等）。内置进程式子 agent 系统（explore/plan/reviewer 等 6 类）、Go/TS/Python/Rust/Java 的 LSP 集成、JSONL 会话持久化与分支、SQLite 存储的 4 层上下文记忆，支持 MCP、hooks、skills 及 Claude Code 兼容插件市场安装。要求 Go 1.27+ 与至少一个 LLM API key 或运行中的 Ollama 实例。",
+  "highlights": [
+   "多提供商 LLM 接入（Anthropic/OpenAI/Gemini/Mistral/xAI/Azure/OpenRouter/Ollama 等）",
+   "os.Root 沙箱限制工具仅操作项目目录",
+   "进程式子 agent 系统（explore/plan/designer/reviewer/task/quick_task）",
+   "Memory Palace：SQLite 存储的 4 层上下文记忆与 all-MiniLM-L6-v2 语义嵌入",
+   "pi verify 基于 Sigstore 证明的发布校验，附带 SBOM"
+  ],
+  "use_cases": [
+   "在终端里让 AI 读取/编辑代码并执行命令完成编程任务",
+   "通过子 agent 与 Plan-Driven Development 流程拆解开发任务",
+   "在 IDE/编辑器中经 Unix socket JSON-RPC 集成使用",
+   "用 Ollama 本地模型离线运行编程 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI/TUI",
+   "coding agent",
+   "多模型接入",
+   "MCP",
+   "子agent"
+  ],
+  "domain": "开发者工具/AI 编程助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai",
+   "openrouter",
+   "azure",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: A terminal-based coding agent built on Google ADK Go. It connects to multiple LLM providers, runs",
+   "L19: - **Multi-provider LLM** — Claude (Anthropic), GPT/O-series (OpenAI), Gemini (Google), Mistral, Grok (xAI), Azure OpenAI"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     19,
+     219
+    ],
+    "quotes": [
+     "- **Multi-provider LLM** — Claude (Anthropic), GPT/O-series (OpenAI), Gemini (Google), Mistral, Grok (xAI), Azure OpenAI",
+     "|Anthropic|`claude-*`|`ANTHROPIC_API_KEY` (or `ANTHROPIC_AUTH_TOKEN`)|`ANTHROPIC_BASE_URL`|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     19,
+     223
+    ],
+    "quotes": [
+     "- **Multi-provider LLM** — Claude (Anthropic), GPT/O-series (OpenAI), Gemini (Google), Mistral, Grok (xAI), Azure OpenAI",
+     "|xAI (Grok)|`grok-*`|`XAI_API_KEY`|`XAI_BASE_URL`|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     19,
+     224
+    ],
+    "quotes": [
+     "- **Multi-provider LLM** — Claude (Anthropic), GPT/O-series (OpenAI), Gemini (Google), Mistral, Grok (xAI), Azure OpenAI",
+     "|OpenRouter|`openrouter/<model>`|`OPENROUTER_API_KEY`|`OPENROUTER_BASE_URL`|"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     19,
+     226
+    ],
+    "quotes": [
+     "- **Multi-provider LLM** — Claude (Anthropic), GPT/O-series (OpenAI), Gemini (Google), Mistral, Grok (xAI), Azure OpenAI",
+     "|Azure OpenAI|`azure/<deployment>`|`AZUREOPENAI_API_KEY`|—|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     19,
+     211,
+     228
+    ],
+    "note": "本地或云 Ollama 均为受支持提供商",
+    "quotes": [
+     "- **Multi-provider LLM** — Claude (Anthropic), GPT/O-series (OpenAI), Gemini (Google), Mistral, Grok (xAI), Azure OpenAI",
+     "- At least one LLM provider API key or a running Ollama instance",
+     "|Ollama (local)|`ollama/<model>`|none|`OLLAMA_HOST` (default `http://localhost:11434`)|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     257
+    ],
+    "note": "示例中经 Ollama 调用的模型名",
+    "quotes": [
+     "Ollama 0.12 — so `pi --model deepseek-v3.1:671b-cloud` works with no key at all."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     61,
+     69,
+     137
+    ],
+    "note": "安装脚本下载 release 二进制，Releases 页提供预编译二进制",
+    "quotes": [
+     "curl -fsSL https://raw.githubusercontent.com/dimetron/pi-go/main/scripts/install.sh | bash",
+     "powershell -NoProfile -Command \"iwr https://raw.githubusercontent.com/dimetron/pi-go/main/scripts/install.ps1 -UseBasicP",
+     "Download the latest release for your platform from the Releases page."
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     122
+    ],
+    "quotes": [
+     "go install github.com/dimetron/pi-go/cmd/pi@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     130,
+     132
+    ],
+    "quotes": [
+     "git clone https://github.com/dimetron/pi-go.git",
+     "go install ./cmd/pi"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "none",
+    "lines": [],
+    "note": "窗外 L680，上下文不明，未按安装途径采信",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "note": "兼容其插件市场格式，非自称替代",
+    "quotes": [
+     "- **Plugin marketplaces** — Install skill bundles from any Claude Code-compatible plugin marketplace, with version track"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

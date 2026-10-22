@@ -1,0 +1,233 @@
+{
+ "fn": "praetorian-inc/julius",
+ "sha": "174a136628b2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向安全人员的 LLM 服务指纹识别工具：探测端点运行哪种 AI 服务",
+  "review": "Go 编写的命令行安全侦察工具：向目标端点发送针对性 HTTP 探测，依据响应签名（状态码、响应体、Header）匹配识别其运行的 LLM 服务端软件，覆盖 64 种服务（自托管、网关、MCP、RAG 编排、云托管五大类），并以 1-100 特异性评分排序结果，可提取端点可用模型列表。支持单目标/文件/stdin 输入与 Table/JSON/JSONL 输出，探测规则以 YAML 文件定义可扩展，编译为单一二进制、完全离线运行。面向渗透测试与攻击面评估场景，仅发送标准 HTTP 请求，不做漏洞利用。",
+  "highlights": [
+   "识别 64 种 LLM 服务端软件（Ollama、vLLM、LiteLLM、TGI 等）",
+   "1-100 特异性评分，优先返回最具体匹配",
+   "从已识别端点提取可用模型列表",
+   "YAML 探测文件可扩展新服务，单一 Go 二进制离线运行"
+  ],
+  "use_cases": [
+   "渗透测试中判断开放端口运行的是哪种 LLM 服务",
+   "攻击面发现时批量扫描企业资产中的 AI 服务部署",
+   "安全评估后集成 JSON/JSONL 输出到报告流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI安全",
+   "渗透测试",
+   "指纹识别",
+   "侦察工具",
+   "CLI"
+  ],
+  "domain": "AI 安全/网络侦察",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **Julius** is an LLM service fingerprinting tool for security professionals. It detects which AI server software is runn",
+   "L24: **Julius solves this by automatically fingerprinting LLM services** - sending targeted HTTP probes and matching response"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     1,
+     5,
+     30,
+     72
+    ],
+    "note": "作为可检测识别的服务对象，非接入对象",
+    "quotes": [
+     "Julius - Open source LLM service fingerprinting tool for security professionals. Identify Ollama, vLLM, LiteLLM and 17+ ",
+     "> Identify Ollama, vLLM, LiteLLM, and 60+ AI services running on any endpoint in seconds.",
+     "|**63 LLM Services**|Detects Ollama, vLLM, LiteLLM, LocalAI, Hugging Face TGI, AWS Bedrock, and 57 more|",
+     "|Ollama|11434|Popular local LLM server with easy model management|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     1,
+     5,
+     30,
+     73
+    ],
+    "note": "同上，检测目标",
+    "quotes": [
+     "Julius - Open source LLM service fingerprinting tool for security professionals. Identify Ollama, vLLM, LiteLLM and 17+ ",
+     "> Identify Ollama, vLLM, LiteLLM, and 60+ AI services running on any endpoint in seconds.",
+     "|**63 LLM Services**|Detects Ollama, vLLM, LiteLLM, LocalAI, Hugging Face TGI, AWS Bedrock, and 57 more|",
+     "|vLLM|8000|High-throughput LLM inference engine|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     30,
+     143
+    ],
+    "note": "云托管类别中的检测目标",
+    "quotes": [
+     "|**63 LLM Services**|Detects Ollama, vLLM, LiteLLM, LocalAI, Hugging Face TGI, AWS Bedrock, and 57 more|",
+     "|AWS Bedrock|443|Foundation model hosting and inference|"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     90
+    ],
+    "note": "检测目标列表条目",
+    "quotes": [
+     "|KoboldCpp|5001|AI text-generation for GGML/GGUF models|"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     144
+    ],
+    "note": "Azure OpenAI 为检测目标",
+    "quotes": [
+     "|Azure OpenAI|443|Microsoft Azure OpenAI Service|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     149
+    ],
+    "note": "检测目标",
+    "quotes": [
+     "|Groq|443|LPU-accelerated cloud inference|"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     153
+    ],
+    "note": "检测目标",
+    "quotes": [
+     "|Together AI|443|Cloud inference for open-source models|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     45
+    ],
+    "note": "go install 官方安装命令",
+    "quotes": [
+     "go install github.com/praetorian-inc/julius/cmd/julius@latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     122,
+     126,
+     130,
+     133
+    ],
+    "note": "服务列表中描述性提及（ChatGPT 风格界面等）",
+    "quotes": [
+     "|BetterChatGPT|3000|Enhanced ChatGPT interface|",
+     "|HuggingFace Chat UI|3000|Open source ChatGPT-style interface|",
+     "|NextChat|3000|Self-hosted ChatGPT-style interface|",
+     "|Open WebUI|3000|ChatGPT-style interface for local LLMs|"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "检测目标",
+    "quotes": [
+     "|Dify|80|LLM app development platform with workflow orchestration|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     126
+    ],
+    "note": "检测目标/描述提及",
+    "quotes": [
+     "|HuggingFace Chat UI|3000|Open source ChatGPT-style interface|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

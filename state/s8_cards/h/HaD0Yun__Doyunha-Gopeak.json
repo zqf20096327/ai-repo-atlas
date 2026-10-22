@@ -1,0 +1,155 @@
+{
+ "fn": "HaD0Yun/Doyunha-Gopeak",
+ "sha": "9ce3b3d17cc1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Godot 引擎的 MCP 服务器，供 AI 助手运行与调试项目",
+  "review": "GoPeak 是一个 MCP server，让 Claude Desktop、Cursor、Cline 等 MCP 客户端直接对 Godot 4 项目执行端到端操作：项目管理、场景/脚本/资源编辑、运行与调试输出采集、LSP 诊断与补全（端口 6005）、DAP 断点调试（端口 6006）、输入注入与截图、CC0 资产检索等，宣称 95+ 工具。默认 compact 配置只暴露可信核心工具，其余按动态工具组按需激活以控制 token 用量。要求 Godot 4.x 与 Node.js 18+；runtime/LSP/DAP 等能力需相应 addon 或端口前置条件。通过 npx 或 npm 全局安装运行，也可从源码构建。",
+  "highlights": [
+   "95+ 工具覆盖项目管理、场景编辑、LSP/DAP 调试、输入注入与截图",
+   "compact 配置 + 动态工具组按需激活，控制 token 用量",
+   "tools/list 采用游标分页（默认每页 33 条）",
+   "提供 Editor Bridge / Runtime Addon 安装脚本（bash 与 PowerShell）"
+  ],
+  "use_cases": [
+   "让 AI 助手创建场景、编写脚本并运行项目修错",
+   "通过 DAP 断点与运行时检查做 Godot 调试",
+   "注入输入并截图做运行时自动化测试",
+   "用 visualizer.map 生成项目架构图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "多数动态工具组标注 audit-required/optional 等成熟度标签，未通过 fixture 验证"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "Godot",
+   "游戏开发",
+   "AI编程工具",
+   "调试"
+  ],
+  "domain": "游戏开发/AI 工具集成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文等多语言版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **GoPeak is an MCP server for Godot that lets AI assistants run, inspect, modify, and debug real projects end-to-end.**",
+   "L23: - MCP-compatible client (Claude Desktop, Cursor, Cline, OpenCode, etc.)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     23,
+     130
+    ],
+    "note": "Claude Desktop/Claude Code 作为 MCP 兼容客户端列举，非专门适配声明",
+    "quotes": [
+     "- MCP-compatible client (Claude Desktop, Cursor, Cline, OpenCode, etc.)",
+     "The server sends `notifications/tools/list_changed` so MCP clients (Claude Code, Claude Desktop) automatically refresh t"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     28,
+     34
+    ],
+    "quotes": [
+     "npx -y gopeak",
+     "npm install -g gopeak"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     184
+    ],
+    "quotes": [
+     "git clone https://github.com/HaD0Yun/Gopeak-godot-mcp.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     23,
+     148
+    ],
+    "note": "作为 MCP 客户端列举，非替代/竞品对象",
+    "quotes": [
+     "- MCP-compatible client (Claude Desktop, Cursor, Cline, OpenCode, etc.)",
+     "GoPeak uses **cursor-based pagination** for `tools/list` — even in `full` profile, tools are delivered in pages (default"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     130
+    ],
+    "note": "作为会刷新工具列表的 MCP 客户端提及",
+    "quotes": [
+     "The server sends `notifications/tools/list_changed` so MCP clients (Claude Code, Claude Desktop) automatically refresh t"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

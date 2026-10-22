@@ -1,0 +1,186 @@
+{
+ "fn": "hikariming/ghfind",
+ "sha": "f93515e3fd2a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 GitHub 档案打 0–100 价值/信任分并发现开发者的平台",
+  "review": "面向开源开发者的评估与发现平台：输入 GitHub handle，基于公开数据由确定性算法计算 0–100 分与五档评级，覆盖 6 个维度与 10 种刷量红旗，识别 PR 农场、AI 机器人与 fork 囤积者；LLM 仅做受限 ±10 校准与吐槽文案生成，不能改变基础分。附带排行榜、百分位、分享徽章、给 issue 打分的 GitHub App，并提供无 LLM 的 REST API、MCP 服务器与 npm/PyPI SDK。支持 Cloudflare Workers 自部署，CLI 需 Go 1.23+ 构建。",
+  "highlights": [
+   "确定性 0–100 评分：6 维度 + 10 种刷量红旗，倾向难伪造信号",
+   "LLM 两段式：仅允许 ±10 受限校准，文案层不能改分",
+   "REST API（无鉴权无 LLM）、MCP 服务器、npm/PyPI SDK",
+   "GitHub App 按分数带给新 issue 打 review: 标签"
+  ],
+  "use_cases": [
+   "给自己或他人的 GitHub 档案做量化评估与差距分析",
+   "发现生态中值得关注的贡献者与对标开发者",
+   "维护者按作者分数带分流 issue 审阅队列",
+   "通过 MCP 让 agent 在会话内调用评分"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ghfind.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者评估",
+   "GitHub分析",
+   "排行榜/发现",
+   "信任评分",
+   "自托管Web平台"
+  ],
+  "domain": "开发者工具/GitHub 分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README（含中文）[9,61]",
+   "默认 LLM 为 StepFun [71]"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L74: - **The base score is deterministic** — computed server-side by `lib/score.ts`.",
+   "L75: - The LLM runs in two separated passes: a factual judge may apply a bounded **±10** calibration, then a writer turns the"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "MCP server 可加入 Claude 等 MCP 客户端",
+    "quotes": [
+     "- **MCP server** — Streamable HTTP at ghfind.com/mcp; add it to Claude, Cursor, or any MCP client to score and compare G"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     250
+    ],
+    "note": "窗外行：OpenAI-compatible 可选提供商列举",
+    "quotes": [
+     "Click \"Use your own model\" on the page and enter Base URL + API Key + Model. Compatible with any OpenAI-style API (OpenA"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     250
+    ],
+    "note": "窗外行：可选 LLM 提供商列举",
+    "quotes": [
+     "Click \"Use your own model\" on the page and enter Base URL + API Key + Model. Compatible with any OpenAI-style API (OpenA"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     250
+    ],
+    "note": "窗外行：可选 LLM 提供商列举",
+    "quotes": [
+     "Click \"Use your own model\" on the page and enter Base URL + API Key + Model. Compatible with any OpenAI-style API (OpenA"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     86,
+     189
+    ],
+    "note": "单独发布的 SDK/CLI，非站点本体安装途径",
+    "quotes": [
+     "- **SDKs** — `@hikariming/ghfind` (npm) · `ghfind` (PyPI)",
+     "- `ghfind update npm`: `npm install -g @hikariming/ghfind@latest`"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     86,
+     190
+    ],
+    "note": "单独发布的 Python SDK",
+    "quotes": [
+     "- **SDKs** — `@hikariming/ghfind` (npm) · `ghfind` (PyPI)",
+     "- `ghfind update pip`: `python3 -m pip install --upgrade ghfind`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "MCP server 可接入的客户端之一",
+    "quotes": [
+     "- **MCP server** — Streamable HTTP at ghfind.com/mcp; add it to Claude, Cursor, or any MCP client to score and compare G"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

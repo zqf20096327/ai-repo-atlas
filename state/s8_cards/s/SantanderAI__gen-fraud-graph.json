@@ -1,0 +1,117 @@
+{
+ "fn": "SantanderAI/gen-fraud-graph",
+ "sha": "ad7f38bb8e8b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向金融反欺诈的合成交易图生成器，用于训练与基准测试",
+  "review": "Santander AI Lab 开源的 Python 工具，生成大规模合成金融交易图：账户节点、正常交易边与可配置深度（4-7 跳）的循环洗钱欺诈环，支持 1K 到 100M+ 账户规模、多进程并行、断点续跑，输出 CSV（或 Neptune 批量加载格式）供图数据库摄取或训练 GNN。嵌入向量提供 fake/local(SentenceTransformers)/openai 三种可选提供方。所有数据 100% 合成，不含真实金融数据。尚未发布到 PyPI，需从源码安装；要求 Python 3.10+。",
+  "highlights": [
+   "生成 1K-100M+ 账户规模的合成金融交易图，支持断点续跑",
+   "注入可配置深度（4-7 跳）的循环洗钱欺诈环并附标签文件",
+   "嵌入提供方三种：fake 随机、local SentenceTransformers、openai API",
+   "输出通用 CSV 或 AWS Neptune 批量加载格式"
+  ],
+  "use_cases": [
+   "训练和评估图神经网络反欺诈模型",
+   "对反洗钱检测算法做基准测试",
+   "对 TigerGraph/Neptune/Neo4j 等图数据库做加载压测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "合成数据",
+   "反洗钱/AML",
+   "图神经网络",
+   "基准测试",
+   "金融风控"
+  ],
+  "domain": "金融风控/图机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L19: **gen_fraud_graph** is an open-source Python tool that generates massive synthetic financial transaction graphs with inj",
+   "L38: - Training and evaluating **graph neural networks (GNN)** for fraud detection"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     52,
+     55
+    ],
+    "quotes": [
+     "git clone https://github.com/SantanderAI/gen-fraud-graph.git",
+     "uv pip install -e '.[dev]'"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "尚未发布到 PyPI，pip install 会失败；计划发布",
+    "quotes": [
+     "> **Note:** `gen-fraud-graph` is not yet published to PyPI, so `pip install gen-fraud-graph` will fail with `No matching"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "fn": "kyegomez/Jamba",
+ "sha": "9d495f5af7dc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Jamba 混合 Transformer-Mamba 语言模型的 PyTorch 实现",
+  "review": "论文《Jamba: A Hybrid Transformer-Mamba Language Model》的非官方 PyTorch 复现，提供模型实现、pip 安装包与使用示例，README 中含训练入口（python3 train.py）。仓库标注 Multi-Modality 与 MIT 许可。README 内容较少，未给出预训练权重、硬件要求或详细用法说明，主要面向希望阅读或运行该模型实现的研究者与开发者。",
+  "highlights": [
+   "Jamba（Transformer-Mamba 混合架构）的 PyTorch 实现",
+   "提供 pip install jamba 安装方式",
+   "含训练脚本入口 train.py"
+  ],
+  "use_cases": [
+   "研究 Transformer 与 Mamba 混合架构的实现细节",
+   "在自有数据上运行训练脚本",
+   "作为混合 SSM 语言模型的代码参考"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型实现",
+   "Mamba/SSM",
+   "Transformer",
+   "PyTorch"
+  ],
+  "domain": "深度学习/语言模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: PyTorch Implementation of Jamba: \"Jamba: A Hybrid Transformer-Mamba Language Model\"",
+   "L19: `python3 train.py`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7
+    ],
+    "quotes": [
+     "`$ pip install jamba`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

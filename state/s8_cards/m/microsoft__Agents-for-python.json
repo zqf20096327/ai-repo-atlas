@@ -1,0 +1,121 @@
+{
+ "fn": "microsoft/Agents-for-python",
+ "sha": "a1cb006446a2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软官方 Python SDK：构建多渠道企业 agent 应用",
+  "review": "Microsoft 365 Agent SDK 的 Python 组件仓库，提供构建面向 M365、Teams、Copilot Studio、Webchat 等平台的全栈多渠道 agent 所需的开发模块，并支持 Facebook Messenger、Slack、Twilio 等第三方集成。以约 10 个 PyPI 包形式分发，覆盖 Activity 协议类型、aiohttp/FastAPI/Teams 托管、瀑布对话系统、Azure Blob/CosmosDB 存储扩展、MSAL 与 Entra ID 认证等，多个包明确标注替代旧版 botbuilder 系列。要求 Python 3.10 及以上，推荐 3.11+。",
+  "highlights": [
+   "多渠道托管包：aiohttp、FastAPI、MS Teams",
+   "瀑布对话与多轮会话管理系统（dialogs 包）",
+   "Azure Blob 与 CosmosDB 存储扩展、MSAL/Entra ID 认证包",
+   "多个包明确替代 botbuilder-core 等旧 Bot Framework 组件"
+  ],
+  "use_cases": [
+   "为 Teams 或 Webchat 构建企业对话 agent",
+   "将 Bot Framework Python 项目迁移到新 SDK",
+   "以 FastAPI/aiohttp 为宿主托管 agent 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent框架",
+   "对话式AI",
+   "企业级开发",
+   "微软生态"
+  ],
+  "domain": "Agent 开发框架/企业协作",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, T",
+   "L8: The M365 Agent SDK is a comprehensive framework for building enterprise-grade agents, enabling developers to integrate c"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     4,
+     18,
+     20,
+     22,
+     23
+    ],
+    "quotes": [
+     "PyPI Downloads",
+     "We offer the following PyPI packages to create conversational experiences based on Agents:",
+     "|Package Name|PyPI Version|Description|Replaces|",
+     "|`microsoft-agents-activity`|PyPI|Types and validators implementing the Activity protocol spec.|`botframework-schema`|",
+     "|`microsoft-agents-hosting-core`|PyPI|Core library for Microsoft Agents hosting.|`botbuilder-core, botframework-connecto"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     6,
+     33
+    ],
+    "note": "Copilot Studio 作为 agent 托管平台被提及，非竞品关系",
+    "quotes": [
+     "The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, T",
+     "Additionally we provide a Copilot Studio Client, to interact with Agents created in CopilotStudio:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

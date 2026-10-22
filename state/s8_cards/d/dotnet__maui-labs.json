@@ -1,0 +1,108 @@
+{
+ "fn": "dotnet/maui-labs",
+ "sha": "c4d33575bf4b",
+ "source": "readme",
+ "identity": {
+  "one_liner": ".NET MAUI 的实验性工具与预发布包合集（CLI、UI 框架、调试与 AI 集成）",
+  "review": "Microsoft dotnet 组织维护的 .NET MAUI 实验性项目集合，包含 10 个产品：maui 全局 CLI（环境诊断、SDK/模拟器管理、设备管理、AI 引导初始化）、Comet MVU UI 框架、单文件应用服务器 Go、DevFlow 应用自动化/调试与 MCP 工具集、源生成式 AI 工具绑定 AI Extensions、macOS AppKit 与 WPF 后端、基于 Apple Intelligence 的端上 AI API Essentials.AI 等。以 NuGet 预发布包分发，nightly 构建发布至 dotnet10 feed。仓库自身声明实验性质：API 可能变更，不受 .NET MAUI 支持政策覆盖。",
+  "highlights": [
+   "maui CLI 提供环境诊断（maui doctor）、Android/Apple SDK 与模拟器管理、设备管理",
+   "DevFlow 提供应用运行时自动化、可视化树检查、网络监控与 MCP server 供 AI agent 接入",
+   "maui ai init 一站式安装 MAUI 技能、DevFlow 技能、Copilot agent 定义与 MCP 配置",
+   "Essentials.AI 通过 Apple Intelligence 提供端上 chat/embedding/tool calling"
+  ],
+  "use_cases": [
+   "搭建与诊断 .NET MAUI 开发环境，管理 Android SDK 与模拟器",
+   "在应用开发中用 DevFlow 做自动化测试、UI 检查与性能分析",
+   "让 AI agent（Copilot 等）通过 MCP 接入 MAUI 应用调试与自动化",
+   "用 WPF/AppKit 后端在 Windows/macOS 桌面运行 MAUI 应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3,
+    5
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动/桌面开发工具",
+   "CLI工具",
+   "MCP/agent集成",
+   "实验性项目集合",
+   ".NET生态"
+  ],
+  "domain": "软件开发工具/.NET 多平台 UI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Experimental packages and tooling for .NET MAUI. This repository hosts pre-release projects that are in active developme",
+   "L33: - **DevFlow app automation** (`maui devflow`) — visual tree inspection, element interaction, screenshots, WebView/CDP au",
+   "L77: - **MCP server** for AI agent integration (via `maui devflow mcp`)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     34,
+     73
+    ],
+    "note": "DevFlow Inspector 与 agent 技能的对接环境，非替代/竞品对象",
+    "quotes": [
+     "- **AI-powered development bootstrap** (`maui ai init`) — install MAUI Copilot skills, DevFlow skills, Copilot agents, a",
+     "- **MAUI DevFlow Inspector** in a browser, VS Code, the GitHub Copilot"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

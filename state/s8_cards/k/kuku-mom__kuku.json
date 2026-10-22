@@ -1,0 +1,102 @@
+{
+ "fn": "kuku-mom/kuku",
+ "sha": "4d622cf1e7e6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 macOS 的本地优先 Markdown 知识库应用，含 AI 编辑与加密同步",
+  "review": "开源的本地优先 Markdown 笔记工作区，编辑普通 .md 文件，叠加 [[wikilinks]]、反向链接、2D/3D 图谱导航、Second Brain 工作流、AI 辅助编辑（Agent/Ask/Inline 三种模式，编辑需经审批与 diff）以及端到端加密同步。仓库为全栈开源，含 macOS 客户端、web 应用、Go 服务器、protobuf 契约、Rust AI/索引 crate 与 Docker 自托管基础设施。官方构建目前仅支持 macOS，Windows/Linux 标注 coming soon。",
+  "highlights": [
+   "本地 Markdown vault，文件兼容 git/vim/Obsidian 等 Markdown 工具",
+   "AI 编辑经审批与 diff 流程，编辑流可审查",
+   "加密同步：密钥信封、签名提交与加密对象，服务器不接触明文笔记",
+   "全栈开源可自托管（客户端、Go 服务器、Rust crates、Docker 基础设施）"
+  ],
+  "use_cases": [
+   "用本地 Markdown 文件管理个人知识与 Second Brain 工作流",
+   "让 AI 读取、搜索笔记并提案修改，经我审批后应用",
+   "多设备间加密同步笔记，或完全自托管整套服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://kuku.mom",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "笔记",
+   "知识管理",
+   "Markdown",
+   "本地优先",
+   "加密同步"
+  ],
+  "domain": "知识管理/笔记应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L33: Kuku is an open-source Markdown app for people who want their notes to stay portable, private, and useful to AI. It edit",
+   "L51: - **AI-native editing**: use Agent / Ask / Inline modes, attach files or selected text, and review proposed edits before"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     59,
+     62
+    ],
+    "quotes": [
+     "- **Homebrew**: install from the Kuku tap.",
+     "  brew install kuku-mom/kuku/kuku"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

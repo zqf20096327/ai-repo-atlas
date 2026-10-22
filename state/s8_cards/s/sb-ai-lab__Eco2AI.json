@@ -1,0 +1,99 @@
+{
+ "fn": "sb-ai-lab/Eco2AI",
+ "sha": "234a983cd995",
+ "source": "readme",
+ "identity": {
+  "one_liner": "追踪 Python 代码运行能耗与 CO2 排放的 Python 库",
+  "review": "eco2AI 是用于 CO2 排放追踪的 Python 库：监控 CPU 与 GPU 设备的能耗，结合区域排放系数估算等效碳排放，可应用于任意 Python 脚本，只需在代码中加入数行即可。每次 Tracker() 运行会向本地日志文件写入会话记录，含项目名、时长、功耗（kWh）、CO2 排放量（kg）、CPU/GPU 型号、操作系统与国家等字段；也支持装饰器方式记录到 emission.csv。无法识别国家时采用 436.529kg/MWh 的全球平均系数。论文中展示了追踪 ruDALL-E 系列模型微调排放的实验。",
+  "highlights": [
+   "监控 CPU/GPU 能耗并结合区域排放系数估算 CO2 排放",
+   "Tracker 会话日志含功耗、排放、设备型号、国家等字段",
+   "支持装饰器 @track 自动记录到 emission.csv",
+   "配套论文（Doklady Mathematics, DOI 10.1134/S1064562422060230）"
+  ],
+  "use_cases": [
+   "统计深度学习模型训练或推理的碳排放与能耗",
+   "为论文/ESG 报告记录实验的碳足迹数据",
+   "在任意 Python 脚本中低侵入接入排放追踪"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://doi.org/10.1134/S1064562422060230",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "碳排放追踪",
+   "能耗监控",
+   "可持续AI",
+   "ML实验计量"
+  ],
+  "domain": "机器学习/可持续计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: The Eco2AI is a python library for CO 2 emission tracking. It monitors energy consumption of CPU & GPU devices and estim",
+   "L16: The Eco2AI is applicable to all python scripts and all you need is to add the couple of strings to your code. All emissi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     35
+    ],
+    "quotes": [
+     "pip install eco2ai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

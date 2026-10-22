@@ -1,0 +1,91 @@
+{
+ "fn": "ChrisKimZHT/Haotian-BiJi",
+ "sha": "9e362cfa1265",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人博客的算法与机器学习学习笔记源文件库",
+  "review": "存储「颢天笔记」网站的 Markdown 原文件，内容以 ACM 竞赛算法、数据结构、题解为主，2024 年起向机器学习内容转型。文件按页面 ID、分类（算法、数据结构、机器学习、数论、题目、杂项）、标题命名。公式以 LaTeX 编写，GitHub 网页可部分渲染，完整浏览需访问作者网站或本地 Markdown 编辑器；图片托管在博客 CDN 并开启反盗链，转载需手动下载替换。采用 CC BY-SA 4.0 许可。",
+  "highlights": [
+   "ACM 竞赛算法、数据结构与题目题解的 Markdown 笔记",
+   "2024 年起新增机器学习分类内容",
+   "统一命名规则：页面 ID+分类+标题",
+   "CC BY-SA 4.0 许可，可署名转载"
+  ],
+  "use_cases": [
+   "查找 ACM 竞赛算法与数据结构的学习资料",
+   "参考竞赛题目的题解",
+   "浏览作者的机器学习学习笔记"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习笔记",
+   "算法竞赛",
+   "机器学习",
+   "知识库"
+  ],
+  "domain": "算法竞赛/机器学习知识",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "国内邮箱联系方式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 颢天笔记 网站的 Markdown 源文件，内容大多为 ACM 竞赛算法与竞赛题目题解，从 2024 年开始向机器学习内容转型。",
+   "L10: - `Category` - 对应文章的分类目录，目前有算法、数据结构、机器学习、数论、题目、杂项。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,280 @@
+{
+ "fn": "zendev-sh/goai",
+ "sha": "efe7c2eda95f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 语言 AI 应用开发 SDK，统一接口接入 25+ 模型提供商",
+  "review": "用 Go 构建 AI 应用的 SDK，受 Vercel AI SDK 启发，以泛型、接口与函数式选项做惯用化适配。提供 8 个核心函数（GenerateText/StreamText/GenerateObject/Embed/GenerateImage/GenerateVideo 等）接入 25+ 提供商，含 MCP 客户端（stdio/HTTP/SSE，OAuth 2.1+PKCE）、自动工具循环、结构化输出（由 Go 类型反射生成 JSON Schema）、流式输出、内置 Langfuse/OpenTelemetry 观测与 10 个生命周期钩子。核心仅依赖 golang.org/x/oauth2 与 coder/websocket，要求 Go 1.25+。README 附与 Vercel AI SDK 的基准对比数据。",
+  "highlights": [
+   "8 个核心函数覆盖文本/对象生成、流式、嵌入、图像与视频生成",
+   "25+ 提供商统一 API，含 Ollama/vLLM/llama.cpp 本地运行时",
+   "MCP 客户端支持 stdio/HTTP/SSE 及 OAuth 2.1+PKCE 远程服务器",
+   "GenerateObject[T] 由 Go 类型反射自动生成 JSON Schema",
+   "内置 Langfuse/OpenTelemetry 观测与 10 个生命周期钩子"
+  ],
+  "use_cases": [
+   "在 Go 服务中统一调用多家 LLM 提供商并做流式/结构化输出",
+   "构建带工具循环与 MCP 工具的 AI agent",
+   "为 LLM 调用链接入 tracing 与工具执行权限控制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    50
+   ],
+   "note": "Realtime voice 标注 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM SDK",
+   "Go",
+   "多提供商接入",
+   "MCP",
+   "agent开发"
+  ],
+  "domain": "LLM 基础设施/开发框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek",
+   "groq",
+   "cohere",
+   "openrouter",
+   "bedrock",
+   "vllm",
+   "anthropic",
+   "mistral",
+   "xai",
+   "azure"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6:  Go SDK for building AI applications. One SDK, 25+ providers, MCP support.",
+   "L38: - **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+   "L71: go get github.com/zendev-sh/goai@latest"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     31,
+     38
+    ],
+    "quotes": [
+     "> **v0.8.3** - Native Ollama provider (`/api/chat` + `/api/embed`, think mode, no third-party SDK) and duplicate tool na",
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     38,
+     285
+    ],
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "|DeepSeek|`deepseek-*`|-|-|`DEEPSEEK_API_KEY`, TokenSource|Unit|`provider/deepseek`|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     38,
+     282
+    ],
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "|Groq|`mixtral-*`, `llama-*`|-|-|`GROQ_API_KEY`, TokenSource|Full|`provider/groq`|"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     38,
+     284
+    ],
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "|Cohere|`command-r-*`|`embed-*`|-|`COHERE_API_KEY`, TokenSource|Unit|`provider/cohere`|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     38,
+     280
+    ],
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "|OpenRouter|various|-|-|`OPENROUTER_API_KEY`, TokenSource|Unit|`provider/openrouter`|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     38,
+     277
+    ],
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "|Bedrock|`anthropic.*`, `meta.*`|`titan-embed-*`, `cohere.embed-*`, `nova-2-*`, `marengo-*`|-|AWS keys, `AWS_BEARER_TOKE"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     38,
+     261
+    ],
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "Many providers auto-resolve credentials from environment variables. Others (for example `ollama`, `vllm`, `compat`) use "
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     38,
+     275
+    ],
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "|Anthropic|`claude-*`|-|-|`ANTHROPIC_API_KEY`, `ANTHROPIC_BASE_URL`, TokenSource|Full|`provider/anthropic`|"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "support",
+    "lines": [
+     38,
+     281
+    ],
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "|Mistral|`mistral-large`, `magistral-*`|-|-|`MISTRAL_API_KEY`, TokenSource|Full|`provider/mistral`|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     38,
+     283
+    ],
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "|xAI|`grok-*`|-|-|`XAI_API_KEY`, TokenSource|Unit|`provider/xai`|"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     38,
+     279
+    ],
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "|Azure|`gpt-4o`, `claude-*`|-|via Azure|`AZURE_OPENAI_API_KEY`, TokenSource|Full|`provider/azure`|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     21,
+     59
+    ],
+    "note": "自称受其启发并提供基准对比，未声明替代",
+    "quotes": [
+     "Inspired by the Vercel AI SDK. The same clean abstractions, idiomatically adapted for Go with generics, interfaces, and ",
+     "|Metric|GoAI|Vercel AI SDK|Improvement|"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     38,
+     44
+    ],
+    "note": "作为支持的提供商与引用来源功能被列举",
+    "quotes": [
+     "- **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniMax, F",
+     "- **Citations/sources**: Grounding and inline citations from xAI, Perplexity, Google, OpenAI"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "none",
+    "lines": [],
+    "note": "窗外行未表明支持或提及关系，无法判定",
+    "quotes": []
+   },
+   {
+    "term": "Kimi",
+    "rel": "none",
+    "lines": [],
+    "note": "窗外行未表明支持或提及关系，无法判定",
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

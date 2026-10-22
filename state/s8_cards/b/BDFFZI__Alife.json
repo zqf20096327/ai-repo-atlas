@@ -1,0 +1,136 @@
+{
+ "fn": "BDFFZI/Alife",
+ "sha": "a8b1cc2d9294",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌宠陪伴向 AI Agent：桌面赛博生命框架",
+  "review": "基于 .NET/C# 的桌宠陪伴 AI Agent 桌面应用：以纯插件框架形态提供 live2D 桌宠交互、视觉识别、语音对话、长期记忆压缩、QQ/TG 通讯、自主上网、Python 脚本执行、游戏陪玩等功能，主张单一永久会话与极低词元开销（缓存命中 95%，官方 DeepSeek 日均不到 2 元，本地模型约 2G 显存）。框架已 MCP 化，外部 agent 可全量控制；数据明文存储，上下文全暴露。通过 Releases 压缩包安装，运行时自动下载依赖（全开约一小时）。AGPL-3.0 许可，目前仅限 PC 平台，跨平台为未来目标。",
+  "highlights": [
+   "全插件化架构，内置功能均为插件实现，支持热编译热重载与在线插件市场",
+   "框架自身 MCP 化（127.0.0.1:18765/mcp），允许外部 agent 或本体 AI 全量控制/自主开发插件",
+   "明文存储、上下文与执行过程完全暴露，记忆系统支持记录溯源搜索",
+   "内置本地模型优先，无第三方依赖与 key，自动装环境"
+  ],
+  "use_cases": [
+   "在桌面长期养育一个可成长的 AI 陪伴角色",
+   "通过 MCP 让外部 AI 编程 agent 全自动开发 Alife 插件",
+   "让 AI 通过视觉与语音陪玩游戏、聊天"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    101,
+    109
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌宠",
+   "陪伴Agent",
+   "插件框架",
+   "MCP",
+   "桌面应用"
+  ],
+  "domain": "AI 陪伴/桌面应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "作者 B 站主页",
+   "QQ 交流群",
+   "依赖下载配国内镜像",
+   "模型经 modelscope 下载"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: Alife 是一款主打桌宠陪伴方向的 AIAgent，目的是为了创造或逼近一个真实赛博生命的效果，它不是功能特化，不是角色扮演，而是一切为了",
+   "L50: - 🎭 桌宠交互：通用桌宠交互框架，默认使用live2D，可完全自定义，具备丰富交互，告别枯燥的对话框。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     44
+    ],
+    "note": "开销示例中提及官方 DeepSeek API 价格，非专门适配说明",
+    "quotes": [
+     "- 开销最低：缓存命中高达95%，官方Deepseek日均不到2块钱；各种功能都配有本地精选模型，仅2G显存就能跑。"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "2G 显存",
+    "rel": "support",
+    "lines": [
+     132,
+     44
+    ],
+    "note": "运行本地模型的显存建议（NVidia/CUDA），CPU 可跑但不完整",
+    "quotes": [
+     "2. 建议使用 NVidia 显卡，并至少有 2G 显存，注意升级驱动，确保其支持 CUDA。当然如果不支持也应该可以运行，只是无法使用完整的深度视觉识别能力，其他模型",
+     "- 开销最低：缓存命中高达95%，官方Deepseek日均不到2块钱；各种功能都配有本地精选模型，仅2G显存就能跑。"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     197
+    ],
+    "note": "列举的 AI 辅助文档工具",
+    "quotes": [
+     "优先使用上文的 AlifeMcp 接入文档。或者你也可以尝试使用 Copilot、DeepWiki 之类的 AI"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

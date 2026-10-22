@@ -1,0 +1,144 @@
+{
+ "fn": "geekjourneyx/ai-daily-skill",
+ "sha": "762266ea2a41",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Claude Code 中获取并归类 AI 资讯日报的 Skill",
+  "review": "一个 Claude Code Skill/插件：从 smol.ai 获取 AI 行业资讯，调用 Claude Code 内置 AI 能力生成摘要与分类的结构化 Markdown 日报，支持相对/绝对日期查询，可按需生成单文件 HTML 网页（三种主题）、社交媒体分享卡片和小红书风格封面。无需额外 API Key；图片生成需设置环境变量并配置 Firefly API。提供插件市场安装、源码克隆与全局复制三种安装方式，MIT 协议。",
+  "highlights": [
+   "每天从 smol.ai 获取 AI 资讯并用 Claude 生成摘要与分类",
+   "生成 Markdown 日报与三种主题的单文件 HTML 网页",
+   "可选生成分享卡片图片与小红书风格封面（需 Firefly API）",
+   "使用 Claude Code 内置 AI 能力，无需额外配置 API Key"
+  ],
+  "use_cases": [
+   "在 Claude Code 里按日期查询 AI 行业资讯摘要",
+   "把 AI 日报生成网页或分享卡片发布到社交媒体",
+   "制作小红书风格的日报封面图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code Skill",
+   "AI资讯",
+   "日报生成",
+   "插件",
+   "内容创作"
+  ],
+  "domain": "AI 资讯/工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "小红书风格封面功能",
+   "ZHIPU_API_KEY 与 bigmodel.cn Anthropic 代理配置",
+   "公众号（极客杰尼）定制入口"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯",
+   "L10: AI Daily 是一个 Claude Code Skill，帮助你在 Claude Code 中快速获取 AI 行业资讯。它从 smol.ai 获取资讯，使用内置的 Claude AI 能力进行智能分析和分类，生成结构化的 Markdow",
+   "L15: - Claude AI 智能摘要和分类"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     10,
+     153,
+     176
+    ],
+    "note": "通过 Claude Code 内置能力与 ANTHROPIC_BASE_URL（bigmodel 代理）使用",
+    "quotes": [
+     "AI Daily 是一个 Claude Code Skill，帮助你在 Claude Code 中快速获取 AI 行业资讯。它从 smol.ai 获取资讯，使用内置的 Claude AI 能力进行智能分析和分类，生成结构化的 Markdow",
+     "A: 不需要。Skill 使用 Claude Code 内置的 AI 能力，无需额外配置。",
+     "ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     38,
+     47
+    ],
+    "quotes": [
+     "git clone https://github.com/geekjourneyx/ai-daily-skill.git",
+     "cp -r plugins/ai-daily ~/.claude/skills/"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     10
+    ],
+    "note": "运行宿主环境，非替代/竞品对象",
+    "quotes": [
+     "> AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯",
+     "AI Daily 是一个 Claude Code Skill，帮助你在 Claude Code 中快速获取 AI 行业资讯。它从 smol.ai 获取资讯，使用内置的 Claude AI 能力进行智能分析和分类，生成结构化的 Markdow"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

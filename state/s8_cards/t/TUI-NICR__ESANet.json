@@ -1,0 +1,116 @@
+{
+ "fn": "TUI-NICR/ESANet",
+ "sha": "0d910585d9b2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向移动机器人的高效 RGB-D 室内语义分割网络",
+  "review": "论文 'Efficient RGB-D Semantic Segmentation for Indoor Scene Analysis' 的官方代码，提供训练、评估、数据集/样例推理、ONNX 与 TensorRT 转换及推理耗时测量脚本。网络可在 NVIDIA Jetson AGX Xavier 上实时运行，面向移动机器人实时场景分析流程。在 NYUv2、SUNRGB-D、Cityscapes 上训练，提供 ESANet-R34-NBt1D 预训练权重下载；2025 年更新了环境（Python 3.12、PyTorch 2.9.1）。Jetson 上复现计时依赖特定 Jetpack 4.4 与 TensorRT 版本。以源码仓库形式发布，需自行准备数据集。",
+  "highlights": [
+   "提供训练/评估/推理全套脚本与预训练权重（NYUv2、SUNRGB-D、Cityscapes）",
+   "支持导出 ONNX 与 TensorRT，附 Jetson AGX Xavier 推理计时脚本",
+   "2025 年更新 conda 环境（Python 3.12、PyTorch 2.9.1，移除 TensorFlow）"
+  ],
+  "use_cases": [
+   "在移动机器人上做实时室内 RGB-D 语义分割",
+   "复现论文 mIoU 结果或在新数据集上训练模型",
+   "将模型转为 TensorRT 并测量嵌入式设备推理耗时"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语义分割",
+   "RGB-D",
+   "移动机器人",
+   "计算机视觉",
+   "PyTorch"
+  ],
+  "domain": "计算机视觉/机器人感知",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: This repository contains the code to our paper \"Efficient RGB-D Semantic",
+   "L14: Our carefully designed network architecture enables real-time semantic"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     35
+    ],
+    "quotes": [
+     "    git clone https://github.com/TUI-NICR/ESANet.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     54,
+     55
+    ],
+    "note": "依赖库（opencv/torch 等）的 pip 安装，非本产品发布渠道",
+    "quotes": [
+     "    python -m pip install opencv-python matplotlib pandas tqdm",
+     "    python -m pip install torch torchvision"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "fn": "aidos-lab/pytorch-topological",
+ "sha": "37f01185cf97",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给ML研究者的PyTorch拓扑机器学习框架：损失项与网络层",
+  "review": "基于PyTorch的拓扑机器学习框架，以 Python 包（torch_topological）形式提供拓扑数据的损失项（loss terms）与神经网络层，用于构建结合拓扑特征的机器学习模型。要求 Python 3.9，可用 poetry 或 pip 安装。作者声明项目仍在开发中（work in progress），文档与示例代码可用；README 列出使用该库的项目（如 SHAPR 3D 细胞形状预测）及技术基础依赖 giotto-tda、GUDHI、POT 等，并附拓扑机器学习领域论文与项目资源。",
+  "highlights": [
+   "提供拓扑机器学习用的损失项与神经网络层",
+   "基于 PyTorch，pip/poetry 可安装",
+   "附示例代码、文档与领域文献列表",
+   "被 SHAPR（3D 细胞形状预测）等项目使用"
+  ],
+  "use_cases": [
+   "在 PyTorch 模型中加入基于拓扑特征（连接性）的损失项",
+   "开展拓扑机器学习研究并复用现成的层与损失组件",
+   "学习拓扑数据分析与机器学习结合的方法与文献"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    60
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "拓扑数据分析",
+   "机器学习库",
+   "PyTorch",
+   "科研工具"
+  ],
+  "domain": "机器学习/拓扑数据分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: `pytorch-topological` (or `torch_topological`) is a topological machine",
+   "L9: collect *loss terms* and *neural network layers* in order to simplify"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     49
+    ],
+    "quotes": [
+     "Documentation Maintainability GitHub contributors PyPI - License PyPI Tests",
+     "pip install -U torch-topological"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

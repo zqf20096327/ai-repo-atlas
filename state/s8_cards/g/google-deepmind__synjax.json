@@ -1,0 +1,111 @@
+{
+ "fn": "google-deepmind/synjax",
+ "sha": "025cfa723fd5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 JAX 的结构化概率分布神经网络库",
+  "review": "由 Google DeepMind 维护的 Python 库，在 JAX 上实现结构化概率分布：线性链/半马尔可夫/句法树/生成树 CRF、单调与非单调对齐 CRF、CTC、PCFG（含张量分解）、HMM 等。支持计算结构对数概率、边缘概率、argmax、采样、top-k、熵、交叉熵、KL 散度等操作，并兼容 jax.vmap/jit/pmap/grad（argmax、sample、top-k 除外，不支持 grad）。纯 Python 编写，经 JAX 依赖 C++；因 CUDA 版本差异，未把 JAX 列入依赖，需先自行安装 JAX，再通过 pip 从 GitHub 安装。附 Colab 示例笔记本。",
+  "highlights": [
+   "10 类结构化分布：多种 CRF、对齐、PCFG（含张量分解）、HMM",
+   "支持 log-prob、边际概率、argmax、采样、top-k、熵、KL 散度等操作",
+   "兼容 jax.vmap/jit/pmap/grad 变换（argmax/sample/top-k 不支持 grad）",
+   "提供 Colab 示例笔记本"
+  ],
+  "use_cases": [
+   "在 JAX 中为序列标注、句法分析、对齐任务建模结构化输出分布",
+   "在自研模型中计算结构边际概率或最可能结构",
+   "学习 JAX 生态下结构化预测的实现方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "结构化预测",
+   "JAX生态",
+   "概率图模型",
+   "NLP"
+  ],
+  "domain": "机器学习库/结构化预测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: SynJax is a neural network library for JAX structured probability",
+   "L13: * Linear Chain CRF,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "note": "pip 从 GitHub 仓库安装",
+    "quotes": [
+     "$ pip install git+https://github.com/google-deepmind/synjax"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "示例笔记本可在 Colab 打开，非安装途径",
+    "quotes": [
+     "* Introductory notebook demonstrating SynJax functionalities. Open In Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

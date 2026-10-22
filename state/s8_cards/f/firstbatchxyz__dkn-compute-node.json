@@ -1,0 +1,134 @@
+{
+ "fn": "firstbatchxyz/dkn-compute-node",
+ "sha": "c943c99385f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Dria 网络的计算节点：用本机跑推理模型赚取奖励",
+  "review": "由 FirstBatch 维护的 Rust CLI 程序，作为 Dria 知识网络的计算节点运行：setup 命令检测系统内存、列出适配模型、从 HuggingFace 下载 GGUF 模型并做测试推理与基准测速；start 命令连接网络、注册模型并对外服务推理请求，需提供钱包私钥，支持多模型并发。提供文本/音频/视觉三类 9 个内置模型（0.8-20GB），可通过 --gpu-layers 全量卸载到 Metal/CUDA/ROCm。安装途径含 Homebrew、shell 脚本、PowerShell 脚本与 GitHub Releases。",
+  "highlights": [
+   "setup 交互式流程：内存检测、模型选择、GGUF 下载、测试推理与 tokens/s 基准",
+   "作为节点向 Dria 网络注册并服务推理请求，以钱包密钥结算奖励",
+   "支持多模型逗号分隔服务与 --max-concurrent 并发调节",
+   "Metal/CUDA/ROCm GPU 加速与 ROCm 专用安装脚本"
+  ],
+  "use_cases": [
+   "把闲置机器接入 Dria 网络提供推理算力赚奖励",
+   "本地运行文本/音频/视觉小模型并对外服务",
+   "按内存大小挑选适配的量化模型部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "去中心化算力网络",
+   "推理节点",
+   "GGUF模型",
+   "加密激励"
+  ],
+  "domain": "去中心化 AI 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Run AI inference on the Dria network. Earn rewards by serving models from your machine."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     74
+    ],
+    "note": "使用 GGUF 格式模型文件，构建含 metal/cuda/rocm 特性",
+    "quotes": [
+     "3. Download the GGUF model file from HuggingFace"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     29
+    ],
+    "quotes": [
+     "brew install firstbatchxyz/dkn/dria-node"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     130
+    ],
+    "quotes": [
+     "git clone https://github.com/firstbatchxyz/dkn-compute-node.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "note": "模型文件下载来源",
+    "quotes": [
+     "3. Download the GGUF model file from HuggingFace"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

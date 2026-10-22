@@ -1,0 +1,103 @@
+{
+ "fn": "linkedin/isolation-forest",
+ "sha": "ccb16218ac69",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给数据工程师的 Spark/Scala 分布式孤立森林异常检测库",
+  "review": "LinkedIn 反滥用 AI 团队维护的 Scala/Spark 实现，提供标准孤立森林与扩展孤立森林（随机超平面切分）两种无监督离群点检测算法。核心模块继承 Spark ML 的 Estimator/Model，支持分布式训练评分、Pipeline 集成与模型 HDFS 持久化；isolation-forest-onnx 子模块以 pip 安装的 Python 转换器将标准模型导出为 ONNX 跨平台推理（扩展版本不兼容）。通过 Maven Central 或 Gradle 引入，默认 Scala 2.13.14 / Spark 3.5.5。",
+  "highlights": [
+   "分布式训练与评分，继承 Spark ML Estimator/Model，支持 Pipeline 与 HDFS 模型持久化",
+   "Extended Isolation Forest 用随机超平面切分消除轴对齐偏置，适合相关特征数据",
+   "ONNX 导出转换器（isolation-forest-onnx，pip 安装）实现跨平台推理，仅支持标准 IF",
+   "可指定任意 Spark/Scala 版本组合构建"
+  ],
+  "use_cases": [
+   "在 Spark 集群上对大规模数据做无监督异常检测",
+   "处理特征相关、异常不沿单轴分布的数据时使用扩展孤立森林",
+   "将训练好的异常检测模型导出 ONNX 在其他平台推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "异常检测",
+   "Spark",
+   "Scala",
+   "ONNX",
+   "机器学习库"
+  ],
+  "domain": "机器学习/异常检测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: This is a distributed Scala/Spark implementation of the Isolation Forest unsupervised outlier detection",
+   "L21: * **Distributed training and scoring:** The `isolation-forest` module supports distributed training and scoring in Scala"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     229,
+     235
+    ],
+    "note": "isolation-forest-onnx 转换器通过 pip 安装",
+    "quotes": [
+     "The artifacts associated with the `isolation-forest-onnx` module are available in PyPI.",
+     "pip install isolation-forest-onnx==<matching-version>"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

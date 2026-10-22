@@ -1,0 +1,139 @@
+{
+ "fn": "Vincent-Xi08/IntentRoute-AI",
+ "sha": "631991bd0692",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 分应用代理路由工具：AI 起草 sing-box TUN 路由规则",
+  "review": "开源 Windows WPF 控制面，将自然语言网络意图转为经本地校验的路由规则草稿：可选 OpenAI Responses API 或本地 Ollama 生成结构化草稿，草稿经确定性校验（字段/域名/CIDR/端口/冲突等）后以禁用状态加入，启用需用户单独操作并执行 sing-box check。数据面由外部 sing-box v1.13+ TUN 进程承担，应用自身不抓包。另含本地 Policy Intelligence（规则冲突/遮蔽分析）与静态 Route Decision Simulator。当前为 v0.31.0 preview，未声明广泛生产使用。",
+  "highlights": [
+   "自然语言→结构化规则草稿，AI 输出按不可信输入本地校验并以禁用状态加入",
+   "生成 sing-box v1.13+ TUN 配置并监督外部进程，含原子候选配置与回滚",
+   "本地 Policy Intelligence 分析重复/冲突/遮蔽/宽范围规则，AI 解释仅限去标识化聚合摘要",
+   "静态 Route Decision Simulator 输出 proven-match/fallback/indeterminate 三值结果"
+  ],
+  "use_cases": [
+   "为不提供代理设置的 Windows 应用按进程/域名/IP 配置分流",
+   "用自然语言描述意图生成可审查的路由规则草稿",
+   "分析现有规则集的冲突、遮蔽与宽范围问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    11
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网络代理/分流",
+   "TUN",
+   "Windows桌面应用",
+   "AI辅助配置"
+  ],
+  "domain": "网络路由/桌面工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: IntentRoute AI is an open-source Windows control plane that turns plain-language network intent into locally validated r",
+   "L17: Many Windows applications do not expose useful proxy controls, while hand-authoring process/domain/IP routing rules is e",
+   "L24: The application does not capture packets itself. It generates a validated sing-box v1.13+ TUN configuration, starts and "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     9,
+     28,
+     74,
+     79
+    ],
+    "quotes": [
+     "IntentRoute AI is an open-source Windows control plane that turns plain-language network intent into locally validated r",
+     "1. Select **OpenAI** or **Ollama (local)**.",
+     "### Local Ollama",
+     "ollama pull qwen3:8b"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     138,
+     141,
+     143
+    ],
+    "quotes": [
+     "1. Download `IntentRoute-AI-v0.31.0-win-x64.zip` and its `.sha256` file from Releases.",
+     "4. Install `sing-box.exe` separately, then explicitly approve its exact file from **Settings → Browse on every elevated ",
+     "6. Run `IntentRouteAI.exe` as administrator. TUN creation requires elevation."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     29
+    ],
+    "note": "示例意图中被路由的应用，非竞品",
+    "quotes": [
+     "2. Enter an intent such as: “Route Chrome and Cursor traffic for GitHub and OpenAI through the proxy; keep everything el"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

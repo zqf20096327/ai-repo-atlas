@@ -1,0 +1,132 @@
+{
+ "fn": "bytedance/PatchEval",
+ "sha": "16408b247bb2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评测 LLM/Agent 修复真实漏洞能力的基准（230 个 CVE）",
+  "review": "字节跳动发布的漏洞修复基准 PatchEval-Verified：收录 2015-2025 年 Go/JavaScript/Python 的 230 个 CVE 案例，每个案例提供含漏洞仓库与验证入口的 Docker 镜像。工作流分两阶段：先用 CLI 编码 agent（Codex/OpenCode/TraeCLI 适配器）生成补丁，再在 Docker 环境中通过强化 PoC 测试验证漏洞是否被修复；也支持独立评估外部系统生成的补丁。要求 Linux、Docker、Python 3.10+，全量镜像需约 500GB 磁盘。",
+  "highlights": [
+   "230 个 CVE 案例各配 Docker 评估环境与验证入口",
+   "两阶段工作流：agent 生成补丁 → Docker 环境中验证",
+   "内置 Codex CLI、OpenCode、TraeCLI 三种 agent 适配器",
+   "支持独立评估外部系统生成的补丁（JSON/JSONL 输入）"
+  ],
+  "use_cases": [
+   "评测编码 agent 在真实漏洞修复任务上的表现",
+   "对比不同模型/agent 的漏洞修复通过率",
+   "验证外部补丁生成系统产出的补丁是否真正修复漏洞"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2511.11019",
+  "demo_url": "https://huggingface.co/datasets/ByteDance/PatchEval",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "漏洞修复",
+   "代码安全",
+   "LLM评测",
+   "软件工程"
+  ],
+  "domain": "软件安全/LLM 评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "ByteDance 发布并维护"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L21: * **[2025/11/18]** PatchEval is released as a benchmark for evaluating Large Language Models and agents on real-world vu",
+   "L39: **PatchEval-Verified** evaluates LLMs and coding agents on automated repair of real-world vulnerabilities. This reposito"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     29
+    ],
+    "note": "结果表中列出 DeepSeek-V4-Flash，非专门适配接入",
+    "quotes": [
+     "|codex|DeepSeek-V4-Flash-0731|185/230 (80.43%)|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     81,
+     86
+    ],
+    "quotes": [
+     "git clone https://github.com/bytedance/PatchEval.git",
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "note": "徽章指向数据集托管地址，非替代/竞品",
+    "quotes": [
+     " <a href=\"https://huggingface.co/datasets/ByteDance/PatchEval\">"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

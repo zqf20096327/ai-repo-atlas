@@ -1,0 +1,159 @@
+{
+ "fn": "walkinglabs/modern-llm-notebook",
+ "sha": "fdebddcf692c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从零实现现代 LLM 的实践教程：PyTorch 可运行笔记本与训练实验",
+  "review": "面向学习者的双语 LLM 课程，以逐步拆解的 Jupyter 笔记本加可运行训练脚本组织：从 BPE 分词器训练、数据清洗（Data-Juicer）、64M 级 DotLM Dense 模型预训练、SFT 到 lm-evaluation-harness 评测，覆盖 RoPE、GQA、MLA、MoE、LoRA、量化与推理系统等主题。中文版为源版本，附英文镜像与在线阅读器，支持 Colab、ModelScope、AMD Radeon Cloud 在线运行。实验记录含 AMD MI300X 单卡训练与完整基准分数，未提供公开权重下载入口。",
+  "highlights": [
+   "BPE 分词器训练到 DotLM 64M 级预训练与 SFT 的完整训练路径",
+   "61.55M 模型在 MI300X 上的训练与八项基准评测记录（含复现脚本）",
+   "覆盖 MoE、工具调用、对齐、蒸馏、量化、推理系统等扩展主题",
+   "中英双语笔记本，支持 Colab/ModelScope/AMD 云端在线运行"
+  ],
+  "use_cases": [
+   "跟着笔记本从零理解 Transformer 与 LLM 训练各环节",
+   "复现小规模 LLM 预训练、SFT 与评测实验",
+   "在无本地 GPU 的情况下通过 Colab 或 ModelScope 在线运行课程代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://walkinglabs.github.io/modern-llm-notebook/?lang=en",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    92
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM课程",
+   "从零实现",
+   "训练实验",
+   "Jupyter笔记本",
+   "教育"
+  ],
+  "domain": "AI 教育/LLM 训练",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文课程为源版本（L92）",
+   "ModelScope 合作在线运行（L71,85）",
+   "AMD 中文开发者站链接（L77）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7:  Learn modern LLMs from scratch, one detailed example and experiment at a time.",
+   "L100: - **Detailed from-scratch teaching.** Build the core components in PyTorch through intuition, hand calculation, implemen",
+   "L104: This is an educational reference: notebooks explain each mechanism, while the training scripts and reports document larg"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     272
+    ],
+    "note": "窗外行，推理部署课程章节中的提及",
+    "quotes": [
+     "|26|Model Deployment and Serving|How does a trained model become a callable service?|vLLM, SGLang, custom architecture r"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     426
+    ],
+    "note": "窗外行，课程语境中的提及",
+    "quotes": [
+     "|DeepSeek-V2 / DeepSeek-V3|MLA, multi-token prediction, auxiliary-loss-free MoE load balancing|"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     427
+    ],
+    "note": "窗外行，课程语境中的提及",
+    "quotes": [
+     "|Mixtral / Qwen3|Sliding-window attention, MoE with shared experts|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     18,
+     67
+    ],
+    "note": "官方提供的在线运行入口",
+    "quotes": [
+     " Start in Colab",
+     "Google Colab."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     300
+    ],
+    "note": "窗外行，本地运行方式说明",
+    "quotes": [
+     "git clone https://github.com/walkinglabs/modern-llm-notebook.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

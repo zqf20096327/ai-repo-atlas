@@ -1,0 +1,135 @@
+{
+ "fn": "Comfy-Org/comfy-skills",
+ "sha": "acc35cf0a072",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 编码 agent 通过 Comfy Cloud 生成图像/视频/音频/3D 的插件与 MCP 服务器",
+  "review": "Comfy 官方维护的 Claude Code 插件仓库：comfy-cloud 插件一步捆绑托管 MCP 服务器（cloud.comfy.org/mcp，OAuth 登录）与 12 个斜杠命令，覆盖生成/编辑图像、视频、音频、3D 模型、抠图、放大、搜索模型/节点/模板等。命令遵循两层编写规则：安装时冻结稳定策略、运行时通过工具动态发现模型与模板。旧版 skills/ 平铺文件对应的 curl 安装器已弃用并将移除。其他客户端（Claude Desktop 等）可通过各自配置连接同一 MCP 服务器。",
+  "highlights": [
+   "单插件同时注册托管 MCP 服务器与斜杠命令",
+   "12 个命令覆盖图像/视频/音频/3D 生成与模型、节点、模板搜索",
+   "命令编写规则：冻结策略、运行时动态发现（避免硬编码模型名等易腐事实）",
+   "skills/ 旧版平铺布局对应已弃用的 curl 安装器，计划移除"
+  ],
+  "use_cases": [
+   "在 Claude Code 里用自然语言让 agent 生成或编辑图像/视频/音频/3D",
+   "agent 运行时搜索 Comfy Cloud 可用的模型、节点与工作流模板",
+   "通过 MCP 协议让其他客户端接入 Comfy Cloud 生成能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://docs.comfy.org/cloud/mcp",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "agent技能/插件",
+   "图像生成",
+   "ComfyUI生态"
+  ],
+  "domain": "AI 编码 agent 工具/生成式媒体",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Home of **Comfy Cloud skills and plugins for AI coding agents** — the slash commands and MCP connection that let an agen",
+   "L11: The **`comfy-cloud`** plugin bundles the Comfy Cloud MCP connection **and** the slash commands in one step:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     9,
+     43,
+     64
+    ],
+    "note": "插件专门适配 Claude Code（Anthropic 客户端），非替代关系",
+    "quotes": [
+     "## Install (Claude Code)",
+     "- **`claude-code/`** — the `comfy-cloud` Claude Code plugin: `commands/` (the slash commands) plus `.claude-plugin/plugi",
+     "`comfy-cloud` is the canonical Claude Code plugin (MCP + commands). The legacy `skills/` flat layout remains only for th"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     43
+    ],
+    "note": "插件的目标客户端",
+    "quotes": [
+     "## Install (Claude Code)",
+     "- **`claude-code/`** — the `comfy-cloud` Claude Code plugin: `commands/` (the slash commands) plus `.claude-plugin/plugi"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     64
+    ],
+    "note": "列为未来可支持的兄弟目录，非竞品",
+    "quotes": [
+     "`comfy-cloud` is the canonical Claude Code plugin (MCP + commands). The legacy `skills/` flat layout remains only for th"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    45,
+    64
+   ],
+   "note": "skills/ 平铺布局对应的旧 curl 安装器已弃用并将移除"
+  }
+ }
+}

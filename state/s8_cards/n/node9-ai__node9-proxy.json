@@ -1,0 +1,179 @@
+{
+ "fn": "node9-ai/node9-proxy",
+ "sha": "c0cc61949618",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编码代理的访问控制网关：审批危险操作并留痕",
+  "review": "面向使用 Claude Code、Codex CLI、Cursor 等 12 种编码代理及任意 MCP 服务器的开发者与团队。node9 以 hook 形式运行在代理与工具调用之间：默认封禁 ~/.ssh、~/.aws、.env 等凭证读取，拦截破坏性 git、无 WHERE 的 SQL、curl|bash 等命令并等待人工批准；命令按 shell AST 解析而非文本匹配。提供 MCP 网关、出站白名单、沙箱、姿态评分、仓库扫描与 Canary 凭证等功能，可通过 npm 或 brew 安装，也可作为 MCP 服务器运行。另有 Pro 版提供 SSO 与中央审计导出。",
+  "highlights": [
+   "默认凭证牢笼封禁 ~/.ssh、~/.aws、.env 与私钥读取",
+   "命令按 shell AST 解析，绕过包装仍判定为敏感读取",
+   "支持 12 种代理与任意 MCP 服务器的统一策略与审计记录",
+   "MCP 工具定义固定（pinning）与 SHA-256 技能校验"
+  ],
+  "use_cases": [
+   "在 AI 代理执行删除文件或危险 SQL 前要求我批准",
+   "防止被劫持的代理读取 SSH 密钥与云凭证",
+   "团队通过共享仪表盘统一策略并审批挂起操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI代理安全",
+   "访问控制",
+   "DLP",
+   "MCP网关",
+   "DevSecOps"
+  ],
+  "domain": "AI 安全/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2:  Access control for AI agents",
+   "L91: files. node9's gate is not one of those flags: it runs in the hook, and an action it holds stays",
+   "L96: node9 sits between the agent and every tool it calls. The credential jail (`~/.ssh`, `~/.aws`,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     17,
+     21
+    ],
+    "note": "专门适配 Claude Code（通过 hook 与 MCP）",
+    "quotes": [
+     "Works with **Claude Code · Codex CLI · Antigravity (agy) · GitHub Copilot CLI · Gemini CLI · Cursor · Windsurf · VSCode ",
+     "A real Claude Code session with node9 installed. Every tool call is checked"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     31
+    ],
+    "quotes": [
+     "brew tap node9-ai/node9 && brew install node9   # macOS / Linux"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     32,
+     71,
+     74
+    ],
+    "quotes": [
+     "npm install -g node9-ai                         # any platform",
+     "claude mcp add --transport stdio node9 -- npx -y node9-ai mcp-server",
+     "Any MCP client works the same way: the command is `npx -y node9-ai mcp-server`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     17,
+     21
+    ],
+    "note": "被治理的代理对象，非替代/竞品",
+    "quotes": [
+     "Works with **Claude Code · Codex CLI · Antigravity (agy) · GitHub Copilot CLI · Gemini CLI · Cursor · Windsurf · VSCode ",
+     "A real Claude Code session with node9 installed. Every tool call is checked"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "Works with **Claude Code · Codex CLI · Antigravity (agy) · GitHub Copilot CLI · Gemini CLI · Cursor · Windsurf · VSCode "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "Works with **Claude Code · Codex CLI · Antigravity (agy) · GitHub Copilot CLI · Gemini CLI · Cursor · Windsurf · VSCode "
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "Works with **Claude Code · Codex CLI · Antigravity (agy) · GitHub Copilot CLI · Gemini CLI · Cursor · Windsurf · VSCode "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    179
+   ],
+   "quotes": [
+    "**node9 Pro** adds governance locking, SAML/SSO, central audit export, and VPC deployment. See node9.ai."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

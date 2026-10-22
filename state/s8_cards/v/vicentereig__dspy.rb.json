@@ -1,0 +1,88 @@
+{
+ "fn": "vicentereig/dspy.rb",
+ "sha": "753ccf7435df",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Ruby 版 DSPy：用类型化签名与模块编程 LLM，而非提示词",
+  "review": "将 DSPy 的签名、模块、Agent 与优化器模型引入 Ruby 的框架，附带 Sorbet 类型与 Ruby 原生集成。签名将任务声明为类型化输入输出，模块选择执行策略，用 Ruby 组合模块为程序；ReAct 在迭代边界内让模型选择下一步动作，由框架构建 provider 请求并校验返回结构。应用侧保留工具授权、副作用、预算与错误策略。1.x 为当前稳定版本线。",
+  "highlights": [
+   "DSPy 签名/模块/ReAct Agent 模型的 Ruby 实现，带 Sorbet 类型",
+   "类型化任务契约替代输出模板，返回经过校验的 Ruby 值",
+   "provider 适配器、优化器、可观测性导出器等以独立 gem 包分发",
+   "提供任务导向文档、按能力索引的示例与 llms.txt 参考"
+  ],
+  "use_cases": [
+   "在 Ruby/Rails 应用中构建类型化的模型调用程序",
+   "需要模型在有限迭代内选择工具的 ReAct Agent 场景",
+   "希望以编程方式组织 LLM 任务而非手写提示词的 Ruby 开发者"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM框架",
+   "Agent开发",
+   "DSPy",
+   "Ruby"
+  ],
+  "domain": "LLM 应用开发框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: **Build typed agents and model-backed programs in Ruby.**",
+   "L11: DSPy.rb brings DSPy's signature, module, agent, and optimizer model to Ruby, with Sorbet types and Ruby-native integrati"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

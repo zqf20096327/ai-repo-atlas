@@ -1,0 +1,209 @@
+{
+ "fn": "lthoangg/OpenAgentd",
+ "sha": "9c0374def5f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的桌面端编码 agent：透明展示每步工具调用",
+  "review": "用 Rust 构建的桌面应用，在用户本机运行编码 agent：给定文件夹与任务后，agent 进行规划、读写文件、运行测试，并把每次工具调用、diff、终端输出与成本汇入同一转录流。支持 19+ 家模型提供商（Anthropic、OpenAI、Gemini、OpenRouter、Bedrock、DeepSeek 等）及通过 Ollama 接入本地模型；提供 Plan/Code 两种模式、子代理委派、Git 集成与 MCP。macOS/Linux/Windows 有安装脚本与 Homebrew，另有仅装后端的 CLI server 模式。会话数据保留在本机。",
+  "highlights": [
+   "工具调用、diff、shell 输出、token 与成本汇入单一转录流",
+   "19+ 提供商接入，含现有 ChatGPT/Copilot/Grok 订阅与 Ollama 本地模型",
+   "Plan 模式只读探索并产出可评论的计划，Code 模式可中途转向或停止",
+   "单一原生 Rust 后端（约 43 MB），支持子代理委派与 MCP"
+  ],
+  "use_cases": [
+   "在本机运行编码 agent 并逐条审查其工具调用与改动",
+   "提交前审查 agent 生成的代码 diff",
+   "用自己已有的模型 key 或本地 Ollama 模型驱动编码任务",
+   "通过手机 App 连接电脑上的会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent",
+   "桌面应用",
+   "local-first",
+   "multi-agent",
+   "MCP"
+  ],
+  "domain": "AI 编码工具/桌面应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openrouter",
+   "bedrock",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: **OpenAgentd is a desktop app for running a coding agent on your own machine.** You give it a folder and a task. It plan",
+   "L26: - **Your models, your keys.** 19+ providers, including Anthropic, OpenAI, Gemini, OpenRouter, Bedrock and DeepSeek, plus"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **Your models, your keys.** 19+ providers, including Anthropic, OpenAI, Gemini, OpenRouter, Bedrock and DeepSeek, plus"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "none",
+    "lines": [],
+    "note": "未在可见文本中出现（L26 列举 Grok 订阅，非 xAI API）",
+    "quotes": []
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **Your models, your keys.** 19+ providers, including Anthropic, OpenAI, Gemini, OpenRouter, Bedrock and DeepSeek, plus"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **Your models, your keys.** 19+ providers, including Anthropic, OpenAI, Gemini, OpenRouter, Bedrock and DeepSeek, plus"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     26,
+     49
+    ],
+    "quotes": [
+     "- **Your models, your keys.** 19+ providers, including Anthropic, OpenAI, Gemini, OpenRouter, Bedrock and DeepSeek, plus",
+     "Open **OpenAgentd**, add a provider in **Settings → Providers** (or point it at Ollama), open a folder and describe what"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     43,
+     46
+    ],
+    "quotes": [
+     "**Homebrew** (macOS)",
+     "brew install --cask lthoangg/tap/openagentd"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     33,
+     34,
+     39,
+     40,
+     49
+    ],
+    "quotes": [
+     "```bash",
+     "curl -fsSL https://openagentd.dev/install.sh | sh",
+     "```powershell",
+     "irm https://openagentd.dev/install.ps1 | iex",
+     "Open **OpenAgentd**, add a provider in **Settings → Providers** (or point it at Ollama), open a folder and describe what"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "To build from source, see CONTRIBUTING.md."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "note": "作为可接入的现有订阅被提及",
+    "quotes": [
+     "- **Your models, your keys.** 19+ providers, including Anthropic, OpenAI, Gemini, OpenRouter, Bedrock and DeepSeek, plus"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "note": "作为可接入的现有订阅被提及",
+    "quotes": [
+     "- **Your models, your keys.** 19+ providers, including Anthropic, OpenAI, Gemini, OpenRouter, Bedrock and DeepSeek, plus"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

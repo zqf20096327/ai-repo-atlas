@@ -1,0 +1,282 @@
+{
+ "fn": "lfnovo/esperanto",
+ "sha": "47c140f416c3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "统一多种 AI 模型服务商接口的轻量 Python 库",
+  "review": "面向开发者的 Python 库，通过直接 HTTP 调用（httpx，不依赖厂商 SDK）为 20+ 家 AI 提供商提供统一接口，覆盖 LLM 对话、Embedding、重排序、语音转文字与文字转语音五类能力。提供 AIFactory 创建实例与模型发现、标准化响应对象、同步/异步 API、流式输出、JSON 结构化输出及 LangChain 转换方法。可选安装 transformers extras 支持本地模型。",
+  "highlights": [
+   "统一接口接入 20+ 提供商（OpenAI/Anthropic/Google/Ollama 等），切换不改代码",
+   "直接 HTTP 通信，不依赖各厂商 SDK",
+   "五类能力矩阵：LLM/Embedding/重排序/STT/TTS",
+   "任务感知 Embedding（8 种通用任务类型）与模型发现（结果缓存 1 小时）"
+  ],
+  "use_cases": [
+   "在应用中用同一套代码切换不同 LLM 提供商",
+   "接入本地 Ollama/vLLM/LM Studio 等 OpenAI 兼容端点",
+   "统一管理 Embedding、重排序与语音能力的多提供商调用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 接口抽象层",
+   "多提供商网关",
+   "Embedding/重排序",
+   "语音转文字/语音合成"
+  ],
+  "domain": "LLM 基础设施/接口抽象",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "anthropic",
+   "openrouter",
+   "xai",
+   "groq",
+   "azure",
+   "deepseek",
+   "cohere"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "支持 DashScope/通义千问、SiliconFlow、Z.ai、MiniMax 等国内服务商"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Esperanto is a powerful Python library that provides a unified interface for interacting with various Large Language Mod",
+   "L32: - **Unified Interface**: Work with multiple LLM providers using a consistent API",
+   "L63: - **Structured Output**: JSON mode + schema-driven outputs across all LLM providers (OpenAI, Azure, OpenAI-compatible, G"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     35,
+     43,
+     140
+    ],
+    "quotes": [
+     " - OpenAI-Compatible (LM Studio, Ollama, vLLM, custom endpoints)",
+     " - Ollama (Local deployment multiple models)",
+     "|Ollama|✅|✅|❌|❌|❌|❌|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     35,
+     307,
+     319
+    ],
+    "note": "经 OpenAI 兼容端点接入",
+    "quotes": [
+     " - OpenAI-Compatible (LM Studio, Ollama, vLLM, custom endpoints)",
+     "Use any OpenAI-compatible endpoint (LM Studio, Ollama, vLLM, custom deployments) with the same interface:",
+     "- **vLLM**: High-performance inference server"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     36,
+     196
+    ],
+    "quotes": [
+     " - Anthropic (Claude models)",
+     "- **Anthropic** - Returns hardcoded list of Claude models"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     37,
+     156
+    ],
+    "quotes": [
+     " - OpenRouter (Access to multiple models)",
+     "|OpenRouter|✅|❌|❌|❌|❌|✅|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     38,
+     152
+    ],
+    "quotes": [
+     " - xAI (Grok)",
+     "|xAI|✅|❌|❌|❌|❌|❌|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     40,
+     137
+    ],
+    "quotes": [
+     " - Groq (Mixtral, Llama, Whisper)",
+     "|Groq|✅|❌|❌|✅|❌|✅|"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     40
+    ],
+    "note": "L40 为 Groq 提供商下的模型举例；Mistral 亦列为独立提供商（L47，窗外）",
+    "quotes": [
+     " - Groq (Mixtral, Llama, Whisper)"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     46,
+     145
+    ],
+    "quotes": [
+     " - Azure OpenAI (Chat, Embedding, Whisper, TTS)",
+     "|Azure OpenAI|✅|✅|❌|✅|✅|✅|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     48,
+     147
+    ],
+    "quotes": [
+     " - DeepSeek (deepseek-chat)",
+     "|DeepSeek|✅|❌|❌|❌|❌|✅|"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     56,
+     151
+    ],
+    "quotes": [
+     " - Cohere (LLM, Embeddings, Reranking)",
+     "|Cohere|✅|✅|✅|❌|❌|✅|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     98,
+     108
+    ],
+    "quotes": [
+     "pip install esperanto",
+     "pip install \"esperanto[transformers]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L206 提及实例级 .models 属性将在 3.0 移除，属个别 API 弃用而非整体弃用"
+  },
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     15,
+     64,
+     85
+    ],
+    "note": "README 与其对比轻量性，并提供 to_langchain() 集成，非替代声明",
+    "quotes": [
+     "- **Minimal Dependencies**: Unlike LangChain and similar frameworks, Esperanto has a tiny footprint with zero overhead l",
+     "- **LangChain Integration**: Easy conversion to LangChain chat models",
+     "- LangChain Integration"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     39,
+     141
+    ],
+    "note": "作为受支持的模型提供商出现",
+    "quotes": [
+     " - Perplexity (Sonar models)",
+     "|Perplexity|✅|❌|❌|❌|❌|✅|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     49,
+     50
+    ],
+    "note": "DashScope/Qwen 作为受支持提供商",
+    "quotes": [
+     " - SiliconFlow (DeepSeek, Qwen, and other OpenAI-compatible models)",
+     " - DashScope / Qwen (qwen-turbo, qwen-plus, qwen-max)"
+    ]
+   }
+  ]
+ }
+}

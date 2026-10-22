@@ -1,0 +1,148 @@
+{
+ "fn": "agent-launch/agent-launcher",
+ "sha": "cbf128fe7199",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面端工作台：统一配置并运行多种编码 agent CLI",
+  "review": "基于 Electron 的本地桌面应用，面向使用编码 agent CLI 的开发者：检测并链接系统已安装的 CLI（Claude Code、Codex CLI、OpenCode、Pi、Gemini CLI、Hermes Agent），缺失的一键安装，管理多 provider 配置（账号或 API），在嵌入终端或聊天视图中运行会话。读取各 CLI 自身的本地会话历史（JSONL/SQLite），支持 MCP server 与 Skills 查看、用量统计。限制：API key 以明文存储于 ~/.agent-launcher/config.json；未签名构建会触发系统警告。",
+  "highlights": [
+   "检测并链接系统已装的 6 种编码 agent CLI，缺失可一键安装",
+   "每 agent 多 provider 配置档案，用最小模型请求预检端点与凭据",
+   "读取并恢复各 CLI 本地会话（JSONL/SQLite），含 MCP/Skills 查看与用量面板",
+   "macOS DMG/ZIP、Windows NSIS、Linux AppImage 三平台发布"
+  ],
+  "use_cases": [
+   "在一个桌面应用里管理并切换多个编码 agent CLI",
+   "为不同 CLI 配置多套账号/API 档案并预检连通性",
+   "查看各 CLI 的本地会话历史与 token 用量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent",
+   "桌面工具",
+   "CLI管理",
+   "多agent工作台"
+  ],
+  "domain": "开发者工具/编码 agent",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版（L4）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: Agent Launcher is a local desktop workspace for coding-agent CLIs. It detects and links CLIs already installed on your s",
+   "L22: |Agent|CLI source|Configuration and runtime|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "Claude Code 支持 Anthropic 兼容 API 配置档，非本产品官方 SDK 接入",
+    "quotes": [
+     "|Claude Code|Existing system installation|Official account or Anthropic-compatible API profiles|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "Claude Code 官方安装器不可达时的 npm 回退，属被管理 CLI 的安装途径",
+    "quotes": [
+     "The first-run wizard checks the local environment, links existing agent binaries, and walks through official-account or "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "被管理的目标 CLI",
+    "quotes": [
+     "|Claude Code|Existing system installation|Official account or Anthropic-compatible API profiles|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     25
+    ],
+    "note": "Codex CLI 的账号选项",
+    "quotes": [
+     "|Codex CLI|Existing system installation|ChatGPT account or OpenAI-compatible API profiles|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

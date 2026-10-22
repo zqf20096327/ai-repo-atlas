@@ -1,0 +1,111 @@
+{
+ "fn": "AndyShaman/BYDMate",
+ "sha": "023b759e89e9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "BYD DiLink 车机扩展应用：行程记录、真实能耗与本地 AI 功能",
+  "review": "面向 BYD 电动车与 DM-i/DM-o 混动车（Leopard 3、Atto 3、Seal、汉等）车主的 Android 车机应用，用 Kotlin/Jetpack Compose 编写。从 BMS 读取真实能耗数据（官方行车电脑被指低估 10-30%），提供 GPS 行程记录、充电日志、电池健康监测、WHEN→THEN 自动化规则、仪表盘导航提示、HUD 投影、盲区摄像头与分屏。AI 部分：设备端本地驾驶分析洞察、离线俄语语音助手（32 个工具、设备端语音识别与神经网络合成），主要功能离线运行，云功能默认关闭。",
+  "highlights": [
+   "直读 BMS 数据显示真实能耗，含静止时段与电芯压差",
+   "WHEN→THEN 规则引擎控制车窗/空调/电池加热等，触发器含车速、SOC、转向灯、地理围栏",
+   "离线俄语语音助手（32 个可调用工具）与设备端驾驶分析洞察",
+   "支持 DiLink 3.0–5.1 及 UI7 固件，自动识别 DM-i/DM-o 混动车型"
+  ],
+  "use_cases": [
+   "查看 BYD 车辆的真实电耗与百公里成本，替代低估的车载电脑数据",
+   "按 SOC、温度、时间等条件自动控制车窗、空调与电池加热",
+   "记录并分析行程、充电与电池健康数据",
+   "把导航提示投到仪表盘和 HUD、用转向灯触发盲区摄像头"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    34,
+    36
+   ],
+   "note": "混动支持标注为首版且部分场景未在实车验证，等待反馈"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "车载应用",
+   "电动车主工具",
+   "能耗分析",
+   "自动化",
+   "本地AI"
+  ],
+  "domain": "汽车/电动车工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文语言选项",
+   "车型使用中文名（方程豹豹3等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L57: |**AI**|Инсайты|Анализ вождения: локальные правила на устройстве, без интернета|",
+   "L67: |**Voice**|Голосовой агент|Русский офлайн-ассистент: распознавание речи на устройстве, AI-агент (32 инструмента), нейрос"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     319,
+     432
+    ],
+    "note": "窗外候选行；语音代理配置语境中提及的模型接入选项",
+    "quotes": [
+     "2. Задайте ключ языковой модели: **Настройки → Интеграции → AI подключения**. Рекомендуем OpenRouter (регистрация на ope",
+     "|OpenRouter|Достаточно одного любого LLM-ключа; для скорости рекомендуется OpenRouter|Мозг агента. Быстрые модели (напри"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "fn": "kLOsk/adloop",
+ "sha": "a94266a3cdc1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 助手读写 Google Ads/GA4 的 MCP 服务器，带防误花钱护栏",
+  "review": "一个 MCP 服务器，向 AI 助手（Claude Code、Cursor、Claude Desktop、ChatGPT 等）开放 Google Ads、Reddit Ads 与 GA4 的读+写访问：提供 GA4 报表、广告/关键词/受众/品牌列表等大量读取工具，以及草稿类写工具；写操作先出预览、需用户确认，新广告与系列默认暂停。还提供 Ads 与 GA4 数据交叉引用诊断（如转化缺口归因、GTM 三方审计）。自托管需自有 Google Cloud 项目，pip 安装；另有托管版 AdLoop Cloud（免费档）。",
+  "highlights": [
+   "读+写 Google Ads、Reddit Ads、GA4 的 MCP 工具集",
+   "安全护栏：预览+用户确认才生效，新广告默认暂停",
+   "Ads 与 GA4 交叉引用诊断（转化缺口、追踪、GTM 三方审计）",
+   "compact 模式压缩响应约 90%，避免填满 AI 上下文"
+  ],
+  "use_cases": [
+   "在 IDE 里通过对话查广告数据、加否定关键词",
+   "排查转化下跌原因（GDPR 拒绝/追踪损坏/落地页问题）",
+   "用自然语言草拟搜索广告与广告系列并确认后上线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "Google Ads",
+   "GA4",
+   "营销分析",
+   "AI工具接入"
+  ],
+  "domain": "营销/广告数据接入工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: An MCP server that gives your AI assistant read + write access to Google Ads, Reddit Ads and GA4 — with safety guardrail",
+   "L32: |**Works with**|claude.ai, ChatGPT, Claude Code, Cursor, Gemini|Claude Code, Cursor, Claude Desktop, any local MCP clien"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     19,
+     32,
+     49
+    ],
+    "note": "支持 Claude Code / Claude Desktop 等 Anthropic 客户端接入",
+    "quotes": [
+     "> **AdLoop Cloud is the hosted version of this project, with a free plan that needs no credit card.** Connect Google in ",
+     "|**Works with**|claude.ai, ChatGPT, Claude Code, Cursor, Gemini|Claude Code, Cursor, Claude Desktop, any local MCP clien",
+     "- **\"I need to create ads but the Google Ads UI is hostile.\"** Draft responsive search ads, create campaigns, add keywor"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     16,
+     65
+    ],
+    "quotes": [
+     "**☁️ Skip the setup — use AdLoop Cloud (free plan, no card)** &nbsp;·&nbsp; or self-host: `pip install adloop`",
+     "> **Quick start:** `pip install adloop` or `git clone https://github.com/kLOsk/adloop.git && cd adloop && uv sync && uv "
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     65
+    ],
+    "quotes": [
+     "> **Quick start:** `pip install adloop` or `git clone https://github.com/kLOsk/adloop.git && cd adloop && uv sync && uv "
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "Cloud 为托管版而非双许可声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "quotes": [
+     "|**Works with**|claude.ai, ChatGPT, Claude Code, Cursor, Gemini|Claude Code, Cursor, Claude Desktop, any local MCP clien"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "quotes": [
+     "|**Works with**|claude.ai, ChatGPT, Claude Code, Cursor, Gemini|Claude Code, Cursor, Claude Desktop, any local MCP clien"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "quotes": [
+     "|**Works with**|claude.ai, ChatGPT, Claude Code, Cursor, Gemini|Claude Code, Cursor, Claude Desktop, any local MCP clien"
+    ]
+   }
+  ]
+ }
+}

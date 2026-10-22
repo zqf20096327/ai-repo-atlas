@@ -1,0 +1,88 @@
+{
+ "fn": "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning",
+ "sha": "a09adb12528b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MNIST 手写数字识别：多种 ML 与 CNN 算法的对比实现",
+  "review": "在 MNIST 数据集上实现手写数字识别的 Python 代码集合，包含 KNN、SVM、随机森林三种机器学习算法与基于 TensorFlow/Keras 的三层 CNN。经典 ML 路径需手动下载并放置 MNIST 四个数据文件，CNN 路径自动下载数据，支持保存/加载模型权重（hdf5），输出日志写入 summary.log。README 列出各算法准确率：KNN 96.67%、SVM 97.91%、随机森林 96.82%、CNN（TensorFlow）99.70%。代码在 Python 3.5 下编写，曾在 AWS EC2 上执行。",
+  "highlights": [
+   "KNN/SVM/随机森林与 TensorFlow、Keras+Theano 两种 CNN 共五种实现",
+   "CNN 支持 --save_model/--load_model 保存与加载 hdf5 权重",
+   "CNN 路径自动下载 MNIST 数据，ML 路径手动放置",
+   "关联已发表论文 IJARCET-VOL-6-ISSUE-7-990-997"
+  ],
+  "use_cases": [
+   "对比经典机器学习与 CNN 在 MNIST 上的识别效果",
+   "学习手写数字识别的多种算法实现",
+   "复现论文中的实验结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "IJARCET-VOL-6-ISSUE-7-990-997",
+  "demo_url": "https://www.youtube.com/watch?v=7kpYpmw5FfE",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "MNIST",
+   "图像分类",
+   "教学/实验代码"
+  ],
+  "domain": "机器学习/图像分类",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Handwritten Digit Recognition using Machine Learning and Deep Learning",
+   "L118: i)\tThree Layer Convolutional Neural Network using Tensorflow:\t99.70%"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "fn": "asiff00/On-Device-Speech-to-Speech-Conversational-AI",
+ "sha": "5eb82bb67d9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "全本地 CPU 实时语音对话系统：VAD→ASR→LLM→TTS 流水线",
+  "review": "面向希望在单机 CPU 上运行语音助手的用户：将 Pyannote VAD、Whisper-tiny.en、Ollama 托管的 qwen2.5 小模型与 Kokoro-82M TTS 组合成多线程流式架构，通过队列管理衔接各环节，支持随时打断对话。为降低感知延迟，采用基于优先级的 TextChunker 流式切分 LLM 输出，并让 LLM 以填充词开头实现快速首响应；作者在无 GPU 的 Ryzen 5600G 上测得约 2 秒延迟。需安装 Ollama、eSpeak NG 并通过 git clone + pip 从源码运行。",
+  "highlights": [
+   "VAD→Whisper→LLM→TextChunker→TTS 多线程队列化流水线",
+   "优先级文本切分与填充词提示，降低首响应感知延迟",
+   "支持用户随时打断的自然对话",
+   "全部组件本地 CPU 运行，无 GPU 环境实测约 2 秒延迟"
+  ],
+  "use_cases": [
+   "在本地 CPU 上搭建可实时对话的语音助手",
+   "体验低延迟、可自然打断的语音交互",
+   "参考其流式切分方案构建自己的语音对话系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/x92FLnwf-nA",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音助手",
+   "语音对话",
+   "本地推理",
+   "流式处理",
+   "多模型流水线"
+  ],
+  "domain": "语音对话 AI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: This is a real-time conversational system for two-way speech communication with AI models, utilizing a continuous stream",
+   "L42: - **Voice Activity Detection**: Pyannote:pyannote/segmentation-3.0",
+   "L43: - **Speech Recognition**: Whisper:whisper-tiny.en (OpenAI)",
+   "L44: - **Language Model**: LM Studio/Ollama with qwen2.5:0.5b-instruct-q8_0",
+   "L45: - **Voice Synthesis**: Kokoro:hexgrad/Kokoro-82M"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     15,
+     26,
+     27,
+     28,
+     44
+    ],
+    "quotes": [
+     " - Install Ollama from https://ollama.ai/",
+     "4. **Run Ollama:**",
+     " - Start Ollama service",
+     " - Run: `ollama run qwen2.5:0.5b-instruct-q8_0` or any other model of your choice",
+     "- **Language Model**: LM Studio/Ollama with qwen2.5:0.5b-instruct-q8_0"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     18,
+     20
+    ],
+    "quotes": [
+     " - Clone this repository `git clone https://github.com/asiff00/On-Device-Speech-to-Speech-Conversational-AI.git`",
+     " - Run `git lfs pull` from the project root directory to download the models and voices"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     23,
+     24
+    ],
+    "note": "pip 安装 requirements 依赖，本产品未发布为包",
+    "quotes": [
+     " - Install requirements: `pip install -r requirements.txt`",
+     " - Add any missing packages if not already installed `pip install <package_name>`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "仅涉及 token 配置",
+    "quotes": [
+     " - Add your HuggingFace token to `.env`"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

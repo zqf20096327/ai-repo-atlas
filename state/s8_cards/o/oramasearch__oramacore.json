@@ -1,0 +1,125 @@
+{
+ "fn": "oramasearch/oramacore",
+ "sha": "986ae87a081b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带全文检索、向量库与 LLM 接口的 AI 搜索运行时",
+  "review": "OramaCore 是面向项目、回答引擎、copilot 与搜索场景的 AI 运行时，内置全文搜索引擎、向量数据库、带 action planning 与 reasoning 的 LLM 接口，以及用于编写自定义 agent 的 JavaScript 运行时。通过 Docker Compose 部署，自动生成嵌入并存入内置向量库，支持向量/混合/全文检索及自有数据上的 Answer Sessions。官方推荐 NVIDIA GPU（生产环境最低 A100，最优四张 H100）。以 AGPLv3 许可发布。",
+  "highlights": [
+   "内置全文搜索引擎与向量数据库，自动生成嵌入",
+   "LLM 接口支持 action planning 与 reasoning",
+   "JavaScript 运行时编写运行自定义数据 agent",
+   "支持向量、混合、全文检索及 Answer Sessions"
+  ],
+  "use_cases": [
+   "在自有数据上构建低配置的 RAG 与回答引擎",
+   "搭建类似 Perplexity/SearchGPT 的私有数据问答",
+   "用统一运行时同时获得向量与全文检索能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "全文检索",
+   "向量数据库",
+   "LLM基础设施",
+   "docker部署"
+  ],
+  "domain": "搜索/AI 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **OramaCore** is the AI runtime you need for your projects, answer engines,",
+   "L6: It includes a fully-fledged full-text search engine, vector database, LLM",
+   "L7: interface with action planning and reasoning, a JavaScript runtime to write and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     24,
+     36
+    ],
+    "quotes": [
+     "docker compose up",
+     "## Available Dockerfiles"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     52
+    ],
+    "quotes": [
+     "npm i @orama/core"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "作为 Answer Sessions 功能的类比参照，非竞品声明",
+    "quotes": [
+     "You can also perform **Answer Sessions** as you'd do on **Perplexity** or"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

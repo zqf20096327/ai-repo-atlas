@@ -1,0 +1,102 @@
+{
+ "fn": "ai-dynamo/aitune",
+ "sha": "fc8cd2a18d0d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 PyTorch 模型自动调优推理后端的 NVIDIA GPU 工具包",
+  "review": "NVIDIA 维护的推理调优工具包：针对 PyTorch 模型与流水线，在各 nn.Module 级别评估多种后端候选（含 PTQ、kernel 选择、CUDA graphs 等加速技术），做数值校验与性能测量后按吞吐/延迟/延迟预算策略选实现。提供 JIT 推理中调优与 AOT 生成 .ait 制品两种工作流，可复用于 Python、生成 Triton 模型仓库或经 Dynamo workers 部署。要求 Linux + NVIDIA GPU + 兼容 PyTorch/CUDA，附模型配方目录。",
+  "highlights": [
+   "nn.Module 级后端评估、数值校验与性能测量一体化工作流",
+   "JIT 推理时调优与 AOT 可复用 .ait 制品两种模式",
+   "支持 PTQ、kernel 选择、CUDA graphs 等加速技术",
+   "可生成 Triton 模型仓库或经 Dynamo workers 部署"
+  ],
+  "use_cases": [
+   "为部署前的 PyTorch 模型自动选择推理后端与加速配置",
+   "在现有应用中开启 JIT 调优加速推理",
+   "生成可复用的调优制品并部署到 Triton/Dynamo"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理优化",
+   "模型部署",
+   "GPU加速",
+   "模型调优"
+  ],
+  "domain": "深度学习推理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **NVIDIA AITune automates inference tuning for PyTorch models and pipelines on NVIDIA GPUs.**",
+   "L8: It brings inference engines and acceleration techniques together under a single, extensible API. AITune combines",
+   "L9: backend evaluation, numerical validation, and performance measurement into one workflow, selecting implementations"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     54,
+     65
+    ],
+    "quotes": [
+     "pip install --extra-index-url https://pypi.nvidia.com aitune",
+     "pip install diffusers transformers"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

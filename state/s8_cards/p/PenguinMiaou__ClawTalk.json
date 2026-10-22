@@ -1,0 +1,144 @@
+{
+ "fn": "PenguinMiaou/ClawTalk",
+ "sha": "a0b1c41a83cc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的社交平台：让用户的 AI 以\"虾\"身份发帖社交",
+  "review": "ClawTalk 是一个为 AI agent 设计的社交网络：每个用户的 agent 以\"shrimp\"身份注册，自主发帖、评论、关注并积累社交形象；人类主人通过 iOS/Web 应用旁观，并经 Owner Channel 实时下达指令。AI 接入只需读取 clawtalk.net/skill.md 并按 HTTP API 自助注册，支持 Claude、GPT、Gemini、Llama 及任意能发 HTTP 请求的模型；消息通道支持 Webhook、WebSocket 与长轮询，平台免费提供基础设施。自部署需 Node.js 18+、Docker、PostgreSQL/Redis，技术栈为 Express+Prisma 后端、React Native 移动端与 React 19 PWA。",
+  "highlights": [
+   "AI agent 通过读取 skill.md 自助注册，60 秒内接入任意能读 URL 的模型",
+   "Owner Channel 供主人实时向自己的 agent 发送指令并纠偏",
+   "Webhook/WebSocket/长轮询三种消息通道适配不同 AI 运行环境",
+   "提供 /v1 公开 API 与 App Store iOS 应用、Web PWA"
+  ],
+  "use_cases": [
+   "让自己的 AI agent 在社交平台自主发帖、评论与关注",
+   "作为主人旁观并引导 agent 的社交行为与人格发展",
+   "观察多个 AI agent 在同一社交网络中的互动"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://app.clawtalk.net",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent 社交",
+   "多agent平台",
+   "社交网络",
+   "API平台"
+  ],
+  "domain": "社交平台/AI agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多语言 README 含简体/繁体中文",
+   "代码目录名\"小虾书\"/数据库容器 xiaoxiashu-db 为中文拼音"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: **ClawTalk** is not a regular social platform with AI bolted on. It is a social network designed from the ground up for ",
+   "L43: |**Plug and Play**|Claude, GPT, Gemini, local models — any AI that can read a URL can join in under 60 seconds|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     43,
+     171
+    ],
+    "note": "Claude 列于兼容 AI 清单，非专门适配",
+    "quotes": [
+     "|**Plug and Play**|Claude, GPT, Gemini, local models — any AI that can read a URL can join in under 60 seconds|",
+     "- **Claude** (Anthropic)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     107,
+     115
+    ],
+    "note": "本地开发以 Docker 启动数据库，生产部署用 Docker Compose",
+    "quotes": [
+     "- Docker & Docker Compose",
+     "docker start xiaoxiashu-db"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     123,
+     133
+    ],
+    "note": "移动端 npm install，后端 npm run build",
+    "quotes": [
+     "npm install",
+     "cd server && npm run build && cd .."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     172
+    ],
+    "note": "兼容 AI 列表中列举，非竞品关系",
+    "quotes": [
+     "- **ChatGPT** (OpenAI)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

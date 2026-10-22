@@ -1,0 +1,206 @@
+{
+ "fn": "rsynnot/magic-lists-for-navidrome",
+ "sha": "263ad0852dea",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自建 Navidrome 音乐库的 AI 歌单生成器",
+  "review": "面向 Navidrome 自托管音乐服务用户的歌单工具：通过 Navidrome API 读取音乐库，生成「This Is Artist」「Genre Mix」「Re-Discover」等歌单类型，支持每日/每周/每月自动刷新与多音乐库。AI 为可选配置：不配置时回退为基于播放次数与元数据排序；配置后可接 Ollama 本地模型或 OpenRouter、Google AI、Groq 云服务。提供 Docker Compose、独立容器与 Python 源码三种运行方式，内置启动时系统检查页。作者声明项目处于早期阶段。",
+  "highlights": [
+   "This Is Artist / Genre Mix / Re-Discover 三类 AI 歌单生成",
+   "AI 可选：支持 Ollama 本地模型或 OpenRouter / Google AI / Groq，未配置时回退播放次数排序",
+   "每日/每周/每月自动刷新与多 Navidrome 音乐库支持",
+   "Docker Compose / 独立容器 / Python 源码三种安装方式"
+  ],
+  "use_cases": [
+   "给自己的 Navidrome 音乐库生成类似流媒体服务的智能歌单",
+   "定期自动刷新歌单让收藏保持更新",
+   "用本地 Ollama 模型离线生成歌单，不向云服务传数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    26
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音乐",
+   "自托管",
+   "Navidrome",
+   "歌单生成",
+   "LLM应用"
+  ],
+  "domain": "音乐/自托管工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "openrouter",
+   "groq"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: - 🎵 **This Is (Artist)** — Builds a definitive playlist for any artist in your library, combining hits, deep cuts, and f",
+   "L162: - **AI Provider**: Checks if AI features are configured (OpenRouter, Groq, Google AI, or Ollama)"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     188,
+     193
+    ],
+    "note": "可选本地 LLM 后端",
+    "quotes": [
+     "2. **Local LLM** (Free) - Run models locally with Ollama",
+     "### Option 2: Local LLM (Ollama)"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     189,
+     208
+    ],
+    "note": "内置 AI_PROVIDER 专属配置通道",
+    "quotes": [
+     "3. **OpenRouter** (Free/Paid) - Access to various cloud models including free options",
+     "AI_PROVIDER=openrouter"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     191,
+     230
+    ],
+    "note": "内置 AI_PROVIDER 专属配置通道",
+    "quotes": [
+     "5. **Groq** (Free/Paid) - Fast cloud models with no credit card required",
+     "AI_PROVIDER=groq"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     210
+    ],
+    "note": "OpenRouter 上的可选模型名",
+    "quotes": [
+     "AI_MODEL=deepseek/deepseek-chat         # Free model"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     211
+    ],
+    "note": "OpenRouter 上的可选模型名",
+    "quotes": [
+     "# AI_MODEL=anthropic/claude-3-haiku     # Paid model"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     233
+    ],
+    "note": "Groq 上的可选模型名",
+    "quotes": [
+     "# AI_MODEL=mixtral-8x7b-32768           # Alternative model"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     35,
+     49
+    ],
+    "quotes": [
+     "### Recommended: Add to Your Existing Docker Compose",
+     "   docker-compose up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "   git clone https://github.com/rsynnot/magic-lists-for-navidrome.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "requirements.txt 依赖安装，非本产品发布包",
+    "quotes": [
+     "   pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

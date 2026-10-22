@@ -1,0 +1,256 @@
+{
+ "fn": "LichAmnesia/openseek",
+ "sha": "1a895bc575c1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 TUI 编程 agent：多提供商路由、MCP/LSP、三种自治模式",
+  "review": "基于 Bun 的终端 AI 编程助手，内置 28 个提供商（OpenAI 兼容、Anthropic 协议、Google、本地 Ollama 等）并支持 BYOK。提供 50+ 工具与 100+ slash 命令，Plan/Agent/YOLO 三种模式对应只读规划、确认执行与完全自治；集成 MCP 客户端（stdio/SSE/websocket）与 LSP 内联诊断，另有 headless HTTP/SSE 运行时 API 供 IDE 与 CI 使用，并带每模型实时花费跟踪。运行要求 Bun ≥ 1.3（必需），macOS/Linux，Windows 需 WSL2。",
+  "highlights": [
+   "28 个内置提供商，覆盖 OpenAI 兼容/Anthropic 协议/Google/本地（Ollama、自定义）",
+   "Plan / Agent / YOLO 三级自治模式",
+   "MCP 客户端（stdio/SSE/websocket）与 LSP 内联诊断（tsserver、rust-analyzer 等）",
+   "headless HTTP/SSE 运行时 API（openseek serve --http）与实时费用计量"
+  ],
+  "use_cases": [
+   "在终端用自然语言驱动代码编辑、shell 与搜索等 50+ 工具",
+   "从只读规划到完全自治分阶段控制 agent 行为",
+   "通过自有 API key 接入多家模型提供商并跟踪花费",
+   "作为 headless 服务接入 IDE 或 CI 流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "coding agent",
+   "TUI/CLI",
+   "MCP",
+   "多提供商路由",
+   "终端工具"
+  ],
+  "domain": "开发工具/AI 编程助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "groq",
+   "cohere",
+   "openrouter",
+   "bedrock",
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 版本",
+   "中英双语文档"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ### Open-source TUI coding agent — multi-provider, MCP, LSP, Plan/Agent/YOLO modes",
+   "L24: Modern AI coding tools — Claude Code, Codex, Cursor — are great but closed-source and lock you to specific providers. **",
+   "L26: - **28 built-in providers** — OpenAI-compat (Mikan, DeepSeek, OpenRouter, Groq, Fireworks, NVIDIA NIM, Together, Cerebra"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     20,
+     26
+    ],
+    "quotes": [
+     " Thanks to RelayRouter for sponsoring this project! RelayRouter is a multi-protocol AI API relay — one key, many models.",
+     "- **28 built-in providers** — OpenAI-compat (Mikan, DeepSeek, OpenRouter, Groq, Fireworks, NVIDIA NIM, Together, Cerebra"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     20,
+     26,
+     89
+    ],
+    "quotes": [
+     " Thanks to RelayRouter for sponsoring this project! RelayRouter is a multi-protocol AI API relay — one key, many models.",
+     "- **28 built-in providers** — OpenAI-compat (Mikan, DeepSeek, OpenRouter, Groq, Fireworks, NVIDIA NIM, Together, Cerebra",
+     "|1|**env**|`OPENSEEK_PROVIDER`, `OPENSEEK_MODEL`, `OPENSEEK_API_KEY`, `OPENSEEK_BASE_URL`|Plus provider-specific keys (`"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **28 built-in providers** — OpenAI-compat (Mikan, DeepSeek, OpenRouter, Groq, Fireworks, NVIDIA NIM, Together, Cerebra"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **28 built-in providers** — OpenAI-compat (Mikan, DeepSeek, OpenRouter, Groq, Fireworks, NVIDIA NIM, Together, Cerebra"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **28 built-in providers** — OpenAI-compat (Mikan, DeepSeek, OpenRouter, Groq, Fireworks, NVIDIA NIM, Together, Cerebra"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **28 built-in providers** — OpenAI-compat (Mikan, DeepSeek, OpenRouter, Groq, Fireworks, NVIDIA NIM, Together, Cerebra"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **28 built-in providers** — OpenAI-compat (Mikan, DeepSeek, OpenRouter, Groq, Fireworks, NVIDIA NIM, Together, Cerebra"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **28 built-in providers** — OpenAI-compat (Mikan, DeepSeek, OpenRouter, Groq, Fireworks, NVIDIA NIM, Together, Cerebra"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     37,
+     56
+    ],
+    "note": "npm install -g openseek，仍需 PATH 中存在 bun",
+    "quotes": [
+     "- Bun ≥ 1.3 — **required at runtime, not optional.** The codebase uses `Bun.spawn` / `Bun.serve` / `Bun.file`; node alon",
+     "npm install -g openseek"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "brew 为安装 bun 依赖的途径，非本产品安装方式",
+    "quotes": [
+     "brew install oven-sh/bun/bun               # macOS (Homebrew)"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "quotes": [
+     " Thanks to RelayRouter for sponsoring this project! RelayRouter is a multi-protocol AI API relay — one key, many models."
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "Modern AI coding tools — Claude Code, Codex, Cursor — are great but closed-source and lock you to specific providers. **"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "Modern AI coding tools — Claude Code, Codex, Cursor — are great but closed-source and lock you to specific providers. **"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **28 built-in providers** — OpenAI-compat (Mikan, DeepSeek, OpenRouter, Groq, Fireworks, NVIDIA NIM, Together, Cerebra"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "fn": "raketenkater/ggrun",
+ "sha": "53912482ca94",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 GGUF 模型启动器：按显存/内存精确规划并启动 llama.cpp 后端",
+  "review": "基于 Go 的终端工具，读取 GGUF 文件与本机硬件信息（VRAM、RAM、GPU 带宽），为 llama.cpp / ik_llama.cpp 等后端生成并校验启动计划，随后启动 llama-server；本身不是推理引擎，未知旗标透传给 llama-server。支持大型 MoE 模型跨多 GPU 与系统 RAM 分布、模型推荐、从 Hugging Face 下载、--ai-tune 有界性能调优，并可将 OpenAI /v1 与 Anthropic 兼容端点接入 Claude Code 本地工作流。macOS 后端为弃用且尽力维护状态。",
+  "highlights": [
+   "读取 GGUF 与机器信息生成后端启动计划，启动前校验模型/KV-cache/安全余量内存",
+   "支持大型 MoE 跨多 GPU 与 RAM 分布，含 NVIDIA 主机-设备带宽实测",
+   "--ai-tune 测量有界安全旗标组合并保留最优配置",
+   "暴露 OpenAI 兼容 /v1 API 与 Anthropic 端点，--claude-code 接入本地 Claude Code"
+  ],
+  "use_cases": [
+   "在显存不匹配的多 GPU 机器上跑大 MoE 模型",
+   "不知道选什么模型时按硬件获得推荐并一键下载启动",
+   "把本地模型接给 Claude Code 做编码与 agent 任务",
+   "自动调优后端旗标并固化最优启动配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    239
+   ],
+   "note": "FreeToken 适配器标注 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM",
+   "多GPU部署",
+   "llama.cpp生态",
+   "启动器/TUI",
+   "MoE"
+  ],
+  "domain": "LLM 基础设施/本地推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Underneath, ggrun uses llama.cpp,",
+   "L20: ggrun is not an inference engine. It reads the GGUF and the machine, builds a",
+   "L123: - Exposes llama.cpp's OpenAI-compatible `/v1` API (chat completions and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "support",
+    "lines": [
+     15,
+     20,
+     21
+    ],
+    "quotes": [
+     "Underneath, ggrun uses llama.cpp,",
+     "ggrun is not an inference engine. It reads the GGUF and the machine, builds a",
+     "launch plan for the selected backend, checks that the plan fits, starts the"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     123,
+     124,
+     125
+    ],
+    "quotes": [
+     "- Exposes llama.cpp's OpenAI-compatible `/v1` API (chat completions and",
+     " completions) at the configured host:port, alongside the Anthropic endpoint",
+     " used for Claude Code."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     150,
+     196
+    ],
+    "quotes": [
+     "can't shift context that way (native DeepSeek V4, Laguna) get a rolling",
+     "and RAM and actually runs. A separate DeepSeek-V4-Flash test at 1M context and"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     188
+    ],
+    "note": "仅出现在历史基准对比表中",
+    "quotes": [
+     "|Model|Ollama 0.30.8|raw llama.cpp `--fit`|ggrun|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "212 GB RAM",
+    "rel": "mention",
+    "lines": [
+     170
+    ],
+    "note": "实测结果中的硬件配置描述，非安装要求",
+    "quotes": [
+     "|3 GPUs (12+24+12 GB), 212 GB RAM|Qwen3.8-27B Q5_K_S: 3/3 tasks, 82-116 s each|GLM-5.3 IQ2_M: not run (disk failure)|Qwe"
+    ]
+   },
+   {
+    "term": "CPU only",
+    "rel": "mention",
+    "lines": [
+     173
+    ],
+    "note": "实测硬件配置项",
+    "quotes": [
+     "|CPU only, 16 GiB|Qwen3.6-35B-A3B IQ2_XXS: 2/3 (one 1 h timeout)|Qwen3.8-27B IQ2_XXS: 3/3 but 20-44 min each|same as Bes"
+    ]
+   },
+   {
+    "term": "128GB RAM",
+    "rel": "mention",
+    "lines": [
+     183
+    ],
+    "note": "历史基准硬件描述",
+    "quotes": [
+     "128GB RAM, with the smaller cards on slow PCIe links. It is not a comparison"
+    ]
+   },
+   {
+    "term": "vram-headroom 2G",
+    "rel": "mention",
+    "lines": [
+     220
+    ],
+    "note": "用户可设置的约束旗标示例",
+    "quotes": [
+     "ggrun model.gguf --vram-headroom 2G"
+    ]
+   },
+   {
+    "term": "ram-headroom 2G",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "ram-headroom 8G",
+    "rel": "mention",
+    "lines": [
+     221
+    ],
+    "note": "用户可设置的约束旗标示例",
+    "quotes": [
+     "ggrun model.gguf --ram-headroom 8G"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     6,
+     127,
+     133
+    ],
+    "note": "被接入的 agent CLI，ggrun 替换其模型端点，非替代/竞品",
+    "quotes": [
+     "with a local Claude Code workflow for coding and other agent tasks.",
+     "## Local Claude Code and Ultracode workflows",
+     "This starts the model, points Claude Code model aliases at the local"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    232
+   ],
+   "note": "macOS 后端标记 deprecated（best-effort）"
+  }
+ }
+}

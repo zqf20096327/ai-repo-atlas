@@ -1,0 +1,140 @@
+{
+ "fn": "szilard/GBM-perf",
+ "sha": "5ab784b2c032",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 GBM/GBDT 实现（xgboost/lightgbm/catboost/h2o）性能基准",
+  "review": "对比 h2o、xgboost、lightgbm、catboost 四种开源梯度提升实现在 airline 数据集（100K/1M/10M/100M 条记录，100 棵树、深度 10）上的训练时间、AUC 与内存占用，覆盖 CPU 与 GPU（V100）环境。附加内容含多核扩展性、多路 CPU（NUMA）影响、GPU 利用率模式、RAM 用量及 Spark MLlib GBT 对比。全程通过 Docker 自动化复现，git clone 后 build/run 即可重跑基准。",
+  "highlights": [
+   "四种 GBM 实现在多个数据规模上的训练时间/AUC/内存基准结果",
+   "Docker 全自动复现流程（CPU 与 GPU 两套镜像）",
+   "多核扩展与多路 NUMA 场景的专项测量（含 2020 优化前后对比）",
+   "Spark MLlib GBT 的速度与内存对比数据"
+  ],
+  "use_cases": [
+   "为梯度提升库选型时查阅训练速度与内存占用数据",
+   "评估多核/多路 CPU 或 GPU 环境下的训练加速比",
+   "用 Docker 一键复现基准验证结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "梯度提升",
+   "机器学习",
+   "性能对比"
+  ],
+  "domain": "机器学习/性能基准",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Performance of the top/most widely used open source gradient boosting machines (GBM)/ boosted trees (GBDT)",
+   "L17: Installing to latest software versions and running/timing is easy and fully automated with docker:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     24,
+     35
+    ],
+    "quotes": [
+     "git clone https://github.com/szilard/GBM-perf.git",
+     "git clone https://github.com/szilard/GBM-perf.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     26,
+     27,
+     37,
+     38
+    ],
+    "quotes": [
+     "sudo docker build --build-arg CACHE_DATE=$(date +%Y-%m-%d) -t gbmperf_cpu .",
+     "sudo docker run --rm gbmperf_cpu",
+     "sudo docker build --build-arg CACHE_DATE=$(date +%Y-%m-%d) -t gbmperf_gpu .",
+     "sudo docker run --rm --runtime=nvidia gbmperf_gpu"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "960GB RAM",
+    "rel": "mention",
+    "lines": [
+     266
+    ],
+    "note": "Spark 运行所用服务器配置，非本基准自身要求",
+    "quotes": [
+     "(100M ran on x1e.8xlarge [32 cores, 960GB RAM], 10M ran on r4.8xlarge [32 cores, 240GB RAM])"
+    ]
+   },
+   {
+    "term": "5GB RAM",
+    "rel": "mention",
+    "lines": [
+     268
+    ],
+    "note": "lightgbm 的训练内存占用测量结果",
+    "quotes": [
+     "(compare this with 100M records 100 trees depth 10, lightgbm 5GB RAM usage)"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

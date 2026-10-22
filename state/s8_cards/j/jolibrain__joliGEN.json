@@ -1,0 +1,108 @@
+{
+ "fn": "jolibrain/joliGEN",
+ "sha": "2e7733f1771e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向真实应用的图像到图像生成模型训练框架（GAN/扩散/一致性模型）",
+  "review": "Jolibrain 维护的生成式 AI 图像与视频工具集：集成 GAN、Diffusion 与 Consistency 模型，用于成对/非成对图像到图像翻译、风格迁移、物体插入与删除、图像修复等任务，强调语义保持（标签框、掩码、类别等）。提供带 REST API 的服务器、Docker 化部署与 CPU/GPU 支持，可通过 DeepDetect 做 C++ 生产部署。基于 PyTorch，代码结构参考 pytorch-CycleGAN-and-pix2pix 等项目。",
+  "highlights": [
+   "GAN、Diffusion、Consistency 模型的图像到图像翻译训练",
+   "语义一致性保持：边界框、掩码、类别标注等",
+   "带 REST API 的服务器与 Docker 化部署",
+   "输出质量指标：FID、PSNR、KID"
+  ],
+  "use_cases": [
+   "AR/元宇宙中替换图像元素为逼真物体",
+   "数据集智能增强（缓解类别不平衡、扩充测试集）",
+   "仿真到真实的图像转换并保持标注与度量",
+   "物体插入与移除，如虚拟试穿、眼镜移除"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像生成",
+   "图像到图像翻译",
+   "GAN/扩散模型",
+   "数据增强",
+   "模型训练框架"
+  ],
+  "domain": "计算机视觉/生成式模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: **JoliGEN** is an integrated framework for training custom generative AI image-to-image models",
+   "L11: - JoliGEN implements both **GAN, Diffusion and Consistency models** for unpaired and paired image to image translation t"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     109,
+     121
+    ],
+    "note": "仅 black/pre-commit 等开发工具安装，非本产品安装方式",
+    "quotes": [
+     "pip install black",
+     "pip install pre-commit"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

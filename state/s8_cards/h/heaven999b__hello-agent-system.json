@@ -1,0 +1,168 @@
+{
+ "fn": "heaven999b/hello-agent-system",
+ "sha": "ee233d112ad0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "中英双语企业级 Agent 系统设计课程，含可运行的 agentkit 运行时",
+  "review": "面向开发者的 32 节中英双语训练营，不依赖 Agent 框架，从零手写企业级 Agent 的工具、上下文、架构、可靠性、安全、评估、并发与分布式执行等各层，每课配带自动化测试的离线练习（ScriptedLLM 无需 API key）。附 agentkit 教学运行时（async 单进程、SQLite 多进程 worker、Postgres/Redis/Temporal/LiteLLM 等适配器）与 ITBuddy 综合实战。支持任何 OpenAI 兼容接口；agentkit 是参考实现，Docker/K8s 配置未实际启动过。",
+  "highlights": [
+   "32 节课覆盖工具/可靠性/安全/评估/分布式/成本/RAG/发布运维",
+   "每课练习带离线确定性自动化测试，零成本可学完",
+   "agentkit 运行时：async 核心 + 多进程租约/fencing 队列 + 成熟组件适配器",
+   "附失败模式图鉴（79 种）、设计评审清单（199 条）、框架对照表"
+  ],
+  "use_cases": [
+   "系统学习从 LLM API 到生产级 Agent 系统的完整工程链路",
+   "想理解主流 Agent 框架背后原理后快速上手框架",
+   "面试或上线前用评审清单与失败模式图鉴自查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/课程",
+   "AI Agent",
+   "工程教育",
+   "分布式系统",
+   "LLMOps"
+  ],
+  "domain": "AI Agent 工程教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语讲义，代码注释与 demo 输出为中文",
+   "提到通义/DeepSeek 等中文模型接口",
+   "全中文 README 版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **从\"会调 LLM API\"到\"能设计生产级 Agent 系统\"：32 节课 · 中英双语 · 每课都有带测试的练习。**",
+   "L140: 每节课的流程都一样：**读讲义 → 跑 demo → 写练习 → `make lesson N=xx` 让测试变绿 → 过自测清单**。每课开头都标注了一篇 📖 必读论文或文章。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     13,
+     15
+    ],
+    "quotes": [
+     "Built with Claude Opus 5.5",
+     "本项目由 **Claude Opus 5.5** 协助架构设计"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     36,
+     119
+    ],
+    "quotes": [
+     "|模型|绑定某家厂商|任何 OpenAI 兼容接口（OpenAI / DeepSeek / Qwen / vLLM / 各类模型网关）|",
+     "LLM_BASE_URL=https://api.openai.com/v1     # 或 DeepSeek / 通义 / 本地 vLLM / 模型网关"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     36,
+     119
+    ],
+    "quotes": [
+     "|模型|绑定某家厂商|任何 OpenAI 兼容接口（OpenAI / DeepSeek / Qwen / vLLM / 各类模型网关）|",
+     "LLM_BASE_URL=https://api.openai.com/v1     # 或 DeepSeek / 通义 / 本地 vLLM / 模型网关"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     111,
+     113
+    ],
+    "quotes": [
+     "git clone https://github.com/heaven999b/hello-agent-system.git",
+     "make setup          # 创建 .venv 并安装（核心依赖只有 openai + pydantic）"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     36,
+     119
+    ],
+    "note": "作为可选的 OpenAI 兼容接口被列举",
+    "quotes": [
+     "|模型|绑定某家厂商|任何 OpenAI 兼容接口（OpenAI / DeepSeek / Qwen / vLLM / 各类模型网关）|",
+     "LLM_BASE_URL=https://api.openai.com/v1     # 或 DeepSeek / 通义 / 本地 vLLM / 模型网关"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     265
+    ],
+    "note": "FAQ 中讨论的学习对象，非替代/竞品",
+    "quotes": [
+     " 为什么不直接学 LangChain / LangGraph？"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

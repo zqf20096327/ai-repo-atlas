@@ -1,0 +1,179 @@
+{
+ "fn": "M64GitHub/WireClaw",
+ "sha": "a540ab8e3785",
+ "source": "readme",
+ "identity": {
+  "one_liner": "运行在 ESP32 上的本地 AI agent：对话配置硬件与离线自动化规则",
+  "review": "面向 ESP32-C6/S3/C3（需 4MB flash）的固件：通过 Telegram、串口或 NATS 用自然语言对话，由 LLM（OpenRouter 或 Ollama/llama.cpp 等本地服务器）产生工具调用，配置 GPIO、传感器、继电器和自动化规则；规则持久化到 flash，由主循环在无网络、无 LLM 的条件下 7x24 运行。支持持久记忆、NTP 时间规则、串口桥接外部设备、NATS 虚拟传感器与多设备组网，提供浏览器 Web Flasher 与 Web 配置门户，也可用 PlatformIO 手动构建。",
+  "highlights": [
+   "AI 对话创建规则，规则引擎离线 7x24 运行（无 LLM 调用）",
+   "持久记忆跨重启保留用户偏好与设备信息",
+   "20 个工具的 agent 循环，每条消息最多 5 次工具调用迭代",
+   "NATS 虚拟传感器与串口桥接接入外部系统（Home Assistant、PLC、Arduino 等）"
+  ],
+  "use_cases": [
+   "用手机通过 Telegram 对话控制 ESP32 上的传感器与继电器",
+   "在微控制器上搭建断网仍持续运行的温度/时间触发自动化",
+   "把带串口的模块（GPS、CO2、RFID）接入统一规则引擎"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "wireclaw.io/flash.html",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "嵌入式AI",
+   "物联网/智能家居",
+   "自动化规则引擎",
+   "边缘计算",
+   "硬件控制"
+  ],
+  "domain": "嵌入式/物联网",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L152: **The AI loop** handles conversation. When you send a message - via Telegram, serial, or NATS - it calls an LLM (OpenRou",
+   "L154: **The rule loop** runs every iteration of `loop()`, continuously, with no network and no LLM. Each cycle it walks throug",
+   "L156: The AI creates the rules. The rules run without the AI."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     152,
+     198,
+     245
+    ],
+    "quotes": [
+     "**The AI loop** handles conversation. When you send a message - via Telegram, serial, or NATS - it calls an LLM (OpenRou",
+     "- **Requirements:** WiFi network, OpenRouter API key or local LLM server",
+     "Leave `telegram_token` empty to disable Telegram. Leave `nats_host` empty to disable NATS. Leave `api_base_url` empty to"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     152,
+     183,
+     249
+    ],
+    "note": "可选的本地 LLM 服务器（OpenAI 兼容端点）",
+    "quotes": [
+     "**The AI loop** handles conversation. When you send a message - via Telegram, serial, or NATS - it calls an LLM (OpenRou",
+     "- **Local LLM** - use a local server (Ollama, llama.cpp) over HTTP instead of cloud API",
+     "For a local LLM: set `api_base_url` to your server's OpenAI-compatible endpoint, e.g. `http://192.168.1.50:11434/v1/chat"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     259,
+     264
+    ],
+    "note": "测试模型表中列举 Claude",
+    "quotes": [
+     "|Claude Sonnet 4.5|~10s|Excellent|Detailed markdown with bold labels.|",
+     "|Claude 3 Haiku|~7s|Basic|May misinterpret delays in chain steps.|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     261,
+     265
+    ],
+    "note": "测试模型表中列举",
+    "quotes": [
+     "|DeepSeek V3.2|~44s|Excellent|Thinking model. Correct but very slow.|",
+     "|DeepSeek V3|~14s|Basic|May misinterpret delays in chain steps.|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     227
+    ],
+    "note": "pip 安装 PlatformIO 构建工具，非本固件本体安装途径；主安装方式为浏览器 Web Flasher（L212）",
+    "quotes": [
+     "pip install platformio"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     267,
+     268
+    ],
+    "note": "测试模型表中列举 Qwen 3 Coder / Qwen 2.5 7B",
+    "quotes": [
+     "|Qwen 3 Coder|~6s|Basic|May misinterpret delays in chain steps.|",
+     "|Qwen 2.5 7B|~10s|Fail|Missing steps, wrong delays, bad template syntax.|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

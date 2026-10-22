@@ -1,0 +1,213 @@
+{
+ "fn": "lidge-ai/cli-jaw",
+ "sha": "7c61a0c2f52f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "统一管理多个 AI 编程 CLI 的个人编排器与仪表盘",
+  "review": "CLI-JAW 将用户已有的 AI 编程 CLI（Claude、Codex、Cursor、Grok、Copilot、OpenCode、Kiro、Antigravity、Pi）统一为一个助手：主 CLI（Boss）可调用其他 CLI 作为 employees，共享一份记忆，并提供管理仪表盘、Kanban 看板、Markdown 笔记工作区。无需 API key，复用既有订阅，本地运行。原生 Code API 提供隔离的多 runtime 会话与断点续传。支持 npm、桌面安装包、一键脚本与 Docker 部署；Windows 原生 PowerShell 安装器为 beta。注意 Claude E 与 ai-e 多路复用器已移除。",
+  "highlights": [
+   "一个主 CLI 调度多个 AI CLI 协同工作（Boss/employees 模式）",
+   "无需 API key，路由至既有订阅，本地运行",
+   "管理仪表盘（端口 24576）+ 各实例 Web UI（端口 3457）",
+   "提供 npm / 桌面安装包 / 一键脚本 / Docker compose 多种安装方式"
+  ],
+  "use_cases": [
+   "同时使用多个 AI 编程 CLI 时避免来回切换与复制粘贴",
+   "通过统一仪表盘启动、停止和监控各 AI 会话实例",
+   "用看板和优先级矩阵跟踪多个 agent 会话的工作进度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    62
+   ],
+   "note": "原生 PowerShell 安装器自称 beta"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI CLI 编排",
+   "多 agent 协作",
+   "自动化",
+   "开发者工具",
+   "仪表盘"
+  ],
+  "domain": "AI 开发者工具/agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  One assistant, one memory, one dashboard for the AI coding CLIs you already pay for.",
+   "L43: CLI-JAW unifies the AI coding CLIs you already use into **one assistant with one memory and one dashboard**. Your main C"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     4,
+     50,
+     124
+    ],
+    "note": "原生 Code API 提供 Claude 隔离会话，安装时默认初始化 Claude",
+    "quotes": [
+     "Claude, Codex, Cursor, Grok, Copilot, OpenCode, Kiro, Antigravity and Pi — working together as a team.",
+     "The native Code API (`/api/code`) provides isolated Codex, Claude, Cursor, and Grok sessions with durable transcripts an",
+     "> **First time?** The default npm install initializes CLI-JAW and attempts native Claude setup. Other AI CLIs are option"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     4,
+     50
+    ],
+    "note": "原生 Code API 提供隔离 Grok 会话",
+    "quotes": [
+     "Claude, Codex, Cursor, Grok, Copilot, OpenCode, Kiro, Antigravity and Pi — working together as a team.",
+     "The native Code API (`/api/code`) provides isolated Codex, Claude, Cursor, and Grok sessions with durable transcripts an"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     13,
+     85,
+     102
+    ],
+    "quotes": [
+     "npm install -g cli-jaw",
+     "npm install -g cli-jaw",
+     "npm install -g cli-jaw --allow-scripts=cli-jaw"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     17,
+     18,
+     19
+    ],
+    "note": "提供 macOS .dmg / Windows .exe / Linux .AppImage 下载",
+    "quotes": [
+     " Download for macOS (.dmg)",
+     " Download for Windows (.exe)",
+     " Download for Linux (.AppImage)"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     280
+    ],
+    "quotes": [
+     "docker compose up -d       # → http://localhost:3457"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     4,
+     289
+    ],
+    "note": "被接入管理的 CLI，提供免费档登录",
+    "quotes": [
+     "Claude, Codex, Cursor, Grok, Copilot, OpenCode, Kiro, Antigravity and Pi — working together as a team.",
+     "copilot login        # GitHub Copilot (free tier available)"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     4,
+     50
+    ],
+    "quotes": [
+     "Claude, Codex, Cursor, Grok, Copilot, OpenCode, Kiro, Antigravity and Pi — working together as a team.",
+     "The native Code API (`/api/code`) provides isolated Codex, Claude, Cursor, and Grok sessions with durable transcripts an"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     347,
+     387
+    ],
+    "quotes": [
+     "Drive Chrome through the DevTools Protocol, click by description with `jaw browser vision-click \"Login button\"`, and con",
+     "|**Codex**|`gpt-5.5`|`codex login`|ChatGPT Pro subscription or higher|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     392
+    ],
+    "quotes": [
+     "|**OpenCode**|`opencode-go/kimi-k2.6`|`opencode`|Free models available|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L126 移除的是其内部 runtime（claude-e/ai-e），非本产品弃用"
+  }
+ }
+}

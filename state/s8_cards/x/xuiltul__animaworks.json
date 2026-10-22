@@ -1,0 +1,256 @@
+{
+ "fn": "xuiltul/animaworks",
+ "sha": "159d87315c0b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把持久 AI 代理组成自治软件组织的编排框架",
+  "review": "AnimaWorks 是一个将持久化 AI 代理组织为『运行中组织』的框架：代理用 git/CI 分解任务、在并行 worktree 中实现、多模型互相评审、开 PR、修 CI、做部署与运行时观测，仅在例外时呼叫人类（call_human）。核心机制包括 GitHub 事件网关自动转任务、按 PR 串行化执行、心跳/Cron 驱动的 24/7 自治循环、神经科学启发的记忆（向量+BM25+事实/实体检索、巩固与主动遗忘），支持 7 种引擎（Claude SDK/Codex/Cursor Agent/Gemini CLI/Grok Build/LiteLLM/Assisted）及逐引擎回退链。提供 Web 设置向导、Workspace 仪表盘与像素办公室实时视图。安装支持 uv/Docker/pip，需 Python 3.12+；Claude Agent SDK 模式不支持 Windows。",
+  "highlights": [
+   "GitHub 事件（CI 失败/评审评论/合并冲突）自动转为代理任务，带去重与重试限制",
+   "每个 PR 多模型各出一份评审再整合为最终结论",
+   "神经科学启发的记忆：向量+BM25+事实/实体检索、巩固、主动遗忘",
+   "7 种模型引擎与逐引擎回退链，每个代理独立 OS 进程并有监督进程自动重启"
+  ],
+  "use_cases": [
+   "让一组 AI 代理承担软件产品的日常开发、评审与运维",
+   "把 GitHub 上的 CI 失败和评审评论自动变成代理的修复任务",
+   "以组织而非脚本的方式处理邮件回复、会议纪要、Slack 发帖等事务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多代理编排",
+   "自治代理",
+   "软件开发自动化",
+   "agent记忆",
+   "组织即代码"
+  ],
+  "domain": "AI 代理框架/软件开发自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: AnimaWorks is a framework that turns persistent AI agents into a \"living organization.\" Give it a goal, and the agents b",
+   "L12: AnimaWorks doesn't hardcode this pipeline. What the framework handles is turning GitHub events into tasks, serializing e",
+   "L163: 1. **A task arrives** — from a human, from another agent, from a schedule (heartbeat / cron), or from a GitHub event. Th"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     39,
+     98,
+     182
+    ],
+    "quotes": [
+     "**If you have the Claude Code CLI installed or are logged into Codex, no API key is needed.**",
+     "> **Want to use other LLMs?** Claude, GPT, Gemini, local models, and more are supported. Enter an API key in the setup w",
+     "|**Multi-Model**|7 engines: Claude SDK / Codex / Cursor Agent / Gemini CLI / Grok Build / LiteLLM / Assisted — with per-"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     182,
+     242
+    ],
+    "quotes": [
+     "|**Multi-Model**|7 engines: Claude SDK / Codex / Cursor Agent / Gemini CLI / Grok Build / LiteLLM / Assisted — with per-",
+     "|X (Grok Build)|Grok Build CLI wrapper (ACP stdio)|`grok/*` models|Grok Build agent loop via ACP stdio|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     243
+    ],
+    "quotes": [
+     "|A (Autonomous)|LiteLLM + tool_use|GPT, Gemini, Mistral, Bedrock, Vertex, xAI, DeepSeek, etc.|CC-compatible (Read/Write/"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     243,
+     300
+    ],
+    "quotes": [
+     "|A (Autonomous)|LiteLLM + tool_use|GPT, Gemini, Mistral, Bedrock, Vertex, xAI, DeepSeek, etc.|CC-compatible (Read/Write/",
+     "Configure **Azure OpenAI**, **Vertex AI (Gemini)**, **AWS Bedrock**, and **vLLM** in the `credentials` section of `confi"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     300
+    ],
+    "quotes": [
+     "Configure **Azure OpenAI**, **Vertex AI (Gemini)**, **AWS Bedrock**, and **vLLM** in the `credentials` section of `confi"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     300,
+     444
+    ],
+    "quotes": [
+     "Configure **Azure OpenAI**, **Vertex AI (Gemini)**, **AWS Bedrock**, and **vLLM** in the `credentials` section of `confi",
+     "|LLM providers|Anthropic, OpenAI, Google, Azure, Vertex AI, AWS Bedrock, Ollama, vLLM, and others (via LiteLLM)|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     302,
+     444
+    ],
+    "quotes": [
+     "Local models such as **Ollama** do not require an API key. Specify the endpoint in `OLLAMA_SERVERS` (default: `http://lo",
+     "|LLM providers|Anthropic, OpenAI, Google, Azure, Vertex AI, AWS Bedrock, Ollama, vLLM, and others (via LiteLLM)|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     76,
+     122
+    ],
+    "quotes": [
+     "git clone https://github.com/xuiltul/animaworks.git",
+     "git clone https://github.com/xuiltul/animaworks.git && cd animaworks"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     127
+    ],
+    "quotes": [
+     "docker compose up -d --build"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     145
+    ],
+    "note": "macOS 系统自带 Python 3.9 不满足 3.12+ 要求时经 Homebrew 安装 Python，属依赖安装途径",
+    "quotes": [
+     "> **For macOS users:** The system Python on macOS Sonoma and earlier (`/usr/bin/python3`) is version 3.9, which doesn't "
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     153,
+     157
+    ],
+    "quotes": [
+     "pip install --upgrade pip && pip install -e .",
+     "Note: the bare `pip install -e .` doesn't include the Codex extra. If you're using Mode C, add `.[codex]`."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     39,
+     139
+    ],
+    "note": "作为已安装 CLI 即可免 API key 运行的执行引擎，非替代对象",
+    "quotes": [
+     "**If you have the Claude Code CLI installed or are logged into Codex, no API key is needed.**",
+     "- The image includes git / GitHub CLI / Node.js 22 / Claude Code CLI, with `IS_SANDBOX=1` and `--foreground` baked in. D"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     182
+    ],
+    "quotes": [
+     "|**Multi-Model**|7 engines: Claude SDK / Codex / Cursor Agent / Gemini CLI / Grok Build / LiteLLM / Assisted — with per-"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     182
+    ],
+    "note": "对比表中 LangGraph 一栏的模型来源描述",
+    "quotes": [
+     "|**Multi-Model**|7 engines: Claude SDK / Codex / Cursor Agent / Gemini CLI / Grok Build / LiteLLM / Assisted — with per-"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

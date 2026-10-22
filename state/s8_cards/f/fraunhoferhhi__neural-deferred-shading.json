@@ -1,0 +1,111 @@
+{
+ "fn": "fraunhoferhhi/neural-deferred-shading",
+ "sha": "48f57d18afbc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CVPR 2022 论文官方代码：可微网格渲染+神经着色的多视角三维重建",
+  "review": "Fraunhofer HHI 发布的 CVPR 2022 论文官方 PyTorch 实现：基于可微网格渲染与神经着色（neural shading）从多视角 RGB(A) 图像与相机参数快速重建物体网格。输入为视图文件夹（含 OpenCV 格式内外参）、场景包围盒，可选初始网格；输出网格与学习到的着色器，附带 OpenGL 交互查看器与性能分析分支。提供 DTU 数据集示例、IDR 格式转换脚本；实验使用 24 GB GPU，显存不足时需降低输入分辨率。",
+  "highlights": [
+   "可微网格渲染 + 神经着色的多视角重建管线",
+   "支持自定义场景输入（视图 + 相机内外参 + 包围盒 + 可选初始网格）",
+   "OpenGL 交互查看器检查重建网格与学习到的外观",
+   "提供 DTU 数据集示例与 IDR→NDS 格式转换脚本"
+  ],
+  "use_cases": [
+   "我想从多视角照片重建物体的三维网格",
+   "我想复现或对比 CVPR 2022 的神经延迟着色重建方法",
+   "我想检查重建网格及其学习到的外观（交互查看器）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://fraunhoferhhi.github.io/neural-deferred-shading",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "三维重建",
+   "神经渲染",
+   "可微渲染",
+   "计算机视觉",
+   "Pytorch科研代码"
+  ],
+  "domain": "计算机视觉/三维图形",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: Official code for the CVPR 2022 paper \"Multi-View Mesh Reconstruction with N eural D eferred S hading\", a method for fas",
+   "L30: pip install -r requirements.txt"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     118
+    ],
+    "note": "查看器可选依赖 pycuda 需从源码构建，非本产品安装主路径",
+    "quotes": [
+     "git clone --recursive https://github.com/inducer/pycuda.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

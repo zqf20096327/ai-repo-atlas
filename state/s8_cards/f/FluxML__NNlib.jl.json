@@ -1,0 +1,88 @@
+{
+ "fn": "FluxML/NNlib.jl",
+ "sha": "58f890f35b29",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Julia 神经网络基础算子库，供 Flux.jl 等加载使用",
+  "review": "NNlib.jl 是 Julia 语言的神经网络基础函数库，提供 softmax、sigmoid、批量矩阵乘法、卷积与池化等算子。Flux.jl 加载并使用其中多数函数，该库也可独立使用。通过 ChainRules.jl 定义梯度，供 Zygote.jl 等自动微分包使用。GPU 支持以包扩展形式提供，导入 CUDA/cuDNN 或 AMDGPU 即可启用对应后端。",
+  "highlights": [
+   "提供 softmax、sigmoid、批量乘法、卷积、池化等神经网络基础函数",
+   "经 ChainRules.jl 定义梯度，供 Zygote.jl 等自动微分包使用",
+   "GPU 支持以包扩展形式提供（CUDA/cuDNN、AMDGPU）",
+   "可被 Flux.jl 加载，也可独立使用"
+  ],
+  "use_cases": [
+   "为 Julia 神经网络项目提供基础算子",
+   "配合 Zygote.jl 做自动微分",
+   "在 CUDA 或 AMD GPU 上运行神经网络算子"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经网络算子库",
+   "Julia",
+   "深度学习",
+   "GPU加速"
+  ],
+  "domain": "机器学习/神经网络库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This package provides a library of functions useful for neural networks, such as softmax, sigmoid, batched multiplicatio",
+   "L11: GPU support is provided as package extensions (see the `ext/` folder). In order to load the extensions, use the imports"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

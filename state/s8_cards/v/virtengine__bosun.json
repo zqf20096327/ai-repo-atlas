@@ -1,0 +1,152 @@
+{
+ "fn": "virtengine/bosun",
+ "sha": "88a08900e4a6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自主软件工程师的控制平面：调度多个 AI 执行器完成交付",
+  "review": "面向工程团队的自治软件工程控制平面：将任务规划并分派给 Codex、Copilot、Claude、OpenCode 四类执行器，自动处理重试、故障转移、PR 生命周期（CI 失败自动打标、通过后经审查门自动合并），并将运行持久化到磁盘支持重启恢复。操作者通过 Telegram、Mini App 仪表盘与可选 WhatsApp 通知保持控制，集成 GitHub 与 Jira。提供三种工作流档位（手动/均衡/自治）。安装支持 npm、Docker、源码与 Electron 桌面端，需 Node.js 22.13+ 与 Git。",
+  "highlights": [
+   "跨 Codex/Copilot/Claude/OpenCode 四类执行器路由任务并支持重试与故障转移",
+   "PR 生命周期自动化：CI 失败打标 bosun-needs-fix，带审查门的自动合并",
+   "运行持久化与卡死状态自动恢复、升级",
+   "Telegram 控制、Mini App 仪表盘与 Jira/GitHub 集成"
+  ],
+  "use_cases": [
+   "让多个 AI 编码执行器按工作流自动处理 issue 到合并的完整交付环",
+   "通过 Telegram 远程监控与控制自治工程任务的执行",
+   "无人值守运行守护进程并自动恢复卡死任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI工程编排",
+   "自主Agent",
+   "CI/CD",
+   "开发自动化",
+   "控制平面"
+  ],
+  "domain": "软件开发自动化/Agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Bosun is a production-grade control plane for an autonomous software engineer. It plans and routes work across executors",
+   "L91: - Routes work across Codex, Copilot, Claude, and OpenCode executors"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     91,
+     122
+    ],
+    "note": "Claude 作为内置执行器，配置 ANTHROPIC_API_KEY 接入",
+    "quotes": [
+     "- Routes work across Codex, Copilot, Claude, and OpenCode executors",
+     "|Claude|`claude-sdk`|`ANTHROPIC_API_KEY`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "npm install -g bosun"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     40,
+     50
+    ],
+    "quotes": [
+     "docker run -d --name bosun -p 3080:3080 \\",
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     49
+    ],
+    "quotes": [
+     "git clone https://github.com/virtengine/bosun.git && cd bosun"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     91,
+     121
+    ],
+    "note": "作为可路由的执行器之一被接入，非替代/竞品对象",
+    "quotes": [
+     "- Routes work across Codex, Copilot, Claude, and OpenCode executors",
+     "|Copilot (VS Code)|`copilot-sdk`|VS Code session|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

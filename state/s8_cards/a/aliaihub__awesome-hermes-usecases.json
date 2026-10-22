@@ -1,0 +1,146 @@
+{
+ "fn": "aliaihub/awesome-hermes-usecases",
+ "sha": "942655a1297d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Hermes Agent 真实用例策展清单，每条附一手来源证据",
+  "review": "社区维护的 Hermes Agent（Nous Research 出品的自我改进 AI agent）真实用例合集，按自动化调度、消息机器人、编码工作流、多 agent 编排、记忆与上下文、可观测运维、安全测试等 14 个类别组织。收录规则要求每条用例链接到一手来源（官方文档、配套仓库、含部署细节的 issue 或第一人称博客），仅推文或营销页证据的条目放入 unverified 清单。提供 curl 安装 Hermes 的快速开始命令与 3 个可运行的示例工程。",
+  "highlights": [
+   "每条用例强制链接一手来源，弱证据条目隔离到 unverified 清单",
+   "覆盖 10+ 类别：自动化、团队机器人、编码、多 agent 编排、记忆、运维等",
+   "/demos 提供 3 个可运行入门工程（Daily Briefing、Open WebUI、Team Telegram）"
+  ],
+  "use_cases": [
+   "寻找 Hermes Agent 在自动化、消息机器人、SRE 等场景的落地参考",
+   "按一手证据评估 agent 用例的真实性与部署细节",
+   "作为 agent 应用场景的调研素材库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI Agent用例",
+   "自动化",
+   "知识策展"
+  ],
+  "domain": "AI Agent/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: **A community collection of real-world Hermes Agent use cases — each one backed by public evidence.**",
+   "L21: > **Evidence rule.** Every use case here links to a primary source: an official Hermes doc, a Nous Research companion re"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "quotes": [
+     "|Local & Proxy Model Backends|Run Hermes against Ollama, vLLM, oMLX, or a custom OpenAI-compatible proxy — for cost cont"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     163
+    ],
+    "quotes": [
+     "|Local Model Auto-Detection|Hermes probes your local inference server, identifies the running model, detects context win"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     113,
+     138
+    ],
+    "quotes": [
+     "|Zouroboros Swarm Bridge|Hermes as one of four interchangeable executors (Claude Code, Codex, Gemini, Hermes) inside a t",
+     "|Local API Trace Debugging|Run Hermes through claude-tap to inspect provider requests, prompts, tools, streaming respons"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     191
+    ],
+    "quotes": [
+     "- **openwebui** — Hermes API server + Open WebUI via Docker Compose"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     113
+    ],
+    "quotes": [
+     "|Zouroboros Swarm Bridge|Hermes as one of four interchangeable executors (Claude Code, Codex, Gemini, Hermes) inside a t"
+    ]
+   }
+  ]
+ }
+}

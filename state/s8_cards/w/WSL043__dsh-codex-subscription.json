@@ -1,0 +1,166 @@
+{
+ "fn": "WSL043/dsh-codex-subscription",
+ "sha": "229b40d69d45",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 DSH 使用 ChatGPT/Codex 订阅的插件：模型、额度、生图、远程控制",
+  "review": "面向 DeepSeek Harness（DSH）的社区插件：用 ChatGPT Plus / Pro 订阅扫码登录后，在 DSH 中直接选用 GPT-6 等 Codex 订阅模型，无需 OpenAI API Key，也不依赖 Codex CLI。功能覆盖订阅额度查看与提醒、订阅联网搜索、订阅图片生成与草图画板、ChatGPT 连接器，以及用 ChatGPT 手机 App 扫码远程控制电脑上的 DSH（Beta，默认关闭）。通过 DSH 插件页或 dsh plugin 命令安装；需 DSH 0.1.7-rc.2 以上且账号具有 Codex 使用资格。手机远程控制基于 Codex Remote Control 协议的第三方主机接入，非官方明确支持范围。",
+  "highlights": [
+   "订阅登录后直接使用 Codex 订阅模型，无需 API Key 与 Codex CLI",
+   "额度卡片：短周期/每周额度、重置时间、额度去向拆分与每日热力图",
+   "ChatGPT 手机 App 扫码远程控制电脑上的 DSH（Beta，默认关闭）",
+   "订阅图片生成、区域标注编辑与草图画板（含 Agent 绘图，Beta）"
+  ],
+  "use_cases": [
+   "已有 ChatGPT Plus/Pro 订阅，想在 DSH 里直接用 Codex 模型而不买 API",
+   "在输入框里随时查看订阅剩余额度并在低量时收到提醒",
+   "用手机上的 ChatGPT App 远程操控电脑上的 DSH 会话",
+   "让 DSH 中的模型调用 ChatGPT 里已连接的 GitHub、Gmail 等应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    11,
+    104,
+    237
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "DSH插件",
+   "订阅复用",
+   "模型接入",
+   "额度管理",
+   "远程控制"
+  ],
+  "domain": "AI 编程助手/模型接入插件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文优先的双语 README（L5-7）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: 用 ChatGPT Plus / Pro 订阅登录，即可在 DSH 中使用 GPT-6 等 Codex 模型、查额度、联网搜索和生图。无需 OpenAI API Key，也不依赖 Codex CLI。",
+   "L27: 本插件支持软件包元数据中记录的最新版 DeepSeek Harness，并需要一个当前具有 Codex 使用资格的 ChatGPT 账户。",
+   "L29: - **推荐：官方桌面端**。DeepSeek 已发布 DeepSeek Harness 桌面版（macOS Apple Silicon、Windows 64 位，预览版、开源），无需配置 Node.js，安装后按下文在插件页面添加本插件即"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     11,
+     94,
+     126
+    ],
+    "note": "DSH 宿主内的 DeepSeek 等模型可经本插件使用订阅搜索/连接器/远程控制",
+    "quotes": [
+     "**新：用 ChatGPT 手机 App 远程控制电脑上的 DSH（Beta）**，DeepSeek 等任意 DSH 模型都能在手机上用。",
+     "用 ChatGPT 手机 App 的 Codex 扫码配对，这台电脑上的 DSH 就出现在手机的主机列表里，DeepSeek 等任意 DSH 模型都能在手机上用：",
+     "让 DeepSeek 等任意 DSH 模型使用你在 ChatGPT 里连接的应用：GitHub、Gmail、Google 云端硬盘、日历等。模型先搜索再调用，写操作默认每次都要你批准，也可以在设置里改成不再询问。默认关闭，在“与其他模型”里"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     269,
+     291
+    ],
+    "note": "仅提及 Claude Code 组合包与不接入 Claude 订阅",
+    "quotes": [
+     "没有关系，可以同时安装。官方的 Codex / Claude Code 组合包让 DSH 运行 Codex 或 Claude Code 格式的 hooks 配置（工具调用前后自动执行的脚本）；本插件负责用 ChatGPT 订阅登录、使用 C",
+     "- **只做 ChatGPT / Codex 订阅**，并把这一件事做深：额度与预测、图片与草图、子任务、诊断；不接入 Claude、Grok 等其他订阅。"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     291
+    ],
+    "note": "声明不接入 Grok 等其他订阅",
+    "quotes": [
+     "- **只做 ChatGPT / Codex 订阅**，并把这一件事做深：额度与预测、图片与草图、子任务、诊断；不接入 Claude、Grok 等其他订阅。"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     7,
+     9,
+     45
+    ],
+    "note": "接入对象：用 ChatGPT 订阅登录，非替代关系",
+    "quotes": [
+     "**把 ChatGPT / Codex 订阅直接接入 DeepSeek Harness**",
+     "用 ChatGPT Plus / Pro 订阅登录，即可在 DSH 中使用 GPT-6 等 Codex 模型、查额度、联网搜索和生图。无需 OpenAI API Key，也不依赖 Codex CLI。",
+     "4. 打开 **设置 → Codex 订阅**，登录 ChatGPT，然后在会话中选择 Codex 模型。"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     269
+    ],
+    "note": "仅说明与官方 Codex/Claude Code 组合包无关",
+    "quotes": [
+     "没有关系，可以同时安装。官方的 Codex / Claude Code 组合包让 DSH 运行 Codex 或 Claude Code 格式的 hooks 配置（工具调用前后自动执行的脚本）；本插件负责用 ChatGPT 订阅登录、使用 C"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

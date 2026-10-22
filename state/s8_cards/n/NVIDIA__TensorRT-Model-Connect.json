@@ -1,0 +1,117 @@
+{
+ "fn": "NVIDIA/TensorRT-Model-Connect",
+ "sha": "d494d1d24e29",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 HuggingFace 模型经 TensorRT 端到端部署的 C++ 参考实现集",
+  "review": "NVIDIA 维护的 TensorRT 之上的 AI 模型参考实现集合：从 Hugging Face 或本地 checkpoint 出发，用两条命令构建 TensorRT 引擎（无需中间 ONNX 导出），产出带版本的 .bundle 产物，同一 bundle 可供 Python 与 C++ 任务 API（文本生成、转录、图像/视频生成、分割、嵌入、预测）调用。由 agentic workflow 持续添加新模型支持。项目处于 Public Preview，自述为实验性、API 与范围可能变化，面向希望探索和评测广覆盖模型的开发者。",
+  "highlights": [
+   "两条命令完成 PyTorch→TensorRT 端到端推理，跳过 ONNX 导出步骤",
+   "同一 .bundle 产物供 Python-first 构建环境与原生 C++ 任务 API 共用",
+   "由 agentic workflow 持续添加新模型支持，降低用户侧集成工作量",
+   "提供模型族专属 builders、运行时流水线与验证契约作为定制蓝图"
+  ],
+  "use_cases": [
+   "在 NVIDIA GPU 上快速探索和评测 TensorRT 支持的 HF 模型",
+   "从 checkpoint 构建版本化 bundle 交给原生 C++ 应用调用",
+   "参考模型族实现定制自己的 TensorRT 集成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7,
+    136
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TensorRT",
+   "推理优化",
+   "C++",
+   "HuggingFace",
+   "模型部署"
+  ],
+  "domain": "推理引擎/模型部署",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L51: **TensorRT Model Connect is an extensive collection of AI Model reference implementations in C++, on top of NVIDIA Tenso",
+   "L74: - Keep native TensorRT and optional TensorRT-RTX execution behind the same"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     108
+    ],
+    "quotes": [
+     "|Compile the CLI, backends, and model DSOs|Build from Source|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     21,
+     106
+    ],
+    "note": "示例与文档中使用的模型",
+    "quotes": [
+     "python -m tensorrt_model_connect build Qwen/Qwen3-0.6B \\",
+     "|Complete the first Qwen inference|Quick Start|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "fn": "SciML/ReservoirComputing.jl",
+ "sha": "9dd8a9b27295",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Julia 储备计算库：构建与训练 ESN 等模型",
+  "review": "SciML 组织维护的 Julia 储备计算（Reservoir Computing）工具库，提供回声状态网络（ESN）及其十余种变体（DelayESN、DeepESN、HybridESN、ES2N 等）、液态状态机、Conceptors、NGRC、元胞自动机储备等完整模型，以及 20+ 储备层初始化器、多种读出与训练算法（Ridge/SVM/MLJLinearModels）。支持稀疏矩阵计算与连续时间储备（对接 SciMLProblem），面向科学机器学习场景的时间序列预测与动力系统学习。通过 Julia Pkg 安装，附 arXiv 论文可引用。",
+  "highlights": [
+   "十余种 ESN 变体与 LSM、Conceptor、NGRC、RECA 等完整模型",
+   "20+ 储备初始化器与多种训练算法（LIBSVM/MLJLinearModels/LinearSolve）",
+   "稀疏矩阵计算与 StateSpaceSet 输入输出支持",
+   "连续时间储备计算：SciMLProblemReservoir 与 ContinuousESN"
+  ],
+  "use_cases": [
+   "用 ESN 学习动力系统（如 Lorenz）的演化并做预测",
+   "时间序列预测与序列建模任务的储备计算建模",
+   "科研工作中作为可引用的储备计算实验工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2208.05758",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "储备计算",
+   "回声状态网络",
+   "时间序列预测",
+   "科学机器学习",
+   "Julia库"
+  ],
+  "domain": "科学机器学习/储备计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: ReservoirComputing.jl provides an efficient, modular and easy to use",
+   "L25: ReservoirComputing.jl provides layers, models, and functions to help build and train",
+   "L85: how it is possible to train an ESN to learn the dynamics of the"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

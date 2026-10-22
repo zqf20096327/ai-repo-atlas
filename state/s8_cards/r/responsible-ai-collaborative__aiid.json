@@ -1,0 +1,90 @@
+{
+ "fn": "responsible-ai-collaborative/aiid",
+ "sha": "5580f19f24cb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 事件数据库：收录、定义并编目人工智能相关事件",
+  "review": "由 Responsible AI Collaborative 维护的开源项目，目标是识别、定义并编目人工智能引发的负面事件（AI incidents）。数据库以 MongoDB 存储，通过 Gatsby 静态站点与只读 GraphQL 端点对外提供数据访问，搜索由 Algolia 索引，内容管理使用 Prismic CMS。README 面向贡献者，说明贡献流程（事件摘要、分类法、代码变更、新应用）与工程流程。GraphQL 端点要求登录账户，网页浏览则无需登录；分类法细节见 arXiv 论文。",
+  "highlights": [
+   "编目 AI 事件并支持程序化生成的数据库摘要（summary）",
+   "提供只读 GraphQL 端点（/api/graphql），需登录账户访问",
+   "站点采用 Gatsby + Netlify + Algolia + MongoDB 的无服务器架构",
+   "支持贡献新分类法（taxonomy），详见 arXiv 论文"
+  ],
+  "use_cases": [
+   "查询历史上 AI 系统造成的负面事件以做研究或风险评估",
+   "通过 GraphQL 端点构建基于事件数据的应用",
+   "为数据库贡献事件摘要、分类法或代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://incidentdatabase.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI事件",
+   "可信AI",
+   "数据库",
+   "知识聚合",
+   "AI安全"
+  ],
+  "domain": "AI 安全/知识库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8:  Artificial Intelligence Incident Database",
+   "L20: Information about the goals and organization of the AI Incident Database can be found on the production website. This pa",
+   "L24: 3. Contribute a **new taxonomy** to the AI Incident Database. Details on taxonomies are available in the arXiv paper."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

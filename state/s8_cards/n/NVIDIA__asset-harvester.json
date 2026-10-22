@@ -1,0 +1,161 @@
+{
+ "fn": "NVIDIA/asset-harvester",
+ "sha": "7839290c27d5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从驾驶日志提取仿真用 3D 高斯资产生成模型（NVIDIA）",
+  "review": "NVIDIA 发布的生成式 AI 模型与端到端流水线：将真实驾驶日志中稀疏、部分遮挡的物体观测（车辆、行人、骑行者等）转换为完整可仿真的 3D Gaussian Splat 资产。机制上由 SparseViewDiT 多视角扩散模型生成一致新视角，再经前馈 Gaussian 重建器在数秒内生成 3D；管线接入 NVIDIA NCore 与 NuRec 用于闭环仿真数据生成。支持微调（全量或 LoRA）与基准评测（PSNR/LPIPS/SSIM 等）。需 NVIDIA GPU（约 16GB VRAM）、conda 环境，检查点从 Hugging Face 下载；声明仅面向 AV 领域，其他领域结果不保证。",
+  "highlights": [
+   "多视角扩散 + Gaussian lifting 从单视角/稀疏视角生成完整 3D 资产",
+   "输出可直接插入仿真环境的 3D Gaussian Splat 资产与 metadata.yaml",
+   "接入 NVIDIA NCore/NuRec 管线，支持闭环仿真数据生成",
+   "提供微调（LoRA/全量）与渲染评测基准（PSNR/LPIPS/SSIM/DINOv3）"
+  ],
+  "use_cases": [
+   "把采集的驾驶场景日志转成可复用 3D 资产，免去手工建模",
+   "为自动驾驶闭环仿真批量生成高保真物体资产",
+   "在自有解析样本上微调 SparseViewDiT 多视角扩散模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自动驾驶仿真",
+   "3D生成",
+   "3D Gaussian Splatting",
+   "神经重建",
+   "数据生成"
+  ],
+  "domain": "自动驾驶仿真/3D 生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: NVIDIA Asset Harvester is a generative AI model that extracts 3D Gaussian object representations directly from captured ",
+   "L19: **Asset Harvester** turns real-world driving logs into complete, simulation-ready 3D assets — from just one or a few in-"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     45,
+     47
+    ],
+    "quotes": [
+     "git clone https://github.com/NVIDIA/asset-harvester.git",
+     "bash setup.sh"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     58,
+     60
+    ],
+    "note": "依赖库 gsplat 与本仓库包的 pip 安装，非发布到 PyPI 的产品包",
+    "quotes": [
+     "pip install --no-cache-dir --no-build-isolation \\",
+     "pip install --extra-index-url https://download.pytorch.org/whl/cu128 \\"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "VRAM** ~16 GB",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "quotes": [
+     "- **GPU VRAM** ~16 GB (add `--offload_model_to_cpu` to offload unused models to CPU for lower VRAM)"
+    ]
+   },
+   {
+    "term": "16GB VRAM",
+    "rel": "support",
+    "lines": [
+     85
+    ],
+    "quotes": [
+     "Requires ~16GB VRAM. If you run into VRAM OOM issues, add `--offload_model_to_cpu` to offload unused model components to"
+    ]
+   },
+   {
+    "term": "RAM** ~16 GB",
+    "rel": "none",
+    "lines": [],
+    "note": "同一行 VRAM 的误拆分命中",
+    "quotes": []
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     67,
+     132
+    ],
+    "note": "检查点下载平台与微调所基于的 diffusers 库来源，非替代/竞品",
+    "quotes": [
+     "pip install huggingface_hub[cli]",
+     "The SparseViewDiT multiview diffusion model can be fine-tuned on your own parsed samples with the same rectified-flow ob"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

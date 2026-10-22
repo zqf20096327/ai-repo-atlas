@@ -1,0 +1,132 @@
+{
+ "fn": "vivek100/oneShotCodeGen",
+ "sha": "23d9fdcfd52e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "通过对话生成企业应用配置的 agent 系统（FastAPI+React）",
+  "review": "模块化 agent 流系统：用户在聊天界面描述需求，主 agent 决策后执行创建/编辑应用的流程，AI 步骤（调用 OpenAI API）生成用例、实体模型、界面规格与数据模型，工具调用步骤负责实体重组、合并与校验；用 JSON Schema 与 Pydantic 模型做结构化生成，SQLite 存储，WebSocket 实时更新。面向需要快速生成企业/ERP 应用配置的开发者。需自行配置 OpenAI API 环境变量，前后端分别以 Python 和 Node.js 从源码运行。",
+  "highlights": [
+   "主 agent 路由 + 创建/编辑应用的多流程编排",
+   "JSON Schema 与 Pydantic 双重结构化生成校验",
+   "步骤级 Replay 引擎用于调试单个 AI 步骤",
+   "WebSocket 实时聊天与流程状态更新"
+  ],
+  "use_cases": [
+   "用自然语言描述需求，生成完整应用配置",
+   "对已生成的应用配置做局部修改与合并",
+   "调试和重放 agent 流程中的单个 AI 步骤"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "应用预览功能标注 work in progress"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI代码/配置生成",
+   "agent工作流",
+   "低代码/ERP",
+   "全栈应用"
+  ],
+  "domain": "应用生成/agent 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A modular agent-based system for generating and editing app configurations through AI-driven steps organized in flows.",
+   "L164: 4. **AI Steps**: These steps use large language models (via OpenAI's API) to:",
+   "L176: 6. **Structured Generation**: The system uses both JSON schema validation and Pydantic models to ensure consistent, well"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     22,
+     38,
+     73
+    ],
+    "quotes": [
+     "   git clone https://github.com/vivek100/oneShotCodeGen.git",
+     "   pip install -r requirements.txt",
+     "   npm install"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "pip 安装后端依赖，非发布包",
+    "quotes": [
+     "   pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "npm 安装前端依赖，非发布包",
+    "quotes": [
+     "   npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

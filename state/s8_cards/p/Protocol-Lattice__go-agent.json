@@ -1,0 +1,141 @@
+{
+ "fn": "Protocol-Lattice/go-agent",
+ "sha": "8717fdfe8e14",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 语言 AI agent 框架：可插拔 LLM、记忆与多 agent 编排",
+  "review": "面向 Go 开发者的 AI agent 构建框架：提供 agent.Agent 核心（Generate/GenerateWithFiles/GenerateStream）、Gemini/OpenAI/Anthropic/Ollama/OpenRouter 等模型适配器、短期+向量存储长期记忆（Postgres/pgvector、Qdrant、MongoDB、Neo4j）、UTCP 工具编排、输入输出 guardrails、检查点恢复、图工作流与 at-least-once 持久化执行，以及 CodeMode 代码工具编排（需启用 AllowUnsafeTools，仅限可信环境）。通过 go get 安装，目标 Go 1.25.10，附无需 API key 的示例。",
+  "highlights": [
+   "多 provider 适配器（Gemini/OpenAI/Anthropic/Ollama/OpenRouter）与本地 dummy 模型",
+   "向量存储长期记忆支持 In-memory/Postgres+pgvector/Qdrant/MongoDB/Neo4j",
+   "图工作流与 RunStore 持久化（at-least-once，节点需幂等）",
+   "guardrails、checkpoint/restore、重试/限流/token 预算中间件"
+  ],
+  "use_cases": [
+   "用 Go 构建接入多种 LLM 的生产级 agent 应用",
+   "需要持久化记忆与检查点恢复的长周期 agent 工作流",
+   "通过 UTCP 与 CodeMode 做跨进程工具编排"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "多agent编排",
+   "LLM应用开发",
+   "Go生态",
+   "工具编排"
+  ],
+  "domain": "LLM/agent 开发框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: go-agent is a Go framework for building AI agents with pluggable LLM providers, memory, file context, guardrails, UTCP t",
+   "L13: - Provider adapters for Gemini, OpenAI, Anthropic, Ollama, and a local dummy model"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     13,
+     89
+    ],
+    "quotes": [
+     "- Provider adapters for Gemini, OpenAI, Anthropic, Ollama, and a local dummy model",
+     "|Ollama|`ollama`|optional `OLLAMA_HOST`, defaults to `http://localhost:11434`|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     88,
+     96
+    ],
+    "quotes": [
+     "|Anthropic|`anthropic`, `claude`|`ANTHROPIC_API_KEY`|",
+     "|`ADK_EMBED_PROVIDER`|`openai`, `google`, `gemini`, `ollama`, `claude`, `anthropic`, or `fastembed`|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     90,
+     342
+    ],
+    "quotes": [
+     "|OpenRouter|`openrouter`|`OPENROUTER_API_KEY` or `OPENROUTER_KEY`|",
+     "The default model is pinned to `typesafe/jev-1.13` and calls OpenRouter's"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     52
+    ],
+    "quotes": [
+     "git clone https://github.com/Protocol-Lattice/go-agent.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "fn": "IRISX-AI/IRIS-AI",
+ "sha": "a4a8476a84a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "语音优先的桌面 AI 助手：用语音指挥执行系统操作",
+  "review": "基于 Electron 的桌面 AI 助手，通过 Gemini 3.1 Live API 与 WebRTC 实现实时双向语音交互，支持唤醒词启动。功能覆盖文件管理、终端执行、窗口/光标控制、本地向量检索与 RAG、Playwright 网页抓取、Gmail/WhatsApp 集成、ADB 安卓远程控制及图像与文档生成。采用 Open Core 模式：公开仓库含框架、UI 与基础设施，核心语音编排与工具执行逻辑不开源。免费层限每日 12 轮对话、5 次工具调用；1.7.0 之前版本已停止运行。",
+  "highlights": [
+   "Gemini 3.1 Live API + WebRTC 实时双向语音，端到端延迟低于 500ms",
+   "覆盖文件/终端/窗口/系统设置的语音化桌面控制",
+   "ADB 远程控制安卓设备（触控、文件传输、相机、APK 安装）",
+   "本地向量数据库索引与代码库 RAG 查询（Codebase Oracle）"
+  ],
+  "use_cases": [
+   "用语音命令操作桌面应用、文件与终端",
+   "语音驱动的自动化工作流与宏执行",
+   "远程控制安卓手机并传输文件",
+   "对本地代码库做语义检索与问答"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面AI助手",
+   "语音交互",
+   "自动化",
+   "Agent"
+  ],
+  "domain": "桌面 AI 助手/自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: A voice-first neural execution system powered by **Gemini 3.1 Live API** with real-time WebRTC audio, biometric security",
+   "L39: It is a **Voice-First Desktop AI Assistant** that executes real-world actions across your system, applications, and devi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     103
+    ],
+    "note": "作为快速响应的模型通道之一接入",
+    "quotes": [
+     "- **Models:** Gemini 3.1 Live API (primary) + Groq (Fast Responses) + Hugging Face (Open-Sourced + Local Models)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     458
+    ],
+    "quotes": [
+     "git clone https://github.com/IRISX-AI/IRIS-AI"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     465,
+     151
+    ],
+    "quotes": [
+     "npm install",
+     "Globally accessible NPM package with tunneling and secure CLI execution."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    665,
+    668,
+    701
+   ],
+   "quotes": [
+    "**Dual License Model:**",
+    "2. **Sponsors & Enterprise:** Custom Commercial License",
+    "# -> Commercial license + custom deployment support."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     120,
+     164,
+     168
+    ],
+    "quotes": [
+     "- **Small Ghost Overlay (Ctrl + Shift + I):** [PRO Exclusive] Launches a sleek, floating quick-access mini overlay at yo",
+     "AI-driven coordinate cursor control, scroll tracking, and screen peeler OCR.",
+     "- **Click & Scroll on Screen:** Cursor control with AI coordinate calculation."
+    ]
+   }
+  ]
+ }
+}

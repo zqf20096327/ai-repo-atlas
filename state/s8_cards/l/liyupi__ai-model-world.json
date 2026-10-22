@@ -1,0 +1,130 @@
+{
+ "fn": "liyupi/ai-model-world",
+ "sha": "8253aeb417c9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 556 个大模型拟人化为像素小人的可视化站点",
+  "review": "基于 Next.js 静态导出的零后端可视化站点：将 556 个大模型以像素小人形式放入按厂商、地区组织的广场，提供今日格局领奖台、按类型筛选、模型详情页、发布时间线与多维排行榜（跨赛制分数不混算）。数据取自 models.dev、Epoch AI、LiveBench、Hugging Face 等，每小时自动同步，所有文案由真实数据套模板生成，不调用 LLM。支持按模型名、厂商、能力搜索。本地开发需 npm，数据管线离线确定性、无需 API 密钥。",
+  "highlights": [
+   "556 个模型拟人化为像素角色，按国内外厂商分区组织",
+   "数据每小时自动同步，文案由数据套模板生成、不调用 LLM",
+   "多维排行榜跨赛制分数不混算，每榜标注数据来源与参赛模型数",
+   "数据与素材管线离线确定性，217 项纯函数自检"
+  ],
+  "use_cases": [
+   "查看当前各类能力（智力/编程/价格等）领先的模型",
+   "按厂商浏览国内外大模型格局与最新发布",
+   "检索特定能力（如多模态）的全部模型",
+   "回顾三年多大模型发布时间线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型目录",
+   "数据可视化",
+   "排行榜/评测",
+   "像素风",
+   "无代码/零后端"
+  ],
+  "domain": "AI 模型信息聚合/可视化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "国内/国外分区与「国内最强」榜",
+   "考虑中国大陆网络环境（L115）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: AI 模型多到记不住，新闻里天天蹦出新名字，可你很难说清此刻到底谁最强、谁最便宜、谁刚出生。",
+   "L63: |用途|来源|许可|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     69
+    ],
+    "note": "仅用于新模型发现，不转存展示",
+    "quotes": [
+     "|新模型发现与发布日期交叉校验|OpenRouter · Vercel AI Gateway · LiteLLM|仅用于发现，不转存展示|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     120
+    ],
+    "note": "作为厂商形象举例提及",
+    "quotes": [
+     "系统里唯一依赖人类常识的地方是厂商的形象母题——机器读得出 DeepSeek 的定价，"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     79,
+     80
+    ],
+    "quotes": [
+     "npm install",
+     "npm run dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

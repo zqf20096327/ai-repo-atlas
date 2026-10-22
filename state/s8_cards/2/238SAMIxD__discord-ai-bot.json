@@ -1,0 +1,134 @@
+{
+ "fn": "238SAMIxD/discord-ai-bot",
+ "sha": "9190ac3a4359",
+ "source": "readme",
+ "identity": {
+  "one_liner": "接入 Ollama 与 Stable Diffusion 的 Discord AI 聊天机器人",
+  "review": "用 Node.js/TypeScript 编写的 Discord 机器人：在指定频道中被 @提及时调用本地 Ollama 服务生成对话回复，并可对接 AUTOMATIC1111 Stable Diffusion WebUI 的 API 生成图像。支持配置多个 Ollama 服务器地址、按频道 ID 限定生效频道、自定义或关闭系统提示。安装需先部署 Ollama 并拉取模型（如 orca/llama2），再通过 npm 安装依赖启动，或使用 Docker Compose 运行；Stable Diffusion 为可选步骤。仓库声明处于维护模式，正在 typescript 分支重写。",
+  "highlights": [
+   "通过 @提及在 Discord 频道中与 Ollama 模型对话",
+   "可对接 AUTOMATIC1111 Stable Diffusion API（--api --listen）",
+   "支持多个 Ollama 服务器地址与按频道 ID 配置",
+   "提供 npm 与 Docker Compose 两种运行方式"
+  ],
+  "use_cases": [
+   "在 Discord 服务器里用本地模型提供 AI 聊天",
+   "让频道成员通过提及机器人生成对话或图像",
+   "多 Ollama 服务器负载分摊的社区机器人部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Discord机器人",
+   "聊天AI",
+   "本地LLM",
+   "文生图"
+  ],
+  "domain": "聊天机器人/社区工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  Discord bot to interact with Ollama and AUTOMATIC1111 Stable Diffusion as a chatbot",
+   "L33: 10. You can interact with the bot by @mentioning it with your message"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     3,
+     10,
+     11,
+     12,
+     25
+    ],
+    "quotes": [
+     " Discord bot to interact with Ollama and AUTOMATIC1111 Stable Diffusion as a chatbot",
+     "2. Install Ollama (ditto)",
+     "3. Pull (download) a model, e.g `ollama pull orca` or `ollama pull llama2`",
+     "4. Start Ollama by running `ollama serve`",
+     " - Ollama URL can be kept the same unless you have changed the port"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     31,
+     32
+    ],
+    "quotes": [
+     "8. Install the required dependencies with `npm i`",
+     "9. Start the bot with `npm start`"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     39,
+     43
+    ],
+    "quotes": [
+     "1. Install Docker",
+     " - Otherwise, try `docker compose -p discord-ai up` instead"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

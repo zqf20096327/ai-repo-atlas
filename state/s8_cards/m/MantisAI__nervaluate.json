@@ -1,0 +1,100 @@
+{
+ "fn": "MantisAI/nervaluate",
+ "sha": "28da2453c6ad",
+ "source": "readme",
+ "identity": {
+  "one_liner": "NER 模型的全实体级评测库：多场景精确率/召回率/F1",
+  "review": "基于 SemEval 2013 Task 9.1 定义的命名实体识别（NER）评测 Python 模块。它不采用逐 token 评测，而是按完整实体在五种错误类型（Correct/Incorrect/Partial/Missing/Spurious）与四种评测模式（strict/exact/partial/type）下计算精确率、召回率与 F1，输出 summary_report。输入支持嵌套标签列表、CoNLL 制表符分隔字符串与 prodi.gy span 列表三种格式，可通过继承 DataLoader 基类扩展新格式。代码扩展自 David Batista 的原始仓库与配套博文。",
+  "highlights": [
+   "实体级五种错误类型 × 四种评测模式（strict/exact/partial/type）",
+   "按实体类型与场景输出 summary_report",
+   "支持嵌套标签列表、CoNLL、prodi.gy 三种输入格式，可自定义 loader 扩展"
+  ],
+  "use_cases": [
+   "评测 NER 系统输出时区分边界错误与类型错误",
+   "按 strict/exact/partial/type 多口径汇报 NER 指标",
+   "直接读取 CoNLL 或 prodi.gy 标注格式做评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "NER",
+   "评测指标",
+   "NLP",
+   "序列标注"
+  ],
+  "domain": "NLP/模型评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: `nervaluate` is a module for evaluating Named Entity Recognition (NER) models as defined in the SemEval 2013 - 9.1 task.",
+   "L176: Then precision, recall and f1-score are calculated for each different evaluation schema. In order to achieve data,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     11,
+     34
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install nervaluate"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

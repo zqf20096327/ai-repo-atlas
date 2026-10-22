@@ -1,0 +1,140 @@
+{
+ "fn": "hongyuan007/tapword-translator",
+ "sha": "4a450cb85b70",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在原文下方显示字幕式 AI 翻译的 Chrome 扩展",
+  "review": "面向语言学习者与外语阅读者的浏览器划词翻译扩展：选中文本后，LLM 驱动的上下文翻译以字幕形式直接显示在原文下方，无弹窗中断；支持部分选词自动扩展为完整单词。社区版开源（AGPL-3.0），采用自带 API Key 模式，可配置 OpenAI、DeepSeek 或任意 OpenAI 兼容接口；也可从 Chrome Web Store 安装官方免费版。技术栈为 TypeScript + Vite，通过编译时环境变量区分社区版与私有官方版构建。",
+  "highlights": [
+   "翻译以字幕形式内联显示在原文下方，无弹窗",
+   "LLM 驱动的整句上下文翻译",
+   "部分选词自动扩展为完整单词",
+   "社区版支持自定义 OpenAI 兼容 API（OpenAI/DeepSeek 等）"
+  ],
+  "use_cases": [
+   "阅读外语网页时获得不打断阅读流的对照翻译",
+   "语言学习者做双语沉浸式阅读与划词查词",
+   "自带 API Key 隐私优先地使用 LLM 翻译"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "划词翻译",
+   "双语阅读",
+   "LLM应用"
+  ],
+  "domain": "翻译/浏览器工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文作者 README 多语言含简体中文",
+   "产品名含中文「触词翻译」"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L29: Placing context-aware translations **directly below the original text**, just like subtitles in a movie or annotations i",
+   "L41: Powered by advanced AI (LLMs), it understands the **full context** of sentences, delivering translations that are far mo"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     33,
+     88
+    ],
+    "note": "社区版明确支持配置 DeepSeek 作为 API 提供方",
+    "quotes": [
+     "> This repository hosts the **Community Edition** of TapWord Translator. It is fully open-source, privacy-focused, and d",
+     " - **API Base URL**: Defaults to `https://api.openai.com/v1`, but you can change this to use proxies or other providers "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     58,
+     64,
+     69,
+     75
+    ],
+    "quotes": [
+     "    git clone https://github.com/hongyuan007/tapword-translator.git",
+     "    npm install",
+     "    npm run build:community",
+     " - Click **Load unpacked**."
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     64
+    ],
+    "note": "构建社区版的依赖安装步骤",
+    "quotes": [
+     "    npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "仅 AGPL-3.0；官方版为私有构建，非本仓库双许可声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

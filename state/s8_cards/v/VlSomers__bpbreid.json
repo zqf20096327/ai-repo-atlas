@@ -1,0 +1,120 @@
+{
+ "fn": "VlSomers/bpbreid",
+ "sha": "467982d4ba12",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于身体部位特征的行人重识别（含遮挡）PyTorch 基线",
+  "review": "WACV23 论文官方代码库，提出 BPBReID：为每个输入样本输出多个身体部位特征而非单一全局特征，训练时用伪人体解析标签学习 K 分支注意力机制并计算部位可见性分数，测试时无需解析标签；两样本相似度由互可见部位嵌入的平均距离计算。基于 Torchreid 框架扩展，提供 GiLt 损失、部位注意力损失、HRNet-W32 预训练模型、五个数据集（Market-1501 等）的解析标签下载、训练/推理配置与排序可视化工具。需 conda 环境安装并下载标签数据。",
+  "highlights": [
+   "部位级特征表示：每样本输出 K 个身体部位嵌入及可见性分数",
+   "训练用伪人体解析标签学注意力，测试时无需解析标签",
+   "提供 HRNet-W32 预训练模型与五个 ReID 数据集的解析标签下载",
+   "基于 Torchreid 扩展：GiLt 损失、部位注意力损失、排序可视化（部位热图/局部距离）"
+  ],
+  "use_cases": [
+   "在五个公开数据集上训练/评测遮挡行人重识别模型",
+   "作为部位级 ReID 方法的基线开展进一步研究",
+   "用预训练模型对自己的行人图像数据做推理与可视化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arxiv 2211.03679（L7/L15 处标注）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "行人重识别",
+   "计算机视觉",
+   "遮挡识别",
+   "度量学习",
+   "PyTorch 科研代码"
+  ],
+  "domain": "计算机视觉/行人重识别",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L53: In this work, we propose BPBReID, a part-based method for person re-identification using body part feature representatio",
+   "L60: Our model BPBreID uses pseudo human parsing labels at training time to learn an attention mechanism. This attention mech",
+   "L67: Our code is based on the popular Torchreid framework for person re-identification."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     101,
+     110,
+     116
+    ],
+    "quotes": [
+     " git clone https://github.com/VlSomers/bpbreid",
+     " pip install -r requirements.txt",
+     " python setup.py develop"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "pip install -r requirements.txt 为依赖安装",
+    "quotes": [
+     " pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

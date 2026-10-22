@@ -1,0 +1,88 @@
+{
+ "fn": "FlineDev/TranslateKitSDK",
+ "sha": "ee2e0f80faa5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Swift 应用预置本地化字符串 SDK：2000+ 条 40 语言",
+  "review": "面向 Apple 平台 Swift 开发者的本地化字符串库：提供 2,000+ 条覆盖约 40 种 iOS 系统语言的预翻译字符串，优先采用 Apple 官方系统翻译以保持与系统 UI 一致，直接以静态属性（如 TK.Action.save）调用，不写入 String Catalog。分为 250+ 条核心字符串与 26 个 App Store 类别的扩展模块（每类约 100 条，如 Finance/Productivity），按需导入对应模块即可，整体增加约 1MB。通过 Swift Package Manager 安装，包本身无依赖、无宏。2.0 版本移除了 1.x 的 #tk/#tkm 宏与 Lite 变体，迁移指南附带让 AI 助手转换宏调用的提示词。",
+  "highlights": [
+   "2,000+ 预翻译字符串，覆盖约 40 种 Apple 平台语言",
+   "采用 Apple 官方系统翻译，与系统 UI 文案一致",
+   "核心字符串 + 26 个 App Store 类别扩展模块的分层结构",
+   "包无依赖、无宏，通过 Swift Package Manager 安装"
+  ],
+  "use_cases": [
+   "Swift 应用快速接入常用 UI 文案的多语言支持",
+   "避免为通用字符串（保存/取消等）手工维护翻译",
+   "按 App 类别（如财务、健康）导入领域定制文案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "iOS/macOS 开发",
+   "本地化/i18n",
+   "Swift SDK",
+   "Apple 生态"
+  ],
+  "domain": "移动开发/本地化工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Eliminate localization overhead in your Swift apps with 2000+ pre-localized strings. Make app localization simple, accur",
+   "L12: Access 2,000+ ready-to-use strings in ~40 Apple platform languages across four categories. These match the officially su"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

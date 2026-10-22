@@ -1,0 +1,158 @@
+{
+ "fn": "danyuchn/pii-guard",
+ "sha": "d1ff67fc2a5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "繁中（台湾）个资去识别化工具：文件遮蔽后送 AI、可逐字还原",
+  "review": "面向繁体中文（台湾）文件的可逆个资去识别化工具：以 Microsoft Presidio + 中研院 CKIP BERT NER + 自建台湾 Regex 检测身份证号、统一编号、本地电话、繁中人名/组织名等 PII，替换与还原由纯代码完成以保证逐字精确；产出可留存的去识别化副本而非逐次代理。检测与还原全程本地运行，核心快速模式不需启动 Ollama，可选加 强模式用 Ollama 做三次本地稽核。提供 CLI、localhost 人工补标网页、PDF 快审，并附 Claude Code skill 隔离原始文件不被云端 agent 读取。限制：纯文字输入 64 KiB 上限，加强模式单份 10–50 分钟，扫描型 PDF 与 OCR未支持。",
+  "highlights": [
+   "Presidio + CKIP BERT NER + 台湾 Regex 三层检测，覆盖 13+ 类台湾 PII",
+   "替换与还原由代码完成，还原逐字精确，全程本地运行",
+   "localhost 人工补标接口：补遮漏网、放回误遮，一次性 token 防外部连入",
+   "Claude Code skill 与常驻 hook：主 agent 只拿到路径与回执，读不到原文"
+  ],
+  "use_cases": [
+   "把判决书、病历等机敏繁中文件遮个资后再交给云端 AI 处理",
+   "AI 回答后用对照表把代精确换回真名",
+   "在本地浏览器逐笔补遮漏网个资或放回被误遮的机构名"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "PII去识别化",
+   "隐私合规",
+   "繁体中文NLP",
+   "LLM输入安全",
+   "本地优先"
+  ],
+  "domain": "隐私/LLM 输入安全",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "繁体中文（台湾）README 与文件格式",
+   "针对台湾个资法与本土 PII 格式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 繁體中文（台灣）個人資料去識別化工具。把文件裡的個資換成可還原的代號，讓你能用雲端 AI 處理機敏文件，處理完再換回來。**偵測與還原全程在你自己的機器上跑。**",
+   "L11: This fills that gap, and differs in one more way: it produces a **redacted file you can keep and hand to someone**, not ",
+   "L161: 快速模式不啟動或呼叫 Ollama，只使用既有的 Presidio、台灣規則與 CKIP 中文辨識；反向對照表與原文快照留在 `~/.local/share/pii-safe-documents/jobs/<job_id>/`，檔案權限為 "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     101,
+     133,
+     225
+    ],
+    "note": "加强模式与 skill 稽核层的可选本地模型运行时，核心模式不需要",
+    "quotes": [
+     "需要 Python 3.13（3.11 以上可跑）、uv、以及 Ollama（只有加強模式與 skill 的稽核層需要）。",
+     "ollama pull ornith-1.5:9b",
+     "|本地稽核模型|Ollama（預設 `ornith-1.5:9b`）|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     122,
+     132
+    ],
+    "note": "内置 Claude Code skill 适配，非官方接入",
+    "quotes": [
+     "## Claude Code Skill",
+     "ln -s \"$(pwd)/.agents/skills/pii-safe-documents\" ~/.claude/skills/pii-safe-documents"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     104,
+     106
+    ],
+    "quotes": [
+     "git clone https://github.com/danyuchn/pii-guard.git",
+     "uv sync"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [],
+    "note": "L275 桌面打包为路线图未完成项，尚无安装包",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     122,
+     138
+    ],
+    "note": "提供其 skill/hook 适配，非替代或竞品",
+    "quotes": [
+     "## Claude Code Skill",
+     "想把保護擴到「Claude Code 每一次工具讀取」而不只是單份文件，跑 `uv run pii-guard-hookd install` 裝上常駐服務 hookd 與其 classic hooks，說明見 `examples/claud"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

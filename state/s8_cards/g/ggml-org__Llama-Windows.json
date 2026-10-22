@@ -1,0 +1,135 @@
+{
+ "fn": "ggml-org/Llama-Windows",
+ "sha": "e082d2e2f0a6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 11 托盘应用：一键本地运行 llama.cpp 模型并对话",
+  "review": "ggml-org 出品的 WinUI 3 托盘应用，是 Llama for Mac 的 Windows 移植版。它管理一个 llama serve 进程并通过其 REST API 通信，可复用已有 llama.exe 或自动下载；从 Hugging Face Hub 浏览下载模型，存于 HF 标准缓存目录，与其他工具共享。按 Alt+Space 从任意应用唤起悬浮窗与已加载模型对话，推理全部本地进行，无遥测。安装方式为 Releases 中的 .msixbundle（x64/ARM64），从源码构建需 .NET 10 SDK。",
+  "highlights": [
+   "系统托盘常驻，管理 llama serve 进程并通过其 REST API 通信",
+   "从 Hugging Face Hub 一键下载推荐模型，存于 HF 标准缓存",
+   "Alt+Space 全局悬浮窗随时与已加载模型对话",
+   "读取 GGUF 头部提供逐档上下文长度及内存估算，无遥测、推理完全本地"
+  ],
+  "use_cases": [
+   "在 Windows 上不开浏览器就快速调用本地 LLM 对话",
+   "统一管理 llama.cpp 模型下载与 HF 缓存",
+   "通过全局快捷键在任意应用中唤起 AI 对话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM",
+   "llama.cpp",
+   "桌面客户端",
+   "Windows工具",
+   "系统托盘"
+  ],
+  "domain": "LLM 客户端/桌面工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Llama is a Windows 11 tray app for running llama.cpp models locally. It's a WinUI 3 port of Llama for Mac.",
+   "L30: Llama manages a `llama serve` process and talks to it over its REST API. Your models stay in the standard Hugging Face c"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "support",
+    "lines": [
+     5,
+     16,
+     30
+    ],
+    "note": "本体即 llama.cpp 的图形管理客户端，管理 llama serve 并走其 REST API",
+    "quotes": [
+     "Llama is a Windows 11 tray app for running llama.cpp models locally. It's a WinUI 3 port of Llama for Mac.",
+     "- **Zero-setup llama.cpp** — uses your existing `llama.exe`, or downloads one for you",
+     "Llama manages a `llama serve` process and talks to it over its REST API. Your models stay in the standard Hugging Face c"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     11
+    ],
+    "note": "Releases 提供 .msixbundle（x64+ARM64）安装包",
+    "quotes": [
+     "Grab the latest `.msixbundle` (x64 + ARM64) from **Releases** and double-click to install."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     17,
+     19,
+     30
+    ],
+    "note": "模型下载源与缓存生态，非替代/竞品关系",
+    "quotes": [
+     "- **One-click models** — browse and download recommended models from the Hugging Face Hub",
+     "- **Standard storage** — models live in the Hugging Face cache, shared with `llama.cpp` and other tools",
+     "Llama manages a `llama serve` process and talks to it over its REST API. Your models stay in the standard Hugging Face c"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

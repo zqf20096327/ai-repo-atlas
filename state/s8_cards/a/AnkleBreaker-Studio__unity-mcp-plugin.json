@@ -1,0 +1,101 @@
+{
+ "fn": "AnkleBreaker-Studio/unity-mcp-plugin",
+ "sha": "41ae2862820e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Unity 编辑器 MCP 桥接插件：让 AI agent 直接操作 Unity Editor",
+  "review": "以 UPM 包形式运行的 Unity Editor 桥接端，与配套 AnkleBreaker Node MCP server 协同，使 Claude、Cursor 等 MCP 兼容 AI 客户端控制 Unity Editor：场景/物体/组件/材质编写、构建、性能分析、测试执行，以及 ProBuilder、Shader Graph、Amplify Shader Editor、MPPM 等可选集成。机制上每编辑器独立监听器与队列，按 agent FIFO 公平调度，命令在主线程执行，支持命名撤销、Dashboard 监控与 HTTP 活动统计。要求 Unity 2021.3.18f1+，需配套 Node server 与 MCP 客户端；重型操作仍占用主线程，撤销不覆盖全部命令。",
+  "highlights": [
+   "338 个注册编辑器路由，覆盖场景、组件、构建、profiling 等操作",
+   "多 agent 公平调度：每 agent FIFO 队列、轮转调度、分组读",
+   "多编辑器项目独立监听与身份，支持 MPPM 多人场景与 ParrelSync 克隆发现",
+   "Dashboard 监控队列、agent 归因、HTTP 活动与代码执行缓存"
+  ],
+  "use_cases": [
+   "让 AI 编程助手在 Unity 中编写场景、材质与玩法脚本并迭代原型",
+   "多 agent 共享同一 Unity 编辑器时公平排队与隔离项目",
+   "多人游戏中通过 AI 控制 MPPM Host/Client 场景进行调试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "游戏开发",
+   "Unity",
+   "AI辅助开发",
+   "agent工具"
+  ],
+  "domain": "游戏开发/AI 工具链",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **The Unity side of a workflow built for multiple projects, multiple agents and multiplayer iteration.** This UPM packag",
+   "L140: 1. The MCP server sends a command with agent identity to the local bridge."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     205
+    ],
+    "note": "(窗外) 下载 MP4 演示文件语境，非本产品安装包",
+    "quotes": [
+     "./tools~/validate-unity.ps1 -EditorPath 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Unity.exe' -ProjectPath 'C:"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

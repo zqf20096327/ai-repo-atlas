@@ -1,0 +1,90 @@
+{
+ "fn": "HumeAI/hume-api-examples",
+ "sha": "a81b7259d22f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Hume AI 官方示例集：指导接入 TTS 与共情语音接口",
+  "review": "HumeAI 官方维护的示例项目仓库，收录集成 Hume API 的快速入门与示例工程，覆盖两大能力：情感化文本转语音（TTS）与共情语音接口 EVI（会话式语音代理）。示例以多种语言与框架提供，包括 Python、TypeScript/Next.js、C#/.NET、Swift/iOS、Flutter、React Native、Unity、Vue 等，并演示 function calling、webhooks、通话代理服务器等接入模式。使用需从 Hume 平台获取 API key 认证；每个示例附带含安装依赖与运行步骤的 README。全部项目采用 MIT 许可。",
+  "highlights": [
+   "TTS 示例 10 个，覆盖 .NET/Next.js/LiveKit/Swift/Unity 等",
+   "EVI 示例约 26 个，含 function calling、webhooks、通话代理服务器",
+   "API key 认证与各示例分步运行说明",
+   "全部项目 MIT 许可"
+  ],
+  "use_cases": [
+   "为应用接入 Hume 情感化 TTS 找参考实现",
+   "基于 EVI 构建会话式语音代理时查找对应语言/框架示例",
+   "了解 EVI 的 function calling 与 webhooks 接入方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API示例集",
+   "语音交互",
+   "TTS",
+   "情感计算",
+   "快速入门"
+  ],
+  "domain": "语音 AI/开发者示例",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  Browse sample code and projects designed to help you integrate Hume APIs",
+   "L11: Welcome to the official Hume API Examples repository!",
+   "L12: Here you'll find open-source example projects and quickstart guides to help you integrate the Hume API across a variety "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

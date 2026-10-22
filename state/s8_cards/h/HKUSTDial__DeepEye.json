@@ -1,0 +1,115 @@
+{
+ "fn": "HKUSTDial/DeepEye",
+ "sha": "2a721efda1d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自驱动数据 Agent 系统：从异构数据自动生成视频、看板与报告",
+  "review": "面向数据分析场景的工作流式 LLM Agent 系统：用户在对话中描述分析目标，系统将意图分解为 AgentNode 与 ToolNode 组成的 DAG，经编译、校验、优化后由沙箱化节点执行，产出数据视频、交互式看板和分析报告三类产物。支持 PostgreSQL/MySQL/CSV/Excel/JSON/PDF 等异构数据源接入，提供节点级 SQL 与输入输出检查、人在环路的运行控制。以 Docker Compose 全栈交付（Postgres/Redis/MinIO/Celery 等），README 提示默认栈应视为本地开发环境，公开部署前需自行加固。",
+  "highlights": [
+   "自然语言生成工作流 DAG，产出数据视频/看板/报告三类分析产物",
+   "统一接入数据库、CSV/Excel、JSON/XML、PDF/Markdown 等异构数据源",
+   "编译-校验-优化-执行四阶段工作流引擎，节点级沙箱执行与 SQL 检查",
+   "Docker Compose 一键启动全栈（Postgres/Redis/MinIO/后端/前端/nginx）"
+  ],
+  "use_cases": [
+   "对销售/财务等业务数据做端到端自动分析并生成报告",
+   "把多个异构数据源接入同一工作流做迭代分析",
+   "在节点级别审查每一步执行的 SQL 与输出再确认运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    179
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据Agent",
+   "ChatBI/数据分析",
+   "工作流编排",
+   "LLM应用"
+  ],
+  "domain": "数据分析/LLM Agent 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **DeepEye** is a production-ready, steerable self-driving data agent system. Unlike linear \"ChatBI\" tools, DeepEye adopt",
+   "L32: Given heterogeneous data sources, DeepEye autonomously orchestrates a workflow and delivers Data Videos 🎬, Dashboards 📊,",
+   "L96: ```"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     38,
+     63
+    ],
+    "quotes": [
+     "- Docker and Docker Compose",
+     "docker compose up --build"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     172
+    ],
+    "note": "前端本地开发/构建命令",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

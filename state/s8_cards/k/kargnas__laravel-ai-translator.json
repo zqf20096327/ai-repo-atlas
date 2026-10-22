@@ -1,0 +1,132 @@
+{
+ "fn": "kargnas/laravel-ai-translator",
+ "sha": "53a0d7319c92",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 AI 将 Laravel 语言文件自动翻译成多语言的包",
+  "review": "Laravel 的 Composer 包，通过 artisan 命令读取 lang 目录下源语言（默认英语）的 PHP 语言文件，调用 AI 生成其他语言翻译，支持多 locale 并行翻译。默认走 OpenRouter（Laravel AI SDK），也保留 OpenAI、Anthropic、Gemini 直连。附带查找并清理未使用翻译键、清除已有翻译以重新生成等辅助命令，翻译时保留变量、HTML 标签、复数形式与嵌套结构，支持分块以减少 API 开销，并支持自定义语言风格（如东北话、Reddit 英语）。要求 PHP 8.3+ 与 Laravel 12.0+。",
+  "highlights": [
+   "php artisan ai-translator:translate 一条命令翻译全部语言文件，支持并行",
+   "默认经 OpenRouter 接入，保留 OpenAI/Anthropic/Gemini 直连",
+   "保留变量、HTML、复数与嵌套结构，支持分块降低 API 成本与翻译校验",
+   "内置 find-unused 与 clean 命令管理未使用键与重新翻译"
+  ],
+  "use_cases": [
+   "我的 Laravel 应用需要快速补齐多语言翻译文件",
+   "清理代码中已不再使用的翻译键",
+   "更换模型或规则后批量重新生成翻译"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Laravel",
+   "i18n/本地化",
+   "AI翻译",
+   "开发工具"
+  ],
+  "domain": "软件开发/本地化工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L72: - Translates PHP language files from a source language (default: English) to all other languages",
+   "L168: php artisan ai-translator:translate"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     31,
+     32,
+     143,
+     146
+    ],
+    "quotes": [
+     "- **AI Providers**: Uses OpenRouter by default while retaining direct OpenAI, Anthropic, and Gemini support",
+     " - Uses the official Laravel AI SDK for OpenRouter with Claude Opus 5 as the default model",
+     "2. Add your OpenRouter API key to `.env`:",
+     "   OPENROUTER_API_KEY=your-openrouter-api-key-here"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     31,
+     63
+    ],
+    "quotes": [
+     "- **AI Providers**: Uses OpenRouter by default while retaining direct OpenAI, Anthropic, and Gemini support",
+     "- AI-powered: Uses current frontier models such as Claude Opus 5, GPT-5.6 Sol, and Gemini 3.7 Flash"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "README 提及使用官方 Laravel AI SDK，非 Vercel AI SDK 本体；仅列举语境",
+    "quotes": [
+     " - Uses the official Laravel AI SDK for OpenRouter with Claude Opus 5 as the default model"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

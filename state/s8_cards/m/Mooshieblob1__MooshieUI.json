@@ -1,0 +1,167 @@
+{
+ "fn": "Mooshieblob1/MooshieUI",
+ "sha": "8f6a161832c0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向初学者的 ComfyUI 图像/视频/音乐生成前端界面",
+  "review": "用 Svelte 5 + Rust（Tauri 桌面端 + axum 网页服务器端）构建的 ComfyUI 图形前端，隐藏节点图复杂度，提供文生图、图生图、内置画布的局部重绘、Qwen Image Edit / Flux Kontext 图像编辑、MiniMax H3 文生视频、YuE2 音乐生成；也可选接 NovelAI API（用户自带 key）生成图像。桌面版安装向导自动下载 uv、Python、ComfyUI 与 PyTorch，支持 NVIDIA/AMD/Intel Arc GPU 自动检测；另提供 Docker 自托管多用户模式（角色、鉴权、每用户画廊、移动端布局）。支持 12 种语言。Rust 端从模板构建 ComfyUI workflow 并通过 REST/WebSocket 通信，附带自定义 ComfyUI 节点（tiled diffusion、face fix 等）自动安装。",
+  "highlights": [
+   "文生图/图生图/画布局部重绘与 Qwen Image Edit、Flux Kontext 图像编辑",
+   "MiniMax H3 视频生成与 YuE2 音乐工作室（MIDI 导出、播放列表）",
+   "桌面安装向导自动下载 Python/ComfyUI/PyTorch，支持 NVIDIA/AMD/Intel Arc",
+   "Docker 自托管：角色、鉴权、每用户画廊与移动端布局；支持 12 种语言"
+  ],
+  "use_cases": [
+   "不想手改节点图的 ComfyUI 新手直接生成图像",
+   "在局域网或 Docker 中自托管多用户的生成服务",
+   "用自带 key 走 NovelAI API 生成图像并估算 Anlas 消耗"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI图像生成",
+   "ComfyUI前端",
+   "视频生成",
+   "音乐生成",
+   "自托管"
+  ],
+  "domain": "生成式 AI / 桌面与 Web 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: MooshieUI is a beginner-friendly interface for image, video and music generation through ComfyUI, with optional image ge",
+   "L8: Built with **Svelte 5** + **Rust**, it hides ComfyUI's node-graph complexity behind a clean, guided workflow so you can ",
+   "L118: 3. Rust builds an image, video or music ComfyUI workflow from templates, or a NovelAI image request using the selected a"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     133
+    ],
+    "note": "Prompt Assistant 的本地 LLM 选项之一",
+    "quotes": [
+     "|Prompt Assistant|Local llama.cpp, configured external LLM endpoint, or ChatGPT / Gemini account sign-in|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     94,
+     97
+    ],
+    "quotes": [
+     "```bash",
+     "docker compose up -d --build"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     102,
+     107
+    ],
+    "quotes": [
+     "### Build from source",
+     "git clone https://github.com/Mooshieblob1/MooshieUI.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "note": "源码构建步骤中的依赖安装，非独立分发渠道",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     37,
+     57
+    ],
+    "note": "Qwen Image Edit 作为可选图像编辑模型",
+    "quotes": [
+     "|Image Edit Mode|Qwen Image Edit, Flux Kontext and Anima ReStyler|",
+     "- **Image generation and editing** - text to image, image to image, inpainting with a built-in canvas/mask editor, and I"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     133
+    ],
+    "note": "Prompt Assistant 可选账号登录之一",
+    "quotes": [
+     "|Prompt Assistant|Local llama.cpp, configured external LLM endpoint, or ChatGPT / Gemini account sign-in|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

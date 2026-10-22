@@ -1,0 +1,101 @@
+{
+ "fn": "Pancakes-Labs/astrbot_plugin_proactive_chat",
+ "sha": "9777f0cec264",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AstrBot 主动消息插件：Bot 静默后主动发起拟人对话",
+  "review": "为聊天机器人框架 AstrBot 编写的 Python 插件（要求 AstrBot v4.24.0+、Python 3.10+），在私聊或群聊长时间无消息后按随机时间间隔主动发起对话。机制包括：基于用户沉默时间定时触发、上下文感知（LLM 对话历史/平台聊天流水/混合三种来源）、加载会话人格、未回复计数器驱动的动态情绪、任务持久化恢复、免打扰时段、TTS 集成与分段回复。附带独立 WebUI 提供运行状态、任务管理等五大视图。通过 AstrBot 插件市场或 Release zip 安装；README 声明代码主要由 AI 生成，需配合提示词才能获得理想效果。",
+  "highlights": [
+   "基于沉默时间的随机间隔主动消息触发，多会话隔离与持久化恢复",
+   "三种上下文来源（对话历史/平台流水/混合）与人格加载",
+   "未回复计数器支持动态情绪设计，可设免打扰时段与未回复上限",
+   "插件自带 WebUI：运行状态、任务管理、配置管理等五大视图"
+  ],
+  "use_cases": [
+   "让我的聊天 Bot 在我沉默一段时间后主动来找我聊天",
+   "为不同私聊/群聊会话分别配置主动消息策略与人设",
+   "通过 WebUI 查看 Bot 主动消息的倒计时与任务状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    32,
+    73,
+    94
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天机器人插件",
+   "主动消息/拟人化",
+   "AstrBot生态",
+   "情感陪伴"
+  ],
+  "domain": "聊天机器人/IM 自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文为主 README（附英文/日文）",
+   "QQ/微信/企微/飞书/钉钉等国内平台适配表",
+   "QQ 群交流渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L23:  一个为 AstrBot 设计的、功能强大的主动消息插件。它能让你的 Bot 在特定的会话长时间没有新消息后，用一个随机的时间间隔，主动发起一次拥有上下文感知、符合人设且包含动态情绪的对话。",
+   "L113: - **定时触发**: 基于用户沉默时间，在设定的随机时间范围内自动触发。",
+   "L117: - **上下文感知**: 支持灵活选择上下文来源，回顾历史对话，并根据你设定的提示词，生成与之前话题相关的回复，而不是生硬的问候。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "fn": "treeverse/vscode-dvc",
+ "sha": "eef0cb127cc0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "VS Code 扩展：在 IDE 内追踪与可视化 DVC 管理的 ML 实验",
+  "review": "为 VS Code 提供的 DVC 扩展：在 IDE 中运行、比较、可视化基于 Git 的机器学习实验，记录训练数据、参数与指标，支持实时指标追踪、可定制绘图仪表盘、实验表格编辑器，以及通过 DVC Tracked 面板与 Source Control 面板管理大型数据集与模型文件的版本和远程存储同步。面向使用 DVC 做实验管理与数据版本控制的 ML 开发者，需本机存在 DVC 二进制（或通过 Microsoft Python 扩展的环境定位 dvc 包），无需额外服务或数据库，遥测数据发送至 Azure 且可随 VS Code 设置关闭。",
+  "highlights": [
+   "基于 Git 的实验追踪：记录数据、参数与指标并比较实验结果",
+   "可定制绘图仪表盘与实时指标追踪",
+   "DVC Tracked 面板管理数据文件状态并与远程存储同步",
+   "与 Microsoft Python 扩展集成定位 DVC 解释器"
+  ],
+  "use_cases": [
+   "在 VS Code 内比较多次训练实验的指标与图表",
+   "对大型数据集与模型文件做版本管理并同步到远程存储",
+   "按 Git 提交恢复或重置项目版本以保证实验可复现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "实验追踪",
+   "数据版本控制",
+   "VS Code 扩展",
+   "可复现性"
+  ],
+  "domain": "机器学习工具链/MLOps",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: Run, compare, visualize, and track machine learning experiments right in VS",
+   "L27: - **Experiment tracking**: Record training data, parameters, and metrics on top",
+   "L35: - **Data Management**: Handle and version large datasets, files, and models"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

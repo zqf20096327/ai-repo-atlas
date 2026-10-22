@@ -1,0 +1,116 @@
+{
+ "fn": "SonySemiconductorSolutions/mct-model-optimization",
+ "sha": "9b8a37b8ab28",
+ "source": "readme",
+ "identity": {
+  "one_liner": "神经网络模型量化压缩工具包：面向受限硬件部署优化模型",
+  "review": "索尼半导体解决方案维护的 Python 库，对预训练浮点模型（PyTorch/Keras）执行训练后量化（PTQ）、梯度式 GPTQ/EPTQ、量化感知训练（QAT）、混合精度搜索、结构化剪枝与数据无关量化（基于 BN 统计生成合成数据）。通过 TPC（Target Platform Capabilities）描述目标硬件约束进行硬件感知优化，支持 IMX500 Converter 配套测试。提供 TensorBoard 可视化与 XQuant 量化误差分析报告。用户需自备预训练浮点模型。",
+  "highlights": [
+   "PTQ/GPTQ(QAT) 三种量化流程，PyTorch 与 Keras 双 API",
+   "TPC 硬件感知优化，针对目标硬件约束量化",
+   "数据无关量化：基于 BN 层统计生成合成图像",
+   "结构化剪枝、混合精度搜索与 XQuant 误差分析"
+  ],
+  "use_cases": [
+   "把浮点模型压到 8 位以下以部署到边缘硬件",
+   "在缺少真实数据时用数据生成做训练后量化",
+   "定位量化后精度损失来源并获得改进建议"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型压缩",
+   "量化",
+   "边缘AI",
+   "PTQ/QAT",
+   "PyTorch/Keras"
+  ],
+  "domain": "深度学习/模型优化工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Pip install the model compression toolkit package in a Python>=3.10 environment with PyTorch>=2.3 or Tensorflow>=2.14.",
+   "L35: For each flow, **Quantization core** utilizes various algorithms and hyper-parameters for optimal hardware-aware quantiz",
+   "L58: 🎯 **TPC (Target Platform Capabilities)**. Describes the target hardware’s constrains, for which the model optimization i"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     13,
+     15
+    ],
+    "quotes": [
+     "Pip install the model compression toolkit package in a Python>=3.10 environment with PyTorch>=2.3 or Tensorflow>=2.14.",
+     "pip install model-compression-toolkit"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     48,
+     53
+    ],
+    "note": "特性示例的 Notebook 载体，非本产品安装途径",
+    "quotes": [
+     "🏆 **Mixed-precision search** Open In Colab. Assigning optimal quantization bit-width per layer (for weights/activations)",
+     "🔎 **Quantization parameter search** Open In Colab. Minimizing expected quantization-noise during thresholds search using"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

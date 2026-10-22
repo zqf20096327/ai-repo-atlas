@@ -1,0 +1,153 @@
+{
+ "fn": "NVIDIA/DeepStream",
+ "sha": "cc52f99909d1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 GPU 实时视频/多传感器 AI 分析流水线 SDK",
+  "review": "NVIDIA 维护的流式分析工具包：基于 GStreamer 构建多路流、多模型推理流水线，组合硬件加速编解码、TensorRT 推理、目标跟踪与消息代理集成，运行于 dGPU 与 Jetson 平台。仓库包含 DeepStream 9.2 全部源码（GStreamer 插件、示例与参考应用、Service Maker SDK）、推理流水线可视化构建等工具，以及面向 Claude Code 等 coding agent 的技能集。构建需 NVIDIA 计算栈（驱动/CUDA/cuDNN/TensorRT），SBSA/DGX Spark 仅支持容器方式；许可为文档 CC-BY-4.0、源码 Apache-2.0，不接受代码贡献。",
+  "highlights": [
+   "GStreamer 框架构建多流多模型推理流水线，覆盖 dGPU/Jetson/边缘/云",
+   "组合硬件加速编解码、TensorRT 推理、目标跟踪与消息代理集成",
+   "提供 Triton Inference Server Docker 镜像与 NGC 容器",
+   "附 18 个 AI coding agent 技能与可视化 Inference Builder 工具"
+  ],
+  "use_cases": [
+   "构建多路摄像头的实时目标检测与跟踪系统",
+   "在 Jetson 边缘设备上部署视觉 AI 推理流水线",
+   "将 TAO 训练模型集成到视频分析应用",
+   "用 AI 编码助手生成与调试 DeepStream 流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "视频分析",
+   "边缘AI",
+   "流式推理",
+   "GPU加速"
+  ],
+  "domain": "计算机视觉/视频分析基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: NVIDIA DeepStream SDK is a streaming analytics toolkit for AI-based video and image understanding, providing a GStreamer",
+   "L5: DeepStream pipelines combine hardware-accelerated decoding/encoding, TensorRT inference, object tracking, and message-br"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     31,
+     156
+    ],
+    "note": "skills/ 面向 Claude Code 及兼容 coding agent，非专门接入适配",
+    "quotes": [
+     "**AI agent skills** (`skills/`, for Claude Code & compatible coding agents):",
+     "|DeepStream Coding Agent|Use the bundled `skills/` with Claude Code and other AI coding assistants to generate DeepStrea"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69,
+     87
+    ],
+    "quotes": [
+     "git clone --recurse-submodules https://github.com/NVIDIA/DeepStream.git && cd DeepStream",
+     "bash build/build.sh"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     115
+    ],
+    "quotes": [
+     "docker pull ghcr.io/nvidia/deepstream:9.2-triton-multiarch"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     203,
+     204
+    ],
+    "quotes": [
+     "|`deepstream-9.2_9.2.0-1_amd64.deb`|x86_64|DeepStream 9.2 SDK Debian package for x86 dGPU.|",
+     "|`deepstream-9.2_9.2.0-1_arm64.deb`|aarch64|DeepStream 9.2 SDK Debian package for Jetson.|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     31,
+     156
+    ],
+    "note": "附带技能供其使用，非替代关系",
+    "quotes": [
+     "**AI agent skills** (`skills/`, for Claude Code & compatible coding agents):",
+     "|DeepStream Coding Agent|Use the bundled `skills/` with Claude Code and other AI coding assistants to generate DeepStrea"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

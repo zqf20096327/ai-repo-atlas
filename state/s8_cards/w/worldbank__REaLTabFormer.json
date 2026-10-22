@@ -1,0 +1,127 @@
+{
+ "fn": "worldbank/REaLTabFormer",
+ "sha": "7cb610ff3e1f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 Transformer 生成表格与关系型合成数据的模型套件",
+  "review": "提供统一框架合成不同类型的表格数据：非关系型表格数据基于 GPT-2 的自回归模型，关系型数据使用 Seq2Seq 模型。训练非关系型模型时实现基于合成数据分布的最优停止准则。提供观测验证器接口（如 GeoValidator）过滤无效合成样本。以 Python 包形式通过 pip 安装（Python >= 3.7），附带常规表格与关系型数据的建模与生成示例，并有 arXiv 论文。",
+  "highlights": [
+   "非关系型表格基于 GPT-2，关系型数据用 Seq2Seq 模型",
+   "基于合成数据分布的最优停止训练准则",
+   "可构建观测验证器（如 GeoValidator）过滤无效合成样本"
+  ],
+  "use_cases": [
+   "为表格数据集生成合成数据用于隐私保护或数据增强",
+   "为含关系（父子表）的数据集生成合成数据",
+   "用地理等验证器过滤不合规的合成样本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2302.02041",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "合成数据",
+   "表格数据",
+   "Transformer",
+   "数据生成"
+  ],
+  "domain": "表格数据合成/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: The REaLTabFormer (Realistic Relational and Tabular Data using Transformers) offers a unified framework for synthesizing",
+   "L64: @article{solatorio2023realtabformer,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     13,
+     16,
+     33,
+     53,
+     54
+    ],
+    "quotes": [
+     "REaLTabFormer is available on PyPi and can be easily installed with pip (Python version >= 3.7):",
+     "pip install realtabformer",
+     "# pip install realtabformer",
+     "# !pip install geopandas &> /dev/null",
+     "# !pip install realtabformer &> /dev/null"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     1
+    ],
+    "quotes": [
+     "Open In Colab Downloads Downloads Downloads"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     55
+    ],
+    "note": "示例中克隆 geopandas-tutorial 仓库，非本产品安装途径",
+    "quotes": [
+     "# !git clone https://github.com/joncutrer/geopandas-tutorial.git &> /dev/null"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

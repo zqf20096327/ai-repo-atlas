@@ -1,0 +1,113 @@
+{
+ "fn": "liugangcode/torch-molecule",
+ "sha": "2affb7c1cf1a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "分子发现深度学习库：sklearn 风格接口做性质预测与生成",
+  "review": "基于 PyTorch 的分子深度学习 Python 包，提供 sklearn 风格 API（fit/predict），无需额外 SMILES 特征化。覆盖三类模型：预测模型（GNN、Transformer、GREA 等约 11 种）、生成模型（GenMol、DiGress、JTVAE 等约 10 种，含多个 HuggingFace 预训练模型）与表示学习模型（GraphMAE、ChemBERTa 系列等）。内置 qm9、chembl2k、toxcast 等数据集加载函数，支持 HuggingFace checkpoint 保存与加载。面向化学、生物、材料科学领域的研究者与开发者；部分模型需额外安装 transformers、torch-scatter 等可选依赖。",
+  "highlights": [
+   "sklearn 风格接口，无需额外 SMILES 特征化",
+   "覆盖预测、生成、表示学习三类共 30+ 种模型",
+   "内置 qm9/chembl2k/toxcast 等 7 个数据集加载函数",
+   "支持 HuggingFace checkpoint 保存、加载与部署"
+  ],
+  "use_cases": [
+   "用预测模型估算分子性质（量子化学、毒性、ADMET）",
+   "用生成模型做 de novo 分子设计与骨架补全",
+   "加载预训练模型做分子表示学习与虚拟筛选",
+   "在自有数据集上以统一接口训练与基准测试多种模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分子建模",
+   "图神经网络",
+   "药物发现",
+   "AI for Science",
+   "Python库"
+  ],
+  "domain": "计算化学/药物发现",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: `torch-molecule` is a package that facilitates molecular discovery through deep learning, featuring a user-friendly, `sk",
+   "L84: `torch-molecule` supports applications in broad domains from chemistry, biology, to materials science. To get started, y"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     29
+    ],
+    "quotes": [
+     "   pip install torch-molecule"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     36,
+     42
+    ],
+    "quotes": [
+     "   git clone https://github.com/liugangcode/torch-molecule",
+     "   pip install ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

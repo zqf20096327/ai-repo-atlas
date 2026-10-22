@@ -1,0 +1,89 @@
+{
+ "fn": "coder/hnsw",
+ "sha": "692cb8e56367",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 语言的内存态 HNSW 向量索引库",
+  "review": "用 Go 实现 Hierarchical Navigable Small World 图，为高维向量提供内存中的近似最近邻搜索。操作覆盖 Insert/Delete/Search/Lookup 四项核心操作，各自给出近似复杂度。定位为内存态向量数据库（如 Pinecone、Weaviate）的替代方案，提供二进制编码的图导入/导出与单文件 SavedGraph 读写。README 给出内存开销公式与调参（维度、M、m_L）对性能和内存影响的说明。以 Go 包形式通过 go get 安装。",
+  "highlights": [
+   "Insert/Delete/Search/Lookup 四项核心操作及近似复杂度标注",
+   "Graph.Export/Import 与 SavedGraph 支持持久化加载/保存",
+   "提供内存开销公式与维度/M/m_L 调参指引",
+   "二进制编码使保存/加载接近磁盘速度"
+  ],
+  "use_cases": [
+   "Go 服务中做高维向量的近似最近邻检索",
+   "不想部署独立向量数据库时的内存态向量索引方案",
+   "需要把向量图持久化到单文件后重新加载"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量检索",
+   "ANN索引",
+   "HNSW",
+   "Go库",
+   "语义搜索组件"
+  ],
+  "domain": "向量检索/数据库基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Package `hnsw` implements Hierarchical Navigable Small World graphs in Go. You",
+   "L10: This package can be thought of as an in-memory alternative to your favorite"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

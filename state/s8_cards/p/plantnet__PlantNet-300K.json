@@ -1,0 +1,88 @@
+{
+ "fn": "plantnet/PlantNet-300K",
+ "sha": "9cbd719c3033",
+ "source": "readme",
+ "identity": {
+  "one_liner": "植物图像数据集与基准代码：30 万张图、1081 物种",
+  "review": "Pl@ntNet-300K 论文（NeurIPS Datasets and Benchmarks 2021）配套仓库，提供论文基准实验代码及数据集入口：306,146 张植物图像覆盖 1081 个物种，划分为 train/val/test（243,916/31,118/31,112），具有高类别歧义与长尾分布（80% 物种仅占 11% 图像）。数据集本体托管于 Zenodo（需用 1.1 版元数据），仓库另提供元数据 JSON、论文超参数位置、预训练模型加载方式（load_model），及基于 PyTorch 的训练命令（main.py）。",
+  "highlights": [
+   "306,146 张植物图像、1081 物种，长尾分布（80% 物种仅占 11% 图像）",
+   "提供 train/val/test 划分与三类元数据 JSON 映射文件",
+   "预训练模型（如 resnet18）可通过 utils.py 的 load_model 加载",
+   "给出复现基准的 main.py 训练命令与超参数出处"
+  ],
+  "use_cases": [
+   "在长尾分布的植物图像数据上训练与评测分类模型",
+   "复现 NeurIPS 2021 论文的基准实验",
+   "加载预训练权重并迁移到其他植物分类数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像数据集",
+   "植物分类",
+   "长尾分布",
+   "基准测试"
+  ],
+  "domain": "计算机视觉/植物分类",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains the code used to produce the benchmark in the paper ***\"Pl@ntNet-300K: a plant image dataset wi",
+   "L24: Pl@ntNet-300K is a plant dataset containing 306,146 plant images covering 1081 species (the classes)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

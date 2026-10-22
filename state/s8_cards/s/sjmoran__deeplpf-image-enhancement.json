@@ -1,0 +1,112 @@
+{
+ "fn": "sjmoran/deeplpf-image-enhancement",
+ "sha": "6630ebe8cc80",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CVPR 2020 可解释图像增强模型：学习三次/渐变/椭圆三类滤镜",
+  "review": "华为诺亚方舟实验室的 DeepLPF 官方实现（CVPR 2020）：U-Net 骨干网络预测摄影师熟悉的三类局部参数化滤镜参数——色调曲线（Cubic）、渐变滤镜（Graduated）、椭圆径向滤镜（Elliptical）——并依序应用到图像。模型仅 1.7M 参数（6.9MB），在 Apple GPU 上单张 46ms。以 pip 包与 CLI（deeplpf enhance）提供，内置 MIT-Adobe FiveK 预训练权重，附训练、数据集复现与协议对照文档。设备自动在 CUDA/MPS/CPU 间选择。",
+  "highlights": [
+   "预测三次/渐变/椭圆三类滤镜参数并可视化叠加，增强结果可读可解释",
+   "1.7M 参数、6.9MB，M 系列 GPU 单张 46ms",
+   "deeplpf enhance CLI 支持单文件或整目录，读取 PNG/JPEG/TIFF/BMP/WebP",
+   "附 Two 项可选能力：学习滤镜实例数（--learn_filter_count）与全局色彩混合（--colour_head）"
+  ],
+  "use_cases": [
+   "摄影师或普通用户一键自动修图增强照片",
+   "研究者复现 DeepLPF 训练或在 FiveK 上做基准对比",
+   "需要可解释滤镜参数而非纯像素输出的图像增强应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像增强",
+   "计算摄影",
+   "深度学习模型",
+   "CVPR论文实现",
+   "图像处理"
+  ],
+  "domain": "计算机视觉/图像处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: Most enhancement networks paint the output pixel by pixel. DeepLPF instead",
+   "L79: A U-Net backbone reads the image and produces per-pixel features. Three heads"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     26,
+     50
+    ],
+    "quotes": [
+     "pip install -e .",
+     "pip install -e ."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     48
+    ],
+    "quotes": [
+     "git clone https://github.com/sjmoran/deeplpf-image-enhancement.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

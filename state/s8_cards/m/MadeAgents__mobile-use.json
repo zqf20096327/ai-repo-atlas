@@ -1,0 +1,145 @@
+{
+ "fn": "MadeAgents/mobile-use",
+ "sha": "899602290f28",
+ "source": "readme",
+ "identity": {
+  "one_liner": "安卓真机自动化 GUI agent：用多模态大模型完成长程手机任务",
+  "review": "开源移动 GUI agent，通过 ADB 控制真实安卓设备：解析 GUI 布局识别操作目标，结合多模态 LLM/VLM、层级反思、主动探索与多 agent 框架（规划/反思/记忆/进度）完成跨应用的长程任务。提供 WebUI（Gradio）、Python API 与 AndroidWorld/AndroidLab 基准评测流程；需自行配置 VLM 的 Base URL 与 API Key，推荐 Qwen2.5-VL 系列。安装前置为 SDK Platform-Tools（ADB）与手机 USB 调试连接，输入中文需额外安装 ADBKeyBoard。README 提示 agent 自主决策存在不可控操作风险，建议使用测试机。",
+  "highlights": [
+   "通过 ADB 控制真实安卓设备，自动解析 GUI 布局并执行任务",
+   "多 agent 框架：规划、反思、记忆与进度机制",
+   "支持 AndroidWorld 与 AndroidLab 基准评测",
+   "提供 WebUI 与 Python API 两种使用方式"
+  ],
+  "use_cases": [
+   "用自然语言任务描述让 agent 代为操作手机完成点餐、搜索等跨应用任务",
+   "在 AndroidWorld/AndroidLab 基准上评测移动 agent 能力",
+   "以 Python API 将手机自动化集成到自己的程序中"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GUI agent",
+   "移动自动化",
+   "安卓",
+   "多模态LLM",
+   "Agent评测"
+  ],
+  "domain": "移动端 GUI Agent/自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本",
+   "示例任务多为中国应用（美团/小红书/微博/京东/淘宝）",
+   "HyperOS/MIUI USB 调试专项说明"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: MobileUse is an open-source mobile GUI agent that controls real Android devices through ADB. It uses multimodal LLMs/VLM",
+   "L92: Click VLM Configuration to set the Base URL and API Key of the multimodal large language model. It is recommended to use"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     112,
+     128
+    ],
+    "note": "仅出现在演示任务描述中（DeepSeek 应用与 DeepSeek-R2 新闻搜索），非官方接入适配",
+    "quotes": [
+     "Case1：Search the latest news of DeepSeek-R2 in Xiaohongshu APP and forward one of the news to the Weibo App",
+     "Case5：在浏览器找一张OPPO Find N5图片，询问DeepSeek应用该手机介绍信息，将找到的图片和介绍信息通过小红书发布"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     70,
+     72
+    ],
+    "quotes": [
+     "With pip (Python>=3.10, python=3.12 is recommended.):",
+     "pip install mobile-use"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     76,
+     79
+    ],
+    "quotes": [
+     "#### Option 2: Install from source code to apply the latest updates",
+     "git clone https://github.com/MadeAgents/mobile-use.git"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [
+     55,
+     62
+    ],
+    "note": "误命中：adb devices 为 ADB 工具验证命令，非本产品安装途径",
+    "quotes": [
+     "- Step 3. Open the command line and enter `adb devices` (Windows: `adb.exe devices`) to verify adb is available or not.",
+     "Run the `adb devices` (Windows: `adb.exe devices`) command on the command line terminal. If the device serial_no is list"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,252 @@
+{
+ "fn": "AgentSwarms-fyi/agentswarms",
+ "sha": "622e24114707",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 Agentic AI 与数据一体化平台（代理+湖仓+BI+ML）",
+  "review": "面向需要在自有基础设施上运行 AI 与数据的团队：一侧提供代理聊天、多代理 Swarm 画布、RAG 知识库与 MCP；另一侧提供 ETL 管道、DuckDB+Parquet 湖仓、BI 仪表盘、展示 SQL 的 AI 分析师与无代码机器学习。统一语义层、数据目录（表级与列级血缘）、IAM 与哈希链审计贯穿两侧；模型规则、预算、行过滤在服务端强制执行。支持多种模型提供商（OpenRouter/OpenAI/Anthropic/Gemini/Bedrock/Azure/Ollama/vLLM 等）与 39 个数据连接器。以一个 Supabase 项目加一条 Docker 命令运行，采用 Elastic License 2.0（源码可用，非 OSI 开源）。",
+  "highlights": [
+   "代理/RAG 与 ETL/湖仓/BI/ML 在同一平台，共享登录、权限模型与审计日志",
+   "AI 分析师展示其 SQL，每个数字引用其步骤；训练的模型记录指标、血缘与模型卡",
+   "服务端治理：模型规则、支出预算、行过滤与列掩码在调用前强制执行",
+   "Swarm 画布中的多代理工作流图可从画布、API 或按计划运行，发布快照机制"
+  ],
+  "use_cases": [
+   "在自有基础设施上构建 AI 代理与多代理工作流并接入企业数据",
+   "搭建自有的湖仓与 BI 仪表盘并用 AI 分析师做对话式分析",
+   "对湖仓表做无代码机器学习（预测、预测、聚类、异常、推荐）并纳入治理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多代理平台",
+   "湖仓/BI",
+   "RAG",
+   "ETL",
+   "自托管"
+  ],
+  "domain": "数据平台/Agentic AI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "bedrock",
+   "groq",
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: AgentSwarms — self-hosted agentic AI and data platform: AI agents, multi-agent swarms, RAG, ETL pipelines, a lakehouse, ",
+   "L27: DuckDB-and-Parquet lakehouse you own, BI dashboards, an AI analyst that shows",
+   "L45: - **Any model, any warehouse** — OpenRouter, OpenAI, Anthropic, Gemini, Bedrock,"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     45
+    ],
+    "quotes": [
+     "- **Any model, any warehouse** — OpenRouter, OpenAI, Anthropic, Gemini, Bedrock,"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     45
+    ],
+    "quotes": [
+     "- **Any model, any warehouse** — OpenRouter, OpenAI, Anthropic, Gemini, Bedrock,"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     46
+    ],
+    "quotes": [
+     " Azure, OCI, Qwen, Grok, Groq, Ollama and vLLM for models; Snowflake, BigQuery,"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "以 Grok 模型名列举，未见 xAI 公司名",
+    "quotes": [
+     " Azure, OCI, Qwen, Grok, Groq, Ollama and vLLM for models; Snowflake, BigQuery,"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     46,
+     197
+    ],
+    "quotes": [
+     " Azure, OCI, Qwen, Grok, Groq, Ollama and vLLM for models; Snowflake, BigQuery,",
+     " local embeddings via Ollama or vLLM."
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     46,
+     197
+    ],
+    "quotes": [
+     " Azure, OCI, Qwen, Grok, Groq, Ollama and vLLM for models; Snowflake, BigQuery,",
+     " local embeddings via Ollama or vLLM."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     322
+    ],
+    "note": "L33 一条 Docker 命令运行，L322 为安装章节",
+    "quotes": [
+     "docker compose up --build"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     310
+    ],
+    "quotes": [
+     "git clone https://github.com/AgentSwarms-fyi/agentswarms.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     312,
+     314
+    ],
+    "note": "窗外安装章节中出现，语境不可见",
+    "quotes": [
+     "npm install",
+     "# apply the database schema once: npx supabase login && npx supabase link && npx supabase db push"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "4 GB RAM",
+    "rel": "mention",
+    "lines": [
+     284
+    ],
+    "quotes": [
+     "Budget ~2 GB of image pulls and +2 vCPU / +4 GB RAM for the Supabase stack."
+    ]
+   },
+   {
+    "term": "8 GB of RAM",
+    "rel": "mention",
+    "lines": [
+     335
+    ],
+    "quotes": [
+     "the install ends. It costs about 5 GB of images and roughly 8 GB of RAM"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "Qwen 作为支持的模型提供商列举",
+    "quotes": [
+     " Azure, OCI, Qwen, Grok, Groq, Ollama and vLLM for models; Snowflake, BigQuery,"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     144,
+     149
+    ],
+    "note": "开发者工作区沙箱内预装的库，非替代/竞品",
+    "quotes": [
+     "`langchain`, `langgraph` and `llama_index` installed. Model and knowledge-base",
+     "The Developer workspace showing the read-only \"LangChain fundamentals\" sample notebook with runnable Python cells"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    410
+   ],
+   "note": "窗外行标注 dual/commercial；许可证为 Elastic License 2.0",
+   "quotes": [
+    "managed service, and keep the notices. A commercial license for uses ELv2 does"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

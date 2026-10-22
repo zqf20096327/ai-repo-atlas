@@ -1,0 +1,95 @@
+{
+ "fn": "yuhao-nie/Stanford-solar-forecasting-dataset",
+ "sha": "0a8af5c4f738",
+ "source": "readme",
+ "identity": {
+  "one_liner": "斯坦福天空图像与光伏功率数据集：短期太阳能预测研究",
+  "review": "由斯坦福 EAO 课题组发布的 SKIPP'D 数据集，含两级数据：2017-2019 年处理好的基准集（64×64 天空图像 + 同步 1 分钟间隔光伏功率，HDF5 格式）与高分辨率原始集（2048×2048 鱼眼相机天空视频与图像、原始 PV 数据），在斯坦福校园采集，共开放 3 年数据。另提供 Python 数据处理与 SUNSET 基线模型的 Jupyter Notebook 代码（TensorFlow 2.4.1 实现）。基准数据托管于 Stanford PURL 与 Hugging Face，数据采用 CC BY 4.0、代码 MIT 许可。",
+  "highlights": [
+   "3 年基准数据：64×64 天空图像与 1 分钟间隔 PV 功率配对，HDF5 格式即取即用",
+   "原始数据含 2048×2048、20fps 天空视频与 1 分钟间隔原始 PV 记录",
+   "附数据处理与 SUNSET nowcast/forecast 基线模型 Jupyter Notebook",
+   "基准数据可通过 Hugging Face Datasets 库访问"
+  ],
+  "use_cases": [
+   "开发和基准测试基于深度学习的短期光伏功率预测模型",
+   "研究天空图像分割、云类型分类与云运动预测",
+   "复现 SUNSET 等相关工作或自定义数据提取流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集",
+   "太阳能预测",
+   "天空图像",
+   "光伏发电",
+   "计算机视觉"
+  ],
+  "domain": "能源/计算机视觉数据集",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: Here, we present **SKIPP'D** — a **SK**y **I**mages and **P**hotovoltaic **P**ower Generation **D**ataset for short-term",
+   "L65: 1. Benchmark dataset: 3 years of processed sky images (64×64) and concurrent PV power generation data with"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    3,
+    4
+   ],
+   "quotes": [
+    "Note: This *README* file is for demonstration purpose. For details of the dataset please refer to our dataset paper. All",
+    "[Creative Commons Attribution 4.0 International License][cc-by]. All code files are licensed under the MIT license (see "
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

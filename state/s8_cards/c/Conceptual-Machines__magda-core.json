@@ -1,0 +1,108 @@
+{
+ "fn": "Conceptual-Machines/magda-core",
+ "sha": "b9c3b8aefa30",
+ "source": "readme",
+ "identity": {
+  "one_liner": "内置 AI 聊天助手的开源 DAW（数字音频工作站）",
+  "review": "基于 C++23、JUCE 与 Tracktion Engine 的免费开源 DAW，采用混合音轨（音频+MIDI 同轨）、Arrangement/Session/Mix 三视图、每设备 16 LFO+16 宏控的调制系统、可嵌套 rack 与钢琴卷帘等常规 DAW 功能。AI 部分为应用内聊天：自然语言命令生成并执行自定义 DSL，用户自带 API Key（BYOAK），依赖 juce-llm 客户端模块与内嵌 llama.cpp 本地推理。处于 v0 早期，需自行编译。",
+  "highlights": [
+   "自然语言命令生成并执行自定义 DSL（BYOAK 自带 API Key）",
+   "混合音轨：每轨同时承载音频与 MIDI clip",
+   "每设备/rack 16 LFO 与 16 宏控的调制系统",
+   "内嵌 llama.cpp 本地 LLM 推理"
+  ],
+  "use_cases": [
+   "音乐制作与编曲，使用混合音轨与三视图工作流",
+   "通过聊天用自然语言操作 DAW 功能",
+   "本地运行 LLM 进行离线 AI 命令处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    133
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "DAW",
+   "音乐制作",
+   "AI助手",
+   "桌面应用",
+   "DSP"
+  ],
+  "domain": "音频/音乐制作软件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本（L15）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: MAGDA is a free, open-source DAW with AI integrated from the ground up. Built on C++23, JUCE, and Tracktion Engine.",
+   "L21: - **AI chat**: natural language commands that generate and execute a custom DSL directly in the app (BYOAK, Bring Your O"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     75,
+     83,
+     85
+    ],
+    "quotes": [
+     "git clone --recursive https://github.com/Conceptual-Machines/magda-core.git",
+     "make setup      # Initialize submodules and dependencies",
+     "make release    # Release build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

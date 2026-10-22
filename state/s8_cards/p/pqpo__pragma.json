@@ -1,0 +1,146 @@
+{
+ "fn": "pqpo/pragma",
+ "sha": "76d950d5467c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨模型跨 harness 的可移植 Agent Team 构建运行平台",
+  "review": "面向开发者的 agent 团队平台：用 YAML DSL 组合 Experts、ExpertTeams、Flows、工具、Skills、共享上下文与记忆，形成可版本化、可导出为 .pragma 包的 Agent Team。提供三层使用方式：macOS Desktop 工作台、终端 CLI（npm 包，macOS/Windows）、以及经 @pragma/interpreter/@pragma/core 嵌入自有系统的 SDK。支持 Claude Code、Codex、PI、Qoder CLI、Antigravity 等运行时适配器，记忆通过证据流水线转为知识与技能。项目处于 preview 阶段，AGPL-3.0 许可。",
+  "highlights": [
+   "YAML DSL 定义可移植 Agent Team，可导出导入 .pragma bundle",
+   "Desktop/CLI/SDK 三种构建运行方式",
+   "运行时适配器覆盖 Claude Code、Codex、PI、Qoder CLI、Antigravity",
+   "共享 ContextStore 与记忆流水线，将经验转为知识与技能"
+  ],
+  "use_cases": [
+   "一次构建 Agent Team，在 Codex、Claude Code 等工具间复用",
+   "用 SDK 把可移植 agent 团队嵌入自己的 AI 系统",
+   "在 Desktop 中配置多专家工作流并执行与审计 Mission"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    12,
+    34
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多Agent编排",
+   "agent框架",
+   "可移植DSL",
+   "agent记忆",
+   "工作流引擎"
+  ],
+  "domain": "Agent 框架/编排平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  Build portable AI agent teams across models and harnesses — combine the right models, tools, context, and workflows for",
+   "L23: Unlike a single chat product or Coding Agent, Pragma treats the Agent Team and its working method as the portable unit. ",
+   "L146: Save an Agent Team as versioned YAML DSL, load and compile it with `@pragma/interpreter`, and invoke the compiled team d"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9,
+     86,
+     154
+    ],
+    "note": "Claude Code 作为运行时适配器，非专属接入声明",
+    "quotes": [
+     " Build portable AI agent teams across models and harnesses — combine the right models, tools, context, and workflows for",
+     "pnpm --filter @pragma/examples example:runtime-claude-code",
+     "|Runtime adapters|Claude Code, Codex, PI, Qoder CLI, and Antigravity|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "git clone https://github.com/pqpo/pragma.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     68
+    ],
+    "quotes": [
+     "pnpm install --frozen-lockfile"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     154
+    ],
+    "note": "作为接入的运行时适配器被提及，非替代/竞品",
+    "quotes": [
+     " Build portable AI agent teams across models and harnesses — combine the right models, tools, context, and workflows for",
+     "|Runtime adapters|Claude Code, Codex, PI, Qoder CLI, and Antigravity|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

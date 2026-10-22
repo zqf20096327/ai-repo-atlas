@@ -1,0 +1,123 @@
+{
+ "fn": "arcadelab/deepdrr",
+ "sha": "8c9bfffaedcc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从 CT 与网格仿真 X 光影像（DRR）的 GPU 框架，供合成训练数据",
+  "review": "基于 GPU 的数字影像重建放射图（DRR）仿真框架：读取 3D CT 体数据与网格，结合机器学习模型（材质分解、散射估计）与解析模型（投影、衰减、噪声注入），批量生成合成 X 光影像，用于训练医学影像机器学习模型。支持多体重叠、不同材质的网格渲染；非可微渲染器。需 Linux + NVIDIA GPU + CUDA，推荐 conda/mamba 从源码安装；材质分解模型基于 NIH 数据训练，散射估计目前仅限 Rayleigh 散射，且部分工具插入功能未经 1.0 版本测试。",
+  "highlights": [
+   "结合 ML 材质分解与散射估计 + 解析投影/衰减/噪声注入的仿真管线",
+   "从 CT 体数据与网格批量生成合成 X 光影像数据集",
+   "支持多种 CUDA 版本的 cupy 安装选项（10.2–12.x）",
+   "提供 Python API（Volume/Projector/Mesh）与 Colab 演示"
+  ],
+  "use_cases": [
+   "为 X 光影像分割/检测模型生成大规模合成训练数据",
+   "手术导航与透视引导流程的仿真验证",
+   "机器人 C 臂与手术工具的 X 光成像模拟"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/1803.08606",
+  "demo_url": "https://colab.research.google.com/github/arcadelab/deepdrr/blob/main/deepdrr_demo.ipynb",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学影像仿真",
+   "X光/DRR",
+   "合成数据生成",
+   "手术导航",
+   "PyTorch"
+  ],
+  "domain": "医学影像/手术仿真",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: DeepDRR is a GPU-based framework for efficient simulation of X-ray images—or digitally reconstructed radiographs (DRRs)—",
+   "L130: DeepDRR combines machine learning models for material decomposition and scatter estimation in 3D and 2D, respectively, w"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     12,
+     82
+    ],
+    "quotes": [
+     "<a href=\"https://pypi.org/project/deepdrr/\">",
+     "pip install .[cuda11x] # this should match your CUDA version, see installation notes below"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     21
+    ],
+    "note": "Colab 演示笔记本入口",
+    "quotes": [
+     "<a href=\"https://colab.research.google.com/github/arcadelab/deepdrr/blob/main/deepdrr_demo.ipynb\">"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     77
+    ],
+    "quotes": [
+     "git clone https://github.com/arcadelab/deepdrr.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

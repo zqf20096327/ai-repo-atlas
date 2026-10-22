@@ -1,0 +1,168 @@
+{
+ "fn": "zj-unicom-ai/UniEmployee",
+ "sha": "3cdfeca9f75d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "企业数字员工构建与运行平台：把员工经验固化为可上岗 AI 员工",
+  "review": "面向企业的数字员工平台：通过 Employee→Workflow/SOP→Skill→Connector→Tool 五层能力模型，把大模型编排成客服、销售、数据分析、HR、经营分析、算网运营等岗位的数字员工。关键机制包括：SKILL.md 技能规程与 StateGraph 状态机工作流、HITL 人工审批中断恢复、按 (user, employee) 隔离的跨会话长期记忆、超长对话自动压缩、全链路 Trace 可回放、MCP 连接器与企业知识本体。限制：微信/企微/飞书/钉钉等外部渠道尚未随当前版本发布，需自备 OpenAI 兼容模型服务。",
+  "highlights": [
+   "SKILL.md 技能规程 + StateGraph 状态机 SOP（含人工审批节点）",
+   "HITL 审批中断恢复 + 敏感词/工具白名单/SQL 只读校验等安全护栏",
+   "跨会话长期记忆落盘 PostgreSQL，超长对话自动压缩（85% 窗口比例或 17 万 token 触发）",
+   "内置 8 个示例数字员工，覆盖售前、数据分析、HR、经营分析等岗位"
+  ],
+  "use_cases": [
+   "把客服、销售等岗位的流程和经验配置为可审批可观测的 AI 员工",
+   "企业知识本体 + RAGFlow 多源知识做带溯源的客户问答与客户 360",
+   "cron/webhook 触发自动任务并经人工审批后发布"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/73de95eb-4b26-4ddb-9145-6e1e3c3ad2c2",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 平台",
+   "数字员工",
+   "企业知识图谱",
+   "HITL 人工审批",
+   "LLM 编排"
+  ],
+  "domain": "企业 AI/Agent 平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "浙江联通售前客服示例",
+   "中文联系电话/微信企业落地支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: UniEmployee 是一套面向企业的**数字员工构建与运行平台**：把专业员工的工作经验、业务流程和判断标准，固化为可随时上岗、可配置、可审批、可观测的 AI 数字员工。通过 **Employee → Workflow/SOP → Sk",
+   "L18: - 📊 **数据分析与报告工作台**：小数（`xiaoshu`）拥有独立的 `/app/analyst` 工作台，支持数据库、附件表格、知识库和连接器数据源；SQL 查询采用 AST 级只读校验、表白名单、行数上限和服务端超时。分析报告与市"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     59,
+     73,
+     214
+    ],
+    "note": "作为 OpenAI 兼容模型接口的配置示例出现",
+    "quotes": [
+     "- 任意 OpenAI Chat Completions 兼容的模型接口与 API Key（如 DeepSeek、OpenAI）",
+     "MODEL_NAME=openai:deepseek-chat",
+     "|`OPENAI_API_KEY` / `OPENAI_BASE_URL` / `MODEL_NAME`|`openai:deepseek-chat`|模型（OpenAI 兼容协议）|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     65
+    ],
+    "quotes": [
+     "git clone https://github.com/zj-unicom-ai/UniEmployee.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     83
+    ],
+    "note": "pip install requirements.lock 为源码安装路径的依赖安装步骤",
+    "quotes": [
+     ".venv/bin/pip install -r backend/requirements.lock.txt   # 完全可复现"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     123
+    ],
+    "quotes": [
+     "docker compose up -d --build"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "note": "仅前后端分离开发模式的前端依赖安装",
+    "quotes": [
+     "cd frontend && npm install && npm run dev"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "不需要 GPU",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "note": "应用本身通过 OpenAI 兼容协议调用外部模型服务",
+    "quotes": [
+     "- 应用本身不需要 GPU，硬件要求取决于你选择的模型服务"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

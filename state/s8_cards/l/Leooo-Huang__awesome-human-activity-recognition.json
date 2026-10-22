@@ -1,0 +1,103 @@
+{
+ "fn": "Leooo-Huang/awesome-human-activity-recognition",
+ "sha": "f9ab7a321b87",
+ "source": "readme",
+ "identity": {
+  "one_liner": "人体活动识别（HAR）研究资源清单：数据集、框架、模型、教程",
+  "review": "面向 HAR 研究者的 awesome 类策展清单：按视觉、骨架/动作捕捉、可穿戴传感器、多模态/自我中心、新兴前沿五类收录 50 余个数据集，并整理视频与骨架动作识别框架、可穿戴 HAR 库、动作生成与估计模型、预训练模型、教程课程与经典论文。提供按模态和任务选择数据集的推荐路径（如视频分类用 Kinetics-700 预训练、UCF-101 评测；骨架用 NTU RGB+D 120；IMU 用 UCI-HAR 等）。内容声称持续从 Papers with Code 自动扫描更新。",
+  "highlights": [
+   "覆盖视觉/骨架/可穿戴/多模态/新兴五类共 50+ 数据集",
+   "按模态和任务给出数据集选择推荐路径",
+   "收录 MMAction2、PySlowFast、tsai 等框架与预训练模型",
+   "包含教程、课程与经典论文条目"
+  ],
+  "use_cases": [
+   "按数据模态挑选合适的 HAR 数据集",
+   "查找动作识别框架与预训练模型",
+   "入门 HAR 领域的教程与论文线索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "人体活动识别",
+   "数据集",
+   "计算机视觉",
+   "可穿戴传感"
+  ],
+  "domain": "计算机视觉/HAR 研究资源",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多语言 README 含中文选项"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > Human Activity Recognition (HAR) is the field of recognizing human actions and activities from sensor data — including",
+   "L29: ## Datasets"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     150
+    ],
+    "note": "所列教程为 Colab notebook，非本产品安装途径",
+    "quotes": [
+     "- Motion Diffusion Tutorial - Colab notebook for training text-conditioned human motion diffusion models on HumanML3D."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

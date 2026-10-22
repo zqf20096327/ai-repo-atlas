@@ -1,0 +1,135 @@
+{
+ "fn": "ConstantineB6/comfy-pilot",
+ "sha": "de51b3d174b6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Claude Code 查看、编辑和运行 ComfyUI 工作流的 MCP 服务器与内嵌终端",
+  "review": "ComfyUI 自定义节点插件：内含 MCP 服务器与 xterm.js 嵌入式终端，使 Claude Code 直接在 ComfyUI 界面内查看、编辑、运行工作流。提供 get_workflow、edit_graph、run、view_image、download_model 等 12 个 MCP 工具，支持从 Hugging Face（含 gated 模型 token 认证）、CivitAI 或直链下载模型，并可经 ComfyUI Manager 注册表安装/卸载/更新自定义节点。要求 ComfyUI 与 Python 3.8+，未检测到 Claude Code CLI 时自动安装。面向使用 Claude Code 的 ComfyUI 用户。",
+  "highlights": [
+   "12 个 MCP 工具：工作流读取/摘要、图编辑、运行控制、图像查看",
+   "xterm.js 嵌入式终端在 ComfyUI 内运行 Claude Code",
+   "从 Hugging Face（含 gated 模型）、CivitAI 或直链下载模型",
+   "经 ComfyUI Manager 注册表安装/更新/卸载自定义节点"
+  ],
+  "use_cases": [
+   "用自然语言让 Claude Code 从零搭建 SDXL/FLUX 工作流",
+   "让 Claude 查看生成图片输出并调整节点参数",
+   "在 ComfyUI 界面内直接与 Claude Code 终端交互"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/325b1194-2334-48a1-94c3-86effd1fef02",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "ComfyUI",
+   "Claude Code",
+   "工作流自动化",
+   "文生图工具链"
+  ],
+  "domain": "生成式 AI 工具链/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Talk to your ComfyUI workflows. Comfy Pilot gives Claude Code direct access to see, edit, and run your workflows — with ",
+   "L49: - **MCP Server** - Gives Claude Code direct access to view, edit, and run your ComfyUI workflows",
+   "L50: - **Embedded Terminal** - Full xterm.js terminal running Claude Code right inside ComfyUI"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     7,
+     15,
+     40
+    ],
+    "quotes": [
+     "Talk to your ComfyUI workflows. Comfy Pilot gives Claude Code direct access to see, edit, and run your workflows — with ",
+     "- *\"Build me an SDXL workflow with ControlNet\"* — Claude creates all the nodes, connects them, and sets the parameters",
+     "Claude Code CLI will be installed automatically if not found."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     35,
+     37
+    ],
+    "quotes": [
+     "**Git Clone:**",
+     "cd ~/Documents/ComfyUI/custom_nodes && git clone https://github.com/ConstantineB6/comfy-pilot.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7,
+     40,
+     49
+    ],
+    "quotes": [
+     "Talk to your ComfyUI workflows. Comfy Pilot gives Claude Code direct access to see, edit, and run your workflows — with ",
+     "Claude Code CLI will be installed automatically if not found.",
+     "- **MCP Server** - Gives Claude Code direct access to view, edit, and run your ComfyUI workflows"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

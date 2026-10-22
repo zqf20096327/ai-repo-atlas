@@ -1,0 +1,162 @@
+{
+ "fn": "NeuralInverse/neuralinverse",
+ "sha": "bcb4259e21ab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向固件与遗留系统现代化的开源 AI 原生 IDE（VS Code 分发版）",
+  "review": "Neural Inverse OSS 是基于 VS Code 代码库的开源编辑器（Apache 2.0），面向嵌入式工程师与企业架构师，定位为开源 Cursor 替代。功能包括 AI 聊天与内联编辑、带 22+ 工具和并发子代理的自主编码代理（Power Mode）、支持 20 个 LLM 提供商（含本地与网关）、357 种 MCU 变体的固件开发模块、30+ 源语言的 5 阶段遗留迁移管线，并提供浏览器版 Cloud。注意：本仓库开发已停止，商业版 Build/Govern 为独立产品。",
+  "highlights": [
+   "AI 聊天、内联编辑、自动补全与自主编码代理 Power Mode",
+   "支持 20 个 LLM 提供商（云端/本地/网关），API 密钥不上传",
+   "固件模块覆盖 357 种 MCU 变体、SVD 寄存器映射、MISRA/CERT-C 合规",
+   "5 阶段遗留迁移管线，支持 30+ 源语言与 61 个翻译配置"
+  ],
+  "use_cases": [
+   "在 IDE 内通过 AI 代理完成固件与嵌入式开发",
+   "把遗留代码库分阶段迁移到现代语言",
+   "自带 LLM API 密钥做日常 AI 辅助编码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI IDE",
+   "agentic coding",
+   "固件/嵌入式开发",
+   "遗留代码现代化",
+   "VS Code 分发版"
+  ],
+  "domain": "开发工具/IDE",
+  "alternative_to": [
+   "Cursor"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: NeuralInverse is an AI-native IDE built for the work most AI tools ignore — modernizing legacy systems, developing firmw",
+   "L28: NeuralInverse combines the editing experience of VS Code with purpose-built tooling for embedded engineers, enterprise a",
+   "L51: - **Bring Your Own LLM** — 20 providers (cloud, local, gateway), per-feature model selection, zero lock-in"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     44,
+     50
+    ],
+    "note": "Cloud 免费模型清单中列举，非专门适配声明",
+    "quotes": [
+     "Use Neural Inverse directly in your browser at cloud.neuralinverse.com with forever-free models (Llama 3.3 70B, DeepSeek",
+     "- **Forever-Free Models** — Llama 3.3 70B, DeepSeek R1/V3/V4, Mistral Large 3, Kimi K2.6 via cloud.neuralinverse.com"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     87
+    ],
+    "note": "从源码构建的官方命令；另有 curl/PowerShell 安装脚本（L34-39）",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "6 GB of RAM",
+    "rel": "mention",
+    "lines": [
+     82
+    ],
+    "note": "Dev Container/Codespace 完整构建的资源配置，非运行本产品要求",
+    "quotes": [
+     "Docker / the Codespace should have at least 4 cores and 6 GB of RAM (8 GB recommended) to run a full build."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "alternative",
+    "lines": [
+     28
+    ],
+    "note": "自称 open-source Cursor alternative",
+    "quotes": [
+     "NeuralInverse combines the editing experience of VS Code with purpose-built tooling for embedded engineers, enterprise a"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     44,
+     50
+    ],
+    "note": "Cloud 免费模型之一",
+    "quotes": [
+     "Use Neural Inverse directly in your browser at cloud.neuralinverse.com with forever-free models (Llama 3.3 70B, DeepSeek",
+     "- **Forever-Free Models** — Llama 3.3 70B, DeepSeek R1/V3/V4, Mistral Large 3, Kimi K2.6 via cloud.neuralinverse.com"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    26
+   ],
+   "note": "OSS 仓库为 Apache 2.0，NeuralInverse 商业发行版基于同一仓库加商业许可功能",
+   "quotes": [
+    "NeuralInverse is an AI-native IDE built for the work most AI tools ignore — modernizing legacy systems, developing firmw"
+   ]
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    4
+   ]
+  }
+ }
+}

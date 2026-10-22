@@ -1,0 +1,108 @@
+{
+ "fn": "PacktPublishing/Time-Series-Analysis-with-Python-Cookbook",
+ "sha": "fb3778f91c29",
+ "source": "readme",
+ "identity": {
+  "one_liner": "时间序列分析与预测 Python 配方代码集（图书配套仓库）",
+  "review": "Packt 出版图书《Time Series Analysis with Python Cookbook》的配套代码仓库，以配方（recipe）形式覆盖时间序列数据摄取（含 InfluxDB 等专用时序库）、缺失值插补、异常检测（统计与无监督 ML）、经典统计预测（Holt-Winters/SARIMA/VAR）、状态空间模型与 UCM，以及 TensorFlow/PyTorch 的 ML/DL 预测，并含模型评估与优化配方。面向数据分析师、数据科学家、数据工程师等需要 Python 配方的读者；需具备 Python 基础。仓库为各章节提供 YAML 环境文件与 requirements.txt，部分章节提供 Colab 笔记本版本（进行中）。",
+  "highlights": [
+   "覆盖统计/ML/DL 三类预测与异常检测技术",
+   "涉及 pandas、Statsmodels、sktime、Darts、Prophet、PyTorch 等 18 个库",
+   "处理趋势、多重季节模式与非平稳数据的配方",
+   "各章节提供环境文件与依赖清单"
+  ],
+  "use_cases": [
+   "查找时间序列预测与异常检测的可运行 Python 配方",
+   "学习缺失值插补与时区/自定义工作日处理方法",
+   "对比经典统计模型与深度学习模型的实现方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列",
+   "预测",
+   "代码配方",
+   "图书配套代码",
+   "数据分析"
+  ],
+  "domain": "数据分析/时间序列预测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: # Time Series Analysis with Python Cookbook",
+   "L41: - Explore forecasting and anomaly detection techniques using statistical, machine learning, and deep learning algorithms",
+   "L66: This book is for data analysts, business analysts, data scientists, data engineers, or Python developers who want practi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     94,
+     95,
+     96,
+     97
+    ],
+    "note": "作者注明正在为部分章节添加 Colab 笔记本版本，非完整安装途径",
+    "quotes": [
+     "* Working on adding Colab notebook versions",
+     "- [x] Chapter 11",
+     "- [x] Chapter 12",
+     "- [x] Chapter 14"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

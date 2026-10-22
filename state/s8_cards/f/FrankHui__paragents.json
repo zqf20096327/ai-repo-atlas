@@ -1,0 +1,102 @@
+{
+ "fn": "FrankHui/paragents",
+ "sha": "ed61f256d1dc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单面板并行运行多个 AI agent 会话的 Python TUI 运行时",
+  "review": "Paragents 是一个基于 asyncio 的多会话并行 agent 运行时，以 TUI 为主要交互界面：会话级调度器与 worker 模型、每会话复用单一 agent 实例、跨轮次的上下文与记忆持久化。工具执行带权限治理（capabilities/fs_scopes、needs_approval/blocked/auto_approved 语义）与预检冲突检查（尤其输出冲突），高风险动作前发起审批流程。需自备 OpenAI 兼容端点，通过交互式首次配置写入 runtime_config.json。README 自述非生产就绪、内部 API 无稳定性保证，附 TODO 路线图与跨仓库学习笔记。",
+  "highlights": [
+   "多会话并行调度，每会话独立 agent 实例与上下文持久化",
+   "权限治理与审批流（needs_approval/blocked/auto_approved、fs_scopes）",
+   "预检冲突检查（尤其输出冲突）",
+   "TUI 命令集覆盖会话创建/切换/暂停/审批等操作"
+  ],
+  "use_cases": [
+   "在一个终端面板里同时观察和操控多个 agent 会话",
+   "需要高风险动作人工审批的 agent 工作流",
+   "复用同一个 agent 实例进行多轮连续任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    153,
+    154
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent-runtime",
+   "multi-agent",
+   "TUI",
+   "权限治理",
+   "并行会话"
+  ],
+  "domain": "AI agent 运行时/开发者工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Parallel agent sessions in one panel, with permission-aware tools, preflight conflict checks.",
+   "L70: - Session-based scheduler and worker model"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "note": "命中均来自 claude-code（L10/L100/L119），为灵感来源项目对比，未声明接入 Anthropic API",
+    "quotes": []
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

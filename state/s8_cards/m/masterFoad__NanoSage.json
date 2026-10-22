@@ -1,0 +1,137 @@
+{
+ "fn": "masterFoad/NanoSage",
+ "sha": "19dee40d6d38",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地小模型驱动的递归式深度研究助手，生成结构化研究报告",
+  "review": "运行在笔记本上的 Deep Research 工具：接收自然语言查询后，通过链式思考增强查询，用 Monte Carlo 方式在深度与广度间权衡，递归采样与相关性过滤子查询，经 Tavily API（含 DuckDuckGo/SearxNG/Wikipedia 回退）与本地文件构建知识库，以 TOC 节点树记录探索路径，最终用 Gemma 2B（经 Ollama）通过 RAG 生成多章节 Markdown 报告，并可渲染本地可视化仪表盘。混合嵌入架构区分 SigLIP/CLIP 视觉与 all-MiniLM 文本模型，支持有限的只读 agentic 工具（read_file_lines/grep/git_explore）。依赖 Python 3.8+，可 CPU 运行，GPU 加速与 CUDA 安装为可选项。",
+  "highlights": [
+   "Monte Carlo 子查询采样与相关性过滤，平衡搜索深度与广度",
+   "TOC 节点树记录递归搜索路径，最终 RAG 生成多章节 Markdown 报告",
+   "混合嵌入架构：SigLIP/CLIP 处理视觉内容，all-MiniLM 处理文本",
+   "本地工具策略（read_file_lines/grep/git_explore）与运行可视化仪表盘"
+  ],
+  "use_cases": [
+   "对开放性问题自动多源检索并产出结构化研究报告",
+   "结合本地 PDF/文本/图片与网络资料做综合调研",
+   "在无云端 LLM 的环境下用 Gemma 2B 通过 Ollama 完成研究总结"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度研究",
+   "RAG",
+   "本地LLM",
+   "递归搜索",
+   "研究报告生成"
+  ],
+  "domain": "AI 研究助手/信息检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Deep Research assistant that runs on your laptop, using tiny models. - all open source!",
+   "L9: With Monte Carlo-based exploration, the system balances depth vs. breadth, ranking each branch's relevance to ensure pre",
+   "L220: This uses **Gemma 2B** to generate LLM-based summaries and the final report."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     52,
+     54,
+     57,
+     58,
+     65
+    ],
+    "note": "默认 LLM 后端，安装步骤中专门配置并拉取 gemma2:2b",
+    "quotes": [
+     "### 2. Set Up Ollama & Pull the Gemma Model",
+     "1. **Install Ollama**:",
+     "curl -fsSL https://ollama.com/install.sh | sh",
+     "pip install --upgrade ollama",
+     "ollama pull gemma2:2b"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     139
+    ],
+    "note": "环境变量可覆盖模型，非专门适配说明",
+    "quotes": [
+     "export NANOSAGE_ANTHROPIC_MODEL=claude-haiku-4-5-20251001"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     36,
+     224
+    ],
+    "note": "pip install -r requirements.txt 为本产品安装方式",
+    "quotes": [
+     "pip install -r requirements.txt",
+     "- **Missing dependencies?** Rerun: `pip install -r requirements.txt`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

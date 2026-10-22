@@ -1,0 +1,103 @@
+{
+ "fn": "Particle1904/DatasetHelpers",
+ "sha": "8cf93e8c6dcb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "图像-文本数据集预处理桌面工具：选图、裁剪、打标一体化",
+  "review": "面向机器学习训练数据准备的 C# 桌面工具集：提供图库浏览与批量筛选、低分辨率图剔除、保持宽高比的缩放（可条件锐化）、拖框手动裁剪与基于 YoloV4 检测人物的内容感知自动裁剪（输出 512/640/768 方图），以及使用 WD 1.4 SwinV2 Tagger V2 等四种模型生成 booru 风格标签写入 .txt/.caption 文件。另有 .txt 批量文本处理、子集抽取、提示词生成与元数据查看。可从 releases 下载或用 .NET 8 自行构建，需另行下载模型文件；部分功能（元数据查看）仅限 Windows。",
+  "highlights": [
+   "四种 AI 模型自动打标，可多模型追加写入 .txt",
+   "YoloV4 人物检测驱动的内容感知自动裁剪，输出三种方图尺寸",
+   "批量图库管理：选图、剔除低分辨率、备份",
+   "批量文本处理：标签增删替换、去冗余、合并相似标签"
+  ],
+  "use_cases": [
+   "给 Stable Diffusion 类训练准备图像与标签数据集",
+   "批量整理既有 .txt/.caption 标注文件",
+   "从大数据集按关键词抽取训练子集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集处理",
+   "图像标注",
+   "自动打标",
+   "桌面工具",
+   "训练数据准备"
+  ],
+  "domain": "机器学习/数据集工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # Dataset Processor - All-in-one Tools",
+   "L5: Dataset Processor Tools is a versatile toolkit designed to streamline the processing of image-text datasets for machine ",
+   "L11: The toolkit also offers advanced content-aware smart cropping. Leveraging the YoloV4 model for object detection, it inte"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     2,
+     32
+    ],
+    "quotes": [
+     "### You don't need to Clone the repository or build to use it! Download in the releases page",
+     "Remember to download the model files: https://github.com/Particle1904/DatasetHelpers/releases/tag/v0.0.0 - follow the in"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

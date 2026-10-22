@@ -1,0 +1,184 @@
+{
+ "fn": "voxel51/fiftyone-examples",
+ "sha": "319795735721",
+ "source": "readme",
+ "identity": {
+  "one_liner": "FiftyOne 使用示例集：Jupyter Notebook 演示数据集与模型分析",
+  "review": "Voxel51 维护的 FiftyOne 官方示例仓库：以 Jupyter Notebook 形式提供 quickstart、walkthrough 及各类任务示例，包括用 OpenVINO 优化版 Segment Anything 添加对象掩码、在 COCO 上对比 YOLOv4 与 EfficientDet、查找检测数据集错误、深度伪造检测评估、情绪识别分析、图像唯一性分析等。每个示例可在 Google Colab 免配置运行，也可本地运行（git clone 后用 jupyter notebook 打开）。面向计算机视觉与机器学习开发者。",
+  "highlights": [
+   "示例均以 Jupyter Notebook 提供，支持 Colab 免配置运行",
+   "覆盖模型对比、数据清洗、数据集错误查找、深度伪造检测等任务",
+   "本地运行方式：git clone 后用 jupyter notebook 打开"
+  ],
+  "use_cases": [
+   "快速上手 FiftyOne 的数据集可视化与模型分析工作流",
+   "参考如何在数据集中查找标注错误与清洗数据",
+   "学习如何将 Segment Anything 等模型的输出接入 FiftyOne 数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例/教程",
+   "计算机视觉",
+   "数据集管理",
+   "模型评估"
+  ],
+  "domain": "计算机视觉/机器学习工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: # **Examples**",
+   "L162: Each example in this repository is provided as a",
+   "L163: Jupyter Notebook. The table of contents below provides",
+   "L164: handy links for each example:"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cpu-infer",
+    "rel": "mention",
+    "lines": [
+     263,
+     266,
+     269,
+     273,
+     274
+    ],
+    "note": "OpenVINO 优化版 Segment Anything 示例，属示例中搭配的推理方案（窗外行号）",
+    "quotes": [
+     " <a target=\"_blank\" href=\"https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/segmen",
+     " <a target=\"_blank\" href=\"https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/segment_any",
+     " <a id=\"raw-url\" href=\"https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/segment_anything_open",
+     " segment_anything_openvino",
+     " Add object masks to a FiftyOne dataset with OpenVINO-optimized Segment Anything Model"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     167,
+     168
+    ],
+    "quotes": [
+     "Click this link to **run** the notebook in",
+     "Google Colab (no setup required!)"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     179,
+     182
+    ],
+    "quotes": [
+     "You can always clone this repository:",
+     "git clone https://github.com/voxel51/fiftyone-examples"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     14,
+     15
+    ],
+    "note": "徽章展示 FiftyOne 本体的 PyPI 信息，非本仓库安装命令",
+    "quotes": [
+     "PyPI python",
+     "PyPI version"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     17,
+     141,
+     143,
+     145
+    ],
+    "note": "指向 FiftyOne Docker 镜像构建说明，非本仓库安装途径",
+    "quotes": [
+     "Docker Pulls",
+     " Docker",
+     "Refer to",
+     "to see how to build and run Docker images containing source or release builds"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     117,
+     119,
+     126
+    ],
+    "note": "macOS 安装 Python/protobuf 等前置依赖的方式",
+    "quotes": [
+     "### 2. Install Homebrew",
+     "/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"",
+     "brew install python@3.9"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

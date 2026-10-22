@@ -1,0 +1,197 @@
+{
+ "fn": "introfini/ZotSeek",
+ "sha": "362d7b1fb9bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Zotero 的本地语义检索插件，内置 MCP 服务器供 AI agent 查文献",
+  "review": "面向 Zotero 用户的文献管理插件：将题录/摘要/PDF 全文按块生成 768 维本地嵌入向量（Transformers.js，默认模型约 130MB 随插件打包，可选 4 个本地模型），支持语义/关键词/RRF 混合检索、多查询 AND/OR 组合、相似文献发现、笔记索引与段落级定位，检索耗时宣称低于 100ms。另内置 MCP 服务器（默认关闭），让 Claude Code、Codex 等 MCP 客户端检索文献库并引用可跳转 PDF 页的链接。全部推理本地运行，零遥测；可选 LM Studio/Ollama/llama.cpp/vLLM 作为 localhost 推理服务（经环回地址白名单校验）。兼容 Zotero 8-10，UI 提供中英文。",
+  "highlights": [
+   "语义/关键词/RRF 混合检索，多查询 AND/OR 组合（最多 4 组）",
+   "内置 MCP 服务器，AI agent 可检索文献库并引用定位到 PDF 页的链接",
+   "默认嵌入模型本地打包（~130MB），离线运行，零网络请求（推理服务器为可选）",
+   "可选本地推理服务器：LM Studio / Ollama / llama.cpp / vLLM，仅限环回地址"
+  ],
+  "use_cases": [
+   "按含义而非关键词在大型 Zotero 文献库中查找论文",
+   "右键任一论文查找语义相关的研究",
+   "让 Claude Code / Codex 等 agent 通过 MCP 检索并引用自己的文献库",
+   "在无网络环境下对文献库做本地语义检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文献管理",
+   "语义检索",
+   "MCP",
+   "本地AI/隐私",
+   "Zotero插件"
+  ],
+  "domain": "学术工具/文献检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "UI 提供 zh-CN 中文（L42）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Find similar papers by **meaning**, not just keywords. 100% local, no data leaves your machine. Now with a built-in **MC",
+   "L16: - 🧠 **True Semantic Search** - Find papers by meaning, not just keywords",
+   "L102:         A[📄 Paper] --> B[🤖 AI Model] --> C[768 numbers]"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     7,
+     17
+    ],
+    "note": "Claude Code 作为 MCP 客户端被列举，非专门适配的模型提供方",
+    "quotes": [
+     "> **New:** 🤖 **MCP server built in** — Claude Code, Codex, and any MCP client can search your library and cite papers wi",
+     "- 🤖 **AI Agent Access (MCP)** - Let Claude Code and other MCP clients search your library, fully local and opt-in (docs)"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     32,
+     63
+    ],
+    "note": "可选本地嵌入推理服务器",
+    "quotes": [
+     "- 🖥️ **Local Inference Server (optional)** - Serve the embedding model from LM Studio, Ollama, llama.cpp or vLLM on the ",
+     "**Optional local inference server:** the default is the fully in-process engine described above, which makes no network "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     32,
+     63
+    ],
+    "note": "可选本地嵌入推理服务器",
+    "quotes": [
+     "- 🖥️ **Local Inference Server (optional)** - Serve the embedding model from LM Studio, Ollama, llama.cpp or vLLM on the ",
+     "**Optional local inference server:** the default is the fully in-process engine described above, which makes no network "
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     32,
+     63
+    ],
+    "note": "可选本地嵌入推理服务器",
+    "quotes": [
+     "- 🖥️ **Local Inference Server (optional)** - Serve the embedding model from LM Studio, Ollama, llama.cpp or vLLM on the ",
+     "**Optional local inference server:** the default is the fully in-process engine described above, which makes no network "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     539
+    ],
+    "quotes": [
+     "1. Download the latest `zotseek-X.Y.Z.xpi` from the Releases page."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     553
+    ],
+    "quotes": [
+     "git clone https://github.com/introfini/ZotSeek"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "runs on CPU",
+    "rel": "support",
+    "lines": [
+     360
+    ],
+    "note": "本地推理在 CPU/GPU 上运行，为产品自身运行要求",
+    "quotes": [
+     "If you have a GPU, running the embedding model in a dedicated inference server (LM Studio, Ollama, llama.cpp or vLLM) is"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7,
+     17
+    ],
+    "note": "作为 MCP 客户端被列举，非替代/竞品",
+    "quotes": [
+     "> **New:** 🤖 **MCP server built in** — Claude Code, Codex, and any MCP client can search your library and cite papers wi",
+     "- 🤖 **AI Agent Access (MCP)** - Let Claude Code and other MCP clients search your library, fully local and opt-in (docs)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

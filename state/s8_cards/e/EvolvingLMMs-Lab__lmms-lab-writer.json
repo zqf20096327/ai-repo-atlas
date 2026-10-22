@@ -1,0 +1,202 @@
+{
+ "fn": "EvolvingLMMs-Lab/lmms-lab-writer",
+ "sha": "2e15a103fb83",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向科研人员的本地优先 AI LaTeX 编辑器",
+  "review": "基于 Tauri（Node.js + Rust）构建的跨平台（macOS/Windows）LaTeX 编辑器，定位 AI-native 学术写作。内置 OpenCode 面板，AI agent 直接编辑 .tex 文件，兼容 Claude、GPT、Gemini、DeepSeek 及本地 LLM（用户自带 API key）。自动检测并安装轻量 LaTeX 发行版（TinyTeX/MiKTeX/MacTeX/TeX Live），缺失宏包编译时自动安装；支持 XeLaTeX/LuaLaTeX 的完整 Unicode/CJK；侧边栏集成 Git 操作与 GitHub 一键发布。文件全程留在本地，编辑/编译/Git 可离线使用。MIT 许可。",
+  "highlights": [
+   "内置 OpenCode 面板，AI agent 实时写入 .tex，兼容任意模型与本地 LLM",
+   "一键安装管理 LaTeX 发行版，缺失宏包编译时自动补装",
+   "侧边栏 Git 集成：暂存/提交/diff/推送与 GitHub 一键发布",
+   "XeLaTeX/LuaLaTeX 完整 Unicode 与 CJK 支持，开箱即用"
+  ],
+  "use_cases": [
+   "在本地完成 LaTeX 写作、AI 辅助编辑与编译预览全流程",
+   "撰写中英日韩等多语言论文，避免 CJK 配置问题",
+   "配合自己的 API key 使用 AI 修改论文，文件不出本机",
+   "通过侧边栏 Git 完成版本管理与 GitHub 发布"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://writer.lmms-lab.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LaTeX编辑器",
+   "学术写作",
+   "AI辅助写作",
+   "桌面应用",
+   "本地优先"
+  ],
+  "domain": "学术写作/编辑器工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版（L23）",
+   "LMMs-Lab 团队（多模态模型研究团队）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: **The AI-native LaTeX editor for researchers who prioritize ideas over syntax.**",
+   "L29: LMMs-Lab Writer is a **local-first, AI-native** LaTeX editor. Your files remain secure on your machine. AI agents assist"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     58,
+     60,
+     133
+    ],
+    "note": "兼容任意模型含 Claude；可配合 Claude Code 使用；示例用 claude CLI",
+    "quotes": [
+     "- Compatible with **any model**—Claude, GPT, Gemini, DeepSeek, or local LLMs",
+     "It also pairs perfectly with **Claude Code**, **Cursor**, **Codex CLI**, **Aider**, and other tools. The editor monitors",
+     "claude \"Write the abstract summarizing our three key contributions\""
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     58
+    ],
+    "note": "列为兼容模型之一，用户自带 key",
+    "quotes": [
+     "- Compatible with **any model**—Claude, GPT, Gemini, DeepSeek, or local LLMs"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     98,
+     99,
+     122
+    ],
+    "quotes": [
+     "# macOS (Homebrew)",
+     "brew tap EvolvingLMMs-Lab/tap && brew install --cask lmms-lab-writer",
+     "Get the latest version from writer.lmms-lab.com/download, or install via Homebrew on macOS."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     160,
+     162,
+     163
+    ],
+    "note": "git clone + pnpm tauri:dev 开发运行",
+    "quotes": [
+     "git clone https://github.com/EvolvingLMMs-Lab/lmms-lab-writer.git",
+     "pnpm install",
+     "pnpm tauri:dev"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "note": "pnpm install 为源码开发依赖安装",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "note": "描述用户在 Overleaf 与 ChatGPT 间复制的现状",
+    "quotes": [
+     "As a researcher, your time belongs to breakthroughs—not wrestling with LaTeX boilerplate, resolving package conflicts, o"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "note": "列为可配合使用的外部工具",
+    "quotes": [
+     "It also pairs perfectly with **Claude Code**, **Cursor**, **Codex CLI**, **Aider**, and other tools. The editor monitors"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "note": "列为可配合使用的外部工具",
+    "quotes": [
+     "It also pairs perfectly with **Claude Code**, **Cursor**, **Codex CLI**, **Aider**, and other tools. The editor monitors"
+    ]
+   }
+  ]
+ }
+}

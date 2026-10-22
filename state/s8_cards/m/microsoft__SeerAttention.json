@@ -1,0 +1,155 @@
+{
+ "fn": "microsoft/SeerAttention",
+ "sha": "9322b6ffa514",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可训练稀疏注意力机制：通过自蒸馏加速 LLM 长上下文推理",
+  "review": "微软发布的 SeerAttention 与 SeerAttention-R 官方实现：一种可训练的块级稀疏注意力机制，在 post-training 阶段通过自蒸馏训练注意力门控（AttnGates），原始模型权重冻结，推理时将蒸馏出的 AttnGates 与基础模型组合，实现长上下文 prefill 与解码（长推理）加速。提供 Block-sparse FlashAttention 内核、HuggingFace 上多组预蒸馏 AttnGates 权重（Llama-3.1、Qwen2.5/Qwen3、DeepSeek-R1-Distill 系列），以及自训练脚本（目前仅支持 Qwen2/Qwen3 架构）。",
+  "highlights": [
+   "块级稀疏注意力 + Block-sparse FlashAttention 内核",
+   "自蒸馏训练 AttnGates，原始模型权重冻结",
+   "提供多组基础模型的预蒸馏 AttnGates 权重（HuggingFace）",
+   "支持 Threshold / TopK 两种稀疏化方法"
+  ],
+  "use_cases": [
+   "为 Llama/Qwen/DeepSeek 蒸馏模型加速长上下文推理",
+   "长推理（reasoning）场景下做稀疏解码加速",
+   "为自己的 Qwen2/Qwen3 模型训练注意力门控"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "稀疏注意力",
+   "长上下文推理",
+   "LLM训练/推理加速",
+   "自蒸馏"
+  ],
+  "domain": "LLM 注意力机制/推理加速",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Official implementation of SeerAttention and SeerAttention-R - a novel trainable sparse attention mechanism that learns ",
+   "L12: **Self-Distillation** - Lightweight training of attention gates (original weights frozen)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     32,
+     43,
+     44,
+     45
+    ],
+    "note": "作为 DeepSeek-R1-Distill 基础模型提供 AttnGates 权重，非接入其 API",
+    "quotes": [
+     "|DeepSeek-R1-Distill-Qwen-14B|SeerAttention-Decode-R1-Distill-Qwen-14B-AttnGates|101 MB|",
+     "|DeepSeek-R1-Distill-Qwen-14B|SeerAttention-DeepSeek-R1-Distill-Qwen-14B-AttnGates|189 MB|",
+     "|DeepSeek-R1-Distill-Qwen-32B|SeerAttention-DeepSeek-R1-Distill-Qwen-32B-AttnGates|252 MB|",
+     "|DeepSeek-R1-Distill-Qwen-14B|SeerAttention-DeepSeek-R1-Distill-Qwen-14B-Decode-AttnGates|101 MB|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     53,
+     54,
+     55,
+     56
+    ],
+    "note": "pip 安装 torch/requirements/flash-attn 并 pip install -e . 源码安装",
+    "quotes": [
+     "pip install torch==2.4.0",
+     "pip install -r requirements.txt",
+     "pip install flash-attn --no-build-isolation",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     18,
+     32,
+     40,
+     41,
+     42
+    ],
+    "note": "Qwen 系列作为被支持的基础模型架构",
+    "quotes": [
+     "- **2025/2/23**: Support Qwen. Change the distillation into model adapter so that only AttnGates are saved.",
+     "|DeepSeek-R1-Distill-Qwen-14B|SeerAttention-Decode-R1-Distill-Qwen-14B-AttnGates|101 MB|",
+     "|Qwen2.5-7B-Instruct|SeerAttention-Qwen2.5-7B-AttnGates|77 MB|",
+     "|Qwen2.5-14B-Instruct|SeerAttention-Qwen2.5-14B-AttnGates|189 MB|",
+     "|Qwen2.5-32B-Instruct|SeerAttention-Qwen2.5-32B-AttnGates|252 MB|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     19
+    ],
+    "note": "News 中提及 Kimi 的 MoBA 采用相近概念",
+    "quotes": [
+     "- **2025/2/18**: Deepseek's Native Sparse Attention (NSA) and Kimi's Mixture of Block Attention (MoBA) all aquire simila"
+    ]
+   }
+  ]
+ }
+}

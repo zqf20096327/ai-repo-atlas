@@ -1,0 +1,167 @@
+{
+ "fn": "wangchuxiaoji-oss/doubao2api",
+ "sha": "704b2454d4f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "逆向豆包客户端 API，为 Agent 提供免费多模态能力",
+  "review": "通过逆向豆包（Doubao）客户端 API，将对话、识图、文件读取（60+ 种格式）、图片/音乐/视频生成封装为 OpenAI 兼容接口与 Python 客户端，面向为纯文本模型 Agent（如基于 DeepSeek 的 Hermes Agent）补全多模态能力的开发者。认证经 QR 扫码登录获取 Cookie，调用豆包内部 SSE 端点；提供 /v1/files 文件中转（单文件最大 1GB）。限制：不支持 Function Calling/Tool Use，不适合编程智能体；生成图片带水印，视频每日约 10 次免费额度。",
+  "highlights": [
+   "多模态对话/理解与图片、音乐、视频生成，OpenAI 兼容接口",
+   "QR 扫码登录认证，支持 60+ 种文件格式读取",
+   "/v1/files 文件中转站：永久 TOS URI，单文件最大 1GB",
+   "不支持 Function Calling/Tool Use，README 明示不适合编程智能体"
+  ],
+  "use_cases": [
+   "为纯文本模型 Agent 补充识图与文件阅读能力",
+   "通过统一接口生成图片、音乐（31 个预设模板）与视频",
+   "跨服务器文件传输：上传获取永久 URI，他处换取下载链接"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "逆向API",
+   "多模态",
+   "OpenAI兼容",
+   "AI Agent",
+   "文件中转"
+  ],
+  "domain": "LLM 基础设施/多模态 API",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "逆向豆包（字节跳动产品）",
+   "国风音乐模板等中文内容"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: 逆向豆包（Doubao）客户端 API，为 AI 智能体提供免费的多模态能力。通过 OpenAI 兼容接口，让任何纯文本模型也能识图、读文件、生成图片/音乐/视频。",
+   "L19: 本项目适合为通用 AI 智能体（如 OpenClaw、Hermes 等对话/任务型 Agent）补全多模态能力。",
+   "L32: 通过 QR 扫码登录（全平台）获取 `sessionid` 等认证 Cookie，然后调用豆包内部 SSE 流式端点实现对话、图片/视频/音乐生成。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     13,
+     21
+    ],
+    "note": "作者自用的 Agent 后端模型，非本产品接入对象",
+    "quotes": [
+     "起初只是想给自己的 Hermes Agent（基于 DeepSeek V4 Flash）补上识图能力，结果越写越多，索性做成了完整的逆向客户端和 API 服务。",
+     "举个实际例子：我的 Hermes Agent 接入的是 DeepSeek V4 Flash——一个纯文本模型，看不了图、读不了文件、更不能生成多媒体内容。接入 doubao2api 之后，相当于给它装上了\"眼睛\"和\"手\"："
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [
+     28
+    ],
+    "note": "仅提及 Claude Code 编程智能体，非 Anthropic 服务接入",
+    "quotes": [
+     "⚠️ **不适合编程智能体**：豆包客户端模型**不支持 Function Calling / Tool Use**（无法调用外部工具如文件读写、终端命令、代码搜索等），因此**不适合**作为编程智能体（Claude Code、Codex、"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     48
+    ],
+    "quotes": [
+     "pip install git+https://github.com/wangchuxiaoji-oss/doubao2api.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     56,
+     57
+    ],
+    "quotes": [
+     "docker build -t doubao2api .",
+     "docker run -d -p 9090:9090 -v ./. doubao_session.json:/app/.doubao_session.json doubao2api"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "note": "被逆向的上游服务",
+    "quotes": [
+     "逆向豆包（Doubao）客户端 API，为 AI 智能体提供免费的多模态能力。通过 OpenAI 兼容接口，让任何纯文本模型也能识图、读文件、生成图片/音乐/视频。"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "作为不适合的编程智能体示例被提及",
+    "quotes": [
+     "⚠️ **不适合编程智能体**：豆包客户端模型**不支持 Function Calling / Tool Use**（无法调用外部工具如文件读写、终端命令、代码搜索等），因此**不适合**作为编程智能体（Claude Code、Codex、"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    37
+   ]
+  }
+ }
+}

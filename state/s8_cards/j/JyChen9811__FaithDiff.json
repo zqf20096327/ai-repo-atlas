@@ -1,0 +1,117 @@
+{
+ "fn": "JyChen9811/FaithDiff",
+ "sha": "90466095b853",
+ "source": "readme",
+ "identity": {
+  "one_liner": "扩散先验图像超分复原模型，用于老照片/老电影修复",
+  "review": "CVPR 2025 论文 FaithDiff 的官方实现，基于扩散先验做真实世界图像超分辨率与复原，覆盖老照片修复、经典电影修复、社交媒体图像修复与 AIGC 图像增强。结合 LLaVA 生成退化感知提示（可关闭），支持 8K 及以上超高分复原；提供 Gradio 演示、训练与测试代码及预训练模型，代码已集成进 Diffusers。FP8 推理加 CPU offload 时 2 倍上采样仅需约 5GB 显存。由南京理工大学 IMAG Lab 团队维护。",
+  "highlights": [
+   "基于扩散先验的图像超分/复原，含 LLaVA 提示生成（可关闭）",
+   "支持 8K 及以上超高分复原；FP8+CPU offload 下 2x 上采样约 5GB 显存",
+   "提供训练（两阶段）与测试脚本、预训练模型及 Gradio 演示",
+   "代码已集成进 Diffusers，并发布含 238 张图的 RealDeg 测试集"
+  ],
+  "use_cases": [
+   "修复老照片与经典电影胶片影像",
+   "恢复社交媒体压缩图像质量",
+   "对 AIGC 生成图像做增强处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "README 标注 Paper 链接（占位符，未展开 URL）",
+  "demo_url": "README 标注 Project Page 链接（占位符，未展开 URL）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像超分辨率",
+   "老照片修复",
+   "扩散模型",
+   "图像复原",
+   "AIGC增强"
+  ],
+  "domain": "计算机视觉/图像复原",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文注释（专注底层视觉领域的信息服务平台）",
+   "南京理工大学 IMAG Lab"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: ### (CVPR 2025) FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution",
+   "L25: - ✅ February 09, 2025. Support ultra-high-resolution (8K and above) image restoration on 24GB GPUs.",
+   "L47: --use_fp8 = Changes the diffusion model precision from FP16 to FP8, significantly reducing GPU memory requirements. This"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [
+   {
+    "term": "5GB VRAM",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "note": "FP8+CPU offload 下 2x 上采样所需显存",
+    "quotes": [
+     "--use_fp8 = Changes the diffusion model precision from FP16 to FP8, significantly reducing GPU memory requirements. This"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Stable Diffusion",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "To do 中列出 FaithDiff-SD3-Large，计划适配 SD3 架构",
+    "quotes": [
+     "- FaithDiff-SD3-Large"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

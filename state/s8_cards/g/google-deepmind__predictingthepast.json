@@ -1,0 +1,112 @@
+{
+ "fn": "google-deepmind/predictingthepast",
+ "sha": "24edf242b7f6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "古文本修复与断代归因的生成神经网络（Aeneas）",
+  "review": "Google DeepMind 等机构发布的 Aeneas 模型官方代码库：面向拉丁文与古希腊文铭文，基于 transformer 解码器躯干与多个专用头部，完成缺损文本修复、地理与年代归因，并利用历史增强嵌入从 LED/I.PHI 数据集中检索相似铭文。提供 pip 安装的 predictingthepast 库、在线 Colab 交互界面与离线推理脚本（需另行下载模型权重文件），训练数据来自 EDR/EDH/EDCS_ETL 与 I.PHI 数据集，训练说明见 train/README.md。",
+  "highlights": [
+   "任意长度缺损文本修复、年代与地理归因多头输出",
+   "基于历史增强嵌入检索相似铭文作为平行文本",
+   "提供拉丁文与古希腊文两个已训练模型及下载命令",
+   "在线 Colab 交互界面可查询修复结果并可视化注意力权重"
+  ],
+  "use_cases": [
+   "历史研究者修复受损铭文文本",
+   "为铭文做年代与地理归属推断",
+   "检索相似铭文以辅助历史文本语境化研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "Nature 文章链接见 L72",
+  "demo_url": "Colab 交互界面见 L30/82-83",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "古文字学",
+   "铭文修复",
+   "生成模型",
+   "数字人文"
+  ],
+  "domain": "数字人文/古文本计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L39: historical scopes. We introduce Aeneas, the first generative neural network for",
+   "L63: transformer-based decoder, the \"torso\", to process the text. Specialised",
+   "L64: networks, called \"heads\", handle character restoration, date attribution, and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "pip install ."
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     30,
+     83
+    ],
+    "quotes": [
+     "Open this notebook in Google Colab",
+     "- Google Colab for using Aeneas for your research"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "fn": "xianjianlf2/MindGeniusAI",
+ "sha": "afbbe3610cdd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI agent：读取 PDF 生成并协作编辑思维导图",
+  "review": "面向注重隐私的知识工作者与自托管团队的可自部署 Web 应用：名为 Hermas 的 agent 通过多步工具循环（计划→检索→绘制→编辑）读取用户上传的 PDF，在内置 RAG（分块、嵌入、余弦检索，均在内存中完成）基础上生成可编辑思维导图，每个工具调用以卡片形式可见。支持 OpenAI/Claude/DeepSeek/Kimi 或任意 OpenAI 兼容端点，自带 API key（仅存于浏览器）。提供 pnpm 源码运行与单镜像 Docker 两种部署方式；采用 BSL 1.1 许可，商业使用需另行授权，各版本四年后转为 Apache-2.0。",
+  "highlights": [
+   "多步 agent 工具循环（mindmap_generate/node_expand/rag_query/mindmap_edit），工具调用过程可见",
+   "内置约 100 行实现的 RAG：pdf-parse→分块→嵌入→余弦检索，全程内存中完成",
+   "双向画布：手工编辑与 agent 编辑共享同一操作模型，agent 可感知用户改动",
+   "BYO-key 多 provider 接入，key 仅存浏览器，服务器不落盘"
+  ],
+  "use_cases": [
+   "把合同、论文、内部规格文档整理成思维导图",
+   "在自有服务器上部署处理敏感文档的 AI 导图工具",
+   "生成后手工微调导图并让 agent 基于改动继续迭代"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent",
+   "思维导图",
+   "RAG",
+   "自托管",
+   "文档理解"
+  ],
+  "domain": "知识工具/文档可视化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版",
+   "支持 DeepSeek/Kimi provider"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Chat with **Hermas**, an AI agent that plans, reads your PDFs, and draws editable mind maps live — every tool call visib",
+   "L48: - 📄 **Reads your PDFs** — attach one or more PDFs (📎): chunk → embed → in-memory retrieval (~100 lines, no LangChain). `"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     27,
+     52,
+     61
+    ],
+    "note": "Claude 为官方列出的可选 provider，含完整 RAG 嵌入",
+    "quotes": [
+     "|Bring your own model|✅ OpenAI · Claude · DeepSeek · Kimi · any compatible endpoint|❌ locked to their pick|",
+     "- 🔑 **Bring your own key** — OpenAI / Claude / DeepSeek / Kimi, or any OpenAI-compatible endpoint. Keys never touch the ",
+     "|OpenAI · Claude|✅ full RAG|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     27,
+     52,
+     62
+    ],
+    "note": "官方列出 provider，但无嵌入支持，RAG 自动降级",
+    "quotes": [
+     "|Bring your own model|✅ OpenAI · Claude · DeepSeek · Kimi · any compatible endpoint|❌ locked to their pick|",
+     "- 🔑 **Bring your own key** — OpenAI / Claude / DeepSeek / Kimi, or any OpenAI-compatible endpoint. Keys never touch the ",
+     "|DeepSeek · Kimi|⚠️ no embeddings — RAG auto-degrades; set `EMBEDDING_API_KEY` to any OpenAI-compatible endpoint to keep"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     35
+    ],
+    "note": "pnpm install/setup/dev 源码运行",
+    "quotes": [
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     69,
+     73
+    ],
+    "note": "ghcr.io 单镜像运行或 docker compose 本地构建",
+    "quotes": [
+     "docker run -p 3000:3000 -e OPENAI_API_KEY=sk-... ghcr.io/xianjianlf2/mindgeniusai",
+     "Or build locally: `cp apps/server/.env.example apps/server/.env && docker compose up --build`."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    110
+   ],
+   "note": "BSL 1.1：个人/学术/研究/非营利免费，商业使用需联系授权，四年后转 Apache-2.0",
+   "quotes": [
+    "Business Source License 1.1. Free for personal, academic, research, and non-profit use. **Commercial use requires a lice"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     27,
+     52,
+     62
+    ],
+    "note": "作为可选模型 provider 列出，非替代/竞品关系",
+    "quotes": [
+     "|Bring your own model|✅ OpenAI · Claude · DeepSeek · Kimi · any compatible endpoint|❌ locked to their pick|",
+     "- 🔑 **Bring your own key** — OpenAI / Claude / DeepSeek / Kimi, or any OpenAI-compatible endpoint. Keys never touch the ",
+     "|DeepSeek · Kimi|⚠️ no embeddings — RAG auto-degrades; set `EMBEDDING_API_KEY` to any OpenAI-compatible endpoint to keep"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     45,
+     93
+    ],
+    "note": "构建所用的框架",
+    "quotes": [
+     "- 🤖 **Real agent, not a prompt wrapper** — multi-step tool loop (Vercel AI SDK v5) that decides when to search docs, gen",
+     "apps/server/   Hono + Vercel AI SDK v5 (Hermas agent, RAG, SSE streaming)"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "声明 RAG 未使用 LangChain",
+    "quotes": [
+     "- 📄 **Reads your PDFs** — attach one or more PDFs (📎): chunk → embed → in-memory retrieval (~100 lines, no LangChain). `"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "note": "命令面板 UI 风格类比，非产品关系",
+    "quotes": [
+     "- ⌘ **Command palette (⌘K)** — Cursor-style overlay to fuzzy-search your saved maps + uploaded docs; `↵` opens a map or "
+    ]
+   }
+  ]
+ }
+}

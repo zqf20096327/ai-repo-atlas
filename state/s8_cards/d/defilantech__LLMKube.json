@@ -1,0 +1,243 @@
+{
+ "fn": "defilantech/LLMKube",
+ "sha": "d2da2409e965",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向异构 GPU 集群的自托管 LLM 推理 Kubernetes operator",
+  "review": "Kubernetes operator，通过 Model 与 InferenceService 两类 CRD 管理 LLM 的下载、缓存、GPU 调度、健康检查、扩缩容并暴露 OpenAI 兼容 API；支持 NVIDIA、AMD(Vulkan)、Intel 与 Apple Silicon 异构集群，其中 Mac 上的 Metal Agent 以原生 macOS 进程运行 llama-server/mlx-server 获得 Metal GPU 访问。ModelRouter CRD 在本地与外部提供商（Anthropic/OpenAI/LiteLLM）之间做策略路由，对受监管数据采用 fail-closed 语义。面向平台与 AI 运维团队，Apache-2.0 许可，含 Foreman 编排附加组件。单机场景 README 指出 Ollama 更简单。",
+  "highlights": [
+   "两行 YAML 定义 Model + InferenceService，operator 处理下载/缓存/GPU 调度/OpenAI 兼容 API",
+   "Metal Agent 在 Apple Silicon 上以原生 macOS 进程运行推理，Metal GPU 全量访问",
+   "ModelRouter 做本地+外部提供商的策略路由，fail-closed 保证监管数据不外泄",
+   "Foreman 附加组件：在自有集群上编排编码 agent 的多节点流水线"
+  ],
+  "use_cases": [
+   "在自有/气隙集群上统一管理跨 NVIDIA、AMD、Apple Silicon 的 LLM 推理",
+   "让本地模型 agent 按 PII/PHI 策略选择性回退到云端模型",
+   "Mac Studio 与 Linux GPU 服务器组成同一集群提供低延迟推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://llmkube.com/docs/getting-started",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Kubernetes operator",
+   "LLM 推理",
+   "异构 GPU",
+   "自托管/气隙部署",
+   "模型路由"
+  ],
+  "domain": "LLM 基础设施/Kubernetes 运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm",
+   "llama.cpp",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  Three things no other Kubernetes LLM operator combines: Apple Silicon inference as **native macOS processes, not contai",
+   "L56: **LLMKube is a Kubernetes operator that turns LLM deployment into a two-line YAML problem.** Define a `Model` and an `In",
+   "L11:  **Who it's for:** platform and AI-ops teams running on-prem, mixed-hardware, or air-gapped inference. If you want one m"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     9,
+     196
+    ],
+    "note": "作为可选运行时之一支持，并在对比表中列出",
+    "quotes": [
+     " Three things no other Kubernetes LLM operator combines: Apple Silicon inference as **native macOS processes, not contai",
+     "||**LLMKube**|**vLLM / TGI**|**Ollama**|**KServe**|**LocalAI**|"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     9,
+     143,
+     215
+    ],
+    "note": "Metal Agent 原生运行 llama-server，为支持的运行时",
+    "quotes": [
+     " Three things no other Kubernetes LLM operator combines: Apple Silicon inference as **native macOS processes, not contai",
+     "brew install llama.cpp",
+     "- **KubeAI**: similar Kubernetes-operator scope. KubeAI focuses on autoscaling vLLM/Ollama on NVIDIA, intra-cluster. LLM"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     11,
+     196,
+     212
+    ],
+    "note": "对比与单机场景建议中提及，非接入对象",
+    "quotes": [
+     " **Who it's for:** platform and AI-ops teams running on-prem, mixed-hardware, or air-gapped inference. If you want one m",
+     "||**LLMKube**|**vLLM / TGI**|**Ollama**|**KServe**|**LocalAI**|",
+     "**LLMKube is for teams that want Kubernetes-managed LLM inference across heterogeneous hardware.** If you just need to r"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     52,
+     156
+    ],
+    "note": "ModelRouter 可路由到 Anthropic 外部提供商",
+    "quotes": [
+     "So you set up llama.cpp. It works great on one machine. Then you need to scale it, monitor it, manage model versions, ha",
+     "The motivating use case: an agent running on a local model can selectively hand off specific steps to Claude or GPT with"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "none",
+    "lines": [
+     253
+    ],
+    "quotes": [
+     "- `ModelRouter` CRD: one OpenAI-compatible endpoint, multiple backends (local InferenceServices + external Anthropic / O"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     83
+    ],
+    "quotes": [
+     "brew install defilantech/tap/llmkube"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     19,
+     179
+    ],
+    "note": "Helm Chart CI 与 Foreman 自带 Helm chart",
+    "quotes": [
+     " Helm Chart CI",
+     "Foreman is an opt-in add-on that ships its own Helm chart, its own API group (`foreman.llmkube.dev`), and its own contro"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     122
+    ],
+    "note": "描述其他工具在 Mac 上的限制，非本产品自身要求",
+    "quotes": [
+     "Most Kubernetes tools run inference inside containers. That works fine on Linux with NVIDIA GPUs. But Apple Silicon's Me"
+    ]
+   },
+   {
+    "term": "CPU only",
+    "rel": "mention",
+    "lines": [
+     199
+    ],
+    "note": "对比表中描述 LocalAI，非本产品自身要求",
+    "quotes": [
+     "|**Apple Silicon Metal GPU**|Native (Metal Agent)|No|Local only|No|CPU only|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     190
+    ],
+    "note": "Foreman 声明不是 Cursor/aider 这类个人开发者工具的替代品",
+    "quotes": [
+     "Foreman is meant for shops where on-prem hardware, sovereignty constraints, or sheer batch scale make the agentic-coding"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     88
+    ],
+    "note": "API 兼容可配合使用，非替代对象",
+    "quotes": [
+     "That's it. The operator downloads the model, creates the deployment, sets up the service, and exposes an OpenAI-compatib"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     215,
+     245
+    ],
+    "quotes": [
+     "- **KubeAI**: similar Kubernetes-operator scope. KubeAI focuses on autoscaling vLLM/Ollama on NVIDIA, intra-cluster. LLM",
+     "- Multiple runtimes: llama.cpp (GGUF), vLLM (HuggingFace + safetensors), TGI in-cluster; llama-server, mlx-server, and v"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

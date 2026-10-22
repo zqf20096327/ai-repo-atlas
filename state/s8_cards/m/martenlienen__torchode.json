@@ -1,0 +1,110 @@
+{
+ "fn": "martenlienen/torchode",
+ "sha": "4e6ab1b3d1a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 PyTorch 提供的批量并行 ODE 求解器库",
+  "review": "torchode 是一组单步 ODE 求解器（如 dopri5、tsit5），兼容 PyTorch 的 JIT 编译器，并支持在一个批次内按样本难度各自步长并行求解，避免不同刚性模型的性能陷阱，保证预测与批次组成无关。面向使用 PyTorch 做神经常微分方程建模的研究者与开发者，以 Python 库形式从 PyPI 提供，另有论文可引用。",
+  "highlights": [
+   "提供 dopri5、tsit5 等单步 ODE 求解器",
+   "兼容 PyTorch JIT 编译器",
+   "批次内按样本自适应步长并行求解"
+  ],
+  "use_cases": [
+   "在 PyTorch 中求解神经常微分方程（Neural ODE）",
+   "批次内样本刚性差异大时保持求解性能",
+   "需要与批次组成无关的确定性预测结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ODE求解",
+   "PyTorch",
+   "科学计算",
+   "神经ODE"
+  ],
+  "domain": "科学计算/深度学习库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: torchode is a suite of single-step ODE solvers such as `dopri5` or `tsit5` that are",
+   "L6: compatible with PyTorch's JIT compiler and parallelized across a batch. JIT compilation"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     22,
+     25
+    ],
+    "quotes": [
+     "You can get the latest released version from PyPI with",
+     "pip install torchode"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     31
+    ],
+    "quotes": [
+     "git clone https://github.com/martenlienen/torchode"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

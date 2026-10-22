@@ -1,0 +1,124 @@
+{
+ "fn": "benjiyaya/Calliope",
+ "sha": "37ba0b18053f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地化故事转视频工作室：从创意到成片驱动 ComfyUI 生成",
+  "review": "本地优先的故事到视频生成应用：输入故事创意后，由多 agent（主 agent、规划、故事、剧本、资产、视频）经 OpenAI 兼容 LLM 端点起草情节、剧本，把场景拆成约 5-10 秒的镜头片段，通过用户自装的 ComfyUI 队列渲染各片段，再用 ffmpeg 拼接、响度归一出成片。项目数据存 SQLite，不依赖云服务（除自配的 LLM 端点）。技术栈为 FastAPI + SvelteKit，需从源码安装，前置要求 Python 3.11+、Node.js 18+、ComfyUI 与 ffmpeg。",
+  "highlights": [
+   "多 agent 流水线：故事→资产→剧本→镜头拆分→视频生成",
+   "通过角色标签发现 ComfyUI 工作流节点，不硬编码节点 ID",
+   "支持 MiniMax H3 六段式提示词确定性编译",
+   "Agents 对话模式经工具操作同一数据库与渲染队列"
+  ],
+  "use_cases": [
+   "把故事创意做成分镜头 AI 视频并导出成片",
+   "用自己的 ComfyUI 工作流本地生成角色、场景参考图与视频片段",
+   "通过对话让 agent 代跑完整制作流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/JcGqt3DYn6c",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 视频生成",
+   "多 agent",
+   "ComfyUI",
+   "本地优先",
+   "创作工具"
+  ],
+  "domain": "AI 视频/创作工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Calliope is a local-first story-to-video studio. You type a story idea; Calliope drafts a storyline with beats, characte",
+   "L87: - **Script:** **Regenerate Script** also opens a project-linked Agents chat (pre-filled) to rewrite the per-scene script"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "note": "列为可选的本地 OpenAI 兼容 LLM 端点之一",
+    "quotes": [
+     "- An OpenAI-compatible LLM endpoint — local (LM Studio, Ollama, etc.) or hosted"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     34
+    ],
+    "note": "后端 pip install -e 源码安装",
+    "quotes": [
+     ".venv\\Scripts\\pip install -e \".[dev]\""
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     44
+    ],
+    "note": "前端 npm install",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

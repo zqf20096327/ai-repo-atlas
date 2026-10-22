@@ -1,0 +1,212 @@
+{
+ "fn": "1146345502/aural-oss",
+ "sha": "0e33d763e246",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 面试平台：语音/文字/视频面试与自动分析报告",
+  "review": "基于 Next.js 16.4、TypeScript 与 Supabase 的自托管 AI 面试平台。用户用自然语言描述目标，AI 生成含题目与评分标准的完整面试，分享链接后由 AI 通过语音、文字或视频自主开展对话（含实时追问），结束后生成按题评分的 AI 报告。内置 Monaco 编程题、Excalidraw 白板、防作弊监控（切屏/粘贴/多屏检测）、练习模式与团队管理。LLM 通过可插拔 Provider 系统接入 OpenAI、Gemini、Kimi、MiniMax 或任意 OpenAI 兼容 API；语音依赖 WebSocket 中继（火山豆包为主、Azure 备用）。自托管需 Node.js、Supabase 项目与至少一个 LLM API key。",
+  "highlights": [
+   "自然语言生成完整面试（题目+评分标准），AI 自主主持语音/文字/视频对话",
+   "按题评分与多维评估的 AI 自动报告",
+   "Monaco 编程题、Excalidraw 白板与防作弊监控（切屏/粘贴/多屏检测）",
+   "可插拔 LLM Provider：OpenAI、Gemini、Kimi、MiniMax 或任意 OpenAI 兼容 API"
+  ],
+  "use_cases": [
+   "技术招聘中开展含编程与白板题的 AI 面试",
+   "用户研究与行为面试的大规模语音访谈",
+   "候选人面试前的语音练习与 AI 反馈",
+   "通过 REST API 程序化管理面试流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/Mmn1tjTzuwQ",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI面试",
+   "招聘工具",
+   "语音交互",
+   "自托管平台",
+   "Next.js"
+  ],
+  "domain": "招聘/AI 面试",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "火山豆包为推荐语音中继",
+   "中文产品推广视频"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L30:  Design an interview in plain language. Share a link. Aural's AI conducts the conversation —",
+   "L74: Aural is an AI-powered interview platform that conducts structured interviews autonomously. You design an interview, sha"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "compat",
+    "lines": [
+     180,
+     204,
+     233
+    ],
+    "note": "Azure OpenAI Realtime 作为备用语音中继，可选",
+    "quotes": [
+     "|Voice|WebSocket relay servers (Volcengine Doubao, Azure OpenAI Realtime)|",
+     "|**Voice Relay**|`server/`|Standalone WebSocket servers that proxy audio between the browser and speech-to-speech APIs (",
+     "- **Voice relay credentials** — Volcengine Doubao (primary) or Azure OpenAI (backup), if you want voice interviews or vo"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     359
+    ],
+    "note": "窗外行，出现在 OpenAI 兼容接入相关列举语境",
+    "quotes": [
+     "You can also use any OpenAI-compatible API (e.g., local models via Ollama or LiteLLM) by setting `OPENAI_BASE_URL`."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     238
+    ],
+    "note": "git clone 源码 + npm ci 自托管部署",
+    "quotes": [
+     "git clone https://github.com/1146345502/aural-oss.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     252
+    ],
+    "note": "本地 Supabase 需要 Docker 运行，非本产品安装途径",
+    "quotes": [
+     "Requires Docker running on your machine."
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     255,
+     266
+    ],
+    "note": "两处均为 Supabase CLI 命令（npx supabase），依赖组件安装",
+    "quotes": [
+     "npx supabase start",
+     "npx supabase db push"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     49,
+     179,
+     232
+    ],
+    "note": "被列为可插拔 LLM Provider 之一，非竞品",
+    "quotes": [
+     " 🔌 Pluggable LLMs OpenAI, Gemini, Moonshot Kimi, MiniMax — or any OpenAI-compatible API",
+     "|AI / LLM|OpenAI, Google Gemini, Moonshot Kimi, MiniMax — pluggable provider system|",
+     "- **LLM API key** — at least one of: OpenAI, Google Gemini, Kimi (Moonshot), or MiniMax"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     180,
+     204,
+     233,
+     281
+    ],
+    "note": "火山豆包作为推荐语音中继服务，非竞品",
+    "quotes": [
+     "|Voice|WebSocket relay servers (Volcengine Doubao, Azure OpenAI Realtime)|",
+     "|**Voice Relay**|`server/`|Standalone WebSocket servers that proxy audio between the browser and speech-to-speech APIs (",
+     "- **Voice relay credentials** — Volcengine Doubao (primary) or Azure OpenAI (backup), if you want voice interviews or vo",
+     "- Voice credentials only if you want voice interviews or voice practice (`DOUBAO_*` for the recommended relay, or `AZURE"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     318,
+     379,
+     381
+    ],
+    "note": "窗外行，出现于接入/兼容语境",
+    "quotes": [
+     "Only the primary relay starts with this command. Stop the launcher before starting those same services separately. The r",
+     "The primary relay separates speech recognition, speech synthesis, and interviewer replies. **Seed remains the default re",
+     "### Primary: Seed or Qwen ASR + Doubao TTS (`server/voice-relay.ts`)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

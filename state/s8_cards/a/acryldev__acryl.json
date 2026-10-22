@@ -1,0 +1,144 @@
+{
+ "fn": "acryldev/acryl",
+ "sha": "3d42be87159e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多编码 Agent 共用持久上下文的 Agentic 开发环境运行时",
+  "review": "面向同时使用多个编码 Agent 的开发者：ACRYL 是一个持久化开发环境与运行时，Agent（Claude Code、Codex、OpenCode、Gemini CLI 等 33 个目录条目及自定义 Agent）作为可替换工人接入同一工作区，会话可丢弃而项目上下文、任务与交接记录持久保留。提供桌面（Electron）、CLI 与本地 Web 三种界面，基于 Cordis 插件体系，支持插件热重载与可分享的 Blend 组合。Agent Control 允许 Agent 读取无障碍树驱动应用本身，操作需逐次批准并记入审计日志。README 声明处于早期开发阶段，接口与打包可能变动。",
+  "highlights": [
+   "33 个编码 Agent 目录 + 自定义 Agent 接入同一持久工作区",
+   "桌面 / CLI / 本地 Web 三界面共享同一运行时",
+   "插件热重载体系与可分享的 Blend 整体组合",
+   "Agent Control：Agent 可驱动应用本身，操作逐次批准并记录审计日志"
+  ],
+  "use_cases": [
+   "在不同编码 Agent 间切换而不丢失上下文与工作线程",
+   "同时运行多个 Agent 并通过注意力队列接收通知",
+   "以插件和 Blend 定制自己的 Agent 开发环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    20
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agentic开发环境",
+   "编码Agent编排",
+   "插件化工作区",
+   "桌面开发工具"
+  ],
+  "domain": "开发工具/Agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  ACRYL is a living Agentic Development Environment and runtime for your agents — infinitely adaptive to you, yours to sh",
+   "L6:  Bring any coding agent, it plugs in as a replaceable worker, and every decision, diff, and session survives the swap.",
+   "L35: Claude Code, Codex, OpenCode, Pi, Gemini CLI, DeepSeek Harness agents, ACP-compatible agents, plain PTY tools — even age"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     35,
+     41
+    ],
+    "note": "Claude Code 作为可接入 Agent 之一，非专门适配声明",
+    "quotes": [
+     "Claude Code, Codex, OpenCode, Pi, Gemini CLI, DeepSeek Harness agents, ACP-compatible agents, plain PTY tools — even age",
+     "**🤖 Every agent, one roster.** A built-in catalog of 33 coding agents you can launch into any project, plus your own cus"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     35,
+     125
+    ],
+    "note": "构建于固定的 DeepSeek Harness 检出之上，且声明与 DeepSeek 无关联",
+    "quotes": [
+     "Claude Code, Codex, OpenCode, Pi, Gemini CLI, DeepSeek Harness agents, ACP-compatible agents, plain PTY tools — even age",
+     "ACRYL builds on an unmodified, pinned DeepSeek Harness checkout as its capability substrate — sessions, tools, PTYs, san"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     79
+    ],
+    "note": "npm install -g acryl，附带 npm 11+ 安装脚本警告说明",
+    "quotes": [
+     "npm install -g acryl --allow-scripts=@deepseek-ai/dsh-subprocess-local,@google/genai,koffi,node-pty,protobufjs"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     24,
+     35
+    ],
+    "note": "作为可接入的可替换 Agent 被提及，非替代/竞品关系",
+    "quotes": [
+     "You don't use one coding agent anymore. You use Claude Code for this, Codex for that, a terminal agent for the quick fix",
+     "Claude Code, Codex, OpenCode, Pi, Gemini CLI, DeepSeek Harness agents, ACP-compatible agents, plain PTY tools — even age"
+    ]
+   }
+  ]
+ }
+}

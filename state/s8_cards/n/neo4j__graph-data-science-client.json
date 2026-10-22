@@ -1,0 +1,99 @@
+{
+ "fn": "neo4j/graph-data-science-client",
+ "sha": "cc7571764f5c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Neo4j 图数据科学库的 Python 客户端：Python 代码操作图算法",
+  "review": "Neo4j 官方提供的 graphdatascience Python 客户端，让用户以纯 Python 代码投影图、运行图算法、定义和使用 GDS 中的机器学习流水线。API 模仿 GDS Cypher 过程调用，封装 Neo4j Python driver，并提供 graph、model、pipeline 对象减少 Cypher 使用。支持两种连接方式：Aura Graph Analytics 的 GDS Sessions（凭 Aura API key），或自管 Neo4j 加 GDS 插件直连。仅保证兼容 GDS 2.0+；数值工具函数明确不支持。附 Jupyter 端到端示例（节点分类、FastRP+kNN 推荐等）。",
+  "highlights": [
+   "纯 Python 投影图、运行算法、定义 ML 流水线",
+   "API 模仿 GDS Cypher 过程，封装 Neo4j Python driver",
+   "支持 GDS Sessions（Aura）与自管 Neo4j+GDS 插件两种连接",
+   "附带 Jupyter 端到端示例（节点分类、kNN 推荐、HashGNN 等）"
+  ],
+  "use_cases": [
+   "用 Python 脚本调用 GDS 图算法与图机器学习流水线",
+   "在 Jupyter 中做节点分类、推荐等图分析实验",
+   "为 Aura Graph Analytics 或自管 Neo4j 部署编写图数据科学工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图数据科学",
+   "图机器学习",
+   "Python客户端",
+   "图数据库"
+  ],
+  "domain": "图数据科学/图数据库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: `graphdatascience` is a Python client for operating and working with the Neo4j Graph Data Science (GDS) library.",
+   "L12: It enables users to write pure Python code to project graphs, run algorithms, as well as define and use machine learning"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     28
+    ],
+    "quotes": [
+     "pip install graphdatascience"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,183 @@
+{
+ "fn": "8b-is/smart-tree",
+ "sha": "d5466fb584d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 助手的目录可视化与 MCP 工具集（Rust 实现）",
+  "review": "用 Rust 编写的命令行目录树工具，自称比传统 tree 快 10-24 倍，提供 30+ MCP 工具供 Claude Desktop 等 AI 客户端调用（quick_tree、记忆锚定、会话保存恢复等）。附加功能包括：MCP 集成安全扫描（检测 13 种供应链攻击模式）、Spicy TUI 交互式文件浏览、浏览器端 Web Dashboard 与 PTY 终端、证书扫描、Google Drive/Gmail 同步与语音功能（v10）。安装方式为一行 curl/PowerShell 脚本下载二进制，或从源码构建。",
+  "highlights": [
+   "30+ MCP 工具，含 MCP 自动安装到 Claude Desktop",
+   "供应链攻击检测：13 种攻击模式、7 个已知恶意 npm 包识别",
+   "AI 会话记忆：agent-save/restore 与 memory-anchor 锚定",
+   "Spicy TUI 交互浏览与 Web Dashboard（PTY 终端、文件浏览器）"
+  ],
+  "use_cases": [
+   "让 AI 编码助手通过 MCP 快速理解代码库结构并保存跨会话记忆",
+   "扫描并清理恶意 MCP 服务器与 Claude Code hooks",
+   "在终端或浏览器中交互式浏览目录与文件内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者工具",
+   "MCP",
+   "文件系统",
+   "CLI",
+   "AI助手基础设施"
+  ],
+  "domain": "开发者工具/AI 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: > **Smart Tree** is a blazingly fast, AI-friendly directory visualization tool that's 10-24x faster than traditional `tr",
+   "L49: 6. 🔧 **MCP Server** - Model Context Protocol (stdio)",
+   "L157: **One command to rule them all!** Automatically install Smart Tree as an MCP server in Claude Desktop:"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     80,
+     92,
+     95
+    ],
+    "note": "Claude Code hooks 与 settings.json 为安全扫描的检测对象，非官方 SDK 接入",
+    "quotes": [
+     "- Run automatically via Claude Code hooks",
+     "**Important**: Cleaning your settings only helps if you don't reinstall the untrusted package. If you run `npx <package>",
+     "1. Audit your `~/.claude/settings.json` regularly"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     453
+    ],
+    "quotes": [
+     "git clone https://github.com/8b-is/smart-tree"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     17,
+     140,
+     148
+    ],
+    "quotes": [
+     "curl -fsSL https://i1.is/tools/smart-tree | sh",
+     "iwr -useb https://raw.githubusercontent.com/8b-is/smart-tree/main/scripts/install.ps1 | iex",
+     "curl -sSL https://raw.githubusercontent.com/8b-is/smart-tree/main/scripts/install.sh | bash"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     92
+    ],
+    "note": "指第三方 npm 包重装风险语境，非本产品安装方式",
+    "quotes": [
+     "**Important**: Cleaning your settings only helps if you don't reinstall the untrusted package. If you run `npx <package>"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     437,
+     440
+    ],
+    "quotes": [
+     "### macOS/Linux (Homebrew - builds from source)",
+     "brew install --HEAD --formula https://raw.githubusercontent.com/8b-is/smart-tree/main/Formula/smart-tree.rb"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     80,
+     92
+    ],
+    "note": "作为集成对象与安全扫描对象被提及",
+    "quotes": [
+     "- Run automatically via Claude Code hooks",
+     "**Important**: Cleaning your settings only helps if you don't reinstall the untrusted package. If you run `npx <package>"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     153
+    ],
+    "note": "提供 Copilot 调用 MCP 工具的指南，非竞品",
+    "quotes": [
+     "Note: For guidance and copyable templates to make GitHub Copilot (or other LLMs) call Smart Tree's MCP tools correctly, "
+    ]
+   }
+  ]
+ }
+}

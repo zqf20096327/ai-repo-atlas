@@ -1,0 +1,146 @@
+{
+ "fn": "rohitg00/tailclaude",
+ "sha": "e09290daf645",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器使用 Claude Code 的自托管 Web 网关与界面",
+  "review": "TailClaude 是基于 iii 引擎的 Claude Code Web 前端/代理：在 Tailscale tailnet 或 Funnel 上发布浏览器聊天界面，后端通过 Node.js 代理调用 claude CLI（stream-json 模式）生成流式回复。提供会话索引与历史回放（含终端产生的会话）、模型/权限模式/预算切换、按 Claude API 价格的实时成本与用量看板、系统指标与过载告警、OTel 请求追踪，并通过解析 Claude Code JSONL 文件回填历史成本。给已在终端使用 Claude Code 并想在手机等浏览器设备上访问的开发者。需自备 iii 引擎、Claude Code CLI、Node.js 20+。",
+  "highlights": [
+   "浏览器 SSE 流式对话并驱动 Claude Code CLI，扫码即可从手机访问",
+   "按 Claude API 实际价格统计成本与 token，并从 JSONL 会话文件回填历史成本",
+   "会话索引覆盖终端与 Web 全部会话，支持跨设备断线重连续传",
+   "系统指标采集、过载告警与 OTel 请求追踪"
+  ],
+  "use_cases": [
+   "在手机上通过浏览器使用宿主机上的 Claude Code，无需 SSH",
+   "在自有 tailnet 内安全访问远程开发机的 Claude Code 会话",
+   "查看 Claude Code 的成本、用量与请求追踪统计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 客户端",
+   "自托管 Web 界面",
+   "Tailscale/内网访问",
+   "用量与成本看板",
+   "agent基础设施"
+  ],
+  "domain": "开发工具/AI 客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L50: 4. `POST /chat` spawns `claude -p --output-format stream-json --verbose`, wraps the request in an OTel span (model, cost",
+   "L61: - Tailscale installed (optional — works locally without it)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     1,
+     50,
+     138
+    ],
+    "note": "核心依赖 Claude Code CLI（Anthropic 官方）运行，定价按 Claude API 费率计算",
+    "quotes": [
+     "TailClaude — Claude Code from any browser",
+     "4. `POST /chat` spawns `claude -p --output-format stream-json --verbose`, wraps the request in an OTel span (model, cost",
+     "- **Real pricing** — uses Claude API rates (Opus $15/$75, Sonnet $3/$15, Haiku $0.80/$4 per M tokens, plus cache read/wr"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     32,
+     71,
+     90
+    ],
+    "quotes": [
+     "|**Setup time**|~15 minutes|**`npm install && iii -c iii-config.yaml`**|",
+     "npm install",
+     "npx tsx -e 'import{startProxy}from\"./src/proxy.ts\";startProxy()'"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "quotes": [
+     "git clone https://github.com/rohitg00/tailclaude.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     1,
+     50
+    ],
+    "note": "被封装驱动的 CLI 工具，非替代对象",
+    "quotes": [
+     "TailClaude — Claude Code from any browser",
+     "4. `POST /chat` spawns `claude -p --output-format stream-json --verbose`, wraps the request in an OTel span (model, cost"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "fn": "universal-tool-calling-protocol/utcp-mcp",
+ "sha": "4874ad7293cd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 UTCP 工具生态桥接为 MCP 服务的通用网关",
+  "review": "基于 Universal Tool Calling Protocol 的 MCP 服务器：把 UTCP 配置中注册的手册/工具统一暴露为 MCP 工具，供 Claude Desktop、Claude Code 等 MCP 客户端调用。暴露的 MCP 工具包括注册/注销手册、调用工具、搜索、列举、查询 schema 与所需环境变量等；支持通过 npx 免安装运行，工具配置动态更新无需重启。另含 Python 版实现与 Web 管理界面。给需要让 AI agent 接入任意 API、命令行工具与文件处理工具的开发者使用。",
+  "highlights": [
+   "经 npx 运行，无需安装即可注册 UTCP 手册为 MCP 工具",
+   "提供 register/call/search/list 等 8 个工具管理类 MCP 工具",
+   "配置动态更新，无需重启即可变更工具集",
+   "含独立 Python 版实现与 Web 管理界面"
+  ],
+  "use_cases": [
+   "让 Claude 等 MCP 客户端调用 HTTP/OpenAPI 接口与命令行工具",
+   "统一管理多个项目的工具配置（环境隔离）",
+   "通过 Web 界面管理已注册的工具生态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "工具调用协议",
+   "AI Agent 工具接入",
+   "开发者工具"
+  ],
+  "domain": "AI Agent 基础设施/工具协议",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A universal, all-in-one MCP server that brings the full power of the Universal Tool Calling Protocol (UTCP) to the MCP e",
+   "L70: - **`call_tool`** - Execute any registered UTCP tool",
+   "L78: The Universal Tool Calling Protocol (UTCP) allows you to:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9,
+     40
+    ],
+    "note": "Claude Desktop/Claude Code 作为 MCP 客户端示例出现，非专门接入适配",
+    "quotes": [
+     "Add this configuration to your MCP client (Claude Desktop, etc.):",
+     "claude mcp add-json --scope user utcp '{\"type\":\"stdio\",\"command\":\"npx\",\"args\":[\"@utcp/mcp-bridge\"],\"env\":{\"UTCP_CONFIG_F"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     51
+    ],
+    "note": "本地开发 npm install；日常使用经 npx 免安装运行（L19）",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     37,
+     40
+    ],
+    "note": "作为 MCP 客户端被配置与注册，非替代或竞品",
+    "quotes": [
+     "For Claude Code (the CLI / IDE extension), register the bridge as a user-scoped MCP server:",
+     "claude mcp add-json --scope user utcp '{\"type\":\"stdio\",\"command\":\"npx\",\"args\":[\"@utcp/mcp-bridge\"],\"env\":{\"UTCP_CONFIG_F"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "fn": "kayba-ai/recursive-improve",
+ "sha": "89e942d274c0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让编码 agent 递归自我改进的追踪与评测工具",
+  "review": "面向自建 agent 开发者的改进闭环工具：ri.patch() 对 OpenAI/Anthropic/LiteLLM 客户端打补丁，把每次 LLM 调用保存为本地 trace；/recursive-improve 技能在 Claude Code 或 Codex 中运行，走结构化管线（构建上下文→分析 trace→内置检测器测量→分诊计划→人工审批→分支上修复），并配套 benchmark 快照对比、Web dashboard 可视化与 /ratchet 夜间自主循环。每轮改进独立成分支，修复可溯源到具体洞察与指标。通过 uv 从 GitHub 源码安装。",
+  "highlights": [
+   "monkey-patch 捕获 OpenAI/Anthropic/LiteLLM 调用并保存 trace JSON",
+   "/recursive-improve 结构化管线：trace 分析→评测→计划→审批→分支修复",
+   "benchmark 指标快照与跨轮次自动对比",
+   "/ratchet 夜间自主循环：改进→运行→评测→保留或回退"
+  ],
+  "use_cases": [
+   "我的 agent 反复犯同样的错误，想从运行 trace 中找出失败模式并修复",
+   "希望每次改进有指标对照，确认改动真的有效",
+   "让编码 agent 夜间自动迭代优化并只保留有提升的改动"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent优化",
+   "LLM追踪/评测",
+   "自我改进",
+   "开发工具"
+  ],
+  "domain": "AI agent 开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L21: Your agent runs. Every LLM call is captured. Your coding agent analyzes the traces, identifying common failure patterns ",
+   "L136: - **`ri.patch()`**: monkey-patches OpenAI, Anthropic, and LiteLLM clients to capture every call",
+   "L139: - **`recursive-improve benchmark`**: snapshot metric quality, store, and compare over time"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9,
+     136
+    ],
+    "note": "仅提及 Anthropic 的实践与被捕获调用的客户端 SDK，非专门接入适配",
+    "quotes": [
+     "90% of Claude's code is now written by Claude. Recursive self-improvement is already happening at Anthropic. **What if y",
+     "- **`ri.patch()`**: monkey-patches OpenAI, Anthropic, and LiteLLM clients to capture every call"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [
+     45
+    ],
+    "note": "L45 为 uv add 自 GitHub git 地址，非 PyPI 发布渠道",
+    "quotes": [
+     "uv add \"recursive-improve @ git+https://github.com/kayba-ai/recursive-improve.git\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     63,
+     138
+    ],
+    "note": "作为运行技能的宿主编码 agent 被提及，非替代/竞品",
+    "quotes": [
+     "Open Claude Code or Codex in your project directory:",
+     "- **`/recursive-improve`**: Claude Code / Codex skill that analyzes traces and applies fixes"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

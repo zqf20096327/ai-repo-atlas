@@ -1,0 +1,89 @@
+{
+ "fn": "ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances",
+ "sha": "112e48fe4ef7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者的多种机器调度问题基准环境与算例集",
+  "review": "提供 JSP、FSP、FJSP、带装配约束/序列相关调整时间的 FJSP 及在线 FJSP 等多种机器调度问题的统一基准环境与算例集。收录精确方法（MILP、CP-SAT）、启发式方法（调度规则、遗传算法）与深度强化学习方法（L2D、FJSP-DRL、DANIEL），各方法与问题变体的兼容性以矩阵列出。仓库含配置、算例数据与解析器、甘特图与优先约束可视化、支持在线到达作业的仿真环境，面向科研人员做调度算法评测，配有论文与教程链接。限制：README 未给出安装命令。",
+  "highlights": [
+   "覆盖 JSP/FSP/FJSP/FAJSP/FJSP-SDST/在线 FJSP 多种调度问题变体",
+   "精确、启发式与 DRL 三类共 7 种求解方法及兼容矩阵",
+   "算例数据集与解析器、仿真环境（含在线到达作业）",
+   "优先约束关系与甘特图绘制功能"
+  ],
+  "use_cases": [
+   "统一环境下对比调度算法在多类调度问题上的表现",
+   "获取带装配约束或调整时间等变体的标准算例做评测",
+   "为 DRL 调度方法提供训练与基准测试环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1007/s10472-026-10007-3",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "组合优化",
+   "调度问题",
+   "基准测试",
+   "深度强化学习",
+   "科研工具"
+  ],
+  "domain": "运筹优化/调度",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This repository provides a comprehensive benchmarking environment for a variety of machine scheduling problems, includin",
+   "L10: The repository includes exact, heuristic and learning based solution methods, each compatible with one or more machine s"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

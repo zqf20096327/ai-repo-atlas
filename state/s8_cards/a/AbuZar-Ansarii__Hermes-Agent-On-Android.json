@@ -1,0 +1,162 @@
+{
+ "fn": "AbuZar-Ansarii/Hermes-Agent-On-Android",
+ "sha": "cfbbe1d9feeb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Android Termux 上一键安装运行 Hermes Agent 的安装指南",
+  "review": "提供在 Android 设备 Termux 环境中部署 Nous Research 的 Hermes Agent（自进化 AI 助手框架）的一行式安装脚本，也给出手动安装步骤（pkg、git clone、proot-distro 进入 Ubuntu、venv、hermes setup）。README 附带 hermes 命令参考（交互模式、gateway、模型选择、文件上下文）、系统要求（Android 11+、2GB RAM、3GB 存储），并说明兼容 200+ 模型、可通过 pkg 安装 Ollama 跑本地模型。本体是安装/运行说明与脚本，Hermes Agent 本体由上游仓库提供。",
+  "highlights": [
+   "一行 curl 命令完成自动安装（另有手动步骤）",
+   "通过 proot-distro 的 Ubuntu 环境与 venv 运行 Hermes",
+   "兼容 200+ AI 模型，含 OpenAI/Anthropic/Google/DeepSeek/Qwen/GLM",
+   "可在 Termux 内安装 Ollama 运行本地模型"
+  ],
+  "use_cases": [
+   "把旧 Android 手机变成可随身携带的 AI 助手终端",
+   "在手机本地运行 Ollama 模型避免服务器费用",
+   "通过 hermes gateway 让手机接收 webhook/API 请求"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Termux",
+   "移动端AI",
+   "安装脚本",
+   "个人AI助手",
+   "本地部署"
+  ],
+  "domain": "移动端 AI 代理部署",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: ### **Copy and paste this command in Termux:**",
+   "L76: ## 🛠️ Manual Installation",
+   "L83: git clone https://github.com/AbuZar-Ansarii/Hermes-Agent-On-Android.git"
+  ],
+  "xcheck": {
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "quotes": [
+     "• Anthropic (Claude)"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     140
+    ],
+    "quotes": [
+     "• DeepSeek"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     146,
+     154
+    ],
+    "note": "可选本地模型后端，README 给出 pkg install ollama 步骤",
+    "quotes": [
+     "• Local models via Ollama",
+     "pkg install ollama"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     83
+    ],
+    "quotes": [
+     "git clone https://github.com/AbuZar-Ansarii/Hermes-Agent-On-Android.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM**|2GB",
+    "rel": "support",
+    "lines": [
+     117
+    ],
+    "note": "运行环境最低内存要求",
+    "quotes": [
+     "|**RAM**|2GB|4GB+|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     142
+    ],
+    "quotes": [
+     "• Alibaba (Qwen)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

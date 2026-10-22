@@ -1,0 +1,139 @@
+{
+ "fn": "Michaelliv/psst",
+ "sha": "a45ceed1a8c1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的密钥管理 CLI：agent 用密钥而不见密钥",
+  "review": "本地优先的密钥管理工具，设计目标是不让 AI agent 接触明文密钥：通过 psst run 或 psst SECRET -- cmd 把密钥在运行时注入子进程环境，命令输出自动以 [REDACTED] 遮蔽密钥。默认用本地 SQLite 库（AES-256-GCM 加密，密钥存 OS 钥匙串），可切换 AWS Secrets Manager 后端用于 EC2/团队共享。支持多环境（dev/prod）、标签、版本历史与回滚、基于真实密钥值的 git 泄露扫描，另有需 Bun 运行时的 TypeScript SDK；无钥匙串的 CI 环境可用 PSST_PASSWORD。",
+  "highlights": [
+   "密钥注入子进程环境，不进入 agent 上下文，输出自动遮蔽",
+   "默认本地加密 SQLite + OS 钥匙串，可插拔 AWS Secrets Manager 后端",
+   "多环境、标签过滤、保留最近 10 个版本并支持回滚",
+   "按真实密钥值（非正则）扫描 git 暂存/追踪文件防泄露"
+  ],
+  "use_cases": [
+   "让编程 agent 执行需要 API key 的命令而不把 key 粘贴进上下文",
+   "按 dev/staging/prod 环境隔离管理本地项目密钥",
+   "EC2 或团队场景下用 AWS Secrets Manager 共享密钥",
+   "提交前扫描代码里是否泄露了库中密钥"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "密钥管理",
+   "AI agent 安全",
+   "CLI 工具",
+   "开发者工具",
+   "安全/合规"
+  ],
+  "domain": "开发者工具/密钥管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L223: ## For Agents",
+   "L363: - **Agent-first**: Designed for AI agents to use, not just humans."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "note": "README 以 Claude Code 为使用场景举例，非专门接入适配",
+    "quotes": [
+     "I keep pasting API keys into Claude Code. Or just letting it `cat .env`. Every time I tell myself I'll stop doing that. "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     103
+    ],
+    "quotes": [
+     "npm install -g psst-cli"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     239
+    ],
+    "note": "示例中 docker-compose 作为被包裹执行的命令，非安装途径",
+    "quotes": [
+     "psst run docker-compose up"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "quotes": [
+     "I keep pasting API keys into Claude Code. Or just letting it `cat .env`. Every time I tell myself I'll stop doing that. "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

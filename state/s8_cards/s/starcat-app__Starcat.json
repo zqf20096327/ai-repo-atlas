@@ -1,0 +1,186 @@
+{
+ "fn": "starcat-app/Starcat",
+ "sha": "da235bfc3c6d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 原生 GitHub Stars 管理器与本地 RAG 知识库",
+  "review": "面向 GitHub Stars 积累过多用户的原生 macOS 应用：OAuth 登录后增量同步收藏仓库到本地 SQLite，提供标签、私有笔记、阅读状态、FTS5 与语义搜索、README 渲染、GitHub 通知收件箱与仓库健康评估。被摄取的仓库进入知识库，RAG 工作区以 FTS5+嵌入+RRF 混合检索，回答带可回溯到段落的引用。AI 功能（摘要、笔记草稿、repo chat）通过 BYOK 或自托管代理接入 Gemini/OpenAI/Claude/DeepSeek/Ollama。核心组织功能免费，Pro 工作流与更高 AI 配额走 App Store 内购或 Direct 许可；源码自建无需许可。限 macOS 15+。",
+  "highlights": [
+   "本地优先：数据存本地 SQLite，AI 密钥存 Keychain，Ollama 可全程本机",
+   "RAG 工作区混合检索（FTS5+嵌入+RRF），引用可定位到证据段落",
+   "内嵌 codebase-memory-mcp 符号级代码图与 codeflow 架构检查",
+   "CLI、MCP、Agent Skill、浏览器插件与 Alfred/Raycast/uTools 扩展读取同一本地数据"
+  ],
+  "use_cases": [
+   "把大量 GitHub Stars 整理成可搜索、可提问的私有知识库",
+   "追踪收藏仓库的更新、健康度与安全评分",
+   "在仓库上下文中直接提问、生成摘要与标签建议",
+   "在 GitHub 页面上通过浏览器插件查看自己的笔记与健康信息"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GitHub工具",
+   "知识管理",
+   "本地RAG",
+   "macOS应用",
+   "开发者工具"
+  ],
+  "domain": "开发者工具/知识管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README-ZH.md 中文说明",
+   "支持 ruanyf Weekly 作为发现源"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: **Starcat** is a native macOS app for people whose GitHub Stars have outgrown a bookmark list. It syncs starred reposito",
+   "L150: This is AI in the main-window detail pane, not a separate workspace. Notes, summaries, and tags stay on this Mac. After "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     160
+    ],
+    "note": "BYOK 可配置的 AI 提供方之一",
+    "quotes": [
+     "AI runs through BYOK or a self-hosted proxy: Gemini, OpenAI, Anthropic Claude, DeepSeek, Ollama. Keys and quotas stay wi"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     160
+    ],
+    "note": "BYOK 可配置的 AI 提供方之一",
+    "quotes": [
+     "AI runs through BYOK or a self-hosted proxy: Gemini, OpenAI, Anthropic Claude, DeepSeek, Ollama. Keys and quotas stay wi"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     160,
+     169
+    ],
+    "note": "BYOK 本地推理选项，保持设备端运行",
+    "quotes": [
+     "AI runs through BYOK or a self-hosted proxy: Gemini, OpenAI, Anthropic Claude, DeepSeek, Ollama. Keys and quotas stay wi",
+     "- The AI provider you configure: summaries, chat, RAG generation, and embeddings (Ollama stays on-device)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     62,
+     67
+    ],
+    "quotes": [
+     "Homebrew is the preferred install:",
+     "brew install --cask starcat"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     70
+    ],
+    "quotes": [
+     "You can also download the Direct `.dmg` from starcat.ink, move Starcat to `/Applications`, and sign in with GitHub."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     246
+    ],
+    "note": "从源码构建运行无需许可，但非主要安装途径",
+    "quotes": [
+     "## Build from source"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     217
+    ],
+    "note": "starcat-skill 适用的 agent 之一，非替代关系",
+    "quotes": [
+     "|starcat-skill|Skill for agents such as Codex and Claude Code|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    40,
+    58
+   ],
+   "note": "开源仓库 + 官方 Mac App Store/Direct 构建，Pro 功能经内购或 Direct 许可",
+   "quotes": [
+    "Starcat began as a paid product, but the market for deeply managing GitHub Stars proved smaller than expected. Opening t",
+    "Official channels are the Mac App Store (Starcat for GitHub, landing page dong4j.app/starcat) and Direct (website DMG / "
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

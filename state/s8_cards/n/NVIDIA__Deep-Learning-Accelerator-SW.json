@@ -1,0 +1,104 @@
+{
+ "fn": "NVIDIA/Deep-Learning-Accelerator-SW",
+ "sha": "2250c5a51b22",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向嵌入式开发者的 NVIDIA DLA 推理软件工具与基准参考库",
+  "review": "NVIDIA 官方仓库，提供在 Orin/Xavier SoC 的 DLA 硬件加速核心上运行深度学习推理工作负载的软件组成说明、模型准备脚本与基准数据：涵盖 DLA 编译器与运行时栈（经 TensorRT、NvMedia-DLA、cuDLA 调用）、常见网络（ResNet、RetinaNet、SSD）的 INT8 精度与吞吐/能效基准、2:4 结构化稀疏加速方法及支持的 ONNX 算子清单。给嵌入式 AI 开发者做 DLA 部署选型与复现参考，Python 依赖仅支持 x86 主机安装。",
+  "highlights": [
+   "DLA 编译器将网络图编译为 DLA 可加载二进制，可经 TensorRT/NvMedia-DLA/cuDLA 调用",
+   "提供 ResNet/RetinaNet/SSD 等网络的 INT8 精度与各功耗档吞吐基准数据",
+   "2:4 结构化稀疏实测可带来 1.24x-1.47x 的 dense→sparse 加速",
+   "列出 DLA 已支持与计划支持的 ONNX 算子"
+  ],
+  "use_cases": [
+   "在 Jetson Orin/DRIVE 平台上评估 DLA 与 GPU 的推理分工",
+   "复现 MLPerf 类网络的 DLA INT8 精度与吞吐基准",
+   "为低功耗部署选择 DLA 稀疏化加速方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "嵌入式推理",
+   "硬件加速",
+   "基准测试",
+   "NVIDIA Jetson",
+   "模型部署"
+  ],
+  "domain": "嵌入式 AI 推理/硬件加速",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Deep Learning Accelerator",
+   "L5: DLA software consists of the DLA compiler and the DLA runtime stack. The offline compiler translates the neural network ",
+   "L127: Install the Python dependencies with (only supported on x86 hosts):"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     127,
+     129
+    ],
+    "note": "安装 Python 依赖，仅支持 x86 主机",
+    "quotes": [
+     "Install the Python dependencies with (only supported on x86 hosts):",
+     "python3 -m pip install requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

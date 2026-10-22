@@ -1,0 +1,114 @@
+{
+ "fn": "MaryamBoneh/Vehicle-Detection",
+ "sha": "961d9baa9441",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 YOLOv5 微调实现车辆检测与计数的训练检测项目",
+  "review": "基于 YOLOv5 的车辆检测项目：在自定义车辆数据集上对预训练 yolov5m 模型进行微调（train.py，支持指定图像尺寸、batch、epoch），再用 detect.py 对图像做车辆检测推理。数据集按 70/20/10 划分训练/验证/测试，需向作者邮件索取。README 提供安装命令与示例训练/检测命令，仓库附带已训练 128 epoch 的权重文件可直接使用。训练监控依赖 wandb 记录 mAP、loss 与混淆矩阵等指标。",
+  "highlights": [
+   "基于 YOLOv5 预训练模型微调（yolov5m.pt）",
+   "提供 train.py 训练与 detect.py 检测流程",
+   "附带 128 epoch 训练所得权重文件，可跳过训练直接检测",
+   "通过 wandb 记录 mAP、loss、混淆矩阵等指标"
+  ],
+  "use_cases": [
+   "在自己的车辆图像数据集上微调 YOLOv5 做车辆检测",
+   "使用附带权重直接对测试图像进行车辆检测",
+   "学习 YOLOv5 自定义数据集训练流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "目标检测",
+   "车辆检测",
+   "YOLOv5",
+   "微调训练"
+  ],
+  "domain": "计算机视觉/目标检测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Vehicle Detection",
+   "L8: *(Train YOLO v5 on a Custom Dataset)*",
+   "L48: python train.py --img 640 --batch 16 --epochs 50 --data dataset.yaml --weights yolov5m.pt",
+   "L56: python detect.py --weights runs/train/exp12/weights/best.pt --source test_images/imtest13.JPG"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     13,
+     15
+    ],
+    "quotes": [
+     "git clone https://github.com/MaryamBoneh/Vehicle-Detection",
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     15
+    ],
+    "note": "pip install -r requirements.txt",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

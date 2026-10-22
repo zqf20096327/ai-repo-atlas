@@ -1,0 +1,128 @@
+{
+ "fn": "unipds-engenharia-de-ia-aplicada/awesome-unipds-projects",
+ "sha": "b8ebc17e7ec0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "UNIPDS 应用 AI 研究生课程学生原创项目策展清单",
+  "review": "UNIPDS 软件工程与应用 AI 研究生课程的学生原创项目展示清单，按 MCP 服务器、AI Agent、Web 应用与游戏、集成自动化、工具五类组织条目。每个条目标注编程语言/运行时、是否调用云 API、是否本地运行、是否集成多服务，并附作者。收录项目涉及 LangGraph、TensorFlow.js、MCP、RAG、Neo4j、浏览器端 Web AI 等技术，要求为全新创作而非课程练习复制。",
+  "highlights": [
+   "按 5 个类别组织的学生项目条目",
+   "每条目附语言/运行时、云/本地、集成度标签",
+   "覆盖 MCP 服务器、AI Agent、浏览器端 ML 等项目类型"
+  ],
+  "use_cases": [
+   "查找 UNIPDS 课程学生的原创 AI 项目",
+   "了解课程产出中 MCP、Agent、Web AI 等方向的实践案例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "项目清单",
+   "教育/课程展示",
+   "AI agents",
+   "MCP",
+   "Web AI"
+  ],
+  "domain": "教育/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: /# Awesome UNIPDS Projects 🎓",
+   "L3: A curated list of original projects built by students of the **UNIPDS Software engineering with Applied AI** postgrad co"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     41,
+     50,
+     108,
+     109
+    ],
+    "note": "收录项目中使用的 LLM 接入通道",
+    "quotes": [
+     "- JeisonSilva/consultor-contas `📇` `☁️` `🔗` – MCP server that exposes a real estate budget analysis tool: reads property",
+     "- SyanCS/pokemon-training-center `📇` `🔗` – AI scheduling assistant that classifies natural-language intents via LangGrap",
+     "- JeisonSilva/chat-document-response `📇` `☁️` `🔗` – RAG pipeline that ingests PDFs into Neo4j using local HuggingFace em",
+     "- Brunoolliveira1993/code-review-ai `📇` `🏠` - Analyzes GitHub Pull Requests,analyzes GitLab and GitLab Merge Requests, c"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "收录项目 CelIA 的本地 RAG 组成部分",
+    "quotes": [
+     "- CelIA — AI agent for intelligent Excel spreadsheet querying using local RAG architecture with Ollama, ChromaDB and ful"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     108
+    ],
+    "note": "收录项目使用的本地嵌入来源",
+    "quotes": [
+     "- JeisonSilva/chat-document-response `📇` `☁️` `🔗` – RAG pipeline that ingests PDFs into Neo4j using local HuggingFace em"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

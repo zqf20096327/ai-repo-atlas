@@ -1,0 +1,102 @@
+{
+ "fn": "huggingface/carbon",
+ "sha": "3449af717a2e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Hugging Face 的 DNA 基因组基础模型及评测/微调代码库",
+  "review": "Carbon 是 Hugging Face 与中关村学院、那不勒斯大学等合作发布的基因组基础模型家族（500M/3B/8B），在 1T DNA token（约 6T 碱基对）上训练，采用 BPE+6-mer 混合分词器并以 <dna> 标签切换。仓库提供模型推理示例、七个零样本 DNA 评测（变异效应预测、序列恢复、扰动任务、Genome-NIAH 长上下文检索，支持 Carbon/GENERator/Evo2 三家后端对比）以及分类微调、FNS 微调与持续预训练脚本。许可 Apache 2.0。",
+  "highlights": [
+   "500M/3B/8B 三个因果语言模型，训练于 1T DNA token",
+   "七个零样本 DNA 评测，单一后端标志跨 Carbon/GENERator/Evo2 运行",
+   "基于 transformers 的推理与零样本变异打分（读取全序列 log-likelihood）",
+   "微调配方：分类、FNS 因子化核苷酸监督、持续预训练"
+  ],
+  "use_cases": [
+   "我对 DNA 序列做零样本变异效应预测",
+   "我用统一评测套件比较基因组基础模型",
+   "我在下游任务上微调 Carbon 模型或对新物种持续预训练"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基因组学",
+   "DNA基础模型",
+   "零样本评测",
+   "生物信息学",
+   "模型微调"
+  ],
+  "domain": "基因组学/AI 模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Genomic foundation models from Hugging Face. Carbon is a family of causal",
+   "L4: language models trained on **1T tokens of DNA / 6T DNA base pairs** from the",
+   "L92: This repo ships a **suite of seven zero-shot DNA evaluations** with"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "note": "致谢中的合作方，即维护方本身",
+    "quotes": [
+     "Carbon is a joint collaboration between the research teams at Hugging Face, Zhongguancun Academy, and TIGEM/University o"
+    ]
+   }
+  ]
+ }
+}

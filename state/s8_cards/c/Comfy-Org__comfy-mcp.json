@@ -1,0 +1,190 @@
+{
+ "fn": "Comfy-Org/comfy-mcp",
+ "sha": "34631146e705",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 通过 MCP 驱动本地 ComfyUI 的服务器",
+  "review": "基于 comfy-cli 构建的 stdio MCP 服务器，供 Claude Code、Claude Desktop、Cursor 等 MCP 客户端调用，操作用户本机的 ComfyUI（127.0.0.1:8188）。提供 40 个工具：运行工作流 JSON 或文本生成图像、异步任务监控、检索本地已装节点/模型/模板、校验与编辑工作流、启动/停止 ComfyUI 及管理输入资产；每个工具调用 comfy 命令并解析其 envelope/1 输出。comfy-cli 非声明依赖，需 PATH 或 COMFY_BIN 指向。自称 beta 状态，CI 覆盖 Python 3.10/3.14。",
+  "highlights": [
+   "40 个工具覆盖生成、任务监控、节点/模型检索、工作流构建与 ComfyUI 管理",
+   "基于 comfy-cli 引擎，默认指向本机 127.0.0.1:8188 的 ComfyUI",
+   "stdio 服务器形式，支持 Claude Code / Claude Desktop / Cursor 配置接入",
+   "partner_generate 等流程可调用 Flux / Ideogram / Kling 等托管合作模型"
+  ],
+  "use_cases": [
+   "在 Claude Code 或 Cursor 中用自然语言运行本地 ComfyUI 工作流生成图像",
+   "让 agent 检索本机实际安装的节点、模型与模板",
+   "通过 agent 异步提交任务并收集输出 PNG"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "dual",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    55
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "ComfyUI",
+   "文生图",
+   "AI agent 工具",
+   "本地部署"
+  ],
+  "domain": "图像生成/agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Drive your own ComfyUI from Claude Code, Claude Desktop, Cursor, or any MCP-speaking AI agent — an MCP server built on",
+   "L32: Each tool shells out to the `comfy` command with `--where local --json`, parses comfy-cli's",
+   "L44: normal. This one is **stdio**: your client launches it as a subprocess on **your own machine**, and"
+  ],
+  "xcheck": {
+   "license_from_readme": "AGPL-3.0"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     5,
+     192,
+     199,
+     214
+    ],
+    "note": "提供 Claude Code / Claude Desktop 的官方配置接入方式",
+    "quotes": [
+     "**Drive your own ComfyUI from Claude Code, Claude Desktop, Cursor, or any MCP-speaking AI agent — an MCP server built on",
+     "### Claude Code",
+     "claude mcp add comfy-mcp \\",
+     "### Claude Desktop"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     449,
+     455
+    ],
+    "quotes": [
+     "Running a local LLM (Ollama, LM Studio, llama.cpp) and ComfyUI on the same GPU means the two compete for the same VRAM, ",
+     " - **Ollama** — send `keep_alive: 0` on the next `/api/generate` (or `/api/chat`) call, which unloads the model as soon "
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     457
+    ],
+    "quotes": [
+     " - **llama.cpp (`llama-server`)** — in router mode (started with no `-m`, or with `--models-dir`) `POST /models/unload` "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     66,
+     86
+    ],
+    "quotes": [
+     "   pip install comfy-mcp \"comfy-cli>=1.14.0\"  # this server + the engine it wraps",
+     " To install from a checkout of this repo instead, run `pip install .` there (`pip install -e .`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     192
+    ],
+    "note": "被支持的 MCP 客户端，非替代/竞品",
+    "quotes": [
+     "**Drive your own ComfyUI from Claude Code, Claude Desktop, Cursor, or any MCP-speaking AI agent — an MCP server built on",
+     "### Claude Code"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     5,
+     229
+    ],
+    "note": "被支持的 MCP 客户端",
+    "quotes": [
+     "**Drive your own ComfyUI from Claude Code, Claude Desktop, Cursor, or any MCP-speaking AI agent — an MCP server built on",
+     "Add the server to `~/.cursor/mcp.json` (global) or `.cursor/mcp.json` in a project:"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     310
+    ],
+    "quotes": [
+     "with a `url` field (Windsurf uses `serverUrl` instead):"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    13
+   ],
+   "quotes": [
+    " License: AGPL-3.0-or-later OR Commercial"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

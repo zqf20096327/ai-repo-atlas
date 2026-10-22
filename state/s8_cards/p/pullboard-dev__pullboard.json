@@ -1,0 +1,131 @@
+{
+ "fn": "pullboard-dev/pullboard",
+ "sha": "0bbbbadebd9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向真实产品的自主开发代理编排工具：规格驱动、代理互验后合并",
+  "review": "运行在 git 仓库内的代理编排与治理工具：开发者把需求写成 SPEC.md 行、规则写成 DOCTRINE.md，由 git hook 等强制执行。构建代理在各自 worktree 车道中认领工作，提交须过绿色门禁，再由另一个验证代理核验该确切 commit 后才能合并。提供桌面板视图（Pullboard View）与手机端查看，代理通过 Shouts 机制向上传递仅属人类的决策。板数据存为 .git 内的单个 SQLite 文件，无账号、不调用模型、所有数据留在本地仓库。需 git 与 Node 22.13+，npm 全局安装。",
+  "highlights": [
+   "SPEC.md 规格行 + DOCTRINE.md 规则 + git hook 强制执行",
+   "每个代理独立 worktree 车道，提交须过门禁并由第二代理验证",
+   "板数据为 .git 内单个 SQLite 文件，无账号、不调用模型、不托管数据",
+   "捆绑 10 种项目蓝图（web 应用、库、iOS、数据管道等）"
+  ],
+  "use_cases": [
+   "多个编码代理并行开发同一仓库时避免冲突并保留决策记录",
+   "让构建与验证代理分工，只把需要人类拍板的决策递给自己",
+   "长期迭代项目中积累规格与规则，避免每次会话重新交代"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代理编排",
+   "agentic coding",
+   "AI治理",
+   "开发流程工具",
+   "CLI"
+  ],
+  "domain": "软件开发/代理编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  pullboard.dev · lives in your git repo · no account · no dependencies · never calls a model"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     181,
+     238
+    ],
+    "note": "为 Claude Code 提供专门 skills 集成；工具本身不调用模型，由用户所用代理接入",
+    "quotes": [
+     "`init` writes your spec, doctrine and agent instructions, and installs the hooks and the board. Commit what it wrote, th",
+     "- Claude Code gets skills. Codex and others read `AGENTS.md` or `pullboard prompt <role>`."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     33,
+     161
+    ],
+    "quotes": [
+     "npx pullboard init --blueprint web-app",
+     "npm i -g pullboard"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     181,
+     238
+    ],
+    "note": "作为配合使用的编码代理客户端被提及，非替代/竞品",
+    "quotes": [
+     "`init` writes your spec, doctrine and agent instructions, and installs the hooks and the board. Commit what it wrote, th",
+     "- Claude Code gets skills. Codex and others read `AGENTS.md` or `pullboard prompt <role>`."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

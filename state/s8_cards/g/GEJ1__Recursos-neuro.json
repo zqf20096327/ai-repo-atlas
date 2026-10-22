@@ -1,0 +1,105 @@
+{
+ "fn": "GEJ1/Recursos-neuro",
+ "sha": "f1f3a7fa8752",
+ "source": "readme",
+ "identity": {
+  "one_liner": "认知/计算神经科学免费学习资源清单（西英双语）",
+  "review": "个人维护的神经科学学习资源聚合仓库，按 EEG、fMRI、眼动追踪、计算神经科学、神经解剖、实验工具、数学/统计工具、认知科学与机器学习等主题组织，收录课程、视频、教程、书籍与代码库。内容限定免费资源，覆盖西班牙语与英语课程（含布宜诺斯艾利斯大学、斯坦福、NYU、MIT 等来源）。通过 pull request 接受新条目，本身不含代码，无需安装运行。",
+  "highlights": [
+   "按 EEG/fMRI/眼动/计算神经科学等多主题组织条目",
+   "仅收录免费内容，覆盖西英双语课程",
+   "数学统计与机器学习工具单独成章",
+   "通过 pull request 社区共建"
+  ],
+  "use_cases": [
+   "系统查找神经科学各子领域的学习课程与教程",
+   "寻找配套的 Python 数据分析工具教学（MNE、PsychoPy、jsPsych 等）",
+   "西班牙语使用者寻找母语神经科学课程资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习资源清单",
+   "神经科学",
+   "课程/教程",
+   "数学统计",
+   "机器学习"
+  ],
+  "domain": "神经科学/教育知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Repo para ir agregando recursos en Neurociencia Cognitva, computacional y temas relacionados (estadística, métodos de an",
+   "L11: ## Temas"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     69,
+     153,
+     167
+    ],
+    "note": "被收录课程使用 Google Colab notebooks，非本产品安装方式",
+    "quotes": [
+     " * Incluye videos de las clases, notebooks en Google Colab, etc.",
+     " * Todo el material del curso de Neurociencia cuantitativa utilizando Python y Google Colab",
+     " * Este curso está destinado a investigadores en ciencias de la vida (neurólogos, psiquiatras, psicólogos, neurocientífi"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

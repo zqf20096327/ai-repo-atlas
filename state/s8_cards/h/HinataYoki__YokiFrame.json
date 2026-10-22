@@ -1,0 +1,93 @@
+{
+ "fn": "HinataYoki/YokiFrame",
+ "sha": "6a78dbb1b4be",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Unity/Godot .NET 的跨引擎 C# 游戏开发框架",
+  "review": "一套装入 Unity 或 Godot .NET 后可直接调用的 C# 游戏框架：业务代码写在纯 C# Core，引擎差异由宿主 Adapter 隔离，同一套代码跨引擎使用。能力拆分为可独立组合的 Kit（事件、状态机、对象池、资源、音频、存档、本地化、Unity UI 等），无必须第三方依赖，无全局初始化仪式。配套 Avalonia Workbench 可视化工具、yoki CLI 与图形化 Installer，并提供把仓库交给 AI 自动完成安装的流程；诊断通道为编辑器与 AI 工具设计。基于 QFramework 演化。",
+  "highlights": [
+   "业务代码纯 C#，Unity 与 Godot .NET 通用，Adapter 隔离宿主差异",
+   "无必须第三方依赖，无全局初始化，Kit 可单独使用或组合",
+   "Avalonia Workbench、yoki CLI、Installer 图形化工具链",
+   "支持把安装流程交给 AI 自动完成编译与校验"
+  ],
+  "use_cases": [
+   "在 Unity 或 Godot .NET 项目中直接使用事件、状态机、对象池等游戏基础能力",
+   "希望同一套 C# 业务代码跨 Unity 与 Godot 引擎复用",
+   "通过 AI 工具自动完成框架安装与结果校验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏框架",
+   "C#",
+   "Unity",
+   "Godot",
+   "架构/工程化"
+  ],
+  "domain": "游戏开发框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **面向 Unity 与 Godot .NET 的跨引擎 C# 游戏框架**",
+   "L12: **YokiFrame** 是一套装进 Unity 或 Godot .NET 后就能直接调用的跨引擎 C# 游戏框架。它没有必须安装的第三方库，也不需要先搭建运行时上下文：安装并完成编译后，直接使用 `EventKit`、`LogKit`、",
+   "L14: 它把游戏开发中最常见的基础工作拆成一组可独立组合的 Kit：组织业务服务、传递事件、管理状态、编排流程、加载资源、播放音频、保存数据、处理本地化和搭建 Unity UI。业务规则写在纯 C# Core 中，引擎 API、生命周期与默认后端由",
+   "L68: 不想手动操作时，直接把本仓库地址（或本地源码包目录）和“安装 YokiFrame”一起交给 AI 即可。AI 会自动完成编译、Runtime 构建、安装计划与结果校验，详细流程见 AI 安装指引。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

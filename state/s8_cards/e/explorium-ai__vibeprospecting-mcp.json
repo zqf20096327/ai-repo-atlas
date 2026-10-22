@@ -1,0 +1,125 @@
+{
+ "fn": "explorium-ai/vibeprospecting-mcp",
+ "sha": "01a9e513e24d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "接入 AI 助手的 B2B 数据 MCP 服务器：建线索名单、查企业、丰富联系人",
+  "review": "Explorium 提供的远程 MCP 服务器，通过单一 URL 与浏览器 OAuth 登录接入 Claude Code、Claude Desktop、Codex CLI、Gemini CLI、Manus、Hermes 等 AI 客户端，无需本地运行或管理 API key。功能包括按名称/行业/规模等条件查找公司、发现并丰富联系人（角色、画像、购买信号）、企业研究（firmographics、融资、竞品）及 CSV 导出。所有查询先返回 5–10 行样本预览，导出完整数据集时消耗额度。旧版本地 stdio 安装方式已弃用。",
+  "highlights": [
+   "远程 MCP 服务器，单一 URL + 浏览器 OAuth 认证，无本地组件",
+   "支持按行业/规模/地点/技术栈等条件查找公司并丰富联系人",
+   "样本预览先行（5–10 行），显式导出时才消耗额度生成 CSV"
+  ],
+  "use_cases": [
+   "在 AI 助手对话中直接构建 B2B 线索名单并导出 CSV",
+   "调研目标公司的规模、融资、技术栈与业务挑战",
+   "查找并丰富特定公司的决策者联系人信息"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://vibeprospecting.explorium.ai/mcp",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "B2B销售/获客",
+   "数据连接器",
+   "LLM工具集成"
+  ],
+  "domain": "商业智能/B2B 数据服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Vibe Prospecting is a **remote MCP server**. There's nothing to run locally and no API key to manage — you connect over ",
+   "L9: > **MCP endpoint:** `https://vibeprospecting.explorium.ai/mcp`",
+   "L5: **Power your chat with live B2B data — build lead lists, research companies, enrich contacts, and personalize outreach, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     24,
+     29,
+     39,
+     45
+    ],
+    "note": "通过 MCP endpoint 接入 Claude 系客户端",
+    "quotes": [
+     "### Claude Code ⭐ recommended",
+     "claude mcp add --transport http vibe-prospecting https://vibeprospecting.explorium.ai/mcp",
+     "### Cowork & Claude Desktop",
+     "3. Under `Anthropic & Partners` look for **Name:** `Vibe Prospecting` — **URL:** `https://vibeprospecting.explorium.ai/m"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     24,
+     32
+    ],
+    "note": "作为推荐接入客户端被提及，非替代/竞品",
+    "quotes": [
+     "### Claude Code ⭐ recommended",
+     "Then start (or restart) Claude Code and run a prompt that uses it (see Examples). The first call opens your browser to s"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    144
+   ],
+   "note": "旧版本地 uvx stdio 安装路径已声明弃用，改用远程 http 端点"
+  }
+ }
+}

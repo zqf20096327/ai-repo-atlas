@@ -1,0 +1,128 @@
+{
+ "fn": "jpzk/opensidian",
+ "sha": "8de6c093fbe2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust+Tauri 的跨平台 Markdown 笔记应用，兼容 Obsidian vault",
+  "review": "GPLv3 许可的开源 Markdown 笔记应用，基于 Rust 与 Tauri v2，可直接打开现有 Obsidian vault。功能包括实时预览/源码/阅读模式、wikilink 与反向链接、标签与图谱视图、多标签与快速切换器、拖拽插入图片与 PDF 等。产品本身不含 AI 功能；README 披露其代码主要由 Claude 模型生成、由单一维护者审校。当前仅提供 Linux x86_64 安装包（AppImage/Flatpak/RPM/DEB），处于重度开发阶段，正在招募 Linux 发行版维护者。",
+  "highlights": [
+   "vault 兼容：直接打开现有 Obsidian vault，支持 wikilink、反向链接与图谱视图",
+   "5 种 Linux 安装格式（slim/portable AppImage、Flatpak、RPM、DEB），下载提供 GPG 签名校验",
+   "内置 4 套 Obsidian 社区主题并支持热加载自定义主题与 CSS 片段",
+   "README 声明代码主要由 AI 模型（Claude）编写、由单一人类维护者审校"
+  ],
+  "use_cases": [
+   "用开源应用继续管理我的 Obsidian 笔记库",
+   "在 Linux 上获得带图谱视图与反向链接的本地 Markdown 笔记体验",
+   "对下载的安装包做 GPG 签名与 SHA256 校验后离线安装"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    4
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "笔记应用",
+   "知识管理",
+   "Obsidian生态",
+   "桌面应用",
+   "开源替代"
+  ],
+  "domain": "知识管理/桌面笔记应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L87: opensidian was built predominantly with AI models. Nearly all of the code, the design docs, and this README were written",
+   "L4: Open-source and non-profit under GPLv3, vault-compatible cross-platform markdown notes app. It's based on Rust + Tauri v"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "AI 披露：开发过程使用 Claude 模型，非产品内功能",
+    "quotes": [
+     "opensidian was built predominantly with AI models. Nearly all of the code, the design docs, and this README were written"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     40,
+     68
+    ],
+    "quotes": [
+     "## Build from source",
+     "   git clone https://github.com/jpzk/opensidian && cd opensidian/src-tauri"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "开发工具提及，非替代/竞品",
+    "quotes": [
+     "opensidian was built predominantly with AI models. Nearly all of the code, the design docs, and this README were written"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

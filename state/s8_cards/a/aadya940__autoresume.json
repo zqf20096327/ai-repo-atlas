@@ -1,0 +1,111 @@
+{
+ "fn": "aadya940/autoresume",
+ "sha": "849900a8d7eb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 简历撰写与求职匹配的开源 Web 应用",
+  "review": "面向求职者的全栈 Web 应用：基于 Google Gemini 生成遵循哈佛/哥伦比亚求职指南的简历与求职信，从职位描述中检测缺失的硬技能与关键词做 ATS 优化，并通过 JobSpy 自动匹配符合技能的职位。简历排版采用 LaTeX 生成 ATS 友好格式，提供实时预览与人工最终编辑控制。技术栈为 React + FastAPI + Docker，需用户自行提供 Gemini API key，通过 docker compose 一键启动。",
+  "highlights": [
+   "Gemini 生成简历与求职信，遵循哈佛/哥伦比亚职业指南",
+   "对照职位描述检测缺失硬技能与 ATS 关键词",
+   "JobSpy 自动匹配符合技能经验的职位",
+   "LaTeX 排版输出 ATS 友好布局，支持实时预览"
+  ],
+  "use_cases": [
+   "求职者用 AI 起草并优化简历与求职信",
+   "针对具体职位描述补充 ATS 关键词提升通过率",
+   "根据简历技能自动发现匹配的工作机会"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职",
+   "简历生成",
+   "LaTeX",
+   "ATS优化",
+   "Web应用"
+  ],
+  "domain": "求职/职业工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Build professional resumes with AI and automatically find the jobs that match them.**",
+   "L21: - AI-Backed, Professional Writing – Generates resumes and cover letters following Harvard & Columbia career guidelines, ",
+   "L32: - **AI**: Google Gemini"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     12
+    ],
+    "quotes": [
+     "git clone https://github.com/aadya940/autoresume.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     14
+    ],
+    "quotes": [
+     "docker compose up --build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

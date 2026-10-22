@@ -1,0 +1,135 @@
+{
+ "fn": "chyok/ollama-gui",
+ "sha": "2a08eca293f5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单文件 Tkinter 实现的 Ollama 图形聊天界面",
+  "review": "基于 Python 内置 Tkinter 的 Ollama 桌面 GUI，整个项目为单个 Python 文件，除通常随 Python 附带的 tkinter 外无其他外部依赖。功能包括自动读取 Ollama 模型列表、自定义 Ollama host、多会话、随时停止生成、模型下载与删除、气泡对话主题、会话历史编辑与保存加载。使用前需先部署 Ollama 服务；提供源码运行、pip 安装与三平台二进制文件三种方式，Linux/macOS 需确保 Tk 库已安装。",
+  "highlights": [
+   "单文件实现，仅依赖 Python 自带的 tkinter",
+   "自动读取 Ollama 模型列表，支持自定义 host",
+   "模型下载/删除与会话历史的编辑、保存、加载",
+   "提供 Windows/macOS(Apple Silicon)/Linux 二进制文件"
+  ],
+  "use_cases": [
+   "给本地 Ollama 服务配一个简单的图形聊天界面",
+   "在桌面端管理（下载/删除）Ollama 模型并多会话对话",
+   "零依赖环境下快速启动本地模型对话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Ollama客户端",
+   "桌面GUI",
+   "本地LLM对话",
+   "单文件工具"
+  ],
+  "domain": "LLM 桌面客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A very simple ollama GUI, implemented using the built-in Python Tkinter library, with no additional dependencies.",
+   "L30: We need to set up Ollama service first."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     7,
+     16,
+     17,
+     30
+    ],
+    "quotes": [
+     "A very simple ollama GUI, implemented using the built-in Python Tkinter library, with no additional dependencies.",
+     "+ 🔍 Auto check ollama model list.",
+     "+ 🌐 Customizable ollama host support.",
+     "We need to set up Ollama service first."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     4,
+     5,
+     50
+    ],
+    "quotes": [
+     "PyPI - Version",
+     "PyPI - Python Version",
+     "pip install ollama-gui"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     76,
+     99
+    ],
+    "note": "Q&A 中安装 Tcl/Tk 的可选途径，非本产品安装方式",
+    "quotes": [
+     "For other Python versions, installing Tcl/Tk 8.6.13+ separately (e.g., via Homebrew) and ensuring Python uses this versi",
+     "brew install python-tk"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

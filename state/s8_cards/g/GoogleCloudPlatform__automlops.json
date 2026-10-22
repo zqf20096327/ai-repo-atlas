@@ -1,0 +1,122 @@
+{
+ "fn": "GoogleCloudPlatform/automlops",
+ "sha": "4354829878ff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "生成并部署 GCP 上 CI/CD 集成 MLOps 流水线的 Python 框架",
+  "review": "AutoMLOps 是 Google Cloud Platform 组织下的 MLOps 流水线生成与运维工具：通过 @component/@pipeline 装饰器定义流水线，generate() 生成容器化代码库，provision()/deprovision() 以 gcloud 或 Terraform 进行基础设施即代码管理，deploy() 构建镜像并触发流水线，monitor() 对已部署端点创建模型监控作业，支持按周期或异常检测自动重训。面向在 GCP 上落地实验的数据科学家与 MLOps 工程师；默认深度绑定 Google Cloud 服务（Vertex AI Pipelines、Cloud Build、Artifact Registry 等），支持 Python 3.7-3.10。",
+  "highlights": [
+   "generate/provision/deploy/monitor 全流程 API 与一键 launchAll()",
+   "gcloud 与 Terraform 两种基础设施供给方式",
+   "对部署端点的模型监控与可选自动重训",
+   "可选 CI 框架（GitHub Actions/Cloud Build）与编排框架（KFP）"
+  ],
+  "use_cases": [
+   "把数据科学实验快速落地为 GCP 上的 CI/CD 流水线",
+   "用基础设施即代码管理 MLOps 资源并按需销毁",
+   "对线上端点做模型监控并触发自动重训"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "CI/CD",
+   "Google Cloud",
+   "流水线编排",
+   "基础设施即代码"
+  ],
+  "domain": "MLOps/云计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: AutoMLOps is a service that generates, provisions, deploys, and monitors CI/CD integrated MLOps pipelines, bridging the ",
+   "L38: - `AutoMLOps.generate(...)`: Generates the MLOps codebase. Users can specify the tooling and technologies they would lik",
+   "L43: - `AutoMLOps.monitor(...)`: Creates model monitoring jobs on deployed endpoints."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     11
+    ],
+    "quotes": [
+     "Install AutoMLOps from PyPI: `pip install google-cloud-automlops`"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     284
+    ],
+    "note": "窗外行，组件容器构建相关语境",
+    "quotes": [
+     "- `base_image`: The image to use in the component base dockerfile."
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "fn": "Orange-OpenSource/Cool-Chic",
+ "sha": "b8d897687055",
+ "source": "readme",
+ "identity": {
+  "one_liner": "低复杂度神经图像/视频编解码器，基于过拟合实现压缩",
+  "review": "基于过拟合（overfitting）的低复杂度神经图像与视频编解码器，由 Orange 开源。5.0 版本聚焦图像编码，相对 4.2 版本编码速度提升 10 倍、同等质量下码率下降 10%，解码复杂度为每像素 2000 次乘加。通过 git clone 源码安装，提供 cc_encode.py / cc_decode.py 脚本编码图像与视频、解码输出 PNG 或 YUV。依赖 PyTorch 训练框架，使用 constriction 库做区间编码，附论文可引用。",
+  "highlights": [
+   "过拟合式神经编解码，解码仅需约 2000 MAC/像素",
+   "5.0 版本编码速度较 4.2 提升 10 倍、码率下降 10%",
+   "支持图像与视频（逐帧）编码，输出 PNG/YUV"
+  ],
+  "use_cases": [
+   "压缩图像或视频并生成码流文件",
+   "研究神经编解码器的率失真性能",
+   "对比神经编码与传统编码（如 VVC）性能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经编解码",
+   "图像压缩",
+   "视频压缩",
+   "低复杂度"
+  ],
+  "domain": "多媒体编码/神经压缩",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: Cool-chic (pronounced /kul ʃik/ as in French 🥖🧀🍷) is",
+   "L19: a low-complexity neural image and video codec based on overfitting. It achieves state-of-the-art image compression perfo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     37
+    ],
+    "quotes": [
+     "git clone https://github.com/Orange-OpenSource/Cool-Chic.git && cd Cool-Chic"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

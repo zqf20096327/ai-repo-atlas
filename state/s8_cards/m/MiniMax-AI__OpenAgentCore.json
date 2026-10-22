@@ -1,0 +1,121 @@
+{
+ "fn": "MiniMax-AI/OpenAgentCore",
+ "sha": "3bfb66a141fa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源自托管版 OpenAI Agents API，用自有模型跑 Codex/Claude Code 等",
+  "review": "MiniMax 开源的自托管 agent 运行时：提供与 OpenAI Agents API 相同协议的 /v1 端点，应用程序将 OPENAI_BASE_URL 指向自部署实例后即可用官方 OpenAI SDK 调用。每个 Session 在沙箱内原生运行 Codex、Claude Code 或 MiniMax Code 等 Harness，模型提供商可自行配置。沙箱（microsandbox/E2B/Docker/本机 Linux/macOS/Windows）、工作区文件系统、Harness 与模型提供商均通过协议可替换。通过 Docker 与安装脚本部署 Core、Web 与 PostgreSQL。",
+  "highlights": [
+   "与 OpenAI Agents API 同协议，官方 OpenAI SDK 改 base URL 即可用",
+   "Session 在沙箱中原生运行 Codex / Claude Code / MiniMax Code",
+   "microsandbox 闲置释放算力、恢复时保留工作区文件",
+   "沙箱/文件系统/Harness/模型提供商均按协议可插拔"
+  ],
+  "use_cases": [
+   "在自己服务器上自托管兼容 OpenAI Agents API 的 agent 服务",
+   "通过 OpenAI SDK 调用自配模型的编码 agent",
+   "用 Docker 或 E2B 或本机作为沙箱运行 agent Session"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent运行时",
+   "自托管",
+   "OpenAI兼容API",
+   "沙箱隔离",
+   "编码agent"
+  ],
+  "domain": "LLM 基础设施/agent 运行时",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "MiniMax-AI 组织维护",
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The OpenAI Agents API, open source and self-hosted. Run Codex, Claude Code or MiniMax Code on your own machines with you",
+   "L11: - **Same API as OpenAI.** Set `OPENAI_BASE_URL` and the official OpenAI SDK, or plain HTTP, works unchanged.",
+   "L53: |**Agents API**|`/v1`|Your applications. Same protocol as OpenAI's Agents API|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3,
+     12
+    ],
+    "note": "Claude Code 作为可运行 Harness 的组成部分被提及，非专门接入适配",
+    "quotes": [
+     "The OpenAI Agents API, open source and self-hosted. Run Codex, Claude Code or MiniMax Code on your own machines with you",
+     "- **Your agent, your model.** Each Session runs Codex, Claude Code or MiniMax Code natively, as it runs on your machine,"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     12
+    ],
+    "note": "作为可在 Session 中运行的 Harness，非替代或竞品关系声明",
+    "quotes": [
+     "The OpenAI Agents API, open source and self-hosted. Run Codex, Claude Code or MiniMax Code on your own machines with you",
+     "- **Your agent, your model.** Each Session runs Codex, Claude Code or MiniMax Code natively, as it runs on your machine,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

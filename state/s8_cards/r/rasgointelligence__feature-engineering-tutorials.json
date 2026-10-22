@@ -1,0 +1,87 @@
+{
+ "fn": "rasgointelligence/feature-engineering-tutorials",
+ "sha": "8dd1074ae527",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 特征工程与特征选择教程代码仓库",
+  "review": "由 Rasgo 团队维护的数据科学教程仓库：提供面向监督式机器学习的特征创建与特征重要性评估的教程和代码示例，内容覆盖 pandas、pandas-profiling、探索性数据分析与数据清洗等工具的用法。仓库同时介绍团队自研的 SDK（PyRasgo），用于自动跟踪、可视化与评估特征工程实验。教程以 Jupyter notebook 形式组织，可在线上社区（论坛/Slack）交流。",
+  "highlights": [
+   "特征工程与特征选择的教程与代码集合",
+   "面向监督式机器学习的特征重要性评估示例",
+   "介绍 PyRasgo SDK：跟踪/可视化/评估特征工程实验"
+  ],
+  "use_cases": [
+   "学习用 Python 创建与评估 ML 特征",
+   "查找特征工程常用工具的使用示例",
+   "了解 PyRasgo 实验跟踪 SDK 的用法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "特征工程",
+   "数据科学",
+   "机器学习"
+  ],
+  "domain": "数据科学/教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: At Rasgo, we are data scientists on the mission to enable the global data science community to generate valuable and tru",
+   "L8: In that vein, this repository contains tutorials and code to enable data scientists to easily create new ML features and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

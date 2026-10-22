@@ -1,0 +1,102 @@
+{
+ "fn": "FasterAI-Labs/fasterai",
+ "sha": "bac4d9f17bda",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 PyTorch/FastAI 的模型压缩库：剪枝、蒸馏、量化、稀疏化",
+  "review": "面向使用 PyTorch 与 FastAI 的开发者的模型压缩库，通过回调（Callback）与独立类形式提供五种压缩能力：稀疏化（Sparsifier/SparsifyCallback，支持 magnitude/movement/gradient 等多种选择准则与 one_shot/iterative/gradual 等调度）、结构剪枝（Pruner）、知识蒸馏（KnowledgeDistillationCallback，支持 SoftTarget/Logits/Attention 等损失）、正则化与量化（static/dynamic/qat，x86/qnnpack 后端）。压缩操作可在训练循环中以几行代码接入。以 pip 安装的 Python 库形式提供，Apache-2.0 许可。",
+  "highlights": [
+   "稀疏化/剪枝/蒸馏/正则化/量化五类压缩方法",
+   "多种权重选择准则与稀疏调度策略可配置",
+   "以 FastAI Callback 形式接入训练循环",
+   "量化支持 static/dynamic/qat 与 x86/qnnpack 后端"
+  ],
+  "use_cases": [
+   "把 PyTorch 模型压缩后部署到边缘设备",
+   "用知识蒸馏把大模型能力迁移到小模型",
+   "降低模型的体积与推理开销"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型压缩",
+   "剪枝",
+   "知识蒸馏",
+   "量化",
+   "PyTorch/FastAI 生态"
+  ],
+  "domain": "深度学习/模型优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: fasterAI is a PyTorch-based library that makes neural networks **smaller**, **faster**, and **more efficient** through s",
+   "L100: learn.fit_one_cycle(n_epochs, cbs=SparsifyCallback(sparsity, granularity, context, criteria, schedule))"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     106,
+     112
+    ],
+    "quotes": [
+     "pip install git+https://github.com/FasterAI-Labs/fasterai.git",
+     "pip install fasterai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

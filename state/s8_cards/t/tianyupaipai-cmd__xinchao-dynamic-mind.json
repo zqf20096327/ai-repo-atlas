@@ -1,0 +1,136 @@
+{
+ "fn": "tianyupaipai-cmd/xinchao-dynamic-mind",
+ "sha": "fe228dc53815",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可自托管的 AI 动态状态层：驱动力、念头池与睡眠供多端接入",
+  "review": "面向 AI agent/前端的独立状态服务：在对话之外持续维护十二维驱动力、念头池、疲惫、睡眠、梦境余韵与短期窗口状态，通过 HTTP API、远程 MCP（含 OAuth 2.1）和用户互动连接桥接入 Claude、Codex、自建网页与移动端等终端。核心状态机可离线运行；模型、长期记忆、通知均为可选适配器，客户端只能提交有界语义互动、不能直接改数值。以 Node.js 服务形式提供，支持 Docker Compose 自托管。",
+  "highlights": [
+   "十二维驱动力、念头池、疲惫/睡眠/梦境余韵与意图选择的状态机",
+   "HTTP API + Streamable HTTP MCP + OAuth 2.1 远程接入，多终端共享同一服务端",
+   "用户互动连接桥：耐久队列、SSE 通知、event_id 幂等与严格 ACK",
+   "隐私边界：不保存聊天正文，heartbeat 只发送 session_id 与不透明 event_id"
+  ],
+  "use_cases": [
+   "为自己的 AI 助手或 agent 附加持续演化的动态状态层",
+   "多终端（Claude、Codex、网页、手机）共享同一份状态数据",
+   "自托管一个可控的 AI 状态服务并接入可视化 Dashboard"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    29
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "MCP",
+   "状态机",
+   "自托管服务",
+   "数字伴侣/角色状态"
+  ],
+  "domain": "AI Agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 心潮是一个独立、可自托管的 AI 动态状态层。它在对话之外持续维护驱动力、念头池、疲惫、睡眠、梦境余韵与短期窗口状态，并通过 HTTP API 或远程 MCP 接入不同模型、设备和前端。",
+   "L47: - 标准远程 Streamable HTTP MCP；"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     18,
+     52
+    ],
+    "note": "README 提及 Claude 等可接入的客户端，非专门适配声明",
+    "quotes": [
+     "- **隐私版窗口 hook**：提供只发送会话 ID 与随机事件 ID 的 Claude Code 脚本，不上传提示词正文。",
+     "心潮不绑定 Claude。Claude、Codex、其他 Agent、自建网页和移动应用可以共享同一个服务端，但每条 MCP 连接会获得独立窗口会话。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     89,
+     90
+    ],
+    "quotes": [
+     "docker compose up -d --build",
+     "docker compose ps"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     18,
+     176,
+     180
+    ],
+    "note": "作为接入客户端被提及并提供 hook 脚本，非替代/竞品",
+    "quotes": [
+     "- **隐私版窗口 hook**：提供只发送会话 ID 与随机事件 ID 的 Claude Code 脚本，不上传提示词正文。",
+     "- **实时档**：本地 Claude Code、Max 或具备生命周期 hook 的前端，可在每次提交消息时上报。",
+     "Claude Code 可使用仓库中的 `scripts/xinchao-heartbeat-hook.sh`。脚本读取 hook 输入后只保留 `session_id`，主动丢弃 `prompt`。不要直接把 `UserPromptSub"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

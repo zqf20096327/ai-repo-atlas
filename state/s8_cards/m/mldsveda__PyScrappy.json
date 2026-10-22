@@ -1,0 +1,165 @@
+{
+ "fn": "mldsveda/PyScrappy",
+ "sha": "550b92dc7a0f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自愈式 Python 爬虫工具包兼 MCP 服务器：给 AI agent 供给结构化网页数据",
+  "review": "Python 网页抓取工具包（需 Python 3.9+），可将任意 URL 转为结构化文本、链接、图片、表格与元数据，输出 Markdown/JSON/DataFrame 等 LLM 可用格式；内置 24 个站点爬虫（Wikipedia、Yahoo Finance、Amazon、YouTube 等）。核心机制包括自愈选择器（站点改版后按加权信号与锚点相似度重定位元素并记录审计日志）、TLS 指纹伪装（curl_cffi 可选后端）、并发抓取与重试限速。可附带 MCP 服务器把爬虫暴露为工具供 Claude/Cursor 等调用，另含直连 Ollama 的内置 agent；限制：MCP extra 需 Python 3.10+，Instagram/Twitter 等爬虫需代理，IMDB 爬虫需 OMDb key。",
+  "highlights": [
+   "自愈（自适应）选择器：按加权信号与锚点重定位元素，含置信度评分与 append-only 治愈审计日志",
+   "MCP 服务器暴露 20+ 工具供 Claude/Cursor/本地 LLM 调用；内置 agent 可直连 Ollama 免 MCP host",
+   "24 个内置站点爬虫 + 插件机制（entry point 注册第三方爬虫包）",
+   "TLS 指纹伪装（impersonate=chrome）、并发抓取、站点地图爬取、重试与限速"
+  ],
+  "use_cases": [
+   "在 LLM 应用或 agent 中按需抓取网页并得到干净 Markdown/JSON 数据",
+   "站点改版后让选择器自愈，减少爬虫静默失效",
+   "注册为 Claude/Cursor/Ollama agent 的抓取工具集",
+   "批量并发抓取整站（sitemap 爬取）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网页抓取",
+   "MCP",
+   "agent工具",
+   "数据提取",
+   "LLM数据供给"
+  ],
+  "domain": "网页抓取/LLM 数据工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: PyScrappy is an AI-native web scraping toolkit that turns websites into structured, LLM-ready data. Use it as a Python l",
+   "L21: - **MCP server** — expose the scrapers as tools for AI agents (Claude, Cursor, local LLMs, …)",
+   "L52: PyScrappy ships an MCP server that"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     21,
+     91,
+     120
+    ],
+    "note": "MCP server 供 Claude/Claude Code/Claude Desktop 作为客户端调用",
+    "quotes": [
+     "- **MCP server** — expose the scrapers as tools for AI agents (Claude, Cursor, local LLMs, …)",
+     "server, so an AI agent (e.g. Claude) can call PyScrappy's scrapers as tools and",
+     "claude mcp add pyscrappy pyscrappy-mcp"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     72,
+     74,
+     75
+    ],
+    "note": "内置 agent 直连 Ollama 本地模型调用爬虫工具",
+    "quotes": [
+     "### Local models (Ollama), no MCP host needed",
+     "Ollama can't talk MCP on its own, so normally you'd run a host (Goose, Cline, …)",
+     "in between. PyScrappy skips that with a built-in agent that talks to Ollama"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     38,
+     45,
+     64
+    ],
+    "quotes": [
+     "pip install pyscrappy",
+     "pip install 'pyscrappy[browser]'",
+     "pip install 'pyscrappy[mcp]'"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     21,
+     53
+    ],
+    "note": "作为 MCP 客户端被列举，非替代/竞品",
+    "quotes": [
+     "- **MCP server** — expose the scrapers as tools for AI agents (Claude, Cursor, local LLMs, …)",
+     "exposes its scrapers as tools, so an agent (Claude, Cursor, an OpenAI agent, a"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "note": "注册 MCP server 的客户端",
+    "quotes": [
+     "### Register with Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

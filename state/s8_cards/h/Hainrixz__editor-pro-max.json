@@ -1,0 +1,150 @@
+{
+ "fn": "Hainrixz/editor-pro-max",
+ "sha": "90c853073c54",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用自然语言让 Claude Code 生成视频的本地视频编辑器",
+  "review": "基于 Remotion + Claude Code 的视频创作工具：用户以自然语言描述需求，Claude Code 编写 React 合成代码，由 Remotion 本地渲染为 MP4。提供 25 个组件、10 个模板（TikTok/YouTube/演示等）、7 个 AI 技能与 5 个流水线脚本（含 Whisper.cpp 词级字幕转录、静音检测、背景移除）。全程本地运行，无需 API key。要求 Node.js 20+ 与 Claude Code CLI，无图形界面，面向熟悉命令行的内容创作者。",
+  "highlights": [
+   "自然语言驱动：Claude Code 编写合成代码，Remotion 渲染 MP4",
+   "25 个组件、10 个平台模板、9 种平台尺寸预设",
+   "Whisper.cpp 本地词级字幕转录与静音检测流水线",
+   "无需 API key，全部本地运行"
+  ],
+  "use_cases": [
+   "用一句话生成 TikTok/YouTube 短视频或幻灯片",
+   "给口播视频自动加字幕、剪掉静音段",
+   "将素材自动剪辑并按平台尺寸导出 MP4"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频编辑",
+   "AI Agent",
+   "内容创作",
+   "Remotion",
+   "本地工具"
+  ],
+  "domain": "视频创作/内容生产",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: Editor Pro Max turns Claude Code into a professional video editor. Instead of dragging clips on a timeline, you describe",
+   "L61: \"Make me a TikTok\"  ──>  Writes React composition  ──>  Renders to MP4",
+   "L78:  - `npx tsx scripts/transcribe.ts` — Whisper AI generates word-level captions"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     24,
+     137
+    ],
+    "note": "运行必需 Claude Code CLI（Anthropic 产品），通过其完成安装与代码生成",
+    "quotes": [
+     "claude",
+     "- **Claude Code** CLI installed"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     22,
+     23
+    ],
+    "quotes": [
+     "git clone https://github.com/Hainrixz/editor-pro-max.git",
+     "cd editor-pro-max"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     70,
+     76
+    ],
+    "note": "npm/npx 用于预览、渲染与流水线脚本执行，非安装命令",
+    "quotes": [
+     "4. Render with `npx remotion render <id> out/video.mp4`",
+     " - `npx tsx scripts/analyze-video.ts` — extracts metadata"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     15
+    ],
+    "note": "构建所依赖的 agent 工具，非替代对象",
+    "quotes": [
+     "Built with Remotion + Claude Code | React 19 | TypeScript | Whisper AI",
+     "Editor Pro Max turns Claude Code into a professional video editor. Instead of dragging clips on a timeline, you describe"
+    ]
+   }
+  ]
+ }
+}

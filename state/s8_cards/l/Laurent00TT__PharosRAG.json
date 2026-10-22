@@ -1,0 +1,160 @@
+{
+ "fn": "Laurent00TT/PharosRAG",
+ "sha": "a2f90e2c9fbf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "团队文档库的本地 RAG 问答系统：多格式入库、混合检索、企业权限",
+  "review": "面向团队部署的本地优先 RAG 系统：将 PDF、扫描件、docx/pptx/xlsx 解析为知识库，提供 HTTP API（/v1/ask 闭环问答含引用与 6 个检索端点）和 MCP 两个出口，MCP 供 Claude Code 等 agent 做 agentic RAG。身份由服务端 X-API-Key 决定，检索层按租户/主体做 ACL 硬过滤，全程 fail-closed，默认仅绑定 127.0.0.1。常驻守护进程持有嵌入式 Qdrant 与 GPU 模型，可拆为 inference/pharos/Qdrant 三层用 docker compose 多副本扩展。文档为中文（12 篇 RAG 教程），HTTPS 与公网暴露为明确非目标。",
+  "highlights": [
+   "HTTP API 与 MCP 双出口共享同一工具契约（toolcore 单一来源）",
+   "多身份 keys 模式与检索层 ACL 硬过滤，五用户矩阵回归验证",
+   "常驻 daemon 持有嵌入式 Qdrant 与 GPU 模型，MCP 适配层毫秒级启动",
+   "三层拆分架构支持 docker compose --scale pharos=3 多副本",
+   "附 12 篇中文 RAG 学习/面试教程（4,122 行）"
+  ],
+  "use_cases": [
+   "团队把内部文档建成可问答、带页级引用的知识库",
+   "让 Claude Code 等 agent 通过 MCP 工具做 agentic 检索",
+   "多租户/多身份企业部署中按权限过滤检索结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "知识库问答",
+   "MCP",
+   "本地部署",
+   "企业权限"
+  ],
+  "domain": "LLM 基础设施/RAG",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "文档含 12 篇中文教程（L14-15）",
+   "docs/ 全部为中文（L124）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **Turn PDFs, scans, docx, pptx and xlsx into a local knowledge base you can ask questions of — with enterprise access co",
+   "L30: |**HTTP API**|`pharos serve`|curl, scripts, frontends|Closed-pipeline QA: `/v1/ask` runs retrieve → grounding → DeepSeek",
+   "L31: |**MCP**|`pharos mcp`|agents such as Claude Code|Agentic RAG: when to retrieve, how to rewrite, whether to go multi-hop "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     30,
+     111
+    ],
+    "note": "/v1/ask 闭环管线调用 DeepSeek，需 DEEPSEEK_API_KEY",
+    "quotes": [
+     "|**HTTP API**|`pharos serve`|curl, scripts, frontends|Closed-pipeline QA: `/v1/ask` runs retrieve → grounding → DeepSeek",
+     "Configuration lives in the single `.env` at the repository root (see .env.example; everything is prefixed `PHAROS_*`): `"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     31,
+     67
+    ],
+    "note": "MCP 出口的使用者为 Claude Code，非官方接入 Claude API",
+    "quotes": [
+     "|**MCP**|`pharos mcp`|agents such as Claude Code|Agentic RAG: when to retrieve, how to rewrite, whether to go multi-hop ",
+     "For agentic mode in Claude Code: copy `.mcp.json.example` to `.mcp.json` (gitignored), fill in your `PHAROS_API_KEY` and"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     22,
+     61
+    ],
+    "quotes": [
+     "This is not another chunking toy. Every significant decision here is backed by a measurement, argued through several rou",
+     "pip install -e '.[dev]'                        # src-layout, editable install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     50
+    ],
+    "quotes": [
+     "docker compose --env-file .env.compose up -d --scale pharos=3   # entry point: http://127.0.0.1:8080"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     31,
+     67
+    ],
+    "note": "作为 MCP 使用者被提及，非替代/竞品",
+    "quotes": [
+     "|**MCP**|`pharos mcp`|agents such as Claude Code|Agentic RAG: when to retrieve, how to rewrite, whether to go multi-hop ",
+     "For agentic mode in Claude Code: copy `.mcp.json.example` to `.mcp.json` (gitignored), fill in your `PHAROS_API_KEY` and"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

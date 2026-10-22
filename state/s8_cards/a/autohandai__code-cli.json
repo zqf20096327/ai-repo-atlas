@@ -1,0 +1,218 @@
+{
+ "fn": "autohandai/code-cli",
+ "sha": "9b39156b7d5d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端原生 AI 编程代理：多模型接入下自动规划并改代码",
+  "review": "在终端中运行的 AI 编程代理，读取项目上下文，以规划-反思-记忆循环完成文件编辑、Shell 命令、测试与自动化任务，风险操作前请求批准。支持 OpenRouter、OpenAI、AWS Bedrock、DeepSeek、Z.ai 等多种模型提供商及本地模型，可导入 Claude Code 配置。提供交互式 REPL（斜杠命令、文件提及、技能）与非交互命令模式（stream-json 输出）用于 CI/CD，另有 VS Code/Zed 扩展与多语言 Code Agent SDK。安装方式含脚本、Homebrew、npm 与源码构建，需 Bun≥1.0 与 Git。附带本地追踪组件 ahtraces 与 Computer Use 组件。",
+  "highlights": [
+   "多提供商支持（OpenRouter/OpenAI/Bedrock/DeepSeek/Z.ai）及本地模型",
+   "规划模式 + 工具循环，风险操作前请求批准",
+   "非交互命令模式输出 stream-json 事件流，可用于 CI/CD",
+   "Code Agent SDK 提供 TypeScript/Go/Python/Java/Swift 多语言包"
+  ],
+  "use_cases": [
+   "在终端用自然语言让 AI 代理修改、测试我的代码库",
+   "在 CI/CD 流水线中自动执行重复性编码任务",
+   "通过 SDK 把编码代理能力嵌入自己的工具或编辑器集成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    149
+   ],
+   "note": "SDK 多语言包标注为 beta"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码代理",
+   "CLI工具",
+   "多模型接入",
+   "BYOK",
+   "终端开发"
+  ],
+  "domain": "AI 编程工具/开发者效率",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "bedrock",
+   "deepseek",
+   "anthropic",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: **A fast, self-improving terminal-native AI coding agent for planning, reflecting, remembering, editing, testing, and au",
+   "L26: - **Multi-Provider Support**: Works with OpenRouter, LLMGateway, OpenAI, AWS Bedrock, DeepSeek, Azure Foundry Models, Z."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **Multi-Provider Support**: Works with OpenRouter, LLMGateway, OpenAI, AWS Bedrock, DeepSeek, Azure Foundry Models, Z."
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **Multi-Provider Support**: Works with OpenRouter, LLMGateway, OpenAI, AWS Bedrock, DeepSeek, Azure Foundry Models, Z."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **Multi-Provider Support**: Works with OpenRouter, LLMGateway, OpenAI, AWS Bedrock, DeepSeek, Azure Foundry Models, Z."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     298,
+     533
+    ],
+    "quotes": [
+     "- Compatible with Codex and Claude skill formats",
+     "|OpenRouter|`openrouter`|Access to Claude, GPT-4, Grok, etc.|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     386
+    ],
+    "quotes": [
+     "|`/import`|Import data from Claude, Codex, Gemini, Cursor, OpenCode, Kimi, Grok hooks, and other agents|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     538
+    ],
+    "note": "作为本地模型运行方式之一被支持",
+    "quotes": [
+     "|Ollama|`ollama`|Local models|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     49
+    ],
+    "quotes": [
+     "brew install autohandai/code/autohand-code"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "git clone https://github.com/autohandai/code-cli.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     652
+    ],
+    "quotes": [
+     "```dockerfile"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     180
+    ],
+    "quotes": [
+     "- Press `Up` to recall older typed messages and `Down` for newer messages or your unfinished draft. In multiline drafts,"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     386
+    ],
+    "quotes": [
+     "|`/import`|Import data from Claude, Codex, Gemini, Cursor, OpenCode, Kimi, Grok hooks, and other agents|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

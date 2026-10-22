@@ -1,0 +1,153 @@
+{
+ "fn": "mattzcarey/zagi",
+ "sha": "5b7b30d3235c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的 git 命令行替代品，输出精简省 token",
+  "review": "用 Zig 实现的 git CLI 兼容替代品：实现 121 个 git 兼容命令，默认输出比 git 精简约 50% 以避免撑爆上下文窗口，提供 succinct/--compat/--json 三种输出模式，未实现的命令直接透传给 git。面向在 AI 编码工具中运行的 agent：自动检测 Claude Code/OpenCode/Cursor 等环境进入 agent 模式，支持 prompt 追踪、AI 提交归属（存于 git notes）、worktree 封装命令 fork、破坏性命令 guardrails。通过安装脚本下载二进制并设置别名，也可用 Zig 0.15 从源码构建。",
+  "highlights": [
+   "121 个 git 兼容命令，未实现的透传给 git",
+   "三种输出模式：succinct（默认省 token）、--compat（与 git 输出一致）、--json",
+   "agent 模式：prompt 追踪与 AI 提交归属，元数据存于本地 git notes",
+   "guardrails 可拦截 reset --hard / push --force 等破坏性命令，支持密钥覆盖"
+  ],
+  "use_cases": [
+   "让编码 agent 在有限上下文窗口内高效使用 git",
+   "追踪每个 commit 由哪个 AI agent 基于什么 prompt 生成",
+   "防止 agent 执行破坏性 git 命令",
+   "用 fork 命令为不同实现方案并行创建 worktree"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "git工具",
+   "AI agent 工具链",
+   "CLI",
+   "开发者效率"
+  ],
+  "domain": "开发工具/git CLI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > a better git interface for agents",
+   "L89: Agent mode is automatically enabled when running inside AI tools (Claude Code, OpenCode, Cursor, Windsurf, VS Code). You"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     89,
+     133,
+     137,
+     143
+    ],
+    "note": "以 Claude Code 环境检测与 Co-Authored-By 行处理形式出现，非接入适配",
+    "quotes": [
+     "Agent mode is automatically enabled when running inside AI tools (Claude Code, OpenCode, Cursor, Windsurf, VS Code). You",
+     "Agent mode is automatically detected when running inside Claude Code (`CLAUDECODE=1`) or OpenCode (`OPENCODE=1`).",
+     "Remove `Co-Authored-By:` lines that AI tools like Claude Code add to commit messages:",
+     "Co-Authored-By: Claude <claude@anthropic.com>\"  # stripped automatically"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     25
+    ],
+    "quotes": [
+     "git clone https://github.com/mattzcarey/zagi.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     89,
+     133,
+     137
+    ],
+    "quotes": [
+     "Agent mode is automatically enabled when running inside AI tools (Claude Code, OpenCode, Cursor, Windsurf, VS Code). You",
+     "Agent mode is automatically detected when running inside Claude Code (`CLAUDECODE=1`) or OpenCode (`OPENCODE=1`).",
+     "Remove `Co-Authored-By:` lines that AI tools like Claude Code add to commit messages:"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "quotes": [
+     "Agent mode is automatically enabled when running inside AI tools (Claude Code, OpenCode, Cursor, Windsurf, VS Code). You"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "quotes": [
+     "Agent mode is automatically enabled when running inside AI tools (Claude Code, OpenCode, Cursor, Windsurf, VS Code). You"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "fn": "alienplatform/alien",
+ "sha": "c714243c6335",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把产品数据面部署到客户云/本地环境的托管自托管基础设施",
+  "review": "面向需要在客户控制的环境（AWS/GCP/Azure、Kubernetes 或离线站点）运行产品组件的开发团队：通过 CLI 与可自托管或由 alien.dev 托管的 manager，实现发布自动下发、日志遥测回传、隧道调用与远程命令。支持 Push（客户授予受限角色）与 Pull（Operator 经出站连接拉取）两种部署模式，资源声明自动映射到各平台原生服务，并提供离线环境的同步包与最小权限模型。",
+  "highlights": [
+   "Push/Pull 两种部署模式，Pull 模式无需入站连接",
+   "发布渠道管理与 Operator 自更新",
+   "OpenTelemetry 日志转发到 Datadog/Grafana 等后端",
+   "离线（air-gapped）环境经文件夹同步更新与回传日志"
+  ],
+  "use_cases": [
+   "把服务部署到客户的 Kubernetes 集群或云账号并持续更新",
+   "后端经隧道调用客户网络内的容器与远程命令",
+   "在无外网的站点通过同步文件夹交付与升级应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自托管部署",
+   "多云基础设施",
+   "Kubernetes",
+   "离线交付",
+   "DevOps"
+  ],
+  "domain": "云基础设施/部署",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **Infrastructure for software outside your cloud.**",
+   "L9: Some of your product has to run where you don't control the infrastructure: a customer's AWS, Google Cloud or Azure acco",
+   "L134: - remote-worker-ts: tool execution inside the customer's cloud for an AI agent"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     38,
+     61
+    ],
+    "quotes": [
+     "docker run -d --name alien-manager -p 8080:8080 -v alien-data:/data \\",
+     "For real customers, run the manager where their clusters can reach it over HTTPS: with the Helm chart on Kubernetes, the"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     61,
+     75
+    ],
+    "quotes": [
+     "For real customers, run the manager where their clusters can reach it over HTTPS: with the Helm chart on Kubernetes, the",
+     "- **Pull.** The customer runs the Operator: a Helm chart on Kubernetes, or a container in their cloud. It connects outbo"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

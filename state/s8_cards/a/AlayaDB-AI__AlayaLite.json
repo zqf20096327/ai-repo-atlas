@@ -1,0 +1,120 @@
+{
+ "fn": "AlayaDB-AI/AlayaLite",
+ "sha": "6a0b900681d9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向所有人的轻量级 Python 向量数据库，含内存与磁盘双索引路径",
+  "review": "以 Python 包形式提供的向量数据库：一条包内提供两条索引路径——基于图 + RaBitQ 的内存索引用于低延迟检索，LASER 磁盘量化图索引处理超 RAM 的十亿级数据（热数据驻留 SSD）。Collection 支持带文档 ID、元数据过滤的混合检索；多线程由 C++20 协程优化。通过 pip/uv 安装，LASER 为可选 extra 且有平台差异（Linux 需 libaio，macOS 需 libomp，Windows 需 VS2022 构建环境）；v1 中 LASER 仅支持 float32、raw_dim≥128、L2 度量。README 含与 DiskANN/Qdrant 等系统的基准对比。",
+  "highlights": [
+   "内存图 + RaBitQ 索引与 LASER 磁盘量化图索引共存于一个包",
+   "Collection 混合检索：ANN 结果附带文档 ID 与元数据过滤",
+   "C++20 协程优化的多线程弹性扩展",
+   "量化方法、度量与数据类型可自定义"
+  ],
+  "use_cases": [
+   "在 Python 应用中做低延迟向量近邻检索",
+   "数据集超出 RAM 时用 LASER 在 SSD 上检索十亿级向量",
+   "需要元数据过滤的混合检索场景（如文档库）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "SIGMOD 2026 AlayaLaser paper（README L129 提及）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "ANN检索",
+   "RAG基础设施",
+   "嵌入式数据库"
+  ],
+  "domain": "向量检索/数据库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: - **Two index paths in one package**: an in-memory graph + RaBitQ path for low-latency",
+   "L34: pip install alayalite             # with pip",
+   "L55: collection = client.create_collection(\"docs\", indexed_fields=[\"category\"])"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "note": "基准测试使用 Medium Cohere 数据集，非接入",
+    "quotes": [
+     "**Medium Cohere** dataset (1M vectors, 768 dimensions). The following results"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     34,
+     36,
+     37,
+     85
+    ],
+    "quotes": [
+     " PyPi",
+     "pip install alayalite             # with pip",
+     "uv pip install alayalite          # with uv (standalone)",
+     "uv add alayalite                  # in a uv-managed project",
+     "pip install \"alayalite[laser]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

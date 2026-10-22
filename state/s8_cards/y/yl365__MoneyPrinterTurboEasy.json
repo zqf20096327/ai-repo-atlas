@@ -1,0 +1,121 @@
+{
+ "fn": "yl365/MoneyPrinterTurboEasy",
+ "sha": "8f668e8195c4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一句话主题词生成带配音短视频的 Windows 绿色版工具",
+  "review": "基于 MoneyPrinter/MoneyPrinterTurbo 的再分发版本（自称“完美复刻”）：输入主题词后调用 OpenAI 兼容 API（README 推荐 qwen 系列）生成文案，从 Pexels/Pixabay 按 API Key 获取素材，自动匹配合成带语音的高清短视频，可调语速、音色与横竖屏。以 Windows 绿色版 exe 分发（百度网盘/夸克网盘下载），改 config.toml 后双击运行，无需安装；依赖用户自备 LLM API Key 与素材站 Key，支持配置代理。",
+  "highlights": [
+   "主题词→AI 文案→素材匹配→配音合成全流程自动化",
+   "Windows 绿色版，改 config.toml 后双击 ai_video.exe 运行",
+   "兼容 OpenAI 协议 API，README 推荐 qwen 系列",
+   "内置共享 Pexels/Pixabay ApiKey，可替换为独立 Key 并支持代理"
+  ],
+  "use_cases": [
+   "我想输入一个主题就出一条带配音的短视频",
+   "批量产出营销/种草类短视频内容",
+   "不会拍摄剪辑，用 AI 生成可发布的视频素材"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AIGC",
+   "短视频生成",
+   "TTS配音",
+   "桌面工具",
+   "营销内容"
+  ],
+  "domain": "AI 音视频生成/内容创作",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "百度网盘/夸克网盘分发",
+   "推荐阿里百炼 qwen 系列",
+   "国内电商话术（GMV/种草）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: 输入主题词（如“如何赚钱？”、“美妆护肤攻略”），系统自动输出完整文案框架，搭配真人语音与高清画面，从0到成品仅需3分钟！",
+   "L35: 1️⃣ **用AI创作文案**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     8,
+     9,
+     40
+    ],
+    "quotes": [
+     "【下载】百度网盘下载：https://pan.baidu.com/s/15c6711QJODX3PlmjQ_BaFQ?pwd=mtjm 提取码:mtjm",
+     "【下载】夸克网盘下载：https://pan.quark.cn/s/84404530ce43 下载速度快",
+     "## 💡使用方便：修改`config.toml`配置文件，然后双击`ai_video.exe`直接运行！！！"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     44
+    ],
+    "note": "作为推荐的 OpenAI 兼容 API 提供方被列举，非替代/竞品",
+    "quotes": [
+     "### 1. openai api 配置，兼容openai的都可以，推荐qwen系列，获取地址：阿里百炼"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

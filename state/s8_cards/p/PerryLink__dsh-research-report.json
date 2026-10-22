@@ -1,0 +1,129 @@
+{
+ "fn": "PerryLink/dsh-research-report",
+ "sha": "ab2daa400340",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepSeek Harness 插件：生成逐条声明可验证的密封研究报告",
+  "review": "面向 DeepSeek Harness 的研究报告引擎插件：以内容寻址的证据账本（SHA-256 对象存储 + JSONL 日志）登记不可变证据快照，将报告中每条声明与证据绑定并做字节级核验，产出带 manifest 哈希密封的版本化报告（report.md + manifest.json + verification.jsonl + disconfirmation.jsonl）。判定分 verified/unverified/insufficient/disproven/contradicted 五级，不依赖语义或嵌入。另带独立验证 CLI（dsh-research-verify，支持 JSON/SARIF 输出）与零网络零模型的复算回环。规划与综合仍归模型或上游插件，不做检索编排。",
+  "highlights": [
+   "声明↔证据绑定与逐字面字节级核验（五级判定，无嵌入）",
+   "manifest 哈希密封的版本化报告，任何人可复算",
+   "证伪账本与按内容哈希记忆的负面知识（同一文本对同一证据强制回 disproven）",
+   "独立验证 CLI dsh-research-verify 支持 JSON/SARIF 2.1.0 输出"
+  ],
+  "use_cases": [
+   "让 AI agent 产出的研究报告附每条声明的核验判定与可见标记",
+   "事后离线复算密封报告哈希，检测证据篡改或缺失",
+   "跨 sibling 插件经冻结服务面 ctx.researchReport.assemble 复用报告组装"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent 工具",
+   "研究可验证性",
+   "证据溯源/审计",
+   "插件生态",
+   "报告生成"
+  ],
+  "domain": "AI 工具链/可验证研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 中英混排（示例与标记含中文）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **A verifiable research-report engine for DeepSeek Harness.**",
+   "L44: ## What is dsh-research-report?",
+   "L82: dsh plugin --profile web add github:PerryLink/dsh-research-report"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     7,
+     56,
+     59
+    ],
+    "note": "本产品为 DeepSeek Harness 专属插件，peer 依赖 @deepseek-ai/* 系列",
+    "quotes": [
+     "**A verifiable research-report engine for DeepSeek Harness.**",
+     "- DeepSeek Harness `dsh-v0.2.1-alpha.1` (verified 2026-09-25). npm dev/test line `0.1.7-rc.2`; peers `>=0.1.6-0 <0.2.0 |",
+     "- Peer dependencies: `@deepseek-ai/cordis ^4.0.2`, `@deepseek-ai/schemastery ^3.18.2`, and `@deepseek-ai/dsh-session`, `"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     2,
+     96
+    ],
+    "quotes": [
+     "- **1024 store channel**: `npm i -g dsh1024` once, then `dsh1024 plugin --profile web add dsh-research-report` (counts t",
+     "dsh plugin --profile demo add dsh-research-report"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

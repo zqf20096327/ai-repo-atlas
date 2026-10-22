@@ -1,0 +1,131 @@
+{
+ "fn": "unixwin/WinuxCmd",
+ "sha": "ec2f98c55e35",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 原生 Unix 命令行工具集：单个 3MB 二进制提供 176 个 GNU 命令",
+  "review": "以 C++23 编写的原生 Win32 可执行文件，在 Windows 上实现 176 个 Unix 命令与 1,924 个选项，覆盖 coreutils、findutils、grep、sed、BSD 工具与进程管理，grep 内置 PCRE2，find 实现 88 个选项。针对 GNU coreutils 9.7 做差分测试（178 例、93% 通过），附带 2,420 个单元测试。内置 WPM 包管理器安装 jq、ripgrep 等外部工具，配套同组织的 niubash 提供 bash 语法；`niu -c` 输出确定、退出码精确，面向 AI agent 调用设计。提供安装包、便携版与源码构建三种方式。",
+  "highlights": [
+   "单文件原生 Win32 二进制，176 命令 / 1,924 选项，零运行时依赖",
+   "针对 GNU coreutils 9.7 的 178 例差分测试，93% 通过",
+   "内置 WPM 包管理器安装 jq、ripgrep、fzf 等外部工具",
+   "配套 niubash 提供 bash 语言与面向 agent 的确定性 `niu -c` 模式"
+  ],
+  "use_cases": [
+   "在 Windows 上直接使用 grep/sed/find 等 GNU 命令而无需 WSL/Cygwin",
+   "为 AI agent 提供输出确定、退出码稳定的命令行环境",
+   "用便携版随项目分发一套 Unix 工具链"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "命令行工具",
+   "coreutils",
+   "Windows 原生",
+   "AI agent 友好",
+   "开发环境"
+  ],
+  "domain": "系统工具/命令行",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文链接（L15）",
+   "同组织项目命名 niubash/niu（L61, L72）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L72: - **Agent-friendly** — `niu -c` is quiet and deterministic: no banners, stable stdout/stderr, exact exit codes. The shel",
+   "L3: **Real Unix commands. Real Windows paths. One ~3 MB executable.**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     48,
+     49
+    ],
+    "note": "GitHub Releases 提供 setup.exe 安装包与便携版 zip",
+    "quotes": [
+     "|**Installer (recommended)**|Grab `WinuxCmd-<version>-x64-setup.exe` (or the ARM64 setup) from GitHub Releases|",
+     "|**Portable**|Unzip `WinuxCmd-<version>-win-x64.zip` anywhere and add it to your `PATH`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     50,
+     228
+    ],
+    "note": "VS 2022 + CMake + Ninja 从源码构建",
+    "quotes": [
+     "|**Build from source**|VS 2022 + CMake 3.30 + Ninja — see Building from source|",
+     "**Prerequisites:** Visual Studio 2022+ · CMake 3.30+ · Ninja"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "32 GB RAM",
+    "rel": "mention",
+    "lines": [
+     197
+    ],
+    "note": "基准测试环境描述，非产品硬件要求",
+    "quotes": [
+     "*Benchmark environment: Windows 11, Intel i7-13700K, 32 GB RAM, NVMe SSD*"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "fn": "innermost47/ai-dj",
+ "sha": "fad35f00ce41",
+ "source": "readme",
+ "identity": {
+  "one_liner": "现场演出用 AI 音乐循环生成插件（VST3/AU/独立版）",
+  "review": "面向现场演出与 DAW 工作流的 AI 音乐生成插件：输入文字提示生成乐句循环，配 8 轨采样器、16 步序列器、每轨效果链（EQ/压缩/失真/延迟/混响等）与 MIDI 映射。本地 CPU 引擎使用 Stable Audio 3 Medium，完全离线运行；另支持通过自托管 GPU 服务器接入 9 个专用生成引擎（NVIDIA CUDA 或 Apple Silicon）。提供 VST3/AU/独立版，支持 Ableton Link 同步。作者声明其非整曲生成器，需用户自行编排构建作品。",
+  "highlights": [
+   "文字提示生成乐句循环，8 轨采样器 + 256 个序列模式",
+   "Stable Audio 3 Medium 本地 CPU 推理，完全离线",
+   "9 个 GPU 专用引擎经自托管 obsidian-neural-gpu-server 接入",
+   "VST3/AU/独立版，支持 Ableton Link 与 MIDI 触发"
+  ],
+  "use_cases": [
+   "现场演出中实时生成并触发 AI 乐句循环",
+   "在 DAW 内按提示词生成采样素材并混音编排",
+   "离线环境下做 AI 辅助的音乐创作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    41,
+    115
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI音乐生成",
+   "音频插件",
+   "现场演出",
+   "DAW",
+   "本地推理"
+  ],
+  "domain": "音乐制作/音频软件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L58: Type words → Get musical loops. No stopping your creative flow.",
+   "L95: - **Local CPU generation** with Stable Audio 3 Medium - fully offline",
+   "L123: **OBSIDIAN Neural is NOT a song generator** like Suno or Udio. It's a performance tool: you build your track loop by loo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     156
+    ],
+    "note": "Releases 提供各平台二进制，按路径安装",
+    "quotes": [
+     "|Windows Standalone|Run `OBSIDIAN-Neural.exe` from anywhere|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Suno",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "作者声明本产品非类似 Suno 的整曲生成器",
+    "quotes": [
+     "**OBSIDIAN Neural is NOT a song generator** like Suno or Udio. It's a performance tool: you build your track loop by loo"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "fn": "cocoonstack/cocoon",
+ "sha": "f3ebd0250277",
+ "source": "readme",
+ "identity": {
+  "one_liner": "轻量 MicroVM 引擎：为开发者提供 Docker 式虚拟机管理",
+  "review": "基于 Cloud Hypervisor（默认）与 Firecracker 双后端的轻量 MicroVM 管理引擎，提供 Docker 风格 CLI（create/run/clone/exec 等）。核心机制包括：OCI 镜像与云镜像作为 VM 镜像来源、运行中 VM 的快照与克隆（内存写时复制、页缓存共享）、基于 TC redirect 的 CNI 网络、Windows 11 客户机支持、内存气球与巨页、每 VM 一个 hypervisor 进程的无守护架构。以 Linux 二进制（amd64/arm64）发布，适用于 AI 沙箱、云桌面与临时开发环境。",
+  "highlights": [
+   "双 hypervisor 后端：Cloud Hypervisor（默认）与 Firecracker（~125ms 启动，每 VM 开销 <5 MiB）",
+   "OCI 镜像/云镜像拉取作为 VM 镜像，内容寻址 EROFS blob 缓存",
+   "运行中 VM 快照与克隆：内存写时复制、共享页缓存、原子休眠恢复、跨主机导入导出",
+   "CNI 网络（TC redirect、多 NIC、NIC 热调整）与 vhost-user-fs / VFIO 热插拔"
+  ],
+  "use_cases": [
+   "为 AI agent 任务创建隔离的一次性沙箱环境",
+   "快速克隆运行中的 VM 做并行实验或部署",
+   "搭建云桌面或标准化开发环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MicroVM",
+   "虚拟化",
+   "AI沙箱",
+   "云桌面",
+   "开发环境"
+  ],
+  "domain": "虚拟化/云原生基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Lightweight MicroVM engine with dual hypervisor backends: Cloud Hypervisor (default) and Firecracker.",
+   "L10: - **Docker-like CLI** — `create`, `run`, `start`, `stop`, `list`, `inspect`, `console`, `exec`, `rm`, `clone`, `status`",
+   "L11: - **Snapshot & clone** — capture a running VM (memory, disks, config) and clone it into new VMs with fresh network ident"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

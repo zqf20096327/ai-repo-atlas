@@ -1,0 +1,136 @@
+{
+ "fn": "tomlin7/biscuit",
+ "sha": "a32c711c93c1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "轻量原生 Python 代码编辑器，内置 AI 编程 agent",
+  "review": "基于 Tkinter 的原生代码编辑器，安装包体积 <20MB，通过 pip/uv 秒装即用。核心能力包括：接入 Gemini/Anthropic API 的规划型 agent（12 种文件/终端/搜索工具）、tree-sitter 代码高亮与补全、LSP 语言服务器（经扩展注册）、ripgrep 快速搜索、Git 分屏 diff 与基础操作、断点调试（内置 Python 调试器）、GUI 扩展管理与扩展市场。本地 LLM 的 ollama 扩展已弃用、重写中。系统需预装 Tkinter，Python 3.10+。面向偏好轻量工具的开发者。",
+  "highlights": [
+   "接入 Gemini/Anthropic API 的规划 agent，含 12 种文件/终端/搜索工具",
+   "tree-sitter 解析、代码补全、符号导航与 LSP 扩展机制",
+   "ripgrep 快速搜索、Git 分屏 diff、内置 Python 调试器",
+   "GUI 扩展安装管理与扩展市场，<20MB 体积"
+  ],
+  "use_cases": [
+   "想要一个秒装轻量编辑器做日常编码",
+   "在编辑器内用 agent 读写文件、跑终端命令完成编程任务",
+   "通过扩展市场添加语言服务器、格式化器等能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    13
+   ],
+   "note": "文档标注 WIP"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码编辑器",
+   "IDE",
+   "AI编程助手/agent",
+   "桌面应用",
+   "Python生态"
+  ],
+  "domain": "开发者工具/代码编辑器",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: `biscuit` is a fast, extensible, native code editor with agents. lightweight <20 mb in size. install and start using in ",
+   "L45: - [x] gemini, anthropic API support (`claude-4-5-opus/sonnet/haiku`, `gemini-2-5-flash/pro`)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     45
+    ],
+    "quotes": [
+     "- [x] gemini, anthropic API support (`claude-4-5-opus/sonnet/haiku`, `gemini-2-5-flash/pro`)"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     61,
+     62
+    ],
+    "note": "ollama 扩展已弃用，重写中，当前非可用接入方式",
+    "quotes": [
+     "- [x] run local LLMs with ~~ollama extension~~ (deprecated)",
+     "- [ ] ollama extension rewrite"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     23,
+     24
+    ],
+    "quotes": [
+     "pip install biscuit-editor        # using pip",
+     "uv tool install biscuit-editor    # using uv"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    60,
+    61,
+    122
+   ],
+   "note": "仅旧扩展（ollama 扩展、formatter 扩展、旧 LLM provider 示例）标记弃用，本产品未弃用"
+  }
+ }
+}

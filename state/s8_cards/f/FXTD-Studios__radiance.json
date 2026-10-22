@@ -1,0 +1,146 @@
+{
+ "fn": "FXTD-Studios/radiance",
+ "sha": "1c2f7d4bad8a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 的 HDR/色彩管理/VFX 节点集，含生成与审看工具",
+  "review": "面向 ComfyUI 的自定义节点集合，提供 147 个节点：HDR 图像处理（VAE 编解码、SDR→HDR 转换）、色彩管理（ACES、OpenColorIO、LUT、CDL）、图像/视频审看 Viewer（示波器、对比、播放）、VFX 遮罩/深度/重打光，以及读写节点用于交付到 Nuke 或 DaVinci Resolve。内置入门工作流支持 FLUX.2 Klein 4B 蒸馏模型生图，SDR→HDR 使用 Hugging Face 上的 RUDRA 模型（权重为非商业许可，与代码库 GPL-3.0 许可相互独立）。可经 ComfyUI Manager 或 git clone 手动安装。",
+  "highlights": [
+   "147 个可见节点覆盖 HDR、ACES/OpenColorIO 色彩管理、VFX 与文件交付",
+   "Viewer 支持 Simple/Advanced 模式、示波器、对比与播放",
+   "内置 FLUX.2 Klein 4B 蒸馏模型生图入门工作流",
+   "RUDRA 学习式 SDR→HDR 模型（默认首次使用时自动下载）"
+  ],
+  "use_cases": [
+   "在 ComfyUI 中把现有图像转为 HDR 并导出 EXR",
+   "对生成或实拍的图像视频做 ACES 色彩管理与调色",
+   "制作 VFX 镜头的遮罩、深度估计与多通道重打光",
+   "生成图像后在 Viewer 中审看并交付到 Nuke 或 DaVinci Resolve"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "dual",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI自定义节点",
+   "HDR/ACES色彩管理",
+   "VFX",
+   "图像生成",
+   "图像审看"
+  ],
+  "domain": "图像/视频处理与 ComfyUI 生态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: **HDR, colour management, VFX tools, and image review inside ComfyUI.**",
+   "L16: Radiance brings 147 visible nodes into your workflows for processing images and video, working with EXR and ACES, review",
+   "L49: cd ComfyUI/custom_nodes"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openai",
+    "rel": "none",
+    "lines": [],
+    "note": "未在 README 中出现 OpenAI 相关接入或说明",
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     49,
+     50,
+     51,
+     52
+    ],
+    "quotes": [
+     "cd ComfyUI/custom_nodes",
+     "git clone https://github.com/fxtd-studios/radiance.git",
+     "cd radiance",
+     "python -m pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     52
+    ],
+    "note": "手动安装路径中 pip 安装依赖属于本产品安装步骤",
+    "quotes": [
+     "python -m pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     125
+    ],
+    "note": "入门工作流使用 Qwen3 4B 文本编码器模型文件，非替代/竞品关系",
+    "quotes": [
+     "|`qwen_3_4b.safetensors`|Qwen3 4B text encoder|`ComfyUI/models/text_encoders/`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "L115 为 RUDRA 模型权重的非商业许可，非本产品双许可；代码库为 GPL-3.0",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

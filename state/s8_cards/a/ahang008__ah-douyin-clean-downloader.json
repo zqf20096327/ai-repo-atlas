@@ -1,0 +1,93 @@
+{
+ "fn": "ahang008/ah-douyin-clean-downloader",
+ "sha": "b345f312037d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Codex 技能：下载抖音原视频、转写归档与批量改写口播稿",
+  "review": "面向 Codex 的单仓库 Skill（v0.6.0）：输入单条链接下载平台播放源原视频（不转码）；加指令后本地识别生成逐字稿与 SRT 并做语义校对；输入博主主页可采集公开作品、指标、文案标签封面文字并生成索引，支持续跑；对已有资料库按点赞排序批量改写为口播稿。限制：不能去除上传前已烧录的 Logo/字幕，批量机器稿未经人工校对，语义校对与改写消耗额外模型用量。仅限自有或已授权公开内容。",
+  "highlights": [
+   "下载平台播放源原视频，保留原始音视频不转码",
+   "本地识别+语义校对输出 Markdown 逐字稿与 SRT",
+   "博主公开作品批量采集、指标表与可续跑索引",
+   "按点赞排序批量改写资料库为口播稿"
+  ],
+  "use_cases": [
+   "下载并归档自己或已授权博主的抖音原视频与逐字稿",
+   "整理创作者资料库并批量生成口播稿",
+   "为已有完整资料库建立按点赞排序的索引与核对清单"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "codex-skill",
+   "抖音/短视频",
+   "转写/字幕",
+   "内容归档",
+   "中文"
+  ],
+  "domain": "内容下载与转写工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向抖音平台",
+   "微信联系方式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 同一个 Codex Skill 下载单条抖音原视频、交付校对后的单条逐字稿与 SRT、归档博主公开作品并生成本地机器稿，也能把已有完整资料库按点赞排序批量改写成口播稿。",
+   "L12: |单条链接，并说明“提取逐字稿”|本地识别，再完成整篇语义校对；最终只保留校对后的 Markdown 和原时间码 SRT，清理受控过程文件。|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

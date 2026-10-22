@@ -1,0 +1,125 @@
+{
+ "fn": "pkalivas/radiate",
+ "sha": "f7a9a164ea6d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的遗传算法与神经进化引擎（Rust 核心 + Python 绑定）",
+  "review": "用 Rust 编写并提供 Python 绑定的进化计算库，支持传统遗传算法、单/多目标优化、图表示的神经进化（含 opt-in NEAT）、树表示的遗传编程、并行化、新颖性搜索与指标跟踪；提供动态表达式 DSL 用于动态速率与自定义指标。同一 Pipeline 可从字符串匹配进化到 NEAT 神经网络与符号回归树。通过 Cargo 或 pip 安装，源码构建使用 Just 构建工具。",
+  "highlights": [
+   "单/多目标优化与图式神经进化（opt-in NEAT）",
+   "遗传编程（树表示）与新颖性搜索支持",
+   "内置并行与第一方指标跟踪",
+   "动态表达式 DSL 用于动态速率与自定义指标"
+  ],
+  "use_cases": [
+   "用遗传算法求解优化问题",
+   "进化神经网络拓扑（NEAT 风格）",
+   "做符号回归与遗传编程实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "遗传算法",
+   "神经进化",
+   "优化",
+   "Rust/Python 库"
+  ],
+  "domain": "进化计算/机器学习库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Radiate is a powerful library for implementing genetic algorithms and artificial evolution techniques. It provides a fas",
+   "L18: * Neuroevolution (graph-based representation - evolving neural networks) support. Opt-in NEAT implementation."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     33,
+     36
+    ],
+    "quotes": [
+     "Add this to your `Cargo.toml`:",
+     "radiate = { version = \"1.3.2\", features = [\"x\"] }"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "quotes": [
+     "pip install radiate # --or-- uv add radiate"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     62,
+     64,
+     66
+    ],
+    "quotes": [
+     "## Building & running from source",
+     "git clone https://github.com/pkalivas/radiate.git",
+     "just release 3.13"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

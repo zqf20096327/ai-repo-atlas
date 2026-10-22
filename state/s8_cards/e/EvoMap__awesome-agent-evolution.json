@@ -1,0 +1,207 @@
+{
+ "fn": "EvoMap/awesome-agent-evolution",
+ "sha": "037029071255",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Agent 自我进化、记忆系统与多智能体架构的策展清单",
+  "review": "由 EvoMap（evomap.ai）维护的 awesome 类策展清单，收录 AI agent 自我进化/自我改进、记忆系统（向量/图/情景记忆等）、Agent 间协议（A2A/MCP）、agent 开发平台四类项目。条目附作者、星数与一句话描述，并以 mermaid 图呈现分类法。清单本身不含代码，不提供安装运行方式，仅作资源导航使用，面向构建 agent 系统的开发者与研究者。",
+  "highlights": [
+   "按自我进化、记忆系统、A2A 协议、开发平台四类组织条目",
+   "每条含作者、星数与一句话能力描述",
+   "以 mermaid 图呈现分类体系"
+  ],
+  "use_cases": [
+   "查找 agent 记忆系统或自我进化框架的开源项目",
+   "了解 agent 间协议（A2A/MCP）生态的代表性实现",
+   "为 agent 开发选型对比平台与框架"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI Agent",
+   "记忆系统",
+   "agent自进化",
+   "多智能体"
+  ],
+  "domain": "AI 基础设施/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # Awesome Agent Evolution Awesome",
+   "L3: > AI Agent self-evolution, memory systems, autonomous self-improvement, and the infrastructure that powers them.",
+   "L7: ## Taxonomy"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     75,
+     80
+    ],
+    "note": "条目提及 Claude/Claude Desktop，作为被支持对象列举",
+    "quotes": [
+     "- **mcp-use** - The fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents. by @mc",
+     "- **GEP MCP Server** - MCP Server for Genome Evolution Protocol. Exposes evolution tools to Claude Desktop, Cursor, and "
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     249
+    ],
+    "quotes": [
+     "- Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models (arXiv'25) - Universal suffix that m"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     67
+    ],
+    "note": "被收录项目 Mnemoverse 的本地运行方式，非本清单安装途径",
+    "quotes": [
+     "- **Mnemoverse** - Persistent memory for AI agents over MCP. Hosted remote server with OAuth or local npx with a key; re"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "quotes": [
+     "- **agentmemory** - Persistent, benchmark-tuned memory for coding agents (Claude Code, Cursor, Copilot CLI, Codex, and a"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "quotes": [
+     "- **agentmemory** - Persistent, benchmark-tuned memory for coding agents (Claude Code, Cursor, Copilot CLI, Codex, and a"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     45,
+     80
+    ],
+    "quotes": [
+     "- **agentmemory** - Persistent, benchmark-tuned memory for coding agents (Claude Code, Cursor, Copilot CLI, Codex, and a",
+     "- **GEP MCP Server** - MCP Server for Genome Evolution Protocol. Exposes evolution tools to Claude Desktop, Cursor, and "
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     75
+    ],
+    "quotes": [
+     "- **mcp-use** - The fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents. by @mc"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     86
+    ],
+    "note": "被收录条目",
+    "quotes": [
+     "- **dify** - Production-ready platform for building agentic AI workflows with visual orchestration. by @langgenius (159,"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     87,
+     90
+    ],
+    "note": "被收录条目",
+    "quotes": [
+     "- **LangChain** - Full-stack agent engineering platform with composable chains, tools, and memory integration. by @langc",
+     "- **langgraph** - Build resilient language agents as stateful graphs with persistence and streaming. by @langchain-ai (4"
+    ]
+   },
+   {
+    "term": "Coze",
+    "rel": "mention",
+    "lines": [
+     97
+    ],
+    "note": "被收录条目",
+    "quotes": [
+     "- **Coze Studio** - AI agent development platform with visual tools for creating, debugging, and deploying agents. by @c"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

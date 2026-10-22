@@ -1,0 +1,147 @@
+{
+ "fn": "Fr0zenCrane/UniCoT",
+ "sha": "11f061cf95e3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ICLR 2026 论文项目：扩展 MLLM 的文本-视觉统一思维链推理框架",
+  "review": "Uni-CoT 将 Chain-of-Thought 推理扩展到多模态领域，基于 Bagel-7B-MoT 训练 UniCoT-7B-MoT 模型，用于可靠图像生成与编辑、视觉与物理推理、视觉规划和多模态故事理解。采用两级推理架构：宏观 CoT 负责任务分解（顺序/并行/渐进三种规划机制），微观 CoT 含自反思机制。提供推理、评测（WISE/KRIS/RISE）与 SFT 训练脚本，另发布 Self-Reflection-6K 与 Breakdown-3K 两个数据集。并行与渐进分解、RL 框架仍在路线图中未发布；推理需至少一张 40GB 显存 GPU。",
+  "highlights": [
+   "两级推理架构：宏观任务分解（顺序/并行/渐进）+ 微观自反思",
+   "基于 Bagel-7B-MoT 的 UniCoT-7B-MoT 权重发布于 Hugging Face",
+   "提供 SFT 全量微调与 LoRA 微调脚本",
+   "发布 UniCoT-Self-Reflection-6K 与 UniCoT-Breakdown-3K 训练数据集"
+  ],
+  "use_cases": [
+   "需要自反思机制的推理式文本生成图像/图像编辑",
+   "在 WISE、KRIS Bench 等推理基准上复现评测结果",
+   "基于公开数据集微调多模态推理模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    28
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多模态推理",
+   "思维链CoT",
+   "图像生成/编辑",
+   "研究代码",
+   "ICLR论文"
+  ],
+  "domain": "多模态大模型/推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L33: To tackle this, we introduce **Uni-CoT**, a unified reasoning framework that extends CoT principles to the **multimodal ",
+   "L54: - ✅ **2025.07.29** &mdash; We released **UniCoT-7B-MoT v0.1** on Huggingface, which extends Bagel-7B-MoT model to perfor"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     88,
+     92,
+     93
+    ],
+    "quotes": [
+     "git clone https://github.com/Fr0zenCrane/UniCoT.git",
+     "pip install -r requirements.txt",
+     "pip install flash_attn==2.5.8 --no-build-isolation"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     92,
+     93
+    ],
+    "note": "pip install 安装依赖库与 flash_attn，非发布 PyPI 包",
+    "quotes": [
+     "pip install -r requirements.txt",
+     "pip install flash_attn==2.5.8 --no-build-isolation"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     54,
+     98
+    ],
+    "quotes": [
+     "- ✅ **2025.07.29** &mdash; We released **UniCoT-7B-MoT v0.1** on Huggingface, which extends Bagel-7B-MoT model to perfor",
+     "You may directly download the huggingface checkpoint or use the following script:"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     180
+    ],
+    "note": "KRIS Bench 对比表中作为被评测模型出现",
+    "quotes": [
+     "|Doubao (ByteDance)|70.92|59.17|40.58|63.30|65.50|61.19|62.23|47.75|60.58|54.17|60.70|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

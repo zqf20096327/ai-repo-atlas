@@ -1,0 +1,148 @@
+{
+ "fn": "DLYZZT/pi-desktop",
+ "sha": "1589f9ee1f9c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 Pi Coding Agent 用户的本地优先跨平台桌面工作台",
+  "review": "基于 Electron 43 / React 19 的桌面应用，把 Pi Coding Agent 包装成图形工作台：会话管理与流式回复、用户/Agent 共享的内置 Chromium 浏览器、MCP 服务接入与 OAuth 登录、受管开发进程（Vite/Flask 等）、Git 分支与 Worktree 管理、Auto 模型自动路由、Skills/Plugins 管理，以及微信/Telegram/飞书消息渠道。数据留在本机 ~/.pi/agent/，无内部服务器，可与 Pi CLI 复用同一配置。提供 macOS/Windows/Linux 安装包，Apache-2.0。",
+  "highlights": [
+   "用户与 Agent 共享的内置 Chromium 浏览器（多 Tab、Profile、独立授权）",
+   "MCP 服务接入：stdio/Streamable HTTP、OAuth 登录与工具浏览",
+   "Auto 虚拟模型按思考级别或决策模型自动路由",
+   "微信/Telegram/飞书消息渠道接入，外部对话独立 Pi Session"
+  ],
+  "use_cases": [
+   "在图形界面中管理 Pi Coding Agent 会话与项目文件",
+   "让 Agent 在内置浏览器中阅读和操作网页，用户可随时接管",
+   "通过微信/Telegram/飞书远程与 Agent 对话",
+   "在统一界面管理 MCP 服务、Skills 与 Plugins"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面客户端",
+   "Coding Agent",
+   "MCP",
+   "本地优先",
+   "消息渠道集成"
+  ],
+  "domain": "开发者工具/AI Agent 桌面客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "微信渠道接入",
+   "飞书/Lark 渠道接入"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L230: Pi Agent Desktop 使用 Electron 三进程模型，将高权限桌面能力、Agent 运行时和 UI 隔离开来。",
+   "L240: - **Agent Host**：在独立 `utilityProcess` 中运行 Pi Coding Agent，处理会话、文件、配置与扩展",
+   "L303: Pi Agent Desktop 是 Pi Coding Agent 的桌面工作台，继续使用 `~/.pi/agent/` 中的会话和配置，因此可以与 CLI 配合使用。"
+  ],
+  "xcheck": {
+   "depre_hint": "提名有弃坑声明而模型未确认"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "note": "说明 OpenRouter 个性化目录与 Pi CLI 共享缓存的限制",
+    "quotes": [
+     "开发分支的模型配置可先运行 `npm run check:models-config` 只读预检；无效字段会使整份自定义配置暂不生效，设置页保留原内容以便修正。OpenRouter 的个性化目录与 Pi CLI 共享缓存，不按 key 或 "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     191,
+     215,
+     216,
+     217,
+     218
+    ],
+    "quotes": [
+     "v0.4.1 内置 Pi Coding Agent 1.2.0，新增 Windows PowerShell 支持和默认 Agent Shell 设置，完善模型配置恢复、工具权限与渠道附件处理，并改善启动和设置面板加载体验。也可按下方步骤从源",
+     "git clone https://github.com/DLYZZT/pi-desktop.git",
+     "cd pi-desktop",
+     "npm ci",
+     "npm run dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [],
+    "note": "未在 README 中出现，候选误命中",
+    "quotes": []
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     153
+    ],
+    "note": "说明 ChatGPT 订阅登录不提供 OpenAI 决策接口，非竞品对比",
+    "quotes": [
+     "每次模型调用都遵循 Codemode 权限，支持停止，并保存原始输入、结果和执行状态；用量计入会话统计，可在已有工具记录中查看。OpenAI 决策接口需要 API key，ChatGPT 订阅登录不提供该能力。TypeSafe Jev 可在"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L181 为回合停止状态说明，非弃用声明"
+  }
+ }
+}

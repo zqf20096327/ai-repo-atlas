@@ -1,0 +1,160 @@
+{
+ "fn": "Extraltodeus/J-Wash",
+ "sha": "39072a776a2c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 LLM 手动对齐工作室：编辑 token 方向并导出可用权重",
+  "review": "基于 Anthropic 的 Jacobian lens（jlens 库）构建的本地模型编辑工具（FastAPI + React）：在与任意 Hugging Face transformers/safetensors 模型对话时实时渲染各层读取的可视化（热图、token 云、rank 曲线），通过 token 编辑器添加 multiply/replace 规则修改模型身份或行为，并将编辑导出为 full checkpoint、修改层或 LoRA（标准 safetensors，可在 transformers 中加载），也可借助本地 llama.cpp 转换为 GGUF。支持自行在数据集上拟合 lens。要求 NVIDIA GPU（CUDA）、Python 3.11+、Node.js 18+。不支持直接加载 .gguf，量化权重上无法干预，Gemma 类模型受限。",
+  "highlights": [
+   "Jacobian lens 实时可视化各层读取，token 可固定检视",
+   "token 级 multiply/replace 编辑规则，实时预览与导出一致（read projection）",
+   "导出 full checkpoint / 修改层 / LoRA，标准 safetensors 可随处加载",
+   "可指向本地 llama.cpp 目录将导出转换为 GGUF 并量化"
+  ],
+  "use_cases": [
+   "不训练、不微调地手工修改模型的自称身份或行为",
+   "结合可解释性视角探索模型各层在读什么",
+   "将手工编辑结果导出为可在任何运行时使用的独立模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型编辑",
+   "机械可解释性",
+   "对齐/人格定制",
+   "LLM 工作室",
+   "模型导出"
+  ],
+  "domain": "LLM 可解释性/模型编辑",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: J-Wash is a local studio (FastAPI + React) for exploring, editing the J-space",
+   "L37: - and, the core feature, an **export pipeline** that bakes those edits into a",
+   "L29: J-Wash is built on **Anthropic's Jacobian lens** (the"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     258,
+     259,
+     262
+    ],
+    "note": "指向本地 llama.cpp 目录可将导出转换为 GGUF 并量化；不能直接加载 .gguf（L308）",
+    "quotes": [
+     "folder (one that has `convert_hf_to_gguf.py`; `llama-quantize` too for quantized",
+     "types), a **GGUF** entry appears in the export formats: J-Wash bakes the full",
+     "GGUF types - a *clean cache* button reclaims the space. (llama.cpp's converter"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     54
+    ],
+    "quotes": [
+     "git clone https://github.com/extraltodeus/j-wash.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     70,
+     78,
+     86
+    ],
+    "quotes": [
+     "docker build -t j-wash .",
+     "docker compose up -d",
+     "docker run --gpus all -p 8381:8381 j-wash --port 8381 --host 0.0.0.0"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     109,
+     110
+    ],
+    "note": "模型加载与缓存所用的平台",
+    "quotes": [
+     "By default, models download into your **shared Hugging Face cache**",
+     "(`~/.cache/huggingface`, or `$HF_HOME` if set) - the same cache other HF tools use."
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     139,
+     280
+    ],
+    "note": "作为示例模型（Qwen/Qwen3-4B）出现",
+    "quotes": [
+     "(e.g. `Qwen/Qwen3-4B`) and hit ↓. Choose dtype / quant / device, then **Load**.",
+     "python -X utf8 scripts/jlab.py load Qwen/Qwen3-4B --device cuda:0"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

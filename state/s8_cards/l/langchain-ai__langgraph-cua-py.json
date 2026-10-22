@@ -1,0 +1,122 @@
+{
+ "fn": "langchain-ai/langgraph-cua-py",
+ "sha": "8e64cfca104d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 LangGraph 的计算机使用代理（CUA）Python 库",
+  "review": "用于构建计算机使用代理（Computer Use Agent）系统的 Python 库：代理在虚拟机中操作计算机（web/Ubuntu/Windows 环境）以执行任务，底层基于 LangGraph，自带流式输出、短期/长期记忆与 human-in-the-loop 支持。默认通过 Scrapybara 访问虚拟机，需 OpenAI 与 Scrapybara API key；支持认证状态持久化复用浏览器会话、Zero Data Retention 模式，可通过 create_cua 的配置参数（超时、递归上限、系统提示等）定制。面向使用 pip 安装的开发者。",
+  "highlights": [
+   "create_cua 一行创建 CUA 图，支持 web/Ubuntu/Windows 三种运行环境",
+   "基于 LangGraph，内置流式输出、记忆与 human-in-the-loop",
+   "Scrapybara Auth States 持久化浏览器认证会话，可跨运行复用",
+   "支持 OpenAI Zero Data Retention（zdr_enabled）模式"
+  ],
+  "use_cases": [
+   "构建自动操作浏览器或虚拟机完成任务的代理",
+   "在沙箱环境中让代理执行研究、表单填写等计算机操作",
+   "复用已登录的浏览器会话让代理在认证站点执行操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/7fd0ab05-fecc-46f5-961b-6624cb254ac2",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent",
+   "计算机使用代理",
+   "LangGraph",
+   "自动化",
+   "LLM应用框架"
+  ],
+  "domain": "LLM 应用/Agent 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: A Python library for creating computer use agent (CUA) systems using LangGraph. A CUA is a type of agent which has the a",
+   "L18: This library is built on top of LangGraph, a powerful framework for building agent applications, and comes with out-of-b"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     "pip install langgraph-cua"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     153
+    ],
+    "quotes": [
+     "git clone https://github.com/langchain-ai/langgraph-cua.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     153
+    ],
+    "note": "仅出现在仓库克隆 URL 的组织名中",
+    "quotes": [
+     "git clone https://github.com/langchain-ai/langgraph-cua.git"
+    ]
+   }
+  ]
+ }
+}

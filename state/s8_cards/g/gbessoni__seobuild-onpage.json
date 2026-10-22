@@ -1,0 +1,167 @@
+{
+ "fn": "gbessoni/seobuild-onpage",
+ "sha": "37b8f292c3bc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 SEO/GEO 的页面生成 AI agent：一条命令产出可排名页面",
+  "review": "以 Claude Code 插件/skill 形式发布的 SEO 与 GEO 写作 agent（基于 DeerFlow 构建）：通过 /seoagi 命令拉取当前 SERP、分析竞品排名内容与缺口，生成带标题结构、FAQ、schema 标记的完整页面。内置大量写作规则：Two-Gate AEO 引用优化、500-token 分块、实体-事实配对、禁止 NLP 实体堆砌与编造测试声明、DOM 扁平化、74 项质量清单（阈值 63/74）等。也提供 Codex、OpenClaw 与手动克隆的安装方式，接入 GSC/DataForseo 等数据源。",
+  "highlights": [
+   "一条命令拉取 SERP、分析竞品缺口并生成完整页面",
+   "Two-Gate AEO 协议：分别优化候选池入选与引用抽取",
+   "74 项质量检查清单（通过阈值 63/74）",
+   "反编造规则：禁止虚构测试数据、禁止 NLP 实体堆砌"
+  ],
+  "use_cases": [
+   "按关键词自动生成本地服务或信息类落地页",
+   "做面向 AI Overviews 与 LLM 引用的 GEO 内容优化",
+   "从 GSC 数据发现应存在但 404 的 Discovery 路径页面",
+   "批量产出带 schema 与 FAQ 结构的合规 SEO 页面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SEO",
+   "GEO/AEO",
+   "内容生成",
+   "AI agent",
+   "Claude Code 插件"
+  ],
+  "domain": "SEO/内容营销工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: claude plugin marketplace add gbessoni/seobuild-onpage && claude plugin install seobuild-onpage@seobuild",
+   "L13: `/seoagi \"airport parking JFK\"` pulls the current SERP, analyzes what's ranking, finds the gaps in their content, and wr",
+   "L31: - **The Anti-Hallucination Meta-Directive** -- a new MASTER RULE at the top of SKILL.md. LLMs are trained on fifteen yea"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     6,
+     9
+    ],
+    "note": "以 Claude Code 插件形式安装运行，官方 plugin marketplace 通道",
+    "quotes": [
+     "claude plugin marketplace add gbessoni/seobuild-onpage && claude plugin install seobuild-onpage@seobuild",
+     "Not on Claude Code? See Install + Setup for Codex, OpenClaw, and manual clone."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     9,
+     307
+    ],
+    "quotes": [
+     "Not on Claude Code? See Install + Setup for Codex, OpenClaw, and manual clone.",
+     "git clone https://github.com/gbessoni/seobuild-onpage.git ~/.claude/skills/seobuild-onpage"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     341
+    ],
+    "note": "窗外行，依赖组件安装，非插件本身主路径",
+    "quotes": [
+     "pip install requests"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "note": "作为运行宿主被提及，另有 Codex/OpenClaw 等替代宿主",
+    "quotes": [
+     "Not on Claude Code? See Install + Setup for Codex, OpenClaw, and manual clone."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     81
+    ],
+    "quotes": [
+     "- **Trust Pilot as Tier 1 Tributary** -- added to the Tributary Trust Protocol as a first-class Tier 1 asset. Trustpilot"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     122
+    ],
+    "quotes": [
+     "- **AI Summary Nuggets** -- every page opens with a 200-character fact-dense block designed for Perplexity/Gemini/ChatGP"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

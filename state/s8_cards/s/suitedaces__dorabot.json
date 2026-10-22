@@ -1,0 +1,156 @@
+{
+ "fn": "suitedaces/dorabot",
+ "sha": "d04be60e2225",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 常驻自主 AI agent 桌面应用，带 IDE 工作区与多渠道消息",
+  "review": "运行在 macOS 上的 Electron 桌面应用：内置 IDE 式工作区（文件浏览、Monaco 编辑器、Git 面板、PTY 终端），agent 可自主设定目标、执行计划、运行定时任务、进行浏览器自动化，并通过 WhatsApp/Telegram 与用户交互。提供跨会话持久记忆（SOUL.md/USER.md/MEMORY.md）、内置技能与 MCP 服务器接入（Smithery）。模型依赖用户自有的 Claude Code / OpenAI Codex 订阅或 API key，本体不附带模型。数据本地运行，无云端中转。",
+  "highlights": [
+   "agent 自主目标/计划/执行流水线，含研究与任务调度（cron、iCal RRULE、Apple Calendar 同步）",
+   "跨会话持久记忆与全文检索（SOUL/USER/MEMORY 配置文件）",
+   "浏览器自动化 40+ 操作，使用用户已登录的 Chrome profile",
+   "本地运行、token 认证网关、macOS 原生沙箱，依赖锁定精确版本"
+  ],
+  "use_cases": [
+   "让 AI agent 全天候自主处理研究与任务并主动发消息汇报",
+   "通过 Telegram/WhatsApp 与同一 agent 保持连续记忆的对话",
+   "在集成了 agent 的 IDE 工作区中管理和执行工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent",
+   "个人助理",
+   "桌面应用",
+   "浏览器自动化",
+   "定时任务"
+  ],
+  "domain": "桌面 AI Agent/个人助理",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Cursor"
+  ],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  **A 24/7 self-learning AI agent with an integrated IDE workspace that runs itself.**",
+   "L16: The agent manages its own goals, tracks research, messages you on Telegram and WhatsApp, runs scheduled tasks, and remem",
+   "L56: - **Multi-provider.** Claude, OpenAI Codex, MiniMax. Use the model you're already paying for."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     10,
+     67,
+     119
+    ],
+    "note": "复用用户的 Claude Code 订阅或 Claude API key，非自带模型",
+    "quotes": [
+     " Works with your existing Claude Code or OpenAI Codex subscription. No extra API key needed.",
+     "**Requires:** macOS + a Claude Code or OpenAI Codex subscription (or any API key: Claude, OpenAI, MiniMax).",
+     "If you have a Claude Code or OpenAI Codex subscription, you're good to go. Otherwise, any API key works (Claude, OpenAI,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69,
+     72
+    ],
+    "quotes": [
+     "### Build from source",
+     "git clone https://github.com/suitedaces/dorabot.git && cd dorabot"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     73
+    ],
+    "quotes": [
+     "npm install && npm run build && npm link"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     124
+    ],
+    "note": "FAQ 中对比说明定位差异，非自称替代",
+    "quotes": [
+     " How is this different from Claude Code / Cursor?"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "competitor",
+    "lines": [
+     124
+    ],
+    "note": "FAQ 中直接对比定位差异",
+    "quotes": [
+     " How is this different from Claude Code / Cursor?"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

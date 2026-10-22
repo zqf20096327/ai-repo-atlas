@@ -1,0 +1,240 @@
+{
+ "fn": "vEduardovich/dodari",
+ "sha": "9f76874b6eba",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向读者的多语言 AI 整书翻译工具：翻译 EPUB/PDF/TXT",
+  "review": "Dodari 2 是多语言 AI 翻译应用，读取 EPUB、PDF、TXT 文档并生成译文，支持 12 种语言互译、自动语言与书籍体裁检测、可选翻译语气风格、术语表一致性。翻译引擎有两种：Claude/ChatGPT 订阅用户经官方 CLI（如 claude-haiku-5-5）调用自有订阅，或本地 Gemma 模型（Ollama/MLX/vLLM）。输出双语对照与纯译文两个文件；PDF 译文保存为 EPUB 以保留排版。以 Gradio Web 界面运行（127.0.0.1:7860），提供 Mac/Windows/Linux 启动脚本，另附给 Codex/Claude Code 的 AI 助手安装指引。本地模型路径对硬件有明确要求（Windows 推荐 24GB VRAM）。",
+  "highlights": [
+   "EPUB/PDF/TXT 整书翻译，输出原文对照与纯译文两份文件",
+   "自动语言检测、体裁检测与可选取翻译风格",
+   "支持 Claude/ChatGPT 订阅 CLI 或本地 Gemma 模型两种引擎",
+   "AI 抽取术语表并在全书保持译名一致"
+  ],
+  "use_cases": [
+   "把外语小说或技术书整本翻译成母语阅读",
+   "订阅了 Claude/ChatGPT 的用户用现有订阅完成翻译",
+   "在本地电脑离线用 Gemma 模型翻译电子书"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": "gpu-24g",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "电子书翻译",
+   "多语言",
+   "本地LLM",
+   "Gradio",
+   "阅读工具"
+  ],
+  "domain": "文档翻译/电子书",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "vllm",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "韩英双语 README"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: Dodari 2 is a multilingual AI translator that translates EPUB, PDF, and TXT documents with genre-aware, context-sensitiv",
+   "L22: 1. Translates `EPUB (e-books)`, `PDF`, and `TXT` files.",
+   "L31: 10. Claude and ChatGPT (Codex) subscribers can translate with their own subscription via the official CLI, and pick the "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     9,
+     31,
+     108
+    ],
+    "quotes": [
+     "* Required app: Codex or Claude Code",
+     "10. Claude and ChatGPT (Codex) subscribers can translate with their own subscription via the official CLI, and pick the ",
+     "The Claude (subscription CLI) engine translates with the Haiku model (`claude-haiku-5-5`) at reasoning effort max. Pick "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     127,
+     130,
+     173
+    ],
+    "note": "Ubuntu 下可用的本地推理后端选项",
+    "quotes": [
+     "Your settings are kept. Dodari saves your UI choices in `ui_config.local.json`. To change a setting such as the Ubuntu v",
+     "{\"vllm\": {\"gpu_memory_utilization\": 0.85}}",
+     "- Do not download local AI models, Ollama, MLX or vLLM. Do not translate the user's files yourself."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     157,
+     159,
+     160,
+     162
+    ],
+    "note": "Windows 本地模型经 Ollama 管理",
+    "quotes": [
+     "1. Remove Ollama models:",
+     "ollama rm gemma4:e4b",
+     "ollama rm gemma4:31b",
+     "2. Uninstall Ollama:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     101,
+     202,
+     203
+    ],
+    "quotes": [
+     "git clone https://github.com/vEduardovich/dodari.git",
+     "- macOS / Linux: `git clone https://github.com/vEduardovich/dodari.git ~/dodari >> ~/dodari_install.log 2>&1`",
+     "- Windows: `git clone https://github.com/vEduardovich/dodari.git \"%USERPROFILE%\\dodari\" >> \"%USERPROFILE%\\dodari_install"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     188,
+     189,
+     190
+    ],
+    "note": "安装 git/Python/Node 等前置工具，非本产品安装途径",
+    "quotes": [
+     "|git|both engines|`git --version`|`xcode-select --install` (a system dialog opens: tell the user to click **Install**) o",
+     "|Python 3.11+|both engines|macOS / Linux: `python3.14`, `python3.13`, `python3.12`, `python3.11` or `python3` with `--ve",
+     "|Node.js + npm|`codex-cli`|`node --version` and `npm --version`|`brew install node`|`winget install --id OpenJS.NodeJS.L"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     191
+    ],
+    "note": "安装 codex CLI 引擎依赖，非本产品安装命令",
+    "quotes": [
+     "|codex CLI|`codex-cli`|`codex --version`|`npm install -g @openai/codex`|`npm install -g @openai/codex`|`npm install -g @"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "24 GB VRAM",
+    "rel": "support",
+    "lines": [
+     75
+    ],
+    "note": "Windows 运行 31b 高质量本地模型的推荐配置",
+    "quotes": [
+     " 24 GB VRAM or more"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     175
+    ],
+    "note": "作为安装入口与引擎 CLI 被使用，非竞品",
+    "quotes": [
+     "* Required app: Codex or Claude Code",
+     "- Claude Code: ask the user before installing system tools."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     10,
+     31,
+     210
+    ],
+    "note": "订阅经 codex CLI 作为翻译引擎",
+    "quotes": [
+     "* Minimum plan: ChatGPT Plus or higher, or Claude Pro or higher",
+     "10. Claude and ChatGPT (Codex) subscribers can translate with their own subscription via the official CLI, and pick the ",
+     "- Engine: ChatGPT (`codex-cli`, `gpt-6-luna`, `max`) by default. Use Claude (`claude-cli`, `claude-haiku-5-5`, `max`) if"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "note": "模型缓存目录所在平台",
+    "quotes": [
+     "Delete the folders under `~/.cache/huggingface/hub`."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "fn": "Somnusochi/VLM-AutoYOLO",
+ "sha": "766a3ecc888a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "VLM 自动标注与 YOLO 训练一体化平台",
+  "review": "面向目标检测数据准备的端到端 Web 平台：上传图片或视频，用 NVIDIA LocateAnything-3B 开放词汇检测做 VLM 预标注，SAM2.1/SAM3 将框精化为像素级掩码，支持画布人工修正，导出 YOLO/YOLO-Seg/COCO/VOC/CreateML 五种格式，并可一键训练 YOLOv8/v11/v26（检测与分割）、批量验证模型。后端 FastAPI+PostgreSQL，前端 React；GPU 加速支持 macOS MPS 与 NVIDIA CUDA，不支持纯 CPU。提供 CLI、Docker 与手动三种部署方式。",
+  "highlights": [
+   "LocateAnything-3B 开放词汇 VLM 自动标注",
+   "SAM2.1/SAM3 框到像素级掩码精化与人工修正",
+   "五格式导出与一键 YOLO 训练（检测/分割，SSE 实时进度）",
+   "视频关键帧提取（场景/运动/间隔三种模式）与批量模型验证"
+  ],
+  "use_cases": [
+   "为自建数据集做目标检测自动标注并人工修正",
+   "从标注到 YOLO 模型训练与验证的一站式流水线",
+   "从视频中提取关键帧并批量标注"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自动标注",
+   "目标检测",
+   "数据集构建",
+   "模型训练",
+   "计算机视觉"
+  ],
+  "domain": "计算机视觉/数据标注与模型训练",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "提供中文用户指南"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: **Images or videos in → YOLO model out**, with VLM auto-labeling (LocateAnything-3B), SAM2.1 / SAM3 mask refinement, and",
+   "L26: - 🤖 **VLM auto-labeling**: Open-vocabulary object detection with LocateAnything-3B"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     72,
+     106
+    ],
+    "note": "git clone 后经 CLI 或手动脚本运行",
+    "quotes": [
+     "git clone https://github.com/Somnusochi/VLM-AutoYOLO.git",
+     "git clone https://github.com/Somnusochi/VLM-AutoYOLO.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     98,
+     108
+    ],
+    "note": "预构建镜像或源码构建两种方式",
+    "quotes": [
+     "docker compose up -d",
+     "docker compose up -d --build"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     77
+    ],
+    "note": "CLI 自动执行 pip install 依赖，非本产品发布为 pip 包",
+    "quotes": [
+     "The CLI handles everything: dependency checks, Python venv, pip install, pnpm install, database migrations, and launches"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     77
+    ],
+    "note": "CLI 自动执行 pnpm/npm 安装前端依赖",
+    "quotes": [
+     "The CLI handles everything: dependency checks, Python venv, pip install, pnpm install, database migrations, and launches"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "12GB VRAM",
+    "rel": "support",
+    "lines": [
+     143
+    ],
+    "note": "NVIDIA GPU 最低显存要求",
+    "quotes": [
+     "|NVIDIA GPU|12GB VRAM|16GB+|"
+    ]
+   },
+   {
+    "term": "VRAM|16GB",
+    "rel": "support",
+    "lines": [
+     143
+    ],
+    "note": "推荐 16GB+ 显存",
+    "quotes": [
+     "|NVIDIA GPU|12GB VRAM|16GB+|"
+    ]
+   },
+   {
+    "term": "RAM|16GB",
+    "rel": "support",
+    "lines": [
+     143
+    ],
+    "note": "同表列出 macOS Apple Silicon 16GB 统一内存为最低要求（行 142）",
+    "quotes": [
+     "|NVIDIA GPU|12GB VRAM|16GB+|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     157,
+     210
+    ],
+    "note": "模型下载来源与 HF_TOKEN 获取渠道，非替代/竞品",
+    "quotes": [
+     "huggingface-cli download nvidia/LocateAnything-3B --local-dir backend/model",
+     " 1. Open huggingface.co/facebook/sam3 in browser, click **\"Agree and access repository\"**"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

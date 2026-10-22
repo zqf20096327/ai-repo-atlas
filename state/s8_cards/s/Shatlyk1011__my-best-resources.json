@@ -1,0 +1,102 @@
+{
+ "fn": "Shatlyk1011/my-best-resources",
+ "sha": "17b24fe65f2d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向前端开发者与设计师的资源清单（设计/组件/图库/AI 工具）",
+  "review": "个人维护的观点式（Opinionated）资源目录：按设计灵感、技能、开源组件库、图库图标、视频编辑、AI 工具、其他工具等类别收录站点与库，每个条目附简介与技术栈标签（如 Tailwind/React/GSAP）。含少量 AI 相关技能（Claude skill、Procedural Film）与 AI 工具（Ideogram、Magic Patterns 等）。无安装与运行方式，README 另附 YouTube 视频演示，声明将持续更新。",
+  "highlights": [
+   "按 7 个类别组织资源条目，附简介与技术栈标签",
+   "收录 Shad CN、Aceternity UI 等开源组件库",
+   "含 AI 工具与 Claude 技能条目",
+   "配套 YouTube 视频演示各资源实际效果"
+  ],
+  "use_cases": [
+   "寻找网页设计灵感与参考站点",
+   "查找可定制的开源 React/Tailwind 组件库",
+   "了解前端开发常用的图片、图标与压缩工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "YouTube 视频（README 提及，未给出链接行内 URL）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "资源清单",
+   "前端开发",
+   "设计",
+   "UI组件",
+   "工具目录"
+  ],
+  "domain": "Web 开发/设计资源",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # The Best Resources for Web Developers and Designers (Opinionated)",
+   "L3: A list of awesome resources to make a developer's life easier.",
+   "L6: ### List of Resources"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "条目提及 Claude skill，仅列举非接入",
+    "quotes": [
+     "|Anatomy|Claude skill for interactive isometric SVG, WebGL, and 3D visuals, compatible with major AI coding tools|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

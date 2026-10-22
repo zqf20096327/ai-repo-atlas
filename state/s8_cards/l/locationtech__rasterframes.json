@@ -1,0 +1,88 @@
+{
+ "fn": "locationtech/rasterframes",
+ "sha": "68ef4367c173",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 Spark DataFrame 提供地理空间栅格数据支持的库",
+  "review": "面向地球观测（EO）数据分析场景的 Spark 扩展库：在任意栅格数据之上提供以 DataFrame 为核心的视图，支持时空查询与地图代数栅格运算，并兼容 Spark ML 算法生态，使一般分析师可在数据量持续增长的情况下进行可扩展的 EO 数据分析。以 Scala/Spark 库形式提供，入门路径见用户手册的 Getting Started 章节；同时提供 Jupyter Notebook Docker 镜像作为用户资源。采用 Apache 2.0 许可，版权归属 Astraea, Inc.。",
+  "highlights": [
+   "DataFrame 中心视图覆盖任意栅格数据",
+   "支持时空查询与地图代数栅格运算",
+   "与 Spark ML 算法生态兼容",
+   "提供 Jupyter Notebook Docker 镜像作为用户资源"
+  ],
+  "use_cases": [
+   "在 Spark 中对卫星遥感栅格数据做时空查询与分析",
+   "构建基于 Spark ML 的遥感机器学习流水线",
+   "以 DataFrame 方式组织大规模地球观测数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "遥感/地球观测",
+   "地理空间数据",
+   "Spark大数据",
+   "机器学习流水线"
+  ],
+  "domain": "地球观测/地理空间大数据",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: RasterFrames® brings together Earth-observation (EO) data access, cloud computing, and DataFrame-based data science. The",
+   "L7: RasterFrames provides a DataFrame-centric view over arbitrary raster data, enabling spatiotemporal queries, map algebra "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

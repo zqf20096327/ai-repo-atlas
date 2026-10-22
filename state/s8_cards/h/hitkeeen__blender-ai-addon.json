@@ -1,0 +1,188 @@
+{
+ "fn": "hitkeeen/blender-ai-addon",
+ "sha": "8662d4f1d874",
+ "source": "readme",
+ "identity": {
+  "one_liner": "通过聊天/图片让 AI 生成 bpy 代码直接改 3D 场景的 Blender 插件",
+  "review": "面向 Blender 用户的 AI 代理插件：在 3D 视口侧边栏以文字或图片描述需求，内置的 OpenCode 代理生成 Python（bpy）代码并由插件自动执行，出错时代理会收到错误日志并自行修复脚本。首次启动时插件自动下载便携版 OpenCode 运行时（约 80MB），不写入系统；支持 OpenAI、OpenRouter、Anthropic、Groq、DeepSeek 及本地 Ollama 等提供方，图片输入需 vision 模型。通过配置文件限制代理权限（禁用 shell、仅可改工作目录文件）。以 Releases zip 或源码打包方式安装。",
+  "highlights": [
+   "文字/图片输入 → 自动生成并执行 bpy 代码，出错自动修复（Auto-run + Auto-fix）",
+   "首次启动自动下载便携版 OpenCode 运行时（约 80MB），无需系统级安装",
+   "支持 OpenAI/OpenRouter/Anthropic/Groq/DeepSeek/本地 Ollama 六种提供方",
+   "安全配置：禁用 shell，文件修改仅限工作目录"
+  ],
+  "use_cases": [
+   "用自然语言在 Blender 里快速生成或修改 3D 模型",
+   "用截图或参考图让 AI 按图建模（需 vision 模型）",
+   "出错时让代理根据错误日志自动修正生成的脚本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Blender插件",
+   "AI代理",
+   "3D建模",
+   "代码生成",
+   "生成式AI"
+  ],
+  "domain": "3D 图形/AI 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq",
+   "openrouter",
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Add-on для Blender, который превращает вьюпорт в чат с **агентом OpenCode**. Опишите словами или покажите картинкой, что",
+   "L21: - **Auto-run + Auto-fix** — сгенерированный код выполняется автоматически; при ошибке агент получает лог и чинит скрипт "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     22,
+     49
+    ],
+    "quotes": [
+     "- **Провайдеры** — OpenAI, OpenRouter, Anthropic, Groq, DeepSeek, локальная Ollama",
+     "|DeepSeek|`DEEPSEEK_API_KEY`|`deepseek-chat`|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     22,
+     48
+    ],
+    "quotes": [
+     "- **Провайдеры** — OpenAI, OpenRouter, Anthropic, Groq, DeepSeek, локальная Ollama",
+     "|Groq|`GROQ_API_KEY`|`llama-3.2-90b-vision`|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     22,
+     46
+    ],
+    "quotes": [
+     "- **Провайдеры** — OpenAI, OpenRouter, Anthropic, Groq, DeepSeek, локальная Ollama",
+     "|OpenRouter|`OPENROUTER_API_KEY`|`anthropic/claude-sonnet-4`|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     22,
+     50
+    ],
+    "quotes": [
+     "- **Провайдеры** — OpenAI, OpenRouter, Anthropic, Groq, DeepSeek, локальная Ollama",
+     "|Ollama (локально)|не нужен|`llava`|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     46,
+     47,
+     52
+    ],
+    "quotes": [
+     "|OpenRouter|`OPENROUTER_API_KEY`|`anthropic/claude-sonnet-4`|",
+     "|Anthropic|`ANTHROPIC_API_KEY`|`claude-sonnet-4`|",
+     "Для работы с картинками нужна vision-модель (`gpt-4o`, `claude-*`, `llava`)."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     35,
+     37
+    ],
+    "note": "源码打包为 zip 后经 Blender 插件管理器安装",
+    "quotes": [
+     "### Из исходников",
+     "git clone https://github.com/BlenderGPT3D/blender-ai-addon.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "none",
+    "lines": [
+     1,
+     29,
+     59
+    ],
+    "note": "误命中：'AI Copilot' 为本插件自身命名，非指 GitHub Copilot 产品",
+    "quotes": [
+     "# AI Copilot for Blender",
+     "3. Откройте сайдбар (`N`) → вкладка **AI Copilot**",
+     "<blend-user-dir>/datafiles/ai_copilot/"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

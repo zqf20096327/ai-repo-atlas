@@ -1,0 +1,257 @@
+{
+ "fn": "Continuum-AI-Corp/OrcaReplay",
+ "sha": "decadaf49d87",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 运行录制回放调试工具：离线复现任意 agent 运行",
+  "review": "面向编码 agent 的录制/回放/分叉调试工具。原理是本地代理：通过两个环境变量拦截 agent 与模型 API 间的通信，记录请求、流式响应、工具调用与工具结果，回放时从 trace 逐字节应答、阻断网络，无需调用模型；可在任意 checkpoint 分叉到其他模型并对比验证。另有进程/文件快照层捕获退出码与文件写入，`orca show/graph` 输出事件顺序与因果图，`orca export` 导出 SVG/PNG/GIF 失败链路。不修改 agent 本体，支持 opt-in `--tls-intercept` 录制不可重定向的 agent。以 npm 包 orcareplay 提供，安装后得到 orca 命令。",
+  "highlights": [
+   "本地代理 + 两个环境变量录制 agent，无需修改 agent",
+   "回放从 trace 逐字节应答，不联网、不耗 token",
+   "任意 checkpoint 分叉到不同模型，`orca compare` 单变量对比并用命令验证",
+   "`orca show/graph` 输出事件时间线与 recorded/inferred 因果图，可导出失败链路图"
+  ],
+  "use_cases": [
+   "凌晨跑挂的 agent 运行，早上离线逐字节复现定位",
+   "在同一 checkpoint 换模型对比谁能做对，评估模型选型",
+   "捕获并阅读 agent 实际组装的系统提示词",
+   "把失败因果链导出为图片贴进 issue"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent调试",
+   "录制/回放",
+   "LLM可观测性",
+   "模型对比评测",
+   "开发者工具"
+  ],
+  "domain": "LLM 基础设施/agent 调试",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文等多语言版本"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L106: Model APIs are stateless, so on every turn an agent resends the entire conversation — including the",
+   "L110: not patch your agent** — it stands up a local proxy, sets two environment variables, and gets out of",
+   "L37: One npm package named `orcareplay`, which puts one command named `orca` on your PATH. There is no"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     14
+    ],
+    "note": "OrcaRouter 支持的模型列表中提及 Claude",
+    "quotes": [
+     "for Claude, GPT, Gemini, Grok, DeepSeek, Qwen and the rest. It is what `orca setup` points at by"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     14,
+     293
+    ],
+    "note": "模型列表提及",
+    "quotes": [
+     "for Claude, GPT, Gemini, Grok, DeepSeek, Qwen and the rest. It is what `orca setup` points at by",
+     "Enter and you have one origin and one key serving Claude, GPT, Gemini, Grok, DeepSeek, Qwen and the"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     14,
+     293
+    ],
+    "note": "以 Grok 名称出现在模型列表",
+    "quotes": [
+     "for Claude, GPT, Gemini, Grok, DeepSeek, Qwen and the rest. It is what `orca setup` points at by",
+     "Enter and you have one origin and one key serving Claude, GPT, Gemini, Grok, DeepSeek, Qwen and the"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     21
+    ],
+    "note": "外部链接列表中提及",
+    "quotes": [
+     "Connect: X · Discord · Hugging Face · Ollama"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     607
+    ],
+    "note": "窗外行提及，未见专门接入声明",
+    "quotes": [
+     "ORCA_BASE_URL_VARS='OPENROUTER_BASE_URL' orca record generic-openai -- hermes"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "npm i -g orcareplay             # the package is orcareplay; the command it installs is orca"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     767
+    ],
+    "note": "窗外行，未确认为本产品源码安装命令",
+    "quotes": [
+     "git clone https://github.com/Continuum-AI-Corp/OrcaReplay && cd OrcaReplay"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     779,
+     781
+    ],
+    "note": "窗外行，未确认为本产品二进制发布",
+    "quotes": [
+     "On Windows, shell capture writes `.cmd` shims in front of `sh.exe` and `bash.exe` (Git for Windows",
+     "through cmd.exe or PowerShell, and not one an agent starts itself: a Node harness's"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     30,
+     43
+    ],
+    "note": "作为被录制的 agent 示例出现，非替代对象",
+    "quotes": [
+     "Recording a Claude Code run, replaying it offline, then forking it onto two models",
+     "orca record claude              # your agent, unmodified, doing whatever it does"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     99
+    ],
+    "note": "指 Codex CLI 的订阅登录场景",
+    "quotes": [
+     "a ChatGPT subscription talks to its own backend over TLS, with a credential that only that backend"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     548
+    ],
+    "quotes": [
+     "orca record exec --tls-intercept -- cursor ."
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     452
+    ],
+    "quotes": [
+     "|**Vercel AI SDK**|`OPENAI_BASE_URL` via `@ai-sdk/openai` (since 2.0.41) — `orca record generic-openai --`; fetch hook ("
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     457
+    ],
+    "quotes": [
+     "|**LangGraph / LangChain**|`OPENAI_BASE_URL`, `ANTHROPIC_BASE_URL`|works — a two-node graph, streaming and with a tool, "
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     602
+    ],
+    "quotes": [
+     "`NOVITA_BASE_URL`, `GLM_BASE_URL`, `KIMI_BASE_URL`, `MINIMAX_BASE_URL`, `HF_BASE_URL`,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

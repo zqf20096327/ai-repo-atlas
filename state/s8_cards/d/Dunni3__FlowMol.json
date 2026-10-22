@@ -1,0 +1,111 @@
+{
+ "fn": "Dunni3/FlowMol",
+ "sha": "a7d6b1c634c0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向药物设计的 3D 全新分子生成流匹配模型官方实现",
+  "review": "FlowMol3 的官方实现：基于混合连续/分类变量的流匹配与图神经网络，对 3D 分子做无条件全新生成，可采样生成分子并输出为 RDKit 分子或 SDF 文件。提供预训练模型加载（运行时自动下载）、test.py 采样与论文指标计算、train.py 训练、数据集处理脚本（GEOM-Drugs）及 notebook 示例。环境通过 mamba/conda 加 pip install -e . 构建，采样示例使用 .cuda() 暗示 GPU。FlowMol3 为最终版本，附 arXiv 预印本。",
+  "highlights": [
+   "混合连续/分类流匹配的 3D 全新分子生成模型",
+   "flowmol.load_pretrained 加载预训练模型，运行时自动下载",
+   "test.py 支持 SDF 输出、采样轨迹与论文指标计算",
+   "提供 GEOM-Drugs 数据集下载与处理流程及训练脚本"
+  ],
+  "use_cases": [
+   "采样生成全新 3D 小分子用于药物发现研究",
+   "复现论文的分子生成与评测指标",
+   "在 GEOM-Drugs 等数据集上训练自己的生成模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.48550/arXiv.2508.12629",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分子生成",
+   "药物发现",
+   "流匹配",
+   "图神经网络",
+   "计算化学"
+  ],
+  "domain": "计算化学/药物发现",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This is the offical implementation of FlowMol, a flow matching model for unconditional 3D de novo molecule generation. T",
+   "L46: sampled_molecules = model.sample_random_sizes(n_molecules=10, n_timesteps=250) # sample molecules"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     36
+    ],
+    "quotes": [
+     "pip install -e ./"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "notebook 可在 Google Colab 查看，但环境未配置无法运行",
+    "quotes": [
+     "There is a notebook example available here. The notebook contents won't render on github because it includes py3dmol vis"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

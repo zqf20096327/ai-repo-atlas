@@ -1,0 +1,143 @@
+{
+ "fn": "ServiceNow/eva",
+ "sha": "db910cf2a081",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给语音 Agent 开发者与研究者：端到端评测多轮语音对话的开源框架",
+  "review": "EVA 是 ServiceNow 开源的对话式语音 Agent 评测框架：用 bot-to-bot 架构全自动运行多轮语音对话，从语音输入到评判输出，无需人类听者。评分覆盖两个维度——EVA-A（任务完成、语音保真度、忠实度）与 EVA-X（简洁度、轮次切换、延迟、进展）。内置 213 个企业场景（3 个领域）、12 个级联与音频原生系统的结果，以及背景噪声、口音、连接劣化等扰动套件。依赖外部 API key（OpenAI、ElevenLabs、Cartesia、Vertex AI、Bedrock）驱动评判与用户模拟器；OpenAI Realtime 通话器为 beta。提供 CLI、Streamlit 配置编辑器与分析应用、Docker 支持、多语言扩展脚本。",
+  "highlights": [
+   "bot-to-bot 架构全自动评测完整多轮语音对话，无需人类听者",
+   "EVA-A/EVA-X 双维度指标：任务完成、忠实度、简洁度、轮次切换、延迟等",
+   "213 个企业场景（3 领域）+ 噪声/口音/连接劣化扰动套件",
+   "Streamlit 配置编辑器与分析应用，Docker 与多语言（WER 归一化）扩展"
+  ],
+  "use_cases": [
+   "对级联或音频原生语音 Agent 做端到端质量评测",
+   "在噪声、口音、连接劣化等真实音频条件下压测语音 Agent",
+   "横向对比多个语音 Agent 系统并可视化结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    91,
+    95
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音Agent",
+   "评测框架",
+   "ASR/TTS",
+   "基准测试",
+   "语音AI"
+  ],
+  "domain": "语音 Agent 评测/语音 AI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "bedrock"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **EVA** is an open-source evaluation framework for conversational voice agents that scores complete, multi-turn spoken c",
+   "L16: Using a realistic **bot-to-bot architecture**, EVA runs fully automated evaluations without human listeners — end to end"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     79
+    ],
+    "note": "Claude 经 Bedrock 用作忠实度指标的评判模型",
+    "quotes": [
+     "- `AWS_ACCESS_KEY_ID` + `AWS_SECRET_ACCESS_KEY`: Claude via Bedrock (faithfulness metric)"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "compat",
+    "lines": [
+     79
+    ],
+    "note": "Claude via Bedrock 承担 faithfulness 指标评判",
+    "quotes": [
+     "- `AWS_ACCESS_KEY_ID` + `AWS_SECRET_ACCESS_KEY`: Claude via Bedrock (faithfulness metric)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     30,
+     35
+    ],
+    "quotes": [
+     "git clone https://github.com/ServiceNow/eva.git --branch latest --depth 1 --no-tags --single-branch",
+     "git clone https://github.com/ServiceNow/eva.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     223,
+     226
+    ],
+    "quotes": [
+     "docker compose build",
+     "docker compose run --rm benchmark"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

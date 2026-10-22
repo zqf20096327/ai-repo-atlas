@@ -1,0 +1,258 @@
+{
+ "fn": "llamastash/llamastash",
+ "sha": "51e5307410d1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端本地 LLM 编排器：一个二进制统一运行多引擎与模型",
+  "review": "Rust 编写的单二进制工具，集 TUI、CLI、守护进程与 OpenAI 兼容代理于一体，用于运行本地 LLM。默认后端为 llama.cpp（零开销直连），另支持 vLLM、SGLang 及通过通用后端接入任意 OpenAI 兼容服务器（含 Lemonade NPU、FastFlowLM、whisper.cpp 等）。init 向导检测硬件、安装 llama-server、下载启动 GGUF；自动扫描 HuggingFace/Ollama/LM Studio 缓存；代理默认绑定回环端口 11435，提供 OpenAI 与 Anthropic Messages API，并可选 Ollama drop-in 兼容模式。面向开发者与 agent 脚本场景。",
+  "highlights": [
+   "单 Rust 二进制同时充当 TUI、CLI、守护进程与 OpenAI 兼容代理",
+   "默认 llama.cpp 零开销后端，vLLM/SGLang 与通用后端可扩展",
+   "自动扫描 HuggingFace/Ollama/LM Studio 模型缓存并提供 VRAM 适配推荐",
+   "面向 agent 的稳定 CLI 契约（--json、文档化退出码）"
+  ],
+  "use_cases": [
+   "在终端统一管理并启动本地多个 LLM 引擎与模型",
+   "让 Claude Code、OpenCode、Aider 等工具通过本地代理使用任意模型",
+   "为 AI agent 提供可脚本化的本地模型管理 CLI"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM运行",
+   "模型编排",
+   "终端TUI工具",
+   "OpenAI兼容代理",
+   "llama.cpp生态"
+  ],
+  "domain": "LLM 基础设施/本地推理编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp",
+   "vllm",
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: **Zero-overhead, terminal-native local-LLM orchestrator. Run any engine, any model via the same proxy.**",
+   "L20: A fast TUI **and** CLI with init wizard for running local LLMs. One Rust binary that's a TUI, a CLI, a daemon, and an Op",
+   "L30: Heavy abstractions (Ollama, LM Studio) hide llama.cpp; raw `llama-server` use is tedious. LlamaStash is a fast, transpar"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "support",
+    "lines": [
+     20,
+     47,
+     125
+    ],
+    "quotes": [
+     "A fast TUI **and** CLI with init wizard for running local LLMs. One Rust binary that's a TUI, a CLI, a daemon, and an Op",
+     "Then run `llamastash init` — the interactive wizard installs `llama-server` for your hardware, downloads a starter GGUF,",
+     "- `llamastash init` — first-run wizard that detects hardware, installs `llama-server`, picks + downloads a starter GGUF,"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     20,
+     85
+    ],
+    "note": "作为 safetensors 模型的可选后端",
+    "quotes": [
+     "A fast TUI **and** CLI with init wizard for running local LLMs. One Rust binary that's a TUI, a CLI, a daemon, and an Op",
+     "Full subcommand reference: `docs/usage.md`. Proxy client setup (including an OpenCode example): `docs/usage.md#opencode-"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     168,
+     173,
+     174
+    ],
+    "note": "提供 Ollama drop-in 兼容模式与缓存扫描",
+    "quotes": [
+     "### Drop-in OpenAI + Ollama proxy",
+     "- Ollama discovery surface — `GET /api/tags` / `/api/version` / `/api/ps`, `POST /api/show` so tools that auto-detect Ol",
+     "- **Ollama drop-in mode is opt-in.** Enable with `--ollama-compat` (or `proxy.ollama_compat: true` / `LLAMASTASH_OLLAMA_"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     171
+    ],
+    "note": "代理提供 Anthropic Messages API 端点转发",
+    "quotes": [
+     "- Anthropic Messages API on the same proxy — `/v1/messages` + `/v1/messages/count_tokens` forward to llama-server's nati"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "提及 ds4 后端用于 DeepSeek-V4",
+    "quotes": [
+     "A fast TUI **and** CLI with init wizard for running local LLMs. One Rust binary that's a TUI, a CLI, a daemon, and an Op"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "crates.io"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "note": "npx 安装的是 agent 技能包，非本产品本体",
+    "quotes": [
+     "npx skills add llamastash/llamastash"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     199
+    ],
+    "quotes": [
+     "- **Engines LlamaStash has no backend for.** Declare a binary (or a wrapper script around `docker run`), its args with `"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     369
+    ],
+    "quotes": [
+     "- `kdash` — Kubernetes dashboard TUI by the same author. LlamaStash borrows its engineering and release scaffolding from"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     143
+    ],
+    "note": "上下文自动适配逻辑覆盖 CPU-only 场景，非自身硬件门槛",
+    "quotes": [
+     "- Intelligent context auto-fit — when `ctx` is unset, llamastash picks the largest context that fits free VRAM (or RAM, "
+    ]
+   },
+   {
+    "term": "4 GiB VRAM",
+    "rel": "mention",
+    "lines": [
+     243
+    ],
+    "quotes": [
+     "### NVIDIA - Linux (RTX 3050 Ti, 4 GiB VRAM, llama.cpp build `b9360`)"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     99,
+     165,
+     171
+    ],
+    "note": "作为集成目标被提及",
+    "quotes": [
+     "**Claude Code plugin marketplace:** install the repo as a plugin, then install the bundled skill:",
+     "- [`llamastash session <tool> [model]`](docs/usage.md#llamastash-session-tool-model) — launch Claude Code, Codex, OpenCo",
+     "- Anthropic Messages API on the same proxy — `/v1/messages` + `/v1/messages/count_tokens` forward to llama-server's nati"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     131,
+     152
+    ],
+    "note": "缓存扫描与模型浏览器来源",
+    "quotes": [
+     "- Auto-scans HuggingFace, Ollama, and LM Studio caches, plus user paths.",
+     "- In-TUI HuggingFace browser — search, sort, paginate, per-file hardware fit, download strip with cancel."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

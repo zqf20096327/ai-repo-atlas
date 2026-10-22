@@ -1,0 +1,135 @@
+{
+ "fn": "Saganaki22/Pixal3D-ComfyUI",
+ "sha": "0f6c7b79baae",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 图生 3D 节点：本地运行 TencentARC Pixal3D 并导出带纹理 GLB",
+  "review": "ComfyUI 自定义节点集合，封装 TencentARC/Pixal3D 模型在本地执行图像到 3D 生成，提供环境检查、模型加载、手动相机控制（FOV/距离/网格缩放）、带纹理 GLB 导出与模型卸载六个节点。要求 CUDA GPU（不支持纯 CPU），依赖 FlashAttention 2/3、多个 Pixal3D CUDA 内核 wheel 及 NATTEN（可选，缺失时可回退 DINO 投影特征）。Windows 提供预编译 wheel 安装路径与 VRAM 分级配置，模型权重需手动下载或自动下载。",
+  "highlights": [
+   "图像到 3D 生成并导出带纹理 .glb",
+   "手动相机控制（FOV、距离、网格缩放）与 Scene/POV 预览",
+   "NAF 缺失 CUDA NATTEN 时的回退模式与多档 VRAM 配置",
+   "非方形输入自动补边为方形，避免拉伸"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中从单张图片生成 3D 模型",
+   "控制相机参数生成指定视角的 3D 资产",
+   "导出可调面数与纹理尺寸的 GLB 供预览使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI节点",
+   "图生3D",
+   "3D资产生成",
+   "本地推理"
+  ],
+  "domain": "3D 生成/ComfyUI 生态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文 README 链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ComfyUI custom nodes for TencentARC/Pixal3D: image-to-3D generation, textured GLB export, FlashAttention 2/3 selection, ",
+   "L190: |Pixal3D Image To 3D|Runs image-to-3D generation|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "git clone https://github.com/Saganaki22/Pixal3D-ComfyUI.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "python -m pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "note": "明确声明不支持纯 CPU，需 CUDA GPU",
+    "quotes": [
+     "|PyTorch CUDA|`torch.cuda.is_available() == True`|CPU-only is not supported|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "作为模型与 wheel 的下载渠道被提及",
+    "quotes": [
+     "  \"https://huggingface.co/drbaph/NATTEN-0.21.6-torch2100cu130-cp312-cp312-win_amd64/resolve/main/natten-0.21.6+torch2100"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

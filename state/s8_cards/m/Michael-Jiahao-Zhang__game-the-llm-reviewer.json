@@ -1,0 +1,172 @@
+{
+ "fn": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
+ "sha": "3520ac3c5344",
+ "source": "readme",
+ "identity": {
+  "one_liner": "投稿前防御性润色 agent 技能：按 LLM 审稿偏好改写论文措辞",
+  "review": "一个 Agent Skills 兼容的技能包（SKILL.md 格式），供 Claude Code、Codex、Cursor、GitHub Copilot 等编码 agent 加载使用。基于 LLM 审稿偏好研究的发现，在论文定稿后做最后一轮措辞编辑：从 S1–S5 六种修辞策略（贡献立场、证据框架、范围表述等）中选择适用改动，用 S6 等价性检查确保科学含义、引用与局限不变，输出修改稿与逐条变更说明。技能本体无运行时依赖，无需查询审稿模型；安装需 Node.js 的 Skills CLI 或 git clone 手动复制。附学术诚信边界声明：伪造结果、夸大新颖性、隐藏指令均在范围之外。",
+  "highlights": [
+   "S1–S6 六种保义编辑策略与等价性检查",
+   "兼容 Claude Code / Codex / Cursor / Copilot 等 Agent Skills 生态",
+   "输出修改稿与逐条变更说明（changes.md）",
+   "技能本体无运行时依赖，不查询审稿模型"
+  ],
+  "use_cases": [
+   "论文投稿前针对 LLM 审稿偏好做最后一轮措辞润色",
+   "只改摘要或理论部分等特定章节时使用现成提示词",
+   "与既有写作流程（AutoResearchClaw、Claude Scholar 等）衔接作最终处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学术写作",
+   "agent技能",
+   "同行评审",
+   "提示工程",
+   "科研工具"
+  ],
+  "domain": "学术写作/同行评审",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本",
+   "中文导语说明技能用途"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Game the LLM Reviewer turns findings from studies of LLM review preferences into an **agent-compatible skill** for a fin",
+   "L30: This skill provides a final, defensive editing pass after ordinary polishing. It selects wording that aligns with docume"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     51,
+     97
+    ],
+    "note": "兼容 Claude Code 并提供其专属安装命令，属配合使用的宿主 agent",
+    "quotes": [
+     " &nbsp; Claude&nbsp;Code &nbsp; · &nbsp;",
+     "npx skills add Michael-Jiahao-Zhang/game-the-llm-reviewer --skill game-the-llm-reviewer -a claude-code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     76,
+     97
+    ],
+    "quotes": [
+     "npx skills add Michael-Jiahao-Zhang/game-the-llm-reviewer --skill game-the-llm-reviewer",
+     "npx skills add Michael-Jiahao-Zhang/game-the-llm-reviewer --skill game-the-llm-reviewer -a claude-code"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     106
+    ],
+    "quotes": [
+     "git clone https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     " &nbsp; Cursor &nbsp; · &nbsp;"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "quotes": [
+     " &nbsp; GitHub&nbsp;Copilot &nbsp; · &nbsp;"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "quotes": [
+     " &nbsp; Kimi&nbsp;Code&nbsp;CLI &nbsp; · &nbsp;"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "quotes": [
+     " &nbsp; Qwen&nbsp;Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

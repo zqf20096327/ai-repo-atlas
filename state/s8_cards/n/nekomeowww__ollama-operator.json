@@ -1,0 +1,150 @@
+{
+ "fn": "nekomeowww/ollama-operator",
+ "sha": "f82b60551f9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Kubernetes 上运行 Ollama 大模型的运维算子",
+  "review": "基于 Ollama 的 Kubernetes Operator：通过 CRD（Model CR）声明式地在集群中部署大模型，自动创建 gRPC 推理服务 Deployment 与存储模型镜像的 StatefulSet/PersistentVolume，实现同一集群运行多个模型、节点级镜像共享、经 Service/Ingress 暴露。兼容 Ollama 模型、API 与 CLI，支持任意 GGUF 格式模型，附带 kollama 命令行工具简化操作。依托 llama.cpp，无需 Python 环境与 CUDA 驱动；可在通用集群、K3s（树莓派/TrueNAS）、kind、minikube 上运行，无除 Kubernetes 外的额外依赖。",
+  "highlights": [
+   "声明式 Model CRD 在集群中部署多个 LLM 推理服务",
+   "兼容 Ollama 全部模型、API 与 CLI，支持 GGUF 模型打包",
+   "附带 kollama CLI 一条命令部署并暴露模型",
+   "仅需 Kubernetes，支持 K3s/kind/minikube 等环境"
+  ],
+  "use_cases": [
+   "在 Kubernetes 集群上集中运行和共享多个本地大模型",
+   "用声明式配置管理模型部署与持久化存储",
+   "把集群内模型通过 Service/Ingress 暴露给应用调用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Kubernetes Operator",
+   "LLM运维",
+   "模型部署",
+   "本地推理"
+  ],
+  "domain": "云原生/LLM 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: - Install the operator on your Kubernetes cluster",
+   "L16: - Apply the needed CRDs",
+   "L155: 1. **Model Inferencing Server**: The model inferencing server is a gRPC server that runs the model and serves the model'"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     9,
+     27
+    ],
+    "quotes": [
+     "> Powered by **Ollama**! 🐫",
+     "- ✅ Compatible with all Ollama models, APIs, and CLI."
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     20,
+     179
+    ],
+    "quotes": [
+     "Thanks to the great works of llama.cpp, **no more worries about Python environment, CUDA drivers.**",
+     "- llama.cpp"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     61
+    ],
+    "quotes": [
+     "> go install github.com/nekomeowww/ollama-operator/cmd/kollama@latest"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8 GB of RAM",
+    "rel": "mention",
+    "lines": [
+     143
+    ],
+    "note": "节点运行 7B/13B/33B 模型的内存要求",
+    "quotes": [
+     "> You should have at least 8 GB of RAM available on your node to run the 7B models, 16 GB to run the 13B models, and 32 "
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "The journey to large language models, AIGC, localized agents, 🦜🔗 Langchain and more is just a few steps away!"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

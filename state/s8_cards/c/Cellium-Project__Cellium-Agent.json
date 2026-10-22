@@ -1,0 +1,140 @@
+{
+ "fn": "Cellium-Project/Cellium-Agent",
+ "sha": "f66d69589d6b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自进化 AI Agent 助手：决策环驱动、失败中学习、多平台接入",
+  "review": "面向终端用户的通用 AI 助手与自扩展 Agent 框架，基于微内核架构（EventBus + DI + BaseTool），支持任意 OpenAI 兼容 API。核心机制是决策环（Control Loop）加贝叶斯 Bandit 的自学习：每轮提取特征、评估规则、选择 action（continue/retry/redirect/compress/terminate）并更新策略。具备三层记忆（人格/会话/长期，FTS5+可选向量）、PEOP 计划-执行-重规划循环、组件热插拔与沙箱隔离、运行时通过自然语言创建新组件。支持 WebUI、QQ、Telegram、飞书、微信接入，提供定时任务与后台事件触发。可选向量检索默认关闭、不依赖外部服务；QQBot 依赖 websockets，飞书需额外安装 lark-oapi。",
+  "highlights": [
+   "决策环 + 贝叶斯 Bandit（Thompson Sampling）实现从失败中学习的自适应决策",
+   "运行时自扩展：Agent 可通过自然语言创建新组件，3 秒热加载生效，带进程隔离沙箱",
+   "三层记忆系统：FTS5 全文 + 可选向量检索混合召回，内置敏感信息脱敏与写入拦截",
+   "多平台接入（WebUI/QQ/Telegram/飞书/微信）与自然语言创建定时任务"
+  ],
+  "use_cases": [
+   "需要一个能自己总结失败经验、避免死循环的个人 AI 助手",
+   "通过 QQ/Telegram/飞书/微信等渠道与 Agent 对话并接收定时任务结果",
+   "让 Agent 在运行时自己编写新工具组件扩展能力",
+   "本地部署带记忆和沙箱隔离的自动化任务助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "自学习/自进化",
+   "多平台机器人",
+   "个人助手",
+   "组件热插拔"
+  ],
+  "domain": "AI Agent/自动化助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README、正文以中文为主",
+   "QQ/飞书/微信等国内平台接入支持",
+   "标签含 qqbot"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: **这是一个自进化AI Agent**",
+   "L30: Cellium Agent 是一个通用的 AI 助手，可以帮助你完成各种任务：",
+   "L40: |**多平台接入**|支持 WebUI、QQ、Telegram、飞书、微信等多平台对话|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     77,
+     82,
+     87,
+     92
+    ],
+    "quotes": [
+     "powershell -Command \"Invoke-WebRequest -Uri 'https://github.com/Cellium-Project/Cellium-Agent/releases/latest/download/C",
+     "curl -LO https://github.com/Cellium-Project/Cellium-Agent/releases/latest/download/Cellium-Agent-Linux.tar.gz && tar -xz",
+     "curl -LO https://github.com/Cellium-Project/Cellium-Agent/releases/latest/download/Cellium-Agent-Linux-ARM64.tar.gz && t",
+     "curl -LO https://github.com/Cellium-Project/Cellium-Agent/releases/latest/download/Cellium-Agent-macOS.tar.gz && tar -xz"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     97,
+     100,
+     120
+    ],
+    "quotes": [
+     "### pip 安装（PyPI）",
+     "pip install cellium-agent",
+     "pip install cellium-agent[lark]"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     123,
+     126,
+     127
+    ],
+    "quotes": [
+     "### 从源码运行",
+     "pip install -r requirements.txt",
+     "python main.py"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

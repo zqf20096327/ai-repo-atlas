@@ -1,0 +1,116 @@
+{
+ "fn": "kaanaksit/odak",
+ "sha": "371132a8e9eb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "光学、图形学与视觉感知的可微分科学计算库，服务光学设计与实验研究",
+  "review": "面向光学科学、计算机图形学与视觉感知的 Python 科学计算库，也是 Computational Light Laboratory 的研究工具包。提供光线追踪、计算全息（computer-generated holography）、色彩转换、Jones 微积分、无透镜成像等模块，基于 PyTorch 实现可微分计算，并含 odak.learn 深度学习方法（示例覆盖 RGB↔YCrCb 转换、神经网络方法等）。面向科研用户，附文档、Computational Light 课程与单元测试，要求在虚拟环境中用 pip 安装，依赖 torch。",
+  "highlights": [
+   "覆盖光线追踪、计算全息、色彩转换、无透镜成像等光学计算模块",
+   "基于 PyTorch 的可微分实现（odak.learn）",
+   "提供文档、Computational Light 课程与单元测试",
+   "附大量使用 Odak 的研究项目（全息显示、近眼显示等）清单"
+  ],
+  "use_cases": [
+   "光学系统的设计与仿真（光线追踪、全息计算）",
+   "视觉感知与显示研究中的可微分建模实验",
+   "科研论文中复用光学计算组件并按 Zenodo 引用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "光学计算",
+   "计算全息",
+   "可微分仿真",
+   "计算机图形学",
+   "科研工具库"
+  ],
+  "domain": "光学/计算成像/图形学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: Odak (pronounced \"O-dac\") is the fundamental library for scientific computing in optical sciences, computer graphics, an",
+   "L77: Here is a simple example on `deep learning` methods with odak:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     26,
+     32,
+     40,
+     41
+    ],
+    "quotes": [
+     "pip3 install odak",
+     "pip3 install git+https://github.com/kaanaksit/odak --upgrade",
+     "pip3 install -r requirements.txt",
+     "pip3 install -e ."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "git clone git@github.com:kaanaksit/odak.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

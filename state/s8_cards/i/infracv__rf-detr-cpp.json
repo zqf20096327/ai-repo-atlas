@@ -1,0 +1,121 @@
+{
+ "fn": "infracv/rf-detr-cpp",
+ "sha": "e70acbdea60c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向生产部署的 RF-DETR C++/TensorRT 推理引擎",
+  "review": "为 Roboflow 的 RF-DETR（DINOv2 backbone 的 DETR 式检测模型）提供纯 C++/TensorRT 推理引擎，覆盖目标检测（nano-large）与实例分割（seg-nano 至 seg-2xlarge），运行时零 Python 依赖。预处理用 GPU CUDA kernel，主机到设备传输为异步 pinned memory，推理调度用 CUDA Graph replay，支持 FP32/FP16/INT8 三种精度，面向 NVIDIA GPU（CC≥8.0）与 Jetson（Orin/Thor/GH200）优化。模型转换需一次性 Python 步骤；另提供 C ABI 供 Python/Rust/Go FFI 调用。限制：仅支持 NVIDIA 硬件，FP16 存在 attention 数值溢出产生 NaN 的已知风险，需回退 FP32。",
+  "highlights": [
+   "检测与实例分割的 C++17/TensorRT 实现，运行时零 Python 依赖",
+   "FP32/FP16/INT8 三种精度，INT8 经 QDQ ONNX 校准",
+   "GPU CUDA 预处理 kernel、异步 pinned memory 传输、CUDA Graph replay",
+   "C ABI（librfdetr_c.so）支持 Python/Rust/Go FFI 调用"
+  ],
+  "use_cases": [
+   "在 NVIDIA GPU/Jetson 上以低延迟部署 RF-DETR 检测或分割",
+   "去掉推理时的 Python/PyTorch 依赖做生产环境部署",
+   "在 C++/Rust/Go 项目中通过 C ABI 集成检测能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "目标检测",
+   "实例分割",
+   "TensorRT/边缘部署",
+   "模型推理"
+  ],
+  "domain": "计算机视觉/推理部署",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: **RF-DETR C++** is a production-grade TensorRT inference engine for RF-DETR, Roboflow's transformer-based real-time obje",
+   "L24: rfdetr::Detections dets = detector.detect(cv::imread(\"image.jpg\"), 0.5f);"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     44,
+     82,
+     84,
+     85
+    ],
+    "quotes": [
+     "git clone https://github.com/infracv/rf-detr-cpp.git",
+     "git clone https://github.com/infracv/rf-detr-cpp.git",
+     "cmake -B build -S . -DCMAKE_BUILD_TYPE=Release -DCMAKE_CUDA_ARCHITECTURES=120",
+     "cmake --build build -j$(nproc)"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "模型转换步骤的 Python 依赖安装，非本产品本体安装",
+    "quotes": [
+     "uv pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

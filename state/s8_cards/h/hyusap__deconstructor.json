@@ -1,0 +1,132 @@
+{
+ "fn": "hyusap/deconstructor",
+ "sha": "cbaf5c96265c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 AI 拆解单词词根词源并可视化的 Web 应用",
+  "review": "基于 Next.js 与 React Flow 的交互式网页应用：用户输入任意单词，由 Claude Sonnet 4.5 分析词源与构成成分，以图形展示各词素（拉丁、希腊等来源）及含义组合。默认走 Anthropic API，需自备 API key；代码内注释示例支持切换 OpenAI 模型，其他供应商可经 Vercel AI SDK 接入。使用 Bun 安装依赖并运行开发服务器，属自部署项目。",
+  "highlights": [
+   "AI 分析单词词源并拆解为词素",
+   "React Flow 图形化展示词构成与来源",
+   "支持通过 Vercel AI SDK 更换模型供应商",
+   "提供深色模式与实时动画"
+  ],
+  "use_cases": [
+   "查询单词的词根构成与词源解释",
+   "语言学习时直观理解单词组合方式",
+   "自部署一个词源可视化小工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "词源学习",
+   "教育工具",
+   "可视化",
+   "Web应用"
+  ],
+  "domain": "语言学习/工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: - 🧠 AI-powered word deconstruction using Claude Sonnet 4.5",
+   "L58: The project currently uses **Anthropic's Claude Sonnet 4.5** as the default model, but supports any provider through the"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     12,
+     58,
+     65,
+     66
+    ],
+    "quotes": [
+     "- 🧠 AI-powered word deconstruction using Claude Sonnet 4.5",
+     "The project currently uses **Anthropic's Claude Sonnet 4.5** as the default model, but supports any provider through the",
+     "// Option 1: Anthropic Claude (current default)",
+     "model: anthropic(\"claude-sonnet-4-5-20250929\"),"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "git clone https://github.com/hyusap/deconstructor.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     58,
+     75
+    ],
+    "note": "被用于接入模型的 SDK，非替代/竞品对象",
+    "quotes": [
+     "The project currently uses **Anthropic's Claude Sonnet 4.5** as the default model, but supports any provider through the",
+     "For other providers (Google Gemini, Mistral, etc.), see the Vercel AI SDK Providers documentation"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

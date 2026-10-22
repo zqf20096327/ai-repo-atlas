@@ -1,0 +1,129 @@
+{
+ "fn": "kontext-security/kontext",
+ "sha": "2dab4e060d8c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI agent 提供本地策略拦截与授权审计的安全运行时",
+  "review": "Kontext 在 AI agent（Claude Code、Claude Cowork、Codex）与工具调用之间插入本地策略层：观察模式下记录策略决策，强制模式在同步 pre-action hook 处拒绝匹配的危险动作，并把决策与结果写入授权账本，保留 agent、会话、策略与脱敏证据。通过 brew 安装、kontext setup 一键部署 hooks 与本地 daemon，无需包装命令即可继续正常使用 agent。自服务安装目前仅支持 macOS；策略评估出错或 daemon 不可用时不阻断调用。提供组织级策略分发、证据导出与审计留存，自述不提供内核级隔离。",
+  "highlights": [
+   "本地策略评估，observe/enforce 两阶段推进",
+   "pre-tool-use 同步 hook 拦截危险动作（命令、敏感文件、凭据访问等）",
+   "授权账本记录 agent、会话、策略决策与脱敏证据",
+   "支持 Claude Code、Claude Cowork、Codex，brew 安装无 wrapper"
+  ],
+  "use_cases": [
+   "上线前观察 agent 工具调用与策略命中情况",
+   "阻断 agent 执行破坏性命令或访问生产系统与凭据",
+   "合规审计与事件调查时回溯决策证据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent 安全",
+   "权限管控",
+   "审计/合规",
+   "运行时安全"
+  ],
+  "domain": "AI agent 安全/开发者工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: **Kontext puts local policy between AI agents and the tools they call.** It",
+   "L21: observes supported actions, evaluates policy before consequential actions run,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     45,
+     204
+    ],
+    "note": "为 Claude Code / Claude Cowork 安装官方 hook 集成",
+    "quotes": [
+     "Kontext currently supports **Claude Code, Claude Cowork, and Codex**. Exact",
+     "|**Claude Code**|Session lifecycle, pre-tool-use, successful and failed post-tool-use|Pre-tool-use|Installed by `kontext"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "brew install kontext-security/tap/kontext"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     45,
+     204
+    ],
+    "note": "被接入与管控的 agent，非替代/竞品",
+    "quotes": [
+     "Kontext currently supports **Claude Code, Claude Cowork, and Codex**. Exact",
+     "|**Claude Code**|Session lifecycle, pre-tool-use, successful and failed post-tool-use|Pre-tool-use|Installed by `kontext"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

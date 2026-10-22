@@ -1,0 +1,119 @@
+{
+ "fn": "microsoft/ParrotServe",
+ "sha": "89c6f2e23812",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 应用的多租户分布式 serving 系统（OSDI'24 原型）",
+  "review": "Parrot 是微软开源的 LLM 应用 serving 系统研究原型，通过 Semantic Variable 抽象在 OpenAI 风格 API 基础上向后台引擎暴露应用级信息（LLM 计算图 DAG、prompt 结构），支持请求自动并行化与批处理、DAG 感知调度、prompt 前缀共享与上下文感知调度；提供 Python 前端 pfunc 编程。README 明确声明该项目为研究原型、不再积极维护；已做安全热修复（禁用动态注册、要求 bearer token），旧版本存在任意代码执行等漏洞，不可暴露于不可信网络。面向 LLM 应用开发者与系统研究者。",
+  "highlights": [
+   "Semantic Variable 抽象暴露应用级信息给后台引擎",
+   "自动并行化/批处理 LLM 请求与 DAG 感知调度",
+   "prompt 前缀共享与上下文感知调度",
+   "提供 Python 前端 pfunc 与 OpenAI 风格 API"
+  ],
+  "use_cases": [
+   "运行包含多轮 LLM 调用 DAG 的 agent 应用并复用公共前缀",
+   "研究 LLM 应用级 serving 调度机制（OSDI'24 论文原型）",
+   "基于 OpenAI 风格 API 改造现有 LLM 应用的部署方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5,
+    22
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM serving",
+   "推理服务",
+   "多租户",
+   "系统研究原型"
+  ],
+  "domain": "LLM 基础设施/推理服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "MSRA 微信公众号文章与中文技术博客（L63/L65）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L39: Parrot is a distributed, multi-tenant serving system for **LLM-based Applications**. With the Semantic Variable abstract",
+   "L57: Parrot is designed to serve these LLM-based applications efficiently by adding `Semantic Variable` in current OpenAI-sty"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     83
+    ],
+    "note": "致谢部分列为学习来源，非接入/适配关系",
+    "quotes": [
+     "- vLLM"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "git clone 仅用于获取带已知漏洞的历史版本做隔离复现；正式安装指向 INSTALL 文档（L71）",
+    "quotes": [
+     "git clone --branch legacy-unsafe-pre-security-hotfix --single-branch \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    5
+   ]
+  }
+ }
+}

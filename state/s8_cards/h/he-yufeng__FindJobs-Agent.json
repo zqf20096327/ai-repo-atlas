@@ -1,0 +1,129 @@
+{
+ "fn": "he-yufeng/FindJobs-Agent",
+ "sha": "30852ad85881",
+ "source": "readme",
+ "identity": {
+  "one_liner": "求职者用的全栈求职助手：爬岗位、LLM 分析、简历匹配与 AI 模拟面试",
+  "review": "面向求职者的全栈求职工具：爬取腾讯、字节、网易、Amazon 等公司公开招聘 API 的职位，用 LLM 抽取学历/专业要求、给技能标签打分并归类职位族；解析 PDF/Word 简历并计算与职位的匹配百分比；任一职位描述可驱动的多轮 AI 模拟面试并给实时反馈。后端为 Python（Flask API + SQLite），前端 React。提供无需 API key 的离线 Demo 模式（确定性 stub LLM + 54 条样例职位），任务源可通过 JobSource 接口插件式扩展（含 freehire.me、Remotive 免 key 数据源）。",
+  "highlights": [
+   "爬取→LLM 分析→技能差距→模拟面试的完整闭环",
+   "简历解析与职位匹配百分比计算",
+   "多轮 AI 模拟面试，含实时反馈与追踪看板",
+   "FINDJOBS_DEMO=1 离线演示模式，stub LLM 不联网",
+   "JobSource 接口支持插件式接入自定义职位源"
+  ],
+  "use_cases": [
+   "爬取目标公司职位并自动结构化技能要求",
+   "上传简历查看与各职位的匹配度和技能差距",
+   "针对具体职位描述进行模拟面试练习",
+   "在申请看板上追踪各职位投递状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职",
+   "招聘爬虫",
+   "简历匹配",
+   "模拟面试",
+   "LLM应用"
+  ],
+  "domain": "求职/招聘工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本入口",
+   "爬虫覆盖腾讯/字节/网易/大疆/携程等中国公司"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: A full-stack job search assistant that crawls postings from major tech companies, analyzes them with LLMs, parses your r",
+   "L43: - **AI mock interview** — generates questions from any job description and runs a multi-turn interview with real-time fe"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     4,
+     71
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install findjobs-agent   # straight from PyPI"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     25,
+     90
+    ],
+    "quotes": [
+     "cd FrontEnd && npm install && npm run dev   # frontend on :5173",
+     "npm install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     65
+    ],
+    "quotes": [
+     "git clone https://github.com/he-yufeng/FindJobs-Agent.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

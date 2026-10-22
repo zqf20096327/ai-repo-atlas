@@ -1,0 +1,109 @@
+{
+ "fn": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+ "sha": "69d2b1589482",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Seedance 2.5 视频提示词库与可安装视频生成 Agent Skill",
+  "review": "由 Atlas Cloud 维护的 Seedance 2.5 视频提示词策展库（150 条提示词、33 个分类、50 个预览视频），附带可安装的 Agent Skill：将创意简报或现有提示词改写为生产级 Seedance 提示词，按需用 Seedream 5.0 Pro 生成并审校分镜图，再经所选 Atlas 渠道提交视频生成任务并轮询至完成。当前默认执行模型为 Seedance 2.0，仅在所选服务商暴露 Seedance 2.5 时切换。另有模型无关的 Universal Video Prompt Skill 支持跨模型编译同一提示词规格。",
+  "highlights": [
+   "150 条提示词、33 个分类、50 个预览视频，记录来源平台/作者/链接",
+   "Skill 可改写提示词、按需生成分镜图并自动审校质量",
+   "经 Atlas Cloud Skill/MCP/CLI/REST 提交生成任务，2 秒轮询同一任务 ID 至完成",
+   "Universal Video Prompt Skill 编写模型无关提示词规格并跨模型编译"
+  ],
+  "use_cases": [
+   "浏览和复用带真实预览的 Seedance 视频提示词",
+   "把创意简报或参考图改写成可执行的生产级视频提示词",
+   "需要多镜头分镜规划时自动生成并审校分镜图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词库",
+   "视频生成",
+   "agent技能",
+   "提示词工程",
+   "多模态"
+  ],
+  "domain": "AI 视频生成/提示词工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多语言 README 含简体中文/繁體中文",
+   "提示词作者为 Volcengine Ark",
+   "工作流文档含 workflow.zh-CN.md"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill that improves pr",
+   "L44: **Seedance 2.5 Skill** is the name of the installable Agent Skill in this repository. It turns a creative brief, existin",
+   "L58: - **Improve prompts:** turn an idea, an existing prompt, or reference assets into a clearer production-ready Seedance pr"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     51,
+     52,
+     53
+    ],
+    "quotes": [
+     "npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill seedance-2-5-skill",
+     "npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universal-video-prompt-skill",
+     "npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

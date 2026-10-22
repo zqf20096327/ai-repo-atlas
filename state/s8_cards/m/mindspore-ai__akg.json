@@ -1,0 +1,94 @@
+{
+ "fn": "mindspore-ai/akg",
+ "sha": "23730785abea",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习算子自动生成与融合的编译器，面向 MindSpore 生态",
+  "review": "AKG 是深度学习编译器，对神经网络算子进行优化并提供特定模式的算子自动融合。当前包含两个子项目：AKG-MLIR 基于 MLIR 演进，提供 CPU/GPU/Ascend 完整算子编译 Pipeline；AKG-AGENT 是大模型驱动（Multi-agent）的算子生成工具，通过 LLM 生成 Triton-Ascend 与 SWFT DSL 并完成 kernel 编译，附带 AscendKernelBench 评测平台与算子知识库。各子项目支持独立安装构建，许可为 Apache 2.0，由 mindspore-ai 组织维护。",
+  "highlights": [
+   "基于 MLIR 的 CPU/GPU/Ascend 完整算子编译 Pipeline",
+   "AKG-AGENT：LLM + Multi-agent 框架自动生成算子 DSL 并编译",
+   "附带 AscendKernelBench 评测平台与算子知识库",
+   "支持 CPU、NVIDIA、V100/A100、Atlas 800T A2/A3、300I DUO 等硬件后端"
+  ],
+  "use_cases": [
+   "为深度学习框架生成与优化多后端算子 kernel",
+   "利用 LLM agent 框架自动生成昇腾等后端算子",
+   "对特定模式的算子做自动融合优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编译器",
+   "算子生成",
+   "昇腾/Ascend",
+   "MLIR",
+   "华为生态"
+  ],
+  "domain": "AI 编译器/算子优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "昇腾（Ascend）硬件生态",
+   "MindSpore 组织",
+   "SIG 微信交流群"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: AKG(Auto Kernel Generator)是一个深度学习编译器，用以对深度神经网络中的算子进行优化，并提供特定模式下的算子自动融合功能。",
+   "L6: 从 2.4 版本之后，我们对 AKG 进行了全新升级，当前的 AKG 项目中，包含了 AKG-AGENT、AKG-MLIR 2个子项目，支持 CPU、NVIDIA、V100/A100、Atlas 800T A2/A3、300I DUO 等多"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

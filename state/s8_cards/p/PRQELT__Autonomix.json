@@ -1,0 +1,186 @@
+{
+ "fn": "PRQELT/Autonomix",
+ "sha": "bfd016485a59",
+ "source": "readme",
+ "identity": {
+  "one_liner": "UE5 编辑器内自主开发项目的 AI agent 插件",
+  "review": "Unreal Engine 编辑器插件，以对话式聊天面板驱动 AI agent 自主创建与修改游戏项目：通过 T3D 注入生成 Blueprint 节点图、编辑 C++ 源码、管理关卡/材质/控件/PCG 等，提供 85+ AI 工具与 agentic 工具循环。支持 Claude、OpenAI、Gemini、DeepSeek、Ollama 等多提供商。含 Git 检查点、安全门禁（风险分级、受保护文件只读）、执行日志与备份等机制；面向在 UE 编辑器内工作的游戏开发者。",
+  "highlights": [
+   "T3D 单事务注入生成整个 Blueprint 节点图",
+   "85+ AI 工具覆盖 C++、材质、动画、PCG、行为树等",
+   "每会话影子 git 仓库检查点，可保存/恢复/对比",
+   "安全门禁分级评估每次工具调用，受保护文件对 AI 只读"
+  ],
+  "use_cases": [
+   "用自然语言让 AI 在 UE 编辑器里直接搭建 Blueprint 和 C++ 功能",
+   "AI 自动运行 PIE 测试并迭代修复自身生成的错误",
+   "多模型接入（Claude/OpenAI/Gemini/Ollama 等）按任务选择提供商"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏开发",
+   "AI Agent",
+   "Unreal Engine 插件",
+   "代码生成",
+   "编辑器工具"
+  ],
+  "domain": "游戏开发/AI 编程工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "openrouter",
+   "ollama",
+   "xai"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  A production-grade Unreal Engine editor plugin that uses AI to autonomously create, modify, and manage entire game proj",
+   "L17: **Autonomix** brings agentic AI capabilities into the Unreal Engine editor. Instead of just generating code snippets, it",
+   "L30: - **Multi-Provider Support** — Works with Anthropic Claude, OpenAI, Google Gemini, DeepSeek, Mistral, xAI, OpenRouter, O"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     30,
+     89
+    ],
+    "quotes": [
+     "- **Multi-Provider Support** — Works with Anthropic Claude, OpenAI, Google Gemini, DeepSeek, Mistral, xAI, OpenRouter, O",
+     "- **Prompt Caching** — System prompt is split into a static prefix (role + rules + guidelines, ~7K tokens) with `cache_c"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "- **Multi-Provider Support** — Works with Anthropic Claude, OpenAI, Google Gemini, DeepSeek, Mistral, xAI, OpenRouter, O"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "- **Multi-Provider Support** — Works with Anthropic Claude, OpenAI, Google Gemini, DeepSeek, Mistral, xAI, OpenRouter, O"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "- **Multi-Provider Support** — Works with Anthropic Claude, OpenAI, Google Gemini, DeepSeek, Mistral, xAI, OpenRouter, O"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     347,
+     359
+    ],
+    "quotes": [
+     "|**Azure OpenAI**|Any model deployed to your Azure resource (gpt-4o, gpt-4.1, o3, etc.)|✅ SSE|—|",
+     "> **🔷 Azure OpenAI:** Azure uses a different authentication model from the official OpenAI API. See Azure OpenAI Setup b"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     30,
+     351
+    ],
+    "quotes": [
+     "- **Multi-Provider Support** — Works with Anthropic Claude, OpenAI, Google Gemini, DeepSeek, Mistral, xAI, OpenRouter, O",
+     "|**xAI**|Grok-3, Grok-4, etc.|✅ SSE|—|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     375
+    ],
+    "quotes": [
+     "   git clone https://github.com/PRQELT/Autonomix.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     19
+    ],
+    "note": "类比表述“Cursor/Roo Code, but for UE”，非替代声明",
+    "quotes": [
+     "Think of it as **Cursor/Roo Code, but for Unreal Engine** — with deep engine integration that goes far beyond text editi"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "fn": "lululxvi/tutorials",
+ "sha": "e327f7ec4a70",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习/Python/DPD 教程讲稿清单，供学习者查阅",
+  "review": "个人维护的教程演讲存档，按主题分三部分：深度学习（涵盖 PINN、DeepXDE、AutoML、ResNet、GAN、TensorFlow 实现等 11 篇）、Python 入门、耗散粒子动力学（DPD）。条目含日期与标题，部分标注中文视频；DeepXDE 相关条目附带 demo。内容以 Creative Commons BY-NC-ND 4.0 许可发布。仓库为讲稿列表，不提供代码安装或运行流程。",
+  "highlights": [
+   "11 篇深度学习教程，覆盖 PINN/DeepXDE/AutoML/GAN 等主题",
+   "每条含日期与标题，部分附中文视频",
+   "CC BY-NC-ND 4.0 许可发布"
+  ],
+  "use_cases": [
+   "查找 PINN 与 DeepXDE 的入门讲解材料",
+   "了解深度学习概念与算法的系列讲座",
+   "查阅 DPD 标度相关讲题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/讲稿",
+   "深度学习",
+   "科学计算",
+   "知识清单"
+  ],
+  "domain": "科学计算/深度学习教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多条条目标注中文视频（Video in Chinese）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Here are the tutorial talks I gave on various topics, including",
+   "L9: ## Deep Learning"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

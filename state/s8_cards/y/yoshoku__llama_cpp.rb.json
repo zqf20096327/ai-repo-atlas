@@ -1,0 +1,100 @@
+{
+ "fn": "yoshoku/llama_cpp.rb",
+ "sha": "51b8070c02bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "llama.cpp 的 Ruby 绑定，供 Ruby 应用加载量化模型生成文本",
+  "review": "以原生扩展形式为 llama.cpp 提供 Ruby 绑定，使 Ruby 程序可加载 GGML/GGUF 量化模型并执行文本生成。安装需先安装 llama.cpp（README 给出 homebrew 命令），再通过 gem 或 bundler 安装，需指定 homebrew opt 目录。使用时参照 llama.cpp README 准备量化模型（如 open_llama_7b、tiny_llama_1b），README 附 Ruby 生成示例代码。README 同时提示另一个基于 FFI 的 Ruby 绑定 rllama 作为高阶 API 选择。MIT 许可。",
+  "highlights": [
+   "为 llama.cpp 提供 Ruby 原生扩展绑定",
+   "支持加载量化模型（open_llama_7b、tiny_llama_1b 等）并用 Ruby 代码生成文本",
+   "提供 gem/bundler 安装方式与 homebrew 安装 llama.cpp 的前置步骤"
+  ],
+  "use_cases": [
+   "在 Ruby 应用中本地运行 LLM 推理",
+   "通过 Ruby API 加载 GGUF 量化模型生成文本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM",
+   "Ruby",
+   "本地推理",
+   "llama.cpp 绑定"
+  ],
+  "domain": "LLM 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: llama_cpp.rb provides Ruby bindings for the llama.cpp.",
+   "L48: An example of Ruby code that generates sentences with the quantization model is as follows:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     14,
+     17
+    ],
+    "note": "安装前置依赖 llama.cpp 的方式",
+    "quotes": [
+     "Install the llama.cpp. If you use homebrew, install it by executing:",
+     "$ brew install llama.cpp"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

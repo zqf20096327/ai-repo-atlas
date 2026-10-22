@@ -1,0 +1,124 @@
+{
+ "fn": "cdslaborg/paramonte",
+ "sha": "58eae644457b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多语言串行/并行 Monte Carlo 采样与机器学习科学推断库",
+  "review": "ParaMonte 是面向科学推断的 Monte Carlo 采样与机器学习库，提供任意维密度函数采样（MCMC 等）与 ML 算法，核心可从 C、C++、Fortran、MATLAB、Python 调用（Python 版本正在内部测试，需从上一主版本获取）。设计目标包括模拟全自动化、零外部依赖、确定性可复现与自动重启；并行支持 Coarray、MPI 与 OpenMP，MPI 运行时（Intel MPI/OpenMPI/MPICH）为可选依赖。以 GitHub Release 预编译库或源码构建（CMake、GNU/Intel 编译器）方式分发，主体采用 MIT 许可并要求引用致谢。",
+  "highlights": [
+   "支持 C/C++/Fortran/MATLAB/Python 多语言接口",
+   "零外部依赖核心，可选 MPI（Coarray/MPI/OpenMP 三种并行范式）",
+   "确定性可复现与自动重启功能",
+   "GitHub Release 提供预编译库并附带示例代码与构建脚本"
+  ],
+  "use_cases": [
+   "对任意维数学密度函数做串行或并行 Monte Carlo 采样",
+   "科学推断场景下的贝叶斯 MCMC 计算",
+   "跨 Python/MATLAB/Fortran 等多语言环境复用同一推断库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    151
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCMC",
+   "贝叶斯推断",
+   "科学计算",
+   "高性能计算",
+   "多语言库"
+  ],
+  "domain": "科学计算/统计推断",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L39: ParaMonte is a serial/parallel library of Monte Carlo routines for sampling mathematical density functions of arbitrary ",
+   "L40: Machine Learning (ML) algorithms for scientific inference, with the design goal of unifying **automation** (of simulatio"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     77,
+     78
+    ],
+    "note": "GitHub Release 页提供预编译就绪库",
+    "quotes": [
+     "The prebuilt, ready-to-use libraries are available on",
+     "the release page of the ParaMonte library on GitHub."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     7,
+     14,
+     15
+    ],
+    "note": "徽章显示 PyPI 版本与下载统计；正文说明 Python 版正在内部测试、需从上一主版本获取",
+    "quotes": [
+     "PyPI - release version",
+     "PyPI - Downloads",
+     "PyPI stats"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

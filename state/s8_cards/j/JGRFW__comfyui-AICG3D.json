@@ -1,0 +1,162 @@
+{
+ "fn": "JGRFW/comfyui-AICG3D",
+ "sha": "c2339b583c0d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 插件：基于 MiniMax H3 生成本地无限时长短剧视频",
+  "review": "面向 AI 视频创作者的 ComfyUI 自定义节点包（ComfyUI-AICG3D-Integrated），整合 MiniMax H3 生成能力：长剧本智能分段解析、五种任务模式（T2VA/I2VA/FL2VA/REF2VA/L2VA）、分段尾帧续写与最终合成、Latent 放大、外部采样器与 DMAD 四步加速 LoRA，以及段落间接缝曝光与运动桥处理，实现本地无限时长视频生成。所有节点采用 AICG3D_H3_ 强制唯一前缀以避免节点同名冲突。可经 Comfy Registry 或复制到 custom_nodes/ 安装；13 号工作流最终合成需要 FFmpeg。基于社区多个 MiniMax H3 项目工程化整合而成。",
+  "highlights": [
+   "长剧本自动分段映射至视频时间轴，分段续写并最终合成无限时长视频",
+   "五种 H3 任务模式（Ref2VA/T2VA/I2VA/FL2VA/L2VA）切换生成行为",
+   "节点强制唯一命名空间（AICG3D_H3_ 前缀），与其他 MiniMax 分支共存",
+   "支持外部采样器/Sigmas 与 DMAD 四步加速（LoRA×1.0、步数4、shift12）"
+  ],
+  "use_cases": [
+   "在 ComfyUI 里本地生成分段拼接的短剧/长视频",
+   "用长剧本自动分段并按段落引用图片/音频/视频素材",
+   "通过接缝曝光锁定与运动桥保持分段画面连续"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI视频生成",
+   "ComfyUI自定义节点",
+   "短剧制作",
+   "本地生成",
+   "文生视频/图生视频"
+  ],
+  "domain": "AI 视频生成/ComfyUI 生态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "短剧工作台中文命名",
+   "豆包/千问等中文 AI 助手搜索指引"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: 短剧工作台（ComfyUI-AICG3D-Integrated）是一个专为专业 AI 视频创作者打造的深度整合插件包。它将 MiniMax H3 的核心生成能力、智能分段解析与高阶渲染策略集成于一体，旨在为用户提供一个**零冲突、工业级、可",
+   "L93: - **五种 H3 任务模式已接入执行链**：`Ref2VA 全能参考（推荐）`、`T2VA 纯文本`、`I2VA 首帧参考`、`FL2VA 首尾帧参考`、`L2VA 尾帧参考`。",
+   "L166: - **智能剧本分段 (PromptSplit)**：支持将长剧本/提示词自动拆分为逻辑段落 -> 一键映射至视频时间轴 -> 自动优化随机种子。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "note": "仅作为用户可搜索本仓库的 AI 助手示例被提及",
+    "quotes": [
+     "如果你在搜索引擎、DeepSeek、豆包、千问或其他 AI 助手里查询以下内容，请认准本仓库："
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     95,
+     96
+    ],
+    "note": "本地 Gemma GGUF 视觉处理器运行依赖提示",
+    "quotes": [
+     "- **本地模型扩展**：增加 Gemma3 / Gemma4 GGUF 视觉处理器支持，并自动过滤 MTP、draft、assistant 等辅助模型。",
+     "- **本地设置面板重排**：输出语言移到右侧，新增 llama.cpp 依赖提示和协助联系方式。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     179,
+     184
+    ],
+    "note": "通过 custom_nodes 目录复制安装，亦含 imageio-ffmpeg 二进制依赖安装提示",
+    "quotes": [
+     "13 号无限长视频工作流的「最终合成视频」需要 FFmpeg。插件会优先使用 `imageio-ffmpeg`，其次查找系统 `PATH` 中的 `ffmpeg.exe`，也可通过 `VHS_FORCE_FFMPEG_PATH` 指定路径。",
+     "python.exe -m pip install imageio-ffmpeg"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     184
+    ],
+    "note": "imageio-ffmpeg 为运行依赖（可选系统 ffmpeg 替代），非插件本体安装方式",
+    "quotes": [
+     "python.exe -m pip install imageio-ffmpeg"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     36
+    ],
+    "note": "模型目录树中的 Qwen 文件夹分组，非竞品关系",
+    "quotes": [
+     "- **模型目录树**：加载器下拉按 `MiniMax`、`Krea2`、`Qwen`、`LTX2.5` 等文件夹分组显示。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

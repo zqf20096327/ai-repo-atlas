@@ -1,0 +1,288 @@
+{
+ "fn": "billy-enrizky/openbrowser-ai",
+ "sha": "b500d86dd880",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 AI 浏览器自动化框架，LLM 写代码控制网页",
+  "review": "Python 框架，通过直连 CDP（Chrome DevTools Protocol）与 CodeAgent 架构实现智能浏览器自动化：LLM 在持久化类 Jupyter 命名空间中编写并执行 Python 代码，完成页面导航、交互与信息抽取。支持 15 个 LLM 提供商（OpenAI、Anthropic、Google、Ollama 等），内置 MCP Server（单 execute_code 工具）、CLI 守护进程、会话录制导出为 Jupyter notebook、Claude Code 插件（7 个技能）。自动检测已装 Chromium 内核浏览器，无需单独安装浏览器。提供云端托管版（域名 openbrowser.me，含 Web UI 与定时任务）。",
+  "highlights": [
+   "CodeAgent 架构：LLM 在持久化命名空间中编写 Python 代码控制浏览器",
+   "直连 CDP 通信，自动检测 Chrome/Edge/Brave/Chromium",
+   "支持 15 个 LLM 提供商含本地 Ollama",
+   "MCP Server、CLI 守护进程、会话录制导出、Claude Code 插件（7 技能）"
+  ],
+  "use_cases": [
+   "让 LLM 自动抓取网页数据、填表、登录",
+   "通过 MCP 接入 Claude Desktop/Code 等 AI 助手做浏览器操作",
+   "录制浏览器会话并导出为 Jupyter notebook 或爬虫代码",
+   "端到端测试与页面无障碍审计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器自动化",
+   "AI Agent",
+   "MCP",
+   "网页抓取",
+   "LLM应用开发"
+  ],
+  "domain": "浏览器自动化/Agent 框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek",
+   "groq",
+   "openrouter",
+   "bedrock",
+   "anthropic",
+   "azure"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L30: **AI-powered browser automation using CodeAgent and CDP (Chrome DevTools Protocol)**",
+   "L32: OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent arc",
+   "L42: - **CodeAgent Architecture** - LLM writes Python code in a persistent Jupyter-like namespace for browser automation"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     45,
+     194
+    ],
+    "quotes": [
+     "- **15 LLM Providers** - OpenAI, Anthropic, Google, Groq, AWS Bedrock, Azure, Ollama, DeepSeek, Cerebras, OpenRouter, OC",
+     "|**Ollama**|`ChatOllama`|llama-4-scout, deepseek-r1 (local)|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     45,
+     192
+    ],
+    "quotes": [
+     "- **15 LLM Providers** - OpenAI, Anthropic, Google, Groq, AWS Bedrock, Azure, Ollama, DeepSeek, Cerebras, OpenRouter, OC",
+     "|**DeepSeek**|`ChatDeepSeek`|deepseek-chat, deepseek-r1|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     45,
+     187
+    ],
+    "quotes": [
+     "- **15 LLM Providers** - OpenAI, Anthropic, Google, Groq, AWS Bedrock, Azure, Ollama, DeepSeek, Cerebras, OpenRouter, OC",
+     "|**Groq**|`ChatGroq`|llama-4-scout, qwen3-32b|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     45,
+     191
+    ],
+    "quotes": [
+     "- **15 LLM Providers** - OpenAI, Anthropic, Google, Groq, AWS Bedrock, Azure, Ollama, DeepSeek, Cerebras, OpenRouter, OC",
+     "|**OpenRouter**|`ChatOpenRouter`|Any model on openrouter.ai|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     45,
+     188,
+     189
+    ],
+    "quotes": [
+     "- **15 LLM Providers** - OpenAI, Anthropic, Google, Groq, AWS Bedrock, Azure, Ollama, DeepSeek, Cerebras, OpenRouter, OC",
+     "|**AWS Bedrock**|`ChatAWSBedrock`|anthropic.claude-sonnet-4-6, amazon.nova-pro|",
+     "|**AWS Bedrock (Anthropic)**|`ChatAnthropicBedrock`|Claude models via Anthropic Bedrock SDK|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     45,
+     186
+    ],
+    "quotes": [
+     "- **15 LLM Providers** - OpenAI, Anthropic, Google, Groq, AWS Bedrock, Azure, Ollama, DeepSeek, Cerebras, OpenRouter, OC",
+     "|**Anthropic**|`ChatAnthropic`|claude-sonnet-4-6, claude-opus-4-6|"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     45,
+     190
+    ],
+    "quotes": [
+     "- **15 LLM Providers** - OpenAI, Anthropic, Google, Groq, AWS Bedrock, Azure, Ollama, DeepSeek, Cerebras, OpenRouter, OC",
+     "|**Azure OpenAI**|`ChatAzureOpenAI`|Any Azure-deployed model|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     85,
+     91
+    ],
+    "quotes": [
+     "pip install openbrowser-ai",
+     "uv pip install openbrowser-ai"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     78,
+     79
+    ],
+    "quotes": [
+     "brew tap billy-enrizky/openbrowser",
+     "brew install openbrowser-ai"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     115,
+     117
+    ],
+    "quotes": [
+     "git clone https://github.com/billy-enrizky/openbrowser-ai.git",
+     "uv pip install -e \".[agent]\""
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     462,
+     465
+    ],
+    "quotes": [
+     "- Docker and Docker Compose",
+     "### Local Development (Docker Compose)"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     472
+    ],
+    "quotes": [
+     "cd frontend && npm install && npm run dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     46,
+     51,
+     198
+    ],
+    "quotes": [
+     "- **MCP Server** - Model Context Protocol for Claude Desktop, Claude Code, Codex, OpenCode, and other AI assistants, wit",
+     "- **Plugin System** - Claude Code plugin with 7 guided skills (deep research, web scraping, form filling, e2e testing, p",
+     "## Claude Code Plugin"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "quotes": [
+     "pip install openbrowser-ai[agent]      # LLM agent support (langgraph, langchain, litellm)"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

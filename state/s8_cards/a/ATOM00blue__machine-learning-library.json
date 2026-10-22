@@ -1,0 +1,193 @@
+{
+ "fn": "ATOM00blue/machine-learning-library",
+ "sha": "25fa66c0b39e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "923 篇 ML 论文/讲义策展知识库 + 自研 APRL 表格学习算法",
+  "review": "两层结构：一是手工策展的机器学习知识库，收录 391 篇 arXiv 论文（78 篇全文）、474 份来自 MIT/Stanford/fast.ai 等课程的讲义转录和 58 篇经典讲解文，统一为带 YAML frontmatter 的 Markdown（约 1100 万 token），按 17 个主题标签组织，可作为 Obsidian vault 打开或供 AI agent 检索引用；二是 APRL，一个 NumPy 实现的自定义数值表格分类/回归算法，含测试、基准与不确定性估计，README 明确声明为实验性组合、不主张科学新颖性。全部来源保留出处并列入 SOURCES.md。",
+  "highlights": [
+   "923 份文档（391 论文 + 474 讲义 + 58 文章），约 1100 万 token，带受控标签体系",
+   "APRL：全局 ridge + 原型加权 + 局部残差专家的 NumPy 分类/回归算法，含 11 个测试与五数据集基准",
+   "内置 .obsidian 配置与 AGENTS.md/CLAUDE.md，可直接接入 Cursor/Claude Code 等 agent",
+   "附 RAG 快速脚本（examples/rag_quickstart.py）"
+  ],
+  "use_cases": [
+   "搭建引用真实论文与讲义的 ML 问答/RAG 助手",
+   "作为小模型（1-7B）领域继续预训练或微调的数据集",
+   "评估嵌入模型与检索管线的技术语料",
+   "在 Obsidian 中按主题浏览组织机器学习学习路径"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    76,
+    173
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ML知识库",
+   "语料/数据集",
+   "RAG",
+   "教育/学习资源",
+   "表格机器学习"
+  ],
+  "domain": "机器学习/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: hand-curated, machine-readable knowledge base of leading university courses,",
+   "L9: Custom classifier + regressor · 923 documents · ~11 million tokens · beginner to",
+   "L54: |**Total documents**|923|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "quotes": [
+     "- **Efficient attention & serving** — FlashAttention 1/2/3, Linformer, Longformer, Performer, Reformer, PagedAttention/v"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "quotes": [
+     "- **LLMs & alignment** — LLaMA 1/2, Mistral, Mixtral, InstructGPT/RLHF, DPO, LoRA/QLoRA/DoRA, GPTQ/AWQ/LLM.int8()"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     91
+    ],
+    "quotes": [
+     "- **Frontier (2024–2025)** — Mamba, State-Space Duality, Mixture-of-Depths, DeepSeek V2/V3/R1, Native Sparse Attention"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     220,
+     221,
+     222
+    ],
+    "note": "仅指如何让 Claude Code/Desktop 接入本知识库，非模型接入",
+    "quotes": [
+     "|Claude Code|Open the folder — it reads `CLAUDE.md`; a `/ml-library` skill is bundled.|",
+     "|Claude Desktop|Add a Filesystem MCP server pointed at this folder.|",
+     "|Obsidian + live read/write|Install the **Local REST API** plugin (built-in MCP server) and `claude mcp add` it.|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     167
+    ],
+    "quotes": [
+     "python -m pip install -e ."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     179
+    ],
+    "quotes": [
+     "git clone https://github.com/ATOM00blue/machine-learning-library.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     219
+    ],
+    "note": "列为可读取本仓库的 agent 工具",
+    "quotes": [
+     "|Cursor / Codex / Copilot / Gemini CLI / Aider / Zed|Open the folder — they read `AGENTS.md` automatically.|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     219
+    ],
+    "quotes": [
+     "|Cursor / Codex / Copilot / Gemini CLI / Aider / Zed|Open the folder — they read `AGENTS.md` automatically.|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     220
+    ],
+    "quotes": [
+     "|Claude Code|Open the folder — it reads `CLAUDE.md`; a `/ml-library` skill is bundled.|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "fn": "FatemehTarashi/awesome-tda",
+ "sha": "9cdfa32469d1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "拓扑数据分析（TDA）工具与学习资源策展清单",
+  "review": "一个 awesome 风格的 TDA 资源聚合清单：按理论与工具两大板块组织，理论部分收录算法（持久同调、Zigzag、Vineyards、Mapper 等）、书籍、文章、课程与教程链接；工具部分按编程语言（C++、Python、R、Julia、Java、Go、Haskell、Matlab、Spark）列出库与框架，如 GUDHI、Giotto-TDA、Ripser.py、Scikit-TDA、Eirene.jl 等；另附生物信息学、脑网络、深度学习、图机器学习等应用领域链接。通过 PR/issue 接受贡献，无安装运行主体。",
+  "highlights": [
+   "按 9 种编程语言组织的 TDA 库与框架条目",
+   "覆盖算法、书籍、文章、课程与教程的理论板块",
+   "收录生物信息学、脑网络、计算机视觉等应用领域资源链接"
+  ],
+  "use_cases": [
+   "按语言查找可用的持久同调/TDA 计算库",
+   "查找 TDA 入门教程、书籍与课程资料",
+   "了解 TDA 在生物信息学与深度学习等领域的应用线索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "拓扑数据分析",
+   "持久同调",
+   "机器学习",
+   "数学/计算拓扑"
+  ],
+  "domain": "数学/计算拓扑与机器学习知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A curated list of Topological Data Analysis (TDA) tools and resources.",
+   "L84: ## Tools"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

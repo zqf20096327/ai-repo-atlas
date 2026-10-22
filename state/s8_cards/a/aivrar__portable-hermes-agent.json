@@ -1,0 +1,155 @@
+{
+ "fn": "aivrar/portable-hermes-agent",
+ "sha": "f825a5486ec6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 便携 AI agent 桌面应用：100 工具、GUI、本地/云端模型",
+  "review": "基于 NousResearch/hermes-agent 的便携式 Windows 桌面 AI agent，面向非技术用户：Tkinter 暗色 GUI、多语言界面、图像附件与 API key 向导。提供 20+ 工具集共 100 个工具，覆盖 LM Studio 模型管理、TTS（10 语音模型/克隆）、音乐生成、ComfyUI 图像生成、工作流引擎与运行时工具制作器。本地模型经 LM Studio（需 NVIDIA GPU 8GB+），云端经 OpenRouter；无 API key 时可用内置 1,054 行指南的引导模式。免安装、免 Docker、免管理员权限，首启自动下载内嵌 Python 与依赖。",
+  "highlights": [
+   "100 个工具 / 20+ 工具集（LM Studio、TTS、音乐、ComfyUI、工作流、工具制作器）",
+   "免安装免管理员权限：发布 ZIP 解压后运行 START.bat，自动下载内嵌 Python 与 Node.js",
+   "本地模型经 LM Studio，云端经 OpenRouter，支持模型切换",
+   "无 API key 的引导模式与内置可搜索用户手册"
+  ],
+  "use_cases": [
+   "在 Windows 上免安装运行带 GUI 的本地/云端 AI agent",
+   "用自然语言驱动的工具完成搜索、文件操作、语音合成与图像生成",
+   "把工具调用串成带定时调度的自动化工作流",
+   "运行时动态创建 REST API 包装或 Python 处理器工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent 桌面应用",
+   "本地 LLM",
+   "便携/绿色软件",
+   "工具编排",
+   "多模态生成"
+  ],
+  "domain": "桌面 AI 应用/agent",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供繁/简体中文 README 与界面语言"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **Portable AI agent desktop for Windows** — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, ",
+   "L11: Built on NousResearch/hermes-agent (MIT License) with extensive customization for non-technical users.",
+   "L27: |**LM Studio**|10|Load/unload models, search HuggingFace, tokenize, embed, direct chat, API key management, model list r"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     149,
+     150
+    ],
+    "quotes": [
+     "1. File > API Key Setup > OpenRouter",
+     "2. Sign up at openrouter.ai (free, no credit card)"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     185
+    ],
+    "note": "Claude Code 为开发工具署名，非模型接入",
+    "quotes": [
+     "- **Custom tools, GUI, and integrations**: Built with Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     73,
+     85
+    ],
+    "quotes": [
+     "Download the latest `portable-hermes-agent-v*.zip` from Releases, then extract it to a normal folder.",
+     "START.bat"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "note": "LM Studio 工具中搜索模型的目标平台",
+    "quotes": [
+     "|**LM Studio**|10|Load/unload models, search HuggingFace, tokenize, embed, direct chat, API key management, model list r"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     185
+    ],
+    "note": "开发署名，非替代/竞品",
+    "quotes": [
+     "- **Custom tools, GUI, and integrations**: Built with Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

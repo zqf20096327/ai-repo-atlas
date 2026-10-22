@@ -1,0 +1,111 @@
+{
+ "fn": "kyegomez/MambaTransformer",
+ "sha": "fee6e7c3f923",
+ "source": "readme",
+ "identity": {
+  "one_liner": "融合 Mamba 与 Transformer 的序列建模 PyTorch 架构库",
+  "review": "自述为 100% 新设计的混合架构，将 SSM（Mamba）与注意力（Transformer）串联：x -> norm -> mamba -> norm -> transformer -> norm -> ffn -> norm -> out，层间加入多个归一化层以缓解两种架构整合带来的训练稳定性问题。目标为更快处理速度、更长上下文、更低困惑度。以 PyTorch 库形式提供，pip 安装后导入 MambaTransformer 类即可使用，MIT 许可。",
+  "highlights": [
+   "Mamba 与 Transformer 串联的混合架构定义",
+   "多层归一化以缓解双架构整合的训练稳定性问题",
+   "PyTorch 库形式提供，pip 可安装"
+  ],
+  "use_cases": [
+   "长上下文序列建模任务的实验与研究",
+   "对比 SSM 与注意力混合结构的性能",
+   "作为自定义骨干网络嵌入 PyTorch 项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经网络架构",
+   "长上下文",
+   "序列建模",
+   "PyTorch库"
+  ],
+  "domain": "深度学习/模型架构",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Integrating Mamba/SSMs with Transformer for Enhanced Long Context and High-Quality Sequence Modeling.",
+   "L11: The architecture is essentially: `x -> norm -> mamba -> norm -> transformer -> norm -> ffn -> norm -> out`.",
+   "L16: `pip3 install mambatransformer`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     16
+    ],
+    "quotes": [
+     "`pip3 install mambatransformer`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [
+     9
+    ],
+    "note": "误命中：指困惑度（perplexity）指标，非 Perplexity 产品",
+    "quotes": [
+     "This is 100% novel architecture that I have designed to combine the strengths and weaknesses out of SSMs and Attention f"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

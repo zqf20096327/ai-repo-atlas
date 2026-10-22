@@ -1,0 +1,103 @@
+{
+ "fn": "IFCA-Advanced-Computing/frouros",
+ "sha": "3aa0a1e382f0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ML 系统漂移检测库：专注概念漂移与数据漂移检测",
+  "review": "BSD-3 许可的 Python 库，提供经典与较新的漂移检测算法：概念漂移（流式，如 DDM、ADWIN、KSWIN 等 13 种）与数据漂移（批次与流式，含距离度量与统计检验约 20 种），标注单变量/多变量、数值/类别适用性。明确声明只做漂移检测单一任务，不包含异常检测、对抗检测等其他功能。提供 pip 安装、readthedocs 文档与 SoftwareX 论文，正被 AI4EOSC、iMagine 项目用于 ML 流水线。",
+  "highlights": [
+   "概念漂移检测器 13 种（DDM、ADWIN、KSWIN、EDDM 等）",
+   "数据漂移检测覆盖距离度量与统计检验（KS 检验、MMD、PSI 等）",
+   "明确限定单一用途：仅漂移检测",
+   "已被 AI4EOSC、iMagine 项目采用"
+  ],
+  "use_cases": [
+   "为流式或批量 ML 服务的性能衰减做概念漂移检测",
+   "上线前后的数据分布变化（数据漂移）检测",
+   "在 ML 流水线中集成漂移监控"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://doi.org/10.1016/j.softx.2024.101733",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "漂移检测",
+   "MLOps",
+   "模型监控",
+   "数据分布偏移"
+  ],
+  "domain": "机器学习工程/MLOps",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L39: Frouros is a Python library for drift detection in machine learning systems that provides a combination of classical and",
+   "L275: Frouros is actively being used by the following projects to implement drift"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     23,
+     24,
+     80
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.org/project/frouros\">",
+     " pypi",
+     "pip install frouros"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

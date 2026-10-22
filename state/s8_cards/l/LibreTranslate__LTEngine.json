@@ -1,0 +1,120 @@
+{
+ "fn": "LibreTranslate/LTEngine",
+ "sha": "1797e52c5a28",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 LLM 机器翻译 API 服务，兼容 LibreTranslate 接口",
+  "review": "用 Rust 编写、完全自托管的机器翻译 API，翻译能力由本地经 llama.cpp 运行的 LLM（Gemma3 系列 GGUF 模型）提供，接口兼容 LibreTranslate，支持翻译、语言自动检测，可通过 --model-file 加载任意 llama.cpp 支持的 GGUF 模型。可纯 CPU 运行，也支持 CUDA/Metal/Vulkan 加速；最大模型 gemma3-27b 需约 16G 内存与 18G 显存。需从源码用 cargo 编译，要求 Rust、clang、CMake 与 C++ 编译器。项目处于活跃开发阶段。",
+  "highlights": [
+   "翻译由本地 LLM 驱动，接口兼容 LibreTranslate",
+   "支持 CUDA/Metal/Vulkan 加速，也可纯 CPU 运行",
+   "支持加载任意 llama.cpp 兼容的 GGUF 模型",
+   "提供 Rust/Node.js/Python/Go 等十余种语言绑定"
+  ],
+  "use_cases": [
+   "自托管部署一个不依赖云服务的机器翻译 API",
+   "替换或对接现有 LibreTranslate 客户端获得 LLM 翻译质量",
+   "本地运行大模型翻译并按硬件选择模型规格"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    17
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器翻译",
+   "LLM推理",
+   "自托管API",
+   "本地部署"
+  ],
+  "domain": "机器翻译/NLP 服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Free and Open Source Local AI Machine Translation API, written in Rust, entirely self-hosted and compatible with LibreTr",
+   "L7: The LLMs in LTEngine are much larger than the lightweight transformer models in LibreTranslate. Thus memory usage and sp",
+   "L48: LTEngine supports any GGUF language model supported by llama.cpp. You can pass a path to load a custom .gguf model using"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     3,
+     48
+    ],
+    "note": "作为本地 LLM 推理后端，翻译能力由其运行的模型提供",
+    "quotes": [
+     "Free and Open Source Local AI Machine Translation API, written in Rust, entirely self-hosted and compatible with LibreTr",
+     "LTEngine supports any GGUF language model supported by llama.cpp. You can pass a path to load a custom .gguf model using"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     29,
+     31
+    ],
+    "quotes": [
+     "git clone https://github.com/LibreTranslate/LTEngine --recursive",
+     "cargo build [--features cuda,vulkan,metal] --release"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

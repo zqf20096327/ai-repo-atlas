@@ -1,0 +1,103 @@
+{
+ "fn": "UnravelSports/unravelsports",
+ "sha": "d0dbb243a22d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "体育追踪数据分析 Python 库：数据转换、GNN 训练与足球战术指标计算",
+  "review": "面向研究人员、分析师与爱好者的体育追踪数据处理库，覆盖足球与美式橄榄球。功能包括：将多供应商追踪数据转换为 Polars DataFrame（足球经 Kloppy 支持 Sportec、SkillCorner、Metrica 等十余种格式，橄榄球直接读取 BigDataBowl 数据）；将 DataFrame 转换为图并配合 PyTorch Geometric 或 Spektral 训练图神经网络、做预测；计算 Pressing Intensity 与 EFPI 阵型位置识别。提供 Jupyter Notebook 教程与 readthedocs 文档，MPL 2.0 许可。",
+  "highlights": [
+   "追踪数据转 Polars DataFrame，足球支持 Sportec/SkillCorner/Metrica/StatsPerform 等多源",
+   "图转换与 GNN 训练/验证/预测，兼容 PyTorch Geometric 与 Spektral",
+   "按比赛/回合切分训练集以避免数据泄漏",
+   "Pressing Intensity 计算与 EFPI 阵型位置识别"
+  ],
+  "use_cases": [
+   "把多供应商足球追踪数据统一为 DataFrame 再建模",
+   "训练图神经网络预测比赛事件（如反击成功）",
+   "计算球队逼抢强度并生成视频可视化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2411.17450",
+  "demo_url": "https://unravelsports.readthedocs.io",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "体育分析",
+   "足球追踪数据",
+   "图神经网络",
+   "数据科学库",
+   "美式橄榄球"
+  ],
+  "domain": "体育分析/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: - ⚽ 🏈 **Graph Neural Network** Training, Graph Conversion and Prediction [🔗 Bekkers &amp; Sahasrabudhe (2023)]",
+   "L60: ⚽🏈 Convert **Polars Dataframes** into Graphs to train **graph neural networks**. These Graphs can be used with **PyTorch",
+   "L61: `unravelsports` allows you to **randomize** and **split** data into train, test and validation sets along matches, seque"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     123
+    ],
+    "quotes": [
+     "🌀 `pip install unravelsports`",
+     "pip install unravelsports"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

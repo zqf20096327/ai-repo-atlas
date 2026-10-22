@@ -1,0 +1,230 @@
+{
+ "fn": "TarsLab/obsidian-tars",
+ "sha": "4eb3202f618b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Obsidian 标签触发多模型对话插件：#标签即问 AI",
+  "review": "在 Obsidian 笔记内通过 #标签（如 #Claude :）触发 AI 对话与文本生成的插件，支持桌面与移动端。接入 16 家服务商（OpenAI、Claude、DeepSeek、Ollama、SiliconFlow 等），对话遵循 system/user/assistant 交替规则，支持内链、JSONL 数据集导出（配合 ms-swift 微调）。3.1 版增加多模态：GPT-Image-1 图像生成、图像与 PDF 分析（仅限嵌入文件）。模型列表来自各服务商 API，可通过设置覆盖 baseUrl 与模型参数。",
+  "highlights": [
+   "#标签触发 AI 对话，支持命令面板/直接输入两种方式",
+   "16 家 AI 服务商接入，支持自定义 baseUrl 与参数覆盖",
+   "对话可导出 JSONL 数据集，配合 ms-swift 微调",
+   "多模态：图像生成（GPT-Image-1）与图像/PDF 分析"
+  ],
+  "use_cases": [
+   "在笔记中直接向 AI 提问并保留对话记录",
+   "用标签语法组织多轮对话并切换不同模型",
+   "把笔记中的对话导出为微调数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Obsidian插件",
+   "笔记内AI对话",
+   "多模型接入",
+   "知识管理",
+   "微调数据导出"
+  ],
+  "domain": "笔记/知识管理 AI 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "openrouter",
+   "ollama",
+   "azure",
+   "xai"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README",
+   "支持国产服务商（豆包/智谱/千帆/Kimi/DeepSeek/SiliconFlow）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Tars is an Obsidian plugin that supports text generation based on tag suggestions, using services like Claude, OpenAI, G",
+   "L80: - Add an AI assistant in the settings page, set the API key, and configure the model.",
+   "L82: - Select an assistant from the command list, like \"#Claude :\", to trigger the AI assistant to answer the question."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     6,
+     50
+    ],
+    "quotes": [
+     "Tars is an Obsidian plugin that supports text generation based on tag suggestions, using services like Claude, OpenAI, G",
+     "- Claude"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     6,
+     51,
+     71
+    ],
+    "quotes": [
+     "Tars is an Obsidian plugin that supports text generation based on tag suggestions, using services like Claude, OpenAI, G",
+     "- DeepSeek",
+     "- 🔥DeepSeek: the reasoning model's CoT is output in callout format"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     6,
+     59
+    ],
+    "quotes": [
+     "Tars is an Obsidian plugin that supports text generation based on tag suggestions, using services like Claude, OpenAI, G",
+     "- OpenRouter"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     6,
+     57
+    ],
+    "quotes": [
+     "Tars is an Obsidian plugin that supports text generation based on tag suggestions, using services like Claude, OpenAI, G",
+     "- Ollama"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     49,
+     70
+    ],
+    "quotes": [
+     "- Azure OpenAI",
+     "- Azure: the model field holds the deployment name you chose in the portal, not a model id"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     63
+    ],
+    "quotes": [
+     "- X.ai Grok"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     187
+    ],
+    "note": "开发构建命令（源码运行）",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     6,
+     61
+    ],
+    "note": "服务商列表条目",
+    "quotes": [
+     "Tars is an Obsidian plugin that supports text generation based on tag suggestions, using services like Claude, OpenAI, G",
+     "- Qwen"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     6,
+     54
+    ],
+    "quotes": [
+     "Tars is an Obsidian plugin that supports text generation based on tag suggestions, using services like Claude, OpenAI, G",
+     "- Kimi"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     6,
+     52
+    ],
+    "quotes": [
+     "Tars is an Obsidian plugin that supports text generation based on tag suggestions, using services like Claude, OpenAI, G",
+     "- Doubao"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [],
+    "note": "误命中：L25/26/101/113 为 cursor position（光标位置），非编辑器产品",
+    "quotes": []
+   }
+  ]
+ }
+}

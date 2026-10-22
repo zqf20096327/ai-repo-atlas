@@ -1,0 +1,100 @@
+{
+ "fn": "francomascareloai/EA_SCALPER_XAUUSD",
+ "sha": "56d8cd1de274",
+ "source": "readme",
+ "identity": {
+  "one_liner": "XAUUSD 黄金自动交易研究项目：公开 MQL5 代码供学习协作",
+  "review": "一个进行中的 XAUUSD（黄金）自动化交易公开研究仓库，发布 MQL5 快照供学习、分析与工程协作，明确声明非成品、不承诺盈利、禁止实盘或接入经纪商执行（见 TRADING_RESTRICTIONS.md）。作者称先分析了 5000+ 个交易机器人再动手；私有部分为 Python/NautilusTrader 回测与执行栈，探索 SMC 概念、ML 市场状态检测与 ONNX 推理（尚未端到端接入）。PR 范围限于文档/CI/工具/重构，需签 CLA。",
+  "highlights": [
+   "公开可读的 MQL5 Expert Advisor 与指标代码快照",
+   "私有侧含策略/执行/风控/回测（walk-forward、Monte Carlo）等在研模块",
+   "研究 prop-firm 约束（Apex/FTMO 风格）下的架构",
+   "明确限制：仅教育与协作用途，禁止实盘执行"
+  ],
+  "use_cases": [
+   "学习与审计一个真实交易 EA 的 MQL5 代码结构",
+   "参与文档、CI、工具与重构方向的工程协作",
+   "研究 prop-firm 约束下的自动交易架构设计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化交易",
+   "MQL5/MetaTrader5",
+   "黄金交易",
+   "研究项目/WIP",
+   "prop-firm"
+  ],
+  "domain": "金融/量化交易",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L45: - **MQL5** — MetaTrader 5 Expert Advisors and indicators (this snapshot).",
+   "L47: - **SMC concepts, ML regime detection, ONNX inference** — explored and being validated, not all wired end-to-end yet."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    28,
+    30,
+    31
+   ],
+   "note": "公开/私有双轨（open-core split），私有部分不公开",
+   "quotes": [
+    "- **Public minimal CORE (study/demo only):** `aurum-core`",
+    "- **This repo:** the broader MQL5 snapshot for study and collaboration.",
+    "- **Private work-in-progress system:** the Python/NautilusTrader stack where the active development happens (not public "
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

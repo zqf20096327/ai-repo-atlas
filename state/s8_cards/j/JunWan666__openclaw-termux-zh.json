@@ -1,0 +1,154 @@
+{
+ "fn": "JunWan666/openclaw-termux-zh",
+ "sha": "09d88083fdcb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenClaw 的 Android 中文整合客户端：手机上安装并管理 OpenClaw",
+  "review": "社区维护的 OpenClaw Android 独立整合版（上游 mithun50/openclaw-termux），整合自 TIANLI0 汉化分支。APK 内置 Ubuntu RootFS（PRoot）、Node.js 与 OpenClaw 运行环境，不依赖 Termux。提供中文安装向导、AI 提供商管理、消息平台接入（QQ/微信插件手动安装）、可选在手机上安装 llama.cpp 并下载 GGUF 模型做本地对话（流式输出、Markdown 渲染）、配置编辑、备份恢复，以及通过配对向 Gateway 暴露摄像头/GPS/传感器/串口等设备节点能力。当前仅发布 ARM64 完整版 APK（Android 10+），Canvas 能力未实现；非 OpenClaw 官方渠道。",
+  "highlights": [
+   "APK 内置 Ubuntu RootFS、Node.js 与 OpenClaw，首次初始化本地部署不依赖 Termux",
+   "手机上安装 llama.cpp、管理 GGUF 模型并直接本地对话",
+   "节点能力接入 Gateway：摄像头、GPS、屏幕录制、传感器、串口等（Canvas 未实现）",
+   "中文安装向导、配置编辑、对话日志、备份导出与恢复"
+  ],
+  "use_cases": [
+   "在 Android 手机上不装 Termux 直接运行 OpenClaw 及其 Gateway",
+   "用中文界面配置 AI 提供商、消息平台插件并编辑 openclaw.json",
+   "把手机摄像头、GPS 等设备能力作为节点接入 OpenClaw 网关"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Android",
+   "OpenClaw",
+   "AI网关/节点",
+   "本地模型",
+   "移动端运维"
+  ],
+  "domain": "移动端 AI 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp",
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文整合版定位",
+   "微信群交流群",
+   "QQ/微信插件支持",
+   "国内公益 API（7749）配置迁移"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L34: - 在 Android 上管理 AI 提供商、消息平台、网关和节点能力。",
+   "L52: - AI 提供商管理、消息平台接入、可选组件安装、节点能力配置。",
+   "L54: - 支持在手机上安装 `llama.cpp`、下载和管理 GGUF 模型、写入本地 Provider 预设，并直接进入本地对话页测试。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     54,
+     140
+    ],
+    "note": "应用内可安装 llama.cpp 运行时并下载 GGUF 模型，作为本地 Provider 预设",
+    "quotes": [
+     "- 支持在手机上安装 `llama.cpp`、下载和管理 GGUF 模型、写入本地 Provider 预设，并直接进入本地对话页测试。",
+     "- 修复 llama.cpp 最新稳定 Release 缺少 Ubuntu 二进制包时的运行时下载问题。"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     137
+    ],
+    "note": "首次初始化默认引导配置 DeepSeek 官方 API",
+    "quotes": [
+     "- 首次初始化默认引导配置 DeepSeek 官方 API，不再内置可直接使用的第三方 API Key。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     66,
+     136
+    ],
+    "note": "内置运行时描述中提及 npm，非本产品安装途径",
+    "quotes": [
+     "|内置稳定版|`2026.3.23`|APK 本地恢复；不下载、不运行 npm install|兼容 v3|ARM64 使用已验证的 `24.18.1`|",
+     "- ARM64 APK 内置 Ubuntu 24.04.3、Node.js 24.18.1、npm 11.16.0 和 OpenClaw 2026.3.23，首次初始化不再下载或执行完整 npm install。"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     164,
+     167
+    ],
+    "quotes": [
+     "git clone https://github.com/JunWan666/openclaw-termux-zh.git",
+     "python scripts/build_release.py --version 3.0.1 --build-number 82 --non-interactive"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

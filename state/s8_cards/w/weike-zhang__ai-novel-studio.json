@@ -1,0 +1,91 @@
+{
+ "fn": "weike-zhang/ai-novel-studio",
+ "sha": "f9592d5f9c72",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 互动小说创作台：世界构建、分支选择与角色状态持久化",
+  "review": "基于 Next.js 与 Go 的 AI 互动小说应用：玩家创建世界并沿私人旅程推进剧情，由模型生成散文；核心机制是生成内容与已提交事实之间的边界——模型可提议动作，但状态补丁不能改名既有角色，服务端在校验后才事务性提交，世界采用冻结快照。后端经 RabbitMQ 队列化生成任务，模型走 OpenAI 兼容请求并可配置端点与回退。含无需 API key 的确定性 Go demo；公开版仅含合成开发数据，不含线上目录与支付集成。面向叙事游戏与有状态 AI 应用的开发者及互动小说玩家。",
+  "highlights": [
+   "模型提议—服务端校验—事务提交的回合制故事引擎，拒绝非法状态变更",
+   "世界冻结快照与已提交上下文的角色/场景校验",
+   "RabbitMQ 队列化生成任务，OpenAI 兼容端点可配置并带回退",
+   "附带确定性 fake provider 的 Go demo，无需 API key/数据库/Docker"
+  ],
+  "use_cases": [
+   "创作带世界设定的 AI 互动小说并做分支选择",
+   "参考生成散文与存储事实边界的实现，构建叙事游戏或有状态 AI 应用",
+   "用内存仓库 demo 验证回合提交与非法变更拒绝行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI小说",
+   "互动叙事",
+   "状态校验",
+   "全栈应用"
+  ],
+  "domain": "AI 创作/互动叙事应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README，标题含『AI 小说创作台』"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: An AI novel generation platform with world building, interactive choices, and persistent character state.",
+   "L7: AI Novel Studio is an AI interactive fiction application built with Next.js and Go. Create a world, start a private jour",
+   "L9: For developers building narrative games or stateful AI applications, the useful part is the boundary between generated p"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

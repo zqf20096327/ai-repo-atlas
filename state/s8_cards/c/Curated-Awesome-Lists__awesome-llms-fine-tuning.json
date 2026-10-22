@@ -1,0 +1,161 @@
+{
+ "fn": "Curated-Awesome-Lists/awesome-llms-fine-tuning",
+ "sha": "699bdcafe040",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 微调资源策展清单：教程、论文、工具与课程汇编",
+  "review": "面向研究人员、数据科学家与机器学习从业者的 LLM 微调主题 awesome list：收录 20+ 个 GitHub 微调框架与工具（含 star 数标注）、20+ 篇文章博客、10+ 门在线课程与书籍条目，内容覆盖 LoRA/QLoRA、RLHF/DPO、RAG 对比、企业数据微调等主题。仓库本身为纯清单，不提供可安装运行的软件，条目仅含链接与简介。",
+  "highlights": [
+   "收录 AutoTrain、LLaMA-Factory、H2O LLM Studio 等 20+ 个微调框架与工具条目（附 star 数）",
+   "汇编微调主题文章博客，覆盖 QLoRA、RLHF/DPO、RAG vs 微调等议题",
+   "收录 Udemy/Coursera/edX 在线课程与书籍条目"
+  ],
+  "use_cases": [
+   "寻找可用的 LLM 微调框架与工具",
+   "系统学习 LLM 微调方法与最佳实践",
+   "对比微调与 RAG 等方案的参考资料查找"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "LLM微调",
+   "学习资源",
+   "工具清单"
+  ],
+  "domain": "LLM/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Welcome to the curated collection of resources for fine-tuning Large Language Models (LLMs) like GPT, BERT, RoBERTa, and",
+   "L7: In this awesome list, we have meticulously compiled a range of resources, including tutorials, papers, tools, frameworks",
+   "L11: ## GitHub projects"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "文章条目中提及微调 Google PaLM 2，非本产品接入",
+    "quotes": [
+     "- Fine-tune Google PaLM 2 with Scikit-LLM - Demonstrating how to fine-tune Google PaLM 2, the most advanced LLM from Goo"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     172,
+     179
+    ],
+    "quotes": [
+     "- AI & Prompt Engineering Meetup Munich, Do., 5. Okt. 2023, 18:15 - Introduce H2O LLM Studio for fine-tuning LLMs and br",
+     "- DC AI/ML/Data Developers Group | Meetup: This group aims to bring together AI enthusiasts in the D.C. area to learn an"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     43
+    ],
+    "note": "文章条目中的 Colab 实践教程，非本产品安装方式",
+    "quotes": [
+     "- Fine-Tune Your Own Llama 2 Model in a Colab Notebook 📝: A practical introduction to LLM fine-tuning, demonstrating how"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     15,
+     21
+    ],
+    "note": "被列举框架所支持的模型",
+    "quotes": [
+     "- LLaMA-Factory: An easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3). (5532 star",
+     "- xtuner: A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM2). (540 stars)"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     65,
+     74
+    ],
+    "note": "课程条目主题中提及",
+    "quotes": [
+     "- OpenAI & ChatGPT API's: Expert Fine-tuning for Developers | Udemy: Discover the power of GPT-3 in creating conversatio",
+     "- Exploring The Technologies Behind ChatGPT, GPT4 & LLMs: The only course you need to learn about large language models "
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "quotes": [
+     "- How to Fine-Tune an LLM with a PDF - Langchain Tutorial - YouTube: Learn how to fine-tune OpenAI's GPT LLM to process "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

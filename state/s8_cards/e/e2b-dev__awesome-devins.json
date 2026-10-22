@@ -1,0 +1,128 @@
+{
+ "fn": "e2b-dev/awesome-devins",
+ "sha": "483741c5debe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "受 Devin 启发的 AI 编程 Agent 策展清单",
+  "review": "由 E2B 维护的 awesome list，收录 Devin 发布后出现的开源与闭源 AI 软件 Agent（如 OpenDevin、Devika、SWE-agent、MetaGPT、Plandex 等），按开源/闭源分节，每个条目给出分类（Coding、通用、多智能体等）、功能描述与 GitHub/Discord/论文链接。面向想了解 AI 编程 Agent 生态的开发者，通过 PR 或表单提交新条目，并附 E2B 云运行时推广入口。条目覆盖不全由维护者自行声明。",
+  "highlights": [
+   "收录开源与闭源两类 Devin 类 AI Agent",
+   "每条目含类别、描述与链接（GitHub/Demo/论文/Discord）",
+   "支持通过 PR 或表单提交新产品",
+   "附有 AI Agent 生态全景图与相关 SDK 清单入口"
+  ],
+  "use_cases": [
+   "查找和比较 Devin 类开源 AI 编程 Agent",
+   "跟踪 AI 软件工程 Agent 生态的新项目",
+   "为选型调研收集各 Agent 的能力与基准信息"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI Agent",
+   "编程Agent",
+   "知识聚合"
+  ],
+  "domain": "AI Agent/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: Welcome to our list of AI agents that are inspired by release of Devin. See the 🌟 complete list of AI agents on GitHub o",
+   "L28: # Open-source \"Devins\"",
+   "L228: # Closed-source \"Devins\""
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "note": "Devika 条目中提及支持 Local LLMs via Ollama，非本清单接入",
+    "quotes": [
+     "- Devika supports Claude 3, GPT-4, GPT-3.5, and Local LLMs via Ollama"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "note": "Devika 条目提及支持 Claude 3，非本清单接入",
+    "quotes": [
+     "- Devika supports Claude 3, GPT-4, GPT-3.5, and Local LLMs via Ollama"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     16,
+     115,
+     130
+    ],
+    "note": "作为清单主题背景与条目对比对象被提及，非替代声明主体",
+    "quotes": [
+     "Welcome to our list of AI agents that are inspired by release of Devin. See the 🌟 complete list of AI agents on GitHub o",
+     "- Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+     "- Open-source alternative to Devin by Entropy research"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "fn": "Shaarav4795/ClippedAI",
+ "sha": "84614411d3f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 长视频转 YouTube Shorts 剪辑生成器，OpusClip 开源替代",
+  "review": "基于 Python 与 clipsai 库的视频剪辑工具：用 Whisper 模型转录、Pyannote 做说话人分离，按词密度（45%）、互动词比例（30%）、时长均衡（25%）打分选取片段，自动裁剪为 9:16 并生成带样式的动态字幕；标题由 Groq API（免费层）生成。需 HuggingFace token 访问 Pyannote 模型（首次下载约 2GB），FFmpeg 为必需依赖，转录模型大小可按 RAM/VRAM 配置。以源码方式运行 python main.py，许可为 CC BY-NC 4.0（禁商用）。",
+  "highlights": [
+   "Whisper 转录 + Pyannote 说话人分离的本地处理流程",
+   "三因子加权（词密度/互动词/时长）的片段评分选取",
+   "自动 9:16 裁剪与 ASS 动态字幕（Montserrat 字体、数字高亮）",
+   "转录缓存与多视频批量处理，6 档模型按硬件选择"
+  ],
+  "use_cases": [
+   "把长视频自动切成多条 YouTube Shorts",
+   "不想付订阅费、需本地处理视频隐私内容时使用",
+   "按自己硬件选择转录模型批量出片"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频剪辑",
+   "短视频生成",
+   "转录/字幕",
+   "内容创作"
+  ],
+  "domain": "视频/内容创作工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: **Open-source alternative to OpusClip** - Transform long-form videos into engaging YouTube Shorts automatically using AI",
+   "L10: - **Smart Clip Detection**: AI identifies the most engaging moments in your videos",
+   "L13: - **Viral Title Generation**: AI generates catchy, titles optimized for engagement"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     114,
+     118,
+     214
+    ],
+    "note": "Groq API key 用于标题生成，必填环境变量",
+    "quotes": [
+     "#### Groq API Key (Required for viral titles) - **100% FREE**",
+     "3. Add your API key to the `.env` file where `GROQ_API_KEY=your_groq_api_key_here`",
+     "|`GROQ_API_KEY`|your_groq_api_key_here|Groq API key for viral title generation|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47,
+     48
+    ],
+    "quotes": [
+     "   git clone https://github.com/Shaarav4795/ClippedAI.git",
+     "   cd ClippedAI"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     63
+    ],
+    "note": "pip install -r requirements.txt 为本产品安装步骤；L236 为依赖库 clipsai 安装",
+    "quotes": [
+     "   pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     69
+    ],
+    "note": "ffmpeg 必需系统依赖的安装方式",
+    "quotes": [
+     "   # macOS (using Homebrew)"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM** (16GB",
+    "rel": "support",
+    "lines": [
+     39
+    ],
+    "note": "本产品运行前置要求",
+    "quotes": [
+     "- **8GB+ RAM** (16GB+ recommended for large models)"
+    ]
+   },
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     139
+    ],
+    "quotes": [
+     "**For CPU-only systems:**"
+    ]
+   },
+   {
+    "term": "4GB RAM",
+    "rel": "support",
+    "lines": [
+     141
+    ],
+    "quotes": [
+     "- 4GB RAM: Use `tiny` or `base`"
+    ]
+   },
+   {
+    "term": "8GB RAM",
+    "rel": "support",
+    "lines": [
+     142
+    ],
+    "quotes": [
+     "- 8GB RAM: Use `small` or `medium`"
+    ]
+   },
+   {
+    "term": "2GB VRAM",
+    "rel": "support",
+    "lines": [
+     148
+    ],
+    "note": "按硬件选择转录模型的建议",
+    "quotes": [
+     "- GPU with 2GB VRAM: Use `medium` or `large-v1`"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     87,
+     89
+    ],
+    "note": "作为 token/模型托管平台被使用，非替代/竞品对象；OpusClip 自称替代但不在候选清单",
+    "quotes": [
+     "#### HuggingFace Token (Required) - **100% FREE**",
+     "1. **Sign up for HuggingFace**"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

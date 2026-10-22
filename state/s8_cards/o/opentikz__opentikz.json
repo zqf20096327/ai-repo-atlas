@@ -1,0 +1,169 @@
+{
+ "fn": "opentikz/opentikz",
+ "sha": "87ff7b620e29",
+ "source": "readme",
+ "identity": {
+  "one_liner": "学术论文 TikZ 图示资源库：图标/模板 + AI agent 技能，免手写 TikZ",
+  "review": "面向论文写作者的 LaTeX TikZ 图示资源库，分三层组织：可独立复制编译的原子图标、带 edit_contract 的可编辑参数化模板、组合级示例；另含一个 SKILL.md 格式的 agent 技能，让 Claude Code 等 AI agent 完成找图→复制→按 edit_contract 编辑→编译验证的流程，支持描述生成 TikZ 与 PNG 转 TikZ。也可完全不用 AI，直接浏览画廊复制 .tex 源码。以 Claude Code 插件或 git clone 方式使用，代码 MIT、图形内容 CC0。",
+  "highlights": [
+   "图标/模板/示例三层结构，每个 .tex 均为 standalone 可独立编译",
+   "每个模板在 meta.json 中携带 edit_contract，供 agent 安全编辑",
+   "SKILL.md 技能支持描述生成、模板编辑、PNG 转 TikZ 四种用法",
+   "提供 41 个工具/平台品牌图标及共享配色系统"
+  ],
+  "use_cases": [
+   "论文中快速获得可编辑的架构图/流程图/系统框图",
+   "让 Claude Code 等 agent 按描述起草或修改 TikZ 图并验证编译",
+   "直接复制图标或模板源码，不用 AI 也能用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TikZ/LaTeX",
+   "学术论文图表",
+   "agent技能",
+   "模板库"
+  ],
+  "domain": "学术写作/LaTeX 图示资源",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "ChatGPT"
+  ],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L16: OpenTikZ is the \"Flaticon for academic TikZ\" — conceptual/overview figures",
+   "L144: - **`skills/using-opentikz/`** — the one repo-wide skill that takes an AI agent"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     27,
+     28
+    ],
+    "note": "提供 Claude Code 插件市场专属安装通道",
+    "quotes": [
+     "**Use it with your AI agent (recommended).** Install the Claude Code plugin —",
+     "run these as two separate Claude Code messages:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "**Other agents (Codex, Cursor, Gemini CLI…).** `git clone` this repo and tell the"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     166
+    ],
+    "note": "贡献工具链的依赖安装，非本产品使用途径",
+    "quotes": [
+     "python3 -m pip install -r requirements.txt   # installs jsonschema"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     27,
+     28
+    ],
+    "note": "技能运行的目标 agent 框架，非替代对象",
+    "quotes": [
+     "**Use it with your AI agent (recommended).** Install the Claude Code plugin —",
+     "run these as two separate Claude Code messages:"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     41
+    ],
+    "note": "列出的其他可用 agent",
+    "quotes": [
+     "**Other agents (Codex, Cursor, Gemini CLI…).** `git clone` this repo and tell the"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "competitor",
+    "lines": [
+     57
+    ],
+    "note": "与裸用 ChatGPT 生成 TikZ 做能力对比",
+    "quotes": [
+     "**Why not just ask ChatGPT for TikZ directly?** You can — but raw LLM TikZ tends"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "代码 MIT + 内容 CC0 为分项许可，非双许可/商业版",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

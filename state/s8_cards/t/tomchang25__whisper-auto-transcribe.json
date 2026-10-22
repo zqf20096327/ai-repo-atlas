@@ -1,0 +1,104 @@
+{
+ "fn": "tomchang25/whisper-auto-transcribe",
+ "sha": "1c572cc4ac3f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为视频/音频自动生成与翻译字幕的 Whisper 工具",
+  "review": "基于 OpenAI Whisper 的字幕生成工具：对视频或音频自动转录并生成字幕，支持翻译为英文、99 种语言、GPU（CUDA）加速与 CLI 模式；特色包括一键安装器、0.01 秒级时间精度、YouTube 集成、字幕预览、背景音乐静音处理、3 小时长文件与批量处理。以 Gradio Web UI（127.0.0.1:7860）和 CLI 两种方式运行，限制为 GPU 加速仅在 CUDA 环境下可用，且需足够显存（large 模型约 10 GB）。",
+  "highlights": [
+   "自动生成字幕并翻译为英文，支持 99 种语言",
+   "Gradio Web UI 与 CLI 两种使用方式",
+   "支持 YouTube 集成、批量处理与长文件（3 小时已测试）",
+   "时间精度提升至 0.01 秒，含背景音乐静音处理"
+  ],
+  "use_cases": [
+   "给视频或音频文件生成字幕",
+   "将非英语内容转录并翻译为英文字幕",
+   "批量处理 YouTube 视频字幕"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音识别",
+   "字幕生成",
+   "Whisper",
+   "桌面/本地工具"
+  ],
+  "domain": "语音识别/字幕工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L45: The tool is based on OpenAI-whisper, the latest project developed by OpenAI.",
+   "L23: - Automatically generates subtitles for video or audio content"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     101
+    ],
+    "note": "pip 用于安装依赖 PyTorch，非本产品发布渠道",
+    "quotes": [
+     "   python -m pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1+cu113 -f https://download.pyto"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

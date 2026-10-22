@@ -1,0 +1,113 @@
+{
+ "fn": "awesome-algorand/awesome-algorand",
+ "sha": "9b337b33ce58",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Algorand 区块链生态资源策展清单，面向开发者",
+  "review": "由 awesome-algorand 组织维护的 Algorand 区块链资源清单：收录官方资源、AlgoKit 官方工具链与模板、课程教程、社区开源项目、以及 C++/Go/Python/JS/Java/.NET 等多语言 SDK 与开发工具。内容围绕智能合约开发（PyTeal/TEAL）、DApp 构建与链上工具展开，按类别组织为索引式目录，不提供可安装的本体软件，供开发者和学习者按需检索链接。",
+  "highlights": [
+   "收录官方资源、AlgoKit 工具链与社区模板",
+   "覆盖多语言 SDK（C++/Go/Python/JS/Java/.NET 等）",
+   "包含课程、教程与约 30 个社区开源项目条目"
+  ],
+  "use_cases": [
+   "查找 Algorand 各语言的官方与社区 SDK",
+   "入门 Algorand 智能合约开发时寻找课程与教程",
+   "发现构建在 Algorand 上的开源项目与工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "区块链",
+   "智能合约",
+   "开发者资源"
+  ],
+  "domain": "区块链/开发资源",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ⚡ A curated list of awesome resources related to the Algorand Blockchain.",
+   "L5: Algorand is an open-source, proof of stake Blockchain and smart contract computing platform."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     116
+    ],
+    "note": "minter 项目用 Node.js 编写，为本清单收录条目的描述，非本产品安装途径",
+    "quotes": [
+     "- minter - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by @fish.exe."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     376,
+     381
+    ],
+    "note": "窗外行，收录条目中提及",
+    "quotes": [
+     "- Algorand-GPT - An Algorand Assistant Expert with access to all Algorand documentation and chain data built on OpenAI's",
+     "- DID-GPT - A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

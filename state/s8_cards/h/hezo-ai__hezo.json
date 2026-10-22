@@ -1,0 +1,207 @@
+{
+ "fn": "hezo-ai/hezo",
+ "sha": "889b5c2fc28f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源的 AI agent 团队运行平台：按组织架构编排多 agent 协作",
+  "review": "自托管的服务器与 Web 应用（单个二进制文件），以公司组织方式运行 AI agent 团队：可设 CEO、Captain、工程师等角色，配备任务板、审批门槛、预算上限与按项目沙箱隔离的容器。通过各家第一方 CLI（Claude Code、Codex 等）接入 Anthropic/OpenAI/Google/xAI/Ollama 等模型，支持自带 API key。安全机制包括密钥占位符加出站代理替换、静态加密与审计日志；另有付费托管版 Hezo Cloud。本机运行需 Docker 兼容运行时（或改用托管沙箱）。",
+  "highlights": [
+   "组织式多 agent 编排：CEO/Captain/工人角色、任务板与审批门槛",
+   "密钥占位符 + 出站代理按主机白名单替换，agent 不接触真实凭据",
+   "通过第一方 CLI 运行 10 家模型提供商（含本地 Ollama/LM Studio）",
+   "Coach 在任务完成后将经验写回 agent 形成可复用规则"
+  ],
+  "use_cases": [
+   "让一组 AI agent 自主推进真实仓库上的开发任务",
+   "从 Slack/Telegram/Discord 向 CEO agent 询问项目状态",
+   "按预算上限和容器时长额度控制多 agent 运行开销"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "agent团队",
+   "自托管",
+   "沙箱隔离",
+   "LLM基础设施"
+  ],
+  "domain": "AI agent 平台/自托管基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai",
+   "openrouter",
+   "deepseek",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: Hezo is an open source server and web app for running **teams of AI agents like an",
+   "L133: - **One platform layer over every model.** The meta-harness",
+   "L209: driven through a **first-party agentic command-line runtime** inside the container."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     210,
+     217
+    ],
+    "note": "官方表格列出的受支持提供商，经 Claude Code 运行",
+    "quotes": [
+     "Anthropic, OpenAI, Google and xAI each run on their own CLI; the",
+     "|**Anthropic**|Claude|Claude Code|API key or subscription|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     210,
+     220
+    ],
+    "quotes": [
+     "Anthropic, OpenAI, Google and xAI each run on their own CLI; the",
+     "|**xAI**|Grok|Grok Build|API key|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     211,
+     224
+    ],
+    "note": "经 OpenCode 运行",
+    "quotes": [
+     "Anthropic-compatible providers run through Claude Code, and OpenRouter through",
+     "|**OpenRouter**|Many, via one account|OpenCode|API key|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     222
+    ],
+    "quotes": [
+     "|**DeepSeek**|DeepSeek|Claude Code|API key|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     225,
+     232
+    ],
+    "note": "本地运行时，经 Claude Code 接入，指向 Server URL",
+    "quotes": [
+     "|**Ollama**|Whatever you run locally|Claude Code|Server URL (key optional)|",
+     "Ollama and LM Studio run agents **entirely on your own hardware** at no per-token cost -"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     247,
+     249
+    ],
+    "note": "开发环境从源码克隆并以 bun 运行",
+    "quotes": [
+     "git clone https://github.com/hezo-ai/hezo.git",
+     "bun install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     136,
+     217
+    ],
+    "note": "作为模型运行 CLI 被使用，非替代对象",
+    "quotes": [
+     " a run end on failing tests or an \"out of scope\" dodge. It runs on Claude Code, Codex and",
+     "|**Anthropic**|Claude|Claude Code|API key or subscription|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     221
+    ],
+    "quotes": [
+     "|**Kimi** (Moonshot)|Kimi|Claude Code or Kimi Code|API key|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     218
+    ],
+    "quotes": [
+     "|**OpenAI**|ChatGPT / GPT|Codex|API key or subscription|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "GPL-3.0 开源 + Hezo Cloud 托管服务，非双许可声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

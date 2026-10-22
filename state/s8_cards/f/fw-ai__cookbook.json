@@ -1,0 +1,173 @@
+{
+ "fn": "fw-ai/cookbook",
+ "sha": "794c89b81f57",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Fireworks 平台训练教程与 agent 技能集：RL/DPO/SFT 等训练循环示例",
+  "review": "Fireworks AI 官方 cookbook 仓库：提供训练循环与示例，覆盖 RL（GRPO、IGPO、SAO/PPO）、偏好优化（DPO、ORPO）、SFT、蒸馏与嵌入微调，基于 Fireworks Training API。另含面向 AI agent 的三技能包（research/configure/debug），将 Fireworks 训练知识以 Agent Skills Markdown 形式接入 Claude Code、Cursor、Codex。还有通过 Harbor 运行 HealthBench Professional 并导出 RL 轨迹的评测模块。以 git clone 源码加 uv 安装训练包，或通过插件/技能命令安装技能。",
+  "highlights": [
+   "每文件一个训练循环的 recipes（RL/偏好优化/SFT/蒸馏/嵌入微调）",
+   "research/configure/debug 三个 agent 技能，规划类技能在花费前请求批准",
+   "兼容 Claude Code / Cursor / Codex 的 Agent Skills Markdown 安装路径",
+   "HealthBench Professional 评测轨迹导出用于 RL 工作流"
+  ],
+  "use_cases": [
+   "在 Fireworks 上做 SFT/DPO/RL 训练时参考可运行的循环代码",
+   "让 Claude Code/Cursor/Codex 里的 agent 规划或排查 Fireworks 训练任务",
+   "构建带行为策略 logprobs 的 RL 训练轨迹数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "训练教程/示例",
+   "后训练",
+   "agent技能",
+   "RLHF/偏好优化",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 训练/开发者教程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Training loops and worked examples for RL (GRPO, IGPO, SAO/PPO), preference",
+   "L20: These skills bring Fireworks training know-how into compatible AI agents through"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     32,
+     35,
+     36
+    ],
+    "note": "Claude Code 作为技能安装宿主出现，非模型接入",
+    "quotes": [
+     "### Claude Code",
+     "claude plugin marketplace add fw-ai/cookbook",
+     "claude plugin install fireworks-training@fw-ai-cookbook"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     10,
+     12,
+     13
+    ],
+    "quotes": [
+     "git clone https://github.com/fw-ai/cookbook.git",
+     "uv venv --python 3.12 && source .venv/bin/activate",
+     "uv pip install -e ."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     13
+    ],
+    "note": "uv pip install -e . 安装本仓库训练包",
+    "quotes": [
+     "uv pip install -e ."
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     42,
+     49
+    ],
+    "note": "npx skills add 安装本仓库技能到 Cursor/Codex",
+    "quotes": [
+     "npx --yes skills add fw-ai/cookbook -g \\",
+     "npx --yes skills add fw-ai/cookbook -g \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     32,
+     35,
+     36
+    ],
+    "note": "技能分发的目标 agent",
+    "quotes": [
+     "### Claude Code",
+     "claude plugin marketplace add fw-ai/cookbook",
+     "claude plugin install fireworks-training@fw-ai-cookbook"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     39,
+     43
+    ],
+    "note": "技能分发的目标 agent",
+    "quotes": [
+     "### Cursor",
+     "  -s fireworks-training -s research -s configure -s debug -a cursor -y"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

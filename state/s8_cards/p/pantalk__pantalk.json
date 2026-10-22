@@ -1,0 +1,154 @@
+{
+ "fn": "pantalk/pantalk",
+ "sha": "2002383b2ca3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把编码 Agent 接入聊天平台的守护进程，两端均可插拔",
+  "review": "Pantalk 是一个本地守护进程 pantalkd，把用户已有的编码 Agent（Claude Code、Codex、Kimi Code、Copilot、Gemini CLI、Goose 等）接入团队已有的聊天平台（Slack、Discord、Telegram、WhatsApp、Matrix、iMessage 等 13 种）。Agent 通过 driver 接入、平台通过 connector 接入，二者用 YAML 中的 when: 绑定关联，切换任一端只需改一行配置。提供统一 CLI、SQLite 本地持久化、按 service/bot/channel/thread/user 隔离的会话，以及内含 Codex/Claude Code 的参考镜像 Pantalk Ghost。以 Docker 镜像与二进制形式发布。",
+  "highlights": [
+   "N 个 Agent harness × 13 个聊天平台，一个守护进程完成路由",
+   "更换 harness 或平台只需修改 YAML 中一行配置",
+   "基于 Unix socket 的 JSON 协议 CLI，可与 grep/jq/xargs 组合",
+   "pantalk local 单进程模式提供零配置本地对话，SQLite 本地持久化无外部依赖"
+  ],
+  "use_cases": [
+   "团队在 Slack/Telegram 等频道中 @ 机器人调用 Claude Code 或 Codex 完成修 bug、开 PR",
+   "值班事件在 on-call 频道触发 Agent 分诊并经 Twilio/WhatsApp 通知到手机",
+   "一个 Agent 订阅供全团队共享，每人获得隔离会话，无需逐人安装 CLI"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent 接入/网关",
+   "聊天平台集成",
+   "DevOps 协作",
+   "CLI 工具",
+   "自托管服务"
+  ],
+  "domain": "AI Agent 基础设施/消息集成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: Harnesses plug in on one edge. Platforms plug in on the other. `pantalkd` sits",
+   "L185: - **Both ends pluggable** - harnesses attach through drivers, platforms through connectors; neither knows about the othe"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "note": "README 提及 Anthropic 的 Claude tag 产品，非本产品直接接入声明",
+    "quotes": [
+     "Claude tag puts Claude in Slack. OpenAI's Codex app puts Codex in Slack. Block's"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     202,
+     221
+    ],
+    "quotes": [
+     "docker run --detach \\",
+     "docker pull ghcr.io/pantalk/pantalk:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     6,
+     139
+    ],
+    "note": "作为可接入的 harness 被列举",
+    "quotes": [
+     " A daemon that puts the coding agent you already run - Claude Code, Codex, Kimi Code, Zot, Copilot, Gemini CLI, Goose, O",
+     "|**Copilot**|`command`|Allowlisted by default|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     6,
+     135
+    ],
+    "note": "作为原生 driver 支持的 harness，非替代/竞品对象",
+    "quotes": [
+     " A daemon that puts the coding agent you already run - Claude Code, Codex, Kimi Code, Zot, Copilot, Gemini CLI, Goose, O",
+     "|**Claude Code**|`claude` native|Reuses local auth/config, resumes sessions|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     6,
+     137
+    ],
+    "note": "Kimi Code 作为 ACP harness 被支持",
+    "quotes": [
+     " A daemon that puts the coding agent you already run - Claude Code, Codex, Kimi Code, Zot, Copilot, Gemini CLI, Goose, O",
+     "|**Kimi Code**|`acp`, command `kimi acp`|Persistent ACP sessions and model selection|"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "fn": "kellyvv/OpenHer",
+ "sha": "0a5da1226985",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源人格引擎：AI 陪伴角色的性格由神经网络涌现而非提示词",
+  "review": "OpenHer 是一个用 Python 编写的人格引擎，灵感来自电影《Her》。它通过随机神经网络（25D→24D→8D）、5 维人格驱力、代谢层与强化学习生成角色性格，配 EverMemOS 跨会话长期记忆与 SQLite 本地事实/风格记忆，支持主动消息、语音/照片等多模态表达与可扩展技能框架。内置 10 个角色，支持 8 家 LLM 服务商及 Ollama 本地模型。提供 macOS SwiftUI 桌面客户端（下载即用）与微信接入方案，角色通过调节驱力参数而非写性格描述来创建。阶段Ⅱ/Ⅲ功能（移动端、生理感知等）在路线图中尚未实现。",
+  "highlights": [
+   "人格由神经网络与驱力计算涌现，相同 MBTI 产生不同个体",
+   "5 维驱力随真实时间代谢，情绪与挫败感动态积累",
+   "EverMemOS 跨会话长期记忆 + SQLite 本地事实/风格记忆",
+   "8 家 LLM 服务商 + Ollama 本地模型，附四层基准测试报告"
+  ],
+  "use_cases": [
+   "与具备长期记忆与情绪变化的 AI 角色持续陪伴聊天",
+   "通过微信与 AI 角色进行文字、语音、照片交互",
+   "调节驱力参数创建自定义人格角色"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 陪伴",
+   "人格引擎",
+   "情感计算",
+   "长期记忆",
+   "多模态对话"
+  ],
+  "domain": "AI 陪伴/人格引擎",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "微信接入方案",
+   "通义千问/MiniMax/Moonshot/StepFun 等国产模型支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L54: 每个角色运行在一个活的神经网络之上。性格、情绪和行为从内在驱力中自然涌现，被每一次对话不断塑造。她不只是思考和行动——她会*渴望*、会*感受*、会*记住*、会因为认识你而*成长*。",
+   "L131: OpenHer 以同样的逻辑构建 Persona Engine——**运用仿生机制，创造了一套可人格涌现的神经网络**：",
+   "L143: 每一轮对话不是在执行预设脚本，而是一个**有内部状态的动力学系统**在当前情境、历史记忆与内驱力的共同作用下涌现出的反应。没有任何一行 prompt 描述她的性格——**人格不是被注入的，它在与你的每一次交互中持续生长，直到成为只属于你们之"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     245,
+     256
+    ],
+    "note": "ANTHROPIC_API_KEY 配置项，官方 API 通道",
+    "quotes": [
+     "|**Claude**|`ANTHROPIC_API_KEY`|claude-haiku-4-5|",
+     "DEFAULT_PROVIDER=gemini           # 或 claude, dashscope, openai, minimax, moonshot, stepfun, ollama"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     251,
+     256,
+     378
+    ],
+    "note": "无需密钥的本地模型通道，可选默认服务商",
+    "quotes": [
+     "|**Ollama**|*（无需密钥）*|本地模型|",
+     "DEFAULT_PROVIDER=gemini           # 或 claude, dashscope, openai, minimax, moonshot, stepfun, ollama",
+     "|LLM|Gemini, Claude, Qwen3, GPT-5.4-mini / GPT-4o, MiniMax, Moonshot, StepFun, Ollama|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     216,
+     223
+    ],
+    "quotes": [
+     "git clone https://github.com/kellyvv/OpenHer.git",
+     "bash setup.sh"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     230
+    ],
+    "note": "pip 安装依赖，非本产品发布包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     306
+    ],
+    "note": "自部署可选组件 EverMemOS 的方式",
+    "quotes": [
+     "cd vendor/EverMemOS && docker compose up -d && uv run python src/run.py"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     344
+    ],
+    "note": "微信桥 wechat-to-anything 可选组件",
+    "quotes": [
+     "npx -y wechat-to-anything@latest http://localhost:8001/v1"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     197,
+     246
+    ],
+    "note": "作为支持的 LLM 服务商之一",
+    "quotes": [
+     "|**Qwen Flash**|**7.5/10**|舞台指示控制优秀。Kelly ENTP 表现突出。价格极低。|",
+     "|**通义千问**|`DASHSCOPE_API_KEY`|qwen3-max|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

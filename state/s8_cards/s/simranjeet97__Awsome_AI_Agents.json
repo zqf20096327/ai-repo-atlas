@@ -1,0 +1,142 @@
+{
+ "fn": "simranjeet97/Awsome_AI_Agents",
+ "sha": "9385d5996522",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Agent 教学与 15+ Agent 项目合集（含视频课程）",
+  "review": "一个端到端的 Agentic AI 教程仓库：收录 15+ 个自主 AI Agent 示范项目，覆盖 Reasoning、RAG、Multi-Agent 协作、Vision 与持久记忆等能力。项目基于 Agno、Microsoft AutoGen、OpenAI Swarm 框架构建，使用 Gemini、Gemma 3/4、DeepSeek-R1、GPT-4o 等模型，配套 ChromaDB、Neo4j 向量库及 Firecrawl、SerpApi 等工具，并链接 YouTube 视频教程与社交媒体社区。另附每周热门 AI 仓库榜单。README 未提供安装或运行命令。",
+  "highlights": [
+   "15+ 个 Agent 项目，覆盖 RAG/多智能体/视觉/记忆等模式",
+   "基于 Agno、AutoGen、OpenAI Swarm 框架",
+   "配套 YouTube 视频教程",
+   "含本地运行项目的 Ollama+DeepSeek-R1/Gemma 3 方案"
+  ],
+  "use_cases": [
+   "跟做项目学习 Agentic AI 设计模式",
+   "寻找可复用的多智能体、RAG、视觉 Agent 参考实现",
+   "了解热门 Agent 相关仓库动态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 教程",
+   "项目合集",
+   "agentic-ai",
+   "课程资源"
+  ],
+  "domain": "AI 教育/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Welcome to the **Awesome AI Agents** repository! This is a comprehensive collection of autonomous AI agents built using ",
+   "L9: This repository contains over 15 unique AI agents, each demonstrating different capabilities such as **Reasoning**, **RA"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     19,
+     51
+    ],
+    "note": "DeepSeek-R1 作为项目所用模型被列举",
+    "quotes": [
+     "|📂 DeepSeek RAG|Local reasoning agent using DeepSeek-R1|DeepSeek, Ollama, Agno|",
+     "- **Models:** Gemini 3.0 Flash, Gemini 2.5 Flash, Google Gemma 3 and Gemma 4, DeepSeek-R1, GPT-4o"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     19,
+     20
+    ],
+    "note": "两个本地 RAG 项目以 Ollama 运行本地模型",
+    "quotes": [
+     "|📂 DeepSeek RAG|Local reasoning agent using DeepSeek-R1|DeepSeek, Ollama, Agno|",
+     "|📂 Gemma 3 RAG|Local reasoning with Google's Gemma 3|Gemma 3, Ollama, Agno|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     35,
+     36
+    ],
+    "note": "仅出现在外部热门仓库介绍中",
+    "quotes": [
+     "1. **Andrej Karpathy Skills:** Replaces paid Claude Code courses. ⭐ 48k+ stars.",
+     "2. **Claude Mem:** Auto-captures and compresses Claude's history for perfect persistent memory. ⭐ 59k+ stars."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "热门榜单提及，非本仓库产品",
+    "quotes": [
+     "1. **Andrej Karpathy Skills:** Replaces paid Claude Code courses. ⭐ 48k+ stars."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

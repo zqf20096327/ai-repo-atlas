@@ -1,0 +1,87 @@
+{
+ "fn": "Waikato/meka",
+ "sha": "ead12cf3ff63",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Weka 的多标签学习与评测开源实现",
+  "review": "Waikato 大学维护的 Java 开源项目，在 Weka 机器学习框架上实现多标签（multi-label）与多目标学习方法及评测流程，附带命令行工具供直接运行分类与评估。面向从事多标签分类研究的开发者与科研人员。文档包括教程 PDF、方法清单与命令行示例、以及 Java 代码调用示例。README 本身未给出安装命令，安装途径需查阅其教程文档。",
+  "highlights": [
+   "提供多标签学习方法与评测程序的开源实现",
+   "基于 Weka 机器学习框架，可用 Java 代码调用",
+   "提供命令行示例与教程文档（Tutorial.pdf）"
+  ],
+  "use_cases": [
+   "在多标签/多目标数据集上训练和评估分类器",
+   "通过命令行直接运行多标签分类方法",
+   "在 Java 项目中集成多标签学习功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习",
+   "多标签分类",
+   "Java/Weka",
+   "科研工具"
+  ],
+  "domain": "机器学习/多标签分类",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: The MEKA project provides an open source implementation of methods for multi-label learning and evaluation.",
+   "L15: * For examples on how to use MEKA in your Java code: https://github.com/Waikato/meka/tree/master/src/main/java/mekaexamp"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

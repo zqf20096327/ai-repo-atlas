@@ -1,0 +1,181 @@
+{
+ "fn": "arklexai/arksim",
+ "sha": "167fe2a6ff1a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多轮对话模拟测试工具：用合成用户在上线前发现 agent 失败",
+  "review": "面向 AI agent 开发者的模拟评测工具：生成具有不同画像、目标与知识水平的 LLM 合成用户，与被测 agent 进行多轮对话，逐轮评估 helpfulness、faithfulness、目标完成度等指标并输出交互式报告。支持 Python 类、Chat Completions 端点与 A2A 协议接入 agent，兼容 14+ 框架，可作为 CI 质量门禁（低于阈值退出非零码）。以 pip 包分发，附带 Claude Code 技能包与 MCP server，数据在自有基础设施运行。",
+  "highlights": [
+   "LLM 合成用户生成多轮对话并逐轮评估",
+   "支持 Python 类 / Chat Completions / A2A 三种 agent 接入方式",
+   "CI 集成：低于阈值时以非零码退出",
+   "附带 Claude Code 技能包与 MCP server"
+  ],
+  "use_cases": [
+   "上线前用合成用户测试 agent 的多轮对话表现",
+   "在 PR 流水线中把模拟评测设为质量门禁",
+   "定位 agent 在哪一轮、因何种原因失败"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2510.11997",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent评测",
+   "多轮对话模拟",
+   "测试/CI",
+   "LLM基础设施"
+  ],
+  "domain": "AI agent 评测/测试",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: ArkSim generates LLM-powered synthetic users that hold realistic multi-turn conversations with your agent. Each user has",
+   "L103: - **Simulation, not just evaluation.** Most tools score conversations you already have. ArkSim generates them with synth",
+   "L105: - **Any agent, any framework.** Works with 14+ frameworks through Chat Completions, A2A, or direct Python import."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     46,
+     114,
+     115
+    ],
+    "note": "可选 extras：arksim[anthropic] 与 arksim[claude] 提供官方适配通道",
+    "quotes": [
+     "For Anthropic or Google as the evaluation LLM: `pip install \"arksim[anthropic]\"` or `pip install \"arksim[google]\"`.",
+     "pip install \"arksim[claude]\"",
+     "arksim setup-claude          # writes .mcp.json and .claude/skills/arksim-*/"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     8,
+     36
+    ],
+    "quotes": [
+     " PyPI",
+     "pip install arksim"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     167,
+     169
+    ],
+    "quotes": [
+     "git clone https://github.com/arklexai/arksim.git",
+     "pip install -e \".[dev]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     111,
+     114
+    ],
+    "note": "被适配的宿主工具，非替代/竞品对象",
+    "quotes": [
+     "ArkSim ships with a native Claude Code skill pack and MCP server. Generate scenarios from your agent code, run simulatio",
+     "pip install \"arksim[claude]\""
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     140,
+     141
+    ],
+    "note": "集成列表中的框架",
+    "quotes": [
+     "|LangChain|LangChain|",
+     "|LangGraph|LangChain|"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     143
+    ],
+    "note": "集成列表中的框架",
+    "quotes": [
+     "|Dify|Dify|"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     150
+    ],
+    "note": "集成列表中的框架",
+    "quotes": [
+     "|Vercel AI SDK|TypeScript|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

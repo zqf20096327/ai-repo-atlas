@@ -1,0 +1,132 @@
+{
+ "fn": "ChenHongruixuan/BRIGHT",
+ "sha": "ec75bda4d22e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "全球分布多模态 VHR 灾害响应数据集与基准代码",
+  "review": "面向 AI 灾害响应的开放数据集：覆盖 5 类自然灾害与 2 类人为灾害、14 个灾害事件、全球 23 个地区，提供光学与 SAR 多模态甚高分辨率影像及建筑损毁标注，重点关注发展中国家。配套基准代码支持监督学习、跨事件迁移、无监督域适应、半监督学习、无监督变化检测与图像匹配等评估设置，并提供 UNet 训练/推理脚本与 Zenodo 检查点。代码在 Linux 下运行，经 conda+pip 安装；部分乌克兰、缅甸、墨西哥光学数据不可再分发，需按教程自行下载。已被 ESSD 接收，并支撑 IEEE GRSS DFC 2025 与 CVPRW 2026 挑战赛。",
+  "highlights": [
+   "覆盖 14 个灾害事件、23 个地区的光学与 SAR 多模态 VHR 数据",
+   "提供监督、跨事件迁移、UDA、半监督、无监督变化检测与图像匹配等标准化基准",
+   "UNet 训练/推理脚本与可下载检查点",
+   "支撑 IEEE GRSS DFC 2025 Track II 与 CVPRW 2026 实例级挑战赛"
+  ],
+  "use_cases": [
+   "训练与评估多模态建筑损毁评估模型",
+   "测试模型在未见灾害事件上的跨事件泛化能力",
+   "参加或复现 DFC 2025 / CVPRW 2026 灾害制图挑战赛",
+   "研究无监督多模态变化检测与光学-SAR 图像配准"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "遥感数据集",
+   "灾害响应",
+   "建筑损毁评估",
+   "多模态（光学/SAR）",
+   "基准评测"
+  ],
+  "domain": "地球观测/灾害管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L28: * **BRIGHT** is the first open-access, globally distributed, event-diverse multimodal dataset specifically curated to su",
+   "L30: * It supports not only the development of **supervised** deep models, but also the testing of their performance on **cro"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     43
+    ],
+    "quotes": [
+     "git clone https://github.com/ChenHongruixuan/BRIGHT.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     61
+    ],
+    "note": "pip 安装依赖列表，非发布为 pip 包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     10,
+     22,
+     65
+    ],
+    "note": "数据集分发渠道",
+    "quotes": [
+     "ESSD paper Zenodo Dataset HuggingFace Dataset Zenodo Model visitors",
+     "* **` Apr 28th, 2025`**: IEEE GRSS DFC 2025 Track II is over. Congratulations to winners!! You can now download the full",
+     "Please download the BRIGHT from Zenodo or HuggingFace. Note that we cannot redistribute the optical data over Ukraine, M"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

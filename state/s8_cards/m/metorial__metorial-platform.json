@@ -1,0 +1,113 @@
+{
+ "fn": "metorial/metorial-platform",
+ "sha": "1f66ef4c4cda",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的开源 MCP 集成平台，一次函数调用接入数千工具",
+  "review": "Metorial Platform 是基于 Model Context Protocol（MCP）的开源集成平台，供开发者将 AI 应用连接到外部 API、数据源与工具。核心机制：单函数调用式 SDK（JavaScript/TypeScript、Python）、收录 5000+ MCP server 的可搜索目录、Dashboard 内嵌 MCP Explorer 测试调试、按会话记录并生成错误报告的监控。自托管基于 Docker 容器运行 MCP server，技术栈含 Bun、Go、PostgreSQL、Redis、MongoDB；同时提供托管服务。采用 FSL-1.1 许可，明确面向开发者而非终端用户。",
+  "highlights": [
+   "5000+ MCP server 目录，可搜索组织",
+   "JavaScript/TypeScript 与 Python 一行式 SDK",
+   "Dashboard 内嵌 MCP Explorer 与会话级监控/错误报告",
+   "Docker 容器化运行 MCP server，支持自托管与多实例"
+  ],
+  "use_cases": [
+   "为我的 agent 应用统一接入外部工具与数据源",
+   "在 Dashboard 中测试和调试 MCP server 集成",
+   "监控线上 MCP 会话并排查集成错误"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "agent基础设施",
+   "工具集成平台",
+   "开发者平台",
+   "自托管"
+  ],
+  "domain": "AI 基础设施/工具集成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: The Metorial Platform is an open source integration platform that makes it easy for developers to connect their AI appli",
+   "L40: Metorial builds on MCP but makes it a one-liner for developers to connect their AI apps to any API, data source, or tool"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "MCP 标准语境提及 Claude Desktop 作为 MCP 客户端示例，非平台接入适配",
+    "quotes": [
+     "MCP is a powerful standard for connecting AI models to external data and tools, but it focuses on enabling AI clients (l"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "作为 MCP 客户端示例提及，非替代/竞品",
+    "quotes": [
+     "MCP is a powerful standard for connecting AI models to external data and tools, but it focuses on enabling AI clients (l"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

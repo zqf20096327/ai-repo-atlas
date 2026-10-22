@@ -1,0 +1,148 @@
+{
+ "fn": "whyzhow/PersonalStyleAI-Framework-",
+ "sha": "9782475b6507",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用个人聊天记录构建专属语言风格 AI 的框架",
+  "review": "个人风格定制流水线框架，分三阶段：清洗原始聊天记录（去表情/链接/垃圾信息）生成 JSONL 对话对；通过工厂模式的适配器层将个人风格加载到 GPT-4、Claude 或本地 Llama 3 等模型，切换后端只需改一行配置；再以 LoRA 做本地轻量微调将语言习惯固化进权重。支持 CUDA 显卡的本地训练组件可选安装，敏感信息用 .env 管理，依赖由 pyproject.toml 层级管理。",
+  "highlights": [
+   "聊天记录清洗为 JSONL 训练对话对",
+   "工厂模式适配器：一行配置切换 GPT-4/Claude/本地 Llama 3/Ollama",
+   "LoRA 本地轻量微调，风格固化进模型权重"
+  ],
+  "use_cases": [
+   "把自己的聊天记录训练成个人风格 AI 对话",
+   "在不同模型后端间迁移个人风格配置",
+   "本地微调属于自己的语言风格模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个性化AI",
+   "微调/LoRA",
+   "数据清洗",
+   "多模型适配"
+  ],
+  "domain": "LLM 个性化/微调框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of origin",
+   "L13: Through a unified interface, your personal style can be easily loaded to GPT-4, Claude or local Llama 3.",
+   "L51: Adopt factory model design. This means that if you want to switch from OpenAI to local Ollama, you only need to change t"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     13,
+     99
+    ],
+    "note": "Claude 被列为可加载风格的模型；Anthropic 适配器为贡献建议",
+    "quotes": [
+     "Through a unified interface, your personal style can be easily loaded to GPT-4, Claude or local Llama 3.",
+     "If you have any suggestions for improvement or want to add more AI adaptors (such as Anthropic or DeepSeek), welcome to "
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     51
+    ],
+    "note": "示例中通过一行配置切换到本地 Ollama 后端",
+    "quotes": [
+     "Adopt factory model design. This means that if you want to switch from OpenAI to local Ollama, you only need to change t"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     99
+    ],
+    "note": "作为可贡献新增的适配器被提及，未实现",
+    "quotes": [
+     "If you have any suggestions for improvement or want to add more AI adaptors (such as Anthropic or DeepSeek), welcome to "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     67
+    ],
+    "quotes": [
+     "Git clone [https://github.com/your username/PersonalStyleAI-Framework.git](https://github.com/your username/Personal Sty"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     91
+    ],
+    "note": "pip install -e \".[train]\" 安装本地微调组件",
+    "quotes": [
+     "Pip install -e \".[train]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

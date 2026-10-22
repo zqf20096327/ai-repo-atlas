@@ -1,0 +1,106 @@
+{
+ "fn": "ProjectNeura/LEADS",
+ "sha": "d55ac4838708",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向赛车的轻量嵌入式辅助驾驶系统：仪表、控制与数据分析",
+  "review": "用 Python 与 C/C++ 编写的嵌入式辅助驾驶系统，面向赛车开发者的仪表、控制与分析需求。LEADS 框架提供与车辆交互的上下文、设备树、TCP 通信、GUI 等抽象层；LEADS VeC 为可执行模块集，可经 JSON 配置或自定义代码组装。内置 4 套 ESC 系统（DTCS/ABS/EBI/ATBS）插件、数据持久化（CSV）、实时视频流与 Remote Analyst 远程分析端。硬件面向 Raspberry Pi/Arduino 等通用开发板，需 Python>=3.12，AI 相关能力体现为对视觉输入的支持与基于数据的 AI 增强分析方向。",
+  "highlights": [
+   "4 套 ESC 插件（DTCS/ABS/EBI/ATBS），各含 4 档标定与手动模式",
+   "TCP 数据链路：车辆作服务器，数据分发至维修区并持久化为 CSV",
+   "低延迟多摄像头视频编码与流式传输",
+   "多显示器支持与数据回放（replay）、基准测试（benchmark）"
+  ],
+  "use_cases": [
+   "为电动赛车搭建车载仪表与电控系统",
+   "维修区实时远程监控车辆状态",
+   "录制数据后回放分析圈速与驾驶行为",
+   "基于框架抽象层定制自己的车载项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "赛车/电动方程力",
+   "嵌入式系统",
+   "车载仪表与电控",
+   "数据采集与遥测",
+   "Raspberry Pi"
+  ],
+  "domain": "汽车/嵌入式辅助驾驶",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L149: As an organization that is deeply rooted in AI, visual data has special meaning to us. In LEADS, we value visual inputs",
+   "L151: suitable for AI applications.",
+   "L174:  AI-enhanced data analysis and driver training"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     200,
+     206
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install \"leads[standard]\"",
+     "pip install leads"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

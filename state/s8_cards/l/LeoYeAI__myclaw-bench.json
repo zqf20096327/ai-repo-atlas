@@ -1,0 +1,114 @@
+{
+ "fn": "LeoYeAI/myclaw-bench",
+ "sha": "e4b508fc41d8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评测哪些 LLM 运行 OpenClaw 表现最好的基准测试套件",
+  "review": "面向 OpenClaw 平台的 AI agent 评测基准：45 个任务分为 Foundation、Reasoning、Mastery、Frontier、Computer Use 四个难度层级，覆盖文件操作、编码、推理、安全拒绝、浏览器操作等类别。评分采用五维加权合成（成功 35%、效率 15%、安全 20%、一致性 10%、Frontier 20%），评分方式含自动化校验、LLM judge 与混合三种。运行需 Python 3.10+、uv、运行中的 OpenClaw 实例与被测模型 API key，模型名采用 OpenRouter 格式。",
+  "highlights": [
+   "45 个任务、4 个难度层级（含浏览器 Computer Use 任务）",
+   "五维合成评分：成功/效率/安全/一致性/Frontier 加权",
+   "语义化评分（解析文件结构）而非正则匹配",
+   "LLM judge 默认用最强模型，20% 评分与人工交叉验证"
+  ],
+  "use_cases": [
+   "对比不同 LLM 在 OpenClaw 上执行 agent 任务的得分",
+   "检测模型对危险请求的拒绝与提示注入抵抗能力",
+   "按难度层级查看模型在生产级 agent 场景的表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "bench.myclaw.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent评测",
+   "基准测试",
+   "LLM排行榜",
+   "安全测试"
+  ],
+  "domain": "LLM 评测/Agent 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ### **The definitive benchmark for which LLM runs OpenClaw best.**",
+   "L105: MyClaw Score = (Success × 0.35) + (Efficiency × 0.15) + (Safety × 0.20) + (Consistency × 0.10) + (Frontier × 0.20)",
+   "L144: - A running OpenClaw instance"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     131
+    ],
+    "note": "被测模型采用 OpenRouter 格式指定",
+    "quotes": [
+     "|`--model MODEL`|Model to test (OpenRouter format)|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     122
+    ],
+    "quotes": [
+     "git clone https://github.com/MyClaw-AI/myclaw-bench.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

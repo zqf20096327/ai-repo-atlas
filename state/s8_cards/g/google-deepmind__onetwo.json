@@ -1,0 +1,109 @@
+{
+ "fn": "google-deepmind/onetwo",
+ "sha": "9d23025f518b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开发和部署生产级 LLM agent 的 Python 库",
+  "review": "OneTwo 是 Google DeepMind 开发的 Python 库，面向在构建 LLM 应用与 agent 的开发者。它提供统一 API 让代码在不同内外部模型间切换，支持以格式化字符串、Jinja 模板或函数调用构建 prompt，自动缓存结果以复现实验并节省配额，支持外部工具集成（含安全沙箱中运行模型生成的 Python 代码）与有状态 agent 的定义与组合，并自动处理异步执行、请求批处理与缓存。也提供检索增强生成（RAG）工作流支持。通过 pip 从 GitHub 安装，非官方 Google 产品。",
+  "highlights": [
+   "统一 API 在不同模型间切换而无需修改逻辑",
+   "结果自动缓存以复现实验、节省配额",
+   "外部工具集成与安全沙箱中运行模型生成的 Python 代码",
+   "有状态 agent 定义与组合，自动处理异步执行与请求批处理"
+  ],
+  "use_cases": [
+   "构建需要工具调用与多步推理的 LLM agent",
+   "搭建基于自有数据的 RAG 问答工作流",
+   "在不同模型后端间切换运行同一套 agent 代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM框架",
+   "Agent开发",
+   "RAG",
+   "工具调用"
+  ],
+  "domain": "LLM 基础设施/Agent 框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  One Two is a python library for developing and deploying LLM",
+   "L13: * **Swap models easily (Model-agnostic)**: Write code once using a uniform API"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     50
+    ],
+    "quotes": [
+     "pip install git+https://github.com/google-deepmind/onetwo"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "git clone https://github.com/google-deepmind/onetwo"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

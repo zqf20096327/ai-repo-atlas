@@ -1,0 +1,101 @@
+{
+ "fn": "Private-Garden-Labs/garden-desk",
+ "sha": "3b1055bc6755",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的桌面 AI agent：用本地模型处理私人文件工作",
+  "review": "基于 Tauri+React 的免费桌面 agent，用于处理本地文件：选择文件夹或附加文件、描述所需结果，由内置本地模型（Ternary Bonsai 2 27B）在无网络 microVM 中执行文件工具与代码，所选文件夹保持只读，保存位置由用户选择。无账户、无遥测、无云服务。Core 层负责文件夹访问、审批、审计与恢复。提供 Apple silicon macOS 与 Windows 11 x64 签名安装包，Windows 需 12GB VRAM 的 GPU 与 Hyper-V。",
+  "highlights": [
+   "本地模型（Ternary Bonsai 2 27B）在无网络 microVM 中执行文件操作与代码",
+   "所选文件夹只读，结果保存位置由用户选择",
+   "无账户、无遥测、无云服务，全部功能免费",
+   "Core 层提供访问控制、审批、审计与恢复机制"
+  ],
+  "use_cases": [
+   "在不联网、不上传文件的前提下让 AI 处理本地文档",
+   "对敏感工作文件做受监督的自动化处理并保留审计",
+   "在本地电脑上审阅 AI 提议的工作结果后选择性保存"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "见 README L34 提及 demo（未给出 URL）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM",
+   "AI Agent",
+   "隐私/离线",
+   "桌面应用",
+   "文件处理"
+  ],
+  "domain": "桌面 AI 应用/本地 agent",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Garden Desk is a free desktop agent for work with local files. Choose a folder or attach files, describe the result you ",
+   "L16:        ├─ Supervised local model (Ternary Bonsai 2 27B)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "note": "README 提及可从源码构建（development workflow）",
+    "quotes": [
+     "Download signed builds for Apple silicon macOS or Windows 11 x64. Both need 16 GB of memory. Windows also needs an NVIDI"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

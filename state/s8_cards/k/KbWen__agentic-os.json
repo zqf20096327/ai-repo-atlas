@@ -1,0 +1,161 @@
+{
+ "fn": "KbWen/agentic-os",
+ "sha": "6781cba8a8f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编码 agent 的治理框架：用 git hook 与 CI 核验证据",
+  "review": "面向 Claude Code、Codex、Cursor、Copilot、Antigravity 等 Markdown 读取的 AI 编码 agent 的治理层：五步门控工作流（plan/build/review/test/ship）要求每个阶段留有证据。核心组件包括 scan_credentials.py 凭据扫描（可设为 pre-commit hook）、validate.sh 读取工作日志校验阶段与证据缺失、record_test_run.py 记录测试运行指纹，以及按任务类型自动附加的 14 个专家清单。新装默认不运行任何强制机制，需手动启用 hook 与 CI 任务；校验器只查记录缺失，不查伪造记录。通过 git clone 加部署脚本安装。",
+  "highlights": [
+   "scan_credentials.py 凭据扫描可接入 pre-commit hook 与 CI",
+   "validate.sh 解析任务工作日志，缺失阶段或证据即失败",
+   "按任务分类（tiny-fix 到 architecture-change）的五档门控流程",
+   "14 个按任务类型自动附加的专家清单与跨会话工作日志"
+  ],
+  "use_cases": [
+   "防止 AI 编码 agent 未测试就声称完成并提交代码",
+   "拦截泄漏的密钥进入 git 历史",
+   "多 agent 协作仓库中保持决策与证据的可交接记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码代理",
+   "治理/护栏",
+   "CI/CD",
+   "git hooks",
+   "工作流编排"
+  ],
+  "domain": "开发工具/AI 治理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含繁體中文链接（L13）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6:  A governance-first layer for AI coding agents — guardrails and a gated workflow for Claude Code, Codex, Cursor, Copilot",
+   "L19:  It checks the evidence behind what your AI coding agent claims — secrets and tests in your git hooks and CI, phase reco",
+   "L68: Agentic OS is the enforcement layer. A rules file or a skill pack tells your agent how to behave; this is the part that "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     6,
+     144
+    ],
+    "note": "以 Claude Code 平台形式出现，未声明接入 Anthropic API",
+    "quotes": [
+     " A governance-first layer for AI coding agents — guardrails and a gated workflow for Claude Code, Codex, Cursor, Copilot",
+     "|**Claude Code**|Native|`CLAUDE.md` entrypoint + Claude platform guide|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     156,
+     157,
+     158
+    ],
+    "quotes": [
+     "git clone https://github.com/KbWen/agentic-os.git",
+     "./agentic-os/installers/deploy_brain.sh --dry-run /path/to/your-project   # preview, no changes",
+     "./agentic-os/installers/deploy_brain.sh /path/to/your-project             # deploy"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     6,
+     144
+    ],
+    "note": "被治理/适配的 agent 平台，非替代对象",
+    "quotes": [
+     " A governance-first layer for AI coding agents — guardrails and a gated workflow for Claude Code, Codex, Cursor, Copilot",
+     "|**Claude Code**|Native|`CLAUDE.md` entrypoint + Claude platform guide|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     6,
+     147
+    ],
+    "note": "兼容的 agent 平台",
+    "quotes": [
+     " A governance-first layer for AI coding agents — guardrails and a gated workflow for Claude Code, Codex, Cursor, Copilot",
+     "|**Cursor**|Compatible|Reads `AGENTS.md` / project-rule style guidance — the slash-commands are plain prompts|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     6,
+     148
+    ],
+    "note": "兼容的 agent 平台",
+    "quotes": [
+     " A governance-first layer for AI coding agents — guardrails and a gated workflow for Claude Code, Codex, Cursor, Copilot",
+     "|**GitHub Copilot**|Compatible|Uses repository instructions and guardrail docs|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

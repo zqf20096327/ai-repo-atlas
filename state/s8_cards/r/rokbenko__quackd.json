@@ -1,0 +1,213 @@
+{
+ "fn": "rokbenko/quackd",
+ "sha": "775b8c0d8f6e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多机器人统一 CLI：为每台机器人接 LLM 大脑并发目标指令",
+  "review": "面向机器人拥有者的命令行工具：通过适配器声明每台机器人的身体与技能清单，注册后可用自然语言目标驱动，由 LLM 逐技能挑选执行，多机组成 flock 时各自带模型并分工。支持 Claude/OpenAI/Gemini/Grok 等云 API 及 Ollama/vLLM/llama.cpp/LM Studio 本地模型，可选 decision LLM（非文本生成）。收录 9 个机体，其中仅 SO-101 臂经 LeRobot 在真实硬件运行，其余 8 个处于模拟或 mock 阶段。无机器人时可用自带卡通/ MuJoCo 物理模拟器。Apache 2.0，Python 3.11+，PyPI 发布，MCP 支持。",
+  "highlights": [
+   "LLM 按技能清单逐步选择执行机器人目标，契约限定技能/步数/人工确认",
+   "支持多家云 API 与 Ollama/vLLM/llama.cpp/LM Studio 本地模型（无 key）",
+   "可选 --decision-llm 打分式决策（不生成文本），支持 shadow 模式",
+   "9 个机体适配器；无实体机器人可用卡通或 MuJoCo 模拟器（种子测试 10/10 通过）"
+  ],
+  "use_cases": [
+   "把拥有的多台机器人注册到一个 CLI 统一下达目标指令",
+   "让带轮/带臂的机器人组队分工协作完成任务",
+   "无实体机器人时在模拟器中试用目标驱动机器人控制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    45
+   ],
+   "note": "README 明示 8 个机体仅在模拟或 mock 中、flock 尚未跨机运行"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人控制",
+   "具身智能",
+   "多智能体",
+   "LLM Agent",
+   "CLI 工具"
+  ],
+  "domain": "机器人/具身智能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "xai",
+   "cohere",
+   "openrouter",
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain.",
+   "L41: **quackd** is a command line for the robots you own. Each one joins through an adapter that declares, as a manifest, wha",
+   "L45: **One of the nine bodies runs on real hardware, and the recording above is it.** On 2026-09-15 an SO-101 follower arm ra"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     6,
+     41
+    ],
+    "quotes": [
+     " Register each robot once, by name. Then state a goal from a terminal or from a chat with Claude, to one robot or to a f",
+     "**quackd** is a command line for the robots you own. Each one joins through an adapter that declares, as a manifest, wha"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "**quackd** is a command line for the robots you own. Each one joins through an adapter that declares, as a manifest, wha"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "**quackd** is a command line for the robots you own. Each one joins through an adapter that declares, as a manifest, wha"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "**quackd** is a command line for the robots you own. Each one joins through an adapter that declares, as a manifest, wha"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "**quackd** is a command line for the robots you own. Each one joins through an adapter that declares, as a manifest, wha"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     41
+    ],
+    "note": "开源模型本地运行通道之一",
+    "quotes": [
+     "**quackd** is a command line for the robots you own. Each one joins through an adapter that declares, as a manifest, wha"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     41
+    ],
+    "note": "开源模型本地运行通道之一",
+    "quotes": [
+     "**quackd** is a command line for the robots you own. Each one joins through an adapter that declares, as a manifest, wha"
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     228
+    ],
+    "quotes": [
+     " Three webcam frames from the run, side by side. Left: the arm folded on the bench with a person behind it holding a cam"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     9,
+     47
+    ],
+    "quotes": [
+     " PyPI",
+     "**No robot yet? You do not need one to try it.** Two simulators for the duck, and they come from different places. The *"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     17,
+     33
+    ],
+    "note": "仅作类比叙述，非替代/竞品关系",
+    "quotes": [
+     "> I see quackd as a ChatGPT like moment for robotics. Let me explain what I mean.",
+     "> That is basically what ChatGPT did for LLMs. It took something powerful and put it in one place everyone could reach. "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

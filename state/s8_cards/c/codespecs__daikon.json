@@ -1,0 +1,86 @@
+{
+ "fn": "codespecs/daikon",
+ "sha": "3ffcc07c3dff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从程序运行轨迹中动态检测可能不变量的工具",
+  "review": "Daikon 是一个不变量检测器：通过分析程序执行（如变量取值轨迹）动态推断可能的程序不变量，支持 Java、C、C#、Eiffel、Perl 等多种语言的前端。本体为软件工程分析工具，主题标签含 machine-learning。本 README 仅 14 行的发布说明，指向 doc/index.html 获取安装与使用文档；从源码仓库克隆需另阅 README.source。版本 5.9.1，由华盛顿大学 PLSE 组维护，提供网站下载的发行包。",
+  "highlights": [
+   "从程序执行数据中动态检测可能的不变量",
+   "支持 Java/C/C#/Eiffel/Perl 等多语言",
+   "由华盛顿大学 PLSE 组维护，版本 5.9.1"
+  ],
+  "use_cases": [
+   "推断程序不变量以辅助规格生成与测试",
+   "分析程序执行轨迹理解代码行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "http://plse.cs.washington.edu/daikon/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "程序分析",
+   "不变量检测",
+   "软件工程",
+   "规格生成"
+  ],
+  "domain": "软件工程/程序分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L1: This is the distribution of the Daikon invariant detector,",
+   "L2: Daikon version 5.9.1, released September 1, 2026."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "fn": "ovshake/nano-vllm",
+ "sha": "d2237867df17",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学习者的极简 LLM 推理引擎实现，讲解推理原理",
+  "review": "受 vLLM 启发的教学型 LLM 推理引擎：实现连续批处理、PagedAttention、FlashAttention、GQA、优先级调度、抢占、分块预填充、前缀缓存与投机解码等机制，可从 HuggingFace 模型 ID 或本地路径加载模型生成文本。特色是四种教学模式：Narrator 实时英文讲解、X-Ray 展示张量形状与矩阵运算、Dashboard 终端仪表盘、Tutorial 交互式教程。要求 Python 3.10+ 与 PyTorch 2.0+，rich 与 flash-attn 为可选依赖。",
+  "highlights": [
+   "连续批处理、PagedAttention、优先级调度、分块预填充、前缀缓存与投机解码实现",
+   "四种教学模式：Narrator/X-Ray/Dashboard/Tutorial",
+   "CLI 支持多提示词、优先级、设备与精度选择",
+   "提供调度器与对比 HuggingFace Transformers 的基准测试"
+  ],
+  "use_cases": [
+   "学习 LLM 推理引擎内部机制（批处理、KV 缓存、调度）",
+   "交互式了解推理各阶段的张量运算",
+   "运行小模型生成文本并观察调度行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理引擎",
+   "教学/学习",
+   "LLM",
+   "调度与KV缓存"
+  ],
+  "domain": "LLM 基础设施/教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: A minimalistic, educational implementation of a high-performance LLM inference engine, inspired by vLLM.",
+   "L19: - **Continuous Batching**: Process multiple requests simultaneously with iteration-level scheduling"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     5,
+     307,
+     310
+    ],
+    "note": "灵感来源与参考文献，非接入关系",
+    "quotes": [
+     "A minimalistic, educational implementation of a high-performance LLM inference engine, inspired by vLLM.",
+     "- vLLM Paper: Efficient Memory Management for Large Language Model Serving",
+     "- vLLM Repository"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     43,
+     44,
+     45
+    ],
+    "quotes": [
+     "# Clone the repository",
+     "git clone https://github.com/yourusername/nano-vllm.git",
+     "cd nano-vllm"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     145
+    ],
+    "note": "pip install rich 为可选依赖安装，非本产品发布渠道",
+    "quotes": [
+     "pip install rich"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "no GPU required",
+    "rel": "mention",
+    "lines": [
+     293
+    ],
+    "note": "调度器单元基准测试无 GPU 要求，非产品整体硬件声明",
+    "quotes": [
+     "**Scheduler Unit Benchmarks** - Fast benchmarks for scheduler logic (no GPU required):"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     256,
+     299
+    ],
+    "note": "作为模型来源与基准对比对象被提及",
+    "quotes": [
+     "|`--model`|HuggingFace model ID or local path|",
+     "**Comparison Benchmarks** - Compare nano-vllm vs HuggingFace Transformers:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

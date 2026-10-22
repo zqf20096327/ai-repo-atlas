@@ -1,0 +1,158 @@
+{
+ "fn": "ai-hpc/ai-hardware-engineer-roadmap",
+ "sha": "5439cee3aefc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 硬件工程师的学习路线图：从模型到自研 SoC",
+  "review": "一份结构化课程路线图，目标是让工程师掌握从模型工作负载到自定义物理 AI 系统级芯片（SoC）的全栈能力：VLA 模型推理、AI 编译器与运行时、RTL/FPGA/ASIC 设计、嵌入式 Linux 与无线子系统。内容分六个阶段与三条支柱，提供四种入门路径（推理、编译器、硬件、机器人）、按里程碑推进的设计工作室、多门带 CPU 实验的课程（如 32 讲 VLA 课程、10 讲可编程推理加速器课程）。面向 AI/ML、推理、嵌入式固件、RTL/FPGA 与机器人工程师及学生，无硬件背景要求。",
+  "highlights": [
+   "六阶段课程：数字基础→嵌入式→AI→部署编译→专业化→面试准备",
+   "统一目标为设计面向 VLA 模型的自定义物理 AI SoC（含加速器、编译器、嵌入式 Linux、无线）",
+   "四种入门路径均产出可验证的子系统里程碑",
+   "提供带可运行 CPU 实验的专业课程与 Isaac Sim/Isaac Lab 工程实验"
+  ],
+  "use_cases": [
+   "系统学习从 AI 模型到芯片设计的完整技术栈",
+   "为转做 AI 加速器/SoC 设计规划学习路径",
+   "机器人工程师补齐计算平台底层知识"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习路线图",
+   "AI芯片",
+   "嵌入式系统",
+   "机器人",
+   "课程/教程"
+  ],
+  "domain": "AI 硬件/芯片设计教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Six phases toward one goal: a complete physical-AI chip and its software stack.",
+   "L41: - **AI/ML engineers** who want to stop treating inference as a black box and design the chip that runs it."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     61
+    ],
+    "note": "课程主题（DeepSeek 推理工程），非接入",
+    "quotes": [
+     "New applied sequences: DeepSeek V4.1 Flash NVFP4 inference engineering and Isaac Sim / Isaac Lab engineering labs. Both "
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     216,
+     280
+    ],
+    "note": "窗外行，作为课程涉及对象被列举",
+    "quotes": [
+     "|3|Quantizing Qwen3-4B to Q4|Q4_K_M vs AWQ vs GPTQ, why V and FFN-down get upgraded, calibration, GGUF layout|",
+     "|**jetson-llm-runtime**|Experimental teaching runtime with executed CPU exercises for sampling, bounded GGUF parsing, mo"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     221
+    ],
+    "note": "窗外行，作为课程涉及对象被列举",
+    "quotes": [
+     "|8|AI Inference Engineer 2026 — special course|The full 2026 production inference stack as a 27-lecture arc: dense → MoE"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     198,
+     215
+    ],
+    "quotes": [
+     "|**C — Edge AI**|Holoscan, Edge LLM Inference Internals, **Qwen Inference Optimization (6-lecture series)**, AI-driven w",
+     "|2|Qwen Architecture Deep Dive|Qwen3-4B and Qwen2.5-72B side by side, GQA, RoPE-NeoX, SwiGLU, full `config.json` → tenso"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     222
+    ],
+    "quotes": [
+     "|9|Optimizing a Real Engine — Part 4 case study|10 lectures on a measured optimization history: Kimi K3 (2.8T, 896 exper"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     234
+    ],
+    "quotes": [
+     "3. Measure something — latency, throughput, occupancy, bandwidth, power, accuracy, area, perplexity."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

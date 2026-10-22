@@ -1,0 +1,151 @@
+{
+ "fn": "Kotlin/Kotlin-AI-Examples",
+ "sha": "1bf4270a4888",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Kotlin 集成 AI 框架的示例与交互式笔记本集合",
+  "review": "由 Kotlin 官方组织维护的示例仓库：包含 Spring AI、LangChain4j、MCP、xef.ai 等 Kotlin 完整工程，以及按框架分类的交互式 Kotlin Notebook 教程，覆盖提示词、流式输出、工具调用、RAG、文生图/音频、AI Agent 模式（链式/路由/并行/编排/评估器）、本地 Ollama 运行、GPT-2 推理（KIEngine/ORT）等主题。面向 JVM 开发者，通过 git clone 获取，各工程附独立 README 运行说明，需 Java 17+ 与相应 AI 供应商 API key。",
+  "highlights": [
+   "Spring AI / LangChain4j / MCP / xef.ai 等 Kotlin 工程示例",
+   "Spring AI 十讲系列笔记本（提示词、RAG、文生图、本地 Ollama 等）",
+   "AI Agent 模式笔记本：链式/路由/并行/编排/评估器优化",
+   "GPT-2 与分类任务的本地推理笔记本（KIEngine/ORT）"
+  ],
+  "use_cases": [
+   "用 Kotlin 学习接入 Spring AI 或 LangChain4j",
+   "跟做交互式笔记本掌握 RAG、工具调用与 Agent 模式",
+   "参考 MCP 服务器与多供应商接入的工程写法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例集合",
+   "Kotlin",
+   "LLM应用开发",
+   "教程/笔记本",
+   "Spring AI"
+  ],
+  "domain": "AI 开发教程/示例",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **Kotlin AI Examples** is a repository showcasing various AI frameworks integrated into Kotlin-based projects.",
+   "L39: ## Kotlin Notebooks (`/notebooks`)",
+   "L121: 1. Clone the repository:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     22,
+     36
+    ],
+    "note": "示例工程列举的模型供应商之一；MCP 示例连接 Claude for Desktop",
+    "quotes": [
+     " demo using multiple providers (OpenAI, VertexAI Gemini, Azure OpenAI, Groq, Anthropic Claude)",
+     " to work with stock data from FMP, connecting it to Claude for Desktop,"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "flight-booking 示例列举的供应商之一",
+    "quotes": [
+     " demo using multiple providers (OpenAI, VertexAI Gemini, Azure OpenAI, Groq, Anthropic Claude)"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     22,
+     135
+    ],
+    "quotes": [
+     " demo using multiple providers (OpenAI, VertexAI Gemini, Azure OpenAI, Groq, Anthropic Claude)",
+     "> Make sure you have the necessary access credentials for your chosen AI service (OpenAI, Azure, VertexAI, etc.) and the"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     65
+    ],
+    "note": "笔记本教程演示本地运行模型，非本仓库自身接入",
+    "quotes": [
+     "|**10. Local Model**|Running AI models locally on your machine using Ollama and Spring AI|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     121,
+     123
+    ],
+    "quotes": [
+     "1. Clone the repository:",
+     "   git clone https://github.com/Kotlin/Kotlin-AI-Examples.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "fn": "RailtownAI/railtracks",
+ "sha": "655955fdc0a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python agent 框架：用纯 Python 组装自己的 agent 与 harness",
+  "review": "面向开发者的 Python agent 框架，将 agent harness 拆为五个可自选组装的部分：工具调用循环（agent_node/Flow）、工具面（function_node、ToolManifest、MCP 接入）、上下文管理、权限与预算控制（MaxCalls/Timeout/Retry/人审验证器），以及可回放的运行记录与本地可视化。附编码、研究、运维三类 harness 示例。无 YAML/DSL，与 asyncio 模式一致；支持 OpenAI、Anthropic、Google、Azure 等多家模型提供商，另提供 decision_node 做分类/路由决策，以及为 Claude Code 等 AI 编码助手生成配置的插件。",
+  "highlights": [
+   "纯 Python 组装 agent harness，无 YAML/DSL/黑盒运行时",
+   "内置权限与预算控制（MaxCalls、Timeout、Retry、人审验证器）与可回放运行记录",
+   "本地运行的可视化工具，实时查看 agent 运行与评测，无需注册",
+   "decision_node 单次调用返回校准概率用于分类/路由/评级"
+  ],
+  "use_cases": [
+   "构建编码/研究/运维类 agent harness 并保留全部控制权",
+   "为高风险工具加人工审批与审计轨迹",
+   "实时查看与回放 agent 运行过程做调试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "LLM编排",
+   "可观测性",
+   "MCP",
+   "Python库"
+  ],
+  "domain": "LLM/Agent 开发框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: Railtracks is a Python **agent framework** for building your own **agents and/or harness**. Every piece is an ordinary P",
+   "L38: Everything around the model call. The model brings judgment. The harness brings the loop that keeps calling it, the tool",
+   "L145: Works with **OpenAI**, **Anthropic**, **Google**, **Azure**, and more. See the full provider list."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     145
+    ],
+    "quotes": [
+     "Works with **OpenAI**, **Anthropic**, **Google**, **Azure**, and more. See the full provider list."
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     158
+    ],
+    "note": "decision_node 的决策模型提供商之一",
+    "quotes": [
+     "Works with **TypeSafe**, **OpenRouter** and **OpenAI**, and the node drops into an agent's `tool_nodes` like any other t"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     104
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.org/project/railtracks/\">",
+     "pip install 'railtracks[visual]'"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     115,
+     120
+    ],
+    "note": "提供 Claude Code 插件使其正确编写本框架代码，非替代关系",
+    "quotes": [
+     " Building with Claude Code?",
+     "claude plugin marketplace add RailtownAI/railtracks"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     124
+    ],
+    "note": "可通过 railtracks add 生成其配置",
+    "quotes": [
+     "Using Codex, Copilot, or Cursor? Run `railtracks add <assistant>:all` (see AI Coding Assistants)."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     124
+    ],
+    "note": "同上",
+    "quotes": [
+     "Using Codex, Copilot, or Cursor? Run `railtracks add <assistant>:all` (see AI Coding Assistants)."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "fn": "Lyra-stellAI/BYO-LLM-WIKI",
+ "sha": "0c977852f314",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自建个人知识库应用：网页/文件转为带引用问答的本地 wiki",
+  "review": "Flask 应用，把网页、文件与笔记整理为本地个人 wiki：deepagents 代理驱动搜索、摘要、知识图谱构建（实体去重、主题嵌套、综合页生成），双层 HNSW 索引支撑带引用的 RAG 问答，跨会话记忆在每次回答前后读写。可从选定上下文自动生成技能，由 Claude 子代理或 Claude Code CLI 撰写，经确定性检查与评分面板后停在人工审核门槛，由人决定是否入库。本地优先，状态存于 data/ 下 JSON/SQLite，云为可选；支持 MCP 双向连接（写入默认拒绝）。提供 Web UI、HTTP API 与 runner.py CLI。RAG 需 OPENAI_API_KEY 做嵌入。",
+  "highlights": [
+   "双层 HNSW 索引的 contextual RAG，回答带引用，可选 LLM 重排或 MMR",
+   "deepagents 代理构建分层知识图谱（实体去重、主题嵌套、综合页）",
+   "技能生成经评估与评分面板后停在人工审核门槛，可作 LangGraph 持久构建暂停/恢复",
+   "MCP 双向：接入外部 MCP 服务器并可自身作为 MCP 服务器运行"
+  ],
+  "use_cases": [
+   "把网页和散乱笔记整理成可问答的个人知识库",
+   "对自有资料做带引用的检索问答与跨文档综合",
+   "从选定上下文生成经人工审核的可复用 agent 技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "知识图谱",
+   "个人知识库",
+   "agent技能",
+   "MCP"
+  ],
+  "domain": "知识管理/RAG 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Turn the web, your files, and loose notes into a **personal wiki** that an LLM agent",
+   "L20: - **Contextual RAG** — Anthropic-style *contextual retrieval* over a two-layer HNSW index",
+   "L22:  (multi-doc recall). Answers are grounded and cited."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     28,
+     76,
+     98
+    ],
+    "note": "技能由 Claude 撰写；README 提及 Anthropic 无 embeddings API",
+    "quotes": [
+     " the latest Claude in-process or via the **Claude Code CLI as a subprocess**, scored by a",
+     "the **Claude Code CLI as a subprocess** (`generate_cc`). The gate never finalizes alone —",
+     "embeddings (`text-embedding-3-small`) regardless of chat provider — Anthropic has no"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     128
+    ],
+    "note": "LLM-judge 评估面板中的模型之一",
+    "quotes": [
+     "(`gpt-5.2 · qwen3.7-plus · deepseek-v4-flash · gemini-3.5-flash · mistral-large-2512`) and"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     92,
+     200
+    ],
+    "quotes": [
+     "pip install -r requirements.txt          # add `ragas` for RAGAS metrics",
+     "pip install langchain-mcp-adapters mcp"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "仅为截图文件名",
+    "quotes": [
+     "ChatGPT Image Jun 22, 2026, 01_55_25 AM"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     9,
+     233,
+     234
+    ],
+    "note": "灵感来源与所依赖的框架，非替代对象",
+    "quotes": [
+     "and a `runner.py` CLI. Inspired by LangChain's *llm-wiki* deep-agents example, but it",
+     "Inspired by LangChain's *llm-wiki* deep-agents example. Built with Flask,",
+     "`deepagents`/LangChain, `hnswlib`, OpenAI embeddings, RAGAS, and LangSmith."
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     28,
+     76
+    ],
+    "note": "技能生成的可选后端 CLI",
+    "quotes": [
+     " the latest Claude in-process or via the **Claude Code CLI as a subprocess**, scored by a",
+     "the **Claude Code CLI as a subprocess** (`generate_cc`). The gate never finalizes alone —"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "fn": "nntrainer/nntrainer",
+ "sha": "b7d09a4cb5b5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向边缘设备的神经网络训练与 LLM 推理框架",
+  "review": "C/C++ 神经网络框架，支持在手机、Tizen、Android、Linux、Windows 等设备本地完成模型训练（迁移学习、少样本学习、全量训练、强化学习）与 LLM 推理。CausalLM 推理引擎通过 FSU（Flash Storage Utilization）从闪存按需加载 MoE 专家，将 30B 模型内存占用从 16.5GB 降至 1.3GB，支持 Qwen3、GPT-OSS、Gemma3 等模型。提供 20+ 示例应用，支持 NEON/AVX2、OpenCL、cuBLAS 与 NPU 加速，可导出 ONNX/TFLite。面向做端侧 AI 的开发者，Apache 2.0 许可。",
+  "highlights": [
+   "FSU 闪存按需加载专家，30B MoE 模型内存从 16.5GB 降至 1.3GB",
+   "端侧训练：迁移学习、少样本学习（SimpleShot）、全量 CNN/RNN/Transformer 训练、DQN 强化学习",
+   "支持 Qwen3/GPT-OSS/Gemma3/Qwen2 等 LLM，最高 120B 参数推理",
+   "跨平台 C/C++ API：Tizen、Android、Linux、Windows"
+  ],
+  "use_cases": [
+   "在手机上离线运行大参数 MoE LLM 推理",
+   "不出设备就用私有数据微调个性化模型",
+   "在资源受限硬件上从零训练 CNN/RNN/Transformer",
+   "将训练好的模型导出为 ONNX/TFLite 与其他运行时互通"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2202.05940",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端侧AI",
+   "LLM推理",
+   "on-device训练",
+   "MoE",
+   "边缘计算"
+  ],
+  "domain": "AI 框架/边缘计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  On-Device AI Training & LLM Inference Framework",
+   "L69: NNTrainer was built from the ground up for **training neural networks on device** — no cloud, no data upload, no privacy",
+   "L123: - **Run Locally, Fully Offline** — Training and inference on edge devices with zero cloud dependency. Data stays on the "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

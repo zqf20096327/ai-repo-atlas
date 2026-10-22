@@ -1,0 +1,103 @@
+{
+ "fn": "babycommando/neuralgraffiti",
+ "sha": "d0efb4b7d2af",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给预训练 LLM 实时注入神经可塑记忆的实验层",
+  "review": "Neural Graffiti 是一个实验性 PyTorch 层，将液态神经网络思想与静态 transformer 结合：通过 Spray Layer 在推理最后阶段直接向隐藏状态注入记忆痕迹，无需微调或重训即可实时改变预训练模型的行为倾向。该层随交互缓慢演化，产生基于历史上下文的行为漂移，并可测量其对每次输出的影响强度。兼容任何暴露隐藏状态的模型。README 自述为实验性、结果尚未发布，且提示可能不适合商业部署。提供 Colab 演示与 Medium 文章。",
+  "highlights": [
+   "无需微调/重训，在推理阶段实时注入记忆痕迹",
+   "兼容任何暴露 hidden states 的 transformer 模型",
+   "Spray Layer 随交互演化并积累内部记忆",
+   "可测量记忆层对每次输出的影响强度"
+  ],
+  "use_cases": [
+   "让预训练 LLM 在交互中形成持续的行为倾向漂移",
+   "构建带累积'个性'的数字人格模型",
+   "研究 transformer 推理阶段的向量级干预"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "colab（README L6 提供演示链接）",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    12,
+    23
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM",
+   "推理时干预",
+   "液态神经网络",
+   "实验性研究"
+  ],
+  "domain": "LLM 研究/模型行为干预",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: This is an experimental layer that merges ideas from liquid neural networks with static transformer models, using a simp",
+   "L13: Inspired by graffiti art of tagging and the neuroplastic nature of living brains, this layer injects a memory trace dire",
+   "L21: Inspired by the neuroplastic nature of living brains, this layer injects or \"sprays\" a memory trace directly into the fi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     6
+    ],
+    "quotes": [
+     "### See the demo in action in Colab."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

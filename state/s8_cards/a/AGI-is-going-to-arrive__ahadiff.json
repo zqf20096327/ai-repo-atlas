@@ -1,0 +1,193 @@
+{
+ "fn": "AGI-is-going-to-arrive/ahadiff",
+ "sha": "ecdc81721d33",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Git/diff/文档改动变成带证据的课程与测验的学习工具",
+  "review": "面向开发者的本地优先学习工具：读取 Git 改动、两个文件版本、粘贴的 diff、快照或单个 Markdown 文档，调用本地或远程 LLM 生成带来源证据的讲解（每条声明标注 verified/weak/not proven 等状态）、测验题与间隔复习卡片（FSRS 排程，可导出 Anki .apkg）。课程与复习历史保存在工作目录的 .ahadiff/ 下，隐私模式默认 strict_local，可接 Ollama/LM Studio 本地模型。以 pipx/uv 安装 CLI 加 WebUI，需 Python 3.11+ 与指定 SQLite 版本；不支持 PDF 与网页抓取。",
+  "highlights": [
+   "五种输入来源：Git 改动/两文件/粘贴 diff/快照/Markdown 文档",
+   "每个声明可追溯到源码位置并标注证据状态（verified/weak/contradicted 等）",
+   "FSRS 间隔复习排程，复习卡可导出 Anki .apkg，可选 torch 做 FSRS 参数优化",
+   "可为 codex/claude/cursor/copilot 等编码工具写入项目引导文件，并提供只读 MCP 服务器"
+  ],
+  "use_cases": [
+   "从自己或同事的代码改动、AI 生成 diff 中学习并复习",
+   "把 code review 的补丁转成带证据的讲解与测验",
+   "本地模型（Ollama/LM Studio）下离线生成课程保护代码隐私"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "vibe coding",
+   "间隔重复/FSRS",
+   "code review 学习",
+   "本地优先",
+   "开发者学习工具"
+  ],
+  "domain": "开发者工具/学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README 与界面",
+   "产品中文名'知返'"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: AhaDiff keeps your lessons and review history in your working folder. You can study your own fixes, a colleague's edits,",
+   "L58: 3. Preview the source. You can add **Review notes** or enable **More options for this source → Active transfer practice*",
+   "L118: - **Lesson and evidence:** choose Hint, Compact, or Full explanations. Inspect each claim's source and evidence status: "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     106
+    ],
+    "note": "可作为本地模型 provider 使用",
+    "quotes": [
+     "Use a local provider such as LM Studio or Ollama, or bring a key for OpenAI, Anthropic, Gemini, Azure, NewAPI, or an Ope"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     106
+    ],
+    "note": "支持填写 key 接入 Anthropic",
+    "quotes": [
+     "Use a local provider such as LM Studio or Ollama, or bring a key for OpenAI, Anthropic, Gemini, Azure, NewAPI, or an Ope"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "none",
+    "lines": [
+     132
+    ],
+    "note": "132 行 grok 是 AI 编码工具集成目标，非 xAI 模型接入",
+    "quotes": [
+     "# Other targets include claude, cursor, copilot, pi, grok, and devin"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     24,
+     26,
+     40
+    ],
+    "quotes": [
+     "pipx install ahadiff",
+     "uv tool install ahadiff",
+     "Inside a virtual environment or conda environment, use `python -m pip install ahadiff`; update with `python -m pip insta"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     173,
+     175,
+     178
+    ],
+    "quotes": [
+     "git clone https://github.com/AGI-is-going-to-arrive/ahadiff.git",
+     "uv sync --locked --dev",
+     "uv tool install --editable ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     132
+    ],
+    "note": "作为可写入项目引导的编码工具被列举",
+    "quotes": [
+     "# Other targets include claude, cursor, copilot, pi, grok, and devin"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     132
+    ],
+    "note": "同上，非替代/竞品关系",
+    "quotes": [
+     "# Other targets include claude, cursor, copilot, pi, grok, and devin"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     132
+    ],
+    "note": "同上",
+    "quotes": [
+     "# Other targets include claude, cursor, copilot, pi, grok, and devin"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

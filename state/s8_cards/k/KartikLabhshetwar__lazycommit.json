@@ -1,0 +1,198 @@
+{
+ "fn": "KartikLabhshetwar/lazycommit",
+ "sha": "a14c3c747677",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 AI 从暂存改动生成 git 提交信息的命令行工具",
+  "review": "TypeScript 编写的 CLI（命令 lazycommit / lzc）：读取 Git 暂存区的 diff 上下文，发送给用户选择的 AI 提供商（OpenAI、Gemini、Anthropic、Kimi、DeepSeek、GLM、MiniMax、Groq），生成供审查、编辑或重新生成的提交主题；确认前不会提交。支持 Conventional Commits 格式、非交互模式、Git hook、大改动的分批摘要（--thorough），以及提交后一键 push。模型经 Mastra 路由，需 Node.js 22.13+ 与提供商 API key。",
+  "highlights": [
+   "8 家 AI 提供商可选，lzc model 从列表挑模型",
+   "大改动支持 diff 采样与 --thorough 分批摘要（上限 160 万字符）",
+   "支持 Conventional Commits、多建议生成、dry-run 预览与 Git hook",
+   "提交前校验暂存树未变，只提交暂存内容"
+  ],
+  "use_cases": [
+   "替我根据 staged 改动写提交信息再确认提交",
+   "大范围代码变更时分批摘要后生成规范化提交主题",
+   "通过 Git hook 在原生 git commit 中生成建议信息"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者工具",
+   "git",
+   "提交信息生成",
+   "LLM应用",
+   "CLI"
+  ],
+  "domain": "开发者工具/git",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "deepseek",
+   "anthropic",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Lazycommit is a TypeScript CLI that uses Git and an AI provider of your choice to generate commit subjects from your sta",
+   "L15: - **Choose your provider:** OpenAI, Gemini, Anthropic, Kimi, DeepSeek, GLM, MiniMax, or Groq, then pick a model from a l"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     15,
+     27,
+     64
+    ],
+    "quotes": [
+     "- **Choose your provider:** OpenAI, Gemini, Anthropic, Kimi, DeepSeek, GLM, MiniMax, or Groq, then pick a model from a l",
+     "lazycommit config set GROQ_API_KEY=\"gsk_your_key_here\"   # or another provider's key",
+     "|Groq|`GROQ_API_KEY`|`groq/openai/gpt-oss-20b`|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     15,
+     61
+    ],
+    "quotes": [
+     "- **Choose your provider:** OpenAI, Gemini, Anthropic, Kimi, DeepSeek, GLM, MiniMax, or Groq, then pick a model from a l",
+     "|DeepSeek|`DEEPSEEK_API_KEY`|`deepseek/deepseek-flash`|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     15,
+     59,
+     78
+    ],
+    "quotes": [
+     "- **Choose your provider:** OpenAI, Gemini, Anthropic, Kimi, DeepSeek, GLM, MiniMax, or Groq, then pick a model from a l",
+     "|Anthropic|`ANTHROPIC_API_KEY`|`anthropic/claude-haiku-4-5`|",
+     "lazycommit config set model=anthropic/claude-haiku-4-5"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     82
+    ],
+    "note": "Mastra 支持的其他提供商，以环境变量设置 key 即可用",
+    "quotes": [
+     "Models are routed through Mastra, so other Mastra providers also work; set their key as an environment variable, for exa"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     26,
+     42
+    ],
+    "quotes": [
+     "npm install -g lazycommitt",
+     "npm update -g lazycommitt"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     32,
+     36,
+     44
+    ],
+    "quotes": [
+     "Or with Homebrew:",
+     "brew install lazycommit",
+     "brew update && brew upgrade lazycommit"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     250
+    ],
+    "note": "窗外行，源码安装途径",
+    "quotes": [
+     "git clone https://github.com/KartikLabhshetwar/lazycommit.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     15,
+     60
+    ],
+    "note": "作为可选 AI 提供商接入，非替代/竞品",
+    "quotes": [
+     "- **Choose your provider:** OpenAI, Gemini, Anthropic, Kimi, DeepSeek, GLM, MiniMax, or Groq, then pick a model from a l",
+     "|Kimi (Moonshot AI)|`MOONSHOT_API_KEY`|`moonshotai/kimi-k2.6`|"
+    ]
+   }
+  ]
+ }
+}

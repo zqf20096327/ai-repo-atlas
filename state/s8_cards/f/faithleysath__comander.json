@@ -1,0 +1,126 @@
+{
+ "fn": "faithleysath/comander",
+ "sha": "4abf6dc068b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 命令行工具：把自然语言描述转换成可执行的 Shell 命令",
+  "review": "名为 fuckit.sh 的命令行脚本：用户输入自然语言需求，脚本采集操作系统与包管理器等上下文发送到 Cloudflare Worker，由其调用 OpenAI API（或兼容 OpenAI 格式的 API）生成 Shell 命令，经用户交互确认后执行。默认公共服务免费使用无需自备 API Key，也支持自行部署 Worker。提供中英文双语版本、一键安装与免安装临时运行两种模式，可在 macOS 与主流 Linux 发行版上运行，一条命令可卸载。项目声明正在用 Amber 语言重构中。",
+  "highlights": [
+   "自然语言转可执行 Shell 命令，执行前需交互确认",
+   "默认公共服务免 API Key，也支持自行部署 Cloudflare Worker",
+   "一键安装与免安装 curl 临时运行双模式",
+   "自动检测操作系统、包管理器等信息作为 AI 上下文"
+  ],
+  "use_cases": [
+   "忘了命令语法时用自然语言快速得到 Shell 命令",
+   "不想安装软件时临时用 curl 生成并执行命令",
+   "自行部署 Worker 并使用自定义 OpenAI 兼容 API"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    19
+   ],
+   "note": "声明重构中，未自称早期阶段"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "命令行工具",
+   "自然语言转Shell",
+   "开发者效率",
+   "Cloudflare Workers"
+  ],
+  "domain": "开发者工具/命令行",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（双语）",
+   "受 Linux.do 社区启发重构"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: `fuckit.sh` 是一个基于 AI 的命令行工具，它能将你的自然语言描述直接转换成可执行的 Shell 命令。",
+   "L126: 4. AI 返回生成的 Shell 命令。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     145
+    ],
+    "note": "git clone 用于自行部署",
+    "quotes": [
+     "    git clone https://github.com/faithleysath/fuckit.sh.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     158,
+     186
+    ],
+    "note": "npx wrangler 为部署工具链，非本产品运行时安装途径",
+    "quotes": [
+     "    npx wrangler secret put OPENAI_API_KEY",
+     "    npx wrangler deploy"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    19
+   ],
+   "note": "重构声明非弃用"
+  }
+ }
+}

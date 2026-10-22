@@ -1,0 +1,135 @@
+{
+ "fn": "DevYangJC/Argus",
+ "sha": "ef4ccc579c1c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向企业的 RAG + AI Agent 开源知识库问答平台",
+  "review": "基于 Java 21 + Spring Boot 3.5 与 Vue 3 的 RAG 知识库平台：文档上传（PDF/DOCX/MD/TXT）后经 ETL 流水线解析、切片、向量化，采用 pgvector HNSW 语义检索与 Elasticsearch IK 关键词检索双通道，RRF 融合排序，四级证据评估不足时拒答，回答附带引用溯源。AI 层基于 Spring AI Alibaba（DashScope 通义千问），ReactAgent 图引擎支持 CHAT/KB_SEARCH 双模式与三级短期记忆压缩。需自建 PostgreSQL/pgvector、Elasticsearch、MinIO 等中间件并配置 DashScope API Key，从源码构建启动。",
+  "highlights": [
+   "向量 + 关键词双通道混合检索与 RRF 融合排序",
+   "四级证据评估（NONE→WEAK→PARTIAL→SUFFICIENT），证据不足主动拒答",
+   "ReactAgent 图引擎，CHAT/KB_SEARCH 双模式与三级短期记忆压缩",
+   "三级角色权限、JWT 双令牌、群组数据隔离的安全体系"
+  ],
+  "use_cases": [
+   "企业私有文档的统一知识库问答与引用溯源",
+   "团队群组协作管理共享知识库并控制权限",
+   "在同一会话中切换纯对话与知识库检索模式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "知识库问答",
+   "企业知识管理",
+   "Spring生态",
+   "AI Agent"
+  ],
+  "domain": "知识库/RAG 应用平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 为主",
+   "通义千问/DashScope 深度集成",
+   "Spring AI Alibaba 框架"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14:  融合 RAG 与 AI Agent 技术的企业级智能知识平台",
+   "L30: **Argus** 不是另一个\"套壳 ChatGPT\"。它是一个从底层构建的 **RAG（检索增强生成）知识库平台**，将企业私有文档与大语言模型深度融合，解决 LLM 在垂直领域应用中的三大核心痛点：",
+   "L132: |AI Chat|**Spring AI Alibaba**|1.1.2.0|DashScope 原生集成（通义千问）|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ],
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     231
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     191,
+     200
+    ],
+    "note": "Docker 用于启动 MinIO/Elasticsearch 中间件，非本产品安装方式",
+    "quotes": [
+     "docker run -d --name minio \\",
+     "docker run -d --name elasticsearch \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "note": "自述'不是另一个套壳 ChatGPT'，非替代声明",
+    "quotes": [
+     "**Argus** 不是另一个\"套壳 ChatGPT\"。它是一个从底层构建的 **RAG（检索增强生成）知识库平台**，将企业私有文档与大语言模型深度融合，解决 LLM 在垂直领域应用中的三大核心痛点："
+    ]
+   }
+  ]
+ }
+}

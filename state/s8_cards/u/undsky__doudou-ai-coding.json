@@ -1,0 +1,91 @@
+{
+ "fn": "undsky/doudou-ai-coding",
+ "sha": "664d11cd5c7d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向编程小白与中小企业的 AI 全流程开发平台",
+  "review": "豆豆（DouDou）AI 全流程开发平台，面向个人（编程小白）与小中型企业，覆盖后端服务、Web 前端和移动端 h5、APP、小程序开发。通过在 AI 对话框输入指令完成五步流程：初始化知识库并导入资料、启动开发环境、生成产品需求文档与数据库表结构、自动生成代码（EggJS/Vue3/UniApp 三套目录）与自动测试。要求任意支持 AI 终端或 IDE，移动开发需安装 HBuilderX，另需 nodejs 与 python。配套技能包括 doudou-llm-wiki-skill、doudou-ai-coding-skills、ui-ux-pro-max。采用 CC BY-NC 4.0 许可证。",
+  "highlights": [
+   "五步对话式流程：知识库→环境→产品设计→开发→测试",
+   "代码自动生成到 doudou-eggjs、doudou-vue3、doudou-uniapp 目录",
+   "产品设计阶段产出需求文档、数据库表结构、测试用例等文档"
+  ],
+  "use_cases": [
+   "不会编程的用户通过对话把点子做成可运行的软件",
+   "小中型企业快速搭建后端、Web 与移动端应用",
+   "基于自有资料建立知识库辅助 AI 开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程",
+   "低代码/无代码",
+   "agent技能",
+   "全栈开发"
+  ],
+  "domain": "软件开发/AI 编程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 优先（简体中文 | English）",
+   "中文项目名“豆豆”",
+   "公众号与 QQ 群社区"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7:  豆豆（DouDou）AI 全流程开发平台，面向个人（编程小白）、小中型企业，覆盖后端服务、Web 前端和移动端h5、APP、小程序开发。",
+   "L28: 即使你**完全不会编程、一行代码都没写过**，也只要按照下面的 5 个步骤，在 AI 对话框里输入简单的一句话，就能把脑海里的一个点子，变成真正能点击、能使用的精美软件！"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

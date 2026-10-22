@@ -1,0 +1,135 @@
+{
+ "fn": "LangGraph-GUI/LangGraph-GUI",
+ "sha": "89f07647e768",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LangGraph 可视化节点图编辑器，可接本地或在线 LLM 运行",
+  "review": "基于 SvelteFlow 前端与 FastAPI 后端的 LangGraph 图形界面：以节点-边编辑方式构建工作流，并可通过 Ollama 等本地模型或在线 API 运行。部署以 Docker Compose 为主（含拉取 Ollama 模型的步骤），另提供 Kubernetes 配置与 Electron（需 npm）路径；Linux 下要求 Docker Compose 环境，可选 nv-docker 支持 GPU 运行 Ollama。访问 localhost:3000 使用。",
+  "highlights": [
+   "SvelteFlow 前端 + FastAPI 后端的节点-边可视化工作流编辑",
+   "支持 Ollama 本地模型与在线 API 运行 LLM",
+   "Docker Compose 一键部署，附 Kubernetes 配置"
+  ],
+  "use_cases": [
+   "用可视化界面编排 LangGraph 工作流而不写代码",
+   "自托管运行接本地 Ollama 模型的 LLM 应用",
+   "在 K8s 集群中部署工作流编辑环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作流编排",
+   "LLMOps",
+   "可视化编程",
+   "自托管",
+   "LangGraph"
+  ],
+  "domain": "LLM 工作流/LMMOps 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: LangGraph-GUI is an user-friendly graphical interface for interacting with SvelteFlow frontend and fastAPI backend using",
+   "L30: Prepare: Build the Docker containers and pull ollama models :"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     3,
+     30,
+     33,
+     34
+    ],
+    "note": "README 专门给出 Docker 内启动 Ollama 并拉取模型的步骤",
+    "quotes": [
+     "LangGraph-GUI is an user-friendly graphical interface for interacting with SvelteFlow frontend and fastAPI backend using",
+     "Prepare: Build the Docker containers and pull ollama models :",
+     "docker compose up ollama -d",
+     "docker compose exec ollama ollama pull xxxx"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     32,
+     33,
+     34,
+     40
+    ],
+    "quotes": [
+     "docker compose build",
+     "docker compose up ollama -d",
+     "docker compose exec ollama ollama pull xxxx",
+     "docker compose up"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "git clone --recurse-submodules https://github.com/LangGraph-GUI/LangGraph-GUI.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

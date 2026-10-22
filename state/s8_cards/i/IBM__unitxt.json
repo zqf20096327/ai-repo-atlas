@@ -1,0 +1,113 @@
+{
+ "fn": "IBM/unitxt",
+ "sha": "612dd2a75922",
+ "source": "readme",
+ "identity": {
+  "one_liner": "企业级 AI 评测 Python 库：统一评测文本/表格/视觉/语音/代码",
+  "review": "IBM 维护的 Python 评测库，提供命令行评测工具、Python API（evaluate/create_dataset/load_dataset）与交互式界面（unitxt-explore）。覆盖文本、表格、视觉、语音与代码评测，聚合任务、数据集、提示、基准与指标目录，可将数千个数据集加载为聊天 API 格式供任意模型使用。支持 HuggingFace、OpenAI、WatsonX 及自定义模型接入。有论文（ACL 2024）可供引用。",
+  "highlights": [
+   "统一框架评测文本/表格/视觉/语音/代码",
+   "模型无关：支持 HuggingFace/OpenAI/WatsonX/自定义模型",
+   "提供 CLI（unitxt-evaluate）与交互式界面（unitxt-explore）",
+   "可共享的模块化组件保证结果可复现"
+  ],
+  "use_cases": [
+   "用 CLI 或 Python API 对模型做基准评测",
+   "把数千个数据集加载为聊天 API 格式复用",
+   "在交互界面中浏览数据集与基准"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://aclanthology.org/2024.acl-long.166/",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM评测",
+   "基准测试",
+   "数据集加载",
+   "MLOps"
+  ],
+  "domain": "AI 评测/数据工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: ### 🦄 Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog",
+   "L18: - 🌐 **Comprehensive**: Evaluate text, tables, vision, speech, and code in one unified framework"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     31,
+     65
+    ],
+    "quotes": [
+     "pip install unitxt",
+     "pip install unitxt[ui]"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "被支持的模型来源，非替代/竞品对象",
+    "quotes": [
+     "- 🧠 **Model Agnostic**: Works with HuggingFace, OpenAI, WatsonX, and custom models"
+    ]
+   }
+  ]
+ }
+}

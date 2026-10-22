@@ -1,0 +1,134 @@
+{
+ "fn": "labtether/labtether",
+ "sha": "66bf46727a09",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管家庭实验室统一管控面板，内置 MCP 供 AI agent 运维",
+  "review": "用 Go 编写的跨平台 homelab 控制平面：单一仪表盘聚合 Proxmox、TrueNAS、Docker、Portainer、Home Assistant 等设施的指标、日志、告警与事件，并提供浏览器远程终端/桌面、文件管理、拓扑图、自动化任务与 Webhook。安全方面内置 Tailscale 集成、2FA、OIDC/SSO、RBAC 与审计日志。AI 部分为内置 MCP 服务器（23+ 工具），可接入 Claude、Cursor 等 agent 用自然语言操作基础设施。通过 curl 校验安装脚本加 Docker Compose 部署，可选 Linux/macOS/Windows 端点 agent；Windows 支持部分功能，FreeBSD 计划中。",
+  "highlights": [
+   "内置 MCP 服务器（23+ 工具），接入 Claude/Cursor 等 agent 自然语言运维",
+   "统一仪表盘聚合指标、日志、告警、事件与拓扑图",
+   "集成 Proxmox VE/TrueNAS/Docker/Portainer/Home Assistant 等并自动发现",
+   "2FA、OIDC/SSO、RBAC、审计日志与 Tailscale 远程访问"
+  ],
+  "use_cases": [
+   "用多个仪表盘管理 Proxmox/TrueNAS/Docker，想合并到一处查看与操作",
+   "让 AI agent 通过自然语言重启容器、读日志、执行命令",
+   "家庭实验室需要安全的远程终端、文件管理与告警"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "homelab",
+   "自托管",
+   "DevOps监控",
+   "MCP",
+   "远程运维"
+  ],
+  "domain": "基础设施运维/自托管",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Cross-platform homelab control plane with AI-powered operations.**",
+   "L39: - **Self-hosted** -- Docker Compose + Postgres. Your data never leaves your network."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     23,
+     111,
+     114
+    ],
+    "note": "内置 MCP 服务器可接入 Claude 等 agent",
+    "quotes": [
+     "Built-in MCP server with 23+ tools. Operate your fleet through Claude, OpenClaw, Cursor, or any AI agent.",
+     " Claude",
+     "LabTether ships a built-in **MCP server** with 23+ tools. Connect Claude, OpenClaw, Cursor, or any MCP-compatible AI age"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     39,
+     61
+    ],
+    "quotes": [
+     "- **Self-hosted** -- Docker Compose + Postgres. Your data never leaves your network.",
+     "### Advanced: Docker Compose"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     23,
+     114
+    ],
+    "note": "作为可连接的 MCP 客户端被列举",
+    "quotes": [
+     "Built-in MCP server with 23+ tools. Operate your fleet through Claude, OpenClaw, Cursor, or any AI agent.",
+     "LabTether ships a built-in **MCP server** with 23+ tools. Connect Claude, OpenClaw, Cursor, or any MCP-compatible AI age"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

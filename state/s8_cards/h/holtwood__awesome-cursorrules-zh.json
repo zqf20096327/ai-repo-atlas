@@ -1,0 +1,116 @@
+{
+ "fn": "holtwood/awesome-cursorrules-zh",
+ "sha": "e93b24a3a668",
+ "source": "readme",
+ "identity": {
+  "one_liner": "中文开发者的 Cursor AI 编程规则精选集（132 条）",
+  "review": "Awesome Cursor Rules 的中文本地化版本，收录 132 个 .cursorrules 规则文件，按前端、后端、移动端、AI、DevOps、区块链等 32 个技术领域组织，附 190 个技术文档与中英双语对照。用户通过 git clone 获取仓库后，将对应技术栈的 .cursorrules 文件复制到项目根目录，Cursor 编辑器中的 AI 助手即按该规则生成代码。提供合并规则、目录级规则等使用方式与在线文档站点，基于 MIT 许可，由个人维护并跟踪与上游 PatrickJS/awesome-cursorrules 的同步。",
+  "highlights": [
+   "132 个 .cursorrules 规则文件，覆盖 32 个技术领域",
+   "100% 中英双语翻译，190 个技术文档",
+   "支持单技术栈复制、多技术栈合并与目录级规则三种用法"
+  ],
+  "use_cases": [
+   "为我的 React/TypeScript 项目配置 Cursor AI 编码规范",
+   "在单体仓库中为前后端目录分别放置不同规则",
+   "按技术栈查找现成的 Cursor 规则并自定义追加"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "awesome-cursorrules-zh.js.org",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI编程",
+   "Cursor规则",
+   "中文本地化"
+  ],
+  "domain": "开发工具/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "专为中文开发者优化的本地化版本",
+   "awesome-cursorrules-zh.js.org 中文域名"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: 为中文开发者打造的 Cursor AI 编程规则集合",
+   "L26: Awesome Cursor Rules 是优秀的 Cursor AI 编程助手规则集合。本项目是其**中文本地化版本**，专为中文开发者优化："
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     81
+    ],
+    "quotes": [
+     "git clone https://github.com/holtwood/awesome-cursorrules-zh.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     13,
+     38
+    ],
+    "note": "规则文件服务的编辑器，非替代/竞品对象",
+    "quotes": [
+     "为中文开发者打造的 Cursor AI 编程规则集合",
+     "`.cursorrules` 是 Cursor AI 编辑器的项目级配置文件，用于定义 AI 如何协助你的编程："
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

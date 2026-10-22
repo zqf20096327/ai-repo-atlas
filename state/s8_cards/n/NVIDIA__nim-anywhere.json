@@ -1,0 +1,132 @@
+{
+ "fn": "NVIDIA/nim-anywhere",
+ "sha": "00a24e664264",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 NVIDIA NIM 微服务构建 RAG 应用的项目模板",
+  "review": "NVIDIA 官方维护的 Gen AI 项目模板（Clone Me），配合 NVIDIA AI Workbench 使用，提供接入 LLM NIM、Embedding NIM、Reranker NIM 构建检索增强生成（RAG）应用的工具链，并可从实验室环境扩展到生产。快速开始流程包括：生成 NGC Personal Key、Docker 认证 nvcr.io、安装 AI Workbench（Windows/macOS/Ubuntu 客户端，远程机仅限 Ubuntu）、克隆或 Fork 本仓库。脱离 AI Workbench 运行需手动配置，预置自动化与集成可能不可用。",
+  "highlights": [
+   "覆盖 LLM/Embedding/Reranker 三类 NIM 微服务的 RAG 集成工具链",
+   "原生支持从实验室到生产环境的扩展",
+   "与 NVIDIA AI Workbench 集成的本地/远程开发机工作流",
+   "支持 Python 3.10-3.12，含 CI 流水线"
+  ],
+  "use_cases": [
+   "企业用内部数据构建 RAG 问答应用",
+   "在 NVIDIA AI Workbench 中快速起步 NIM 集成开发",
+   "远程实验室机器上集中部署 Gen AI 开发环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "NIM微服务",
+   "企业GenAI",
+   "项目模板",
+   "NVIDIA生态"
+  ],
+  "domain": "LLM 基础设施/RAG",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L22: NIM Anywhere contains all the tooling required to start integrating NIMs",
+   "L23: for RAG. It natively scales out to full-sized labs and up to production",
+   "L101: This project is designed to be used with [NVIDIA AI"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     428
+    ],
+    "note": "容器运行环境/Docker 认证为前置条件，非本产品安装命令",
+    "quotes": [
+     " > - Due to the nature of Docker Compose profiles, the UI will let"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     185,
+     216
+    ],
+    "note": "DMG/AppImage 为 AI Workbench 安装包，非本产品",
+    "quotes": [
+     " disk image (*.dmg* file) and open it.",
+     "    chmod +x NVIDIA-AI-Workbench-*.AppImage"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     436,
+     473
+    ],
+    "quotes": [
+     " safely be started. This contains the custom LangChain code for",
+     "LangChain. (Note that the Chain Server here gives you the option to"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

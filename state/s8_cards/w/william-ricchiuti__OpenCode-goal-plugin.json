@@ -1,0 +1,120 @@
+{
+ "fn": "william-ricchiuti/OpenCode-goal-plugin",
+ "sha": "68920f07e4db",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenCode 插件：为会话设定受守护的持久目标工作流",
+  "review": "面向 OpenCode 的 npm 插件，提供会话级 /goal 命令：设定目标后跨轮次与压缩保持上下文，助手空闲时自动续跑，并在目标完成、报告阻塞或触达安全限制（轮次/时长/token/无进展/无工具调用）时停止。支持项目本地持久化与重启恢复、证据门控完成（可选独立 fail-closed 验证器）、多目标与有序目标序列。依赖 OpenCode 实验 hooks，需按所用版本钉死插件版本并自行重测。",
+  "highlights": [
+   "轮次/时长/token/无进展等多重安全限制的守护式自动续跑",
+   "持久化状态与有界生命周期账本支持重启恢复",
+   "证据门控完成，可选独立 fail-closed 验证器",
+   "active/paused/blocked 生命周期与多目标、有序序列"
+  ],
+  "use_cases": [
+   "让 OpenCode 会话长时间自主推进一个目标并在完成后自动停止",
+   "为无人值守任务设置 token/费用等安全上限",
+   "需要完成证据与独立验证的多步开发目标"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    13
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OpenCode插件",
+   "agent工作流",
+   "任务自动化",
+   "安全护栏"
+  ],
+  "domain": "AI 编码助手/agent 工具链",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: A session-scoped `/goal` workflow for OpenCode.",
+   "L11: Set a goal and the plugin keeps it in context, auto-continues the session whenever the assistant goes idle, and stops wh"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     45,
+     48,
+     52
+    ],
+    "note": "作为兼容性测试中实际使用的 provider 记录，非专门接入适配",
+    "quotes": [
+     "|1.17.15|opencode (`deepseek-v4-flash-free`)|✅ Canonical tool|✅ Checkpoint + idle continuation|✅ Structured `goal_comple",
+     "|1.17.15|deepseek (`deepseek-chat`)|✅|✅|✅ Clean `[goal:evidence]` + `[goal:complete]` on the first attempt; also verifie",
+     "`/goal status` and auto-continue are graded on **state correctness** (verified directly against persisted state: correct"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     62,
+     68
+    ],
+    "note": "通过 opencode.json 配置由 OpenCode 安装 npm 插件，需钉死版本",
+    "quotes": [
+     "OpenCode installs npm plugins itself from your config, so there is nothing to `npm install`. Add the plugin **with a pin",
+     "  \"plugins\": [\"opencode-goal-plugin@0.11.1\"]"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

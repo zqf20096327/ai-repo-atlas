@@ -1,0 +1,117 @@
+{
+ "fn": "tangredtea/Spring-Blog",
+ "sha": "f2ea6edaba99",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Spring Boot 个人博客系统，可选接入 AI 做摘要与标签",
+  "review": "基于 Spring Boot 2.7.x + MyBatis + MySQL + Redis + Thymeleaf 的个人博客系统，提供 Markdown 编辑器、草稿、分类标签、评论、留言板、后台管理仪表盘、SEO 优化、企业微信错误通知与 Docker Compose 部署。AI 功能为可选模块：通过配置 OpenAI API key 实现自动摘要、标签推荐、文章质量评分与智能搜索；未配置时系统回退到默认行为。安全方面使用 BCrypt、参数化查询与登录拦截器。",
+  "highlights": [
+   "可选 OpenAI 集成：自动摘要、标签推荐、质量评分、智能搜索",
+   "Redis 缓存、HikariCP 连接池、数据库索引优化",
+   "后台仪表盘含 AI 服务可用性监控",
+   "未配置 AI key 时优雅回退默认行为"
+  ],
+  "use_cases": [
+   "搭建带 AI 辅助写作能力的个人博客",
+   "学习 Spring Boot 全栈开发或用于毕设",
+   "通过 Docker Compose 快速部署博客站点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "博客系统",
+   "Java全栈",
+   "AI内容辅助",
+   "内容管理"
+  ],
+  "domain": "Web 应用/博客",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "企业微信 Webhook 通知"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: > A personal blog system built with Spring Boot + MyBatis, featuring AI-powered content assistance, Redis caching, and a",
+   "L127: AI features are optional. To enable them, set the following in `application-dev.yml` or via environment variables:",
+   "L137: When AI is not configured, the system gracefully falls back to default behavior (no errors)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     78,
+     97
+    ],
+    "quotes": [
+     "git clone https://github.com/tangredtea/Spring-Blog.git",
+     "mvn spring-boot:run"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     105,
+     107
+    ],
+    "quotes": [
+     "### Docker Compose Deployment",
+     "```bash"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

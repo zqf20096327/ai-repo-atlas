@@ -1,0 +1,118 @@
+{
+ "fn": "orbi-build/orbi",
+ "sha": "3406973a25e7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给维护 GitHub 仓库的开发者：标标签 Issue，自动产出已评审合并的 PR 与发布",
+  "review": "自托管（AGPL-3.0）的自动化软件交付系统：在 GitHub Issue 中写明目标与验收标准并打上 ai-ready 标签后，系统在隔离 worktree 中调度 Pi agent 规划、实现、测试，提交后由 Runner 创建 PR，再经独立评审会话修复问题，通过合并门禁后合并；按需执行发布门禁并打 tag 写发布说明。GitHub Issues 是唯一状态存储，无数据库/队列/守护进程，由 systemd/launchd 定时器每 5 分钟触发一次。失败标记 ai-blocked 交人工决定，AI 不合并或推送受保护分支。另提供托管版 Orbi Cloud。",
+  "highlights": [
+   "Issue 打 ai-ready 标签 → 独立评审的 PR → 合并 → 打 tag 发布的全自动闭环",
+   "GitHub Issues 为唯一状态存储，无数据库、队列或守护进程",
+   "独立评审会话与合并门禁，AI 不合并/推送受保护分支",
+   "每个任务独立 run_id，日志与 GitHub 评论可一条 grep 重建完整时间线"
+  ],
+  "use_cases": [
+   "给仓库 Issue 打标签后让系统自动实现并交付合并的 PR",
+   "自动执行发布门禁并生成 tag 与发布说明",
+   "自托管运行全自动软件交付流水线，无需额外任务系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/ff0d3a62-5fc9-44ae-bf68-b312a6a55f85",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自主编码Agent",
+   "CI/CD自动化",
+   "GitHub工作流",
+   "代码评审自动化",
+   "自托管"
+  ],
+  "domain": "软件开发自动化/DevOps",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文 README 与中文文档链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Orbi is an open-source **software dark factory**: a software delivery system for GitHub. You define the goal and accepta",
+   "L71:   → Pi development: plan → implement → test → verify"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     23,
+     24
+    ],
+    "quotes": [
+     "git clone https://github.com/orbi-build/orbi.git && cd orbi",
+     "uv tool install --force --reinstall --editable --python python3 .  # compatible system Python (>= 3.14, e.g. Fedora 43 /"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     27
+    ],
+    "quotes": [
+     "Want just the CLI? It's on PyPI as `orbi-cli` (requires Python ≥ 3.14; the command stays `orbi`): `uv tool install orbi-"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    100
+   ],
+   "quotes": [
+    "Orbi is **open source under the GNU AGPL-3.0**, with the **Sustainable Use License** (v1.0) as an alternative. Pick eith"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

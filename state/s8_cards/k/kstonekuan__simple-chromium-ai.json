@@ -1,0 +1,102 @@
+{
+ "fn": "kstonekuan/simple-chromium-ai",
+ "sha": "a99bca4c95aa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "封装 Chrome 内置 AI API 的 TypeScript 轻量库",
+  "review": "面向 Web 开发者的 TypeScript 封装库，包装 Chrome 浏览器内置的 Prompt、Translator、Language Detector、Summarizer 四个 AI API，简化初始化与会话管理：初始化时自动触发模型下载并返回必须使用的对象，提供 Safe 变体返回 Result 类型而非抛异常，支持结构化输出、token 用量检查、会话上下文与取消操作。不暴露流式响应与 Writer/Rewriter/Proofreader API。要求 Chrome 138+（Prompt API 需 148+），设备端模型约 4GB。附 demo 扩展并上架 Chrome Web Store。",
+  "highlights": [
+   "初始化即确保模型已下载，返回必须使用的对象",
+   "Safe API 变体返回 Result 类型而非抛异常",
+   "支持会话上下文、结构化输出、token 用量检查与取消",
+   "Prompt 与 Summarizer 共享同一约 4GB 底层模型"
+  ],
+  "use_cases": [
+   "在网页或 Chrome 扩展中调用浏览器内置 LLM 做问答与文本生成",
+   "使用浏览器本地翻译、语言检测与摘要功能",
+   "以类型安全方式快速接入 Chrome 内置 AI 而不处理原生初始化细节"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器AI",
+   "本地LLM",
+   "TypeScript库",
+   "Chrome扩展",
+   "Web开发"
+  ],
+  "domain": "Web/浏览器开发库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A lightweight TypeScript wrapper for Chrome's built-in AI APIs (Prompt, Translator, Language Detector, and Summarizer) t",
+   "L19: npm install simple-chromium-ai"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     19,
+     174
+    ],
+    "quotes": [
+     "npm install simple-chromium-ai",
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

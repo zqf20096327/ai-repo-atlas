@@ -1,0 +1,153 @@
+{
+ "fn": "854875058/Symbio",
+ "sha": "11f017aebf77",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多 Agent 协同运行时：调度、审批、沙箱、记忆与成本一体化框架",
+  "review": "Python 3.10+ 实现的多 Agent 协同框架，把调度（动态 DAG、Planner/Reviewer）、本体记忆图谱、HITL 多渠道审批（微信/飞书/钉钉/Telegram 等）、Prompt Injection 防火墙、Token 成本优化（语义缓存/上下文剪枝）、本地与 Docker 容器沙箱、数据飞轮（含 LoRA SFT 训练后端）整合在同一运行时，并提供 FastAPI 后端、18 页面 Web UI、CLI 与 API。支持 MCP、A2A 协议及委托本地 Claude Code / Codex CLI 执行。自述处于 Alpha 阶段，K8s 执行与跨机联邦学习等仍在实现中。",
+  "highlights": [
+   "动态 DAG 运行时：任务为可持久化执行图，支持重规划与断点恢复",
+   "运行时自带能力账本 API，区分已实现/部分实现/规划中",
+   "HITL 审批覆盖 6+ IM 渠道并带超时升级策略",
+   "Docker 容器沙箱：默认断网、只读根文件系统、资源限额"
+  ],
+  "use_cases": [
+   "搭建需要人工审批与沙箱隔离的多 Agent 工作流",
+   "通过微信/飞书等 IM 远程审批 Agent 的高危操作",
+   "对 Agent 运行轨迹做数据飞轮蒸馏与 LoRA 微调",
+   "统一登记并管控本地 Claude Code / Codex 会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    206
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多Agent编排",
+   "Agent基础设施",
+   "HITL审批",
+   "沙箱执行",
+   "可观测性"
+  ],
+  "domain": "AI 基础设施/多 Agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 为主",
+   "微信/QQ/飞书/钉钉审批渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: 把 Agent 能力拆成*可观测、可审批、可恢复、可验证*的基础设施模块 —— 调度、记忆、审批、安全、成本、沙箱、外部工具接管和数据飞轮，都在同一个运行时里协作。",
+   "L20: 很多 Agent 项目只解决\"让模型调用工具\"这一层。Symbio 关心的是更靠后、也更难的工程问题：",
+   "L137: |调度中枢|任务理解、DAG 编排、模型路由、风险判断|Orchestrator、DAG Runtime、Router、Planner/Reviewer|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     72,
+     170,
+     171
+    ],
+    "note": "默认配置使用 anthropic_api_key，Claude 视觉用于 VLM 规划与多模态记忆",
+    "quotes": [
+     "symbio chat \"帮我分析这个项目的测试缺口\" --model claude-sonnet-4",
+     "  anthropic_api_key: \"\"",
+     "  anthropic_base_url: \"https://api.anthropic.com\""
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     13,
+     49
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install symbio"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60,
+     63
+    ],
+    "quotes": [
+     "从源码开发：",
+     "git clone https://github.com/854875058/Symbio.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     94,
+     113
+    ],
+    "note": "作为被委托/接管的外部 Agent CLI，非替代或竞品对象",
+    "quotes": [
+     "- **Agent 接入 Claude Code / Codex** —— 单个 Symbio Agent 可把任务委托给本地 Claude Code / Codex CLI 执行（`ExternalBackedAgent`），编排、审批、",
+     "|外部 Agent 接管|✅ 已实现|Codex / Claude Code 会话登记、运行、导入 transcript；工作台多开平铺 + 网页真交互终端（PTY 跑 claude/codex/shell 的 TUI）+ 终端内接管 re"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

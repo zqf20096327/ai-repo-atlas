@@ -1,0 +1,126 @@
+{
+ "fn": "ericshang98/Perfect-Web-Clone",
+ "sha": "f7589fffead6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "网页像素级克隆技能：输入 URL 生成带评分的 Vite+React 复刻",
+  "review": "面向编码 agent 的技能/工具集：一条 clone 命令驱动 agent 完成网页抓取、分区规划、React 代码生成、构建与基于度量的修复循环，产出本地预览的 Vite+React 副本。核心的\"手与眼\"（pwc 命令）为确定性操作，不调用模型；agent 负责编写代码与修复评分最差的区块。完成以评分门控表判定，输出 ready_for_user_review 或 failed_with_residuals。需 Python 3.10+ 与 Node 20+，WebGL 等运行时绘制内容的视觉上限会预先报告。",
+  "highlights": [
+   "capture→plan→React→build→measured repair 的完整克隆流程",
+   "pwc CLI 为确定性操作，不调用模型",
+   "完成状态由评分门控表判定并附证据，每条命令输出 JSON",
+   "技能文件发布为 perfect-web-clone-skill，可装载到编码 agent"
+  ],
+  "use_cases": [
+   "让编码 agent 把任意网页克隆为可运行的 React 代码",
+   "需要带度量评分而非截图的网页复刻",
+   "本地预览并按评分迭代修复克隆页面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网页克隆",
+   "AI agent 技能",
+   "前端代码生成",
+   "自动化"
+  ],
+  "domain": "前端开发/AI 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Pixel-perfect clones of any webpage.** This repo is the measured core. The product is the skill: an agent harness that",
+   "L17: `skill/SKILL.md` is the harness. Same file is published as `perfect-web-clone-skill`.",
+   "L34: Load `perfect-web-clone-skill` into Claude Code, Codex, or any coding agent that can run `pwc`."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "Claude Code 为可装载技能的编码 agent 之一，非专门适配声明",
+    "quotes": [
+     "Load `perfect-web-clone-skill` into Claude Code, Codex, or any coding agent that can run `pwc`."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "pip install \"git+https://github.com/ericshang98/Perfect-Web-Clone.git\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "技能可装载的目标 agent，非替代/竞品",
+    "quotes": [
+     "Load `perfect-web-clone-skill` into Claude Code, Codex, or any coding agent that can run `pwc`."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

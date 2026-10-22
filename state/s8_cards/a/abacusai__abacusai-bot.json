@@ -1,0 +1,150 @@
+{
+ "fn": "abacusai/abacusai-bot",
+ "sha": "0f2002a6395b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "免费开源的桌面个人 AI agent 应用，接入聊天与办公工具",
+  "review": "MIT 许可的桌面应用（macOS/Windows/Linux 安装包）：用户创建具名 bot，为其配置指令与模型，bot 各自保有聊天与记忆，可从 WhatsApp、Telegram、Discord 或桌面端对话，并通过 100+ 连接器（Gmail、Google Drive、Slack、GitHub、Notion 等）与 MCP 服务器执行任务、定时例程、编码与创作。默认模式为 Full access，无沙箱与审批提示；带 Abacus.AI API key 时会向 Abacus.AI 上传转录与日志。模型可经 Abacus.AI 免费额度、OpenRouter/Groq 等密钥或本地 OpenAI 兼容端点接入，RouteLLM 在免费模型间切换。",
+  "highlights": [
+   "创建具名 bot，各有模型、记忆与聊天，支持 WhatsApp/Telegram/Discord 远程对话",
+   "100+ 连接器与 MCP 服务器、本地工具、浏览器与设备接入",
+   "例程可按小时/天/周/webhook 定时运行并记录输出",
+   "RouteLLM 在免费模型不可用时自动切换，支持本地 OpenAI 兼容模型"
+  ],
+  "use_cases": [
+   "我在 WhatsApp/Telegram 上让个人 agent 帮我处理邮件、日程和跟进事项",
+   "我让 bot 定时生成每日简报或研究简报",
+   "半夜让 bot 修代码、跑测试并开 PR"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人agent",
+   "桌面应用",
+   "消息平台集成",
+   "MCP",
+   "本地LLM"
+  ],
+  "domain": "个人 AI 助手/桌面应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L21: Create a bot for a job you want to hand off. Give it a name, instructions, and a model. Each bot keeps its own chat and ",
+   "L23: Coding is one of the jobs a bot can do. AbacusAI Bot is built for personal assistance, research, communication, recurrin",
+   "L30: The desktop app is free and MIT-licensed. You do not need an existing paid model subscription. A free Abacus.AI account "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "note": "Groq API key 作为模型接入选项",
+    "quotes": [
+     "The desktop app is free and MIT-licensed. You do not need an existing paid model subscription. A free Abacus.AI account "
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "note": "OpenRouter key 作为模型接入选项",
+    "quotes": [
+     "The desktop app is free and MIT-licensed. You do not need an existing paid model subscription. A free Abacus.AI account "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     110,
+     114
+    ],
+    "note": "源码构建使用 Node.js 22 与 pnpm，npm/pnpm 为构建依赖工具而非发行渠道",
+    "quotes": [
+     "To build the app, use Node.js 22 and pnpm:",
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     110,
+     113,
+     114,
+     115
+    ],
+    "quotes": [
+     "To build the app, use Node.js 22 and pnpm:",
+     "corepack enable",
+     "pnpm install",
+     "pnpm dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "fn": "Galileo-Galilei/kedro-mlflow",
+ "sha": "5277f4ad28af",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Kedro 插件：在 Kedro 项目中集成 MLflow 实验追踪与模型打包",
+  "review": "面向使用 Kedro 框架构建机器学习流水线的开发者提供的插件：在 Kedro 运行中以少量配置自动注册参数与数据集到 MLflow Tracking，供事后在 MLflow UI 中浏览检索；并通过 pipeline_ml_factory 等 API 将 Kedro 流水线（含预处理、后处理与训练产物）转换为 MLflow 模型，可一行命令打包并以 API 形式部署。要求 kedro>=0.16.0、mlflow>=1.0.0；当前 2.0.3 版本仅兼容 mlflow 3.x。经 pip、conda-forge 与 GitHub 源码安装，遵循 SemVer。",
+  "highlights": [
+   "Kedro 运行中自动注册参数与数据集到 MLflow Tracking",
+   "将 Kedro 流水线打包为自包含 MLflow 模型（含预处理/后处理）并可作为 API 部署",
+   "MlflowArtifactDataset / MlflowMetricsHistoryDataset 自动记录文件与指标",
+   "提供 pip、conda-forge、GitHub 源码三种安装途径"
+  ],
+  "use_cases": [
+   "在 Kedro 项目里做实验追踪与参数/数据集版本记录",
+   "把 Kedro 流水线打包成 MLflow 模型用于生产部署与共享",
+   "通过 MLflow UI 浏览和检索历史运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "实验追踪",
+   "模型打包/部署",
+   "流水线",
+   "插件"
+  ],
+  "domain": "机器学习工程/MLOps",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: ``kedro-mlflow`` is a kedro-plugin for lightweight and portable integration of mlflow capabilities inside kedro projects",
+   "L26: - **experiment tracking**: `kedro-mlflow` intends to enhance reproducibility for machine learning experimentation. With ",
+   "L27: - **pipeline as model**: ``kedro-mlflow`` intends to be be an agnostic machine learning framework for people who want to"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     37,
+     39
+    ],
+    "quotes": [
+     "|PyPI logo|PyPI|``pip install kedro-mlflow`` or ``uv pip install kedro-mlflow``|",
+     "|GitHub logo|GitHub|``pip install --upgrade git+https://github.com/Galileo-Galilei/kedro-mlflow.git``|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

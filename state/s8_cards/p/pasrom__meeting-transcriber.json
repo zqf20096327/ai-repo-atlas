@@ -1,0 +1,174 @@
+{
+ "fn": "pasrom/meeting-transcriber",
+ "sha": "1931fb84a2c1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 本地会议转录器：录音、转录、说话人分离全在设备端",
+  "review": "macOS 菜单栏应用，自动检测 Teams/Zoom/Webex 会议并双轨录音（应用音频+麦克风），在设备端完成转录（WhisperKit 或 Parakeet TDT v3）、说话人分离（FluidAudio via CoreML/ANE）与说话人识别，再经 Claude Code CLI 或任意 OpenAI 兼容端点（Ollama/LM Studio）生成 Markdown 纪要。支持多格式文件导入、自定义词汇表、仅录音模式与 localhost 自动化 API。要求 macOS 14.2+，全程无云端、无订阅。",
+  "highlights": [
+   "双轨录音 + 双轨分别做说话人分离，避免回声干扰",
+   "双转录引擎可选：WhisperKit（99+语言）与 Parakeet TDT v3（约50MB模型）",
+   "CoreML/ANE 上的设备端说话人分离，无需 HuggingFace token",
+   "协议生成可选 Claude CLI、OpenAI 兼容 API 或关闭"
+  ],
+  "use_cases": [
+   "在保密场景（法务/医疗/NDA）本地录制并转录线上会议",
+   "导入录音/视频文件离线生成带说话人标记的纪要",
+   "通过 localhost 自动化 API 无头驱动转录流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音转录",
+   "会议记录",
+   "说话人分离",
+   "本地优先/隐私",
+   "macOS菜单栏应用"
+  ],
+  "domain": "语音处理/效率工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **The local-first meeting transcriber for macOS.** Records Teams, Zoom, and Webex calls, transcribes them on-device wi",
+   "L53: - **On-device transcription** — Two engines, selectable in Settings:",
+   "L57: - **On-device speaker diarization** — FluidAudio via CoreML/ANE — no HuggingFace token needed; two modes: standard (`Off"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     62,
+     77
+    ],
+    "note": "Claude Code CLI 作为纪要生成的官方通道之一",
+    "quotes": [
+     "- **AI protocol generation** — Structured Markdown via Claude Code CLI, OpenAI-compatible APIs (Ollama, LM Studio, etc.)",
+     " - Claude Code CLI — installed and logged in (`claude --version`)"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     92,
+     94,
+     97
+    ],
+    "note": "作为 OpenAI 兼容端点承载纪要生成，有专门配置章节",
+    "quotes": [
+     "### Using Ollama as provider",
+     "1. Install Ollama: `brew install ollama`",
+     "4. In the app's Settings, select **OpenAI-Compatible API** as provider and set:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     33,
+     107
+    ],
+    "quotes": [
+     "brew install --cask meeting-transcriber",
+     "brew install --cask meeting-transcriber"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     124,
+     126
+    ],
+    "quotes": [
+     "git clone https://github.com/pasrom/meeting-transcriber",
+     "./scripts/run_app.sh"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     57,
+     80
+    ],
+    "note": "仅说明无需其 token，非替代/竞品",
+    "quotes": [
+     "- **On-device speaker diarization** — FluidAudio via CoreML/ANE — no HuggingFace token needed; two modes: standard (`Off",
+     "No HuggingFace token needed — FluidAudio and WhisperKit download their models automatically on first run."
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     62,
+     77
+    ],
+    "note": "被调用的 CLI 工具",
+    "quotes": [
+     "- **AI protocol generation** — Structured Markdown via Claude Code CLI, OpenAI-compatible APIs (Ollama, LM Studio, etc.)",
+     " - Claude Code CLI — installed and logged in (`claude --version`)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

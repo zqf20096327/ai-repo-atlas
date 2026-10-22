@@ -1,0 +1,119 @@
+{
+ "fn": "steipete/speaking",
+ "sha": "a0927e8d7716",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Peter Steinberger 的演讲日程与个人资料页（会议清单+Bio）",
+  "review": "个人演讲活动仓库：列出 Peter Steinberger（OpenClaw 创造者、OpenAI 员工）2026 年及未来的会议与聚会日程，附 2025-2026 历史演讲记录（部分带视频链接）、长短版个人简介、SpeakerDeck 幻灯片指引、头像与照片文件夹，以及播客与文章列表。面向会议组织者挑选简介与联系方式使用，不提供可安装或可运行的软件，仅为静态 Markdown 文档。",
+  "highlights": [
+   "按年份组织的前 upcoming 与 past 演讲日程表，部分条目附视频/文章链接",
+   "提供长/短/幽默三版可直接引用的个人简介",
+   "2024 及更早演讲归档于 ARCHIVE.md"
+  ],
+  "use_cases": [
+   "会议组织者查看演讲者日程并邀请其演讲",
+   "查找 Peter Steinberger 历史演讲的视频与幻灯片",
+   "获取可直接引用的演讲者简介与照片"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人主页",
+   "演讲日程",
+   "活动清单",
+   "开发者社区"
+  ],
+  "domain": "个人宣传/活动日程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L5: ## Upcoming Conferences & Meetups in 2026+",
+   "L95: ### Bio"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     82
+    ],
+    "note": "出现于 'Claude Code Anonymous' 聚会名称，非接入关系",
+    "quotes": [
+     "San Francisco, CA | Oct 21, 2025 | Claude Code Anonymous, SF Edition"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     82,
+     83,
+     87,
+     88,
+     91
+    ],
+    "note": "作为同名社区聚会名称被提及，非替代/竞品关系",
+    "quotes": [
+     "San Francisco, CA | Oct 21, 2025 | Claude Code Anonymous, SF Edition",
+     "Prague, Czech Republic | Oct 9 or 16, 2025 (TBD) | Claude Code Anonymous, Prague Edition",
+     "Vienna, Austria | Sept 11, 2025 | Claude Code Anonymous, Vienna Chapter",
+     "Berlin, Germany | Sept 10, 2025 | Claude Code Anonymous - Berlin Edition",
+     "London, UK | Aug 18, 2025 | Claude Code Anonymous (Invite Only)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

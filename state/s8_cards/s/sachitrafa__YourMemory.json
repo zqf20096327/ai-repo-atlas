@@ -1,0 +1,180 @@
+{
+ "fn": "sachitrafa/YourMemory",
+ "sha": "608f8b1c0a98",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI agent 提供持久化记忆的 MCP 服务器，含遗忘曲线衰减",
+  "review": "面向 AI agent 的持久记忆系统，以 MCP 服务器形式接入 Claude Code、Cursor、Cline、Windsurf 等 MCP 客户端。核心机制：从对话抽取事实后做主体感知去重、嵌入与实体图链接；相关事实累积后压缩为摘要（整合）；记忆按 Ebbinghaus 遗忘曲线衰减，按类别设定半衰期，低于阈值自动修剪；检索采用向量+BM25+图扩展混合两轮排序。另提供哈希链审计日志、团队共享记忆池、数据导出/清除端点与两个内置浏览器 UI。默认 DuckDB 本地存储，可选 Postgres+pgvector；安装需注册获取 token（CC BY-NC 4.0 许可）。",
+  "highlights": [
+   "记忆按 Ebbinghaus 遗忘曲线衰减，分类别半衰期与强度修剪",
+   "事实整合（N→1 摘要压缩）与主体感知去重",
+   "向量+BM25+实体图两轮混合检索",
+   "哈希链防篡改审计日志与团队记忆池、数据导出/清除端点"
+  ],
+  "use_cases": [
+   "让 Claude/Cursor 等编码 agent 跨会话记住偏好与项目上下文",
+   "团队多个 agent 共享记忆池并保留私有记忆",
+   "需要审计与合规控制（导出/遗忘权）的 agent 记忆存储"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "MCP服务器",
+   "llm-memory",
+   "开发者工具",
+   "本地优先"
+  ],
+  "domain": "LLM 基础设施/agent 记忆",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L47: |🔌|**MCP-native & local-first**|Works with Claude, Cursor, Cline, Windsurf, or any MCP client. Runs entirely on your mac",
+   "L254: ## 🔧 MCP Tools",
+   "L260: |`recall_memory(query, current_path?)`|Start of every task|Surfaces memories ranked by similarity × decay strength; spat"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     107
+    ],
+    "note": "可选云端事实抽取后端（YOURMEMORY_EXTRACT_BACKEND=anthropic）",
+    "quotes": [
+     "> **Optional — smarter local extraction:** YourMemory works out of the box with built-in heuristics. For higher-quality,"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     107
+    ],
+    "note": "可选本地事实抽取后端，setup 时自动拉取 qwen2.5:7b",
+    "quotes": [
+     "> **Optional — smarter local extraction:** YourMemory works out of the box with built-in heuristics. For higher-quality,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     8,
+     95
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install yourmemory"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     111,
+     118
+    ],
+    "note": "macOS/Linux/Windows 独立二进制，捆绑 Python 与两个 ML 模型（约 2GB）",
+    "quotes": [
+     "Prefer not to touch pip? Grab the standalone binary for your platform from the latest release:",
+     "|Windows (x86-64)|`yourmemory-windows-x86_64.exe.zip`|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     47,
+     102
+    ],
+    "note": "作为 MCP 客户端被接入，非替代对象",
+    "quotes": [
+     "|🔌|**MCP-native & local-first**|Works with Claude, Cursor, Cline, Windsurf, or any MCP client. Runs entirely on your mac",
+     "`yourmemory-setup` auto-detects and wires up **Claude Code, Claude Desktop, Cursor, Windsurf, and Cline**, then asks whi"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     47,
+     102
+    ],
+    "note": "作为 MCP 客户端被接入",
+    "quotes": [
+     "|🔌|**MCP-native & local-first**|Works with Claude, Cursor, Cline, Windsurf, or any MCP client. Runs entirely on your mac",
+     "`yourmemory-setup` auto-detects and wires up **Claude Code, Claude Desktop, Cursor, Windsurf, and Cline**, then asks whi"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     102
+    ],
+    "note": "setup 自动配置的 MCP 客户端之一",
+    "quotes": [
+     "`yourmemory-setup` auto-detects and wires up **Claude Code, Claude Desktop, Cursor, Windsurf, and Cline**, then asks whi"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

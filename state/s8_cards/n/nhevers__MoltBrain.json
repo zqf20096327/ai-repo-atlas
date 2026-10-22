@@ -1,0 +1,146 @@
+{
+ "fn": "nhevers/MoltBrain",
+ "sha": "47e19d557e8c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 Claude Code/OpenClaw 等 agent 提供长期记忆层的插件",
+  "review": "面向 OpenClaw、MoltBook 与 Claude Code 的长期记忆层插件：自动学习并召回项目上下文，提供观察记录、智能搜索、Web 查看器等能力，配置存于 ~/.moltbrain/settings.json，本地 worker 暴露 localhost:37777 的 REST API，并带 CLI 命令（stats/export/search 等）。另提供 Postgres 支撑的付费存储 dapp（x402 微支付）、Virtuals Protocol GAME SDK 插件与 MoltBook MCP 集成。要求 Node.js 18+ 或 Bun 1.0+，AGPL-3.0 许可。",
+  "highlights": [
+   "自动学习并召回项目上下文的长期记忆层",
+   "CLI 命令（stats/export/tag/prune/search）与 localhost:37777 REST API",
+   "Virtuals Protocol GAME SDK 插件（9 个函数）与 MoltBook MCP 集成",
+   "Postgres 支撑的存储 dapp，经 x402 微支付按钱包隔离数据"
+  ],
+  "use_cases": [
+   "给 Claude Code / OpenClaw 助手加上跨会话项目记忆",
+   "Virtuals Protocol 链上 agent 接入持久记忆与存储",
+   "导出、打标签与检索 agent 的历史观察记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://app.moltbrain.dev/storage",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "MCP/插件",
+   "LLM基础设施",
+   "上下文管理"
+  ],
+  "domain": "LLM 基础设施/agent 记忆",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  Long-term memory layer for OpenClaw, MoltBook & Claude Code that learns and recalls your project context automatically.",
+   "L119: GAME SDK plugin that gives any Virtuals Protocol AI agent persistent memory and storage via MoltBrain.",
+   "L177: ## 💻 Claude Code Integration"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3,
+     177,
+     192
+    ],
+    "note": "通过 Claude Code 插件市场接入，属宿主工具层面的适配而非直连 Anthropic API",
+    "quotes": [
+     " Long-term memory layer for OpenClaw, MoltBook & Claude Code that learns and recalls your project context automatically.",
+     "## 💻 Claude Code Integration",
+     "║   •  OpenClaw, MoltBook, or Claude Code ║"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     122,
+     170
+    ],
+    "note": "Virtuals 插件与 MoltBook MCP 包的 npm 安装",
+    "quotes": [
+     "npm install @moltbrain/game-plugin",
+     "npm install --save @moltbrain/moltbook-mcp"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     154
+    ],
+    "note": "git clone 到 OpenClaw extensions 目录",
+    "quotes": [
+     "git clone https://github.com/nhevers/moltbrain.git moltbrain"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     177,
+     192
+    ],
+    "note": "作为宿主/集成对象被提及，非替代或竞品",
+    "quotes": [
+     " Long-term memory layer for OpenClaw, MoltBook & Claude Code that learns and recalls your project context automatically.",
+     "## 💻 Claude Code Integration",
+     "║   •  OpenClaw, MoltBook, or Claude Code ║"
+    ]
+   }
+  ]
+ }
+}

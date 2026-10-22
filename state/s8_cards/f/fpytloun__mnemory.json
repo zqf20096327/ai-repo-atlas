@@ -1,0 +1,169 @@
+{
+ "fn": "fpytloun/mnemory",
+ "sha": "680450dbd42c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 提供自托管长期记忆的 MCP 服务器",
+  "review": "自托管的 MCP 服务器，为 Claude Code、ChatGPT、Cursor 等 MCP 兼容客户端增加持久记忆与个性化能力：用单次 LLM 调用完成事实抽取、分类、去重与矛盾消解，两层结构（向量库摘要 + S3/MinIO 工件存储）配合多查询语义检索与时间感知。附带管理 UI、三阶段健康检查（fsck）、16 个 MCP 工具与 REST 双接口、Prometheus 监控。需要 OpenAI 兼容 API key 运行；删除为尽力而为，非合规级擦除保证。LoCoMo 基准总体 73.2。",
+  "highlights": [
+   "单次 LLM 调用完成事实抽取、分类、去重与矛盾消解",
+   "两层记忆：向量库摘要 + 按需取回的工件存储",
+   "三阶段健康检查（fsck）检测重复、矛盾与提示注入",
+   "16 个 MCP 工具 + REST API 双接口，Qdrant/S3 生产部署"
+  ],
+  "use_cases": [
+   "让我的 AI 助手跨对话记住偏好、事实与决定",
+   "为生产环境 agent 部署自托管记忆层",
+   "审计与修复积累的记忆（去重、矛盾、质量）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "MCP",
+   "长期记忆",
+   "RAG/语义检索",
+   "自托管"
+  ],
+  "domain": "LLM 基础设施/agent 记忆",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Give your AI agents persistent memory. mnemory is a self-hosted MCP server that adds personalization and long-term memor",
+   "L29: - **REST API + MCP** — Dual interface with the same backend. 16 MCP tools + full REST API with OpenAPI spec. Build plugi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9,
+     82,
+     84
+    ],
+    "note": "Claude 系客户端作为被接入的 MCP 客户端列举",
+    "quotes": [
+     "Give your AI agents persistent memory. mnemory is a self-hosted MCP server that adds personalization and long-term memor",
+     "|Claude Code|Yes|Yes (hooks)|Guide|",
+     "|Claude Desktop|Yes|--|Guide|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "gpt-oss-120b 经 Groq 作为基准测试的低成本选项",
+    "quotes": [
+     "Configuration: `gpt-5-mini` for extraction, `text-embedding-3-small` for vectors. `gpt-oss-120b` via Groq is a budget al"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     82
+    ],
+    "note": "被支持的 MCP 客户端",
+    "quotes": [
+     "Give your AI agents persistent memory. mnemory is a self-hosted MCP server that adds personalization and long-term memor",
+     "|Claude Code|Yes|Yes (hooks)|Guide|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     9,
+     83
+    ],
+    "note": "被支持的 MCP 客户端",
+    "quotes": [
+     "Give your AI agents persistent memory. mnemory is a self-hosted MCP server that adds personalization and long-term memor",
+     "|ChatGPT|Yes (MCP connector)|--|Guide|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     9,
+     89
+    ],
+    "note": "被支持的 MCP 客户端",
+    "quotes": [
+     "Give your AI agents persistent memory. mnemory is a self-hosted MCP server that adds personalization and long-term memor",
+     "|Cursor|Yes|--|Guide|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     25,
+     90
+    ],
+    "note": "被支持的 MCP 客户端",
+    "quotes": [
+     "- **10+ client support** — Claude Code, ChatGPT, Open WebUI, OpenClaw, Cursor, Windsurf, Cline, OpenCode, and more. Nati",
+     "|Windsurf|Yes|--|Guide|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

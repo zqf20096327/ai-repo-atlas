@@ -1,0 +1,149 @@
+{
+ "fn": "Micrurus-Ai/Corvid-lang",
+ "sha": "b9c43946b601",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 原生软件的通用编程语言，编译期检查 AI 行为",
+  "review": "Corvid 是一门通用编程语言，将 agent、tool、prompt、approve、模型路由、预算、置信度等 AI 构造纳入语言与编译器：缺少审批边界、组合成本超限或 Grounded 返回缺溯源链时程序拒绝编译。提供 curl 安装脚本与 cargo 源码安装，安装器可自动装 VS Code/Cursor/Windsurf 扩展；另有签名 cdylib 构建、claim/ABI 校验、replay 与收据、基于 skill.toml 的技能权限审计等机制。面向编写 CLI、服务器、数据管道与 AI agent 的开发者。README 各机制均标注 spec、tour、测试与非目标边界。",
+  "highlights": [
+   "审批门、成本预算、Grounded<T> 溯源等编译期契约",
+   "agent/tool/prompt/effect 等为编译器可理解的关键字",
+   "签名 cdylib 构建与独立 ABI 描述符校验、DSSE 收据",
+   "技能 skill.toml 声明权限上限，安装时计算审计并拒绝不实标签"
+  ],
+  "use_cases": [
+   "编写需审批边界与成本上限的 AI agent 工作流",
+   "构建带溯源与引用契约的检索问答程序",
+   "需要可重放执行与签名收据的可审计 AI 服务",
+   "以权限标签方式审计 agent 技能的能力边界"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编程语言",
+   "AI安全",
+   "Agent开发",
+   "编译器",
+   "审批/审计"
+  ],
+  "domain": "编程语言/AI 工程基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Corvid is a general-purpose programming language built for AI-native software.",
+   "L5: Python, TypeScript, Rust, Go, and JavaScript can call models through libraries. Corvid makes the AI parts visible to the",
+   "L7: The goal is not to be a RAG DSL. The goal is a real language for CLIs, servers, data pipelines, automation, embedded hos"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     716
+    ],
+    "quotes": [
+     "Embedders (OpenAI / Ollama) configure in `corvid.toml` `[rag]`; ingestion chunks with overlap and embeds in one call."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "note": "README 列出 cargo install 源码安装作为安装途径",
+    "quotes": [
+     "env overrides, `cargo install` from source, planned package-"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "brew",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "note": "安装器检测并安装编辑器扩展，非竞品",
+    "quotes": [
+     "Official installers also detect VS Code, Cursor, VSCodium, and Windsurf"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "note": "安装器检测并安装编辑器扩展，非竞品",
+    "quotes": [
+     "Official installers also detect VS Code, Cursor, VSCodium, and Windsurf"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

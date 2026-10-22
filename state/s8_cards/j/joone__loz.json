@@ -1,0 +1,157 @@
+{
+ "fn": "joone/loz",
+ "sha": "b2e615273f9f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 LLM 执行系统命令并支持 Unix 管道的 CLI 工具",
+  "review": "基于 Node.js 的命令行工具：将自然语言指令转译为对应操作系统的 shell 命令（Linux/macOS/PowerShell/cmd），支持 Unix 管道处理其他工具的输出，可自动生成 Git commit message，并提供 ReAct 式 Agent 模式迭代完成编码任务。LLM 后端可在 OpenAI API、Ollama（本地）与 GitHub Copilot 之间切换。安全机制包括危险命令拦截、Safe Mode 逐条确认、沙箱目录限制与默认禁网。经 npm 全局安装或克隆源码运行。",
+  "highlights": [
+   "自然语言转 shell 命令，跨 Linux/macOS/Windows",
+   "Unix 管道模式处理其他命令行工具的输入输出",
+   "Agent 模式以 ReAct 循环迭代执行编码任务（含沙箱/禁网/步数上限）",
+   "loz commit 依据暂存 diff 自动生成 Git 提交信息"
+  ],
+  "use_cases": [
+   "用自然语言执行系统命令而无需记忆具体语法",
+   "把 LLM 嵌入 shell 管道处理命令输出（统计、转换、纠错）",
+   "让 Agent 自动修复失败测试或完成代码改动",
+   "自动生成符合规范的 Git commit message"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "LLM客户端",
+   "命令行自动化",
+   "Agent",
+   "Git辅助"
+  ],
+  "domain": "开发者工具/命令行自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: Loz is a command-line tool that enables your preferred LLM to execute system commands and utilize Unix pipes, integratin",
+   "L74: Loz supports OpenAI API, Ollama, and GitHub Copilot so you can switch between these LLM services easily, using the `conf"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     74,
+     76,
+     78
+    ],
+    "quotes": [
+     "Loz supports OpenAI API, Ollama, and GitHub Copilot so you can switch between these LLM services easily, using the `conf",
+     "### Set up Ollama",
+     "To utilize Ollama on your local system, you'll need to install both llama2 and codellama models. Here's how you can do i"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     132,
+     191
+    ],
+    "note": "仅 claude-3.5-sonnet 出现在 GitHub Copilot 可用模型列表，无专门接入说明",
+    "quotes": [
+     "- `claude-3.5-sonnet`",
+     "Currently, OpenAI models (gpt-3.5-turbo, gpt-4), GitHub Copilot models (gpt-4o, claude-3.5-sonnet, o1-preview, o1-mini),"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     55
+    ],
+    "quotes": [
+     "$ sudo npm install loz -g"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     61,
+     69
+    ],
+    "quotes": [
+     "$ git clone https://github.com/joone/loz.git",
+     "$ ./install.sh"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     74,
+     116
+    ],
+    "note": "作为可选 LLM 后端被接入，非替代/竞品对象",
+    "quotes": [
+     "Loz supports OpenAI API, Ollama, and GitHub Copilot so you can switch between these LLM services easily, using the `conf",
+     "To use GitHub Copilot as your LLM provider, you need an active GitHub Copilot subscription."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

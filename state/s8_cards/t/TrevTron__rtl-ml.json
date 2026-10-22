@@ -1,0 +1,149 @@
+{
+ "fn": "TrevTron/rtl-ml",
+ "sha": "290f6358e8d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RTL-SDR 无线电信号机器学习分类器，运行于 ARM 单板机",
+  "review": "在约 $220 的 ARM 单板机（Indiedroid Nova / Raspberry Pi 4/5）加 RTL-SDR Blog V4 硬件上运行的无线电信号分类工具：采集 0.5 秒 IQ 样本，提取 17 个数值特征（功率、FFT、I/Q、相位、带宽），用 Random Forest（100 棵树）识别 FM 广播、NOAA 天气、APRS、FRS/GMRS、ISM 传感器、寻呼机与噪声 7 类信号，800 样本时序切分下测试准确率 96.9%。提供完整采集→训练→分类流水线，含预训练模型与 Hugging Face 数据集；不依赖云端与 GPU，模型约 200KB。限制：RTL-SDR V4 需安装专用驱动分支，FRS/GMRS 与寻呼机存在少量类别混淆。",
+  "highlights": [
+   "17 个特征 + Random Forest 分类 7 类无线电信号，测试准确率 96.9%",
+   "无需 GPU 与云端，在 ARM 边缘设备上推理（Pi 5 约 14ms）",
+   "800 个实测样本带 DC 去除、SNR 门控与时序切分（无数据泄漏）",
+   "提供预训练模型与 Hugging Face 预采集数据集"
+  ],
+  "use_cases": [
+   "在树莓派等单板机上自动识别空中无线电信号类型",
+   "频谱监测与扫描时跳过空频段、记录感兴趣的信号",
+   "学习 ML 与射频结合的端到端实践（采集→训练→分类）",
+   "识别 433 MHz IoT 设备与天气/应急广播信号"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://huggingface.co/datasets/TrevTron/rtl-ml-dataset",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SDR/软件无线电",
+   "信号分类",
+   "边缘计算",
+   "机器学习",
+   "频谱监测"
+  ],
+  "domain": "无线电/信号分类（边缘 ML）",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: - ✅ **96.9% accuracy** classifying 7 real-world radio signal types",
+   "L196: **Random Forest classifier** (100 decision trees) trained on 800 real-world samples with temporal train/test split (firs",
+   "L178: RTL-SDR V4 → USB → ARM SBC → Python (pyrtlsdr)"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     48,
+     49
+    ],
+    "quotes": [
+     "git clone https://github.com/TrevTron/rtl-ml.git",
+     "cd rtl-ml"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     53,
+     221
+    ],
+    "note": "虚拟环境中 pip 安装依赖；pip install huggingface-hub 为下载数据集的客户端依赖",
+    "quotes": [
+     "> **Note:** Recent Debian and Raspberry Pi OS releases (Bookworm and later) block system-wide pip installs under PEP 668",
+     "pip install huggingface-hub"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "No GPU Required",
+    "rel": "support",
+    "lines": [
+     15,
+     132
+    ],
+    "note": "本产品自身在 ARM CPU 上运行训练与推理",
+    "quotes": [
+     "- ✅ **No cloud, no GPU** — runs entirely on ARM edge device",
+     "✅ **No GPU Required**"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     213,
+     221
+    ],
+    "note": "用于托管数据集，非替代/竞品",
+    "quotes": [
+     "**🔗 Dataset:** https://huggingface.co/datasets/TrevTron/rtl-ml-dataset",
+     "pip install huggingface-hub"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

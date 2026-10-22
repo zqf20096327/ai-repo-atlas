@@ -1,0 +1,173 @@
+{
+ "fn": "xyskywalker/Ripple",
+ "sha": "28761e349ddb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 CAS 理论的人类社会行为预测引擎，产出传播/PMF 预测",
+  "review": "以复杂自适应系统（CAS）理论为底座的多智能体社会行为预测引擎：用『星海合议』四体架构（全视者/星/海/合议庭）+ 5-Phase Wave 循环模拟信号在智能体网络中的传播，已实现社交媒体传播预测（支持小红书/抖音/微博等 7 平台）与 PMF 验证两个场景，输出含置信度的预测、动力学诊断与优化建议。面向内容创作、产品市场分析等应用场景。群体模拟替代逐人模拟以压缩 LLM 调用量，决策交由 LLM（Anthropic/OpenAI 兼容协议/AWS Bedrock/火山引擎等）。提供 Docker 服务（HTTP+SSE）、一键脚本与 ripple-cli。",
+  "highlights": [
+   "四体智能体架构（全视者/星/海/合议庭）+ 5-Phase Wave 执行循环",
+   "合议庭多专家结构化辩论与反乐观偏误五层防线",
+   "群体模拟将 LLM 调用压缩约 3 个数量级（相对 OASIS）",
+   "Skill 包以纯自然语言画像零代码扩展领域/平台/渠道"
+  ],
+  "use_cases": [
+   "发布前预测一条内容在小红书/抖音等平台的传播表现",
+   "输入产品方案模拟消费者群体反应，获得 PMF 评分与风险诊断",
+   "为新的平台或行业垂类注入领域画像做行为模拟"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "社会模拟",
+   "多智能体",
+   "传播预测",
+   "PMF验证",
+   "LLM应用"
+  ],
+  "domain": "社会行为模拟/预测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "bedrock",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "国产大模型推荐（Qwen/Doubao/DeepSeek）",
+   "火山引擎/阿里百炼配置示例",
+   "小红书/抖音/微博/B站/知乎/微信等国内平台画像"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L57: - **📱 社交媒体内容传播预测**：输入一条计划发布的内容，系统通过多智能体模拟，输出含置信度的传播预测、系统动力学诊断和可操作的优化建议",
+   "L58: - **🎯 PMF（产品市场契合度）验证**：输入产品方案与目标市场，系统模拟消费者群体的真实反应，输出多维度 PMF 评分、风险诊断和改进策略"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     153,
+     315
+    ],
+    "note": "星智能体的推荐模型之一",
+    "quotes": [
+     "|**🌟 星**|KOL / 意见领袖|个体|高质量（Doubao-Seed-2.0-Lite / DeepSeek-V3.2）|个性化内容决策、影响力传播|",
+     "|⚡ **高质量**|星智能体（Star）|Doubao-Seed-2.0-Lite / DeepSeek-V3.2|兼顾质量与速度，负责个性化决策|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "compat",
+    "lines": [
+     305
+    ],
+    "note": "LLM 配置声明支持 AWS Bedrock",
+    "quotes": [
+     "# 支持 Anthropic / OpenAI（含兼容协议）/ AWS Bedrock / 火山引擎等"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     305,
+     318
+    ],
+    "note": "LLM 配置声明支持 Anthropic Claude 系列",
+    "quotes": [
+     "# 支持 Anthropic / OpenAI（含兼容协议）/ AWS Bedrock / 火山引擎等",
+     "> 💡 以上均为国产大模型推荐。同样支持 Anthropic（Claude Opus/Sonnet/Haiku）、OpenAI（GPT-5.2）等海外模型，详见 `llm_config.example.yaml`。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     214,
+     244
+    ],
+    "quotes": [
+     "docker run -d --name ripple-service \\",
+     "  xyplusxy/ripple:v0.2.6"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     293
+    ],
+    "quotes": [
+     "git clone https://github.com/xyskywalker/Ripple.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     152,
+     314
+    ],
+    "note": "推荐的三级模型之一，非竞品关系",
+    "quotes": [
+     "|**👁️ 全视者**|系统本身|全局|高智能（Qwen3.5-Plus / Doubao-Seed-2.0-Pro）|初始化、传播裁决、观测、合议庭主持、最终合成|",
+     "|🧠 **高智能**|全视者 + 合议庭|Qwen3.5-Plus / Doubao-Seed-2.0-Pro|需要深度推理与全局决策能力|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

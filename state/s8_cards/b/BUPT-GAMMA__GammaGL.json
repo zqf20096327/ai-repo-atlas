@@ -1,0 +1,130 @@
+{
+ "fn": "BUPT-GAMMA/GammaGL",
+ "sha": "ae00bc007aa6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多后端图神经网络库：一套代码跑四种深度学习框架",
+  "review": "基于 TensorLayerX 的多后端图学习库，支持 TensorFlow、PyTorch、PaddlePaddle、MindSpore 作为后端，同一份示例代码可在不同后端与硬件（Nvidia GPU、华为昇腾）上运行。API 仿照 PyTorch Geometric 的张量中心设计，收录约 70 个 GNN 模型，提供数据结构、消息传递与采样模块，支持 GPU 采样与 neo4j 等图数据库。可选 llm/gfm 扩展安装 GraphGPT、LLaGA 等 LLM/图基础模型相关功能。要求 Python≥3.9、Linux，pip 安装，SIGIR 2023 资源论文。",
+  "highlights": [
+   "TensorFlow/PyTorch/Paddle/MindSpore 四后端，示例代码同一份",
+   "约 70 个 GNN 模型（GCN、GAT、GraphSAGE、Graphormer 等）",
+   "支持 Nvidia GPU 与华为昇腾硬件",
+   "可选 llm-gfm 扩展（GraphGPT、LLaGA、LLMRec 等）"
+  ],
+  "use_cases": [
+   "在同一代码库上切换深度学习框架训练 GNN",
+   "在昇腾等非 Nvidia 硬件上运行图神经网络",
+   "使用现成 GNN 模型做引文图等节点分类任务",
+   "自定义消息传递层实现新图神经网络"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "SIGIR 2023 resource paper track（GammaGL: A Multi-Backend Library for Graph Neural Networks）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图神经网络",
+   "多后端框架",
+   "GNN模型库",
+   "国产框架适配"
+  ],
+  "domain": "图机器学习/库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 wiki 开发教程",
+   "启智社区镜像与获奖信息",
+   "中国电子学会科技进步一等奖（北邮牵头项目）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: GammaGL is a multi-backend graph learning library based on TensorLayerX, which supports TensorFlow, PyTorch, PaddlePaddl",
+   "L26: GammaGL supports multiple deep learning backends, such as TensorFlow, PyTorch, Paddle and MindSpore. Different from DGL,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     115,
+     116
+    ],
+    "quotes": [
+     "pip install torch torchvision torchaudio",
+     "pip install gammagl"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     187
+    ],
+    "quotes": [
+     "> `git clone --recursive https://git.openi.org.cn/GAMMALab/GammaGL.git`"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     119,
+     150
+    ],
+    "note": "安装模式选项，非强制硬件要求",
+    "quotes": [
+     "For CPU-only PyTorch:",
+     "`GAMMAGL_WITH_CUDA` accepts `0`, `1`, or `auto`. CPU-only installs should use"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,211 @@
+{
+ "fn": "neopen/story-shot-agent",
+ "sha": "ff5113a39e62",
+ "source": "readme",
+ "identity": {
+  "one_liner": "剧本转分镜智能体：任意剧本拆分为视频模型提示词",
+  "review": "基于 LangChain+LangGraph 多智能体协作的剧本分镜系统，面向 AI 视频创作者与开发者：解析电影、短剧、动漫、小说等任意格式剧本，智能分段并生成 Sora/Veo/Runway/可灵可用的中英双语镜头级提示词与负面词、音频提示词。通过三级记忆、RAG 与 Chroma 向量检索维持角色/场景/剧情跨片段一致。提供 Python SDK、MCP、REST API、A2A 等集成方式，支持 OpenAI/Qwen/DeepSeek/Ollama 等 LLM。需外部 LLM API，当前针对中文剧本优化。",
+  "highlights": [
+   "任意格式剧本拆分为镜头级 text-to-video 提示词",
+   "三级记忆+RAG+Chroma 向量检索维持跨片段一致性",
+   "多模型可插拔：OpenAI/Qwen/DeepSeek/Ollama",
+   "提供 Python SDK、MCP、REST API、A2A、LangGraph 节点多种接入方式"
+  ],
+  "use_cases": [
+   "把小说或电影剧本自动转为 Sora/Veo 可用的分镜提示词",
+   "在 AI 视频生产流水线中作为分镜 Agent 节点接入（MCP/A2A/REST）",
+   "长剧本分段生成并保持角色与场景一致性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://shot.helpenx.com/docs/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生视频提示词",
+   "剧本分镜",
+   "多智能体",
+   "AI影视创作",
+   "RAG一致性"
+  ],
+  "domain": "AI 视频创作工具/LLM Agent",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama",
+   "openai"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "针对中文剧本深度优化",
+   "国内镜像源建议",
+   "可灵（Kling）模型支持"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12:  基于 LangChain + LangGraph 多智能体协作的剧本转分镜系统，确保叙事连续性与镜头级提示词生成。",
+   "L33: > 🚀 **一键转换**：支持任意格式剧本（电影、短剧、动漫、小说等） → 镜头级描述 → **Sora / Veo / Runway / 可灵 Ready Prompt**",
+   "L35: > 🔌 **多端生态支持**：开箱即用 **Python SDK、MCP 服务、Function Calling、REST API 及 LangGraph 节点**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     45,
+     55
+    ],
+    "quotes": [
+     "|多模型适配复杂|一套代码，支持 OpenAI/Qwen/DeepSeek/Ollama 等主流 LLM|",
+     "|多模型兼容|支持 OpenAI、Qwen、DeepSeek、Ollama 等主流 LLM 提供商，可插拔切换|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     45,
+     55,
+     239
+    ],
+    "quotes": [
+     "|多模型适配复杂|一套代码，支持 OpenAI/Qwen/DeepSeek/Ollama 等主流 LLM|",
+     "|多模型兼容|支持 OpenAI、Qwen、DeepSeek、Ollama 等主流 LLM 提供商，可插拔切换|",
+     "感谢 LangChain、LangGraph、Chroma、Ollama 及开源社区的技术支持。如本项目对您的工作有帮助，欢迎 Star 关注与反馈。"
+    ]
+   },
+   {
+    "term": "openai",
+    "rel": "compat",
+    "lines": [
+     45,
+     55,
+     165
+    ],
+    "quotes": [
+     "|多模型适配复杂|一套代码，支持 OpenAI/Qwen/DeepSeek/Ollama 等主流 LLM|",
+     "|多模型兼容|支持 OpenAI、Qwen、DeepSeek、Ollama 等主流 LLM 提供商，可插拔切换|",
+     "修改 `.env` 文件，填入你的 OpenAI API Key 及相关模型配置：`vim .env`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     20,
+     36,
+     80
+    ],
+    "quotes": [
+     " PyPI",
+     "> ⚡ **5 分钟上手**：`pip install penshot` + 3 行代码集成。或者 `docker pull neotems/penshot` 启动服务",
+     "pip install penshot"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     36,
+     157,
+     169,
+     171
+    ],
+    "quotes": [
+     "> ⚡ **5 分钟上手**：`pip install penshot` + 3 行代码集成。或者 `docker pull neotems/penshot` 启动服务",
+     "# Docker Compose 配置文件",
+     "`docker compose up -d`",
+     "### `docker run` 命令启动"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     12,
+     126,
+     239
+    ],
+    "note": "所基于的框架与致谢对象，非替代/竞品",
+    "quotes": [
+     " 基于 LangChain + LangGraph 多智能体协作的剧本转分镜系统，确保叙事连续性与镜头级提示词生成。",
+     "支持作为独立 Node 接入 LangChain/LangGraph 工作流，实现端到端自动化流水线。 完整示例：workflow/01_langgraph_integration.py",
+     "感谢 LangChain、LangGraph、Chroma、Ollama 及开源社区的技术支持。如本项目对您的工作有帮助，欢迎 Star 关注与反馈。"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "生成提示词的目标视频模型之一",
+    "quotes": [
+     "> 🚀 **一键转换**：支持任意格式剧本（电影、短剧、动漫、小说等） → 镜头级描述 → **Sora / Veo / Runway / 可灵 Ready Prompt**"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     45,
+     55
+    ],
+    "note": "可插拔的 LLM 后端之一",
+    "quotes": [
+     "|多模型适配复杂|一套代码，支持 OpenAI/Qwen/DeepSeek/Ollama 等主流 LLM|",
+     "|多模型兼容|支持 OpenAI、Qwen、DeepSeek、Ollama 等主流 LLM 提供商，可插拔切换|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "fn": "SsisyphusTao/Object-Detection-Knowledge-Distillation",
+ "sha": "ef23fdd508bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 PyTorch 的目标检测知识蒸馏框架（SSD/YOLOv5）",
+  "review": "以 PyTorch 实现的知识蒸馏框架，面向目标检测模型压缩：主分支包含 SSD-lite 蒸馏实现（复现 Chen, G. et al. 2017 论文方法），SSD 与 YOLOv5 蒸馏需查看其他分支。通过 setup.py 安装后提供 odkd-train 训练命令，按 YAML 配置文件运行。作者声明主分支功能不完整，评估模块、LOG 模块、COCO 数据集支持与 YOLOv5 蒸馏列入 TODO。README 提供面向初学者的指导。",
+  "highlights": [
+   "SSD-lite 蒸馏实现（复现 Chen, G. et al. 2017）",
+   "提供 odkd-train 命令行训练工具，按 YAML 配置运行",
+   "SSD 与 YOLOv5 蒸馏分布在其他分支"
+  ],
+  "use_cases": [
+   "研究目标检测模型的知识蒸馏方法",
+   "复现 SSD 知识蒸馏论文并进行模型压缩实验",
+   "初学者学习知识蒸馏代码实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    8
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识蒸馏",
+   "目标检测",
+   "模型压缩",
+   "PyTorch"
+  ],
+  "domain": "计算机视觉/模型压缩",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: 1. The first edition is the refactor of branch mbv2-lite, which is an implementation of Chen, G. et al. (2017) ‘Learning",
+   "L26: $ python setup.py install --user"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

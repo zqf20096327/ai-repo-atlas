@@ -1,0 +1,285 @@
+{
+ "fn": "metadist/synaplan",
+ "sha": "77607cc9ebfd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源自托管 AI 平台：多模型聊天、RAG、站点组件与成本展示",
+  "review": "PHP/Symfony 实现的自托管 AI 平台（Apache-2.0）：接入 OpenAI、Anthropic、Gemini、Groq、Mistral、xAI 及本地 Ollama 等多家模型供应商，在 UI 内按任务切换模型；支持将上传文档做语义搜索（RAG）、生成图像/视频/音频、通过代码片段嵌入网站聊天组件、WhatsApp/邮件/Outlook 等多渠道接入，并提供 MCP server/client 与 Anthropic 兼容端点。每条回答显示花费成本。部署以 Docker Compose 为主，完整栈约 4-5.3 GB，另有精简版与离线/内网部署路径。",
+  "highlights": [
+   "每条聊天回答展示其模型调用成本",
+   "将请求拆为任务图（提取→摘要→生成→回复），按任务选模型",
+   "RAG 文档语义搜索与跨网站/WhatsApp/邮件的多渠道助手",
+   "插件、REST API、MCP server/client 与 Anthropic 兼容端点扩展"
+  ],
+  "use_cases": [
+   "团队自托管统一入口，接入多家云模型与本地 Ollama",
+   "把内部文档变成知识库做带出处的问答",
+   "在自己网站上嵌入带人工接管的聊天组件",
+   "在内网/离线环境运行 AI 助手并追踪回答成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自托管AI平台",
+   "多模型聊天",
+   "RAG知识库",
+   "聊天组件",
+   "成本追踪"
+  ],
+  "domain": "LLM 应用平台/自托管",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Try it hosted** or **run it yourself in three minutes** — open-source, self-hosted AI platform (PHP/Symfony): chat wit",
+   "L51: - **Hundreds of models, one place.** OpenAI, Anthropic, Google Gemini, Groq, Mistral, xAI, HuggingFace, sovereign EU pro",
+   "L52: - **The planner spends the expensive model only where it matters.** A request becomes a small task graph (extract → summ"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     31,
+     111
+    ],
+    "quotes": [
+     "Open **<http://localhost:5173>**. Log in as `admin@synaplan.com` / `admin123` and type your first message: it starts the",
+     "2. Type your first chat message: it starts the Synaplan Demo (14 days, 40 messages a day via `web.synaplan.com`). Or pas"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     31,
+     51
+    ],
+    "note": "可接入本地 Ollama 模型，作为可选运行方式",
+    "quotes": [
+     "Open **<http://localhost:5173>**. Log in as `admin@synaplan.com` / `admin123` and type your first message: it starts the",
+     "- **Hundreds of models, one place.** OpenAI, Anthropic, Google Gemini, Groq, Mistral, xAI, HuggingFace, sovereign EU pro"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     51,
+     55
+    ],
+    "quotes": [
+     "- **Hundreds of models, one place.** OpenAI, Anthropic, Google Gemini, Groq, Mistral, xAI, HuggingFace, sovereign EU pro",
+     "- **Extend it without a fork.** Plugins, an OpenAPI REST API, an MCP server and client, and an Anthropic-compatible endp"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     313
+    ],
+    "quotes": [
+     "|xAI|`XAI_API_KEY`|Grok 4.7 / 4.6 / 4.5 (+ vision, 500K context), Grok Imagine image + video (incl. Pro / 1.5 tiers)|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     317
+    ],
+    "quotes": [
+     "|A2Agent 🇨🇳|`A2AGENT_API_KEY`|Qwen3.8 MAX / Flash (+ vision), DeepSeek V4 Pro / Flash, MiniMax M3 — Chinese frontier mod"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     26,
+     28
+    ],
+    "quotes": [
+     "git clone https://github.com/metadist/synaplan.git",
+     "make up"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     123,
+     108
+    ],
+    "quotes": [
+     "docker compose up -d",
+     "`make up` answers on `:5173` before the rest of the images finish pulling. `docker compose up -d` starts the same stack;"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     134
+    ],
+    "note": "SYNAPLAN_VERSION 指向发布镜像 tag，非独立安装包",
+    "quotes": [
+     "- `SYNAPLAN_VERSION` picks a release tag from the releases page. Empty means the release this file was published with. N"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "mention",
+    "lines": [
+     220
+    ],
+    "quotes": [
+     "|**synaplan-charts**|Helm charts for Kubernetes — for partners and enterprises running K8s clusters|"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8 GB RAM",
+    "rel": "mention",
+    "lines": [
+     232
+    ],
+    "quotes": [
+     "- **8 GB RAM** minimum (16 GB recommended once you add the `local-ai` profile)"
+    ]
+   },
+   {
+    "term": "2 GB RAM",
+    "rel": "mention",
+    "lines": [
+     339
+    ],
+    "quotes": [
+     "|**Collabora CODE** (`collabora`)|Office files: thumbnails, “Download as PDF”, inline preview, “Combine as PDF” (~2 GB R"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "对比表中列出，非自称替代",
+    "quotes": [
+     "||Synaplan|Open WebUI|LibreChat|Dify|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "quotes": [
+     "- **Hundreds of models, one place.** OpenAI, Anthropic, Google Gemini, Groq, Mistral, xAI, HuggingFace, sovereign EU pro"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     55,
+     194
+    ],
+    "note": "提供 Anthropic 兼容端点供其使用",
+    "quotes": [
+     "- **Extend it without a fork.** Plugins, an OpenAPI REST API, an MCP server and client, and an Anthropic-compatible endp",
+     "|**MCP & Claude Code**|Your RAG and memories as MCP tools; Anthropic-compatible `POST /v1/messages` endpoint|MCP guide ·"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     298
+    ],
+    "quotes": [
+     "- **MCP Server** *(early access)* — Connect AI clients (Claude, Cursor, …) over the Model Context Protocol; your RAG and"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     311
+    ],
+    "quotes": [
+     "|Groq|`GROQ_API_KEY`|Qwen 3.6 27B (chat + vision), GPT-OSS 20B/120B, Whisper Large v3|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     318
+    ],
+    "quotes": [
+     "|HuggingFace|`HUGGINGFACE_API_KEY`|Kimi K3 / K2.5 / K2.6 / K2.7 Code (chat + vision)|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

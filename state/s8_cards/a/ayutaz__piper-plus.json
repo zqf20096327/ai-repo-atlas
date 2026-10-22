@@ -1,0 +1,194 @@
+{
+ "fn": "ayutaz/piper-plus",
+ "sha": "ee4e7fb827da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多语言神经 TTS 系统：为开发者在 8 种语言运行时中生成语音",
+  "review": "基于 VITS 架构的神经文本转语音系统，是 rhasspy/piper 的 MIT 许可分支。支持 8 语言 G2P 音素化（JA/EN/ZH/KO/ES/FR/PT/SV），现役训练模型覆盖 6 语言，含 OpenJTalk 日语集成与韵律特征。以 6 种运行时（Python/Rust/C#/Go/WASM/C++）交付：pip/cargo/npm/dotnet tool 安装、预编译二进制、Docker 镜像、C API/iOS SPM 库。支持流式合成、音素时间输出、SSML、多 GPU 训练。限制：voice cloning 的 --reference-audio 在 C++ 未实现，zs-v1 模型标注为实验版、质量未承认定版。",
+  "highlights": [
+   "8 语言 G2P 音素化，现役模型 6 语言、571 说话者",
+   "6 种运行时（Python/Rust/C#/Go/WASM/C++）提供 CLI/库/HTTP API",
+   "流式合成、音素时间输出（JSON/TSV/SRT）、SSML 支持",
+   "预编译二进制覆盖 Windows/macOS/Linux x64/ARM64，Docker 镜像 5 种"
+  ],
+  "use_cases": [
+   "在本地或浏览器（WASM）离线生成多语言语音",
+   "通过 C API/SPM/FFI 将 TTS 嵌入移动端或游戏应用",
+   "训练或微调自己的 VITS 多说话者模型",
+   "为应用提供 HTTP API 形式的语音合成服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    304,
+    306
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TTS",
+   "语音合成",
+   "多语言",
+   "嵌入式推理",
+   "VITS/ONNX"
+  ],
+  "domain": "语音合成/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文等多语言版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: 高速・高品質なニューラルテキスト音声合成 (TTS) システム。VITS アーキテクチャを採用し、8言語のG2P/音素化と、現在6言語の学習済みモデルによるマルチスピーカー音声合成に対応。Piper のフォークで、日本語対応・音質向上・学習",
+   "L94: - **PyPI** — `pip install piper-plus` で簡単インストール、8言語G2P/音素化 (現行の学習済みモデルは6言語)、**音素タイミング出力 (JSON/TSV/SRT)**、ストリーミング、HTTP AP"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [
+     296
+    ],
+    "note": "误命中：CLAUDE.md 是文件名，非 Anthropic 接入",
+    "quotes": [
+     "実運用向けの 6 言語事前学習・つくよみちゃんファインチューニングのコマンドテンプレートは CLAUDE.md にあります。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     236,
+     244
+    ],
+    "quotes": [
+     "pip install piper-plus",
+     "pip install piper-plus"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     262
+    ],
+    "quotes": [
+     "cargo install piper-plus-cli"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     119,
+     127,
+     136
+    ],
+    "quotes": [
+     "Invoke-WebRequest -Uri \"https://github.com/ayutaz/piper-plus/releases/latest/download/piper-plus-cpp-windows-x64.zip\" -O",
+     "curl -L -o piper-plus-cpp.tar.gz https://github.com/ayutaz/piper-plus/releases/latest/download/piper-plus-cpp-macos-arm6",
+     "curl -L -o piper-plus-cpp.tar.gz https://github.com/ayutaz/piper-plus/releases/latest/download/piper-plus-cpp-linux-x64."
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     209,
+     210,
+     211
+    ],
+    "quotes": [
+     "docker pull ghcr.io/ayutaz/piper-plus/python-inference:dev",
+     "docker pull ghcr.io/ayutaz/piper-plus/python-train:dev",
+     "docker pull ghcr.io/ayutaz/piper-plus/webui:dev"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     250
+    ],
+    "quotes": [
+     "npm install piper-plus onnxruntime-web"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "mention",
+    "lines": [
+     97
+    ],
+    "note": "Go CLI 提供 HTTP API 服务器与 Docker 镜像，README 未给出 go install 命令",
+    "quotes": [
+     "- **Go CLI** — HTTP APIサーバー、セッションプーリング、Docker対応、シングルバイナリ、**音素タイミング出力 (JSON/TSV/SRT)**"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     302
+    ],
+    "note": "模型托管与 Demo 平台",
+    "quotes": [
+     "主要モデル: `tsukuyomi` (日本語), `zs-v1` (6 言語 Zero-Shot/FT 実験ベース), `bilingual-ja-en-v4` (日英 2 言語) — 詳細は HuggingFace の 固定公開 zs-"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    20
+   ],
+   "note": "被提及归档的是上游 rhasspy/piper，非本产品"
+  }
+ }
+}

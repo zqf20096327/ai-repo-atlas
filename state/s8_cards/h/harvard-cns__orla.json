@@ -1,0 +1,110 @@
+{
+ "fn": "harvard-cns/orla",
+ "sha": "74f9d56477fb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 agentic 工作流的运行时自适应执行层",
+  "review": "Go 编写的 LLM 调用执行层：开发者将 agent 指向 Orla 的 OpenAI 兼容端点，并为每次调用标注 stage（用途标签）。Orla 按各 stage 当前策略服务调用、记录执行结果，外部优化器读取记录并修订策略（如更换后端、先廉价模型失败再升级），以生产数据在成本与准确率上调优，无需改动 agent 代码。三参与方：agent（发出调用并评分）、Orla（执行层与共享记录）、优化器（修订策略）。由哈佛 SEAS Minlan Yu 实验室维护，提供 go install 安装与快速上手文档，可引用其 demo 论文。",
+  "highlights": [
+   "OpenAI 兼容端点，stage 标签式调用路由",
+   "记录执行数据供外部优化器修订各 stage 策略",
+   "支持从后端替换到 cheap-first 逐级升级的策略形式",
+   "agent 代码无需改动即可接入"
+  ],
+  "use_cases": [
+   "多 LLM 调用的 agentic 应用做按 stage 的策略调优",
+   "在生产数据上以成本/准确率为目标调整模型选择",
+   "统一记录与审计 agent 各阶段的 LLM 调用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM基础设施",
+   "agent编排",
+   "推理路由/网关",
+   "成本优化",
+   "Go"
+  ],
+  "domain": "LLM 基础设施/agent 执行层",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Orla is a runtime-adaptive execution layer for agentic workflows. Modern agentic applications combine many LLM calls, to",
+   "L10: You point your agent at Orla as an OpenAI-compatible endpoint and tag each call with a stage, what the call is for rathe"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     25
+    ],
+    "quotes": [
+     "go install github.com/harvard-cns/orla/cmd/orla@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     31
+    ],
+    "quotes": [
+     "git clone https://github.com/harvard-cns/orla"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

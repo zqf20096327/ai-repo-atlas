@@ -1,0 +1,115 @@
+{
+ "fn": "yaoliliu/FreeFuse",
+ "sha": "28f36d386549",
+ "source": "readme",
+ "identity": {
+  "one_liner": "免训练多主体 LoRA 融合文生图框架：测试时自适应 token 级路由",
+  "review": "论文研究代码（TMLR26 投稿）：在流匹配文生图模型的推理阶段融合多个主体 LoRA，实现多主体组合生成。核心机制 FreeFuseAttn 利用流匹配模型自身的语义对齐，在去噪早期时间步将主体特定 token 动态匹配到对应空间区域，无需额外训练、模型修改、外部分割器或用户定义遮罩，用户只需提供主体激活词。支持 Flux.dev、SDXL、Z-Image-turbo、FLUX.2-klein、Krea2 等模型，可经 ComfyUI 节点或 diffusers 源码运行，配合 ControlNet/IPAdapter/Redux 使用，支持量化以降低显存占用。",
+  "highlights": [
+   "免训练推理阶段多主体 LoRA 融合，无需遮罩或外部分割器",
+   "FreeFuseAttn 自适应 token 级路由机制",
+   "支持 ComfyUI 与 diffusers 双工作流",
+   "兼容 ControlNet、IPAdapter、Redux 及多种底模（Flux/SDXL/Z-Image/FLUX.2-klein/Krea2）"
+  ],
+  "use_cases": [
+   "文生图时将多个主体 LoRA 融合到同一画面",
+   "在 ComfyUI 工作流中做多主体组合生成",
+   "搭配 ControlNet/IPAdapter 控制构图与参考图像"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生图",
+   "LoRA融合",
+   "多主体生成",
+   "研究代码",
+   "ComfyUI插件"
+  ],
+  "domain": "图像生成/扩散模型研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L24: This paper proposes **FreeFuse**, a training-free framework for multi-subject text-to-image generation through automatic",
+   "L44:  Overview of FreeFuse architecture. FreeFuseAttn dynamically routes subject-specific LoRAs to their corresponding spatia"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     65
+    ],
+    "quotes": [
+     "git clone https://github.com/yaoliliu/FreeFuse.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "pip install comfy-cli 为 ComfyUI 安装路径的依赖工具，非本产品发布包",
+    "quotes": [
+     "pip install comfy-cli"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

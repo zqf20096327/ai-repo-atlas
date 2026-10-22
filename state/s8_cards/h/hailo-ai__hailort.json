@@ -1,0 +1,93 @@
+{
+ "fn": "hailo-ai/hailort",
+ "sha": "00cfc9167204",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Hailo 边缘 AI 加速芯片的推理运行时库",
+  "review": "HaloRT 是运行在主机处理器上的推理运行时库，通过用户空间 C/C++ API 与 Hailo AI 加速设备通信，用于运行推理、控制设备、采集统计与设备事件。组件含 HailoRT 库、CLI、PCIe 驱动（内含 Hailo-8 固件）、Python API（pyHailoRT）与 GStreamer 元素（HailoNet）。支持 Linux 和 Windows，可从源码编译以适配 x86 和 ARM 处理器；master 分支仅支持 Hailo-10/15 系列，Hailo-8 系列需用 hailo8 分支。",
+  "highlights": [
+   "提供 C/C++ 用户空间库与 CLI，运行推理并采集设备统计/事件",
+   "包含 PCIe 驱动与 Hailo-8 固件管理设备启动与通信",
+   "pyHailoRT Python API 与 GStreamer 元素（HailoNet）",
+   "支持 Linux/Windows，可编译集成到 x86 与 ARM 处理器"
+  ],
+  "use_cases": [
+   "在 Hailo 边缘加速设备上部署和运行深度学习推理",
+   "通过 CLI 或 Python API 控制设备与采集运行数据",
+   "将 Hailo 推理接入 GStreamer 视频流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理运行时",
+   "边缘计算",
+   "硬件加速",
+   "计算机视觉"
+  ],
+  "domain": "边缘 AI 硬件/推理框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: HailoRT is a lightweight, production-grade runtime library that runs on the host processor and provides a robust",
+   "L10: - HailoRT CLI - a command line application used to control the Hailo device, run inferences, collect statistics and devi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    29
+   ],
+   "note": "声明使用 2 个许可证",
+   "quotes": [
+    "HailoRT uses 2 licenses:"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "fn": "fancyboi999/Loomic",
+ "sha": "72f521b2e90a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 画布设计 Agent：对话生成图片与视频",
+  "review": "面向创作者的开源 AI 创作工作台：在基于 Excalidraw 的无限画布上与 Agent 对话，由 LangGraph 驱动的 Agent 调用 Google Gemini / Vertex AI / OpenAI / Replicate 等十余个模型直接生成图片与视频，素材自动落在画布上，支持多轮对话迭代、Brand Kit 品牌规范遵循、Markdown 技能扩展、积分计费与 LemonSqueezy 订阅。技术栈为 Next.js + Fastify + Supabase + Turborepo monorepo，需自备 Supabase 项目和至少一个 AI API key，从源码部署运行，README 自述为 Lovart / CapCut Video Studio / Canva AI 的开源替代。",
+  "highlights": [
+   "对话式无限画布：Agent 理解画布上下文，生成图片/视频并自动排版",
+   "接入 15+ 图片模型（Imagen 4、DALL-E 3、Flux Kontext 等）与多家视频模型（Veo 3.1、Kling、Sora 2 等）",
+   "Brand Kit 品牌色/字体/Logo 设定，AI 生成自动遵循",
+   "内置积分系统与 LemonSqueezy 订阅集成，自部署可用种子脚本免接支付"
+  ],
+  "use_cases": [
+   "在无限画布上通过对话完成从构思、故事板到导出的设计流程",
+   "自部署一个数据自主可控的 AI 图片/视频生成工作台",
+   "团队按品牌规范批量生成设计素材"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 设计",
+   "无限画布",
+   "图片/视频生成",
+   "Agent 工作台",
+   "可自部署 SaaS"
+  ],
+  "domain": "创意设计/AIGC 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 中英混排（中文段落 L25-L31、L165-L179、L348）",
+   "Metaso/MiniMax H3 国内视频模型接入及人民币价格展示"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L27: Loomic 做的是同一件事，但完全开源。你在无限画布上跟 AI 对话，它直接生成图片、视频，摆好位置，调好样式。不需要时间轴，不需要模板，不需要学 prompt 工程。说\"把左边那张换成暖色调\"，AI 就懂了。",
+   "L29: 从构思、角色设定、故事板、场景生成、细节打磨到导出——整个创作流程在一个画布上完成。底层是 LangGraph 驱动的 Agent，接了 Google Gemini / Vertex AI / OpenAI / Replicate 十几个模"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     124,
+     126
+    ],
+    "quotes": [
+     "git clone https://github.com/fancyboi999/Loomic.git",
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     116
+    ],
+    "note": "经 npm 全局安装 pnpm，属前置依赖",
+    "quotes": [
+     "- **pnpm** >= 10 (`npm install -g pnpm`)"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "note": "Supabase CLI 前置依赖安装方式",
+    "quotes": [
+     "- **Supabase CLI** (`brew install supabase/tap/supabase`)"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     229
+    ],
+    "quotes": [
+     "The `Dockerfile` at `apps/server/Dockerfile` handles the multi-stage build."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     88,
+     99
+    ],
+    "note": "被使用的 Agent 编排框架，非替代/竞品对象",
+    "quotes": [
+     "|**AI**|LangChain + LangGraph|Agent orchestration, tool calling|",
+     "|AI Framework|LangChain 1.2, LangGraph 1.2|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

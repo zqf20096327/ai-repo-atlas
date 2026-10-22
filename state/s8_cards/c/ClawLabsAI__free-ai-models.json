@@ -1,0 +1,142 @@
+{
+ "fn": "ClawLabsAI/free-ai-models",
+ "sha": "b1dbb535ebfe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "每日更新的免费 LLM API 模型清单，附开放质量评分与数据政策",
+  "review": "由 ClawLabsAI 维护的免费 AI 模型聚合清单：GitHub Actions 每日重新生成排名，评分基于 Artificial Analysis 基准指数与 LM Arena 评级（纯函数 scoring/score.js，可复算），并列出每个模型免费端点的实际服务商、是否会用你的提示词训练及保留时长。数据以 data/models.json（稳定 URL）与每日快照形式提供，模型 ID 为 OpenRouter ID，可直接用于 OpenAI SDK、LiteLLM、Cline 等工具。维护者另提供基于同一排名的托管路由 ZeroLimitAI。",
+  "highlights": [
+   "每日自动重建排名，评分方法为纯函数且每日快照可复算",
+   "标注每个免费端点的服务商、是否训练用户提示词与保留时长",
+   "data/models.json 经稳定 URL 提供，兼容 OpenAI SDK / LiteLLM / Cline 等",
+   "附带各免费服务商的 Base URL、免费额度与是否需 Key 的对照表"
+  ],
+  "use_cases": [
+   "查找当前可用的免费 LLM API 并比较质量评分",
+   "构建工具时筛选支持函数调用且不训练用户数据的免费模型",
+   "通过 JSON 数据源程序化获取每日免费模型列表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "免费API",
+   "LLM目录",
+   "评分/排名",
+   "数据集"
+  ],
+  "domain": "AI 模型目录/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **A daily-updated list of every free AI model (free LLM API) available right now,",
+   "L26: - **It is data, not just a page.** `data/models.json` is",
+   "L27:  regenerated daily with every score and every input the score was computed"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "清单条目中的模型提供方，非本产品接入对象",
+    "quotes": [
+     "|12|**Cohere: North Mini Code**|23|benchmarks|✅ no · kept 30 days|256K|64K|✓|💬 text|✅ up|link|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     73,
+     87,
+     96
+    ],
+    "note": "数据来源与模型 ID 体系，本产品本身不调用 API",
+    "quotes": [
+     " endpoint on OpenRouter*, from",
+     "on OpenRouter every `:free` id shares 20 requests/minute and 50 requests/day",
+     "- The column describes the **free endpoint on OpenRouter**. The same model"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     220
+    ],
+    "note": "仅列出其免费端点信息",
+    "quotes": [
+     "|Groq|`https://api.groq.com/openai/v1`|Free plan, per-model limits — published table|Yes, no card|—|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     201,
+     202
+    ],
+    "note": "git clone + npm ci 用于复算/重建排名，非运行时安装",
+    "quotes": [
+     "git clone https://github.com/ClawLabsAI/free-ai-models && cd free-ai-models",
+     "npm ci"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

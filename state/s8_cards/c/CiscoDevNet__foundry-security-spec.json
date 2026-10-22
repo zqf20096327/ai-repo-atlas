@@ -1,0 +1,129 @@
+{
+ "fn": "CiscoDevNet/foundry-security-spec",
+ "sha": "f10169aa86e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "agentic AI 安全评估系统的开放规格书（Cisco，无代码）",
+  "review": "Cisco 高级安全倡议组将内部多轮迭代的 agentic 安全评估系统设计提炼为组织中立的开源规格：含 8 个核心 agent 角色、5 个扩展角色、finding 生命周期、协调与治理模型、约 130 条功能需求及 11 条不可违背原则，约三打组织相关决策点标记为 [NEEDS CLARIFICATION] 留给使用者。仓库刻意不含代码，交付物即规格本身；通过 spec-kit 工作流（Claude Code 或兼容 coding agent）完成澄清、规格化与实施。检测规则格式配套采用 Cisco 捐给 CoSAI 的 CodeGuard，可用其他格式替代。面向安全团队、平台/工具团队与研究者，非开箱即用扫描器。",
+  "highlights": [
+   "规格含 8 核心 + 5 扩展 agent 角色与约 130 条功能需求，附设计理由",
+   "11 条不可违背原则，各对应一次生产环境故障",
+   "detection-to-prevention 飞轮：探索 agent 发现规则缺口→规则入库→下轮扫描全类命中",
+   "刻意不含代码，需用户自带 frontier LLM 在自有技术栈上实现"
+  ],
+  "use_cases": [
+   "安全团队基于规格在自有基础设施上构建可信任的 agentic 安全评估系统",
+   "平台/工具团队从已验证的系统形态出发搭建内部安全评估能力",
+   "研究者参考基于生产运营而非基准测试的 AI 辅助漏洞发现架构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agentic安全评估",
+   "开放规格",
+   "AI安全",
+   "规格驱动开发",
+   "漏洞发现"
+  ],
+  "domain": "AI 安全/规格",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L22: There is **no code** in this repository, and that is intentional. The specification is the deliverable.",
+   "L9: **Foundry distills that experience into a single, organization-neutral specification.** It is the design that, across th"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     61
+    ],
+    "note": "Claude Code 作为运行 spec-kit 工作流的 coding agent 选项之一（或兼容者）",
+    "quotes": [
+     "- A coding agent that supports the spec-kit workflow (Claude Code or compatible)."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [
+     55
+    ],
+    "note": "README 明确声明本产品不是可 pip install 的工具，仓库无代码",
+    "quotes": [
+     "This is **not** a turnkey scanner. If you want something you can `pip install` and point at a repo today, this is not th"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     61
+    ],
+    "note": "前置工具选项，非替代/竞品对象",
+    "quotes": [
+     "- A coding agent that supports the spec-kit workflow (Claude Code or compatible)."
+    ]
+   }
+  ]
+ }
+}

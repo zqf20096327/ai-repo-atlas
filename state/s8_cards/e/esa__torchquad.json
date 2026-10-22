@@ -1,0 +1,116 @@
+{
+ "fn": "esa/torchquad",
+ "sha": "a8aee9ba33b2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向科研与 ML 社区的 GPU 高维数值积分库",
+  "review": "ESA 维护的 Python 数值积分模块，基于 autoray 构建，支持 PyTorch、JAX、TensorFlow 与 NumPy 四种后端，用户可按需选择数值库并获得完全可微分的积分计算。提供 Monte Carlo、拟 Monte Carlo（Sobol）、Newton-Cotes（Trapezoid/Simpson/Boole）、Gauss-Legendre 等积分方法，面向物理、金融、医学统计等需要高维积分的科研群体与机器学习社区。无强制后端依赖，可 CPU 运行但针对 GPU 优化，GPU 支持仅在 NVIDIA CUDA 上测试，JAX/TensorFlow 的 GPU 构建仅限 Linux/WSL2。支持多 GPU（进程级）与批量向量化积分，附 JOSS 论文。",
+  "highlights": [
+   "单一 API 跨 PyTorch/JAX/TensorFlow/NumPy 四种数值后端，可选完全可微分",
+   "多种确定性与随机积分方法（Newton-Cotes、Gauss-Legendre、Monte Carlo、Sobol QMC）",
+   "无强制后端硬依赖，pip/uv/conda 均可安装，需 Python 3.10+",
+   "支持多 GPU（CUDA_VISIBLE_DEVICES + 独立进程）与批量向量化积分"
+  ],
+  "use_cases": [
+   "在 GPU 上计算物理、金融、医学统计中的高维积分",
+   "机器学习流程中做可微分的数值积分（如归一化常数计算）",
+   "对比 CPU/GPU 与不同积分方法的精度和运行时间"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数值积分",
+   "GPU计算",
+   "科学计算",
+   "高维积分",
+   "可微分计算"
+  ],
+  "domain": "科学计算/数值方法",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L46: The torchquad module allows utilizing GPUs for efficient numerical integration with PyTorch and other numerical Python3 ",
+   "L53: * autoray, which means the implemented quadrature supports NumPy and can be used for machine learning with modules such "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     80,
+     82,
+     84
+    ],
+    "quotes": [
+     "Install torchquad from PyPI:",
+     "   pip install torchquad",
+     "   uv pip install torchquad"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     72
+    ],
+    "note": "本产品可在 CPU 运行，extras 默认装 CPU 构建",
+    "quotes": [
+     "Note that torchquad also works on the CPU; however, it is optimized for GPU usage. GPU support is tested only on NVIDIA "
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "fn": "SonarSource/sonarqube-cli",
+ "sha": "9b8062d50118",
+ "source": "readme",
+ "identity": {
+  "one_liner": "SonarQube 官方命令行工具：终端内做代码质量与密钥扫描，并接入 AI 编码代理",
+  "review": "SonarSource 发布的 CLI，面向使用 SonarQube Cloud 或自托管 Server（v25.1+）的开发者。功能包括：检测代码中的硬编码凭证（发现密钥时退出码 51）、对本地未提交改动做服务端问题分析（仅 Cloud）、以 JSON/table/toon/csv 格式列出与管理项目问题，其中 toon 为面向 LLM 的 token 高效输出格式。通过 sonar integrate 命令为 Claude Code、GitHub Copilot CLI、Codex、Cursor 等安装 pre-tool-use 密钥扫描钩子、Agentic Analysis 与 MCP server；也支持 Git pre-commit/pre-push 钩子与 CI/CD 环境变量认证。本地改动分析功能仅限 SonarQube Cloud。",
+  "highlights": [
+   "密钥扫描并阻止硬编码凭证发送至 LLM 提供商（退出码 51）",
+   "sonar integrate 为 Claude Code/Copilot CLI 等安装钩子、Agentic Analysis 与 MCP server",
+   "面向 LLM 的 toon 输出格式（token 高效的 YAML 风格编码）",
+   "默认 JSON 输出，支持 jq 管道与脚本化自动化"
+  ],
+  "use_cases": [
+   "在终端和 Git 提交前拦截硬编码密钥",
+   "让 Claude Code/Copilot 等 AI 代理在处理代码前自动扫描密钥并获取质量分析",
+   "在 CI/CD 中以环境变量认证生成质量报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码质量",
+   "静态分析",
+   "安全/密钥扫描",
+   "AI代理集成",
+   "开发者CLI"
+  ],
+  "domain": "开发工具/代码质量与安全",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: - **🔒 Secret Detection** — Scan code for hardcoded credentials and prevent secrets from being sent to LLM providers",
+   "L13: - **🔗 Agent Integration** — Seamless hooks for Claude Code, GitHub Copilot CLI, Codex, Cursor, Antigravity, OpenCode, De",
+   "L35: 1. **🤖 Agentic Use** — Built-in support for AI coding agents (Claude Code, GitHub Copilot CLI, Codex, Cursor, Antigravit"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     13,
+     35
+    ],
+    "note": "通过 Claude Code（Anthropic 产品）集成体现，非直接接入 Anthropic API",
+    "quotes": [
+     "- **🔗 Agent Integration** — Seamless hooks for Claude Code, GitHub Copilot CLI, Codex, Cursor, Antigravity, OpenCode, De",
+     "1. **🤖 Agentic Use** — Built-in support for AI coding agents (Claude Code, GitHub Copilot CLI, Codex, Cursor, Antigravit"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     84
+    ],
+    "quotes": [
+     "brew install sonarqube-cli"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     454
+    ],
+    "note": "窗外：安装脚本下载二进制的途径",
+    "quotes": [
+     "   ls $env:LOCALAPPDATA\\sonarqube-cli\\bin\\sonar.exe"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     13,
+     225
+    ],
+    "note": "集成对象，非竞品",
+    "quotes": [
+     "- **🔗 Agent Integration** — Seamless hooks for Claude Code, GitHub Copilot CLI, Codex, Cursor, Antigravity, OpenCode, De",
+     "### Claude Code Integration"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     13,
+     263
+    ],
+    "note": "集成对象",
+    "quotes": [
+     "- **🔗 Agent Integration** — Seamless hooks for Claude Code, GitHub Copilot CLI, Codex, Cursor, Antigravity, OpenCode, De",
+     "### GitHub Copilot CLI Integration"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "note": "集成对象",
+    "quotes": [
+     "- **🔗 Agent Integration** — Seamless hooks for Claude Code, GitHub Copilot CLI, Codex, Cursor, Antigravity, OpenCode, De"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "note": "集成对象",
+    "quotes": [
+     "- **🔗 Agent Integration** — Seamless hooks for Claude Code, GitHub Copilot CLI, Codex, Cursor, Antigravity, OpenCode, De"
+    ]
+   }
+  ]
+ }
+}

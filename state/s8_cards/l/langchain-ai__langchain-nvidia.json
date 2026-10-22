@@ -1,0 +1,102 @@
+{
+ "fn": "langchain-ai/langchain-nvidia",
+ "sha": "e73542033fc6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "NVIDIA 与 LangChain 集成的官方包合集",
+  "review": "langchain-ai 维护的仓库，包含五个 Python 包：langchain-nvidia-ai-endpoints 接入 NVIDIA AI Foundation Models 与 Endpoints（含 Nemotron 模型家族）；langchain-nvidia-trt 集成 TensorRT 模型；langchain-nvidia-langgraph 提供 NVIDIA 优化的 LangGraph 并行与投机执行策略；langchain-nvidia-openshell 将 OpenShell 沙箱接入 Deep Agents；langchain-nvidia-switchyard 通过 libsy 算法路由模型调用。面向使用 LangChain 生态接入 NVIDIA 模型与运行时的开发者，README 未给出安装命令，附 cookbook 笔记本与可在 LangGraph Studio 中运行的 agentic RAG 示例。",
+  "highlights": [
+   "langchain-nvidia-ai-endpoints 接入 NVIDIA AI Foundation Models 与 Nemotron 模型",
+   "langchain-nvidia-trt 集成 NVIDIA TensorRT 模型",
+   "langchain-nvidia-langgraph 提供并行与投机执行策略",
+   "langchain-nvidia-openshell / switchyard 连接 OpenShell 沙箱与 libsy 路由"
+  ],
+  "use_cases": [
+   "在 LangChain/LangGraph 应用中调用 NVIDIA 托管的模型端点",
+   "用 TensorRT 集成运行 NVIDIA 优化模型",
+   "在 LangGraph Studio 中运行 agentic RAG 示例工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LangChain生态",
+   "NVIDIA集成",
+   "SDK/接入包",
+   "agentic RAG"
+  ],
+  "domain": "LLM 基础设施/集成库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This repository contains packages with NVIDIA integrations with LangChain:",
+   "L6: - langchain-nvidia-ai-endpoints integrates NVIDIA AI Foundation Models and Endpoints, including Nemotron, NVIDIA's open "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     1,
+     5
+    ],
+    "note": "被集成的框架本体，非替代/竞品对象",
+    "quotes": [
+     "# 🦜️🔗 LangChain NVIDIA",
+     "This repository contains packages with NVIDIA integrations with LangChain:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

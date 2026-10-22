@@ -1,0 +1,166 @@
+{
+ "fn": "Tolga1452/ai-prompts",
+ "sha": "a9fe4ed9219a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "各 AI 聊天机器人系统提示词与工具数据的收集清单",
+  "review": "汇集从各 AI 聊天产品中提取的原始系统提示词与工具（function calling）数据，覆盖 Apple Intelligence、bolt.new、ChatGPT（含 Agent、Canvas、o3 思维链、个性人设等子项）、Claude、Gemini、Grok、GitHub Copilot、Microsoft Copilot、v0、VS Code 等来源，按产品与子功能分类整理。README 声明内容直接提取自聊天机器人，不保证完全准确且部分可能过时；变量信息以占位符标注并汇于 variables.json；已从官方应用移除的条目以 🪦 标记。附 CHANGELOG.md 与 STATS.md 供查阅更新与统计。",
+  "highlights": [
+   "覆盖 ChatGPT/Claude/Gemini/Grok/Copilot 等十余个产品的系统提示词",
+   "包含工具数据（function calling）与变量占位符说明（variables.json）",
+   "用 🆕/✨/🪦 标记新增、更新与已移除条目",
+   "附 CHANGELOG.md 与 STATS.md 提供更新与统计信息"
+  ],
+  "use_cases": [
+   "研究各家 AI 产品系统提示词的写法与结构",
+   "了解 AI 聊天机器人的工具调用（function calling）定义方式",
+   "为自己的 chatbot 设计提示词时作参考素材"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词工程",
+   "系统提示词收集",
+   "function calling",
+   "知识聚合"
+  ],
+  "domain": "AI 提示词/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A collection of original system prompts and tool data used for AI chatbots.",
+   "L17: ## Categories"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     70,
+     71,
+     72
+    ],
+    "note": "Claude 提示词为被收录内容，非接入关系",
+    "quotes": [
+     "- Claude",
+     " - 🪦 Claude 3.5 Sonnet",
+     " - 🪦 Claude Sonnet 4"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     101,
+     105,
+     106
+    ],
+    "note": "Grok 提示词为被收录内容，非接入关系",
+    "quotes": [
+     "- Grok",
+     " - 🪦 Grok 2",
+     " - 🪦 Grok 3"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     26,
+     31,
+     32,
+     33
+    ],
+    "note": "被收录提示词的对象产品",
+    "quotes": [
+     "- ChatGPT",
+     " - 🪦 ChatGPT 4",
+     " - 🪦 ChatGPT 4.1",
+     " - 🪦 ChatGPT 4.1-mini"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     96,
+     124,
+     128,
+     131
+    ],
+    "note": "被收录提示词的对象产品",
+    "quotes": [
+     " - Copilot",
+     "- Microsoft Copilot",
+     " - Copilot Edits",
+     " - GitHub Copilot"
+    ]
+   },
+   {
+    "term": "Lovable",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "被收录提示词的对象产品",
+    "quotes": [
+     "- Lovable"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "🪦 标记的是各产品已移除的提示词条目，非本仓库弃用"
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "fn": "dxxzst/mml-book-chinese",
+ "sha": "8819fba4a856",
+ "source": "readme",
+ "identity": {
+  "one_liner": "《机器学习中的数学》中文学术教材翻译项目",
+  "review": "对英文教材《Mathematics For Machine Learning》进行中文翻译的开源图书项目，翻译已完成并开放校验协作。内容为机器学习所需数学基础（线性代数、微积分、概率等教材章节，目录见 README 后续部分）。阅读方式：将项目 clone 到本地后用 Visual Studio Code 配合 Markdown Preview Enhanced 插件查看，以正确显示公式；README 另提供英文原版入口与常见问题说明。面向机器学习学习者的中文读者群体。",
+  "highlights": [
+   "《Mathematics For Machine Learning》全书中文翻译已完成",
+   "通过 VS Code 与 Markdown Preview Enhanced 插件正确显示公式",
+   "开放社区校验与协作改进"
+  ],
+  "use_cases": [
+   "用中文学习机器学习数学基础教材",
+   "配合英文原版对照阅读",
+   "参与翻译校验与纠错"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "电子书",
+   "中文翻译",
+   "机器学习数学",
+   "教材"
+  ],
+  "domain": "机器学习/数学教材",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文翻译项目"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # 机器学习中的数学 中文版",
+   "L3: 英文原版请移步 《Mathematics For Machine Learning》"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

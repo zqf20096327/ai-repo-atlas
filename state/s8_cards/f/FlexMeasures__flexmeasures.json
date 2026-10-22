@@ -1,0 +1,105 @@
+{
+ "fn": "FlexMeasures/flexmeasures",
+ "sha": "fe1276826041",
+ "source": "readme",
+ "identity": {
+  "one_liner": "能源柔性资产的实时调度与预测优化平台（EMS 后端）",
+  "review": "面向表后能源柔性的智能能源管理系统后端：读取时序数据，为电池、热泵、柔性工业流程等资产生成优化调度方案，并支持未来数小时的预测。基于 timely-beliefs 框架处理多来源、多分辨率与不确定性的数据建模，提供 API/CLI、插件扩展机制、含地图与图表的后台 UI 与多租户。由荷兰 Seita Energy Flexibility BV 维护，Apache2.0 许可，LF Energy 孵化项目。",
+  "highlights": [
+   "将数据转化为柔性资产的优化调度方案",
+   "基于 timely-beliefs 框架的数据建模（单位/分辨率/不确定性）",
+   "插件集成第三方数据源与协议（ENTSO-E、OpenWeatherMap、OpenADR）",
+   "API/CLI、后台 UI 与多租户支持"
+  ],
+  "use_cases": [
+   "能源服务公司构建实时能源柔性应用与服务",
+   "工业企业内部数字化能源调度工具开发",
+   "为电池、热泵等资产做多价值叠加的排程优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "能源管理",
+   "调度优化",
+   "时序预测",
+   "需求响应",
+   "平台后端"
+  ],
+  "domain": "能源/优化调度",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L13: *FlexMeasures* is an intelligent EMS (energy management system) to optimize behind-the-meter energy flexibility.",
+   "L45: - Forecasting for the upcoming hours"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     6
+    ],
+    "note": "徽章显示 PyPI 版本，README 正文未给出安装命令",
+    "quotes": [
+     "Pypi Version"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

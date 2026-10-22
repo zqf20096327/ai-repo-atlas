@@ -1,0 +1,124 @@
+{
+ "fn": "gokayfem/ComfyUI-fal-API",
+ "sha": "f67700fc63d5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 fal.ai 全目录模型接入 ComfyUI 的自定义节点集",
+  "review": "ComfyUI 自定义节点包，把 fal.ai 平台上约 1,400 个公开模型以节点形式接入：约 90 个手写精选节点加启动时自动生成的节点，覆盖图像、视频、音频、3D、LLM 等。单一 FAL_KEY 配置即可访问全部模型。机制包括持久化结果缓存（相同调用不重复计费）、会话预算与余额守卫、异步执行、URL 直传（中间媒体不落本地）、任务收件箱与溯源回执，以及每日自动更新目录的 GitHub workflow。安装走 ComfyUI Manager 或 git clone 源码，需配置 fal API key。",
+  "highlights": [
+   "~90 精选节点 + ~1,400 自动生成节点覆盖 fal 全部公开模型",
+   "持久化结果缓存与消费守卫（会话预算/余额下限）",
+   "fal→fal URL 直传链路，中间媒体不经过本地",
+   "每日 GitHub workflow 自动验证并提交新 fal 端点"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中直接调用 fal.ai 上的图像/视频/音频模型",
+   "并行 fan-out 多个 fal 任务并追踪会话成本",
+   "复用缓存结果避免对相同调用重复付费"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI节点",
+   "fal.ai",
+   "生成式AI",
+   "API客户端",
+   "图像/视频生成"
+  ],
+  "domain": "生成式 AI 工具链/ComfyUI 生态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Custom nodes that bring the entire fal.ai catalog into ComfyUI: ~90 curated hand-written nodes for the most popular mode",
+   "L44: Every live public model on fal became a node: ~1,400 auto-generated nodes built at startup from the committed `data/fal_"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "   git clone https://github.com/gokayfem/ComfyUI-fal-API.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     63,
+     67
+    ],
+    "note": "git clone 后用 pip 安装依赖，非独立 pip 包发布",
+    "quotes": [
+     "   python -m pip install -r requirements.txt",
+     "   .\\python_embeded\\python.exe -m pip install -r .\\ComfyUI\\custom_nodes\\ComfyUI-fal-API\\requirements.txt"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [],
+    "note": "出现的 python.exe 指 ComfyUI Windows Portable 自带解释器，非本产品二进制安装包",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

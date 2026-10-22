@@ -1,0 +1,109 @@
+{
+ "fn": "spcl/MRAG",
+ "sha": "c4beb696cb2b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Multi-Head RAG 论文官方实现：用注意力头激活做多方面检索",
+  "review": "论文 \"Multi-Head RAG: Solving Multi-Aspect Problems with LLMs\" 的官方实现：针对需一次取回内容差异大的多篇文档的查询，改用 Transformer 多头注意力层的激活（而非 decoder 层输出）作为嵌入键，以捕捉数据的不同侧面并提升复杂查询的检索精度。面向科研复现：提供 CLI 生成合成数据集/查询（查询生成调用 OpenAI LLM，产生费用）、用 SFR-Embedding-Mistral 生成嵌入、导入向量数据库并运行多种检索策略评估与绘图；也附带论文所用 Wikipedia 数据集。",
+  "highlights": [
+   "以多头注意力层激活替代 decoder 输出作为嵌入键",
+   "CLI 覆盖 datagen/querygen/embed/db/evaluate/plot 全流程",
+   "提供论文评估所用的 Wikipedia 数据集与查询，可跳过付费生成",
+   "默认使用 Salesforce/SFR-Embedding-Mistral 嵌入模型"
+  ],
+  "use_cases": [
+   "复现论文的 Multi-Head RAG 检索实验结果",
+   "研究多方面查询下不同检索策略的准确率对比",
+   "基于合成或 Wikipedia 数据集开展 RAG 检索评估"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "检索增强",
+   "论文实现",
+   "评估框架",
+   "嵌入/向量检索"
+  ],
+  "domain": "RAG/信息检索研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: This framework implements Multi-Head RAG (MRAG), a novel scheme focused on",
+   "L10: leveraging activations of Transformer's multi-head attention layer, instead of",
+   "L71: multirag-cli evaluate"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     26,
+     28,
+     36
+    ],
+    "quotes": [
+     "git clone https://github.com/spcl/MRAG.git",
+     "pip install .",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

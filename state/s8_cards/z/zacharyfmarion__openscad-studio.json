@@ -1,0 +1,166 @@
+{
+ "fn": "zacharyfmarion/openscad-studio",
+ "sha": "a2a8ac4d0536",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 助手的 OpenSCAD 代码编辑器（Web 与 macOS）",
+  "review": "面向 OpenSCAD（程序化 2D/3D CAD 建模语言）的现代编辑器：提供多文件项目、Monaco 编辑、实时诊断、交互式 3D 预览、2D SVG 视图、参数自定义面板与分享链接。AI 部分：应用内聊天接流式响应，可选 Claude、GPT 或 OpenAI 兼容本地模型（Ollama、llama.cpp、LM Studio）生成/解释/修复 OpenSCAD 代码；桌面版暴露 localhost MCP 服务器供 Claude Code 等外部 agent 操作工作区。Web 版经 WebAssembly 在浏览器内渲染，桌面版捆绑原生 OpenSCAD 二进制，需 macOS 10.15+；已知预览尚不支持特殊操作符。",
+  "highlights": [
+   "多文件项目与来自 OpenSCAD 编译器的实时诊断",
+   "交互式 3D 预览、2D SVG 视图与测量工具",
+   "AI 聊天支持 Claude/GPT 及 Ollama、llama.cpp、LM Studio 等本地模型",
+   "桌面版 MCP 服务器供外部 agent 渲染模型与编辑文件"
+  ],
+  "use_cases": [
+   "用现代化 IDE 体验编写 OpenSCAD 参数化模型",
+   "让 AI 助手生成、解释或修复 OpenSCAD 代码",
+   "激光切割/雕刻工作流中预览 2D 输出",
+   "通过浏览器免安装体验并分享可再混排的模型示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://openscad-studio.pages.dev",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CAD工具",
+   "AI编程助手",
+   "3D打印",
+   "桌面/Web应用",
+   "OpenSCAD"
+  ],
+  "domain": "CAD/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: OpenSCAD Studio is a professional editor for OpenSCAD — the programmable solid 3D and 2D CAD modeler. It replaces the st",
+   "L40: - **In-app chat** — Stream responses from Claude, GPT, or local OpenAI-compatible models such as Ollama, llama.cpp, and "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     40,
+     41
+    ],
+    "note": "聊天可接 Claude；MCP 供 Claude Code 使用，非专门适配声明",
+    "quotes": [
+     "- **In-app chat** — Stream responses from Claude, GPT, or local OpenAI-compatible models such as Ollama, llama.cpp, and ",
+     "- **MCP support (desktop)** — Exposes a localhost MCP server so external agents like Claude Code can render models, read"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     40
+    ],
+    "note": "可选的 OpenAI 兼容本地模型后端之一",
+    "quotes": [
+     "- **In-app chat** — Stream responses from Claude, GPT, or local OpenAI-compatible models such as Ollama, llama.cpp, and "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     58,
+     62
+    ],
+    "quotes": [
+     "Install via Homebrew:",
+     "brew install --cask openscad-studio"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "none",
+    "lines": [
+     21,
+     38
+    ],
+    "note": "误命中：copilot 指本产品自带的 AI 助手",
+    "quotes": [
+     "OpenSCAD Studio is a professional editor for OpenSCAD — the programmable solid 3D and 2D CAD modeler. It replaces the st",
+     "### AI Copilot"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     41
+    ],
+    "note": "可经 MCP 操作工作区的外部 agent",
+    "quotes": [
+     "- **MCP support (desktop)** — Exposes a localhost MCP server so external agents like Claude Code can render models, read"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     99
+    ],
+    "note": "构建所用依赖",
+    "quotes": [
+     "- Vercel AI SDK - AI streaming framework"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

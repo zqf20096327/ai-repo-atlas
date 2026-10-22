@@ -1,0 +1,134 @@
+{
+ "fn": "0xMassi/stik_app",
+ "sha": "717fba1ce8b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 快速笔记捕获应用：快捷键唤出便签即写即存",
+  "review": "面向 macOS 用户的本地优先笔记应用：全局快捷键唤出浮动便签，笔记以纯 markdown 文件保存到 ~/Documents/Stik/，支持语音转录（WhisperKit 跑在 Neural Engine）、选中文本剪辑、文件夹与命令面板搜索、AES-256 加密与 Touch ID 解锁、iCloud/Dropbox/Syncthing 同步。AI 部分（语义搜索、文件夹建议、笔记嵌入）通过 Apple NaturalLanguage 框架在设备端运行，无云端与 API key。技术栈为 React 19 + Tauri 2.0 (Rust)，要求 macOS 14+，提供 dmg 下载与 Homebrew 安装，也可从源码构建（需 Xcode CLI、Rust、Node.js 20+、Bun）。",
+  "highlights": [
+   "全局快捷键唤出便签，笔记为纯 markdown 文件存于本地",
+   "WhisperKit 在 Neural Engine 上做离线语音转录，音频不离开设备",
+   "设备端语义搜索与笔记嵌入（Apple NaturalLanguage 框架），无云端",
+   "AES-256 加密笔记，Touch ID/设备密码解锁"
+  ],
+  "use_cases": [
+   "工作中快速捕获灵感，不打断当前流程",
+   "用语音输入把口述内容转成文字笔记",
+   "在多台 Mac 间通过 iCloud 同步 markdown 笔记",
+   "对敏感笔记加密封存"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "笔记应用",
+   "快速捕获",
+   "本地优先",
+   "端侧AI",
+   "macOS工具"
+  ],
+  "domain": "笔记/效率工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "界面支持简体中文（L93）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L79: **Voice.** `Cmd+Shift+D` transcribes speech straight into the note you're editing. `Cmd+Shift+V` opens a fresh post-it a",
+   "L91: **On-device AI.** Semantic search, folder suggestions, and note embeddings through Apple's NaturalLanguage framework. No",
+   "L124: - All AI runs **on-device** via Apple frameworks -- nothing is sent anywhere"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     38,
+     40
+    ],
+    "quotes": [
+     "Grab the latest `.dmg` from **stik.ink/download** — the recommended path, with release notes and a quick walkthrough.",
+     "Prefer GitHub? The same `.dmg` is on the Releases page."
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     42,
+     45,
+     52,
+     59
+    ],
+    "quotes": [
+     "### Homebrew",
+     "brew install --cask 0xMassi/stik/stik",
+     "brew install --cask stik",
+     "If you installed via Homebrew:"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     129,
+     142
+    ],
+    "quotes": [
+     "## Build from Source",
+     "git clone --recurse-submodules https://github.com/0xMassi/stik_app.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

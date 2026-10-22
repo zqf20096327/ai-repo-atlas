@@ -1,0 +1,130 @@
+{
+ "fn": "barretlee/agent-pulse",
+ "sha": "fd8d6e61a813",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向决策者的 AI 行业情报系统：信号→证据→判断→下一步信号",
+  "review": "将官方发布、论文、资本与政策变化、传播信号加工为可溯源的事件（Event），维护六个战略视图、证据时间线、414 个来源的目录与健康度审计。仓库包含采集器、证据模型、质量门、静态渲染与 GitHub Pages 交付路径，GitHub Actions 每日刷新数据、每周生成决策简报。事件分为事实/证据/背景/影响/判断/下一步信号六层，发布需过确定性门控；DeepSeek 的 AI 增强为本地实验性可选功能。本地运行需 Node.js 22+，SQLite 为零配置默认存储。",
+  "highlights": [
+   "414 个来源目录与健康/降级/失败审计（266/27/70/51）",
+   "事件六层结构：事实→证据→背景→影响→判断→下一步信号",
+   "GitHub Actions 每日数据刷新 + 每周门控式决策简报",
+   "catalogued/observed/active/published 四态分离的证据管线"
+  ],
+  "use_cases": [
+   "投资与企业管理者跟踪 AI 行业的实质变化而非新闻",
+   "研究者查看有原始出处的行业事件时间线",
+   "评估来源覆盖强弱与活跃度的公开情报基础设施"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    41,
+    85,
+    131
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "行业情报",
+   "知识图谱/证据链",
+   "数据管线",
+   "AI监测"
+  ],
+  "domain": "AI 行业情报/数据基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文 README 链接（L1/L11）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > **Evidence-backed AI industry intelligence for people who need to decide, not just keep up.** Agent Pulse turns offici",
+   "L38: |**Evidence timeline**|What happened first, what changed later, and which primary sources support it?|Every published Ev",
+   "L131: AI-assisted Event convergence and weekly-brief drafting remain **experimental and opt-in for local runs**. Put `DEEPSEEK"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     131
+    ],
+    "note": "可选的实验性事件增强后端，通过 DEEPSEEK_API_KEY 显式启用",
+    "quotes": [
+     "AI-assisted Event convergence and weekly-brief drafting remain **experimental and opt-in for local runs**. Put `DEEPSEEK"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     105
+    ],
+    "quotes": [
+     "git clone https://github.com/barretlee/agent-pulse.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     107
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

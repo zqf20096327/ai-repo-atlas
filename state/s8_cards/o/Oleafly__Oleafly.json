@@ -1,0 +1,218 @@
+{
+ "fn": "Oleafly/Oleafly",
+ "sha": "bfcf924183d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向科研写作的 LaTeX/Typst/Markdown 实时协作编辑器，AI 可选",
+  "review": "跨平台桌面编辑器，支持 LaTeX、Typst 与 Markdown，内置 Tectonic/Typst/Pandoc 编译，源码、PDF、引用、图表与 Git 历史集成于同一界面。面向科研作者与实验室：共享光标实时协作、评论、云同步、Zotero 引用、1700+ 模板、Preflight 投稿前检查。AI 部分为可选：Claude Code、Codex 等 14 种 agent 可在项目内工作，也可连接托管模型或本地 Ollama，改动以 diff 呈现可撤销。服务器端为单一 Rust 二进制，用 SQLite，支持 GitHub/OpenID Connect 登录，自称 beta。",
+  "highlights": [
+   "实时协作：共享光标、评论、离线合并与权限管理",
+   "14 种 AI agent 可在项目内工作，AI 为可选且每步改动以 diff 呈现",
+   "内置 Tectonic/Typst/Pandoc 编译，PDF-源码互跳与 SyncTeX",
+   "服务器为单一 Rust 二进制+SQLite，一条命令自托管，支持 S3 兼容存储"
+  ],
+  "use_cases": [
+   "与共同作者实时协作撰写 LaTeX/Typst 论文",
+   "实验室或院系自托管协作服务器并接入学校单点登录",
+   "让 AI agent 在项目副本中做文献综述或修订，再挑选保留的文件",
+   "从 Overleaf 等在线 LaTeX 账号导入项目并双向同步"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学术写作",
+   "协作编辑器",
+   "LaTeX/Typst",
+   "桌面应用",
+   "自托管"
+  ],
+  "domain": "学术写作/科研工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L39: - Claude Code, Codex and 12 more agents work inside your project, or connect any model, local ones included. AI is optio",
+   "L123: AI is optional. The editor, compiler, PDF, citations, proofreading and checks all work with it off."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     15,
+     39,
+     97
+    ],
+    "note": "Claude Code 为兼容的 agent，非专门接入",
+    "quotes": [
+     "Oleafly is a powerful editor for research writing in LaTeX, Typst and Markdown. The source, PDF, citations, figures, che",
+     "- Claude Code, Codex and 12 more agents work inside your project, or connect any model, local ones included. AI is optio",
+     " Claude&nbsp;Code"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     108
+    ],
+    "note": "Grok Build 列于兼容 agent 清单",
+    "quotes": [
+     " Grok&nbsp;Build"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "DeepSeek Harness 列于兼容 agent 清单",
+    "quotes": [
+     " DeepSeek Harness"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     115
+    ],
+    "note": "可连接本地 Ollama 模型作为聊天助手",
+    "quotes": [
+     "Prefer a chat assistant? Connect a hosted provider, any OpenAI-compatible endpoint, or a local Ollama model."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     18
+    ],
+    "quotes": [
+     "· Read the guides · Run a server · Build from source"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     62
+    ],
+    "note": "服务器提供 Docker Compose 配置",
+    "quotes": [
+     "It's a single Rust binary that uses SQLite, keeps files on disk or in any S3-compatible store, and sends email over SMTP"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     15,
+     39,
+     97
+    ],
+    "note": "兼容的 agent，商标声明指明仅为兼容标识",
+    "quotes": [
+     "Oleafly is a powerful editor for research writing in LaTeX, Typst and Markdown. The source, PDF, citations, figures, che",
+     "- Claude Code, Codex and 12 more agents work inside your project, or connect any model, local ones included. AI is optio",
+     " Claude&nbsp;Code"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "note": "列于兼容 agent 清单",
+    "quotes": [
+     " Cursor"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     107
+    ],
+    "note": "Kimi Code 列于兼容 agent 清单",
+    "quotes": [
+     " Kimi&nbsp;Code"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     305
+    ],
+    "note": "窗外行命中",
+    "quotes": [
+     "- AI Copilot"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

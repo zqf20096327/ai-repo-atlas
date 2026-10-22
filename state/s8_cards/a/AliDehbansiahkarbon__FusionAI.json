@@ -1,0 +1,148 @@
+{
+ "fn": "AliDehbansiahkarbon/FusionAI",
+ "sha": "82c38eb5d4ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RAD Studio IDE 的多模型 AI 助手插件（ChatGPT/Gemini/Claude/Ollama）",
+  "review": "面向 Embarcadero RAD Studio 10.x 与 11.x 的 Delphi 插件（前身为 ChatGPTWizard），在 IDE 内提供 AI 辅助：聊天窗口提问、编辑器内联提示（cpt: ... :cpt 格式）、右键预定义动作（解释/优化/加注释/加测试/找 bug/转汇编等）、Class View 类型级提示，以及跨多家 AI 提供商的答案对比。支持 OpenAI ChatGPT、Google Gemini、Anthropic Claude 与本地 Ollama（无需云端 key）。历史记录存入本地 SQLite，可按提供商/模型过滤并支持模糊搜索。通过 Delphinus 或直接编译安装包安装；非 RAD Studio 12.2+ 的主要目标。",
+  "highlights": [
+   "同时支持 ChatGPT/Gemini/Claude/Ollama 并可对比多家答案",
+   "编辑器内联提示与右键代码动作（加测试/找 bug/优化/转汇编等）",
+   "基于本地 SQLite 的提供商感知历史库与模糊搜索",
+   "Ollama 本地端点支持离线/私有工作流"
+  ],
+  "use_cases": [
+   "在 RAD Studio 中直接向 AI 提问并解释、重构代码",
+   "用本地 Ollama 模型做离线代码辅助",
+   "在多个 AI 提供商之间对比同一问题的回答",
+   "检索过去的 AI 对话历史"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "IDE插件",
+   "代码辅助",
+   "Delphi/RAD Studio",
+   "多模型客户端",
+   "本地LLM"
+  ],
+  "domain": "开发工具/IDE 插件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: FusionAI is a Delphi plug-in for RAD Studio that brings AI-assisted workflows into the IDE:",
+   "L52: FusionAI currently supports:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     56,
+     213,
+     215
+    ],
+    "quotes": [
+     "- Anthropic Claude",
+     "### Claude",
+     "- Uses the Anthropic API"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     57,
+     62,
+     219
+    ],
+    "quotes": [
+     "- Ollama",
+     "- Ollama can be used locally without a cloud API key.",
+     "- Uses a local or remote Ollama endpoint"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     305
+    ],
+    "note": "SSL 库依赖环境说明，非安装途径；本产品安装为 Delphinus 或编译 .dproj 包（L84-90）",
+    "quotes": [
+     "If HTTPS requests fail inside the IDE, make sure the required SSL libraries are available in the environment used by `bd"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     54,
+     204
+    ],
+    "note": "被接入的 AI 提供商，非替代/竞品",
+    "quotes": [
+     "- OpenAI ChatGPT",
+     "### ChatGPT"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

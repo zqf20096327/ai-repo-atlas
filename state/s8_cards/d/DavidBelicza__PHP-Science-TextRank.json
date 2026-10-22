@@ -1,0 +1,120 @@
+{
+ "fn": "DavidBelicza/PHP-Science-TextRank",
+ "sha": "a60a3d4ab9a6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PHP 实现的 TextRank 自动文本摘要与关键词提取库",
+  "review": "以 PHP 语言实现 TextRank 算法的库，MIT 许可。处理流程为：抽取句子、去停用词、按词匹配计数赋整数值、加权、归一化得分并排序，从原文中提取重要句子与关键词，属于低成本抽取式摘要，无需模型训练或大量算力。README 提出其可作为 GPT 模型的预处理器以缩减输入文本、降低资源消耗。通过 Composer 安装，附带英文停用词工具与示例测试，贡献开发可用 docker-compose 环境。",
+  "highlights": [
+   "PHP 实现的 TextRank 抽取式文本摘要算法",
+   "流程覆盖分句、去停用词、加权、归一化与按得分排序",
+   "提供英文停用词工具与多个使用示例",
+   "可用于在调用 GPT 模型前压缩文本以降低资源消耗"
+  ],
+  "use_cases": [
+   "在 PHP 项目中对长文本文档生成抽取式摘要",
+   "从文章中提取关键句子和关键词",
+   "作为 LLM 输入的预处理步骤以缩减文本体积"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://php.science",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "NLP",
+   "文本摘要",
+   "关键词提取",
+   "PHP库"
+  ],
+  "domain": "自然语言处理/文本摘要",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L16: This source code is an implementation of TextRank algorithm in PHP programming language, under MIT licence.",
+   "L20: input using vast resources while TextRank is a cost-efficient/low-cost text extraction algorithm. TextRank algorithm"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     43,
+     44
+    ],
+    "note": "贡献开发环境的构建方式，非使用方安装途径",
+    "quotes": [
+     "docker-compose build",
+     "docker-compose up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     18,
+     19
+    ],
+    "note": "对比二者机制差异，未自称替代",
+    "quotes": [
+     "# TextRank vs. ChatGPT",
+     "GPTs like ChatGPT are supervised language models that understand the context and generate new content from the given"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

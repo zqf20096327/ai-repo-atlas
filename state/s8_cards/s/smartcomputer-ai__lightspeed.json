@@ -1,0 +1,172 @@
+{
+ "fn": "smartcomputer-ai/lightspeed",
+ "sha": "9e9ad1111dac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的托管 agent 舰队基础设施，基于 Temporal 持久工作流",
+  "review": "开源基础设施项目：将 agent 循环、上下文与会话状态作为 Temporal 上的持久工作流运行，agent 可跨重启存活数周至数月；Shell、代码执行与文件系统在需要时才挂载 VM 或沙箱，单 worker 可管理数百 agent。核心为事件溯源、确定性设计且自身不做 I/O，数据存于 Postgres（可选 S3），前端 TypeScript/React。支持 OpenAI/Anthropic 及 OpenAI 兼容后端（OpenRouter/DeepSeek/vLLM/Ollama），提供子 agent、MCP、bot 联邦、多租户与角色权限。从源码运行需 Rust 工具链、Node.js 24+、Docker Compose 与 protoc，通过 ./dev.sh 启动。",
+  "highlights": [
+   "harness 与计算分离：单 worker 管理数百持久 agent，按需挂载 VM/沙箱",
+   "事件溯源的确定性核心，自身不做 I/O，大载荷存入 CAS",
+   "支持 OpenAI/Anthropic 及 OpenAI 兼容后端（OpenRouter/DeepSeek/vLLM/Ollama）",
+   "子 agent、MCP、bot 联邦、多租户与基于角色的权限"
+  ],
+  "use_cases": [
+   "为大量用户运行个人助手而不为每人保留空闲 VM",
+   "构建长时间自治的软件工厂（多 agent 协作开发与测试）",
+   "值班运维 agent 调查告警并通过 Telegram/WhatsApp 汇报",
+   "长期运行的实验型研究 agent 按需拉起计算并监督进度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ls.bot/demo/u/software-factory/bots/implementer",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent基础设施",
+   "Temporal工作流",
+   "多agent编排",
+   "自治软件工厂",
+   "Rust"
+  ],
+  "domain": "AI 基础设施/agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "openrouter",
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Lightspeed is open-source infrastructure for running managed agent fleets as durable workflows.",
+   "L36: So, in Lightspeed, the harness (the agent loop, context, and session state) runs as a lightweight",
+   "L149: In Lightspeed, every agent is driven by an event-sourced, deterministic core. The runtime replays the session log, decid"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     88,
+     73,
+     100
+    ],
+    "quotes": [
+     "- [x] **OpenAI and Anthropic**: support for reasoning, compaction, tools,",
+     "`OPENAI_API_KEY` or `ANTHROPIC_API_KEY` in a root `.env` as deployment defaults.",
+     "- [x] **Web access**: provider-hosted search/fetch for Anthropic Messages,"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     92,
+     93
+    ],
+    "quotes": [
+     "- [x] **OpenAI-compatible providers**: OpenRouter, DeepSeek, vLLM, Ollama, and",
+     " similar servers, each configured with its own endpoint and credential"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     92,
+     93
+    ],
+    "quotes": [
+     "- [x] **OpenAI-compatible providers**: OpenRouter, DeepSeek, vLLM, Ollama, and",
+     " similar servers, each configured with its own endpoint and credential"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     92,
+     93
+    ],
+    "quotes": [
+     "- [x] **OpenAI-compatible providers**: OpenRouter, DeepSeek, vLLM, Ollama, and",
+     " similar servers, each configured with its own endpoint and credential"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     92,
+     93
+    ],
+    "quotes": [
+     "- [x] **OpenAI-compatible providers**: OpenRouter, DeepSeek, vLLM, Ollama, and",
+     " similar servers, each configured with its own endpoint and credential"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     29
+    ],
+    "note": "能力对标表述，非自称替代或竞品",
+    "quotes": [
+     "Lightspeed aims for the capability of Claude Code, Codex, and OpenClaw without"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

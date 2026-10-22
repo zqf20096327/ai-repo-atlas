@@ -1,0 +1,154 @@
+{
+ "fn": "yycyyv/M-Cube",
+ "sha": "fb3974309002",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多智能体协同的专利撰写与审查意见答复助手",
+  "review": "基于 LangGraph 多智能体编排的专利文件处理应用：读取专利文本与附图的多模态信息（PyMuPDF/Pillow + Vision LLM），提供专利申请文件撰写、OA 答复、在先技术对比、权利要求润色四类工作流，过程中执行说明书支持度检查、图文逻辑核验等验证，并在关键节点引入人工确认以规避 A33 超范围风险。架构为 FastAPI + React + Tauri，支持云 SaaS 与本地离线部署、Docker 一键启动及桌面 CLI 子进程模式。",
+  "highlights": [
+   "LangGraph 多智能体编排，含对抗检查与思维链扩展",
+   "Vision LLM 解析附图并做文图交叉映射验证",
+   "四类工作流：撰写/OA 答复/在先技术对比/权利要求润色",
+   "支持 Docker、本地 Web、Tauri 桌面及 CLI 子进程调用"
+  ],
+  "use_cases": [
+   "专利代理人根据技术交底书起草申请文件",
+   "答复审查意见并生成 A33 合规的替换页",
+   "对比在先技术文件并输出新颖性/创造性风险分级"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "专利",
+   "多智能体",
+   "多模态文档",
+   "法律合规"
+  ],
+  "domain": "知识产权/专利撰写",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "DASHSCOPE/Qwen 配置示例"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: M-Cube is a multi-thinking, multimodal, and multi-verification multi-agent collaborative patent drafting assistant. It r",
+   "L35: 1. 📝 **Patent Drafting**: Performs atomic-level feature breakdown and drawing analysis based on technical disclosures. I"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     94
+    ],
+    "quotes": [
+     "docker compose up --build"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "pnpm 的独立安装方式，非本产品安装途径",
+    "quotes": [
+     "> Or standalone: `npm i -g pnpm` / `brew install pnpm`"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "pnpm 可选安装方式",
+    "quotes": [
+     "> Or standalone: `npm i -g pnpm` / `brew install pnpm`"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     165,
+     181
+    ],
+    "note": "构建后的桌面可执行文件支持 CLI 模式",
+    "quotes": [
+     "M-Cube.exe --cli --workflow draft \\",
+     "M-Cube.exe --cli --workflow draft --disclosure-file ./docs/disclosure.pdf --provider qwen --model qwen-plus --vision-mod"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     175,
+     181
+    ],
+    "note": "CLI 示例调用的模型提供方",
+    "quotes": [
+     "M-Cube.exe --cli --workflow draft --input @draft_request.json --provider qwen --model qwen-plus --vision-model qwen-vl-p",
+     "M-Cube.exe --cli --workflow draft --disclosure-file ./docs/disclosure.pdf --provider qwen --model qwen-plus --vision-mod"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

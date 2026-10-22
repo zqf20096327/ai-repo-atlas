@@ -1,0 +1,160 @@
+{
+ "fn": "montevive/penpot-mcp",
+ "sha": "971cbfe470bc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "连接 Claude/Cursor 等 LLM 与 Penpot 设计文件的 MCP 服务器",
+  "review": "基于 Model Context Protocol 的服务器，通过 Penpot API 让 Claude Desktop、Cursor IDE 等 MCP 兼容 AI 助手读取与操作 Penpot 设计文件。提供 list_projects、get_file、export_object、search_object 等 6 个工具和服务器状态、API schema、渲染组件图等 5 类资源；另附 Python SDK、CLI 工具（penpot-tree/penpot-validate）与 REST API。需 Python 3.12+ 与 Penpot 账号凭据；README 提示 penpot.app 云端有 CloudFlare 防护可能拦截 API 请求，需浏览器完成人机验证。以 PyPI 包、uvx 或源码方式安装。",
+  "highlights": [
+   "6 个 MCP 工具：列项目、取文件、导出对象为图片、按名搜索对象等",
+   "提供 Claude Desktop 与 Cursor IDE 的配置接入说明",
+   "附 Python SDK、CLI 工具与 REST API 供自定义集成",
+   "penpot-tree / penpot-validate 命令行工具做文件可视化与 schema 校验"
+  ],
+  "use_cases": [
+   "在 Cursor 或 Claude Desktop 里用自然语言查询我的 Penpot 项目与组件",
+   "让 AI 分析设计组件并导出设计资产为图片",
+   "为设计系统生成文档并做一致性检查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "设计工具集成",
+   "Penpot",
+   "设计转代码",
+   "AI工作流自动化"
+  ],
+  "domain": "设计工具/AI 集成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L23: **Penpot MCP** is a revolutionary Model Context Protocol (MCP) server that bridges the gap between AI language models an",
+   "L42: - **MCP Protocol Implementation**: Full compliance with Model Context Protocol standards"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ],
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     23,
+     55,
+     228
+    ],
+    "note": "作为 MCP 客户端接入（Claude Desktop 配置说明），非模型服务依赖",
+    "quotes": [
+     "**Penpot MCP** is a revolutionary Model Context Protocol (MCP) server that bridges the gap between AI language models an",
+     "- **Claude Desktop & Cursor Integration**: Native support for Claude AI assistant in both Claude Desktop and Cursor IDE",
+     "For detailed Claude Desktop setup instructions, see CLAUDE_INTEGRATION.md."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     101,
+     245
+    ],
+    "quotes": [
+     "pip install penpot-mcp",
+     "   pip install penpot-mcp"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     117
+    ],
+    "quotes": [
+     "git clone https://github.com/montevive/penpot-mcp.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     195
+    ],
+    "note": "MCP Inspector 调试工具的可选安装，非本产品安装途径",
+    "quotes": [
+     "npx @modelcontextprotocol/inspector"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     23,
+     241
+    ],
+    "note": "作为 AI 客户端被支持接入，非替代/竞品对象",
+    "quotes": [
+     "**Penpot MCP** is a revolutionary Model Context Protocol (MCP) server that bridges the gap between AI language models an",
+     "Cursor IDE supports MCP servers through its AI integration features. To configure Penpot MCP with Cursor:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

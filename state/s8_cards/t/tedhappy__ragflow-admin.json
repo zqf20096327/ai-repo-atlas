@@ -1,0 +1,147 @@
+{
+ "fn": "tedhappy/ragflow-admin",
+ "sha": "1514bed65e21",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RAGFlow 的独立后台管理控制台，批量管理知识库与用户",
+  "review": "基于 RAGFlow 二次开发的独立管理控制台，通过 Web 界面集中管理数据集、文档、聊天助手、智能体、用户与团队关系。针对 RAGFlow 内置界面在批量操作、任务队列可见性、用户管理上的限制，提供跨数据集仪表盘、批量上传/解析/删除、实时任务队列监控与服务健康检查。后端为 Python/Quart 并通过 ragflow-sdk 对接 RAGFlow（需 v0.15+ 实例），前端为 React 18；团队关系功能需 MySQL 访问。支持 Docker Compose 部署与源码部署两种方式，界面支持中英双语。",
+  "highlights": [
+   "跨数据集批量上传、解析、停止与删除操作",
+   "全局任务队列实时监控（队列位置与进度）",
+   "用户与团队关系集中管理（需 MySQL 访问）",
+   "服务健康检查与使用统计仪表盘"
+  ],
+  "use_cases": [
+   "生产环境统一管理多个 RAGFlow 知识库与文档",
+   "监控 RAGFlow 解析任务队列与批量控制",
+   "集中管理 RAGFlow 用户、团队与聊天助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "运维管理后台",
+   "知识库管理",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/RAG 管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文文档"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: A standalone administration console for RAGFlow",
+   "L24: **RAGFlow Admin** is a lightweight, standalone administration console for RAGFlow — the leading open-source RAG engine w",
+   "L44: |**📚 Dataset Management**|View all datasets across users, create, delete with batch operations|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     97,
+     105
+    ],
+    "quotes": [
+     "- Docker 20.10+ & Docker Compose 2.0+ (for Docker deployment)",
+     "$ docker compose -f docker-compose.yml up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     103,
+     122,
+     130,
+     138
+    ],
+    "quotes": [
+     "$ git clone https://github.com/tedhappy/ragflow-admin.git",
+     "$ git clone https://github.com/tedhappy/ragflow-admin.git",
+     "$ pip install -r requirements.txt",
+     "$ npm install"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     130
+    ],
+    "note": "pip 安装的是后端依赖，非本产品发布包",
+    "quotes": [
+     "$ pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     138
+    ],
+    "note": "npm install 为前端依赖安装步骤",
+    "quotes": [
+     "$ npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

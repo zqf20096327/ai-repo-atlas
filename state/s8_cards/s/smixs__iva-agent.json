@@ -1,0 +1,175 @@
+{
+ "fn": "smixs/iva-agent",
+ "sha": "05a945f51642",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 Telegram 个人 AI 助理，带分层长期记忆",
+  "review": "部署在自己服务器上的 Telegram AI 助理：把语音、文字、照片、转发内容整理为 Obsidian 兼容的 markdown vault，形成按日/周/月/年折叠的分层记忆树（CORE.md 常驻提示词），并带个人 CRM、任务提醒、语义搜索、Google Workspace 集成与 MCP 技能扩展。语音转录用 Deepgram，模型支持六种供应商。通过 curl 安装脚本一键部署，以 systemd 用户服务运行。需注意模型与转录依赖用户自选自付费的云 API，个人账号 userbot 功能违反 Telegram ToS 需自担风险。",
+  "highlights": [
+   "分层记忆树：逐日消息 + 周月年摘要 + CORE.md 常驻提示词",
+   "语音/照片/转发内容转为 Obsidian 兼容 markdown 卡片",
+   "六种模型供应商可选，含自建 OpenAI 兼容端点",
+   "提示注入过滤、密钥脱敏、只读模式等安全机制"
+  ],
+  "use_cases": [
+   "在 Telegram 里记录语音备忘并自动生成任务与联系人卡片",
+   "数月后回查与客户的约定和决策记录",
+   "通过聊天操作 Gmail/Calendar/Docs 等 Google Workspace 功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人助理",
+   "长期记忆",
+   "Telegram",
+   "自托管",
+   "知识管理"
+  ],
+  "domain": "个人 AI 助理/知识管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "俄语文档 docs/ru/",
+   "语音自动检测 ru/uz/en"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Iva is a self-hosted Telegram AI assistant with layered memory that turns your messages into an Obsidian-compatible vaul",
+   "L39: How Iva works: voice, text, photos and PDFs fly from Telegram into the willow-tree agent, wired to memory, nightly rollu"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     166
+    ],
+    "note": "Claude Pro/Max 订阅作为可选模型供应商之一",
+    "quotes": [
+     "|Claude (Pro/Max)|your Pro/Max subscription, no API key|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     163
+    ],
+    "note": "Ollama Cloud 为云端 API 选项，非本地运行时接入",
+    "quotes": [
+     "|Ollama Cloud|API key, ~$20/mo|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     164
+    ],
+    "note": "可选模型供应商，API key 按量付费",
+    "quotes": [
+     "|OpenRouter|API key, pay-as-you-go, 300+ models|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     169
+    ],
+    "note": "默认模型为 deepseek-v4-pro",
+    "quotes": [
+     "Default model is deepseek-v4-pro, 131k context. On Go it runs about $14–15/mo all-in ($10 model + $4–5 VPS; the model's "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     150,
+     151
+    ],
+    "quotes": [
+     "git clone https://github.com/smixs/iva-agent.git ~/iva",
+     "cd ~/iva && bash install.sh"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     17,
+     107
+    ],
+    "note": "可被用于安装本产品的 AI 工具",
+    "quotes": [
+     "Paste this into Claude Code, Codex or Claude Desktop:",
+     "Ask Claude Code, Codex or Claude Desktop to install Iva on your server or Mac:"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     165
+    ],
+    "note": "OpenAI ChatGPT 订阅作为模型供应商选项",
+    "quotes": [
+     "|OpenAI (ChatGPT)|your Plus/Pro subscription, no API key|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

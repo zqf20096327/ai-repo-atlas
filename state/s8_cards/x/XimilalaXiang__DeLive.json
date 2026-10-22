@@ -1,0 +1,160 @@
+{
+ "fn": "XimilalaXiang/DeLive",
+ "sha": "9a8ac7b5321b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面系统音频转录工作台：实时字幕 + 14 种 ASR 后端 + AI 审阅",
+  "review": "基于 Electron 的桌面应用：捕获系统音频（浏览器视频、直播、会议、课程、播客），经 14 种 ASR 后端（云：Soniox、火山引擎、Groq、Deepgram 等；本地：whisper.cpp、FunASR/SenseVoice、OpenAI 兼容服务）转为实时字幕与可搜索历史，支持上传音视频文件离线转录。内置 AI Review Desk：转写纠正、多线程聊天、结构化简报、思维导图。本地优先存储，可选 S3/WebDAV 备份，另开放本地 REST API、WebSocket 与 MCP 服务器。Windows/macOS/Linux 提供安装包。部分新功能（60db、韩语 UI 等）需 prerelease 或源码构建。",
+  "highlights": [
+   "14 种 ASR 后端，含全本地 whisper.cpp 与 FunASR/SenseVoice",
+   "置顶悬浮字幕窗（原文/译文/双语显示）",
+   "AI Review Desk：纠正、简报、聊天、问答、思维导图",
+   "本地 REST API / WebSocket / MCP 服务器，默认关闭、可配 Bearer 鉴权"
+  ],
+  "use_cases": [
+   "看外语视频、直播或参加线上会议时显示实时字幕",
+   "上传播客、课程录像做离线转写并生成摘要与思维导图",
+   "让外部 AI agent 通过 MCP 读取 DeLive 的转写能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "实时字幕",
+   "语音转写/ASR",
+   "桌面应用",
+   "本地优先",
+   "MCP"
+  ],
+  "domain": "语音转写/桌面效率工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多语言含简体中文 README",
+   "火山引擎 ASR 后端",
+   "致谢字节跳动/飞书 AI 校园挑战赛",
+   "LINUX.DO 社区致谢"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: DeLive is a desktop transcription workspace for system audio. It captures whatever your computer is playing, routes the ",
+   "L38: - **Fourteen ASR backends** — Soniox, Volcengine, Groq, SiliconFlow, Mistral AI, Deepgram, AssemblyAI, ElevenLabs, Gladi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     38,
+     79
+    ],
+    "quotes": [
+     "- **Fourteen ASR backends** — Soniox, Volcengine, Groq, SiliconFlow, Mistral AI, Deepgram, AssemblyAI, ElevenLabs, Gladi",
+     "|**Groq**|Cloud|Windowed batch|Yes|Whisper large-v3-turbo / large-v3|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     80
+    ],
+    "note": "本地 OpenAI 兼容后端可与 Ollama 配合",
+    "quotes": [
+     "|**Local OpenAI-compatible**|Local|Windowed batch|Yes|Works with Ollama or compatible gateways|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     59,
+     60,
+     61
+    ],
+    "quotes": [
+     "|Windows|`.exe` installer, portable `.exe`|",
+     "|macOS|`.dmg`, `.zip` (Intel x64 and Apple Silicon arm64)|",
+     "|Linux|`.AppImage`, `.deb`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     63,
+     89
+    ],
+    "quotes": [
+     "> 🧪 60db, FunASR / SenseVoice, the Korean UI, and file transcription for local providers are newer than the current stab",
+     "git clone https://github.com/XimilalaXiang/DeLive.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     78
+    ],
+    "note": "SiliconFlow 后端可用的 Qwen Omni 模型，非产品对比",
+    "quotes": [
+     "|**SiliconFlow**|Cloud|Windowed batch|Yes|SenseVoice, TeleSpeech, Qwen Omni|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}
