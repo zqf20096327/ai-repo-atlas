@@ -1,1 +1,79 @@
-{"fn": "shepsci/kaggle-skill", "sha": "a60b28d8af87", "source": "readme", "identity": {"one_liner": "给 AI 编程 agent 用的 Kaggle 集成技能/插件", "review": "面向 Claude Code、Codex 等可加载 SKILL.md 包的编码 agent 的独立 Kaggle 技能与插件：以自然语言查询比赛信息、奖金、指标、获奖方案与讨论，读取个人排名/提交额度，下载比赛数据与数据集，检查提交文件，推送/运行 notebook，提交前先干跑并需用户确认。通过 Kaggle CLI 与 kagglehub 库调用 Kaggle，可接入 Kaggle 官方 MCP 服务器的 71 个远程工具。声明与 Kaggle/Google 无隶属关系；读写操作有白名单与环境变量只读开关，不做沙箱。", "highlights": ["提交/notebook/发布等写操作默认干跑，需用户确认后执行", "KAGGLE_SKILL_READ_ONLY / HIDE_ACCOUNT 环境变量控制只读与隐私", "Kaggle 文本标记为数据以降低隐藏指令注入风险", "支持 Claude Code、Codex、skills.sh（35+ agent）与 OpenClaw 多渠道安装"], "use_cases": ["用对话让编码 agent 查比赛奖金、指标与获奖方案", "跟踪自己在 Kaggle 的排名、提交额度与 GPU 时数", "让 agent 检查并代提交比赛文件（先干跑确认）", "下载比赛数据、推送 notebook 并等待运行结果"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能/插件", "Kaggle", "数据科学竞赛", "MCP", "AI编程agent生态"], "domain": "数据科学竞赛/agent 生态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L12: An independent, unofficial skill and plugin named `kaggle`, for Claude Code,", "L13: Codex and other agents that load `SKILL.md` packages. Not affiliated with,", "L98: |The skill|`SKILL.md` and Python commands under `skills/kaggle/`|The Kaggle credential on your machine|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shepsci/kaggle-skill",
+ "sha": "a60b28d8af87",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 编程 agent 用的 Kaggle 集成技能/插件",
+  "review": "面向 Claude Code、Codex 等可加载 SKILL.md 包的编码 agent 的独立 Kaggle 技能与插件：以自然语言查询比赛信息、奖金、指标、获奖方案与讨论，读取个人排名/提交额度，下载比赛数据与数据集，检查提交文件，推送/运行 notebook，提交前先干跑并需用户确认。通过 Kaggle CLI 与 kagglehub 库调用 Kaggle，可接入 Kaggle 官方 MCP 服务器的 71 个远程工具。声明与 Kaggle/Google 无隶属关系；读写操作有白名单与环境变量只读开关，不做沙箱。",
+  "highlights": [
+   "提交/notebook/发布等写操作默认干跑，需用户确认后执行",
+   "KAGGLE_SKILL_READ_ONLY / HIDE_ACCOUNT 环境变量控制只读与隐私",
+   "Kaggle 文本标记为数据以降低隐藏指令注入风险",
+   "支持 Claude Code、Codex、skills.sh（35+ agent）与 OpenClaw 多渠道安装"
+  ],
+  "use_cases": [
+   "用对话让编码 agent 查比赛奖金、指标与获奖方案",
+   "跟踪自己在 Kaggle 的排名、提交额度与 GPU 时数",
+   "让 agent 检查并代提交比赛文件（先干跑确认）",
+   "下载比赛数据、推送 notebook 并等待运行结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能/插件",
+   "Kaggle",
+   "数据科学竞赛",
+   "MCP",
+   "AI编程agent生态"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: An independent, unofficial skill and plugin named `kaggle`, for Claude Code,",
+   "L13: Codex and other agents that load `SKILL.md` packages. Not affiliated with,",
+   "L98: |The skill|`SKILL.md` and Python commands under `skills/kaggle/`|The Kaggle credential on your machine|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

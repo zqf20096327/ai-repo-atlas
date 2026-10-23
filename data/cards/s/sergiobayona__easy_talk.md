@@ -1,0 +1,58 @@
+# sergiobayona/easy_talk
+
+⭐ 98 · Ruby · MIT · 推送 2026-03-09 · [GitHub](https://github.com/sergiobayona/easy_talk) · 个人维护
+
+**Ruby 数据契约库：一套 DSL 同时生成 JSON Schema 与运行时校验**
+
+面向 Ruby 开发者的结构化数据契约库：用单一 DSL 定义属性与约束（支持 Sorbet 风格类型 T.nilable/T::Array/T::Tuple 与 AnyOf/OneOf/AllOf 组合），从同一份定义生成 JSON Schema（Draft-04 至 2020-12，支持 $id/$ref/$defs）并可选生成 ActiveModel 运行时校验（含嵌套模型与数组内元素）。校验错误可格式化为 flat 列表、JSON Pointer、RFC 7807 与 JSON:API 格式。另提供 RubyLLM 集成，用同一契约生成 LLM 结构化输出 schema 与工具（function calling）参数定义。已知限制：部分 draft 特性需手工调整，复杂组合可能超出自动校验能力。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `None` |  |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 单一 DSL 同时产出 JSON Schema 与 ActiveModel 运行时校验
+- Sorbet 风格类型系统：T.nilable / T::Array / T::Tuple / AnyOf 组合
+- 错误格式化支持 RFC 7807、JSON:API、JSON Pointer、flat 列表
+- RubyLLM 集成：同一契约生成 LLM 结构化输出与工具 schema
+
+## 适用场景
+
+- Rails API 项目用一份定义同时维护文档、OpenAPI 与校验
+- 为 LLM function calling 生成工具参数 JSON Schema
+- 统一 API 校验错误响应格式（RFC 7807 / JSON:API）
+
+## 场景标签
+
+ · 领域:软件开发/数据契约库
+
+## 证据(README 行号)
+
+> L24:  - `json_schema` for docs, OpenAPI, LLM tools, and external validators
+> L53: - **LLM tool/function schemas without a second schema layer**
+> L345: Create LLM tools by inheriting from `RubyLLM::Tool` and including `EasyTalk::Model`:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sergiobayona/easy_talk 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 97 --> 99
+    line [98, 98]
+```
+
+2026-10-18 98 → 2026-10-23 98（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `fb0240516710` · [字段定义](../../DATASET.md)*

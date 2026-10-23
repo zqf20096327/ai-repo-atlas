@@ -1,1 +1,81 @@
-{"fn": "sunreview/GetChatGPTPlusPaper", "sha": "d3ea93720835", "source": "readme", "identity": {"one_liner": "国内用户免国际信用卡充值 ChatGPT Plus 的图文视频教程", "review": "面向已有自有 ChatGPT 账号但没有国际信用卡的中文用户，介绍通过发卡网购买充值卡密、在自助充值系统校验卡密、获取并粘贴账号 Access Token、解析账号并核对邮箱后提交升级的完整流程，共 10 步，附约 1 分钟视频演示。限制：仅适用 Free 状态账号，已是 Plus 的账号无法用此方式续费；提供 30 天订阅质保与微信客服渠道；教程提醒 Token 为敏感凭证。", "highlights": ["10 步卡密 + Token 自助充值流程，附视频演示", "面向 Free 状态的自有账号升级，聊天记录保留", "30 天订阅质保与微信客服支持", "三语 README（中/英/俄）"], "use_cases": ["我没有国际信用卡，想给自己的 ChatGPT 账号升级 Plus", "第一次充值，需要逐步截图教程对照操作", "充值遇到卡密无效或未生效问题时按 FAQ 排查"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://recharge.aigc248.com/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["订阅充值教程", "ChatGPT Plus", "支付方式替代", "中文用户指南"], "domain": "AI 服务订阅/支付教程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文主 README", "面向国内中文用户", "微信客服渠道", "chatgpt-plus-china 标签"]}, "trust": {"confidence": "high", "evidence": ["L5: > 面向国内 / 中文用户的 **ChatGPT Plus 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 ChatGPT 账号**升级 Plus 订阅**。本文整理了从购买卡密、获取账号 Token、提交充值到确认 Plus", "L73: 整个过程可以概括为："], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sunreview/GetChatGPTPlusPaper",
+ "sha": "d3ea93720835",
+ "source": "readme",
+ "identity": {
+  "one_liner": "国内用户免国际信用卡充值 ChatGPT Plus 的图文视频教程",
+  "review": "面向已有自有 ChatGPT 账号但没有国际信用卡的中文用户，介绍通过发卡网购买充值卡密、在自助充值系统校验卡密、获取并粘贴账号 Access Token、解析账号并核对邮箱后提交升级的完整流程，共 10 步，附约 1 分钟视频演示。限制：仅适用 Free 状态账号，已是 Plus 的账号无法用此方式续费；提供 30 天订阅质保与微信客服渠道；教程提醒 Token 为敏感凭证。",
+  "highlights": [
+   "10 步卡密 + Token 自助充值流程，附视频演示",
+   "面向 Free 状态的自有账号升级，聊天记录保留",
+   "30 天订阅质保与微信客服支持",
+   "三语 README（中/英/俄）"
+  ],
+  "use_cases": [
+   "我没有国际信用卡，想给自己的 ChatGPT 账号升级 Plus",
+   "第一次充值，需要逐步截图教程对照操作",
+   "充值遇到卡密无效或未生效问题时按 FAQ 排查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://recharge.aigc248.com/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "订阅充值教程",
+   "ChatGPT Plus",
+   "支付方式替代",
+   "中文用户指南"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文主 README",
+   "面向国内中文用户",
+   "微信客服渠道",
+   "chatgpt-plus-china 标签"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: > 面向国内 / 中文用户的 **ChatGPT Plus 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 ChatGPT 账号**升级 Plus 订阅**。本文整理了从购买卡密、获取账号 Token、提交充值到确认 Plus",
+   "L73: 整个过程可以概括为："
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

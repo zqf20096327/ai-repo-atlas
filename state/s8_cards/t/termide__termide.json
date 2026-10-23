@@ -1,1 +1,83 @@
-{"fn": "termide/termide", "sha": "5be094e05a65", "source": "readme", "identity": {"one_liner": "一体化终端工作区：编辑器/文件管理器/终端/git/数据库与编码 Agent，单一二进制", "review": "用 Rust 编写的 TUI 应用，将代码编辑器（LSP、调试器）、双栏文件管理器（SFTP/FTP）、终端、git 面板、数据库查看器、资源监控与编码 Agent 合并在一个零配置静态二进制中，覆盖 Linux/macOS/Windows/Termux。Agent 支持任意 OpenAI 或 Anthropic 兼容端点（含 llama.cpp/Ollama/vLLM 本地运行时），可运行 Claude Code/Codex/Gemini CLI 等外部 Agent；默认不配置模型，其余功能不依赖 AI。提供 Homebrew/AUR/Nix/安装脚本及预编译包。", "highlights": ["单一静态二进制，SSH 断线后 --detached 保持工作区运行", "编码 Agent：按工具调用授权、计划模式、MCP 服务器、headless JSON 输出", "双栏文件管理器支持 SFTP/FTP/FTPS、压缩包内浏览、加密密码库", "任意 OpenAI/Anthropic 兼容端点接入，含本地 llama.cpp/Ollama/vLLM"], "use_cases": ["在服务器或家用主机上用单一 TUI 完成编码、文件与运维操作", "SSH 环境断线后恢复编辑器与后台任务", "接入本地或托管模型让 Agent 修改代码，可与其他 CLI Agent 并用"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["终端/TUI", "IDE/编辑器", "coding-agent", "远程运维", "homelab"], "domain": "开发工具/终端工作区", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "ollama", "vllm"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本"]}, "trust": {"confidence": "high", "evidence": ["L33: |Built-in Coding Agent (local or hosted models)|✓|✗|plugin|✗|✗|", "L120: **Do I have to use the AI agent?** No. No provider or model is set by default, so the agent does nothing and sends nothi"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "termide/termide",
+ "sha": "5be094e05a65",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一体化终端工作区：编辑器/文件管理器/终端/git/数据库与编码 Agent，单一二进制",
+  "review": "用 Rust 编写的 TUI 应用，将代码编辑器（LSP、调试器）、双栏文件管理器（SFTP/FTP）、终端、git 面板、数据库查看器、资源监控与编码 Agent 合并在一个零配置静态二进制中，覆盖 Linux/macOS/Windows/Termux。Agent 支持任意 OpenAI 或 Anthropic 兼容端点（含 llama.cpp/Ollama/vLLM 本地运行时），可运行 Claude Code/Codex/Gemini CLI 等外部 Agent；默认不配置模型，其余功能不依赖 AI。提供 Homebrew/AUR/Nix/安装脚本及预编译包。",
+  "highlights": [
+   "单一静态二进制，SSH 断线后 --detached 保持工作区运行",
+   "编码 Agent：按工具调用授权、计划模式、MCP 服务器、headless JSON 输出",
+   "双栏文件管理器支持 SFTP/FTP/FTPS、压缩包内浏览、加密密码库",
+   "任意 OpenAI/Anthropic 兼容端点接入，含本地 llama.cpp/Ollama/vLLM"
+  ],
+  "use_cases": [
+   "在服务器或家用主机上用单一 TUI 完成编码、文件与运维操作",
+   "SSH 环境断线后恢复编辑器与后台任务",
+   "接入本地或托管模型让 Agent 修改代码，可与其他 CLI Agent 并用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "终端/TUI",
+   "IDE/编辑器",
+   "coding-agent",
+   "远程运维",
+   "homelab"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L33: |Built-in Coding Agent (local or hosted models)|✓|✗|plugin|✗|✗|",
+   "L120: **Do I have to use the AI agent?** No. No provider or model is set by default, so the agent does nothing and sends nothi"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

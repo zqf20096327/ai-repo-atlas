@@ -34,7 +34,7 @@ Rust 编写的终端与 Web 控制平面，用于并行运行 Claude Code、Code
 
 ## 场景标签
 
- · 领域:开发工具/Agent 控制平面
+`编码 Agent` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 

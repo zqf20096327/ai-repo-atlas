@@ -1,1 +1,76 @@
-{"fn": "sylvaticus/BetaML.jl", "sha": "435f0da5cab1", "source": "readme", "identity": {"one_liner": "Julia 实现的机器学习算法工具包，供教学与研究使用", "review": "纯 Julia 编写的机器学习算法库，模型全部在本仓库内实现而非第三方封装，覆盖感知机、决策树、随机森林、神经网络、混合高斯、K-Means/K-Medoids 聚类、缺失值填补（含随机森林填补）、PCA/自编码器降维、混淆矩阵与特征重要性等。多数模型提供 MLJ 接口，经 juliacall/JuliaCall 也可在 Python 和 R 中使用。定位偏教学与研究而非计算效率：全部模型仅 CPU 运行且数据须装入内存；配套教程文档、算法理论笔记与 JOSS 论文。维护者欢迎贡献，重点接受清晰易读的代码。", "highlights": ["模型全部为纯 Julia 实现，非第三方封装", "覆盖分类/回归/聚类/填补/降维/预测分析等算法族", "提供 MLJ 接口，可经 juliacall/JuliaCall 在 Python/R 中调用", "带详注教程文档与配套算法理论笔记"], "use_cases": ["在 Julia 中完成教学或研究用的机器学习工作流", "从 Python/R 调用纯 Julia 实现的经典 ML 算法", "学习算法内部实现（代码以易读为取向）"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.21105/joss.02849", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器学习库", "Julia", "教学/研究", "经典ML算法"], "domain": "机器学习/科学计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L50: All models are implemented entirely in Julia and are hosted in the repository itself (i.e. they are not wrappers of thir", "L94: The focus of the library is skewed toward user-friendliness rather than computational efficiency. While the code is (rel"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sylvaticus/BetaML.jl",
+ "sha": "435f0da5cab1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Julia 实现的机器学习算法工具包，供教学与研究使用",
+  "review": "纯 Julia 编写的机器学习算法库，模型全部在本仓库内实现而非第三方封装，覆盖感知机、决策树、随机森林、神经网络、混合高斯、K-Means/K-Medoids 聚类、缺失值填补（含随机森林填补）、PCA/自编码器降维、混淆矩阵与特征重要性等。多数模型提供 MLJ 接口，经 juliacall/JuliaCall 也可在 Python 和 R 中使用。定位偏教学与研究而非计算效率：全部模型仅 CPU 运行且数据须装入内存；配套教程文档、算法理论笔记与 JOSS 论文。维护者欢迎贡献，重点接受清晰易读的代码。",
+  "highlights": [
+   "模型全部为纯 Julia 实现，非第三方封装",
+   "覆盖分类/回归/聚类/填补/降维/预测分析等算法族",
+   "提供 MLJ 接口，可经 juliacall/JuliaCall 在 Python/R 中调用",
+   "带详注教程文档与配套算法理论笔记"
+  ],
+  "use_cases": [
+   "在 Julia 中完成教学或研究用的机器学习工作流",
+   "从 Python/R 调用纯 Julia 实现的经典 ML 算法",
+   "学习算法内部实现（代码以易读为取向）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.21105/joss.02849",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习库",
+   "Julia",
+   "教学/研究",
+   "经典ML算法"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L50: All models are implemented entirely in Julia and are hosted in the repository itself (i.e. they are not wrappers of thir",
+   "L94: The focus of the library is skewed toward user-friendliness rather than computational efficiency. While the code is (rel"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

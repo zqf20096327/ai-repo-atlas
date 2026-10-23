@@ -1,1 +1,77 @@
-{"fn": "somastllc/somali-nlp-corpus", "sha": "3976cf27ff96", "source": "readme", "identity": {"one_liner": "索马里语 NLP 语料库与 Rust 数据处理管线，产出训练用 JSONL", "review": "面向索马里语这一低资源语言的开放文本语料库项目：用 Rust 实现的流式管线下载 14 个公共数据集（HPLT、mC4、OPUS、Wikipedia 等），经合并、精确去重、清洗、语言识别、MinHash/LSH 近重去除后产出 8.27 亿词、11.3 亿 subword token 的训练用 JSONL；每条记录携带来源、许可、内容哈希与质量元数据，并按记录自身许可导出 open/non-commercial 两个 Parquet 层。附带 48k 词表 ByteLevel BPE 分词器及可复现训练脚本。语料以 gated 数据集形式发布于 Hugging Face，完整构建约需 45 GB 磁盘。", "highlights": ["14 个公共来源合并去重后产出 791 万文档 / 8.27 亿词的训练就绪 JSONL", "记录级来源、许可、内容哈希与去重元数据，按许可字段导出 open/non-commercial 双层", "48k 词表 ByteLevel BPE 分词器，round-trip fidelity 1.000，含可复现训练与评测脚本", "Rust 流式管线，各阶段留存率与拒绝统计可审计"], "use_cases": ["为索马里语 LLM 预训练或微调获取语料", "研究低资源语言的数据清洗与去重管线", "按商业/非商业许可分层选用语料子集"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语料库", "低资源语言", "数据管线", "分词器", "索马里语"], "domain": "NLP 数据资源/低资源语言", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L8: Somali NLP Corpus downloads public Somali datasets, normalizes and filters their text,", "L9: removes exact and near duplicates, and emits training-ready JSONL. The repository also"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "somastllc/somali-nlp-corpus",
+ "sha": "3976cf27ff96",
+ "source": "readme",
+ "identity": {
+  "one_liner": "索马里语 NLP 语料库与 Rust 数据处理管线，产出训练用 JSONL",
+  "review": "面向索马里语这一低资源语言的开放文本语料库项目：用 Rust 实现的流式管线下载 14 个公共数据集（HPLT、mC4、OPUS、Wikipedia 等），经合并、精确去重、清洗、语言识别、MinHash/LSH 近重去除后产出 8.27 亿词、11.3 亿 subword token 的训练用 JSONL；每条记录携带来源、许可、内容哈希与质量元数据，并按记录自身许可导出 open/non-commercial 两个 Parquet 层。附带 48k 词表 ByteLevel BPE 分词器及可复现训练脚本。语料以 gated 数据集形式发布于 Hugging Face，完整构建约需 45 GB 磁盘。",
+  "highlights": [
+   "14 个公共来源合并去重后产出 791 万文档 / 8.27 亿词的训练就绪 JSONL",
+   "记录级来源、许可、内容哈希与去重元数据，按许可字段导出 open/non-commercial 双层",
+   "48k 词表 ByteLevel BPE 分词器，round-trip fidelity 1.000，含可复现训练与评测脚本",
+   "Rust 流式管线，各阶段留存率与拒绝统计可审计"
+  ],
+  "use_cases": [
+   "为索马里语 LLM 预训练或微调获取语料",
+   "研究低资源语言的数据清洗与去重管线",
+   "按商业/非商业许可分层选用语料子集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语料库",
+   "低资源语言",
+   "数据管线",
+   "分词器",
+   "索马里语"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: Somali NLP Corpus downloads public Somali datasets, normalizes and filters their text,",
+   "L9: removes exact and near duplicates, and emits training-ready JSONL. The repository also"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

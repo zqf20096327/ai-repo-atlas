@@ -1,1 +1,85 @@
-{"fn": "straylabs-ai/deadend-cli", "sha": "1c4632f76ac6", "source": "readme", "identity": {"one_liner": "自主 Web 渗透测试 agent：反馈驱动迭代生成漏洞利用 payload", "review": "面向安全测试人员的自主 Web 应用渗透测试 CLI：采用侦察→利用两阶段流程与 supervisor-subagent 架构，当标准工具失效时生成自定义 Python payload，观察响应并迭代改进直至突破；包含污点分析、源/汇点检测、认证处理与置信度决策机制。通过 LiteLLM 抽象层支持任意兼容 provider（Kimi、Claude、Ollama 等），本地执行，XBOW 104 题验证集上 Kimi K2.5 约 80%。需 Docker，Linux x86_64 / macOS ARM64 提供预编译二进制，处于活跃开发中。", "highlights": ["反馈驱动迭代：工具失败时生成自定义 Python payload 并根据响应精化", "通过 LiteLLM 抽象层支持多家 LLM provider，含本地 Ollama", "本地执行、沙箱化工具（Playwright、Docker、WebAssembly）", "XBOW 104 题验证集黑盒模式约 80%（Kimi K2.5，约 122 美元 API 成本）"], "use_cases": ["对自建 Web 应用自动化开展 SQL 注入、XSS、IDOR 等漏洞测试", "授权渗透测试中自动化生成与验证定制 payload", "在 API 端点上做认证与访问控制安全测试"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [24]}}, "links": {"scenario_tags": ["渗透测试", "agentic-ai", "网络安全", "CLI工具", "自动化安全测试"], "domain": "网络安全/渗透测试", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "deepseek", "ollama", "openrouter"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L35: Deadend CLI is an autonomous web application penetration testing agent that uses feedback-driven iteration to adapt expl", "L39: - Model-agnostic design (works with any deployable LLM)", "L262: Deadend CLI uses LiteLLM for model abstraction, which provides a unified interface to multiple LLM providers. Models fol"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "straylabs-ai/deadend-cli",
+ "sha": "1c4632f76ac6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自主 Web 渗透测试 agent：反馈驱动迭代生成漏洞利用 payload",
+  "review": "面向安全测试人员的自主 Web 应用渗透测试 CLI：采用侦察→利用两阶段流程与 supervisor-subagent 架构，当标准工具失效时生成自定义 Python payload，观察响应并迭代改进直至突破；包含污点分析、源/汇点检测、认证处理与置信度决策机制。通过 LiteLLM 抽象层支持任意兼容 provider（Kimi、Claude、Ollama 等），本地执行，XBOW 104 题验证集上 Kimi K2.5 约 80%。需 Docker，Linux x86_64 / macOS ARM64 提供预编译二进制，处于活跃开发中。",
+  "highlights": [
+   "反馈驱动迭代：工具失败时生成自定义 Python payload 并根据响应精化",
+   "通过 LiteLLM 抽象层支持多家 LLM provider，含本地 Ollama",
+   "本地执行、沙箱化工具（Playwright、Docker、WebAssembly）",
+   "XBOW 104 题验证集黑盒模式约 80%（Kimi K2.5，约 122 美元 API 成本）"
+  ],
+  "use_cases": [
+   "对自建 Web 应用自动化开展 SQL 注入、XSS、IDOR 等漏洞测试",
+   "授权渗透测试中自动化生成与验证定制 payload",
+   "在 API 端点上做认证与访问控制安全测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    24
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "渗透测试",
+   "agentic-ai",
+   "网络安全",
+   "CLI工具",
+   "自动化安全测试"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "ollama",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L35: Deadend CLI is an autonomous web application penetration testing agent that uses feedback-driven iteration to adapt expl",
+   "L39: - Model-agnostic design (works with any deployable LLM)",
+   "L262: Deadend CLI uses LiteLLM for model abstraction, which provides a unified interface to multiple LLM providers. Models fol"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

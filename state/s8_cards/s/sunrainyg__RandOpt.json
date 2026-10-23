@@ -1,1 +1,81 @@
-{"fn": "sunrainyg/RandOpt", "sha": "3fa0784cbead", "source": "readme", "identity": {"one_liner": "ICML 2026 论文 RandOpt 官方代码：围绕预训练权重的多样任务专家后训练方法", "review": "论文 \"Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights\"（Yulu Gan, Phillip Isola）的官方代码库，提出基于黑箱优化/神经进化的 LLM 后训练方法：围绕预训练权重生成多样化任务专家，支持蒸馏 top-k 模型为单一模型，并附基线对比。面向科研复现者，提供 pip 依赖安装、含 vLLM 的 Docker 镜像、Slurm 单/多节点与本地脚本；另在 iterative-randopt 分支提供可 pip 安装、嵌入 verl 或 huggingface/trl 的迭代版本。", "highlights": ["围绕预训练权重生成多样任务专家的后训练方法", "支持将 top-k 模型蒸馏为单一模型", "提供含 vLLM 的 Docker 镜像与 Slurm 单/多节点训练脚本", "iterative-randopt 分支提供可 pip 安装、嵌入 verl/TRL 的实现"], "use_cases": ["复现论文中的 LLM 后训练与蒸馏实验", "在自己的数据集上用 RandOpt 方法后训练模型", "将多个任务专家蒸馏为单一部署模型"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM后训练", "神经进化", "黑箱优化", "模型集成/蒸馏", "论文代码"], "domain": "机器学习研究/LLM 后训练", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: **Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights**", "L34: ### Post-train on your own dataset", "L48: ## Distill top-k models into a single model"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sunrainyg/RandOpt",
+ "sha": "3fa0784cbead",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ICML 2026 论文 RandOpt 官方代码：围绕预训练权重的多样任务专家后训练方法",
+  "review": "论文 \"Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights\"（Yulu Gan, Phillip Isola）的官方代码库，提出基于黑箱优化/神经进化的 LLM 后训练方法：围绕预训练权重生成多样化任务专家，支持蒸馏 top-k 模型为单一模型，并附基线对比。面向科研复现者，提供 pip 依赖安装、含 vLLM 的 Docker 镜像、Slurm 单/多节点与本地脚本；另在 iterative-randopt 分支提供可 pip 安装、嵌入 verl 或 huggingface/trl 的迭代版本。",
+  "highlights": [
+   "围绕预训练权重生成多样任务专家的后训练方法",
+   "支持将 top-k 模型蒸馏为单一模型",
+   "提供含 vLLM 的 Docker 镜像与 Slurm 单/多节点训练脚本",
+   "iterative-randopt 分支提供可 pip 安装、嵌入 verl/TRL 的实现"
+  ],
+  "use_cases": [
+   "复现论文中的 LLM 后训练与蒸馏实验",
+   "在自己的数据集上用 RandOpt 方法后训练模型",
+   "将多个任务专家蒸馏为单一部署模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM后训练",
+   "神经进化",
+   "黑箱优化",
+   "模型集成/蒸馏",
+   "论文代码"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "research-tools",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights**",
+   "L34: ### Post-train on your own dataset",
+   "L48: ## Distill top-k models into a single model"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

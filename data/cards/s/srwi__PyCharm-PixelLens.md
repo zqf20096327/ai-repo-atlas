@@ -33,7 +33,7 @@ JetBrains Marketplace 分发的 PyCharm 插件，在调试器中右键将 NumPy�
 
 ## 场景标签
 
- · 领域:开发工具/调试可视化
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

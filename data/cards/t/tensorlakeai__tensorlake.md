@@ -33,7 +33,7 @@ Tensorlake 是构建 agentic 应用的计算基础设施平台：通过 Sandbox 
 
 ## 场景标签
 
- · 领域:AI 基础设施/云计算
+`Agent 框架` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

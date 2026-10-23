@@ -1,1 +1,75 @@
-{"fn": "rick12000/confopt", "sha": "88806828a60b", "source": "readme", "identity": {"one_liner": "基于保形预测的超参数优化（HPO）Python 库", "review": "面向机器学习从业者的超参数调优库：通过保形不确定性量化与多种代理模型执行贝叶斯优化式搜索。用户以目标函数、IntRange/FloatRange/CategoricalRange 定义的搜索空间初始化 ConformalTuner，调用 tune 运行搜索并取回最优参数与分数。依赖精简，也适用于 HPO 研究方法实验。限制：自身不支持并行化、multi-fidelity 与多目标优化，这两项通过 Optuna 集成提供（multi-fidelity 部分为实验性）。实现了三篇保形 HPO 论文中的代理模型与采集函数。", "highlights": ["ConformalTuner API：定义搜索空间后单次调用 tune 执行保形超参数搜索", "实现三篇论文（arXiv 2022/2023 PMLR/2025）的代理模型与采集函数", "提供 Optuna 集成以补足并行化与 multi-fidelity 优化", "依赖精简，支持 HPO 研究作为附加方法使用"], "use_cases": ["调优 RandomForest 等模型的超参数", "作为 HPO 研究中的纯搜索方法基线或扩展", "在需要并行或 multi-fidelity 时经 Optuna 集成使用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AutoML", "超参数优化", "保形预测", "贝叶斯优化", "机器学习工具库"], "domain": "机器学习/超参数优化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: Built for machine learning practitioners requiring flexible and robust hyperparameter tuning, **ConfOpt** delivers super", "L36: from confopt.tuning import ConformalTuner"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rick12000/confopt",
+ "sha": "88806828a60b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于保形预测的超参数优化（HPO）Python 库",
+  "review": "面向机器学习从业者的超参数调优库：通过保形不确定性量化与多种代理模型执行贝叶斯优化式搜索。用户以目标函数、IntRange/FloatRange/CategoricalRange 定义的搜索空间初始化 ConformalTuner，调用 tune 运行搜索并取回最优参数与分数。依赖精简，也适用于 HPO 研究方法实验。限制：自身不支持并行化、multi-fidelity 与多目标优化，这两项通过 Optuna 集成提供（multi-fidelity 部分为实验性）。实现了三篇保形 HPO 论文中的代理模型与采集函数。",
+  "highlights": [
+   "ConformalTuner API：定义搜索空间后单次调用 tune 执行保形超参数搜索",
+   "实现三篇论文（arXiv 2022/2023 PMLR/2025）的代理模型与采集函数",
+   "提供 Optuna 集成以补足并行化与 multi-fidelity 优化",
+   "依赖精简，支持 HPO 研究作为附加方法使用"
+  ],
+  "use_cases": [
+   "调优 RandomForest 等模型的超参数",
+   "作为 HPO 研究中的纯搜索方法基线或扩展",
+   "在需要并行或 multi-fidelity 时经 Optuna 集成使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AutoML",
+   "超参数优化",
+   "保形预测",
+   "贝叶斯优化",
+   "机器学习工具库"
+  ],
+  "domain": "机器学习/超参数优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Built for machine learning practitioners requiring flexible and robust hyperparameter tuning, **ConfOpt** delivers super",
+   "L36: from confopt.tuning import ConformalTuner"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

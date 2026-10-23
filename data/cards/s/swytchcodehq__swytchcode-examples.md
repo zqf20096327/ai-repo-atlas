@@ -32,7 +32,7 @@ Swytchcode 的官方示例仓库，展示其统一接口与 SDK 如何将自主 
 
 ## 场景标签
 
- · 领域:AI agent 开发/示例集
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,77 @@
-{"fn": "raamana/neuropredict", "sha": "979d525f49e1", "source": "readme", "identity": {"one_liner": "神经影像生物标记的机器学习预测分析工具，产出分类/回归评估报告", "review": "面向神经影像与生物标记研究者（含结构 MRI、功能连接等特征）的预测建模工具：在嵌套交叉验证框架下运行机器学习工作流，支持分类与（v0.6 起）连续目标回归，可在嵌套 CV 内回归掉协变量/混杂因素，支持缺失值插补（遵循 CV 划分避免数据泄漏），内置多种分类器（含 XGBoost、决策树），并通过 CVResults 类管理与输出结果，目标是标准化、可复现的预测能力评估。以 Python 包形式提供，配套文档站点。", "highlights": ["嵌套交叉验证下的分类与回归（连续目标）预测", "在嵌套 CV 内回归掉协变量/混杂因素，遵循最佳实践", "缺失值插补遵循 CV 划分、避免数据泄漏", "CVResults 类管理与输出分类/回归工作流结果"], "use_cases": ["我想评估神经影像特征对疾病分类的预测能力", "需要在 CV 框架内控制年龄等协变量后做回归预测", "希望获得标准化、可复现的生物标记预测分析报告"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.5281/zenodo.1058993", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["神经影像", "机器学习", "生物标记", "交叉验证"], "domain": "神经影像/医学机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: - As of ``v0.6``, **neuropredict now supports regression applications**", "L13:  classes), as well as allow you to **regress out covariates /", "L60: - Major feature: Ability to predict continuous variables (regression)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "raamana/neuropredict",
+ "sha": "979d525f49e1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "神经影像生物标记的机器学习预测分析工具，产出分类/回归评估报告",
+  "review": "面向神经影像与生物标记研究者（含结构 MRI、功能连接等特征）的预测建模工具：在嵌套交叉验证框架下运行机器学习工作流，支持分类与（v0.6 起）连续目标回归，可在嵌套 CV 内回归掉协变量/混杂因素，支持缺失值插补（遵循 CV 划分避免数据泄漏），内置多种分类器（含 XGBoost、决策树），并通过 CVResults 类管理与输出结果，目标是标准化、可复现的预测能力评估。以 Python 包形式提供，配套文档站点。",
+  "highlights": [
+   "嵌套交叉验证下的分类与回归（连续目标）预测",
+   "在嵌套 CV 内回归掉协变量/混杂因素，遵循最佳实践",
+   "缺失值插补遵循 CV 划分、避免数据泄漏",
+   "CVResults 类管理与输出分类/回归工作流结果"
+  ],
+  "use_cases": [
+   "我想评估神经影像特征对疾病分类的预测能力",
+   "需要在 CV 框架内控制年龄等协变量后做回归预测",
+   "希望获得标准化、可复现的生物标记预测分析报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.5281/zenodo.1058993",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经影像",
+   "机器学习",
+   "生物标记",
+   "交叉验证"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: - As of ``v0.6``, **neuropredict now supports regression applications**",
+   "L13:  classes), as well as allow you to **regress out covariates /",
+   "L60: - Major feature: Ability to predict continuous variables (regression)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

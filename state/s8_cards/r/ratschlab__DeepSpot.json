@@ -1,1 +1,75 @@
-{"fn": "ratschlab/DeepSpot", "sha": "c49df5968ebe", "source": "readme", "identity": {"one_liner": "从 H&E 病理图像预测空间转录组的深度学习模型", "review": "DeepSpot 是一个深度学习模型与 Python 工具包，从 H&E 组织病理图像预测空间转录组数据，支持 spot 级（Visium）与单细胞级（Xenium，DeepCell 版本）两种分辨率。机制上采用 deep-set 神经网络，将 spot 建模为子 spot 的集合，结合预训练病理基础模型（UNI/H-optimus-0/Phikon，权重需另行下载）提取特征并整合空间上下文，通过基因预测头输出空间基因表达。提供预训练权重、教程 notebook，并公开发布 3780 例 TCGA 样本、超 5600 万 spots 的预测空间转录组数据（约 7TB，经 Hugging Face 分发）。安装为 git clone 加 conda 环境与 setup.py，需额外安装 pyvips。", "highlights": ["从 H&E 图像预测空间基因表达，支持 Visium spot 级与 Xenium 单细胞级", "基于预训练病理基础模型（UNI/H-optimus-0/Phikon）与空间上下文建模", "提供预训练权重与训练/推理教程 notebook", "公开 3780 例 TCGA、超 5600 万 spots 的预测空间转录组数据"], "use_cases": ["病理切片的虚拟空间转录组生成，无需实际测序", "肿瘤研究中补充 TCGA 等样本的基因表达空间信息", "在 Visium/Xenium 数据上训练或用预训练模型做推断"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["空间转录组", "计算病理学", "数字病理", "深度学习/基础模型", "癌症研究"], "domain": "生物信息学/计算病理学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L42: We introduce DeepSpot, a novel deep-learning model that predicts spatial transcriptomics from H&E images. DeepSpot emplo", "L47: **Workflow of DeepSpot**: H&E slides are first divided into tiles, each corresponding to a spot. For each spot, we creat"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ratschlab/DeepSpot",
+ "sha": "c49df5968ebe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从 H&E 病理图像预测空间转录组的深度学习模型",
+  "review": "DeepSpot 是一个深度学习模型与 Python 工具包，从 H&E 组织病理图像预测空间转录组数据，支持 spot 级（Visium）与单细胞级（Xenium，DeepCell 版本）两种分辨率。机制上采用 deep-set 神经网络，将 spot 建模为子 spot 的集合，结合预训练病理基础模型（UNI/H-optimus-0/Phikon，权重需另行下载）提取特征并整合空间上下文，通过基因预测头输出空间基因表达。提供预训练权重、教程 notebook，并公开发布 3780 例 TCGA 样本、超 5600 万 spots 的预测空间转录组数据（约 7TB，经 Hugging Face 分发）。安装为 git clone 加 conda 环境与 setup.py，需额外安装 pyvips。",
+  "highlights": [
+   "从 H&E 图像预测空间基因表达，支持 Visium spot 级与 Xenium 单细胞级",
+   "基于预训练病理基础模型（UNI/H-optimus-0/Phikon）与空间上下文建模",
+   "提供预训练权重与训练/推理教程 notebook",
+   "公开 3780 例 TCGA、超 5600 万 spots 的预测空间转录组数据"
+  ],
+  "use_cases": [
+   "病理切片的虚拟空间转录组生成，无需实际测序",
+   "肿瘤研究中补充 TCGA 等样本的基因表达空间信息",
+   "在 Visium/Xenium 数据上训练或用预训练模型做推断"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "空间转录组",
+   "计算病理学",
+   "数字病理",
+   "深度学习/基础模型",
+   "癌症研究"
+  ],
+  "domain": "生物信息学/计算病理学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L42: We introduce DeepSpot, a novel deep-learning model that predicts spatial transcriptomics from H&E images. DeepSpot emplo",
+   "L47: **Workflow of DeepSpot**: H&E slides are first divided into tiles, each corresponding to a spot. For each spot, we creat"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

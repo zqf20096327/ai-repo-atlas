@@ -33,7 +33,7 @@ TensorFlow 维护的 Flutter 插件，直接绑定 TFLite C API，提供类似 J
 
 ## 场景标签
 
- · 领域:移动/端侧 ML 推理框架
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

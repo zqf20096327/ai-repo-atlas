@@ -1,1 +1,86 @@
-{"fn": "ranxi2001/zero2Leetcode", "sha": "4a262806683b", "source": "readme", "identity": {"one_liner": "从零基础到算法面试的 Python/LeetCode 学习平台，带 AI 编程教练", "review": "面向校招、社招及转码学习者的在线学习平台：6 阶段课程覆盖 Python 基础、数据结构、核心算法、LeetCode Hot 100 刷题与企业笔试面试备战，附 116 道题的在线练习场与 ACM 模拟 IDE（stdin/stdout、样例判定、Python 断点调试）。Python 经 Pyodide 浏览器内执行，Java 17 经 CheerpJ+ECJ 浏览器内编译，Go 使用官方 Playground，无需本地环境。AI 教练基于 Responses API 的内置服务（默认 Tosky gpt-6-luna），可给提示、诊断代码并生成 Java/Go 转换，自定义服务需支持 CORS 与 SSE。内置服务端到端验证尚未确认通过；Java 支持处于 Preview。", "highlights": ["在线练习场 116 题，Python/Java 17/Go 均在浏览器内编译运行，无需本地环境", "ACM 模拟 IDE 支持 stdin/stdout、期望输出自动判定与 Python 断点调试", "AI 教练读取当前题目与代码上下文，提供提示、诊断与 Java 17/Go 语言转换", "6 阶段学习路线与 LeetCode Hot 100 全部 Python 题解"], "use_cases": ["零基础系统学习 Python 并准备算法笔试面试", "在浏览器内直接刷 LeetCode 核心代码题并验证样例", "训练企业笔试的 ACM 标准输入输出模式", "卡题时向 AI 教练请求提示并用样例验证返回代码"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://www.bilibili.com/video/BV129QmBGE3Q/", "self_declared_early": {"flag": true, "lines": [121, 135]}}, "links": {"scenario_tags": ["算法学习", "刷题平台", "在线编程", "AI编程教练", "面试准备"], "domain": "编程教育/算法学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "Bilibili 视频介绍", "面向国内校招/社招与大厂笔试场景"]}, "trust": {"confidence": "high", "evidence": ["L14: Zero2Leetcode 面向准备校招、社招及转码的学习者，将 Python 基础、数据结构、算法题解、企业笔试真题和面试训练串成一条学习路线。在线练习场与 AI 教练提供代码运行、样例验证和解题指导。", "L58: 默认服务与模型仍为 Tosky `gpt-6-luna`，AI 传输层使用 Responses API：请求 `/responses`，设置 `stream:true`、`store:false`，由客户端携带对话历史。自定义服务必须支持 ", "L60: AI 教练同时用于两个编程页面：在 LeetCode 练习场读取当前题目、语言、核心代码模板与草稿，给出当前语言的提示、诊断或实现；在 ACM 模拟 IDE 读取当前语言、代码、stdin、stdout、期望输出和运行状态，并生成完整的 J"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ranxi2001/zero2Leetcode",
+ "sha": "4a262806683b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从零基础到算法面试的 Python/LeetCode 学习平台，带 AI 编程教练",
+  "review": "面向校招、社招及转码学习者的在线学习平台：6 阶段课程覆盖 Python 基础、数据结构、核心算法、LeetCode Hot 100 刷题与企业笔试面试备战，附 116 道题的在线练习场与 ACM 模拟 IDE（stdin/stdout、样例判定、Python 断点调试）。Python 经 Pyodide 浏览器内执行，Java 17 经 CheerpJ+ECJ 浏览器内编译，Go 使用官方 Playground，无需本地环境。AI 教练基于 Responses API 的内置服务（默认 Tosky gpt-6-luna），可给提示、诊断代码并生成 Java/Go 转换，自定义服务需支持 CORS 与 SSE。内置服务端到端验证尚未确认通过；Java 支持处于 Preview。",
+  "highlights": [
+   "在线练习场 116 题，Python/Java 17/Go 均在浏览器内编译运行，无需本地环境",
+   "ACM 模拟 IDE 支持 stdin/stdout、期望输出自动判定与 Python 断点调试",
+   "AI 教练读取当前题目与代码上下文，提供提示、诊断与 Java 17/Go 语言转换",
+   "6 阶段学习路线与 LeetCode Hot 100 全部 Python 题解"
+  ],
+  "use_cases": [
+   "零基础系统学习 Python 并准备算法笔试面试",
+   "在浏览器内直接刷 LeetCode 核心代码题并验证样例",
+   "训练企业笔试的 ACM 标准输入输出模式",
+   "卡题时向 AI 教练请求提示并用样例验证返回代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.bilibili.com/video/BV129QmBGE3Q/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    121,
+    135
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "算法学习",
+   "刷题平台",
+   "在线编程",
+   "AI编程教练",
+   "面试准备"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Bilibili 视频介绍",
+   "面向国内校招/社招与大厂笔试场景"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: Zero2Leetcode 面向准备校招、社招及转码的学习者，将 Python 基础、数据结构、算法题解、企业笔试真题和面试训练串成一条学习路线。在线练习场与 AI 教练提供代码运行、样例验证和解题指导。",
+   "L58: 默认服务与模型仍为 Tosky `gpt-6-luna`，AI 传输层使用 Responses API：请求 `/responses`，设置 `stream:true`、`store:false`，由客户端携带对话历史。自定义服务必须支持 ",
+   "L60: AI 教练同时用于两个编程页面：在 LeetCode 练习场读取当前题目、语言、核心代码模板与草稿，给出当前语言的提示、诊断或实现；在 ACM 模拟 IDE 读取当前语言、代码、stdin、stdout、期望输出和运行状态，并生成完整的 J"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

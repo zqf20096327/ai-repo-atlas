@@ -34,7 +34,7 @@ PyGPT 是面向 Linux/Windows/macOS 的开源桌面 AI 助手，以 Python 编�
 
 ## 场景标签
 
- · 领域:桌面 AI 应用
+`AI 助手` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 

@@ -1,1 +1,80 @@
-{"fn": "theexperiencecompany/gaia", "sha": "db9fd97ca798", "source": "readme", "identity": {"one_liner": "开源个人 AI 助理：自动处理邮件、日历与跨应用事务", "review": "面向个人用户的全天候 AI 助理：接入 Gmail 后每日分诊收件箱并起草回复，接入日历后生成会前简报与提醒；通过 iMessage、WhatsApp、Telegram、Slack、Discord 及网页/桌面/移动端对话。支持自然语言生成定时或事件触发的工作流、记忆管理、语音唤醒、沙箱代码执行、浏览器操作与 MCP 工具接入。提供云端服务与 Docker 自托管两种使用方式；自托管需 Docker（Engine 20.10+、Compose v2+）与 Node.js 20+，并运行 Postgres、Mongo、Redis、ChromaDB、RabbitMQ 等基础设施。许可为 PolyForm Noncommercial，商用需企业许可。", "highlights": ["接入工具即自动运行的主动式工作流（邮件分诊、会前简报、会议提醒）", "自然语言描述即可生成定时/事件触发的跨工具自动化", "三层 agent 架构：通信 agent 只委派，各集成专属 agent 并行执行", "MCP 协议接入任意工具，gaia bridge 连接本地电脑文件与工具"], "use_cases": ["让 AI 每天早晨分诊邮件、起草回复并汇总待办", "会前自动研究参会人与议题生成简报", "用自然语言创建定时/事件驱动的跨应用自动化任务", "通过聊天软件（iMessage/WhatsApp/Telegram 等）随时指挥助理完成任务"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://heygaia.io", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["个人助理", "自动化/工作流", "邮件日历处理", "多平台聊天", "自托管"], "domain": "个人生产力/AI 助理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: GAIA is a personal AI assistant that can automate your whole day. Connect Gmail and it triages your inbox every morning,", "L26: - **Proactive** — connect a tool and jobs start running on their own, no setup", "L108: - **\"Summarise my 47 unread emails and draft replies for the 3 that need one.\"** Reads every thread end to end, ranks by"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "theexperiencecompany/gaia",
+ "sha": "db9fd97ca798",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源个人 AI 助理：自动处理邮件、日历与跨应用事务",
+  "review": "面向个人用户的全天候 AI 助理：接入 Gmail 后每日分诊收件箱并起草回复，接入日历后生成会前简报与提醒；通过 iMessage、WhatsApp、Telegram、Slack、Discord 及网页/桌面/移动端对话。支持自然语言生成定时或事件触发的工作流、记忆管理、语音唤醒、沙箱代码执行、浏览器操作与 MCP 工具接入。提供云端服务与 Docker 自托管两种使用方式；自托管需 Docker（Engine 20.10+、Compose v2+）与 Node.js 20+，并运行 Postgres、Mongo、Redis、ChromaDB、RabbitMQ 等基础设施。许可为 PolyForm Noncommercial，商用需企业许可。",
+  "highlights": [
+   "接入工具即自动运行的主动式工作流（邮件分诊、会前简报、会议提醒）",
+   "自然语言描述即可生成定时/事件触发的跨工具自动化",
+   "三层 agent 架构：通信 agent 只委派，各集成专属 agent 并行执行",
+   "MCP 协议接入任意工具，gaia bridge 连接本地电脑文件与工具"
+  ],
+  "use_cases": [
+   "让 AI 每天早晨分诊邮件、起草回复并汇总待办",
+   "会前自动研究参会人与议题生成简报",
+   "用自然语言创建定时/事件驱动的跨应用自动化任务",
+   "通过聊天软件（iMessage/WhatsApp/Telegram 等）随时指挥助理完成任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://heygaia.io",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人助理",
+   "自动化/工作流",
+   "邮件日历处理",
+   "多平台聊天",
+   "自托管"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: GAIA is a personal AI assistant that can automate your whole day. Connect Gmail and it triages your inbox every morning,",
+   "L26: - **Proactive** — connect a tool and jobs start running on their own, no setup",
+   "L108: - **\"Summarise my 47 unread emails and draft replies for the 3 that need one.\"** Reads every thread end to end, ranks by"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

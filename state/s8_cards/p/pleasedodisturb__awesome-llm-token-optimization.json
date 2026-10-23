@@ -1,1 +1,77 @@
-{"fn": "pleasedodisturb/awesome-llm-token-optimization", "sha": "11b3e49e2604", "source": "readme", "identity": {"one_liner": "降低 LLM token 成本的策略/工具/论文策展清单", "review": "面向生产环境 LLM 应用的成本优化资源清单：按提示缓存、批量 API、模型路由、提示压缩、上下文窗口管理等主题组织，收录各厂商（Anthropic/OpenAI/Google/DeepSeek）官方文档、开源工具（LLMLingua、LiteLLM、RouteLLM 等）、研究论文与教程，并给出按投入产出比排序的快速策略表与组合管线示例（宣称 95-99% 成本降幅为清单转述数据）。本仓库为纯清单，不提供可安装运行的软件本体。", "highlights": ["覆盖提示缓存、批量 API、模型路由、提示压缩、上下文管理五大主题", "收录 Anthropic/OpenAI/Google/DeepSeek 各家缓存与批量 API 官方文档", "Quick Wins 表按节省幅度与实施成本对策略排序", "含无损压缩原则（Strip/Preserve/Transform/Split）说明"], "use_cases": ["为 LLM 应用查找降本策略与对应工具", "了解各家厂商提示缓存与批量 API 的定价规则", "按主题检索提示压缩与上下文管理的论文和教程"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "LLM成本优化", "提示压缩", "推理优化", "上下文工程"], "domain": "LLM 基础设施/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: > A curated list of strategies, tools, papers, and resources for reducing LLM token costs and improving efficiency in pr", "L5: Building with LLMs is expensive. An agent processing 10 reasoning steps can consume 50K-100K tokens per task. This list "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pleasedodisturb/awesome-llm-token-optimization",
+ "sha": "11b3e49e2604",
+ "source": "readme",
+ "identity": {
+  "one_liner": "降低 LLM token 成本的策略/工具/论文策展清单",
+  "review": "面向生产环境 LLM 应用的成本优化资源清单：按提示缓存、批量 API、模型路由、提示压缩、上下文窗口管理等主题组织，收录各厂商（Anthropic/OpenAI/Google/DeepSeek）官方文档、开源工具（LLMLingua、LiteLLM、RouteLLM 等）、研究论文与教程，并给出按投入产出比排序的快速策略表与组合管线示例（宣称 95-99% 成本降幅为清单转述数据）。本仓库为纯清单，不提供可安装运行的软件本体。",
+  "highlights": [
+   "覆盖提示缓存、批量 API、模型路由、提示压缩、上下文管理五大主题",
+   "收录 Anthropic/OpenAI/Google/DeepSeek 各家缓存与批量 API 官方文档",
+   "Quick Wins 表按节省幅度与实施成本对策略排序",
+   "含无损压缩原则（Strip/Preserve/Transform/Split）说明"
+  ],
+  "use_cases": [
+   "为 LLM 应用查找降本策略与对应工具",
+   "了解各家厂商提示缓存与批量 API 的定价规则",
+   "按主题检索提示压缩与上下文管理的论文和教程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "LLM成本优化",
+   "提示压缩",
+   "推理优化",
+   "上下文工程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > A curated list of strategies, tools, papers, and resources for reducing LLM token costs and improving efficiency in pr",
+   "L5: Building with LLMs is expensive. An agent processing 10 reasoning steps can consume 50K-100K tokens per task. This list "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

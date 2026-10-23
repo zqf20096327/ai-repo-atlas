@@ -1,1 +1,77 @@
-{"fn": "synsense/sinabs", "sha": "5342432e7c70", "source": "readme", "identity": {"one_liner": "基于 PyTorch 的脉冲神经网络库，支持神经形态硬件部署", "review": "Sinabs 是一个用于开发与实现脉冲卷积神经网络（SCNN）的 Python 库，基于 PyTorch，实现了多种 CNN 层的脉冲等效层，并支持将 torch 实现的 CNN 模型导入以测试其脉冲等效实现。项目由 SynSense（前 aiCTX AG）管理；并入的 sinabs-dynapcnn 支持将模型移植到采用 DYNAP-CNN 技术的芯片与开发套件。通过 pip/conda 安装，文档托管于 readthedocs，采用 Apache v2.0 许可。", "highlights": ["提供 CNN 层的脉冲（spiking）等效层实现", "支持导入 torch CNN 模型测试脉冲等效实现", "sinabs-dynapcnn 支持移植模型到 DYNAP-CNN 芯片与开发套件"], "use_cases": ["构建与训练脉冲卷积神经网络", "将已有 PyTorch CNN 模型转换为脉冲等效实现", "把 SNN 模型部署到 DYNAP-CNN 神经形态硬件"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://sinabs.readthedocs.io/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["脉冲神经网络", "神经形态计算", "深度学习库", "PyTorch"], "domain": "神经形态计算/深度学习库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: Sinabs (Sinabs Is Not A Brain Simulator) is a python library for the development and implementation of Spiking Convoluti", "L9: The library implements several layers that are `spiking` equivalents of CNN layers.", "L13: The `sinabs-dynapcnn` was incorporated to this project, and it enables porting sinabs models to chips and dev-kits with "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "synsense/sinabs",
+ "sha": "5342432e7c70",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 PyTorch 的脉冲神经网络库，支持神经形态硬件部署",
+  "review": "Sinabs 是一个用于开发与实现脉冲卷积神经网络（SCNN）的 Python 库，基于 PyTorch，实现了多种 CNN 层的脉冲等效层，并支持将 torch 实现的 CNN 模型导入以测试其脉冲等效实现。项目由 SynSense（前 aiCTX AG）管理；并入的 sinabs-dynapcnn 支持将模型移植到采用 DYNAP-CNN 技术的芯片与开发套件。通过 pip/conda 安装，文档托管于 readthedocs，采用 Apache v2.0 许可。",
+  "highlights": [
+   "提供 CNN 层的脉冲（spiking）等效层实现",
+   "支持导入 torch CNN 模型测试脉冲等效实现",
+   "sinabs-dynapcnn 支持移植模型到 DYNAP-CNN 芯片与开发套件"
+  ],
+  "use_cases": [
+   "构建与训练脉冲卷积神经网络",
+   "将已有 PyTorch CNN 模型转换为脉冲等效实现",
+   "把 SNN 模型部署到 DYNAP-CNN 神经形态硬件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://sinabs.readthedocs.io/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "脉冲神经网络",
+   "神经形态计算",
+   "深度学习库",
+   "PyTorch"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Sinabs (Sinabs Is Not A Brain Simulator) is a python library for the development and implementation of Spiking Convoluti",
+   "L9: The library implements several layers that are `spiking` equivalents of CNN layers.",
+   "L13: The `sinabs-dynapcnn` was incorporated to this project, and it enables porting sinabs models to chips and dev-kits with "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

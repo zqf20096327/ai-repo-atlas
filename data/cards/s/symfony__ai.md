@@ -33,7 +33,7 @@ Symfony 官方维护的 PHP AI 组件库，提供 Agent（构建可与用户交�
 
 ## 场景标签
 
- · 领域:Web 开发/AI 集成框架
+`Agent 框架` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

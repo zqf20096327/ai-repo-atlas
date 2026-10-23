@@ -1,1 +1,80 @@
-{"fn": "surya-koritala/Glyd", "sha": "c8d7b6972a73", "source": "readme", "identity": {"one_liner": "给 LLM 推理用户的无损压缩运行时：省约三成 GPU 显存", "review": "Glyd 将 bf16 模型权重与 KV cache 以更少位数驻留 GPU 显存，并在模型运行时逐位重建原值（权重与 KV 均可读回精确 bf16；exact=True 可得到与 bf16 完全一致的 logits）。释放的显存可用于更长上下文或更多并发请求。提供 CLI（glyd run 直接对话）与 Python API（glyd.from_pretrained），支持 vLLM 集成（--quantization glyd），另有有损低位变体（:kestrel 6.5 bits、:swift 5.5 bits）。底层是带 C ABI 的 Rust 无损压缩库，可作 LZ4/Snappy/zstd 替代。限制：需 Linux + NVIDIA GPU（Ampere 及以后，驱动 580+），v2.29.0 起整体为 BUSL-1.1 许可。", "highlights": ["bf16 权重与 KV cache 逐位无损重建，输出与 bf16 logits 一致（exact=True）", "支持 vLLM（--quantization glyd）与 Python API 两种接入方式", "CLI 直接运行 HuggingFace 模型并提供终端对话，另有 6.5/5.5 bits 有损变体", "Rust + C ABI 的通用无损压缩库，含 typed columns（-r）与 delta（--base）模式"], "use_cases": ["在单张 24GB 消费级显卡上跑更大模型或更长上下文", "推理服务在同等 GPU 上容纳更长上下文（如 18 万 token）或更多并发", "作为 LZ4/Snappy/zstd 的替代压缩日志与表格转储文件"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://getglyd.com/docs", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["模型推理", "GPU显存优化", "无损压缩", "KV cache", "vLLM生态"], "domain": "LLM 推理基础设施/压缩", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: Glyd keeps a bf16 model's weights and KV cache in fewer bits in GPU memory and rebuilds the exact values", "L20: With vLLM, or in Python:", "L24: vllm serve Qwen/Qwen3.5-9B --quantization glyd"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "surya-koritala/Glyd",
+ "sha": "c8d7b6972a73",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 LLM 推理用户的无损压缩运行时：省约三成 GPU 显存",
+  "review": "Glyd 将 bf16 模型权重与 KV cache 以更少位数驻留 GPU 显存，并在模型运行时逐位重建原值（权重与 KV 均可读回精确 bf16；exact=True 可得到与 bf16 完全一致的 logits）。释放的显存可用于更长上下文或更多并发请求。提供 CLI（glyd run 直接对话）与 Python API（glyd.from_pretrained），支持 vLLM 集成（--quantization glyd），另有有损低位变体（:kestrel 6.5 bits、:swift 5.5 bits）。底层是带 C ABI 的 Rust 无损压缩库，可作 LZ4/Snappy/zstd 替代。限制：需 Linux + NVIDIA GPU（Ampere 及以后，驱动 580+），v2.29.0 起整体为 BUSL-1.1 许可。",
+  "highlights": [
+   "bf16 权重与 KV cache 逐位无损重建，输出与 bf16 logits 一致（exact=True）",
+   "支持 vLLM（--quantization glyd）与 Python API 两种接入方式",
+   "CLI 直接运行 HuggingFace 模型并提供终端对话，另有 6.5/5.5 bits 有损变体",
+   "Rust + C ABI 的通用无损压缩库，含 typed columns（-r）与 delta（--base）模式"
+  ],
+  "use_cases": [
+   "在单张 24GB 消费级显卡上跑更大模型或更长上下文",
+   "推理服务在同等 GPU 上容纳更长上下文（如 18 万 token）或更多并发",
+   "作为 LZ4/Snappy/zstd 的替代压缩日志与表格转储文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://getglyd.com/docs",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型推理",
+   "GPU显存优化",
+   "无损压缩",
+   "KV cache",
+   "vLLM生态"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Glyd keeps a bf16 model's weights and KV cache in fewer bits in GPU memory and rebuilds the exact values",
+   "L20: With vLLM, or in Python:",
+   "L24: vllm serve Qwen/Qwen3.5-9B --quantization glyd"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

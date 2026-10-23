@@ -1,1 +1,78 @@
-{"fn": "syahiidkamil/Software-Engineer-AI-Agent-Atlas", "sha": "d497a5db1ce8", "source": "readme", "identity": {"one_liner": "给 Claude Code 加装资深工程师层的技能与子代理模板", "review": "面向 Claude Code 的开源模板：一组精选 skills、subagents、斜杠命令与工程规范，覆盖构建前的探索（HTML 线框图、可点击 React 原型、设计变体）、关键问题澄清（/plan:create-phase 定向问答）与 HTML 单文件阶段文档，随后交由 Claude Code 原生 plan/goal/workflow 循环执行。提供 Vanilla/Collaborative/Autonomous 三种 CLAUDE.md 模式，autonomous 模式安装 free-will 等技能在关键决策点自行取舍并记录到 docs/decision_logs/。通过 npx 脚手架或 git clone 安装。", "highlights": ["HTML 线框图/多屏原型在设计阶段可视化验证", "free-will 技能在高风险决策点保持备选、取证、反驳后记录决策日志", "三种 CLAUDE.md 模式（Vanilla/Collaborative/Autonomous）", "17 个技能与七个工程角色定义"], "use_cases": ["让 Claude Code 按资深工程师规范推进项目", "写代码前先用线框图和原型对齐要做什么", "无人值守模式下一次性构建应用并留存决策轨迹"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Claude Code 模板", "AI 编码助手", "agent 技能/子代理", "软件工程流程"], "domain": "开发者工具/AI 编码", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: ATLAS is an open-source **Claude Code template**: a curated set of skills, subagents, slash commands, and engineering co", "L9: > The senior-engineer layer for Claude Code. Explore before you build, clarify only what matters, capture it in living H"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "syahiidkamil/Software-Engineer-AI-Agent-Atlas",
+ "sha": "d497a5db1ce8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 Claude Code 加装资深工程师层的技能与子代理模板",
+  "review": "面向 Claude Code 的开源模板：一组精选 skills、subagents、斜杠命令与工程规范，覆盖构建前的探索（HTML 线框图、可点击 React 原型、设计变体）、关键问题澄清（/plan:create-phase 定向问答）与 HTML 单文件阶段文档，随后交由 Claude Code 原生 plan/goal/workflow 循环执行。提供 Vanilla/Collaborative/Autonomous 三种 CLAUDE.md 模式，autonomous 模式安装 free-will 等技能在关键决策点自行取舍并记录到 docs/decision_logs/。通过 npx 脚手架或 git clone 安装。",
+  "highlights": [
+   "HTML 线框图/多屏原型在设计阶段可视化验证",
+   "free-will 技能在高风险决策点保持备选、取证、反驳后记录决策日志",
+   "三种 CLAUDE.md 模式（Vanilla/Collaborative/Autonomous）",
+   "17 个技能与七个工程角色定义"
+  ],
+  "use_cases": [
+   "让 Claude Code 按资深工程师规范推进项目",
+   "写代码前先用线框图和原型对齐要做什么",
+   "无人值守模式下一次性构建应用并留存决策轨迹"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 模板",
+   "AI 编码助手",
+   "agent 技能/子代理",
+   "软件工程流程"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: ATLAS is an open-source **Claude Code template**: a curated set of skills, subagents, slash commands, and engineering co",
+   "L9: > The senior-engineer layer for Claude Code. Explore before you build, clarify only what matters, capture it in living H"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

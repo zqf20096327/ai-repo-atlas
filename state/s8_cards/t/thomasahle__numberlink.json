@@ -1,1 +1,75 @@
-{"fn": "thomasahle/numberlink", "sha": "d1036113f8eb", "source": "readme", "identity": {"one_liner": "生成与求解 Numberlink/Flow Free 谜题的命令行程序", "review": "由 Thomas Dybdahl Ahle 编写的 Numberlink（Arukone/Flow Free）谜题求解与生成程序：Go 编写的求解器从标准输入读取谜题并输出解答或 IMPOSSIBLE，采用按对角线系统填充的重度剪枝回溯搜索（部分链、corner dual 表示、乐观验证），可处理 40x40 规模实例；另附 Python 脚本 gen.py 生成大尺寸谜题，可控制数字对数量。程序假定谜题唯一解，不能用于验证解的唯一性。", "highlights": ["Go 求解器从 stdin 读取谜题并输出解答", "重度剪枝回溯（部分链、corner dual、乐观验证）求解 40x40 实例", "Python 脚本生成大尺寸谜题，可配置数字对数量", "遵循 Affero GPL3，要求生成的谜题注明出处"], "use_cases": ["求解或生成大尺寸 Numberlink/Flow Free 谜题", "批量处理 Janko.at 等谜题集", "为网站或书籍生成可发布的谜题"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["谜题求解", "回溯搜索算法", "命令行工具", "游戏/益智"], "domain": "算法工具/谜题", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Numberlink is a very fast program for generating and solving large instances of the puzzle Numberlink / Arukone / Nanbar", "L14: The python code in `gen/gen.py` can be used to generate very large puzzles. To create such puzzles, simply run the scrip", "L39:  $ go install github.com/thomasahle/numberlink@latest"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thomasahle/numberlink",
+ "sha": "d1036113f8eb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "生成与求解 Numberlink/Flow Free 谜题的命令行程序",
+  "review": "由 Thomas Dybdahl Ahle 编写的 Numberlink（Arukone/Flow Free）谜题求解与生成程序：Go 编写的求解器从标准输入读取谜题并输出解答或 IMPOSSIBLE，采用按对角线系统填充的重度剪枝回溯搜索（部分链、corner dual 表示、乐观验证），可处理 40x40 规模实例；另附 Python 脚本 gen.py 生成大尺寸谜题，可控制数字对数量。程序假定谜题唯一解，不能用于验证解的唯一性。",
+  "highlights": [
+   "Go 求解器从 stdin 读取谜题并输出解答",
+   "重度剪枝回溯（部分链、corner dual、乐观验证）求解 40x40 实例",
+   "Python 脚本生成大尺寸谜题，可配置数字对数量",
+   "遵循 Affero GPL3，要求生成的谜题注明出处"
+  ],
+  "use_cases": [
+   "求解或生成大尺寸 Numberlink/Flow Free 谜题",
+   "批量处理 Janko.at 等谜题集",
+   "为网站或书籍生成可发布的谜题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "谜题求解",
+   "回溯搜索算法",
+   "命令行工具",
+   "游戏/益智"
+  ],
+  "domain": "算法工具/谜题",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Numberlink is a very fast program for generating and solving large instances of the puzzle Numberlink / Arukone / Nanbar",
+   "L14: The python code in `gen/gen.py` can be used to generate very large puzzles. To create such puzzles, simply run the scrip",
+   "L39:  $ go install github.com/thomasahle/numberlink@latest"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

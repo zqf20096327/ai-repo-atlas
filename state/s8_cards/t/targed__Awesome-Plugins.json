@@ -1,1 +1,76 @@
-{"fn": "targed/Awesome-Plugins", "sha": "7faa92415e39", "source": "readme", "identity": {"one_liner": "ChatGPT 及 GPT 兼容模型插件清单，附插件可用性状态页", "review": "面向 ChatGPT 插件生态的策展清单仓库，按仓库描述收录插件、附加组件与扩展，并提供提交入口与插件详情链接。README 实际内容为基于 Upptime 的开源可用性监控状态页：通过 GitHub Issues、Actions 与 Pages 运行，以表格列出各被监控插件（如 Algorithma、Binance、Coursera 等）的上下行状态、响应时间与多个时间窗口的可用率。插件清单本体与描述细节不在当前 README 可见范围内。", "highlights": ["收录 ChatGPT 及 GPT 架构兼容模型的插件/扩展清单", "提供插件提交入口与详情页链接", "基于 Upptime 的插件可用性监控状态页（状态/响应时间/可用率）"], "use_cases": ["查找 ChatGPT 可用的插件与扩展", "查看已收录插件当前是否可访问及其历史可用率", "向清单提交新发现的插件"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["插件清单", "ChatGPT生态", "状态监控", "awesome列表"], "domain": "AI 工具/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L5: Submit a plugin you find to this list **here**", "L15: With Upptime, you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repos", "L17: |URL|Status|History|Response Time|Uptime|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "targed/Awesome-Plugins",
+ "sha": "7faa92415e39",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ChatGPT 及 GPT 兼容模型插件清单，附插件可用性状态页",
+  "review": "面向 ChatGPT 插件生态的策展清单仓库，按仓库描述收录插件、附加组件与扩展，并提供提交入口与插件详情链接。README 实际内容为基于 Upptime 的开源可用性监控状态页：通过 GitHub Issues、Actions 与 Pages 运行，以表格列出各被监控插件（如 Algorithma、Binance、Coursera 等）的上下行状态、响应时间与多个时间窗口的可用率。插件清单本体与描述细节不在当前 README 可见范围内。",
+  "highlights": [
+   "收录 ChatGPT 及 GPT 架构兼容模型的插件/扩展清单",
+   "提供插件提交入口与详情页链接",
+   "基于 Upptime 的插件可用性监控状态页（状态/响应时间/可用率）"
+  ],
+  "use_cases": [
+   "查找 ChatGPT 可用的插件与扩展",
+   "查看已收录插件当前是否可访问及其历史可用率",
+   "向清单提交新发现的插件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "插件清单",
+   "ChatGPT生态",
+   "状态监控",
+   "awesome列表"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L5: Submit a plugin you find to this list **here**",
+   "L15: With Upptime, you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repos",
+   "L17: |URL|Status|History|Response Time|Uptime|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

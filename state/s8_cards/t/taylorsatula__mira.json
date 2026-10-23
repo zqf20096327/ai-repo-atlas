@@ -1,1 +1,80 @@
-{"fn": "taylorsatula/mira", "sha": "4b8a9aa16918", "source": "readme", "identity": {"one_liner": "持续在线的个人 AI 助手，带长期记忆与自我行为调适", "review": "自托管的持续数字实体：单一永久会话线程，旧对话段折叠为第一人称记忆摘要，活跃上下文通过滚动简报压缩。记忆按使用日衰减并按访问与关联保留，经语义相似度、实体枢纽与重排被动载入上下文。内置 Subcortical 前置检索层与 Peanut Gallery 元认知观察层，以及基于对话评估的 'Text-Based LoRA' 行为适应循环（信号存于 PostgreSQL）。提供浏览器与终端聊天客户端、约 17 个内置工具与文件系统工具自注册机制。AGPL-3.0 许可，另有 miraos.org 托管版。", "highlights": ["永久单会话线程 + 对话段折叠为第一人称记忆摘要", "按使用日衰减、免人工整理的记忆系统（语义检索/实体枢纽/重排）", "Subcortical 前置检索与 Peanut Gallery 元认知观察两层机制", "工具从文件系统自注册，invokeother_tool 按需启用临时工具"], "use_cases": ["运行一个长期记得我偏好与历史对话的个人 AI 助手", "通过 Email、Home Assistant、日历提醒等工具接入日常事务", "自托管并按 HOW_TO_BUILD_A_TOOL.md 扩展自定义工具"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://miraos.org", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI助手/Agent", "长期记忆", "上下文管理", "自托管", "个人助理"], "domain": "AI 助手/记忆系统", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: Mira accomplishes the end goal of continuity and recall through a blend of asynchronous conversation processing akin to ", "L22: Memories are discrete synthesized information that is passively loaded into the context window through semantic similari", "L90: I decided to release MIRA as open source technology because I believe that what I’ve built here has the potential to som"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "taylorsatula/mira",
+ "sha": "4b8a9aa16918",
+ "source": "readme",
+ "identity": {
+  "one_liner": "持续在线的个人 AI 助手，带长期记忆与自我行为调适",
+  "review": "自托管的持续数字实体：单一永久会话线程，旧对话段折叠为第一人称记忆摘要，活跃上下文通过滚动简报压缩。记忆按使用日衰减并按访问与关联保留，经语义相似度、实体枢纽与重排被动载入上下文。内置 Subcortical 前置检索层与 Peanut Gallery 元认知观察层，以及基于对话评估的 'Text-Based LoRA' 行为适应循环（信号存于 PostgreSQL）。提供浏览器与终端聊天客户端、约 17 个内置工具与文件系统工具自注册机制。AGPL-3.0 许可，另有 miraos.org 托管版。",
+  "highlights": [
+   "永久单会话线程 + 对话段折叠为第一人称记忆摘要",
+   "按使用日衰减、免人工整理的记忆系统（语义检索/实体枢纽/重排）",
+   "Subcortical 前置检索与 Peanut Gallery 元认知观察两层机制",
+   "工具从文件系统自注册，invokeother_tool 按需启用临时工具"
+  ],
+  "use_cases": [
+   "运行一个长期记得我偏好与历史对话的个人 AI 助手",
+   "通过 Email、Home Assistant、日历提醒等工具接入日常事务",
+   "自托管并按 HOW_TO_BUILD_A_TOOL.md 扩展自定义工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://miraos.org",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI助手/Agent",
+   "长期记忆",
+   "上下文管理",
+   "自托管",
+   "个人助理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "agent-memory",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Mira accomplishes the end goal of continuity and recall through a blend of asynchronous conversation processing akin to ",
+   "L22: Memories are discrete synthesized information that is passively loaded into the context window through semantic similari",
+   "L90: I decided to release MIRA as open source technology because I believe that what I’ve built here has the potential to som"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

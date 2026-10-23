@@ -1,1 +1,73 @@
-{"fn": "supabase/supabase-py", "sha": "d7956f195503", "source": "readme", "identity": {"one_liner": "Supabase 官方 Python 客户端 monorepo：数据库、认证、存储、实时", "review": "Supabase 各 Python 库的 monorepo，包含 supabase 主客户端、realtime-py、supabase_functions、storage3、postgrest、supabase_auth 六个子包，覆盖 Postgres 查询、用户认证、Edge Functions 调用、文件存储与实时数据流，可在 Flask、Django、FastAPI 中使用。开发依赖 uv、make、docker 与 supabase-cli（用于测试容器），支持 nix 环境；测试通过 make ci 并行调度各子包。README 仅覆盖本地开发流程，未展示最终用户安装命令。", "highlights": ["六个子包覆盖数据库、认证、存储、实时、Edge Functions", "支持 Flask/Django/FastAPI 集成（GitHub OAuth、数据加载示例）", "uv 工作区 + make + docker 测试容器的开发流程，支持 nix"], "use_cases": ["在 Flask/Django/FastAPI 项目中查询 Postgres 与管理用户认证", "Python 应用接入 Supabase 存储、实时数据流与 Edge Functions", "为 Supabase 各 Python 子包贡献代码与运行测试"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据库客户端", "BaaS SDK", "认证/存储", "实时数据"], "domain": "后端服务/数据库 SDK", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: Python monorepo for all Supabase libraries.", "L9: - supabase"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "supabase/supabase-py",
+ "sha": "d7956f195503",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Supabase 官方 Python 客户端 monorepo：数据库、认证、存储、实时",
+  "review": "Supabase 各 Python 库的 monorepo，包含 supabase 主客户端、realtime-py、supabase_functions、storage3、postgrest、supabase_auth 六个子包，覆盖 Postgres 查询、用户认证、Edge Functions 调用、文件存储与实时数据流，可在 Flask、Django、FastAPI 中使用。开发依赖 uv、make、docker 与 supabase-cli（用于测试容器），支持 nix 环境；测试通过 make ci 并行调度各子包。README 仅覆盖本地开发流程，未展示最终用户安装命令。",
+  "highlights": [
+   "六个子包覆盖数据库、认证、存储、实时、Edge Functions",
+   "支持 Flask/Django/FastAPI 集成（GitHub OAuth、数据加载示例）",
+   "uv 工作区 + make + docker 测试容器的开发流程，支持 nix"
+  ],
+  "use_cases": [
+   "在 Flask/Django/FastAPI 项目中查询 Postgres 与管理用户认证",
+   "Python 应用接入 Supabase 存储、实时数据流与 Edge Functions",
+   "为 Supabase 各 Python 子包贡献代码与运行测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据库客户端",
+   "BaaS SDK",
+   "认证/存储",
+   "实时数据"
+  ],
+  "domain": "后端服务/数据库 SDK",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Python monorepo for all Supabase libraries.",
+   "L9: - supabase"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

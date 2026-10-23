@@ -1,1 +1,79 @@
-{"fn": "tensorlakeai/tensorlake", "sha": "d5be0a670bcd", "source": "readme", "identity": {"one_liner": "面向 AI agent 的沙箱云与 serverless 编排运行时", "review": "Tensorlake 是构建 agentic 应用的计算基础设施平台：通过 Sandbox API 创建有状态 MicroVM 沙箱，用于运行 agent、工具或 LLM 生成的代码；附带支持 fan-out 的 serverless 函数运行时做长时编排。能力包括亚秒级启动、快照与克隆、自动挂起恢复、活动迁移，单项目最多 500 万沙箱；另有版本化 Cloud Volumes 文件系统。提供 Python/TypeScript/Rust SDK 与独立二进制 CLI（tl），需注册云服务获取 API key；不支持任意 Docker 镜像引用，仅限已注册的 Sandbox Image。", "highlights": ["MicroVM 沙箱亚秒级启动，Lattice 动态调度，单项目支持至 500 万沙箱", "快照/克隆、自动挂起恢复与不停机活动迁移", "沙箱池预热容器与 GPU 分配（A10/H100 等型号）", "版本化 Cloud Volumes 文件系统，数据不经 API 服务直传对象存储"], "use_cases": ["为 agent 或 LLM 生成的代码提供隔离执行环境", "构建需要 fan-out 的后台 agentic 应用", "预热沙箱池并按需分配 GPU 资源"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["沙箱/隔离执行", "AI基础设施", "serverless", "代码解释器", "GPU算力"], "domain": "AI 基础设施/云计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L11: Tensorlake is a compute infrastructure platform for building agentic applications with sandboxes.", "L13: The Sandbox API creates MicroVM sandboxes which you can use to run agents, or use them as an isolated environment for ru", "L15: In addition to stateful VMs, you can also add long running orchestration capabilities to Agents using a serverless funct"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tensorlakeai/tensorlake",
+ "sha": "d5be0a670bcd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的沙箱云与 serverless 编排运行时",
+  "review": "Tensorlake 是构建 agentic 应用的计算基础设施平台：通过 Sandbox API 创建有状态 MicroVM 沙箱，用于运行 agent、工具或 LLM 生成的代码；附带支持 fan-out 的 serverless 函数运行时做长时编排。能力包括亚秒级启动、快照与克隆、自动挂起恢复、活动迁移，单项目最多 500 万沙箱；另有版本化 Cloud Volumes 文件系统。提供 Python/TypeScript/Rust SDK 与独立二进制 CLI（tl），需注册云服务获取 API key；不支持任意 Docker 镜像引用，仅限已注册的 Sandbox Image。",
+  "highlights": [
+   "MicroVM 沙箱亚秒级启动，Lattice 动态调度，单项目支持至 500 万沙箱",
+   "快照/克隆、自动挂起恢复与不停机活动迁移",
+   "沙箱池预热容器与 GPU 分配（A10/H100 等型号）",
+   "版本化 Cloud Volumes 文件系统，数据不经 API 服务直传对象存储"
+  ],
+  "use_cases": [
+   "为 agent 或 LLM 生成的代码提供隔离执行环境",
+   "构建需要 fan-out 的后台 agentic 应用",
+   "预热沙箱池并按需分配 GPU 资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "沙箱/隔离执行",
+   "AI基础设施",
+   "serverless",
+   "代码解释器",
+   "GPU算力"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: Tensorlake is a compute infrastructure platform for building agentic applications with sandboxes.",
+   "L13: The Sandbox API creates MicroVM sandboxes which you can use to run agents, or use them as an isolated environment for ru",
+   "L15: In addition to stateful VMs, you can also add long running orchestration capabilities to Agents using a serverless funct"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,79 @@
-{"fn": "spawner1145/comfyui-kaloscope", "sha": "3953e5218b09", "source": "readme", "identity": {"one_liner": "画风分类与聚类工具：识别图片风格并输出特征与关系图", "review": "基于 LSNet 与 DINOv3 模型的画风分析工具，支持 ComfyUI 插件、WebUI 插件和独立启动三种运行方式。功能包括单图画风分类（画师标签匹配）、多图风格聚类、多层特征提取（patch tokens、空间特征图、中间层特征等）以及关系网络、距离热图、聚类散点等 19 种分析图表。提供 Gradio 界面、命令行推理与 /kaloscope/v1/ HTTP API。模型权重需从 Hugging Face 或 ModelScope 单独下载放置到 models/kaloscope 目录。", "highlights": ["LSNet 与 DINOv3 模型的画风分类与相似标签匹配", "KMeans/DBSCAN/层次聚类与 PCA/t-SNE 等多种关系制图", "19 种特征输出类型（含中间层、patch tokens、空间特征图）", "ComfyUI 节点 + WebUI 界面 + 命令行 + HTTP API 四种使用方式"], "use_cases": ["识别一幅作品的画风并匹配相似画师标签", "批量整理图库，按风格特征聚类分组", "提取图片特征供下游分析节点或脚本使用"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["图像分析", "画风识别", "ComfyUI插件", "特征提取", "聚类可视化"], "domain": "图像分析/AIGC 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "ModelScope 模型下载渠道", "「单独启动.bat」批处理脚本"]}, "trust": {"confidence": "high", "evidence": ["L15: 支持 *LSNet* 和 *DINOv3* 模型，本工具聚焦以下场景：", "L17: 1. **画风分类**：识别单幅作品的风格属性，完成风格相似的标签匹配"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "spawner1145/comfyui-kaloscope",
+ "sha": "3953e5218b09",
+ "source": "readme",
+ "identity": {
+  "one_liner": "画风分类与聚类工具：识别图片风格并输出特征与关系图",
+  "review": "基于 LSNet 与 DINOv3 模型的画风分析工具，支持 ComfyUI 插件、WebUI 插件和独立启动三种运行方式。功能包括单图画风分类（画师标签匹配）、多图风格聚类、多层特征提取（patch tokens、空间特征图、中间层特征等）以及关系网络、距离热图、聚类散点等 19 种分析图表。提供 Gradio 界面、命令行推理与 /kaloscope/v1/ HTTP API。模型权重需从 Hugging Face 或 ModelScope 单独下载放置到 models/kaloscope 目录。",
+  "highlights": [
+   "LSNet 与 DINOv3 模型的画风分类与相似标签匹配",
+   "KMeans/DBSCAN/层次聚类与 PCA/t-SNE 等多种关系制图",
+   "19 种特征输出类型（含中间层、patch tokens、空间特征图）",
+   "ComfyUI 节点 + WebUI 界面 + 命令行 + HTTP API 四种使用方式"
+  ],
+  "use_cases": [
+   "识别一幅作品的画风并匹配相似画师标签",
+   "批量整理图库，按风格特征聚类分组",
+   "提取图片特征供下游分析节点或脚本使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像分析",
+   "画风识别",
+   "ComfyUI插件",
+   "特征提取",
+   "聚类可视化"
+  ],
+  "domain": "图像分析/AIGC 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "ModelScope 模型下载渠道",
+   "「单独启动.bat」批处理脚本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: 支持 *LSNet* 和 *DINOv3* 模型，本工具聚焦以下场景：",
+   "L17: 1. **画风分类**：识别单幅作品的风格属性，完成风格相似的标签匹配"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,79 @@
-{"fn": "seoan1024/Korean-llm", "sha": "4e4c59c57e4e", "source": "readme", "identity": {"one_liner": "个人环境中从零实现的韩语 1.09B 解码器 Transformer LLM", "review": "个人学习型项目：作者在 PyTorch 中直接实现解码器风格 Transformer 的各组件（Embedding、Attention、SwiGLU FFN、RMSNorm、RoPE、权重绑定输出层），构成约 1.09B 参数模型，使用 beomi/Llama-3-Open-Ko-8B 分词器，按 Pretraining→SFT 两阶段训练（默认 100,000/10,000 步，BF16，AdamW8bit 可选），训练默认序列长度 512，带 Tkinter+Matplotlib 监控。README 记录了 v1 前 50M 到 v4 的迭代过程，v3 关注量化与轻量化，v4 重构数据与训练管线。面向想了解 LLM 构造的开发者与学习者。", "highlights": ["直接实现 Transformer 核心组件（非封装外部 LLM 类）", "约 1.09B 参数：dim 1920 / 20 层 / 10 头 / SwiGLU / RoPE / RMSNorm", "Pretraining→SFT 两阶段训练流程，BF16 精度与 AdamW8bit 支持", "Tkinter + Matplotlib 训练监控与 .pth 检查点"], "use_cases": ["学习 LLM 内部结构与训练流程并对照源码", "在个人环境复现小规模韩语 LLM 的预训练与 SFT", "跟踪从 50M 到 1.09B 的模型迭代实验记录"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["从零实现", "韩语NLP", "LLM训练", "PyTorch", "个人学习项目"], "domain": "NLP/LLM 训练", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: |목적|개인 환경에서 직접 만들어보는 한국어 LLM|", "L15: |계열|Decoder-style Transformer|", "L373: 모델의 핵심 Transformer 구성은 코드 안에서 직접 구현되어 있습니다."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "seoan1024/Korean-llm",
+ "sha": "4e4c59c57e4e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人环境中从零实现的韩语 1.09B 解码器 Transformer LLM",
+  "review": "个人学习型项目：作者在 PyTorch 中直接实现解码器风格 Transformer 的各组件（Embedding、Attention、SwiGLU FFN、RMSNorm、RoPE、权重绑定输出层），构成约 1.09B 参数模型，使用 beomi/Llama-3-Open-Ko-8B 分词器，按 Pretraining→SFT 两阶段训练（默认 100,000/10,000 步，BF16，AdamW8bit 可选），训练默认序列长度 512，带 Tkinter+Matplotlib 监控。README 记录了 v1 前 50M 到 v4 的迭代过程，v3 关注量化与轻量化，v4 重构数据与训练管线。面向想了解 LLM 构造的开发者与学习者。",
+  "highlights": [
+   "直接实现 Transformer 核心组件（非封装外部 LLM 类）",
+   "约 1.09B 参数：dim 1920 / 20 层 / 10 头 / SwiGLU / RoPE / RMSNorm",
+   "Pretraining→SFT 两阶段训练流程，BF16 精度与 AdamW8bit 支持",
+   "Tkinter + Matplotlib 训练监控与 .pth 检查点"
+  ],
+  "use_cases": [
+   "学习 LLM 内部结构与训练流程并对照源码",
+   "在个人环境复现小规模韩语 LLM 的预训练与 SFT",
+   "跟踪从 50M 到 1.09B 的模型迭代实验记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "从零实现",
+   "韩语NLP",
+   "LLM训练",
+   "PyTorch",
+   "个人学习项目"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: |목적|개인 환경에서 직접 만들어보는 한국어 LLM|",
+   "L15: |계열|Decoder-style Transformer|",
+   "L373: 모델의 핵심 Transformer 구성은 코드 안에서 직접 구현되어 있습니다."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

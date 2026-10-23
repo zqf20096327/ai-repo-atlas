@@ -1,1 +1,79 @@
-{"fn": "sums001/Deepseek-API", "sha": "da378dee0942", "source": "readme", "identity": {"one_liner": "将 DeepSeek 网页聊天封装成 OpenAI 兼容本地 API 的桥梁", "review": "逆向工程 chat.deepseek.com 的非官方项目：用用户自己的免费 DeepSeek 账号登录，把网页聊天转为可编程接口。提供两种形态——Python 库（DeepSeekClient，支持流式与多轮对话）和运行在 localhost:8000 的 OpenAI 兼容 FastAPI 服务器，官方 openai SDK 可直接指向使用。自动处理 AWS WAF 人机验证与 PoW 挑战（在 wasmtime 沙箱内运行 DeepSeek 的 wasm 模块）。限制：单账号串行无并发、请求按 IP 限流、多数 OpenAI 参数被忽略、不支持视觉。", "highlights": ["Python 库与 OpenAI 兼容本地服务器两种使用方式", "自动处理人机验证与 PoW 挑战，会话缓存约 6 小时并自动刷新", "支持流式输出、多轮对话、DeepThink 推理与联网搜索开关", "依赖项内置滑动窗口限流（默认 30 请求/分钟/IP）"], "use_cases": ["在没有 API 付费预算时用代码调用 DeepSeek 模型", "让现有 OpenAI SDK 应用零改动切换到本地 DeepSeek 接口", "个人项目中获得流式与多轮对话能力"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM API 桥接", "OpenAI 兼容", "逆向工程", "本地服务", "DeepSeek"], "domain": "LLM 基础设施/API 网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L8: - 🔌 **As a local OpenAI-compatible API:** runs a server at `http://localhost:8000/v1` that speaks the OpenAI format, so ", "L88: python app.py"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sums001/Deepseek-API",
+ "sha": "da378dee0942",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 DeepSeek 网页聊天封装成 OpenAI 兼容本地 API 的桥梁",
+  "review": "逆向工程 chat.deepseek.com 的非官方项目：用用户自己的免费 DeepSeek 账号登录，把网页聊天转为可编程接口。提供两种形态——Python 库（DeepSeekClient，支持流式与多轮对话）和运行在 localhost:8000 的 OpenAI 兼容 FastAPI 服务器，官方 openai SDK 可直接指向使用。自动处理 AWS WAF 人机验证与 PoW 挑战（在 wasmtime 沙箱内运行 DeepSeek 的 wasm 模块）。限制：单账号串行无并发、请求按 IP 限流、多数 OpenAI 参数被忽略、不支持视觉。",
+  "highlights": [
+   "Python 库与 OpenAI 兼容本地服务器两种使用方式",
+   "自动处理人机验证与 PoW 挑战，会话缓存约 6 小时并自动刷新",
+   "支持流式输出、多轮对话、DeepThink 推理与联网搜索开关",
+   "依赖项内置滑动窗口限流（默认 30 请求/分钟/IP）"
+  ],
+  "use_cases": [
+   "在没有 API 付费预算时用代码调用 DeepSeek 模型",
+   "让现有 OpenAI SDK 应用零改动切换到本地 DeepSeek 接口",
+   "个人项目中获得流式与多轮对话能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM API 桥接",
+   "OpenAI 兼容",
+   "逆向工程",
+   "本地服务",
+   "DeepSeek"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: - 🔌 **As a local OpenAI-compatible API:** runs a server at `http://localhost:8000/v1` that speaks the OpenAI format, so ",
+   "L88: python app.py"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,77 @@
-{"fn": "svg-project/Sparse-VideoGen", "sha": "9b70730ede32", "source": "readme", "identity": {"one_liner": "训练免费的稀疏注意力框架：加速视频扩散 Transformer 生成", "review": "Sparse VideoGen 1/2/EAR 是三个 training-free 框架，利用 3D 全注意力中的固有稀疏性加速视频生成。SVG1 通过在线分析策略识别时空稀疏模式并以算法-系统协同设计实现端到端生成；SVG2 引入语义感知稀疏注意力、token 置换与 flash k-means 内核；SVG-EAR 用无参数质心补偿与误差感知路由恢复被跳过的注意力块。支持 HunyuanVideo、Wan 2.1（T2V/I2V）、CogVideoX v1.5、Cosmos 等模型的推理脚本，推荐 CUDA 12.4/12.8 + PyTorch 2.5.1/2.6.0，通过源码 clone 与 conda 环境安装。", "highlights": ["training-free，利用 3D 全注意力固有稀疏性加速视频生成", "语义感知稀疏注意力 + token 置换 + flash k-means 内核", "误差感知路由与无参数质心补偿（SVG-EAR）", "支持 HunyuanVideo / Wan 2.1 / Cosmos 等模型的推理脚本"], "use_cases": ["在不重训模型的前提下加速视频扩散模型推理", "对 Wan 2.1 / HunyuanVideo 做 T2V/I2V 生成并降低计算量", "研究视频 DiT 中注意力稀疏性模式的科研工作"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["视频生成", "稀疏注意力", "diffusion加速", "高效推理"], "domain": "视频生成/高效机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17: Sparse VideoGen 1, 2, and EAR are **training-free frameworks** that leverage **inherent sparsity** in the 3D Full Attent", "L68: We support Text-to-Video and Image-to-Video inference of Wan 2.1 model. The running scripts are:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "svg-project/Sparse-VideoGen",
+ "sha": "9b70730ede32",
+ "source": "readme",
+ "identity": {
+  "one_liner": "训练免费的稀疏注意力框架：加速视频扩散 Transformer 生成",
+  "review": "Sparse VideoGen 1/2/EAR 是三个 training-free 框架，利用 3D 全注意力中的固有稀疏性加速视频生成。SVG1 通过在线分析策略识别时空稀疏模式并以算法-系统协同设计实现端到端生成；SVG2 引入语义感知稀疏注意力、token 置换与 flash k-means 内核；SVG-EAR 用无参数质心补偿与误差感知路由恢复被跳过的注意力块。支持 HunyuanVideo、Wan 2.1（T2V/I2V）、CogVideoX v1.5、Cosmos 等模型的推理脚本，推荐 CUDA 12.4/12.8 + PyTorch 2.5.1/2.6.0，通过源码 clone 与 conda 环境安装。",
+  "highlights": [
+   "training-free，利用 3D 全注意力固有稀疏性加速视频生成",
+   "语义感知稀疏注意力 + token 置换 + flash k-means 内核",
+   "误差感知路由与无参数质心补偿（SVG-EAR）",
+   "支持 HunyuanVideo / Wan 2.1 / Cosmos 等模型的推理脚本"
+  ],
+  "use_cases": [
+   "在不重训模型的前提下加速视频扩散模型推理",
+   "对 Wan 2.1 / HunyuanVideo 做 T2V/I2V 生成并降低计算量",
+   "研究视频 DiT 中注意力稀疏性模式的科研工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频生成",
+   "稀疏注意力",
+   "diffusion加速",
+   "高效推理"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: Sparse VideoGen 1, 2, and EAR are **training-free frameworks** that leverage **inherent sparsity** in the 3D Full Attent",
+   "L68: We support Text-to-Video and Image-to-Video inference of Wan 2.1 model. The running scripts are:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

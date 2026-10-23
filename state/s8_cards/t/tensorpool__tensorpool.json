@@ -1,1 +1,76 @@
-{"fn": "tensorpool/tensorpool", "sha": "30afc832bd33", "source": "readme", "identity": {"one_liner": "通过 git 风格 CLI 提交 ML 训练任务与租用 GPU 集群", "review": "TensorPool CLI 是面向机器学习开发者的命令行工具，提供 git 风格的接口用于提交 ML 训练任务、访问按需多节点 GPU 集群，并管理集群、存储、NFS、SSH 等资源。通过 pip 安装，要求 Python 3.8+，命令入口为 tp，覆盖 cluster/storage/nfs/job/ssh 等子命令。文档与社区分别托管于 docs.tensorpool.dev 与 Slack。", "highlights": ["git 风格接口提交 ML 训练任务", "按需访问多节点 GPU 集群", "cluster/storage/nfs/job/ssh 等资源管理子命令", "pip 安装，支持 Python 3.8+"], "use_cases": ["用命令行提交 ML 训练任务", "按需创建和管理多节点 GPU 集群", "管理训练相关的存储与 NFS 资源"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["GPU算力", "ML训练", "命令行工具", "云计算"], "domain": "机器学习基础设施/算力", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: The TensorPool CLI is a git-style interface for running ML training jobs and accessing on-demand multi-node GPU clusters", "L27: % tp --help"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tensorpool/tensorpool",
+ "sha": "30afc832bd33",
+ "source": "readme",
+ "identity": {
+  "one_liner": "通过 git 风格 CLI 提交 ML 训练任务与租用 GPU 集群",
+  "review": "TensorPool CLI 是面向机器学习开发者的命令行工具，提供 git 风格的接口用于提交 ML 训练任务、访问按需多节点 GPU 集群，并管理集群、存储、NFS、SSH 等资源。通过 pip 安装，要求 Python 3.8+，命令入口为 tp，覆盖 cluster/storage/nfs/job/ssh 等子命令。文档与社区分别托管于 docs.tensorpool.dev 与 Slack。",
+  "highlights": [
+   "git 风格接口提交 ML 训练任务",
+   "按需访问多节点 GPU 集群",
+   "cluster/storage/nfs/job/ssh 等资源管理子命令",
+   "pip 安装，支持 Python 3.8+"
+  ],
+  "use_cases": [
+   "用命令行提交 ML 训练任务",
+   "按需创建和管理多节点 GPU 集群",
+   "管理训练相关的存储与 NFS 资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GPU算力",
+   "ML训练",
+   "命令行工具",
+   "云计算"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: The TensorPool CLI is a git-style interface for running ML training jobs and accessing on-demand multi-node GPU clusters",
+   "L27: % tp --help"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,80 @@
-{"fn": "sidpalas/deputies", "sha": "b0d0686106f7", "source": "readme", "identity": {"one_liner": "委派工程任务给后台 Agent 的控制平面，带 Web UI", "review": "面向开发者的 agent 控制平面：为每个任务提供持久会话，支持排队提示词、实时查看进度与工具诊断、审查产物、管理 Slack/GitHub/Webhook 回调。底层基于 Pi 执行 agent 工作，提供 fake runner 用于确定性冒烟测试；支持多种沙箱提供方（Daytona、Docker、Kubernetes Agent Sandbox、AWS Lambda MicroVM 等）与 GitHub OAuth/静态登录及多角色权限。以 Node、Caddy、Postgres 与可选 S3 兼容存储的服务组合部署，提供 Railway 模板、Docker Compose、Kubernetes Helm 与 AWS Terraform 参考部署。README 声明项目处于早期阶段，可能有不定期破坏性变更。", "highlights": ["持久后台会话承载 agent 工作，含可搜索分页活动历史", "Slack、GitHub、通用 Webhook 集成与回调投递跟踪", "Daytona/Docker/Kubernetes/AWS Lambda MicroVM 等多种沙箱提供方", "Railway/Docker Compose/Helm/Terraform 多种部署目标"], "use_cases": ["把工程任务委派给后台 agent 并在 Web UI 跟踪进度与产物", "团队通过权限控制共享管理 agent 会话与定时自动化", "为 agent 沙箱工作流搭建可自托管的基础设施"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [5, 6]}}, "links": {"scenario_tags": ["Agent基础设施", "控制平面", "任务委派", "自托管", "开发运维"], "domain": "AI 工程/Agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Deputies is a control plane for delegating engineering work to background agents. It includes a fully featured web UI wh", "L15: - Built on Pi for real agent work, with a fake runner for deterministic smoke tests."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sidpalas/deputies",
+ "sha": "b0d0686106f7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "委派工程任务给后台 Agent 的控制平面，带 Web UI",
+  "review": "面向开发者的 agent 控制平面：为每个任务提供持久会话，支持排队提示词、实时查看进度与工具诊断、审查产物、管理 Slack/GitHub/Webhook 回调。底层基于 Pi 执行 agent 工作，提供 fake runner 用于确定性冒烟测试；支持多种沙箱提供方（Daytona、Docker、Kubernetes Agent Sandbox、AWS Lambda MicroVM 等）与 GitHub OAuth/静态登录及多角色权限。以 Node、Caddy、Postgres 与可选 S3 兼容存储的服务组合部署，提供 Railway 模板、Docker Compose、Kubernetes Helm 与 AWS Terraform 参考部署。README 声明项目处于早期阶段，可能有不定期破坏性变更。",
+  "highlights": [
+   "持久后台会话承载 agent 工作，含可搜索分页活动历史",
+   "Slack、GitHub、通用 Webhook 集成与回调投递跟踪",
+   "Daytona/Docker/Kubernetes/AWS Lambda MicroVM 等多种沙箱提供方",
+   "Railway/Docker Compose/Helm/Terraform 多种部署目标"
+  ],
+  "use_cases": [
+   "把工程任务委派给后台 agent 并在 Web UI 跟踪进度与产物",
+   "团队通过权限控制共享管理 agent 会话与定时自动化",
+   "为 agent 沙箱工作流搭建可自托管的基础设施"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5,
+    6
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent基础设施",
+   "控制平面",
+   "任务委派",
+   "自托管",
+   "开发运维"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Deputies is a control plane for delegating engineering work to background agents. It includes a fully featured web UI wh",
+   "L15: - Built on Pi for real agent work, with a fake runner for deterministic smoke tests."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

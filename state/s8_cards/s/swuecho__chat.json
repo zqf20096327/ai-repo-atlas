@@ -1,1 +1,85 @@
-{"fn": "swuecho/chat", "sha": "668321a35966", "source": "readme", "identity": {"one_liner": "面向团队的 ChatGPT 式聊天 Web 应用，含用户管理与限流", "review": "团队用 SaaS 聊天 Web 应用：首个注册用户成为管理员，支持多模型接入（OpenAI/Azure、Claude、Ollama 本地模型），默认限流 100 次/10 分钟。功能包括可分享的对话静态页面（类似 ShareGPT）、对话快照目录与全文搜索、提示词管理（'/' 快捷键）、文本及多媒体文件上传（多媒体需模型支持）。内置 OpenAI 兼容网关，通过可撤销虚拟 API Key 调用已配置模型，支持流式透传、按 key 限流与请求审计；移动端用 Flutter 构建。提供本地开发、部署与添加新模型文档。", "highlights": ["支持 OpenAI/Azure、Claude 与 Ollama 本地模型", "内置 OpenAI 兼容网关（虚拟 API Key、流式透传、限流、请求审计）", "对话快照目录支持英文全文搜索，可生成可分享静态页面", "提示词管理与 '/' 快捷键，首个注册用户为管理员"], "use_cases": ["团队共用一个多模型聊天界面并按用户限流", "通过 OpenAI 兼容网关用统一 Key 调用多种已配置模型", "整理、搜索并分享团队对话记录", "搭配本地 Ollama 模型进行内部聊天"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["团队聊天", "多模型接入", "SaaS", "API网关", "自托管"], "domain": "团队协作/AI 聊天应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README，规则部分以中文为主"]}, "trust": {"confidence": "high", "evidence": ["L28: - 默认限流 100 chatGPT call /10分钟 (OPENAI_RATELIMIT=100)", "L31: - 支持OPEN AI, Claude 模型", "L36: - 内置 OpenAI 兼容网关，可通过虚拟 API Key 调用已配置的模型"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "swuecho/chat",
+ "sha": "668321a35966",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向团队的 ChatGPT 式聊天 Web 应用，含用户管理与限流",
+  "review": "团队用 SaaS 聊天 Web 应用：首个注册用户成为管理员，支持多模型接入（OpenAI/Azure、Claude、Ollama 本地模型），默认限流 100 次/10 分钟。功能包括可分享的对话静态页面（类似 ShareGPT）、对话快照目录与全文搜索、提示词管理（'/' 快捷键）、文本及多媒体文件上传（多媒体需模型支持）。内置 OpenAI 兼容网关，通过可撤销虚拟 API Key 调用已配置模型，支持流式透传、按 key 限流与请求审计；移动端用 Flutter 构建。提供本地开发、部署与添加新模型文档。",
+  "highlights": [
+   "支持 OpenAI/Azure、Claude 与 Ollama 本地模型",
+   "内置 OpenAI 兼容网关（虚拟 API Key、流式透传、限流、请求审计）",
+   "对话快照目录支持英文全文搜索，可生成可分享静态页面",
+   "提示词管理与 '/' 快捷键，首个注册用户为管理员"
+  ],
+  "use_cases": [
+   "团队共用一个多模型聊天界面并按用户限流",
+   "通过 OpenAI 兼容网关用统一 Key 调用多种已配置模型",
+   "整理、搜索并分享团队对话记录",
+   "搭配本地 Ollama 模型进行内部聊天"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "团队聊天",
+   "多模型接入",
+   "SaaS",
+   "API网关",
+   "自托管"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README，规则部分以中文为主"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: - 默认限流 100 chatGPT call /10分钟 (OPENAI_RATELIMIT=100)",
+   "L31: - 支持OPEN AI, Claude 模型",
+   "L36: - 内置 OpenAI 兼容网关，可通过虚拟 API Key 调用已配置的模型"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ ICML 2025 论文 SpargeAttention 的官方实现，基于 SageAttention2 的免�
 
 ## 场景标签
 
- · 领域:AI 基础设施/推理加速
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

@@ -1,1 +1,80 @@
-{"fn": "thearnavrustagi/marketmenow", "sha": "d58d9d1b96c3", "source": "readme", "identity": {"one_liner": "面向初创团队的自动化营销 Agent：一条命令生成并发布 7 平台内容", "review": "开源的 Python 框架，用 LLM（Gemini/Vertex）生成营销内容并自动发布到 Instagram、X、Reddit、YouTube、TikTok、Email、LinkedIn 7 个平台。核心机制包括：基于表现数据的学习示例选择（epsilon-greedy in-context learning，目前限 Twitter）、Figma MCP+YAML 品牌模板、内容胶囊跨平台复用、端口-适配器架构可零改动新增平台，以及发布前剥离 AI 特征格式的 Sanitise 步骤。提供 Web 仪表盘与 CLI，按项目目录组织品牌与提示词。自述状态为 Alpha，LinkedIn 发布为 WIP。", "highlights": ["单命令生成并发布 7 个平台的图文/视频/邮件内容", "in-context learning 从高表现帖子学习风格（epsilon-greedy 采样）", "内容胶囊跨平台复用（LLM 驱动的格式转换）", "端口-适配器架构，新增平台零核心改动"], "use_cases": ["作为独立创始人自动生成并发布社媒内容，减少日常运营时间", "批量生成个性化外联邮件（CSV 输入）", "将一条内容自动改写为其他平台的格式并分发"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://www.youtube.com/shorts/e6ETkNYnAdQ", "self_declared_early": {"flag": true, "lines": [7]}}, "links": {"scenario_tags": ["营销自动化", "Agent", "社媒内容生成", "多平台发布"], "domain": "营销自动化/内容生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9:  Open-source framework that generates and publishes marketing content across 7 platforms from a single command.", "L97: |AI (all)|AI Studio: `GEMINI_API_KEY` (or `GOOGLE_API_KEY`) **or** Vertex: `GOOGLE_APPLICATION_CREDENTIALS`, `VERTEX_AI_"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thearnavrustagi/marketmenow",
+ "sha": "d58d9d1b96c3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向初创团队的自动化营销 Agent：一条命令生成并发布 7 平台内容",
+  "review": "开源的 Python 框架，用 LLM（Gemini/Vertex）生成营销内容并自动发布到 Instagram、X、Reddit、YouTube、TikTok、Email、LinkedIn 7 个平台。核心机制包括：基于表现数据的学习示例选择（epsilon-greedy in-context learning，目前限 Twitter）、Figma MCP+YAML 品牌模板、内容胶囊跨平台复用、端口-适配器架构可零改动新增平台，以及发布前剥离 AI 特征格式的 Sanitise 步骤。提供 Web 仪表盘与 CLI，按项目目录组织品牌与提示词。自述状态为 Alpha，LinkedIn 发布为 WIP。",
+  "highlights": [
+   "单命令生成并发布 7 个平台的图文/视频/邮件内容",
+   "in-context learning 从高表现帖子学习风格（epsilon-greedy 采样）",
+   "内容胶囊跨平台复用（LLM 驱动的格式转换）",
+   "端口-适配器架构，新增平台零核心改动"
+  ],
+  "use_cases": [
+   "作为独立创始人自动生成并发布社媒内容，减少日常运营时间",
+   "批量生成个性化外联邮件（CSV 输入）",
+   "将一条内容自动改写为其他平台的格式并分发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/shorts/e6ETkNYnAdQ",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "营销自动化",
+   "Agent",
+   "社媒内容生成",
+   "多平台发布"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "ai-writing",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  Open-source framework that generates and publishes marketing content across 7 platforms from a single command.",
+   "L97: |AI (all)|AI Studio: `GEMINI_API_KEY` (or `GOOGLE_API_KEY`) **or** Vertex: `GOOGLE_APPLICATION_CREDENTIALS`, `VERTEX_AI_"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

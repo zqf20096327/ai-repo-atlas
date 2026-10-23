@@ -1,1 +1,81 @@
-{"fn": "thebabush/llvm-jutsu", "sha": "a6359c23f3a3", "source": "readme", "identity": {"one_liner": "LLVM 混淆 pass：把整数常量编码成手势图阻碍 LLM 逆向", "review": "一个 LLVM 编译器混淆 pass，面向软件保护场景：编译期找出与 i32 常量比较的指令，把常量按每字节一只手（手指伸/弯表示位）渲染成 PNG 嵌入二进制，并将比较替换为运行时的图像比较函数，使常量不在二进制中以数值形式出现。附带旋转、色相偏移、跨手依赖等增加视觉模型解析难度的变换。仅支持 i32 eq/ne 比较；运行时图像渲染有性能开销，每个常量嵌入约 30KB PNG。需 LLVM 15+，通过 make 构建为 LLVM pass。README 以戏谑口吻写成，自述限制明确。", "highlights": ["编译期把 i32 常量渲染为手势 PNG 并嵌入二进制，常量数值不再可 grep", "运行时以相同手势几何渲染输入值并做图像比较", "旋转/色相偏移/描边随机化/手指抖动等哈希派生变换，且跨手依赖整体 32 位值", "仅处理 i32 eq/ne 比较，每常量约增 30KB 体积"], "use_cases": ["给 crackme/带授权检查的软件增加对抗 LLM 逆向的混淆", "研究 LLVM pass 层面的非常规常量编码方式", "考察视觉混淆对多模态模型解析的影响"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [45, 47]}}, "links": {"scenario_tags": ["代码混淆", "逆向工程对抗", "LLVM pass", "软件保护", "anti-AI"], "domain": "软件安全/编译器工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L9: It's 2025. You've spent weeks crafting the perfect license check. You've used every trick in the book: opaque predicates", "L84: ## Anti-LLM Features", "L127: **llvm-jutsu** is a return to tradition. The reverser must *look* at the hands. *Read* the fingers. *Feel* the bits. The"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thebabush/llvm-jutsu",
+ "sha": "a6359c23f3a3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLVM 混淆 pass：把整数常量编码成手势图阻碍 LLM 逆向",
+  "review": "一个 LLVM 编译器混淆 pass，面向软件保护场景：编译期找出与 i32 常量比较的指令，把常量按每字节一只手（手指伸/弯表示位）渲染成 PNG 嵌入二进制，并将比较替换为运行时的图像比较函数，使常量不在二进制中以数值形式出现。附带旋转、色相偏移、跨手依赖等增加视觉模型解析难度的变换。仅支持 i32 eq/ne 比较；运行时图像渲染有性能开销，每个常量嵌入约 30KB PNG。需 LLVM 15+，通过 make 构建为 LLVM pass。README 以戏谑口吻写成，自述限制明确。",
+  "highlights": [
+   "编译期把 i32 常量渲染为手势 PNG 并嵌入二进制，常量数值不再可 grep",
+   "运行时以相同手势几何渲染输入值并做图像比较",
+   "旋转/色相偏移/描边随机化/手指抖动等哈希派生变换，且跨手依赖整体 32 位值",
+   "仅处理 i32 eq/ne 比较，每常量约增 30KB 体积"
+  ],
+  "use_cases": [
+   "给 crackme/带授权检查的软件增加对抗 LLM 逆向的混淆",
+   "研究 LLVM pass 层面的非常规常量编码方式",
+   "考察视觉混淆对多模态模型解析的影响"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    45,
+    47
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码混淆",
+   "逆向工程对抗",
+   "LLVM pass",
+   "软件保护",
+   "anti-AI"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: It's 2025. You've spent weeks crafting the perfect license check. You've used every trick in the book: opaque predicates",
+   "L84: ## Anti-LLM Features",
+   "L127: **llvm-jutsu** is a return to tradition. The reverser must *look* at the hands. *Read* the fingers. *Feel* the bits. The"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

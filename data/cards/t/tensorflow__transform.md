@@ -33,7 +33,7 @@ TensorFlow Transform（tf.Transform）是用于 TensorFlow 数据预处理的 Py
 
 ## 场景标签
 
- · 领域:机器学习基础设施/数据处理
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

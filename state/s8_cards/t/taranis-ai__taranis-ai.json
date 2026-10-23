@@ -1,1 +1,80 @@
-{"fn": "taranis-ai/taranis-ai", "sha": "a8962cacc8d0", "source": "readme", "identity": {"one_liner": "面向情报分析师的开源 OSINT 采集与报告平台", "review": "开源情报（OSINT）工具：worker 从网站、RSS/Atom、Mastodon、MISP、Request Tracker 等来源采集非结构化新闻，用 NLP 与 AI 增强内容质量，分析师将 AI 增强后的文章整理为结构化报告并生成 PDF 等成品发布。架构含 Nginx 入口、Flask/HTMX 前端、core REST 后端、RQ worker，支持 PostgreSQL/SQLite 与 Redis；生产部署走 docker compose，并提供 OpenAI 兼容 Responses API 的可选分析员聊天与 MISP 共享（实验性）。使用全部 NLP 功能需 16 GB RAM、4 核、50 GB 磁盘。", "highlights": ["多源采集（网站/RSS/Mastodon/MISP/Request Tracker）生成新闻条目", "NLP 与 AI 自动增强和丰富采集到的文章", "分析师工作流：非结构化新闻转为结构化报告并输出 PDF 发布", "可选分析员聊天（OpenAI 兼容 Responses API）与实例间 MISP 共享（实验性）"], "use_cases": ["安全分析师聚合多源情报并生成结构化威胁情报报告", "团队协作产出并发布 PDF 情报成品", "通过 MISP 与其他 Taranis AI 实例或平台共享情报"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [61]}}, "links": {"scenario_tags": ["OSINT", "威胁情报", "情报收集与分析", "安全运营"], "domain": "网络安全/情报分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize inf", "L7: Taranis navigates through diverse data sources like websites to collect unstructured news articles, utilizing Natural La", "L56: * AI-Enhanced Analysis: Utilizes Artificial Intelligence and Natural Language Processing to automatically enhance and en"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "taranis-ai/taranis-ai",
+ "sha": "a8962cacc8d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向情报分析师的开源 OSINT 采集与报告平台",
+  "review": "开源情报（OSINT）工具：worker 从网站、RSS/Atom、Mastodon、MISP、Request Tracker 等来源采集非结构化新闻，用 NLP 与 AI 增强内容质量，分析师将 AI 增强后的文章整理为结构化报告并生成 PDF 等成品发布。架构含 Nginx 入口、Flask/HTMX 前端、core REST 后端、RQ worker，支持 PostgreSQL/SQLite 与 Redis；生产部署走 docker compose，并提供 OpenAI 兼容 Responses API 的可选分析员聊天与 MISP 共享（实验性）。使用全部 NLP 功能需 16 GB RAM、4 核、50 GB 磁盘。",
+  "highlights": [
+   "多源采集（网站/RSS/Mastodon/MISP/Request Tracker）生成新闻条目",
+   "NLP 与 AI 自动增强和丰富采集到的文章",
+   "分析师工作流：非结构化新闻转为结构化报告并输出 PDF 发布",
+   "可选分析员聊天（OpenAI 兼容 Responses API）与实例间 MISP 共享（实验性）"
+  ],
+  "use_cases": [
+   "安全分析师聚合多源情报并生成结构化威胁情报报告",
+   "团队协作产出并发布 PDF 情报成品",
+   "通过 MISP 与其他 Taranis AI 实例或平台共享情报"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    61
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OSINT",
+   "威胁情报",
+   "情报收集与分析",
+   "安全运营"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize inf",
+   "L7: Taranis navigates through diverse data sources like websites to collect unstructured news articles, utilizing Natural La",
+   "L56: * AI-Enhanced Analysis: Utilizes Artificial Intelligence and Natural Language Processing to automatically enhance and en"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

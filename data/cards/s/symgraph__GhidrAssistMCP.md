@@ -33,7 +33,7 @@ Ghidra 扩展，内嵌 Model Context Protocol 服务器（官方 SDK 实现，SS
 
 ## 场景标签
 
- · 领域:逆向工程/AI 工具接入
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

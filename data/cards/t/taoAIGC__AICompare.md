@@ -33,7 +33,7 @@ Chrome/Edge 浏览器扩展（原名 AI Shortcuts）：在单页内以 iframe �
 
 ## 场景标签
 
- · 领域:AI 客户端/效率工具
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

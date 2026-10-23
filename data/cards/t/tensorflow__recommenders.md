@@ -32,7 +32,7 @@ TensorFlow Recommenders 是构建推荐系统模型的 TensorFlow 库，覆盖�
 
 ## 场景标签
 
- · 领域:推荐系统/机器学习库
+`推荐系统` · 领域:学习与行业
 
 ## 证据(README 行号)
 

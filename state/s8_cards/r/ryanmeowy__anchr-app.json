@@ -1,1 +1,81 @@
-{"fn": "ryanmeowy/anchr-app", "sha": "501d568bb330", "source": "readme", "identity": {"one_liner": "自托管文档知识库/RAG 后端：混合检索、带引用回答与 Agent 深读", "review": "面向需要在自有文档中检索、提问与研究的知识工作者的自托管文档知识工作区后端（Anchr App，API 服务）：将文档导入知识库后提供词法+语义混合检索、带引用与结果卡片的有据回答、引用片段原文预览核验，以及可发现/检索/顺序阅读/摘要文档的 Agent 多步深读（含运行状态、恢复与取消）。完整产品还需 Anchr Web 与 Anchr Docling 及自配存储与模型服务；当前为单实例单租户部署，不支持水平多副本。", "highlights": ["词法+语义混合检索，可按知识库/文档/元数据限定范围", "回答附引用与文档级结果卡片，可打开引用片段及上下文核验", "Agent 在授权范围内多步发现、检索、顺序阅读与摘要文档，运行状态可查、可恢复/取消", "生成、嵌入、重排与存储后端可自选，提供 API 集成"], "use_cases": ["在内部制度与手册中找到条款并获得可核验的带引用解释", "跨多份报告做研究综述并保留每个结论的来源", "把文档检索、有据问答能力通过 API 接入现有门户或内部应用", "在选定的长文档内提问、顺序阅读或发起摘要任务"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": "anchr.cloud", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RAG", "文档问答", "知识库", "自托管", "Agent/深度阅读"], "domain": "知识管理/RAG 后端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文产品介绍与中文技术文档链接（L11）"]}, "trust": {"confidence": "high", "evidence": ["L25: Anchr is an open-source, self-hostable document knowledge workspace for people who need to search, question, study, and ", "L131: |**Grounded answers**|Generate answers from retrieved evidence with citations, result cards, and suggested follow-up que"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ryanmeowy/anchr-app",
+ "sha": "501d568bb330",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管文档知识库/RAG 后端：混合检索、带引用回答与 Agent 深读",
+  "review": "面向需要在自有文档中检索、提问与研究的知识工作者的自托管文档知识工作区后端（Anchr App，API 服务）：将文档导入知识库后提供词法+语义混合检索、带引用与结果卡片的有据回答、引用片段原文预览核验，以及可发现/检索/顺序阅读/摘要文档的 Agent 多步深读（含运行状态、恢复与取消）。完整产品还需 Anchr Web 与 Anchr Docling 及自配存储与模型服务；当前为单实例单租户部署，不支持水平多副本。",
+  "highlights": [
+   "词法+语义混合检索，可按知识库/文档/元数据限定范围",
+   "回答附引用与文档级结果卡片，可打开引用片段及上下文核验",
+   "Agent 在授权范围内多步发现、检索、顺序阅读与摘要文档，运行状态可查、可恢复/取消",
+   "生成、嵌入、重排与存储后端可自选，提供 API 集成"
+  ],
+  "use_cases": [
+   "在内部制度与手册中找到条款并获得可核验的带引用解释",
+   "跨多份报告做研究综述并保留每个结论的来源",
+   "把文档检索、有据问答能力通过 API 接入现有门户或内部应用",
+   "在选定的长文档内提问、顺序阅读或发起摘要任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "anchr.cloud",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "文档问答",
+   "知识库",
+   "自托管",
+   "Agent/深度阅读"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文产品介绍与中文技术文档链接（L11）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: Anchr is an open-source, self-hostable document knowledge workspace for people who need to search, question, study, and ",
+   "L131: |**Grounded answers**|Generate answers from retrieved evidence with citations, result cards, and suggested follow-up que"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,77 @@
-{"fn": "streamlit/30DaysOfAI", "sha": "1a5058eb940d", "source": "readme", "identity": {"one_liner": "30 天学建 AI 应用的 Streamlit/Snowflake 教程挑战", "review": "由 Streamlit 维护的 30 天学习挑战仓库：每天提供一个可运行的 Streamlit 应用文件（day1.py-day30.py）与配套课程文档（day1.md-day30.md），教学内容覆盖聊天机器人、RAG 系统与智能体开发，技术栈基于 Snowflake Cortex AI（Cortex Search/Analyst/Agents）与 TruLens。本地运行需 Python 3.11/3.12、安装依赖并配置 Snowflake 连接密钥，也可在 Snowsight 中直接运行；需 Snowflake 免费试用账号。", "highlights": ["每日提供完整可运行的 Streamlit 应用代码与分步文档", "技术栈：Streamlit + Snowflake Cortex AI（Search/Analyst/Agents）+ TruLens", "支持本地运行与 Snowflake Snowsight 两种运行方式", "完成 30 天挑战可进入 Hall of Fame"], "use_cases": ["跟着 30 天教程系统学习构建 AI 应用", "获取聊天机器人、RAG、智能体的可运行示例代码", "学习在 Snowflake 上部署 Streamlit AI 应用"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://30daysofai.streamlit.app", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程/挑战", "LLM应用开发", "RAG", "Streamlit", "Snowflake"], "domain": "AI 应用开发教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Welcome to **#30DaysOfAI** — a comprehensive 30-day challenge to learn, build, and deploy AI-powered applications using ", "L91: Each day includes:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "streamlit/30DaysOfAI",
+ "sha": "1a5058eb940d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "30 天学建 AI 应用的 Streamlit/Snowflake 教程挑战",
+  "review": "由 Streamlit 维护的 30 天学习挑战仓库：每天提供一个可运行的 Streamlit 应用文件（day1.py-day30.py）与配套课程文档（day1.md-day30.md），教学内容覆盖聊天机器人、RAG 系统与智能体开发，技术栈基于 Snowflake Cortex AI（Cortex Search/Analyst/Agents）与 TruLens。本地运行需 Python 3.11/3.12、安装依赖并配置 Snowflake 连接密钥，也可在 Snowsight 中直接运行；需 Snowflake 免费试用账号。",
+  "highlights": [
+   "每日提供完整可运行的 Streamlit 应用代码与分步文档",
+   "技术栈：Streamlit + Snowflake Cortex AI（Search/Analyst/Agents）+ TruLens",
+   "支持本地运行与 Snowflake Snowsight 两种运行方式",
+   "完成 30 天挑战可进入 Hall of Fame"
+  ],
+  "use_cases": [
+   "跟着 30 天教程系统学习构建 AI 应用",
+   "获取聊天机器人、RAG、智能体的可运行示例代码",
+   "学习在 Snowflake 上部署 Streamlit AI 应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://30daysofai.streamlit.app",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/挑战",
+   "LLM应用开发",
+   "RAG",
+   "Streamlit",
+   "Snowflake"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Welcome to **#30DaysOfAI** — a comprehensive 30-day challenge to learn, build, and deploy AI-powered applications using ",
+   "L91: Each day includes:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

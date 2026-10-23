@@ -1,1 +1,77 @@
-{"fn": "taichengguo/LLM_MultiAgents_Survey_Papers", "sha": "14e281d8d315", "source": "readme", "identity": {"one_liner": "LLM 多智能体论文综述清单：附 IJCAI 2024 综述论文", "review": "配套综述论文《Large Language Model based Multi-Agents: A Survey of Progress and Challenges》(IJCAI 2024) 的论文收录仓库，将 LLM 多智能体论文分为五大方向：框架、编排与效率、问题求解（含软件开发/具身智能/科学团队/科学辩论/数据库等子类）、世界模拟、数据集与基准。条目以时间排列，附 arXiv 论文链接，部分含代码链接；作者声明每两周更新一次并接受补充建议。无安装或运行内容，仅作文献索引使用。", "highlights": ["五大方向分类组织 LLM 多智能体论文（框架/编排效率/问题求解/世界模拟/数据集基准）", "配套综述论文发表于 IJCAI 2024", "条目附论文链接，部分附代码仓库链接", "问题求解部分含软件开发、具身智能、科学团队、科学辩论、数据库等子类"], "use_cases": ["查找 LLM 多智能体各方向的代表性论文", "跟踪该领域按时间线的论文进展", "为研究选题做文献调研"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2402.01680", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["论文清单", "多智能体", "LLM", "综述"], "domain": "人工智能/学术资源", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: Our survey about LLM based Multi-Agents is available at: https://arxiv.org/abs/2402.01680", "L22: [2024/01] This repo is created to maintain LLM-based Multi-Agents papers. We categorized these papers into five main str"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "taichengguo/LLM_MultiAgents_Survey_Papers",
+ "sha": "14e281d8d315",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 多智能体论文综述清单：附 IJCAI 2024 综述论文",
+  "review": "配套综述论文《Large Language Model based Multi-Agents: A Survey of Progress and Challenges》(IJCAI 2024) 的论文收录仓库，将 LLM 多智能体论文分为五大方向：框架、编排与效率、问题求解（含软件开发/具身智能/科学团队/科学辩论/数据库等子类）、世界模拟、数据集与基准。条目以时间排列，附 arXiv 论文链接，部分含代码链接；作者声明每两周更新一次并接受补充建议。无安装或运行内容，仅作文献索引使用。",
+  "highlights": [
+   "五大方向分类组织 LLM 多智能体论文（框架/编排效率/问题求解/世界模拟/数据集基准）",
+   "配套综述论文发表于 IJCAI 2024",
+   "条目附论文链接，部分附代码仓库链接",
+   "问题求解部分含软件开发、具身智能、科学团队、科学辩论、数据库等子类"
+  ],
+  "use_cases": [
+   "查找 LLM 多智能体各方向的代表性论文",
+   "跟踪该领域按时间线的论文进展",
+   "为研究选题做文献调研"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2402.01680",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "多智能体",
+   "LLM",
+   "综述"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Our survey about LLM based Multi-Agents is available at: https://arxiv.org/abs/2402.01680",
+   "L22: [2024/01] This repo is created to maintain LLM-based Multi-Agents papers. We categorized these papers into five main str"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

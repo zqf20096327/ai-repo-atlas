@@ -1,1 +1,76 @@
-{"fn": "rubenmarcus/ralph-starter", "sha": "583335ba9936", "source": "readme", "identity": {"one_liner": "编排自主 AI 编程循环的 CLI：从 GitHub/Linear/Notion/Figma 拉取需求驱动编码 agent", "review": "Ralph Wiggum 循环模式的生产化实现：从 GitHub issues、Linear 工单、Notion 文档、Figma 设计稿、URL 或本地文件拉取规格，随后在循环中调用外部编码 agent（Claude Code、Cursor、Copilot、Gemini CLI 等 8+ 种）迭代构建直至任务完成。提供断路器（连续失败自动停止）、每迭代测试/lint/build 回压验证、成本与 token 估算、限流、git 自动提交/推送/建 PR，并可启动为 MCP Server 供 Claude Desktop 调用。内部 LLM 调用支持 Anthropic/OpenAI/OpenRouter。npm 全局安装。", "highlights": ["从 GitHub/Linear/Notion/Figma/URL/文件拉取规格驱动自主编程循环", "支持 8+ 编码 agent 与 16+ 工作流预设", "断路器、回压验证、限流与成本跟踪等安全控制", "可作为 MCP Server 供 Claude Desktop 等 MCP 客户端调用"], "use_cases": ["把 GitHub issue 或 Linear 工单自动转化为提交与 PR", "非开发者通过交互式向导用自然语言创建项目", "在循环中自动跑测试/lint/build 并把失败反馈给 agent 修复"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["自主编程agent", "编码编排/自动化", "MCP", "需求驱动开发"], "domain": "开发者工具/AI 编程自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L26: **ralph-starter** brings the Ralph Wiggum technique to production. It **connects to your existing workflow** — pulling s", "L86: **ralph-starter** is the production-grade Ralph Wiggum implementation — it adds integrations, safety controls (circuit b"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rubenmarcus/ralph-starter",
+ "sha": "583335ba9936",
+ "source": "readme",
+ "identity": {
+  "one_liner": "编排自主 AI 编程循环的 CLI：从 GitHub/Linear/Notion/Figma 拉取需求驱动编码 agent",
+  "review": "Ralph Wiggum 循环模式的生产化实现：从 GitHub issues、Linear 工单、Notion 文档、Figma 设计稿、URL 或本地文件拉取规格，随后在循环中调用外部编码 agent（Claude Code、Cursor、Copilot、Gemini CLI 等 8+ 种）迭代构建直至任务完成。提供断路器（连续失败自动停止）、每迭代测试/lint/build 回压验证、成本与 token 估算、限流、git 自动提交/推送/建 PR，并可启动为 MCP Server 供 Claude Desktop 调用。内部 LLM 调用支持 Anthropic/OpenAI/OpenRouter。npm 全局安装。",
+  "highlights": [
+   "从 GitHub/Linear/Notion/Figma/URL/文件拉取规格驱动自主编程循环",
+   "支持 8+ 编码 agent 与 16+ 工作流预设",
+   "断路器、回压验证、限流与成本跟踪等安全控制",
+   "可作为 MCP Server 供 Claude Desktop 等 MCP 客户端调用"
+  ],
+  "use_cases": [
+   "把 GitHub issue 或 Linear 工单自动转化为提交与 PR",
+   "非开发者通过交互式向导用自然语言创建项目",
+   "在循环中自动跑测试/lint/build 并把失败反馈给 agent 修复"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自主编程agent",
+   "编码编排/自动化",
+   "MCP",
+   "需求驱动开发"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: **ralph-starter** brings the Ralph Wiggum technique to production. It **connects to your existing workflow** — pulling s",
+   "L86: **ralph-starter** is the production-grade Ralph Wiggum implementation — it adds integrations, safety controls (circuit b"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

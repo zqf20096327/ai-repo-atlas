@@ -1,1 +1,84 @@
-{"fn": "tg-prplx/vellium", "sha": "fae4be166a0f", "source": "readme", "identity": {"one_liner": "本地优先的桌面 AI 对话/角色扮演/长文写作工作台", "review": "面向终端用户的 Electron 桌面应用，提供多角色对话、角色扮演（分支时间线、LoreBooks、场景状态）、长篇写作（项目/章节/场景、改写扩展）、RAG 知识库、实时语音与 Inochi2D 立绘、MCP 工具与本地插件。可连接 OpenAI 兼容 API、OpenRouter、LM Studio、Ollama、KoboldCpp 等多种端点，数据存储在本地 SQLite，支持 Full Local Mode 阻断公共端点。Agents 功能已弃用并默认禁用，保留于 Legacy 设置。界面提供英/俄/中/日四种翻译。", "highlights": ["分支时间线多角色对话与 LoreBooks 世界书", "写作项目、Character Forge、RAG 上下文绑定与 DOCX 导入导出", "实时语音（Whisper 兼容 STT、流式 TTS）与 Inochi2D 立绘口型同步", "MCP 工具调用、本地插件与 SQLite 本地持久化"], "use_cases": ["在本地进行多角色 AI 角色扮演与对话", "借助 RAG 知识库进行长篇写作", "接入 Ollama/LM Studio 等本地模型实现完全离线使用"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI对话", "角色扮演", "长文写作", "RAG", "桌面应用"], "domain": "AI 对话/创作工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["界面含中文翻译"]}, "trust": {"confidence": "high", "evidence": ["L10: Vellium is a local-first desktop workbench for AI chat, character roleplay, live", "L11: voice conversations, and long-form writing. It connects to OpenAI-compatible"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tg-prplx/vellium",
+ "sha": "fae4be166a0f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的桌面 AI 对话/角色扮演/长文写作工作台",
+  "review": "面向终端用户的 Electron 桌面应用，提供多角色对话、角色扮演（分支时间线、LoreBooks、场景状态）、长篇写作（项目/章节/场景、改写扩展）、RAG 知识库、实时语音与 Inochi2D 立绘、MCP 工具与本地插件。可连接 OpenAI 兼容 API、OpenRouter、LM Studio、Ollama、KoboldCpp 等多种端点，数据存储在本地 SQLite，支持 Full Local Mode 阻断公共端点。Agents 功能已弃用并默认禁用，保留于 Legacy 设置。界面提供英/俄/中/日四种翻译。",
+  "highlights": [
+   "分支时间线多角色对话与 LoreBooks 世界书",
+   "写作项目、Character Forge、RAG 上下文绑定与 DOCX 导入导出",
+   "实时语音（Whisper 兼容 STT、流式 TTS）与 Inochi2D 立绘口型同步",
+   "MCP 工具调用、本地插件与 SQLite 本地持久化"
+  ],
+  "use_cases": [
+   "在本地进行多角色 AI 角色扮演与对话",
+   "借助 RAG 知识库进行长篇写作",
+   "接入 Ollama/LM Studio 等本地模型实现完全离线使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI对话",
+   "角色扮演",
+   "长文写作",
+   "RAG",
+   "桌面应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "ai-writing",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "界面含中文翻译"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Vellium is a local-first desktop workbench for AI chat, character roleplay, live",
+   "L11: voice conversations, and long-form writing. It connects to OpenAI-compatible"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

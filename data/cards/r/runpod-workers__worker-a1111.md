@@ -32,7 +32,7 @@ RunPod 官方维护的 serverless worker 项目：以容器形式运行 Automati
 
 ## 场景标签
 
- · 领域:图像生成/推理部署
+`图像生成` `推理引擎` · 领域:内容生成
 
 ## 证据(README 行号)
 

@@ -1,1 +1,77 @@
-{"fn": "sums001/Windows-Copilot-API", "sha": "51cea7923e6d", "source": "readme", "identity": {"one_liner": "将 Microsoft Copilot 网页版逆向封装为 OpenAI 兼容本地 API", "review": "非官方项目，把个人 Microsoft Copilot 免费网页聊天账户逆向为可编程接口：以 Python 库（CopilotClient，支持流式与多轮对话）或本地 FastAPI 服务器（http://localhost:8000/v1，OpenAI 兼容格式）两种方式使用，官方 openai SDK 可直接指向 localhost。需用 Microsoft 或 Google 账户浏览器登录一次，session 保存于本地并自动刷新；自动处理 Cloudflare 人机验证（约 30 分钟过期）。限制：单账户、请求串行执行（实测最高并发 4）、默认限速 12 rpm、仅暴露单一 copilot 模型。提供 Docker 运行方式与压力/诊断测试脚本。", "highlights": ["把免费 Copilot 网页账户转为 OpenAI 兼容 API，无需 API key 与计费", "Python 库与 OpenAI 格式本地服务器两种用法，官方 openai SDK 可直连", "自动处理 Cloudflare cf_clearance 验证与 session 刷新", "内置并发压力测试、速率限制（令牌桶）与诊断工具"], "use_cases": ["用已有 Copilot 账户在代码中免费调用 LLM", "让现有 OpenAI SDK/应用不改代码切换到本地 Copilot 端点", "个人项目或脚本中原型验证 LLM 功能而不产生 API 费用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["逆向工程", "OpenAI兼容API", "API网关/桥接", "白嫖LLM", "个人工具"], "domain": "LLM 基础设施/API 网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L10: - 🔌 **As a local OpenAI-compatible API:** runs a server at `http://localhost:8000/v1` that speaks the OpenAI format, so ", "L103: ## Usage 2: As an OpenAI-compatible server"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sums001/Windows-Copilot-API",
+ "sha": "51cea7923e6d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Microsoft Copilot 网页版逆向封装为 OpenAI 兼容本地 API",
+  "review": "非官方项目，把个人 Microsoft Copilot 免费网页聊天账户逆向为可编程接口：以 Python 库（CopilotClient，支持流式与多轮对话）或本地 FastAPI 服务器（http://localhost:8000/v1，OpenAI 兼容格式）两种方式使用，官方 openai SDK 可直接指向 localhost。需用 Microsoft 或 Google 账户浏览器登录一次，session 保存于本地并自动刷新；自动处理 Cloudflare 人机验证（约 30 分钟过期）。限制：单账户、请求串行执行（实测最高并发 4）、默认限速 12 rpm、仅暴露单一 copilot 模型。提供 Docker 运行方式与压力/诊断测试脚本。",
+  "highlights": [
+   "把免费 Copilot 网页账户转为 OpenAI 兼容 API，无需 API key 与计费",
+   "Python 库与 OpenAI 格式本地服务器两种用法，官方 openai SDK 可直连",
+   "自动处理 Cloudflare cf_clearance 验证与 session 刷新",
+   "内置并发压力测试、速率限制（令牌桶）与诊断工具"
+  ],
+  "use_cases": [
+   "用已有 Copilot 账户在代码中免费调用 LLM",
+   "让现有 OpenAI SDK/应用不改代码切换到本地 Copilot 端点",
+   "个人项目或脚本中原型验证 LLM 功能而不产生 API 费用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "逆向工程",
+   "OpenAI兼容API",
+   "API网关/桥接",
+   "白嫖LLM",
+   "个人工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: - 🔌 **As a local OpenAI-compatible API:** runs a server at `http://localhost:8000/v1` that speaks the OpenAI format, so ",
+   "L103: ## Usage 2: As an OpenAI-compatible server"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

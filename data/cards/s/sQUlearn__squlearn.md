@@ -33,7 +33,7 @@ sQUlearn 是量子机器学习（QML）Python 库，提供与 scikit-learn 兼�
 
 ## 场景标签
 
- · 领域:量子机器学习
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

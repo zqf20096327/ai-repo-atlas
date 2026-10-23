@@ -1,1 +1,75 @@
-{"fn": "nk3nny/LambsDanger", "sha": "85f7dc5314bb", "source": "readme", "identity": {"one_liner": "Arma 3 的 AI 战术增强模组：改造游戏内 AI 行为", "review": "Arma 3 的开源模组（GPLv2 附加两项修正），最初为挪威 nopryl.no 社区内部开发，现通过 Steam Workshop 与 GitHub 分发，允许自行打包再分发。目标包括让建筑成为 AI 战术地形的一部分、以明确区分的 AI 状态改进 AI 反馈、与原版及 ACE3 等模组资产无缝集成。运行依赖 Community Base Addons，源码以 GitHub Actions 构建，附 Wiki 与 BIF 论坛帖。", "highlights": ["将建筑纳入 AI 战术决策地形", "以明确区分的 AI 状态改进 AI 反馈", "与原版、ACE3 及模组资产集成", "通过 Steam Workshop 与 GitHub 发布，允许再打包"], "use_cases": ["Arma 3 玩家提升游戏内 AI 的战术行为表现", "社区服务器搭配 ACE3 使用以获得协同的 AI 体验", "按需自行打包定制模组内容"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["游戏模组", "游戏AI行为", "Arma 3", "战术模拟"], "domain": "游戏/模拟", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L22: This github contains the source code related to the LAMBS Danger FSM mod for Arma3.", "L26: The stated goal of the mod is:", "L29: 3. Seamless integration with vanilla, ACE3 and modded assets"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nk3nny/LambsDanger",
+ "sha": "85f7dc5314bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Arma 3 的 AI 战术增强模组：改造游戏内 AI 行为",
+  "review": "Arma 3 的开源模组（GPLv2 附加两项修正），最初为挪威 nopryl.no 社区内部开发，现通过 Steam Workshop 与 GitHub 分发，允许自行打包再分发。目标包括让建筑成为 AI 战术地形的一部分、以明确区分的 AI 状态改进 AI 反馈、与原版及 ACE3 等模组资产无缝集成。运行依赖 Community Base Addons，源码以 GitHub Actions 构建，附 Wiki 与 BIF 论坛帖。",
+  "highlights": [
+   "将建筑纳入 AI 战术决策地形",
+   "以明确区分的 AI 状态改进 AI 反馈",
+   "与原版、ACE3 及模组资产集成",
+   "通过 Steam Workshop 与 GitHub 发布，允许再打包"
+  ],
+  "use_cases": [
+   "Arma 3 玩家提升游戏内 AI 的战术行为表现",
+   "社区服务器搭配 ACE3 使用以获得协同的 AI 体验",
+   "按需自行打包定制模组内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏模组",
+   "游戏AI行为",
+   "Arma 3",
+   "战术模拟"
+  ],
+  "domain": "游戏/模拟",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: This github contains the source code related to the LAMBS Danger FSM mod for Arma3.",
+   "L26: The stated goal of the mod is:",
+   "L29: 3. Seamless integration with vanilla, ACE3 and modded assets"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

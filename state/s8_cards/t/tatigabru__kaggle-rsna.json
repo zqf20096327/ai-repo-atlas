@@ -1,1 +1,77 @@
-{"fn": "tatigabru/kaggle-rsna", "sha": "8daca213f388", "source": "readme", "identity": {"one_liner": "胸部 X 光片肺炎病灶检测的深度学习方案", "review": "面向放射科图像的肺炎病灶目标检测研究代码：基于 PyTorch RetinaNet 单阶段检测器与 SE-ResNeXt 系列 backbone（se-resnext101 最优），图像缩放至 512×512 并配合数据增强与 ImageNet 预训练，在 RSNA 肺炎检测挑战数据集（26684 名患者、三类标注）上以 mAP@IoU 为指标训练与预测，训练约 12 轮、P100 上每轮 50 分钟。提供 conda/Docker 环境脚本、数据下载脚本、训练/评分/预测入口脚本及推理流程。代码基于挑战赛第二名的开源方案。", "highlights": ["RetinaNet + SE-ResNeXt（101/50）backbone 的肺炎病灶检测", "26684 名患者的 RSNA 挑战 CXR 数据集训练与 mAP 评估实现", "数据下载、conda/Docker 环境、训练/预测的完整脚本流程", "支持用已保存 checkpoint 对自有测试图像生成预测"], "use_cases": ["复现 RSNA 肺炎检测挑战实验结果", "在自己的胸部 X 光数据上训练肺炎病灶检测模型", "基于该方案开展医学影像检测相关研究并引用论文"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["医学影像", "目标检测", "肺炎诊断", "PyTorch", "Kaggle竞赛方案"], "domain": "医学影像/计算机辅助诊断", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Pneumonia is the leading cause of death among young children and one of the top mortality causes worldwide. The pneumoni", "L50: The model is based on RetinaNet implementation on Pytorch with a few modifications. Several different base models' archi"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tatigabru/kaggle-rsna",
+ "sha": "8daca213f388",
+ "source": "readme",
+ "identity": {
+  "one_liner": "胸部 X 光片肺炎病灶检测的深度学习方案",
+  "review": "面向放射科图像的肺炎病灶目标检测研究代码：基于 PyTorch RetinaNet 单阶段检测器与 SE-ResNeXt 系列 backbone（se-resnext101 最优），图像缩放至 512×512 并配合数据增强与 ImageNet 预训练，在 RSNA 肺炎检测挑战数据集（26684 名患者、三类标注）上以 mAP@IoU 为指标训练与预测，训练约 12 轮、P100 上每轮 50 分钟。提供 conda/Docker 环境脚本、数据下载脚本、训练/评分/预测入口脚本及推理流程。代码基于挑战赛第二名的开源方案。",
+  "highlights": [
+   "RetinaNet + SE-ResNeXt（101/50）backbone 的肺炎病灶检测",
+   "26684 名患者的 RSNA 挑战 CXR 数据集训练与 mAP 评估实现",
+   "数据下载、conda/Docker 环境、训练/预测的完整脚本流程",
+   "支持用已保存 checkpoint 对自有测试图像生成预测"
+  ],
+  "use_cases": [
+   "复现 RSNA 肺炎检测挑战实验结果",
+   "在自己的胸部 X 光数据上训练肺炎病灶检测模型",
+   "基于该方案开展医学影像检测相关研究并引用论文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学影像",
+   "目标检测",
+   "肺炎诊断",
+   "PyTorch",
+   "Kaggle竞赛方案"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Pneumonia is the leading cause of death among young children and one of the top mortality causes worldwide. The pneumoni",
+   "L50: The model is based on RetinaNet implementation on Pytorch with a few modifications. Several different base models' archi"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

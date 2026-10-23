@@ -1,1 +1,77 @@
-{"fn": "tanjeffreyz/auto-maple", "sha": "7ee998412522", "source": "readme", "identity": {"one_liner": "用 CV 与机器学习自动玩冒险岛（MapleStory）的 Python AI 程序", "review": "面向 MapleStory 玩家的 Python 自动化程序：通过模拟按键操作角色，使用 OpenCV 模板匹配追踪小地图与玩家位置、四叉树 Layout 配合 A* 搜索计算最短路径，并以自定义训练的 TensorFlow 模型加 Canny 边缘检测自动解符文 puzzles。玩法逻辑由社区提供的两类文件驱动：各职业 command book（Python 技能类定义）与各地图 routine（CSV 指令序列），程序内置编译器解析执行。安装需 Python3、CUDA Toolkit，pip 装依赖后运行 setup.py 生成桌面快捷方式。", "highlights": ["OpenCV 模板匹配定位小地图并追踪玩家位置", "四叉树 Layout + A* 搜索计算最短移动路径", "自定义 TensorFlow 模型自动解符文（箭头 puzzles）", "模块化 command book 与 routine CSV 驱动任意职业与地图"], "use_cases": ["让 AI 替我操作冒险岛角色刷图与执行技能循环", "为特定职业和地图编写/使用 routine 自动完成日常任务", "自动解游戏中的箭头符文 puzzles"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://youtu.be/iNj1CWW2--8", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["游戏AI", "计算机视觉", "游戏自动化", "TensorFlow", "桌面工具"], "domain": "游戏/自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Auto Maple is an intelligent Python AI that plays MapleStory, a 2D side-scrolling MMORPG, using simulated key presses, T", "L41: Auto Maple has the ability to automatically solve \"runes\", or in-game arrow key puzzles. It first uses OpenCV's color fi"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tanjeffreyz/auto-maple",
+ "sha": "7ee998412522",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 CV 与机器学习自动玩冒险岛（MapleStory）的 Python AI 程序",
+  "review": "面向 MapleStory 玩家的 Python 自动化程序：通过模拟按键操作角色，使用 OpenCV 模板匹配追踪小地图与玩家位置、四叉树 Layout 配合 A* 搜索计算最短路径，并以自定义训练的 TensorFlow 模型加 Canny 边缘检测自动解符文 puzzles。玩法逻辑由社区提供的两类文件驱动：各职业 command book（Python 技能类定义）与各地图 routine（CSV 指令序列），程序内置编译器解析执行。安装需 Python3、CUDA Toolkit，pip 装依赖后运行 setup.py 生成桌面快捷方式。",
+  "highlights": [
+   "OpenCV 模板匹配定位小地图并追踪玩家位置",
+   "四叉树 Layout + A* 搜索计算最短移动路径",
+   "自定义 TensorFlow 模型自动解符文（箭头 puzzles）",
+   "模块化 command book 与 routine CSV 驱动任意职业与地图"
+  ],
+  "use_cases": [
+   "让 AI 替我操作冒险岛角色刷图与执行技能循环",
+   "为特定职业和地图编写/使用 routine 自动完成日常任务",
+   "自动解游戏中的箭头符文 puzzles"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/iNj1CWW2--8",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏AI",
+   "计算机视觉",
+   "游戏自动化",
+   "TensorFlow",
+   "桌面工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Auto Maple is an intelligent Python AI that plays MapleStory, a 2D side-scrolling MMORPG, using simulated key presses, T",
+   "L41: Auto Maple has the ability to automatically solve \"runes\", or in-game arrow key puzzles. It first uses OpenCV's color fi"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

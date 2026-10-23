@@ -1,1 +1,78 @@
-{"fn": "takashiishida/arxiv-to-prompt", "sha": "d24d6362addb", "source": "readme", "identity": {"one_liner": "把 arXiv 论文转成单一 LaTeX 源供向 LLM 提问的命令行工具", "review": "命令行工具：下载 arXiv 论文源文件，自动定位含 \\documentclass 的主 tex 文件，解析 \\input/\\include 将多文件扁平化为单一 LaTeX 源，可选去除注释与附录以缩短 prompt；支持 arXiv ID 或 URL 输入，本地缓存避免重复下载，并提供 Python API（process_latex_source）。面向需要把论文全文喂给 LLM 做问答的研究者与开发者，README 列出 MCP server、论文转 slides 等下游项目。", "highlights": ["自动识别主 tex 文件并解析 \\input/\\include 扁平化为单一源", "可选移除 LaTeX 注释与附录以缩短 prompt", "本地缓存下载的论文，支持强制重新下载", "提供 CLI 与 Python API 两种使用方式"], "use_cases": ["把论文 LaTeX 源整理成 prompt，向 LLM 提问论文细节", "批量提取 arXiv 论文源文件供下游工具（MCP、转 slides）使用", "去掉注释和附录以控制输入长度"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["arXiv", "LaTeX", "prompt工程", "论文阅读", "命令行工具"], "domain": "LLM 工具/学术", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: A command-line tool to transform arXiv papers into a single LaTeX source that can be used as a prompt for asking LLMs qu", "L37: You can also use arxiv-to-prompt in your Python code:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "takashiishida/arxiv-to-prompt",
+ "sha": "d24d6362addb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 arXiv 论文转成单一 LaTeX 源供向 LLM 提问的命令行工具",
+  "review": "命令行工具：下载 arXiv 论文源文件，自动定位含 \\documentclass 的主 tex 文件，解析 \\input/\\include 将多文件扁平化为单一 LaTeX 源，可选去除注释与附录以缩短 prompt；支持 arXiv ID 或 URL 输入，本地缓存避免重复下载，并提供 Python API（process_latex_source）。面向需要把论文全文喂给 LLM 做问答的研究者与开发者，README 列出 MCP server、论文转 slides 等下游项目。",
+  "highlights": [
+   "自动识别主 tex 文件并解析 \\input/\\include 扁平化为单一源",
+   "可选移除 LaTeX 注释与附录以缩短 prompt",
+   "本地缓存下载的论文，支持强制重新下载",
+   "提供 CLI 与 Python API 两种使用方式"
+  ],
+  "use_cases": [
+   "把论文 LaTeX 源整理成 prompt，向 LLM 提问论文细节",
+   "批量提取 arXiv 论文源文件供下游工具（MCP、转 slides）使用",
+   "去掉注释和附录以控制输入长度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "arXiv",
+   "LaTeX",
+   "prompt工程",
+   "论文阅读",
+   "命令行工具"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A command-line tool to transform arXiv papers into a single LaTeX source that can be used as a prompt for asking LLMs qu",
+   "L37: You can also use arxiv-to-prompt in your Python code:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

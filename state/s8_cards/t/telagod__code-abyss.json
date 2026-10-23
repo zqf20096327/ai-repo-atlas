@@ -1,1 +1,84 @@
-{"fn": "telagod/code-abyss", "sha": "d1f16e5a4977", "source": "readme", "identity": {"one_liner": "给 AI 编程 agent 安装可组合人设、工程判断内核与技能的配置框架", "review": "面向 Claude Code、Codex CLI、Gemini CLI、OpenClaw 等编码 agent 的分层配置安装器：一条 npx 命令向 agent 注入人格（persona）、风格（style）与纪律内核（9 组工程判断 bundle，惰性路由调用）及 30 个技能（含 4 个原生安全领域、4073 行内容）。默认开启字符 Stop-hook 强制修正妥协话术，附人格行为评测脚本；v4.1 起提供技能自进化锻造。代码图能力由独立产品 abyss Rust CLI 承担（含 MCP server 与基准数据），npm 包本身不下载该二进制。多数 persona 首次使用时从 GitHub 拉取缓存。", "highlights": ["persona × style × 纪律内核的分层组合架构，内核惰性加载", "30 个技能含 4 个原生安全领域（4073 行，威胁建模/IR/云供应链等）", "默认字符 Stop-hook 拦截妥协性回复并可强制一轮修正", "技能自进化：将重复工作流蒸馏为可发布技能（本地→项目→社区）"], "use_cases": ["给我的 Claude Code / Codex CLI 换上带安全背景的固定人格", "让 agent 在多次会话间保持一致判断与工程纪律", "为 agent 增加渗透测试、威胁建模等安全技能库", "让 agent 通过 abyss CLI 获得调用图与影响分析能力"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://telagod.github.io/code-abyss/", "self_declared_early": {"flag": false, "lines": [61], "note": "v5.0.0-rc.1 为候选发布版，非自declared早期项目声明，不计"}}, "links": {"scenario_tags": ["AI编程助手配置", "agent人设/技能", "安全工程", "开发者工具"], "domain": "AI 编程 agent 配置/开发者工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文文档（L16）", "中文人设条目（邪修红尘仙/文言小生/东北魅影等）"]}, "trust": {"confidence": "high", "evidence": ["L30: One command installs a layered runtime into your agent:", "L64: npx code-abyss@5.0.0-rc.1 -t claude -y                     # persona / skills / style + default enforcement + inject map"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "telagod/code-abyss",
+ "sha": "d1f16e5a4977",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 编程 agent 安装可组合人设、工程判断内核与技能的配置框架",
+  "review": "面向 Claude Code、Codex CLI、Gemini CLI、OpenClaw 等编码 agent 的分层配置安装器：一条 npx 命令向 agent 注入人格（persona）、风格（style）与纪律内核（9 组工程判断 bundle，惰性路由调用）及 30 个技能（含 4 个原生安全领域、4073 行内容）。默认开启字符 Stop-hook 强制修正妥协话术，附人格行为评测脚本；v4.1 起提供技能自进化锻造。代码图能力由独立产品 abyss Rust CLI 承担（含 MCP server 与基准数据），npm 包本身不下载该二进制。多数 persona 首次使用时从 GitHub 拉取缓存。",
+  "highlights": [
+   "persona × style × 纪律内核的分层组合架构，内核惰性加载",
+   "30 个技能含 4 个原生安全领域（4073 行，威胁建模/IR/云供应链等）",
+   "默认字符 Stop-hook 拦截妥协性回复并可强制一轮修正",
+   "技能自进化：将重复工作流蒸馏为可发布技能（本地→项目→社区）"
+  ],
+  "use_cases": [
+   "给我的 Claude Code / Codex CLI 换上带安全背景的固定人格",
+   "让 agent 在多次会话间保持一致判断与工程纪律",
+   "为 agent 增加渗透测试、威胁建模等安全技能库",
+   "让 agent 通过 abyss CLI 获得调用图与影响分析能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://telagod.github.io/code-abyss/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    61
+   ],
+   "note": "v5.0.0-rc.1 为候选发布版，非自declared早期项目声明，不计"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程助手配置",
+   "agent人设/技能",
+   "安全工程",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档（L16）",
+   "中文人设条目（邪修红尘仙/文言小生/东北魅影等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: One command installs a layered runtime into your agent:",
+   "L64: npx code-abyss@5.0.0-rc.1 -t claude -y                     # persona / skills / style + default enforcement + inject map"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

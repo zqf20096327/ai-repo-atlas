@@ -33,7 +33,7 @@ sttp 生态下的非官方 Scala 客户端封装库，基于 sttp client 描述�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发库
+`模型网关` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ TensorFlow 官方仓库（已声明 DEPRECATED）提供的 Python API：通过 r
 
 ## 场景标签
 
- · 领域:机器学习训练基础设施
+`模型训练` `MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

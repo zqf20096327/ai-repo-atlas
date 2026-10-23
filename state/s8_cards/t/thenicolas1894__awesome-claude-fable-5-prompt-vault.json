@@ -1,1 +1,77 @@
-{"fn": "thenicolas1894/awesome-claude-fable-5-prompt-vault", "sha": "fcf10e389775", "source": "readme", "identity": {"one_liner": "提示工程模式知识库：模板、评估框架与部署蓝图合集", "review": "名为 NeuroPrompt Studio 的知识共享仓库（自述非软件产品），收录提示工程的原子模式（zero-shot、思维链、思维树等）、多步工作流蓝图、评估指标套件与生产部署配置模板。面向开发者、研究者、产品经理与创意技术从业者；条目按模式库/工作流/评估/部署四层组织，每个模式附测试用例、性能说明与领域适配指南。仓库声明模式性能不作保证，随模型更新可能失效。", "highlights": ["四层结构：50+ 可复用提示模式、工作流蓝图、评估套件、部署模板", "评估维度含一致性、幻觉检测、token 效率与扰动鲁棒性", "安全模板：内容过滤、提示注入防御、PII 脱敏、偏见缓解"], "use_cases": ["为生产 LLM 应用挑选并复用经过测试的提示模式", "对提示变体做 A/B 测试与性能评估", "参考部署模板搭建 API 编排、限流与重试逻辑"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["提示工程", "知识库/清单", "LLM模板", "评估方法"], "domain": "LLM 提示工程/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: # 🧠 NeuroPrompt Studio", "L5: **Master the art of intelligent prompt engineering with a curated ecosystem of patterns, templates, evaluation framework", "L152: NeuroPrompt Studio is a **knowledge-sharing repository**, not a software product. The patterns, templates, and workflows"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+ "sha": "fcf10e389775",
+ "source": "readme",
+ "identity": {
+  "one_liner": "提示工程模式知识库：模板、评估框架与部署蓝图合集",
+  "review": "名为 NeuroPrompt Studio 的知识共享仓库（自述非软件产品），收录提示工程的原子模式（zero-shot、思维链、思维树等）、多步工作流蓝图、评估指标套件与生产部署配置模板。面向开发者、研究者、产品经理与创意技术从业者；条目按模式库/工作流/评估/部署四层组织，每个模式附测试用例、性能说明与领域适配指南。仓库声明模式性能不作保证，随模型更新可能失效。",
+  "highlights": [
+   "四层结构：50+ 可复用提示模式、工作流蓝图、评估套件、部署模板",
+   "评估维度含一致性、幻觉检测、token 效率与扰动鲁棒性",
+   "安全模板：内容过滤、提示注入防御、PII 脱敏、偏见缓解"
+  ],
+  "use_cases": [
+   "为生产 LLM 应用挑选并复用经过测试的提示模式",
+   "对提示变体做 A/B 测试与性能评估",
+   "参考部署模板搭建 API 编排、限流与重试逻辑"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示工程",
+   "知识库/清单",
+   "LLM模板",
+   "评估方法"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: # 🧠 NeuroPrompt Studio",
+   "L5: **Master the art of intelligent prompt engineering with a curated ecosystem of patterns, templates, evaluation framework",
+   "L152: NeuroPrompt Studio is a **knowledge-sharing repository**, not a software product. The patterns, templates, and workflows"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ NeurIPS 2025 Datasets and Benchmarks Track 收录的基准套件：提供 97 个
 
 ## 场景标签
 
- · 领域:AI 科研评测/物理
+`模型评测` `科研工具` · 领域:评测与运维
 
 ## 证据(README 行号)
 

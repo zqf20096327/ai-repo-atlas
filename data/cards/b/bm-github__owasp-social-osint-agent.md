@@ -33,7 +33,7 @@ OWASP Social OSINT Agent 是一个自主代理，通过任意 OpenAI 兼容 API 
 
 ## 场景标签
 
- · 领域:网络安全/OSINT 情报
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

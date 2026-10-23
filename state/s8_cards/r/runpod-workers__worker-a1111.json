@@ -1,1 +1,77 @@
-{"fn": "runpod-workers/worker-a1111", "sha": "c0dad7a589aa", "source": "readme", "identity": {"one_liner": "在 RunPod Serverless 上运行 A1111 的 Stable Diffusion 推理 worker", "review": "RunPod 官方维护的 serverless worker 项目：以容器形式运行 Automatic1111 Stable Diffusion WebUI，并将其 /sdapi/v1/txt2img 端点暴露为 serverless API；请求的 input 对象可传入该端点的任意有效参数（seed、sampler_name、batch_size、styles 等）。镜像内预装 Deliberate v6 模型，收到 prompt 即可生成图像。面向需要在 RunPod 平台部署无服务器文生图服务的开发者，README 未给出本地部署细节。", "highlights": ["容器化运行 Automatic1111 WebUI 并暴露 txt2img API", "input 可透传 A1111 /sdapi/v1/txt2img 的任意参数", "预装 Deliberate v6 模型"], "use_cases": ["在 RunPod Serverless 上按需部署 Stable Diffusion 文生图", "通过 serverless API 批量调用 txt2img 生成图像", "无需自建前端即可复用 A1111 的参数体系"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["serverless", "文生图", "Stable Diffusion", "RunPod", "推理部署"], "domain": "图像生成/推理部署", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: - Runs Automatic1111 Stable Diffusion WebUI and exposes its `txt2img` API endpoint", "L10: The `input` object accepts any valid parameter for the Automatic1111 `/sdapi/v1/txt2img` endpoint. Refer to the Automati"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "runpod-workers/worker-a1111",
+ "sha": "c0dad7a589aa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 RunPod Serverless 上运行 A1111 的 Stable Diffusion 推理 worker",
+  "review": "RunPod 官方维护的 serverless worker 项目：以容器形式运行 Automatic1111 Stable Diffusion WebUI，并将其 /sdapi/v1/txt2img 端点暴露为 serverless API；请求的 input 对象可传入该端点的任意有效参数（seed、sampler_name、batch_size、styles 等）。镜像内预装 Deliberate v6 模型，收到 prompt 即可生成图像。面向需要在 RunPod 平台部署无服务器文生图服务的开发者，README 未给出本地部署细节。",
+  "highlights": [
+   "容器化运行 Automatic1111 WebUI 并暴露 txt2img API",
+   "input 可透传 A1111 /sdapi/v1/txt2img 的任意参数",
+   "预装 Deliberate v6 模型"
+  ],
+  "use_cases": [
+   "在 RunPod Serverless 上按需部署 Stable Diffusion 文生图",
+   "通过 serverless API 批量调用 txt2img 生成图像",
+   "无需自建前端即可复用 A1111 的参数体系"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "serverless",
+   "文生图",
+   "Stable Diffusion",
+   "RunPod",
+   "推理部署"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: - Runs Automatic1111 Stable Diffusion WebUI and exposes its `txt2img` API endpoint",
+   "L10: The `input` object accepts any valid parameter for the Automatic1111 `/sdapi/v1/txt2img` endpoint. Refer to the Automati"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

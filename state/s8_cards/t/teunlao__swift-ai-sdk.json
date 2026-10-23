@@ -1,1 +1,77 @@
-{"fn": "teunlao/swift-ai-sdk", "sha": "811ac99b4f0d", "source": "readme", "identity": {"one_liner": "面向 Apple 平台的 Swift 统一 AI SDK，单一 API 接 36 家模型商", "review": "为 Swift 开发者提供统一的 LLM 接入层：流式/非流式文本生成、结构化输出（Codable + JSON Schema）、类型化工具/函数调用与 MCP 工具、中间件钩子及实验性视频生成。36 个 provider 各自作为独立 SwiftPM 产品发布（OpenAI、Anthropic、Google、Groq、xAI、TogetherAI 等），切换模型商无需修改调用代码。项目移植自 Vercel AI SDK，目标是行为与 API 对齐，遵循 Apache 2.0 许可。", "highlights": ["单一 API 接入 36 个 provider 模块，切换无需改动调用点", "结构化输出：Codable/JSON Schema 校验，支持对象/数组/枚举生成", "类型化工具/函数调用与 MCP 工具支持", "中间件钩子与实验性视频生成"], "use_cases": ["在 iOS/macOS 应用中集成多家 LLM 而不改调用代码", "让模型生成经 JSON Schema 校验的类型化 Swift 数据结构", "为 Swift 应用添加带工具调用的 agent 能力"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://swift-ai-sdk-docs.vercel.app/providers/overview", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Swift SDK", "LLM接入层", "多provider统一API", "MCP", "结构化输出"], "domain": "LLM 基础设施/SDK", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: A unified AI SDK for Swift: streaming chat/completions, structured outputs, tool/function/MCP calling, and middleware — ", "L18: - Provider-agnostic API (swap providers without changing call sites)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "teunlao/swift-ai-sdk",
+ "sha": "811ac99b4f0d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Apple 平台的 Swift 统一 AI SDK，单一 API 接 36 家模型商",
+  "review": "为 Swift 开发者提供统一的 LLM 接入层：流式/非流式文本生成、结构化输出（Codable + JSON Schema）、类型化工具/函数调用与 MCP 工具、中间件钩子及实验性视频生成。36 个 provider 各自作为独立 SwiftPM 产品发布（OpenAI、Anthropic、Google、Groq、xAI、TogetherAI 等），切换模型商无需修改调用代码。项目移植自 Vercel AI SDK，目标是行为与 API 对齐，遵循 Apache 2.0 许可。",
+  "highlights": [
+   "单一 API 接入 36 个 provider 模块，切换无需改动调用点",
+   "结构化输出：Codable/JSON Schema 校验，支持对象/数组/枚举生成",
+   "类型化工具/函数调用与 MCP 工具支持",
+   "中间件钩子与实验性视频生成"
+  ],
+  "use_cases": [
+   "在 iOS/macOS 应用中集成多家 LLM 而不改调用代码",
+   "让模型生成经 JSON Schema 校验的类型化 Swift 数据结构",
+   "为 Swift 应用添加带工具调用的 agent 能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://swift-ai-sdk-docs.vercel.app/providers/overview",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Swift SDK",
+   "LLM接入层",
+   "多provider统一API",
+   "MCP",
+   "结构化输出"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: A unified AI SDK for Swift: streaming chat/completions, structured outputs, tool/function/MCP calling, and middleware — ",
+   "L18: - Provider-agnostic API (swap providers without changing call sites)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Ralph Wiggum 循环模式的生产化实现：从 GitHub issues、Linear 工单�
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编程自动化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

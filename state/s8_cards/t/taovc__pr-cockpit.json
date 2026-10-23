@@ -1,1 +1,86 @@
-{"fn": "taovc/pr-cockpit", "sha": "45e8d77f7c5c", "source": "readme", "identity": {"one_liner": "本地 AI PR 审查工作台：用 Claude/Codex 批量审 PR，人工把关后发布", "review": "面向开发者的桌面应用（Electron 打包 Nuxt 4）：通过 gh CLI 拉取仓库 PR 队列，让本地登录的 Claude 或 Codex 在只读隔离 git worktree 中执行审查，产出含严重级别、path:line、修复建议的结构化 findings；另有修复聊天、功能开发助手与技能生成。所有 GitHub 评论需逐条勾选确认才发布，写操作默认不提交推送。需 gh auth 登录与 Claude/Codex 登录；提供 macOS/Windows/Linux 桌面构建（nightly，未签名）或 Node≥22 + pnpm 9 源码运行。", "highlights": ["AI 在隔离只读 git worktree 中审查，产出结构化 findings（严重级别/path:line/修复指引）", "人工把关门控：逐条勾选才发布 GitHub 评论，预发布预览支持干跑", "审查代理只读：工具级阻断 git 写、文件编辑、网络与危险命令", "每项目独立选择 Claude 或 Codex 提供方、模型与审查方法论"], "use_cases": ["在本地批量审查整个仓库的 PR 队列而不逐个开终端", "让 AI 修复 PR 问题并人工确认 diff 后再提交推送", "在隔离分支里让项目助手开发新功能并创建 PR"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [22], "note": "构建以 rolling nightly pre-release 发布"}}, "links": {"scenario_tags": ["代码审查", "PR 工作台", "AI Agent", "开发者工具", "桌面应用"], "domain": "开发者工具/代码审查", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本入口（L14）"]}, "trust": {"confidence": "mid", "evidence": ["L3:  Review a repo's whole PR queue with Claude or Codex — locally.", "L8:  Providers: Claude and Codex", "L88: Nuxt 4 + @nuxt/ui (Tailwind v4) · better-sqlite3 + drizzle · `@anthropic-ai/claude-agent-sdk` · `@openai/codex-sdk` · lo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "taovc/pr-cockpit",
+ "sha": "45e8d77f7c5c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 AI PR 审查工作台：用 Claude/Codex 批量审 PR，人工把关后发布",
+  "review": "面向开发者的桌面应用（Electron 打包 Nuxt 4）：通过 gh CLI 拉取仓库 PR 队列，让本地登录的 Claude 或 Codex 在只读隔离 git worktree 中执行审查，产出含严重级别、path:line、修复建议的结构化 findings；另有修复聊天、功能开发助手与技能生成。所有 GitHub 评论需逐条勾选确认才发布，写操作默认不提交推送。需 gh auth 登录与 Claude/Codex 登录；提供 macOS/Windows/Linux 桌面构建（nightly，未签名）或 Node≥22 + pnpm 9 源码运行。",
+  "highlights": [
+   "AI 在隔离只读 git worktree 中审查，产出结构化 findings（严重级别/path:line/修复指引）",
+   "人工把关门控：逐条勾选才发布 GitHub 评论，预发布预览支持干跑",
+   "审查代理只读：工具级阻断 git 写、文件编辑、网络与危险命令",
+   "每项目独立选择 Claude 或 Codex 提供方、模型与审查方法论"
+  ],
+  "use_cases": [
+   "在本地批量审查整个仓库的 PR 队列而不逐个开终端",
+   "让 AI 修复 PR 问题并人工确认 diff 后再提交推送",
+   "在隔离分支里让项目助手开发新功能并创建 PR"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    22
+   ],
+   "note": "构建以 rolling nightly pre-release 发布"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码审查",
+   "PR 工作台",
+   "AI Agent",
+   "开发者工具",
+   "桌面应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "code-review",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本入口（L14）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  Review a repo's whole PR queue with Claude or Codex — locally.",
+   "L8:  Providers: Claude and Codex",
+   "L88: Nuxt 4 + @nuxt/ui (Tailwind v4) · better-sqlite3 + drizzle · `@anthropic-ai/claude-agent-sdk` · `@openai/codex-sdk` · lo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

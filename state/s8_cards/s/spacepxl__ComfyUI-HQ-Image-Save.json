@@ -1,1 +1,76 @@
-{"fn": "spacepxl/ComfyUI-HQ-Image-Save", "sha": "bb042abbe653", "source": "readme", "identity": {"one_liner": "ComfyUI 自定义节点：以 32bit EXR 存取图像与 latents", "review": "ComfyUI 功能节点集，提供图像与 latent 的 EXR 高精度读写节点：Load EXR 支持单文件或文件夹批量（带上限/跳过/取样控制），Save EXR 输出 RGB/RGBA 32bpc 并支持批次、相对/绝对路径、版本与帧号格式化及覆盖保护；另可保存 4 通道 latent 为 RGBA 32bpc EXR、帧序列保存并可附带 workflow JSON。README 提示使用 --fp32-vae 参数提升解码精度，并说明 TIFF 节点已过时、无加载 TIFF 节点。", "highlights": ["Load/Save EXR 节点支持单文件、文件夹批量与帧序列（%04d 格式化）", "Save EXR 支持 32bpc RGB/RGBA、批次、版本与帧号路径格式化及覆盖保护", "4 通道 latent 可存为 RGBA 32bpc EXR，并给出近似 RGB 的换算公式", "帧序列保存时可附带 workflow GUI JSON / API JSON"], "use_cases": ["在 ComfyUI 工作流中以全浮点精度保存生成图像，避免 PNG 8bit 量化", "保存/回读 latents 以便后续工作流复用", "按帧序列导出动画图像并保留 workflow 信息"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI", "自定义节点", "图像存储", "EXR高精度"], "domain": "图像处理/生成工作流工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # ComfyUI-HQ-Image-Save", "L14: Save and load images and latents as 32bit EXRs"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "spacepxl/ComfyUI-HQ-Image-Save",
+ "sha": "bb042abbe653",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 自定义节点：以 32bit EXR 存取图像与 latents",
+  "review": "ComfyUI 功能节点集，提供图像与 latent 的 EXR 高精度读写节点：Load EXR 支持单文件或文件夹批量（带上限/跳过/取样控制），Save EXR 输出 RGB/RGBA 32bpc 并支持批次、相对/绝对路径、版本与帧号格式化及覆盖保护；另可保存 4 通道 latent 为 RGBA 32bpc EXR、帧序列保存并可附带 workflow JSON。README 提示使用 --fp32-vae 参数提升解码精度，并说明 TIFF 节点已过时、无加载 TIFF 节点。",
+  "highlights": [
+   "Load/Save EXR 节点支持单文件、文件夹批量与帧序列（%04d 格式化）",
+   "Save EXR 支持 32bpc RGB/RGBA、批次、版本与帧号路径格式化及覆盖保护",
+   "4 通道 latent 可存为 RGBA 32bpc EXR，并给出近似 RGB 的换算公式",
+   "帧序列保存时可附带 workflow GUI JSON / API JSON"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中以全浮点精度保存生成图像，避免 PNG 8bit 量化",
+   "保存/回读 latents 以便后续工作流复用",
+   "按帧序列导出动画图像并保留 workflow 信息"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI",
+   "自定义节点",
+   "图像存储",
+   "EXR高精度"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # ComfyUI-HQ-Image-Save",
+   "L14: Save and load images and latents as 32bit EXRs"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

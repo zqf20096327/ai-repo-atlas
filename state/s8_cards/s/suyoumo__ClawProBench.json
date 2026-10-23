@@ -1,1 +1,82 @@
-{"fn": "suyoumo/ClawProBench", "sha": "69c52c4f3007", "source": "readme", "identity": {"one_liner": "评测 OpenClaw 运行时中 LLM agent 能力的基准工具", "review": "在本地 OpenClaw 运行时中对 LLM agent 做 live 执行评测的基准工具：提供 102 个活跃场景（目录共 164 个），按 core/intelligence/coverage/native/full 五种基准配置组织，采用确定性评分与多次试验（--trials N）可靠性度量（pass^3、pass@3、FinalScore）。运行需本地 openclaw CLI，通过 run.py 完成 inventory/dry/run/compare 流程，支持断点续跑与隔离运行；附带公开排行榜与 Hugging Face 数据集，并有 arXiv 论文。面向做模型评测与选型对比的研究者和开发者。", "highlights": ["102 个活跃场景、5 种基准配置（core 默认 26 个）", "确定性评分与 pass^3/pass@3/FinalScore 多试验指标", "支持断点续跑、失败重排队与同主机隔离运行", "公开排行榜与 Hugging Face 数据集（xyh110sym/clawprobench）"], "use_cases": ["在本地 OpenClaw 环境中评测不同模型的 agent 任务表现", "生成结构化报告做多模型对比", "查看排行榜了解各模型在 agent 基准上的得分"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "arXiv:2608.22510", "demo_url": "suyoumo.github.io/bench", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["基准评测", "agent", "排行榜", "LLM", "评测工具"], "domain": "LLM 评测/agent 基准", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["提供简体中文 README（L20）", "鸣谢 Kimi、Qwen、LongCat 等中文厂商（L36,38）", "联系邮箱为 outlook 个人邮箱（L42）"]}, "trust": {"confidence": "high", "evidence": ["L15: > Transparent live-first benchmark harness for evaluating model capability inside the OpenClaw runtime.", "L22: ClawProBench focuses on real OpenClaw execution with deterministic grading, structured reports, and benchmark-profile se", "L87: - `v1.0.0` - ClawProBench released with 102 tasks across 6 domains, with 3-try runs, checkpoint resume, and cross-enviro"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "suyoumo/ClawProBench",
+ "sha": "69c52c4f3007",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评测 OpenClaw 运行时中 LLM agent 能力的基准工具",
+  "review": "在本地 OpenClaw 运行时中对 LLM agent 做 live 执行评测的基准工具：提供 102 个活跃场景（目录共 164 个），按 core/intelligence/coverage/native/full 五种基准配置组织，采用确定性评分与多次试验（--trials N）可靠性度量（pass^3、pass@3、FinalScore）。运行需本地 openclaw CLI，通过 run.py 完成 inventory/dry/run/compare 流程，支持断点续跑与隔离运行；附带公开排行榜与 Hugging Face 数据集，并有 arXiv 论文。面向做模型评测与选型对比的研究者和开发者。",
+  "highlights": [
+   "102 个活跃场景、5 种基准配置（core 默认 26 个）",
+   "确定性评分与 pass^3/pass@3/FinalScore 多试验指标",
+   "支持断点续跑、失败重排队与同主机隔离运行",
+   "公开排行榜与 Hugging Face 数据集（xyh110sym/clawprobench）"
+  ],
+  "use_cases": [
+   "在本地 OpenClaw 环境中评测不同模型的 agent 任务表现",
+   "生成结构化报告做多模型对比",
+   "查看排行榜了解各模型在 agent 基准上的得分"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv:2608.22510",
+  "demo_url": "suyoumo.github.io/bench",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准评测",
+   "agent",
+   "排行榜",
+   "LLM",
+   "评测工具"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文 README（L20）",
+   "鸣谢 Kimi、Qwen、LongCat 等中文厂商（L36,38）",
+   "联系邮箱为 outlook 个人邮箱（L42）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: > Transparent live-first benchmark harness for evaluating model capability inside the OpenClaw runtime.",
+   "L22: ClawProBench focuses on real OpenClaw execution with deterministic grading, structured reports, and benchmark-profile se",
+   "L87: - `v1.0.0` - ClawProBench released with 102 tasks across 6 domains, with 3-try runs, checkpoint resume, and cross-enviro"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

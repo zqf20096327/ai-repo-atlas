@@ -33,7 +33,7 @@ Syne Tune 是一个 Python 超参数优化（HPO）库，面向机器学习开�
 
 ## 场景标签
 
- · 领域:机器学习/AutoML
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

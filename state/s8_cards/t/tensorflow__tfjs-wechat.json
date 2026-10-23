@@ -1,1 +1,80 @@
-{"fn": "tensorflow/tfjs-wechat", "sha": "18b7de5dc221", "source": "readme", "identity": {"one_liner": "微信小程序调用 TensorFlow.js 的插件封装", "review": "封装 TensorFlow.js 库供第三方微信小程序调用的插件，通过 appid 在小程序后台添加后，以 npm/yarn 引入 tfjs 分包（core/converter/webgl/cpu 等）并配置 configPlugin 即可使用 tfjs API。支持模型 localStorage 缓存与本地文件保存（各限 10MB）、WebAssembly backend（README 注明当前因打包不兼容而损坏）、tfjs-models 模型库及谷歌中国镜像。需微信基础库 >=2.7.3、开发者工具 >=v1.02.1907022。由 TensorFlow.js 团队维护。", "highlights": ["封装 TensorFlow.js 供第三方微信小程序调用", "支持按需加载 tfjs 分包以适应小程序 2M 大小限制", "模型 localStorage 缓存与本地文件保存（各 10MB 限制）", "提供 tfjs-models 谷歌中国镜像地址供国内用户使用"], "use_cases": ["在微信小程序中运行图像识别、人体姿态识别等模型", "中低端 Android 手机上使用 WASM backend 跑模型", "国内网络环境下通过中国镜像加载预训练模型"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["微信小程序", "TensorFlow.js", "端侧推理", "移动端ML"], "domain": "移动端机器学习/小程序开发", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["全中文 README", "谷歌中国镜像（gstaticcnapps.cn）", "面向微信小程序生态"]}, "trust": {"confidence": "high", "evidence": ["L3: TensorFlow.js 微信小程序插件封装了TensorFlow.js库，用于提供给第三方小程序调用。", "L2: TensorFlow.js是谷歌开发的机器学习开源项目，致力于为javascript提供具有硬件加速的机器学习模型训练和部署。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tensorflow/tfjs-wechat",
+ "sha": "18b7de5dc221",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微信小程序调用 TensorFlow.js 的插件封装",
+  "review": "封装 TensorFlow.js 库供第三方微信小程序调用的插件，通过 appid 在小程序后台添加后，以 npm/yarn 引入 tfjs 分包（core/converter/webgl/cpu 等）并配置 configPlugin 即可使用 tfjs API。支持模型 localStorage 缓存与本地文件保存（各限 10MB）、WebAssembly backend（README 注明当前因打包不兼容而损坏）、tfjs-models 模型库及谷歌中国镜像。需微信基础库 >=2.7.3、开发者工具 >=v1.02.1907022。由 TensorFlow.js 团队维护。",
+  "highlights": [
+   "封装 TensorFlow.js 供第三方微信小程序调用",
+   "支持按需加载 tfjs 分包以适应小程序 2M 大小限制",
+   "模型 localStorage 缓存与本地文件保存（各 10MB 限制）",
+   "提供 tfjs-models 谷歌中国镜像地址供国内用户使用"
+  ],
+  "use_cases": [
+   "在微信小程序中运行图像识别、人体姿态识别等模型",
+   "中低端 Android 手机上使用 WASM backend 跑模型",
+   "国内网络环境下通过中国镜像加载预训练模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "微信小程序",
+   "TensorFlow.js",
+   "端侧推理",
+   "移动端ML"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "谷歌中国镜像（gstaticcnapps.cn）",
+   "面向微信小程序生态"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: TensorFlow.js 微信小程序插件封装了TensorFlow.js库，用于提供给第三方小程序调用。",
+   "L2: TensorFlow.js是谷歌开发的机器学习开源项目，致力于为javascript提供具有硬件加速的机器学习模型训练和部署。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

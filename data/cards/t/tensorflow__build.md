@@ -32,7 +32,7 @@ TensorFlow SIG Build 社区组的成果展示仓库：汇集与 TensorFlow 构�
 
 ## 场景标签
 
- · 领域:AI 基础设施/框架构建
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

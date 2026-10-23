@@ -1,1 +1,76 @@
-{"fn": "thu-ml/SpargeAttn", "sha": "8a7463c35ae4", "source": "readme", "identity": {"one_liner": "免训练稀疏注意力库：加速语言/图像/视频模型推理", "review": "ICML 2025 论文 SpargeAttention 的官方实现，基于 SageAttention2 的免训练稀疏注意力内核，通过替换 torch 的 scaled_dot_product_attention 调用即插即用地加速任意模型推理。提供 topk 可调的 plug-and-play API 与可自定义每头块稀疏掩码（块大小 128×64）的 API，另有 Triton 内核示例。需要 Python>=3.9、torch>=2.3.0 与 CUDA，经 setup.py 或 pip install -e 编译安装，面向模型推理优化的开发者。", "highlights": ["基于 SageAttention2 的免训练稀疏注意力内核", "即插即用替换 torch.nn.functional.scaled_dot_product_attention", "topk 参数可在注意力精度与稀疏度之间调节", "支持自定义每注意力头的块稀疏掩码（块大小 128×64）"], "use_cases": ["加速语言、图像、视频 Transformer 模型的推理", "在推理中替换 SDPA 调用以降低注意力计算开销", "按自定义块稀疏掩码控制注意力计算范围"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "high", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/2502.18137", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["推理加速", "稀疏注意力", "Transformer优化", "CUDA内核"], "domain": "AI 基础设施/推理加速", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L24: The official implementation of SpargeAttn, a universal training-free sparse attention accelerating language, image, and ", "L72: Just replace `torch.nn.functional.scaled_dot_product_attention` API using `spas_sage2_attn_meansim_topk_cuda`:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thu-ml/SpargeAttn",
+ "sha": "8a7463c35ae4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "免训练稀疏注意力库：加速语言/图像/视频模型推理",
+  "review": "ICML 2025 论文 SpargeAttention 的官方实现，基于 SageAttention2 的免训练稀疏注意力内核，通过替换 torch 的 scaled_dot_product_attention 调用即插即用地加速任意模型推理。提供 topk 可调的 plug-and-play API 与可自定义每头块稀疏掩码（块大小 128×64）的 API，另有 Triton 内核示例。需要 Python>=3.9、torch>=2.3.0 与 CUDA，经 setup.py 或 pip install -e 编译安装，面向模型推理优化的开发者。",
+  "highlights": [
+   "基于 SageAttention2 的免训练稀疏注意力内核",
+   "即插即用替换 torch.nn.functional.scaled_dot_product_attention",
+   "topk 参数可在注意力精度与稀疏度之间调节",
+   "支持自定义每注意力头的块稀疏掩码（块大小 128×64）"
+  ],
+  "use_cases": [
+   "加速语言、图像、视频 Transformer 模型的推理",
+   "在推理中替换 SDPA 调用以降低注意力计算开销",
+   "按自定义块稀疏掩码控制注意力计算范围"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2502.18137",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理加速",
+   "稀疏注意力",
+   "Transformer优化",
+   "CUDA内核"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: The official implementation of SpargeAttn, a universal training-free sparse attention accelerating language, image, and ",
+   "L72: Just replace `torch.nn.functional.scaled_dot_product_attention` API using `spas_sage2_attn_meansim_topk_cuda`:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

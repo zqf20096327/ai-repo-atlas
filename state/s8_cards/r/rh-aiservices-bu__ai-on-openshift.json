@@ -1,1 +1,74 @@
-{"fn": "rh-aiservices-bu/ai-on-openshift", "sha": "58bb61ae0cdd", "source": "readme", "identity": {"one_liner": "AI on OpenShift 网站源码：部署 OpenShift 上 AI/ML 工具的文档站", "review": "基于 Material for MkDocs 的文档网站源码，成品站点发布于 ai-on-openshift.io。内容定位为在 OpenShift 上运行的数据科学与数据工程项目提供各类 AI/ML 工具的安装配方、模式与演示的一站式入口。仓库本身提供 MkDocs 本地开发流程（pip 安装 mkdocs-material 或 Pipfile/pipenv，mkdocs serve 实时渲染），也可用 podman 运行容器镜像提供站点内容，接受社区 Pull Request。", "highlights": ["Material for MkDocs 构建的文档站点源码", "聚合 OpenShift 上 AI/ML 工具的安装配方、模式与演示", "支持 pipenv 与 podman 容器两种本地开发/服务方式"], "use_cases": ["查找在 OpenShift 上部署 AI/ML 工具的安装配方", "为 AI on OpenShift 站点贡献文档或本地预览修改"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://ai-on-openshift.io/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MLOps", "文档站", "OpenShift", "部署配方"], "domain": "MLOps/云平台文档", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Source code for the AI on OpenShift site, using Material for MkDocs.", "L9: The AI on OpenShift site aims at being a one-stop shop for installation recipes, patterns, demos for various AI/ML tools"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rh-aiservices-bu/ai-on-openshift",
+ "sha": "58bb61ae0cdd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI on OpenShift 网站源码：部署 OpenShift 上 AI/ML 工具的文档站",
+  "review": "基于 Material for MkDocs 的文档网站源码，成品站点发布于 ai-on-openshift.io。内容定位为在 OpenShift 上运行的数据科学与数据工程项目提供各类 AI/ML 工具的安装配方、模式与演示的一站式入口。仓库本身提供 MkDocs 本地开发流程（pip 安装 mkdocs-material 或 Pipfile/pipenv，mkdocs serve 实时渲染），也可用 podman 运行容器镜像提供站点内容，接受社区 Pull Request。",
+  "highlights": [
+   "Material for MkDocs 构建的文档站点源码",
+   "聚合 OpenShift 上 AI/ML 工具的安装配方、模式与演示",
+   "支持 pipenv 与 podman 容器两种本地开发/服务方式"
+  ],
+  "use_cases": [
+   "查找在 OpenShift 上部署 AI/ML 工具的安装配方",
+   "为 AI on OpenShift 站点贡献文档或本地预览修改"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ai-on-openshift.io/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "文档站",
+   "OpenShift",
+   "部署配方"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Source code for the AI on OpenShift site, using Material for MkDocs.",
+   "L9: The AI on OpenShift site aims at being a one-stop shop for installation recipes, patterns, demos for various AI/ML tools"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

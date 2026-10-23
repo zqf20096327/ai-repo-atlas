@@ -1,1 +1,79 @@
-{"fn": "sQUlearn/squlearn", "sha": "449041af0e66", "source": "readme", "identity": {"one_liner": "面向 NISQ 量子机器学习的 Python 库，兼容 scikit-learn 接口", "review": "sQUlearn 是量子机器学习（QML）Python 库，提供与 scikit-learn 兼容的高层接口，覆盖量子核方法、量子神经网络（QNN）与量子储备池计算；底层由 QNN 引擎与量子核引擎构成，executor 可在 PennyLane、Qiskit、Qulacs 的模拟与真实后端上运行实验。双层架构同时服务 QML 研究者与从业者，支持自定义数据编码、自动执行处理与核正则化技术。声明 TRL 1–3，仅限研究与实验用途，不适用于生产部署。需 Python 3.10 以上。", "highlights": ["量子核方法与量子神经网络（QNN）工具集，兼容 scikit-learn 高层接口", "支持 PennyLane、Qiskit、Qulacs 的模拟与真实后端执行", "自定义数据编码策略、自动执行处理与核正则化", "覆盖量子储备池计算（quantum reservoir computing）"], "use_cases": ["在 scikit-learn 流水线中试验量子核方法或 QNN 模型", "QML 研究者做原型设计与实验对比", "在真实量子硬件后端上运行机器学习实验"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.1109/MS.2025.3527736", "demo_url": null, "self_declared_early": {"flag": true, "lines": [53, 55]}}, "links": {"scenario_tags": ["量子机器学习", "量子计算", "scikit-learn生态", "科研工具"], "domain": "量子机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: sQUlearn is a user-friendly, NISQ-ready Python library for quantum machine learning (QML), designed for seamless integra", "L5: sQUlearn offers scikit-learn compatible high-level interfaces for various kernel methods, QNNs and quantum reservoir com"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sQUlearn/squlearn",
+ "sha": "449041af0e66",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 NISQ 量子机器学习的 Python 库，兼容 scikit-learn 接口",
+  "review": "sQUlearn 是量子机器学习（QML）Python 库，提供与 scikit-learn 兼容的高层接口，覆盖量子核方法、量子神经网络（QNN）与量子储备池计算；底层由 QNN 引擎与量子核引擎构成，executor 可在 PennyLane、Qiskit、Qulacs 的模拟与真实后端上运行实验。双层架构同时服务 QML 研究者与从业者，支持自定义数据编码、自动执行处理与核正则化技术。声明 TRL 1–3，仅限研究与实验用途，不适用于生产部署。需 Python 3.10 以上。",
+  "highlights": [
+   "量子核方法与量子神经网络（QNN）工具集，兼容 scikit-learn 高层接口",
+   "支持 PennyLane、Qiskit、Qulacs 的模拟与真实后端执行",
+   "自定义数据编码策略、自动执行处理与核正则化",
+   "覆盖量子储备池计算（quantum reservoir computing）"
+  ],
+  "use_cases": [
+   "在 scikit-learn 流水线中试验量子核方法或 QNN 模型",
+   "QML 研究者做原型设计与实验对比",
+   "在真实量子硬件后端上运行机器学习实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1109/MS.2025.3527736",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    53,
+    55
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量子机器学习",
+   "量子计算",
+   "scikit-learn生态",
+   "科研工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: sQUlearn is a user-friendly, NISQ-ready Python library for quantum machine learning (QML), designed for seamless integra",
+   "L5: sQUlearn offers scikit-learn compatible high-level interfaces for various kernel methods, QNNs and quantum reservoir com"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,78 @@
-{"fn": "thuml/Neural-Solver-Library", "sha": "7f2806d33895", "source": "readme", "identity": {"one_liner": "神经 PDE 求解器的基准评测与复现代码库", "review": "面向深度学习研究者（神经偏微分方程求解方向）的代码库，由 Transolver 仓库扩展而来：收录 Transolver、UPT、ONO、FNO 等 13 种神经求解器，以及 Swin Transformer、U-Net、GraphSAGE、PointNet 等视觉与几何深度基线模型；支持 FNO/geo-FNO 六个标准基准、PDEBench 自回归任务与 ShapeNet-Car 工业设计任务。提供实验脚本复现各方法官方结果，开发者可按目录约定添加自己的模型。运行需 Python 3.8 并安装 requirements.txt 依赖。", "highlights": ["收录 13 种神经 PDE 求解器与多种视觉/几何深度基线", "支持标准基准、PDEBench 自回归任务与 ShapeNet-Car 设计任务", "提供全部基准的实验脚本，声称可完整复现各方法官方结果", "FlashBias（NeurIPS 2025）：向 Transformer 注入可学习空间距离偏置"], "use_cases": ["对比评测多种神经 PDE 求解器在我任务上的表现", "复现论文官方实验结果作为研究基线", "在自己的 PDE 数据集上开发新求解器模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2402.02366", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["科学计算", "偏微分方程", "神经算子", "基准评测", "深度学习研究"], "domain": "AI for Science/科学计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: NeuralSolver is an open-source library for deep learning researchers, especially for neural PDE solvers.", "L23: - [x] **Transolver** - Transolver: A Fast Transformer Solver for PDEs on General Geometries [[ICML 2024]](https://arxiv."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thuml/Neural-Solver-Library",
+ "sha": "7f2806d33895",
+ "source": "readme",
+ "identity": {
+  "one_liner": "神经 PDE 求解器的基准评测与复现代码库",
+  "review": "面向深度学习研究者（神经偏微分方程求解方向）的代码库，由 Transolver 仓库扩展而来：收录 Transolver、UPT、ONO、FNO 等 13 种神经求解器，以及 Swin Transformer、U-Net、GraphSAGE、PointNet 等视觉与几何深度基线模型；支持 FNO/geo-FNO 六个标准基准、PDEBench 自回归任务与 ShapeNet-Car 工业设计任务。提供实验脚本复现各方法官方结果，开发者可按目录约定添加自己的模型。运行需 Python 3.8 并安装 requirements.txt 依赖。",
+  "highlights": [
+   "收录 13 种神经 PDE 求解器与多种视觉/几何深度基线",
+   "支持标准基准、PDEBench 自回归任务与 ShapeNet-Car 设计任务",
+   "提供全部基准的实验脚本，声称可完整复现各方法官方结果",
+   "FlashBias（NeurIPS 2025）：向 Transformer 注入可学习空间距离偏置"
+  ],
+  "use_cases": [
+   "对比评测多种神经 PDE 求解器在我任务上的表现",
+   "复现论文官方实验结果作为研究基线",
+   "在自己的 PDE 数据集上开发新求解器模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2402.02366",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科学计算",
+   "偏微分方程",
+   "神经算子",
+   "基准评测",
+   "深度学习研究"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: NeuralSolver is an open-source library for deep learning researchers, especially for neural PDE solvers.",
+   "L23: - [x] **Transolver** - Transolver: A Fast Transformer Solver for PDEs on General Geometries [[ICML 2024]](https://arxiv."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

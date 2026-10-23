@@ -1,1 +1,76 @@
-{"fn": "temporalio/skill-temporal-developer", "sha": "704fd93fb30d", "source": "readme", "identity": {"one_liner": "面向编码代理的 Temporal 开发技能包（SKILL 知识资产）", "review": "由 Temporal 官方（temporalio）维护的开发技能包：为 Claude Code、Cursor、OpenAI Codex 等编码代理提供构建 Temporal 应用所需的领域知识与指引。可作为插件安装（三个专属插件仓库），也可通过 npx skills 或手动 git clone 到 ~/.claude/skills 等目录直接安装。内容覆盖 7 种已支持的 Temporal SDK 语言（Python/TypeScript/Go/Java/.NET/Rust/Ruby），PHP 尚在开发中（未完成）。", "highlights": ["打包为 Claude Code / Cursor / Codex 三种编码代理插件", "支持 npx skills add 命令行安装与手动 git clone 安装", "覆盖 7 种 Temporal SDK 语言（Rust 处于 Public Preview，PHP 进行中）"], "use_cases": ["让编码代理在开发 Temporal 应用时获得官方领域知识", "为团队统一各编码代理的 Temporal 开发指引"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "Temporal", "工作流引擎", "编码代理", "开发者知识包"], "domain": "工作流引擎/开发者工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A comprehensive skill for developers to use when building Temporal applications.", "L11: This skill is packaged as a plugin for major coding agents, which provides a simple way to install and receive future up", "L25: 1. `npx skills add temporalio/skill-temporal-developer`"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "temporalio/skill-temporal-developer",
+ "sha": "704fd93fb30d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向编码代理的 Temporal 开发技能包（SKILL 知识资产）",
+  "review": "由 Temporal 官方（temporalio）维护的开发技能包：为 Claude Code、Cursor、OpenAI Codex 等编码代理提供构建 Temporal 应用所需的领域知识与指引。可作为插件安装（三个专属插件仓库），也可通过 npx skills 或手动 git clone 到 ~/.claude/skills 等目录直接安装。内容覆盖 7 种已支持的 Temporal SDK 语言（Python/TypeScript/Go/Java/.NET/Rust/Ruby），PHP 尚在开发中（未完成）。",
+  "highlights": [
+   "打包为 Claude Code / Cursor / Codex 三种编码代理插件",
+   "支持 npx skills add 命令行安装与手动 git clone 安装",
+   "覆盖 7 种 Temporal SDK 语言（Rust 处于 Public Preview，PHP 进行中）"
+  ],
+  "use_cases": [
+   "让编码代理在开发 Temporal 应用时获得官方领域知识",
+   "为团队统一各编码代理的 Temporal 开发指引"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "Temporal",
+   "工作流引擎",
+   "编码代理",
+   "开发者知识包"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A comprehensive skill for developers to use when building Temporal applications.",
+   "L11: This skill is packaged as a plugin for major coding agents, which provides a simple way to install and receive future up",
+   "L25: 1. `npx skills add temporalio/skill-temporal-developer`"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

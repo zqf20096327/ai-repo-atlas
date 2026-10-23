@@ -1,1 +1,79 @@
-{"fn": "thesnarkitecht/rembrandt", "sha": "b19f3dd32d8d", "source": "readme", "identity": {"one_liner": "免费开源 RAW 照片编辑器与图库，含端侧 AI 功能，可自托管", "review": "面向摄影师的桌面端 RAW 显影与照片管理应用，支持 macOS/Windows/Linux，并可自托管在浏览器中使用。核心功能包括 1,000+ 相机 RAW 显影（GPU 处理）、非破坏性 XMP 编辑、HDR/全景/焦点堆栈合并、批处理与 Lightroom 目录及预设导入。AI 部分在设备本地运行：主体/深度/人物蒙版、降噪、超分辨率、生成式消除与扩展、CLIP 智能搜索、语音/文字指令调整。声明不做图层像素编辑，也不是 prompt 生成图像的工具。GPL-3.0 许可，免费无账号。", "highlights": ["1,000+ 相机 RAW 的 GPU 显影与非破坏性 XMP 编辑", "端侧 AI：主体/深度/人物蒙版、降噪、超分辨率、生成式消除/扩展", "CLIP 本地智能搜索（155 MB 模型，照片不上传）", "支持导入 Lightroom 目录与 .xmp/.lrtemplate 预设"], "use_cases": ["替代订阅制工具进行 RAW 显影与照片库管理", "在照片上使用 AI 蒙版、降噪、超分辨率等本地处理", "在自有电脑上自托管，通过浏览器远程编辑照片"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["照片编辑", "RAW 显影", "端侧 AI", "自托管", "图像处理"], "domain": "图像处理/摄影工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L145: |**What it is**|A RAW developer and photo library, in the same family as Lightroom Classic: develop, adjust, mask, retou", "L146: |**What it isn't**|A layer-based pixel editor like Photoshop or GIMP (no layers, text or painting), or a generative AI t", "L147: |**The AI**|Selects people, faces, subjects, objects and depth for masks, removes blemishes, denoises, refocuses, upscal"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thesnarkitecht/rembrandt",
+ "sha": "b19f3dd32d8d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "免费开源 RAW 照片编辑器与图库，含端侧 AI 功能，可自托管",
+  "review": "面向摄影师的桌面端 RAW 显影与照片管理应用，支持 macOS/Windows/Linux，并可自托管在浏览器中使用。核心功能包括 1,000+ 相机 RAW 显影（GPU 处理）、非破坏性 XMP 编辑、HDR/全景/焦点堆栈合并、批处理与 Lightroom 目录及预设导入。AI 部分在设备本地运行：主体/深度/人物蒙版、降噪、超分辨率、生成式消除与扩展、CLIP 智能搜索、语音/文字指令调整。声明不做图层像素编辑，也不是 prompt 生成图像的工具。GPL-3.0 许可，免费无账号。",
+  "highlights": [
+   "1,000+ 相机 RAW 的 GPU 显影与非破坏性 XMP 编辑",
+   "端侧 AI：主体/深度/人物蒙版、降噪、超分辨率、生成式消除/扩展",
+   "CLIP 本地智能搜索（155 MB 模型，照片不上传）",
+   "支持导入 Lightroom 目录与 .xmp/.lrtemplate 预设"
+  ],
+  "use_cases": [
+   "替代订阅制工具进行 RAW 显影与照片库管理",
+   "在照片上使用 AI 蒙版、降噪、超分辨率等本地处理",
+   "在自有电脑上自托管，通过浏览器远程编辑照片"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "照片编辑",
+   "RAW 显影",
+   "端侧 AI",
+   "自托管",
+   "图像处理"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L145: |**What it is**|A RAW developer and photo library, in the same family as Lightroom Classic: develop, adjust, mask, retou",
+   "L146: |**What it isn't**|A layer-based pixel editor like Photoshop or GIMP (no layers, text or painting), or a generative AI t",
+   "L147: |**The AI**|Selects people, faces, subjects, objects and depth for masks, removes blemishes, denoises, refocuses, upscal"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

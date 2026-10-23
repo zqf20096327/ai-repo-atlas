@@ -1,1 +1,80 @@
-{"fn": "thousandbrainsproject/tbp.monty", "sha": "d5d9c3604240", "source": "readme", "identity": {"one_liner": "基于千脑理论的感知运动学习框架，供研究者实验", "review": "Thousand Brains Project 开源的感知运动学习系统实现，遵循新皮层千脑理论原理，以发现 cortical columns 功能单元的 Vernon Mountcastle 命名为 Monty。项目最初在 Numenta 启动，现由独立非营利组织维护，部分由盖茨基金会资助。系统定期在一组感知运动基准任务上评估，实验配置存放于 src/tbp/monty/conf/experiment/ 目录，功能变更后自动重跑并更新结果。README 声明为早期 beta 版本，处于活跃开发中，非生产就绪代码。MIT 许可。", "highlights": ["千脑理论感知运动学习系统的首个实现", "定期在基准实验上评估并更新结果", "实验配置以代码形式存放于仓库", "配套白皮书（arXiv:2412.18354）与论文可引用"], "use_cases": ["研究感知运动学习与千脑理论的代码实现", "复现或扩展感知运动基准实验", "基于皮层柱模型开展学习与推理研究"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2412.18354", "demo_url": null, "self_declared_early": {"flag": true, "lines": [28]}}, "links": {"scenario_tags": ["神经科学启发的AI", "感知运动学习", "研究框架", "基准实验"], "domain": "神经科学/机器学习研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: *An open-source, sensorimotor learning system following the principles of the neocortex.*", "L8: This repository contains the first implementation of a **sensorimotor learning system** from the **Thousand Brains Proje", "L21: We regularly evaluate this system against a set of sensorimotor tasks, and report results in **benchmark experiments**. "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thousandbrainsproject/tbp.monty",
+ "sha": "d5d9c3604240",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于千脑理论的感知运动学习框架，供研究者实验",
+  "review": "Thousand Brains Project 开源的感知运动学习系统实现，遵循新皮层千脑理论原理，以发现 cortical columns 功能单元的 Vernon Mountcastle 命名为 Monty。项目最初在 Numenta 启动，现由独立非营利组织维护，部分由盖茨基金会资助。系统定期在一组感知运动基准任务上评估，实验配置存放于 src/tbp/monty/conf/experiment/ 目录，功能变更后自动重跑并更新结果。README 声明为早期 beta 版本，处于活跃开发中，非生产就绪代码。MIT 许可。",
+  "highlights": [
+   "千脑理论感知运动学习系统的首个实现",
+   "定期在基准实验上评估并更新结果",
+   "实验配置以代码形式存放于仓库",
+   "配套白皮书（arXiv:2412.18354）与论文可引用"
+  ],
+  "use_cases": [
+   "研究感知运动学习与千脑理论的代码实现",
+   "复现或扩展感知运动基准实验",
+   "基于皮层柱模型开展学习与推理研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2412.18354",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    28
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经科学启发的AI",
+   "感知运动学习",
+   "研究框架",
+   "基准实验"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: *An open-source, sensorimotor learning system following the principles of the neocortex.*",
+   "L8: This repository contains the first implementation of a **sensorimotor learning system** from the **Thousand Brains Proje",
+   "L21: We regularly evaluate this system against a set of sensorimotor tasks, and report results in **benchmark experiments**. "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

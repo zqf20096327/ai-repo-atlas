@@ -1,1 +1,77 @@
-{"fn": "thomashiemstra/fred", "sha": "65334df794a0", "source": "readme", "identity": {"one_liner": "3D 打印机械臂项目：用深度强化学习实现避障运动规划", "review": "个人 3D 打印六轴机械臂项目。核心是深度强化学习避障：将障碍物转为占据网格以卷积网络输入，采用 Soft Actor Critic 算法（TF-Agents 库实现）控制机械臂目标位姿，输出经 B-spline 平滑；替代基于势场梯度下降的经典方法。真实部署用 OpenCV aruco 标记做机器视觉定位障碍物，另含逆运动学实现（基于 Sciavicco & Siciliano 教材）、Xbox 手柄示教、Flask REST 控制面板与 Docker GPU 训练流程。硬件为 Dynamixel 舵机与 Bambu Lab P1S 打印件。", "highlights": ["Soft Actor Critic（TF-Agents）训练避障智能体，占据网格作为卷积输入", "OpenCV aruco 标记实现真实世界障碍物到数字空间的转换", "提供逆运动学实现（含 ik_documentation.pdf 数学文档）", "Flask REST API 控制面板与 Docker GPU 训练流程"], "use_cases": ["学习强化学习在机械臂避障规划中的应用", "参考自制 3D 打印机械臂的硬件与逆运动学实现", "用 aruco 视觉标记做机器人位置追踪与控制"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器人", "强化学习", "机械臂", "运动规划", "自制硬件"], "domain": "机器人/强化学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: Using deep reinforcement learning the robot can reach the goal whilst avoiding obstacles, it even outperforms a classica", "L37: The specific algorithm used here is the soft actor critic method (Soft Actor Critic__ Haarnoja et al., 2018). For the re"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thomashiemstra/fred",
+ "sha": "65334df794a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "3D 打印机械臂项目：用深度强化学习实现避障运动规划",
+  "review": "个人 3D 打印六轴机械臂项目。核心是深度强化学习避障：将障碍物转为占据网格以卷积网络输入，采用 Soft Actor Critic 算法（TF-Agents 库实现）控制机械臂目标位姿，输出经 B-spline 平滑；替代基于势场梯度下降的经典方法。真实部署用 OpenCV aruco 标记做机器视觉定位障碍物，另含逆运动学实现（基于 Sciavicco & Siciliano 教材）、Xbox 手柄示教、Flask REST 控制面板与 Docker GPU 训练流程。硬件为 Dynamixel 舵机与 Bambu Lab P1S 打印件。",
+  "highlights": [
+   "Soft Actor Critic（TF-Agents）训练避障智能体，占据网格作为卷积输入",
+   "OpenCV aruco 标记实现真实世界障碍物到数字空间的转换",
+   "提供逆运动学实现（含 ik_documentation.pdf 数学文档）",
+   "Flask REST API 控制面板与 Docker GPU 训练流程"
+  ],
+  "use_cases": [
+   "学习强化学习在机械臂避障规划中的应用",
+   "参考自制 3D 打印机械臂的硬件与逆运动学实现",
+   "用 aruco 视觉标记做机器人位置追踪与控制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人",
+   "强化学习",
+   "机械臂",
+   "运动规划",
+   "自制硬件"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Using deep reinforcement learning the robot can reach the goal whilst avoiding obstacles, it even outperforms a classica",
+   "L37: The specific algorithm used here is the soft actor critic method (Soft Actor Critic__ Haarnoja et al., 2018). For the re"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

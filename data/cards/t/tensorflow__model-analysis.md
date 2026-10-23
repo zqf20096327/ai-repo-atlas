@@ -33,7 +33,7 @@ TensorFlow Model Analysis (TFMA) 是用于评估 TensorFlow 模型的 Python 库
 
 ## 场景标签
 
- · 领域:机器学习基础设施/模型评估
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

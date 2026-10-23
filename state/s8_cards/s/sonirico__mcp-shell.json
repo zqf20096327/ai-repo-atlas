@@ -1,1 +1,76 @@
-{"fn": "sonirico/mcp-shell", "sha": "b054d4e08d28", "source": "readme", "identity": {"one_liner": "MCP 服务器：让 LLM 以受控、可审计方式运行 shell 与文件/git 操作", "review": "基于 mark3labs/mcp-go 的 Go 实现 Model Context Protocol 服务器，为 LLM 提供类型化 shell 能力工具。默认安全模式只注册类型化工具（文件读取、grep/glob、git 检查、可选的写入与脚本执行），路径限制在 working_directory 内，不提供原生 shell 命令；通过 MCP_SHELL_ALLOW_UNSAFE=1 可显式切换到无限制 shell_exec。安全机制包括服务端自建 argv、git 加固、子进程最小环境变量、非 root Docker 镜像。面向需要在 Claude Desktop 等 MCP 客户端中接入本地命令执行能力的开发者。", "highlights": ["默认安全模式仅注册类型化工具，路径限定在 working_directory", "MCP_SHELL_ALLOW_UNSAFE=1 显式开启无验证的 shell_exec", "git 加固：--end-of-options、拒绝以 - 开头的 ref、禁用 hooks/pager", "子进程仅继承 PATH/HOME/LANG，不暴露服务器环境变量"], "use_cases": ["为 Claude Desktop 等 MCP 客户端添加本地文件与 git 操作工具", "让 AI agent 在受控目录内执行可审计的命令", "需要原生 shell 时以显式环境变量切换无限制模式"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "LLM工具调用", "shell执行/安全", "开发者工具"], "domain": "LLM 基础设施/MCP 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: MCP server that runs shell commands. Your LLM gets a tool; you get control over what runs and how.", "L8: Built on mark3labs/mcp-go. Written in Go."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sonirico/mcp-shell",
+ "sha": "b054d4e08d28",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MCP 服务器：让 LLM 以受控、可审计方式运行 shell 与文件/git 操作",
+  "review": "基于 mark3labs/mcp-go 的 Go 实现 Model Context Protocol 服务器，为 LLM 提供类型化 shell 能力工具。默认安全模式只注册类型化工具（文件读取、grep/glob、git 检查、可选的写入与脚本执行），路径限制在 working_directory 内，不提供原生 shell 命令；通过 MCP_SHELL_ALLOW_UNSAFE=1 可显式切换到无限制 shell_exec。安全机制包括服务端自建 argv、git 加固、子进程最小环境变量、非 root Docker 镜像。面向需要在 Claude Desktop 等 MCP 客户端中接入本地命令执行能力的开发者。",
+  "highlights": [
+   "默认安全模式仅注册类型化工具，路径限定在 working_directory",
+   "MCP_SHELL_ALLOW_UNSAFE=1 显式开启无验证的 shell_exec",
+   "git 加固：--end-of-options、拒绝以 - 开头的 ref、禁用 hooks/pager",
+   "子进程仅继承 PATH/HOME/LANG，不暴露服务器环境变量"
+  ],
+  "use_cases": [
+   "为 Claude Desktop 等 MCP 客户端添加本地文件与 git 操作工具",
+   "让 AI agent 在受控目录内执行可审计的命令",
+   "需要原生 shell 时以显式环境变量切换无限制模式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "LLM工具调用",
+   "shell执行/安全",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: MCP server that runs shell commands. Your LLM gets a tool; you get control over what runs and how.",
+   "L8: Built on mark3labs/mcp-go. Written in Go."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,83 @@
-{"fn": "summerliuuu/no-no-debug", "sha": "eeac76e2c085", "source": "readme", "identity": {"one_liner": "AI 编程助手的跨会话错误记忆与自我进化技能", "review": "面向 AI 编程助手（以 Claude Code 为主）的自进化系统：以 SKILL.md 形式安装，自动记录纠正与错误到本地 error_log.md，通过三道关卡（变更前影响确认、变更后验证、部署前非管理员测试）、定期回顾（默认 3 天，可配 1/3/7 天）、规则累积（新错误类型生成预防规则，连续 4 个干净周期标记治愈）形成反馈循环；另有确认门与自动配置 hooks。跟踪 18 个维度。完整自动 hooks 仅限 Claude Code，其他助手需粘贴 SKILL.md 且依赖模型自觉遵循。", "highlights": ["错误自动记录到本地 error_log.md 并按维度归类定期回顾", "规则跨会话持久化，新错误类型自动生成预防规则", "三道关卡：变更前影响、变更后验证、部署前非管理员测试", "18 个跟踪维度，覆盖验证、回归、风格一致性等"], "use_cases": ["让 Claude Code 记住历史错误避免重复调试", "为 ChatGPT/Cursor/Copilot 等助手添加跨会话错误记忆", "在部署前强制执行非管理员账号测试等检查点"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编程助手", "agent技能", "错误追踪", "自我改进", "Claude生态"], "domain": "开发者工具/AI 编程助手增强", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["小红书账号 @Summer的AI日常", "中文版 README 链接"]}, "trust": {"confidence": "high", "evidence": ["L3: A self-evolution system for AI coding assistants", "L17: This skill fills the gap in AI's cross-session error memory, delivering three things:", "L56: Automatically configures Claude Code hooks on install:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "summerliuuu/no-no-debug",
+ "sha": "eeac76e2c085",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编程助手的跨会话错误记忆与自我进化技能",
+  "review": "面向 AI 编程助手（以 Claude Code 为主）的自进化系统：以 SKILL.md 形式安装，自动记录纠正与错误到本地 error_log.md，通过三道关卡（变更前影响确认、变更后验证、部署前非管理员测试）、定期回顾（默认 3 天，可配 1/3/7 天）、规则累积（新错误类型生成预防规则，连续 4 个干净周期标记治愈）形成反馈循环；另有确认门与自动配置 hooks。跟踪 18 个维度。完整自动 hooks 仅限 Claude Code，其他助手需粘贴 SKILL.md 且依赖模型自觉遵循。",
+  "highlights": [
+   "错误自动记录到本地 error_log.md 并按维度归类定期回顾",
+   "规则跨会话持久化，新错误类型自动生成预防规则",
+   "三道关卡：变更前影响、变更后验证、部署前非管理员测试",
+   "18 个跟踪维度，覆盖验证、回归、风格一致性等"
+  ],
+  "use_cases": [
+   "让 Claude Code 记住历史错误避免重复调试",
+   "为 ChatGPT/Cursor/Copilot 等助手添加跨会话错误记忆",
+   "在部署前强制执行非管理员账号测试等检查点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程助手",
+   "agent技能",
+   "错误追踪",
+   "自我改进",
+   "Claude生态"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "小红书账号 @Summer的AI日常",
+   "中文版 README 链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A self-evolution system for AI coding assistants",
+   "L17: This skill fills the gap in AI's cross-session error memory, delivering three things:",
+   "L56: Automatically configures Claude Code hooks on install:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

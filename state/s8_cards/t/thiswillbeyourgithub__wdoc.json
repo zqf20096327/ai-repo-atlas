@@ -1,1 +1,89 @@
-{"fn": "thiswillbeyourgithub/wdoc", "sha": "767237be9142", "source": "readme", "identity": {"one_liner": "对海量异构文档做检索问答与摘要的 RAG 工具", "review": "面向研究者、学生与专业人士的 RAG 系统：可同时解析 15+ 种文件格式（PDF/EPUB/音频/视频/Anki/YouTube 等）并建索引，通过嵌入检索配合双模型流水线（改写查询、弱模型筛选、强模型逐文档作答、语义聚类合并）输出带来源哈希的 Markdown 回答；另提供递归摘要、网页搜索、私有模式（不出本机）等能力。基于 LangChain 与 LiteLLM 后端，支持任意 LLM 提供商含本地模型。以 uvx/pip 安装的 CLI 与 Python 库形式提供，另有 Gradio Docker Web UI。仍处于活跃开发期，功能持续变动。", "highlights": ["15+ 文件类型可组合进同一索引并同时检索", "多阶段查询流水线（改写-评估-作答-语义聚类合并）且回答带来源哈希", "私有模式：禁用 API key、隔离缓存、拦截外连", "递归摘要与 DuckDuckGo 网页搜索"], "use_cases": ["对大量 PDF、讲义、音频等混合资料提问并获得可溯源回答", "对整本书或长文档生成保留论证脉络的递归摘要", "在不出本机的私有模式下用本地模型查自己的资料库"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "high", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [17, 19]}}, "links": {"scenario_tags": ["RAG", "文档问答", "摘要", "本地知识库", "CLI工具"], "domain": "LLM 基础设施/RAG 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "deepseek", "openrouter", "cohere", "bedrock", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: `wdoc` is a powerful RAG (Retrieval-Augmented Generation) system designed to summarize, search, and query documents acro", "L31:  * **Actually *useful* AI powered queries**: get the **sourced** indented markdown answer to your questions instead of h", "L107:  5. Each document is identified by a unique hash and the answers are sourced, meaning you know from which document comes"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thiswillbeyourgithub/wdoc",
+ "sha": "767237be9142",
+ "source": "readme",
+ "identity": {
+  "one_liner": "对海量异构文档做检索问答与摘要的 RAG 工具",
+  "review": "面向研究者、学生与专业人士的 RAG 系统：可同时解析 15+ 种文件格式（PDF/EPUB/音频/视频/Anki/YouTube 等）并建索引，通过嵌入检索配合双模型流水线（改写查询、弱模型筛选、强模型逐文档作答、语义聚类合并）输出带来源哈希的 Markdown 回答；另提供递归摘要、网页搜索、私有模式（不出本机）等能力。基于 LangChain 与 LiteLLM 后端，支持任意 LLM 提供商含本地模型。以 uvx/pip 安装的 CLI 与 Python 库形式提供，另有 Gradio Docker Web UI。仍处于活跃开发期，功能持续变动。",
+  "highlights": [
+   "15+ 文件类型可组合进同一索引并同时检索",
+   "多阶段查询流水线（改写-评估-作答-语义聚类合并）且回答带来源哈希",
+   "私有模式：禁用 API key、隔离缓存、拦截外连",
+   "递归摘要与 DuckDuckGo 网页搜索"
+  ],
+  "use_cases": [
+   "对大量 PDF、讲义、音频等混合资料提问并获得可溯源回答",
+   "对整本书或长文档生成保留论证脉络的递归摘要",
+   "在不出本机的私有模式下用本地模型查自己的资料库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    17,
+    19
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "文档问答",
+   "摘要",
+   "本地知识库",
+   "CLI工具"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "openrouter",
+   "cohere",
+   "bedrock",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: `wdoc` is a powerful RAG (Retrieval-Augmented Generation) system designed to summarize, search, and query documents acro",
+   "L31:  * **Actually *useful* AI powered queries**: get the **sourced** indented markdown answer to your questions instead of h",
+   "L107:  5. Each document is identified by a unique hash and the answers are sourced, meaning you know from which document comes"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

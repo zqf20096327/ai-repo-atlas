@@ -1,1 +1,76 @@
-{"fn": "the-database/traiNNer-redux", "sha": "bf5703cb987d", "source": "readme", "identity": {"one_liner": "图像超分与修复的 PyTorch 模型训练框架", "review": "基于 PyTorch 的深度学习训练框架，用于训练图像超分辨率与修复模型，可将模型应用于图像和视频的放大与修复。推荐使用 NVIDIA 显卡，AMD 显卡在 Linux 上可经 ROCm 运行。README 提供周边工具链资源：OpenModelDB 作为预训练模型仓库、chaiNNer 可运行本框架训练的模型并辅助数据集准备、多个数据集退化与对齐工具。使用说明指向外部 getting started 页面。", "highlights": ["训练 PyTorch 超分/修复模型，支持图像与视频", "NVIDIA 推荐，AMD 在 Linux 上经 ROCm 可用", "训练出的模型可提交 OpenModelDB 并在 chaiNNer 中运行"], "use_cases": ["训练自己的图像/视频超分辨率模型", "借助数据集退化与对齐工具构建训练数据", "为 chaiNNer 等工具产出可用的 upscale 模型"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["超分辨率", "图像修复", "训练框架", "PyTorch"], "domain": "计算机视觉/图像超分", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: traiNNer-redux is a deep learning training framework for image super resolution and restoration which allows you to trai", "L14: - chaiNNer: General purpose tool for AI upscaling and image processing, models trained with this repo can be run on chai"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "the-database/traiNNer-redux",
+ "sha": "bf5703cb987d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "图像超分与修复的 PyTorch 模型训练框架",
+  "review": "基于 PyTorch 的深度学习训练框架，用于训练图像超分辨率与修复模型，可将模型应用于图像和视频的放大与修复。推荐使用 NVIDIA 显卡，AMD 显卡在 Linux 上可经 ROCm 运行。README 提供周边工具链资源：OpenModelDB 作为预训练模型仓库、chaiNNer 可运行本框架训练的模型并辅助数据集准备、多个数据集退化与对齐工具。使用说明指向外部 getting started 页面。",
+  "highlights": [
+   "训练 PyTorch 超分/修复模型，支持图像与视频",
+   "NVIDIA 推荐，AMD 在 Linux 上经 ROCm 可用",
+   "训练出的模型可提交 OpenModelDB 并在 chaiNNer 中运行"
+  ],
+  "use_cases": [
+   "训练自己的图像/视频超分辨率模型",
+   "借助数据集退化与对齐工具构建训练数据",
+   "为 chaiNNer 等工具产出可用的 upscale 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "超分辨率",
+   "图像修复",
+   "训练框架",
+   "PyTorch"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: traiNNer-redux is a deep learning training framework for image super resolution and restoration which allows you to trai",
+   "L14: - chaiNNer: General purpose tool for AI upscaling and image processing, models trained with this repo can be run on chai"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

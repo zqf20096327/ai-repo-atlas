@@ -1,1 +1,77 @@
-{"fn": "taufeeque9/HumanFallDetection", "sha": "5fec84b81e90", "source": "readme", "identity": {"one_liner": "多摄像头多人跌倒检测器：姿态估计+LSTM 实时判定跌倒", "review": "基于 Python 的实时跌倒检测系统：在 openpifpaf 人体姿态估计之上扩展多摄像头与多人跟踪，从姿态序列提取 5 个时空特征，经 LSTM 分类器输出“跌倒/未跌倒”二分类结果。支持视频文件或实时摄像头输入，可保存带标注的输出视频，可用参数关闭 CUDA 改用 CPU。模型使用 UP-Fall Detection 数据集训练，附带下载数据集的 Colab 笔记本。以源码仓库形式提供，pip 安装依赖后运行 fall_detector.py。", "highlights": ["openpifpaf 姿态估计 + 多摄像头多人跟踪", "LSTM 分类器输出 Fall/No Fall 二分类", "支持视频文件与实时摄像头输入，可保存输出视频", "提供 UP-Fall Detection 数据集下载与编译的 Colab 笔记本"], "use_cases": ["用单个或多个摄像头实时监测老人跌倒", "对已有视频文件批量做跌倒检测", "基于 UP-Fall Detection 数据集复现或扩展 LSTM 跌倒检测研究"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://doi.org/10.1117/12.2580700", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["跌倒检测", "人体姿态估计", "LSTM/时序分类", "视频分析", "医疗监护"], "domain": "计算机视觉/医疗监护", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L2: We augment human pose estimation", "L4: neural network to predict two classes: “Fall” or “No Fall”. From the poses, we extract five temporal and spatial"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "taufeeque9/HumanFallDetection",
+ "sha": "5fec84b81e90",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多摄像头多人跌倒检测器：姿态估计+LSTM 实时判定跌倒",
+  "review": "基于 Python 的实时跌倒检测系统：在 openpifpaf 人体姿态估计之上扩展多摄像头与多人跟踪，从姿态序列提取 5 个时空特征，经 LSTM 分类器输出“跌倒/未跌倒”二分类结果。支持视频文件或实时摄像头输入，可保存带标注的输出视频，可用参数关闭 CUDA 改用 CPU。模型使用 UP-Fall Detection 数据集训练，附带下载数据集的 Colab 笔记本。以源码仓库形式提供，pip 安装依赖后运行 fall_detector.py。",
+  "highlights": [
+   "openpifpaf 姿态估计 + 多摄像头多人跟踪",
+   "LSTM 分类器输出 Fall/No Fall 二分类",
+   "支持视频文件与实时摄像头输入，可保存输出视频",
+   "提供 UP-Fall Detection 数据集下载与编译的 Colab 笔记本"
+  ],
+  "use_cases": [
+   "用单个或多个摄像头实时监测老人跌倒",
+   "对已有视频文件批量做跌倒检测",
+   "基于 UP-Fall Detection 数据集复现或扩展 LSTM 跌倒检测研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://doi.org/10.1117/12.2580700",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "跌倒检测",
+   "人体姿态估计",
+   "LSTM/时序分类",
+   "视频分析",
+   "医疗监护"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: We augment human pose estimation",
+   "L4: neural network to predict two classes: “Fall” or “No Fall”. From the poses, we extract five temporal and spatial"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

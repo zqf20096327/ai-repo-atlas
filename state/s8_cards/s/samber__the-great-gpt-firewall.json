@@ -1,1 +1,76 @@
-{"fn": "samber/the-great-gpt-firewall", "sha": "dfc566623bac", "source": "readme", "identity": {"one_liner": "记录各网站通过 robots.txt 屏蔽 AI 爬虫的扫描清单", "review": "对新闻媒体、流媒体、社交平台、学术出版、开发者站点等约 200 个网站进行 robots.txt 扫描，按 11 个类别列出各站点对 AI Agent/AI 爬虫的封锁状态（通过/封锁/未知）及国别，每月更新并附各类别统计比例。README 说明 robots.txt 指令机制与常见爬虫 User-agent（如 GPTBot），并提供 Python 抓取脚本用于重新扫描生成表格，供关注 AI 爬虫与内容封锁话题的人查阅。", "highlights": ["约 200 个网站、11 个类别的 robots.txt 封锁状态扫描结果", "每类别附通过/封锁/未知比例统计，每月更新", "提供 scrape.py 抓取脚本可重新扫描", "声明清单仅作信息用途，认可网站限制爬虫的权利"], "use_cases": ["查看我关注的新闻或流媒体网站是否屏蔽 AI 爬虫", "了解各内容行业对 AI Agent 的封锁比例分布", "基于扫描脚本自行更新或扩展网站数据"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI爬虫", "robots.txt", "数据清单", "内容封锁/审查"], "domain": "Web/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L1: # The Great GPT Firewall 📛", "L3: This collection is a curated list of websites that employ the `robots.txt` file to restrict access to AI Agents, AI craw"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "samber/the-great-gpt-firewall",
+ "sha": "dfc566623bac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "记录各网站通过 robots.txt 屏蔽 AI 爬虫的扫描清单",
+  "review": "对新闻媒体、流媒体、社交平台、学术出版、开发者站点等约 200 个网站进行 robots.txt 扫描，按 11 个类别列出各站点对 AI Agent/AI 爬虫的封锁状态（通过/封锁/未知）及国别，每月更新并附各类别统计比例。README 说明 robots.txt 指令机制与常见爬虫 User-agent（如 GPTBot），并提供 Python 抓取脚本用于重新扫描生成表格，供关注 AI 爬虫与内容封锁话题的人查阅。",
+  "highlights": [
+   "约 200 个网站、11 个类别的 robots.txt 封锁状态扫描结果",
+   "每类别附通过/封锁/未知比例统计，每月更新",
+   "提供 scrape.py 抓取脚本可重新扫描",
+   "声明清单仅作信息用途，认可网站限制爬虫的权利"
+  ],
+  "use_cases": [
+   "查看我关注的新闻或流媒体网站是否屏蔽 AI 爬虫",
+   "了解各内容行业对 AI Agent 的封锁比例分布",
+   "基于扫描脚本自行更新或扩展网站数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI爬虫",
+   "robots.txt",
+   "数据清单",
+   "内容封锁/审查"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # The Great GPT Firewall 📛",
+   "L3: This collection is a curated list of websites that employ the `robots.txt` file to restrict access to AI Agents, AI craw"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

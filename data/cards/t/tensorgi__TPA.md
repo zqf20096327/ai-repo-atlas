@@ -33,7 +33,7 @@ NeurIPS 2025 Spotlight 论文 "Tensor Product Attention Is All You Need" 的官�
 
 ## 场景标签
 
- · 领域:深度学习/模型架构
+`模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 

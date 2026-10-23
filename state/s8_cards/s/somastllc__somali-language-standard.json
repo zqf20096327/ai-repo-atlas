@@ -1,1 +1,79 @@
-{"fn": "somastllc/somali-language-standard", "sha": "3b3db9ce25e6", "source": "readme", "identity": {"one_liner": "索马里语的开放机器可读语言标准（RFC 式规范目录）", "review": "SLS 为索马里语定义正字法、语法、术语、翻译与 AI/基准资源的规范化标准：以带版本号、可引用的 RFC 式生命周期发布（SLS-XXXX 编号），所有数据以 JSONL 记录、经 schema 校验并带溯源。面向 AI 厂商、翻译系统、NLP 研究者、教育者与政府机构，提供术语治理程序、平行翻译对、指令数据集与评测套件（两者分离以防污染）。当前无标准达到 Stable，多数处于 Proposed/Review 阶段，配套 Rust 仓库校验器与 PR 校验流程。", "highlights": ["RFC 式编号标准目录（SLS-XXXX），支持精确合规声明", "全部数据 JSONL、schema 校验、带溯源", "评测套件与指令数据集严格分离以防污染", "术语治理程序覆盖 AI、医学、法律等 20 个领域"], "use_cases": ["为索马里语 NLP 系统提供可实现的规范性语言标准", "为 AI 厂商与翻译系统提供术语与正字法权威参照", "构建索马里语评测基准并防止数据污染"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [15]}}, "links": {"scenario_tags": ["语言标准", "低资源语言", "NLP", "评测基准", "语言学"], "domain": "语言学/NLP 标准", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: SLS defines grammar, orthography, terminology, translation guidance, style", "L44: - **AI resources and benchmarks**: prompts, instruction datasets, and"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "somastllc/somali-language-standard",
+ "sha": "3b3db9ce25e6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "索马里语的开放机器可读语言标准（RFC 式规范目录）",
+  "review": "SLS 为索马里语定义正字法、语法、术语、翻译与 AI/基准资源的规范化标准：以带版本号、可引用的 RFC 式生命周期发布（SLS-XXXX 编号），所有数据以 JSONL 记录、经 schema 校验并带溯源。面向 AI 厂商、翻译系统、NLP 研究者、教育者与政府机构，提供术语治理程序、平行翻译对、指令数据集与评测套件（两者分离以防污染）。当前无标准达到 Stable，多数处于 Proposed/Review 阶段，配套 Rust 仓库校验器与 PR 校验流程。",
+  "highlights": [
+   "RFC 式编号标准目录（SLS-XXXX），支持精确合规声明",
+   "全部数据 JSONL、schema 校验、带溯源",
+   "评测套件与指令数据集严格分离以防污染",
+   "术语治理程序覆盖 AI、医学、法律等 20 个领域"
+  ],
+  "use_cases": [
+   "为索马里语 NLP 系统提供可实现的规范性语言标准",
+   "为 AI 厂商与翻译系统提供术语与正字法权威参照",
+   "构建索马里语评测基准并防止数据污染"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语言标准",
+   "低资源语言",
+   "NLP",
+   "评测基准",
+   "语言学"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: SLS defines grammar, orthography, terminology, translation guidance, style",
+   "L44: - **AI resources and benchmarks**: prompts, instruction datasets, and"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

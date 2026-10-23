@@ -1,1 +1,78 @@
-{"fn": "surendranb/google-analytics-mcp", "sha": "a7a77bfcf185", "source": "readme", "identity": {"one_liner": "让 AI agent 查询 Google Analytics 4 数据的 MCP 服务器", "review": "面向 AI agent、agentic workflow 与 MCP 客户端的 Google Analytics 4 数据服务器：提供多维报告查询、实时报告、账户与属性列表、维度/指标 schema 发现等 8 个工具，聚合在服务端完成并内置默认安全设置。附带从 GitHub 动态加载的分析技能（流量诊断、渠道归因、电商分析、AI 引荐流量分析）。支持 Claude Desktop/Code、Cursor、VS Code、Windsurf 等客户端配置，提供一行安装脚本与 uvx 运行方式；收集匿名遥测，可经环境变量退出。", "highlights": ["8 个工具：多维 GA4 报告、实时报告、schema 发现、账户/属性列表", "从 GitHub 动态加载的分析技能与 playbook（流量诊断、渠道归因、电商漏斗等）", "一键安装脚本自动配置 Claude Desktop、Cursor、VS Code 等客户端", "服务端聚合与安全默认值，减少数据整理工作"], "use_cases": ["让 Claude/Cursor 等 MCP 客户端直接查询我的网站流量数据", "用自然语言分析 GA4 的用户行为与转化漏斗", "诊断流量骤降并按渠道做归因分析"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://ga4.builditwithai.xyz", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "数据分析", "Google Analytics", "AI Agent 工具"], "domain": "数据分析/AI 工具接入", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: > **Model Context Protocol (MCP) server for Google Analytics 4: real-time query exploration, schema discovery, metric ag", "L55: ## 🛠️ Tools & Capabilities"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "surendranb/google-analytics-mcp",
+ "sha": "a7a77bfcf185",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 查询 Google Analytics 4 数据的 MCP 服务器",
+  "review": "面向 AI agent、agentic workflow 与 MCP 客户端的 Google Analytics 4 数据服务器：提供多维报告查询、实时报告、账户与属性列表、维度/指标 schema 发现等 8 个工具，聚合在服务端完成并内置默认安全设置。附带从 GitHub 动态加载的分析技能（流量诊断、渠道归因、电商分析、AI 引荐流量分析）。支持 Claude Desktop/Code、Cursor、VS Code、Windsurf 等客户端配置，提供一行安装脚本与 uvx 运行方式；收集匿名遥测，可经环境变量退出。",
+  "highlights": [
+   "8 个工具：多维 GA4 报告、实时报告、schema 发现、账户/属性列表",
+   "从 GitHub 动态加载的分析技能与 playbook（流量诊断、渠道归因、电商漏斗等）",
+   "一键安装脚本自动配置 Claude Desktop、Cursor、VS Code 等客户端",
+   "服务端聚合与安全默认值，减少数据整理工作"
+  ],
+  "use_cases": [
+   "让 Claude/Cursor 等 MCP 客户端直接查询我的网站流量数据",
+   "用自然语言分析 GA4 的用户行为与转化漏斗",
+   "诊断流量骤降并按渠道做归因分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ga4.builditwithai.xyz",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "数据分析",
+   "Google Analytics",
+   "AI Agent 工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: > **Model Context Protocol (MCP) server for Google Analytics 4: real-time query exploration, schema discovery, metric ag",
+   "L55: ## 🛠️ Tools & Capabilities"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

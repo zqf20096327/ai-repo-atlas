@@ -32,7 +32,7 @@ Yuan Tang 所著 Manning 出版书籍《Distributed Machine Learning Patterns》
 
 ## 场景标签
 
- · 领域:分布式机器学习/MLOps
+`MLOps` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

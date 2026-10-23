@@ -1,1 +1,84 @@
-{"fn": "sakeven/Selected", "sha": "48585ed928f2", "source": "readme", "identity": {"one_liner": "macOS 划词操作菜单栏工具：搜索/翻译/朗读/AI 处理选中文本", "review": "macOS 菜单栏应用，针对选中文本弹出操作栏：搜索、翻译、复制、朗读、打开链接、地图、计算器等；另提供 ⌥X 快速输入面板与默认关闭的剪贴板历史。AI 功能（翻译、聊天、摘要/润色/提取等）需配置 OpenAI 或 Claude API key，无 key 时搜索与复制仍可用。支持浏览器自动化读取网页选中文本与来源 URL，并通过 .selectedext 插件（config.yaml）自定义 URL、快捷键、AI Prompt、本地命令等动作。要求 macOS 15.0+，从 Releases 下载安装包。", "highlights": ["选中文本弹出操作栏：搜索/翻译/复制/朗读/链接/地图/计算", "OpenAI 与 Claude 双 provider 配置，支持自定义 API Host 与模型", "剪贴词历史（默认关闭）+ AI 动作（摘要/解释/润色/提取/翻译）", "插件系统：可视化编辑器 + YAML，支持 URL/macOS Service/AI Prompt/本地命令动作"], "use_cases": ["在任何应用里划词后直接搜索、翻译或让 AI 摘要改写", "通过快速输入面板处理未选中的文本", "管理和复用剪贴板历史内容", "自定义插件扩展文本处理动作"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["划词工具", "效率工具", "剪贴板管理", "AI助手", "macOS菜单栏应用"], "domain": "桌面效率工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["支持简体中文界面"]}, "trust": {"confidence": "high", "evidence": ["L3: A macOS menu bar app for working with selected text. Select a passage to search, translate, copy, read aloud, or run a c", "L19: 5. Select text in another app and click an action on the toolbar. Search and copy work without an AI key. To use transla", "L59: Open **Settings → General** and choose **OpenAI** or **Claude** as the **AI Service**. Enter the key for that provider a"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sakeven/Selected",
+ "sha": "48585ed928f2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 划词操作菜单栏工具：搜索/翻译/朗读/AI 处理选中文本",
+  "review": "macOS 菜单栏应用，针对选中文本弹出操作栏：搜索、翻译、复制、朗读、打开链接、地图、计算器等；另提供 ⌥X 快速输入面板与默认关闭的剪贴板历史。AI 功能（翻译、聊天、摘要/润色/提取等）需配置 OpenAI 或 Claude API key，无 key 时搜索与复制仍可用。支持浏览器自动化读取网页选中文本与来源 URL，并通过 .selectedext 插件（config.yaml）自定义 URL、快捷键、AI Prompt、本地命令等动作。要求 macOS 15.0+，从 Releases 下载安装包。",
+  "highlights": [
+   "选中文本弹出操作栏：搜索/翻译/复制/朗读/链接/地图/计算",
+   "OpenAI 与 Claude 双 provider 配置，支持自定义 API Host 与模型",
+   "剪贴词历史（默认关闭）+ AI 动作（摘要/解释/润色/提取/翻译）",
+   "插件系统：可视化编辑器 + YAML，支持 URL/macOS Service/AI Prompt/本地命令动作"
+  ],
+  "use_cases": [
+   "在任何应用里划词后直接搜索、翻译或让 AI 摘要改写",
+   "通过快速输入面板处理未选中的文本",
+   "管理和复用剪贴板历史内容",
+   "自定义插件扩展文本处理动作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "划词工具",
+   "效率工具",
+   "剪贴板管理",
+   "AI助手",
+   "macOS菜单栏应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "支持简体中文界面"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A macOS menu bar app for working with selected text. Select a passage to search, translate, copy, read aloud, or run a c",
+   "L19: 5. Select text in another app and click an action on the toolbar. Search and copy work without an AI key. To use transla",
+   "L59: Open **Settings → General** and choose **OpenAI** or **Claude** as the **AI Service**. Enter the key for that provider a"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

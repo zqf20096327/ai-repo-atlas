@@ -1,1 +1,84 @@
-{"fn": "qkycir-123/dsh-run2skill", "sha": "d8ef2a6f27c2", "source": "readme", "identity": {"one_liner": "DSH 插件：把成功会话经验自动整理为可复用 Skill", "review": "面向 DeepSeek Harness（DSH）的插件：在会话空闲或收到保存请求时，把用户教给 Agent 的纠正、约束与工作流整理成 Skill 草稿，附对话来源供审核，可确认保存到当前项目或所有项目，使用 DSH 默认 Skill 目录。草稿在本地管理，仅将筛选脱敏后的必要对话片段交给当前会话模型分析。通过 dsh plugin 命令安装，支持 Desktop 与 Web 两种 profile，已发布版本适配 DSH 0.2.0-rc.2。", "highlights": ["会话空闲或显式请求时自动整理经验为 Skill 草稿", "草稿附对话来源，支持确认保存/要求修改/放弃", "Skill 可保存到当前项目或所有项目，沿用 DSH Skill 目录", "草稿本地管理，仅提交筛选脱敏后的必要片段给当前模型"], "use_cases": ["把反复教 Agent 的纠正和约束沉淀为可复用 Skill", "审核 Agent 自动生成的技能草稿再决定是否保存", "在多个项目间复用同一套工作流 Skill"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [35], "note": "源码候选 0.5.0-alpha.5 标注 alpha"}}, "links": {"scenario_tags": ["agent技能", "经验沉淀", "DSH插件", "本地优先"], "domain": "AI Agent 工具链/插件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文 README（提供 English 链接）"]}, "trust": {"confidence": "high", "evidence": ["L12: Run2Skill 把你在 DeepSeek Harness（DSH）里教给 Agent 的纠正、约束和工作流，整理成可复用的 Skill。你查看草稿、提出修改意见，确认后保存。", "L62: Run2Skill 在会话空闲或收到保存请求时整理经验。有草稿需要审核时，DSH 会通知你。也可以打开插件页，点击**立即整理本次经验**。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "qkycir-123/dsh-run2skill",
+ "sha": "d8ef2a6f27c2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DSH 插件：把成功会话经验自动整理为可复用 Skill",
+  "review": "面向 DeepSeek Harness（DSH）的插件：在会话空闲或收到保存请求时，把用户教给 Agent 的纠正、约束与工作流整理成 Skill 草稿，附对话来源供审核，可确认保存到当前项目或所有项目，使用 DSH 默认 Skill 目录。草稿在本地管理，仅将筛选脱敏后的必要对话片段交给当前会话模型分析。通过 dsh plugin 命令安装，支持 Desktop 与 Web 两种 profile，已发布版本适配 DSH 0.2.0-rc.2。",
+  "highlights": [
+   "会话空闲或显式请求时自动整理经验为 Skill 草稿",
+   "草稿附对话来源，支持确认保存/要求修改/放弃",
+   "Skill 可保存到当前项目或所有项目，沿用 DSH Skill 目录",
+   "草稿本地管理，仅提交筛选脱敏后的必要片段给当前模型"
+  ],
+  "use_cases": [
+   "把反复教 Agent 的纠正和约束沉淀为可复用 Skill",
+   "审核 Agent 自动生成的技能草稿再决定是否保存",
+   "在多个项目间复用同一套工作流 Skill"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    35
+   ],
+   "note": "源码候选 0.5.0-alpha.5 标注 alpha"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "经验沉淀",
+   "DSH插件",
+   "本地优先"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README（提供 English 链接）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Run2Skill 把你在 DeepSeek Harness（DSH）里教给 Agent 的纠正、约束和工作流，整理成可复用的 Skill。你查看草稿、提出修改意见，确认后保存。",
+   "L62: Run2Skill 在会话空闲或收到保存请求时整理经验。有草稿需要审核时，DSH 会通知你。也可以打开插件页，点击**立即整理本次经验**。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

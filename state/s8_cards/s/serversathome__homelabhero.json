@@ -1,1 +1,77 @@
-{"fn": "serversathome/homelabhero", "sha": "c757af8ece22", "source": "readme", "identity": {"one_liner": "把 LXC 装成 AI 家庭实验室控制中心：装 Claude Code 并代理凭据", "review": "面向自建家庭实验室（homelab）的一键安装工具：在全新 Ubuntu LXC 上以一条命令安装 Claude Code、claudecodeui Web 界面（端口 3001）以及预置技能。核心机制是凭据代理：Claude 以 hhagent 用户运行，无法读取 vault 中的凭据，通过 hh run 与单一 sudoers 规则经 SSH 操作 TrueNAS/Proxmox/Linux/MikroTik，另提供 UniFi/Firewalla/NetBird/Cloudflare 四个网络集成（部分只读）。仅支持 Ubuntu/Debian（依赖 apt/systemd/visudo）。", "highlights": ["一条命令安装 Claude Code + Web UI + 预置技能", "凭据隔离 vault：agent 无读取权限，凭据不接触 LLM", "hh run 统一命令经 SSH 操作 TrueNAS/Proxmox/Linux/MikroTik", "UniFi/Firewalla（只读）与 NetBird/Cloudflare（可写）四个网络集成"], "use_cases": ["把家里的服务器、虚拟机统一交给 Claude 管理", "让 AI 运维主机而不暴露 SSH 凭据", "集中查看所有主机上运行的 VM、容器与应用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://youtu.be/dqKj2zKW1Ys", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["homelab", "AI运维/Agent", "凭据安全", "自托管", "Proxmox/TrueNAS"], "domain": "自托管运维/自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L26: Turn a fresh LXC into an AI homelab command center. One command installs Claude", "L36: - Credentials never touch the LLM, and cannot: they live in a vault the agent"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "serversathome/homelabhero",
+ "sha": "c757af8ece22",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 LXC 装成 AI 家庭实验室控制中心：装 Claude Code 并代理凭据",
+  "review": "面向自建家庭实验室（homelab）的一键安装工具：在全新 Ubuntu LXC 上以一条命令安装 Claude Code、claudecodeui Web 界面（端口 3001）以及预置技能。核心机制是凭据代理：Claude 以 hhagent 用户运行，无法读取 vault 中的凭据，通过 hh run 与单一 sudoers 规则经 SSH 操作 TrueNAS/Proxmox/Linux/MikroTik，另提供 UniFi/Firewalla/NetBird/Cloudflare 四个网络集成（部分只读）。仅支持 Ubuntu/Debian（依赖 apt/systemd/visudo）。",
+  "highlights": [
+   "一条命令安装 Claude Code + Web UI + 预置技能",
+   "凭据隔离 vault：agent 无读取权限，凭据不接触 LLM",
+   "hh run 统一命令经 SSH 操作 TrueNAS/Proxmox/Linux/MikroTik",
+   "UniFi/Firewalla（只读）与 NetBird/Cloudflare（可写）四个网络集成"
+  ],
+  "use_cases": [
+   "把家里的服务器、虚拟机统一交给 Claude 管理",
+   "让 AI 运维主机而不暴露 SSH 凭据",
+   "集中查看所有主机上运行的 VM、容器与应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/dqKj2zKW1Ys",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "homelab",
+   "AI运维/Agent",
+   "凭据安全",
+   "自托管",
+   "Proxmox/TrueNAS"
+  ],
+  "domain": "自托管运维/自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: Turn a fresh LXC into an AI homelab command center. One command installs Claude",
+   "L36: - Credentials never touch the LLM, and cannot: they live in a vault the agent"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

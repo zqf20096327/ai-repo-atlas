@@ -33,7 +33,7 @@ TensorFlow Data Validation (TFDV) 是面向机器学习数据管线的探索与�
 
 ## 场景标签
 
- · 领域:机器学习基础设施/数据工程
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 
