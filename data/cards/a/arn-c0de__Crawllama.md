@@ -1,0 +1,58 @@
+# arn-c0de/Crawllama
+
+⭐ 106 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/arn-c0de/Crawllama) · 个人维护
+
+**本地 OSINT 研究代理：经 Ollama 联网检索与 RAG 回答问题**
+
+面向本地运行的 AI 研究代理：通过 Ollama 本地 LLM 后端回答问题，集成多源网页搜索（DuckDuckGo/Brave/Serper）、Wikipedia、RAG 分析与 OSINT 模块（邮箱/电话/IP/社交平台情报，支持 12 个平台）。采用 LangGraph 多跳推理，按查询复杂度自适应选择 agent，并提供 FastAPI REST API（40+ 端点）、插件系统、Tor 代理模式与速率限制/robots.txt 合规机制。限制：云端 API（Claude/OpenAI）模式非本地处理；网页搜索始终需要联网；需 Python 3.10+ 与 Ollama。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `none` | NOASSERTION |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | local-ok | 支持本地模型 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- OSINT 模块：邮箱/电话/IP 情报与 12 个社交平台分析
+- LangGraph 多跳推理（Router→Search→Analyze→Follow-Up→Synthesize→Critique）
+- 按查询复杂度（低/中/高）自适应选择 agent 与置信度升级
+- FastAPI REST API 40+ 端点、插件系统与 Tor SOCKS5 代理模式
+
+## 适用场景
+
+- 本地运行 LLM 做联网研究问答，避免数据出网
+- 对邮箱、电话、IP 与社交账号做 OSINT 情报收集
+- 通过 REST API 将研究与 RAG 能力集成到其他系统
+
+## 场景标签
+
+`网页抓取` `RAG` `网络安全` · 领域:效率与自动化
+
+## 证据(README 行号)
+
+> L22: A locally-capable AI research agent with advanced intelligence features (local processing requires a local LLM back
+> L24: - Multi-hop reasoning using LangGraph for complex queries
+> L41: - **Wikipedia integration** – Dedicated Wikipedia search (German/English)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "arn-c0de/Crawllama 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 104 --> 108
+    line [105, 106, 107, 106]
+```
+
+2026-10-18 105 → 2026-10-23 106（+1）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `c020c96e02fa` · [字段定义](../../DATASET.md)*
