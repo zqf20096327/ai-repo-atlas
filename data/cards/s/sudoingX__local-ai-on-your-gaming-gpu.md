@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sudoingX/local-ai-on-your-gaming-gpu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 154 --> 160
-    line [155, 157, 159]
+    title "sudoingX/local-ai-on-your-gaming-gpu 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 154 --> 163
+    line [155, 157, 159, 162]
 ```
 
-2026-10-18 155 → 2026-10-22 159（+4）
+2026-10-18 155 → 2026-10-23 162（+7）
 
 
 ---

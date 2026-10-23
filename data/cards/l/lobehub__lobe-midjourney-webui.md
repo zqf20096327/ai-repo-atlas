@@ -45,12 +45,12 @@ LobeHub 维护的 LobeChat 插件与独立 Web UI，接入 Midjourney 服务实�
 ```mermaid
 xychart-beta
     title "lobehub/lobe-midjourney-webui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 201 --> 203
     line [202, 202]
 ```
 
-2026-10-18 202 → 2026-10-22 202（+0）
+2026-10-18 202 → 2026-10-23 202（+0）
 
 
 ---

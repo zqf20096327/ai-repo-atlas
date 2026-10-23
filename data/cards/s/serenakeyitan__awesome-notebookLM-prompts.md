@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "serenakeyitan/awesome-notebookLM-prompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4688 --> 4698
-    line [4689, 4695, 4697]
+    title "serenakeyitan/awesome-notebookLM-prompts 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4688 --> 4700
+    line [4689, 4695, 4697, 4699]
 ```
 
-2026-10-18 4,689 → 2026-10-22 4,697（+8）
+2026-10-18 4,689 → 2026-10-23 4,699（+10）
 
 
 ---

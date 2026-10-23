@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ericshang98/Perfect-Web-Clone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "ericshang98/Perfect-Web-Clone 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 272 --> 275
-    line [273, 274]
+    line [273, 274, 274]
 ```
 
-2026-10-18 273 → 2026-10-22 274（+1）
+2026-10-18 273 → 2026-10-23 274（+1）
 
 
 ---

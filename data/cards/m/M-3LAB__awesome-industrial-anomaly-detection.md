@@ -45,13 +45,13 @@ M-3LAB 维护的 awesome 型论文清单，收录工业图像异常检测与缺�
 
 ```mermaid
 xychart-beta
-    title "M-3LAB/awesome-industrial-anomaly-detection 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3823 --> 3831
-    line [3824, 3826, 3830]
+    title "M-3LAB/awesome-industrial-anomaly-detection 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3823 --> 3833
+    line [3824, 3826, 3830, 3832]
 ```
 
-2026-10-18 3,824 → 2026-10-22 3,830（+6）
+2026-10-18 3,824 → 2026-10-23 3,832（+8）
 
 
 ---

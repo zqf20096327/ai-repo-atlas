@@ -45,12 +45,12 @@ OpenCode 的 iOS 移动客户端：用户连接任意 Linux SSH 服务器，在�
 ```mermaid
 xychart-beta
     title "eugenepyvovarov/CodeAgentsMobile 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 155 --> 157
     line [156, 156]
 ```
 
-2026-10-18 156 → 2026-10-22 156（+0）
+2026-10-18 156 → 2026-10-23 156（+0）
 
 
 ---

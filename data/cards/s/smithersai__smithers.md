@@ -44,12 +44,12 @@ Smithers 是一个 agentic 工作流框架，面向通过 TypeScript 配置文�
 ```mermaid
 xychart-beta
     title "smithersai/smithers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 438 --> 440
-    line [439, 439]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 437 --> 440
+    line [439, 438]
 ```
 
-2026-10-18 439 → 2026-10-21 439（+0）
+2026-10-18 439 → 2026-10-23 438（-1）
 
 
 ---

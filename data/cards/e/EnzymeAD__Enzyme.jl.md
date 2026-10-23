@@ -44,13 +44,13 @@ Enzyme.jl 提供 Enzyme（LLVM 自动微分编译器插件）的 Julia 绑定。
 
 ```mermaid
 xychart-beta
-    title "EnzymeAD/Enzyme.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "EnzymeAD/Enzyme.jl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 588 --> 591
-    line [589, 590]
+    line [589, 590, 590]
 ```
 
-2026-10-18 589 → 2026-10-22 590（+1）
+2026-10-18 589 → 2026-10-23 590（+1）
 
 
 ---

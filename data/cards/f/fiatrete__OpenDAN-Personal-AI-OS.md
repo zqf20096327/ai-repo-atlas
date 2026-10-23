@@ -46,13 +46,13 @@ OpenDAN 是开源的个人 AI OS（当前 0.5.1 MVP，自称早期阶段），�
 
 ```mermaid
 xychart-beta
-    title "fiatrete/OpenDAN-Personal-AI-OS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "fiatrete/OpenDAN-Personal-AI-OS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2062 --> 2066
-    line [2063, 2065]
+    line [2063, 2065, 2064]
 ```
 
-2026-10-18 2,063 → 2026-10-22 2,065（+2）
+2026-10-18 2,063 → 2026-10-23 2,064（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Microsoft Agent Framework 的 Go 语言实现，提供构建、编排和运行�
 ```mermaid
 xychart-beta
     title "microsoft/agent-framework-go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 648 --> 650
-    line [649, 649]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 648 --> 653
+    line [649, 652]
 ```
 
-2026-10-18 649 → 2026-10-22 649（+0）
+2026-10-18 649 → 2026-10-23 652（+3）
 
 
 ---

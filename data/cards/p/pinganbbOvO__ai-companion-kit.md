@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pinganbbOvO/ai-companion-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 24 --> 309
-    line [47, 181, 286]
+    title "pinganbbOvO/ai-companion-kit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 16 --> 390
+    line [47, 181, 286, 359]
 ```
 
-2026-10-18 47 → 2026-10-22 286（+239）
+2026-10-18 47 → 2026-10-23 359（+312）
 
 
 ---

@@ -45,12 +45,12 @@ Atomic Mail 提供面向自主 AI 代理的邮箱服务：代理自行注册 @at
 ```mermaid
 xychart-beta
     title "Atomic-Mail/atomic-mail-agentic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 265 --> 267
-    line [266, 266]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 261 --> 267
+    line [266, 262]
 ```
 
-2026-10-18 266 → 2026-10-22 266（+0）
+2026-10-18 266 → 2026-10-23 262（-4）
 
 
 ---

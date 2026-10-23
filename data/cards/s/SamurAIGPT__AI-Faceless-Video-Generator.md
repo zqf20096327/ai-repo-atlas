@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/AI-Faceless-Video-Generator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 518 --> 522
-    line [519, 520, 521]
+    title "SamurAIGPT/AI-Faceless-Video-Generator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 518 --> 523
+    line [519, 520, 521, 522]
 ```
 
-2026-10-18 519 → 2026-10-22 521（+2）
+2026-10-18 519 → 2026-10-23 522（+3）
 
 
 ---

@@ -45,13 +45,13 @@ ICASSP 2024 论文 Matcha-TTS 的官方 PyTorch 实现：非自回归 TTS 架构
 
 ```mermaid
 xychart-beta
-    title "shivammehta25/Matcha-TTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "shivammehta25/Matcha-TTS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1367 --> 1370
-    line [1368, 1369]
+    line [1368, 1369, 1369]
 ```
 
-2026-10-18 1,368 → 2026-10-22 1,369（+1）
+2026-10-18 1,368 → 2026-10-23 1,369（+1）
 
 
 ---

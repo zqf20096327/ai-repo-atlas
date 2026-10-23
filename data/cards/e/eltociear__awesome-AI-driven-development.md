@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "eltociear/awesome-AI-driven-development 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 559 --> 566
-    line [560, 561, 565]
+    title "eltociear/awesome-AI-driven-development 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 559 --> 567
+    line [560, 561, 565, 566]
 ```
 
-2026-10-18 560 → 2026-10-22 565（+5）
+2026-10-18 560 → 2026-10-23 566（+6）
 
 
 ---

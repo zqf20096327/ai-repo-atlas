@@ -45,13 +45,13 @@ Vercel 官方实验室提供的 eve 软件工厂模板，名为 Foreman：从 Gi
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/eve-software-factory-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "vercel-labs/eve-software-factory-template 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1162 --> 1175
-    line [1163, 1164, 1174]
+    line [1163, 1164, 1174, 1171]
 ```
 
-2026-10-18 1,163 → 2026-10-22 1,174（+11）
+2026-10-18 1,163 → 2026-10-23 1,171（+8）
 
 
 ---

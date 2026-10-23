@@ -44,13 +44,13 @@ STMicroelectronics 维护的 STM32 嵌入式 AI 模型库：收录图像分类�
 
 ```mermaid
 xychart-beta
-    title "STMicroelectronics/stm32ai-modelzoo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 750 --> 753
-    line [752, 751, 752]
+    title "STMicroelectronics/stm32ai-modelzoo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 750 --> 754
+    line [752, 751, 752, 753]
 ```
 
-2026-10-18 752 → 2026-10-22 752（+0）
+2026-10-18 752 → 2026-10-23 753（+1）
 
 
 ---

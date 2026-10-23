@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoyaya191/bilibili_learning_bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 120 --> 130
-    line [121, 123, 129]
+    title "xiaoyaya191/bilibili_learning_bot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 120 --> 133
+    line [121, 123, 129, 132]
 ```
 
-2026-10-18 121 → 2026-10-22 129（+8）
+2026-10-18 121 → 2026-10-23 132（+11）
 
 
 ---

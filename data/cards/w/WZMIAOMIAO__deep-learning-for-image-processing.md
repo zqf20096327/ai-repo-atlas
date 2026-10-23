@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "WZMIAOMIAO/deep-learning-for-image-processing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "WZMIAOMIAO/deep-learning-for-image-processing 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 26413 --> 26426
-    line [26414, 26418, 26425]
+    line [26414, 26418, 26425, 26424]
 ```
 
-2026-10-18 26,414 → 2026-10-22 26,425（+11）
+2026-10-18 26,414 → 2026-10-23 26,424（+10）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "asavinov/intelligent-trading-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "asavinov/intelligent-trading-bot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1882 --> 1885
-    line [1884, 1883]
+    line [1884, 1883, 1884]
 ```
 
-2026-10-18 1,884 → 2026-10-22 1,883（-1）
+2026-10-18 1,884 → 2026-10-23 1,884（+0）
 
 
 ---

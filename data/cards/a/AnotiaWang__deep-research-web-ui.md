@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnotiaWang/deep-research-web-ui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "AnotiaWang/deep-research-web-ui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2222 --> 2225
-    line [2224, 2223]
+    line [2224, 2223, 2223]
 ```
 
-2026-10-18 2,224 → 2026-10-22 2,223（-1）
+2026-10-18 2,224 → 2026-10-23 2,223（-1）
 
 
 ---

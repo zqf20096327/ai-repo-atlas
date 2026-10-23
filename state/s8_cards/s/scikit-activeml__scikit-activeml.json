@@ -1,1 +1,78 @@
-{"fn": "scikit-activeml/scikit-activeml", "sha": "b9ded5040289", "source": "readme", "identity": {"one_liner": "给研究者的 Python 主动学习库：用更少标注达到高性能", "review": "基于 scikit-learn 构建的 Python 主动学习库，面向研究场景：通过 BADGE、Split 等查询策略挑选最有信息量的样本请求标注，支持 pool-based 与 stream-based 两种循环。通过 SkorchClassifier 包装 PyTorch 模块实现深度主动学习，示例中结合 SentenceTransformer/DINOv2 嵌入与 Hugging Face datasets。torch、transformers、datasets 等不在默认安装内，需单独安装且不自动安装 PyTorch（依赖用户的 CUDA/硬件环境）。有 JMLR 论文。", "highlights": ["基于 scikit-learn，提供 pool-based 与 stream-based 主动学习循环", "SkorchClassifier 包装 PyTorch 模块支持深度主动学习", "提供 BADGE、Split 等多种查询策略", "pip 可安装，支持 Python 3.10-3.13"], "use_cases": ["标注预算有限时挑选最有信息量的样本进行标注", "在文本/图像分类任务上做深度主动学习实验", "研究与对比不同主动学习查询策略"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://jmlr.org/papers/v27/25-1999.html", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["主动学习", "机器学习库", "数据标注效率", "深度学习", "科研工具"], "domain": "机器学习/数据高效标注", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L38: With this goal in mind, **scikit-activeml** has been developed as a Python library for active", "L39: learning on top of `scikit-learn <https://scikit-learn.org/stable/>`_. As a", "L40: result, it natively supports **deep active learning** via"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "scikit-activeml/scikit-activeml",
+ "sha": "b9ded5040289",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给研究者的 Python 主动学习库：用更少标注达到高性能",
+  "review": "基于 scikit-learn 构建的 Python 主动学习库，面向研究场景：通过 BADGE、Split 等查询策略挑选最有信息量的样本请求标注，支持 pool-based 与 stream-based 两种循环。通过 SkorchClassifier 包装 PyTorch 模块实现深度主动学习，示例中结合 SentenceTransformer/DINOv2 嵌入与 Hugging Face datasets。torch、transformers、datasets 等不在默认安装内，需单独安装且不自动安装 PyTorch（依赖用户的 CUDA/硬件环境）。有 JMLR 论文。",
+  "highlights": [
+   "基于 scikit-learn，提供 pool-based 与 stream-based 主动学习循环",
+   "SkorchClassifier 包装 PyTorch 模块支持深度主动学习",
+   "提供 BADGE、Split 等多种查询策略",
+   "pip 可安装，支持 Python 3.10-3.13"
+  ],
+  "use_cases": [
+   "标注预算有限时挑选最有信息量的样本进行标注",
+   "在文本/图像分类任务上做深度主动学习实验",
+   "研究与对比不同主动学习查询策略"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://jmlr.org/papers/v27/25-1999.html",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "主动学习",
+   "机器学习库",
+   "数据标注效率",
+   "深度学习",
+   "科研工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L38: With this goal in mind, **scikit-activeml** has been developed as a Python library for active",
+   "L39: learning on top of `scikit-learn <https://scikit-learn.org/stable/>`_. As a",
+   "L40: result, it natively supports **deep active learning** via"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bailinghub/bailinghub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 150 --> 153
-    line [152, 151]
+    title "bailinghub/bailinghub 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 119 --> 155
+    line [152, 151, 122]
 ```
 
-2026-10-18 152 → 2026-10-22 151（-1）
+2026-10-18 152 → 2026-10-23 122（-30）
 
 
 ---

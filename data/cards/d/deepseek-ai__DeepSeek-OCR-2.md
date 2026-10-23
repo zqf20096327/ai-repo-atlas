@@ -45,13 +45,13 @@ DeepSeek AI 发布的 OCR 模型仓库，以“Visual Causal Flow”方式做类
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepSeek-OCR-2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "deepseek-ai/DeepSeek-OCR-2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3478 --> 3490
-    line [3479, 3482, 3489]
+    line [3479, 3482, 3489, 3488]
 ```
 
-2026-10-18 3,479 → 2026-10-22 3,489（+10）
+2026-10-18 3,479 → 2026-10-23 3,488（+9）
 
 
 ---

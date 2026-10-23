@@ -46,12 +46,12 @@ NAVER AI Lab 与延世大学发布的 StyleKeeper/VSP 论文 PyTorch 官方实�
 ```mermaid
 xychart-beta
     title "naver-ai/StyleKeeper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 482 --> 484
-    line [483, 483]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 481 --> 484
+    line [483, 482]
 ```
 
-2026-10-18 483 → 2026-10-22 483（+0）
+2026-10-18 483 → 2026-10-23 482（-1）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eli-labz/Agent-Execution-Partnership 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 146 --> 148
-    line [147, 147]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 143 --> 148
+    line [147, 144]
 ```
 
-2026-10-18 147 → 2026-10-22 147（+0）
+2026-10-18 147 → 2026-10-23 144（-3）
 
 
 ---

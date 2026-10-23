@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SeanEllyJames/deep-research-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 195 --> 197
-    line [196, 196]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 186 --> 197
+    line [196, 187]
 ```
 
-2026-10-18 196 → 2026-10-22 196（+0）
+2026-10-18 196 → 2026-10-23 187（-9）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "luwill/Machine_Learning_Code_Implementation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "luwill/Machine_Learning_Code_Implementation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1555 --> 1558
-    line [1557, 1556]
+    line [1557, 1556, 1556]
 ```
 
-2026-10-18 1,557 → 2026-10-22 1,556（-1）
+2026-10-18 1,557 → 2026-10-23 1,556（-1）
 
 
 ---

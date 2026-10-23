@@ -45,13 +45,13 @@ Microsoft 365 Agents SDK 用于创建可部署到 Microsoft 365 Copilot、Teams�
 
 ```mermaid
 xychart-beta
-    title "microsoft/Agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1085 --> 1090
-    line [1086, 1088, 1089]
+    title "microsoft/Agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1085 --> 1091
+    line [1086, 1088, 1089, 1090]
 ```
 
-2026-10-18 1,086 → 2026-10-22 1,089（+3）
+2026-10-18 1,086 → 2026-10-23 1,090（+4）
 
 
 ---

@@ -44,13 +44,13 @@ Synthadoc 在摄入时用 LLM 将 PDF、表格、网页、视频、Word 及 AI �
 
 ```mermaid
 xychart-beta
-    title "axoviq-ai/synthadoc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1590 --> 1594
-    line [1591, 1593]
+    title "axoviq-ai/synthadoc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1590 --> 1595
+    line [1591, 1593, 1594]
 ```
 
-2026-10-18 1,591 → 2026-10-22 1,593（+2）
+2026-10-18 1,591 → 2026-10-23 1,594（+3）
 
 
 ---

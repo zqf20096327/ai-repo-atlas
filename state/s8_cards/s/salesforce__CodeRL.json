@@ -1,1 +1,79 @@
-{"fn": "salesforce/CodeRL", "sha": "ae3c510cd83b", "source": "readme", "identity": {"one_liner": "NeurIPS22 论文官方代码：用强化学习训练代码生成模型", "review": "Salesforce 发布的 CodeRL 论文官方实现：将代码生成语言模型（CodeT5）视为 actor，引入 critic 网络预测生成程序的功能正确性（通过/失败/编译错误/运行时错误四类），训练时提供密集反馈，推理时用 critic 采样策略基于示例单元测试自动重新生成程序。提供预训练与微调模型检查点（Hugging Face 与 Google Cloud Storage）、APPS/MBPP 数据处理流程，以及生成程序、跑单元测试、训练 critic、计算 pass@k 的脚本，支持 DeepSpeed 与 fp16 训练。面向程序合成与强化学习研究人员。", "highlights": ["actor-critic 框架：critic 预测单元测试结果并给 actor 密集反馈", "推理阶段 critic 采样：基于示例单元测试与 critic 分数自动重新生成程序", "发布 CodeT5-large（770M）预训练与 CodeRL 微调检查点", "提供生成/测试/评估/训练全流程脚本，支持 DeepSpeed 与 fp16"], "use_cases": ["复现论文的强化学习代码生成训练流程", "在 APPS/MBPP 程序合成基准上训练与评估代码生成模型", "获取并使用经 RL 微调的 CodeT5 代码生成检查点"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码生成", "强化学习", "程序合成", "论文官方实现", "CodeT5"], "domain": "代码生成/机器学习研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L1: ## CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning", "L3: This is the official code for the paper **CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforce", "L34:  A high-level overview of our CodeRL framework for program synthesis (Left) : Our CodeRL framework treats pretrained lan"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "salesforce/CodeRL",
+ "sha": "ae3c510cd83b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "NeurIPS22 论文官方代码：用强化学习训练代码生成模型",
+  "review": "Salesforce 发布的 CodeRL 论文官方实现：将代码生成语言模型（CodeT5）视为 actor，引入 critic 网络预测生成程序的功能正确性（通过/失败/编译错误/运行时错误四类），训练时提供密集反馈，推理时用 critic 采样策略基于示例单元测试自动重新生成程序。提供预训练与微调模型检查点（Hugging Face 与 Google Cloud Storage）、APPS/MBPP 数据处理流程，以及生成程序、跑单元测试、训练 critic、计算 pass@k 的脚本，支持 DeepSpeed 与 fp16 训练。面向程序合成与强化学习研究人员。",
+  "highlights": [
+   "actor-critic 框架：critic 预测单元测试结果并给 actor 密集反馈",
+   "推理阶段 critic 采样：基于示例单元测试与 critic 分数自动重新生成程序",
+   "发布 CodeT5-large（770M）预训练与 CodeRL 微调检查点",
+   "提供生成/测试/评估/训练全流程脚本，支持 DeepSpeed 与 fp16"
+  ],
+  "use_cases": [
+   "复现论文的强化学习代码生成训练流程",
+   "在 APPS/MBPP 程序合成基准上训练与评估代码生成模型",
+   "获取并使用经 RL 微调的 CodeT5 代码生成检查点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码生成",
+   "强化学习",
+   "程序合成",
+   "论文官方实现",
+   "CodeT5"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation",
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: ## CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning",
+   "L3: This is the official code for the paper **CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforce",
+   "L34:  A high-level overview of our CodeRL framework for program synthesis (Left) : Our CodeRL framework treats pretrained lan"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

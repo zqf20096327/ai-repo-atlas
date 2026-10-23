@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DasDigitaleMomentum/searxNcrawl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "DasDigitaleMomentum/searxNcrawl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 166 --> 180
-    line [167, 177, 179]
+    line [167, 177, 179, 179]
 ```
 
-2026-10-18 167 → 2026-10-22 179（+12）
+2026-10-18 167 → 2026-10-23 179（+12）
 
 
 ---

@@ -45,12 +45,12 @@ MoonshotAI 提供的 Go/Node.js/Python 三语言 SDK，将 Kimi Code（Kimi CLI�
 ```mermaid
 xychart-beta
     title "MoonshotAI/kimi-agent-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 576 --> 578
-    line [577, 577]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 576 --> 579
+    line [577, 578]
 ```
 
-2026-10-18 577 → 2026-10-22 577（+0）
+2026-10-18 577 → 2026-10-23 578（+1）
 
 
 ---

@@ -44,13 +44,13 @@ LangChain 团队维护的 LLM 应用评测库，提供 Python 与 TypeScript 版
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/openevals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1224 --> 1228
-    line [1225, 1226, 1227]
+    title "langchain-ai/openevals 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1224 --> 1229
+    line [1225, 1226, 1227, 1228]
 ```
 
-2026-10-18 1,225 → 2026-10-22 1,227（+2）
+2026-10-18 1,225 → 2026-10-23 1,228（+3）
 
 
 ---

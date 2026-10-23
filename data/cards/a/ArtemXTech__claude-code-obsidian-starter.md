@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArtemXTech/claude-code-obsidian-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "ArtemXTech/claude-code-obsidian-starter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 223 --> 226
-    line [225, 224]
+    line [225, 224, 224]
 ```
 
-2026-10-18 225 → 2026-10-22 224（-1）
+2026-10-18 225 → 2026-10-23 224（-1）
 
 
 ---

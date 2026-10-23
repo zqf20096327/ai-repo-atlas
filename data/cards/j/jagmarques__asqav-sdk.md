@@ -44,13 +44,13 @@ asqav.com 的 Python 与 TypeScript 客户端 SDK：为 agent 每个动作签发
 
 ```mermaid
 xychart-beta
-    title "jagmarques/asqav-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 509 --> 574
-    line [514, 541, 569]
+    title "jagmarques/asqav-sdk 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 507 --> 598
+    line [514, 541, 569, 591]
 ```
 
-2026-10-18 514 → 2026-10-22 569（+55）
+2026-10-18 514 → 2026-10-23 591（+77）
 
 
 ---

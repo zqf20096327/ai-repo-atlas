@@ -42,13 +42,13 @@ Hugging Face 维护的仓库，汇集多个使用 Transformers 库构建的研�
 
 ```mermaid
 xychart-beta
-    title "huggingface/transformers-research-projects 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "huggingface/transformers-research-projects 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 131 --> 134
-    line [132, 133]
+    line [132, 133, 133]
 ```
 
-2026-10-18 132 → 2026-10-22 133（+1）
+2026-10-18 132 → 2026-10-23 133（+1）
 
 
 ---

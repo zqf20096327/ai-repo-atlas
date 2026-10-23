@@ -44,13 +44,13 @@ OWASP Top 10 for Large Language Model Applications 的原始项目页仓库，�
 
 ```mermaid
 xychart-beta
-    title "OWASP/www-project-top-10-for-large-language-model-applications 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "OWASP/www-project-top-10-for-large-language-model-applications 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1453 --> 1462
-    line [1454, 1457, 1461]
+    line [1454, 1457, 1461, 1461]
 ```
 
-2026-10-18 1,454 → 2026-10-22 1,461（+7）
+2026-10-18 1,454 → 2026-10-23 1,461（+7）
 
 
 ---

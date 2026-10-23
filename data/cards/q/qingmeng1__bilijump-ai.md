@@ -45,13 +45,13 @@ Chrome/Firefox 浏览器扩展，通过 AI 分析视频字幕或音频识别植�
 
 ```mermaid
 xychart-beta
-    title "qingmeng1/bilijump-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 420 --> 423
-    line [422, 421]
+    title "qingmeng1/bilijump-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 419 --> 423
+    line [422, 421, 420]
 ```
 
-2026-10-18 422 → 2026-10-22 421（-1）
+2026-10-18 422 → 2026-10-23 420（-2）
 
 
 ---

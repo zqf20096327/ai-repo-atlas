@@ -40,6 +40,18 @@
 > L21: The Engineering Handbook is a set of free textbooks for software engineers. Each book is a complete course: every t
 > L39: |**AI Engineering Handbook**|How to build and run production AI products on top of model APIs: prompts, evals, cont
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "handbook-academy/engineering-handbook 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 829 --> 834
+    line [830, 833]
+```
+
+2026-10-22 830 → 2026-10-23 833（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `77f6b4f7da4b` · [字段定义](../../DATASET.md)*

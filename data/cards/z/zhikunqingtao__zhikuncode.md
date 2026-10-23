@@ -45,12 +45,12 @@ Docker 自托管的 AI 编程助手，由 Java Agent Runtime、React 前端与 P
 ```mermaid
 xychart-beta
     title "zhikunqingtao/zhikuncode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 520 --> 525
-    line [521, 524, 524]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 520 --> 528
+    line [521, 524, 527]
 ```
 
-2026-10-18 521 → 2026-10-21 524（+3）
+2026-10-18 521 → 2026-10-23 527（+6）
 
 
 ---

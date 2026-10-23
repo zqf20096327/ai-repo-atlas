@@ -45,12 +45,12 @@ Python 库 bbox-visualizer：读取图像与边界框坐标，绘制边界框并
 ```mermaid
 xychart-beta
     title "shoumikchow/bbox-visualizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 410 --> 412
     line [411, 411]
 ```
 
-2026-10-18 411 → 2026-10-22 411（+0）
+2026-10-18 411 → 2026-10-23 411（+0）
 
 
 ---

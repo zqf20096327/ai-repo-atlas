@@ -42,13 +42,13 @@ marimo 团队发布的 agent 技能包与 Claude Code 插件，把响应式 Pyth
 
 ```mermaid
 xychart-beta
-    title "marimo-team/marimo-pair 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "marimo-team/marimo-pair 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 427 --> 430
-    line [428, 429]
+    line [428, 429, 429]
 ```
 
-2026-10-18 428 → 2026-10-22 429（+1）
+2026-10-18 428 → 2026-10-23 429（+1）
 
 
 ---

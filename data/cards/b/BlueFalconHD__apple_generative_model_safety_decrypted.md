@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BlueFalconHD/apple_generative_model_safety_decrypted 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 317 --> 319
     line [318, 318]
 ```
 
-2026-10-18 318 → 2026-10-22 318（+0）
+2026-10-18 318 → 2026-10-23 318（+0）
 
 
 ---

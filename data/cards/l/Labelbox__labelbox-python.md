@@ -44,13 +44,13 @@ Labelbox 官方 Python SDK，用于以编程方式访问 Labelbox 数据管理�
 
 ```mermaid
 xychart-beta
-    title "Labelbox/labelbox-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Labelbox/labelbox-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 156 --> 159
-    line [157, 158]
+    line [157, 158, 158]
 ```
 
-2026-10-18 157 → 2026-10-22 158（+1）
+2026-10-18 157 → 2026-10-23 158（+1）
 
 
 ---

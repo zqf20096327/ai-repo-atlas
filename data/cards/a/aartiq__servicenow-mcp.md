@@ -44,13 +44,13 @@ ServiceNow MCP 服务器，向 Claude、ChatGPT、Gemini、Cursor、Copilot 等 
 
 ```mermaid
 xychart-beta
-    title "aartiq/servicenow-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 266 --> 270
-    line [267, 268, 269]
+    title "aartiq/servicenow-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 262 --> 270
+    line [267, 268, 269, 263]
 ```
 
-2026-10-18 267 → 2026-10-22 269（+2）
+2026-10-18 267 → 2026-10-23 263（-4）
 
 
 ---

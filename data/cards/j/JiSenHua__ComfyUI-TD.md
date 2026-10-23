@@ -45,12 +45,12 @@ ComfyUI 自定义节点集合，通过 WebSocket 将 ComfyUI 生成的图像、�
 ```mermaid
 xychart-beta
     title "JiSenHua/ComfyUI-TD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 166 --> 168
     line [167, 167]
 ```
 
-2026-10-18 167 → 2026-10-22 167（+0）
+2026-10-18 167 → 2026-10-23 167（+0）
 
 
 ---

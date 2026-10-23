@@ -1,1 +1,82 @@
-{"fn": "sgasser/pasteguard", "sha": "54067b4b308c", "source": "readme", "identity": {"one_liner": "本地隐私代理：在请求到达 AI 前掩码 PII 与密钥", "review": "面向无法直接向模型服务商发送客户数据、凭据或生产细节的团队，PasteGuard 作为本地优先的隐私代理层运行：在请求进入 ChatGPT、Claude、OpenAI 等 provider 之前将姓名、邮箱、API 密钥等替换为占位符，用户保留原文，支持在响应中还原占位符；检测结合校验和/格式检查与 GLiNER 语义后端，覆盖流式响应。提供浏览器扩展（实验性）、API 代理与编码代理三种接入方式，含请求日志 Dashboard；Route Mode 可将含敏感数据的请求转发到本地 LLM。以 Docker 运行，技术栈为 Bun/Hono/SQLite 或 Postgres。", "highlights": ["请求发送前实时掩码 PII 与密钥，支持流式响应与占位符还原", "三种接入：实验性浏览器扩展、改 base URL 的 API 代理、编码代理", "Route Mode 将含敏感数据的请求路由到本地 LLM（Ollama/vLLM/llama.cpp）", "Dashboard 记录每个请求的检测与掩码详情"], "use_cases": ["合规要求下让团队安全使用云端 AI 服务", "防止编码代理把日志、密钥、工单中的敏感信息发出去", "审计到达 provider 的请求中掩码了哪些内容"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [30]}}, "links": {"scenario_tags": ["隐私/PII", "代理网关", "LLM基础设施", "本地优先", "数据保护"], "domain": "LLM 基础设施/隐私工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "ollama", "vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L36: **Apps, SDKs, and internal AI products.** Point your application to PasteGuard instead of the provider directly.", "L38: Change one base URL. PasteGuard masks the request, forwards it to the configured provider, and restores supported placeh", "L100: Route Mode sends requests containing sensitive data to a local LLM such as Ollama, vLLM, or llama.cpp. Requests without "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sgasser/pasteguard",
+ "sha": "54067b4b308c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地隐私代理：在请求到达 AI 前掩码 PII 与密钥",
+  "review": "面向无法直接向模型服务商发送客户数据、凭据或生产细节的团队，PasteGuard 作为本地优先的隐私代理层运行：在请求进入 ChatGPT、Claude、OpenAI 等 provider 之前将姓名、邮箱、API 密钥等替换为占位符，用户保留原文，支持在响应中还原占位符；检测结合校验和/格式检查与 GLiNER 语义后端，覆盖流式响应。提供浏览器扩展（实验性）、API 代理与编码代理三种接入方式，含请求日志 Dashboard；Route Mode 可将含敏感数据的请求转发到本地 LLM。以 Docker 运行，技术栈为 Bun/Hono/SQLite 或 Postgres。",
+  "highlights": [
+   "请求发送前实时掩码 PII 与密钥，支持流式响应与占位符还原",
+   "三种接入：实验性浏览器扩展、改 base URL 的 API 代理、编码代理",
+   "Route Mode 将含敏感数据的请求路由到本地 LLM（Ollama/vLLM/llama.cpp）",
+   "Dashboard 记录每个请求的检测与掩码详情"
+  ],
+  "use_cases": [
+   "合规要求下让团队安全使用云端 AI 服务",
+   "防止编码代理把日志、密钥、工单中的敏感信息发出去",
+   "审计到达 provider 的请求中掩码了哪些内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    30
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "隐私/PII",
+   "代理网关",
+   "LLM基础设施",
+   "本地优先",
+   "数据保护"
+  ],
+  "domain": "LLM 基础设施/隐私工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L36: **Apps, SDKs, and internal AI products.** Point your application to PasteGuard instead of the provider directly.",
+   "L38: Change one base URL. PasteGuard masks the request, forwards it to the configured provider, and restores supported placeh",
+   "L100: Route Mode sends requests containing sensitive data to a local LLM such as Ollama, vLLM, or llama.cpp. Requests without "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

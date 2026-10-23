@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Dicklesworthstone/fast_vector_similarity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 428 --> 430
     line [429, 429]
 ```
 
-2026-10-18 429 → 2026-10-21 429（+0）
+2026-10-18 429 → 2026-10-23 429（+0）
 
 
 ---

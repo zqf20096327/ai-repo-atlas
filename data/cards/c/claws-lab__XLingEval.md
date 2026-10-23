@@ -45,13 +45,13 @@ Web Conference 2024 论文 "Better to Ask in English" 的代码与资源库：�
 
 ```mermaid
 xychart-beta
-    title "claws-lab/XLingEval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 329 --> 345
-    line [330, 339, 344]
+    title "claws-lab/XLingEval 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 329 --> 350
+    line [330, 339, 344, 349]
 ```
 
-2026-10-18 330 → 2026-10-22 344（+14）
+2026-10-18 330 → 2026-10-23 349（+19）
 
 
 ---

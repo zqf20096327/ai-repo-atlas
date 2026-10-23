@@ -45,13 +45,13 @@ Thunderbird 维护的开源跨平台 AI 客户端，覆盖 web、iOS、Android�
 
 ```mermaid
 xychart-beta
-    title "thunderbird/thunderbolt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4793 --> 4802
-    line [4794, 4798, 4801]
+    title "thunderbird/thunderbolt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4793 --> 4803
+    line [4794, 4798, 4801, 4802]
 ```
 
-2026-10-18 4,794 → 2026-10-22 4,801（+7）
+2026-10-18 4,794 → 2026-10-23 4,802（+8）
 
 
 ---

@@ -40,6 +40,18 @@
 > L11: Ian XHS Carousel 是一个 AI Skill，把你的内容做成一组小红书轮播图，风格是简洁的产品界面风。
 > L58: **1. 下载并复制到 Claude Code**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "helloianneo/ian-xhs-carousel 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 73 --> 233
+    line [86, 220]
+```
+
+2026-10-22 86 → 2026-10-23 220（+134）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `aa1df5e3f978` · [字段定义](../../DATASET.md)*

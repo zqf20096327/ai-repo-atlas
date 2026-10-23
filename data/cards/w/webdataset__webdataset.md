@@ -44,13 +44,13 @@ WebDataset 是基于 tar 分片的 Python I/O 库，实现 PyTorch IterableDatas
 
 ```mermaid
 xychart-beta
-    title "webdataset/webdataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 3208 --> 3212
-    line [3209, 3211]
+    title "webdataset/webdataset 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3208 --> 3214
+    line [3209, 3211, 3213]
 ```
 
-2026-10-18 3,209 → 2026-10-22 3,211（+2）
+2026-10-18 3,209 → 2026-10-23 3,213（+4）
 
 
 ---

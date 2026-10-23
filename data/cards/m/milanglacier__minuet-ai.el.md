@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "milanglacier/minuet-ai.el 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 378 --> 382
-    line [379, 381]
+    title "milanglacier/minuet-ai.el 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 378 --> 383
+    line [379, 381, 382]
 ```
 
-2026-10-18 379 → 2026-10-22 381（+2）
+2026-10-18 379 → 2026-10-23 382（+3）
 
 
 ---

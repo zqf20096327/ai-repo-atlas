@@ -46,12 +46,12 @@ Python CLI 工具 llmwiki，读取 Claude Code、Codex CLI、Copilot、Cursor、
 ```mermaid
 xychart-beta
     title "Pratiyush/llm-wiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
     y-axis "stars" 396 --> 399
     line [397, 398, 398]
 ```
 
-2026-10-18 397 → 2026-10-22 398（+1）
+2026-10-18 397 → 2026-10-23 398（+1）
 
 
 ---

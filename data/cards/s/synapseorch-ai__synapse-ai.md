@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "synapseorch-ai/synapse-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 328 --> 331
-    line [329, 330]
+    title "synapseorch-ai/synapse-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 328 --> 332
+    line [329, 330, 331]
 ```
 
-2026-10-18 329 → 2026-10-22 330（+1）
+2026-10-18 329 → 2026-10-23 331（+2）
 
 
 ---

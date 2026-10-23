@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sunreview/GetChatGPTPlusPaper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 317 --> 343
-    line [319, 327, 341]
+    title "sunreview/GetChatGPTPlusPaper 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 312 --> 343
+    line [319, 327, 341, 314]
 ```
 
-2026-10-18 319 → 2026-10-22 341（+22）
+2026-10-18 319 → 2026-10-23 314（-5）
 
 
 ---

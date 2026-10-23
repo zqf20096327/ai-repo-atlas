@@ -44,13 +44,13 @@ CVPR 2025 Oral 论文的官方实现：Infinity 以逐位 token 预测框架做�
 
 ```mermaid
 xychart-beta
-    title "FoundationVision/Infinity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "FoundationVision/Infinity 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1591 --> 1594
-    line [1592, 1593]
+    line [1592, 1593, 1593]
 ```
 
-2026-10-18 1,592 → 2026-10-22 1,593（+1）
+2026-10-18 1,592 → 2026-10-23 1,593（+1）
 
 
 ---

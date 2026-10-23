@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jim-schwoebel/awesome_ai_agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 2009 --> 2012
-    line [2010, 2011]
+    title "jim-schwoebel/awesome_ai_agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2009 --> 2013
+    line [2010, 2011, 2012]
 ```
 
-2026-10-18 2,010 → 2026-10-22 2,011（+1）
+2026-10-18 2,010 → 2026-10-23 2,012（+2）
 
 
 ---

@@ -45,12 +45,12 @@ DeepSeek Harness (dsh) 的非官方 LLM provider 插件，将 Command Code 模�
 ```mermaid
 xychart-beta
     title "Mars-Sea/dsh-commandcode-provider 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 402 --> 414
-    line [403, 413, 413]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 401 --> 429
+    line [403, 413, 427]
 ```
 
-2026-10-18 403 → 2026-10-21 413（+10）
+2026-10-18 403 → 2026-10-23 427（+24）
 
 
 ---

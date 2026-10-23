@@ -46,12 +46,12 @@ npm 安装的 Three.js 模块，封装 Google MediaPipe 的 face/body/hands 三�
 ```mermaid
 xychart-beta
     title "bandinopla/three-mediapipe-rig 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 140 --> 142
     line [141, 141]
 ```
 
-2026-10-18 141 → 2026-10-22 141（+0）
+2026-10-18 141 → 2026-10-23 141（+0）
 
 
 ---

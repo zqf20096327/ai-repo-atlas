@@ -45,12 +45,12 @@ HuggingFace 团队随 FinePDFs 数据集发布的代码库：对大规模 Common
 ```mermaid
 xychart-beta
     title "huggingface/finepdfs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 190 --> 192
     line [191, 191]
 ```
 
-2026-10-18 191 → 2026-10-22 191（+0）
+2026-10-18 191 → 2026-10-23 191（+0）
 
 
 ---

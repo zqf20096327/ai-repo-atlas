@@ -44,13 +44,13 @@ TensorChord 维护的 PostgreSQL 扩展（vchord），是 pgvecto.rs 的后继�
 
 ```mermaid
 xychart-beta
-    title "supervc-stack/VectorChord 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1823 --> 1827
-    line [1824, 1826]
+    title "supervc-stack/VectorChord 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1823 --> 1829
+    line [1824, 1826, 1828]
 ```
 
-2026-10-18 1,824 → 2026-10-22 1,826（+2）
+2026-10-18 1,824 → 2026-10-23 1,828（+4）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Carasibana/ComfyUI-H3-FaceRefine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 519 --> 528
-    line [520, 524, 527]
+    title "Carasibana/ComfyUI-H3-FaceRefine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 519 --> 531
+    line [520, 524, 527, 530]
 ```
 
-2026-10-18 520 → 2026-10-22 527（+7）
+2026-10-18 520 → 2026-10-23 530（+10）
 
 
 ---

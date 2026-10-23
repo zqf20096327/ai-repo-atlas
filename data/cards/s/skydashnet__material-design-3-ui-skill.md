@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "skydashnet/material-design-3-ui-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 148 --> 153
-    line [149, 151, 152]
+    title "skydashnet/material-design-3-ui-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 148 --> 155
+    line [149, 151, 152, 154]
 ```
 
-2026-10-18 149 → 2026-10-22 152（+3）
+2026-10-18 149 → 2026-10-23 154（+5）
 
 
 ---

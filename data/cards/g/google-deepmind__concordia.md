@@ -44,13 +44,13 @@ Google DeepMind 维护的 Python 库，用于构建与运行生成式 agent 社�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/concordia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1791 --> 1811
-    line [1792, 1805, 1810]
+    title "google-deepmind/concordia 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1790 --> 1818
+    line [1792, 1805, 1810, 1816]
 ```
 
-2026-10-18 1,792 → 2026-10-22 1,810（+18）
+2026-10-18 1,792 → 2026-10-23 1,816（+24）
 
 
 ---

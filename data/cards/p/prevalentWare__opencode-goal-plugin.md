@@ -44,13 +44,13 @@ OpenCode 插件，以 npm 包形式提供，向 AI 编程代理会话注入 /goa
 
 ```mermaid
 xychart-beta
-    title "prevalentWare/opencode-goal-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 486 --> 503
-    line [487, 496, 502]
+    title "prevalentWare/opencode-goal-plugin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 485 --> 509
+    line [487, 496, 502, 507]
 ```
 
-2026-10-18 487 → 2026-10-22 502（+15）
+2026-10-18 487 → 2026-10-23 507（+20）
 
 
 ---

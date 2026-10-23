@@ -45,12 +45,12 @@ Mandiant（FireEye）开源的排序工具：内置 flarestrings 从二进制中
 ```mermaid
 xychart-beta
     title "mandiant/stringsifter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 765 --> 767
     line [766, 766]
 ```
 
-2026-10-18 766 → 2026-10-22 766（+0）
+2026-10-18 766 → 2026-10-23 766（+0）
 
 
 ---

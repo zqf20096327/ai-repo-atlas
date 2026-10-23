@@ -44,13 +44,13 @@ AutoShorts AI 是一条端到端视频生产流水线：用 Google Gemini 生成
 
 ```mermaid
 xychart-beta
-    title "SaarD00/AI-Youtube-Shorts-Generator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 245 --> 253
-    line [246, 250, 252]
+    title "SaarD00/AI-Youtube-Shorts-Generator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 245 --> 257
+    line [246, 250, 252, 256]
 ```
 
-2026-10-18 246 → 2026-10-22 252（+6）
+2026-10-18 246 → 2026-10-23 256（+10）
 
 
 ---

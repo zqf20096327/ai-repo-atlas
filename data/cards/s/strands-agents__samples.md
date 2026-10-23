@@ -44,13 +44,13 @@ Strands Agents SDK 的官方示例仓库，提供 Python 与 TypeScript 两种�
 
 ```mermaid
 xychart-beta
-    title "strands-agents/samples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "strands-agents/samples 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 908 --> 914
-    line [909, 910, 913]
+    line [909, 910, 913, 913]
 ```
 
-2026-10-18 909 → 2026-10-22 913（+4）
+2026-10-18 909 → 2026-10-23 913（+4）
 
 
 ---

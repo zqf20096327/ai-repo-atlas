@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zenstory-ai/video-recap-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 578 --> 585
-    line [579, 582, 584]
+    title "zenstory-ai/video-recap-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 578 --> 589
+    line [579, 582, 584, 588]
 ```
 
-2026-10-18 579 → 2026-10-22 584（+5）
+2026-10-18 579 → 2026-10-23 588（+9）
 
 
 ---

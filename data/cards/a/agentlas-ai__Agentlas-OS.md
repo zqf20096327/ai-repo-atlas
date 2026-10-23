@@ -45,12 +45,12 @@ Agentlas OS（Hephaestus）是运行在 CLI agent 宿主（Claude Code、Codex�
 ```mermaid
 xychart-beta
     title "agentlas-ai/Agentlas-OS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 1600 --> 1614
-    line [1601, 1613, 1613]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 1585 --> 1615
+    line [1601, 1613, 1587]
 ```
 
-2026-10-18 1,601 → 2026-10-21 1,613（+12）
+2026-10-18 1,601 → 2026-10-23 1,587（-14）
 
 
 ---

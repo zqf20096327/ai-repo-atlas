@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "braintrustdata/agentbehavior 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 359 --> 361
-    line [360, 360]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 359 --> 362
+    line [360, 361]
 ```
 
-2026-10-18 360 → 2026-10-22 360（+0）
+2026-10-18 360 → 2026-10-23 361（+1）
 
 
 ---

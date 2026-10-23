@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba/TinyNeuralNetwork 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "alibaba/TinyNeuralNetwork 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 878 --> 881
-    line [880, 879]
+    line [880, 879, 879]
 ```
 
-2026-10-18 880 → 2026-10-22 879（-1）
+2026-10-18 880 → 2026-10-23 879（-1）
 
 
 ---

@@ -45,13 +45,13 @@ MicrosoftDocs 维护的 Azure 开发 agent 技能集合：从 Microsoft Learn �
 
 ```mermaid
 xychart-beta
-    title "MicrosoftDocs/Agent-Skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "MicrosoftDocs/Agent-Skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 781 --> 791
-    line [782, 786, 790]
+    line [782, 786, 790, 790]
 ```
 
-2026-10-18 782 → 2026-10-22 790（+8）
+2026-10-18 782 → 2026-10-23 790（+8）
 
 
 ---

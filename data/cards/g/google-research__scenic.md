@@ -45,13 +45,13 @@ Google Research 维护的计算机视觉研究代码库，基于 JAX 与 Flax �
 
 ```mermaid
 xychart-beta
-    title "google-research/scenic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 3843 --> 3846
-    line [3844, 3845]
+    title "google-research/scenic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3843 --> 3848
+    line [3844, 3845, 3847]
 ```
 
-2026-10-18 3,844 → 2026-10-22 3,845（+1）
+2026-10-18 3,844 → 2026-10-23 3,847（+3）
 
 
 ---

@@ -45,12 +45,12 @@ NeurIPS 2023 论文 GeoCLIP 的官方 PyTorch 实现。借鉴 CLIP 对比学习�
 ```mermaid
 xychart-beta
     title "VicenteVivan/geo-clip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 411 --> 413
-    line [412, 412]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 411 --> 414
+    line [412, 413]
 ```
 
-2026-10-18 412 → 2026-10-22 412（+0）
+2026-10-18 412 → 2026-10-23 413（+1）
 
 
 ---

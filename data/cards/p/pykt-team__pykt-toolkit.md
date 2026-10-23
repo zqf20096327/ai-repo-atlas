@@ -43,13 +43,13 @@ pyKT 是基于 PyTorch 构建的 Python 库，用于训练深度学习知识追�
 
 ```mermaid
 xychart-beta
-    title "pykt-team/pykt-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "pykt-team/pykt-toolkit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 449 --> 452
-    line [450, 451]
+    line [450, 451, 451]
 ```
 
-2026-10-18 450 → 2026-10-22 451（+1）
+2026-10-18 450 → 2026-10-23 451（+1）
 
 
 ---

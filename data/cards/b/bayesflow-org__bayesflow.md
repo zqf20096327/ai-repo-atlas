@@ -45,12 +45,12 @@ BayesFlow 是用于仿真推断（simulation-based inference）的 Python 库：
 ```mermaid
 xychart-beta
     title "bayesflow-org/bayesflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 779 --> 782
-    line [780, 781, 781]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 779 --> 783
+    line [780, 781, 782]
 ```
 
-2026-10-18 780 → 2026-10-22 781（+1）
+2026-10-18 780 → 2026-10-23 782（+2）
 
 
 ---

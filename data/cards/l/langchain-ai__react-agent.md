@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/react-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "langchain-ai/react-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 852 --> 855
-    line [854, 853]
+    line [854, 853, 854]
 ```
 
-2026-10-18 854 → 2026-10-22 853（-1）
+2026-10-18 854 → 2026-10-23 854（+0）
 
 
 ---

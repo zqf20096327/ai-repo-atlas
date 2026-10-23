@@ -46,12 +46,12 @@ Photo Agents 是一个 Python 包形式的 agent 运行时，实现感知→推�
 ```mermaid
 xychart-beta
     title "jmerelnyc/Photo-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 675 --> 677
-    line [676, 676]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 665 --> 677
+    line [676, 666]
 ```
 
-2026-10-18 676 → 2026-10-21 676（+0）
+2026-10-18 676 → 2026-10-23 666（-10）
 
 
 ---

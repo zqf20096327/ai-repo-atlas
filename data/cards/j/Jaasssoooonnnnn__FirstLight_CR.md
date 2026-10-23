@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jaasssoooonnnnn/FirstLight_CR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 168 --> 181
-    line [169, 174, 180]
+    title "Jaasssoooonnnnn/FirstLight_CR 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 168 --> 182
+    line [169, 174, 180, 181]
 ```
 
-2026-10-18 169 → 2026-10-22 180（+11）
+2026-10-18 169 → 2026-10-23 181（+12）
 
 
 ---

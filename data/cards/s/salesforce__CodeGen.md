@@ -45,12 +45,12 @@ Salesforce AI Research 发布的程序合成模型系列 CodeGen1、CodeGen2 与
 ```mermaid
 xychart-beta
     title "salesforce/CodeGen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 5181 --> 5183
-    line [5182, 5182]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 5181 --> 5185
+    line [5182, 5184]
 ```
 
-2026-10-18 5,182 → 2026-10-21 5,182（+0）
+2026-10-18 5,182 → 2026-10-23 5,184（+2）
 
 
 ---

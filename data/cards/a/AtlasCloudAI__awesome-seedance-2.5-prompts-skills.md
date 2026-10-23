@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AtlasCloudAI/awesome-seedance-2.5-prompts-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 239 --> 247
-    line [240, 243, 246]
+    title "AtlasCloudAI/awesome-seedance-2.5-prompts-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 239 --> 248
+    line [240, 243, 246, 247]
 ```
 
-2026-10-18 240 → 2026-10-22 246（+6）
+2026-10-18 240 → 2026-10-23 247（+7）
 
 
 ---

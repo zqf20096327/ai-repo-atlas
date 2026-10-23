@@ -45,12 +45,12 @@ llama.cpp 的 React Native 绑定，供开发者在 iOS/Android 应用内做设�
 ```mermaid
 xychart-beta
     title "mybigday/llama.rn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 1058 --> 1060
-    line [1059, 1059]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1058 --> 1062
+    line [1059, 1061]
 ```
 
-2026-10-18 1,059 → 2026-10-21 1,059（+0）
+2026-10-18 1,059 → 2026-10-23 1,061（+2）
 
 
 ---

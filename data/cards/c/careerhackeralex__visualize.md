@@ -45,13 +45,13 @@ Claude Code 插件：用户以自然语言描述可视化需求，Claude Code �
 
 ```mermaid
 xychart-beta
-    title "careerhackeralex/visualize 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "careerhackeralex/visualize 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 238 --> 244
-    line [239, 242, 243]
+    line [239, 242, 243, 243]
 ```
 
-2026-10-18 239 → 2026-10-22 243（+4）
+2026-10-18 239 → 2026-10-23 243（+4）
 
 
 ---

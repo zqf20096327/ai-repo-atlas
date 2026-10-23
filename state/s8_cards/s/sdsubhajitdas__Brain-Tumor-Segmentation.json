@@ -1,1 +1,77 @@
-{"fn": "sdsubhajitdas/Brain-Tumor-Segmentation", "sha": "44ebd7931952", "source": "readme", "identity": {"one_liner": "用 U-Net 对脑肿瘤 MRI 图像生成分割掩码的 PyTorch 项目", "review": "基于 U-Net 架构的脑肿瘤图像分割项目：读取 512×512×1 的 T1 加权增强 MRI 图像（3064 张、三类脑肿瘤数据集），生成肿瘤分割掩码。训练采用 Torchvision 数据增强（翻转/旋转）、学习率 plateau 衰减，100 epochs 后在 600 张测试图上取得平均 Dice 0.74461。提供 git clone + pip 依赖安装、数据集下载脚本与 api.py 命令行推理（单文件或文件夹批量），另有浏览器 Live Demo 与 Jupyter/Tensorboard 支持。面向深度学习开发与科研用户。", "highlights": ["U-Net 架构生成脑肿瘤分割掩码", "api.py 支持单图与文件夹批量推理", "提供数据集下载/解压/抽取脚本", "浏览器 Live Demo 可上传 MRI 切片查看预测掩码"], "use_cases": ["对脑部 MRI 图像生成肿瘤区域分割掩码", "复现或学习 U-Net 医学图像分割训练流程", "在本地批量处理 MRI 图像并输出掩码结果"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "Live Demo（README 徽章链接，行 9/13）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["医学影像", "图像分割", "U-Net", "PyTorch", "深度学习"], "domain": "医学影像/计算机视觉", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: This project uses U-Net Architecture to create segmentation masks for brain tumor images.", "L13: **Try the live demo →** Upload an MRI slice (or pick a sample study) and see the model's predicted tumor mask in your br"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sdsubhajitdas/Brain-Tumor-Segmentation",
+ "sha": "44ebd7931952",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 U-Net 对脑肿瘤 MRI 图像生成分割掩码的 PyTorch 项目",
+  "review": "基于 U-Net 架构的脑肿瘤图像分割项目：读取 512×512×1 的 T1 加权增强 MRI 图像（3064 张、三类脑肿瘤数据集），生成肿瘤分割掩码。训练采用 Torchvision 数据增强（翻转/旋转）、学习率 plateau 衰减，100 epochs 后在 600 张测试图上取得平均 Dice 0.74461。提供 git clone + pip 依赖安装、数据集下载脚本与 api.py 命令行推理（单文件或文件夹批量），另有浏览器 Live Demo 与 Jupyter/Tensorboard 支持。面向深度学习开发与科研用户。",
+  "highlights": [
+   "U-Net 架构生成脑肿瘤分割掩码",
+   "api.py 支持单图与文件夹批量推理",
+   "提供数据集下载/解压/抽取脚本",
+   "浏览器 Live Demo 可上传 MRI 切片查看预测掩码"
+  ],
+  "use_cases": [
+   "对脑部 MRI 图像生成肿瘤区域分割掩码",
+   "复现或学习 U-Net 医学图像分割训练流程",
+   "在本地批量处理 MRI 图像并输出掩码结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "Live Demo（README 徽章链接，行 9/13）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学影像",
+   "图像分割",
+   "U-Net",
+   "PyTorch",
+   "深度学习"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: This project uses U-Net Architecture to create segmentation masks for brain tumor images.",
+   "L13: **Try the live demo →** Upload an MRI slice (or pick a sample study) and see the model's predicted tumor mask in your br"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

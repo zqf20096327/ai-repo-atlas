@@ -44,13 +44,13 @@ Hugging Face 维护的 Transformers 与 AWS 加速器（Trainium/Inferentia）�
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum-neuron 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "huggingface/optimum-neuron 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 269 --> 272
-    line [270, 271]
+    line [270, 271, 271]
 ```
 
-2026-10-18 270 → 2026-10-22 271（+1）
+2026-10-18 270 → 2026-10-23 271（+1）
 
 
 ---

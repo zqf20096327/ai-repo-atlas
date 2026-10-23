@@ -45,13 +45,13 @@ Prompty 定义 .prompty Markdown 文件格式，用于编写、管理与调试 L
 
 ```mermaid
 xychart-beta
-    title "microsoft/prompty 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "microsoft/prompty 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1281 --> 1286
-    line [1282, 1285]
+    line [1282, 1285, 1285]
 ```
 
-2026-10-18 1,282 → 2026-10-22 1,285（+3）
+2026-10-18 1,282 → 2026-10-23 1,285（+3）
 
 
 ---

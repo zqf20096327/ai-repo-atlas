@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "atomistic-machine-learning/schnetpack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 942 --> 944
     line [943, 943]
 ```
 
-2026-10-18 943 → 2026-10-22 943（+0）
+2026-10-18 943 → 2026-10-23 943（+0）
 
 
 ---

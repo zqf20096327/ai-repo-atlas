@@ -43,12 +43,12 @@ Hugging Face 维护的 kernels-community 组织下计算内核（compute kernels
 ```mermaid
 xychart-beta
     title "huggingface/kernels-community 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
     y-axis "stars" 149 --> 154
     line [150, 153, 153]
 ```
 
-2026-10-18 150 → 2026-10-22 153（+3）
+2026-10-18 150 → 2026-10-23 153（+3）
 
 
 ---

@@ -44,12 +44,12 @@ TypeScript 库集合，把浏览器端 AI 模型来源封装为 Vercel AI SDK �
 ```mermaid
 xychart-beta
     title "jakobhoeg/browser-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 204 --> 206
     line [205, 205]
 ```
 
-2026-10-18 205 → 2026-10-22 205（+0）
+2026-10-18 205 → 2026-10-23 205（+0）
 
 
 ---

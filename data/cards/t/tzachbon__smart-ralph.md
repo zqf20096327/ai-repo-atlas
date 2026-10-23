@@ -44,13 +44,13 @@ Claude Code 与 OpenAI Codex 的插件，将特性请求转换为 research、req
 
 ```mermaid
 xychart-beta
-    title "tzachbon/smart-ralph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 558 --> 561
-    line [559, 560]
+    title "tzachbon/smart-ralph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 558 --> 562
+    line [559, 560, 561]
 ```
 
-2026-10-18 559 → 2026-10-22 560（+1）
+2026-10-18 559 → 2026-10-23 561（+2）
 
 
 ---

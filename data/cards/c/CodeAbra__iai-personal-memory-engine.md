@@ -44,13 +44,13 @@ iai-memory 是运行在本地、通过 MCP 协议服务的个人记忆引擎：�
 
 ```mermaid
 xychart-beta
-    title "CodeAbra/iai-personal-memory-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "CodeAbra/iai-personal-memory-engine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 910 --> 913
-    line [911, 912, 911]
+    line [911, 912, 911, 911]
 ```
 
-2026-10-18 911 → 2026-10-22 911（+0）
+2026-10-18 911 → 2026-10-23 911（+0）
 
 
 ---

@@ -43,13 +43,13 @@ Google Workspace 官方维护的插件（Add-ons）示例仓库，覆盖 Gmail�
 
 ```mermaid
 xychart-beta
-    title "googleworkspace/add-ons-samples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "googleworkspace/add-ons-samples 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 348 --> 353
-    line [349, 351, 352]
+    line [349, 351, 352, 352]
 ```
 
-2026-10-18 349 → 2026-10-22 352（+3）
+2026-10-18 349 → 2026-10-23 352（+3）
 
 
 ---

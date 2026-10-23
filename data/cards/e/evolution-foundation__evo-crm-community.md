@@ -46,12 +46,12 @@ Evo CRM 的开源社区版（v1.0.0-rc2），以 monorepo + Git submodules 聚�
 ```mermaid
 xychart-beta
     title "evolution-foundation/evo-crm-community 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 298 --> 300
-    line [299, 299]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 298 --> 302
+    line [299, 301]
 ```
 
-2026-10-18 299 → 2026-10-22 299（+0）
+2026-10-18 299 → 2026-10-23 301（+2）
 
 
 ---

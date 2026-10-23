@@ -44,13 +44,13 @@ Santander AI Lab 开源的 Python 工具，生成大规模合成金融交易图�
 
 ```mermaid
 xychart-beta
-    title "SantanderAI/gen-fraud-graph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 289 --> 293
-    line [290, 291, 292]
+    title "SantanderAI/gen-fraud-graph 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 289 --> 294
+    line [290, 291, 292, 293]
 ```
 
-2026-10-18 290 → 2026-10-22 292（+2）
+2026-10-18 290 → 2026-10-23 293（+3）
 
 
 ---

@@ -44,13 +44,13 @@ Starling 是一个围绕 Swift 语言构建的 Linux 桌面环境及应用工厂
 
 ```mermaid
 xychart-beta
-    title "starling-build/starling 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 384 --> 405
-    line [385, 402, 404]
+    title "starling-build/starling 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 383 --> 407
+    line [385, 402, 404, 405]
 ```
 
-2026-10-18 385 → 2026-10-22 404（+19）
+2026-10-18 385 → 2026-10-23 405（+20）
 
 
 ---

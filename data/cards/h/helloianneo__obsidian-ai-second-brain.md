@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "helloianneo/obsidian-ai-second-brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 289 --> 295
-    line [290, 292, 294]
+    title "helloianneo/obsidian-ai-second-brain 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 289 --> 297
+    line [290, 292, 294, 296]
 ```
 
-2026-10-18 290 → 2026-10-22 294（+4）
+2026-10-18 290 → 2026-10-23 296（+6）
 
 
 ---

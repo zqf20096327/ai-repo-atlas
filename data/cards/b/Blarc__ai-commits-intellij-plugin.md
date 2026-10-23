@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blarc/ai-commits-intellij-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "Blarc/ai-commits-intellij-plugin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 865 --> 870
-    line [866, 867, 869]
+    line [866, 867, 869, 869]
 ```
 
-2026-10-18 866 → 2026-10-22 869（+3）
+2026-10-18 866 → 2026-10-23 869（+3）
 
 
 ---

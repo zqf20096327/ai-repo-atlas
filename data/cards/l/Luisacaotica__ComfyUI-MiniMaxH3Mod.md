@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Luisacaotica/ComfyUI-MiniMaxH3Mod 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 440 --> 549
-    line [449, 475, 540]
+    title "Luisacaotica/ComfyUI-MiniMaxH3Mod 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 440 --> 557
+    line [449, 475, 540, 548]
 ```
 
-2026-10-18 449 → 2026-10-22 540（+91）
+2026-10-18 449 → 2026-10-23 548（+99）
 
 
 ---

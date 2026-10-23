@@ -45,13 +45,13 @@ DeepSeek Harness（DSH）的 Web 插件：在用户按下发送之前，不改�
 
 ```mermaid
 xychart-beta
-    title "WestFox-AwA/dsh-wish-specializer 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-22"]
-    y-axis "stars" 129 --> 134
-    line [130, 133]
+    title "WestFox-AwA/dsh-wish-specializer 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 129 --> 136
+    line [130, 133, 135]
 ```
 
-2026-10-19 130 → 2026-10-22 133（+3）
+2026-10-19 130 → 2026-10-23 135（+5）
 
 
 ---

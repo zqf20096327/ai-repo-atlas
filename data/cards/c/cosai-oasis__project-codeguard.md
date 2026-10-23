@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cosai-oasis/project-codeguard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "cosai-oasis/project-codeguard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 352 --> 355
-    line [353, 354]
+    line [353, 354, 354]
 ```
 
-2026-10-18 353 → 2026-10-22 354（+1）
+2026-10-18 353 → 2026-10-23 354（+1）
 
 
 ---

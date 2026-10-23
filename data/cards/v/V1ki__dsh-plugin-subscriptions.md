@@ -44,13 +44,13 @@ DeepSeek Harness（DSH）的 TypeScript 插件，把 ChatGPT (Codex)、Claude、
 
 ```mermaid
 xychart-beta
-    title "V1ki/dsh-plugin-subscriptions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 473 --> 490
-    line [474, 480, 489]
+    title "V1ki/dsh-plugin-subscriptions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 473 --> 494
+    line [474, 480, 489, 493]
 ```
 
-2026-10-18 474 → 2026-10-22 489（+15）
+2026-10-18 474 → 2026-10-23 493（+19）
 
 
 ---

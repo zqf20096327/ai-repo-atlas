@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LjyYano/Thinking_in_Java_MindMapping 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "LjyYano/Thinking_in_Java_MindMapping 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1687 --> 1692
-    line [1688, 1689, 1691]
+    line [1688, 1689, 1691, 1691]
 ```
 
-2026-10-18 1,688 → 2026-10-22 1,691（+3）
+2026-10-18 1,688 → 2026-10-23 1,691（+3）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YouMind-OpenLab/awesome-gemini-3-prompts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "YouMind-OpenLab/awesome-gemini-3-prompts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 519 --> 523
-    line [520, 522]
+    line [520, 522, 522]
 ```
 
-2026-10-18 520 → 2026-10-22 522（+2）
+2026-10-18 520 → 2026-10-23 522（+2）
 
 
 ---

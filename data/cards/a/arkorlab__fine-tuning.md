@@ -41,6 +41,18 @@ Arkor 是一个 TypeScript 微调框架，含 SDK、CLI 与本地 Studio Web UI�
 > L28: This repository contains the original fine-tuning framework: a TypeScript SDK, CLI, and local Studio previously off
 > L64: - **Fine-tuning from a TypeScript file.** `createTrainer({ model, dataset, lora, ... })` configured LoRA training a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "arkorlab/fine-tuning 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 144 --> 146
+    line [145, 145]
+```
+
+2026-10-22 145 → 2026-10-23 145（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `8b607af660ae` · [字段定义](../../DATASET.md)*

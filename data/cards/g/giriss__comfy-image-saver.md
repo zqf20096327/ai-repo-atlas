@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "giriss/comfy-image-saver 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "giriss/comfy-image-saver 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 346 --> 349
-    line [347, 348]
+    line [347, 348, 348]
 ```
 
-2026-10-18 347 → 2026-10-22 348（+1）
+2026-10-18 347 → 2026-10-23 348（+1）
 
 
 ---

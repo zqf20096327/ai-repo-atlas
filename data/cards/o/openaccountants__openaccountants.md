@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openaccountants/openaccountants 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 445 --> 456
-    line [446, 453, 455]
+    title "openaccountants/openaccountants 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 445 --> 458
+    line [446, 453, 455, 457]
 ```
 
-2026-10-18 446 → 2026-10-22 455（+9）
+2026-10-18 446 → 2026-10-23 457（+11）
 
 
 ---

@@ -40,6 +40,18 @@ Spark-X2.6-4B 是 SparkLLM Team 发布的 4B 参数通用语言模型，架构�
 > L15: A little over a month has passed since Spark-X2.5. In the rapidly evolving world of AI agents, that is enough time 
 > L17: Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improv
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "XHToken/Spark-X2.6 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 824 --> 834
+    line [825, 833]
+```
+
+2026-10-22 825 → 2026-10-23 833（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `b5684203c473` · [字段定义](../../DATASET.md)*

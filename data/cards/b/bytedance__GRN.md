@@ -46,12 +46,12 @@ ECCV 2026 论文 Generative Refinement Networks 的官方 PyTorch 实现。GRN �
 ```mermaid
 xychart-beta
     title "bytedance/GRN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 166 --> 168
     line [167, 167]
 ```
 
-2026-10-18 167 → 2026-10-22 167（+0）
+2026-10-18 167 → 2026-10-23 167（+0）
 
 
 ---

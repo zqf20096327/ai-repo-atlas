@@ -46,12 +46,12 @@ Electron 桌面应用，作为跨 Codex/Claude/OpenCode/Cursor/Grok/GitHub Copil
 ```mermaid
 xychart-beta
     title "777genius/agent-teams-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2268 --> 2281
-    line [2269, 2280, 2280]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 2267 --> 2294
+    line [2269, 2280, 2292]
 ```
 
-2026-10-18 2,269 → 2026-10-21 2,280（+11）
+2026-10-18 2,269 → 2026-10-23 2,292（+23）
 
 
 ---

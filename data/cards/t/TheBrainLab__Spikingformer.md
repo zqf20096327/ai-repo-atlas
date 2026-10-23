@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheBrainLab/Spikingformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "TheBrainLab/Spikingformer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 151 --> 154
-    line [152, 153]
+    line [152, 153, 153]
 ```
 
-2026-10-18 152 → 2026-10-22 153（+1）
+2026-10-18 152 → 2026-10-23 153（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/BCQuality 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 229 --> 233
-    line [230, 232]
+    title "microsoft/BCQuality 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 229 --> 234
+    line [230, 232, 233]
 ```
 
-2026-10-18 230 → 2026-10-22 232（+2）
+2026-10-18 230 → 2026-10-23 233（+3）
 
 
 ---

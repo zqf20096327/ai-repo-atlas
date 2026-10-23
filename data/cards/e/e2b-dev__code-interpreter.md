@@ -44,13 +44,13 @@ E2B 提供的开源基础设施 SDK：通过 JavaScript/TypeScript 与 Python �
 
 ```mermaid
 xychart-beta
-    title "e2b-dev/code-interpreter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 2418 --> 2421
-    line [2419, 2420]
+    title "e2b-dev/code-interpreter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2418 --> 2422
+    line [2419, 2420, 2421]
 ```
 
-2026-10-18 2,419 → 2026-10-22 2,420（+1）
+2026-10-18 2,419 → 2026-10-23 2,421（+2）
 
 
 ---

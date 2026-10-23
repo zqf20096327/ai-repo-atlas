@@ -45,12 +45,12 @@ Corridor Digital 协作开发的本地 AI 抠像工具，提供三种产品面�
 ```mermaid
 xychart-beta
     title "alexandremendoncaalvaro/CorridorKey-Runtime 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 765 --> 770
-    line [766, 769, 769]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 765 --> 772
+    line [766, 769, 771]
 ```
 
-2026-10-18 766 → 2026-10-22 769（+3）
+2026-10-18 766 → 2026-10-23 771（+5）
 
 
 ---

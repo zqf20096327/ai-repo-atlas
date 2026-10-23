@@ -45,13 +45,13 @@ LightlyStudio 是在本地运行、浏览器中打开的数据平台：用 Pytho
 
 ```mermaid
 xychart-beta
-    title "lightly-ai/lightly-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "lightly-ai/lightly-studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 895 --> 898
-    line [896, 897]
+    line [896, 897, 897]
 ```
 
-2026-10-18 896 → 2026-10-22 897（+1）
+2026-10-18 896 → 2026-10-23 897（+1）
 
 
 ---

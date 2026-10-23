@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "prompt-security/ps-fuzz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 716 --> 719
-    line [717, 718]
+    title "prompt-security/ps-fuzz 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 716 --> 720
+    line [717, 718, 719]
 ```
 
-2026-10-18 717 → 2026-10-22 718（+1）
+2026-10-18 717 → 2026-10-23 719（+2）
 
 
 ---

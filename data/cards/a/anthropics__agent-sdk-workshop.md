@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/agent-sdk-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "anthropics/agent-sdk-workshop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 136 --> 141
-    line [137, 140]
+    line [137, 140, 140]
 ```
 
-2026-10-18 137 → 2026-10-22 140（+3）
+2026-10-18 137 → 2026-10-23 140（+3）
 
 
 ---

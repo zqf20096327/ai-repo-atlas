@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "taishi-i/awesome-ChatGPT-repositories 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3305 --> 3320
-    line [3306, 3311, 3319]
+    title "taishi-i/awesome-ChatGPT-repositories 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3305 --> 3323
+    line [3306, 3311, 3319, 3322]
 ```
 
-2026-10-18 3,306 → 2026-10-22 3,319（+13）
+2026-10-18 3,306 → 2026-10-23 3,322（+16）
 
 
 ---

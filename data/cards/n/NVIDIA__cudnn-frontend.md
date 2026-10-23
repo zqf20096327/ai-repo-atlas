@@ -45,13 +45,13 @@ NVIDIA 维护的 cuDNN 库入口层：提供 header-only C++ API 与 Python 绑�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cudnn-frontend 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 969 --> 976
-    line [970, 973, 975]
+    title "NVIDIA/cudnn-frontend 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 969 --> 980
+    line [970, 973, 975, 979]
 ```
 
-2026-10-18 970 → 2026-10-22 975（+5）
+2026-10-18 970 → 2026-10-23 979（+9）
 
 
 ---

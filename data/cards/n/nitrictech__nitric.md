@@ -44,13 +44,13 @@ Nitric 是一个开源的多语言云应用框架，采用 infrastructure from c
 
 ```mermaid
 xychart-beta
-    title "nitrictech/nitric 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "nitrictech/nitric 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2015 --> 2019
-    line [2016, 2018]
+    line [2016, 2018, 2018]
 ```
 
-2026-10-18 2,016 → 2026-10-22 2,018（+2）
+2026-10-18 2,016 → 2026-10-23 2,018（+2）
 
 
 ---

@@ -45,12 +45,12 @@ Overmind 是一个 agent 训练与改进平台：读取生产 OpenTelemetry trac
 ```mermaid
 xychart-beta
     title "overmind-core/overmind 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 662 --> 670
-    line [663, 669, 669]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 662 --> 678
+    line [663, 669, 677]
 ```
 
-2026-10-18 663 → 2026-10-21 669（+6）
+2026-10-18 663 → 2026-10-23 677（+14）
 
 
 ---

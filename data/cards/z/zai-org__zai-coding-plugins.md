@@ -43,12 +43,12 @@ Z.ai（zai-org）维护的 Claude Code 插件集合，当前包含两个插件�
 ```mermaid
 xychart-beta
     title "zai-org/zai-coding-plugins 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 129 --> 131
     line [130, 130]
 ```
 
-2026-10-18 130 → 2026-10-22 130（+0）
+2026-10-18 130 → 2026-10-23 130（+0）
 
 
 ---

@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "yandexdataschool/Practical_DL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "yandexdataschool/Practical_DL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1777 --> 1781
-    line [1778, 1780]
+    line [1778, 1780, 1780]
 ```
 
-2026-10-18 1,778 → 2026-10-22 1,780（+2）
+2026-10-18 1,778 → 2026-10-23 1,780（+2）
 
 
 ---

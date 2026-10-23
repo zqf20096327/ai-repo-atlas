@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "grregis/MuckScraper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 147 --> 156
-    line [148, 155]
+    title "grregis/MuckScraper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 147 --> 159
+    line [148, 155, 158]
 ```
 
-2026-10-18 148 → 2026-10-22 155（+7）
+2026-10-18 148 → 2026-10-23 158（+10）
 
 
 ---

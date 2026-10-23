@@ -43,13 +43,13 @@ OpenRouter 官方团队维护的示例仓库：以可运行、经过验证的代
 
 ```mermaid
 xychart-beta
-    title "OpenRouterTeam/openrouter-examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "OpenRouterTeam/openrouter-examples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 389 --> 392
-    line [390, 391]
+    line [390, 391, 391]
 ```
 
-2026-10-18 390 → 2026-10-22 391（+1）
+2026-10-18 390 → 2026-10-23 391（+1）
 
 
 ---

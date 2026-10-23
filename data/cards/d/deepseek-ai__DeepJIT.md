@@ -44,13 +44,13 @@ header-only C++20 库，为 NVIDIA CUDA GPU 与华为昇腾 NPU 提供统一的�
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepJIT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 387 --> 415
-    line [389, 392, 413]
+    title "deepseek-ai/DeepJIT 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 386 --> 426
+    line [389, 392, 413, 423]
 ```
 
-2026-10-18 389 → 2026-10-22 413（+24）
+2026-10-18 389 → 2026-10-23 423（+34）
 
 
 ---

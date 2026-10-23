@@ -44,13 +44,13 @@ Hugging Face 开源的电子表格式工具，用 AI 模型构建、增广和变
 
 ```mermaid
 xychart-beta
-    title "huggingface/aisheets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1651 --> 1654
-    line [1652, 1653]
+    title "huggingface/aisheets 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1651 --> 1655
+    line [1652, 1653, 1654]
 ```
 
-2026-10-18 1,652 → 2026-10-22 1,653（+1）
+2026-10-18 1,652 → 2026-10-23 1,654（+2）
 
 
 ---

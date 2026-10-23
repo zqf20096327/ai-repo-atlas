@@ -44,13 +44,13 @@ HOL 维护的 Hashgraph 共识标准（HCS）参考实现 SDK，覆盖 HCS-1 文
 
 ```mermaid
 xychart-beta
-    title "hashgraph-online/standards-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1266 --> 1271
-    line [1267, 1269, 1270]
+    title "hashgraph-online/standards-sdk 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1266 --> 1273
+    line [1267, 1269, 1270, 1272]
 ```
 
-2026-10-18 1,267 → 2026-10-22 1,270（+3）
+2026-10-18 1,267 → 2026-10-23 1,272（+5）
 
 
 ---

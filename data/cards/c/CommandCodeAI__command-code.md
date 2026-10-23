@@ -44,13 +44,13 @@ Command Code 是一个 npm 安装的命令行编程 agent，面向使用开源�
 
 ```mermaid
 xychart-beta
-    title "CommandCodeAI/command-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4140 --> 4157
-    line [4141, 4147, 4156]
+    title "CommandCodeAI/command-code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4139 --> 4165
+    line [4141, 4147, 4156, 4163]
 ```
 
-2026-10-18 4,141 → 2026-10-22 4,156（+15）
+2026-10-18 4,141 → 2026-10-23 4,163（+22）
 
 
 ---

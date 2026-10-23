@@ -47,13 +47,13 @@ Kotlin/Jetpack Compose 编写的本地优先 Android AI agent 应用：用户填
 
 ```mermaid
 xychart-beta
-    title "Verlintas/BetterAIChat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 157 --> 161
-    line [160, 159, 158]
+    title "Verlintas/BetterAIChat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 115 --> 164
+    line [160, 159, 158, 119]
 ```
 
-2026-10-18 160 → 2026-10-22 158（-2）
+2026-10-18 160 → 2026-10-23 119（-41）
 
 
 ---

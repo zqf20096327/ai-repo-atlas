@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentDeskAI/browser-tools-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 7327 --> 7330
-    line [7328, 7329]
+    title "AgentDeskAI/browser-tools-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 7327 --> 7331
+    line [7328, 7329, 7330]
 ```
 
-2026-10-18 7,328 → 2026-10-22 7,329（+1）
+2026-10-18 7,328 → 2026-10-23 7,330（+2）
 
 
 ---

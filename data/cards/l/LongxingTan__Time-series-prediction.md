@@ -44,13 +44,13 @@ TFTS 是基于 TensorFlow/Keras 的时间序列深度学习包，支持预测、
 
 ```mermaid
 xychart-beta
-    title "LongxingTan/Time-series-prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "LongxingTan/Time-series-prediction 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 890 --> 894
-    line [891, 893]
+    line [891, 893, 893]
 ```
 
-2026-10-18 891 → 2026-10-22 893（+2）
+2026-10-18 891 → 2026-10-23 893（+2）
 
 
 ---

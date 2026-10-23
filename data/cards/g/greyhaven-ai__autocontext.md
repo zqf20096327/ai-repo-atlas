@@ -44,13 +44,13 @@ autocontext 是一个 agent 改进 harness：给定目标后，反复运行任�
 
 ```mermaid
 xychart-beta
-    title "greyhaven-ai/autocontext 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "greyhaven-ai/autocontext 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1308 --> 1311
-    line [1309, 1310]
+    line [1309, 1310, 1310]
 ```
 
-2026-10-18 1,309 → 2026-10-22 1,310（+1）
+2026-10-18 1,309 → 2026-10-23 1,310（+1）
 
 
 ---

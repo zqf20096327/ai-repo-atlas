@@ -44,13 +44,13 @@ Unreal Engine 5.8+ 的插件，接入引擎自带的 MCP server 与 ToolsetRegis
 
 ```mermaid
 xychart-beta
-    title "kevinpbuckley/VibeUE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 775 --> 786
-    line [776, 782, 785]
+    title "kevinpbuckley/VibeUE 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 775 --> 787
+    line [776, 782, 785, 786]
 ```
 
-2026-10-18 776 → 2026-10-22 785（+9）
+2026-10-18 776 → 2026-10-23 786（+10）
 
 
 ---

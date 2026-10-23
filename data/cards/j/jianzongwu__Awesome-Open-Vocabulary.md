@@ -44,12 +44,12 @@ TPAMI 2024 综述《Towards Open Vocabulary Learning: A Survey》的配套仓库
 ```mermaid
 xychart-beta
     title "jianzongwu/Awesome-Open-Vocabulary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1008 --> 1010
-    line [1009, 1009]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1007 --> 1010
+    line [1009, 1008]
 ```
 
-2026-10-18 1,009 → 2026-10-22 1,009（+0）
+2026-10-18 1,009 → 2026-10-23 1,008（-1）
 
 
 ---

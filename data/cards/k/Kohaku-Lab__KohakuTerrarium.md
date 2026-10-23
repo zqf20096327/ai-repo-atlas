@@ -46,12 +46,12 @@ KohakuTerrarium 是用 Python 编写的 agent 框架与配套应用：以 creatu
 ```mermaid
 xychart-beta
     title "Kohaku-Lab/KohakuTerrarium 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 525 --> 528
-    line [526, 527, 527]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 525 --> 529
+    line [526, 527, 528]
 ```
 
-2026-10-18 526 → 2026-10-21 527（+1）
+2026-10-18 526 → 2026-10-23 528（+2）
 
 
 ---

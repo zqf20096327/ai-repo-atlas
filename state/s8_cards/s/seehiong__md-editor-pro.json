@@ -1,1 +1,80 @@
-{"fn": "seehiong/md-editor-pro", "sha": "935b676a22df", "source": "readme", "identity": {"one_liner": "React Markdown 编辑器组件：分屏预览、LaTeX、可选 AI 辅助", "review": "基于 React 18/TypeScript/Tailwind CSS 的 Markdown 编辑器，提供 CodeMirror 6 分屏实时预览、多文档标签页浏览器自动保存、通过 File System Access API 原生打开/保存本地 .md 文件、KaTeX 数学公式、Mermaid 图表、GitHub 风格 Markdown、导出独立 HTML 或打印 PDF，可安装为离线 PWA。AI 为可选功能（BYOK）：用用户自有 API key 接入 OpenRouter、OpenAI 或本地 Ollama，做改进、校对、摘要或续写。以 npm/源码方式集成到 React 应用，需 Node.js 18+。", "highlights": ["CodeMirror 6 分屏编辑与实时预览，双向滚动同步", "KaTeX LaTeX 公式与 Mermaid 图表渲染", "File System Access API 原生读写本地 .md 文件", "AI 辅助（BYOK）支持 OpenRouter/OpenAI/本地 Ollama"], "use_cases": ["在 React 应用中嵌入带实时预览的 Markdown 编辑器", "本地编辑含数学公式和图表的技术文档并导出 HTML/PDF", "用自有 API key 在写作中获得 AI 改进与续写"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "README 标注 Live Demo（L5，未附 URL 链接文本）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Markdown编辑器", "前端组件", "写作工具", "PWA/离线", "AI辅助(BYOK)"], "domain": "开发者工具/文本编辑", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L19: - ✨ **AI Assist (BYOK)** - Improve, proofread, summarize or continue writing with your own API key (OpenRouter, OpenAI, ", "L9: - 📝 **IDE-style Split View** - CodeMirror 6 editor with live preview side by side, draggable divider, bidirectional scro"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "seehiong/md-editor-pro",
+ "sha": "935b676a22df",
+ "source": "readme",
+ "identity": {
+  "one_liner": "React Markdown 编辑器组件：分屏预览、LaTeX、可选 AI 辅助",
+  "review": "基于 React 18/TypeScript/Tailwind CSS 的 Markdown 编辑器，提供 CodeMirror 6 分屏实时预览、多文档标签页浏览器自动保存、通过 File System Access API 原生打开/保存本地 .md 文件、KaTeX 数学公式、Mermaid 图表、GitHub 风格 Markdown、导出独立 HTML 或打印 PDF，可安装为离线 PWA。AI 为可选功能（BYOK）：用用户自有 API key 接入 OpenRouter、OpenAI 或本地 Ollama，做改进、校对、摘要或续写。以 npm/源码方式集成到 React 应用，需 Node.js 18+。",
+  "highlights": [
+   "CodeMirror 6 分屏编辑与实时预览，双向滚动同步",
+   "KaTeX LaTeX 公式与 Mermaid 图表渲染",
+   "File System Access API 原生读写本地 .md 文件",
+   "AI 辅助（BYOK）支持 OpenRouter/OpenAI/本地 Ollama"
+  ],
+  "use_cases": [
+   "在 React 应用中嵌入带实时预览的 Markdown 编辑器",
+   "本地编辑含数学公式和图表的技术文档并导出 HTML/PDF",
+   "用自有 API key 在写作中获得 AI 改进与续写"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "README 标注 Live Demo（L5，未附 URL 链接文本）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Markdown编辑器",
+   "前端组件",
+   "写作工具",
+   "PWA/离线",
+   "AI辅助(BYOK)"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: - ✨ **AI Assist (BYOK)** - Improve, proofread, summarize or continue writing with your own API key (OpenRouter, OpenAI, ",
+   "L9: - 📝 **IDE-style Split View** - CodeMirror 6 editor with live preview side by side, draggable divider, bidirectional scro"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

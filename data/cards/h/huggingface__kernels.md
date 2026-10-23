@@ -44,13 +44,13 @@ Kernel Hub 生态的客户端与构建工具：`kernels` Python 包支持在运�
 
 ```mermaid
 xychart-beta
-    title "huggingface/kernels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "huggingface/kernels 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 774 --> 777
-    line [775, 776]
+    line [775, 776, 775]
 ```
 
-2026-10-18 775 → 2026-10-22 776（+1）
+2026-10-18 775 → 2026-10-23 775（+0）
 
 
 ---

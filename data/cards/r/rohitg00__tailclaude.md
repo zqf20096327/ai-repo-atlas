@@ -45,12 +45,12 @@ TailClaude 是基于 iii 引擎的 Claude Code Web 前端/代理：在 Tailscale
 ```mermaid
 xychart-beta
     title "rohitg00/tailclaude 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 265 --> 267
     line [266, 266]
 ```
 
-2026-10-18 266 → 2026-10-22 266（+0）
+2026-10-18 266 → 2026-10-23 266（+0）
 
 
 ---

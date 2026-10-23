@@ -1,1 +1,71 @@
-{"fn": "sh-lee97/grafx", "sha": "b35ef2027392", "source": "readme", "identity": {"one_liner": "PyTorch 音频处理图开源库", "review": "GRAFX 是一个基于 PyTorch 的音频处理图（Audio Processing Graphs）开源库，面向深度学习音频研究场景（主题涉及 audio、ddsp、deep-learning、graph）。以 Python 库形式提供，通过 pip 安装。README 中列有文档与 arXiv 技术论文链接。可见 README 内容简短，更多功能细节未在可见范围内展示。", "highlights": ["基于 PyTorch 的音频处理图库", "提供文档与 arXiv 技术论文", "pip 安装"], "use_cases": ["构建音频处理图进行深度学习研究", "基于图结构做音频/可微信号处理实验"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "arXiv（README 提及，链接具体值不可见）", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["音频处理", "可微DSP", "图结构", "深度学习库"], "domain": "音频/深度学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: **An Open-Source Library for Audio Processing Graphs in PyTorch**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sh-lee97/grafx",
+ "sha": "b35ef2027392",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 音频处理图开源库",
+  "review": "GRAFX 是一个基于 PyTorch 的音频处理图（Audio Processing Graphs）开源库，面向深度学习音频研究场景（主题涉及 audio、ddsp、deep-learning、graph）。以 Python 库形式提供，通过 pip 安装。README 中列有文档与 arXiv 技术论文链接。可见 README 内容简短，更多功能细节未在可见范围内展示。",
+  "highlights": [
+   "基于 PyTorch 的音频处理图库",
+   "提供文档与 arXiv 技术论文",
+   "pip 安装"
+  ],
+  "use_cases": [
+   "构建音频处理图进行深度学习研究",
+   "基于图结构做音频/可微信号处理实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv（README 提及，链接具体值不可见）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音频处理",
+   "可微DSP",
+   "图结构",
+   "深度学习库"
+  ],
+  "domain": "音频/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **An Open-Source Library for Audio Processing Graphs in PyTorch**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

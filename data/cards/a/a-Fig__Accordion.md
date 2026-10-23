@@ -46,12 +46,12 @@ Accordion 是 pi 编码 agent 的扩展，提供浏览器 UI 与 Tauri+SvelteKit
 ```mermaid
 xychart-beta
     title "a-Fig/Accordion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 245 --> 247
     line [246, 246]
 ```
 
-2026-10-18 246 → 2026-10-21 246（+0）
+2026-10-18 246 → 2026-10-23 246（+0）
 
 
 ---

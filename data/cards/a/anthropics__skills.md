@@ -52,13 +52,13 @@ Anthropic 官方的 Agent Skills 仓库：Skill 是含 SKILL.md（YAML frontmatt
 
 ```mermaid
 xychart-beta
-    title "anthropics/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 181642 --> 182748
-    line [181734, 182202, 182656]
+    title "anthropics/skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 181608 --> 183120
+    line [181734, 182202, 182656, 182994]
 ```
 
-2026-10-18 181,734 → 2026-10-22 182,656（+922）
+2026-10-18 181,734 → 2026-10-23 182,994（+1,260）
 
 
 ---

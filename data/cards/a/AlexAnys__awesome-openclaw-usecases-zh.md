@@ -44,13 +44,13 @@ OpenClaw（开源个人 AI 智能体）的中文用例策展仓库：收录 50 �
 
 ```mermaid
 xychart-beta
-    title "AlexAnys/awesome-openclaw-usecases-zh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4443 --> 4448
-    line [4444, 4446, 4447]
+    title "AlexAnys/awesome-openclaw-usecases-zh 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4443 --> 4449
+    line [4444, 4446, 4447, 4448]
 ```
 
-2026-10-18 4,444 → 2026-10-22 4,447（+3）
+2026-10-18 4,444 → 2026-10-23 4,448（+4）
 
 
 ---

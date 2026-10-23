@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liangdabiao/perler-beads-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "liangdabiao/perler-beads-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 330 --> 333
-    line [332, 331]
+    line [332, 331, 331]
 ```
 
-2026-10-18 332 → 2026-10-22 331（-1）
+2026-10-18 332 → 2026-10-23 331（-1）
 
 
 ---

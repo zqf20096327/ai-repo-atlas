@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "currents-dev/playwright-best-practices-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 399 --> 406
-    line [400, 402, 405]
+    title "currents-dev/playwright-best-practices-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 399 --> 407
+    line [400, 402, 405, 406]
 ```
 
-2026-10-18 400 → 2026-10-22 405（+5）
+2026-10-18 400 → 2026-10-23 406（+6）
 
 
 ---

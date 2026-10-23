@@ -46,13 +46,13 @@ LazyMind 是一个 AI Skill Runtime，将知识库、可执行 Skills、工作�
 
 ```mermaid
 xychart-beta
-    title "LazyAGI/LazyMind 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 230 --> 332
-    line [238, 278, 324]
+    title "LazyAGI/LazyMind 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 228 --> 351
+    line [238, 278, 324, 341]
 ```
 
-2026-10-18 238 → 2026-10-22 324（+86）
+2026-10-18 238 → 2026-10-23 341（+103）
 
 
 ---

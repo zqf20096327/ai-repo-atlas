@@ -45,13 +45,13 @@ Neovim 插件，通过实现 Agent Client Protocol (ACP) 为 AI 编程 agent 提
 
 ```mermaid
 xychart-beta
-    title "carlos-algms/agentic.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "carlos-algms/agentic.nvim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 639 --> 642
-    line [641, 640]
+    line [641, 640, 641]
 ```
 
-2026-10-18 641 → 2026-10-22 640（-1）
+2026-10-18 641 → 2026-10-23 641（+0）
 
 
 ---

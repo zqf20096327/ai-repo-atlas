@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThilinaRajapakse/simpletransformers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "ThilinaRajapakse/simpletransformers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 4253 --> 4256
-    line [4255, 4254]
+    line [4255, 4254, 4254]
 ```
 
-2026-10-18 4,255 → 2026-10-22 4,254（-1）
+2026-10-18 4,255 → 2026-10-23 4,254（-1）
 
 
 ---

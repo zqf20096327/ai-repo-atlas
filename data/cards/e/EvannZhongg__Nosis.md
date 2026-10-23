@@ -41,6 +41,18 @@
 > L20: - **Controlled local execution**: A session supports three permission presets — `Ask for approval`, `Workspace Acce
 > L21: - **Desktop automation**: The main agent can observe and operate the visible desktop through `computer_screenshot` 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EvannZhongg/Nosis 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 0 --> 269
+    line [246, 10]
+```
+
+2026-10-22 246 → 2026-10-23 10（-236）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `3fec5e360548` · [字段定义](../../DATASET.md)*

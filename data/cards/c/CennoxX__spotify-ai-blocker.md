@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CennoxX/spotify-ai-blocker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "CennoxX/spotify-ai-blocker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 144 --> 147
-    line [145, 146]
+    line [145, 146, 146]
 ```
 
-2026-10-18 145 → 2026-10-22 146（+1）
+2026-10-18 145 → 2026-10-23 146（+1）
 
 
 ---

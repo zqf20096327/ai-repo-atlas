@@ -1,1 +1,79 @@
-{"fn": "samuelfaj/distill", "sha": "c16f143f28da", "source": "readme", "identity": {"one_liner": "省 token 的编码 agent 运行框架与 TUI，支持多模型订阅", "review": "轻量级编码 agent harness 与终端 UI（TUI），通过多种执行模式压缩 token 消耗与运行时间：UltraSave 缩减搜索/读取/报告规模，UltraFast 跳过规划轮次，UltraCode 以并行子代理拆分任务并校验结果。模型接入兼容 OpenAI 协议、Grok/Codex 订阅及 OpenRouter 登录，支持主/Worker/Utility 三层模型配置，内置 Caveman 压缩与 Ponytail 复用规则（均不可关闭）。提供 Mac/Linux/Windows 安装脚本与 distill update 升级命令，另有 headless 模式。成本与速度数据来自项目自带 20 例基准，细节见 BENCHMARKS.md。", "highlights": ["UltraSave/UltraFast/UltraCode 三种执行模式，可用斜杠命令或 flag 切换", "主/Worker/Utility 三层模型配置，每层可设 effort 或 auto", "内置不可关闭的 Caveman 压缩与 Ponytail 代码复用规则集", "兼容 OpenAI 协议模型与 Grok/Codex 订阅"], "use_cases": ["在编码 agent 工作流中降低 token 消耗", "用已有模型订阅跑本地 TUI 编码代理", "通过并行子代理拆分并加速编码任务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编码代理", "TUI工具", "token优化", "多模型接入"], "domain": "开发者工具/编码 agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Distill is a lightweight coding agent harness and TUI, built to **get far more done", "L8: It works with Grok and Codex subscriptions, and with any model that speaks the"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "samuelfaj/distill",
+ "sha": "c16f143f28da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "省 token 的编码 agent 运行框架与 TUI，支持多模型订阅",
+  "review": "轻量级编码 agent harness 与终端 UI（TUI），通过多种执行模式压缩 token 消耗与运行时间：UltraSave 缩减搜索/读取/报告规模，UltraFast 跳过规划轮次，UltraCode 以并行子代理拆分任务并校验结果。模型接入兼容 OpenAI 协议、Grok/Codex 订阅及 OpenRouter 登录，支持主/Worker/Utility 三层模型配置，内置 Caveman 压缩与 Ponytail 复用规则（均不可关闭）。提供 Mac/Linux/Windows 安装脚本与 distill update 升级命令，另有 headless 模式。成本与速度数据来自项目自带 20 例基准，细节见 BENCHMARKS.md。",
+  "highlights": [
+   "UltraSave/UltraFast/UltraCode 三种执行模式，可用斜杠命令或 flag 切换",
+   "主/Worker/Utility 三层模型配置，每层可设 effort 或 auto",
+   "内置不可关闭的 Caveman 压缩与 Ponytail 代码复用规则集",
+   "兼容 OpenAI 协议模型与 Grok/Codex 订阅"
+  ],
+  "use_cases": [
+   "在编码 agent 工作流中降低 token 消耗",
+   "用已有模型订阅跑本地 TUI 编码代理",
+   "通过并行子代理拆分并加速编码任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码代理",
+   "TUI工具",
+   "token优化",
+   "多模型接入"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Distill is a lightweight coding agent harness and TUI, built to **get far more done",
+   "L8: It works with Grok and Codex subscriptions, and with any model that speaks the"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

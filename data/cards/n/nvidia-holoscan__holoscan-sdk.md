@@ -44,13 +44,13 @@ Holoscan SDK 是 NVIDIA Holoscan 平台的 C++/Python SDK，用于在嵌入式�
 
 ```mermaid
 xychart-beta
-    title "nvidia-holoscan/holoscan-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 224 --> 228
-    line [225, 227]
+    title "nvidia-holoscan/holoscan-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 224 --> 231
+    line [225, 227, 230]
 ```
 
-2026-10-18 225 → 2026-10-22 227（+2）
+2026-10-18 225 → 2026-10-23 230（+5）
 
 
 ---

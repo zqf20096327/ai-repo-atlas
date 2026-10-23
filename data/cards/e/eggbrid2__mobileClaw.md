@@ -45,12 +45,12 @@ Android 端 AI agent 运行时与实验应用：本版本核心是多 agent 群�
 ```mermaid
 xychart-beta
     title "eggbrid2/mobileClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 378 --> 380
-    line [379, 379]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 375 --> 380
+    line [379, 376]
 ```
 
-2026-10-18 379 → 2026-10-22 379（+0）
+2026-10-18 379 → 2026-10-23 376（-3）
 
 
 ---

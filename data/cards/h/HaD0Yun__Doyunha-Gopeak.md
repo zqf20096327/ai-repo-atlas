@@ -46,12 +46,12 @@ GoPeak 是一个 MCP server，让 Claude Desktop、Cursor、Cline 等 MCP 客户
 ```mermaid
 xychart-beta
     title "HaD0Yun/Doyunha-Gopeak 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 266 --> 269
-    line [268, 267, 267]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 266 --> 270
+    line [268, 267, 269]
 ```
 
-2026-10-18 268 → 2026-10-22 267（-1）
+2026-10-18 268 → 2026-10-23 269（+1）
 
 
 ---

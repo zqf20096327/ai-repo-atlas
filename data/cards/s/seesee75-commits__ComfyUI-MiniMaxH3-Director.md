@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 视频生成/创作工具
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "seesee75-commits/ComfyUI-MiniMaxH3-Director 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "seesee75-commits/ComfyUI-MiniMaxH3-Director 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 319 --> 322
-    line [320, 321]
+    line [320, 321, 321]
 ```
 
-2026-10-18 320 → 2026-10-22 321（+1）
+2026-10-18 320 → 2026-10-23 321（+1）
 
 
 ---

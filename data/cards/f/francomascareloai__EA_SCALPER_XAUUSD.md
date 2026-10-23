@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "francomascareloai/EA_SCALPER_XAUUSD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "francomascareloai/EA_SCALPER_XAUUSD 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 260 --> 265
-    line [261, 264, 263]
+    line [261, 264, 263, 262]
 ```
 
-2026-10-18 261 → 2026-10-22 263（+2）
+2026-10-18 261 → 2026-10-23 262（+1）
 
 
 ---

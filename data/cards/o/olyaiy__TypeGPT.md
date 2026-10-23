@@ -40,6 +40,18 @@ Python 编写的桌面应用：通过键盘监听与快捷键，在任何应用�
 > L5: TypeGPT is a Python application that allows you to invoke various AI's and LLM's from any text field in your operati
 > L11: - **Global Accessibility**: Invoke AI models from any text input field across your system.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "olyaiy/TypeGPT 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 148 --> 150
+    line [149, 149]
+```
+
+2026-10-22 149 → 2026-10-23 149（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `b3264dec10ad` · [字段定义](../../DATASET.md)*

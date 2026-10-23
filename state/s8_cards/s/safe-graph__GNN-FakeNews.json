@@ -1,1 +1,78 @@
-{"fn": "safe-graph/GNN-FakeNews", "sha": "1642d1374fe4", "source": "readme", "identity": {"one_liner": "GNN 假新闻检测模型集合与 UPFD 数据集基准", "review": "提供一系列基于图神经网络（GNN）的假新闻检测模型的 PyTorch-Geometric 实现，统一在 UPFD（用户偏好感知假新闻检测）框架下以图分类任务形式实现与评估。收录 GNN-CL、GCNFN、BiGCN、UPFD-GCN/GAT/SAGE 六个模型，配套从 Politifact 与 Gossipcop 事实核查信息构建的 Twitter 新闻传播图数据集（含 BERT/spaCy/profile/content 四类节点特征），数据集已集成进 PyG 与 DGL 官方库。可本地手动安装运行，也可在 Code Ocean 上复现。", "highlights": ["六个 GNN 假新闻检测模型实现（GNN-CL/GCNFN/BiGCN/UPFD-GCN/GAT/SAGE）", "UPFD 数据集：Politifact 314 图、Gossipcop 5464 图，已集成 PyG 与 DGL 官方库", "四种节点特征：bert(768维)、spacy(300维)、profile(10维)、content(310维)", "支持 Code Ocean 在线复现与 PaperWithCode 基准跟踪"], "use_cases": ["研究人员对比不同 GNN 模型在假新闻检测上的表现", "用 UPFD 数据集训练与评测自己的图分类模型", "复现 SIGIR'21 UPFD 论文实验结果"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2104.12248", "demo_url": "https://codeocean.com/capsule/2282091", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["假新闻检测", "图神经网络", "基准/评测", "社交网络分析", "数据集"], "domain": "机器学习/社交网络分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: This repo includes the Pytorch-Geometric implementation of a series of Graph Neural Network (GNN) based fake news detect", "L7: All GNN models are implemented and evaluated under the User Preference-aware Fake News Detection (UPFD) framework.", "L8: The fake news detection problem is instantiated as a graph classification task under the UPFD framework."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "safe-graph/GNN-FakeNews",
+ "sha": "1642d1374fe4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GNN 假新闻检测模型集合与 UPFD 数据集基准",
+  "review": "提供一系列基于图神经网络（GNN）的假新闻检测模型的 PyTorch-Geometric 实现，统一在 UPFD（用户偏好感知假新闻检测）框架下以图分类任务形式实现与评估。收录 GNN-CL、GCNFN、BiGCN、UPFD-GCN/GAT/SAGE 六个模型，配套从 Politifact 与 Gossipcop 事实核查信息构建的 Twitter 新闻传播图数据集（含 BERT/spaCy/profile/content 四类节点特征），数据集已集成进 PyG 与 DGL 官方库。可本地手动安装运行，也可在 Code Ocean 上复现。",
+  "highlights": [
+   "六个 GNN 假新闻检测模型实现（GNN-CL/GCNFN/BiGCN/UPFD-GCN/GAT/SAGE）",
+   "UPFD 数据集：Politifact 314 图、Gossipcop 5464 图，已集成 PyG 与 DGL 官方库",
+   "四种节点特征：bert(768维)、spacy(300维)、profile(10维)、content(310维)",
+   "支持 Code Ocean 在线复现与 PaperWithCode 基准跟踪"
+  ],
+  "use_cases": [
+   "研究人员对比不同 GNN 模型在假新闻检测上的表现",
+   "用 UPFD 数据集训练与评测自己的图分类模型",
+   "复现 SIGIR'21 UPFD 论文实验结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2104.12248",
+  "demo_url": "https://codeocean.com/capsule/2282091",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "假新闻检测",
+   "图神经网络",
+   "基准/评测",
+   "社交网络分析",
+   "数据集"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: This repo includes the Pytorch-Geometric implementation of a series of Graph Neural Network (GNN) based fake news detect",
+   "L7: All GNN models are implemented and evaluated under the User Preference-aware Fake News Detection (UPFD) framework.",
+   "L8: The fake news detection problem is instantiated as a graph classification task under the UPFD framework."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wousp112/awesome-justin-sun-ideas-to-ai-howto 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-22"]
-    y-axis "stars" 168 --> 177
-    line [169, 176]
+    title "wousp112/awesome-justin-sun-ideas-to-ai-howto 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 168 --> 182
+    line [169, 176, 181]
 ```
 
-2026-10-19 169 → 2026-10-22 176（+7）
+2026-10-19 169 → 2026-10-23 181（+12）
 
 
 ---

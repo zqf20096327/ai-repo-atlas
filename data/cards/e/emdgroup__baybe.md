@@ -46,12 +46,12 @@ BayBE 是由 EMD Group（Merck KGaA）维护的开源 Python 库，通过贝叶�
 ```mermaid
 xychart-beta
     title "emdgroup/baybe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 515 --> 517
-    line [516, 516]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 515 --> 518
+    line [516, 517]
 ```
 
-2026-10-18 516 → 2026-10-22 516（+0）
+2026-10-18 516 → 2026-10-23 517（+1）
 
 
 ---

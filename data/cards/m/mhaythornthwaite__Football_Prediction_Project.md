@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mhaythornthwaite/Football_Prediction_Project 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "mhaythornthwaite/Football_Prediction_Project 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 314 --> 318
-    line [315, 316, 317]
+    line [315, 316, 317, 317]
 ```
 
-2026-10-18 315 → 2026-10-22 317（+2）
+2026-10-18 315 → 2026-10-23 317（+2）
 
 
 ---

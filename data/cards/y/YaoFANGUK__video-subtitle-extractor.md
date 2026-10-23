@@ -45,13 +45,13 @@ Video-subtitle-extractor (VSE) 将视频中的硬字幕提取为外挂 srt/txt �
 
 ```mermaid
 xychart-beta
-    title "YaoFANGUK/video-subtitle-extractor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 9605 --> 9631
-    line [9607, 9620, 9629]
+    title "YaoFANGUK/video-subtitle-extractor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 9605 --> 9635
+    line [9607, 9620, 9629, 9633]
 ```
 
-2026-10-18 9,607 → 2026-10-22 9,629（+22）
+2026-10-18 9,607 → 2026-10-23 9,633（+26）
 
 
 ---

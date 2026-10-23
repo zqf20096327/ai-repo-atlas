@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/awesome-minimax-h3-integration 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 443 --> 451
-    line [444, 448, 450]
+    title "MiniMax-AI/awesome-minimax-h3-integration 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 443 --> 453
+    line [444, 448, 450, 452]
 ```
 
-2026-10-18 444 → 2026-10-22 450（+6）
+2026-10-18 444 → 2026-10-23 452（+8）
 
 
 ---

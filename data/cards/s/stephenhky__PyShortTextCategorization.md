@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stephenhky/PyShortTextCategorization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 472 --> 474
     line [473, 473]
 ```
 
-2026-10-18 473 → 2026-10-22 473（+0）
+2026-10-18 473 → 2026-10-23 473（+0）
 
 
 ---

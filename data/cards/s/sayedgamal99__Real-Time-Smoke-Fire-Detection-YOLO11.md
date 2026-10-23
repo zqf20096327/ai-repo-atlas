@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:计算机视觉/公共安全
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 134 --> 137
-    line [135, 136]
+    line [135, 136, 136]
 ```
 
-2026-10-18 135 → 2026-10-22 136（+1）
+2026-10-18 135 → 2026-10-23 136（+1）
 
 
 ---

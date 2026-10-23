@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LakshmanTurlapati/Review-Gate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "LakshmanTurlapati/Review-Gate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1525 --> 1528
-    line [1527, 1526]
+    line [1527, 1526, 1526]
 ```
 
-2026-10-18 1,527 → 2026-10-22 1,526（-1）
+2026-10-18 1,527 → 2026-10-23 1,526（-1）
 
 
 ---

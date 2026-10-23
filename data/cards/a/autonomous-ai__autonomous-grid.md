@@ -45,13 +45,13 @@ Grid 是一个 CLI 工具：在一台电脑上启动网格地址，其余电脑�
 
 ```mermaid
 xychart-beta
-    title "autonomous-ai/autonomous-grid 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 264 --> 268
-    line [265, 267]
+    title "autonomous-ai/autonomous-grid 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 264 --> 270
+    line [265, 267, 269]
 ```
 
-2026-10-18 265 → 2026-10-22 267（+2）
+2026-10-18 265 → 2026-10-23 269（+4）
 
 
 ---

@@ -43,13 +43,13 @@ TensorFlow Recommenders 是构建推荐系统模型的 TensorFlow 库，覆盖�
 
 ```mermaid
 xychart-beta
-    title "tensorflow/recommenders 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "tensorflow/recommenders 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2035 --> 2039
-    line [2036, 2037, 2038]
+    line [2036, 2037, 2038, 2038]
 ```
 
-2026-10-18 2,036 → 2026-10-22 2,038（+2）
+2026-10-18 2,036 → 2026-10-23 2,038（+2）
 
 
 ---

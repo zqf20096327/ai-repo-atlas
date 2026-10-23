@@ -41,6 +41,18 @@ StanfordVL 发布的具身智能体仿真环境（CVPR 2018），将真实空间
 > L9: **III.** embodiment of the agent and making it subject to constraints of space and physics via integrating a physics
 > L159: python examples/train/train_husky_navigate_ppo2.py ### Use PPO2 to train a car to navigate down the hallway in Gat
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "StanfordVL/GibsonEnv 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 946 --> 948
+    line [947, 947]
+```
+
+2026-10-22 947 → 2026-10-23 947（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `7a8a5bfba448` · [字段定义](../../DATASET.md)*

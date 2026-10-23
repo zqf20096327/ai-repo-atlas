@@ -45,13 +45,13 @@ OptiLLM 是一个 OpenAI API 兼容的优化推理代理服务器，客户端只
 
 ```mermaid
 xychart-beta
-    title "algorithmicsuperintelligence/optillm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4318 --> 4327
-    line [4319, 4323, 4326]
+    title "algorithmicsuperintelligence/optillm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4318 --> 4329
+    line [4319, 4323, 4326, 4328]
 ```
 
-2026-10-18 4,319 → 2026-10-22 4,326（+7）
+2026-10-18 4,319 → 2026-10-23 4,328（+9）
 
 
 ---

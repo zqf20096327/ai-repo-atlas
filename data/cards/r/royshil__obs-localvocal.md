@@ -45,13 +45,13 @@ OBS Studio 源/滤镜插件：在本地机器上用 OpenAI Whisper（经 Whisper
 
 ```mermaid
 xychart-beta
-    title "royshil/obs-localvocal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1637 --> 1646
-    line [1638, 1642, 1645]
+    title "royshil/obs-localvocal 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1637 --> 1648
+    line [1638, 1642, 1645, 1647]
 ```
 
-2026-10-18 1,638 → 2026-10-22 1,645（+7）
+2026-10-18 1,638 → 2026-10-23 1,647（+9）
 
 
 ---

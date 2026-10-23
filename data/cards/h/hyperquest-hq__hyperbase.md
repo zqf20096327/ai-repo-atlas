@@ -45,12 +45,12 @@ Python 编写的基础库，用于构建和处理语义超图（Semantic Hypergr
 ```mermaid
 xychart-beta
     title "hyperquest-hq/hyperbase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 649 --> 651
     line [650, 650]
 ```
 
-2026-10-18 650 → 2026-10-22 650（+0）
+2026-10-18 650 → 2026-10-23 650（+0）
 
 
 ---

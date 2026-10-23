@@ -43,13 +43,13 @@ Stability-AI 维护的 Python SDK，封装基于 gRPC 的 Stability API：设置
 
 ```mermaid
 xychart-beta
-    title "Stability-AI/stability-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Stability-AI/stability-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2436 --> 2439
-    line [2437, 2438]
+    line [2437, 2438, 2437]
 ```
 
-2026-10-18 2,437 → 2026-10-22 2,438（+1）
+2026-10-18 2,437 → 2026-10-23 2,437（+0）
 
 
 ---

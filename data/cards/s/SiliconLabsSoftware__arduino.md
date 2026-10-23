@@ -40,6 +40,18 @@
 > L3: This project enables **Silicon Labs** hardware to be used with the **Arduino** ecosystem.
 > L89:  - **SilabsTFLiteMicro 🤖** - TensorFlow Lite for Microcontrollers AI/ML library [docs]
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SiliconLabsSoftware/arduino 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 166 --> 168
+    line [167, 167]
+```
+
+2026-10-22 167 → 2026-10-23 167（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `8bb27d3d2e9a` · [字段定义](../../DATASET.md)*

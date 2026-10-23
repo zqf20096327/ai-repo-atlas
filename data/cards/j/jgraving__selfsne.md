@@ -38,6 +38,18 @@ Self-SNE（Self-Supervised Noise Embeddings）是面向深度学习的自监督�
 > L3: This project is undergoing refactoring and validation. **It is not ready for use.**
 > L6: will be added when the software is ready.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jgraving/selfsne 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 159 --> 161
+    line [160, 160]
+```
+
+2026-10-22 160 → 2026-10-23 160（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `ea265cd869ea` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@ Anthropic 维护的演示仓库，含 8 个基于 Claude Agent SDK 的示例：I
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-agent-sdk-demos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2781 --> 2786
-    line [2782, 2784, 2785]
+    title "anthropics/claude-agent-sdk-demos 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2781 --> 2788
+    line [2782, 2784, 2785, 2787]
 ```
 
-2026-10-18 2,782 → 2026-10-22 2,785（+3）
+2026-10-18 2,782 → 2026-10-23 2,787（+5）
 
 
 ---

@@ -46,12 +46,12 @@ Go 编写的命令行工具，为 AI 编程 agent（Claude Code、Codex、Gemini
 ```mermaid
 xychart-beta
     title "kstenerud/yoloai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 219 --> 221
     line [220, 220]
 ```
 
-2026-10-18 220 → 2026-10-22 220（+0）
+2026-10-18 220 → 2026-10-23 220（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Timber 读取 XGBoost、LightGBM、scikit-learn、CatBoost、ONNX 模型或 URDF
 ```mermaid
 xychart-beta
     title "kossisoroyce/timber 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 688 --> 690
     line [689, 689]
 ```
 
-2026-10-18 689 → 2026-10-22 689（+0）
+2026-10-18 689 → 2026-10-23 689（+0）
 
 
 ---

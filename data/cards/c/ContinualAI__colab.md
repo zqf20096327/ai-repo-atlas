@@ -44,12 +44,12 @@ ContinualAI 社区维护的 Google Colaboratory 教程仓库：收录持续学�
 ```mermaid
 xychart-beta
     title "ContinualAI/colab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 358 --> 360
-    line [359, 359]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 358 --> 361
+    line [359, 360]
 ```
 
-2026-10-18 359 → 2026-10-22 359（+0）
+2026-10-18 359 → 2026-10-23 360（+1）
 
 
 ---

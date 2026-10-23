@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SnowLeopard-Elysia/SnowLeopard-Vision 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 173 --> 185
-    line [174, 180, 184]
+    title "SnowLeopard-Elysia/SnowLeopard-Vision 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 173 --> 187
+    line [174, 180, 184, 186]
 ```
 
-2026-10-18 174 → 2026-10-22 184（+10）
+2026-10-18 174 → 2026-10-23 186（+12）
 
 
 ---

@@ -44,13 +44,13 @@ OpenCvSharp 是 OpenCV 的跨平台 .NET wrapper，API 设计贴近原生 OpenCV
 
 ```mermaid
 xychart-beta
-    title "shimat/opencvsharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 6112 --> 6115
-    line [6113, 6114]
+    title "shimat/opencvsharp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 6111 --> 6115
+    line [6113, 6114, 6112]
 ```
 
-2026-10-18 6,113 → 2026-10-22 6,114（+1）
+2026-10-18 6,113 → 2026-10-23 6,112（-1）
 
 
 ---

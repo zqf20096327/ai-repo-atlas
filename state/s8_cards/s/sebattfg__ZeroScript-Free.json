@@ -1,1 +1,81 @@
-{"fn": "sebattfg/ZeroScript-Free", "sha": "6fb7ae0db408", "source": "readme", "identity": {"one_liner": "把网页版 AI 聊天变成 Roblox Studio 代理的浏览器扩展", "review": "浏览器扩展加本地 Bridge 的组合：扩展注入 ChatGPT、DeepSeek、Gemini、Kimi、GLM、Qwen、Arena、Meta AI 八个网页聊天，把用户的自然语言请求转为命令，经本机 Bridge 驱动 Roblox Studio 内置 MCP 服务器，实现读写脚本、运行 Luau、检查游戏树、生成网格/材质/模型、控制试玩等。无需 API key 与终端，项目记忆可保存在 Place 内跨会话保留。支持 Windows/macOS，需 Edge/Chrome、Roblox Studio 与 Python 3.9+；各 AI 提供方行为有差异（如 Gemini/Kimi 不稳定，Arena 仅支持 Direct 模式），推荐 DeepSeek。", "highlights": ["浏览器扩展 + 本地 Bridge 驱动 Roblox Studio 内置 MCP 服务器", "支持 8 个网页版 AI 提供方，无需 API key", "读写脚本、运行 Luau、生成网格/材质/模型、控制试玩", "项目记忆保存在 Place 内，可跨会话保留"], "use_cases": ["在 AI 聊天页里直接让 AI 修改我的 Roblox 脚本", "用自然语言让 AI 在 Studio 里生成模型和材质", "不写代码、不开终端就用 AI 搭建 Roblox 游戏"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["浏览器扩展", "Roblox开发", "AI Agent", "MCP", "游戏开发自动化"], "domain": "游戏开发/浏览器工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: **ZeroScript** is a free browser extension that turns ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI into ", "L27: AI chat (ChatGPT / DeepSeek / Gemini / Kimi / GLM / Qwen / Arena / Meta AI, in your browser) -> ZeroScript Extension -> ", "L30: The extension runs inside the chat page (ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI). When you type a "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sebattfg/ZeroScript-Free",
+ "sha": "6fb7ae0db408",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把网页版 AI 聊天变成 Roblox Studio 代理的浏览器扩展",
+  "review": "浏览器扩展加本地 Bridge 的组合：扩展注入 ChatGPT、DeepSeek、Gemini、Kimi、GLM、Qwen、Arena、Meta AI 八个网页聊天，把用户的自然语言请求转为命令，经本机 Bridge 驱动 Roblox Studio 内置 MCP 服务器，实现读写脚本、运行 Luau、检查游戏树、生成网格/材质/模型、控制试玩等。无需 API key 与终端，项目记忆可保存在 Place 内跨会话保留。支持 Windows/macOS，需 Edge/Chrome、Roblox Studio 与 Python 3.9+；各 AI 提供方行为有差异（如 Gemini/Kimi 不稳定，Arena 仅支持 Direct 模式），推荐 DeepSeek。",
+  "highlights": [
+   "浏览器扩展 + 本地 Bridge 驱动 Roblox Studio 内置 MCP 服务器",
+   "支持 8 个网页版 AI 提供方，无需 API key",
+   "读写脚本、运行 Luau、生成网格/材质/模型、控制试玩",
+   "项目记忆保存在 Place 内，可跨会话保留"
+  ],
+  "use_cases": [
+   "在 AI 聊天页里直接让 AI 修改我的 Roblox 脚本",
+   "用自然语言让 AI 在 Studio 里生成模型和材质",
+   "不写代码、不开终端就用 AI 搭建 Roblox 游戏"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "Roblox开发",
+   "AI Agent",
+   "MCP",
+   "游戏开发自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **ZeroScript** is a free browser extension that turns ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI into ",
+   "L27: AI chat (ChatGPT / DeepSeek / Gemini / Kimi / GLM / Qwen / Arena / Meta AI, in your browser) -> ZeroScript Extension -> ",
+   "L30: The extension runs inside the chat page (ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI). When you type a "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

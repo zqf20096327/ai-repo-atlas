@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhaotututu/ComfyUI-TutuBanana 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "zhaotututu/ComfyUI-TutuBanana 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 145 --> 148
-    line [146, 147, 146]
+    line [146, 147, 146, 146]
 ```
 
-2026-10-18 146 → 2026-10-22 146（+0）
+2026-10-18 146 → 2026-10-23 146（+0）
 
 
 ---

@@ -47,12 +47,12 @@ Python 框架，通过直连 CDP（Chrome DevTools Protocol）与 CodeAgent 架�
 ```mermaid
 xychart-beta
     title "billy-enrizky/openbrowser-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 276 --> 278
-    line [277, 277]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 276 --> 280
+    line [277, 279]
 ```
 
-2026-10-18 277 → 2026-10-22 277（+0）
+2026-10-18 277 → 2026-10-23 279（+2）
 
 
 ---

@@ -44,13 +44,13 @@ DataWhale 出品的开源教程课程，分道篇（面向零基础爱好者与�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/easy-data-x-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "datawhalechina/easy-data-x-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 191 --> 195
-    line [192, 194]
+    line [192, 194, 194]
 ```
 
-2026-10-18 192 → 2026-10-22 194（+2）
+2026-10-18 192 → 2026-10-23 194（+2）
 
 
 ---

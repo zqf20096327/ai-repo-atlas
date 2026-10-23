@@ -46,13 +46,13 @@ HY3D-Bench 是腾讯混元发布的三个互补 3D 数据集合集：Full-level�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HY3D-Bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Tencent-Hunyuan/HY3D-Bench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 361 --> 364
-    line [362, 363]
+    line [362, 363, 363]
 ```
 
-2026-10-18 362 → 2026-10-22 363（+1）
+2026-10-18 362 → 2026-10-23 363（+1）
 
 
 ---

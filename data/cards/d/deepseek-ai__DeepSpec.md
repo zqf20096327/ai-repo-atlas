@@ -45,13 +45,13 @@ DeepSpec 提供推测解码（speculative decoding）中草稿模型（draft mod
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepSpec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 7221 --> 7239
-    line [7222, 7227, 7238]
+    title "deepseek-ai/DeepSpec 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 7220 --> 7245
+    line [7222, 7227, 7238, 7243]
 ```
 
-2026-10-18 7,222 → 2026-10-22 7,238（+16）
+2026-10-18 7,222 → 2026-10-23 7,243（+21）
 
 
 ---

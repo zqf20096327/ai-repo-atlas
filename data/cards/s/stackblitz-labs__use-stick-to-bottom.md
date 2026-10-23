@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stackblitz-labs/use-stick-to-bottom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 781 --> 784
-    line [782, 783]
+    title "stackblitz-labs/use-stick-to-bottom 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 781 --> 785
+    line [782, 783, 784]
 ```
 
-2026-10-18 782 → 2026-10-22 783（+1）
+2026-10-18 782 → 2026-10-23 784（+2）
 
 
 ---

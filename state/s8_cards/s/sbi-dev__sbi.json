@@ -1,1 +1,76 @@
-{"fn": "sbi-dev/sbi", "sha": "48699251abce", "source": "readme", "identity": {"one_liner": "Python 仿真推断库：用贝叶斯方法估计仿真器参数后验分布", "review": "面向研究者与从业者的 Python 仿真推断（SBI）包：给定仿真器与观测数据，基于机器学习估计参数的完整后验分布，量化不确定性与参数交互。实现 NPE/NLE/NRE/NVI/MNLE 等多类算法，分摊式方法可跨观测复用估计器，序列式方法优化仿真次数；提供低层与高层两种接口，并内置后验验证与可视化工具。需 Python 3.11+，GPU 非必需；Pyro/PyMC 采样器为可选安装。Apache-2.0 许可，NumFOCUS 附属项目。", "highlights": ["估计仿真器参数的完整后验分布并量化不确定性", "覆盖 NPE/NLE/NRE/NVI/MNLE 多类神经推断算法", "分摊式与序列式两类推断方法", "内置后验验证与绘图分析工具"], "use_cases": ["为科学仿真模型做贝叶斯参数估计", "在多个观测上复用已训练的后验估计器", "分析和可视化推断得到的后验分布"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.21105/joss.07754", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["贝叶斯推断", "参数估计", "科学计算", "机器学习", "PyTorch"], "domain": "科学计算/统计推断", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: `sbi` is a Python package for simulation-based inference, designed to meet the needs of", "L19: With `sbi`, you can perform parameter inference using Bayesian inference: Given a", "L20: simulator that models a real-world process, SBI estimates the full posterior"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sbi-dev/sbi",
+ "sha": "48699251abce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 仿真推断库：用贝叶斯方法估计仿真器参数后验分布",
+  "review": "面向研究者与从业者的 Python 仿真推断（SBI）包：给定仿真器与观测数据，基于机器学习估计参数的完整后验分布，量化不确定性与参数交互。实现 NPE/NLE/NRE/NVI/MNLE 等多类算法，分摊式方法可跨观测复用估计器，序列式方法优化仿真次数；提供低层与高层两种接口，并内置后验验证与可视化工具。需 Python 3.11+，GPU 非必需；Pyro/PyMC 采样器为可选安装。Apache-2.0 许可，NumFOCUS 附属项目。",
+  "highlights": [
+   "估计仿真器参数的完整后验分布并量化不确定性",
+   "覆盖 NPE/NLE/NRE/NVI/MNLE 多类神经推断算法",
+   "分摊式与序列式两类推断方法",
+   "内置后验验证与绘图分析工具"
+  ],
+  "use_cases": [
+   "为科学仿真模型做贝叶斯参数估计",
+   "在多个观测上复用已训练的后验估计器",
+   "分析和可视化推断得到的后验分布"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.21105/joss.07754",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "贝叶斯推断",
+   "参数估计",
+   "科学计算",
+   "机器学习",
+   "PyTorch"
+  ],
+  "domain": "科学计算/统计推断",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: `sbi` is a Python package for simulation-based inference, designed to meet the needs of",
+   "L19: With `sbi`, you can perform parameter inference using Bayesian inference: Given a",
+   "L20: simulator that models a real-world process, SBI estimates the full posterior"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

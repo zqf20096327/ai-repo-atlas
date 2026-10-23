@@ -40,6 +40,18 @@ Jentic 维护的公开 API 目录仓库：收录数千个 API 的机器可读 Op
 > L118: AI agents depend on APIs. Their capabilities are defined by the APIs they know about, and their reliability is def
 > L135: 1. Standardized OpenAPI specifications for public APIs
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jentic/jentic-public-apis 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 262 --> 264
+    line [263, 263]
+```
+
+2026-10-22 263 → 2026-10-23 263（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `83064ecc3f4c` · [字段定义](../../DATASET.md)*

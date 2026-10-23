@@ -1,1 +1,78 @@
-{"fn": "sgl-project/sgl-kernel-npu", "sha": "2ebed8e8d03e", "source": "readme", "identity": {"one_liner": "SGLang 框架面向昇腾 NPU 的推理算子库", "review": "SGLang 框架官方的 Ascend NPU 算子库，由 DeepEP-Ascend（MoE 专家并行的 all-to-all 通信算子，支持 Normal 与 Low-Latency 两种模式、INT8/FP8/BF16 量化）与 SGLang-Kernel-NPU（MLA/GQA 注意力、RMSNorm、SwiGLU、LoRA、投机解码树验证、Mamba Causal Conv1D、Paged KV Cache 等推理算子）两部分组成。面向在昇腾硬件上运行 LLM 推理的开发者，从源码构建（含 git submodule 初始化），CI 覆盖 CANN 9.0.0/9.1.0，CANN 8.5.0 兼容性已不再验证。", "highlights": ["DeepEP-Ascend 提供 MoE 专家并行 all-to-all 通信算子（Normal/Low-Latency 模式）", "覆盖 MLA/GQA 注意力、RMSNorm、SwiGLU、LoRA、投机解码等推理算子", "INT8/FP8/BF16 量化支持", "README 给出 A3 384 SuperPOD 上按 DeepSeek-V3/R1 设置的实测带宽与延迟数据"], "use_cases": ["在昇腾 NPU 上运行 SGLang LLM 推理", "为 MoE 模型部署专家并行通信算子", "昇腾平台 LLM 推理算子的开发与测试（可申请 HiDevLab 免费资源）"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM推理", "算子库", "昇腾NPU", "MoE/专家并行", "高性能计算"], "domain": "LLM 推理基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["华为昇腾（Ascend）生态适配", "sgl-project 组织仓库"]}, "trust": {"confidence": "high", "evidence": ["L5: **SGLang-Kernel-NPU** is the official kernel library of the SGLang framework for Ascend NPU. It delivers high-performanc", "L11: - **SGLang-Kernel-NPU**: A comprehensive collection of optimized inference kernels including attention mechanisms, norma"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sgl-project/sgl-kernel-npu",
+ "sha": "2ebed8e8d03e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "SGLang 框架面向昇腾 NPU 的推理算子库",
+  "review": "SGLang 框架官方的 Ascend NPU 算子库，由 DeepEP-Ascend（MoE 专家并行的 all-to-all 通信算子，支持 Normal 与 Low-Latency 两种模式、INT8/FP8/BF16 量化）与 SGLang-Kernel-NPU（MLA/GQA 注意力、RMSNorm、SwiGLU、LoRA、投机解码树验证、Mamba Causal Conv1D、Paged KV Cache 等推理算子）两部分组成。面向在昇腾硬件上运行 LLM 推理的开发者，从源码构建（含 git submodule 初始化），CI 覆盖 CANN 9.0.0/9.1.0，CANN 8.5.0 兼容性已不再验证。",
+  "highlights": [
+   "DeepEP-Ascend 提供 MoE 专家并行 all-to-all 通信算子（Normal/Low-Latency 模式）",
+   "覆盖 MLA/GQA 注意力、RMSNorm、SwiGLU、LoRA、投机解码等推理算子",
+   "INT8/FP8/BF16 量化支持",
+   "README 给出 A3 384 SuperPOD 上按 DeepSeek-V3/R1 设置的实测带宽与延迟数据"
+  ],
+  "use_cases": [
+   "在昇腾 NPU 上运行 SGLang LLM 推理",
+   "为 MoE 模型部署专家并行通信算子",
+   "昇腾平台 LLM 推理算子的开发与测试（可申请 HiDevLab 免费资源）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理",
+   "算子库",
+   "昇腾NPU",
+   "MoE/专家并行",
+   "高性能计算"
+  ],
+  "domain": "LLM 推理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "华为昇腾（Ascend）生态适配",
+   "sgl-project 组织仓库"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **SGLang-Kernel-NPU** is the official kernel library of the SGLang framework for Ascend NPU. It delivers high-performanc",
+   "L11: - **SGLang-Kernel-NPU**: A comprehensive collection of optimized inference kernels including attention mechanisms, norma"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

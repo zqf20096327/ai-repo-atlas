@@ -46,12 +46,12 @@ axoned 是 AXONE 网络（dPoS layer 1）的节点软件，基于 Cosmos SDK 与
 ```mermaid
 xychart-beta
     title "axone-protocol/axoned 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 176 --> 178
     line [177, 177]
 ```
 
-2026-10-18 177 → 2026-10-22 177（+0）
+2026-10-18 177 → 2026-10-23 177（+0）
 
 
 ---

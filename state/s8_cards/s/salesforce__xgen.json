@@ -1,1 +1,75 @@
-{"fn": "salesforce/xgen", "sha": "c27676c83424", "source": "readme", "identity": {"one_liner": "Salesforce 开源的 7B 长序列 LLM 系列模型（4K/8K 上下文）", "review": "Salesforce AI Research 发布的 XGen 模型族（7B 参数）官方研究版本，配套论文《Long Sequence Modeling with XGen: A 7B LLM Trained on 8K Input Sequence Length》。提供三个变体：4K 序列长度的基础版、8K 基础版和 8K 指令微调版，模型卡片发布于 HuggingFace Hub。分词使用 OpenAI Tiktoken 包，可通过 transformers 的 AutoModelForCausalLM 加载并作为自回归采样器使用。声明仅供研究用途，未针对下游任务做安全性与公平性评估。", "highlights": ["7B 参数、最长 8K 输入序列长度的模型族", "三个变体：4K-Base、8K-Base、8K 指令微调版", "模型权重发布于 HuggingFace Hub，transformers 可直接加载", "使用 OpenAI Tiktoken 进行分词"], "use_cases": ["研究长上下文（8K）语言建模能力", "需要开源 7B 基座或指令模型的实验", "学术论文复现与引用"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["大语言模型", "长上下文", "开源权重", "NLP"], "domain": "自然语言处理/大语言模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Official research release for the family of **XGen** models (`7B`) by Salesforce AI Research:", "L5: *Title*: Long Sequence Modeling with XGen: A 7B LLM Trained on 8K Input Sequence Length", "L17: * XGen-7B-4K-Base with support for 4K sequence length."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "salesforce/xgen",
+ "sha": "c27676c83424",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Salesforce 开源的 7B 长序列 LLM 系列模型（4K/8K 上下文）",
+  "review": "Salesforce AI Research 发布的 XGen 模型族（7B 参数）官方研究版本，配套论文《Long Sequence Modeling with XGen: A 7B LLM Trained on 8K Input Sequence Length》。提供三个变体：4K 序列长度的基础版、8K 基础版和 8K 指令微调版，模型卡片发布于 HuggingFace Hub。分词使用 OpenAI Tiktoken 包，可通过 transformers 的 AutoModelForCausalLM 加载并作为自回归采样器使用。声明仅供研究用途，未针对下游任务做安全性与公平性评估。",
+  "highlights": [
+   "7B 参数、最长 8K 输入序列长度的模型族",
+   "三个变体：4K-Base、8K-Base、8K 指令微调版",
+   "模型权重发布于 HuggingFace Hub，transformers 可直接加载",
+   "使用 OpenAI Tiktoken 进行分词"
+  ],
+  "use_cases": [
+   "研究长上下文（8K）语言建模能力",
+   "需要开源 7B 基座或指令模型的实验",
+   "学术论文复现与引用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "大语言模型",
+   "长上下文",
+   "开源权重",
+   "NLP"
+  ],
+  "domain": "自然语言处理/大语言模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Official research release for the family of **XGen** models (`7B`) by Salesforce AI Research:",
+   "L5: *Title*: Long Sequence Modeling with XGen: A 7B LLM Trained on 8K Input Sequence Length",
+   "L17: * XGen-7B-4K-Base with support for 4K sequence length."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -44,13 +44,13 @@ Hugging Face LeRobot 团队维护的 Web 应用，把机械臂机器人学习全
 
 ```mermaid
 xychart-beta
-    title "huggingface/leLab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "huggingface/leLab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 196 --> 199
-    line [197, 198]
+    line [197, 198, 198]
 ```
 
-2026-10-18 197 → 2026-10-22 198（+1）
+2026-10-18 197 → 2026-10-23 198（+1）
 
 
 ---

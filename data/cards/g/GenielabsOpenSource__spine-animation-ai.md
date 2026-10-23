@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GenielabsOpenSource/spine-animation-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 537 --> 565
-    line [539, 551, 563]
+    title "GenielabsOpenSource/spine-animation-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 536 --> 575
+    line [539, 551, 563, 572]
 ```
 
-2026-10-18 539 → 2026-10-22 563（+24）
+2026-10-18 539 → 2026-10-23 572（+33）
 
 
 ---

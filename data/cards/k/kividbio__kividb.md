@@ -45,13 +45,13 @@ KiviDB 是以 Rust 实现的内存键值数据库，实现 Redis 协议（RESP2/
 
 ```mermaid
 xychart-beta
-    title "kividbio/kividb 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-22"]
-    y-axis "stars" 227 --> 377
-    line [239, 365]
+    title "kividbio/kividb 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 219 --> 467
+    line [239, 365, 447]
 ```
 
-2026-10-19 239 → 2026-10-22 365（+126）
+2026-10-19 239 → 2026-10-23 447（+208）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashishps1/awesome-engineering-articles 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1460 --> 1468
-    line [1461, 1464, 1467]
+    title "ashishps1/awesome-engineering-articles 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1460 --> 1469
+    line [1461, 1464, 1467, 1468]
 ```
 
-2026-10-18 1,461 → 2026-10-22 1,467（+6）
+2026-10-18 1,461 → 2026-10-23 1,468（+7）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Akun-python/autumn-recruitment 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 262 --> 280
-    line [263, 273, 279]
+    title "Akun-python/autumn-recruitment 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 262 --> 283
+    line [263, 273, 279, 282]
 ```
 
-2026-10-18 263 → 2026-10-22 279（+16）
+2026-10-18 263 → 2026-10-23 282（+19）
 
 
 ---

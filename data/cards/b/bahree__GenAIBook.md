@@ -45,12 +45,12 @@ Manning 出版书籍 Generative AI in Action 的官方代码仓库：按章节�
 ```mermaid
 xychart-beta
     title "bahree/GenAIBook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 144 --> 146
     line [145, 145]
 ```
 
-2026-10-18 145 → 2026-10-22 145（+0）
+2026-10-18 145 → 2026-10-23 145（+0）
 
 
 ---

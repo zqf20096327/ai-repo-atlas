@@ -44,13 +44,13 @@ FermiNet 的 JAX 实现，通过变分蒙特卡洛方法学习原子与分子的
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/ferminet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "google-deepmind/ferminet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 853 --> 856
-    line [854, 855]
+    line [854, 855, 855]
 ```
 
-2026-10-18 854 → 2026-10-22 855（+1）
+2026-10-18 854 → 2026-10-23 855（+1）
 
 
 ---

@@ -45,13 +45,13 @@ ECCV 2024 Oral 论文 Generative Camera Dolly 的官方 Python 实现：基于 S
 
 ```mermaid
 xychart-beta
-    title "basilevh/gcd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "basilevh/gcd 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 293 --> 296
-    line [294, 295]
+    line [294, 295, 295]
 ```
 
-2026-10-18 294 → 2026-10-22 295（+1）
+2026-10-18 294 → 2026-10-23 295（+1）
 
 
 ---

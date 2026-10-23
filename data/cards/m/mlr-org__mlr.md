@@ -40,6 +40,18 @@
 > L68: {mlr} provides this infrastructure so that you can focus on your experiments!
 > L69: The framework provides supervised methods like classification, regression and survival analysis along with their co
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mlr-org/mlr 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 1685 --> 1687
+    line [1686, 1686]
+```
+
+2026-10-22 1,686 → 2026-10-23 1,686（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8fb9d6886ad9` · [字段定义](../../DATASET.md)*

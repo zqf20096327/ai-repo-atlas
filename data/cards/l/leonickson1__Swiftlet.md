@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leonickson1/Swiftlet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 658 --> 662
-    line [659, 661]
+    title "leonickson1/Swiftlet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 658 --> 663
+    line [659, 661, 662]
 ```
 
-2026-10-18 659 → 2026-10-22 661（+2）
+2026-10-18 659 → 2026-10-23 662（+3）
 
 
 ---

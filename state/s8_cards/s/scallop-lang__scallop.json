@@ -1,1 +1,76 @@
-{"fn": "scallop-lang/scallop", "sha": "aec6aceadd49", "source": "readme", "identity": {"one_liner": "面向神经符号编程的 DataLog 语言与框架，支持可微推理", "review": "基于 DataLog 的语言与配套框架，构建于广义 Provenance Semiring 之上，可配置任意半环，从而执行离散逻辑推理、概率推理与可微推理。程序可通过 scallopy Python 绑定使用，并能与 PyTorch 学习模块集成（如 MNIST 求和任务），也可单独作为 DataLog 求解器。提供解释器 scli、编译器 sclc 与 REPL 三个二进制，从 Rust nightly 源码构建；语言特性含概率事实/规则、分层否定、聚合（count/min/max/sum/prod）、静态类型推断与 CSV 输入加载。", "highlights": ["广义 Provenance Semiring 框架，支持离散/概率/可微三种推理", "scallopy Python 绑定可与 PyTorch 模块无缝集成", "提供 scli 解释器、sclc 编译器与 sclrepl 交互式 REPL", "语言支持概率事实与规则、分层否定、聚合与 argmax/argmin、类型推断及 CSV 输入"], "use_cases": ["在 PyTorch 训练管线中嵌入可微逻辑/关系推理层", "编写概率 DataLog 程序做概率推理查询", "作为通用 DataLog 求解器做符号推理实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["神经符号编程", "可微推理", "逻辑编程", "知识推理", "机器学习框架"], "domain": "神经符号计算/编程语言", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L6: Scallop is a language based on DataLog that supports differentiable logical and relational reasoning.", "L7: Scallop program can be easily integrated in Python and even with a PyTorch learning module. You can also use it as anoth", "L107: In addition, `scallopy` can be seamlessly integrated with PyTorch."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "scallop-lang/scallop",
+ "sha": "aec6aceadd49",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向神经符号编程的 DataLog 语言与框架，支持可微推理",
+  "review": "基于 DataLog 的语言与配套框架，构建于广义 Provenance Semiring 之上，可配置任意半环，从而执行离散逻辑推理、概率推理与可微推理。程序可通过 scallopy Python 绑定使用，并能与 PyTorch 学习模块集成（如 MNIST 求和任务），也可单独作为 DataLog 求解器。提供解释器 scli、编译器 sclc 与 REPL 三个二进制，从 Rust nightly 源码构建；语言特性含概率事实/规则、分层否定、聚合（count/min/max/sum/prod）、静态类型推断与 CSV 输入加载。",
+  "highlights": [
+   "广义 Provenance Semiring 框架，支持离散/概率/可微三种推理",
+   "scallopy Python 绑定可与 PyTorch 模块无缝集成",
+   "提供 scli 解释器、sclc 编译器与 sclrepl 交互式 REPL",
+   "语言支持概率事实与规则、分层否定、聚合与 argmax/argmin、类型推断及 CSV 输入"
+  ],
+  "use_cases": [
+   "在 PyTorch 训练管线中嵌入可微逻辑/关系推理层",
+   "编写概率 DataLog 程序做概率推理查询",
+   "作为通用 DataLog 求解器做符号推理实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经符号编程",
+   "可微推理",
+   "逻辑编程",
+   "知识推理",
+   "机器学习框架"
+  ],
+  "domain": "神经符号计算/编程语言",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: Scallop is a language based on DataLog that supports differentiable logical and relational reasoning.",
+   "L7: Scallop program can be easily integrated in Python and even with a PyTorch learning module. You can also use it as anoth",
+   "L107: In addition, `scallopy` can be seamlessly integrated with PyTorch."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

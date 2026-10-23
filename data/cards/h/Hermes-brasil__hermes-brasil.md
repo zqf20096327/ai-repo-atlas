@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hermes-brasil/hermes-brasil 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Hermes-brasil/hermes-brasil 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 152 --> 155
-    line [153, 154]
+    line [153, 154, 154]
 ```
 
-2026-10-18 153 → 2026-10-22 154（+1）
+2026-10-18 153 → 2026-10-23 154（+1）
 
 
 ---

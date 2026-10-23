@@ -46,12 +46,12 @@ Tracebit 发布的 context bomb 字符串资源库：将此类字符串部署为
 ```mermaid
 xychart-beta
     title "tracebit-com/context-bombs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 141 --> 143
-    line [142, 142]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 141 --> 145
+    line [142, 144]
 ```
 
-2026-10-18 142 → 2026-10-22 142（+0）
+2026-10-18 142 → 2026-10-23 144（+2）
 
 
 ---

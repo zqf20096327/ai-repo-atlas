@@ -44,13 +44,13 @@ AWS 维护的预构建 Docker 镜像仓库，覆盖 PyTorch、TensorFlow、vLLM�
 
 ```mermaid
 xychart-beta
-    title "aws/deep-learning-containers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "aws/deep-learning-containers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1195 --> 1200
-    line [1196, 1198, 1199]
+    line [1196, 1198, 1199, 1199]
 ```
 
-2026-10-18 1,196 → 2026-10-22 1,199（+3）
+2026-10-18 1,196 → 2026-10-23 1,199（+3）
 
 
 ---

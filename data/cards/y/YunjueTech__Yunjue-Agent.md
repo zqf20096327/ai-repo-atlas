@@ -45,13 +45,13 @@ Yunjue Technology 开源的 In-Situ Self-Evolving agent 系统官方实现，面
 
 ```mermaid
 xychart-beta
-    title "YunjueTech/Yunjue-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "YunjueTech/Yunjue-Agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 536 --> 542
-    line [537, 539, 541]
+    line [537, 539, 541, 541]
 ```
 
-2026-10-18 537 → 2026-10-22 541（+4）
+2026-10-18 537 → 2026-10-23 541（+4）
 
 
 ---

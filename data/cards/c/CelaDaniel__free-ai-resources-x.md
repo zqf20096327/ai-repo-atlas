@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CelaDaniel/free-ai-resources-x 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 937 --> 944
-    line [938, 942, 943]
+    title "CelaDaniel/free-ai-resources-x 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 937 --> 947
+    line [938, 942, 943, 946]
 ```
 
-2026-10-18 938 → 2026-10-22 943（+5）
+2026-10-18 938 → 2026-10-23 946（+8）
 
 
 ---

@@ -44,13 +44,13 @@ LangChain 团队以 TypeScript 发布的 agent harness：内置规划（write_to
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/deepagentsjs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "langchain-ai/deepagentsjs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1608 --> 1617
-    line [1609, 1610, 1616]
+    line [1609, 1610, 1616, 1616]
 ```
 
-2026-10-18 1,609 → 2026-10-22 1,616（+7）
+2026-10-18 1,609 → 2026-10-23 1,616（+7）
 
 
 ---

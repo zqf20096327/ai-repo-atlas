@@ -45,13 +45,13 @@ Microsoft 维护的 agent 技能插件，将 Dataverse MCP 服务器、Dataverse
 
 ```mermaid
 xychart-beta
-    title "microsoft/Dataverse-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "microsoft/Dataverse-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 245 --> 248
-    line [246, 247]
+    line [246, 247, 247]
 ```
 
-2026-10-18 246 → 2026-10-22 247（+1）
+2026-10-18 246 → 2026-10-23 247（+1）
 
 
 ---

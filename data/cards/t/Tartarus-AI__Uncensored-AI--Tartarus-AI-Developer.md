@@ -45,12 +45,12 @@ TartarusAI 提供名为 tartarusai-cli 的终端客户端，连接其无内容�
 ```mermaid
 xychart-beta
     title "Tartarus-AI/Uncensored-AI--Tartarus-AI-Developer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 163 --> 165
-    line [164, 164]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 151 --> 165
+    line [164, 152]
 ```
 
-2026-10-18 164 → 2026-10-22 164（+0）
+2026-10-18 164 → 2026-10-23 152（-12）
 
 
 ---

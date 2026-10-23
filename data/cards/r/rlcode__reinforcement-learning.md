@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rlcode/reinforcement-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "rlcode/reinforcement-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3673 --> 3677
-    line [3674, 3676]
+    line [3674, 3676, 3676]
 ```
 
-2026-10-18 3,674 → 2026-10-22 3,676（+2）
+2026-10-18 3,674 → 2026-10-23 3,676（+2）
 
 
 ---

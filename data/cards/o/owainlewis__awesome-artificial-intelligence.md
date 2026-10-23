@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "owainlewis/awesome-artificial-intelligence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 16680 --> 16708
-    line [16682, 16698, 16706]
+    title "owainlewis/awesome-artificial-intelligence 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 16680 --> 16711
+    line [16682, 16698, 16706, 16709]
 ```
 
-2026-10-18 16,682 → 2026-10-22 16,706（+24）
+2026-10-18 16,682 → 2026-10-23 16,709（+27）
 
 
 ---

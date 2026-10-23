@@ -44,13 +44,13 @@ Python 命令行工具，通过基于 AST 的静态解析从 LangGraph、AutoGen
 
 ```mermaid
 xychart-beta
-    title "Repello-AI/Agent-Wiz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Repello-AI/Agent-Wiz 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 392 --> 395
-    line [393, 394]
+    line [393, 394, 394]
 ```
 
-2026-10-18 393 → 2026-10-22 394（+1）
+2026-10-18 393 → 2026-10-23 394（+1）
 
 
 ---

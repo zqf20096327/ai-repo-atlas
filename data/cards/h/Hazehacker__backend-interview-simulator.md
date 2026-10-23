@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazehacker/backend-interview-simulator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 221 --> 226
-    line [222, 223, 225]
+    title "Hazehacker/backend-interview-simulator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 221 --> 229
+    line [222, 223, 225, 228]
 ```
 
-2026-10-18 222 → 2026-10-22 225（+3）
+2026-10-18 222 → 2026-10-23 228（+6）
 
 
 ---

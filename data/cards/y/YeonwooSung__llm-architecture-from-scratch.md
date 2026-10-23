@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YeonwooSung/llm-architecture-from-scratch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "YeonwooSung/llm-architecture-from-scratch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 924 --> 1134
-    line [941, 1055, 1117]
+    line [941, 1055, 1117, 1115]
 ```
 
-2026-10-18 941 → 2026-10-22 1,117（+176）
+2026-10-18 941 → 2026-10-23 1,115（+174）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fugazi/test-automation-skills-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "fugazi/test-automation-skills-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 251 --> 254
-    line [252, 253]
+    line [252, 253, 252]
 ```
 
-2026-10-18 252 → 2026-10-22 253（+1）
+2026-10-18 252 → 2026-10-23 252（+0）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "amrzv/awesome-colab-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "amrzv/awesome-colab-notebooks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1663 --> 1666
-    line [1664, 1665]
+    line [1664, 1665, 1665]
 ```
 
-2026-10-18 1,664 → 2026-10-22 1,665（+1）
+2026-10-18 1,664 → 2026-10-23 1,665（+1）
 
 
 ---

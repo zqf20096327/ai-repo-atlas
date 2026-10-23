@@ -34,7 +34,7 @@ LightAutoML (LAMA) 是用 Python 编写的 AutoML 框架，支持表格、时间
 
 ## 场景标签
 
- · 领域:机器学习/AutoML
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -46,12 +46,12 @@ LightAutoML (LAMA) 是用 Python 编写的 AutoML 框架，支持表格、时间
 ```mermaid
 xychart-beta
     title "sb-ai-lab/LightAutoML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1482 --> 1484
-    line [1483, 1483]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1482 --> 1485
+    line [1483, 1484]
 ```
 
-2026-10-18 1,483 → 2026-10-22 1,483（+0）
+2026-10-18 1,483 → 2026-10-23 1,484（+1）
 
 
 ---

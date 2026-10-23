@@ -44,13 +44,13 @@ BaseAI 是 TypeScript-first 的 AI 框架，用于在本地构建带工具与记
 
 ```mermaid
 xychart-beta
-    title "CommandCodeAI/BaseAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1285 --> 1289
-    line [1286, 1288]
+    title "CommandCodeAI/BaseAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1285 --> 1291
+    line [1286, 1288, 1290]
 ```
 
-2026-10-18 1,286 → 2026-10-22 1,288（+2）
+2026-10-18 1,286 → 2026-10-23 1,290（+4）
 
 
 ---

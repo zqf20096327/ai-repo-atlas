@@ -40,6 +40,18 @@
 > L3: A lightweight but powerful AI Agent framework in Python.
 > L68: FastClaw is built on the core concept of **event-driven agent orchestration**. Key design principles:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kandada/fastclaw 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 168 --> 170
+    line [169, 169]
+```
+
+2026-10-22 169 → 2026-10-23 169（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `dd0bc5ca2908` · [字段定义](../../DATASET.md)*

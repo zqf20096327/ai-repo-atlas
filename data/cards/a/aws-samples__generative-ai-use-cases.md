@@ -46,13 +46,13 @@ AWS 官方 samples 出品的生成式 AI 业务应用（GenU）：以 Web 应用
 
 ```mermaid
 xychart-beta
-    title "aws-samples/generative-ai-use-cases 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "aws-samples/generative-ai-use-cases 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1389 --> 1392
-    line [1390, 1391]
+    line [1390, 1391, 1391]
 ```
 
-2026-10-18 1,390 → 2026-10-22 1,391（+1）
+2026-10-18 1,390 → 2026-10-23 1,391（+1）
 
 
 ---

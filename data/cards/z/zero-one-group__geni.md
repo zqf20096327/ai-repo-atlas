@@ -46,12 +46,12 @@ Geni 是运行于 Apache Spark 之上的 Clojure 数据帧库，用 Clojure 的 
 ```mermaid
 xychart-beta
     title "zero-one-group/geni 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 295 --> 297
     line [296, 296]
 ```
 
-2026-10-18 296 → 2026-10-22 296（+0）
+2026-10-18 296 → 2026-10-23 296（+0）
 
 
 ---

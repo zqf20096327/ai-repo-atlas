@@ -45,13 +45,13 @@ HuggingFace 团队维护的 SmolLM 与 SmolVLM 模型家族仓库：SmolLM3 为 
 
 ```mermaid
 xychart-beta
-    title "huggingface/smollm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3925 --> 3931
-    line [3926, 3927, 3930]
+    title "huggingface/smollm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3925 --> 3932
+    line [3926, 3927, 3930, 3931]
 ```
 
-2026-10-18 3,926 → 2026-10-22 3,930（+4）
+2026-10-18 3,926 → 2026-10-23 3,931（+5）
 
 
 ---

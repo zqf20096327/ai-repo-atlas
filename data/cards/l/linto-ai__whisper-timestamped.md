@@ -46,13 +46,13 @@ openai-whisper 的 Python 包扩展，通过在交叉注意力权重上应用 Dy
 
 ```mermaid
 xychart-beta
-    title "linto-ai/whisper-timestamped 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "linto-ai/whisper-timestamped 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2854 --> 2857
-    line [2855, 2856]
+    line [2855, 2856, 2856]
 ```
 
-2026-10-18 2,855 → 2026-10-22 2,856（+1）
+2026-10-18 2,855 → 2026-10-23 2,856（+1）
 
 
 ---

@@ -47,13 +47,13 @@ Bag of Words 将 LLM 连接到数据库、数仓、BI 系统、业务应用、�
 
 ```mermaid
 xychart-beta
-    title "bagofwords1/bagofwords 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 460 --> 463
-    line [461, 462]
+    title "bagofwords1/bagofwords 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 460 --> 464
+    line [461, 462, 463]
 ```
 
-2026-10-18 461 → 2026-10-22 462（+1）
+2026-10-18 461 → 2026-10-23 463（+2）
 
 
 ---

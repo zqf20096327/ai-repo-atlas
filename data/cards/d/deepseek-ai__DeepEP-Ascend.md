@@ -44,13 +44,13 @@ DeepSeek 发布的面向昇腾 NPU 的机器学习训练/推理通信库：提�
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepEP-Ascend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 259 --> 266
-    line [260, 265]
+    title "deepseek-ai/DeepEP-Ascend 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 259 --> 270
+    line [260, 265, 269]
 ```
 
-2026-10-18 260 → 2026-10-22 265（+5）
+2026-10-18 260 → 2026-10-23 269（+9）
 
 
 ---

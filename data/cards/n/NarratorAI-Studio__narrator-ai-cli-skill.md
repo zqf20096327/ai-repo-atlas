@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NarratorAI-Studio/narrator-ai-cli-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 3050 --> 3054
-    line [3051, 3053]
+    title "NarratorAI-Studio/narrator-ai-cli-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3050 --> 3066
+    line [3051, 3053, 3065]
 ```
 
-2026-10-18 3,051 → 2026-10-22 3,053（+2）
+2026-10-18 3,051 → 2026-10-23 3,065（+14）
 
 
 ---

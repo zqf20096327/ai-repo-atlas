@@ -46,13 +46,13 @@ Google DeepMind 的 Tracking Any Point 官方仓库，包含 TAPIR、BootsTAPIR�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/tapnet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2223 --> 2231
-    line [2224, 2226, 2230]
+    title "google-deepmind/tapnet 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2223 --> 2232
+    line [2224, 2226, 2230, 2231]
 ```
 
-2026-10-18 2,224 → 2026-10-22 2,230（+6）
+2026-10-18 2,224 → 2026-10-23 2,231（+7）
 
 
 ---

@@ -45,12 +45,12 @@ TypeScript 实现的个人 AI agent：think/act/observe 循环中每次 LLM 调�
 ```mermaid
 xychart-beta
     title "inngest/utah 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 136 --> 138
     line [137, 137]
 ```
 
-2026-10-18 137 → 2026-10-22 137（+0）
+2026-10-18 137 → 2026-10-23 137（+0）
 
 
 ---

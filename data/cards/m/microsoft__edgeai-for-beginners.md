@@ -44,13 +44,13 @@ Microsoft 维护的 Edge AI 入门课程仓库：以 9 个模块（共约 36-45 
 
 ```mermaid
 xychart-beta
-    title "microsoft/edgeai-for-beginners 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1749 --> 1755
-    line [1750, 1752, 1754]
+    title "microsoft/edgeai-for-beginners 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1749 --> 1757
+    line [1750, 1752, 1754, 1756]
 ```
 
-2026-10-18 1,750 → 2026-10-22 1,754（+4）
+2026-10-18 1,750 → 2026-10-23 1,756（+6）
 
 
 ---

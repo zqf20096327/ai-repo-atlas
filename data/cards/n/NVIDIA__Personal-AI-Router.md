@@ -45,13 +45,13 @@ NVIDIA Personal AI Router (PAIR) 是面向同一局域网内多台兼容电脑�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/Personal-AI-Router 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1630 --> 1648
-    line [1631, 1639, 1647]
+    title "NVIDIA/Personal-AI-Router 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1629 --> 1655
+    line [1631, 1639, 1647, 1653]
 ```
 
-2026-10-18 1,631 → 2026-10-22 1,647（+16）
+2026-10-18 1,631 → 2026-10-23 1,653（+22）
 
 
 ---

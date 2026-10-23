@@ -45,13 +45,13 @@ GitHub 官方发布的 Copilot 语言服务器，以 npm 包与平台专属二�
 
 ```mermaid
 xychart-beta
-    title "github/copilot-language-server-release 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "github/copilot-language-server-release 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 290 --> 293
-    line [291, 292]
+    line [291, 292, 292]
 ```
 
-2026-10-18 291 → 2026-10-22 292（+1）
+2026-10-18 291 → 2026-10-23 292（+1）
 
 
 ---

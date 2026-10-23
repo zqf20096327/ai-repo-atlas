@@ -45,12 +45,12 @@ DeepMind JAX 生态下的概率分布与 bijector（可逆变换）轻量库，�
 ```mermaid
 xychart-beta
     title "google-deepmind/distrax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 656 --> 658
     line [657, 657]
 ```
 
-2026-10-18 657 → 2026-10-22 657（+0）
+2026-10-18 657 → 2026-10-23 657（+0）
 
 
 ---

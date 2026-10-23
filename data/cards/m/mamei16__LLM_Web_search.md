@@ -45,12 +45,12 @@ oobabooga/text-generation-webui 的扩展：让本地 LLM 通过原生工具调�
 ```mermaid
 xychart-beta
     title "mamei16/LLM_Web_search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 283 --> 285
     line [284, 284]
 ```
 
-2026-10-18 284 → 2026-10-22 284（+0）
+2026-10-18 284 → 2026-10-23 284（+0）
 
 
 ---

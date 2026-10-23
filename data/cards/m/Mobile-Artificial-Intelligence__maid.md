@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mobile-Artificial-Intelligence/maid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2726 --> 2734
-    line [2727, 2729, 2733]
+    title "Mobile-Artificial-Intelligence/maid 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2726 --> 2735
+    line [2727, 2729, 2733, 2734]
 ```
 
-2026-10-18 2,727 → 2026-10-22 2,733（+6）
+2026-10-18 2,727 → 2026-10-23 2,734（+7）
 
 
 ---

@@ -44,13 +44,13 @@ Nuwax Agent OS 是私有化部署的 Agentic AI 平台，覆盖 agent 创建与�
 
 ```mermaid
 xychart-beta
-    title "nuwax-ai/nuwax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "nuwax-ai/nuwax 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 893 --> 896
-    line [894, 895]
+    line [894, 895, 895]
 ```
 
-2026-10-18 894 → 2026-10-22 895（+1）
+2026-10-18 894 → 2026-10-23 895（+1）
 
 
 ---

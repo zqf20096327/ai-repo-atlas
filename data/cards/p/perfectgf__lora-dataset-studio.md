@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "perfectgf/lora-dataset-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 309 --> 314
-    line [310, 312, 313]
+    title "perfectgf/lora-dataset-studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 309 --> 316
+    line [310, 312, 313, 315]
 ```
 
-2026-10-18 310 → 2026-10-22 313（+3）
+2026-10-18 310 → 2026-10-23 315（+5）
 
 
 ---

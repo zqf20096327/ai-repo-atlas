@@ -44,13 +44,13 @@ Rust 编写的 MCP server + CLI，让 AI agent 通过 AT-SPI 语义无障碍树�
 
 ```mermaid
 xychart-beta
-    title "agent-sh/computer-use-linux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 702 --> 726
-    line [704, 713, 724]
+    title "agent-sh/computer-use-linux 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 702 --> 729
+    line [704, 713, 724, 727]
 ```
 
-2026-10-18 704 → 2026-10-22 724（+20）
+2026-10-18 704 → 2026-10-23 727（+23）
 
 
 ---

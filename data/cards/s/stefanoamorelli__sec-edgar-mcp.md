@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stefanoamorelli/sec-edgar-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "stefanoamorelli/sec-edgar-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 372 --> 375
-    line [373, 374]
+    line [373, 374, 374]
 ```
 
-2026-10-18 373 → 2026-10-22 374（+1）
+2026-10-18 373 → 2026-10-23 374（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmenta
 ```mermaid
 xychart-beta
     title "drprojects/DeepViewAgg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 236 --> 238
     line [237, 237]
 ```
 
-2026-10-18 237 → 2026-10-22 237（+0）
+2026-10-18 237 → 2026-10-23 237（+0）
 
 
 ---

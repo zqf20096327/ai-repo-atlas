@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iBlinkQ/project-cairn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 240 --> 244
-    line [241, 243]
+    title "iBlinkQ/project-cairn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 240 --> 245
+    line [241, 243, 244]
 ```
 
-2026-10-18 241 → 2026-10-22 243（+2）
+2026-10-18 241 → 2026-10-23 244（+3）
 
 
 ---

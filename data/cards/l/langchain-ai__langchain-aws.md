@@ -45,12 +45,12 @@ LangChain 官方团队维护的 monorepo，发布三个 PyPI 包：langchain-aws
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-aws 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 351 --> 353
     line [352, 352]
 ```
 
-2026-10-18 352 → 2026-10-22 352（+0）
+2026-10-18 352 → 2026-10-23 352（+0）
 
 
 ---

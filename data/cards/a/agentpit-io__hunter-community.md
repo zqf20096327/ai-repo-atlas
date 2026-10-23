@@ -45,13 +45,13 @@ HunterCode 社区版是 Docker Compose 自托管的金融 AI 投研终端，自�
 
 ```mermaid
 xychart-beta
-    title "agentpit-io/hunter-community 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 584 --> 589
-    line [585, 587, 588]
+    title "agentpit-io/hunter-community 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 566 --> 590
+    line [585, 587, 588, 568]
 ```
 
-2026-10-18 585 → 2026-10-22 588（+3）
+2026-10-18 585 → 2026-10-23 568（-17）
 
 
 ---

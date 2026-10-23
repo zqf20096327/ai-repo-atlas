@@ -44,13 +44,13 @@ NVIDIA Cloud Functions（NVCF）是自管理的 GPU 工作负载平台：控制�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/nvcf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 238 --> 244
-    line [239, 243]
+    title "NVIDIA/nvcf 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 238 --> 247
+    line [239, 243, 246]
 ```
 
-2026-10-18 239 → 2026-10-22 243（+4）
+2026-10-18 239 → 2026-10-23 246（+7）
 
 
 ---

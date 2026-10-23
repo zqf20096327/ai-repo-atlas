@@ -1,1 +1,77 @@
-{"fn": "sapientorius/Nebulynk", "sha": "c641c0301ffc", "source": "readme", "identity": {"one_liner": "自托管团队协作平台：聊天、会议与可选 AI 辅助", "review": "面向团队的自托管协作产品，整合频道聊天、语音视频会议、屏幕共享、文件、搜索、提醒与通知，以及基于 BYOK（自带 API key）的可选 AI 功能：转写、会议摘要、可检索的后续事项与过往会议的上下文问答。自带 Docker 部署资源，支持 Coolify/Dokploy/Plesk 等部署方式。采用 BSL 1.1 源码可用许可（非开源许可），免费生产使用受许可条件限制；技术栈为 FeathersJS、Vue.js、LiveKit、PostgreSQL、Redis。", "highlights": ["聊天、语音视频会议、屏幕共享、文件与搜索整合于同一工作区", "BYOK 模式的可选 AI 功能：转写、会议摘要、后续事项检索", "角色权限、访客访问、passkey 与双因素认证", "提供 Docker 部署资源与 GHCR 镜像"], "use_cases": ["团队在自有基础设施上运行聊天与会议平台", "用自带 key 的 AI 生成会议摘要与可检索的后续事项", "需要数据与 AI 供应商可控的团队协作环境"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["自托管", "团队协作", "会议/语音视频", "BYOK AI", "Slack/Discord 替代"], "domain": "团队协作/通信", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: Nebulynk brings the everyday flow of teamwork into one place: focused chat,", "L24: Nebulynk uses a bring-your-own-key (BYOK) model for AI features. Choose the"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sapientorius/Nebulynk",
+ "sha": "c641c0301ffc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管团队协作平台：聊天、会议与可选 AI 辅助",
+  "review": "面向团队的自托管协作产品，整合频道聊天、语音视频会议、屏幕共享、文件、搜索、提醒与通知，以及基于 BYOK（自带 API key）的可选 AI 功能：转写、会议摘要、可检索的后续事项与过往会议的上下文问答。自带 Docker 部署资源，支持 Coolify/Dokploy/Plesk 等部署方式。采用 BSL 1.1 源码可用许可（非开源许可），免费生产使用受许可条件限制；技术栈为 FeathersJS、Vue.js、LiveKit、PostgreSQL、Redis。",
+  "highlights": [
+   "聊天、语音视频会议、屏幕共享、文件与搜索整合于同一工作区",
+   "BYOK 模式的可选 AI 功能：转写、会议摘要、后续事项检索",
+   "角色权限、访客访问、passkey 与双因素认证",
+   "提供 Docker 部署资源与 GHCR 镜像"
+  ],
+  "use_cases": [
+   "团队在自有基础设施上运行聊天与会议平台",
+   "用自带 key 的 AI 生成会议摘要与可检索的后续事项",
+   "需要数据与 AI 供应商可控的团队协作环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自托管",
+   "团队协作",
+   "会议/语音视频",
+   "BYOK AI",
+   "Slack/Discord 替代"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Nebulynk brings the everyday flow of teamwork into one place: focused chat,",
+   "L24: Nebulynk uses a bring-your-own-key (BYOK) model for AI features. Choose the"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

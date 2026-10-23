@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hust-open-atom-club/oh-dsh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "hust-open-atom-club/oh-dsh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 320 --> 324
-    line [321, 323]
+    line [321, 323, 323]
 ```
 
-2026-10-18 321 → 2026-10-22 323（+2）
+2026-10-18 321 → 2026-10-23 323（+2）
 
 
 ---

@@ -43,13 +43,13 @@ CircuitNet 提供电子设计自动化（EDA）领域的开源数据集及配套
 
 ```mermaid
 xychart-beta
-    title "circuitnet/CircuitNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "circuitnet/CircuitNet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 514 --> 518
-    line [515, 517]
+    line [515, 517, 517]
 ```
 
-2026-10-18 515 → 2026-10-22 517（+2）
+2026-10-18 515 → 2026-10-23 517（+2）
 
 
 ---

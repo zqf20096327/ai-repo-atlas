@@ -46,12 +46,12 @@ AgentSight 是本地优先的 top/strace 式 AI agent 观测工具，用 eBPF �
 ```mermaid
 xychart-beta
     title "eunomia-bpf/agentsight 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 747 --> 751
-    line [748, 750, 750]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 747 --> 755
+    line [748, 750, 754]
 ```
 
-2026-10-18 748 → 2026-10-21 750（+2）
+2026-10-18 748 → 2026-10-23 754（+6）
 
 
 ---

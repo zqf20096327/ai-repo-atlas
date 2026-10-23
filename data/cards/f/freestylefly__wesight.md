@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "freestylefly/wesight 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 950 --> 955
-    line [951, 954]
+    title "freestylefly/wesight 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 950 --> 956
+    line [951, 954, 955]
 ```
 
-2026-10-18 951 → 2026-10-22 954（+3）
+2026-10-18 951 → 2026-10-23 955（+4）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blazity/enterprise-commerce 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 702 --> 705
-    line [703, 704]
+    title "Blazity/enterprise-commerce 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 702 --> 707
+    line [703, 704, 706]
 ```
 
-2026-10-18 703 → 2026-10-22 704（+1）
+2026-10-18 703 → 2026-10-23 706（+3）
 
 
 ---

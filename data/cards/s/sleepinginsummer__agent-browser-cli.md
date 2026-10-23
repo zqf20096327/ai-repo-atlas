@@ -45,13 +45,13 @@ Rust 实现的命令行工具，通过 Chrome 扩展（tmwd_cdp_bridge）连接�
 
 ```mermaid
 xychart-beta
-    title "sleepinginsummer/agent-browser-cli 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-22"]
-    y-axis "stars" 634 --> 637
-    line [635, 636]
+    title "sleepinginsummer/agent-browser-cli 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 634 --> 638
+    line [635, 636, 637]
 ```
 
-2026-10-19 635 → 2026-10-22 636（+1）
+2026-10-19 635 → 2026-10-23 637（+2）
 
 
 ---

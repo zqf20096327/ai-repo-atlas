@@ -44,13 +44,13 @@ USENIX Security 2025 论文 PoisonedRAG 的官方代码，实现针对检索增�
 
 ```mermaid
 xychart-beta
-    title "sleeepeer/PoisonedRAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "sleeepeer/PoisonedRAG 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 303 --> 306
-    line [304, 305]
+    line [304, 305, 305]
 ```
 
-2026-10-18 304 → 2026-10-22 305（+1）
+2026-10-18 304 → 2026-10-23 305（+1）
 
 
 ---

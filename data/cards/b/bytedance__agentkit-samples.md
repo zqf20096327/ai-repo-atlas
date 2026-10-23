@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytedance/agentkit-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "bytedance/agentkit-samples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 472 --> 475
-    line [474, 473]
+    line [474, 473, 473]
 ```
 
-2026-10-18 474 → 2026-10-22 473（-1）
+2026-10-18 474 → 2026-10-23 473（-1）
 
 
 ---

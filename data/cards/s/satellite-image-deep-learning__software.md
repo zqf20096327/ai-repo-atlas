@@ -33,7 +33,7 @@ satellite-image-deep-learning.com 维护的软件清单仓库，收录处理卫�
 
 ## 场景标签
 
- · 领域:遥感/地理空间 AI 工具索引
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
@@ -47,12 +47,12 @@ satellite-image-deep-learning.com 维护的软件清单仓库，收录处理卫�
 ```mermaid
 xychart-beta
     title "satellite-image-deep-learning/software 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 161 --> 163
     line [162, 162]
 ```
 
-2026-10-18 162 → 2026-10-22 162（+0）
+2026-10-18 162 → 2026-10-23 162（+0）
 
 
 ---

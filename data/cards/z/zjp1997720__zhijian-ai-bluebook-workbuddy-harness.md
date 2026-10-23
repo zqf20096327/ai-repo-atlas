@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjp1997720/zhijian-ai-bluebook-workbuddy-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "zjp1997720/zhijian-ai-bluebook-workbuddy-harness 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 239 --> 243
-    line [240, 242]
+    line [240, 242, 242]
 ```
 
-2026-10-18 240 → 2026-10-22 242（+2）
+2026-10-18 240 → 2026-10-23 242（+2）
 
 
 ---

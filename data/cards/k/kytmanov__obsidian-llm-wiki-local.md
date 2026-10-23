@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kytmanov/obsidian-llm-wiki-local 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 836 --> 840
-    line [837, 839]
+    title "kytmanov/obsidian-llm-wiki-local 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 836 --> 841
+    line [837, 839, 840]
 ```
 
-2026-10-18 837 → 2026-10-22 839（+2）
+2026-10-18 837 → 2026-10-23 840（+3）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "christopherkarani/Wax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "christopherkarani/Wax 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 803 --> 806
-    line [804, 805]
+    line [804, 805, 805]
 ```
 
-2026-10-18 804 → 2026-10-22 805（+1）
+2026-10-18 804 → 2026-10-23 805（+1）
 
 
 ---

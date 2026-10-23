@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ningbainb/deepseek-harness-desktop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 828 --> 854
-    line [830, 844, 852]
+    title "ningbainb/deepseek-harness-desktop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 828 --> 858
+    line [830, 844, 852, 856]
 ```
 
-2026-10-18 830 → 2026-10-22 852（+22）
+2026-10-18 830 → 2026-10-23 856（+26）
 
 
 ---

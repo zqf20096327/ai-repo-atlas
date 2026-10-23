@@ -46,12 +46,12 @@ Agentao 是一个可嵌入 Python 应用的受治理 agent 运行时（Governed 
 ```mermaid
 xychart-beta
     title "jin-bo/agentao 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 308 --> 310
-    line [309, 309]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 308 --> 311
+    line [309, 310]
 ```
 
-2026-10-18 309 → 2026-10-22 309（+0）
+2026-10-18 309 → 2026-10-23 310（+1）
 
 
 ---

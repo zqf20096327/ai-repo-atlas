@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Generative-AI-for-beginners-dotnet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3129 --> 3143
-    line [3130, 3136, 3142]
+    title "microsoft/Generative-AI-for-beginners-dotnet 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3128 --> 3152
+    line [3130, 3136, 3142, 3150]
 ```
 
-2026-10-18 3,130 → 2026-10-22 3,142（+12）
+2026-10-18 3,130 → 2026-10-23 3,150（+20）
 
 
 ---

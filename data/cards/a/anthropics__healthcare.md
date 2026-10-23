@@ -46,13 +46,13 @@ Anthropic 维护的单一 Claude 插件：打包支付方、医疗提供方、�
 
 ```mermaid
 xychart-beta
-    title "anthropics/healthcare 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "anthropics/healthcare 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 425 --> 429
-    line [426, 428]
+    line [426, 428, 428]
 ```
 
-2026-10-18 426 → 2026-10-22 428（+2）
+2026-10-18 426 → 2026-10-23 428（+2）
 
 
 ---

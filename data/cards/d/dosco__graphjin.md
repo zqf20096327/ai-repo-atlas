@@ -46,12 +46,12 @@ Go 实现的编译器与运行时：把 PostgreSQL、MySQL、MongoDB、Snowflake
 ```mermaid
 xychart-beta
     title "dosco/graphjin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 3212 --> 3214
-    line [3213, 3213]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 3212 --> 3220
+    line [3213, 3219]
 ```
 
-2026-10-18 3,213 → 2026-10-21 3,213（+0）
+2026-10-18 3,213 → 2026-10-23 3,219（+6）
 
 
 ---

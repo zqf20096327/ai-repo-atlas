@@ -45,13 +45,13 @@ HeyGen 官方发布的三个 agent 技能（SKILL.md 格式）：heygen-avatar �
 
 ```mermaid
 xychart-beta
-    title "heygen-com/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 495 --> 510
-    line [496, 504, 509]
+    title "heygen-com/skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 495 --> 511
+    line [496, 504, 509, 510]
 ```
 
-2026-10-18 496 → 2026-10-22 509（+13）
+2026-10-18 496 → 2026-10-23 510（+14）
 
 
 ---

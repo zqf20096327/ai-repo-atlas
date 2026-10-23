@@ -46,12 +46,12 @@ toon-format/toon 的 PHP 移植，提供 TOON 格式的编码与双向解码：P
 ```mermaid
 xychart-beta
     title "HelgeSverre/toon-php 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 130 --> 132
     line [131, 131]
 ```
 
-2026-10-18 131 → 2026-10-22 131（+0）
+2026-10-18 131 → 2026-10-23 131（+0）
 
 
 ---

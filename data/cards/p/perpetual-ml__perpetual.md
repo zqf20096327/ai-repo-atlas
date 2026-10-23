@@ -45,13 +45,13 @@ Rust 实现的梯度提升机（PerpetualBooster），以单一 budget 参数替
 
 ```mermaid
 xychart-beta
-    title "perpetual-ml/perpetual 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "perpetual-ml/perpetual 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 711 --> 715
-    line [712, 713, 714]
+    line [712, 713, 714, 714]
 ```
 
-2026-10-18 712 → 2026-10-22 714（+2）
+2026-10-18 712 → 2026-10-23 714（+2）
 
 
 ---

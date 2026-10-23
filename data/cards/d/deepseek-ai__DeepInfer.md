@@ -40,6 +40,18 @@ DeepSeek 官方开源的生产级推理框架，支撑其大规模线上服务�
 > L3: DeepInfer is the high-performance inference framework that powers DeepSeek's large-scale production services. This o
 > L12: - Parallelism: Attention DP / balanced CP, MoE EP + EPLB
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deepseek-ai/DeepInfer 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 16841 --> 20010
+    line [17105, 19746]
+```
+
+2026-10-22 17,105 → 2026-10-23 19,746（+2,641）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5899261f0917` · [字段定义](../../DATASET.md)*

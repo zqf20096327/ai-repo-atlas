@@ -41,6 +41,18 @@ TrustGen/TrustEval 是面向生成式基础模型（LLM/VLM/T2I）的可信度�
 > L29: - **Comprehensive Dimensions**: Evaluate models across safety, fairness, robustness, privacy, and truthfulness.
 > L234: 1. **Judge the Responses**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TrustGen/TrustEval-toolkit 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 135 --> 137
+    line [136, 136]
+```
+
+2026-10-22 136 → 2026-10-23 136（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `684b18dde652` · [字段定义](../../DATASET.md)*

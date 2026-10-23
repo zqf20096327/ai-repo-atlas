@@ -45,13 +45,13 @@ SonarSource 发布的 CLI，面向使用 SonarQube Cloud 或自托管 Server（v
 
 ```mermaid
 xychart-beta
-    title "SonarSource/sonarqube-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "SonarSource/sonarqube-cli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 288 --> 292
-    line [289, 290, 291]
+    line [289, 290, 291, 291]
 ```
 
-2026-10-18 289 → 2026-10-22 291（+2）
+2026-10-18 289 → 2026-10-23 291（+2）
 
 
 ---

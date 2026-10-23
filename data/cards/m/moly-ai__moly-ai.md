@@ -47,12 +47,12 @@ Moly 是用 Rust 编写、基于 Makepad UI 与 Robius 框架的 AI LLM 客户�
 ```mermaid
 xychart-beta
     title "moly-ai/moly-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 422 --> 424
     line [423, 423]
 ```
 
-2026-10-18 423 → 2026-10-22 423（+0）
+2026-10-18 423 → 2026-10-23 423（+0）
 
 
 ---

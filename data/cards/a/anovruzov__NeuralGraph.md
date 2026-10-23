@@ -41,6 +41,18 @@
 > L81: The MCP server is `neuralgraph-chat-memory` (v1.0.0). It speaks **stdio** for desktop
 > L240: crates/neuralgraph-memory/  THE ASSISTANT — memory server, MCP, worker, store, dashboard (Rust)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anovruzov/NeuralGraph 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 151 --> 163
+    line [162, 152]
+```
+
+2026-10-22 162 → 2026-10-23 152（-10）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `234fa62ab62e` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ TradeSight 是面向量化交易研究者（QC Autonomous 维护）的自托管�
 ```mermaid
 xychart-beta
     title "rmbell09-lang/tradesight 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 167 --> 170
+    line [168, 169]
 ```
 
-2026-10-18 168 → 2026-10-22 168（+0）
+2026-10-18 168 → 2026-10-23 169（+1）
 
 
 ---

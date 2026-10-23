@@ -45,12 +45,12 @@ AdaLLM 是针对 Ada Lovelace 架构 GPU（如 RTX 4090）的 NVFP4 优先推理
 ```mermaid
 xychart-beta
     title "BenChaliah/NVFP4-on-4090-vLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 152 --> 154
     line [153, 153]
 ```
 
-2026-10-18 153 → 2026-10-22 153（+0）
+2026-10-18 153 → 2026-10-23 153（+0）
 
 
 ---

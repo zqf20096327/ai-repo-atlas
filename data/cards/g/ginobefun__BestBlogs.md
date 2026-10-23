@@ -44,13 +44,13 @@ BestBlogs.dev 是 AI 驱动的私人阅读产品：以 RSS 爬取 + AI 深度分
 
 ```mermaid
 xychart-beta
-    title "ginobefun/BestBlogs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 4055 --> 4059
-    line [4056, 4058]
+    title "ginobefun/BestBlogs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4055 --> 4063
+    line [4056, 4058, 4062]
 ```
 
-2026-10-18 4,056 → 2026-10-22 4,058（+2）
+2026-10-18 4,056 → 2026-10-23 4,062（+6）
 
 
 ---

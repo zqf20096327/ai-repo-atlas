@@ -46,12 +46,12 @@ AiTLAS（Artificial Intelligence Toolbox for Earth Observation）提供用于卫
 ```mermaid
 xychart-beta
     title "biasvariancelabs/aitlas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 234 --> 236
     line [235, 235]
 ```
 
-2026-10-18 235 → 2026-10-22 235（+0）
+2026-10-18 235 → 2026-10-23 235（+0）
 
 
 ---

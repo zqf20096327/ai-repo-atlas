@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "leandromineti/ml-feynman-experience 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 218 --> 220
     line [219, 219]
 ```
 
-2026-10-18 219 → 2026-10-22 219（+0）
+2026-10-18 219 → 2026-10-23 219（+0）
 
 
 ---

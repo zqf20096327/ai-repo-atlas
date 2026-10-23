@@ -44,13 +44,13 @@ Langfuse（开源 agent 评测与可观测平台）的官方文档站点仓库�
 
 ```mermaid
 xychart-beta
-    title "langfuse/langfuse-docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "langfuse/langfuse-docs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 245 --> 249
-    line [246, 248]
+    line [246, 248, 248]
 ```
 
-2026-10-18 246 → 2026-10-22 248（+2）
+2026-10-18 246 → 2026-10-23 248（+2）
 
 
 ---

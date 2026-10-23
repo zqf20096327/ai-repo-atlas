@@ -46,12 +46,12 @@ sb3-contrib 是 stable-baselines3 的 contrib 包，收录被认为实验性的 
 ```mermaid
 xychart-beta
     title "Stable-Baselines-Team/stable-baselines3-contrib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 739 --> 741
     line [740, 740]
 ```
 
-2026-10-18 740 → 2026-10-22 740（+0）
+2026-10-18 740 → 2026-10-23 740（+0）
 
 
 ---

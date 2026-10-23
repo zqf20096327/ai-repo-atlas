@@ -51,13 +51,13 @@ Composio 是一个 SDK monorepo，包含 TypeScript SDK（@composio/core）、Py
 
 ```mermaid
 xychart-beta
-    title "ComposioHQ/composio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 30603 --> 30669
-    line [30608, 30641, 30664]
+    title "ComposioHQ/composio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 30601 --> 30691
+    line [30608, 30641, 30664, 30684]
 ```
 
-2026-10-18 30,608 → 2026-10-22 30,664（+56）
+2026-10-18 30,608 → 2026-10-23 30,684（+76）
 
 
 ---

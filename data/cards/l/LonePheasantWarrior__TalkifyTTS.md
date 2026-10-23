@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LonePheasantWarrior/TalkifyTTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 371 --> 374
-    line [372, 373]
+    title "LonePheasantWarrior/TalkifyTTS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 371 --> 376
+    line [372, 373, 375]
 ```
 
-2026-10-18 372 → 2026-10-22 373（+1）
+2026-10-18 372 → 2026-10-23 375（+3）
 
 
 ---

@@ -44,13 +44,13 @@ Hugging Face 团队维护的语言模型对齐训练手册与代码库：提供�
 
 ```mermaid
 xychart-beta
-    title "huggingface/alignment-handbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 5695 --> 5699
-    line [5696, 5698]
+    title "huggingface/alignment-handbook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 5695 --> 5700
+    line [5696, 5698, 5699]
 ```
 
-2026-10-18 5,696 → 2026-10-22 5,698（+2）
+2026-10-18 5,696 → 2026-10-23 5,699（+3）
 
 
 ---

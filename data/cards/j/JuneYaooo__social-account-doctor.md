@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuneYaooo/social-account-doctor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 302 --> 309
-    line [303, 306, 308]
+    title "JuneYaooo/social-account-doctor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 302 --> 311
+    line [303, 306, 308, 310]
 ```
 
-2026-10-18 303 → 2026-10-22 308（+5）
+2026-10-18 303 → 2026-10-23 310（+7）
 
 
 ---

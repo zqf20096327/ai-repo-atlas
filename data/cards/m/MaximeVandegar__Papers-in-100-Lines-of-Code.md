@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaximeVandegar/Papers-in-100-Lines-of-Code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "MaximeVandegar/Papers-in-100-Lines-of-Code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2903 --> 2907
-    line [2906, 2904]
+    line [2906, 2904, 2904]
 ```
 
-2026-10-18 2,906 → 2026-10-22 2,904（-2）
+2026-10-18 2,906 → 2026-10-23 2,904（-2）
 
 
 ---

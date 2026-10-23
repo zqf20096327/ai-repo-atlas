@@ -46,12 +46,12 @@ AWS 官方 samples 出品的生成式 AI 聊天平台：基于 Amazon Bedrock �
 ```mermaid
 xychart-beta
     title "aws-samples/bedrock-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 1323 --> 1325
-    line [1324, 1324]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1323 --> 1326
+    line [1324, 1325]
 ```
 
-2026-10-18 1,324 → 2026-10-21 1,324（+0）
+2026-10-18 1,324 → 2026-10-23 1,325（+1）
 
 
 ---

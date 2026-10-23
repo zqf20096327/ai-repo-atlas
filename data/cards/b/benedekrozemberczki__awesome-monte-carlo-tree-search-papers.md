@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "benedekrozemberczki/awesome-monte-carlo-tree-search-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 715 --> 717
     line [716, 716]
 ```
 
-2026-10-18 716 → 2026-10-22 716（+0）
+2026-10-18 716 → 2026-10-23 716（+0）
 
 
 ---

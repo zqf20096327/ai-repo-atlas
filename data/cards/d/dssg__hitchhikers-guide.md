@@ -44,13 +44,13 @@ DSSG（Data Science for Social Good）项目的培训资料库：介绍该项目
 
 ```mermaid
 xychart-beta
-    title "dssg/hitchhikers-guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "dssg/hitchhikers-guide 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1051 --> 1054
-    line [1052, 1053]
+    line [1052, 1053, 1053]
 ```
 
-2026-10-18 1,052 → 2026-10-22 1,053（+1）
+2026-10-18 1,052 → 2026-10-23 1,053（+1）
 
 
 ---

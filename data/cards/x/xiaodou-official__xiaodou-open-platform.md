@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaodou-official/xiaodou-open-platform 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-22"]
+    title "xiaodou-official/xiaodou-open-platform 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 313 --> 349
-    line [316, 346]
+    line [316, 346, 319]
 ```
 
-2026-10-19 316 → 2026-10-22 346（+30）
+2026-10-19 316 → 2026-10-23 319（+3）
 
 
 ---

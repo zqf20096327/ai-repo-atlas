@@ -44,13 +44,13 @@ ACL 2026 论文 SARA 的官方实现（Georgia Tech 与 Visa Research 合作）�
 
 ```mermaid
 xychart-beta
-    title "Ahren09/SARA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Ahren09/SARA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 262 --> 266
-    line [263, 265]
+    line [263, 265, 263]
 ```
 
-2026-10-18 263 → 2026-10-22 265（+2）
+2026-10-18 263 → 2026-10-23 263（+0）
 
 
 ---

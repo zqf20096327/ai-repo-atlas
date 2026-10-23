@@ -46,12 +46,12 @@ Chrome/Firefox 浏览器扩展，用 Readability 抽取网页主内容、Turndow
 ```mermaid
 xychart-beta
     title "jatinkrmalik/LLMFeeder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 477 --> 480
-    line [478, 479, 479]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 477 --> 483
+    line [478, 479, 482]
 ```
 
-2026-10-18 478 → 2026-10-22 479（+1）
+2026-10-18 478 → 2026-10-23 482（+4）
 
 
 ---

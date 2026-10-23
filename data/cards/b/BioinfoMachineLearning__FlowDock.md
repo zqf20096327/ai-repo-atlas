@@ -45,12 +45,12 @@ ISMB 2025 论文 FlowDock 的官方 PyTorch/Lightning/Hydra 代码库。模型�
 ```mermaid
 xychart-beta
     title "BioinfoMachineLearning/FlowDock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 145 --> 147
     line [146, 146]
 ```
 
-2026-10-18 146 → 2026-10-22 146（+0）
+2026-10-18 146 → 2026-10-23 146（+0）
 
 
 ---

@@ -1,1 +1,83 @@
-{"fn": "BUPT-GAMMA/MASFactory", "sha": "3eb589966151", "source": "readme", "identity": {"one_liner": "面向多智能体系统的图编排框架：意图生成可执行工作流", "review": "BUPT-GAMMA 团队维护的多智能体系统编排框架，以 Node/Edge 图结构表示 agent 协作关系，抽象为骨架层、组件层（Agent/Graph/Loop/Switch/Human 等）、协议层与交互层。核心机制 Vibe Graphing 将自然语言意图转化为图设计，经人工确认迭代后编译为可执行工作流；同一系统内支持代码编写、可视化拖拽与自然语言编排三种模式，统一进入 Visualizer 预览、运行追踪与人机交互。通过 LiteLLM 可选依赖接入 100+ 模型提供商，限制为需 Python>=3.10。", "highlights": ["Vibe Graphing：自然语言意图→图设计→可执行工作流", "Node/Edge 图组件体系，支持子图、循环、分支与 human-in-the-loop", "代码/可视化/Vibe Graphing 三种开发模式共存，统一运行时追踪", "LiteLLM 可选扩展接入 100+ 模型提供商（Anthropic/Gemini/Ollama 等）"], "use_cases": ["从自然语言需求出发快速搭建多 agent 协作工作流", "在可视化环境中预览、追踪和干预多智能体系统运行", "复用内置图模式（InstructorAssistantGraph/BrainstormingGraph）构建教学、头脑风暴类应用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "http://arxiv.org/abs/2603.06007", "demo_url": "https://www.youtube.com/watch?v=ANynzVfY32k", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多智能体系统", "工作流编排", "LLM框架", "可视化开发", "Agent技能"], "domain": "LLM 基础设施/多智能体编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["提供中文 README（README.zh.md）", "QQ 群社区入口（L31）", "维护方为北邮 GAMMA 团队"]}, "trust": {"confidence": "high", "evidence": ["L35: **MASFactory** is a graph-centric framework for orchestrating Multi-Agent Systems with **Vibe Graphing**:", "L78: MASFactory adopts the widely used graph-centric approach to multi-agent orchestration and abstracts the system into four", "L105:  > - Natural-language workflow construction based on `Vibe Graphing`, reducing the human cost of system development."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "BUPT-GAMMA/MASFactory",
+ "sha": "3eb589966151",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向多智能体系统的图编排框架：意图生成可执行工作流",
+  "review": "BUPT-GAMMA 团队维护的多智能体系统编排框架，以 Node/Edge 图结构表示 agent 协作关系，抽象为骨架层、组件层（Agent/Graph/Loop/Switch/Human 等）、协议层与交互层。核心机制 Vibe Graphing 将自然语言意图转化为图设计，经人工确认迭代后编译为可执行工作流；同一系统内支持代码编写、可视化拖拽与自然语言编排三种模式，统一进入 Visualizer 预览、运行追踪与人机交互。通过 LiteLLM 可选依赖接入 100+ 模型提供商，限制为需 Python>=3.10。",
+  "highlights": [
+   "Vibe Graphing：自然语言意图→图设计→可执行工作流",
+   "Node/Edge 图组件体系，支持子图、循环、分支与 human-in-the-loop",
+   "代码/可视化/Vibe Graphing 三种开发模式共存，统一运行时追踪",
+   "LiteLLM 可选扩展接入 100+ 模型提供商（Anthropic/Gemini/Ollama 等）"
+  ],
+  "use_cases": [
+   "从自然语言需求出发快速搭建多 agent 协作工作流",
+   "在可视化环境中预览、追踪和干预多智能体系统运行",
+   "复用内置图模式（InstructorAssistantGraph/BrainstormingGraph）构建教学、头脑风暴类应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "http://arxiv.org/abs/2603.06007",
+  "demo_url": "https://www.youtube.com/watch?v=ANynzVfY32k",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体系统",
+   "工作流编排",
+   "LLM框架",
+   "可视化开发",
+   "Agent技能"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文 README（README.zh.md）",
+   "QQ 群社区入口（L31）",
+   "维护方为北邮 GAMMA 团队"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: **MASFactory** is a graph-centric framework for orchestrating Multi-Agent Systems with **Vibe Graphing**:",
+   "L78: MASFactory adopts the widely used graph-centric approach to multi-agent orchestration and abstracts the system into four",
+   "L105:  > - Natural-language workflow construction based on `Vibe Graphing`, reducing the human cost of system development."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

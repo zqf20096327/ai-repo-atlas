@@ -40,6 +40,18 @@ Pl@ntNet-300K 论文（NeurIPS Datasets and Benchmarks 2021）配套仓库，提
 > L3: This repository contains the code used to produce the benchmark in the paper ***"Pl@ntNet-300K: a plant image datase
 > L24: Pl@ntNet-300K is a plant dataset containing 306,146 plant images covering 1081 species (the classes).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "plantnet/PlantNet-300K 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 268 --> 270
+    line [269, 269]
+```
+
+2026-10-22 269 → 2026-10-23 269（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9cbd719c3033` · [字段定义](../../DATASET.md)*

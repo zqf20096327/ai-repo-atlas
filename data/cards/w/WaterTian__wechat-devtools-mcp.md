@@ -41,6 +41,18 @@
 > L11: > 「瘦 MCP + 胖 Skill」：MCP Server 只提供 7 个聚合工具，操作流程与最佳实践都在配套的 wechat-devtools Skill 里。**两者必须一起装**。
 > L93: |工具|用途|action / 关键参数|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WaterTian/wechat-devtools-mcp 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 153 --> 155
+    line [154, 154]
+```
+
+2026-10-22 154 → 2026-10-23 154（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `997eb1041b5b` · [字段定义](../../DATASET.md)*

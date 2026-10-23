@@ -45,12 +45,12 @@ Agent2Agent (A2A) 协议的官方 Java SDK，多模块 Maven 库，提供客户�
 ```mermaid
 xychart-beta
     title "a2aproject/a2a-java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 504 --> 506
-    line [505, 505]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 504 --> 507
+    line [505, 506]
 ```
 
-2026-10-18 505 → 2026-10-22 505（+0）
+2026-10-18 505 → 2026-10-23 506（+1）
 
 
 ---

@@ -45,13 +45,13 @@ TensorFlow Probability (TFP) 是一个用于概率推理与统计分析的 Pytho
 
 ```mermaid
 xychart-beta
-    title "tensorflow/probability 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "tensorflow/probability 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 4437 --> 4442
-    line [4438, 4441, 4440]
+    line [4438, 4441, 4440, 4440]
 ```
 
-2026-10-18 4,438 → 2026-10-22 4,440（+2）
+2026-10-18 4,438 → 2026-10-23 4,440（+2）
 
 
 ---

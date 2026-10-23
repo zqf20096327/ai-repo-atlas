@@ -42,13 +42,13 @@ Anthropic 维护的 Dev Container Features 仓库，提供一个安装 Claude Co
 
 ```mermaid
 xychart-beta
-    title "anthropics/devcontainer-features 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "anthropics/devcontainer-features 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 310 --> 315
-    line [311, 314]
+    line [311, 314, 314]
 ```
 
-2026-10-18 311 → 2026-10-22 314（+3）
+2026-10-18 311 → 2026-10-23 314（+3）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuxiaopeng/Github-Ranking-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 574 --> 577
-    line [575, 576]
+    title "yuxiaopeng/Github-Ranking-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 574 --> 579
+    line [575, 576, 578]
 ```
 
-2026-10-18 575 → 2026-10-22 576（+1）
+2026-10-18 575 → 2026-10-23 578（+3）
 
 
 ---

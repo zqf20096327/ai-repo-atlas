@@ -44,13 +44,13 @@ AutoGluon Assistant（又名 MLZero）是由多智能体驱动的自动化机器
 
 ```mermaid
 xychart-beta
-    title "autogluon/autogluon-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "autogluon/autogluon-assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 308 --> 311
-    line [309, 310]
+    line [309, 310, 310]
 ```
 
-2026-10-18 309 → 2026-10-22 310（+1）
+2026-10-18 309 → 2026-10-23 310（+1）
 
 
 ---

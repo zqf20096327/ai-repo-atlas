@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mantisfury/ArkhamMirror 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "mantisfury/ArkhamMirror 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 493 --> 496
-    line [495, 494]
+    line [495, 494, 495]
 ```
 
-2026-10-18 495 → 2026-10-22 494（-1）
+2026-10-18 495 → 2026-10-23 495（+0）
 
 
 ---

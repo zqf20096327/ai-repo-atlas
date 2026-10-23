@@ -40,6 +40,18 @@ lucidrains 维护的 PyTorch 版 PPO（近端策略优化）实现，包含 clip
 > L7: An implementation of PPO with recent random improvements
 > L33: Clipped surrogate - Schulman et al.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lucidrains/x-ppo 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 129 --> 131
+    line [130, 130]
+```
+
+2026-10-22 130 → 2026-10-23 130（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1d6f81c9027e` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@ FireRedTeam 开源的 AI 视频剪辑 Agent：通过自然语言对话完成素�
 
 ```mermaid
 xychart-beta
-    title "FireRedTeam/FireRed-OpenStoryline 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3506 --> 3551
-    line [3509, 3536, 3548]
+    title "FireRedTeam/FireRed-OpenStoryline 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3505 --> 3558
+    line [3509, 3536, 3548, 3554]
 ```
 
-2026-10-18 3,509 → 2026-10-22 3,548（+39）
+2026-10-18 3,509 → 2026-10-23 3,554（+45）
 
 
 ---

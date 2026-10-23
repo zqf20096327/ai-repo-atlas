@@ -49,13 +49,13 @@ LazyCodex 将 OmO（oh-my-openagent）打包为 Codex 平台的 agent harness �
 
 ```mermaid
 xychart-beta
-    title "code-yeongyu/lazycodex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3788 --> 3807
-    line [3789, 3797, 3806]
+    title "code-yeongyu/lazycodex 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3788 --> 3809
+    line [3789, 3797, 3806, 3808]
 ```
 
-2026-10-18 3,789 → 2026-10-22 3,806（+17）
+2026-10-18 3,789 → 2026-10-23 3,808（+19）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "game-difficulty/2048EndgameTablebase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "game-difficulty/2048EndgameTablebase 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 160 --> 163
-    line [161, 162]
+    line [161, 162, 162]
 ```
 
-2026-10-18 161 → 2026-10-22 162（+1）
+2026-10-18 161 → 2026-10-23 162（+1）
 
 
 ---

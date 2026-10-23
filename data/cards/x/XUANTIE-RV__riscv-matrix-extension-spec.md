@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "XUANTIE-RV/riscv-matrix-extension-spec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "XUANTIE-RV/riscv-matrix-extension-spec 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 186 --> 189
-    line [187, 188]
+    line [187, 188, 188]
 ```
 
-2026-10-18 187 → 2026-10-22 188（+1）
+2026-10-18 187 → 2026-10-23 188（+1）
 
 
 ---

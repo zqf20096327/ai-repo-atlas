@@ -40,6 +40,18 @@
 > L8: Elevation provides easy download, cache and access of the global datasets:
 > L10: - `MAPZEN`: Terrain Tiles global 30m v1
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bopen/elevation 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 330 --> 335
+    line [331, 334]
+```
+
+2026-10-22 331 → 2026-10-23 334（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4d307b01967d` · [字段定义](../../DATASET.md)*

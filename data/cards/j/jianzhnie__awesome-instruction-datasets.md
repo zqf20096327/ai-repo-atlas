@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jianzhnie/awesome-instruction-datasets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 748 --> 750
-    line [749, 749]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 748 --> 751
+    line [749, 750]
 ```
 
-2026-10-18 749 → 2026-10-21 749（+0）
+2026-10-18 749 → 2026-10-23 750（+1）
 
 
 ---

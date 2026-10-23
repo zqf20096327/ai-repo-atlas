@@ -45,12 +45,12 @@ Python 编写的浏览器自动化代理框架：通过 Chrome DevTools Protocol
 ```mermaid
 xychart-beta
     title "Jeomon/Web-Use 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 300 --> 302
-    line [301, 301]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 300 --> 303
+    line [301, 302]
 ```
 
-2026-10-18 301 → 2026-10-21 301（+0）
+2026-10-18 301 → 2026-10-23 302（+1）
 
 
 ---

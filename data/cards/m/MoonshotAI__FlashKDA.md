@@ -44,13 +44,13 @@ MoonshotAI 开源的 Kimi Delta Attention（KDA）CUDA kernel 库，基于 CUTLA
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/FlashKDA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1280 --> 1286
-    line [1281, 1282, 1285]
+    title "MoonshotAI/FlashKDA 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1280 --> 1287
+    line [1281, 1282, 1285, 1286]
 ```
 
-2026-10-18 1,281 → 2026-10-22 1,285（+4）
+2026-10-18 1,281 → 2026-10-23 1,286（+5）
 
 
 ---

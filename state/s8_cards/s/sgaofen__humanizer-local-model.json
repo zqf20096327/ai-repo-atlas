@@ -1,1 +1,84 @@
-{"fn": "sgaofen/humanizer-local-model", "sha": "2016a3cd8021", "source": "readme", "identity": {"one_liner": "本地运行的 12B 模型：把 AI 草稿改写得像人写的", "review": "基于 gemma 微调的 12B 文本补全模型，重写英文与中文的 AI 生成草稿（邮件、报告、论文段落、论坛帖等），训练目标是保留所有数字、单位、日期、人名与引文且不新增内容，在本机离线运行。提供三种使用方式：macOS/Windows 桌面应用（首次联网下载模型后离线）、llama.cpp 一条命令启动本地服务、命令行工具 hz 整篇处理文件。提供五种量化规格 GGUF 文件，低至 8GB 内存可用；评估显示 95% 英文改写被判为人写，44/420 存在事实问题，README 明确提醒使用前需人工核对数字与名字。", "highlights": ["保留数字/单位/日期/人名/引文的事实保留训练目标", "2-bit/Q3/Q4 量化经量化感知训练，3.9GB 文件达到 87% top-1 一致率", "桌面应用支持 .docx/PDF 导入、选定段落逐字保留、长文分段续写", "hz 命令行整篇重写 Markdown/.docx 并逐段报告数字丢失或新增"], "use_cases": ["把 AI 起草的邮件、报告改写后直接使用", "在本地离线重写长篇 Markdown 或 Word 文档且保留结构与代码块", "内存有限的电脑上选择小体积量化模型运行"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文本改写", "本地LLM", "GGUF量化", "AI检测规避", "写作工具"], "domain": "自然语言处理/文本改写", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["llama.cpp", "ollama", "vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["支持中文改写并含中文评估", "示例含知乎回答改写"]}, "trust": {"confidence": "high", "evidence": ["L13: **humanizer** is a 12B model that rewrites AI-written drafts (emails, essays, reports, forum posts; English and Chinese)", "L78: # 1) start a local server; the first run downloads humanizer-12b-Q8_0.gguf (about 12.7 GB)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sgaofen/humanizer-local-model",
+ "sha": "2016a3cd8021",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的 12B 模型：把 AI 草稿改写得像人写的",
+  "review": "基于 gemma 微调的 12B 文本补全模型，重写英文与中文的 AI 生成草稿（邮件、报告、论文段落、论坛帖等），训练目标是保留所有数字、单位、日期、人名与引文且不新增内容，在本机离线运行。提供三种使用方式：macOS/Windows 桌面应用（首次联网下载模型后离线）、llama.cpp 一条命令启动本地服务、命令行工具 hz 整篇处理文件。提供五种量化规格 GGUF 文件，低至 8GB 内存可用；评估显示 95% 英文改写被判为人写，44/420 存在事实问题，README 明确提醒使用前需人工核对数字与名字。",
+  "highlights": [
+   "保留数字/单位/日期/人名/引文的事实保留训练目标",
+   "2-bit/Q3/Q4 量化经量化感知训练，3.9GB 文件达到 87% top-1 一致率",
+   "桌面应用支持 .docx/PDF 导入、选定段落逐字保留、长文分段续写",
+   "hz 命令行整篇重写 Markdown/.docx 并逐段报告数字丢失或新增"
+  ],
+  "use_cases": [
+   "把 AI 起草的邮件、报告改写后直接使用",
+   "在本地离线重写长篇 Markdown 或 Word 文档且保留结构与代码块",
+   "内存有限的电脑上选择小体积量化模型运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本改写",
+   "本地LLM",
+   "GGUF量化",
+   "AI检测规避",
+   "写作工具"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "支持中文改写并含中文评估",
+   "示例含知乎回答改写"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: **humanizer** is a 12B model that rewrites AI-written drafts (emails, essays, reports, forum posts; English and Chinese)",
+   "L78: # 1) start a local server; the first run downloads humanizer-12b-Q8_0.gguf (about 12.7 GB)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

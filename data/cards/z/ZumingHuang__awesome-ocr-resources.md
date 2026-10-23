@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZumingHuang/awesome-ocr-resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 439 --> 441
-    line [440, 440]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 439 --> 442
+    line [440, 441]
 ```
 
-2026-10-18 440 → 2026-10-22 440（+0）
+2026-10-18 440 → 2026-10-23 441（+1）
 
 
 ---

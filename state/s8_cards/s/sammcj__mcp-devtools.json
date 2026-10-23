@@ -1,1 +1,82 @@
-{"fn": "sammcj/mcp-devtools", "sha": "93f3753a9b00", "source": "readme", "identity": {"one_liner": "面向 AI 编程 agent 的 Go 单二进制 MCP 服务器，聚合常用开发工具", "review": "用 Go 编写的单一 MCP 服务器，以统一模块化接口向 AI 编程 agent 提供 20+ 开发工具：联网搜索、网页抓取、库文档查询（Context7）、包版本查询、结构化推理、GitHub 操作、代码语义搜索、PDF/Excel/文档处理、文件系统操作、MCP 代理等；默认工具开箱即用，附加工具经 ENABLE_ADDITIONAL_TOOLS 按需启用，并可把 Claude Code/Codex/Copilot/Gemini/Kiro CLI agent 挂载为工具。支持 STDIO 与无状态 HTTP 两种传输，提供 go install、安装脚本、源码编译与预编译二进制四种安装方式。部分工具（如 API to MCP）标注实验性或处于弃用评审中。", "highlights": ["单一 Go 二进制替代多个 Node.js/Python MCP 服务器，20+ 工具统一接口", "默认工具零依赖开箱即用，附加工具按环境变量模块化启用", "支持 STDIO 与无状态 Streamable HTTP（MCP 2026-07-28）两种传输", "可将 Claude Code / Codex / Copilot / Gemini / Kiro CLI agent 集成为工具"], "use_cases": ["为 Claude Code、Cline、LM Studio 等 MCP 客户端一站式配置开发工具", "生产部署中通过 HTTP 传输共享 MCP 工具服务，支持负载均衡与滚动重启", "让编程 agent 联网搜索、查库文档、处理 PDF/Excel 与操作代码库"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [190, 234], "note": "Code Rename 标注 experimental，API to MCP 处于弃用评审且成熟度🔴"}}, "links": {"scenario_tags": ["MCP服务器", "AI编程Agent", "开发工具", "Go单二进制"], "domain": "AI 编程工具/MCP 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: A single, high-performance MCP server that replaces many Node.js and Python-based MCP servers with one efficient Go bina", "L27: - Replace multiple potentially resource-heavy Node.js/Python MCP servers, each spawned for every client tool you use", "L216: **Agents as Tools** - In addition to the above tools, MCP DevTools can provide access to AI agents as tools by integrati"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sammcj/mcp-devtools",
+ "sha": "93f3753a9b00",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编程 agent 的 Go 单二进制 MCP 服务器，聚合常用开发工具",
+  "review": "用 Go 编写的单一 MCP 服务器，以统一模块化接口向 AI 编程 agent 提供 20+ 开发工具：联网搜索、网页抓取、库文档查询（Context7）、包版本查询、结构化推理、GitHub 操作、代码语义搜索、PDF/Excel/文档处理、文件系统操作、MCP 代理等；默认工具开箱即用，附加工具经 ENABLE_ADDITIONAL_TOOLS 按需启用，并可把 Claude Code/Codex/Copilot/Gemini/Kiro CLI agent 挂载为工具。支持 STDIO 与无状态 HTTP 两种传输，提供 go install、安装脚本、源码编译与预编译二进制四种安装方式。部分工具（如 API to MCP）标注实验性或处于弃用评审中。",
+  "highlights": [
+   "单一 Go 二进制替代多个 Node.js/Python MCP 服务器，20+ 工具统一接口",
+   "默认工具零依赖开箱即用，附加工具按环境变量模块化启用",
+   "支持 STDIO 与无状态 Streamable HTTP（MCP 2026-07-28）两种传输",
+   "可将 Claude Code / Codex / Copilot / Gemini / Kiro CLI agent 集成为工具"
+  ],
+  "use_cases": [
+   "为 Claude Code、Cline、LM Studio 等 MCP 客户端一站式配置开发工具",
+   "生产部署中通过 HTTP 传输共享 MCP 工具服务，支持负载均衡与滚动重启",
+   "让编程 agent 联网搜索、查库文档、处理 PDF/Excel 与操作代码库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    190,
+    234
+   ],
+   "note": "Code Rename 标注 experimental，API to MCP 处于弃用评审且成熟度🔴"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "AI编程Agent",
+   "开发工具",
+   "Go单二进制"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A single, high-performance MCP server that replaces many Node.js and Python-based MCP servers with one efficient Go bina",
+   "L27: - Replace multiple potentially resource-heavy Node.js/Python MCP servers, each spawned for every client tool you use",
+   "L216: **Agents as Tools** - In addition to the above tools, MCP DevTools can provide access to AI agents as tools by integrati"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

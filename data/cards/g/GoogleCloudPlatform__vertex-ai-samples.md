@@ -45,12 +45,12 @@ GoogleCloudPlatform 维护的示例资源库，收录 notebook、代码示例、
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/vertex-ai-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 789 --> 791
     line [790, 790]
 ```
 
-2026-10-18 790 → 2026-10-22 790（+0）
+2026-10-18 790 → 2026-10-23 790（+0）
 
 
 ---

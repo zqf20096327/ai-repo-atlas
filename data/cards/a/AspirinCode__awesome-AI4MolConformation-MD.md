@@ -44,12 +44,12 @@ AspirinCode 维护的 awesome 类策展清单，收录用生成式 AI 与深度�
 ```mermaid
 xychart-beta
     title "AspirinCode/awesome-AI4MolConformation-MD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 305 --> 307
     line [306, 306]
 ```
 
-2026-10-18 306 → 2026-10-21 306（+0）
+2026-10-18 306 → 2026-10-23 306（+0）
 
 
 ---

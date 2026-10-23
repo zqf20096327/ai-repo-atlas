@@ -45,12 +45,12 @@ Eindhoven 理工、都灵理工与 RWTH 联合发布的 Encoder-only Mask Transf
 ```mermaid
 xychart-beta
     title "tue-mps/eomt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 631 --> 633
-    line [632, 632]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 631 --> 634
+    line [632, 633]
 ```
 
-2026-10-18 632 → 2026-10-22 632（+0）
+2026-10-18 632 → 2026-10-23 633（+1）
 
 
 ---

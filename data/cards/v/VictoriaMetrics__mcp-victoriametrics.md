@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VictoriaMetrics/mcp-victoriametrics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "VictoriaMetrics/mcp-victoriametrics 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 237 --> 240
-    line [238, 239]
+    line [238, 239, 239]
 ```
 
-2026-10-18 238 → 2026-10-22 239（+1）
+2026-10-18 238 → 2026-10-23 239（+1）
 
 
 ---

@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "qiaohaoforever/DeepLearningFromScratch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "qiaohaoforever/DeepLearningFromScratch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1287 --> 1297
-    line [1288, 1293, 1296]
+    line [1288, 1293, 1296, 1296]
 ```
 
-2026-10-18 1,288 → 2026-10-22 1,296（+8）
+2026-10-18 1,288 → 2026-10-23 1,296（+8）
 
 
 ---

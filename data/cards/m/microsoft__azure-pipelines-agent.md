@@ -43,13 +43,13 @@ Azure Pipelines 与 Team Foundation Server/Azure DevOps Server 使用的跨平�
 
 ```mermaid
 xychart-beta
-    title "microsoft/azure-pipelines-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "microsoft/azure-pipelines-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1918 --> 1924
-    line [1919, 1921, 1923]
+    line [1919, 1921, 1923, 1923]
 ```
 
-2026-10-18 1,919 → 2026-10-22 1,923（+4）
+2026-10-18 1,919 → 2026-10-23 1,923（+4）
 
 
 ---

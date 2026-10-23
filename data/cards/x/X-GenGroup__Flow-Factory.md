@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "X-GenGroup/Flow-Factory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 728 --> 734
-    line [729, 733]
+    title "X-GenGroup/Flow-Factory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 728 --> 735
+    line [729, 733, 734]
 ```
 
-2026-10-18 729 → 2026-10-22 733（+4）
+2026-10-18 729 → 2026-10-23 734（+5）
 
 
 ---

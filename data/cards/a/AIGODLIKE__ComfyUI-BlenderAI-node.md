@@ -45,13 +45,13 @@ Blender 插件，将 ComfyUI 节点转换为 Blender 节点，用户可在 Blend
 
 ```mermaid
 xychart-beta
-    title "AIGODLIKE/ComfyUI-BlenderAI-node 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1561 --> 1567
-    line [1562, 1565, 1566]
+    title "AIGODLIKE/ComfyUI-BlenderAI-node 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1561 --> 1568
+    line [1562, 1565, 1566, 1567]
 ```
 
-2026-10-18 1,562 → 2026-10-22 1,566（+4）
+2026-10-18 1,562 → 2026-10-23 1,567（+5）
 
 
 ---

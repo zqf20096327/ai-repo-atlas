@@ -45,12 +45,12 @@ CC signals 是 Creative Commons 发布的框架草案，供内容集合管理者
 ```mermaid
 xychart-beta
     title "creativecommons/cc-signals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 132 --> 134
     line [133, 133]
 ```
 
-2026-10-18 133 → 2026-10-22 133（+0）
+2026-10-18 133 → 2026-10-23 133（+0）
 
 
 ---

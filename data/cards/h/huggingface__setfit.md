@@ -44,13 +44,13 @@ Hugging Face 维护的少样本微调框架：基于 Sentence Transformers 生�
 
 ```mermaid
 xychart-beta
-    title "huggingface/setfit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2842 --> 2850
-    line [2843, 2847, 2849]
+    title "huggingface/setfit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2842 --> 2851
+    line [2843, 2847, 2849, 2850]
 ```
 
-2026-10-18 2,843 → 2026-10-22 2,849（+6）
+2026-10-18 2,843 → 2026-10-23 2,850（+7）
 
 
 ---

@@ -44,13 +44,13 @@ Torchreid 是用 PyTorch 编写的行人重识别库，配套作者 ICCV'19 OSNe
 
 ```mermaid
 xychart-beta
-    title "KaiyangZhou/deep-person-reid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4925 --> 4931
-    line [4926, 4929, 4930]
+    title "KaiyangZhou/deep-person-reid 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4925 --> 4933
+    line [4926, 4929, 4930, 4932]
 ```
 
-2026-10-18 4,926 → 2026-10-22 4,930（+4）
+2026-10-18 4,926 → 2026-10-23 4,932（+6）
 
 
 ---

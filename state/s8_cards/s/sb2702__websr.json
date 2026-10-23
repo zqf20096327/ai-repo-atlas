@@ -1,1 +1,80 @@
-{"fn": "sb2702/websr", "sha": "00a4729efbdb", "source": "readme", "identity": {"one_liner": "浏览器内实时 AI 超分辨率 JS 库，用 WebGPU 放大视频/图像", "review": "面向 Web 开发者的 JavaScript/SDK 库，通过手写 WebGPU compute shader 在浏览器中实时运行神经网络超分辨率，将视频帧/图像放大后绘制到 canvas。提供 3 种网络规模（Small/Medium/Large）与动画、实景、3D 三类预训练权重，支持 OffscreenCanvas worker 线程处理、运行时动态切换网络、手动渲染控制，并附带 TensorFlow 自定义训练管线与权重导出工具。README 自述项目尚在开发中，API 可能在版本间变化，不建议在生产环境使用。", "highlights": ["WebGPU compute shader 实现的 CNN 实时视频超分辨率", "三种网络规模与动画/实景/3D 内容预训练权重", "OffscreenCanvas worker 线程处理与运行时网络切换", "附带自定义训练管线（Jupyter notebooks）与权重导出工具"], "use_cases": ["在 Web 视频应用中实时提升低分辨率视频画质", "WebRTC 场景下带宽受限时以低码率传输、本地放大补画质", "针对特定内容（如医疗影像、特定美术风格）训练定制超分模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [10]}}, "links": {"scenario_tags": ["超分辨率", "WebGPU", "视频处理", "浏览器端推理", "JavaScript库"], "domain": "图像/视频处理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A free and open-source Javascript library / SDK for running practical, real-time AI Upscaling of videos and images on th", "L14: - ✅ Real-time AI upscaling using WebGPU compute shaders", "L114: WebSR uses hand-written WebGPU shaders to implement Convolutional Neural Networks (like this one from Anime4K)."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sb2702/websr",
+ "sha": "00a4729efbdb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器内实时 AI 超分辨率 JS 库，用 WebGPU 放大视频/图像",
+  "review": "面向 Web 开发者的 JavaScript/SDK 库，通过手写 WebGPU compute shader 在浏览器中实时运行神经网络超分辨率，将视频帧/图像放大后绘制到 canvas。提供 3 种网络规模（Small/Medium/Large）与动画、实景、3D 三类预训练权重，支持 OffscreenCanvas worker 线程处理、运行时动态切换网络、手动渲染控制，并附带 TensorFlow 自定义训练管线与权重导出工具。README 自述项目尚在开发中，API 可能在版本间变化，不建议在生产环境使用。",
+  "highlights": [
+   "WebGPU compute shader 实现的 CNN 实时视频超分辨率",
+   "三种网络规模与动画/实景/3D 内容预训练权重",
+   "OffscreenCanvas worker 线程处理与运行时网络切换",
+   "附带自定义训练管线（Jupyter notebooks）与权重导出工具"
+  ],
+  "use_cases": [
+   "在 Web 视频应用中实时提升低分辨率视频画质",
+   "WebRTC 场景下带宽受限时以低码率传输、本地放大补画质",
+   "针对特定内容（如医疗影像、特定美术风格）训练定制超分模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    10
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "超分辨率",
+   "WebGPU",
+   "视频处理",
+   "浏览器端推理",
+   "JavaScript库"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A free and open-source Javascript library / SDK for running practical, real-time AI Upscaling of videos and images on th",
+   "L14: - ✅ Real-time AI upscaling using WebGPU compute shaders",
+   "L114: WebSR uses hand-written WebGPU shaders to implement Convolutional Neural Networks (like this one from Anime4K)."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

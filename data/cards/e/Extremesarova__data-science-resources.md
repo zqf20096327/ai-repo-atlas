@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Extremesarova/data-science-resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Extremesarova/data-science-resources 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 166 --> 169
-    line [167, 168]
+    line [167, 168, 168]
 ```
 
-2026-10-18 167 → 2026-10-22 168（+1）
+2026-10-18 167 → 2026-10-23 168（+1）
 
 
 ---

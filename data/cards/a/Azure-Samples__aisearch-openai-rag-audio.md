@@ -45,13 +45,13 @@ Azure-Samples 维护的 VoiceRAG 模式示例应用：浏览器采集语音输�
 
 ```mermaid
 xychart-beta
-    title "Azure-Samples/aisearch-openai-rag-audio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Azure-Samples/aisearch-openai-rag-audio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 561 --> 564
-    line [562, 563]
+    line [562, 563, 563]
 ```
 
-2026-10-18 562 → 2026-10-22 563（+1）
+2026-10-18 562 → 2026-10-23 563（+1）
 
 
 ---

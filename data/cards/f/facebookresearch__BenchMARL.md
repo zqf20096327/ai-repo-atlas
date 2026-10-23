@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "facebookresearch/BenchMARL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "facebookresearch/BenchMARL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 674 --> 677
-    line [675, 676]
+    line [675, 676, 676]
 ```
 
-2026-10-18 675 → 2026-10-22 676（+1）
+2026-10-18 675 → 2026-10-23 676（+1）
 
 
 ---

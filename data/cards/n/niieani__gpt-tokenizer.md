@@ -44,13 +44,13 @@ gpt-tokenizer 是用 TypeScript 编写的字节对编码（BPE）分词/解码�
 
 ```mermaid
 xychart-beta
-    title "niieani/gpt-tokenizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "niieani/gpt-tokenizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 854 --> 857
-    line [855, 856]
+    line [855, 856, 856]
 ```
 
-2026-10-18 855 → 2026-10-22 856（+1）
+2026-10-18 855 → 2026-10-23 856（+1）
 
 
 ---

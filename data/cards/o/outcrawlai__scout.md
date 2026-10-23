@@ -44,13 +44,13 @@ TypeScript 实现的开源 agent，通过 CDP 驱动真实 Chrome/Chromium 浏�
 
 ```mermaid
 xychart-beta
-    title "outcrawlai/scout 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "outcrawlai/scout 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 927 --> 963
-    line [930, 949, 960]
+    line [930, 949, 960, 941]
 ```
 
-2026-10-18 930 → 2026-10-22 960（+30）
+2026-10-18 930 → 2026-10-23 941（+11）
 
 
 ---

@@ -46,12 +46,12 @@ AIWG 将 agents、skills、rules、templates 与工作流工具打包为 Markdow
 ```mermaid
 xychart-beta
     title "jmagly/aiwg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 223 --> 225
-    line [224, 224]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 223 --> 226
+    line [224, 225]
 ```
 
-2026-10-18 224 → 2026-10-21 224（+0）
+2026-10-18 224 → 2026-10-23 225（+1）
 
 
 ---

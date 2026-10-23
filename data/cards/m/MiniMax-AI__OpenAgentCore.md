@@ -45,13 +45,13 @@ MiniMax 开源的自托管 agent 运行时：提供与 OpenAI Agents API 相同�
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/OpenAgentCore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 232 --> 242
-    line [233, 236, 241]
+    title "MiniMax-AI/OpenAgentCore 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 232 --> 245
+    line [233, 236, 241, 244]
 ```
 
-2026-10-18 233 → 2026-10-22 241（+8）
+2026-10-18 233 → 2026-10-23 244（+11）
 
 
 ---

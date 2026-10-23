@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vual/ChatGPT-Next-Web-Pro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "vual/ChatGPT-Next-Web-Pro 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 800 --> 803
-    line [802, 801]
+    line [802, 801, 802]
 ```
 
-2026-10-18 802 → 2026-10-22 801（-1）
+2026-10-18 802 → 2026-10-23 802（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Amazon 维护的开源 Python SDK，用于在 Amazon SageMaker 托管服务上�
 ```mermaid
 xychart-beta
     title "aws/sagemaker-python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 2268 --> 2270
     line [2269, 2269]
 ```
 
-2026-10-18 2,269 → 2026-10-22 2,269（+0）
+2026-10-18 2,269 → 2026-10-23 2,269（+0）
 
 
 ---

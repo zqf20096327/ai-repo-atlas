@@ -45,13 +45,13 @@ OpenDroid 是一个 Android 原生应用（Kotlin/Jetpack Compose，Dagger-Hilt 
 
 ```mermaid
 xychart-beta
-    title "yashab-cyber/opendroid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1158 --> 1186
-    line [1160, 1176, 1184]
+    title "yashab-cyber/opendroid 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1158 --> 1191
+    line [1160, 1176, 1184, 1189]
 ```
 
-2026-10-18 1,160 → 2026-10-22 1,184（+24）
+2026-10-18 1,160 → 2026-10-23 1,189（+29）
 
 
 ---

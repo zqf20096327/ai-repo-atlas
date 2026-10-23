@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 333 --> 340
-    line [334, 338, 339]
+    title "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 333 --> 341
+    line [334, 338, 339, 340]
 ```
 
-2026-10-18 334 → 2026-10-22 339（+5）
+2026-10-18 334 → 2026-10-23 340（+6）
 
 
 ---

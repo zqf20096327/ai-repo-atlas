@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sec-Link/Argus-Agentic-SOC-Platform 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1203 --> 1206
-    line [1204, 1205]
+    title "Sec-Link/Argus-Agentic-SOC-Platform 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1177 --> 1207
+    line [1204, 1205, 1179]
 ```
 
-2026-10-18 1,204 → 2026-10-22 1,205（+1）
+2026-10-18 1,204 → 2026-10-23 1,179（-25）
 
 
 ---

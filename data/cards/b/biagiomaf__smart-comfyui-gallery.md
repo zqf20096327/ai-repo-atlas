@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "biagiomaf/smart-comfyui-gallery 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "biagiomaf/smart-comfyui-gallery 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 391 --> 395
-    line [392, 393, 394]
+    line [392, 393, 394, 394]
 ```
 
-2026-10-18 392 → 2026-10-22 394（+2）
+2026-10-18 392 → 2026-10-23 394（+2）
 
 
 ---

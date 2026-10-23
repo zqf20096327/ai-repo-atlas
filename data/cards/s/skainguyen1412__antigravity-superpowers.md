@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skainguyen1412/antigravity-superpowers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 328 --> 330
-    line [329, 329]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 328 --> 331
+    line [329, 330]
 ```
 
-2026-10-18 329 → 2026-10-22 329（+0）
+2026-10-18 329 → 2026-10-23 330（+1）
 
 
 ---

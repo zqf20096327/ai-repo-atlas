@@ -46,13 +46,13 @@ Compose Multiplatform 构建的桌面应用（macOS/Windows/Linux），面向终
 
 ```mermaid
 xychart-beta
-    title "askimo-ai/askimo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 527 --> 535
-    line [528, 532, 534]
+    title "askimo-ai/askimo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 527 --> 536
+    line [528, 532, 534, 535]
 ```
 
-2026-10-18 528 → 2026-10-22 534（+6）
+2026-10-18 528 → 2026-10-23 535（+7）
 
 
 ---

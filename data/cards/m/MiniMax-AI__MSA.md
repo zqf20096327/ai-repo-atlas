@@ -45,12 +45,12 @@ MiniMax 开源的 CUDA 注意力内核 Python 包 fmha_sm100，包含两条 JIT 
 ```mermaid
 xychart-beta
     title "MiniMax-AI/MSA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 431 --> 433
-    line [432, 432]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 430 --> 433
+    line [432, 431]
 ```
 
-2026-10-18 432 → 2026-10-22 432（+0）
+2026-10-18 432 → 2026-10-23 431（-1）
 
 
 ---

@@ -45,13 +45,13 @@ Cognizant AI Lab 维护的 Neuro SAN 框架 playground：提供可运行示例�
 
 ```mermaid
 xychart-beta
-    title "cognizant-ai-lab/neuro-san-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "cognizant-ai-lab/neuro-san-studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1154 --> 1168
-    line [1155, 1166, 1167]
+    line [1155, 1166, 1167, 1167]
 ```
 
-2026-10-18 1,155 → 2026-10-22 1,167（+12）
+2026-10-18 1,155 → 2026-10-23 1,167（+12）
 
 
 ---

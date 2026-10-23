@@ -44,12 +44,12 @@ Google 开源的 LLM 推理引擎，面向 XLA 设备（首发 TPU，GPU 在规�
 ```mermaid
 xychart-beta
     title "AI-Hypercomputer/JetStream 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 469 --> 471
     line [470, 470]
 ```
 
-2026-10-18 470 → 2026-10-22 470（+0）
+2026-10-18 470 → 2026-10-23 470（+0）
 
 
 ---

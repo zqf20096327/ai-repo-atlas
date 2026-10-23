@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnotiaWang/awesome-decision-models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 649 --> 658
-    line [650, 655, 657]
+    title "AnotiaWang/awesome-decision-models 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 649 --> 660
+    line [650, 655, 657, 659]
 ```
 
-2026-10-18 650 → 2026-10-22 657（+7）
+2026-10-18 650 → 2026-10-23 659（+9）
 
 
 ---

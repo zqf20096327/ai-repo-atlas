@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "spitfireuptown/datalinkx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "spitfireuptown/datalinkx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 379 --> 382
-    line [380, 381]
+    line [380, 381, 381]
 ```
 
-2026-10-18 380 → 2026-10-22 381（+1）
+2026-10-18 380 → 2026-10-23 381（+1）
 
 
 ---

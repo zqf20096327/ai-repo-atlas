@@ -1,1 +1,77 @@
-{"fn": "rzru/nightingale", "sha": "e99695d3b349", "source": "readme", "identity": {"one_liner": "本地音乐库的 AI 卡拉OK应用：分离人声、生成歌词、打分", "review": "桌面（Tauri）与自托管 Web 双形态的卡拉OK应用，Rust 核心 + React 前端。可扫描本地音频/视频/UltraStar 文件，或接入 Plex、Jellyfin、Navidrome。AI 部分：用 UVR Karaoke 或 Demucs 分离人声，通过 LRCLIB、本地 LRC 或自动转录对齐生成逐字歌词。支持同步歌词高亮、麦克风音高评分、变速变调、2-4 人本地多人。分析产物按 BLAKE3 哈希缓存，首启下载若干 GB 的隔离运行时与模型，GPU 加速可选，无 CUDA/Apple Silicon 时回退 CPU。", "highlights": ["UVR Karaoke / Demucs 本地分离人声，LRCLIB 或自动转录生成对齐歌词", "桌面与自托管 Web 共享同一 Rust 核心与 React 前端", "音高评分、变速变调、2-4 人本地多人、队列与 Session 模式", "分析进程常驻并按源哈希缓存 stems/转录/歌词"], "use_cases": ["把已有音乐库变成可打分的卡拉OK曲库", "派对上多人同唱并比拼分数", "自托管 Web 模式在大屏或手机上办卡拉OK之夜"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["卡拉OK", "音源分离", "歌词对齐", "桌面应用", "自托管"], "domain": "多媒体/娱乐应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: Nightingale turns music you already have into karaoke. It can separate lead vocals, find or produce word-timed lyrics, a", "L23: - **Prepare tracks locally** — separate vocals with UVR Karaoke or Demucs, then use LRCLIB, local or pasted LRC, or auto"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rzru/nightingale",
+ "sha": "e99695d3b349",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地音乐库的 AI 卡拉OK应用：分离人声、生成歌词、打分",
+  "review": "桌面（Tauri）与自托管 Web 双形态的卡拉OK应用，Rust 核心 + React 前端。可扫描本地音频/视频/UltraStar 文件，或接入 Plex、Jellyfin、Navidrome。AI 部分：用 UVR Karaoke 或 Demucs 分离人声，通过 LRCLIB、本地 LRC 或自动转录对齐生成逐字歌词。支持同步歌词高亮、麦克风音高评分、变速变调、2-4 人本地多人。分析产物按 BLAKE3 哈希缓存，首启下载若干 GB 的隔离运行时与模型，GPU 加速可选，无 CUDA/Apple Silicon 时回退 CPU。",
+  "highlights": [
+   "UVR Karaoke / Demucs 本地分离人声，LRCLIB 或自动转录生成对齐歌词",
+   "桌面与自托管 Web 共享同一 Rust 核心与 React 前端",
+   "音高评分、变速变调、2-4 人本地多人、队列与 Session 模式",
+   "分析进程常驻并按源哈希缓存 stems/转录/歌词"
+  ],
+  "use_cases": [
+   "把已有音乐库变成可打分的卡拉OK曲库",
+   "派对上多人同唱并比拼分数",
+   "自托管 Web 模式在大屏或手机上办卡拉OK之夜"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "卡拉OK",
+   "音源分离",
+   "歌词对齐",
+   "桌面应用",
+   "自托管"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: Nightingale turns music you already have into karaoke. It can separate lead vocals, find or produce word-timed lyrics, a",
+   "L23: - **Prepare tracks locally** — separate vocals with UVR Karaoke or Demucs, then use LRCLIB, local or pasted LRC, or auto"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

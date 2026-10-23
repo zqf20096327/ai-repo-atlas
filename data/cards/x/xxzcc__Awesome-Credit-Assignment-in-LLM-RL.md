@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xxzcc/Awesome-Credit-Assignment-in-LLM-RL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 218 --> 220
-    line [219, 219]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 218 --> 222
+    line [219, 221]
 ```
 
-2026-10-18 219 → 2026-10-21 219（+0）
+2026-10-18 219 → 2026-10-23 221（+2）
 
 
 ---

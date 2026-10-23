@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jasoncheng7115/jt-doc-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 241 --> 244
-    line [242, 243]
+    title "jasoncheng7115/jt-doc-tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 241 --> 245
+    line [242, 243, 244]
 ```
 
-2026-10-18 242 → 2026-10-22 243（+1）
+2026-10-18 242 → 2026-10-23 244（+2）
 
 
 ---

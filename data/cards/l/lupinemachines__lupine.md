@@ -46,12 +46,12 @@ LUPINE 通过客户端 libcuda/NVML/NCCL/nvSHMEM/HIP shim 库把 CUDA 驱动调�
 ```mermaid
 xychart-beta
     title "lupinemachines/lupine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2449 --> 2452
-    line [2450, 2451, 2451]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 2449 --> 2454
+    line [2450, 2451, 2453]
 ```
 
-2026-10-18 2,450 → 2026-10-22 2,451（+1）
+2026-10-18 2,450 → 2026-10-23 2,453（+3）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1879 --> 1888
-    line [1880, 1885, 1887]
+    title "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1879 --> 1889
+    line [1880, 1885, 1887, 1888]
 ```
 
-2026-10-18 1,880 → 2026-10-22 1,887（+7）
+2026-10-18 1,880 → 2026-10-23 1,888（+8）
 
 
 ---

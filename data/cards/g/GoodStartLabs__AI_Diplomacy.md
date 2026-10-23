@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GoodStartLabs/AI_Diplomacy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 707 --> 710
-    line [708, 709]
+    title "GoodStartLabs/AI_Diplomacy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 707 --> 711
+    line [708, 709, 710]
 ```
 
-2026-10-18 708 → 2026-10-22 709（+1）
+2026-10-18 708 → 2026-10-23 710（+2）
 
 
 ---

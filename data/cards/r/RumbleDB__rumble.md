@@ -46,12 +46,12 @@ RumbleDB 是构建在 Apache Spark 之上的查询引擎，以 JSONiq 查询语�
 ```mermaid
 xychart-beta
     title "RumbleDB/rumble 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 248 --> 250
     line [249, 249]
 ```
 
-2026-10-18 249 → 2026-10-22 249（+0）
+2026-10-18 249 → 2026-10-23 249（+0）
 
 
 ---

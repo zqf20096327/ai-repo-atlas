@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "labtether/labtether 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 249 --> 253
-    line [250, 252]
+    title "labtether/labtether 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 233 --> 253
+    line [250, 252, 234]
 ```
 
-2026-10-18 250 → 2026-10-22 252（+2）
+2026-10-18 250 → 2026-10-23 234（-16）
 
 
 ---

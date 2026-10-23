@@ -46,12 +46,12 @@ Nebius 维护的 Kubernetes operator：将单个 SlurmCluster 自定义资源转
 ```mermaid
 xychart-beta
     title "nebius/soperator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 447 --> 452
-    line [448, 451, 451]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 447 --> 454
+    line [448, 451, 453]
 ```
 
-2026-10-18 448 → 2026-10-22 451（+3）
+2026-10-18 448 → 2026-10-23 453（+5）
 
 
 ---

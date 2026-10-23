@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "thuml/awesome-multi-task-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 841 --> 843
-    line [842, 842]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 840 --> 843
+    line [842, 841]
 ```
 
-2026-10-18 842 → 2026-10-22 842（+0）
+2026-10-18 842 → 2026-10-23 841（-1）
 
 
 ---

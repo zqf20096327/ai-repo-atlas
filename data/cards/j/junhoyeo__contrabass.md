@@ -46,12 +46,12 @@ Go + Charm 栈实现的终端优先编排器，是 OpenAI Symphony 的重实现�
 ```mermaid
 xychart-beta
     title "junhoyeo/contrabass 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 223 --> 225
-    line [224, 224]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 222 --> 225
+    line [224, 223]
 ```
 
-2026-10-18 224 → 2026-10-22 224（+0）
+2026-10-18 224 → 2026-10-23 223（-1）
 
 
 ---

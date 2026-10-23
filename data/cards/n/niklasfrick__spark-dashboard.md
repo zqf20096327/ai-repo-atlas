@@ -46,12 +46,12 @@ Rust 后端通过 NVML、sysinfo、procfs 采集 GPU/CPU/内存/磁盘/网络指
 ```mermaid
 xychart-beta
     title "niklasfrick/spark-dashboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 135 --> 137
     line [136, 136]
 ```
 
-2026-10-18 136 → 2026-10-22 136（+0）
+2026-10-18 136 → 2026-10-23 136（+0）
 
 
 ---

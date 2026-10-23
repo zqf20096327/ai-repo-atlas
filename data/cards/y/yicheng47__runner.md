@@ -46,12 +46,12 @@ Runner 是原生 macOS/Windows 桌面应用，把 Claude Code、Codex、Copilot 
 ```mermaid
 xychart-beta
     title "yicheng47/runner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 333 --> 342
-    line [334, 341, 341]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 332 --> 364
+    line [334, 341, 362]
 ```
 
-2026-10-18 334 → 2026-10-21 341（+7）
+2026-10-18 334 → 2026-10-23 362（+28）
 
 
 ---

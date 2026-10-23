@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "3DOM-FBK/deep-image-matching 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "3DOM-FBK/deep-image-matching 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 550 --> 553
-    line [551, 552]
+    line [551, 552, 552]
 ```
 
-2026-10-18 551 → 2026-10-22 552（+1）
+2026-10-18 551 → 2026-10-23 552（+1）
 
 
 ---

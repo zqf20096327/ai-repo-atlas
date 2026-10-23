@@ -44,13 +44,13 @@ Morphik Core 是一个开源（source-available，BSL 1.1）的多模态检索�
 
 ```mermaid
 xychart-beta
-    title "morphik-org/morphik-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "morphik-org/morphik-core 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3715 --> 3719
-    line [3716, 3717, 3718]
+    line [3716, 3717, 3718, 3718]
 ```
 
-2026-10-18 3,716 → 2026-10-22 3,718（+2）
+2026-10-18 3,716 → 2026-10-23 3,718（+2）
 
 
 ---

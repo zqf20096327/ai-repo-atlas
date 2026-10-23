@@ -46,12 +46,12 @@ Hyperfide 是以单个 `hyperfide` 可执行文件（纯 C11 + SQLite，无遥�
 ```mermaid
 xychart-beta
     title "Sidiora-Labs/hyperfide 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-22"]
+    x-axis ["2026-10-19", "2026-10-23"]
     y-axis "stars" 432 --> 434
     line [433, 433]
 ```
 
-2026-10-19 433 → 2026-10-22 433（+0）
+2026-10-19 433 → 2026-10-23 433（+0）
 
 
 ---

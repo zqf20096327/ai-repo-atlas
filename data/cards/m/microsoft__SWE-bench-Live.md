@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/SWE-bench-Live 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "microsoft/SWE-bench-Live 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 256 --> 259
-    line [257, 258]
+    line [257, 258, 258]
 ```
 
-2026-10-18 257 → 2026-10-22 258（+1）
+2026-10-18 257 → 2026-10-23 258（+1）
 
 
 ---

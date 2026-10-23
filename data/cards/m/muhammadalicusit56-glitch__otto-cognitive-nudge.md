@@ -45,13 +45,13 @@ EchoPact 监听用户经授权的通讯消息（邮件、聊天、任务板）�
 
 ```mermaid
 xychart-beta
-    title "muhammadalicusit56-glitch/otto-cognitive-nudge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "muhammadalicusit56-glitch/otto-cognitive-nudge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 133 --> 136
-    line [134, 135]
+    line [134, 135, 135]
 ```
 
-2026-10-18 134 → 2026-10-22 135（+1）
+2026-10-18 134 → 2026-10-23 135（+1）
 
 
 ---

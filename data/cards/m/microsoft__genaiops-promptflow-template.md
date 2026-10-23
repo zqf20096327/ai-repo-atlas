@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/genaiops-promptflow-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 367 --> 369
     line [368, 368]
 ```
 
-2026-10-18 368 → 2026-10-22 368（+0）
+2026-10-18 368 → 2026-10-23 368（+0）
 
 
 ---

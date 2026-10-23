@@ -40,6 +40,18 @@
 > L5: Matt Pocock 的 `mattpocock/skills`：第三方简体中文本地化，非官方仓库。这些 agent skills 是他每天用于真实工程工作的，不是 vibe coding：小、易改、可组合，适用于任何模型。
 > L7: 本仓库**定期同步上游**，并额外支持 DeepSeek Harness（dsh）插件安装，安装后以 `/zh-<name>` 调用任意技能（上游没有的能力，详见 `dsh-plugin/README.md`）。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vinvcn/mattpocock-skills-zh-CN 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 5154 --> 5204
+    line [5158, 5200]
+```
+
+2026-10-22 5,158 → 2026-10-23 5,200（+42）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0cd0ead8d78c` · [字段定义](../../DATASET.md)*

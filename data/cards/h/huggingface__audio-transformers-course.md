@@ -43,13 +43,13 @@ Hugging Face 官方维护的音频 Transformers 课程内容仓库：讲解将 T
 
 ```mermaid
 xychart-beta
-    title "huggingface/audio-transformers-course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 524 --> 528
-    line [525, 526, 527]
+    title "huggingface/audio-transformers-course 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 524 --> 529
+    line [525, 526, 527, 528]
 ```
 
-2026-10-18 525 → 2026-10-22 527（+2）
+2026-10-18 525 → 2026-10-23 528（+3）
 
 
 ---

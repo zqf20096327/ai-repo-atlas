@@ -40,6 +40,18 @@ Flare 是运行于 NVIDIA SM120/SM121 GPU（如 DGX Spark）的本地推理服�
 > L5: Flare is a local inference server for NVIDIA SM120/SM121 GPUs, built for
 > L15:  Helios, the Rust runtime, serves that package without Python. Compilation and
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NVIDIA/flare-local-inference 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 367 --> 623
+    line [388, 602]
+```
+
+2026-10-22 388 → 2026-10-23 602（+214）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e7d567e7b1ff` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@ Anthropic 官方仓库，提供 Claude for macOS/Windows 连接外设的蓝牙�
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-desktop-buddy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2655 --> 2664
-    line [2656, 2658, 2663]
+    title "anthropics/claude-desktop-buddy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2655 --> 2666
+    line [2656, 2658, 2663, 2665]
 ```
 
-2026-10-18 2,656 → 2026-10-22 2,663（+7）
+2026-10-18 2,656 → 2026-10-23 2,665（+9）
 
 
 ---

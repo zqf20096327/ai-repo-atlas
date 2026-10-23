@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/awesome-deepseek-integration 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 39393 --> 39466
-    line [39399, 39433, 39460]
+    title "deepseek-ai/awesome-deepseek-integration 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 39392 --> 39482
+    line [39399, 39433, 39460, 39475]
 ```
 
-2026-10-18 39,399 → 2026-10-22 39,460（+61）
+2026-10-18 39,399 → 2026-10-23 39,475（+76）
 
 
 ---

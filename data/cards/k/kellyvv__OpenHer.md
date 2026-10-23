@@ -45,13 +45,13 @@ OpenHer 是一个用 Python 编写的人格引擎，灵感来自电影《Her》�
 
 ```mermaid
 xychart-beta
-    title "kellyvv/OpenHer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 276 --> 280
-    line [277, 279]
+    title "kellyvv/OpenHer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 276 --> 281
+    line [277, 279, 280]
 ```
 
-2026-10-18 277 → 2026-10-22 279（+2）
+2026-10-18 277 → 2026-10-23 280（+3）
 
 
 ---

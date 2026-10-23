@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tejashmakwana/motionmaxxing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 810 --> 959
-    line [822, 900, 947]
+    title "Tejashmakwana/motionmaxxing 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 807 --> 992
+    line [822, 900, 947, 977]
 ```
 
-2026-10-18 822 → 2026-10-22 947（+125）
+2026-10-18 822 → 2026-10-23 977（+155）
 
 
 ---

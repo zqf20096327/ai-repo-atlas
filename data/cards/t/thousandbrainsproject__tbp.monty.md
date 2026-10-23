@@ -46,12 +46,12 @@ Thousand Brains Project 开源的感知运动学习系统实现，遵循新皮�
 ```mermaid
 xychart-beta
     title "thousandbrainsproject/tbp.monty 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 600 --> 602
-    line [601, 601]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 600 --> 603
+    line [601, 602]
 ```
 
-2026-10-18 601 → 2026-10-22 601（+0）
+2026-10-18 601 → 2026-10-23 602（+1）
 
 
 ---

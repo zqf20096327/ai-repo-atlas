@@ -44,13 +44,13 @@ Anthropic 发布的政治偏见评测方法与数据集：评测集按任务（�
 
 ```mermaid
 xychart-beta
-    title "anthropics/political-neutrality-eval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 138 --> 142
-    line [139, 140, 141]
+    title "anthropics/political-neutrality-eval 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 138 --> 143
+    line [139, 140, 141, 142]
 ```
 
-2026-10-18 139 → 2026-10-22 141（+2）
+2026-10-18 139 → 2026-10-23 142（+3）
 
 
 ---

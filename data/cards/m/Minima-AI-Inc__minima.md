@@ -45,13 +45,13 @@ Minima 以 Docker Compose 容器组形式提供本地 RAG：索引本地文件�
 
 ```mermaid
 xychart-beta
-    title "Minima-AI-Inc/minima 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1053 --> 1056
-    line [1054, 1055]
+    title "Minima-AI-Inc/minima 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1053 --> 1057
+    line [1054, 1055, 1056]
 ```
 
-2026-10-18 1,054 → 2026-10-22 1,055（+1）
+2026-10-18 1,054 → 2026-10-23 1,056（+2）
 
 
 ---

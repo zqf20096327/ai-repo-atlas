@@ -44,13 +44,13 @@ Nathan Lambert 编写的 Reinforcement Learning from Human Feedback 开源书籍
 
 ```mermaid
 xychart-beta
-    title "natolambert/rlhf-book 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2456 --> 2461
-    line [2457, 2459, 2460]
+    title "natolambert/rlhf-book 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2456 --> 2464
+    line [2457, 2459, 2460, 2463]
 ```
 
-2026-10-18 2,457 → 2026-10-22 2,460（+3）
+2026-10-18 2,457 → 2026-10-23 2,463（+6）
 
 
 ---

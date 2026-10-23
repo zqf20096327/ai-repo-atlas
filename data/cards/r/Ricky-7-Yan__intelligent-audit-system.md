@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ricky-7-Yan/intelligent-audit-system 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Ricky-7-Yan/intelligent-audit-system 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1172 --> 1176
-    line [1173, 1175]
+    line [1173, 1175, 1175]
 ```
 
-2026-10-18 1,173 → 2026-10-22 1,175（+2）
+2026-10-18 1,173 → 2026-10-23 1,175（+2）
 
 
 ---

@@ -45,13 +45,13 @@ iPhone/iPad/Mac 平台的私有 AI 聊天应用，无登录与数据收集，聊
 
 ```mermaid
 xychart-beta
-    title "ibrahimcetin/reins 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "ibrahimcetin/reins 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 551 --> 554
-    line [552, 553]
+    line [552, 553, 552]
 ```
 
-2026-10-18 552 → 2026-10-22 553（+1）
+2026-10-18 552 → 2026-10-23 552（+0）
 
 
 ---

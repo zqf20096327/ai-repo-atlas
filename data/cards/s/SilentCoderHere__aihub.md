@@ -44,13 +44,13 @@ Kotlin 编写的 Android 应用，通过 webview 将多个 AI 助手服务聚合
 
 ```mermaid
 xychart-beta
-    title "SilentCoderHere/aihub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "SilentCoderHere/aihub 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 528 --> 534
-    line [529, 531, 533]
+    line [529, 531, 533, 532]
 ```
 
-2026-10-18 529 → 2026-10-22 533（+4）
+2026-10-18 529 → 2026-10-23 532（+3）
 
 
 ---

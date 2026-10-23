@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "calmrocks/ai-engineer-notebooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 700 --> 708
-    line [701, 705, 707]
+    title "calmrocks/ai-engineer-notebooks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 700 --> 709
+    line [701, 705, 707, 708]
 ```
 
-2026-10-18 701 → 2026-10-22 707（+6）
+2026-10-18 701 → 2026-10-23 708（+7）
 
 
 ---

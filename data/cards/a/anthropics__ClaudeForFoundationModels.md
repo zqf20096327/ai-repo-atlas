@@ -45,13 +45,13 @@ Anthropic 官方维护的 Swift 包，把 Claude 包装为符合 Apple Foundatio
 
 ```mermaid
 xychart-beta
-    title "anthropics/ClaudeForFoundationModels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 325 --> 333
-    line [326, 332]
+    title "anthropics/ClaudeForFoundationModels 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 325 --> 334
+    line [326, 332, 333]
 ```
 
-2026-10-18 326 → 2026-10-22 332（+6）
+2026-10-18 326 → 2026-10-23 333（+7）
 
 
 ---

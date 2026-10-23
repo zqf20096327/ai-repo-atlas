@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChatLunaLab/chatluna 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 441 --> 444
-    line [442, 443]
+    title "ChatLunaLab/chatluna 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 441 --> 445
+    line [442, 443, 444]
 ```
 
-2026-10-18 442 → 2026-10-22 443（+1）
+2026-10-18 442 → 2026-10-23 444（+2）
 
 
 ---

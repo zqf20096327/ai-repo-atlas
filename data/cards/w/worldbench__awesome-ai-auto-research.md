@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "worldbench/awesome-ai-auto-research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 550 --> 561
-    line [551, 558, 560]
+    title "worldbench/awesome-ai-auto-research 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 550 --> 564
+    line [551, 558, 560, 563]
 ```
 
-2026-10-18 551 → 2026-10-22 560（+9）
+2026-10-18 551 → 2026-10-23 563（+12）
 
 
 ---

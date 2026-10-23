@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bkingfilm/lapian-notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 728 --> 732
-    line [729, 731]
+    title "bkingfilm/lapian-notes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 728 --> 735
+    line [729, 731, 734]
 ```
 
-2026-10-18 729 → 2026-10-22 731（+2）
+2026-10-18 729 → 2026-10-23 734（+5）
 
 
 ---

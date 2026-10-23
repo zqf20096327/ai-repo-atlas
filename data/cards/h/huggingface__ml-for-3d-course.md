@@ -43,12 +43,12 @@ Hugging Face 维护的 Machine Learning for 3D Course 课程文件仓库，作�
 ```mermaid
 xychart-beta
     title "huggingface/ml-for-3d-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 184 --> 186
     line [185, 185]
 ```
 
-2026-10-18 185 → 2026-10-22 185（+0）
+2026-10-18 185 → 2026-10-23 185（+0）
 
 
 ---

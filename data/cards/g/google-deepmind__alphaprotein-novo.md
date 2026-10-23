@@ -45,13 +45,13 @@ DeepMind 发布的酶从头设计工具：扩散模型以催化 motif 和配体�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/alphaprotein-novo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "google-deepmind/alphaprotein-novo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 296 --> 305
-    line [297, 304, 303]
+    line [297, 304, 303, 304]
 ```
 
-2026-10-18 297 → 2026-10-22 303（+6）
+2026-10-18 297 → 2026-10-23 304（+7）
 
 
 ---

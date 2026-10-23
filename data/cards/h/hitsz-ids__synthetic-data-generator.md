@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hitsz-ids/synthetic-data-generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "hitsz-ids/synthetic-data-generator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2439 --> 2442
-    line [2440, 2441]
+    line [2440, 2441, 2441]
 ```
 
-2026-10-18 2,440 → 2026-10-22 2,441（+1）
+2026-10-18 2,440 → 2026-10-23 2,441（+1）
 
 
 ---

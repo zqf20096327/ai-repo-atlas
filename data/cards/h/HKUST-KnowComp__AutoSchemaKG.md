@@ -44,13 +44,13 @@ HKUST KnowComp 团队的知识图谱构建框架，采用两阶段方法：用 L
 
 ```mermaid
 xychart-beta
-    title "HKUST-KnowComp/AutoSchemaKG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 838 --> 842
-    line [839, 841]
+    title "HKUST-KnowComp/AutoSchemaKG 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 838 --> 843
+    line [839, 841, 842]
 ```
 
-2026-10-18 839 → 2026-10-22 841（+2）
+2026-10-18 839 → 2026-10-23 842（+3）
 
 
 ---

@@ -45,13 +45,13 @@ vllm-jax（原 tpu-inference）是 vLLM 项目内的硬件插件，通过单一 
 
 ```mermaid
 xychart-beta
-    title "vllm-project/tpu-inference 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 462 --> 466
-    line [463, 464, 465]
+    title "vllm-project/tpu-inference 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 462 --> 467
+    line [463, 464, 465, 466]
 ```
 
-2026-10-18 463 → 2026-10-22 465（+2）
+2026-10-18 463 → 2026-10-23 466（+3）
 
 
 ---

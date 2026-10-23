@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fractal-Compute-Orchestrations/FractalWorkspace 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 151 --> 2865
-    line [377, 1808, 2639]
+    title "Fractal-Compute-Orchestrations/FractalWorkspace 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 69 --> 3766
+    line [377, 1808, 2639, 3458]
 ```
 
-2026-10-18 377 → 2026-10-22 2,639（+2,262）
+2026-10-18 377 → 2026-10-23 3,458（+3,081）
 
 
 ---

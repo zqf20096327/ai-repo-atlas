@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DigitalSlideArchive/HistomicsTK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "DigitalSlideArchive/HistomicsTK 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 489 --> 492
-    line [490, 491]
+    line [490, 491, 491]
 ```
 
-2026-10-18 490 → 2026-10-22 491（+1）
+2026-10-18 490 → 2026-10-23 491（+1）
 
 
 ---

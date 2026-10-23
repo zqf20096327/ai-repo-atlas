@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DasterProkio/awesome-ai-companion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 992 --> 1043
-    line [996, 1021, 1039]
+    title "DasterProkio/awesome-ai-companion 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 992 --> 1049
+    line [996, 1021, 1039, 1045]
 ```
 
-2026-10-18 996 → 2026-10-22 1,039（+43）
+2026-10-18 996 → 2026-10-23 1,045（+49）
 
 
 ---

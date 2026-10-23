@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BjornMelin/docmind-ai-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "BjornMelin/docmind-ai-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 154 --> 157
-    line [156, 155]
+    line [156, 155, 155]
 ```
 
-2026-10-18 156 → 2026-10-22 155（-1）
+2026-10-18 156 → 2026-10-23 155（-1）
 
 
 ---

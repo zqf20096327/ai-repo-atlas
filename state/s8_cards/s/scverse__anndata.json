@@ -1,1 +1,74 @@
-{"fn": "scverse/anndata", "sha": "35897a54e53d", "source": "readme", "identity": {"one_liner": "处理带标注数据矩阵的 Python 包，面向单细胞组学分析", "review": "anndata 是一个 Python 包，在内存和磁盘上处理带标注的数据矩阵，定位介于 pandas 与 xarray 之间，提供稀疏数据支持、惰性操作等计算效率特性。最初为 Scanpy 构建，是 scverse 单细胞组学生态的组成部分，由 NumFOCUS 财务赞助。配套的独立数据加载包 annbatch 提供 minibatch 加载，覆盖从线性模型到基础模型、从小型内存矩阵到 TB 级磁盘数据集的场景。有 JOSS 2024 论文可引用。", "highlights": ["内存与磁盘上的带标注数据矩阵处理，支持稀疏数据与惰性操作", "配套 annbatch 包提供面向基础模型的 minibatch 数据加载", "为 Scanpy 构建，属于 scverse 项目生态"], "use_cases": ["单细胞组学分析中存放与读取带标注的表达矩阵", "为机器学习/基础模型管线提供磁盘数据加载", "在 pandas 与 xarray 之间需求的标注矩阵结构"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.21105/joss.04371", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["单细胞组学", "数据结构/IO", "生物信息学", "Python库"], "domain": "生物信息学/数据基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L18: anndata is a Python package for handling annotated data matrices in memory and on disk, positioned between pandas and xa", "L19: A separate data loader package, annbatch, offers minibatch data loading functionality for applications ranging from line", "L25: - See Scanpy's documentation for usage related to single cell data. anndata was initially built for Scanpy."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "scverse/anndata",
+ "sha": "35897a54e53d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "处理带标注数据矩阵的 Python 包，面向单细胞组学分析",
+  "review": "anndata 是一个 Python 包，在内存和磁盘上处理带标注的数据矩阵，定位介于 pandas 与 xarray 之间，提供稀疏数据支持、惰性操作等计算效率特性。最初为 Scanpy 构建，是 scverse 单细胞组学生态的组成部分，由 NumFOCUS 财务赞助。配套的独立数据加载包 annbatch 提供 minibatch 加载，覆盖从线性模型到基础模型、从小型内存矩阵到 TB 级磁盘数据集的场景。有 JOSS 2024 论文可引用。",
+  "highlights": [
+   "内存与磁盘上的带标注数据矩阵处理，支持稀疏数据与惰性操作",
+   "配套 annbatch 包提供面向基础模型的 minibatch 数据加载",
+   "为 Scanpy 构建，属于 scverse 项目生态"
+  ],
+  "use_cases": [
+   "单细胞组学分析中存放与读取带标注的表达矩阵",
+   "为机器学习/基础模型管线提供磁盘数据加载",
+   "在 pandas 与 xarray 之间需求的标注矩阵结构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.21105/joss.04371",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "单细胞组学",
+   "数据结构/IO",
+   "生物信息学",
+   "Python库"
+  ],
+  "domain": "生物信息学/数据基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: anndata is a Python package for handling annotated data matrices in memory and on disk, positioned between pandas and xa",
+   "L19: A separate data loader package, annbatch, offers minibatch data loading functionality for applications ranging from line",
+   "L25: - See Scanpy's documentation for usage related to single cell data. anndata was initially built for Scanpy."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

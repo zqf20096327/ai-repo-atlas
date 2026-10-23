@@ -45,13 +45,13 @@ Intern-Decision 将状态、可选图像与多类问题（choice/score/noul 是�
 
 ```mermaid
 xychart-beta
-    title "InternLM/Intern-Decision 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 817 --> 860
-    line [820, 848, 857]
+    title "InternLM/Intern-Decision 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 766 --> 865
+    line [820, 848, 857, 774]
 ```
 
-2026-10-18 820 → 2026-10-22 857（+37）
+2026-10-18 820 → 2026-10-23 774（-46）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Leooo-Huang/awesome-human-activity-recognition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 240 --> 242
-    line [241, 241]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 239 --> 242
+    line [241, 240]
 ```
 
-2026-10-18 241 → 2026-10-22 241（+0）
+2026-10-18 241 → 2026-10-23 240（-1）
 
 
 ---

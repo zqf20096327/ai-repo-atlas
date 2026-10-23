@@ -45,13 +45,13 @@ Lightricks 维护的 ComfyUI 自定义节点仓库，扩展 ComfyUI 对 LTX-2 �
 
 ```mermaid
 xychart-beta
-    title "Lightricks/ComfyUI-LTXVideo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4202 --> 4209
-    line [4203, 4206, 4208]
+    title "Lightricks/ComfyUI-LTXVideo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4202 --> 4212
+    line [4203, 4206, 4208, 4211]
 ```
 
-2026-10-18 4,203 → 2026-10-22 4,208（+5）
+2026-10-18 4,203 → 2026-10-23 4,211（+8）
 
 
 ---

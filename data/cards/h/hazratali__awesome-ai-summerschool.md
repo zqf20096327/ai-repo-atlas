@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "hazratali/awesome-ai-summerschool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 745 --> 747
-    line [746, 746]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 745 --> 749
+    line [746, 748]
 ```
 
-2026-10-18 746 → 2026-10-22 746（+0）
+2026-10-18 746 → 2026-10-23 748（+2）
 
 
 ---

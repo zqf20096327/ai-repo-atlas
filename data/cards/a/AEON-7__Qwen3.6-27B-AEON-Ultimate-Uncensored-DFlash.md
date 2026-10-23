@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 479 --> 481
-    line [480, 480]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 479 --> 484
+    line [480, 483]
 ```
 
-2026-10-18 480 → 2026-10-21 480（+0）
+2026-10-18 480 → 2026-10-23 483（+3）
 
 
 ---

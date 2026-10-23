@@ -45,13 +45,13 @@ Chromium 内核、AppKit+SwiftUI 的 macOS 原生浏览器，内置可在页面�
 
 ```mermaid
 xychart-beta
-    title "phibrowser/phibrowser-mac 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 235 --> 244
-    line [236, 237, 243]
+    title "phibrowser/phibrowser-mac 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 235 --> 246
+    line [236, 237, 243, 245]
 ```
 
-2026-10-18 236 → 2026-10-22 243（+7）
+2026-10-18 236 → 2026-10-23 245（+9）
 
 
 ---

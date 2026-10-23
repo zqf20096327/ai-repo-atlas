@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mage0535/hermes-memory-installer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 209 --> 212
-    line [211, 210]
+    title "mage0535/hermes-memory-installer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 208 --> 212
+    line [211, 210, 209]
 ```
 
-2026-10-18 211 → 2026-10-22 210（-1）
+2026-10-18 211 → 2026-10-23 209（-2）
 
 
 ---

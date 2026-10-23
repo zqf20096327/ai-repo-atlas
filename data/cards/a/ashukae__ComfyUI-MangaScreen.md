@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashukae/ComfyUI-MangaScreen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 24 --> 163
-    line [35, 138, 152]
+    title "ashukae/ComfyUI-MangaScreen 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 24 --> 165
+    line [35, 138, 152, 154]
 ```
 
-2026-10-18 35 → 2026-10-22 152（+117）
+2026-10-18 35 → 2026-10-23 154（+119）
 
 
 ---

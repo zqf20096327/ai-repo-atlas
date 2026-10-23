@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aydinnyunus/ai-captcha-bypass 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "aydinnyunus/ai-captcha-bypass 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1224 --> 1227
-    line [1225, 1226]
+    line [1225, 1226, 1226]
 ```
 
-2026-10-18 1,225 → 2026-10-22 1,226（+1）
+2026-10-18 1,225 → 2026-10-23 1,226（+1）
 
 
 ---

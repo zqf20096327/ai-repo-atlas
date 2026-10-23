@@ -45,13 +45,13 @@ Elastic 官方维护的 Model Context Protocol 服务器，以 Docker 容器形�
 
 ```mermaid
 xychart-beta
-    title "elastic/mcp-server-elasticsearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 718 --> 724
-    line [719, 723]
+    title "elastic/mcp-server-elasticsearch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 718 --> 726
+    line [719, 723, 725]
 ```
 
-2026-10-18 719 → 2026-10-22 723（+4）
+2026-10-18 719 → 2026-10-23 725（+6）
 
 
 ---

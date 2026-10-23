@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anhtester/antigravity-testing-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "anhtester/antigravity-testing-kit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 144 --> 148
-    line [145, 146, 147]
+    line [145, 146, 147, 147]
 ```
 
-2026-10-18 145 → 2026-10-22 147（+2）
+2026-10-18 145 → 2026-10-23 147（+2）
 
 
 ---

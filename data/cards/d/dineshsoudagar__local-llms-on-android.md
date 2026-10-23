@@ -46,13 +46,13 @@ Android 应用，把手机变成本地 LLM 运行环境：应用内或 PC 浏览
 
 ```mermaid
 xychart-beta
-    title "dineshsoudagar/local-llms-on-android 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 455 --> 462
-    line [456, 459, 461]
+    title "dineshsoudagar/local-llms-on-android 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 455 --> 463
+    line [456, 459, 461, 462]
 ```
 
-2026-10-18 456 → 2026-10-22 461（+5）
+2026-10-18 456 → 2026-10-23 462（+6）
 
 
 ---

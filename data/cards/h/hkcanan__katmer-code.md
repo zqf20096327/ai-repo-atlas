@@ -45,13 +45,13 @@ Obsidian 桌面端插件，在侧边栏接入 Claude Code、Gemini、Codex、Ant
 
 ```mermaid
 xychart-beta
-    title "hkcanan/katmer-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "hkcanan/katmer-code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 473 --> 477
-    line [474, 475, 476]
+    line [474, 475, 476, 476]
 ```
 
-2026-10-18 474 → 2026-10-22 476（+2）
+2026-10-18 474 → 2026-10-23 476（+2）
 
 
 ---

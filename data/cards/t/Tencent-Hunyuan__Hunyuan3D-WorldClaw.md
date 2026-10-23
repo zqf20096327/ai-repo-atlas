@@ -42,13 +42,13 @@ WorldClaw 是腾讯混元团队的研究项目，主题为 Agentic 3D 开放世�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hunyuan3D-WorldClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1391 --> 1407
-    line [1392, 1403, 1406]
+    title "Tencent-Hunyuan/Hunyuan3D-WorldClaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1391 --> 1408
+    line [1392, 1403, 1406, 1407]
 ```
 
-2026-10-18 1,392 → 2026-10-22 1,406（+14）
+2026-10-18 1,392 → 2026-10-23 1,407（+15）
 
 
 ---

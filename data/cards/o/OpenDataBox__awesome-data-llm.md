@@ -46,12 +46,12 @@ survey 论文 "A Survey of LLM × DATA" 的官方仓库，按论文结构收录�
 ```mermaid
 xychart-beta
     title "OpenDataBox/awesome-data-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 832 --> 834
     line [833, 833]
 ```
 
-2026-10-18 833 → 2026-10-21 833（+0）
+2026-10-18 833 → 2026-10-23 833（+0）
 
 
 ---

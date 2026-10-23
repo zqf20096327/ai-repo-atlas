@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "software-mansion/react-native-executorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1764 --> 1771
-    line [1765, 1767, 1770]
+    title "software-mansion/react-native-executorch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1764 --> 1774
+    line [1765, 1767, 1770, 1773]
 ```
 
-2026-10-18 1,765 → 2026-10-22 1,770（+5）
+2026-10-18 1,765 → 2026-10-23 1,773（+8）
 
 
 ---

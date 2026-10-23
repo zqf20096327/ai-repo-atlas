@@ -44,13 +44,13 @@ ReductStore 是高性能、时间索引的二进制对象存储系统，用于�
 
 ```mermaid
 xychart-beta
-    title "reductstore/reductstore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "reductstore/reductstore 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 373 --> 376
-    line [374, 375]
+    line [374, 375, 375]
 ```
 
-2026-10-18 374 → 2026-10-22 375（+1）
+2026-10-18 374 → 2026-10-23 375（+1）
 
 
 ---

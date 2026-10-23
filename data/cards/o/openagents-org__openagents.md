@@ -45,13 +45,13 @@ OpenAgents Workspace 提供一个统一工作区（workspace），将运行在�
 
 ```mermaid
 xychart-beta
-    title "openagents-org/openagents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4225 --> 4244
-    line [4226, 4237, 4243]
+    title "openagents-org/openagents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4224 --> 4249
+    line [4226, 4237, 4243, 4247]
 ```
 
-2026-10-18 4,226 → 2026-10-22 4,243（+17）
+2026-10-18 4,226 → 2026-10-23 4,247（+21）
 
 
 ---

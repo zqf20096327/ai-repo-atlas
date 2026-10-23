@@ -44,13 +44,13 @@ OpenAI 维护的示例库：收录全部由 GPT-5/GPT-5.2 单次提示生成、�
 
 ```mermaid
 xychart-beta
-    title "openai/gpt-5-coding-examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1908 --> 1911
-    line [1909, 1910]
+    title "openai/gpt-5-coding-examples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1908 --> 1912
+    line [1909, 1910, 1911]
 ```
 
-2026-10-18 1,909 → 2026-10-22 1,910（+1）
+2026-10-18 1,909 → 2026-10-23 1,911（+2）
 
 
 ---

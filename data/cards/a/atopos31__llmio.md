@@ -44,13 +44,13 @@ Go 实现的 LLM 负载均衡网关，对外提供兼容 OpenAI / Anthropic / Ge
 
 ```mermaid
 xychart-beta
-    title "atopos31/llmio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 318 --> 322
-    line [319, 321]
+    title "atopos31/llmio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 318 --> 323
+    line [319, 321, 322]
 ```
 
-2026-10-18 319 → 2026-10-22 321（+2）
+2026-10-18 319 → 2026-10-23 322（+3）
 
 
 ---

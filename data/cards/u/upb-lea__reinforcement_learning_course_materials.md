@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "upb-lea/reinforcement_learning_course_materials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 1198 --> 1200
     line [1199, 1199]
 ```
 
-2026-10-18 1,199 → 2026-10-22 1,199（+0）
+2026-10-18 1,199 → 2026-10-23 1,199（+0）
 
 
 ---

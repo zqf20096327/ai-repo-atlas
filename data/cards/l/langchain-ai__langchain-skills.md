@@ -44,13 +44,13 @@ LangChain 官方维护的编码 agent 技能集合：提供 21 个 SKILL.md 格�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1293 --> 1300
-    line [1294, 1297, 1299]
+    title "langchain-ai/langchain-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1293 --> 1301
+    line [1294, 1297, 1299, 1300]
 ```
 
-2026-10-18 1,294 → 2026-10-22 1,299（+5）
+2026-10-18 1,294 → 2026-10-23 1,300（+6）
 
 
 ---

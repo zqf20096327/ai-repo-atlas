@@ -46,13 +46,13 @@ Neuronpedia 是开源的可解释性（interpretability）平台，提供 SAE �
 
 ```mermaid
 xychart-beta
-    title "hijohnnylin/neuronpedia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1169 --> 1179
-    line [1170, 1176, 1178]
+    title "hijohnnylin/neuronpedia 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1169 --> 1180
+    line [1170, 1176, 1178, 1179]
 ```
 
-2026-10-18 1,170 → 2026-10-22 1,178（+8）
+2026-10-18 1,170 → 2026-10-23 1,179（+9）
 
 
 ---

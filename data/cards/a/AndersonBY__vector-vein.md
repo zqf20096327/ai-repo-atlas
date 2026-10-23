@@ -47,12 +47,12 @@ VectorVein 是基于 pywebview 的无代码 AI 工作流软件，用户通过拖
 ```mermaid
 xychart-beta
     title "AndersonBY/vector-vein 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 939 --> 941
     line [940, 940]
 ```
 
-2026-10-18 940 → 2026-10-22 940（+0）
+2026-10-18 940 → 2026-10-23 940（+0）
 
 
 ---

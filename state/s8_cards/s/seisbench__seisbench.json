@@ -1,1 +1,78 @@
-{"fn": "seisbench/seisbench", "sha": "c18716b563c0", "source": "readme", "identity": {"one_liner": "地震学机器学习工具箱：统一 API 加载数据集、训练与应用模型", "review": "开源 Python 工具箱，为地震学任务提供机器学习的统一接口。含三个核心模块：data 提供基准地震数据集的访问与加载，models 收录地震学模型并支持创建、加载预训练权重或在任意数据集上训练，generate 提供数据生成流水线工具。覆盖震相拾取、去噪、深度估计、事件目录构建（GaMMA/PyOcto）及 DAS（分布式声波传感）数据的训练与应用。面向地震学科研与开发者，通过 pip 安装，基于 PyTorch，支持 CPU 或 CUDA GPU 运行，并提供 Colab 示例笔记本。", "highlights": ["data/models/generate 三模块统一 API", "内置地震学模型集合，可加载预训练权重或自训练", "支持 DAS 数据的训练与应用（seisbench[das]）", "提供 Colab 教程笔记本与纯 CPU 两步安装方式"], "use_cases": ["在基准地震数据集上训练或应用震相拾取模型", "用 GaMMA/PyOcto 构建地震事件目录", "对 DAS 数据训练和应用深度学习模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": "cpu-ok", "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["地震学", "深度学习", "科学计算", "基准数据集", "Python库"], "domain": "地球物理/地震学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: The Seismology Benchmark collection (*SeisBench*) is an open-source python toolbox for", "L10: It provides a unified API for accessing seismic datasets and both training and applying machine learning algorithms to s", "L18: You can easily create models, load pretrained models or train models on any dataset."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "seisbench/seisbench",
+ "sha": "c18716b563c0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "地震学机器学习工具箱：统一 API 加载数据集、训练与应用模型",
+  "review": "开源 Python 工具箱，为地震学任务提供机器学习的统一接口。含三个核心模块：data 提供基准地震数据集的访问与加载，models 收录地震学模型并支持创建、加载预训练权重或在任意数据集上训练，generate 提供数据生成流水线工具。覆盖震相拾取、去噪、深度估计、事件目录构建（GaMMA/PyOcto）及 DAS（分布式声波传感）数据的训练与应用。面向地震学科研与开发者，通过 pip 安装，基于 PyTorch，支持 CPU 或 CUDA GPU 运行，并提供 Colab 示例笔记本。",
+  "highlights": [
+   "data/models/generate 三模块统一 API",
+   "内置地震学模型集合，可加载预训练权重或自训练",
+   "支持 DAS 数据的训练与应用（seisbench[das]）",
+   "提供 Colab 教程笔记本与纯 CPU 两步安装方式"
+  ],
+  "use_cases": [
+   "在基准地震数据集上训练或应用震相拾取模型",
+   "用 GaMMA/PyOcto 构建地震事件目录",
+   "对 DAS 数据训练和应用深度学习模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "地震学",
+   "深度学习",
+   "科学计算",
+   "基准数据集",
+   "Python库"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: The Seismology Benchmark collection (*SeisBench*) is an open-source python toolbox for",
+   "L10: It provides a unified API for accessing seismic datasets and both training and applying machine learning algorithms to s",
+   "L18: You can easily create models, load pretrained models or train models on any dataset."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

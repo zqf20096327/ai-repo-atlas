@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vstorm-co/full-stack-ai-agent-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1950 --> 1954
-    line [1951, 1952, 1953]
+    title "vstorm-co/full-stack-ai-agent-template 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1950 --> 1955
+    line [1951, 1952, 1953, 1954]
 ```
 
-2026-10-18 1,951 → 2026-10-22 1,953（+2）
+2026-10-18 1,951 → 2026-10-23 1,954（+3）
 
 
 ---

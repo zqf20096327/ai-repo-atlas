@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "woaiys3/deepseek-harness-android-app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 478 --> 556
-    line [484, 519, 550]
+    title "woaiys3/deepseek-harness-android-app 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 476 --> 577
+    line [484, 519, 550, 569]
 ```
 
-2026-10-18 484 → 2026-10-22 550（+66）
+2026-10-18 484 → 2026-10-23 569（+85）
 
 
 ---

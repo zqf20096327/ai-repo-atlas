@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "designcomputer/mysql_mcp_server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1398 --> 1401
-    line [1399, 1400]
+    title "designcomputer/mysql_mcp_server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1398 --> 1403
+    line [1399, 1400, 1402]
 ```
 
-2026-10-18 1,399 → 2026-10-22 1,400（+1）
+2026-10-18 1,399 → 2026-10-23 1,402（+3）
 
 
 ---

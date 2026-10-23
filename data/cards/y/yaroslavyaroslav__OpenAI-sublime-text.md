@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yaroslavyaroslav/OpenAI-sublime-text 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 465 --> 467
     line [466, 466]
 ```
 
-2026-10-18 466 → 2026-10-21 466（+0）
+2026-10-18 466 → 2026-10-23 466（+0）
 
 
 ---

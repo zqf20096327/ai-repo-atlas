@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Goekdeniz-Guelmez/MLX-LoRA-Studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Goekdeniz-Guelmez/MLX-LoRA-Studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 278 --> 281
-    line [279, 280]
+    line [279, 280, 280]
 ```
 
-2026-10-18 279 → 2026-10-22 280（+1）
+2026-10-18 279 → 2026-10-23 280（+1）
 
 
 ---

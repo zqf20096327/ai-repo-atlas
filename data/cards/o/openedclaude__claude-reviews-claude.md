@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openedclaude/claude-reviews-claude 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "openedclaude/claude-reviews-claude 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1629 --> 1634
-    line [1630, 1633, 1632]
+    line [1630, 1633, 1632, 1633]
 ```
 
-2026-10-18 1,630 → 2026-10-22 1,632（+2）
+2026-10-18 1,630 → 2026-10-23 1,633（+3）
 
 
 ---

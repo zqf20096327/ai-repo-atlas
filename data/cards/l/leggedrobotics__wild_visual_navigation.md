@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leggedrobotics/wild_visual_navigation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 320 --> 325
-    line [321, 322, 324]
+    title "leggedrobotics/wild_visual_navigation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 320 --> 326
+    line [321, 322, 324, 325]
 ```
 
-2026-10-18 321 → 2026-10-22 324（+3）
+2026-10-18 321 → 2026-10-23 325（+4）
 
 
 ---

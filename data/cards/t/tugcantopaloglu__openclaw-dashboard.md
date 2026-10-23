@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tugcantopaloglu/openclaw-dashboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 701 --> 703
-    line [702, 702]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 700 --> 703
+    line [702, 701]
 ```
 
-2026-10-18 702 → 2026-10-21 702（+0）
+2026-10-18 702 → 2026-10-23 701（-1）
 
 
 ---

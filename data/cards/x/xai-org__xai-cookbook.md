@@ -43,13 +43,13 @@ xAI 官方维护的 cookbook，收录基于 SpaceXSI（xAI）TypeScript SDK 与 
 
 ```mermaid
 xychart-beta
-    title "xai-org/xai-cookbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 620 --> 623
-    line [621, 622]
+    title "xai-org/xai-cookbook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 620 --> 624
+    line [621, 622, 623]
 ```
 
-2026-10-18 621 → 2026-10-22 622（+1）
+2026-10-18 621 → 2026-10-23 623（+2）
 
 
 ---

@@ -45,13 +45,13 @@ Anthropic 发布的商业 agent 参考实现：包含面向顾客的 shopping ag
 
 ```mermaid
 xychart-beta
-    title "anthropics/commerce-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3257 --> 3298
-    line [3260, 3279, 3295]
+    title "anthropics/commerce-agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3256 --> 3309
+    line [3260, 3279, 3295, 3305]
 ```
 
-2026-10-18 3,260 → 2026-10-22 3,295（+35）
+2026-10-18 3,260 → 2026-10-23 3,305（+45）
 
 
 ---

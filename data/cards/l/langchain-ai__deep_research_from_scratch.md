@@ -44,13 +44,13 @@ LangChain 官方团队的教学仓库，用 5 个递进式 Jupyter notebook 从�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/deep_research_from_scratch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 801 --> 808
-    line [802, 803, 807]
+    title "langchain-ai/deep_research_from_scratch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 801 --> 810
+    line [802, 803, 807, 809]
 ```
 
-2026-10-18 802 → 2026-10-22 807（+5）
+2026-10-18 802 → 2026-10-23 809（+7）
 
 
 ---

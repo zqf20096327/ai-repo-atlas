@@ -46,12 +46,12 @@ TensorDict 是一个行为类似单个张量的 dict[str, torch.Tensor] 容器�
 ```mermaid
 xychart-beta
     title "pytorch/tensordict 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1040 --> 1042
-    line [1041, 1041]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1040 --> 1044
+    line [1041, 1043]
 ```
 
-2026-10-18 1,041 → 2026-10-22 1,041（+0）
+2026-10-18 1,041 → 2026-10-23 1,043（+2）
 
 
 ---

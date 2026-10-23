@@ -45,12 +45,12 @@ DeepMind 发布的 TIPS/TIPSv2 图文预训练模型代码库：提供 PyTorch �
 ```mermaid
 xychart-beta
     title "google-deepmind/tips 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 638 --> 640
     line [639, 639]
 ```
 
-2026-10-18 639 → 2026-10-22 639（+0）
+2026-10-18 639 → 2026-10-23 639（+0）
 
 
 ---

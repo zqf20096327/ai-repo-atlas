@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "onyx-dot-app/EnterpriseRAG-Bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 597 --> 601
-    line [598, 599, 600]
+    title "onyx-dot-app/EnterpriseRAG-Bench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 597 --> 602
+    line [598, 599, 600, 601]
 ```
 
-2026-10-18 598 → 2026-10-22 600（+2）
+2026-10-18 598 → 2026-10-23 601（+3）
 
 
 ---

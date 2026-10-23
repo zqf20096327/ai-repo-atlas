@@ -45,13 +45,13 @@ Frigate 与 Home Assistant 之间的集成组件：为 Home Assistant 提供带�
 
 ```mermaid
 xychart-beta
-    title "blakeblackshear/frigate-hass-integration 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1279 --> 1285
-    line [1280, 1281, 1284]
+    title "blakeblackshear/frigate-hass-integration 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1279 --> 1286
+    line [1280, 1281, 1284, 1285]
 ```
 
-2026-10-18 1,280 → 2026-10-22 1,284（+4）
+2026-10-18 1,280 → 2026-10-23 1,285（+5）
 
 
 ---

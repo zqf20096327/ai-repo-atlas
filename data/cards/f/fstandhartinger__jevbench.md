@@ -44,13 +44,13 @@ Benchmark Heaven 维护的 AI 决策模型基准，评测 Jev（TypeSafe AI 的�
 
 ```mermaid
 xychart-beta
-    title "fstandhartinger/jevbench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 279 --> 298
-    line [280, 285, 297]
+    title "fstandhartinger/jevbench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 278 --> 302
+    line [280, 285, 297, 300]
 ```
 
-2026-10-18 280 → 2026-10-22 297（+17）
+2026-10-18 280 → 2026-10-23 300（+20）
 
 
 ---

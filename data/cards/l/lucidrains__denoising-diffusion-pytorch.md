@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/denoising-diffusion-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 10703 --> 10709
-    line [10704, 10708]
+    title "lucidrains/denoising-diffusion-pytorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 10703 --> 10712
+    line [10704, 10708, 10711]
 ```
 
-2026-10-18 10,704 → 2026-10-22 10,708（+4）
+2026-10-18 10,704 → 2026-10-23 10,711（+7）
 
 
 ---

@@ -45,13 +45,13 @@ Model Context Protocol 官方的扩展协议仓库，包含 MCP Apps 规范与 T
 
 ```mermaid
 xychart-beta
-    title "modelcontextprotocol/ext-apps 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2966 --> 2994
-    line [2968, 2980, 2992]
+    title "modelcontextprotocol/ext-apps 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2966 --> 2999
+    line [2968, 2980, 2992, 2997]
 ```
 
-2026-10-18 2,968 → 2026-10-22 2,992（+24）
+2026-10-18 2,968 → 2026-10-23 2,997（+29）
 
 
 ---

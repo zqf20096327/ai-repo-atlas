@@ -45,13 +45,13 @@ Salesforce AI Research 维护的 PyTorch 时序预测库，为通用时序 Trans
 
 ```mermaid
 xychart-beta
-    title "SalesforceAIResearch/uni2ts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "SalesforceAIResearch/uni2ts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1609 --> 1615
-    line [1610, 1614]
+    line [1610, 1614, 1614]
 ```
 
-2026-10-18 1,610 → 2026-10-22 1,614（+4）
+2026-10-18 1,610 → 2026-10-23 1,614（+4）
 
 
 ---

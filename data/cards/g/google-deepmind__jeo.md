@@ -45,12 +45,12 @@ Google DeepMind 开源的基于 JAX/Flax 的地理空间遥感与地球观测模
 ```mermaid
 xychart-beta
     title "google-deepmind/jeo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 167 --> 171
+    line [168, 170]
 ```
 
-2026-10-18 168 → 2026-10-22 168（+0）
+2026-10-18 168 → 2026-10-23 170（+2）
 
 
 ---

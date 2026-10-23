@@ -45,13 +45,13 @@ ReachAI 是一个企业智能体开发与运行平台：通过 SDK/扫描将 Jav
 
 ```mermaid
 xychart-beta
-    title "w8123/EnterpriseAgentFramework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 941 --> 955
-    line [942, 952, 954]
+    title "w8123/EnterpriseAgentFramework 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 928 --> 956
+    line [942, 952, 954, 930]
 ```
 
-2026-10-18 942 → 2026-10-22 954（+12）
+2026-10-18 942 → 2026-10-23 930（-12）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-spaced-repetition/srs-benchmark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 275 --> 279
-    line [276, 277, 278]
+    title "open-spaced-repetition/srs-benchmark 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 275 --> 280
+    line [276, 277, 278, 279]
 ```
 
-2026-10-18 276 → 2026-10-22 278（+2）
+2026-10-18 276 → 2026-10-23 279（+3）
 
 
 ---

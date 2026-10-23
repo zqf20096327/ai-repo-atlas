@@ -45,12 +45,12 @@ No Starch Press 2026 年出版的深度学习入门书籍配套仓库，作者�
 ```mermaid
 xychart-beta
     title "DeepTrackAI/DeepLearningCrashCourse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 200 --> 202
-    line [201, 201]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 200 --> 203
+    line [201, 202]
 ```
 
-2026-10-18 201 → 2026-10-22 201（+0）
+2026-10-18 201 → 2026-10-23 202（+1）
 
 
 ---

@@ -44,13 +44,13 @@ Thales CERT 开发的 Django + React 威胁情报与狩猎平台：聚合 CERT-F
 
 ```mermaid
 xychart-beta
-    title "thalesgroup-cert/Watcher 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1430 --> 1435
-    line [1431, 1434, 1433]
+    title "thalesgroup-cert/Watcher 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1430 --> 1436
+    line [1431, 1434, 1433, 1435]
 ```
 
-2026-10-18 1,431 → 2026-10-22 1,433（+2）
+2026-10-18 1,431 → 2026-10-23 1,435（+4）
 
 
 ---

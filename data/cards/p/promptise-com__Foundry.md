@@ -45,13 +45,13 @@ Python 框架 Promptise Foundry，面向需要 agent 系统可问责的开发团
 
 ```mermaid
 xychart-beta
-    title "promptise-com/Foundry 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 872 --> 875
-    line [874, 873]
+    title "promptise-com/Foundry 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 872 --> 893
+    line [874, 873, 892]
 ```
 
-2026-10-18 874 → 2026-10-22 873（-1）
+2026-10-18 874 → 2026-10-23 892（+18）
 
 
 ---

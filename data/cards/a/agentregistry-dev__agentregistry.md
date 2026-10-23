@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentregistry-dev/agentregistry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 523 --> 528
-    line [524, 525, 527]
+    title "agentregistry-dev/agentregistry 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 523 --> 531
+    line [524, 525, 527, 530]
 ```
 
-2026-10-18 524 → 2026-10-22 527（+3）
+2026-10-18 524 → 2026-10-23 530（+6）
 
 
 ---

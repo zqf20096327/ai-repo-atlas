@@ -46,12 +46,12 @@ ICML 2026 论文 WorldMirror 的官方开源实现（腾讯混元团队）。该
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HunyuanWorld-Mirror 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1214 --> 1216
-    line [1215, 1215]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1214 --> 1217
+    line [1215, 1216]
 ```
 
-2026-10-18 1,215 → 2026-10-22 1,215（+0）
+2026-10-18 1,215 → 2026-10-23 1,216（+1）
 
 
 ---

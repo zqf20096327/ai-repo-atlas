@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Trusted-AI/adversarial-robustness-toolbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "Trusted-AI/adversarial-robustness-toolbox 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 6276 --> 6284
-    line [6277, 6280, 6283]
+    line [6277, 6280, 6283, 6283]
 ```
 
-2026-10-18 6,277 → 2026-10-22 6,283（+6）
+2026-10-18 6,277 → 2026-10-23 6,283（+6）
 
 
 ---

@@ -45,13 +45,13 @@ ROCm Hyperloom 是面向 AMD Instinct GPU（MI300X/MI325X/MI355X）的推理优�
 
 ```mermaid
 xychart-beta
-    title "AMD-AGI/Hyperloom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 240 --> 249
-    line [241, 245, 248]
+    title "AMD-AGI/Hyperloom 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 240 --> 250
+    line [241, 245, 248, 249]
 ```
 
-2026-10-18 241 → 2026-10-22 248（+7）
+2026-10-18 241 → 2026-10-23 249（+8）
 
 
 ---

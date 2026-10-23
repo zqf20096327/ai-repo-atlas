@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mario-andreschak/FLUJO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "mario-andreschak/FLUJO 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 662 --> 666
-    line [663, 665]
+    line [663, 665, 665]
 ```
 
-2026-10-18 663 → 2026-10-22 665（+2）
+2026-10-18 663 → 2026-10-23 665（+2）
 
 
 ---

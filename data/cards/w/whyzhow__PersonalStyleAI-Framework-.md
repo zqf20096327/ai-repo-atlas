@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "whyzhow/PersonalStyleAI-Framework- 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 292 --> 294
-    line [293, 293]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 291 --> 294
+    line [293, 292]
 ```
 
-2026-10-18 293 → 2026-10-22 293（+0）
+2026-10-18 293 → 2026-10-23 292（-1）
 
 
 ---

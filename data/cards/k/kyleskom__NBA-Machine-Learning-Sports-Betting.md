@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyleskom/NBA-Machine-Learning-Sports-Betting 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1745 --> 1751
-    line [1746, 1747, 1750]
+    title "kyleskom/NBA-Machine-Learning-Sports-Betting 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1745 --> 1756
+    line [1746, 1747, 1750, 1755]
 ```
 
-2026-10-18 1,746 → 2026-10-22 1,750（+4）
+2026-10-18 1,746 → 2026-10-23 1,755（+9）
 
 
 ---

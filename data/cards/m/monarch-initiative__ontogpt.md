@@ -46,13 +46,13 @@ Monarch Initiative 维护的 Python 包：基于 LinkML schema 的 SPIRES 方法
 
 ```mermaid
 xychart-beta
-    title "monarch-initiative/ontogpt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1057 --> 1065
-    line [1058, 1062, 1064]
+    title "monarch-initiative/ontogpt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1057 --> 1068
+    line [1058, 1062, 1064, 1067]
 ```
 
-2026-10-18 1,058 → 2026-10-22 1,064（+6）
+2026-10-18 1,058 → 2026-10-23 1,067（+9）
 
 
 ---

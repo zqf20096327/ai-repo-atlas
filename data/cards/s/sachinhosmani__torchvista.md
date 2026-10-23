@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sachinhosmani/torchvista 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "sachinhosmani/torchvista 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 766 --> 769
-    line [768, 767]
+    line [768, 767, 767]
 ```
 
-2026-10-18 768 → 2026-10-22 767（-1）
+2026-10-18 768 → 2026-10-23 767（-1）
 
 
 ---

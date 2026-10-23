@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "edisonmbli/refactoring-ui-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 12 --> 188
-    line [26, 104, 174]
+    title "edisonmbli/refactoring-ui-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 6 --> 247
+    line [26, 104, 174, 227]
 ```
 
-2026-10-18 26 → 2026-10-22 174（+148）
+2026-10-18 26 → 2026-10-23 227（+201）
 
 
 ---

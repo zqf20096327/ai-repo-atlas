@@ -44,13 +44,13 @@ TestDriver SDK 是一个 vitest 的 JS 插件，用于生成端到端测试：�
 
 ```mermaid
 xychart-beta
-    title "testdriverai/testdriverai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "testdriverai/testdriverai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 332 --> 490
-    line [345, 476, 477]
+    line [345, 476, 477, 465]
 ```
 
-2026-10-18 345 → 2026-10-22 477（+132）
+2026-10-18 345 → 2026-10-23 465（+120）
 
 
 ---

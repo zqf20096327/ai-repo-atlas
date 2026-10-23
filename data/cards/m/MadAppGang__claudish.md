@@ -46,12 +46,12 @@ Node.js/Bun 的 CLI 工具，通过本地 Anthropic API 兼容代理服务器，
 ```mermaid
 xychart-beta
     title "MadAppGang/claudish 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1006 --> 1008
-    line [1007, 1007]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1005 --> 1008
+    line [1007, 1006]
 ```
 
-2026-10-18 1,007 → 2026-10-22 1,007（+0）
+2026-10-18 1,007 → 2026-10-23 1,006（-1）
 
 
 ---

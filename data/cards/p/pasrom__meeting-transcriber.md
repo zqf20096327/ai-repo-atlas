@@ -45,13 +45,13 @@ macOS 菜单栏应用，自动检测 Teams/Zoom/Webex 会议并双轨录音（�
 
 ```mermaid
 xychart-beta
-    title "pasrom/meeting-transcriber 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 205 --> 212
-    line [206, 209, 211]
+    title "pasrom/meeting-transcriber 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 205 --> 213
+    line [206, 209, 211, 212]
 ```
 
-2026-10-18 206 → 2026-10-22 211（+5）
+2026-10-18 206 → 2026-10-23 212（+6）
 
 
 ---

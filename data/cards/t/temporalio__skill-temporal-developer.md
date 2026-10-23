@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "temporalio/skill-temporal-developer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "temporalio/skill-temporal-developer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 231 --> 236
-    line [232, 233, 235]
+    line [232, 233, 235, 235]
 ```
 
-2026-10-18 232 → 2026-10-22 235（+3）
+2026-10-18 232 → 2026-10-23 235（+3）
 
 
 ---

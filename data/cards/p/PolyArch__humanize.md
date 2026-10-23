@@ -45,13 +45,13 @@ Humanize 是一个 Claude Code 插件，提供 RLCR（Ralph-Loop with Codex Revi
 
 ```mermaid
 xychart-beta
-    title "PolyArch/humanize 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1520 --> 1550
-    line [1522, 1541, 1548]
+    title "PolyArch/humanize 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1520 --> 1553
+    line [1522, 1541, 1548, 1551]
 ```
 
-2026-10-18 1,522 → 2026-10-22 1,548（+26）
+2026-10-18 1,522 → 2026-10-23 1,551（+29）
 
 
 ---

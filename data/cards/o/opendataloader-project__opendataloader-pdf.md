@@ -51,13 +51,13 @@ Python/Node.js/Java 三种 SDK 提供的 PDF 解析器：本地确定性模式�
 
 ```mermaid
 xychart-beta
-    title "opendataloader-project/opendataloader-pdf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 29728 --> 29757
-    line [29730, 29748, 29755]
+    title "opendataloader-project/opendataloader-pdf 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 29713 --> 29921
+    line [29730, 29748, 29755, 29904]
 ```
 
-2026-10-18 29,730 → 2026-10-22 29,755（+25）
+2026-10-18 29,730 → 2026-10-23 29,904（+174）
 
 
 ---

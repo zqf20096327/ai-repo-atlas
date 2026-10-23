@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gurobi/gurobi-machinelearning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Gurobi/gurobi-machinelearning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 255 --> 258
-    line [256, 257]
+    line [256, 257, 257]
 ```
 
-2026-10-18 256 → 2026-10-22 257（+1）
+2026-10-18 256 → 2026-10-23 257（+1）
 
 
 ---

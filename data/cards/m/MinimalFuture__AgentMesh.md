@@ -45,12 +45,12 @@ AgentMesh 是一个多智能体（Multi-Agent）平台，提供智能体间通�
 ```mermaid
 xychart-beta
     title "MinimalFuture/AgentMesh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 342 --> 344
     line [343, 343]
 ```
 
-2026-10-18 343 → 2026-10-21 343（+0）
+2026-10-18 343 → 2026-10-23 343（+0）
 
 
 ---

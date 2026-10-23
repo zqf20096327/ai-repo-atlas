@@ -46,12 +46,12 @@ DeepMind 的机器学习实验管理平台：通过 Python launch 脚本调用 X
 ```mermaid
 xychart-beta
     title "google-deepmind/xmanager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 921 --> 923
-    line [922, 922]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 921 --> 924
+    line [922, 923]
 ```
 
-2026-10-18 922 → 2026-10-22 922（+0）
+2026-10-18 922 → 2026-10-23 923（+1）
 
 
 ---

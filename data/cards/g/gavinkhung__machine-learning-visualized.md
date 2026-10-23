@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "gavinkhung/machine-learning-visualized 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2069 --> 2079
-    line [2070, 2073, 2078]
+    title "gavinkhung/machine-learning-visualized 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2069 --> 2083
+    line [2070, 2073, 2078, 2082]
 ```
 
-2026-10-18 2,070 → 2026-10-22 2,078（+8）
+2026-10-18 2,070 → 2026-10-23 2,082（+12）
 
 
 ---

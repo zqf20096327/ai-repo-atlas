@@ -44,13 +44,13 @@ deepseek-ai/deepseek-harness 的下游 fork，专注为该桌面端补齐 Linux 
 
 ```mermaid
 xychart-beta
-    title "Zhou-Yujing114514/deepseek-harness-linux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 133 --> 146
-    line [134, 142, 145]
+    title "Zhou-Yujing114514/deepseek-harness-linux 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 133 --> 148
+    line [134, 142, 145, 147]
 ```
 
-2026-10-18 134 → 2026-10-22 145（+11）
+2026-10-18 134 → 2026-10-23 147（+13）
 
 
 ---

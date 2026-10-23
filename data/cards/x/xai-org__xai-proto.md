@@ -45,12 +45,12 @@ xAI 官方发布的 gRPC API Protocol Buffer 定义文件，描述服务接口�
 ```mermaid
 xychart-beta
     title "xai-org/xai-proto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 150 --> 152
-    line [151, 151]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 150 --> 153
+    line [151, 152]
 ```
 
-2026-10-18 151 → 2026-10-22 151（+0）
+2026-10-18 151 → 2026-10-23 152（+1）
 
 
 ---

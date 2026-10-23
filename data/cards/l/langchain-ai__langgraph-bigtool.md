@@ -44,12 +44,12 @@ langchain-ai 团队维护的 Python 库，基于 LangGraph 长期记忆存储，
 ```mermaid
 xychart-beta
     title "langchain-ai/langgraph-bigtool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 556 --> 558
-    line [557, 557]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 556 --> 559
+    line [557, 558]
 ```
 
-2026-10-18 557 → 2026-10-22 557（+0）
+2026-10-18 557 → 2026-10-23 558（+1）
 
 
 ---

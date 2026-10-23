@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "greyhatguy007/Machine-Learning-Specialization-Coursera 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 8031 --> 8057
-    line [8033, 8044, 8055]
+    title "greyhatguy007/Machine-Learning-Specialization-Coursera 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 8030 --> 8067
+    line [8033, 8044, 8055, 8064]
 ```
 
-2026-10-18 8,033 → 2026-10-22 8,055（+22）
+2026-10-18 8,033 → 2026-10-23 8,064（+31）
 
 
 ---

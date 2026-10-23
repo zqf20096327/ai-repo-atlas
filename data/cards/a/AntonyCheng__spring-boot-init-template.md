@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AntonyCheng/spring-boot-init-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 541 --> 543
     line [542, 542]
 ```
 
-2026-10-18 542 → 2026-10-22 542（+0）
+2026-10-18 542 → 2026-10-23 542（+0）
 
 
 ---

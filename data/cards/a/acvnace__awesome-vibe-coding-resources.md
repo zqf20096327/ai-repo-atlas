@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "acvnace/awesome-vibe-coding-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 314 --> 320
-    line [315, 316, 319]
+    title "acvnace/awesome-vibe-coding-resources 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 314 --> 321
+    line [315, 316, 319, 320]
 ```
 
-2026-10-18 315 → 2026-10-22 319（+4）
+2026-10-18 315 → 2026-10-23 320（+5）
 
 
 ---

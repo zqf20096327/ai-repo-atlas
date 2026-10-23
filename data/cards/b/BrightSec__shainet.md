@@ -40,6 +40,18 @@
 > L3: SHAInet (Super Human Artificial Intelligence Network) is a neural network library written in pure Crystal. Originall
 > L12: - LLM inference: GPT-2, LLaMA, Mistral, Qwen2, Qwen3, Qwen3-MoE, and Qwen3.5
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BrightSec/shainet 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 197 --> 199
+    line [198, 198]
+```
+
+2026-10-22 198 → 2026-10-23 198（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `82b8551192b6` · [字段定义](../../DATASET.md)*

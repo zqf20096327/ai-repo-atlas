@@ -46,12 +46,12 @@ Python 实现的 Polymarket 体育交易机器人：通过 ESPN 获取比赛数�
 ```mermaid
 xychart-beta
     title "rustyneuron01/Polymarket-Sports-Trading-Bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 133 --> 135
     line [134, 134]
 ```
 
-2026-10-18 134 → 2026-10-22 134（+0）
+2026-10-18 134 → 2026-10-23 134（+0）
 
 
 ---

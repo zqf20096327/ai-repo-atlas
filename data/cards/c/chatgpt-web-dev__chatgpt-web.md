@@ -45,12 +45,12 @@ Fork 自 Chanzhaoyu/chatgpt-web 的 Express + Vue3 对话应用，通过 OpenAI 
 ```mermaid
 xychart-beta
     title "chatgpt-web-dev/chatgpt-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 1870 --> 1872
     line [1871, 1871]
 ```
 
-2026-10-18 1,871 → 2026-10-22 1,871（+0）
+2026-10-18 1,871 → 2026-10-23 1,871（+0）
 
 
 ---

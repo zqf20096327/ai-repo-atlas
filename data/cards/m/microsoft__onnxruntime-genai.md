@@ -44,13 +44,13 @@ ONNX Runtime GenAI 提供 Python/C#/C++/Java 等 API，在设备上运行生成�
 
 ```mermaid
 xychart-beta
-    title "microsoft/onnxruntime-genai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1136 --> 1143
-    line [1137, 1140, 1142]
+    title "microsoft/onnxruntime-genai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1136 --> 1144
+    line [1137, 1140, 1142, 1143]
 ```
 
-2026-10-18 1,137 → 2026-10-22 1,142（+5）
+2026-10-18 1,137 → 2026-10-23 1,143（+6）
 
 
 ---

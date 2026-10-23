@@ -45,12 +45,12 @@ Packt 出版书籍 Generative AI with LangChain (2nd Edition, 2025) 的官方代
 ```mermaid
 xychart-beta
     title "benman1/generative_ai_with_langchain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
     y-axis "stars" 1439 --> 1443
     line [1440, 1442, 1442]
 ```
 
-2026-10-18 1,440 → 2026-10-22 1,442（+2）
+2026-10-18 1,440 → 2026-10-23 1,442（+2）
 
 
 ---

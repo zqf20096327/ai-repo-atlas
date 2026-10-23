@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentfront/frontmcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 145 --> 148
-    line [146, 147]
+    title "agentfront/frontmcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 145 --> 149
+    line [146, 147, 148]
 ```
 
-2026-10-18 146 → 2026-10-22 147（+1）
+2026-10-18 146 → 2026-10-23 148（+2）
 
 
 ---

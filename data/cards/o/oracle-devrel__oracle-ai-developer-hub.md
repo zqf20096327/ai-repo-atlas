@@ -45,13 +45,13 @@ Oracle DevRel 维护的技术资源集合，面向基于 Oracle AI Database 与 
 
 ```mermaid
 xychart-beta
-    title "oracle-devrel/oracle-ai-developer-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4428 --> 4445
-    line [4429, 4439, 4444]
+    title "oracle-devrel/oracle-ai-developer-hub 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4428 --> 4446
+    line [4429, 4439, 4444, 4445]
 ```
 
-2026-10-18 4,429 → 2026-10-22 4,444（+15）
+2026-10-18 4,429 → 2026-10-23 4,445（+16）
 
 
 ---

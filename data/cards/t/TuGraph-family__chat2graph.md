@@ -45,12 +45,12 @@ Chat2Graph 自称 Graph Native Agentic System，以 agent 为蓝图探索“图 
 ```mermaid
 xychart-beta
     title "TuGraph-family/chat2graph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 429 --> 431
     line [430, 430]
 ```
 
-2026-10-18 430 → 2026-10-22 430（+0）
+2026-10-18 430 → 2026-10-23 430（+0）
 
 
 ---

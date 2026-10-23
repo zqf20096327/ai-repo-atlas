@@ -44,13 +44,13 @@ TensorFlow Lite for Microcontrollers（TFLM）提供在裸机系统、DSP 与仅
 
 ```mermaid
 xychart-beta
-    title "tensorflow/tflite-micro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "tensorflow/tflite-micro 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3119 --> 3129
-    line [3120, 3123, 3128]
+    line [3120, 3123, 3128, 3127]
 ```
 
-2026-10-18 3,120 → 2026-10-22 3,128（+8）
+2026-10-18 3,120 → 2026-10-23 3,127（+7）
 
 
 ---

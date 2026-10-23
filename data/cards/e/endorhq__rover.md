@@ -46,12 +46,12 @@ Endor 团队开发的 AI 编码 agent 管理工具，支持 Claude Code、Codex�
 ```mermaid
 xychart-beta
     title "endorhq/rover 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 271 --> 273
     line [272, 272]
 ```
 
-2026-10-18 272 → 2026-10-22 272（+0）
+2026-10-18 272 → 2026-10-23 272（+0）
 
 
 ---

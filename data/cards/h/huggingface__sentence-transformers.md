@@ -52,13 +52,13 @@ Python 框架，提供 SentenceTransformer、CrossEncoder、SparseEncoder、Mult
 
 ```mermaid
 xychart-beta
-    title "huggingface/sentence-transformers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 19186 --> 19207
-    line [19187, 19192, 19206]
+    title "huggingface/sentence-transformers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 19185 --> 19212
+    line [19187, 19192, 19206, 19210]
 ```
 
-2026-10-18 19,187 → 2026-10-22 19,206（+19）
+2026-10-18 19,187 → 2026-10-23 19,210（+23）
 
 
 ---

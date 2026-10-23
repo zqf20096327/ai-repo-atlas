@@ -45,12 +45,12 @@ Fraunhofer HHI 发布的 CVPR 2022 论文官方 PyTorch 实现：基于可微网
 ```mermaid
 xychart-beta
     title "fraunhoferhhi/neural-deferred-shading 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
     y-axis "stars" 274 --> 277
     line [275, 276, 276]
 ```
 
-2026-10-18 275 → 2026-10-22 276（+1）
+2026-10-18 275 → 2026-10-23 276（+1）
 
 
 ---

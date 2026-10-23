@@ -45,13 +45,13 @@ Torch-TensorRT 将 TensorRT 引入 PyTorch，通过 torch.compile 一行代码�
 
 ```mermaid
 xychart-beta
-    title "pytorch/TensorRT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "pytorch/TensorRT 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3012 --> 3017
-    line [3013, 3014, 3016]
+    line [3013, 3014, 3016, 3016]
 ```
 
-2026-10-18 3,013 → 2026-10-22 3,016（+3）
+2026-10-18 3,013 → 2026-10-23 3,016（+3）
 
 
 ---

@@ -44,13 +44,13 @@ LobeHub 维护的 LobeChat 插件式 agent 索引仓库：LobeChat 通过读取�
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobe-chat-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1237 --> 1242
-    line [1238, 1241]
+    title "lobehub/lobe-chat-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1237 --> 1243
+    line [1238, 1241, 1242]
 ```
 
-2026-10-18 1,238 → 2026-10-22 1,241（+3）
+2026-10-18 1,238 → 2026-10-23 1,242（+4）
 
 
 ---

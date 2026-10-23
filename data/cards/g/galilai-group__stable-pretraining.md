@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "galilai-group/stable-pretraining 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 332 --> 335
-    line [333, 334]
+    title "galilai-group/stable-pretraining 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 332 --> 336
+    line [333, 334, 335]
 ```
 
-2026-10-18 333 → 2026-10-22 334（+1）
+2026-10-18 333 → 2026-10-23 335（+2）
 
 
 ---

@@ -45,13 +45,13 @@ EasyEDA Copilot 由 EasyEDA Pro 扩展（.eext 包）与 MCP 服务器组成，�
 
 ```mermaid
 xychart-beta
-    title "biosshot/easyeda-copilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 176 --> 180
-    line [178, 177, 179]
+    title "biosshot/easyeda-copilot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 176 --> 183
+    line [178, 177, 179, 182]
 ```
 
-2026-10-18 178 → 2026-10-22 179（+1）
+2026-10-18 178 → 2026-10-23 182（+4）
 
 
 ---

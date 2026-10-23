@@ -45,12 +45,12 @@ Node.js 编写的 agent harness，面向本地与 OpenAI 兼容模型。核心�
 ```mermaid
 xychart-beta
     title "Zleap-AI/Zleap-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 218 --> 220
     line [219, 219]
 ```
 
-2026-10-18 219 → 2026-10-21 219（+0）
+2026-10-18 219 → 2026-10-23 219（+0）
 
 
 ---

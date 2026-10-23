@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xiangyue-Zhang/auto-deep-researcher-24x7 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1134 --> 1138
-    line [1135, 1136, 1137]
+    title "Xiangyue-Zhang/auto-deep-researcher-24x7 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1133 --> 1138
+    line [1135, 1136, 1137, 1134]
 ```
 
-2026-10-18 1,135 → 2026-10-22 1,137（+2）
+2026-10-18 1,135 → 2026-10-23 1,134（-1）
 
 
 ---

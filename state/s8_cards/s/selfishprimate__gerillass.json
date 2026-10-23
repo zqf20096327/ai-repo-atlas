@@ -1,1 +1,75 @@
-{"fn": "selfishprimate/gerillass", "sha": "66b221ccba3f", "source": "readme", "identity": {"one_liner": "供编码代理读取的 Sass mixin/函数库", "review": "基于 Sass 的 mixin 与函数库，面向前端开发者生成可扩展的 CSS 输出，覆盖 Vite、webpack、Parcel、Next.js、Angular、Gulp、Grunt、Rails/Jekyll 等构建工具的接入配方，同时以 npm 包和 Ruby gem 双渠道分发。特色机制：每个 mixin 和函数附带机器可读的 manifest（gerillass.json）与生成的 SKILL.md，供 AI 编码代理正确调用；测试套件编译 manifest 中的全部示例并验证拒绝行为，防止文档与代码漂移。自 v1.3.0 起不支持已弃用的 LibSass，需使用 Dart Sass。", "highlights": ["每个 mixin/函数附带机器可读 manifest（gerillass.json）与生成的 SKILL.md", "测试套件编译并验证 manifest 中所有示例与拒绝行为，防止文档漂移", "npm 包与 Ruby gem 双渠道分发，覆盖主流构建工具接入配方", "三种调用方式（裸名/gls- 前缀/命名空间）产出相同 CSS"], "use_cases": ["前端项目中复用 mixin 加速样式编写", "让 AI 编码代理通过 SKILL.md 正确使用库的参数形式", "在 Vite/webpack/Rails 等不同构建链中引入同一套 Sass 工具"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://gerillass.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Sass", "CSS工具库", "前端开发", "AI编码代理"], "domain": "前端开发/CSS 工具库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: It is also built to be read by coding agents. Every mixin and function ships with a machine-readable manifest, and the t", "L227: **`gerillass.json`** describes every mixin and function: its signature, what each argument accepts, examples that compil", "L231: **`SKILL.md`** is a written guide generated from that manifest. It covers how to load the library, the full catalogue, a"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "selfishprimate/gerillass",
+ "sha": "66b221ccba3f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "供编码代理读取的 Sass mixin/函数库",
+  "review": "基于 Sass 的 mixin 与函数库，面向前端开发者生成可扩展的 CSS 输出，覆盖 Vite、webpack、Parcel、Next.js、Angular、Gulp、Grunt、Rails/Jekyll 等构建工具的接入配方，同时以 npm 包和 Ruby gem 双渠道分发。特色机制：每个 mixin 和函数附带机器可读的 manifest（gerillass.json）与生成的 SKILL.md，供 AI 编码代理正确调用；测试套件编译 manifest 中的全部示例并验证拒绝行为，防止文档与代码漂移。自 v1.3.0 起不支持已弃用的 LibSass，需使用 Dart Sass。",
+  "highlights": [
+   "每个 mixin/函数附带机器可读 manifest（gerillass.json）与生成的 SKILL.md",
+   "测试套件编译并验证 manifest 中所有示例与拒绝行为，防止文档漂移",
+   "npm 包与 Ruby gem 双渠道分发，覆盖主流构建工具接入配方",
+   "三种调用方式（裸名/gls- 前缀/命名空间）产出相同 CSS"
+  ],
+  "use_cases": [
+   "前端项目中复用 mixin 加速样式编写",
+   "让 AI 编码代理通过 SKILL.md 正确使用库的参数形式",
+   "在 Vite/webpack/Rails 等不同构建链中引入同一套 Sass 工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://gerillass.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Sass",
+   "CSS工具库",
+   "前端开发",
+   "AI编码代理"
+  ],
+  "domain": "前端开发/CSS 工具库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: It is also built to be read by coding agents. Every mixin and function ships with a machine-readable manifest, and the t",
+   "L227: **`gerillass.json`** describes every mixin and function: its signature, what each argument accepts, examples that compil",
+   "L231: **`SKILL.md`** is a written guide generated from that manifest. It covers how to load the library, the full catalogue, a"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

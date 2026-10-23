@@ -46,12 +46,12 @@ C++ 编写的 Unreal Engine 免费插件，把 LLM/GenAI API 集成层封装为�
 ```mermaid
 xychart-beta
     title "prajwalshettydev/UnrealGenAISupport 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
     y-axis "stars" 674 --> 677
-    line [676, 675, 675]
+    line [676, 675, 676]
 ```
 
-2026-10-18 676 → 2026-10-21 675（-1）
+2026-10-18 676 → 2026-10-23 676（+0）
 
 
 ---

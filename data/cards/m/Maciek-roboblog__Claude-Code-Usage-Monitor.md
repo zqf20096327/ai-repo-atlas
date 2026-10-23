@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Maciek-roboblog/Claude-Code-Usage-Monitor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 8745 --> 8755
-    line [8746, 8749, 8754]
+    title "Maciek-roboblog/Claude-Code-Usage-Monitor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 8745 --> 8756
+    line [8746, 8749, 8754, 8755]
 ```
 
-2026-10-18 8,746 → 2026-10-22 8,754（+8）
+2026-10-18 8,746 → 2026-10-23 8,755（+9）
 
 
 ---

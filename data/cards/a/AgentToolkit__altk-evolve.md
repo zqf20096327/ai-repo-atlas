@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentToolkit/altk-evolve 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 123 --> 130
-    line [124, 129]
+    title "AgentToolkit/altk-evolve 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 123 --> 133
+    line [124, 129, 132]
 ```
 
-2026-10-18 124 → 2026-10-22 129（+5）
+2026-10-18 124 → 2026-10-23 132（+8）
 
 
 ---

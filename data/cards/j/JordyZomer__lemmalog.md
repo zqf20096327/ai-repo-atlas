@@ -46,12 +46,12 @@ Rust 实现的分层 Datalog 引擎，作为 LLM agent 的记忆层使用：LLM 
 ```mermaid
 xychart-beta
     title "JordyZomer/lemmalog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 339 --> 341
     line [340, 340]
 ```
 
-2026-10-18 340 → 2026-10-21 340（+0）
+2026-10-18 340 → 2026-10-23 340（+0）
 
 
 ---

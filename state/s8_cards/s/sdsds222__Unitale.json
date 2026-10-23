@@ -1,1 +1,82 @@
-{"fn": "sdsds222/Unitale", "sha": "dde4c258d0b1", "source": "readme", "identity": {"one_liner": "浏览器内一键生成多角色有声书的 AI 工作台", "review": "基于 IndexTTS 与 Qwen3TTS 的有声书制作工具，本体为跨平台浏览器页面，无需本地配置环境。LLM 拆解剧本、区分旁白与角色并推断情绪，自动编排音效插入、BGM 切换与场景滤波器；可分析文本生成音色描述并用 Qwen3TTS 音色设计模型生成参考音频，导出 wav 成品及带背景图片的 mp4 视频。需用户自行配置 OpenAI 通用接口的 LLM 与云原生 TTS 项目 URL；支持工程文件导入导出与 Prompt、音色、素材库自定义。", "highlights": ["LLM 自动拆解剧本、区分角色并推断情绪生成 TTS 提示", "自动编排 SFX 插入时间点、BGM 切换与场景音频滤波器", "基于 Qwen3TTS 音色设计模型从描述文本生成角色音色", "浏览器内跨平台使用，可导出 wav 与带背景图的 mp4"], "use_cases": ["把小说文本自动转换成多角色配音的有声书", "制作带音效、配乐与场景声场效果的有声故事", "为播客或有声内容生成并微调角色音色"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://www.bilibili.com/video/BV1Nvc7zjEd1", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["TTS", "有声书", "AI Agent", "音频制作", "浏览器应用"], "domain": "音频生成/内容创作工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "Bilibili 教程与演示视频", "蓝奏云国内下载地址", "cnb.cool 云原生仓库"]}, "trust": {"confidence": "high", "evidence": ["L10: 一个基于Indextts和Qwen3TTS的 AI Agent 有声书制作工具。利用 LLM 自动拆解剧本与识别情绪，集成多角色 TTS 语音合成（可智能分析音色并使用Qwen3TTS语音设计模型从音色描述文本生成音色），支持音效(SFX)", "L75: 一个自制的 AI 有声故事生成工作台。利用 LLM 深度理解小说文本，实现了音效自动插入、BGM 自动切换、场景滤波器自动设置以及多角色情绪自动演绎的完整自动化编排，在浏览器中一键生成有声音频作品。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sdsds222/Unitale",
+ "sha": "dde4c258d0b1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器内一键生成多角色有声书的 AI 工作台",
+  "review": "基于 IndexTTS 与 Qwen3TTS 的有声书制作工具，本体为跨平台浏览器页面，无需本地配置环境。LLM 拆解剧本、区分旁白与角色并推断情绪，自动编排音效插入、BGM 切换与场景滤波器；可分析文本生成音色描述并用 Qwen3TTS 音色设计模型生成参考音频，导出 wav 成品及带背景图片的 mp4 视频。需用户自行配置 OpenAI 通用接口的 LLM 与云原生 TTS 项目 URL；支持工程文件导入导出与 Prompt、音色、素材库自定义。",
+  "highlights": [
+   "LLM 自动拆解剧本、区分角色并推断情绪生成 TTS 提示",
+   "自动编排 SFX 插入时间点、BGM 切换与场景音频滤波器",
+   "基于 Qwen3TTS 音色设计模型从描述文本生成角色音色",
+   "浏览器内跨平台使用，可导出 wav 与带背景图的 mp4"
+  ],
+  "use_cases": [
+   "把小说文本自动转换成多角色配音的有声书",
+   "制作带音效、配乐与场景声场效果的有声故事",
+   "为播客或有声内容生成并微调角色音色"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.bilibili.com/video/BV1Nvc7zjEd1",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TTS",
+   "有声书",
+   "AI Agent",
+   "音频制作",
+   "浏览器应用"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Bilibili 教程与演示视频",
+   "蓝奏云国内下载地址",
+   "cnb.cool 云原生仓库"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: 一个基于Indextts和Qwen3TTS的 AI Agent 有声书制作工具。利用 LLM 自动拆解剧本与识别情绪，集成多角色 TTS 语音合成（可智能分析音色并使用Qwen3TTS语音设计模型从音色描述文本生成音色），支持音效(SFX)",
+   "L75: 一个自制的 AI 有声故事生成工作台。利用 LLM 深度理解小说文本，实现了音效自动插入、BGM 自动切换、场景滤波器自动设置以及多角色情绪自动演绎的完整自动化编排，在浏览器中一键生成有声音频作品。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

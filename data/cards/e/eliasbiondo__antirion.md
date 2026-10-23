@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eliasbiondo/antirion 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-22"]
+    title "eliasbiondo/antirion 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 61 --> 160
-    line [69, 152]
+    line [69, 152, 145]
 ```
 
-2026-10-19 69 → 2026-10-22 152（+83）
+2026-10-19 69 → 2026-10-23 145（+76）
 
 
 ---

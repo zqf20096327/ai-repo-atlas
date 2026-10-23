@@ -46,13 +46,13 @@ Strands Evals SDK 是面向 AI agent 和 LLM 应用的评测框架，提供输�
 
 ```mermaid
 xychart-beta
-    title "strands-agents/evals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 236 --> 240
-    line [237, 238, 239]
+    title "strands-agents/evals 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 236 --> 242
+    line [237, 238, 239, 241]
 ```
 
-2026-10-18 237 → 2026-10-22 239（+2）
+2026-10-18 237 → 2026-10-23 241（+4）
 
 
 ---

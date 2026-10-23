@@ -40,6 +40,18 @@
 > L7: * The Recognise.py will recognise the gesture as per the trained dataset, recogniseAppend.py file will make a format
 > L9: * Capture.py file will help in creating your own dataset and cnn_model.py file will use cnn deep neural nets to trai
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Mohsinrazaa/Sign-Language-Recogination 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 129 --> 131
+    line [130, 130]
+```
+
+2026-10-22 130 → 2026-10-23 130（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `593ff9bc411c` · [字段定义](../../DATASET.md)*

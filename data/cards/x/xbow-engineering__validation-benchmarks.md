@@ -44,13 +44,13 @@ XBOW 发布的网络安全评测基准集：104 个 Jeopardy 式 CTF 挑战，�
 
 ```mermaid
 xychart-beta
-    title "xbow-engineering/validation-benchmarks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 727 --> 734
-    line [728, 729, 733]
+    title "xbow-engineering/validation-benchmarks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 727 --> 737
+    line [728, 729, 733, 736]
 ```
 
-2026-10-18 728 → 2026-10-22 733（+5）
+2026-10-18 728 → 2026-10-23 736（+8）
 
 
 ---

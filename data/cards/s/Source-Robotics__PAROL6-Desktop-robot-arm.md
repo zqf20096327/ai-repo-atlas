@@ -44,13 +44,13 @@ PAROL6 是一款 3D 打印的桌面六轴机械臂开源项目，机械设计、
 
 ```mermaid
 xychart-beta
-    title "Source-Robotics/PAROL6-Desktop-robot-arm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3379 --> 3393
-    line [3380, 3389, 3392]
+    title "Source-Robotics/PAROL6-Desktop-robot-arm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3379 --> 3395
+    line [3380, 3389, 3392, 3394]
 ```
 
-2026-10-18 3,380 → 2026-10-22 3,392（+12）
+2026-10-18 3,380 → 2026-10-23 3,394（+14）
 
 
 ---

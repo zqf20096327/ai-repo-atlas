@@ -46,12 +46,12 @@ Prompthon Agentic Labs 发布的 agent 系统领域指南（handbook），主题
 ```mermaid
 xychart-beta
     title "Prompthon-IO/agent-systems-handbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 315 --> 317
     line [316, 316]
 ```
 
-2026-10-18 316 → 2026-10-22 316（+0）
+2026-10-18 316 → 2026-10-23 316（+0）
 
 
 ---

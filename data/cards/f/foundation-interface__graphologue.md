@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "foundation-interface/graphologue 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 361 --> 363
-    line [362, 362]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 361 --> 364
+    line [362, 363]
 ```
 
-2026-10-18 362 → 2026-10-21 362（+0）
+2026-10-18 362 → 2026-10-23 363（+1）
 
 
 ---

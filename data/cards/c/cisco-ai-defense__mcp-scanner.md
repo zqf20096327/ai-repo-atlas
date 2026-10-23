@@ -44,13 +44,13 @@ Cisco AI Defense 维护的 Python CLI/SDK/REST API 工具，用于扫描 MCP（M
 
 ```mermaid
 xychart-beta
-    title "cisco-ai-defense/mcp-scanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "cisco-ai-defense/mcp-scanner 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1093 --> 1097
-    line [1094, 1096]
+    line [1094, 1096, 1096]
 ```
 
-2026-10-18 1,094 → 2026-10-22 1,096（+2）
+2026-10-18 1,094 → 2026-10-23 1,096（+2）
 
 
 ---

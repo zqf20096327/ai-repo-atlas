@@ -46,13 +46,13 @@ AI Engineering from Scratch 的简体中文衍生版，提供 542 节课、20 �
 
 ```mermaid
 xychart-beta
-    title "fancyboi999/ai-engineering-from-scratch-zh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1250 --> 1266
-    line [1251, 1256, 1265]
+    title "fancyboi999/ai-engineering-from-scratch-zh 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1250 --> 1271
+    line [1251, 1256, 1265, 1270]
 ```
 
-2026-10-18 1,251 → 2026-10-22 1,265（+14）
+2026-10-18 1,251 → 2026-10-23 1,270（+19）
 
 
 ---

@@ -45,13 +45,13 @@ KAITO 是开源的 Kubernetes CRD/控制器套件，通过 Workspace、Inference
 
 ```mermaid
 xychart-beta
-    title "kaito-project/kaito 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1024 --> 1031
-    line [1025, 1027, 1030]
+    title "kaito-project/kaito 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1024 --> 1032
+    line [1025, 1027, 1030, 1031]
 ```
 
-2026-10-18 1,025 → 2026-10-22 1,030（+5）
+2026-10-18 1,025 → 2026-10-23 1,031（+6）
 
 
 ---

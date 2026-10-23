@@ -1,1 +1,78 @@
-{"fn": "selimfirat/pysad", "sha": "0726f1b97f39", "source": "readme", "identity": {"one_liner": "Python 流式异常检测库：逐点打分并校准告警", "review": "面向流数据的异常检测 Python 库：每个数据点到达时即学习并打分（fit_partial/score_partial），内置 16 个来自已发表论文的在线检测器（xStream、LODA、RS-Hash、Half-Space Trees、RRCF 等），配合一致性校准将原始分数转为可比概率并按阈值触发告警；提供预处理、投影、后处理、集成与 AUROC/AUPR 等流式评估指标，另可通过 ReferenceWindowModel 将 PyOD 批量检测器在滑动窗口上运行。pip 单命令安装，支持 Python 3.10-3.14，附 17 个标注基准数据集与论文引用。", "highlights": ["16 个来自发表论文的在线检测器，逐点 fit/score", "ConformalProbabilityCalibrator 将分数转为可比概率以触发告警", "预quential 评估：AUROC/AUPR/精确率/召回率逐点更新", "ReferenceWindowModel 可将任意 PyOD 检测器用于流场景"], "use_cases": ["对传感器或业务指标流实时逐点检测异常并触发告警", "网络流量入侵检测（KitNet）", "在滑动窗口上复用已有 PyOD 批量模型处理流数据", "在 17 个标注数据集上对比检测器效果"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/2009.02572", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["异常检测", "流式/在线学习", "时间序列监控", "欺诈/入侵检测", "机器学习库"], "domain": "机器学习/流式异常检测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5:  Streaming anomaly detection in Python. PySAD scores each data point when it arrives,", "L41: #### 16 detectors from published papers"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "selimfirat/pysad",
+ "sha": "0726f1b97f39",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 流式异常检测库：逐点打分并校准告警",
+  "review": "面向流数据的异常检测 Python 库：每个数据点到达时即学习并打分（fit_partial/score_partial），内置 16 个来自已发表论文的在线检测器（xStream、LODA、RS-Hash、Half-Space Trees、RRCF 等），配合一致性校准将原始分数转为可比概率并按阈值触发告警；提供预处理、投影、后处理、集成与 AUROC/AUPR 等流式评估指标，另可通过 ReferenceWindowModel 将 PyOD 批量检测器在滑动窗口上运行。pip 单命令安装，支持 Python 3.10-3.14，附 17 个标注基准数据集与论文引用。",
+  "highlights": [
+   "16 个来自发表论文的在线检测器，逐点 fit/score",
+   "ConformalProbabilityCalibrator 将分数转为可比概率以触发告警",
+   "预quential 评估：AUROC/AUPR/精确率/召回率逐点更新",
+   "ReferenceWindowModel 可将任意 PyOD 检测器用于流场景"
+  ],
+  "use_cases": [
+   "对传感器或业务指标流实时逐点检测异常并触发告警",
+   "网络流量入侵检测（KitNet）",
+   "在滑动窗口上复用已有 PyOD 批量模型处理流数据",
+   "在 17 个标注数据集上对比检测器效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2009.02572",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "异常检测",
+   "流式/在线学习",
+   "时间序列监控",
+   "欺诈/入侵检测",
+   "机器学习库"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Streaming anomaly detection in Python. PySAD scores each data point when it arrives,",
+   "L41: #### 16 detectors from published papers"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -45,13 +45,13 @@ EasyEDA Pro 的 AI 自动化工具：把原理图/PCB 操作封装为 typed acti
 
 ```mermaid
 xychart-beta
-    title "zhoushoujianwork/easyeda-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 686 --> 771
-    line [693, 718, 764]
+    title "zhoushoujianwork/easyeda-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 684 --> 795
+    line [693, 718, 764, 786]
 ```
 
-2026-10-18 693 → 2026-10-22 764（+71）
+2026-10-18 693 → 2026-10-23 786（+93）
 
 
 ---

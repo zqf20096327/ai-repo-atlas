@@ -43,13 +43,13 @@ Anthropic 举办的 Code with Claude 系列工作坊的教学材料仓库，含 
 
 ```mermaid
 xychart-beta
-    title "anthropics/cwc-workshops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2184 --> 2208
-    line [2186, 2197, 2206]
+    title "anthropics/cwc-workshops 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2184 --> 2212
+    line [2186, 2197, 2206, 2210]
 ```
 
-2026-10-18 2,186 → 2026-10-22 2,206（+20）
+2026-10-18 2,186 → 2026-10-23 2,210（+24）
 
 
 ---

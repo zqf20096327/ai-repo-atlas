@@ -44,13 +44,13 @@ Claude Code marketplace 插件，通过 shell 调用真实 `grok` CLI，将 Grok
 
 ```mermaid
 xychart-beta
-    title "xai-org/grok-build-plugin-cc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 262 --> 266
-    line [263, 264, 265]
+    title "xai-org/grok-build-plugin-cc 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 262 --> 267
+    line [263, 264, 265, 266]
 ```
 
-2026-10-18 263 → 2026-10-22 265（+2）
+2026-10-18 263 → 2026-10-23 266（+3）
 
 
 ---

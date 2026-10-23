@@ -46,12 +46,12 @@ JobHuntr 是一款求职自动化 AI agent 桌面应用（macOS/Windows 下载�
 ```mermaid
 xychart-beta
     title "lookr-fyi/job-application-bot-by-ollama-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 469 --> 471
-    line [470, 470]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 469 --> 472
+    line [470, 471]
 ```
 
-2026-10-18 470 → 2026-10-22 470（+0）
+2026-10-18 470 → 2026-10-23 471（+1）
 
 
 ---

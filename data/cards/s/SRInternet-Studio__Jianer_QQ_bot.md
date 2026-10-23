@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SRInternet-Studio/Jianer_QQ_bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "SRInternet-Studio/Jianer_QQ_bot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 137 --> 140
-    line [138, 139]
+    line [138, 139, 139]
 ```
 
-2026-10-18 138 → 2026-10-22 139（+1）
+2026-10-18 138 → 2026-10-23 139（+1）
 
 
 ---

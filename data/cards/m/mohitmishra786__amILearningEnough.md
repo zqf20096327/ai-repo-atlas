@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohitmishra786/amILearningEnough 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1359 --> 1362
-    line [1361, 1360]
+    title "mohitmishra786/amILearningEnough 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1359 --> 1367
+    line [1361, 1360, 1366]
 ```
 
-2026-10-18 1,361 → 2026-10-22 1,360（-1）
+2026-10-18 1,361 → 2026-10-23 1,366（+5）
 
 
 ---

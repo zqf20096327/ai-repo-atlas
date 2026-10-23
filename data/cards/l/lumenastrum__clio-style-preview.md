@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lumenastrum/clio-style-preview 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 179 --> 184
-    line [180, 182, 183]
+    title "lumenastrum/clio-style-preview 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 179 --> 185
+    line [180, 182, 183, 184]
 ```
 
-2026-10-18 180 → 2026-10-22 183（+3）
+2026-10-18 180 → 2026-10-23 184（+4）
 
 
 ---

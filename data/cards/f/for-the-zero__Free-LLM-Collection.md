@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "for-the-zero/Free-LLM-Collection 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 641 --> 657
-    line [642, 651, 656]
+    title "for-the-zero/Free-LLM-Collection 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 640 --> 664
+    line [642, 651, 656, 662]
 ```
 
-2026-10-18 642 → 2026-10-22 656（+14）
+2026-10-18 642 → 2026-10-23 662（+20）
 
 
 ---

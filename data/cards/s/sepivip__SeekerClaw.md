@@ -33,7 +33,7 @@ Solana Mobile Hackathon 获奖项目：在 Android 应用内嵌 Node.js 运行�
 
 ## 场景标签
 
- · 领域:移动 AI 代理/加密货币
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
@@ -45,12 +45,12 @@ Solana Mobile Hackathon 获奖项目：在 Android 应用内嵌 Node.js 运行�
 ```mermaid
 xychart-beta
     title "sepivip/SeekerClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 318 --> 320
     line [319, 319]
 ```
 
-2026-10-18 319 → 2026-10-22 319（+0）
+2026-10-18 319 → 2026-10-23 319（+0）
 
 
 ---

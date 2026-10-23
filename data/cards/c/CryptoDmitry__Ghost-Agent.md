@@ -45,12 +45,12 @@ Coreon-MCP-Execution-Engine 为结构化 ToolCall 链提供统一运行时：Pla
 ```mermaid
 xychart-beta
     title "CryptoDmitry/Ghost-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 743 --> 745
-    line [744, 744]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 742 --> 745
+    line [744, 743]
 ```
 
-2026-10-18 744 → 2026-10-22 744（+0）
+2026-10-18 744 → 2026-10-23 743（-1）
 
 
 ---

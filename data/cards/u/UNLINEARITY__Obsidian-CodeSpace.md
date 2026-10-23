@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "UNLINEARITY/Obsidian-CodeSpace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 266 --> 269
-    line [267, 268]
+    title "UNLINEARITY/Obsidian-CodeSpace 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 266 --> 270
+    line [267, 268, 269]
 ```
 
-2026-10-18 267 → 2026-10-22 268（+1）
+2026-10-18 267 → 2026-10-23 269（+2）
 
 
 ---

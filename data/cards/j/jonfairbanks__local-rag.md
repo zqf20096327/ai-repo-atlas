@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jonfairbanks/local-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 762 --> 765
-    line [763, 764]
+    title "jonfairbanks/local-rag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 762 --> 766
+    line [763, 764, 765]
 ```
 
-2026-10-18 763 → 2026-10-22 764（+1）
+2026-10-18 763 → 2026-10-23 765（+2）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bansky-cl/diffusion-nlp-paper-arxiv 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 315 --> 317
-    line [316, 316]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 315 --> 318
+    line [316, 317]
 ```
 
-2026-10-18 316 → 2026-10-22 316（+0）
+2026-10-18 316 → 2026-10-23 317（+1）
 
 
 ---

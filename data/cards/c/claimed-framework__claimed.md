@@ -44,13 +44,13 @@ CLAIMED Component Compiler（C3）是 CLAIMED 低代码框架的核心项目：�
 
 ```mermaid
 xychart-beta
-    title "claimed-framework/claimed 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "claimed-framework/claimed 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2304 --> 2308
-    line [2307, 2305, 2306]
+    line [2307, 2305, 2306, 2306]
 ```
 
-2026-10-18 2,307 → 2026-10-22 2,306（-1）
+2026-10-18 2,307 → 2026-10-23 2,306（-1）
 
 
 ---

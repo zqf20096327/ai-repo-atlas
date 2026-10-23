@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cloudflare/agents-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1343 --> 1346
-    line [1344, 1345]
+    title "cloudflare/agents-starter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1343 --> 1347
+    line [1344, 1345, 1346]
 ```
 
-2026-10-18 1,344 → 2026-10-22 1,345（+1）
+2026-10-18 1,344 → 2026-10-23 1,346（+2）
 
 
 ---

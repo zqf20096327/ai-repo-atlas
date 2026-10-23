@@ -45,12 +45,12 @@ Apache Doris 官方的 MCP Server，通过 stdio 或 Streamable HTTP 向 MCP Hos
 ```mermaid
 xychart-beta
     title "apache/doris-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
     y-axis "stars" 350 --> 353
     line [351, 352, 352]
 ```
 
-2026-10-18 351 → 2026-10-22 352（+1）
+2026-10-18 351 → 2026-10-23 352（+1）
 
 
 ---

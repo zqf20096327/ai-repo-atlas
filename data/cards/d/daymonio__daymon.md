@@ -45,12 +45,12 @@ Electron 桌面应用（macOS/Windows/Linux 菜单栏驻留），接入已有的
 ```mermaid
 xychart-beta
     title "daymonio/daymon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 364 --> 366
     line [365, 365]
 ```
 
-2026-10-18 365 → 2026-10-22 365（+0）
+2026-10-18 365 → 2026-10-23 365（+0）
 
 
 ---

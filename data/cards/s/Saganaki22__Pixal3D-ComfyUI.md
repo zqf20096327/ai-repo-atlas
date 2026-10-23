@@ -44,13 +44,13 @@ ComfyUI 自定义节点集合，封装 TencentARC/Pixal3D 模型在本地执行�
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/Pixal3D-ComfyUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "Saganaki22/Pixal3D-ComfyUI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 216 --> 221
-    line [217, 218, 220]
+    line [217, 218, 220, 219]
 ```
 
-2026-10-18 217 → 2026-10-22 220（+3）
+2026-10-18 217 → 2026-10-23 219（+2）
 
 
 ---

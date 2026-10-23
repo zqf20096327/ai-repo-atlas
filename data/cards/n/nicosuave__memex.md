@@ -45,13 +45,13 @@ Memex 索引 Claude Code、Codex、Cursor、Copilot 等 18 种编码工具在本
 
 ```mermaid
 xychart-beta
-    title "nicosuave/memex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 265 --> 272
-    line [266, 269, 271]
+    title "nicosuave/memex 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 265 --> 276
+    line [266, 269, 271, 275]
 ```
 
-2026-10-18 266 → 2026-10-22 271（+5）
+2026-10-18 266 → 2026-10-23 275（+9）
 
 
 ---

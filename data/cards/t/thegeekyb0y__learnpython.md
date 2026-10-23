@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thegeekyb0y/learnpython 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 984 --> 988
-    line [985, 987]
+    title "thegeekyb0y/learnpython 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 984 --> 989
+    line [985, 987, 988]
 ```
 
-2026-10-18 985 → 2026-10-22 987（+2）
+2026-10-18 985 → 2026-10-23 988（+3）
 
 
 ---

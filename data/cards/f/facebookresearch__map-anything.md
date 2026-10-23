@@ -45,13 +45,13 @@ Meta 与 CMU 合作的开源研究框架，核心为端到端训练的 transform
 
 ```mermaid
 xychart-beta
-    title "facebookresearch/map-anything 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3822 --> 3848
-    line [3824, 3831, 3846]
+    title "facebookresearch/map-anything 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3822 --> 3851
+    line [3824, 3831, 3846, 3849]
 ```
 
-2026-10-18 3,824 → 2026-10-22 3,846（+22）
+2026-10-18 3,824 → 2026-10-23 3,849（+25）
 
 
 ---

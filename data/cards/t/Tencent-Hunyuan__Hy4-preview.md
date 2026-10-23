@@ -44,13 +44,13 @@ Hy4 preview 是腾讯混元团队开源的 Mixture-of-Experts 大语言模型：
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hy4-preview 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 395 --> 399
-    line [396, 397, 398]
+    title "Tencent-Hunyuan/Hy4-preview 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 395 --> 402
+    line [396, 397, 398, 401]
 ```
 
-2026-10-18 396 → 2026-10-22 398（+2）
+2026-10-18 396 → 2026-10-23 401（+5）
 
 
 ---

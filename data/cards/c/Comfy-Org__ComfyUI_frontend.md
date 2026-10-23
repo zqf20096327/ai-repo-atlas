@@ -44,13 +44,13 @@ Comfy-Org 维护的 ComfyUI 官方前端项目，提供节点图编辑（Litegra
 
 ```mermaid
 xychart-beta
-    title "Comfy-Org/ComfyUI_frontend 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2070 --> 2082
-    line [2071, 2076, 2081]
+    title "Comfy-Org/ComfyUI_frontend 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2070 --> 2083
+    line [2071, 2076, 2081, 2082]
 ```
 
-2026-10-18 2,071 → 2026-10-22 2,081（+10）
+2026-10-18 2,071 → 2026-10-23 2,082（+11）
 
 
 ---

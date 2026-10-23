@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/aws-ml-enablement-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 549 --> 551
     line [550, 550]
 ```
 
-2026-10-18 550 → 2026-10-22 550（+0）
+2026-10-18 550 → 2026-10-23 550（+0）
 
 
 ---

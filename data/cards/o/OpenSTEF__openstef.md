@@ -44,13 +44,13 @@ OpenSTEF（Open Short-Term Energy Forecasting）是面向能源领域的模型�
 
 ```mermaid
 xychart-beta
-    title "OpenSTEF/openstef 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "OpenSTEF/openstef 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 172 --> 176
-    line [173, 175]
+    line [173, 175, 175]
 ```
 
-2026-10-18 173 → 2026-10-22 175（+2）
+2026-10-18 173 → 2026-10-23 175（+2）
 
 
 ---

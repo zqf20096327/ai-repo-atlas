@@ -44,13 +44,13 @@ ElevenLabs API 的官方 Python 客户端库，覆盖 TTS 主模型（Eleven v3�
 
 ```mermaid
 xychart-beta
-    title "elevenlabs/elevenlabs-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3144 --> 3149
-    line [3145, 3147, 3148]
+    title "elevenlabs/elevenlabs-python 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3144 --> 3151
+    line [3145, 3147, 3148, 3150]
 ```
 
-2026-10-18 3,145 → 2026-10-22 3,148（+3）
+2026-10-18 3,145 → 2026-10-23 3,150（+5）
 
 
 ---

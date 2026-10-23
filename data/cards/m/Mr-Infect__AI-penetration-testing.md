@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mr-Infect/AI-penetration-testing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 294 --> 297
-    line [295, 296]
+    title "Mr-Infect/AI-penetration-testing 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 294 --> 298
+    line [295, 296, 297]
 ```
 
-2026-10-18 295 → 2026-10-22 296（+1）
+2026-10-18 295 → 2026-10-23 297（+2）
 
 
 ---

@@ -44,13 +44,13 @@ Rust 实现的 hat-based 自治代理编排框架，将 AI 编码助手 CLI（Cl
 
 ```mermaid
 xychart-beta
-    title "mikeyobrien/ralph-orchestrator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3179 --> 3183
-    line [3180, 3181, 3182]
+    title "mikeyobrien/ralph-orchestrator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3179 --> 3186
+    line [3180, 3181, 3182, 3185]
 ```
 
-2026-10-18 3,180 → 2026-10-22 3,182（+2）
+2026-10-18 3,180 → 2026-10-23 3,185（+5）
 
 
 ---

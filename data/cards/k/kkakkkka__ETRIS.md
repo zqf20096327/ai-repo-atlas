@@ -46,12 +46,12 @@ Bridging Vision and Language Encoders 一文（ICCV 2023）的官方 PyTorch 代
 ```mermaid
 xychart-beta
     title "kkakkkka/ETRIS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 146 --> 148
     line [147, 147]
 ```
 
-2026-10-18 147 → 2026-10-22 147（+0）
+2026-10-18 147 → 2026-10-23 147（+0）
 
 
 ---

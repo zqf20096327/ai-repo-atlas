@@ -44,13 +44,13 @@ Hugging Face 维护的 transformer 模型预训练库，提供简单灵活的 AP
 
 ```mermaid
 xychart-beta
-    title "huggingface/nanotron 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "huggingface/nanotron 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2842 --> 2845
-    line [2843, 2844]
+    line [2843, 2844, 2844]
 ```
 
-2026-10-18 2,843 → 2026-10-22 2,844（+1）
+2026-10-18 2,843 → 2026-10-23 2,844（+1）
 
 
 ---

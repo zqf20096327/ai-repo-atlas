@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "treylom/prompt-engineering-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 186 --> 190
-    line [187, 189]
+    title "treylom/prompt-engineering-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 186 --> 191
+    line [187, 189, 190]
 ```
 
-2026-10-18 187 → 2026-10-22 189（+2）
+2026-10-18 187 → 2026-10-23 190（+3）
 
 
 ---

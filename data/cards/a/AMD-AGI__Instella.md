@@ -45,12 +45,12 @@ AMD GenAI 团队在 Instinct MI300X GPU 上训练的全开放语言模型家族�
 ```mermaid
 xychart-beta
     title "AMD-AGI/Instella 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 334 --> 336
-    line [335, 335]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 333 --> 336
+    line [335, 334]
 ```
 
-2026-10-18 335 → 2026-10-21 335（+0）
+2026-10-18 335 → 2026-10-23 334（-1）
 
 
 ---

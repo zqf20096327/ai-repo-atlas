@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iamzifei/wechat-article-publisher-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 156 --> 158
     line [157, 157]
 ```
 
-2026-10-18 157 → 2026-10-22 157（+0）
+2026-10-18 157 → 2026-10-23 157（+0）
 
 
 ---

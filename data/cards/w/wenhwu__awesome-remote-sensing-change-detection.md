@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wenhwu/awesome-remote-sensing-change-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "wenhwu/awesome-remote-sensing-change-detection 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2360 --> 2363
-    line [2361, 2362]
+    line [2361, 2362, 2362]
 ```
 
-2026-10-18 2,361 → 2026-10-22 2,362（+1）
+2026-10-18 2,361 → 2026-10-23 2,362（+1）
 
 
 ---

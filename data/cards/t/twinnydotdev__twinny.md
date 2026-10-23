@@ -45,12 +45,12 @@ MIT 许可的 VS Code 扩展，提供 fill-in-the-middle 代码补全、Ctrl+I �
 ```mermaid
 xychart-beta
     title "twinnydotdev/twinny 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 3673 --> 3675
-    line [3674, 3674]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 3673 --> 3676
+    line [3674, 3675]
 ```
 
-2026-10-18 3,674 → 2026-10-22 3,674（+0）
+2026-10-18 3,674 → 2026-10-23 3,675（+1）
 
 
 ---

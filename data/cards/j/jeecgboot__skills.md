@@ -47,12 +47,12 @@ JeecgBoot 官方维护的 12 个 Claude Code Skills，覆盖 JeecgBoot 低代码
 ```mermaid
 xychart-beta
     title "jeecgboot/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 241 --> 243
     line [242, 242]
 ```
 
-2026-10-18 242 → 2026-10-22 242（+0）
+2026-10-18 242 → 2026-10-23 242（+0）
 
 
 ---

@@ -45,13 +45,13 @@ Atomic Agents 是一个基于 Instructor 与 Pydantic 的 Python 框架，以原
 
 ```mermaid
 xychart-beta
-    title "Eigenwise/atomic-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Eigenwise/atomic-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 6287 --> 6290
-    line [6288, 6289]
+    line [6288, 6289, 6289]
 ```
 
-2026-10-18 6,288 → 2026-10-22 6,289（+1）
+2026-10-18 6,288 → 2026-10-23 6,289（+1）
 
 
 ---

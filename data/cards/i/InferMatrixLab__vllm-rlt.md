@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "InferMatrixLab/vllm-rlt 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-22"]
-    y-axis "stars" 191 --> 199
-    line [192, 198]
+    title "InferMatrixLab/vllm-rlt 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 191 --> 203
+    line [192, 198, 202]
 ```
 
-2026-10-19 192 → 2026-10-22 198（+6）
+2026-10-19 192 → 2026-10-23 202（+10）
 
 
 ---

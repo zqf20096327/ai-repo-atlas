@@ -45,12 +45,12 @@ Provider 无关的 Ruby AI Agents SDK，用于构建多 agent 工作流：提供
 ```mermaid
 xychart-beta
     title "chatwoot/ai-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 161 --> 163
     line [162, 162]
 ```
 
-2026-10-18 162 → 2026-10-22 162（+0）
+2026-10-18 162 → 2026-10-23 162（+0）
 
 
 ---

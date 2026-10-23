@@ -46,12 +46,12 @@ Prismer Cloud 是一个面向 AI Agent 的托管服务平台（Intelligence Runt
 ```mermaid
 xychart-beta
     title "Prismer-AI/PrismerCloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1383 --> 1385
-    line [1384, 1384]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1361 --> 1386
+    line [1384, 1363]
 ```
 
-2026-10-18 1,384 → 2026-10-22 1,384（+0）
+2026-10-18 1,384 → 2026-10-23 1,363（-21）
 
 
 ---

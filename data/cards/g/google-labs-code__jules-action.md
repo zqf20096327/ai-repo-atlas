@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-labs-code/jules-action 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 255 --> 260
-    line [256, 259]
+    title "google-labs-code/jules-action 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 255 --> 262
+    line [256, 259, 261]
 ```
 
-2026-10-18 256 → 2026-10-22 259（+3）
+2026-10-18 256 → 2026-10-23 261（+5）
 
 
 ---

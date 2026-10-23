@@ -45,12 +45,12 @@ DeepMind 论文 Bootstrap Your Own Latent 的 PyTorch 实现：提供一个模�
 ```mermaid
 xychart-beta
     title "lucidrains/byol-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 1899 --> 1901
     line [1900, 1900]
 ```
 
-2026-10-18 1,900 → 2026-10-22 1,900（+0）
+2026-10-18 1,900 → 2026-10-23 1,900（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/meshgen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 932 --> 935
-    line [933, 934]
+    title "huggingface/meshgen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 932 --> 936
+    line [933, 934, 935]
 ```
 
-2026-10-18 933 → 2026-10-22 934（+1）
+2026-10-18 933 → 2026-10-23 935（+2）
 
 
 ---

@@ -33,7 +33,7 @@ sgl-project 维护的 LLM 推理引擎，基于 JAX 并针对 Google TPU 优化�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/推理
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -46,12 +46,12 @@ sgl-project 维护的 LLM 推理引擎，基于 JAX 并针对 Google TPU 优化�
 ```mermaid
 xychart-beta
     title "sgl-project/sglang-jax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 365 --> 367
     line [366, 366]
 ```
 
-2026-10-18 366 → 2026-10-22 366（+0）
+2026-10-18 366 → 2026-10-23 366（+0）
 
 
 ---

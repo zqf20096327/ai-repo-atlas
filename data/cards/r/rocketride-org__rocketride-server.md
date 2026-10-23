@@ -53,13 +53,13 @@ RocketRide 是一个开源 AI 管线构建器与运行时：管线以 .pipe JSON
 
 ```mermaid
 xychart-beta
-    title "rocketride-org/rocketride-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 17720 --> 17761
-    line [17758, 17738, 17723]
+    title "rocketride-org/rocketride-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 17713 --> 17762
+    line [17758, 17738, 17723, 17717]
 ```
 
-2026-10-18 17,758 → 2026-10-22 17,723（-35）
+2026-10-18 17,758 → 2026-10-23 17,717（-41）
 
 
 ---

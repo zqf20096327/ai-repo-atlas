@@ -47,12 +47,12 @@ FastFlowLM (FLM) 是专为 AMD Ryzen AI 系列 XDNA2 NPU（Strix、Strix Halo、
 ```mermaid
 xychart-beta
     title "ROCm/FastFlowLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 1963 --> 1969
-    line [1964, 1968, 1968]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 1963 --> 1981
+    line [1964, 1968, 1980]
 ```
 
-2026-10-18 1,964 → 2026-10-21 1,968（+4）
+2026-10-18 1,964 → 2026-10-23 1,980（+16）
 
 
 ---

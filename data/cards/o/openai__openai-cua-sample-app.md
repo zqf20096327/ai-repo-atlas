@@ -45,13 +45,13 @@ OpenAI 官方仓库，演示如何通过 Responses API 构建计算机使用代�
 
 ```mermaid
 xychart-beta
-    title "openai/openai-cua-sample-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1900 --> 1907
-    line [1901, 1906]
+    title "openai/openai-cua-sample-app 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1900 --> 1908
+    line [1901, 1906, 1907]
 ```
 
-2026-10-18 1,901 → 2026-10-22 1,906（+5）
+2026-10-18 1,901 → 2026-10-23 1,907（+6）
 
 
 ---

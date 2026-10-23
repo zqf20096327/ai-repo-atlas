@@ -44,13 +44,13 @@ Lightning-AI 维护的 PyTorch 指标集合：内置 100+ 指标，覆盖音频�
 
 ```mermaid
 xychart-beta
-    title "Lightning-AI/torchmetrics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Lightning-AI/torchmetrics 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2475 --> 2478
-    line [2476, 2477]
+    line [2476, 2477, 2476]
 ```
 
-2026-10-18 2,476 → 2026-10-22 2,477（+1）
+2026-10-18 2,476 → 2026-10-23 2,476（+0）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/GenerativeAIExamples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 4209 --> 4213
-    line [4210, 4212]
+    title "NVIDIA/GenerativeAIExamples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4209 --> 4215
+    line [4210, 4212, 4214]
 ```
 
-2026-10-18 4,210 → 2026-10-22 4,212（+2）
+2026-10-18 4,210 → 2026-10-23 4,214（+4）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/deep-learning-notes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 704 --> 708
-    line [705, 706, 707]
+    title "datawhalechina/deep-learning-notes 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 704 --> 709
+    line [705, 706, 707, 708]
 ```
 
-2026-10-18 705 → 2026-10-22 707（+2）
+2026-10-18 705 → 2026-10-23 708（+3）
 
 
 ---

@@ -45,13 +45,13 @@ Kubernetes SIG Apps 下的项目，提供 Sandbox CRD 与控制器，以声明�
 
 ```mermaid
 xychart-beta
-    title "kubernetes-sigs/agent-sandbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4286 --> 4347
-    line [4291, 4316, 4342]
+    title "kubernetes-sigs/agent-sandbox 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4285 --> 4360
+    line [4291, 4316, 4342, 4354]
 ```
 
-2026-10-18 4,291 → 2026-10-22 4,342（+51）
+2026-10-18 4,291 → 2026-10-23 4,354（+63）
 
 
 ---

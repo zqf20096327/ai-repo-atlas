@@ -1,1 +1,80 @@
-{"fn": "seuksaedu-beep/Persona-Flow-Chat", "sha": "592e27b0e33e", "source": "readme", "identity": {"one_liner": "设计与部署 AI 人格的社交 Feed 模拟工作室", "review": "PersonaForge 是一个创建和运行 AI 对话人格的创意沙盒：通过 Persona Blueprint Engine 定义年龄、职业、语言风格、情绪基线等特征，将人格放入模拟社交媒体 Feed 中自主发帖、回复并参与多方对话；带动态记忆图（记住旧互动、记仇、内部梗）与 Persona Drift 模式（人格随互动缓慢演变）。支持本地或云端多模型后端切换，人格层逻辑与底层模型解耦；提供多语言人格模板与移动优先 Web 界面，可导出 JSON/Markdown 对话日志。面向游戏开发者、写作者、研究者和教育者。README 声明 MIT 许可，但未展示具体安装命令或代码结构，仅提供下载入口。", "highlights": ["Persona Blueprint Engine 定义语言习惯、情绪基线、认知偏差等人格参数", "Feed 模拟中人格自主发帖、回复、多方对话，支持 24/7 定时运行", "动态记忆图记录过往互动，Persona Drift 模式让人格随交互演变", "多模型后端支持（本地或云端），切换模型不改人格逻辑"], "use_cases": ["为游戏填充能互相聊天的虚构社交网络 NPC", "生成角色间对话以辅助写作与叙事", "在受控可复现环境中研究 AI 社群的涌现语言行为", "创建历史人物机器人用于教学互动"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI人格模拟", "社交Feed仿真", "对话生成", "多Agent交互", "计算社会科学"], "domain": "AI 社交模拟/叙事生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: Welcome to **PersonaForge**, a creative sandbox for designing, assembling, and deploying hyper-realistic AI conversation", "L27: - **Feed Simulation** — A scrolling social timeline where AI agents autonomously generate content (text posts, image cap", "L29: - **Multi-Model Backend Support** — Swap underlying language models (local or cloud) without rewriting persona logic. Th"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "seuksaedu-beep/Persona-Flow-Chat",
+ "sha": "592e27b0e33e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "设计与部署 AI 人格的社交 Feed 模拟工作室",
+  "review": "PersonaForge 是一个创建和运行 AI 对话人格的创意沙盒：通过 Persona Blueprint Engine 定义年龄、职业、语言风格、情绪基线等特征，将人格放入模拟社交媒体 Feed 中自主发帖、回复并参与多方对话；带动态记忆图（记住旧互动、记仇、内部梗）与 Persona Drift 模式（人格随互动缓慢演变）。支持本地或云端多模型后端切换，人格层逻辑与底层模型解耦；提供多语言人格模板与移动优先 Web 界面，可导出 JSON/Markdown 对话日志。面向游戏开发者、写作者、研究者和教育者。README 声明 MIT 许可，但未展示具体安装命令或代码结构，仅提供下载入口。",
+  "highlights": [
+   "Persona Blueprint Engine 定义语言习惯、情绪基线、认知偏差等人格参数",
+   "Feed 模拟中人格自主发帖、回复、多方对话，支持 24/7 定时运行",
+   "动态记忆图记录过往互动，Persona Drift 模式让人格随交互演变",
+   "多模型后端支持（本地或云端），切换模型不改人格逻辑"
+  ],
+  "use_cases": [
+   "为游戏填充能互相聊天的虚构社交网络 NPC",
+   "生成角色间对话以辅助写作与叙事",
+   "在受控可复现环境中研究 AI 社群的涌现语言行为",
+   "创建历史人物机器人用于教学互动"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI人格模拟",
+   "社交Feed仿真",
+   "对话生成",
+   "多Agent交互",
+   "计算社会科学"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Welcome to **PersonaForge**, a creative sandbox for designing, assembling, and deploying hyper-realistic AI conversation",
+   "L27: - **Feed Simulation** — A scrolling social timeline where AI agents autonomously generate content (text posts, image cap",
+   "L29: - **Multi-Model Backend Support** — Swap underlying language models (local or cloud) without rewriting persona logic. Th"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

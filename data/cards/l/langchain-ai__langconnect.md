@@ -45,12 +45,12 @@ LangConnect 是一个用 FastAPI 与 LangChain 构建的 RAG 服务，提供 RES
 ```mermaid
 xychart-beta
     title "langchain-ai/langconnect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 344 --> 346
     line [345, 345]
 ```
 
-2026-10-18 345 → 2026-10-22 345（+0）
+2026-10-18 345 → 2026-10-23 345（+0）
 
 
 ---

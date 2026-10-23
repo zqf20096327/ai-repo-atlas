@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amazon-science/chronos-forecasting 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 6123 --> 6167
-    line [6126, 6146, 6164]
+    title "amazon-science/chronos-forecasting 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 6122 --> 6178
+    line [6126, 6146, 6164, 6174]
 ```
 
-2026-10-18 6,126 → 2026-10-22 6,164（+38）
+2026-10-18 6,126 → 2026-10-23 6,174（+48）
 
 
 ---

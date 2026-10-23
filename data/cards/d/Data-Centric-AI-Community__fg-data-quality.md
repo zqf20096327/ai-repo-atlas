@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Data-Centric-AI-Community/fg-data-quality 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 454 --> 456
     line [455, 455]
 ```
 
-2026-10-18 455 → 2026-10-22 455（+0）
+2026-10-18 455 → 2026-10-23 455（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cmb211087/azure-diagrams-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 150 --> 153
-    line [151, 152]
+    title "cmb211087/azure-diagrams-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 150 --> 154
+    line [151, 152, 153]
 ```
 
-2026-10-18 151 → 2026-10-22 152（+1）
+2026-10-18 151 → 2026-10-23 153（+2）
 
 
 ---

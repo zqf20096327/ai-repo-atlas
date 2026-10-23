@@ -45,13 +45,13 @@ TensorFlow GNN 提供构建图神经网络所需的组件：GraphTensor 类型�
 
 ```mermaid
 xychart-beta
-    title "tensorflow/gnn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1544 --> 1548
-    line [1545, 1547]
+    title "tensorflow/gnn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1544 --> 1549
+    line [1545, 1547, 1548]
 ```
 
-2026-10-18 1,545 → 2026-10-22 1,547（+2）
+2026-10-18 1,545 → 2026-10-23 1,548（+3）
 
 
 ---

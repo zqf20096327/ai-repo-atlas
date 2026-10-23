@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlephAITech/DoubaoWorkGuide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 214 --> 221
-    line [215, 218, 220]
+    title "AlephAITech/DoubaoWorkGuide 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 214 --> 222
+    line [215, 218, 220, 221]
 ```
 
-2026-10-18 215 → 2026-10-22 220（+5）
+2026-10-18 215 → 2026-10-23 221（+6）
 
 
 ---

@@ -45,13 +45,13 @@ DSH Plugin Hub 的开源客户端，面向 DeepSeek Harness（DSH）插件生态
 
 ```mermaid
 xychart-beta
-    title "pax-beehive/dsh-hub-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 385 --> 392
-    line [391, 388, 386]
+    title "pax-beehive/dsh-hub-cli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 266 --> 402
+    line [391, 388, 386, 277]
 ```
 
-2026-10-18 391 → 2026-10-22 386（-5）
+2026-10-18 391 → 2026-10-23 277（-114）
 
 
 ---

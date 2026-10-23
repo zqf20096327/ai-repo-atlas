@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MatthewFilipovich/torchoptics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "MatthewFilipovich/torchoptics 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 174 --> 177
-    line [175, 176]
+    line [175, 176, 176]
 ```
 
-2026-10-18 175 → 2026-10-22 176（+1）
+2026-10-18 175 → 2026-10-23 176（+1）
 
 
 ---

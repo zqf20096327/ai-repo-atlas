@@ -1,1 +1,73 @@
-{"fn": "scikit-learn-contrib/metric-learn", "sha": "98caeb87fc59", "source": "readme", "identity": {"one_liner": "Python 度量学习算法库：多种监督/弱监督度量学习实现", "review": "scikit-learn-contrib 下的 Python 库，提供 LMNN、ITML、NCA、LFDA 等十余种监督与弱监督度量学习算法的高效实现。API 与 scikit-learn 兼容，可复用 scikit-learn 的流水线、模型选择等例程，通过统一接口调用。依赖 numpy/scipy/scikit-learn，SDML 算法可选搭配 skggm 处理问题用例。通过 PyPI、conda-forge 或源码安装，附 JMLR 论文供引用。", "highlights": ["10 种监督/弱监督度量学习算法实现（LMNN、ITML、NCA、LFDA 等）", "API 与 scikit-learn 兼容，可复用其流水线与模型选择例程", "支持 pip 与 conda-forge 安装，提供 sphinx 文档"], "use_cases": ["为 kNN 或聚类任务学习马氏距离度量", "在 scikit-learn 流水线中集成度量学习算法", "科研场景中复现度量学习方法并引用对应论文"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "http://www.jmlr.org/papers/volume21/19-678/19-678.pdf", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["度量学习", "机器学习库", "scikit-learn生态", "距离度量"], "domain": "机器学习/算法库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: metric-learn contains efficient Python implementations of several popular supervised and weakly-supervised metric learni", "L9: - Large Margin Nearest Neighbor (LMNN)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "scikit-learn-contrib/metric-learn",
+ "sha": "98caeb87fc59",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 度量学习算法库：多种监督/弱监督度量学习实现",
+  "review": "scikit-learn-contrib 下的 Python 库，提供 LMNN、ITML、NCA、LFDA 等十余种监督与弱监督度量学习算法的高效实现。API 与 scikit-learn 兼容，可复用 scikit-learn 的流水线、模型选择等例程，通过统一接口调用。依赖 numpy/scipy/scikit-learn，SDML 算法可选搭配 skggm 处理问题用例。通过 PyPI、conda-forge 或源码安装，附 JMLR 论文供引用。",
+  "highlights": [
+   "10 种监督/弱监督度量学习算法实现（LMNN、ITML、NCA、LFDA 等）",
+   "API 与 scikit-learn 兼容，可复用其流水线与模型选择例程",
+   "支持 pip 与 conda-forge 安装，提供 sphinx 文档"
+  ],
+  "use_cases": [
+   "为 kNN 或聚类任务学习马氏距离度量",
+   "在 scikit-learn 流水线中集成度量学习算法",
+   "科研场景中复现度量学习方法并引用对应论文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "http://www.jmlr.org/papers/volume21/19-678/19-678.pdf",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "度量学习",
+   "机器学习库",
+   "scikit-learn生态",
+   "距离度量"
+  ],
+  "domain": "机器学习/算法库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: metric-learn contains efficient Python implementations of several popular supervised and weakly-supervised metric learni",
+   "L9: - Large Margin Nearest Neighbor (LMNN)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

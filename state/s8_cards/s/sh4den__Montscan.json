@@ -1,1 +1,81 @@
-{"fn": "sh4den/Montscan", "sha": "a3f93e51d050", "source": "readme", "identity": {"one_liner": "扫描仪文档自动处理工具：AI 生成文件名并上传云端", "review": "用 Go 编写的扫描文档处理器：通过内置 FTP 服务器、SMB 轮询或本地目录监听接收扫描 PDF，用 Poppler/ImageMagick 转图片后交由 Ollama 视觉模型（如 llava）分析内容并生成含描述与日期的文件名，再上传至 WebDAV（Nextcloud/ownCloud）或 SMB 共享。AI 命名失败时回退为时间戳文件名。README 自述尚在活跃开发、未完全达到生产就绪，1000 份文档小测试集上成功率 97.5%。提供本地构建与 Docker Compose 部署两种方式。", "highlights": ["三种接入方式：FTP 服务器、SMB 轮询、本地目录监听", "Ollama 视觉模型生成描述性、含日期的文件名，失败时回退时间戳命名", "上传目标支持 WebDAV（Nextcloud/ownCloud）与 SMB/CIFS 共享", "Docker Compose 部署，可选 NVIDIA GPU 加速 Ollama"], "use_cases": ["让网络扫描仪的文件自动获得有意义的文件名并归档到 Nextcloud", "扫描件自动按内容命名后分发到公司 SMB 共享", "监听本地文件夹批量重命名历史扫描 PDF"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [2]}}, "links": {"scenario_tags": ["文档自动化", "扫描仪工作流", "AI文件命名", "家庭/办公自动化", "WebDAV"], "domain": "文档管理/办公自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16: - 👁️ **Vision AI Processing** - Analyzes scanned documents using Ollama vision models", "L230: - Montscan falls back to a timestamp filename (`scan_YYYYMMDD_HHMMSS.pdf`) on AI failure"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sh4den/Montscan",
+ "sha": "a3f93e51d050",
+ "source": "readme",
+ "identity": {
+  "one_liner": "扫描仪文档自动处理工具：AI 生成文件名并上传云端",
+  "review": "用 Go 编写的扫描文档处理器：通过内置 FTP 服务器、SMB 轮询或本地目录监听接收扫描 PDF，用 Poppler/ImageMagick 转图片后交由 Ollama 视觉模型（如 llava）分析内容并生成含描述与日期的文件名，再上传至 WebDAV（Nextcloud/ownCloud）或 SMB 共享。AI 命名失败时回退为时间戳文件名。README 自述尚在活跃开发、未完全达到生产就绪，1000 份文档小测试集上成功率 97.5%。提供本地构建与 Docker Compose 部署两种方式。",
+  "highlights": [
+   "三种接入方式：FTP 服务器、SMB 轮询、本地目录监听",
+   "Ollama 视觉模型生成描述性、含日期的文件名，失败时回退时间戳命名",
+   "上传目标支持 WebDAV（Nextcloud/ownCloud）与 SMB/CIFS 共享",
+   "Docker Compose 部署，可选 NVIDIA GPU 加速 Ollama"
+  ],
+  "use_cases": [
+   "让网络扫描仪的文件自动获得有意义的文件名并归档到 Nextcloud",
+   "扫描件自动按内容命名后分发到公司 SMB 共享",
+   "监听本地文件夹批量重命名历史扫描 PDF"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    2
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档自动化",
+   "扫描仪工作流",
+   "AI文件命名",
+   "家庭/办公自动化",
+   "WebDAV"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: - 👁️ **Vision AI Processing** - Analyzes scanned documents using Ollama vision models",
+   "L230: - Montscan falls back to a timestamp filename (`scan_YYYYMMDD_HHMMSS.pdf`) on AI failure"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

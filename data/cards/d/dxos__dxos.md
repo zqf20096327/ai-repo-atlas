@@ -43,13 +43,13 @@ DXOS（Decentralized Operating System）是一个用于构建完全去中心化�
 
 ```mermaid
 xychart-beta
-    title "dxos/dxos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "dxos/dxos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 526 --> 529
-    line [527, 528]
+    line [527, 528, 528]
 ```
 
-2026-10-18 527 → 2026-10-22 528（+1）
+2026-10-18 527 → 2026-10-23 528（+1）
 
 
 ---

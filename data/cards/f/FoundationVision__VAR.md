@@ -45,13 +45,13 @@ NeurIPS 2024 最佳论文《Visual Autoregressive Modeling: Scalable Image Gener
 
 ```mermaid
 xychart-beta
-    title "FoundationVision/VAR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 8756 --> 8760
-    line [8758, 8757, 8759]
+    title "FoundationVision/VAR 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 8756 --> 8762
+    line [8758, 8757, 8759, 8761]
 ```
 
-2026-10-18 8,758 → 2026-10-22 8,759（+1）
+2026-10-18 8,758 → 2026-10-23 8,761（+3）
 
 
 ---

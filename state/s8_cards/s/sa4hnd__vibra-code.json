@@ -1,1 +1,82 @@
-{"fn": "sa4hnd/vibra-code", "sha": "883ce146f650", "source": "readme", "identity": {"one_liner": "开源 AI 移动应用生成器：描述需求由 AI 生成 App 并手机预览", "review": "面向终端用户的开源 AI 应用构建器，也是 App Store 同名应用的完整源码。用户用自然语言（支持语音与截图输入）描述想要的应用，后端在 E2B 云沙箱中运行 Claude Code 生成完整应用代码，变更经 Convex 实时同步到手机原生预览。技术栈为 Next.js 15 + Convex + Inngest + React Native/Expo，支持切换 Claude/Cursor/Gemini 供应商，可自托管与二次开发。限制：需多项第三方 API key，移动端构建要求 macOS 与 Xcode。", "highlights": ["E2B 云沙箱内运行 Claude Code 实时生成应用代码", "Convex 实时同步，手机端原生预览 web 与移动应用", "多 AI 供应商（Claude/Cursor/Gemini）一键切换", "Texture + IGListKit 的 60fps 原生聊天 UI，支持语音/图片输入"], "use_cases": ["用一句话描述就生成移动应用并在手机上预览", "自托管并定制 AI 提示词的 vibe coding 应用", "把 AI 生成的项目直接推送到 GitHub"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI应用生成", "vibe coding", "移动开发", "自托管", "低代码"], "domain": "AI 应用构建工具", "alternative_to": ["Lovable", "Cursor"], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L41: Vibra Code is an **open-source AI app builder** that lets you create mobile apps by describing them in plain English. Th", "L65: **Multi-AI providers** -- Claude (default), Cursor, Gemini. Switch with one env var."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sa4hnd/vibra-code",
+ "sha": "883ce146f650",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 移动应用生成器：描述需求由 AI 生成 App 并手机预览",
+  "review": "面向终端用户的开源 AI 应用构建器，也是 App Store 同名应用的完整源码。用户用自然语言（支持语音与截图输入）描述想要的应用，后端在 E2B 云沙箱中运行 Claude Code 生成完整应用代码，变更经 Convex 实时同步到手机原生预览。技术栈为 Next.js 15 + Convex + Inngest + React Native/Expo，支持切换 Claude/Cursor/Gemini 供应商，可自托管与二次开发。限制：需多项第三方 API key，移动端构建要求 macOS 与 Xcode。",
+  "highlights": [
+   "E2B 云沙箱内运行 Claude Code 实时生成应用代码",
+   "Convex 实时同步，手机端原生预览 web 与移动应用",
+   "多 AI 供应商（Claude/Cursor/Gemini）一键切换",
+   "Texture + IGListKit 的 60fps 原生聊天 UI，支持语音/图片输入"
+  ],
+  "use_cases": [
+   "用一句话描述就生成移动应用并在手机上预览",
+   "自托管并定制 AI 提示词的 vibe coding 应用",
+   "把 AI 生成的项目直接推送到 GitHub"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI应用生成",
+   "vibe coding",
+   "移动开发",
+   "自托管",
+   "低代码"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [
+   "Lovable",
+   "Cursor"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L41: Vibra Code is an **open-source AI app builder** that lets you create mobile apps by describing them in plain English. Th",
+   "L65: **Multi-AI providers** -- Claude (default), Cursor, Gemini. Switch with one env var."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -45,13 +45,13 @@ TypeScript 实现的网关，将微信等聊天平台作为适配器连接到宿
 
 ```mermaid
 xychart-beta
-    title "Gan-Xing/CodexBridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 456 --> 460
-    line [457, 459]
+    title "Gan-Xing/CodexBridge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 456 --> 462
+    line [457, 459, 461]
 ```
 
-2026-10-18 457 → 2026-10-22 459（+2）
+2026-10-18 457 → 2026-10-23 461（+4）
 
 
 ---

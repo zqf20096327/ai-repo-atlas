@@ -1,1 +1,79 @@
-{"fn": "rwth-i6/returnn", "sha": "6fc35058214c", "source": "readme", "identity": {"one_liner": "RWTH 大学的循环神经网络训练框架，面向 ASR/MT 研究", "review": "基于 PyTorch/TensorFlow 的循环神经网络训练框架，针对多 GPU 环境下快速可靠的 RNN 训练优化。特性包括序列分块批训练、LSTM（含自研 CUDA kernel）、多维 LSTM（仅 GPU）、大数据集内存管理、多设备任务分布，以及各类 encoder-attention-decoder 模型。面向科研与生产场景（解码速度面向生产），提供 ASR/MT 实验示例与文档。要求 Python>=3.8，TensorFlow 方案需 TF>=2.2，PyTorch 方案需 Torch>=1.0。", "highlights": ["基于 PyTorch/TensorFlow 双后端的 RNN 训练框架", "LSTM 自研 CUDA kernel，多维 LSTM 仅支持 GPU", "序列分块批训练与多设备任务分布", "支持各类 encoder-attention-decoder 模型"], "use_cases": ["在多 GPU 环境下训练语音识别/机器翻译模型", "搭建和复现 ASR 实验（如 Switchboard、LibriSpeech）", "研究自定义循环神经网络架构"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/1608.00895", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["深度学习框架", "RNN训练", "语音识别", "机器翻译", "多GPU"], "domain": "深度学习/语音与语言研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: RETURNN - RWTH extensible training framework for universal recurrent neural networks,", "L9: It is optimized for fast and reliable training of recurrent neural networks in a multi-GPU environment."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rwth-i6/returnn",
+ "sha": "6fc35058214c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RWTH 大学的循环神经网络训练框架，面向 ASR/MT 研究",
+  "review": "基于 PyTorch/TensorFlow 的循环神经网络训练框架，针对多 GPU 环境下快速可靠的 RNN 训练优化。特性包括序列分块批训练、LSTM（含自研 CUDA kernel）、多维 LSTM（仅 GPU）、大数据集内存管理、多设备任务分布，以及各类 encoder-attention-decoder 模型。面向科研与生产场景（解码速度面向生产），提供 ASR/MT 实验示例与文档。要求 Python>=3.8，TensorFlow 方案需 TF>=2.2，PyTorch 方案需 Torch>=1.0。",
+  "highlights": [
+   "基于 PyTorch/TensorFlow 双后端的 RNN 训练框架",
+   "LSTM 自研 CUDA kernel，多维 LSTM 仅支持 GPU",
+   "序列分块批训练与多设备任务分布",
+   "支持各类 encoder-attention-decoder 模型"
+  ],
+  "use_cases": [
+   "在多 GPU 环境下训练语音识别/机器翻译模型",
+   "搭建和复现 ASR 实验（如 Switchboard、LibriSpeech）",
+   "研究自定义循环神经网络架构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/1608.00895",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习框架",
+   "RNN训练",
+   "语音识别",
+   "机器翻译",
+   "多GPU"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "asr",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: RETURNN - RWTH extensible training framework for universal recurrent neural networks,",
+   "L9: It is optimized for fast and reliable training of recurrent neural networks in a multi-GPU environment."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

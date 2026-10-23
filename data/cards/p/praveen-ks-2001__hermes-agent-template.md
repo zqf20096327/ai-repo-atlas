@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "praveen-ks-2001/hermes-agent-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "praveen-ks-2001/hermes-agent-template 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 321 --> 325
-    line [322, 324]
+    line [322, 324, 324]
 ```
 
-2026-10-18 322 → 2026-10-22 324（+2）
+2026-10-18 322 → 2026-10-23 324（+2）
 
 
 ---

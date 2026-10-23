@@ -45,13 +45,13 @@ Packt 出版的《LLM Engineer's Handbook》官方仓库，含可运行的完整
 
 ```mermaid
 xychart-beta
-    title "PacktPublishing/LLM-Engineers-Handbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 5381 --> 5395
-    line [5382, 5390, 5394]
+    title "PacktPublishing/LLM-Engineers-Handbook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 5381 --> 5397
+    line [5382, 5390, 5394, 5396]
 ```
 
-2026-10-18 5,382 → 2026-10-22 5,394（+12）
+2026-10-18 5,382 → 2026-10-23 5,396（+14）
 
 
 ---

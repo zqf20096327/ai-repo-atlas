@@ -45,12 +45,12 @@ CATCH 是 ICLR 2025 论文的官方 PyTorch 实现，面向多变量时间序列
 ```mermaid
 xychart-beta
     title "decisionintelligence/CATCH 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 205 --> 207
-    line [206, 206]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 205 --> 208
+    line [206, 207]
 ```
 
-2026-10-18 206 → 2026-10-22 206（+0）
+2026-10-18 206 → 2026-10-23 207（+1）
 
 
 ---

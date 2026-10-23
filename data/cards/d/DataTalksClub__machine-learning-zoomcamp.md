@@ -52,13 +52,13 @@ DataTalks.Club 出品的免费机器学习工程课程，覆盖从问题定义�
 
 ```mermaid
 xychart-beta
-    title "DataTalksClub/machine-learning-zoomcamp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 14770 --> 14815
-    line [14773, 14796, 14812]
+    title "DataTalksClub/machine-learning-zoomcamp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 14769 --> 14825
+    line [14773, 14796, 14812, 14821]
 ```
 
-2026-10-18 14,773 → 2026-10-22 14,812（+39）
+2026-10-18 14,773 → 2026-10-23 14,821（+48）
 
 
 ---

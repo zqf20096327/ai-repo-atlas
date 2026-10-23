@@ -45,13 +45,13 @@ Google DeepMind 开发的 JAX 神经网络库，由 Sonnet 作者团队打造，
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/dm-haiku 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "google-deepmind/dm-haiku 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3294 --> 3297
-    line [3295, 3296]
+    line [3295, 3296, 3296]
 ```
 
-2026-10-18 3,295 → 2026-10-22 3,296（+1）
+2026-10-18 3,295 → 2026-10-23 3,296（+1）
 
 
 ---

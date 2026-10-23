@@ -44,13 +44,13 @@ xAI 维护的 Grok Build 插件官方目录仓库：以 .grok-plugin/marketplace
 
 ```mermaid
 xychart-beta
-    title "xai-org/plugin-marketplace 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 290 --> 301
-    line [291, 294, 300]
+    title "xai-org/plugin-marketplace 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 290 --> 304
+    line [291, 294, 300, 303]
 ```
 
-2026-10-18 291 → 2026-10-22 300（+9）
+2026-10-18 291 → 2026-10-23 303（+12）
 
 
 ---

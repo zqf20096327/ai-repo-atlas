@@ -44,13 +44,13 @@ macOS 菜单栏应用加 Codex 插件：读取 Codex 每轮会话记录（请求
 
 ```mermaid
 xychart-beta
-    title "kiyoakii/is-gpt-nerfed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 250 --> 254
-    line [251, 253]
+    title "kiyoakii/is-gpt-nerfed 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 250 --> 257
+    line [251, 253, 256]
 ```
 
-2026-10-18 251 → 2026-10-22 253（+2）
+2026-10-18 251 → 2026-10-23 256（+5）
 
 
 ---

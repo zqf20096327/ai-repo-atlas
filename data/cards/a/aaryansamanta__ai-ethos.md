@@ -46,12 +46,12 @@ AI Ethos, Inc. 是 501(c)(3) 非营利组织，本仓库为其官网 aiethos.org
 ```mermaid
 xychart-beta
     title "aaryansamanta/ai-ethos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 498 --> 500
-    line [499, 499]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 497 --> 500
+    line [499, 498]
 ```
 
-2026-10-18 499 → 2026-10-22 499（+0）
+2026-10-18 499 → 2026-10-23 498（-1）
 
 
 ---

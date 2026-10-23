@@ -44,13 +44,13 @@ OpenAI 开源的 LLM 评测库，提供 MMLU、MATH、GPQA、DROP、MGSM、Human
 
 ```mermaid
 xychart-beta
-    title "openai/simple-evals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4665 --> 4671
-    line [4666, 4668, 4670]
+    title "openai/simple-evals 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4665 --> 4673
+    line [4666, 4668, 4670, 4672]
 ```
 
-2026-10-18 4,666 → 2026-10-22 4,670（+4）
+2026-10-18 4,666 → 2026-10-23 4,672（+6）
 
 
 ---

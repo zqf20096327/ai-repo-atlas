@@ -34,7 +34,7 @@ Omar Santos 维护的伴生代码仓库，服务于其培训课程、视频课�
 
 ## 场景标签
 
- · 领域:网络安全/AI agent 教育
+`网络安全` `教程课程` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
@@ -46,13 +46,13 @@ Omar Santos 维护的伴生代码仓库，服务于其培训课程、视频课�
 
 ```mermaid
 xychart-beta
-    title "santosomar/AI-agents-for-cybersecurity 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 247 --> 253
-    line [248, 250, 252]
+    title "santosomar/AI-agents-for-cybersecurity 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 247 --> 254
+    line [248, 250, 252, 253]
 ```
 
-2026-10-18 248 → 2026-10-22 252（+4）
+2026-10-18 248 → 2026-10-23 253（+5）
 
 
 ---

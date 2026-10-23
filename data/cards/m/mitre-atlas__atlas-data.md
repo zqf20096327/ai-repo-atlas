@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mitre-atlas/atlas-data 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 199 --> 202
-    line [200, 201]
+    title "mitre-atlas/atlas-data 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 199 --> 203
+    line [200, 201, 202]
 ```
 
-2026-10-18 200 → 2026-10-22 201（+1）
+2026-10-18 200 → 2026-10-23 202（+2）
 
 
 ---

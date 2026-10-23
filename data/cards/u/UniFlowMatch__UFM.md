@@ -44,13 +44,13 @@ CMU 团队提出的端到端 transformer 模型 UFM，直接回归像素位移�
 
 ```mermaid
 xychart-beta
-    title "UniFlowMatch/UFM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "UniFlowMatch/UFM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 354 --> 358
-    line [355, 357]
+    line [355, 357, 357]
 ```
 
-2026-10-18 355 → 2026-10-22 357（+2）
+2026-10-18 355 → 2026-10-23 357（+2）
 
 
 ---

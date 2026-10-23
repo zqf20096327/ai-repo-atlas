@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 290 --> 292
-    line [291, 291]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 281 --> 292
+    line [291, 282]
 ```
 
-2026-10-18 291 → 2026-10-22 291（+0）
+2026-10-18 291 → 2026-10-23 282（-9）
 
 
 ---

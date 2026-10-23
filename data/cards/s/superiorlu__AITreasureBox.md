@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "superiorlu/AITreasureBox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 872 --> 875
-    line [873, 874]
+    title "superiorlu/AITreasureBox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 872 --> 876
+    line [873, 874, 875]
 ```
 
-2026-10-18 873 → 2026-10-22 874（+1）
+2026-10-18 873 → 2026-10-23 875（+2）
 
 
 ---

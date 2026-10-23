@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ariadng/metatrader-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 830 --> 833
-    line [831, 832, 831]
+    title "ariadng/metatrader-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 830 --> 834
+    line [831, 832, 831, 833]
 ```
 
-2026-10-18 831 → 2026-10-22 831（+0）
+2026-10-18 831 → 2026-10-23 833（+2）
 
 
 ---

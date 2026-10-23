@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-code-playground 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 243 --> 273
-    line [245, 256, 271]
+    title "anthropics/claude-code-playground 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 242 --> 281
+    line [245, 256, 271, 278]
 ```
 
-2026-10-18 245 → 2026-10-22 271（+26）
+2026-10-18 245 → 2026-10-23 278（+33）
 
 
 ---

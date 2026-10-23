@@ -44,13 +44,13 @@ LangChain 团队维护的 Python/TypeScript 库，提供针对 agent 执行轨�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/agentevals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "langchain-ai/agentevals 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 750 --> 753
-    line [752, 751]
+    line [752, 751, 751]
 ```
 
-2026-10-18 752 → 2026-10-22 751（-1）
+2026-10-18 752 → 2026-10-23 751（-1）
 
 
 ---

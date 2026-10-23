@@ -40,6 +40,18 @@ TACO（Trash Annotations in Context）是持续扩充的野外垃圾图像数据
 > L1: TACO is a growing image dataset of waste in the wild. It contains images of litter taken under
 > L3: according to a hierarchical taxonomy to train and evaluate object detection algorithms. Currently,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pedropro/TACO 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 774 --> 776
+    line [775, 775]
+```
+
+2026-10-22 775 → 2026-10-23 775（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `7acf76480f7b` · [字段定义](../../DATASET.md)*

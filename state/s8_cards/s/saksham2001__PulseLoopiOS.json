@@ -1,1 +1,85 @@
-{"fn": "saksham2001/PulseLoopiOS", "sha": "f799e9f75091", "source": "readme", "identity": {"one_liner": "iOS 健康追踪应用：连接廉价智能戒指并内置可选 AI 教练", "review": "SwiftUI 编写的 iOS 应用，通过蓝牙 LE 直连廉价智能戒指（generic Jring、Colmi/Yawell 家族、R10M、TK5），解码厂商私有协议读取心率、血氧、步数、睡眠分期等数据，本地 SwiftData 持久化，不依赖厂商云与账号。在此之上提供可选的 AI Coach 代理循环，支持 OpenAI、Gemini、OpenRouter、MiniMax、Apple 端侧模型及任意 OpenAI 兼容服务器（Ollama/llama.cpp/vLLM 等），可读取指标、生成图表、长期记忆并支持图片输入。另有 Android 姊妹项目共享 BLE 协议工作。安装途径为 TestFlight 公测或 Xcode 16+ 源码构建（需 iOS 18+ 设备）。TK5 戒指标注为实验性有限支持。", "highlights": ["BLE 直连智能戒指，解码私有协议，无需厂商云与账号", "可选 AI Coach：多提供商/自托管 OpenAI 兼容服务器，带工具、图表生成、长期记忆与图片输入", "SwiftUI 原生界面 + SwiftData 本地持久化，含运动记录、GPS 路线与实时心率区间", "设备无关驱动层，Colmi 戒指两种 BLE 协议均支持"], "use_cases": ["用廉价智能戒指记录睡眠、心率、活动并本地查看", "向 AI 教练提问自己的健康趋势，让其分析数据生成图表", "拍照食物/标签让教练结合自身数据分析"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [137, 139], "note": "TK5 支持标注为 experimental / limited support"}}, "links": {"scenario_tags": ["可穿戴设备", "健康追踪", "自托管/隐私", "iOS应用", "BLE逆向工程"], "domain": "健康/可穿戴应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "ollama", "vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L31: An LLM-native health app for iOS that turns a cheap Bluetooth \"smart ring\"", "L37: account) and layers an **optional** AI Coach on top of your own data. Instead of"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "saksham2001/PulseLoopiOS",
+ "sha": "f799e9f75091",
+ "source": "readme",
+ "identity": {
+  "one_liner": "iOS 健康追踪应用：连接廉价智能戒指并内置可选 AI 教练",
+  "review": "SwiftUI 编写的 iOS 应用，通过蓝牙 LE 直连廉价智能戒指（generic Jring、Colmi/Yawell 家族、R10M、TK5），解码厂商私有协议读取心率、血氧、步数、睡眠分期等数据，本地 SwiftData 持久化，不依赖厂商云与账号。在此之上提供可选的 AI Coach 代理循环，支持 OpenAI、Gemini、OpenRouter、MiniMax、Apple 端侧模型及任意 OpenAI 兼容服务器（Ollama/llama.cpp/vLLM 等），可读取指标、生成图表、长期记忆并支持图片输入。另有 Android 姊妹项目共享 BLE 协议工作。安装途径为 TestFlight 公测或 Xcode 16+ 源码构建（需 iOS 18+ 设备）。TK5 戒指标注为实验性有限支持。",
+  "highlights": [
+   "BLE 直连智能戒指，解码私有协议，无需厂商云与账号",
+   "可选 AI Coach：多提供商/自托管 OpenAI 兼容服务器，带工具、图表生成、长期记忆与图片输入",
+   "SwiftUI 原生界面 + SwiftData 本地持久化，含运动记录、GPS 路线与实时心率区间",
+   "设备无关驱动层，Colmi 戒指两种 BLE 协议均支持"
+  ],
+  "use_cases": [
+   "用廉价智能戒指记录睡眠、心率、活动并本地查看",
+   "向 AI 教练提问自己的健康趋势，让其分析数据生成图表",
+   "拍照食物/标签让教练结合自身数据分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    137,
+    139
+   ],
+   "note": "TK5 支持标注为 experimental / limited support"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可穿戴设备",
+   "健康追踪",
+   "自托管/隐私",
+   "iOS应用",
+   "BLE逆向工程"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: An LLM-native health app for iOS that turns a cheap Bluetooth \"smart ring\"",
+   "L37: account) and layers an **optional** AI Coach on top of your own data. Instead of"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

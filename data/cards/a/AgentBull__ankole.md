@@ -44,13 +44,13 @@ Elixir/OTP 控制平面驱动的自托管 Agent Harness：Agent 通过 Slack、T
 
 ```mermaid
 xychart-beta
-    title "AgentBull/ankole 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 125 --> 142
-    line [126, 140, 141]
+    title "AgentBull/ankole 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 125 --> 143
+    line [126, 140, 141, 142]
 ```
 
-2026-10-18 126 → 2026-10-22 141（+15）
+2026-10-18 126 → 2026-10-23 142（+16）
 
 
 ---

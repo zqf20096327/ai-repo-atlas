@@ -44,13 +44,13 @@ Agent Host Protocol（AHP）定义便携独立会话服务器与客户端之间�
 
 ```mermaid
 xychart-beta
-    title "microsoft/agent-host-protocol 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 403 --> 411
-    line [404, 408, 410]
+    title "microsoft/agent-host-protocol 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 403 --> 412
+    line [404, 408, 410, 411]
 ```
 
-2026-10-18 404 → 2026-10-22 410（+6）
+2026-10-18 404 → 2026-10-23 411（+7）
 
 
 ---

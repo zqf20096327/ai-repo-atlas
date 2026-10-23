@@ -46,12 +46,12 @@ Dart 编写的 MCP 服务器加 Flutter 包，面向 Codex、Cursor、Claude Cod
 ```mermaid
 xychart-beta
     title "Arenukvern/mcp_flutter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 388 --> 390
-    line [389, 389]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 388 --> 391
+    line [389, 390]
 ```
 
-2026-10-18 389 → 2026-10-22 389（+0）
+2026-10-18 389 → 2026-10-23 390（+1）
 
 
 ---

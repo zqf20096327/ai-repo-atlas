@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dean9703111/ai-agent-skill-for-video-workflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "dean9703111/ai-agent-skill-for-video-workflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 218 --> 221
-    line [219, 220]
+    line [219, 220, 219]
 ```
 
-2026-10-18 219 → 2026-10-22 220（+1）
+2026-10-18 219 → 2026-10-23 219（+0）
 
 
 ---

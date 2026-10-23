@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "withceleste/celeste-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 220 --> 227
-    line [221, 226]
+    title "withceleste/celeste-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 220 --> 228
+    line [221, 226, 227]
 ```
 
-2026-10-18 221 → 2026-10-22 226（+5）
+2026-10-18 221 → 2026-10-23 227（+6）
 
 
 ---

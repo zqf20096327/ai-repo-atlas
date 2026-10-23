@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "helloianneo/ian-xiaohei-illustrations 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 12616 --> 12726
-    line [12625, 12682, 12717]
+    title "helloianneo/ian-xiaohei-illustrations 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 12613 --> 12764
+    line [12625, 12682, 12717, 12752]
 ```
 
-2026-10-18 12,625 → 2026-10-22 12,717（+92）
+2026-10-18 12,625 → 2026-10-23 12,752（+127）
 
 
 ---

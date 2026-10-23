@@ -45,13 +45,13 @@ DeepMind 发表于 Nature 的 SynthID Text 论文的参考实现，提供 LLM �
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/synthid-text 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1181 --> 1188
-    line [1182, 1183, 1187]
+    title "google-deepmind/synthid-text 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1181 --> 1190
+    line [1182, 1183, 1187, 1189]
 ```
 
-2026-10-18 1,182 → 2026-10-22 1,187（+5）
+2026-10-18 1,182 → 2026-10-23 1,189（+7）
 
 
 ---

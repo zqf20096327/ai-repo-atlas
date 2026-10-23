@@ -44,13 +44,13 @@ TypeScript 库 @lobehub/tts，提供文本转语音与语音转文本能力，�
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobe-tts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 805 --> 808
-    line [806, 807]
+    title "lobehub/lobe-tts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 805 --> 810
+    line [806, 807, 809]
 ```
 
-2026-10-18 806 → 2026-10-22 807（+1）
+2026-10-18 806 → 2026-10-23 809（+3）
 
 
 ---

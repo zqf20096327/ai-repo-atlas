@@ -1,1 +1,76 @@
-{"fn": "scverse/cellrank", "sha": "abf7c8e6a2ee", "source": "readme", "identity": {"one_liner": "单细胞多视图数据的细胞命运推断框架（马尔可夫态建模）", "review": "CellRank 是研究细胞动力学的模块化框架，基于马尔可夫态建模处理多视图单细胞数据。支持从 RNA velocity、伪时间、实验时间点、代谢标记等多种生物先验估计分化方向，计算初始/终末/中间宏观态，推断命运概率与驱动基因，并可视化与聚类基因表达趋势。后端由 pyGPCCA 提供支持，兼容 scverse 生态。以 Python 包形式经 pip 安装，面向单细胞基因组学分析用户，附带论文与文档。", "highlights": ["基于多视图单细胞数据的马尔可夫态建模", "支持 RNA velocity、伪时间、代谢标记等多种生物先验", "计算宏观态、命运概率与驱动基因", "后端由 pyGPCCA 驱动，兼容 scverse 生态"], "use_cases": ["推断细胞分化方向与终末命运", "计算命运概率并识别驱动基因", "可视化与聚类基因表达趋势"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["单细胞分析", "细胞命运推断", "RNA velocity", "生物信息学"], "domain": "生物信息学/单细胞基因组学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L13: **CellRank** is a modular framework to study cellular dynamics based on Markov state modeling of", "L20: In the backend, it is powered by [pyGPCCA] ([Reuter et al. (2018)]). Feel"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "scverse/cellrank",
+ "sha": "abf7c8e6a2ee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单细胞多视图数据的细胞命运推断框架（马尔可夫态建模）",
+  "review": "CellRank 是研究细胞动力学的模块化框架，基于马尔可夫态建模处理多视图单细胞数据。支持从 RNA velocity、伪时间、实验时间点、代谢标记等多种生物先验估计分化方向，计算初始/终末/中间宏观态，推断命运概率与驱动基因，并可视化与聚类基因表达趋势。后端由 pyGPCCA 提供支持，兼容 scverse 生态。以 Python 包形式经 pip 安装，面向单细胞基因组学分析用户，附带论文与文档。",
+  "highlights": [
+   "基于多视图单细胞数据的马尔可夫态建模",
+   "支持 RNA velocity、伪时间、代谢标记等多种生物先验",
+   "计算宏观态、命运概率与驱动基因",
+   "后端由 pyGPCCA 驱动，兼容 scverse 生态"
+  ],
+  "use_cases": [
+   "推断细胞分化方向与终末命运",
+   "计算命运概率并识别驱动基因",
+   "可视化与聚类基因表达趋势"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "单细胞分析",
+   "细胞命运推断",
+   "RNA velocity",
+   "生物信息学"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: **CellRank** is a modular framework to study cellular dynamics based on Markov state modeling of",
+   "L20: In the backend, it is powered by [pyGPCCA] ([Reuter et al. (2018)]). Feel"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

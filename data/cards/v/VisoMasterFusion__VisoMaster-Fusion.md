@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VisoMasterFusion/VisoMaster-Fusion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 959 --> 965
-    line [960, 964, 963]
+    title "VisoMasterFusion/VisoMaster-Fusion 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 959 --> 967
+    line [960, 964, 963, 966]
 ```
 
-2026-10-18 960 → 2026-10-22 963（+3）
+2026-10-18 960 → 2026-10-23 966（+6）
 
 
 ---

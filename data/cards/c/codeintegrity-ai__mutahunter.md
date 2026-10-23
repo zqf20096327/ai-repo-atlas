@@ -39,6 +39,18 @@
 > L3:  Open-Source Language Agnostic LLM-based Mutation Testing
 > L12: # Install Mutahunter package via GitHub. Python 3.11+ is required.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "codeintegrity-ai/mutahunter 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 302 --> 304
+    line [303, 303]
+```
+
+2026-10-22 303 → 2026-10-23 303（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 low · 依据 README sha `ab1bdb61cb6d` · [字段定义](../../DATASET.md)*

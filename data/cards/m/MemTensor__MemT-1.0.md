@@ -41,6 +41,18 @@ MemT-1.0 是记忆基础模型系列，含 Nano（基于 Qwen3.6-35B-A3B，激�
 > L28: |MemT-1.0-Nano|Qwen3.6-35B-A3B|36B|3B|451M|10M|
 > L29: |MemT-1.0-Flash|DeepSeek-V4-Flash|288B|17B|3.61B|336M|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MemTensor/MemT-1.0 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 247 --> 340
+    line [254, 333]
+```
+
+2026-10-22 254 → 2026-10-23 333（+79）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `0e0ffcbf322b` · [字段定义](../../DATASET.md)*

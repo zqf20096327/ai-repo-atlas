@@ -43,13 +43,13 @@ OpenAI 维护的 GitHub Action，面向使用 GitHub 托管 Linux 运行器（ub
 
 ```mermaid
 xychart-beta
-    title "openai/fence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 157 --> 161
-    line [158, 160]
+    title "openai/fence 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 157 --> 162
+    line [158, 160, 161]
 ```
 
-2026-10-18 158 → 2026-10-22 160（+2）
+2026-10-18 158 → 2026-10-23 161（+3）
 
 
 ---

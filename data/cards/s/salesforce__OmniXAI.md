@@ -47,12 +47,12 @@ OmniXAI 是 Salesforce 维护的可解释 AI Python 库，为数据科学家、M
 ```mermaid
 xychart-beta
     title "salesforce/OmniXAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 973 --> 975
     line [974, 974]
 ```
 
-2026-10-18 974 → 2026-10-22 974（+0）
+2026-10-18 974 → 2026-10-23 974（+0）
 
 
 ---

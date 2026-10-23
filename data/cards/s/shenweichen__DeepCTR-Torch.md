@@ -44,13 +44,13 @@ DeepCTR 的 PyTorch 版本：提供 20 余种基于深度学习的 CTR（点击�
 
 ```mermaid
 xychart-beta
-    title "shenweichen/DeepCTR-Torch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 3467 --> 3471
-    line [3468, 3470]
+    title "shenweichen/DeepCTR-Torch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3467 --> 3472
+    line [3468, 3470, 3471]
 ```
 
-2026-10-18 3,468 → 2026-10-22 3,470（+2）
+2026-10-18 3,468 → 2026-10-23 3,471（+3）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RobThePCGuy/Claude-Patent-Creator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "RobThePCGuy/Claude-Patent-Creator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 200 --> 204
-    line [201, 202, 203]
+    line [201, 202, 203, 203]
 ```
 
-2026-10-18 201 → 2026-10-22 203（+2）
+2026-10-18 201 → 2026-10-23 203（+2）
 
 
 ---

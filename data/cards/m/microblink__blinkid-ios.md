@@ -44,13 +44,13 @@ Microblink 维护的 iOS 原生证件扫描 SDK，含核心 BlinkID 框架与可
 
 ```mermaid
 xychart-beta
-    title "microblink/blinkid-ios 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "microblink/blinkid-ios 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 399 --> 402
-    line [401, 400]
+    line [401, 400, 400]
 ```
 
-2026-10-18 401 → 2026-10-22 400（-1）
+2026-10-18 401 → 2026-10-23 400（-1）
 
 
 ---

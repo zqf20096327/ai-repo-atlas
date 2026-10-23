@@ -45,13 +45,13 @@ AI 辅助开发（Agentic Engineering）实践模式的知识库：将 Agent Rea
 
 ```mermaid
 xychart-beta
-    title "PaulDuvall/ai-development-patterns 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "PaulDuvall/ai-development-patterns 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 665 --> 670
-    line [666, 667, 669]
+    line [666, 667, 669, 669]
 ```
 
-2026-10-18 666 → 2026-10-22 669（+3）
+2026-10-18 666 → 2026-10-23 669（+3）
 
 
 ---

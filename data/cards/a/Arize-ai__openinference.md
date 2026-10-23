@@ -46,13 +46,13 @@ OpenInference 提供一套与 OpenTelemetry 互补的约定（规范）和插桩
 
 ```mermaid
 xychart-beta
-    title "Arize-ai/openinference 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1265 --> 1275
-    line [1266, 1271, 1274]
+    title "Arize-ai/openinference 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1265 --> 1279
+    line [1266, 1271, 1274, 1278]
 ```
 
-2026-10-18 1,266 → 2026-10-22 1,274（+8）
+2026-10-18 1,266 → 2026-10-23 1,278（+12）
 
 
 ---

@@ -44,13 +44,13 @@ NVIDIA Merlin 框架的组件之一，为深度学习推荐系统提供 TB 级�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-Merlin/NVTabular 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "NVIDIA-Merlin/NVTabular 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1152 --> 1155
-    line [1153, 1154]
+    line [1153, 1154, 1154]
 ```
 
-2026-10-18 1,153 → 2026-10-22 1,154（+1）
+2026-10-18 1,153 → 2026-10-23 1,154（+1）
 
 
 ---

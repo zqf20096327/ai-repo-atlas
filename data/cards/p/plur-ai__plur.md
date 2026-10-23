@@ -45,12 +45,12 @@ PLUR 是给 MCP 客户端（Claude Code、Codex、Cursor、OpenCode 等）提供
 ```mermaid
 xychart-beta
     title "plur-ai/plur 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 305 --> 307
-    line [306, 306]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 305 --> 309
+    line [306, 308]
 ```
 
-2026-10-18 306 → 2026-10-21 306（+0）
+2026-10-18 306 → 2026-10-23 308（+2）
 
 
 ---

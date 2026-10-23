@@ -44,13 +44,13 @@ Supervisely 计算机视觉平台的官方 Python SDK，供开发者通过脚本
 
 ```mermaid
 xychart-beta
-    title "supervisely/supervisely 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "supervisely/supervisely 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 543 --> 547
-    line [546, 544, 545]
+    line [546, 544, 545, 545]
 ```
 
-2026-10-18 546 → 2026-10-22 545（-1）
+2026-10-18 546 → 2026-10-23 545（-1）
 
 
 ---

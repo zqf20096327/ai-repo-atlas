@@ -46,12 +46,12 @@ HunyuanVideo 的图生视频扩展版本，官方 PyTorch 模型定义、预训�
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HunyuanVideo-I2V 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 1848 --> 1850
     line [1849, 1849]
 ```
 
-2026-10-18 1,849 → 2026-10-22 1,849（+0）
+2026-10-18 1,849 → 2026-10-23 1,849（+0）
 
 
 ---

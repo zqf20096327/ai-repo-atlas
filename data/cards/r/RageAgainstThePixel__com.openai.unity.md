@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RageAgainstThePixel/com.openai.unity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 596 --> 598
     line [597, 597]
 ```
 
-2026-10-18 597 → 2026-10-22 597（+0）
+2026-10-18 597 → 2026-10-23 597（+0）
 
 
 ---

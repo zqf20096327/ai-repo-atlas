@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VigoZhao/AI-Visual-Prompt-Cookbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 785 --> 798
-    line [786, 792, 797]
+    title "VigoZhao/AI-Visual-Prompt-Cookbook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 785 --> 802
+    line [786, 792, 797, 801]
 ```
 
-2026-10-18 786 → 2026-10-22 797（+11）
+2026-10-18 786 → 2026-10-23 801（+15）
 
 
 ---

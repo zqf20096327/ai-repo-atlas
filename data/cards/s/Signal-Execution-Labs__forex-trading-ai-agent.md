@@ -46,13 +46,13 @@ K.I.T. 是一个基于 Node.js/TypeScript 的量化交易平台，以 CLI 与 Da
 
 ```mermaid
 xychart-beta
-    title "Signal-Execution-Labs/forex-trading-ai-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 168 --> 174
-    line [169, 171, 173]
+    title "Signal-Execution-Labs/forex-trading-ai-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 168 --> 175
+    line [169, 171, 173, 174]
 ```
 
-2026-10-18 169 → 2026-10-22 173（+4）
+2026-10-18 169 → 2026-10-23 174（+5）
 
 
 ---

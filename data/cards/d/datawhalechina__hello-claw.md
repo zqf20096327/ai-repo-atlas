@@ -46,13 +46,13 @@ Datawhale 维护的面向 OpenClaw 命令行 AI 助理系统的学习教程，�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/hello-claw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 2213 --> 2216
-    line [2215, 2214]
+    title "datawhalechina/hello-claw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2211 --> 2216
+    line [2215, 2214, 2212]
 ```
 
-2026-10-18 2,215 → 2026-10-22 2,214（-1）
+2026-10-18 2,215 → 2026-10-23 2,212（-3）
 
 
 ---

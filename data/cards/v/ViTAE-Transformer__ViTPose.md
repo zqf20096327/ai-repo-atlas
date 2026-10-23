@@ -44,13 +44,13 @@ NeurIPS'22 ViTPose 与 TPAMI'23 ViTPose++ 的 PyTorch 官方实现，面向姿�
 
 ```mermaid
 xychart-beta
-    title "ViTAE-Transformer/ViTPose 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "ViTAE-Transformer/ViTPose 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2197 --> 2201
-    line [2198, 2199, 2200]
+    line [2198, 2199, 2200, 2199]
 ```
 
-2026-10-18 2,198 → 2026-10-22 2,200（+2）
+2026-10-18 2,198 → 2026-10-23 2,199（+1）
 
 
 ---

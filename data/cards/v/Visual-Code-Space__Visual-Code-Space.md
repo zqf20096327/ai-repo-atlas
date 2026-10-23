@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Visual-Code-Space/Visual-Code-Space 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 686 --> 689
-    line [688, 687, 688]
+    title "Visual-Code-Space/Visual-Code-Space 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 686 --> 690
+    line [688, 687, 688, 689]
 ```
 
-2026-10-18 688 → 2026-10-22 688（+0）
+2026-10-18 688 → 2026-10-23 689（+1）
 
 
 ---

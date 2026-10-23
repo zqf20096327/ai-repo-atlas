@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "audeering/opensmile-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "audeering/opensmile-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 334 --> 337
-    line [335, 336]
+    line [335, 336, 336]
 ```
 
-2026-10-18 335 → 2026-10-22 336（+1）
+2026-10-18 335 → 2026-10-23 336（+1）
 
 
 ---

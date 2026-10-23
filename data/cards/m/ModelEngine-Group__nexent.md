@@ -44,13 +44,13 @@ Nexent 是基于 Harness Engineering 理念的零代码 Agent 生成平台：用
 
 ```mermaid
 xychart-beta
-    title "ModelEngine-Group/nexent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 5963 --> 6008
-    line [5966, 5988, 6005]
+    title "ModelEngine-Group/nexent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 5962 --> 6017
+    line [5966, 5988, 6005, 6013]
 ```
 
-2026-10-18 5,966 → 2026-10-22 6,005（+39）
+2026-10-18 5,966 → 2026-10-23 6,013（+47）
 
 
 ---

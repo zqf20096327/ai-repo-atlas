@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mertizci/noai-watermark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 208 --> 211
-    line [209, 210]
+    title "mertizci/noai-watermark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 208 --> 212
+    line [209, 210, 211]
 ```
 
-2026-10-18 209 → 2026-10-22 210（+1）
+2026-10-18 209 → 2026-10-23 211（+2）
 
 
 ---

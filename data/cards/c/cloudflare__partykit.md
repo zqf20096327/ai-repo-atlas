@@ -44,13 +44,13 @@ Cloudflare 维护的 PartyServer 主仓库，提供一组包：核心库 PartySe
 
 ```mermaid
 xychart-beta
-    title "cloudflare/partykit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "cloudflare/partykit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1294 --> 1297
-    line [1295, 1296]
+    line [1295, 1296, 1296]
 ```
 
-2026-10-18 1,295 → 2026-10-22 1,296（+1）
+2026-10-18 1,295 → 2026-10-23 1,296（+1）
 
 
 ---

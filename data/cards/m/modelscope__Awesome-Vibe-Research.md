@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelscope/Awesome-Vibe-Research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 455 --> 464
-    line [456, 461, 463]
+    title "modelscope/Awesome-Vibe-Research 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 455 --> 465
+    line [456, 461, 463, 464]
 ```
 
-2026-10-18 456 → 2026-10-22 463（+7）
+2026-10-18 456 → 2026-10-23 464（+8）
 
 
 ---

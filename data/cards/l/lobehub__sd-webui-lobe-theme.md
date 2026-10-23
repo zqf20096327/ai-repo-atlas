@@ -44,13 +44,13 @@ Lobe Theme 是运行于 Stable Diffusion WebUI 之上的界面主题扩展，以
 
 ```mermaid
 xychart-beta
-    title "lobehub/sd-webui-lobe-theme 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "lobehub/sd-webui-lobe-theme 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2714 --> 2717
-    line [2715, 2716]
+    line [2715, 2716, 2715]
 ```
 
-2026-10-18 2,715 → 2026-10-22 2,716（+1）
+2026-10-18 2,715 → 2026-10-23 2,715（+0）
 
 
 ---

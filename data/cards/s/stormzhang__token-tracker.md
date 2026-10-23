@@ -45,13 +45,13 @@ Python 编写的终端工具，只读解析 Claude Code、Codex、Kimi Code 的�
 
 ```mermaid
 xychart-beta
-    title "stormzhang/token-tracker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "stormzhang/token-tracker 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 531 --> 535
-    line [532, 533, 534]
+    line [532, 533, 534, 534]
 ```
 
-2026-10-18 532 → 2026-10-22 534（+2）
+2026-10-18 532 → 2026-10-23 534（+2）
 
 
 ---

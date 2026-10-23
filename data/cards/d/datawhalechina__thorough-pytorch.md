@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/thorough-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 3838 --> 3841
-    line [3839, 3840]
+    title "datawhalechina/thorough-pytorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3838 --> 3843
+    line [3839, 3840, 3842]
 ```
 
-2026-10-18 3,839 → 2026-10-22 3,840（+1）
+2026-10-18 3,839 → 2026-10-23 3,842（+3）
 
 
 ---

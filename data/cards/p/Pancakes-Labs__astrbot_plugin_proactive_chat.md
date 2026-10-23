@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pancakes-Labs/astrbot_plugin_proactive_chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 407 --> 426
-    line [408, 413, 425]
+    title "Pancakes-Labs/astrbot_plugin_proactive_chat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 406 --> 433
+    line [408, 413, 425, 431]
 ```
 
-2026-10-18 408 → 2026-10-22 425（+17）
+2026-10-18 408 → 2026-10-23 431（+23）
 
 
 ---

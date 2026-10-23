@@ -45,12 +45,12 @@ AlphaAvatar 是一个可自托管的 Omni 个人助手框架，围绕插件化�
 ```mermaid
 xychart-beta
     title "AlphaAvatar/AlphaAvatar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 817 --> 819
-    line [818, 818]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 817 --> 820
+    line [818, 819]
 ```
 
-2026-10-18 818 → 2026-10-22 818（+0）
+2026-10-18 818 → 2026-10-23 819（+1）
 
 
 ---

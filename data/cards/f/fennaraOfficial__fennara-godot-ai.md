@@ -44,13 +44,13 @@ Godot 编辑器插件加配套 CLI/本地 MCP 服务器与守护进程：通过 
 
 ```mermaid
 xychart-beta
-    title "fennaraOfficial/fennara-godot-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 308 --> 311
-    line [309, 310]
+    title "fennaraOfficial/fennara-godot-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 308 --> 312
+    line [309, 310, 311]
 ```
 
-2026-10-18 309 → 2026-10-22 310（+1）
+2026-10-18 309 → 2026-10-23 311（+2）
 
 
 ---

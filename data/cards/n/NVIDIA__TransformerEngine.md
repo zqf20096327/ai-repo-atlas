@@ -44,13 +44,13 @@ NVIDIA 维护的 Transformer 模型加速库：为 PyTorch 与 JAX 提供自动�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/TransformerEngine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3584 --> 3589
-    line [3585, 3587, 3588]
+    title "NVIDIA/TransformerEngine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3584 --> 3590
+    line [3585, 3587, 3588, 3589]
 ```
 
-2026-10-18 3,585 → 2026-10-22 3,588（+3）
+2026-10-18 3,585 → 2026-10-23 3,589（+4）
 
 
 ---

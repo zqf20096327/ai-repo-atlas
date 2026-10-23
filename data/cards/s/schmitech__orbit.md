@@ -33,7 +33,7 @@ ORBIT（Open Retrieval-Based Inference Toolkit）是自托管的 AI 网关与控
 
 ## 场景标签
 
- · 领域:LLM 基础设施/AI 网关
+`RAG` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -46,12 +46,12 @@ ORBIT（Open Retrieval-Based Inference Toolkit）是自托管的 AI 网关与控
 ```mermaid
 xychart-beta
     title "schmitech/orbit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 354 --> 356
     line [355, 355]
 ```
 
-2026-10-18 355 → 2026-10-22 355（+0）
+2026-10-18 355 → 2026-10-23 355（+0）
 
 
 ---

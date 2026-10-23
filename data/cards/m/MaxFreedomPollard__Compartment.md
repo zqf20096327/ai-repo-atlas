@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaxFreedomPollard/Compartment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "MaxFreedomPollard/Compartment 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 582 --> 585
-    line [583, 584]
+    line [583, 584, 584]
 ```
 
-2026-10-18 583 → 2026-10-22 584（+1）
+2026-10-18 583 → 2026-10-23 584（+1）
 
 
 ---

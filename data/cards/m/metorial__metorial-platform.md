@@ -45,12 +45,12 @@ Metorial Platform 是基于 Model Context Protocol（MCP）的开源集成平台
 ```mermaid
 xychart-beta
     title "metorial/metorial-platform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
     y-axis "stars" 219 --> 222
     line [220, 221, 221]
 ```
 
-2026-10-18 220 → 2026-10-22 221（+1）
+2026-10-18 220 → 2026-10-23 221（+1）
 
 
 ---

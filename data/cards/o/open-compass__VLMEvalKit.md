@@ -44,13 +44,13 @@ VLMEvalKit（Python 包名 vlmeval）是开源的大型视觉-语言模型（LVL
 
 ```mermaid
 xychart-beta
-    title "open-compass/VLMEvalKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4443 --> 4451
-    line [4444, 4446, 4450]
+    title "open-compass/VLMEvalKit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4443 --> 4452
+    line [4444, 4446, 4450, 4451]
 ```
 
-2026-10-18 4,444 → 2026-10-22 4,450（+6）
+2026-10-18 4,444 → 2026-10-23 4,451（+7）
 
 
 ---

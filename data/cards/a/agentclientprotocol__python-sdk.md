@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentclientprotocol/python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 338 --> 341
-    line [339, 340]
+    title "agentclientprotocol/python-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 338 --> 342
+    line [339, 340, 341]
 ```
 
-2026-10-18 339 → 2026-10-22 340（+1）
+2026-10-18 339 → 2026-10-23 341（+2）
 
 
 ---

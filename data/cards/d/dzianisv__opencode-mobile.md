@@ -44,13 +44,13 @@ React Native/Expo 构建的 Android 瘦客户端，通过 opencode 的 HTTP+SSE 
 
 ```mermaid
 xychart-beta
-    title "dzianisv/opencode-mobile 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 229 --> 240
-    line [230, 234, 239]
+    title "dzianisv/opencode-mobile 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 229 --> 241
+    line [230, 234, 239, 240]
 ```
 
-2026-10-18 230 → 2026-10-22 239（+9）
+2026-10-18 230 → 2026-10-23 240（+10）
 
 
 ---

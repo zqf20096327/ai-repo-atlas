@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-agent-sdk-typescript 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1817 --> 1829
-    line [1818, 1823, 1828]
+    title "anthropics/claude-agent-sdk-typescript 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1817 --> 1831
+    line [1818, 1823, 1828, 1830]
 ```
 
-2026-10-18 1,818 → 2026-10-22 1,828（+10）
+2026-10-18 1,818 → 2026-10-23 1,830（+12）
 
 
 ---

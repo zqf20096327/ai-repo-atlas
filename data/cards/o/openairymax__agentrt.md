@@ -45,12 +45,12 @@ AgentRT 是 Airymax 维护的 AI Agent 运行时平台，以 git 子模块聚合
 ```mermaid
 xychart-beta
     title "openairymax/agentrt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1252 --> 1254
-    line [1253, 1253]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1246 --> 1254
+    line [1253, 1247]
 ```
 
-2026-10-18 1,253 → 2026-10-22 1,253（+0）
+2026-10-18 1,253 → 2026-10-23 1,247（-6）
 
 
 ---

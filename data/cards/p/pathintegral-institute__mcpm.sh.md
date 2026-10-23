@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pathintegral-institute/mcpm.sh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "pathintegral-institute/mcpm.sh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1012 --> 1016
-    line [1015, 1013]
+    line [1015, 1013, 1014]
 ```
 
-2026-10-18 1,015 → 2026-10-22 1,013（-2）
+2026-10-18 1,015 → 2026-10-23 1,014（-1）
 
 
 ---

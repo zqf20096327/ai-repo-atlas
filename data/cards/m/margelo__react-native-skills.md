@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "margelo/react-native-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 175 --> 178
-    line [176, 177]
+    title "margelo/react-native-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 175 --> 179
+    line [176, 177, 178]
 ```
 
-2026-10-18 176 → 2026-10-22 177（+1）
+2026-10-18 176 → 2026-10-23 178（+2）
 
 
 ---

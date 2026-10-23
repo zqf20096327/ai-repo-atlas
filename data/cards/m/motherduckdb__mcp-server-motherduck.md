@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "motherduckdb/mcp-server-motherduck 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 529 --> 534
-    line [530, 532, 533]
+    title "motherduckdb/mcp-server-motherduck 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 529 --> 535
+    line [530, 532, 533, 534]
 ```
 
-2026-10-18 530 → 2026-10-22 533（+3）
+2026-10-18 530 → 2026-10-23 534（+4）
 
 
 ---

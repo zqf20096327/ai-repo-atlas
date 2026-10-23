@@ -40,6 +40,18 @@ CorridorKey 2.0 是由 Zachary Harris 与 Corridor Digital 合作设计训练的
 > L3: Welcome to CorridorKey 2.0! You may rest easy, weary artist. The green beast has been slain. The CorridorKey 2.0 mod
 > L86: - `alpha`: predicted matte as a video preview.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nikopueringer/CorridorKey2.0 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 0 --> 954
+    line [47, 872]
+```
+
+2026-10-22 47 → 2026-10-23 872（+825）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `6a6bf1f975d7` · [字段定义](../../DATASET.md)*

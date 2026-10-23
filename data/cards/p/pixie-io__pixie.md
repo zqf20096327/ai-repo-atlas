@@ -45,13 +45,13 @@ Pixie 是 CNCF 沙箱项目（由 New Relic 贡献）的开源 Kubernetes 应用
 
 ```mermaid
 xychart-beta
-    title "pixie-io/pixie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 6547 --> 6551
-    line [6548, 6550]
+    title "pixie-io/pixie 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 6547 --> 6552
+    line [6548, 6550, 6551]
 ```
 
-2026-10-18 6,548 → 2026-10-22 6,550（+2）
+2026-10-18 6,548 → 2026-10-23 6,551（+3）
 
 
 ---

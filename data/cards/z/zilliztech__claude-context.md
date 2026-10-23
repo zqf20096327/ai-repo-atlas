@@ -45,13 +45,13 @@ Claude Context 是一个 MCP 插件，为 Claude Code、Codex CLI、Gemini CLI�
 
 ```mermaid
 xychart-beta
-    title "zilliztech/claude-context 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 12619 --> 12635
-    line [12620, 12628, 12634]
+    title "zilliztech/claude-context 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 12619 --> 12638
+    line [12620, 12628, 12634, 12637]
 ```
 
-2026-10-18 12,620 → 2026-10-22 12,634（+14）
+2026-10-18 12,620 → 2026-10-23 12,637（+17）
 
 
 ---

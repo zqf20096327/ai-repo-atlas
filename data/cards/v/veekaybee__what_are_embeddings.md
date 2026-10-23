@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "veekaybee/what_are_embeddings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1103 --> 1106
-    line [1104, 1105]
+    title "veekaybee/what_are_embeddings 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1103 --> 1107
+    line [1104, 1105, 1106]
 ```
 
-2026-10-18 1,104 → 2026-10-22 1,105（+1）
+2026-10-18 1,104 → 2026-10-23 1,106（+2）
 
 
 ---

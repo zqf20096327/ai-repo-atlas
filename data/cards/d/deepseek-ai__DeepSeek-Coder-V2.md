@@ -44,13 +44,13 @@ DeepSeek-Coder-V2 是基于 DeepSeekMoE 框架的开源代码语言模型，从 
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepSeek-Coder-V2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 7008 --> 7016
-    line [7009, 7011, 7015]
+    title "deepseek-ai/DeepSeek-Coder-V2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 7008 --> 7018
+    line [7009, 7011, 7015, 7017]
 ```
 
-2026-10-18 7,009 → 2026-10-22 7,015（+6）
+2026-10-18 7,009 → 2026-10-23 7,017（+8）
 
 
 ---

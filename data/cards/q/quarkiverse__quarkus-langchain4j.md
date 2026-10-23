@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "quarkiverse/quarkus-langchain4j 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "quarkiverse/quarkus-langchain4j 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 324 --> 327
-    line [325, 326]
+    line [325, 326, 325]
 ```
 
-2026-10-18 325 → 2026-10-22 326（+1）
+2026-10-18 325 → 2026-10-23 325（+0）
 
 
 ---

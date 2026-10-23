@@ -44,13 +44,13 @@ SwarmUI（前称 StableSwarmUI）是基于 .NET 的 AI 图像/视频/音频生�
 
 ```mermaid
 xychart-beta
-    title "mcmonkeyprojects/SwarmUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4676 --> 4697
-    line [4677, 4683, 4696]
+    title "mcmonkeyprojects/SwarmUI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4675 --> 4700
+    line [4677, 4683, 4696, 4698]
 ```
 
-2026-10-18 4,677 → 2026-10-22 4,696（+19）
+2026-10-18 4,677 → 2026-10-23 4,698（+21）
 
 
 ---

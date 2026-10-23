@@ -45,13 +45,13 @@ Node.js 实现的本地 HTTP 代理与 LLM 网关，供 Claude Code、Cursor、C
 
 ```mermaid
 xychart-beta
-    title "Fast-Editor/Lynkr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 630 --> 636
-    line [631, 634, 635]
+    title "Fast-Editor/Lynkr 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 630 --> 637
+    line [631, 634, 635, 636]
 ```
 
-2026-10-18 631 → 2026-10-22 635（+4）
+2026-10-18 631 → 2026-10-23 636（+5）
 
 
 ---

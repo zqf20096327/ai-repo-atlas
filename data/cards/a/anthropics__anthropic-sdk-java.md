@@ -42,13 +42,13 @@ Anthropic 官方维护的 Java SDK，供 Java 应用调用 Claude API：提供 A
 
 ```mermaid
 xychart-beta
-    title "anthropics/anthropic-sdk-java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "anthropics/anthropic-sdk-java 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 382 --> 386
-    line [383, 385]
+    line [383, 385, 385]
 ```
 
-2026-10-18 383 → 2026-10-22 385（+2）
+2026-10-18 383 → 2026-10-23 385（+2）
 
 
 ---

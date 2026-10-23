@@ -44,12 +44,12 @@ PaddlePaddle 官方维护的示例仓库，演示如何使用飞桨核心推理�
 ```mermaid
 xychart-beta
     title "PaddlePaddle/Paddle-Inference-Demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 268 --> 270
     line [269, 269]
 ```
 
-2026-10-18 269 → 2026-10-22 269（+0）
+2026-10-18 269 → 2026-10-23 269（+0）
 
 
 ---

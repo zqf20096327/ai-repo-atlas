@@ -51,13 +51,13 @@ Tesseract.js 是 JavaScript OCR 库，通过封装 Tesseract 的 WebAssembly 移
 
 ```mermaid
 xychart-beta
-    title "naptha/tesseract.js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 38766 --> 38781
-    line [38767, 38773, 38780]
+    title "naptha/tesseract.js 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 38765 --> 38789
+    line [38767, 38773, 38780, 38787]
 ```
 
-2026-10-18 38,767 → 2026-10-22 38,780（+13）
+2026-10-18 38,767 → 2026-10-23 38,787（+20）
 
 
 ---

@@ -46,13 +46,13 @@ Biz Novel Studio 是开源 AI 小说创作工作台（Monorepo，React+Vite 前�
 
 ```mermaid
 xychart-beta
-    title "ExplosiveCoderflome/AI-Novel-Writing-Assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3216 --> 3264
-    line [3220, 3238, 3260]
+    title "ExplosiveCoderflome/AI-Novel-Writing-Assistant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3215 --> 3278
+    line [3220, 3238, 3260, 3273]
 ```
 
-2026-10-18 3,220 → 2026-10-22 3,260（+40）
+2026-10-18 3,220 → 2026-10-23 3,273（+53）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Krusty84/triton-ascend-agent-dev-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Krusty84/triton-ascend-agent-dev-kit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 96 --> 221
-    line [106, 211]
+    line [106, 211, 211]
 ```
 
-2026-10-18 106 → 2026-10-22 211（+105）
+2026-10-18 106 → 2026-10-23 211（+105）
 
 
 ---

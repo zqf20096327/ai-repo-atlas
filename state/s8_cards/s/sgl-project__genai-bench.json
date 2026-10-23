@@ -1,1 +1,76 @@
-{"fn": "sgl-project/genai-bench", "sha": "2bb69f761acf", "source": "readme", "identity": {"one_liner": "面向 LLM 服务系统的 token 级性能基准测试工具", "review": "由 sgl-project 维护的 LLM serving 评测工具：通过 CLI 对指定后端（OpenAI 兼容 API 地址）发起基准测试，采集吞吐、TTFT/E2E/TPOT 延迟、错误率、RPS 等 token 级指标，并按流量场景与并发级别分组。提供实时监控进度的 Live UI 仪表盘、自动落盘的日志，以及生成 Excel 报告（含定价与原始指标）和可自定义布局的可视化图表（默认 2x4 网格、支持多线对比）。以 pip 安装的 Python 包形式提供。", "highlights": ["token 级指标评测：吞吐、TTFT/E2E/TPOT 延迟、错误率、RPS", "Live UI 仪表盘实时展示进度、日志与指标", "生成含定价与原始指标的 Excel 报告", "可自定义布局的可视化（默认 2x4 网格、多线对比）"], "use_cases": ["评测自建 LLM 推理服务的吞吐与延迟", "对比不同并发与流量场景下的 serving 性能", "将压测结果整理为 Excel 报告与图表"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM评测", "基准测试", "推理服务性能", "CLI工具"], "domain": "LLM 基础设施/评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L19: Genai-bench is a powerful benchmark tool designed for comprehensive token-level performance evaluation of large language", "L28: - 📈 **Experiment Analyzer**: Generates comprehensive Excel reports with pricing and raw metrics data, plus flexible plot"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sgl-project/genai-bench",
+ "sha": "2bb69f761acf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 服务系统的 token 级性能基准测试工具",
+  "review": "由 sgl-project 维护的 LLM serving 评测工具：通过 CLI 对指定后端（OpenAI 兼容 API 地址）发起基准测试，采集吞吐、TTFT/E2E/TPOT 延迟、错误率、RPS 等 token 级指标，并按流量场景与并发级别分组。提供实时监控进度的 Live UI 仪表盘、自动落盘的日志，以及生成 Excel 报告（含定价与原始指标）和可自定义布局的可视化图表（默认 2x4 网格、支持多线对比）。以 pip 安装的 Python 包形式提供。",
+  "highlights": [
+   "token 级指标评测：吞吐、TTFT/E2E/TPOT 延迟、错误率、RPS",
+   "Live UI 仪表盘实时展示进度、日志与指标",
+   "生成含定价与原始指标的 Excel 报告",
+   "可自定义布局的可视化（默认 2x4 网格、多线对比）"
+  ],
+  "use_cases": [
+   "评测自建 LLM 推理服务的吞吐与延迟",
+   "对比不同并发与流量场景下的 serving 性能",
+   "将压测结果整理为 Excel 报告与图表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM评测",
+   "基准测试",
+   "推理服务性能",
+   "CLI工具"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: Genai-bench is a powerful benchmark tool designed for comprehensive token-level performance evaluation of large language",
+   "L28: - 📈 **Experiment Analyzer**: Generates comprehensive Excel reports with pricing and raw metrics data, plus flexible plot"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

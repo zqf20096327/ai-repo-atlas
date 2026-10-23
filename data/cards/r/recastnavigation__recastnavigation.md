@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "recastnavigation/recastnavigation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 7967 --> 7978
-    line [7968, 7972, 7977]
+    title "recastnavigation/recastnavigation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 7967 --> 7979
+    line [7968, 7972, 7977, 7978]
 ```
 
-2026-10-18 7,968 → 2026-10-22 7,977（+9）
+2026-10-18 7,968 → 2026-10-23 7,978（+10）
 
 
 ---

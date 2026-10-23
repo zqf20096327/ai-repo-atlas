@@ -44,13 +44,13 @@ AntroPy 是面向时间序列的熵与复杂度度量 Python 库：提供排列�
 
 ```mermaid
 xychart-beta
-    title "raphaelvallat/antropy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "raphaelvallat/antropy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 378 --> 382
-    line [379, 381]
+    line [379, 381, 381]
 ```
 
-2026-10-18 379 → 2026-10-22 381（+2）
+2026-10-18 379 → 2026-10-23 381（+2）
 
 
 ---

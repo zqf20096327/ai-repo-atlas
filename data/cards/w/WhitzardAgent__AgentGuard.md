@@ -45,13 +45,13 @@ AgentGuard 是部署在 LLM 规划引擎与工具之间的安全防护组件，�
 
 ```mermaid
 xychart-beta
-    title "WhitzardAgent/AgentGuard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 149 --> 152
-    line [150, 151]
+    title "WhitzardAgent/AgentGuard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 149 --> 154
+    line [150, 151, 153]
 ```
 
-2026-10-18 150 → 2026-10-22 151（+1）
+2026-10-18 150 → 2026-10-23 153（+3）
 
 
 ---

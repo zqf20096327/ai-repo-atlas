@@ -45,13 +45,13 @@ LangChain Inc 出品的 JavaScript/TypeScript 低层编排框架，以图结构�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langgraphjs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "langchain-ai/langgraphjs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3358 --> 3372
-    line [3359, 3364, 3371]
+    line [3359, 3364, 3371, 3370]
 ```
 
-2026-10-18 3,359 → 2026-10-22 3,371（+12）
+2026-10-18 3,359 → 2026-10-23 3,370（+11）
 
 
 ---

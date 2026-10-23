@@ -44,13 +44,13 @@ AgentBay 提供按需创建的云端沙箱，内含浏览器、桌面、移动�
 
 ```mermaid
 xychart-beta
-    title "agentbay-ai/wuying-agentbay-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "agentbay-ai/wuying-agentbay-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1144 --> 1147
-    line [1146, 1145]
+    line [1146, 1145, 1146]
 ```
 
-2026-10-18 1,146 → 2026-10-22 1,145（-1）
+2026-10-18 1,146 → 2026-10-23 1,146（+0）
 
 
 ---

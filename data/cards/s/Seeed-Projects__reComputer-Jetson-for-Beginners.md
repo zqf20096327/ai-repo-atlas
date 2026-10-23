@@ -45,12 +45,12 @@ Seeed 维护的 reComputer Jetson Orin 入门教程仓库：以 10 个模块覆�
 ```mermaid
 xychart-beta
     title "Seeed-Projects/reComputer-Jetson-for-Beginners 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 184 --> 186
-    line [185, 185]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 184 --> 187
+    line [185, 186]
 ```
 
-2026-10-18 185 → 2026-10-22 185（+0）
+2026-10-18 185 → 2026-10-23 186（+1）
 
 
 ---

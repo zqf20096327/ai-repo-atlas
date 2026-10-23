@@ -45,13 +45,13 @@ NVIDIA 维护的 C++ 推理软件，在 Jetson、DRIVE、DGX Spark 等边缘平�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/TensorRT-Edge-LLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 594 --> 600
-    line [595, 597, 599]
+    title "NVIDIA/TensorRT-Edge-LLM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 594 --> 601
+    line [595, 597, 599, 600]
 ```
 
-2026-10-18 595 → 2026-10-22 599（+4）
+2026-10-18 595 → 2026-10-23 600（+5）
 
 
 ---

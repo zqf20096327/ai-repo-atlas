@@ -45,13 +45,13 @@ Ragent 是基于 Java（Spring Boot 4 后端 + React 18 前端）的 Agentic RAG
 
 ```mermaid
 xychart-beta
-    title "nageoffer/ragent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4280 --> 4316
-    line [4283, 4293, 4313]
+    title "nageoffer/ragent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4279 --> 4333
+    line [4283, 4293, 4313, 4329]
 ```
 
-2026-10-18 4,283 → 2026-10-22 4,313（+30）
+2026-10-18 4,283 → 2026-10-23 4,329（+46）
 
 
 ---

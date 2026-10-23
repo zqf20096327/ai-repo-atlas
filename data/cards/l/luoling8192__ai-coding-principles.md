@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "luoling8192/ai-coding-principles 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "luoling8192/ai-coding-principles 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 170 --> 173
-    line [172, 171]
+    line [172, 171, 171]
 ```
 
-2026-10-18 172 → 2026-10-22 171（-1）
+2026-10-18 172 → 2026-10-23 171（-1）
 
 
 ---

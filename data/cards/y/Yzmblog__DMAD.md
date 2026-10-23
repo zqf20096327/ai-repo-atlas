@@ -45,13 +45,13 @@ DMAD（Distribution Matching as Adversarial Distillation）将分布匹配蒸馏
 
 ```mermaid
 xychart-beta
-    title "Yzmblog/DMAD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 183 --> 209
-    line [185, 197, 207]
+    title "Yzmblog/DMAD 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 183 --> 213
+    line [185, 197, 207, 211]
 ```
 
-2026-10-18 185 → 2026-10-22 207（+22）
+2026-10-18 185 → 2026-10-23 211（+26）
 
 
 ---

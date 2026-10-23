@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Earth-OL-Player/ai_learn_project 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 444 --> 457
-    line [445, 448, 456]
+    title "Earth-OL-Player/ai_learn_project 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 444 --> 460
+    line [445, 448, 456, 459]
 ```
 
-2026-10-18 445 → 2026-10-22 456（+11）
+2026-10-18 445 → 2026-10-23 459（+14）
 
 
 ---

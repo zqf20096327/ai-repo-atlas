@@ -44,13 +44,13 @@ ggml-org 出品的 WinUI 3 托盘应用，是 Llama for Mac 的 Windows 移植�
 
 ```mermaid
 xychart-beta
-    title "ggml-org/Llama-Windows 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 218 --> 259
-    line [221, 240, 256]
+    title "ggml-org/Llama-Windows 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 217 --> 269
+    line [221, 240, 256, 265]
 ```
 
-2026-10-18 221 → 2026-10-22 256（+35）
+2026-10-18 221 → 2026-10-23 265（+44）
 
 
 ---

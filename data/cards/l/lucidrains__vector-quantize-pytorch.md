@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/vector-quantize-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "lucidrains/vector-quantize-pytorch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 4013 --> 4020
-    line [4014, 4017, 4019]
+    line [4014, 4017, 4019, 4019]
 ```
 
-2026-10-18 4,014 → 2026-10-22 4,019（+5）
+2026-10-18 4,014 → 2026-10-23 4,019（+5）
 
 
 ---

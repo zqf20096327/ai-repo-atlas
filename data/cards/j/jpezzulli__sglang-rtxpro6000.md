@@ -44,13 +44,13 @@ Penny Royal 是从 SGLang 派生、针对单/双卡 NVIDIA RTX PRO 6000 Blackwel
 
 ```mermaid
 xychart-beta
-    title "jpezzulli/sglang-rtxpro6000 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 164 --> 172
-    line [165, 168, 171]
+    title "jpezzulli/sglang-rtxpro6000 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 164 --> 176
+    line [165, 168, 171, 175]
 ```
 
-2026-10-18 165 → 2026-10-22 171（+6）
+2026-10-18 165 → 2026-10-23 175（+10）
 
 
 ---

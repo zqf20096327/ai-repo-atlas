@@ -46,13 +46,13 @@ Swift/SwiftUI 编写的 macOS 桌面应用，覆盖 Git 与 GitHub 日常操作�
 
 ```mermaid
 xychart-beta
-    title "Lincb522/GitGatto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 359 --> 362
-    line [360, 361]
+    title "Lincb522/GitGatto 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 343 --> 362
+    line [360, 361, 344]
 ```
 
-2026-10-18 360 → 2026-10-22 361（+1）
+2026-10-18 360 → 2026-10-23 344（-16）
 
 
 ---

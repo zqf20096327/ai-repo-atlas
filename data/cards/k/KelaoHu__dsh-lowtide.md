@@ -44,12 +44,12 @@ dsh-lowtide 是 DeepSeek Harness (dsh) 的 Cordis 插件，面向希望在模型
 ```mermaid
 xychart-beta
     title "KelaoHu/dsh-lowtide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 173 --> 176
-    line [174, 175, 175]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 158 --> 176
+    line [174, 175, 159]
 ```
 
-2026-10-18 174 → 2026-10-22 175（+1）
+2026-10-18 174 → 2026-10-23 159（-15）
 
 
 ---

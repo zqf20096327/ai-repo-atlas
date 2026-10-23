@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pallavi-shekhar/ai-engineering-interview-questions-company-wise 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1756 --> 1770
-    line [1757, 1762, 1769]
+    title "pallavi-shekhar/ai-engineering-interview-questions-company-wise 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1756 --> 1774
+    line [1757, 1762, 1769, 1773]
 ```
 
-2026-10-18 1,757 → 2026-10-22 1,769（+12）
+2026-10-18 1,757 → 2026-10-23 1,773（+16）
 
 
 ---

@@ -45,12 +45,12 @@ AI Explainability 360 是 IBM Research 开源的可解释性/可解释度 Python
 ```mermaid
 xychart-beta
     title "Trusted-AI/AIX360 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1808 --> 1810
-    line [1809, 1809]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1807 --> 1810
+    line [1809, 1808]
 ```
 
-2026-10-18 1,809 → 2026-10-22 1,809（+0）
+2026-10-18 1,809 → 2026-10-23 1,808（-1）
 
 
 ---

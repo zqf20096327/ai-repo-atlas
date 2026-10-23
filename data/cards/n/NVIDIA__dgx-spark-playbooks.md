@@ -43,13 +43,13 @@ NVIDIA 维护的分步操作手册（playbooks）集合，面向 DGX Spark（Bla
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/dgx-spark-playbooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1442 --> 1451
-    line [1443, 1447, 1450]
+    title "NVIDIA/dgx-spark-playbooks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1442 --> 1456
+    line [1443, 1447, 1450, 1455]
 ```
 
-2026-10-18 1,443 → 2026-10-22 1,450（+7）
+2026-10-18 1,443 → 2026-10-23 1,455（+12）
 
 
 ---

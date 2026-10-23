@@ -45,13 +45,13 @@ ComfyUI 自定义节点，面向使用 Qwen Image 2.1 生图的创作者：提�
 
 ```mermaid
 xychart-beta
-    title "Work-Fisher/ComfyUI-Fisher-Pose 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 211 --> 239
-    line [213, 225, 237]
+    title "Work-Fisher/ComfyUI-Fisher-Pose 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 211 --> 242
+    line [213, 225, 237, 240]
 ```
 
-2026-10-18 213 → 2026-10-22 237（+24）
+2026-10-18 213 → 2026-10-23 240（+27）
 
 
 ---

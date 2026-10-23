@@ -44,13 +44,13 @@ Anthropic 官方维护的 Ruby 客户端库，通过 Gemfile 以 gem 'anthropic'
 
 ```mermaid
 xychart-beta
-    title "anthropics/anthropic-sdk-ruby 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "anthropics/anthropic-sdk-ruby 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 373 --> 377
-    line [374, 376]
+    line [374, 376, 376]
 ```
 
-2026-10-18 374 → 2026-10-22 376（+2）
+2026-10-18 374 → 2026-10-23 376（+2）
 
 
 ---

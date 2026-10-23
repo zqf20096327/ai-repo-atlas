@@ -33,7 +33,7 @@ EchoKit Server 是 EchoKit 设备与 AI 服务之间的中心组件，通过 Web
 
 ## 场景标签
 
- · 领域:语音 AI/智能硬件
+`语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 
@@ -46,12 +46,12 @@ EchoKit Server 是 EchoKit 设备与 AI 服务之间的中心组件，通过 Web
 ```mermaid
 xychart-beta
     title "second-state/echokit_server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 591 --> 593
     line [592, 592]
 ```
 
-2026-10-18 592 → 2026-10-22 592（+0）
+2026-10-18 592 → 2026-10-23 592（+0）
 
 
 ---

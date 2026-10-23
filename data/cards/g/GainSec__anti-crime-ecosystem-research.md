@@ -45,12 +45,12 @@ Jon “GainSec” Gaines 发布的独立安全研究白皮书公开仓库，研�
 ```mermaid
 xychart-beta
     title "GainSec/anti-crime-ecosystem-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 247 --> 249
-    line [248, 248]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 246 --> 249
+    line [248, 247]
 ```
 
-2026-10-18 248 → 2026-10-22 248（+0）
+2026-10-18 248 → 2026-10-23 247（-1）
 
 
 ---

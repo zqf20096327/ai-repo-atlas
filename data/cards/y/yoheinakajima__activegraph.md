@@ -44,13 +44,13 @@ Python 编写的反应式图运行时与 agent 构建框架：以对象+类型�
 
 ```mermaid
 xychart-beta
-    title "yoheinakajima/activegraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "yoheinakajima/activegraph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 705 --> 708
-    line [706, 707]
+    line [706, 707, 707]
 ```
 
-2026-10-18 706 → 2026-10-22 707（+1）
+2026-10-18 706 → 2026-10-23 707（+1）
 
 
 ---

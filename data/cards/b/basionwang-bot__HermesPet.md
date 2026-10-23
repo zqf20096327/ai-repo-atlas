@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "basionwang-bot/HermesPet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "basionwang-bot/HermesPet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 596 --> 599
-    line [598, 597]
+    line [598, 597, 598]
 ```
 
-2026-10-18 598 → 2026-10-22 597（-1）
+2026-10-18 598 → 2026-10-23 598（+0）
 
 
 ---

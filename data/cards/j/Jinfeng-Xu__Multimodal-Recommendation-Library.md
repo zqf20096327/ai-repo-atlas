@@ -45,12 +45,12 @@ MRLib 是研究导向的多模态推荐开源库：收录 2016-2026 年来自 AA
 ```mermaid
 xychart-beta
     title "Jinfeng-Xu/Multimodal-Recommendation-Library 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 318 --> 320
-    line [319, 319]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 318 --> 321
+    line [319, 320]
 ```
 
-2026-10-18 319 → 2026-10-22 319（+0）
+2026-10-18 319 → 2026-10-23 320（+1）
 
 
 ---

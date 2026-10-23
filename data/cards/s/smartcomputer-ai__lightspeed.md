@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "smartcomputer-ai/lightspeed 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 261 --> 266
-    line [262, 264, 265]
+    title "smartcomputer-ai/lightspeed 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 261 --> 267
+    line [262, 264, 265, 266]
 ```
 
-2026-10-18 262 → 2026-10-22 265（+3）
+2026-10-18 262 → 2026-10-23 266（+4）
 
 
 ---

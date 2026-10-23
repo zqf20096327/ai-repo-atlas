@@ -52,13 +52,13 @@ ARIS 是一套 Markdown 技能包，定义自动化机器学习研究的工作�
 
 ```mermaid
 xychart-beta
-    title "wanshuiyin/Auto-claude-code-research-in-sleep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 17606 --> 17861
-    line [17627, 17728, 17840]
+    title "wanshuiyin/Auto-claude-code-research-in-sleep 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 17598 --> 17947
+    line [17627, 17728, 17840, 17918]
 ```
 
-2026-10-18 17,627 → 2026-10-22 17,840（+213）
+2026-10-18 17,627 → 2026-10-23 17,918（+291）
 
 
 ---

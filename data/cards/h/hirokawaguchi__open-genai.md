@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hirokawaguchi/open-genai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "hirokawaguchi/open-genai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 133 --> 139
-    line [134, 138]
+    line [134, 138, 138]
 ```
 
-2026-10-18 134 → 2026-10-22 138（+4）
+2026-10-18 134 → 2026-10-23 138（+4）
 
 
 ---

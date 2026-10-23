@@ -44,13 +44,13 @@ VS Code 扩展，将 Pi coding agent 以侧边栏和编辑器标签页形式集�
 
 ```mermaid
 xychart-beta
-    title "cdervis/Pendant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "cdervis/Pendant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 205 --> 210
-    line [206, 209]
+    line [206, 209, 209]
 ```
 
-2026-10-18 206 → 2026-10-22 209（+3）
+2026-10-18 206 → 2026-10-23 209（+3）
 
 
 ---

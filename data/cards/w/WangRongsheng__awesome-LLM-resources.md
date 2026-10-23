@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "WangRongsheng/awesome-LLM-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 9024 --> 9034
-    line [9025, 9027, 9033]
+    title "WangRongsheng/awesome-LLM-resources 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 9024 --> 9036
+    line [9025, 9027, 9033, 9035]
 ```
 
-2026-10-18 9,025 → 2026-10-22 9,033（+8）
+2026-10-18 9,025 → 2026-10-23 9,035（+10）
 
 
 ---

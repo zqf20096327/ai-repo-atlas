@@ -45,13 +45,13 @@ bilibili 开源的 AI 视频制作工作流系统，基于 OpenCode AI SDK 与 R
 
 ```mermaid
 xychart-beta
-    title "bilibili/carocut 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "bilibili/carocut 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 129 --> 132
-    line [130, 131]
+    line [130, 131, 131]
 ```
 
-2026-10-18 130 → 2026-10-22 131（+1）
+2026-10-18 130 → 2026-10-23 131（+1）
 
 
 ---

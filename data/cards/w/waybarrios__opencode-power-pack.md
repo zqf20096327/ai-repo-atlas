@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "waybarrios/opencode-power-pack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 540 --> 545
-    line [541, 544]
+    title "waybarrios/opencode-power-pack 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 540 --> 546
+    line [541, 544, 545]
 ```
 
-2026-10-18 541 → 2026-10-22 544（+3）
+2026-10-18 541 → 2026-10-23 545（+4）
 
 
 ---

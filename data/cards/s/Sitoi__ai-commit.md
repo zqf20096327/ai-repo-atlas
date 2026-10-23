@@ -46,12 +46,12 @@ AI Commit 是一个 VSCode 扩展，读取暂存区 git diff，调用 OpenAI / A
 ```mermaid
 xychart-beta
     title "Sitoi/ai-commit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 160 --> 162
     line [161, 161]
 ```
 
-2026-10-18 161 → 2026-10-22 161（+0）
+2026-10-18 161 → 2026-10-23 161（+0）
 
 
 ---

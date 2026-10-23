@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "genieincodebottle/generative-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 2645 --> 2648
-    line [2646, 2647]
+    title "genieincodebottle/generative-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2645 --> 2651
+    line [2646, 2647, 2650]
 ```
 
-2026-10-18 2,646 → 2026-10-22 2,647（+1）
+2026-10-18 2,646 → 2026-10-23 2,650（+4）
 
 
 ---

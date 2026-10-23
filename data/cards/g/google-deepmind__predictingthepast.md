@@ -45,13 +45,13 @@ Google DeepMind 等机构发布的 Aeneas 模型官方代码库：面向拉丁�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/predictingthepast 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "google-deepmind/predictingthepast 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 215 --> 218
-    line [216, 217]
+    line [216, 217, 217]
 ```
 
-2026-10-18 216 → 2026-10-22 217（+1）
+2026-10-18 216 → 2026-10-23 217（+1）
 
 
 ---

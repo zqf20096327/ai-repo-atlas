@@ -1,1 +1,75 @@
-{"fn": "scitix/siclaw", "sha": "abff034ed010", "source": "readme", "identity": {"one_liner": "面向 DevOps/SRE 团队的只读基础设施诊断 AI agent", "review": "开源 AI agent 平台，用自然语言描述问题后，通过 4 阶段工作流（收集证据、形成假设、验证、输出根因分析）对基础设施做只读诊断，不直接改动环境。提供 Web Portal、聊天渠道（Slack/Lark/Discord/Telegram）与非交互 CLI 三种入口；控制面管理技能、知识库、MCP 服务器与凭据，会话在 AgentBox（K8s 每用户一个 Pod 或本地进程内）运行。本地用 npm 安装配 SQLite，团队部署用 Helm + MySQL，另支持 Langfuse/Phoenix 的 agent 追踪导出。", "highlights": ["4 阶段深度调查工作流与根因分析输出", "默认只读：调查并给出建议而不改动目标环境", "多入口访问：Web UI、聊天渠道、非交互 CLI", "通过 MCP 连接外部工具与数据源，支持 bge-m3 嵌入的调查记忆"], "use_cases": ["用自然语言排查 K8s Pod 故障（如 CrashLoopBackOff）的根因", "团队共享调查会话、凭据与定期巡检任务", "把重复的诊断流程固化为可审查的技能 runbook"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": "siclaw.ai/demo", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AIOps", "SRE/DevOps", "agent", "故障诊断", "Kubernetes"], "domain": "运维/SRE 自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16: Siclaw is an open-source AI agent for DevOps and SRE teams. It is built for **read-only infrastructure diagnostics**: ga", "L22: - **Deep Investigation** — A 4-phase workflow for evidence gathering, hypothesis testing, and root-cause analysis"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "scitix/siclaw",
+ "sha": "abff034ed010",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 DevOps/SRE 团队的只读基础设施诊断 AI agent",
+  "review": "开源 AI agent 平台，用自然语言描述问题后，通过 4 阶段工作流（收集证据、形成假设、验证、输出根因分析）对基础设施做只读诊断，不直接改动环境。提供 Web Portal、聊天渠道（Slack/Lark/Discord/Telegram）与非交互 CLI 三种入口；控制面管理技能、知识库、MCP 服务器与凭据，会话在 AgentBox（K8s 每用户一个 Pod 或本地进程内）运行。本地用 npm 安装配 SQLite，团队部署用 Helm + MySQL，另支持 Langfuse/Phoenix 的 agent 追踪导出。",
+  "highlights": [
+   "4 阶段深度调查工作流与根因分析输出",
+   "默认只读：调查并给出建议而不改动目标环境",
+   "多入口访问：Web UI、聊天渠道、非交互 CLI",
+   "通过 MCP 连接外部工具与数据源，支持 bge-m3 嵌入的调查记忆"
+  ],
+  "use_cases": [
+   "用自然语言排查 K8s Pod 故障（如 CrashLoopBackOff）的根因",
+   "团队共享调查会话、凭据与定期巡检任务",
+   "把重复的诊断流程固化为可审查的技能 runbook"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "siclaw.ai/demo",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AIOps",
+   "SRE/DevOps",
+   "agent",
+   "故障诊断",
+   "Kubernetes"
+  ],
+  "domain": "运维/SRE 自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: Siclaw is an open-source AI agent for DevOps and SRE teams. It is built for **read-only infrastructure diagnostics**: ga",
+   "L22: - **Deep Investigation** — A 4-phase workflow for evidence gathering, hypothesis testing, and root-cause analysis"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -46,12 +46,12 @@ Go 编写的轻量 CLI，为 AI 编码会话（Claude Code、Cursor、Codex、Co
 ```mermaid
 xychart-beta
     title "marcus/td 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 253 --> 255
-    line [254, 254]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 253 --> 256
+    line [254, 255]
 ```
 
-2026-10-18 254 → 2026-10-22 254（+0）
+2026-10-18 254 → 2026-10-23 255（+1）
 
 
 ---

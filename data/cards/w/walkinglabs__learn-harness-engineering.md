@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "walkinglabs/learn-harness-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 20143 --> 21170
-    line [20228, 20913, 21085]
+    title "walkinglabs/learn-harness-engineering 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 20135 --> 21252
+    line [20228, 20913, 21085, 21159]
 ```
 
-2026-10-18 20,228 → 2026-10-22 21,085（+857）
+2026-10-18 20,228 → 2026-10-23 21,159（+931）
 
 
 ---

@@ -46,12 +46,12 @@ Enthusiast 是一个用于构建电商场景 AI agentic 工作流的开源工具
 ```mermaid
 xychart-beta
     title "upsidelab/enthusiast 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 180 --> 182
-    line [181, 181]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 180 --> 183
+    line [181, 182]
 ```
 
-2026-10-18 181 → 2026-10-22 181（+0）
+2026-10-18 181 → 2026-10-23 182（+1）
 
 
 ---

@@ -44,13 +44,13 @@ Zread CLI 通过 AI 大模型分析本地代码仓库，生成结构化 Wiki 文
 
 ```mermaid
 xychart-beta
-    title "ZreadAI/zread_cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 161 --> 164
-    line [162, 163]
+    title "ZreadAI/zread_cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 161 --> 165
+    line [162, 163, 164]
 ```
 
-2026-10-18 162 → 2026-10-22 163（+1）
+2026-10-18 162 → 2026-10-23 164（+2）
 
 
 ---

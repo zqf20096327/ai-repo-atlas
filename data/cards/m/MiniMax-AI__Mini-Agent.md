@@ -44,13 +44,13 @@ MiniMax 官方发布的最小化单 Agent 演示项目：通过 Anthropic 兼容
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/Mini-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "MiniMax-AI/Mini-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3056 --> 3061
-    line [3057, 3060]
+    line [3057, 3060, 3060]
 ```
 
-2026-10-18 3,057 → 2026-10-22 3,060（+3）
+2026-10-18 3,057 → 2026-10-23 3,060（+3）
 
 
 ---

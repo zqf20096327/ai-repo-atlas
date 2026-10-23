@@ -46,12 +46,12 @@ K-Dense 维护的代理式 ML 工程师实现：通过 Claude Agent SDK 与 Goog
 ```mermaid
 xychart-beta
     title "K-Dense-AI/karpathy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1565 --> 1567
-    line [1566, 1566]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1565 --> 1568
+    line [1566, 1567]
 ```
 
-2026-10-18 1,566 → 2026-10-22 1,566（+0）
+2026-10-18 1,566 → 2026-10-23 1,567（+1）
 
 
 ---

@@ -45,12 +45,12 @@ ICML 2025 论文 SpargeAttention 的官方实现，基于 SageAttention2 的免�
 ```mermaid
 xychart-beta
     title "thu-ml/SpargeAttn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 1262 --> 1264
-    line [1263, 1263]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1260 --> 1264
+    line [1263, 1261]
 ```
 
-2026-10-18 1,263 → 2026-10-21 1,263（+0）
+2026-10-18 1,263 → 2026-10-23 1,261（-2）
 
 
 ---

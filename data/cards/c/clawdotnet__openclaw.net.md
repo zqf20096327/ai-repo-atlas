@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "clawdotnet/openclaw.net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "clawdotnet/openclaw.net 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 524 --> 528
-    line [525, 527]
+    line [525, 527, 527]
 ```
 
-2026-10-18 525 → 2026-10-22 527（+2）
+2026-10-18 525 → 2026-10-23 527（+2）
 
 
 ---

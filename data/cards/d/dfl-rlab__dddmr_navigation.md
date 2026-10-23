@@ -44,13 +44,13 @@ DDDMR Navigation 提供移动机器人与四足机器人（含 Unitree Go2 仿�
 
 ```mermaid
 xychart-beta
-    title "dfl-rlab/dddmr_navigation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "dfl-rlab/dddmr_navigation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 580 --> 584
-    line [581, 582, 583]
+    line [581, 582, 583, 583]
 ```
 
-2026-10-18 581 → 2026-10-22 583（+2）
+2026-10-18 581 → 2026-10-23 583（+2）
 
 
 ---

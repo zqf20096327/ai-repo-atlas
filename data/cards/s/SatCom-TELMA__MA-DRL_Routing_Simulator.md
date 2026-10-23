@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SatCom-TELMA/MA-DRL_Routing_Simulator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "SatCom-TELMA/MA-DRL_Routing_Simulator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 158 --> 163
-    line [159, 160, 162]
+    line [159, 160, 162, 162]
 ```
 
-2026-10-18 159 → 2026-10-22 162（+3）
+2026-10-18 159 → 2026-10-23 162（+3）
 
 
 ---

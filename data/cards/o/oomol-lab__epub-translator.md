@@ -44,13 +44,13 @@ Python 库，调用 OpenAI 兼容 API（含 OpenAI 与 Azure OpenAI 配置示例
 
 ```mermaid
 xychart-beta
-    title "oomol-lab/epub-translator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 867 --> 873
-    line [868, 871, 872]
+    title "oomol-lab/epub-translator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 867 --> 874
+    line [868, 871, 872, 873]
 ```
 
-2026-10-18 868 → 2026-10-22 872（+4）
+2026-10-18 868 → 2026-10-23 873（+5）
 
 
 ---

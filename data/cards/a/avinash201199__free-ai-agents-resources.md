@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "avinash201199/free-ai-agents-resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1056 --> 1062
-    line [1057, 1061]
+    title "avinash201199/free-ai-agents-resources 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1056 --> 1063
+    line [1057, 1061, 1062]
 ```
 
-2026-10-18 1,057 → 2026-10-22 1,061（+4）
+2026-10-18 1,057 → 2026-10-23 1,062（+5）
 
 
 ---

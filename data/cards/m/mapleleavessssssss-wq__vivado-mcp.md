@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mapleleavessssssss-wq/vivado-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 157 --> 162
-    line [158, 160, 161]
+    title "mapleleavessssssss-wq/vivado-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 157 --> 163
+    line [158, 160, 161, 162]
 ```
 
-2026-10-18 158 → 2026-10-22 161（+3）
+2026-10-18 158 → 2026-10-23 162（+4）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/mattersim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 603 --> 606
-    line [604, 605]
+    title "microsoft/mattersim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 603 --> 607
+    line [604, 605, 606]
 ```
 
-2026-10-18 604 → 2026-10-22 605（+1）
+2026-10-18 604 → 2026-10-23 606（+2）
 
 
 ---

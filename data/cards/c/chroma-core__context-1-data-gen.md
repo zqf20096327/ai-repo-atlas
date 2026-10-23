@@ -45,12 +45,12 @@ Chroma Context-1 技术报告的配套数据生成代码：按 explore → verif
 ```mermaid
 xychart-beta
     title "chroma-core/context-1-data-gen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 440 --> 442
-    line [441, 441]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 439 --> 442
+    line [441, 440]
 ```
 
-2026-10-18 441 → 2026-10-22 441（+0）
+2026-10-18 441 → 2026-10-23 440（-1）
 
 
 ---

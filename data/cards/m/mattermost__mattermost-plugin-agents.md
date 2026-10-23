@@ -46,12 +46,12 @@ Mattermost 官方团队的 AI 插件，将 LLM 能力集成到 Mattermost 工作
 ```mermaid
 xychart-beta
     title "mattermost/mattermost-plugin-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
     y-axis "stars" 254 --> 257
     line [256, 255, 255]
 ```
 
-2026-10-18 256 → 2026-10-22 255（-1）
+2026-10-18 256 → 2026-10-23 255（-1）
 
 
 ---

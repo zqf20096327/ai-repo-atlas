@@ -40,6 +40,18 @@
 > L3: MiniAGI is a simple autonomous agent compatible with GPT-3.5-Turbo and GPT-4. It combines a robust prompt with a min
 > L19: python miniagi.py <objective>
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "muellerberndt/mini-agi 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 2931 --> 2934
+    line [2932, 2933]
+```
+
+2026-10-22 2,932 → 2026-10-23 2,933（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `149d7f3c53be` · [字段定义](../../DATASET.md)*

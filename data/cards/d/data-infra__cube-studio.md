@@ -46,13 +46,13 @@ CubeStudio 是基于 Kubernetes 的开源 AI 平台，覆盖从数据管理、�
 
 ```mermaid
 xychart-beta
-    title "data-infra/cube-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 2557 --> 2563
-    line [2558, 2562]
+    title "data-infra/cube-studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2557 --> 2565
+    line [2558, 2562, 2564]
 ```
 
-2026-10-18 2,558 → 2026-10-22 2,562（+4）
+2026-10-18 2,558 → 2026-10-23 2,564（+6）
 
 
 ---

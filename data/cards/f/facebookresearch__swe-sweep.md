@@ -44,13 +44,13 @@ Facebook Research 发布的软件工程 agent 基准：给定真实仓库，agen
 
 ```mermaid
 xychart-beta
-    title "facebookresearch/swe-sweep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 135 --> 177
-    line [138, 166, 174]
+    title "facebookresearch/swe-sweep 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 134 --> 185
+    line [138, 166, 174, 181]
 ```
 
-2026-10-18 138 → 2026-10-22 174（+36）
+2026-10-18 138 → 2026-10-23 181（+43）
 
 
 ---

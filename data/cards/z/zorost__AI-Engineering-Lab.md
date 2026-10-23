@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zorost/AI-Engineering-Lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "zorost/AI-Engineering-Lab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 316 --> 319
-    line [318, 317]
+    line [318, 317, 318]
 ```
 
-2026-10-18 318 → 2026-10-22 317（-1）
+2026-10-18 318 → 2026-10-23 318（+0）
 
 
 ---

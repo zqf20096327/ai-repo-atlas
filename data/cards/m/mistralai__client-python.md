@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mistralai/client-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "mistralai/client-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 773 --> 776
-    line [774, 775]
+    line [774, 775, 775]
 ```
 
-2026-10-18 774 → 2026-10-22 775（+1）
+2026-10-18 774 → 2026-10-23 775（+1）
 
 
 ---

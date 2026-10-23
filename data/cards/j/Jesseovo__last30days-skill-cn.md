@@ -40,6 +40,18 @@
 > L4:  给 AI Agent 的研究技能，也是你每天打开的一小份热榜。
 > L26: 支持 Claude Code、Codex、Cursor、Gemini CLI 等具备命令行执行能力的 Agent。安装、环境检查和运行都交给它；需要你登录的平台，它会提示你完成。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Jesseovo/last30days-skill-cn 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 1930 --> 1942
+    line [1931, 1941]
+```
+
+2026-10-22 1,931 → 2026-10-23 1,941（+10）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `46c6cce2ad9c` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@ R 包，为时间序列建模与预测提供统一基础设施：在 tidymodels 
 
 ```mermaid
 xychart-beta
-    title "business-science/modeltime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "business-science/modeltime 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 583 --> 586
-    line [584, 585]
+    line [584, 585, 585]
 ```
 
-2026-10-18 584 → 2026-10-22 585（+1）
+2026-10-18 584 → 2026-10-23 585（+1）
 
 
 ---

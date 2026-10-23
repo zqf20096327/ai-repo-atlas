@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ombharatiya/FAANG-Coding-Interview-Questions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 6058 --> 6071
-    line [6059, 6067, 6070]
+    title "ombharatiya/FAANG-Coding-Interview-Questions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 6058 --> 6076
+    line [6059, 6067, 6070, 6075]
 ```
 
-2026-10-18 6,059 → 2026-10-22 6,070（+11）
+2026-10-18 6,059 → 2026-10-23 6,075（+16）
 
 
 ---

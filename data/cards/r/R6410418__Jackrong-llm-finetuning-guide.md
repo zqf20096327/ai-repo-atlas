@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "R6410418/Jackrong-llm-finetuning-guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "R6410418/Jackrong-llm-finetuning-guide 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1715 --> 1719
-    line [1716, 1718]
+    line [1716, 1718, 1717]
 ```
 
-2026-10-18 1,716 → 2026-10-22 1,718（+2）
+2026-10-18 1,716 → 2026-10-23 1,717（+1）
 
 
 ---

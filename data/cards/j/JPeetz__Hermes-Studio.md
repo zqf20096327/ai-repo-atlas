@@ -45,13 +45,13 @@ Hermes Studio 是面向 NousResearch Hermes Agent 的开源自托管 Web UI 与�
 
 ```mermaid
 xychart-beta
-    title "JPeetz/Hermes-Studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 379 --> 390
-    line [380, 387, 389]
+    title "JPeetz/Hermes-Studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 379 --> 392
+    line [380, 387, 389, 391]
 ```
 
-2026-10-18 380 → 2026-10-22 389（+9）
+2026-10-18 380 → 2026-10-23 391（+11）
 
 
 ---

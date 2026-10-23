@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GeostatsGuy/PythonNumericalDemos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "GeostatsGuy/PythonNumericalDemos 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1473 --> 1476
-    line [1474, 1475, 1474]
+    line [1474, 1475, 1474, 1474]
 ```
 
-2026-10-18 1,474 → 2026-10-22 1,474（+0）
+2026-10-18 1,474 → 2026-10-23 1,474（+0）
 
 
 ---

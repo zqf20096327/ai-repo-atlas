@@ -46,13 +46,13 @@ Go 编写的单静态二进制通用 agent 框架（harness），同一 agent �
 
 ```mermaid
 xychart-beta
-    title "coddy-project/coddy-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 178 --> 182
-    line [179, 181]
+    title "coddy-project/coddy-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 178 --> 184
+    line [179, 181, 183]
 ```
 
-2026-10-18 179 → 2026-10-22 181（+2）
+2026-10-18 179 → 2026-10-23 183（+4）
 
 
 ---

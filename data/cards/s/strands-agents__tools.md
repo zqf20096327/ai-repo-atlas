@@ -44,13 +44,13 @@ Strands Agents 生态的社区驱动工具集合，pip 安装 strands-agents-too
 
 ```mermaid
 xychart-beta
-    title "strands-agents/tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "strands-agents/tools 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1325 --> 1335
-    line [1326, 1329, 1334]
+    line [1326, 1329, 1334, 1334]
 ```
 
-2026-10-18 1,326 → 2026-10-22 1,334（+8）
+2026-10-18 1,326 → 2026-10-23 1,334（+8）
 
 
 ---

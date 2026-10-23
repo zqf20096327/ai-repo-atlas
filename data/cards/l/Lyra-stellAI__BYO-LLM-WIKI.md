@@ -45,13 +45,13 @@ Flask 应用，把网页、文件与笔记整理为本地个人 wiki：deepagent
 
 ```mermaid
 xychart-beta
-    title "Lyra-stellAI/BYO-LLM-WIKI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 279 --> 283
-    line [280, 282]
+    title "Lyra-stellAI/BYO-LLM-WIKI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 278 --> 283
+    line [280, 282, 279]
 ```
 
-2026-10-18 280 → 2026-10-22 282（+2）
+2026-10-18 280 → 2026-10-23 279（-1）
 
 
 ---

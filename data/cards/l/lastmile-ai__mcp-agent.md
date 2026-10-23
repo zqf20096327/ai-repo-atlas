@@ -45,13 +45,13 @@ mcp-agent 是一个用于构建 agent 应用的 Python 框架，完整实现 Mod
 
 ```mermaid
 xychart-beta
-    title "lastmile-ai/mcp-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 8570 --> 8574
-    line [8571, 8573]
+    title "lastmile-ai/mcp-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 8570 --> 8576
+    line [8571, 8573, 8575]
 ```
 
-2026-10-18 8,571 → 2026-10-22 8,573（+2）
+2026-10-18 8,571 → 2026-10-23 8,575（+4）
 
 
 ---

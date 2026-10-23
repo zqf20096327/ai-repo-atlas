@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "diagram-of-thought/diagram-of-thought 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 200 --> 202
     line [201, 201]
 ```
 
-2026-10-18 201 → 2026-10-21 201（+0）
+2026-10-18 201 → 2026-10-23 201（+0）
 
 
 ---

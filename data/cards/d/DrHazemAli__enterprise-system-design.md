@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DrHazemAli/enterprise-system-design 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "DrHazemAli/enterprise-system-design 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 642 --> 645
-    line [643, 644]
+    line [643, 644, 644]
 ```
 
-2026-10-18 643 → 2026-10-22 644（+1）
+2026-10-18 643 → 2026-10-23 644（+1）
 
 
 ---

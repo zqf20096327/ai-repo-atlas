@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bmadone/senior-software-engineer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 456 --> 458
-    line [457, 457]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 456 --> 459
+    line [457, 458]
 ```
 
-2026-10-18 457 → 2026-10-22 457（+0）
+2026-10-18 457 → 2026-10-23 458（+1）
 
 
 ---

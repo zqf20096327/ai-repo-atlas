@@ -40,6 +40,18 @@
 > L21: ## 🤖 作为 Skill 安装
 > L31: 一个基于网页的**纯前端**工具，用于从 SQL `CREATE TABLE` 语句和 DBML 代码生成 **Chen 模型 ER 图**。无需登录，无需付费，完全免费开源。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ystemsrx/sql-to-ER 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 192 --> 194
+    line [193, 193]
+```
+
+2026-10-22 193 → 2026-10-23 193（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `c25ef6b6e6db` · [字段定义](../../DATASET.md)*

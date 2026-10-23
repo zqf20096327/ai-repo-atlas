@@ -44,13 +44,13 @@ scikit-learn-contrib 下的层次密度聚类库：在变化的 epsilon 值上�
 
 ```mermaid
 xychart-beta
-    title "scikit-learn-contrib/hdbscan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "scikit-learn-contrib/hdbscan 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3155 --> 3158
-    line [3156, 3157]
+    line [3156, 3157, 3156]
 ```
 
-2026-10-18 3,156 → 2026-10-22 3,157（+1）
+2026-10-18 3,156 → 2026-10-23 3,156（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Python 包，将 PDF 等文档转换为 markdown 并切分为面向 LLM 的 chun
 ```mermaid
 xychart-beta
     title "drmingler/smart-llm-loader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 289 --> 291
-    line [290, 290]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 279 --> 291
+    line [290, 280]
 ```
 
-2026-10-18 290 → 2026-10-22 290（+0）
+2026-10-18 290 → 2026-10-23 280（-10）
 
 
 ---

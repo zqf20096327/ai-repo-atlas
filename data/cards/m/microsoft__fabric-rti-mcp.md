@@ -46,12 +46,12 @@ Microsoft 维护的 MCP 服务器，作为 AI agent 与 Microsoft Fabric Real-Ti
 ```mermaid
 xychart-beta
     title "microsoft/fabric-rti-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 131 --> 133
     line [132, 132]
 ```
 
-2026-10-18 132 → 2026-10-22 132（+0）
+2026-10-18 132 → 2026-10-23 132（+0）
 
 
 ---

@@ -45,13 +45,13 @@ DeepMind 维护的多智能体强化学习（MARL）评测套件，提供 50 余
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/meltingpot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 889 --> 895
-    line [890, 891, 894]
+    title "google-deepmind/meltingpot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 889 --> 897
+    line [890, 891, 894, 896]
 ```
 
-2026-10-18 890 → 2026-10-22 894（+4）
+2026-10-18 890 → 2026-10-23 896（+6）
 
 
 ---

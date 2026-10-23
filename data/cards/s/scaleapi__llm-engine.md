@@ -33,7 +33,7 @@ Scale 公司开源的 LLM Engine，以 Python 库、CLI 和 Helm Chart 形式提
 
 ## 场景标签
 
- · 领域:LLM 基础设施/微调与推理
+`微调` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -45,12 +45,12 @@ Scale 公司开源的 LLM Engine，以 Python 库、CLI 和 Helm Chart 形式提
 ```mermaid
 xychart-beta
     title "scaleapi/llm-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 838 --> 840
     line [839, 839]
 ```
 
-2026-10-18 839 → 2026-10-21 839（+0）
+2026-10-18 839 → 2026-10-23 839（+0）
 
 
 ---

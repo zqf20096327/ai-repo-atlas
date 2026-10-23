@@ -44,13 +44,13 @@ OpenAI 官方的 MCP Extensions 项目：在 MCP 协议之上添加 ChatGPT 专�
 
 ```mermaid
 xychart-beta
-    title "openai/mcp-extensions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1080 --> 1094
-    line [1081, 1085, 1093]
+    title "openai/mcp-extensions 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1080 --> 1099
+    line [1081, 1085, 1093, 1098]
 ```
 
-2026-10-18 1,081 → 2026-10-22 1,093（+12）
+2026-10-18 1,081 → 2026-10-23 1,098（+17）
 
 
 ---

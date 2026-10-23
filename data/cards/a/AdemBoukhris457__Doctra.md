@@ -46,12 +46,12 @@ Python 库，提供多个解析器处理 PDF 与 DOCX：布局检测（PaddleOCR
 ```mermaid
 xychart-beta
     title "AdemBoukhris457/Doctra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 215 --> 217
     line [216, 216]
 ```
 
-2026-10-18 216 → 2026-10-22 216（+0）
+2026-10-18 216 → 2026-10-23 216（+0）
 
 
 ---

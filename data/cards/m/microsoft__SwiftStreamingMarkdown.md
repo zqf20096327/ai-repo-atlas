@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/SwiftStreamingMarkdown 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "microsoft/SwiftStreamingMarkdown 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 380 --> 383
-    line [381, 382, 381]
+    line [381, 382, 381, 381]
 ```
 
-2026-10-18 381 → 2026-10-22 381（+0）
+2026-10-18 381 → 2026-10-23 381（+0）
 
 
 ---

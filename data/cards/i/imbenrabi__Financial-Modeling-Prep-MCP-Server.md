@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "imbenrabi/Financial-Modeling-Prep-MCP-Server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 149 --> 151
     line [150, 150]
 ```
 
-2026-10-18 150 → 2026-10-22 150（+0）
+2026-10-18 150 → 2026-10-23 150（+0）
 
 
 ---

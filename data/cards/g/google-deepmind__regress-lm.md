@@ -44,13 +44,13 @@ DeepMind 开源的机器学习库，实现 sequence-to-sequence 数值回归：�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/regress-lm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 360 --> 366
-    line [362, 361, 365]
+    title "google-deepmind/regress-lm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 360 --> 367
+    line [362, 361, 365, 366]
 ```
 
-2026-10-18 362 → 2026-10-22 365（+3）
+2026-10-18 362 → 2026-10-23 366（+4）
 
 
 ---

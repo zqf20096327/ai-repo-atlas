@@ -44,13 +44,13 @@ TourMind 维护的 Agent Skills 仓库：为支持 Skills 的 Agent 客户端（
 
 ```mermaid
 xychart-beta
-    title "tourmind-com/Tourmind-Booking-Skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2064 --> 2237
-    line [2078, 2153, 2223]
+    title "tourmind-com/Tourmind-Booking-Skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2060 --> 2282
+    line [2078, 2153, 2223, 2264]
 ```
 
-2026-10-18 2,078 → 2026-10-22 2,223（+145）
+2026-10-18 2,078 → 2026-10-23 2,264（+186）
 
 
 ---

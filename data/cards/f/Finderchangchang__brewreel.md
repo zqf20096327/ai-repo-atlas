@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Finderchangchang/brewreel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 169 --> 173
-    line [170, 172]
+    title "Finderchangchang/brewreel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 169 --> 174
+    line [170, 172, 173]
 ```
 
-2026-10-18 170 → 2026-10-22 172（+2）
+2026-10-18 170 → 2026-10-23 173（+3）
 
 
 ---

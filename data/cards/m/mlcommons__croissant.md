@@ -44,13 +44,13 @@ Croissant 是一种基于 schema.org Dataset 词汇表的机器学习数据集�
 
 ```mermaid
 xychart-beta
-    title "mlcommons/croissant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 912 --> 915
-    line [913, 914]
+    title "mlcommons/croissant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 912 --> 916
+    line [913, 914, 915]
 ```
 
-2026-10-18 913 → 2026-10-22 914（+1）
+2026-10-18 913 → 2026-10-23 915（+2）
 
 
 ---

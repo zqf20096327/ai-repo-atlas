@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OnlyTerp/openclaw-optimization-guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 386 --> 388
-    line [387, 387]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 386 --> 389
+    line [387, 388]
 ```
 
-2026-10-18 387 → 2026-10-22 387（+0）
+2026-10-18 387 → 2026-10-23 388（+1）
 
 
 ---

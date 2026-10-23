@@ -45,13 +45,13 @@ Pi-Bolt 是 Pi coding agent 的独立 fork，将 Pi 连同 Bun 运行时通过 b
 
 ```mermaid
 xychart-beta
-    title "opensec-git/Pi-Bolt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 363 --> 388
-    line [365, 373, 386]
+    title "opensec-git/Pi-Bolt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 363 --> 394
+    line [365, 373, 386, 392]
 ```
 
-2026-10-18 365 → 2026-10-22 386（+21）
+2026-10-18 365 → 2026-10-23 392（+27）
 
 
 ---

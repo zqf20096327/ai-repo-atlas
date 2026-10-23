@@ -44,12 +44,12 @@ awesome-list 形式的扩散模型资源聚合：按 Colab Notebooks、Diffusion
 ```mermaid
 xychart-beta
     title "cobanov/awesome-diffusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 217 --> 219
     line [218, 218]
 ```
 
-2026-10-18 218 → 2026-10-22 218（+0）
+2026-10-18 218 → 2026-10-23 218（+0）
 
 
 ---

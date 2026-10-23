@@ -44,13 +44,13 @@ Docker Engineering 开发的 docker CLI 插件（Docker Desktop 4.63+ 预装）�
 
 ```mermaid
 xychart-beta
-    title "docker/docker-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4551 --> 4589
-    line [4554, 4570, 4586]
+    title "docker/docker-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4550 --> 4601
+    line [4554, 4570, 4586, 4597]
 ```
 
-2026-10-18 4,554 → 2026-10-22 4,586（+32）
+2026-10-18 4,554 → 2026-10-23 4,597（+43）
 
 
 ---

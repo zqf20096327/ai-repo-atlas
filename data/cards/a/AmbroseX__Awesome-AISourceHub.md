@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmbroseX/Awesome-AISourceHub 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-22"]
+    title "AmbroseX/Awesome-AISourceHub 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1780 --> 1784
-    line [1781, 1783]
+    line [1781, 1783, 1783]
 ```
 
-2026-10-19 1,781 → 2026-10-22 1,783（+2）
+2026-10-19 1,781 → 2026-10-23 1,783（+2）
 
 
 ---

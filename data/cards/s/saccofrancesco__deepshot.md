@@ -45,12 +45,12 @@ DeepShot 是一个用机器学习预测 NBA 比赛结果的应用：从 Basketba
 ```mermaid
 xychart-beta
     title "saccofrancesco/deepshot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 171 --> 173
-    line [172, 172]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 171 --> 175
+    line [172, 174]
 ```
 
-2026-10-18 172 → 2026-10-22 172（+0）
+2026-10-18 172 → 2026-10-23 174（+2）
 
 
 ---

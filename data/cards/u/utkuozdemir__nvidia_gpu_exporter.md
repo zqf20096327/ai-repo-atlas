@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "utkuozdemir/nvidia_gpu_exporter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1567 --> 1570
-    line [1568, 1569]
+    title "utkuozdemir/nvidia_gpu_exporter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1567 --> 1571
+    line [1568, 1569, 1570]
 ```
 
-2026-10-18 1,568 → 2026-10-22 1,569（+1）
+2026-10-18 1,568 → 2026-10-23 1,570（+2）
 
 
 ---

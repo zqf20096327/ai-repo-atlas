@@ -44,13 +44,13 @@ promptslab 维护的手工策展资源集合，覆盖提示工程与上下文工
 
 ```mermaid
 xychart-beta
-    title "promptslab/Awesome-Prompt-Engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "promptslab/Awesome-Prompt-Engineering 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 6375 --> 6389
-    line [6376, 6380, 6388]
+    line [6376, 6380, 6388, 6388]
 ```
 
-2026-10-18 6,376 → 2026-10-22 6,388（+12）
+2026-10-18 6,376 → 2026-10-23 6,388（+12）
 
 
 ---

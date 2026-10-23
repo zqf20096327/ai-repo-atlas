@@ -44,13 +44,13 @@ Model Mondays 是 Microsoft Foundry 生态下的系列直播与 AMA 活动页：
 
 ```mermaid
 xychart-beta
-    title "microsoft/model-mondays 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "microsoft/model-mondays 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 300 --> 304
-    line [301, 302, 303]
+    line [301, 302, 303, 303]
 ```
 
-2026-10-18 301 → 2026-10-22 303（+2）
+2026-10-18 301 → 2026-10-23 303（+2）
 
 
 ---

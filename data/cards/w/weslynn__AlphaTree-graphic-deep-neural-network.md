@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "weslynn/AlphaTree-graphic-deep-neural-network 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "weslynn/AlphaTree-graphic-deep-neural-network 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3023 --> 3026
-    line [3024, 3025]
+    line [3024, 3025, 3024]
 ```
 
-2026-10-18 3,024 → 2026-10-22 3,025（+1）
+2026-10-18 3,024 → 2026-10-23 3,024（+0）
 
 
 ---

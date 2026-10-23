@@ -45,13 +45,13 @@ AI Career Curriculum 生态下的开源课程仓库：以 10 个模块（共 500
 
 ```mermaid
 xychart-beta
-    title "ai-infra-curriculum/ai-infra-engineer-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1793 --> 1805
-    line [1794, 1799, 1804]
+    title "ai-infra-curriculum/ai-infra-engineer-learning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1793 --> 1808
+    line [1794, 1799, 1804, 1807]
 ```
 
-2026-10-18 1,794 → 2026-10-22 1,804（+10）
+2026-10-18 1,794 → 2026-10-23 1,807（+13）
 
 
 ---

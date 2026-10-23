@@ -46,12 +46,12 @@ AI Verify Foundation 开发的评测工具，将基准测试与红队攻击整�
 ```mermaid
 xychart-beta
     title "aiverify-foundation/moonshot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 357 --> 359
-    line [358, 358]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 357 --> 360
+    line [358, 359]
 ```
 
-2026-10-18 358 → 2026-10-21 358（+0）
+2026-10-18 358 → 2026-10-23 359（+1）
 
 
 ---

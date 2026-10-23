@@ -41,6 +41,18 @@ Apache 2.0 开源的企业 agent harness：把业务请求转化为跨应用、A
 > L7: CUGA turns business requests into actions across your applications, APIs, and documents. Deploy in your private clou
 > L41: |**Faster delivery**|Connect MCP servers, OpenAPI services, and Python tools. Configure and test an agent in the UI
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cuga-project/cuga-agent 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 1044 --> 1048
+    line [1045, 1047]
+```
+
+2026-10-22 1,045 → 2026-10-23 1,047（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `eef7503621ac` · [字段定义](../../DATASET.md)*

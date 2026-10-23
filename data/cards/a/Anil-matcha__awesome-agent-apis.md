@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/awesome-agent-apis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1056 --> 1059
-    line [1057, 1058]
+    title "Anil-matcha/awesome-agent-apis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1056 --> 1061
+    line [1057, 1058, 1060]
 ```
 
-2026-10-18 1,057 → 2026-10-22 1,058（+1）
+2026-10-18 1,057 → 2026-10-23 1,060（+3）
 
 
 ---

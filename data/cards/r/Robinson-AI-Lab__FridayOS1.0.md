@@ -46,12 +46,12 @@ Robinson AI Lab 的开源实践项目（前名 FridayOS-Lite），以 Obsidian�
 ```mermaid
 xychart-beta
     title "Robinson-AI-Lab/FridayOS1.0 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 902 --> 905
-    line [903, 904, 904]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 874 --> 906
+    line [903, 904, 876]
 ```
 
-2026-10-18 903 → 2026-10-22 904（+1）
+2026-10-18 903 → 2026-10-23 876（-27）
 
 
 ---

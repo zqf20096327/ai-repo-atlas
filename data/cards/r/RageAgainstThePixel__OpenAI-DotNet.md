@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RageAgainstThePixel/OpenAI-DotNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "RageAgainstThePixel/OpenAI-DotNet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 756 --> 759
-    line [757, 758]
+    line [757, 758, 758]
 ```
 
-2026-10-18 757 → 2026-10-22 758（+1）
+2026-10-18 757 → 2026-10-23 758（+1）
 
 
 ---

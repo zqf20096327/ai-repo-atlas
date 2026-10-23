@@ -43,13 +43,13 @@ Supabase 各 Python 库的 monorepo，包含 supabase 主客户端、realtime-py
 
 ```mermaid
 xychart-beta
-    title "supabase/supabase-py 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "supabase/supabase-py 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2600 --> 2610
-    line [2601, 2605, 2609]
+    line [2601, 2605, 2609, 2609]
 ```
 
-2026-10-18 2,601 → 2026-10-22 2,609（+8）
+2026-10-18 2,601 → 2026-10-23 2,609（+8）
 
 
 ---

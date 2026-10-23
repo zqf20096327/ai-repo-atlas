@@ -45,13 +45,13 @@ Ekko Studio 是 local-first 的 AI 工作区，提供桌面应用（Windows/macO
 
 ```mermaid
 xychart-beta
-    title "EKKOLearnAI/ekko-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 11446 --> 11503
-    line [11450, 11471, 11499]
+    title "EKKOLearnAI/ekko-studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 11444 --> 11516
+    line [11450, 11471, 11499, 11510]
 ```
 
-2026-10-18 11,450 → 2026-10-22 11,499（+49）
+2026-10-18 11,450 → 2026-10-23 11,510（+60）
 
 
 ---

@@ -44,13 +44,13 @@ Pocket Flow（100 行 LLM 框架）的教程项目：通过 AI agent 爬取 GitH
 
 ```mermaid
 xychart-beta
-    title "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 12706 --> 12714
-    line [12707, 12710, 12713]
+    line [12707, 12710, 12713, 12711]
 ```
 
-2026-10-18 12,707 → 2026-10-22 12,713（+6）
+2026-10-18 12,707 → 2026-10-23 12,711（+4）
 
 
 ---

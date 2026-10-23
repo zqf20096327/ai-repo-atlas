@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tarun7r/deep-research-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "tarun7r/deep-research-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 187 --> 190
-    line [188, 189]
+    line [188, 189, 189]
 ```
 
-2026-10-18 188 → 2026-10-22 189（+1）
+2026-10-18 188 → 2026-10-23 189（+1）
 
 
 ---

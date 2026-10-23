@@ -43,12 +43,12 @@ Anthropic 发布的转录记录仓库：记录 Mythos 5 模型在一次 CTF 网�
 ```mermaid
 xychart-beta
     title "anthropics/mythos-5-incident-transcript 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 127 --> 130
-    line [128, 129, 129]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 127 --> 131
+    line [128, 129, 130]
 ```
 
-2026-10-18 128 → 2026-10-22 129（+1）
+2026-10-18 128 → 2026-10-23 130（+2）
 
 
 ---

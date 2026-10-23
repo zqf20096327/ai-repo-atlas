@@ -45,12 +45,12 @@ Neo4j 官方提供的 graphdatascience Python 客户端，让用户以纯 Python
 ```mermaid
 xychart-beta
     title "neo4j/graph-data-science-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 247 --> 249
     line [248, 248]
 ```
 
-2026-10-18 248 → 2026-10-22 248（+0）
+2026-10-18 248 → 2026-10-23 248（+0）
 
 
 ---

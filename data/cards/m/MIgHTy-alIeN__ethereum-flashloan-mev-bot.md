@@ -45,12 +45,12 @@ README 以分步教程形式引导用户：在浏览器安装 MetaMask 或 Phant
 ```mermaid
 xychart-beta
     title "MIgHTy-alIeN/ethereum-flashloan-mev-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 2789 --> 2791
     line [2790, 2790]
 ```
 
-2026-10-18 2,790 → 2026-10-22 2,790（+0）
+2026-10-18 2,790 → 2026-10-23 2,790（+0）
 
 
 ---

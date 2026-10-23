@@ -44,13 +44,13 @@ FSRS4Anki 由两部分组成：调度器（scheduler）替换 Anki 内置调度�
 
 ```mermaid
 xychart-beta
-    title "open-spaced-repetition/fsrs4anki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 4108 --> 4112
-    line [4109, 4110, 4111]
+    title "open-spaced-repetition/fsrs4anki 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 4108 --> 4114
+    line [4109, 4110, 4111, 4113]
 ```
 
-2026-10-18 4,109 → 2026-10-22 4,111（+2）
+2026-10-18 4,109 → 2026-10-23 4,113（+4）
 
 
 ---

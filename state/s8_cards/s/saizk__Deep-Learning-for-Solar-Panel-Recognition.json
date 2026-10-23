@@ -1,1 +1,77 @@
-{"fn": "saizk/Deep-Learning-for-Solar-Panel-Recognition", "sha": "a0c5398e1c88", "source": "readme", "identity": {"one_liner": "航拍图像光伏板检测与分割的 CNN 代码库", "review": "面向光伏板识别的深度学习项目：用 YOLOv5（S/M/L/X 四种规模）做目标检测，用 Unet++、FPN、DeepLabV3+、PSPNet 做图像分割，基于 PyTorch 与 segmentation_models.pytorch 实现。提供数据预处理、训练与推理脚本，分割部分通过 Jupyter notebook 运行。数据来源包括 Zenodo 光伏数据集、Google Maps API/网页抓取与 Sentinel-2 下载器（后者标注未使用）。需要 Python 3.8 与 PyTorch CUDA 11.3 环境。", "highlights": ["YOLOv5 四种规模模型的目标检测训练与推理脚本", "Unet++/FPN/DeepLabV3+/PSPNet 四种分割架构", "Google Maps API 与网页抓取的航拍图像下载器", "基于 PyTorch Lightning 与 vanilla PyTorch 的分割 notebook"], "use_cases": ["在航拍或卫星图像中检测并分割光伏板", "复现或比较不同检测/分割架构在光伏数据集上的表现", "获取 Google Maps 航拍图像用于光伏相关研究"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["计算机视觉", "遥感/航拍图像", "目标检测", "语义分割", "光伏/新能源"], "domain": "计算机视觉/遥感光伏识别", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Recognition of photovoltaic cells in aerial images with **Convolutional Neural Networks** (CNNs).", "L4: **Object detection** with YOLOv5 models and **image segmentation** with Unet++, FPN, DLV3+ and PSPNet."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "saizk/Deep-Learning-for-Solar-Panel-Recognition",
+ "sha": "a0c5398e1c88",
+ "source": "readme",
+ "identity": {
+  "one_liner": "航拍图像光伏板检测与分割的 CNN 代码库",
+  "review": "面向光伏板识别的深度学习项目：用 YOLOv5（S/M/L/X 四种规模）做目标检测，用 Unet++、FPN、DeepLabV3+、PSPNet 做图像分割，基于 PyTorch 与 segmentation_models.pytorch 实现。提供数据预处理、训练与推理脚本，分割部分通过 Jupyter notebook 运行。数据来源包括 Zenodo 光伏数据集、Google Maps API/网页抓取与 Sentinel-2 下载器（后者标注未使用）。需要 Python 3.8 与 PyTorch CUDA 11.3 环境。",
+  "highlights": [
+   "YOLOv5 四种规模模型的目标检测训练与推理脚本",
+   "Unet++/FPN/DeepLabV3+/PSPNet 四种分割架构",
+   "Google Maps API 与网页抓取的航拍图像下载器",
+   "基于 PyTorch Lightning 与 vanilla PyTorch 的分割 notebook"
+  ],
+  "use_cases": [
+   "在航拍或卫星图像中检测并分割光伏板",
+   "复现或比较不同检测/分割架构在光伏数据集上的表现",
+   "获取 Google Maps 航拍图像用于光伏相关研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "遥感/航拍图像",
+   "目标检测",
+   "语义分割",
+   "光伏/新能源"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Recognition of photovoltaic cells in aerial images with **Convolutional Neural Networks** (CNNs).",
+   "L4: **Object detection** with YOLOv5 models and **image segmentation** with Unet++, FPN, DLV3+ and PSPNet."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

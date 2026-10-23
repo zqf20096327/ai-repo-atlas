@@ -46,12 +46,12 @@ Mixture-of-Recursions 的研究代码，出自 KAIST、Mila 与 Google 系机构
 ```mermaid
 xychart-beta
     title "raymin0223/mixture_of_recursions 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 640 --> 643
-    line [641, 642, 642]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 640 --> 644
+    line [641, 642, 643]
 ```
 
-2026-10-18 641 → 2026-10-21 642（+1）
+2026-10-18 641 → 2026-10-23 643（+2）
 
 
 ---

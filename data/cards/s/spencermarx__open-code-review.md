@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "spencermarx/open-code-review 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "spencermarx/open-code-review 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 378 --> 381
-    line [379, 380]
+    line [379, 380, 380]
 ```
 
-2026-10-18 379 → 2026-10-22 380（+1）
+2026-10-18 379 → 2026-10-23 380（+1）
 
 
 ---

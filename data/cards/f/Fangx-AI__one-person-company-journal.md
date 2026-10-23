@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fangx-AI/one-person-company-journal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "Fangx-AI/one-person-company-journal 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 451 --> 520
-    line [456, 485, 515]
+    line [456, 485, 515, 514]
 ```
 
-2026-10-18 456 → 2026-10-22 515（+59）
+2026-10-18 456 → 2026-10-23 514（+58）
 
 
 ---

@@ -45,12 +45,12 @@ Microsoft 维护的解决方案加速器：基于 Azure OpenAI Service，让组�
 ```mermaid
 xychart-beta
     title "microsoft/azurechat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 1387 --> 1389
-    line [1388, 1388]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 1387 --> 1390
+    line [1388, 1389]
 ```
 
-2026-10-18 1,388 → 2026-10-22 1,388（+0）
+2026-10-18 1,388 → 2026-10-23 1,389（+1）
 
 
 ---

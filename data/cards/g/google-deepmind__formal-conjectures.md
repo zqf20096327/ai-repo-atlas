@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/formal-conjectures 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "google-deepmind/formal-conjectures 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1329 --> 1333
-    line [1330, 1331, 1332]
+    line [1330, 1331, 1332, 1332]
 ```
 
-2026-10-18 1,330 → 2026-10-22 1,332（+2）
+2026-10-18 1,330 → 2026-10-23 1,332（+2）
 
 
 ---

@@ -43,13 +43,13 @@ MetaClaw 以透明代理形式置于个人 agent（OpenClaw、CoPaw、IronClaw �
 
 ```mermaid
 xychart-beta
-    title "aiming-lab/MetaClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3455 --> 3460
-    line [3456, 3458, 3459]
+    title "aiming-lab/MetaClaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3455 --> 3462
+    line [3456, 3458, 3459, 3461]
 ```
 
-2026-10-18 3,456 → 2026-10-22 3,459（+3）
+2026-10-18 3,456 → 2026-10-23 3,461（+5）
 
 
 ---

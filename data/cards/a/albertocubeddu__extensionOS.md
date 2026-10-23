@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "albertocubeddu/extensionOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "albertocubeddu/extensionOS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 135 --> 138
-    line [136, 137]
+    line [136, 137, 137]
 ```
 
-2026-10-18 136 → 2026-10-22 137（+1）
+2026-10-18 136 → 2026-10-23 137（+1）
 
 
 ---

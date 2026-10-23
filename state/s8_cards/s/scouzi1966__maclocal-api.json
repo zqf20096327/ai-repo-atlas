@@ -1,1 +1,81 @@
-{"fn": "scouzi1966/maclocal-api", "sha": "379093cd6053", "source": "readme", "identity": {"one_liner": "把 Apple Silicon Mac 变成本地 OpenAI 兼容 AI 服务器的 CLI", "review": "Swift 编写的 macOS 本地推理服务：通过 `afm` 命令启动本地 OpenAI 兼容端点，可运行 Hugging Face MLX 模型、Apple 设备端 Foundation Model 与 DwarfStar 检查点，另有网关模式聚合 Ollama、LM Studio、Jan 等本地服务器。提供对话/补全、流式、工具调用、结构化输出、嵌入、OCR、语音转写/合成、文本生图等端点，内置 WebUI、终端 TUI 聊天与 91 项变体的本地模型评测套件。要求 Swift 6.2+ 与 macOS 26+，MLX 权重首次使用时从 Hugging Face 下载。", "highlights": ["本地 OpenAI 兼容服务器，无需云账号或 API key", "支持 MLX / Apple Foundation Models / DwarfStar 三种运行时与网关模式", "端点覆盖 chat、embeddings、OCR、语音转写与合成、FLUX.2 Klein 生图", "原生工具调用格式自动检测、结构化输出与 radix-tree KV 前缀缓存"], "use_cases": ["在 Mac 上本地跑 MLX 或 Apple Foundation Model 并接入现有 OpenAI 客户端", "为 Cline、Aider、Cursor 等编码工具提供私有本地推理后端", "用单条命令评测本地 MLX 模型并生成 HTML 报告", "通过网关模式统一聚合 Ollama/LM Studio 等本地服务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地推理", "OpenAI兼容", "MLX", "macOS", "AI服务器"], "domain": "本地 LLM 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L37: AFM turns an Apple Silicon Mac into a private, OpenAI-compatible AI server. Run Hugging Face MLX models or Apple’s on-de", "L101: AFM is now listening at `http://127.0.0.1:9999/v1`.", "L173: |**Gateway**|One model list for Ollama, LM Studio, Jan, and other local servers|`afm --gateway`|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "scouzi1966/maclocal-api",
+ "sha": "379093cd6053",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Apple Silicon Mac 变成本地 OpenAI 兼容 AI 服务器的 CLI",
+  "review": "Swift 编写的 macOS 本地推理服务：通过 `afm` 命令启动本地 OpenAI 兼容端点，可运行 Hugging Face MLX 模型、Apple 设备端 Foundation Model 与 DwarfStar 检查点，另有网关模式聚合 Ollama、LM Studio、Jan 等本地服务器。提供对话/补全、流式、工具调用、结构化输出、嵌入、OCR、语音转写/合成、文本生图等端点，内置 WebUI、终端 TUI 聊天与 91 项变体的本地模型评测套件。要求 Swift 6.2+ 与 macOS 26+，MLX 权重首次使用时从 Hugging Face 下载。",
+  "highlights": [
+   "本地 OpenAI 兼容服务器，无需云账号或 API key",
+   "支持 MLX / Apple Foundation Models / DwarfStar 三种运行时与网关模式",
+   "端点覆盖 chat、embeddings、OCR、语音转写与合成、FLUX.2 Klein 生图",
+   "原生工具调用格式自动检测、结构化输出与 radix-tree KV 前缀缓存"
+  ],
+  "use_cases": [
+   "在 Mac 上本地跑 MLX 或 Apple Foundation Model 并接入现有 OpenAI 客户端",
+   "为 Cline、Aider、Cursor 等编码工具提供私有本地推理后端",
+   "用单条命令评测本地 MLX 模型并生成 HTML 报告",
+   "通过网关模式统一聚合 Ollama/LM Studio 等本地服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "OpenAI兼容",
+   "MLX",
+   "macOS",
+   "AI服务器"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-gateway",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L37: AFM turns an Apple Silicon Mac into a private, OpenAI-compatible AI server. Run Hugging Face MLX models or Apple’s on-de",
+   "L101: AFM is now listening at `http://127.0.0.1:9999/v1`.",
+   "L173: |**Gateway**|One model list for Ollama, LM Studio, Jan, and other local servers|`afm --gateway`|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -46,12 +46,12 @@ LangChain.dart 是 LangChain Python 框架的非官方 Dart 移植版，为 Dart
 ```mermaid
 xychart-beta
     title "davidmigloz/langchain_dart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 689 --> 691
     line [690, 690]
 ```
 
-2026-10-18 690 → 2026-10-22 690（+0）
+2026-10-18 690 → 2026-10-23 690（+0）
 
 
 ---

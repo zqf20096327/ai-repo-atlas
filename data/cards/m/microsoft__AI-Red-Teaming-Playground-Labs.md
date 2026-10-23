@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/AI-Red-Teaming-Playground-Labs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2093 --> 2103
-    line [2094, 2098, 2102]
+    title "microsoft/AI-Red-Teaming-Playground-Labs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2093 --> 2105
+    line [2094, 2098, 2102, 2104]
 ```
 
-2026-10-18 2,094 → 2026-10-22 2,102（+8）
+2026-10-18 2,094 → 2026-10-23 2,104（+10）
 
 
 ---

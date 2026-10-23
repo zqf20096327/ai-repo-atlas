@@ -45,13 +45,13 @@ Electron 构建的开源跨平台 Markdown 笔记编辑器，主打双栏编辑�
 
 ```mermaid
 xychart-beta
-    title "hooosberg/WitNote 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "hooosberg/WitNote 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 568 --> 571
-    line [570, 569]
+    line [570, 569, 569]
 ```
 
-2026-10-18 570 → 2026-10-22 569（-1）
+2026-10-18 570 → 2026-10-23 569（-1）
 
 
 ---

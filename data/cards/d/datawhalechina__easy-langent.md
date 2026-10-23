@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/easy-langent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "datawhalechina/easy-langent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 510 --> 513
-    line [511, 512]
+    line [511, 512, 512]
 ```
 
-2026-10-18 511 → 2026-10-22 512（+1）
+2026-10-18 511 → 2026-10-23 512（+1）
 
 
 ---

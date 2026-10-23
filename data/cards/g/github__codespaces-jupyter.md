@@ -43,12 +43,12 @@ GitHub 官方提供的 Codespaces 起步模板仓库，预配置 Python 与 Jupy
 ```mermaid
 xychart-beta
     title "github/codespaces-jupyter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 911 --> 913
     line [912, 912]
 ```
 
-2026-10-18 912 → 2026-10-22 912（+0）
+2026-10-18 912 → 2026-10-23 912（+0）
 
 
 ---

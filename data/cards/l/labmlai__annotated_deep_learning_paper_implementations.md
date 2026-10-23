@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "labmlai/annotated_deep_learning_paper_implementations 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 67563 --> 67582
-    line [67564, 67580, 67581]
+    title "labmlai/annotated_deep_learning_paper_implementations 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 67562 --> 67589
+    line [67564, 67580, 67581, 67587]
 ```
 
-2026-10-18 67,564 → 2026-10-22 67,581（+17）
+2026-10-18 67,564 → 2026-10-23 67,587（+23）
 
 
 ---

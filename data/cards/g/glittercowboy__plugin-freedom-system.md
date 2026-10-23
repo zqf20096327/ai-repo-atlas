@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "glittercowboy/plugin-freedom-system 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 217 --> 219
-    line [218, 218]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 217 --> 220
+    line [218, 219]
 ```
 
-2026-10-18 218 → 2026-10-22 218（+0）
+2026-10-18 218 → 2026-10-23 219（+1）
 
 
 ---

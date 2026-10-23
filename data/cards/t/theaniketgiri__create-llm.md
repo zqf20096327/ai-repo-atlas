@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "theaniketgiri/create-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 368 --> 373
-    line [369, 372]
+    title "theaniketgiri/create-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 368 --> 374
+    line [369, 372, 373]
 ```
 
-2026-10-18 369 → 2026-10-22 372（+3）
+2026-10-18 369 → 2026-10-23 373（+4）
 
 
 ---

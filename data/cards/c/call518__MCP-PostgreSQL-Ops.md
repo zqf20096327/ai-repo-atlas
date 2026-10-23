@@ -44,13 +44,13 @@ MCP-PostgreSQL-Ops 是一个用 Python 实现的 PostgreSQL 运维、监控与�
 
 ```mermaid
 xychart-beta
-    title "call518/MCP-PostgreSQL-Ops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "call518/MCP-PostgreSQL-Ops 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 160 --> 164
-    line [161, 163]
+    line [161, 163, 163]
 ```
 
-2026-10-18 161 → 2026-10-22 163（+2）
+2026-10-18 161 → 2026-10-23 163（+2）
 
 
 ---

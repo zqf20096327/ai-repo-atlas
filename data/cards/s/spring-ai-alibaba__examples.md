@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "spring-ai-alibaba/examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 2913 --> 2918
-    line [2914, 2917]
+    title "spring-ai-alibaba/examples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2913 --> 2919
+    line [2914, 2917, 2918]
 ```
 
-2026-10-18 2,914 → 2026-10-22 2,917（+3）
+2026-10-18 2,914 → 2026-10-23 2,918（+4）
 
 
 ---

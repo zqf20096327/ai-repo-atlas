@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jjiantong/Awesome-KV-Cache-Optimization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "jjiantong/Awesome-KV-Cache-Optimization 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 420 --> 423
-    line [421, 422]
+    line [421, 422, 422]
 ```
 
-2026-10-18 421 → 2026-10-22 422（+1）
+2026-10-18 421 → 2026-10-23 422（+1）
 
 
 ---

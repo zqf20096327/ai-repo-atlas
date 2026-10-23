@@ -43,13 +43,13 @@ Anthropic 发布的 Claude Code skill 参考实现：面向想在 Claude Managed
 
 ```mermaid
 xychart-beta
-    title "anthropics/launch-your-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1061 --> 1072
-    line [1062, 1070, 1071]
+    title "anthropics/launch-your-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1061 --> 1075
+    line [1062, 1070, 1071, 1074]
 ```
 
-2026-10-18 1,062 → 2026-10-22 1,071（+9）
+2026-10-18 1,062 → 2026-10-23 1,074（+12）
 
 
 ---

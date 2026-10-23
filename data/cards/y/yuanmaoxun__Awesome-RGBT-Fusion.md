@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuanmaoxun/Awesome-RGBT-Fusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 767 --> 770
-    line [768, 769]
+    title "yuanmaoxun/Awesome-RGBT-Fusion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 767 --> 771
+    line [768, 769, 770]
 ```
 
-2026-10-18 768 → 2026-10-22 769（+1）
+2026-10-18 768 → 2026-10-23 770（+2）
 
 
 ---

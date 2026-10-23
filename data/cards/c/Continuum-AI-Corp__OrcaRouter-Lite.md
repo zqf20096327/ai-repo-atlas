@@ -45,13 +45,13 @@ OrcaRouter Lite 是 OrcaRouter 的开源单工作区版本，作为可自托管�
 
 ```mermaid
 xychart-beta
-    title "Continuum-AI-Corp/OrcaRouter-Lite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1517 --> 1524
-    line [1518, 1521, 1523]
+    title "Continuum-AI-Corp/OrcaRouter-Lite 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1416 --> 1532
+    line [1518, 1521, 1523, 1425]
 ```
 
-2026-10-18 1,518 → 2026-10-22 1,523（+5）
+2026-10-18 1,518 → 2026-10-23 1,425（-93）
 
 
 ---

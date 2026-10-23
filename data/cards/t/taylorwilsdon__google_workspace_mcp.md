@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "taylorwilsdon/google_workspace_mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3352 --> 3396
-    line [3355, 3376, 3393]
+    title "taylorwilsdon/google_workspace_mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3351 --> 3402
+    line [3355, 3376, 3393, 3398]
 ```
 
-2026-10-18 3,355 → 2026-10-22 3,393（+38）
+2026-10-18 3,355 → 2026-10-23 3,398（+43）
 
 
 ---

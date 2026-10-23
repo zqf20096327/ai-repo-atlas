@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agent-governance-toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 6433 --> 6451
-    line [6434, 6444, 6450]
+    title "microsoft/agent-governance-toolkit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 6432 --> 6457
+    line [6434, 6444, 6450, 6455]
 ```
 
-2026-10-18 6,434 → 2026-10-22 6,450（+16）
+2026-10-18 6,434 → 2026-10-23 6,455（+21）
 
 
 ---

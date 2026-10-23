@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIVFI/Video-Depth-Estimation-Rankings-and-Stereo-Video-Conversion-Rankings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 260 --> 262
     line [261, 261]
 ```
 
-2026-10-18 261 → 2026-10-22 261（+0）
+2026-10-18 261 → 2026-10-23 261（+0）
 
 
 ---

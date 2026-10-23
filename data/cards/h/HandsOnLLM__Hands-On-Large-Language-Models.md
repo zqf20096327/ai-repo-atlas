@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "HandsOnLLM/Hands-On-Large-Language-Models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 29730 --> 29811
-    line [29736, 29780, 29805]
+    title "HandsOnLLM/Hands-On-Large-Language-Models 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 29727 --> 29835
+    line [29736, 29780, 29805, 29826]
 ```
 
-2026-10-18 29,736 → 2026-10-22 29,805（+69）
+2026-10-18 29,736 → 2026-10-23 29,826（+90）
 
 
 ---

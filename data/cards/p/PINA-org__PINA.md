@@ -45,13 +45,13 @@ PINA 是基于 PyTorch、PyTorch Lightning 与 PyTorch Geometric 的开源 Pytho
 
 ```mermaid
 xychart-beta
-    title "PINA-org/PINA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 797 --> 800
-    line [798, 799]
+    title "PINA-org/PINA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 797 --> 801
+    line [798, 799, 800]
 ```
 
-2026-10-18 798 → 2026-10-22 799（+1）
+2026-10-18 798 → 2026-10-23 800（+2）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SonySemiconductorSolutions/mct-model-optimization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 451 --> 454
-    line [453, 452]
+    title "SonySemiconductorSolutions/mct-model-optimization 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 450 --> 454
+    line [453, 452, 451]
 ```
 
-2026-10-18 453 → 2026-10-22 452（-1）
+2026-10-18 453 → 2026-10-23 451（-2）
 
 
 ---

@@ -45,13 +45,13 @@ TypeScript 编写的移动应用测试与自动化框架，架构参考 Playwrig
 
 ```mermaid
 xychart-beta
-    title "mobile-next/mobilewright 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 429 --> 445
-    line [430, 436, 444]
+    title "mobile-next/mobilewright 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 429 --> 450
+    line [430, 436, 444, 449]
 ```
 
-2026-10-18 430 → 2026-10-22 444（+14）
+2026-10-18 430 → 2026-10-23 449（+19）
 
 
 ---

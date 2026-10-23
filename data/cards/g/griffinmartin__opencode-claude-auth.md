@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "griffinmartin/opencode-claude-auth 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "griffinmartin/opencode-claude-auth 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1306 --> 1311
-    line [1307, 1308, 1310]
+    line [1307, 1308, 1310, 1310]
 ```
 
-2026-10-18 1,307 → 2026-10-22 1,310（+3）
+2026-10-18 1,307 → 2026-10-23 1,310（+3）
 
 
 ---

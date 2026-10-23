@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thekevinscott/UpscalerJS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "thekevinscott/UpscalerJS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 901 --> 905
-    line [902, 904]
+    line [902, 904, 904]
 ```
 
-2026-10-18 902 → 2026-10-22 904（+2）
+2026-10-18 902 → 2026-10-23 904（+2）
 
 
 ---

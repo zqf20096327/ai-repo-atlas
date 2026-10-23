@@ -45,12 +45,12 @@ Foundation Model Stack 的配套仓库，提供使用 PyTorch 原生特性（FSD
 ```mermaid
 xychart-beta
     title "foundation-model-stack/fms-fsdp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 287 --> 289
-    line [288, 288]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 287 --> 290
+    line [288, 289]
 ```
 
-2026-10-18 288 → 2026-10-21 288（+0）
+2026-10-18 288 → 2026-10-23 289（+1）
 
 
 ---

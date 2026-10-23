@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NirDiamant/Agent_Memory_Techniques 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1106 --> 1119
-    line [1107, 1111, 1118]
+    title "NirDiamant/Agent_Memory_Techniques 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1106 --> 1122
+    line [1107, 1111, 1118, 1121]
 ```
 
-2026-10-18 1,107 → 2026-10-22 1,118（+11）
+2026-10-18 1,107 → 2026-10-23 1,121（+14）
 
 
 ---

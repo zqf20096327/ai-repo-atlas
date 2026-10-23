@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zsh123456-BOOP/stardew-together 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 204 --> 207
-    line [205, 206]
+    title "Zsh123456-BOOP/stardew-together 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 189 --> 207
+    line [205, 206, 190]
 ```
 
-2026-10-18 205 → 2026-10-22 206（+1）
+2026-10-18 205 → 2026-10-23 190（-15）
 
 
 ---

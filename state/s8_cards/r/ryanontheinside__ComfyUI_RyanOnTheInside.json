@@ -1,1 +1,80 @@
-{"fn": "ryanontheinside/ComfyUI_RyanOnTheInside", "sha": "a0603c7fb1ae", "source": "readme", "identity": {"one_liner": "ComfyUI 反应性节点包：用音频/MIDI/运动等驱动图像与视频创作", "review": "面向 ComfyUI 用户的节点扩展包：从音频（幅度、频谱、Onset、Chroma）、MIDI（力度、音高、CC）、运动、深度、颜色、亮度、时间及 Whisper 转录文本中提取特征，用这些特征调制 Flex 节点的参数，控制 IPAdapter、遮罩、图像、视频与粒子系统；含音轨分离、光流遮罩生成，并提供 ACE-Step 1.5 音乐生成模型的原生 ComfyUI guider（扩展/重绘、Cover）。与 Depthflow、AdvancedLivePortrait、AnimateDiff-Evolved、AdvancedControlnet 等节点包集成。V2 改为 MIT 许可。", "highlights": ["从音频/MIDI/运动/深度/颜色/亮度/时间提取特征并调制节点参数", "ACE-Step 1.5 原生 guider：扩展/重绘与 Cover 风格迁移", "集成 OpenAI Whisper 将语音转录文本作为特征源（含触发系统）", "粒子系统（力场、边界、弹簧关节）与光流运动遮罩"], "use_cases": ["在 ComfyUI 中制作音频反应式图像与视频动画", "用 MIDI 控制器实时驱动视觉参数", "对音乐做音轨分离后分轨驱动不同效果", "用 ACE-Step 1.5 扩展或重绘生成音乐片段"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI插件", "音视频创作", "音频反应", "AIGC工作流", "粒子/视觉特效"], "domain": "AI 图像/视频/音频创作工具链", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: ### These nodes react to **everything**, including audio.", "L11: **Everything Reactivity**: Almost all nodes in this pack can be made to react to audio, MIDI, motion, time, color, depth", "L106: Native ComfyUI guiders for the new ACE-Step 1.5 music generation model."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ryanontheinside/ComfyUI_RyanOnTheInside",
+ "sha": "a0603c7fb1ae",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 反应性节点包：用音频/MIDI/运动等驱动图像与视频创作",
+  "review": "面向 ComfyUI 用户的节点扩展包：从音频（幅度、频谱、Onset、Chroma）、MIDI（力度、音高、CC）、运动、深度、颜色、亮度、时间及 Whisper 转录文本中提取特征，用这些特征调制 Flex 节点的参数，控制 IPAdapter、遮罩、图像、视频与粒子系统；含音轨分离、光流遮罩生成，并提供 ACE-Step 1.5 音乐生成模型的原生 ComfyUI guider（扩展/重绘、Cover）。与 Depthflow、AdvancedLivePortrait、AnimateDiff-Evolved、AdvancedControlnet 等节点包集成。V2 改为 MIT 许可。",
+  "highlights": [
+   "从音频/MIDI/运动/深度/颜色/亮度/时间提取特征并调制节点参数",
+   "ACE-Step 1.5 原生 guider：扩展/重绘与 Cover 风格迁移",
+   "集成 OpenAI Whisper 将语音转录文本作为特征源（含触发系统）",
+   "粒子系统（力场、边界、弹簧关节）与光流运动遮罩"
+  ],
+  "use_cases": [
+   "在 ComfyUI 中制作音频反应式图像与视频动画",
+   "用 MIDI 控制器实时驱动视觉参数",
+   "对音乐做音轨分离后分轨驱动不同效果",
+   "用 ACE-Step 1.5 扩展或重绘生成音乐片段"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI插件",
+   "音视频创作",
+   "音频反应",
+   "AIGC工作流",
+   "粒子/视觉特效"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: ### These nodes react to **everything**, including audio.",
+   "L11: **Everything Reactivity**: Almost all nodes in this pack can be made to react to audio, MIDI, motion, time, color, depth",
+   "L106: Native ComfyUI guiders for the new ACE-Step 1.5 music generation model."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

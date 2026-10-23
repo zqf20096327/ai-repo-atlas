@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/free-programming-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 3769 --> 3781
-    line [3770, 3774, 3780]
+    title "liyupi/free-programming-resources 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3769 --> 3784
+    line [3770, 3774, 3780, 3783]
 ```
 
-2026-10-18 3,770 → 2026-10-22 3,780（+10）
+2026-10-18 3,770 → 2026-10-23 3,783（+13）
 
 
 ---

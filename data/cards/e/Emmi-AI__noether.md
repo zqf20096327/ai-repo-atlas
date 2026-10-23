@@ -45,13 +45,13 @@ Emmi AI 开源的 PyTorch 框架，基于面向物理系统优化的 Transformer
 
 ```mermaid
 xychart-beta
-    title "Emmi-AI/noether 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 245 --> 249
-    line [246, 248]
+    title "Emmi-AI/noether 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 245 --> 250
+    line [246, 248, 249]
 ```
 
-2026-10-18 246 → 2026-10-22 248（+2）
+2026-10-18 246 → 2026-10-23 249（+3）
 
 
 ---

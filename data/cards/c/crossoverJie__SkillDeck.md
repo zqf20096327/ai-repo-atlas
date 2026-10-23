@@ -44,13 +44,13 @@ SwiftUI 编写的 macOS 原生应用，为 12 种 AI 代码代理（Claude Code�
 
 ```mermaid
 xychart-beta
-    title "crossoverJie/SkillDeck 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 578 --> 584
-    line [579, 582, 583]
+    title "crossoverJie/SkillDeck 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 578 --> 585
+    line [579, 582, 583, 584]
 ```
 
-2026-10-18 579 → 2026-10-22 583（+4）
+2026-10-18 579 → 2026-10-23 584（+5）
 
 
 ---

@@ -47,12 +47,12 @@ aws-samples 维护的 React Native 跨平台 AI 助手 App，运行于 Android�
 ```mermaid
 xychart-beta
     title "aws-samples/sample-mobile-ai-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 859 --> 862
-    line [860, 861, 861]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    y-axis "stars" 859 --> 863
+    line [860, 861, 862]
 ```
 
-2026-10-18 860 → 2026-10-22 861（+1）
+2026-10-18 860 → 2026-10-23 862（+2）
 
 
 ---

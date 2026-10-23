@@ -46,13 +46,13 @@ Mintplex Labs 出品的 Android AI Agent 应用，采用混合架构：手机作
 
 ```mermaid
 xychart-beta
-    title "Mintplex-Labs/anythingllm-mobile 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 151 --> 160
-    line [152, 156, 159]
+    title "Mintplex-Labs/anythingllm-mobile 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 151 --> 161
+    line [152, 156, 159, 160]
 ```
 
-2026-10-18 152 → 2026-10-22 159（+7）
+2026-10-18 152 → 2026-10-23 160（+8）
 
 
 ---

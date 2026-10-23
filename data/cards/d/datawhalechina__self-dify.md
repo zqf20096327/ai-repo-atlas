@@ -45,13 +45,13 @@ Datawhale 社区出品的《Dify 应用开发指南》教程仓库：从 Docker 
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/self-dify 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "datawhalechina/self-dify 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 626 --> 633
-    line [627, 629, 632]
+    line [627, 629, 632, 632]
 ```
 
-2026-10-18 627 → 2026-10-22 632（+5）
+2026-10-18 627 → 2026-10-23 632（+5）
 
 
 ---

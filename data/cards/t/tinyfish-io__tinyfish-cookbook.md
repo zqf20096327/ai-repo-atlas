@@ -45,13 +45,13 @@ TinyFish（面向 AI agent 的 web 层服务）官方社区示例库：每个目
 
 ```mermaid
 xychart-beta
-    title "tinyfish-io/tinyfish-cookbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2253 --> 2267
-    line [2254, 2260, 2266]
+    title "tinyfish-io/tinyfish-cookbook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2253 --> 2272
+    line [2254, 2260, 2266, 2271]
 ```
 
-2026-10-18 2,254 → 2026-10-22 2,266（+12）
+2026-10-18 2,254 → 2026-10-23 2,271（+17）
 
 
 ---

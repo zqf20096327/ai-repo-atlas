@@ -46,13 +46,13 @@ Anthropic 发布的开源参考实现：基于 Claude Code 的技能（威胁建
 
 ```mermaid
 xychart-beta
-    title "anthropics/defending-code-reference-harness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 7596 --> 7617
-    line [7597, 7608, 7616]
+    title "anthropics/defending-code-reference-harness 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 7595 --> 7627
+    line [7597, 7608, 7616, 7625]
 ```
 
-2026-10-18 7,597 → 2026-10-22 7,616（+19）
+2026-10-18 7,597 → 2026-10-23 7,625（+28）
 
 
 ---

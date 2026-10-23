@@ -46,12 +46,12 @@ FaceOnLive 面向 Android 的证件识别 SDK，在设备本地完成护照、�
 ```mermaid
 xychart-beta
     title "FaceOnLive/ID-Card-Passport-Recognition-SDK-Android 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 166 --> 168
-    line [167, 167]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 165 --> 168
+    line [167, 166]
 ```
 
-2026-10-18 167 → 2026-10-22 167（+0）
+2026-10-18 167 → 2026-10-23 166（-1）
 
 
 ---

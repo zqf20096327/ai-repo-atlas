@@ -45,12 +45,12 @@ MCP 服务器：注册到 AI 编程 agent（如 Claude Code）后，agent 可自
 ```mermaid
 xychart-beta
     title "yoshiko-pg/o3-search-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 285 --> 287
     line [286, 286]
 ```
 
-2026-10-18 286 → 2026-10-22 286（+0）
+2026-10-18 286 → 2026-10-23 286（+0）
 
 
 ---

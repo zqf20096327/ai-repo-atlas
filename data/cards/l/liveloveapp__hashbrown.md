@@ -45,12 +45,12 @@ TypeScript 无头框架，用于在 React 与 Angular 应用中构建 AI 聊天�
 ```mermaid
 xychart-beta
     title "liveloveapp/hashbrown 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 727 --> 729
-    line [728, 728]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 727 --> 730
+    line [728, 729]
 ```
 
-2026-10-18 728 → 2026-10-22 728（+0）
+2026-10-18 728 → 2026-10-23 729（+1）
 
 
 ---

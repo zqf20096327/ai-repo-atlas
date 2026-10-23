@@ -1,1 +1,81 @@
-{"fn": "seehiong/multi-model-chat", "sha": "52b90d0007cd", "source": "readme", "identity": {"one_liner": "网页聊天应用：同时向多个大模型提问并实时对比回答", "review": "基于 React 18 + TypeScript + Vite + Tailwind CSS 构建的纯客户端、无服务器端 Web 应用：可同时向最多 5 个模型提问，各模型回答实时逐个显示，支持任意 OpenAI 兼容端点（OpenRouter 开箱即配），并可连接 Ollama 等本地模型与云端 API 对比。回答以 Markdown 渲染，API 密钥与配置保存在浏览器 localStorage。提供两种构建方式：可打包为单文件 HTML 离线使用，或相对路径静态构建部署到任意静态主机。给需要在多模型间对比输出的用户使用；本地模型需自行配置 CORS（如 OLLAMA_ORIGINS）。", "highlights": ["同时向最多 5 个模型提问，各回答独立实时显示", "原生支持任意 OpenAI 兼容端点，OpenRouter 预配置", "支持 Ollama 本地模型与云端 API 对比", "可构建为单文件 HTML 离线使用，API 密钥仅存浏览器"], "use_cases": ["同一问题发给多个模型，对比回答质量后选型", "本地模型与云端模型在浏览器内直接对比", "无需服务器部署，单文件 HTML 离线使用或托管到静态站点"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多模型对比", "聊天应用", "本地模型", "纯前端/无服务器"], "domain": "LLM 应用/聊天前端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A modern web application that allows you to chat with multiple large language models simultaneously and compare their re", "L13: - **Concurrent Model Queries**: Chat with up to 5 different AI models at the same time.", "L16: - **Remote API Integration**: Natively supports any OpenAI-compatible endpoint, with OpenRouter configured out of the bo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "seehiong/multi-model-chat",
+ "sha": "52b90d0007cd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "网页聊天应用：同时向多个大模型提问并实时对比回答",
+  "review": "基于 React 18 + TypeScript + Vite + Tailwind CSS 构建的纯客户端、无服务器端 Web 应用：可同时向最多 5 个模型提问，各模型回答实时逐个显示，支持任意 OpenAI 兼容端点（OpenRouter 开箱即配），并可连接 Ollama 等本地模型与云端 API 对比。回答以 Markdown 渲染，API 密钥与配置保存在浏览器 localStorage。提供两种构建方式：可打包为单文件 HTML 离线使用，或相对路径静态构建部署到任意静态主机。给需要在多模型间对比输出的用户使用；本地模型需自行配置 CORS（如 OLLAMA_ORIGINS）。",
+  "highlights": [
+   "同时向最多 5 个模型提问，各回答独立实时显示",
+   "原生支持任意 OpenAI 兼容端点，OpenRouter 预配置",
+   "支持 Ollama 本地模型与云端 API 对比",
+   "可构建为单文件 HTML 离线使用，API 密钥仅存浏览器"
+  ],
+  "use_cases": [
+   "同一问题发给多个模型，对比回答质量后选型",
+   "本地模型与云端模型在浏览器内直接对比",
+   "无需服务器部署，单文件 HTML 离线使用或托管到静态站点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多模型对比",
+   "聊天应用",
+   "本地模型",
+   "纯前端/无服务器"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A modern web application that allows you to chat with multiple large language models simultaneously and compare their re",
+   "L13: - **Concurrent Model Queries**: Chat with up to 5 different AI models at the same time.",
+   "L16: - **Remote API Integration**: Natively supports any OpenAI-compatible endpoint, with OpenRouter configured out of the bo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

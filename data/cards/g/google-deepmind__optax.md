@@ -43,13 +43,13 @@ DeepMind JAX Ecosystem 中的梯度处理与优化库，提供 Adam 等常用优
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/optax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 2350 --> 2354
-    line [2351, 2353]
+    title "google-deepmind/optax 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2350 --> 2355
+    line [2351, 2353, 2354]
 ```
 
-2026-10-18 2,351 → 2026-10-22 2,353（+2）
+2026-10-18 2,351 → 2026-10-23 2,354（+3）
 
 
 ---

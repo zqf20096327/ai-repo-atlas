@@ -40,6 +40,18 @@
 > L3: We're a team of security and AI enthusiasts building MCP Manager, a comprehensive MCP security solution for business
 > L5: In this repository we will publish a range of checklists, indexes, lessons learned and helpful utilities to help you
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MCP-Manager/MCP-Security-Checklists 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-10-23"]
+    y-axis "stars" 198 --> 200
+    line [199, 199]
+```
+
+2026-10-22 199 → 2026-10-23 199（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `f4fbd6637769` · [字段定义](../../DATASET.md)*

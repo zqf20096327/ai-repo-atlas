@@ -44,13 +44,13 @@ Python 库 Open-Lyrics：用 faster-whisper 转录音频，再调用 OpenAI/Anth
 
 ```mermaid
 xychart-beta
-    title "zh-plus/openlrc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "zh-plus/openlrc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 680 --> 684
-    line [681, 683]
+    line [681, 683, 683]
 ```
 
-2026-10-18 681 → 2026-10-22 683（+2）
+2026-10-18 681 → 2026-10-23 683（+2）
 
 
 ---

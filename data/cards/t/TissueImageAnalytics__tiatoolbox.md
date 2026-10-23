@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TissueImageAnalytics/tiatoolbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 559 --> 561
-    line [560, 560]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 559 --> 562
+    line [560, 561]
 ```
 
-2026-10-18 560 → 2026-10-22 560（+0）
+2026-10-18 560 → 2026-10-23 561（+1）
 
 
 ---

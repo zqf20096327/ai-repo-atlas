@@ -45,12 +45,12 @@ TensorFlow 维护的 Flutter 插件，直接绑定 TFLite C API，提供类似 J
 ```mermaid
 xychart-beta
     title "tensorflow/flutter-tflite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 653 --> 655
     line [654, 654]
 ```
 
-2026-10-18 654 → 2026-10-22 654（+0）
+2026-10-18 654 → 2026-10-23 654（+0）
 
 
 ---

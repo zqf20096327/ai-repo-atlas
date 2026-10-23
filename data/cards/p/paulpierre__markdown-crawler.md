@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "paulpierre/markdown-crawler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "paulpierre/markdown-crawler 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 475 --> 478
-    line [476, 477]
+    line [476, 477, 477]
 ```
 
-2026-10-18 476 → 2026-10-22 477（+1）
+2026-10-18 476 → 2026-10-23 477（+1）
 
 
 ---

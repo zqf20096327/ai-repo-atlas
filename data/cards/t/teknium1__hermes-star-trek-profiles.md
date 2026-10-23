@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "teknium1/hermes-star-trek-profiles 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 159 --> 168
-    line [160, 161, 167]
+    title "teknium1/hermes-star-trek-profiles 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 159 --> 169
+    line [160, 161, 167, 168]
 ```
 
-2026-10-18 160 → 2026-10-22 167（+7）
+2026-10-18 160 → 2026-10-23 168（+8）
 
 
 ---

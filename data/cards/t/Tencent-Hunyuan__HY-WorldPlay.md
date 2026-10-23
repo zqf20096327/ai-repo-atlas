@@ -45,13 +45,13 @@ HY-World 1.5（WorldPlay）是流式视频扩散世界模型：以单张图片�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HY-WorldPlay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Tencent-Hunyuan/HY-WorldPlay 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1617 --> 1620
-    line [1618, 1619]
+    line [1618, 1619, 1619]
 ```
 
-2026-10-18 1,618 → 2026-10-22 1,619（+1）
+2026-10-18 1,618 → 2026-10-23 1,619（+1）
 
 
 ---

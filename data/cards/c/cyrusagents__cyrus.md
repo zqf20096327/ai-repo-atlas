@@ -44,13 +44,13 @@ Cyrus 监听指派给它的 Linear/GitHub/GitLab/Slack 议题，为每个议题�
 
 ```mermaid
 xychart-beta
-    title "cyrusagents/cyrus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 855 --> 860
-    line [856, 858, 859]
+    title "cyrusagents/cyrus 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 855 --> 864
+    line [856, 858, 859, 863]
 ```
 
-2026-10-18 856 → 2026-10-22 859（+3）
+2026-10-18 856 → 2026-10-23 863（+7）
 
 
 ---

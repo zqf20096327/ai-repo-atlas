@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Enping-Hu/minimind-deep-dive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "Enping-Hu/minimind-deep-dive 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 212 --> 217
-    line [213, 216]
+    line [213, 216, 214]
 ```
 
-2026-10-18 213 → 2026-10-22 216（+3）
+2026-10-18 213 → 2026-10-23 214（+1）
 
 
 ---

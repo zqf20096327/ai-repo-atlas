@@ -45,13 +45,13 @@ Grule 是用 Go 编写的规则引擎库，受 JBOSS Drools 启发但更简化�
 
 ```mermaid
 xychart-beta
-    title "hyperjumptech/grule-rule-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "hyperjumptech/grule-rule-engine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 2530 --> 2534
-    line [2531, 2532, 2533]
+    line [2531, 2532, 2533, 2532]
 ```
 
-2026-10-18 2,531 → 2026-10-22 2,533（+2）
+2026-10-18 2,531 → 2026-10-23 2,532（+1）
 
 
 ---

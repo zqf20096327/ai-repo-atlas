@@ -44,13 +44,13 @@ imbalanced-learn 是 scikit-learn-contrib 下的 Python 包，提供针对类别
 
 ```mermaid
 xychart-beta
-    title "scikit-learn-contrib/imbalanced-learn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "scikit-learn-contrib/imbalanced-learn 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 7128 --> 7132
-    line [7129, 7130, 7131]
+    line [7129, 7130, 7131, 7131]
 ```
 
-2026-10-18 7,129 → 2026-10-22 7,131（+2）
+2026-10-18 7,129 → 2026-10-23 7,131（+2）
 
 
 ---

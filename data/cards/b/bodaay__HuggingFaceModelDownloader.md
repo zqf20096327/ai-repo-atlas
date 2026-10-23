@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bodaay/HuggingFaceModelDownloader 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1190 --> 1195
-    line [1191, 1193, 1194]
+    title "bodaay/HuggingFaceModelDownloader 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1190 --> 1196
+    line [1191, 1193, 1194, 1195]
 ```
 
-2026-10-18 1,191 → 2026-10-22 1,194（+3）
+2026-10-18 1,191 → 2026-10-23 1,195（+4）
 
 
 ---

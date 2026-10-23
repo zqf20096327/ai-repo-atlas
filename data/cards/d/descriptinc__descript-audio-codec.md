@@ -45,13 +45,13 @@ Descript 开源的通用神经音频编解码器（Improved RVQGAN），提供�
 
 ```mermaid
 xychart-beta
-    title "descriptinc/descript-audio-codec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "descriptinc/descript-audio-codec 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 1875 --> 1879
-    line [1876, 1877, 1878]
+    line [1876, 1877, 1878, 1878]
 ```
 
-2026-10-18 1,876 → 2026-10-22 1,878（+2）
+2026-10-18 1,876 → 2026-10-23 1,878（+2）
 
 
 ---

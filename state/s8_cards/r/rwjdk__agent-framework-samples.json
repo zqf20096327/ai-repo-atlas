@@ -1,1 +1,77 @@
-{"fn": "rwjdk/agent-framework-samples", "sha": "e054ea6887ca", "source": "readme", "identity": {"one_liner": "微软 Agent Framework 的 C# 示例代码集", "review": "演示 Microsoft Agent Framework 在 C# 中用法的示例仓库。Agent Framework 是微软开源的生成式 AI 多智能体应用构建框架，定位为 Semantic Kernel 与 AutoGen 的后继者，支持 C# 与 Python（本仓库仅覆盖 C#）。仓库配套 Udemy 课程与 YouTube 视频系列讲解各示例，其中一个端到端示例（Comic Book E2E）已迁移至独立仓库维护。", "highlights": ["以 C# 示例演示 Microsoft Agent Framework", "框架为 Semantic Kernel 与 AutoGen 的后继者，支持 C# 与 Python", "示例与 Udemy 课程及 YouTube 视频系列配套"], "use_cases": ["跟随视频课程学习 Agent Framework 的 C# 用法", "参考示例代码构建多智能体应用", "了解 Semantic Kernel/AutoGen 之后微软的新框架方向"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["示例代码", "多智能体", "C#/.NET", "教学资源"], "domain": "AI 框架/教学示例", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Samples demonstrating the Microsoft Agent Framework in C#", "L6: AF is the successor of Semantic Kernel and AutoGen; two Generative AI Frameworks from Microsoft for building Multi-agent"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rwjdk/agent-framework-samples",
+ "sha": "e054ea6887ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软 Agent Framework 的 C# 示例代码集",
+  "review": "演示 Microsoft Agent Framework 在 C# 中用法的示例仓库。Agent Framework 是微软开源的生成式 AI 多智能体应用构建框架，定位为 Semantic Kernel 与 AutoGen 的后继者，支持 C# 与 Python（本仓库仅覆盖 C#）。仓库配套 Udemy 课程与 YouTube 视频系列讲解各示例，其中一个端到端示例（Comic Book E2E）已迁移至独立仓库维护。",
+  "highlights": [
+   "以 C# 示例演示 Microsoft Agent Framework",
+   "框架为 Semantic Kernel 与 AutoGen 的后继者，支持 C# 与 Python",
+   "示例与 Udemy 课程及 YouTube 视频系列配套"
+  ],
+  "use_cases": [
+   "跟随视频课程学习 Agent Framework 的 C# 用法",
+   "参考示例代码构建多智能体应用",
+   "了解 Semantic Kernel/AutoGen 之后微软的新框架方向"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例代码",
+   "多智能体",
+   "C#/.NET",
+   "教学资源"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Samples demonstrating the Microsoft Agent Framework in C#",
+   "L6: AF is the successor of Semantic Kernel and AutoGen; two Generative AI Frameworks from Microsoft for building Multi-agent"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

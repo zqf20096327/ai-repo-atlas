@@ -44,13 +44,13 @@ Gen Digital 维护的轻量级 Agent 安全层：拦截 shell 命令、URL 抓�
 
 ```mermaid
 xychart-beta
-    title "gendigitalinc/sage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 315 --> 319
-    line [316, 317, 318]
+    title "gendigitalinc/sage 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 315 --> 320
+    line [316, 317, 318, 319]
 ```
 
-2026-10-18 316 → 2026-10-22 318（+2）
+2026-10-18 316 → 2026-10-23 319（+3）
 
 
 ---

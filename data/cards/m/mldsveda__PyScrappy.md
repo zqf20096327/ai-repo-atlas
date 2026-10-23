@@ -46,13 +46,13 @@ Python 网页抓取工具包（需 Python 3.9+），可将任意 URL 转为结�
 
 ```mermaid
 xychart-beta
-    title "mldsveda/PyScrappy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "mldsveda/PyScrappy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 261 --> 264
-    line [262, 263]
+    line [262, 263, 263]
 ```
 
-2026-10-18 262 → 2026-10-22 263（+1）
+2026-10-18 262 → 2026-10-23 263（+1）
 
 
 ---

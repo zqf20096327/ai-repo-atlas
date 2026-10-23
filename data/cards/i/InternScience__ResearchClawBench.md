@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternScience/ResearchClawBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "InternScience/ResearchClawBench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 270 --> 273
-    line [271, 272]
+    line [271, 272, 272]
 ```
 
-2026-10-18 271 → 2026-10-22 272（+1）
+2026-10-18 271 → 2026-10-23 272（+1）
 
 
 ---

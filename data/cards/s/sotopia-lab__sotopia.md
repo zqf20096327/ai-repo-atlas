@@ -44,13 +44,13 @@ Sotopia 是一个开放式社交学习环境，让语言 agent 在环境中相�
 
 ```mermaid
 xychart-beta
-    title "sotopia-lab/sotopia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 337 --> 340
-    line [338, 339]
+    title "sotopia-lab/sotopia 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 337 --> 342
+    line [338, 339, 341]
 ```
 
-2026-10-18 338 → 2026-10-22 339（+1）
+2026-10-18 338 → 2026-10-23 341（+3）
 
 
 ---

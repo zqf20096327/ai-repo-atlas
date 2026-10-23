@@ -46,12 +46,12 @@ Nx monorepo 全栈聊天应用：React 19 + Vite + Tailwind 前端、NestJS REST
 ```mermaid
 xychart-beta
     title "epam/ai-dial-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 504 --> 506
     line [505, 505]
 ```
 
-2026-10-18 505 → 2026-10-21 505（+0）
+2026-10-18 505 → 2026-10-23 505（+0）
 
 
 ---

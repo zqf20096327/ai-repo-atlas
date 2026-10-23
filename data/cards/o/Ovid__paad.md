@@ -44,13 +44,13 @@ PAAD（Pushback, Alignment, Architecture, Discipline）是一组可装入 AI 编
 
 ```mermaid
 xychart-beta
-    title "Ovid/paad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 137 --> 142
-    line [138, 141]
+    title "Ovid/paad 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 137 --> 143
+    line [138, 141, 142]
 ```
 
-2026-10-18 138 → 2026-10-22 141（+3）
+2026-10-18 138 → 2026-10-23 142（+4）
 
 
 ---

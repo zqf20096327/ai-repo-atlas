@@ -1,1 +1,81 @@
-{"fn": "sfortis/openai_tts", "sha": "1cbe69300a33", "source": "readme", "identity": {"one_liner": "Home Assistant 文字转语音集成，接入多家 OpenAI 兼容语音服务", "review": "面向 Home Assistant 用户的 TTS 集成：通过 OpenAI speech API 调用 OpenAI、Mistral、Groq、Lemonfox、OpenRouter 或自托管后端（Kokoro-FastAPI、Chatterbox、LocalAI 等），以预设自动填充端点、模型与语音列表。功能包括多语音配置、六种音频格式、流式播放、响度归一化、每档案增益、播报前提示音，以及按实体/设备/区域/楼层定位的播报，播报后恢复音量与音乐。README 声明 OpenAI 三个 TTS 模型将于 2027 年 1 月停用，届时 OpenAI 档案需迁移到其他提供商。", "highlights": ["8 类提供商预设自动填充端点、模型与语音", "流式播放、逐句流式、响度归一化与 -12~+12 dB 增益", "播报按实体/设备/区域/楼层/标签定位并恢复音量与音乐", "5 种内置提示音并支持自定义 mp3 提示音"], "use_cases": ["让 Home Assistant 用云端或自托管服务朗读文本", "语音助手（Assist pipeline）的语音输出", "在家中多个音箱播报通知并自动恢复音乐"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["智能家居", "文字转语音", "Home Assistant", "语音助手", "通知播报"], "domain": "智能家居/TTS", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["groq", "openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: **Text-to-speech for Home Assistant from OpenAI, Mistral, Groq, Lemonfox, Kokoro, Chatterbox or any server that implemen", "L14: OpenAI TTS is a text-to-speech integration for Home Assistant that works with any service implementing the OpenAI speech", "L119: - Announcements on any media player, targeted by entity, device, area, floor or label."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sfortis/openai_tts",
+ "sha": "1cbe69300a33",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Home Assistant 文字转语音集成，接入多家 OpenAI 兼容语音服务",
+  "review": "面向 Home Assistant 用户的 TTS 集成：通过 OpenAI speech API 调用 OpenAI、Mistral、Groq、Lemonfox、OpenRouter 或自托管后端（Kokoro-FastAPI、Chatterbox、LocalAI 等），以预设自动填充端点、模型与语音列表。功能包括多语音配置、六种音频格式、流式播放、响度归一化、每档案增益、播报前提示音，以及按实体/设备/区域/楼层定位的播报，播报后恢复音量与音乐。README 声明 OpenAI 三个 TTS 模型将于 2027 年 1 月停用，届时 OpenAI 档案需迁移到其他提供商。",
+  "highlights": [
+   "8 类提供商预设自动填充端点、模型与语音",
+   "流式播放、逐句流式、响度归一化与 -12~+12 dB 增益",
+   "播报按实体/设备/区域/楼层/标签定位并恢复音量与音乐",
+   "5 种内置提示音并支持自定义 mp3 提示音"
+  ],
+  "use_cases": [
+   "让 Home Assistant 用云端或自托管服务朗读文本",
+   "语音助手（Assist pipeline）的语音输出",
+   "在家中多个音箱播报通知并自动恢复音乐"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "智能家居",
+   "文字转语音",
+   "Home Assistant",
+   "语音助手",
+   "通知播报"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Text-to-speech for Home Assistant from OpenAI, Mistral, Groq, Lemonfox, Kokoro, Chatterbox or any server that implemen",
+   "L14: OpenAI TTS is a text-to-speech integration for Home Assistant that works with any service implementing the OpenAI speech",
+   "L119: - Announcements on any media player, targeted by entity, device, area, floor or label."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

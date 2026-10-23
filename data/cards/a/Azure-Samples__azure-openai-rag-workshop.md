@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/azure-openai-rag-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 151 --> 153
-    line [152, 152]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 151 --> 154
+    line [152, 153]
 ```
 
-2026-10-18 152 → 2026-10-22 152（+0）
+2026-10-18 152 → 2026-10-23 153（+1）
 
 
 ---

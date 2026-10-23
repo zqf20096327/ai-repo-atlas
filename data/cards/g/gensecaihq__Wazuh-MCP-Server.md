@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gensecaihq/Wazuh-MCP-Server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 251 --> 255
-    line [252, 254]
+    title "gensecaihq/Wazuh-MCP-Server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 251 --> 258
+    line [252, 254, 257]
 ```
 
-2026-10-18 252 → 2026-10-22 254（+2）
+2026-10-18 252 → 2026-10-23 257（+5）
 
 
 ---

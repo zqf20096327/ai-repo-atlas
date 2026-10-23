@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jeremylongshore/tons-of-skills-marketplace 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 2847 --> 2857
-    line [2848, 2852, 2856]
+    title "jeremylongshore/tons-of-skills-marketplace 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2847 --> 2862
+    line [2848, 2852, 2856, 2861]
 ```
 
-2026-10-18 2,848 → 2026-10-22 2,856（+8）
+2026-10-18 2,848 → 2026-10-23 2,861（+13）
 
 
 ---

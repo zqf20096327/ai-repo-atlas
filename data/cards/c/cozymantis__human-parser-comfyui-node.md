@@ -44,12 +44,12 @@ CozyMantis 开发的 ComfyUI 自定义节点集，基于 Self-Correction for Hum
 ```mermaid
 xychart-beta
     title "cozymantis/human-parser-comfyui-node 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 137 --> 139
     line [138, 138]
 ```
 
-2026-10-18 138 → 2026-10-22 138（+0）
+2026-10-18 138 → 2026-10-23 138（+0）
 
 
 ---

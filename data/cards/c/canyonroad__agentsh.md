@@ -44,13 +44,13 @@ agentsh 是运行在 agent/工具之下的执行层安全网关：拦截文件�
 
 ```mermaid
 xychart-beta
-    title "canyonroad/agentsh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 394 --> 397
-    line [395, 396]
+    title "canyonroad/agentsh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 394 --> 399
+    line [395, 396, 398]
 ```
 
-2026-10-18 395 → 2026-10-22 396（+1）
+2026-10-18 395 → 2026-10-23 398（+3）
 
 
 ---

@@ -46,12 +46,12 @@ Seeed Studio 维护的嵌入式 AI 项目：将 OpenMMLab 等来源的算法（�
 ```mermaid
 xychart-beta
     title "Seeed-Studio/ModelAssistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 447 --> 449
-    line [448, 448]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 447 --> 450
+    line [448, 449]
 ```
 
-2026-10-18 448 → 2026-10-22 448（+0）
+2026-10-18 448 → 2026-10-23 449（+1）
 
 
 ---

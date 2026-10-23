@@ -46,12 +46,12 @@ Hydra 是由 DragonKing 及其团队用 Java 开发的分布式基架系统，�
 ```mermaid
 xychart-beta
     title "DragonKingpin/Hydra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 398 --> 400
-    line [399, 399]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 398 --> 401
+    line [399, 400]
 ```
 
-2026-10-18 399 → 2026-10-22 399（+0）
+2026-10-18 399 → 2026-10-23 400（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RyanAlberts/best-of-Agent-Harnesses 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1270 --> 1314
-    line [1273, 1301, 1311]
+    title "RyanAlberts/best-of-Agent-Harnesses 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1269 --> 1326
+    line [1273, 1301, 1311, 1322]
 ```
 
-2026-10-18 1,273 → 2026-10-22 1,311（+38）
+2026-10-18 1,273 → 2026-10-23 1,322（+49）
 
 
 ---

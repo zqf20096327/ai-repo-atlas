@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "liguge/Journals-of-Prognostics-and-Health-Management 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "liguge/Journals-of-Prognostics-and-Health-Management 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 497 --> 500
-    line [498, 499]
+    line [498, 499, 499]
 ```
 
-2026-10-18 498 → 2026-10-22 499（+1）
+2026-10-18 498 → 2026-10-23 499（+1）
 
 
 ---

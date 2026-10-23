@@ -44,13 +44,13 @@ Hugging Face 维护的 Transformers、Diffusers、TIMM 与 Sentence-Transformers
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "huggingface/optimum 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 3502 --> 3509
-    line [3503, 3504, 3508]
+    line [3503, 3504, 3508, 3508]
 ```
 
-2026-10-18 3,503 → 2026-10-22 3,508（+5）
+2026-10-18 3,503 → 2026-10-23 3,508（+5）
 
 
 ---

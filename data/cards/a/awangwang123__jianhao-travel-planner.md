@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "awangwang123/jianhao-travel-planner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 388 --> 403
-    line [389, 396, 402]
+    title "awangwang123/jianhao-travel-planner 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 388 --> 405
+    line [389, 396, 402, 404]
 ```
 
-2026-10-18 389 → 2026-10-22 402（+13）
+2026-10-18 389 → 2026-10-23 404（+15）
 
 
 ---

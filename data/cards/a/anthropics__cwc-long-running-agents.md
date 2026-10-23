@@ -44,13 +44,13 @@ Anthropic 为 Code with Claude 2026 活动发布的示例仓库，把 Claude Cod
 
 ```mermaid
 xychart-beta
-    title "anthropics/cwc-long-running-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 695 --> 702
-    line [696, 697, 701]
+    title "anthropics/cwc-long-running-agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 695 --> 703
+    line [696, 697, 701, 702]
 ```
 
-2026-10-18 696 → 2026-10-22 701（+5）
+2026-10-18 696 → 2026-10-23 702（+6）
 
 
 ---

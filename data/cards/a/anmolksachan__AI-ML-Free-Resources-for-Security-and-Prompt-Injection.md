@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 808 --> 815
-    line [809, 811, 814]
+    line [809, 811, 814, 814]
 ```
 
-2026-10-18 809 → 2026-10-22 814（+5）
+2026-10-18 809 → 2026-10-23 814（+5）
 
 
 ---

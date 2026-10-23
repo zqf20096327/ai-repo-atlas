@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kieranjwood/trading-momentum-transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 640 --> 642
     line [641, 641]
 ```
 
-2026-10-18 641 → 2026-10-22 641（+0）
+2026-10-18 641 → 2026-10-23 641（+0）
 
 
 ---

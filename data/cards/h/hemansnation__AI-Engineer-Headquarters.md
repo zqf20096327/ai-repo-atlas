@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hemansnation/AI-Engineer-Headquarters 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 3768 --> 3773
-    line [3769, 3772]
+    title "hemansnation/AI-Engineer-Headquarters 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 3768 --> 3775
+    line [3769, 3772, 3774]
 ```
 
-2026-10-18 3,769 → 2026-10-22 3,772（+3）
+2026-10-18 3,769 → 2026-10-23 3,774（+5）
 
 
 ---

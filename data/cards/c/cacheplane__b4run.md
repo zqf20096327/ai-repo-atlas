@@ -46,12 +46,12 @@ B4.run 是基于 LangGraph.js 的 TypeScript Agent 框架：以文件系统路�
 ```mermaid
 xychart-beta
     title "cacheplane/b4run 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 310 --> 312
-    line [311, 311]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 301 --> 312
+    line [311, 302]
 ```
 
-2026-10-18 311 → 2026-10-22 311（+0）
+2026-10-18 311 → 2026-10-23 302（-9）
 
 
 ---

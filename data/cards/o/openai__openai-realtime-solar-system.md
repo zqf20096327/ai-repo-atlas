@@ -45,12 +45,12 @@ OpenAI 官方演示项目，展示如何通过 Realtime API 与 WebRTC 集成，
 ```mermaid
 xychart-beta
     title "openai/openai-realtime-solar-system 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 513 --> 515
     line [514, 514]
 ```
 
-2026-10-18 514 → 2026-10-22 514（+0）
+2026-10-18 514 → 2026-10-23 514（+0）
 
 
 ---

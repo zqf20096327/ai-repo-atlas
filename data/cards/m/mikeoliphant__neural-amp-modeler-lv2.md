@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikeoliphant/neural-amp-modeler-lv2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    title "mikeoliphant/neural-amp-modeler-lv2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
     y-axis "stars" 543 --> 549
-    line [544, 546, 548]
+    line [544, 546, 548, 548]
 ```
 
-2026-10-18 544 → 2026-10-22 548（+4）
+2026-10-18 544 → 2026-10-23 548（+4）
 
 
 ---

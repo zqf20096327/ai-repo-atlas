@@ -45,12 +45,12 @@ Cisco 高级安全倡议组将内部多轮迭代的 agentic 安全评估系统�
 ```mermaid
 xychart-beta
     title "CiscoDevNet/foundry-security-spec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 223 --> 225
-    line [224, 224]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 223 --> 226
+    line [224, 225]
 ```
 
-2026-10-18 224 → 2026-10-22 224（+0）
+2026-10-18 224 → 2026-10-23 225（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "velobase/velobase-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "velobase/velobase-harness 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 612 --> 615
-    line [613, 614]
+    line [613, 614, 614]
 ```
 
-2026-10-18 613 → 2026-10-22 614（+1）
+2026-10-18 613 → 2026-10-23 614（+1）
 
 
 ---

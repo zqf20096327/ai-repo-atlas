@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "peterfei/ai-agent-team 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 442 --> 445
-    line [443, 444]
+    title "peterfei/ai-agent-team 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 442 --> 446
+    line [443, 444, 445]
 ```
 
-2026-10-18 443 → 2026-10-22 444（+1）
+2026-10-18 443 → 2026-10-23 445（+2）
 
 
 ---

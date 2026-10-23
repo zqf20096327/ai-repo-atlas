@@ -44,13 +44,13 @@ Microsoft AI Frontiers 开发的 agentic 应用 MagenticLite，是 Magentic-UI �
 
 ```mermaid
 xychart-beta
-    title "microsoft/magentic-ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 10095 --> 10099
-    line [10098, 10097, 10096]
+    title "microsoft/magentic-ui 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 10095 --> 10100
+    line [10098, 10097, 10096, 10099]
 ```
 
-2026-10-18 10,098 → 2026-10-22 10,096（-2）
+2026-10-18 10,098 → 2026-10-23 10,099（+1）
 
 
 ---

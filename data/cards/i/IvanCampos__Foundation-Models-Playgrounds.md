@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IvanCampos/Foundation-Models-Playgrounds 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 372 --> 374
     line [373, 373]
 ```
 
-2026-10-18 373 → 2026-10-21 373（+0）
+2026-10-18 373 → 2026-10-23 373（+0）
 
 
 ---

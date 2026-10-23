@@ -47,12 +47,12 @@ VexJoy Agent 是一套可安装进 Claude Code、Codex、Factory、Reasonix 等�
 ```mermaid
 xychart-beta
     title "notque/vexjoy-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 441 --> 443
-    line [442, 442]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 441 --> 444
+    line [442, 443]
 ```
 
-2026-10-18 442 → 2026-10-22 442（+0）
+2026-10-18 442 → 2026-10-23 443（+1）
 
 
 ---

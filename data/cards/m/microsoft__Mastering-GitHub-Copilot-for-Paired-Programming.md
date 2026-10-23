@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 8156 --> 8164
-    line [8157, 8161, 8163]
+    title "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 8156 --> 8167
+    line [8157, 8161, 8163, 8166]
 ```
 
-2026-10-18 8,157 → 2026-10-22 8,163（+6）
+2026-10-18 8,157 → 2026-10-23 8,166（+9）
 
 
 ---

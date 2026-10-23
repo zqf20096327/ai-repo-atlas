@@ -44,13 +44,13 @@ NVIDIA Aerial CUDA-Accelerated RAN 是用于构建商用级、符合 3GPP 与 O-
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/aerial-cuda-accelerated-ran 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 442 --> 447
-    line [443, 444, 446]
+    title "NVIDIA/aerial-cuda-accelerated-ran 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 442 --> 449
+    line [443, 444, 446, 448]
 ```
 
-2026-10-18 443 → 2026-10-22 446（+3）
+2026-10-18 443 → 2026-10-23 448（+5）
 
 
 ---

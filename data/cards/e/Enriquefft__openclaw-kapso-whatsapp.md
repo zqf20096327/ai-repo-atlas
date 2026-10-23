@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Enriquefft/openclaw-kapso-whatsapp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 209 --> 211
-    line [210, 210]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 209 --> 212
+    line [210, 211]
 ```
 
-2026-10-18 210 → 2026-10-22 210（+0）
+2026-10-18 210 → 2026-10-23 211（+1）
 
 
 ---

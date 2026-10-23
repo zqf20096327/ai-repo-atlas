@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Blackwellboy/model-serving-minefield 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 139 --> 141
     line [140, 140]
 ```
 
-2026-10-18 140 → 2026-10-22 140（+0）
+2026-10-18 140 → 2026-10-23 140（+0）
 
 
 ---

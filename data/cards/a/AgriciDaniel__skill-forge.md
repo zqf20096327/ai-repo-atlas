@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/skill-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    title "AgriciDaniel/skill-forge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
     y-axis "stars" 181 --> 186
-    line [182, 185]
+    line [182, 185, 185]
 ```
 
-2026-10-18 182 → 2026-10-22 185（+3）
+2026-10-18 182 → 2026-10-23 185（+3）
 
 
 ---

@@ -46,12 +46,12 @@ Hegelion 是一个 Python 库 + MCP 服务器，向 LLM 编辑器（Claude Deskt
 ```mermaid
 xychart-beta
     title "Hmbown/Hegelion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 172 --> 174
-    line [173, 173]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 172 --> 175
+    line [173, 174]
 ```
 
-2026-10-18 173 → 2026-10-22 173（+0）
+2026-10-18 173 → 2026-10-23 174（+1）
 
 
 ---

@@ -45,13 +45,13 @@ DataTalksClub 组织的免费实战课程（2026 期 8 月 31 日开课），面
 
 ```mermaid
 xychart-beta
-    title "DataTalksClub/ai-dev-tools-zoomcamp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1697 --> 1709
-    line [1698, 1703, 1708]
+    title "DataTalksClub/ai-dev-tools-zoomcamp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1697 --> 1711
+    line [1698, 1703, 1708, 1710]
 ```
 
-2026-10-18 1,698 → 2026-10-22 1,708（+10）
+2026-10-18 1,698 → 2026-10-23 1,710（+12）
 
 
 ---

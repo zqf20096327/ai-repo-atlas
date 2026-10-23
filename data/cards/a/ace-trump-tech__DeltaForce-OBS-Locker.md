@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ace-trump-tech/DeltaForce-OBS-Locker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1377 --> 1429
-    line [1381, 1405, 1425]
+    title "ace-trump-tech/DeltaForce-OBS-Locker 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1376 --> 1444
+    line [1381, 1405, 1425, 1439]
 ```
 
-2026-10-18 1,381 → 2026-10-22 1,425（+44）
+2026-10-18 1,381 → 2026-10-23 1,439（+58）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "feature-engine/feature_engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 2289 --> 2292
-    line [2290, 2291]
+    title "feature-engine/feature_engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 2289 --> 2293
+    line [2290, 2291, 2292]
 ```
 
-2026-10-18 2,290 → 2026-10-22 2,291（+1）
+2026-10-18 2,290 → 2026-10-23 2,292（+2）
 
 
 ---

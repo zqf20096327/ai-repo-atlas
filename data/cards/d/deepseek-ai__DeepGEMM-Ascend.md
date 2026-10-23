@@ -44,13 +44,13 @@ deepseek-ai 维护的 GEMM kernel 库，将 DeepGEMM 移植到华为昇腾平台
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepGEMM-Ascend 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 584 --> 603
-    line [585, 591, 602]
+    title "deepseek-ai/DeepGEMM-Ascend 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 583 --> 610
+    line [585, 591, 602, 608]
 ```
 
-2026-10-18 585 → 2026-10-22 602（+17）
+2026-10-18 585 → 2026-10-23 608（+23）
 
 
 ---

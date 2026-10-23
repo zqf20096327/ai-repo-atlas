@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "elevenyellow/handcrafted-persona-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
-    y-axis "stars" 1380 --> 1385
-    line [1381, 1383, 1384]
+    title "elevenyellow/handcrafted-persona-engine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    y-axis "stars" 1380 --> 1386
+    line [1381, 1383, 1384, 1385]
 ```
 
-2026-10-18 1,381 → 2026-10-22 1,384（+3）
+2026-10-18 1,381 → 2026-10-23 1,385（+4）
 
 
 ---

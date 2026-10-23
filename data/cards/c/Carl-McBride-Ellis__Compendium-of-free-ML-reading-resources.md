@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
-    y-axis "stars" 573 --> 575
-    line [574, 574]
+    x-axis ["2026-10-18", "2026-10-23"]
+    y-axis "stars" 573 --> 576
+    line [574, 575]
 ```
 
-2026-10-18 574 → 2026-10-22 574（+0）
+2026-10-18 574 → 2026-10-23 575（+1）
 
 
 ---

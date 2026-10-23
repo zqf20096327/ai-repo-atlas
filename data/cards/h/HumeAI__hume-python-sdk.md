@@ -46,12 +46,12 @@ Hume AI 官方 Python SDK，封装 Empathic Voice Interface（EVI）与 Text-to-
 ```mermaid
 xychart-beta
     title "HumeAI/hume-python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-22"]
+    x-axis ["2026-10-18", "2026-10-23"]
     y-axis "stars" 180 --> 182
     line [181, 181]
 ```
 
-2026-10-18 181 → 2026-10-22 181（+0）
+2026-10-18 181 → 2026-10-23 181（+0）
 
 
 ---
