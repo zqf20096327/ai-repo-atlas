@@ -1,1 +1,84 @@
-{"fn": "sliday/resume-job-matcher", "sha": "0c5699693017", "source": "readme", "identity": {"one_liner": "AI 简历筛选 CLI：硬性门槛先淘汰，每项评分引用简历原文", "review": "TypeScript 命令行工具，将一个文件夹内的简历 PDF 与职位描述比对，输出面试建议。筛选按漏斗进行：可选的嵌入预过滤（余弦相似度取前 n 份，缓存按简历内容键控）、从职位描述提取硬性约束做通过/淘汰判定（引用淘汰所依据的简历片段）、幸存者按 7 项准则在 0-4 锚定量表上评分且必须先引用证据原文，并按权重生成邀请或拒信邮件。支持 Claude、GPT 与 OpenRouter 三种模式，单一 API key 即可运行。已知限制：跨模型评分方差显著、无 OCR（扫描件需用附带的传统 Python 实现）。", "highlights": ["硬约束门槛先于评分淘汰，并引用简历原文片段", "7 项准则锚定量表评分，每项评分前必须引用证据", "嵌入预过滤按简历内容缓存，候选人只嵌入一次", "按任务输出邀请/拒信邮件、改进版职位描述与成本统计"], "use_cases": ["招聘方批量筛选简历 PDF 并决定面试名单", "用硬性约束（工作许可、执照、驻地）先淘汰不合格候选人", "大规模候选人池中先用嵌入预过滤降低 LLM 调用成本"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [103, 105, 112], "note": "Known limitations 章节自述跨模型方差、预过滤局限等问题，Ongoing work 记录在 LOOP.md"}}, "links": {"scenario_tags": ["招聘/ATS", "简历筛选", "LLM应用", "CLI工具", "可解释评分"], "domain": "招聘/人力资源工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: **Resume Job Matcher** screens a folder of resume PDFs against a job description and tells you who to interview. It runs", "L10: 2. **Gate**: hard constraints from the job description (work authorization, on-site requirement, licences) become pass/f", "L11: 3. **Score**: survivors are rated per criterion on an anchored 0-4 scale, and every rating quotes the evidence behind it"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sliday/resume-job-matcher",
+ "sha": "0c5699693017",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 简历筛选 CLI：硬性门槛先淘汰，每项评分引用简历原文",
+  "review": "TypeScript 命令行工具，将一个文件夹内的简历 PDF 与职位描述比对，输出面试建议。筛选按漏斗进行：可选的嵌入预过滤（余弦相似度取前 n 份，缓存按简历内容键控）、从职位描述提取硬性约束做通过/淘汰判定（引用淘汰所依据的简历片段）、幸存者按 7 项准则在 0-4 锚定量表上评分且必须先引用证据原文，并按权重生成邀请或拒信邮件。支持 Claude、GPT 与 OpenRouter 三种模式，单一 API key 即可运行。已知限制：跨模型评分方差显著、无 OCR（扫描件需用附带的传统 Python 实现）。",
+  "highlights": [
+   "硬约束门槛先于评分淘汰，并引用简历原文片段",
+   "7 项准则锚定量表评分，每项评分前必须引用证据",
+   "嵌入预过滤按简历内容缓存，候选人只嵌入一次",
+   "按任务输出邀请/拒信邮件、改进版职位描述与成本统计"
+  ],
+  "use_cases": [
+   "招聘方批量筛选简历 PDF 并决定面试名单",
+   "用硬性约束（工作许可、执照、驻地）先淘汰不合格候选人",
+   "大规模候选人池中先用嵌入预过滤降低 LLM 调用成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    103,
+    105,
+    112
+   ],
+   "note": "Known limitations 章节自述跨模型方差、预过滤局限等问题，Ongoing work 记录在 LOOP.md"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "招聘/ATS",
+   "简历筛选",
+   "LLM应用",
+   "CLI工具",
+   "可解释评分"
+  ],
+  "domain": "招聘/人力资源工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **Resume Job Matcher** screens a folder of resume PDFs against a job description and tells you who to interview. It runs",
+   "L10: 2. **Gate**: hard constraints from the job description (work authorization, on-site requirement, licences) become pass/f",
+   "L11: 3. **Score**: survivors are rated per criterion on an anchored 0-4 scale, and every rating quotes the evidence behind it"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

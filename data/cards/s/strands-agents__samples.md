@@ -33,7 +33,7 @@ Strands Agents SDK 的官方示例仓库，提供 Python 与 TypeScript 两种�
 
 ## 场景标签
 
- · 领域:AI agent 开发/示例代码
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

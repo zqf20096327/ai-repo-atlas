@@ -1,1 +1,75 @@
-{"fn": "skainguyen1412/antigravity-usage", "sha": "10e850d63c5a", "source": "readme", "identity": {"one_liner": "追踪 Antigravity 模型配额与用量的 CLI 工具", "review": "面向 Antigravity IDE 用户（VSCode、JetBrains 等）的 Node.js 命令行工具，读取本地 IDE 内运行的 Antigravity Language Server 获取配额数据，失败时回退到 Google Cloud Code API（需一次性 Google 登录）。支持多账号管理并排对比、5 分钟缓存、隐藏补全类模型、以及通过系统 cron 定时唤醒 Claude/Gemini 模型以消耗每日配额（macOS/Linux，Windows 未支持）。npm 全局安装即可使用。", "highlights": ["双通道取数：本地 IDE 服务器优先，Google Cloud Code API 回退", "多 Google 账号管理与配额并排对比", "wakeup 定时任务（cron 集成、配额重置检测、冷却保护）", "令牌仅存本地，5 分钟智能缓存"], "use_cases": ["在终端快速查看 Antigravity 剩余额度与重置时间", "管理多个 Google 账号并比较各自配额", "定时唤醒模型避免配额过期浪费"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CLI工具", "配额监控", "Antigravity/Gemini", "多账号管理"], "domain": "AI 开发者工具/用量监控", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: A fast, lightweight, and powerful CLI tool to track your Antigravity model quota and usage. Works offline with your IDE ", "L60: 1. **Local Mode (Priority)**: First, it tries to connect to the Antigravity Language Server running inside your IDE.", "L63: 2. **Cloud Mode (Fallback)**: If Local Mode fails (or if managing multiple accounts), it uses the Google Cloud Code API."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "skainguyen1412/antigravity-usage",
+ "sha": "10e850d63c5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "追踪 Antigravity 模型配额与用量的 CLI 工具",
+  "review": "面向 Antigravity IDE 用户（VSCode、JetBrains 等）的 Node.js 命令行工具，读取本地 IDE 内运行的 Antigravity Language Server 获取配额数据，失败时回退到 Google Cloud Code API（需一次性 Google 登录）。支持多账号管理并排对比、5 分钟缓存、隐藏补全类模型、以及通过系统 cron 定时唤醒 Claude/Gemini 模型以消耗每日配额（macOS/Linux，Windows 未支持）。npm 全局安装即可使用。",
+  "highlights": [
+   "双通道取数：本地 IDE 服务器优先，Google Cloud Code API 回退",
+   "多 Google 账号管理与配额并排对比",
+   "wakeup 定时任务（cron 集成、配额重置检测、冷却保护）",
+   "令牌仅存本地，5 分钟智能缓存"
+  ],
+  "use_cases": [
+   "在终端快速查看 Antigravity 剩余额度与重置时间",
+   "管理多个 Google 账号并比较各自配额",
+   "定时唤醒模型避免配额过期浪费"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "配额监控",
+   "Antigravity/Gemini",
+   "多账号管理"
+  ],
+  "domain": "AI 开发者工具/用量监控",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: A fast, lightweight, and powerful CLI tool to track your Antigravity model quota and usage. Works offline with your IDE ",
+   "L60: 1. **Local Mode (Priority)**: First, it tries to connect to the Antigravity Language Server running inside your IDE.",
+   "L63: 2. **Cloud Mode (Fallback)**: If Local Mode fails (or if managing multiple accounts), it uses the Google Cloud Code API."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

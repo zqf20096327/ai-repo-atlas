@@ -1,1 +1,88 @@
-{"fn": "stenolabs/stenoai", "sha": "491a8b1c51a3", "source": "readme", "identity": {"one_liner": "隐私优先的本地 AI 会议记录应用，供保密场合录音转写与摘要", "review": "面向政府、国防及高管等保密需求的桌面 AI 记事应用：在设备本地完成录音、实时转写（Apple Silicon 上用 Parakeet TDT v3，Whisper Large V3 Turbo 处理更多语言）、说话人分离与摘要（默认经 Ollama 运行 gemma4 等模型），输出可编辑的 Markdown 笔记，支持笔记问答与图表。云端模型（OpenAI/Anthropic/Bedrock/自定义端点）为可选项。macOS 提供 DMG 安装（Apple Silicon，macOS 14.4+），Windows 10/11 x64 为 alpha 版本。", "highlights": ["本地运行转写与摘要模型，数据不出设备，云端模型为可选", "实时说话人标签与录后声道分离，语音档案仅存本机", "99 种语言转写（Whisper）+ 25 种欧洲语言实时转写（Parakeet）", "笔记问答、图表生成、报告模板与 .stenomeeting 包导入导出"], "use_cases": ["在保密会议中本地录音并自动生成摘要与行动项", "对历史会议笔记提问或生成周报", "在不联网环境下完成转写与总结"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [12, 200, 202]}}, "links": {"scenario_tags": ["会议记录", "本地LLM", "语音转写", "隐私/离线", "桌面应用"], "domain": "生产力工具/会议记录", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "bedrock", "ollama"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15:  StenographAI is the privacy-first AI notepad for all your confidential conversations. No cloud, no usage limits and you", "L42: - **Privacy-first**: local AI processes your recordings, transcripts, and summaries on your device. External AI provider", "L162: - `Parakeet TDT v3` (572 MB): Highest quality, supports live transcription, 25 European languages (English, Spanish, Fre"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "stenolabs/stenoai",
+ "sha": "491a8b1c51a3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "隐私优先的本地 AI 会议记录应用，供保密场合录音转写与摘要",
+  "review": "面向政府、国防及高管等保密需求的桌面 AI 记事应用：在设备本地完成录音、实时转写（Apple Silicon 上用 Parakeet TDT v3，Whisper Large V3 Turbo 处理更多语言）、说话人分离与摘要（默认经 Ollama 运行 gemma4 等模型），输出可编辑的 Markdown 笔记，支持笔记问答与图表。云端模型（OpenAI/Anthropic/Bedrock/自定义端点）为可选项。macOS 提供 DMG 安装（Apple Silicon，macOS 14.4+），Windows 10/11 x64 为 alpha 版本。",
+  "highlights": [
+   "本地运行转写与摘要模型，数据不出设备，云端模型为可选",
+   "实时说话人标签与录后声道分离，语音档案仅存本机",
+   "99 种语言转写（Whisper）+ 25 种欧洲语言实时转写（Parakeet）",
+   "笔记问答、图表生成、报告模板与 .stenomeeting 包导入导出"
+  ],
+  "use_cases": [
+   "在保密会议中本地录音并自动生成摘要与行动项",
+   "对历史会议笔记提问或生成周报",
+   "在不联网环境下完成转写与总结"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    12,
+    200,
+    202
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "会议记录",
+   "本地LLM",
+   "语音转写",
+   "隐私/离线",
+   "桌面应用"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "bedrock",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "asr",
+   "knowledge-base",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15:  StenographAI is the privacy-first AI notepad for all your confidential conversations. No cloud, no usage limits and you",
+   "L42: - **Privacy-first**: local AI processes your recordings, transcripts, and summaries on your device. External AI provider",
+   "L162: - `Parakeet TDT v3` (572 MB): Highest quality, supports live transcription, 25 European languages (English, Spanish, Fre"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

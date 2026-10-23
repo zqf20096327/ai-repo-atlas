@@ -1,1 +1,88 @@
-{"fn": "stevereiner/flexible-graphrag", "sha": "1530a5bbddbe", "source": "readme", "identity": {"one_liner": "开源 AI 上下文平台：多数据源接入与 GraphRAG/RAG/混合检索/AI 问答", "review": "面向需要企业内容问答与知识图谱检索的开发者和企业：Python 后端（FastAPI）配 React/Vue/Angular 前端与 MCP 服务器。核心机制为可配置的摄取管线（Docling/LlamaParse/LiteParse 解析，LlamaIndex 默认、LangChain 可按阶段替换），支持 14 种数据源（10 种增量自动同步，含 Alfresco、Nuxeo、SharePoint 等）、15 种属性图库、4 种 RDF 三元组库、10 种向量库与多种 LLM 提供商；另可选 Langflow 可视化流与 CocoIndex 管线。限制：数据源读取仅 LlamaIndex，部分图库仅单一框架支持。", "highlights": ["15 种属性图库 + 4 种 RDF 三元组库 + 10 种向量库 + 3 种搜索引擎的混合检索", "14 种数据源、其中 10 种支持增量自动同步（Alfresco/Nuxeo/SharePoint/Box 等）", "LlamaIndex 与 LangChain 双框架按管线阶段独立配置", "提供 REST API、MCP 服务器与 React/Vue/Angular 三套前端，及权限感知搜索"], "use_cases": ["把企业内容仓库（Alfresco/Nuxeo/SharePoint）接入 GraphRAG 与 AI 问答", "构建基于本体和知识图谱的混合检索（向量+全文+图+SPARQL）应用", "需要数据源变更自动同步的知识库问答系统"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["GraphRAG", "知识图谱", "RAG", "企业内容管理集成", "MCP"], "domain": "RAG/知识图谱基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "vllm", "anthropic", "groq", "openrouter", "azure", "bedrock"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L29: **Flexible GraphRAG** is an open source AI context platform supporting a document processing pipeline (Docling, LlamaPar", "L63: - **Hybrid Search**: Configurable hybrid search combining vector search, full-text search, property-graph GraphRAG, and ", "L70: - **LLM providers (KG extraction & chat)**: Ollama, OpenAI, Azure OpenAI, Google Gemini, Anthropic Claude, Google Vertex"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "stevereiner/flexible-graphrag",
+ "sha": "1530a5bbddbe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 上下文平台：多数据源接入与 GraphRAG/RAG/混合检索/AI 问答",
+  "review": "面向需要企业内容问答与知识图谱检索的开发者和企业：Python 后端（FastAPI）配 React/Vue/Angular 前端与 MCP 服务器。核心机制为可配置的摄取管线（Docling/LlamaParse/LiteParse 解析，LlamaIndex 默认、LangChain 可按阶段替换），支持 14 种数据源（10 种增量自动同步，含 Alfresco、Nuxeo、SharePoint 等）、15 种属性图库、4 种 RDF 三元组库、10 种向量库与多种 LLM 提供商；另可选 Langflow 可视化流与 CocoIndex 管线。限制：数据源读取仅 LlamaIndex，部分图库仅单一框架支持。",
+  "highlights": [
+   "15 种属性图库 + 4 种 RDF 三元组库 + 10 种向量库 + 3 种搜索引擎的混合检索",
+   "14 种数据源、其中 10 种支持增量自动同步（Alfresco/Nuxeo/SharePoint/Box 等）",
+   "LlamaIndex 与 LangChain 双框架按管线阶段独立配置",
+   "提供 REST API、MCP 服务器与 React/Vue/Angular 三套前端，及权限感知搜索"
+  ],
+  "use_cases": [
+   "把企业内容仓库（Alfresco/Nuxeo/SharePoint）接入 GraphRAG 与 AI 问答",
+   "构建基于本体和知识图谱的混合检索（向量+全文+图+SPARQL）应用",
+   "需要数据源变更自动同步的知识库问答系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GraphRAG",
+   "知识图谱",
+   "RAG",
+   "企业内容管理集成",
+   "MCP"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "anthropic",
+   "groq",
+   "openrouter",
+   "azure",
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "document-qa",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L29: **Flexible GraphRAG** is an open source AI context platform supporting a document processing pipeline (Docling, LlamaPar",
+   "L63: - **Hybrid Search**: Configurable hybrid search combining vector search, full-text search, property-graph GraphRAG, and ",
+   "L70: - **LLM providers (KG extraction & chat)**: Ollama, OpenAI, Azure OpenAI, Google Gemini, Anthropic Claude, Google Vertex"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

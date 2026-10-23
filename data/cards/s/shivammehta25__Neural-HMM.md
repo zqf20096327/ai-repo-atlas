@@ -33,7 +33,7 @@ ICASSP 2022 论文 Neural HMMs are all you need (for high-quality attention-free
 
 ## 场景标签
 
- · 领域:语音合成/深度学习研究
+`语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 

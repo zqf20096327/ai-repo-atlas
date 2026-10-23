@@ -1,1 +1,83 @@
-{"fn": "smg-project/smg", "sha": "7f1e820256eb", "source": "readme", "identity": {"one_liner": "Rust 编写的引擎无关 LLM 网关：统一接入多种推理后端", "review": "Shepherd Model Gateway（SMG）是面向大规模 LLM 部署的模型路由网关：将自托管引擎（vLLM、SGLang、TensorRT-LLM、TokenSpeed、MLX 等）与云厂商（OpenAI、Anthropic、Gemini、xAI、OCI、Bedrock、Azure OpenAI 等）聚合到单一兼容 OpenAI/Anthropic 的端点之后，提供 KV cache 感知路由（radix tree 前缀复用）、10 种路由策略、原生 gRPC 流式管线、多租户与 OIDC 认证、聊天历史存储、MCP 工具执行、WASM 插件与 90+ Prometheus 指标。以 Docker 镜像与 PyPI 包提供，附 CLI 启动命令。", "highlights": ["KV cache 感知路由与 10 种路由策略（radix tree 前缀复用）", "兼容 OpenAI Chat/Responses、Anthropic Messages、Gemini 等多套 API", "21 种工具调用解析器与 16 种推理解析器，自动模型检测", "多租户、优先级准入调度、OIDC 认证、WASM 插件与 MCP 集成"], "use_cases": ["将多套自托管推理引擎与云厂商收敛到统一网关做负载均衡", "在企业内做多租户 LLM 服务治理与可观测性监控", "在 Kubernetes 集群内做服务发现与多节点高可用部署"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM网关", "推理路由", "KV cache感知", "多租户", "gRPC"], "domain": "LLM 基础设施/推理网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm", "ollama", "groq", "azure", "bedrock"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: Engine-agnostic, high-performance model-routing gateway for large-scale LLM deployments. SMG centralizes worker lifecycl", "L24: |**🔌 One API, Any Backend**|Route to self-hosted engines over HTTP or gRPC, or to OpenAI, Anthropic, Gemini, and xAI — p"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "smg-project/smg",
+ "sha": "7f1e820256eb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的引擎无关 LLM 网关：统一接入多种推理后端",
+  "review": "Shepherd Model Gateway（SMG）是面向大规模 LLM 部署的模型路由网关：将自托管引擎（vLLM、SGLang、TensorRT-LLM、TokenSpeed、MLX 等）与云厂商（OpenAI、Anthropic、Gemini、xAI、OCI、Bedrock、Azure OpenAI 等）聚合到单一兼容 OpenAI/Anthropic 的端点之后，提供 KV cache 感知路由（radix tree 前缀复用）、10 种路由策略、原生 gRPC 流式管线、多租户与 OIDC 认证、聊天历史存储、MCP 工具执行、WASM 插件与 90+ Prometheus 指标。以 Docker 镜像与 PyPI 包提供，附 CLI 启动命令。",
+  "highlights": [
+   "KV cache 感知路由与 10 种路由策略（radix tree 前缀复用）",
+   "兼容 OpenAI Chat/Responses、Anthropic Messages、Gemini 等多套 API",
+   "21 种工具调用解析器与 16 种推理解析器，自动模型检测",
+   "多租户、优先级准入调度、OIDC 认证、WASM 插件与 MCP 集成"
+  ],
+  "use_cases": [
+   "将多套自托管推理引擎与云厂商收敛到统一网关做负载均衡",
+   "在企业内做多租户 LLM 服务治理与可观测性监控",
+   "在 Kubernetes 集群内做服务发现与多节点高可用部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM网关",
+   "推理路由",
+   "KV cache感知",
+   "多租户",
+   "gRPC"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm",
+   "ollama",
+   "groq",
+   "azure",
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Engine-agnostic, high-performance model-routing gateway for large-scale LLM deployments. SMG centralizes worker lifecycl",
+   "L24: |**🔌 One API, Any Backend**|Route to self-hosted engines over HTTP or gRPC, or to OpenAI, Anthropic, Gemini, and xAI — p"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Strands Agents 生态的社区驱动工具集合，pip 安装 strands-agents-too
 
 ## 场景标签
 
- · 领域:AI Agent 基础设施
+`多智能体` `GUI 自动化` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

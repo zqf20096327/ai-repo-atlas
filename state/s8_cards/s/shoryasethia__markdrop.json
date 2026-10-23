@@ -1,1 +1,81 @@
-{"fn": "shoryasethia/markdrop", "sha": "04432afd8d61", "source": "readme", "identity": {"one_liner": "把 PDF 转成 Markdown/HTML 并用 LLM 为图表生成描述的 Python 包", "review": "基于 Docling 的 PDF 转 Markdown 工具，保留格式、按 XRef 提取图片、用 Table Transformer 检测表格，支持 PDF URL 输入并输出可下载 Excel 表格的交互式 HTML。AI 部分为提取的图片和表格生成文字描述，支持 Gemini/OpenAI/Anthropic/Groq/OpenRouter/LiteLLM 六类提供商，另有批量图片描述（qwen/molmo/pixtral 等客户端）与 API key 管理命令。提供 CLI 与 Python API，pip 安装，GPL-3.0 许可。", "highlights": ["PDF→Markdown/HTML 转换（Docling）+ XRef 图片提取 + Table Transformer 表格检测", "6 类 LLM 提供商生成图片/表格描述，OpenRouter/LiteLLM 可路由更多模型", "交互式 HTML 输出含可下载 Excel 表格", "markdrop CLI 覆盖转换、描述、key 设置与批量图片分析"], "use_cases": ["把 PDF 报告或论文批量转成 Markdown 归档", "为文档中的图片和表格自动生成文字描述", "从 PDF URL 直接抓取并转换（如 arXiv 论文）"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档转换", "PDF处理", "LLM应用", "图像/表格描述"], "domain": "文档处理/LLM 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "groq", "openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: A Python package for converting PDFs to structured Markdown and interactive HTML, with AI-powered image and table descri", "L15: - [x] PDF → Markdown conversion with formatting preservation (via Docling)", "L19: - [x] AI-powered image and table descriptions — **6 providers**: Gemini, OpenAI, Anthropic Claude, Groq, OpenRouter, Lit"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shoryasethia/markdrop",
+ "sha": "04432afd8d61",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 PDF 转成 Markdown/HTML 并用 LLM 为图表生成描述的 Python 包",
+  "review": "基于 Docling 的 PDF 转 Markdown 工具，保留格式、按 XRef 提取图片、用 Table Transformer 检测表格，支持 PDF URL 输入并输出可下载 Excel 表格的交互式 HTML。AI 部分为提取的图片和表格生成文字描述，支持 Gemini/OpenAI/Anthropic/Groq/OpenRouter/LiteLLM 六类提供商，另有批量图片描述（qwen/molmo/pixtral 等客户端）与 API key 管理命令。提供 CLI 与 Python API，pip 安装，GPL-3.0 许可。",
+  "highlights": [
+   "PDF→Markdown/HTML 转换（Docling）+ XRef 图片提取 + Table Transformer 表格检测",
+   "6 类 LLM 提供商生成图片/表格描述，OpenRouter/LiteLLM 可路由更多模型",
+   "交互式 HTML 输出含可下载 Excel 表格",
+   "markdrop CLI 覆盖转换、描述、key 设置与批量图片分析"
+  ],
+  "use_cases": [
+   "把 PDF 报告或论文批量转成 Markdown 归档",
+   "为文档中的图片和表格自动生成文字描述",
+   "从 PDF URL 直接抓取并转换（如 arXiv 论文）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档转换",
+   "PDF处理",
+   "LLM应用",
+   "图像/表格描述"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "groq",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: A Python package for converting PDFs to structured Markdown and interactive HTML, with AI-powered image and table descri",
+   "L15: - [x] PDF → Markdown conversion with formatting preservation (via Docling)",
+   "L19: - [x] AI-powered image and table descriptions — **6 providers**: Gemini, OpenAI, Anthropic Claude, Groq, OpenRouter, Lit"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Packt 出版图书《Hands-On Data Analysis with Pandas》（2019年7月26日第
 
 ## 场景标签
 
- · 领域:数据科学/教学
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

@@ -1,1 +1,81 @@
-{"fn": "ericmjl/llamabot", "sha": "c06f983e6d0f", "source": "readme", "identity": {"one_liner": "Python 类式 LLM 接口库：在代码/Jupyter 中便捷调用各类模型", "review": "以 Pythonic 类接口封装 LLM 调用的库：通过 LiteLLM 支持所有 LiteLLM 兼容模型，接入方式包括 OpenAI/Mistral 等 API 提供商及本地 Ollama、LMStudio。提供 SimpleBot（无状态调用，可加 ChatMemory）、ToolBot（单轮工具/函数调用）、QueryBot（文档库检索问答）、StructuredBot（Pydantic 校验与重试的结构化输出）、ImageBot（图像生成）与图像输入支持，另带 CLI 示例与本地实验记录机制。面向在 Jupyter 与 Python 应用中实验和构建 LLM 功能的开发者。", "highlights": ["SimpleBot/ToolBot/QueryBot/StructuredBot/ImageBot 五类 Bot 接口", "支持 LiteLLM 全部兼容模型：API 提供商与本地 Ollama/LMStudio", "StructuredBot 提供 Pydantic 校验与自动重试", "Experiment 上下文管理器本地记录提示词实验"], "use_cases": ["在 Jupyter 中快速实验 prompt 与不同模型", "从非结构化文本抽取符合 schema 的结构化数据", "基于本地文档库做检索问答", "构建自动写 commit message 等工具调用型脚本"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM应用框架", "Python库", "提示词实验", "结构化输出", "RAG"], "domain": "LLM 基础设施/开发库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: LlamaBot implements a Pythonic interface to LLMs,", "L6: All models supported by LiteLLM are supported by LlamaBot."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ericmjl/llamabot",
+ "sha": "c06f983e6d0f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 类式 LLM 接口库：在代码/Jupyter 中便捷调用各类模型",
+  "review": "以 Pythonic 类接口封装 LLM 调用的库：通过 LiteLLM 支持所有 LiteLLM 兼容模型，接入方式包括 OpenAI/Mistral 等 API 提供商及本地 Ollama、LMStudio。提供 SimpleBot（无状态调用，可加 ChatMemory）、ToolBot（单轮工具/函数调用）、QueryBot（文档库检索问答）、StructuredBot（Pydantic 校验与重试的结构化输出）、ImageBot（图像生成）与图像输入支持，另带 CLI 示例与本地实验记录机制。面向在 Jupyter 与 Python 应用中实验和构建 LLM 功能的开发者。",
+  "highlights": [
+   "SimpleBot/ToolBot/QueryBot/StructuredBot/ImageBot 五类 Bot 接口",
+   "支持 LiteLLM 全部兼容模型：API 提供商与本地 Ollama/LMStudio",
+   "StructuredBot 提供 Pydantic 校验与自动重试",
+   "Experiment 上下文管理器本地记录提示词实验"
+  ],
+  "use_cases": [
+   "在 Jupyter 中快速实验 prompt 与不同模型",
+   "从非结构化文本抽取符合 schema 的结构化数据",
+   "基于本地文档库做检索问答",
+   "构建自动写 commit message 等工具调用型脚本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM应用框架",
+   "Python库",
+   "提示词实验",
+   "结构化输出",
+   "RAG"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: LlamaBot implements a Pythonic interface to LLMs,",
+   "L6: All models supported by LiteLLM are supported by LlamaBot."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

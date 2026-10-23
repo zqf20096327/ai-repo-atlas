@@ -1,1 +1,79 @@
-{"fn": "shukur-alom/leaf-diseases-detect", "sha": "7ab350a3ce63", "source": "readme", "identity": {"one_liner": "通过 Llama Vision 识别叶片病害并给出严重度与治疗建议", "review": "叶片病害检测系统，采用 FastAPI 后端加 Streamlit 前端双接口架构，核心检测引擎调用 Groq API 上的 Meta Llama Vision 模型，对上传叶片图片输出病害名称与类别、严重程度、置信度、症状、可能诱因及治疗建议，支持 JPEG/PNG/WebP/BMP/TIFF，单图限 10MB，需要 Groq API Key。提供 Vercel/Streamlit Cloud/Railway/Docker/Heroku 等部署说明，另含测试脚本与示例图片。", "highlights": ["识别 500+ 种植物病害（真菌/细菌/病毒/虫害/营养缺乏）并输出严重度分级", "返回结构化 JSON：病害名、类别、置信度 0-100%、症状、诱因、治疗建议", "FastAPI 与 Streamlit 双接口，支持 REST API 与网页交互", "默认模型 meta-llama/llama-4-scout-17b-16e-instruct，可经环境变量切换模型与参数"], "use_cases": ["上传叶片照片获取病害识别与治疗建议", "农业或园艺场景批量接入病害检测 API", "教学或演示多模态 LLM 在植物健康分析中的应用"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "L13", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["农业AI", "图像识别", "植物病理", "多模态LLM应用"], "domain": "农业/植物健康", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["groq"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L9: An enterprise-grade AI-powered leaf disease detection system featuring a dual-interface architecture: a FastAPI backend ", "L20: - **🔍 Advanced Disease Detection**: Identifies 500+ plant diseases across multiple categories (fungal, bacterial, viral,", "L52: The heart of the system, featuring the **LeafDiseaseDetector Class** which provides advanced AI-powered leaf disease det"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shukur-alom/leaf-diseases-detect",
+ "sha": "7ab350a3ce63",
+ "source": "readme",
+ "identity": {
+  "one_liner": "通过 Llama Vision 识别叶片病害并给出严重度与治疗建议",
+  "review": "叶片病害检测系统，采用 FastAPI 后端加 Streamlit 前端双接口架构，核心检测引擎调用 Groq API 上的 Meta Llama Vision 模型，对上传叶片图片输出病害名称与类别、严重程度、置信度、症状、可能诱因及治疗建议，支持 JPEG/PNG/WebP/BMP/TIFF，单图限 10MB，需要 Groq API Key。提供 Vercel/Streamlit Cloud/Railway/Docker/Heroku 等部署说明，另含测试脚本与示例图片。",
+  "highlights": [
+   "识别 500+ 种植物病害（真菌/细菌/病毒/虫害/营养缺乏）并输出严重度分级",
+   "返回结构化 JSON：病害名、类别、置信度 0-100%、症状、诱因、治疗建议",
+   "FastAPI 与 Streamlit 双接口，支持 REST API 与网页交互",
+   "默认模型 meta-llama/llama-4-scout-17b-16e-instruct，可经环境变量切换模型与参数"
+  ],
+  "use_cases": [
+   "上传叶片照片获取病害识别与治疗建议",
+   "农业或园艺场景批量接入病害检测 API",
+   "教学或演示多模态 LLM 在植物健康分析中的应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "L13",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "农业AI",
+   "图像识别",
+   "植物病理",
+   "多模态LLM应用"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: An enterprise-grade AI-powered leaf disease detection system featuring a dual-interface architecture: a FastAPI backend ",
+   "L20: - **🔍 Advanced Disease Detection**: Identifies 500+ plant diseases across multiple categories (fungal, bacterial, viral,",
+   "L52: The heart of the system, featuring the **LeafDiseaseDetector Class** which provides advanced AI-powered leaf disease det"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

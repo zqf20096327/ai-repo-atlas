@@ -1,1 +1,85 @@
-{"fn": "skyfireitdiy/Jarvis", "sha": "9e5e5fa06dac", "source": "readme", "identity": {"one_liner": "本地运行的多 Agent 协作式 AI 开发平台，覆盖人×Agent 四种协作模式", "review": "面向开发者的协作式 AI 开发平台，以 CLI、Web 网关与 Python SDK 三种方式提供，覆盖单人单 Agent 到多人多 Agent 四种协作模式。核心机制包括：SQLite 符号数据库做代码理解与影响分析、YAML 声明式多 Agent 编排、JWT 多用户认证与分布式多节点部署、基于 tree-sitter 的八种语言 AST 解析、内核+插件包架构与 MCP 集成。附浏览器扩展（操作真实浏览器）与 Go 编写 的 jarvis-daemon 本地后台服务（文件/进程/GUI 自动化）。安装需 Python 3.12，通过 uv tool 从源码安装，另有一键安装脚本与离线包。", "highlights": ["人×Agent 四象限协作模式（含 JWT 多用户认证与分布式多节点）", "SQLite 符号数据库 + 五类影响分析的结构化代码理解", "YAML 声明式多 Agent 编排，Agent 间群聊/点对点通信", "浏览器扩展复用真实登录态，jarvis-daemon 提供本机 GUI 自动化"], "use_cases": ["让多个 Agent 组成开发/测试/部署流水线协同写代码并自动验证", "用符号数据库分析改动影响并评估风险等级", "团队共享同一 Agent 或搭建跨节点分布式 Agent 网络", "定时调度 Agent 无人值守执行安全分析、C→Rust 迁移等专项任务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多Agent协作", "代码开发平台", "自动化", "计算机操作", "本地部署"], "domain": "AI 开发工具/多 Agent 平台", "alternative_to": [], "competitors_mentioned": ["Claude Code"], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "开放原子大赛（国内赛事）获奖", "提供 Gitee 国内加速源"]}, "trust": {"confidence": "high", "evidence": ["L25: Jarvis 是一个面向开发者的 **协作式 AI 开发平台**。它不只是对话工具，还能真正进入工作流：读代码、改代码、执行工具、管理上下文、复用经验，并在关键节点保持可控。", "L191: |**多 Agent 编排**|YAML 声明式编排一键部署 Agent 网络，Agent 间群聊/点对点通信，多面板同屏操作|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "skyfireitdiy/Jarvis",
+ "sha": "9e5e5fa06dac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的多 Agent 协作式 AI 开发平台，覆盖人×Agent 四种协作模式",
+  "review": "面向开发者的协作式 AI 开发平台，以 CLI、Web 网关与 Python SDK 三种方式提供，覆盖单人单 Agent 到多人多 Agent 四种协作模式。核心机制包括：SQLite 符号数据库做代码理解与影响分析、YAML 声明式多 Agent 编排、JWT 多用户认证与分布式多节点部署、基于 tree-sitter 的八种语言 AST 解析、内核+插件包架构与 MCP 集成。附浏览器扩展（操作真实浏览器）与 Go 编写 的 jarvis-daemon 本地后台服务（文件/进程/GUI 自动化）。安装需 Python 3.12，通过 uv tool 从源码安装，另有一键安装脚本与离线包。",
+  "highlights": [
+   "人×Agent 四象限协作模式（含 JWT 多用户认证与分布式多节点）",
+   "SQLite 符号数据库 + 五类影响分析的结构化代码理解",
+   "YAML 声明式多 Agent 编排，Agent 间群聊/点对点通信",
+   "浏览器扩展复用真实登录态，jarvis-daemon 提供本机 GUI 自动化"
+  ],
+  "use_cases": [
+   "让多个 Agent 组成开发/测试/部署流水线协同写代码并自动验证",
+   "用符号数据库分析改动影响并评估风险等级",
+   "团队共享同一 Agent 或搭建跨节点分布式 Agent 网络",
+   "定时调度 Agent 无人值守执行安全分析、C→Rust 迁移等专项任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多Agent协作",
+   "代码开发平台",
+   "自动化",
+   "计算机操作",
+   "本地部署"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Claude Code"
+  ],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "开放原子大赛（国内赛事）获奖",
+   "提供 Gitee 国内加速源"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: Jarvis 是一个面向开发者的 **协作式 AI 开发平台**。它不只是对话工具，还能真正进入工作流：读代码、改代码、执行工具、管理上下文、复用经验，并在关键节点保持可控。",
+   "L191: |**多 Agent 编排**|YAML 声明式编排一键部署 Agent 网络，Agent 间群聊/点对点通信，多面板同屏操作|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

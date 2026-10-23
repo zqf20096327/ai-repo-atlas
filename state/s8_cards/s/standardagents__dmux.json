@@ -1,1 +1,79 @@
-{"fn": "standardagents/dmux", "sha": "9c9346e7ec64", "source": "readme", "identity": {"one_liner": "用 tmux 与 git worktrees 并行管理多个 AI 编码 agent 的复用器", "review": "面向开发者的 CLI 工具：为每个任务创建带独立 git worktree 与分支的 tmux 面板，使多个 AI 编码 agent 在隔离环境中并行工作，完成后可合并回主分支或创建 GitHub PR。支持 Claude Code、Codex、OpenCode、Gemini CLI 等 10 余种 agent CLI，并提供 AI 自动命名、可恢复终端、生命周期钩子与多项目管理。推理配置支持 API-key 提供商、OpenAI 兼容端点、Codex/ChatGPT 订阅登录或 Grok Build 登录。需 tmux 3.0+、Node.js 18+、Git 2.20+ 与至少一个 agent CLI，通过 npm 全局安装。", "highlights": ["每个面板独立 git worktree 与分支，agent 之间工作互不冲突", "支持 Claude Code、Codex、OpenCode、Cline、Gemini CLI 等 10 余种 agent CLI", "一步完成 auto-commit、merge 与清理，可推送分支并创建 GitHub PR", "AI 自动命名分支/提交信息，支持多项目、生命周期钩子与面板隐藏/恢复"], "use_cases": ["让多个 AI 编码 agent 在同一仓库并行开发不同任务", "为每个任务隔离分支与工作副本，避免 agent 之间冲突", "任务完成后从面板菜单直接合并或发起 GitHub PR"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent编排", "编码agent", "tmux", "git worktree", "CLI工具"], "domain": "开发者工具/AI agent 编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["xai"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5:  Manage multiple AI coding agents in isolated git worktrees.", "L40: - **Agent support** &mdash; Claude Code, Codex, OpenCode, Cline CLI, Gemini CLI, Qwen CLI, Amp CLI, pi CLI, Cursor CLI, "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "standardagents/dmux",
+ "sha": "9c9346e7ec64",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 tmux 与 git worktrees 并行管理多个 AI 编码 agent 的复用器",
+  "review": "面向开发者的 CLI 工具：为每个任务创建带独立 git worktree 与分支的 tmux 面板，使多个 AI 编码 agent 在隔离环境中并行工作，完成后可合并回主分支或创建 GitHub PR。支持 Claude Code、Codex、OpenCode、Gemini CLI 等 10 余种 agent CLI，并提供 AI 自动命名、可恢复终端、生命周期钩子与多项目管理。推理配置支持 API-key 提供商、OpenAI 兼容端点、Codex/ChatGPT 订阅登录或 Grok Build 登录。需 tmux 3.0+、Node.js 18+、Git 2.20+ 与至少一个 agent CLI，通过 npm 全局安装。",
+  "highlights": [
+   "每个面板独立 git worktree 与分支，agent 之间工作互不冲突",
+   "支持 Claude Code、Codex、OpenCode、Cline、Gemini CLI 等 10 余种 agent CLI",
+   "一步完成 auto-commit、merge 与清理，可推送分支并创建 GitHub PR",
+   "AI 自动命名分支/提交信息，支持多项目、生命周期钩子与面板隐藏/恢复"
+  ],
+  "use_cases": [
+   "让多个 AI 编码 agent 在同一仓库并行开发不同任务",
+   "为每个任务隔离分支与工作副本，避免 agent 之间冲突",
+   "任务完成后从面板菜单直接合并或发起 GitHub PR"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "编码agent",
+   "tmux",
+   "git worktree",
+   "CLI工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Manage multiple AI coding agents in isolated git worktrees.",
+   "L40: - **Agent support** &mdash; Claude Code, Codex, OpenCode, Cline CLI, Gemini CLI, Qwen CLI, Amp CLI, pi CLI, Cursor CLI, "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

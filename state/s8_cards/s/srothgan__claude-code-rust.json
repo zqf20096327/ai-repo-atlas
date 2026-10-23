@@ -1,1 +1,83 @@
-{"fn": "srothgan/claude-code-rust", "sha": "577f4aacfee0", "source": "readme", "identity": {"one_liner": "Claude Code 的 Rust 原生终端界面替代前端", "review": "用 Rust 编写的 Claude Code 终端 UI（claude-rs），基于 Ratatui 构建内联渲染：完成的消息与工具输出一次性写入终端滚动缓冲区，仅底部实时区域重绘，避免闪烁并保留终端原生搜索、tmux 复制与文本选择。通过 Anthropic 官方 Agent SDK 本地桥接运行会话，共享 Claude Code 的账号、模型、工具、权限、MCP 与会话历史。提供安装脚本与 npm 安装，npm 包附带预编译二进制与自带 Bun 运行时。项目处于 pre-1.0 阶段，部分功能仍需调用 claude CLI。", "highlights": ["基于 Ratatui 的内联渲染，会话保留在终端滚动缓冲区", "通过 Anthropic 官方 Agent SDK 桥接，复用 Claude Code 账号/工具/权限/会话", "npm 包附带预编译平台二进制与自带 Bun 运行时，无需 Rust 工具链", "会话工具：/resume 可搜索选择与分叉、/rewind、/compact、/export Markdown"], "use_cases": ["在 tmux、SSH 或分屏环境下使用 Claude Code 并保留原生搜索与复制", "偏好键盘驱动、单一原生二进制的终端界面", "导出会话为 Markdown 或回溯分叉历史会话"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [100]}}, "links": {"scenario_tags": ["终端UI", "Claude Code客户端", "开发工具", "Rust", "CLI"], "domain": "开发者工具/终端界面", "alternative_to": ["Claude Code"], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: An alternative terminal frontend for Claude Code, written in Rust. Your conversation stays in your terminal's own scroll", "L12: Claude Code Rust (`claude-rs`) is a terminal UI for Claude Code built on Ratatui. It runs your sessions through Anthropi"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "srothgan/claude-code-rust",
+ "sha": "577f4aacfee0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 的 Rust 原生终端界面替代前端",
+  "review": "用 Rust 编写的 Claude Code 终端 UI（claude-rs），基于 Ratatui 构建内联渲染：完成的消息与工具输出一次性写入终端滚动缓冲区，仅底部实时区域重绘，避免闪烁并保留终端原生搜索、tmux 复制与文本选择。通过 Anthropic 官方 Agent SDK 本地桥接运行会话，共享 Claude Code 的账号、模型、工具、权限、MCP 与会话历史。提供安装脚本与 npm 安装，npm 包附带预编译二进制与自带 Bun 运行时。项目处于 pre-1.0 阶段，部分功能仍需调用 claude CLI。",
+  "highlights": [
+   "基于 Ratatui 的内联渲染，会话保留在终端滚动缓冲区",
+   "通过 Anthropic 官方 Agent SDK 桥接，复用 Claude Code 账号/工具/权限/会话",
+   "npm 包附带预编译平台二进制与自带 Bun 运行时，无需 Rust 工具链",
+   "会话工具：/resume 可搜索选择与分叉、/rewind、/compact、/export Markdown"
+  ],
+  "use_cases": [
+   "在 tmux、SSH 或分屏环境下使用 Claude Code 并保留原生搜索与复制",
+   "偏好键盘驱动、单一原生二进制的终端界面",
+   "导出会话为 Markdown 或回溯分叉历史会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    100
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "终端UI",
+   "Claude Code客户端",
+   "开发工具",
+   "Rust",
+   "CLI"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [
+   "Claude Code"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: An alternative terminal frontend for Claude Code, written in Rust. Your conversation stays in your terminal's own scroll",
+   "L12: Claude Code Rust (`claude-rs`) is a terminal UI for Claude Code built on Ratatui. It runs your sessions through Anthropi"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

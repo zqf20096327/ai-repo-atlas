@@ -1,1 +1,76 @@
-{"fn": "skforecast/skforecast", "sha": "1080da27ce2c", "source": "readme", "identity": {"one_liner": "Python 时间序列预测库：统一 API 训练/回测机器学习与统计模型", "review": "面向数据科学与生产环境的时间序列预测 Python 库：以统一 API 封装任意 scikit-learn 兼容回归器（LightGBM/XGBoost/CatBoost）、ARIMA/SARIMAX/ETS 等统计模型、Keras RNN/LSTM，以及 Chronos-2、TimesFM、Moirai-2、TabPFN-TS 等预训练基础模型的零样本预测。提供回测（含重训练/间隔/滑动窗口）、概率预测、Optuna 调参、全局多序列建模与特征工程。附带 skforecast-ai 助手、MCP server 与无代码 Studio。BSD-3-Clause 许可，NumFOCUS 附属项目。", "highlights": ["统一 API 覆盖机器学习/统计/深度学习/基础模型四类预测器", "回测支持重训练、间隔、fold 步长与固定/扩展窗口", "概率预测（bootstrapping/conformal/分位数）与 CRPS 评估", "附带 MCP server、Claude Code 插件与 llms.txt 供 AI 助手生成代码"], "use_cases": ["用 LightGBM/XGBoost 等回归器做单序列或多序列时间序列预测", "在真实使用方式下回测与调参，评估模型上线表现", "零样本调用 Chronos-2/TimesFM 等预训练基础模型做预测", "让编码 agent 通过 MCP 或插件用自然语言生成预测脚本"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["时间序列预测", "机器学习库", "回测", "基础模型", "MCP"], "domain": "数据科学/时间序列预测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L12: **Time series forecasting, from prototype to production.** Skforecast is a Python library for time series forecasting us", "L49: - **Foundation models**: zero-shot forecasting with pre-trained models such as Chronos-2, TimesFM, Moirai-2 or TabPFN-TS"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "skforecast/skforecast",
+ "sha": "1080da27ce2c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 时间序列预测库：统一 API 训练/回测机器学习与统计模型",
+  "review": "面向数据科学与生产环境的时间序列预测 Python 库：以统一 API 封装任意 scikit-learn 兼容回归器（LightGBM/XGBoost/CatBoost）、ARIMA/SARIMAX/ETS 等统计模型、Keras RNN/LSTM，以及 Chronos-2、TimesFM、Moirai-2、TabPFN-TS 等预训练基础模型的零样本预测。提供回测（含重训练/间隔/滑动窗口）、概率预测、Optuna 调参、全局多序列建模与特征工程。附带 skforecast-ai 助手、MCP server 与无代码 Studio。BSD-3-Clause 许可，NumFOCUS 附属项目。",
+  "highlights": [
+   "统一 API 覆盖机器学习/统计/深度学习/基础模型四类预测器",
+   "回测支持重训练、间隔、fold 步长与固定/扩展窗口",
+   "概率预测（bootstrapping/conformal/分位数）与 CRPS 评估",
+   "附带 MCP server、Claude Code 插件与 llms.txt 供 AI 助手生成代码"
+  ],
+  "use_cases": [
+   "用 LightGBM/XGBoost 等回归器做单序列或多序列时间序列预测",
+   "在真实使用方式下回测与调参，评估模型上线表现",
+   "零样本调用 Chronos-2/TimesFM 等预训练基础模型做预测",
+   "让编码 agent 通过 MCP 或插件用自然语言生成预测脚本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列预测",
+   "机器学习库",
+   "回测",
+   "基础模型",
+   "MCP"
+  ],
+  "domain": "数据科学/时间序列预测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: **Time series forecasting, from prototype to production.** Skforecast is a Python library for time series forecasting us",
+   "L49: - **Foundation models**: zero-shot forecasting with pre-trained models such as Chronos-2, TimesFM, Moirai-2 or TabPFN-TS"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

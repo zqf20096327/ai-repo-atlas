@@ -1,1 +1,77 @@
-{"fn": "sinanuozdemir/oreilly-ai-agents", "sha": "bc5f5642a2cb", "source": "readme", "identity": {"one_liner": "AI Agent 课程配套代码库：O'Reilly 培训与视频系列示例", "review": "作者 Sinan Ozdemir 的 O'Reilly Live Online Training『AI Agents A-Z』与视频系列的代码仓库，以 Jupyter notebook 形式覆盖 AI agent 的实现与评估：第三方框架入门（CrewAI、AutoGen、SmolAgents、Google ADK、OpenAI Agents SDK）、LangGraph 工作流/ReAct/MCP/多智能体模式、agent 输出评估与工具选择偏差测量，以及从零构建自有 agent 框架。需 Python 3.11 虚拟环境，pip 安装依赖后用 Jupyter 运行。部分 notebook 涉及让 AI 操作本地机器的 GUI 自动化代码，README 附警告。", "highlights": ["覆盖 CrewAI/AutoGen/LangGraph/SmolAgents/Google ADK 等框架的入门 notebook", "agent 输出评估与工具选择位置偏差（positional bias）测量示例", "多智能体模式（fan-out/fan-in、动态路由、supervisor）示例", "从零构建自有 agent 框架的渐进教程"], "use_cases": ["跟课学习 AI agent 的原型开发与生产部署", "参考各主流 agent 框架的入门示例做选型", "复现 agent 评估与多智能体模式的实验代码"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://learning.oreilly.com/course/modern-automated-ai/9780135414965/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["课程代码", "AI Agent", "教程/notebook", "多智能体", "agent评估"], "domain": "AI Agent 教育资源", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: This repository contains code for both my live course: O'Reilly Live Online Training for AI Agents A-Z and my video seri", "L8: This course provides a comprehensive guide to understanding, implementing, and managing AI agents both at the prototype "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sinanuozdemir/oreilly-ai-agents",
+ "sha": "bc5f5642a2cb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Agent 课程配套代码库：O'Reilly 培训与视频系列示例",
+  "review": "作者 Sinan Ozdemir 的 O'Reilly Live Online Training『AI Agents A-Z』与视频系列的代码仓库，以 Jupyter notebook 形式覆盖 AI agent 的实现与评估：第三方框架入门（CrewAI、AutoGen、SmolAgents、Google ADK、OpenAI Agents SDK）、LangGraph 工作流/ReAct/MCP/多智能体模式、agent 输出评估与工具选择偏差测量，以及从零构建自有 agent 框架。需 Python 3.11 虚拟环境，pip 安装依赖后用 Jupyter 运行。部分 notebook 涉及让 AI 操作本地机器的 GUI 自动化代码，README 附警告。",
+  "highlights": [
+   "覆盖 CrewAI/AutoGen/LangGraph/SmolAgents/Google ADK 等框架的入门 notebook",
+   "agent 输出评估与工具选择位置偏差（positional bias）测量示例",
+   "多智能体模式（fan-out/fan-in、动态路由、supervisor）示例",
+   "从零构建自有 agent 框架的渐进教程"
+  ],
+  "use_cases": [
+   "跟课学习 AI agent 的原型开发与生产部署",
+   "参考各主流 agent 框架的入门示例做选型",
+   "复现 agent 评估与多智能体模式的实验代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://learning.oreilly.com/course/modern-automated-ai/9780135414965/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程代码",
+   "AI Agent",
+   "教程/notebook",
+   "多智能体",
+   "agent评估"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This repository contains code for both my live course: O'Reilly Live Online Training for AI Agents A-Z and my video seri",
+   "L8: This course provides a comprehensive guide to understanding, implementing, and managing AI agents both at the prototype "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

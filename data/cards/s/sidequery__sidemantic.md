@@ -34,7 +34,7 @@ Sidemantic 是一个开源语义层运行时（universal metrics layer），允�
 
 ## 场景标签
 
- · 领域:数据工程/分析基础设施
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

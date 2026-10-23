@@ -1,1 +1,80 @@
-{"fn": "sleeepeer/PoisonedRAG", "sha": "f6c569afd442", "source": "readme", "identity": {"one_liner": "面向科研：针对 RAG 系统的知识库投毒攻击复现代码", "review": "USENIX Security 2025 论文 PoisonedRAG 的官方代码，实现针对检索增强生成（RAG）系统的知识库污染攻击：向知识库注入少量恶意文本，使检索器召回并诱导 LLM 产出攻击者期望的回答。README 提供基于 conda 的环境搭建、数据集自动下载、API key 配置（PaLM 2/GPT-3.5/GPT-4/LLaMA-2）与 run.py 一键复现论文主结果，并说明可用 evaluate_beir.py 在自定义 BEIR 格式数据集上实验。当前仅提供论文主结果的默认设置。", "highlights": ["首个针对 RAG 知识库的污染攻击实现（USENIX Security 2025）", "支持 PaLM 2、GPT-3.5、GPT-4、LLaMA-2 等模型配置 API key 运行", "run.py 一键复现论文主实验结果", "支持自定义 BEIR 格式数据集计算检索得分"], "use_cases": ["复现论文中知识库污染攻击的实验结果", "在自己数据集上评估 RAG 系统对投毒攻击的脆弱性", "作为 RAG 安全研究的攻击基线代码"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI安全", "对抗攻击", "RAG", "科研代码", "红队/漏洞研究"], "domain": "AI 安全/对抗机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["google"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Official repo of USENIX Security 2025 paper: PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation", "L5: The first knowledge database corruption attack against Retrievals-Augmented Generation (RAG) system."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sleeepeer/PoisonedRAG",
+ "sha": "f6c569afd442",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向科研：针对 RAG 系统的知识库投毒攻击复现代码",
+  "review": "USENIX Security 2025 论文 PoisonedRAG 的官方代码，实现针对检索增强生成（RAG）系统的知识库污染攻击：向知识库注入少量恶意文本，使检索器召回并诱导 LLM 产出攻击者期望的回答。README 提供基于 conda 的环境搭建、数据集自动下载、API key 配置（PaLM 2/GPT-3.5/GPT-4/LLaMA-2）与 run.py 一键复现论文主结果，并说明可用 evaluate_beir.py 在自定义 BEIR 格式数据集上实验。当前仅提供论文主结果的默认设置。",
+  "highlights": [
+   "首个针对 RAG 知识库的污染攻击实现（USENIX Security 2025）",
+   "支持 PaLM 2、GPT-3.5、GPT-4、LLaMA-2 等模型配置 API key 运行",
+   "run.py 一键复现论文主实验结果",
+   "支持自定义 BEIR 格式数据集计算检索得分"
+  ],
+  "use_cases": [
+   "复现论文中知识库污染攻击的实验结果",
+   "在自己数据集上评估 RAG 系统对投毒攻击的脆弱性",
+   "作为 RAG 安全研究的攻击基线代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI安全",
+   "对抗攻击",
+   "RAG",
+   "科研代码",
+   "红队/漏洞研究"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "google"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Official repo of USENIX Security 2025 paper: PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation",
+   "L5: The first knowledge database corruption attack against Retrievals-Augmented Generation (RAG) system."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

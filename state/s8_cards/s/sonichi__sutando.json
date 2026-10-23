@@ -1,1 +1,83 @@
-{"fn": "sonichi/sutando", "sha": "510117f7759f", "source": "readme", "identity": {"one_liner": "自托管的个人 AI 代理：语音/电话/会议替你干活并自我改进", "review": "运行在用户 Mac 上的个人 AI 代理应用：通过语音、屏幕捕获、电话（Twilio）、Zoom/Google Meet、Telegram、Discord 等渠道接收指令，由 Claude Code 或 Codex CLI 会话作为核心代理执行任务（改文档、代打电话、参会做纪要、记笔记）。空闲时运行自主构建循环，监控自身健康并生成新功能代码。四个进程协作：Gemini Live 语音代理、通话服务器、Web 客户端与核心代理。声明为 Alpha 阶段，仅支持 macOS，核心以无头模式从源码启动，菜单栏应用需本地构建。", "highlights": ["多渠道接入：语音、电话、会议、Telegram、Discord、Web 共享同一代理与记忆", "核心代理通过 Claude Code 或 Codex CLI 会话执行，无需按 token 计费的核心 API key", "空闲时自主构建循环：健康检查、模式学习、生成缺失能力代码", "3 级访问门控与 git-rules-guard 钩子对公开写操作弹出审批"], "use_cases": ["用语音指挥代理改文档、接会议、代打电话并汇报", "外出时通过电话/Telegram 远程查看与操作自己的 Mac", "让代理在空闲时自动维护并扩展自身功能"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://www.youtube.com/@sutando-ai", "self_declared_early": {"flag": true, "lines": [57, 59]}}, "links": {"scenario_tags": ["个人AI代理", "语音助手", "自动化", "自我改进", "macOS自托管"], "domain": "个人 AI 代理/自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L8: Voice, vision, screen, meetings, calls when I'm engaged. Learns my patterns, ships its own code when I'm not. Runs acros", "L41: **Talk while you work.** You're looking at a doc. You say \"make this paragraph shorter.\" Sutando sees your screen, rewri", "L82: - **Core agent** (Claude Code or Codex CLI) — executes tasks with full system access. The persistent CLI session provide"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sonichi/sutando",
+ "sha": "510117f7759f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的个人 AI 代理：语音/电话/会议替你干活并自我改进",
+  "review": "运行在用户 Mac 上的个人 AI 代理应用：通过语音、屏幕捕获、电话（Twilio）、Zoom/Google Meet、Telegram、Discord 等渠道接收指令，由 Claude Code 或 Codex CLI 会话作为核心代理执行任务（改文档、代打电话、参会做纪要、记笔记）。空闲时运行自主构建循环，监控自身健康并生成新功能代码。四个进程协作：Gemini Live 语音代理、通话服务器、Web 客户端与核心代理。声明为 Alpha 阶段，仅支持 macOS，核心以无头模式从源码启动，菜单栏应用需本地构建。",
+  "highlights": [
+   "多渠道接入：语音、电话、会议、Telegram、Discord、Web 共享同一代理与记忆",
+   "核心代理通过 Claude Code 或 Codex CLI 会话执行，无需按 token 计费的核心 API key",
+   "空闲时自主构建循环：健康检查、模式学习、生成缺失能力代码",
+   "3 级访问门控与 git-rules-guard 钩子对公开写操作弹出审批"
+  ],
+  "use_cases": [
+   "用语音指挥代理改文档、接会议、代打电话并汇报",
+   "外出时通过电话/Telegram 远程查看与操作自己的 Mac",
+   "让代理在空闲时自动维护并扩展自身功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/@sutando-ai",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    57,
+    59
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI代理",
+   "语音助手",
+   "自动化",
+   "自我改进",
+   "macOS自托管"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "coding-agent",
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: Voice, vision, screen, meetings, calls when I'm engaged. Learns my patterns, ships its own code when I'm not. Runs acros",
+   "L41: **Talk while you work.** You're looking at a doc. You say \"make this paragraph shorter.\" Sutando sees your screen, rewri",
+   "L82: - **Core agent** (Claude Code or Codex CLI) — executes tasks with full system access. The persistent CLI session provide"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

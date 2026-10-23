@@ -1,1 +1,76 @@
-{"fn": "shoumikchow/bbox-visualizer", "sha": "62f10739c2d1", "source": "readme", "identity": {"one_liner": "在图像上绘制并标注边界框的 Python 可视化库", "review": "Python 库 bbox-visualizer：读取图像与边界框坐标，绘制边界框并自动定位标签，省去手工计算标签位置。默认接受 Pascal VOC 格式坐标，通过 bbox_format 参数支持 COCO 与 YOLO 格式（内部统一转换为 VOC 再绘制）。提供标签置顶、T 型标签、旗帜标签、不透明叠加等多种标注样式及对应多目标变体；所有函数返回新图像且不修改输入。面向计算机视觉开发者与数据标注场景，pip 安装，附 examples/ 示例脚本。", "highlights": ["绘制边界框并自动定位标签，无需手工计算坐标", "支持 Pascal VOC/COCO/YOLO 三种边界框格式（bbox_format 参数）", "多种标签样式：置顶、T 型、旗帜、不透明叠加及多目标变体", "函数返回新图像，不修改输入图像"], "use_cases": ["目标检测结果的可视化与标注展示", "数据标注与检查时批量绘制多目标边界框", "将不同格式的检测框统一可视化"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["计算机视觉", "边界框可视化", "数据标注", "图像处理"], "domain": "计算机视觉/可视化工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: This package helps users draw bounding boxes around objects, without doing the clumsy math that you'd need to do for pos", "L12: By default the bounding box points are expected in Pascal VOC format: `(xmin, ymin, xmax, ymax)`. COCO and YOLO formats "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shoumikchow/bbox-visualizer",
+ "sha": "62f10739c2d1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在图像上绘制并标注边界框的 Python 可视化库",
+  "review": "Python 库 bbox-visualizer：读取图像与边界框坐标，绘制边界框并自动定位标签，省去手工计算标签位置。默认接受 Pascal VOC 格式坐标，通过 bbox_format 参数支持 COCO 与 YOLO 格式（内部统一转换为 VOC 再绘制）。提供标签置顶、T 型标签、旗帜标签、不透明叠加等多种标注样式及对应多目标变体；所有函数返回新图像且不修改输入。面向计算机视觉开发者与数据标注场景，pip 安装，附 examples/ 示例脚本。",
+  "highlights": [
+   "绘制边界框并自动定位标签，无需手工计算坐标",
+   "支持 Pascal VOC/COCO/YOLO 三种边界框格式（bbox_format 参数）",
+   "多种标签样式：置顶、T 型、旗帜、不透明叠加及多目标变体",
+   "函数返回新图像，不修改输入图像"
+  ],
+  "use_cases": [
+   "目标检测结果的可视化与标注展示",
+   "数据标注与检查时批量绘制多目标边界框",
+   "将不同格式的检测框统一可视化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "边界框可视化",
+   "数据标注",
+   "图像处理"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: This package helps users draw bounding boxes around objects, without doing the clumsy math that you'd need to do for pos",
+   "L12: By default the bounding box points are expected in Pascal VOC format: `(xmin, ymin, xmax, ymax)`. COCO and YOLO formats "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

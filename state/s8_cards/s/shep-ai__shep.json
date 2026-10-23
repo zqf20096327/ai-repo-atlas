@@ -1,1 +1,84 @@
-{"fn": "shep-ai/shep", "sha": "98cca11a7393", "source": "readme", "identity": {"one_liner": "并行编排多个 AI 编码 agent、自动产出 PR 的开源编排器", "review": "面向开发者的本地优先 agent 编排 CLI：把一行功能描述驱动为规格门（可选）、实现、提交、推送、CI 监视自动修复与草稿 PR。每个功能在独立 git worktree 中运行，支持 Claude Code、Codex CLI、Cursor CLI、Gemini CLI、Ollama 等十余种 agent/后端，可按功能随时切换。提供 localhost:4050 网页控制中心，数据以 SQLite 存于本地。默认对 agent 传入绕过权限标志，依赖 worktree 隔离、草稿 PR 与用户 CI 三层防护；默认开启可关闭的用量遥测。", "highlights": ["每功能独立 git worktree，并行多 agent 无分支冲突", "CI 失败自动读日志修复（默认 3 次重试），不合并未过 CI 的代码", "内置 7 种 agent CLI 与 OpenRouter/Together/Ollama/LLM Proxy 等 HTTP 后端", "可选 spec 驱动流水线：需求/研究/计划为 YAML 工件并带审批门"], "use_cases": ["同时推进多个功能请求，各自生成草稿 PR 统一审查", "从一句话描述新建应用骨架再持续加功能", "为已有仓库挂接任意 agent CLI 跑自动化开发流程"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent编排", "AI编码", "CLI工具", "自动化开发", "PR自动化"], "domain": "开发工具/AI 编码编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "openrouter", "together", "ollama"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: Shep is the open-source orchestrator for the autonomous development cycle. It runs parallel AI agents — Claude Code, Kim", "L70: |Agent|Binary|Support|", "L81: |Ollama|— (local HTTP)|Built-in — runs models locally|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shep-ai/shep",
+ "sha": "98cca11a7393",
+ "source": "readme",
+ "identity": {
+  "one_liner": "并行编排多个 AI 编码 agent、自动产出 PR 的开源编排器",
+  "review": "面向开发者的本地优先 agent 编排 CLI：把一行功能描述驱动为规格门（可选）、实现、提交、推送、CI 监视自动修复与草稿 PR。每个功能在独立 git worktree 中运行，支持 Claude Code、Codex CLI、Cursor CLI、Gemini CLI、Ollama 等十余种 agent/后端，可按功能随时切换。提供 localhost:4050 网页控制中心，数据以 SQLite 存于本地。默认对 agent 传入绕过权限标志，依赖 worktree 隔离、草稿 PR 与用户 CI 三层防护；默认开启可关闭的用量遥测。",
+  "highlights": [
+   "每功能独立 git worktree，并行多 agent 无分支冲突",
+   "CI 失败自动读日志修复（默认 3 次重试），不合并未过 CI 的代码",
+   "内置 7 种 agent CLI 与 OpenRouter/Together/Ollama/LLM Proxy 等 HTTP 后端",
+   "可选 spec 驱动流水线：需求/研究/计划为 YAML 工件并带审批门"
+  ],
+  "use_cases": [
+   "同时推进多个功能请求，各自生成草稿 PR 统一审查",
+   "从一句话描述新建应用骨架再持续加功能",
+   "为已有仓库挂接任意 agent CLI 跑自动化开发流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "AI编码",
+   "CLI工具",
+   "自动化开发",
+   "PR自动化"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "together",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Shep is the open-source orchestrator for the autonomous development cycle. It runs parallel AI agents — Claude Code, Kim",
+   "L70: |Agent|Binary|Support|",
+   "L81: |Ollama|— (local HTTP)|Built-in — runs models locally|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

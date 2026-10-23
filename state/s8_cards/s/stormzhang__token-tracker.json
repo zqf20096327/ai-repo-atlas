@@ -1,1 +1,83 @@
-{"fn": "stormzhang/token-tracker", "sha": "18339e3ceffd", "source": "readme", "identity": {"one_liner": "追踪 Claude Code/Codex/Kimi Code 本地 token 用量的 CLI 工具", "review": "Python 编写的终端工具，只读解析 Claude Code、Codex、Kimi Code 的本地会话记录（JSONL/SQLite），提供状态栏集成（Claude/Kimi 官方接口、Codex 用 Stop hook 伪状态栏）、实时侧边栏、GitHub 风格热力图与日/周/月成本报表。定价识别内置官方价并兼容 LiteLLM 在线定价，覆盖国内外主流模型，数据纯本地存储。需 Python 3.11+，一键脚本安装（uv/pipx/私有 venv 自动选择）。", "highlights": ["多 Agent（Claude Code/Codex/Kimi Code）统一只读追踪，按来源分组", "5h/7d 限额百分比监控 + 重置倒计时", "LiteLLM 在线定价 + 内置官方价双层兜底，含长上下文阶梯价与峰谷价", "tt sidebar 实时侧边栏：活跃会话总览、状态灯、点击跳转 iTerm2/tmux 窗格"], "use_cases": ["我在终端实时查看各 AI Agent 会话的 token 用量与限额状态", "按项目/模型/周期生成成本报表，分析订阅额度消耗", "用热力图回顾过去一年的 token 使用分布"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["开发者工具", "CLI", "token 用量统计", "终端 UI", "AI Agent 监控"], "domain": "开发者工具/终端应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "内置中国节假日谷价日历（L21）", "侧边栏内置北京时钟（L106）"]}, "trust": {"confidence": "mid", "evidence": ["L3: 本地 AI Agent Token 消耗追踪/分析工具，支持 **Claude Code**、**Codex** 和 **Kimi Code**。", "L15: - **多 Agent 统一追踪** — Claude Code + Codex + Kimi Code 统一读取，多 Agent 按来源分组", "L223: |Agent|路径|格式|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "stormzhang/token-tracker",
+ "sha": "18339e3ceffd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "追踪 Claude Code/Codex/Kimi Code 本地 token 用量的 CLI 工具",
+  "review": "Python 编写的终端工具，只读解析 Claude Code、Codex、Kimi Code 的本地会话记录（JSONL/SQLite），提供状态栏集成（Claude/Kimi 官方接口、Codex 用 Stop hook 伪状态栏）、实时侧边栏、GitHub 风格热力图与日/周/月成本报表。定价识别内置官方价并兼容 LiteLLM 在线定价，覆盖国内外主流模型，数据纯本地存储。需 Python 3.11+，一键脚本安装（uv/pipx/私有 venv 自动选择）。",
+  "highlights": [
+   "多 Agent（Claude Code/Codex/Kimi Code）统一只读追踪，按来源分组",
+   "5h/7d 限额百分比监控 + 重置倒计时",
+   "LiteLLM 在线定价 + 内置官方价双层兜底，含长上下文阶梯价与峰谷价",
+   "tt sidebar 实时侧边栏：活跃会话总览、状态灯、点击跳转 iTerm2/tmux 窗格"
+  ],
+  "use_cases": [
+   "我在终端实时查看各 AI Agent 会话的 token 用量与限额状态",
+   "按项目/模型/周期生成成本报表，分析订阅额度消耗",
+   "用热力图回顾过去一年的 token 使用分布"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者工具",
+   "CLI",
+   "token 用量统计",
+   "终端 UI",
+   "AI Agent 监控"
+  ],
+  "domain": "开发者工具/终端应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "内置中国节假日谷价日历（L21）",
+   "侧边栏内置北京时钟（L106）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 本地 AI Agent Token 消耗追踪/分析工具，支持 **Claude Code**、**Codex** 和 **Kimi Code**。",
+   "L15: - **多 Agent 统一追踪** — Claude Code + Codex + Kimi Code 统一读取，多 Agent 按来源分组",
+   "L223: |Agent|路径|格式|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

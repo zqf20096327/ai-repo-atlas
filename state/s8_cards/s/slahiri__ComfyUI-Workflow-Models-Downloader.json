@@ -1,1 +1,75 @@
-{"fn": "slahiri/ComfyUI-Workflow-Models-Downloader", "sha": "1b4d9f0648bf", "source": "readme", "identity": {"one_liner": "ComfyUI 扩展：扫描工作流并下载缺失模型", "review": "面向 ComfyUI 用户的自定义节点扩展：扫描当前工作流引用的模型，从工作流元数据、热门模型注册表、ComfyUI Manager 列表及 HuggingFace/CivitAI API 检索下载链接，支持一键下载、后台下载、aria2 加速与并行下载队列。另提供本地模型浏览器（未使用模型识别、用量追踪）、直接 URL 下载、模糊匹配（70% 阈值）与基于 Tavily 的模型来源搜索。支持 Checkpoints、LoRA、ControlNet 等多种模型类型，门控模型需配置 API key。", "highlights": ["扫描工作流自动检测缺失模型并多源检索下载 URL", "本地模型浏览器含未使用模型识别与全工作流用量追踪", "aria2 加速下载与 0-50 并行下载队列", "GGUF/fp16/量化变体自动检测与模糊匹配（70% 置信阈值）"], "use_cases": ["导入他人工作流后批量补齐缺失模型", "整理本地模型库并找出未被任何工作流使用的模型", "为来源未知的模型通过 Tavily 搜索下载源"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI", "模型管理", "工作流工具", "下载器"], "domain": "AI 工具链/模型管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L8: A powerful ComfyUI extension that automatically detects models in your workflow and helps download missing ones from Hug", "L63: - **Auto-detect models** - Scans your active workflow for all model references", "L91: Search for \"Workflow Models Downloader\" in ComfyUI Manager and click Install."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "slahiri/ComfyUI-Workflow-Models-Downloader",
+ "sha": "1b4d9f0648bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 扩展：扫描工作流并下载缺失模型",
+  "review": "面向 ComfyUI 用户的自定义节点扩展：扫描当前工作流引用的模型，从工作流元数据、热门模型注册表、ComfyUI Manager 列表及 HuggingFace/CivitAI API 检索下载链接，支持一键下载、后台下载、aria2 加速与并行下载队列。另提供本地模型浏览器（未使用模型识别、用量追踪）、直接 URL 下载、模糊匹配（70% 阈值）与基于 Tavily 的模型来源搜索。支持 Checkpoints、LoRA、ControlNet 等多种模型类型，门控模型需配置 API key。",
+  "highlights": [
+   "扫描工作流自动检测缺失模型并多源检索下载 URL",
+   "本地模型浏览器含未使用模型识别与全工作流用量追踪",
+   "aria2 加速下载与 0-50 并行下载队列",
+   "GGUF/fp16/量化变体自动检测与模糊匹配（70% 置信阈值）"
+  ],
+  "use_cases": [
+   "导入他人工作流后批量补齐缺失模型",
+   "整理本地模型库并找出未被任何工作流使用的模型",
+   "为来源未知的模型通过 Tavily 搜索下载源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI",
+   "模型管理",
+   "工作流工具",
+   "下载器"
+  ],
+  "domain": "AI 工具链/模型管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: A powerful ComfyUI extension that automatically detects models in your workflow and helps download missing ones from Hug",
+   "L63: - **Auto-detect models** - Scans your active workflow for all model references",
+   "L91: Search for \"Workflow Models Downloader\" in ComfyUI Manager and click Install."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

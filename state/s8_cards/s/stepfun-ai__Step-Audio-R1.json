@@ -1,1 +1,85 @@
-{"fn": "stepfun-ai/Step-Audio-R1", "sha": "9b8ba10a8223", "source": "readme", "identity": {"one_liner": "阶跃开源的音频推理语言模型：语音理解与推理生成", "review": "Step-Audio-R1 系列音频推理模型仓库，含 R1/R1.1/R1.5 三代：R1 基于音频编码器（Qwen2 audio encoder）+ LLM 解码器（Qwen2.5 32B），采用模态锚定推理蒸馏（MGRD）训练；R1.1 引入双脑架构实现边思考边输出的低延迟实时语音对话；R1.5 转向 RLHF 对齐。提供推理代码（定制 vLLM 后端，Docker 或源码编译部署）、模型权重（HuggingFace/ModelScope）、Gradio 在线 demo 及三个开源评测基准。运行需 NVIDIA CUDA GPU（4×L40S/H100 等）与 Linux、Python≥3.10；R1.5 推理代码尚未发布。", "highlights": ["MGRD 训练使推理锚定声学特征而非转写文本", "R1.1 双脑架构实现实时语音对话中的 Chain-of-Thought", "R1.5 采用 RLHF 对齐并开源三个评测基准", "提供定制 vLLM 的 Docker 镜像与源码编译两种部署方式"], "use_cases": ["在自有 GPU 集群上部署音频理解与语音对话推理服务", "用 step_caption/step_spqa 等基准评测音频语言模型", "复现音频推理模型的测试时计算扩展实验"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "arXiv:2511.15848", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音模型", "音频理解", "多模态LLM", "推理模型", "模型权重开源"], "domain": "多模态大模型/语音", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["Stepfun 阶跃星辰（中国公司）", "ModelScope 发布渠道", "微信群开发者群"]}, "trust": {"confidence": "mid", "evidence": ["L77: Step-Audio-R1 is the **first audio language model to successfully unlock test-time compute scaling**. It decisively solv", "L92: 3. **LLM Decoder:** We use **Qwen2.5 32B** as the core reasoning component. It directly takes the latent audio features ", "L98: ## Model Usage"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "stepfun-ai/Step-Audio-R1",
+ "sha": "9b8ba10a8223",
+ "source": "readme",
+ "identity": {
+  "one_liner": "阶跃开源的音频推理语言模型：语音理解与推理生成",
+  "review": "Step-Audio-R1 系列音频推理模型仓库，含 R1/R1.1/R1.5 三代：R1 基于音频编码器（Qwen2 audio encoder）+ LLM 解码器（Qwen2.5 32B），采用模态锚定推理蒸馏（MGRD）训练；R1.1 引入双脑架构实现边思考边输出的低延迟实时语音对话；R1.5 转向 RLHF 对齐。提供推理代码（定制 vLLM 后端，Docker 或源码编译部署）、模型权重（HuggingFace/ModelScope）、Gradio 在线 demo 及三个开源评测基准。运行需 NVIDIA CUDA GPU（4×L40S/H100 等）与 Linux、Python≥3.10；R1.5 推理代码尚未发布。",
+  "highlights": [
+   "MGRD 训练使推理锚定声学特征而非转写文本",
+   "R1.1 双脑架构实现实时语音对话中的 Chain-of-Thought",
+   "R1.5 采用 RLHF 对齐并开源三个评测基准",
+   "提供定制 vLLM 的 Docker 镜像与源码编译两种部署方式"
+  ],
+  "use_cases": [
+   "在自有 GPU 集群上部署音频理解与语音对话推理服务",
+   "用 step_caption/step_spqa 等基准评测音频语言模型",
+   "复现音频推理模型的测试时计算扩展实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv:2511.15848",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音模型",
+   "音频理解",
+   "多模态LLM",
+   "推理模型",
+   "模型权重开源"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Stepfun 阶跃星辰（中国公司）",
+   "ModelScope 发布渠道",
+   "微信群开发者群"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L77: Step-Audio-R1 is the **first audio language model to successfully unlock test-time compute scaling**. It decisively solv",
+   "L92: 3. **LLM Decoder:** We use **Qwen2.5 32B** as the core reasoning component. It directly takes the latent audio features ",
+   "L98: ## Model Usage"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

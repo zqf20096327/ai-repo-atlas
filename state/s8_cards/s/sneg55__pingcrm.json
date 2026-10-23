@@ -1,1 +1,80 @@
-{"fn": "sneg55/pingcrm", "sha": "6d4f5b7ea430", "source": "readme", "identity": {"one_liner": "可自托管的开源个人人脉 CRM，AI 生成跟进建议", "review": "个人人际关系管理 CRM，支持自托管与一键部署到 Railway/Render/Fly.io 等平台。同步 Gmail、Telegram、Twitter/X、LinkedIn、WhatsApp，将邮件、私信、提及等聚合为统一联系人时间线；提供 0-10 关系评分、跨平台身份合并、多来源生活事件检测（换工作、生日、简介变更），并用 Claude（Anthropic API）起草上下文跟进消息，但不自动发送。内置 MCP server，可从 Claude Desktop、Cursor 等 MCP 客户端查询 CRM。技术栈为 FastAPI+PostgreSQL+Redis+Celery 后端与 Next.js 前端，Docker Compose 部署，AGPL-3.0 许可。", "highlights": ["同步 Gmail/Telegram/Twitter/X/LinkedIn/WhatsApp 至统一联系人时间线", "关系评分（0-10）与多来源生活事件检测", "AI 起草跟进消息，不自动发送", "内置 MCP server，可被 Claude Desktop、Cursor 等 MCP 客户端查询"], "use_cases": ["管理个人人脉并看到哪些关系在变冷", "聚合多平台沟通记录到单一联系人视图", "让 AI 帮我起草有上下文的关系跟进消息"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CRM", "个人关系管理", "自托管", "AI助手", "多平台消息聚合"], "domain": "个人效率/关系管理工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: **Open-source personal networking CRM — AI-powered, self-hostable.**", "L9: Auto-syncs Gmail, Telegram, Twitter/X, LinkedIn, and WhatsApp. Detects life events. Drafts contextual follow-ups with AI", "L32: - **AI suggestions** — drafts contextual follow-ups, never sends automatically"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sneg55/pingcrm",
+ "sha": "6d4f5b7ea430",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可自托管的开源个人人脉 CRM，AI 生成跟进建议",
+  "review": "个人人际关系管理 CRM，支持自托管与一键部署到 Railway/Render/Fly.io 等平台。同步 Gmail、Telegram、Twitter/X、LinkedIn、WhatsApp，将邮件、私信、提及等聚合为统一联系人时间线；提供 0-10 关系评分、跨平台身份合并、多来源生活事件检测（换工作、生日、简介变更），并用 Claude（Anthropic API）起草上下文跟进消息，但不自动发送。内置 MCP server，可从 Claude Desktop、Cursor 等 MCP 客户端查询 CRM。技术栈为 FastAPI+PostgreSQL+Redis+Celery 后端与 Next.js 前端，Docker Compose 部署，AGPL-3.0 许可。",
+  "highlights": [
+   "同步 Gmail/Telegram/Twitter/X/LinkedIn/WhatsApp 至统一联系人时间线",
+   "关系评分（0-10）与多来源生活事件检测",
+   "AI 起草跟进消息，不自动发送",
+   "内置 MCP server，可被 Claude Desktop、Cursor 等 MCP 客户端查询"
+  ],
+  "use_cases": [
+   "管理个人人脉并看到哪些关系在变冷",
+   "聚合多平台沟通记录到单一联系人视图",
+   "让 AI 帮我起草有上下文的关系跟进消息"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CRM",
+   "个人关系管理",
+   "自托管",
+   "AI助手",
+   "多平台消息聚合"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Open-source personal networking CRM — AI-powered, self-hostable.**",
+   "L9: Auto-syncs Gmail, Telegram, Twitter/X, LinkedIn, and WhatsApp. Detects life events. Drafts contextual follow-ups with AI",
+   "L32: - **AI suggestions** — drafts contextual follow-ups, never sends automatically"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

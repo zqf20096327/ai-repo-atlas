@@ -1,1 +1,78 @@
-{"fn": "shubhamshnd/Open-Cluely", "sha": "118e279c2a82", "source": "readme", "identity": {"one_liner": "实时 AI 面试助手桌面应用：转录+截屏+Gemini 生成回答", "review": "基于 Electron 的 Windows 桌面应用，面向技术面试与在线会议场景：通过 AssemblyAI 流式转录对主机/麦克风双路音频，截取屏幕截图，调用 Gemini 生成回答；提供 Ask AI（全上下文回答）、Screen AI（截图解读）、Suggest（口语开场建议）、Notes（会议纪要整理）四种操作。支持多 Gemini API key 自动故障切换、每条消息的上下文开关，并内置移动端伴侣界面（端口 7823 的 Web 服务）。限制：需自备 Gemini 与 AssemblyAI API key，依赖原生模块（可能需 C++ 构建工具），README 提示仅在允许录制与 AI 协助的环境使用。", "highlights": ["双路音频实时转录（主机/麦克风，可分别开关）", "四种 AI 操作：Ask AI / Screen AI / Suggest / Notes", "多 Gemini API key 列表与配额错误自动切换", "内置移动端伴侣界面（局域网端口 7823，无需装 App）"], "use_cases": ["技术面试中实时获取问题解答与开场应答建议", "对屏幕上的题目或报错截图让 AI 给出解法", "会议结束后生成结构化纪要与行动项"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI 助手", "面试辅助", "实时转录", "桌面应用", "截屏理解"], "domain": "AI 桌面应用/生产力工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Open-Cluely is an Electron desktop copilot for technical interviews and live meetings. It combines AssemblyAI streaming ", "L7: Open source alternative for Cluely and Parakeetai. Your Real-Time AI Interview Assistant 😉", "L34: **What it does:** reads the entire context as one unified thread, silently corrects speech-to-text recognition errors, i"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shubhamshnd/Open-Cluely",
+ "sha": "118e279c2a82",
+ "source": "readme",
+ "identity": {
+  "one_liner": "实时 AI 面试助手桌面应用：转录+截屏+Gemini 生成回答",
+  "review": "基于 Electron 的 Windows 桌面应用，面向技术面试与在线会议场景：通过 AssemblyAI 流式转录对主机/麦克风双路音频，截取屏幕截图，调用 Gemini 生成回答；提供 Ask AI（全上下文回答）、Screen AI（截图解读）、Suggest（口语开场建议）、Notes（会议纪要整理）四种操作。支持多 Gemini API key 自动故障切换、每条消息的上下文开关，并内置移动端伴侣界面（端口 7823 的 Web 服务）。限制：需自备 Gemini 与 AssemblyAI API key，依赖原生模块（可能需 C++ 构建工具），README 提示仅在允许录制与 AI 协助的环境使用。",
+  "highlights": [
+   "双路音频实时转录（主机/麦克风，可分别开关）",
+   "四种 AI 操作：Ask AI / Screen AI / Suggest / Notes",
+   "多 Gemini API key 列表与配额错误自动切换",
+   "内置移动端伴侣界面（局域网端口 7823，无需装 App）"
+  ],
+  "use_cases": [
+   "技术面试中实时获取问题解答与开场应答建议",
+   "对屏幕上的题目或报错截图让 AI 给出解法",
+   "会议结束后生成结构化纪要与行动项"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 助手",
+   "面试辅助",
+   "实时转录",
+   "桌面应用",
+   "截屏理解"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Open-Cluely is an Electron desktop copilot for technical interviews and live meetings. It combines AssemblyAI streaming ",
+   "L7: Open source alternative for Cluely and Parakeetai. Your Real-Time AI Interview Assistant 😉",
+   "L34: **What it does:** reads the entire context as one unified thread, silently corrects speech-to-text recognition errors, i"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

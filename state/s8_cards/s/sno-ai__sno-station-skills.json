@@ -1,1 +1,79 @@
-{"fn": "sno-ai/sno-station-skills", "sha": "8e3701bea418", "source": "readme", "identity": {"one_liner": "给 Claude Code 与 Codex 安装31个协作技能，组成跨厂商开发团队", "review": "向 Claude Code、Codex 等 agent CLI 安装 31 个技能（22 个安装单元），为编码 agent 提供工程团队的协作习惯：跨厂商 peer review、配额不足时自动交接（handoff/rotate-agent）、带验证记录的工作单、晨间简报、以及每夜读取当日会话并提出改进规则的回顾循环（需用户 accept 才生效）。通过 shell 一键安装脚本部署，另支持 OpenClaw 与 Hermes Agent。技能在发布前经自测。", "highlights": ["31 个技能、22 个单元，覆盖审查/交接/报告/委派/回顾六类", "跨厂商 peer review：在另一厂商 CLI 的新会话中审查代码", "配额阈值触发的跨 agent 任务交接（heartbeat/rotate-agent/handoff）", "每夜回顾循环从会话中提炼规则，经用户确认后生效"], "use_cases": ["让 Claude Code 与 Codex 互相审查代码改动", "长任务过夜时在配额耗尽前自动换另一个 agent 接续", "为 agent 任务生成带验证记录的工作单与晨间简报"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "多agent协作", "代码审查", "coding agents"], "domain": "开发者工具/AI agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16: **Sno Station Skills fixes the team, not the model.** These are the skills", "L23: **Dual Brain: different roles, one team.** One agent carries out your task. The other reviews", "L48: Or do it yourself with one command. It installs the `sno` command and sets up Sno Station, which puts"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sno-ai/sno-station-skills",
+ "sha": "8e3701bea418",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 Claude Code 与 Codex 安装31个协作技能，组成跨厂商开发团队",
+  "review": "向 Claude Code、Codex 等 agent CLI 安装 31 个技能（22 个安装单元），为编码 agent 提供工程团队的协作习惯：跨厂商 peer review、配额不足时自动交接（handoff/rotate-agent）、带验证记录的工作单、晨间简报、以及每夜读取当日会话并提出改进规则的回顾循环（需用户 accept 才生效）。通过 shell 一键安装脚本部署，另支持 OpenClaw 与 Hermes Agent。技能在发布前经自测。",
+  "highlights": [
+   "31 个技能、22 个单元，覆盖审查/交接/报告/委派/回顾六类",
+   "跨厂商 peer review：在另一厂商 CLI 的新会话中审查代码",
+   "配额阈值触发的跨 agent 任务交接（heartbeat/rotate-agent/handoff）",
+   "每夜回顾循环从会话中提炼规则，经用户确认后生效"
+  ],
+  "use_cases": [
+   "让 Claude Code 与 Codex 互相审查代码改动",
+   "长任务过夜时在配额耗尽前自动换另一个 agent 接续",
+   "为 agent 任务生成带验证记录的工作单与晨间简报"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "多agent协作",
+   "代码审查",
+   "coding agents"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "code-review",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: **Sno Station Skills fixes the team, not the model.** These are the skills",
+   "L23: **Dual Brain: different roles, one team.** One agent carries out your task. The other reviews",
+   "L48: Or do it yourself with one command. It installs the `sno` command and sets up Sno Station, which puts"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

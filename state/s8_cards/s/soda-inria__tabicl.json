@@ -1,1 +1,79 @@
-{"fn": "soda-inria/tabicl", "sha": "0066369e2849", "source": "readme", "identity": {"one_liner": "表格数据基础模型：零样本分类/回归/时序预测", "review": "TabICLv2 是开源表格基础模型（ICML 2026），提供 scikit-learn 兼容的 TabICLClassifier/Regressor/Forecaster，通过预训练 Transformer 在单次前向传播中同时完成 fit 与 predict，无需超参调优。支持 KV 缓存加速重复推理、CPU/磁盘卸载扩展至更大数据集、SHAP 可解释性、单数据集微调（AdamW、多 GPU）及时序预测；预训练代码与合成数据生成脚本开源。基准覆盖 300–48K 训练样本、约 2–100 列，特征数大幅超出 100 可能性能下降。以 pip 包形式提供，H100 上 5 万样本/100 特征数据集 fit+predict 低于 10 秒。", "highlights": ["单次前向传播完成 fit 与 predict，无需超参调优", "scikit-learn 兼容接口，pip 安装", "KV 缓存加速同一训练数据的重复推理", "微调、SHAP 解释、时序预测、预训练代码均可选安装"], "use_cases": ["跳过调参直接对表格数据做分类或回归", "在单个重要数据集上快速微调模型", "零样本时序预测与模型解释分析"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["表格数据", "基础模型", "in-context learning", "机器学习库", "时序预测"], "domain": "机器学习/表格数据", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: This repository is the official implementation of **TabICLv2** (ICML 2026)", "L264: TabICL is a tabular foundation model (like TabPFN).", "L267: `y_pred = model(X_train, y_train, X_test)` (this is called inside `predict()`)."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "soda-inria/tabicl",
+ "sha": "0066369e2849",
+ "source": "readme",
+ "identity": {
+  "one_liner": "表格数据基础模型：零样本分类/回归/时序预测",
+  "review": "TabICLv2 是开源表格基础模型（ICML 2026），提供 scikit-learn 兼容的 TabICLClassifier/Regressor/Forecaster，通过预训练 Transformer 在单次前向传播中同时完成 fit 与 predict，无需超参调优。支持 KV 缓存加速重复推理、CPU/磁盘卸载扩展至更大数据集、SHAP 可解释性、单数据集微调（AdamW、多 GPU）及时序预测；预训练代码与合成数据生成脚本开源。基准覆盖 300–48K 训练样本、约 2–100 列，特征数大幅超出 100 可能性能下降。以 pip 包形式提供，H100 上 5 万样本/100 特征数据集 fit+predict 低于 10 秒。",
+  "highlights": [
+   "单次前向传播完成 fit 与 predict，无需超参调优",
+   "scikit-learn 兼容接口，pip 安装",
+   "KV 缓存加速同一训练数据的重复推理",
+   "微调、SHAP 解释、时序预测、预训练代码均可选安装"
+  ],
+  "use_cases": [
+   "跳过调参直接对表格数据做分类或回归",
+   "在单个重要数据集上快速微调模型",
+   "零样本时序预测与模型解释分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "表格数据",
+   "基础模型",
+   "in-context learning",
+   "机器学习库",
+   "时序预测"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This repository is the official implementation of **TabICLv2** (ICML 2026)",
+   "L264: TabICL is a tabular foundation model (like TabPFN).",
+   "L267: `y_pred = model(X_train, y_train, X_test)` (this is called inside `predict()`)."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

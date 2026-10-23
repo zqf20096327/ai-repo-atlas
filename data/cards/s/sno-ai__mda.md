@@ -33,7 +33,7 @@ MDA 是一个开放规范加 TypeScript 参考实现（npm 包 @markdown-ai/cli�
 
 ## 场景标签
 
- · 领域:AI agent 工具链/文档规范
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

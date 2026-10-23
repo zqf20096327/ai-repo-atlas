@@ -1,1 +1,79 @@
-{"fn": "smixs/creative-director-skill", "sha": "5ad62f994d2c", "source": "readme", "identity": {"one_liner": "广告创意方法论技能包：驱动 AI agent 产出并迭代广告创意", "review": "面向 Claude Code 等 70+ AI agent 的创意指导技能（SKILL.md 及 markdown 文件集）：输入任意格式 brief，执行 5 阶段流水线（intake→insight→ideation→evaluate→articulate），调用 20+ 结构化创意方法（SIT、TRIZ、SCAMPER 等）生成 8-12 个概念，按 6 项加权标准与 HumanKind/Grey Scale 评分并递归改进；内置 1950-2025 年 571 个获奖广告案例库（17 轴标签、18 种模式）用于原创性饱和度校验。附 3 个 uv 运行的 Python 维护脚本。核心逻辑为 markdown，无平台锁定。", "highlights": ["5 阶段流水线，evaluate 阶段循环直至达标", "571 个获奖案例库（17 轴标签、18 种模式 P01-P18）做经验性原创性封顶", "20+ 方法论分 6 组轮换（结构/联想/反转/扰动/数量/附加）", "3 套并行评分系统：6 项加权标准、HumanKind、Grey Scale"], "use_cases": ["让 AI agent 按广告公司流程从 brief 产出可交付的创意概念", "对已有创意做基于案例库的原创性与质量评估", "在品牌/广告层面进行消费者洞察挖掘"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://cd-skill.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "广告创意", "方法论", "Claude生态", "头脑风暴"], "domain": "广告/创意方法论", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L25: An AI creative director that generates advertising concepts using world-class methodologies, scores them against Cannes/", "L78: ├── SKILL.md                                  # Core skill — phase router + 5-phase workflow", "L214: ### Other AI Agents (Cursor, Windsurf, GPT, Gemini)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "smixs/creative-director-skill",
+ "sha": "5ad62f994d2c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "广告创意方法论技能包：驱动 AI agent 产出并迭代广告创意",
+  "review": "面向 Claude Code 等 70+ AI agent 的创意指导技能（SKILL.md 及 markdown 文件集）：输入任意格式 brief，执行 5 阶段流水线（intake→insight→ideation→evaluate→articulate），调用 20+ 结构化创意方法（SIT、TRIZ、SCAMPER 等）生成 8-12 个概念，按 6 项加权标准与 HumanKind/Grey Scale 评分并递归改进；内置 1950-2025 年 571 个获奖广告案例库（17 轴标签、18 种模式）用于原创性饱和度校验。附 3 个 uv 运行的 Python 维护脚本。核心逻辑为 markdown，无平台锁定。",
+  "highlights": [
+   "5 阶段流水线，evaluate 阶段循环直至达标",
+   "571 个获奖案例库（17 轴标签、18 种模式 P01-P18）做经验性原创性封顶",
+   "20+ 方法论分 6 组轮换（结构/联想/反转/扰动/数量/附加）",
+   "3 套并行评分系统：6 项加权标准、HumanKind、Grey Scale"
+  ],
+  "use_cases": [
+   "让 AI agent 按广告公司流程从 brief 产出可交付的创意概念",
+   "对已有创意做基于案例库的原创性与质量评估",
+   "在品牌/广告层面进行消费者洞察挖掘"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://cd-skill.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "广告创意",
+   "方法论",
+   "Claude生态",
+   "头脑风暴"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: An AI creative director that generates advertising concepts using world-class methodologies, scores them against Cannes/",
+   "L78: ├── SKILL.md                                  # Core skill — phase router + 5-phase workflow",
+   "L214: ### Other AI Agents (Cursor, Windsurf, GPT, Gemini)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,78 @@
-{"fn": "skyzh/vector-db-from-scratch", "sha": "a2a0a5fa04ba", "source": "readme", "identity": {"one_liner": "Rust 实战课程：从零构建内存向量数据库并接入 SQL", "review": "面向系统与数据库工程师的动手课程：用 Rust 在六天内容中分步构建一个小型内存向量数据库，涵盖 Arrow 内存表、DataFusion 优化器规则、IVFFlat/NSW/HNSW/残差 IVF-PQ 索引、索引创建与查询计划对比的 SQL 命令，并在 SIFT1M 上共享 recall/构建时间/搜索延迟基准。课程聚焦算法到数据库特性的边界，提供入门代码、测试与完整参考实现。此前的 C++/BusTub 版本已废弃且不再维护。", "highlights": ["六天渐进式 Rust 课程，每天新增一项数据库或索引能力", "构建 IVFFlat、NSW、HNSW、残差 IVF-PQ 四类索引", "通过 DataFusion 从 SQL 使用索引并对比查询计划", "SIFT1M 上的 recall、构建时间与搜索延迟共享基准"], "use_cases": ["系统/数据库工程师学习向量检索算法到数据库特性的实现路径", "通过入门代码与检查点逐步完成可运行的向量数据库", "对比近似索引与精确检索的结果差异"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程/课程", "向量检索", "数据库系统", "Rust", "SQL"], "domain": "数据库系统/向量检索教学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Vector Database from Scratch is a hands-on course for systems and database engineers. Build a small in-memory vector", "L25: The guided Rust course has six days. Each day adds one"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "skyzh/vector-db-from-scratch",
+ "sha": "a2a0a5fa04ba",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 实战课程：从零构建内存向量数据库并接入 SQL",
+  "review": "面向系统与数据库工程师的动手课程：用 Rust 在六天内容中分步构建一个小型内存向量数据库，涵盖 Arrow 内存表、DataFusion 优化器规则、IVFFlat/NSW/HNSW/残差 IVF-PQ 索引、索引创建与查询计划对比的 SQL 命令，并在 SIFT1M 上共享 recall/构建时间/搜索延迟基准。课程聚焦算法到数据库特性的边界，提供入门代码、测试与完整参考实现。此前的 C++/BusTub 版本已废弃且不再维护。",
+  "highlights": [
+   "六天渐进式 Rust 课程，每天新增一项数据库或索引能力",
+   "构建 IVFFlat、NSW、HNSW、残差 IVF-PQ 四类索引",
+   "通过 DataFusion 从 SQL 使用索引并对比查询计划",
+   "SIFT1M 上的 recall、构建时间与搜索延迟共享基准"
+  ],
+  "use_cases": [
+   "系统/数据库工程师学习向量检索算法到数据库特性的实现路径",
+   "通过入门代码与检查点逐步完成可运行的向量数据库",
+   "对比近似索引与精确检索的结果差异"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/课程",
+   "向量检索",
+   "数据库系统",
+   "Rust",
+   "SQL"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Vector Database from Scratch is a hands-on course for systems and database engineers. Build a small in-memory vector",
+   "L25: The guided Rust course has six days. Each day adds one"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

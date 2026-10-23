@@ -34,7 +34,7 @@ Strands Evals SDK 是面向 AI agent 和 LLM 应用的评测框架，提供输�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/评测
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

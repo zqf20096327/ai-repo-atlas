@@ -1,1 +1,78 @@
-{"fn": "smixs/humanizer-ru", "sha": "3e5d9f412cd9", "source": "readme", "identity": {"one_liner": "俄语文本 AI 痕迹去除与检测的 agent 技能（SKILL.md）", "review": "面向 Claude Code、Codex、OpenClaw、Hermes 等 AI agent 的技能：对俄语文本按 38 个模式的参考手册查找 AI 生成痕迹（官腔、ChatGPT 套话、破折号、粘贴残留服务标记等），仅修正命中的问题，不动事实与数字，最后用 Python 脚本 lint.py 校验硬性禁令。另提供无修改的检测模式，返回带引文的证据清单与判定。无 Python 时可按手动清单运行；含 19 个 eval 场景、127 项检查。通过 npx skills 安装或 git clone 手动安装。", "highlights": ["38 个模式参考手册定位俄语 AI 文本痕迹，仅修改命中处", "检测模式返回带引文的证据清单与 AI 写作判定", "lint.py 硬性禁令校验，可捕获聊天机器人粘贴标记（如 utm_source=chatgpt.com）", "19 个 eval 场景共 127 项检查，覆盖事实保全与误改陷阱"], "use_cases": ["把俄语 AI 生成文本改写得更接近人写", "检验一段俄语文本是否疑似 AI 生成并给出证据", "在编码 agent 中通过 /humanizer-ru 命令复用该流程"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "文本改写/humanizer", "AI文本检测", "俄语", "SKILL.md生态"], "domain": "自然语言处理/内容创作工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Скилл для AI-агентов: Claude Code, Codex, OpenClaw, Hermes и любых других, читающих SKILL.md. Берёт русский текст после ", "L9: Работает в три шага. Сначала ищет проблемы по справочнику из 38 паттернов, потом чинит только найденное, в конце гоняет ", "L66: 19 eval-сценариев, 127 проверок: сохранность фактов и цифр, ловушки на замену слопа синонимами, чистые тексты, которые н"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "smixs/humanizer-ru",
+ "sha": "3e5d9f412cd9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "俄语文本 AI 痕迹去除与检测的 agent 技能（SKILL.md）",
+  "review": "面向 Claude Code、Codex、OpenClaw、Hermes 等 AI agent 的技能：对俄语文本按 38 个模式的参考手册查找 AI 生成痕迹（官腔、ChatGPT 套话、破折号、粘贴残留服务标记等），仅修正命中的问题，不动事实与数字，最后用 Python 脚本 lint.py 校验硬性禁令。另提供无修改的检测模式，返回带引文的证据清单与判定。无 Python 时可按手动清单运行；含 19 个 eval 场景、127 项检查。通过 npx skills 安装或 git clone 手动安装。",
+  "highlights": [
+   "38 个模式参考手册定位俄语 AI 文本痕迹，仅修改命中处",
+   "检测模式返回带引文的证据清单与 AI 写作判定",
+   "lint.py 硬性禁令校验，可捕获聊天机器人粘贴标记（如 utm_source=chatgpt.com）",
+   "19 个 eval 场景共 127 项检查，覆盖事实保全与误改陷阱"
+  ],
+  "use_cases": [
+   "把俄语 AI 生成文本改写得更接近人写",
+   "检验一段俄语文本是否疑似 AI 生成并给出证据",
+   "在编码 agent 中通过 /humanizer-ru 命令复用该流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "文本改写/humanizer",
+   "AI文本检测",
+   "俄语",
+   "SKILL.md生态"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Скилл для AI-агентов: Claude Code, Codex, OpenClaw, Hermes и любых других, читающих SKILL.md. Берёт русский текст после ",
+   "L9: Работает в три шага. Сначала ищет проблемы по справочнику из 38 паттернов, потом чинит только найденное, в конце гоняет ",
+   "L66: 19 eval-сценариев, 127 проверок: сохранность фактов и цифр, ловушки на замену слопа синонимами, чистые тексты, которые н"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,74 @@
-{"fn": "stacklok/toolhive-studio", "sha": "6977b1899a46", "source": "readme", "identity": {"one_liner": "桌面应用：安全容器化安装、运行与管理 MCP 服务器", "review": "ToolHive 的桌面 UI，面向需要部署 MCP 服务器的用户：以图形化工作流发现、安装并启动任意 MCP 服务器，每个服务器运行在独立受限容器中，通过 HTTP/SSE 代理供 MCP 客户端连接，并自动配置 GitHub Copilot、Cursor、Claude Code 等客户端。密钥安全托管，不落明文。支持 Windows/macOS/Linux，另有 CLI 与 Kubernetes Operator 形态。默认启用 Sentry 遥测（错误、性能、使用模式），可在设置中关闭。", "highlights": ["图形化工作流一键启动任意 MCP 服务器", "每个 MCP 服务器运行在独立隔离容器，密钥安全托管", "通过 HTTP/SSE 代理供 MCP 客户端连接", "自动配置 GitHub Copilot、Cursor、Claude Code 等客户端"], "use_cases": ["在桌面上一键安装并运行 MCP 服务器", "以容器隔离方式降低运行 MCP 服务器的安全风险", "将 MCP 服务器接入 Cursor、Claude Code 等客户端"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "桌面工具", "容器化", "AI基础设施"], "domain": "AI 基础设施/MCP 管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: ToolHive is the easiest way to discover, deploy, and manage MCP servers. Launch", "L48: Under the hood, ToolHive runs each MCP server in its own secure container and"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "stacklok/toolhive-studio",
+ "sha": "6977b1899a46",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面应用：安全容器化安装、运行与管理 MCP 服务器",
+  "review": "ToolHive 的桌面 UI，面向需要部署 MCP 服务器的用户：以图形化工作流发现、安装并启动任意 MCP 服务器，每个服务器运行在独立受限容器中，通过 HTTP/SSE 代理供 MCP 客户端连接，并自动配置 GitHub Copilot、Cursor、Claude Code 等客户端。密钥安全托管，不落明文。支持 Windows/macOS/Linux，另有 CLI 与 Kubernetes Operator 形态。默认启用 Sentry 遥测（错误、性能、使用模式），可在设置中关闭。",
+  "highlights": [
+   "图形化工作流一键启动任意 MCP 服务器",
+   "每个 MCP 服务器运行在独立隔离容器，密钥安全托管",
+   "通过 HTTP/SSE 代理供 MCP 客户端连接",
+   "自动配置 GitHub Copilot、Cursor、Claude Code 等客户端"
+  ],
+  "use_cases": [
+   "在桌面上一键安装并运行 MCP 服务器",
+   "以容器隔离方式降低运行 MCP 服务器的安全风险",
+   "将 MCP 服务器接入 Cursor、Claude Code 等客户端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "桌面工具",
+   "容器化",
+   "AI基础设施"
+  ],
+  "domain": "AI 基础设施/MCP 管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: ToolHive is the easiest way to discover, deploy, and manage MCP servers. Launch",
+   "L48: Under the hood, ToolHive runs each MCP server in its own secure container and"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

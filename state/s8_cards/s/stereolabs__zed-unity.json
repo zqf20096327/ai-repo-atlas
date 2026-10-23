@@ -1,1 +1,79 @@
-{"fn": "stereolabs/zed-unity", "sha": "afab688ebe8e", "source": "readme", "identity": {"one_liner": "将 ZED 相机功能带入 Unity 的官方插件", "review": "Stereolabs 官方维护的 Unity 插件，把 ZED 立体相机的深度感知、AR/MR、空间建图、点云等能力以 prefab、辅助脚本和示例场景的形式提供给 Unity 开发者。功能包含身体追踪、物体检测、平面检测、ArUco 标记检测、绿幕抠像等（依赖 ZED SDK 4.1 相应模块）。要求 Windows 10/11 或 Ubuntu 20/22、Unity 2021.3+，GPU 需 CUDA 10.2 能力及以上（推荐 GTX 1060+），支持 OpenVR/Oculus HMD。", "highlights": ["身体追踪、物体检测、平面检测、空间建图等 prefab 与示例场景", "通过 Unity Package Manager 以 git URL 安装，含可复用示例脚本", "支持 OpenVR/Oculus HMD 的 AR/VR 场景", "支持 URP 与 HDRP 渲染管线（见文档）"], "use_cases": ["在 Unity 中开发 ZED 相机驱动的 AR/MR 应用", "做基于身体追踪的 3D 化身动画或动捕", "用 ZED 深度数据在 Unity 中做点云可视化与空间建图"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Unity 插件", "立体相机/深度感知", "AR/VR", "身体追踪", "空间建图"], "domain": "计算机视觉/AR-VR 开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This package brings the features of the ZED cameras into Unity. It comes with prefabs to make adding advanced features t", "L52: - Body Tracking: Animate a 3D avatar based on real-people movements using the ZED SDK Body Tracking module.", "L58: - Object Detection: Detect objects and people bounding boxes using the ZED SDK Object Detection module."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "stereolabs/zed-unity",
+ "sha": "afab688ebe8e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 ZED 相机功能带入 Unity 的官方插件",
+  "review": "Stereolabs 官方维护的 Unity 插件，把 ZED 立体相机的深度感知、AR/MR、空间建图、点云等能力以 prefab、辅助脚本和示例场景的形式提供给 Unity 开发者。功能包含身体追踪、物体检测、平面检测、ArUco 标记检测、绿幕抠像等（依赖 ZED SDK 4.1 相应模块）。要求 Windows 10/11 或 Ubuntu 20/22、Unity 2021.3+，GPU 需 CUDA 10.2 能力及以上（推荐 GTX 1060+），支持 OpenVR/Oculus HMD。",
+  "highlights": [
+   "身体追踪、物体检测、平面检测、空间建图等 prefab 与示例场景",
+   "通过 Unity Package Manager 以 git URL 安装，含可复用示例脚本",
+   "支持 OpenVR/Oculus HMD 的 AR/VR 场景",
+   "支持 URP 与 HDRP 渲染管线（见文档）"
+  ],
+  "use_cases": [
+   "在 Unity 中开发 ZED 相机驱动的 AR/MR 应用",
+   "做基于身体追踪的 3D 化身动画或动捕",
+   "用 ZED 深度数据在 Unity 中做点云可视化与空间建图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Unity 插件",
+   "立体相机/深度感知",
+   "AR/VR",
+   "身体追踪",
+   "空间建图"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This package brings the features of the ZED cameras into Unity. It comes with prefabs to make adding advanced features t",
+   "L52: - Body Tracking: Animate a 3D avatar based on real-people movements using the ZED SDK Body Tracking module.",
+   "L58: - Object Detection: Detect objects and people bounding boxes using the ZED SDK Object Detection module."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Adobe Research 论文《3D Ken Burns Effect from a Single Image》的参考实�
 
 ## 场景标签
 
- · 领域:计算机视觉/图像动画
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

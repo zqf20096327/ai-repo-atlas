@@ -1,1 +1,87 @@
-{"fn": "sou350121/VLA-Handbook", "sha": "fe824f2da664", "source": "readme", "identity": {"one_liner": "面向算法工程师的全中文 VLA 学习/面试知识库（754 篇）", "review": "面向进入 VLA（Vision-Language-Action）领域的算法工程师与求职者的中文知识库：整理从论文到复现的入口、参数口径与部署经验，标注来源与未验证项。内容由自动 pipeline（照见 Pulsar）按固定排程抓取论文、评分并生成深度解析，另收录中英文社区实战笔记、GitHub Issues 工程经验蒸馏、双周报告、行业雷达与面试题库；提供 RSS 订阅与可插拔的 AI Skill。内容以自动生成为主，核验状态按条目标注。", "highlights": ["754 篇理论文档按 10 个主题组织（vla-core/foundation/world-model 等）", "每日自动抓取论文、评分（⚡/🔧/📖）并生成深度解析", "中英文社区与 GitHub Issues 部署经验按条目保留来源和时间", "14 份面试题库 + 18 份双周报告 + 11 份公司档案"], "use_cases": ["系统学习 VLA 领域理论与工程细节，准备面试", "复现论文时查找入口脚本、超参口径与踩坑经验", "跟踪机器人/具身智能行业的融资与产品动态", "通过 RSS 订阅每日新论文解读与周报"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["知识库", "具身智能", "VLA", "面试准备", "论文追踪"], "domain": "机器人/具身智能知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "小红书中文社区实战笔记", "北京时间排程", "面向中文求职/面试场景"]}, "trust": {"confidence": "mid", "evidence": ["L43: ### 全中文 · 工程实战导向的 VLA 知识库", "L46: 这个 Handbook 做一件事：**整理从论文到复现的入口、参数口径与部署经验，并标出来源、未验证项和适用边界。**", "L48: > **754 篇理论文档**（10 个主题目录） · 中英文社区实战笔记 · GitHub Issues 工程经验 · **18 份双周前沿报告 + 15 份反思** · 行业情报雷达 · 固定排程采集、评分与深度解析"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sou350121/VLA-Handbook",
+ "sha": "fe824f2da664",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向算法工程师的全中文 VLA 学习/面试知识库（754 篇）",
+  "review": "面向进入 VLA（Vision-Language-Action）领域的算法工程师与求职者的中文知识库：整理从论文到复现的入口、参数口径与部署经验，标注来源与未验证项。内容由自动 pipeline（照见 Pulsar）按固定排程抓取论文、评分并生成深度解析，另收录中英文社区实战笔记、GitHub Issues 工程经验蒸馏、双周报告、行业雷达与面试题库；提供 RSS 订阅与可插拔的 AI Skill。内容以自动生成为主，核验状态按条目标注。",
+  "highlights": [
+   "754 篇理论文档按 10 个主题组织（vla-core/foundation/world-model 等）",
+   "每日自动抓取论文、评分（⚡/🔧/📖）并生成深度解析",
+   "中英文社区与 GitHub Issues 部署经验按条目保留来源和时间",
+   "14 份面试题库 + 18 份双周报告 + 11 份公司档案"
+  ],
+  "use_cases": [
+   "系统学习 VLA 领域理论与工程细节，准备面试",
+   "复现论文时查找入口脚本、超参口径与踩坑经验",
+   "跟踪机器人/具身智能行业的融资与产品动态",
+   "通过 RSS 订阅每日新论文解读与周报"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识库",
+   "具身智能",
+   "VLA",
+   "面试准备",
+   "论文追踪"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "小红书中文社区实战笔记",
+   "北京时间排程",
+   "面向中文求职/面试场景"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L43: ### 全中文 · 工程实战导向的 VLA 知识库",
+   "L46: 这个 Handbook 做一件事：**整理从论文到复现的入口、参数口径与部署经验，并标出来源、未验证项和适用边界。**",
+   "L48: > **754 篇理论文档**（10 个主题目录） · 中英文社区实战笔记 · GitHub Issues 工程经验 · **18 份双周前沿报告 + 15 份反思** · 行业情报雷达 · 固定排程采集、评分与深度解析"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

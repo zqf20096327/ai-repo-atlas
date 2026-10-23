@@ -32,7 +32,7 @@ Smithers 是一个 agentic 工作流框架，面向通过 TypeScript 配置文�
 
 ## 场景标签
 
- · 领域:开发工具/Agent 工作流
+`Agent 框架` `多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

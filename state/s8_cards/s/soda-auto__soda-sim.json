@@ -1,1 +1,76 @@
-{"fn": "soda-auto/soda-sim", "sha": "6ec1807c48ae", "source": "readme", "identity": {"one_liner": "面向自动驾驶/ADAS 开发验证的车辆仿真器（UnrealEngine 插件）", "review": "SODA.AUTO 团队开发的车辆与机器人仿真器，以 UnrealEngine 5.4 插件形式提供，支持 Windows 与 Linux。它在传感器、车辆系统、电子控制单元等原子组件层面模拟车辆，用于 AD/ADAS 的开发与整车功能的虚拟验证。配套 SODA Validation Library（含 AI 场景生成器与场景混合器，需申请访问）。生态包含 ROS2 支持包、自定义 ROS 消息、HTTP 远程控制 Python 客户端等仓库。安装方式为克隆到 UE 插件目录（含 LFS 文件）。版权归 SODA.AUTO UK LTD，许可证详见 LICENSE 文件。", "highlights": ["以传感器/车辆系统/ECU 原子组件层面仿真车辆", "作为 UnrealEngine 5.4 插件运行，支持 Windows/Linux", "生态含 ROS2 支持、自定义 ROS 消息与 HTTP 远程控制客户端", "配套 SODA Validation Library（AI 场景生成/混合，需申请访问）"], "use_cases": ["在虚拟环境中开发与验证 AD/ADAS 功能", "为整车功能做仿真验证与认证前的测试", "结合 ROS2 搭建自动驾驶仿真与测试流程"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["自动驾驶仿真", "ADAS", "UnrealEngine", "机器人", "硬件在环"], "domain": "自动驾驶/仿真", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: SODA.Sim is designed for seamless software validation of any vehicle, covering the entire process from initial concept t", "L5: By simulating vehicles at the level of atomic components, such as sensors, vehicle systems, and electronic control units", "L22: This repository is plugin for UnrealEngine. You can clone this repo to the UnrealEngine's plugins folder or to the proje"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "soda-auto/soda-sim",
+ "sha": "6ec1807c48ae",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向自动驾驶/ADAS 开发验证的车辆仿真器（UnrealEngine 插件）",
+  "review": "SODA.AUTO 团队开发的车辆与机器人仿真器，以 UnrealEngine 5.4 插件形式提供，支持 Windows 与 Linux。它在传感器、车辆系统、电子控制单元等原子组件层面模拟车辆，用于 AD/ADAS 的开发与整车功能的虚拟验证。配套 SODA Validation Library（含 AI 场景生成器与场景混合器，需申请访问）。生态包含 ROS2 支持包、自定义 ROS 消息、HTTP 远程控制 Python 客户端等仓库。安装方式为克隆到 UE 插件目录（含 LFS 文件）。版权归 SODA.AUTO UK LTD，许可证详见 LICENSE 文件。",
+  "highlights": [
+   "以传感器/车辆系统/ECU 原子组件层面仿真车辆",
+   "作为 UnrealEngine 5.4 插件运行，支持 Windows/Linux",
+   "生态含 ROS2 支持、自定义 ROS 消息与 HTTP 远程控制客户端",
+   "配套 SODA Validation Library（AI 场景生成/混合，需申请访问）"
+  ],
+  "use_cases": [
+   "在虚拟环境中开发与验证 AD/ADAS 功能",
+   "为整车功能做仿真验证与认证前的测试",
+   "结合 ROS2 搭建自动驾驶仿真与测试流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自动驾驶仿真",
+   "ADAS",
+   "UnrealEngine",
+   "机器人",
+   "硬件在环"
+  ],
+  "domain": "自动驾驶/仿真",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: SODA.Sim is designed for seamless software validation of any vehicle, covering the entire process from initial concept t",
+   "L5: By simulating vehicles at the level of atomic components, such as sensors, vehicle systems, and electronic control units",
+   "L22: This repository is plugin for UnrealEngine. You can clone this repo to the UnrealEngine's plugins folder or to the proje"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

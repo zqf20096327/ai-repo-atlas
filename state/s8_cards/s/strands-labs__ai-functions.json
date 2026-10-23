@@ -1,1 +1,81 @@
-{"fn": "strands-labs/ai-functions", "sha": "5a9732dd4183", "source": "readme", "identity": {"one_liner": "Python 库：用 AI agent 执行的函数与自校验工作流", "review": "基于 Strands 的 Python 库，提出『AI Function』抽象：函数签名与 docstring 由库转为 prompt，交由 agent 执行并返回带类型校验的原生 Python 对象。核心机制包括 post-conditions 自纠错循环、Lean 证明的可验证模块、有状态 AI Thread、多线程协调的 agent 团队、跨进程/机器的分布式运行，以及按美元声明价值与 token 成本的模型选择。支持所有 Strands 模型提供方，默认 Amazon Bedrock；内置 Claude Code、Kiro、Codex 会话包装器。", "highlights": ["post-conditions 校验失败自动重新提示，直到通过或达上限", "experimental.verified 模块：Lean 检查证明，ai_compile 可生成免模型调用的机器码实现", "AI Thread 协议使外部运行时（Claude Code/Kiro/Codex）作为线程加入团队", "coordinator/client 分离实现跨进程分布式执行"], "use_cases": ["把重复任务声明为函数，由 agent 执行并自动校验结果", "构建互相发现与委派的多 agent 工作流", "在数据管道中让 agent 处理任意格式文件返回 DataFrame"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent框架", "多智能体", "Python库", "工作流编排", "LLM应用开发"], "domain": "LLM 基础设施/Agent 框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["bedrock", "anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L23: Strands AI Functions is a Python library built around a new abstraction: functions that behave like standard Python func", "L43: AI Functions supports all Strands model providers and defaults to Amazon Bedrock (see Configuring Credentials). To use a"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "strands-labs/ai-functions",
+ "sha": "5a9732dd4183",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 库：用 AI agent 执行的函数与自校验工作流",
+  "review": "基于 Strands 的 Python 库，提出『AI Function』抽象：函数签名与 docstring 由库转为 prompt，交由 agent 执行并返回带类型校验的原生 Python 对象。核心机制包括 post-conditions 自纠错循环、Lean 证明的可验证模块、有状态 AI Thread、多线程协调的 agent 团队、跨进程/机器的分布式运行，以及按美元声明价值与 token 成本的模型选择。支持所有 Strands 模型提供方，默认 Amazon Bedrock；内置 Claude Code、Kiro、Codex 会话包装器。",
+  "highlights": [
+   "post-conditions 校验失败自动重新提示，直到通过或达上限",
+   "experimental.verified 模块：Lean 检查证明，ai_compile 可生成免模型调用的机器码实现",
+   "AI Thread 协议使外部运行时（Claude Code/Kiro/Codex）作为线程加入团队",
+   "coordinator/client 分离实现跨进程分布式执行"
+  ],
+  "use_cases": [
+   "把重复任务声明为函数，由 agent 执行并自动校验结果",
+   "构建互相发现与委派的多 agent 工作流",
+   "在数据管道中让 agent 处理任意格式文件返回 DataFrame"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "多智能体",
+   "Python库",
+   "工作流编排",
+   "LLM应用开发"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: Strands AI Functions is a Python library built around a new abstraction: functions that behave like standard Python func",
+   "L43: AI Functions supports all Strands model providers and defaults to Amazon Bedrock (see Configuring Credentials). To use a"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

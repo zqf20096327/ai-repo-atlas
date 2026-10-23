@@ -1,1 +1,77 @@
-{"fn": "smithersai/smithers", "sha": "b776df49b64b", "source": "readme", "identity": {"one_liner": "用 TypeScript 配置定义并可靠执行代码维护 Agent 工作流的框架", "review": "Smithers 是一个 agentic 工作流框架，面向通过 TypeScript 配置文件定义流程并持久、可靠执行的场景。其应用形态是代码库维护：把 issue 转换为带测试的变更供人审阅，并可选地保持项目 wiki 更新；流程文件与代码同仓存放。提供浏览器中浏览仓库、对话问答与查看运行的入口（需 GitHub 登录），也提供 CLI 与库用于本地执行与编写。运行需 Node.js 22.19 或更高版本，库与 CLI 均从 npm 安装，CLI 通过 smthrs init/flow start 命令启动流程，启动前需为流程 model 字段配置凭证。", "highlights": ["以 TypeScript 配置文件定义 Agent 工作流，支持持久可靠执行", "将 issue 转为经测试的变更供人审阅，可选维护项目 wiki", "提供浏览器内对话式操作入口与本地 CLI/库两种使用方式"], "use_cases": ["我希望让 Agent 自动把 issue 变成可审阅的代码变更", "我需要在代码旁定义流程，让 Agent 持续维护项目与文档", "我想用 TypeScript 编写和编排多 Agent 后台工作流"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Agent编排", "代码维护自动化", "工作流引擎", "开发者工具"], "domain": "开发工具/Agent 工作流", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: Smithers maintains your codebase. It turns issues into tested changes for you to review and, when enabled, keeps the pro", "L29: The libraries install from npm; start with the"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "smithersai/smithers",
+ "sha": "b776df49b64b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 TypeScript 配置定义并可靠执行代码维护 Agent 工作流的框架",
+  "review": "Smithers 是一个 agentic 工作流框架，面向通过 TypeScript 配置文件定义流程并持久、可靠执行的场景。其应用形态是代码库维护：把 issue 转换为带测试的变更供人审阅，并可选地保持项目 wiki 更新；流程文件与代码同仓存放。提供浏览器中浏览仓库、对话问答与查看运行的入口（需 GitHub 登录），也提供 CLI 与库用于本地执行与编写。运行需 Node.js 22.19 或更高版本，库与 CLI 均从 npm 安装，CLI 通过 smthrs init/flow start 命令启动流程，启动前需为流程 model 字段配置凭证。",
+  "highlights": [
+   "以 TypeScript 配置文件定义 Agent 工作流，支持持久可靠执行",
+   "将 issue 转为经测试的变更供人审阅，可选维护项目 wiki",
+   "提供浏览器内对话式操作入口与本地 CLI/库两种使用方式"
+  ],
+  "use_cases": [
+   "我希望让 Agent 自动把 issue 变成可审阅的代码变更",
+   "我需要在代码旁定义流程，让 Agent 持续维护项目与文档",
+   "我想用 TypeScript 编写和编排多 Agent 后台工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent编排",
+   "代码维护自动化",
+   "工作流引擎",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Smithers maintains your codebase. It turns issues into tested changes for you to review and, when enabled, keeps the pro",
+   "L29: The libraries install from npm; start with the"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,76 @@
-{"fn": "siropkin/robinhood-ai-trading-bot", "sha": "bd2e6e1dbc52", "source": "readme", "identity": {"one_liner": "用 OpenAI 分析 RSI/VWAP 等指标并自动执行 Robinhood 交易的脚本", "review": "Python 脚本：从 Robinhood 账户读取自选股与持仓数据，计算 RSI、VWAP、50/200 日均线并汇总 Robinhood 分析师评级，将指标与用户约束（预算、排除清单、PDT 状态）组成提示词发给 OpenAI，按返回的 JSON 决策在 Demo/Manual/Auto 三种模式下执行买卖或持有。支持从 1Password 自动获取 MFA 密钥登录 Robinhood，带控制台日志。README 声明仅用于教育目的，并提示先在 Demo 或 Manual 模式测试。", "highlights": ["RSI/VWAP/移动平均/分析师评级输入 OpenAI 生成买卖持有决策", "Demo/Manual/Auto 三种执行模式", "PDT（日内交易者规则）保护机制", "支持 1Password 服务账户自动获取 Robinhood MFA 密钥"], "use_cases": ["让 AI 基于技术指标自动管理我的 Robinhood 持仓", "先在 Demo 模式模拟交易观察 AI 决策", "跟踪分析自选股的买卖建议并手动确认执行"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["量化交易", "AI决策", "Robinhood", "股票交易机器人"], "domain": "金融/量化交易", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L47: 4. **AI-Driven Decisions**: Uses OpenAI to generate trading recommendations.", "L6: The **Robinhood AI Trading Bot** is a simple Python script"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "siropkin/robinhood-ai-trading-bot",
+ "sha": "bd2e6e1dbc52",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 OpenAI 分析 RSI/VWAP 等指标并自动执行 Robinhood 交易的脚本",
+  "review": "Python 脚本：从 Robinhood 账户读取自选股与持仓数据，计算 RSI、VWAP、50/200 日均线并汇总 Robinhood 分析师评级，将指标与用户约束（预算、排除清单、PDT 状态）组成提示词发给 OpenAI，按返回的 JSON 决策在 Demo/Manual/Auto 三种模式下执行买卖或持有。支持从 1Password 自动获取 MFA 密钥登录 Robinhood，带控制台日志。README 声明仅用于教育目的，并提示先在 Demo 或 Manual 模式测试。",
+  "highlights": [
+   "RSI/VWAP/移动平均/分析师评级输入 OpenAI 生成买卖持有决策",
+   "Demo/Manual/Auto 三种执行模式",
+   "PDT（日内交易者规则）保护机制",
+   "支持 1Password 服务账户自动获取 Robinhood MFA 密钥"
+  ],
+  "use_cases": [
+   "让 AI 基于技术指标自动管理我的 Robinhood 持仓",
+   "先在 Demo 模式模拟交易观察 AI 决策",
+   "跟踪分析自选股的买卖建议并手动确认执行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化交易",
+   "AI决策",
+   "Robinhood",
+   "股票交易机器人"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L47: 4. **AI-Driven Decisions**: Uses OpenAI to generate trading recommendations.",
+   "L6: The **Robinhood AI Trading Bot** is a simple Python script"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -32,7 +32,7 @@ O'Reilly Live Online 培训《Deploying GPT & Large Language Models》的代码�
 
 ## 场景标签
 
- · 领域:LLM 部署/教学
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

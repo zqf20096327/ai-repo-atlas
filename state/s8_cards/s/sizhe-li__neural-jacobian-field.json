@@ -1,1 +1,79 @@
-{"fn": "sizhe-li/neural-jacobian-field", "sha": "0c954791e26b", "source": "readme", "identity": {"one_liner": "科研者的神经雅可比场：从感知学习机器人系统表示以控制机器人", "review": "Neural Jacobian Fields 论文（Nature 2025）的官方实现：用深度网络从多视角视频与动作数据推断机器人的雅可比场，作为可从感知学习的通用机器人系统表示，用于逆动力学优化与机器人控制。提供 3D/2D 两种实现与自定义 MuJoCo 仿真器，附教程笔记本、预训练权重与两个 HuggingFace 数据集（Allegro 手等四种机器人平台）。安装需 Conda + install.sh（含 PyTorch、Nerfstudio、TinyCudaNN），训练需多 GPU（A8000/A100），本地推理可用单张 RTX 4090。", "highlights": ["3D 与 2D Jacobian Field 实现及自定义 MuJoCo 仿真器", "HuggingFace 提供 Allegro-Only 轻量版与完整多视角视频-动作数据集", "教程笔记本（2D，约 30 分钟）与预训练权重下载", "支持多 GPU 训练，光学流（RAFT）与 track 两种监督方式"], "use_cases": ["研究者在仿真或真实机器人上训练雅可比场", "复现论文实验并可视化雅可比场", "为机器人控制做逆动力学优化"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "README L4 指向 Nature 2025 论文链接", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器人学习", "计算机视觉", "科研代码", "仿真与控制", "NeRF"], "domain": "机器人/具身智能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: > [TL;DR] Neural Jacobian Fields are a general-purpose representation of robotic systems that can be learned from percep", "L23: We provide the software implementations of:", "L24: - 🧠 3D Jacobian Field: `project/neural_jacobian_field`"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sizhe-li/neural-jacobian-field",
+ "sha": "0c954791e26b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "科研者的神经雅可比场：从感知学习机器人系统表示以控制机器人",
+  "review": "Neural Jacobian Fields 论文（Nature 2025）的官方实现：用深度网络从多视角视频与动作数据推断机器人的雅可比场，作为可从感知学习的通用机器人系统表示，用于逆动力学优化与机器人控制。提供 3D/2D 两种实现与自定义 MuJoCo 仿真器，附教程笔记本、预训练权重与两个 HuggingFace 数据集（Allegro 手等四种机器人平台）。安装需 Conda + install.sh（含 PyTorch、Nerfstudio、TinyCudaNN），训练需多 GPU（A8000/A100），本地推理可用单张 RTX 4090。",
+  "highlights": [
+   "3D 与 2D Jacobian Field 实现及自定义 MuJoCo 仿真器",
+   "HuggingFace 提供 Allegro-Only 轻量版与完整多视角视频-动作数据集",
+   "教程笔记本（2D，约 30 分钟）与预训练权重下载",
+   "支持多 GPU 训练，光学流（RAFT）与 track 两种监督方式"
+  ],
+  "use_cases": [
+   "研究者在仿真或真实机器人上训练雅可比场",
+   "复现论文实验并可视化雅可比场",
+   "为机器人控制做逆动力学优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "README L4 指向 Nature 2025 论文链接",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人学习",
+   "计算机视觉",
+   "科研代码",
+   "仿真与控制",
+   "NeRF"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: > [TL;DR] Neural Jacobian Fields are a general-purpose representation of robotic systems that can be learned from percep",
+   "L23: We provide the software implementations of:",
+   "L24: - 🧠 3D Jacobian Field: `project/neural_jacobian_field`"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

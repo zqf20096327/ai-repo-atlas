@@ -1,1 +1,83 @@
-{"fn": "stepfun-ai/Step-3.7-Flash", "sha": "2e5bc213ac79", "source": "readme", "identity": {"one_liner": "面向开发者 Agent 工作流的 198B MoE 视觉语言模型", "review": "Step 3.7 Flash 是阶跃星辰开源的 198B 参数稀疏 MoE 视觉语言模型，含 196B 语言主干与 1.8B 视觉编码器，每 token 激活约 11B 参数，支持 256k 上下文与三档可调推理强度。面向需要扩展感知、搜索与推理结合的 Agent 工作流的开发者，可处理多步工具编排、代码工程与图像理解任务。提供 BF16/FP8/NVFP4/GGUF 四种权重，可经 vLLM、SGLang、Transformers、llama.cpp 本地部署，也可经 OpenRouter、NVIDIA NIM 等平台调用；GGUF 本地运行最低需 120GB 统一内存/显存。", "highlights": ["198B MoE 架构，每 token 激活约 11B 参数，256k 上下文窗口", "三档可选推理强度（low/medium/high）", "提供 BF16/FP8/NVFP4/GGUF 多种量化权重", "NVFP4 检查点含 MTP 草稿层，支持 vLLM 投机解码"], "use_cases": ["运行结合图像理解与工具调用的多步 Agent 工作流", "在高吞吐流水线中并发运行编码 Agent、定位仓库缺陷并生成补丁", "本地部署于高内存工作站做推理服务"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": "gpu-24g", "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://static.stepfun.com/blog/step-3.7-flash/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["开源大模型", "多模态", "Agent", "MoE", "本地部署"], "domain": "大模型/多模态 Agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm", "llama.cpp"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["阶跃星辰（stepfun-ai）发布", "中国区平台 platform.stepfun.com"]}, "trust": {"confidence": "mid", "evidence": ["L12: Step 3.7 Flash is a 198B-parameter sparse Mixture-of-Experts (MoE) vision-language model that combines a 196B-parameter ", "L14: We built Step 3.7 Flash for developers who need to scale agentic workflows that combine perception, search, and reasonin"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "stepfun-ai/Step-3.7-Flash",
+ "sha": "2e5bc213ac79",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者 Agent 工作流的 198B MoE 视觉语言模型",
+  "review": "Step 3.7 Flash 是阶跃星辰开源的 198B 参数稀疏 MoE 视觉语言模型，含 196B 语言主干与 1.8B 视觉编码器，每 token 激活约 11B 参数，支持 256k 上下文与三档可调推理强度。面向需要扩展感知、搜索与推理结合的 Agent 工作流的开发者，可处理多步工具编排、代码工程与图像理解任务。提供 BF16/FP8/NVFP4/GGUF 四种权重，可经 vLLM、SGLang、Transformers、llama.cpp 本地部署，也可经 OpenRouter、NVIDIA NIM 等平台调用；GGUF 本地运行最低需 120GB 统一内存/显存。",
+  "highlights": [
+   "198B MoE 架构，每 token 激活约 11B 参数，256k 上下文窗口",
+   "三档可选推理强度（low/medium/high）",
+   "提供 BF16/FP8/NVFP4/GGUF 多种量化权重",
+   "NVFP4 检查点含 MTP 草稿层，支持 vLLM 投机解码"
+  ],
+  "use_cases": [
+   "运行结合图像理解与工具调用的多步 Agent 工作流",
+   "在高吞吐流水线中并发运行编码 Agent、定位仓库缺陷并生成补丁",
+   "本地部署于高内存工作站做推理服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": "gpu-24g",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://static.stepfun.com/blog/step-3.7-flash/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开源大模型",
+   "多模态",
+   "Agent",
+   "MoE",
+   "本地部署"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "阶跃星辰（stepfun-ai）发布",
+   "中国区平台 platform.stepfun.com"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: Step 3.7 Flash is a 198B-parameter sparse Mixture-of-Experts (MoE) vision-language model that combines a 196B-parameter ",
+   "L14: We built Step 3.7 Flash for developers who need to scale agentic workflows that combine perception, search, and reasonin"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

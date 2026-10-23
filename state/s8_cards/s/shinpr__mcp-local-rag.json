@@ -1,1 +1,82 @@
-{"fn": "shinpr/mcp-local-rag", "sha": "bc4f73f35e22", "source": "readme", "identity": {"one_liner": "本地优先的 RAG 搜索服务器：为 MCP 客户端与 CLI 检索私有文档", "review": "面向开发者的本地 RAG 服务器，以 MCP 工具（sync、query_documents、read_chunk_neighbors 等 9 个）或独立 CLI 运行。索引本机 PDF/DOCX/Markdown/文本文件，检索结合语义相似度与关键词加权，结果附带来源段落及标题、行号或页码。默认使用 Xenova/all-MiniLM-L6-v2 嵌入模型经 ONNX Runtime 本地计算，首次使用需联网下载约 90 MB 模型，此后离线工作；无需 API key、Docker、Python 或外部数据库。文件操作限制在配置的文档根目录内。", "highlights": ["语义+关键词混合检索，可匹配 API 名、类名、错误码等精确术语", "默认嵌入模型本地运行，首次下载约 90 MB 后离线可用", "9 个 MCP 工具 + CLI 双使用方式，JSON 输出可管道传递", "支持外部重排命令（RAG_RERANK_CMD）、多文档根、glob 忽略规则"], "use_cases": ["在 Claude Code/Codex/Cursor 等 MCP 客户端中检索本地技术文档与代码文档", "不经 MCP 客户端，用 CLI 对本地文档做索引与混合搜索", "隐私敏感场景下不向嵌入 API 发送私有文档"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "RAG", "本地优先/隐私", "混合检索", "开发者工具"], "domain": "开发者工具/RAG 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["提供简体中文 README（多语言之一）"]}, "trust": {"confidence": "high", "evidence": ["L21: Search private documents from an MCP client or the terminal without sending them to an", "L160: |`query_documents`|Search with semantic matching and keyword boost|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shinpr/mcp-local-rag",
+ "sha": "bc4f73f35e22",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 RAG 搜索服务器：为 MCP 客户端与 CLI 检索私有文档",
+  "review": "面向开发者的本地 RAG 服务器，以 MCP 工具（sync、query_documents、read_chunk_neighbors 等 9 个）或独立 CLI 运行。索引本机 PDF/DOCX/Markdown/文本文件，检索结合语义相似度与关键词加权，结果附带来源段落及标题、行号或页码。默认使用 Xenova/all-MiniLM-L6-v2 嵌入模型经 ONNX Runtime 本地计算，首次使用需联网下载约 90 MB 模型，此后离线工作；无需 API key、Docker、Python 或外部数据库。文件操作限制在配置的文档根目录内。",
+  "highlights": [
+   "语义+关键词混合检索，可匹配 API 名、类名、错误码等精确术语",
+   "默认嵌入模型本地运行，首次下载约 90 MB 后离线可用",
+   "9 个 MCP 工具 + CLI 双使用方式，JSON 输出可管道传递",
+   "支持外部重排命令（RAG_RERANK_CMD）、多文档根、glob 忽略规则"
+  ],
+  "use_cases": [
+   "在 Claude Code/Codex/Cursor 等 MCP 客户端中检索本地技术文档与代码文档",
+   "不经 MCP 客户端，用 CLI 对本地文档做索引与混合搜索",
+   "隐私敏感场景下不向嵌入 API 发送私有文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "RAG",
+   "本地优先/隐私",
+   "混合检索",
+   "开发者工具"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文 README（多语言之一）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: Search private documents from an MCP client or the terminal without sending them to an",
+   "L160: |`query_documents`|Search with semantic matching and keyword boost|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

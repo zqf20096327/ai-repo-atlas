@@ -33,7 +33,7 @@ dsh-mneme 是 DeepSeek Harness (DSH) 的跨会话记忆插件：记忆落在本�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 记忆
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

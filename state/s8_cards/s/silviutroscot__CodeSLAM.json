@@ -1,1 +1,76 @@
-{"fn": "silviutroscot/CodeSLAM", "sha": "4353299ed940", "source": "readme", "identity": {"one_liner": "CodeSLAM 论文 PyTorch 实现：紧凑深度表示的单目稠密 SLAM", "review": "复现 CVPR 2018 论文 CodeSLAM 的完整算法管线：图像条件化的深度 VAE 将稠密深度压缩为 128 维可优化隐码，解码器对隐码保持线性以支持 Jacobian 预计算；在此基础上实现两帧联合位姿/隐码优化、由粗到精跟踪、Schur 补边缘化的滑窗单目 SLAM。提供训练、深度评估、单图推理与序列 SLAM 的命令行入口，数据加载面向 SceneNet 风格 RGB-D 目录。README 声明论文数值复现与实时性尚需训练权重与实测验证。面向计算机视觉/机器人方向的研究者与复现者。", "highlights": ["条件化深度 VAE：128 维隐码 + 混合 proximity 参数化 + 学习的不确定性", "对隐码线性的解码器路径与 Jacobian 预计算", "稠密光度/几何残差的 Levenberg-Marquardt 联合位姿-隐码优化", "滑窗单目 SLAM：Schur 补边缘化为线性先验"], "use_cases": ["复现论文的两帧初始化与单目 SLAM 流程", "在 SceneNet 风格 RGB-D 数据上训练条件化深度模型", "对单张图像输出稠密深度先验与不确定性图"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/pdf/1804.00874.pdf", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["SLAM", "深度估计", "变分自编码器", "论文复现", "机器人视觉"], "domain": "计算机视觉/SLAM", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: PyTorch implementation of CodeSLAM: Learning a Compact, Optimisable Representation for Dense Visual SLAM.", "L7: - A conditioned depth autoencoder with a compact latent code", "L56: - `scripts/run_slam.py`"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "silviutroscot/CodeSLAM",
+ "sha": "4353299ed940",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CodeSLAM 论文 PyTorch 实现：紧凑深度表示的单目稠密 SLAM",
+  "review": "复现 CVPR 2018 论文 CodeSLAM 的完整算法管线：图像条件化的深度 VAE 将稠密深度压缩为 128 维可优化隐码，解码器对隐码保持线性以支持 Jacobian 预计算；在此基础上实现两帧联合位姿/隐码优化、由粗到精跟踪、Schur 补边缘化的滑窗单目 SLAM。提供训练、深度评估、单图推理与序列 SLAM 的命令行入口，数据加载面向 SceneNet 风格 RGB-D 目录。README 声明论文数值复现与实时性尚需训练权重与实测验证。面向计算机视觉/机器人方向的研究者与复现者。",
+  "highlights": [
+   "条件化深度 VAE：128 维隐码 + 混合 proximity 参数化 + 学习的不确定性",
+   "对隐码线性的解码器路径与 Jacobian 预计算",
+   "稠密光度/几何残差的 Levenberg-Marquardt 联合位姿-隐码优化",
+   "滑窗单目 SLAM：Schur 补边缘化为线性先验"
+  ],
+  "use_cases": [
+   "复现论文的两帧初始化与单目 SLAM 流程",
+   "在 SceneNet 风格 RGB-D 数据上训练条件化深度模型",
+   "对单张图像输出稠密深度先验与不确定性图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/pdf/1804.00874.pdf",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SLAM",
+   "深度估计",
+   "变分自编码器",
+   "论文复现",
+   "机器人视觉"
+  ],
+  "domain": "计算机视觉/SLAM",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: PyTorch implementation of CodeSLAM: Learning a Compact, Optimisable Representation for Dense Visual SLAM.",
+   "L7: - A conditioned depth autoencoder with a compact latent code",
+   "L56: - `scripts/run_slam.py`"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

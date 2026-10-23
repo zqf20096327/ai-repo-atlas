@@ -1,1 +1,79 @@
-{"fn": "snap-stanford/stark", "sha": "4a4ac663922e", "source": "readme", "identity": {"one_liner": "评测 LLM 检索系统的半结构化知识库基准（NeurIPS 2024）", "review": "Stanford snap 组维护的大规模半结构化检索基准：覆盖 Amazon 产品搜索、学术论文搜索（MAG）与生物医学（PrimeKG）三个知识库，提供问答对数据、官方数据切分与评测脚本，支持 BM25、Colbertv2、VSS、MultiVSS、LLMReranker 等检索模型评测，可用多种嵌入模型（ada-002、GritLM、LLM2Vec 等）生成查询/文档向量。以 pip 包 stark-qa 分发，数据自动从 Hugging Face 下载，也提供从原始数据预处理的代码。面向做检索系统与 RAG 评测的研究者。", "highlights": ["三个半结构化知识库（Amazon/MAG/PrimeKG）的检索问答数据", "内置 BM25/Colbertv2/VSS/MultiVSS/LLMReranker 评测脚本", "pip 包形式分发，数据自动从 Hugging Face 下载", "提供预处理代码与人工生成查询评测集"], "use_cases": ["我要评测自己检索模型在半结构化知识库上的表现", "为 RAG 系统选型做跨领域检索基准测试", "获取带官方切分的大规模检索问答数据集"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["检索基准", "知识库检索", "RAG评测", "图数据"], "domain": "信息检索/LLM 评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["被智源社区 BAAI 报道"]}, "trust": {"confidence": "high", "evidence": ["L20: STaRK is a large-scale Semi-structured Retrieval Benchmark on Textual and Relational Knowledge bases, covering applicati", "L86: - Run the python script for evaluation. E.g.,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "snap-stanford/stark",
+ "sha": "4a4ac663922e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评测 LLM 检索系统的半结构化知识库基准（NeurIPS 2024）",
+  "review": "Stanford snap 组维护的大规模半结构化检索基准：覆盖 Amazon 产品搜索、学术论文搜索（MAG）与生物医学（PrimeKG）三个知识库，提供问答对数据、官方数据切分与评测脚本，支持 BM25、Colbertv2、VSS、MultiVSS、LLMReranker 等检索模型评测，可用多种嵌入模型（ada-002、GritLM、LLM2Vec 等）生成查询/文档向量。以 pip 包 stark-qa 分发，数据自动从 Hugging Face 下载，也提供从原始数据预处理的代码。面向做检索系统与 RAG 评测的研究者。",
+  "highlights": [
+   "三个半结构化知识库（Amazon/MAG/PrimeKG）的检索问答数据",
+   "内置 BM25/Colbertv2/VSS/MultiVSS/LLMReranker 评测脚本",
+   "pip 包形式分发，数据自动从 Hugging Face 下载",
+   "提供预处理代码与人工生成查询评测集"
+  ],
+  "use_cases": [
+   "我要评测自己检索模型在半结构化知识库上的表现",
+   "为 RAG 系统选型做跨领域检索基准测试",
+   "获取带官方切分的大规模检索问答数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "检索基准",
+   "知识库检索",
+   "RAG评测",
+   "图数据"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "被智源社区 BAAI 报道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: STaRK is a large-scale Semi-structured Retrieval Benchmark on Textual and Relational Knowledge bases, covering applicati",
+   "L86: - Run the python script for evaluation. E.g.,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,79 @@
-{"fn": "sohaibt/product-mode", "sha": "98b27b1139d8", "source": "readme", "identity": {"one_liner": "给编码 Agent 注入产品思维的 CLAUDE.md/AGENTS.md 指令文件", "review": "面向 PM 与工程团队的 MIT 许可指令文件：以 CLAUDE.md / AGENTS.md 形式供 Claude Code、Cursor、Codex 等编码代理读取，提供 7 条产品原则（问题框定、假设显性化、最小可行变更、权衡命名、以结果定义完成、发布前埋点、决策记录）及飞行前检查清单。可选 npm CLI 用于交互式保存检查清单与决策日志到 .product-mode/ 目录，要求 Node.js 20.19+。基于 karpathy 对 LLM 工程失效模式的观察，补充产品决策层面的指引。", "highlights": ["7 条产品原则 + 5 问飞行前检查清单与跳过严格度的表格", "指令文件可直接 curl 下载或合并进现有 CLAUDE.md，无需 npm 安装", "可选 CLI 保存检查清单、决策日志并做琐碎变更检测", "附 6 个作者编写的评估用例，README 声明非实测性能证据"], "use_cases": ["让 AI 编码代理在写代码前先框定问题、明确用户与成功指标", "团队以决策日志和检查清单约束范围蔓延", "PM 用 vibe-code 工具时希望代理以产品伙伴方式提问"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [103]}}, "links": {"scenario_tags": ["AI辅助编程", "agent指令/prompt", "产品管理", "CLAUDE.md模板"], "domain": "AI 辅助开发/产品管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Free, MIT-licensed instructions for framing the problem, cutting scope, naming tradeoffs, and defining success. A drop-i", "L79: **product-mode** adds the missing layer: problem framing, scope discipline, tradeoff articulation, outcome measurement, ", "L99: The instruction files work on their own. The CLI provides interactive commands that save checklists and decision logs in"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sohaibt/product-mode",
+ "sha": "98b27b1139d8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给编码 Agent 注入产品思维的 CLAUDE.md/AGENTS.md 指令文件",
+  "review": "面向 PM 与工程团队的 MIT 许可指令文件：以 CLAUDE.md / AGENTS.md 形式供 Claude Code、Cursor、Codex 等编码代理读取，提供 7 条产品原则（问题框定、假设显性化、最小可行变更、权衡命名、以结果定义完成、发布前埋点、决策记录）及飞行前检查清单。可选 npm CLI 用于交互式保存检查清单与决策日志到 .product-mode/ 目录，要求 Node.js 20.19+。基于 karpathy 对 LLM 工程失效模式的观察，补充产品决策层面的指引。",
+  "highlights": [
+   "7 条产品原则 + 5 问飞行前检查清单与跳过严格度的表格",
+   "指令文件可直接 curl 下载或合并进现有 CLAUDE.md，无需 npm 安装",
+   "可选 CLI 保存检查清单、决策日志并做琐碎变更检测",
+   "附 6 个作者编写的评估用例，README 声明非实测性能证据"
+  ],
+  "use_cases": [
+   "让 AI 编码代理在写代码前先框定问题、明确用户与成功指标",
+   "团队以决策日志和检查清单约束范围蔓延",
+   "PM 用 vibe-code 工具时希望代理以产品伙伴方式提问"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    103
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI辅助编程",
+   "agent指令/prompt",
+   "产品管理",
+   "CLAUDE.md模板"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Free, MIT-licensed instructions for framing the problem, cutting scope, naming tradeoffs, and defining success. A drop-i",
+   "L79: **product-mode** adds the missing layer: problem framing, scope discipline, tradeoff articulation, outcome measurement, ",
+   "L99: The instruction files work on their own. The CLI provides interactive commands that save checklists and decision logs in"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,79 @@
-{"fn": "shibing624/TreeSearch", "sha": "5a572e8223a5", "source": "readme", "identity": {"one_liner": "结构感知文档检索库：免 embedding 用 FTS5 树结构检索代码库与文档", "review": "面向开发者的检索库：把 Markdown、代码（Python AST+regex，Java/Go/JS/C++ 等）、HTML/XML/JSON/CSV/PDF/DOCX 解析为按标题层级组织的树结构，用 SQLite FTS5 关键词匹配检索，不使用向量 embedding、切分与向量数据库，无需 API key。提供 flat 与 tree 两种模式及 auto 自动选择（依据文档类型与树深度比例阈值），代码文件自动路由到 GrepFilter+FTS5。内建 jieba 中文分词与英文正则分词。以 Python 库/CLI（pip）与 Rust CLI（brew/cargo/预编译二进制）分发。", "highlights": ["文档树结构解析 + SQLite FTS5 关键词检索，无 embedding、无向量库、无 API key", "auto 模式按文档类型与树深度阈值自动选择 tree/flat 检索", "代码文件自动路由 GrepFilter+FTS5，Python AST 提取类/函数签名", "中英双语文持：jieba 中文分词 + 英文正则分词"], "use_cases": ["在大量技术文档（API 文档/RFC）中按章节层级检索完整段落", "大型代码库中检索登录/认证相关的类与方法并定位行号", "长论文按章节问答式定位内容"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档检索", "RAG替代", "代码搜索", "全文检索", "开发工具库"], "domain": "信息检索/开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "内置 jieba 中文分词", "微信群组入口"]}, "trust": {"confidence": "high", "evidence": ["L15: **TreeSearch** is a structure-aware document retrieval library. No vector embeddings. No chunk splitting. SQLite FTS5 ke", "L190: |**Retrieval**|Vector similarity search|FTS5 keyword matching (no LLM needed)|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shibing624/TreeSearch",
+ "sha": "5a572e8223a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "结构感知文档检索库：免 embedding 用 FTS5 树结构检索代码库与文档",
+  "review": "面向开发者的检索库：把 Markdown、代码（Python AST+regex，Java/Go/JS/C++ 等）、HTML/XML/JSON/CSV/PDF/DOCX 解析为按标题层级组织的树结构，用 SQLite FTS5 关键词匹配检索，不使用向量 embedding、切分与向量数据库，无需 API key。提供 flat 与 tree 两种模式及 auto 自动选择（依据文档类型与树深度比例阈值），代码文件自动路由到 GrepFilter+FTS5。内建 jieba 中文分词与英文正则分词。以 Python 库/CLI（pip）与 Rust CLI（brew/cargo/预编译二进制）分发。",
+  "highlights": [
+   "文档树结构解析 + SQLite FTS5 关键词检索，无 embedding、无向量库、无 API key",
+   "auto 模式按文档类型与树深度阈值自动选择 tree/flat 检索",
+   "代码文件自动路由 GrepFilter+FTS5，Python AST 提取类/函数签名",
+   "中英双语文持：jieba 中文分词 + 英文正则分词"
+  ],
+  "use_cases": [
+   "在大量技术文档（API 文档/RFC）中按章节层级检索完整段落",
+   "大型代码库中检索登录/认证相关的类与方法并定位行号",
+   "长论文按章节问答式定位内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档检索",
+   "RAG替代",
+   "代码搜索",
+   "全文检索",
+   "开发工具库"
+  ],
+  "domain": "信息检索/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "内置 jieba 中文分词",
+   "微信群组入口"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: **TreeSearch** is a structure-aware document retrieval library. No vector embeddings. No chunk splitting. SQLite FTS5 ke",
+   "L190: |**Retrieval**|Vector similarity search|FTS5 keyword matching (no LLM needed)|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

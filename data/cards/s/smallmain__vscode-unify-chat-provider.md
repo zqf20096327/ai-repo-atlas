@@ -33,7 +33,7 @@ VS Code 扩展，通过 Language Model API 将多个 LLM API 提供商接入 Git
 
 ## 场景标签
 
- · 领域:开发者工具/LLM 接入
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

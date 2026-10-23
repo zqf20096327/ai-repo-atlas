@@ -1,1 +1,84 @@
-{"fn": "smallmain/vscode-unify-chat-provider", "sha": "d12c0dd6567d", "source": "readme", "identity": {"one_liner": "把多家 LLM API 接入 VS Code Copilot Chat 的扩展", "review": "VS Code 扩展，通过 Language Model API 将多个 LLM API 提供商接入 GitHub Copilot Chat。支持 OpenAI Chat Completions/Responses、Anthropic Messages、Ollama Chat、Gemini 等 API 格式，提供 45+ 提供商一键配置、官方模型列表自动同步、从其他应用/扩展一键迁移配置。附加功能包括 FIM/NES 代码补全（Simple/Zed/Inception/Mistral 算法）与 commit message 生成。需 VS Code 1.115.0+，部分功能依赖实验性 Proposed API。", "highlights": ["45+ 提供商一键配置与官方模型列表自动同步", "支持 OpenAI/Anthropic/Ollama/Gemini 等主要 API 格式", "多种 FIM/NES 代码补全算法（含 Copilot 与 Zed 实现复刻）", "一键复用 Claude Code/Gemini CLI/Codex/Zed 等账户额度"], "use_cases": ["在 Copilot Chat 中使用自有 API 或其他厂商模型", "把已在其他工具配好的模型配置迁移到 VS Code", "用自定义模型驱动代码补全与 commit message 生成"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["VS Code扩展", "LLM API聚合", "Copilot Chat", "代码补全", "开发者工具"], "domain": "开发者工具/LLM 接入", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic", "xai", "deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版"]}, "trust": {"confidence": "high", "evidence": ["L3: Integrate multiple LLM API providers into VS Code's GitHub Copilot Chat using the Language Model API.", "L12: - 🔌 **Perfect Compatibility**: Supports all major LLM API formats (OpenAI Chat Completions, OpenAI Responses, Anthropic "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "smallmain/vscode-unify-chat-provider",
+ "sha": "d12c0dd6567d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把多家 LLM API 接入 VS Code Copilot Chat 的扩展",
+  "review": "VS Code 扩展，通过 Language Model API 将多个 LLM API 提供商接入 GitHub Copilot Chat。支持 OpenAI Chat Completions/Responses、Anthropic Messages、Ollama Chat、Gemini 等 API 格式，提供 45+ 提供商一键配置、官方模型列表自动同步、从其他应用/扩展一键迁移配置。附加功能包括 FIM/NES 代码补全（Simple/Zed/Inception/Mistral 算法）与 commit message 生成。需 VS Code 1.115.0+，部分功能依赖实验性 Proposed API。",
+  "highlights": [
+   "45+ 提供商一键配置与官方模型列表自动同步",
+   "支持 OpenAI/Anthropic/Ollama/Gemini 等主要 API 格式",
+   "多种 FIM/NES 代码补全算法（含 Copilot 与 Zed 实现复刻）",
+   "一键复用 Claude Code/Gemini CLI/Codex/Zed 等账户额度"
+  ],
+  "use_cases": [
+   "在 Copilot Chat 中使用自有 API 或其他厂商模型",
+   "把已在其他工具配好的模型配置迁移到 VS Code",
+   "用自定义模型驱动代码补全与 commit message 生成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "VS Code扩展",
+   "LLM API聚合",
+   "Copilot Chat",
+   "代码补全",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "xai",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Integrate multiple LLM API providers into VS Code's GitHub Copilot Chat using the Language Model API.",
+   "L12: - 🔌 **Perfect Compatibility**: Supports all major LLM API formats (OpenAI Chat Completions, OpenAI Responses, Anthropic "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,77 @@
-{"fn": "strands-labs/strands-decider", "sha": "ce095ea448ed", "source": "readme", "identity": {"one_liner": "面向 agent 工作流的小型快速决策模型（system one 模型）", "review": "一种新型“决策模型”：基于预训练 decoder LLM 躯干（如 Qwen3.5-2B-Base），去掉语言建模头、换成约百万参数的指针头，单次前向输出选项选择（choice）、是非判断（noul）与量表评分（score）三类结果，每个决策附带校准置信度；比 LLM 响应更快，且无需训练传统分类器。以 pip 包与 CLI 提供，可本地运行或以 HTTP 服务器部署，支持 CPU/MPS/CUDA/MLX 设备与视觉输入（Qwen3.5 模型）。模型发布在 Hugging Face 的 StrandsAgents 与 amazon 组织下，覆盖 2B 至 26B 多个尺寸。", "highlights": ["choice/noul/score 三类问题共用同一 masked softmax，标签集由请求定义", "每个决策输出校准置信度（置信度≥0.9 时准确率约 95%）", "单次前向无生成循环：2B 模型在 RTX 3090 上中位延迟 115 ms", "文本只读一次，同一文本多问题各只加自身 token，成本低"], "use_cases": ["在 agent 工作流中做路由/分诊等快速二选一或多项选择", "对文本做情感、紧急度等量表评分并获取置信度", "以 HTTP 服务形式给其他系统提供低延迟决策接口"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["决策模型", "agent工作流", "小模型/低延迟推理", "分类与评分", "strands-agents生态"], "domain": "AI 模型/agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: Strands decider is one of a new class of **decision models**, or \"system one\" models. Unlike an", "L19: LLM, which can generate arbitrary text, a decision model picks between sets of options and", "L20: rates things on a scale. This class of model works best for problems that fall between LLMs", "L63: choice_0 -> billing (confidence 0.659)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "strands-labs/strands-decider",
+ "sha": "ce095ea448ed",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 agent 工作流的小型快速决策模型（system one 模型）",
+  "review": "一种新型“决策模型”：基于预训练 decoder LLM 躯干（如 Qwen3.5-2B-Base），去掉语言建模头、换成约百万参数的指针头，单次前向输出选项选择（choice）、是非判断（noul）与量表评分（score）三类结果，每个决策附带校准置信度；比 LLM 响应更快，且无需训练传统分类器。以 pip 包与 CLI 提供，可本地运行或以 HTTP 服务器部署，支持 CPU/MPS/CUDA/MLX 设备与视觉输入（Qwen3.5 模型）。模型发布在 Hugging Face 的 StrandsAgents 与 amazon 组织下，覆盖 2B 至 26B 多个尺寸。",
+  "highlights": [
+   "choice/noul/score 三类问题共用同一 masked softmax，标签集由请求定义",
+   "每个决策输出校准置信度（置信度≥0.9 时准确率约 95%）",
+   "单次前向无生成循环：2B 模型在 RTX 3090 上中位延迟 115 ms",
+   "文本只读一次，同一文本多问题各只加自身 token，成本低"
+  ],
+  "use_cases": [
+   "在 agent 工作流中做路由/分诊等快速二选一或多项选择",
+   "对文本做情感、紧急度等量表评分并获取置信度",
+   "以 HTTP 服务形式给其他系统提供低延迟决策接口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "决策模型",
+   "agent工作流",
+   "小模型/低延迟推理",
+   "分类与评分",
+   "strands-agents生态"
+  ],
+  "domain": "AI 模型/agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: Strands decider is one of a new class of **decision models**, or \"system one\" models. Unlike an",
+   "L19: LLM, which can generate arbitrary text, a decision model picks between sets of options and",
+   "L20: rates things on a scale. This class of model works best for problems that fall between LLMs",
+   "L63: choice_0 -> billing (confidence 0.659)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

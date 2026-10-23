@@ -1,1 +1,82 @@
-{"fn": "shuxiachai/academic-commercialization-agent", "sha": "a463a2222b43", "source": "readme", "identity": {"one_liner": "把论文/课题转化为带引用的成果转化评估报告的多智能体应用", "review": "基于 CrewAI + FastAPI 的 Web 应用：用户提交研究课题或论文 PDF，确定性代码先检索并验证来源形成冻结证据库，随后六个 LLM 阶段生成覆盖 TRL、制造成熟度、专利强度、市场可达性与证据置信度的评分卡，加权总分由代码计算。支持断点恢复、按 ID 检索已存来源、导出 Markdown/PDF。运行需 LLM API key（Qwen/DeepSeek/Anthropic/OpenAI 可选）与 Tavily 或 Serper 搜索 key；提供 10 主题 × 3 次重复的可复现基准。声明为研究分诊用途，非正式尽调，且限单副本部署。", "highlights": ["确定性检索验证先行，LLM 仅对冻结证据推理", "TRL/MRL/专利/市场/证据置信度评分卡，加权分由代码计算", "内容寻址检查点与中断恢复，付费请求 24 小时内可凭回执恢复", "附带可复现基准：10 主题 × 3 次重复与两组 held-out 检验"], "use_cases": ["科研人员或技术转移人员快速评估论文的商业化可行性", "为技术成熟度与专利态势生成带引用的初稿报告", "在不调用模型的情况下浏览历史示例报告"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ai-agent", "科技成果转化", "报告生成", "技术转移", "web应用"], "domain": "科研评估/技术转移", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 含中文入口", "浏览器 BYOK 默认使用中国区端点"]}, "trust": {"confidence": "high", "evidence": ["L3: Turn a paper or research topic into a **source-linked commercialization assessment draft**:", "L23: Built with Python, CrewAI, FastAPI and a build-free JavaScript client.", "L36: - Deterministic code retrieves and validates sources first; six LLM stages"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shuxiachai/academic-commercialization-agent",
+ "sha": "a463a2222b43",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把论文/课题转化为带引用的成果转化评估报告的多智能体应用",
+  "review": "基于 CrewAI + FastAPI 的 Web 应用：用户提交研究课题或论文 PDF，确定性代码先检索并验证来源形成冻结证据库，随后六个 LLM 阶段生成覆盖 TRL、制造成熟度、专利强度、市场可达性与证据置信度的评分卡，加权总分由代码计算。支持断点恢复、按 ID 检索已存来源、导出 Markdown/PDF。运行需 LLM API key（Qwen/DeepSeek/Anthropic/OpenAI 可选）与 Tavily 或 Serper 搜索 key；提供 10 主题 × 3 次重复的可复现基准。声明为研究分诊用途，非正式尽调，且限单副本部署。",
+  "highlights": [
+   "确定性检索验证先行，LLM 仅对冻结证据推理",
+   "TRL/MRL/专利/市场/证据置信度评分卡，加权分由代码计算",
+   "内容寻址检查点与中断恢复，付费请求 24 小时内可凭回执恢复",
+   "附带可复现基准：10 主题 × 3 次重复与两组 held-out 检验"
+  ],
+  "use_cases": [
+   "科研人员或技术转移人员快速评估论文的商业化可行性",
+   "为技术成熟度与专利态势生成带引用的初稿报告",
+   "在不调用模型的情况下浏览历史示例报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ai-agent",
+   "科技成果转化",
+   "报告生成",
+   "技术转移",
+   "web应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文入口",
+   "浏览器 BYOK 默认使用中国区端点"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Turn a paper or research topic into a **source-linked commercialization assessment draft**:",
+   "L23: Built with Python, CrewAI, FastAPI and a build-free JavaScript client.",
+   "L36: - Deterministic code retrieves and validates sources first; six LLM stages"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

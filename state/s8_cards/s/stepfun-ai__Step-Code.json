@@ -1,1 +1,84 @@
-{"fn": "stepfun-ai/Step-Code", "sha": "53067c4f4e75", "source": "readme", "identity": {"one_liner": "终端 AI 编程代理：连接 Step 模型完成读码、改码与测试", "review": "StepFun 出品的终端编码代理，绑定内置 Step 提供方（订阅计划 OAuth 或平台 API key 计费），登录后自动发现可用模型。功能覆盖完整任务循环：读取代码、修改文件、运行测试，支持 MCP 服务器、Agent Skills、插件与多代理编排（Ultracode），可将长任务委托给 /goal 自主推进。内置 StepPage 插件可一键把本地目录发布为静态网站。提供 macOS/Linux/WSL 与 Windows 的官方安装脚本，也支持从源码构建。限制：模型提供方仅 Step 一家；Windows PowerShell 支持处于 beta；StepPage 需要 Node.js 20+。", "highlights": ["长任务委托 /goal 与定时 /cron，状态栏显示实时计时", "Ultracode 多代理工作流编排，子代理隔离上下文以节省 token", "内置 StepPage 插件一键发布静态网站，含版本管理与回滚", "兼容 MCP、Agent Skills 及多数 Claude Code 插件，自动导入已有 MCP 配置"], "use_cases": ["在终端里让 AI 读懂项目结构并代为修改代码、运行测试", "把耗时目标交给 /goal 自主推进，定时任务用 /cron", "脚本/CI 中以 step -p 无头模式批量执行任务", "开发完成后直接把本地页面发布为可分享的静态站点"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [43], "note": "Windows PowerShell 支持处于 beta"}}, "links": {"scenario_tags": ["AI编程代理", "终端CLI", "多agent编排", "静态站发布"], "domain": "开发者工具/AI 编程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["stepfun.com/.ai 中国域名", "简体中文 README", "公司 stepfun-ai 维护"]}, "trust": {"confidence": "mid", "evidence": ["L9: Step Code runs in your terminal and handles the full task loop—reading code, making changes, and running tests\\. It work"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "stepfun-ai/Step-Code",
+ "sha": "53067c4f4e75",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端 AI 编程代理：连接 Step 模型完成读码、改码与测试",
+  "review": "StepFun 出品的终端编码代理，绑定内置 Step 提供方（订阅计划 OAuth 或平台 API key 计费），登录后自动发现可用模型。功能覆盖完整任务循环：读取代码、修改文件、运行测试，支持 MCP 服务器、Agent Skills、插件与多代理编排（Ultracode），可将长任务委托给 /goal 自主推进。内置 StepPage 插件可一键把本地目录发布为静态网站。提供 macOS/Linux/WSL 与 Windows 的官方安装脚本，也支持从源码构建。限制：模型提供方仅 Step 一家；Windows PowerShell 支持处于 beta；StepPage 需要 Node.js 20+。",
+  "highlights": [
+   "长任务委托 /goal 与定时 /cron，状态栏显示实时计时",
+   "Ultracode 多代理工作流编排，子代理隔离上下文以节省 token",
+   "内置 StepPage 插件一键发布静态网站，含版本管理与回滚",
+   "兼容 MCP、Agent Skills 及多数 Claude Code 插件，自动导入已有 MCP 配置"
+  ],
+  "use_cases": [
+   "在终端里让 AI 读懂项目结构并代为修改代码、运行测试",
+   "把耗时目标交给 /goal 自主推进，定时任务用 /cron",
+   "脚本/CI 中以 step -p 无头模式批量执行任务",
+   "开发完成后直接把本地页面发布为可分享的静态站点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    43
+   ],
+   "note": "Windows PowerShell 支持处于 beta"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程代理",
+   "终端CLI",
+   "多agent编排",
+   "静态站发布"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "stepfun.com/.ai 中国域名",
+   "简体中文 README",
+   "公司 stepfun-ai 维护"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: Step Code runs in your terminal and handles the full task loop—reading code, making changes, and running tests\\. It work"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

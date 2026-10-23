@@ -33,7 +33,7 @@ Sipeed 维护的边缘 AI Python SDK（v4），运行于 MaixCAM / MaixCAM2 / Ma
 
 ## 场景标签
 
- · 领域:嵌入式 AI 视觉
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

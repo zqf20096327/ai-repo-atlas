@@ -1,1 +1,79 @@
-{"fn": "sjmoran/curl-image-enhancement", "sha": "74e09108d22f", "source": "readme", "identity": {"one_liner": "ICPR 2020 论文代码：预测色调曲线实现全局图像增强", "review": "Huawei Noah's Ark Lab 发表的 ICPR 2020 论文 CURL 的官方代码。方法：TED 编码器-解码器骨干提取逐像素特征，CURL 模块按序在 CIELab、RGB、HSV 三个色彩空间预测分段线性色调曲线（共 160 个参数）并残差混合，实现全局、分辨率无关的图像增强。以 Python 包提供，含 curl-enhance CLI、预训练 Adobe-DPE 检查点、训练/推理/消复现脚本与 51 个 CPU 测试。支持 CUDA/MPS/CPU 自选设备。", "highlights": ["三色彩空间级联的神经曲线层预测（160 个参数描述整次增强）", "提供 curl-enhance 命令行与预训练 Adobe-DPE 检查点", "支持自训练、色彩空间消融复现与曲线记录/绘图", "默认模型 1.7M 参数，任意分辨率输入（边长 ≥48px）"], "use_cases": ["用预训练模型批量增强照片（PNG/JPEG/TIFF/BMP/WebP）", "复现论文的训练、推理与色彩空间消融实验", "在 Adobe-DPE/UPE、Samsung S7 数据集上评测增强效果"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2007.04071", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["图像增强", "计算摄影", "论文代码", "深度学习", "底层视觉"], "domain": "计算机视觉/计算摄影", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["华为诺亚方舟实验室署名"]}, "trust": {"confidence": "high", "evidence": ["L22: Enhancement networks usually learn a mapping straight to output pixels. CURL", "L35: A **TED** backbone (Transformed Encoder-Decoder) reads the image and produces"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sjmoran/curl-image-enhancement",
+ "sha": "74e09108d22f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ICPR 2020 论文代码：预测色调曲线实现全局图像增强",
+  "review": "Huawei Noah's Ark Lab 发表的 ICPR 2020 论文 CURL 的官方代码。方法：TED 编码器-解码器骨干提取逐像素特征，CURL 模块按序在 CIELab、RGB、HSV 三个色彩空间预测分段线性色调曲线（共 160 个参数）并残差混合，实现全局、分辨率无关的图像增强。以 Python 包提供，含 curl-enhance CLI、预训练 Adobe-DPE 检查点、训练/推理/消复现脚本与 51 个 CPU 测试。支持 CUDA/MPS/CPU 自选设备。",
+  "highlights": [
+   "三色彩空间级联的神经曲线层预测（160 个参数描述整次增强）",
+   "提供 curl-enhance 命令行与预训练 Adobe-DPE 检查点",
+   "支持自训练、色彩空间消融复现与曲线记录/绘图",
+   "默认模型 1.7M 参数，任意分辨率输入（边长 ≥48px）"
+  ],
+  "use_cases": [
+   "用预训练模型批量增强照片（PNG/JPEG/TIFF/BMP/WebP）",
+   "复现论文的训练、推理与色彩空间消融实验",
+   "在 Adobe-DPE/UPE、Samsung S7 数据集上评测增强效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2007.04071",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像增强",
+   "计算摄影",
+   "论文代码",
+   "深度学习",
+   "底层视觉"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "华为诺亚方舟实验室署名"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: Enhancement networks usually learn a mapping straight to output pixels. CURL",
+   "L35: A **TED** backbone (Transformed Encoder-Decoder) reads the image and produces"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

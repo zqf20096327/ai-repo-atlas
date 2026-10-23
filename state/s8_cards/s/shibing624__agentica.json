@@ -1,1 +1,90 @@
-{"fn": "shibing624/agentica", "sha": "ab8b2a1b1261", "source": "readme", "identity": {"one_liner": "多终端 AI Agent 框架：CLI/Web/桌面 + Python SDK，支持多会话协作与技能自进化", "review": "跑在本机机器上的 agent 框架，提供 CLI、Web 网关、桌面 App 与 Python/TypeScript SDK 四种入口，共享同一套状态。多模型接入（OpenAI/DeepSeek/Claude/智谱/Ollama 等）。多会话协作含进程内 task、进程级 delegate 与跨终端 peer 消息。机制上：上下文压缩全程零 LLM 摘要、原文留在 session JSONL 可检索；持久化记忆；经验自动编译为可复用 SKILL.md。安装经 uv/pip，桌面版当前构建未签名。Apache 2.0。", "highlights": ["CLI/Web/桌面/SDK 四入口共享同一状态（~/.agentica）", "零 LLM 摘要的上下文压缩，原文留在 session JSONL 可 search_session 取回", "task/delegate/peer 三种多会话协作机制", "经验自动编译为跨会话复用的 SKILL.md，含 MCP/ACP、RAG 与 Guardrails"], "use_cases": ["在终端与本机网页里用多会话 agent 协作完成编码和数据分析任务", "通过微信/企微/飞书/Telegram 远程指挥本机上的 agent 会话", "用 Python SDK 将 agent 嵌入自己的代码与工作流", "长期任务中保留可回溯的完整会话历史与持久记忆"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/2608.05810", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent 框架", "多智能体协作", "CLI 工具", "自托管", "RAG"], "domain": "LLM 基础设施/Agent 框架", "alternative_to": [], "competitors_mentioned": ["Claude Code"], "ecosystem_compat": ["deepseek", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README（中英双语）", "微信群技术交流群", "智谱 API 免费起步引导", "微信/企微/飞书 IM 渠道支持"]}, "trust": {"confidence": "high", "evidence": ["L7:  一个人，一支 agent 团队。 CLI 终端、本机 Web、Desktop App 是同一套产品，跑在你自己的机器上。", "L191: ## 功能特性", "L209: - **多智能体** — SDK：`Agent.as_tool()`、Workflow、Swarm、Markdown Subagent；CLI：`task` / `delegate` / peer 消息（见 终端文档）"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shibing624/agentica",
+ "sha": "ab8b2a1b1261",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多终端 AI Agent 框架：CLI/Web/桌面 + Python SDK，支持多会话协作与技能自进化",
+  "review": "跑在本机机器上的 agent 框架，提供 CLI、Web 网关、桌面 App 与 Python/TypeScript SDK 四种入口，共享同一套状态。多模型接入（OpenAI/DeepSeek/Claude/智谱/Ollama 等）。多会话协作含进程内 task、进程级 delegate 与跨终端 peer 消息。机制上：上下文压缩全程零 LLM 摘要、原文留在 session JSONL 可检索；持久化记忆；经验自动编译为可复用 SKILL.md。安装经 uv/pip，桌面版当前构建未签名。Apache 2.0。",
+  "highlights": [
+   "CLI/Web/桌面/SDK 四入口共享同一状态（~/.agentica）",
+   "零 LLM 摘要的上下文压缩，原文留在 session JSONL 可 search_session 取回",
+   "task/delegate/peer 三种多会话协作机制",
+   "经验自动编译为跨会话复用的 SKILL.md，含 MCP/ACP、RAG 与 Guardrails"
+  ],
+  "use_cases": [
+   "在终端与本机网页里用多会话 agent 协作完成编码和数据分析任务",
+   "通过微信/企微/飞书/Telegram 远程指挥本机上的 agent 会话",
+   "用 Python SDK 将 agent 嵌入自己的代码与工作流",
+   "长期任务中保留可回溯的完整会话历史与持久记忆"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2608.05810",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 框架",
+   "多智能体协作",
+   "CLI 工具",
+   "自托管",
+   "RAG"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Claude Code"
+  ],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（中英双语）",
+   "微信群技术交流群",
+   "智谱 API 免费起步引导",
+   "微信/企微/飞书 IM 渠道支持"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  一个人，一支 agent 团队。 CLI 终端、本机 Web、Desktop App 是同一套产品，跑在你自己的机器上。",
+   "L191: ## 功能特性",
+   "L209: - **多智能体** — SDK：`Agent.as_tool()`、Workflow、Swarm、Markdown Subagent；CLI：`task` / `delegate` / peer 消息（见 终端文档）"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
