@@ -1,1 +1,81 @@
-{"fn": "zeraix/zeraix", "sha": "868704b88f6d", "source": "readme", "identity": {"one_liner": "开源本地 AI 桌面工作台：本机运行模型、文件、工具与 Agent", "review": "基于 Electron/Next.js 与 Rust Agent Runtime 的桌面应用，在本机运行 GGUF 等模型并集成对话、文件读写、终端命令、浏览器工具、子 Agent 委派、定时任务与文档 Skills（Word/PDF/演示文稿/表格）。本地推理采用 llama.cpp 系运行时，含 Apple Silicon 调优路径；可选接入 MCP 服务器、插件、OpenAI 兼容端点与云端模型。提供 macOS（Apple Silicon，13+）与 Windows 10/11 x64 安装包，建议 16GB 内存。配套 Imparo 推理引擎为独立项目，尚未成为默认引擎。", "highlights": ["本地运行 GGUF 模型，硬件感知推荐与运行时管理，无需账号/API key", "Rust Agent Runtime 执行文件/终端/浏览器工具，四种审批模式与 QEMU 沙箱", "内置 Word/PDF/演示文稿/表格文档 Skills 与媒体库", "支持本地/远程 MCP 服务器、插件目录与自定义 OpenAI 兼容端点"], "use_cases": ["在本机离线运行模型处理项目文件与多步任务", "通过子 Agent 与审批模式委派并控制自动化工作", "用内置 Skills 直接处理办公文档"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地推理", "桌面AI工作台", "Agent", "GGUF/llama.cpp", "Apple Silicon"], "domain": "桌面 AI 应用/本地推理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["llama.cpp"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: Zeraix is an open-source AI desktop for working with models, files, tools, and agents—with local inference at its core.", "L30: - **Local models at the center.** Download and run supported GGUF models with hardware-aware recommendations and runtime", "L98: The desktop currently uses **llama.cpp-based runtimes** for general local inference. Zeraix's tuned Apple Silicon paths "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zeraix/zeraix",
+ "sha": "868704b88f6d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源本地 AI 桌面工作台：本机运行模型、文件、工具与 Agent",
+  "review": "基于 Electron/Next.js 与 Rust Agent Runtime 的桌面应用，在本机运行 GGUF 等模型并集成对话、文件读写、终端命令、浏览器工具、子 Agent 委派、定时任务与文档 Skills（Word/PDF/演示文稿/表格）。本地推理采用 llama.cpp 系运行时，含 Apple Silicon 调优路径；可选接入 MCP 服务器、插件、OpenAI 兼容端点与云端模型。提供 macOS（Apple Silicon，13+）与 Windows 10/11 x64 安装包，建议 16GB 内存。配套 Imparo 推理引擎为独立项目，尚未成为默认引擎。",
+  "highlights": [
+   "本地运行 GGUF 模型，硬件感知推荐与运行时管理，无需账号/API key",
+   "Rust Agent Runtime 执行文件/终端/浏览器工具，四种审批模式与 QEMU 沙箱",
+   "内置 Word/PDF/演示文稿/表格文档 Skills 与媒体库",
+   "支持本地/远程 MCP 服务器、插件目录与自定义 OpenAI 兼容端点"
+  ],
+  "use_cases": [
+   "在本机离线运行模型处理项目文件与多步任务",
+   "通过子 Agent 与审批模式委派并控制自动化工作",
+   "用内置 Skills 直接处理办公文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "桌面AI工作台",
+   "Agent",
+   "GGUF/llama.cpp",
+   "Apple Silicon"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Zeraix is an open-source AI desktop for working with models, files, tools, and agents—with local inference at its core.",
+   "L30: - **Local models at the center.** Download and run supported GGUF models with hardware-aware recommendations and runtime",
+   "L98: The desktop currently uses **llama.cpp-based runtimes** for general local inference. Zeraix's tuned Apple Silicon paths "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

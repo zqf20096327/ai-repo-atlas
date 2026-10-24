@@ -1,1 +1,86 @@
-{"fn": "zai-org/Synapse", "sha": "111cadf23316", "source": "readme", "identity": {"one_liner": "自托管的共享 AI 队友工作台：对话即协作边界", "review": "自托管 AI 工作区，以对话为运行时边界组织人类与 AI 队友协作：原生 actor、经桥接的远程 agent（Claude Code、Codex CLI 通过反向 MCP 以拉取方式接入）与外部 IM 身份（飞书/微信/钉钉/QQ/Telegram/WhatsApp 等 8 种）同处一线程。插件、技能、设备、沙箱、记忆空间均通过单一可撤销的 workspace_resource_grants 授权账本管理；支持配对设备上的文件系统/命令行/浏览器等 MCP 工具、会话级沙箱（本地进程/Docker/E2B 兼容 VM）、定时与 webhook 唤醒、跨对话记忆（词法+嵌入检索）。仍处早期设计阶段，schema 与运行时契约可能变化，不保证旧数据向后兼容。本地部署依赖 Node.js 22 与 Docker Compose。", "highlights": ["对话即运行时边界：成员/原生 actor/桥接远程 agent/外部 IM 身份共享同一线程", "统一 workspace_resource_grants 授权账本，显式、可撤销、敏感调用支持会话内一次性审批卡片", "设备配对暴露文件系统/命令行/浏览器/计算机使用为 MCP 工具，出站连接、签名信封", "会话级沙箱（本地进程/Docker/CubeSandbox），文件以内容寻址快照持久化"], "use_cases": ["把笔记本上的编码 agent 桥接进团队对话协作", "在飞书/微信/Telegram 等现有 IM 中与 AI 队友对话并受统一权限治理", "让 actor 在配对的真实设备上经授权执行文件与命令操作"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [23, 24]}}, "links": {"scenario_tags": ["多agent协作", "自托管", "MCP", "IM集成", "权限治理"], "domain": "AI 工作区/多 agent 协作平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["简体中文 README（L11）", "微信/企业微信/QQ/钉钉/飞书等国内 IM 集成（L54）"]}, "trust": {"confidence": "high", "evidence": ["L26: Synapse is a conversation-centric runtime for digital teammates.", "L28: Most AI products treat chat as a thin interface over an isolated bot. Synapse treats the conversation itself as the coll", "L44: A coding agent running on your laptop can join the team as a first-class participant. The machine-side daemon (`packages"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zai-org/Synapse",
+ "sha": "111cadf23316",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的共享 AI 队友工作台：对话即协作边界",
+  "review": "自托管 AI 工作区，以对话为运行时边界组织人类与 AI 队友协作：原生 actor、经桥接的远程 agent（Claude Code、Codex CLI 通过反向 MCP 以拉取方式接入）与外部 IM 身份（飞书/微信/钉钉/QQ/Telegram/WhatsApp 等 8 种）同处一线程。插件、技能、设备、沙箱、记忆空间均通过单一可撤销的 workspace_resource_grants 授权账本管理；支持配对设备上的文件系统/命令行/浏览器等 MCP 工具、会话级沙箱（本地进程/Docker/E2B 兼容 VM）、定时与 webhook 唤醒、跨对话记忆（词法+嵌入检索）。仍处早期设计阶段，schema 与运行时契约可能变化，不保证旧数据向后兼容。本地部署依赖 Node.js 22 与 Docker Compose。",
+  "highlights": [
+   "对话即运行时边界：成员/原生 actor/桥接远程 agent/外部 IM 身份共享同一线程",
+   "统一 workspace_resource_grants 授权账本，显式、可撤销、敏感调用支持会话内一次性审批卡片",
+   "设备配对暴露文件系统/命令行/浏览器/计算机使用为 MCP 工具，出站连接、签名信封",
+   "会话级沙箱（本地进程/Docker/CubeSandbox），文件以内容寻址快照持久化"
+  ],
+  "use_cases": [
+   "把笔记本上的编码 agent 桥接进团队对话协作",
+   "在飞书/微信/Telegram 等现有 IM 中与 AI 队友对话并受统一权限治理",
+   "让 actor 在配对的真实设备上经授权执行文件与命令操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    23,
+    24
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent协作",
+   "自托管",
+   "MCP",
+   "IM集成",
+   "权限治理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README（L11）",
+   "微信/企业微信/QQ/钉钉/飞书等国内 IM 集成（L54）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: Synapse is a conversation-centric runtime for digital teammates.",
+   "L28: Most AI products treat chat as a thin interface over an isolated bot. Synapse treats the conversation itself as the coll",
+   "L44: A coding agent running on your laptop can join the team as a first-class participant. The machine-side daemon (`packages"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

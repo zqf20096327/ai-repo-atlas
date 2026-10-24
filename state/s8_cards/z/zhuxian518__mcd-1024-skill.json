@@ -1,1 +1,86 @@
-{"fn": "zhuxian518/mcd-1024-skill", "sha": "88aab1c21bee", "source": "readme", "identity": {"one_liner": "麦当劳点餐推荐 Skill：给一个答案，附本地记忆与价格指数", "review": "面向麦当劳中国大陆会员的 MCP Skill（SKILL.md 指令 + JSON 数据），运行于任意支持 MCP 的 AI 客户端（WorkBuddy / Cherry Studio / Cursor 等）。功能为三层：按用户一句话约束（预算/营养）给出唯一推荐及理由；基于本地记忆银行（data/memory.json，官方接口仅可查最近10单）生成「老朋友」「尝个新」两个备选；每日附麦麦巨无霸指数（首期实测11城门店价格）。写操作需用户逐项确认。仓库本身无独立程序、无安装脚本，需自备 MCP Token。", "highlights": ["唯一推荐 + 两个基于本地订单记忆的备选", "本地记忆银行存储订单/偏好/口味簇（data/memory.json）", "麦麦巨无霸指数：11 城门店价格采样数据", "领券、下单等写操作须用户逐项确认"], "use_cases": ["让 AI 客户端替我决定午饭吃什么并说明理由", "基于自己的点餐历史获得个性化备选推荐", "查看所在城市巨无霸价格在全国的档位"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [13, 119], "note": "声明不代表已上线 GUI 或真实业务实测结果，未验证实时接口"}}, "links": {"scenario_tags": ["MCP Skill", "点餐推荐", "个人记忆", "价格指数", "比赛作品"], "domain": "生活服务/餐饮 AI 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "麦当劳中国大陆会员（open.mcd.cn）", "麦当劳程序员创意开发大赛参赛作品"]}, "trust": {"confidence": "mid", "evidence": ["L3: **只给一个答案的麦当劳点餐 Skill**——它记得你点过的每一单，也顺带告诉你今天全国的巨无霸卖多少钱。", "L19: 麦麦老友记换了个思路：**你不用挑，老友替你挑。** 你只要说一句\"今天中午吃啥，三十以内，多点蛋白\"，它就回你一个答案——为什么是它、营养达没达标、券后多少钱，三行说清。下面再补两个备选：一个是你点过很多次、上次还给过五星的\"老朋友\"；一", "L84: 2. 把本仓库放入你的 AI 客户端工作目录，加载 SKILL.md"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zhuxian518/mcd-1024-skill",
+ "sha": "88aab1c21bee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "麦当劳点餐推荐 Skill：给一个答案，附本地记忆与价格指数",
+  "review": "面向麦当劳中国大陆会员的 MCP Skill（SKILL.md 指令 + JSON 数据），运行于任意支持 MCP 的 AI 客户端（WorkBuddy / Cherry Studio / Cursor 等）。功能为三层：按用户一句话约束（预算/营养）给出唯一推荐及理由；基于本地记忆银行（data/memory.json，官方接口仅可查最近10单）生成「老朋友」「尝个新」两个备选；每日附麦麦巨无霸指数（首期实测11城门店价格）。写操作需用户逐项确认。仓库本身无独立程序、无安装脚本，需自备 MCP Token。",
+  "highlights": [
+   "唯一推荐 + 两个基于本地订单记忆的备选",
+   "本地记忆银行存储订单/偏好/口味簇（data/memory.json）",
+   "麦麦巨无霸指数：11 城门店价格采样数据",
+   "领券、下单等写操作须用户逐项确认"
+  ],
+  "use_cases": [
+   "让 AI 客户端替我决定午饭吃什么并说明理由",
+   "基于自己的点餐历史获得个性化备选推荐",
+   "查看所在城市巨无霸价格在全国的档位"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    13,
+    119
+   ],
+   "note": "声明不代表已上线 GUI 或真实业务实测结果，未验证实时接口"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP Skill",
+   "点餐推荐",
+   "个人记忆",
+   "价格指数",
+   "比赛作品"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "recommender-system"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "麦当劳中国大陆会员（open.mcd.cn）",
+   "麦当劳程序员创意开发大赛参赛作品"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **只给一个答案的麦当劳点餐 Skill**——它记得你点过的每一单，也顺带告诉你今天全国的巨无霸卖多少钱。",
+   "L19: 麦麦老友记换了个思路：**你不用挑，老友替你挑。** 你只要说一句\"今天中午吃啥，三十以内，多点蛋白\"，它就回你一个答案——为什么是它、营养达没达标、券后多少钱，三行说清。下面再补两个备选：一个是你点过很多次、上次还给过五星的\"老朋友\"；一",
+   "L84: 2. 把本仓库放入你的 AI 客户端工作目录，加载 SKILL.md"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

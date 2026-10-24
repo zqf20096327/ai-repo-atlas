@@ -1,1 +1,83 @@
-{"fn": "zai-org/Vision2Web", "sha": "a30165aa0b46", "source": "readme", "identity": {"one_liner": "评测多模态编码 agent 视觉网站开发的分层基准（193 任务）", "review": "视觉网站开发领域的分层基准：193 个任务分三级递进——静态网页生成、交互式前端、全栈网站实现，覆盖电商、SaaS、内容、公共服务 4 大领域 16 个子类，配套 918 张原型图与 1,255 个功能测试用例。评测采用工作流式 agent 验证：GUI agent 驱动 playwright-cli 做功能测试，VLM 评审做视觉保真打分。推理支持 Claude Code、Codex、Gemini CLI、OpenHands 四种框架，可经 LiteLLM 代理统一路由。数据集 CC-BY-NC-SA-4.0，仅限学术研究，禁止商用。ICML 2026 Spotlight 论文。面向 agent 研究与评测人员。", "highlights": ["三级递进任务：静态网页/交互前端/全栈网站", "193 任务、918 原型图、1,255 功能测试用例", "GUI agent 验证 + VLM 评审的双阶段评测", "支持 Claude Code / Codex / Gemini CLI / OpenHands 四种推理框架"], "use_cases": ["评测多模态编码 agent 在长程网站开发任务的表现", "向官方排行榜提交 agent 推理结果", "复现论文中的基准实验结果"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "arXiv（README 链接，具体 URL 未展开）", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["基准评测", "多模态agent", "前端/全栈开发", "评测框架", "学术论文配套"], "domain": "AI 评测/基准", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["zai-org（智谱）组织维护", "作者含 Wenyi Hong、Jie Tang 等智谱/清华系研究者"]}, "trust": {"confidence": "high", "evidence": ["L9: Vision2Web is a comprehensive benchmark designed to evaluate multimodal coding agents on visual website development task", "L20: Vision2Web is a hierarchical benchmark for evaluating multimodal coding agents on end-to-end visual website development,", "L33: Evaluation is conducted via a workflow-based agent verification paradigm that combines GUI agent verifiers for functiona"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zai-org/Vision2Web",
+ "sha": "a30165aa0b46",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评测多模态编码 agent 视觉网站开发的分层基准（193 任务）",
+  "review": "视觉网站开发领域的分层基准：193 个任务分三级递进——静态网页生成、交互式前端、全栈网站实现，覆盖电商、SaaS、内容、公共服务 4 大领域 16 个子类，配套 918 张原型图与 1,255 个功能测试用例。评测采用工作流式 agent 验证：GUI agent 驱动 playwright-cli 做功能测试，VLM 评审做视觉保真打分。推理支持 Claude Code、Codex、Gemini CLI、OpenHands 四种框架，可经 LiteLLM 代理统一路由。数据集 CC-BY-NC-SA-4.0，仅限学术研究，禁止商用。ICML 2026 Spotlight 论文。面向 agent 研究与评测人员。",
+  "highlights": [
+   "三级递进任务：静态网页/交互前端/全栈网站",
+   "193 任务、918 原型图、1,255 功能测试用例",
+   "GUI agent 验证 + VLM 评审的双阶段评测",
+   "支持 Claude Code / Codex / Gemini CLI / OpenHands 四种推理框架"
+  ],
+  "use_cases": [
+   "评测多模态编码 agent 在长程网站开发任务的表现",
+   "向官方排行榜提交 agent 推理结果",
+   "复现论文中的基准实验结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv（README 链接，具体 URL 未展开）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准评测",
+   "多模态agent",
+   "前端/全栈开发",
+   "评测框架",
+   "学术论文配套"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "zai-org（智谱）组织维护",
+   "作者含 Wenyi Hong、Jie Tang 等智谱/清华系研究者"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Vision2Web is a comprehensive benchmark designed to evaluate multimodal coding agents on visual website development task",
+   "L20: Vision2Web is a hierarchical benchmark for evaluating multimodal coding agents on end-to-end visual website development,",
+   "L33: Evaluation is conducted via a workflow-based agent verification paradigm that combines GUI agent verifiers for functiona"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

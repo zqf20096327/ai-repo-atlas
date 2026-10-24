@@ -1,1 +1,75 @@
-{"fn": "zeljkoavramovic/agentic-design-patterns", "sha": "25e0c0b71d3b", "source": "readme", "identity": {"one_liner": "29 种 agentic 设计模式的单文件交互式教程与参考", "review": "一个自包含的单文件（index.html）交互式教程：以可视化图表、详细解释和真实案例讲解构建 AI agent 系统的 29 种设计模式，分为核心模式（Prompt Chaining、Tool Use 等）、推理与策略、编排、基础设施与状态（MCP、RAG）、可靠性与控制（Guardrails、Human-in-the-Loop）等类别。包含模式关系图、模式条目与案例研究；可在线使用或下载后离线在浏览器打开。模式内容整理自公开研究与社区资料。", "highlights": ["单文件包含概览页、模式关系图、29 个模式条目与案例研究", "模式按核心/推理策略/编排/基础设施状态/可靠性控制分组", "支持在线访问与离线下载使用"], "use_cases": ["学习 agentic AI 系统的常用架构模式", "为 agent 系统设计选型时查阅模式关系与案例", "离线环境作为设计模式速查参考"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://zeljkoavramovic.github.io/agentic-design-patterns/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程", "设计模式", "AI Agent", "知识参考"], "domain": "AI/知识参考", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This repository contains an interactive, single-file tutorial on essential agentic design patterns for building intellig", "L32: The tutorial covers the following 29 patterns, grouped into categories:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zeljkoavramovic/agentic-design-patterns",
+ "sha": "25e0c0b71d3b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "29 种 agentic 设计模式的单文件交互式教程与参考",
+  "review": "一个自包含的单文件（index.html）交互式教程：以可视化图表、详细解释和真实案例讲解构建 AI agent 系统的 29 种设计模式，分为核心模式（Prompt Chaining、Tool Use 等）、推理与策略、编排、基础设施与状态（MCP、RAG）、可靠性与控制（Guardrails、Human-in-the-Loop）等类别。包含模式关系图、模式条目与案例研究；可在线使用或下载后离线在浏览器打开。模式内容整理自公开研究与社区资料。",
+  "highlights": [
+   "单文件包含概览页、模式关系图、29 个模式条目与案例研究",
+   "模式按核心/推理策略/编排/基础设施状态/可靠性控制分组",
+   "支持在线访问与离线下载使用"
+  ],
+  "use_cases": [
+   "学习 agentic AI 系统的常用架构模式",
+   "为 agent 系统设计选型时查阅模式关系与案例",
+   "离线环境作为设计模式速查参考"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://zeljkoavramovic.github.io/agentic-design-patterns/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "设计模式",
+   "AI Agent",
+   "知识参考"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains an interactive, single-file tutorial on essential agentic design patterns for building intellig",
+   "L32: The tutorial covers the following 29 patterns, grouped into categories:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

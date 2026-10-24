@@ -1,1 +1,76 @@
-{"fn": "zhongguagua/ai-code-decompile", "sha": "2ca9cc130651", "source": "readme", "identity": {"one_liner": "AI 驱动的 JS 反编译分析工具 JSUnpack 的前端界面", "review": "JSUnpack 是基于 AI 的 JavaScript 反编译与分析工具，面向需要理解打包、压缩、混淆后前端产物的开发者；本仓库仅为其前端开源实现，包含 UI 与交互逻辑，技术栈为 React/Next.js/TypeScript/Tailwind。分析能力包括上下文级代码逻辑分析、变量与函数用途推测、第三方库识别。声明不以 100% 还原原始源码为目标，仅供学习、分析与问题定位。本地运行需 Node>=18，通过 npm install 与 npm run dev 启动。", "highlights": ["基于上下文分析混淆代码逻辑并识别模块结构", "推测变量/函数用途，自动识别常见第三方库", "适用于多入口、多 chunk 的真实构建产物", "本仓库为前端实现，仅含 UI 与交互逻辑"], "use_cases": ["没有源码时分析某网站的交互或整体实现方案", "排查线上问题、理解历史遗留的前端产物", "技术调研中分析竞品站点的实现方式（合法合规场景）"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://www.jsunpack.tech/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码分析", "逆向工程", "反混淆", "前端工具"], "domain": "软件开发工具/代码分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 含中文版（中英双语）"]}, "trust": {"confidence": "high", "evidence": ["L5: **JSUnpack** 是一个基于 AI 的 JavaScript 反编译与分析工具，", "L65: 本仓库为 **JSUnpack 的前端开源实现**，"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zhongguagua/ai-code-decompile",
+ "sha": "2ca9cc130651",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 驱动的 JS 反编译分析工具 JSUnpack 的前端界面",
+  "review": "JSUnpack 是基于 AI 的 JavaScript 反编译与分析工具，面向需要理解打包、压缩、混淆后前端产物的开发者；本仓库仅为其前端开源实现，包含 UI 与交互逻辑，技术栈为 React/Next.js/TypeScript/Tailwind。分析能力包括上下文级代码逻辑分析、变量与函数用途推测、第三方库识别。声明不以 100% 还原原始源码为目标，仅供学习、分析与问题定位。本地运行需 Node>=18，通过 npm install 与 npm run dev 启动。",
+  "highlights": [
+   "基于上下文分析混淆代码逻辑并识别模块结构",
+   "推测变量/函数用途，自动识别常见第三方库",
+   "适用于多入口、多 chunk 的真实构建产物",
+   "本仓库为前端实现，仅含 UI 与交互逻辑"
+  ],
+  "use_cases": [
+   "没有源码时分析某网站的交互或整体实现方案",
+   "排查线上问题、理解历史遗留的前端产物",
+   "技术调研中分析竞品站点的实现方式（合法合规场景）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.jsunpack.tech/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码分析",
+   "逆向工程",
+   "反混淆",
+   "前端工具"
+  ],
+  "domain": "软件开发工具/代码分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文版（中英双语）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **JSUnpack** 是一个基于 AI 的 JavaScript 反编译与分析工具，",
+   "L65: 本仓库为 **JSUnpack 的前端开源实现**，"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

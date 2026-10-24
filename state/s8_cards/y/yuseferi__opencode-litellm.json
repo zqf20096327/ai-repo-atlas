@@ -1,1 +1,79 @@
-{"fn": "yuseferi/opencode-litellm", "sha": "cda2cce5de53", "source": "readme", "identity": {"one_liner": "让 OpenCode CLI/Desktop 自动发现 LiteLLM 代理模型的插件", "review": "面向使用 OpenCode（V1 与 V2 CLI 及 Desktop）开发者的 TypeScript 插件：自动探测运行中的 LiteLLM 代理（localhost:4000/8000/8080），拉取 /v1/models 并把发现的模型注册进 OpenCode 的 provider registry，免去手工维护 models 配置。附带模型名美化、价格映射、模态过滤、reasoning-effort 变体与 Responses API 路由等功能。V2 路径尚未随已发布的 npm 包提供（README 注明当前 plugin add 安装的是旧版本）。", "highlights": ["自动探测 LiteLLM 代理并从 /v1/models 动态注册模型", "磁盘缓存 stale-while-revalidate，条目 7 天过期", "把 /v1/model/info 的价格、模态、能力标志映射进 OpenCode", "mode: responses 的模型自动改走 /v1/responses"], "use_cases": ["OpenCode 接入自建 LiteLLM 网关，免去逐模型配置", "代理新增模型后模型选择器自动跟进", "按前缀用 includeModels/excludeModels 把一个代理拆成多个 provider"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [53, 54], "note": "V2 支持未随已发布 npm 包提供，plugin add 安装旧版"}}, "links": {"scenario_tags": ["OpenCode 插件", "LiteLLM 代理", "模型发现/路由", "开发者工具"], "domain": "LLM 基础设施/开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: **OpenCode CLI (v1 and v2) and Desktop + LiteLLM provider with zero configuration.**", "L18: Auto-detect a running LiteLLM proxy, pull every model from `/v1/models`, and register them in OpenCode.", "L37: `opencode-litellm` removes that loop entirely. It queries your LiteLLM proxy during plugin setup and registers discovere"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yuseferi/opencode-litellm",
+ "sha": "cda2cce5de53",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 OpenCode CLI/Desktop 自动发现 LiteLLM 代理模型的插件",
+  "review": "面向使用 OpenCode（V1 与 V2 CLI 及 Desktop）开发者的 TypeScript 插件：自动探测运行中的 LiteLLM 代理（localhost:4000/8000/8080），拉取 /v1/models 并把发现的模型注册进 OpenCode 的 provider registry，免去手工维护 models 配置。附带模型名美化、价格映射、模态过滤、reasoning-effort 变体与 Responses API 路由等功能。V2 路径尚未随已发布的 npm 包提供（README 注明当前 plugin add 安装的是旧版本）。",
+  "highlights": [
+   "自动探测 LiteLLM 代理并从 /v1/models 动态注册模型",
+   "磁盘缓存 stale-while-revalidate，条目 7 天过期",
+   "把 /v1/model/info 的价格、模态、能力标志映射进 OpenCode",
+   "mode: responses 的模型自动改走 /v1/responses"
+  ],
+  "use_cases": [
+   "OpenCode 接入自建 LiteLLM 网关，免去逐模型配置",
+   "代理新增模型后模型选择器自动跟进",
+   "按前缀用 includeModels/excludeModels 把一个代理拆成多个 provider"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    53,
+    54
+   ],
+   "note": "V2 支持未随已发布 npm 包提供，plugin add 安装旧版"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OpenCode 插件",
+   "LiteLLM 代理",
+   "模型发现/路由",
+   "开发者工具"
+  ],
+  "domain": "LLM 基础设施/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **OpenCode CLI (v1 and v2) and Desktop + LiteLLM provider with zero configuration.**",
+   "L18: Auto-detect a running LiteLLM proxy, pull every model from `/v1/models`, and register them in OpenCode.",
+   "L37: `opencode-litellm` removes that loop entirely. It queries your LiteLLM proxy during plugin setup and registers discovere"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

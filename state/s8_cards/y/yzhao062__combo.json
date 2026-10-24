@@ -1,1 +1,75 @@
-{"fn": "yzhao062/combo", "sha": "58213887f009", "source": "readme", "identity": {"one_liner": "面向开发者的机器学习模型与分数组合 Python 工具库", "review": "combo 是一个用于组合机器学习模型与分数的 Python 工具库，属于集成学习子任务，发表于 AAAI 2020 demo track。它提供统一 API，将来自 scikit-learn、xgboost、LightGBM 等库的模型组合起来，覆盖分类、聚类、异常检测与原始分数四类任务，实现 Stacking、DCS、DES、EAC、LSCP、XGBOD 等约 15 种组合算法，并通过 numba 与 joblib 进行 JIT 与并行优化。限制：仅支持 Python 3.5/3.6/3.7，依赖 numpy/numba/pyod/scipy/scikit-learn/joblib。以 pip 安装或源码 setup.py 安装提供。", "highlights": ["统一 API 组合来自 scikit-learn/xgboost/LightGBM 的模型与分数", "覆盖分类、聚类、异常检测、原始分数四类任务约 15 种算法", "使用 numba 与 joblib 进行 JIT 加速与并行化", "所有算法均附带示例与交互式 Jupyter Notebook（Binder）"], "use_cases": ["在数据科学竞赛或实际任务中组合多个基学习器提升预测", "组合多个异常检测器或聚类结果得到统一输出", "在研究与教学中复现模型组合（Stacking/DCS/DES 等）算法"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "http://www.andrew.cmu.edu/user/yuezhao2/papers/20-aaai-combo.pdf", "demo_url": "https://youtu.be/PaSJ49Ij7w4", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["集成学习", "机器学习库", "模型组合", "异常检测"], "domain": "机器学习/数据科学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L59: **combo** is a comprehensive Python toolbox for **combining machine learning (ML) models and scores**.", "L67: for crucial tasks including classification, clustering, anomaly detection.", "L76: * **Unified APIs, detailed documentation, and interactive examples** across various algorithms."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yzhao062/combo",
+ "sha": "58213887f009",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的机器学习模型与分数组合 Python 工具库",
+  "review": "combo 是一个用于组合机器学习模型与分数的 Python 工具库，属于集成学习子任务，发表于 AAAI 2020 demo track。它提供统一 API，将来自 scikit-learn、xgboost、LightGBM 等库的模型组合起来，覆盖分类、聚类、异常检测与原始分数四类任务，实现 Stacking、DCS、DES、EAC、LSCP、XGBOD 等约 15 种组合算法，并通过 numba 与 joblib 进行 JIT 与并行优化。限制：仅支持 Python 3.5/3.6/3.7，依赖 numpy/numba/pyod/scipy/scikit-learn/joblib。以 pip 安装或源码 setup.py 安装提供。",
+  "highlights": [
+   "统一 API 组合来自 scikit-learn/xgboost/LightGBM 的模型与分数",
+   "覆盖分类、聚类、异常检测、原始分数四类任务约 15 种算法",
+   "使用 numba 与 joblib 进行 JIT 加速与并行化",
+   "所有算法均附带示例与交互式 Jupyter Notebook（Binder）"
+  ],
+  "use_cases": [
+   "在数据科学竞赛或实际任务中组合多个基学习器提升预测",
+   "组合多个异常检测器或聚类结果得到统一输出",
+   "在研究与教学中复现模型组合（Stacking/DCS/DES 等）算法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "http://www.andrew.cmu.edu/user/yuezhao2/papers/20-aaai-combo.pdf",
+  "demo_url": "https://youtu.be/PaSJ49Ij7w4",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "集成学习",
+   "机器学习库",
+   "模型组合",
+   "异常检测"
+  ],
+  "domain": "机器学习/数据科学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L59: **combo** is a comprehensive Python toolbox for **combining machine learning (ML) models and scores**.",
+   "L67: for crucial tasks including classification, clustering, anomaly detection.",
+   "L76: * **Unified APIs, detailed documentation, and interactive examples** across various algorithms."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ pojia-next 的 macOS 移植版，以纯 Python 标准库 + Bash 脚本替换 Wor
 
 ## 场景标签
 
- · 领域:AI 客户端配置工具
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

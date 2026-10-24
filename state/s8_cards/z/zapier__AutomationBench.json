@@ -1,1 +1,76 @@
-{"fn": "zapier/AutomationBench", "sha": "d2246e212e96", "source": "readme", "identity": {"one_liner": "评估 AI agent 完成真实业务流程能力的基准", "review": "由 Zapier 维护的评测基准：在覆盖 CRM、日历、收件箱等 47 个模拟 SaaS 工具的仿真业务环境中，检验 AI agent 能否将销售、营销、运营、客服、财务、HR 六大领域（各 100 个任务）的业务流程执行到正确状态。任务全部可程序化验证，按断言式评分规则给出 partial_credit 与严格通过率两个指标；另有 200 个简单域任务不计分。官方榜单基于未公开的私有任务集，本地分数仅方向性一致。通过 git clone 源码加 CLI 运行，也可在 Prime Intellect 托管环境执行，附带网页版结果可视化器。", "highlights": ["6 大业务领域 ×100 任务，跨 47 个模拟 SaaS 工具的仿真环境验证", "全部任务可程序化验证，按断言 rubric 对比最终状态与期望状态", "partial_credit（密集奖励信号）与 task_completed_correctly（严格通过）双指标", "附带可比较多轮运行的网页可视化器"], "use_cases": ["我需要评测各家模型在真实业务流程自动化上的通过率", "我想在 RL 训练中使用 partial_credit 作为环境奖励信号", "我想对比不同模型或不同 reasoning effort 的评测结果"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/2604.18934", "demo_url": "https://zapier.com/benchmarks", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["基准测试", "agent评测", "业务流程自动化", "LLM"], "domain": "AI 评测/基准测试", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A benchmark for evaluating AI agents on realistic business workflows.", "L13: AutomationBench evaluates how well AI models complete realistic business workflows—the kind of tasks that happen daily i"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zapier/AutomationBench",
+ "sha": "d2246e212e96",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评估 AI agent 完成真实业务流程能力的基准",
+  "review": "由 Zapier 维护的评测基准：在覆盖 CRM、日历、收件箱等 47 个模拟 SaaS 工具的仿真业务环境中，检验 AI agent 能否将销售、营销、运营、客服、财务、HR 六大领域（各 100 个任务）的业务流程执行到正确状态。任务全部可程序化验证，按断言式评分规则给出 partial_credit 与严格通过率两个指标；另有 200 个简单域任务不计分。官方榜单基于未公开的私有任务集，本地分数仅方向性一致。通过 git clone 源码加 CLI 运行，也可在 Prime Intellect 托管环境执行，附带网页版结果可视化器。",
+  "highlights": [
+   "6 大业务领域 ×100 任务，跨 47 个模拟 SaaS 工具的仿真环境验证",
+   "全部任务可程序化验证，按断言 rubric 对比最终状态与期望状态",
+   "partial_credit（密集奖励信号）与 task_completed_correctly（严格通过）双指标",
+   "附带可比较多轮运行的网页可视化器"
+  ],
+  "use_cases": [
+   "我需要评测各家模型在真实业务流程自动化上的通过率",
+   "我想在 RL 训练中使用 partial_credit 作为环境奖励信号",
+   "我想对比不同模型或不同 reasoning effort 的评测结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2604.18934",
+  "demo_url": "https://zapier.com/benchmarks",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "agent评测",
+   "业务流程自动化",
+   "LLM"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A benchmark for evaluating AI agents on realistic business workflows.",
+   "L13: AutomationBench evaluates how well AI models complete realistic business workflows—the kind of tasks that happen daily i"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

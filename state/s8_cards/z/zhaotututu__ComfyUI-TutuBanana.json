@@ -1,1 +1,86 @@
-{"fn": "zhaotututu/ComfyUI-TutuBanana", "sha": "0824c2c6718f", "source": "readme", "identity": {"one_liner": "ComfyUI 的 Gemini 图像生成节点套件，接多平台 API", "review": "面向 ComfyUI 用户的自定义节点套装，调用 Google Gemini 系列模型（Nano Banana）的 API 生成与编辑图像。提供三个节点：提示词模板管理器（内置 333 个中英双语模板、10 大类别）、双平台节点（OpenRouter / ai.comfly.chat，最多 5 路图像输入）、专业版节点（Google 官方 API / T8Star，最多 14 路输入，支持宽高比与 1K-4K 分辨率控制，Google 官方可启用搜索增强）。支持端口到图片编号的自动索引映射与种子随机控制。需自备 API 密钥，通过 Git 克隆或手动下载安装。", "highlights": ["四个 API 平台支持：OpenRouter、ai.comfly.chat、Google 官方、T8Star", "内置 333 个中英双语提示词模板，10 大类别", "专业版最多 14 路图像输入，支持宽高比与 1K/2K/4K 分辨率控制", "端口到图片编号的自动索引映射与随机种子控制"], "use_cases": ["在 ComfyUI 工作流中调用 Gemini 模型做文生图或图生图", "用模板管理器快速套用专业提示词", "多图合成编辑，如把图1人物放到图2背景并套用图3风格", "Google 官方 API 下生成 4K 高分辨率图像"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI 节点", "图像生成", "提示词模板", "Gemini API", "AI 绘图工作流"], "domain": "AI 图像生成/ComfyUI 生态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "T8Star 国内优化 API", "Comfly 国内优化平台", "Bilibili 教程账号 @zhaotutu"]}, "trust": {"confidence": "mid", "evidence": ["L18: ComfyUI-TutuBanana 是一个功能强大的ComfyUI自定义节点套装，专为Google Gemini系列模型的图像生成而设计。该项目提供了三个核心节点，涵盖从提示词模板管理到多平台API调用的完整工作流程。", "L22: - 🎨 **三大核心节点**：提示词模板管理器 + 双API平台支持 + Google官方API专业版", "L98: - 🏢 **Google官方API直连**：使用官方Gemini 3 Pro API"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zhaotututu/ComfyUI-TutuBanana",
+ "sha": "0824c2c6718f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 的 Gemini 图像生成节点套件，接多平台 API",
+  "review": "面向 ComfyUI 用户的自定义节点套装，调用 Google Gemini 系列模型（Nano Banana）的 API 生成与编辑图像。提供三个节点：提示词模板管理器（内置 333 个中英双语模板、10 大类别）、双平台节点（OpenRouter / ai.comfly.chat，最多 5 路图像输入）、专业版节点（Google 官方 API / T8Star，最多 14 路输入，支持宽高比与 1K-4K 分辨率控制，Google 官方可启用搜索增强）。支持端口到图片编号的自动索引映射与种子随机控制。需自备 API 密钥，通过 Git 克隆或手动下载安装。",
+  "highlights": [
+   "四个 API 平台支持：OpenRouter、ai.comfly.chat、Google 官方、T8Star",
+   "内置 333 个中英双语提示词模板，10 大类别",
+   "专业版最多 14 路图像输入，支持宽高比与 1K/2K/4K 分辨率控制",
+   "端口到图片编号的自动索引映射与随机种子控制"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中调用 Gemini 模型做文生图或图生图",
+   "用模板管理器快速套用专业提示词",
+   "多图合成编辑，如把图1人物放到图2背景并套用图3风格",
+   "Google 官方 API 下生成 4K 高分辨率图像"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI 节点",
+   "图像生成",
+   "提示词模板",
+   "Gemini API",
+   "AI 绘图工作流"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "T8Star 国内优化 API",
+   "Comfly 国内优化平台",
+   "Bilibili 教程账号 @zhaotutu"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: ComfyUI-TutuBanana 是一个功能强大的ComfyUI自定义节点套装，专为Google Gemini系列模型的图像生成而设计。该项目提供了三个核心节点，涵盖从提示词模板管理到多平台API调用的完整工作流程。",
+   "L22: - 🎨 **三大核心节点**：提示词模板管理器 + 双API平台支持 + Google官方API专业版",
+   "L98: - 🏢 **Google官方API直连**：使用官方Gemini 3 Pro API"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

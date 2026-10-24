@@ -1,1 +1,87 @@
-{"fn": "zai-org/GLM-Image", "sha": "f2d676b0c1d7", "source": "readme", "identity": {"one_liner": "自回归+扩散混合架构的开源文生图/图生图模型（9B+7B）", "review": "智谱（zai-org）开源的图像生成模型，采用混合架构：9B 参数自回归生成器（初始化自 GLM-4-9B-0414，先生成约 256 token 压缩编码再扩展至 1K–4K token）加 7B 单流 DiT 扩散解码器（含 Glyph Encoder 文本模块），支持单一模型内文生图与图生图（编辑、风格迁移、身份保持、多主体一致性），后训练使用解耦强化学习（GRPO）。运行依赖 transformers/diffusers 或 SGLang，需 80GB 以上显存单卡或多卡，目标分辨率须被 32 整除。", "highlights": ["9B 自回归生成器 + 7B DiT 扩散解码器（含 Glyph Encoder 文本模块）", "单模型同时支持文生图与多种图生图任务", "GRPO 解耦强化学习后训练：AR 模块低频反馈 + 解码器高频反馈", "提供 transformers/diffusers 与 SGLang 两种推理管线"], "use_cases": ["生成含密集文字与知识性内容的图像", "图像编辑、风格迁移、身份保持与多主体一致性生成", "本地部署并通过 SGLang OpenAI 兼容接口提供图像生成服务"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [115], "note": "推理优化目前有限、vLLM/SGLang 加速仍在集成"}}, "links": {"scenario_tags": ["文生图", "图生图", "图像编辑", "扩散模型", "自回归模型"], "domain": "图像生成/生成式模型", "alternative_to": [], "competitors_mentioned": ["通义千问"], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["维护方为智谱（zai-org）", "微信社区入口", "中文文本渲染基准（LongText-Bench ZH）"]}, "trust": {"confidence": "mid", "evidence": ["L13: GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image", "L29: GLM-Image supports both text-to-image and image-to-image generation within a single model.", "L114: + Because the inference optimizations for this architecture are currently limited, the runtime cost is still relatively "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zai-org/GLM-Image",
+ "sha": "f2d676b0c1d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自回归+扩散混合架构的开源文生图/图生图模型（9B+7B）",
+  "review": "智谱（zai-org）开源的图像生成模型，采用混合架构：9B 参数自回归生成器（初始化自 GLM-4-9B-0414，先生成约 256 token 压缩编码再扩展至 1K–4K token）加 7B 单流 DiT 扩散解码器（含 Glyph Encoder 文本模块），支持单一模型内文生图与图生图（编辑、风格迁移、身份保持、多主体一致性），后训练使用解耦强化学习（GRPO）。运行依赖 transformers/diffusers 或 SGLang，需 80GB 以上显存单卡或多卡，目标分辨率须被 32 整除。",
+  "highlights": [
+   "9B 自回归生成器 + 7B DiT 扩散解码器（含 Glyph Encoder 文本模块）",
+   "单模型同时支持文生图与多种图生图任务",
+   "GRPO 解耦强化学习后训练：AR 模块低频反馈 + 解码器高频反馈",
+   "提供 transformers/diffusers 与 SGLang 两种推理管线"
+  ],
+  "use_cases": [
+   "生成含密集文字与知识性内容的图像",
+   "图像编辑、风格迁移、身份保持与多主体一致性生成",
+   "本地部署并通过 SGLang OpenAI 兼容接口提供图像生成服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    115
+   ],
+   "note": "推理优化目前有限、vLLM/SGLang 加速仍在集成"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生图",
+   "图生图",
+   "图像编辑",
+   "扩散模型",
+   "自回归模型"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "通义千问"
+  ],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护方为智谱（zai-org）",
+   "微信社区入口",
+   "中文文本渲染基准（LongText-Bench ZH）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image",
+   "L29: GLM-Image supports both text-to-image and image-to-image generation within a single model.",
+   "L114: + Because the inference optimizations for this architecture are currently limited, the runtime cost is still relatively "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

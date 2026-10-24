@@ -1,1 +1,79 @@
-{"fn": "zerolovesea/NextRec", "sha": "f6278ced605f", "source": "readme", "identity": {"one_liner": "基于 PyTorch 的统一推荐系统框架，供研究与工程团队建模训练", "review": "NextRec 是基于 PyTorch 的推荐系统框架，面向研究工程团队与推荐算法学习者，提供排序、召回、序列推荐、多任务与预训练共五类模型的实现（含 DeepFM、DSSM、SASRec、MMOE、RQ-VAE 等），配套统一特征工程与数据流水线、命令行工具 NextCLI、实验跟踪（Wandb/Swanlab/Tensorboard）与 ONNX 导出。通过 pip 安装，要求 Python 3.10+，召回检索依赖 FAISS 需额外安装。部分传统模型（BPR/MF/LightGCN 等）标注开发中。", "highlights": ["覆盖排序/召回/序列/多任务/预训练五类模型，各附论文出处与支持状态", "统一的特征定义、数据处理与分布式训练/推理流水线", "命令行工具按 YAML 配置一键启动训练与推理，支持本地文档与可视化平台", "支持 ONNX 导出与 ONNX Runtime 推理（可选 extra）"], "use_cases": ["复现推荐系统学术论文并快速训练验证", "业务算法工程师搭建 CTR/召回/多任务模型的训练推理流程", "推荐算法学习者通过示例代码与模型注解了解模型架构"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["推荐系统", "CTR预估", "PyTorch框架", "工业级机器学习"], "domain": "推荐系统/机器学习框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文 README 与中文文档", "AutoDL 平台验证环境（国内 GPU 云）"]}, "trust": {"confidence": "high", "evidence": ["L17: NextRec是一个基于PyTorch的现代推荐系统框架，旨在为研究工程团队提供快速的建模、训练与评估流。框架内置丰富的模型库、数据处理工具和工程化训练组件。此外提供了易上手的接口，命令行工具及教程，推荐算法学习者能以最快速度了解模型架构，", "L20: - **多场景推荐能力**：覆盖排序（CTR/CVR）、匹配、多任务学习、生成式召回等推荐/营销模型，持续跟进业界进展。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zerolovesea/NextRec",
+ "sha": "f6278ced605f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 PyTorch 的统一推荐系统框架，供研究与工程团队建模训练",
+  "review": "NextRec 是基于 PyTorch 的推荐系统框架，面向研究工程团队与推荐算法学习者，提供排序、召回、序列推荐、多任务与预训练共五类模型的实现（含 DeepFM、DSSM、SASRec、MMOE、RQ-VAE 等），配套统一特征工程与数据流水线、命令行工具 NextCLI、实验跟踪（Wandb/Swanlab/Tensorboard）与 ONNX 导出。通过 pip 安装，要求 Python 3.10+，召回检索依赖 FAISS 需额外安装。部分传统模型（BPR/MF/LightGCN 等）标注开发中。",
+  "highlights": [
+   "覆盖排序/召回/序列/多任务/预训练五类模型，各附论文出处与支持状态",
+   "统一的特征定义、数据处理与分布式训练/推理流水线",
+   "命令行工具按 YAML 配置一键启动训练与推理，支持本地文档与可视化平台",
+   "支持 ONNX 导出与 ONNX Runtime 推理（可选 extra）"
+  ],
+  "use_cases": [
+   "复现推荐系统学术论文并快速训练验证",
+   "业务算法工程师搭建 CTR/召回/多任务模型的训练推理流程",
+   "推荐算法学习者通过示例代码与模型注解了解模型架构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推荐系统",
+   "CTR预估",
+   "PyTorch框架",
+   "工业级机器学习"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "recommender-system"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 与中文文档",
+   "AutoDL 平台验证环境（国内 GPU 云）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: NextRec是一个基于PyTorch的现代推荐系统框架，旨在为研究工程团队提供快速的建模、训练与评估流。框架内置丰富的模型库、数据处理工具和工程化训练组件。此外提供了易上手的接口，命令行工具及教程，推荐算法学习者能以最快速度了解模型架构，",
+   "L20: - **多场景推荐能力**：覆盖排序（CTR/CVR）、匹配、多任务学习、生成式召回等推荐/营销模型，持续跟进业界进展。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

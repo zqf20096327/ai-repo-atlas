@@ -1,1 +1,80 @@
-{"fn": "yxp934/Prompt-Tree", "sha": "4a537b4fd6e0", "source": "readme", "identity": {"one_liner": "本地优先 AI 聊天客户端：以节点树分支管理对话与上下文", "review": "基于 Next.js/React/TypeScript 的本地优先 AI 聊天客户端，把对话建模为可分支的节点 DAG，配合画布可视化管理线程。提供 Context Box 用于逐请求组装提示词（拖拽节点、排序、token 追踪与压缩），三层长期记忆（用户画像、记忆库、文件夹文档）与可选的记忆检索工具。支持多模型并行分支、OpenAI 兼容接口、Web Search/MCP/本地 Python 工具。会话存于浏览器 IndexedDB，需 Node.js 18+，通过 npm 全局安装后以 CLI 启动 Web 界面。", "highlights": ["对话以节点 DAG 建模，可从任意节点分支并比较多模型输出", "Context Box 显式组装上下文：拖拽节点、排序、预览、token 追踪", "三层长期记忆（Profile/Memory Bank/Folder Doc）+ search_memory 工具与可选 embeddings", "链路压缩：将选定链或上下文压缩为紧凑节点，可解压还原"], "use_cases": ["长对话中分支探索多个方案而不丢失上下文", "手工挑选并压缩历史节点，控制每次请求的 token 消耗", "跨线程保留个人偏好与记忆，继续先前的讨论"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM客户端", "上下文工程", "对话分支", "本地优先", "记忆管理"], "domain": "LLM 客户端/上下文管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "文档含中文命名（需求文档等）"]}, "trust": {"confidence": "high", "evidence": ["L11: Prompt Tree is a **local-first AI chat client** that models each conversation as a **node-based DAG (a tree with branche", "L27: - **Context Box**: drag nodes into a curated context, reorder, preview, and track tokens."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yxp934/Prompt-Tree",
+ "sha": "4a537b4fd6e0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先 AI 聊天客户端：以节点树分支管理对话与上下文",
+  "review": "基于 Next.js/React/TypeScript 的本地优先 AI 聊天客户端，把对话建模为可分支的节点 DAG，配合画布可视化管理线程。提供 Context Box 用于逐请求组装提示词（拖拽节点、排序、token 追踪与压缩），三层长期记忆（用户画像、记忆库、文件夹文档）与可选的记忆检索工具。支持多模型并行分支、OpenAI 兼容接口、Web Search/MCP/本地 Python 工具。会话存于浏览器 IndexedDB，需 Node.js 18+，通过 npm 全局安装后以 CLI 启动 Web 界面。",
+  "highlights": [
+   "对话以节点 DAG 建模，可从任意节点分支并比较多模型输出",
+   "Context Box 显式组装上下文：拖拽节点、排序、预览、token 追踪",
+   "三层长期记忆（Profile/Memory Bank/Folder Doc）+ search_memory 工具与可选 embeddings",
+   "链路压缩：将选定链或上下文压缩为紧凑节点，可解压还原"
+  ],
+  "use_cases": [
+   "长对话中分支探索多个方案而不丢失上下文",
+   "手工挑选并压缩历史节点，控制每次请求的 token 消耗",
+   "跨线程保留个人偏好与记忆，继续先前的讨论"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM客户端",
+   "上下文工程",
+   "对话分支",
+   "本地优先",
+   "记忆管理"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "文档含中文命名（需求文档等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Prompt Tree is a **local-first AI chat client** that models each conversation as a **node-based DAG (a tree with branche",
+   "L27: - **Context Box**: drag nodes into a curated context, reorder, preview, and track tokens."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

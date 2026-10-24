@@ -1,1 +1,81 @@
-{"fn": "yym68686/ChatGPT-Telegram-Bot", "sha": "14560f0fbe5e", "source": "readme", "identity": {"one_liner": "Telegram AI 聊天机器人：接入 OpenAI 兼容 API 对话与联网搜索", "review": "用 Python 编写的 Telegram 机器人，支持 OpenAI 兼容的大模型 API，提供多模态问答（语音/图片/PDF/TXT/MD/Python 文件）、模型分组、群组话题隔离、DuckDuckGo/Google 联网搜索、URL 与 ArXiv 论文摘要、代码解释器与图像生成等插件，并支持多用户对话隔离、多语言界面与白名单管理。Anthropic、Gemini、Azure、AWS、Groq 等其他厂商模型需经作者的 uni-api 项目接入。支持 Docker 及 Koyeb/Zeabur/Replit 等一键部署。", "highlights": ["支持语音、图片、PDF 等多模态文件问答", "插件系统：联网搜索、URL/ArXiv 摘要、代码解释器、图像生成", "多用户对话隔离与群组话题模式", "Koyeb/Zeabur/Replit 一键部署与 Docker/fly.io 部署"], "use_cases": ["在 Telegram 里直接与 GPT 类模型对话并联网搜索", "群聊中 @机器人即时获得回答", "上传论文或文档让机器人做摘要问答"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["聊天机器人", "Telegram", "LLM应用", "联网搜索", "多模态问答"], "domain": "LLM 应用/聊天机器人", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本（L3）", "支持简体/繁体中文界面（L29）"]}, "trust": {"confidence": "high", "evidence": ["L15: ChatGPT Telegram Bot is a powerful Telegram bot that supports OpenAI-compatible large language model APIs. It enables us", "L20: - **Multimodal Question Answering**: Supports question answering for voice, audio, images, and PDF/TXT/MD/python documen"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yym68686/ChatGPT-Telegram-Bot",
+ "sha": "14560f0fbe5e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Telegram AI 聊天机器人：接入 OpenAI 兼容 API 对话与联网搜索",
+  "review": "用 Python 编写的 Telegram 机器人，支持 OpenAI 兼容的大模型 API，提供多模态问答（语音/图片/PDF/TXT/MD/Python 文件）、模型分组、群组话题隔离、DuckDuckGo/Google 联网搜索、URL 与 ArXiv 论文摘要、代码解释器与图像生成等插件，并支持多用户对话隔离、多语言界面与白名单管理。Anthropic、Gemini、Azure、AWS、Groq 等其他厂商模型需经作者的 uni-api 项目接入。支持 Docker 及 Koyeb/Zeabur/Replit 等一键部署。",
+  "highlights": [
+   "支持语音、图片、PDF 等多模态文件问答",
+   "插件系统：联网搜索、URL/ArXiv 摘要、代码解释器、图像生成",
+   "多用户对话隔离与群组话题模式",
+   "Koyeb/Zeabur/Replit 一键部署与 Docker/fly.io 部署"
+  ],
+  "use_cases": [
+   "在 Telegram 里直接与 GPT 类模型对话并联网搜索",
+   "群聊中 @机器人即时获得回答",
+   "上传论文或文档让机器人做摘要问答"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天机器人",
+   "Telegram",
+   "LLM应用",
+   "联网搜索",
+   "多模态问答"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本（L3）",
+   "支持简体/繁体中文界面（L29）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: ChatGPT Telegram Bot is a powerful Telegram bot that supports OpenAI-compatible large language model APIs. It enables us",
+   "L20: - **Multimodal Question Answering**: Supports question answering for voice, audio, images, and PDF/TXT/MD/python documen"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

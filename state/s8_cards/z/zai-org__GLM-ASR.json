@@ -1,1 +1,80 @@
-{"fn": "zai-org/GLM-ASR", "sha": "e367baf3cbc5", "source": "readme", "identity": {"one_liner": "面向终端用户的 1.5B 参数开源语音识别模型", "review": "GLM-ASR-Nano-2512 是 zai-org 发布的 1.5B 参数开源语音识别模型，支持 17 种语言（WER ≤ 20%），针对粤语等方言及低音量语音场景做了训练优化。模型权重发布于 Hugging Face 与 ModelScope，提供 transformers 与 SGLang 两种推理路径：transformers 5.0.0 需从源码安装，SGLang 需使用最新开发版 Docker 镜像并通过 OpenAI 兼容接口请求。附中英文测试音频与示例代码。", "highlights": ["1.5B 参数语音识别模型，支持 17 种语言", "针对粤语等方言与低音量（安静语音）场景优化", "提供 transformers 与 SGLang 两种推理路径", "权重托管于 Hugging Face 与 ModelScope"], "use_cases": ["我需要转写含方言或低音量的中英文音频", "部署一个可通过 OpenAI 兼容接口调用的 ASR 服务", "在会议等含噪声与重叠语音的场景下做语音转文字"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音识别", "ASR", "多语言", "边缘部署"], "domain": "语音识别/多模态模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中文 README 链接（L3）", "维护方为 zai-org（智谱）", "微信社群入口（L5）"]}, "trust": {"confidence": "mid", "evidence": ["L11: **GLM-ASR-Nano-2512** is a robust, open-source speech recognition model with **1.5B parameters**. Designed for", "L21:  Specifically trained for **\"Whisper/Quiet Speech\"** scenarios. It captures and accurately transcribes extremely"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zai-org/GLM-ASR",
+ "sha": "e367baf3cbc5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向终端用户的 1.5B 参数开源语音识别模型",
+  "review": "GLM-ASR-Nano-2512 是 zai-org 发布的 1.5B 参数开源语音识别模型，支持 17 种语言（WER ≤ 20%），针对粤语等方言及低音量语音场景做了训练优化。模型权重发布于 Hugging Face 与 ModelScope，提供 transformers 与 SGLang 两种推理路径：transformers 5.0.0 需从源码安装，SGLang 需使用最新开发版 Docker 镜像并通过 OpenAI 兼容接口请求。附中英文测试音频与示例代码。",
+  "highlights": [
+   "1.5B 参数语音识别模型，支持 17 种语言",
+   "针对粤语等方言与低音量（安静语音）场景优化",
+   "提供 transformers 与 SGLang 两种推理路径",
+   "权重托管于 Hugging Face 与 ModelScope"
+  ],
+  "use_cases": [
+   "我需要转写含方言或低音量的中英文音频",
+   "部署一个可通过 OpenAI 兼容接口调用的 ASR 服务",
+   "在会议等含噪声与重叠语音的场景下做语音转文字"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音识别",
+   "ASR",
+   "多语言",
+   "边缘部署"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 链接（L3）",
+   "维护方为 zai-org（智谱）",
+   "微信社群入口（L5）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: **GLM-ASR-Nano-2512** is a robust, open-source speech recognition model with **1.5B parameters**. Designed for",
+   "L21:  Specifically trained for **\"Whisper/Quiet Speech\"** scenarios. It captures and accurately transcribes extremely"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

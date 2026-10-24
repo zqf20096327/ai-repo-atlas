@@ -1,1 +1,82 @@
-{"fn": "zai-org/CogAgent", "sha": "e096f7b6fbb1", "source": "readme", "identity": {"one_liner": "开源 VLM GUI Agent 模型：看屏幕截图执行跨平台界面操作", "review": "CogAgent-9B-20241220 是基于 GLM-4V-9B 的双语（中英）视觉语言 GUI Agent 执行模型：接收屏幕截图与任务描述，输出带坐标的动作指令（点击/输入/滚动等），支持 Windows、macOS 与 Android 平台，可用于自动化图形界面操作。模型属执行型而非对话型，不支持连续对话但支持执行历史。BF16 推理需至少 29GB 显存，INT8 约 15GB，INT4 约 8GB（仅限 NVIDIA 设备）；SFT 微调需 8×A100 且冻结视觉编码器，LoRA 需单卡约 70GB 显存。已应用于智谱 GLM-PC 产品，CVPR 2024 Highlight 论文。", "highlights": ["截图+自然语言输入，输出带坐标的 GUI 动作指令（Action-Operation 格式）", "支持 Windows 10/11、macOS 14/15、Android 13-15 三类平台", "多种输出格式可选：含敏感操作标记、Status、Plan 等字段", "HuggingFace/ModelScope/Modelers(Ascend) 提供模型下载与在线 Demo"], "use_cases": ["让模型根据屏幕截图自动执行桌面或手机的 GUI 操作任务", "研究基于视觉语言模型的 GUI Agent 与 GUI Grounding 基准", "在自有数据上对 GUI Agent 模型做 SFT 或 LoRA 微调"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": "gpu-8g", "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["GUI Agent", "computer-use", "VLM", "多模态模型", "自动化"], "domain": "多模态模型/GUI 自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中文文档入口", "智谱 GLM 系列模型（zai-org/智谱AI）", "已应用于智谱 GLM-PC 产品", "中文实操文档"]}, "trust": {"confidence": "high", "evidence": ["L24: `CogAgent-9B-20241220` model is based on GLM-4V-9B, a bilingual open-source", "L77: `cogagent-9b-20241220` is an agent-type execution model rather than a conversational model. It does not support"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zai-org/CogAgent",
+ "sha": "e096f7b6fbb1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 VLM GUI Agent 模型：看屏幕截图执行跨平台界面操作",
+  "review": "CogAgent-9B-20241220 是基于 GLM-4V-9B 的双语（中英）视觉语言 GUI Agent 执行模型：接收屏幕截图与任务描述，输出带坐标的动作指令（点击/输入/滚动等），支持 Windows、macOS 与 Android 平台，可用于自动化图形界面操作。模型属执行型而非对话型，不支持连续对话但支持执行历史。BF16 推理需至少 29GB 显存，INT8 约 15GB，INT4 约 8GB（仅限 NVIDIA 设备）；SFT 微调需 8×A100 且冻结视觉编码器，LoRA 需单卡约 70GB 显存。已应用于智谱 GLM-PC 产品，CVPR 2024 Highlight 论文。",
+  "highlights": [
+   "截图+自然语言输入，输出带坐标的 GUI 动作指令（Action-Operation 格式）",
+   "支持 Windows 10/11、macOS 14/15、Android 13-15 三类平台",
+   "多种输出格式可选：含敏感操作标记、Status、Plan 等字段",
+   "HuggingFace/ModelScope/Modelers(Ascend) 提供模型下载与在线 Demo"
+  ],
+  "use_cases": [
+   "让模型根据屏幕截图自动执行桌面或手机的 GUI 操作任务",
+   "研究基于视觉语言模型的 GUI Agent 与 GUI Grounding 基准",
+   "在自有数据上对 GUI Agent 模型做 SFT 或 LoRA 微调"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GUI Agent",
+   "computer-use",
+   "VLM",
+   "多模态模型",
+   "自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档入口",
+   "智谱 GLM 系列模型（zai-org/智谱AI）",
+   "已应用于智谱 GLM-PC 产品",
+   "中文实操文档"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: `CogAgent-9B-20241220` model is based on GLM-4V-9B, a bilingual open-source",
+   "L77: `cogagent-9b-20241220` is an agent-type execution model rather than a conversational model. It does not support"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

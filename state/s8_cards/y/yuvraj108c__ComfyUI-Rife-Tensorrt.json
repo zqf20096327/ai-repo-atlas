@@ -1,1 +1,76 @@
-{"fn": "yuvraj108c/ComfyUI-Rife-Tensorrt", "sha": "b13ab37e56bd", "source": "readme", "identity": {"one_liner": "ComfyUI 的 RIFE TensorRT 帧插值节点，加速视频补帧", "review": "ComfyUI 自定义节点，以 TensorRT 引擎运行 RIFE 模型做视频帧插值，支持 rife47/rife48/rife49 三种模型，首次使用时从 HuggingFace 自动下载模型并构建 TensorRT 引擎，支持 fp16/fp32 精度与 256x256 至 3840x3840 分辨率输入。通过两节点系统（Load Model + Rife Tensorrt）使用，安装方式为在 custom_nodes 目录 git clone 并安装依赖。需 CUDA 环境，README 在 H100 上给出基准数据，许可为 CC BY-NC-SA 4.0（禁止商用）。", "highlights": ["TensorRT 实现 RIFE 帧插值，提供 rife47/48/49 三种模型", "模型自动从 HuggingFace 下载并按需构建引擎", "支持 256x256 至 3840x3840 分辨率与 fp16/fp32 精度", "两节点工作流：Load Rife Tensorrt Model + Rife Tensorrt"], "use_cases": ["我在 ComfyUI 里给视频做帧率倍增", "需要 GPU 加速的帧插值处理低帧率视频素材", "制作平滑慢动作或补帧动画"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI", "视频帧插值", "TensorRT", "图像/视频处理"], "domain": "图像/视频处理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L8: This project provides a TensorRT implementation of RIFE for ultra fast frame interpolation inside ComfyUI", "L67: 2. **Process Frames**: Insert `Right Click -> Add Node -> tensorrt -> Rife Tensorrt`"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yuvraj108c/ComfyUI-Rife-Tensorrt",
+ "sha": "b13ab37e56bd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 的 RIFE TensorRT 帧插值节点，加速视频补帧",
+  "review": "ComfyUI 自定义节点，以 TensorRT 引擎运行 RIFE 模型做视频帧插值，支持 rife47/rife48/rife49 三种模型，首次使用时从 HuggingFace 自动下载模型并构建 TensorRT 引擎，支持 fp16/fp32 精度与 256x256 至 3840x3840 分辨率输入。通过两节点系统（Load Model + Rife Tensorrt）使用，安装方式为在 custom_nodes 目录 git clone 并安装依赖。需 CUDA 环境，README 在 H100 上给出基准数据，许可为 CC BY-NC-SA 4.0（禁止商用）。",
+  "highlights": [
+   "TensorRT 实现 RIFE 帧插值，提供 rife47/48/49 三种模型",
+   "模型自动从 HuggingFace 下载并按需构建引擎",
+   "支持 256x256 至 3840x3840 分辨率与 fp16/fp32 精度",
+   "两节点工作流：Load Rife Tensorrt Model + Rife Tensorrt"
+  ],
+  "use_cases": [
+   "我在 ComfyUI 里给视频做帧率倍增",
+   "需要 GPU 加速的帧插值处理低帧率视频素材",
+   "制作平滑慢动作或补帧动画"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI",
+   "视频帧插值",
+   "TensorRT",
+   "图像/视频处理"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: This project provides a TensorRT implementation of RIFE for ultra fast frame interpolation inside ComfyUI",
+   "L67: 2. **Process Frames**: Insert `Right Click -> Add Node -> tensorrt -> Rife Tensorrt`"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

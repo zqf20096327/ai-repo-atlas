@@ -1,1 +1,81 @@
-{"fn": "yxw007/vscode-translate-next", "sha": "632c639eeb12", "source": "readme", "identity": {"one_liner": "面向开发者的多引擎 VS Code 翻译插件", "review": "一款 VS Code 翻译扩展，功能包括悬停翻译、注释翻译与一键批量替换、终端选中文本翻译、插件详情与 Markdown 预览沉浸式翻译等，支持按扩展名白名单自定义 Hover 生效范围。底层由 translate 提供翻译支持，内置 Google、Bing 免费引擎开箱即用，另可配置 Azure、Amazon、百度、DeepL、腾讯及自定义引擎（含 DeepSeek、智谱、千问等）。使用需在官网注册并登录，要求 VSCode >= 1.91.0。", "highlights": ["悬停翻译、注释批量替换、终端文本翻译、Markdown 沉浸式翻译", "支持 8 类翻译引擎及自定义引擎接入", "Google/Bing 免费引擎无需配置开箱即用", "提供翻译缓存与按需关闭特性以控制字符消耗"], "use_cases": ["写代码时悬停即译外文标识符与文档", "批量把项目注释翻译替换为目标语言", "在终端和插件详情页阅读外文内容时即选即译"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["VS Code 扩展", "翻译工具", "i18n", "开发效率"], "domain": "开发者工具/翻译", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文为主的 README", "B 站账号与微信联系方式", "百度/腾讯/智谱/千问等国内引擎配置教程"]}, "trust": {"confidence": "high", "evidence": ["L13: - **Hover 翻译** — 鼠标悬停即译", "L36: ## 💻 支持的翻译引擎", "L72: - 配置自定义翻译引擎（内含 DeepSeek、智谱、千问、Xiaomi MiMo 等配置）"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yxw007/vscode-translate-next",
+ "sha": "632c639eeb12",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的多引擎 VS Code 翻译插件",
+  "review": "一款 VS Code 翻译扩展，功能包括悬停翻译、注释翻译与一键批量替换、终端选中文本翻译、插件详情与 Markdown 预览沉浸式翻译等，支持按扩展名白名单自定义 Hover 生效范围。底层由 translate 提供翻译支持，内置 Google、Bing 免费引擎开箱即用，另可配置 Azure、Amazon、百度、DeepL、腾讯及自定义引擎（含 DeepSeek、智谱、千问等）。使用需在官网注册并登录，要求 VSCode >= 1.91.0。",
+  "highlights": [
+   "悬停翻译、注释批量替换、终端文本翻译、Markdown 沉浸式翻译",
+   "支持 8 类翻译引擎及自定义引擎接入",
+   "Google/Bing 免费引擎无需配置开箱即用",
+   "提供翻译缓存与按需关闭特性以控制字符消耗"
+  ],
+  "use_cases": [
+   "写代码时悬停即译外文标识符与文档",
+   "批量把项目注释翻译替换为目标语言",
+   "在终端和插件详情页阅读外文内容时即选即译"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "VS Code 扩展",
+   "翻译工具",
+   "i18n",
+   "开发效率"
+  ],
+  "domain": "开发者工具/翻译",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文为主的 README",
+   "B 站账号与微信联系方式",
+   "百度/腾讯/智谱/千问等国内引擎配置教程"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: - **Hover 翻译** — 鼠标悬停即译",
+   "L36: ## 💻 支持的翻译引擎",
+   "L72: - 配置自定义翻译引擎（内含 DeepSeek、智谱、千问、Xiaomi MiMo 等配置）"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

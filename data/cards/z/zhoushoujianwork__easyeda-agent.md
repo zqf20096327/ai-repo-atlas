@@ -34,7 +34,7 @@ EasyEDA Pro 的 AI 自动化工具：把原理图/PCB 操作封装为 typed acti
 
 ## 场景标签
 
- · 领域:EDA/硬件设计自动化
+`GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

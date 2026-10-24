@@ -1,1 +1,84 @@
-{"fn": "yuriwa/crewai-sheets-ui", "sha": "9e15b6cc5db4", "source": "readme", "identity": {"one_liner": "用 Google Sheets 作为 CrewAI 多智能体界面，无代码编排 AI 任务", "review": "个人维护的业余项目（已宣布关闭并由 EpicStaff 接替）：把 Google Sheets 用作 crewAI 的图形界面，面向不熟悉编程的用户编排 GPT 智能体、管理项目、切换模型。工具库覆盖 crewai-tools 与 langchain 系列，含基于 open-interpreter 的执行器工具；兼容 OpenAI、Azure、Anthropic、Groq、Hugging Face 等提供商，也支持 Ollama 本地模型，并提供 Docker 与源码两种运行方式。", "highlights": ["Google Sheets 作为 UI 编排 CrewAI 智能体与项目", "兼容 OpenAI/Azure/Anthropic/Groq/Hugging Face 提供商，可一键切换模型", "支持 Ollama 本地模型与 Groq 限流处理", "基于 open-interpreter 的执行器工具，可运行命令生成代码"], "use_cases": ["不写代码、通过表格界面让 AI 智能体帮我完成日常任务", "为不同智能体和任务分别配置不同 LLM 模型", "本地跑 Ollama 模型离线执行智能体任务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [1, 2]}}, "links": {"scenario_tags": ["多智能体编排", "低代码/无代码", "Google Sheets", "CrewAI", "本地模型"], "domain": "LLM 应用/智能体编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["groq", "ollama", "azure"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L25: - **Extensive Tools Library**: From `crewai-sheets-ui` to `crewai-tools`, including the latest from `langchain` and `lan", "L41: - **Familiar Interface**: Leveraging a Google Sheets UI, this tool brings advanced automation into an easy-to-use, famil"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yuriwa/crewai-sheets-ui",
+ "sha": "9e15b6cc5db4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 Google Sheets 作为 CrewAI 多智能体界面，无代码编排 AI 任务",
+  "review": "个人维护的业余项目（已宣布关闭并由 EpicStaff 接替）：把 Google Sheets 用作 crewAI 的图形界面，面向不熟悉编程的用户编排 GPT 智能体、管理项目、切换模型。工具库覆盖 crewai-tools 与 langchain 系列，含基于 open-interpreter 的执行器工具；兼容 OpenAI、Azure、Anthropic、Groq、Hugging Face 等提供商，也支持 Ollama 本地模型，并提供 Docker 与源码两种运行方式。",
+  "highlights": [
+   "Google Sheets 作为 UI 编排 CrewAI 智能体与项目",
+   "兼容 OpenAI/Azure/Anthropic/Groq/Hugging Face 提供商，可一键切换模型",
+   "支持 Ollama 本地模型与 Groq 限流处理",
+   "基于 open-interpreter 的执行器工具，可运行命令生成代码"
+  ],
+  "use_cases": [
+   "不写代码、通过表格界面让 AI 智能体帮我完成日常任务",
+   "为不同智能体和任务分别配置不同 LLM 模型",
+   "本地跑 Ollama 模型离线执行智能体任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    1,
+    2
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体编排",
+   "低代码/无代码",
+   "Google Sheets",
+   "CrewAI",
+   "本地模型"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "ollama",
+   "azure"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: - **Extensive Tools Library**: From `crewai-sheets-ui` to `crewai-tools`, including the latest from `langchain` and `lan",
+   "L41: - **Familiar Interface**: Leveraging a Google Sheets UI, this tool brings advanced automation into an easy-to-use, famil"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,83 @@
-{"fn": "yyaadet/autosrt_page", "sha": "537d6ee8c656", "source": "readme", "identity": {"one_liner": "macOS 离线双语言幕生成应用：从视频自动产出字幕", "review": "面向 macOS（M1 及以上）的桌面应用：读取本地视频文件，使用 whisper 模型（ggml-large-v3-turbo）转录语音生成字幕，并通过可切换的本地/远端 LLM（LLaMA 3、Qwen、Deepseek 等，支持 ollama 与 OpenAI API 格式）进行上下文感知的字幕翻译，同时输出两种语言的字幕。全程本地离线运行，附带字幕编辑器（搜索、批量替换、对齐）与字幕样式渲染。模型默认随应用下载，失败时可手动安装，README 另提供百度网盘下载渠道。", "highlights": ["whisper 模型转录 + LLM 上下文感知翻译，生成双语字幕", "完全离线本地运行，视频不出本机", "支持 LLaMA 3/Qwen/Deepseek 等模型切换，兼容 ollama 与 OpenAI API 格式", "内置字幕编辑器与字体/颜色/边框样式渲染"], "use_cases": ["给外语视频快速生成中英等双语字幕", "语言学习时对照两种语言的字幕", "无网络环境下本地处理视频字幕"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["字幕生成", "语音转录", "机器翻译", "macOS桌面应用", "本地离线"], "domain": "视频字幕/桌面工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供百度网盘模型下载渠道", "支持中文在内的 13 种字幕语言"]}, "trust": {"confidence": "high", "evidence": ["L3: AutoSRT is a powerful desktop application that automatically generates dual language subtitles from video files. Running", "L13: - 🤖 **Flexible Model Support**: Switch between different LLM models like LLaMA 3, Qwen, Deepseek, QwQ and more easily. S", "L65: Download whisper model from ggml-large-v3-turbo.bin.zip ."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yyaadet/autosrt_page",
+ "sha": "537d6ee8c656",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 离线双语言幕生成应用：从视频自动产出字幕",
+  "review": "面向 macOS（M1 及以上）的桌面应用：读取本地视频文件，使用 whisper 模型（ggml-large-v3-turbo）转录语音生成字幕，并通过可切换的本地/远端 LLM（LLaMA 3、Qwen、Deepseek 等，支持 ollama 与 OpenAI API 格式）进行上下文感知的字幕翻译，同时输出两种语言的字幕。全程本地离线运行，附带字幕编辑器（搜索、批量替换、对齐）与字幕样式渲染。模型默认随应用下载，失败时可手动安装，README 另提供百度网盘下载渠道。",
+  "highlights": [
+   "whisper 模型转录 + LLM 上下文感知翻译，生成双语字幕",
+   "完全离线本地运行，视频不出本机",
+   "支持 LLaMA 3/Qwen/Deepseek 等模型切换，兼容 ollama 与 OpenAI API 格式",
+   "内置字幕编辑器与字体/颜色/边框样式渲染"
+  ],
+  "use_cases": [
+   "给外语视频快速生成中英等双语字幕",
+   "语言学习时对照两种语言的字幕",
+   "无网络环境下本地处理视频字幕"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "字幕生成",
+   "语音转录",
+   "机器翻译",
+   "macOS桌面应用",
+   "本地离线"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供百度网盘模型下载渠道",
+   "支持中文在内的 13 种字幕语言"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: AutoSRT is a powerful desktop application that automatically generates dual language subtitles from video files. Running",
+   "L13: - 🤖 **Flexible Model Support**: Switch between different LLM models like LLaMA 3, Qwen, Deepseek, QwQ and more easily. S",
+   "L65: Download whisper model from ggml-large-v3-turbo.bin.zip ."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

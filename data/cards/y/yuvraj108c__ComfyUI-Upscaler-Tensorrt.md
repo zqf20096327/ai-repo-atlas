@@ -33,7 +33,7 @@ ComfyUI 自定义节点，将 ESRGAN 架构超分模型（4x-UltraSharp、RealES
 
 ## 场景标签
 
- · 领域:图像生成/超分工具
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

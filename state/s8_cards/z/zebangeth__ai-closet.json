@@ -1,1 +1,80 @@
-{"fn": "zebangeth/ai-closet", "sha": "f6b8bea23fd2", "source": "readme", "identity": {"one_liner": "AI 衣柜管理与虚拟试穿移动应用（iOS/Android）", "review": "基于 React Native 与 Expo 的跨平台移动应用，面向个人用户的衣柜数字化与穿搭管理：从相册或相机添加衣物，AI 自动去除背景并分配类别、颜色、季节等属性；在自由画布上拖拽组合搭配并保存造型；上传个人照片后由 AI 生成虚拟试穿效果。AI 能力通过第三方 API 实现——OpenAI 做自动分类标注、fal.ai 做背景去除、Kwai Kolors 做虚拟试穿，需自行配置各 API key。当前仅实现客户端，云端代理与积分系统处于规划阶段。", "highlights": ["AI 自动去除衣物图片背景并分配类别/颜色/季节属性", "自由画布拖拽组合穿搭并保存造型", "虚拟试穿：上传个人照片生成近似上身效果", "React Native + Expo 跨平台支持 iOS 与 Android"], "use_cases": ["把衣柜里的衣物拍照数字化存档并自动分类", "在画布上混搭衣物设计并保存穿搭灵感", "上传照片预览衣服（含网店商品）上身效果"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [100]}}, "links": {"scenario_tags": ["移动应用", "虚拟试穿", "衣橱管理", "穿搭灵感", "AI图像处理"], "domain": "时尚/生活应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: **AI Closet** is a mobile application that brings an AI-powered approach to closet management and styling. Whether you w", "L40:  Upload a personal photo and let the AI generate an approximate look.", "L66:  - The AI features require require the following APIs and keys, add them to your environment variables:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zebangeth/ai-closet",
+ "sha": "f6b8bea23fd2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 衣柜管理与虚拟试穿移动应用（iOS/Android）",
+  "review": "基于 React Native 与 Expo 的跨平台移动应用，面向个人用户的衣柜数字化与穿搭管理：从相册或相机添加衣物，AI 自动去除背景并分配类别、颜色、季节等属性；在自由画布上拖拽组合搭配并保存造型；上传个人照片后由 AI 生成虚拟试穿效果。AI 能力通过第三方 API 实现——OpenAI 做自动分类标注、fal.ai 做背景去除、Kwai Kolors 做虚拟试穿，需自行配置各 API key。当前仅实现客户端，云端代理与积分系统处于规划阶段。",
+  "highlights": [
+   "AI 自动去除衣物图片背景并分配类别/颜色/季节属性",
+   "自由画布拖拽组合穿搭并保存造型",
+   "虚拟试穿：上传个人照片生成近似上身效果",
+   "React Native + Expo 跨平台支持 iOS 与 Android"
+  ],
+  "use_cases": [
+   "把衣柜里的衣物拍照数字化存档并自动分类",
+   "在画布上混搭衣物设计并保存穿搭灵感",
+   "上传照片预览衣服（含网店商品）上身效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    100
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动应用",
+   "虚拟试穿",
+   "衣橱管理",
+   "穿搭灵感",
+   "AI图像处理"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **AI Closet** is a mobile application that brings an AI-powered approach to closet management and styling. Whether you w",
+   "L40:  Upload a personal photo and let the AI generate an approximate look.",
+   "L66:  - The AI features require require the following APIs and keys, add them to your environment variables:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

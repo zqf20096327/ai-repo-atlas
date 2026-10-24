@@ -1,1 +1,78 @@
-{"fn": "zai-org/SCAIL-Pose", "sha": "7b1eafd07067", "source": "readme", "identity": {"one_liner": "SCAIL 角色动画框架的驱动视频姿态提取与渲染代码", "review": "zai-org/SCAIL 系列的官方周边仓库，为主仓库提供驱动视频的前处理代码：用 NLFPose（torchscript）、DWPose/YOLOX（onnx）提取姿态，SCAIL-2 路径额外用 SAM3 提取参考图与驱动序列的掩码，支持端到端动画模式与角色替换模式两种入口。需先克隆主仓库，在其目录下使用；环境基于 mmpose（建议 Python>=3.10），权重需手动或脚本下载，SAM3 权重 gated 于 HuggingFace 需申请访问。", "highlights": ["NLFPose/DWPose/YOLOX 姿态提取管线，3D 骨架表征支持多人交互", "SCAIL-2 端到端模式用 SAM3 掩码替代中间骨架，支持动物等非外视角驱动源", "Animation 与 Replacement 两个入口脚本，输出可直接喂入主仓库生成动画"], "use_cases": ["为 SCAIL/SCAIL-2 准备驱动视频的姿态与掩码数据", "用整段驱动视频或姿态驱动生成角色动画的前处理", "多人视频中替换单一角色的预处理"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2512.05905", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["角色动画", "姿态提取", "视频生成前处理", "扩散Transformer"], "domain": "计算机视觉/角色动画", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["zai-org（智谱）组织仓库"]}, "trust": {"confidence": "high", "evidence": ["L7: This repository contains the code to process driving videos for **SCAIL**, a series of frameworks towards Studio-Grade C", "L25: Our latest **SCAIL-2** is an end-to-end framework to bypass the pose estimation to obtain more reliable and expressive m"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zai-org/SCAIL-Pose",
+ "sha": "7b1eafd07067",
+ "source": "readme",
+ "identity": {
+  "one_liner": "SCAIL 角色动画框架的驱动视频姿态提取与渲染代码",
+  "review": "zai-org/SCAIL 系列的官方周边仓库，为主仓库提供驱动视频的前处理代码：用 NLFPose（torchscript）、DWPose/YOLOX（onnx）提取姿态，SCAIL-2 路径额外用 SAM3 提取参考图与驱动序列的掩码，支持端到端动画模式与角色替换模式两种入口。需先克隆主仓库，在其目录下使用；环境基于 mmpose（建议 Python>=3.10），权重需手动或脚本下载，SAM3 权重 gated 于 HuggingFace 需申请访问。",
+  "highlights": [
+   "NLFPose/DWPose/YOLOX 姿态提取管线，3D 骨架表征支持多人交互",
+   "SCAIL-2 端到端模式用 SAM3 掩码替代中间骨架，支持动物等非外视角驱动源",
+   "Animation 与 Replacement 两个入口脚本，输出可直接喂入主仓库生成动画"
+  ],
+  "use_cases": [
+   "为 SCAIL/SCAIL-2 准备驱动视频的姿态与掩码数据",
+   "用整段驱动视频或姿态驱动生成角色动画的前处理",
+   "多人视频中替换单一角色的预处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2512.05905",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "角色动画",
+   "姿态提取",
+   "视频生成前处理",
+   "扩散Transformer"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "zai-org（智谱）组织仓库"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This repository contains the code to process driving videos for **SCAIL**, a series of frameworks towards Studio-Grade C",
+   "L25: Our latest **SCAIL-2** is an end-to-end framework to bypass the pose estimation to obtain more reliable and expressive m"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

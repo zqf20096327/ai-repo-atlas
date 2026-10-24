@@ -1,1 +1,92 @@
-{"fn": "zhimaAi/ChatClaw", "sha": "0183932d1736", "source": "readme", "identity": {"one_liner": "本地知识库个人 AI 智能体桌面应用，接入多聊天渠道", "review": "基于 Wails v3（Go + WebView）的开源桌面应用，提供本地知识库管理（文档解析、向量嵌入、SQLite+sqlite-vec 检索）、多 Agent 模式、OpenClaw 5000+ 技能库与技能市场、定时任务、划词问答、智能侧边栏与一问多答等功能。可连接微信、钉钉、企业微信、QQ、飞书、WhatsApp、Telegram 等消息通道远程下发指令。支持 OpenAI、Claude、Gemini、Ollama、DeepSeek 等多家模型供应商，并可通过一键接入 ChatWiki 获得免费模型试用积分。另支持无 GUI 的服务器模式，以二进制或 Docker 运行，浏览器访问。", "highlights": ["本地知识库：文档自动解析、向量化与私有检索", "接入微信/钉钉/飞书/WhatsApp 等多种消息通道远程控制", "多 Agent 模式，各自独立角色、记忆与技能", "服务器模式：Linux 二进制与 Docker 部署，浏览器访问"], "use_cases": ["在本地电脑搭建个人知识库问答助手", "通过微信、钉钉等聊天工具远程让 AI 执行任务", "定时抓取页面与监控数据源并在变化时推送提醒", "创建多个不同角色的 AI Agent 处理不同任务场景"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["个人AI助手", "知识库/RAG", "多渠道接入", "桌面应用", "定时任务/自动化"], "domain": "个人 AI 助手/知识库应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic", "deepseek", "xai"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中文 README", "国内通讯渠道（微信/钉钉/企业微信/QQ/飞书）", "国内模型（通义千问/智谱/豆包/DeepSeek）", "阿里云杭州镜像仓库分发"]}, "trust": {"confidence": "mid", "evidence": ["L24: Chatclaw是一款开源的本地知识库、OpenClaw图形化桌面管家应用", "L32: 向 AI 助手提出任何问题，它会智能搜索您的知识库并生成相关回答。搭配内置技能市场，让 AI Agent 自主干活，无需人工全程干预。无论是复杂的项目规划、文档整理，还是 PPT 快速生成、多步骤任务执行，都能自主拆解，高效推进，最终交付完", "L52: 一键授权接入 ChatWiki，同步 ChatWiki 账号积分，同时支持自定义模型，内置优质国内外大模型，Ollama、Google Gemini、OpenAI 等，无论是日常办公还是专业场景，使用您喜欢的 AI 模型。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zhimaAi/ChatClaw",
+ "sha": "0183932d1736",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地知识库个人 AI 智能体桌面应用，接入多聊天渠道",
+  "review": "基于 Wails v3（Go + WebView）的开源桌面应用，提供本地知识库管理（文档解析、向量嵌入、SQLite+sqlite-vec 检索）、多 Agent 模式、OpenClaw 5000+ 技能库与技能市场、定时任务、划词问答、智能侧边栏与一问多答等功能。可连接微信、钉钉、企业微信、QQ、飞书、WhatsApp、Telegram 等消息通道远程下发指令。支持 OpenAI、Claude、Gemini、Ollama、DeepSeek 等多家模型供应商，并可通过一键接入 ChatWiki 获得免费模型试用积分。另支持无 GUI 的服务器模式，以二进制或 Docker 运行，浏览器访问。",
+  "highlights": [
+   "本地知识库：文档自动解析、向量化与私有检索",
+   "接入微信/钉钉/飞书/WhatsApp 等多种消息通道远程控制",
+   "多 Agent 模式，各自独立角色、记忆与技能",
+   "服务器模式：Linux 二进制与 Docker 部署，浏览器访问"
+  ],
+  "use_cases": [
+   "在本地电脑搭建个人知识库问答助手",
+   "通过微信、钉钉等聊天工具远程让 AI 执行任务",
+   "定时抓取页面与监控数据源并在变化时推送提醒",
+   "创建多个不同角色的 AI Agent 处理不同任务场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI助手",
+   "知识库/RAG",
+   "多渠道接入",
+   "桌面应用",
+   "定时任务/自动化"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "deepseek",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "document-qa",
+   "multi-agent",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README",
+   "国内通讯渠道（微信/钉钉/企业微信/QQ/飞书）",
+   "国内模型（通义千问/智谱/豆包/DeepSeek）",
+   "阿里云杭州镜像仓库分发"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L24: Chatclaw是一款开源的本地知识库、OpenClaw图形化桌面管家应用",
+   "L32: 向 AI 助手提出任何问题，它会智能搜索您的知识库并生成相关回答。搭配内置技能市场，让 AI Agent 自主干活，无需人工全程干预。无论是复杂的项目规划、文档整理，还是 PPT 快速生成、多步骤任务执行，都能自主拆解，高效推进，最终交付完",
+   "L52: 一键授权接入 ChatWiki，同步 ChatWiki 账号积分，同时支持自定义模型，内置优质国内外大模型，Ollama、Google Gemini、OpenAI 等，无论是日常办公还是专业场景，使用您喜欢的 AI 模型。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

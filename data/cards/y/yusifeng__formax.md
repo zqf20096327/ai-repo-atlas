@@ -33,7 +33,7 @@ Formax 是开源的 Claude Code 风格 AI 编程助手，提供终端 TUI 与 We
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编程助手
+`编码 Agent` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 

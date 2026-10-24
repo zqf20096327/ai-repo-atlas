@@ -1,1 +1,83 @@
-{"fn": "zai-org/GLM-skills", "sha": "4bf1e15962cf", "source": "readme", "identity": {"one_liner": "GLM 系列模型官方技能合集：面向 AI 编码 agent 的技能包", "review": "由 zai-org 维护的官方技能仓库，将原先分散在各模型仓库的技能整合为统一集合，供 Claude Code、OpenCode、OpenClaw、AutoClaw 等 agent 架构使用。技能分四类：GLM-V 多模态（图像描述、目标定位、简历筛选、股票分析等 10 项）、GLM-OCR（文本/公式/手写/表格提取 5 项）、GLM-Image（文生图 1 项）及元技能（技能发现安装指南）。安装支持 Clawhub 的 npx 命令或 GitHub 克隆，多数技能需设置 ZHIPU_API_KEY。", "highlights": ["GLM-V 多模态技能 10 项（描述/定位/PDF 转换/简历筛选/股票分析等）", "GLM-OCR 5 项：通用文本、LaTeX 公式、手写、表格、SDK 解析", "glm-image-gen 文生图技能与 glm-master-skill 技能发现指南", "通过 npx clawhub 安装单个或批量安装技能"], "use_cases": ["为 AI 编码 agent 配备 GLM 视觉/OCR/图像生成能力", "将 PDF 论档转为演示文稿或学术网站", "提取图像中的文本、数学公式与表格"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "多模态", "OCR", "提示词工程", "技能市场"], "domain": "AI agent 技能/多模态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中文文档链接", "维护方 zai-org（智谱）", "API key 获取自 bigmodel.cn"]}, "trust": {"confidence": "high", "evidence": ["L5: Official skills for the GLM family of models, designed for agent architectures including Claude Code, OpenCode, OpenClaw", "L7: This repository consolidates skills originally distributed across individual model repos into a single, unified collecti"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zai-org/GLM-skills",
+ "sha": "4bf1e15962cf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GLM 系列模型官方技能合集：面向 AI 编码 agent 的技能包",
+  "review": "由 zai-org 维护的官方技能仓库，将原先分散在各模型仓库的技能整合为统一集合，供 Claude Code、OpenCode、OpenClaw、AutoClaw 等 agent 架构使用。技能分四类：GLM-V 多模态（图像描述、目标定位、简历筛选、股票分析等 10 项）、GLM-OCR（文本/公式/手写/表格提取 5 项）、GLM-Image（文生图 1 项）及元技能（技能发现安装指南）。安装支持 Clawhub 的 npx 命令或 GitHub 克隆，多数技能需设置 ZHIPU_API_KEY。",
+  "highlights": [
+   "GLM-V 多模态技能 10 项（描述/定位/PDF 转换/简历筛选/股票分析等）",
+   "GLM-OCR 5 项：通用文本、LaTeX 公式、手写、表格、SDK 解析",
+   "glm-image-gen 文生图技能与 glm-master-skill 技能发现指南",
+   "通过 npx clawhub 安装单个或批量安装技能"
+  ],
+  "use_cases": [
+   "为 AI 编码 agent 配备 GLM 视觉/OCR/图像生成能力",
+   "将 PDF 论档转为演示文稿或学术网站",
+   "提取图像中的文本、数学公式与表格"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "多模态",
+   "OCR",
+   "提示词工程",
+   "技能市场"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ocr",
+   "image-generation",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档链接",
+   "维护方 zai-org（智谱）",
+   "API key 获取自 bigmodel.cn"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Official skills for the GLM family of models, designed for agent architectures including Claude Code, OpenCode, OpenClaw",
+   "L7: This repository consolidates skills originally distributed across individual model repos into a single, unified collecti"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

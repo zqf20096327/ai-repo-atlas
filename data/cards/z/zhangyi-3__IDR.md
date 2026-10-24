@@ -33,7 +33,7 @@ CUHK-SenseTime 联合实验室发布的 IDR（Self-Supervised Image Denoising vi
 
 ## 场景标签
 
- · 领域:计算机视觉/图像复原
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ Python 库 Open-Lyrics：用 faster-whisper 转录音频，再调用 OpenAI/Anth
 
 ## 场景标签
 
- · 领域:语音处理/字幕生成
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

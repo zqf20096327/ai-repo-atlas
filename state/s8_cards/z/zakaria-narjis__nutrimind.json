@@ -1,1 +1,76 @@
-{"fn": "zakaria-narjis/nutrimind", "sha": "ccf17dd19049", "source": "readme", "identity": {"one_liner": "基于营养向量相似度的个性化饮食推荐 Web 应用", "review": "全栈饮食推荐系统：从年龄、体重、身高、活动水平等健康数据计算 BMI/BMR/TDEE 与目标热量，将每餐营养需求表示为 9 维向量，用 scikit-learn 的 NearestNeighbors 余弦相似度从 50 万+ Food.com 食谱中匹配最近邻，生成个性化每日餐单；也支持自定义营养向量搜索与食材过滤。后端 FastAPI，前端 Streamlit，通过 Docker Compose 部署，另有 Streamlit Cloud 托管版本。冷启动无需用户历史数据。", "highlights": ["BMI/BMR/TDEE 计算 + 热量按餐次分配后做最近邻食谱匹配", "9 维营养向量 + 余弦相似度的内容推荐引擎", "50 万+ Food.com 食谱数据集，启动时预解析食材为 frozenset 加速过滤", "提供 /generate-meal-plan/ 与 /predict/ 两个 API 及交互式文档"], "use_cases": ["根据我的身体数据自动生成一日三餐", "按自定义热量和营养目标搜索匹配食谱", "排除/指定食材并按营养值筛选食谱"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://diet-recommendation-system.streamlit.app/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["推荐系统", "健康饮食", "全栈Web应用", "机器学习应用"], "domain": "健康/饮食推荐", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L13: A full-stack diet recommendation system that generates personalized meal plans based on user health data (age, weight, h", "L29: Recipes are embedded as 9-dimensional nutritional vectors (Calories, Fat, Saturated Fat, Cholesterol, Sodium, Carbohydra"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zakaria-narjis/nutrimind",
+ "sha": "ccf17dd19049",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于营养向量相似度的个性化饮食推荐 Web 应用",
+  "review": "全栈饮食推荐系统：从年龄、体重、身高、活动水平等健康数据计算 BMI/BMR/TDEE 与目标热量，将每餐营养需求表示为 9 维向量，用 scikit-learn 的 NearestNeighbors 余弦相似度从 50 万+ Food.com 食谱中匹配最近邻，生成个性化每日餐单；也支持自定义营养向量搜索与食材过滤。后端 FastAPI，前端 Streamlit，通过 Docker Compose 部署，另有 Streamlit Cloud 托管版本。冷启动无需用户历史数据。",
+  "highlights": [
+   "BMI/BMR/TDEE 计算 + 热量按餐次分配后做最近邻食谱匹配",
+   "9 维营养向量 + 余弦相似度的内容推荐引擎",
+   "50 万+ Food.com 食谱数据集，启动时预解析食材为 frozenset 加速过滤",
+   "提供 /generate-meal-plan/ 与 /predict/ 两个 API 及交互式文档"
+  ],
+  "use_cases": [
+   "根据我的身体数据自动生成一日三餐",
+   "按自定义热量和营养目标搜索匹配食谱",
+   "排除/指定食材并按营养值筛选食谱"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://diet-recommendation-system.streamlit.app/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推荐系统",
+   "健康饮食",
+   "全栈Web应用",
+   "机器学习应用"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "recommender-system"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: A full-stack diet recommendation system that generates personalized meal plans based on user health data (age, weight, h",
+   "L29: Recipes are embedded as 9-dimensional nutritional vectors (Calories, Fat, Saturated Fat, Cholesterol, Sodium, Carbohydra"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

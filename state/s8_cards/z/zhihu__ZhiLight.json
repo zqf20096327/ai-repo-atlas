@@ -1,1 +1,82 @@
-{"fn": "zhihu/ZhiLight", "sha": "56ce2b6dd0fa", "source": "readme", "identity": {"one_liner": "知乎与面壁开发的 LLM 推理加速引擎，面向 PCIe GPU", "review": "由知乎与 ModelBest 开发的 LLM 推理引擎，支持 Llama/Llama2、Llama3 系列、Mixtral、Qwen2 系列、DeepSeek-V3/R1 及 DeepSeek-VL2 多模态模型的推理加速。特性包括 OpenAI 兼容接口（改编自 vllm）、TP/PP 并行、动态批处理、chunked prefill、prefix cache、INT8/SmoothQuant/FP8/AWQ/GPTQ 量化与 MoE/MLA 支持。依赖 CUDA 运行时、cuBLAS 与 NCCL，提供源码编译 wheel 与 Docker 镜像两种方式，README 含与 vLLM、SGLang 的性能对比数据。", "highlights": ["OpenAI 兼容异步接口（改编自 vllm）", "INT8/SmoothQuant/FP8/AWQ/GPTQ 量化与 Marlin 内核", "TP/PP 并行、动态批处理、chunked prefill、prefix cache", "支持 DeepSeek-V3/R1、Llama3、Qwen2、MoE 与 MLA"], "use_cases": ["在 PCIe GPU 服务器上部署 Llama/Qwen/DeepSeek 系列模型推理", "多卡（TP/PP）环境部署大规模模型服务", "对推理延迟和吞吐有要求的 LLM serving 场景"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["推理引擎", "LLM serving", "GPU加速", "量化", "模型部署"], "domain": "LLM 推理基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["由知乎（Zhihu）与 ModelBest 开发"]}, "trust": {"confidence": "high", "evidence": ["L3: ✨ __ZhiLight__ ✨is a highly optimized LLM inference engine developed by Zhihu and ModelBest Inc. The \"Zhi\" in its name s", "L15: * Asynchronous OpenAI compatible interface adapted from vllm"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zhihu/ZhiLight",
+ "sha": "56ce2b6dd0fa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "知乎与面壁开发的 LLM 推理加速引擎，面向 PCIe GPU",
+  "review": "由知乎与 ModelBest 开发的 LLM 推理引擎，支持 Llama/Llama2、Llama3 系列、Mixtral、Qwen2 系列、DeepSeek-V3/R1 及 DeepSeek-VL2 多模态模型的推理加速。特性包括 OpenAI 兼容接口（改编自 vllm）、TP/PP 并行、动态批处理、chunked prefill、prefix cache、INT8/SmoothQuant/FP8/AWQ/GPTQ 量化与 MoE/MLA 支持。依赖 CUDA 运行时、cuBLAS 与 NCCL，提供源码编译 wheel 与 Docker 镜像两种方式，README 含与 vLLM、SGLang 的性能对比数据。",
+  "highlights": [
+   "OpenAI 兼容异步接口（改编自 vllm）",
+   "INT8/SmoothQuant/FP8/AWQ/GPTQ 量化与 Marlin 内核",
+   "TP/PP 并行、动态批处理、chunked prefill、prefix cache",
+   "支持 DeepSeek-V3/R1、Llama3、Qwen2、MoE 与 MLA"
+  ],
+  "use_cases": [
+   "在 PCIe GPU 服务器上部署 Llama/Qwen/DeepSeek 系列模型推理",
+   "多卡（TP/PP）环境部署大规模模型服务",
+   "对推理延迟和吞吐有要求的 LLM serving 场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理引擎",
+   "LLM serving",
+   "GPU加速",
+   "量化",
+   "模型部署"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-quantization"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "由知乎（Zhihu）与 ModelBest 开发"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ✨ __ZhiLight__ ✨is a highly optimized LLM inference engine developed by Zhihu and ModelBest Inc. The \"Zhi\" in its name s",
+   "L15: * Asynchronous OpenAI compatible interface adapted from vllm"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

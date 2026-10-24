@@ -1,1 +1,81 @@
-{"fn": "z91772524-ai/pojia-next", "sha": "8d00996d791b", "source": "readme", "identity": {"one_liner": "给普通用户：一键替换十五个 AI 编程客户端的内置提示词与人格", "review": "Windows 桌面工具（单文件 exe 或 Python 源码运行，零第三方依赖），对 DSH/WorkBuddy/ZCode/Codex/Cursor/Claude Code 等 15 个 AI 客户端做文件级补丁：用用户自写的 persona.md 替换或注入官方默认身份与系统提示词，采用标记块、config.toml 指针、云记忆档案等按客户端差异化的注入方式。每次改动先备份、支持护照名单精确还原与只读演练，附带环境检测、技能安装页与 bandit/semgrep CI 扫描、SHA256 校验。exe 首次使用需输入 QQ 群号在线验证后获取核心。", "highlights": ["覆盖 15 个 AI 编程客户端的提示词/人格替换，统一 persona.md 口径", "每次改动先备份，护照名单精确还原，演练模式纯只读", "核心零网络请求、零动态执行、零 shell 拼串，CI 自动断言", "单文件 exe 免装 Python，或两份 .py 源码直接运行"], "use_cases": ["把 Cursor/Claude Code 等客户端的内置身份提示词换成自己写的版本", "用一份人格文件统一管理多个 AI 编程工具的口径", "官方客户端升级后重新打补丁并自检是否生效"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["提示词工程", "AI客户端工具", "Windows桌面工具", "自动化补丁"], "domain": "AI 开发者工具/桌面工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "官方 QQ 交流群 1121243020", "华为云·清华镜像下载源"]}, "trust": {"confidence": "mid", "evidence": ["L5: 支持 **DSH / WorkBuddy / ZCode / Codex / Cursor / Claude Code / Gemini CLI / Qwen Code / iFlow / Trae / CodeBuddy / OpenCo", "L29: 你平时用的 AI 客户端（比如 WorkBuddy、DSH），每次对话时都会在背后塞一段**你自己改不到的\"规矩\"**", "L41: > **它不修改软件本体**：只做**文本文件层面的替换**，不删包、不碰注册表 / 服务。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "z91772524-ai/pojia-next",
+ "sha": "8d00996d791b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给普通用户：一键替换十五个 AI 编程客户端的内置提示词与人格",
+  "review": "Windows 桌面工具（单文件 exe 或 Python 源码运行，零第三方依赖），对 DSH/WorkBuddy/ZCode/Codex/Cursor/Claude Code 等 15 个 AI 客户端做文件级补丁：用用户自写的 persona.md 替换或注入官方默认身份与系统提示词，采用标记块、config.toml 指针、云记忆档案等按客户端差异化的注入方式。每次改动先备份、支持护照名单精确还原与只读演练，附带环境检测、技能安装页与 bandit/semgrep CI 扫描、SHA256 校验。exe 首次使用需输入 QQ 群号在线验证后获取核心。",
+  "highlights": [
+   "覆盖 15 个 AI 编程客户端的提示词/人格替换，统一 persona.md 口径",
+   "每次改动先备份，护照名单精确还原，演练模式纯只读",
+   "核心零网络请求、零动态执行、零 shell 拼串，CI 自动断言",
+   "单文件 exe 免装 Python，或两份 .py 源码直接运行"
+  ],
+  "use_cases": [
+   "把 Cursor/Claude Code 等客户端的内置身份提示词换成自己写的版本",
+   "用一份人格文件统一管理多个 AI 编程工具的口径",
+   "官方客户端升级后重新打补丁并自检是否生效"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词工程",
+   "AI客户端工具",
+   "Windows桌面工具",
+   "自动化补丁"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "官方 QQ 交流群 1121243020",
+   "华为云·清华镜像下载源"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: 支持 **DSH / WorkBuddy / ZCode / Codex / Cursor / Claude Code / Gemini CLI / Qwen Code / iFlow / Trae / CodeBuddy / OpenCo",
+   "L29: 你平时用的 AI 客户端（比如 WorkBuddy、DSH），每次对话时都会在背后塞一段**你自己改不到的\"规矩\"**",
+   "L41: > **它不修改软件本体**：只做**文本文件层面的替换**，不删包、不碰注册表 / 服务。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

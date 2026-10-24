@@ -1,1 +1,76 @@
-{"fn": "zae-bayern/elpv-dataset", "sha": "525006c4eefc", "source": "readme", "identity": {"one_liner": "太阳能电池 EL 图像缺陷基准数据集（2,624 张带标注）", "review": "提供从 44 块光伏组件的高分辨率电致发光（EL）图像中提取的太阳能电池片数据集：2,624 张 300x300 像素 8 位灰度图，覆盖正常与缺陷电池。每张图像标注缺陷概率（0-1 浮点值）及电池片来源组件类型（单晶/多晶），图像已做尺寸、视角归一化并消除镜头畸变。以 Python 包形式分发，pip 安装后可通过 load_dataset() 一次性载入图像与标注。用于视觉缺陷识别研究的基准。", "highlights": ["2,624 张 300x300 灰度 EL 电池片图像，来自 44 块组件", "每张标注缺陷概率与组件类型（单晶/多晶）", "图像已归一化并消除镜头畸变", "pip 安装 Python 包，load_dataset() 一行载入"], "use_cases": ["训练和评估太阳能电池缺陷视觉分类模型", "光伏组件 EL 图像缺陷检测研究的基准数据", "学术发表中引用的标准化数据集"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.4229/35thEUPVSEC20182018-5CV.3.15", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据集", "计算机视觉", "光伏/太阳能", "缺陷检测"], "domain": "光伏检测/计算机视觉数据集", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: This repository provides a dataset of solar cell images extracted from", "L14: The dataset contains 2,624 samples of 300x300 pixels 8-bit grayscale images of"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zae-bayern/elpv-dataset",
+ "sha": "525006c4eefc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "太阳能电池 EL 图像缺陷基准数据集（2,624 张带标注）",
+  "review": "提供从 44 块光伏组件的高分辨率电致发光（EL）图像中提取的太阳能电池片数据集：2,624 张 300x300 像素 8 位灰度图，覆盖正常与缺陷电池。每张图像标注缺陷概率（0-1 浮点值）及电池片来源组件类型（单晶/多晶），图像已做尺寸、视角归一化并消除镜头畸变。以 Python 包形式分发，pip 安装后可通过 load_dataset() 一次性载入图像与标注。用于视觉缺陷识别研究的基准。",
+  "highlights": [
+   "2,624 张 300x300 灰度 EL 电池片图像，来自 44 块组件",
+   "每张标注缺陷概率与组件类型（单晶/多晶）",
+   "图像已归一化并消除镜头畸变",
+   "pip 安装 Python 包，load_dataset() 一行载入"
+  ],
+  "use_cases": [
+   "训练和评估太阳能电池缺陷视觉分类模型",
+   "光伏组件 EL 图像缺陷检测研究的基准数据",
+   "学术发表中引用的标准化数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.4229/35thEUPVSEC20182018-5CV.3.15",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集",
+   "计算机视觉",
+   "光伏/太阳能",
+   "缺陷检测"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: This repository provides a dataset of solar cell images extracted from",
+   "L14: The dataset contains 2,624 samples of 300x300 pixels 8-bit grayscale images of"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

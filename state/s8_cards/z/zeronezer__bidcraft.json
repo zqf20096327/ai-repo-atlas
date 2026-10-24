@@ -1,1 +1,84 @@
-{"fn": "zeronezer/bidcraft", "sha": "ab08e6d49fa5", "source": "readme", "identity": {"one_liner": "对话式工程标书编制智能体，AI 生成技术标初稿", "review": "面向工程建设投标场景的开源 Web 应用：上传招标文件（PDF/扫描件经 MinerU OCR 解析，Word/Excel 走专用通道），结构化落库标段、评分办法与编制要求；基于 LangGraph 的对话式智能体通过 15 个工具完成目录生成、逐章编写思路、正文流式生成与重写。配套历史施组知识库（LLM-Wiki 路线）、全局事实表（数字有出处）、经验学习与 Mermaid 关系图。技术栈 FastAPI + Vue 3，需自备阿里云百炼 API Key 与 MySQL 8，Word/PDF 导出等尚在规划中。", "highlights": ["招标文件解析：标段划分、评分办法、技术要求、规定目录结构化落库", "对话式智能体可调用 15 个工具，含执行结果核验机制", "全局事实表：每条数字标明出处，正文引用可追溯", "历史施组自动提炼为结构化知识页，改稿偏好可沉淀复用"], "use_cases": ["投标团队用它起草技术标初稿，人工只做审核与补图", "把历史中标施组建为知识库，跨项目复用编制经验", "多标段项目按标段隔离事实与素材，避免内容串段"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["标书编制", "工程建筑", "AI Agent", "文档生成", "中文"], "domain": "工程建筑/文档生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向国内招投标流程（标段/评分办法/废标风险）", "依赖阿里云百炼 API"]}, "trust": {"confidence": "mid", "evidence": ["L5: **开源 · 对话式 · 工程标书编制智能体**", "L7: 让 AI 写完技术标的初稿，你只做审核和补图。", "L56: |💬 **对话式编制**|不说\"点击按钮\"，直接说人话：\"第三章重写一下，突出隧道超前地质预报\"、\"把工期那几个数字统一成 26 个月\"。模型自主决定调哪些工具|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zeronezer/bidcraft",
+ "sha": "ab08e6d49fa5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "对话式工程标书编制智能体，AI 生成技术标初稿",
+  "review": "面向工程建设投标场景的开源 Web 应用：上传招标文件（PDF/扫描件经 MinerU OCR 解析，Word/Excel 走专用通道），结构化落库标段、评分办法与编制要求；基于 LangGraph 的对话式智能体通过 15 个工具完成目录生成、逐章编写思路、正文流式生成与重写。配套历史施组知识库（LLM-Wiki 路线）、全局事实表（数字有出处）、经验学习与 Mermaid 关系图。技术栈 FastAPI + Vue 3，需自备阿里云百炼 API Key 与 MySQL 8，Word/PDF 导出等尚在规划中。",
+  "highlights": [
+   "招标文件解析：标段划分、评分办法、技术要求、规定目录结构化落库",
+   "对话式智能体可调用 15 个工具，含执行结果核验机制",
+   "全局事实表：每条数字标明出处，正文引用可追溯",
+   "历史施组自动提炼为结构化知识页，改稿偏好可沉淀复用"
+  ],
+  "use_cases": [
+   "投标团队用它起草技术标初稿，人工只做审核与补图",
+   "把历史中标施组建为知识库，跨项目复用编制经验",
+   "多标段项目按标段隔离事实与素材，避免内容串段"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "标书编制",
+   "工程建筑",
+   "AI Agent",
+   "文档生成",
+   "中文"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "rag",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向国内招投标流程（标段/评分办法/废标风险）",
+   "依赖阿里云百炼 API"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **开源 · 对话式 · 工程标书编制智能体**",
+   "L7: 让 AI 写完技术标的初稿，你只做审核和补图。",
+   "L56: |💬 **对话式编制**|不说\"点击按钮\"，直接说人话：\"第三章重写一下，突出隧道超前地质预报\"、\"把工期那几个数字统一成 26 个月\"。模型自主决定调哪些工具|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

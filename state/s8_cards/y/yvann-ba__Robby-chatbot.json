@@ -1,1 +1,79 @@
-{"fn": "yvann-ba/Robby-chatbot", "sha": "6ac345006c9e", "source": "readme", "identity": {"one_liner": "与 CSV/PDF/TXT 文件及 YouTube 视频对话的开源聊天机器人", "review": "基于 Streamlit 构建的本地运行聊天应用，提供三个功能：对 PDF/TXT/CSV 文档进行带对话记忆的问答（LangChain 编排、FAISS 向量检索）、用 PandasAI 以自然语言分析表格数据、以及用 AI 总结 YouTube 视频。模型接入 OpenAI API（GPT-4o/GPT-4o-mini/GPT-4-turbo/GPT-3.5-turbo），需提供 OpenAI API key。通过 git clone 源码、虚拟环境与 pip 安装依赖后以 streamlit run 启动，无 Docker 或安装包形式。", "highlights": ["对 CSV/PDF/TXT 文档的带对话记忆问答（向量嵌入+FAISS）", "PandasAI 自然语言分析表格数据", "AI 总结 YouTube 视频内容", "支持 4 种 OpenAI 模型切换，GPT-4o-mini 为默认"], "use_cases": ["上传自己的文档并通过对话提问获取回答", "不写代码用自然语言分析表格数据", "快速获取 YouTube 视频的内容摘要"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["聊天机器人", "RAG", "文档问答", "数据分析", "视频总结"], "domain": "对话式 AI 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L14: - **Robby-Chat**: Chat with your documents (PDF, TXT, CSV) using vector embeddings and conversational memory", "L21: - **OpenAI** - GPT-4o, GPT-4o-mini, GPT-4-turbo, GPT-3.5-turbo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yvann-ba/Robby-chatbot",
+ "sha": "6ac345006c9e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "与 CSV/PDF/TXT 文件及 YouTube 视频对话的开源聊天机器人",
+  "review": "基于 Streamlit 构建的本地运行聊天应用，提供三个功能：对 PDF/TXT/CSV 文档进行带对话记忆的问答（LangChain 编排、FAISS 向量检索）、用 PandasAI 以自然语言分析表格数据、以及用 AI 总结 YouTube 视频。模型接入 OpenAI API（GPT-4o/GPT-4o-mini/GPT-4-turbo/GPT-3.5-turbo），需提供 OpenAI API key。通过 git clone 源码、虚拟环境与 pip 安装依赖后以 streamlit run 启动，无 Docker 或安装包形式。",
+  "highlights": [
+   "对 CSV/PDF/TXT 文档的带对话记忆问答（向量嵌入+FAISS）",
+   "PandasAI 自然语言分析表格数据",
+   "AI 总结 YouTube 视频内容",
+   "支持 4 种 OpenAI 模型切换，GPT-4o-mini 为默认"
+  ],
+  "use_cases": [
+   "上传自己的文档并通过对话提问获取回答",
+   "不写代码用自然语言分析表格数据",
+   "快速获取 YouTube 视频的内容摘要"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天机器人",
+   "RAG",
+   "文档问答",
+   "数据分析",
+   "视频总结"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "document-qa",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: - **Robby-Chat**: Chat with your documents (PDF, TXT, CSV) using vector embeddings and conversational memory",
+   "L21: - **OpenAI** - GPT-4o, GPT-4o-mini, GPT-4-turbo, GPT-3.5-turbo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

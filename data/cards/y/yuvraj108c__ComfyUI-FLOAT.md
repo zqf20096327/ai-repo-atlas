@@ -31,7 +31,7 @@ FLOAT 论文（Generative Motion Latent Flow Matching for Audio-driven Talking P
 
 ## 场景标签
 
- · 领域:生成式视频/数字人
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

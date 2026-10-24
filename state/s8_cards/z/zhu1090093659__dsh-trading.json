@@ -1,1 +1,82 @@
-{"fn": "zhu1090093659/dsh-trading", "sha": "d2e6945bdef4", "source": "readme", "identity": {"one_liner": "给个人交易者的 agent 原生多市场交易终端与量化研究平台", "review": "基于 DeepSeek Harness（DSH）与 Cordis 微内核的开源交易终端：三栏 GUI 聚合加密货币、美股、A股、港股与中国商品期货行情，提供 19+ 热插拔行情/经纪商连接器、TradingView Lightweight Charts v5 图表、内置策略回测与指标编写。AI 侧以角色化多智能体团队（master/researcher/trader/risk-reviewer）自主查询行情工具、做财报分析与估值研究并起草交易计划；订单默认 dry-run 模拟，实盘需 liveTrading 显式开启并经人工确认门与 Ed25519 权限层，无头环境 fail-closed。BYOK，密钥与交易记录仅存本地。安装器按启用市场生成四个角色预设。", "highlights": ["多市场统一工作区：加密、美股、A股、港股、商品期货，19+ 连接器", "角色化多智能体团队（master/researcher/trader/risk-reviewer）驱动原生行情与研究工具", "零信任双轨审批：默认 dry-run，实盘订单需人工确认与 Ed25519 权限层，无头环境 fail-closed", "内置 strategy_backtest 回测引擎与 15+ 技术指标、机构级研究清单与估值手册"], "use_cases": ["在一个终端里同时跟踪加密货币、美股、A股、港股持仓与行情", "让 AI 研究团队起草交易计划并做风险压力测试，实盘前人工审批", "对系统化交易信号做历史回测与自定义指标验证"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["交易终端", "多智能体", "量化交易", "金融/投资", "桌面应用"], "domain": "金融交易/量化投资", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "A股/东财/AkShare/Tushare 国内数据源支持"]}, "trust": {"confidence": "mid", "evidence": ["L7: **dsh-trading** is an open-source, agent-native AI trading terminal and quantitative investment research platform built ", "L30: - **Agent-Native Multi-Agent Orchestration:** A collaborative AI team (`master` lead, `instrument-researcher`, `trader`,", "L33: - **Zero-Trust Safety & Dual-Track Approval Gate:** Dry-run simulation by default; live broker orders require explicit o"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zhu1090093659/dsh-trading",
+ "sha": "d2e6945bdef4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给个人交易者的 agent 原生多市场交易终端与量化研究平台",
+  "review": "基于 DeepSeek Harness（DSH）与 Cordis 微内核的开源交易终端：三栏 GUI 聚合加密货币、美股、A股、港股与中国商品期货行情，提供 19+ 热插拔行情/经纪商连接器、TradingView Lightweight Charts v5 图表、内置策略回测与指标编写。AI 侧以角色化多智能体团队（master/researcher/trader/risk-reviewer）自主查询行情工具、做财报分析与估值研究并起草交易计划；订单默认 dry-run 模拟，实盘需 liveTrading 显式开启并经人工确认门与 Ed25519 权限层，无头环境 fail-closed。BYOK，密钥与交易记录仅存本地。安装器按启用市场生成四个角色预设。",
+  "highlights": [
+   "多市场统一工作区：加密、美股、A股、港股、商品期货，19+ 连接器",
+   "角色化多智能体团队（master/researcher/trader/risk-reviewer）驱动原生行情与研究工具",
+   "零信任双轨审批：默认 dry-run，实盘订单需人工确认与 Ed25519 权限层，无头环境 fail-closed",
+   "内置 strategy_backtest 回测引擎与 15+ 技术指标、机构级研究清单与估值手册"
+  ],
+  "use_cases": [
+   "在一个终端里同时跟踪加密货币、美股、A股、港股持仓与行情",
+   "让 AI 研究团队起草交易计划并做风险压力测试，实盘前人工审批",
+   "对系统化交易信号做历史回测与自定义指标验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "交易终端",
+   "多智能体",
+   "量化交易",
+   "金融/投资",
+   "桌面应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "A股/东财/AkShare/Tushare 国内数据源支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: **dsh-trading** is an open-source, agent-native AI trading terminal and quantitative investment research platform built ",
+   "L30: - **Agent-Native Multi-Agent Orchestration:** A collaborative AI team (`master` lead, `instrument-researcher`, `trader`,",
+   "L33: - **Zero-Trust Safety & Dual-Track Approval Gate:** Dry-run simulation by default; live broker orders require explicit o"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

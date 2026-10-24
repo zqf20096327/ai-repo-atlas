@@ -1,1 +1,80 @@
-{"fn": "yxq953/MuseLite", "sha": "f898bffc399d", "source": "readme", "identity": {"one_liner": "Android 原生 AI 工作台：聊天、Agent 工具、沙箱与手机控制", "review": "面向 Android 11+ arm64 设备的 Python 优先 AI 工作台应用：内置 OpenAI 兼容 HTTPS 聊天客户端，会话与模型设置存于 SQLite，API 密钥经 Android Keystore 加密；提供 Agent 多步工具循环、可复用 Skills（含对话式 Skill Creator）、PRoot 持久 Alpine Linux 沙箱、浏览器工具、定时提示，以及经无障碍服务实现的可选手机操作（点击/滑动/截屏/剪贴板/聊天回复推荐）。构建需 Windows x86-64、Python 3.13，通过 build_windows.ps1 生成 debug APK；另有 Toga 桌面预览（不支持运行 Linux 脚本）。采用 GPL v3 许可。", "highlights": ["OpenAI 兼容聊天客户端，会话/设置 SQLite 持久化，密钥 Android Keystore 加密", "PRoot 持久 Alpine Linux 沙箱执行 shell 命令与工作区文件管理", "Agent 通过无障碍服务操作手机：点击、滑动、截屏、剪贴板读写、聊天回复推荐", "可复用 Skills 与对话式 Skill Creator，支持定时发送提示"], "use_cases": ["在 Android 手机上连接任意 OpenAI 兼容服务进行对话与多步 Agent 任务", "让 Agent 在授权的沙箱里执行命令、保存文档到手机目录", "定时发送提示词、让 Agent 协助起草聊天回复"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["移动端AI工作台", "手机自动化", "GUI Agent", "LLM客户端", "Android应用"], "domain": "移动端 AI 应用/Agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 内含中文操作说明（如 L81、L131、L138）"]}, "trust": {"confidence": "high", "evidence": ["L3: MuseLite is a Python-first AI workspace for Android. It combines an OpenAI-compatible chat client, persistent conversati", "L15: - Optional Android phone control through the accessibility service and a foreground task service."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yxq953/MuseLite",
+ "sha": "f898bffc399d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 原生 AI 工作台：聊天、Agent 工具、沙箱与手机控制",
+  "review": "面向 Android 11+ arm64 设备的 Python 优先 AI 工作台应用：内置 OpenAI 兼容 HTTPS 聊天客户端，会话与模型设置存于 SQLite，API 密钥经 Android Keystore 加密；提供 Agent 多步工具循环、可复用 Skills（含对话式 Skill Creator）、PRoot 持久 Alpine Linux 沙箱、浏览器工具、定时提示，以及经无障碍服务实现的可选手机操作（点击/滑动/截屏/剪贴板/聊天回复推荐）。构建需 Windows x86-64、Python 3.13，通过 build_windows.ps1 生成 debug APK；另有 Toga 桌面预览（不支持运行 Linux 脚本）。采用 GPL v3 许可。",
+  "highlights": [
+   "OpenAI 兼容聊天客户端，会话/设置 SQLite 持久化，密钥 Android Keystore 加密",
+   "PRoot 持久 Alpine Linux 沙箱执行 shell 命令与工作区文件管理",
+   "Agent 通过无障碍服务操作手机：点击、滑动、截屏、剪贴板读写、聊天回复推荐",
+   "可复用 Skills 与对话式 Skill Creator，支持定时发送提示"
+  ],
+  "use_cases": [
+   "在 Android 手机上连接任意 OpenAI 兼容服务进行对话与多步 Agent 任务",
+   "让 Agent 在授权的沙箱里执行命令、保存文档到手机目录",
+   "定时发送提示词、让 Agent 协助起草聊天回复"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动端AI工作台",
+   "手机自动化",
+   "GUI Agent",
+   "LLM客户端",
+   "Android应用"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "gui-automation",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 内含中文操作说明（如 L81、L131、L138）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: MuseLite is a Python-first AI workspace for Android. It combines an OpenAI-compatible chat client, persistent conversati",
+   "L15: - Optional Android phone control through the accessibility service and a foreground task service."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Docker 自托管的 AI 编程助手，由 Java Agent Runtime、React 前端与 P
 
 ## 场景标签
 
- · 领域:AI 编程助手/开发工具
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

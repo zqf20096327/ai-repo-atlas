@@ -1,1 +1,80 @@
-{"fn": "zai-org/Kaleido", "sha": "109cdfc60416", "source": "readme", "identity": {"one_liner": "多主体参考图像驱动的视频生成模型（14B）", "review": "由 Zai-org（智谱）联合合肥工业大学、清华大学开源的多主体参考视频生成模型 Kaleido-14B-S2V：从多张参考图像（人物、物体、场景如试穿）与长文本提示生成视频。开放训练与推理代码：推理基于 Diffusers，需 Python 3.10-3.12、pip 安装依赖并从 Hugging Face 下载权重（集成 Wan VAE 与 T5）；支持多 GPU 与序列并行加速。训练基于 CogVideoX 策略，提供 DeepSpeed 与 FSDP2 分布式实现。建议先用 GLM-4.5 等大模型优化提示词。数据管线尚未发布。", "highlights": ["多主体参考图像（人物/物体/试穿等场景）可控视频合成", "训练与推理代码均开源，附 14B checkpoint（Hugging Face）", "多 GPU 推理与序列并行加速，FSDP2/DeepSpeed 训练实现"], "use_cases": ["用多张参考图像生成含指定主体的高保真视频", "复现或二次训练多主体视频生成模型", "虚拟试穿等以参考图控制视频内容的任务"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2510.18573", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["视频生成", "文生视频/图生视频", "多主体参考", "生成式模型"], "domain": "视频生成/生成式模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["Zhipu AI / zai-org 维护", "作者含清华大学团队"]}, "trust": {"confidence": "high", "evidence": ["L3:  KALEIDO: OPEN-SOURCED MULTI-SUBJECT REFERENCE VIDEO GENERATION MODEL", "L23: * 2025.10.22: 🔥 We propose **Kaleido**, a novel multi-subject reference video generation model. Both the **training** an", "L68: python sample_video.py --base configs/video_model/dit_crossattn_14B_wanvae.yaml configs/sampling sample_wanvae_concat_14"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zai-org/Kaleido",
+ "sha": "109cdfc60416",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多主体参考图像驱动的视频生成模型（14B）",
+  "review": "由 Zai-org（智谱）联合合肥工业大学、清华大学开源的多主体参考视频生成模型 Kaleido-14B-S2V：从多张参考图像（人物、物体、场景如试穿）与长文本提示生成视频。开放训练与推理代码：推理基于 Diffusers，需 Python 3.10-3.12、pip 安装依赖并从 Hugging Face 下载权重（集成 Wan VAE 与 T5）；支持多 GPU 与序列并行加速。训练基于 CogVideoX 策略，提供 DeepSpeed 与 FSDP2 分布式实现。建议先用 GLM-4.5 等大模型优化提示词。数据管线尚未发布。",
+  "highlights": [
+   "多主体参考图像（人物/物体/试穿等场景）可控视频合成",
+   "训练与推理代码均开源，附 14B checkpoint（Hugging Face）",
+   "多 GPU 推理与序列并行加速，FSDP2/DeepSpeed 训练实现"
+  ],
+  "use_cases": [
+   "用多张参考图像生成含指定主体的高保真视频",
+   "复现或二次训练多主体视频生成模型",
+   "虚拟试穿等以参考图控制视频内容的任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2510.18573",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频生成",
+   "文生视频/图生视频",
+   "多主体参考",
+   "生成式模型"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Zhipu AI / zai-org 维护",
+   "作者含清华大学团队"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  KALEIDO: OPEN-SOURCED MULTI-SUBJECT REFERENCE VIDEO GENERATION MODEL",
+   "L23: * 2025.10.22: 🔥 We propose **Kaleido**, a novel multi-subject reference video generation model. Both the **training** an",
+   "L68: python sample_video.py --base configs/video_model/dit_crossattn_14B_wanvae.yaml configs/sampling sample_wanvae_concat_14"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

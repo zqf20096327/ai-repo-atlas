@@ -1,1 +1,77 @@
-{"fn": "zaina-ml/ml_forge", "sha": "f2b1c85397e1", "source": "readme", "identity": {"one_liner": "可视化节点编辑器：拖拽搭建并训练 PyTorch 图像分类模型", "review": "面向不写代码用户的桌面端可视化 PyTorch 流水线编辑器：在画布上拖拽节点、连线，按 Data Prep→Model→Training 三个标签页组装数据预处理、网络层（Linear/Conv2D/BatchNorm 等）与训练流程，由工具生成并运行训练代码。支持实时 loss 曲线、checkpoint、早停、推理（top-k 预测）与训练指标摘要，可导出独立可运行的 train.py。限制：需预装 PyTorch 2.0+（不作为依赖安装），支持 CUDA/MPS/CPU。", "highlights": ["拖拽节点连线生成并运行 PyTorch 训练代码", "三标签页工作流：数据准备→模型→训练", "训练后推理与指标面板（最终 loss、最佳验证精度、曲线）", "导出无需 ML Forge 即可运行的独立 train.py"], "use_cases": ["不会写代码的用户想训练 MNIST/CIFAR 等图像分类模型", "教学场景中可视化理解神经网络结构与训练流程", "搭建原型后导出 PyTorch 代码继续开发"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["无代码/低代码", "计算机视觉", "模型训练", "桌面 GUI", "PyTorch"], "domain": "机器学习/计算机视觉", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: A visual PyTorch pipeline editor. Build, train and run image classification models without writing code.", "L17: - **Visual pipeline** - drag nodes onto a canvas, connect them with wires, and ML Forge generates and runs the training "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zaina-ml/ml_forge",
+ "sha": "f2b1c85397e1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可视化节点编辑器：拖拽搭建并训练 PyTorch 图像分类模型",
+  "review": "面向不写代码用户的桌面端可视化 PyTorch 流水线编辑器：在画布上拖拽节点、连线，按 Data Prep→Model→Training 三个标签页组装数据预处理、网络层（Linear/Conv2D/BatchNorm 等）与训练流程，由工具生成并运行训练代码。支持实时 loss 曲线、checkpoint、早停、推理（top-k 预测）与训练指标摘要，可导出独立可运行的 train.py。限制：需预装 PyTorch 2.0+（不作为依赖安装），支持 CUDA/MPS/CPU。",
+  "highlights": [
+   "拖拽节点连线生成并运行 PyTorch 训练代码",
+   "三标签页工作流：数据准备→模型→训练",
+   "训练后推理与指标面板（最终 loss、最佳验证精度、曲线）",
+   "导出无需 ML Forge 即可运行的独立 train.py"
+  ],
+  "use_cases": [
+   "不会写代码的用户想训练 MNIST/CIFAR 等图像分类模型",
+   "教学场景中可视化理解神经网络结构与训练流程",
+   "搭建原型后导出 PyTorch 代码继续开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "无代码/低代码",
+   "计算机视觉",
+   "模型训练",
+   "桌面 GUI",
+   "PyTorch"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A visual PyTorch pipeline editor. Build, train and run image classification models without writing code.",
+   "L17: - **Visual pipeline** - drag nodes onto a canvas, connect them with wires, and ML Forge generates and runs the training "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

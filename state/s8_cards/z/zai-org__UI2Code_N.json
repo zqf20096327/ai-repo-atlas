@@ -1,1 +1,84 @@
-{"fn": "zai-org/UI2Code_N", "sha": "84db6a30a780", "source": "readme", "identity": {"one_liner": "UI 截图转前端代码的 VLM，交互式视觉优化生成/编辑/打磨", "review": "基于 GLM-4.1V-9B-Base 训练的视觉语言模型，将 UI 截图转换为 HTML/CSS/React 前端代码。它把 UI-to-code 形式化为交互式视觉优化：VLM 先生成初始代码草稿，渲染后依据视觉反馈迭代打磨，也支持按自然语言指令做局部编辑。训练方法为 RVPO（相对视觉策略优化），基于候选渲染结果的两两比较排名信号，用 GRPO 更新策略。提供网页与命令行两种 demo、评测脚本及 Design2Code 等基准，需下载模型权重并安装 transformers 等依赖运行。", "highlights": ["UI drafting / UI editing / UI polishing 三种能力统一在交互式视觉优化框架内", "RVPO：基于渲染候选两两偏好排名的强化学习方法", "提供网页（端口 7860）与命令行两种 demo 脚本", "附带 Design2Code、Web2Code 等基准的评测脚本与自建数据集"], "use_cases": ["把 UI 设计稿截图转成前端代码", "按自然语言指令对生成代码做局部修改", "对已有前端代码按目标截图做迭代打磨", "在 UI-to-code 基准上做评测与对比实验"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "README 顶部链接（📄 Paper，具体 URL 未展示）", "demo_url": "README 顶部链接（▶️ Demo，具体 URL 未展示）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["UI-to-Code", "视觉语言模型", "代码生成", "强化学习", "前端开发"], "domain": "多模态模型/前端代码生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["zai-org（智谱）组织维护", "基于 GLM 系列基座模型"]}, "trust": {"confidence": "high", "evidence": ["L10: **UI2Code^N** reformulates UI-to-code as an **interactive visual optimization problem**. By embedding code generation in", "L76: UI2Code^N is built on `GLM-4.1V-9B-Base`, which is publicly available on Hugging Face."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zai-org/UI2Code_N",
+ "sha": "84db6a30a780",
+ "source": "readme",
+ "identity": {
+  "one_liner": "UI 截图转前端代码的 VLM，交互式视觉优化生成/编辑/打磨",
+  "review": "基于 GLM-4.1V-9B-Base 训练的视觉语言模型，将 UI 截图转换为 HTML/CSS/React 前端代码。它把 UI-to-code 形式化为交互式视觉优化：VLM 先生成初始代码草稿，渲染后依据视觉反馈迭代打磨，也支持按自然语言指令做局部编辑。训练方法为 RVPO（相对视觉策略优化），基于候选渲染结果的两两比较排名信号，用 GRPO 更新策略。提供网页与命令行两种 demo、评测脚本及 Design2Code 等基准，需下载模型权重并安装 transformers 等依赖运行。",
+  "highlights": [
+   "UI drafting / UI editing / UI polishing 三种能力统一在交互式视觉优化框架内",
+   "RVPO：基于渲染候选两两偏好排名的强化学习方法",
+   "提供网页（端口 7860）与命令行两种 demo 脚本",
+   "附带 Design2Code、Web2Code 等基准的评测脚本与自建数据集"
+  ],
+  "use_cases": [
+   "把 UI 设计稿截图转成前端代码",
+   "按自然语言指令对生成代码做局部修改",
+   "对已有前端代码按目标截图做迭代打磨",
+   "在 UI-to-code 基准上做评测与对比实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "README 顶部链接（📄 Paper，具体 URL 未展示）",
+  "demo_url": "README 顶部链接（▶️ Demo，具体 URL 未展示）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "UI-to-Code",
+   "视觉语言模型",
+   "代码生成",
+   "强化学习",
+   "前端开发"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "code-generation",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "zai-org（智谱）组织维护",
+   "基于 GLM 系列基座模型"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **UI2Code^N** reformulates UI-to-code as an **interactive visual optimization problem**. By embedding code generation in",
+   "L76: UI2Code^N is built on `GLM-4.1V-9B-Base`, which is publicly available on Hugging Face."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
