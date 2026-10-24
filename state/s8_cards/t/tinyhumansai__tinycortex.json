@@ -1,1 +1,80 @@
-{"fn": "tinyhumansai/tinycortex", "sha": "36670a4be385", "source": "readme", "identity": {"one_liner": "给 agent 开发者的本地优先 AI 记忆引擎 Rust 库", "review": "以 Rust 库（crates.io 发布为 tinycortex）形式提供的记忆引擎，嵌入到用户自己的 agent、服务或应用中。机制：摄入时多信号准入门过滤低价值内容，Markdown 文件为事实源，SQLite/摘要树/向量等为可重建的派生索引；检索提供语义、关键词、图、新鲜度衰减与可组合混合评分等策略原语。可选 Cargo 特性启用 tokio 调度、git 快照与 Composio 同步。README 中的 RAGAS/TemporalBench/Vending-Bench 基准由闭源 alpha 托管平台测得，仓库内仅含检索有效性测试工具。", "highlights": ["多信号准入门在摄入时丢弃低价值内容", "Markdown 为事实源，其余索引均可从内容重建", "语义/关键词/图/新鲜度等可组合检索评分原语", "git-diff 特性提供基于 Git 的快照与变更感知"], "use_cases": ["为自己的 agent 或服务嵌入带遗忘机制的长期记忆", "在本地以可检查的 Markdown 文件管理 AI 记忆", "为 RAG/对话系统提供带时间衰减的检索策略原语"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [19], "note": "托管平台处于 closed alpha"}}, "links": {"scenario_tags": ["AI记忆", "agent框架", "RAG", "Rust库", "本地优先"], "domain": "LLM 基础设施/记忆管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L19: > **What this repository is:** the open-source **Rust core** of TinyCortex — the local-first memory engine — published o", "L45: TinyCortex is a Rust library. Add it to your project (the example below also uses `tokio` and `anyhow`, which are not pu"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tinyhumansai/tinycortex",
+ "sha": "36670a4be385",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 agent 开发者的本地优先 AI 记忆引擎 Rust 库",
+  "review": "以 Rust 库（crates.io 发布为 tinycortex）形式提供的记忆引擎，嵌入到用户自己的 agent、服务或应用中。机制：摄入时多信号准入门过滤低价值内容，Markdown 文件为事实源，SQLite/摘要树/向量等为可重建的派生索引；检索提供语义、关键词、图、新鲜度衰减与可组合混合评分等策略原语。可选 Cargo 特性启用 tokio 调度、git 快照与 Composio 同步。README 中的 RAGAS/TemporalBench/Vending-Bench 基准由闭源 alpha 托管平台测得，仓库内仅含检索有效性测试工具。",
+  "highlights": [
+   "多信号准入门在摄入时丢弃低价值内容",
+   "Markdown 为事实源，其余索引均可从内容重建",
+   "语义/关键词/图/新鲜度等可组合检索评分原语",
+   "git-diff 特性提供基于 Git 的快照与变更感知"
+  ],
+  "use_cases": [
+   "为自己的 agent 或服务嵌入带遗忘机制的长期记忆",
+   "在本地以可检查的 Markdown 文件管理 AI 记忆",
+   "为 RAG/对话系统提供带时间衰减的检索策略原语"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    19
+   ],
+   "note": "托管平台处于 closed alpha"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI记忆",
+   "agent框架",
+   "RAG",
+   "Rust库",
+   "本地优先"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: > **What this repository is:** the open-source **Rust core** of TinyCortex — the local-first memory engine — published o",
+   "L45: TinyCortex is a Rust library. Add it to your project (the example below also uses `tokio` and `anyhow`, which are not pu"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

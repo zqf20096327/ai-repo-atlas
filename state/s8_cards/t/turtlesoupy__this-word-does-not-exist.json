@@ -1,1 +1,77 @@
-{"fn": "turtlesoupy/this-word-does-not-exist", "sha": "465818a4f3a7", "source": "readme", "identity": {"one_liner": "训练 GPT-2 变体从零生成虚构单词、定义与例句", "review": "基于 GPT-2 变体的自然语言生成项目：提供从零训练生成虚构单词、定义和例句的代码，包含正向模型（词→定义）与逆向模型（定义→词），并提供可下载的预训练模型文件，可在 CPU 上通过 WordGenerator 类运行推理。训练需自行提取词典数据（Apple 词典或 Urban Dictionary），附带训练脚本与网站运行说明，另有在线 demo 与 Twitter 机器人。", "highlights": ["训练 GPT-2 变体生成虚构单词、定义与例句", "提供正向（词→定义）与逆向（定义→词）预训练模型下载", "支持 CPU 设备运行推理", "包含从 Apple 词典与 Urban Dictionary 提取训练数据的代码"], "use_cases": ["生成虚构单词及配套定义用于创意写作或娱乐", "用自有词典数据训练自定义的单词生成模型", "研究逆向词典（定义→词）的建模方法"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://www.thisworddoesnotexist.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文本生成", "GPT-2", "创意写作", "NLG"], "domain": "自然语言生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L4: This is a project allows", "L5: people to train a variant of GPT-2 that makes", "L6: up words, definitions and examples from scratch."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "turtlesoupy/this-word-does-not-exist",
+ "sha": "465818a4f3a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "训练 GPT-2 变体从零生成虚构单词、定义与例句",
+  "review": "基于 GPT-2 变体的自然语言生成项目：提供从零训练生成虚构单词、定义和例句的代码，包含正向模型（词→定义）与逆向模型（定义→词），并提供可下载的预训练模型文件，可在 CPU 上通过 WordGenerator 类运行推理。训练需自行提取词典数据（Apple 词典或 Urban Dictionary），附带训练脚本与网站运行说明，另有在线 demo 与 Twitter 机器人。",
+  "highlights": [
+   "训练 GPT-2 变体生成虚构单词、定义与例句",
+   "提供正向（词→定义）与逆向（定义→词）预训练模型下载",
+   "支持 CPU 设备运行推理",
+   "包含从 Apple 词典与 Urban Dictionary 提取训练数据的代码"
+  ],
+  "use_cases": [
+   "生成虚构单词及配套定义用于创意写作或娱乐",
+   "用自有词典数据训练自定义的单词生成模型",
+   "研究逆向词典（定义→词）的建模方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.thisworddoesnotexist.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本生成",
+   "GPT-2",
+   "创意写作",
+   "NLG"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: This is a project allows",
+   "L5: people to train a variant of GPT-2 that makes",
+   "L6: up words, definitions and examples from scratch."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

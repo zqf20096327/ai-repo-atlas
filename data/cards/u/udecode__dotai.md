@@ -33,7 +33,7 @@ udecode 维护的 agent 技能仓库，提供 pstack 插件未覆盖的共享技
 
 ## 场景标签
 
- · 领域:开发者工具/agent 技能
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

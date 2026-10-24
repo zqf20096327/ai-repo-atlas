@@ -1,1 +1,80 @@
-{"fn": "totalhack/zillion", "sha": "72eb0ea8719f", "source": "readme", "identity": {"one_liner": "数据建模与分析的语义层工具，含自然语言问答", "review": "Python 数据建模与分析工具：在多个 SQL/文件类数据源之上构建语义层，定义或反射指标、维度与关系，自动生成 SQL 并执行跨数据源报告，结果以 Pandas DataFrame 返回；支持多级汇总、透视、公式、滚动/累计/排名等技术变换，以及从 CSV/XLSX/JSON/Google Sheet 快速建仓。附带 agentic 自然语言问答工作流（plan_question/answer_question），需安装 agent extra 并配置 OpenAI API key，默认模型 gpt-5.4。通过 SQLAlchemy Core 接入现有数据库，项目自称处于 alpha 阶段。", "highlights": ["多数据源语义层，自动生成 SQL 并合并结果为 DataFrame", "自然语言规划与执行报告的 agentic 问答工作流", "支持多级 rollup、透视、公式与滚动/累计/排名等技术变换", "可从 CSV/XLSX/JSON/HTML/Google Sheet 一行代码建仓"], "use_cases": ["在多个数据库与文件数据源上统一定义指标维度并出报表", "用自然语言提问让工具规划并执行分析报告", "快速对单个 CSV/表格做即席分析"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [40]}}, "links": {"scenario_tags": ["语义层", "数据仓库", "SQL生成", "自然语言分析", "BI工具"], "domain": "数据分析/数据仓库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: `Zillion` is a data modeling and analytics tool that allows combining and", "L15: question-answering workflow for planning and executing one or more reports from", "L182: The agentic question workflow requires the `agent` extra and an OpenAI API key."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "totalhack/zillion",
+ "sha": "72eb0ea8719f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数据建模与分析的语义层工具，含自然语言问答",
+  "review": "Python 数据建模与分析工具：在多个 SQL/文件类数据源之上构建语义层，定义或反射指标、维度与关系，自动生成 SQL 并执行跨数据源报告，结果以 Pandas DataFrame 返回；支持多级汇总、透视、公式、滚动/累计/排名等技术变换，以及从 CSV/XLSX/JSON/Google Sheet 快速建仓。附带 agentic 自然语言问答工作流（plan_question/answer_question），需安装 agent extra 并配置 OpenAI API key，默认模型 gpt-5.4。通过 SQLAlchemy Core 接入现有数据库，项目自称处于 alpha 阶段。",
+  "highlights": [
+   "多数据源语义层，自动生成 SQL 并合并结果为 DataFrame",
+   "自然语言规划与执行报告的 agentic 问答工作流",
+   "支持多级 rollup、透视、公式与滚动/累计/排名等技术变换",
+   "可从 CSV/XLSX/JSON/HTML/Google Sheet 一行代码建仓"
+  ],
+  "use_cases": [
+   "在多个数据库与文件数据源上统一定义指标维度并出报表",
+   "用自然语言提问让工具规划并执行分析报告",
+   "快速对单个 CSV/表格做即席分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    40
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语义层",
+   "数据仓库",
+   "SQL生成",
+   "自然语言分析",
+   "BI工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: `Zillion` is a data modeling and analytics tool that allows combining and",
+   "L15: question-answering workflow for planning and executing one or more reports from",
+   "L182: The agentic question workflow requires the `agent` extra and an OpenAI API key."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

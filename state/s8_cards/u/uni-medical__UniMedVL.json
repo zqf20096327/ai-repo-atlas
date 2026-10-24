@@ -1,1 +1,79 @@
-{"fn": "uni-medical/UniMedVL", "sha": "153bf7c12313", "source": "readme", "identity": {"one_liner": "医学多模态基础模型：单一 14B 检查点统一理解与生成", "review": "UniMedVL 是 ICML 2026 论文的官方实现，为统一医学视觉-语言基础模型（14B 参数），采用 Observation-Knowledge-Analysis 三级架构，在单一检查点内支持医学 VQA、报告生成、文本到医学图像合成、跨模态翻译、虚拟染色等任务，覆盖 9 种成像模态。训练数据为 UniMed-5M（560 万+ 样本，三阶段质量验证）。仓库提供推理代码与 HuggingFace 检查点下载，conda 环境安装；训练代码尚未开源。Apache 2.0 许可。", "highlights": ["单一 14B 检查点统一多模态理解与生成", "覆盖 9 种医学成像模态（CXR/CT/MRI/超声/病理等）", "基于 UniMed-5M 数据集（5.6M+ 样本）三阶段课程训练", "提供交互式 VQA 与图像生成推理脚本"], "use_cases": ["医学影像视觉问答与诊断推理", "自动生成医学影像报告", "文本合成医学图像与跨模态翻译（如 H&E→IHC 虚拟染色）"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2510.15710", "demo_url": "https://uni-medical.github.io/UniMedVL_Web/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["医学影像", "多模态大模型", "图像生成", "视觉问答", "基础模型"], "domain": "医学影像 AI/多模态基础模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L34:  A unified medical foundation model enabling both understanding and generation capabilities within a single architecture", "L48: - **Versatile Medical Multimodal Capabilities:** UniMedVL supports a broad spectrum of medical tasks, including visual q"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "uni-medical/UniMedVL",
+ "sha": "153bf7c12313",
+ "source": "readme",
+ "identity": {
+  "one_liner": "医学多模态基础模型：单一 14B 检查点统一理解与生成",
+  "review": "UniMedVL 是 ICML 2026 论文的官方实现，为统一医学视觉-语言基础模型（14B 参数），采用 Observation-Knowledge-Analysis 三级架构，在单一检查点内支持医学 VQA、报告生成、文本到医学图像合成、跨模态翻译、虚拟染色等任务，覆盖 9 种成像模态。训练数据为 UniMed-5M（560 万+ 样本，三阶段质量验证）。仓库提供推理代码与 HuggingFace 检查点下载，conda 环境安装；训练代码尚未开源。Apache 2.0 许可。",
+  "highlights": [
+   "单一 14B 检查点统一多模态理解与生成",
+   "覆盖 9 种医学成像模态（CXR/CT/MRI/超声/病理等）",
+   "基于 UniMed-5M 数据集（5.6M+ 样本）三阶段课程训练",
+   "提供交互式 VQA 与图像生成推理脚本"
+  ],
+  "use_cases": [
+   "医学影像视觉问答与诊断推理",
+   "自动生成医学影像报告",
+   "文本合成医学图像与跨模态翻译（如 H&E→IHC 虚拟染色）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2510.15710",
+  "demo_url": "https://uni-medical.github.io/UniMedVL_Web/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学影像",
+   "多模态大模型",
+   "图像生成",
+   "视觉问答",
+   "基础模型"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "image-video-processing",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L34:  A unified medical foundation model enabling both understanding and generation capabilities within a single architecture",
+   "L48: - **Versatile Medical Multimodal Capabilities:** UniMedVL supports a broad spectrum of medical tasks, including visual q"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ SillyTavern 扩展，把世界书（lorebook）存放在 Obsidian vault 中，�
 
 ## 场景标签
 
- · 领域:创意写作/角色扮演工具
+`知识库管理` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 

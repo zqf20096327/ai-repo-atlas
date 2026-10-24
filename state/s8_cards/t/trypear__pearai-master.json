@@ -1,1 +1,76 @@
-{"fn": "trypear/pearai-master", "sha": "9d6200cd84c6", "source": "readme", "identity": {"one_liner": "聚合多个仓库的 AI 代码编辑器主仓库：VSCode 分支+AI 聊天", "review": "PearAI 主仓库，汇总构成整个项目的各子仓库：pearai-app（VSCode 分支，承载编辑器功能）、pearai-submodule（Continue 分支，承载 AI 聊天功能）、落地页、文档与可选的半私有服务端（pearai-server，为不想自备 API key 的用户提供便利）。技术栈为 TypeScript/Electron，后端为 Python FastAPI + Supabase。构建需 Rust、Node.js 20.18.0、Python 3.11 与 C/C++ 工具链，通过 npm 安装依赖并从源码运行开发实例。", "highlights": ["VSCode 分支承载编辑器功能，Continue 分支承载 AI 聊天功能", "可选半私有服务端，为不愿自备 API key 的用户提供便利", "TypeScript/Electron 客户端 + Python FastAPI/Supabase 后端", "提供 Windows/macOS/Linux 三平台的源码构建说明"], "use_cases": ["参与 PearAI 代码编辑器的开发与贡献", "从源码构建并本地运行 PearAI 编辑器", "了解 PearAI 项目各子仓库的组成结构"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI代码编辑器", "VSCode分支", "代码助手", "桌面应用"], "domain": "开发工具/AI 代码编辑器", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: - pearai-app: this is the VSCode fork part of PearAI and the outer directory of the project. It contains the bulk of the", "L8: - pearai-submodule: this is the Continue fork part of PearAI and is a submodule of `pearai-app`. It contains the bulk of"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "trypear/pearai-master",
+ "sha": "9d6200cd84c6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "聚合多个仓库的 AI 代码编辑器主仓库：VSCode 分支+AI 聊天",
+  "review": "PearAI 主仓库，汇总构成整个项目的各子仓库：pearai-app（VSCode 分支，承载编辑器功能）、pearai-submodule（Continue 分支，承载 AI 聊天功能）、落地页、文档与可选的半私有服务端（pearai-server，为不想自备 API key 的用户提供便利）。技术栈为 TypeScript/Electron，后端为 Python FastAPI + Supabase。构建需 Rust、Node.js 20.18.0、Python 3.11 与 C/C++ 工具链，通过 npm 安装依赖并从源码运行开发实例。",
+  "highlights": [
+   "VSCode 分支承载编辑器功能，Continue 分支承载 AI 聊天功能",
+   "可选半私有服务端，为不愿自备 API key 的用户提供便利",
+   "TypeScript/Electron 客户端 + Python FastAPI/Supabase 后端",
+   "提供 Windows/macOS/Linux 三平台的源码构建说明"
+  ],
+  "use_cases": [
+   "参与 PearAI 代码编辑器的开发与贡献",
+   "从源码构建并本地运行 PearAI 编辑器",
+   "了解 PearAI 项目各子仓库的组成结构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI代码编辑器",
+   "VSCode分支",
+   "代码助手",
+   "桌面应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: - pearai-app: this is the VSCode fork part of PearAI and the outer directory of the project. It contains the bulk of the",
+   "L8: - pearai-submodule: this is the Continue fork part of PearAI and is a submodule of `pearai-app`. It contains the bulk of"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

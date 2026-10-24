@@ -1,1 +1,79 @@
-{"fn": "twinsant/ML", "sha": "ce19488f1aa5", "source": "readme", "identity": {"one_liner": "个人深度学习/空间智能学习笔记与资源清单", "review": "维护者“蚂蚁”的 AI 学习练习仓库：记录从概念、原理到实践的学习路径，设定空间智能（3DGS/4DGS）方向的个人目标，列出两个实践课题（摄像头强化学习 MNIST、代号 BigEyeZero 的帧预测 APP），并大量汇总学习笔记条目、推荐书目、论文阅读入口、编程/数学/Transformer/Diffusion 学习资料与练习环境（本机 Mac、Google Colab、AutoDL）。以中文笔记形式组织，不提供可安装运行的本体代码。", "highlights": ["两个实践课题：摄像头强化学习 MNIST 与 BigEyeZero 帧预测 APP", "学习笔记覆盖 MNIST/MLX/CNN/KL散度等主题", "汇总书目、论文入口、Transformer/Diffusion 可视化资料与练习环境"], "use_cases": ["按清单寻找深度学习入门书目与课程", "了解 3DGS/4DGS 空间智能方向的资料入口", "查找 MLX/MPS 等 Apple 芯片上的学习资源"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["学习笔记", "资源清单", "空间智能", "深度学习入门"], "domain": "AI 学习/知识整理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "国内工具与服务（即梦/可灵/Vidu/秘塔/AutoDL）"]}, "trust": {"confidence": "high", "evidence": ["L52: * 手写数字识别入门教程", "L66: ## 推荐书目："], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "twinsant/ML",
+ "sha": "ce19488f1aa5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人深度学习/空间智能学习笔记与资源清单",
+  "review": "维护者“蚂蚁”的 AI 学习练习仓库：记录从概念、原理到实践的学习路径，设定空间智能（3DGS/4DGS）方向的个人目标，列出两个实践课题（摄像头强化学习 MNIST、代号 BigEyeZero 的帧预测 APP），并大量汇总学习笔记条目、推荐书目、论文阅读入口、编程/数学/Transformer/Diffusion 学习资料与练习环境（本机 Mac、Google Colab、AutoDL）。以中文笔记形式组织，不提供可安装运行的本体代码。",
+  "highlights": [
+   "两个实践课题：摄像头强化学习 MNIST 与 BigEyeZero 帧预测 APP",
+   "学习笔记覆盖 MNIST/MLX/CNN/KL散度等主题",
+   "汇总书目、论文入口、Transformer/Diffusion 可视化资料与练习环境"
+  ],
+  "use_cases": [
+   "按清单寻找深度学习入门书目与课程",
+   "了解 3DGS/4DGS 空间智能方向的资料入口",
+   "查找 MLX/MPS 等 Apple 芯片上的学习资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习笔记",
+   "资源清单",
+   "空间智能",
+   "深度学习入门"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "国内工具与服务（即梦/可灵/Vidu/秘塔/AutoDL）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L52: * 手写数字识别入门教程",
+   "L66: ## 推荐书目："
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

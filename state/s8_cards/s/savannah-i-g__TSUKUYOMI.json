@@ -1,1 +1,81 @@
-{"fn": "savannah-i-g/TSUKUYOMI", "sha": "f0638bd5eeca", "source": "readme", "identity": {"one_liner": "面向 LLM 的情报分析提示工程框架（JSON 模块化）", "review": "一个以 .tsukuyomi JSON 模块组成的提示工程框架，设计用于加载到 Claude、GPT、Gemini 等大模型中，提供按情报界标准（ICD 203/206）组织的 OSINT、经济、战略等多域分析工作流：含核心编排引擎定义、人格核（默认 AMATERASU）、会话状态导入导出与幻觉检测声明。安装方式为 git clone 后在 Claude Code 中激活，或作为项目知识库上传到各 AI 平台；作者在开头声明此为早期实验且『已经非常老旧』，伪代码方法可能仅偶然生效。", "highlights": ["JSON 模块化组件架构，含依赖管理与版本兼容", "覆盖 OSINT/经济/战略等多域分析的模块目录（E 系列、S 系列）", "声明兼容 Claude Code、GPT、Gemini、Copilot Studio 等平台的加载方法", "会话状态导出/导入与分析连续性支持"], "use_cases": ["把框架文件作为知识库载入 Claude/Gemini/ChatGPT 执行结构化情报分析", "在 Claude Code 中通过 git 集成运行模块化分析工作流", "企业内经 Copilot Studio 部署带该知识库的自定义 agent"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [1]}}, "links": {"scenario_tags": ["提示工程", "情报分析", "OSINT", "LLM框架", "JSON模块"], "domain": "情报分析/提示工程框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L21: The system is designed as a prompt engineering framework optimized for large language models, providing structured analy", "L38: - **LLM-Optimized**: Native integration with Claude Code, GPT, Gemini, and other AI platforms"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "savannah-i-g/TSUKUYOMI",
+ "sha": "f0638bd5eeca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 的情报分析提示工程框架（JSON 模块化）",
+  "review": "一个以 .tsukuyomi JSON 模块组成的提示工程框架，设计用于加载到 Claude、GPT、Gemini 等大模型中，提供按情报界标准（ICD 203/206）组织的 OSINT、经济、战略等多域分析工作流：含核心编排引擎定义、人格核（默认 AMATERASU）、会话状态导入导出与幻觉检测声明。安装方式为 git clone 后在 Claude Code 中激活，或作为项目知识库上传到各 AI 平台；作者在开头声明此为早期实验且『已经非常老旧』，伪代码方法可能仅偶然生效。",
+  "highlights": [
+   "JSON 模块化组件架构，含依赖管理与版本兼容",
+   "覆盖 OSINT/经济/战略等多域分析的模块目录（E 系列、S 系列）",
+   "声明兼容 Claude Code、GPT、Gemini、Copilot Studio 等平台的加载方法",
+   "会话状态导出/导入与分析连续性支持"
+  ],
+  "use_cases": [
+   "把框架文件作为知识库载入 Claude/Gemini/ChatGPT 执行结构化情报分析",
+   "在 Claude Code 中通过 git 集成运行模块化分析工作流",
+   "企业内经 Copilot Studio 部署带该知识库的自定义 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    1
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示工程",
+   "情报分析",
+   "OSINT",
+   "LLM框架",
+   "JSON模块"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: The system is designed as a prompt engineering framework optimized for large language models, providing structured analy",
+   "L38: - **LLM-Optimized**: Native integration with Claude Code, GPT, Gemini, and other AI platforms"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,76 @@
-{"fn": "vizra-ai/vizra-adk", "sha": "d2ffa75f5944", "source": "readme", "identity": {"one_liner": "Laravel 的 AI Agent 开发框架，已停止维护", "review": "面向 Laravel 开发者的 PHP Agent 框架：通过继承 BaseLlmAgent 定义 Agent，支持子 Agent 委派、工具扩展、跨会话持久记忆、顺序/并行/条件工作流，以及对话/定时/Webhook/事件/队列五种触发模式；多模型接入 OpenAI、Anthropic、Google Gemini（经 prism PHP）。带 LLM-as-a-Judge 评测框架与 Livewire v4 Web 面板。注意：项目已于 2026 年 8 月退役，v0.0.48 为最终版本，不再修复或响应 issue。", "highlights": ["多模型支持（OpenAI/Anthropic/Gemini，经 prism PHP）", "子 Agent 委派与顺序/并行/条件工作流", "LLM-as-a-Judge 自动化评测框架与执行追踪", "Livewire v4 Web 面板用于测试与监控"], "use_cases": ["在 Laravel 应用内构建带工具与记忆的自主 Agent", "用定时/Webhook/队列等触发模式运行 Agent 流程", "对 Agent 做批量质量评测与执行追踪"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://vizra.ai/docs", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent框架", "Laravel/PHP", "多模型接入", "已归档项目"], "domain": "AI Agent 开发框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L52: Vizra ADK is a comprehensive Laravel package for building autonomous AI agents that can reason, use tools, and maintain ", "L56: - **🤖 Multi-Model AI Support** - Works with OpenAI, Anthropic, and Google Gemini + more, thanks to prism PHP"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vizra-ai/vizra-adk",
+ "sha": "d2ffa75f5944",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Laravel 的 AI Agent 开发框架，已停止维护",
+  "review": "面向 Laravel 开发者的 PHP Agent 框架：通过继承 BaseLlmAgent 定义 Agent，支持子 Agent 委派、工具扩展、跨会话持久记忆、顺序/并行/条件工作流，以及对话/定时/Webhook/事件/队列五种触发模式；多模型接入 OpenAI、Anthropic、Google Gemini（经 prism PHP）。带 LLM-as-a-Judge 评测框架与 Livewire v4 Web 面板。注意：项目已于 2026 年 8 月退役，v0.0.48 为最终版本，不再修复或响应 issue。",
+  "highlights": [
+   "多模型支持（OpenAI/Anthropic/Gemini，经 prism PHP）",
+   "子 Agent 委派与顺序/并行/条件工作流",
+   "LLM-as-a-Judge 自动化评测框架与执行追踪",
+   "Livewire v4 Web 面板用于测试与监控"
+  ],
+  "use_cases": [
+   "在 Laravel 应用内构建带工具与记忆的自主 Agent",
+   "用定时/Webhook/队列等触发模式运行 Agent 流程",
+   "对 Agent 做批量质量评测与执行追踪"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://vizra.ai/docs",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "Laravel/PHP",
+   "多模型接入",
+   "已归档项目"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L52: Vizra ADK is a comprehensive Laravel package for building autonomous AI agents that can reason, use tools, and maintain ",
+   "L56: - **🤖 Multi-Model AI Support** - Works with OpenAI, Anthropic, and Google Gemini + more, thanks to prism PHP"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

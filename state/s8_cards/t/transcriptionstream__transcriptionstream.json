@@ -1,1 +1,80 @@
-{"fn": "transcriptionstream/transcriptionstream", "sha": "aeb859c272b1", "source": "readme", "identity": {"one_liner": "自托管离线转写与说话人分离服务，含 LLM 摘要", "review": "基于 Docker 的开箱即用自托管转写服务：通过 SSH 拖放区（transcribe/diarize 目录）或 Web 界面上传音频，使用 whisper-diarization/whisperx 处理，输出带说话人分离的转写文本；内置 Ollama + Mistral 生成摘要，Meilisearch 提供全文搜索，Web 界面支持带时间同步高亮的播放器。前置要求为 NVIDIA GPU，ts-gpu 镜像约 26GB；README 声明为示例代码，生产环境需自行加固。", "highlights": ["SSH 拖放与 Web 界面两种上传方式，输出至命名日期文件夹", "Ollama + Mistral 摘要，提示词可自定义", "Web 播放器支持时间同步的转写高亮与滚动", "Meilisearch 全文搜索与多端口服务暴露"], "use_cases": ["在本地离线批量转写会议或访谈录音并区分说话人", "为转写结果自动生成包含说话人信息的摘要", "在自托管环境中搭建私有转写服务避免数据外传"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://www.youtube.com/watch?v=pbZ8o7_MjG4", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音转写", "说话人分离", "自托管", "离线推理", "LLM摘要"], "domain": "语音处理/转写服务", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Transcription Stream is a turnkey self-hosted diarization service that works completely offline. Out of the box it inclu", "L6: - drag and drop diarization and transcription via SSH", "L8: - summarization with Ollama and Mistral"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "transcriptionstream/transcriptionstream",
+ "sha": "aeb859c272b1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管离线转写与说话人分离服务，含 LLM 摘要",
+  "review": "基于 Docker 的开箱即用自托管转写服务：通过 SSH 拖放区（transcribe/diarize 目录）或 Web 界面上传音频，使用 whisper-diarization/whisperx 处理，输出带说话人分离的转写文本；内置 Ollama + Mistral 生成摘要，Meilisearch 提供全文搜索，Web 界面支持带时间同步高亮的播放器。前置要求为 NVIDIA GPU，ts-gpu 镜像约 26GB；README 声明为示例代码，生产环境需自行加固。",
+  "highlights": [
+   "SSH 拖放与 Web 界面两种上传方式，输出至命名日期文件夹",
+   "Ollama + Mistral 摘要，提示词可自定义",
+   "Web 播放器支持时间同步的转写高亮与滚动",
+   "Meilisearch 全文搜索与多端口服务暴露"
+  ],
+  "use_cases": [
+   "在本地离线批量转写会议或访谈录音并区分说话人",
+   "为转写结果自动生成包含说话人信息的摘要",
+   "在自托管环境中搭建私有转写服务避免数据外传"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=pbZ8o7_MjG4",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音转写",
+   "说话人分离",
+   "自托管",
+   "离线推理",
+   "LLM摘要"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Transcription Stream is a turnkey self-hosted diarization service that works completely offline. Out of the box it inclu",
+   "L6: - drag and drop diarization and transcription via SSH",
+   "L8: - summarization with Ollama and Mistral"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

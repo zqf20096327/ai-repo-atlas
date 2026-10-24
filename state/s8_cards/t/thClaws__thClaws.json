@@ -1,1 +1,89 @@
-{"fn": "thClaws/thClaws", "sha": "5ae26a2becc6", "source": "readme", "identity": {"one_liner": "Rust 编写的开源 AI agent 工作台：单二进制提供 GUI/CLI/Webapp", "review": "用原生 Rust 实现的 AI agent 工作环境，同一二进制运行桌面 GUI、CLI REPL、非交互模式与 Webapp（含 OpenAI/Anthropic 兼容 API）。支持 27 个提供商共 1,100+ 模型，兼容 MCP、SKILL.md 技能与插件扩展。提供三档 agent 编排（子 agent、并发旁路、多进程 Agent Teams）、每 agent 独立隔离与 OS 级 Bash 沙箱、KMS 知识库、定时任务、PDF/DOCX 等文档工具与 Media Studio 图像/视频生成。由 ThaiGPT Co., Ltd. 团队开发，MIT OR Apache-2.0 双许可。", "highlights": ["单二进制四种形态：桌面 GUI、CLI、headless、Webapp（OpenAI/Anthropic 兼容 API）", "27 提供商、1,100+ 模型，会话中 /model /provider 切换，支持 Ollama 本地离线运行", "多 agent 工作区：最多 8 个 agent 并行，各自独立会话/知识库/沙箱，崩溃自动重启", "OS 级 shell 沙箱（Seatbelt/Landlock/bubblewrap）与 MCP、技能、插件、hooks 扩展"], "use_cases": ["在本地终端或桌面用 AI agent 进行编码与自动化任务", "让多个 agent 并行协作完成研究、写作与构建工作", "通过 Webapp 把 agent 暴露为 OpenAI/Anthropic 兼容接口供其他工具调用", "完全离线使用本地 Ollama 模型运行 agent"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent", "agent工作台", "桌面应用", "CLI工具", "多模型接入"], "domain": "开发者工具/AI Agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "anthropic", "deepseek", "xai", "ollama", "azure"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: A native-Rust AI agent workspace that codes, automates, remembers, and coordinates — running on your own machine. One bi", "L104: - **Webapp** (`thclaws --serve --port 7878`) — same engine over WebSocket/HTTP, plus a drop-in API surface so other tool", "L110: - **Multi-provider** — Anthropic (native + Claude Agent SDK via Claude Code auth), OpenAI (Chat Completions + Responses/"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thClaws/thClaws",
+ "sha": "5ae26a2becc6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的开源 AI agent 工作台：单二进制提供 GUI/CLI/Webapp",
+  "review": "用原生 Rust 实现的 AI agent 工作环境，同一二进制运行桌面 GUI、CLI REPL、非交互模式与 Webapp（含 OpenAI/Anthropic 兼容 API）。支持 27 个提供商共 1,100+ 模型，兼容 MCP、SKILL.md 技能与插件扩展。提供三档 agent 编排（子 agent、并发旁路、多进程 Agent Teams）、每 agent 独立隔离与 OS 级 Bash 沙箱、KMS 知识库、定时任务、PDF/DOCX 等文档工具与 Media Studio 图像/视频生成。由 ThaiGPT Co., Ltd. 团队开发，MIT OR Apache-2.0 双许可。",
+  "highlights": [
+   "单二进制四种形态：桌面 GUI、CLI、headless、Webapp（OpenAI/Anthropic 兼容 API）",
+   "27 提供商、1,100+ 模型，会话中 /model /provider 切换，支持 Ollama 本地离线运行",
+   "多 agent 工作区：最多 8 个 agent 并行，各自独立会话/知识库/沙箱，崩溃自动重启",
+   "OS 级 shell 沙箱（Seatbelt/Landlock/bubblewrap）与 MCP、技能、插件、hooks 扩展"
+  ],
+  "use_cases": [
+   "在本地终端或桌面用 AI agent 进行编码与自动化任务",
+   "让多个 agent 并行协作完成研究、写作与构建工作",
+   "通过 Webapp 把 agent 暴露为 OpenAI/Anthropic 兼容接口供其他工具调用",
+   "完全离线使用本地 Ollama 模型运行 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "agent工作台",
+   "桌面应用",
+   "CLI工具",
+   "多模型接入"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "anthropic",
+   "deepseek",
+   "xai",
+   "ollama",
+   "azure"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "multi-agent",
+   "coding-agent",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A native-Rust AI agent workspace that codes, automates, remembers, and coordinates — running on your own machine. One bi",
+   "L104: - **Webapp** (`thclaws --serve --port 7878`) — same engine over WebSocket/HTTP, plus a drop-in API surface so other tool",
+   "L110: - **Multi-provider** — Anthropic (native + Claude Agent SDK via Claude Code auth), OpenAI (Chat Completions + Responses/"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

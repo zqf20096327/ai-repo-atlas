@@ -1,1 +1,79 @@
-{"fn": "utensils/comfyui-nix", "sha": "3ae7ef2efdd0", "source": "readme", "identity": {"one_liner": "ComfyUI 的 Nix flake 打包：NixOS/macOS/Linux 可复现运行", "review": "以纯 Nix flake 形式打包 ComfyUI（Python 3.12）并附带策展的第三方自定义节点（Impact Pack、rgthree、KJNodes、GGUF、LTXVideo、Florence2 等）。提供 CUDA/ROCm/XPU 变体，均基于 pytorch.org 预编译 wheel，构建下载约 2-2.5GB；CUDA 13 运行时与 ROCm 库随闭包捆绑，NVIDIA 驱动需 580 以上。支持 NixOS 声明式模块以系统服务运行，ComfyUI Manager 的自定义节点依赖装入 PEP 405 venv 以保持 Nix store 只读。面向 NixOS/macOS Apple Silicon 及 Linux NVIDIA/AMD/Intel GPU 用户。", "highlights": ["CUDA/ROCm/XPU 三种 GPU 后端变体，基于预编译 PyTorch wheel", "NixOS 声明式模块可将 ComfyUI 作为系统服务运行", "内置 ComfyUI Manager，节点依赖装入 .venv 保持 Nix store 只读", "捆绑 Model Downloader、Impact Pack、GGUF、Florence2 等自定义节点"], "use_cases": ["NixOS 用户声明式安装运行 ComfyUI", "在不污染系统 Python 的隔离环境中跑 ComfyUI", "在 NVIDIA/AMD/Intel GPU 上通过预编译 wheel 快速部署"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [149]}}, "links": {"scenario_tags": ["Nix/NixOS", "ComfyUI打包", "图像生成部署", "可复现构建"], "domain": "AI 应用部署/打包", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L153: ComfyUI's standard installation relies on pip and manual dependency management, which doesn't integrate well with NixOS'", "L155: - **NixOS compatibility**: A first-class option for NixOS users who previously had no clean way to run ComfyUI", "L158: - **Declarative configuration**: NixOS module for running ComfyUI as a system service with declarative custom nodes"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "utensils/comfyui-nix",
+ "sha": "3ae7ef2efdd0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 的 Nix flake 打包：NixOS/macOS/Linux 可复现运行",
+  "review": "以纯 Nix flake 形式打包 ComfyUI（Python 3.12）并附带策展的第三方自定义节点（Impact Pack、rgthree、KJNodes、GGUF、LTXVideo、Florence2 等）。提供 CUDA/ROCm/XPU 变体，均基于 pytorch.org 预编译 wheel，构建下载约 2-2.5GB；CUDA 13 运行时与 ROCm 库随闭包捆绑，NVIDIA 驱动需 580 以上。支持 NixOS 声明式模块以系统服务运行，ComfyUI Manager 的自定义节点依赖装入 PEP 405 venv 以保持 Nix store 只读。面向 NixOS/macOS Apple Silicon 及 Linux NVIDIA/AMD/Intel GPU 用户。",
+  "highlights": [
+   "CUDA/ROCm/XPU 三种 GPU 后端变体，基于预编译 PyTorch wheel",
+   "NixOS 声明式模块可将 ComfyUI 作为系统服务运行",
+   "内置 ComfyUI Manager，节点依赖装入 .venv 保持 Nix store 只读",
+   "捆绑 Model Downloader、Impact Pack、GGUF、Florence2 等自定义节点"
+  ],
+  "use_cases": [
+   "NixOS 用户声明式安装运行 ComfyUI",
+   "在不污染系统 Python 的隔离环境中跑 ComfyUI",
+   "在 NVIDIA/AMD/Intel GPU 上通过预编译 wheel 快速部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    149
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Nix/NixOS",
+   "ComfyUI打包",
+   "图像生成部署",
+   "可复现构建"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L153: ComfyUI's standard installation relies on pip and manual dependency management, which doesn't integrate well with NixOS'",
+   "L155: - **NixOS compatibility**: A first-class option for NixOS users who previously had no clean way to run ComfyUI",
+   "L158: - **Declarative configuration**: NixOS module for running ComfyUI as a system service with declarative custom nodes"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Peiyun Hu CVPR 论文 tiny face detector 的 PyTorch 实现，面向计算机视
 
 ## 场景标签
 
- · 领域:计算机视觉/人脸检测
+`人脸识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

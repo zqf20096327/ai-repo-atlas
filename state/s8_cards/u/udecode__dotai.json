@@ -1,1 +1,76 @@
-{"fn": "udecode/dotai", "sha": "32134f692ea1", "source": "readme", "identity": {"one_liner": "面向编码 agent 的共享技能集合（测试审计、pstack 同步等）", "review": "udecode 维护的 agent 技能仓库，提供 pstack 插件未覆盖的共享技能：test-audit（改编自 openclaw）、截图走查与视频转录、sync-pstack（pstack 项目初始化与技能漂移审计）、passwords（1Password 无人值守登录与新 Mac 配置）。工程方法论引用上游 pstack-claude 插件但不复制其源码。通过 Skills CLI（npx skills add）按技能名与 agent 安装，支持 codex、claude-code 等 agent，默认项目级安装。仓库含校验脚本生成 SKILLS.md 清单与 workflow manifest。", "highlights": ["test-audit、screenshot walkthrough、sync-pstack、passwords 四类技能", "npx skills add 按技能与 agent（codex/claude-code）安装", "build-workflow.mjs 生成 SKILLS.md 清单、校验依赖与文件校验和", "上游 pstack 技能不 vendored，按清单固定安装命令"], "use_cases": ["为编码 agent 补充测试审计与工作流技能", "在多个项目间统一 pstack 配置并审计技能漂移", "无人值守 1Password 登录与新 Mac 初始化"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "编码工作流", "Claude Code", "Codex"], "domain": "开发者工具/agent 技能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L22: Install a skill with the Skills CLI, naming the skill and each agent, for example `npx skills add udecode/dotai --skill ", "L3: Shared skills that the pstack plugin does not cover: test audits (`test-audit`, adapted from openclaw's), screenshot wal"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "udecode/dotai",
+ "sha": "32134f692ea1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向编码 agent 的共享技能集合（测试审计、pstack 同步等）",
+  "review": "udecode 维护的 agent 技能仓库，提供 pstack 插件未覆盖的共享技能：test-audit（改编自 openclaw）、截图走查与视频转录、sync-pstack（pstack 项目初始化与技能漂移审计）、passwords（1Password 无人值守登录与新 Mac 配置）。工程方法论引用上游 pstack-claude 插件但不复制其源码。通过 Skills CLI（npx skills add）按技能名与 agent 安装，支持 codex、claude-code 等 agent，默认项目级安装。仓库含校验脚本生成 SKILLS.md 清单与 workflow manifest。",
+  "highlights": [
+   "test-audit、screenshot walkthrough、sync-pstack、passwords 四类技能",
+   "npx skills add 按技能与 agent（codex/claude-code）安装",
+   "build-workflow.mjs 生成 SKILLS.md 清单、校验依赖与文件校验和",
+   "上游 pstack 技能不 vendored，按清单固定安装命令"
+  ],
+  "use_cases": [
+   "为编码 agent 补充测试审计与工作流技能",
+   "在多个项目间统一 pstack 配置并审计技能漂移",
+   "无人值守 1Password 登录与新 Mac 初始化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "编码工作流",
+   "Claude Code",
+   "Codex"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: Install a skill with the Skills CLI, naming the skill and each agent, for example `npx skills add udecode/dotai --skill ",
+   "L3: Shared skills that the pstack plugin does not cover: test audits (`test-audit`, adapted from openclaw's), screenshot wal"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

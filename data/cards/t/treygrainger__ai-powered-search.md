@@ -33,7 +33,7 @@ Manning 出版书籍《AI-Powered Search》(Trey Grainger、Doug Turnbull、Max 
 
 ## 场景标签
 
- · 领域:信息检索/搜索技术
+`RAG` `语义搜索` `教程课程` · 领域:知识与检索
 
 ## 证据(README 行号)
 

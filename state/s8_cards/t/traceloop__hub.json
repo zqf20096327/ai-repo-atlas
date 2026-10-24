@@ -1,1 +1,81 @@
-{"fn": "traceloop/hub", "sha": "57c62d0bcc3f", "source": "readme", "identity": {"one_liner": "Rust 编写的 LLM 网关：统一 OpenAI 兼容 API 接多家提供商", "review": "面向需要集中管理与追踪 LLM 调用的开发/运维场景：以单一 OpenAI 兼容 API 接入 OpenAI、Anthropic、Azure OpenAI、AWS Bedrock、Google VertexAI 等提供商。提供两种部署模式——YAML 静态配置（无外部依赖）与 PostgreSQL 数据库模式（含 Management API、热重载）。内置 OpenTelemetry 追踪与 Prometheus 指标，支持 Helm 与 Docker Compose 部署。Apache-2.0 许可，由 Traceloop 维护。", "highlights": ["单一 OpenAI 兼容 API 接入多家 LLM 提供商", "YAML / PostgreSQL 两种部署模式，数据库模式支持热重载", "内置 OpenTelemetry 追踪与 Prometheus 指标", "提供 Docker 与 Helm Chart 部署方式"], "use_cases": ["统一团队对多家 LLM 提供商的调用入口", "对 LLM 请求做集中追踪与指标监控", "通过 Management API 动态增删提供商与模型配置"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM网关", "可观测性", "OpenTelemetry", "Rust", "LLMOps"], "domain": "LLM 基础设施/网关与可观测性", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["azure", "bedrock"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L38: Traceloop Hub is a next-gen high-performance LLM gateway written in Rust that centralizes control and tracing of all LLM", "L47: - **Built-in Observability**: OpenTelemetry tracing and Prometheus metrics"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "traceloop/hub",
+ "sha": "57c62d0bcc3f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的 LLM 网关：统一 OpenAI 兼容 API 接多家提供商",
+  "review": "面向需要集中管理与追踪 LLM 调用的开发/运维场景：以单一 OpenAI 兼容 API 接入 OpenAI、Anthropic、Azure OpenAI、AWS Bedrock、Google VertexAI 等提供商。提供两种部署模式——YAML 静态配置（无外部依赖）与 PostgreSQL 数据库模式（含 Management API、热重载）。内置 OpenTelemetry 追踪与 Prometheus 指标，支持 Helm 与 Docker Compose 部署。Apache-2.0 许可，由 Traceloop 维护。",
+  "highlights": [
+   "单一 OpenAI 兼容 API 接入多家 LLM 提供商",
+   "YAML / PostgreSQL 两种部署模式，数据库模式支持热重载",
+   "内置 OpenTelemetry 追踪与 Prometheus 指标",
+   "提供 Docker 与 Helm Chart 部署方式"
+  ],
+  "use_cases": [
+   "统一团队对多家 LLM 提供商的调用入口",
+   "对 LLM 请求做集中追踪与指标监控",
+   "通过 Management API 动态增删提供商与模型配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM网关",
+   "可观测性",
+   "OpenTelemetry",
+   "Rust",
+   "LLMOps"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure",
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L38: Traceloop Hub is a next-gen high-performance LLM gateway written in Rust that centralizes control and tracing of all LLM",
+   "L47: - **Built-in Observability**: OpenTelemetry tracing and Prometheus metrics"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

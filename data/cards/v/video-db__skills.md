@@ -33,7 +33,7 @@ VideoDB 团队维护的 agent 技能包，为 Claude Code、Cursor、Copilot 等
 
 ## 场景标签
 
- · 领域:视频处理/Agent 工具
+`图像视频处理` `多模态` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

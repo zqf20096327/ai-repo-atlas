@@ -1,1 +1,77 @@
-{"fn": "twhite-gh/sweb", "sha": "e4148378c785", "source": "readme", "identity": {"one_liner": "Go 单文件 Web 服务器：静态文件/上传/WebDAV/多协议代理", "review": "用 Go 编写的轻量级单文件服务器，提供静态文件服务、网页文件浏览、拖拽多文件上传、WebDAV（RFC 4918，独立端口 8081，支持读写/只读模式与 Basic 认证）、HTTPS/TLS 加密连接，以及 SOCKS5（RFC 1928）、HTTP、HTTPS 三种代理服务，各代理均可启用 Basic 认证。默认关闭高级功能，需命令行参数显式开启。支持中英双语界面按浏览器语言自动切换，跨 Windows/Linux/macOS 多架构编译，从 Releases 下载可执行文件或源码编译运行。仓库描述称由 AI 辅助编写，但 README 未描述任何 AI 功能。", "highlights": ["单文件部署，静态文件/上传/WebDAV/HTTPS 一体", "SOCKS5/HTTP/HTTPS 代理服务，均支持 Basic 认证", "高级功能默认禁用，需命令行参数显式启用", "中英双语界面，按浏览器语言自动切换"], "use_cases": ["本地或内网快速起一个文件共享与上传服务", "通过 WebDAV 在电脑和手机间同步管理文件", "临时搭建 SOCKS5/HTTP 代理用于测试或转发流量"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文件服务器", "WebDAV", "代理服务器", "网络工具", "单文件部署"], "domain": "网络/文件服务工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语界面，帮助信息默认中文（zh）"]}, "trust": {"confidence": "low", "evidence": ["L1: # 🌐 Simple Web File Server v0.0.5", "L3: A lightweight Web file server written in Go, supporting static file serving, file upload, file browsing, WebDAV protocol"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "twhite-gh/sweb",
+ "sha": "e4148378c785",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 单文件 Web 服务器：静态文件/上传/WebDAV/多协议代理",
+  "review": "用 Go 编写的轻量级单文件服务器，提供静态文件服务、网页文件浏览、拖拽多文件上传、WebDAV（RFC 4918，独立端口 8081，支持读写/只读模式与 Basic 认证）、HTTPS/TLS 加密连接，以及 SOCKS5（RFC 1928）、HTTP、HTTPS 三种代理服务，各代理均可启用 Basic 认证。默认关闭高级功能，需命令行参数显式开启。支持中英双语界面按浏览器语言自动切换，跨 Windows/Linux/macOS 多架构编译，从 Releases 下载可执行文件或源码编译运行。仓库描述称由 AI 辅助编写，但 README 未描述任何 AI 功能。",
+  "highlights": [
+   "单文件部署，静态文件/上传/WebDAV/HTTPS 一体",
+   "SOCKS5/HTTP/HTTPS 代理服务，均支持 Basic 认证",
+   "高级功能默认禁用，需命令行参数显式启用",
+   "中英双语界面，按浏览器语言自动切换"
+  ],
+  "use_cases": [
+   "本地或内网快速起一个文件共享与上传服务",
+   "通过 WebDAV 在电脑和手机间同步管理文件",
+   "临时搭建 SOCKS5/HTTP 代理用于测试或转发流量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文件服务器",
+   "WebDAV",
+   "代理服务器",
+   "网络工具",
+   "单文件部署"
+  ],
+  "domain": "网络/文件服务工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语界面，帮助信息默认中文（zh）"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L1: # 🌐 Simple Web File Server v0.0.5",
+   "L3: A lightweight Web file server written in Go, supporting static file serving, file upload, file browsing, WebDAV protocol"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

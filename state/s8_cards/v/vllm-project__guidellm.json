@@ -1,1 +1,81 @@
-{"fn": "vllm-project/guidellm", "sha": "2dc5efed3073", "source": "readme", "identity": {"one_liner": "面向 SLO 的 LLM 推理服务基准测试与评估平台", "review": "vLLM 项目下的 LLM 推理基准评测平台：模拟与 OpenAI 兼容及 vLLM 原生服务器的端到端交互，生成同步/并发/恒定速率/泊松/sweep 等流量模式，采集 TTFT、ITL、端到端延迟等 token 级统计，输出 JSON/CSV/HTML/PLOT 报告。支持 HuggingFace 数据集、本地文件与合成文本/图像/视频数据，可测聊天补全、补全、嵌入、音频转录等 API。面向工程与 ML 团队做部署调优与容量规划。以 pip 安装、源码安装及多架构容器镜像提供。", "highlights": ["TTFT/ITL/端到端全分布延迟统计的 SLO 驱动评估", "synchronous/concurrent/constant/poisson/sweep 等可复现流量模式", "支持 HuggingFace 数据集、本地文件及合成文本/图像/视频多模态数据", "输出 JSON/CSV/HTML/PLOT 标准化报告，提供 CLI 与 API"], "use_cases": ["对部署的 LLM 服务做压测，找出安全运行的速率区间", "比较不同推理配置下的延迟与吞吐表现", "为生产环境容量规划提供 SLO 依据", "对 VLM 视觉语言服务做合成图像/视频基准测试"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["基准测试", "LLM推理", "性能评测", "SLO", "DevOps"], "domain": "LLM 基础设施/性能评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: SLO-aware Benchmarking and Evaluation Platform for Optimizing Real-World LLM Inference", "L11: **GuideLLM** is a platform for evaluating how language models perform under real workloads and configurations. It simula", "L17: - **Captures complete latency and token-level statistics for SLO-driven evaluation**, including full distributions for T"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vllm-project/guidellm",
+ "sha": "2dc5efed3073",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 SLO 的 LLM 推理服务基准测试与评估平台",
+  "review": "vLLM 项目下的 LLM 推理基准评测平台：模拟与 OpenAI 兼容及 vLLM 原生服务器的端到端交互，生成同步/并发/恒定速率/泊松/sweep 等流量模式，采集 TTFT、ITL、端到端延迟等 token 级统计，输出 JSON/CSV/HTML/PLOT 报告。支持 HuggingFace 数据集、本地文件与合成文本/图像/视频数据，可测聊天补全、补全、嵌入、音频转录等 API。面向工程与 ML 团队做部署调优与容量规划。以 pip 安装、源码安装及多架构容器镜像提供。",
+  "highlights": [
+   "TTFT/ITL/端到端全分布延迟统计的 SLO 驱动评估",
+   "synchronous/concurrent/constant/poisson/sweep 等可复现流量模式",
+   "支持 HuggingFace 数据集、本地文件及合成文本/图像/视频多模态数据",
+   "输出 JSON/CSV/HTML/PLOT 标准化报告，提供 CLI 与 API"
+  ],
+  "use_cases": [
+   "对部署的 LLM 服务做压测，找出安全运行的速率区间",
+   "比较不同推理配置下的延迟与吞吐表现",
+   "为生产环境容量规划提供 SLO 依据",
+   "对 VLM 视觉语言服务做合成图像/视频基准测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "LLM推理",
+   "性能评测",
+   "SLO",
+   "DevOps"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: SLO-aware Benchmarking and Evaluation Platform for Optimizing Real-World LLM Inference",
+   "L11: **GuideLLM** is a platform for evaluating how language models perform under real workloads and configurations. It simula",
+   "L17: - **Captures complete latency and token-level statistics for SLO-driven evaluation**, including full distributions for T"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

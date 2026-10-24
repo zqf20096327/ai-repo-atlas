@@ -1,1 +1,76 @@
-{"fn": "tolkonepiu/best-of-mcp-servers", "sha": "f137fd6f3207", "source": "readme", "identity": {"one_liner": "MCP 服务器排行清单：400 个项目按 34 类自动评分排名", "review": "由 best-of 框架自动生成并每周更新的 MCP（Model Context Protocol）服务器策展清单：收录 400 个项目、合计 1.4M stars，按聚合器、艺术文化、浏览器自动化、生物医学、云平台等 34 个类别组织。每个条目附带基于 GitHub 与各包管理器指标自动计算的项目质量评分，并展示 star 数、贡献者数、issue 数、下载量、活跃状态（新项目/不活跃/停止维护）与许可证风险标记。用户可通过 issue、PR 或编辑 projects.yaml 参与贡献。", "highlights": ["收录 400 个 MCP 服务器项目，分为 34 个类别", "条目按自动计算的项目质量评分排名，每周更新", "展示 GitHub 指标（star/贡献者/fork/issue）与包管理器下载量", "标记项目活跃状态（新/不活跃/停止维护）与许可证风险"], "use_cases": ["为 MCP 客户端挑选各领域的 MCP 服务器", "按质量评分比较同类 MCP 项目的热度与活跃度", "发现新出现的或避免已停止维护的 MCP 服务器"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome 清单", "MCP", "排行榜", "AI 工具发现"], "domain": "AI 生态/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5:  🏆&nbsp; A ranked list of MCP servers. Updated weekly.", "L7: This curated list contains 400 awesome MCP (Model Context Protocol) servers with a total of 1.4M stars grouped into 34 c"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tolkonepiu/best-of-mcp-servers",
+ "sha": "f137fd6f3207",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MCP 服务器排行清单：400 个项目按 34 类自动评分排名",
+  "review": "由 best-of 框架自动生成并每周更新的 MCP（Model Context Protocol）服务器策展清单：收录 400 个项目、合计 1.4M stars，按聚合器、艺术文化、浏览器自动化、生物医学、云平台等 34 个类别组织。每个条目附带基于 GitHub 与各包管理器指标自动计算的项目质量评分，并展示 star 数、贡献者数、issue 数、下载量、活跃状态（新项目/不活跃/停止维护）与许可证风险标记。用户可通过 issue、PR 或编辑 projects.yaml 参与贡献。",
+  "highlights": [
+   "收录 400 个 MCP 服务器项目，分为 34 个类别",
+   "条目按自动计算的项目质量评分排名，每周更新",
+   "展示 GitHub 指标（star/贡献者/fork/issue）与包管理器下载量",
+   "标记项目活跃状态（新/不活跃/停止维护）与许可证风险"
+  ],
+  "use_cases": [
+   "为 MCP 客户端挑选各领域的 MCP 服务器",
+   "按质量评分比较同类 MCP 项目的热度与活跃度",
+   "发现新出现的或避免已停止维护的 MCP 服务器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome 清单",
+   "MCP",
+   "排行榜",
+   "AI 工具发现"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5:  🏆&nbsp; A ranked list of MCP servers. Updated weekly.",
+   "L7: This curated list contains 400 awesome MCP (Model Context Protocol) servers with a total of 1.4M stars grouped into 34 c"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

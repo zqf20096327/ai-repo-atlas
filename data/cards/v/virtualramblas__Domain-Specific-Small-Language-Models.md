@@ -32,7 +32,7 @@ Manning Publications《Domain-Specific Small Language Models》书籍的配套�
 
 ## 场景标签
 
- · 领域:AI 教育/书籍配套资源
+`教程课程` `模型量化` `微调` · 领域:学习与行业
 
 ## 证据(README 行号)
 

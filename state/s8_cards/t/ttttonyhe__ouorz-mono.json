@@ -1,1 +1,81 @@
-{"fn": "ttttonyhe/ouorz-mono", "sha": "52cab512a480", "source": "readme", "identity": {"one_liner": "个人网站与学术主页的 monorepo（前端+WordPress+统计）", "review": "作者个人网站 lipeng.ac 及相关项目的 monorepo 源码与 Docker 镜像。主应用基于 React/Next.js，含 SSR/SSG/按需 ISR、命令面板、Redux 状态管理与暗色模式；另含容器化的 headless WordPress（作为 CMS）、基于 Umami 的分析应用、Twilight 前端组件库。以 Bun workspaces + Turborepo 管理，提供 Docker、Fly.io、Vercel/Netlify 部署说明。README 未展示 AI 功能，仅仓库主题标签含 openai-api。", "highlights": ["Next.js 主应用支持 SSR/SSG/按需 ISR 与命令面板", "WordPress 以 Docker 容器形式作为 headless CMS", "内置基于 Umami 的网站分析应用与 Twilight UI 组件库", "Bun workspaces + Turborepo monorepo 工程化"], "use_cases": ["自部署同构个人博客/学术主页", "以 headless WordPress 方案管理站点内容", "参考 Next.js + Turborepo 的 monorepo 工程实践"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [41, 195, 199]}}, "links": {"scenario_tags": ["个人网站", "monorepo", "Next.js", "headless CMS", "Web分析"], "domain": "Web/个人网站", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["作者个人站点含中文背景（lipeng.ac）"]}, "trust": {"confidence": "low", "evidence": ["L2:  Source code & Docker image that power lipeng.ac and other related projects", "L26: - SSR/SSG/On-demand ISR"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ttttonyhe/ouorz-mono",
+ "sha": "52cab512a480",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人网站与学术主页的 monorepo（前端+WordPress+统计）",
+  "review": "作者个人网站 lipeng.ac 及相关项目的 monorepo 源码与 Docker 镜像。主应用基于 React/Next.js，含 SSR/SSG/按需 ISR、命令面板、Redux 状态管理与暗色模式；另含容器化的 headless WordPress（作为 CMS）、基于 Umami 的分析应用、Twilight 前端组件库。以 Bun workspaces + Turborepo 管理，提供 Docker、Fly.io、Vercel/Netlify 部署说明。README 未展示 AI 功能，仅仓库主题标签含 openai-api。",
+  "highlights": [
+   "Next.js 主应用支持 SSR/SSG/按需 ISR 与命令面板",
+   "WordPress 以 Docker 容器形式作为 headless CMS",
+   "内置基于 Umami 的网站分析应用与 Twilight UI 组件库",
+   "Bun workspaces + Turborepo monorepo 工程化"
+  ],
+  "use_cases": [
+   "自部署同构个人博客/学术主页",
+   "以 headless WordPress 方案管理站点内容",
+   "参考 Next.js + Turborepo 的 monorepo 工程实践"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    41,
+    195,
+    199
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人网站",
+   "monorepo",
+   "Next.js",
+   "headless CMS",
+   "Web分析"
+  ],
+  "domain": "Web/个人网站",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "作者个人站点含中文背景（lipeng.ac）"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L2:  Source code & Docker image that power lipeng.ac and other related projects",
+   "L26: - SSR/SSG/On-demand ISR"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

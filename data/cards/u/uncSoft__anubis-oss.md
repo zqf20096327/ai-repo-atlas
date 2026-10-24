@@ -33,7 +33,7 @@ SwiftUI 编写的 macOS 原生应用，面向 Apple Silicon 用户，通过任�
 
 ## 场景标签
 
- · 领域:LLM 基准测试/工具
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

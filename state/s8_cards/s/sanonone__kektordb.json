@@ -1,1 +1,83 @@
-{"fn": "sanonone/kektordb", "sha": "1858ac696846", "source": "readme", "identity": {"one_liner": "面向 AI agent 的记忆系统：向量检索+时序知识图谱+认知引擎", "review": "用 Go 编写的 AI 记忆层，将 HNSW 向量检索、BM25 关键词匹配与带时间遍历的加权知识图谱结合，并以后台认知引擎（Gardener）持续分析数据：合并重复记忆、检测并解决矛盾、构建用户画像、按 Ebbinghaus 等模型做记忆衰减与强化。提供记忆版本控制（Semantic Git）、确定性置信评分（Epistemic Engine）与知识产物编译缓存。可作 MCP 服务器（57 个工具）、REST 服务器、嵌入式 Go 库或零代码 RAG 网关运行，内置 ONNX 本地嵌入模型，支持 Ollama/OpenAI/Gemini 嵌入 API。限制：单节点、不支持集群。以 GitHub Releases 二进制、pip/npm 客户端 SDK 提供。", "highlights": ["49 个 agent 工具的 MCP 服务器模式（记忆 CRUD、图操作、会话管理、认知特性）", "时序知识图谱与记忆衰减/强化（episodic/semantic/procedural 分层配置）", "基于 LLM 的矛盾检测与可自动解决轻微矛盾的 Gardener 后台进程", "记忆版本控制（superseded_by/evolves_from 边）支持任意时间点知识状态查询"], "use_cases": ["给 Claude/Cursor/Gemini CLI 等 agent 客户端接入持久化记忆", "作为应用的后端记忆库，通过 REST 或嵌入式 Go 库使用", "在 Chat UI 与 LLM 之间做零代码 RAG 网关"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent记忆", "向量数据库", "知识图谱", "MCP", "RAG基础设施"], "domain": "AI 基础设施/agent 记忆", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L19: KektorDB is an **AI memory system** - not a database that stores data, but an engine that **understands** what it stores", "L75: |**MCP Server**|`kektordb --mcp --tools=agent`|AI agent memory (Claude, Cursor, Codex, Gemini CLI, OpenCode)|", "L77: |**Go Library**|`import \"github.com/sanonone/kektordb/pkg/engine\"`|Embedded in-process, zero network overhead|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sanonone/kektordb",
+ "sha": "1858ac696846",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的记忆系统：向量检索+时序知识图谱+认知引擎",
+  "review": "用 Go 编写的 AI 记忆层，将 HNSW 向量检索、BM25 关键词匹配与带时间遍历的加权知识图谱结合，并以后台认知引擎（Gardener）持续分析数据：合并重复记忆、检测并解决矛盾、构建用户画像、按 Ebbinghaus 等模型做记忆衰减与强化。提供记忆版本控制（Semantic Git）、确定性置信评分（Epistemic Engine）与知识产物编译缓存。可作 MCP 服务器（57 个工具）、REST 服务器、嵌入式 Go 库或零代码 RAG 网关运行，内置 ONNX 本地嵌入模型，支持 Ollama/OpenAI/Gemini 嵌入 API。限制：单节点、不支持集群。以 GitHub Releases 二进制、pip/npm 客户端 SDK 提供。",
+  "highlights": [
+   "49 个 agent 工具的 MCP 服务器模式（记忆 CRUD、图操作、会话管理、认知特性）",
+   "时序知识图谱与记忆衰减/强化（episodic/semantic/procedural 分层配置）",
+   "基于 LLM 的矛盾检测与可自动解决轻微矛盾的 Gardener 后台进程",
+   "记忆版本控制（superseded_by/evolves_from 边）支持任意时间点知识状态查询"
+  ],
+  "use_cases": [
+   "给 Claude/Cursor/Gemini CLI 等 agent 客户端接入持久化记忆",
+   "作为应用的后端记忆库，通过 REST 或嵌入式 Go 库使用",
+   "在 Chat UI 与 LLM 之间做零代码 RAG 网关"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "向量数据库",
+   "知识图谱",
+   "MCP",
+   "RAG基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "knowledge-graph",
+   "rag",
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L19: KektorDB is an **AI memory system** - not a database that stores data, but an engine that **understands** what it stores",
+   "L75: |**MCP Server**|`kektordb --mcp --tools=agent`|AI agent memory (Claude, Cursor, Codex, Gemini CLI, OpenCode)|",
+   "L77: |**Go Library**|`import \"github.com/sanonone/kektordb/pkg/engine\"`|Embedded in-process, zero network overhead|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

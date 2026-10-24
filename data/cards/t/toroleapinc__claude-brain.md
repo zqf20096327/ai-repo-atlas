@@ -33,7 +33,7 @@ Claude Code 插件，通过 Git 远端仓库在多台机器间同步 CLAUDE.md�
 
 ## 场景标签
 
- · 领域:开发者工具/Claude Code 生态
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

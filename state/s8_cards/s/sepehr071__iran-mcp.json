@@ -1,1 +1,78 @@
-{"fn": "sepehr071/iran-mcp", "sha": "cfac18900d99", "source": "readme", "identity": {"one_liner": "39 个伊朗网站 MCP 服务器集，让 AI agent 查询本地购物/出行/价格等信息", "review": "面向伊朗波斯语网站的开源 MCP 服务器合集：36 个非官方服务器映射 Digikala、Torob、Divar、Snappfood、MrBilit、Paziresh24、Taaghche 等网站的未公开 API，另有 ExirYab、Pasavard、SwapWallet 提供的官方服务器，共 39 个服务器、488 个工具。价格统一以 Toman 输出，多数服务器只读、无需账号或 API key。以 PyPI 小包形式用 uvx 运行，可安装为 Claude Code 插件（含技能）或通过任意 MCP 客户端接入；限流应对包括代理列表与可选浏览器回退。", "highlights": ["39 个服务器、488 个工具，覆盖购物、分类信息、餐饮、出行、健康、图书、价格与新闻等类别", "统一价格单位为 Toman，多数服务器只读且无需账号", "可安装为 Claude Code 插件或经任意 MCP 客户端用 uvx 运行", "支持代理列表轮换与可选浏览器回退应对站点封锁"], "use_cases": ["让 Claude/Cursor 等 agent 一句话完成机票、住宿、医生的比价与预约查询", "查询伊朗各电商平台的商品价格与优惠", "获取黄金、外币、加密货币实时价格及伊朗法律、税务记录"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "agent工具", "伊朗/波斯语网络", "比价购物", "本地生活信息"], "domain": "MCP 服务器/本地生活信息接入", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: iran-mcp: 39 MCP servers and 488 tools for Iranian shopping, classifieds, food, travel, health, book, course, app, price", "L8: 36 unofficial, open-source Persian-web MCP servers for Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, T", "L96: Every server is a small Python package on PyPI, run with `uvx`, except"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sepehr071/iran-mcp",
+ "sha": "cfac18900d99",
+ "source": "readme",
+ "identity": {
+  "one_liner": "39 个伊朗网站 MCP 服务器集，让 AI agent 查询本地购物/出行/价格等信息",
+  "review": "面向伊朗波斯语网站的开源 MCP 服务器合集：36 个非官方服务器映射 Digikala、Torob、Divar、Snappfood、MrBilit、Paziresh24、Taaghche 等网站的未公开 API，另有 ExirYab、Pasavard、SwapWallet 提供的官方服务器，共 39 个服务器、488 个工具。价格统一以 Toman 输出，多数服务器只读、无需账号或 API key。以 PyPI 小包形式用 uvx 运行，可安装为 Claude Code 插件（含技能）或通过任意 MCP 客户端接入；限流应对包括代理列表与可选浏览器回退。",
+  "highlights": [
+   "39 个服务器、488 个工具，覆盖购物、分类信息、餐饮、出行、健康、图书、价格与新闻等类别",
+   "统一价格单位为 Toman，多数服务器只读且无需账号",
+   "可安装为 Claude Code 插件或经任意 MCP 客户端用 uvx 运行",
+   "支持代理列表轮换与可选浏览器回退应对站点封锁"
+  ],
+  "use_cases": [
+   "让 Claude/Cursor 等 agent 一句话完成机票、住宿、医生的比价与预约查询",
+   "查询伊朗各电商平台的商品价格与优惠",
+   "获取黄金、外币、加密货币实时价格及伊朗法律、税务记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "agent工具",
+   "伊朗/波斯语网络",
+   "比价购物",
+   "本地生活信息"
+  ],
+  "domain": "MCP 服务器/本地生活信息接入",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: iran-mcp: 39 MCP servers and 488 tools for Iranian shopping, classifieds, food, travel, health, book, course, app, price",
+   "L8: 36 unofficial, open-source Persian-web MCP servers for Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, T",
+   "L96: Every server is a small Python package on PyPI, run with `uvx`, except"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

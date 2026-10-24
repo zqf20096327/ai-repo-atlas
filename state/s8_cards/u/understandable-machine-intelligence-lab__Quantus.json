@@ -1,1 +1,78 @@
-{"fn": "understandable-machine-intelligence-lab/Quantus", "sha": "69d0b53216fe", "source": "readme", "identity": {"one_liner": "XAI 评测工具包：量化评估神经网络解释方法的质量", "review": "面向可解释 AI（XAI）研究的 Python 工具包，对神经网络解释（归因）方法做定量评估：提供 35+ 个指标，分为忠实性、鲁棒性、定位、复杂度、随机化敏感性与公理化六类。支持 PyTorch 与 TensorFlow 模型，覆盖图像、时间序列、表格等数据类型，并内置对 captum、tf-explain、zennit 等解释方法库的支持。以 pip 包形式发布，论文发表于 JMLR (MLOSS)。README 声明仍处积极开发期，指标实现未经原作者验证，需注意版本以保证可复现性。", "highlights": ["35+ 个 XAI 评测指标，分 6 大类别", "支持 PyTorch 与 TensorFlow 模型及多种数据类型", "内置 captum / tf-explain / zennit 解释方法支持", "发表于 JMLR (MLOSS) 的同行评审论文"], "use_cases": ["对比多个归因方法在忠实性、鲁棒性等维度上的表现", "为自研解释方法做标准化定量评测", "分析评测参数（如扰动策略）对方法排名的敏感性"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": "https://jmlr.org/papers/v24/22-0142.html", "demo_url": null, "self_declared_early": {"flag": true, "lines": [14]}}, "links": {"scenario_tags": ["可解释AI", "模型评测", "XAI", "机器学习库"], "domain": "机器学习/可解释 AI 评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L26: - Offers more than **35+ metrics in 6 categories** for XAI evaluation", "L55: This project started with the goal of collecting existing evaluation metrics that have been introduced in the context of"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "understandable-machine-intelligence-lab/Quantus",
+ "sha": "69d0b53216fe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "XAI 评测工具包：量化评估神经网络解释方法的质量",
+  "review": "面向可解释 AI（XAI）研究的 Python 工具包，对神经网络解释（归因）方法做定量评估：提供 35+ 个指标，分为忠实性、鲁棒性、定位、复杂度、随机化敏感性与公理化六类。支持 PyTorch 与 TensorFlow 模型，覆盖图像、时间序列、表格等数据类型，并内置对 captum、tf-explain、zennit 等解释方法库的支持。以 pip 包形式发布，论文发表于 JMLR (MLOSS)。README 声明仍处积极开发期，指标实现未经原作者验证，需注意版本以保证可复现性。",
+  "highlights": [
+   "35+ 个 XAI 评测指标，分 6 大类别",
+   "支持 PyTorch 与 TensorFlow 模型及多种数据类型",
+   "内置 captum / tf-explain / zennit 解释方法支持",
+   "发表于 JMLR (MLOSS) 的同行评审论文"
+  ],
+  "use_cases": [
+   "对比多个归因方法在忠实性、鲁棒性等维度上的表现",
+   "为自研解释方法做标准化定量评测",
+   "分析评测参数（如扰动策略）对方法排名的敏感性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://jmlr.org/papers/v24/22-0142.html",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    14
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可解释AI",
+   "模型评测",
+   "XAI",
+   "机器学习库"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: - Offers more than **35+ metrics in 6 categories** for XAI evaluation",
+   "L55: This project started with the goal of collecting existing evaluation metrics that have been introduced in the context of"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

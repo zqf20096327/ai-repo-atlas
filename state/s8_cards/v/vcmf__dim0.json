@@ -1,1 +1,84 @@
-{"fn": "vcmf/dim0", "sha": "3a477f0c488c", "source": "readme", "identity": {"one_liner": "开源实时协作 AI 画布：笔记、迷你应用与 agent 同板", "review": "基于无限画布的实时协作工作区：支持富文本笔记、代码沙箱、形状/思维导图、嵌套板与演示帧，多人经 WebSocket + 操作变换同步编辑。板感知 agent 基于 OpenAI Agents SDK，可读取画布与选中节点、执行多步工具（笔记、网页、代码、迷你应用生成、Qdrant 记忆），并把结果作为可编辑节点写回画布。自带模型接入（OpenAI/Anthropic/Gemini/DeepSeek/Qwen 等），可生成可交互 React 迷你应用。提供 Docker 自托管、源码运行与三平台桌面端安装脚本。", "highlights": ["板感知 agent：读取画布、多步工具调用、结果写回为可编辑节点", "自然语言生成可交互 React 迷你应用（可打开/编辑/导出）", "实时多人协作：WebSocket + 操作变换，无冲突同步", "自带模型（OpenAI/Anthropic/Gemini/DeepSeek/Qwen 等），MIT 自托管"], "use_cases": ["在一张无限画布上做笔记、思维导图与文档整理", "让 agent 根据板上内容生成迷你应用或回答并落回画布", "团队实时协作编辑同一块画布"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://app.dim0.net", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["无限画布", "AI Agent", "实时协作", "白板/笔记", "generative-ui"], "domain": "生产力工具/协作画布", "alternative_to": [], "competitors_mentioned": ["ChatGPT"], "ecosystem_compat": ["deepseek", "anthropic", "openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L14:  Notes, mini-apps, and an AI agent on one infinite, real-time board. The agent reads what's on the canvas and writes its", "L25: - 🤖 **Board-aware agent**: reads your canvas and selected nodes, takes multi-step tool actions, and writes results back ", "L141: Built on the OpenAI Agents SDK, with board-aware tools wired in:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vcmf/dim0",
+ "sha": "3a477f0c488c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源实时协作 AI 画布：笔记、迷你应用与 agent 同板",
+  "review": "基于无限画布的实时协作工作区：支持富文本笔记、代码沙箱、形状/思维导图、嵌套板与演示帧，多人经 WebSocket + 操作变换同步编辑。板感知 agent 基于 OpenAI Agents SDK，可读取画布与选中节点、执行多步工具（笔记、网页、代码、迷你应用生成、Qdrant 记忆），并把结果作为可编辑节点写回画布。自带模型接入（OpenAI/Anthropic/Gemini/DeepSeek/Qwen 等），可生成可交互 React 迷你应用。提供 Docker 自托管、源码运行与三平台桌面端安装脚本。",
+  "highlights": [
+   "板感知 agent：读取画布、多步工具调用、结果写回为可编辑节点",
+   "自然语言生成可交互 React 迷你应用（可打开/编辑/导出）",
+   "实时多人协作：WebSocket + 操作变换，无冲突同步",
+   "自带模型（OpenAI/Anthropic/Gemini/DeepSeek/Qwen 等），MIT 自托管"
+  ],
+  "use_cases": [
+   "在一张无限画布上做笔记、思维导图与文档整理",
+   "让 agent 根据板上内容生成迷你应用或回答并落回画布",
+   "团队实时协作编辑同一块画布"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://app.dim0.net",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "无限画布",
+   "AI Agent",
+   "实时协作",
+   "白板/笔记",
+   "generative-ui"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "ChatGPT"
+  ],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14:  Notes, mini-apps, and an AI agent on one infinite, real-time board. The agent reads what's on the canvas and writes its",
+   "L25: - 🤖 **Board-aware agent**: reads your canvas and selected nodes, takes multi-step tool actions, and writes results back ",
+   "L141: Built on the OpenAI Agents SDK, with board-aware tools wired in:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

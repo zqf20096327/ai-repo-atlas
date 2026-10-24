@@ -1,1 +1,77 @@
-{"fn": "uhub/awesome-llm", "sha": "d1b11345a541", "source": "readme", "identity": {"one_liner": "LLM 框架、库与软件的策展清单，供开发者查找学习资源与工具", "review": "由 uhub 维护的 awesome list，聚合 LLM 相关的框架、库与软件条目，按学习参考、语言与工具、Web、数据存储、机器学习与 AI、安全、命令行工具、商业领域等大类组织。可见部分以 Tutorials and Books 小节为主，收录从零实现 LLM、RAG 技术、Agent 开发、提示工程等教程与书籍项目，条目多为中文或英文开源教程仓库。清单本身为纯链接目录，不提供可安装运行的软件，使用方式为浏览目录并跳转至对应仓库。", "highlights": ["按十余个大类组织的 LLM 资源目录", "Tutorials and Books 小节收录大量从零构建 LLM、RAG、Agent 的教程仓库", "条目覆盖中英文教程、书籍与实战项目"], "use_cases": ["查找从零实现大模型的学习教程", "了解 RAG、Agent、提示工程方向的资源分布", "按类别浏览 LLM 生态的库与工具"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome-list", "LLM", "学习资源", "教程索引"], "domain": "LLM/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["收录大量中文教程条目（datawhalechina 系列等）"]}, "trust": {"confidence": "high", "evidence": ["L3: A curated list of awesome LLM frameworks, libraries and software.", "L41: * rasbt/LLMs-from-scratch - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "uhub/awesome-llm",
+ "sha": "d1b11345a541",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 框架、库与软件的策展清单，供开发者查找学习资源与工具",
+  "review": "由 uhub 维护的 awesome list，聚合 LLM 相关的框架、库与软件条目，按学习参考、语言与工具、Web、数据存储、机器学习与 AI、安全、命令行工具、商业领域等大类组织。可见部分以 Tutorials and Books 小节为主，收录从零实现 LLM、RAG 技术、Agent 开发、提示工程等教程与书籍项目，条目多为中文或英文开源教程仓库。清单本身为纯链接目录，不提供可安装运行的软件，使用方式为浏览目录并跳转至对应仓库。",
+  "highlights": [
+   "按十余个大类组织的 LLM 资源目录",
+   "Tutorials and Books 小节收录大量从零构建 LLM、RAG、Agent 的教程仓库",
+   "条目覆盖中英文教程、书籍与实战项目"
+  ],
+  "use_cases": [
+   "查找从零实现大模型的学习教程",
+   "了解 RAG、Agent、提示工程方向的资源分布",
+   "按类别浏览 LLM 生态的库与工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "LLM",
+   "学习资源",
+   "教程索引"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "收录大量中文教程条目（datawhalechina 系列等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A curated list of awesome LLM frameworks, libraries and software.",
+   "L41: * rasbt/LLMs-from-scratch - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

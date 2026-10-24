@@ -1,1 +1,75 @@
-{"fn": "tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers", "sha": "496bd2e88464", "source": "readme", "identity": {"one_liner": "资源高效 LLM 论文策展清单，附系统综述", "review": "一篇题为 Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models 的综述论文配套仓库，以表格形式按 LLM 架构设计、预训练（分布式训练、混合精度、数据效率）、微调（参数高效/全参数）、推理（模型压缩/剪枝）等类别组织资源高效 LLM 论文，条目含年份、关键词与发表会议。仓库持续更新，面向研究人员检索文献。", "highlights": ["覆盖架构、预训练、微调、推理等阶段的高效 LLM 论文分类", "表格条目含日期、关键词、论文与发表会议", "作为系统综述论文的配套代码仓库持续更新"], "use_cases": ["查找 LLM 训练/推理效率方向的论文", "按主题类别浏览资源高效 LLM 研究脉络", "作为综述论文的文献补充参考"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["论文清单", "LLM效率", "综述", "机器学习系统"], "domain": "LLM 研究/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3:  A curated list of high-quality papers on resource-efficient LLMs. (constantly updated)", "L7: This is the GitHub repo for our survey paper Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers",
+ "sha": "496bd2e88464",
+ "source": "readme",
+ "identity": {
+  "one_liner": "资源高效 LLM 论文策展清单，附系统综述",
+  "review": "一篇题为 Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models 的综述论文配套仓库，以表格形式按 LLM 架构设计、预训练（分布式训练、混合精度、数据效率）、微调（参数高效/全参数）、推理（模型压缩/剪枝）等类别组织资源高效 LLM 论文，条目含年份、关键词与发表会议。仓库持续更新，面向研究人员检索文献。",
+  "highlights": [
+   "覆盖架构、预训练、微调、推理等阶段的高效 LLM 论文分类",
+   "表格条目含日期、关键词、论文与发表会议",
+   "作为系统综述论文的配套代码仓库持续更新"
+  ],
+  "use_cases": [
+   "查找 LLM 训练/推理效率方向的论文",
+   "按主题类别浏览资源高效 LLM 研究脉络",
+   "作为综述论文的文献补充参考"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "LLM效率",
+   "综述",
+   "机器学习系统"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  A curated list of high-quality papers on resource-efficient LLMs. (constantly updated)",
+   "L7: This is the GitHub repo for our survey paper Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

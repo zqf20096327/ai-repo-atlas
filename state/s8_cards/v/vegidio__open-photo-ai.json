@@ -1,1 +1,81 @@
-{"fn": "vegidio/open-photo-ai", "sha": "63f9b988b3a1", "source": "readme", "identity": {"one_liner": "桌面 AI 照片增强工具：降噪/修复/上色/放大等，Topaz 替代", "review": "Rust 编写的开源照片 AI 增强应用，定位为 Topaz Photo AI 的开源替代。提供 GUI 与 CLI 两种使用方式，功能含降噪（Stockholm/Gothenburg/Malmö）、人脸恢复、上色、光线调整、色彩平衡、锐化与放大，模型均为改编自开源模型并发布于 Hugging Face。支持 Windows/macOS/Linux 桌面安装，无 GPU 时回退 CPU；macOS 仅 Apple Silicon。作者自述为个人业余项目，目标逐步对齐 Topaz 功能。", "highlights": ["7 类增强（降噪/人脸恢复/上色/光线/色彩/锐化/放大），每类多个可选模型", "GUI 与 CLI 双形态，GUI 支持 Autopilot 自动分析建议增强", "CUDA/TensorRT 加速（计算能力 7.5+），无 GPU 回退 CPU", "跨平台安装脚本自动检测系统架构安装"], "use_cases": ["批量修复低光/高 ISO 照片的噪点", "给黑白老照片上色并修复人像", "放大低分辨率照片用于打印或展示"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [15], "note": "作者自述可能无法达到 Topaz 的完成度，个人业余项目，目标逐步对齐功能"}}, "links": {"scenario_tags": ["图像增强", "照片修复", "上色", "超分辨率", "桌面应用"], "domain": "图像处理/照片编辑", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5:  Open Photo AI is an open source alternative to the popular photo AI editor.", "L15: That is why I created this project: an open-source alternative to Topaz Photo AI. It may never match the same level of p", "L110: All enhancements available here come from open-source AI models that were adapted and converted to work on this project."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vegidio/open-photo-ai",
+ "sha": "63f9b988b3a1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面 AI 照片增强工具：降噪/修复/上色/放大等，Topaz 替代",
+  "review": "Rust 编写的开源照片 AI 增强应用，定位为 Topaz Photo AI 的开源替代。提供 GUI 与 CLI 两种使用方式，功能含降噪（Stockholm/Gothenburg/Malmö）、人脸恢复、上色、光线调整、色彩平衡、锐化与放大，模型均为改编自开源模型并发布于 Hugging Face。支持 Windows/macOS/Linux 桌面安装，无 GPU 时回退 CPU；macOS 仅 Apple Silicon。作者自述为个人业余项目，目标逐步对齐 Topaz 功能。",
+  "highlights": [
+   "7 类增强（降噪/人脸恢复/上色/光线/色彩/锐化/放大），每类多个可选模型",
+   "GUI 与 CLI 双形态，GUI 支持 Autopilot 自动分析建议增强",
+   "CUDA/TensorRT 加速（计算能力 7.5+），无 GPU 回退 CPU",
+   "跨平台安装脚本自动检测系统架构安装"
+  ],
+  "use_cases": [
+   "批量修复低光/高 ISO 照片的噪点",
+   "给黑白老照片上色并修复人像",
+   "放大低分辨率照片用于打印或展示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15
+   ],
+   "note": "作者自述可能无法达到 Topaz 的完成度，个人业余项目，目标逐步对齐功能"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像增强",
+   "照片修复",
+   "上色",
+   "超分辨率",
+   "桌面应用"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Open Photo AI is an open source alternative to the popular photo AI editor.",
+   "L15: That is why I created this project: an open-source alternative to Topaz Photo AI. It may never match the same level of p",
+   "L110: All enhancements available here come from open-source AI models that were adapted and converted to work on this project."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

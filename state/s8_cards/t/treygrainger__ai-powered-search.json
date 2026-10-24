@@ -1,1 +1,79 @@
-{"fn": "treygrainger/ai-powered-search", "sha": "d4483d2d773b", "source": "readme", "identity": {"one_liner": "《AI-Powered Search》图书配套的可运行代码示例集", "review": "Manning 出版书籍《AI-Powered Search》(Trey Grainger、Doug Turnbull、Max Irwin 著) 的代码库，覆盖语义搜索、RAG、问答摘要、LLM 微调、个性化搜索、用户信号收集、学习排序、点击模型、生成式与混合搜索等主题的 Jupyter Notebook 示例。全部代码以 Docker 容器打包，git clone 后 docker compose up 即可在 localhost:8888 运行。代码为 Python，重用 PySpark 做数据处理，默认搜索引擎为 Apache Solr，示例做了引擎抽象，可替换为其他搜索引擎与向量数据库。代码以 Apache 2.0 许可开源。", "highlights": ["全部示例以 Jupyter Notebook 提供并打包为 Docker 容器", "覆盖语义搜索、RAG、学习排序、点击模型、生成式搜索等主题", "默认搜索引擎为 Apache Solr，示例做了引擎抽象可替换", "数据处理使用 Python 与 PySpark"], "use_cases": ["随书动手运行书中搜索技术示例", "学习语义搜索、RAG 与学习排序的实现方法", "在可替换的搜索引擎抽象上试验自己的数据"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["搜索/信息检索", "图书配套代码", "RAG", "学习排序", "教学示例"], "domain": "信息检索/搜索技术", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Code examples for the book _AI-Powered Search_ by Trey Grainger, Doug Turnbull, and Max Irwin. Published by Manning Publ", "L10: _AI-Powered Search_ teaches you the latest machine learning techniques to build search engines that continuously learn f"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "treygrainger/ai-powered-search",
+ "sha": "d4483d2d773b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "《AI-Powered Search》图书配套的可运行代码示例集",
+  "review": "Manning 出版书籍《AI-Powered Search》(Trey Grainger、Doug Turnbull、Max Irwin 著) 的代码库，覆盖语义搜索、RAG、问答摘要、LLM 微调、个性化搜索、用户信号收集、学习排序、点击模型、生成式与混合搜索等主题的 Jupyter Notebook 示例。全部代码以 Docker 容器打包，git clone 后 docker compose up 即可在 localhost:8888 运行。代码为 Python，重用 PySpark 做数据处理，默认搜索引擎为 Apache Solr，示例做了引擎抽象，可替换为其他搜索引擎与向量数据库。代码以 Apache 2.0 许可开源。",
+  "highlights": [
+   "全部示例以 Jupyter Notebook 提供并打包为 Docker 容器",
+   "覆盖语义搜索、RAG、学习排序、点击模型、生成式搜索等主题",
+   "默认搜索引擎为 Apache Solr，示例做了引擎抽象可替换",
+   "数据处理使用 Python 与 PySpark"
+  ],
+  "use_cases": [
+   "随书动手运行书中搜索技术示例",
+   "学习语义搜索、RAG 与学习排序的实现方法",
+   "在可替换的搜索引擎抽象上试验自己的数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "搜索/信息检索",
+   "图书配套代码",
+   "RAG",
+   "学习排序",
+   "教学示例"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "semantic-search",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Code examples for the book _AI-Powered Search_ by Trey Grainger, Doug Turnbull, and Max Irwin. Published by Manning Publ",
+   "L10: _AI-Powered Search_ teaches you the latest machine learning techniques to build search engines that continuously learn f"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

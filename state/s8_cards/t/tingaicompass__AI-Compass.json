@@ -1,1 +1,86 @@
-{"fn": "tingaicompass/AI-Compass", "sha": "15c6d76014d5", "source": "readme", "identity": {"one_liner": "面向 AI 学习者的技术知识库与每周 AI 前沿速览合集", "review": "由汀丶（个人）维护的 AI 技术学习与资源导航开源仓库，按九大模块组织：博客（Python 基础与 107 道 LeetCode 题解）、可运行的 Milvus RAG 实战代码、基础知识入口（AI 导航、Prompt、模型测评榜）、技术框架、应用实践（RAG/Agent/GraphRAG）、产品工具、学习资源、企业开源与社区平台。同时维护每周前沿速览周报（至第 59 期），收录模型、Agent 产品与开源项目动态。支持通过一句提示词让 Claude Code、Codex 等 Coding Agent 将仓库克隆并安装为本地知识库 Skill，之后可直接对仓库内容做问答与拆解。资源收录通过 GitHub Issue 申请，声明不做付费排名。", "highlights": ["九大模块组织 AI 知识体系，覆盖 LLM、多模态、RAG、Agent、RLHF 等", "每周前沿速览周报持续更新（59 期，每期约 59 条收录）", "提供可运行的 Milvus/Zilliz Cloud RAG 完整工程示例", "可通过提示词让 Coding Agent 安装为本地知识库 Skill"], "use_cases": ["系统学习 AI 技术栈并按模块查找学习路径", "在 IDE 中结合 Claude Code/Codex 对仓库做智能问答与项目拆解", "通过每周速览跟踪模型与 Agent 产品动态", "参考 Milvus RAG 示例学习检索到生成的完整工程链路"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["知识库/清单", "学习路径", "AI周报", "RAG实战", "资源导航"], "domain": "AI 学习资源/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "Gitee 镜像与 CSDN/知乎/掘金账号", "知识星球优惠券", "收录华为/腾讯/阿里/百度飞桨等国内企业开源资源"]}, "trust": {"confidence": "high", "evidence": ["L32: **AI-Compass**将为你和社区提供在AI技术海洋中航行的方向与指引。无论你是刚踏入AI领域的初学者，还是寻求技术突破的进阶开发者，都能在这里找到通往AI各大技术方向的清晰路径和实践指南。作为一个全面覆盖人工智能技术栈的综合性开源项", "L34: 我们深度**整合了从基础理论到前沿应用的完整知识体系，涵盖大语言模型、多模态AI、机器学习、深度学习、计算机视觉、自然语言处理、推荐系统、强化学习等核心技术领域**，以及`RAG`、`Agent`、GraphRAG等前沿应用架构。项目还包含", "L55: - **✍️ 博客模块**：沉淀体系化技术文章，当前覆盖 Python 基础、算法题解与编程能力提升，后续会持续更新 **LLM 相关指南、面试技巧与面试题、企业级逻辑项目讲解等内容**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tingaicompass/AI-Compass",
+ "sha": "15c6d76014d5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 学习者的技术知识库与每周 AI 前沿速览合集",
+  "review": "由汀丶（个人）维护的 AI 技术学习与资源导航开源仓库，按九大模块组织：博客（Python 基础与 107 道 LeetCode 题解）、可运行的 Milvus RAG 实战代码、基础知识入口（AI 导航、Prompt、模型测评榜）、技术框架、应用实践（RAG/Agent/GraphRAG）、产品工具、学习资源、企业开源与社区平台。同时维护每周前沿速览周报（至第 59 期），收录模型、Agent 产品与开源项目动态。支持通过一句提示词让 Claude Code、Codex 等 Coding Agent 将仓库克隆并安装为本地知识库 Skill，之后可直接对仓库内容做问答与拆解。资源收录通过 GitHub Issue 申请，声明不做付费排名。",
+  "highlights": [
+   "九大模块组织 AI 知识体系，覆盖 LLM、多模态、RAG、Agent、RLHF 等",
+   "每周前沿速览周报持续更新（59 期，每期约 59 条收录）",
+   "提供可运行的 Milvus/Zilliz Cloud RAG 完整工程示例",
+   "可通过提示词让 Coding Agent 安装为本地知识库 Skill"
+  ],
+  "use_cases": [
+   "系统学习 AI 技术栈并按模块查找学习路径",
+   "在 IDE 中结合 Claude Code/Codex 对仓库做智能问答与项目拆解",
+   "通过每周速览跟踪模型与 Agent 产品动态",
+   "参考 Milvus RAG 示例学习检索到生成的完整工程链路"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识库/清单",
+   "学习路径",
+   "AI周报",
+   "RAG实战",
+   "资源导航"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "tutorials",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 镜像与 CSDN/知乎/掘金账号",
+   "知识星球优惠券",
+   "收录华为/腾讯/阿里/百度飞桨等国内企业开源资源"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: **AI-Compass**将为你和社区提供在AI技术海洋中航行的方向与指引。无论你是刚踏入AI领域的初学者，还是寻求技术突破的进阶开发者，都能在这里找到通往AI各大技术方向的清晰路径和实践指南。作为一个全面覆盖人工智能技术栈的综合性开源项",
+   "L34: 我们深度**整合了从基础理论到前沿应用的完整知识体系，涵盖大语言模型、多模态AI、机器学习、深度学习、计算机视觉、自然语言处理、推荐系统、强化学习等核心技术领域**，以及`RAG`、`Agent`、GraphRAG等前沿应用架构。项目还包含",
+   "L55: - **✍️ 博客模块**：沉淀体系化技术文章，当前覆盖 Python 基础、算法题解与编程能力提升，后续会持续更新 **LLM 相关指南、面试技巧与面试题、企业级逻辑项目讲解等内容**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

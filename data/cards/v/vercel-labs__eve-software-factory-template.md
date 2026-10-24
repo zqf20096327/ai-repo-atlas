@@ -33,7 +33,7 @@ Vercel 官方实验室提供的 eve 软件工厂模板，名为 Foreman：从 Gi
 
 ## 场景标签
 
- · 领域:软件开发/DevOps
+`编码 Agent` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 

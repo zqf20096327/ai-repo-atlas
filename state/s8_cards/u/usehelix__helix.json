@@ -1,1 +1,78 @@
-{"fn": "usehelix/helix", "sha": "b7b7ea0840e0", "source": "readme", "identity": {"one_liner": "自主 agent 的自愈运行时：支付/API 调用失败自动诊断修复", "review": "面向自主 agent 开发者的 TypeScript/Python 自愈运行时，基于 VialOS Runtime。通过 wrap() 包裹任意异步函数，失败时触发 6 阶段修复管线（感知-构造-评估-提交-验证-记忆），修复方案存入基于 SQLite 与强化学习评分的 Gene Map，重复错误可在 1ms 内免 LLM 调用修复。内置 Coinbase/Tempo/Privy/通用 HTTP 平台适配器，提供 observe/auto/full 三种风险模式、7 项安全约束与 REST API、CLI、Docker 镜像。MIT 许可。", "highlights": ["wrap() 一行包裹函数，6 阶段自愈管线自动诊断修复失败", "Gene Map（SQLite + 强化学习）使重复错误在 1ms 内免 LLM 调用修复", "61 种错误模式（40 支付 + 21 API）、12 种修复策略、7 项安全约束", "提供 npm/PyPI/Docker/REST API/CLI（含代码库扫描）多种接入方式"], "use_cases": ["agent 支付调用失败时自动修复并记忆，避免反复付费重试", "包裹任意 API 调用实现自动诊断与参数修复重试", "在 CI/CD 中扫描代码库的错误模式"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent可靠性", "自愈运行时", "agent支付", "LLM基础设施"], "domain": "AI agent 基础设施/可靠性", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: **Self-healing runtime for autonomous agents. Fix once, immune forever.**", "L12: **Agent payment intelligence** — predict costs, optimize execution, fix failures. Powered by VialOS Runtime.", "L73: Helix is the first vertical product of **VialOS** — an AI agent operating system. The VialOS Runtime provides the PCEC e"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "usehelix/helix",
+ "sha": "b7b7ea0840e0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自主 agent 的自愈运行时：支付/API 调用失败自动诊断修复",
+  "review": "面向自主 agent 开发者的 TypeScript/Python 自愈运行时，基于 VialOS Runtime。通过 wrap() 包裹任意异步函数，失败时触发 6 阶段修复管线（感知-构造-评估-提交-验证-记忆），修复方案存入基于 SQLite 与强化学习评分的 Gene Map，重复错误可在 1ms 内免 LLM 调用修复。内置 Coinbase/Tempo/Privy/通用 HTTP 平台适配器，提供 observe/auto/full 三种风险模式、7 项安全约束与 REST API、CLI、Docker 镜像。MIT 许可。",
+  "highlights": [
+   "wrap() 一行包裹函数，6 阶段自愈管线自动诊断修复失败",
+   "Gene Map（SQLite + 强化学习）使重复错误在 1ms 内免 LLM 调用修复",
+   "61 种错误模式（40 支付 + 21 API）、12 种修复策略、7 项安全约束",
+   "提供 npm/PyPI/Docker/REST API/CLI（含代码库扫描）多种接入方式"
+  ],
+  "use_cases": [
+   "agent 支付调用失败时自动修复并记忆，避免反复付费重试",
+   "包裹任意 API 调用实现自动诊断与参数修复重试",
+   "在 CI/CD 中扫描代码库的错误模式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent可靠性",
+   "自愈运行时",
+   "agent支付",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **Self-healing runtime for autonomous agents. Fix once, immune forever.**",
+   "L12: **Agent payment intelligence** — predict costs, optimize execution, fix failures. Powered by VialOS Runtime.",
+   "L73: Helix is the first vertical product of **VialOS** — an AI agent operating system. The VialOS Runtime provides the PCEC e"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

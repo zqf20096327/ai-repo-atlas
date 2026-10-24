@@ -1,1 +1,78 @@
-{"fn": "tjx666/vscode-mcp", "sha": "b6d59561193d", "source": "readme", "identity": {"one_liner": "让 AI 编程代理实时获取 VSCode LSP 诊断与代码导航的 MCP server", "review": "由 VSCode 扩展（VSCode MCP Bridge）与 MCP Server/CLI 两部分组成的 monorepo：MCP server 或 CLI 通过 per-workspace Unix socket 与 VSCode 扩展通信，把 VSCode 语言服务器的实时信息（诊断、定义、hover、签名、类型、引用）以 MCP 工具或 CLI 子命令形式提供给 AI 编程代理（Cursor、Claude Code、Codex、Gemini CLI 等），替代耗时的 tsc/eslint/build 校验；还提供符号跨文件重命名、文件打开、execute_command 等工具，支持白/黑名单工具过滤。采用 Anti 996 License。", "highlights": ["通过 MCP 协议暴露 9 个工具（get-diagnostics、get-symbol-lsp-info、get-references、rename_symbol 等）", "复用 VSCode LSP 实时数据，替代缓慢的 tsc/eslint/build 命令", "同功能 CLI（@vscode-mcp/vscode-mcp-cli），无需注册 MCP 即可用 shell 调用", "按工作区 Unix socket 通信，支持多 VSCode 窗口定向"], "use_cases": ["AI 编程代理修改代码后快速获取实时诊断而非运行 tsc/eslint", "让 agent 在大项目中查询符号定义、类型与引用上下文", "在不配置 MCP 的环境中用 CLI 子命令获取相同能力"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP server", "AI编程代理", "LSP/代码分析", "VSCode生态", "开发工具"], "domain": "开发工具/AI 代理基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: VSCode MCP is a comprehensive monorepo solution that enables MCP (Model Context Protocol) clients to access rich VSCode ", "L30: These commands run slowly in large projects, severely impacting AI development efficiency. VSCode MCP Bridge provides re", "L182: 1. **VSCode Extension**: Runs in your VSCode instance and provides access to LSP data"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tjx666/vscode-mcp",
+ "sha": "b6d59561193d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 编程代理实时获取 VSCode LSP 诊断与代码导航的 MCP server",
+  "review": "由 VSCode 扩展（VSCode MCP Bridge）与 MCP Server/CLI 两部分组成的 monorepo：MCP server 或 CLI 通过 per-workspace Unix socket 与 VSCode 扩展通信，把 VSCode 语言服务器的实时信息（诊断、定义、hover、签名、类型、引用）以 MCP 工具或 CLI 子命令形式提供给 AI 编程代理（Cursor、Claude Code、Codex、Gemini CLI 等），替代耗时的 tsc/eslint/build 校验；还提供符号跨文件重命名、文件打开、execute_command 等工具，支持白/黑名单工具过滤。采用 Anti 996 License。",
+  "highlights": [
+   "通过 MCP 协议暴露 9 个工具（get-diagnostics、get-symbol-lsp-info、get-references、rename_symbol 等）",
+   "复用 VSCode LSP 实时数据，替代缓慢的 tsc/eslint/build 命令",
+   "同功能 CLI（@vscode-mcp/vscode-mcp-cli），无需注册 MCP 即可用 shell 调用",
+   "按工作区 Unix socket 通信，支持多 VSCode 窗口定向"
+  ],
+  "use_cases": [
+   "AI 编程代理修改代码后快速获取实时诊断而非运行 tsc/eslint",
+   "让 agent 在大项目中查询符号定义、类型与引用上下文",
+   "在不配置 MCP 的环境中用 CLI 子命令获取相同能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP server",
+   "AI编程代理",
+   "LSP/代码分析",
+   "VSCode生态",
+   "开发工具"
+  ],
+  "domain": "开发工具/AI 代理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: VSCode MCP is a comprehensive monorepo solution that enables MCP (Model Context Protocol) clients to access rich VSCode ",
+   "L30: These commands run slowly in large projects, severely impacting AI development efficiency. VSCode MCP Bridge provides re",
+   "L182: 1. **VSCode Extension**: Runs in your VSCode instance and provides access to LSP data"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

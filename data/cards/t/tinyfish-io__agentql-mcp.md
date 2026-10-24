@@ -33,7 +33,7 @@ AgentQL 官方的 Model Context Protocol 服务器，向支持 MCP 的客户端�
 
 ## 场景标签
 
- · 领域:Web 数据提取/LLM 工具生态
+`网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

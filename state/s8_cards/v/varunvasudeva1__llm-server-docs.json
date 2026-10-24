@@ -1,1 +1,78 @@
-{"fn": "varunvasudeva1/llm-server-docs", "sha": "e8041580209b", "source": "readme", "identity": {"one_liner": "Debian 本地私有 LLM 服务器的端到端搭建教程文档", "review": "面向 Linux 初学者的教程仓库：在 Debian 上从零搭建本地、完全私有的 LLM 服务器。覆盖 GPU 驱动与功耗限制、开机脚本、Docker 安装，以及推理引擎（Ollama/llama.cpp/vLLM）、Open WebUI 聊天平台、SearXNG 搜索、llama-swap 模型管理、MCP 代理（mcp-proxy/MCPJungle）、Kokoro TTS、ComfyUI 图像生成与 Tailscale 远程访问等组件的配置。仓库本身为文档，不含可运行产品代码，各组件安装命令均为第三方软件。", "highlights": ["端到端覆盖驱动、安全、容器化与完整软件栈配置", "推理引擎支持 Ollama / llama.cpp / vLLM，组件可替换", "含 GPU 功耗限制与开机自启动脚本（init.bash）配置", "明确标注作者参考硬件（2x RTX 3090 / 96GB 内存）并说明 AMD 与 CPU-only 路径"], "use_cases": ["首次搭建家用 LLM 服务器需要逐步指引", "想在内网自建带聊天、搜索、RAG、图像生成与 TTS 的私有服务", "为 24/7 运行的推理服务器做功耗与开机自动化配置"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程/文档", "自托管LLM", "homelab", "隐私/本地部署", "Linux服务器"], "domain": "LLM 自托管/运维文档", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: _TL;DR_: End-to-end documentation to set up your own local & fully private LLM server on Debian. Equipped with chat, web", "L7: - Inference Engine (Ollama, llama.cpp, vLLM)", "L24: This repository outlines the steps to run a server for running local language models. It uses Debian specifically, but m"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "varunvasudeva1/llm-server-docs",
+ "sha": "e8041580209b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Debian 本地私有 LLM 服务器的端到端搭建教程文档",
+  "review": "面向 Linux 初学者的教程仓库：在 Debian 上从零搭建本地、完全私有的 LLM 服务器。覆盖 GPU 驱动与功耗限制、开机脚本、Docker 安装，以及推理引擎（Ollama/llama.cpp/vLLM）、Open WebUI 聊天平台、SearXNG 搜索、llama-swap 模型管理、MCP 代理（mcp-proxy/MCPJungle）、Kokoro TTS、ComfyUI 图像生成与 Tailscale 远程访问等组件的配置。仓库本身为文档，不含可运行产品代码，各组件安装命令均为第三方软件。",
+  "highlights": [
+   "端到端覆盖驱动、安全、容器化与完整软件栈配置",
+   "推理引擎支持 Ollama / llama.cpp / vLLM，组件可替换",
+   "含 GPU 功耗限制与开机自启动脚本（init.bash）配置",
+   "明确标注作者参考硬件（2x RTX 3090 / 96GB 内存）并说明 AMD 与 CPU-only 路径"
+  ],
+  "use_cases": [
+   "首次搭建家用 LLM 服务器需要逐步指引",
+   "想在内网自建带聊天、搜索、RAG、图像生成与 TTS 的私有服务",
+   "为 24/7 运行的推理服务器做功耗与开机自动化配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/文档",
+   "自托管LLM",
+   "homelab",
+   "隐私/本地部署",
+   "Linux服务器"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: _TL;DR_: End-to-end documentation to set up your own local & fully private LLM server on Debian. Equipped with chat, web",
+   "L7: - Inference Engine (Ollama, llama.cpp, vLLM)",
+   "L24: This repository outlines the steps to run a server for running local language models. It uses Debian specifically, but m"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

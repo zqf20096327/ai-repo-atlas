@@ -1,1 +1,74 @@
-{"fn": "tommasocarraro/LTNtorch", "sha": "c80a767272a9", "source": "readme", "identity": {"one_liner": "Logic Tensor Networks 的 PyTorch 实现：用逻辑公理指导神经网络训练", "review": "LTNtorch 是逻辑张量网络（LTN）的 PyTorch 实现。LTN 是神经-符号框架：将一阶逻辑知识库中的公理作为可满足性目标，构造损失函数指导（深层）神经网络训练；通过可微分的一阶逻辑语言 Real Logic 将逻辑符号映射为张量或张量运算，逻辑连接词用模糊逻辑语义接地、量词用模糊聚合器接地，最终转换为 PyTorch 计算图。面向从事神经-符号计算、半监督学习与知识约束学习的研究者与开发者，提供 pip 安装、Jupyter 教程与七类示例（分类、回归、聚类、嵌入学习等），核心模块单测覆盖 100%。", "highlights": ["一阶逻辑公式的可满足性作为损失函数训练神经网络", "可微分逻辑语言 Real Logic：符号接地为张量/张量运算", "逻辑连接词用模糊语义、量词用模糊聚合器接地", "含教程与分类/回归/聚类/嵌入学习等七类 Jupyter 示例"], "use_cases": ["在分类、回归等任务中引入先验逻辑约束做训练", "半监督学习：用逻辑公理补充标注数据不足", "学习可解释的逻辑常量嵌入，训练后对新数据查询谓词与公式真值"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["神经符号计算", "模糊逻辑", "可微分推理", "机器学习框架"], "domain": "机器学习/神经符号计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: Logic Tensor Network (LTN) is a Neural-Symbolic (NeSy) framework which supports learning of neural networks using the", "L24: The idea is to use the logical axioms as a loss function for our Logic Tensor Network. The objective is to find solution"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tommasocarraro/LTNtorch",
+ "sha": "c80a767272a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Logic Tensor Networks 的 PyTorch 实现：用逻辑公理指导神经网络训练",
+  "review": "LTNtorch 是逻辑张量网络（LTN）的 PyTorch 实现。LTN 是神经-符号框架：将一阶逻辑知识库中的公理作为可满足性目标，构造损失函数指导（深层）神经网络训练；通过可微分的一阶逻辑语言 Real Logic 将逻辑符号映射为张量或张量运算，逻辑连接词用模糊逻辑语义接地、量词用模糊聚合器接地，最终转换为 PyTorch 计算图。面向从事神经-符号计算、半监督学习与知识约束学习的研究者与开发者，提供 pip 安装、Jupyter 教程与七类示例（分类、回归、聚类、嵌入学习等），核心模块单测覆盖 100%。",
+  "highlights": [
+   "一阶逻辑公式的可满足性作为损失函数训练神经网络",
+   "可微分逻辑语言 Real Logic：符号接地为张量/张量运算",
+   "逻辑连接词用模糊语义、量词用模糊聚合器接地",
+   "含教程与分类/回归/聚类/嵌入学习等七类 Jupyter 示例"
+  ],
+  "use_cases": [
+   "在分类、回归等任务中引入先验逻辑约束做训练",
+   "半监督学习：用逻辑公理补充标注数据不足",
+   "学习可解释的逻辑常量嵌入，训练后对新数据查询谓词与公式真值"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经符号计算",
+   "模糊逻辑",
+   "可微分推理",
+   "机器学习框架"
+  ],
+  "domain": "机器学习/神经符号计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Logic Tensor Network (LTN) is a Neural-Symbolic (NeSy) framework which supports learning of neural networks using the",
+   "L24: The idea is to use the logical axioms as a loss function for our Logic Tensor Network. The objective is to find solution"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

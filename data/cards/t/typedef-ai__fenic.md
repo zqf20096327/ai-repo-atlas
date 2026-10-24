@@ -34,7 +34,7 @@ fenic 是一个 Python 语义 DataFrame 查询引擎：在 PySpark/SQL 风格操
 
 ## 场景标签
 
- · 领域:数据工程/LLM 基础设施
+`数据分析` `文档解析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

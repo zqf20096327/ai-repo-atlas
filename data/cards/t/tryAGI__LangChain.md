@@ -32,7 +32,7 @@ LangChain 抽象的 C# 移植实现，目标是在抽象层面尽量贴近原版
 
 ## 场景标签
 
- · 领域:LLM 应用框架
+`Agent 框架` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

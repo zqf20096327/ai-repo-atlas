@@ -1,1 +1,80 @@
-{"fn": "tudoumashu/ai-memory-skillpack", "sha": "f0bec5eae4ed", "source": "readme", "identity": {"one_liner": "给 Codex CLI/Claude Code 的有界项目记忆技能包", "review": "面向 Codex CLI 的项目记忆系统：通过技能（ai-project-memory、可选 llm-wiki、project-mastery-coach）、constitution（SYSTEM.md）、代理可执行的安装器（INSTALL.md）与失败即关闭的验证器（VERIFY.md）实现分层记忆。机制包括 HOT/WARM/COLD 读取分层、单页快照式 handoff（replace-guard + flock）、SHA256SUMS 完整性校验、基于收据哈希的可逆升级、禁止密钥入库。同一技能源通过符号链接支持 Claude Code。要求 Linux/WSL、bash≥4.4、git、rg、sha256sum；macOS 需 GNU 工具否则安装停止。无 Obsidian wiki 时仅安装核心技能。", "highlights": ["HOT/WARM/COLD 三层读取策略，handoff 为单页快照而非追加日志", "代理可执行的 INSTALL.md 安装器与 VERIFY.md 断言式验收（fail-closed）", "收据哈希机制保证升级不覆盖用户编辑，旧包归档不销毁", "一份技能源同时服务 Codex 与 Claude Code（符号链接，无分叉副本）"], "use_cases": ["让 Codex 跨会话记住仓库结构、陷阱与交接状态", "控制 agent 记忆的上下文开销，避免无上限的笔记污染", "在 Claude Code 上复用同一套项目记忆技能"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent记忆", "Codex CLI", "Claude Code", "技能包", "上下文管理"], "domain": "开发工具/agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本（L7 English · 中文）"]}, "trust": {"confidence": "high", "evidence": ["L5: A bounded, fail-closed project-memory system for Codex CLI. Optional Claude Code support on the same skill source.", "L16: Codex already writes code, reviews diffs, and triages failures. What it still lacks, out of the box, is a **durable, siz", "L57: - **One skill source, two harnesses.** Codex holds the files; a second harness gets symlinks. No forked copies."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tudoumashu/ai-memory-skillpack",
+ "sha": "f0bec5eae4ed",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 Codex CLI/Claude Code 的有界项目记忆技能包",
+  "review": "面向 Codex CLI 的项目记忆系统：通过技能（ai-project-memory、可选 llm-wiki、project-mastery-coach）、constitution（SYSTEM.md）、代理可执行的安装器（INSTALL.md）与失败即关闭的验证器（VERIFY.md）实现分层记忆。机制包括 HOT/WARM/COLD 读取分层、单页快照式 handoff（replace-guard + flock）、SHA256SUMS 完整性校验、基于收据哈希的可逆升级、禁止密钥入库。同一技能源通过符号链接支持 Claude Code。要求 Linux/WSL、bash≥4.4、git、rg、sha256sum；macOS 需 GNU 工具否则安装停止。无 Obsidian wiki 时仅安装核心技能。",
+  "highlights": [
+   "HOT/WARM/COLD 三层读取策略，handoff 为单页快照而非追加日志",
+   "代理可执行的 INSTALL.md 安装器与 VERIFY.md 断言式验收（fail-closed）",
+   "收据哈希机制保证升级不覆盖用户编辑，旧包归档不销毁",
+   "一份技能源同时服务 Codex 与 Claude Code（符号链接，无分叉副本）"
+  ],
+  "use_cases": [
+   "让 Codex 跨会话记住仓库结构、陷阱与交接状态",
+   "控制 agent 记忆的上下文开销，避免无上限的笔记污染",
+   "在 Claude Code 上复用同一套项目记忆技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "Codex CLI",
+   "Claude Code",
+   "技能包",
+   "上下文管理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本（L7 English · 中文）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A bounded, fail-closed project-memory system for Codex CLI. Optional Claude Code support on the same skill source.",
+   "L16: Codex already writes code, reviews diffs, and triages failures. What it still lacks, out of the box, is a **durable, siz",
+   "L57: - **One skill source, two harnesses.** Codex holds the files; a second harness gets symlinks. No forked copies."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

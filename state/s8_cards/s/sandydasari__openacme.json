@@ -1,1 +1,83 @@
-{"fn": "sandydasari/openacme", "sha": "f2cf1fd6b431", "source": "readme", "identity": {"one_liner": "自托管多 agent AI 劳动力平台，带 Web 与 CLI 界面", "review": "用 TypeScript 构建的开源、本地优先的多 agent 平台：以带角色、模型、工具与记忆的命名 agent 组成可自定组织结构的工作组，通过任务板与委托机制协作分解并执行目标。支持多模型接入（Anthropic/OpenAI/Google/OpenRouter/Ollama 及 OpenAI 兼容端点），MCP-native，可用 Claude 或 ChatGPT 订阅登录而非仅靠 API key。以守护进程形式本地运行，注册到 launchd/systemd-user，数据存于 ~/.openacme/ 下的 SQLite。需 Node ≥ 18，macOS/Linux。", "highlights": ["扁平/管理者/专家团队等多种组织形态，agent 间通过内置 task_create 委托任务", "每个 agent 是磁盘上的一个文件夹（AGENT.md + 工作区 + 私有记忆）", "多 provider 接入，支持以 Claude Pro / ChatGPT Plus 订阅登录驱动", "本地守护进程 + Web UI / CLI，任务板与事件日志存于 SQLite"], "use_cases": ["搭建按角色分工、可自主委托的 AI agent 团队处理日常工作", "设定周期任务让 agent 定时执行（如内容排期、竞品周报）", "在本地长期运行 agent 并保留跨会话记忆"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多agent平台", "AI劳动力", "任务编排", "自托管", "CLI工具"], "domain": "AI agent 平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "openrouter", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: OpenAcme is an open-source, local-first, self-hosted **multi-agent AI platform** — a practical alternative to CrewAI, Au", "L30: The substrate is the same in every shape. Agents share a task board, any agent can assign work to any other (`task_creat"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sandydasari/openacme",
+ "sha": "f2cf1fd6b431",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管多 agent AI 劳动力平台，带 Web 与 CLI 界面",
+  "review": "用 TypeScript 构建的开源、本地优先的多 agent 平台：以带角色、模型、工具与记忆的命名 agent 组成可自定组织结构的工作组，通过任务板与委托机制协作分解并执行目标。支持多模型接入（Anthropic/OpenAI/Google/OpenRouter/Ollama 及 OpenAI 兼容端点），MCP-native，可用 Claude 或 ChatGPT 订阅登录而非仅靠 API key。以守护进程形式本地运行，注册到 launchd/systemd-user，数据存于 ~/.openacme/ 下的 SQLite。需 Node ≥ 18，macOS/Linux。",
+  "highlights": [
+   "扁平/管理者/专家团队等多种组织形态，agent 间通过内置 task_create 委托任务",
+   "每个 agent 是磁盘上的一个文件夹（AGENT.md + 工作区 + 私有记忆）",
+   "多 provider 接入，支持以 Claude Pro / ChatGPT Plus 订阅登录驱动",
+   "本地守护进程 + Web UI / CLI，任务板与事件日志存于 SQLite"
+  ],
+  "use_cases": [
+   "搭建按角色分工、可自主委托的 AI agent 团队处理日常工作",
+   "设定周期任务让 agent 定时执行（如内容排期、竞品周报）",
+   "在本地长期运行 agent 并保留跨会话记忆"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent平台",
+   "AI劳动力",
+   "任务编排",
+   "自托管",
+   "CLI工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: OpenAcme is an open-source, local-first, self-hosted **multi-agent AI platform** — a practical alternative to CrewAI, Au",
+   "L30: The substrate is the same in every shape. Agents share a task board, any agent can assign work to any other (`task_creat"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,77 @@
-{"fn": "tusKANNy/seismic", "sha": "f0b003ec1cb9", "source": "readme", "identity": {"one_liner": "面向学习型稀疏嵌入的近似稀疏向量检索库（Rust + Python）", "review": "Seismic 是用 Rust 编写、提供 Python 绑定的搜索引擎，针对学习型稀疏嵌入（learned sparse embeddings）建立倒排索引并结合 k-NN 图做近似检索，检索延迟为微秒级。输入为 jsonl 格式的稀疏向量集合（token 到分数的映射），支持标准、压缩（DotVByte）与超大词表三种索引变体，提供多线程批量检索，可配合 RAG 流水线返回文档原文。安装通过 pip 安装 pyseismic-lsr，或用 Rust 工具链从源码编译以获得硬件特定优化。附带多个数据集的预优化配置与 SIGIR/CIKM/ECIR 论文，采用引用许可：使用需引用其论文。", "highlights": ["针对学习型稀疏嵌入的近似检索，倒排索引 + k-NN 图结构", "三种索引变体：标准 / DotVByte 压缩 / 超大词表（>65K token）", "多线程批量检索与 RAG-ready 文档内容返回", "Python（pyseismic-lsr）与 Rust（cargo add seismic）双 API"], "use_cases": ["为稀疏检索模型（如 splade）建立的向量集合做低延迟 ANN 检索", "在大规模文档集合上做 RAG 检索并返回文档原文", "复现论文实验或按预优化配置跑检索评测"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["信息检索", "稀疏向量检索", "向量数据库", "RAG", "Rust/Python 库"], "domain": "信息检索/向量检索", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Seismic is a fast and lightweight search engine for learned sparse embeddings, written in Rust with Python bindings. It ", "L50: - **Python & Rust APIs** — Use from Python via `pyseismic-lsr` or integrate directly in Rust via `cargo add seismic` (do"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tusKANNy/seismic",
+ "sha": "f0b003ec1cb9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学习型稀疏嵌入的近似稀疏向量检索库（Rust + Python）",
+  "review": "Seismic 是用 Rust 编写、提供 Python 绑定的搜索引擎，针对学习型稀疏嵌入（learned sparse embeddings）建立倒排索引并结合 k-NN 图做近似检索，检索延迟为微秒级。输入为 jsonl 格式的稀疏向量集合（token 到分数的映射），支持标准、压缩（DotVByte）与超大词表三种索引变体，提供多线程批量检索，可配合 RAG 流水线返回文档原文。安装通过 pip 安装 pyseismic-lsr，或用 Rust 工具链从源码编译以获得硬件特定优化。附带多个数据集的预优化配置与 SIGIR/CIKM/ECIR 论文，采用引用许可：使用需引用其论文。",
+  "highlights": [
+   "针对学习型稀疏嵌入的近似检索，倒排索引 + k-NN 图结构",
+   "三种索引变体：标准 / DotVByte 压缩 / 超大词表（>65K token）",
+   "多线程批量检索与 RAG-ready 文档内容返回",
+   "Python（pyseismic-lsr）与 Rust（cargo add seismic）双 API"
+  ],
+  "use_cases": [
+   "为稀疏检索模型（如 splade）建立的向量集合做低延迟 ANN 检索",
+   "在大规模文档集合上做 RAG 检索并返回文档原文",
+   "复现论文实验或按预优化配置跑检索评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "信息检索",
+   "稀疏向量检索",
+   "向量数据库",
+   "RAG",
+   "Rust/Python 库"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Seismic is a fast and lightweight search engine for learned sparse embeddings, written in Rust with Python bindings. It ",
+   "L50: - **Python & Rust APIs** — Use from Python via `pyseismic-lsr` or integrate directly in Rust via `cargo add seismic` (do"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

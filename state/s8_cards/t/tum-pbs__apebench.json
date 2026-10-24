@@ -1,1 +1,78 @@
-{"fn": "tum-pbs/apebench", "sha": "88d1462a4b97", "source": "readme", "identity": {"one_liner": "JAX 基础的 PDE 自回归神经模拟器评测基准套件", "review": "面向 1D/2D/3D 周期域 PDE 的自回归神经模拟器（emulator）评测框架：内置基于谱方法的高效参考模拟器，程序化生成数据，无需下载大数据集；支持将模拟器嵌入训练的 solver-in-the-loop 可微物理设置，以及展开训练（unrolled training）与 rollout 误差评测。由 Exponax（参考模拟器）、PDEquinox（网络架构）、Trainax（训练器）三个组件封装为可调用的 scenario dataclass，覆盖训练与评测全流程。NeurIPS 2024 论文配套，pip 安装，需 Python 3.10+ 与 JAX 0.4.12+。", "highlights": ["谱方法参考模拟器程序化生成数据，无需下载大数据集", "首个支持可微物理（solver-in-the-loop）的基准套件", "支持展开训练与多步 rollout 评测指标", "scenario 以可调用 dataclass 封装训练与评测全流程"], "use_cases": ["科研人员系统比较 PDE 神经模拟器的架构与训练设置", "在自建 PDE 任务上训练并评测 ConvNet/U-Net/FNO 等模型", "复现 NeurIPS 2024 论文中的基准实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2411.00180", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["科学机器学习", "PDE模拟", "基准评测", "JAX", "可微物理"], "domain": "科学计算/物理仿真 AI", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L32: APEBench is a JAX-based tool to evaluate autoregressive neural emulators for", "L120: APEBench is a framework to holistically assess all four ingredients. Component", "L137: APEBench encapsulates the entire pipeline of training and evaluating an"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tum-pbs/apebench",
+ "sha": "88d1462a4b97",
+ "source": "readme",
+ "identity": {
+  "one_liner": "JAX 基础的 PDE 自回归神经模拟器评测基准套件",
+  "review": "面向 1D/2D/3D 周期域 PDE 的自回归神经模拟器（emulator）评测框架：内置基于谱方法的高效参考模拟器，程序化生成数据，无需下载大数据集；支持将模拟器嵌入训练的 solver-in-the-loop 可微物理设置，以及展开训练（unrolled training）与 rollout 误差评测。由 Exponax（参考模拟器）、PDEquinox（网络架构）、Trainax（训练器）三个组件封装为可调用的 scenario dataclass，覆盖训练与评测全流程。NeurIPS 2024 论文配套，pip 安装，需 Python 3.10+ 与 JAX 0.4.12+。",
+  "highlights": [
+   "谱方法参考模拟器程序化生成数据，无需下载大数据集",
+   "首个支持可微物理（solver-in-the-loop）的基准套件",
+   "支持展开训练与多步 rollout 评测指标",
+   "scenario 以可调用 dataclass 封装训练与评测全流程"
+  ],
+  "use_cases": [
+   "科研人员系统比较 PDE 神经模拟器的架构与训练设置",
+   "在自建 PDE 任务上训练并评测 ConvNet/U-Net/FNO 等模型",
+   "复现 NeurIPS 2024 论文中的基准实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2411.00180",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科学机器学习",
+   "PDE模拟",
+   "基准评测",
+   "JAX",
+   "可微物理"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: APEBench is a JAX-based tool to evaluate autoregressive neural emulators for",
+   "L120: APEBench is a framework to holistically assess all four ingredients. Component",
+   "L137: APEBench encapsulates the entire pipeline of training and evaluating an"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

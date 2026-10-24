@@ -1,1 +1,74 @@
-{"fn": "vicentereig/whatsapp-cli", "sha": "5e5b95149089", "source": "readme", "identity": {"one_liner": "供人类与 LLM agent 使用的 WhatsApp 命令行工具", "review": "基于 WhatsApp Web 多设备协议的独立命令行工具，用 Go 编写、编译为单一二进制。命令覆盖认证（QR 码扫码，会话约 20 天）、消息持续同步、消息列表/搜索、联系人搜索、聊天列表、发送文本消息与媒体下载；所有命令返回结构化 JSON。消息与会话存于本地 SQLite，无云端依赖。面向 Shell 脚本自动化、CI/CD、数据分析以及 Codex/Claude Code 等 AI 工具集成。安装支持 Homebrew、预编译二进制、源码构建和 go install。限制：send 仅支持文本，不返回送达/已读回执，sync 不下载媒体文件本体（仅存元数据）。", "highlights": ["单一 21MB 编译二进制，无运行时依赖", "所有命令返回结构化 JSON 输出", "QR 码认证后本地 SQLite 持久会话，自动重连约 20 天", "支持 Linux/macOS/Windows 的 x86_64 与 ARM64 预编译产物（含 SHA-256 与 Sigstore 签名校验）"], "use_cases": ["用 Shell 脚本或 cron 任务自动化收发 WhatsApp 消息", "让 Codex/Claude Code 等 AI 工具读写我的 WhatsApp 对话", "本地同步并搜索 WhatsApp 消息记录做数据分析"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CLI 工具", "消息自动化", "agent 工具接入", "WhatsApp 集成"], "domain": "通讯工具/开发者 CLI", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16: WhatsApp CLI is a standalone command-line tool for WhatsApp. It uses the WhatsApp Web multidevice protocol. Every comman", "L19: - **AI Integration**: Codex, Claude Code, GPT-based tools"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vicentereig/whatsapp-cli",
+ "sha": "5e5b95149089",
+ "source": "readme",
+ "identity": {
+  "one_liner": "供人类与 LLM agent 使用的 WhatsApp 命令行工具",
+  "review": "基于 WhatsApp Web 多设备协议的独立命令行工具，用 Go 编写、编译为单一二进制。命令覆盖认证（QR 码扫码，会话约 20 天）、消息持续同步、消息列表/搜索、联系人搜索、聊天列表、发送文本消息与媒体下载；所有命令返回结构化 JSON。消息与会话存于本地 SQLite，无云端依赖。面向 Shell 脚本自动化、CI/CD、数据分析以及 Codex/Claude Code 等 AI 工具集成。安装支持 Homebrew、预编译二进制、源码构建和 go install。限制：send 仅支持文本，不返回送达/已读回执，sync 不下载媒体文件本体（仅存元数据）。",
+  "highlights": [
+   "单一 21MB 编译二进制，无运行时依赖",
+   "所有命令返回结构化 JSON 输出",
+   "QR 码认证后本地 SQLite 持久会话，自动重连约 20 天",
+   "支持 Linux/macOS/Windows 的 x86_64 与 ARM64 预编译产物（含 SHA-256 与 Sigstore 签名校验）"
+  ],
+  "use_cases": [
+   "用 Shell 脚本或 cron 任务自动化收发 WhatsApp 消息",
+   "让 Codex/Claude Code 等 AI 工具读写我的 WhatsApp 对话",
+   "本地同步并搜索 WhatsApp 消息记录做数据分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI 工具",
+   "消息自动化",
+   "agent 工具接入",
+   "WhatsApp 集成"
+  ],
+  "domain": "通讯工具/开发者 CLI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: WhatsApp CLI is a standalone command-line tool for WhatsApp. It uses the WhatsApp Web multidevice protocol. Every comman",
+   "L19: - **AI Integration**: Codex, Claude Code, GPT-based tools"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,77 @@
-{"fn": "scccc6ut/npface", "sha": "f22c7967b7fe", "source": "readme", "identity": {"one_liner": "AI agent 用的零依赖 SVG 头盔表情头像组件", "review": "npface 是一个 TypeScript 前端库，渲染一个头盔形状的小脸（SVG，两眼+护目镜+头盔动作），通过传入语义状态名（thinking、search-docs、search-web、working、waiting、error 等 13 种）驱动表情与动作。零依赖、框架无关核心约 9 KB gzip，共享单个 rAF 循环；提供 React 绑定 npface-react，支持 CDN 引入。面向需要为 AI agent 展示工作状态的开发者：后端只需随事件发送状态名即可切换表情，无需服务端动画逻辑。支持自定义状态注册、配色主题、离屏暂停与 prefers-reduced-motion 无障碍处理。MIT 许可。", "highlights": ["13 个语义状态驱动表情（thinking/search-docs/search-web/working/error 等），支持别名与自定义状态注册", "零依赖核心，gzip 约 9 KB，共享单个 requestAnimationFrame 循环", "提供 React 绑定 npface-react，兼容 Next.js App Router，也支持 CDN 无构建使用", "状态即数据：表情定义为纯数据文件，与渲染逻辑分离"], "use_cases": ["给 AI agent 界面加一个会随工作状态变化的头像", "通过 SSE/WebSocket 状态流实时展示 agent 的检索、思考、执行过程", "在任意前端框架中以 CDN 或 npm 方式嵌入轻量表情动画"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "README L13 Live demo 链接（具体 URL 未展示）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["前端组件", "SVG动画", "AI agent UI", "头像/形象", "可访问性"], "domain": "前端/开发者组件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["提供完整中文 README（L193-）"]}, "trust": {"confidence": "high", "evidence": ["L21: `npface` renders a small helmet-shaped face — a deep-navy rounded square helmet, white visor slot, two neon-green rounde", "L155: The backend only needs to emit a **state name** alongside its usual events; no animation logic server-side."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "scccc6ut/npface",
+ "sha": "f22c7967b7fe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 用的零依赖 SVG 头盔表情头像组件",
+  "review": "npface 是一个 TypeScript 前端库，渲染一个头盔形状的小脸（SVG，两眼+护目镜+头盔动作），通过传入语义状态名（thinking、search-docs、search-web、working、waiting、error 等 13 种）驱动表情与动作。零依赖、框架无关核心约 9 KB gzip，共享单个 rAF 循环；提供 React 绑定 npface-react，支持 CDN 引入。面向需要为 AI agent 展示工作状态的开发者：后端只需随事件发送状态名即可切换表情，无需服务端动画逻辑。支持自定义状态注册、配色主题、离屏暂停与 prefers-reduced-motion 无障碍处理。MIT 许可。",
+  "highlights": [
+   "13 个语义状态驱动表情（thinking/search-docs/search-web/working/error 等），支持别名与自定义状态注册",
+   "零依赖核心，gzip 约 9 KB，共享单个 requestAnimationFrame 循环",
+   "提供 React 绑定 npface-react，兼容 Next.js App Router，也支持 CDN 无构建使用",
+   "状态即数据：表情定义为纯数据文件，与渲染逻辑分离"
+  ],
+  "use_cases": [
+   "给 AI agent 界面加一个会随工作状态变化的头像",
+   "通过 SSE/WebSocket 状态流实时展示 agent 的检索、思考、执行过程",
+   "在任意前端框架中以 CDN 或 npm 方式嵌入轻量表情动画"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "README L13 Live demo 链接（具体 URL 未展示）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "前端组件",
+   "SVG动画",
+   "AI agent UI",
+   "头像/形象",
+   "可访问性"
+  ],
+  "domain": "前端/开发者组件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供完整中文 README（L193-）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: `npface` renders a small helmet-shaped face — a deep-navy rounded square helmet, white visor slot, two neon-green rounde",
+   "L155: The backend only needs to emit a **state name** alongside its usual events; no animation logic server-side."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

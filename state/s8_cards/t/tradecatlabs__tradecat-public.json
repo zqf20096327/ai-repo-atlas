@@ -1,1 +1,81 @@
-{"fn": "tradecatlabs/tradecat-public", "sha": "1fdbc23f8bd9", "source": "readme", "identity": {"one_liner": "面向 Agent 的加密货币自主纸面交易运行时", "review": "TradeCat Public 是供 Agent/Hermes 使用的自主纸面交易运行时：从公开在线表格读取信号，Agent 依据仓库内自包含的 Binance public/read-only skill/API 快照补齐行情上下文与交易 thesis，系统负责 schema 审计、信号对齐、paper/watch 执行、账本、风控拒绝与可复现审计。安全边界严格：不读取 Binance key、不签名、不下真实单；缺少 Agent 明确 sizing/止损等参数时 fail-closed。旧 TUI 与安装器已退役，本地 CLI 渠道暂不可用，指引跳转 web 端。", "highlights": ["以公开在线表格为信号源的 Agent 纸面交易执行与账本", "Binance public/read-only skill/API 快照供 Agent 研究行情", "JSON Schema 约束各 I/O，输出 SQLite 审计日志与多类报告", "缺 Agent sizing/leverage/止损时 fail-closed，禁止真实下单"], "use_cases": ["让 AI Agent 基于在线表格信号做可审计的纸面交易回放", "研究 Agent 交易决策的完整上下文与 thesis 记录", "在无实盘风险的前提下迭代 paper 风控策略"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["量化交易", "agent 运行时", "加密货币", "纸面交易/回测", "审计/可复现"], "domain": "加密货币/Agent 交易基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "中文社区赞助商（交易猫社区）"]}, "trust": {"confidence": "mid", "evidence": ["L14: TradeCat Public 是一个面向 Agent/Hermes 的自主纸面交易运行时。公开在线表格只作为信号源；Agent/Hermes 根据仓库内自包含的 Binance skill/API 快照和公开只读工具补齐行情上下文与交易 ", "L16: 本仓库的核心目标是：Agent 交易员同步在线表格作为信号源的自主纸面交易系统。旧的本地交互式 TUI、安装器、watchdog、缓存浏览器和 `project/` 根目录已经退役。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tradecatlabs/tradecat-public",
+ "sha": "1fdbc23f8bd9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Agent 的加密货币自主纸面交易运行时",
+  "review": "TradeCat Public 是供 Agent/Hermes 使用的自主纸面交易运行时：从公开在线表格读取信号，Agent 依据仓库内自包含的 Binance public/read-only skill/API 快照补齐行情上下文与交易 thesis，系统负责 schema 审计、信号对齐、paper/watch 执行、账本、风控拒绝与可复现审计。安全边界严格：不读取 Binance key、不签名、不下真实单；缺少 Agent 明确 sizing/止损等参数时 fail-closed。旧 TUI 与安装器已退役，本地 CLI 渠道暂不可用，指引跳转 web 端。",
+  "highlights": [
+   "以公开在线表格为信号源的 Agent 纸面交易执行与账本",
+   "Binance public/read-only skill/API 快照供 Agent 研究行情",
+   "JSON Schema 约束各 I/O，输出 SQLite 审计日志与多类报告",
+   "缺 Agent sizing/leverage/止损时 fail-closed，禁止真实下单"
+  ],
+  "use_cases": [
+   "让 AI Agent 基于在线表格信号做可审计的纸面交易回放",
+   "研究 Agent 交易决策的完整上下文与 thesis 记录",
+   "在无实盘风险的前提下迭代 paper 风控策略"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化交易",
+   "agent 运行时",
+   "加密货币",
+   "纸面交易/回测",
+   "审计/可复现"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "中文社区赞助商（交易猫社区）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: TradeCat Public 是一个面向 Agent/Hermes 的自主纸面交易运行时。公开在线表格只作为信号源；Agent/Hermes 根据仓库内自包含的 Binance skill/API 快照和公开只读工具补齐行情上下文与交易 ",
+   "L16: 本仓库的核心目标是：Agent 交易员同步在线表格作为信号源的自主纸面交易系统。旧的本地交互式 TUI、安装器、watchdog、缓存浏览器和 `project/` 根目录已经退役。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

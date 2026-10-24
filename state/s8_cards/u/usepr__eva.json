@@ -1,1 +1,82 @@
-{"fn": "usepr/eva", "sha": "36fb0af6075a", "source": "readme", "identity": {"one_liner": "单文件零依赖命令行 AI Agent，帮用户执行运维与脚本任务", "review": "EVA 是一个仅由 eva.py 单文件构成的 Agent，需 Python 即可运行，面向 Linux/Windows 运维与自动化场景用户：可写脚本、写测试案例、执行 shell、分析数据。通过 OpenAI 接口形式接入 LLM，支持 DeepSeek、OpenAI 等 API，或 Ollama/vLLM 拉起的本地模型，通过三个环境变量切换。带安全审查（默认只执行读命令）、目录级 Session 延续对话，并可通过 .eva/EVA.md 进行设定与技能扩展。", "highlights": ["单文件零依赖，仅一个 eva.py，有 Python 即可运行", "支持 OpenAI 接口形式的本地模型（Ollama/vLLM）或云端 API（DeepSeek/OpenAI）", "安全审查：默认只执行读命令，其他命令需确认", "目录级 Session：同目录启动延续之前对话"], "use_cases": ["在运维/自动化流程中以单命令方式调用 Agent 完成任务", "本地模型环境下做脚本编写、shell 执行与数据分析", "通过 EVA.md 设定与技能文件扩展 Agent 行为"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["命令行Agent", "自动化/运维", "本地LLM", "单文件工具"], "domain": "命令行自动化/运维", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm", "deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "微信 Bot 接入示例"]}, "trust": {"confidence": "high", "evidence": ["L30: EVA是个麻雀虽小、五脏俱全的Agent智能体，相当于低配版Claude Code，能帮你写脚本、写测试案例、执行shell、分析数据等。我自己就是EVA的重度用户，日常处理各种任务。", "L36: - 本地化：可以接入本地部署的OpenAI接口模型，如vLLM，或者是外网模型", "L37: - 极致轻量化：单文件，仅一个`eva.py`，有python就能运行"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "usepr/eva",
+ "sha": "36fb0af6075a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单文件零依赖命令行 AI Agent，帮用户执行运维与脚本任务",
+  "review": "EVA 是一个仅由 eva.py 单文件构成的 Agent，需 Python 即可运行，面向 Linux/Windows 运维与自动化场景用户：可写脚本、写测试案例、执行 shell、分析数据。通过 OpenAI 接口形式接入 LLM，支持 DeepSeek、OpenAI 等 API，或 Ollama/vLLM 拉起的本地模型，通过三个环境变量切换。带安全审查（默认只执行读命令）、目录级 Session 延续对话，并可通过 .eva/EVA.md 进行设定与技能扩展。",
+  "highlights": [
+   "单文件零依赖，仅一个 eva.py，有 Python 即可运行",
+   "支持 OpenAI 接口形式的本地模型（Ollama/vLLM）或云端 API（DeepSeek/OpenAI）",
+   "安全审查：默认只执行读命令，其他命令需确认",
+   "目录级 Session：同目录启动延续之前对话"
+  ],
+  "use_cases": [
+   "在运维/自动化流程中以单命令方式调用 Agent 完成任务",
+   "本地模型环境下做脚本编写、shell 执行与数据分析",
+   "通过 EVA.md 设定与技能文件扩展 Agent 行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "命令行Agent",
+   "自动化/运维",
+   "本地LLM",
+   "单文件工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "coding-agent",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "微信 Bot 接入示例"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: EVA是个麻雀虽小、五脏俱全的Agent智能体，相当于低配版Claude Code，能帮你写脚本、写测试案例、执行shell、分析数据等。我自己就是EVA的重度用户，日常处理各种任务。",
+   "L36: - 本地化：可以接入本地部署的OpenAI接口模型，如vLLM，或者是外网模型",
+   "L37: - 极致轻量化：单文件，仅一个`eva.py`，有python就能运行"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

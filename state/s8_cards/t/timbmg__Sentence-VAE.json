@@ -1,1 +1,75 @@
-{"fn": "timbmg/Sentence-VAE", "sha": "30197400e980", "source": "readme", "identity": {"one_liner": "Bowman 等 2015 句子 VAE 论文的 PyTorch 复现实现", "review": "用 PyTorch 重新实现论文《Generating Sentences from a Continuous Space》（Bowman et al. 2015）的句子变分自编码器：在 Penn Tree Bank 语料上训练 RNN/GRU 编码器-解码器 VAE（不支持 LSTM），支持 KL 退火（logistic/linear）、词级与嵌入 dropout、TensorBoard 记录等训练参数；README 报告了 4 个 epoch 的 NLL/KL 指标，并可用 inference.py 从隐空间采样与插值生成句子。面向需要复现或研究该模型的研究者与开发者。", "highlights": ["RNN/GRU 编码器-解码器的句子 VAE 实现（不支持 LSTM）", "KL 退火函数支持 logistic 与 linear 两种", "inference.py 支持从隐空间采样与句子插值", "提供 dowloaddata.sh 脚本下载 PTB 数据"], "use_cases": ["复现 Bowman et al. 2015 的句子 VAE 实验", "研究生成式文本模型与隐空间句子插值", "在此基础上调整训练参数做变体实验"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/1511.06349", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文本生成", "变分自编码器", "论文复现", "PyTorch", "NLP"], "domain": "NLP/生成模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: PyTorch re-implementation of _Generating Sentences from a Continuous Space_ by Bowman et al. 2015.", "L86: For obtaining samples and interpolating between senteces, inference.py can be used."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "timbmg/Sentence-VAE",
+ "sha": "30197400e980",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Bowman 等 2015 句子 VAE 论文的 PyTorch 复现实现",
+  "review": "用 PyTorch 重新实现论文《Generating Sentences from a Continuous Space》（Bowman et al. 2015）的句子变分自编码器：在 Penn Tree Bank 语料上训练 RNN/GRU 编码器-解码器 VAE（不支持 LSTM），支持 KL 退火（logistic/linear）、词级与嵌入 dropout、TensorBoard 记录等训练参数；README 报告了 4 个 epoch 的 NLL/KL 指标，并可用 inference.py 从隐空间采样与插值生成句子。面向需要复现或研究该模型的研究者与开发者。",
+  "highlights": [
+   "RNN/GRU 编码器-解码器的句子 VAE 实现（不支持 LSTM）",
+   "KL 退火函数支持 logistic 与 linear 两种",
+   "inference.py 支持从隐空间采样与句子插值",
+   "提供 dowloaddata.sh 脚本下载 PTB 数据"
+  ],
+  "use_cases": [
+   "复现 Bowman et al. 2015 的句子 VAE 实验",
+   "研究生成式文本模型与隐空间句子插值",
+   "在此基础上调整训练参数做变体实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/1511.06349",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本生成",
+   "变分自编码器",
+   "论文复现",
+   "PyTorch",
+   "NLP"
+  ],
+  "domain": "NLP/生成模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: PyTorch re-implementation of _Generating Sentences from a Continuous Space_ by Bowman et al. 2015.",
+   "L86: For obtaining samples and interpolating between senteces, inference.py can be used."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

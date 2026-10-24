@@ -1,1 +1,86 @@
-{"fn": "titanwings/ex-skill", "sha": "db903180d679", "source": "readme", "identity": {"one_liner": "用聊天记录生成前任数字人格 Skill，可对话的复刻", "review": "面向 AgentSkills 生态的人格生成技能：读取微信/iMessage 聊天记录（Windows/macOS 自动解密提取）或截图、粘贴文本，结合性别、MBTI、依恋类型、星座等描述，生成 6 层人格结构的数字前任 Skill，之后可用 /{slug} 与其对话。技能安装到 OpenClaw、Claude Code、DeepSeek Harness 后运行，支持增量导入消息、对话式纠错、版本回滚与多前任独立存储。README 自述仍为 beta/demo 阶段，自动解密可能存在 bug。", "highlights": ["微信/iMessage 聊天记录自动解密提取（SQLite）", "6 层人格结构（核心规则/身份/表达/情绪/冲突边界/触发器）", "增量更新、纠错层写入、版本归档与回滚", "兼容 OpenClaw / Claude Code / DeepSeek Harness 的 SKILL.md 标准"], "use_cases": ["用真实聊天记录生成前任的数字人格并继续对话", "结合 MBTI、依恋类型等标签定制人格行为", "增量补充聊天记录逐步修正人格表现"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://titanwings.github.io/colleague-skill-site", "self_declared_early": {"flag": true, "lines": [41, 241]}}, "links": {"scenario_tags": ["数字人格", "agent技能", "聊天记录蒸馏", "情感陪伴"], "domain": "AI 情感陪伴/Agent 技能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["微信数据源支持", "多语言 README 含中文", "社区画廊收录中文人物 skill（户晨风/罗翔等）"]}, "trust": {"confidence": "mid", "evidence": ["L22: Generate a **digital persona Skill that truly feels like them**", "L102: Once created, use `/{slug}` to talk to them."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "titanwings/ex-skill",
+ "sha": "db903180d679",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用聊天记录生成前任数字人格 Skill，可对话的复刻",
+  "review": "面向 AgentSkills 生态的人格生成技能：读取微信/iMessage 聊天记录（Windows/macOS 自动解密提取）或截图、粘贴文本，结合性别、MBTI、依恋类型、星座等描述，生成 6 层人格结构的数字前任 Skill，之后可用 /{slug} 与其对话。技能安装到 OpenClaw、Claude Code、DeepSeek Harness 后运行，支持增量导入消息、对话式纠错、版本回滚与多前任独立存储。README 自述仍为 beta/demo 阶段，自动解密可能存在 bug。",
+  "highlights": [
+   "微信/iMessage 聊天记录自动解密提取（SQLite）",
+   "6 层人格结构（核心规则/身份/表达/情绪/冲突边界/触发器）",
+   "增量更新、纠错层写入、版本归档与回滚",
+   "兼容 OpenClaw / Claude Code / DeepSeek Harness 的 SKILL.md 标准"
+  ],
+  "use_cases": [
+   "用真实聊天记录生成前任的数字人格并继续对话",
+   "结合 MBTI、依恋类型等标签定制人格行为",
+   "增量补充聊天记录逐步修正人格表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://titanwings.github.io/colleague-skill-site",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    41,
+    241
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数字人格",
+   "agent技能",
+   "聊天记录蒸馏",
+   "情感陪伴"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "微信数据源支持",
+   "多语言 README 含中文",
+   "社区画廊收录中文人物 skill（户晨风/罗翔等）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L22: Generate a **digital persona Skill that truly feels like them**",
+   "L102: Once created, use `/{slug}` to talk to them."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

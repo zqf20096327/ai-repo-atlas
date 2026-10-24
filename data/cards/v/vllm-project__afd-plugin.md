@@ -33,7 +33,7 @@ vLLM 官方生态的外部插件，实现 Attention-FFN Disaggregation（AFD）�
 
 ## 场景标签
 
- · 领域:LLM 推理基础设施
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

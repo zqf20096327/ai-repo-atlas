@@ -33,7 +33,7 @@ O'Reilly Live Online Training《Optimizing LLMs with Fine-Tuning and Prompt Engi
 
 ## 场景标签
 
- · 领域:AI 教育/LLM 训练
+`教程课程` `微调` `强化学习` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

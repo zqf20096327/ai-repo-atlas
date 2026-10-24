@@ -1,1 +1,83 @@
-{"fn": "vmDeshpande/ai-agent-automation", "sha": "3162c6025ffd", "source": "readme", "identity": {"one_liner": "自托管 AI agent 工作流自动化平台：构建、运行与审计", "review": "本地优先（local-first）的自托管工作流引擎，用于构建与运行 AI 驱动的自动化流程。提供可视化工作流构建器（LLM、HTTP、邮件、浏览器、审批、并行等多种节点）、agent 配置与多 agent 团队、文档 RAG 与语义记忆、MCP 与 A2A 集成、定时调度器，以及任务级执行可观测性（步骤输入输出、日志、回放）。面向希望运行可检查自动化而非黑盒聊天机器人的开发者。通过 Docker Compose 一键部署（含 MongoDB 副本集、后端、Worker、前端），或本地以 npm 分服务运行；需配置至少一个 LLM provider API key 或本地 Ollama 实例。", "highlights": ["可视化工作流构建器，含 LLM/HTTP/浏览器/审批/并行/agent 调用等节点", "任务级可观测性：步骤输入输出、日志、状态与回放控制", "文档 RAG、语义记忆、多 agent 团队与 A2A webhook 支持", "工作流可暴露为带 API-key 认证的公开端点"], "use_cases": ["在自己基础设施上构建并运行 AI 自动化工作流", "对工作流执行过程逐步检查、排错与回放", "上传文档并基于来源引用进行对话问答", "通过 cron 调度与 Webhook API 触发自动化任务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["工作流自动化", "AI Agent 平台", "自托管", "RAG", "可观测性"], "domain": "LLM 基础设施/工作流自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "groq"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L38: AI Agent Automation is a self-hosted workflow engine for building and operating AI-driven automations. It combines a vis", "L40: It is built for developers who want inspectable automation instead of a black-box chatbot or hosted SaaS dependency."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vmDeshpande/ai-agent-automation",
+ "sha": "3162c6025ffd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI agent 工作流自动化平台：构建、运行与审计",
+  "review": "本地优先（local-first）的自托管工作流引擎，用于构建与运行 AI 驱动的自动化流程。提供可视化工作流构建器（LLM、HTTP、邮件、浏览器、审批、并行等多种节点）、agent 配置与多 agent 团队、文档 RAG 与语义记忆、MCP 与 A2A 集成、定时调度器，以及任务级执行可观测性（步骤输入输出、日志、回放）。面向希望运行可检查自动化而非黑盒聊天机器人的开发者。通过 Docker Compose 一键部署（含 MongoDB 副本集、后端、Worker、前端），或本地以 npm 分服务运行；需配置至少一个 LLM provider API key 或本地 Ollama 实例。",
+  "highlights": [
+   "可视化工作流构建器，含 LLM/HTTP/浏览器/审批/并行/agent 调用等节点",
+   "任务级可观测性：步骤输入输出、日志、状态与回放控制",
+   "文档 RAG、语义记忆、多 agent 团队与 A2A webhook 支持",
+   "工作流可暴露为带 API-key 认证的公开端点"
+  ],
+  "use_cases": [
+   "在自己基础设施上构建并运行 AI 自动化工作流",
+   "对工作流执行过程逐步检查、排错与回放",
+   "上传文档并基于来源引用进行对话问答",
+   "通过 cron 调度与 Webhook API 触发自动化任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作流自动化",
+   "AI Agent 平台",
+   "自托管",
+   "RAG",
+   "可观测性"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "multi-agent",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L38: AI Agent Automation is a self-hosted workflow engine for building and operating AI-driven automations. It combines a vis",
+   "L40: It is built for developers who want inspectable automation instead of a black-box chatbot or hosted SaaS dependency."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

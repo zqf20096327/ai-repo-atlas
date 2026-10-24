@@ -33,7 +33,7 @@ PearAI 主仓库，汇总构成整个项目的各子仓库：pearai-app（VSCode
 
 ## 场景标签
 
- · 领域:开发工具/AI 代码编辑器
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

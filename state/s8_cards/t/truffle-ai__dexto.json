@@ -1,1 +1,93 @@
-{"fn": "truffle-ai/dexto", "sha": "42a82da1ff10", "source": "readme", "identity": {"one_liner": "开源 AI agent 编排框架：把 LLM 变成可运行的有状态 agent", "review": "TypeScript 编写的 agent harness，定位为 LLM 之上的编排层：通过 YAML 配置定义 agent，提供会话管理、工具编排、持久记忆、多模态与可观测性。内置可即用的 coding agent，支持 50+ LLM（OpenAI/Anthropic/Google/Groq/xAI 等）及本地 Ollama、GGUF（node-llama-cpp，自动 GPU 检测 Metal/CUDA/Vulkan）。集成 30+ MCP 工具，支持子 agent 生成、人机审批控制。运行形态覆盖 CLI、Web UI、REST/SSE 服务器与 MCP 服务器，并提供 npm SDK（@dexto/core）。收集匿名遥测数据。", "highlights": ["YAML 配置驱动定义 agent，免改代码切换模型与工具", "支持 50+ LLM，含本地 Ollama 与 GGUF（自动 GPU 检测）", "内置 coding agent 与 30+ MCP 工具集成，含 MCP Store", "可作为 MCP 服务器供 Claude Code、Cursor 调用", "npm SDK @dexto/core 支持编程式构建 agent"], "use_cases": ["构建和运行自主编码、重构代码的 coding agent", "通过 MCP 协议把 agent 接入 Cursor、Claude Code 等编辑器", "搭建多 agent 协作系统（explore-agent、triage-agent 等）", "以本地模型运行 agent 处理隐私数据"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://dexto.ai", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent框架", "MCP", "coding agent", "多agent系统", "LLM编排"], "domain": "AI agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "groq", "xai", "cohere", "ollama", "llama.cpp", "openrouter", "bedrock"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["README 提供中文在内的多语言版本"]}, "trust": {"confidence": "high", "evidence": ["L23: Dexto is an **agent harness**—the orchestration layer that turns LLMs into reliable, stateful agents that can take actio", "L36: - **Configuration-driven**: Define agents in YAML. Swap models and tools without touching code.", "L50: Dexto ships with a **production-ready coding agent** you can use immediately via the CLI or Web UI."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "truffle-ai/dexto",
+ "sha": "42a82da1ff10",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI agent 编排框架：把 LLM 变成可运行的有状态 agent",
+  "review": "TypeScript 编写的 agent harness，定位为 LLM 之上的编排层：通过 YAML 配置定义 agent，提供会话管理、工具编排、持久记忆、多模态与可观测性。内置可即用的 coding agent，支持 50+ LLM（OpenAI/Anthropic/Google/Groq/xAI 等）及本地 Ollama、GGUF（node-llama-cpp，自动 GPU 检测 Metal/CUDA/Vulkan）。集成 30+ MCP 工具，支持子 agent 生成、人机审批控制。运行形态覆盖 CLI、Web UI、REST/SSE 服务器与 MCP 服务器，并提供 npm SDK（@dexto/core）。收集匿名遥测数据。",
+  "highlights": [
+   "YAML 配置驱动定义 agent，免改代码切换模型与工具",
+   "支持 50+ LLM，含本地 Ollama 与 GGUF（自动 GPU 检测）",
+   "内置 coding agent 与 30+ MCP 工具集成，含 MCP Store",
+   "可作为 MCP 服务器供 Claude Code、Cursor 调用",
+   "npm SDK @dexto/core 支持编程式构建 agent"
+  ],
+  "use_cases": [
+   "构建和运行自主编码、重构代码的 coding agent",
+   "通过 MCP 协议把 agent 接入 Cursor、Claude Code 等编辑器",
+   "搭建多 agent 协作系统（explore-agent、triage-agent 等）",
+   "以本地模型运行 agent 处理隐私数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://dexto.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "MCP",
+   "coding agent",
+   "多agent系统",
+   "LLM编排"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "groq",
+   "xai",
+   "cohere",
+   "ollama",
+   "llama.cpp",
+   "openrouter",
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "coding-agent",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文在内的多语言版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: Dexto is an **agent harness**—the orchestration layer that turns LLMs into reliable, stateful agents that can take actio",
+   "L36: - **Configuration-driven**: Define agents in YAML. Swap models and tools without touching code.",
+   "L50: Dexto ships with a **production-ready coding agent** you can use immediately via the CLI or Web UI."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

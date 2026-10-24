@@ -1,1 +1,79 @@
-{"fn": "travisjneuman/.claude", "sha": "00d59c2c2bf8", "source": "readme", "identity": {"one_liner": "Claude Code 的即插式配置工具包：180 技能+10 agents+81 市场", "review": "放入 ~/.claude 目录即可生效的 Claude Code 配置层：包含 180 个领域技能（Web/DevOps/安全/商业/合规等）、10 个专家子代理、29 个斜杠命令、7 个生命周期 hooks、17 个模板与 81 个社区技能市场仓库（共 11,000+ 技能）。核心机制是按需路由：每会话仅加载核心描述，其余资源通过生成的 INDEX.md 与 toolkit-router 技能按关键词检索加载，控制上下文成本。默认以 bypassPermissions 模式运行，由 guard.js 拦截危险命令，secret-scan.js 扫描凭证。面向使用 Claude Code 的开发者，git clone 即用。", "highlights": ["180 技能 / 10 agents / 29 命令 / 7 hooks / 81 市场仓库聚合", "INDEX.md + toolkit-router 按需路由，大工具包几乎不占上下文", "guard.js 拦截危险命令、secret-scan.js 凭证扫描", "跨平台支持（macOS/Linux/Windows Git Bash）， hooks 用 Node.js runner 解析路径"], "use_cases": ["给自己的 Claude Code 增加领域技能与专家代理而无需手工配置", "通过关键词检索复用 11,000+ 社区技能", "在多机上维护一致且带安全护栏的 Claude Code 工作环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Claude Code", "agent技能", "配置/工具包", "AI编程", "CLI"], "domain": "开发者工具/AI 编程配置", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L19: A drop-in configuration layer for Claude Code that transforms it from a capable AI assistant into an enterprise-grade de", "L21: **One `git clone` gives you** 180 domain skills, 10 specialist agents, 81 community marketplaces with 11,000+ additional"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "travisjneuman/.claude",
+ "sha": "00d59c2c2bf8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 的即插式配置工具包：180 技能+10 agents+81 市场",
+  "review": "放入 ~/.claude 目录即可生效的 Claude Code 配置层：包含 180 个领域技能（Web/DevOps/安全/商业/合规等）、10 个专家子代理、29 个斜杠命令、7 个生命周期 hooks、17 个模板与 81 个社区技能市场仓库（共 11,000+ 技能）。核心机制是按需路由：每会话仅加载核心描述，其余资源通过生成的 INDEX.md 与 toolkit-router 技能按关键词检索加载，控制上下文成本。默认以 bypassPermissions 模式运行，由 guard.js 拦截危险命令，secret-scan.js 扫描凭证。面向使用 Claude Code 的开发者，git clone 即用。",
+  "highlights": [
+   "180 技能 / 10 agents / 29 命令 / 7 hooks / 81 市场仓库聚合",
+   "INDEX.md + toolkit-router 按需路由，大工具包几乎不占上下文",
+   "guard.js 拦截危险命令、secret-scan.js 凭证扫描",
+   "跨平台支持（macOS/Linux/Windows Git Bash）， hooks 用 Node.js runner 解析路径"
+  ],
+  "use_cases": [
+   "给自己的 Claude Code 增加领域技能与专家代理而无需手工配置",
+   "通过关键词检索复用 11,000+ 社区技能",
+   "在多机上维护一致且带安全护栏的 Claude Code 工作环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code",
+   "agent技能",
+   "配置/工具包",
+   "AI编程",
+   "CLI"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: A drop-in configuration layer for Claude Code that transforms it from a capable AI assistant into an enterprise-grade de",
+   "L21: **One `git clone` gives you** 180 domain skills, 10 specialist agents, 81 community marketplaces with 11,000+ additional"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

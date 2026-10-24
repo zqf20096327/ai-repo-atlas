@@ -1,1 +1,78 @@
-{"fn": "tuhinsharma121/ai-playground", "sha": "76ece03df21b", "source": "readme", "identity": {"one_liner": "AI 技术文章与会议演讲的可复现代码笔记本合集", "review": "作者在 Medium、O'Reilly 发表文章并在 Strata、PyCon、PyData 等会议演讲的配套代码库，以 Jupyter 笔记本形式提供。内容覆盖 RAG 变体（LlamaIndex RAG、RAPTOR、Adaptive-RAG、GraphRAG、Microsoft GraphRAG、HippoRAG、Fast GraphRAG）、嵌入模型微调、联邦学习网络威胁检测、LlamaGuard 内容审核等主题。每个笔记本对应一篇已发表文章或演讲，供读者复现和跟随学习，面向 AI 开发者与学习者。", "highlights": ["11+ 个与已发表文章一一对应的可复现笔记本", "覆盖多种 GraphRAG 变体（RAPTOR、HippoRAG、Fast GraphRAG 等）", "包含联邦学习威胁检测与 LlamaGuard 审核等应用案例"], "use_cases": ["跟随文章复现各类 RAG 流水线的实现", "对比不同 GraphRAG 方案的代码做法", "学习联邦学习用于网络威胁检测的示例"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程/示例代码", "RAG", "GraphRAG", "联邦学习"], "domain": "AI 教育/示例代码", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: You shall find the codebase for all the articles and the talks here.", "L8: |Sl No|Article|Notbeook|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tuhinsharma121/ai-playground",
+ "sha": "76ece03df21b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 技术文章与会议演讲的可复现代码笔记本合集",
+  "review": "作者在 Medium、O'Reilly 发表文章并在 Strata、PyCon、PyData 等会议演讲的配套代码库，以 Jupyter 笔记本形式提供。内容覆盖 RAG 变体（LlamaIndex RAG、RAPTOR、Adaptive-RAG、GraphRAG、Microsoft GraphRAG、HippoRAG、Fast GraphRAG）、嵌入模型微调、联邦学习网络威胁检测、LlamaGuard 内容审核等主题。每个笔记本对应一篇已发表文章或演讲，供读者复现和跟随学习，面向 AI 开发者与学习者。",
+  "highlights": [
+   "11+ 个与已发表文章一一对应的可复现笔记本",
+   "覆盖多种 GraphRAG 变体（RAPTOR、HippoRAG、Fast GraphRAG 等）",
+   "包含联邦学习威胁检测与 LlamaGuard 审核等应用案例"
+  ],
+  "use_cases": [
+   "跟随文章复现各类 RAG 流水线的实现",
+   "对比不同 GraphRAG 方案的代码做法",
+   "学习联邦学习用于网络威胁检测的示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/示例代码",
+   "RAG",
+   "GraphRAG",
+   "联邦学习"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "cybersecurity",
+   "fine-tuning",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: You shall find the codebase for all the articles and the talks here.",
+   "L8: |Sl No|Article|Notbeook|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

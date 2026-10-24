@@ -1,1 +1,74 @@
-{"fn": "vercel-labs/ai-facts", "sha": "cec3129b8271", "source": "readme", "identity": {"one_liner": "实时核验口语陈述真伪的 Next.js 应用", "review": "基于 Next.js 的网页应用，对用户麦克风采集的语音做实时事实核查：Deepgram 转录音频流，文本按标点切分出独立陈述，经 Vercel AI Gateway 路由到 OpenAI 与 Perplexity 交叉核验，实时展示每条陈述的真伪判定及解释。UI 使用 ShadcnUI 与 Tailwind CSS。需配置 AI Gateway 与 Deepgram 的 API key，支持 Vercel 一键部署；README 提示 LLM 可能给出错误或过时信息。", "highlights": ["Deepgram 实时音频转录", "OpenAI 与 Perplexity 双通道交叉核验陈述", "逐条展示真伪判定与解释，实时更新", "支持 Vercel 一键部署，部署后经 OIDC 自动鉴权"], "use_cases": ["演讲或访谈中实时核查口述内容的真实性", "语言学习或演示中即时验证事实陈述", "体验 AI SDK 与 AI Gateway 组合的事实核查流程"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["事实核查", "语音转录", "实时AI应用", "AI SDK示例"], "domain": "AI 应用/事实核查", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: This project is a Next.js application that performs real-time fact checking on spoken statements. It uses Deepgram for a", "L11: - Real-time Audio Transcription: Captures and transcribes spoken audio using Deepgram's API"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vercel-labs/ai-facts",
+ "sha": "cec3129b8271",
+ "source": "readme",
+ "identity": {
+  "one_liner": "实时核验口语陈述真伪的 Next.js 应用",
+  "review": "基于 Next.js 的网页应用，对用户麦克风采集的语音做实时事实核查：Deepgram 转录音频流，文本按标点切分出独立陈述，经 Vercel AI Gateway 路由到 OpenAI 与 Perplexity 交叉核验，实时展示每条陈述的真伪判定及解释。UI 使用 ShadcnUI 与 Tailwind CSS。需配置 AI Gateway 与 Deepgram 的 API key，支持 Vercel 一键部署；README 提示 LLM 可能给出错误或过时信息。",
+  "highlights": [
+   "Deepgram 实时音频转录",
+   "OpenAI 与 Perplexity 双通道交叉核验陈述",
+   "逐条展示真伪判定与解释，实时更新",
+   "支持 Vercel 一键部署，部署后经 OIDC 自动鉴权"
+  ],
+  "use_cases": [
+   "演讲或访谈中实时核查口述内容的真实性",
+   "语言学习或演示中即时验证事实陈述",
+   "体验 AI SDK 与 AI Gateway 组合的事实核查流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "事实核查",
+   "语音转录",
+   "实时AI应用",
+   "AI SDK示例"
+  ],
+  "domain": "AI 应用/事实核查",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This project is a Next.js application that performs real-time fact checking on spoken statements. It uses Deepgram for a",
+   "L11: - Real-time Audio Transcription: Captures and transcribes spoken audio using Deepgram's API"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,77 @@
-{"fn": "tracebit-com/context-bombs", "sha": "6d4f0052ff9a", "source": "readme", "identity": {"one_liner": "可触发攻击方 AI 安全护栏的诱饵字符串集合，用于检测与阻断恶意 agent", "review": "Tracebit 发布的 context bomb 字符串资源库：将此类字符串部署为环境中的 canary 资源（如 AWS secret），当攻击性 AI agent 读取到这些内容时，既触发告警（检测），又借助模型自身安全护栏中止其行为（阻断）。README 说明字符串效果随模型提供方而异，并列出对七个前沿模型及一个去护栏（abliterated）模型在真实 AWS 环境红队测试中的结果。属于 AI 安防研究资源，未提供安装运行流程，完整研究见其官网链接。", "highlights": ["字符串兼具 canary 检测（告警）与护栏触发（阻断）两种作用", "已在五个前沿模型 + AWS 真实环境红队测试中验证", "覆盖测试去护栏（abliterated）模型的效果差异", "效果随模型提供方不同而变化（西方模型 vs 中国提供方模型）"], "use_cases": ["在环境中部署 canary 资源检测侦察我方基础设施的攻击性 AI agent", "利用攻击方模型自身的安全护栏作为阻断开关", "评估不同模型与去护栏模型对诱饵字符串的敏感性"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI安全", "红队/攻防", "canary/蜜罐", "prompt-injection防御"], "domain": "AI 安全/威胁检测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: context_bomb", "L5: ### Strings that can stop AI attackers by tripping their safety guardrails.", "L6: When used as the content of canary resources in your environment, context bombs can both detect (raising an alert) and s"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tracebit-com/context-bombs",
+ "sha": "6d4f0052ff9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可触发攻击方 AI 安全护栏的诱饵字符串集合，用于检测与阻断恶意 agent",
+  "review": "Tracebit 发布的 context bomb 字符串资源库：将此类字符串部署为环境中的 canary 资源（如 AWS secret），当攻击性 AI agent 读取到这些内容时，既触发告警（检测），又借助模型自身安全护栏中止其行为（阻断）。README 说明字符串效果随模型提供方而异，并列出对七个前沿模型及一个去护栏（abliterated）模型在真实 AWS 环境红队测试中的结果。属于 AI 安防研究资源，未提供安装运行流程，完整研究见其官网链接。",
+  "highlights": [
+   "字符串兼具 canary 检测（告警）与护栏触发（阻断）两种作用",
+   "已在五个前沿模型 + AWS 真实环境红队测试中验证",
+   "覆盖测试去护栏（abliterated）模型的效果差异",
+   "效果随模型提供方不同而变化（西方模型 vs 中国提供方模型）"
+  ],
+  "use_cases": [
+   "在环境中部署 canary 资源检测侦察我方基础设施的攻击性 AI agent",
+   "利用攻击方模型自身的安全护栏作为阻断开关",
+   "评估不同模型与去护栏模型对诱饵字符串的敏感性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI安全",
+   "红队/攻防",
+   "canary/蜜罐",
+   "prompt-injection防御"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: context_bomb",
+   "L5: ### Strings that can stop AI attackers by tripping their safety guardrails.",
+   "L6: When used as the content of canary resources in your environment, context bombs can both detect (raising an alert) and s"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

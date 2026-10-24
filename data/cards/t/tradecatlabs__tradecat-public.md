@@ -33,7 +33,7 @@ TradeCat Public 是供 Agent/Hermes 使用的自主纸面交易运行时：从�
 
 ## 场景标签
 
- · 领域:加密货币/Agent 交易基础设施
+`金融量化` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

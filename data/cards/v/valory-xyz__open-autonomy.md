@@ -33,7 +33,7 @@ Open Autonomy 是用于创建链下自主 AI agent 的框架：agent 以多智�
 
 ## 场景标签
 
- · 领域:区块链/多智能体系统
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

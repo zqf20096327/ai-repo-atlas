@@ -1,1 +1,83 @@
-{"fn": "vllm-project/vime", "sha": "5b07bfd3a58c", "source": "readme", "identity": {"one_liner": "面向 RL scaling 的 LLM 后训练框架，基于 slime + vLLM", "review": "由 vLLM 社区维护的 LLM 后训练框架，从 slime 衍生：保留其训练栈与数据生成设计，以 vLLM（含 vllm-router）作为默认 rollout 后端，将 Megatron 训练与 vLLM 推理连接。训练、rollout、数据缓冲与环境反馈共享同一数据流，支持数学、代码、搜索、工具调用与长程 agent 工作流在同一训练循环内完成。提供 PD 分离、外部 rollout 引擎、增量权重同步等部署选项；模型支持 Qwen 系列、DeepSeek V3 系列与 Llama 3。", "highlights": ["Megatron 训练与 vLLM rollout 引擎的连接，含 vllm-router 请求路由", "训练/rollout/数据缓冲/环境反馈共享单一数据流", "支持多智能体、全异步 rollout、coding-agent RL 等示例与自定义生成接口", "支持 PD 分离、多模型服务、增量权重同步与外部 rollout 引擎"], "use_cases": ["对 Qwen/DeepSeek/Llama 模型做 RL 后训练", "构建含工具调用与环境交互的 agentic RL 训练流程", "用 vLLM 生态做大规模 rollout 的 RL scaling 实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RLHF/后训练", "LLM训练框架", "vLLM生态", "Agent训练", "分布式训练"], "domain": "LLM 后训练/强化学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm", "deepseek"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["提供中文文档 docs/zh/", "微信群讨论渠道"]}, "trust": {"confidence": "high", "evidence": ["L8: **Vime** is an LLM post-training framework for RL scaling, built on slime. It keeps slime's training stack and data-gene", "L143: Vime builds on ideas and infrastructure from the open-source RL ecosystem. We especially thank the slime community, whos"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vllm-project/vime",
+ "sha": "5b07bfd3a58c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 RL scaling 的 LLM 后训练框架，基于 slime + vLLM",
+  "review": "由 vLLM 社区维护的 LLM 后训练框架，从 slime 衍生：保留其训练栈与数据生成设计，以 vLLM（含 vllm-router）作为默认 rollout 后端，将 Megatron 训练与 vLLM 推理连接。训练、rollout、数据缓冲与环境反馈共享同一数据流，支持数学、代码、搜索、工具调用与长程 agent 工作流在同一训练循环内完成。提供 PD 分离、外部 rollout 引擎、增量权重同步等部署选项；模型支持 Qwen 系列、DeepSeek V3 系列与 Llama 3。",
+  "highlights": [
+   "Megatron 训练与 vLLM rollout 引擎的连接，含 vllm-router 请求路由",
+   "训练/rollout/数据缓冲/环境反馈共享单一数据流",
+   "支持多智能体、全异步 rollout、coding-agent RL 等示例与自定义生成接口",
+   "支持 PD 分离、多模型服务、增量权重同步与外部 rollout 引擎"
+  ],
+  "use_cases": [
+   "对 Qwen/DeepSeek/Llama 模型做 RL 后训练",
+   "构建含工具调用与环境交互的 agentic RL 训练流程",
+   "用 vLLM 生态做大规模 rollout 的 RL scaling 实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RLHF/后训练",
+   "LLM训练框架",
+   "vLLM生态",
+   "Agent训练",
+   "分布式训练"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文文档 docs/zh/",
+   "微信群讨论渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **Vime** is an LLM post-training framework for RL scaling, built on slime. It keeps slime's training stack and data-gene",
+   "L143: Vime builds on ideas and infrastructure from the open-source RL ecosystem. We especially thank the slime community, whos"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

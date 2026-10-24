@@ -32,7 +32,7 @@ Ultralytics 维护的研究代码库，结合机器学习与 Structure-from-Moti
 
 ## 场景标签
 
- · 领域:计算机视觉/交通
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

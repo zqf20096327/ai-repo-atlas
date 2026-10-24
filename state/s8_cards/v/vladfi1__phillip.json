@@ -1,1 +1,76 @@
-{"fn": "vladfi1/phillip", "sha": "18958c5bd461", "source": "readme", "identity": {"one_liner": "基于深度强化学习的 SSBM（任天堂明星大乱斗DX）游戏 AI 玩家", "review": "Phillip 是用深度强化训练的 SSBM 对战 AI，通过本地回环接口与 dolphin 模拟器通信，在游戏内对战人类或自身。提供已训练 agent（FalconFalconBF、delay0 系列、delay18/FalcoBF 等），支持带 GUI 对战、并行训练（slurm 集群或本地）、TensorBoard 查看训练统计。训练需配合使用 zmq 同步的定制版 dolphin，Windows 不支持训练。README 声明项目已不再活跃，后继项目为 slippi-ai。", "highlights": ["深度强化学习训练的 SSBM 对战 agent，附多个预训练模型", "通过 TCP 回环接口与 dolphin 模拟器交互运行", "支持 slurm 集群大规模并行训练与本地训练", "TensorBoard 查看训练统计"], "use_cases": ["在 dolphin 模拟器中与已训练 AI 对战 SSBM", "自行训练新的 SSBM 对战 agent", "观看或复现 RL 训练流程与结果"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["游戏AI", "强化学习", "SSBM", "模拟器"], "domain": "游戏/强化学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L2: An SSBM player based on Deep Reinforcement Learning.", "L20:  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /path/to/SSBM."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vladfi1/phillip",
+ "sha": "18958c5bd461",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于深度强化学习的 SSBM（任天堂明星大乱斗DX）游戏 AI 玩家",
+  "review": "Phillip 是用深度强化训练的 SSBM 对战 AI，通过本地回环接口与 dolphin 模拟器通信，在游戏内对战人类或自身。提供已训练 agent（FalconFalconBF、delay0 系列、delay18/FalcoBF 等），支持带 GUI 对战、并行训练（slurm 集群或本地）、TensorBoard 查看训练统计。训练需配合使用 zmq 同步的定制版 dolphin，Windows 不支持训练。README 声明项目已不再活跃，后继项目为 slippi-ai。",
+  "highlights": [
+   "深度强化学习训练的 SSBM 对战 agent，附多个预训练模型",
+   "通过 TCP 回环接口与 dolphin 模拟器交互运行",
+   "支持 slurm 集群大规模并行训练与本地训练",
+   "TensorBoard 查看训练统计"
+  ],
+  "use_cases": [
+   "在 dolphin 模拟器中与已训练 AI 对战 SSBM",
+   "自行训练新的 SSBM 对战 agent",
+   "观看或复现 RL 训练流程与结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏AI",
+   "强化学习",
+   "SSBM",
+   "模拟器"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: An SSBM player based on Deep Reinforcement Learning.",
+   "L20:  python3 phillip/run.py --gui --human --start 0 --reload 0 --epsilon 0 --load agents/FalconFalconBF --iso /path/to/SSBM."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -32,7 +32,7 @@ Towards AI 的 'From Beginner to LLM Developer' 课程仓库，内容为一组 J
 
 ## 场景标签
 
- · 领域:AI 教育/知识聚合
+`教程课程` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 

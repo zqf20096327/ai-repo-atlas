@@ -1,1 +1,75 @@
-{"fn": "tryAGI/Tiktoken", "sha": "0cae7df8a48b", "source": "readme", "identity": {"one_liner": ".NET 高性能 BPE 分词器库，供开发者集成模型 tokenization", "review": "C#/.NET 实现的 BPE 分词器库，以 NuGet 包提供。支持 o200k_base/o200k_harmony/cl100k_base/r50k_base/p50k_base/p50k_edit 编码，可加载 HuggingFace tokenizer.json 格式（兼容 GPT-2、Llama 3、Qwen2、DeepSeek 等），支持 OpenAI 聊天格式的消息 token 计数（含函数/工具定义）、自定义 .tiktoken/.ttkb 编码文件。特性包括零分配计数、多语言缓存（CJK 文本 5-13x 加速）、O(n log n) min-heap BPE 合并；兼容性测试基于官方 tiktoken 0.14.0。另附 NativeAOT 编译的 ttok CLI 工具，brew 安装。", "highlights": ["实现 6 种编码，可按模型名自动选择（如 GPT-4o、gpt-oss、gpt-5）", "支持加载 HuggingFace tokenizer.json，覆盖 GPT-2/Llama 3/Qwen2/DeepSeek 等", "零分配 token 计数，内置多语言缓存，CJK 文本缓存加速 5-13x", "OpenAI 官方公式的消息 token 计数，支持嵌套函数/工具参数定义"], "use_cases": ["在 .NET 应用中为 LLM 调用计算 token 数以控制成本", "加载 HuggingFace 格式 tokenizer.json 对接开源模型", "通过 ttok CLI 在命令行中计数与探索 token"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["分词器", "LLM基础设施", ".NET/C#", "token计数", "开发库"], "domain": "LLM 基础设施/分词器", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L25: var encoder = TikTokenEncoder.CreateForModel(Models.Gpt4o);", "L31: The `Tiktoken.Encodings.Tokenizer` package enables loading any HuggingFace-format `tokenizer.json` file — supporting GPT"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tryAGI/Tiktoken",
+ "sha": "0cae7df8a48b",
+ "source": "readme",
+ "identity": {
+  "one_liner": ".NET 高性能 BPE 分词器库，供开发者集成模型 tokenization",
+  "review": "C#/.NET 实现的 BPE 分词器库，以 NuGet 包提供。支持 o200k_base/o200k_harmony/cl100k_base/r50k_base/p50k_base/p50k_edit 编码，可加载 HuggingFace tokenizer.json 格式（兼容 GPT-2、Llama 3、Qwen2、DeepSeek 等），支持 OpenAI 聊天格式的消息 token 计数（含函数/工具定义）、自定义 .tiktoken/.ttkb 编码文件。特性包括零分配计数、多语言缓存（CJK 文本 5-13x 加速）、O(n log n) min-heap BPE 合并；兼容性测试基于官方 tiktoken 0.14.0。另附 NativeAOT 编译的 ttok CLI 工具，brew 安装。",
+  "highlights": [
+   "实现 6 种编码，可按模型名自动选择（如 GPT-4o、gpt-oss、gpt-5）",
+   "支持加载 HuggingFace tokenizer.json，覆盖 GPT-2/Llama 3/Qwen2/DeepSeek 等",
+   "零分配 token 计数，内置多语言缓存，CJK 文本缓存加速 5-13x",
+   "OpenAI 官方公式的消息 token 计数，支持嵌套函数/工具参数定义"
+  ],
+  "use_cases": [
+   "在 .NET 应用中为 LLM 调用计算 token 数以控制成本",
+   "加载 HuggingFace 格式 tokenizer.json 对接开源模型",
+   "通过 ttok CLI 在命令行中计数与探索 token"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分词器",
+   "LLM基础设施",
+   ".NET/C#",
+   "token计数",
+   "开发库"
+  ],
+  "domain": "LLM 基础设施/分词器",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: var encoder = TikTokenEncoder.CreateForModel(Models.Gpt4o);",
+   "L31: The `Tiktoken.Encodings.Tokenizer` package enables loading any HuggingFace-format `tokenizer.json` file — supporting GPT"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

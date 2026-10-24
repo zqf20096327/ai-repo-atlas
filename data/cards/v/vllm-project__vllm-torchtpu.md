@@ -33,7 +33,7 @@ vLLM 的 out-of-tree 平台插件，打包为 vllm-torchtpu，通过 TorchTPU（
 
 ## 场景标签
 
- · 领域:LLM 推理基础设施
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

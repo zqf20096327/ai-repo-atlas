@@ -1,1 +1,85 @@
-{"fn": "vinhnx/VT.ai", "sha": "e80f98045255", "source": "readme", "identity": {"one_liner": "多模态 AI 聊天应用：语义路由自动选模型，支持多家提供商", "review": "开源多模态 AI 聊天应用，面向终端用户，基于 Chainlit 构建。核心机制是基于向量的语义路由（FastEmbed 嵌入），按查询意图自动选择模型，无需手动切换。支持 OpenAI、Anthropic、Gemini、DeepSeek、Cohere、Ollama/llmman 本地模型等多提供商。能力覆盖文本聊天、图像生成（DALL-E 3/GPT-Image-1）、视觉分析、语音交互、Tavily 网络搜索与 `<think>` 推理可视化。安装途径含原生安装脚本、pip 与源码，API key 本地存储、默认无遥测。", "highlights": ["FastEmbed 向量语义路由自动选择模型", "多提供商统一接入：OpenAI/Anthropic/Gemini/DeepSeek/Ollama 等", "多模态：图像生成、视觉分析、语音交互、网络搜索", "API key 本地存储，默认无遥测与数据收集"], "use_cases": ["用一个界面与多家 LLM 提供商对话", "让应用按问题类型自动路由到合适模型", "在聊天中生成图像、分析上传图片、联网检索"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["聊天应用", "多模态", "模型路由", "本地模型", "桌面/自托管"], "domain": "LLM 应用/聊天助手", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "ollama", "cohere", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: VT.ai is an open-source multimodal AI chat application with dynamic conversation routing. Supports multiple LLM provider", "L81: VT.ai uses vector-based semantic routing to automatically direct queries to the most appropriate model:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vinhnx/VT.ai",
+ "sha": "e80f98045255",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多模态 AI 聊天应用：语义路由自动选模型，支持多家提供商",
+  "review": "开源多模态 AI 聊天应用，面向终端用户，基于 Chainlit 构建。核心机制是基于向量的语义路由（FastEmbed 嵌入），按查询意图自动选择模型，无需手动切换。支持 OpenAI、Anthropic、Gemini、DeepSeek、Cohere、Ollama/llmman 本地模型等多提供商。能力覆盖文本聊天、图像生成（DALL-E 3/GPT-Image-1）、视觉分析、语音交互、Tavily 网络搜索与 `<think>` 推理可视化。安装途径含原生安装脚本、pip 与源码，API key 本地存储、默认无遥测。",
+  "highlights": [
+   "FastEmbed 向量语义路由自动选择模型",
+   "多提供商统一接入：OpenAI/Anthropic/Gemini/DeepSeek/Ollama 等",
+   "多模态：图像生成、视觉分析、语音交互、网络搜索",
+   "API key 本地存储，默认无遥测与数据收集"
+  ],
+  "use_cases": [
+   "用一个界面与多家 LLM 提供商对话",
+   "让应用按问题类型自动路由到合适模型",
+   "在聊天中生成图像、分析上传图片、联网检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天应用",
+   "多模态",
+   "模型路由",
+   "本地模型",
+   "桌面/自托管"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama",
+   "cohere",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "ai-assistant",
+   "image-generation",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: VT.ai is an open-source multimodal AI chat application with dynamic conversation routing. Supports multiple LLM provider",
+   "L81: VT.ai uses vector-based semantic routing to automatically direct queries to the most appropriate model:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

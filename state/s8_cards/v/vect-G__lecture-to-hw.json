@@ -1,1 +1,78 @@
-{"fn": "vect-G/lecture-to-hw", "sha": "510cf8e1c1de", "source": "readme", "identity": {"one_liner": "把课件与作业题自动转成 Markdown 作业答案的 Codex skill", "review": "面向大学生的 OpenAI Codex 技能（SKILL.md 形式）：在课程目录中自动定位题面（PDF/DOCX/Markdown/HTML/图片/notebook）、课件与历史作业，按主 agent 调度、最多 4 个并行子代理的流水线完成解题、代码复现与 Markdown 组装，另有助教 review agent 检查漏题、公式与 AI 味。可读取历史作业学习格式习惯，交付时报告生成文件、验证情况与可信度（高/中/低）。安装方式为 git clone 到 ~/.codex/skills 目录，由 Codex 会话自动发现。", "highlights": ["从课件、课堂代码与历史作业中定位方法并复现实验结果", "多 agent 并行流水线（默认最多 4 个子代理）+ 助教 review agent", "支持 PDF/DOCX/Markdown/HTML/notebook/图片/压缩包等多种题面格式", "读取历史作业学习格式习惯，交付时给出可信度评级与复核建议"], "use_cases": ["我想把整套课程作业流程交给 agent，最终拿到可提交的 Markdown 文档", "希望答案使用课件里讲过的方法和记号，接近自己的历史作业风格", "作业完成后让助教 agent 检查漏题和明显错误再提交"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Codex skill", "多agent工作流", "作业自动化", "学生工具"], "domain": "教育/作业自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向国内大学作业场景的表述"]}, "trust": {"confidence": "high", "evidence": ["L4:  Codex Skill", "L10:  从课程课件到可交付 Markdown 作业的一站式 Codex skill。", "L41: 读题 -> 找课件 -> 找课堂中讲授的方法 -> 拆解题目 -> 解题/跑代码 -> 组装 Markdown -> 助教agent执行review -> 交付"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vect-G/lecture-to-hw",
+ "sha": "510cf8e1c1de",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把课件与作业题自动转成 Markdown 作业答案的 Codex skill",
+  "review": "面向大学生的 OpenAI Codex 技能（SKILL.md 形式）：在课程目录中自动定位题面（PDF/DOCX/Markdown/HTML/图片/notebook）、课件与历史作业，按主 agent 调度、最多 4 个并行子代理的流水线完成解题、代码复现与 Markdown 组装，另有助教 review agent 检查漏题、公式与 AI 味。可读取历史作业学习格式习惯，交付时报告生成文件、验证情况与可信度（高/中/低）。安装方式为 git clone 到 ~/.codex/skills 目录，由 Codex 会话自动发现。",
+  "highlights": [
+   "从课件、课堂代码与历史作业中定位方法并复现实验结果",
+   "多 agent 并行流水线（默认最多 4 个子代理）+ 助教 review agent",
+   "支持 PDF/DOCX/Markdown/HTML/notebook/图片/压缩包等多种题面格式",
+   "读取历史作业学习格式习惯，交付时给出可信度评级与复核建议"
+  ],
+  "use_cases": [
+   "我想把整套课程作业流程交给 agent，最终拿到可提交的 Markdown 文档",
+   "希望答案使用课件里讲过的方法和记号，接近自己的历史作业风格",
+   "作业完成后让助教 agent 检查漏题和明显错误再提交"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Codex skill",
+   "多agent工作流",
+   "作业自动化",
+   "学生工具"
+  ],
+  "domain": "教育/作业自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向国内大学作业场景的表述"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4:  Codex Skill",
+   "L10:  从课程课件到可交付 Markdown 作业的一站式 Codex skill。",
+   "L41: 读题 -> 找课件 -> 找课堂中讲授的方法 -> 拆解题目 -> 解题/跑代码 -> 组装 Markdown -> 助教agent执行review -> 交付"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

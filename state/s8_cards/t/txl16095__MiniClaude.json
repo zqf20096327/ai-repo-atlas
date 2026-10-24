@@ -1,1 +1,84 @@
-{"fn": "txl16095/MiniClaude", "sha": "96ec87695d2f", "source": "readme", "identity": {"one_liner": "删除云服务的本地化 Claude Code 精简版编程助手", "review": "由 Claude Code 删除约 92,000 行云服务/遥测/协作代码改造而来的 CLI 编程助手，保留 AI 对话、代码生成、文件操作、Git、LSP、MCP、插件与技能系统。支持多 Provider 热切换（如 DeepSeek，经 Anthropic 兼容接口配置），兼容 Claude Code 的 settings.json 配置体系。需 Bun>=1.3.11 与 Git，git clone 后 bun install/build 运行，MIT 许可。", "highlights": ["删除 92,000 行云服务/遥测/协作代码，保留核心开发功能", "多 Provider 热切换（/provider 命令，切换无需重启）", "支持 MCP、插件、技能系统与 hard_deny 安全规则", "完全兼容 Claude Code 配置体系（settings.json / .env）"], "use_cases": ["本地无遥测环境下使用 AI 编程助手写代码", "按需在多个模型 Provider 间切换做开发", "需要 MCP/插件扩展能力的 CLI 编程工作流"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编程助手", "CLI工具", "本地运行", "多Provider"], "domain": "开发工具/AI 编程助手", "alternative_to": ["Claude Code"], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文/英文双语 README，中文为默认"]}, "trust": {"confidence": "high", "evidence": ["L10: ### 轻量级本地 AI 编程助手", "L24: 原版 **Claude Code** 删除了 **92,000 行**云服务/遥测/协作代码后得到 MiniClaude。", "L101: |AI 能力|智能对话 · 代码生成 · 项目理解 · 多模型 · 多 Provider 热切换|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "txl16095/MiniClaude",
+ "sha": "96ec87695d2f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "删除云服务的本地化 Claude Code 精简版编程助手",
+  "review": "由 Claude Code 删除约 92,000 行云服务/遥测/协作代码改造而来的 CLI 编程助手，保留 AI 对话、代码生成、文件操作、Git、LSP、MCP、插件与技能系统。支持多 Provider 热切换（如 DeepSeek，经 Anthropic 兼容接口配置），兼容 Claude Code 的 settings.json 配置体系。需 Bun>=1.3.11 与 Git，git clone 后 bun install/build 运行，MIT 许可。",
+  "highlights": [
+   "删除 92,000 行云服务/遥测/协作代码，保留核心开发功能",
+   "多 Provider 热切换（/provider 命令，切换无需重启）",
+   "支持 MCP、插件、技能系统与 hard_deny 安全规则",
+   "完全兼容 Claude Code 配置体系（settings.json / .env）"
+  ],
+  "use_cases": [
+   "本地无遥测环境下使用 AI 编程助手写代码",
+   "按需在多个模型 Provider 间切换做开发",
+   "需要 MCP/插件扩展能力的 CLI 编程工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程助手",
+   "CLI工具",
+   "本地运行",
+   "多Provider"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [
+   "Claude Code"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文/英文双语 README，中文为默认"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: ### 轻量级本地 AI 编程助手",
+   "L24: 原版 **Claude Code** 删除了 **92,000 行**云服务/遥测/协作代码后得到 MiniClaude。",
+   "L101: |AI 能力|智能对话 · 代码生成 · 项目理解 · 多模型 · 多 Provider 热切换|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

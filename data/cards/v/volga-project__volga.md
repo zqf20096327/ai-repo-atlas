@@ -33,7 +33,7 @@ Rust 编写的 split-path 数据流引擎，基于 Apache Arrow 与 DataFusion�
 
 ## 场景标签
 
- · 领域:数据基础设施/流处理
+`数据分析` `MLOps` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

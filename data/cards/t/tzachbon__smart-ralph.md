@@ -33,7 +33,7 @@ Claude Code 与 OpenAI Codex 的插件，将特性请求转换为 research、req
 
 ## 场景标签
 
- · 领域:开发工具/AI 编码代理
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

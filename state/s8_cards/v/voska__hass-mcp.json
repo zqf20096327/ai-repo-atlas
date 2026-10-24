@@ -1,1 +1,78 @@
-{"fn": "voska/hass-mcp", "sha": "a3f60b349ccb", "source": "readme", "identity": {"one_liner": "让 Claude 等 LLM 控制 Home Assistant 的 MCP 服务器", "review": "面向智能家居用户的 Model Context Protocol (MCP) 服务器：通过 Home Assistant 的 REST/WebSocket API，使 Claude Desktop、Cursor、Claude Code 等 MCP 客户端能够查询设备与传感器状态、控制灯光开关、列出与操作自动化、读取错误日志与历史/统计数据，并实时编辑 Lovelace 仪表盘（带自动备份与 dry-run 预览）。提供 Docker 镜像与 uvx 两种运行方式，支持 stdio 与 streamable HTTP 传输（HTTP 模式无内置鉴权，需自行置于反向代理/VPN 之后），另附引导式对话 prompts 用于创建与排查自动化。", "highlights": ["实体查询/控制/搜索、自动化管理、HA 服务调用与重启", "通过 WebSocket API 实时编辑 Lovelace 仪表盘，保存前自动备份并支持 dry_run 预览", "支持 stdio 与 streamable HTTP 传输，可多客户端共享部署", "错误日志在服务端按 level/integration/关键词过滤以节省上下文"], "use_cases": ["用 Claude Desktop 对话式查询和控制家里的设备与传感器", "让 AI 助手排查自动化失败原因并读取 HA 错误日志", "通过对话修改 Lovelace 仪表盘卡片与视图", "查看实体的历史状态与长期统计趋势"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "智能家居", "Home Assistant", "LLM 工具接入", "家庭自动化"], "domain": "智能家居/AI 工具接入", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: A Model Context Protocol (MCP) server for Home Assistant integration with Claude and other LLMs.", "L13: Hass-MCP enables AI assistants like Claude to interact directly with your Home Assistant instance, allowing them to:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "voska/hass-mcp",
+ "sha": "a3f60b349ccb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Claude 等 LLM 控制 Home Assistant 的 MCP 服务器",
+  "review": "面向智能家居用户的 Model Context Protocol (MCP) 服务器：通过 Home Assistant 的 REST/WebSocket API，使 Claude Desktop、Cursor、Claude Code 等 MCP 客户端能够查询设备与传感器状态、控制灯光开关、列出与操作自动化、读取错误日志与历史/统计数据，并实时编辑 Lovelace 仪表盘（带自动备份与 dry-run 预览）。提供 Docker 镜像与 uvx 两种运行方式，支持 stdio 与 streamable HTTP 传输（HTTP 模式无内置鉴权，需自行置于反向代理/VPN 之后），另附引导式对话 prompts 用于创建与排查自动化。",
+  "highlights": [
+   "实体查询/控制/搜索、自动化管理、HA 服务调用与重启",
+   "通过 WebSocket API 实时编辑 Lovelace 仪表盘，保存前自动备份并支持 dry_run 预览",
+   "支持 stdio 与 streamable HTTP 传输，可多客户端共享部署",
+   "错误日志在服务端按 level/integration/关键词过滤以节省上下文"
+  ],
+  "use_cases": [
+   "用 Claude Desktop 对话式查询和控制家里的设备与传感器",
+   "让 AI 助手排查自动化失败原因并读取 HA 错误日志",
+   "通过对话修改 Lovelace 仪表盘卡片与视图",
+   "查看实体的历史状态与长期统计趋势"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "智能家居",
+   "Home Assistant",
+   "LLM 工具接入",
+   "家庭自动化"
+  ],
+  "domain": "智能家居/AI 工具接入",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A Model Context Protocol (MCP) server for Home Assistant integration with Claude and other LLMs.",
+   "L13: Hass-MCP enables AI assistants like Claude to interact directly with your Home Assistant instance, allowing them to:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

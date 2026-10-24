@@ -1,1 +1,87 @@
-{"fn": "vigorlee/eidra-agent", "sha": "ba37cf7c6722", "source": "readme", "identity": {"one_liner": "面向角色扮演、持久记忆与对抗评测的智能体 CLI 原型", "review": "单进程本地 CLI 的 v0.1 工程原型：提供可配置的 JSON persona、显式持久记忆、基于词面重叠的确定性检索（带来源标识）、三个静态对抗评测场景，以及可导出为 SFT/DPO 用的偏好数据 JSONL。通过 Chat Completions 风格 HTTP 适配器接入本地或远程模型端点（如 vLLM），默认 mock 返回固定响应用于验证流程。检索无嵌入/向量库/重排；记忆为明文 JSON，每用户上限 100 条；无 Web UI、认证与流式。运行仅需 Node.js 内置模块，无需 GPU。", "highlights": ["JSON persona（身份/风格/边界）+ 显式持久记忆（/remember、/memories、/forget）", "词面 token 重叠的确定性检索，知识记录带 id/text/source", "三个静态对抗场景（身份漂移/虚构引用/情感支持）与关键词检查", "偏好数据校验、去重与 JSONL 导出，面向 SFT/DPO 后训练", "Chat Completions 风格 HTTP 适配器可接入 vLLM 等兼容服务"], "use_cases": ["研究带持久记忆与可检索证据的角色扮演 agent 工作流", "导出经审核的偏好三元组用于 SFT/DPO 实验", "通过静态对抗场景做 agent 行为的回归调试"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [24]}}, "links": {"scenario_tags": ["agent", "角色扮演/Persona", "记忆与检索", "对抗评测", "偏好数据/DPO"], "domain": "LLM 智能体/评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 中英对照且默认 persona、提示词与评测夹具主要为中文（L62）", "数据契约以中文撰写（L182）"]}, "trust": {"confidence": "high", "evidence": ["L22: Eidra Agent explores this question through a research companion scenario. It brings configurable personas, explicit pers", "L24: The current release is a **runnable v0.1 CLI prototype**. It implements deterministic retrieval and a model endpoint ada"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vigorlee/eidra-agent",
+ "sha": "ba37cf7c6722",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向角色扮演、持久记忆与对抗评测的智能体 CLI 原型",
+  "review": "单进程本地 CLI 的 v0.1 工程原型：提供可配置的 JSON persona、显式持久记忆、基于词面重叠的确定性检索（带来源标识）、三个静态对抗评测场景，以及可导出为 SFT/DPO 用的偏好数据 JSONL。通过 Chat Completions 风格 HTTP 适配器接入本地或远程模型端点（如 vLLM），默认 mock 返回固定响应用于验证流程。检索无嵌入/向量库/重排；记忆为明文 JSON，每用户上限 100 条；无 Web UI、认证与流式。运行仅需 Node.js 内置模块，无需 GPU。",
+  "highlights": [
+   "JSON persona（身份/风格/边界）+ 显式持久记忆（/remember、/memories、/forget）",
+   "词面 token 重叠的确定性检索，知识记录带 id/text/source",
+   "三个静态对抗场景（身份漂移/虚构引用/情感支持）与关键词检查",
+   "偏好数据校验、去重与 JSONL 导出，面向 SFT/DPO 后训练",
+   "Chat Completions 风格 HTTP 适配器可接入 vLLM 等兼容服务"
+  ],
+  "use_cases": [
+   "研究带持久记忆与可检索证据的角色扮演 agent 工作流",
+   "导出经审核的偏好三元组用于 SFT/DPO 实验",
+   "通过静态对抗场景做 agent 行为的回归调试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    24
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent",
+   "角色扮演/Persona",
+   "记忆与检索",
+   "对抗评测",
+   "偏好数据/DPO"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "agent-memory",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 中英对照且默认 persona、提示词与评测夹具主要为中文（L62）",
+   "数据契约以中文撰写（L182）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: Eidra Agent explores this question through a research companion scenario. It brings configurable personas, explicit pers",
+   "L24: The current release is a **runnable v0.1 CLI prototype**. It implements deterministic retrieval and a model endpoint ada"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

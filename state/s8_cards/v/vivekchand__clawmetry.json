@@ -1,1 +1,84 @@
-{"fn": "vivekchand/clawmetry", "sha": "272de77d2f3d", "source": "readme", "identity": {"one_liner": "本地优先的 AI agent 可观测与治理面板，读取 33 种 agent 运行时会话", "review": "读取编码 agent 已写出的本地会话文件与日志（无需 SDK 或改代码），在单一 dashboard 呈现会话时间线、工具调用回放、token/成本拆分、上下文窗口利用率、异常信号，并支持预算告警与工具调用前置审批。开源版免费读取 OpenClaw、NVIDIA NemoClaw、Goose、Qwen Code 四种运行时；其余 29 种（Claude Code、Codex、Cursor 等）由闭源 clawmetry-pro 组件按付费计划读取。默认不外传会话数据，含匿名安装 ping 与版本检查（可关闭）。pip 安装后开箱即用于 localhost:8900。", "highlights": ["读取 33 种 agent 运行时的会话文件，零配置、只读、不改运行方式", "按 provider 独立计算上下文窗口利用率，附来源标注（model_table/default 等）", "提供开销基准：拦截器 +0.44ms/LLM 调用，守护进程约 12% 单核，附可复现 harness", "审批/告警（Slack/Discord/PagerDuty 等）与预算上限"], "use_cases": ["在 dashboard 上查看多个编码 agent 的会话、成本与工具调用", "发现烧钱异常、循环卡死等浪费信号", "在工具调用执行前暂停并从手机审批高风险操作"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [60, 61], "note": "Asimov 1 人形机器人连接器为实验性支持"}}, "links": {"scenario_tags": ["agent监控", "可观测性", "成本追踪", "LLM基础设施", "治理/审批"], "domain": "AI agent 可观测性/运维", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文等多语言版本"]}, "trust": {"confidence": "mid", "evidence": ["L11: **An agent can make a hundred tool calls without making progress.** ClawMetry", "L35: |**What it does**|Reads the session files and logs your agents already write. No SDK, no code change, no instrumentation", "L37: |**What's free**|`pip install clawmetry` reads **OpenClaw, NVIDIA NemoClaw, Goose and Qwen Code** with no account, no ke"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vivekchand/clawmetry",
+ "sha": "272de77d2f3d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 AI agent 可观测与治理面板，读取 33 种 agent 运行时会话",
+  "review": "读取编码 agent 已写出的本地会话文件与日志（无需 SDK 或改代码），在单一 dashboard 呈现会话时间线、工具调用回放、token/成本拆分、上下文窗口利用率、异常信号，并支持预算告警与工具调用前置审批。开源版免费读取 OpenClaw、NVIDIA NemoClaw、Goose、Qwen Code 四种运行时；其余 29 种（Claude Code、Codex、Cursor 等）由闭源 clawmetry-pro 组件按付费计划读取。默认不外传会话数据，含匿名安装 ping 与版本检查（可关闭）。pip 安装后开箱即用于 localhost:8900。",
+  "highlights": [
+   "读取 33 种 agent 运行时的会话文件，零配置、只读、不改运行方式",
+   "按 provider 独立计算上下文窗口利用率，附来源标注（model_table/default 等）",
+   "提供开销基准：拦截器 +0.44ms/LLM 调用，守护进程约 12% 单核，附可复现 harness",
+   "审批/告警（Slack/Discord/PagerDuty 等）与预算上限"
+  ],
+  "use_cases": [
+   "在 dashboard 上查看多个编码 agent 的会话、成本与工具调用",
+   "发现烧钱异常、循环卡死等浪费信号",
+   "在工具调用执行前暂停并从手机审批高风险操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    60,
+    61
+   ],
+   "note": "Asimov 1 人形机器人连接器为实验性支持"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent监控",
+   "可观测性",
+   "成本追踪",
+   "LLM基础设施",
+   "治理/审批"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文等多语言版本"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: **An agent can make a hundred tool calls without making progress.** ClawMetry",
+   "L35: |**What it does**|Reads the session files and logs your agents already write. No SDK, no code change, no instrumentation",
+   "L37: |**What's free**|`pip install clawmetry` reads **OpenClaw, NVIDIA NemoClaw, Goose and Qwen Code** with no account, no ke"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

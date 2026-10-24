@@ -34,7 +34,7 @@ TubeCLI 是基于 Python 3.10+/FastAPI 的自托管多 agent 系统：用户通�
 
 ## 场景标签
 
- · 领域:AI Agent 自动化/内容生产
+`多智能体` `浏览器自动化` `视频生成` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

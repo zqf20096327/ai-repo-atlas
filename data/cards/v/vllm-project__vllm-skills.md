@@ -33,7 +33,7 @@ vLLM 项目维护的 agent 技能仓库，遵循 anthropics/skills 的 SKILL.md 
 
 ## 场景标签
 
- · 领域:LLM 基础设施/运维自动化
+`推理引擎` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

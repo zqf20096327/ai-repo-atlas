@@ -1,1 +1,82 @@
-{"fn": "trekhleb/machine-learning-experiments", "sha": "c83aeebdee82", "source": "readme", "identity": {"one_liner": "交互式机器学习实验集：Jupyter 训练笔记本 + 浏览器演示", "review": "由个人维护的机器学习实验合集，每个实验包含一个展示模型训练过程的 Jupyter/Colab 笔记本和一个可在浏览器中运行的演示页面。实验覆盖 MLP 手写数字/草图识别、CNN 图像分类与物体检测、MobileNetV2 迁移学习、RNN/LSTM 的数字求和与文本生成（莎士比亚/维基百科/菜谱）等。模型多用 TensorFlow 2 与 Keras 训练。README 明确声明这是学习用沙盒而非生产级代码，模型可能存在欠拟合/过拟合问题。", "highlights": ["每个实验配 Jupyter/Colab 训练笔记本与浏览器演示页", "覆盖 MLP/CNN/RNN/LSTM、迁移学习、物体检测、文本生成", "模型主要使用 TensorFlow 2 + Keras 训练", "README 自声明为实验沙盒，非生产就绪代码"], "use_cases": ["学习不同机器学习方法的训练过程", "在浏览器中直接体验训练好的模型", "在 Colab/Binder 中在线运行与修改实验笔记本"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://trekhleb.github.io/machine-learning-experiments/", "self_declared_early": {"flag": true, "lines": [19], "note": "自声明为实验/沙盒，非生产就绪"}}, "links": {"scenario_tags": ["机器学习实验", "教学/学习资源", "Jupyter/Colab", "TensorFlow/Keras", "浏览器演示"], "domain": "机器学习/教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L12: This is a collection of interactive machine-learning experiments. Each experiment consists of 🏋️ Jupyter/Colab _notebook", "L19: > ⚠️ This repository contains machine learning **experiments** and **not** a production ready, reusable, optimised and f", "L23: Most of the models in these experiments were trained using TensorFlow 2 with Keras support."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "trekhleb/machine-learning-experiments",
+ "sha": "c83aeebdee82",
+ "source": "readme",
+ "identity": {
+  "one_liner": "交互式机器学习实验集：Jupyter 训练笔记本 + 浏览器演示",
+  "review": "由个人维护的机器学习实验合集，每个实验包含一个展示模型训练过程的 Jupyter/Colab 笔记本和一个可在浏览器中运行的演示页面。实验覆盖 MLP 手写数字/草图识别、CNN 图像分类与物体检测、MobileNetV2 迁移学习、RNN/LSTM 的数字求和与文本生成（莎士比亚/维基百科/菜谱）等。模型多用 TensorFlow 2 与 Keras 训练。README 明确声明这是学习用沙盒而非生产级代码，模型可能存在欠拟合/过拟合问题。",
+  "highlights": [
+   "每个实验配 Jupyter/Colab 训练笔记本与浏览器演示页",
+   "覆盖 MLP/CNN/RNN/LSTM、迁移学习、物体检测、文本生成",
+   "模型主要使用 TensorFlow 2 + Keras 训练",
+   "README 自声明为实验沙盒，非生产就绪代码"
+  ],
+  "use_cases": [
+   "学习不同机器学习方法的训练过程",
+   "在浏览器中直接体验训练好的模型",
+   "在 Colab/Binder 中在线运行与修改实验笔记本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://trekhleb.github.io/machine-learning-experiments/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    19
+   ],
+   "note": "自声明为实验/沙盒，非生产就绪"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习实验",
+   "教学/学习资源",
+   "Jupyter/Colab",
+   "TensorFlow/Keras",
+   "浏览器演示"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: This is a collection of interactive machine-learning experiments. Each experiment consists of 🏋️ Jupyter/Colab _notebook",
+   "L19: > ⚠️ This repository contains machine learning **experiments** and **not** a production ready, reusable, optimised and f",
+   "L23: Most of the models in these experiments were trained using TensorFlow 2 with Keras support."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

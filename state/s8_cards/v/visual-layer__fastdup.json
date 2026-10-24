@@ -1,1 +1,78 @@
-{"fn": "visual-layer/fastdup", "sha": "20dd2247593b", "source": "readme", "identity": {"one_liner": "图像/视频数据集质量分析工具：找重复、异常与错标", "review": "fastdup 是面向图像与视频数据集的分析工具，识别重复/近重复、异常值、错标、损坏与低质量图像，并支持图像相似度搜索；提供 duplicates/outliers 等静态图库可视化与 remove_duplicates 一键去重（可 dry_run 预览）。采用 C++ 引擎，可在单台 CPU 机器上处理大规模数据集（README 称 4 亿张），支持 macOS/Linux/Windows 与有标注/无标注数据。以 Python 包经 pip 安装，由 Visual Layer（XGBoost/Turi Create 作者创立）维护，另提供商业云服务；许可为 CC BY-NC-ND 4.0。内置实验性 Sentry 崩溃上报，可通过环境变量退出。", "highlights": ["识别重复/近重复、异常、错标、损坏与低质量图像", "remove_duplicates 单调用去重，支持 dry_run 预览与相似度阈值调整", "C++ 引擎，单台 CPU 机器可处理大规模数据集，本地或自有云运行", "支持 TIMM/ONNX（如 DINOv2）提取嵌入向量，CPU 与 GPU 均可运行"], "use_cases": ["训练前清洗图像数据集，找出重复与错标样本", "对大规模图像库做相似度搜索与去重", "在 Colab/Kaggle 上分析 Hugging Face 数据集质量"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据集清洗", "计算机视觉", "数据质量", "重复检测", "嵌入向量分析"], "domain": "计算机视觉/数据工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L79: + **Quality**: High-quality analysis to identify duplicates/near-duplicates, outliers, mislabels, broken images, and low", "L210:  🧠 TIMM Embeddings: Compute dataset embeddings using TIMM (PyTorch Image Models) and run fastdup over the them to surfac"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "visual-layer/fastdup",
+ "sha": "20dd2247593b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "图像/视频数据集质量分析工具：找重复、异常与错标",
+  "review": "fastdup 是面向图像与视频数据集的分析工具，识别重复/近重复、异常值、错标、损坏与低质量图像，并支持图像相似度搜索；提供 duplicates/outliers 等静态图库可视化与 remove_duplicates 一键去重（可 dry_run 预览）。采用 C++ 引擎，可在单台 CPU 机器上处理大规模数据集（README 称 4 亿张），支持 macOS/Linux/Windows 与有标注/无标注数据。以 Python 包经 pip 安装，由 Visual Layer（XGBoost/Turi Create 作者创立）维护，另提供商业云服务；许可为 CC BY-NC-ND 4.0。内置实验性 Sentry 崩溃上报，可通过环境变量退出。",
+  "highlights": [
+   "识别重复/近重复、异常、错标、损坏与低质量图像",
+   "remove_duplicates 单调用去重，支持 dry_run 预览与相似度阈值调整",
+   "C++ 引擎，单台 CPU 机器可处理大规模数据集，本地或自有云运行",
+   "支持 TIMM/ONNX（如 DINOv2）提取嵌入向量，CPU 与 GPU 均可运行"
+  ],
+  "use_cases": [
+   "训练前清洗图像数据集，找出重复与错标样本",
+   "对大规模图像库做相似度搜索与去重",
+   "在 Colab/Kaggle 上分析 Hugging Face 数据集质量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集清洗",
+   "计算机视觉",
+   "数据质量",
+   "重复检测",
+   "嵌入向量分析"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L79: + **Quality**: High-quality analysis to identify duplicates/near-duplicates, outliers, mislabels, broken images, and low",
+   "L210:  🧠 TIMM Embeddings: Compute dataset embeddings using TIMM (PyTorch Image Models) and run fastdup over the them to surfac"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

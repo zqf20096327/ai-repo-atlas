@@ -1,1 +1,81 @@
-{"fn": "traceopt-ai/traceml", "sha": "34f814120258", "source": "readme", "identity": {"one_liner": "PyTorch 训练性能诊断工具：零代码定位慢训练瓶颈并在 CI 拦截性能回退", "review": "通过 traceml run 命令包装既有训练脚本，自动对 Hugging Face Trainer、PyTorch Lightning、RF-DETR 的标准训练做插桩，按阶段（输入加载、H2D 传输、前向、反向、优化器）计时并输出瓶颈判定与证据（final_summary.json/txt）。提供 traceml compare 对比两次运行，可设步时回退阈值（如 5%）作为 CI 门禁返回退出码。支持单机 DDP 的 rank-straggler 诊断；多节点路径为实验性。自定义循环、Accelerate、Ray、DeepSpeed、MONAI 需显式集成 API。面向深度学习训练的开发者与 MLOps 场景，定位为轻量常开诊断，指向 GPU 计算内部时建议改用 kernel profiler。", "highlights": ["零代码插桩：traceml run 替换 python 即可诊断标准训练", "六类瓶颈判定（Input/H2D/Compute/Residual/Rank straggler/Memory creep）", "traceml compare 支持 CI 性能回退门禁（可设回退百分比阈值）", "单机 DDP 多 rank 对齐与 straggler 定位，可导出 HTML 报告并推送 W&B/MLflow"], "use_cases": ["训练变慢时定位是数据加载还是 GPU 计算瓶颈", "改了 DataLoader/批大小后对比前后两次训练的性能差异", "在 CI 中拦截导致步时回退的提交", "排查多卡 DDP 训练中拖慢整体进度的 rank"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [126, 146]}}, "links": {"scenario_tags": ["训练性能诊断", "profiling", "MLOps/CI", "分布式训练", "PyTorch 生态"], "domain": "深度学习训练工具/MLOps 可观测性", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L26: TraceML shows where each training step goes—input loading, data transfer, forward, backward, and optimizer work—then ide", "L125: TraceML writes the evidence before returning the CI exit code. The regression"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "traceopt-ai/traceml",
+ "sha": "34f814120258",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 训练性能诊断工具：零代码定位慢训练瓶颈并在 CI 拦截性能回退",
+  "review": "通过 traceml run 命令包装既有训练脚本，自动对 Hugging Face Trainer、PyTorch Lightning、RF-DETR 的标准训练做插桩，按阶段（输入加载、H2D 传输、前向、反向、优化器）计时并输出瓶颈判定与证据（final_summary.json/txt）。提供 traceml compare 对比两次运行，可设步时回退阈值（如 5%）作为 CI 门禁返回退出码。支持单机 DDP 的 rank-straggler 诊断；多节点路径为实验性。自定义循环、Accelerate、Ray、DeepSpeed、MONAI 需显式集成 API。面向深度学习训练的开发者与 MLOps 场景，定位为轻量常开诊断，指向 GPU 计算内部时建议改用 kernel profiler。",
+  "highlights": [
+   "零代码插桩：traceml run 替换 python 即可诊断标准训练",
+   "六类瓶颈判定（Input/H2D/Compute/Residual/Rank straggler/Memory creep）",
+   "traceml compare 支持 CI 性能回退门禁（可设回退百分比阈值）",
+   "单机 DDP 多 rank 对齐与 straggler 定位，可导出 HTML 报告并推送 W&B/MLflow"
+  ],
+  "use_cases": [
+   "训练变慢时定位是数据加载还是 GPU 计算瓶颈",
+   "改了 DataLoader/批大小后对比前后两次训练的性能差异",
+   "在 CI 中拦截导致步时回退的提交",
+   "排查多卡 DDP 训练中拖慢整体进度的 rank"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    126,
+    146
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "训练性能诊断",
+   "profiling",
+   "MLOps/CI",
+   "分布式训练",
+   "PyTorch 生态"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: TraceML shows where each training step goes—input loading, data transfer, forward, backward, and optimizer work—then ide",
+   "L125: TraceML writes the evidence before returning the CI exit code. The regression"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

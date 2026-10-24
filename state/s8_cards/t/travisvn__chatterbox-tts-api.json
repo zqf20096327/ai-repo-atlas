@@ -1,1 +1,77 @@
-{"fn": "travisvn/chatterbox-tts-api", "sha": "0b4b0ea59f5a", "source": "readme", "identity": {"one_liner": "给开发者的本地 Chatterbox TTS API：OpenAI 兼容接口加语音克隆", "review": "基于 FastAPI 的本地文本转语音 API 服务，封装 chatterbox-tts 基础包，提供 OpenAI 兼容的 /v1/audio/speech 端点，可在 Open WebUI、AnythingLLM 等使用 OpenAI API 的场景中直接替换。功能包括语音克隆（上传 10-30 秒样本）、22 种语言的多语言生成、语言自动检测、语音库管理、实时流式输出（含 SSE）与进度监控。附带可选 React 前端，支持 Docker 与 GPU 部署，通过环境变量配置设备与生成参数。限制：上游 chatterbox 包当前在非 CUDA 环境存在问题，需回退 stable 分支。", "highlights": ["OpenAI 兼容的 TTS 端点，可直接替换 OpenAI TTS API", "语音克隆与按名称管理的语音库（支持 22 种语言、语言自动检测）", "实时音频流式输出（WAV 分块与 OpenAI 兼容 SSE）", "Docker 部署与可选 React Web 前端"], "use_cases": ["给 Open WebUI / AnythingLLM 等本地应用接上 TTS 能力", "用自己的声音样本批量生成克隆语音", "为应用提供低延迟流式语音合成服务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["TTS", "语音克隆", "OpenAI兼容API", "本地部署", "FastAPI"], "domain": "语音合成/LLM 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L16: **FastAPI**-powered REST API for Chatterbox TTS, providing OpenAI-compatible text-to-speech endpoints with voice cloning", "L20: 🚀 **OpenAI-Compatible API** - Drop-in replacement for OpenAI's TTS API"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "travisvn/chatterbox-tts-api",
+ "sha": "0b4b0ea59f5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的本地 Chatterbox TTS API：OpenAI 兼容接口加语音克隆",
+  "review": "基于 FastAPI 的本地文本转语音 API 服务，封装 chatterbox-tts 基础包，提供 OpenAI 兼容的 /v1/audio/speech 端点，可在 Open WebUI、AnythingLLM 等使用 OpenAI API 的场景中直接替换。功能包括语音克隆（上传 10-30 秒样本）、22 种语言的多语言生成、语言自动检测、语音库管理、实时流式输出（含 SSE）与进度监控。附带可选 React 前端，支持 Docker 与 GPU 部署，通过环境变量配置设备与生成参数。限制：上游 chatterbox 包当前在非 CUDA 环境存在问题，需回退 stable 分支。",
+  "highlights": [
+   "OpenAI 兼容的 TTS 端点，可直接替换 OpenAI TTS API",
+   "语音克隆与按名称管理的语音库（支持 22 种语言、语言自动检测）",
+   "实时音频流式输出（WAV 分块与 OpenAI 兼容 SSE）",
+   "Docker 部署与可选 React Web 前端"
+  ],
+  "use_cases": [
+   "给 Open WebUI / AnythingLLM 等本地应用接上 TTS 能力",
+   "用自己的声音样本批量生成克隆语音",
+   "为应用提供低延迟流式语音合成服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TTS",
+   "语音克隆",
+   "OpenAI兼容API",
+   "本地部署",
+   "FastAPI"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L16: **FastAPI**-powered REST API for Chatterbox TTS, providing OpenAI-compatible text-to-speech endpoints with voice cloning",
+   "L20: 🚀 **OpenAI-Compatible API** - Drop-in replacement for OpenAI's TTS API"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

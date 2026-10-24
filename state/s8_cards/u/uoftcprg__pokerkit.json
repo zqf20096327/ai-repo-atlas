@@ -1,1 +1,75 @@
-{"fn": "uoftcprg/pokerkit", "sha": "c7223ba3b5a4", "source": "readme", "identity": {"one_liner": "纯 Python 扑克游戏模拟与牌力评估库，供扑克 AI 开发使用", "review": "由计算机扑克研究组开发的纯 Python 库，提供扑克游戏状态模拟、高速牌力评估与统计分析功能，覆盖德州扑克、短牌、奥马哈、2-7三次抽牌、Badugi 等多种变体，并支持用户自定义游戏规则。功能通过统一的高层 API 暴露，可配置下注自动化（前注、盲注、筹码推送等）。README 示例复现了多个真实 televised 牌局。要求 Python 3.11 及以上，经静态类型检查、doctest 与单元测试，代码覆盖率 99%。", "highlights": ["支持多种主流与非主流扑克变体（德州/短牌/奥马哈/2-7 Triple Draw/Badugi 等）", "可自定义游戏状态与参数，含下注流程自动化配置", "高速牌力评估", "静态类型检查与 99% 代码覆盖率（单元测试与 doctest）"], "use_cases": ["扑克 AI 开发的环境模拟与手牌评估", "构建扑克工具或统计分析程序", "在线扑克平台的规则引擎实现"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["扑克", "游戏模拟", "不完全信息博弈", "游戏引擎", "博弈论"], "domain": "游戏/博弈论（扑克引擎）", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: PokerKit", "L3: PokerKit is an open-source software library, written in pure Python, for simulating games, evaluating hands, and facilit"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "uoftcprg/pokerkit",
+ "sha": "c7223ba3b5a4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 Python 扑克游戏模拟与牌力评估库，供扑克 AI 开发使用",
+  "review": "由计算机扑克研究组开发的纯 Python 库，提供扑克游戏状态模拟、高速牌力评估与统计分析功能，覆盖德州扑克、短牌、奥马哈、2-7三次抽牌、Badugi 等多种变体，并支持用户自定义游戏规则。功能通过统一的高层 API 暴露，可配置下注自动化（前注、盲注、筹码推送等）。README 示例复现了多个真实 televised 牌局。要求 Python 3.11 及以上，经静态类型检查、doctest 与单元测试，代码覆盖率 99%。",
+  "highlights": [
+   "支持多种主流与非主流扑克变体（德州/短牌/奥马哈/2-7 Triple Draw/Badugi 等）",
+   "可自定义游戏状态与参数，含下注流程自动化配置",
+   "高速牌力评估",
+   "静态类型检查与 99% 代码覆盖率（单元测试与 doctest）"
+  ],
+  "use_cases": [
+   "扑克 AI 开发的环境模拟与手牌评估",
+   "构建扑克工具或统计分析程序",
+   "在线扑克平台的规则引擎实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "扑克",
+   "游戏模拟",
+   "不完全信息博弈",
+   "游戏引擎",
+   "博弈论"
+  ],
+  "domain": "游戏/博弈论（扑克引擎）",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: PokerKit",
+   "L3: PokerKit is an open-source software library, written in pure Python, for simulating games, evaluating hands, and facilit"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,75 @@
-{"fn": "truevisionai/designer", "sha": "d3ffca24e41a", "source": "readme", "identity": {"one_liner": "设计道路与环境场景的 3D 工具，用于自动驾驶测试验证", "review": "Truevision Designer 是面向自动驾驶车辆与机器人测试验证的 3D 道路设计工具：提供道路规划、环岛、车道属性编辑、自定义交叉口、交通信号、人行横道、路面标线与地形编辑等工具集，支持导入/导出 OpenDrive 1.4 格式，可导出到 CARLA 仿真器或输出 GLTF/GLB 3D 环境文件。本仓库提供 Windows/Linux 的源码构建，官网提供下载入口；许可证限制为仅限非商业用途。", "highlights": ["道路/车道/交叉口/标线的参数化编辑工具集", "支持 OpenDrive 1.4 导入导出", "可导出到 CARLA 仿真器及 GLTF/GLB 格式", "提供 3D 资产放置（点/曲线/多边形/路段）工具"], "use_cases": ["为自动驾驶仿真测试搭建道路与交叉口场景", "编辑 OpenDrive 路网并导入 CARLA 仿真", "制作带交通信号与标线的 3D 测试环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://www.youtube.com/channel/UCv4Gkf0Z0JyWdKQHakXpbAw/videos", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["自动驾驶仿真", "场景编辑器", "OpenDrive", "CARLA", "桌面3D工具"], "domain": "自动驾驶/机器人仿真工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Truevision Designer is a 3D tool to design roads, intersections and environments for testing and validating autonomous v", "L15: - Export to the CARLA simulator"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "truevisionai/designer",
+ "sha": "d3ffca24e41a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "设计道路与环境场景的 3D 工具，用于自动驾驶测试验证",
+  "review": "Truevision Designer 是面向自动驾驶车辆与机器人测试验证的 3D 道路设计工具：提供道路规划、环岛、车道属性编辑、自定义交叉口、交通信号、人行横道、路面标线与地形编辑等工具集，支持导入/导出 OpenDrive 1.4 格式，可导出到 CARLA 仿真器或输出 GLTF/GLB 3D 环境文件。本仓库提供 Windows/Linux 的源码构建，官网提供下载入口；许可证限制为仅限非商业用途。",
+  "highlights": [
+   "道路/车道/交叉口/标线的参数化编辑工具集",
+   "支持 OpenDrive 1.4 导入导出",
+   "可导出到 CARLA 仿真器及 GLTF/GLB 格式",
+   "提供 3D 资产放置（点/曲线/多边形/路段）工具"
+  ],
+  "use_cases": [
+   "为自动驾驶仿真测试搭建道路与交叉口场景",
+   "编辑 OpenDrive 路网并导入 CARLA 仿真",
+   "制作带交通信号与标线的 3D 测试环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/channel/UCv4Gkf0Z0JyWdKQHakXpbAw/videos",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自动驾驶仿真",
+   "场景编辑器",
+   "OpenDrive",
+   "CARLA",
+   "桌面3D工具"
+  ],
+  "domain": "自动驾驶/机器人仿真工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Truevision Designer is a 3D tool to design roads, intersections and environments for testing and validating autonomous v",
+   "L15: - Export to the CARLA simulator"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

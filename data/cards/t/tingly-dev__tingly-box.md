@@ -33,7 +33,7 @@ Go 编写的统一 AI 网关，通过单一端点将 Claude Code、OpenCode、Co
 
 ## 场景标签
 
- · 领域:LLM 基础设施/API 网关
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

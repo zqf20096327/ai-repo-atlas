@@ -34,7 +34,7 @@ FlorDB 是 Python 实验追踪库：在训练脚本中 import flordb 即可捕�
 
 ## 场景标签
 
- · 领域:机器学习工程/MLOps
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

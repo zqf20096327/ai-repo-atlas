@@ -1,1 +1,80 @@
-{"fn": "vlinx-io/VelaTerm", "sha": "6778aaa0ae1c", "source": "readme", "identity": {"one_liner": "面向 AI 编程 Agent 的原生开发环境终端（ADE）", "review": "基于 Tauri 2（Rust 后端 + React 19 前端）的原生桌面应用，将编码 Agent（Claude Code、Codex、OpenCode、Copilot、Cursor 等）以受管会话形式运行：会话树组织项目/分组/会话，支持终端分屏、状态通知、配额与 token 监控。提供跨会话命令（vsearch/vrefer/vtell）、Plan/Execute 多会话分工模式、Session 知识库（vkb）与内置代码审计工作流。支持 macOS/Windows/Linux，可经 SSH/HTTPS/手机 App 远程访问同一会话树。MIT 许可，安装包从官网下载。", "highlights": ["多编码 Agent 以受管会话运行，支持实时状态、恢复与自定义启动参数", "vspawn 子会话与 vsearch/vrefer/vtell 跨会话通信命令", "Plan/Execute 模式将大任务拆分给多个 Agent 会话并行执行", "SSH/HTTPS/手机 App 三种方式远程访问同一会话树"], "use_cases": ["在单一窗口中并排管理多个 AI 编程 Agent 会话", "把大任务拆分给多个 Agent 会话并行开发并汇总评审", "在手机上查看并回复正在运行的 Agent 会话"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编程", "终端", "开发环境", "Agent会话管理", "桌面应用"], "domain": "开发者工具/AI 编程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本（L3）"]}, "trust": {"confidence": "high", "evidence": ["L7: Manage agent sessions like Codex. Split terminals like iTerm2. VelaTerm keeps both in one native app,", "L26: Claude Code, Codex, OpenCode, Copilot, Cursor, Antigravity, Cline, Pi and more. Each one runs as a", "L91: Plan / Execute mode splits a large task across several agent sessions, each with one job. The"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vlinx-io/VelaTerm",
+ "sha": "6778aaa0ae1c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编程 Agent 的原生开发环境终端（ADE）",
+  "review": "基于 Tauri 2（Rust 后端 + React 19 前端）的原生桌面应用，将编码 Agent（Claude Code、Codex、OpenCode、Copilot、Cursor 等）以受管会话形式运行：会话树组织项目/分组/会话，支持终端分屏、状态通知、配额与 token 监控。提供跨会话命令（vsearch/vrefer/vtell）、Plan/Execute 多会话分工模式、Session 知识库（vkb）与内置代码审计工作流。支持 macOS/Windows/Linux，可经 SSH/HTTPS/手机 App 远程访问同一会话树。MIT 许可，安装包从官网下载。",
+  "highlights": [
+   "多编码 Agent 以受管会话运行，支持实时状态、恢复与自定义启动参数",
+   "vspawn 子会话与 vsearch/vrefer/vtell 跨会话通信命令",
+   "Plan/Execute 模式将大任务拆分给多个 Agent 会话并行执行",
+   "SSH/HTTPS/手机 App 三种方式远程访问同一会话树"
+  ],
+  "use_cases": [
+   "在单一窗口中并排管理多个 AI 编程 Agent 会话",
+   "把大任务拆分给多个 Agent 会话并行开发并汇总评审",
+   "在手机上查看并回复正在运行的 Agent 会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程",
+   "终端",
+   "开发环境",
+   "Agent会话管理",
+   "桌面应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本（L3）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Manage agent sessions like Codex. Split terminals like iTerm2. VelaTerm keeps both in one native app,",
+   "L26: Claude Code, Codex, OpenCode, Copilot, Cursor, Antigravity, Cline, Pi and more. Each one runs as a",
+   "L91: Plan / Execute mode splits a large task across several agent sessions, each with one job. The"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

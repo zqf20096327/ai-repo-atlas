@@ -1,1 +1,78 @@
-{"fn": "uav4geo/OpenPointClass", "sha": "253f0767c1b2", "source": "readme", "identity": {"one_liner": "三维点云语义分割工具：从标注点云训练模型并分类新数据", "review": "开源 C++ 点云分类器，提供 pctrain 与 pcclassify 两个命令：用已标注（ASPRS 1.4 分类码）的点云训练 AI 模型（随机森林为默认，可选梯度提升树），再用模型对新点云做语义分割，默认参数下 4 核 Intel i5 约 2 分钟可分类 1500 万点。支持 PDAL 所有点云格式，不编译 PDAL 时仅支持 PLY 子集。面向摄影测量/GIS 用户，macOS/Linux 需从源码编译，Windows 可购买预编译版或自行构建，AGPLv3 许可。", "highlights": ["从标注点云训练模型并分类新点云（随机森林/梯度提升树）", "默认参数下 4 核 i5 约 2 分钟分类 1500 万点", "支持 ASPRS 1.4 分类码及自定义重映射，覆盖 21 类地物", "支持 PDAL 格式（LAS/LAZ），提供 Docker 镜像构建与预训练模型"], "use_cases": ["对激光雷达/摄影测量点云做地面、植被、建筑等地物自动分类", "用自有标注数据训练专属点云分类模型并评估精度", "输出彩色分类点云用于可视化检查"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["点云处理", "遥感/摄影测量", "语义分割", "桌面CLI工具", "GIS"], "domain": "地理信息/点云处理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A fast, memory efficient free and open source point cloud classifier. It generates an AI model from a set of input point", "L9: On the default parameters it can classify 15 million points in less than 2 minutes on a 4-core Intel i5, which is faster"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "uav4geo/OpenPointClass",
+ "sha": "253f0767c1b2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "三维点云语义分割工具：从标注点云训练模型并分类新数据",
+  "review": "开源 C++ 点云分类器，提供 pctrain 与 pcclassify 两个命令：用已标注（ASPRS 1.4 分类码）的点云训练 AI 模型（随机森林为默认，可选梯度提升树），再用模型对新点云做语义分割，默认参数下 4 核 Intel i5 约 2 分钟可分类 1500 万点。支持 PDAL 所有点云格式，不编译 PDAL 时仅支持 PLY 子集。面向摄影测量/GIS 用户，macOS/Linux 需从源码编译，Windows 可购买预编译版或自行构建，AGPLv3 许可。",
+  "highlights": [
+   "从标注点云训练模型并分类新点云（随机森林/梯度提升树）",
+   "默认参数下 4 核 i5 约 2 分钟分类 1500 万点",
+   "支持 ASPRS 1.4 分类码及自定义重映射，覆盖 21 类地物",
+   "支持 PDAL 格式（LAS/LAZ），提供 Docker 镜像构建与预训练模型"
+  ],
+  "use_cases": [
+   "对激光雷达/摄影测量点云做地面、植被、建筑等地物自动分类",
+   "用自有标注数据训练专属点云分类模型并评估精度",
+   "输出彩色分类点云用于可视化检查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "点云处理",
+   "遥感/摄影测量",
+   "语义分割",
+   "桌面CLI工具",
+   "GIS"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A fast, memory efficient free and open source point cloud classifier. It generates an AI model from a set of input point",
+   "L9: On the default parameters it can classify 15 million points in less than 2 minutes on a 4-core Intel i5, which is faster"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

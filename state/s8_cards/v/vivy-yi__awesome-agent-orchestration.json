@@ -1,1 +1,80 @@
-{"fn": "vivy-yi/awesome-agent-orchestration", "sha": "9ae901db0128", "source": "readme", "identity": {"one_liner": "AI Agent 编排框架与协议策展清单（多智能体/群体智能/MCP/A2A）", "review": "面向开发者的 Agent 编排主题 awesome 清单，收录多智能体框架（AutoGen、CrewAI、MetaGPT、LangGraph、Swarms 等）、按语言分类的框架（Python/TypeScript/Go/Swift/Ruby/Elixir/PHP/Java）、A2A 与 MCP 协议生态（官方资源、数据库、浏览器自动化、专业服务器等 MCP servers），并整理层级式、顺序式、并行式、MoA、Agent Council 等编排模式与相关研究论文。README 提供中英双语，许可为 CC0。", "highlights": ["按 10+ 类别收录多智能体/群体智能/工作流编排框架", "A2A 与 MCP 协议生态专章（含 MCP servers 分类清单）", "整理 5 种编排模式（层级/顺序/并行/MoA/Agent Council）及适用框架", "收录多智能体协作研究论文列表"], "use_cases": ["选型时查找适合的多智能体编排框架", "了解 A2A/MCP 协议生态与可用 MCP servers", "按编排模式（层级/并行/MoA 等）寻找对应实现"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "多智能体", "Agent编排", "MCP协议", "A2A协议"], "domain": "AI Agent 基础设施/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本（L3）"]}, "trust": {"confidence": "high", "evidence": ["L10: **The most comprehensive curated list of Agent Orchestration, Multi-Agent Systems, Swarm Intelligence, and LLM Agent fra", "L37: |Project|Description|Stars|", "L150: ## Agent Communication Protocols"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vivy-yi/awesome-agent-orchestration",
+ "sha": "9ae901db0128",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Agent 编排框架与协议策展清单（多智能体/群体智能/MCP/A2A）",
+  "review": "面向开发者的 Agent 编排主题 awesome 清单，收录多智能体框架（AutoGen、CrewAI、MetaGPT、LangGraph、Swarms 等）、按语言分类的框架（Python/TypeScript/Go/Swift/Ruby/Elixir/PHP/Java）、A2A 与 MCP 协议生态（官方资源、数据库、浏览器自动化、专业服务器等 MCP servers），并整理层级式、顺序式、并行式、MoA、Agent Council 等编排模式与相关研究论文。README 提供中英双语，许可为 CC0。",
+  "highlights": [
+   "按 10+ 类别收录多智能体/群体智能/工作流编排框架",
+   "A2A 与 MCP 协议生态专章（含 MCP servers 分类清单）",
+   "整理 5 种编排模式（层级/顺序/并行/MoA/Agent Council）及适用框架",
+   "收录多智能体协作研究论文列表"
+  ],
+  "use_cases": [
+   "选型时查找适合的多智能体编排框架",
+   "了解 A2A/MCP 协议生态与可用 MCP servers",
+   "按编排模式（层级/并行/MoA 等）寻找对应实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "多智能体",
+   "Agent编排",
+   "MCP协议",
+   "A2A协议"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本（L3）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **The most comprehensive curated list of Agent Orchestration, Multi-Agent Systems, Swarm Intelligence, and LLM Agent fra",
+   "L37: |Project|Description|Stars|",
+   "L150: ## Agent Communication Protocols"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

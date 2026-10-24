@@ -1,1 +1,87 @@
-{"fn": "tridz-dev/huf", "sha": "e2c094a4f118", "source": "readme", "identity": {"one_liner": "自托管多 agent AI 基础设施：为团队与产品提供编排、执行与网关", "review": "基于 Frappe 框架的自托管 AI 基础设施层：通过 LiteLLM 统一路由接入 OpenAI/Anthropic/Groq/Mistral/Moonshot 等云端提供商及 Ollama/LM Studio 本地端点，支持构建带持久化记忆与角色权限的多 agent、链式与多 agent 团队；代码工具可在本地 venv、SSH、Docker 容器中隔离执行，内置 AST 检查与导入白名单的安全沙箱；提供 FTS5/ChromaDB/pgvector 混合检索的知识落地、多通道网关（Gmail/Telegram/Slack/WhatsApp）、可视化 Flow Builder（含 HITL 审批）与 MCP 客户端，并有执行追踪与成本分析。面向在 Frappe/ERPNext 上构建 AI 能力的团队与 SaaS 产品；通过 Docker 或 bench 安装，README 声明处于活跃开发中。", "highlights": ["LiteLLM 统一路由接入云提供商与 Ollama/LM Studio 本地端点", "可插拔执行环境：本地 venv、SSH、Frappe SSH、Docker 容器，含导入白名单与 AST 检查的代码沙箱", "FTS5 BM25、ChromaDB、pgvector 多后端混合检索知识落地", "React Flow 可视化 Flow Builder，含 Human-in-the-Loop 审批门与执行追踪"], "use_cases": ["为 Frappe/ERPNext 上的产品提供后端 AI 引擎与 agent 编排", "构建基于内部文档与 ERP 数据的公司内部助手", "通过多通道网关接入 Gmail/Telegram/Slack/WhatsApp 做消息分诊自动化"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": [11]}}, "links": {"scenario_tags": ["多agent编排", "自托管AI基础设施", "工作流自动化", "Frappe/ERPNext", "企业AI"], "domain": "企业 AI 基础设施/agent 编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "groq", "openrouter", "anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: HUF is a complete, self-hosted AI layer built on open standards. It gives teams everything needed to create intelligent ", "L34: HUF is the **core AI infrastructure layer** inside an organization or product, not a surface-level chatbot or a single-p", "L40: |**Universal AI Access**|Connect to major cloud providers or local models — with unified routing and open-router free ti"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tridz-dev/huf",
+ "sha": "e2c094a4f118",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管多 agent AI 基础设施：为团队与产品提供编排、执行与网关",
+  "review": "基于 Frappe 框架的自托管 AI 基础设施层：通过 LiteLLM 统一路由接入 OpenAI/Anthropic/Groq/Mistral/Moonshot 等云端提供商及 Ollama/LM Studio 本地端点，支持构建带持久化记忆与角色权限的多 agent、链式与多 agent 团队；代码工具可在本地 venv、SSH、Docker 容器中隔离执行，内置 AST 检查与导入白名单的安全沙箱；提供 FTS5/ChromaDB/pgvector 混合检索的知识落地、多通道网关（Gmail/Telegram/Slack/WhatsApp）、可视化 Flow Builder（含 HITL 审批）与 MCP 客户端，并有执行追踪与成本分析。面向在 Frappe/ERPNext 上构建 AI 能力的团队与 SaaS 产品；通过 Docker 或 bench 安装，README 声明处于活跃开发中。",
+  "highlights": [
+   "LiteLLM 统一路由接入云提供商与 Ollama/LM Studio 本地端点",
+   "可插拔执行环境：本地 venv、SSH、Frappe SSH、Docker 容器，含导入白名单与 AST 检查的代码沙箱",
+   "FTS5 BM25、ChromaDB、pgvector 多后端混合检索知识落地",
+   "React Flow 可视化 Flow Builder，含 Human-in-the-Loop 审批门与执行追踪"
+  ],
+  "use_cases": [
+   "为 Frappe/ERPNext 上的产品提供后端 AI 引擎与 agent 编排",
+   "构建基于内部文档与 ERP 数据的公司内部助手",
+   "通过多通道网关接入 Gmail/Telegram/Slack/WhatsApp 做消息分诊自动化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    11
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "自托管AI基础设施",
+   "工作流自动化",
+   "Frappe/ERPNext",
+   "企业AI"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "groq",
+   "openrouter",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent",
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: HUF is a complete, self-hosted AI layer built on open standards. It gives teams everything needed to create intelligent ",
+   "L34: HUF is the **core AI infrastructure layer** inside an organization or product, not a surface-level chatbot or a single-p",
+   "L40: |**Universal AI Access**|Connect to major cloud providers or local models — with unified routing and open-router free ti"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

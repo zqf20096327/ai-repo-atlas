@@ -1,1 +1,82 @@
-{"fn": "timmyy123/LLM-Hub", "sha": "bddedb81bead", "source": "readme", "identity": {"one_liner": "手机端本地大模型应用：聊天、图像/视频/音乐生成与语音工具", "review": "面向 Android/iOS 的开源移动应用，在设备本地运行 LLM 聊天（RAG 记忆、联网搜索、多模态输入）、Stable Diffusion 图像生成、LTX-Video 视频生成、Magenta/SoundGen 音乐生成、Whisper 语音转写、TTS 与语音克隆、翻译、诈骗检测与媒体语义搜索等功能。Android 端 Vibe Coder 可通过 Termux 接入 Codex 应用服务器，由本地模型驱动代码代理；推理支持 CPU/GPU/NPU 加速，可导入 .task/.gguf 等格式模型并从 HuggingFace 下载。通过应用商店分发或源码构建。", "highlights": ["多模态生成套件：聊天、图像、视频、音乐生成均在设备本地运行", "AI Agent 支持设备函数调用、MCP 工具与 Termux 命令生成（含执行前编辑与错误自纠）", "Android Vibe Coder 经 Termux 接入 Codex，用本地模型驱动代码代理，无需 OpenAI 登录", "TTS 三引擎（Kokoro/Supertonic 3/Pocket TTS）含本地语音克隆"], "use_cases": ["在手机上离线运行大模型聊天与图像、视频、音乐生成", "不联网、数据不出设备地使用语音转写、翻译与语音克隆", "让 AI 代理执行手机设备操作或生成并运行 Termux 命令", "用自然语言搜索相册照片/视频并定位视频中的具体时刻"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["端侧推理", "多模态生成", "AI Agent", "移动应用", "本地模型"], "domain": "端侧 AI 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: **LLM Hub** is an open-source mobile app for on-device LLM chat, image generation, video generation, and music generatio", "L80: - **100% on-device processing** - no internet required for inference", "L31: |**💻 Vibe Coder**|**[NEW]** Build apps with live HTML/JS preview; Android also integrates Codex through Termux using you"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "timmyy123/LLM-Hub",
+ "sha": "bddedb81bead",
+ "source": "readme",
+ "identity": {
+  "one_liner": "手机端本地大模型应用：聊天、图像/视频/音乐生成与语音工具",
+  "review": "面向 Android/iOS 的开源移动应用，在设备本地运行 LLM 聊天（RAG 记忆、联网搜索、多模态输入）、Stable Diffusion 图像生成、LTX-Video 视频生成、Magenta/SoundGen 音乐生成、Whisper 语音转写、TTS 与语音克隆、翻译、诈骗检测与媒体语义搜索等功能。Android 端 Vibe Coder 可通过 Termux 接入 Codex 应用服务器，由本地模型驱动代码代理；推理支持 CPU/GPU/NPU 加速，可导入 .task/.gguf 等格式模型并从 HuggingFace 下载。通过应用商店分发或源码构建。",
+  "highlights": [
+   "多模态生成套件：聊天、图像、视频、音乐生成均在设备本地运行",
+   "AI Agent 支持设备函数调用、MCP 工具与 Termux 命令生成（含执行前编辑与错误自纠）",
+   "Android Vibe Coder 经 Termux 接入 Codex，用本地模型驱动代码代理，无需 OpenAI 登录",
+   "TTS 三引擎（Kokoro/Supertonic 3/Pocket TTS）含本地语音克隆"
+  ],
+  "use_cases": [
+   "在手机上离线运行大模型聊天与图像、视频、音乐生成",
+   "不联网、数据不出设备地使用语音转写、翻译与语音克隆",
+   "让 AI 代理执行手机设备操作或生成并运行 Termux 命令",
+   "用自然语言搜索相册照片/视频并定位视频中的具体时刻"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端侧推理",
+   "多模态生成",
+   "AI Agent",
+   "移动应用",
+   "本地模型"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "video-generation",
+   "tts",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **LLM Hub** is an open-source mobile app for on-device LLM chat, image generation, video generation, and music generatio",
+   "L80: - **100% on-device processing** - no internet required for inference",
+   "L31: |**💻 Vibe Coder**|**[NEW]** Build apps with live HTML/JS preview; Android also integrates Codex through Termux using you"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

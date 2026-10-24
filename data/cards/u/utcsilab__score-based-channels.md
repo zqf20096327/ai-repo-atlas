@@ -34,7 +34,7 @@ IEEE TWC 论文 "MIMO Channel Estimation using Score-Based Generative Models" �
 
 ## 场景标签
 
- · 领域:无线通信/物理层（研究代码）
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

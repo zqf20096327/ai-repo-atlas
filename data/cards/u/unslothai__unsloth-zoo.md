@@ -33,7 +33,7 @@ unslothai/unsloth-zoo 是 Unsloth 微调框架的配套工具仓库。Unsloth �
 
 ## 场景标签
 
- · 领域:LLM 训练/微调工具
+`微调` `强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 

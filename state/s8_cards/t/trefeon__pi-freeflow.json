@@ -1,1 +1,80 @@
-{"fn": "trefeon/pi-freeflow", "sha": "adeb07333929", "source": "readme", "identity": {"one_liner": "为 Pi/Oh My Pi 提供 37 个免费模型与中继代理的插件", "review": "作为 Oh My Pi 与 Pi 编码 agent 的扩展插件运行，聚合来自 OpenCode Zen、KiloCode Gateway、Cline、OVHcloud 的 37 个免费模型（上下文最高 1M），统一为短名模型 ID 供 /model 选择。核心机制包括：可自建的请求中继池（自托管 WARP 池、Cloudflare Workers/Deno Deploy/Vercel Edge），在多出口 IP 间分摊请求以规避按 IP 计的免费层限流；中继故障时自动冷却并回退直连上游。附带本地回环共享代理、轮转日志与工具调用诊断（JSONL）。限制：仅在 OMP/Pi 宿主内加载，非独立 CLI；模型目录仅文本与图像输入。", "highlights": ["聚合 4 个免费来源共 37 个模型，上下文窗口最高 1M", "自建中继池分散请求到多个出口 IP，含冷却与自动直连回退", "一条 JSONL 记录每个声明工具的流式轮次的调用、参数规模与失败分类", "中继池可导出/导入 JSON 在多机间迁移"], "use_cases": ["在免费层配额内跑长上下文编码与 agent 任务", "多出口 IP 中继池分摊请求，规避按 IP 的限流", "跨会话/子代理复用同一本地代理与中继池"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["免费模型聚合", "中继/代理池", "编码agent插件", "速率限制规避", "LLM基础设施"], "domain": "LLM 基础设施/编码 agent 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: > 37 free models with up to 1M context. No API keys to manage. Add your own relays to spread requests across more IPs.", "L5: Thin by design: a model list, a relay proxy, and a log. The host (`pi-ai`) handles thinking, normalization, and provider", "L17: |**37 free models**|12 from OpenCode Zen, 16 from KiloCode Gateway, 1 from Cline, 8 from OVHcloud AI Endpoints, context "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "trefeon/pi-freeflow",
+ "sha": "adeb07333929",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 Pi/Oh My Pi 提供 37 个免费模型与中继代理的插件",
+  "review": "作为 Oh My Pi 与 Pi 编码 agent 的扩展插件运行，聚合来自 OpenCode Zen、KiloCode Gateway、Cline、OVHcloud 的 37 个免费模型（上下文最高 1M），统一为短名模型 ID 供 /model 选择。核心机制包括：可自建的请求中继池（自托管 WARP 池、Cloudflare Workers/Deno Deploy/Vercel Edge），在多出口 IP 间分摊请求以规避按 IP 计的免费层限流；中继故障时自动冷却并回退直连上游。附带本地回环共享代理、轮转日志与工具调用诊断（JSONL）。限制：仅在 OMP/Pi 宿主内加载，非独立 CLI；模型目录仅文本与图像输入。",
+  "highlights": [
+   "聚合 4 个免费来源共 37 个模型，上下文窗口最高 1M",
+   "自建中继池分散请求到多个出口 IP，含冷却与自动直连回退",
+   "一条 JSONL 记录每个声明工具的流式轮次的调用、参数规模与失败分类",
+   "中继池可导出/导入 JSON 在多机间迁移"
+  ],
+  "use_cases": [
+   "在免费层配额内跑长上下文编码与 agent 任务",
+   "多出口 IP 中继池分摊请求，规避按 IP 的限流",
+   "跨会话/子代理复用同一本地代理与中继池"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "免费模型聚合",
+   "中继/代理池",
+   "编码agent插件",
+   "速率限制规避",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > 37 free models with up to 1M context. No API keys to manage. Add your own relays to spread requests across more IPs.",
+   "L5: Thin by design: a model list, a relay proxy, and a log. The host (`pi-ai`) handles thinking, normalization, and provider",
+   "L17: |**37 free models**|12 from OpenCode Zen, 16 from KiloCode Gateway, 1 from Cline, 8 from OVHcloud AI Endpoints, context "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

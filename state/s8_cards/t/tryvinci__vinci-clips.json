@@ -1,1 +1,79 @@
-{"fn": "tryvinci/vinci-clips", "sha": "e9608c11c6d0", "source": "readme", "identity": {"one_liner": "开源 AI 视频剪辑平台：长视频自动转社交媒体短视频", "review": "面向创作者、营销人员与企业的视频剪辑平台：上传长视频（上限 2GB）后，系统经 FFmpeg 抽取音频，调用 Google Gemini API 生成带说话人分离和时间戳对齐的转录，并给出建议片段以生成短视频，附带 TikTok/Reels 风格字幕渲染。技术栈为 Next.js 15 前端、Express 后端、MongoDB 存储、Google Cloud Storage 云存储。运行需 Node.js 18+、FFmpeg、MongoDB 与 Gemini API key；主体功能已标完成，部分改进项仍在计划中。", "highlights": ["AI 转录含说话人分离与时间戳对齐（Google Gemini API）", "AI 建议片段或手动选取时间区间生成短视频", "TikTok/Reels 风格字幕（5 种样式，SRT+FFmpeg 渲染）", "批量上传队列管理与实时处理状态跟踪"], "use_cases": ["把播客/直播等长视频切成适合社交平台的短视频", "获得带说话人标记和时间戳的视频转录稿", "给短视频自动加 TikTok 风格字幕"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["视频剪辑", "短视频/Reels", "AI转录", "内容创作工具", "Web平台"], "domain": "视频内容创作/AI 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L19: - **Intelligent Video Analysis**: AI-powered content analysis using Google Gemini API", "L21: - **Smart Clip Generation**: AI suggests optimal clip segments based on content analysis", "L122:  - Creates AI-powered transcription with speaker identification"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tryvinci/vinci-clips",
+ "sha": "e9608c11c6d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 视频剪辑平台：长视频自动转社交媒体短视频",
+  "review": "面向创作者、营销人员与企业的视频剪辑平台：上传长视频（上限 2GB）后，系统经 FFmpeg 抽取音频，调用 Google Gemini API 生成带说话人分离和时间戳对齐的转录，并给出建议片段以生成短视频，附带 TikTok/Reels 风格字幕渲染。技术栈为 Next.js 15 前端、Express 后端、MongoDB 存储、Google Cloud Storage 云存储。运行需 Node.js 18+、FFmpeg、MongoDB 与 Gemini API key；主体功能已标完成，部分改进项仍在计划中。",
+  "highlights": [
+   "AI 转录含说话人分离与时间戳对齐（Google Gemini API）",
+   "AI 建议片段或手动选取时间区间生成短视频",
+   "TikTok/Reels 风格字幕（5 种样式，SRT+FFmpeg 渲染）",
+   "批量上传队列管理与实时处理状态跟踪"
+  ],
+  "use_cases": [
+   "把播客/直播等长视频切成适合社交平台的短视频",
+   "获得带说话人标记和时间戳的视频转录稿",
+   "给短视频自动加 TikTok 风格字幕"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频剪辑",
+   "短视频/Reels",
+   "AI转录",
+   "内容创作工具",
+   "Web平台"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: - **Intelligent Video Analysis**: AI-powered content analysis using Google Gemini API",
+   "L21: - **Smart Clip Generation**: AI suggests optimal clip segments based on content analysis",
+   "L122:  - Creates AI-powered transcription with speaker identification"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

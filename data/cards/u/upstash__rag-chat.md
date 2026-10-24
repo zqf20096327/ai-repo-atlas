@@ -33,7 +33,7 @@ Upstash 社区维护的 TypeScript SDK（@upstash/rag-chat），用于以少量�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/RAG
+`RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 

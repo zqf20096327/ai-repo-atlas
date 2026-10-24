@@ -1,1 +1,77 @@
-{"fn": "triton-inference-server/dali_backend", "sha": "c5a752b541fa", "source": "readme", "identity": {"one_liner": "Triton 推理服务器的 DALI 后端：运行 GPU 加速数据预处理流水线", "review": "为 Triton Inference Server 提供 DALI 后端，使其能以 Model 形式运行用 DALI Python API 编写的 GPU 加速数据预处理流水线（如图像解码与 resize）。用户将流水线序列化为 model.dali 或以 @autoserialize 装饰的 dali.py 放入 Model Repository，Triton 可从流水线元数据自动补全 max_batch_size、input/output 配置。已知限制：ImageDecoder 仅接受 CPU 输入、Triton 仅支持同构 batch 形状、instance group count 大于 1 时内存消耗可能增加。提供 Docker 与 CMake 两种构建方式。", "highlights": ["在 Triton 中以 Model 形式运行 DALI 预处理流水线", "Autoserialization：Model Repository 中直接放 Python 流水线定义，免手动序列化", "配置自动补全：从流水线定义推断 input/output 与 max_batch_size"], "use_cases": ["推理服务中把图像解码/缩放等预处理与模型一同部署在 Triton", "用 Python 定义 DALI 流水线并纳入 Triton Model Repository 管理", "自建含 DALI 后端的 tritonserver Docker 镜像"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["推理服务", "数据预处理", "GPU加速", "后端插件"], "domain": "深度学习基础设施/数据预处理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This repository contains code for DALI Backend for Triton Inference Server.", "L24: 1. DALI data pipeline is expressed within Triton as a", "L120: When using DALI Backend in Triton, user has to provide a DALI model in the Model Repository."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "triton-inference-server/dali_backend",
+ "sha": "c5a752b541fa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Triton 推理服务器的 DALI 后端：运行 GPU 加速数据预处理流水线",
+  "review": "为 Triton Inference Server 提供 DALI 后端，使其能以 Model 形式运行用 DALI Python API 编写的 GPU 加速数据预处理流水线（如图像解码与 resize）。用户将流水线序列化为 model.dali 或以 @autoserialize 装饰的 dali.py 放入 Model Repository，Triton 可从流水线元数据自动补全 max_batch_size、input/output 配置。已知限制：ImageDecoder 仅接受 CPU 输入、Triton 仅支持同构 batch 形状、instance group count 大于 1 时内存消耗可能增加。提供 Docker 与 CMake 两种构建方式。",
+  "highlights": [
+   "在 Triton 中以 Model 形式运行 DALI 预处理流水线",
+   "Autoserialization：Model Repository 中直接放 Python 流水线定义，免手动序列化",
+   "配置自动补全：从流水线定义推断 input/output 与 max_batch_size"
+  ],
+  "use_cases": [
+   "推理服务中把图像解码/缩放等预处理与模型一同部署在 Triton",
+   "用 Python 定义 DALI 流水线并纳入 Triton Model Repository 管理",
+   "自建含 DALI 后端的 tritonserver Docker 镜像"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理服务",
+   "数据预处理",
+   "GPU加速",
+   "后端插件"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains code for DALI Backend for Triton Inference Server.",
+   "L24: 1. DALI data pipeline is expressed within Triton as a",
+   "L120: When using DALI Backend in Triton, user has to provide a DALI model in the Model Repository."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

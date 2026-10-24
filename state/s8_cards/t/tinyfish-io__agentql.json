@@ -1,1 +1,79 @@
-{"fn": "tinyfish-io/agentql", "sha": "860f965ee0f7", "source": "readme", "identity": {"one_liner": "用自然语言查询网页元素与数据的 AI 网页交互工具套件", "review": "AgentQL 提供一套连接 LLM/AI agent 与网页的工具：基于 AI 的查询语言（自然语言选择器定位页面元素与数据）、Python/JavaScript SDK、REST API、浏览器调试扩展与 Playground。支持定义结构化输出与查询内数据变换，可作用于登录后与动态生成页面，选择器随 UI 变化自愈，并可跨结构相似的站点复用。与 Playwright 集成实现自动化，并提供 LangChain、Zapier 集成与 MCP server。README 仅列出示例与文档链接，安装命令见外部文档。", "highlights": ["自然语言查询定位任意页面元素与数据，选择器随 UI 变化自愈", "查询内定义结构化输出与数据变换", "Python/JavaScript SDK、REST API、浏览器调试扩展、Playground 多形态交付", "与 Playwright 集成，另提供 LangChain/Zapier 集成与 MCP server"], "use_cases": ["用自然语言查询在动态网页上提取结构化数据", "为 AI agent 提供访问登录后网页内容的自动化通道", "编写跨结构相似站点复用的抓取与自动化脚本"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["网页抓取", "自动化/RPA", "agent工具", "查询语言", "Playwright集成"], "domain": "网页数据提取/自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7:  AgentQL connects LLMs and AI agents to the entire web", "L19: AgentQL is a suite of tools for extracting data and automating workflows on live web sites featuring an AI-powered query", "L38: - **Integrations** with agent frameworks and automation tools like Langchain and Zapier and our MCP server."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tinyfish-io/agentql",
+ "sha": "860f965ee0f7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用自然语言查询网页元素与数据的 AI 网页交互工具套件",
+  "review": "AgentQL 提供一套连接 LLM/AI agent 与网页的工具：基于 AI 的查询语言（自然语言选择器定位页面元素与数据）、Python/JavaScript SDK、REST API、浏览器调试扩展与 Playground。支持定义结构化输出与查询内数据变换，可作用于登录后与动态生成页面，选择器随 UI 变化自愈，并可跨结构相似的站点复用。与 Playwright 集成实现自动化，并提供 LangChain、Zapier 集成与 MCP server。README 仅列出示例与文档链接，安装命令见外部文档。",
+  "highlights": [
+   "自然语言查询定位任意页面元素与数据，选择器随 UI 变化自愈",
+   "查询内定义结构化输出与数据变换",
+   "Python/JavaScript SDK、REST API、浏览器调试扩展、Playground 多形态交付",
+   "与 Playwright 集成，另提供 LangChain/Zapier 集成与 MCP server"
+  ],
+  "use_cases": [
+   "用自然语言查询在动态网页上提取结构化数据",
+   "为 AI agent 提供访问登录后网页内容的自动化通道",
+   "编写跨结构相似站点复用的抓取与自动化脚本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网页抓取",
+   "自动化/RPA",
+   "agent工具",
+   "查询语言",
+   "Playwright集成"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  AgentQL connects LLMs and AI agents to the entire web",
+   "L19: AgentQL is a suite of tools for extracting data and automating workflows on live web sites featuring an AI-powered query",
+   "L38: - **Integrations** with agent frameworks and automation tools like Langchain and Zapier and our MCP server."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

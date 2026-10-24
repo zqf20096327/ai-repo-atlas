@@ -33,7 +33,7 @@ Rust 实现的 Goal-Oriented Action Planning 库，采用数据导向设计，�
 
 ## 场景标签
 
- · 领域:游戏开发/游戏 AI
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

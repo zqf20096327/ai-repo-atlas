@@ -1,1 +1,78 @@
-{"fn": "universal-tool-calling-protocol/python-utcp", "sha": "5e8864013c2f", "source": "readme", "identity": {"one_liner": "让 AI agent 直接调用各类 API 的工具调用协议 Python 实现", "review": "UTCP 是一个开放的工具调用协议，此仓库为其官方 Python 实现：通过核心库加协议插件的模块化架构，让 AI agent 经统一接口调用 HTTP/REST、SSE、CLI、本地文件、WebSocket、MCP 等多种协议的工具。核心基于 Pydantic 模型（Tool、CallTemplate、UtcpManual），提供 UtcpClient、可扩展插件系统、内置工具存储与搜索策略，并支持协议白名单安全限制与共享/独占实例两种协议生命周期。1.0.0 引入了多项破坏性变更与迁移指南。", "highlights": ["协议插件架构：HTTP/SSE/CLI/文本/WebSocket/MCP 等插件按需安装", "基于 Pydantic 的 Tool/CallTemplate/UtcpManual 数据模型与 UtcpClient", "allowed_communication_protocols 提供按 manual 的协议白名单安全限制", "共享实例与工厂注册两种协议生命周期，实现客户端间状态隔离"], "use_cases": ["为 AI agent 接入 HTTP、CLI、本地文件等多种协议的工具", "通过 MCP 插件与 Model Context Protocol 服务交互", "以统一 UTCPManual 格式描述并向 agent 提供工具"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["工具调用协议", "AI Agent", "LLM基础设施", "协议标准", "Python库"], "domain": "LLM 基础设施/工具调用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: The Universal Tool Calling Protocol (UTCP) is a secure, scalable standard for defining and interacting with tools across", "L42: - **Client Interface**: Main `UtcpClient` for tool interaction", "L91: UTCP supports multiple communication protocols through dedicated plugins:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "universal-tool-calling-protocol/python-utcp",
+ "sha": "5e8864013c2f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 直接调用各类 API 的工具调用协议 Python 实现",
+  "review": "UTCP 是一个开放的工具调用协议，此仓库为其官方 Python 实现：通过核心库加协议插件的模块化架构，让 AI agent 经统一接口调用 HTTP/REST、SSE、CLI、本地文件、WebSocket、MCP 等多种协议的工具。核心基于 Pydantic 模型（Tool、CallTemplate、UtcpManual），提供 UtcpClient、可扩展插件系统、内置工具存储与搜索策略，并支持协议白名单安全限制与共享/独占实例两种协议生命周期。1.0.0 引入了多项破坏性变更与迁移指南。",
+  "highlights": [
+   "协议插件架构：HTTP/SSE/CLI/文本/WebSocket/MCP 等插件按需安装",
+   "基于 Pydantic 的 Tool/CallTemplate/UtcpManual 数据模型与 UtcpClient",
+   "allowed_communication_protocols 提供按 manual 的协议白名单安全限制",
+   "共享实例与工厂注册两种协议生命周期，实现客户端间状态隔离"
+  ],
+  "use_cases": [
+   "为 AI agent 接入 HTTP、CLI、本地文件等多种协议的工具",
+   "通过 MCP 插件与 Model Context Protocol 服务交互",
+   "以统一 UTCPManual 格式描述并向 agent 提供工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工具调用协议",
+   "AI Agent",
+   "LLM基础设施",
+   "协议标准",
+   "Python库"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: The Universal Tool Calling Protocol (UTCP) is a secure, scalable standard for defining and interacting with tools across",
+   "L42: - **Client Interface**: Main `UtcpClient` for tool interaction",
+   "L91: UTCP supports multiple communication protocols through dedicated plugins:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

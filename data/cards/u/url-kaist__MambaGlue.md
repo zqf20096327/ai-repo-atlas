@@ -33,7 +33,7 @@ KAIST 团队发表的 MambaGlue：将 Mamba 与 Transformer 混合用于两张�
 
 ## 场景标签
 
- · 领域:计算机视觉/特征匹配
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

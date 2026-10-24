@@ -33,7 +33,7 @@ Timescale 维护的食谱（cookbook）仓库：汇集基于 PostgreSQL、pgvect
 
 ## 场景标签
 
- · 领域:向量数据库/LLM 应用开发
+`教程课程` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 

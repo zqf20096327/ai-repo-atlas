@@ -33,7 +33,7 @@ SpanMarker 是构建在 🤗 Transformers 之上的命名实体识别（NER）�
 
 ## 场景标签
 
- · 领域:NLP/命名实体识别
+`微调` · 领域:训练与推理
 
 ## 证据(README 行号)
 

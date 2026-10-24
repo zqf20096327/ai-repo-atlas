@@ -1,1 +1,84 @@
-{"fn": "ttlequals0/MinusPod", "sha": "92e0202fc788", "source": "readme", "identity": {"one_liner": "自托管播客服务器：本地转录+LLM 在播放前去广告", "review": "自托管 Docker 服务，订阅播客 RSS 后在服务器端处理：用 faster-whisper 或 NVIDIA Parakeet 本地转录（或远程 API），LLM 在转录文本上检测广告段落，FFmpeg 剪切后经 Flask 发布改写版 RSS 与音频。LLM 供应商可自带（Anthropic/OpenRouter/Ollama/System One/任意 OpenAI 兼容端点），运行时可切换。支持从用户纠正中跨集学习广告模式、可选社区模式同步，提供 Web UI、REST API、成本统计与加密备份。要求 Docker，GPU 为推荐非必需。声明仅限个人使用且需有权修改对应播客。", "highlights": ["本地转录（faster-whisper/Parakeet，GPU 或 CPU）+ LLM 广告段检测 + FFmpeg 剪切流水线", "LLM 供应商自带且运行时可切换：Anthropic/OpenRouter/Ollama/System One/OpenAI 兼容端点，含 A/B 路由与故障转移", "从用户纠正中跨集学习广告模式（播客级/网络级/全局），可选社区模式同步", "发布改写 RSS：章节、重生成转录、Podcasting 2.0 标签、OPML 导入导出"], "use_cases": ["自托管订阅播客，播放前自动剪掉广告段落", "用自己的 LLM（如 Ollama 本地推理）跑广告检测，控制 API 成本", "把自有音频文件构建为本地 feed 并走同一去广告流水线", "在手机播客客户端中通过改写后的 RSS 订阅无广告版本"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["播客", "自托管", "广告去除", "语音转录", "LLM应用"], "domain": "媒体处理/播客工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "openrouter", "ollama", "groq", "cpu-infer"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: MinusPod is a self-hosted server that removes ads from podcasts before you ever hit play. It transcribes episodes locall", "L64: The transcriber (faster-whisper, Parakeet, or a remote API) transcribes the episode, an LLM finds the ad segments in the"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ttlequals0/MinusPod",
+ "sha": "92e0202fc788",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管播客服务器：本地转录+LLM 在播放前去广告",
+  "review": "自托管 Docker 服务，订阅播客 RSS 后在服务器端处理：用 faster-whisper 或 NVIDIA Parakeet 本地转录（或远程 API），LLM 在转录文本上检测广告段落，FFmpeg 剪切后经 Flask 发布改写版 RSS 与音频。LLM 供应商可自带（Anthropic/OpenRouter/Ollama/System One/任意 OpenAI 兼容端点），运行时可切换。支持从用户纠正中跨集学习广告模式、可选社区模式同步，提供 Web UI、REST API、成本统计与加密备份。要求 Docker，GPU 为推荐非必需。声明仅限个人使用且需有权修改对应播客。",
+  "highlights": [
+   "本地转录（faster-whisper/Parakeet，GPU 或 CPU）+ LLM 广告段检测 + FFmpeg 剪切流水线",
+   "LLM 供应商自带且运行时可切换：Anthropic/OpenRouter/Ollama/System One/OpenAI 兼容端点，含 A/B 路由与故障转移",
+   "从用户纠正中跨集学习广告模式（播客级/网络级/全局），可选社区模式同步",
+   "发布改写 RSS：章节、重生成转录、Podcasting 2.0 标签、OPML 导入导出"
+  ],
+  "use_cases": [
+   "自托管订阅播客，播放前自动剪掉广告段落",
+   "用自己的 LLM（如 Ollama 本地推理）跑广告检测，控制 API 成本",
+   "把自有音频文件构建为本地 feed 并走同一去广告流水线",
+   "在手机播客客户端中通过改写后的 RSS 订阅无广告版本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "播客",
+   "自托管",
+   "广告去除",
+   "语音转录",
+   "LLM应用"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "ollama",
+   "groq",
+   "cpu-infer"
+  ],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: MinusPod is a self-hosted server that removes ads from podcasts before you ever hit play. It transcribes episodes locall",
+   "L64: The transcriber (faster-whisper, Parakeet, or a remote API) transcribes the episode, an LLM finds the ad segments in the"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

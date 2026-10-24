@@ -33,7 +33,7 @@ Rust 编写的 API 网关，置于 vLLM 等上游推理服务之前，将 OpenAI
 
 ## 场景标签
 
- · 领域:LLM 基础设施/API 网关
+`模型网关` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

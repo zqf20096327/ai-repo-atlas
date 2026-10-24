@@ -33,7 +33,7 @@ Ultralytics LLM 提供一个原生 JavaScript（约 1700 行、零依赖）的�
 
 ## 场景标签
 
- · 领域:Web 前端/AI 聊天组件
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 

@@ -1,1 +1,78 @@
-{"fn": "virtualramblas/Domain-Specific-Small-Language-Models", "sha": "082e08434a78", "source": "readme", "identity": {"one_liner": "《Domain-Specific Small Language Models》一书配套 Colab 笔记本仓库", "review": "Manning Publications《Domain-Specific Small Language Models》书籍的配套代码仓库，收录与各章节对应的 Colab 笔记本，主题涉及小语言模型、Hugging Face Transformers、PyTorch、量化与优化。所有笔记本草率面向 Colab 免费层设计（部分需要硬件加速），也可在本地 Jupyter、DeepNote、AWS SageMaker 等平台运行，但仓库不提供虚拟环境、依赖包安装与 GPU 驱动配置说明。读者需结合书中章节阅读并运行代码。", "highlights": ["书籍各章节对应的 Colab 笔记本集合", "全部笔记本设计为可在 Colab 免费层执行", "主题覆盖小语言模型、Hugging Face Transformers、PyTorch、量化"], "use_cases": ["读者配合书章节边读边跑代码", "学习领域专用小语言模型的训练与量化", "在 Colab 免费层实践 LLM 优化技术"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["书籍配套代码", "教程/笔记本", "小语言模型", "模型优化/量化", "Colab"], "domain": "AI 教育/书籍配套资源", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L2: Repository for the companion Colab notebooks of the Domain-Specific Small Language Models book, Manning Publications.", "L6: * All the notebooks in this repo have been meant for execution in the Colab free tier (with and without hardware acceler"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "virtualramblas/Domain-Specific-Small-Language-Models",
+ "sha": "082e08434a78",
+ "source": "readme",
+ "identity": {
+  "one_liner": "《Domain-Specific Small Language Models》一书配套 Colab 笔记本仓库",
+  "review": "Manning Publications《Domain-Specific Small Language Models》书籍的配套代码仓库，收录与各章节对应的 Colab 笔记本，主题涉及小语言模型、Hugging Face Transformers、PyTorch、量化与优化。所有笔记本草率面向 Colab 免费层设计（部分需要硬件加速），也可在本地 Jupyter、DeepNote、AWS SageMaker 等平台运行，但仓库不提供虚拟环境、依赖包安装与 GPU 驱动配置说明。读者需结合书中章节阅读并运行代码。",
+  "highlights": [
+   "书籍各章节对应的 Colab 笔记本集合",
+   "全部笔记本设计为可在 Colab 免费层执行",
+   "主题覆盖小语言模型、Hugging Face Transformers、PyTorch、量化"
+  ],
+  "use_cases": [
+   "读者配合书章节边读边跑代码",
+   "学习领域专用小语言模型的训练与量化",
+   "在 Colab 免费层实践 LLM 优化技术"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "书籍配套代码",
+   "教程/笔记本",
+   "小语言模型",
+   "模型优化/量化",
+   "Colab"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "model-quantization",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: Repository for the companion Colab notebooks of the Domain-Specific Small Language Models book, Manning Publications.",
+   "L6: * All the notebooks in this repo have been meant for execution in the Colab free tier (with and without hardware acceler"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,79 @@
-{"fn": "twilio-labs/mcp", "sha": "93a50a1d184f", "source": "readme", "identity": {"one_liner": "将 Twilio API 与任意 OpenAPI 规范暴露为 MCP 工具的服务器", "review": "Twilio 官方维护的 MCP monorepo，含两个包：mcp 将 Twilio 全部公开 API 以 MCP 工具形式暴露给支持 MCP 协议的 AI 助手；openapi-mcp-server 可读取任意 OpenAPI 规范生成对应的 MCP 服务器。通过 npx 快速启动，需配置 Twilio API Key/Secret；支持 --services/--tags 过滤以应对 LLM 上下文限制，OpenAPI 包用 --apiPath 指定规范文件位置。文档标注为 Alpha 阶段，并建议不要与社区 MCP 服务器混用以防范注入攻击。", "highlights": ["将 Twilio 全部公开 API 暴露为 MCP 工具", "openapi-mcp-server 可从任意 OpenAPI 规范生成 MCP 服务器", "支持 --services/--tags 过滤暴露的 API 子集", "通过 npx 启动，无需本地构建"], "use_cases": ["让支持 MCP 的 AI 助手直接调用 Twilio 的短信、语音等 API", "把已有的 OpenAPI 接口快速转成 MCP 工具供 AI 客户端使用", "按服务/标签筛选 API 子集以适配 LLM 上下文限制"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [1]}}, "links": {"scenario_tags": ["MCP服务器", "API集成", "OpenAPI", "Twilio", "AI工具接入"], "domain": "开发者工具/AI 接入", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L4: This is a monorepo for the Model Context Protocol server that exposes all of Twilio APIs.", "L8: The Model Context Protocol (MCP) is a protocol for exchanging model context information between AI tools and services. T", "L14: - mcp - MCP Server for all of Twilio's Public API", "L15: - openapi-mcp-server - An MCP server that serves the given OpenAPI spec"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "twilio-labs/mcp",
+ "sha": "93a50a1d184f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Twilio API 与任意 OpenAPI 规范暴露为 MCP 工具的服务器",
+  "review": "Twilio 官方维护的 MCP monorepo，含两个包：mcp 将 Twilio 全部公开 API 以 MCP 工具形式暴露给支持 MCP 协议的 AI 助手；openapi-mcp-server 可读取任意 OpenAPI 规范生成对应的 MCP 服务器。通过 npx 快速启动，需配置 Twilio API Key/Secret；支持 --services/--tags 过滤以应对 LLM 上下文限制，OpenAPI 包用 --apiPath 指定规范文件位置。文档标注为 Alpha 阶段，并建议不要与社区 MCP 服务器混用以防范注入攻击。",
+  "highlights": [
+   "将 Twilio 全部公开 API 暴露为 MCP 工具",
+   "openapi-mcp-server 可从任意 OpenAPI 规范生成 MCP 服务器",
+   "支持 --services/--tags 过滤暴露的 API 子集",
+   "通过 npx 启动，无需本地构建"
+  ],
+  "use_cases": [
+   "让支持 MCP 的 AI 助手直接调用 Twilio 的短信、语音等 API",
+   "把已有的 OpenAPI 接口快速转成 MCP 工具供 AI 客户端使用",
+   "按服务/标签筛选 API 子集以适配 LLM 上下文限制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    1
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "API集成",
+   "OpenAPI",
+   "Twilio",
+   "AI工具接入"
+  ],
+  "domain": "开发者工具/AI 接入",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: This is a monorepo for the Model Context Protocol server that exposes all of Twilio APIs.",
+   "L8: The Model Context Protocol (MCP) is a protocol for exchanging model context information between AI tools and services. T",
+   "L14: - mcp - MCP Server for all of Twilio's Public API",
+   "L15: - openapi-mcp-server - An MCP server that serves the given OpenAPI spec"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

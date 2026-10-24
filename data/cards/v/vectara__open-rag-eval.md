@@ -35,7 +35,7 @@ Vectara 开源的 Python RAG 评测工具包，核心指标 UMBRELA 与 AutoNugg
 
 ## 场景标签
 
- · 领域:LLM 基础设施/RAG 评测
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

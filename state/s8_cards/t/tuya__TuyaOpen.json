@@ -1,1 +1,79 @@
-{"fn": "tuya/TuyaOpen", "sha": "70bbe0fd81e0", "source": "readme", "identity": {"one_liner": "面向 IoT 硬件开发者的 AI+IoT 嵌入式 C/C++ SDK", "review": "涂鸦开源的跨平台 C/C++ 嵌入式开发框架，支持 Tuya T2/T3/T5 系列、ESP32、Ubuntu 等平台。开发者可用其构建带 ASR/KWS/TTS/STT 语音能力的硬件产品，接入 Deepseek、ChatGPT、Claude、Gemini 等 LLM，并连接涂鸦云实现远程控制、监控与 OTA 升级。框架内置设备认证与数据加密，支持 Google Home 与 Amazon Alexa 兼容设备开发。采用 Apache 2.0 许可。", "highlights": ["跨平台 C/C++ SDK，支持 Tuya T 系列、ESP32、Ubuntu 等目标平台", "支持 ASR/KWS/TTS/STT 语音技术与多模态 AI 硬件开发", "可接入 Deepseek、ChatGPT、Claude、Gemini 等 LLM 与 AI 平台", "连接涂鸦云实现远程控制、OTA 更新，内置安全与设备认证"], "use_cases": ["开发带语音交互的智能硬件产品", "将 LLM 与多模态 AI 能力集成到 IoT 设备", "构建可接入涂鸦云并支持 OTA 的联网设备"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["IoT开发", "嵌入式SDK", "AI Agent硬件", "语音交互"], "domain": "IoT/嵌入式开发", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中文版 README（L31）", "涂鸦（Tuya）公司维护", "支持通义千问、豆包等模型（L35）"]}, "trust": {"confidence": "high", "evidence": ["L35: TuyaOpen powers next-gen AI-agent hardware: it supports gear (Tuya T-Series WIFI/BT MCUs, Pi, ESP32s) via its flexible, ", "L40: - Develop hardware products featuring speech technologies such as `ASR` (Automatic Speech Recognition), `KWS` (Keyword S", "L41: - Integrate with leading LLMs and AI platforms, including `Deepseek`, `ChatGPT`, `Claude`, `Gemini`, and more."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tuya/TuyaOpen",
+ "sha": "70bbe0fd81e0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 IoT 硬件开发者的 AI+IoT 嵌入式 C/C++ SDK",
+  "review": "涂鸦开源的跨平台 C/C++ 嵌入式开发框架，支持 Tuya T2/T3/T5 系列、ESP32、Ubuntu 等平台。开发者可用其构建带 ASR/KWS/TTS/STT 语音能力的硬件产品，接入 Deepseek、ChatGPT、Claude、Gemini 等 LLM，并连接涂鸦云实现远程控制、监控与 OTA 升级。框架内置设备认证与数据加密，支持 Google Home 与 Amazon Alexa 兼容设备开发。采用 Apache 2.0 许可。",
+  "highlights": [
+   "跨平台 C/C++ SDK，支持 Tuya T 系列、ESP32、Ubuntu 等目标平台",
+   "支持 ASR/KWS/TTS/STT 语音技术与多模态 AI 硬件开发",
+   "可接入 Deepseek、ChatGPT、Claude、Gemini 等 LLM 与 AI 平台",
+   "连接涂鸦云实现远程控制、OTA 更新，内置安全与设备认证"
+  ],
+  "use_cases": [
+   "开发带语音交互的智能硬件产品",
+   "将 LLM 与多模态 AI 能力集成到 IoT 设备",
+   "构建可接入涂鸦云并支持 OTA 的联网设备"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "IoT开发",
+   "嵌入式SDK",
+   "AI Agent硬件",
+   "语音交互"
+  ],
+  "domain": "IoT/嵌入式开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文版 README（L31）",
+   "涂鸦（Tuya）公司维护",
+   "支持通义千问、豆包等模型（L35）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: TuyaOpen powers next-gen AI-agent hardware: it supports gear (Tuya T-Series WIFI/BT MCUs, Pi, ESP32s) via its flexible, ",
+   "L40: - Develop hardware products featuring speech technologies such as `ASR` (Automatic Speech Recognition), `KWS` (Keyword S",
+   "L41: - Integrate with leading LLMs and AI platforms, including `Deepseek`, `ChatGPT`, `Claude`, `Gemini`, and more."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

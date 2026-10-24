@@ -1,1 +1,78 @@
-{"fn": "victorb/dogoap", "sha": "6890dfbb039b", "source": "readme", "identity": {"one_liner": "数据导向 GOAP 库，为 Bevy 游戏 NPC 提供目标导向行动计划", "review": "Rust 实现的 Goal-Oriented Action Planning 库，采用数据导向设计，支持在运行时动态设置状态、动作与目标，而非仅编译期定义。规划器根据定义的目标自动推算实体需执行的动作序列（如移动、拾取、放置等依赖任务）。同时提供 bevy_dogoap 集成包，通过 DatumComponent/ActionComponent 组件接入 Bevy ECS，另有独立的 dogoap 核心库可脱离 Bevy 使用。以 crates.io 包形式分发，面向游戏开发者构建 NPC 涌现式行为。", "highlights": ["数据导向 GOAP，支持运行时动态设置状态/动作/目标", "bevy_dogoap 提供 Bevy ECS 紧密集成（组件式 API）", "规划器自动推算实体达到目标所需的动作序列", "可脱离 Bevy 作为独立库使用"], "use_cases": ["为依赖链任务（取物→移动→放置）的 NPC 生成行动计划", "在 Bevy 游戏中实现 NPC 的涌现式行为", "介于 Utility AI 与 HTN 之间的 NPC 行为方案"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://victorb.itch.io/dogoap", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["游戏AI", "GOAP规划", "Bevy插件", "NPC行为", "Rust游戏开发"], "domain": "游戏开发/游戏 AI", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: > AKA DOGOAP - GOAP implemented in data-oriented way to facilitate dynamically setting up states/actions/goals rather th", "L10: > Includes bevy_dogoap which provides a neat Bevy integration of the dogoap library", "L23: - If you have NPCs that have to perform tasks that depend on each other (Move to A > pickup item X > move to B > drop it"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "victorb/dogoap",
+ "sha": "6890dfbb039b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数据导向 GOAP 库，为 Bevy 游戏 NPC 提供目标导向行动计划",
+  "review": "Rust 实现的 Goal-Oriented Action Planning 库，采用数据导向设计，支持在运行时动态设置状态、动作与目标，而非仅编译期定义。规划器根据定义的目标自动推算实体需执行的动作序列（如移动、拾取、放置等依赖任务）。同时提供 bevy_dogoap 集成包，通过 DatumComponent/ActionComponent 组件接入 Bevy ECS，另有独立的 dogoap 核心库可脱离 Bevy 使用。以 crates.io 包形式分发，面向游戏开发者构建 NPC 涌现式行为。",
+  "highlights": [
+   "数据导向 GOAP，支持运行时动态设置状态/动作/目标",
+   "bevy_dogoap 提供 Bevy ECS 紧密集成（组件式 API）",
+   "规划器自动推算实体达到目标所需的动作序列",
+   "可脱离 Bevy 作为独立库使用"
+  ],
+  "use_cases": [
+   "为依赖链任务（取物→移动→放置）的 NPC 生成行动计划",
+   "在 Bevy 游戏中实现 NPC 的涌现式行为",
+   "介于 Utility AI 与 HTN 之间的 NPC 行为方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://victorb.itch.io/dogoap",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏AI",
+   "GOAP规划",
+   "Bevy插件",
+   "NPC行为",
+   "Rust游戏开发"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: > AKA DOGOAP - GOAP implemented in data-oriented way to facilitate dynamically setting up states/actions/goals rather th",
+   "L10: > Includes bevy_dogoap which provides a neat Bevy integration of the dogoap library",
+   "L23: - If you have NPCs that have to perform tasks that depend on each other (Move to A > pickup item X > move to B > drop it"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

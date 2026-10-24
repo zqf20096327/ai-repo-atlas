@@ -1,1 +1,76 @@
-{"fn": "utra-robosoccer/soccerbot", "sha": "f7a391dea4db", "source": "readme", "identity": {"one_liner": "多伦多大学 RoboCup 人形机器人足球队的机器人软件栈", "review": "多伦多大学 UTRA RoboSoccer 团队（自 2017 年从零搭建机器人）的 Repo，覆盖机械、电控、嵌入式与软件子系统，基于 ROS/ROS2 控制名为 Bez 的人形机器人参加 RoboCup 人形组比赛。软件包含双足步态控制（soccer_pycontrol）、轨迹测试、基于 PyTorch/Ultralytics 的物体检测节点（soccer_object_detection，支持 Jetson/aarch64 上的 Torch 安装）、URDF/Xacro 模型生成（配合 Blender/Phobos）与 Webots 仿真（提供 Docker 镜像 CI）。README 主要是团队命令记录式说明，正式上手文档在 GitHub Wiki。", "highlights": ["基于 ROS2 的双足步态控制与行走测试模块", "PyTorch + Ultralytics 物体检测节点，含 Jetson aarch64 安装路径", "提供 Docker 镜像与 Webots 仿真 Docker 镜像 CI", "Xacro/URDF 机器人模型生成（配合 Blender 与 Phobos）"], "use_cases": ["在实体机器人或仿真中运行 RoboCup 人形组足球比赛软件", "机器人步态与轨迹的 pytest 实机测试", "参考高校机器人团队的 ROS2 软件组织方式"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RoboCup", "人形机器人", "ROS2", "机器人足球", "物体检测"], "domain": "机器人/具身智能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L11: The initial efforts to form new team within UTRA began summer 2016. However, it was not until summer 2017 that we were w", "L50: pytest src/soccerbot/soccer_object_detection/src/soccer_object_detection/test_object_detection.py::TestObjectDetection::", "L53: Torch https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "utra-robosoccer/soccerbot",
+ "sha": "f7a391dea4db",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多伦多大学 RoboCup 人形机器人足球队的机器人软件栈",
+  "review": "多伦多大学 UTRA RoboSoccer 团队（自 2017 年从零搭建机器人）的 Repo，覆盖机械、电控、嵌入式与软件子系统，基于 ROS/ROS2 控制名为 Bez 的人形机器人参加 RoboCup 人形组比赛。软件包含双足步态控制（soccer_pycontrol）、轨迹测试、基于 PyTorch/Ultralytics 的物体检测节点（soccer_object_detection，支持 Jetson/aarch64 上的 Torch 安装）、URDF/Xacro 模型生成（配合 Blender/Phobos）与 Webots 仿真（提供 Docker 镜像 CI）。README 主要是团队命令记录式说明，正式上手文档在 GitHub Wiki。",
+  "highlights": [
+   "基于 ROS2 的双足步态控制与行走测试模块",
+   "PyTorch + Ultralytics 物体检测节点，含 Jetson aarch64 安装路径",
+   "提供 Docker 镜像与 Webots 仿真 Docker 镜像 CI",
+   "Xacro/URDF 机器人模型生成（配合 Blender 与 Phobos）"
+  ],
+  "use_cases": [
+   "在实体机器人或仿真中运行 RoboCup 人形组足球比赛软件",
+   "机器人步态与轨迹的 pytest 实机测试",
+   "参考高校机器人团队的 ROS2 软件组织方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RoboCup",
+   "人形机器人",
+   "ROS2",
+   "机器人足球",
+   "物体检测"
+  ],
+  "domain": "机器人/具身智能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L11: The initial efforts to form new team within UTRA began summer 2016. However, it was not until summer 2017 that we were w",
+   "L50: pytest src/soccerbot/soccer_object_detection/src/soccer_object_detection/test_object_detection.py::TestObjectDetection::",
+   "L53: Torch https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

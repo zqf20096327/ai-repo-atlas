@@ -33,7 +33,7 @@ NVIDIA 维护的推理工具包，将 PyTorch、TensorFlow、ONNX 模型与 Pyth
 
 ## 场景标签
 
- · 领域:深度学习推理基础设施
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

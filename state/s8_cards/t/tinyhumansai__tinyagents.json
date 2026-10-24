@@ -1,1 +1,86 @@
-{"fn": "tinyhumansai/tinyagents", "sha": "2c1178fc8114", "source": "readme", "identity": {"one_liner": "面向 Rust 的供应商中立 agent 框架与持久化状态图运行时", "review": "以 Cargo workspace 形式提供的 Rust agent 框架，包含多个 crate：harness 提供供应商中立的模型调用、类型化工具、中间件、结构化输出与用量/成本核算；graph 提供 LangGraph 风格的持久化类型状态图（checkpoint、中断、子图、时间旅行）；另有会话存储、能力注册表、实时语音 agent 与多 agent 编排等 crate。所有 provider 走 OpenAI Chat Completions 兼容格式，内置 OpenAI/Anthropic/DeepSeek/Groq/xAI/OpenRouter/Together/Mistral/Ollama 预设。crates 未发布到 crates.io，需以 git/path 依赖引入，GPL-3.0-only 许可。", "highlights": ["供应商中立模型调用，单一 OpenAI 兼容适配器覆盖全部内置 provider（含本地 Ollama）", "持久化类型状态图：checkpoint、中断、子图、时间旅行、Send fanout", "SQLite 会话存储：历史、工具调用、成本与运行谱系", "实时语音 agent 会话，工具调用经过统一准入与中间件管线"], "use_cases": ["Rust 服务中构建可恢复、可审查的模型/工具循环", "用类型化状态图编排带 checkpoint 与中断的工作流", "搭建多 agent 编排与子 agent 调度", "接入本地或多家 LLM provider 而不绑定单一 SDK"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent框架", "Rust", "LLM基础设施", "工作流编排", "多agent"], "domain": "LLM 基础设施/agent 框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "deepseek", "groq", "openrouter", "ollama"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: TinyAgents is a small, provider-neutral agent harness for Rust, plus a durable", "L16: It is for Rust services that need to call models and tools in a loop, want", "L24: - **`tinyagents-harness`** — provider-neutral model calls, typed tools,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tinyhumansai/tinyagents",
+ "sha": "2c1178fc8114",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Rust 的供应商中立 agent 框架与持久化状态图运行时",
+  "review": "以 Cargo workspace 形式提供的 Rust agent 框架，包含多个 crate：harness 提供供应商中立的模型调用、类型化工具、中间件、结构化输出与用量/成本核算；graph 提供 LangGraph 风格的持久化类型状态图（checkpoint、中断、子图、时间旅行）；另有会话存储、能力注册表、实时语音 agent 与多 agent 编排等 crate。所有 provider 走 OpenAI Chat Completions 兼容格式，内置 OpenAI/Anthropic/DeepSeek/Groq/xAI/OpenRouter/Together/Mistral/Ollama 预设。crates 未发布到 crates.io，需以 git/path 依赖引入，GPL-3.0-only 许可。",
+  "highlights": [
+   "供应商中立模型调用，单一 OpenAI 兼容适配器覆盖全部内置 provider（含本地 Ollama）",
+   "持久化类型状态图：checkpoint、中断、子图、时间旅行、Send fanout",
+   "SQLite 会话存储：历史、工具调用、成本与运行谱系",
+   "实时语音 agent 会话，工具调用经过统一准入与中间件管线"
+  ],
+  "use_cases": [
+   "Rust 服务中构建可恢复、可审查的模型/工具循环",
+   "用类型化状态图编排带 checkpoint 与中断的工作流",
+   "搭建多 agent 编排与子 agent 调度",
+   "接入本地或多家 LLM provider 而不绑定单一 SDK"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "Rust",
+   "LLM基础设施",
+   "工作流编排",
+   "多agent"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "groq",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: TinyAgents is a small, provider-neutral agent harness for Rust, plus a durable",
+   "L16: It is for Rust services that need to call models and tools in a loop, want",
+   "L24: - **`tinyagents-harness`** — provider-neutral model calls, typed tools,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

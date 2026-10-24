@@ -1,1 +1,81 @@
-{"fn": "tinyhumansai/opencompany", "sha": "f242e70c35cd", "source": "readme", "identity": {"one_liner": "一人公司的多智能体运行时：让 agent 群组代跑各项业务", "review": "面向单人经营者的公司运行时：以 Rust 实现的宿主按 company.toml 实例化一组职能 agent（工程、市场、法务等），以'蜂群' desks 机制在房间内并发对话、互发消息直至任务收敛，路由经 TinyHumans 代理调用 Jev 路由模型，需 TinyHumans API key 才能执行实际工作。内置 22 种业务模板，明示人类保留的审批节点。提供 macOS 桌面安装包、Docker/Podman 快速启动与源码构建三种方式；自托管不外发数据。自述为进行中、非生产就绪。", "highlights": ["22 种业务模板（软件公司/律所/VC 等）开箱即启动", "desks 蜂群机制：agent 并发对话、DM、广播，episode 有收敛与回合上限", "company.toml 声明角色与权限，opencompany check 校验配置", "全量日志留痕，重载后可从 journal 重建"], "use_cases": ["我一个人创业，想让 agent 群组代跑市场、工程、支持等职能", "按业务模板快速启动一个多智能体公司并保留关键审批权", "自托管运行并审计 agent 之间的全部协作记录"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://tinyhumans.ai/opencompany", "self_declared_early": {"flag": true, "lines": [25, 27, 28]}}, "links": {"scenario_tags": ["多智能体编排", "一人公司/自动化运营", "agent组织模拟", "自托管"], "domain": "AI 应用/业务自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7:  OpenCompany is the operating layer for one-person businesses powered by", "L52: That tax is gone. OpenCompany turns a single operator into a full org chart.", "L58: This isn't a chatbot with a to-do list, and it isn't a pipeline of agents"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tinyhumansai/opencompany",
+ "sha": "f242e70c35cd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一人公司的多智能体运行时：让 agent 群组代跑各项业务",
+  "review": "面向单人经营者的公司运行时：以 Rust 实现的宿主按 company.toml 实例化一组职能 agent（工程、市场、法务等），以'蜂群' desks 机制在房间内并发对话、互发消息直至任务收敛，路由经 TinyHumans 代理调用 Jev 路由模型，需 TinyHumans API key 才能执行实际工作。内置 22 种业务模板，明示人类保留的审批节点。提供 macOS 桌面安装包、Docker/Podman 快速启动与源码构建三种方式；自托管不外发数据。自述为进行中、非生产就绪。",
+  "highlights": [
+   "22 种业务模板（软件公司/律所/VC 等）开箱即启动",
+   "desks 蜂群机制：agent 并发对话、DM、广播，episode 有收敛与回合上限",
+   "company.toml 声明角色与权限，opencompany check 校验配置",
+   "全量日志留痕，重载后可从 journal 重建"
+  ],
+  "use_cases": [
+   "我一个人创业，想让 agent 群组代跑市场、工程、支持等职能",
+   "按业务模板快速启动一个多智能体公司并保留关键审批权",
+   "自托管运行并审计 agent 之间的全部协作记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://tinyhumans.ai/opencompany",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    25,
+    27,
+    28
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体编排",
+   "一人公司/自动化运营",
+   "agent组织模拟",
+   "自托管"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  OpenCompany is the operating layer for one-person businesses powered by",
+   "L52: That tax is gone. OpenCompany turns a single operator into a full org chart.",
+   "L58: This isn't a chatbot with a to-do list, and it isn't a pipeline of agents"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

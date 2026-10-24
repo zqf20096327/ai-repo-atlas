@@ -1,1 +1,88 @@
-{"fn": "timoncool/dub-studio", "sha": "d52cb0727839", "source": "readme", "identity": {"one_liner": "Windows 本地 AI 视频配音工作室：克隆原声译制视频并本地化字幕画面", "review": "面向 Windows 用户的离线 AI 视频配音桌面应用：将视频转成另一语言的配音版本，含声音克隆（Higgs Audio v3）、说话人分离（Nemotron 3）、ASR（Parakeet-TDT/Whisper）、本地翻译（Gemma-4 12B, llama.cpp）、人声分离、屏内文字 OCR 本地化与字幕烧录。Rust + C++/CUDA 单一原生 exe，模型与运行时首启按钮下载；需 NVIDIA GPU 8GB+ VRAM。提供实时编辑器、五种模式与批量处理，重型阶段可选经 OpenRouter 上云，运行时内建 MCP 服务供 AI agent 驱动。", "highlights": ["声音克隆 + 说话人分离 + 100+ 语言配音与多语言导出", "单一原生 .exe（Rust+C++/CUDA），模型与 ffmpeg 首启自动下载", "屏内文字 OCR 检测、模糊原图并叠印本地化标题", "运行时内建 MCP 服务，Claude Code/Cursor 等 agent 可全程驱动"], "use_cases": ["把外语视频配音成母语并保留原说话人音色", "为系列视频做角色 casting，续集自动沿用配音设定", "生成分角色字幕稿并导出 SRT/TXT", "用 AI agent 批量处理与修正配音项目"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": "local-ok", "hardware": "cpu-ok", "install_friction": "high", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [109]}}, "links": {"scenario_tags": ["AI配音", "视频翻译", "语音克隆", "本地推理", "桌面应用"], "domain": "视频配音/本地化工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "llama.cpp"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文界面语言"]}, "trust": {"confidence": "mid", "evidence": ["L5: **Free, offline AI video dubbing studio for Windows — re-voice any video into another language with a cloned voice, tran", "L21: **Dub Studio** turns any video into a dubbed version in another language — **with the speaker's own voice cloned, captio", "L23: By default everything runs **locally on your machine** — no cloud, no subscription; your footage and your voiceprint nev"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "timoncool/dub-studio",
+ "sha": "d52cb0727839",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 本地 AI 视频配音工作室：克隆原声译制视频并本地化字幕画面",
+  "review": "面向 Windows 用户的离线 AI 视频配音桌面应用：将视频转成另一语言的配音版本，含声音克隆（Higgs Audio v3）、说话人分离（Nemotron 3）、ASR（Parakeet-TDT/Whisper）、本地翻译（Gemma-4 12B, llama.cpp）、人声分离、屏内文字 OCR 本地化与字幕烧录。Rust + C++/CUDA 单一原生 exe，模型与运行时首启按钮下载；需 NVIDIA GPU 8GB+ VRAM。提供实时编辑器、五种模式与批量处理，重型阶段可选经 OpenRouter 上云，运行时内建 MCP 服务供 AI agent 驱动。",
+  "highlights": [
+   "声音克隆 + 说话人分离 + 100+ 语言配音与多语言导出",
+   "单一原生 .exe（Rust+C++/CUDA），模型与 ffmpeg 首启自动下载",
+   "屏内文字 OCR 检测、模糊原图并叠印本地化标题",
+   "运行时内建 MCP 服务，Claude Code/Cursor 等 agent 可全程驱动"
+  ],
+  "use_cases": [
+   "把外语视频配音成母语并保留原说话人音色",
+   "为系列视频做角色 casting，续集自动沿用配音设定",
+   "生成分角色字幕稿并导出 SRT/TXT",
+   "用 AI agent 批量处理与修正配音项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "high",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    109
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI配音",
+   "视频翻译",
+   "语音克隆",
+   "本地推理",
+   "桌面应用"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "tts",
+   "asr",
+   "ocr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文界面语言"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **Free, offline AI video dubbing studio for Windows — re-voice any video into another language with a cloned voice, tran",
+   "L21: **Dub Studio** turns any video into a dubbed version in another language — **with the speaker's own voice cloned, captio",
+   "L23: By default everything runs **locally on your machine** — no cloud, no subscription; your footage and your voiceprint nev"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

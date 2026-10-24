@@ -1,1 +1,75 @@
-{"fn": "vecartier/cc-beeper", "sha": "b1827b6b5689", "source": "readme", "identity": {"one_liner": "macOS 桌面挂件：实时查看 Claude Code 状态并语音应答权限请求", "review": "用 Swift/SwiftUI 编写的 macOS 浮动桌面挂件，通过本地 HTTP 服务器与注册在 ~/.claude/settings.json 的 7 个 hook 脚本跟踪 Claude Code 会话，显示 8 种状态（含权限请求、提问、错误），支持远程批准/拒绝权限，提供 Strict/Relaxed/Trusted/YOLO 四档自动接受模式。语音功能含 WhisperKit/Apple Speech 离线听写与 Kokoro TTS 朗读，全部本地运行、无外发连接。要求 macOS 14+ 与 Claude Code CLI，通过 DMG 安装。", "highlights": ["跟踪 Claude Code 8 种状态并支持 ⌥A/⌥D 远程批准或拒绝权限", "WhisperKit/Apple Speech 本地听写（99 种语言）与 Kokoro 本地朗读（54 声音）", "4 档自动接受模式，可随时在菜单栏切换", "全部本地通信（127.0.0.1），无遥测与外发连接"], "use_cases": ["终端被遮挡时不错过 Claude Code 的完成、报错或权限请求", "用语音口述提示词或回答 Claude 的提问，双手不离键盘工作流", "多会话并行时在一个挂件上掌握所有 Claude Code 实例状态"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://github.com/user-attachments/assets/9df11591-ec91-4ddb-8cbe-a6c4b2a41c9a", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Claude Code 伴侣工具", "桌面挂件", "语音听写", "开发效率工具", "macOS 原生应用"], "domain": "开发者工具/桌面应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L116: CC-Beeper binds to a local port (19222-19230) on launch and registers 7 hook scripts in `~/.claude/settings.json`: UserP", "L94: **Requirements:** macOS 14 Sonoma+ · Claude Code CLI"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vecartier/cc-beeper",
+ "sha": "b1827b6b5689",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 桌面挂件：实时查看 Claude Code 状态并语音应答权限请求",
+  "review": "用 Swift/SwiftUI 编写的 macOS 浮动桌面挂件，通过本地 HTTP 服务器与注册在 ~/.claude/settings.json 的 7 个 hook 脚本跟踪 Claude Code 会话，显示 8 种状态（含权限请求、提问、错误），支持远程批准/拒绝权限，提供 Strict/Relaxed/Trusted/YOLO 四档自动接受模式。语音功能含 WhisperKit/Apple Speech 离线听写与 Kokoro TTS 朗读，全部本地运行、无外发连接。要求 macOS 14+ 与 Claude Code CLI，通过 DMG 安装。",
+  "highlights": [
+   "跟踪 Claude Code 8 种状态并支持 ⌥A/⌥D 远程批准或拒绝权限",
+   "WhisperKit/Apple Speech 本地听写（99 种语言）与 Kokoro 本地朗读（54 声音）",
+   "4 档自动接受模式，可随时在菜单栏切换",
+   "全部本地通信（127.0.0.1），无遥测与外发连接"
+  ],
+  "use_cases": [
+   "终端被遮挡时不错过 Claude Code 的完成、报错或权限请求",
+   "用语音口述提示词或回答 Claude 的提问，双手不离键盘工作流",
+   "多会话并行时在一个挂件上掌握所有 Claude Code 实例状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/9df11591-ec91-4ddb-8cbe-a6c4b2a41c9a",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 伴侣工具",
+   "桌面挂件",
+   "语音听写",
+   "开发效率工具",
+   "macOS 原生应用"
+  ],
+  "domain": "开发者工具/桌面应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L116: CC-Beeper binds to a local port (19222-19230) on launch and registers 7 hook scripts in `~/.claude/settings.json`: UserP",
+   "L94: **Requirements:** macOS 14 Sonoma+ · Claude Code CLI"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

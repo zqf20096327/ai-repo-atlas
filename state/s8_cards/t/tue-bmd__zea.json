@@ -1,1 +1,76 @@
-{"fn": "tue-bmd/zea", "sha": "c26eec86c89e", "source": "readme", "identity": {"one_liner": "认知超声成像工具箱：信号处理、图像重建与深度学习", "review": "基于 Keras 3 的 Python 超声成像库，提供可微分信号处理与图像重建 Pipeline、超声数据加载工具（支持 Hugging Face 数据集流式读取）、Hugging Face 托管的预训练模型，以及用于认知超声的动作选择 Agent（决定下一步采集哪些扫描线）。后端可运行于 JAX、PyTorch 或 TensorFlow。通过 pip 安装，需自行安装其中一种 Keras 后端；附 Colab 示例笔记本与 JOSS 论文。", "highlights": ["可微分的信号处理与图像重建 Pipeline", "Hugging Face 数据集流式加载，仅读取所需帧", "Hugging Face 托管的预训练超声模型", "认知超声 Agent：动作决定下一步采集设计"], "use_cases": ["我在做超声深度学习研究，需要信号处理与重建管线", "我想流式读取超声数据集训练模型", "我需要预训练超声模型直接做图像与信号处理"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/zea-joss（README 仅示 arXiv 徽章，未见具体链接，故置 null）", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["超声成像", "医学影像", "深度学习", "信号处理", "JAX/Keras"], "domain": "医学影像/超声", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L23: `zea` is a Python library for ultrasound signal processing, image reconstruction, and deep learning. It is built on Kera", "L50:  🔧&nbsp; Pipeline", "L56:  🧠&nbsp; Models"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tue-bmd/zea",
+ "sha": "c26eec86c89e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "认知超声成像工具箱：信号处理、图像重建与深度学习",
+  "review": "基于 Keras 3 的 Python 超声成像库，提供可微分信号处理与图像重建 Pipeline、超声数据加载工具（支持 Hugging Face 数据集流式读取）、Hugging Face 托管的预训练模型，以及用于认知超声的动作选择 Agent（决定下一步采集哪些扫描线）。后端可运行于 JAX、PyTorch 或 TensorFlow。通过 pip 安装，需自行安装其中一种 Keras 后端；附 Colab 示例笔记本与 JOSS 论文。",
+  "highlights": [
+   "可微分的信号处理与图像重建 Pipeline",
+   "Hugging Face 数据集流式加载，仅读取所需帧",
+   "Hugging Face 托管的预训练超声模型",
+   "认知超声 Agent：动作决定下一步采集设计"
+  ],
+  "use_cases": [
+   "我在做超声深度学习研究，需要信号处理与重建管线",
+   "我想流式读取超声数据集训练模型",
+   "我需要预训练超声模型直接做图像与信号处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/zea-joss（README 仅示 arXiv 徽章，未见具体链接，故置 null）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "超声成像",
+   "医学影像",
+   "深度学习",
+   "信号处理",
+   "JAX/Keras"
+  ],
+  "domain": "医学影像/超声",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: `zea` is a Python library for ultrasound signal processing, image reconstruction, and deep learning. It is built on Kera",
+   "L50:  🔧&nbsp; Pipeline",
+   "L56:  🧠&nbsp; Models"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

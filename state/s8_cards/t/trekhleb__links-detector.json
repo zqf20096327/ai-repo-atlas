@@ -1,1 +1,79 @@
-{"fn": "trekhleb/links-detector", "sha": "bb0bcb99668a", "source": "readme", "identity": {"one_liner": "用手机摄像头识别印刷链接并转为可点击的 Web 应用", "review": "纯前端 React（TypeScript）PWA 应用：通过智能手机摄像头检测书籍杂志上印刷的 URL，经识别后转为可点击链接，无需手动逐字输入。检测模型由 TensorFlow 2 Object Detection API 训练；识别在浏览器端完成，由 TensorFlow 与 Tesseract.js 实现，依赖 WebGL 与 WebAssembly，不向服务器发送图像。基于 Workbox 实现资源缓存与离线可用。README 声明应用处于实验性 Alpha 阶段，存在较多问题与限制。", "highlights": ["摄像头检测并识别印刷链接，转为一次点击", "纯前端推理，图像不发送服务器，依赖 WebGL/WebAssembly", "检测模型由 TensorFlow 2 Object Detection API 训练", "PWA 支持，可离线缓存并安装为独立应用"], "use_cases": ["读书看杂志时不想逐字输入印刷链接，扫一下直接访问", "把纸质资料上的 URL 快速转到手机浏览器"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [25]}}, "links": {"scenario_tags": ["OCR", "目标检测", "PWA", "TensorFlow.js", "实用工具"], "domain": "计算机视觉/OCR 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17: Similarly to QR-code detection, we may try to \"teach\" the smartphone to _detect_ and _recognize_ printed links for us an", "L39: Links detection and recognition happens by means of TensorFlow and Tesseract.js libraries which in turn rely on WebGL an"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "trekhleb/links-detector",
+ "sha": "bb0bcb99668a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用手机摄像头识别印刷链接并转为可点击的 Web 应用",
+  "review": "纯前端 React（TypeScript）PWA 应用：通过智能手机摄像头检测书籍杂志上印刷的 URL，经识别后转为可点击链接，无需手动逐字输入。检测模型由 TensorFlow 2 Object Detection API 训练；识别在浏览器端完成，由 TensorFlow 与 Tesseract.js 实现，依赖 WebGL 与 WebAssembly，不向服务器发送图像。基于 Workbox 实现资源缓存与离线可用。README 声明应用处于实验性 Alpha 阶段，存在较多问题与限制。",
+  "highlights": [
+   "摄像头检测并识别印刷链接，转为一次点击",
+   "纯前端推理，图像不发送服务器，依赖 WebGL/WebAssembly",
+   "检测模型由 TensorFlow 2 Object Detection API 训练",
+   "PWA 支持，可离线缓存并安装为独立应用"
+  ],
+  "use_cases": [
+   "读书看杂志时不想逐字输入印刷链接，扫一下直接访问",
+   "把纸质资料上的 URL 快速转到手机浏览器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    25
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OCR",
+   "目标检测",
+   "PWA",
+   "TensorFlow.js",
+   "实用工具"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "ocr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: Similarly to QR-code detection, we may try to \"teach\" the smartphone to _detect_ and _recognize_ printed links for us an",
+   "L39: Links detection and recognition happens by means of TensorFlow and Tesseract.js libraries which in turn rely on WebGL an"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

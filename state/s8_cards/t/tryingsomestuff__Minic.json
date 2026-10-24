@@ -1,1 +1,74 @@
-{"fn": "tryingsomestuff/Minic", "sha": "98da62d1cb0d", "source": "readme", "identity": {"one_liner": "开源国际象棋引擎：NNUE 评估 + 搜索，UCI/CECP 协议", "review": "个人开发者在 2018 年以周末项目起步的 C++ 国际象棋引擎，无 GUI，通过 UCI 与 CECP 协议接入 Cutechess、Arena、Winboard 等界面软件使用。评估采用借鉴 Seer 实现并自行改造的 NNUE 网络（自版本 3.00 起不再兼容 Stockfish NNUE 实现与 SF 网络），训练代码为独立的 Python 工具，数据由引擎自身生成或用旧版本重标注。支持多线程（测试显示 250 线程下 1 亿 NPS），NNUE 建议在 AVX2 硬件上运行。源码与二进制两种获取方式。", "highlights": ["NNUE 评估网络（自 Seer 实现改造，网络不跨版本兼容）", "UCI 与 CECP 双协议，可在 Cutechess/Arena/Winboard 等软件中使用", "多线程搜索，README 给出最多 250 线程的速度测试数据", "独立的 Python 训练工具，数据由引擎自身生成或重标注"], "use_cases": ["在支持 UCI 的棋类界面软件中作为对弈引擎", "参加计算机国际象棋赛事或评级列表测试", "学习国际象棋引擎编程与 NNUE 训练流程"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["国际象棋引擎", "NNUE", "博弈搜索", "C++"], "domain": "游戏/棋类 AI", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L35: #### NNUE from release 2.47 to release 2.53 (from Stockfish implementation)", "L70: - Inference code : originally based on Seer's one (Connor McMonigle), with many refactorings and experiments inside (cli"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tryingsomestuff/Minic",
+ "sha": "98da62d1cb0d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源国际象棋引擎：NNUE 评估 + 搜索，UCI/CECP 协议",
+  "review": "个人开发者在 2018 年以周末项目起步的 C++ 国际象棋引擎，无 GUI，通过 UCI 与 CECP 协议接入 Cutechess、Arena、Winboard 等界面软件使用。评估采用借鉴 Seer 实现并自行改造的 NNUE 网络（自版本 3.00 起不再兼容 Stockfish NNUE 实现与 SF 网络），训练代码为独立的 Python 工具，数据由引擎自身生成或用旧版本重标注。支持多线程（测试显示 250 线程下 1 亿 NPS），NNUE 建议在 AVX2 硬件上运行。源码与二进制两种获取方式。",
+  "highlights": [
+   "NNUE 评估网络（自 Seer 实现改造，网络不跨版本兼容）",
+   "UCI 与 CECP 双协议，可在 Cutechess/Arena/Winboard 等软件中使用",
+   "多线程搜索，README 给出最多 250 线程的速度测试数据",
+   "独立的 Python 训练工具，数据由引擎自身生成或重标注"
+  ],
+  "use_cases": [
+   "在支持 UCI 的棋类界面软件中作为对弈引擎",
+   "参加计算机国际象棋赛事或评级列表测试",
+   "学习国际象棋引擎编程与 NNUE 训练流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "国际象棋引擎",
+   "NNUE",
+   "博弈搜索",
+   "C++"
+  ],
+  "domain": "游戏/棋类 AI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: #### NNUE from release 2.47 to release 2.53 (from Stockfish implementation)",
+   "L70: - Inference code : originally based on Seer's one (Connor McMonigle), with many refactorings and experiments inside (cli"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

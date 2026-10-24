@@ -32,7 +32,7 @@ Telekinesis Agentic OS 的示例仓库：Telekinesis 是面向通用机器人的
 
 ## 场景标签
 
- · 领域:机器人/物理 AI
+`目标检测` `多模态` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

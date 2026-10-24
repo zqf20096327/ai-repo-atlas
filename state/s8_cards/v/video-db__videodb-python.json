@@ -1,1 +1,81 @@
-{"fn": "video-db/videodb-python", "sha": "932271f32a7d", "source": "readme", "identity": {"one_liner": "VideoDB 云视频基础设施的 Python SDK", "review": "由 VideoDB 团队维护的官方 Python SDK，通过 API key 访问其 serverless 视频基础设施。功能覆盖媒体上传（含 YouTube URL）、Understand→Index→Retrieve 三段式检索管线（转录、VLM、目标检测、OCR 等分析器）、语义搜索、多轨视频编辑、实时流处理、桌面录屏、会议录制、AI 生成图像/音频、视频配音翻译与转码。需 VideoDB 账号与 API key，前 50 次上传免费。", "highlights": ["Understand→Index→Retrieve 检索管线，分析产物可复用并建多种索引", "内置分析器：spoken_words、vlm、object_detection、ocr、brand_detection 等", "多轨时间线视频编辑器（Assets/Clips/Tracks/Timeline 四层架构）", "生成式媒体、视频配音翻译、会议录制与桌面录屏采集"], "use_cases": ["在 AI 应用中对视频库做语义搜索与场景检索", "用代码批量生成转录、字幕与视频剪辑", "录制会议或桌面并实时处理转录事件", "为视频内容做多语言配音与翻译"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://videodb.io/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["视频理解", "多模态检索", "RAG", "媒体处理SDK", "云API客户端"], "domain": "多媒体/视频 AI 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10:  VideoDB Python SDK", "L24: VideoDB Python SDK provides programmatic access to VideoDB's serverless video infrastructure. Build AI applications that"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "video-db/videodb-python",
+ "sha": "932271f32a7d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "VideoDB 云视频基础设施的 Python SDK",
+  "review": "由 VideoDB 团队维护的官方 Python SDK，通过 API key 访问其 serverless 视频基础设施。功能覆盖媒体上传（含 YouTube URL）、Understand→Index→Retrieve 三段式检索管线（转录、VLM、目标检测、OCR 等分析器）、语义搜索、多轨视频编辑、实时流处理、桌面录屏、会议录制、AI 生成图像/音频、视频配音翻译与转码。需 VideoDB 账号与 API key，前 50 次上传免费。",
+  "highlights": [
+   "Understand→Index→Retrieve 检索管线，分析产物可复用并建多种索引",
+   "内置分析器：spoken_words、vlm、object_detection、ocr、brand_detection 等",
+   "多轨时间线视频编辑器（Assets/Clips/Tracks/Timeline 四层架构）",
+   "生成式媒体、视频配音翻译、会议录制与桌面录屏采集"
+  ],
+  "use_cases": [
+   "在 AI 应用中对视频库做语义搜索与场景检索",
+   "用代码批量生成转录、字幕与视频剪辑",
+   "录制会议或桌面并实时处理转录事件",
+   "为视频内容做多语言配音与翻译"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://videodb.io/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频理解",
+   "多模态检索",
+   "RAG",
+   "媒体处理SDK",
+   "云API客户端"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "semantic-search",
+   "multimodal",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10:  VideoDB Python SDK",
+   "L24: VideoDB Python SDK provides programmatic access to VideoDB's serverless video infrastructure. Build AI applications that"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

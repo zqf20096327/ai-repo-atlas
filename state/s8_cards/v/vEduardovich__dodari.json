@@ -1,1 +1,82 @@
-{"fn": "vEduardovich/dodari", "sha": "9f76874b6eba", "source": "readme", "identity": {"one_liner": "面向读者的多语言 AI 整书翻译工具：翻译 EPUB/PDF/TXT", "review": "Dodari 2 是多语言 AI 翻译应用，读取 EPUB、PDF、TXT 文档并生成译文，支持 12 种语言互译、自动语言与书籍体裁检测、可选翻译语气风格、术语表一致性。翻译引擎有两种：Claude/ChatGPT 订阅用户经官方 CLI（如 claude-haiku-5-5）调用自有订阅，或本地 Gemma 模型（Ollama/MLX/vLLM）。输出双语对照与纯译文两个文件；PDF 译文保存为 EPUB 以保留排版。以 Gradio Web 界面运行（127.0.0.1:7860），提供 Mac/Windows/Linux 启动脚本，另附给 Codex/Claude Code 的 AI 助手安装指引。本地模型路径对硬件有明确要求（Windows 推荐 24GB VRAM）。", "highlights": ["EPUB/PDF/TXT 整书翻译，输出原文对照与纯译文两份文件", "自动语言检测、体裁检测与可选取翻译风格", "支持 Claude/ChatGPT 订阅 CLI 或本地 Gemma 模型两种引擎", "AI 抽取术语表并在全书保持译名一致"], "use_cases": ["把外语小说或技术书整本翻译成母语阅读", "订阅了 Claude/ChatGPT 的用户用现有订阅完成翻译", "在本地电脑离线用 Gemma 模型翻译电子书"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": "gpu-24g", "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["电子书翻译", "多语言", "本地LLM", "Gradio", "阅读工具"], "domain": "文档翻译/电子书", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "vllm", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["韩英双语 README"]}, "trust": {"confidence": "mid", "evidence": ["L4: Dodari 2 is a multilingual AI translator that translates EPUB, PDF, and TXT documents with genre-aware, context-sensitiv", "L22: 1. Translates `EPUB (e-books)`, `PDF`, and `TXT` files.", "L31: 10. Claude and ChatGPT (Codex) subscribers can translate with their own subscription via the official CLI, and pick the "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vEduardovich/dodari",
+ "sha": "9f76874b6eba",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向读者的多语言 AI 整书翻译工具：翻译 EPUB/PDF/TXT",
+  "review": "Dodari 2 是多语言 AI 翻译应用，读取 EPUB、PDF、TXT 文档并生成译文，支持 12 种语言互译、自动语言与书籍体裁检测、可选翻译语气风格、术语表一致性。翻译引擎有两种：Claude/ChatGPT 订阅用户经官方 CLI（如 claude-haiku-5-5）调用自有订阅，或本地 Gemma 模型（Ollama/MLX/vLLM）。输出双语对照与纯译文两个文件；PDF 译文保存为 EPUB 以保留排版。以 Gradio Web 界面运行（127.0.0.1:7860），提供 Mac/Windows/Linux 启动脚本，另附给 Codex/Claude Code 的 AI 助手安装指引。本地模型路径对硬件有明确要求（Windows 推荐 24GB VRAM）。",
+  "highlights": [
+   "EPUB/PDF/TXT 整书翻译，输出原文对照与纯译文两份文件",
+   "自动语言检测、体裁检测与可选取翻译风格",
+   "支持 Claude/ChatGPT 订阅 CLI 或本地 Gemma 模型两种引擎",
+   "AI 抽取术语表并在全书保持译名一致"
+  ],
+  "use_cases": [
+   "把外语小说或技术书整本翻译成母语阅读",
+   "订阅了 Claude/ChatGPT 的用户用现有订阅完成翻译",
+   "在本地电脑离线用 Gemma 模型翻译电子书"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": "gpu-24g",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "电子书翻译",
+   "多语言",
+   "本地LLM",
+   "Gradio",
+   "阅读工具"
+  ],
+  "domain": "文档翻译/电子书",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "vllm",
+   "ollama"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "韩英双语 README"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: Dodari 2 is a multilingual AI translator that translates EPUB, PDF, and TXT documents with genre-aware, context-sensitiv",
+   "L22: 1. Translates `EPUB (e-books)`, `PDF`, and `TXT` files.",
+   "L31: 10. Claude and ChatGPT (Codex) subscribers can translate with their own subscription via the official CLI, and pick the "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

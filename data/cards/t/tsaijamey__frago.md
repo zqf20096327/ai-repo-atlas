@@ -33,7 +33,7 @@ frago 定位为 AI agent 操作系统（Agent OS），本体不产出模型，�
 
 ## 场景标签
 
- · 领域:AI agent 基础设施/自动化
+`浏览器自动化` `Agent 记忆` `多智能体` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

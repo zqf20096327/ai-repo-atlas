@@ -1,1 +1,82 @@
-{"fn": "ukairia777/tensorflow-nlp-tutorial", "sha": "b1187ec81f1f", "source": "readme", "identity": {"one_liner": "TensorFlow 2.0 NLP 教程仓库：预处理到 BERT/GPT/LLM 微调", "review": "配合韩文电子书《딥 러닝을 이용한 자연어 처리 입문》（wikidocs 1,200 页）的代码实践仓库，使用 TensorFlow 2.0+ 覆盖文本预处理、主题模型（BERTopic/CTM/KeyBERT）、BERT 文本分类与命名实体识别、KoGPT-2 文本生成，以及 LLM/VLM 微调（含 LoRA、DPO）与 RAG 实践。每个 py 文件附带 Colab 链接，可在 Chrome 中免本地 Python 安装直接运行，2022 年开库并持续更新至 2025 年。", "highlights": ["章节化覆盖预处理、主题模型、BERT、GPT、LLM/RAG 实践代码", "配套 1,200 页 wikidocs 电子书的理论说明", "每个练习文件附 Colab 链接，免本地环境运行", "更新记录含 LLM/VLM 微调与 RAG 章节（2025）"], "use_cases": ["系统学习 TensorFlow 版 NLP 从基础到 LLM 微调", "跟随电子书章节做 Colab 在线实操", "参考 BERT 分类、NER、KeyBERT、KoGPT-2 等下游任务代码"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://wikidocs.net/book/2155", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程", "NLP", "TensorFlow", "LLM微调", "RAG"], "domain": "自然语言处理/教学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["韩文 README 与韩文 wikidocs 电子书", "KoGPT-2 韩文模型实践"]}, "trust": {"confidence": "high", "evidence": ["L3: - A list of NLP(Natural Language Processing) tutorials built on Tensorflow 2.0.", "L27: * 2024년 02월 18일 : 24챕터 - **LLM 파인 튜닝** 실습 코드 추가.", "L28: * 2025년 06월 27일 : 21~25챕터 - **RAG 추가 및 LLM, VLM 파인 튜닝 코드** 실습 코드 추가."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ukairia777/tensorflow-nlp-tutorial",
+ "sha": "b1187ec81f1f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TensorFlow 2.0 NLP 教程仓库：预处理到 BERT/GPT/LLM 微调",
+  "review": "配合韩文电子书《딥 러닝을 이용한 자연어 처리 입문》（wikidocs 1,200 页）的代码实践仓库，使用 TensorFlow 2.0+ 覆盖文本预处理、主题模型（BERTopic/CTM/KeyBERT）、BERT 文本分类与命名实体识别、KoGPT-2 文本生成，以及 LLM/VLM 微调（含 LoRA、DPO）与 RAG 实践。每个 py 文件附带 Colab 链接，可在 Chrome 中免本地 Python 安装直接运行，2022 年开库并持续更新至 2025 年。",
+  "highlights": [
+   "章节化覆盖预处理、主题模型、BERT、GPT、LLM/RAG 实践代码",
+   "配套 1,200 页 wikidocs 电子书的理论说明",
+   "每个练习文件附 Colab 链接，免本地环境运行",
+   "更新记录含 LLM/VLM 微调与 RAG 章节（2025）"
+  ],
+  "use_cases": [
+   "系统学习 TensorFlow 版 NLP 从基础到 LLM 微调",
+   "跟随电子书章节做 Colab 在线实操",
+   "参考 BERT 分类、NER、KeyBERT、KoGPT-2 等下游任务代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://wikidocs.net/book/2155",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "NLP",
+   "TensorFlow",
+   "LLM微调",
+   "RAG"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "韩文 README 与韩文 wikidocs 电子书",
+   "KoGPT-2 韩文模型实践"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: - A list of NLP(Natural Language Processing) tutorials built on Tensorflow 2.0.",
+   "L27: * 2024년 02월 18일 : 24챕터 - **LLM 파인 튜닝** 실습 코드 추가.",
+   "L28: * 2025년 06월 27일 : 21~25챕터 - **RAG 추가 및 LLM, VLM 파인 튜닝 코드** 실습 코드 추가."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,92 @@
-{"fn": "tubecreate/tubecli", "sha": "3e04db055748", "source": "readme", "identity": {"one_liner": "自托管 AI agent 团队：用自然语言完成视频制作、建站部署与浏览器自动化", "review": "TubeCLI 是基于 Python 3.10+/FastAPI 的自托管多 agent 系统：用户通过 CLI、Web 仪表盘、Telegram 或 Flow 画布用自然语言下达任务，由 agent 团队执行视频生成流水线（脚本→分镜→配图→配音→渲染→Drive/YouTube）、Cloudflare 建站九步部署、浏览器自动化（反检测配置文件、Keychain 凭据库）、字幕提取/翻译/克隆等操作。LLM 调用可全走本地 Ollama（无 API key）或 Gemini/OpenAI/Claude 等自带 key 的服务，常见流程走零 token 快速路径。不可逆操作需人工审批，任务带 JSONL 审计轨迹。MIT 许可，允许转售与白标。", "highlights": ["content_video 流水线：语料→脚本→分镜→图片→配音→Canvas Engine 渲染→Drive/YouTube，渲染可断点续传", "LLM 可全走本地 Ollama，无需 API key；常见流程用零 token 确定性意图匹配", "AI 创建的不可逆任务（部署/发布/删除）进入 pending_approval 等待人工审批", "浏览器自动化：反检测配置文件、代理/指纹、Keychain 密码库、TOTP 2FA"], "use_cases": ["让 agent 把当天读过的文章自动做成带配音的 YouTube 视频", "一句话让 agent 在自己的 Cloudflare 账号上部署一个真实网站", "自动化登录、下载、发布等重复浏览器操作，必要时人工接管", "把视频克隆成其他语言版本（新配音、同画面）"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": [], "note": "仅个别子功能（硬字幕去除）标注 experimental，非整体"}}, "links": {"scenario_tags": ["多agent编排", "视频生成", "浏览器自动化", "自托管", "内容创作"], "domain": "AI Agent 自动化/内容生产", "alternative_to": [], "competitors_mentioned": ["Dify"], "ecosystem_compat": ["ollama", "anthropic", "deepseek", "xai", "openrouter"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["多语言 README 含简体/繁体中文", "install-cn.sh 支持中国大陆机器安装"]}, "trust": {"confidence": "mid", "evidence": ["L22: **TubeCLI is a self-hosted, open-source AI agent team that executes real operational work end to end.** It is not a chat", "L95: **Models:** every LLM call runs on local Ollama — no API key, no per-token cost — or on Gemini, OpenAI, Claude, DeepSeek"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tubecreate/tubecli",
+ "sha": "3e04db055748",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI agent 团队：用自然语言完成视频制作、建站部署与浏览器自动化",
+  "review": "TubeCLI 是基于 Python 3.10+/FastAPI 的自托管多 agent 系统：用户通过 CLI、Web 仪表盘、Telegram 或 Flow 画布用自然语言下达任务，由 agent 团队执行视频生成流水线（脚本→分镜→配图→配音→渲染→Drive/YouTube）、Cloudflare 建站九步部署、浏览器自动化（反检测配置文件、Keychain 凭据库）、字幕提取/翻译/克隆等操作。LLM 调用可全走本地 Ollama（无 API key）或 Gemini/OpenAI/Claude 等自带 key 的服务，常见流程走零 token 快速路径。不可逆操作需人工审批，任务带 JSONL 审计轨迹。MIT 许可，允许转售与白标。",
+  "highlights": [
+   "content_video 流水线：语料→脚本→分镜→图片→配音→Canvas Engine 渲染→Drive/YouTube，渲染可断点续传",
+   "LLM 可全走本地 Ollama，无需 API key；常见流程用零 token 确定性意图匹配",
+   "AI 创建的不可逆任务（部署/发布/删除）进入 pending_approval 等待人工审批",
+   "浏览器自动化：反检测配置文件、代理/指纹、Keychain 密码库、TOTP 2FA"
+  ],
+  "use_cases": [
+   "让 agent 把当天读过的文章自动做成带配音的 YouTube 视频",
+   "一句话让 agent 在自己的 Cloudflare 账号上部署一个真实网站",
+   "自动化登录、下载、发布等重复浏览器操作，必要时人工接管",
+   "把视频克隆成其他语言版本（新配音、同画面）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "仅个别子功能（硬字幕去除）标注 experimental，非整体"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "视频生成",
+   "浏览器自动化",
+   "自托管",
+   "内容创作"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Dify"
+  ],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "deepseek",
+   "xai",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "browser-automation",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多语言 README 含简体/繁体中文",
+   "install-cn.sh 支持中国大陆机器安装"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L22: **TubeCLI is a self-hosted, open-source AI agent team that executes real operational work end to end.** It is not a chat",
+   "L95: **Models:** every LLM call runs on local Ollama — no API key, no per-token cost — or on Gemini, OpenAI, Claude, DeepSeek"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

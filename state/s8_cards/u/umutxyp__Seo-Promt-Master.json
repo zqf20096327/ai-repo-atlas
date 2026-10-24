@@ -1,1 +1,78 @@
-{"fn": "umutxyp/Seo-Promt-Master", "sha": "b055b695799a", "source": "readme", "identity": {"one_liner": "面向编码 Agent 的 SEO/GEO 审计技能、提示词库与工具集", "review": "一个仓库内含四部分：基于 Google Search Central 及 Bing/Yandex/Apple 等官方文档的引证式知识库（docs/01–18）、可安装进 Claude Code、Codex、Cursor、Gemini CLI、Copilot 等编码代理的技能（install.sh 写入各代理的发现文件）、47 条复制粘贴式提示词（8 类），以及两个零依赖可运行工具：seo-audit.mjs（Node 18+，抓取 sitemap 逐页审计，输出 0–100 的 SEO/GEO 分数与逐类明细）和部署冒烟脚本（依赖 curl/awk）。明确声明不测内容质量、外链与真实 Core Web Vitals。给需要在 CI 或代理工作流中做技术 SEO 审计的开发者使用。", "highlights": ["install.sh 一键将技能写入 Claude Code/Codex/Cursor/Gemini CLI/Copilot 各自的发现文件", "seo-audit.mjs 零依赖审计站点并输出带逐类明细的 SEO/GEO 分数，可作 CI 门禁", "知识库每条声明引证官方文档，覆盖 Bing/Yandex/Apple 及 16 类 AI 爬虫", "47 条提示词覆盖 robots.txt、hreflang、JSON-LD、流量诊断等 8 类任务"], "use_cases": ["让 Cursor/Claude Code 等编码代理直接执行站点的 SEO 审计与修复", "在 CI 中用审计工具或冒烟脚本拦截软 404、robots 屏蔽等 P1 问题", "查阅带官方引证的多搜索引擎与 AI 爬虫规则参考"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["SEO", "GEO/AI搜索优化", "Agent技能", "开发者工具", "提示词库"], "domain": "开发工具/SEO 审计", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: **Install it into your project, and every coding agent you use — Claude Code, Codex, Cursor, Gemini CLI, Copilot — gains", "L32: 2. **A skill** that installs into whichever agent you use, so \"audit my SEO\" starts the whole workflow without you pasti", "L40: ```bash"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "umutxyp/Seo-Promt-Master",
+ "sha": "b055b695799a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向编码 Agent 的 SEO/GEO 审计技能、提示词库与工具集",
+  "review": "一个仓库内含四部分：基于 Google Search Central 及 Bing/Yandex/Apple 等官方文档的引证式知识库（docs/01–18）、可安装进 Claude Code、Codex、Cursor、Gemini CLI、Copilot 等编码代理的技能（install.sh 写入各代理的发现文件）、47 条复制粘贴式提示词（8 类），以及两个零依赖可运行工具：seo-audit.mjs（Node 18+，抓取 sitemap 逐页审计，输出 0–100 的 SEO/GEO 分数与逐类明细）和部署冒烟脚本（依赖 curl/awk）。明确声明不测内容质量、外链与真实 Core Web Vitals。给需要在 CI 或代理工作流中做技术 SEO 审计的开发者使用。",
+  "highlights": [
+   "install.sh 一键将技能写入 Claude Code/Codex/Cursor/Gemini CLI/Copilot 各自的发现文件",
+   "seo-audit.mjs 零依赖审计站点并输出带逐类明细的 SEO/GEO 分数，可作 CI 门禁",
+   "知识库每条声明引证官方文档，覆盖 Bing/Yandex/Apple 及 16 类 AI 爬虫",
+   "47 条提示词覆盖 robots.txt、hreflang、JSON-LD、流量诊断等 8 类任务"
+  ],
+  "use_cases": [
+   "让 Cursor/Claude Code 等编码代理直接执行站点的 SEO 审计与修复",
+   "在 CI 中用审计工具或冒烟脚本拦截软 404、robots 屏蔽等 P1 问题",
+   "查阅带官方引证的多搜索引擎与 AI 爬虫规则参考"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SEO",
+   "GEO/AI搜索优化",
+   "Agent技能",
+   "开发者工具",
+   "提示词库"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Install it into your project, and every coding agent you use — Claude Code, Codex, Cursor, Gemini CLI, Copilot — gains",
+   "L32: 2. **A skill** that installs into whichever agent you use, so \"audit my SEO\" starts the whole workflow without you pasti",
+   "L40: ```bash"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

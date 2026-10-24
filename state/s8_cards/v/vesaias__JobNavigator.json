@@ -1,1 +1,85 @@
-{"fn": "vesaias/JobNavigator", "sha": "5dcc290d5ea2", "source": "readme", "identity": {"one_liner": "自托管求职自动化平台：抓取职位、AI 评分匹配、定制简历、追踪申请", "review": "面向个人或家庭（最多 5 个账户）的自托管求职管理系统：用 Playwright 与 12 个 ATS 处理器、JobSpy、Apify 等抓取招聘页与职位板；调用 LLM（Claude、OpenAI、OpenRouter、Ollama、LM Studio、Claude Code、Codex CLI、Antigravity CLI 或 OpenCode Go）对职位与简历做评分并生成定制简历、求职信；Chrome 扩展实现 LinkedIn 被动捕获与 ATS 表单自动填写；含 Gmail 回复分类、Telegram 告警、申请漏斗统计。通过 Docker Compose 部署，可从 GHCR 拉取预构建镜像或源码构建（linux/amd64 与 arm64）。限制：职位预览 iframe 部分站点会空白，需装扩展；部分爬虫默认关闭且用户自负平台条款。", "highlights": ["多数据源职位抓取：Playwright + 12 个 ATS 处理器、JobSpy、Apify、LinkedIn collections 等", "LLM 评分（Light 打分 / Full 报告）与简历、求职信定制，支持 9 种模型接入方式", "Chrome 扩展：LinkedIn 被动捕获、任意页面保存职位、ATS 表单自动填写与自由问答题 AI 作答", "多账户（1+4）各自独立数据与可选 PIN，共享同一次抓取结果"], "use_cases": ["我汇总各招聘网站的职位并用 AI 按我的简历打分排序", "我想为每个职位生成定制简历和求职信并跟踪申请进度", "家庭多人共用一套自部署服务，各自管理求职流程", "通过 Telegram 接收新职位提醒和 Gmail 回复自动更新状态"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["求职自动化", "简历定制", "自托管", "LLM应用", "Chrome扩展"], "domain": "求职/生产力工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "openrouter", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: **Self-hosted, multi-account job-hunt automation.**", "L7: Scrape career pages and aggregators, score jobs against your résumés with an LLM, tailor résumés and cover letters, auto", "L36: |**Scoring**|Claude, OpenAI, OpenRouter, Ollama, LM Studio, Claude Code, Codex CLI, Antigravity CLI or OpenCode Go; live"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vesaias/JobNavigator",
+ "sha": "5dcc290d5ea2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管求职自动化平台：抓取职位、AI 评分匹配、定制简历、追踪申请",
+  "review": "面向个人或家庭（最多 5 个账户）的自托管求职管理系统：用 Playwright 与 12 个 ATS 处理器、JobSpy、Apify 等抓取招聘页与职位板；调用 LLM（Claude、OpenAI、OpenRouter、Ollama、LM Studio、Claude Code、Codex CLI、Antigravity CLI 或 OpenCode Go）对职位与简历做评分并生成定制简历、求职信；Chrome 扩展实现 LinkedIn 被动捕获与 ATS 表单自动填写；含 Gmail 回复分类、Telegram 告警、申请漏斗统计。通过 Docker Compose 部署，可从 GHCR 拉取预构建镜像或源码构建（linux/amd64 与 arm64）。限制：职位预览 iframe 部分站点会空白，需装扩展；部分爬虫默认关闭且用户自负平台条款。",
+  "highlights": [
+   "多数据源职位抓取：Playwright + 12 个 ATS 处理器、JobSpy、Apify、LinkedIn collections 等",
+   "LLM 评分（Light 打分 / Full 报告）与简历、求职信定制，支持 9 种模型接入方式",
+   "Chrome 扩展：LinkedIn 被动捕获、任意页面保存职位、ATS 表单自动填写与自由问答题 AI 作答",
+   "多账户（1+4）各自独立数据与可选 PIN，共享同一次抓取结果"
+  ],
+  "use_cases": [
+   "我汇总各招聘网站的职位并用 AI 按我的简历打分排序",
+   "我想为每个职位生成定制简历和求职信并跟踪申请进度",
+   "家庭多人共用一套自部署服务，各自管理求职流程",
+   "通过 Telegram 接收新职位提醒和 Gmail 回复自动更新状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职自动化",
+   "简历定制",
+   "自托管",
+   "LLM应用",
+   "Chrome扩展"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "browser-automation",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Self-hosted, multi-account job-hunt automation.**",
+   "L7: Scrape career pages and aggregators, score jobs against your résumés with an LLM, tailor résumés and cover letters, auto",
+   "L36: |**Scoring**|Claude, OpenAI, OpenRouter, Ollama, LM Studio, Claude Code, Codex CLI, Antigravity CLI or OpenCode Go; live"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

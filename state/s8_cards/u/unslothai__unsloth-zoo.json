@@ -1,1 +1,77 @@
-{"fn": "unslothai/unsloth-zoo", "sha": "2138b98947e2", "source": "readme", "identity": {"one_liner": "Unsloth 的辅助工具库：支撑 LLM 高效微调与导出", "review": "unslothai/unsloth-zoo 是 Unsloth 微调框架的配套工具仓库。Unsloth 面向希望在消费级 GPU 上微调大模型的开发者，支持 gpt-oss、Gemma 3n、Qwen3、Llama 4、Mistral 等模型的微调、强化学习（GRPO/DPO/PPO 等）与预训练，采用 Triton 编写内核与手写反向传播引擎，宣称降低显存占用；微调后模型可导出为 GGUF 或部署到 Ollama、vLLM、Hugging Face。本仓库 README 主要承载 Unsloth 的安装与使用说明，提供 pip、conda、Docker 安装途径，要求 NVIDIA GPU（CUDA 能力 7.0 以上）与 PyTorch。", "highlights": ["支持 gpt-oss/Gemma 3n/Qwen3/Llama 4/Mistral 等模型的微调与 GRPO/DPO/PPO 强化学习", "内核以 Triton 编写并采用手写反向传播引擎", "微调模型可导出 GGUF、Ollama、vLLM 或 Hugging Face", "提供 pip/conda/Docker 安装途径，支持 Linux 与 Windows"], "use_cases": ["在本地 GPU 上低显存微调开源大模型", "用 GRPO 训练推理型模型", "将微调后的模型导出 GGUF 供 llama.cpp/Ollama 使用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM微调", "训练框架", "显存优化", "强化学习"], "domain": "LLM 训练/微调工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: ### Unsloth Zoo - Utils for Unsloth! Finetune gpt-oss, Gemma 3n, Qwen3, Llama 4, & Mistral 2x faster with 80% less VRAM!", "L77: - All kernels written in OpenAI's Triton language. **Manual backprop engine**."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "unslothai/unsloth-zoo",
+ "sha": "2138b98947e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Unsloth 的辅助工具库：支撑 LLM 高效微调与导出",
+  "review": "unslothai/unsloth-zoo 是 Unsloth 微调框架的配套工具仓库。Unsloth 面向希望在消费级 GPU 上微调大模型的开发者，支持 gpt-oss、Gemma 3n、Qwen3、Llama 4、Mistral 等模型的微调、强化学习（GRPO/DPO/PPO 等）与预训练，采用 Triton 编写内核与手写反向传播引擎，宣称降低显存占用；微调后模型可导出为 GGUF 或部署到 Ollama、vLLM、Hugging Face。本仓库 README 主要承载 Unsloth 的安装与使用说明，提供 pip、conda、Docker 安装途径，要求 NVIDIA GPU（CUDA 能力 7.0 以上）与 PyTorch。",
+  "highlights": [
+   "支持 gpt-oss/Gemma 3n/Qwen3/Llama 4/Mistral 等模型的微调与 GRPO/DPO/PPO 强化学习",
+   "内核以 Triton 编写并采用手写反向传播引擎",
+   "微调模型可导出 GGUF、Ollama、vLLM 或 Hugging Face",
+   "提供 pip/conda/Docker 安装途径，支持 Linux 与 Windows"
+  ],
+  "use_cases": [
+   "在本地 GPU 上低显存微调开源大模型",
+   "用 GRPO 训练推理型模型",
+   "将微调后的模型导出 GGUF 供 llama.cpp/Ollama 使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM微调",
+   "训练框架",
+   "显存优化",
+   "强化学习"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: ### Unsloth Zoo - Utils for Unsloth! Finetune gpt-oss, Gemma 3n, Qwen3, Llama 4, & Mistral 2x faster with 80% less VRAM!",
+   "L77: - All kernels written in OpenAI's Triton language. **Manual backprop engine**."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,76 @@
-{"fn": "varunagrawal/tiny-faces-pytorch", "sha": "ae2e27059e7d", "source": "readme", "identity": {"one_liner": "Peiyun Hu 小人脸检测器的 PyTorch 复现实现", "review": "Peiyun Hu CVPR 论文 tiny face detector 的 PyTorch 实现，面向计算机视觉研究与开发者。支持在 WIDER Face 数据集上训练（make 命令）、按 WIDERFace 规范做评测与测试集推理，并提供预训练权重（hard 集 mAP 0.797）。通过 detect_image.py 脚本对自有图片执行人脸检测，可调概率与 NMS 阈值。评测生成 mAP 需要数据集的 eval_tools（Matlab/Octave）。", "highlights": ["WIDER Face 数据集上 easy/medium/hard mAP 分别为 0.902/0.892/0.797", "提供预训练权重", "Makefile 驱动训练、评测与测试集推理", "detect_image.py 支持对自有图片检测，可调概率与 NMS 阈值"], "use_cases": ["在小尺度人脸场景下运行人脸检测", "在 WIDER Face 上复现训练与评测结果", "基于预训练权重对自有图片做推理"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["计算机视觉", "人脸检测", "PyTorch", "深度学习"], "domain": "计算机视觉/人脸检测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: This is a PyTorch implementation of Peiyun Hu's awesome tiny face detector.", "L52: To run the model on your own image, please use the `detect_image.py` script."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "varunagrawal/tiny-faces-pytorch",
+ "sha": "ae2e27059e7d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Peiyun Hu 小人脸检测器的 PyTorch 复现实现",
+  "review": "Peiyun Hu CVPR 论文 tiny face detector 的 PyTorch 实现，面向计算机视觉研究与开发者。支持在 WIDER Face 数据集上训练（make 命令）、按 WIDERFace 规范做评测与测试集推理，并提供预训练权重（hard 集 mAP 0.797）。通过 detect_image.py 脚本对自有图片执行人脸检测，可调概率与 NMS 阈值。评测生成 mAP 需要数据集的 eval_tools（Matlab/Octave）。",
+  "highlights": [
+   "WIDER Face 数据集上 easy/medium/hard mAP 分别为 0.902/0.892/0.797",
+   "提供预训练权重",
+   "Makefile 驱动训练、评测与测试集推理",
+   "detect_image.py 支持对自有图片检测，可调概率与 NMS 阈值"
+  ],
+  "use_cases": [
+   "在小尺度人脸场景下运行人脸检测",
+   "在 WIDER Face 上复现训练与评测结果",
+   "基于预训练权重对自有图片做推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "人脸检测",
+   "PyTorch",
+   "深度学习"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "face-recognition"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This is a PyTorch implementation of Peiyun Hu's awesome tiny face detector.",
+   "L52: To run the model on your own image, please use the `detect_image.py` script."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

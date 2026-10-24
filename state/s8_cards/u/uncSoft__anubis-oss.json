@@ -1,1 +1,79 @@
-{"fn": "uncSoft/anubis-oss", "sha": "d4d81f0ae597", "source": "readme", "identity": {"one_liner": "macOS 本地 LLM 基准测试与模型管理应用（Apple Silicon）", "review": "SwiftUI 编写的 macOS 原生应用，面向 Apple Silicon 用户，通过任意 OpenAI 兼容端点（Ollama、MLX、LM Studio Server、OpenWebUI 等）对本地大模型做基准测试、对比与管理。核心机制：推理性能与实时硬件遥测关联、N 次重复取均值与 95% 置信区间、服务器侧验证的 tok/s 与 TTFT 口径、Flow Builder 拖拽编排多模型多提示词的批量测试、应用内浏览与拉取 Ollama 模型、历史记录导出 .MD/.CSV 及社区排行榜提交。要求 macOS 15+，GPL-3.0 许可。", "highlights": ["推理性能与实时硬件遥测（CPU/GPU/ANE/DRAM 功耗）关联测量", "N-Rep 分组给出 mean ± 95% bootstrap CI 与显著性口径修正", "Flow Builder 拖拽编排多模型/多提示词/N 次重复的基准流程，导出分享卡片", "应用内浏览 ollama.com/library、拉取模型并直接跑基准"], "use_cases": ["在 Mac 上对比不同模型/量化版本的本机推理速度与功耗", "检测同一模型在同后端下的性能回归", "批量编排多模型基准并生成可分享报告"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://www.youtube.com/watch?v=SGgSmVn-IlE", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["基准测试", "本地LLM", "Apple Silicon", "性能监控", "桌面应用"], "domain": "LLM 基准测试/工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L9: **Local LLM Testing & Benchmarking for Apple Silicon** | Community Leaderboard", "L19: Anubis is a native macOS app for benchmarking, comparing, and managing local large language models using any OpenAI-comp"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "uncSoft/anubis-oss",
+ "sha": "d4d81f0ae597",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 本地 LLM 基准测试与模型管理应用（Apple Silicon）",
+  "review": "SwiftUI 编写的 macOS 原生应用，面向 Apple Silicon 用户，通过任意 OpenAI 兼容端点（Ollama、MLX、LM Studio Server、OpenWebUI 等）对本地大模型做基准测试、对比与管理。核心机制：推理性能与实时硬件遥测关联、N 次重复取均值与 95% 置信区间、服务器侧验证的 tok/s 与 TTFT 口径、Flow Builder 拖拽编排多模型多提示词的批量测试、应用内浏览与拉取 Ollama 模型、历史记录导出 .MD/.CSV 及社区排行榜提交。要求 macOS 15+，GPL-3.0 许可。",
+  "highlights": [
+   "推理性能与实时硬件遥测（CPU/GPU/ANE/DRAM 功耗）关联测量",
+   "N-Rep 分组给出 mean ± 95% bootstrap CI 与显著性口径修正",
+   "Flow Builder 拖拽编排多模型/多提示词/N 次重复的基准流程，导出分享卡片",
+   "应用内浏览 ollama.com/library、拉取模型并直接跑基准"
+  ],
+  "use_cases": [
+   "在 Mac 上对比不同模型/量化版本的本机推理速度与功耗",
+   "检测同一模型在同后端下的性能回归",
+   "批量编排多模型基准并生成可分享报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=SGgSmVn-IlE",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "本地LLM",
+   "Apple Silicon",
+   "性能监控",
+   "桌面应用"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: **Local LLM Testing & Benchmarking for Apple Silicon** | Community Leaderboard",
+   "L19: Anubis is a native macOS app for benchmarking, comparing, and managing local large language models using any OpenAI-comp"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

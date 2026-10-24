@@ -1,1 +1,79 @@
-{"fn": "trvon/yams", "sha": "3049299ffba5", "source": "readme", "identity": {"one_liner": "面向 LLM 与本地应用的持久化内容寻址记忆存储", "review": "YAMS 是运行在本机的持久化可检索记忆系统：以 SHA-256 内容寻址存储代码与文档，提供块级去重与压缩，通过 SQLite FTS5 全文、Simeon 嵌入、混合搜索与知识图谱四种方式检索。数据保存在用户自选目录，无需账号或托管服务。提供 CLI、stdio 上的 MCP 服务器与 C ABI（供插件和移动宿主使用），支持快照、Merkle 树 diff 与损坏检测修复工具。自声明 pre-1.0 实验阶段，可能有 bug 与破坏性变更。macOS 提供 brew 安装，另有 Fedora/Arch/Windows MSI 等途径。", "highlights": ["SHA-256 内容寻址存储，块级去重与压缩", "全文、向量、混合搜索与知识图谱检索", "CLI、MCP 服务器（stdio）与 C ABI 三种接入方式", "快照、Merkle 树 diff、损坏检测与修复工具"], "use_cases": ["为本地 LLM 工具链提供可检索的长期记忆库", "通过 MCP 向兼容开发工具暴露本地语料库", "管理代码与文档语料并追踪版本与损坏情况"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [7]}}, "links": {"scenario_tags": ["LLM记忆", "本地存储", "知识库", "MCP"], "domain": "LLM 基础设施/本地存储", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Persistent, searchable memory for code, documents, and local applications.", "L25: - A CLI, an MCP server over stdio, and a C ABI for plugins and mobile hosts"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "trvon/yams",
+ "sha": "3049299ffba5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 与本地应用的持久化内容寻址记忆存储",
+  "review": "YAMS 是运行在本机的持久化可检索记忆系统：以 SHA-256 内容寻址存储代码与文档，提供块级去重与压缩，通过 SQLite FTS5 全文、Simeon 嵌入、混合搜索与知识图谱四种方式检索。数据保存在用户自选目录，无需账号或托管服务。提供 CLI、stdio 上的 MCP 服务器与 C ABI（供插件和移动宿主使用），支持快照、Merkle 树 diff 与损坏检测修复工具。自声明 pre-1.0 实验阶段，可能有 bug 与破坏性变更。macOS 提供 brew 安装，另有 Fedora/Arch/Windows MSI 等途径。",
+  "highlights": [
+   "SHA-256 内容寻址存储，块级去重与压缩",
+   "全文、向量、混合搜索与知识图谱检索",
+   "CLI、MCP 服务器（stdio）与 C ABI 三种接入方式",
+   "快照、Merkle 树 diff、损坏检测与修复工具"
+  ],
+  "use_cases": [
+   "为本地 LLM 工具链提供可检索的长期记忆库",
+   "通过 MCP 向兼容开发工具暴露本地语料库",
+   "管理代码与文档语料并追踪版本与损坏情况"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM记忆",
+   "本地存储",
+   "知识库",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Persistent, searchable memory for code, documents, and local applications.",
+   "L25: - A CLI, an MCP server over stdio, and a C ABI for plugins and mobile hosts"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

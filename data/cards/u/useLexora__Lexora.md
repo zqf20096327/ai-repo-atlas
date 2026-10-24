@@ -34,7 +34,7 @@ Lexora 是运行在 Windows、macOS、Linux 桌面上的个人 AI Agent 应用�
 
 ## 场景标签
 
- · 领域:桌面 AI Agent 应用
+`AI 助手` `多智能体` `GUI 自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,78 @@
-{"fn": "startino/aitino", "sha": "5e831154f85f", "source": "readme", "identity": {"one_liner": "构建 AI Agent 团队以自动化高层任务的开源平台", "review": "开源平台，供用户创建由多个 AI Agent 组成的团队来执行高层任务，目标是无需复杂配置即可从 prompt 得到解决方案。核心形态是节点编辑器（node editor）可视化界面，既支持复杂团队也兼容小规模用例。基于 Autogen 框架构建，并计划吸收 ChatDev、CrewAI 等多智能体项目中的部分能力。用户需提供 API key 与任务上下文等信息；另有云端版本 Aitino Web（SvelteKit/Supabase/Stripe 技术栈，免费计划标注 coming soon）。README 未给出本地安装与运行命令。", "highlights": ["以节点编辑器可视化方式编排 AI Agent 团队", "基于 Autogen 框架构建，计划吸收 ChatDev/CrewAI 的部分特性", "宣称从 prompt 到解决方案在数分钟内完成", "提供云托管版本 Aitino Web"], "use_cases": ["通过可视化节点编辑器搭建多 Agent 协作流程", "自动化需要多智能体分工的高层任务", "不想做复杂配置的用户快速试用多 Agent 系统"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多智能体系统", "可视化编排", "Agent平台", "任务自动化"], "domain": "AI Agent 平台/自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: 🤖 **Aitino**: Aitino is an open-source platform that allows for the creation of teams of AI Agents to help users automat", "L22: Aitino is built on top of the Autogen Framework. We also hope to merge some principles applied to other multi-agent syst", "L20: Aitino takes the visual form of a node editor as we believe this is one of the easiest to implement and most scalable so"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "startino/aitino",
+ "sha": "5e831154f85f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建 AI Agent 团队以自动化高层任务的开源平台",
+  "review": "开源平台，供用户创建由多个 AI Agent 组成的团队来执行高层任务，目标是无需复杂配置即可从 prompt 得到解决方案。核心形态是节点编辑器（node editor）可视化界面，既支持复杂团队也兼容小规模用例。基于 Autogen 框架构建，并计划吸收 ChatDev、CrewAI 等多智能体项目中的部分能力。用户需提供 API key 与任务上下文等信息；另有云端版本 Aitino Web（SvelteKit/Supabase/Stripe 技术栈，免费计划标注 coming soon）。README 未给出本地安装与运行命令。",
+  "highlights": [
+   "以节点编辑器可视化方式编排 AI Agent 团队",
+   "基于 Autogen 框架构建，计划吸收 ChatDev/CrewAI 的部分特性",
+   "宣称从 prompt 到解决方案在数分钟内完成",
+   "提供云托管版本 Aitino Web"
+  ],
+  "use_cases": [
+   "通过可视化节点编辑器搭建多 Agent 协作流程",
+   "自动化需要多智能体分工的高层任务",
+   "不想做复杂配置的用户快速试用多 Agent 系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体系统",
+   "可视化编排",
+   "Agent平台",
+   "任务自动化"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: 🤖 **Aitino**: Aitino is an open-source platform that allows for the creation of teams of AI Agents to help users automat",
+   "L22: Aitino is built on top of the Autogen Framework. We also hope to merge some principles applied to other multi-agent syst",
+   "L20: Aitino takes the visual form of a node editor as we believe this is one of the easiest to implement and most scalable so"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,76 @@
-{"fn": "towardsai/ragbook-notebooks", "sha": "0a36355a891a", "source": "readme", "identity": {"one_liner": "Towards AI RAG 图书配套的 Jupyter notebook 代码集", "review": "汇集 Towards AI 出版的《Building LLMs for Production》一书各章节示例代码的仓库，按第 2-11 章组织 notebook，覆盖 Transformer 架构、提示工程、LangChain/LlamaIndex 应用构建、文本切分、高级 RAG 与评测、Agent 构建、LLM 微调（LIMA/QLoRA/RLHF/Cohere）及推理基准测试。以 Python notebook 形式提供，供读者随书实践。", "highlights": ["按图书章节组织的 notebook，覆盖 Transformer、RAG、Agent、微调等主题", "包含 LangChain 与 LlamaIndex 的应用示例", "含 QLoRA、RLHF、Cohere 微调与推理基准测试代码"], "use_cases": ["随书学习 LLM 生产级开发的动手实践", "查找 RAG 与 Agent 构建的可运行示例代码", "参考 LLM 微调（CPU/QLoRA/RLHF）的实现方式"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程代码", "RAG", "LLM", "notebook集合"], "domain": "LLM/RAG 教育资源", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L2: This is a repository gathering all the notebooks for the Towards AI RAG book.", "L12: - Building_Applications_Powered_by_LLMs_with_LangChain.ipynb"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "towardsai/ragbook-notebooks",
+ "sha": "0a36355a891a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Towards AI RAG 图书配套的 Jupyter notebook 代码集",
+  "review": "汇集 Towards AI 出版的《Building LLMs for Production》一书各章节示例代码的仓库，按第 2-11 章组织 notebook，覆盖 Transformer 架构、提示工程、LangChain/LlamaIndex 应用构建、文本切分、高级 RAG 与评测、Agent 构建、LLM 微调（LIMA/QLoRA/RLHF/Cohere）及推理基准测试。以 Python notebook 形式提供，供读者随书实践。",
+  "highlights": [
+   "按图书章节组织的 notebook，覆盖 Transformer、RAG、Agent、微调等主题",
+   "包含 LangChain 与 LlamaIndex 的应用示例",
+   "含 QLoRA、RLHF、Cohere 微调与推理基准测试代码"
+  ],
+  "use_cases": [
+   "随书学习 LLM 生产级开发的动手实践",
+   "查找 RAG 与 Agent 构建的可运行示例代码",
+   "参考 LLM 微调（CPU/QLoRA/RLHF）的实现方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程代码",
+   "RAG",
+   "LLM",
+   "notebook集合"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: This is a repository gathering all the notebooks for the Towards AI RAG book.",
+   "L12: - Building_Applications_Powered_by_LLMs_with_LangChain.ipynb"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

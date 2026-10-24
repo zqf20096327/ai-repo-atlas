@@ -1,1 +1,79 @@
-{"fn": "vercel-labs/workflow-builder-template", "sha": "ea60bf0ae32b", "source": "readme", "identity": {"one_liner": "可视化 AI 工作流自动化平台模板：拖拽搭建流程并生成代码", "review": "基于 Workflow DevKit 的 Next.js 模板，提供拖拽式可视化工作流构建器，节点覆盖 Webhook/定时/数据库事件触发与 AI Gateway、fal.ai、GitHub、Slack、Stripe 等 15 类操作。工作流可通过 'use workflow' 指令转换为可执行 TypeScript 代码，支持自然语言生成工作流（OpenAI）、执行追踪与日志、Better Auth 认证和 Drizzle ORM/PostgreSQL 持久化。可一键部署到 Vercel（自动创建 Neon 数据库），面向开发者构建自己的工作流自动化平台。", "highlights": ["React Flow 拖拽式可视化工作流构建器", "工作流转换为带 'use workflow' 指令的可执行 TypeScript 代码", "自然语言生成工作流（OpenAI）", "15 类集成节点：AI Gateway、fal.ai、Firecrawl、GitHub、Linear、Slack、Stripe 等"], "use_cases": ["搭建自己的 AI 工作流自动化平台起点", "用自然语言生成自动化流程再转为 TypeScript 代码", "连接邮件、工单、Slack、支付等服务编排自动化任务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["工作流自动化", "低代码/可视化编排", "AI应用模板", "Next.js", "代码生成"], "domain": "AI 工作流自动化/开发者工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A template for building your own AI-driven workflow automation platform. Built on top of Workflow DevKit, this template ", "L27: - **AI-Powered** - Generate workflows from natural language descriptions using OpenAI", "L72: - **AI Gateway**: Generate Text, Generate Image"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vercel-labs/workflow-builder-template",
+ "sha": "ea60bf0ae32b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可视化 AI 工作流自动化平台模板：拖拽搭建流程并生成代码",
+  "review": "基于 Workflow DevKit 的 Next.js 模板，提供拖拽式可视化工作流构建器，节点覆盖 Webhook/定时/数据库事件触发与 AI Gateway、fal.ai、GitHub、Slack、Stripe 等 15 类操作。工作流可通过 'use workflow' 指令转换为可执行 TypeScript 代码，支持自然语言生成工作流（OpenAI）、执行追踪与日志、Better Auth 认证和 Drizzle ORM/PostgreSQL 持久化。可一键部署到 Vercel（自动创建 Neon 数据库），面向开发者构建自己的工作流自动化平台。",
+  "highlights": [
+   "React Flow 拖拽式可视化工作流构建器",
+   "工作流转换为带 'use workflow' 指令的可执行 TypeScript 代码",
+   "自然语言生成工作流（OpenAI）",
+   "15 类集成节点：AI Gateway、fal.ai、Firecrawl、GitHub、Linear、Slack、Stripe 等"
+  ],
+  "use_cases": [
+   "搭建自己的 AI 工作流自动化平台起点",
+   "用自然语言生成自动化流程再转为 TypeScript 代码",
+   "连接邮件、工单、Slack、支付等服务编排自动化任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作流自动化",
+   "低代码/可视化编排",
+   "AI应用模板",
+   "Next.js",
+   "代码生成"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A template for building your own AI-driven workflow automation platform. Built on top of Workflow DevKit, this template ",
+   "L27: - **AI-Powered** - Generate workflows from natural language descriptions using OpenAI",
+   "L72: - **AI Gateway**: Generate Text, Generate Image"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

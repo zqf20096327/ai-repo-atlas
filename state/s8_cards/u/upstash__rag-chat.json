@@ -1,1 +1,79 @@
-{"fn": "upstash/rag-chat", "sha": "cda81bded964", "source": "readme", "identity": {"one_liner": "面向开发者的 RAG 聊天应用原型开发 SDK", "review": "Upstash 社区维护的 TypeScript SDK（@upstash/rag-chat），用于以少量配置快速开发 RAG 聊天应用：内置向量存储作为知识库，支持摄取整个网站、PDF 等内容，兼容 Next.js 流式输出；可选集成 Redis 聊天历史、速率限制、通过 Helicone/Langsmith/Cloudflare AI Gateway 的分析，以及 disableRag 选项作为纯 LLM 聊天使用。README 中团队自述本项目定位为原型开发，正式项目建议使用 Vercel AI SDK、Langchain、LlamaIndex。提供 npm 安装与多框架快速入门文档。", "highlights": ["内置向量存储知识库，开箱即用摄取网站与 PDF", "Next.js 兼容与流式输出支持", "可选 Redis 聊天历史、速率限制与多平台分析", "支持 OpenAI/Anthropic/GROQ/Ollama/Mistral 等多种模型集成"], "use_cases": ["快速搭建 RAG 原型聊天应用验证想法", "在 Next.js / Node.js / Cloudflare Workers 等环境接入 RAG 对话", "用 disableRag 模式做纯 LLM + 历史的聊天应用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [6], "note": "自述定位为原型开发，正式项目建议改用其他框架"}}, "links": {"scenario_tags": ["RAG", "聊天机器人", "SDK/框架", "向量检索"], "domain": "LLM 基础设施/RAG", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L13: The `@upstash/rag-chat` package makes it easy to develop retrieval-augmented generation (RAG) chat applications with min", "L6: > The RAG Chat SDK is designed to facilitate easier and faster prototype creation. For real projects, use Vercel AI SDK,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "upstash/rag-chat",
+ "sha": "cda81bded964",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 RAG 聊天应用原型开发 SDK",
+  "review": "Upstash 社区维护的 TypeScript SDK（@upstash/rag-chat），用于以少量配置快速开发 RAG 聊天应用：内置向量存储作为知识库，支持摄取整个网站、PDF 等内容，兼容 Next.js 流式输出；可选集成 Redis 聊天历史、速率限制、通过 Helicone/Langsmith/Cloudflare AI Gateway 的分析，以及 disableRag 选项作为纯 LLM 聊天使用。README 中团队自述本项目定位为原型开发，正式项目建议使用 Vercel AI SDK、Langchain、LlamaIndex。提供 npm 安装与多框架快速入门文档。",
+  "highlights": [
+   "内置向量存储知识库，开箱即用摄取网站与 PDF",
+   "Next.js 兼容与流式输出支持",
+   "可选 Redis 聊天历史、速率限制与多平台分析",
+   "支持 OpenAI/Anthropic/GROQ/Ollama/Mistral 等多种模型集成"
+  ],
+  "use_cases": [
+   "快速搭建 RAG 原型聊天应用验证想法",
+   "在 Next.js / Node.js / Cloudflare Workers 等环境接入 RAG 对话",
+   "用 disableRag 模式做纯 LLM + 历史的聊天应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    6
+   ],
+   "note": "自述定位为原型开发，正式项目建议改用其他框架"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "聊天机器人",
+   "SDK/框架",
+   "向量检索"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: The `@upstash/rag-chat` package makes it easy to develop retrieval-augmented generation (RAG) chat applications with min",
+   "L6: > The RAG Chat SDK is designed to facilitate easier and faster prototype creation. For real projects, use Vercel AI SDK,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Eindhoven 理工、都灵理工与 RWTH 联合发布的 Encoder-only Mask Transf
 
 ## 场景标签
 
- · 领域:计算机视觉/图像分割
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

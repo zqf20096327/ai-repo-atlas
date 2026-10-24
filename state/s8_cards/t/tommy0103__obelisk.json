@@ -1,1 +1,83 @@
-{"fn": "tommy0103/obelisk", "sha": "207a4a18beaf", "source": "readme", "identity": {"one_liner": "把本地编码代理会话历史索引为 SQLite，供代理查询、供人浏览", "review": "将 Claude Code、Codex、GitHub Copilot、DeepSeek Harness、Hermes Agent、Kiro、Kimi Code、OMP、OpenCode、Pi、ZCode 等编码代理的本地会话历史（JSONL/SQLite）统一索引到单个 SQLite 库，通过 FTS5 全文检索覆盖会话、消息、工具调用、子代理、摘要、工作流等层。两类使用界面：面向代理的 CLI 与技能（代理编写 JS 查询并用自然语言回答），以及面向人的 Electron 桌面应用（浏览会话、管理记忆、使用统计、周报卡片）。附带记忆层与 recap 流程。要求 Node.js 22.13+。", "highlights": ["11 种编码代理会话源统一索引到单个 SQLite 库，FTS5 全文检索", "代理可经 /obelisk 技能编写 JS 查询（search()/sql() 等）检索自身历史", "Electron 桌面应用浏览会话、GitHub 风格热图、token 图表与周报卡片", "记忆层：检索结论经批准注册为 markdown 记忆文件供后续会话召回"], "use_cases": ["让编码代理检索自己过往会话回答'上次这个 bug 怎么修的'", "在桌面应用中浏览与检索多个编码代理的完整历史", "按周/月生成可分享的编码活动回顾卡片"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent记忆", "会话历史检索", "编码代理工具", "SQLite索引", "桌面应用"], "domain": "开发者工具/agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本（L9 English · 中文）", "索引 Kimi Code 会话源"]}, "trust": {"confidence": "high", "evidence": ["L11: Obelisk indexes your local coding-agent history into one SQLite database and", "L14: - **Agents** — the `obelisk` CLI plus an agent skill that teaches coding agents", "L17: - **Humans** — an Electron desktop app to browse sessions, manage memories,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tommy0103/obelisk",
+ "sha": "207a4a18beaf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把本地编码代理会话历史索引为 SQLite，供代理查询、供人浏览",
+  "review": "将 Claude Code、Codex、GitHub Copilot、DeepSeek Harness、Hermes Agent、Kiro、Kimi Code、OMP、OpenCode、Pi、ZCode 等编码代理的本地会话历史（JSONL/SQLite）统一索引到单个 SQLite 库，通过 FTS5 全文检索覆盖会话、消息、工具调用、子代理、摘要、工作流等层。两类使用界面：面向代理的 CLI 与技能（代理编写 JS 查询并用自然语言回答），以及面向人的 Electron 桌面应用（浏览会话、管理记忆、使用统计、周报卡片）。附带记忆层与 recap 流程。要求 Node.js 22.13+。",
+  "highlights": [
+   "11 种编码代理会话源统一索引到单个 SQLite 库，FTS5 全文检索",
+   "代理可经 /obelisk 技能编写 JS 查询（search()/sql() 等）检索自身历史",
+   "Electron 桌面应用浏览会话、GitHub 风格热图、token 图表与周报卡片",
+   "记忆层：检索结论经批准注册为 markdown 记忆文件供后续会话召回"
+  ],
+  "use_cases": [
+   "让编码代理检索自己过往会话回答'上次这个 bug 怎么修的'",
+   "在桌面应用中浏览与检索多个编码代理的完整历史",
+   "按周/月生成可分享的编码活动回顾卡片"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "会话历史检索",
+   "编码代理工具",
+   "SQLite索引",
+   "桌面应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本（L9 English · 中文）",
+   "索引 Kimi Code 会话源"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Obelisk indexes your local coding-agent history into one SQLite database and",
+   "L14: - **Agents** — the `obelisk` CLI plus an agent skill that teaches coding agents",
+   "L17: - **Humans** — an Electron desktop app to browse sessions, manage memories,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

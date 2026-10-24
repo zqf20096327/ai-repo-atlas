@@ -1,1 +1,77 @@
-{"fn": "vincentkoc/dotskills", "sha": "8ff7394dcc26", "source": "readme", "identity": {"one_liner": "个人维护的 Codex/OpenClaw agent 技能库：可安装复用的技能模块", "review": "作者个人的 .skills 仓库，将 dotfiles 思路应用于 AI 执行：以 SKILL.md/AGENT.md 格式存储可安装、版本化、可测试的技能单元，供 Codex、Cursor、OpenClaw 等 agent 工具使用。公开技能覆盖 20 余项，包括代码库索引 MCP、tmux 会话恢复、Codex 目标历史挖掘、Opik 提示优化、技术文档审计等。通过 npx skills add 按需安装单个技能，make sync 同步技能与 slash 命令（仅限 macOS/Linux），make validate 运行规范校验。本地私有技能须放在被忽略的 private-skills/ 目录，不进入公开仓库。", "highlights": ["技能即运行时模块：可安装、版本化、测试、跨项目复用", "20 余个公开技能，通过 npx skills add 按需安装", "make sync 同步 Codex/Cursor 技能与 slash 命令", "make validate 执行仓库策略与 AgentSkills 规范校验"], "use_cases": ["为 Codex/OpenClaw 等 agent 安装现成的开发与运维技能", "用可测试的技能模块替代一次性 prompt 文本", "审计和复用个人的 agent 工作流配置"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "Codex", "OpenClaw", "工作流自动化", "开发者工具"], "domain": "开发工具/agent 技能库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17: This is my personal **.skills** repository for Codex, Cursor, OpenClaw and agent-first tooling. `.skills` is the dotfile", "L45: |Skill|What it does|Install|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vincentkoc/dotskills",
+ "sha": "8ff7394dcc26",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人维护的 Codex/OpenClaw agent 技能库：可安装复用的技能模块",
+  "review": "作者个人的 .skills 仓库，将 dotfiles 思路应用于 AI 执行：以 SKILL.md/AGENT.md 格式存储可安装、版本化、可测试的技能单元，供 Codex、Cursor、OpenClaw 等 agent 工具使用。公开技能覆盖 20 余项，包括代码库索引 MCP、tmux 会话恢复、Codex 目标历史挖掘、Opik 提示优化、技术文档审计等。通过 npx skills add 按需安装单个技能，make sync 同步技能与 slash 命令（仅限 macOS/Linux），make validate 运行规范校验。本地私有技能须放在被忽略的 private-skills/ 目录，不进入公开仓库。",
+  "highlights": [
+   "技能即运行时模块：可安装、版本化、测试、跨项目复用",
+   "20 余个公开技能，通过 npx skills add 按需安装",
+   "make sync 同步 Codex/Cursor 技能与 slash 命令",
+   "make validate 执行仓库策略与 AgentSkills 规范校验"
+  ],
+  "use_cases": [
+   "为 Codex/OpenClaw 等 agent 安装现成的开发与运维技能",
+   "用可测试的技能模块替代一次性 prompt 文本",
+   "审计和复用个人的 agent 工作流配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "Codex",
+   "OpenClaw",
+   "工作流自动化",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: This is my personal **.skills** repository for Codex, Cursor, OpenClaw and agent-first tooling. `.skills` is the dotfile",
+   "L45: |Skill|What it does|Install|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

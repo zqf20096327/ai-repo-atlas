@@ -33,7 +33,7 @@ Ultralytics YOLO26 官方发现页仓库：通过 ultralytics Python 包提供�
 
 ## 场景标签
 
- · 领域:计算机视觉/深度学习
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

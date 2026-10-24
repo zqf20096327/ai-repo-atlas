@@ -1,1 +1,79 @@
-{"fn": "uw-biorobotics/IKBT", "sha": "2599456853d7", "source": "readme", "identity": {"one_liner": "符号法求解机械臂逆运动学的 Python 系统，输出 LaTeX/Python/C++", "review": "面向机器人研究者的逆运动学封闭解自动求解器：用行为树组织求解算法与人类专家知识，对串联非冗余机械臂求解，生成关节变量依赖图与全部解组合，并以 LaTeX 文档、Python 与 C++ 代码形式输出。依赖仅 Python 3.8 与 sympy，LaTeX 为推荐的公式输出依赖。用户在 ik_robots.py 中录入 DH 参数即可求解自有机型；正运动学结果可用 pickle 缓存。已发表 JAIR 2019 论文，IKBT2 候选版在另一分支。", "highlights": ["行为树组织逆运动学求解算法与专家规则", "生成关节变量依赖图并给出全部解组合", "自动生成 LaTeX 文档与 Python/C++ 代码", "仅依赖 sympy，跨平台，支持 pickle 缓存正运动学"], "use_cases": ["为我的机械臂推导封闭形式逆运动学解", "生成可部署的 Python/C++ 运动学代码", "复现论文中 18 个已测试机型的求解结果"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/1711.05412", "demo_url": null, "self_declared_early": {"flag": true, "lines": [10, 11]}}, "links": {"scenario_tags": ["机器人", "逆运动学", "符号计算", "行为树", "代码生成"], "domain": "机器人/符号计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L2: A python based system for generating closed-form solutions to the manipulator inverse kinematics problem using", "L3: behavior trees for action selection.", "L50:  1. We built an autonomous inverse kinematics solver (IKBT) using a behavior tree to organize solution algorithms."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "uw-biorobotics/IKBT",
+ "sha": "2599456853d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "符号法求解机械臂逆运动学的 Python 系统，输出 LaTeX/Python/C++",
+  "review": "面向机器人研究者的逆运动学封闭解自动求解器：用行为树组织求解算法与人类专家知识，对串联非冗余机械臂求解，生成关节变量依赖图与全部解组合，并以 LaTeX 文档、Python 与 C++ 代码形式输出。依赖仅 Python 3.8 与 sympy，LaTeX 为推荐的公式输出依赖。用户在 ik_robots.py 中录入 DH 参数即可求解自有机型；正运动学结果可用 pickle 缓存。已发表 JAIR 2019 论文，IKBT2 候选版在另一分支。",
+  "highlights": [
+   "行为树组织逆运动学求解算法与专家规则",
+   "生成关节变量依赖图并给出全部解组合",
+   "自动生成 LaTeX 文档与 Python/C++ 代码",
+   "仅依赖 sympy，跨平台，支持 pickle 缓存正运动学"
+  ],
+  "use_cases": [
+   "为我的机械臂推导封闭形式逆运动学解",
+   "生成可部署的 Python/C++ 运动学代码",
+   "复现论文中 18 个已测试机型的求解结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/1711.05412",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    10,
+    11
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人",
+   "逆运动学",
+   "符号计算",
+   "行为树",
+   "代码生成"
+  ],
+  "domain": "机器人/符号计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: A python based system for generating closed-form solutions to the manipulator inverse kinematics problem using",
+   "L3: behavior trees for action selection.",
+   "L50:  1. We built an autonomous inverse kinematics solver (IKBT) using a behavior tree to organize solution algorithms."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

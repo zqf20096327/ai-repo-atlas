@@ -1,1 +1,78 @@
-{"fn": "venkatapgummadi/ascend", "sha": "94a7b9754dce", "source": "readme", "identity": {"one_liner": "四层 DevSecOps 框架：安全扫描构建门禁与 AI 同步层", "review": "面向 CI/CD 流水线的 DevSecOps 框架：四层架构覆盖源码分析（SAST/SCA/密钥检测）、容器与 IaC 扫描、多轨道部署（蓝绿/金丝雀/滚动）及可选的 AI 驱动代码同步（AST 差分、ML 冲突分类、LLM 解析加属性验证）。提供 GitHub Actions、GitLab CI、Jenkins、Azure DevOps 四平台参考配置，集成 Semgrep、CodeQL、Snyk、Trivy、ZAP 等扫描工具。附公开基准复现脚本与已录用 IEEE CARS 2026 论文，MIT 许可，Python 3.9+。", "highlights": ["四层架构：扫描→构建门禁→多轨道部署→AI 同步", "四平台 CI/CD 参考配置（GitHub Actions/GitLab/Jenkins/Azure DevOps）", "AI 同步层：AST 差分 + ML 冲突分类 + LLM 解析 + 属性验证", "公开输入的基准复现脚本与已录用论文（IEEE CARS 2026）"], "use_cases": ["在 CI/CD 中把安全扫描变成构建门禁而非被动报告", "拦截 AI 编程助手引入的缺陷与依赖漏洞", "按阶段渐进式加固既有流水线"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["DevSecOps", "CI/CD", "安全扫描", "构建门禁", "AI辅助开发"], "domain": "DevSecOps/CI-CD 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: A four-layer DevSecOps framework that integrates automated security scanning directly into CI/CD pipelines with build-ga", "L17: Modern CI/CD pipelines prioritize velocity. ASCEND's thesis is that velocity and security are not in tension — the tensi", "L62: ### 4. Enable the AI synchronization layer (optional)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "venkatapgummadi/ascend",
+ "sha": "94a7b9754dce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "四层 DevSecOps 框架：安全扫描构建门禁与 AI 同步层",
+  "review": "面向 CI/CD 流水线的 DevSecOps 框架：四层架构覆盖源码分析（SAST/SCA/密钥检测）、容器与 IaC 扫描、多轨道部署（蓝绿/金丝雀/滚动）及可选的 AI 驱动代码同步（AST 差分、ML 冲突分类、LLM 解析加属性验证）。提供 GitHub Actions、GitLab CI、Jenkins、Azure DevOps 四平台参考配置，集成 Semgrep、CodeQL、Snyk、Trivy、ZAP 等扫描工具。附公开基准复现脚本与已录用 IEEE CARS 2026 论文，MIT 许可，Python 3.9+。",
+  "highlights": [
+   "四层架构：扫描→构建门禁→多轨道部署→AI 同步",
+   "四平台 CI/CD 参考配置（GitHub Actions/GitLab/Jenkins/Azure DevOps）",
+   "AI 同步层：AST 差分 + ML 冲突分类 + LLM 解析 + 属性验证",
+   "公开输入的基准复现脚本与已录用论文（IEEE CARS 2026）"
+  ],
+  "use_cases": [
+   "在 CI/CD 中把安全扫描变成构建门禁而非被动报告",
+   "拦截 AI 编程助手引入的缺陷与依赖漏洞",
+   "按阶段渐进式加固既有流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "DevSecOps",
+   "CI/CD",
+   "安全扫描",
+   "构建门禁",
+   "AI辅助开发"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: A four-layer DevSecOps framework that integrates automated security scanning directly into CI/CD pipelines with build-ga",
+   "L17: Modern CI/CD pipelines prioritize velocity. ASCEND's thesis is that velocity and security are not in tension — the tensi",
+   "L62: ### 4. Enable the AI synchronization layer (optional)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

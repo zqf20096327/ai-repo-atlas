@@ -1,1 +1,83 @@
-{"fn": "typedef-ai/fenic", "sha": "f0e8f0dad274", "source": "readme", "identity": {"one_liner": "带 AI 算子的语义 DataFrame 引擎，供人与 agent 共用", "review": "fenic 是一个 Python 语义 DataFrame 查询引擎：在 PySpark/SQL 风格操作（select/filter/join/group_by）之上内建调用语言模型的语义算子——extract、classify、summarize、embed、语义 join、情感分析、PDF 解析等。流水线为惰性编译执行，提供自动批处理、限流、重试、token/成本核算与响应缓存；表或视图可发布为 MCP 工具供 agent 调用。模型在 Session 上配置一次，支持 OpenAI/Anthropic/Google/Cohere/OpenRouter。限制：GPT-5/GPT-6 等模型输出仍是概率性的；聚类、相似度 join、PDF 解析需安装可选 extras。", "highlights": ["语义算子内建于查询模型：extract/classify/summarize/embed/语义 join 等", "流水线可检查与重跑：explain、行级 lineage 双向追溯、逐查询 token/成本指标、响应缓存", "表/视图可发布为 MCP 工具，经 fenic-serve 从 catalog 直接提供服务", "原生支持 Markdown/SRT/WebVTT/JSON/HTML/PDF 等非结构化类型，可读本地文件、S3 与 Hugging Face 数据集"], "use_cases": ["把文档、日志、工单、转录等杂乱数据转成带类型的行与可复用流水线", "将 LLM 评测 trace 的探索固化为可重跑的回归分析流水线", "把数据流水线包装成 MCP 工具给 AI agent 调用", "让 AI 编程助手正确编写 fenic 代码（skill install + check 静态检查）"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["DataFrame", "语义算子", "LLM数据工程", "MCP工具", "流水线可复现"], "domain": "数据工程/LLM 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "cohere", "openrouter"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: It's a DataFrame query engine for semantic data processing, with AI operators — `extract`, `classify`, `summarize`, `emb", "L26: fenic is a **semantic DataFrame engine**. You write the PySpark/SQL-style operations you already know — `select`, `filte"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "typedef-ai/fenic",
+ "sha": "f0e8f0dad274",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 算子的语义 DataFrame 引擎，供人与 agent 共用",
+  "review": "fenic 是一个 Python 语义 DataFrame 查询引擎：在 PySpark/SQL 风格操作（select/filter/join/group_by）之上内建调用语言模型的语义算子——extract、classify、summarize、embed、语义 join、情感分析、PDF 解析等。流水线为惰性编译执行，提供自动批处理、限流、重试、token/成本核算与响应缓存；表或视图可发布为 MCP 工具供 agent 调用。模型在 Session 上配置一次，支持 OpenAI/Anthropic/Google/Cohere/OpenRouter。限制：GPT-5/GPT-6 等模型输出仍是概率性的；聚类、相似度 join、PDF 解析需安装可选 extras。",
+  "highlights": [
+   "语义算子内建于查询模型：extract/classify/summarize/embed/语义 join 等",
+   "流水线可检查与重跑：explain、行级 lineage 双向追溯、逐查询 token/成本指标、响应缓存",
+   "表/视图可发布为 MCP 工具，经 fenic-serve 从 catalog 直接提供服务",
+   "原生支持 Markdown/SRT/WebVTT/JSON/HTML/PDF 等非结构化类型，可读本地文件、S3 与 Hugging Face 数据集"
+  ],
+  "use_cases": [
+   "把文档、日志、工单、转录等杂乱数据转成带类型的行与可复用流水线",
+   "将 LLM 评测 trace 的探索固化为可重跑的回归分析流水线",
+   "把数据流水线包装成 MCP 工具给 AI agent 调用",
+   "让 AI 编程助手正确编写 fenic 代码（skill install + check 静态检查）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "DataFrame",
+   "语义算子",
+   "LLM数据工程",
+   "MCP工具",
+   "流水线可复现"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "cohere",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: It's a DataFrame query engine for semantic data processing, with AI operators — `extract`, `classify`, `summarize`, `emb",
+   "L26: fenic is a **semantic DataFrame engine**. You write the PySpark/SQL-style operations you already know — `select`, `filte"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -34,7 +34,7 @@ Enthusiast 是一个用于构建电商场景 AI agentic 工作流的开源工具
 
 ## 场景标签
 
- · 领域:电商/AI 应用框架
+`Agent 框架` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ vllm-jax（原 tpu-inference）是 vLLM 项目内的硬件插件，通过单一 
 
 ## 场景标签
 
- · 领域:LLM 推理基础设施/TPU 硬件后端
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

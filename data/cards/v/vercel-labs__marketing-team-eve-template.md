@@ -34,7 +34,7 @@ vercel-labs 提供的营销 Agent 团队模板：一个 lead 负责理解任务�
 
 ## 场景标签
 
- · 领域:营销/Agent 应用
+`AI 写作` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

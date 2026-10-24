@@ -34,7 +34,7 @@ HealthSave iOS 应用的自托管后端：通过 HealthSave iOS 同步 Apple Hea
 
 ## 场景标签
 
- · 领域:健康数据/自托管服务
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

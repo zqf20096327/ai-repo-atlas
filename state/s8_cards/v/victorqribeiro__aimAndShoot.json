@@ -1,1 +1,74 @@
-{"fn": "victorqribeiro/aimAndShoot", "sha": "b143cf5c3ea7", "source": "readme", "identity": {"one_liner": "神经进化射击小游戏：敌人由遗传算法进化的神经网络控制", "review": "JavaScript/Canvas 编写的浏览器射击游戏与神经进化实验：每个机器人由独立神经网络控制，全部死亡后按命中数、失误、误伤队友、自伤与移动量计算适应度，遗传算法交叉繁衍下一代。2026 版修复并扩展了进化机制，改由 PHP+SQLite 服务器维护共享种群，所有玩家共同参与进化，服务器不可达时回退为本地进化。玩家用 WASD 移动、鼠标瞄准射击，作者提示不建议移动端使用。", "highlights": ["每个机器人由独立神经网络控制，用遗传算法按适应度交叉进化", "共享进化：服务器（PHP+SQLite）维护种群，全体玩家共同繁衍机器人", "服务器不可达时回退为本地进化", "2026 版修复进化缺陷：保留每代最优个体、变异细调而非打乱、适应度不再奖励乱射"], "use_cases": ["在浏览器中体验与进化中的神经网络机器人对战", "观察神经进化在对抗玩家过程中的行为变化"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["游戏", "神经进化", "遗传算法", "浏览器游戏", "实验项目"], "domain": "游戏/机器学习实验", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L41: Each bot is controlled by it's own Neural Network (that I made a while back - here). When all the bots die, the genetic ", "L52: - **Shared evolution.** The bots are no longer reset when you die. They come from one population kept on the server and "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "victorqribeiro/aimAndShoot",
+ "sha": "b143cf5c3ea7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "神经进化射击小游戏：敌人由遗传算法进化的神经网络控制",
+  "review": "JavaScript/Canvas 编写的浏览器射击游戏与神经进化实验：每个机器人由独立神经网络控制，全部死亡后按命中数、失误、误伤队友、自伤与移动量计算适应度，遗传算法交叉繁衍下一代。2026 版修复并扩展了进化机制，改由 PHP+SQLite 服务器维护共享种群，所有玩家共同参与进化，服务器不可达时回退为本地进化。玩家用 WASD 移动、鼠标瞄准射击，作者提示不建议移动端使用。",
+  "highlights": [
+   "每个机器人由独立神经网络控制，用遗传算法按适应度交叉进化",
+   "共享进化：服务器（PHP+SQLite）维护种群，全体玩家共同繁衍机器人",
+   "服务器不可达时回退为本地进化",
+   "2026 版修复进化缺陷：保留每代最优个体、变异细调而非打乱、适应度不再奖励乱射"
+  ],
+  "use_cases": [
+   "在浏览器中体验与进化中的神经网络机器人对战",
+   "观察神经进化在对抗玩家过程中的行为变化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏",
+   "神经进化",
+   "遗传算法",
+   "浏览器游戏",
+   "实验项目"
+  ],
+  "domain": "游戏/机器学习实验",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L41: Each bot is controlled by it's own Neural Network (that I made a while back - here). When all the bots die, the genetic ",
+   "L52: - **Shared evolution.** The bots are no longer reset when you die. They come from one population kept on the server and "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

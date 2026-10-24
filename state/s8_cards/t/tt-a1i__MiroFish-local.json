@@ -1,1 +1,85 @@
-{"fn": "tt-a1i/MiroFish-local", "sha": "75705e13efef", "source": "readme", "identity": {"one_liner": "MiroFish 的本地化 fork：Graphiti+Neo4j 替代 Zep Cloud 本地跑通", "review": "基于 MiroFish 的修改版 fork，多智能体群体智能仿真引擎，用于模拟舆情、市场情绪与社会动态。流程为：种子材料经 GraphRAG 构建知识图谱、生成智能体人设、OASIS 引擎驱动并行模拟、ReportAgent 生成预测报告、支持与模拟角色对话。本 fork 新增 Graphiti+Neo4j 本地记忆后端，通过 ZEP_BACKEND 环境变量在 cloud/graphiti 双模式间切换，本地模式数据不出域；LLM 侧支持任何 OpenAI SDK 格式 API。需 Python 3.11+、Node.js 18+，Mac 下开发测试，Windows 兼容性未知。单次模拟 Token 消耗较大（建议首跑少于 40 轮，约 50-100 万 Token）。", "highlights": ["Graphiti+Neo4j 本地记忆后端替代 Zep Cloud，数据不出域", "ZEP_BACKEND 环境变量一键切换 cloud/graphiti 双模式", "Docker Compose 一键启动 Neo4j 5.26 + APOC 插件", "兼容 OpenAI SDK 格式的任意 LLM API（含本地 Ollama）"], "use_cases": ["在无外网或数据不出域要求下运行社会动态仿真", "模拟突发事件舆情传播并生成预测报告", "与仿真世界角色对话，探索不同决策路径的演化结果"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": "local-ok", "hardware": "cpu-ok", "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [94]}}, "links": {"scenario_tags": ["社会仿真", "多智能体", "知识图谱", "数字孪生", "本地部署"], "domain": "社会仿真/AI 预测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README 为主", "推荐阿里百炼 qwen-plus 作为默认 LLM"]}, "trust": {"confidence": "mid", "evidence": ["L18: MiroFish 是一款基于多智能体技术的 AI 预测引擎，通过构建高保真平行数字世界进行群体智能仿真。但原版 MiroFish 的记忆与知识图谱完全依赖 **Zep Cloud** 云服务——数据经过云端，且无法在离线环境运行。", "L62: |**图谱构建**|基于 GraphRAG 提取实体关系，注入个体与群体记忆，构建知识图谱。本地模式使用 Graphiti + Neo4j 替代 Zep Cloud|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tt-a1i/MiroFish-local",
+ "sha": "75705e13efef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MiroFish 的本地化 fork：Graphiti+Neo4j 替代 Zep Cloud 本地跑通",
+  "review": "基于 MiroFish 的修改版 fork，多智能体群体智能仿真引擎，用于模拟舆情、市场情绪与社会动态。流程为：种子材料经 GraphRAG 构建知识图谱、生成智能体人设、OASIS 引擎驱动并行模拟、ReportAgent 生成预测报告、支持与模拟角色对话。本 fork 新增 Graphiti+Neo4j 本地记忆后端，通过 ZEP_BACKEND 环境变量在 cloud/graphiti 双模式间切换，本地模式数据不出域；LLM 侧支持任何 OpenAI SDK 格式 API。需 Python 3.11+、Node.js 18+，Mac 下开发测试，Windows 兼容性未知。单次模拟 Token 消耗较大（建议首跑少于 40 轮，约 50-100 万 Token）。",
+  "highlights": [
+   "Graphiti+Neo4j 本地记忆后端替代 Zep Cloud，数据不出域",
+   "ZEP_BACKEND 环境变量一键切换 cloud/graphiti 双模式",
+   "Docker Compose 一键启动 Neo4j 5.26 + APOC 插件",
+   "兼容 OpenAI SDK 格式的任意 LLM API（含本地 Ollama）"
+  ],
+  "use_cases": [
+   "在无外网或数据不出域要求下运行社会动态仿真",
+   "模拟突发事件舆情传播并生成预测报告",
+   "与仿真世界角色对话，探索不同决策路径的演化结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    94
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "社会仿真",
+   "多智能体",
+   "知识图谱",
+   "数字孪生",
+   "本地部署"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 为主",
+   "推荐阿里百炼 qwen-plus 作为默认 LLM"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: MiroFish 是一款基于多智能体技术的 AI 预测引擎，通过构建高保真平行数字世界进行群体智能仿真。但原版 MiroFish 的记忆与知识图谱完全依赖 **Zep Cloud** 云服务——数据经过云端，且无法在离线环境运行。",
+   "L62: |**图谱构建**|基于 GraphRAG 提取实体关系，注入个体与群体记忆，构建知识图谱。本地模式使用 Graphiti + Neo4j 替代 Zep Cloud|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
