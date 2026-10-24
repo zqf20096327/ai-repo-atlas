@@ -41,6 +41,18 @@
 > L105: - data/providers.json 是结构化资源台账，保存分类、官方文档、核验范围和日期。
 > L106: - scripts/verify.py 自动检查台账、README、HTML 卡片、网站地图及过期宣传用语的一致性。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AIPMAndy/FreeToken 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 141 --> 143
+    line [142, 142]
+```
+
+2026-10-23 142 → 2026-10-24 142（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `cd0b9f778daa` · [字段定义](../../DATASET.md)*

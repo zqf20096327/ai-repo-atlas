@@ -1,6 +1,6 @@
 # can4hou6joeng4/boss-agent-cli
 
-⭐ 2,125 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) · [官网](https://can4hou6joeng4.github.io/boss-agent-cli/) · 个人维护 · 中文 README
+⭐ 2,135 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) · [官网](https://can4hou6joeng4.github.io/boss-agent-cli/) · 个人维护 · 中文 README
 
 **BOSS 直聘终端 CLI：职位搜索、福利筛选与 AI 求职增强**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "can4hou6joeng4/boss-agent-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2095 --> 2127
-    line [2097, 2107, 2120, 2125]
+    title "can4hou6joeng4/boss-agent-cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2094 --> 2138
+    line [2097, 2107, 2120, 2125, 2135]
 ```
 
-2026-10-18 2,097 → 2026-10-23 2,125（+28）
+2026-10-18 2,097 → 2026-10-24 2,135（+38）
 
 
 ---

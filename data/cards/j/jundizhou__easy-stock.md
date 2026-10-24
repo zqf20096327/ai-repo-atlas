@@ -1,6 +1,6 @@
 # jundizhou/easy-stock
 
-⭐ 1,589 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/jundizhou/easy-stock) · [官网](https://github.com/jundizhou/easy-stock/blob/main/docs/user-guide.md) · 个人维护 · 中文 README
+⭐ 1,597 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/jundizhou/easy-stock) · [官网](https://github.com/jundizhou/easy-stock/blob/main/docs/user-guide.md) · 个人维护 · 中文 README
 
 **A股 AI 智能投研桌面工作台：行情分析、复盘与持仓巡检**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jundizhou/easy-stock 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1505 --> 1596
-    line [1512, 1548, 1583, 1589]
+    title "jundizhou/easy-stock 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1504 --> 1605
+    line [1512, 1548, 1583, 1589, 1597]
 ```
 
-2026-10-18 1,512 → 2026-10-23 1,589（+77）
+2026-10-18 1,512 → 2026-10-24 1,597（+85）
 
 
 ---

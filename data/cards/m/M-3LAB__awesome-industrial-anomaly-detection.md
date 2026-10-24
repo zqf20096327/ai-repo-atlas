@@ -1,6 +1,6 @@
 # M-3LAB/awesome-industrial-anomaly-detection
 
-⭐ 3,832 · 推送 2026-10-19 · [GitHub](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) · [官网](https://link.springer.com/content/pdf/10.1007/s11633-023-1459-z.pdf) · 组织维护 · 中文 README
+⭐ 3,834 · 推送 2026-10-23 · [GitHub](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) · [官网](https://link.springer.com/content/pdf/10.1007/s11633-023-1459-z.pdf) · 组织维护 · 中文 README
 
 **工业图像异常/瑕疵检测论文与数据集的策展清单（持续更新）**
 
@@ -45,13 +45,13 @@ M-3LAB 维护的 awesome 型论文清单，收录工业图像异常检测与缺�
 
 ```mermaid
 xychart-beta
-    title "M-3LAB/awesome-industrial-anomaly-detection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3823 --> 3833
-    line [3824, 3826, 3830, 3832]
+    title "M-3LAB/awesome-industrial-anomaly-detection 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3823 --> 3835
+    line [3824, 3826, 3830, 3832, 3834]
 ```
 
-2026-10-18 3,824 → 2026-10-23 3,832（+8）
+2026-10-18 3,824 → 2026-10-24 3,834（+10）
 
 
 ---

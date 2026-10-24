@@ -1,6 +1,6 @@
 # ndesv21/socialclaw
 
-⭐ 97 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ndesv21/socialclaw) · [官网](https://getsocialclaw.com) · 个人维护
+⭐ 98 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ndesv21/socialclaw) · [官网](https://getsocialclaw.com) · 个人维护
 
 **供 AI agent 调度的社媒发布 CLI 与技能包**
 
@@ -46,12 +46,12 @@ SocialClaw 是一个 npm CLI 与 OpenClaw 技能包，连接到其托管服务 g
 ```mermaid
 xychart-beta
     title "ndesv21/socialclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 95 --> 98
-    line [96, 97, 97]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 95 --> 99
+    line [96, 97, 98]
 ```
 
-2026-10-18 96 → 2026-10-23 97（+1）
+2026-10-18 96 → 2026-10-24 98（+2）
 
 
 ---

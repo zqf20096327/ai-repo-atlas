@@ -45,12 +45,12 @@ Flutter 跨平台（iOS/Android/Web）营养追踪应用，配合独立的 FastA
 ```mermaid
 xychart-beta
     title "MabudAlam/NomAI-App 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-10-18 126 → 2026-10-23 126（+0）
+2026-10-18 126 → 2026-10-24 126（+0）
 
 
 ---

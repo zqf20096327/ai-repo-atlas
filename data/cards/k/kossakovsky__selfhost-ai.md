@@ -1,6 +1,6 @@
 # kossakovsky/selfhost-ai
 
-⭐ 951 · Shell · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kossakovsky/selfhost-ai) · [官网](https://github.com/kossakovsky/selfhost-ai#readme) · 个人维护
+⭐ 952 · Shell · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kossakovsky/selfhost-ai) · [官网](https://github.com/kossakovsky/selfhost-ai#readme) · 个人维护
 
 **一条命令在自有服务器部署 30+ 开源自托管 AI 工具栈**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kossakovsky/selfhost-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 945 --> 952
-    line [946, 951, 951]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 945 --> 953
+    line [946, 951, 952]
 ```
 
-2026-10-18 946 → 2026-10-23 951（+5）
+2026-10-18 946 → 2026-10-24 952（+6）
 
 
 ---

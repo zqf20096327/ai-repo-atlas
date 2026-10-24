@@ -1,6 +1,6 @@
 # Serg-Norseman/GEDKeeper
 
-⭐ 215 · C# · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/Serg-Norseman/GEDKeeper) · [官网](https://gedkeeper.net/) · 个人维护
+⭐ 215 · C# · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Serg-Norseman/GEDKeeper) · [官网](https://gedkeeper.net/) · 个人维护
 
 **跨平台个人家谱数据库管理程序，支持 GEDCOM 标准与插件**
 
@@ -45,12 +45,12 @@ GEDKeeper 是用于管理个人家谱数据库的桌面程序：完整支持 GED
 ```mermaid
 xychart-beta
     title "Serg-Norseman/GEDKeeper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 214 --> 216
     line [215, 215]
 ```
 
-2026-10-18 215 → 2026-10-23 215（+0）
+2026-10-18 215 → 2026-10-24 215（+0）
 
 
 ---

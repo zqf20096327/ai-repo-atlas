@@ -1,6 +1,6 @@
 # sindresorhus/awesome-whisper
 
-⭐ 2,423 · CC0-1.0 · 推送 2026-09-17 · [GitHub](https://github.com/sindresorhus/awesome-whisper) · 个人维护
+⭐ 2,424 · CC0-1.0 · 推送 2026-09-17 · [GitHub](https://github.com/sindresorhus/awesome-whisper) · 个人维护
 
 **Whisper 语音识别生态的策展清单：模型变体、应用与工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sindresorhus/awesome-whisper 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2417 --> 2424
-    line [2418, 2419, 2422, 2423]
+    title "sindresorhus/awesome-whisper 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2417 --> 2425
+    line [2418, 2419, 2422, 2423, 2424]
 ```
 
-2026-10-18 2,418 → 2026-10-23 2,423（+5）
+2026-10-18 2,418 → 2026-10-24 2,424（+6）
 
 
 ---

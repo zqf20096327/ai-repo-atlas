@@ -1,6 +1,6 @@
 # BishopFox/eyeballer
 
-⭐ 1,294 · Python · GPL-3.0 · 推送 2026-03-08 · [GitHub](https://github.com/BishopFox/eyeballer) · 组织维护
+⭐ 1,293 · Python · GPL-3.0 · 推送 2026-03-08 · [GitHub](https://github.com/BishopFox/eyeballer) · 组织维护
 
 **用卷积神经网络分析渗透测试截图、标注高价值目标的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BishopFox/eyeballer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "BishopFox/eyeballer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1292 --> 1296
-    line [1293, 1295, 1294]
+    line [1293, 1295, 1294, 1293]
 ```
 
-2026-10-18 1,293 → 2026-10-23 1,294（+1）
+2026-10-18 1,293 → 2026-10-24 1,293（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # zachahn/vomit
 
-⭐ 200 · Go · GPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/zachahn/vomit) · 个人维护
+⭐ 201 · Go · GPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/zachahn/vomit) · 个人维护
 
 **把 Claude Code 的 token 输出经本地 LLM 改写为可读英文**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "zachahn/vomit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "zachahn/vomit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 199 --> 202
-    line [200, 201, 200]
+    line [200, 201, 200, 201]
 ```
 
-2026-10-18 200 → 2026-10-23 200（+0）
+2026-10-18 200 → 2026-10-24 201（+1）
 
 
 ---

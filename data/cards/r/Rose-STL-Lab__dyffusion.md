@@ -1,6 +1,6 @@
 # Rose-STL-Lab/dyffusion
 
-⭐ 235 · Python · Apache-2.0 · 推送 2025-10-27 · [GitHub](https://github.com/Rose-STL-Lab/dyffusion) · [官网](https://salvarc.github.io/blog/2023/dyffusion) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **时空预测的动力学引导扩散模型官方实现（NeurIPS 2023）**
 
@@ -11,7 +11,7 @@ DYffusion 论文的官方 PyTorch 实现：给定初始条件 x0，用动力学�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Breeze-TTS-2
 
-⭐ 99 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Saganaki22/ComfyUI-Breeze-TTS-2) · [官网](https://huggingface.co/drbaph/Breeze-TTS-2-comfyui) · 个人维护 · 中文 README
+⭐ 100 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Saganaki22/ComfyUI-Breeze-TTS-2) · [官网](https://huggingface.co/drbaph/Breeze-TTS-2-comfyui) · 个人维护 · 中文 README
 
 **ComfyUI 的 Breeze TTS 2 语音合成节点包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Saganaki22/ComfyUI-Breeze-TTS-2 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 96 --> 100
-    line [97, 98, 99, 99]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 96 --> 101
+    line [97, 98, 99, 100]
 ```
 
-2026-10-18 97 → 2026-10-23 99（+2）
+2026-10-18 97 → 2026-10-24 100（+3）
 
 
 ---

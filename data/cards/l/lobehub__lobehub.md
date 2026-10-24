@@ -1,6 +1,6 @@
 # lobehub/lobehub
 
-⭐ 83,422 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/lobehub/lobehub) · [官网](https://lobehub.com) · 组织维护 · 中文 README
+⭐ 83,448 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/lobehub/lobehub) · [官网](https://lobehub.com) · 组织维护 · 中文 README
 
 **多智能体协作平台：像团队一样雇佣、调度、汇报 AI 代理**
 
@@ -52,13 +52,13 @@ LobeHub 是一个面向多智能体协作的工作空间：以 Agent 为工作�
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobehub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 83278 --> 83435
-    line [83291, 83333, 83382, 83422]
+    title "lobehub/lobehub 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 83276 --> 83463
+    line [83291, 83333, 83382, 83422, 83448]
 ```
 
-2026-10-18 83,291 → 2026-10-23 83,422（+131）
+2026-10-18 83,291 → 2026-10-24 83,448（+157）
 
 
 ---

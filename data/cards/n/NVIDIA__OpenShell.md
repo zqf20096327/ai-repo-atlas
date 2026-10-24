@@ -1,6 +1,6 @@
 # NVIDIA/OpenShell
 
-⭐ 17,287 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/OpenShell) · [官网](https://docs.nvidia.com/openshell/latest/) · 组织维护
+⭐ 18,614 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/OpenShell) · [官网](https://docs.nvidia.com/openshell/latest/) · 组织维护
 
 **为自主 AI agent 提供安全隔离运行时与策略管控**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/OpenShell 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 16434 --> 17364
-    line [16511, 16709, 16935, 17287]
+    title "NVIDIA/OpenShell 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 16301 --> 18824
+    line [16511, 16709, 16935, 17287, 18614]
 ```
 
-2026-10-18 16,511 → 2026-10-23 17,287（+776）
+2026-10-18 16,511 → 2026-10-24 18,614（+2,103）
 
 
 ---

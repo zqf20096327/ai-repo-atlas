@@ -1,6 +1,6 @@
 # matthiasn/lotti
 
-⭐ 1,200 · Dart · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/matthiasn/lotti) · [官网](https://matthiasn.github.io/lotti/) · 个人维护
+⭐ 1,200 · Dart · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/matthiasn/lotti) · [官网](https://matthiasn.github.io/lotti/) · 个人维护
 
 **端到端加密的个人记录应用，AI 助手提议、用户批准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matthiasn/lotti 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1198 --> 1201
     line [1200, 1199, 1200, 1200]
 ```
 
-2026-10-18 1,200 → 2026-10-23 1,200（+0）
+2026-10-18 1,200 → 2026-10-24 1,200（+0）
 
 
 ---

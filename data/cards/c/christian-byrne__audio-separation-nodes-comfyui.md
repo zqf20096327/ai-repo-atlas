@@ -1,6 +1,6 @@
 # christian-byrne/audio-separation-nodes-comfyui
 
-⭐ 647 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/christian-byrne/audio-separation-nodes-comfyui) · 个人维护
+⭐ 648 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/christian-byrne/audio-separation-nodes-comfyui) · 个人维护
 
 **ComfyUI 音频分离节点集：Demucs 分离人声/鼓/贝斯等四轨**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点集合，核心的 Audio Separation 节点使用 Hybrid D
 ```mermaid
 xychart-beta
     title "christian-byrne/audio-separation-nodes-comfyui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 644 --> 648
-    line [645, 647, 647]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 644 --> 649
+    line [645, 647, 648]
 ```
 
-2026-10-18 645 → 2026-10-23 647（+2）
+2026-10-18 645 → 2026-10-24 648（+3）
 
 
 ---

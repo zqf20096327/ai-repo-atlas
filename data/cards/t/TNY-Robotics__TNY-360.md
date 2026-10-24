@@ -1,6 +1,6 @@
 # TNY-Robotics/TNY-360
 
-⭐ 353 · C++ · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/TNY-Robotics/TNY-360) · [官网](https://tny-robotics.com/tny-360) · 组织维护
+⭐ 353 · C++ · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/TNY-Robotics/TNY-360) · [官网](https://tny-robotics.com/tny-360) · 组织维护
 
 **开源四足机器狗的完整源码与硬件设计（含 3D/PCB/固件）**
 
@@ -44,13 +44,13 @@ TNY Robotics 团队维护的开源机器狗项目，提供全套自制资料：B
 
 ```mermaid
 xychart-beta
-    title "TNY-Robotics/TNY-360 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "TNY-Robotics/TNY-360 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 350 --> 354
-    line [351, 353]
+    line [351, 353, 353]
 ```
 
-2026-10-18 351 → 2026-10-23 353（+2）
+2026-10-18 351 → 2026-10-24 353（+2）
 
 
 ---

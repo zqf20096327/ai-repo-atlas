@@ -1,6 +1,6 @@
 # ARahim3/kaggle-tpu-lab
 
-⭐ 704 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ARahim3/kaggle-tpu-lab) · 个人维护
+⭐ 705 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ARahim3/kaggle-tpu-lab) · 个人维护
 
 **在 Kaggle 免费 TPU 上运行开源模型并暴露 API 端点的方案集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ARahim3/kaggle-tpu-lab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 666 --> 707
-    line [669, 691, 698, 704]
+    title "ARahim3/kaggle-tpu-lab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 666 --> 708
+    line [669, 691, 698, 704, 705]
 ```
 
-2026-10-18 669 → 2026-10-23 704（+35）
+2026-10-18 669 → 2026-10-24 705（+36）
 
 
 ---

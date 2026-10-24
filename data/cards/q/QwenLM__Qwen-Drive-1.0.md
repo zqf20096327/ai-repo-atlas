@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Drive-1.0
 
-⭐ 522 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/QwenLM/Qwen-Drive-1.0) · 组织维护 · 中文 README
+⭐ 523 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/QwenLM/Qwen-Drive-1.0) · 组织维护 · 中文 README
 
 **面向自动驾驶的视觉-语言基础模型：3D 感知、驾驶问答与轨迹规划**
 
@@ -46,13 +46,13 @@ Qwen 团队与华中科技大学发布的自动驾驶视觉-语言基础模型�
 
 ```mermaid
 xychart-beta
-    title "QwenLM/Qwen-Drive-1.0 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 514 --> 523
-    line [515, 518, 521, 522]
+    title "QwenLM/Qwen-Drive-1.0 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 514 --> 524
+    line [515, 518, 521, 522, 523]
 ```
 
-2026-10-18 515 → 2026-10-23 522（+7）
+2026-10-18 515 → 2026-10-24 523（+8）
 
 
 ---

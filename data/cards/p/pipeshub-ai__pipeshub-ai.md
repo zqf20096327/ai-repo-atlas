@@ -1,6 +1,6 @@
 # pipeshub-ai/pipeshub-ai
 
-⭐ 3,843 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) · [官网](https://pipeshub.com) · 组织维护 · 中文 README
+⭐ 3,844 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) · [官网](https://pipeshub.com) · 组织维护 · 中文 README
 
 **企业知识上下文层：把 50+ 办公系统数据变为可搜索、带权限与引用的 agent 上下文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pipeshub-ai/pipeshub-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3835 --> 3844
-    line [3836, 3840, 3842, 3843]
+    title "pipeshub-ai/pipeshub-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3835 --> 3845
+    line [3836, 3840, 3842, 3843, 3844]
 ```
 
-2026-10-18 3,836 → 2026-10-23 3,843（+7）
+2026-10-18 3,836 → 2026-10-24 3,844（+8）
 
 
 ---

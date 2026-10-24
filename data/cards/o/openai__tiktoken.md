@@ -1,6 +1,6 @@
 # openai/tiktoken
 
-⭐ 19,506 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/openai/tiktoken) · 组织维护
+⭐ 19,512 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/openai/tiktoken) · 组织维护
 
 **面向 OpenAI 模型的快速 BPE 分词器库**
 
@@ -53,13 +53,13 @@ tiktoken 是一个 BPE 分词 Python 库，提供编码/解码文本、按 OpenA
 
 ```mermaid
 xychart-beta
-    title "openai/tiktoken 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 19473 --> 19509
-    line [19476, 19489, 19500, 19506]
+    title "openai/tiktoken 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 19473 --> 19515
+    line [19476, 19489, 19500, 19506, 19512]
 ```
 
-2026-10-18 19,476 → 2026-10-23 19,506（+30）
+2026-10-18 19,476 → 2026-10-24 19,512（+36）
 
 
 ---

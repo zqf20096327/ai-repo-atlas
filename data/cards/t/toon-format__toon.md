@@ -1,6 +1,6 @@
 # toon-format/toon
 
-⭐ 25,546 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/toon-format/toon) · [官网](https://toonformat.dev) · 组织维护
+⭐ 25,550 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/toon-format/toon) · [官网](https://toonformat.dev) · 组织维护
 
 **为 LLM 提示词设计的紧凑 JSON 序列化格式，降低 token 消耗**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "toon-format/toon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 25505 --> 25549
-    line [25508, 25524, 25546]
+    title "toon-format/toon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 25504 --> 25554
+    line [25508, 25524, 25546, 25550]
 ```
 
-2026-10-18 25,508 → 2026-10-23 25,546（+38）
+2026-10-18 25,508 → 2026-10-24 25,550（+42）
 
 
 ---

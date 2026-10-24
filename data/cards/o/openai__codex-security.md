@@ -1,6 +1,6 @@
 # openai/codex-security
 
-⭐ 11,173 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/codex-security) · [官网](https://developers.openai.com/codex/security) · 组织维护
+⭐ 11,185 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openai/codex-security) · [官网](https://developers.openai.com/codex/security) · 组织维护
 
 **OpenAI 的代码安全漏洞扫描、验证与修复 CLI/SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/codex-security 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11120 --> 11177
-    line [11124, 11137, 11154, 11173]
+    title "openai/codex-security 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11118 --> 11191
+    line [11124, 11137, 11154, 11173, 11185]
 ```
 
-2026-10-18 11,124 → 2026-10-23 11,173（+49）
+2026-10-18 11,124 → 2026-10-24 11,185（+61）
 
 
 ---

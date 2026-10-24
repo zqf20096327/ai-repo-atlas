@@ -1,6 +1,6 @@
 # intuitem/ciso-assistant-community
 
-⭐ 4,534 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/intuitem/ciso-assistant-community) · [官网](https://intuitem.com) · 组织维护
+⭐ 4,535 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/intuitem/ciso-assistant-community) · [官网](https://intuitem.com) · 组织维护
 
 **网络安全 GRC 一体化平台：风险管理、合规审计与报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "intuitem/ciso-assistant-community 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 4522 --> 4535
-    line [4523, 4529, 4534]
+    title "intuitem/ciso-assistant-community 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4522 --> 4536
+    line [4523, 4529, 4534, 4535]
 ```
 
-2026-10-18 4,523 → 2026-10-23 4,534（+11）
+2026-10-18 4,523 → 2026-10-24 4,535（+12）
 
 
 ---

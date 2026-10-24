@@ -1,6 +1,6 @@
 # xr843/fojin
 
-⭐ 352 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/xr843/fojin) · [官网](https://fojin.app) · 个人维护 · 中文 README
+⭐ 352 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xr843/fojin) · [官网](https://fojin.app) · 个人维护 · 中文 README
 
 **面向佛学研究者与读者的佛教文献平台：带引文可验证的 AI 问答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xr843/fojin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 350 --> 353
     line [351, 352, 352]
 ```
 
-2026-10-18 351 → 2026-10-23 352（+1）
+2026-10-18 351 → 2026-10-24 352（+1）
 
 
 ---

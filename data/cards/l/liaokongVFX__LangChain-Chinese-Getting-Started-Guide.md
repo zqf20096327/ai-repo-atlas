@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liaokongVFX/LangChain-Chinese-Getting-Started-Guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "liaokongVFX/LangChain-Chinese-Getting-Started-Guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 9139 --> 9148
-    line [9140, 9144, 9145, 9147]
+    line [9140, 9144, 9145, 9147, 9147]
 ```
 
-2026-10-18 9,140 → 2026-10-23 9,147（+7）
+2026-10-18 9,140 → 2026-10-24 9,147（+7）
 
 
 ---

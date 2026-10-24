@@ -1,6 +1,6 @@
 # Babyhamsta/Aimmy
 
-⭐ 1,619 · C# · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/Babyhamsta/Aimmy) · 组织维护
+⭐ 1,620 · C# · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/Babyhamsta/Aimmy) · 组织维护
 
 **面向操作受限玩家的 C# AI 瞄准辅助桌面工具（YOLOv8 屏幕检测）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Babyhamsta/Aimmy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1613 --> 1620
-    line [1614, 1616, 1618, 1619]
+    title "Babyhamsta/Aimmy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1613 --> 1621
+    line [1614, 1616, 1618, 1619, 1620]
 ```
 
-2026-10-18 1,614 → 2026-10-23 1,619（+5）
+2026-10-18 1,614 → 2026-10-24 1,620（+6）
 
 
 ---

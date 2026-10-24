@@ -1,6 +1,6 @@
 # 2dogsandanerd/Knowledge-Base-Self-Hosting-Kit
 
-⭐ 356 · Python · NOASSERTION · 推送 2026-03-14 · [GitHub](https://github.com/2dogsandanerd/Knowledge-Base-Self-Hosting-Kit) · 个人维护
+⭐ 355 · Python · NOASSERTION · 推送 2026-03-14 · [GitHub](https://github.com/2dogsandanerd/Knowledge-Base-Self-Hosting-Kit) · 个人维护
 
 **自托管 RAG 知识库套件：本地摄取文档与代码并语义查询**
 
@@ -45,12 +45,12 @@ Docker Compose 部署的自托管 RAG 系统：通过 ChromaDB 与 Docling 摄�
 ```mermaid
 xychart-beta
     title "2dogsandanerd/Knowledge-Base-Self-Hosting-Kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 354 --> 357
-    line [355, 356, 356]
+    line [355, 356, 355]
 ```
 
-2026-10-18 355 → 2026-10-23 356（+1）
+2026-10-18 355 → 2026-10-24 355（+0）
 
 
 ---

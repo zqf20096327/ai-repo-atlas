@@ -1,6 +1,6 @@
 # vanloctech/youwee
 
-⭐ 1,577 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/vanloctech/youwee) · 组织维护 · 中文 README
+⭐ 1,579 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/vanloctech/youwee) · 组织维护 · 中文 README
 
 **跨平台视频下载器（yt-dlp GUI），含 AI 摘要与自然语言剪辑**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vanloctech/youwee 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1564 --> 1578
-    line [1565, 1570, 1575, 1577]
+    title "vanloctech/youwee 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1564 --> 1580
+    line [1565, 1570, 1575, 1577, 1579]
 ```
 
-2026-10-18 1,565 → 2026-10-23 1,577（+12）
+2026-10-18 1,565 → 2026-10-24 1,579（+14）
 
 
 ---

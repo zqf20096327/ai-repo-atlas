@@ -1,6 +1,6 @@
 # nhivp/Awesome-Embedded
 
-⭐ 9,245 · Unlicense · 推送 2026-10-10 · [GitHub](https://github.com/nhivp/Awesome-Embedded) · [官网](https://nhivp.github.io/Awesome-Embedded/) · 个人维护
+⭐ 9,251 · Unlicense · 推送 2026-10-10 · [GitHub](https://github.com/nhivp/Awesome-Embedded) · [官网](https://nhivp.github.io/Awesome-Embedded/) · 个人维护
 
 **嵌入式编程资源策展清单：链接教程、RTOS、裸机开发资料**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "nhivp/Awesome-Embedded 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 9225 --> 9246
-    line [9226, 9234, 9238, 9245]
+    title "nhivp/Awesome-Embedded 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9224 --> 9253
+    line [9226, 9234, 9238, 9245, 9251]
 ```
 
-2026-10-18 9,226 → 2026-10-23 9,245（+19）
+2026-10-18 9,226 → 2026-10-24 9,251（+25）
 
 
 ---

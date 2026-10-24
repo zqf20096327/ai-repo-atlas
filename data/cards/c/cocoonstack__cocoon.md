@@ -1,6 +1,6 @@
 # cocoonstack/cocoon
 
-⭐ 251 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cocoonstack/cocoon) · [官网](https://cocoonstack.github.io/cocoon/) · 组织维护
+⭐ 254 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/cocoonstack/cocoon) · [官网](https://cocoonstack.github.io/cocoon/) · 组织维护
 
 **轻量 MicroVM 引擎：为开发者提供 Docker 式虚拟机管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cocoonstack/cocoon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 247 --> 252
-    line [248, 249, 250, 251]
+    title "cocoonstack/cocoon 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 247 --> 255
+    line [248, 249, 250, 251, 254]
 ```
 
-2026-10-18 248 → 2026-10-23 251（+3）
+2026-10-18 248 → 2026-10-24 254（+6）
 
 
 ---

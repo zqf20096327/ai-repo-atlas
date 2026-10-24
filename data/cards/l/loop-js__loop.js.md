@@ -45,13 +45,13 @@ loop.js 是一个 TypeScript/Node.js 框架，实现所谓 loop engineering：�
 
 ```mermaid
 xychart-beta
-    title "loop-js/loop.js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "loop-js/loop.js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 135 --> 138
-    line [137, 136]
+    line [137, 136, 136]
 ```
 
-2026-10-18 137 → 2026-10-23 136（-1）
+2026-10-18 137 → 2026-10-24 136（-1）
 
 
 ---

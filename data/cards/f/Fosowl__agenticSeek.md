@@ -1,6 +1,6 @@
 # Fosowl/agenticSeek
 
-⭐ 27,529 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Fosowl/agenticSeek) · [官网](http://agenticseek.tech) · 个人维护 · 中文 README
+⭐ 27,538 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Fosowl/agenticSeek) · [官网](http://agenticseek.tech) · 个人维护 · 中文 README
 
 **本地运行的自主 AI 代理：浏览网页、写代码、规划任务**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fosowl/agenticSeek 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 27500 --> 27531
-    line [27502, 27513, 27519, 27529]
+    title "Fosowl/agenticSeek 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 27499 --> 27541
+    line [27502, 27513, 27519, 27529, 27538]
 ```
 
-2026-10-18 27,502 → 2026-10-23 27,529（+27）
+2026-10-18 27,502 → 2026-10-24 27,538（+36）
 
 
 ---

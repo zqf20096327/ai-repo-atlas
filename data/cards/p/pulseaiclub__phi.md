@@ -1,6 +1,6 @@
 # pulseaiclub/phi
 
-⭐ 612 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pulseaiclub/phi) · [官网](https://pulseaiclub.github.io/) · 组织维护 · 中文 README
+⭐ 624 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pulseaiclub/phi) · [官网](https://pulseaiclub.github.io/) · 组织维护 · 中文 README
 
 **终端里的快速编码 agent：TUI/无头运行，多模型接入**
 
@@ -45,13 +45,13 @@ Go 编写的终端编码 agent，提供 TUI 与 headless 两种模式：模型�
 
 ```mermaid
 xychart-beta
-    title "pulseaiclub/phi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 554 --> 628
-    line [560, 589, 622, 612]
+    title "pulseaiclub/phi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 554 --> 630
+    line [560, 589, 622, 612, 624]
 ```
 
-2026-10-18 560 → 2026-10-23 612（+52）
+2026-10-18 560 → 2026-10-24 624（+64）
 
 
 ---

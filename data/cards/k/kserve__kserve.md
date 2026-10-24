@@ -1,6 +1,6 @@
 # kserve/kserve
 
-⭐ 6,144 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kserve/kserve) · [官网](https://kserve.github.io/website/) · 组织维护
+⭐ 6,147 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kserve/kserve) · [官网](https://kserve.github.io/website/) · 组织维护
 
 **Kubernetes 上的标准化 AI 推理服务平台（生成式+预测式）**
 
@@ -45,12 +45,12 @@ CNCF 孵化项目，在 Kubernetes 上统一部署生成式与预测式 AI 推�
 ```mermaid
 xychart-beta
     title "kserve/kserve 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6121 --> 6146
-    line [6123, 6133, 6144, 6144]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 6121 --> 6149
+    line [6123, 6133, 6144, 6147]
 ```
 
-2026-10-18 6,123 → 2026-10-23 6,144（+21）
+2026-10-18 6,123 → 2026-10-24 6,147（+24）
 
 
 ---

@@ -1,6 +1,6 @@
 # qodo-ai/qodo-cover
 
-⭐ 5,668 · Python · AGPL-3.0 · 推送 2026-04-05 · [GitHub](https://github.com/qodo-ai/qodo-cover) · [官网](https://qodo.ai/) · 组织维护
+⭐ 5,670 · Python · AGPL-3.0 · 推送 2026-04-05 · [GitHub](https://github.com/qodo-ai/qodo-cover) · [官网](https://qodo.ai/) · 组织维护
 
 **自动生成单元测试以提升代码覆盖率的 AI CLI/CI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qodo-ai/qodo-cover 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5663 --> 5669
-    line [5664, 5665, 5668, 5668]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 5663 --> 5671
+    line [5664, 5665, 5668, 5670]
 ```
 
-2026-10-18 5,664 → 2026-10-23 5,668（+4）
+2026-10-18 5,664 → 2026-10-24 5,670（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mubelotix/SimRepo
 
-⭐ 438 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Mubelotix/SimRepo) · [官网](https://star-history.dera.page) · 个人维护
+⭐ 439 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Mubelotix/SimRepo) · [官网](https://star-history.dera.page) · 个人维护
 
 **无需 Token 的 GitHub 星图与相似仓库推荐工具（含浏览器扩展）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mubelotix/SimRepo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 429 --> 439
-    line [430, 433, 437, 438]
+    title "Mubelotix/SimRepo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 429 --> 440
+    line [430, 433, 437, 438, 439]
 ```
 
-2026-10-18 430 → 2026-10-23 438（+8）
+2026-10-18 430 → 2026-10-24 439（+9）
 
 
 ---

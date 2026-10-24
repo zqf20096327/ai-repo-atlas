@@ -1,6 +1,6 @@
 # Tura-AI/tura
 
-⭐ 662 · Rust · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/Tura-AI/tura) · [官网](https://turaai.net/) · 组织维护 · 中文 README
+⭐ 661 · Rust · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/Tura-AI/tura) · [官网](https://turaai.net/) · 组织维护 · 中文 README
 
 **面向开发者的终端编码 agent，以更少 token 轮次执行任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tura-AI/tura 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "Tura-AI/tura 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 658 --> 663
-    line [659, 661, 662]
+    line [659, 661, 662, 661]
 ```
 
-2026-10-18 659 → 2026-10-23 662（+3）
+2026-10-18 659 → 2026-10-24 661（+2）
 
 
 ---

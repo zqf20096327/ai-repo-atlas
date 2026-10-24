@@ -1,6 +1,6 @@
 # himovo/movo
 
-⭐ 339 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/himovo/movo) · [官网](https://www.himovo.com) · 组织维护 · 中文 README
+⭐ 352 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/himovo/movo) · [官网](https://www.himovo.com) · 组织维护 · 中文 README
 
 **自托管企业 Agent 平台：在 DSH 运行时上交付知识问答与自动化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "himovo/movo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 299 --> 342
-    line [302, 311, 332, 339]
+    title "himovo/movo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 297 --> 357
+    line [302, 311, 332, 339, 352]
 ```
 
-2026-10-18 302 → 2026-10-23 339（+37）
+2026-10-18 302 → 2026-10-24 352（+50）
 
 
 ---

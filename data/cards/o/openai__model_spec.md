@@ -1,6 +1,6 @@
 # openai/model_spec
 
-⭐ 833 · CC0-1.0 · 推送 2026-08-18 · [GitHub](https://github.com/openai/model_spec) · [官网](https://model-spec.openai.com/) · 组织维护
+⭐ 832 · CC0-1.0 · 推送 2026-08-18 · [GitHub](https://github.com/openai/model_spec) · [官网](https://model-spec.openai.com/) · 组织维护
 
 **OpenAI 模型行为规范文档：模型期望行为的官方规约来源**
 
@@ -43,13 +43,13 @@ OpenAI 官方仓库，存放 Model Spec 的 Markdown 源文件及历次已发布
 
 ```mermaid
 xychart-beta
-    title "openai/model_spec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "openai/model_spec 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 830 --> 835
-    line [831, 832, 834, 833]
+    line [831, 832, 834, 833, 832]
 ```
 
-2026-10-18 831 → 2026-10-23 833（+2）
+2026-10-18 831 → 2026-10-24 832（+1）
 
 
 ---

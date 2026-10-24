@@ -1,6 +1,6 @@
 # MadeAgents/mobile-use
 
-⭐ 242 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/MadeAgents/mobile-use) · [官网](https://arxiv.org/abs/2507.16853) · 组织维护 · 中文 README
+⭐ 243 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/MadeAgents/mobile-use) · [官网](https://arxiv.org/abs/2507.16853) · 组织维护 · 中文 README
 
 **安卓真机自动化 GUI agent：用多模态大模型完成长程手机任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MadeAgents/mobile-use 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 236 --> 243
-    line [237, 239, 242]
+    title "MadeAgents/mobile-use 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 236 --> 244
+    line [237, 239, 242, 243]
 ```
 
-2026-10-18 237 → 2026-10-23 242（+5）
+2026-10-18 237 → 2026-10-24 243（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # CaviraOSS/PageLM
 
-⭐ 2,036 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/CaviraOSS/PageLM) · 组织维护
+⭐ 2,037 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/CaviraOSS/PageLM) · 组织维护
 
 **开源 AI 学习平台：把学习资料转成测验、闪卡、笔记与播客**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CaviraOSS/PageLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2029 --> 2037
-    line [2030, 2031, 2035, 2036]
+    title "CaviraOSS/PageLM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2029 --> 2038
+    line [2030, 2031, 2035, 2036, 2037]
 ```
 
-2026-10-18 2,030 → 2026-10-23 2,036（+6）
+2026-10-18 2,030 → 2026-10-24 2,037（+7）
 
 
 ---

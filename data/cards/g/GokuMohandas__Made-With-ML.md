@@ -1,6 +1,6 @@
 # GokuMohandas/Made-With-ML
 
-⭐ 49,796 · Jupyter Notebook · MIT · 推送 2026-03-04 · [GitHub](https://github.com/GokuMohandas/Made-With-ML) · [官网](https://madewithml.com) · 个人维护
+⭐ 49,808 · Jupyter Notebook · MIT · 推送 2026-03-04 · [GitHub](https://github.com/GokuMohandas/Made-With-ML) · [官网](https://madewithml.com) · 个人维护
 
 **面向开发者的生产级 ML/MLOps 应用开发课程**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "GokuMohandas/Made-With-ML 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 49752 --> 49800
-    line [49756, 49774, 49790, 49796]
+    title "GokuMohandas/Made-With-ML 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 49751 --> 49813
+    line [49756, 49774, 49790, 49796, 49808]
 ```
 
-2026-10-18 49,756 → 2026-10-23 49,796（+40）
+2026-10-18 49,756 → 2026-10-24 49,808（+52）
 
 
 ---

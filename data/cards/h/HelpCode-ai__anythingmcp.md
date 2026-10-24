@@ -1,6 +1,6 @@
 # HelpCode-ai/anythingmcp
 
-⭐ 775 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/HelpCode-ai/anythingmcp) · [官网](https://anythingmcp.com) · 组织维护 · 中文 README
+⭐ 786 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/HelpCode-ai/anythingmcp) · [官网](https://anythingmcp.com) · 组织维护 · 中文 README
 
 **自托管 MCP 网关：把 REST/SOAP/GraphQL/SQL 系统变成 MCP 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HelpCode-ai/anythingmcp 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-23"]
-    y-axis "stars" 760 --> 776
-    line [761, 775]
+    title "HelpCode-ai/anythingmcp 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 759 --> 788
+    line [761, 775, 786]
 ```
 
-2026-10-19 761 → 2026-10-23 775（+14）
+2026-10-19 761 → 2026-10-24 786（+25）
 
 
 ---

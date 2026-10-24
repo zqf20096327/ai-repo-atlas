@@ -1,6 +1,6 @@
 # AgriciDaniel/banana-claude
 
-⭐ 1,121 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AgriciDaniel/banana-claude) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 1,126 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AgriciDaniel/banana-claude) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **Claude Code 插件：在会话中规划、生成与审阅 Gemini 图像**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/banana-claude 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1105 --> 1122
-    line [1106, 1109, 1115, 1121]
+    title "AgriciDaniel/banana-claude 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1104 --> 1128
+    line [1106, 1109, 1115, 1121, 1126]
 ```
 
-2026-10-18 1,106 → 2026-10-23 1,121（+15）
+2026-10-18 1,106 → 2026-10-24 1,126（+20）
 
 
 ---

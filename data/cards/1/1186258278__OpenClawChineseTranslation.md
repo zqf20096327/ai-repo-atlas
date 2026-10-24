@@ -1,6 +1,6 @@
 # 1186258278/OpenClawChineseTranslation
 
-⭐ 3,789 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/1186258278/OpenClawChineseTranslation) · [官网](https://openclaw.qt.cool) · 组织维护 · 中文 README
+⭐ 3,788 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/1186258278/OpenClawChineseTranslation) · [官网](https://openclaw.qt.cool) · 组织维护 · 中文 README
 
 **OpenClaw 个人 AI 助手平台的全中文汉化发行版**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1186258278/OpenClawChineseTranslation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3788 --> 3793
-    line [3792, 3791, 3790, 3789]
+    title "1186258278/OpenClawChineseTranslation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3787 --> 3793
+    line [3792, 3791, 3790, 3789, 3788]
 ```
 
-2026-10-18 3,792 → 2026-10-23 3,789（-3）
+2026-10-18 3,792 → 2026-10-24 3,788（-4）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/claude-agent-sdk-demos
 
-⭐ 2,787 · TypeScript · 推送 2026-08-27 · [GitHub](https://github.com/anthropics/claude-agent-sdk-demos) · [官网](https://docs.claude.com/en/docs/claude-code/sdk/sdk-typescript) · 组织维护
+⭐ 2,788 · TypeScript · 推送 2026-08-27 · [GitHub](https://github.com/anthropics/claude-agent-sdk-demos) · [官网](https://docs.claude.com/en/docs/claude-code/sdk/sdk-typescript) · 组织维护
 
 **Anthropic 官方的 Claude Agent SDK 示例应用合集**
 
@@ -44,13 +44,13 @@ Anthropic 维护的演示仓库，含 8 个基于 Claude Agent SDK 的示例：I
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-agent-sdk-demos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2781 --> 2788
-    line [2782, 2784, 2785, 2787]
+    title "anthropics/claude-agent-sdk-demos 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2781 --> 2789
+    line [2782, 2784, 2785, 2787, 2788]
 ```
 
-2026-10-18 2,782 → 2026-10-23 2,787（+5）
+2026-10-18 2,782 → 2026-10-24 2,788（+6）
 
 
 ---

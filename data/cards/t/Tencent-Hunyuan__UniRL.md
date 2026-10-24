@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/UniRL
 
-⭐ 1,024 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Tencent-Hunyuan/UniRL) · [官网](https://unirl-project.github.io/unirl/) · 组织维护 · 中文 README
+⭐ 1,025 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Tencent-Hunyuan/UniRL) · [官网](https://unirl-project.github.io/unirl/) · 组织维护 · 中文 README
 
 **多模态模型统一强化学习训练框架**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/UniRL 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1018 --> 1025
-    line [1019, 1020, 1022, 1024]
+    title "Tencent-Hunyuan/UniRL 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1018 --> 1026
+    line [1019, 1020, 1022, 1024, 1025]
 ```
 
-2026-10-18 1,019 → 2026-10-23 1,024（+5）
+2026-10-18 1,019 → 2026-10-24 1,025（+6）
 
 
 ---

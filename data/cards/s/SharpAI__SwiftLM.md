@@ -1,6 +1,6 @@
 # SharpAI/SwiftLM
 
-⭐ 786 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/SharpAI/SwiftLM) · 组织维护
+⭐ 787 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SharpAI/SwiftLM) · 组织维护
 
 **Apple Silicon 上的原生 Swift MLX LLM 推理服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SharpAI/SwiftLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 783 --> 787
-    line [784, 785, 786]
+    title "SharpAI/SwiftLM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 783 --> 788
+    line [784, 785, 786, 787]
 ```
 
-2026-10-18 784 → 2026-10-23 786（+2）
+2026-10-18 784 → 2026-10-24 787（+3）
 
 
 ---

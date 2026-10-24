@@ -1,6 +1,6 @@
 # xai-org/grok-build
 
-⭐ 27,499 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/xai-org/grok-build) · 组织维护
+⭐ 27,519 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/xai-org/grok-build) · 组织维护
 
 **给开发者的终端 AI 编码 Agent（全屏 TUI）**
 
@@ -51,13 +51,13 @@ SpaceXAI 的终端 AI 编码 Agent，以 Rust 编写、全屏 TUI 形式运行�
 
 ```mermaid
 xychart-beta
-    title "xai-org/grok-build 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 27422 --> 27506
-    line [27429, 27457, 27485, 27499]
+    title "xai-org/grok-build 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 27420 --> 27528
+    line [27429, 27457, 27485, 27499, 27519]
 ```
 
-2026-10-18 27,429 → 2026-10-23 27,499（+70）
+2026-10-18 27,429 → 2026-10-24 27,519（+90）
 
 
 ---

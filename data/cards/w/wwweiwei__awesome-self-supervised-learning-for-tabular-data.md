@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wwweiwei/awesome-self-supervised-learning-for-tabular-data 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 212 --> 214
     line [213, 213]
 ```
 
-2026-10-18 213 → 2026-10-23 213（+0）
+2026-10-18 213 → 2026-10-24 213（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # DedInc/gamma-ai-watermark-remover
 
-⭐ 173 · HTML · MIT · 推送 2026-06-24 · [GitHub](https://github.com/DedInc/gamma-ai-watermark-remover) · 个人维护
+⭐ 172 · HTML · MIT · 推送 2026-06-24 · [GitHub](https://github.com/DedInc/gamma-ai-watermark-remover) · 个人维护
 
 **本地网页工具：去除 gamma.app 导出文件中的水印**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DedInc/gamma-ai-watermark-remover 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 172 --> 174
-    line [173, 173]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 171 --> 174
+    line [173, 172]
 ```
 
-2026-10-18 173 → 2026-10-23 173（+0）
+2026-10-18 173 → 2026-10-24 172（-1）
 
 
 ---

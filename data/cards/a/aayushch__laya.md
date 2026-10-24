@@ -1,6 +1,6 @@
 # aayushch/laya
 
-⭐ 743 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/aayushch/laya) · [官网](https://laya.aay.sh) · 个人维护
+⭐ 753 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aayushch/laya) · [官网](https://laya.aay.sh) · 个人维护
 
 **本地优先的 AI 通知聚合指挥中心：整合办公工具事件并生成可批准的操作卡片**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aayushch/laya 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 704 --> 746
-    line [707, 718, 727, 743]
+    title "aayushch/laya 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 703 --> 757
+    line [707, 718, 727, 743, 753]
 ```
 
-2026-10-18 707 → 2026-10-23 743（+36）
+2026-10-18 707 → 2026-10-24 753（+46）
 
 
 ---

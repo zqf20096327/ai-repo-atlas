@@ -1,6 +1,6 @@
 # pythongosssss/ComfyUI-Custom-Scripts
 
-⭐ 3,221 · JavaScript · MIT · 推送 2026-02-12 · [GitHub](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) · 个人维护
+⭐ 3,222 · JavaScript · MIT · 推送 2026-02-12 · [GitHub](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) · 个人维护
 
 **ComfyUI 的 UI 增强与实用节点脚本合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pythongosssss/ComfyUI-Custom-Scripts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3216 --> 3222
-    line [3217, 3221, 3221]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 3216 --> 3223
+    line [3217, 3221, 3222]
 ```
 
-2026-10-18 3,217 → 2026-10-23 3,221（+4）
+2026-10-18 3,217 → 2026-10-24 3,222（+5）
 
 
 ---

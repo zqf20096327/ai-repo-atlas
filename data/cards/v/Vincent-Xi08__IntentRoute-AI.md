@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vincent-Xi08/IntentRoute-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Vincent-Xi08/IntentRoute-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 259 --> 280
-    line [279, 260]
+    line [279, 260, 260]
 ```
 
-2026-10-18 279 → 2026-10-23 260（-19）
+2026-10-18 279 → 2026-10-24 260（-19）
 
 
 ---

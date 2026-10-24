@@ -45,12 +45,12 @@ TMLR 2025 综述论文《Autoregressive Models in Vision: A Survey》的配套�
 ```mermaid
 xychart-beta
     title "ChaofanTao/Autoregressive-Models-in-Vision-Survey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 806 --> 808
     line [807, 807]
 ```
 
-2026-10-18 807 → 2026-10-23 807（+0）
+2026-10-18 807 → 2026-10-24 807（+0）
 
 
 ---

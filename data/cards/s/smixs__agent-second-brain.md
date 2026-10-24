@@ -1,6 +1,6 @@
 # smixs/agent-second-brain
 
-⭐ 409 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/smixs/agent-second-brain) · [官网](https://t.me/aimastersme) · 个人维护
+⭐ 410 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/smixs/agent-second-brain) · [官网](https://t.me/aimastersme) · 个人维护
 
 **常驻 Telegram 语音助手：把语音/消息整理进 Obsidian 知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "smixs/agent-second-brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 404 --> 410
-    line [405, 409, 409]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 404 --> 411
+    line [405, 409, 410]
 ```
 
-2026-10-18 405 → 2026-10-23 409（+4）
+2026-10-18 405 → 2026-10-24 410（+5）
 
 
 ---

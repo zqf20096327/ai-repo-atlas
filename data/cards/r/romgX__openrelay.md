@@ -1,6 +1,6 @@
 # romgX/openrelay
 
-⭐ 2,318 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/romgX/openrelay) · 组织维护 · 中文 README
+⭐ 2,317 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/romgX/openrelay) · 组织维护 · 中文 README
 
 **本地 AI 配额聚合网关：统一接入订阅与免费配额供各工具使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "romgX/openrelay 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2317 --> 2320
-    line [2318, 2319, 2318]
+    title "romgX/openrelay 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2316 --> 2320
+    line [2318, 2319, 2318, 2317]
 ```
 
-2026-10-18 2,318 → 2026-10-23 2,318（+0）
+2026-10-18 2,318 → 2026-10-24 2,317（-1）
 
 
 ---

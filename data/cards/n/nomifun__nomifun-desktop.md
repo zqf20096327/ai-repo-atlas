@@ -1,6 +1,6 @@
 # nomifun/nomifun-desktop
 
-⭐ 303 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/nomifun/nomifun-desktop) · [官网](https://www.nomifun.com) · 个人维护 · 中文 README
+⭐ 303 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/nomifun/nomifun-desktop) · [官网](https://www.nomifun.com) · 个人维护 · 中文 README
 
 **本地优先的开源 AI 工作站桌面应用，数据不出本机**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nomifun/nomifun-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 298 --> 304
     line [299, 302, 303, 303]
 ```
 
-2026-10-18 299 → 2026-10-23 303（+4）
+2026-10-18 299 → 2026-10-24 303（+4）
 
 
 ---

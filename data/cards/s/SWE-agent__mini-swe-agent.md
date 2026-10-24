@@ -1,6 +1,6 @@
 # SWE-agent/mini-swe-agent
 
-⭐ 8,747 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SWE-agent/mini-swe-agent) · [官网](https://mini-swe-agent.com) · 组织维护
+⭐ 8,786 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SWE-agent/mini-swe-agent) · [官网](https://mini-swe-agent.com) · 组织维护
 
 **约百行代码的极简 AI 编程 agent，解 GitHub issue、辅助命令行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SWE-agent/mini-swe-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8587 --> 8761
-    line [8601, 8663, 8705, 8747]
+    title "SWE-agent/mini-swe-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8583 --> 8804
+    line [8601, 8663, 8705, 8747, 8786]
 ```
 
-2026-10-18 8,601 → 2026-10-23 8,747（+146）
+2026-10-18 8,601 → 2026-10-24 8,786（+185）
 
 
 ---

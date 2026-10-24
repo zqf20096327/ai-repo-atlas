@@ -1,6 +1,6 @@
 # Zeyi-Lin/HivisionIDPhotos
 
-⭐ 21,653 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/Zeyi-Lin/HivisionIDPhotos) · [官网](https://modelscope.cn/studios/SwanLab/HivisionIDPhotos) · 组织维护 · 中文 README
+⭐ 21,656 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/Zeyi-Lin/HivisionIDPhotos) · [官网](https://modelscope.cn/studios/SwanLab/HivisionIDPhotos) · 组织维护 · 中文 README
 
 **AI 证件照制作工具：抠图、换底、排版一站式生成**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zeyi-Lin/HivisionIDPhotos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 21638 --> 21654
-    line [21639, 21645, 21652, 21653]
+    title "Zeyi-Lin/HivisionIDPhotos 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 21638 --> 21657
+    line [21639, 21645, 21652, 21653, 21656]
 ```
 
-2026-10-18 21,639 → 2026-10-23 21,653（+14）
+2026-10-18 21,639 → 2026-10-24 21,656（+17）
 
 
 ---

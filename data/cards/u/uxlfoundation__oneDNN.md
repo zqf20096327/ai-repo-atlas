@@ -1,6 +1,6 @@
 # uxlfoundation/oneDNN
 
-⭐ 4,073 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/uxlfoundation/oneDNN) · [官网](http://uxlfoundation.github.io/oneDNN/) · 组织维护
+⭐ 4,075 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/uxlfoundation/oneDNN) · [官网](http://uxlfoundation.github.io/oneDNN/) · 组织维护
 
 **面向 CPU 与 GPU 的深度学习算子优化库，供框架做加速层**
 
@@ -45,13 +45,13 @@ oneDNN 是开源跨平台的深度学习算子库，提供矩阵乘、卷积、a
 
 ```mermaid
 xychart-beta
-    title "uxlfoundation/oneDNN 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4066 --> 4074
-    line [4067, 4070, 4073]
+    title "uxlfoundation/oneDNN 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4066 --> 4076
+    line [4067, 4070, 4073, 4075]
 ```
 
-2026-10-18 4,067 → 2026-10-23 4,073（+6）
+2026-10-18 4,067 → 2026-10-24 4,075（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # neuronets/nobrainer
 
-⭐ 168 · Python · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/neuronets/nobrainer) · 组织维护
+⭐ 167 · Python · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/neuronets/nobrainer) · 组织维护
 
 **3D 脑图像深度学习框架：分割/生成/贝叶斯建模**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "neuronets/nobrainer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 166 --> 169
+    line [168, 167]
 ```
 
-2026-10-18 168 → 2026-10-23 168（+0）
+2026-10-18 168 → 2026-10-24 167（-1）
 
 
 ---

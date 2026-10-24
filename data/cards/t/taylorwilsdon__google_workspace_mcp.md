@@ -1,6 +1,6 @@
 # taylorwilsdon/google_workspace_mcp
 
-⭐ 3,398 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) · [官网](https://workspacemcp.com) · 个人维护
+⭐ 3,404 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) · [官网](https://workspacemcp.com) · 个人维护
 
 **让 AI 助手通过 MCP 操控 12 项 Google Workspace 服务的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "taylorwilsdon/google_workspace_mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3351 --> 3402
-    line [3355, 3376, 3393, 3398]
+    title "taylorwilsdon/google_workspace_mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3351 --> 3408
+    line [3355, 3376, 3393, 3398, 3404]
 ```
 
-2026-10-18 3,355 → 2026-10-23 3,398（+43）
+2026-10-18 3,355 → 2026-10-24 3,404（+49）
 
 
 ---

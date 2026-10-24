@@ -1,6 +1,6 @@
 # HelgeSverre/ollama-gui
 
-⭐ 1,261 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HelgeSverre/ollama-gui) · [官网](https://ollama-gui.vercel.app/) · 个人维护
+⭐ 1,262 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HelgeSverre/ollama-gui) · [官网](https://ollama-gui.vercel.app/) · 个人维护
 
 **浏览器直连 Ollama 的本地 LLM 聊天 Web 界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HelgeSverre/ollama-gui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1258 --> 1262
-    line [1259, 1260, 1261]
+    title "HelgeSverre/ollama-gui 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1258 --> 1263
+    line [1259, 1260, 1261, 1262]
 ```
 
-2026-10-18 1,259 → 2026-10-23 1,261（+2）
+2026-10-18 1,259 → 2026-10-24 1,262（+3）
 
 
 ---

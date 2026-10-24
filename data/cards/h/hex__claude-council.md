@@ -1,6 +1,6 @@
 # hex/claude-council
 
-⭐ 899 · Shell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hex/claude-council) · 个人维护
+⭐ 899 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/hex/claude-council) · 个人维护
 
 **Claude Code 插件：并行咨询多个 AI 编码代理并排对比回答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hex/claude-council 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "hex/claude-council 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 882 --> 900
-    line [883, 892, 898, 899]
+    line [883, 892, 898, 899, 899]
 ```
 
-2026-10-18 883 → 2026-10-23 899（+16）
+2026-10-18 883 → 2026-10-24 899（+16）
 
 
 ---

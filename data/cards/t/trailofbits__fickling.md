@@ -1,6 +1,6 @@
 # trailofbits/fickling
 
-⭐ 675 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/trailofbits/fickling) · 组织维护
+⭐ 676 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/trailofbits/fickling) · 组织维护
 
 **Python pickle 反编译与静态分析工具，检测恶意模型文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "trailofbits/fickling 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 671 --> 676
-    line [672, 673, 674, 675]
+    title "trailofbits/fickling 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 671 --> 677
+    line [672, 673, 674, 675, 676]
 ```
 
-2026-10-18 672 → 2026-10-23 675（+3）
+2026-10-18 672 → 2026-10-24 676（+4）
 
 
 ---

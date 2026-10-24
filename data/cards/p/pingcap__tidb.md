@@ -1,6 +1,6 @@
 # pingcap/tidb
 
-⭐ 40,670 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/pingcap/tidb) · [官网](https://www.tidb.io/) · 组织维护 · 中文 README
+⭐ 40,672 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pingcap/tidb) · [官网](https://www.tidb.io/) · 组织维护 · 中文 README
 
 **开源分布式 SQL 数据库：面向事务、分析与向量检索负载**
 
@@ -51,13 +51,13 @@ TiDB 是开源、云原生的分布式 SQL 数据库，采用存算分离架构�
 
 ```mermaid
 xychart-beta
-    title "pingcap/tidb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 40644 --> 40672
-    line [40646, 40654, 40665, 40670]
+    title "pingcap/tidb 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 40644 --> 40674
+    line [40646, 40654, 40665, 40670, 40672]
 ```
 
-2026-10-18 40,646 → 2026-10-23 40,670（+24）
+2026-10-18 40,646 → 2026-10-24 40,672（+26）
 
 
 ---

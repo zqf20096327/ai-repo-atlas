@@ -1,6 +1,6 @@
 # realmyang/MLView
 
-⭐ 298 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/realmyang/MLView) · [官网](https://github.com/realmyang/MLView#readme) · 个人维护
+⭐ 319 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/realmyang/MLView) · [官网](https://github.com/realmyang/MLView#readme) · 个人维护
 
 **让编码助手生成源码链接的 ML 工作流交互图的 VS Code 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "realmyang/MLView 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 228 --> 315
-    line [235, 272, 308, 298]
+    title "realmyang/MLView 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 227 --> 327
+    line [235, 272, 308, 298, 319]
 ```
 
-2026-10-18 235 → 2026-10-23 298（+63）
+2026-10-18 235 → 2026-10-24 319（+84）
 
 
 ---

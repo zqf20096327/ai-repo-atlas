@@ -1,6 +1,6 @@
 # anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection
 
-⭐ 814 · 推送 2026-10-22 · [GitHub](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection) · [官网](https://anmolksachan.github.io/LLMPenTestHub/ai-ml-roadmap-for-pentester.html) · 个人维护
+⭐ 816 · 推送 2026-10-22 · [GitHub](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection) · [官网](https://anmolksachan.github.io/LLMPenTestHub/ai-ml-roadmap-for-pentester.html) · 个人维护
 
 **AI/ML 安全与渗透测试学习路线图与资源清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 808 --> 815
-    line [809, 811, 814, 814]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 808 --> 817
+    line [809, 811, 814, 816]
 ```
 
-2026-10-18 809 → 2026-10-23 814（+5）
+2026-10-18 809 → 2026-10-24 816（+7）
 
 
 ---

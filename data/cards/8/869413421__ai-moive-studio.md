@@ -1,6 +1,6 @@
 # 869413421/ai-moive-studio
 
-⭐ 1,618 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/869413421/ai-moive-studio) · [官网](https://aicon-studio.com) · 个人维护 · 中文 README
+⭐ 1,621 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/869413421/ai-moive-studio) · [官网](https://aicon-studio.com) · 个人维护 · 中文 README
 
 **自然语言驱动的无限画布 AI 视频创作工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "869413421/ai-moive-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "869413421/ai-moive-studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1617 --> 1622
-    line [1618, 1620, 1621, 1618]
+    line [1618, 1620, 1621, 1618, 1621]
 ```
 
-2026-10-18 1,618 → 2026-10-23 1,618（+0）
+2026-10-18 1,618 → 2026-10-24 1,621（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # 0Chencc/clawgod
 
-⭐ 2,194 · JavaScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/0Chencc/clawgod) · [官网](http://clawgod.0chen.cc) · 个人维护 · 中文 README
+⭐ 2,199 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/0Chencc/clawgod) · [官网](http://clawgod.0chen.cc) · 个人维护 · 中文 README
 
 **Claude Code 官方二进制的运行时补丁：解锁隐藏功能与移除限制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0Chencc/clawgod 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2172 --> 2196
-    line [2174, 2182, 2190, 2194]
+    title "0Chencc/clawgod 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2172 --> 2201
+    line [2174, 2182, 2190, 2194, 2199]
 ```
 
-2026-10-18 2,174 → 2026-10-23 2,194（+20）
+2026-10-18 2,174 → 2026-10-24 2,199（+25）
 
 
 ---

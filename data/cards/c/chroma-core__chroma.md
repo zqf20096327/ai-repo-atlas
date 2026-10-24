@@ -1,6 +1,6 @@
 # chroma-core/chroma
 
-⭐ 29,554 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/chroma-core/chroma) · [官网](https://www.trychroma.com/) · 组织维护
+⭐ 29,568 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/chroma-core/chroma) · [官网](https://www.trychroma.com/) · 组织维护
 
 **面向 AI 应用的开源向量/检索数据库**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "chroma-core/chroma 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 29515 --> 29557
-    line [29518, 29533, 29540, 29554]
+    title "chroma-core/chroma 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 29513 --> 29573
+    line [29518, 29533, 29540, 29554, 29568]
 ```
 
-2026-10-18 29,518 → 2026-10-23 29,554（+36）
+2026-10-18 29,518 → 2026-10-24 29,568（+50）
 
 
 ---

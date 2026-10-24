@@ -1,6 +1,6 @@
 # Gentleman-Programming/gentle-shell
 
-⭐ 1,395 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Gentleman-Programming/gentle-shell) · [官网](https://gentle-ai.gentlemanprogramming.com/) · 个人维护
+⭐ 1,407 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Gentleman-Programming/gentle-shell) · [官网](https://gentle-ai.gentlemanprogramming.com/) · 个人维护
 
 **面向 Pi 的编码代理工作台：编排、审查与变更视图**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gentleman-Programming/gentle-shell 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1351 --> 1399
-    line [1355, 1364, 1395]
+    title "Gentleman-Programming/gentle-shell 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1350 --> 1412
+    line [1355, 1364, 1395, 1407]
 ```
 
-2026-10-18 1,355 → 2026-10-23 1,395（+40）
+2026-10-18 1,355 → 2026-10-24 1,407（+52）
 
 
 ---

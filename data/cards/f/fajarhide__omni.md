@@ -1,6 +1,6 @@
 # fajarhide/omni
 
-⭐ 370 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/fajarhide/omni) · [官网](https://omni.weekndlabs.com/docs) · 个人维护 · 中文 README
+⭐ 370 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/fajarhide/omni) · [官网](https://omni.weekndlabs.com/docs) · 个人维护 · 中文 README
 
 **为编码 agent 压缩命令输出的上下文蒸馏工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fajarhide/omni 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 367 --> 371
     line [368, 370, 370]
 ```
 
-2026-10-18 368 → 2026-10-23 370（+2）
+2026-10-18 368 → 2026-10-24 370（+2）
 
 
 ---

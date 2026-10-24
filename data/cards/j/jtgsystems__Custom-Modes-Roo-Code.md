@@ -1,6 +1,6 @@
 # jtgsystems/Custom-Modes-Roo-Code
 
-⭐ 185 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/jtgsystems/Custom-Modes-Roo-Code) · [官网](https://jtgsystems.com) · 组织维护
+⭐ 184 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/jtgsystems/Custom-Modes-Roo-Code) · [官网](https://jtgsystems.com) · 组织维护
 
 **面向 Roo Code 的 225 个 AI agent 配置库，10 类职业角色**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jtgsystems/Custom-Modes-Roo-Code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 184 --> 186
-    line [185, 185]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 183 --> 186
+    line [185, 184]
 ```
 
-2026-10-18 185 → 2026-10-23 185（+0）
+2026-10-18 185 → 2026-10-24 184（-1）
 
 
 ---

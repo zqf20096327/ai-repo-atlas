@@ -1,6 +1,6 @@
 # microsoft/data-formulator
 
-⭐ 17,588 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/data-formulator) · [官网](https://data-formulator.ai/) · 组织维护
+⭐ 17,591 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/data-formulator) · [官网](https://data-formulator.ai/) · 组织维护
 
 **给分析师的 AI 数据探索工作台：连接、分析并可视化数据**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/data-formulator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 17570 --> 17589
-    line [17571, 17575, 17581, 17588]
+    title "microsoft/data-formulator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 17569 --> 17593
+    line [17571, 17575, 17581, 17588, 17591]
 ```
 
-2026-10-18 17,571 → 2026-10-23 17,588（+17）
+2026-10-18 17,571 → 2026-10-24 17,591（+20）
 
 
 ---

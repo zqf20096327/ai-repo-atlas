@@ -1,6 +1,6 @@
 # yicheng47/runner
 
-⭐ 362 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/yicheng47/runner) · [官网](https://runnersh.dev/) · 个人维护 · 中文 README
+⭐ 365 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yicheng47/runner) · [官网](https://runnersh.dev/) · 个人维护 · 中文 README
 
 **让多个终端 CLI 编码 agent 在一个任务中协作的桌面应用**
 
@@ -45,13 +45,13 @@ Runner 是原生 macOS/Windows 桌面应用，把 Claude Code、Codex、Copilot 
 
 ```mermaid
 xychart-beta
-    title "yicheng47/runner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 332 --> 364
-    line [334, 341, 362]
+    title "yicheng47/runner 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 331 --> 368
+    line [334, 341, 362, 365]
 ```
 
-2026-10-18 334 → 2026-10-23 362（+28）
+2026-10-18 334 → 2026-10-24 365（+31）
 
 
 ---

@@ -1,6 +1,6 @@
 # zilliztech/VectorDBBench
 
-⭐ 1,194 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/zilliztech/VectorDBBench) · [官网](https://zilliz.com/vector-database-benchmark-tool) · 组织维护
+⭐ 1,195 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/zilliztech/VectorDBBench) · [官网](https://zilliz.com/vector-database-benchmark-tool) · 组织维护
 
 **向量数据库性能与成本效益基准测试工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zilliztech/VectorDBBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1191 --> 1195
-    line [1192, 1194, 1194]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 1191 --> 1196
+    line [1192, 1194, 1195]
 ```
 
-2026-10-18 1,192 → 2026-10-23 1,194（+2）
+2026-10-18 1,192 → 2026-10-24 1,195（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # kaishi00/hermes-conduit
 
-⭐ 393 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kaishi00/hermes-conduit) · [官网](https://hermesconduit.app) · 个人维护
+⭐ 417 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kaishi00/hermes-conduit) · [官网](https://hermesconduit.app) · 个人维护
 
 **Hermes Agent 的原生 iOS 客户端：手机上管理对话与任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kaishi00/hermes-conduit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 303 --> 401
-    line [311, 320, 369, 393]
+    title "kaishi00/hermes-conduit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 301 --> 427
+    line [311, 320, 369, 393, 417]
 ```
 
-2026-10-18 311 → 2026-10-23 393（+82）
+2026-10-18 311 → 2026-10-24 417（+106）
 
 
 ---

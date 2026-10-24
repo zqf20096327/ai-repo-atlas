@@ -1,6 +1,6 @@
 # Kaitzz/MilkyAi-bilibili
 
-⭐ 121 · Python · 推送 2026-10-04 · [GitHub](https://github.com/Kaitzz/MilkyAi-bilibili) · [官网](http://corneliazhang.me/milky/) · 个人维护 · 中文 README
+⭐ 122 · Python · 推送 2026-10-04 · [GitHub](https://github.com/Kaitzz/MilkyAi-bilibili) · [官网](http://corneliazhang.me/milky/) · 个人维护 · 中文 README
 
 **Bilibili 视频转笔记邮件服务的工程展示仓库（架构骨架）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kaitzz/MilkyAi-bilibili 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 120 --> 123
+    line [121, 122]
 ```
 
-2026-10-18 121 → 2026-10-23 121（+0）
+2026-10-18 121 → 2026-10-24 122（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # rootSunc/CNEquity
 
-⭐ 816 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/rootSunc/CNEquity) · [官网](https://rootsunc.github.io/CNEquity/) · 个人维护 · 中文 README
+⭐ 838 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/rootSunc/CNEquity) · [官网](https://rootsunc.github.io/CNEquity/) · 个人维护 · 中文 README
 
 **自托管中国 A 股金融数据湖，供研究与 AI Agent 本地查询**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rootSunc/CNEquity 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 606 --> 835
-    line [625, 730, 779, 816]
+    title "rootSunc/CNEquity 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 604 --> 859
+    line [625, 730, 779, 816, 838]
 ```
 
-2026-10-18 625 → 2026-10-23 816（+191）
+2026-10-18 625 → 2026-10-24 838（+213）
 
 
 ---

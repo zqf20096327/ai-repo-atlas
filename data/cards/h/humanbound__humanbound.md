@@ -1,6 +1,6 @@
 # humanbound/humanbound
 
-⭐ 212 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/humanbound/humanbound) · [官网](https://docs.humanbound.ai/) · 组织维护
+⭐ 215 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/humanbound/humanbound) · [官网](https://docs.humanbound.ai/) · 组织维护
 
 **AI agent 的对抗性测试引擎、SDK 与 CLI，可本地运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "humanbound/humanbound 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 200 --> 213
-    line [201, 206, 212]
+    title "humanbound/humanbound 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 200 --> 216
+    line [201, 206, 212, 215]
 ```
 
-2026-10-18 201 → 2026-10-23 212（+11）
+2026-10-18 201 → 2026-10-24 215（+14）
 
 
 ---

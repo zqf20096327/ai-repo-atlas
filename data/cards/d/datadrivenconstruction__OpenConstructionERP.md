@@ -1,6 +1,6 @@
 # datadrivenconstruction/OpenConstructionERP
 
-⭐ 1,019 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionERP) · [官网](https://openconstructionerp.com) · 组织维护
+⭐ 1,027 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionERP) · [官网](https://openconstructionerp.com) · 组织维护
 
 **自托管建筑造价与项目管理 ERP，带 AI 估价功能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "datadrivenconstruction/OpenConstructionERP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 973 --> 1023
-    line [977, 994, 1011, 1019]
+    title "datadrivenconstruction/OpenConstructionERP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 972 --> 1032
+    line [977, 994, 1011, 1019, 1027]
 ```
 
-2026-10-18 977 → 2026-10-23 1,019（+42）
+2026-10-18 977 → 2026-10-24 1,027（+50）
 
 
 ---

@@ -1,6 +1,6 @@
 # d-kuro/gwq
 
-⭐ 475 · Go · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/d-kuro/gwq) · 个人维护
+⭐ 476 · Go · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/d-kuro/gwq) · 个人维护
 
 **带模糊查找的 Git worktree 管理 CLI，支持并行 AI 编码工作流**
 
@@ -46,12 +46,12 @@ Go 编写的命令行工具，用于创建、切换、删除 Git worktree，操�
 ```mermaid
 xychart-beta
     title "d-kuro/gwq 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 473 --> 476
-    line [474, 475, 475]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 473 --> 477
+    line [474, 475, 476]
 ```
 
-2026-10-18 474 → 2026-10-23 475（+1）
+2026-10-18 474 → 2026-10-24 476（+2）
 
 
 ---

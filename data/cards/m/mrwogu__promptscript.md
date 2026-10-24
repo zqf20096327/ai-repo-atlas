@@ -1,6 +1,6 @@
 # mrwogu/promptscript
 
-⭐ 379 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mrwogu/promptscript) · [官网](https://getpromptscript.dev/) · 个人维护
+⭐ 380 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mrwogu/promptscript) · [官网](https://getpromptscript.dev/) · 个人维护
 
 **面向企业的 Prompt-as-Code 编译器：一份 AI 规则编译给 50 个工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrwogu/promptscript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "mrwogu/promptscript 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 378 --> 388
-    line [387, 379]
+    line [387, 379, 380]
 ```
 
-2026-10-18 387 → 2026-10-23 379（-8）
+2026-10-18 387 → 2026-10-24 380（-7）
 
 
 ---

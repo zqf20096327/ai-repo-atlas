@@ -1,6 +1,6 @@
 # Comfy-Org/comfy-skills
 
-⭐ 233 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Comfy-Org/comfy-skills) · 组织维护
+⭐ 235 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Comfy-Org/comfy-skills) · 组织维护
 
 **让 AI 编码 agent 通过 Comfy Cloud 生成图像/视频/音频/3D 的插件与 MCP 服务器**
 
@@ -45,12 +45,12 @@ Comfy 官方维护的 Claude Code 插件仓库：comfy-cloud 插件一步捆绑�
 ```mermaid
 xychart-beta
     title "Comfy-Org/comfy-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 231 --> 234
-    line [232, 233, 233]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 231 --> 236
+    line [232, 233, 235]
 ```
 
-2026-10-18 232 → 2026-10-23 233（+1）
+2026-10-18 232 → 2026-10-24 235（+3）
 
 
 ---

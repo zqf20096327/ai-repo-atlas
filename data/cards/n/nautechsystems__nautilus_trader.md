@@ -1,6 +1,6 @@
 # nautechsystems/nautilus_trader
 
-⭐ 30,602 · Rust · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/nautechsystems/nautilus_trader) · [官网](https://nautilustrader.io) · 组织维护
+⭐ 30,659 · Rust · LGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/nautechsystems/nautilus_trader) · [官网](https://nautilustrader.io) · 组织维护
 
 **面向量化交易者的 Rust 原生事件驱动多资产交易引擎**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "nautechsystems/nautilus_trader 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 30208 --> 30637
-    line [30243, 30345, 30452, 30602]
+    title "nautechsystems/nautilus_trader 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 30202 --> 30700
+    line [30243, 30345, 30452, 30602, 30659]
 ```
 
-2026-10-18 30,243 → 2026-10-23 30,602（+359）
+2026-10-18 30,243 → 2026-10-24 30,659（+416）
 
 
 ---

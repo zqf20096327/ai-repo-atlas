@@ -1,6 +1,6 @@
 # zenstory-ai/oh-story-claudecode
 
-⭐ 7,897 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/zenstory-ai/oh-story-claudecode) · [官网](https://zenstory.ai/oh-story) · 组织维护 · 中文 README
+⭐ 7,933 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zenstory-ai/oh-story-claudecode) · [官网](https://zenstory.ai/oh-story) · 组织维护 · 中文 README
 
 **装进编程 Agent 的中文网文写作 skill 包（13 个技能）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zenstory-ai/oh-story-claudecode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7673 --> 7917
-    line [7693, 7755, 7833, 7897]
+    title "zenstory-ai/oh-story-claudecode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7669 --> 7957
+    line [7693, 7755, 7833, 7897, 7933]
 ```
 
-2026-10-18 7,693 → 2026-10-23 7,897（+204）
+2026-10-18 7,693 → 2026-10-24 7,933（+240）
 
 
 ---

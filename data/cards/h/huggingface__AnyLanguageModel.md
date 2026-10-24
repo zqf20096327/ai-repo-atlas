@@ -45,13 +45,13 @@ Swift 包形式的框架层封装：保持 Apple Foundation Models API 兼容，
 
 ```mermaid
 xychart-beta
-    title "huggingface/AnyLanguageModel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "huggingface/AnyLanguageModel 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 951 --> 962
-    line [952, 953, 959, 961]
+    line [952, 953, 959, 961, 961]
 ```
 
-2026-10-18 952 → 2026-10-23 961（+9）
+2026-10-18 952 → 2026-10-24 961（+9）
 
 
 ---

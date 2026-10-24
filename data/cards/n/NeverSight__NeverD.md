@@ -1,6 +1,6 @@
 # NeverSight/NeverD
 
-⭐ 96 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NeverSight/NeverD) · 组织维护 · 中文 README
+⭐ 97 · C++ · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/NeverSight/NeverD) · 组织维护 · 中文 README
 
 **面向 AI 的二进制分析与反编译引擎，基于 LLVM 的 1:1 指令级提升**
 
@@ -45,12 +45,12 @@ NeverD 是原生与智能合约二进制的分析/反编译引擎，加载 PE、
 ```mermaid
 xychart-beta
     title "NeverSight/NeverD 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 92 --> 97
-    line [93, 94, 96, 96]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 92 --> 98
+    line [93, 94, 96, 97]
 ```
 
-2026-10-18 93 → 2026-10-23 96（+3）
+2026-10-18 93 → 2026-10-24 97（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # fengdu78/Coursera-ML-AndrewNg-Notes
 
-⭐ 38,013 · HTML · 推送 2026-10-05 · [GitHub](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) · 个人维护 · 中文 README
+⭐ 38,014 · HTML · 推送 2026-10-05 · [GitHub](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) · 个人维护 · 中文 README
 
 **机器学习入门者的吴恩达课程中文学习笔记**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "fengdu78/Coursera-ML-AndrewNg-Notes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 37971 --> 38016
-    line [37974, 37996, 38008, 38013]
+    title "fengdu78/Coursera-ML-AndrewNg-Notes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 37970 --> 38018
+    line [37974, 37996, 38008, 38013, 38014]
 ```
 
-2026-10-18 37,974 → 2026-10-23 38,013（+39）
+2026-10-18 37,974 → 2026-10-24 38,014（+40）
 
 
 ---

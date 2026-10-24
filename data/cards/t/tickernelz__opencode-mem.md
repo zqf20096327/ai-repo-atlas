@@ -1,6 +1,6 @@
 # tickernelz/opencode-mem
 
-⭐ 1,778 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tickernelz/opencode-mem) · 个人维护 · 中文 README
+⭐ 1,780 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tickernelz/opencode-mem) · 个人维护 · 中文 README
 
 **给 OpenCode 编码 agent 加持久记忆的向量数据库插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tickernelz/opencode-mem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1758 --> 1779
-    line [1759, 1767, 1774, 1778]
+    title "tickernelz/opencode-mem 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1757 --> 1782
+    line [1759, 1767, 1774, 1778, 1780]
 ```
 
-2026-10-18 1,759 → 2026-10-23 1,778（+19）
+2026-10-18 1,759 → 2026-10-24 1,780（+21）
 
 
 ---

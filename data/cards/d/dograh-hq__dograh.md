@@ -1,6 +1,6 @@
 # dograh-hq/dograh
 
-⭐ 5,933 · Python · BSD-2-Clause · 推送 2026-10-21 · [GitHub](https://github.com/dograh-hq/dograh) · [官网](https://app.dograh.com) · 组织维护 · 中文 README
+⭐ 5,940 · Python · BSD-2-Clause · 推送 2026-10-22 · [GitHub](https://github.com/dograh-hq/dograh) · [官网](https://app.dograh.com) · 组织维护 · 中文 README
 
 **自托管开源语音 AI 平台：可视化构建电话语音机器人**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dograh-hq/dograh 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5893 --> 5936
-    line [5896, 5906, 5919, 5933]
+    title "dograh-hq/dograh 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5892 --> 5944
+    line [5896, 5906, 5919, 5933, 5940]
 ```
 
-2026-10-18 5,896 → 2026-10-23 5,933（+37）
+2026-10-18 5,896 → 2026-10-24 5,940（+44）
 
 
 ---

@@ -1,6 +1,6 @@
 # coze-dev/coze-studio
 
-⭐ 21,746 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/coze-dev/coze-studio) · 组织维护 · 中文 README
+⭐ 21,753 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/coze-dev/coze-studio) · 组织维护 · 中文 README
 
 **企业/开发者的一站式可视化 AI Agent 开发平台**
 
@@ -52,13 +52,13 @@ Coze Studio 是一个 AI agent 开发工具，覆盖从开发到部署的全流�
 
 ```mermaid
 xychart-beta
-    title "coze-dev/coze-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 21718 --> 21748
-    line [21720, 21730, 21739, 21746]
+    title "coze-dev/coze-studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 21717 --> 21756
+    line [21720, 21730, 21739, 21746, 21753]
 ```
 
-2026-10-18 21,720 → 2026-10-23 21,746（+26）
+2026-10-18 21,720 → 2026-10-24 21,753（+33）
 
 
 ---

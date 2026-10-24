@@ -1,6 +1,6 @@
 # anthropics/claude-ai-mcp
 
-⭐ 525 · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/anthropics/claude-ai-mcp) · 组织维护
+⭐ 526 · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/anthropics/claude-ai-mcp) · 组织维护
 
 **Claude.ai MCP 集成的问题反馈与公告沟通中心**
 
@@ -43,13 +43,13 @@ Anthropic 维护的仓库，作为 Claude.ai 中 MCP（Model Context Protocol）
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-ai-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 515 --> 526
-    line [516, 518, 519, 525]
+    title "anthropics/claude-ai-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 515 --> 527
+    line [516, 518, 519, 525, 526]
 ```
 
-2026-10-18 516 → 2026-10-23 525（+9）
+2026-10-18 516 → 2026-10-24 526（+10）
 
 
 ---

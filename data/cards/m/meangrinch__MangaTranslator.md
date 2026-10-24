@@ -1,6 +1,6 @@
 # meangrinch/MangaTranslator
 
-⭐ 354 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/meangrinch/MangaTranslator) · 个人维护
+⭐ 355 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/meangrinch/MangaTranslator) · 个人维护
 
 **一键翻译漫画/韩漫/国漫页面的桌面应用，支持 60+ 语言**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "meangrinch/MangaTranslator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 344 --> 355
-    line [345, 348, 354, 354]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 344 --> 356
+    line [345, 348, 354, 355]
 ```
 
-2026-10-18 345 → 2026-10-23 354（+9）
+2026-10-18 345 → 2026-10-24 355（+10）
 
 
 ---

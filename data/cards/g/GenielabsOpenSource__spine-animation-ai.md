@@ -1,6 +1,6 @@
 # GenielabsOpenSource/spine-animation-ai
 
-⭐ 572 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/GenielabsOpenSource/spine-animation-ai) · [官网](https://GenielabsOpenSource.github.io/spine-animation-ai/demo/sombrero_idle.html) · 组织维护
+⭐ 574 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/GenielabsOpenSource/spine-animation-ai) · [官网](https://GenielabsOpenSource.github.io/spine-animation-ai/demo/sombrero_idle.html) · 组织维护
 
 **让 Claude 自动完成 Spine 2D 骨骼动画绑定与生成的技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GenielabsOpenSource/spine-animation-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 536 --> 575
-    line [539, 551, 563, 572]
+    title "GenielabsOpenSource/spine-animation-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 536 --> 577
+    line [539, 551, 563, 572, 574]
 ```
 
-2026-10-18 539 → 2026-10-23 572（+33）
+2026-10-18 539 → 2026-10-24 574（+35）
 
 
 ---

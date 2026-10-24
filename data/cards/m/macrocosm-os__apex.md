@@ -1,6 +1,6 @@
 # macrocosm-os/apex
 
-⭐ 139 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/macrocosm-os/apex) · [官网](https://apex.macrocosmos.ai/) · 组织维护
+⭐ 140 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/macrocosm-os/apex) · [官网](https://apex.macrocosmos.ai/) · 组织维护
 
 **Bittensor 子网平台：把可度量问题外包给全球竞争网络求解**
 
@@ -47,12 +47,12 @@ Apex 是运行在 Bittensor 网络 Subnet 1 上的去中心化智能外包平台
 ```mermaid
 xychart-beta
     title "macrocosm-os/apex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 138 --> 140
-    line [139, 139]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 138 --> 141
+    line [139, 140]
 ```
 
-2026-10-18 139 → 2026-10-23 139（+0）
+2026-10-18 139 → 2026-10-24 140（+1）
 
 
 ---

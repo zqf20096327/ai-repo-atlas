@@ -1,6 +1,6 @@
 # ollaya-dev/ollaya
 
-⭐ 1,380 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ollaya-dev/ollaya) · [官网](https://ollaya.dev) · 个人维护
+⭐ 1,386 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ollaya-dev/ollaya) · [官网](https://ollaya.dev) · 个人维护
 
 **本地运行开源决策模型的运行时：按名拉取并通过类 Ollama CLI/API 服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ollaya-dev/ollaya 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1328 --> 1384
-    line [1332, 1356, 1370, 1380]
+    title "ollaya-dev/ollaya 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1327 --> 1391
+    line [1332, 1356, 1370, 1380, 1386]
 ```
 
-2026-10-18 1,332 → 2026-10-23 1,380（+48）
+2026-10-18 1,332 → 2026-10-24 1,386（+54）
 
 
 ---

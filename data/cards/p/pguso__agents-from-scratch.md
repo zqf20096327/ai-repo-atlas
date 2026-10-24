@@ -1,6 +1,6 @@
 # pguso/agents-from-scratch
 
-⭐ 1,059 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/pguso/agents-from-scratch) · 个人维护
+⭐ 1,060 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/pguso/agents-from-scratch) · 个人维护
 
 **本地 LLM 从零构建 AI agent 的 12 课教程仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pguso/agents-from-scratch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1049 --> 1060
-    line [1050, 1051, 1058, 1059]
+    title "pguso/agents-from-scratch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1049 --> 1061
+    line [1050, 1051, 1058, 1059, 1060]
 ```
 
-2026-10-18 1,050 → 2026-10-23 1,059（+9）
+2026-10-18 1,050 → 2026-10-24 1,060（+10）
 
 
 ---

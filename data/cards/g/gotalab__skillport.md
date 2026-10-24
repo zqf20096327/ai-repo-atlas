@@ -1,6 +1,6 @@
 # gotalab/skillport
 
-⭐ 415 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/gotalab/skillport) · 组织维护
+⭐ 417 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/gotalab/skillport) · 组织维护
 
 **面向 AI/coding agent 的技能管理工具：校验、分发、MCP 托管**
 
@@ -46,12 +46,12 @@ SkillPort 是一个 Python 编写的 SkillOps 工具包，用于按 Agent Skills
 ```mermaid
 xychart-beta
     title "gotalab/skillport 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 413 --> 416
-    line [414, 415, 415]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 413 --> 418
+    line [414, 415, 417]
 ```
 
-2026-10-18 414 → 2026-10-23 415（+1）
+2026-10-18 414 → 2026-10-24 417（+3）
 
 
 ---

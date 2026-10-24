@@ -1,6 +1,6 @@
 # PetoiCamp/OpenCat-Quadruped-Robot
 
-⭐ 5,490 · C++ · MIT · 推送 2026-09-08 · [GitHub](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) · [官网](https://www.petoi.com) · 组织维护
+⭐ 5,493 · C++ · MIT · 推送 2026-09-08 · [GitHub](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) · [官网](https://www.petoi.com) · 组织维护
 
 **开源四足机器人框架：给教育者/研究者/DIY 者构建机器宠物**
 
@@ -46,13 +46,13 @@ Petoi 维护的 Arduino/Raspberry Pi 四足机器人开源框架，驱动 Bittle
 
 ```mermaid
 xychart-beta
-    title "PetoiCamp/OpenCat-Quadruped-Robot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5461 --> 5492
-    line [5463, 5477, 5482, 5490]
+    title "PetoiCamp/OpenCat-Quadruped-Robot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5460 --> 5496
+    line [5463, 5477, 5482, 5490, 5493]
 ```
 
-2026-10-18 5,463 → 2026-10-23 5,490（+27）
+2026-10-18 5,463 → 2026-10-24 5,493（+30）
 
 
 ---

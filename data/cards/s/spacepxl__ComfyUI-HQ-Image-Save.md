@@ -1,6 +1,6 @@
 # spacepxl/ComfyUI-HQ-Image-Save
 
-⭐ 103 · Python · MIT · 推送 2026-03-09 · [GitHub](https://github.com/spacepxl/ComfyUI-HQ-Image-Save) · 个人维护
+⭐ 104 · Python · MIT · 推送 2026-03-09 · [GitHub](https://github.com/spacepxl/ComfyUI-HQ-Image-Save) · 个人维护
 
 **ComfyUI 自定义节点：以 32bit EXR 存取图像与 latents**
 
@@ -45,12 +45,12 @@ ComfyUI 功能节点集，提供图像与 latent 的 EXR 高精度读写节点�
 ```mermaid
 xychart-beta
     title "spacepxl/ComfyUI-HQ-Image-Save 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 102 --> 104
-    line [103, 103]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 102 --> 105
+    line [103, 104]
 ```
 
-2026-10-18 103 → 2026-10-23 103（+0）
+2026-10-18 103 → 2026-10-24 104（+1）
 
 
 ---

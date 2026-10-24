@@ -1,6 +1,6 @@
 # jhljx/RecSys-Industrial-Book
 
-⭐ 466 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/jhljx/RecSys-Industrial-Book) · [官网](https://jhljx.github.io/RecSys-Industrial-Book/) · 个人维护 · 中文 README
+⭐ 468 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/jhljx/RecSys-Industrial-Book) · [官网](https://jhljx.github.io/RecSys-Industrial-Book/) · 个人维护 · 中文 README
 
 **推荐系统工业架构与算法的开源书稿及配套 AI 学习知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jhljx/RecSys-Industrial-Book 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 455 --> 467
-    line [456, 460, 465, 466]
+    title "jhljx/RecSys-Industrial-Book 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 455 --> 469
+    line [456, 460, 465, 466, 468]
 ```
 
-2026-10-18 456 → 2026-10-23 466（+10）
+2026-10-18 456 → 2026-10-24 468（+12）
 
 
 ---

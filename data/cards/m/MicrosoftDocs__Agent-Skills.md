@@ -1,6 +1,6 @@
 # MicrosoftDocs/Agent-Skills
 
-⭐ 790 · CC-BY-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/MicrosoftDocs/Agent-Skills) · [官网](https://learn.microsoft.com/) · 组织维护
+⭐ 791 · CC-BY-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/MicrosoftDocs/Agent-Skills) · [官网](https://learn.microsoft.com/) · 组织维护
 
 **面向 Azure 开发的策展 Agent 技能库：193 个 SKILL.md 技能**
 
@@ -46,12 +46,12 @@ MicrosoftDocs 维护的 Azure 开发 agent 技能集合：从 Microsoft Learn �
 ```mermaid
 xychart-beta
     title "MicrosoftDocs/Agent-Skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 781 --> 791
-    line [782, 786, 790, 790]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 781 --> 792
+    line [782, 786, 790, 791]
 ```
 
-2026-10-18 782 → 2026-10-23 790（+8）
+2026-10-18 782 → 2026-10-24 791（+9）
 
 
 ---

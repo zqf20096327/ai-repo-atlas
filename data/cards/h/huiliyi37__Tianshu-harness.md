@@ -1,6 +1,6 @@
 # huiliyi37/Tianshu-harness
 
-⭐ 1,145 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huiliyi37/Tianshu-harness) · [官网](https://tianshuharness.com/) · 个人维护 · 中文 README
+⭐ 1,152 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huiliyi37/Tianshu-harness) · [官网](https://tianshuharness.com/) · 个人维护 · 中文 README
 
 **面向开发者的终端/桌面编程 agent 认知运行时，证据驱动交付**
 
@@ -45,13 +45,13 @@ TypeScript 编写的编程 agent 运行时，终端 TUI 与 Tauri 桌面端（ma
 
 ```mermaid
 xychart-beta
-    title "huiliyi37/Tianshu-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1129 --> 1146
-    line [1130, 1139, 1142, 1145]
+    title "huiliyi37/Tianshu-harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1128 --> 1154
+    line [1130, 1139, 1142, 1145, 1152]
 ```
 
-2026-10-18 1,130 → 2026-10-23 1,145（+15）
+2026-10-18 1,130 → 2026-10-24 1,152（+22）
 
 
 ---

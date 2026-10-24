@@ -1,6 +1,6 @@
 # Rishurajgautam24/free-claude-code
 
-⭐ 948 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Rishurajgautam24/free-claude-code) · 个人维护
+⭐ 952 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Rishurajgautam24/free-claude-code) · 个人维护
 
 **免费使用 Claude Code 的本地代理：转发请求到第三方或本地模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Rishurajgautam24/free-claude-code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 935 --> 949
-    line [936, 939, 948, 948]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 935 --> 953
+    line [936, 939, 948, 952]
 ```
 
-2026-10-18 936 → 2026-10-23 948（+12）
+2026-10-18 936 → 2026-10-24 952（+16）
 
 
 ---

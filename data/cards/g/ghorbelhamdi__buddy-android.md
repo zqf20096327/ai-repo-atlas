@@ -1,6 +1,6 @@
 # ghorbelhamdi/buddy-android
 
-⭐ 107 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ghorbelhamdi/buddy-android) · 个人维护
+⭐ 112 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ghorbelhamdi/buddy-android) · 个人维护
 
 **让 Claude Code 等 AI agent 在安卓手机上操作应用的悬浮气泡应用**
 
@@ -45,13 +45,13 @@ Android 悬浮聊天气泡应用，让 Claude Code、Codex、OpenCode 或 Antigr
 
 ```mermaid
 xychart-beta
-    title "ghorbelhamdi/buddy-android 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 73 --> 110
-    line [76, 92, 102, 107]
+    title "ghorbelhamdi/buddy-android 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 73 --> 115
+    line [76, 92, 102, 107, 112]
 ```
 
-2026-10-18 76 → 2026-10-23 107（+31）
+2026-10-18 76 → 2026-10-24 112（+36）
 
 
 ---

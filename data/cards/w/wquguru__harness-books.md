@@ -1,6 +1,6 @@
 # wquguru/harness-books
 
-⭐ 3,202 · Python · 推送 2026-04-19 · [GitHub](https://github.com/wquguru/harness-books) · [官网](http://harness-books.agentway.dev/) · 组织维护 · 中文 README
+⭐ 3,204 · Python · 推送 2026-04-19 · [GitHub](https://github.com/wquguru/harness-books) · [官网](http://harness-books.agentway.dev/) · 组织维护 · 中文 README
 
 **关于 Claude Code 与 Codex harness 工程的两本技术书籍**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wquguru/harness-books 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3188 --> 3203
-    line [3189, 3195, 3202]
+    title "wquguru/harness-books 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3188 --> 3205
+    line [3189, 3195, 3202, 3204]
 ```
 
-2026-10-18 3,189 → 2026-10-23 3,202（+13）
+2026-10-18 3,189 → 2026-10-24 3,204（+15）
 
 
 ---

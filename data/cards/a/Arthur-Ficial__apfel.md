@@ -1,6 +1,6 @@
 # Arthur-Ficial/apfel
 
-⭐ 6,514 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Arthur-Ficial/apfel) · [官网](https://apfel.franzai.com) · 个人维护
+⭐ 6,521 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Arthur-Ficial/apfel) · [官网](https://apfel.franzai.com) · 个人维护
 
 **把 Apple Intelligence 内置模型暴露为 CLI 与本机 OpenAI 兼容服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Arthur-Ficial/apfel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 6474 --> 6517
-    line [6477, 6502, 6514]
+    title "Arthur-Ficial/apfel 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6473 --> 6525
+    line [6477, 6502, 6514, 6521]
 ```
 
-2026-10-18 6,477 → 2026-10-23 6,514（+37）
+2026-10-18 6,477 → 2026-10-24 6,521（+44）
 
 
 ---

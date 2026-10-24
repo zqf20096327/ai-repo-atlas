@@ -1,6 +1,6 @@
 # fancyboi999/Loomic
 
-⭐ 291 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/fancyboi999/Loomic) · [官网](https://loomic-one.vercel.app) · 个人维护 · 中文 README
+⭐ 292 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/fancyboi999/Loomic) · [官网](https://loomic-one.vercel.app) · 个人维护 · 中文 README
 
 **开源 AI 画布设计 Agent：对话生成图片与视频**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fancyboi999/Loomic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 284 --> 292
-    line [285, 286, 291, 291]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 284 --> 293
+    line [285, 286, 291, 292]
 ```
 
-2026-10-18 285 → 2026-10-23 291（+6）
+2026-10-18 285 → 2026-10-24 292（+7）
 
 
 ---

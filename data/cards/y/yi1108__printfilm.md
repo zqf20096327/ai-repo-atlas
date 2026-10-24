@@ -1,6 +1,6 @@
 # yi1108/printfilm
 
-⭐ 6,114 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/yi1108/printfilm) · [官网](https://www.printfilm.com) · 个人维护 · 中文 README
+⭐ 6,269 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yi1108/printfilm) · [官网](https://www.printfilm.com) · 个人维护 · 中文 README
 
 **自托管的 AI 短视频与 AI 漫剧创作平台，从文案到成片**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yi1108/printfilm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5082 --> 6207
-    line [5175, 5183, 5827, 6114]
+    title "yi1108/printfilm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5066 --> 6378
+    line [5175, 5183, 5827, 6114, 6269]
 ```
 
-2026-10-18 5,175 → 2026-10-23 6,114（+939）
+2026-10-18 5,175 → 2026-10-24 6,269（+1,094）
 
 
 ---

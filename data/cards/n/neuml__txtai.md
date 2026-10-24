@@ -1,6 +1,6 @@
 # neuml/txtai
 
-⭐ 13,027 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/neuml/txtai) · [官网](https://neuml.github.io/txtai) · 组织维护
+⭐ 13,029 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/neuml/txtai) · [官网](https://neuml.github.io/txtai) · 组织维护
 
 **Python 全栈 AI 框架：语义搜索、LLM 编排与语言模型工作流**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "neuml/txtai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13022 --> 13029
-    line [13023, 13028, 13027, 13027]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 13022 --> 13030
+    line [13023, 13028, 13027, 13029]
 ```
 
-2026-10-18 13,023 → 2026-10-23 13,027（+4）
+2026-10-18 13,023 → 2026-10-24 13,029（+6）
 
 
 ---

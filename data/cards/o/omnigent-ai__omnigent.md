@@ -1,6 +1,6 @@
 # omnigent-ai/omnigent
 
-⭐ 10,991 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/omnigent-ai/omnigent) · [官网](https://omnigent.ai) · 组织维护
+⭐ 11,007 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/omnigent-ai/omnigent) · [官网](https://omnigent.ai) · 组织维护
 
 **多 AI coding agent 统一编排与治理的开源框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "omnigent-ai/omnigent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10847 --> 11004
-    line [10860, 10908, 10953, 10991]
+    title "omnigent-ai/omnigent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10846 --> 11021
+    line [10860, 10908, 10953, 10991, 11007]
 ```
 
-2026-10-18 10,860 → 2026-10-23 10,991（+131）
+2026-10-18 10,860 → 2026-10-24 11,007（+147）
 
 
 ---

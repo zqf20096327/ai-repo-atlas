@@ -46,12 +46,12 @@ Salesforce AI Research 推出的多智能体深度研究系统 EDR：主规划 A
 ```mermaid
 xychart-beta
     title "SalesforceAIResearch/enterprise-deep-research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 1217 --> 1220
     line [1218, 1219, 1219]
 ```
 
-2026-10-18 1,218 → 2026-10-23 1,219（+1）
+2026-10-18 1,218 → 2026-10-24 1,219（+1）
 
 
 ---

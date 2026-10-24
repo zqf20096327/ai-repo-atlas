@@ -1,6 +1,6 @@
 # vonzosten/awesome-LangGraph
 
-⭐ 2,030 · JavaScript · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/vonzosten/awesome-LangGraph) · 个人维护
+⭐ 2,029 · JavaScript · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/vonzosten/awesome-LangGraph) · 个人维护
 
 **LangChain/LangGraph 生态的索引清单：框架、模板与项目导航**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vonzosten/awesome-LangGraph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 2024 --> 2031
-    line [2025, 2027, 2030, 2030]
+    line [2025, 2027, 2030, 2029]
 ```
 
-2026-10-18 2,025 → 2026-10-23 2,030（+5）
+2026-10-18 2,025 → 2026-10-24 2,029（+4）
 
 
 ---

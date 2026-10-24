@@ -1,6 +1,6 @@
 # lakehq/sail
 
-⭐ 3,467 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lakehq/sail) · [官网](https://lakesail.com) · 组织维护
+⭐ 3,469 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/lakehq/sail) · [官网](https://lakesail.com) · 组织维护
 
 **Rust 编写的 Apache Spark 替代引擎，统一批处理/流处理/AI 负载**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lakehq/sail 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3453 --> 3468
-    line [3454, 3464, 3465, 3467]
+    title "lakehq/sail 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3453 --> 3470
+    line [3454, 3464, 3465, 3467, 3469]
 ```
 
-2026-10-18 3,454 → 2026-10-23 3,467（+13）
+2026-10-18 3,454 → 2026-10-24 3,469（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # IST-DASLab/GSQ
 
-⭐ 113 · Python · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/IST-DASLab/GSQ) · [官网](https://huggingface.co/collections/ISTA-DASLab/gsq) · 组织维护
+⭐ 114 · Python · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/IST-DASLab/GSQ) · [官网](https://huggingface.co/collections/ISTA-DASLab/gsq) · 组织维护
 
 **面向 LLM 的 1–3 bit 后训练量化方法（Gumbel-Softmax，GGUF 兼容）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IST-DASLab/GSQ 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 97 --> 114
-    line [98, 103, 113]
+    title "IST-DASLab/GSQ 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 97 --> 115
+    line [98, 103, 113, 114]
 ```
 
-2026-10-18 98 → 2026-10-23 113（+15）
+2026-10-18 98 → 2026-10-24 114（+16）
 
 
 ---

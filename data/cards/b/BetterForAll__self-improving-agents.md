@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BetterForAll/self-improving-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "BetterForAll/self-improving-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 159 --> 171
-    line [170, 160]
+    line [170, 160, 160]
 ```
 
-2026-10-18 170 → 2026-10-23 160（-10）
+2026-10-18 170 → 2026-10-24 160（-10）
 
 
 ---

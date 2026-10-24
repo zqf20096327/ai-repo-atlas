@@ -1,6 +1,6 @@
 # ggml-org/ggml
 
-⭐ 15,514 · C++ · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ggml-org/ggml) · [官网](https://github.com/ggml-org) · 组织维护
+⭐ 15,520 · C++ · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ggml-org/ggml) · [官网](https://github.com/ggml-org) · 组织维护
 
 **面向机器学习的 C/C++ 张量计算库**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "ggml-org/ggml 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 15492 --> 15516
-    line [15494, 15507, 15514, 15514]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 15492 --> 15522
+    line [15494, 15507, 15514, 15520]
 ```
 
-2026-10-18 15,494 → 2026-10-23 15,514（+20）
+2026-10-18 15,494 → 2026-10-24 15,520（+26）
 
 
 ---

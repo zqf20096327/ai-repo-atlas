@@ -1,6 +1,6 @@
 # caraml-dev/merlin
 
-⭐ 184 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/caraml-dev/merlin) · 组织维护
+⭐ 184 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/caraml-dev/merlin) · 组织维护
 
 **Kubernetes 上 ML 模型部署与 serving 平台**
 
@@ -44,12 +44,12 @@ Merlin 是面向机器学习模型部署与线上服务的平台，以 Project/M
 ```mermaid
 xychart-beta
     title "caraml-dev/merlin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 183 --> 185
     line [184, 184]
 ```
 
-2026-10-18 184 → 2026-10-23 184（+0）
+2026-10-18 184 → 2026-10-24 184（+0）
 
 
 ---

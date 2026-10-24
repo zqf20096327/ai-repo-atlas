@@ -1,6 +1,6 @@
 # philippgille/chromem-go
 
-⭐ 1,070 · Go · MPL-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/philippgille/chromem-go) · 个人维护
+⭐ 1,071 · Go · MPL-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/philippgille/chromem-go) · 个人维护
 
 **可嵌入 Go 应用的向量数据库，零第三方依赖，支持 RAG**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "philippgille/chromem-go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1068 --> 1071
-    line [1069, 1070]
+    title "philippgille/chromem-go 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1068 --> 1072
+    line [1069, 1070, 1071]
 ```
 
-2026-10-18 1,069 → 2026-10-23 1,070（+1）
+2026-10-18 1,069 → 2026-10-24 1,071（+2）
 
 
 ---

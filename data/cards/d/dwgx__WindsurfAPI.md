@@ -1,6 +1,6 @@
 # dwgx/WindsurfAPI
 
-⭐ 3,105 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dwgx/WindsurfAPI) · [官网](https://dwgx.github.io/WindsurfAPI/) · 个人维护 · 中文 README
+⭐ 3,106 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dwgx/WindsurfAPI) · [官网](https://dwgx.github.io/WindsurfAPI/) · 个人维护 · 中文 README
 
 **把 Windsurf/Devin 云端 100+ 模型转为 OpenAI/Anthropic/Gemini 兼容 API 的自托管反代**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dwgx/WindsurfAPI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3094 --> 3106
-    line [3095, 3099, 3105]
+    title "dwgx/WindsurfAPI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3094 --> 3107
+    line [3095, 3099, 3105, 3106]
 ```
 
-2026-10-18 3,095 → 2026-10-23 3,105（+10）
+2026-10-18 3,095 → 2026-10-24 3,106（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # Unstructured-IO/unstructured
 
-⭐ 15,590 · HTML · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Unstructured-IO/unstructured) · [官网](https://www.unstructured.io/) · 组织维护
+⭐ 15,602 · HTML · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Unstructured-IO/unstructured) · [官网](https://www.unstructured.io/) · 组织维护
 
 **面向 LLM 开发者的文档解析 ETL 库：把文档转为结构化数据**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "Unstructured-IO/unstructured 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 15570 --> 15591
-    line [15571, 15579, 15584, 15590]
+    title "Unstructured-IO/unstructured 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 15568 --> 15605
+    line [15571, 15579, 15584, 15590, 15602]
 ```
 
-2026-10-18 15,571 → 2026-10-23 15,590（+19）
+2026-10-18 15,571 → 2026-10-24 15,602（+31）
 
 
 ---

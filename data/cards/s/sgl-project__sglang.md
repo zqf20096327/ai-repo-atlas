@@ -1,6 +1,6 @@
 # sgl-project/sglang
 
-⭐ 37,617 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sgl-project/sglang) · [官网](https://sglang.io) · 组织维护
+⭐ 37,670 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/sgl-project/sglang) · [官网](https://sglang.io) · 组织维护
 
 **面向开发者的大模型与多模态模型推理服务框架**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "sgl-project/sglang 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 37213 --> 37653
-    line [37249, 37444, 37567, 37617]
+    title "sgl-project/sglang 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 37207 --> 37712
+    line [37249, 37444, 37567, 37617, 37670]
 ```
 
-2026-10-18 37,249 → 2026-10-23 37,617（+368）
+2026-10-18 37,249 → 2026-10-24 37,670（+421）
 
 
 ---

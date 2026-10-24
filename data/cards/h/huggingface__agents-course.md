@@ -1,6 +1,6 @@
 # huggingface/agents-course
 
-⭐ 33,885 · MDX · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/agents-course) · 组织维护
+⭐ 33,928 · MDX · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/agents-course) · 组织维护
 
 **面向学习者的免费 AI Agent 入门课程（4 单元+认证）**
 
@@ -50,13 +50,13 @@ Hugging Face 官方的 Agents 课程仓库，内容分为 4 个单元：从 agen
 
 ```mermaid
 xychart-beta
-    title "huggingface/agents-course 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 33669 --> 33904
-    line [33688, 33763, 33838, 33885]
+    title "huggingface/agents-course 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 33664 --> 33952
+    line [33688, 33763, 33838, 33885, 33928]
 ```
 
-2026-10-18 33,688 → 2026-10-23 33,885（+197）
+2026-10-18 33,688 → 2026-10-24 33,928（+240）
 
 
 ---

@@ -1,6 +1,6 @@
 # helloianneo/ian-xhs-carousel
 
-⭐ 220 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/helloianneo/ian-xhs-carousel) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
+⭐ 243 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/helloianneo/ian-xhs-carousel) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
 
 **把文章/笔记排成小红书轮播图的 Claude Code Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "helloianneo/ian-xhs-carousel 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
-    y-axis "stars" 73 --> 233
-    line [86, 220]
+    title "helloianneo/ian-xhs-carousel 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 71 --> 258
+    line [86, 220, 243]
 ```
 
-2026-10-22 86 → 2026-10-23 220（+134）
+2026-10-22 86 → 2026-10-24 243（+157）
 
 
 ---

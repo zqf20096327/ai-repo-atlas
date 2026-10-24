@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Xiaohao-Liu/Awesome-Multi-Token-Prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 210 --> 212
     line [211, 211]
 ```
 
-2026-10-18 211 → 2026-10-23 211（+0）
+2026-10-18 211 → 2026-10-24 211（+0）
 
 
 ---

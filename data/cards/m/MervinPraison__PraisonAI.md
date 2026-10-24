@@ -1,6 +1,6 @@
 # MervinPraison/PraisonAI
 
-⭐ 9,284 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai/docs) · 个人维护
+⭐ 9,285 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai/docs) · 个人维护
 
 **开发者用的多智能体框架：5 行代码构建和运行 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MervinPraison/PraisonAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 9237 --> 9288
-    line [9241, 9271, 9281, 9284]
+    title "MervinPraison/PraisonAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9237 --> 9289
+    line [9241, 9271, 9281, 9284, 9285]
 ```
 
-2026-10-18 9,241 → 2026-10-23 9,284（+43）
+2026-10-18 9,241 → 2026-10-24 9,285（+44）
 
 
 ---

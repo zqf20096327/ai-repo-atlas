@@ -1,6 +1,6 @@
 # pykeio/ort
 
-⭐ 2,581 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/pykeio/ort) · [官网](https://ort.pyke.io/) · 组织维护
+⭐ 2,584 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pykeio/ort) · [官网](https://ort.pyke.io/) · 组织维护
 
 **Rust 的 ONNX Runtime 封装库：运行与训练 ONNX 模型**
 
@@ -43,13 +43,13 @@ Rust 语言访问 ONNX Runtime 的接口库，支持对 ONNX 格式机器学习�
 
 ```mermaid
 xychart-beta
-    title "pykeio/ort 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2570 --> 2582
-    line [2571, 2574, 2579, 2581]
+    title "pykeio/ort 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2570 --> 2585
+    line [2571, 2574, 2579, 2581, 2584]
 ```
 
-2026-10-18 2,571 → 2026-10-23 2,581（+10）
+2026-10-18 2,571 → 2026-10-24 2,584（+13）
 
 
 ---

@@ -45,13 +45,13 @@ MIT 数学系 2026 秋季课程（1.C25/6.C25 等）的材料仓库，由 Alan E
 
 ```mermaid
 xychart-beta
-    title "mitmath/JuliaComputation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "mitmath/JuliaComputation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 109 --> 112
-    line [110, 111]
+    line [110, 111, 111]
 ```
 
-2026-10-18 110 → 2026-10-23 111（+1）
+2026-10-18 110 → 2026-10-24 111（+1）
 
 
 ---

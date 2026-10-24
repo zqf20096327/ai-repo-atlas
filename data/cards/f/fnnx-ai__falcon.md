@@ -1,6 +1,6 @@
 # fnnx-ai/falcon
 
-⭐ 165 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/fnnx-ai/falcon) · [官网](https://fnnx.ai/) · 组织维护
+⭐ 164 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/fnnx-ai/falcon) · [官网](https://fnnx.ai/) · 组织维护
 
 **轻量级 Python AutoML 库：一行代码训练生产级模型**
 
@@ -45,12 +45,12 @@ Falcon 是 Python AutoML 库，面向需要快速构建机器学习管线的开�
 ```mermaid
 xychart-beta
     title "fnnx-ai/falcon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 164 --> 166
-    line [165, 165]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 163 --> 166
+    line [165, 164]
 ```
 
-2026-10-18 165 → 2026-10-23 165（+0）
+2026-10-18 165 → 2026-10-24 164（-1）
 
 
 ---

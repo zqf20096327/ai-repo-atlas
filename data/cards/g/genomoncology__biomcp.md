@@ -1,6 +1,6 @@
 # genomoncology/biomcp
 
-⭐ 663 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/genomoncology/biomcp) · [官网](https://biomcp.org/) · 组织维护
+⭐ 663 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/genomoncology/biomcp) · [官网](https://biomcp.org/) · 组织维护
 
 **统一 CLI/MCP 服务器：直连 72 个生物医学数据源供研究者与 AI agent 查询**
 
@@ -44,13 +44,13 @@ BioMCP 提供单一 CLI 二进制与统一命令语法，直接访问 72 个生�
 
 ```mermaid
 xychart-beta
-    title "genomoncology/biomcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "genomoncology/biomcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 656 --> 664
-    line [657, 659, 661, 663]
+    line [657, 659, 661, 663, 663]
 ```
 
-2026-10-18 657 → 2026-10-23 663（+6）
+2026-10-18 657 → 2026-10-24 663（+6）
 
 
 ---

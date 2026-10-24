@@ -44,13 +44,13 @@ WordPress 插件，在后台媒体库、文章编辑器与 Elementor/WooCommerce
 
 ```mermaid
 xychart-beta
-    title "WP-Autoplugin/wp-banana 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "WP-Autoplugin/wp-banana 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 108 --> 112
-    line [109, 110, 111]
+    line [109, 110, 111, 111]
 ```
 
-2026-10-18 109 → 2026-10-23 111（+2）
+2026-10-18 109 → 2026-10-24 111（+2）
 
 
 ---

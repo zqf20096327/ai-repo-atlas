@@ -1,6 +1,6 @@
 # Sunhaiy/Reflex
 
-⭐ 216 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Sunhaiy/Reflex) · [官网](https://reflex.ink/) · 个人维护 · 中文 README
+⭐ 217 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Sunhaiy/Reflex) · [官网](https://reflex.ink/) · 个人维护 · 中文 README
 
 **跨平台 SSH 桌面客户端：终端/SFTP/Docker/监控加 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sunhaiy/Reflex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "Sunhaiy/Reflex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 214 --> 240
-    line [237, 238, 237, 216]
+    line [237, 238, 237, 216, 217]
 ```
 
-2026-10-18 237 → 2026-10-23 216（-21）
+2026-10-18 237 → 2026-10-24 217（-20）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "crane-in-clear-sky/WorkWit-AI-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "crane-in-clear-sky/WorkWit-AI-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 115 --> 119
-    line [116, 118]
+    line [116, 118, 118]
 ```
 
-2026-10-18 116 → 2026-10-23 118（+2）
+2026-10-18 116 → 2026-10-24 118（+2）
 
 
 ---

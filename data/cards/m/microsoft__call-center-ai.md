@@ -1,6 +1,6 @@
 # microsoft/call-center-ai
 
-⭐ 6,683 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/microsoft/call-center-ai) · 组织维护
+⭐ 6,684 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/microsoft/call-center-ai) · 组织维护
 
 **微软的 AI 电话客服方案：Azure 语音加 GPT 处理呼入呼出电话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/call-center-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6665 --> 6684
-    line [6666, 6669, 6683, 6683]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 6665 --> 6685
+    line [6666, 6669, 6683, 6684]
 ```
 
-2026-10-18 6,666 → 2026-10-23 6,683（+17）
+2026-10-18 6,666 → 2026-10-24 6,684（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # software-ai-life/Awesome-PPT-Design-Skills
 
-⭐ 123 · HTML · 推送 2026-04-28 · [GitHub](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · 个人维护 · 中文 README
+⭐ 124 · HTML · 推送 2026-04-28 · [GitHub](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · 个人维护 · 中文 README
 
 **给 coding agent 的 PPT 设计技能包：按指定美学生成可编辑简报**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "software-ai-life/Awesome-PPT-Design-Skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 121 --> 124
-    line [122, 123]
+    title "software-ai-life/Awesome-PPT-Design-Skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 121 --> 125
+    line [122, 123, 124]
 ```
 
-2026-10-18 122 → 2026-10-23 123（+1）
+2026-10-18 122 → 2026-10-24 124（+2）
 
 
 ---

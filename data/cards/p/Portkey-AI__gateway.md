@@ -1,6 +1,6 @@
 # Portkey-AI/gateway
 
-⭐ 13,252 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Portkey-AI/gateway) · [官网](https://portkey.ai/features/ai-gateway) · 组织维护
+⭐ 13,259 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Portkey-AI/gateway) · [官网](https://portkey.ai/features/ai-gateway) · 组织维护
 
 **为开发者提供统一的 AI 网关，路由 1600+ 模型并集成 guardrails**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Portkey-AI/gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13206 --> 13256
-    line [13210, 13220, 13243, 13252]
+    title "Portkey-AI/gateway 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13206 --> 13263
+    line [13210, 13220, 13243, 13252, 13259]
 ```
 
-2026-10-18 13,210 → 2026-10-23 13,252（+42）
+2026-10-18 13,210 → 2026-10-24 13,259（+49）
 
 
 ---

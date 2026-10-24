@@ -1,6 +1,6 @@
 # conorbronsdon/avoid-ai-writing
 
-⭐ 5,173 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/conorbronsdon/avoid-ai-writing) · [官网](https://chainofthought.show/go/avoid-ai-writing/) · 个人维护
+⭐ 5,209 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/conorbronsdon/avoid-ai-writing) · [官网](https://chainofthought.show/go/avoid-ai-writing/) · 个人维护
 
 **供 AI agent 使用的技能包：检测并改写文中的 AI 写作痕迹**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "conorbronsdon/avoid-ai-writing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 5049 --> 5184
-    line [5060, 5101, 5173]
+    title "conorbronsdon/avoid-ai-writing 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5046 --> 5223
+    line [5060, 5101, 5173, 5209]
 ```
 
-2026-10-18 5,060 → 2026-10-23 5,173（+113）
+2026-10-18 5,060 → 2026-10-24 5,209（+149）
 
 
 ---

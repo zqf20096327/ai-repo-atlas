@@ -1,6 +1,6 @@
 # snchimata/tokenfold
 
-⭐ 102 · Rust · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/snchimata/tokenfold) · 个人维护
+⭐ 101 · Rust · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/snchimata/tokenfold) · 个人维护
 
 **LLM 结构化 JSON 的确定性无损压缩工具与本地代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "snchimata/tokenfold 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 100 --> 103
+    line [102, 101]
 ```
 
-2026-10-18 102 → 2026-10-23 102（+0）
+2026-10-18 102 → 2026-10-24 101（-1）
 
 
 ---

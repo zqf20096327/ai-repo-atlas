@@ -1,6 +1,6 @@
 # continuedev/continue
 
-⭐ 36,290 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/continuedev/continue) · [官网](https://continue.dev) · 组织维护
+⭐ 36,301 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/continuedev/continue) · [官网](https://continue.dev) · 组织维护
 
 **面向开发者的开源编码代理：CLI、VS Code、JetBrains 三形态**
 
@@ -50,13 +50,13 @@ Continue 是一个编码代理，以 CLI、VS Code 扩展和 JetBrains 插件三
 
 ```mermaid
 xychart-beta
-    title "continuedev/continue 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 36227 --> 36295
-    line [36232, 36263, 36281, 36290]
+    title "continuedev/continue 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 36226 --> 36307
+    line [36232, 36263, 36281, 36290, 36301]
 ```
 
-2026-10-18 36,232 → 2026-10-23 36,290（+58）
+2026-10-18 36,232 → 2026-10-24 36,301（+69）
 
 
 ---

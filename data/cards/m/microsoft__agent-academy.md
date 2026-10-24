@@ -1,6 +1,6 @@
 # microsoft/agent-academy
 
-⭐ 3,574 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/agent-academy) · [官网](https://aka.ms/agent-academy) · 组织维护
+⭐ 3,576 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/agent-academy) · [官网](https://aka.ms/agent-academy) · 组织维护
 
 **微软官方 Copilot Studio 智能体开发三讲课程**
 
@@ -39,13 +39,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agent-academy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3552 --> 3576
-    line [3554, 3557, 3560, 3574]
+    title "microsoft/agent-academy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3552 --> 3578
+    line [3554, 3557, 3560, 3574, 3576]
 ```
 
-2026-10-18 3,554 → 2026-10-23 3,574（+20）
+2026-10-18 3,554 → 2026-10-24 3,576（+22）
 
 
 ---

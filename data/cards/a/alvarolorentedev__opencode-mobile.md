@@ -1,6 +1,6 @@
 # alvarolorentedev/opencode-mobile
 
-⭐ 282 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/alvarolorentedev/opencode-mobile) · [官网](https://getopencode.app/) · 个人维护
+⭐ 285 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alvarolorentedev/opencode-mobile) · [官网](https://getopencode.app/) · 个人维护
 
 **OpenCode 服务器的移动端客户端，远程管理 AI 编码会话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alvarolorentedev/opencode-mobile 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 266 --> 283
-    line [267, 273, 282, 282]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 266 --> 286
+    line [267, 273, 282, 285]
 ```
 
-2026-10-18 267 → 2026-10-23 282（+15）
+2026-10-18 267 → 2026-10-24 285（+18）
 
 
 ---

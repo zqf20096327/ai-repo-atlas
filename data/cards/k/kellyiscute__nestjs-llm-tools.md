@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kellyiscute/nestjs-llm-tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "kellyiscute/nestjs-llm-tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 172 --> 197
-    line [195, 174]
+    line [195, 174, 174]
 ```
 
-2026-10-18 195 → 2026-10-23 174（-21）
+2026-10-18 195 → 2026-10-24 174（-21）
 
 
 ---

@@ -47,12 +47,12 @@ mancode 是套在 Claude Code、Cursor、Codex、GitHub Copilot、Kimi Code 等�
 ```mermaid
 xychart-beta
     title "whitelonng/mancode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 358 --> 360
     line [359, 359]
 ```
 
-2026-10-18 359 → 2026-10-23 359（+0）
+2026-10-18 359 → 2026-10-24 359（+0）
 
 
 ---

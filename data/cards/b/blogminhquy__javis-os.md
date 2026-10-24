@@ -1,6 +1,6 @@
 # blogminhquy/javis-os
 
-⭐ 279 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/blogminhquy/javis-os) · [官网](https://javisos.com) · 个人维护 · 中文 README
+⭐ 278 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/blogminhquy/javis-os) · [官网](https://javisos.com) · 个人维护 · 中文 README
 
 **自托管语音 AI agent 系统：可换模型、带自我积累的第二大脑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "blogminhquy/javis-os 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 270 --> 280
-    line [271, 278, 279, 279]
+    line [271, 278, 279, 278]
 ```
 
-2026-10-18 271 → 2026-10-23 279（+8）
+2026-10-18 271 → 2026-10-24 278（+7）
 
 
 ---

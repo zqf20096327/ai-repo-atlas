@@ -1,6 +1,6 @@
 # sipeed/MaixPy
 
-⭐ 865 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/sipeed/MaixPy) · [官网](https://wiki.sipeed.com/maixpy/) · 组织维护 · 中文 README
+⭐ 864 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/sipeed/MaixPy) · [官网](https://wiki.sipeed.com/maixpy/) · 组织维护 · 中文 README
 
 **边缘设备上用 Python 开发 AI 视觉项目的 SDK，配 MaixCAM 硬件**
 
@@ -46,12 +46,12 @@ Sipeed 维护的边缘 AI Python SDK（v4），运行于 MaixCAM / MaixCAM2 / Ma
 ```mermaid
 xychart-beta
     title "sipeed/MaixPy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 858 --> 866
-    line [859, 861, 865, 865]
+    line [859, 861, 865, 864]
 ```
 
-2026-10-18 859 → 2026-10-23 865（+6）
+2026-10-18 859 → 2026-10-24 864（+5）
 
 
 ---

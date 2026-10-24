@@ -1,6 +1,6 @@
 # datalab-to/chandra
 
-⭐ 12,534 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datalab-to/chandra) · [官网](https://www.datalab.to) · 组织维护
+⭐ 12,559 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datalab-to/chandra) · [官网](https://www.datalab.to) · 组织维护
 
 **OCR 模型：将图像/PDF 转为保留版面的 Markdown/HTML/JSON**
 
@@ -45,13 +45,13 @@ Datalab 开发的文档智能 OCR 模型 Chandra 2，将图像和 PDF 转换为�
 
 ```mermaid
 xychart-beta
-    title "datalab-to/chandra 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 12507 --> 12536
-    line [12509, 12515, 12523, 12534]
+    title "datalab-to/chandra 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 12504 --> 12564
+    line [12509, 12515, 12523, 12534, 12559]
 ```
 
-2026-10-18 12,509 → 2026-10-23 12,534（+25）
+2026-10-18 12,509 → 2026-10-24 12,559（+50）
 
 
 ---

@@ -1,6 +1,6 @@
 # vitoplantamura/OnnxStream
 
-⭐ 2,088 · C++ · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/vitoplantamura/OnnxStream) · [官网](https://whisper.vitoplantamura.com/) · 个人维护
+⭐ 2,089 · C++ · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/vitoplantamura/OnnxStream) · [官网](https://whisper.vitoplantamura.com/) · 个人维护
 
 **C++ 极低内存 ONNX 推理库，可在 RPI Zero 2 跑 SDXL**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vitoplantamura/OnnxStream 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 2087 --> 2089
-    line [2088, 2088]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 2087 --> 2090
+    line [2088, 2089]
 ```
 
-2026-10-18 2,088 → 2026-10-23 2,088（+0）
+2026-10-18 2,088 → 2026-10-24 2,089（+1）
 
 
 ---

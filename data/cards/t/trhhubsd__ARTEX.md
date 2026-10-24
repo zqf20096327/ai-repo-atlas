@@ -1,6 +1,6 @@
 # trhhubsd/ARTEX
 
-⭐ 1,694 · Go · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/trhhubsd/ARTEX) · [官网](https://artex-demo.vercel.app/) · 组织维护 · 中文 README
+⭐ 1,803 · Go · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/trhhubsd/ARTEX) · [官网](https://artex-demo.vercel.app/) · 组织维护 · 中文 README
 
 **面向隔离靶场的多 agent LLM 自主渗透测试系统**
 
@@ -45,13 +45,13 @@ Go 后端（内嵌 Next.js 前端）+ PostgreSQL 的多 agent 自主渗透测试
 
 ```mermaid
 xychart-beta
-    title "trhhubsd/ARTEX 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1181 --> 1740
-    line [1227, 1317, 1540, 1694]
+    title "trhhubsd/ARTEX 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1170 --> 1860
+    line [1227, 1317, 1540, 1694, 1803]
 ```
 
-2026-10-18 1,227 → 2026-10-23 1,694（+467）
+2026-10-18 1,227 → 2026-10-24 1,803（+576）
 
 
 ---

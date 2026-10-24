@@ -1,6 +1,6 @@
 # HKUDS/nanobot
 
-⭐ 49,271 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/HKUDS/nanobot) · [官网](https://nanobot.wiki) · 组织维护 · 中文 README
+⭐ 49,303 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HKUDS/nanobot) · [官网](https://nanobot.wiki) · 组织维护 · 中文 README
 
 **给个人用户的自托管轻量 AI agent 框架**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "HKUDS/nanobot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 49113 --> 49285
-    line [49127, 49191, 49246, 49271]
+    title "HKUDS/nanobot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 49110 --> 49320
+    line [49127, 49191, 49246, 49271, 49303]
 ```
 
-2026-10-18 49,127 → 2026-10-23 49,271（+144）
+2026-10-18 49,127 → 2026-10-24 49,303（+176）
 
 
 ---

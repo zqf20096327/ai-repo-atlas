@@ -1,6 +1,6 @@
 # egeominotti/bunqueue
 
-⭐ 588 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/egeominotti/bunqueue) · [官网](https://bunqueue.dev) · 个人维护
+⭐ 588 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/egeominotti/bunqueue) · [官网](https://bunqueue.dev) · 个人维护
 
 **面向 Bun 的任务队列：默认内存/SQLite，可扩到 PostgreSQL**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "egeominotti/bunqueue 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 585 --> 589
     line [586, 587, 588, 588]
 ```
 
-2026-10-18 586 → 2026-10-23 588（+2）
+2026-10-18 586 → 2026-10-24 588（+2）
 
 
 ---

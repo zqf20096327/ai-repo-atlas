@@ -1,6 +1,6 @@
 # Paca-AI/paca
 
-⭐ 1,968 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Paca-AI/paca) · [官网](https://paca-ai.org) · 组织维护
+⭐ 1,973 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Paca-AI/paca) · [官网](https://paca-ai.org) · 组织维护
 
 **自托管项目管理平台，AI agent 与人类同队协作 Scrum**
 
@@ -45,13 +45,13 @@ Apache 2.0 许可的自托管项目管理平台，定位为 Jira/Trello/ClickUp/
 
 ```mermaid
 xychart-beta
-    title "Paca-AI/paca 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1930 --> 1971
-    line [1933, 1956, 1965, 1968]
+    title "Paca-AI/paca 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1929 --> 1977
+    line [1933, 1956, 1965, 1968, 1973]
 ```
 
-2026-10-18 1,933 → 2026-10-23 1,968（+35）
+2026-10-18 1,933 → 2026-10-24 1,973（+40）
 
 
 ---

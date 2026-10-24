@@ -1,6 +1,6 @@
 # sqfcyily/deva
 
-⭐ 218 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sqfcyily/deva) · [官网](https://sqfcyily.github.io/deva/) · 个人维护 · 中文 README
+⭐ 246 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sqfcyily/deva) · [官网](https://sqfcyily.github.io/deva/) · 个人维护 · 中文 README
 
 **对话式桌面 AI 助手：把 Agent 能力装进聊天里**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "sqfcyily/deva 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 53 --> 233
-    line [68, 120, 187, 218]
+    title "sqfcyily/deva 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 51 --> 263
+    line [68, 120, 187, 218, 246]
 ```
 
-2026-10-18 68 → 2026-10-23 218（+150）
+2026-10-18 68 → 2026-10-24 246（+178）
 
 
 ---

@@ -1,6 +1,6 @@
 # PerryLink/dsh-auto-review
 
-⭐ 234 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/PerryLink/dsh-auto-review) · [官网](https://perrylink.github.io/plugins/dsh-auto-review/) · 个人维护 · 中文 README
+⭐ 235 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/PerryLink/dsh-auto-review) · [官网](https://perrylink.github.io/plugins/dsh-auto-review/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 审批链插件：第二模型自动评审 allow/deny**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-auto-review 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "PerryLink/dsh-auto-review 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 233 --> 237
-    line [234, 235, 236, 234]
+    line [234, 235, 236, 234, 235]
 ```
 
-2026-10-18 234 → 2026-10-23 234（+0）
+2026-10-18 234 → 2026-10-24 235（+1）
 
 
 ---

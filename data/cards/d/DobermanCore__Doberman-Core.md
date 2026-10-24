@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DobermanCore/Doberman-Core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "DobermanCore/Doberman-Core 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 274 --> 283
-    line [282, 275]
+    line [282, 275, 275]
 ```
 
-2026-10-18 282 → 2026-10-23 275（-7）
+2026-10-18 282 → 2026-10-24 275（-7）
 
 
 ---

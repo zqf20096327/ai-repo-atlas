@@ -1,6 +1,6 @@
 # ROCm/FastFlowLM
 
-⭐ 1,980 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/ROCm/FastFlowLM) · [官网](http://fastflowlm.com/) · 组织维护
+⭐ 1,981 · C++ · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ROCm/FastFlowLM) · [官网](http://fastflowlm.com/) · 组织维护
 
 **面向 AMD Ryzen AI NPU 的本地 LLM 推理运行时与 CLI**
 
@@ -46,13 +46,13 @@ FastFlowLM (FLM) 是专为 AMD Ryzen AI 系列 XDNA2 NPU（Strix、Strix Halo、
 
 ```mermaid
 xychart-beta
-    title "ROCm/FastFlowLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1963 --> 1981
-    line [1964, 1968, 1980]
+    title "ROCm/FastFlowLM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1963 --> 1982
+    line [1964, 1968, 1980, 1981]
 ```
 
-2026-10-18 1,964 → 2026-10-23 1,980（+16）
+2026-10-18 1,964 → 2026-10-24 1,981（+17）
 
 
 ---

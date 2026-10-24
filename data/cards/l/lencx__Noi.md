@@ -1,6 +1,6 @@
 # lencx/Noi
 
-⭐ 9,062 · TypeScript · 推送 2026-08-21 · [GitHub](https://github.com/lencx/Noi) · [官网](https://noib.app) · 个人维护 · 中文 README
+⭐ 9,063 · TypeScript · 推送 2026-08-21 · [GitHub](https://github.com/lencx/Noi) · [官网](https://noib.app) · 个人维护 · 中文 README
 
 **面向多个 AI 站点的桌面浏览器，统一管理与提示词工作流**
 
@@ -45,12 +45,12 @@ Noi 是一款跨平台桌面应用（主题标签含 macOS、browser、extension
 ```mermaid
 xychart-beta
     title "lencx/Noi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 9058 --> 9064
-    line [9059, 9063, 9062, 9062]
+    line [9059, 9063, 9062, 9063]
 ```
 
-2026-10-18 9,059 → 2026-10-23 9,062（+3）
+2026-10-18 9,059 → 2026-10-24 9,063（+4）
 
 
 ---

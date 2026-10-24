@@ -1,6 +1,6 @@
 # ExplosiveCoderflome/AI-Novel-Writing-Assistant
 
-⭐ 3,273 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) · [官网](https://explosivecoderflome.github.io/AI-Novel-Writing-Assistant/) · 个人维护 · 中文 README
+⭐ 3,279 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) · [官网](https://explosivecoderflome.github.io/AI-Novel-Writing-Assistant/) · 个人维护 · 中文 README
 
 **面向长篇小说作者的 AI 创作工作台，从灵感到成书**
 
@@ -46,13 +46,13 @@ Biz Novel Studio 是开源 AI 小说创作工作台（Monorepo，React+Vite 前�
 
 ```mermaid
 xychart-beta
-    title "ExplosiveCoderflome/AI-Novel-Writing-Assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3215 --> 3278
-    line [3220, 3238, 3260, 3273]
+    title "ExplosiveCoderflome/AI-Novel-Writing-Assistant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3215 --> 3284
+    line [3220, 3238, 3260, 3273, 3279]
 ```
 
-2026-10-18 3,220 → 2026-10-23 3,273（+53）
+2026-10-18 3,220 → 2026-10-24 3,279（+59）
 
 
 ---

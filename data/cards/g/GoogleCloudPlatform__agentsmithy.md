@@ -45,12 +45,12 @@ Multi-Agent Quest（Agent Bar v2）是面向 Google Cloud 的多智能体运行�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/agentsmithy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 122 --> 124
     line [123, 123]
 ```
 
-2026-10-18 123 → 2026-10-23 123（+0）
+2026-10-18 123 → 2026-10-24 123（+0）
 
 
 ---

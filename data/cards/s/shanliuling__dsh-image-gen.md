@@ -1,6 +1,6 @@
 # shanliuling/dsh-image-gen
 
-⭐ 665 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/shanliuling/dsh-image-gen) · [官网](https://github.com/shanliuling/dsh-image-gen#readme) · 个人维护 · 中文 README
+⭐ 676 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/shanliuling/dsh-image-gen) · [官网](https://github.com/shanliuling/dsh-image-gen#readme) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 AI 图像创作插件：对话生图、画布与多模型对比**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanliuling/dsh-image-gen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 618 --> 669
-    line [622, 642, 660, 665]
+    title "shanliuling/dsh-image-gen 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 617 --> 681
+    line [622, 642, 660, 665, 676]
 ```
 
-2026-10-18 622 → 2026-10-23 665（+43）
+2026-10-18 622 → 2026-10-24 676（+54）
 
 
 ---

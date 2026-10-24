@@ -1,6 +1,6 @@
 # sayksii/Aria
 
-⭐ 357 · Python · GPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/sayksii/Aria) · 个人维护 · 中文 README
+⭐ 358 · Python · GPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/sayksii/Aria) · 个人维护 · 中文 README
 
 **Windows 实时字幕桌面应用：系统音频转可移动悬浮字幕**
 
@@ -44,13 +44,13 @@ Windows 桌面应用，捕获系统音频或麦克风，经语音识别后以可
 
 ```mermaid
 xychart-beta
-    title "sayksii/Aria 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 347 --> 358
-    line [348, 350, 355, 357]
+    title "sayksii/Aria 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 347 --> 359
+    line [348, 350, 355, 357, 358]
 ```
 
-2026-10-18 348 → 2026-10-23 357（+9）
+2026-10-18 348 → 2026-10-24 358（+10）
 
 
 ---

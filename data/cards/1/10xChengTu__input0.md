@@ -1,6 +1,6 @@
 # 10xChengTu/input0
 
-⭐ 302 · Rust · NOASSERTION · 推送 2026-05-28 · [GitHub](https://github.com/10xChengTu/input0) · [官网](https://input0.com) · 个人维护 · 中文 README
+⭐ 303 · Rust · NOASSERTION · 推送 2026-05-28 · [GitHub](https://github.com/10xChengTu/input0) · [官网](https://input0.com) · 个人维护 · 中文 README
 
 **macOS 语音输入工具：按住热键说话，本地转写加 LLM 润色后自动粘贴**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "10xChengTu/input0 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 301 --> 303
-    line [302, 302]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 301 --> 304
+    line [302, 303]
 ```
 
-2026-10-18 302 → 2026-10-23 302（+0）
+2026-10-18 302 → 2026-10-24 303（+1）
 
 
 ---

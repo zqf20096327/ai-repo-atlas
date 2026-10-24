@@ -1,6 +1,6 @@
 # verifywise-ai/verifywise
 
-⭐ 366 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/verifywise-ai/verifywise) · [官网](https://verifywise.ai) · 组织维护
+⭐ 366 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/verifywise-ai/verifywise) · [官网](https://verifywise.ai) · 组织维护
 
 **面向企业的 AI 治理与合规审计平台，支持 25 个合规框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "verifywise-ai/verifywise 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 364 --> 367
     line [365, 366, 366]
 ```
 
-2026-10-18 365 → 2026-10-23 366（+1）
+2026-10-18 365 → 2026-10-24 366（+1）
 
 
 ---

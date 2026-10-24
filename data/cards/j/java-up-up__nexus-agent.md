@@ -1,6 +1,6 @@
 # java-up-up/nexus-agent
 
-⭐ 664 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/java-up-up/nexus-agent) · [官网](https://javaup.chat/super-agent/overview/project-intro) · 个人维护 · 中文 README
+⭐ 666 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/java-up-up/nexus-agent) · [官网](https://javaup.chat/super-agent/overview/project-intro) · 个人维护 · 中文 README
 
 **企业级 AI 智能体对话平台：Agent、RAG 问答与工具调用全链路**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "java-up-up/nexus-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "java-up-up/nexus-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 663 --> 669
-    line [664, 668, 667, 664]
+    line [664, 668, 667, 664, 666]
 ```
 
-2026-10-18 664 → 2026-10-23 664（+0）
+2026-10-18 664 → 2026-10-24 666（+2）
 
 
 ---

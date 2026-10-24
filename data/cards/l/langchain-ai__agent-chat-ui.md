@@ -1,6 +1,6 @@
 # langchain-ai/agent-chat-ui
 
-⭐ 3,237 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/agent-chat-ui) · [官网](https://agentchat.vercel.app) · 组织维护
+⭐ 3,238 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/agent-chat-ui) · [官网](https://agentchat.vercel.app) · 组织维护
 
 **与任意 LangGraph server 聊天的 Next.js Web 界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/agent-chat-ui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3226 --> 3238
-    line [3227, 3234, 3236, 3237]
+    title "langchain-ai/agent-chat-ui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3226 --> 3239
+    line [3227, 3234, 3236, 3237, 3238]
 ```
 
-2026-10-18 3,227 → 2026-10-23 3,237（+10）
+2026-10-18 3,227 → 2026-10-24 3,238（+11）
 
 
 ---

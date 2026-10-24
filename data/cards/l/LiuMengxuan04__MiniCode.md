@@ -1,6 +1,6 @@
 # LiuMengxuan04/MiniCode
 
-⭐ 1,151 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/LiuMengxuan04/MiniCode) · [官网](https://liumengxuan04.github.io/MiniCode/) · 组织维护 · 中文 README
+⭐ 1,152 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/LiuMengxuan04/MiniCode) · [官网](https://liumengxuan04.github.io/MiniCode/) · 组织维护 · 中文 README
 
 **轻量终端编码助手：类 Claude Code 工作流的学习型实现**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "LiuMengxuan04/MiniCode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1144 --> 1152
-    line [1145, 1148, 1151]
+    title "LiuMengxuan04/MiniCode 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1144 --> 1153
+    line [1145, 1148, 1151, 1152]
 ```
 
-2026-10-18 1,145 → 2026-10-23 1,151（+6）
+2026-10-18 1,145 → 2026-10-24 1,152（+7）
 
 
 ---

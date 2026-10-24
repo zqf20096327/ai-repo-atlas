@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-K2
 
-⭐ 11,110 · NOASSERTION · 推送 2026-01-21 · [GitHub](https://github.com/MoonshotAI/Kimi-K2) · 组织维护 · 中文 README
+⭐ 11,112 · NOASSERTION · 推送 2026-01-21 · [GitHub](https://github.com/MoonshotAI/Kimi-K2) · 组织维护 · 中文 README
 
 **Moonshot AI 的开源 1T 参数 MoE 大语言模型（激活 32B）**
 
@@ -45,13 +45,13 @@ Kimi K2 是月之暗面团队发布的混合专家（MoE）大语言模型系列
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/Kimi-K2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "MoonshotAI/Kimi-K2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 11109 --> 11113
-    line [11112, 11111, 11110]
+    line [11112, 11111, 11110, 11112]
 ```
 
-2026-10-18 11,112 → 2026-10-23 11,110（-2）
+2026-10-18 11,112 → 2026-10-24 11,112（+0）
 
 
 ---

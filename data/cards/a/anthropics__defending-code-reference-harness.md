@@ -1,6 +1,6 @@
 # anthropics/defending-code-reference-harness
 
-⭐ 7,625 · Python · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/anthropics/defending-code-reference-harness) · [官网](https://claude.com/blog/using-llms-to-secure-source-code) · 组织维护
+⭐ 7,629 · Python · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/anthropics/defending-code-reference-harness) · [官网](https://claude.com/blog/using-llms-to-secure-source-code) · 组织维护
 
 **用 Claude 自主发现与修复代码漏洞的参考流水线**
 
@@ -46,13 +46,13 @@ Anthropic 发布的开源参考实现：基于 Claude Code 的技能（威胁建
 
 ```mermaid
 xychart-beta
-    title "anthropics/defending-code-reference-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7595 --> 7627
-    line [7597, 7608, 7616, 7625]
+    title "anthropics/defending-code-reference-harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7594 --> 7632
+    line [7597, 7608, 7616, 7625, 7629]
 ```
 
-2026-10-18 7,597 → 2026-10-23 7,625（+28）
+2026-10-18 7,597 → 2026-10-24 7,629（+32）
 
 
 ---

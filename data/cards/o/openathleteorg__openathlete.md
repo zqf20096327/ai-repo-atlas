@@ -1,6 +1,6 @@
 # openathleteorg/openathlete
 
-⭐ 118 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/openathleteorg/openathlete) · [官网](https://openathlete.org) · 个人维护
+⭐ 119 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/openathleteorg/openathlete) · [官网](https://openathlete.org) · 个人维护
 
 **可自托管的耐力训练平台：数据自主、开源替代 TrainingPeaks**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openathleteorg/openathlete 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 109 --> 119
-    line [110, 114, 117, 118]
+    title "openathleteorg/openathlete 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 109 --> 120
+    line [110, 114, 117, 118, 119]
 ```
 
-2026-10-18 110 → 2026-10-23 118（+8）
+2026-10-18 110 → 2026-10-24 119（+9）
 
 
 ---

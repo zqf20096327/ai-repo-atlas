@@ -1,6 +1,6 @@
 # volcengine/OpenViking
 
-⭐ 40,591 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/volcengine/OpenViking) · [官网](https://openviking.ai) · 组织维护 · 中文 README
+⭐ 40,680 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/volcengine/OpenViking) · [官网](https://openviking.ai) · 组织维护 · 中文 README
 
 **给 AI Agent 的上下文数据库：统一记忆、知识与技能**
 
@@ -50,13 +50,13 @@ OpenViking 把 Agent 的知识、记忆与技能统一组织为 `viking://` 虚�
 
 ```mermaid
 xychart-beta
-    title "volcengine/OpenViking 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 40121 --> 40633
-    line [40163, 40347, 40509, 40591]
+    title "volcengine/OpenViking 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 40112 --> 40731
+    line [40163, 40347, 40509, 40591, 40680]
 ```
 
-2026-10-18 40,163 → 2026-10-23 40,591（+428）
+2026-10-18 40,163 → 2026-10-24 40,680（+517）
 
 
 ---

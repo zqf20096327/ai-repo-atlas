@@ -1,6 +1,6 @@
 # autonomousvision/transfuser
 
-⭐ 1,609 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/autonomousvision/transfuser) · 组织维护
+⭐ 1,608 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/autonomousvision/transfuser) · 组织维护
 
 **基于 Transformer 传感器融合的端到端自动驾驶模仿学习模型**
 
@@ -45,12 +45,12 @@ PAMI 2023 论文 TransFuser 的官方代码库，为 CVPR 2021 多模态融合 T
 ```mermaid
 xychart-beta
     title "autonomousvision/transfuser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1606 --> 1610
-    line [1607, 1609, 1609]
+    line [1607, 1609, 1608]
 ```
 
-2026-10-18 1,607 → 2026-10-23 1,609（+2）
+2026-10-18 1,607 → 2026-10-24 1,608（+1）
 
 
 ---

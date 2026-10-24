@@ -1,6 +1,6 @@
 # yogthos/Matryoshka
 
-⭐ 150 · TypeScript · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/yogthos/Matryoshka) · 个人维护
+⭐ 149 · TypeScript · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/yogthos/Matryoshka) · 个人维护
 
 **MCP 服务器：让 LLM 用符号命令分析超出上下文窗口的大文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yogthos/Matryoshka 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 149 --> 151
-    line [150, 150]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 148 --> 151
+    line [150, 149]
 ```
 
-2026-10-18 150 → 2026-10-23 150（+0）
+2026-10-18 150 → 2026-10-24 149（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # RobRoyce/knowledge
 
-⭐ 1,463 · TypeScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/RobRoyce/knowledge) · 个人维护
+⭐ 1,464 · TypeScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/RobRoyce/knowledge) · 个人维护
 
 **保存/搜索/探索网页文档并可用 LLM 对话的知识管理应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RobRoyce/knowledge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1461 --> 1464
-    line [1463, 1462, 1463]
+    title "RobRoyce/knowledge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1461 --> 1465
+    line [1463, 1462, 1463, 1464]
 ```
 
-2026-10-18 1,463 → 2026-10-23 1,463（+0）
+2026-10-18 1,463 → 2026-10-24 1,464（+1）
 
 
 ---

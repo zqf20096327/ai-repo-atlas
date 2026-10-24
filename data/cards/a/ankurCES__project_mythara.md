@@ -1,6 +1,6 @@
 # ankurCES/project_mythara
 
-⭐ 94 · Kotlin · 推送 2026-09-28 · [GitHub](https://github.com/ankurCES/project_mythara) · [官网](https://github.com/ankurCES/project_mythara) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **可旁加载的 Android 本地优先 agentic AI 助手层（BYO 模型）**
 

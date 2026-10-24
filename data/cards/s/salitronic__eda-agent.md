@@ -1,6 +1,6 @@
 # salitronic/eda-agent
 
-⭐ 267 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/salitronic/eda-agent) · [官网](https://salitronic.com/eda-agent) · 个人维护
+⭐ 272 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/salitronic/eda-agent) · [官网](https://salitronic.com/eda-agent) · 个人维护
 
 **MCP 服务器：让 AI 实时操控 Altium Designer 进行电路设计**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "salitronic/eda-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 252 --> 268
-    line [253, 259, 265, 267]
+    title "salitronic/eda-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 252 --> 273
+    line [253, 259, 265, 267, 272]
 ```
 
-2026-10-18 253 → 2026-10-23 267（+14）
+2026-10-18 253 → 2026-10-24 272（+19）
 
 
 ---

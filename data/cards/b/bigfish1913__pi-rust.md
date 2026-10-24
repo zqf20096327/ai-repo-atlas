@@ -1,6 +1,6 @@
 # bigfish1913/pi-rust
 
-⭐ 137 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/bigfish1913/pi-rust) · [官网](https://rpi.bigfisharc.cn/) · 个人维护
+⭐ 144 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/bigfish1913/pi-rust) · [官网](https://rpi.bigfisharc.cn/) · 个人维护
 
 **Rust 编写的库优先 coding-agent 运行时与终端 CLI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "bigfish1913/pi-rust 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 110 --> 139
-    line [112, 118, 129, 137]
+    title "bigfish1913/pi-rust 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 109 --> 147
+    line [112, 118, 129, 137, 144]
 ```
 
-2026-10-18 112 → 2026-10-23 137（+25）
+2026-10-18 112 → 2026-10-24 144（+32）
 
 
 ---

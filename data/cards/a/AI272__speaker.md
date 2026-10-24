@@ -1,6 +1,6 @@
 # AI272/speaker
 
-⭐ 467 · Python · 推送 2026-06-23 · [GitHub](https://github.com/AI272/speaker) · 个人维护 · 中文 README
+⭐ 468 · Python · 推送 2026-06-23 · [GitHub](https://github.com/AI272/speaker) · 个人维护 · 中文 README
 
 **面向学术演讲的 Codex/Claude Code 技能：从真实 PPTX 生成逐页讲稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AI272/speaker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 460 --> 468
-    line [461, 465, 466, 467]
+    title "AI272/speaker 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 460 --> 469
+    line [461, 465, 466, 467, 468]
 ```
 
-2026-10-18 461 → 2026-10-23 467（+6）
+2026-10-18 461 → 2026-10-24 468（+7）
 
 
 ---

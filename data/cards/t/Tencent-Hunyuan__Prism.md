@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Prism
 
-⭐ 682 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Tencent-Hunyuan/Prism) · [官网](https://francis-rings.github.io/Prism) · 组织维护 · 中文 README
+⭐ 835 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Tencent-Hunyuan/Prism) · [官网](https://francis-rings.github.io/Prism) · 组织维护 · 中文 README
 
 **面向研究者的动态稀疏注意力联合视频-音频生成训练框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Prism 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 499 --> 698
-    line [515, 596, 665, 682]
+    title "Tencent-Hunyuan/Prism 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 483 --> 867
+    line [515, 596, 665, 682, 835]
 ```
 
-2026-10-18 515 → 2026-10-23 682（+167）
+2026-10-18 515 → 2026-10-24 835（+320）
 
 
 ---

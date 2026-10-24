@@ -1,6 +1,6 @@
 # onyx-dot-app/onyx
 
-⭐ 32,849 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/onyx-dot-app/onyx) · [官网](https://onyx.app) · 组织维护
+⭐ 32,921 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/onyx-dot-app/onyx) · [官网](https://onyx.app) · 组织维护
 
 **给团队接入内部知识的企业 AI 聊天与 RAG 平台**
 
@@ -51,13 +51,13 @@ Onyx 是面向团队与企业的知识/上下文平台：连接 50+ 应用索引
 
 ```mermaid
 xychart-beta
-    title "onyx-dot-app/onyx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 32513 --> 32879
-    line [32543, 32592, 32665, 32849]
+    title "onyx-dot-app/onyx 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 32506 --> 32958
+    line [32543, 32592, 32665, 32849, 32921]
 ```
 
-2026-10-18 32,543 → 2026-10-23 32,849（+306）
+2026-10-18 32,543 → 2026-10-24 32,921（+378）
 
 
 ---

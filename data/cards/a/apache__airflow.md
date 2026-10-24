@@ -1,6 +1,6 @@
 # apache/airflow
 
-⭐ 47,257 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/airflow) · [官网](https://airflow.apache.org/) · 组织维护
+⭐ 47,269 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/apache/airflow) · [官网](https://airflow.apache.org/) · 组织维护
 
 **数据与 AI 工作流的编排平台：用代码编写、调度和监控**
 
@@ -52,13 +52,13 @@ Apache 软件基金会的工作流编排平台，以代码定义工作流（Dag�
 
 ```mermaid
 xychart-beta
-    title "apache/airflow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 47191 --> 47263
-    line [47197, 47221, 47242, 47257]
+    title "apache/airflow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 47190 --> 47276
+    line [47197, 47221, 47242, 47257, 47269]
 ```
 
-2026-10-18 47,197 → 2026-10-23 47,257（+60）
+2026-10-18 47,197 → 2026-10-24 47,269（+72）
 
 
 ---

@@ -1,6 +1,6 @@
 # dentalpin/dentalpin
 
-⭐ 99 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dentalpin/dentalpin) · [官网](https://www.dentalpin.com) · 组织维护
+⭐ 100 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/dentalpin/dentalpin) · [官网](https://www.dentalpin.com) · 组织维护
 
 **面向牙科诊所的开源可自托管管理系统，内置 AI Copilot**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dentalpin/dentalpin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 95 --> 100
-    line [96, 98, 99]
+    title "dentalpin/dentalpin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 95 --> 101
+    line [96, 98, 99, 100]
 ```
 
-2026-10-18 96 → 2026-10-23 99（+3）
+2026-10-18 96 → 2026-10-24 100（+4）
 
 
 ---

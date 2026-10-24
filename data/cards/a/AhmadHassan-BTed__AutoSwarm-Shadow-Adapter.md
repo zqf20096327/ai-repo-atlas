@@ -1,6 +1,6 @@
 # AhmadHassan-BTed/AutoSwarm-Shadow-Adapter
 
-⭐ 2,721 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AhmadHassan-BTed/AutoSwarm-Shadow-Adapter) · [官网](https://pypi.org/project/AutoSwarm-shadow-adapter/) · 个人维护
+⭐ 2,983 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AhmadHassan-BTed/AutoSwarm-Shadow-Adapter) · [官网](https://pypi.org/project/AutoSwarm-shadow-adapter/) · 个人维护
 
 **为 AutoSwarm 提供 HITL 与远程算力接入的非侵入适配器**
 
@@ -39,6 +39,18 @@
 
 > L21: `AutoSwarm-shadow-adapter` is a high-concurrency **Temporal Bridge** for AutoSwarm. It allows AutoSwarm agentic DAG
 > L27: 5. **Symbiotic Architecture**: Functions as an independent, non-invasive extension that plugs into AutoSwarm's exte
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AhmadHassan-BTed/AutoSwarm-Shadow-Adapter 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 2695 --> 3009
+    line [2721, 2983]
+```
+
+2026-10-23 2,721 → 2026-10-24 2,983（+262）
 
 
 ---

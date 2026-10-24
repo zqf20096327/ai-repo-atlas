@@ -1,6 +1,6 @@
 # PrefectHQ/marvin
 
-⭐ 6,208 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/PrefectHQ/marvin) · [官网](https://marvin.mintlify.app) · 组织维护
+⭐ 6,209 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/PrefectHQ/marvin) · [官网](https://marvin.mintlify.app) · 组织维护
 
 **构建 AI agent 工作流与结构化输出的 Python 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PrefectHQ/marvin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6205 --> 6209
-    line [6206, 6207, 6208]
+    title "PrefectHQ/marvin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6205 --> 6210
+    line [6206, 6207, 6208, 6209]
 ```
 
-2026-10-18 6,206 → 2026-10-23 6,208（+2）
+2026-10-18 6,206 → 2026-10-24 6,209（+3）
 
 
 ---

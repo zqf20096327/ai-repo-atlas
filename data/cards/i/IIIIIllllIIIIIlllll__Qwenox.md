@@ -1,6 +1,6 @@
 # IIIIIllllIIIIIlllll/Qwenox
 
-⭐ 107 · C++ · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/IIIIIllllIIIIIlllll/Qwenox) · 个人维护 · 中文 README
+⭐ 111 · C++ · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/IIIIIllllIIIIIlllll/Qwenox) · 个人维护 · 中文 README
 
 **在 AMD Strix Halo 128GB APU 上本地运行 Qwen3.8-Flash-Next 的推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IIIIIllllIIIIIlllll/Qwenox 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 97 --> 108
-    line [98, 103, 107]
+    title "IIIIIllllIIIIIlllll/Qwenox 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 97 --> 112
+    line [98, 103, 107, 111]
 ```
 
-2026-10-19 98 → 2026-10-23 107（+9）
+2026-10-19 98 → 2026-10-24 111（+13）
 
 
 ---

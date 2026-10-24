@@ -1,6 +1,6 @@
 # AbdelStark/awesome-typesafe-jev
 
-⭐ 600 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AbdelStark/awesome-typesafe-jev) · [官网](https://abdelstark.github.io/awesome-typesafe-jev/) · 个人维护
+⭐ 603 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AbdelStark/awesome-typesafe-jev) · [官网](https://abdelstark.github.io/awesome-typesafe-jev/) · 个人维护
 
 **TypeSafe Jev 模型的社区策展指南：接入路径与独立评测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbdelStark/awesome-typesafe-jev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 594 --> 601
-    line [595, 597, 599, 600]
+    title "AbdelStark/awesome-typesafe-jev 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 594 --> 604
+    line [595, 597, 599, 600, 603]
 ```
 
-2026-10-18 595 → 2026-10-23 600（+5）
+2026-10-18 595 → 2026-10-24 603（+8）
 
 
 ---

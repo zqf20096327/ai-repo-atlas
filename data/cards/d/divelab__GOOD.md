@@ -45,12 +45,12 @@ NeurIPS 2022 Datasets and Benchmarks Track 收录的图分布外基准库，基�
 ```mermaid
 xychart-beta
     title "divelab/GOOD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 211 --> 213
     line [212, 212]
 ```
 
-2026-10-18 212 → 2026-10-23 212（+0）
+2026-10-18 212 → 2026-10-24 212（+0）
 
 
 ---

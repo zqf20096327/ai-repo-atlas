@@ -46,13 +46,13 @@ NextGenAI 是一个学生主导、导师支持的非营利国际组织，面向�
 
 ```mermaid
 xychart-beta
-    title "aaryansamanta/nextgen-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "aaryansamanta/nextgen-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 490 --> 493
-    line [492, 491]
+    line [492, 491, 491]
 ```
 
-2026-10-18 492 → 2026-10-23 491（-1）
+2026-10-18 492 → 2026-10-24 491（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # comedy1024/hermes-agent-desktop
 
-⭐ 13 · HTML · 推送 2026-10-22 · [GitHub](https://github.com/comedy1024/hermes-agent-desktop) · 个人维护 · 中文 README
+⭐ 13 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/comedy1024/hermes-agent-desktop) · 个人维护 · 中文 README
 
 **将 Hermes Agent 与 WebUI 打包进浏览器可访问的 Linux KDE 桌面 Docker 镜像**
 
@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "comedy1024/hermes-agent-desktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-18 13 → 2026-10-23 13（+0）
+2026-10-18 13 → 2026-10-24 13（+0）
 
 
 ---

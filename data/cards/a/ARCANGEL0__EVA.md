@@ -1,6 +1,6 @@
 # ARCANGEL0/EVA
 
-⭐ 534 · Python · 推送 2026-06-16 · [GitHub](https://github.com/ARCANGEL0/EVA) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向渗透测试人员的 AI 攻击引导 agent（CLI）**
 

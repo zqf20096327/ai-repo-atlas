@@ -1,6 +1,6 @@
 # samuelfaj/distill
 
-⭐ 758 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/samuelfaj/distill) · 个人维护
+⭐ 762 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/samuelfaj/distill) · 个人维护
 
 **省 token 的编码 agent 运行框架与 TUI，支持多模型订阅**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "samuelfaj/distill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 717 --> 761
-    line [720, 733, 758]
+    title "samuelfaj/distill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 716 --> 766
+    line [720, 733, 758, 762]
 ```
 
-2026-10-18 720 → 2026-10-23 758（+38）
+2026-10-18 720 → 2026-10-24 762（+42）
 
 
 ---

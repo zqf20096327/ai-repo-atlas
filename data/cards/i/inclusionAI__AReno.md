@@ -1,6 +1,6 @@
 # inclusionAI/AReno
 
-⭐ 359 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/inclusionAI/AReno) · 组织维护 · 中文 README
+⭐ 379 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/inclusionAI/AReno) · 组织维护 · 中文 README
 
 **单节点本地 LLM 强化学习后训练工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "inclusionAI/AReno 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 323 --> 362
-    line [326, 327, 353, 359]
+    title "inclusionAI/AReno 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 321 --> 384
+    line [326, 327, 353, 359, 379]
 ```
 
-2026-10-18 326 → 2026-10-23 359（+33）
+2026-10-18 326 → 2026-10-24 379（+53）
 
 
 ---

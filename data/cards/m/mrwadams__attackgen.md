@@ -1,6 +1,6 @@
 # mrwadams/attackgen
 
-⭐ 1,256 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/mrwadams/attackgen) · 个人维护
+⭐ 1,255 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/mrwadams/attackgen) · 个人维护
 
 **用 LLM 生成网络安全事件响应演练场景的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrwadams/attackgen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "mrwadams/attackgen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1254 --> 1257
-    line [1255, 1256]
+    line [1255, 1256, 1255]
 ```
 
-2026-10-18 1,255 → 2026-10-23 1,256（+1）
+2026-10-18 1,255 → 2026-10-24 1,255（+0）
 
 
 ---

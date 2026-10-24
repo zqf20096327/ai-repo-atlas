@@ -1,6 +1,6 @@
 # vercel/chat
 
-⭐ 2,419 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/vercel/chat) · [官网](https://chat-sdk.dev/) · 组织维护
+⭐ 2,420 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vercel/chat) · [官网](https://chat-sdk.dev/) · 组织维护
 
 **统一 TypeScript SDK：一套代码构建多平台聊天机器人与 agent**
 
@@ -44,13 +44,13 @@ Vercel 维护的 MIT 许可 TypeScript SDK，将 Slack、Teams、Google Chat、D
 
 ```mermaid
 xychart-beta
-    title "vercel/chat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2408 --> 2420
-    line [2409, 2413, 2415, 2419]
+    title "vercel/chat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2408 --> 2421
+    line [2409, 2413, 2415, 2419, 2420]
 ```
 
-2026-10-18 2,409 → 2026-10-23 2,419（+10）
+2026-10-18 2,409 → 2026-10-24 2,420（+11）
 
 
 ---

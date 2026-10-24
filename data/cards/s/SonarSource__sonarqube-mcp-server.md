@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-mcp-server
 
-⭐ 669 · Java · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/SonarSource/sonarqube-mcp-server) · [官网](https://www.sonarsource.com/products/sonarqube/mcp-server/) · 组织维护
+⭐ 670 · Java · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/SonarSource/sonarqube-mcp-server) · [官网](https://www.sonarsource.com/products/sonarqube/mcp-server/) · 组织维护
 
 **官方 SonarQube MCP 服务器：让 AI agent 接入代码质量与安全分析**
 
@@ -44,13 +44,13 @@ SonarSource 官方维护的 Model Context Protocol 服务器，使 Claude Code�
 
 ```mermaid
 xychart-beta
-    title "SonarSource/sonarqube-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 664 --> 670
-    line [665, 667, 669]
+    title "SonarSource/sonarqube-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 664 --> 671
+    line [665, 667, 669, 670]
 ```
 
-2026-10-18 665 → 2026-10-23 669（+4）
+2026-10-18 665 → 2026-10-24 670（+5）
 
 
 ---

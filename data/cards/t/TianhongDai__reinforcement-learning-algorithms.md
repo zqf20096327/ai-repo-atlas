@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TianhongDai/reinforcement-learning-algorithms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 697 --> 699
     line [698, 698]
 ```
 
-2026-10-18 698 → 2026-10-23 698（+0）
+2026-10-18 698 → 2026-10-24 698（+0）
 
 
 ---

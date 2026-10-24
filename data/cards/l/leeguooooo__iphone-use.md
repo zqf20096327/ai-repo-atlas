@@ -1,6 +1,6 @@
 # leeguooooo/iphone-use
 
-⭐ 333 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/leeguooooo/iphone-use) · [官网](https://blog.leeguoo.com/en/posts/iphone-use/) · 个人维护 · 中文 README
+⭐ 337 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/leeguooooo/iphone-use) · [官网](https://blog.leeguoo.com/en/posts/iphone-use/) · 个人维护 · 中文 README
 
 **让 AI agent 操作真实 iPhone 的 MCP 工具：读屏、点击、输入、滑动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leeguooooo/iphone-use 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 288 --> 337
-    line [292, 310, 323, 333]
+    title "leeguooooo/iphone-use 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 288 --> 341
+    line [292, 310, 323, 333, 337]
 ```
 
-2026-10-18 292 → 2026-10-23 333（+41）
+2026-10-18 292 → 2026-10-24 337（+45）
 
 
 ---

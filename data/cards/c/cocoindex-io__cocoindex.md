@@ -1,6 +1,6 @@
 # cocoindex-io/cocoindex
 
-⭐ 11,740 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/cocoindex-io/cocoindex) · [官网](https://cocoindex.io) · 组织维护 · 中文 README
+⭐ 11,745 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/cocoindex-io/cocoindex) · [官网](https://cocoindex.io) · 组织维护 · 中文 README
 
 **面向 AI agent 的增量数据索引/RAG 流水线 Python 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cocoindex-io/cocoindex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11710 --> 11742
-    line [11712, 11726, 11734, 11740]
+    title "cocoindex-io/cocoindex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11709 --> 11748
+    line [11712, 11726, 11734, 11740, 11745]
 ```
 
-2026-10-18 11,712 → 2026-10-23 11,740（+28）
+2026-10-18 11,712 → 2026-10-24 11,745（+33）
 
 
 ---

@@ -1,6 +1,6 @@
 # pyro-ppl/funsor
 
-⭐ 250 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/pyro-ppl/funsor) · [官网](https://funsor.pyro.ai) · 组织维护
+⭐ 251 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/pyro-ppl/funsor) · [官网](https://funsor.pyro.ai) · 组织维护
 
 **面向概率编程的函数式张量库，支撑 Pyro 延迟推断**
 
@@ -45,12 +45,12 @@ Funsor 是一个把张量接口推广到任意多元函数与概率分布的库�
 ```mermaid
 xychart-beta
     title "pyro-ppl/funsor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 249 --> 251
-    line [250, 250]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 249 --> 252
+    line [250, 251]
 ```
 
-2026-10-18 250 → 2026-10-23 250（+0）
+2026-10-18 250 → 2026-10-24 251（+1）
 
 
 ---

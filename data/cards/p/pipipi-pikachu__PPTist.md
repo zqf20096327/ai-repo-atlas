@@ -1,6 +1,6 @@
 # pipipi-pikachu/PPTist
 
-⭐ 9,407 · Vue · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/pipipi-pikachu/PPTist) · [官网](https://pipipi-pikachu.github.io/PPTist/) · 个人维护 · 中文 README
+⭐ 9,415 · Vue · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/pipipi-pikachu/PPTist) · [官网](https://pipipi-pikachu.github.io/PPTist/) · 个人维护 · 中文 README
 
 **面向 Web 开发者的在线 PPT 编辑与演示应用，支持 AIPPT 生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pipipi-pikachu/PPTist 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 9402 --> 9410
-    line [9403, 9409, 9407, 9407]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 9402 --> 9416
+    line [9403, 9409, 9407, 9415]
 ```
 
-2026-10-18 9,403 → 2026-10-23 9,407（+4）
+2026-10-18 9,403 → 2026-10-24 9,415（+12）
 
 
 ---

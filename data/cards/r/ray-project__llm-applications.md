@@ -44,13 +44,13 @@ Ray 项目维护的教学仓库：通过交互式 notebook（rag.ipynb）从零�
 
 ```mermaid
 xychart-beta
-    title "ray-project/llm-applications 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "ray-project/llm-applications 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1861 --> 1864
-    line [1862, 1863]
+    line [1862, 1863, 1863]
 ```
 
-2026-10-18 1,862 → 2026-10-23 1,863（+1）
+2026-10-18 1,862 → 2026-10-24 1,863（+1）
 
 
 ---

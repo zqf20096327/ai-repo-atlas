@@ -1,6 +1,6 @@
 # UfoMiao/zcf
 
-⭐ 6,079 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/UfoMiao/zcf) · [官网](http://zcf.ufomiao.com/) · 个人维护 · 中文 README
+⭐ 6,078 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/UfoMiao/zcf) · [官网](http://zcf.ufomiao.com/) · 个人维护 · 中文 README
 
 **为开发者零配置初始化 Claude Code 与 Codex 的 CLI 工具**
 
@@ -43,13 +43,13 @@ ZCF（Zero-Config Code Flow）是 npm 分发的命令行工具，面向使用 Cl
 
 ```mermaid
 xychart-beta
-    title "UfoMiao/zcf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 6078 --> 6082
-    line [6081, 6079]
+    title "UfoMiao/zcf 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6077 --> 6082
+    line [6081, 6079, 6078]
 ```
 
-2026-10-18 6,081 → 2026-10-23 6,079（-2）
+2026-10-18 6,081 → 2026-10-24 6,078（-3）
 
 
 ---

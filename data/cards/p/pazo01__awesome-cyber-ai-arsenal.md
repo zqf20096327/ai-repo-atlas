@@ -1,6 +1,6 @@
 # pazo01/awesome-cyber-ai-arsenal
 
-⭐ 181 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/pazo01/awesome-cyber-ai-arsenal) · 个人维护
+⭐ 182 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/pazo01/awesome-cyber-ai-arsenal) · 个人维护
 
 **网络安全与 AI/LLM 安全工具策展清单，供攻防选型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pazo01/awesome-cyber-ai-arsenal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 176 --> 182
-    line [177, 179, 180, 181]
+    title "pazo01/awesome-cyber-ai-arsenal 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 176 --> 183
+    line [177, 179, 180, 181, 182]
 ```
 
-2026-10-18 177 → 2026-10-23 181（+4）
+2026-10-18 177 → 2026-10-24 182（+5）
 
 
 ---

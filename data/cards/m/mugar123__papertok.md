@@ -1,6 +1,6 @@
 # mugar123/papertok
 
-⭐ 101 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mugar123/papertok) · [官网](https://papertok.app) · 个人维护
+⭐ 104 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mugar123/papertok) · [官网](https://papertok.app) · 个人维护
 
 **可滑动的个性化科学论文发现与阅读信息流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mugar123/papertok 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 29 --> 107
-    line [35, 36, 37, 101]
+    title "mugar123/papertok 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 29 --> 110
+    line [35, 36, 37, 101, 104]
 ```
 
-2026-10-18 35 → 2026-10-23 101（+66）
+2026-10-18 35 → 2026-10-24 104（+69）
 
 
 ---

@@ -1,6 +1,6 @@
 # apache/flink-agents
 
-⭐ 474 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/flink-agents) · [官网](https://nightlies.apache.org/flink/flink-agents-docs-main/) · 组织维护
+⭐ 475 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/apache/flink-agents) · [官网](https://nightlies.apache.org/flink/flink-agents-docs-main/) · 组织维护
 
 **基于 Apache Flink 的 Agentic AI 框架，供分布式场景构建多 agent**
 
@@ -43,12 +43,12 @@ Apache 基金会孵化项目，在 Apache Flink 之上提供构建 Agentic AI �
 ```mermaid
 xychart-beta
     title "apache/flink-agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 469 --> 475
-    line [470, 473, 474, 474]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 469 --> 476
+    line [470, 473, 474, 475]
 ```
 
-2026-10-18 470 → 2026-10-23 474（+4）
+2026-10-18 470 → 2026-10-24 475（+5）
 
 
 ---

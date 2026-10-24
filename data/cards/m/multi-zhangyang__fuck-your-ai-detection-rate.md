@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "multi-zhangyang/fuck-your-ai-detection-rate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "multi-zhangyang/fuck-your-ai-detection-rate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 113 --> 116
-    line [114, 115]
+    line [114, 115, 115]
 ```
 
-2026-10-18 114 → 2026-10-23 115（+1）
+2026-10-18 114 → 2026-10-24 115（+1）
 
 
 ---

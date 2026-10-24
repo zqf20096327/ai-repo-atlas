@@ -1,6 +1,6 @@
 # EthanYoQ/AI-Novel-Writer
 
-⭐ 1,725 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/EthanYoQ/AI-Novel-Writer) · [官网](https://github.com/EthanYoQ/AI-Novel-Writer/releases/latest) · 个人维护 · 中文 README
+⭐ 1,747 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/EthanYoQ/AI-Novel-Writer) · [官网](https://github.com/EthanYoQ/AI-Novel-Writer/releases/latest) · 个人维护 · 中文 README
 
 **面向长篇小说与网文连载的 AI 写作桌面软件**
 
@@ -46,13 +46,13 @@ Electron 桌面应用「书童 Pagekin」（原 AI 小说作家），按设定�
 
 ```mermaid
 xychart-beta
-    title "EthanYoQ/AI-Novel-Writer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1576 --> 1738
-    line [1589, 1647, 1710, 1725]
+    title "EthanYoQ/AI-Novel-Writer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1574 --> 1762
+    line [1589, 1647, 1710, 1725, 1747]
 ```
 
-2026-10-18 1,589 → 2026-10-23 1,725（+136）
+2026-10-18 1,589 → 2026-10-24 1,747（+158）
 
 
 ---

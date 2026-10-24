@@ -1,6 +1,6 @@
 # qdrant/qdrant-js
 
-⭐ 467 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/qdrant-js) · [官网](https://qdrant.tech) · 组织维护
+⭐ 469 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/qdrant-js) · [官网](https://qdrant.tech) · 组织维护
 
 **Qdrant 向量数据库的 JavaScript/TypeScript SDK**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "qdrant/qdrant-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 465 --> 468
-    line [466, 467]
+    title "qdrant/qdrant-js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 465 --> 470
+    line [466, 467, 469]
 ```
 
-2026-10-18 466 → 2026-10-23 467（+1）
+2026-10-18 466 → 2026-10-24 469（+3）
 
 
 ---

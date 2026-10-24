@@ -1,6 +1,6 @@
 # JuneYaooo/social-account-doctor
 
-⭐ 310 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/JuneYaooo/social-account-doctor) · 个人维护 · 中文 README
+⭐ 311 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/JuneYaooo/social-account-doctor) · 个人维护 · 中文 README
 
 **给自媒体运营者的账号体检与爆款拆解 agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuneYaooo/social-account-doctor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 302 --> 311
-    line [303, 306, 308, 310]
+    title "JuneYaooo/social-account-doctor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 302 --> 312
+    line [303, 306, 308, 310, 311]
 ```
 
-2026-10-18 303 → 2026-10-23 310（+7）
+2026-10-18 303 → 2026-10-24 311（+8）
 
 
 ---

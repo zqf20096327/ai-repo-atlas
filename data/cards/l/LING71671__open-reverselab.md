@@ -1,6 +1,6 @@
 # LING71671/open-reverselab
 
-⭐ 1,294 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/LING71671/open-reverselab) · 个人维护 · 中文 README
+⭐ 1,298 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/LING71671/open-reverselab) · 个人维护 · 中文 README
 
 **面向逆向工程的可运行知识库与 MCP 工具平台（100+ 工具）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LING71671/open-reverselab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1271 --> 1296
-    line [1273, 1281, 1290, 1294]
+    title "LING71671/open-reverselab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1271 --> 1300
+    line [1273, 1281, 1290, 1294, 1298]
 ```
 
-2026-10-18 1,273 → 2026-10-23 1,294（+21）
+2026-10-18 1,273 → 2026-10-24 1,298（+25）
 
 
 ---

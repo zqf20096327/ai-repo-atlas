@@ -1,6 +1,6 @@
 # mindspore-ai/hyper-parallel
 
-⭐ 103 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mindspore-ai/hyper-parallel) · 组织维护 · 中文 README
+⭐ 104 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mindspore-ai/hyper-parallel) · 组织维护 · 中文 README
 
 **面向昇腾超节点的分布式并行训练框架，服务大模型训练**
 
@@ -45,13 +45,13 @@ HyperParallel 是面向昇腾（Ascend）超节点的分布式并行加速能力
 
 ```mermaid
 xychart-beta
-    title "mindspore-ai/hyper-parallel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 78 --> 105
-    line [80, 101, 103]
+    title "mindspore-ai/hyper-parallel 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 78 --> 106
+    line [80, 101, 103, 104]
 ```
 
-2026-10-18 80 → 2026-10-23 103（+23）
+2026-10-18 80 → 2026-10-24 104（+24）
 
 
 ---

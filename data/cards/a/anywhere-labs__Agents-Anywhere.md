@@ -1,6 +1,6 @@
 # anywhere-labs/Agents-Anywhere
 
-⭐ 2,025 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/anywhere-labs/Agents-Anywhere) · [官网](https://agents-anywhere.com) · 组织维护 · 中文 README
+⭐ 2,083 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/anywhere-labs/Agents-Anywhere) · [官网](https://agents-anywhere.com) · 组织维护 · 中文 README
 
 **跨设备管理 AI Agent（Codex/Claude Code/DSH）的开源工作台**
 
@@ -44,13 +44,13 @@ Agents Anywhere 是跨设备的开源 Agent 工作台：在工作设备上安装
 
 ```mermaid
 xychart-beta
-    title "anywhere-labs/Agents-Anywhere 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1700 --> 2054
-    line [1729, 1887, 2025]
+    title "anywhere-labs/Agents-Anywhere 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1694 --> 2118
+    line [1729, 1887, 2025, 2083]
 ```
 
-2026-10-18 1,729 → 2026-10-23 2,025（+296）
+2026-10-18 1,729 → 2026-10-24 2,083（+354）
 
 
 ---

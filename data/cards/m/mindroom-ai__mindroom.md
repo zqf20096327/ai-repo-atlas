@@ -1,6 +1,6 @@
 # mindroom-ai/mindroom
 
-⭐ 345 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mindroom-ai/mindroom) · [官网](https://mindroom.chat) · 组织维护
+⭐ 346 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mindroom-ai/mindroom) · [官网](https://mindroom.chat) · 组织维护
 
 **自托管个人/团队 AI agent 平台，Matrix 聊天应用承载**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mindroom-ai/mindroom 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 335 --> 346
-    line [336, 343, 344, 345]
+    title "mindroom-ai/mindroom 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 335 --> 347
+    line [336, 343, 344, 345, 346]
 ```
 
-2026-10-18 336 → 2026-10-23 345（+9）
+2026-10-18 336 → 2026-10-24 346（+10）
 
 
 ---

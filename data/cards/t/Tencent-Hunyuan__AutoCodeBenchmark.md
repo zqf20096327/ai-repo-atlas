@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/AutoCodeBenchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Tencent-Hunyuan/AutoCodeBenchmark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 435 --> 438
-    line [437, 436]
+    line [437, 436, 436]
 ```
 
-2026-10-18 437 → 2026-10-23 436（-1）
+2026-10-18 437 → 2026-10-24 436（-1）
 
 
 ---

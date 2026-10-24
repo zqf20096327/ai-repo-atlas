@@ -1,6 +1,6 @@
 # cloudflare/agents-starter
 
-⭐ 1,346 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/cloudflare/agents-starter) · [官网](https://github.com/cloudflare/agents/) · 组织维护
+⭐ 1,345 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/cloudflare/agents-starter) · [官网](https://github.com/cloudflare/agents/) · 组织维护
 
 **在 Cloudflare 上构建 AI 对话 agent 的起步模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cloudflare/agents-starter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "cloudflare/agents-starter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1343 --> 1347
-    line [1344, 1345, 1346]
+    line [1344, 1345, 1346, 1345]
 ```
 
-2026-10-18 1,344 → 2026-10-23 1,346（+2）
+2026-10-18 1,344 → 2026-10-24 1,345（+1）
 
 
 ---

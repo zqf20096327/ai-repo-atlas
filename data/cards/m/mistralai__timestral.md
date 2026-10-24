@@ -1,6 +1,6 @@
 # mistralai/timestral
 
-⭐ 752 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/mistralai/timestral) · 组织维护
+⭐ 800 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/mistralai/timestral) · 组织维护
 
 **面向开发者的多变量概率时序预测基础模型及推理库**
 
@@ -44,13 +44,13 @@ Mistral AI 发布的时序基础模型家族 Timestral 的官方推理仓库，�
 
 ```mermaid
 xychart-beta
-    title "mistralai/timestral 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 209 --> 801
-    line [258, 535, 705, 752]
+    title "mistralai/timestral 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 204 --> 854
+    line [258, 535, 705, 752, 800]
 ```
 
-2026-10-18 258 → 2026-10-23 752（+494）
+2026-10-18 258 → 2026-10-24 800（+542）
 
 
 ---

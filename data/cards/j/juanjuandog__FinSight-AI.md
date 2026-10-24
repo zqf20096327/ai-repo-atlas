@@ -1,6 +1,6 @@
 # juanjuandog/FinSight-AI
 
-⭐ 555 · Java · MIT · 推送 2026-09-02 · [GitHub](https://github.com/juanjuandog/FinSight-AI) · 个人维护 · 中文 README
+⭐ 554 · Java · MIT · 推送 2026-09-02 · [GitHub](https://github.com/juanjuandog/FinSight-AI) · 个人维护 · 中文 README
 
 **A股公司研究的开源工作台：可恢复工作流与证据可溯 RAG 报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "juanjuandog/FinSight-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 554 --> 561
-    line [558, 559, 560, 555]
+    title "juanjuandog/FinSight-AI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 553 --> 561
+    line [558, 559, 560, 555, 554]
 ```
 
-2026-10-18 558 → 2026-10-23 555（-3）
+2026-10-18 558 → 2026-10-24 554（-4）
 
 
 ---

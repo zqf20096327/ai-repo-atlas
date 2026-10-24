@@ -1,6 +1,6 @@
 # jorshali/developers-guide-to-ai
 
-⭐ 104 · Python · 推送 2026-09-10 · [GitHub](https://github.com/jorshali/developers-guide-to-ai) · [官网](https://developersguide.ai) · 个人维护
+⭐ 107 · Python · 推送 2026-09-10 · [GitHub](https://github.com/jorshali/developers-guide-to-ai) · [官网](https://developersguide.ai) · 个人维护
 
 **AI 开发实战书籍《The Developer's Guide to AI》配套示例代码仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jorshali/developers-guide-to-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 102 --> 105
-    line [103, 104, 104]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 102 --> 108
+    line [103, 104, 107]
 ```
 
-2026-10-18 103 → 2026-10-23 104（+1）
+2026-10-18 103 → 2026-10-24 107（+4）
 
 
 ---

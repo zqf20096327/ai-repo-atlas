@@ -1,6 +1,6 @@
 # stephenlzc/AI-Powered-Literature-Review-Skills
 
-⭐ 200 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills) · 个人维护 · 中文 README
+⭐ 206 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills) · 个人维护 · 中文 README
 
 **面向科研用户的系统性文献综述 Skill：8阶段工作流自动检索与撰写综述**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stephenlzc/AI-Powered-Literature-Review-Skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 188 --> 201
-    line [189, 192, 198, 200]
+    title "stephenlzc/AI-Powered-Literature-Review-Skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 188 --> 207
+    line [189, 192, 198, 200, 206]
 ```
 
-2026-10-18 189 → 2026-10-23 200（+11）
+2026-10-18 189 → 2026-10-24 206（+17）
 
 
 ---

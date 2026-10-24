@@ -1,6 +1,6 @@
 # Tiiny-AI/PowerInfer
 
-⭐ 9,846 · C++ · MIT · 推送 2026-05-11 · [GitHub](https://github.com/Tiiny-AI/PowerInfer) · 组织维护 · 中文 README
+⭐ 9,847 · C++ · MIT · 推送 2026-05-11 · [GitHub](https://github.com/Tiiny-AI/PowerInfer) · 组织维护 · 中文 README
 
 **消费级单 GPU 上的本地 LLM 高速推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tiiny-AI/PowerInfer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 9833 --> 9847
-    line [9834, 9840, 9846]
+    title "Tiiny-AI/PowerInfer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9833 --> 9848
+    line [9834, 9840, 9846, 9847]
 ```
 
-2026-10-18 9,834 → 2026-10-23 9,846（+12）
+2026-10-18 9,834 → 2026-10-24 9,847（+13）
 
 
 ---

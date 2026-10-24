@@ -1,6 +1,6 @@
 # xop01/ai_goodpractice
 
-⭐ 629 · 推送 2026-10-02 · [GitHub](https://github.com/xop01/ai_goodpractice) · 个人维护
+⭐ 671 · 推送 2026-10-02 · [GitHub](https://github.com/xop01/ai_goodpractice) · 个人维护
 
 **手写 AI 编码工作流经验指南：教人用 agentic 方式开发**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xop01/ai_goodpractice 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 363 --> 653
-    line [387, 488, 576, 629]
+    title "xop01/ai_goodpractice 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 359 --> 699
+    line [387, 488, 576, 629, 671]
 ```
 
-2026-10-18 387 → 2026-10-23 629（+242）
+2026-10-18 387 → 2026-10-24 671（+284）
 
 
 ---

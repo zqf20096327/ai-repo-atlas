@@ -1,6 +1,6 @@
 # CAREamics/careamics
 
-⭐ 156 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/CAREamics/careamics) · [官网](https://careamics.github.io/) · 组织维护
+⭐ 157 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/CAREamics/careamics) · [官网](https://careamics.github.io/) · 组织维护
 
 **面向显微图像去噪的 PyTorch 深度学习库：统一 Noise2Void 及变体**
 
@@ -45,12 +45,12 @@ CAREamics 是一个 PyTorch 库，将 Noise2Void 及其变体和相关方法（C
 ```mermaid
 xychart-beta
     title "CAREamics/careamics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 153 --> 157
-    line [154, 156, 156]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 153 --> 158
+    line [154, 156, 157]
 ```
 
-2026-10-18 154 → 2026-10-23 156（+2）
+2026-10-18 154 → 2026-10-24 157（+3）
 
 
 ---

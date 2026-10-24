@@ -1,6 +1,6 @@
 # ggml-org/llama.cpp
 
-⭐ 132,032 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ggml-org/llama.cpp) · [官网](https://llama.app) · 组织维护
+⭐ 132,146 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ggml-org/llama.cpp) · [官网](https://llama.app) · 组织维护
 
 **让开发者在本地和云端多种硬件上运行 LLM/VLM 推理**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "ggml-org/llama.cpp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 131443 --> 132085
-    line [131496, 131715, 131913, 132032]
+    title "ggml-org/llama.cpp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 131431 --> 132211
+    line [131496, 131715, 131913, 132032, 132146]
 ```
 
-2026-10-18 131,496 → 2026-10-23 132,032（+536）
+2026-10-18 131,496 → 2026-10-24 132,146（+650）
 
 
 ---

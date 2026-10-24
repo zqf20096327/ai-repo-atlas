@@ -1,6 +1,6 @@
 # undreamai/LLMUnity
 
-⭐ 1,732 · C# · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/undreamai/LLMUnity) · [官网](https://undream.ai) · 组织维护
+⭐ 1,734 · C# · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/undreamai/LLMUnity) · [官网](https://undream.ai) · 组织维护
 
 **在 Unity 游戏中本地运行 LLM 驱动可对话 AI 角色的库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "undreamai/LLMUnity 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1721 --> 1733
-    line [1722, 1727, 1730, 1732]
+    title "undreamai/LLMUnity 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1721 --> 1735
+    line [1722, 1727, 1730, 1732, 1734]
 ```
 
-2026-10-18 1,722 → 2026-10-23 1,732（+10）
+2026-10-18 1,722 → 2026-10-24 1,734（+12）
 
 
 ---

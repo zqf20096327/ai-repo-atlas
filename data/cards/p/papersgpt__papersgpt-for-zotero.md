@@ -1,6 +1,6 @@
 # papersgpt/papersgpt-for-zotero
 
-⭐ 2,678 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/papersgpt/papersgpt-for-zotero) · [官网](https://www.papersgpt.com) · 组织维护
+⭐ 2,679 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/papersgpt/papersgpt-for-zotero) · [官网](https://www.papersgpt.com) · 组织维护
 
 **Zotero 的本地 AI 多文档问答插件，支持 MCP**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "papersgpt/papersgpt-for-zotero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2671 --> 2679
-    line [2672, 2674, 2677, 2678]
+    title "papersgpt/papersgpt-for-zotero 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2671 --> 2680
+    line [2672, 2674, 2677, 2678, 2679]
 ```
 
-2026-10-18 2,672 → 2026-10-23 2,678（+6）
+2026-10-18 2,672 → 2026-10-24 2,679（+7）
 
 
 ---

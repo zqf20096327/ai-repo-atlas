@@ -1,6 +1,6 @@
 # stratosphereips/StratosphereLinuxIPS
 
-⭐ 895 · Python · GPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/stratosphereips/StratosphereLinuxIPS) · 组织维护
+⭐ 896 · Python · GPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/stratosphereips/StratosphereLinuxIPS) · 组织维护
 
 **基于机器学习的行为式网络入侵检测/防御系统（IDS/IPS）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stratosphereips/StratosphereLinuxIPS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 893 --> 896
-    line [894, 895, 895]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 893 --> 897
+    line [894, 895, 896]
 ```
 
-2026-10-18 894 → 2026-10-23 895（+1）
+2026-10-18 894 → 2026-10-24 896（+2）
 
 
 ---

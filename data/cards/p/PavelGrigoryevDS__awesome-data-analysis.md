@@ -1,6 +1,6 @@
 # PavelGrigoryevDS/awesome-data-analysis
 
-⭐ 2,122 · CC0-1.0 · 推送 2026-08-09 · [GitHub](https://github.com/PavelGrigoryevDS/awesome-data-analysis) · [官网](https://pavelgrigoryevds.github.io/awesome-data-analysis/) · 个人维护
+⭐ 2,125 · CC0-1.0 · 推送 2026-08-09 · [GitHub](https://github.com/PavelGrigoryevDS/awesome-data-analysis) · [官网](https://pavelgrigoryevds.github.io/awesome-data-analysis/) · 个人维护
 
 **数据分析与数据科学资源策展清单（500+ 条，多分类）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PavelGrigoryevDS/awesome-data-analysis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2105 --> 2123
-    line [2106, 2112, 2118, 2122]
+    title "PavelGrigoryevDS/awesome-data-analysis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2105 --> 2126
+    line [2106, 2112, 2118, 2122, 2125]
 ```
 
-2026-10-18 2,106 → 2026-10-23 2,122（+16）
+2026-10-18 2,106 → 2026-10-24 2,125（+19）
 
 
 ---

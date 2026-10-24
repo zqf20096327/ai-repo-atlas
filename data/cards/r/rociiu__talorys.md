@@ -1,6 +1,6 @@
 # rociiu/talorys
 
-⭐ 1,371 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rociiu/talorys) · [官网](https://rociiu.github.io/talorys/) · 个人维护
+⭐ 1,375 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rociiu/talorys) · [官网](https://rociiu.github.io/talorys/) · 个人维护
 
 **部署在自己 Cloudflare 账号的单用户个人 AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rociiu/talorys 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1281 --> 1379
-    line [1289, 1339, 1363, 1371]
+    title "rociiu/talorys 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1281 --> 1383
+    line [1289, 1339, 1363, 1371, 1375]
 ```
 
-2026-10-18 1,289 → 2026-10-23 1,371（+82）
+2026-10-18 1,289 → 2026-10-24 1,375（+86）
 
 
 ---

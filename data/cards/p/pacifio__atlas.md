@@ -1,6 +1,6 @@
 # pacifio/atlas
 
-⭐ 9,597 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/pacifio/atlas) · [官网](https://www.tryatlas.cc/) · 组织维护
+⭐ 9,598 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pacifio/atlas) · [官网](https://www.tryatlas.cc/) · 组织维护
 
 **面向编码代理的源码控制桌面应用：追踪并查询各代理的改动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pacifio/atlas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "pacifio/atlas 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 9595 --> 9628
-    line [9613, 9622, 9626, 9597]
+    line [9613, 9622, 9626, 9597, 9598]
 ```
 
-2026-10-18 9,613 → 2026-10-23 9,597（-16）
+2026-10-18 9,613 → 2026-10-24 9,598（-15）
 
 
 ---

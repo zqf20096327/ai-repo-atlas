@@ -1,6 +1,6 @@
 # stair-lab/kg-gen
 
-⭐ 1,284 · Python · 推送 2026-03-24 · [GitHub](https://github.com/stair-lab/kg-gen) · [官网](https://kg-gen.org) · 组织维护
+⭐ 1,285 · Python · 推送 2026-03-24 · [GitHub](https://github.com/stair-lab/kg-gen) · [官网](https://kg-gen.org) · 组织维护
 
 **用 LLM 从任意文本抽取知识图谱的 Python 库**
 
@@ -44,13 +44,13 @@ kg-gen 是一个 Python 库，调用大语言模型从纯文本或对话消息�
 
 ```mermaid
 xychart-beta
-    title "stair-lab/kg-gen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "stair-lab/kg-gen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1283 --> 1288
-    line [1287, 1284]
+    line [1287, 1284, 1285]
 ```
 
-2026-10-18 1,287 → 2026-10-23 1,284（-3）
+2026-10-18 1,287 → 2026-10-24 1,285（-2）
 
 
 ---

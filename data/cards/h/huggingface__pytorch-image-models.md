@@ -1,6 +1,6 @@
 # huggingface/pytorch-image-models
 
-⭐ 37,233 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/huggingface/pytorch-image-models) · [官网](https://huggingface.co/docs/timm) · 个人维护
+⭐ 37,236 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/huggingface/pytorch-image-models) · [官网](https://huggingface.co/docs/timm) · 个人维护
 
 **为 PyTorch 开发者提供图像编码器/骨干网络集合与预训练权重**
 
@@ -50,13 +50,13 @@ timm 是一个 PyTorch 图像模型库，收录多种视觉骨干网络（ResNet
 
 ```mermaid
 xychart-beta
-    title "huggingface/pytorch-image-models 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 37224 --> 37234
-    line [37225, 37226, 37232, 37233]
+    title "huggingface/pytorch-image-models 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 37224 --> 37237
+    line [37225, 37226, 37232, 37233, 37236]
 ```
 
-2026-10-18 37,225 → 2026-10-23 37,233（+8）
+2026-10-18 37,225 → 2026-10-24 37,236（+11）
 
 
 ---

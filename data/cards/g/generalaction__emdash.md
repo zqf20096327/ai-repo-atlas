@@ -1,6 +1,6 @@
 # generalaction/emdash
 
-⭐ 6,055 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/generalaction/emdash) · [官网](https://emdash.com) · 组织维护
+⭐ 6,060 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/generalaction/emdash) · [官网](https://emdash.com) · 组织维护
 
 **并行运行多个 AI 编码代理的桌面开发环境**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "generalaction/emdash 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6013 --> 6058
-    line [6016, 6028, 6047, 6055]
+    title "generalaction/emdash 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6012 --> 6064
+    line [6016, 6028, 6047, 6055, 6060]
 ```
 
-2026-10-18 6,016 → 2026-10-23 6,055（+39）
+2026-10-18 6,016 → 2026-10-24 6,060（+44）
 
 
 ---

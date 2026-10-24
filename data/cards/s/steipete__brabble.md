@@ -1,6 +1,6 @@
 # steipete/brabble
 
-⭐ 171 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/steipete/brabble) · [官网](https://brabble.dev) · 个人维护
+⭐ 172 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/steipete/brabble) · [官网](https://brabble.dev) · 个人维护
 
 **macOS/Linux 本地常驻语音唤醒守护进程，转写后触发自定义命令**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "steipete/brabble 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "steipete/brabble 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 170 --> 173
-    line [172, 171]
+    line [172, 171, 172]
 ```
 
-2026-10-18 172 → 2026-10-23 171（-1）
+2026-10-18 172 → 2026-10-24 172（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # innermost47/ai-dj
 
-⭐ 258 · C++ · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/innermost47/ai-dj) · 个人维护
+⭐ 259 · C++ · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/innermost47/ai-dj) · 个人维护
 
 **现场演出用 AI 音乐循环生成插件（VST3/AU/独立版）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "innermost47/ai-dj 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 257 --> 259
-    line [258, 258]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 257 --> 260
+    line [258, 259]
 ```
 
-2026-10-18 258 → 2026-10-23 258（+0）
+2026-10-18 258 → 2026-10-24 259（+1）
 
 
 ---

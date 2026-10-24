@@ -1,6 +1,6 @@
 # baby-llm/baby-agent
 
-⭐ 487 · Go · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/baby-llm/baby-agent) · 组织维护 · 中文 README
+⭐ 488 · Go · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/baby-llm/baby-agent) · 组织维护 · 中文 README
 
 **Go 语言 AI Agent 教学仓库：面向无 LLM 背景的后端工程师**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "baby-llm/baby-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 486 --> 489
-    line [488, 487, 487]
+    line [488, 487, 488]
 ```
 
-2026-10-18 488 → 2026-10-23 487（-1）
+2026-10-18 488 → 2026-10-24 488（+0）
 
 
 ---

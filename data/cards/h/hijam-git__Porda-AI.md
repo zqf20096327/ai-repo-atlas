@@ -1,6 +1,6 @@
 # hijam-git/Porda-AI
 
-⭐ 321 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/hijam-git/Porda-AI) · [官网](https://pordaai.com/) · 个人维护
+⭐ 322 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/hijam-git/Porda-AI) · [官网](https://pordaai.com/) · 个人维护
 
 **面向穆斯林用户的实时屏幕遮挡工具：AI 检测并模糊不当内容**
 
@@ -46,12 +46,12 @@ Windows 桌面应用，用自定义训练的检测模型实时截取屏幕窗口
 ```mermaid
 xychart-beta
     title "hijam-git/Porda-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 319 --> 322
-    line [320, 321, 321]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 319 --> 323
+    line [320, 321, 322]
 ```
 
-2026-10-18 320 → 2026-10-23 321（+1）
+2026-10-18 320 → 2026-10-24 322（+2）
 
 
 ---

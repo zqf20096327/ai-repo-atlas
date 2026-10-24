@@ -1,6 +1,6 @@
 # Ephemeral-AI-Lab/layerfs
 
-⭐ 1,908 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) · [官网](https://layerfs.ai/) · 组织维护
+⭐ 1,992 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) · [官网](https://layerfs.ai/) · 组织维护
 
 **面向 AI agent 的写时复制共享文件系统，支持分支/提交/合并**
 
@@ -40,6 +40,18 @@ LayerFS 为每个 agent 提供挂载于共享提交历史之上的完整可写 W
 > L7:  LayerFS is the substrate under your agents. Each one mounts a complete, writable
 > L8:  Workspace over shared committed history, does its work, commits what it changed,
 > L47:  fs calls go straight into the Store as Commits; each Bash call mounts a Workspace, runs, commits and unmounts
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ephemeral-AI-Lab/layerfs 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 1900 --> 2000
+    line [1908, 1992]
+```
+
+2026-10-23 1,908 → 2026-10-24 1,992（+84）
 
 
 ---

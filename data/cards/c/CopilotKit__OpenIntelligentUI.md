@@ -1,6 +1,6 @@
 # CopilotKit/OpenIntelligentUI
 
-⭐ 3,770 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/CopilotKit/OpenIntelligentUI) · [官网](https://opengenerativeui.copilotkit.ai/) · 组织维护
+⭐ 3,858 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/CopilotKit/OpenIntelligentUI) · [官网](https://opengenerativeui.copilotkit.ai/) · 组织维护
 
 **开源生成式 UI 聊天框架：把问题变成可交互的解释与工具**
 
@@ -49,13 +49,13 @@
 
 ```mermaid
 xychart-beta
-    title "CopilotKit/OpenIntelligentUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3327 --> 3810
-    line [3367, 3493, 3770]
+    title "CopilotKit/OpenIntelligentUI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3318 --> 3907
+    line [3367, 3493, 3770, 3858]
 ```
 
-2026-10-18 3,367 → 2026-10-23 3,770（+403）
+2026-10-18 3,367 → 2026-10-24 3,858（+491）
 
 
 ---

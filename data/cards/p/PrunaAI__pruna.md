@@ -1,6 +1,6 @@
 # PrunaAI/pruna
 
-⭐ 1,325 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/PrunaAI/pruna) · [官网](https://docs.pruna.ai) · 组织维护
+⭐ 1,326 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/PrunaAI/pruna) · [官网](https://docs.pruna.ai) · 组织维护
 
 **开发者用的 AI 模型优化框架：压缩模型使其更快更小**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PrunaAI/pruna 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1316 --> 1326
-    line [1317, 1324, 1325]
+    title "PrunaAI/pruna 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1316 --> 1327
+    line [1317, 1324, 1325, 1326]
 ```
 
-2026-10-18 1,317 → 2026-10-23 1,325（+8）
+2026-10-18 1,317 → 2026-10-24 1,326（+9）
 
 
 ---

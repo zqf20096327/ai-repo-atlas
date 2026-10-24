@@ -45,12 +45,12 @@ Data-Centric AI Community 维护的 awesome 清单，收录以训练数据（而
 ```mermaid
 xychart-beta
     title "Data-Centric-AI-Community/awesome-data-centric-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 356 --> 358
     line [357, 357]
 ```
 
-2026-10-18 357 → 2026-10-23 357（+0）
+2026-10-18 357 → 2026-10-24 357（+0）
 
 
 ---

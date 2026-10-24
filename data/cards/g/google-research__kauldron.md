@@ -1,6 +1,6 @@
 # google-research/kauldron
 
-⭐ 314 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-research/kauldron) · [官网](https://kauldron.readthedocs.io/) · 组织维护
+⭐ 314 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-research/kauldron) · [官网](https://kauldron.readthedocs.io/) · 组织维护
 
 **面向研究迭代速度与模块化的 JAX/Flax 模型训练库**
 
@@ -45,12 +45,12 @@ Google Research 维护的机器学习模型训练库，基于 JAX/Flax 生态，
 ```mermaid
 xychart-beta
     title "google-research/kauldron 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 309 --> 315
     line [310, 312, 314, 314]
 ```
 
-2026-10-18 310 → 2026-10-23 314（+4）
+2026-10-18 310 → 2026-10-24 314（+4）
 
 
 ---

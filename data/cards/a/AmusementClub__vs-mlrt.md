@@ -1,6 +1,6 @@
 # AmusementClub/vs-mlrt
 
-⭐ 487 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/AmusementClub/vs-mlrt) · 组织维护
+⭐ 489 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/AmusementClub/vs-mlrt) · 组织维护
 
 **VapourSynth 的多后端 ML 滤镜推理运行时集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmusementClub/vs-mlrt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 484 --> 488
-    line [485, 486, 487]
+    title "AmusementClub/vs-mlrt 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 484 --> 490
+    line [485, 486, 487, 489]
 ```
 
-2026-10-18 485 → 2026-10-23 487（+2）
+2026-10-18 485 → 2026-10-24 489（+4）
 
 
 ---

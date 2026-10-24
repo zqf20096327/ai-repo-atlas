@@ -1,6 +1,6 @@
 # wyg5208/nct
 
-⭐ 476 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/wyg5208/nct) · [官网](https://neuroconscious.link/) · 组织维护 · 中文 README
+⭐ 481 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/wyg5208/nct) · [官网](https://neuroconscious.link/) · 组织维护 · 中文 README
 
 **融合神经科学理论的意识建模研究框架，面向科研**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wyg5208/nct 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "wyg5208/nct 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 465 --> 508
-    line [468, 493, 505, 476]
+    line [468, 493, 505, 476, 481]
 ```
 
-2026-10-18 468 → 2026-10-23 476（+8）
+2026-10-18 468 → 2026-10-24 481（+13）
 
 
 ---

@@ -46,12 +46,12 @@ QGIS 插件，基于 Segment Anything Model（支持 SAM、SAM 2、SAM 2.1、SAM
 ```mermaid
 xychart-beta
     title "coolzhao/Geo-SAM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 430 --> 432
     line [431, 431]
 ```
 
-2026-10-18 431 → 2026-10-23 431（+0）
+2026-10-18 431 → 2026-10-24 431（+0）
 
 
 ---

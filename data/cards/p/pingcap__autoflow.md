@@ -1,6 +1,6 @@
 # pingcap/autoflow
 
-⭐ 2,979 · TypeScript · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/pingcap/autoflow) · [官网](https://tidb.ai) · 组织维护
+⭐ 2,979 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pingcap/autoflow) · [官网](https://tidb.ai) · 组织维护
 
 **基于 Graph RAG 的对话式知识库工具，可嵌入网站**
 
@@ -45,12 +45,12 @@ PingCAP 开源的 Graph RAG 知识库工具，基于 TiDB Serverless 向量存�
 ```mermaid
 xychart-beta
     title "pingcap/autoflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 2977 --> 2980
     line [2978, 2979, 2979]
 ```
 
-2026-10-18 2,978 → 2026-10-23 2,979（+1）
+2026-10-18 2,978 → 2026-10-24 2,979（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # BaYue-SYJ/shuixian-prompts
 
-⭐ 458 · JavaScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/BaYue-SYJ/shuixian-prompts) · [官网](https://prompt.qqsrc.com/) · 个人维护 · 中文 README
+⭐ 460 · JavaScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/BaYue-SYJ/shuixian-prompts) · [官网](https://prompt.qqsrc.com/) · 个人维护 · 中文 README
 
 **5,430 条中文 AI 绘画提示词库：检索/分类/一键复制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BaYue-SYJ/shuixian-prompts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 435 --> 460
-    line [437, 445, 454, 458]
+    title "BaYue-SYJ/shuixian-prompts 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 435 --> 462
+    line [437, 445, 454, 458, 460]
 ```
 
-2026-10-18 437 → 2026-10-23 458（+21）
+2026-10-18 437 → 2026-10-24 460（+23）
 
 
 ---

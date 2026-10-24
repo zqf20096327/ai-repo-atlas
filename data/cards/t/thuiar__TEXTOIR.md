@@ -1,6 +1,6 @@
 # thuiar/TEXTOIR
 
-⭐ 251 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/thuiar/TEXTOIR) · [官网](https://github.com/thuiar/TEXTOIR) · 组织维护
+⭐ 252 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/thuiar/TEXTOIR) · [官网](https://github.com/thuiar/TEXTOIR) · 组织维护
 
 **文本开放意图识别工具包：集成检测与发现算法供科研复现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thuiar/TEXTOIR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 250 --> 252
-    line [251, 251]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 250 --> 253
+    line [251, 252]
 ```
 
-2026-10-18 251 → 2026-10-23 251（+0）
+2026-10-18 251 → 2026-10-24 252（+1）
 
 
 ---

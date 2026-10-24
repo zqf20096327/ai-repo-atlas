@@ -1,6 +1,6 @@
 # licyk/sd-webui-all-in-one
 
-⭐ 263 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/licyk/sd-webui-all-in-one) · [官网](https://licyk.github.io/sd-webui-all-in-one) · 个人维护 · 中文 README
+⭐ 264 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/licyk/sd-webui-all-in-one) · [官网](https://licyk.github.io/sd-webui-all-in-one) · 个人维护 · 中文 README
 
 **多种 AI WebUI/训练工具的一体化安装、下载与管理方案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "licyk/sd-webui-all-in-one 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 262 --> 264
-    line [263, 263]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 262 --> 265
+    line [263, 264]
 ```
 
-2026-10-18 263 → 2026-10-23 263（+0）
+2026-10-18 263 → 2026-10-24 264（+1）
 
 
 ---

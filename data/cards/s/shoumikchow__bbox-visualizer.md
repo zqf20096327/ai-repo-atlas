@@ -1,6 +1,6 @@
 # shoumikchow/bbox-visualizer
 
-⭐ 411 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/shoumikchow/bbox-visualizer) · [官网](https://bbox-visualizer.readthedocs.io) · 个人维护
+⭐ 412 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/shoumikchow/bbox-visualizer) · [官网](https://bbox-visualizer.readthedocs.io) · 个人维护
 
 **在图像上绘制并标注边界框的 Python 可视化库**
 
@@ -45,12 +45,12 @@ Python 库 bbox-visualizer：读取图像与边界框坐标，绘制边界框并
 ```mermaid
 xychart-beta
     title "shoumikchow/bbox-visualizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 410 --> 412
-    line [411, 411]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 410 --> 413
+    line [411, 412]
 ```
 
-2026-10-18 411 → 2026-10-23 411（+0）
+2026-10-18 411 → 2026-10-24 412（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # h9-tec/ai-roadmap-2026
 
-⭐ 109 · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/h9-tec/ai-roadmap-2026) · 个人维护
+⭐ 138 · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/h9-tec/ai-roadmap-2026) · 个人维护
 
 **AI 工程师学习路线图：五层进阶路径配免费资源与小项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "h9-tec/ai-roadmap-2026 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
-    y-axis "stars" 12 --> 117
-    line [20, 109]
+    title "h9-tec/ai-roadmap-2026 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9 --> 149
+    line [20, 109, 138]
 ```
 
-2026-10-22 20 → 2026-10-23 109（+89）
+2026-10-22 20 → 2026-10-24 138（+118）
 
 
 ---

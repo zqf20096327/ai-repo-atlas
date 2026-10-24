@@ -1,6 +1,6 @@
 # TanStack/ai
 
-⭐ 3,213 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/TanStack/ai) · [官网](https://tanstack.com/ai/latest) · 组织维护
+⭐ 3,227 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/TanStack/ai) · [官网](https://tanstack.com/ai/latest) · 组织维护
 
 **TypeScript AI SDK：类型安全、多提供商地构建流式聊天/Agent/多模态应用**
 
@@ -46,13 +46,13 @@ TanStack 出品的 TypeScript AI SDK，由可组合的活动（activity）与提
 
 ```mermaid
 xychart-beta
-    title "TanStack/ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3199 --> 3214
-    line [3200, 3204, 3209, 3213]
+    title "TanStack/ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3198 --> 3229
+    line [3200, 3204, 3209, 3213, 3227]
 ```
 
-2026-10-18 3,200 → 2026-10-23 3,213（+13）
+2026-10-18 3,200 → 2026-10-24 3,227（+27）
 
 
 ---

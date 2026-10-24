@@ -1,6 +1,6 @@
 # InsForge/InsForge
 
-⭐ 13,158 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/InsForge/InsForge) · [官网](https://insforge.dev) · 组织维护
+⭐ 13,175 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/InsForge/InsForge) · [官网](https://insforge.dev) · 组织维护
 
 **为编码 Agent 提供数据库/认证/存储/托管的一体化后端平台**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "InsForge/InsForge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13134 --> 13160
-    line [13136, 13147, 13157, 13158]
+    title "InsForge/InsForge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13133 --> 13178
+    line [13136, 13147, 13157, 13158, 13175]
 ```
 
-2026-10-18 13,136 → 2026-10-23 13,158（+22）
+2026-10-18 13,136 → 2026-10-24 13,175（+39）
 
 
 ---

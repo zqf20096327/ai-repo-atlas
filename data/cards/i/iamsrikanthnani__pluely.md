@@ -1,6 +1,6 @@
 # iamsrikanthnani/pluely
 
-⭐ 2,752 · TypeScript · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/iamsrikanthnani/pluely) · [官网](https://pluely.com) · 个人维护
+⭐ 2,753 · TypeScript · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/iamsrikanthnani/pluely) · [官网](https://pluely.com) · 个人维护
 
 **桌面悬浮 AI 助手：会议/访谈中隐形提问与实时转录应答**
 
@@ -46,12 +46,12 @@ Tauri 构建的跨平台桌面悬浮 AI 助手，提供 Ask 与 Listen 两种模
 ```mermaid
 xychart-beta
     title "iamsrikanthnani/pluely 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2745 --> 2753
-    line [2746, 2752, 2752]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 2745 --> 2754
+    line [2746, 2752, 2753]
 ```
 
-2026-10-18 2,746 → 2026-10-23 2,752（+6）
+2026-10-18 2,746 → 2026-10-24 2,753（+7）
 
 
 ---

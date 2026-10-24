@@ -1,6 +1,6 @@
 # PerforatedAI/PerforatedAI
 
-⭐ 237 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/PerforatedAI/PerforatedAI) · 组织维护
+⭐ 237 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/PerforatedAI/PerforatedAI) · 组织维护
 
 **给 PyTorch 训练加人工树突的训练增强库**
 
@@ -46,12 +46,12 @@ Apache 2.0 开源的 Python 库 perforatedai：在已有 PyTorch 网络中自动
 ```mermaid
 xychart-beta
     title "PerforatedAI/PerforatedAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 236 --> 238
     line [237, 237]
 ```
 
-2026-10-18 237 → 2026-10-23 237（+0）
+2026-10-18 237 → 2026-10-24 237（+0）
 
 
 ---

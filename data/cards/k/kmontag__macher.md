@@ -1,6 +1,6 @@
 # kmontag/macher
 
-⭐ 159 · Emacs Lisp · GPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/kmontag/macher) · 个人维护
+⭐ 160 · Emacs Lisp · GPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/kmontag/macher) · 个人维护
 
 **Emacs 的项目感知多文件 LLM 编辑工具集（基于 gptel）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kmontag/macher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 158 --> 160
-    line [159, 159]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 158 --> 161
+    line [159, 160]
 ```
 
-2026-10-18 159 → 2026-10-23 159（+0）
+2026-10-18 159 → 2026-10-24 160（+1）
 
 
 ---

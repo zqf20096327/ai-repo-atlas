@@ -1,6 +1,6 @@
 # VectifyAI/PageIndex
 
-⭐ 39,470 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/VectifyAI/PageIndex) · [官网](https://pageindex.ai) · 组织维护
+⭐ 39,555 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/VectifyAI/PageIndex) · [官网](https://pageindex.ai) · 组织维护
 
 **无向量库、基于 LLM 推理的树状索引 RAG 引擎**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "VectifyAI/PageIndex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 39214 --> 39493
-    line [39237, 39305, 39425, 39470]
+    title "VectifyAI/PageIndex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 39206 --> 39586
+    line [39237, 39305, 39425, 39470, 39555]
 ```
 
-2026-10-18 39,237 → 2026-10-23 39,470（+233）
+2026-10-18 39,237 → 2026-10-24 39,555（+318）
 
 
 ---

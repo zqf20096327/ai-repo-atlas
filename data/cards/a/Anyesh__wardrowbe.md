@@ -1,6 +1,6 @@
 # Anyesh/wardrowbe
 
-⭐ 793 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Anyesh/wardrowbe) · [官网](https://wardrowbe.com) · 个人维护 · 中文 README
+⭐ 795 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Anyesh/wardrowbe) · [官网](https://wardrowbe.com) · 个人维护 · 中文 README
 
 **自托管 AI 衣柜管理应用：拍照建档并推荐每日穿搭**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anyesh/wardrowbe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 780 --> 794
-    line [781, 787, 792, 793]
+    title "Anyesh/wardrowbe 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 780 --> 796
+    line [781, 787, 792, 793, 795]
 ```
 
-2026-10-18 781 → 2026-10-23 793（+12）
+2026-10-18 781 → 2026-10-24 795（+14）
 
 
 ---

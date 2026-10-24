@@ -1,6 +1,6 @@
 # leon-ai/leon
 
-⭐ 17,596 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/leon-ai/leon) · [官网](https://getleon.ai) · 个人维护
+⭐ 17,599 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/leon-ai/leon) · [官网](https://getleon.ai) · 个人维护
 
 **开源个人 AI 助手：以工具、上下文、记忆与 agent 执行完成任务**
 
@@ -51,13 +51,13 @@ Leon 是一个开源个人 AI 助手，围绕工具、上下文、记忆与 agen
 
 ```mermaid
 xychart-beta
-    title "leon-ai/leon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 17583 --> 17597
-    line [17584, 17589, 17595, 17596]
+    title "leon-ai/leon 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 17583 --> 17600
+    line [17584, 17589, 17595, 17596, 17599]
 ```
 
-2026-10-18 17,584 → 2026-10-23 17,596（+12）
+2026-10-18 17,584 → 2026-10-24 17,599（+15）
 
 
 ---

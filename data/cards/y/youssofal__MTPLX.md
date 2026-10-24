@@ -1,6 +1,6 @@
 # youssofal/MTPLX
 
-⭐ 2,625 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/youssofal/MTPLX) · [官网](https://mtplx.com) · 个人维护
+⭐ 2,627 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/youssofal/MTPLX) · [官网](https://mtplx.com) · 个人维护
 
 **在 Apple Silicon 上用模型自带 MTP 头运行本地 LLM 的 Mac 应用与 CLI**
 
@@ -44,13 +44,13 @@ MTPLX 是 macOS 原生应用加命令行工具，在 Apple Silicon 上运行 Qwe
 
 ```mermaid
 xychart-beta
-    title "youssofal/MTPLX 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2594 --> 2627
-    line [2596, 2605, 2618, 2625]
+    title "youssofal/MTPLX 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2593 --> 2630
+    line [2596, 2605, 2618, 2625, 2627]
 ```
 
-2026-10-18 2,596 → 2026-10-23 2,625（+29）
+2026-10-18 2,596 → 2026-10-24 2,627（+31）
 
 
 ---

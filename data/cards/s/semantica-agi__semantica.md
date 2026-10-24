@@ -1,6 +1,6 @@
 # semantica-agi/semantica
 
-⭐ 14,186 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/semantica-agi/semantica) · [官网](https://getsemantica.ai) · 组织维护
+⭐ 14,206 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/semantica-agi/semantica) · [官网](https://getsemantica.ai) · 组织维护
 
 **为 AI 系统提供上下文图谱与决策溯源的开源基础设施**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "semantica-agi/semantica 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 14081 --> 14195
-    line [14090, 14137, 14169, 14186]
+    title "semantica-agi/semantica 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 14079 --> 14217
+    line [14090, 14137, 14169, 14186, 14206]
 ```
 
-2026-10-18 14,090 → 2026-10-23 14,186（+96）
+2026-10-18 14,090 → 2026-10-24 14,206（+116）
 
 
 ---

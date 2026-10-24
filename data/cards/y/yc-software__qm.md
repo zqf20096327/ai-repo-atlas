@@ -1,6 +1,6 @@
 # yc-software/qm
 
-⭐ 15,499 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/yc-software/qm) · [官网](https://x.com/qm__dev) · 组织维护
+⭐ 15,512 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yc-software/qm) · [官网](https://x.com/qm__dev) · 组织维护
 
 **企业级多人共享 agent 运行框架，部署在自有云上，Slack 与网页使用**
 
@@ -52,13 +52,13 @@ QM 是面向初创公司的多人 agent 运行框架：每位员工获得隔离�
 
 ```mermaid
 xychart-beta
-    title "yc-software/qm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 15431 --> 15505
-    line [15437, 15448, 15479, 15499]
+    title "yc-software/qm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 15430 --> 15519
+    line [15437, 15448, 15479, 15499, 15512]
 ```
 
-2026-10-18 15,437 → 2026-10-23 15,499（+62）
+2026-10-18 15,437 → 2026-10-24 15,512（+75）
 
 
 ---

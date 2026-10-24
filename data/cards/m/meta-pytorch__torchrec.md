@@ -1,6 +1,6 @@
 # meta-pytorch/torchrec
 
-⭐ 2,618 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/meta-pytorch/torchrec) · [官网](https://pytorch.org/torchrec/) · 组织维护
+⭐ 2,618 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/meta-pytorch/torchrec) · [官网](https://pytorch.org/torchrec/) · 组织维护
 
 **面向大规模推荐系统的 PyTorch 领域库**
 
@@ -44,13 +44,13 @@ Meta 维护的 PyTorch 领域库，提供大规模推荐系统（RecSys）所需
 
 ```mermaid
 xychart-beta
-    title "meta-pytorch/torchrec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "meta-pytorch/torchrec 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2612 --> 2619
-    line [2613, 2614, 2616, 2618]
+    line [2613, 2614, 2616, 2618, 2618]
 ```
 
-2026-10-18 2,613 → 2026-10-23 2,618（+5）
+2026-10-18 2,613 → 2026-10-24 2,618（+5）
 
 
 ---

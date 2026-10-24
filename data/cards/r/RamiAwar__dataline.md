@@ -1,6 +1,6 @@
 # RamiAwar/dataline
 
-⭐ 1,595 · TypeScript · GPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/RamiAwar/dataline) · [官网](https://dataline.app) · 组织维护
+⭐ 1,594 · TypeScript · GPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/RamiAwar/dataline) · [官网](https://dataline.app) · 组织维护
 
 **用自然语言对话分析数据并生成图表的自托管工具**
 
@@ -44,13 +44,13 @@ DataLine 是 AI 驱动的数据分析与可视化工具：连接 Postgres、MySQ
 
 ```mermaid
 xychart-beta
-    title "RamiAwar/dataline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1594 --> 1597
-    line [1596, 1595]
+    title "RamiAwar/dataline 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1593 --> 1597
+    line [1596, 1595, 1594]
 ```
 
-2026-10-18 1,596 → 2026-10-23 1,595（-1）
+2026-10-18 1,596 → 2026-10-24 1,594（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # eugenepyvovarov/CodeAgentsMobile
 
-⭐ 156 · Swift · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/eugenepyvovarov/CodeAgentsMobile) · [官网](https://x.com/code_agents) · 个人维护
+⭐ 157 · Swift · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/eugenepyvovarov/CodeAgentsMobile) · [官网](https://x.com/code_agents) · 个人维护
 
 **iOS 客户端：通过 SSH 连接服务器使用 OpenCode 编码 agent**
 
@@ -45,12 +45,12 @@ OpenCode 的 iOS 移动客户端：用户连接任意 Linux SSH 服务器，在�
 ```mermaid
 xychart-beta
     title "eugenepyvovarov/CodeAgentsMobile 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 155 --> 157
-    line [156, 156]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 155 --> 158
+    line [156, 157]
 ```
 
-2026-10-18 156 → 2026-10-23 156（+0）
+2026-10-18 156 → 2026-10-24 157（+1）
 
 
 ---

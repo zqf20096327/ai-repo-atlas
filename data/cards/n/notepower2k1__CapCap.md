@@ -1,6 +1,6 @@
 # notepower2k1/CapCap
 
-⭐ 358 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/notepower2k1/CapCap) · 个人维护 · 中文 README
+⭐ 359 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/notepower2k1/CapCap) · 个人维护 · 中文 README
 
 **Windows 短视频本地化与配音的桌面一站式工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "notepower2k1/CapCap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 350 --> 359
-    line [351, 355, 357, 358]
+    title "notepower2k1/CapCap 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 350 --> 360
+    line [351, 355, 357, 358, 359]
 ```
 
-2026-10-18 351 → 2026-10-23 358（+7）
+2026-10-18 351 → 2026-10-24 359（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # lemonade-sdk/lemonade
 
-⭐ 5,969 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lemonade-sdk/lemonade) · [官网](https://lemonade-server.ai/) · 组织维护
+⭐ 5,979 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/lemonade-sdk/lemonade) · [官网](https://lemonade-server.ai/) · 组织维护
 
 **在用户本地 GPU/NPU 上运行多模态 AI 模型的本地 AI 服务器**
 
@@ -44,13 +44,13 @@ Lemonade 提供两种形态：Lemonade Server 作为本地服务，通过标准 
 
 ```mermaid
 xychart-beta
-    title "lemonade-sdk/lemonade 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5918 --> 5973
-    line [5922, 5936, 5957, 5969]
+    title "lemonade-sdk/lemonade 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5917 --> 5984
+    line [5922, 5936, 5957, 5969, 5979]
 ```
 
-2026-10-18 5,922 → 2026-10-23 5,969（+47）
+2026-10-18 5,922 → 2026-10-24 5,979（+57）
 
 
 ---

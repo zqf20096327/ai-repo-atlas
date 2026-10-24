@@ -1,6 +1,6 @@
 # Human-Agent-Society/reef
 
-⭐ 7,742 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Human-Agent-Society/reef) · [官网](https://reefinfra.ai) · 组织维护 · 中文 README
+⭐ 7,752 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Human-Agent-Society/reef) · [官网](https://reefinfra.ai) · 组织维护 · 中文 README
 
 **持续自我改进 agent 的基础设施：连接推理、反馈、训练与版本化交付**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Human-Agent-Society/reef 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 7607 --> 7754
-    line [7619, 7671, 7742]
+    title "Human-Agent-Society/reef 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7606 --> 7765
+    line [7619, 7671, 7742, 7752]
 ```
 
-2026-10-18 7,619 → 2026-10-23 7,742（+123）
+2026-10-18 7,619 → 2026-10-24 7,752（+133）
 
 
 ---

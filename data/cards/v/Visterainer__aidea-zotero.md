@@ -1,6 +1,6 @@
 # Visterainer/aidea-zotero
 
-⭐ 137 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Visterainer/aidea-zotero) · 个人维护 · 中文 README
+⭐ 138 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Visterainer/aidea-zotero) · 个人维护 · 中文 README
 
 **给 Zotero 用户的 AI 助手插件：论文对话、划词与全文翻译**
 
@@ -48,12 +48,12 @@ Zotero 7 插件，在侧边栏提供论文问答、PDF/EPUB 划词翻译与全�
 ```mermaid
 xychart-beta
     title "Visterainer/aidea-zotero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 131 --> 138
-    line [132, 134, 137, 137]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 131 --> 139
+    line [132, 134, 137, 138]
 ```
 
-2026-10-18 132 → 2026-10-23 137（+5）
+2026-10-18 132 → 2026-10-24 138（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # EnzymeAD/Enzyme
 
-⭐ 1,720 · LLVM · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/EnzymeAD/Enzyme) · [官网](https://enzyme.mit.edu) · 组织维护
+⭐ 1,720 · LLVM · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/EnzymeAD/Enzyme) · [官网](https://enzyme.mit.edu) · 组织维护
 
 **LLVM/MLIR 编译器自动微分插件，为 C/C++/Fortran 等生成梯度**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EnzymeAD/Enzyme 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "EnzymeAD/Enzyme 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1718 --> 1721
-    line [1719, 1720]
+    line [1719, 1720, 1720]
 ```
 
-2026-10-18 1,719 → 2026-10-23 1,720（+1）
+2026-10-18 1,719 → 2026-10-24 1,720（+1）
 
 
 ---

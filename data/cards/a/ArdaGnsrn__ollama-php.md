@@ -1,6 +1,6 @@
 # ArdaGnsrn/ollama-php
 
-⭐ 209 · PHP · MIT · 推送 2026-09-14 · [GitHub](https://github.com/ArdaGnsrn/ollama-php) · [官网](https://packagist.org/packages/ardagnsrn/ollama-php) · 个人维护
+⭐ 210 · PHP · MIT · 推送 2026-09-14 · [GitHub](https://github.com/ArdaGnsrn/ollama-php) · [官网](https://packagist.org/packages/ardagnsrn/ollama-php) · 个人维护
 
 **Ollama 的 PHP 客户端库，供 PHP 应用调用本地 LLM 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ArdaGnsrn/ollama-php 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 208 --> 210
-    line [209, 209]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 208 --> 211
+    line [209, 210]
 ```
 
-2026-10-18 209 → 2026-10-23 209（+0）
+2026-10-18 209 → 2026-10-24 210（+1）
 
 
 ---

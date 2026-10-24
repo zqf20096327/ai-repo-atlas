@@ -1,6 +1,6 @@
 # cuevhv/mamma
 
-⭐ 846 · Python · NOASSERTION · 推送 2026-07-10 · [GitHub](https://github.com/cuevhv/mamma) · [官网](https://mamma.is.tue.mpg.de/) · 组织维护
+⭐ 850 · Python · NOASSERTION · 推送 2026-07-10 · [GitHub](https://github.com/cuevhv/mamma) · [官网](https://mamma.is.tue.mpg.de/) · 组织维护
 
 **多视角多人无标记动作捕捉研究代码（CVPR 2026）**
 
@@ -46,13 +46,13 @@ CVPR 2026 论文 MAMMA 的官方代码，提供推理与训练两部分：从多
 
 ```mermaid
 xychart-beta
-    title "cuevhv/mamma 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 827 --> 847
-    line [828, 834, 842, 846]
+    title "cuevhv/mamma 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 826 --> 852
+    line [828, 834, 842, 846, 850]
 ```
 
-2026-10-18 828 → 2026-10-23 846（+18）
+2026-10-18 828 → 2026-10-24 850（+22）
 
 
 ---

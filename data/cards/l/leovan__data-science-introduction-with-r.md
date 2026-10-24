@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "leovan/data-science-introduction-with-r 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 135 --> 137
     line [136, 136]
 ```
 
-2026-10-18 136 → 2026-10-23 136（+0）
+2026-10-18 136 → 2026-10-24 136（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # melgarafael/DeskcommCRM
 
-⭐ 4,797 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/melgarafael/DeskcommCRM) · [官网](https://deskcomm.com.br) · 个人维护 · 中文 README
+⭐ 4,818 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/melgarafael/DeskcommCRM) · [官网](https://deskcomm.com.br) · 个人维护 · 中文 README
 
 **自托管的开源 AI 销售 CRM，AI 代理通过 WhatsApp 接待与成交**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "melgarafael/DeskcommCRM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4645 --> 4810
-    line [4658, 4710, 4766, 4797]
+    title "melgarafael/DeskcommCRM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4642 --> 4834
+    line [4658, 4710, 4766, 4797, 4818]
 ```
 
-2026-10-18 4,658 → 2026-10-23 4,797（+139）
+2026-10-18 4,658 → 2026-10-24 4,818（+160）
 
 
 ---

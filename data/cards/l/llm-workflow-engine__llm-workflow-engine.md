@@ -1,6 +1,6 @@
 # llm-workflow-engine/llm-workflow-engine
 
-⭐ 3,715 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/llm-workflow-engine/llm-workflow-engine) · 组织维护
+⭐ 3,715 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/llm-workflow-engine/llm-workflow-engine) · 组织维护
 
 **面向 LLM 的命令行工具与工作流管理器**
 
@@ -46,12 +46,12 @@ LLM Workflow Engine（LWE）是从 ChatGPT Wrapper 项目延续而来的 Power C
 ```mermaid
 xychart-beta
     title "llm-workflow-engine/llm-workflow-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 3714 --> 3716
     line [3715, 3715]
 ```
 
-2026-10-18 3,715 → 2026-10-23 3,715（+0）
+2026-10-18 3,715 → 2026-10-24 3,715（+0）
 
 
 ---

@@ -1,0 +1,58 @@
+# Jordanwei1/jiaojie-skill
+
+⭐ 90 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Jordanwei1/jiaojie-skill) · [官网](https://jordanwei1.github.io/jiaojie-skill/) · 个人维护 · 中文 README
+
+**跨窗口/模型/设备/语言的 AI 上下文交接 Skill，让新 AI 从停止点继续**
+
+基于开放 Agent Skills 协议的开源技能（SKILL.md）：把当前目标、决策演化、废案、关键产物与下一步打包成交接包（handoff.md / handoff.zip / handoff-audit.zip 三档输出），交给另一个 AI 接续工作，支持跨模型、跨设备与跨语言（UTF-8 + BCP 47，原文权威、译文派生）。提供 EXPORT/RECEIVE/VERIFY_STRUCTURE/CONVERT_LEGACY 四种模式，含安全边界（交接包视为不可信输入）、六维连续性评分与公开证据状态表（当前为 IMPLEMENTED，跨模型语义与八 Runtime 验证尚待公开证据）。供使用 Claude Code、Codex、Cursor 等 Agent 的开发者安装使用。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | `idea` | |
+
+## 能力要点
+
+- HOT/WARM/COLD 三层交接结构：目标、决策演化、废案与证据分层保存
+- 区分技术失败、用户否决、历史决定、外部事实四类易混淆信息
+- 三种输出格式按需选择（md / zip / audit zip），最小充分产物原则
+- 含确定性安全与结构测试（28 项公开记录与 CI）、旧格式保守转换（保持 PARTIAL）
+
+## 适用场景
+
+- 换窗口或换模型时把工作进度交给新 AI，避免重新解释和重走废案
+- 跨设备、跨语言团队协作时保持任务连续性
+- 正式审计或跨组织交付时生成可验证的完整交接包
+
+## 场景标签
+
+`Agent 记忆` · 领域:Agent 开发
+
+## 证据(README 行号)
+
+> L16:  一个跨窗口、跨模型、跨设备、跨语言的开源 AI 上下文交接工具，基于开放的 Agent Skills 协议；实际验证范围以公开兼容矩阵为准。
+> L63: Jiaojie 基于开放的 Agent Skills 标准。安装器能把 Skill 放进多个 Agent 的发现目录；这只表示“能够安装”，实际语义兼容性以项目公开的测试证据为准。
+> L258: 当前发布状态是 **`IMPLEMENTED`**：Skill、协议资源、脚本、示例和 CI 已实现。它不是 `PROJECT_VERIFIED` 或 `COMMUNITY_VERIFIED`；只有对应证据完成并入库后才升级状态
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Jordanwei1/jiaojie-skill 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 89 --> 91
+    line [90, 90]
+```
+
+2026-10-18 90 → 2026-10-24 90（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `d1dcf5764259` · [字段定义](../../DATASET.md)*

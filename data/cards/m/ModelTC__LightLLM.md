@@ -1,6 +1,6 @@
 # ModelTC/LightLLM
 
-⭐ 4,334 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ModelTC/LightLLM) · 组织维护 · 中文 README
+⭐ 4,335 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ModelTC/LightLLM) · 组织维护 · 中文 README
 
 **基于 Python 的 LLM 推理与服务框架**
 
@@ -44,13 +44,13 @@ LightLLM 是以 Python 实现的 LLM 推理与 serving 框架，设计为轻量�
 
 ```mermaid
 xychart-beta
-    title "ModelTC/LightLLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4326 --> 4335
-    line [4327, 4329, 4331, 4334]
+    title "ModelTC/LightLLM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4326 --> 4336
+    line [4327, 4329, 4331, 4334, 4335]
 ```
 
-2026-10-18 4,327 → 2026-10-23 4,334（+7）
+2026-10-18 4,327 → 2026-10-24 4,335（+8）
 
 
 ---

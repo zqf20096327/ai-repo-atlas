@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "appautomaton/latex-arxiv-SKILL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "appautomaton/latex-arxiv-SKILL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 464 --> 468
-    line [465, 467]
+    line [465, 467, 467]
 ```
 
-2026-10-18 465 → 2026-10-23 467（+2）
+2026-10-18 465 → 2026-10-24 467（+2）
 
 
 ---

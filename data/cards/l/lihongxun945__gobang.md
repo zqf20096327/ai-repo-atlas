@@ -1,6 +1,6 @@
 # lihongxun945/gobang
 
-⭐ 1,814 · JavaScript · 推送 2026-09-17 · [GitHub](https://github.com/lihongxun945/gobang) · [官网](https://gobang2.light7.cn/) · 个人维护 · 中文 README
+⭐ 1,815 · JavaScript · 推送 2026-09-17 · [GitHub](https://github.com/lihongxun945/gobang) · [官网](https://gobang2.light7.cn/) · 个人维护 · 中文 README
 
 **浏览器本地运行的五子棋 AI（极小极大搜索，非神经网络）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lihongxun945/gobang 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "lihongxun945/gobang 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1812 --> 1816
-    line [1813, 1815, 1814]
+    line [1813, 1815, 1814, 1815]
 ```
 
-2026-10-18 1,813 → 2026-10-23 1,814（+1）
+2026-10-18 1,813 → 2026-10-24 1,815（+2）
 
 
 ---

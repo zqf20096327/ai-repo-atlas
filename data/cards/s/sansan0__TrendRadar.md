@@ -1,6 +1,6 @@
 # sansan0/TrendRadar
 
-⭐ 63,115 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/sansan0/TrendRadar) · [官网](https://trendradar.sandev.cc) · 个人维护 · 中文 README
+⭐ 63,137 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/sansan0/TrendRadar) · [官网](https://trendradar.sandev.cc) · 个人维护 · 中文 README
 
 **面向个人用户的多平台热点聚合监控与 AI 舆情筛选推送工具**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "sansan0/TrendRadar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 62967 --> 63128
-    line [62980, 63030, 63078, 63115]
+    title "sansan0/TrendRadar 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 62965 --> 63152
+    line [62980, 63030, 63078, 63115, 63137]
 ```
 
-2026-10-18 62,980 → 2026-10-23 63,115（+135）
+2026-10-18 62,980 → 2026-10-24 63,137（+157）
 
 
 ---

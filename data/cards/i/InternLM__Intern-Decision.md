@@ -1,6 +1,6 @@
 # InternLM/Intern-Decision
 
-⭐ 774 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/InternLM/Intern-Decision) · 组织维护 · 中文 README
+⭐ 775 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/InternLM/Intern-Decision) · 组织维护 · 中文 README
 
 **多模态决策模型：把状态、图像与问题转为带概率的决策**
 
@@ -45,13 +45,13 @@ Intern-Decision 将状态、可选图像与多类问题（choice/score/noul 是�
 
 ```mermaid
 xychart-beta
-    title "InternLM/Intern-Decision 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "InternLM/Intern-Decision 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 766 --> 865
-    line [820, 848, 857, 774]
+    line [820, 848, 857, 774, 775]
 ```
 
-2026-10-18 820 → 2026-10-23 774（-46）
+2026-10-18 820 → 2026-10-24 775（-45）
 
 
 ---

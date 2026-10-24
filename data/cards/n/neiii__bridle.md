@@ -1,6 +1,6 @@
 # neiii/bridle
 
-⭐ 440 · Rust · MIT · 推送 2026-10-17 · [GitHub](https://github.com/neiii/bridle) · 个人维护
+⭐ 439 · Rust · MIT · 推送 2026-10-17 · [GitHub](https://github.com/neiii/bridle) · 个人维护
 
 **多 AI 编码助手的统一配置管理器（TUI/CLI）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neiii/bridle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 439 --> 441
-    line [440, 440]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 438 --> 441
+    line [440, 439]
 ```
 
-2026-10-18 440 → 2026-10-23 440（+0）
+2026-10-18 440 → 2026-10-24 439（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # grobidOrg/grobid
 
-⭐ 5,190 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/grobidOrg/grobid) · [官网](https://grobid.readthedocs.io) · 组织维护
+⭐ 5,192 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/grobidOrg/grobid) · [官网](https://grobid.readthedocs.io) · 组织维护
 
 **从学术 PDF 提取结构化信息的机器学习库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "grobidOrg/grobid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5182 --> 5191
-    line [5183, 5186, 5187, 5190]
+    title "grobidOrg/grobid 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5182 --> 5193
+    line [5183, 5186, 5187, 5190, 5192]
 ```
 
-2026-10-18 5,183 → 2026-10-23 5,190（+7）
+2026-10-18 5,183 → 2026-10-24 5,192（+9）
 
 
 ---

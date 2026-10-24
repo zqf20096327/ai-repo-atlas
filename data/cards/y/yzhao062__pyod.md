@@ -1,6 +1,6 @@
 # yzhao062/pyod
 
-⭐ 10,052 · Python · BSD-2-Clause · 推送 2026-10-12 · [GitHub](https://github.com/yzhao062/pyod) · [官网](https://pyod.dev/) · 个人维护
+⭐ 10,053 · Python · BSD-2-Clause · 推送 2026-10-12 · [GitHub](https://github.com/yzhao062/pyod) · [官网](https://pyod.dev/) · 个人维护
 
 **面向开发者的多模态异常检测 Python 库，60+ 检测器统一 API**
 
@@ -45,13 +45,13 @@ Python 异常/离群检测库，覆盖表格、时间序列、图、文本、图
 
 ```mermaid
 xychart-beta
-    title "yzhao062/pyod 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 10043 --> 10053
-    line [10044, 10051, 10052]
+    title "yzhao062/pyod 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10043 --> 10054
+    line [10044, 10051, 10052, 10053]
 ```
 
-2026-10-18 10,044 → 2026-10-23 10,052（+8）
+2026-10-18 10,044 → 2026-10-24 10,053（+9）
 
 
 ---

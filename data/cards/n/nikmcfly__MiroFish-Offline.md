@@ -1,6 +1,6 @@
 # nikmcfly/MiroFish-Offline
 
-⭐ 2,640 · Python · AGPL-3.0 · 推送 2026-03-24 · [GitHub](https://github.com/nikmcfly/MiroFish-Offline) · [官网](https://x.com/nikmcfly69/status/2033147482331390328) · 个人维护 · 中文 README
+⭐ 2,649 · Python · AGPL-3.0 · 推送 2026-03-24 · [GitHub](https://github.com/nikmcfly/MiroFish-Offline) · [官网](https://x.com/nikmcfly69/status/2033147482331390328) · 个人维护 · 中文 README
 
 **本地多智能体社会模拟引擎：用 AI agent 仿真舆论与市场反应**
 
@@ -45,13 +45,13 @@ MiroFish 的全本地化英文分支：上传文档后抽取实体与关系构�
 
 ```mermaid
 xychart-beta
-    title "nikmcfly/MiroFish-Offline 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2618 --> 2642
-    line [2620, 2629, 2636, 2640]
+    title "nikmcfly/MiroFish-Offline 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2618 --> 2651
+    line [2620, 2629, 2636, 2640, 2649]
 ```
 
-2026-10-18 2,620 → 2026-10-23 2,640（+20）
+2026-10-18 2,620 → 2026-10-24 2,649（+29）
 
 
 ---

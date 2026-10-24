@@ -1,6 +1,6 @@
 # bilalonur/awesome-llm-os
 
-⭐ 166 · CC0-1.0 · 推送 2026-02-08 · [GitHub](https://github.com/bilalonur/awesome-llm-os) · 个人维护
+⭐ 167 · CC0-1.0 · 推送 2026-02-08 · [GitHub](https://github.com/bilalonur/awesome-llm-os) · 个人维护
 
 **LLM 操作系统（LLM-OS）主题的资源策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "bilalonur/awesome-llm-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 165 --> 167
-    line [166, 166]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 165 --> 168
+    line [166, 167]
 ```
 
-2026-10-18 166 → 2026-10-23 166（+0）
+2026-10-18 166 → 2026-10-24 167（+1）
 
 
 ---

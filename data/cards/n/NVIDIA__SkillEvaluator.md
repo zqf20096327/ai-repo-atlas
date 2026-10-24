@@ -1,6 +1,6 @@
 # NVIDIA/SkillEvaluator
 
-⭐ 590 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/SkillEvaluator) · [官网](https://docs.nvidia.com/skills/skillevaluator/) · 组织维护
+⭐ 593 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/SkillEvaluator) · [官网](https://docs.nvidia.com/skills/skillevaluator/) · 组织维护
 
 **面向开发者的 AI agent 技能评测框架：三层流水线+质量门**
 
@@ -46,13 +46,13 @@ NVIDIA 开源的多层评测框架，针对 Agent Skills 规范的技能产物�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/SkillEvaluator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 571 --> 591
-    line [572, 577, 587, 590]
+    title "NVIDIA/SkillEvaluator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 570 --> 595
+    line [572, 577, 587, 590, 593]
 ```
 
-2026-10-18 572 → 2026-10-23 590（+18）
+2026-10-18 572 → 2026-10-24 593（+21）
 
 
 ---

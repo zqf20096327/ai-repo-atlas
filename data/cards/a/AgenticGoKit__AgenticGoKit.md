@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgenticGoKit/AgenticGoKit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "AgenticGoKit/AgenticGoKit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 180 --> 183
-    line [181, 182]
+    line [181, 182, 182]
 ```
 
-2026-10-18 181 → 2026-10-23 182（+1）
+2026-10-18 181 → 2026-10-24 182（+1）
 
 
 ---

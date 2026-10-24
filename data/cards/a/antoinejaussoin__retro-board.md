@@ -46,12 +46,12 @@ Retrospected 是一个实时协作的敏捷回顾（Retrospective）看板，支
 ```mermaid
 xychart-beta
     title "antoinejaussoin/retro-board 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 816 --> 818
     line [817, 817]
 ```
 
-2026-10-18 817 → 2026-10-23 817（+0）
+2026-10-18 817 → 2026-10-24 817（+0）
 
 
 ---

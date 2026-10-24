@@ -1,6 +1,6 @@
 # IAAR-Shanghai/Awesome-AI-Memory
 
-⭐ 1,285 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) · 组织维护 · 中文 README
+⭐ 1,287 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) · 组织维护 · 中文 README
 
 **大模型/智能体记忆领域的论文与开源项目策展知识库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IAAR-Shanghai/Awesome-AI-Memory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1279 --> 1286
-    line [1280, 1281, 1283, 1285]
+    title "IAAR-Shanghai/Awesome-AI-Memory 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1279 --> 1288
+    line [1280, 1281, 1283, 1285, 1287]
 ```
 
-2026-10-18 1,280 → 2026-10-23 1,285（+5）
+2026-10-18 1,280 → 2026-10-24 1,287（+7）
 
 
 ---

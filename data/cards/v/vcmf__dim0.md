@@ -1,6 +1,6 @@
 # vcmf/dim0
 
-⭐ 182 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/vcmf/dim0) · [官网](https://dim0.net) · 个人维护
+⭐ 185 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vcmf/dim0) · [官网](https://dim0.net) · 个人维护
 
 **开源实时协作 AI 画布：笔记、迷你应用与 agent 同板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vcmf/dim0 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 176 --> 183
-    line [177, 179, 181, 182]
+    title "vcmf/dim0 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 176 --> 186
+    line [177, 179, 181, 182, 185]
 ```
 
-2026-10-18 177 → 2026-10-23 182（+5）
+2026-10-18 177 → 2026-10-24 185（+8）
 
 
 ---

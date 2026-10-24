@@ -1,6 +1,6 @@
 # sangrokjung/claude-forge
 
-⭐ 863 · Shell · MIT · 推送 2026-09-03 · [GitHub](https://github.com/sangrokjung/claude-forge) · [官网](https://sangrokjung.github.io/claude-forge) · 个人维护 · 中文 README
+⭐ 862 · Shell · MIT · 推送 2026-09-03 · [GitHub](https://github.com/sangrokjung/claude-forge) · [官网](https://sangrokjung.github.io/claude-forge) · 个人维护 · 中文 README
 
 **Claude Code 的配置增强套件：一次安装获得 16 agents、35 命令、33 技能与 22 hooks**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sangrokjung/claude-forge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "sangrokjung/claude-forge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 857 --> 864
-    line [858, 860, 863]
+    line [858, 860, 863, 862]
 ```
 
-2026-10-18 858 → 2026-10-23 863（+5）
+2026-10-18 858 → 2026-10-24 862（+4）
 
 
 ---

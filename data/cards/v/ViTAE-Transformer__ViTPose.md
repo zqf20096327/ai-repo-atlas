@@ -1,6 +1,6 @@
 # ViTAE-Transformer/ViTPose
 
-⭐ 2,199 · Python · Apache-2.0 · 推送 2025-12-25 · [GitHub](https://github.com/ViTAE-Transformer/ViTPose) · 组织维护
+⭐ 2,200 · Python · Apache-2.0 · 推送 2025-12-25 · [GitHub](https://github.com/ViTAE-Transformer/ViTPose) · 组织维护
 
 **ViT 人体/动物姿态估计模型库：训练评测与预训练权重**
 
@@ -44,13 +44,13 @@ NeurIPS'22 ViTPose 与 TPAMI'23 ViTPose++ 的 PyTorch 官方实现，面向姿�
 
 ```mermaid
 xychart-beta
-    title "ViTAE-Transformer/ViTPose 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "ViTAE-Transformer/ViTPose 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2197 --> 2201
-    line [2198, 2199, 2200, 2199]
+    line [2198, 2199, 2200, 2199, 2200]
 ```
 
-2026-10-18 2,198 → 2026-10-23 2,199（+1）
+2026-10-18 2,198 → 2026-10-24 2,200（+2）
 
 
 ---

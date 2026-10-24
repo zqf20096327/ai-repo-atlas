@@ -1,6 +1,6 @@
 # no1msd/seance
 
-⭐ 136 · Zig · MIT · 推送 2026-09-11 · [GitHub](https://github.com/no1msd/seance) · [官网](https://no1msd.github.io/seance) · 个人维护
+⭐ 137 · Zig · MIT · 推送 2026-09-11 · [GitHub](https://github.com/no1msd/seance) · [官网](https://no1msd.github.io/seance) · 个人维护
 
 **追踪 AI 编码 agent 状态的 GTK4 Linux 终端复用器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "no1msd/seance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 134 --> 137
-    line [135, 136]
+    title "no1msd/seance 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 134 --> 138
+    line [135, 136, 137]
 ```
 
-2026-10-18 135 → 2026-10-23 136（+1）
+2026-10-18 135 → 2026-10-24 137（+2）
 
 
 ---

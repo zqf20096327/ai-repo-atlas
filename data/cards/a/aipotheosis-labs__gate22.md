@@ -1,6 +1,6 @@
 # aipotheosis-labs/gate22
 
-⭐ 180 · TypeScript · Apache-2.0 · 推送 2025-12-12 · [GitHub](https://github.com/aipotheosis-labs/gate22) · [官网](https://gateway.aci.dev) · 组织维护
+⭐ 181 · TypeScript · Apache-2.0 · 推送 2025-12-12 · [GitHub](https://github.com/aipotheosis-labs/gate22) · [官网](https://gateway.aci.dev) · 组织维护
 
 **面向团队的开源 MCP 网关与控制平面，治理 agent 工具权限与审计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aipotheosis-labs/gate22 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 179 --> 181
-    line [180, 180]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 179 --> 182
+    line [180, 181]
 ```
 
-2026-10-18 180 → 2026-10-23 180（+0）
+2026-10-18 180 → 2026-10-24 181（+1）
 
 
 ---

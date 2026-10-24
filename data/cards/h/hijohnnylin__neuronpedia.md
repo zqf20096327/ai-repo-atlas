@@ -1,6 +1,6 @@
 # hijohnnylin/neuronpedia
 
-⭐ 1,179 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/hijohnnylin/neuronpedia) · [官网](https://neuronpedia.org) · 组织维护
+⭐ 1,179 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/hijohnnylin/neuronpedia) · [官网](https://neuronpedia.org) · 组织维护
 
 **面向机制可解释性研究的开源平台：SAE 特征浏览、激活测试与归因图**
 
@@ -46,13 +46,13 @@ Neuronpedia 是开源的可解释性（interpretability）平台，提供 SAE �
 
 ```mermaid
 xychart-beta
-    title "hijohnnylin/neuronpedia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "hijohnnylin/neuronpedia 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1169 --> 1180
-    line [1170, 1176, 1178, 1179]
+    line [1170, 1176, 1178, 1179, 1179]
 ```
 
-2026-10-18 1,170 → 2026-10-23 1,179（+9）
+2026-10-18 1,170 → 2026-10-24 1,179（+9）
 
 
 ---

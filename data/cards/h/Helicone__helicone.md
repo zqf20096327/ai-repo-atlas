@@ -1,6 +1,6 @@
 # Helicone/helicone
 
-⭐ 6,233 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Helicone/helicone) · [官网](https://www.helicone.ai) · 组织维护
+⭐ 6,235 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Helicone/helicone) · [官网](https://www.helicone.ai) · 组织维护
 
 **开源 LLM 可观测性与 AI 网关平台，一行代码接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Helicone/helicone 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6225 --> 6234
-    line [6226, 6227, 6230, 6233]
+    title "Helicone/helicone 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6225 --> 6236
+    line [6226, 6227, 6230, 6233, 6235]
 ```
 
-2026-10-18 6,226 → 2026-10-23 6,233（+7）
+2026-10-18 6,226 → 2026-10-24 6,235（+9）
 
 
 ---

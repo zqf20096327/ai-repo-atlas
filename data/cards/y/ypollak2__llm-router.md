@@ -1,6 +1,6 @@
 # ypollak2/llm-router
 
-⭐ 119 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ypollak2/llm-router) · 个人维护
+⭐ 119 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ypollak2/llm-router) · 个人维护
 
 **为 AI 编程工具跨免费/付费模型分层路由的本地路由器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ypollak2/llm-router 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "ypollak2/llm-router 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 116 --> 120
-    line [117, 118, 119]
+    line [117, 118, 119, 119]
 ```
 
-2026-10-18 117 → 2026-10-23 119（+2）
+2026-10-18 117 → 2026-10-24 119（+2）
 
 
 ---

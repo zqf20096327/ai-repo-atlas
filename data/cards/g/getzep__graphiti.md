@@ -1,6 +1,6 @@
 # getzep/graphiti
 
-⭐ 32,141 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/getzep/graphiti) · [官网](https://help.getzep.com/graphiti) · 组织维护
+⭐ 32,166 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/getzep/graphiti) · [官网](https://help.getzep.com/graphiti) · 组织维护
 
 **面向 AI agent 的时序知识图谱构建与查询框架**
 
@@ -51,13 +51,13 @@ Graphiti 是构建时序上下文知识图谱的开源框架：从结构化与�
 
 ```mermaid
 xychart-beta
-    title "getzep/graphiti 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 31861 --> 32166
-    line [31886, 32046, 32109, 32141]
+    title "getzep/graphiti 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 31858 --> 32194
+    line [31886, 32046, 32109, 32141, 32166]
 ```
 
-2026-10-18 31,886 → 2026-10-23 32,141（+255）
+2026-10-18 31,886 → 2026-10-24 32,166（+280）
 
 
 ---

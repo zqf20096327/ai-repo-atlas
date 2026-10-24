@@ -40,6 +40,18 @@
 > L8: A powerful starter kit for building AI-powered video applications. Built with Next.js, Remotion, and fal.ai, this to
 > L32: - fal.ai - AI model infrastructure
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fal-ai-community/video-starter-kit 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 2407 --> 2409
+    line [2408, 2408]
+```
+
+2026-10-23 2,408 → 2026-10-24 2,408（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6b6d0aa6a97e` · [字段定义](../../DATASET.md)*

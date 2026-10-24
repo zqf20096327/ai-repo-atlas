@@ -1,6 +1,6 @@
 # caipe-io/ai-platform-engineering
 
-⭐ 428 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/caipe-io/ai-platform-engineering) · [官网](https://caipe.io) · 组织维护
+⭐ 429 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/caipe-io/ai-platform-engineering) · [官网](https://caipe.io) · 组织维护
 
 **构建、治理与运行 AI agent 及工作流的开源平台**
 
@@ -43,13 +43,13 @@ CAIPE 是面向平台工程的开源 AI 平台，定位为构建、部署、治�
 
 ```mermaid
 xychart-beta
-    title "caipe-io/ai-platform-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 425 --> 429
-    line [426, 427, 428]
+    title "caipe-io/ai-platform-engineering 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 425 --> 430
+    line [426, 427, 428, 429]
 ```
 
-2026-10-18 426 → 2026-10-23 428（+2）
+2026-10-18 426 → 2026-10-24 429（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # HolmesGPT/holmesgpt
 
-⭐ 3,666 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/HolmesGPT/holmesgpt) · [官网](https://holmesgpt.dev/) · 组织维护
+⭐ 3,674 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/HolmesGPT/holmesgpt) · [官网](https://holmesgpt.dev/) · 组织维护
 
 **开源 SRE AI Agent：调查生产事故并定位根因**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HolmesGPT/holmesgpt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3613 --> 3670
-    line [3617, 3638, 3652, 3666]
+    title "HolmesGPT/holmesgpt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3612 --> 3679
+    line [3617, 3638, 3652, 3666, 3674]
 ```
 
-2026-10-18 3,617 → 2026-10-23 3,666（+49）
+2026-10-18 3,617 → 2026-10-24 3,674（+57）
 
 
 ---

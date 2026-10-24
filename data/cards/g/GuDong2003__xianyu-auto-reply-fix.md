@@ -1,6 +1,6 @@
 # GuDong2003/xianyu-auto-reply-fix
 
-⭐ 2,809 · Python · AGPL-3.0 · 推送 2026-08-22 · [GitHub](https://github.com/GuDong2003/xianyu-auto-reply-fix) · 个人维护 · 中文 README
+⭐ 2,813 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/GuDong2003/xianyu-auto-reply-fix) · 个人维护 · 中文 README
 
 **闲鱼卖家的自托管客服管理系统：多账号、AI 自动回复、自动发货**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GuDong2003/xianyu-auto-reply-fix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2776 --> 2812
-    line [2779, 2782, 2788, 2809]
+    title "GuDong2003/xianyu-auto-reply-fix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2776 --> 2816
+    line [2779, 2782, 2788, 2809, 2813]
 ```
 
-2026-10-18 2,779 → 2026-10-23 2,809（+30）
+2026-10-18 2,779 → 2026-10-24 2,813（+34）
 
 
 ---

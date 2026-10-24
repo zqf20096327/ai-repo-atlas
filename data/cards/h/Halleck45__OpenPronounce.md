@@ -1,6 +1,6 @@
 # Halleck45/OpenPronounce
 
-⭐ 149 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Halleck45/OpenPronounce) · 个人维护
+⭐ 152 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Halleck45/OpenPronounce) · 个人维护
 
 **自托管英语音素级发音评测库：录音+文本→评分与错误定位**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Halleck45/OpenPronounce 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 132 --> 150
-    line [133, 142, 145, 149]
+    title "Halleck45/OpenPronounce 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 132 --> 153
+    line [133, 142, 145, 149, 152]
 ```
 
-2026-10-18 133 → 2026-10-23 149（+16）
+2026-10-18 133 → 2026-10-24 152（+19）
 
 
 ---

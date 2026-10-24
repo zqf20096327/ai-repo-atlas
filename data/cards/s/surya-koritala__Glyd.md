@@ -1,6 +1,6 @@
 # surya-koritala/Glyd
 
-⭐ 320 · Rust · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/surya-koritala/Glyd) · [官网](https://github.com/surya-koritala/Glyd#readme) · 个人维护
+⭐ 321 · Rust · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/surya-koritala/Glyd) · [官网](https://github.com/surya-koritala/Glyd#readme) · 个人维护
 
 **给 LLM 推理用户的无损压缩运行时：省约三成 GPU 显存**
 
@@ -45,13 +45,13 @@ Glyd 将 bf16 模型权重与 KV cache 以更少位数驻留 GPU 显存，并在
 
 ```mermaid
 xychart-beta
-    title "surya-koritala/Glyd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "surya-koritala/Glyd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 244 --> 342
-    line [252, 255, 334, 320]
+    line [252, 255, 334, 320, 321]
 ```
 
-2026-10-18 252 → 2026-10-23 320（+68）
+2026-10-18 252 → 2026-10-24 321（+69）
 
 
 ---

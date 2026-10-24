@@ -1,6 +1,6 @@
 # open-webui/computer
 
-⭐ 702 · Python · NOASSERTION · 推送 2026-08-17 · [GitHub](https://github.com/open-webui/computer) · [官网](https://openwebui.com/computer) · 组织维护 · 中文 README
+⭐ 704 · Python · NOASSERTION · 推送 2026-08-17 · [GitHub](https://github.com/open-webui/computer) · [官网](https://openwebui.com/computer) · 组织维护 · 中文 README
 
 **把整台电脑（文件/终端/git/AI agent）服务到任意浏览器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-webui/computer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 682 --> 703
-    line [683, 690, 697, 702]
+    title "open-webui/computer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 681 --> 706
+    line [683, 690, 697, 702, 704]
 ```
 
-2026-10-18 683 → 2026-10-23 702（+19）
+2026-10-18 683 → 2026-10-24 704（+21）
 
 
 ---

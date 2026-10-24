@@ -1,6 +1,6 @@
 # amitshekhariitbhu/build-your-own-x-machine-learning
 
-⭐ 748 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning) · [官网](https://outcomeschool.com) · 个人维护
+⭐ 751 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning) · [官网](https://outcomeschool.com) · 个人维护
 
 **机器学习从零实现教程清单：覆盖算法到 LLM 的项目列表**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "amitshekhariitbhu/build-your-own-x-machine-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 743 --> 749
-    line [744, 747, 748, 748]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 743 --> 752
+    line [744, 747, 748, 751]
 ```
 
-2026-10-18 744 → 2026-10-23 748（+4）
+2026-10-18 744 → 2026-10-24 751（+7）
 
 
 ---

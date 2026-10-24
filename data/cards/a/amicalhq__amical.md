@@ -1,6 +1,6 @@
 # amicalhq/amical
 
-⭐ 1,565 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/amicalhq/amical) · [官网](https://amical.ai) · 组织维护
+⭐ 1,567 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/amicalhq/amical) · [官网](https://amical.ai) · 组织维护
 
 **本地优先的 AI 听写与语音笔记桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amicalhq/amical 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1557 --> 1566
-    line [1558, 1561, 1564, 1565]
+    title "amicalhq/amical 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1557 --> 1568
+    line [1558, 1561, 1564, 1565, 1567]
 ```
 
-2026-10-18 1,558 → 2026-10-23 1,565（+7）
+2026-10-18 1,558 → 2026-10-24 1,567（+9）
 
 
 ---

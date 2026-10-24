@@ -1,6 +1,6 @@
 # robotology/yarp
 
-⭐ 605 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/robotology/yarp) · [官网](http://www.yarp.it) · 组织维护
+⭐ 606 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/robotology/yarp) · [官网](http://www.yarp.it) · 组织维护
 
 **机器人进程间通信与设备接口的中间件库和工具集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "robotology/yarp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 603 --> 606
-    line [604, 605]
+    title "robotology/yarp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 603 --> 607
+    line [604, 605, 606]
 ```
 
-2026-10-18 604 → 2026-10-23 605（+1）
+2026-10-18 604 → 2026-10-24 606（+2）
 
 
 ---

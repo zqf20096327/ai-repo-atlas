@@ -1,6 +1,6 @@
 # jiabaobei/memory-bridge
 
-⭐ 366 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/jiabaobei/memory-bridge) · 个人维护 · 中文 README
+⭐ 378 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/jiabaobei/memory-bridge) · 个人维护 · 中文 README
 
 **跨设备共享的 AI 语义记忆层：记忆跟人走而非跟 App 走**
 
@@ -46,13 +46,13 @@ CDSMP 架构的官方工程实现：为 AI 提供跨手机/PC/平板的共享语
 
 ```mermaid
 xychart-beta
-    title "jiabaobei/memory-bridge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 339 --> 368
-    line [341, 357, 365, 366]
+    title "jiabaobei/memory-bridge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 338 --> 381
+    line [341, 357, 365, 366, 378]
 ```
 
-2026-10-18 341 → 2026-10-23 366（+25）
+2026-10-18 341 → 2026-10-24 378（+37）
 
 
 ---

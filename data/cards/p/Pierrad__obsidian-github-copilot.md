@@ -1,6 +1,6 @@
 # Pierrad/obsidian-github-copilot
 
-⭐ 498 · TypeScript · Apache-2.0 · 推送 2026-05-03 · [GitHub](https://github.com/Pierrad/obsidian-github-copilot) · 个人维护
+⭐ 499 · TypeScript · Apache-2.0 · 推送 2026-05-03 · [GitHub](https://github.com/Pierrad/obsidian-github-copilot) · 个人维护
 
 **在 Obsidian 编辑器中接入 GitHub Copilot 的插件（补全+聊天）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Pierrad/obsidian-github-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 497 --> 499
-    line [498, 498]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 497 --> 500
+    line [498, 499]
 ```
 
-2026-10-18 498 → 2026-10-23 498（+0）
+2026-10-18 498 → 2026-10-24 499（+1）
 
 
 ---

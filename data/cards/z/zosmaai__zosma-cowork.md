@@ -45,12 +45,12 @@ MIT 许可的 work-focused AI agent 平台，供个人、小团队与企业在�
 ```mermaid
 xychart-beta
     title "zosmaai/zosma-cowork 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 121 --> 123
     line [122, 122]
 ```
 
-2026-10-18 122 → 2026-10-23 122（+0）
+2026-10-18 122 → 2026-10-24 122（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # slive777/OpenAver
 
-⭐ 305 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/slive777/OpenAver) · 个人维护 · 中文 README
+⭐ 310 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/slive777/OpenAver) · 个人维护 · 中文 README
 
 **给影视收藏者的本地刮削与封面墙浏览桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "slive777/OpenAver 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 304 --> 307
-    line [305, 306, 305, 305]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 304 --> 311
+    line [305, 306, 305, 310]
 ```
 
-2026-10-18 305 → 2026-10-23 305（+0）
+2026-10-18 305 → 2026-10-24 310（+5）
 
 
 ---

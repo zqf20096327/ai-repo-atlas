@@ -1,6 +1,6 @@
 # guoqingbao/xinfer
 
-⭐ 339 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/guoqingbao/xinfer) · [官网](http://guoqingbao.github.io/xinfer/) · 个人维护 · 中文 README
+⭐ 341 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/guoqingbao/xinfer) · [官网](http://guoqingbao.github.io/xinfer/) · 个人维护 · 中文 README
 
 **纯 Rust 实现的 LLM 推理运行时：无 Python/PyTorch 依赖**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guoqingbao/xinfer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 334 --> 340
-    line [335, 338, 339]
+    title "guoqingbao/xinfer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 334 --> 342
+    line [335, 338, 339, 341]
 ```
 
-2026-10-18 335 → 2026-10-23 339（+4）
+2026-10-18 335 → 2026-10-24 341（+6）
 
 
 ---

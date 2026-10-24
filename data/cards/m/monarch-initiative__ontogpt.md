@@ -1,6 +1,6 @@
 # monarch-initiative/ontogpt
 
-⭐ 1,067 · Jupyter Notebook · BSD-3-Clause · 推送 2026-09-10 · [GitHub](https://github.com/monarch-initiative/ontogpt) · [官网](https://monarch-initiative.github.io/ontogpt/) · 组织维护
+⭐ 1,071 · Jupyter Notebook · BSD-3-Clause · 推送 2026-09-10 · [GitHub](https://github.com/monarch-initiative/ontogpt) · [官网](https://monarch-initiative.github.io/ontogpt/) · 组织维护
 
 **用 LLM 与本体从文本抽取结构化信息的 Python 工具（SPIRES）**
 
@@ -46,13 +46,13 @@ Monarch Initiative 维护的 Python 包：基于 LinkML schema 的 SPIRES 方法
 
 ```mermaid
 xychart-beta
-    title "monarch-initiative/ontogpt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1057 --> 1068
-    line [1058, 1062, 1064, 1067]
+    title "monarch-initiative/ontogpt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1057 --> 1072
+    line [1058, 1062, 1064, 1067, 1071]
 ```
 
-2026-10-18 1,058 → 2026-10-23 1,067（+9）
+2026-10-18 1,058 → 2026-10-24 1,071（+13）
 
 
 ---

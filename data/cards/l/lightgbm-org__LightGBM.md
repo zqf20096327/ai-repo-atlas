@@ -1,6 +1,6 @@
 # lightgbm-org/LightGBM
 
-⭐ 18,903 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lightgbm-org/LightGBM) · [官网](https://lightgbm.readthedocs.io/en/latest/) · 组织维护
+⭐ 18,909 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lightgbm-org/LightGBM) · [官网](https://lightgbm.readthedocs.io/en/latest/) · 组织维护
 
 **机器学习用户：基于决策树的分布式梯度提升框架**
 
@@ -50,13 +50,13 @@ LightGBM 是基于决策树算法的梯度提升框架（GBT/GBDT/GBRT/GBM/MART�
 
 ```mermaid
 xychart-beta
-    title "lightgbm-org/LightGBM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 18888 --> 18904
-    line [18889, 18892, 18898, 18903]
+    title "lightgbm-org/LightGBM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 18887 --> 18911
+    line [18889, 18892, 18898, 18903, 18909]
 ```
 
-2026-10-18 18,889 → 2026-10-23 18,903（+14）
+2026-10-18 18,889 → 2026-10-24 18,909（+20）
 
 
 ---

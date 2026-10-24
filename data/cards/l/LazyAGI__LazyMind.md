@@ -1,6 +1,6 @@
 # LazyAGI/LazyMind
 
-⭐ 341 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/LazyAGI/LazyMind) · 组织维护 · 中文 README
+⭐ 355 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/LazyAGI/LazyMind) · 组织维护 · 中文 README
 
 **面向知识密集工作的 AI Skill 运行时，交付可编辑成果**
 
@@ -46,13 +46,13 @@ LazyMind 是一个 AI Skill Runtime，将知识库、可执行 Skills、工作�
 
 ```mermaid
 xychart-beta
-    title "LazyAGI/LazyMind 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 228 --> 351
-    line [238, 278, 324, 341]
+    title "LazyAGI/LazyMind 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 227 --> 366
+    line [238, 278, 324, 341, 355]
 ```
 
-2026-10-18 238 → 2026-10-23 341（+103）
+2026-10-18 238 → 2026-10-24 355（+117）
 
 
 ---

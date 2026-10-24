@@ -1,6 +1,6 @@
 # milvus-io/milvus
 
-⭐ 46,451 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/milvus-io/milvus) · [官网](https://milvus.io) · 组织维护
+⭐ 46,461 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/milvus-io/milvus) · [官网](https://milvus.io) · 组织维护
 
 **面向 AI 应用的分布式向量数据库：存储并检索大规模向量**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "milvus-io/milvus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 46403 --> 46460
-    line [46407, 46435, 46456, 46451]
+    title "milvus-io/milvus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 46402 --> 46466
+    line [46407, 46435, 46456, 46451, 46461]
 ```
 
-2026-10-18 46,407 → 2026-10-23 46,451（+44）
+2026-10-18 46,407 → 2026-10-24 46,461（+54）
 
 
 ---

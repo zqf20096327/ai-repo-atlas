@@ -1,6 +1,6 @@
 # microsoft/work-iq
 
-⭐ 1,041 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/work-iq) · 组织维护
+⭐ 1,041 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/work-iq) · 组织维护
 
 **连接 AI 助手与 Microsoft 365 数据的 MCP Server 与 CLI 插件集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/work-iq 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "microsoft/work-iq 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1033 --> 1042
-    line [1034, 1037, 1038, 1041]
+    line [1034, 1037, 1038, 1041, 1041]
 ```
 
-2026-10-18 1,034 → 2026-10-23 1,041（+7）
+2026-10-18 1,034 → 2026-10-24 1,041（+7）
 
 
 ---

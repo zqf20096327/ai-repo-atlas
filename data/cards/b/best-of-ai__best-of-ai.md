@@ -1,6 +1,6 @@
 # best-of-ai/best-of-ai
 
-⭐ 745 · HTML · 推送 2026-10-22 · [GitHub](https://github.com/best-of-ai/best-of-ai) · [官网](https://bestofai.io) · 组织维护
+⭐ 745 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/best-of-ai/best-of-ai) · [官网](https://bestofai.io) · 组织维护
 
 **AI 工具策展目录：143 类 1318+ 工具的排名与分类清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "best-of-ai/best-of-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "best-of-ai/best-of-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 740 --> 746
-    line [742, 741, 743, 745]
+    line [742, 741, 743, 745, 745]
 ```
 
-2026-10-18 742 → 2026-10-23 745（+3）
+2026-10-18 742 → 2026-10-24 745（+3）
 
 
 ---

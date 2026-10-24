@@ -1,6 +1,6 @@
 # VigoZhao/AI-Visual-Prompt-Cookbook
 
-⭐ 801 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) · [官网](https://prompts.vigocreativeai.com/site/) · 个人维护 · 中文 README
+⭐ 804 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) · [官网](https://prompts.vigocreativeai.com/site/) · 个人维护 · 中文 README
 
 **AI 图像风格提示词库：172 个即插即用 style.json**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VigoZhao/AI-Visual-Prompt-Cookbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 785 --> 802
-    line [786, 792, 797, 801]
+    title "VigoZhao/AI-Visual-Prompt-Cookbook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 785 --> 805
+    line [786, 792, 797, 801, 804]
 ```
 
-2026-10-18 786 → 2026-10-23 801（+15）
+2026-10-18 786 → 2026-10-24 804（+18）
 
 
 ---

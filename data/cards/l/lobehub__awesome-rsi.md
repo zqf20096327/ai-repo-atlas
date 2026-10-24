@@ -1,6 +1,6 @@
 # lobehub/awesome-rsi
 
-⭐ 847 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/awesome-rsi) · 组织维护
+⭐ 862 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/awesome-rsi) · 组织维护
 
 **递归自我改进（RSI）研究文献策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lobehub/awesome-rsi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 757 --> 855
-    line [765, 824, 840, 847]
+    title "lobehub/awesome-rsi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 756 --> 871
+    line [765, 824, 840, 847, 862]
 ```
 
-2026-10-18 765 → 2026-10-23 847（+82）
+2026-10-18 765 → 2026-10-24 862（+97）
 
 
 ---

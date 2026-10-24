@@ -1,6 +1,6 @@
 # skyzh/tiny-llm
 
-⭐ 4,786 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/skyzh/tiny-llm) · [官网](https://skyzh.github.io/tiny-llm/) · 个人维护
+⭐ 4,787 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/skyzh/tiny-llm) · [官网](https://skyzh.github.io/tiny-llm/) · 个人维护
 
 **面向系统工程师的 LLM 推理系统动手课程（Apple Silicon 上构建 mini vLLM）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "skyzh/tiny-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 4772 --> 4787
-    line [4773, 4777, 4786]
+    title "skyzh/tiny-llm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4772 --> 4788
+    line [4773, 4777, 4786, 4787]
 ```
 
-2026-10-18 4,773 → 2026-10-23 4,786（+13）
+2026-10-18 4,773 → 2026-10-24 4,787（+14）
 
 
 ---

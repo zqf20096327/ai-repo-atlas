@@ -1,6 +1,6 @@
 # mblode/agent-skills
 
-⭐ 152 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mblode/agent-skills) · [官网](https://blode.co/agent-skills) · 个人维护
+⭐ 158 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mblode/agent-skills) · [官网](https://blode.co/agent-skills) · 个人维护
 
 **面向编码代理的按需技能集：UI 审计、排版、文档、PR 审查与发布**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mblode/agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 150 --> 153
-    line [151, 152]
+    title "mblode/agent-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 150 --> 159
+    line [151, 152, 158]
 ```
 
-2026-10-18 151 → 2026-10-23 152（+1）
+2026-10-18 151 → 2026-10-24 158（+7）
 
 
 ---

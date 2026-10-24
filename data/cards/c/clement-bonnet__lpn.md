@@ -44,13 +44,13 @@ Latent Program Network（LPN）的论文官方实现：一种归纳式程序合�
 
 ```mermaid
 xychart-beta
-    title "clement-bonnet/lpn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "clement-bonnet/lpn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 114 --> 117
-    line [115, 116]
+    line [115, 116, 116]
 ```
 
-2026-10-18 115 → 2026-10-23 116（+1）
+2026-10-18 115 → 2026-10-24 116（+1）
 
 
 ---

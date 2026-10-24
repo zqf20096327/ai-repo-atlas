@@ -1,6 +1,6 @@
 # SensorsIot/Embedded-AI-Harness
 
-⭐ 270 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/SensorsIot/Embedded-AI-Harness) · 个人维护
+⭐ 271 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/SensorsIot/Embedded-AI-Harness) · 个人维护
 
 **让 AI 在真实 ESP32 硬件上闭环写码、烧录、测试的开发工具链**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SensorsIot/Embedded-AI-Harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 260 --> 271
-    line [261, 265, 269, 270]
+    title "SensorsIot/Embedded-AI-Harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 260 --> 272
+    line [261, 265, 269, 270, 271]
 ```
 
-2026-10-18 261 → 2026-10-23 270（+9）
+2026-10-18 261 → 2026-10-24 271（+10）
 
 
 ---

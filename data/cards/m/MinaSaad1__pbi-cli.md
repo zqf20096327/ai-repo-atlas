@@ -1,6 +1,6 @@
 # MinaSaad1/pbi-cli
 
-⭐ 475 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MinaSaad1/pbi-cli) · [官网](https://mina-saad.com/pbi-cli) · 个人维护
+⭐ 476 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MinaSaad1/pbi-cli) · [官网](https://mina-saad.com/pbi-cli) · 个人维护
 
 **面向 Claude Code 的 Power BI CLI：语义模型与报表操作技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MinaSaad1/pbi-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 469 --> 476
-    line [470, 473, 474, 475]
+    title "MinaSaad1/pbi-cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 469 --> 477
+    line [470, 473, 474, 475, 476]
 ```
 
-2026-10-18 470 → 2026-10-23 475（+5）
+2026-10-18 470 → 2026-10-24 476（+6）
 
 
 ---

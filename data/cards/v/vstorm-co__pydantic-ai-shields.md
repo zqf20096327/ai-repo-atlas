@@ -1,6 +1,6 @@
 # vstorm-co/pydantic-ai-shields
 
-⭐ 95 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/vstorm-co/pydantic-ai-shields) · [官网](https://vstorm-co.github.io/pydantic-ai-shields/) · 组织维护
+⭐ 94 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/vstorm-co/pydantic-ai-shields) · [官网](https://vstorm-co.github.io/pydantic-ai-shields/) · 组织维护
 
 **为 Pydantic AI agent 提供即插式安全护栏库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vstorm-co/pydantic-ai-shields 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 93 --> 96
+    line [95, 94]
 ```
 
-2026-10-18 95 → 2026-10-23 95（+0）
+2026-10-18 95 → 2026-10-24 94（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dalisoft/awesome-hosting
 
-⭐ 947 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dalisoft/awesome-hosting) · 个人维护
+⭐ 946 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dalisoft/awesome-hosting) · 个人维护
 
 **按最低套餐价格排序的云托管服务清单（Web/BaaS/容器/VPS/数据库等）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "dalisoft/awesome-hosting 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "dalisoft/awesome-hosting 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 942 --> 948
-    line [943, 944, 946, 947]
+    line [943, 944, 946, 947, 946]
 ```
 
-2026-10-18 943 → 2026-10-23 947（+4）
+2026-10-18 943 → 2026-10-24 946（+3）
 
 
 ---

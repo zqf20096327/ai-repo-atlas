@@ -1,6 +1,6 @@
 # Zleap-AI/SAG
 
-⭐ 2,625 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Zleap-AI/SAG) · [官网](https://zleap.com) · 组织维护 · 中文 README
+⭐ 2,630 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Zleap-AI/SAG) · [官网](https://zleap.com) · 组织维护 · 中文 README
 
 **面向个人与 Agent 的本地优先知识库应用，含 SAG 检索架构**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zleap-AI/SAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2594 --> 2627
-    line [2596, 2600, 2612, 2625]
+    title "Zleap-AI/SAG 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2593 --> 2633
+    line [2596, 2600, 2612, 2625, 2630]
 ```
 
-2026-10-18 2,596 → 2026-10-23 2,625（+29）
+2026-10-18 2,596 → 2026-10-24 2,630（+34）
 
 
 ---

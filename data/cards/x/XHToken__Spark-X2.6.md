@@ -1,6 +1,6 @@
 # XHToken/Spark-X2.6
 
-⭐ 833 · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/XHToken/Spark-X2.6) · [官网](https://xhtoken.ai/) · 组织维护 · 中文 README
+⭐ 841 · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/XHToken/Spark-X2.6) · [官网](https://xhtoken.ai/) · 组织维护 · 中文 README
 
 **4B 参数开源 LLM 系列，面向端侧 agent 与编码任务**
 
@@ -44,13 +44,13 @@ Spark-X2.6-4B 是 SparkLLM Team 发布的 4B 参数通用语言模型，架构�
 
 ```mermaid
 xychart-beta
-    title "XHToken/Spark-X2.6 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
-    y-axis "stars" 824 --> 834
-    line [825, 833]
+    title "XHToken/Spark-X2.6 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 824 --> 842
+    line [825, 833, 841]
 ```
 
-2026-10-22 825 → 2026-10-23 833（+8）
+2026-10-22 825 → 2026-10-24 841（+16）
 
 
 ---

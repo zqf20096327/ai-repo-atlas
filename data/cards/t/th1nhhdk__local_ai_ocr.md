@@ -1,6 +1,6 @@
 # th1nhhdk/local_ai_ocr
 
-⭐ 885 · Python · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/th1nhhdk/local_ai_ocr) · 个人维护 · 中文 README
+⭐ 888 · Python · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/th1nhhdk/local_ai_ocr) · 个人维护 · 中文 README
 
 **本地离线 OCR 软件：用 DeepSeek-OCR-2 识别图片与 PDF**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "th1nhhdk/local_ai_ocr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 881 --> 886
-    line [882, 883, 885]
+    title "th1nhhdk/local_ai_ocr 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 881 --> 889
+    line [882, 883, 885, 888]
 ```
 
-2026-10-18 882 → 2026-10-23 885（+3）
+2026-10-18 882 → 2026-10-24 888（+6）
 
 
 ---

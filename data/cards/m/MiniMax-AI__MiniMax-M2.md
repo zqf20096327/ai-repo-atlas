@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-M2
 
-⭐ 2,601 · NOASSERTION · 推送 2025-11-13 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
+⭐ 2,602 · NOASSERTION · 推送 2025-11-13 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
 
 **面向编码与 agent 工作流的开源 MoE 大模型权重（230B/10B 激活）**
 
@@ -45,12 +45,12 @@ MiniMax-M2 是 MiniMax 发布并开源的大语言模型权重仓库，总参数
 ```mermaid
 xychart-beta
     title "MiniMax-AI/MiniMax-M2 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 2600 --> 2606
-    line [2605, 2603, 2601, 2601]
+    line [2605, 2603, 2601, 2602]
 ```
 
-2026-10-18 2,605 → 2026-10-23 2,601（-4）
+2026-10-18 2,605 → 2026-10-24 2,602（-3）
 
 
 ---

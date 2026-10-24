@@ -1,6 +1,6 @@
 # bytedoger/awesome-OpenPrice
 
-⭐ 1,035 · TypeScript · NOASSERTION · 推送 2026-08-27 · [GitHub](https://github.com/bytedoger/awesome-OpenPrice) · [官网](https://www.openprice.cc) · 个人维护 · 中文 README
+⭐ 1,040 · TypeScript · NOASSERTION · 推送 2026-08-27 · [GitHub](https://github.com/bytedoger/awesome-OpenPrice) · [官网](https://www.openprice.cc) · 个人维护 · 中文 README
 
 **AI 订阅价格聚合与卡网渠道比价平台（开源自部署）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytedoger/awesome-OpenPrice 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1000 --> 1038
-    line [1003, 1007, 1025, 1035]
+    title "bytedoger/awesome-OpenPrice 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1000 --> 1043
+    line [1003, 1007, 1025, 1035, 1040]
 ```
 
-2026-10-18 1,003 → 2026-10-23 1,035（+32）
+2026-10-18 1,003 → 2026-10-24 1,040（+37）
 
 
 ---

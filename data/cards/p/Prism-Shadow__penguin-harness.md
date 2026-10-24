@@ -1,6 +1,6 @@
 # Prism-Shadow/penguin-harness
 
-⭐ 2,916 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Prism-Shadow/penguin-harness) · [官网](https://penguin.ooo/) · 组织维护 · 中文 README
+⭐ 2,929 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Prism-Shadow/penguin-harness) · [官网](https://penguin.ooo/) · 组织维护 · 中文 README
 
 **开发者用的智能体自进化（RSI）框架，让 agent 迭代改进 harness**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Prism-Shadow/penguin-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2780 --> 2928
-    line [2792, 2860, 2900, 2916]
+    title "Prism-Shadow/penguin-harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2779 --> 2942
+    line [2792, 2860, 2900, 2916, 2929]
 ```
 
-2026-10-18 2,792 → 2026-10-23 2,916（+124）
+2026-10-18 2,792 → 2026-10-24 2,929（+137）
 
 
 ---

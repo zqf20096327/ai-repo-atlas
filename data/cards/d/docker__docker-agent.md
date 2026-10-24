@@ -1,6 +1,6 @@
 # docker/docker-agent
 
-⭐ 4,597 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/docker/docker-agent) · [官网](https://docker.github.io/docker-agent/) · 组织维护
+⭐ 4,602 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/docker/docker-agent) · [官网](https://docker.github.io/docker-agent/) · 组织维护
 
 **Docker 官方的 YAML 声明式 AI Agent 构建与运行时**
 
@@ -44,13 +44,13 @@ Docker Engineering 开发的 docker CLI 插件（Docker Desktop 4.63+ 预装）�
 
 ```mermaid
 xychart-beta
-    title "docker/docker-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4550 --> 4601
-    line [4554, 4570, 4586, 4597]
+    title "docker/docker-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4550 --> 4606
+    line [4554, 4570, 4586, 4597, 4602]
 ```
 
-2026-10-18 4,554 → 2026-10-23 4,597（+43）
+2026-10-18 4,554 → 2026-10-24 4,602（+48）
 
 
 ---

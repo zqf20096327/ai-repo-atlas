@@ -1,6 +1,6 @@
 # google-deepmind/materials_discovery
 
-⭐ 1,246 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/google-deepmind/materials_discovery) · 组织维护
+⭐ 1,247 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/google-deepmind/materials_discovery) · 组织维护
 
 **GNoME 稳定材料数据集与模型定义（52万+无机晶体）**
 
@@ -46,12 +46,12 @@ Google DeepMind 材料科学项目：发布通过图网络（GNoME）发现的 3
 ```mermaid
 xychart-beta
     title "google-deepmind/materials_discovery 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1244 --> 1247
-    line [1245, 1246, 1246]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 1244 --> 1248
+    line [1245, 1246, 1247]
 ```
 
-2026-10-18 1,245 → 2026-10-23 1,246（+1）
+2026-10-18 1,245 → 2026-10-24 1,247（+2）
 
 
 ---

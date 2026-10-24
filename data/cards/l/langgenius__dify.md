@@ -1,6 +1,6 @@
 # langgenius/dify
 
-⭐ 159,266 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/langgenius/dify) · [官网](https://dify.ai) · 组织维护
+⭐ 159,365 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/langgenius/dify) · [官网](https://dify.ai) · 组织维护
 
 **给团队的 LLM 应用开发平台：可视化构建工作流、RAG 与 Agent**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "langgenius/dify 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 158656 --> 159321
-    line [158711, 158912, 159130, 159266]
+    title "langgenius/dify 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 158646 --> 159430
+    line [158711, 158912, 159130, 159266, 159365]
 ```
 
-2026-10-18 158,711 → 2026-10-23 159,266（+555）
+2026-10-18 158,711 → 2026-10-24 159,365（+654）
 
 
 ---

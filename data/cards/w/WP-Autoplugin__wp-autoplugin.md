@@ -46,12 +46,12 @@ WordPress 管理后台内的代理式编码工作流：通过 Plan → Code → 
 ```mermaid
 xychart-beta
     title "WP-Autoplugin/wp-autoplugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 396 --> 398
     line [397, 397]
 ```
 
-2026-10-18 397 → 2026-10-23 397（+0）
+2026-10-18 397 → 2026-10-24 397（+0）
 
 
 ---

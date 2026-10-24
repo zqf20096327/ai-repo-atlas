@@ -1,6 +1,6 @@
 # ShadowSwaps/REA-Reconstruction-Companion
 
-⭐ 107 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) · 个人维护
+⭐ 109 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) · 个人维护
 
 **面向 Claude Code/Codex 的软件逆向重建 Agent 技能插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ShadowSwaps/REA-Reconstruction-Companion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 66 --> 110
-    line [69, 82, 98, 107]
+    title "ShadowSwaps/REA-Reconstruction-Companion 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 65 --> 113
+    line [69, 82, 98, 107, 109]
 ```
 
-2026-10-18 69 → 2026-10-23 107（+38）
+2026-10-18 69 → 2026-10-24 109（+40）
 
 
 ---

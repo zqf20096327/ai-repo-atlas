@@ -1,6 +1,6 @@
 # vava-nessa/free-coding-models
 
-⭐ 2,832 · HTML · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/vava-nessa/free-coding-models) · [官网](https://freecodingmodels.vercel.app) · 个人维护 · 中文 README
+⭐ 2,835 · HTML · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/vava-nessa/free-coding-models) · [官网](https://freecodingmodels.vercel.app) · 个人维护 · 中文 README
 
 **免费编码模型实时测评与选型 CLI：252 模型延迟排名并写入工具配置**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vava-nessa/free-coding-models 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2820 --> 2833
-    line [2821, 2823, 2830, 2832]
+    title "vava-nessa/free-coding-models 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2820 --> 2836
+    line [2821, 2823, 2830, 2832, 2835]
 ```
 
-2026-10-18 2,821 → 2026-10-23 2,832（+11）
+2026-10-18 2,821 → 2026-10-24 2,835（+14）
 
 
 ---

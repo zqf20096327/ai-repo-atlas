@@ -1,6 +1,6 @@
 # alexkroman/tiny-audio
 
-⭐ 174 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/alexkroman/tiny-audio) · [官网](https://huggingface.co/spaces/mazesmazes/tiny-audio) · 个人维护
+⭐ 175 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/alexkroman/tiny-audio) · [官网](https://huggingface.co/spaces/mazesmazes/tiny-audio) · 个人维护
 
 **可低成本训练的语音转文字 LLM 开源实现及配套课程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexkroman/tiny-audio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 172 --> 175
-    line [173, 174]
+    title "alexkroman/tiny-audio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 172 --> 176
+    line [173, 174, 175]
 ```
 
-2026-10-18 173 → 2026-10-23 174（+1）
+2026-10-18 173 → 2026-10-24 175（+2）
 
 
 ---

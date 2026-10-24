@@ -1,6 +1,6 @@
 # anthropics/fermats-last-theorem
 
-⭐ 1,285 · Lean · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/anthropics/fermats-last-theorem) · 组织维护
+⭐ 1,288 · Lean · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/anthropics/fermats-last-theorem) · 组织维护
 
 **Lean 4 机器检验的费马大定理完整证明研究工件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/fermats-last-theorem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1282 --> 1287
-    line [1283, 1284, 1286, 1285]
+    title "anthropics/fermats-last-theorem 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1282 --> 1289
+    line [1283, 1284, 1286, 1285, 1288]
 ```
 
-2026-10-18 1,283 → 2026-10-23 1,285（+2）
+2026-10-18 1,283 → 2026-10-24 1,288（+5）
 
 
 ---

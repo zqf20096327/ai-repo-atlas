@@ -1,6 +1,6 @@
 # deepchecks/deepchecks
 
-⭐ 4,066 · Python · NOASSERTION · 推送 2025-12-28 · [GitHub](https://github.com/deepchecks/deepchecks) · [官网](https://docs.deepchecks.com/stable) · 组织维护
+⭐ 4,067 · Python · NOASSERTION · 推送 2025-12-28 · [GitHub](https://github.com/deepchecks/deepchecks) · [官网](https://docs.deepchecks.com/stable) · 组织维护
 
 **ML 模型与数据持续验证测试库：测试、CI 与生产监控**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepchecks/deepchecks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 4063 --> 4067
-    line [4064, 4066]
+    title "deepchecks/deepchecks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4063 --> 4068
+    line [4064, 4066, 4067]
 ```
 
-2026-10-18 4,064 → 2026-10-23 4,066（+2）
+2026-10-18 4,064 → 2026-10-24 4,067（+3）
 
 
 ---

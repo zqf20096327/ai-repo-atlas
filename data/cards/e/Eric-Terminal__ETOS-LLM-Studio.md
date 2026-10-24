@@ -1,6 +1,6 @@
 # Eric-Terminal/ETOS-LLM-Studio
 
-⭐ 210 · Swift · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Eric-Terminal/ETOS-LLM-Studio) · 个人维护 · 中文 README
+⭐ 211 · Swift · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Eric-Terminal/ETOS-LLM-Studio) · 个人维护 · 中文 README
 
 **iOS/Apple Watch 原生 LLM 客户端：云端模型+本地 GGUF 推理与 Agent 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Eric-Terminal/ETOS-LLM-Studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 207 --> 211
-    line [208, 209, 210]
+    title "Eric-Terminal/ETOS-LLM-Studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 207 --> 212
+    line [208, 209, 210, 211]
 ```
 
-2026-10-18 208 → 2026-10-23 210（+2）
+2026-10-18 208 → 2026-10-24 211（+3）
 
 
 ---

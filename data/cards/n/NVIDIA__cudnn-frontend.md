@@ -1,6 +1,6 @@
 # NVIDIA/cudnn-frontend
 
-⭐ 979 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/cudnn-frontend) · [官网](https://docs.nvidia.com/deeplearning/cudnn/latest/) · 组织维护
+⭐ 982 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/cudnn-frontend) · [官网](https://docs.nvidia.com/deeplearning/cudnn/latest/) · 组织维护
 
 **cuDNN 的开源 C++/Python 前端与高性能 GPU 内核集合**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的 cuDNN 库入口层：提供 header-only C++ API 与 Python 绑�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cudnn-frontend 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 969 --> 980
-    line [970, 973, 975, 979]
+    title "NVIDIA/cudnn-frontend 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 969 --> 983
+    line [970, 973, 975, 979, 982]
 ```
 
-2026-10-18 970 → 2026-10-23 979（+9）
+2026-10-18 970 → 2026-10-24 982（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # deeplearning4j/deeplearning4j
 
-⭐ 14,273 · Java · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/deeplearning4j/deeplearning4j) · [官网](http://deeplearning4j.konduit.ai) · 组织维护
+⭐ 14,272 · Java · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/deeplearning4j/deeplearning4j) · [官网](http://deeplearning4j.konduit.ai) · 组织维护
 
 **JVM 平台的深度学习训练与部署工具套件**
 
@@ -53,13 +53,13 @@ Eclipse Deeplearning4J 是面向 JVM 的深度学习项目集合，覆盖从数�
 
 ```mermaid
 xychart-beta
-    title "deeplearning4j/deeplearning4j 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "deeplearning4j/deeplearning4j 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 14269 --> 14275
-    line [14270, 14272, 14274, 14273]
+    line [14270, 14272, 14274, 14273, 14272]
 ```
 
-2026-10-18 14,270 → 2026-10-23 14,273（+3）
+2026-10-18 14,270 → 2026-10-24 14,272（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/skills
 
-⭐ 182,994 · Python · 推送 2026-10-09 · [GitHub](https://github.com/anthropics/skills) · 组织维护
+⭐ 183,251 · Python · 推送 2026-10-09 · [GitHub](https://github.com/anthropics/skills) · 组织维护
 
 **为 Claude 提供 Agent Skills 示例、规范与模板的官方仓库**
 
@@ -52,13 +52,13 @@ Anthropic 官方的 Agent Skills 仓库：Skill 是含 SKILL.md（YAML frontmatt
 
 ```mermaid
 xychart-beta
-    title "anthropics/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 181608 --> 183120
-    line [181734, 182202, 182656, 182994]
+    title "anthropics/skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 181583 --> 183402
+    line [181734, 182202, 182656, 182994, 183251]
 ```
 
-2026-10-18 181,734 → 2026-10-23 182,994（+1,260）
+2026-10-18 181,734 → 2026-10-24 183,251（+1,517）
 
 
 ---

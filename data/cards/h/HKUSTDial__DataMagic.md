@@ -1,6 +1,6 @@
 # HKUSTDial/DataMagic
 
-⭐ 337 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/HKUSTDial/DataMagic) · [官网](https://datamagic.chat/) · 组织维护 · 中文 README
+⭐ 338 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HKUSTDial/DataMagic) · [官网](https://datamagic.chat/) · 组织维护 · 中文 README
 
 **139 张动态数据视频配方卡库，供编程智能体复用生成数据视频**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HKUSTDial/DataMagic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 325 --> 338
-    line [326, 333, 336, 337]
+    title "HKUSTDial/DataMagic 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 325 --> 339
+    line [326, 333, 336, 337, 338]
 ```
 
-2026-10-18 326 → 2026-10-23 337（+11）
+2026-10-18 326 → 2026-10-24 338（+12）
 
 
 ---

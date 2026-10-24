@@ -1,6 +1,6 @@
 # Visualize-ML/Book4_Power-of-Matrix
 
-⭐ 10,138 · Jupyter Notebook · 推送 2026-05-01 · [GitHub](https://github.com/Visualize-ML/Book4_Power-of-Matrix) · 组织维护 · 中文 README
+⭐ 10,140 · Jupyter Notebook · 推送 2026-05-01 · [GitHub](https://github.com/Visualize-ML/Book4_Power-of-Matrix) · 组织维护 · 中文 README
 
 **《矩阵力量》开源数学教材：线性代数到机器学习**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "Visualize-ML/Book4_Power-of-Matrix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10133 --> 10139
-    line [10134, 10137, 10136, 10138]
+    title "Visualize-ML/Book4_Power-of-Matrix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10133 --> 10141
+    line [10134, 10137, 10136, 10138, 10140]
 ```
 
-2026-10-18 10,134 → 2026-10-23 10,138（+4）
+2026-10-18 10,134 → 2026-10-24 10,140（+6）
 
 
 ---

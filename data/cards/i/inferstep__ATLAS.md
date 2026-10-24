@@ -1,6 +1,6 @@
 # inferstep/ATLAS
 
-⭐ 2,107 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/inferstep/ATLAS) · [官网](https://inferstep.com) · 组织维护
+⭐ 2,108 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/inferstep/ATLAS) · [官网](https://inferstep.com) · 组织维护
 
 **本地自托管的编码 agent：让小模型完成真实软件工作**
 
@@ -45,12 +45,12 @@ ATLAS 是运行在本地硬件上的编码 agent 系统，围绕紧凑 GGUF 模�
 ```mermaid
 xychart-beta
     title "inferstep/ATLAS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 2106 --> 2108
-    line [2107, 2107]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 2106 --> 2109
+    line [2107, 2108]
 ```
 
-2026-10-18 2,107 → 2026-10-23 2,107（+0）
+2026-10-18 2,107 → 2026-10-24 2,108（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # liliang-cn/cortexdb
 
-⭐ 468 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/liliang-cn/cortexdb) · [官网](https://liliang-cn.github.io/cortexdb/) · 个人维护 · 中文 README
+⭐ 467 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/liliang-cn/cortexdb) · [官网](https://liliang-cn.github.io/cortexdb/) · 个人维护 · 中文 README
 
 **单 SQLite 文件内的 AI 记忆与知识图库，供 agent 接入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liliang-cn/cortexdb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "liliang-cn/cortexdb 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 442 --> 470
-    line [444, 463, 467, 468]
+    line [444, 463, 467, 468, 467]
 ```
 
-2026-10-18 444 → 2026-10-23 468（+24）
+2026-10-18 444 → 2026-10-24 467（+23）
 
 
 ---

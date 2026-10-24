@@ -1,6 +1,6 @@
 # cnighswonger/claude-code-cache-fix
 
-⭐ 442 · JavaScript · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/cnighswonger/claude-code-cache-fix) · [官网](https://github.com/cnighswonger/claude-code-cache-fix) · 个人维护
+⭐ 443 · JavaScript · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/cnighswonger/claude-code-cache-fix) · [官网](https://github.com/cnighswonger/claude-code-cache-fix) · 个人维护
 
 **Claude Code 提示词缓存修复代理，降低配额消耗**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cnighswonger/claude-code-cache-fix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "cnighswonger/claude-code-cache-fix 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 441 --> 445
-    line [442, 444, 442]
+    line [442, 444, 442, 443]
 ```
 
-2026-10-18 442 → 2026-10-23 442（+0）
+2026-10-18 442 → 2026-10-24 443（+1）
 
 
 ---

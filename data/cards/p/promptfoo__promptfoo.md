@@ -1,6 +1,6 @@
 # promptfoo/promptfoo
 
-⭐ 26,293 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/promptfoo/promptfoo) · [官网](https://promptfoo.dev) · 组织维护
+⭐ 26,344 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/promptfoo/promptfoo) · [官网](https://promptfoo.dev) · 组织维护
 
 **为开发者提供 LLM 应用评估与红队扫描的 CLI/库**
 
@@ -53,13 +53,13 @@ promptfoo 是一个用于评估与红队测试 LLM 应用的 CLI 和库：支持
 
 ```mermaid
 xychart-beta
-    title "promptfoo/promptfoo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 26065 --> 26313
-    line [26085, 26150, 26238, 26293]
+    title "promptfoo/promptfoo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 26060 --> 26369
+    line [26085, 26150, 26238, 26293, 26344]
 ```
 
-2026-10-18 26,085 → 2026-10-23 26,293（+208）
+2026-10-18 26,085 → 2026-10-24 26,344（+259）
 
 
 ---

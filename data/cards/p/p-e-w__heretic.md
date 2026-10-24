@@ -1,6 +1,6 @@
 # p-e-w/heretic
 
-⭐ 36,204 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/p-e-w/heretic) · [官网](https://heretic-project.org) · 个人维护
+⭐ 36,294 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/p-e-w/heretic) · [官网](https://heretic-project.org) · 个人维护
 
 **自动去除语言模型审查（abliteration）的命令行工具**
 
@@ -51,13 +51,13 @@ Heretic 是一个对 transformer 语言模型执行去审查（移除安全对�
 
 ```mermaid
 xychart-beta
-    title "p-e-w/heretic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 35550 --> 36263
-    line [35609, 35889, 36204]
+    title "p-e-w/heretic 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 35541 --> 36362
+    line [35609, 35889, 36204, 36294]
 ```
 
-2026-10-18 35,609 → 2026-10-23 36,204（+595）
+2026-10-18 35,609 → 2026-10-24 36,294（+685）
 
 
 ---

@@ -1,6 +1,6 @@
 # drajb/whisper-local
 
-⭐ 123 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/drajb/whisper-local) · [官网](https://gekro.com) · 个人维护
+⭐ 128 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/drajb/whisper-local) · [官网](https://gekro.com) · 个人维护
 
 **离线 AI 听写工具：按键说话，文字出现在光标处**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "drajb/whisper-local 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 115 --> 124
-    line [116, 118, 123, 123]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 115 --> 129
+    line [116, 118, 123, 128]
 ```
 
-2026-10-18 116 → 2026-10-23 123（+7）
+2026-10-18 116 → 2026-10-24 128（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # Arize-ai/phoenix
 
-⭐ 11,951 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Arize-ai/phoenix) · [官网](https://arize.com/docs/phoenix) · 组织维护
+⭐ 11,969 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Arize-ai/phoenix) · [官网](https://arize.com/docs/phoenix) · 组织维护
 
 **面向 LLM 应用的开源可观测性与评测平台**
 
@@ -45,13 +45,13 @@ Arize 维护的开源 AI 可观测性平台：基于 OpenTelemetry/OpenInference
 
 ```mermaid
 xychart-beta
-    title "Arize-ai/phoenix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11881 --> 11957
-    line [11887, 11911, 11936, 11951]
+    title "Arize-ai/phoenix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11879 --> 11977
+    line [11887, 11911, 11936, 11951, 11969]
 ```
 
-2026-10-18 11,887 → 2026-10-23 11,951（+64）
+2026-10-18 11,887 → 2026-10-24 11,969（+82）
 
 
 ---

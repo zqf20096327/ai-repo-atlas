@@ -1,6 +1,6 @@
 # alchemiststudiosDOTai/tunacode
 
-⭐ 125 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/alchemiststudiosDOTai/tunacode) · [官网](https://tunacode.xyz) · 组织维护
+⭐ 124 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/alchemiststudiosDOTai/tunacode) · [官网](https://tunacode.xyz) · 组织维护
 
 **终端 AI 编程 agent，多 LLM 支持与文件/命令工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alchemiststudiosDOTai/tunacode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 123 --> 126
+    line [125, 124]
 ```
 
-2026-10-18 125 → 2026-10-23 125（+0）
+2026-10-18 125 → 2026-10-24 124（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/alphagenome
 
-⭐ 2,195 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/alphagenome) · [官网](https://www.alphagenomedocs.com) · 组织维护
+⭐ 2,196 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/alphagenome) · [官网](https://www.alphagenomedocs.com) · 组织维护
 
 **DeepMind DNA 调控预测模型 AlphaGenome 的 Python API 客户端**
 
@@ -45,13 +45,13 @@ Google DeepMind 官方提供的 AlphaGenome API 客户端库、示例与文档�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/alphagenome 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2190 --> 2196
-    line [2193, 2191, 2194, 2195]
+    title "google-deepmind/alphagenome 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2190 --> 2197
+    line [2193, 2191, 2194, 2195, 2196]
 ```
 
-2026-10-18 2,193 → 2026-10-23 2,195（+2）
+2026-10-18 2,193 → 2026-10-24 2,196（+3）
 
 
 ---

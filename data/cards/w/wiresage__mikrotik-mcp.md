@@ -1,6 +1,6 @@
 # wiresage/mikrotik-mcp
 
-⭐ 303 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/wiresage/mikrotik-mcp) · [官网](https://mikrotik-mcp.com) · 组织维护
+⭐ 304 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wiresage/mikrotik-mcp) · [官网](https://mikrotik-mcp.com) · 组织维护
 
 **让 AI 助手通过自然语言管理 MikroTik 路由器的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wiresage/mikrotik-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "wiresage/mikrotik-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 300 --> 305
-    line [301, 303, 304, 303]
+    line [301, 303, 304, 303, 304]
 ```
 
-2026-10-18 301 → 2026-10-23 303（+2）
+2026-10-18 301 → 2026-10-24 304（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # lee-to/ai-factory
 
-⭐ 1,142 · Shell · 推送 2026-10-15 · [GitHub](https://github.com/lee-to/ai-factory) · [官网](https://aif.cutcode.dev) · 个人维护
+⭐ 1,143 · Shell · 推送 2026-10-15 · [GitHub](https://github.com/lee-to/ai-factory) · [官网](https://aif.cutcode.dev) · 个人维护
 
 **一条命令为各类 AI 编程代理安装技能与配置的开发环境工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lee-to/ai-factory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1137 --> 1143
-    line [1138, 1140, 1141, 1142]
+    title "lee-to/ai-factory 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1137 --> 1144
+    line [1138, 1140, 1141, 1142, 1143]
 ```
 
-2026-10-18 1,138 → 2026-10-23 1,142（+4）
+2026-10-18 1,138 → 2026-10-24 1,143（+5）
 
 
 ---

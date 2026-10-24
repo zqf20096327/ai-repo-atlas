@@ -46,12 +46,12 @@ Inferoa 是一个基于 vLLM 生态构建的 Agent Harness 运行时，核心概
 ```mermaid
 xychart-beta
     title "agentic-in/inferoa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 565 --> 567
     line [566, 566]
 ```
 
-2026-10-18 566 → 2026-10-23 566（+0）
+2026-10-18 566 → 2026-10-24 566（+0）
 
 
 ---

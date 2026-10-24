@@ -1,6 +1,6 @@
 # code-yeongyu/lazycodex
 
-⭐ 3,808 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/code-yeongyu/lazycodex) · [官网](https://lazycodex.ai) · 组织维护
+⭐ 3,814 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/code-yeongyu/lazycodex) · [官网](https://lazycodex.ai) · 组织维护
 
 **面向复杂代码库的 Codex agent harness 发行包**
 
@@ -49,13 +49,13 @@ LazyCodex 将 OmO（oh-my-openagent）打包为 Codex 平台的 agent harness �
 
 ```mermaid
 xychart-beta
-    title "code-yeongyu/lazycodex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3788 --> 3809
-    line [3789, 3797, 3806, 3808]
+    title "code-yeongyu/lazycodex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3787 --> 3816
+    line [3789, 3797, 3806, 3808, 3814]
 ```
 
-2026-10-18 3,789 → 2026-10-23 3,808（+19）
+2026-10-18 3,789 → 2026-10-24 3,814（+25）
 
 
 ---

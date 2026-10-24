@@ -1,6 +1,6 @@
 # DL3DV-10K/Dataset
 
-⭐ 687 · HTML · NOASSERTION · 推送 2026-02-10 · [GitHub](https://github.com/DL3DV-10K/Dataset) · [官网](https://dl3dv-10k.github.io/DL3DV-10K/) · 组织维护
+⭐ 688 · HTML · NOASSERTION · 推送 2026-02-10 · [GitHub](https://github.com/DL3DV-10K/Dataset) · [官网](https://dl3dv-10k.github.io/DL3DV-10K/) · 组织维护
 
 **面向 3D 视觉研究的大规模真实场景数据集（10,510 场景）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DL3DV-10K/Dataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 686 --> 688
-    line [687, 687]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 686 --> 689
+    line [687, 688]
 ```
 
-2026-10-18 687 → 2026-10-23 687（+0）
+2026-10-18 687 → 2026-10-24 688（+1）
 
 
 ---

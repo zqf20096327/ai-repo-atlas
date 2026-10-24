@@ -1,6 +1,6 @@
 # NaturalIntelligence/imglab
 
-⭐ 1,023 · HTML · MIT · 推送 2026-08-18 · [GitHub](https://github.com/NaturalIntelligence/imglab) · [官网](https://solothought.com/imglab/) · 个人维护
+⭐ 1,024 · HTML · MIT · 推送 2026-08-18 · [GitHub](https://github.com/NaturalIntelligence/imglab) · [官网](https://solothought.com/imglab/) · 个人维护
 
 **浏览器端图像标注工具，产出 dlib/COCO 等训练数据格式**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NaturalIntelligence/imglab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1021 --> 1024
-    line [1022, 1023]
+    title "NaturalIntelligence/imglab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1021 --> 1025
+    line [1022, 1023, 1024]
 ```
 
-2026-10-18 1,022 → 2026-10-23 1,023（+1）
+2026-10-18 1,022 → 2026-10-24 1,024（+2）
 
 
 ---

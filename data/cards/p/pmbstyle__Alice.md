@@ -1,6 +1,6 @@
 # pmbstyle/Alice
 
-⭐ 325 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/pmbstyle/Alice) · 个人维护
+⭐ 326 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/pmbstyle/Alice) · 个人维护
 
 **桌面端语音优先的 AI 助手应用，支持云端与本地模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pmbstyle/Alice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 322 --> 326
-    line [323, 325]
+    title "pmbstyle/Alice 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 322 --> 327
+    line [323, 325, 326]
 ```
 
-2026-10-18 323 → 2026-10-23 325（+2）
+2026-10-18 323 → 2026-10-24 326（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # mediacutlet/pocket-tank
 
-⭐ 245 · C · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mediacutlet/pocket-tank) · [官网](https://pocketank.com) · 个人维护
+⭐ 249 · C · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mediacutlet/pocket-tank) · [官网](https://pocketank.com) · 个人维护
 
 **在 ESP32-S3 上用 14M 参数微型 LLM 驱动的虚拟水族箱固件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mediacutlet/pocket-tank 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 222 --> 247
-    line [224, 231, 245]
+    title "mediacutlet/pocket-tank 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 222 --> 251
+    line [224, 231, 245, 249]
 ```
 
-2026-10-18 224 → 2026-10-23 245（+21）
+2026-10-18 224 → 2026-10-24 249（+25）
 
 
 ---

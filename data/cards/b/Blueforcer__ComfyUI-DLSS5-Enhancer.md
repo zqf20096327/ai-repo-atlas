@@ -1,6 +1,6 @@
 # Blueforcer/ComfyUI-DLSS5-Enhancer
 
-⭐ 305 · Python · NOASSERTION · 推送 2026-09-02 · [GitHub](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer) · 个人维护
+⭐ 307 · Python · NOASSERTION · 推送 2026-09-02 · [GitHub](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer) · 个人维护
 
 **ComfyUI 节点包：用 NVIDIA DLSS 5 神经渲染处理图像批次与视频**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Blueforcer/ComfyUI-DLSS5-Enhancer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 296 --> 306
-    line [297, 301, 305, 305]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 296 --> 308
+    line [297, 301, 305, 307]
 ```
 
-2026-10-18 297 → 2026-10-23 305（+8）
+2026-10-18 297 → 2026-10-24 307（+10）
 
 
 ---

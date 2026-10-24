@@ -1,6 +1,6 @@
 # RongleCat/grok-app
 
-⭐ 1,477 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/RongleCat/grok-app) · [官网](https://grok-app.com) · 个人维护 · 中文 README
+⭐ 1,479 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/RongleCat/grok-app) · [官网](https://grok-app.com) · 个人维护 · 中文 README
 
 **Grok Build CLI 的开源桌面工作台客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RongleCat/grok-app 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1463 --> 1478
-    line [1464, 1470, 1473, 1477]
+    title "RongleCat/grok-app 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1463 --> 1480
+    line [1464, 1470, 1473, 1477, 1479]
 ```
 
-2026-10-18 1,464 → 2026-10-23 1,477（+13）
+2026-10-18 1,464 → 2026-10-24 1,479（+15）
 
 
 ---

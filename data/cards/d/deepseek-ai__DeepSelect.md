@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSelect
 
-⭐ 512 · Cuda · MIT · 推送 2026-09-30 · [GitHub](https://github.com/deepseek-ai/DeepSelect) · 组织维护 · 中文 README
+⭐ 514 · Cuda · MIT · 推送 2026-09-30 · [GitHub](https://github.com/deepseek-ai/DeepSelect) · 组织维护 · 中文 README
 
 **为 DeepSeek 稀疏注意力与采样器定制的高性能 TopK 算子**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "deepseek-ai/DeepSelect 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 489 --> 514
-    line [491, 495, 512, 512]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 489 --> 516
+    line [491, 495, 512, 514]
 ```
 
-2026-10-18 491 → 2026-10-23 512（+21）
+2026-10-18 491 → 2026-10-24 514（+23）
 
 
 ---

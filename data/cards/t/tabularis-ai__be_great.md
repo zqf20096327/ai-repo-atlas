@@ -47,12 +47,12 @@ GReaT（be-great）是基于预训练 Transformer 语言模型的表格数据合
 ```mermaid
 xychart-beta
     title "tabularis-ai/be_great 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 370 --> 372
     line [371, 371]
 ```
 
-2026-10-18 371 → 2026-10-23 371（+0）
+2026-10-18 371 → 2026-10-24 371（+0）
 
 
 ---

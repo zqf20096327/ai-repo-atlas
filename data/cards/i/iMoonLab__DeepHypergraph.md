@@ -1,6 +1,6 @@
 # iMoonLab/DeepHypergraph
 
-⭐ 892 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/iMoonLab/DeepHypergraph) · [官网](https://deephypergraph.com/) · 组织维护 · 中文 README
+⭐ 893 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/iMoonLab/DeepHypergraph) · [官网](https://deephypergraph.com/) · 组织维护 · 中文 README
 
 **基于 PyTorch 的图与超图神经网络计算库**
 
@@ -46,12 +46,12 @@ DHG（DeepHypergraph）是基于 PyTorch 的深度学习库，面向图神经网
 ```mermaid
 xychart-beta
     title "iMoonLab/DeepHypergraph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 889 --> 893
-    line [890, 891, 892, 892]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 889 --> 894
+    line [890, 891, 892, 893]
 ```
 
-2026-10-18 890 → 2026-10-23 892（+2）
+2026-10-18 890 → 2026-10-24 893（+3）
 
 
 ---

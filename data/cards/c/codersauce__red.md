@@ -1,6 +1,6 @@
 # codersauce/red
 
-⭐ 237 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/codersauce/red) · [官网](https://rededitor.app) · 个人维护
+⭐ 237 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/codersauce/red) · [官网](https://rededitor.app) · 个人维护
 
 **Rust 编写的 Vim 风格终端编辑器，可接入 Codex 编码代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codersauce/red 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 232 --> 238
     line [233, 237, 237]
 ```
 
-2026-10-18 233 → 2026-10-23 237（+4）
+2026-10-18 233 → 2026-10-24 237（+4）
 
 
 ---

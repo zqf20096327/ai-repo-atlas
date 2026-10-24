@@ -1,6 +1,6 @@
 # SnowballSH/Avalanche
 
-⭐ 114 · Zig · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/SnowballSH/Avalanche) · 个人维护 · 中文 README
+⭐ 114 · Zig · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/SnowballSH/Avalanche) · [官网](https://avalanche.snowballsh.com) · 个人维护 · 中文 README
 
 **Zig 编写的 UCI 国际象棋引擎，内置 NNUE 评估**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SnowballSH/Avalanche 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 113 --> 115
     line [114, 114]
 ```
 
-2026-10-18 114 → 2026-10-23 114（+0）
+2026-10-18 114 → 2026-10-24 114（+0）
 
 
 ---

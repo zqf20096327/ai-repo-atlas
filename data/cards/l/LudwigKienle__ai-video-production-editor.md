@@ -1,6 +1,6 @@
 # LudwigKienle/ai-video-production-editor
 
-⭐ 140 · TypeScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/LudwigKienle/ai-video-production-editor) · [官网](https://github.com/LudwigKienle/ai-video-production-editor/releases/latest) · 个人维护
+⭐ 142 · TypeScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/LudwigKienle/ai-video-production-editor) · [官网](https://github.com/LudwigKienle/ai-video-production-editor/releases/latest) · 个人维护
 
 **本地优先的开源 AI 视频制作桌面工作站，覆盖剧本到成片**
 
@@ -45,13 +45,13 @@ Electron + React 构建的桌面应用（GPL-3.0），把 AI 视频制作流程�
 
 ```mermaid
 xychart-beta
-    title "LudwigKienle/ai-video-production-editor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 58 --> 147
-    line [65, 68, 140]
+    title "LudwigKienle/ai-video-production-editor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 58 --> 149
+    line [65, 68, 140, 142]
 ```
 
-2026-10-18 65 → 2026-10-23 140（+75）
+2026-10-18 65 → 2026-10-24 142（+77）
 
 
 ---

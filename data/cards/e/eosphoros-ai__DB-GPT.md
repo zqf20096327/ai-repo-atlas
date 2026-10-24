@@ -1,6 +1,6 @@
 # eosphoros-ai/DB-GPT
 
-⭐ 20,178 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/eosphoros-ai/DB-GPT) · [官网](http://docs.dbgpt.cn) · 组织维护 · 中文 README
+⭐ 20,185 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/eosphoros-ai/DB-GPT) · [官网](http://docs.dbgpt.cn) · 组织维护 · 中文 README
 
 **给开发者和企业的开源 Agent 式 AI 数据分析助手**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "eosphoros-ai/DB-GPT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 20156 --> 20180
-    line [20158, 20160, 20175, 20178]
+    title "eosphoros-ai/DB-GPT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 20156 --> 20187
+    line [20158, 20160, 20175, 20178, 20185]
 ```
 
-2026-10-18 20,158 → 2026-10-23 20,178（+20）
+2026-10-18 20,158 → 2026-10-24 20,185（+27）
 
 
 ---

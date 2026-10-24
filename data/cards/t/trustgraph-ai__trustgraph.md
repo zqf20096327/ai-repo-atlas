@@ -1,6 +1,6 @@
 # trustgraph-ai/trustgraph
 
-⭐ 2,823 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/trustgraph-ai/trustgraph) · [官网](https://TrustGraph.ai) · 组织维护
+⭐ 2,829 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/trustgraph-ai/trustgraph) · [官网](https://TrustGraph.ai) · 组织维护
 
 **企业级语义 Agent 治理平台：本体化的操作图与策略运行时**
 
@@ -45,13 +45,13 @@ TrustGraph 将企业知识、系统与业务逻辑构建为基于 W3C RDF 1.2/OW
 
 ```mermaid
 xychart-beta
-    title "trustgraph-ai/trustgraph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2811 --> 2824
-    line [2812, 2816, 2819, 2823]
+    title "trustgraph-ai/trustgraph 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2811 --> 2830
+    line [2812, 2816, 2819, 2823, 2829]
 ```
 
-2026-10-18 2,812 → 2026-10-23 2,823（+11）
+2026-10-18 2,812 → 2026-10-24 2,829（+17）
 
 
 ---

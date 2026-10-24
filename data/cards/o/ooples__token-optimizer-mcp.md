@@ -1,6 +1,6 @@
 # ooples/token-optimizer-mcp
 
-⭐ 558 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ooples/token-optimizer-mcp) · 组织维护
+⭐ 561 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ooples/token-optimizer-mcp) · 组织维护
 
 **为 AI 编程代理压缩上下文并核算 token 账单的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ooples/token-optimizer-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 550 --> 559
-    line [551, 554, 555, 558]
+    title "ooples/token-optimizer-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 550 --> 562
+    line [551, 554, 555, 558, 561]
 ```
 
-2026-10-18 551 → 2026-10-23 558（+7）
+2026-10-18 551 → 2026-10-24 561（+10）
 
 
 ---

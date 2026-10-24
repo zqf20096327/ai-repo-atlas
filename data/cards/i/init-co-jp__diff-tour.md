@@ -1,6 +1,6 @@
 # init-co-jp/diff-tour
 
-⭐ 204 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/init-co-jp/diff-tour) · 组织维护 · 中文 README
+⭐ 284 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/init-co-jp/diff-tour) · 组织维护 · 中文 README
 
 **把 git 变更转成 LLM 生成的讲解式导览 TUI，供阅读代码变更**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "init-co-jp/diff-tour 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 173 --> 206
-    line [175, 194, 198, 204]
+    title "init-co-jp/diff-tour 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 165 --> 294
+    line [175, 194, 198, 204, 284]
 ```
 
-2026-10-18 175 → 2026-10-23 204（+29）
+2026-10-18 175 → 2026-10-24 284（+109）
 
 
 ---

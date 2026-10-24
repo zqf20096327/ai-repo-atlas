@@ -1,6 +1,6 @@
 # sacridini/Awesome-Geospatial
 
-⭐ 5,338 · CC0-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/sacridini/Awesome-Geospatial) · 个人维护
+⭐ 5,339 · CC0-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/sacridini/Awesome-Geospatial) · 个人维护
 
 **地理空间分析工具长清单：收录 GIS/遥感/制图资源**
 
@@ -43,13 +43,13 @@ Awesome 风格的地理空间工具聚合清单，按数据库、图像分类与
 
 ```mermaid
 xychart-beta
-    title "sacridini/Awesome-Geospatial 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5328 --> 5339
-    line [5329, 5332, 5336, 5338]
+    title "sacridini/Awesome-Geospatial 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5328 --> 5340
+    line [5329, 5332, 5336, 5338, 5339]
 ```
 
-2026-10-18 5,329 → 2026-10-23 5,338（+9）
+2026-10-18 5,329 → 2026-10-24 5,339（+10）
 
 
 ---

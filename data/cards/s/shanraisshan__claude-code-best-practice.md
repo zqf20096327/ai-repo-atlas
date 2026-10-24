@@ -1,6 +1,6 @@
 # shanraisshan/claude-code-best-practice
 
-⭐ 67,907 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
+⭐ 67,934 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
 
 **Claude Code 最佳实践与工作流策展仓库（含命令/技能/子代理参考）**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanraisshan/claude-code-best-practice 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 67641 --> 67931
-    line [67665, 67758, 67865, 67907]
+    title "shanraisshan/claude-code-best-practice 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 67639 --> 67960
+    line [67665, 67758, 67865, 67907, 67934]
 ```
 
-2026-10-18 67,665 → 2026-10-23 67,907（+242）
+2026-10-18 67,665 → 2026-10-24 67,934（+269）
 
 
 ---

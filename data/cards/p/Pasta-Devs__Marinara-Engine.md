@@ -1,6 +1,6 @@
 # Pasta-Devs/Marinara-Engine
 
-⭐ 732 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Pasta-Devs/Marinara-Engine) · [官网](https://spicymarinara.github.io/) · 组织维护
+⭐ 735 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Pasta-Devs/Marinara-Engine) · [官网](https://spicymarinara.github.io/) · 组织维护
 
 **本地运行的 AI 聊天、角色扮演与游戏引擎**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pasta-Devs/Marinara-Engine 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 714 --> 733
-    line [715, 721, 729, 732]
+    title "Pasta-Devs/Marinara-Engine 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 713 --> 737
+    line [715, 721, 729, 732, 735]
 ```
 
-2026-10-18 715 → 2026-10-23 732（+17）
+2026-10-18 715 → 2026-10-24 735（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # Gitruck/cli
 
-⭐ 825 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Gitruck/cli) · [官网](https://ai-mcn.tv/gtrk) · 组织维护 · 中文 README
+⭐ 853 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Gitruck/cli) · [官网](https://ai-mcn.tv/gtrk) · 组织维护 · 中文 README
 
 **给 AI Agent 用的视频创作 CLI：口播毛片变可精修剪辑工程**
 
@@ -46,13 +46,13 @@ gtrk 是面向 AI Agent 的视频创作命令行工具：在 Codex、Claude Code
 
 ```mermaid
 xychart-beta
-    title "Gitruck/cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "Gitruck/cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 697 --> 869
-    line [711, 796, 855, 825]
+    line [711, 796, 855, 825, 853]
 ```
 
-2026-10-18 711 → 2026-10-23 825（+114）
+2026-10-18 711 → 2026-10-24 853（+142）
 
 
 ---

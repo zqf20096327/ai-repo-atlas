@@ -1,6 +1,6 @@
 # NVlabs/Sana
 
-⭐ 9,568 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVlabs/Sana) · [官网](https://nvlabs.github.io/Sana/docs/) · 组织维护
+⭐ 9,629 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVlabs/Sana) · [官网](https://nvlabs.github.io/Sana/docs/) · 组织维护
 
 **面向效率的高分辨率图像/视频扩散模型代码库（NVIDIA）**
 
@@ -45,13 +45,13 @@ NVlabs 维护的扩散模型系列代码库，包含 SANA、SANA-1.5、SANA-Spri
 
 ```mermaid
 xychart-beta
-    title "NVlabs/Sana 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 9358 --> 9587
-    line [9377, 9404, 9414, 9568]
+    title "NVlabs/Sana 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9352 --> 9654
+    line [9377, 9404, 9414, 9568, 9629]
 ```
 
-2026-10-18 9,377 → 2026-10-23 9,568（+191）
+2026-10-18 9,377 → 2026-10-24 9,629（+252）
 
 
 ---

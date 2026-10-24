@@ -1,6 +1,6 @@
 # microsoft/unilm
 
-⭐ 22,236 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/unilm) · [官网](https://aka.ms/GeneralAI) · 组织维护
+⭐ 22,235 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/unilm) · [官网](https://aka.ms/GeneralAI) · 组织维护
 
 **微软研究院的大规模自监督预训练模型与工具汇总库**
 
@@ -49,13 +49,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/unilm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 22235 --> 22240
-    line [22239, 22237, 22238, 22236]
+    title "microsoft/unilm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 22234 --> 22240
+    line [22239, 22237, 22238, 22236, 22235]
 ```
 
-2026-10-18 22,239 → 2026-10-23 22,236（-3）
+2026-10-18 22,239 → 2026-10-24 22,235（-4）
 
 
 ---

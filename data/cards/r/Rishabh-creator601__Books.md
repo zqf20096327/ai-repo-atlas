@@ -1,6 +1,6 @@
 # Rishabh-creator601/Books
 
-⭐ 1,183 · 推送 2026-06-27 · [GitHub](https://github.com/Rishabh-creator601/Books) · [官网](https://share.streamlit.io/user/rishabh-creator601) · 个人维护
+⭐ 1,188 · 推送 2026-06-27 · [GitHub](https://github.com/Rishabh-creator601/Books) · [官网](https://share.streamlit.io/user/rishabh-creator601) · 个人维护
 
 **AI/ML 与编程领域的免费电子书聚合清单（200+ 本）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rishabh-creator601/Books 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1164 --> 1184
-    line [1165, 1169, 1179, 1183]
+    title "Rishabh-creator601/Books 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1163 --> 1190
+    line [1165, 1169, 1179, 1183, 1188]
 ```
 
-2026-10-18 1,165 → 2026-10-23 1,183（+18）
+2026-10-18 1,165 → 2026-10-24 1,188（+23）
 
 
 ---

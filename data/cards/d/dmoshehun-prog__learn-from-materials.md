@@ -1,6 +1,6 @@
 # dmoshehun-prog/learn-from-materials
 
-⭐ 1,051 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/dmoshehun-prog/learn-from-materials) · 个人维护 · 中文 README
+⭐ 1,068 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/dmoshehun-prog/learn-from-materials) · 个人维护 · 中文 README
 
 **把 PDF/书籍/论文转成可溯源互动学习网页的 agent 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dmoshehun-prog/learn-from-materials 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "dmoshehun-prog/learn-from-materials 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1025 --> 1101
-    line [1031, 1063, 1095, 1051]
+    line [1031, 1063, 1095, 1051, 1068]
 ```
 
-2026-10-18 1,031 → 2026-10-23 1,051（+20）
+2026-10-18 1,031 → 2026-10-24 1,068（+37）
 
 
 ---

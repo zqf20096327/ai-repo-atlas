@@ -1,6 +1,6 @@
 # patchy631/ai-engineering-hub
 
-⭐ 38,408 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/patchy631/ai-engineering-hub) · [官网](https://join.dailydoseofds.com) · 组织维护
+⭐ 38,414 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/patchy631/ai-engineering-hub) · [官网](https://join.dailydoseofds.com) · 组织维护
 
 **面向 AI 工程学习者的 LLM/RAG/Agent 教程项目合集（93+）**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "patchy631/ai-engineering-hub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 38342 --> 38414
-    line [38348, 38374, 38403, 38408]
+    title "patchy631/ai-engineering-hub 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 38342 --> 38420
+    line [38348, 38374, 38403, 38408, 38414]
 ```
 
-2026-10-18 38,348 → 2026-10-23 38,408（+60）
+2026-10-18 38,348 → 2026-10-24 38,414（+66）
 
 
 ---

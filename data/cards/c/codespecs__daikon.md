@@ -1,6 +1,6 @@
 # codespecs/daikon
 
-⭐ 267 · C · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/codespecs/daikon) · [官网](http://plse.cs.washington.edu/daikon/) · 组织维护
+⭐ 268 · C · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/codespecs/daikon) · [官网](http://plse.cs.washington.edu/daikon/) · 组织维护
 
 **从程序运行轨迹中动态检测可能不变量的工具**
 
@@ -43,12 +43,12 @@ Daikon 是一个不变量检测器：通过分析程序执行（如变量取值�
 ```mermaid
 xychart-beta
     title "codespecs/daikon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 266 --> 268
-    line [267, 267]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 266 --> 269
+    line [267, 268]
 ```
 
-2026-10-18 267 → 2026-10-23 267（+0）
+2026-10-18 267 → 2026-10-24 268（+1）
 
 
 ---

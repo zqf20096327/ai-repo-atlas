@@ -1,6 +1,6 @@
 # hujjun/mcd-saver-strategist
 
-⭐ 947 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hujjun/mcd-saver-strategist) · [官网](https://hujjun.github.io/mcd-saver-strategist/) · 个人维护 · 中文 README
+⭐ 1,107 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hujjun/mcd-saver-strategist) · [官网](https://hujjun.github.io/mcd-saver-strategist/) · 个人维护 · 中文 README
 
 **麦当劳点餐省钱 Skill：穷举菜单×优惠券算出最低价组合**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hujjun/mcd-saver-strategist 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 446 --> 992
-    line [491, 689, 846, 947]
+    title "hujjun/mcd-saver-strategist 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 430 --> 1168
+    line [491, 689, 846, 947, 1107]
 ```
 
-2026-10-18 491 → 2026-10-23 947（+456）
+2026-10-18 491 → 2026-10-24 1,107（+616）
 
 
 ---

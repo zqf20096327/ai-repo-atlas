@@ -1,6 +1,6 @@
 # ZJU-REAL/Awesome-GUI-Agents
 
-⭐ 464 · 推送 2026-07-28 · [GitHub](https://github.com/ZJU-REAL/Awesome-GUI-Agents) · [官网](https://arxiv.org/abs/2504.13865) · 组织维护 · 中文 README
+⭐ 463 · 推送 2026-07-28 · [GitHub](https://github.com/ZJU-REAL/Awesome-GUI-Agents) · [官网](https://arxiv.org/abs/2504.13865) · 组织维护 · 中文 README
 
 **GUI Agent 研究论文与资源策展清单（浙大团队维护）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZJU-REAL/Awesome-GUI-Agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "ZJU-REAL/Awesome-GUI-Agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 461 --> 465
-    line [462, 464]
+    line [462, 464, 463]
 ```
 
-2026-10-18 462 → 2026-10-23 464（+2）
+2026-10-18 462 → 2026-10-24 463（+1）
 
 
 ---

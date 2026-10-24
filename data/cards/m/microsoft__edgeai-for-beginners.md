@@ -1,6 +1,6 @@
 # microsoft/edgeai-for-beginners
 
-⭐ 1,756 · Jupyter Notebook · MIT · 推送 2026-10-10 · [GitHub](https://github.com/microsoft/edgeai-for-beginners) · 组织维护
+⭐ 1,761 · Jupyter Notebook · MIT · 推送 2026-10-10 · [GitHub](https://github.com/microsoft/edgeai-for-beginners) · 组织维护
 
 **微软出品的 Edge AI 初学者课程（9 模块+工作坊）**
 
@@ -44,13 +44,13 @@ Microsoft 维护的 Edge AI 入门课程仓库：以 9 个模块（共约 36-45 
 
 ```mermaid
 xychart-beta
-    title "microsoft/edgeai-for-beginners 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1749 --> 1757
-    line [1750, 1752, 1754, 1756]
+    title "microsoft/edgeai-for-beginners 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1749 --> 1762
+    line [1750, 1752, 1754, 1756, 1761]
 ```
 
-2026-10-18 1,750 → 2026-10-23 1,756（+6）
+2026-10-18 1,750 → 2026-10-24 1,761（+11）
 
 
 ---

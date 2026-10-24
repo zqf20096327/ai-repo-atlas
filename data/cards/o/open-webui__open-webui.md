@@ -1,6 +1,6 @@
 # open-webui/open-webui
 
-⭐ 156,467 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护
+⭐ 156,572 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护
 
 **自托管 AI 交互界面，接入本地与云端多模型**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-webui/open-webui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 155921 --> 156516
-    line [155970, 156189, 156353, 156467]
+    title "open-webui/open-webui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 155910 --> 156632
+    line [155970, 156189, 156353, 156467, 156572]
 ```
 
-2026-10-18 155,970 → 2026-10-23 156,467（+497）
+2026-10-18 155,970 → 2026-10-24 156,572（+602）
 
 
 ---

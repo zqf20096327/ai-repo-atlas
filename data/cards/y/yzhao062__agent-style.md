@@ -1,6 +1,6 @@
 # yzhao062/agent-style
 
-⭐ 724 · Python · 推送 2026-10-19 · [GitHub](https://github.com/yzhao062/agent-style) · 个人维护
+⭐ 724 · Python · 推送 2026-10-23 · [GitHub](https://github.com/yzhao062/agent-style) · 个人维护
 
 **面向 AI 编程/写作 agent 的 21 条英文写作规则集，生成时加载**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yzhao062/agent-style 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "yzhao062/agent-style 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 713 --> 725
-    line [714, 720, 724]
+    line [714, 720, 724, 724]
 ```
 
-2026-10-18 714 → 2026-10-23 724（+10）
+2026-10-18 714 → 2026-10-24 724（+10）
 
 
 ---

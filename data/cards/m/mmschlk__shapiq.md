@@ -1,6 +1,6 @@
 # mmschlk/shapiq
 
-⭐ 790 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mmschlk/shapiq) · [官网](https://shapiq.readthedocs.io) · 组织维护
+⭐ 790 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mmschlk/shapiq) · [官网](https://shapiq.readthedocs.io) · 组织维护
 
 **Python 库：计算任意阶 Shapley 交互以解释模型预测**
 
@@ -47,12 +47,12 @@ shapiq 是用于机器学习博弈论解释的 Python 包：提供任意阶 Shap
 ```mermaid
 xychart-beta
     title "mmschlk/shapiq 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 788 --> 791
     line [789, 790, 790]
 ```
 
-2026-10-18 789 → 2026-10-23 790（+1）
+2026-10-18 789 → 2026-10-24 790（+1）
 
 
 ---

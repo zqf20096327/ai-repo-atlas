@@ -1,6 +1,6 @@
 # Hkshoonya/nvidia-broadcast-linux
 
-⭐ 198 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/Hkshoonya/nvidia-broadcast-linux) · [官网](https://nvbroadcast.com) · 个人维护
+⭐ 199 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Hkshoonya/nvidia-broadcast-linux) · [官网](https://nvbroadcast.com) · 个人维护
 
 **Linux/macOS 的开源 AI 摄像头与麦克风特效应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hkshoonya/nvidia-broadcast-linux 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 192 --> 199
-    line [193, 195, 197, 198]
+    title "Hkshoonya/nvidia-broadcast-linux 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 192 --> 200
+    line [193, 195, 197, 198, 199]
 ```
 
-2026-10-18 193 → 2026-10-23 198（+5）
+2026-10-18 193 → 2026-10-24 199（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # oil-oil/wolfcha
 
-⭐ 737 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/oil-oil/wolfcha) · [官网](https://wolf-cha.com) · 个人维护 · 中文 README
+⭐ 738 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/oil-oil/wolfcha) · [官网](https://wolf-cha.com) · 个人维护 · 中文 README
 
 **单人 AI 狼人杀：一人入座，LLM 扮演其余玩家**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oil-oil/wolfcha 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 734 --> 738
-    line [735, 736, 737]
+    title "oil-oil/wolfcha 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 734 --> 739
+    line [735, 736, 737, 738]
 ```
 
-2026-10-18 735 → 2026-10-23 737（+2）
+2026-10-18 735 → 2026-10-24 738（+3）
 
 
 ---

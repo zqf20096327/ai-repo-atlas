@@ -1,6 +1,6 @@
 # kejilion/KPanel
 
-⭐ 471 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/kejilion/KPanel) · [官网](https://kpanel.kejilion.sh/) · 个人维护 · 中文 README
+⭐ 473 · Go · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/kejilion/KPanel) · [官网](https://kpanel.kejilion.sh/) · 个人维护 · 中文 README
 
 **面向单管理员的 Linux 运维面板，支持多主机管理与 AI 助手**
 
@@ -45,13 +45,13 @@ KPanel 是与 kejilion.sh 双向互通的开源 Linux 服务器管理面板，�
 
 ```mermaid
 xychart-beta
-    title "kejilion/KPanel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 463 --> 472
-    line [464, 466, 468, 471]
+    title "kejilion/KPanel 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 463 --> 474
+    line [464, 466, 468, 471, 473]
 ```
 
-2026-10-18 464 → 2026-10-23 471（+7）
+2026-10-18 464 → 2026-10-24 473（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # openclaw/openclaw
 
-⭐ 392,766 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/openclaw/openclaw) · [官网](https://openclaw.ai) · 组织维护
+⭐ 392,864 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/openclaw/openclaw) · [官网](https://openclaw.ai) · 组织维护
 
 **运行在自有设备上的开源 AI 助手，接入聊天渠道**
 
@@ -52,13 +52,13 @@ OpenClaw 是开源 AI 助手，运行在用户自己的设备上，通过 Discor
 
 ```mermaid
 xychart-beta
-    title "openclaw/openclaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 392222 --> 392815
-    line [392271, 392468, 392653, 392766]
+    title "openclaw/openclaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 392212 --> 392923
+    line [392271, 392468, 392653, 392766, 392864]
 ```
 
-2026-10-18 392,271 → 2026-10-23 392,766（+495）
+2026-10-18 392,271 → 2026-10-24 392,864（+593）
 
 
 ---

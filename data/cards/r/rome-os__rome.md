@@ -1,6 +1,6 @@
 # rome-os/rome
 
-⭐ 832 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rome-os/rome) · [官网](https://romeos.cc) · 组织维护
+⭐ 843 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rome-os/rome) · [官网](https://romeos.cc) · 组织维护
 
 **自托管的个人 AI agent 操作系统，让 agent 持久执行任务并自建应用**
 
@@ -45,13 +45,13 @@ Rome 是一个面向递归 agent 的运行环境：在带护栏的环境中让�
 
 ```mermaid
 xychart-beta
-    title "rome-os/rome 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 803 --> 840
-    line [806, 826, 837, 832]
+    title "rome-os/rome 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 803 --> 846
+    line [806, 826, 837, 832, 843]
 ```
 
-2026-10-18 806 → 2026-10-23 832（+26）
+2026-10-18 806 → 2026-10-24 843（+37）
 
 
 ---

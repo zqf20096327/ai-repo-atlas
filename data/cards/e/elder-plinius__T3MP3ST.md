@@ -1,6 +1,6 @@
 # elder-plinius/T3MP3ST
 
-⭐ 6,586 · TypeScript · AGPL-3.0 · 推送 2026-09-08 · [GitHub](https://github.com/elder-plinius/T3MP3ST) · 个人维护
+⭐ 6,594 · TypeScript · AGPL-3.0 · 推送 2026-09-08 · [GitHub](https://github.com/elder-plinius/T3MP3ST) · 个人维护
 
 **多智能体红队框架：把已装的 AI 编码代理变成自动化渗透测试工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "elder-plinius/T3MP3ST 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6551 --> 6589
-    line [6554, 6566, 6578, 6586]
+    title "elder-plinius/T3MP3ST 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6550 --> 6598
+    line [6554, 6566, 6578, 6586, 6594]
 ```
 
-2026-10-18 6,554 → 2026-10-23 6,586（+32）
+2026-10-18 6,554 → 2026-10-24 6,594（+40）
 
 
 ---

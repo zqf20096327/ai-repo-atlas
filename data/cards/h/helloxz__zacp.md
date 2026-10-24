@@ -45,12 +45,12 @@ Zacp 是用 Go（Gin + acp-go-sdk + SQLite）与 Vue 3 构建的 Web 网关，�
 ```mermaid
 xychart-beta
     title "helloxz/zacp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 120 --> 122
     line [121, 121]
 ```
 
-2026-10-18 121 → 2026-10-23 121（+0）
+2026-10-18 121 → 2026-10-24 121（+0）
 
 
 ---

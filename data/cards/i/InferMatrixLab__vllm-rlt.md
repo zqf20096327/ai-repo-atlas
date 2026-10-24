@@ -1,6 +1,6 @@
 # InferMatrixLab/vllm-rlt
 
-⭐ 202 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/InferMatrixLab/vllm-rlt) · 组织维护
+⭐ 205 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/InferMatrixLab/vllm-rlt) · 组织维护
 
 **循环 Transformer 语言模型的独立推理与服务引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "InferMatrixLab/vllm-rlt 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 191 --> 203
-    line [192, 198, 202]
+    title "InferMatrixLab/vllm-rlt 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 191 --> 206
+    line [192, 198, 202, 205]
 ```
 
-2026-10-19 192 → 2026-10-23 202（+10）
+2026-10-19 192 → 2026-10-24 205（+13）
 
 
 ---

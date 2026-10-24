@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaasher/Agent-Loop-Skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "gaasher/Agent-Loop-Skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 174 --> 178
-    line [175, 177]
+    line [175, 177, 177]
 ```
 
-2026-10-18 175 → 2026-10-23 177（+2）
+2026-10-18 175 → 2026-10-24 177（+2）
 
 
 ---

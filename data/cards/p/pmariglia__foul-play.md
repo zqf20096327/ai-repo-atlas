@@ -1,6 +1,6 @@
 # pmariglia/foul-play
 
-⭐ 387 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/pmariglia/foul-play) · 个人维护
+⭐ 386 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/pmariglia/foul-play) · 个人维护
 
 **在 Pokemon Showdown 平台自动打对战的宝可梦对战机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pmariglia/foul-play 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 386 --> 388
-    line [387, 387]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 385 --> 388
+    line [387, 386]
 ```
 
-2026-10-18 387 → 2026-10-23 387（+0）
+2026-10-18 387 → 2026-10-24 386（-1）
 
 
 ---

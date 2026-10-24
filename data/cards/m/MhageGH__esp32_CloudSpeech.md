@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "MhageGH/esp32_CloudSpeech 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "MhageGH/esp32_CloudSpeech 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 113 --> 116
-    line [115, 114]
+    line [115, 114, 114]
 ```
 
-2026-10-18 115 → 2026-10-23 114（-1）
+2026-10-18 115 → 2026-10-24 114（-1）
 
 
 ---

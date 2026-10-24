@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "biodatlab/thonburian-whisper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "biodatlab/thonburian-whisper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 206 --> 209
-    line [207, 208]
+    line [207, 208, 208]
 ```
 
-2026-10-18 207 → 2026-10-23 208（+1）
+2026-10-18 207 → 2026-10-24 208（+1）
 
 
 ---

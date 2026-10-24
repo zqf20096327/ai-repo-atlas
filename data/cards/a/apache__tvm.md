@@ -1,6 +1,6 @@
 # apache/tvm
 
-⭐ 13,857 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/tvm) · [官网](https://tvm.apache.org/) · 组织维护
+⭐ 13,861 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/tvm) · [官网](https://tvm.apache.org/) · 组织维护
 
 **面向 ML 开发者的开源机器学习编译框架**
 
@@ -51,13 +51,13 @@ Apache TVM 是开源机器学习编译框架，采用 Python-first 开发方式�
 
 ```mermaid
 xychart-beta
-    title "apache/tvm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13841 --> 13858
-    line [13842, 13848, 13853, 13857]
+    title "apache/tvm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13841 --> 13862
+    line [13842, 13848, 13853, 13857, 13861]
 ```
 
-2026-10-18 13,842 → 2026-10-23 13,857（+15）
+2026-10-18 13,842 → 2026-10-24 13,861（+19）
 
 
 ---

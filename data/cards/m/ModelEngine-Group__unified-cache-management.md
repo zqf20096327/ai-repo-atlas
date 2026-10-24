@@ -1,6 +1,6 @@
 # ModelEngine-Group/unified-cache-management
 
-⭐ 348 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ModelEngine-Group/unified-cache-management) · [官网](https://ucm.readthedocs.io/en/latest/) · 组织维护 · 中文 README
+⭐ 349 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ModelEngine-Group/unified-cache-management) · [官网](https://ucm.readthedocs.io/en/latest/) · 组织维护 · 中文 README
 
 **LLM 推理的统一 KV Cache 管理层：跨引擎持久化复用缓存**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ModelEngine-Group/unified-cache-management 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 343 --> 349
-    line [344, 348, 348]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 343 --> 350
+    line [344, 348, 349]
 ```
 
-2026-10-18 344 → 2026-10-23 348（+4）
+2026-10-18 344 → 2026-10-24 349（+5）
 
 
 ---

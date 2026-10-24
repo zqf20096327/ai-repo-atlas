@@ -1,6 +1,6 @@
 # qxoticai/qxotic
 
-⭐ 177 · Java · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/qxoticai/qxotic) · [官网](https://qxotic.ai) · 组织维护
+⭐ 178 · Java · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/qxoticai/qxotic) · [官网](https://qxotic.ai) · 组织维护
 
 **JVM 上的纯 Java 本地 AI 推理栈：聊天/语音/嵌入一 jar 搞定**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "qxoticai/qxotic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 174 --> 178
-    line [175, 176, 177, 177]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 174 --> 179
+    line [175, 176, 177, 178]
 ```
 
-2026-10-18 175 → 2026-10-23 177（+2）
+2026-10-18 175 → 2026-10-24 178（+3）
 
 
 ---

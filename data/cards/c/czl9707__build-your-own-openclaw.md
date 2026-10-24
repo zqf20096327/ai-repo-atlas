@@ -1,6 +1,6 @@
 # czl9707/build-your-own-openclaw
 
-⭐ 1,906 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/czl9707/build-your-own-openclaw) · [官网](https://build-your-own-openclaw.kiyo-n-zane.com/) · 个人维护
+⭐ 1,907 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/czl9707/build-your-own-openclaw) · [官网](https://build-your-own-openclaw.kiyo-n-zane.com/) · 个人维护
 
 **分 18 步从零构建 AI agent 的教程与可运行代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "czl9707/build-your-own-openclaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1903 --> 1907
-    line [1904, 1905, 1904, 1906]
+    title "czl9707/build-your-own-openclaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1903 --> 1908
+    line [1904, 1905, 1904, 1906, 1907]
 ```
 
-2026-10-18 1,904 → 2026-10-23 1,906（+2）
+2026-10-18 1,904 → 2026-10-24 1,907（+3）
 
 
 ---

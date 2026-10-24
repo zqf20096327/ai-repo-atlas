@@ -1,6 +1,6 @@
 # thedaviddias/Front-End-Checklist
 
-⭐ 74,548 · MDX · MIT · 推送 2026-10-06 · [GitHub](https://github.com/thedaviddias/Front-End-Checklist) · [官网](https://frontendchecklist.io) · 个人维护
+⭐ 74,551 · MDX · MIT · 推送 2026-10-06 · [GitHub](https://github.com/thedaviddias/Front-End-Checklist) · [官网](https://frontendchecklist.io) · 个人维护
 
 **为开发者与 AI agent 提供前端质量检查清单与规则库**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "thedaviddias/Front-End-Checklist 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 74484 --> 74553
-    line [74489, 74517, 74536, 74548]
+    title "thedaviddias/Front-End-Checklist 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 74483 --> 74557
+    line [74489, 74517, 74536, 74548, 74551]
 ```
 
-2026-10-18 74,489 → 2026-10-23 74,548（+59）
+2026-10-18 74,489 → 2026-10-24 74,551（+62）
 
 
 ---

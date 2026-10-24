@@ -1,6 +1,6 @@
 # jimmc414/onefilellm
 
-⭐ 2,022 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/jimmc414/onefilellm) · 个人维护
+⭐ 2,023 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/jimmc414/onefilellm) · 个人维护
 
 **多源内容聚合为单一 XML 文件供 LLM 使用的命令行工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jimmc414/onefilellm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2020 --> 2023
-    line [2022, 2021, 2022]
+    title "jimmc414/onefilellm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2020 --> 2024
+    line [2022, 2021, 2022, 2023]
 ```
 
-2026-10-18 2,022 → 2026-10-23 2,022（+0）
+2026-10-18 2,022 → 2026-10-24 2,023（+1）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Snowflake-Labs/snowflake-demo-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 379 --> 381
     line [380, 380]
 ```
 
-2026-10-18 380 → 2026-10-23 380（+0）
+2026-10-18 380 → 2026-10-24 380（+0）
 
 
 ---

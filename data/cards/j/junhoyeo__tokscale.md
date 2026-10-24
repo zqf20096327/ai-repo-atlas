@@ -1,6 +1,6 @@
 # junhoyeo/tokscale
 
-⭐ 5,720 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/junhoyeo/tokscale) · [官网](https://tokscale.ai) · 个人维护 · 中文 README
+⭐ 5,726 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/junhoyeo/tokscale) · [官网](https://tokscale.ai) · 个人维护 · 中文 README
 
 **终端追踪多种 AI 编程 agent 的 token 用量与成本的 CLI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "junhoyeo/tokscale 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5698 --> 5722
-    line [5700, 5711, 5715, 5720]
+    title "junhoyeo/tokscale 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5698 --> 5728
+    line [5700, 5711, 5715, 5720, 5726]
 ```
 
-2026-10-18 5,700 → 2026-10-23 5,720（+20）
+2026-10-18 5,700 → 2026-10-24 5,726（+26）
 
 
 ---

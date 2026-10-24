@@ -1,6 +1,6 @@
 # markovka17/dla
 
-⭐ 773 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/markovka17/dla) · 组织维护
+⭐ 774 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/markovka17/dla) · 组织维护
 
 **HSE 音频深度学习课程讲义与研讨会材料库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "markovka17/dla 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 770 --> 774
-    line [771, 772, 773]
+    title "markovka17/dla 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 770 --> 775
+    line [771, 772, 773, 774]
 ```
 
-2026-10-18 771 → 2026-10-23 773（+2）
+2026-10-18 771 → 2026-10-24 774（+3）
 
 
 ---

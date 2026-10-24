@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "TinyLLaVA/TinyLLaVA_Factory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "TinyLLaVA/TinyLLaVA_Factory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1009 --> 1012
-    line [1010, 1011]
+    line [1010, 1011, 1011]
 ```
 
-2026-10-18 1,010 → 2026-10-23 1,011（+1）
+2026-10-18 1,010 → 2026-10-24 1,011（+1）
 
 
 ---

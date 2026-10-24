@@ -1,6 +1,6 @@
 # marcelroed/gigatoken
 
-⭐ 4,132 · Rust · MIT · 推送 2026-09-02 · [GitHub](https://github.com/marcelroed/gigatoken) · 个人维护
+⭐ 4,133 · Rust · MIT · 推送 2026-09-02 · [GitHub](https://github.com/marcelroed/gigatoken) · 个人维护
 
 **面向语言建模的高速分词库，宣称 GB/s 级编码吞吐**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "marcelroed/gigatoken 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 4127 --> 4133
-    line [4128, 4132, 4132]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 4127 --> 4134
+    line [4128, 4132, 4133]
 ```
 
-2026-10-18 4,128 → 2026-10-23 4,132（+4）
+2026-10-18 4,128 → 2026-10-24 4,133（+5）
 
 
 ---

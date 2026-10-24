@@ -1,6 +1,6 @@
 # astaxie/TokenHub
 
-⭐ 1,388 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/astaxie/TokenHub) · [官网](https://thinkinai-labs.github.io/tokenhome/) · 个人维护 · 中文 README
+⭐ 1,391 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/astaxie/TokenHub) · [官网](https://thinkinai-labs.github.io/tokenhome/) · 个人维护 · 中文 README
 
 **企业级 AI 模型访问治理网关：统一路由、权限与成本核算**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "astaxie/TokenHub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1369 --> 1389
-    line [1370, 1377, 1386, 1388]
+    title "astaxie/TokenHub 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1368 --> 1393
+    line [1370, 1377, 1386, 1388, 1391]
 ```
 
-2026-10-18 1,370 → 2026-10-23 1,388（+18）
+2026-10-18 1,370 → 2026-10-24 1,391（+21）
 
 
 ---

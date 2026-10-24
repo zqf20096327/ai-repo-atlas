@@ -44,13 +44,13 @@ Sidiora Labs 开源的 Gideon 自托管版：一个网关加 Web 控制台，提
 
 ```mermaid
 xychart-beta
-    title "Sidiora-Labs/centra-gideon-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "Sidiora-Labs/centra-gideon-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 213 --> 217
-    line [216, 214, 215]
+    line [216, 214, 215, 215]
 ```
 
-2026-10-18 216 → 2026-10-23 215（-1）
+2026-10-18 216 → 2026-10-24 215（-1）
 
 
 ---

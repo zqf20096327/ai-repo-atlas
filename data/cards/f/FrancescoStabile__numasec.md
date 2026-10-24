@@ -1,6 +1,6 @@
 # FrancescoStabile/numasec
 
-⭐ 816 · TypeScript · AGPL-3.0 · 推送 2026-05-08 · [GitHub](https://github.com/FrancescoStabile/numasec) · 个人维护
+⭐ 820 · TypeScript · AGPL-3.0 · 推送 2026-05-08 · [GitHub](https://github.com/FrancescoStabile/numasec) · 个人维护
 
 **终端内的 AI 网络安全 agent：用本地工具跑安全工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FrancescoStabile/numasec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 810 --> 817
-    line [811, 816, 815, 816]
+    title "FrancescoStabile/numasec 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 810 --> 821
+    line [811, 816, 815, 816, 820]
 ```
 
-2026-10-18 811 → 2026-10-23 816（+5）
+2026-10-18 811 → 2026-10-24 820（+9）
 
 
 ---

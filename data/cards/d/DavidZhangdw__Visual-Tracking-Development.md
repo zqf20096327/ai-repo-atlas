@@ -1,6 +1,6 @@
 # DavidZhangdw/Visual-Tracking-Development
 
-⭐ 601 · Python · 推送 2026-06-15 · [GitHub](https://github.com/DavidZhangdw/Visual-Tracking-Development) · 组织维护 · 中文 README
+⭐ 602 · Python · 推送 2026-06-15 · [GitHub](https://github.com/DavidZhangdw/Visual-Tracking-Development) · 组织维护 · 中文 README
 
 **视觉目标跟踪论文清单：按会议年份收录跟踪方法论文与代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DavidZhangdw/Visual-Tracking-Development 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "DavidZhangdw/Visual-Tracking-Development 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 600 --> 603
-    line [602, 601]
+    line [602, 601, 602]
 ```
 
-2026-10-18 602 → 2026-10-23 601（-1）
+2026-10-18 602 → 2026-10-24 602（+0）
 
 
 ---

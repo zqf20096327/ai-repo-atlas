@@ -1,6 +1,6 @@
 # NVIDIA/DeepStream
 
-⭐ 284 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/DeepStream) · [官网](https://docs.nvidia.com/metropolis/deepstream/dev-guide/) · 组织维护
+⭐ 287 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/DeepStream) · [官网](https://docs.nvidia.com/metropolis/deepstream/dev-guide/) · 组织维护
 
 **面向开发者的 GPU 实时视频/多传感器 AI 分析流水线 SDK**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的流式分析工具包：基于 GStreamer 构建多路流、多�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/DeepStream 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 276 --> 285
-    line [277, 279, 281, 284]
+    title "NVIDIA/DeepStream 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 276 --> 288
+    line [277, 279, 281, 284, 287]
 ```
 
-2026-10-18 277 → 2026-10-23 284（+7）
+2026-10-18 277 → 2026-10-24 287（+10）
 
 
 ---

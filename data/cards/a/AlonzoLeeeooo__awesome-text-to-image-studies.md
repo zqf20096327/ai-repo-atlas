@@ -1,6 +1,6 @@
 # AlonzoLeeeooo/awesome-text-to-image-studies
 
-⭐ 762 · TeX · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies) · 个人维护
+⭐ 762 · TeX · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies) · 个人维护
 
 **文本生成图像（T2I）研究论文与产品资源汇编清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AlonzoLeeeooo/awesome-text-to-image-studies 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 761 --> 763
     line [762, 762]
 ```
 
-2026-10-18 762 → 2026-10-23 762（+0）
+2026-10-18 762 → 2026-10-24 762（+0）
 
 
 ---

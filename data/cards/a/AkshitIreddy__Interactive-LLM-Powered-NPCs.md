@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AkshitIreddy/Interactive-LLM-Powered-NPCs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "AkshitIreddy/Interactive-LLM-Powered-NPCs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 731 --> 734
-    line [732, 733]
+    line [732, 733, 733]
 ```
 
-2026-10-18 732 → 2026-10-23 733（+1）
+2026-10-18 732 → 2026-10-24 733（+1）
 
 
 ---

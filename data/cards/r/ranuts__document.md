@@ -1,6 +1,6 @@
 # ranuts/document
 
-⭐ 1,997 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ranuts/document) · [官网](https://edit.chaxus.com/) · 个人维护 · 中文 README
+⭐ 2,000 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ranuts/document) · [官网](https://edit.chaxus.com/) · 个人维护 · 中文 README
 
 **本地优先的浏览器 Office 文档编辑器，附实验性 AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ranuts/document 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1988 --> 1998
-    line [1989, 1993, 1994, 1997]
+    title "ranuts/document 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1988 --> 2001
+    line [1989, 1993, 1994, 1997, 2000]
 ```
 
-2026-10-18 1,989 → 2026-10-23 1,997（+8）
+2026-10-18 1,989 → 2026-10-24 2,000（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # Weizhena/Deep-Research-skills
 
-⭐ 2,404 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/Weizhena/Deep-Research-skills) · 个人维护 · 中文 README
+⭐ 2,412 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/Weizhena/Deep-Research-skills) · 个人维护 · 中文 README
 
 **面向 Claude Code/OpenCode/Codex 的结构化深度研究技能**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Weizhena/Deep-Research-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2368 --> 2407
-    line [2371, 2385, 2400, 2404]
+    title "Weizhena/Deep-Research-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2367 --> 2416
+    line [2371, 2385, 2400, 2404, 2412]
 ```
 
-2026-10-18 2,371 → 2026-10-23 2,404（+33）
+2026-10-18 2,371 → 2026-10-24 2,412（+41）
 
 
 ---

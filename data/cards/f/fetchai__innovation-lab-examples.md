@@ -44,13 +44,13 @@ Fetch.ai Innovation Lab 维护的 Python AI agent 示例仓库：每个目录是
 
 ```mermaid
 xychart-beta
-    title "fetchai/innovation-lab-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "fetchai/innovation-lab-examples 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1150 --> 1169
-    line [1151, 1161, 1166, 1168]
+    line [1151, 1161, 1166, 1168, 1168]
 ```
 
-2026-10-18 1,151 → 2026-10-23 1,168（+17）
+2026-10-18 1,151 → 2026-10-24 1,168（+17）
 
 
 ---

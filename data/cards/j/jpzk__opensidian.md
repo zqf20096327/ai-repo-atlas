@@ -1,6 +1,6 @@
 # jpzk/opensidian
 
-⭐ 279 · Rust · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/jpzk/opensidian) · [官网](www.opensidian.org) · 个人维护
+⭐ 293 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/jpzk/opensidian) · [官网](www.opensidian.org) · 个人维护
 
 **Rust+Tauri 的跨平台 Markdown 笔记应用，兼容 Obsidian vault**
 
@@ -44,13 +44,13 @@ GPLv3 许可的开源 Markdown 笔记应用，基于 Rust 与 Tauri v2，可直�
 
 ```mermaid
 xychart-beta
-    title "jpzk/opensidian 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 47 --> 300
-    line [68, 228, 269, 279]
+    title "jpzk/opensidian 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 46 --> 315
+    line [68, 228, 269, 279, 293]
 ```
 
-2026-10-18 68 → 2026-10-23 279（+211）
+2026-10-18 68 → 2026-10-24 293（+225）
 
 
 ---

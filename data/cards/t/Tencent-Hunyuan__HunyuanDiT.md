@@ -45,13 +45,13 @@ Hunyuan-DiT 仓库提供 PyTorch 模型定义、预训练权重与推理/采样�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HunyuanDiT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Tencent-Hunyuan/HunyuanDiT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 4288 --> 4291
-    line [4290, 4289]
+    line [4290, 4289, 4289]
 ```
 
-2026-10-18 4,290 → 2026-10-23 4,289（-1）
+2026-10-18 4,290 → 2026-10-24 4,289（-1）
 
 
 ---

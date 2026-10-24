@@ -45,12 +45,12 @@ Microblink 公司提供的 Android 证件扫描 SDK：通过相机扫描各类�
 ```mermaid
 xychart-beta
     title "microblink/blinkid-android 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 466 --> 468
     line [467, 467]
 ```
 
-2026-10-18 467 → 2026-10-23 467（+0）
+2026-10-18 467 → 2026-10-24 467（+0）
 
 
 ---

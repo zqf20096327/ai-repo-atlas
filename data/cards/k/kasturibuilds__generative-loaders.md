@@ -1,6 +1,6 @@
 # kasturibuilds/generative-loaders
 
-⭐ 211 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/kasturibuilds/generative-loaders) · [官网](https://generativeloaders.com) · 个人维护
+⭐ 212 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/kasturibuilds/generative-loaders) · [官网](https://generativeloaders.com) · 个人维护
 
 **React 加载态组件库：面向生成式界面的流式文本/占位动画**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kasturibuilds/generative-loaders 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 210 --> 212
-    line [211, 211]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 210 --> 213
+    line [211, 212]
 ```
 
-2026-10-18 211 → 2026-10-23 211（+0）
+2026-10-18 211 → 2026-10-24 212（+1）
 
 
 ---

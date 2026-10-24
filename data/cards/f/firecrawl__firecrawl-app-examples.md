@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "firecrawl/firecrawl-app-examples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "firecrawl/firecrawl-app-examples 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 828 --> 833
-    line [829, 830, 832]
+    line [829, 830, 832, 832]
 ```
 
-2026-10-18 829 → 2026-10-23 832（+3）
+2026-10-18 829 → 2026-10-24 832（+3）
 
 
 ---

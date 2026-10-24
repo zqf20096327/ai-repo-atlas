@@ -1,6 +1,6 @@
 # BrokkAi/mjolnir
 
-⭐ 104 · Rust · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/BrokkAi/mjolnir) · [官网](https://mjolnir.brokk.ai/) · 组织维护
+⭐ 104 · Rust · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/BrokkAi/mjolnir) · [官网](https://mjolnir.brokk.ai/) · 组织维护
 
 **多编程 Agent 统一控制平面：会话持久化、隔离环境与配额管理**
 
@@ -46,12 +46,12 @@ Rust 编写的终端与 Web 控制平面，用于并行运行 Claude Code、Code
 ```mermaid
 xychart-beta
     title "BrokkAi/mjolnir 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 95 --> 105
     line [96, 104, 104]
 ```
 
-2026-10-18 96 → 2026-10-23 104（+8）
+2026-10-18 96 → 2026-10-24 104（+8）
 
 
 ---

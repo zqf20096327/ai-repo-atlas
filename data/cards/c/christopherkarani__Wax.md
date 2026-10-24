@@ -1,6 +1,6 @@
 # christopherkarani/Wax
 
-⭐ 805 · Swift · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/christopherkarani/Wax) · [官网](https://christopherkarani.github.io/Wax/) · 个人维护 · 中文 README
+⭐ 804 · Swift · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/christopherkarani/Wax) · [官网](https://christopherkarani.github.io/Wax/) · 个人维护 · 中文 README
 
 **Apple Silicon 上的本地单文件 AI agent 共享记忆层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "christopherkarani/Wax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 803 --> 806
-    line [804, 805, 805]
+    line [804, 805, 804]
 ```
 
-2026-10-18 804 → 2026-10-23 805（+1）
+2026-10-18 804 → 2026-10-24 804（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIR-hl/llm-interview-code
 
-⭐ 639 · Jupyter Notebook · 推送 2026-06-19 · [GitHub](https://github.com/AIR-hl/llm-interview-code) · 个人维护 · 中文 README
+⭐ 641 · Jupyter Notebook · 推送 2026-06-19 · [GitHub](https://github.com/AIR-hl/llm-interview-code) · 个人维护 · 中文 README
 
 **LLM 面试常见手撕代码合集（注意力/组件/损失/RL 实现）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIR-hl/llm-interview-code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 633 --> 640
-    line [634, 636, 637, 639]
+    title "AIR-hl/llm-interview-code 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 633 --> 642
+    line [634, 636, 637, 639, 641]
 ```
 
-2026-10-18 634 → 2026-10-23 639（+5）
+2026-10-18 634 → 2026-10-24 641（+7）
 
 
 ---

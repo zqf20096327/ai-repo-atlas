@@ -1,6 +1,6 @@
 # openagents-org/openagents
 
-⭐ 4,247 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openagents-org/openagents) · [官网](https://openagents.org) · 组织维护
+⭐ 4,250 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openagents-org/openagents) · [官网](https://openagents.org) · 组织维护
 
 **开源多 AI agent 协作工作区与启动器**
 
@@ -45,13 +45,13 @@ OpenAgents Workspace 提供一个统一工作区（workspace），将运行在�
 
 ```mermaid
 xychart-beta
-    title "openagents-org/openagents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4224 --> 4249
-    line [4226, 4237, 4243, 4247]
+    title "openagents-org/openagents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4224 --> 4252
+    line [4226, 4237, 4243, 4247, 4250]
 ```
 
-2026-10-18 4,226 → 2026-10-23 4,247（+21）
+2026-10-18 4,226 → 2026-10-24 4,250（+24）
 
 
 ---

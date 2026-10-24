@@ -1,6 +1,6 @@
 # googleworkspace/cli
 
-⭐ 31,790 · Rust · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/googleworkspace/cli) · [官网](https://developers.google.com/workspace) · 组织维护
+⭐ 31,817 · Rust · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/googleworkspace/cli) · [官网](https://developers.google.com/workspace) · 组织维护
 
 **面向人类与 AI agent 的 Google Workspace 统一命令行工具**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "googleworkspace/cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 31584 --> 31808
-    line [31602, 31690, 31753, 31790]
+    title "googleworkspace/cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 31581 --> 31838
+    line [31602, 31690, 31753, 31790, 31817]
 ```
 
-2026-10-18 31,602 → 2026-10-23 31,790（+188）
+2026-10-18 31,602 → 2026-10-24 31,817（+215）
 
 
 ---

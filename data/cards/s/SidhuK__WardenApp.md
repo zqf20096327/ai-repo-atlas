@@ -1,6 +1,6 @@
 # SidhuK/WardenApp
 
-⭐ 347 · Swift · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/SidhuK/WardenApp) · [官网](https://karatsidhu.gumroad.com/l/warden) · 个人维护
+⭐ 346 · Swift · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/SidhuK/WardenApp) · [官网](https://karatsidhu.gumroad.com/l/warden) · 个人维护
 
 **macOS 原生 AI 聊天客户端：多模型对话、本地模型与隐私优先**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SidhuK/WardenApp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "SidhuK/WardenApp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 345 --> 348
-    line [346, 347, 346, 347]
+    line [346, 347, 346, 347, 346]
 ```
 
-2026-10-18 346 → 2026-10-23 347（+1）
+2026-10-18 346 → 2026-10-24 346（+0）
 
 
 ---

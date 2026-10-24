@@ -1,6 +1,6 @@
 # pensarai/apex
 
-⭐ 319 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/pensarai/apex) · [官网](https://pensar.dev) · 组织维护
+⭐ 319 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pensarai/apex) · [官网](https://pensar.dev) · 组织维护
 
 **终端内运行的自主 agent 渗透测试工具（黑白盒）**
 
@@ -47,12 +47,12 @@ Pensar Apex 是在终端中运行的 AI 渗透测试工具：以自主 agent 执
 ```mermaid
 xychart-beta
     title "pensarai/apex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 315 --> 320
     line [316, 319, 319]
 ```
 
-2026-10-18 316 → 2026-10-23 319（+3）
+2026-10-18 316 → 2026-10-24 319（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # higgsfield-ai/higgsfield
 
-⭐ 6,140 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/higgsfield-ai/higgsfield) · 组织维护
+⭐ 6,148 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/higgsfield-ai/higgsfield) · 组织维护
 
 **面向十亿至万亿参数模型训练的容错 GPU 编排与训练框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "higgsfield-ai/higgsfield 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6063 --> 6147
-    line [6070, 6099, 6130, 6140]
+    title "higgsfield-ai/higgsfield 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6063 --> 6155
+    line [6070, 6099, 6130, 6140, 6148]
 ```
 
-2026-10-18 6,070 → 2026-10-23 6,140（+70）
+2026-10-18 6,070 → 2026-10-24 6,148（+78）
 
 
 ---

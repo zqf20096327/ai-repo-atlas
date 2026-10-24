@@ -8,7 +8,7 @@ Docs:
 - [CHANGELOG.md](CHANGELOG.md): 数据与格式的变更历史。
 
 Data:
-- [data/catalog.jsonl](data/catalog.jsonl): 机器主表,13456 行,一仓一行 JSON,按 fn 排序。
+- [data/catalog.jsonl](data/catalog.jsonl): 机器主表,14001 行,一仓一行 JSON,按 fn 排序。
 - [data/schema/card.schema.json](data/schema/card.schema.json): 主表 JSON Schema。
 - [data/vocab.json](data/vocab.json): 场景标签受控词表 v1.0(47 标签/10 组,含定义与别名;查询解析与打标共用)。
 - [data/cards/](data/cards): 人读 markdown 卡片,一仓一文件,路径 `data/cards/{owner首字母}/{owner}__{repo}.md`。

@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSpec
 
-⭐ 7,243 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/deepseek-ai/DeepSpec) · 组织维护 · 中文 README
+⭐ 7,244 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/deepseek-ai/DeepSpec) · 组织维护 · 中文 README
 
 **推测解码草稿模型的训练与评测全栈代码库**
 
@@ -45,13 +45,13 @@ DeepSpec 提供推测解码（speculative decoding）中草稿模型（draft mod
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepSpec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7220 --> 7245
-    line [7222, 7227, 7238, 7243]
+    title "deepseek-ai/DeepSpec 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7220 --> 7246
+    line [7222, 7227, 7238, 7243, 7244]
 ```
 
-2026-10-18 7,222 → 2026-10-23 7,243（+21）
+2026-10-18 7,222 → 2026-10-24 7,244（+22）
 
 
 ---

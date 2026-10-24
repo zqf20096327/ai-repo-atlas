@@ -1,6 +1,6 @@
 # fetchai/uAgents
 
-⭐ 1,643 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/fetchai/uAgents) · 组织维护
+⭐ 1,643 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/fetchai/uAgents) · 组织维护
 
 **给开发者：用 Python 创建去中心化自主 AI agent 的框架**
 
@@ -45,12 +45,12 @@ Fetch.ai 开发的 Python 库，通过装饰器（如 on_interval、事件处理
 ```mermaid
 xychart-beta
     title "fetchai/uAgents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1642 --> 1646
     line [1644, 1645, 1643, 1643]
 ```
 
-2026-10-18 1,644 → 2026-10-23 1,643（-1）
+2026-10-18 1,644 → 2026-10-24 1,643（-1）
 
 
 ---

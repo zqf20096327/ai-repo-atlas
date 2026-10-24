@@ -1,6 +1,6 @@
 # OpenDCAI/One-Eval
 
-⭐ 164 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/OpenDCAI/One-Eval) · [官网](https://wcny4qa9krto.feishu.cn/wiki/AJX6w5SbGiJxctkQQdfckVqKnYf) · 组织维护 · 中文 README
+⭐ 163 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/OpenDCAI/One-Eval) · [官网](https://wcny4qa9krto.feishu.cn/wiki/AJX6w5SbGiJxctkQQdfckVqKnYf) · 组织维护 · 中文 README
 
 **基于 Agent 的 LLM 自动评测框架：自然语言到评测报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenDCAI/One-Eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 163 --> 165
-    line [164, 164]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 162 --> 165
+    line [164, 163]
 ```
 
-2026-10-18 164 → 2026-10-23 164（+0）
+2026-10-18 164 → 2026-10-24 163（-1）
 
 
 ---

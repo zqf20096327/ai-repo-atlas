@@ -1,6 +1,6 @@
 # AIScientists-Dev/academic-humanizer
 
-⭐ 2,415 · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/AIScientists-Dev/academic-humanizer) · [官网](https://morphmind.ai) · 组织维护
+⭐ 2,456 · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/AIScientists-Dev/academic-humanizer) · [官网](https://morphmind.ai) · 组织维护
 
 **给科研作者的 AI 草稿润色技能：去 AI 腔、保学术措辞与引证**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIScientists-Dev/academic-humanizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2167 --> 2437
-    line [2189, 2286, 2415]
+    title "AIScientists-Dev/academic-humanizer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2163 --> 2482
+    line [2189, 2286, 2415, 2456]
 ```
 
-2026-10-18 2,189 → 2026-10-23 2,415（+226）
+2026-10-18 2,189 → 2026-10-24 2,456（+267）
 
 
 ---

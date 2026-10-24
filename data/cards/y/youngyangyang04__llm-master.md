@@ -1,6 +1,6 @@
 # youngyangyang04/llm-master
 
-⭐ 1,384 · MIT · 推送 2026-10-05 · [GitHub](https://github.com/youngyangyang04/llm-master) · [官网](https://notes.kamacoder.com/llm/) · 组织维护 · 中文 README
+⭐ 1,397 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/youngyangyang04/llm-master) · [官网](https://notes.kamacoder.com/llm/) · 组织维护 · 中文 README
 
 **程序员的大模型全栈学习路线与中文教程仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "youngyangyang04/llm-master 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1313 --> 1390
-    line [1319, 1348, 1374, 1384]
+    title "youngyangyang04/llm-master 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1312 --> 1404
+    line [1319, 1348, 1374, 1384, 1397]
 ```
 
-2026-10-18 1,319 → 2026-10-23 1,384（+65）
+2026-10-18 1,319 → 2026-10-24 1,397（+78）
 
 
 ---

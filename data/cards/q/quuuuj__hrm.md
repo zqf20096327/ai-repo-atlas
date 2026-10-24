@@ -1,6 +1,6 @@
 # quuuuj/hrm
 
-⭐ 479 · Java · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/quuuuj/hrm) · 个人维护 · 中文 README
+⭐ 480 · Java · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/quuuuj/hrm) · 个人维护 · 中文 README
 
 **企业人力资源管理系统：含 RAG 知识库智能问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "quuuuj/hrm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 475 --> 480
-    line [476, 477, 479]
+    title "quuuuj/hrm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 475 --> 481
+    line [476, 477, 479, 480]
 ```
 
-2026-10-18 476 → 2026-10-23 479（+3）
+2026-10-18 476 → 2026-10-24 480（+4）
 
 
 ---

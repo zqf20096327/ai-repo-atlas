@@ -1,6 +1,6 @@
 # ml-from-scratch-book/code
 
-⭐ 320 · Jupyter Notebook · MIT · 推送 2026-07-19 · [GitHub](https://github.com/ml-from-scratch-book/code) · [官网](https://ml-from-scratch-book.github.io/code/) · 组织维护
+⭐ 321 · Jupyter Notebook · MIT · 推送 2026-07-19 · [GitHub](https://github.com/ml-from-scratch-book/code) · [官网](https://ml-from-scratch-book.github.io/code/) · 组织维护
 
 **《Machine Learning From Scratch》书籍配套代码：从零实现10种核心ML算法**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ml-from-scratch-book/code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 315 --> 321
-    line [316, 319, 320]
+    title "ml-from-scratch-book/code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 315 --> 322
+    line [316, 319, 320, 321]
 ```
 
-2026-10-18 316 → 2026-10-23 320（+4）
+2026-10-18 316 → 2026-10-24 321（+5）
 
 
 ---

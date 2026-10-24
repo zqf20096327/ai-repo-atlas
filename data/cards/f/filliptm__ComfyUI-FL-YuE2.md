@@ -1,6 +1,6 @@
 # filliptm/ComfyUI-FL-YuE2
 
-⭐ 220 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/filliptm/ComfyUI-FL-YuE2) · 个人维护
+⭐ 221 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/filliptm/ComfyUI-FL-YuE2) · 个人维护
 
 **ComfyUI 的 YuE2 音乐生成节点包，带可编辑钢琴卷帘**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点集合，封装 YuE2-3B 模型的推理与训练：从歌
 ```mermaid
 xychart-beta
     title "filliptm/ComfyUI-FL-YuE2 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 215 --> 221
-    line [216, 218, 220, 220]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 215 --> 222
+    line [216, 218, 220, 221]
 ```
 
-2026-10-18 216 → 2026-10-23 220（+4）
+2026-10-18 216 → 2026-10-24 221（+5）
 
 
 ---

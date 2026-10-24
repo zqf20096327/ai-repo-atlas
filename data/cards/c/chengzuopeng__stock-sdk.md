@@ -1,6 +1,6 @@
 # chengzuopeng/stock-sdk
 
-⭐ 1,985 · TypeScript · ISC · 推送 2026-10-03 · [GitHub](https://github.com/chengzuopeng/stock-sdk) · [官网](https://stock-sdk.linkdiary.cn/) · 个人维护 · 中文 README
+⭐ 1,986 · TypeScript · ISC · 推送 2026-10-03 · [GitHub](https://github.com/chengzuopeng/stock-sdk) · [官网](https://stock-sdk.linkdiary.cn/) · 个人维护 · 中文 README
 
 **前端/Node.js 零依赖股票数据 SDK，含 CLI 与内置 MCP server**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chengzuopeng/stock-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1984 --> 1986
-    line [1985, 1985]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 1984 --> 1987
+    line [1985, 1986]
 ```
 
-2026-10-18 1,985 → 2026-10-23 1,985（+0）
+2026-10-18 1,985 → 2026-10-24 1,986（+1）
 
 
 ---

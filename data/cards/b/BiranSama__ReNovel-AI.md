@@ -1,6 +1,6 @@
 # BiranSama/ReNovel-AI
 
-⭐ 248 · Python · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/BiranSama/ReNovel-AI) · 个人维护 · 中文 README
+⭐ 250 · Python · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/BiranSama/ReNovel-AI) · 个人维护 · 中文 README
 
 **本地化 AI 小说精修工作台，面向小说作者的重写/扩写/校验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BiranSama/ReNovel-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 240 --> 249
-    line [241, 246, 248, 248]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 240 --> 251
+    line [241, 246, 248, 250]
 ```
 
-2026-10-18 241 → 2026-10-23 248（+7）
+2026-10-18 241 → 2026-10-24 250（+9）
 
 
 ---

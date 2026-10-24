@@ -1,6 +1,6 @@
 # apache/hamilton
 
-⭐ 2,615 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/hamilton) · [官网](https://hamilton.apache.org/) · 组织维护
+⭐ 2,615 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/apache/hamilton) · [官网](https://hamilton.apache.org/) · 组织维护
 
 **数据科学家/工程师：用 Python 函数定义可移植、可测试的数据变换 DAG**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "apache/hamilton 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "apache/hamilton 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2609 --> 2616
-    line [2610, 2611, 2613, 2615]
+    line [2610, 2611, 2613, 2615, 2615]
 ```
 
-2026-10-18 2,610 → 2026-10-23 2,615（+5）
+2026-10-18 2,610 → 2026-10-24 2,615（+5）
 
 
 ---

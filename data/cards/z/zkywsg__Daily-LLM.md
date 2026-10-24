@@ -1,6 +1,6 @@
 # zkywsg/Daily-LLM
 
-⭐ 865 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/zkywsg/Daily-LLM) · 个人维护 · 中文 README
+⭐ 866 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/zkywsg/Daily-LLM) · 个人维护 · 中文 README
 
 **深度学习与大模型学习路线仓库：19 个架构家族的系统教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zkywsg/Daily-LLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 864 --> 867
-    line [866, 865, 865]
+    line [866, 865, 866]
 ```
 
-2026-10-18 866 → 2026-10-23 865（-1）
+2026-10-18 866 → 2026-10-24 866（+0）
 
 
 ---

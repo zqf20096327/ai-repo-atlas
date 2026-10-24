@@ -1,6 +1,6 @@
 # zhimin-z/awesome-awesome-artificial-intelligence
 
-⭐ 226 · MIT · 推送 2026-07-09 · [GitHub](https://github.com/zhimin-z/awesome-awesome-artificial-intelligence) · 个人维护
+⭐ 227 · MIT · 推送 2026-07-09 · [GitHub](https://github.com/zhimin-z/awesome-awesome-artificial-intelligence) · 个人维护
 
 **AI 主题的 awesome 清单的清单，按主题分类编目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhimin-z/awesome-awesome-artificial-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 225 --> 227
-    line [226, 226]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 225 --> 228
+    line [226, 227]
 ```
 
-2026-10-18 226 → 2026-10-23 226（+0）
+2026-10-18 226 → 2026-10-24 227（+1）
 
 
 ---

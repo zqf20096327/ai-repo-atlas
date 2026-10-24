@@ -1,6 +1,6 @@
 # upb-lea/reinforcement_learning_course_materials
 
-⭐ 1,199 · Jupyter Notebook · NOASSERTION · 推送 2026-01-05 · [GitHub](https://github.com/upb-lea/reinforcement_learning_course_materials) · 组织维护
+⭐ 1,200 · Jupyter Notebook · NOASSERTION · 推送 2026-01-05 · [GitHub](https://github.com/upb-lea/reinforcement_learning_course_materials) · 组织维护
 
 **帕德博恩大学强化学习课程讲义与习题集（含视频）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "upb-lea/reinforcement_learning_course_materials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1198 --> 1200
-    line [1199, 1199]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 1198 --> 1201
+    line [1199, 1200]
 ```
 
-2026-10-18 1,199 → 2026-10-23 1,199（+0）
+2026-10-18 1,199 → 2026-10-24 1,200（+1）
 
 
 ---

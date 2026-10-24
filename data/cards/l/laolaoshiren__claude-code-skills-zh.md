@@ -1,6 +1,6 @@
 # laolaoshiren/claude-code-skills-zh
 
-⭐ 893 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/laolaoshiren/claude-code-skills-zh) · [官网](https://claude-skills.bt199.com/) · 个人维护 · 中文 README
+⭐ 892 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/laolaoshiren/claude-code-skills-zh) · [官网](https://claude-skills.bt199.com/) · 个人维护 · 中文 README
 
 **中文开发者的 Claude Code Skills/Agents/Plugins 精选清单与原创技能库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "laolaoshiren/claude-code-skills-zh 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 891 --> 895
-    line [892, 894, 893, 893]
+    line [892, 894, 893, 892]
 ```
 
-2026-10-18 892 → 2026-10-23 893（+1）
+2026-10-18 892 → 2026-10-24 892（+0）
 
 
 ---

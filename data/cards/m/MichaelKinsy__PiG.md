@@ -1,6 +1,6 @@
 # MichaelKinsy/PiG
 
-⭐ 716 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MichaelKinsy/PiG) · [官网](https://pi-in-go.dev) · 个人维护
+⭐ 734 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MichaelKinsy/PiG) · [官网](https://pi-in-go.dev) · 个人维护
 
 **终端极简编程 agent Pi 的 Go 移植版：单二进制、免 Node.js**
 
@@ -45,13 +45,13 @@ PiG 是上游 TypeScript 编写的终端编程 agent Pi 的 Go 平移移植，�
 
 ```mermaid
 xychart-beta
-    title "MichaelKinsy/PiG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 611 --> 725
-    line [620, 634, 701, 716]
+    title "MichaelKinsy/PiG 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 609 --> 745
+    line [620, 634, 701, 716, 734]
 ```
 
-2026-10-18 620 → 2026-10-23 716（+96）
+2026-10-18 620 → 2026-10-24 734（+114）
 
 
 ---

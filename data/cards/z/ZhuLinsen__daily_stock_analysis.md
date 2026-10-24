@@ -1,6 +1,6 @@
 # ZhuLinsen/daily_stock_analysis
 
-⭐ 66,886 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [官网](https://dsa.zhulinsen.tech) · 个人维护 · 中文 README
+⭐ 66,943 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [官网](https://dsa.zhulinsen.tech) · 个人维护 · 中文 README
 
 **给个人投资者：LLM 每日自动分析自选股并推送决策仪表盘**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZhuLinsen/daily_stock_analysis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 66553 --> 66916
-    line [66583, 66745, 66820, 66886]
+    title "ZhuLinsen/daily_stock_analysis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 66547 --> 66979
+    line [66583, 66745, 66820, 66886, 66943]
 ```
 
-2026-10-18 66,583 → 2026-10-23 66,886（+303）
+2026-10-18 66,583 → 2026-10-24 66,943（+360）
 
 
 ---

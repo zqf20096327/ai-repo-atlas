@@ -1,6 +1,6 @@
 # nasa-jpl/rosa
 
-⭐ 1,668 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/nasa-jpl/rosa) · [官网](https://github.com/nasa-jpl/rosa/wiki) · 组织维护
+⭐ 1,671 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/nasa-jpl/rosa) · [官网](https://github.com/nasa-jpl/rosa/wiki) · 组织维护
 
 **用自然语言查询与操控 ROS1/ROS2 机器人系统的 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nasa-jpl/rosa 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1661 --> 1669
-    line [1662, 1663, 1665, 1668]
+    title "nasa-jpl/rosa 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1661 --> 1672
+    line [1662, 1663, 1665, 1668, 1671]
 ```
 
-2026-10-18 1,662 → 2026-10-23 1,668（+6）
+2026-10-18 1,662 → 2026-10-24 1,671（+9）
 
 
 ---

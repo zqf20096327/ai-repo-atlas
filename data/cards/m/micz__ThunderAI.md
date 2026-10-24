@@ -1,6 +1,6 @@
 # micz/ThunderAI
 
-⭐ 361 · JavaScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/micz/ThunderAI) · [官网](https://micz.it/thunderbird-addon-thunderai/) · 个人维护 · 中文 README
+⭐ 361 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/micz/ThunderAI) · [官网](https://micz.it/thunderbird-addon-thunderai/) · 个人维护 · 中文 README
 
 **让 AI 处理邮件的 Thunderbird 附加组件**
 
@@ -47,12 +47,12 @@ ThunderAI 是一个 Thunderbird 附加组件，在邮箱内调用 AI 完成邮�
 ```mermaid
 xychart-beta
     title "micz/ThunderAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 358 --> 362
     line [359, 360, 361, 361]
 ```
 
-2026-10-18 359 → 2026-10-23 361（+2）
+2026-10-18 359 → 2026-10-24 361（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/DeepVideoDiscovery
 
-⭐ 425 · Python · MIT · 推送 2025-11-03 · [GitHub](https://github.com/microsoft/DeepVideoDiscovery) · 组织维护
+⭐ 426 · Python · MIT · 推送 2025-11-03 · [GitHub](https://github.com/microsoft/DeepVideoDiscovery) · 组织维护
 
 **面向超长视频理解与问答的深度研究式 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/DeepVideoDiscovery 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 422 --> 426
-    line [423, 424, 425]
+    title "microsoft/DeepVideoDiscovery 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 422 --> 427
+    line [423, 424, 425, 426]
 ```
 
-2026-10-18 423 → 2026-10-23 425（+2）
+2026-10-18 423 → 2026-10-24 426（+3）
 
 
 ---

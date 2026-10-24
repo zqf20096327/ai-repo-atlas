@@ -1,6 +1,6 @@
 # dyoshikawa/rulesync
 
-⭐ 1,544 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dyoshikawa/rulesync) · [官网](http://rulesync.dyoshikawa.com/) · 个人维护
+⭐ 1,548 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dyoshikawa/rulesync) · [官网](http://rulesync.dyoshikawa.com/) · 个人维护
 
 **从统一 AI 规则文件生成多种 AI 编码工具配置的 CLI**
 
@@ -44,13 +44,13 @@ Node.js 命令行工具：以 .rulesync/ 目录下的统一规则文件为单一
 
 ```mermaid
 xychart-beta
-    title "dyoshikawa/rulesync 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1528 --> 1545
-    line [1529, 1535, 1538, 1544]
+    title "dyoshikawa/rulesync 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1528 --> 1549
+    line [1529, 1535, 1538, 1544, 1548]
 ```
 
-2026-10-18 1,529 → 2026-10-23 1,544（+15）
+2026-10-18 1,529 → 2026-10-24 1,548（+19）
 
 
 ---

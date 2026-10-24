@@ -1,6 +1,6 @@
 # Amm1rr/WebAI-to-API
 
-⭐ 1,400 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Amm1rr/WebAI-to-API) · 个人维护
+⭐ 1,402 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Amm1rr/WebAI-to-API) · 个人维护
 
 **将浏览器版 Gemini 封装为 OpenAI 兼容 API 的服务端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Amm1rr/WebAI-to-API 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1394 --> 1401
-    line [1395, 1397, 1398, 1400]
+    title "Amm1rr/WebAI-to-API 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1394 --> 1403
+    line [1395, 1397, 1398, 1400, 1402]
 ```
 
-2026-10-18 1,395 → 2026-10-23 1,400（+5）
+2026-10-18 1,395 → 2026-10-24 1,402（+7）
 
 
 ---

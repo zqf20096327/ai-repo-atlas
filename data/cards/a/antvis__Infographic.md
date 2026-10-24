@@ -1,6 +1,6 @@
 # antvis/Infographic
 
-⭐ 7,032 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/antvis/Infographic) · [官网](https://infographic.antv.vision) · 组织维护 · 中文 README
+⭐ 7,034 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/antvis/Infographic) · [官网](https://infographic.antv.vision) · 组织维护 · 中文 README
 
 **面向 AI 生成的声明式信息图渲染引擎，含 200 模板**
 
@@ -45,13 +45,13 @@ AntV 团队的声明式信息图可视化引擎：提供专为 AI 生成调优�
 
 ```mermaid
 xychart-beta
-    title "antvis/Infographic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7007 --> 7034
-    line [7009, 7018, 7025, 7032]
+    title "antvis/Infographic 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7007 --> 7036
+    line [7009, 7018, 7025, 7032, 7034]
 ```
 
-2026-10-18 7,009 → 2026-10-23 7,032（+23）
+2026-10-18 7,009 → 2026-10-24 7,034（+25）
 
 
 ---

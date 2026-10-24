@@ -1,6 +1,6 @@
 # Dryxio/reagent
 
-⭐ 2,153 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Dryxio/reagent) · 个人维护
+⭐ 2,160 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Dryxio/reagent) · 个人维护
 
 **用 Ghidra+LLM 从二进制重建并验证 C/C++ 函数的逆向 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dryxio/reagent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2108 --> 2157
-    line [2112, 2127, 2134, 2153]
+    title "Dryxio/reagent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2108 --> 2164
+    line [2112, 2127, 2134, 2153, 2160]
 ```
 
-2026-10-18 2,112 → 2026-10-23 2,153（+41）
+2026-10-18 2,112 → 2026-10-24 2,160（+48）
 
 
 ---

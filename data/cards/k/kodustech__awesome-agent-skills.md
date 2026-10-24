@@ -1,6 +1,6 @@
 # kodustech/awesome-agent-skills
 
-⭐ 110 · 推送 2026-10-01 · [GitHub](https://github.com/kodustech/awesome-agent-skills) · [官网](https://ai-skills.io/) · 组织维护
+⭐ 111 · 推送 2026-10-01 · [GitHub](https://github.com/kodustech/awesome-agent-skills) · [官网](https://ai-skills.io/) · 组织维护
 
 **面向软件工程 AI 编码 agent 的技能策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "kodustech/awesome-agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 108 --> 111
-    line [109, 110]
+    title "kodustech/awesome-agent-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 108 --> 112
+    line [109, 110, 111]
 ```
 
-2026-10-18 109 → 2026-10-23 110（+1）
+2026-10-18 109 → 2026-10-24 111（+2）
 
 
 ---

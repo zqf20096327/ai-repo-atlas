@@ -1,6 +1,6 @@
 # NicholasSpisak/second-brain
 
-⭐ 755 · Shell · 推送 2026-04-07 · [GitHub](https://github.com/NicholasSpisak/second-brain) · 个人维护
+⭐ 756 · Shell · 推送 2026-04-07 · [GitHub](https://github.com/NicholasSpisak/second-brain) · 个人维护
 
 **LLM 维护的个人知识库技能包：原始资料自动编成 Obsidian wiki**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NicholasSpisak/second-brain 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 743 --> 756
-    line [744, 748, 754, 755]
+    title "NicholasSpisak/second-brain 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 743 --> 757
+    line [744, 748, 754, 755, 756]
 ```
 
-2026-10-18 744 → 2026-10-23 755（+11）
+2026-10-18 744 → 2026-10-24 756（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVIDIA/Personal-AI-Router
 
-⭐ 1,653 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/Personal-AI-Router) · 组织维护
+⭐ 1,658 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/Personal-AI-Router) · 组织维护
 
 **家庭局域网多机本地推理路由器：跨设备分发请求**
 
@@ -45,13 +45,13 @@ NVIDIA Personal AI Router (PAIR) 是面向同一局域网内多台兼容电脑�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/Personal-AI-Router 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1629 --> 1655
-    line [1631, 1639, 1647, 1653]
+    title "NVIDIA/Personal-AI-Router 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1629 --> 1660
+    line [1631, 1639, 1647, 1653, 1658]
 ```
 
-2026-10-18 1,631 → 2026-10-23 1,653（+22）
+2026-10-18 1,631 → 2026-10-24 1,658（+27）
 
 
 ---

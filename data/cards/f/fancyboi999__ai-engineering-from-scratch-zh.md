@@ -1,6 +1,6 @@
 # fancyboi999/ai-engineering-from-scratch-zh
 
-⭐ 1,270 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fancyboi999/ai-engineering-from-scratch-zh) · [官网](https://aieng-zh.cn) · 个人维护 · 中文 README
+⭐ 1,271 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fancyboi999/ai-engineering-from-scratch-zh) · [官网](https://aieng-zh.cn) · 个人维护 · 中文 README
 
 **AI 工程中文全量课程：542 课 20 阶段，从数学手写到 agent**
 
@@ -46,13 +46,13 @@ AI Engineering from Scratch 的简体中文衍生版，提供 542 节课、20 �
 
 ```mermaid
 xychart-beta
-    title "fancyboi999/ai-engineering-from-scratch-zh 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1250 --> 1271
-    line [1251, 1256, 1265, 1270]
+    title "fancyboi999/ai-engineering-from-scratch-zh 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1249 --> 1273
+    line [1251, 1256, 1265, 1270, 1271]
 ```
 
-2026-10-18 1,251 → 2026-10-23 1,270（+19）
+2026-10-18 1,251 → 2026-10-24 1,271（+20）
 
 
 ---

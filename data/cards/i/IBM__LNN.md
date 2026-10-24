@@ -1,6 +1,6 @@
 # IBM/LNN
 
-⭐ 336 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/IBM/LNN) · [官网](https://IBM.github.io/LNN/) · 组织维护
+⭐ 336 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/IBM/LNN) · [官网](https://IBM.github.io/LNN/) · 组织维护
 
 **神经=符号框架：可学习且可推理的加权实值逻辑网络**
 
@@ -45,12 +45,12 @@ IBM 维护的 Logical Neural Networks（LNN）开源框架，将神经网络的�
 ```mermaid
 xychart-beta
     title "IBM/LNN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 335 --> 337
     line [336, 336]
 ```
 
-2026-10-18 336 → 2026-10-23 336（+0）
+2026-10-18 336 → 2026-10-24 336（+0）
 
 
 ---

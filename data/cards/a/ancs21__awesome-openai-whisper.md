@@ -1,6 +1,6 @@
 # ancs21/awesome-openai-whisper
 
-⭐ 107 · CC0-1.0 · 推送 2026-10-10 · [GitHub](https://github.com/ancs21/awesome-openai-whisper) · 个人维护
+⭐ 108 · CC0-1.0 · 推送 2026-10-10 · [GitHub](https://github.com/ancs21/awesome-openai-whisper) · 个人维护
 
 **OpenAI Whisper 生态资源策展清单：模型变体、应用与教程**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ancs21/awesome-openai-whisper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 106 --> 108
-    line [107, 107]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 106 --> 109
+    line [107, 108]
 ```
 
-2026-10-18 107 → 2026-10-23 107（+0）
+2026-10-18 107 → 2026-10-24 108（+1）
 
 
 ---

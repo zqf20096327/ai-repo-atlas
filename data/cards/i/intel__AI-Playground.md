@@ -1,6 +1,6 @@
 # intel/AI-Playground
 
-⭐ 1,016 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/intel/AI-Playground) · 组织维护
+⭐ 1,019 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/intel/AI-Playground) · 组织维护
 
 **Intel AI PC 上的本地生成式 AI 套件：聊天、图像与视频生成**
 
@@ -44,13 +44,13 @@ Intel 开源的开源桌面应用套件，面向消费者与 AI 尝鲜用户，�
 
 ```mermaid
 xychart-beta
-    title "intel/AI-Playground 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1008 --> 1017
-    line [1009, 1013, 1014, 1016]
+    title "intel/AI-Playground 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1008 --> 1020
+    line [1009, 1013, 1014, 1016, 1019]
 ```
 
-2026-10-18 1,009 → 2026-10-23 1,016（+7）
+2026-10-18 1,009 → 2026-10-24 1,019（+10）
 
 
 ---

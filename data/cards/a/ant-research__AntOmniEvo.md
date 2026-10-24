@@ -1,6 +1,6 @@
 # ant-research/AntOmniEvo
 
-⭐ 1,048 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/ant-research/AntOmniEvo) · 组织维护 · 中文 README
+⭐ 1,134 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/ant-research/AntOmniEvo) · 组织维护 · 中文 README
 
 **AI agent 系统的自动进化优化框架：代理自动改写可调文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ant-research/AntOmniEvo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "ant-research/AntOmniEvo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1031 --> 1239
-    line [1222, 1219, 1222, 1048]
+    line [1222, 1219, 1222, 1048, 1134]
 ```
 
-2026-10-18 1,222 → 2026-10-23 1,048（-174）
+2026-10-18 1,222 → 2026-10-24 1,134（-88）
 
 
 ---

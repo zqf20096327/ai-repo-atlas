@@ -1,6 +1,6 @@
 # JetBrains/koog
 
-⭐ 4,625 · Kotlin · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/JetBrains/koog) · [官网](https://docs.koog.ai) · 组织维护
+⭐ 4,632 · Kotlin · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/JetBrains/koog) · [官网](https://docs.koog.ai) · 组织维护
 
 **面向 Kotlin/Java 开发者的跨平台 AI agent 构建框架**
 
@@ -44,13 +44,13 @@ JetBrains 孵化的 JVM（Kotlin/Java）AI agent 框架，用 Kotlin Multiplatfo
 
 ```mermaid
 xychart-beta
-    title "JetBrains/koog 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4616 --> 4626
-    line [4617, 4619, 4623, 4625]
+    title "JetBrains/koog 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4616 --> 4633
+    line [4617, 4619, 4623, 4625, 4632]
 ```
 
-2026-10-18 4,617 → 2026-10-23 4,625（+8）
+2026-10-18 4,617 → 2026-10-24 4,632（+15）
 
 
 ---

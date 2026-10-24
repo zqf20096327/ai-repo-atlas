@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "israelbls/notebooklm-podcast-automator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "israelbls/notebooklm-podcast-automator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 115 --> 118
-    line [116, 117]
+    line [116, 117, 117]
 ```
 
-2026-10-18 116 → 2026-10-23 117（+1）
+2026-10-18 116 → 2026-10-24 117（+1）
 
 
 ---

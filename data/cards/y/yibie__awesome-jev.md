@@ -1,6 +1,6 @@
 # yibie/awesome-jev
 
-⭐ 2,441 · Python · 推送 2026-10-22 · [GitHub](https://github.com/yibie/awesome-jev) · 个人维护
+⭐ 2,450 · Python · 推送 2026-10-23 · [GitHub](https://github.com/yibie/awesome-jev) · 个人维护
 
 **基于 Jev 类型化决策模型的公开项目策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "yibie/awesome-jev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2381 --> 2446
-    line [2386, 2415, 2434, 2441]
+    title "yibie/awesome-jev 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2380 --> 2456
+    line [2386, 2415, 2434, 2441, 2450]
 ```
 
-2026-10-18 2,386 → 2026-10-23 2,441（+55）
+2026-10-18 2,386 → 2026-10-24 2,450（+64）
 
 
 ---

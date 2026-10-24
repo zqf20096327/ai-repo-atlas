@@ -41,6 +41,18 @@ HULL 是一个 Helm library chart，用于简化基于 Helm chart 的工作流�
 > L44: HULL remains compatible with existing Helm 3 releases and is fully compatible with Helm v4 starting with versions `
 > L206: - `hull_validate.py` checks a chart and reports schema problems in the same format, and the Claude Code plugin and
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vidispine/hull 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 294 --> 296
+    line [295, 295]
+```
+
+2026-10-23 295 → 2026-10-24 295（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `676431054ed4` · [字段定义](../../DATASET.md)*

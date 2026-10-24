@@ -1,6 +1,6 @@
 # openai/codex-action
 
-⭐ 1,277 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/openai/codex-action) · 组织维护
+⭐ 1,278 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/openai/codex-action) · 组织维护
 
 **在 GitHub Actions 中以受限权限运行 Codex CLI 的官方 Action**
 
@@ -44,13 +44,13 @@ OpenAI 维护的 GitHub Action：在 Actions 工作流中安装 Codex CLI 并通
 
 ```mermaid
 xychart-beta
-    title "openai/codex-action 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1269 --> 1278
-    line [1270, 1273, 1276, 1277]
+    title "openai/codex-action 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1269 --> 1279
+    line [1270, 1273, 1276, 1277, 1278]
 ```
 
-2026-10-18 1,270 → 2026-10-23 1,277（+7）
+2026-10-18 1,270 → 2026-10-24 1,278（+8）
 
 
 ---

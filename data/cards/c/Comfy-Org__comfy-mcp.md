@@ -1,6 +1,6 @@
 # Comfy-Org/comfy-mcp
 
-⭐ 297 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Comfy-Org/comfy-mcp) · 组织维护
+⭐ 299 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Comfy-Org/comfy-mcp) · 组织维护
 
 **让 AI agent 通过 MCP 驱动本地 ComfyUI 的服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Comfy-Org/comfy-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 283 --> 298
-    line [284, 289, 294, 297]
+    title "Comfy-Org/comfy-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 283 --> 300
+    line [284, 289, 294, 297, 299]
 ```
 
-2026-10-18 284 → 2026-10-23 297（+13）
+2026-10-18 284 → 2026-10-24 299（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # r14dd/patent
 
-⭐ 547 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/r14dd/patent) · [官网](https://crates.io/crates/patent) · 个人维护
+⭐ 553 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/r14dd/patent) · [官网](https://crates.io/crates/patent) · 个人维护
 
 **开发工具创意的现有技术检索 CLI：查想法是否已被实现**
 
@@ -44,13 +44,13 @@ Rust 编写的命令行/TUI 工具，输入一句英文开发工具创意，同�
 
 ```mermaid
 xychart-beta
-    title "r14dd/patent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 538 --> 548
-    line [539, 540, 541, 547]
+    title "r14dd/patent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 538 --> 554
+    line [539, 540, 541, 547, 553]
 ```
 
-2026-10-18 539 → 2026-10-23 547（+8）
+2026-10-18 539 → 2026-10-24 553（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # deepset-ai/haystack
 
-⭐ 26,812 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/deepset-ai/haystack) · [官网](https://haystack.deepset.ai) · 组织维护
+⭐ 26,818 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/deepset-ai/haystack) · [官网](https://haystack.deepset.ai) · 组织维护
 
 **面向 Python 开发者的 LLM 应用编排框架**
 
@@ -52,13 +52,13 @@ Haystack 是一个 Python 开源编排框架，用于构建生产级 LLM 应用�
 
 ```mermaid
 xychart-beta
-    title "deepset-ai/haystack 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 26751 --> 26817
-    line [26756, 26779, 26802, 26812]
+    title "deepset-ai/haystack 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 26750 --> 26824
+    line [26756, 26779, 26802, 26812, 26818]
 ```
 
-2026-10-18 26,756 → 2026-10-23 26,812（+56）
+2026-10-18 26,756 → 2026-10-24 26,818（+62）
 
 
 ---

@@ -1,6 +1,6 @@
 # Dimillian/CodexMonitor
 
-⭐ 4,349 · TypeScript · MIT · 推送 2026-03-26 · [GitHub](https://github.com/Dimillian/CodexMonitor) · [官网](https://www.codexmonitor.app) · 个人维护
+⭐ 4,348 · TypeScript · MIT · 推送 2026-03-26 · [GitHub](https://github.com/Dimillian/CodexMonitor) · [官网](https://www.codexmonitor.app) · 个人维护
 
 **编排多个 Codex agent 的 Tauri 桌面客户端，含 iOS 远程模式**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dimillian/CodexMonitor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "Dimillian/CodexMonitor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 4343 --> 4350
-    line [4344, 4348, 4349]
+    line [4344, 4348, 4349, 4348]
 ```
 
-2026-10-18 4,344 → 2026-10-23 4,349（+5）
+2026-10-18 4,344 → 2026-10-24 4,348（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # xiaobright/dsh-anchored-standard
 
-⭐ 3,740 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/xiaobright/dsh-anchored-standard) · [官网](https://github.com/xiaobright/modeltest) · 个人维护 · 中文 README
+⭐ 3,741 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/xiaobright/dsh-anchored-standard) · [官网](https://github.com/xiaobright/modeltest) · 个人维护 · 中文 README
 
 **DeepSeek Harness 两阶段锚定预设：先 Minimal 引导再解锁 Standard 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaobright/dsh-anchored-standard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "xiaobright/dsh-anchored-standard 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 3739 --> 3753
-    line [3752, 3749, 3744, 3740]
+    line [3752, 3749, 3744, 3740, 3741]
 ```
 
-2026-10-18 3,752 → 2026-10-23 3,740（-12）
+2026-10-18 3,752 → 2026-10-24 3,741（-11）
 
 
 ---

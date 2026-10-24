@@ -1,6 +1,6 @@
 # SimonSchubert/Kai
 
-⭐ 1,314 · Kotlin · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/SimonSchubert/Kai) · [官网](https://kai9000.com/) · 个人维护
+⭐ 1,317 · Kotlin · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/SimonSchubert/Kai) · [官网](https://kai9000.com/) · 个人维护
 
 **跨平台开源 AI 助手应用，带持久记忆与设备端推理**
 
@@ -45,13 +45,13 @@ Kotlin 多平台 AI 助手应用，运行于 Android、iOS、Windows、macOS、L
 
 ```mermaid
 xychart-beta
-    title "SimonSchubert/Kai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1297 --> 1315
-    line [1298, 1304, 1311, 1314]
+    title "SimonSchubert/Kai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1297 --> 1318
+    line [1298, 1304, 1311, 1314, 1317]
 ```
 
-2026-10-18 1,298 → 2026-10-23 1,314（+16）
+2026-10-18 1,298 → 2026-10-24 1,317（+19）
 
 
 ---

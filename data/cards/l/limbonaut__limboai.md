@@ -1,6 +1,6 @@
 # limbonaut/limboai
 
-⭐ 3,076 · C++ · MIT · 推送 2026-10-04 · [GitHub](https://github.com/limbonaut/limboai) · [官网](https://limboai.readthedocs.io/) · 个人维护
+⭐ 3,087 · C++ · MIT · 推送 2026-10-04 · [GitHub](https://github.com/limbonaut/limboai) · [官网](https://limboai.readthedocs.io/) · 个人维护
 
 **Godot 4 的行为树与状态机 C++ 插件，用于构建游戏 AI 行为**
 
@@ -44,13 +44,13 @@ LimboAI 是 Godot Engine 4 的开源 C++ 插件，提供行为树与层级状态
 
 ```mermaid
 xychart-beta
-    title "limbonaut/limboai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3053 --> 3078
-    line [3055, 3058, 3066, 3076]
+    title "limbonaut/limboai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3052 --> 3090
+    line [3055, 3058, 3066, 3076, 3087]
 ```
 
-2026-10-18 3,055 → 2026-10-23 3,076（+21）
+2026-10-18 3,055 → 2026-10-24 3,087（+32）
 
 
 ---

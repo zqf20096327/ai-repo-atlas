@@ -1,6 +1,6 @@
 # R6410418/Jackrong-llm-finetuning-guide
 
-⭐ 1,717 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/R6410418/Jackrong-llm-finetuning-guide) · [官网](https://r6410418.github.io/Jackrong-llm-finetuning-guide/) · 个人维护 · 中文 README
+⭐ 1,718 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/R6410418/Jackrong-llm-finetuning-guide) · [官网](https://r6410418.github.io/Jackrong-llm-finetuning-guide/) · 个人维护 · 中文 README
 
 **面向初学者的 LLM 微调教学知识库：教程+数据集+工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "R6410418/Jackrong-llm-finetuning-guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "R6410418/Jackrong-llm-finetuning-guide 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1715 --> 1719
-    line [1716, 1718, 1717]
+    line [1716, 1718, 1717, 1718]
 ```
 
-2026-10-18 1,716 → 2026-10-23 1,717（+1）
+2026-10-18 1,716 → 2026-10-24 1,718（+2）
 
 
 ---

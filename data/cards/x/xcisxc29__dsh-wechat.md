@@ -1,6 +1,6 @@
 # xcisxc29/dsh-wechat
 
-⭐ 294 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/xcisxc29/dsh-wechat) · 个人维护 · 中文 README
+⭐ 307 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/xcisxc29/dsh-wechat) · 个人维护 · 中文 README
 
 **用微信远程操控电脑上 DeepSeek Harness agent 的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xcisxc29/dsh-wechat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 208 --> 301
-    line [215, 250, 283, 294]
+    title "xcisxc29/dsh-wechat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 206 --> 316
+    line [215, 250, 283, 294, 307]
 ```
 
-2026-10-18 215 → 2026-10-23 294（+79）
+2026-10-18 215 → 2026-10-24 307（+92）
 
 
 ---

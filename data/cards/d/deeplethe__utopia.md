@@ -1,6 +1,6 @@
 # deeplethe/utopia
 
-⭐ 8,479 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/deeplethe/utopia) · 组织维护 · 中文 README
+⭐ 8,493 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/deeplethe/utopia) · 组织维护 · 中文 README
 
 **自托管企业级双时序知识图谱平台，供 agent 可信决策**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deeplethe/utopia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8398 --> 8486
-    line [8405, 8444, 8475, 8479]
+    title "deeplethe/utopia 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8397 --> 8501
+    line [8405, 8444, 8475, 8479, 8493]
 ```
 
-2026-10-18 8,405 → 2026-10-23 8,479（+74）
+2026-10-18 8,405 → 2026-10-24 8,493（+88）
 
 
 ---

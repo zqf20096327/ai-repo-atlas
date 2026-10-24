@@ -1,6 +1,6 @@
 # stacklok/toolhive-studio
 
-⭐ 171 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/stacklok/toolhive-studio) · [官网](https://stacklok.com/download/) · 组织维护
+⭐ 172 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/stacklok/toolhive-studio) · [官网](https://stacklok.com/download/) · 组织维护
 
 **桌面应用：安全容器化安装、运行与管理 MCP 服务器**
 
@@ -45,12 +45,12 @@ ToolHive 的桌面 UI，面向需要部署 MCP 服务器的用户：以图形化
 ```mermaid
 xychart-beta
     title "stacklok/toolhive-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 170 --> 172
-    line [171, 171]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 170 --> 173
+    line [171, 172]
 ```
 
-2026-10-18 171 → 2026-10-23 171（+0）
+2026-10-18 171 → 2026-10-24 172（+1）
 
 
 ---

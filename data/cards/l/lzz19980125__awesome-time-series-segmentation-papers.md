@@ -1,6 +1,6 @@
 # lzz19980125/awesome-time-series-segmentation-papers
 
-⭐ 544 · MATLAB · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/lzz19980125/awesome-time-series-segmentation-papers) · 个人维护
+⭐ 545 · MATLAB · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/lzz19980125/awesome-time-series-segmentation-papers) · 个人维护
 
 **时间序列分割论文阅读清单（按研究团队索引）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lzz19980125/awesome-time-series-segmentation-papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 541 --> 545
-    line [543, 542, 544]
+    title "lzz19980125/awesome-time-series-segmentation-papers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 541 --> 546
+    line [543, 542, 544, 545]
 ```
 
-2026-10-18 543 → 2026-10-23 544（+1）
+2026-10-18 543 → 2026-10-24 545（+2）
 
 
 ---

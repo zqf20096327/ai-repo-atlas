@@ -1,6 +1,6 @@
 # databendlabs/databend
 
-⭐ 9,474 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/databendlabs/databend) · [官网](https://docs.databend.com) · 组织维护
+⭐ 9,477 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/databendlabs/databend) · [官网](https://docs.databend.com) · 组织维护
 
 **Rust 编写的云原生企业数据仓库，支持分析与 AI Agent 工作负载**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "databendlabs/databend 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 9467 --> 9475
-    line [9468, 9472, 9474]
+    title "databendlabs/databend 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9467 --> 9478
+    line [9468, 9472, 9474, 9477]
 ```
 
-2026-10-18 9,468 → 2026-10-23 9,474（+6）
+2026-10-18 9,468 → 2026-10-24 9,477（+9）
 
 
 ---

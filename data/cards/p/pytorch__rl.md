@@ -1,6 +1,6 @@
 # pytorch/rl
 
-⭐ 3,609 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pytorch/rl) · [官网](https://pytorch.org/rl) · 组织维护
+⭐ 3,610 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pytorch/rl) · [官网](https://pytorch.org/rl) · 组织维护
 
 **PyTorch 原生的模块化强化学习工具库，供研究与机器人控制**
 
@@ -45,13 +45,13 @@ TorchRL 是基于 PyTorch 的强化学习、决策、机器人与仿真工具库
 
 ```mermaid
 xychart-beta
-    title "pytorch/rl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3603 --> 3610
-    line [3604, 3608, 3609]
+    title "pytorch/rl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3603 --> 3611
+    line [3604, 3608, 3609, 3610]
 ```
 
-2026-10-18 3,604 → 2026-10-23 3,609（+5）
+2026-10-18 3,604 → 2026-10-24 3,610（+6）
 
 
 ---

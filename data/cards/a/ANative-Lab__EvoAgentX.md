@@ -1,6 +1,6 @@
 # ANative-Lab/EvoAgentX
 
-⭐ 3,395 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/ANative-Lab/EvoAgentX) · [官网](https://anative-lab.github.io/EvoAgentX/) · 组织维护 · 中文 README
+⭐ 3,401 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/ANative-Lab/EvoAgentX) · [官网](https://anative-lab.github.io/EvoAgentX/) · 组织维护 · 中文 README
 
 **自进化多智能体工作流框架：从目标自动构建并优化 agent 工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ANative-Lab/EvoAgentX 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3384 --> 3397
-    line [3385, 3387, 3396, 3395]
+    title "ANative-Lab/EvoAgentX 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3384 --> 3402
+    line [3385, 3387, 3396, 3395, 3401]
 ```
 
-2026-10-18 3,385 → 2026-10-23 3,395（+10）
+2026-10-18 3,385 → 2026-10-24 3,401（+16）
 
 
 ---

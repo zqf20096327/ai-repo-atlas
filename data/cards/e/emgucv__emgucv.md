@@ -1,6 +1,6 @@
 # emgucv/emgucv
 
-⭐ 2,301 · C# · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/emgucv/emgucv) · [官网](https://www.emgu.com/) · 组织维护
+⭐ 2,300 · C# · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/emgucv/emgucv) · [官网](https://www.emgu.com/) · 组织维护
 
 **OpenCV 的跨平台 .NET 绑定封装库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "emgucv/emgucv 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "emgucv/emgucv 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2299 --> 2302
-    line [2300, 2301]
+    line [2300, 2301, 2300]
 ```
 
-2026-10-18 2,300 → 2026-10-23 2,301（+1）
+2026-10-18 2,300 → 2026-10-24 2,300（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yakhyo/uniface
 
-⭐ 2,148 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/yakhyo/uniface) · [官网](https://yakhyo.github.io/uniface/) · 个人维护
+⭐ 2,150 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/yakhyo/uniface) · [官网](https://yakhyo.github.io/uniface/) · 个人维护
 
 **Python 人脸分析统一库：检测/识别/关键点/属性等 15 类任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yakhyo/uniface 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2082 --> 2154
-    line [2088, 2125, 2143, 2148]
+    title "yakhyo/uniface 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2082 --> 2156
+    line [2088, 2125, 2143, 2148, 2150]
 ```
 
-2026-10-18 2,088 → 2026-10-23 2,148（+60）
+2026-10-18 2,088 → 2026-10-24 2,150（+62）
 
 
 ---

@@ -1,6 +1,6 @@
 # Evolutionary-Intelligence/SAEI-Swarm-and-Evolutionary-Intelligence
 
-⭐ 154 · TeX · CC0-1.0 · 推送 2026-03-04 · [GitHub](https://github.com/Evolutionary-Intelligence/SAEI-Swarm-and-Evolutionary-Intelligence) · 组织维护
+⭐ 155 · TeX · CC0-1.0 · 推送 2026-03-04 · [GitHub](https://github.com/Evolutionary-Intelligence/SAEI-Swarm-and-Evolutionary-Intelligence) · 组织维护
 
 **演化计算与群体智能领域顶刊论文清单，供研究者查阅**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Evolutionary-Intelligence/SAEI-Swarm-and-Evolutionary-Intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 153 --> 155
-    line [154, 154]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 153 --> 156
+    line [154, 155]
 ```
 
-2026-10-18 154 → 2026-10-23 154（+0）
+2026-10-18 154 → 2026-10-24 155（+1）
 
 
 ---

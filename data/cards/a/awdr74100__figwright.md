@@ -1,6 +1,6 @@
 # awdr74100/figwright
 
-⭐ 1,145 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/awdr74100/figwright) · 个人维护
+⭐ 1,157 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/awdr74100/figwright) · 个人维护
 
 **给编码 agent 的双向 Figma MCP 服务器：设计转代码、代码回写画布**
 
@@ -44,13 +44,13 @@ Figwright 是一个 MCP 服务器，通过本地 WebSocket 中继连接一个 Fi
 
 ```mermaid
 xychart-beta
-    title "awdr74100/figwright 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1063 --> 1152
-    line [1070, 1112, 1135, 1145]
+    title "awdr74100/figwright 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1062 --> 1165
+    line [1070, 1112, 1135, 1145, 1157]
 ```
 
-2026-10-18 1,070 → 2026-10-23 1,145（+75）
+2026-10-18 1,070 → 2026-10-24 1,157（+87）
 
 
 ---

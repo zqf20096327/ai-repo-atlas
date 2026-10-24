@@ -1,6 +1,6 @@
 # Mayandev/notion-avatar
 
-⭐ 3,228 · TypeScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/Mayandev/notion-avatar) · [官网](https://notion-avatar.app) · 个人维护 · 中文 README
+⭐ 3,230 · TypeScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/Mayandev/notion-avatar) · [官网](https://notion-avatar.app) · 个人维护 · 中文 README
 
 **在线生成 Notion 风格头像的工具，支持照片转换与文字描述生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mayandev/notion-avatar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3225 --> 3229
-    line [3226, 3227, 3228]
+    title "Mayandev/notion-avatar 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3225 --> 3231
+    line [3226, 3227, 3228, 3230]
 ```
 
-2026-10-18 3,226 → 2026-10-23 3,228（+2）
+2026-10-18 3,226 → 2026-10-24 3,230（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # gaur-avvv/XGPT-WormGPT
 
-⭐ 268 · Shell · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/gaur-avvv/XGPT-WormGPT) · 个人维护
+⭐ 269 · Shell · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/gaur-avvv/XGPT-WormGPT) · 个人维护
 
 **面向黑帽场景的越狱提示词集合与展示仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaur-avvv/XGPT-WormGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 252 --> 269
-    line [253, 263, 268]
+    title "gaur-avvv/XGPT-WormGPT 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 252 --> 270
+    line [253, 263, 268, 269]
 ```
 
-2026-10-18 253 → 2026-10-23 268（+15）
+2026-10-18 253 → 2026-10-24 269（+16）
 
 
 ---

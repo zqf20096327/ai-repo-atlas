@@ -1,6 +1,6 @@
 # juejin-cn/juejin-usage
 
-⭐ 152 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/juejin-cn/juejin-usage) · [官网](https://juejin.cn/aiusage/dashboard) · 组织维护 · 中文 README
+⭐ 152 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/juejin-cn/juejin-usage) · [官网](https://juejin.cn/aiusage/dashboard) · 组织维护 · 中文 README
 
 **追踪 AI 编码工具 Token 用量的桌面/CLI 工具，含云端排行榜**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "juejin-cn/juejin-usage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "juejin-cn/juejin-usage 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 150 --> 154
-    line [151, 153, 152]
+    line [151, 153, 152, 152]
 ```
 
-2026-10-18 151 → 2026-10-23 152（+1）
+2026-10-18 151 → 2026-10-24 152（+1）
 
 
 ---

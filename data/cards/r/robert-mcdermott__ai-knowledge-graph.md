@@ -1,6 +1,6 @@
 # robert-mcdermott/ai-knowledge-graph
 
-⭐ 3,129 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/robert-mcdermott/ai-knowledge-graph) · [官网](https://robert-mcdermott.medium.com/from-unstructured-text-to-interactive-knowledge-graphs-using-llms-dd02a1f71cd6) · 个人维护
+⭐ 3,131 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/robert-mcdermott/ai-knowledge-graph) · [官网](https://robert-mcdermott.medium.com/from-unstructured-text-to-interactive-knowledge-graphs-using-llms-dd02a1f71cd6) · 个人维护
 
 **用任意 LLM 从非结构化文本生成知识图谱并交互探索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "robert-mcdermott/ai-knowledge-graph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3122 --> 3130
-    line [3123, 3125, 3129]
+    title "robert-mcdermott/ai-knowledge-graph 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3122 --> 3132
+    line [3123, 3125, 3129, 3131]
 ```
 
-2026-10-18 3,123 → 2026-10-23 3,129（+6）
+2026-10-18 3,123 → 2026-10-24 3,131（+8）
 
 
 ---

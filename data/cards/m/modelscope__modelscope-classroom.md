@@ -1,6 +1,6 @@
 # modelscope/modelscope-classroom
 
-⭐ 1,499 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/modelscope/modelscope-classroom) · 组织维护 · 中文 README
+⭐ 1,500 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/modelscope/modelscope-classroom) · 组织维护 · 中文 README
 
 **魔搭社区深度学习与大模型教程合集（LLM/AIGC/RL/Agent）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "modelscope/modelscope-classroom 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1496 --> 1500
-    line [1497, 1498, 1499, 1499]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1496 --> 1501
+    line [1497, 1498, 1499, 1500]
 ```
 
-2026-10-18 1,497 → 2026-10-23 1,499（+2）
+2026-10-18 1,497 → 2026-10-24 1,500（+3）
 
 
 ---

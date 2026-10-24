@@ -1,6 +1,6 @@
 # day50-dev/mansnip
 
-⭐ 100 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/day50-dev/mansnip) · [官网](https://day50.dev) · 个人维护
+⭐ 100 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/day50-dev/mansnip) · [官网](https://day50.dev) · 个人维护
 
 **把 manpage 相关片段注入 LLM 上下文的 CLI/MCP 工具**
 
@@ -45,12 +45,12 @@ DAY50 开源套件中的命令行工具：读取本地 manpage，按查询词输
 ```mermaid
 xychart-beta
     title "day50-dev/mansnip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-18 100 → 2026-10-23 100（+0）
+2026-10-18 100 → 2026-10-24 100（+0）
 
 
 ---

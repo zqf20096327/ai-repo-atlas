@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnsahMohammad/shots-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "AnsahMohammad/shots-studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 688 --> 691
-    line [689, 690]
+    line [689, 690, 690]
 ```
 
-2026-10-18 689 → 2026-10-23 690（+1）
+2026-10-18 689 → 2026-10-24 690（+1）
 
 
 ---

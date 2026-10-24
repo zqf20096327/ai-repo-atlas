@@ -1,6 +1,6 @@
 # epoko77-ai/im-not-ai
 
-⭐ 6,172 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/epoko77-ai/im-not-ai) · [官网](https://imnotai.kr) · 组织维护
+⭐ 6,189 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/epoko77-ai/im-not-ai) · [官网](https://imnotai.kr) · 组织维护
 
 **将 AI 生成的韩文改写为自然韩文的 Claude/CLI 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "epoko77-ai/im-not-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 6015 --> 6186
-    line [6029, 6074, 6172]
+    title "epoko77-ai/im-not-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6013 --> 6205
+    line [6029, 6074, 6172, 6189]
 ```
 
-2026-10-18 6,029 → 2026-10-23 6,172（+143）
+2026-10-18 6,029 → 2026-10-24 6,189（+160）
 
 
 ---

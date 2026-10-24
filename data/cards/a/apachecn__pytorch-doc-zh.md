@@ -1,6 +1,6 @@
 # apachecn/pytorch-doc-zh
 
-⭐ 4,228 · Shell · 推送 2026-01-07 · [GitHub](https://github.com/apachecn/pytorch-doc-zh) · [官网](https://pytorch.apachecn.org) · 组织维护 · 中文 README
+⭐ 4,227 · Shell · 推送 2026-01-07 · [GitHub](https://github.com/apachecn/pytorch-doc-zh) · [官网](https://pytorch.apachecn.org) · 组织维护 · 中文 README
 
 **PyTorch 官方文档与教程的中文翻译项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "apachecn/pytorch-doc-zh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 4227 --> 4229
-    line [4228, 4228]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 4226 --> 4229
+    line [4228, 4227]
 ```
 
-2026-10-18 4,228 → 2026-10-23 4,228（+0）
+2026-10-18 4,228 → 2026-10-24 4,227（-1）
 
 
 ---

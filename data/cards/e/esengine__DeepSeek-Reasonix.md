@@ -1,6 +1,6 @@
 # esengine/DeepSeek-Reasonix
 
-⭐ 35,929 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/esengine/DeepSeek-Reasonix) · [官网](http://reasonix.io/) · 个人维护 · 中文 README
+⭐ 35,943 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/esengine/DeepSeek-Reasonix) · [官网](http://reasonix.io/) · 个人维护 · 中文 README
 
 **开源终端/桌面/编辑器 AI 编码代理，模型自选**
 
@@ -54,13 +54,13 @@ Reasonix 是开源 AI 编码代理，以桌面应用（Studio）、终端 TUI/CL
 
 ```mermaid
 xychart-beta
-    title "esengine/DeepSeek-Reasonix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 35819 --> 35939
-    line [35829, 35870, 35900, 35929]
+    title "esengine/DeepSeek-Reasonix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 35818 --> 35954
+    line [35829, 35870, 35900, 35929, 35943]
 ```
 
-2026-10-18 35,829 → 2026-10-23 35,929（+100）
+2026-10-18 35,829 → 2026-10-24 35,943（+114）
 
 
 ---

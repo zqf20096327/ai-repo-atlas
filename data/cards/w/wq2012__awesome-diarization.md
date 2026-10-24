@@ -1,6 +1,6 @@
 # wq2012/awesome-diarization
 
-⭐ 1,912 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/wq2012/awesome-diarization) · [官网](https://wq2012.github.io/awesome-diarization/) · 个人维护
+⭐ 1,913 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/wq2012/awesome-diarization) · [官网](https://wq2012.github.io/awesome-diarization/) · 个人维护
 
 **说话人分离（diarization）论文、软件、数据集策展清单**
 
@@ -44,12 +44,12 @@ awesome 系列策展仓库，收录说话人分离（speaker diarization）领�
 ```mermaid
 xychart-beta
     title "wq2012/awesome-diarization 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1910 --> 1913
-    line [1911, 1912, 1912]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 1910 --> 1914
+    line [1911, 1912, 1913]
 ```
 
-2026-10-18 1,911 → 2026-10-23 1,912（+1）
+2026-10-18 1,911 → 2026-10-24 1,913（+2）
 
 
 ---

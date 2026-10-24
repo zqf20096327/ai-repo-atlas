@@ -1,6 +1,6 @@
 # pipecat-ai/pipecat
 
-⭐ 16,724 · Python · BSD-2-Clause · 推送 2026-10-22 · [GitHub](https://github.com/pipecat-ai/pipecat) · [官网](https://pipecat.ai) · 组织维护
+⭐ 16,754 · Python · BSD-2-Clause · 推送 2026-10-23 · [GitHub](https://github.com/pipecat-ai/pipecat) · [官网](https://pipecat.ai) · 组织维护
 
 **构建实时语音与多模态 AI 对话代理的 Python 框架**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "pipecat-ai/pipecat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 16535 --> 16741
-    line [16552, 16610, 16690, 16724]
+    title "pipecat-ai/pipecat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 16532 --> 16774
+    line [16552, 16610, 16690, 16724, 16754]
 ```
 
-2026-10-18 16,552 → 2026-10-23 16,724（+172）
+2026-10-18 16,552 → 2026-10-24 16,754（+202）
 
 
 ---

@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleSpeech
 
-⭐ 12,696 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/PaddlePaddle/PaddleSpeech) · [官网](https://paddlespeech.readthedocs.io) · 组织维护 · 中文 README
+⭐ 12,698 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/PaddlePaddle/PaddleSpeech) · [官网](https://paddlespeech.readthedocs.io) · 组织维护 · 中文 README
 
 **飞桨平台的语音工具包：ASR/TTS/声纹/翻译/标点等全栈语音任务**
 
@@ -45,12 +45,12 @@ PaddleSpeech 是基于 PaddlePaddle 深度学习平台的开源语音工具包�
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleSpeech 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 12693 --> 12697
-    line [12694, 12696, 12696]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 12693 --> 12699
+    line [12694, 12696, 12698]
 ```
 
-2026-10-18 12,694 → 2026-10-23 12,696（+2）
+2026-10-18 12,694 → 2026-10-24 12,698（+4）
 
 
 ---

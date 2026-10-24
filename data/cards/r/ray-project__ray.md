@@ -1,6 +1,6 @@
 # ray-project/ray
 
-⭐ 44,105 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ray-project/ray) · [官网](https://ray.io) · 组织维护
+⭐ 44,111 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ray-project/ray) · [官网](https://ray.io) · 组织维护
 
 **分布式 AI 计算引擎：把 ML 工作负载从笔记本扩展到集群**
 
@@ -52,13 +52,13 @@ Ray 提供一个核心分布式运行时和一组 AI 库，用于扩展 AI 与 P
 
 ```mermaid
 xychart-beta
-    title "ray-project/ray 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 44046 --> 44110
-    line [44051, 44074, 44099, 44105]
+    title "ray-project/ray 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 44045 --> 44117
+    line [44051, 44074, 44099, 44105, 44111]
 ```
 
-2026-10-18 44,051 → 2026-10-23 44,105（+54）
+2026-10-18 44,051 → 2026-10-24 44,111（+60）
 
 
 ---

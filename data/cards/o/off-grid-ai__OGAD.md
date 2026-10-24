@@ -1,6 +1,6 @@
 # off-grid-ai/OGAD
 
-⭐ 131 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/off-grid-ai/OGAD) · [官网](https://getoffgridai.co/pro/) · 组织维护
+⭐ 131 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/off-grid-ai/OGAD) · [官网](https://getoffgridai.co/pro/) · 组织维护
 
 **桌面端本地私有 AI 助手：聊天/图像/语音 + OpenAI 兼容网关**
 
@@ -46,13 +46,13 @@ macOS/Windows/Linux 桌面应用，本地运行开源模型（文本、视觉、
 
 ```mermaid
 xychart-beta
-    title "off-grid-ai/OGAD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "off-grid-ai/OGAD 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 126 --> 132
-    line [127, 130, 131]
+    line [127, 130, 131, 131]
 ```
 
-2026-10-18 127 → 2026-10-23 131（+4）
+2026-10-18 127 → 2026-10-24 131（+4）
 
 
 ---

@@ -44,13 +44,13 @@ CleanS2S 是一个 Speech-to-Speech（语音到语音）原型智能体，把 AS
 
 ```mermaid
 xychart-beta
-    title "opendilab/CleanS2S 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "opendilab/CleanS2S 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 539 --> 542
-    line [540, 541]
+    line [540, 541, 541]
 ```
 
-2026-10-18 540 → 2026-10-23 541（+1）
+2026-10-18 540 → 2026-10-24 541（+1）
 
 
 ---

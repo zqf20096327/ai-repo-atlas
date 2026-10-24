@@ -1,6 +1,6 @@
 # arxhr007/Aliens_eye
 
-⭐ 4,445 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/arxhr007/Aliens_eye) · 个人维护
+⭐ 4,448 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/arxhr007/Aliens_eye) · 个人维护
 
 **AI 驱动的 OSINT 用户名扫描器：检测 840+ 平台账号**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arxhr007/Aliens_eye 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4415 --> 4447
-    line [4417, 4434, 4442, 4445]
+    title "arxhr007/Aliens_eye 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4414 --> 4451
+    line [4417, 4434, 4442, 4445, 4448]
 ```
 
-2026-10-18 4,417 → 2026-10-23 4,445（+28）
+2026-10-18 4,417 → 2026-10-24 4,448（+31）
 
 
 ---

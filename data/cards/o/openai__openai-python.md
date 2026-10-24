@@ -1,6 +1,6 @@
 # openai/openai-python
 
-⭐ 31,910 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/openai-python) · [官网](https://pypi.org/project/openai/) · 组织维护
+⭐ 31,919 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-python) · [官网](https://pypi.org/project/openai/) · 组织维护
 
 **OpenAI API 官方 Python 客户端库**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/openai-python 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 31864 --> 31914
-    line [31868, 31888, 31899, 31910]
+    title "openai/openai-python 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 31863 --> 31924
+    line [31868, 31888, 31899, 31910, 31919]
 ```
 
-2026-10-18 31,868 → 2026-10-23 31,910（+42）
+2026-10-18 31,868 → 2026-10-24 31,919（+51）
 
 
 ---

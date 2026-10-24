@@ -1,6 +1,6 @@
 # langgraph4j/langgraph4j
 
-⭐ 2,064 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langgraph4j/langgraph4j) · [官网](https://langgraph4j.github.io/langgraph4j/) · 个人维护
+⭐ 2,065 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langgraph4j/langgraph4j) · [官网](https://langgraph4j.github.io/langgraph4j/) · 个人维护
 
 **Java 版 LangGraph：用有环图构建有状态多 Agent 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "langgraph4j/langgraph4j 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2057 --> 2065
-    line [2058, 2059, 2064, 2064]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 2057 --> 2066
+    line [2058, 2059, 2064, 2065]
 ```
 
-2026-10-18 2,058 → 2026-10-23 2,064（+6）
+2026-10-18 2,058 → 2026-10-24 2,065（+7）
 
 
 ---

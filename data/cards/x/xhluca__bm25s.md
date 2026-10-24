@@ -1,6 +1,6 @@
 # xhluca/bm25s
 
-⭐ 1,814 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/xhluca/bm25s) · [官网](https://bm25s.github.io) · 个人维护
+⭐ 1,815 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/xhluca/bm25s) · [官网](https://bm25s.github.io) · 个人维护
 
 **纯 Python 实现的 BM25 词法检索库，供开发者做文档排序与 RAG 检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xhluca/bm25s 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1804 --> 1815
-    line [1805, 1809, 1813, 1814]
+    title "xhluca/bm25s 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1804 --> 1816
+    line [1805, 1809, 1813, 1814, 1815]
 ```
 
-2026-10-18 1,805 → 2026-10-23 1,814（+9）
+2026-10-18 1,805 → 2026-10-24 1,815（+10）
 
 
 ---

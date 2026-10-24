@@ -1,6 +1,6 @@
 # FailproofAI/failproofai
 
-⭐ 6,022 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/FailproofAI/failproofai) · [官网](https://befailproof.ai) · 组织维护 · 中文 README
+⭐ 6,033 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/FailproofAI/failproofai) · [官网](https://befailproof.ai) · 组织维护 · 中文 README
 
 **AI agent 运行时观测与策略拦截工具：记录每次运行并拦截危险工具调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FailproofAI/failproofai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5641 --> 6056
-    line [5675, 5936, 5994, 6022]
+    title "FailproofAI/failproofai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5640 --> 6068
+    line [5675, 5936, 5994, 6022, 6033]
 ```
 
-2026-10-18 5,675 → 2026-10-23 6,022（+347）
+2026-10-18 5,675 → 2026-10-24 6,033（+358）
 
 
 ---

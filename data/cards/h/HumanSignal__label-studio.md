@@ -1,6 +1,6 @@
 # HumanSignal/label-studio
 
-⭐ 28,528 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/HumanSignal/label-studio) · [官网](https://labelstud.io) · 组织维护
+⭐ 28,541 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/HumanSignal/label-studio) · [官网](https://labelstud.io) · 组织维护
 
 **面向 ML 团队的多类型数据标注与标注工具**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "HumanSignal/label-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 28476 --> 28532
-    line [28480, 28496, 28512, 28528]
+    title "HumanSignal/label-studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 28474 --> 28547
+    line [28480, 28496, 28512, 28528, 28541]
 ```
 
-2026-10-18 28,480 → 2026-10-23 28,528（+48）
+2026-10-18 28,480 → 2026-10-24 28,541（+61）
 
 
 ---

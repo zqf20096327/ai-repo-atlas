@@ -1,6 +1,6 @@
 # fishaudio/Bert-VITS2
 
-⭐ 8,807 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/fishaudio/Bert-VITS2) · 组织维护 · 中文 README
+⭐ 8,805 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/fishaudio/Bert-VITS2) · 组织维护 · 中文 README
 
 **融合多语言 BERT 的 VITS2 语音合成模型项目**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "fishaudio/Bert-VITS2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "fishaudio/Bert-VITS2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 8803 --> 8808
-    line [8804, 8805, 8807]
+    line [8804, 8805, 8807, 8805]
 ```
 
-2026-10-18 8,804 → 2026-10-23 8,807（+3）
+2026-10-18 8,804 → 2026-10-24 8,805（+1）
 
 
 ---

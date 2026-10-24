@@ -1,6 +1,6 @@
 # PromptPasture/llama.ui
 
-⭐ 219 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/PromptPasture/llama.ui) · [官网](https://llama-ui.js.org/) · 组织维护
+⭐ 220 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/PromptPasture/llama.ui) · [官网](https://llama-ui.js.org/) · 组织维护
 
 **浏览器内运行的本地 LLM 聊天 WebUI，对接多种推理后端**
 
@@ -45,12 +45,12 @@ llama.cpp WebUI 的 fork，提供 React + TypeScript 实现的聊天界面：支
 ```mermaid
 xychart-beta
     title "PromptPasture/llama.ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 216 --> 220
-    line [217, 219, 219]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 216 --> 221
+    line [217, 219, 220]
 ```
 
-2026-10-18 217 → 2026-10-23 219（+2）
+2026-10-18 217 → 2026-10-24 220（+3）
 
 
 ---

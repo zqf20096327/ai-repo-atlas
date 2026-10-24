@@ -43,13 +43,13 @@ HuggingFace 维护的 Transformers.js 演示与示例应用集合，覆盖 WebGP
 
 ```mermaid
 xychart-beta
-    title "huggingface/transformers.js-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "huggingface/transformers.js-examples 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2105 --> 2111
-    line [2106, 2107, 2109, 2110]
+    line [2106, 2107, 2109, 2110, 2110]
 ```
 
-2026-10-18 2,106 → 2026-10-23 2,110（+4）
+2026-10-18 2,106 → 2026-10-24 2,110（+4）
 
 
 ---

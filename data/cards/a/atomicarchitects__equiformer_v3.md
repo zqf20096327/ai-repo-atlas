@@ -1,6 +1,6 @@
 # atomicarchitects/equiformer_v3
 
-⭐ 127 · Python · MIT · 推送 2026-04-17 · [GitHub](https://github.com/atomicarchitects/equiformer_v3) · [官网](https://arxiv.org/abs/2604.09130) · 组织维护
+⭐ 128 · Python · MIT · 推送 2026-04-17 · [GitHub](https://github.com/atomicarchitects/equiformer_v3) · [官网](https://arxiv.org/abs/2604.09130) · 组织维护
 
 **SE(3)-等变图注意力 Transformer 的官方 PyTorch 实现：材料与分子建模**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "atomicarchitects/equiformer_v3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 125 --> 128
-    line [126, 127, 127]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 125 --> 129
+    line [126, 127, 128]
 ```
 
-2026-10-18 126 → 2026-10-23 127（+1）
+2026-10-18 126 → 2026-10-24 128（+2）
 
 
 ---

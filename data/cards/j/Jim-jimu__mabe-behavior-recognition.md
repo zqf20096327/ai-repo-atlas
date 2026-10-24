@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jim-jimu/mabe-behavior-recognition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-18 5 → 2026-10-23 5（+0）
+2026-10-18 5 → 2026-10-24 5（+0）
 
 
 ---

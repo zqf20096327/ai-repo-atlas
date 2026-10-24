@@ -1,6 +1,6 @@
 # AAswordman/Operit
 
-⭐ 8,900 · Kotlin · LGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/AAswordman/Operit) · [官网](https://operit.app) · 个人维护 · 中文 README
+⭐ 8,920 · Kotlin · LGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/AAswordman/Operit) · [官网](https://operit.app) · 个人维护 · 中文 README
 
 **Android 开源 AI Agent 与 AI 聊天平台，连接系统能力执行真实任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AAswordman/Operit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8752 --> 8913
-    line [8765, 8828, 8873, 8900]
+    title "AAswordman/Operit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8750 --> 8935
+    line [8765, 8828, 8873, 8900, 8920]
 ```
 
-2026-10-18 8,765 → 2026-10-23 8,900（+135）
+2026-10-18 8,765 → 2026-10-24 8,920（+155）
 
 
 ---

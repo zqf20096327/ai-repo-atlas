@@ -1,6 +1,6 @@
 # langchain-ai/helm
 
-⭐ 97 · Shell · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/helm) · 组织维护
+⭐ 97 · Shell · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/helm) · 组织维护
 
 **Kubernetes 上部署 LangChain 应用的 Helm chart 仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/helm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-10-23 97（+0）
+2026-10-18 97 → 2026-10-24 97（+0）
 
 
 ---

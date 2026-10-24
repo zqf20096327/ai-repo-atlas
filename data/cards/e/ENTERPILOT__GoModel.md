@@ -1,6 +1,6 @@
 # ENTERPILOT/GoModel
 
-⭐ 1,267 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ENTERPILOT/GoModel) · [官网](https://gomodel.enterpilot.io/?utm_source=github_desc) · 组织维护
+⭐ 1,269 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ENTERPILOT/GoModel) · [官网](https://gomodel.enterpilot.io/?utm_source=github_desc) · 组织维护
 
 **Go 编写的 AI 网关：统一 OpenAI/Anthropic 兼容 API 接入多家模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ENTERPILOT/GoModel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1237 --> 1269
-    line [1239, 1255, 1262, 1267]
+    title "ENTERPILOT/GoModel 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1236 --> 1272
+    line [1239, 1255, 1262, 1267, 1269]
 ```
 
-2026-10-18 1,239 → 2026-10-23 1,267（+28）
+2026-10-18 1,239 → 2026-10-24 1,269（+30）
 
 
 ---

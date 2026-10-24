@@ -1,6 +1,6 @@
 # zilliztech/claude-context
 
-⭐ 12,637 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/zilliztech/claude-context) · [官网](https://github.com/zilliztech/claude-context/tree/master/docs) · 组织维护
+⭐ 12,644 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/zilliztech/claude-context) · [官网](https://github.com/zilliztech/claude-context/tree/master/docs) · 组织维护
 
 **为 AI 编码 agent 提供全代码库语义检索的 MCP 插件**
 
@@ -45,13 +45,13 @@ Claude Context 是一个 MCP 插件，为 Claude Code、Codex CLI、Gemini CLI�
 
 ```mermaid
 xychart-beta
-    title "zilliztech/claude-context 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 12619 --> 12638
-    line [12620, 12628, 12634, 12637]
+    title "zilliztech/claude-context 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 12618 --> 12646
+    line [12620, 12628, 12634, 12637, 12644]
 ```
 
-2026-10-18 12,620 → 2026-10-23 12,637（+17）
+2026-10-18 12,620 → 2026-10-24 12,644（+24）
 
 
 ---

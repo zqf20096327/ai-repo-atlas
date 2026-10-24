@@ -1,6 +1,6 @@
 # NVIDIA/warp
 
-⭐ 7,226 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/warp) · [官网](https://nvidia.github.io/warp/stable/) · 组织维护
+⭐ 7,230 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/warp) · [官网](https://nvidia.github.io/warp/stable/) · 组织维护
 
 **GPU 加速仿真/机器人/机器学习 Python 框架，Python 函数 JIT 编译为 CPU/GPU 内核**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的 Python 框架：将常规 Python 函数 JIT 编译为可在 CPU
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/warp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7208 --> 7227
-    line [7209, 7214, 7219, 7226]
+    title "NVIDIA/warp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7207 --> 7232
+    line [7209, 7214, 7219, 7226, 7230]
 ```
 
-2026-10-18 7,209 → 2026-10-23 7,226（+17）
+2026-10-18 7,209 → 2026-10-24 7,230（+21）
 
 
 ---

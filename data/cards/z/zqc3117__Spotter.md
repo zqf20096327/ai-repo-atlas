@@ -1,6 +1,6 @@
 # zqc3117/Spotter
 
-⭐ 150 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zqc3117/Spotter) · [官网](https://zqc3117.github.io/Spotter/) · 组织维护 · 中文 README
+⭐ 159 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zqc3117/Spotter) · [官网](https://zqc3117.github.io/Spotter/) · 组织维护 · 中文 README
 
 **具身机器人执行监控框架：VLM 仅在确认出错时介入修复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zqc3117/Spotter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "zqc3117/Spotter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 145 --> 214
-    line [202, 209, 150]
+    line [202, 209, 150, 159]
 ```
 
-2026-10-18 202 → 2026-10-23 150（-52）
+2026-10-18 202 → 2026-10-24 159（-43）
 
 
 ---

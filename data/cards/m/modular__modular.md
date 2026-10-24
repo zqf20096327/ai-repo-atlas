@@ -1,6 +1,6 @@
 # modular/modular
 
-⭐ 29,993 · Mojo · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/modular/modular) · [官网](https://docs.modular.com/) · 组织维护
+⭐ 30,013 · Mojo · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/modular/modular) · [官网](https://docs.modular.com/) · 组织维护
 
 **面向 AI 开发与部署的平台：MAX 框架 + Mojo 语言**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "modular/modular 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 29962 --> 29995
-    line [29964, 29974, 29988, 29993]
+    title "modular/modular 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 29960 --> 30017
+    line [29964, 29974, 29988, 29993, 30013]
 ```
 
-2026-10-18 29,964 → 2026-10-23 29,993（+29）
+2026-10-18 29,964 → 2026-10-24 30,013（+49）
 
 
 ---

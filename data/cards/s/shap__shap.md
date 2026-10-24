@@ -1,6 +1,6 @@
 # shap/shap
 
-⭐ 25,824 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/shap/shap) · [官网](https://shap.readthedocs.io) · 组织维护
+⭐ 25,827 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/shap/shap) · [官网](https://shap.readthedocs.io) · 组织维护
 
 **给机器学习模型输出提供 Shapley 值解释的 Python 库**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "shap/shap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 25816 --> 25825
-    line [25817, 25823, 25824]
+    title "shap/shap 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 25816 --> 25828
+    line [25817, 25823, 25824, 25827]
 ```
 
-2026-10-18 25,817 → 2026-10-23 25,824（+7）
+2026-10-18 25,817 → 2026-10-24 25,827（+10）
 
 
 ---

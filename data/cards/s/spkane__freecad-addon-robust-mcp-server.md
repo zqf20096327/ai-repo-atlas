@@ -45,13 +45,13 @@ MCP (Model Context Protocol) 服务器及配套的 MCP Bridge 工作台/插件�
 
 ```mermaid
 xychart-beta
-    title "spkane/freecad-addon-robust-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "spkane/freecad-addon-robust-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 255 --> 260
-    line [256, 257, 258, 259]
+    line [256, 257, 258, 259, 259]
 ```
 
-2026-10-18 256 → 2026-10-23 259（+3）
+2026-10-18 256 → 2026-10-24 259（+3）
 
 
 ---

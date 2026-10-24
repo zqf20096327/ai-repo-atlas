@@ -44,13 +44,13 @@ SwiftUI 编写的 iOS 应用，通过蓝牙 LE 直连廉价智能戒指（generi
 
 ```mermaid
 xychart-beta
-    title "saksham2001/PulseLoopiOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "saksham2001/PulseLoopiOS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 305 --> 311
-    line [306, 310]
+    line [306, 310, 310]
 ```
 
-2026-10-18 306 → 2026-10-23 310（+4）
+2026-10-18 306 → 2026-10-24 310（+4）
 
 
 ---

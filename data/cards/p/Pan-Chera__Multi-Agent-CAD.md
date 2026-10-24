@@ -1,6 +1,6 @@
 # Pan-Chera/Multi-Agent-CAD
 
-⭐ 1,045 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Pan-Chera/Multi-Agent-CAD) · 个人维护 · 中文 README
+⭐ 1,047 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Pan-Chera/Multi-Agent-CAD) · 个人维护 · 中文 README
 
 **多智能体框架：从自然语言生成可编辑 CAD 零件与装配体**
 
@@ -45,13 +45,13 @@ MAC（Multi-Agent CAD）将设计描述文本转化为可编辑的工程几何�
 
 ```mermaid
 xychart-beta
-    title "Pan-Chera/Multi-Agent-CAD 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1038 --> 1046
-    line [1039, 1042, 1044, 1045]
+    title "Pan-Chera/Multi-Agent-CAD 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1038 --> 1048
+    line [1039, 1042, 1044, 1045, 1047]
 ```
 
-2026-10-18 1,039 → 2026-10-23 1,045（+6）
+2026-10-18 1,039 → 2026-10-24 1,047（+8）
 
 
 ---

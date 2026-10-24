@@ -1,6 +1,6 @@
 # rayl15/OpenVision
 
-⭐ 167 · Swift · MIT · 推送 2026-10-04 · [GitHub](https://github.com/rayl15/OpenVision) · 个人维护
+⭐ 168 · Swift · MIT · 推送 2026-10-04 · [GitHub](https://github.com/rayl15/OpenVision) · 个人维护
 
 **把 Meta Ray-Ban 智能眼镜接入多种 AI 后端的 iOS 应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rayl15/OpenVision 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 163 --> 168
-    line [164, 166, 167]
+    title "rayl15/OpenVision 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 163 --> 169
+    line [164, 166, 167, 168]
 ```
 
-2026-10-18 164 → 2026-10-23 167（+3）
+2026-10-18 164 → 2026-10-24 168（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # xiaonancs/codex-source-analysis
 
-⭐ 130 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/xiaonancs/codex-source-analysis) · 个人维护 · 中文 README
+⭐ 131 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/xiaonancs/codex-source-analysis) · 个人维护 · 中文 README
 
 **OpenAI Codex 源码深度研究文档集（30 篇 / 约 51 万字）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiaonancs/codex-source-analysis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 122 --> 131
-    line [123, 127, 130, 130]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 122 --> 132
+    line [123, 127, 130, 131]
 ```
 
-2026-10-18 123 → 2026-10-23 130（+7）
+2026-10-18 123 → 2026-10-24 131（+8）
 
 
 ---

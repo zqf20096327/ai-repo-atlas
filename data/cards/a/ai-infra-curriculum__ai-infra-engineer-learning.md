@@ -1,6 +1,6 @@
 # ai-infra-curriculum/ai-infra-engineer-learning
 
-⭐ 1,807 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) · 组织维护
+⭐ 1,810 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) · 组织维护
 
 **面向工程师的 AI 基础设施生产级学习路径（10 模块+3 项目）**
 
@@ -45,13 +45,13 @@ AI Career Curriculum 生态下的开源课程仓库：以 10 个模块（共 500
 
 ```mermaid
 xychart-beta
-    title "ai-infra-curriculum/ai-infra-engineer-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1793 --> 1808
-    line [1794, 1799, 1804, 1807]
+    title "ai-infra-curriculum/ai-infra-engineer-learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1793 --> 1811
+    line [1794, 1799, 1804, 1807, 1810]
 ```
 
-2026-10-18 1,794 → 2026-10-23 1,807（+13）
+2026-10-18 1,794 → 2026-10-24 1,810（+16）
 
 
 ---

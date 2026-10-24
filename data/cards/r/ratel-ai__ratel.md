@@ -1,6 +1,6 @@
 # ratel-ai/ratel
 
-⭐ 491 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ratel-ai/ratel) · [官网](https://www.ratel.sh/) · 组织维护
+⭐ 520 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ratel-ai/ratel) · [官网](https://www.ratel.sh/) · 组织维护
 
 **AI agent 的上下文工程层：按轮次检索注入相关工具与技能，减少 token**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ratel-ai/ratel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 477 --> 492
-    line [478, 483, 484, 491]
+    title "ratel-ai/ratel 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 474 --> 524
+    line [478, 483, 484, 491, 520]
 ```
 
-2026-10-18 478 → 2026-10-23 491（+13）
+2026-10-18 478 → 2026-10-24 520（+42）
 
 
 ---

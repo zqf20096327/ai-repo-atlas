@@ -1,6 +1,6 @@
 # microsoft/waza
 
-⭐ 1,425 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/waza) · [官网](https://microsoft.github.io/waza/) · 组织维护
+⭐ 1,427 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/waza) · [官网](https://microsoft.github.io/waza/) · 组织维护
 
 **评估 agent 技能与工作流的 Go CLI：创建、测试、度量技能质量**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/waza 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1418 --> 1426
-    line [1419, 1420, 1424, 1425]
+    title "microsoft/waza 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1418 --> 1428
+    line [1419, 1420, 1424, 1425, 1427]
 ```
 
-2026-10-18 1,419 → 2026-10-23 1,425（+6）
+2026-10-18 1,419 → 2026-10-24 1,427（+8）
 
 
 ---

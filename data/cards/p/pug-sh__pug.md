@@ -1,6 +1,6 @@
 # pug-sh/pug
 
-⭐ 95 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pug-sh/pug) · [官网](https://pug.sh) · 组织维护
+⭐ 96 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pug-sh/pug) · [官网](https://pug.sh) · 组织维护
 
 **开源产品分析平台：事件采集与漏斗、留存、趋势分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pug-sh/pug 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 78 --> 96
-    line [79, 86, 95, 95]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 78 --> 97
+    line [79, 86, 95, 96]
 ```
 
-2026-10-18 79 → 2026-10-23 95（+16）
+2026-10-18 79 → 2026-10-24 96（+17）
 
 
 ---

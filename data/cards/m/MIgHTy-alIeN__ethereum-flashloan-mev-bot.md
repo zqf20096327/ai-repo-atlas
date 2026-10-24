@@ -1,6 +1,6 @@
 # MIgHTy-alIeN/ethereum-flashloan-mev-bot
 
-⭐ 2,790 · Solidity · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/MIgHTy-alIeN/ethereum-flashloan-mev-bot) · 个人维护
+⭐ 2,048 · Solidity · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/MIgHTy-alIeN/ethereum-flashloan-mev-bot) · 个人维护
 
 **以太坊 MEV/套利交易机器人的部署教程：向合约地址充值 ETH 后自动交易**
 
@@ -45,12 +45,12 @@ README 以分步教程形式引导用户：在浏览器安装 MetaMask 或 Phant
 ```mermaid
 xychart-beta
     title "MIgHTy-alIeN/ethereum-flashloan-mev-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 2789 --> 2791
-    line [2790, 2790]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 1974 --> 2864
+    line [2790, 2048]
 ```
 
-2026-10-18 2,790 → 2026-10-23 2,790（+0）
+2026-10-18 2,790 → 2026-10-24 2,048（-742）
 
 
 ---

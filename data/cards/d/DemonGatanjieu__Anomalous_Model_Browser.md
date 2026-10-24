@@ -1,6 +1,6 @@
 # DemonGatanjieu/Anomalous_Model_Browser
 
-⭐ 120 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DemonGatanjieu/Anomalous_Model_Browser) · 个人维护 · 中文 README
+⭐ 130 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/DemonGatanjieu/Anomalous_Model_Browser) · 个人维护 · 中文 README
 
 **ComfyUI 插件：模型浏览、图库回溯、工作流与提示词管理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "DemonGatanjieu/Anomalous_Model_Browser 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 81 --> 123
-    line [84, 98, 110, 120]
+    title "DemonGatanjieu/Anomalous_Model_Browser 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 80 --> 134
+    line [84, 98, 110, 120, 130]
 ```
 
-2026-10-18 84 → 2026-10-23 120（+36）
+2026-10-18 84 → 2026-10-24 130（+46）
 
 
 ---

@@ -1,6 +1,6 @@
 # video-db/Director
 
-⭐ 1,559 · Python · MIT · 推送 2026-01-23 · [GitHub](https://github.com/video-db/Director) · [官网](https://chat.videodb.io) · 组织维护
+⭐ 1,561 · Python · MIT · 推送 2026-01-23 · [GitHub](https://github.com/video-db/Director) · [官网](https://chat.videodb.io) · 组织维护
 
 **构建视频智能体的框架：用自然语言编排搜索、剪辑、生成等视频任务**
 
@@ -44,13 +44,13 @@ VideoDB 团队开源的视频智能体构建框架，基于其 Video-as-Data 基
 
 ```mermaid
 xychart-beta
-    title "video-db/Director 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1553 --> 1560
-    line [1554, 1556, 1557, 1559]
+    title "video-db/Director 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1553 --> 1562
+    line [1554, 1556, 1557, 1559, 1561]
 ```
 
-2026-10-18 1,554 → 2026-10-23 1,559（+5）
+2026-10-18 1,554 → 2026-10-24 1,561（+7）
 
 
 ---

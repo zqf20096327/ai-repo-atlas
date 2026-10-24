@@ -44,13 +44,13 @@ Word GPT Plus 是一个 Microsoft Word 加载项（add-in），把 AI 对话与 
 
 ```mermaid
 xychart-beta
-    title "Kuingsmile/word-GPT-Plus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "Kuingsmile/word-GPT-Plus 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1367 --> 1373
-    line [1368, 1371, 1372]
+    line [1368, 1371, 1372, 1372]
 ```
 
-2026-10-18 1,368 → 2026-10-23 1,372（+4）
+2026-10-18 1,368 → 2026-10-24 1,372（+4）
 
 
 ---

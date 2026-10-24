@@ -1,6 +1,6 @@
 # israriqbal/agent-ecologies
 
-⭐ 122 · HTML · 推送 2026-10-22 · [GitHub](https://github.com/israriqbal/agent-ecologies) · 个人维护
+⭐ 122 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/israriqbal/agent-ecologies) · 个人维护
 
 **多智能体操作系统：让 LLM 驱动的 NPC 自主生活在像素世界中**
 
@@ -46,12 +46,12 @@ Agent-Worlds 是一个基于 FastAPI 与 Model Context Protocol (MCP) 的多智�
 ```mermaid
 xychart-beta
     title "israriqbal/agent-ecologies 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 120 --> 123
     line [121, 122, 122]
 ```
 
-2026-10-18 121 → 2026-10-23 122（+1）
+2026-10-18 121 → 2026-10-24 122（+1）
 
 
 ---

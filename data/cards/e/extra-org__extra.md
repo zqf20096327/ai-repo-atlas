@@ -1,6 +1,6 @@
 # extra-org/extra
 
-⭐ 117 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/extra-org/extra) · [官网](https://docs.extra-ai.co/docs/introduction) · 组织维护
+⭐ 117 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/extra-org/extra) · [官网](https://docs.extra-ai.co/docs/introduction) · 组织维护
 
 **把现有产品接入 AI 助手的编排引擎，无需重写后端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "extra-org/extra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 115 --> 118
     line [116, 117, 117]
 ```
 
-2026-10-18 116 → 2026-10-23 117（+1）
+2026-10-18 116 → 2026-10-24 117（+1）
 
 
 ---

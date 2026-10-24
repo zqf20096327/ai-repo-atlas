@@ -1,6 +1,6 @@
 # six2dez/burp-ai-agent
 
-⭐ 1,554 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/six2dez/burp-ai-agent) · [官网](https://burp-ai-agent.six2dez.com/) · 个人维护
+⭐ 1,553 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/six2dez/burp-ai-agent) · [官网](https://burp-ai-agent.six2dez.com/) · 个人维护
 
 **Burp Suite 的 AI 集成扩展：多后端模型分析与 MCP 扫描**
 
@@ -46,13 +46,13 @@ Burp Suite 的 Java 扩展（原名 Burp AI Agent），把 AI 接入渗透测试
 
 ```mermaid
 xychart-beta
-    title "six2dez/burp-ai-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "six2dez/burp-ai-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1543 --> 1555
-    line [1544, 1547, 1548, 1554]
+    line [1544, 1547, 1548, 1554, 1553]
 ```
 
-2026-10-18 1,544 → 2026-10-23 1,554（+10）
+2026-10-18 1,544 → 2026-10-24 1,553（+9）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "handsomestWei/customer-service-ai-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "handsomestWei/customer-service-ai-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 124 --> 128
-    line [125, 126, 127]
+    line [125, 126, 127, 127]
 ```
 
-2026-10-18 125 → 2026-10-23 127（+2）
+2026-10-18 125 → 2026-10-24 127（+2）
 
 
 ---

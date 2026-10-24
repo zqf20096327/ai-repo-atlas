@@ -1,6 +1,6 @@
 # filedcom/opentax
 
-⭐ 122 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/filedcom/opentax) · [官网](https://opentax.filed.com) · 组织维护
+⭐ 123 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/filedcom/opentax) · [官网](https://opentax.filed.com) · 组织维护
 
 **供 AI 代理与开发者调用的开源美国联邦税计算引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "filedcom/opentax 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 116 --> 123
-    line [117, 119, 120, 122]
+    title "filedcom/opentax 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 116 --> 124
+    line [117, 119, 120, 122, 123]
 ```
 
-2026-10-18 117 → 2026-10-23 122（+5）
+2026-10-18 117 → 2026-10-24 123（+6）
 
 
 ---

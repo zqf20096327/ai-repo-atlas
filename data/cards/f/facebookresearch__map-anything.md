@@ -1,6 +1,6 @@
 # facebookresearch/map-anything
 
-⭐ 3,849 · Python · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/facebookresearch/map-anything) · 组织维护
+⭐ 3,851 · Python · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/facebookresearch/map-anything) · 组织维护
 
 **通用度量 3D 重建研究框架：单前馈模型支持 12+ 重建任务**
 
@@ -45,13 +45,13 @@ Meta 与 CMU 合作的开源研究框架，核心为端到端训练的 transform
 
 ```mermaid
 xychart-beta
-    title "facebookresearch/map-anything 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3822 --> 3851
-    line [3824, 3831, 3846, 3849]
+    title "facebookresearch/map-anything 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3822 --> 3853
+    line [3824, 3831, 3846, 3849, 3851]
 ```
 
-2026-10-18 3,824 → 2026-10-23 3,849（+25）
+2026-10-18 3,824 → 2026-10-24 3,851（+27）
 
 
 ---

@@ -1,6 +1,6 @@
 # ashhart/TensorFold
 
-⭐ 1,447 · Zig · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ashhart/TensorFold) · [官网](https://tensorfold.dev) · 个人维护
+⭐ 1,457 · Zig · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ashhart/TensorFold) · [官网](https://tensorfold.dev) · 个人维护
 
 **在 Apple Silicon 与 NVIDIA GPU 上直接运行 LLM 的 Zig 推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashhart/TensorFold 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1351 --> 1455
-    line [1359, 1390, 1432, 1447]
+    title "ashhart/TensorFold 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1350 --> 1466
+    line [1359, 1390, 1432, 1447, 1457]
 ```
 
-2026-10-18 1,359 → 2026-10-23 1,447（+88）
+2026-10-18 1,359 → 2026-10-24 1,457（+98）
 
 
 ---

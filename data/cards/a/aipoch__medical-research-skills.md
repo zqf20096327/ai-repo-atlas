@@ -1,6 +1,6 @@
 # aipoch/medical-research-skills
 
-⭐ 1,984 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/aipoch/medical-research-skills) · [官网](https://aipoch.com/agent-skills) · 组织维护
+⭐ 1,989 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/aipoch/medical-research-skills) · [官网](https://aipoch.com/agent-skills) · 组织维护
 
 **面向医学研究的 agent 技能库：550+ 条 SKILL.md 技能**
 
@@ -44,13 +44,13 @@ AIPOCH 维护的医学研究 agent 技能策展库，收录 550+ 条自主研发
 
 ```mermaid
 xychart-beta
-    title "aipoch/medical-research-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1966 --> 1985
-    line [1967, 1971, 1981, 1984]
+    title "aipoch/medical-research-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1965 --> 1991
+    line [1967, 1971, 1981, 1984, 1989]
 ```
 
-2026-10-18 1,967 → 2026-10-23 1,984（+17）
+2026-10-18 1,967 → 2026-10-24 1,989（+22）
 
 
 ---

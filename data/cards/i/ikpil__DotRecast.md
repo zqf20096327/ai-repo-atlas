@@ -1,6 +1,6 @@
 # ikpil/DotRecast
 
-⭐ 955 · C# · Zlib · 推送 2026-10-03 · [GitHub](https://github.com/ikpil/DotRecast) · 个人维护
+⭐ 956 · C# · Zlib · 推送 2026-10-03 · [GitHub](https://github.com/ikpil/DotRecast) · 个人维护
 
 **Recast & Detour 的 C# 移植：游戏导航网格生成与寻路库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ikpil/DotRecast 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 953 --> 956
-    line [954, 955, 955]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 953 --> 957
+    line [954, 955, 956]
 ```
 
-2026-10-18 954 → 2026-10-23 955（+1）
+2026-10-18 954 → 2026-10-24 956（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # biosshot/easyeda-copilot
 
-⭐ 182 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/biosshot/easyeda-copilot) · 个人维护 · 中文 README
+⭐ 183 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/biosshot/easyeda-copilot) · 个人维护 · 中文 README
 
 **把 MCP AI 代理接入 EasyEDA Pro 原理图/PCB 设计的工具**
 
@@ -45,13 +45,13 @@ EasyEDA Copilot 由 EasyEDA Pro 扩展（.eext 包）与 MCP 服务器组成，�
 
 ```mermaid
 xychart-beta
-    title "biosshot/easyeda-copilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 176 --> 183
-    line [178, 177, 179, 182]
+    title "biosshot/easyeda-copilot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 176 --> 184
+    line [178, 177, 179, 182, 183]
 ```
 
-2026-10-18 178 → 2026-10-23 182（+4）
+2026-10-18 178 → 2026-10-24 183（+5）
 
 
 ---

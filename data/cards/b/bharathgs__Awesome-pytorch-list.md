@@ -1,6 +1,6 @@
 # bharathgs/Awesome-pytorch-list
 
-⭐ 16,715 · 推送 2026-09-22 · [GitHub](https://github.com/bharathgs/Awesome-pytorch-list) · 个人维护
+⭐ 16,718 · 推送 2026-09-22 · [GitHub](https://github.com/bharathgs/Awesome-pytorch-list) · 个人维护
 
 **为 PyTorch 用户整理的 GitHub 相关资源清单**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "bharathgs/Awesome-pytorch-list 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 16707 --> 16716
-    line [16708, 16712, 16714, 16715]
+    title "bharathgs/Awesome-pytorch-list 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 16707 --> 16719
+    line [16708, 16712, 16714, 16715, 16718]
 ```
 
-2026-10-18 16,708 → 2026-10-23 16,715（+7）
+2026-10-18 16,708 → 2026-10-24 16,718（+10）
 
 
 ---

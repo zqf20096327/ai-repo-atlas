@@ -1,6 +1,6 @@
 # deus-h/claudeus-wp-mcp
 
-⭐ 162 · TypeScript · NOASSERTION · 推送 2026-03-16 · [GitHub](https://github.com/deus-h/claudeus-wp-mcp) · [官网](https://deusware.se/en/projects/cwpmcp) · 组织维护
+⭐ 161 · TypeScript · NOASSERTION · 推送 2026-03-16 · [GitHub](https://github.com/deus-h/claudeus-wp-mcp) · [官网](https://deusware.se/en/projects/cwpmcp) · 组织维护
 
 **面向 WordPress 的 MCP 服务器：145 个工具供 AI 客户端管理站点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deus-h/claudeus-wp-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 161 --> 163
-    line [162, 162]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 160 --> 163
+    line [162, 161]
 ```
 
-2026-10-18 162 → 2026-10-23 162（+0）
+2026-10-18 162 → 2026-10-24 161（-1）
 
 
 ---

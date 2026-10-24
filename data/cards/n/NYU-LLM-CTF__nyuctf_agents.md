@@ -44,13 +44,13 @@ NYU CTF Bench 配套的自动化解题智能体仓库，含 D-CIPHER 多智能�
 
 ```mermaid
 xychart-beta
-    title "NYU-LLM-CTF/nyuctf_agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "NYU-LLM-CTF/nyuctf_agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 169 --> 172
-    line [170, 171]
+    line [170, 171, 171]
 ```
 
-2026-10-18 170 → 2026-10-23 171（+1）
+2026-10-18 170 → 2026-10-24 171（+1）
 
 
 ---

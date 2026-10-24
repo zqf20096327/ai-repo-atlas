@@ -1,6 +1,6 @@
 # microsoft/power-platform-skills
 
-⭐ 1,047 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/power-platform-skills) · [官网](https://aka.ms/ppskills) · 组织维护
+⭐ 1,050 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/power-platform-skills) · [官网](https://aka.ms/ppskills) · 组织维护
 
 **微软官方 Power Platform 开发插件市场：给 Copilot/Claude Code 的技能集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/power-platform-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1012 --> 1050
-    line [1015, 1025, 1041, 1047]
+    title "microsoft/power-platform-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1012 --> 1053
+    line [1015, 1025, 1041, 1047, 1050]
 ```
 
-2026-10-18 1,015 → 2026-10-23 1,047（+32）
+2026-10-18 1,015 → 2026-10-24 1,050（+35）
 
 
 ---

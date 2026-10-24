@@ -1,6 +1,6 @@
 # IvanMurzak/Godot-MCP
 
-⭐ 301 · C# · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/IvanMurzak/Godot-MCP) · [官网](https://ai-game.dev) · 个人维护
+⭐ 302 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/IvanMurzak/Godot-MCP) · [官网](https://ai-game.dev) · 个人维护
 
 **Godot 编辑器的 MCP 集成插件：让 AI 代理直接操作 Godot 项目**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "IvanMurzak/Godot-MCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 290 --> 302
-    line [291, 297, 300, 301]
+    title "IvanMurzak/Godot-MCP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 290 --> 303
+    line [291, 297, 300, 301, 302]
 ```
 
-2026-10-18 291 → 2026-10-23 301（+10）
+2026-10-18 291 → 2026-10-24 302（+11）
 
 
 ---

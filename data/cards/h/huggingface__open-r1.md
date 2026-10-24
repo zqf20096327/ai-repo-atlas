@@ -1,6 +1,6 @@
 # huggingface/open-r1
 
-⭐ 26,480 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/huggingface/open-r1) · 组织维护
+⭐ 26,482 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/huggingface/open-r1) · 组织维护
 
 **复现 DeepSeek-R1 训练流程的开源项目**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/open-r1 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 26475 --> 26481
-    line [26480, 26476, 26479, 26480]
+    title "huggingface/open-r1 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 26475 --> 26483
+    line [26480, 26476, 26479, 26480, 26482]
 ```
 
-2026-10-18 26,480 → 2026-10-23 26,480（+0）
+2026-10-18 26,480 → 2026-10-24 26,482（+2）
 
 
 ---

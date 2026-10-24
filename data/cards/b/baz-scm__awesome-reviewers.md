@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "baz-scm/awesome-reviewers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "baz-scm/awesome-reviewers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 150 --> 155
-    line [151, 154]
+    line [151, 154, 154]
 ```
 
-2026-10-18 151 → 2026-10-23 154（+3）
+2026-10-18 151 → 2026-10-24 154（+3）
 
 
 ---

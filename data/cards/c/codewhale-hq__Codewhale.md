@@ -1,6 +1,6 @@
 # codewhale-hq/Codewhale
 
-⭐ 41,108 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/codewhale-hq/Codewhale) · [官网](https://codewhale.net/) · 组织维护
+⭐ 41,110 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/codewhale-hq/Codewhale) · [官网](https://codewhale.net/) · 组织维护
 
 **开源 Rust 终端编码 agent，支持 40+ 模型提供商**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "codewhale-hq/Codewhale 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 41092 --> 41109
-    line [41093, 41102, 41105, 41108]
+    title "codewhale-hq/Codewhale 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 41092 --> 41111
+    line [41093, 41102, 41105, 41108, 41110]
 ```
 
-2026-10-18 41,093 → 2026-10-23 41,108（+15）
+2026-10-18 41,093 → 2026-10-24 41,110（+17）
 
 
 ---

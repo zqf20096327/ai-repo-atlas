@@ -1,6 +1,6 @@
 # mlrun/mlrun
 
-⭐ 1,704 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mlrun/mlrun) · [官网](https://mlrun.org) · 组织维护
+⭐ 1,704 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mlrun/mlrun) · [官网](https://mlrun.org) · 组织维护
 
 **面向企业的开源 MLOps/GenAI 编排平台，覆盖全生命周期**
 
@@ -46,12 +46,12 @@ MLRun 是开源 AI 编排平台，用于构建和管理持续运行的（生成�
 ```mermaid
 xychart-beta
     title "mlrun/mlrun 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 1703 --> 1705
     line [1704, 1704]
 ```
 
-2026-10-18 1,704 → 2026-10-23 1,704（+0）
+2026-10-18 1,704 → 2026-10-24 1,704（+0）
 
 
 ---

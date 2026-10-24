@@ -1,6 +1,6 @@
 # vuetifyjs/mcp
 
-⭐ 115 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/vuetifyjs/mcp) · 组织维护
+⭐ 115 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vuetifyjs/mcp) · 组织维护
 
 **向 AI 编程客户端提供 Vuetify 组件文档与 API 的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Vuetify 官方维护的 Model Context Protocol 服务器，把 Vuetify 组件库
 ```mermaid
 xychart-beta
     title "vuetifyjs/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-10-18 115 → 2026-10-23 115（+0）
+2026-10-18 115 → 2026-10-24 115（+0）
 
 
 ---

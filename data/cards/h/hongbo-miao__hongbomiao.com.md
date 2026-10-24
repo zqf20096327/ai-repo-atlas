@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hongbo-miao/hongbomiao.com 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "hongbo-miao/hongbomiao.com 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 297 --> 300
-    line [299, 298]
+    line [299, 298, 298]
 ```
 
-2026-10-18 299 → 2026-10-23 298（-1）
+2026-10-18 299 → 2026-10-24 298（-1）
 
 
 ---

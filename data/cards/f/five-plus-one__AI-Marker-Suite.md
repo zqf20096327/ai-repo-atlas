@@ -1,6 +1,6 @@
 # five-plus-one/AI-Marker-Suite
 
-⭐ 99 · JavaScript · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/five-plus-one/AI-Marker-Suite) · [官网](https://aimarking.five-plus-one.com/) · 个人维护 · 中文 README
+⭐ 101 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/five-plus-one/AI-Marker-Suite) · [官网](https://aimarking.five-plus-one.com/) · 个人维护 · 中文 README
 
 **给教师的多平台 AI 阅卷油猴脚本：自动识别手写答案并打分填分**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "five-plus-one/AI-Marker-Suite 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 91 --> 100
-    line [92, 94, 97, 99]
+    title "five-plus-one/AI-Marker-Suite 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 91 --> 102
+    line [92, 94, 97, 99, 101]
 ```
 
-2026-10-18 92 → 2026-10-23 99（+7）
+2026-10-18 92 → 2026-10-24 101（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # ongridio/ongrid
 
-⭐ 1,215 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ongridio/ongrid) · [官网](https://ongrid.cloud) · 组织维护 · 中文 README
+⭐ 1,219 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ongridio/ongrid) · [官网](https://ongrid.cloud) · 组织维护 · 中文 README
 
 **面向运维团队的 AI Agent：从 IM 触发根因分析与修复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ongridio/ongrid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1187 --> 1217
-    line [1189, 1191, 1203, 1215]
+    title "ongridio/ongrid 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1186 --> 1222
+    line [1189, 1191, 1203, 1215, 1219]
 ```
 
-2026-10-18 1,189 → 2026-10-23 1,215（+26）
+2026-10-18 1,189 → 2026-10-24 1,219（+30）
 
 
 ---

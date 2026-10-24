@@ -1,6 +1,6 @@
 # qybaihe/mu
 
-⭐ 535 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/qybaihe/mu) · [官网](https://usemu.dev) · 个人维护 · 中文 README
+⭐ 540 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/qybaihe/mu) · [官网](https://usemu.dev) · 个人维护 · 中文 README
 
 **带小模型判断核的编码 agent，让主模型专注写代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qybaihe/mu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 519 --> 536
-    line [520, 526, 532, 535]
+    title "qybaihe/mu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 518 --> 542
+    line [520, 526, 532, 535, 540]
 ```
 
-2026-10-18 520 → 2026-10-23 535（+15）
+2026-10-18 520 → 2026-10-24 540（+20）
 
 
 ---

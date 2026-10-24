@@ -1,6 +1,6 @@
 # guillaumemeyer/watermarks-remover
 
-⭐ 24,657 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/guillaumemeyer/watermarks-remover) · [官网](https://github.com/guillaumemeyer/watermarks-remover) · 个人维护
+⭐ 24,719 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/guillaumemeyer/watermarks-remover) · [官网](https://github.com/guillaumemeyer/watermarks-remover) · 个人维护
 
 **给内容所有者去除多厂商 AI 水印/溯源标记的 agent skill 与本地服务**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "guillaumemeyer/watermarks-remover 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 24279 --> 24691
-    line [24313, 24459, 24591, 24657]
+    title "guillaumemeyer/watermarks-remover 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 24273 --> 24759
+    line [24313, 24459, 24591, 24657, 24719]
 ```
 
-2026-10-18 24,313 → 2026-10-23 24,657（+344）
+2026-10-18 24,313 → 2026-10-24 24,719（+406）
 
 
 ---

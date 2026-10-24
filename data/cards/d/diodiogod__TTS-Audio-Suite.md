@@ -1,6 +1,6 @@
 # diodiogod/TTS-Audio-Suite
 
-⭐ 1,240 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/diodiogod/TTS-Audio-Suite) · 个人维护
+⭐ 1,241 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/diodiogod/TTS-Audio-Suite) · 个人维护
 
 **ComfyUI 多引擎本地 TTS 与语音转换节点套件**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点扩展，统一集成 19 个 TTS/语音转换/ASR 引擎�
 
 ```mermaid
 xychart-beta
-    title "diodiogod/TTS-Audio-Suite 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "diodiogod/TTS-Audio-Suite 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1235 --> 1242
-    line [1236, 1237, 1241, 1240]
+    line [1236, 1237, 1241, 1240, 1241]
 ```
 
-2026-10-18 1,236 → 2026-10-23 1,240（+4）
+2026-10-18 1,236 → 2026-10-24 1,241（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # aiming-lab/AutoHarness
 
-⭐ 453 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/aiming-lab/AutoHarness) · 组织维护 · 中文 README
+⭐ 454 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/aiming-lab/AutoHarness) · 组织维护 · 中文 README
 
 **给 AI Agent 开发者的治理框架：包裹 LLM 客户端实现工具治理**
 
@@ -45,13 +45,13 @@ AutoHarness 是面向 AI agent 开发者的轻量级治理框架，核心机制�
 
 ```mermaid
 xychart-beta
-    title "aiming-lab/AutoHarness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 450 --> 454
-    line [452, 451, 453]
+    title "aiming-lab/AutoHarness 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 450 --> 455
+    line [452, 451, 453, 454]
 ```
 
-2026-10-18 452 → 2026-10-23 453（+1）
+2026-10-18 452 → 2026-10-24 454（+2）
 
 
 ---

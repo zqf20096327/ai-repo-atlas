@@ -1,6 +1,6 @@
 # elie222/rakazo
 
-⭐ 5,217 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/elie222/rakazo) · [官网](https://rakazo.com) · 个人维护 · 中文 README
+⭐ 5,391 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/elie222/rakazo) · [官网](https://rakazo.com) · 个人维护 · 中文 README
 
 **自托管的持久 AI teammate/助手，可自选模型与沙箱**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elie222/rakazo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 4348 --> 5296
-    line [4427, 4750, 5217]
+    title "elie222/rakazo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4331 --> 5487
+    line [4427, 4750, 5217, 5391]
 ```
 
-2026-10-18 4,427 → 2026-10-23 5,217（+790）
+2026-10-18 4,427 → 2026-10-24 5,391（+964）
 
 
 ---

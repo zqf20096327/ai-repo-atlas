@@ -1,6 +1,6 @@
 # vllm-project/recipes
 
-⭐ 1,065 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vllm-project/recipes) · [官网](https://recipes.vllm.ai) · 组织维护
+⭐ 1,067 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vllm-project/recipes) · [官网](https://recipes.vllm.ai) · 组织维护
 
 **vLLM 社区维护的模型运行指南清单：模型×硬件×任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vllm-project/recipes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1056 --> 1066
-    line [1057, 1063, 1065, 1065]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1056 --> 1068
+    line [1057, 1063, 1065, 1067]
 ```
 
-2026-10-18 1,057 → 2026-10-23 1,065（+8）
+2026-10-18 1,057 → 2026-10-24 1,067（+10）
 
 
 ---

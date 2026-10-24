@@ -1,6 +1,6 @@
 # microsoft/OpenRCA
 
-⭐ 444 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/OpenRCA) · [官网](https://aka.ms/openrca) · 组织维护
+⭐ 443 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/OpenRCA) · [官网](https://aka.ms/openrca) · 组织维护
 
 **评测 LLM 软件故障根因分析能力的基准数据集**
 
@@ -44,13 +44,13 @@ ICLR'25 论文配套基准：给定自然语言查询，要求 LLM 分析 KPI �
 
 ```mermaid
 xychart-beta
-    title "microsoft/OpenRCA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "microsoft/OpenRCA 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 438 --> 445
-    line [439, 440, 443, 444]
+    line [439, 440, 443, 444, 443]
 ```
 
-2026-10-18 439 → 2026-10-23 444（+5）
+2026-10-18 439 → 2026-10-24 443（+4）
 
 
 ---

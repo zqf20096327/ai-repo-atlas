@@ -1,6 +1,6 @@
 # ipa-lab/hackingBuddyGPT
 
-⭐ 1,282 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/ipa-lab/hackingBuddyGPT) · [官网](https://hackingbuddy.ai/) · 组织维护
+⭐ 1,283 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/ipa-lab/hackingBuddyGPT) · [官网](https://hackingbuddy.ai/) · 组织维护
 
 **构建 LLM 驱动安全测试 agent 的框架（约 50 行代码起步）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ipa-lab/hackingBuddyGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1276 --> 1283
-    line [1277, 1282]
+    title "ipa-lab/hackingBuddyGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1276 --> 1284
+    line [1277, 1282, 1283]
 ```
 
-2026-10-18 1,277 → 2026-10-23 1,282（+5）
+2026-10-18 1,277 → 2026-10-24 1,283（+6）
 
 
 ---

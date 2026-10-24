@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-Math-V2
 
-⭐ 1,617 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Math-V2) · 组织维护 · 中文 README
+⭐ 1,618 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Math-V2) · 组织维护 · 中文 README
 
 **数学定理证明大模型：自验证推理，IMO/CMP 金牌水平**
 
@@ -44,13 +44,13 @@ DeepSeek 发布的数学推理大模型权重，基于 DeepSeek-V3.2-Exp-Base �
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepSeek-Math-V2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1611 --> 1618
-    line [1612, 1616, 1617]
+    title "deepseek-ai/DeepSeek-Math-V2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1611 --> 1619
+    line [1612, 1616, 1617, 1618]
 ```
 
-2026-10-18 1,612 → 2026-10-23 1,617（+5）
+2026-10-18 1,612 → 2026-10-24 1,618（+6）
 
 
 ---

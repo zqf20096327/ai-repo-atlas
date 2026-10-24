@@ -1,6 +1,6 @@
 # kaushikb11/awesome-llm-agents
 
-⭐ 1,610 · Python · CC0-1.0 · 推送 2026-10-18 · [GitHub](https://github.com/kaushikb11/awesome-llm-agents) · 个人维护
+⭐ 1,612 · Python · CC0-1.0 · 推送 2026-10-18 · [GitHub](https://github.com/kaushikb11/awesome-llm-agents) · 个人维护
 
 **LLM agent 框架策展清单：按类别收录开源框架与工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kaushikb11/awesome-llm-agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1608 --> 1612
-    line [1609, 1610, 1611, 1610]
+    title "kaushikb11/awesome-llm-agents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1608 --> 1613
+    line [1609, 1610, 1611, 1610, 1612]
 ```
 
-2026-10-18 1,609 → 2026-10-23 1,610（+1）
+2026-10-18 1,609 → 2026-10-24 1,612（+3）
 
 
 ---

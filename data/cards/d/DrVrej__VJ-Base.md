@@ -42,12 +42,12 @@ VJ Base（Vrej Base）是 Garry's Mod 的插件（addon）开发基础框架，2
 ```mermaid
 xychart-beta
     title "DrVrej/VJ-Base 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 123 --> 125
     line [124, 124]
 ```
 
-2026-10-18 124 → 2026-10-23 124（+0）
+2026-10-18 124 → 2026-10-24 124（+0）
 
 
 ---

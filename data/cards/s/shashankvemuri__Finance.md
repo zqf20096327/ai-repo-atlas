@@ -1,6 +1,6 @@
 # shashankvemuri/Finance
 
-⭐ 4,336 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/shashankvemuri/Finance) · 个人维护
+⭐ 4,343 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/shashankvemuri/Finance) · 个人维护
 
 **量化金融 Python 工具库：行情数据、指标、回测与组合优化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shashankvemuri/Finance 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4327 --> 4337
-    line [4328, 4331, 4333, 4336]
+    title "shashankvemuri/Finance 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4327 --> 4344
+    line [4328, 4331, 4333, 4336, 4343]
 ```
 
-2026-10-18 4,328 → 2026-10-23 4,336（+8）
+2026-10-18 4,328 → 2026-10-24 4,343（+15）
 
 
 ---

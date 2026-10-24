@@ -1,6 +1,6 @@
 # anthropics/healthcare
 
-⭐ 428 · JavaScript · 推送 2026-08-27 · [GitHub](https://github.com/anthropics/healthcare) · 组织维护
+⭐ 429 · JavaScript · 推送 2026-08-27 · [GitHub](https://github.com/anthropics/healthcare) · 组织维护
 
 **面向医疗健康工作的 Claude 技能插件包，含托管 MCP 服务**
 
@@ -47,12 +47,12 @@ Anthropic 维护的单一 Claude 插件：打包支付方、医疗提供方、�
 ```mermaid
 xychart-beta
     title "anthropics/healthcare 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 425 --> 429
-    line [426, 428, 428]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 425 --> 430
+    line [426, 428, 429]
 ```
 
-2026-10-18 426 → 2026-10-23 428（+2）
+2026-10-18 426 → 2026-10-24 429（+3）
 
 
 ---

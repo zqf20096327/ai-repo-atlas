@@ -1,6 +1,6 @@
 # tgoai/tgo
 
-⭐ 639 · TypeScript · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/tgoai/tgo) · [官网](https://tgo.ai) · 组织维护 · 中文 README
+⭐ 640 · TypeScript · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/tgoai/tgo) · [官网](https://tgo.ai) · 组织维护 · 中文 README
 
 **开源 AI Agent 客服平台：构建多渠道智能客服团队**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tgoai/tgo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 631 --> 640
-    line [632, 635, 636, 639]
+    title "tgoai/tgo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 631 --> 641
+    line [632, 635, 636, 639, 640]
 ```
 
-2026-10-18 632 → 2026-10-23 639（+7）
+2026-10-18 632 → 2026-10-24 640（+8）
 
 
 ---

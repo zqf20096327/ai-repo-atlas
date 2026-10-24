@@ -1,6 +1,6 @@
 # nekhtiari/image-similarity-measures
 
-⭐ 648 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/nekhtiari/image-similarity-measures) · 组织维护
+⭐ 649 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/nekhtiari/image-similarity-measures) · 组织维护
 
 **Python 包与命令行工具：八种指标度量两图像相似度**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nekhtiari/image-similarity-measures 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 646 --> 649
-    line [647, 648]
+    title "nekhtiari/image-similarity-measures 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 646 --> 650
+    line [647, 648, 649]
 ```
 
-2026-10-18 647 → 2026-10-23 648（+1）
+2026-10-18 647 → 2026-10-24 649（+2）
 
 
 ---

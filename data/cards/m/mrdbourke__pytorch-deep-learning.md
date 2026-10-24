@@ -1,6 +1,6 @@
 # mrdbourke/pytorch-deep-learning
 
-⭐ 19,258 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/mrdbourke/pytorch-deep-learning) · [官网](https://learnpytorch.io) · 个人维护
+⭐ 19,266 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/mrdbourke/pytorch-deep-learning) · [官网](https://learnpytorch.io) · 个人维护
 
 **面向深度学习初学者的 PyTorch 免费课程材料库**
 
@@ -50,13 +50,13 @@ Zero to Mastery「Learn PyTorch for Deep Learning」课程的配套材料仓库�
 
 ```mermaid
 xychart-beta
-    title "mrdbourke/pytorch-deep-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 19221 --> 19261
-    line [19224, 19238, 19252, 19258]
+    title "mrdbourke/pytorch-deep-learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 19220 --> 19270
+    line [19224, 19238, 19252, 19258, 19266]
 ```
 
-2026-10-18 19,224 → 2026-10-23 19,258（+34）
+2026-10-18 19,224 → 2026-10-24 19,266（+42）
 
 
 ---

@@ -1,6 +1,6 @@
 # amekala/ads-mcp
 
-⭐ 104 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/amekala/ads-mcp) · [官网](https://www.adspirer.com) · 组织维护
+⭐ 105 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/amekala/ads-mcp) · [官网](https://www.adspirer.com) · 组织维护
 
 **跨平台广告管理的远程 MCP 服务器，供 AI 助手调用 400+ 广告工具**
 
@@ -46,12 +46,12 @@ Adspirer 运营的远程 MCP 服务器（Streamable HTTP、OAuth 2.1+PKCE），�
 ```mermaid
 xychart-beta
     title "amekala/ads-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 102 --> 105
-    line [103, 104, 104]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 102 --> 106
+    line [103, 104, 105]
 ```
 
-2026-10-18 103 → 2026-10-23 104（+1）
+2026-10-18 103 → 2026-10-24 105（+2）
 
 
 ---

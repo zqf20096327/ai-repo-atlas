@@ -45,13 +45,13 @@ DataCanvas 开源的 Python 工具包，将 FM、DeepFM、Wide&Deep、DCN、PNN 
 
 ```mermaid
 xychart-beta
-    title "DataCanvasIO/DeepTables 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "DataCanvasIO/DeepTables 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 705 --> 708
-    line [706, 707]
+    line [706, 707, 707]
 ```
 
-2026-10-18 706 → 2026-10-23 707（+1）
+2026-10-18 706 → 2026-10-24 707（+1）
 
 
 ---

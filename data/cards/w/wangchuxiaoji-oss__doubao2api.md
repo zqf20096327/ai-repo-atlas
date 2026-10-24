@@ -1,6 +1,6 @@
 # wangchuxiaoji-oss/doubao2api
 
-⭐ 284 · Python · Apache-2.0 · 推送 2026-05-24 · [GitHub](https://github.com/wangchuxiaoji-oss/doubao2api) · [官网](https://wangchuxiaoji-oss.github.io/doubao2api/) · 个人维护 · 中文 README
+⭐ 286 · Python · Apache-2.0 · 推送 2026-05-24 · [GitHub](https://github.com/wangchuxiaoji-oss/doubao2api) · [官网](https://wangchuxiaoji-oss.github.io/doubao2api/) · 个人维护 · 中文 README
 
 **逆向豆包客户端 API，为 Agent 提供免费多模态能力**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wangchuxiaoji-oss/doubao2api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 281 --> 285
-    line [282, 283, 284]
+    title "wangchuxiaoji-oss/doubao2api 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 281 --> 287
+    line [282, 283, 284, 286]
 ```
 
-2026-10-18 282 → 2026-10-23 284（+2）
+2026-10-18 282 → 2026-10-24 286（+4）
 
 
 ---

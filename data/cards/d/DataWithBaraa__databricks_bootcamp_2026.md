@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "DataWithBaraa/databricks_bootcamp_2026 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "DataWithBaraa/databricks_bootcamp_2026 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 450 --> 456
-    line [451, 452, 455]
+    line [451, 452, 455, 455]
 ```
 
-2026-10-18 451 → 2026-10-23 455（+4）
+2026-10-18 451 → 2026-10-24 455（+4）
 
 
 ---

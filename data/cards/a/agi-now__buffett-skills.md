@@ -1,6 +1,6 @@
 # agi-now/buffett-skills
 
-⭐ 838 · 推送 2026-04-13 · [GitHub](https://github.com/agi-now/buffett-skills) · [官网](https://www.aitroop.net/) · 组织维护 · 中文 README
+⭐ 839 · 推送 2026-04-13 · [GitHub](https://github.com/agi-now/buffett-skills) · [官网](https://www.aitroop.net/) · 组织维护 · 中文 README
 
 **巴菲特投资框架的 Claude Code 技能集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agi-now/buffett-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 826 --> 839
-    line [827, 829, 835, 838]
+    title "agi-now/buffett-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 826 --> 840
+    line [827, 829, 835, 838, 839]
 ```
 
-2026-10-18 827 → 2026-10-23 838（+11）
+2026-10-18 827 → 2026-10-24 839（+12）
 
 
 ---

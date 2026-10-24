@@ -1,6 +1,6 @@
 # xixihhhh/hotclip
 
-⭐ 359 · TypeScript · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/xixihhhh/hotclip) · [官网](https://xixihhhh.github.io/hotclip/) · 个人维护 · 中文 README
+⭐ 365 · TypeScript · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/xixihhhh/hotclip) · [官网](https://xixihhhh.github.io/hotclip/) · 个人维护 · 中文 README
 
 **本地运行的 AI 长视频/直播回放切片工具，一键生成竖屏短视频**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xixihhhh/hotclip 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 336 --> 361
-    line [338, 346, 353, 359]
+    title "xixihhhh/hotclip 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 336 --> 367
+    line [338, 346, 353, 359, 365]
 ```
 
-2026-10-18 338 → 2026-10-23 359（+21）
+2026-10-18 338 → 2026-10-24 365（+27）
 
 
 ---

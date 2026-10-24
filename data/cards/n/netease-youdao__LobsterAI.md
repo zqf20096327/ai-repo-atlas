@@ -1,6 +1,6 @@
 # netease-youdao/LobsterAI
 
-⭐ 6,139 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/netease-youdao/LobsterAI) · [官网](https://lobsterai.youdao.com) · 组织维护 · 中文 README
+⭐ 6,143 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/netease-youdao/LobsterAI) · [官网](https://lobsterai.youdao.com) · 组织维护 · 中文 README
 
 **网易有道开源的桌面级办公 Agent，操作本机文件与办公软件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "netease-youdao/LobsterAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6122 --> 6140
-    line [6123, 6129, 6134, 6139]
+    title "netease-youdao/LobsterAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6121 --> 6145
+    line [6123, 6129, 6134, 6139, 6143]
 ```
 
-2026-10-18 6,123 → 2026-10-23 6,139（+16）
+2026-10-18 6,123 → 2026-10-24 6,143（+20）
 
 
 ---

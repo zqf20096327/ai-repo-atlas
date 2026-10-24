@@ -1,6 +1,6 @@
 # LeonardoBerti00/TLOB
 
-⭐ 182 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/LeonardoBerti00/TLOB) · 个人维护
+⭐ 181 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/LeonardoBerti00/TLOB) · 个人维护
 
 **论文官方仓库：基于双重注意力 Transformer 的限价订单簿价格趋势预测模型**
 
@@ -45,12 +45,12 @@ TLOB 论文（arXiv:2502.15757）官方代码库，提供基于双注意力机�
 ```mermaid
 xychart-beta
     title "LeonardoBerti00/TLOB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 181 --> 183
-    line [182, 182]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 180 --> 183
+    line [182, 181]
 ```
 
-2026-10-18 182 → 2026-10-23 182（+0）
+2026-10-18 182 → 2026-10-24 181（-1）
 
 
 ---

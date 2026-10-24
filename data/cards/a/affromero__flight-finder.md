@@ -1,6 +1,6 @@
 # affromero/flight-finder
 
-⭐ 173 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/affromero/flight-finder) · [官网](https://flight-finder.org) · 个人维护
+⭐ 175 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/affromero/flight-finder) · [官网](https://flight-finder.org) · 个人维护
 
 **自托管机票/酒店/租车价格追踪应用，支持自然语言搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "affromero/flight-finder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 170 --> 174
-    line [171, 173]
+    title "affromero/flight-finder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 170 --> 176
+    line [171, 173, 175]
 ```
 
-2026-10-18 171 → 2026-10-23 173（+2）
+2026-10-18 171 → 2026-10-24 175（+4）
 
 
 ---

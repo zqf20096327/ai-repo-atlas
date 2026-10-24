@@ -1,6 +1,6 @@
 # Lightricks/ComfyUI-LTXVideo
 
-⭐ 4,211 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Lightricks/ComfyUI-LTXVideo) · [官网](https://ltx.io/model/ltx-2) · 组织维护
+⭐ 4,210 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Lightricks/ComfyUI-LTXVideo) · [官网](https://ltx.io/model/ltx-2) · 组织维护
 
 **为 ComfyUI 提供 LTX-2 视频生成模型的自定义节点集合**
 
@@ -45,13 +45,13 @@ Lightricks 维护的 ComfyUI 自定义节点仓库，扩展 ComfyUI 对 LTX-2 �
 
 ```mermaid
 xychart-beta
-    title "Lightricks/ComfyUI-LTXVideo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "Lightricks/ComfyUI-LTXVideo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 4202 --> 4212
-    line [4203, 4206, 4208, 4211]
+    line [4203, 4206, 4208, 4211, 4210]
 ```
 
-2026-10-18 4,203 → 2026-10-23 4,211（+8）
+2026-10-18 4,203 → 2026-10-24 4,210（+7）
 
 
 ---

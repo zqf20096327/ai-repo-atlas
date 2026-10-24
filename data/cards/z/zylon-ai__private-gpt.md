@@ -1,6 +1,6 @@
 # zylon-ai/private-gpt
 
-⭐ 57,602 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/zylon-ai/private-gpt) · [官网](https://www.zylon.ai/private-gpt) · 组织维护
+⭐ 57,610 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/zylon-ai/private-gpt) · [官网](https://www.zylon.ai/private-gpt) · 组织维护
 
 **把本地模型变成私有 AI 应用的开源 API 层**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "zylon-ai/private-gpt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 57590 --> 57603
-    line [57591, 57597, 57600, 57602]
+    title "zylon-ai/private-gpt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 57590 --> 57611
+    line [57591, 57597, 57600, 57602, 57610]
 ```
 
-2026-10-18 57,591 → 2026-10-23 57,602（+11）
+2026-10-18 57,591 → 2026-10-24 57,610（+19）
 
 
 ---

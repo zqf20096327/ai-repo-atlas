@@ -1,6 +1,6 @@
 # Fincept-Corporation/FinceptTerminal
 
-⭐ 32,919 · C++ · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) · [官网](https://fincept.in) · 组织维护
+⭐ 32,961 · C++ · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) · [官网](https://fincept.in) · 组织维护
 
 **开源 C++ 金融研究终端：面向投资者/研究者的市场分析与 AI 自动化**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fincept-Corporation/FinceptTerminal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 32591 --> 32948
-    line [32620, 32757, 32836, 32919]
+    title "Fincept-Corporation/FinceptTerminal 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 32586 --> 32995
+    line [32620, 32757, 32836, 32919, 32961]
 ```
 
-2026-10-18 32,620 → 2026-10-23 32,919（+299）
+2026-10-18 32,620 → 2026-10-24 32,961（+341）
 
 
 ---

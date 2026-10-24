@@ -1,6 +1,6 @@
 # Jpisnice/shadcn-ui-mcp-server
 
-⭐ 3,065 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Jpisnice/shadcn-ui-mcp-server) · 个人维护
+⭐ 3,068 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Jpisnice/shadcn-ui-mcp-server) · 个人维护
 
 **向 AI 助手提供 shadcn/ui 组件源码与元数据的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jpisnice/shadcn-ui-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3058 --> 3066
-    line [3059, 3062, 3065, 3065]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 3058 --> 3069
+    line [3059, 3062, 3065, 3068]
 ```
 
-2026-10-18 3,059 → 2026-10-23 3,065（+6）
+2026-10-18 3,059 → 2026-10-24 3,068（+9）
 
 
 ---

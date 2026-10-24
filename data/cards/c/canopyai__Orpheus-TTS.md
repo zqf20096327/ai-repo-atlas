@@ -1,6 +1,6 @@
 # canopyai/Orpheus-TTS
 
-⭐ 6,366 · Python · Apache-2.0 · 推送 2025-12-05 · [GitHub](https://github.com/canopyai/Orpheus-TTS) · [官网](https://canopylabs.ai) · 组织维护
+⭐ 6,369 · Python · Apache-2.0 · 推送 2025-12-05 · [GitHub](https://github.com/canopyai/Orpheus-TTS) · [官网](https://canopylabs.ai) · 组织维护
 
 **基于 Llama-3b 的开源文语合成（TTS）模型**
 
@@ -44,13 +44,13 @@ Orpheus TTS 是构建在 Llama-3b 骨干上的开源文本转语音系统，提�
 
 ```mermaid
 xychart-beta
-    title "canopyai/Orpheus-TTS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 6356 --> 6367
-    line [6357, 6359, 6366]
+    title "canopyai/Orpheus-TTS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6356 --> 6370
+    line [6357, 6359, 6366, 6369]
 ```
 
-2026-10-18 6,357 → 2026-10-23 6,366（+9）
+2026-10-18 6,357 → 2026-10-24 6,369（+12）
 
 
 ---

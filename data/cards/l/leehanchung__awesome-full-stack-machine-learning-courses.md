@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "leehanchung/awesome-full-stack-machine-learning-courses 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 535 --> 538
     line [536, 537, 537]
 ```
 
-2026-10-18 536 → 2026-10-23 537（+1）
+2026-10-18 536 → 2026-10-24 537（+1）
 
 
 ---

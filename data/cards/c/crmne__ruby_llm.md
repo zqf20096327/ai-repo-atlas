@@ -1,6 +1,6 @@
 # crmne/ruby_llm
 
-⭐ 4,483 · Ruby · MIT · 推送 2026-10-22 · [GitHub](https://github.com/crmne/ruby_llm) · [官网](https://rubyllm.com/) · 组织维护
+⭐ 4,483 · Ruby · MIT · 推送 2026-10-23 · [GitHub](https://github.com/crmne/ruby_llm) · [官网](https://rubyllm.com/) · 组织维护
 
 **Ruby 语言的 AI 应用开发框架：统一 API 接入多家模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "crmne/ruby_llm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "crmne/ruby_llm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 4469 --> 4484
-    line [4470, 4473, 4478, 4483]
+    line [4470, 4473, 4478, 4483, 4483]
 ```
 
-2026-10-18 4,470 → 2026-10-23 4,483（+13）
+2026-10-18 4,470 → 2026-10-24 4,483（+13）
 
 
 ---

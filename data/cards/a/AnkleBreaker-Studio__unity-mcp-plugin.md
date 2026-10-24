@@ -1,6 +1,6 @@
 # AnkleBreaker-Studio/unity-mcp-plugin
 
-⭐ 257 · C# · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/AnkleBreaker-Studio/unity-mcp-plugin) · [官网](https://github.com/AnkleBreaker-Studio/unity-mcp-server) · 组织维护
+⭐ 257 · C# · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AnkleBreaker-Studio/unity-mcp-plugin) · [官网](https://github.com/AnkleBreaker-Studio/unity-mcp-server) · 组织维护
 
 **Unity 编辑器 MCP 桥接插件：让 AI agent 直接操作 Unity Editor**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AnkleBreaker-Studio/unity-mcp-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 254 --> 258
     line [255, 256, 257, 257]
 ```
 
-2026-10-18 255 → 2026-10-23 257（+2）
+2026-10-18 255 → 2026-10-24 257（+2）
 
 
 ---

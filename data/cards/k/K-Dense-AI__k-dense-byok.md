@@ -1,6 +1,6 @@
 # K-Dense-AI/k-dense-byok
 
-⭐ 1,392 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/K-Dense-AI/k-dense-byok) · [官网](https://arxiv.org/abs/2610.00074) · 组织维护
+⭐ 1,397 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/K-Dense-AI/k-dense-byok) · [官网](https://arxiv.org/abs/2610.00074) · 组织维护
 
 **本地运行的科研 AI 助手（BYOK），带可追溯实验记录**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "K-Dense-AI/k-dense-byok 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1367 --> 1394
-    line [1369, 1378, 1388, 1392]
+    title "K-Dense-AI/k-dense-byok 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1367 --> 1399
+    line [1369, 1378, 1388, 1392, 1397]
 ```
 
-2026-10-18 1,369 → 2026-10-23 1,392（+23）
+2026-10-18 1,369 → 2026-10-24 1,397（+28）
 
 
 ---

@@ -45,12 +45,12 @@ MTAD-GAT（Zhao et al. 2020）的 PyTorch 实现，构建完整的多变量时�
 ```mermaid
 xychart-beta
     title "ML4ITS/mtad-gat-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 397 --> 399
     line [398, 398]
 ```
 
-2026-10-18 398 → 2026-10-23 398（+0）
+2026-10-18 398 → 2026-10-24 398（+0）
 
 
 ---

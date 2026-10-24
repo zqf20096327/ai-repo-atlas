@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "omnirexflora-labs/omnicoreagent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "omnirexflora-labs/omnicoreagent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 251 --> 254
-    line [253, 252]
+    line [253, 252, 252]
 ```
 
-2026-10-18 253 → 2026-10-23 252（-1）
+2026-10-18 253 → 2026-10-24 252（-1）
 
 
 ---

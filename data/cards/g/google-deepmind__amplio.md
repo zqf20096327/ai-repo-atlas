@@ -1,6 +1,6 @@
 # google-deepmind/amplio
 
-⭐ 98 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-deepmind/amplio) · 组织维护
+⭐ 98 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/amplio) · 组织维护
 
 **轻量多智能体运行框架：面向长周期任务，崩溃可恢复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/amplio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-18 98 → 2026-10-23 98（+0）
+2026-10-18 98 → 2026-10-24 98（+0）
 
 
 ---

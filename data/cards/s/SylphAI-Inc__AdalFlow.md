@@ -1,6 +1,6 @@
 # SylphAI-Inc/AdalFlow
 
-⭐ 4,221 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/SylphAI-Inc/AdalFlow) · [官网](http://adalflow.sylph.ai/) · 组织维护
+⭐ 4,223 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/SylphAI-Inc/AdalFlow) · [官网](http://adalflow.sylph.ai/) · 组织维护
 
 **构建并自动优化 LLM 应用工作流的 PyTorch 风格库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SylphAI-Inc/AdalFlow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4218 --> 4222
-    line [4219, 4220, 4221, 4221]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 4218 --> 4224
+    line [4219, 4220, 4221, 4223]
 ```
 
-2026-10-18 4,219 → 2026-10-23 4,221（+2）
+2026-10-18 4,219 → 2026-10-24 4,223（+4）
 
 
 ---

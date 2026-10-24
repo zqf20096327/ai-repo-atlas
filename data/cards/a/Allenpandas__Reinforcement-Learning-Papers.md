@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Allenpandas/Reinforcement-Learning-Papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Allenpandas/Reinforcement-Learning-Papers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 367 --> 370
-    line [369, 368]
+    line [369, 368, 368]
 ```
 
-2026-10-18 369 → 2026-10-23 368（-1）
+2026-10-18 369 → 2026-10-24 368（-1）
 
 
 ---

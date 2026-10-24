@@ -1,6 +1,6 @@
 # Comfy-Org/comfy-cli
 
-⭐ 1,024 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Comfy-Org/comfy-cli) · [官网](https://docs.comfy.org/comfy-cli/getting-started) · 组织维护
+⭐ 1,025 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Comfy-Org/comfy-cli) · [官网](https://docs.comfy.org/comfy-cli/getting-started) · 组织维护
 
 **ComfyUI 的命令行工具：安装、运行与管理生成式工作流**
 
@@ -47,12 +47,12 @@ Comfy-Org 官方维护的 ComfyUI 命令行工具：一条命令安装并启动 
 ```mermaid
 xychart-beta
     title "Comfy-Org/comfy-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1014 --> 1025
-    line [1015, 1020, 1024, 1024]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1014 --> 1026
+    line [1015, 1020, 1024, 1025]
 ```
 
-2026-10-18 1,015 → 2026-10-23 1,024（+9）
+2026-10-18 1,015 → 2026-10-24 1,025（+10）
 
 
 ---

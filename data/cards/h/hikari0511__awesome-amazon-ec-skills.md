@@ -1,6 +1,6 @@
 # hikari0511/awesome-amazon-ec-skills
 
-⭐ 217 · CC0-1.0 · 推送 2026-05-19 · [GitHub](https://github.com/hikari0511/awesome-amazon-ec-skills) · 个人维护 · 中文 README
+⭐ 219 · CC0-1.0 · 推送 2026-05-19 · [GitHub](https://github.com/hikari0511/awesome-amazon-ec-skills) · 个人维护 · 中文 README
 
 **亚马逊跨境电商场景的 Claude/AI Agent Skills 收录清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hikari0511/awesome-amazon-ec-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 207 --> 218
-    line [208, 211, 216, 217]
+    title "hikari0511/awesome-amazon-ec-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 207 --> 220
+    line [208, 211, 216, 217, 219]
 ```
 
-2026-10-18 208 → 2026-10-23 217（+9）
+2026-10-18 208 → 2026-10-24 219（+11）
 
 
 ---

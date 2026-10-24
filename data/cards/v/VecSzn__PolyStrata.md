@@ -1,6 +1,6 @@
 # VecSzn/PolyStrata
 
-⭐ 388 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/VecSzn/PolyStrata) · 个人维护 · 中文 README
+⭐ 421 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/VecSzn/PolyStrata) · 个人维护 · 中文 README
 
 **本地运行大模型的推理引擎，含双引擎九模型与本地 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VecSzn/PolyStrata 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 167 --> 408
-    line [187, 276, 330, 388]
+    title "VecSzn/PolyStrata 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 164 --> 444
+    line [187, 276, 330, 388, 421]
 ```
 
-2026-10-18 187 → 2026-10-23 388（+201）
+2026-10-18 187 → 2026-10-24 421（+234）
 
 
 ---

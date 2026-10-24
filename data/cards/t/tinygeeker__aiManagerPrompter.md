@@ -1,6 +1,6 @@
 # tinygeeker/aiManagerPrompter
 
-⭐ 317 · Vue · 推送 2026-01-10 · [GitHub](https://github.com/tinygeeker/aiManagerPrompter) · [官网](https://tinygeeker.github.io/projects/aiManagerPrompter/?from=github) · 个人维护 · 中文 README
+⭐ 318 · Vue · 推送 2026-01-10 · [GitHub](https://github.com/tinygeeker/aiManagerPrompter) · [官网](https://tinygeeker.github.io/projects/aiManagerPrompter/?from=github) · 个人维护 · 中文 README
 
 **AI 绘画提示词标签工具：分类整理标签生成可用提示词**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "tinygeeker/aiManagerPrompter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 316 --> 318
-    line [317, 317]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 316 --> 319
+    line [317, 318]
 ```
 
-2026-10-18 317 → 2026-10-23 317（+0）
+2026-10-18 317 → 2026-10-24 318（+1）
 
 
 ---

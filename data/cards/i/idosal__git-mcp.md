@@ -1,6 +1,6 @@
 # idosal/git-mcp
 
-⭐ 8,474 · TypeScript · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/idosal/git-mcp) · [官网](https://gitmcp.io) · 个人维护
+⭐ 8,479 · TypeScript · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/idosal/git-mcp) · [官网](https://gitmcp.io) · 个人维护
 
 **把任意 GitHub 仓库变成文档 MCP 服务器的远程服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "idosal/git-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8466 --> 8475
-    line [8467, 8471, 8474, 8474]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 8466 --> 8480
+    line [8467, 8471, 8474, 8479]
 ```
 
-2026-10-18 8,467 → 2026-10-23 8,474（+7）
+2026-10-18 8,467 → 2026-10-24 8,479（+12）
 
 
 ---

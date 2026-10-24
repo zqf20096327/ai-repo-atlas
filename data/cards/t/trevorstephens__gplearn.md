@@ -1,6 +1,6 @@
 # trevorstephens/gplearn
 
-⭐ 1,893 · Python · BSD-3-Clause · 推送 2026-08-14 · [GitHub](https://github.com/trevorstephens/gplearn) · [官网](http://gplearn.readthedocs.io/) · 个人维护
+⭐ 1,894 · Python · BSD-3-Clause · 推送 2026-08-14 · [GitHub](https://github.com/trevorstephens/gplearn) · [官网](http://gplearn.readthedocs.io/) · 个人维护
 
 **Python 遗传编程库：面向符号回归与二分类**
 
@@ -45,12 +45,12 @@ gplearn 用 Python 实现遗传编程（GP），刻意限定于符号回归问�
 ```mermaid
 xychart-beta
     title "trevorstephens/gplearn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1892 --> 1894
-    line [1893, 1893]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 1892 --> 1895
+    line [1893, 1894]
 ```
 
-2026-10-18 1,893 → 2026-10-23 1,893（+0）
+2026-10-18 1,893 → 2026-10-24 1,894（+1）
 
 
 ---

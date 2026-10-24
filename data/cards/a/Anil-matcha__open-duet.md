@@ -1,6 +1,6 @@
 # Anil-matcha/open-duet
 
-⭐ 6,026 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Anil-matcha/open-duet) · 个人维护
+⭐ 6,102 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Anil-matcha/open-duet) · 个人维护
 
 **自托管的 AI 同事工作台：带记忆、例程与审批的命名 agent**
 
@@ -40,6 +40,18 @@
 > L3: **Open Duet is an open-source, self-hosted workspace for AI coworkers: named
 > L14: what Open Duet is. Agents run on an engine you already have signed in (Claude,
 > L31: - **Approvals you control:** ask-first, accept-edits and plan modes, saved rules, a decision log and a safety floor
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Anil-matcha/open-duet 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 6019 --> 6109
+    line [6026, 6102]
+```
+
+2026-10-23 6,026 → 2026-10-24 6,102（+76）
 
 
 ---

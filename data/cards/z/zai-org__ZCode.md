@@ -1,6 +1,6 @@
 # zai-org/ZCode
 
-⭐ 8,119 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/zai-org/ZCode) · [官网](https://zcode.z.ai/) · 组织维护 · 中文 README
+⭐ 8,162 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/zai-org/ZCode) · [官网](https://zcode.z.ai/) · 组织维护 · 中文 README
 
 **Z.ai 的 AI 编程工作台：桌面/Web/终端三种形态的 coding agent**
 
@@ -45,13 +45,13 @@ Z.ai 开源的 AI 编程工作台，仓库包含 Electron 桌面客户端、Web 
 
 ```mermaid
 xychart-beta
-    title "zai-org/ZCode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7886 --> 8140
-    line [7907, 7995, 8073, 8119]
+    title "zai-org/ZCode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7882 --> 8187
+    line [7907, 7995, 8073, 8119, 8162]
 ```
 
-2026-10-18 7,907 → 2026-10-23 8,119（+212）
+2026-10-18 7,907 → 2026-10-24 8,162（+255）
 
 
 ---

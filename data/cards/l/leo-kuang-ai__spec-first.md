@@ -1,6 +1,6 @@
 # leo-kuang-ai/spec-first
 
-⭐ 106 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/leo-kuang-ai/spec-first) · [官网](http://spec-first.cn/) · 个人维护 · 中文 README
+⭐ 107 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/leo-kuang-ai/spec-first) · [官网](http://spec-first.cn/) · 个人维护 · 中文 README
 
 **面向多种 AI coding 宿主的仓库原生工作流 Harness**
 
@@ -46,12 +46,12 @@ spec-first 是 npm 分发的 CLI 工具，为 Claude Code、Codex、Kiro、Curso
 ```mermaid
 xychart-beta
     title "leo-kuang-ai/spec-first 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 105 --> 108
-    line [107, 106, 106]
+    line [107, 106, 107]
 ```
 
-2026-10-18 107 → 2026-10-23 106（-1）
+2026-10-18 107 → 2026-10-24 107（+0）
 
 
 ---

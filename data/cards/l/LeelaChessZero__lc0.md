@@ -1,6 +1,6 @@
 # LeelaChessZero/lc0
 
-⭐ 3,253 · C++ · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/LeelaChessZero/lc0) · [官网](https://lczero.org/) · 组织维护
+⭐ 3,254 · C++ · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/LeelaChessZero/lc0) · [官网](https://lczero.org/) · 组织维护
 
 **神经网络国际象棋引擎，UCI 协议，多 GPU 后端加速**
 
@@ -44,13 +44,13 @@ Lc0 是符合 UCI 协议的开源国际象棋引擎，使用 LeelaChessZero 项�
 
 ```mermaid
 xychart-beta
-    title "LeelaChessZero/lc0 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3245 --> 3254
-    line [3246, 3248, 3250, 3253]
+    title "LeelaChessZero/lc0 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3245 --> 3255
+    line [3246, 3248, 3250, 3253, 3254]
 ```
 
-2026-10-18 3,246 → 2026-10-23 3,253（+7）
+2026-10-18 3,246 → 2026-10-24 3,254（+8）
 
 
 ---

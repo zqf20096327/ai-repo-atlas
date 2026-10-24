@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Curator
 
-⭐ 1,820 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA-NeMo/Curator) · 组织维护
+⭐ 1,823 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA-NeMo/Curator) · 组织维护
 
 **面向 ML 工程师的 GPU 加速多模态数据清洗策展工具**
 
@@ -45,13 +45,13 @@ NVIDIA NeMo 套件中的数据预处理与策展库：以可组合的 stage 构�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-NeMo/Curator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1813 --> 1821
-    line [1814, 1815, 1820]
+    title "NVIDIA-NeMo/Curator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1813 --> 1824
+    line [1814, 1815, 1820, 1823]
 ```
 
-2026-10-18 1,814 → 2026-10-23 1,820（+6）
+2026-10-18 1,814 → 2026-10-24 1,823（+9）
 
 
 ---

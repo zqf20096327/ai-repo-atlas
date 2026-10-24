@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "nhaouari/obsidian-textgenerator-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "nhaouari/obsidian-textgenerator-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1990 --> 1993
-    line [1992, 1991]
+    line [1992, 1991, 1991]
 ```
 
-2026-10-18 1,992 → 2026-10-23 1,991（-1）
+2026-10-18 1,992 → 2026-10-24 1,991（-1）
 
 
 ---

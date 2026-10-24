@@ -1,6 +1,6 @@
 # Nano-Collective/get-md
 
-⭐ 96 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Nano-Collective/get-md) · [官网](https://docs.nanocollective.org/get-md/) · 组织维护
+⭐ 96 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Nano-Collective/get-md) · [官网](https://docs.nanocollective.org/get-md/) · 组织维护
 
 **HTML/PDF/DOCX 转 Markdown 库，为 LLM 输入优化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nano-Collective/get-md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Nano-Collective/get-md 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 94 --> 97
-    line [95, 96]
+    line [95, 96, 96]
 ```
 
-2026-10-18 95 → 2026-10-23 96（+1）
+2026-10-18 95 → 2026-10-24 96（+1）
 
 
 ---

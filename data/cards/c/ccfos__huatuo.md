@@ -1,6 +1,6 @@
 # ccfos/huatuo
 
-⭐ 1,135 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ccfos/huatuo) · [官网](https://huatuo.tech/) · 组织维护 · 中文 README
+⭐ 1,135 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ccfos/huatuo) · [官网](https://huatuo.tech/) · 组织维护 · 中文 README
 
 **基于 eBPF 的 Linux 内核级可观测性平台，服务云原生与 AI 基础设施**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ccfos/huatuo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "ccfos/huatuo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1133 --> 1136
-    line [1134, 1135]
+    line [1134, 1135, 1135]
 ```
 
-2026-10-18 1,134 → 2026-10-23 1,135（+1）
+2026-10-18 1,134 → 2026-10-24 1,135（+1）
 
 
 ---

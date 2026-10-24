@@ -1,6 +1,6 @@
 # Sidiora-Labs/hyperfide
 
-⭐ 433 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Sidiora-Labs/hyperfide) · [官网](https://www.hyperfide.com) · 组织维护 · 中文 README
+⭐ 434 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Sidiora-Labs/hyperfide) · [官网](https://www.hyperfide.com) · 组织维护 · 中文 README
 
 **C11 单二进制的 agent 工作流引擎：计划、代码图谱、记忆与多 agent 调度**
 
@@ -46,12 +46,12 @@ Hyperfide 是以单个 `hyperfide` 可执行文件（纯 C11 + SQLite，无遥�
 ```mermaid
 xychart-beta
     title "Sidiora-Labs/hyperfide 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-23"]
-    y-axis "stars" 432 --> 434
-    line [433, 433]
+    x-axis ["2026-10-19", "2026-10-24"]
+    y-axis "stars" 432 --> 435
+    line [433, 434]
 ```
 
-2026-10-19 433 → 2026-10-23 433（+0）
+2026-10-19 433 → 2026-10-24 434（+1）
 
 
 ---

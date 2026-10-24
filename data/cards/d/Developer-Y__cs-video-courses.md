@@ -1,6 +1,6 @@
 # Developer-Y/cs-video-courses
 
-⭐ 83,741 · 推送 2026-10-18 · [GitHub](https://github.com/Developer-Y/cs-video-courses) · 个人维护
+⭐ 83,750 · 推送 2026-10-18 · [GitHub](https://github.com/Developer-Y/cs-video-courses) · 个人维护
 
 **计算机科学视频公开课课程清单（含算法/系统/机器学习等）**
 
@@ -48,13 +48,13 @@
 
 ```mermaid
 xychart-beta
-    title "Developer-Y/cs-video-courses 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 83686 --> 83746
-    line [83691, 83705, 83719, 83741]
+    title "Developer-Y/cs-video-courses 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 83686 --> 83755
+    line [83691, 83705, 83719, 83741, 83750]
 ```
 
-2026-10-18 83,691 → 2026-10-23 83,741（+50）
+2026-10-18 83,691 → 2026-10-24 83,750（+59）
 
 
 ---

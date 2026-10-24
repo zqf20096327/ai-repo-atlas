@@ -46,12 +46,12 @@ TrustGen/TrustEval 是面向生成式基础模型（LLM/VLM/T2I）的可信度�
 ```mermaid
 xychart-beta
     title "TrustGen/TrustEval-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-22", "2026-10-24"]
     y-axis "stars" 135 --> 137
     line [136, 136]
 ```
 
-2026-10-22 136 → 2026-10-23 136（+0）
+2026-10-22 136 → 2026-10-24 136（+0）
 
 
 ---

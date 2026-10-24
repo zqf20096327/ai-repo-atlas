@@ -1,6 +1,6 @@
 # aoci-spec/aoci-code
 
-⭐ 1,699 · Go · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/aoci-spec/aoci-code) · [官网](www.aoci.ai) · 组织维护 · 中文 README
+⭐ 1,721 · Go · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/aoci-spec/aoci-code) · [官网](www.aoci.ai) · 组织维护 · 中文 README
 
 **为编码 agent 提供代码库持久索引的本地 MCP 服务器与 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aoci-spec/aoci-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1583 --> 1709
-    line [1593, 1628, 1699]
+    title "aoci-spec/aoci-code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1581 --> 1733
+    line [1593, 1628, 1699, 1721]
 ```
 
-2026-10-18 1,593 → 2026-10-23 1,699（+106）
+2026-10-18 1,593 → 2026-10-24 1,721（+128）
 
 
 ---

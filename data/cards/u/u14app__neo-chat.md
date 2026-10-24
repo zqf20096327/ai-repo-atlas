@@ -1,6 +1,6 @@
 # u14app/neo-chat
 
-⭐ 1,880 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/u14app/neo-chat) · [官网](https://neo.u14.app) · 个人维护 · 中文 README
+⭐ 1,881 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/u14app/neo-chat) · [官网](https://neo.u14.app) · 个人维护 · 中文 README
 
 **本地优先的自托管 AI 聊天工作台，聚合模型、Agent 与研究**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "u14app/neo-chat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1871 --> 1881
-    line [1873, 1872, 1875, 1880]
+    title "u14app/neo-chat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1871 --> 1882
+    line [1873, 1872, 1875, 1880, 1881]
 ```
 
-2026-10-18 1,873 → 2026-10-23 1,880（+7）
+2026-10-18 1,873 → 2026-10-24 1,881（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # theagentrouter/agent-router
 
-⭐ 2,262 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/theagentrouter/agent-router) · [官网](https://theagentrouter.ai/) · 组织维护
+⭐ 2,280 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/theagentrouter/agent-router) · [官网](https://theagentrouter.ai/) · 组织维护
 
 **基于 Envoy 的 AI 网关：统一接入各家模型与自托管推理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "theagentrouter/agent-router 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2235 --> 2264
-    line [2237, 2245, 2255, 2262]
+    title "theagentrouter/agent-router 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2233 --> 2284
+    line [2237, 2245, 2255, 2262, 2280]
 ```
 
-2026-10-18 2,237 → 2026-10-23 2,262（+25）
+2026-10-18 2,237 → 2026-10-24 2,280（+43）
 
 
 ---

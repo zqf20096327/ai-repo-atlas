@@ -1,6 +1,6 @@
 # careerhackeralex/visualize
 
-⭐ 243 · JavaScript · MIT · 推送 2026-03-06 · [GitHub](https://github.com/careerhackeralex/visualize) · 个人维护
+⭐ 245 · JavaScript · MIT · 推送 2026-03-06 · [GitHub](https://github.com/careerhackeralex/visualize) · 个人维护
 
 **用一句话生成自包含 HTML 可视化（幻灯片/仪表盘/信息图）的 Claude Code 插件**
 
@@ -46,12 +46,12 @@ Claude Code 插件：用户以自然语言描述可视化需求，Claude Code �
 ```mermaid
 xychart-beta
     title "careerhackeralex/visualize 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 238 --> 244
-    line [239, 242, 243, 243]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 238 --> 246
+    line [239, 242, 243, 245]
 ```
 
-2026-10-18 239 → 2026-10-23 243（+4）
+2026-10-18 239 → 2026-10-24 245（+6）
 
 
 ---

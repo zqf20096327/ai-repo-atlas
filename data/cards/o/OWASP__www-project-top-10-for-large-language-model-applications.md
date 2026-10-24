@@ -1,6 +1,6 @@
 # OWASP/www-project-top-10-for-large-language-model-applications
 
-⭐ 1,461 · Python · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) · [官网](http://genai.owasp.org) · 组织维护
+⭐ 1,463 · Python · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) · [官网](http://genai.owasp.org) · 组织维护
 
 **OWASP LLM 应用 Top 10 安全风险清单的历史归档仓库**
 
@@ -45,12 +45,12 @@ OWASP Top 10 for Large Language Model Applications 的原始项目页仓库，�
 ```mermaid
 xychart-beta
     title "OWASP/www-project-top-10-for-large-language-model-applications 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1453 --> 1462
-    line [1454, 1457, 1461, 1461]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1453 --> 1464
+    line [1454, 1457, 1461, 1463]
 ```
 
-2026-10-18 1,454 → 2026-10-23 1,461（+7）
+2026-10-18 1,454 → 2026-10-24 1,463（+9）
 
 
 ---

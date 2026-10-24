@@ -1,6 +1,6 @@
 # JOYCEQL/magic-resume
 
-⭐ 11,184 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/JOYCEQL/magic-resume) · [官网](https://magicv.art) · 个人维护 · 中文 README
+⭐ 11,202 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/JOYCEQL/magic-resume) · [官网](https://magicv.art) · 个人维护 · 中文 README
 
 **在线 AI 辅助简历编辑器，支持实时预览与多格式导出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JOYCEQL/magic-resume 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11096 --> 11192
-    line [11104, 11130, 11160, 11184]
+    title "JOYCEQL/magic-resume 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11095 --> 11211
+    line [11104, 11130, 11160, 11184, 11202]
 ```
 
-2026-10-18 11,104 → 2026-10-23 11,184（+80）
+2026-10-18 11,104 → 2026-10-24 11,202（+98）
 
 
 ---

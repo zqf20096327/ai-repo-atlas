@@ -1,6 +1,6 @@
 # ArkaneFans/servllama
 
-⭐ 97 · Dart · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ArkaneFans/servllama) · 个人维护 · 中文 README
+⭐ 98 · Dart · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ArkaneFans/servllama) · 个人维护 · 中文 README
 
 **安卓手机一键本地 LLM 服务器：无需 Termux，OpenAI 兼容 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ArkaneFans/servllama 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 94 --> 98
-    line [95, 97, 97]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 94 --> 99
+    line [95, 97, 98]
 ```
 
-2026-10-18 95 → 2026-10-23 97（+2）
+2026-10-18 95 → 2026-10-24 98（+3）
 
 
 ---

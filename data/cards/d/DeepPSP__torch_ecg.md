@@ -1,6 +1,6 @@
 # DeepPSP/torch_ecg
 
-⭐ 273 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DeepPSP/torch_ecg) · 个人维护
+⭐ 273 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/DeepPSP/torch_ecg) · 个人维护
 
 **基于 PyTorch 的心电图深度学习框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DeepPSP/torch_ecg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 272 --> 274
     line [273, 273]
 ```
 
-2026-10-18 273 → 2026-10-23 273（+0）
+2026-10-18 273 → 2026-10-24 273（+0）
 
 
 ---

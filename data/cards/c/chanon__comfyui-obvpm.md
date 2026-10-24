@@ -1,6 +1,6 @@
 # chanon/comfyui-obvpm
 
-⭐ 113 · JavaScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/chanon/comfyui-obvpm) · 个人维护
+⭐ 116 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/chanon/comfyui-obvpm) · 个人维护
 
 **ComfyUI 自定义节点包：线束打包、预设与图像合成等整理工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chanon/comfyui-obvpm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 106 --> 114
-    line [107, 109, 112, 113]
+    title "chanon/comfyui-obvpm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 106 --> 117
+    line [107, 109, 112, 113, 116]
 ```
 
-2026-10-18 107 → 2026-10-23 113（+6）
+2026-10-18 107 → 2026-10-24 116（+9）
 
 
 ---

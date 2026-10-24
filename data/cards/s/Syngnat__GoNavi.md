@@ -1,6 +1,6 @@
 # Syngnat/GoNavi
 
-⭐ 2,080 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Syngnat/GoNavi) · [官网](https://gonavi.org) · 个人维护 · 中文 README
+⭐ 2,083 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Syngnat/GoNavi) · [官网](https://gonavi.org) · 个人维护 · 中文 README
 
 **轻量跨平台多数据源数据库客户端，内置 AI 助手与 MCP 接入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Syngnat/GoNavi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2072 --> 2081
-    line [2073, 2076, 2079, 2080]
+    title "Syngnat/GoNavi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2072 --> 2084
+    line [2073, 2076, 2079, 2080, 2083]
 ```
 
-2026-10-18 2,073 → 2026-10-23 2,080（+7）
+2026-10-18 2,073 → 2026-10-24 2,083（+10）
 
 
 ---

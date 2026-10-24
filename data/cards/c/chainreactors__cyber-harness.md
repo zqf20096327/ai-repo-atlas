@@ -1,6 +1,6 @@
 # chainreactors/cyber-harness
 
-⭐ 338 · Go · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/chainreactors/cyber-harness) · 组织维护 · 中文 README
+⭐ 340 · Go · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/chainreactors/cyber-harness) · 组织维护 · 中文 README
 
 **网络安全工作流通用 Agent 框架：可嵌入、全扩展化的攻防工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chainreactors/cyber-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 331 --> 340
-    line [332, 336, 339, 338]
+    title "chainreactors/cyber-harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 331 --> 341
+    line [332, 336, 339, 338, 340]
 ```
 
-2026-10-18 332 → 2026-10-23 338（+6）
+2026-10-18 332 → 2026-10-24 340（+8）
 
 
 ---

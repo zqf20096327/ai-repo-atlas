@@ -1,6 +1,6 @@
 # microsoft/powerbi-modeling-mcp
 
-⭐ 1,242 · MIT · 推送 2026-09-29 · [GitHub](https://github.com/microsoft/powerbi-modeling-mcp) · 组织维护
+⭐ 1,245 · MIT · 推送 2026-09-29 · [GitHub](https://github.com/microsoft/powerbi-modeling-mcp) · 组织维护
 
 **让 AI agent 通过 MCP 管理 Power BI 语义模型的本地服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/powerbi-modeling-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1227 --> 1243
-    line [1228, 1234, 1240, 1242]
+    title "microsoft/powerbi-modeling-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1227 --> 1246
+    line [1228, 1234, 1240, 1242, 1245]
 ```
 
-2026-10-18 1,228 → 2026-10-23 1,242（+14）
+2026-10-18 1,228 → 2026-10-24 1,245（+17）
 
 
 ---

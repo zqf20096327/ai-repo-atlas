@@ -46,12 +46,12 @@ SonarSource 官方发布的多平台代理插件仓库，覆盖 Claude Code、Gi
 ```mermaid
 xychart-beta
     title "SonarSource/sonarqube-agent-plugins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 111 --> 114
     line [112, 113, 113]
 ```
 
-2026-10-18 112 → 2026-10-23 113（+1）
+2026-10-18 112 → 2026-10-24 113（+1）
 
 
 ---

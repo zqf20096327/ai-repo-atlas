@@ -1,6 +1,6 @@
 # Tswoen/Paper-Agent
 
-⭐ 503 · Python · 推送 2026-09-18 · [GitHub](https://github.com/Tswoen/Paper-Agent) · 个人维护 · 中文 README
+⭐ 504 · Python · 推送 2026-09-18 · [GitHub](https://github.com/Tswoen/Paper-Agent) · 个人维护 · 中文 README
 
 **多智能体驱动的论文检索与综述写作工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tswoen/Paper-Agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 491 --> 504
-    line [492, 496, 503, 503]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 491 --> 505
+    line [492, 496, 503, 504]
 ```
 
-2026-10-18 492 → 2026-10-23 503（+11）
+2026-10-18 492 → 2026-10-24 504（+12）
 
 
 ---

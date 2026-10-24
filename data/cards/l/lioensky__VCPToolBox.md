@@ -1,6 +1,6 @@
 # lioensky/VCPToolBox
 
-⭐ 2,393 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/lioensky/VCPToolBox) · [官网](https://www.vcptoolbox.com) · 个人维护 · 中文 README
+⭐ 2,397 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/lioensky/VCPToolBox) · [官网](https://www.vcptoolbox.com) · 个人维护 · 中文 README
 
 **部署在模型 API 与前端之间的 Agent 基建：记忆、插件、多 Agent**
 
@@ -44,13 +44,13 @@ VCP 部署在 AI 模型 API 与前端应用之间，提供统一指令协议、�
 
 ```mermaid
 xychart-beta
-    title "lioensky/VCPToolBox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2369 --> 2395
-    line [2371, 2376, 2389, 2393]
+    title "lioensky/VCPToolBox 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2369 --> 2399
+    line [2371, 2376, 2389, 2393, 2397]
 ```
 
-2026-10-18 2,371 → 2026-10-23 2,393（+22）
+2026-10-18 2,371 → 2026-10-24 2,397（+26）
 
 
 ---

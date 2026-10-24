@@ -1,6 +1,6 @@
 # Snseam/boss-zhipin-mcp
 
-⭐ 153 · Python · 推送 2026-03-31 · [GitHub](https://github.com/Snseam/boss-zhipin-mcp) · 个人维护 · 中文 README
+⭐ 154 · Python · 推送 2026-03-31 · [GitHub](https://github.com/Snseam/boss-zhipin-mcp) · 个人维护 · 中文 README
 
 **让 AI 助手自动化操作 BOSS 直聘招聘后台的 MCP Server**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Snseam/boss-zhipin-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 150 --> 154
-    line [151, 153]
+    title "Snseam/boss-zhipin-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 150 --> 155
+    line [151, 153, 154]
 ```
 
-2026-10-18 151 → 2026-10-23 153（+2）
+2026-10-18 151 → 2026-10-24 154（+3）
 
 
 ---

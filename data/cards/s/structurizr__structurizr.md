@@ -1,6 +1,6 @@
 # structurizr/structurizr
 
-⭐ 487 · Java · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/structurizr/structurizr) · [官网](https://docs.structurizr.com) · 组织维护
+⭐ 491 · Java · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/structurizr/structurizr) · [官网](https://docs.structurizr.com) · 组织维护
 
 **面向 C4 模型的 models-as-code 软件架构图工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "structurizr/structurizr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 472 --> 488
-    line [473, 480, 482, 487]
+    title "structurizr/structurizr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 472 --> 492
+    line [473, 480, 482, 487, 491]
 ```
 
-2026-10-18 473 → 2026-10-23 487（+14）
+2026-10-18 473 → 2026-10-24 491（+18）
 
 
 ---

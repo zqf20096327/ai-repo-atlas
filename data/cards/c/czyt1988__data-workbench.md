@@ -1,6 +1,6 @@
 # czyt1988/data-workbench
 
-⭐ 104 · C++ · LGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/czyt1988/data-workbench) · 个人维护 · 中文 README
+⭐ 104 · C++ · LGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/czyt1988/data-workbench) · 个人维护 · 中文 README
 
 **AI Agent 驱动的 C++/Qt 数据分析工作台，含工作流与高性能绘图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "czyt1988/data-workbench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 102 --> 105
     line [103, 104, 104]
 ```
 
-2026-10-18 103 → 2026-10-23 104（+1）
+2026-10-18 103 → 2026-10-24 104（+1）
 
 
 ---

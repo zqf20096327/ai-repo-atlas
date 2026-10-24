@@ -1,6 +1,6 @@
 # MODSetter/SurfSense
 
-⭐ 16,574 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/MODSetter/SurfSense) · [官网](https://www.surfsense.com) · 个人维护
+⭐ 16,585 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/MODSetter/SurfSense) · [官网](https://www.surfsense.com) · 个人维护
 
 **本地离线运行的开源 NotebookLM 替代桌面应用**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "MODSetter/SurfSense 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 16484 --> 16582
-    line [16492, 16528, 16555, 16574]
+    title "MODSetter/SurfSense 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 16483 --> 16594
+    line [16492, 16528, 16555, 16574, 16585]
 ```
 
-2026-10-18 16,492 → 2026-10-23 16,574（+82）
+2026-10-18 16,492 → 2026-10-24 16,585（+93）
 
 
 ---

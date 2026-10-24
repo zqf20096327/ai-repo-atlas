@@ -40,6 +40,18 @@ LTNtorch 是逻辑张量网络（LTN）的 PyTorch 实现。LTN 是神经-符号
 > L15: Logic Tensor Network (LTN) is a Neural-Symbolic (NeSy) framework which supports learning of neural networks using t
 > L24: The idea is to use the logical axioms as a loss function for our Logic Tensor Network. The objective is to find sol
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tommasocarraro/LTNtorch 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 162 --> 164
+    line [163, 163]
+```
+
+2026-10-23 163 → 2026-10-24 163（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `c80a767272a9` · [字段定义](../../DATASET.md)*

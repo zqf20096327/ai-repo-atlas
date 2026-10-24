@@ -1,6 +1,6 @@
 # fraunhoferportugal/tsfel
 
-⭐ 1,107 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/fraunhoferportugal/tsfel) · [官网](https://tsfel.readthedocs.io) · 组织维护
+⭐ 1,109 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/fraunhoferportugal/tsfel) · [官网](https://tsfel.readthedocs.io) · 组织维护
 
 **时间序列特征提取库：从信号自动提取 60+ 统计/时域/频域/分形特征**
 
@@ -45,12 +45,12 @@ TSFEL 是 Fraunhofer Portugal 维护的开源 Python 库，面向时间序列分
 ```mermaid
 xychart-beta
     title "fraunhoferportugal/tsfel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1106 --> 1108
-    line [1107, 1107]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 1106 --> 1110
+    line [1107, 1109]
 ```
 
-2026-10-18 1,107 → 2026-10-23 1,107（+0）
+2026-10-18 1,107 → 2026-10-24 1,109（+2）
 
 
 ---

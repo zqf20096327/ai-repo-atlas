@@ -1,6 +1,6 @@
 # wzyn20051216/solidworks-automation-skill
 
-⭐ 1,377 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wzyn20051216/solidworks-automation-skill) · 个人维护 · 中文 README
+⭐ 1,418 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wzyn20051216/solidworks-automation-skill) · 个人维护 · 中文 README
 
 **让 AI Agent 用自然语言驱动 SolidWorks/AutoCAD 的 Skill+MCP 工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wzyn20051216/solidworks-automation-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1256 --> 1388
-    line [1267, 1299, 1332, 1377]
+    title "wzyn20051216/solidworks-automation-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1252 --> 1433
+    line [1267, 1299, 1332, 1377, 1418]
 ```
 
-2026-10-18 1,267 → 2026-10-23 1,377（+110）
+2026-10-18 1,267 → 2026-10-24 1,418（+151）
 
 
 ---

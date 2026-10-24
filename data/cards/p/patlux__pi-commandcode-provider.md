@@ -1,6 +1,6 @@
 # patlux/pi-commandcode-provider
 
-⭐ 208 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/patlux/pi-commandcode-provider) · [官网](https://pi.dev/packages/pi-commandcode-provider) · 个人维护
+⭐ 209 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/patlux/pi-commandcode-provider) · [官网](https://pi.dev/packages/pi-commandcode-provider) · 个人维护
 
 **为 pi/OMP 接入 Command Code API 的自定义 provider 扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "patlux/pi-commandcode-provider 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 202 --> 209
-    line [203, 205, 208]
+    title "patlux/pi-commandcode-provider 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 202 --> 210
+    line [203, 205, 208, 209]
 ```
 
-2026-10-18 203 → 2026-10-23 208（+5）
+2026-10-18 203 → 2026-10-24 209（+6）
 
 
 ---

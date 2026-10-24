@@ -1,6 +1,6 @@
 # Mr-Infect/cyber-security-books
 
-⭐ 216 · 推送 2026-02-12 · [GitHub](https://github.com/Mr-Infect/cyber-security-books) · 个人维护
+⭐ 217 · 推送 2026-02-12 · [GitHub](https://github.com/Mr-Infect/cyber-security-books) · 个人维护
 
 **600+ 本网络安全书籍 PDF 的分类知识库集合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mr-Infect/cyber-security-books 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 190 --> 218
-    line [192, 205, 215, 216]
+    title "Mr-Infect/cyber-security-books 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 190 --> 219
+    line [192, 205, 215, 216, 217]
 ```
 
-2026-10-18 192 → 2026-10-23 216（+24）
+2026-10-18 192 → 2026-10-24 217（+25）
 
 
 ---

@@ -1,6 +1,6 @@
 # xiaochong/hi-kid
 
-⭐ 1,165 · TypeScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/xiaochong/hi-kid) · [官网](https://xiaochong.github.io/hi-kid) · 个人维护 · 中文 README
+⭐ 1,166 · TypeScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/xiaochong/hi-kid) · [官网](https://xiaochong.github.io/hi-kid) · 个人维护 · 中文 README
 
 **面向儿童英语口语练习的离线 AI 语音对话桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiaochong/hi-kid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1160 --> 1166
-    line [1161, 1163, 1165, 1165]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1160 --> 1167
+    line [1161, 1163, 1165, 1166]
 ```
 
-2026-10-18 1,161 → 2026-10-23 1,165（+4）
+2026-10-18 1,161 → 2026-10-24 1,166（+5）
 
 
 ---

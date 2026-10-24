@@ -1,6 +1,6 @@
 # huisezhiyin/sdd-riper
 
-⭐ 335 · Python · 推送 2026-08-28 · [GitHub](https://github.com/huisezhiyin/sdd-riper) · 个人维护 · 中文 README
+⭐ 337 · Python · 推送 2026-08-28 · [GitHub](https://github.com/huisezhiyin/sdd-riper) · 个人维护 · 中文 README
 
 **面向 agentic coding 的轻量控制框架：人掌舵、模型推进、留存证据**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "huisezhiyin/sdd-riper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 333 --> 336
-    line [334, 335, 335]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 333 --> 338
+    line [334, 335, 337]
 ```
 
-2026-10-18 334 → 2026-10-23 335（+1）
+2026-10-18 334 → 2026-10-24 337（+3）
 
 
 ---

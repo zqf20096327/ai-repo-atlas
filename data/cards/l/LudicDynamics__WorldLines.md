@@ -1,6 +1,6 @@
 # LudicDynamics/WorldLines
 
-⭐ 99 · TypeScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/LudicDynamics/WorldLines) · [官网](https://worldlines.gg) · 组织维护 · 中文 README
+⭐ 101 · TypeScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/LudicDynamics/WorldLines) · [官网](https://worldlines.gg) · 组织维护 · 中文 README
 
 **多 agent 实时模拟引擎：AI 角色各自有记忆与目标的可扮演角色扮演世界**
 
@@ -46,13 +46,13 @@ Ludic Dynamics 开发的多 agent 角色扮演模拟引擎：世界由 world-age
 
 ```mermaid
 xychart-beta
-    title "LudicDynamics/WorldLines 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 96 --> 100
-    line [97, 98, 99]
+    title "LudicDynamics/WorldLines 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 96 --> 102
+    line [97, 98, 99, 101]
 ```
 
-2026-10-18 97 → 2026-10-23 99（+2）
+2026-10-18 97 → 2026-10-24 101（+4）
 
 
 ---

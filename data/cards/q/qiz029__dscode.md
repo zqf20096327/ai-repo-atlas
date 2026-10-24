@@ -1,6 +1,6 @@
 # qiz029/dscode
 
-⭐ 998 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/qiz029/dscode) · [官网](https://www.npmjs.com/package/@toddzheng024/dscode) · 个人维护 · 中文 README
+⭐ 998 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/qiz029/dscode) · [官网](https://www.npmjs.com/package/@toddzheng024/dscode) · 个人维护 · 中文 README
 
 **面向 macOS/Linux 的终端编码 agent，基于 DeepSeek Harness**
 
@@ -46,12 +46,12 @@ DSCODE 是运行于 macOS 与 Linux 终端的编码 agent，构建在 DeepSeek H
 ```mermaid
 xychart-beta
     title "qiz029/dscode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 996 --> 1000
     line [997, 999, 998, 998]
 ```
 
-2026-10-18 997 → 2026-10-23 998（+1）
+2026-10-18 997 → 2026-10-24 998（+1）
 
 
 ---

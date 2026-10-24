@@ -1,6 +1,6 @@
 # Sreehari05055/thesys-core
 
-⭐ 175 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/Sreehari05055/thesys-core) · 个人维护
+⭐ 177 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/Sreehari05055/thesys-core) · 个人维护
 
 **本地优先的科研文献工作区：检索、RAG 问答与引文导出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sreehari05055/thesys-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 174 --> 176
-    line [175, 175]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 174 --> 178
+    line [175, 177]
 ```
 
-2026-10-18 175 → 2026-10-23 175（+0）
+2026-10-18 175 → 2026-10-24 177（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # PrismML-Eng/Bonsai-demo
 
-⭐ 3,430 · Shell · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/PrismML-Eng/Bonsai-demo) · [官网](https://prismml.com/) · 组织维护
+⭐ 3,434 · Shell · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/PrismML-Eng/Bonsai-demo) · [官网](https://prismml.com/) · 组织维护
 
 **在本地运行 Bonsai 2 系列模型（2B-27B）的官方演示环境**
 
@@ -44,13 +44,13 @@ PrismML 的 Bonsai 2 模型演示仓库：提供 setup 脚本自动安装依赖�
 
 ```mermaid
 xychart-beta
-    title "PrismML-Eng/Bonsai-demo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3389 --> 3433
-    line [3392, 3410, 3430]
+    title "PrismML-Eng/Bonsai-demo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3388 --> 3438
+    line [3392, 3410, 3430, 3434]
 ```
 
-2026-10-18 3,392 → 2026-10-23 3,430（+38）
+2026-10-18 3,392 → 2026-10-24 3,434（+42）
 
 
 ---

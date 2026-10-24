@@ -1,6 +1,6 @@
 # linora-u/AgentLoom
 
-⭐ 169 · Python · 推送 2026-10-22 · [GitHub](https://github.com/linora-u/AgentLoom) · [官网](https://github.com/linora-u/AgentLoom#readme) · 个人维护 · 中文 README
+⭐ 169 · Python · 推送 2026-10-23 · [GitHub](https://github.com/linora-u/AgentLoom) · [官网](https://github.com/linora-u/AgentLoom#readme) · 个人维护 · 中文 README
 
 **面向多智能体应用开发的 YAML 工作流编排框架**
 
@@ -46,12 +46,12 @@ AgentLoom 以'带执行契约的应用'方式构建多智能体系统：用 YAML
 ```mermaid
 xychart-beta
     title "linora-u/AgentLoom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 168 --> 170
     line [169, 169]
 ```
 
-2026-10-18 169 → 2026-10-23 169（+0）
+2026-10-18 169 → 2026-10-24 169（+0）
 
 
 ---

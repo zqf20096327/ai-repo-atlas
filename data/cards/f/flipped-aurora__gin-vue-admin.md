@@ -1,6 +1,6 @@
 # flipped-aurora/gin-vue-admin
 
-⭐ 25,087 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/flipped-aurora/gin-vue-admin) · [官网](http://demo.gin-vue-admin.com/) · 组织维护 · 中文 README
+⭐ 25,088 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/flipped-aurora/gin-vue-admin) · [官网](http://demo.gin-vue-admin.com/) · 组织维护 · 中文 README
 
 **为 Go+Vue 全栈开发者提供带 AI 辅助的后台开发基础平台**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "flipped-aurora/gin-vue-admin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 25075 --> 25088
-    line [25076, 25081, 25085, 25087]
+    title "flipped-aurora/gin-vue-admin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 25075 --> 25089
+    line [25076, 25081, 25085, 25087, 25088]
 ```
 
-2026-10-18 25,076 → 2026-10-23 25,087（+11）
+2026-10-18 25,076 → 2026-10-24 25,088（+12）
 
 
 ---

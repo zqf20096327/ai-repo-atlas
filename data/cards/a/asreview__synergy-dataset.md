@@ -44,13 +44,13 @@ SYNERGY 是关于系统综述中研究筛选的开放数据集：收录 26 篇�
 
 ```mermaid
 xychart-beta
-    title "asreview/synergy-dataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "asreview/synergy-dataset 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 114 --> 117
-    line [115, 116]
+    line [115, 116, 116]
 ```
 
-2026-10-18 115 → 2026-10-23 116（+1）
+2026-10-18 115 → 2026-10-24 116（+1）
 
 
 ---

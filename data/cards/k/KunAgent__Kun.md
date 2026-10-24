@@ -1,6 +1,6 @@
 # KunAgent/Kun
 
-⭐ 6,318 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/KunAgent/Kun) · [官网](https://www.kun-agent.com) · 组织维护 · 中文 README
+⭐ 6,316 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/KunAgent/Kun) · [官网](https://www.kun-agent.com) · 组织维护 · 中文 README
 
 **本地优先的桌面 AI 工作台：写代码、做文档、跑 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KunAgent/Kun 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "KunAgent/Kun 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 6313 --> 6321
-    line [6314, 6318, 6320, 6318]
+    line [6314, 6318, 6320, 6318, 6316]
 ```
 
-2026-10-18 6,314 → 2026-10-23 6,318（+4）
+2026-10-18 6,314 → 2026-10-24 6,316（+2）
 
 
 ---

@@ -44,13 +44,13 @@ NanoFlow 是 C++ 后端 + Python 前端（约 4K 行）的 LLM 服务框架，�
 
 ```mermaid
 xychart-beta
-    title "efeslab/Nanoflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "efeslab/Nanoflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 975 --> 978
-    line [976, 977]
+    line [976, 977, 977]
 ```
 
-2026-10-18 976 → 2026-10-23 977（+1）
+2026-10-18 976 → 2026-10-24 977（+1）
 
 
 ---

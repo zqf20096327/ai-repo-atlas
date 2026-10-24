@@ -1,6 +1,6 @@
 # jieapi/AiCode
 
-⭐ 311 · Kotlin · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/jieapi/AiCode) · [官网](https://aicode.murk.top) · 个人维护 · 中文 README
+⭐ 313 · Kotlin · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/jieapi/AiCode) · [官网](https://aicode.murk.top) · 个人维护 · 中文 README
 
 **Android 上的 AI 编程 Agent，内置 Linux 容器与代码编辑器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jieapi/AiCode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 287 --> 313
-    line [289, 295, 304, 311]
+    title "jieapi/AiCode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 287 --> 315
+    line [289, 295, 304, 311, 313]
 ```
 
-2026-10-18 289 → 2026-10-23 311（+22）
+2026-10-18 289 → 2026-10-24 313（+24）
 
 
 ---

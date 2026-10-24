@@ -44,13 +44,13 @@ Adobe Research 论文《3D Ken Burns Effect from a Single Image》的参考实�
 
 ```mermaid
 xychart-beta
-    title "sniklaus/3d-ken-burns 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "sniklaus/3d-ken-burns 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1575 --> 1579
-    line [1576, 1577, 1578]
+    line [1576, 1577, 1578, 1578]
 ```
 
-2026-10-18 1,576 → 2026-10-23 1,578（+2）
+2026-10-18 1,576 → 2026-10-24 1,578（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # trpc-group/trpc-agent-go
 
-⭐ 1,874 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/trpc-group/trpc-agent-go) · [官网](https://trpc-group.github.io/trpc-agent-go/) · 组织维护 · 中文 README
+⭐ 1,876 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/trpc-group/trpc-agent-go) · [官网](https://trpc-group.github.io/trpc-agent-go/) · 组织维护 · 中文 README
 
 **面向生产环境的 Go 语言 AI Agent 开发框架**
 
@@ -46,12 +46,12 @@ Go 原生的 agent 系统构建框架，面向希望将 AI agent 嵌入 Go 服�
 ```mermaid
 xychart-beta
     title "trpc-group/trpc-agent-go 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1866 --> 1875
-    line [1867, 1873, 1874, 1874]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1866 --> 1877
+    line [1867, 1873, 1874, 1876]
 ```
 
-2026-10-18 1,867 → 2026-10-23 1,874（+7）
+2026-10-18 1,867 → 2026-10-24 1,876（+9）
 
 
 ---

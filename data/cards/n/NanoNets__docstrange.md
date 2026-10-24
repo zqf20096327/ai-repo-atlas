@@ -1,6 +1,6 @@
 # NanoNets/docstrange
 
-⭐ 1,579 · Python · MIT · 推送 2025-10-31 · [GitHub](https://github.com/NanoNets/docstrange) · [官网](https://docstrange.nanonets.com/) · 组织维护
+⭐ 1,578 · Python · MIT · 推送 2025-10-31 · [GitHub](https://github.com/NanoNets/docstrange) · [官网](https://docstrange.nanonets.com/) · 组织维护
 
 **文档解析库：将 PDF/图片/Office/URL 转为 Markdown、JSON、CSV 等结构化数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NanoNets/docstrange 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "NanoNets/docstrange 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1576 --> 1581
-    line [1577, 1579, 1580, 1579]
+    line [1577, 1579, 1580, 1579, 1578]
 ```
 
-2026-10-18 1,577 → 2026-10-23 1,579（+2）
+2026-10-18 1,577 → 2026-10-24 1,578（+1）
 
 
 ---

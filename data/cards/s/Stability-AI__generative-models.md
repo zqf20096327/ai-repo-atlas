@@ -1,6 +1,6 @@
 # Stability-AI/generative-models
 
-⭐ 27,308 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/Stability-AI/generative-models) · 组织维护
+⭐ 27,309 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/Stability-AI/generative-models) · 组织维护
 
 **Stability AI 的开源生成模型仓库：SV4D/SV3D/SVD/SDXL**
 
@@ -51,13 +51,13 @@ Stability AI 发布多代生成模型的官方代码库，以 News 形式按时�
 
 ```mermaid
 xychart-beta
-    title "Stability-AI/generative-models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 27301 --> 27309
-    line [27302, 27307, 27308]
+    title "Stability-AI/generative-models 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 27301 --> 27310
+    line [27302, 27307, 27308, 27309]
 ```
 
-2026-10-18 27,302 → 2026-10-23 27,308（+6）
+2026-10-18 27,302 → 2026-10-24 27,309（+7）
 
 
 ---

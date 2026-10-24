@@ -1,6 +1,6 @@
 # explosion/spacy-transformers
 
-⭐ 1,412 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/explosion/spacy-transformers) · [官网](https://spacy.io/usage/embeddings-transformers) · 组织维护
+⭐ 1,412 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/explosion/spacy-transformers) · [官网](https://spacy.io/usage/embeddings-transformers) · 组织维护
 
 **让 spaCy 管线直接使用 Hugging Face 预训练 transformer 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "explosion/spacy-transformers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "explosion/spacy-transformers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1411 --> 1414
-    line [1413, 1412]
+    line [1413, 1412, 1412]
 ```
 
-2026-10-18 1,413 → 2026-10-23 1,412（-1）
+2026-10-18 1,413 → 2026-10-24 1,412（-1）
 
 
 ---

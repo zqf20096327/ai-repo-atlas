@@ -1,6 +1,6 @@
 # huggingface/lerobot
 
-⭐ 28,401 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/lerobot) · [官网](https://huggingface.co/docs/lerobot) · 组织维护 · 中文 README
+⭐ 28,437 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/lerobot) · [官网](https://huggingface.co/docs/lerobot) · 组织维护 · 中文 README
 
 **为机器人提供模型、数据集与工具的开源库**
 
@@ -52,13 +52,13 @@ Hugging Face 的机器人学 PyTorch 库：提供统一的 Robot 硬件控制接
 
 ```mermaid
 xychart-beta
-    title "huggingface/lerobot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 28235 --> 28416
-    line [28250, 28301, 28363, 28401]
+    title "huggingface/lerobot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 28232 --> 28455
+    line [28250, 28301, 28363, 28401, 28437]
 ```
 
-2026-10-18 28,250 → 2026-10-23 28,401（+151）
+2026-10-18 28,250 → 2026-10-24 28,437（+187）
 
 
 ---

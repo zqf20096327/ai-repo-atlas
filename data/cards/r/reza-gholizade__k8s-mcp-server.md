@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "reza-gholizade/k8s-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "reza-gholizade/k8s-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 185 --> 188
-    line [186, 187]
+    line [186, 187, 187]
 ```
 
-2026-10-18 186 → 2026-10-23 187（+1）
+2026-10-18 186 → 2026-10-24 187（+1）
 
 
 ---

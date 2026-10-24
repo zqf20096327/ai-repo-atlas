@@ -1,6 +1,6 @@
 # HanaokaYuzu/Gemini-API
 
-⭐ 3,630 · Python · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/HanaokaYuzu/Gemini-API) · [官网](https://pypi.org/project/gemini-webapi/) · 个人维护
+⭐ 3,634 · Python · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/HanaokaYuzu/Gemini-API) · [官网](https://pypi.org/project/gemini-webapi/) · 个人维护
 
 **逆向工程的 Google Gemini 网页版异步 Python 客户端库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HanaokaYuzu/Gemini-API 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3607 --> 3632
-    line [3609, 3614, 3623, 3630]
+    title "HanaokaYuzu/Gemini-API 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3607 --> 3636
+    line [3609, 3614, 3623, 3630, 3634]
 ```
 
-2026-10-18 3,609 → 2026-10-23 3,630（+21）
+2026-10-18 3,609 → 2026-10-24 3,634（+25）
 
 
 ---

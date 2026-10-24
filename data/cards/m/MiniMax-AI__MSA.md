@@ -1,6 +1,6 @@
 # MiniMax-AI/MSA
 
-⭐ 431 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MiniMax-AI/MSA) · 组织维护
+⭐ 432 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MiniMax-AI/MSA) · 组织维护
 
 **面向 NVIDIA SM100 的稠密/稀疏注意力 GPU 内核库**
 
@@ -44,13 +44,13 @@ MiniMax 开源的 CUDA 注意力内核 Python 包 fmha_sm100，包含两条 JIT 
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/MSA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "MiniMax-AI/MSA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 430 --> 433
-    line [432, 431]
+    line [432, 431, 432]
 ```
 
-2026-10-18 432 → 2026-10-23 431（-1）
+2026-10-18 432 → 2026-10-24 432（+0）
 
 
 ---

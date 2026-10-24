@@ -1,6 +1,6 @@
 # sgl-project/mini-sglang
 
-⭐ 5,389 · Python · MIT · 推送 2026-05-17 · [GitHub](https://github.com/sgl-project/mini-sglang) · 组织维护
+⭐ 5,405 · Python · MIT · 推送 2026-05-17 · [GitHub](https://github.com/sgl-project/mini-sglang) · 组织维护
 
 **SGLang 的紧凑实现：约 5000 行的 LLM 推理服务框架**
 
@@ -45,13 +45,13 @@ sgl-project 维护的 LLM 推理框架，是 SGLang 的精简实现（约 5,000 
 
 ```mermaid
 xychart-beta
-    title "sgl-project/mini-sglang 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5318 --> 5395
-    line [5324, 5365, 5381, 5389]
+    title "sgl-project/mini-sglang 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5316 --> 5413
+    line [5324, 5365, 5381, 5389, 5405]
 ```
 
-2026-10-18 5,324 → 2026-10-23 5,389（+65）
+2026-10-18 5,324 → 2026-10-24 5,405（+81）
 
 
 ---

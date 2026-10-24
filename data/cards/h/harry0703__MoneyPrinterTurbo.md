@@ -1,6 +1,6 @@
 # harry0703/MoneyPrinterTurbo
 
-⭐ 134,155 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/harry0703/MoneyPrinterTurbo) · 个人维护 · 中文 README
+⭐ 134,515 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/harry0703/MoneyPrinterTurbo) · 个人维护 · 中文 README
 
 **给内容创作者：按主题一键生成配音字幕齐全的高清短视频**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "harry0703/MoneyPrinterTurbo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 132129 --> 134339
-    line [132313, 133121, 134155]
+    title "harry0703/MoneyPrinterTurbo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 132093 --> 134735
+    line [132313, 133121, 134155, 134515]
 ```
 
-2026-10-18 132,313 → 2026-10-23 134,155（+1,842）
+2026-10-18 132,313 → 2026-10-24 134,515（+2,202）
 
 
 ---

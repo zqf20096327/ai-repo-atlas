@@ -1,6 +1,6 @@
 # fabriqaai/specs.md
 
-⭐ 219 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/fabriqaai/specs.md) · [官网](https://specs.md) · 组织维护
+⭐ 220 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/fabriqaai/specs.md) · [官网](https://specs.md) · 组织维护
 
 **面向 AI 编码工具的规范驱动开发框架，提供四条可选流程**
 
@@ -46,12 +46,12 @@ specs.md 是一个 AI 原生开发框架，通过 npx 安装器为项目设置 a
 ```mermaid
 xychart-beta
     title "fabriqaai/specs.md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 218 --> 220
-    line [219, 219]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 218 --> 221
+    line [219, 220]
 ```
 
-2026-10-18 219 → 2026-10-23 219（+0）
+2026-10-18 219 → 2026-10-24 220（+1）
 
 
 ---

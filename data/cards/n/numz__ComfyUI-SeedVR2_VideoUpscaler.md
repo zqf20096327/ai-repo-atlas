@@ -1,6 +1,6 @@
 # numz/ComfyUI-SeedVR2_VideoUpscaler
 
-⭐ 2,937 · Python · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) · 组织维护
+⭐ 2,938 · Python · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) · 组织维护
 
 **ComfyUI 的 SeedVR2 视频与图像超分/放大节点**
 
@@ -45,12 +45,12 @@ ByteDance SeedVR2 模型在 ComfyUI 中的官方封装，以自定义节点形�
 ```mermaid
 xychart-beta
     title "numz/ComfyUI-SeedVR2_VideoUpscaler 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2920 --> 2938
-    line [2921, 2931, 2937, 2937]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 2920 --> 2939
+    line [2921, 2931, 2937, 2938]
 ```
 
-2026-10-18 2,921 → 2026-10-23 2,937（+16）
+2026-10-18 2,921 → 2026-10-24 2,938（+17）
 
 
 ---

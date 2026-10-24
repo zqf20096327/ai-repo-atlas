@@ -1,6 +1,6 @@
 # AmberSahdev/Open-Interface
 
-⭐ 2,728 · Python · GPL-3.0 · 推送 2026-07-17 · [GitHub](https://github.com/AmberSahdev/Open-Interface) · 个人维护
+⭐ 2,727 · Python · GPL-3.0 · 推送 2026-07-17 · [GitHub](https://github.com/AmberSahdev/Open-Interface) · 个人维护
 
 **用 LLM 操控电脑的桌面应用：替用户执行键鼠操作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmberSahdev/Open-Interface 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "AmberSahdev/Open-Interface 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2724 --> 2729
-    line [2725, 2726, 2727, 2728]
+    line [2725, 2726, 2727, 2728, 2727]
 ```
 
-2026-10-18 2,725 → 2026-10-23 2,728（+3）
+2026-10-18 2,725 → 2026-10-24 2,727（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ATH-MaaS/Pixelle-Video
 
-⭐ 29,310 · Python · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/ATH-MaaS/Pixelle-Video) · [官网](https://aidc-ai.github.io/Pixelle-Video/zh) · 组织维护 · 中文 README
+⭐ 29,339 · Python · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/ATH-MaaS/Pixelle-Video) · [官网](https://aidc-ai.github.io/Pixelle-Video/zh) · 组织维护 · 中文 README
 
 **输入主题即自动生成配图、配音、字幕短视频的引擎**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "ATH-MaaS/Pixelle-Video 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 29100 --> 29329
-    line [29119, 29164, 29257, 29310]
+    title "ATH-MaaS/Pixelle-Video 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 29097 --> 29361
+    line [29119, 29164, 29257, 29310, 29339]
 ```
 
-2026-10-18 29,119 → 2026-10-23 29,310（+191）
+2026-10-18 29,119 → 2026-10-24 29,339（+220）
 
 
 ---

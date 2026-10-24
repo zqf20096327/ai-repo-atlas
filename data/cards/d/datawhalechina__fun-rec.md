@@ -1,6 +1,6 @@
 # datawhalechina/fun-rec
 
-⭐ 7,435 · Python · 推送 2026-06-27 · [GitHub](https://github.com/datawhalechina/fun-rec) · 组织维护 · 中文 README
+⭐ 7,437 · Python · 推送 2026-06-27 · [GitHub](https://github.com/datawhalechina/fun-rec) · 组织维护 · 中文 README
 
 **推荐系统中文教程：从级联架构到生成式范式**
 
@@ -44,13 +44,13 @@ Datawhale 维护的深度推荐算法实践教程（小麦书），系统介绍�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/fun-rec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7425 --> 7436
-    line [7426, 7428, 7433, 7435]
+    title "datawhalechina/fun-rec 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7425 --> 7438
+    line [7426, 7428, 7433, 7435, 7437]
 ```
 
-2026-10-18 7,426 → 2026-10-23 7,435（+9）
+2026-10-18 7,426 → 2026-10-24 7,437（+11）
 
 
 ---

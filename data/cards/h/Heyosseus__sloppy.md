@@ -1,6 +1,6 @@
 # Heyosseus/sloppy
 
-⭐ 161 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Heyosseus/sloppy) · 个人维护
+⭐ 164 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Heyosseus/sloppy) · 个人维护
 
 **面向 AI 代理产出代码的 PHP 静态分析工具**
 
@@ -45,13 +45,13 @@ PHP 静态分析器，检测 AI 代理生成代码中的维护性问题：33 条
 
 ```mermaid
 xychart-beta
-    title "Heyosseus/sloppy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 156 --> 162
-    line [157, 160, 161]
+    title "Heyosseus/sloppy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 156 --> 165
+    line [157, 160, 161, 164]
 ```
 
-2026-10-18 157 → 2026-10-23 161（+4）
+2026-10-18 157 → 2026-10-24 164（+7）
 
 
 ---

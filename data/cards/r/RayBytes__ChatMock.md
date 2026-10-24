@@ -1,6 +1,6 @@
 # RayBytes/ChatMock
 
-⭐ 1,557 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/RayBytes/ChatMock) · 个人维护
+⭐ 1,557 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/RayBytes/ChatMock) · 个人维护
 
 **把 ChatGPT 账号的 Codex 模型暴露为 OpenAI/Ollama 兼容本地 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RayBytes/ChatMock 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1554 --> 1558
     line [1557, 1555, 1557, 1557]
 ```
 
-2026-10-18 1,557 → 2026-10-23 1,557（+0）
+2026-10-18 1,557 → 2026-10-24 1,557（+0）
 
 
 ---

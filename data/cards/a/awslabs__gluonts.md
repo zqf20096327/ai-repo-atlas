@@ -1,6 +1,6 @@
 # awslabs/gluonts
 
-⭐ 5,250 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/awslabs/gluonts) · [官网](https://ts.gluon.ai) · 组织维护
+⭐ 5,251 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/awslabs/gluonts) · [官网](https://ts.gluon.ai) · 组织维护
 
 **面向开发者的 Python 概率时间序列建模与预测库**
 
@@ -45,12 +45,12 @@ GluonTS 是基于 PyTorch 的 Python 概率时间序列建模库，提供 DeepAR
 ```mermaid
 xychart-beta
     title "awslabs/gluonts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5247 --> 5251
-    line [5248, 5249, 5250, 5250]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 5247 --> 5252
+    line [5248, 5249, 5250, 5251]
 ```
 
-2026-10-18 5,248 → 2026-10-23 5,250（+2）
+2026-10-18 5,248 → 2026-10-24 5,251（+3）
 
 
 ---

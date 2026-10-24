@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rudra-ravi/wikipedia-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Rudra-ravi/wikipedia-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 298 --> 302
-    line [299, 301]
+    line [299, 301, 301]
 ```
 
-2026-10-18 299 → 2026-10-23 301（+2）
+2026-10-18 299 → 2026-10-24 301（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ultralytics/yolov5
 
-⭐ 58,184 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ultralytics/yolov5) · [官网](https://docs.ultralytics.com/yolov5/) · 组织维护
+⭐ 58,205 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ultralytics/yolov5) · [官网](https://docs.ultralytics.com/yolov5/) · 组织维护
 
 **基于 PyTorch 的目标检测/实例分割/分类模型及训练导出工具**
 
@@ -52,13 +52,13 @@ Ultralytics 发布的 YOLOv5 视觉模型仓库：基于 PyTorch 框架，覆盖
 
 ```mermaid
 xychart-beta
-    title "ultralytics/yolov5 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 58178 --> 58185
-    line [58179, 58184, 58183, 58184]
+    title "ultralytics/yolov5 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 58177 --> 58207
+    line [58179, 58184, 58183, 58184, 58205]
 ```
 
-2026-10-18 58,179 → 2026-10-23 58,184（+5）
+2026-10-18 58,179 → 2026-10-24 58,205（+26）
 
 
 ---

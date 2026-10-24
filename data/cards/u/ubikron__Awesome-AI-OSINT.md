@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ubikron/Awesome-AI-OSINT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "ubikron/Awesome-AI-OSINT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 795 --> 798
-    line [796, 797]
+    line [796, 797, 797]
 ```
 
-2026-10-18 796 → 2026-10-23 797（+1）
+2026-10-18 796 → 2026-10-24 797（+1）
 
 
 ---

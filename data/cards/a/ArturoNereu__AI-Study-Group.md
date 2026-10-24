@@ -1,6 +1,6 @@
 # ArturoNereu/AI-Study-Group
 
-⭐ 1,358 · 推送 2026-08-22 · [GitHub](https://github.com/ArturoNereu/AI-Study-Group) · 个人维护
+⭐ 1,361 · 推送 2026-10-23 · [GitHub](https://github.com/ArturoNereu/AI-Study-Group) · 个人维护
 
 **个人 AI 学习资源清单：书籍、课程、工具、模型与数据集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArturoNereu/AI-Study-Group 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1351 --> 1359
-    line [1352, 1353, 1357, 1358]
+    title "ArturoNereu/AI-Study-Group 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1351 --> 1362
+    line [1352, 1353, 1357, 1358, 1361]
 ```
 
-2026-10-18 1,352 → 2026-10-23 1,358（+6）
+2026-10-18 1,352 → 2026-10-24 1,361（+9）
 
 
 ---

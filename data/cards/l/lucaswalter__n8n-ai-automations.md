@@ -1,6 +1,6 @@
 # lucaswalter/n8n-ai-automations
 
-⭐ 1,669 · 推送 2026-03-02 · [GitHub](https://github.com/lucaswalter/n8n-ai-automations) · [官网](https://www.skool.com/ai-automation-mastery-group) · 组织维护
+⭐ 1,670 · 推送 2026-03-02 · [GitHub](https://github.com/lucaswalter/n8n-ai-automations) · [官网](https://www.skool.com/ai-automation-mastery-group) · 组织维护
 
 **n8n AI 工作流与 Agent 模板合集，面向 AI 自动化学习者**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucaswalter/n8n-ai-automations 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1661 --> 1670
-    line [1662, 1666, 1668, 1669]
+    title "lucaswalter/n8n-ai-automations 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1661 --> 1671
+    line [1662, 1666, 1668, 1669, 1670]
 ```
 
-2026-10-18 1,662 → 2026-10-23 1,669（+7）
+2026-10-18 1,662 → 2026-10-24 1,670（+8）
 
 
 ---

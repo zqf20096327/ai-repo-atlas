@@ -45,13 +45,13 @@ graspologic 是一个提供图统计算法与工具的 Python 包，用于处理
 
 ```mermaid
 xychart-beta
-    title "graspologic-org/graspologic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "graspologic-org/graspologic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1016 --> 1019
-    line [1017, 1018]
+    line [1017, 1018, 1018]
 ```
 
-2026-10-18 1,017 → 2026-10-23 1,018（+1）
+2026-10-18 1,017 → 2026-10-24 1,018（+1）
 
 
 ---

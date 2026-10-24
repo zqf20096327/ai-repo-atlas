@@ -1,6 +1,6 @@
 # AtomicBot-ai/atomic-agent
 
-⭐ 3,415 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AtomicBot-ai/atomic-agent) · [官网](https://atomicagent.io) · 组织维护
+⭐ 3,434 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AtomicBot-ai/atomic-agent) · [官网](https://atomicagent.io) · 组织维护
 
 **本地优先的 AI agent：在自己机器上跑开源模型操作浏览器与文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AtomicBot-ai/atomic-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3377 --> 3434
-    line [3381, 3410, 3430, 3415]
+    title "AtomicBot-ai/atomic-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3376 --> 3439
+    line [3381, 3410, 3430, 3415, 3434]
 ```
 
-2026-10-18 3,381 → 2026-10-23 3,415（+34）
+2026-10-18 3,381 → 2026-10-24 3,434（+53）
 
 
 ---

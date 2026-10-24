@@ -1,6 +1,6 @@
 # OpenHUTB/hutb
 
-⭐ 681 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/OpenHUTB/hutb) · [官网](OpenHUTB.github.io) · 组织维护 · 中文 README
+⭐ 682 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/OpenHUTB/hutb) · [官网](https://OpenHUTB.github.io) · 组织维护 · 中文 README
 
 **人车研究用影视级物理模拟器：加速人和机器人算法开发训练验证**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenHUTB/hutb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 664 --> 682
-    line [665, 671, 676, 681]
+    title "OpenHUTB/hutb 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 664 --> 683
+    line [665, 671, 676, 681, 682]
 ```
 
-2026-10-18 665 → 2026-10-23 681（+16）
+2026-10-18 665 → 2026-10-24 682（+17）
 
 
 ---

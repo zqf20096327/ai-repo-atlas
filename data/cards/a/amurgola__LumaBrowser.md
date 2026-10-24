@@ -1,6 +1,6 @@
 # amurgola/LumaBrowser
 
-⭐ 125 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/amurgola/LumaBrowser) · [官网](https://lumabyte.com) · 个人维护
+⭐ 126 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/amurgola/LumaBrowser) · [官网](https://lumabyte.com) · 个人维护
 
 **集成 LLM 运行时与 AI 工具链的本地 Chromium 浏览器桌面应用**
 
@@ -41,6 +41,18 @@
 > L6:  A web browser with a GPU-aware LLM runtime, chat and agents, local image,
 > L21: for agents) with one desktop app. It looks at your GPUs, tells you which models
 > L90: - Optional local API that speaks both the OpenAI and Anthropic formats on
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "amurgola/LumaBrowser 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 124 --> 127
+    line [125, 126]
+```
+
+2026-10-23 125 → 2026-10-24 126（+1）
 
 
 ---

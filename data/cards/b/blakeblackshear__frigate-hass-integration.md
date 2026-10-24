@@ -1,6 +1,6 @@
 # blakeblackshear/frigate-hass-integration
 
-⭐ 1,285 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/blakeblackshear/frigate-hass-integration) · 个人维护
+⭐ 1,286 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/blakeblackshear/frigate-hass-integration) · 个人维护
 
 **把 Frigate NVR 接入 Home Assistant 的集成组件**
 
@@ -45,13 +45,13 @@ Frigate 与 Home Assistant 之间的集成组件：为 Home Assistant 提供带�
 
 ```mermaid
 xychart-beta
-    title "blakeblackshear/frigate-hass-integration 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1279 --> 1286
-    line [1280, 1281, 1284, 1285]
+    title "blakeblackshear/frigate-hass-integration 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1279 --> 1287
+    line [1280, 1281, 1284, 1285, 1286]
 ```
 
-2026-10-18 1,280 → 2026-10-23 1,285（+5）
+2026-10-18 1,280 → 2026-10-24 1,286（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # spinabot/brigade
 
-⭐ 11,353 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/spinabot/brigade) · [官网](https://www.brigade.spinabot.com) · 组织维护
+⭐ 11,356 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/spinabot/brigade) · [官网](https://www.brigade.spinabot.com) · 组织维护
 
 **自托管的个人 AI agent 团队运行时：多 agent 共享长期记忆**
 
@@ -46,12 +46,12 @@ Brigade 是一个自托管的 AI agent 生态系统：用户通过终端 TUI、W
 ```mermaid
 xychart-beta
     title "spinabot/brigade 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11340 --> 11354
-    line [11341, 11346, 11353, 11353]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 11340 --> 11357
+    line [11341, 11346, 11353, 11356]
 ```
 
-2026-10-18 11,341 → 2026-10-23 11,353（+12）
+2026-10-18 11,341 → 2026-10-24 11,356（+15）
 
 
 ---

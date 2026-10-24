@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/nemo-helix
 
-⭐ 122 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA-NeMo/nemo-helix) · [官网](https://docs.nvidia.com/nemo-helix) · 组织维护
+⭐ 123 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA-NeMo/nemo-helix) · [官网](https://docs.nvidia.com/nemo-helix) · 组织维护
 
 **生产级 AI agent 的评测、加固与编排控制平面**
 
@@ -45,13 +45,13 @@ NeMo Helix 是 NVIDIA 开源的 agent 控制平面，运行在用户自有基础
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-NeMo/nemo-helix 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-23"]
-    y-axis "stars" 109 --> 123
-    line [110, 122]
+    title "NVIDIA-NeMo/nemo-helix 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 109 --> 124
+    line [110, 122, 123]
 ```
 
-2026-10-19 110 → 2026-10-23 122（+12）
+2026-10-19 110 → 2026-10-24 123（+13）
 
 
 ---

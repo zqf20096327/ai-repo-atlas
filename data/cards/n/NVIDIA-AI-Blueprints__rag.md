@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/rag
 
-⭐ 796 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/rag) · [官网](https://build.nvidia.com/nvidia/build-an-enterprise-rag-pipeline) · 组织维护
+⭐ 798 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/rag) · [官网](https://build.nvidia.com/nvidia/build-an-enterprise-rag-pipeline) · 组织维护
 
 **企业级 RAG 参考方案：基于 NIM 微服务搭建检索增强问答管线**
 
@@ -45,13 +45,13 @@ NVIDIA 发布的 RAG 蓝图，作为构建检索增强生成管线的参考方�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-AI-Blueprints/rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 793 --> 797
-    line [794, 796]
+    title "NVIDIA-AI-Blueprints/rag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 793 --> 799
+    line [794, 796, 798]
 ```
 
-2026-10-18 794 → 2026-10-23 796（+2）
+2026-10-18 794 → 2026-10-24 798（+4）
 
 
 ---

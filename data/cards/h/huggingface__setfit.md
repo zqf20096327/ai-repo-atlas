@@ -1,6 +1,6 @@
 # huggingface/setfit
 
-⭐ 2,850 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/setfit) · [官网](https://hf.co/docs/setfit) · 组织维护
+⭐ 2,851 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/setfit) · [官网](https://hf.co/docs/setfit) · 组织维护
 
 **Sentence Transformers 少样本微调框架，无需提示词**
 
@@ -44,13 +44,13 @@ Hugging Face 维护的少样本微调框架：基于 Sentence Transformers 生�
 
 ```mermaid
 xychart-beta
-    title "huggingface/setfit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2842 --> 2851
-    line [2843, 2847, 2849, 2850]
+    title "huggingface/setfit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2842 --> 2852
+    line [2843, 2847, 2849, 2850, 2851]
 ```
 
-2026-10-18 2,843 → 2026-10-23 2,850（+7）
+2026-10-18 2,843 → 2026-10-24 2,851（+8）
 
 
 ---

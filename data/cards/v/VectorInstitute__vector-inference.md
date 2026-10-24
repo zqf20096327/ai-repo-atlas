@@ -1,6 +1,6 @@
 # VectorInstitute/vector-inference
 
-⭐ 110 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/VectorInstitute/vector-inference) · [官网](https://vectorinstitute.github.io/vector-inference/) · 组织维护
+⭐ 110 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/VectorInstitute/vector-inference) · [官网](https://vectorinstitute.github.io/vector-inference/) · 组织维护
 
 **在 Slurm 集群上部署 LLM 推理服务的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VectorInstitute/vector-inference 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 109 --> 111
     line [110, 110]
 ```
 
-2026-10-18 110 → 2026-10-23 110（+0）
+2026-10-18 110 → 2026-10-24 110（+0）
 
 
 ---

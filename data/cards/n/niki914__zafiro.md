@@ -1,6 +1,6 @@
 # niki914/zafiro
 
-⭐ 287 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/niki914/zafiro) · 个人维护 · 中文 README
+⭐ 293 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/niki914/zafiro) · 个人维护 · 中文 README
 
 **安卓端 BYOK 开源 AI Agent：控制手机、跑 Shell 与 Python**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "niki914/zafiro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 263 --> 289
-    line [265, 273, 281, 287]
+    title "niki914/zafiro 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 263 --> 295
+    line [265, 273, 281, 287, 293]
 ```
 
-2026-10-18 265 → 2026-10-23 287（+22）
+2026-10-18 265 → 2026-10-24 293（+28）
 
 
 ---

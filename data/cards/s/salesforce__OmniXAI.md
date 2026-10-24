@@ -1,6 +1,6 @@
 # salesforce/OmniXAI
 
-⭐ 974 · Jupyter Notebook · BSD-3-Clause · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/OmniXAI) · 组织维护
+⭐ 975 · Jupyter Notebook · BSD-3-Clause · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/OmniXAI) · 组织维护
 
 **面向数据科学家的机器学习可解释性（XAI）Python 库**
 
@@ -47,12 +47,12 @@ OmniXAI 是 Salesforce 维护的可解释 AI Python 库，为数据科学家、M
 ```mermaid
 xychart-beta
     title "salesforce/OmniXAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 973 --> 975
-    line [974, 974]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 973 --> 976
+    line [974, 975]
 ```
 
-2026-10-18 974 → 2026-10-23 974（+0）
+2026-10-18 974 → 2026-10-24 975（+1）
 
 
 ---

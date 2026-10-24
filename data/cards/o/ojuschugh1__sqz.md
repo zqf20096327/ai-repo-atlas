@@ -1,6 +1,6 @@
 # ojuschugh1/sqz
 
-⭐ 661 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ojuschugh1/sqz) · [官网](https://ojuschugh1.github.io/sqz/) · 个人维护 · 中文 README
+⭐ 660 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ojuschugh1/sqz) · [官网](https://ojuschugh1.github.io/sqz/) · 个人维护 · 中文 README
 
 **压缩 AI 编程 agent 工具输出的上下文压缩工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ojuschugh1/sqz 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "ojuschugh1/sqz 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 650 --> 662
-    line [651, 653, 661]
+    line [651, 653, 661, 660]
 ```
 
-2026-10-18 651 → 2026-10-23 661（+10）
+2026-10-18 651 → 2026-10-24 660（+9）
 
 
 ---

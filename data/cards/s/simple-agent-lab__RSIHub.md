@@ -1,6 +1,6 @@
 # simple-agent-lab/RSIHub
 
-⭐ 184 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/simple-agent-lab/RSIHub) · 组织维护 · 中文 README
+⭐ 185 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/simple-agent-lab/RSIHub) · 组织维护 · 中文 README
 
 **Agent 自我改进实验框架：冻结评测器下可审计的演化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "simple-agent-lab/RSIHub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 181 --> 185
-    line [182, 183, 184]
+    title "simple-agent-lab/RSIHub 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 181 --> 186
+    line [182, 183, 184, 185]
 ```
 
-2026-10-18 182 → 2026-10-23 184（+2）
+2026-10-18 182 → 2026-10-24 185（+3）
 
 
 ---

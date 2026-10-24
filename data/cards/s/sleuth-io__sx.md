@@ -1,6 +1,6 @@
 # sleuth-io/sx
 
-⭐ 310 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sleuth-io/sx) · [官网](https://sleuth-io.github.io/sx/) · 组织维护
+⭐ 311 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sleuth-io/sx) · [官网](https://sleuth-io.github.io/sx/) · 组织维护
 
 **团队间共享分发 AI 技能资产的包管理工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sleuth-io/sx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 309 --> 311
-    line [310, 310]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 309 --> 312
+    line [310, 311]
 ```
 
-2026-10-18 310 → 2026-10-23 310（+0）
+2026-10-18 310 → 2026-10-24 311（+1）
 
 
 ---

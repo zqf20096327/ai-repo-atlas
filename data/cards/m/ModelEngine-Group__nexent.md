@@ -1,6 +1,6 @@
 # ModelEngine-Group/nexent
 
-⭐ 6,013 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ModelEngine-Group/nexent) · [官网](http://modelengine-group.github.io/nexent/) · 组织维护 · 中文 README
+⭐ 6,021 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ModelEngine-Group/nexent) · [官网](http://modelengine-group.github.io/nexent/) · 组织维护 · 中文 README
 
 **零代码生成生产级 AI Agent 的开源平台**
 
@@ -44,13 +44,13 @@ Nexent 是基于 Harness Engineering 理念的零代码 Agent 生成平台：用
 
 ```mermaid
 xychart-beta
-    title "ModelEngine-Group/nexent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5962 --> 6017
-    line [5966, 5988, 6005, 6013]
+    title "ModelEngine-Group/nexent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5961 --> 6026
+    line [5966, 5988, 6005, 6013, 6021]
 ```
 
-2026-10-18 5,966 → 2026-10-23 6,013（+47）
+2026-10-18 5,966 → 2026-10-24 6,021（+55）
 
 
 ---

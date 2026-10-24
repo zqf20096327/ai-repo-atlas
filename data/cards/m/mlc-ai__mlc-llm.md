@@ -1,6 +1,6 @@
 # mlc-ai/mlc-llm
 
-⭐ 23,264 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/mlc-ai/mlc-llm) · [官网](https://llm.mlc.ai/) · 组织维护
+⭐ 23,269 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/mlc-ai/mlc-llm) · [官网](https://llm.mlc.ai/) · 组织维护
 
 **面向多平台本地部署 LLM 的编译与推理引擎**
 
@@ -51,13 +51,13 @@ MLC LLM 是面向大语言模型的机器学习编译器与部署引擎，通过
 
 ```mermaid
 xychart-beta
-    title "mlc-ai/mlc-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 23248 --> 23265
-    line [23249, 23258, 23264]
+    title "mlc-ai/mlc-llm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 23247 --> 23271
+    line [23249, 23258, 23264, 23269]
 ```
 
-2026-10-18 23,249 → 2026-10-23 23,264（+15）
+2026-10-18 23,249 → 2026-10-24 23,269（+20）
 
 
 ---

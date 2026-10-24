@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mduongvandinh/llm-wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "mduongvandinh/llm-wiki 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 213 --> 223
-    line [214, 222]
+    line [214, 222, 222]
 ```
 
-2026-10-18 214 → 2026-10-23 222（+8）
+2026-10-18 214 → 2026-10-24 222（+8）
 
 
 ---

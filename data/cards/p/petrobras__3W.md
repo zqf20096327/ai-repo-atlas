@@ -1,6 +1,6 @@
 # petrobras/3W
 
-⭐ 534 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/petrobras/3W) · [官网](https://threewtoolkit.readthedocs.io) · 组织维护
+⭐ 535 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/petrobras/3W) · [官网](https://threewtoolkit.readthedocs.io) · 组织维护
 
 **海上油井异常事件公开数据集与配套机器学习实验工具包**
 
@@ -45,12 +45,12 @@ Petrobras 发布的开源项目，含两部分：3W Dataset 是首个包含油�
 ```mermaid
 xychart-beta
     title "petrobras/3W 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 531 --> 535
-    line [532, 534, 534]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 531 --> 536
+    line [532, 534, 535]
 ```
 
-2026-10-18 532 → 2026-10-23 534（+2）
+2026-10-18 532 → 2026-10-24 535（+3）
 
 
 ---

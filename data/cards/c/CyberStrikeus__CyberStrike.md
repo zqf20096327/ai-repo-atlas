@@ -1,6 +1,6 @@
 # CyberStrikeus/CyberStrike
 
-⭐ 3,224 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/CyberStrikeus/CyberStrike) · [官网](https://cyberstrike.io) · 组织维护
+⭐ 3,232 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/CyberStrikeus/CyberStrike) · [官网](https://cyberstrike.io) · 组织维护
 
 **终端 AI 红队 agent：接入 LLM 订阅自动做渗透测试**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "CyberStrikeus/CyberStrike 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3175 --> 3228
-    line [3179, 3194, 3210, 3224]
+    title "CyberStrikeus/CyberStrike 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3174 --> 3237
+    line [3179, 3194, 3210, 3224, 3232]
 ```
 
-2026-10-18 3,179 → 2026-10-23 3,224（+45）
+2026-10-18 3,179 → 2026-10-24 3,232（+53）
 
 
 ---

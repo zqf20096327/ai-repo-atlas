@@ -1,6 +1,6 @@
 # FalkorDB/code-graph
 
-⭐ 349 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/FalkorDB/code-graph) · [官网](https://code-graph.falkordb.com) · 组织维护
+⭐ 349 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/FalkorDB/code-graph) · [官网](https://code-graph.falkordb.com) · 组织维护
 
 **把代码库索引为知识图谱的可视化与查询工具，供开发者与 AI agent 使用**
 
@@ -46,12 +46,12 @@ FalkorDB 出品的代码图谱应用：Python/FastAPI 后端加 React/Next.js �
 ```mermaid
 xychart-beta
     title "FalkorDB/code-graph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 347 --> 350
     line [348, 349, 349]
 ```
 
-2026-10-18 348 → 2026-10-23 349（+1）
+2026-10-18 348 → 2026-10-24 349（+1）
 
 
 ---

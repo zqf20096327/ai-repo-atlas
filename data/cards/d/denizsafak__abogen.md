@@ -1,6 +1,6 @@
 # denizsafak/abogen
 
-⭐ 6,148 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/denizsafak/abogen) · [官网](https://pypi.org/project/abogen/) · 个人维护
+⭐ 6,150 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/denizsafak/abogen) · [官网](https://pypi.org/project/abogen/) · 个人维护
 
 **把 EPUB/PDF/文本转成带同步字幕的有声书工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "denizsafak/abogen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 6126 --> 6150
-    line [6128, 6131, 6148]
+    title "denizsafak/abogen 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6126 --> 6152
+    line [6128, 6131, 6148, 6150]
 ```
 
-2026-10-18 6,128 → 2026-10-23 6,148（+20）
+2026-10-18 6,128 → 2026-10-24 6,150（+22）
 
 
 ---

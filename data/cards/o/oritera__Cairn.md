@@ -1,6 +1,6 @@
 # oritera/Cairn
 
-⭐ 4,371 · Python · AGPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/oritera/Cairn) · 组织维护 · 中文 README
+⭐ 4,441 · Python · AGPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/oritera/Cairn) · 组织维护 · 中文 README
 
 **通用 AI 状态空间搜索引擎，先在自动化渗透测试上验证**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "oritera/Cairn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3551 --> 4445
-    line [3625, 3755, 4263, 4371]
+    title "oritera/Cairn 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3544 --> 4522
+    line [3625, 3755, 4263, 4371, 4441]
 ```
 
-2026-10-18 3,625 → 2026-10-23 4,371（+746）
+2026-10-18 3,625 → 2026-10-24 4,441（+816）
 
 
 ---

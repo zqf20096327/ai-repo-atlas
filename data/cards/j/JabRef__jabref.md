@@ -1,6 +1,6 @@
 # JabRef/jabref
 
-⭐ 4,837 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JabRef/jabref) · [官网](https://www.jabref.org) · 组织维护
+⭐ 4,840 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/JabRef/jabref) · [官网](https://www.jabref.org) · 组织维护
 
 **跨平台开源文献引用与 BibTeX 参考文献管理桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JabRef/jabref 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4812 --> 4839
-    line [4814, 4819, 4827, 4837]
+    title "JabRef/jabref 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4812 --> 4842
+    line [4814, 4819, 4827, 4837, 4840]
 ```
 
-2026-10-18 4,814 → 2026-10-23 4,837（+23）
+2026-10-18 4,814 → 2026-10-24 4,840（+26）
 
 
 ---

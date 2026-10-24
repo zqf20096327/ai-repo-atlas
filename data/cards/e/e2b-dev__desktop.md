@@ -1,6 +1,6 @@
 # e2b-dev/desktop
 
-⭐ 1,538 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/e2b-dev/desktop) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=desktop) · 组织维护
+⭐ 1,539 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/e2b-dev/desktop) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=desktop) · 组织维护
 
 **给 LLM 用的安全虚拟桌面沙箱，支持 Computer Use**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "e2b-dev/desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1533 --> 1539
-    line [1534, 1536, 1538, 1538]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1533 --> 1540
+    line [1534, 1536, 1538, 1539]
 ```
 
-2026-10-18 1,534 → 2026-10-23 1,538（+4）
+2026-10-18 1,534 → 2026-10-24 1,539（+5）
 
 
 ---

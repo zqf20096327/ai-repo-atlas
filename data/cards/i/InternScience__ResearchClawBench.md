@@ -1,6 +1,6 @@
 # InternScience/ResearchClawBench
 
-⭐ 272 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/InternScience/ResearchClawBench) · [官网](https://internscience.github.io/ResearchClawBench-Home/) · 组织维护 · 中文 README
+⭐ 272 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/InternScience/ResearchClawBench) · [官网](https://internscience.github.io/ResearchClawBench-Home/) · 组织维护 · 中文 README
 
 **评测 AI 编码 agent 自主科研能力的基准（40 任务/10 学科）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "InternScience/ResearchClawBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 270 --> 273
     line [271, 272, 272]
 ```
 
-2026-10-18 271 → 2026-10-23 272（+1）
+2026-10-18 271 → 2026-10-24 272（+1）
 
 
 ---

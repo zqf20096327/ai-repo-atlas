@@ -1,6 +1,6 @@
 # HUANGCHIHHUNGLeo/claude-real-video
 
-⭐ 2,252 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) · [官网](https://leoaido.com/crv-pro/) · 个人维护 · 中文 README
+⭐ 2,255 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) · [官网](https://leoaido.com/crv-pro/) · 个人维护 · 中文 README
 
 **本地视频转关键帧+字幕转录工具，让 LLM 能"看"视频**
 
@@ -45,13 +45,13 @@ Python 包（crv），从 URL 或本地视频提取场景变化关键帧、去�
 
 ```mermaid
 xychart-beta
-    title "HUANGCHIHHUNGLeo/claude-real-video 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2233 --> 2253
-    line [2234, 2241, 2252]
+    title "HUANGCHIHHUNGLeo/claude-real-video 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2232 --> 2257
+    line [2234, 2241, 2252, 2255]
 ```
 
-2026-10-18 2,234 → 2026-10-23 2,252（+18）
+2026-10-18 2,234 → 2026-10-24 2,255（+21）
 
 
 ---

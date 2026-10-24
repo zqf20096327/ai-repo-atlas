@@ -1,6 +1,6 @@
 # BlinkDL/RWKV-LM
 
-⭐ 14,758 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/BlinkDL/RWKV-LM) · 个人维护
+⭐ 14,759 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/BlinkDL/RWKV-LM) · 个人维护
 
 **RWKV 线性 RNN 语言模型的参考实现与训练指南**
 
@@ -52,13 +52,13 @@ RWKV 语言模型架构的主仓库，当前为 RWKV-7 "Goose"：一种线性时
 
 ```mermaid
 xychart-beta
-    title "BlinkDL/RWKV-LM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 14749 --> 14759
-    line [14750, 14753, 14757, 14758]
+    title "BlinkDL/RWKV-LM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 14749 --> 14760
+    line [14750, 14753, 14757, 14758, 14759]
 ```
 
-2026-10-18 14,750 → 2026-10-23 14,758（+8）
+2026-10-18 14,750 → 2026-10-24 14,759（+9）
 
 
 ---

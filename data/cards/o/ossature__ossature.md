@@ -1,6 +1,6 @@
 # ossature/ossature
 
-⭐ 202 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/ossature/ossature) · [官网](https://ossature.dev) · 组织维护
+⭐ 201 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/ossature/ossature) · [官网](https://ossature.dev) · 组织维护
 
 **规格驱动的构建系统：用 LLM 把规格说明编译成可运行代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ossature/ossature 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 201 --> 203
-    line [202, 202]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 200 --> 203
+    line [202, 201]
 ```
 
-2026-10-18 202 → 2026-10-23 202（+0）
+2026-10-18 202 → 2026-10-24 201（-1）
 
 
 ---

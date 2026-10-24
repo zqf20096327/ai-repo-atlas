@@ -45,12 +45,12 @@ lucidrains 维护的 rectified flow（整流流）及其后续研究与改进的
 ```mermaid
 xychart-beta
     title "lucidrains/rectified-flow-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 487 --> 490
     line [488, 489, 489]
 ```
 
-2026-10-18 488 → 2026-10-23 489（+1）
+2026-10-18 488 → 2026-10-24 489（+1）
 
 
 ---

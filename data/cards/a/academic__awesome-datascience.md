@@ -1,6 +1,6 @@
 # academic/awesome-datascience
 
-⭐ 30,221 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/academic/awesome-datascience) · 组织维护
+⭐ 30,225 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/academic/awesome-datascience) · 组织维护
 
 **数据科学学习与资源策展清单（awesome list）**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "academic/awesome-datascience 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 30195 --> 30223
-    line [30197, 30211, 30218, 30221]
+    title "academic/awesome-datascience 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 30195 --> 30227
+    line [30197, 30211, 30218, 30221, 30225]
 ```
 
-2026-10-18 30,197 → 2026-10-23 30,221（+24）
+2026-10-18 30,197 → 2026-10-24 30,225（+28）
 
 
 ---

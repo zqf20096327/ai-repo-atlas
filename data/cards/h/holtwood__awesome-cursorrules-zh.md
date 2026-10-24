@@ -44,12 +44,12 @@ Awesome Cursor Rules 的中文本地化版本，收录 132 个 .cursorrules 规�
 ```mermaid
 xychart-beta
     title "holtwood/awesome-cursorrules-zh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 238 --> 240
     line [239, 239]
 ```
 
-2026-10-18 239 → 2026-10-23 239（+0）
+2026-10-18 239 → 2026-10-24 239（+0）
 
 
 ---

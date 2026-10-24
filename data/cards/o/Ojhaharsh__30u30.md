@@ -1,6 +1,6 @@
 # Ojhaharsh/30u30
 
-⭐ 1,551 · Python · NOASSERTION · 推送 2026-02-19 · [GitHub](https://github.com/Ojhaharsh/30u30) · [官网](https://ojhaharsh.github.io/30u30/) · 个人维护
+⭐ 1,599 · Python · NOASSERTION · 推送 2026-02-19 · [GitHub](https://github.com/Ojhaharsh/30u30) · [官网](https://ojhaharsh.github.io/30u30/) · 个人维护
 
 **30 天精读 Ilya 推荐的 30 篇 AI 奠基论文的学习指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ojhaharsh/30u30 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 765 --> 1622
-    line [836, 1123, 1417, 1551]
+    title "Ojhaharsh/30u30 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 760 --> 1675
+    line [836, 1123, 1417, 1551, 1599]
 ```
 
-2026-10-18 836 → 2026-10-23 1,551（+715）
+2026-10-18 836 → 2026-10-24 1,599（+763）
 
 
 ---

@@ -1,6 +1,6 @@
 # worldbench/awesome-vla-for-ad
 
-⭐ 514 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/worldbench/awesome-vla-for-ad) · [官网](https://worldbench.github.io/vla4ad) · 组织维护
+⭐ 515 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/worldbench/awesome-vla-for-ad) · [官网](https://worldbench.github.io/vla4ad) · 组织维护
 
 **自动驾驶 VLA 模型综述论文配套方法清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "worldbench/awesome-vla-for-ad 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 502 --> 515
-    line [503, 508, 514]
+    title "worldbench/awesome-vla-for-ad 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 502 --> 516
+    line [503, 508, 514, 515]
 ```
 
-2026-10-18 503 → 2026-10-23 514（+11）
+2026-10-18 503 → 2026-10-24 515（+12）
 
 
 ---

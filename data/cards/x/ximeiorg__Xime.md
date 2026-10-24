@@ -1,6 +1,6 @@
 # ximeiorg/Xime
 
-⭐ 1,268 · Kotlin · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ximeiorg/Xime) · [官网](https://ime.ximei.me) · 个人维护 · 中文 README
+⭐ 1,271 · Kotlin · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ximeiorg/Xime) · [官网](https://ime.ximei.me) · 个人维护 · 中文 README
 
 **基于 Rime 的安卓中文输入法，AI 提供预测与语音输入**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ximeiorg/Xime 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1228 --> 1271
-    line [1231, 1247, 1261, 1268]
+    title "ximeiorg/Xime 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1227 --> 1275
+    line [1231, 1247, 1261, 1268, 1271]
 ```
 
-2026-10-18 1,231 → 2026-10-23 1,268（+37）
+2026-10-18 1,231 → 2026-10-24 1,271（+40）
 
 
 ---

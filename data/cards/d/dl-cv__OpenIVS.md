@@ -1,6 +1,6 @@
 # dl-cv/OpenIVS
 
-⭐ 269 · C# · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/dl-cv/OpenIVS) · [官网](https://dlcv.com.cn) · 组织维护 · 中文 README
+⭐ 269 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/dl-cv/OpenIVS) · [官网](https://dlcv.com.cn) · 组织维护 · 中文 README
 
 **给工业自动化开发者的 .NET 开源工业视觉检测框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dl-cv/OpenIVS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "dl-cv/OpenIVS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 266 --> 270
-    line [267, 269]
+    line [267, 269, 269]
 ```
 
-2026-10-18 267 → 2026-10-23 269（+2）
+2026-10-18 267 → 2026-10-24 269（+2）
 
 
 ---

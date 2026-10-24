@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tudoumashu/ai-memory-skillpack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "tudoumashu/ai-memory-skillpack 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 451 --> 500
-    line [496, 455]
+    line [496, 455, 455]
 ```
 
-2026-10-18 496 → 2026-10-23 455（-41）
+2026-10-18 496 → 2026-10-24 455（-41）
 
 
 ---

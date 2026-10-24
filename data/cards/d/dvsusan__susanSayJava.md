@@ -1,6 +1,6 @@
 # dvsusan/susanSayJava
 
-⭐ 458 · 推送 2026-10-22 · [GitHub](https://github.com/dvsusan/susanSayJava) · [官网](https://susan.net.cn) · 个人维护 · 中文 README
+⭐ 461 · 推送 2026-10-23 · [GitHub](https://github.com/dvsusan/susanSayJava) · [官网](https://susan.net.cn) · 个人维护 · 中文 README
 
 **Java 后端面试八股文与企业级项目实战文章合集**
 
@@ -39,6 +39,18 @@
 > L3: Java 后端面试题与项目实战合集：覆盖 Java 基础、JVM、并发编程、Spring、
 > L5: 微服务、分布式与 AI Agent，每篇都是可落地的实战经验。
 > L9: - 🤖 AI 教程（Spring AI / RAG / Agent）：https://www.susan.net.cn/ai/
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dvsusan/susanSayJava 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 457 --> 462
+    line [458, 461]
+```
+
+2026-10-23 458 → 2026-10-24 461（+3）
 
 
 ---

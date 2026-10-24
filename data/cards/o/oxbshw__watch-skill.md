@@ -1,6 +1,6 @@
 # oxbshw/watch-skill
 
-⭐ 514 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/oxbshw/watch-skill) · [官网](https://pypi.org/project/watch-skill/) · 个人维护
+⭐ 517 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/oxbshw/watch-skill) · [官网](https://pypi.org/project/watch-skill/) · 个人维护
 
 **给 AI agent 提供视听感知与确定性验证的工具引擎**
 
@@ -45,13 +45,13 @@ Watch Skill 将视频、音频与屏幕活动转为带绝对时间戳的帧、�
 
 ```mermaid
 xychart-beta
-    title "oxbshw/watch-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 495 --> 515
-    line [496, 503, 514]
+    title "oxbshw/watch-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 494 --> 519
+    line [496, 503, 514, 517]
 ```
 
-2026-10-18 496 → 2026-10-23 514（+18）
+2026-10-18 496 → 2026-10-24 517（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # LetsFG/LetsFG
 
-⭐ 2,183 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/LetsFG/LetsFG) · [官网](https://letsfg.co) · 组织维护
+⭐ 2,186 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/LetsFG/LetsFG) · [官网](https://letsfg.co) · 组织维护
 
 **给 AI agent 用的机票酒店搜索与预订 MCP 服务及 SDK**
 
@@ -45,13 +45,13 @@ LetsFG 提供航班与酒店搜索及真实预订能力，形态包括 MCP 服�
 
 ```mermaid
 xychart-beta
-    title "LetsFG/LetsFG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2157 --> 2185
-    line [2159, 2172, 2181, 2183]
+    title "LetsFG/LetsFG 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2157 --> 2188
+    line [2159, 2172, 2181, 2183, 2186]
 ```
 
-2026-10-18 2,159 → 2026-10-23 2,183（+24）
+2026-10-18 2,159 → 2026-10-24 2,186（+27）
 
 
 ---

@@ -1,6 +1,6 @@
 # snyk/agent-scan
 
-⭐ 3,162 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/snyk/agent-scan) · 组织维护
+⭐ 3,168 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/snyk/agent-scan) · 组织维护
 
 **扫描本机 AI agent 组件（MCP 服务器/技能）的安全检测 CLI**
 
@@ -45,13 +45,13 @@ Snyk 出品的命令行安全扫描器：自动发现本机安装的 agent 组�
 
 ```mermaid
 xychart-beta
-    title "snyk/agent-scan 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3140 --> 3164
-    line [3142, 3153, 3157, 3162]
+    title "snyk/agent-scan 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3140 --> 3170
+    line [3142, 3153, 3157, 3162, 3168]
 ```
 
-2026-10-18 3,142 → 2026-10-23 3,162（+20）
+2026-10-18 3,142 → 2026-10-24 3,168（+26）
 
 
 ---

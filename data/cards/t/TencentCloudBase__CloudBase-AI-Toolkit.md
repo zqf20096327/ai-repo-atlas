@@ -1,6 +1,6 @@
 # TencentCloudBase/CloudBase-AI-Toolkit
 
-⭐ 1,142 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) · [官网](https://docs.cloudbase.net/ai/cloudbase-ai-toolkit/) · 组织维护 · 中文 README
+⭐ 1,146 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) · [官网](https://docs.cloudbase.net/ai/cloudbase-ai-toolkit/) · 组织维护 · 中文 README
 
 **让 AI 编程工具直接操作腾讯云 CloudBase 后端的集成层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TencentCloudBase/CloudBase-AI-Toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1137 --> 1143
-    line [1138, 1140, 1141, 1142]
+    title "TencentCloudBase/CloudBase-AI-Toolkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1137 --> 1147
+    line [1138, 1140, 1141, 1142, 1146]
 ```
 
-2026-10-18 1,138 → 2026-10-23 1,142（+4）
+2026-10-18 1,138 → 2026-10-24 1,146（+8）
 
 
 ---

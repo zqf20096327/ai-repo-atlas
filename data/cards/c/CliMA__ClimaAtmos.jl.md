@@ -1,6 +1,6 @@
 # CliMA/ClimaAtmos.jl
 
-⭐ 130 · Julia · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/CliMA/ClimaAtmos.jl) · [官网](https://clima.github.io/ClimaAtmos.jl/dev/) · 组织维护
+⭐ 130 · Julia · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/CliMA/ClimaAtmos.jl) · [官网](https://clima.github.io/ClimaAtmos.jl/dev/) · 组织维护
 
 **CliMA 地球系统模式的全球大气模拟器，支持 GPU 运行**
 
@@ -45,12 +45,12 @@ CliMA 地球系统模式的大气分量：求解立方球面与柱网格上的�
 ```mermaid
 xychart-beta
     title "CliMA/ClimaAtmos.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 129 --> 131
     line [130, 130]
 ```
 
-2026-10-18 130 → 2026-10-23 130（+0）
+2026-10-18 130 → 2026-10-24 130（+0）
 
 
 ---

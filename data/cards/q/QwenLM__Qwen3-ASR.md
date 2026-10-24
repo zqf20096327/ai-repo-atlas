@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-ASR
 
-⭐ 3,759 · Python · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/QwenLM/Qwen3-ASR) · 组织维护 · 中文 README
+⭐ 3,761 · Python · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/QwenLM/Qwen3-ASR) · 组织维护 · 中文 README
 
 **阿里 Qwen 团队的开源多语言语音识别模型系列（ASR + 强制对齐）**
 
@@ -45,13 +45,13 @@ Qwen3-ASR 系列包含 1.7B/0.6B 两个语音识别模型，支持 52 种语言�
 
 ```mermaid
 xychart-beta
-    title "QwenLM/Qwen3-ASR 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3713 --> 3763
-    line [3717, 3731, 3753, 3759]
+    title "QwenLM/Qwen3-ASR 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3713 --> 3765
+    line [3717, 3731, 3753, 3759, 3761]
 ```
 
-2026-10-18 3,717 → 2026-10-23 3,759（+42）
+2026-10-18 3,717 → 2026-10-24 3,761（+44）
 
 
 ---

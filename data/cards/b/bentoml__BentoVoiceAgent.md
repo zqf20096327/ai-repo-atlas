@@ -1,6 +1,6 @@
 # bentoml/BentoVoiceAgent
 
-⭐ 134 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoVoiceAgent) · 组织维护
+⭐ 135 · Python · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoVoiceAgent) · 组织维护
 
 **基于开源模型构建电话语音 Agent 的 BentoML 示例工程**
 
@@ -45,12 +45,12 @@ BentoML 官方示例仓库，演示用开源模型搭建可通过电话号码访
 ```mermaid
 xychart-beta
     title "bentoml/BentoVoiceAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 133 --> 135
-    line [134, 134]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 133 --> 136
+    line [134, 135]
 ```
 
-2026-10-18 134 → 2026-10-23 134（+0）
+2026-10-18 134 → 2026-10-24 135（+1）
 
 
 ---

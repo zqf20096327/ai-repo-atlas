@@ -1,6 +1,6 @@
 # Kiln-AI/Kiln
 
-⭐ 5,224 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Kiln-AI/Kiln) · [官网](https://kiln.tech) · 组织维护
+⭐ 5,226 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Kiln-AI/Kiln) · [官网](https://kiln.tech) · 组织维护
 
 **AI 开发工作台：评测、调优、微调、RAG 与 Agent 一体化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kiln-AI/Kiln 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5193 --> 5226
-    line [5195, 5204, 5214, 5224]
+    title "Kiln-AI/Kiln 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5192 --> 5229
+    line [5195, 5204, 5214, 5224, 5226]
 ```
 
-2026-10-18 5,195 → 2026-10-23 5,224（+29）
+2026-10-18 5,195 → 2026-10-24 5,226（+31）
 
 
 ---

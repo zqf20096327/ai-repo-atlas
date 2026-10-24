@@ -1,6 +1,6 @@
 # kyegomez/OpenMythos
 
-⭐ 14,913 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/kyegomez/OpenMythos) · [官网](https://discord.gg/EamjgSaEQf) · 个人维护
+⭐ 14,911 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/kyegomez/OpenMythos) · [官网](https://discord.gg/EamjgSaEQf) · 个人维护
 
 **对 Claude Mythos 架构的理论性开源重建：循环深度 Transformer 实现**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyegomez/OpenMythos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "kyegomez/OpenMythos 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 14909 --> 14914
-    line [14912, 14910, 14913]
+    line [14912, 14910, 14913, 14911]
 ```
 
-2026-10-18 14,912 → 2026-10-23 14,913（+1）
+2026-10-18 14,912 → 2026-10-24 14,911（-1）
 
 
 ---

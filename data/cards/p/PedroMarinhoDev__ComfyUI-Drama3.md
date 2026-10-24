@@ -1,6 +1,6 @@
 # PedroMarinhoDev/ComfyUI-Drama3
 
-⭐ 95 · Python · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) · [官网](https://pedromarinhodev.github.io/ComfyUI-Drama3/) · 个人维护
+⭐ 102 · Python · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) · [官网](https://pedromarinhodev.github.io/ComfyUI-Drama3/) · 个人维护
 
 **在 ComfyUI 中本地运行 Fish Audio Drama 3 语音合成与 Qwen3 转写的节点包**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点集：将 35B 的 Fish Audio Drama 3 文本转语音模�
 
 ```mermaid
 xychart-beta
-    title "PedroMarinhoDev/ComfyUI-Drama3 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 67 --> 97
-    line [69, 85, 90, 95]
+    title "PedroMarinhoDev/ComfyUI-Drama3 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 66 --> 105
+    line [69, 85, 90, 95, 102]
 ```
 
-2026-10-18 69 → 2026-10-23 95（+26）
+2026-10-18 69 → 2026-10-24 102（+33）
 
 
 ---

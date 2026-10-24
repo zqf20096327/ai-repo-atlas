@@ -1,6 +1,6 @@
 # KKKKhazix/AIHOT
 
-⭐ 8,425 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/KKKKhazix/AIHOT) · [官网](https://aihot.news) · 个人维护 · 中文 README
+⭐ 8,500 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/KKKKhazix/AIHOT) · [官网](https://aihot.news) · 个人维护 · 中文 README
 
 **自托管 AI 行业热点站框架：自动采集、精选、写日报**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KKKKhazix/AIHOT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7885 --> 8474
-    line [7934, 8085, 8338, 8425]
+    title "KKKKhazix/AIHOT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7878 --> 8556
+    line [7934, 8085, 8338, 8425, 8500]
 ```
 
-2026-10-18 7,934 → 2026-10-23 8,425（+491）
+2026-10-18 7,934 → 2026-10-24 8,500（+566）
 
 
 ---

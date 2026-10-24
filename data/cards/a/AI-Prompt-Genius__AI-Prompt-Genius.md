@@ -1,6 +1,6 @@
 # AI-Prompt-Genius/AI-Prompt-Genius
 
-⭐ 1,309 · TypeScript · 推送 2026-10-01 · [GitHub](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) · [官网](https://aipromptgenius.app/) · 个人维护
+⭐ 1,310 · TypeScript · 推送 2026-10-01 · [GitHub](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) · [官网](https://aipromptgenius.app/) · 个人维护
 
 **管理个人 AI 提示词库的 Chrome 扩展**
 
@@ -42,12 +42,12 @@ Chrome 浏览器扩展，用于整理个人 AI 提示词库，用户可收藏、
 ```mermaid
 xychart-beta
     title "AI-Prompt-Genius/AI-Prompt-Genius 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 1308 --> 1311
-    line [1310, 1309, 1309]
+    line [1310, 1309, 1310]
 ```
 
-2026-10-18 1,310 → 2026-10-23 1,309（-1）
+2026-10-18 1,310 → 2026-10-24 1,310（+0）
 
 
 ---

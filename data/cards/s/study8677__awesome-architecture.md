@@ -1,6 +1,6 @@
 # study8677/awesome-architecture
 
-⭐ 2,463 · Vue · MIT · 推送 2026-09-21 · [GitHub](https://github.com/study8677/awesome-architecture) · [官网](https://study8677.github.io/awesome-architecture/) · 个人维护 · 中文 README
+⭐ 2,466 · Vue · MIT · 推送 2026-09-21 · [GitHub](https://github.com/study8677/awesome-architecture) · [官网](https://study8677.github.io/awesome-architecture/) · 个人维护 · 中文 README
 
 **架构知识库：教程、系统模板与端到端案例，面向架构学习者**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "study8677/awesome-architecture 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2447 --> 2464
-    line [2448, 2454, 2460, 2463]
+    title "study8677/awesome-architecture 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2447 --> 2467
+    line [2448, 2454, 2460, 2463, 2466]
 ```
 
-2026-10-18 2,448 → 2026-10-23 2,463（+15）
+2026-10-18 2,448 → 2026-10-24 2,466（+18）
 
 
 ---

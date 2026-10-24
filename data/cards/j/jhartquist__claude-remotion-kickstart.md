@@ -1,6 +1,6 @@
 # jhartquist/claude-remotion-kickstart
 
-⭐ 121 · TypeScript · MIT · 推送 2025-12-09 · [GitHub](https://github.com/jhartquist/claude-remotion-kickstart) · [官网](https://youtu.be/z7Bkf3Vc63U) · 个人维护
+⭐ 122 · TypeScript · MIT · 推送 2025-12-09 · [GitHub](https://github.com/jhartquist/claude-remotion-kickstart) · [官网](https://youtu.be/z7Bkf3Vc63U) · 个人维护
 
 **用 Claude Code 与 Remotion 以代码方式生成视频的启动模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jhartquist/claude-remotion-kickstart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 120 --> 123
+    line [121, 122]
 ```
 
-2026-10-18 121 → 2026-10-23 121（+0）
+2026-10-18 121 → 2026-10-24 122（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # BichengWang/ai-decision-system
 
-⭐ 236 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/BichengWang/ai-decision-system) · 个人维护
+⭐ 250 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BichengWang/ai-decision-system) · [官网](https://bichengwang.github.io/ai-decision-system/) · 个人维护
 
 **AI 辅助 go/no-go 决策的可重放、离线可验证记录工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BichengWang/ai-decision-system 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 143 --> 247
-    line [151, 166, 239, 236]
+    title "BichengWang/ai-decision-system 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 142 --> 259
+    line [151, 166, 239, 236, 250]
 ```
 
-2026-10-18 151 → 2026-10-23 236（+85）
+2026-10-18 151 → 2026-10-24 250（+99）
 
 
 ---

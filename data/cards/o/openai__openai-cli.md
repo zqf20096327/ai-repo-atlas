@@ -1,6 +1,6 @@
 # openai/openai-cli
 
-⭐ 1,025 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/openai-cli) · 组织维护
+⭐ 1,094 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-cli) · 组织维护
 
 **OpenAI REST API 官方命令行客户端**
 
@@ -45,13 +45,13 @@ OpenAI 官方维护的 CLI，用资源式命令结构调用 OpenAI REST API：�
 
 ```mermaid
 xychart-beta
-    title "openai/openai-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 690 --> 1055
-    line [721, 720, 729, 1025]
+    title "openai/openai-cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 683 --> 1131
+    line [721, 720, 729, 1025, 1094]
 ```
 
-2026-10-18 721 → 2026-10-23 1,025（+304）
+2026-10-18 721 → 2026-10-24 1,094（+373）
 
 
 ---

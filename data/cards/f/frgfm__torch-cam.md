@@ -1,6 +1,6 @@
 # frgfm/torch-cam
 
-⭐ 2,306 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/frgfm/torch-cam) · [官网](https://frgfm.github.io/torch-cam/) · 个人维护 · 中文 README
+⭐ 2,306 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/frgfm/torch-cam) · [官网](https://frgfm.github.io/torch-cam/) · 个人维护 · 中文 README
 
 **为 PyTorch 模型生成类激活图（CAM）的可解释性库**
 
@@ -47,12 +47,12 @@ TorchCAM 是基于 PyTorch hook 机制的可解释性库：以包装器形式挂
 ```mermaid
 xychart-beta
     title "frgfm/torch-cam 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 2305 --> 2309
     line [2308, 2307, 2306, 2306]
 ```
 
-2026-10-18 2,308 → 2026-10-23 2,306（-2）
+2026-10-18 2,308 → 2026-10-24 2,306（-2）
 
 
 ---

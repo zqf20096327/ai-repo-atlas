@@ -1,6 +1,6 @@
 # ARM-software/ComputeLibrary
 
-⭐ 3,197 · C++ · 推送 2026-10-06 · [GitHub](https://github.com/ARM-software/ComputeLibrary) · 组织维护
+⭐ 3,198 · C++ · 推送 2026-10-06 · [GitHub](https://github.com/ARM-software/ComputeLibrary) · 组织维护
 
 **面向 Arm CPU/GPU 优化的底层机器学习函数库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ARM-software/ComputeLibrary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 3195 --> 3198
-    line [3196, 3197]
+    title "ARM-software/ComputeLibrary 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3195 --> 3199
+    line [3196, 3197, 3198]
 ```
 
-2026-10-18 3,196 → 2026-10-23 3,197（+1）
+2026-10-18 3,196 → 2026-10-24 3,198（+2）
 
 
 ---

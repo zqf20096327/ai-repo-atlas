@@ -43,13 +43,13 @@ Streamlit 网页应用：用户上传多个 PDF 文件，应用提取文本并�
 
 ```mermaid
 xychart-beta
-    title "kaifcoder/gemini_multipdf_chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "kaifcoder/gemini_multipdf_chat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 223 --> 226
-    line [224, 225]
+    line [224, 225, 225]
 ```
 
-2026-10-18 224 → 2026-10-23 225（+1）
+2026-10-18 224 → 2026-10-24 225（+1）
 
 
 ---

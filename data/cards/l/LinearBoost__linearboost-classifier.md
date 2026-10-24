@@ -45,12 +45,12 @@ Python 实现的机器学习分类算法包：LinearBoost 在线性分类器 SEF
 ```mermaid
 xychart-beta
     title "LinearBoost/linearboost-classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 229 --> 231
     line [230, 230]
 ```
 
-2026-10-18 230 → 2026-10-23 230（+0）
+2026-10-18 230 → 2026-10-24 230（+0）
 
 
 ---

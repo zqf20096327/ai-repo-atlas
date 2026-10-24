@@ -1,6 +1,6 @@
 # keivalya/mini-vla
 
-⭐ 407 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/keivalya/mini-vla) · 个人维护
+⭐ 408 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/keivalya/mini-vla) · 个人维护
 
 **面向初学者的最小 VLA 模型：融合图像/文本/状态生成机器人动作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "keivalya/mini-vla 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 405 --> 408
-    line [406, 407, 407]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 405 --> 409
+    line [406, 407, 408]
 ```
 
-2026-10-18 406 → 2026-10-23 407（+1）
+2026-10-18 406 → 2026-10-24 408（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ashish-Patnaik/kokoclone
 
-⭐ 205 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/Ashish-Patnaik/kokoclone) · [官网](https://huggingface.co/spaces/PatnaikAshish/kokoclone) · 个人维护
+⭐ 206 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/Ashish-Patnaik/kokoclone) · [官网](https://huggingface.co/spaces/PatnaikAshish/kokoclone) · 个人维护
 
 **基于 Kokoro-ONNX 的多语言零样本语音克隆与变声系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ashish-Patnaik/kokoclone 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 202 --> 206
-    line [203, 205, 205]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 202 --> 207
+    line [203, 205, 206]
 ```
 
-2026-10-18 203 → 2026-10-23 205（+2）
+2026-10-18 203 → 2026-10-24 206（+3）
 
 
 ---

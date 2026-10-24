@@ -1,6 +1,6 @@
 # satellite-image-deep-learning/techniques
 
-⭐ 10,286 · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/satellite-image-deep-learning/techniques) · 组织维护
+⭐ 10,287 · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/satellite-image-deep-learning/techniques) · 组织维护
 
 **卫星与航空影像深度学习技术策展清单：按任务分类汇集方法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "satellite-image-deep-learning/techniques 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10282 --> 10287
-    line [10283, 10284, 10285, 10286]
+    title "satellite-image-deep-learning/techniques 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10282 --> 10288
+    line [10283, 10284, 10285, 10286, 10287]
 ```
 
-2026-10-18 10,283 → 2026-10-23 10,286（+3）
+2026-10-18 10,283 → 2026-10-24 10,287（+4）
 
 
 ---

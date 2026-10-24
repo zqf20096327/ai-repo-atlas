@@ -1,6 +1,6 @@
 # useLexora/Lexora
 
-⭐ 584 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/useLexora/Lexora) · [官网](https://uselexora.app/) · 组织维护 · 中文 README
+⭐ 596 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/useLexora/Lexora) · [官网](https://uselexora.app/) · 组织维护 · 中文 README
 
 **面向个人用户的桌面自主 AI Agent 应用**
 
@@ -46,13 +46,13 @@ Lexora 是运行在 Windows、macOS、Linux 桌面上的个人 AI Agent 应用�
 
 ```mermaid
 xychart-beta
-    title "useLexora/Lexora 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "useLexora/Lexora 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 581 --> 617
-    line [597, 607, 614, 584]
+    line [597, 607, 614, 584, 596]
 ```
 
-2026-10-18 597 → 2026-10-23 584（-13）
+2026-10-18 597 → 2026-10-24 596（-1）
 
 
 ---

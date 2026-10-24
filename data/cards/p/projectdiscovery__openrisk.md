@@ -1,6 +1,6 @@
 # projectdiscovery/openrisk
 
-⭐ 181 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/projectdiscovery/openrisk) · 组织维护
+⭐ 181 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/projectdiscovery/openrisk) · 组织维护
 
 **读取 Nuclei 扫描结果并用 GPT-4o 生成主机风险评分的工具**
 
@@ -44,13 +44,13 @@ ProjectDiscovery Research Team 发布的实验性安全工具：读取 nuclei �
 
 ```mermaid
 xychart-beta
-    title "projectdiscovery/openrisk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "projectdiscovery/openrisk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 180 --> 183
-    line [182, 181]
+    line [182, 181, 181]
 ```
 
-2026-10-18 182 → 2026-10-23 181（-1）
+2026-10-18 182 → 2026-10-24 181（-1）
 
 
 ---

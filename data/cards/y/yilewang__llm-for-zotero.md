@@ -1,6 +1,6 @@
 # yilewang/llm-for-zotero
 
-⭐ 3,382 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/yilewang/llm-for-zotero) · [官网](https://yilewang.github.io/llm-for-zotero) · 个人维护 · 中文 README
+⭐ 3,395 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/yilewang/llm-for-zotero) · [官网](https://yilewang.github.io/llm-for-zotero) · 个人维护 · 中文 README
 
 **Zotero 文献库的 LLM 研究助手插件，可问答、综述、管理文献**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yilewang/llm-for-zotero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3326 --> 3387
-    line [3331, 3353, 3371, 3382]
+    title "yilewang/llm-for-zotero 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3325 --> 3401
+    line [3331, 3353, 3371, 3382, 3395]
 ```
 
-2026-10-18 3,331 → 2026-10-23 3,382（+51）
+2026-10-18 3,331 → 2026-10-24 3,395（+64）
 
 
 ---

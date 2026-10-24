@@ -1,6 +1,6 @@
 # microsoft/Sico
 
-⭐ 282 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Sico) · 组织维护
+⭐ 282 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/Sico) · 组织维护
 
 **企业数字员工平台：构建、管理与持续进化 AI 劳动力**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Sico 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "microsoft/Sico 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 281 --> 284
-    line [283, 282]
+    line [283, 282, 282]
 ```
 
-2026-10-18 283 → 2026-10-23 282（-1）
+2026-10-18 283 → 2026-10-24 282（-1）
 
 
 ---

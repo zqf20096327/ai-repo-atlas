@@ -1,6 +1,6 @@
 # cleanlab/cleanlab
 
-⭐ 11,715 · Python · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/cleanlab/cleanlab) · [官网](https://cleanlab.ai) · 组织维护
+⭐ 11,717 · Python · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/cleanlab/cleanlab) · [官网](https://cleanlab.ai) · 组织维护
 
 **面向开发者的数据质量与标签错误检测库（data-centric AI）**
 
@@ -45,13 +45,13 @@ Python 库，用用户已有的 ML 模型输出的特征嵌入与预测概率，
 
 ```mermaid
 xychart-beta
-    title "cleanlab/cleanlab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11708 --> 11716
-    line [11709, 11714, 11713, 11715]
+    title "cleanlab/cleanlab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11708 --> 11718
+    line [11709, 11714, 11713, 11715, 11717]
 ```
 
-2026-10-18 11,709 → 2026-10-23 11,715（+6）
+2026-10-18 11,709 → 2026-10-24 11,717（+8）
 
 
 ---

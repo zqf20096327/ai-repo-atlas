@@ -1,6 +1,6 @@
 # huggingface/tau
 
-⭐ 2,982 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/tau) · [官网](http://twotimespi.dev/) · 组织维护
+⭐ 2,986 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/tau) · [官网](http://twotimespi.dev/) · 组织维护
 
 **终端里的 Python 编码 agent：读代码、改文件、跑命令**
 
@@ -45,13 +45,13 @@ Tau 是运行于终端的编码 agent，以自然语言请求驱动：可读取�
 
 ```mermaid
 xychart-beta
-    title "huggingface/tau 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2966 --> 2983
-    line [2967, 2969, 2977, 2982]
+    title "huggingface/tau 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2966 --> 2987
+    line [2967, 2969, 2977, 2982, 2986]
 ```
 
-2026-10-18 2,967 → 2026-10-23 2,982（+15）
+2026-10-18 2,967 → 2026-10-24 2,986（+19）
 
 
 ---

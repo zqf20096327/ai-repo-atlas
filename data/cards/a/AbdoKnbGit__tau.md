@@ -1,6 +1,6 @@
 # AbdoKnbGit/tau
 
-⭐ 414 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/AbdoKnbGit/tau) · 个人维护
+⭐ 417 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/AbdoKnbGit/tau) · 个人维护
 
 **自适应编码 Agent 客户端：30 个模型供应商原生接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AbdoKnbGit/tau 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 404 --> 415
-    line [405, 410, 414, 414]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 404 --> 418
+    line [405, 410, 414, 417]
 ```
 
-2026-10-18 405 → 2026-10-23 414（+9）
+2026-10-18 405 → 2026-10-24 417（+12）
 
 
 ---

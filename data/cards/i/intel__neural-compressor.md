@@ -1,6 +1,6 @@
 # intel/neural-compressor
 
-⭐ 2,723 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/intel/neural-compressor) · [官网](https://intel.github.io/neural-compressor/) · 组织维护
+⭐ 2,723 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/intel/neural-compressor) · [官网](https://intel.github.io/neural-compressor/) · 组织维护
 
 **Intel 开源的深度学习模型压缩库：量化/剪枝/蒸馏**
 
@@ -44,13 +44,13 @@ Intel 维护的 Python 库，在 PyTorch、TensorFlow、JAX 及 ONNX Runtime 上
 
 ```mermaid
 xychart-beta
-    title "intel/neural-compressor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "intel/neural-compressor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2718 --> 2724
-    line [2719, 2722, 2723]
+    line [2719, 2722, 2723, 2723]
 ```
 
-2026-10-18 2,719 → 2026-10-23 2,723（+4）
+2026-10-18 2,719 → 2026-10-24 2,723（+4）
 
 
 ---

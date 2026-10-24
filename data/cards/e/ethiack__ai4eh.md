@@ -1,6 +1,6 @@
 # ethiack/ai4eh
 
-⭐ 299 · Python · MIT · 推送 2025-11-28 · [GitHub](https://github.com/ethiack/ai4eh) · [官网](https://ethiack.com) · 组织维护
+⭐ 298 · Python · MIT · 推送 2025-11-28 · [GitHub](https://github.com/ethiack/ai4eh) · [官网](https://ethiack.com) · 组织维护
 
 **面向学习者的 AI 应用安全（道德黑客）研讨课与实践工具集**
 
@@ -45,12 +45,12 @@ Ethiack 维护的 AI for Ethical Hacking 研讨会仓库，提供教程指南、
 ```mermaid
 xychart-beta
     title "ethiack/ai4eh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 296 --> 300
-    line [297, 299, 299]
+    line [297, 299, 298]
 ```
 
-2026-10-18 297 → 2026-10-23 299（+2）
+2026-10-18 297 → 2026-10-24 298（+1）
 
 
 ---

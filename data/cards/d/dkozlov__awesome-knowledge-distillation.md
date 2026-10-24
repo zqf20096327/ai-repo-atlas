@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "dkozlov/awesome-knowledge-distillation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "dkozlov/awesome-knowledge-distillation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 3911 --> 3915
-    line [3912, 3913, 3914]
+    line [3912, 3913, 3914, 3914]
 ```
 
-2026-10-18 3,912 → 2026-10-23 3,914（+2）
+2026-10-18 3,912 → 2026-10-24 3,914（+2）
 
 
 ---

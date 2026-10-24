@@ -44,12 +44,12 @@ ICCV 2023 论文 Multi3DRefer 的官方 PyTorch 实现（M3DRef-CLIP）：将自
 ```mermaid
 xychart-beta
     title "3dlg-hcvc/multi3drefer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-18 98 → 2026-10-23 98（+0）
+2026-10-18 98 → 2026-10-24 98（+0）
 
 
 ---

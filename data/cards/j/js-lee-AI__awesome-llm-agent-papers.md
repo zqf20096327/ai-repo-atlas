@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "js-lee-AI/awesome-llm-agent-papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "js-lee-AI/awesome-llm-agent-papers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 89 --> 102
-    line [90, 91, 101]
+    line [90, 91, 101, 101]
 ```
 
-2026-10-18 90 → 2026-10-23 101（+11）
+2026-10-18 90 → 2026-10-24 101（+11）
 
 
 ---

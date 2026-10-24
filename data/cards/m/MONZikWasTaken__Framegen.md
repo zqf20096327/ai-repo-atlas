@@ -1,6 +1,6 @@
 # MONZikWasTaken/Framegen
 
-⭐ 185 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/MONZikWasTaken/Framegen) · [官网](https://chromewebstore.google.com/detail/framegen-frame-interpolat/hpdpcjakhclhljfdkpjolonjlopbdhfk) · 个人维护
+⭐ 185 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MONZikWasTaken/Framegen) · [官网](https://chromewebstore.google.com/detail/framegen-frame-interpolat/hpdpcjakhclhljfdkpjolonjlopbdhfk) · 个人维护
 
 **浏览器内实时神经视频插帧的 Chrome 扩展**
 
@@ -44,13 +44,13 @@ Chrome 扩展，将 24-30 fps 的 <video> 实时插帧至 60-240 fps（2×-6×�
 
 ```mermaid
 xychart-beta
-    title "MONZikWasTaken/Framegen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "MONZikWasTaken/Framegen 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 180 --> 186
-    line [181, 183, 184, 185]
+    line [181, 183, 184, 185, 185]
 ```
 
-2026-10-18 181 → 2026-10-23 185（+4）
+2026-10-18 181 → 2026-10-24 185（+4）
 
 
 ---

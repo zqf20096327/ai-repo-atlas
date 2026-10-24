@@ -1,6 +1,6 @@
 # synthetic-sciences/openscience
 
-⭐ 4,222 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/synthetic-sciences/openscience) · [官网](https://openscience.sh) · 组织维护
+⭐ 4,242 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/synthetic-sciences/openscience) · [官网](https://openscience.sh) · 组织维护
 
 **开源科研 AI 工作台：给定目标后自主查文献、写跑代码并成文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "synthetic-sciences/openscience 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4029 --> 4239
-    line [4046, 4113, 4181, 4222]
+    title "synthetic-sciences/openscience 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4027 --> 4261
+    line [4046, 4113, 4181, 4222, 4242]
 ```
 
-2026-10-18 4,046 → 2026-10-23 4,222（+176）
+2026-10-18 4,046 → 2026-10-24 4,242（+196）
 
 
 ---

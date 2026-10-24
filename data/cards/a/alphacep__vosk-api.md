@@ -1,6 +1,6 @@
 # alphacep/vosk-api
 
-⭐ 15,194 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/alphacep/vosk-api) · 组织维护
+⭐ 15,198 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/alphacep/vosk-api) · 组织维护
 
 **离线语音识别工具包：面向 20+ 语言的开发者 API**
 
@@ -52,13 +52,13 @@ Vosk 是一个离线开源语音识别工具包，支持 20 多种语言和方�
 
 ```mermaid
 xychart-beta
-    title "alphacep/vosk-api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 15176 --> 15195
-    line [15177, 15186, 15192, 15194]
+    title "alphacep/vosk-api 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 15175 --> 15200
+    line [15177, 15186, 15192, 15194, 15198]
 ```
 
-2026-10-18 15,177 → 2026-10-23 15,194（+17）
+2026-10-18 15,177 → 2026-10-24 15,198（+21）
 
 
 ---

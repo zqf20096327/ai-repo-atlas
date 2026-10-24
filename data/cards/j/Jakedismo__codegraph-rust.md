@@ -1,6 +1,6 @@
 # Jakedismo/codegraph-rust
 
-⭐ 905 · Rust · 推送 2026-10-12 · [GitHub](https://github.com/Jakedismo/codegraph-rust) · 个人维护
+⭐ 906 · Rust · 推送 2026-10-12 · [GitHub](https://github.com/Jakedismo/codegraph-rust) · 个人维护
 
 **为 AI 编程助手提供代码知识图谱与语义检索的 Rust 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jakedismo/codegraph-rust 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 898 --> 906
-    line [899, 900, 904, 905]
+    title "Jakedismo/codegraph-rust 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 898 --> 907
+    line [899, 900, 904, 905, 906]
 ```
 
-2026-10-18 899 → 2026-10-23 905（+6）
+2026-10-18 899 → 2026-10-24 906（+7）
 
 
 ---

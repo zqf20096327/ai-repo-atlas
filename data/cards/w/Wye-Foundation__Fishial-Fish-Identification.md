@@ -45,12 +45,12 @@ Fishial.ai 鱼类识别平台的官方仓库，提供基于 Detectron2 的分割
 ```mermaid
 xychart-beta
     title "Wye-Foundation/Fishial-Fish-Identification 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 128 --> 131
     line [129, 130, 130]
 ```
 
-2026-10-18 129 → 2026-10-23 130（+1）
+2026-10-18 129 → 2026-10-24 130（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Roy3838/Observer
 
-⭐ 1,657 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Roy3838/Observer) · [官网](https://observer-ai.com/) · 个人维护
+⭐ 1,657 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Roy3838/Observer) · [官网](https://observer-ai.com/) · 个人维护
 
 **本地模型驱动的屏幕监控 Agent 应用，按条件触发通知**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Roy3838/Observer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1652 --> 1658
     line [1653, 1656, 1657, 1657]
 ```
 
-2026-10-18 1,653 → 2026-10-23 1,657（+4）
+2026-10-18 1,653 → 2026-10-24 1,657（+4）
 
 
 ---

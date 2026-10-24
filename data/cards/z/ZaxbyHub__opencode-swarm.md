@@ -1,6 +1,6 @@
 # ZaxbyHub/opencode-swarm
 
-⭐ 511 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ZaxbyHub/opencode-swarm) · 组织维护
+⭐ 510 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ZaxbyHub/opencode-swarm) · 组织维护
 
 **OpenCode 的多 agent 群体编码插件：架构师主导、门禁式流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZaxbyHub/opencode-swarm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "ZaxbyHub/opencode-swarm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 504 --> 512
-    line [505, 507, 511]
+    line [505, 507, 511, 510]
 ```
 
-2026-10-18 505 → 2026-10-23 511（+6）
+2026-10-18 505 → 2026-10-24 510（+5）
 
 
 ---

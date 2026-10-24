@@ -45,12 +45,12 @@ GoogleCloudPlatform 维护的 TF estimator 教程集合：以标准化、系统�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/tf-estimator-tutorials 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 667 --> 670
     line [669, 668, 668]
 ```
 
-2026-10-18 669 → 2026-10-23 668（-1）
+2026-10-18 669 → 2026-10-24 668（-1）
 
 
 ---

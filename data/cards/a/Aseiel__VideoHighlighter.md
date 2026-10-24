@@ -1,6 +1,6 @@
 # Aseiel/VideoHighlighter
 
-⭐ 272 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Aseiel/VideoHighlighter) · 个人维护
+⭐ 294 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Aseiel/VideoHighlighter) · 个人维护
 
 **本地离线 AI 视频分析桌面应用：检测/高光/字幕一体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aseiel/VideoHighlighter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 210 --> 277
-    line [215, 257, 267, 272]
+    title "Aseiel/VideoHighlighter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 208 --> 301
+    line [215, 257, 267, 272, 294]
 ```
 
-2026-10-18 215 → 2026-10-23 272（+57）
+2026-10-18 215 → 2026-10-24 294（+79）
 
 
 ---

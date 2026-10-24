@@ -1,6 +1,6 @@
 # ykdojo/claude-code-tips
 
-⭐ 10,261 · HTML · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/ykdojo/claude-code-tips) · 个人维护
+⭐ 10,263 · HTML · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/ykdojo/claude-code-tips) · 个人维护
 
 **45+ 条 Claude Code 使用技巧合集，附状态栏脚本与 dx 插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ykdojo/claude-code-tips 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10243 --> 10262
-    line [10244, 10250, 10259, 10261]
+    title "ykdojo/claude-code-tips 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10243 --> 10264
+    line [10244, 10250, 10259, 10261, 10263]
 ```
 
-2026-10-18 10,244 → 2026-10-23 10,261（+17）
+2026-10-18 10,244 → 2026-10-24 10,263（+19）
 
 
 ---

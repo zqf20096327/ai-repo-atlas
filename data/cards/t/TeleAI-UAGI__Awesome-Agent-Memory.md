@@ -1,6 +1,6 @@
 # TeleAI-UAGI/Awesome-Agent-Memory
 
-⭐ 691 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) · 组织维护 · 中文 README
+⭐ 694 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) · 组织维护 · 中文 README
 
 **AI agent 记忆系统、基准与论文的策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TeleAI-UAGI/Awesome-Agent-Memory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 680 --> 692
-    line [681, 684, 688, 691]
+    title "TeleAI-UAGI/Awesome-Agent-Memory 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 680 --> 695
+    line [681, 684, 688, 691, 694]
 ```
 
-2026-10-18 681 → 2026-10-23 691（+10）
+2026-10-18 681 → 2026-10-24 694（+13）
 
 
 ---

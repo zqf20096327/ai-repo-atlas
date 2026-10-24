@@ -1,6 +1,6 @@
 # WenyuChiou/awesome-agentic-ai-zh
 
-⭐ 7,859 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh) · [官网](https://wenyuchiou.github.io/awesome-agentic-ai-zh/) · 个人维护 · 中文 README
+⭐ 7,927 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh) · [官网](https://wenyuchiou.github.io/awesome-agentic-ai-zh/) · 个人维护 · 中文 README
 
 **三语 AI Agent 学习路线图：从 LLM 基础到多 Agent 系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WenyuChiou/awesome-agentic-ai-zh 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7707 --> 7872
-    line [7720, 7734, 7822, 7859]
+    title "WenyuChiou/awesome-agentic-ai-zh 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7700 --> 7947
+    line [7720, 7734, 7822, 7859, 7927]
 ```
 
-2026-10-18 7,720 → 2026-10-23 7,859（+139）
+2026-10-18 7,720 → 2026-10-24 7,927（+207）
 
 
 ---

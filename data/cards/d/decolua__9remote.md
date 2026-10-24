@@ -1,6 +1,6 @@
 # decolua/9remote
 
-⭐ 213 · JavaScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/decolua/9remote) · [官网](https://9remote.cc) · 组织维护
+⭐ 214 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/decolua/9remote) · [官网](https://9remote.cc) · 组织维护
 
 **手机/浏览器远程操控电脑终端与 AI 编码代理的工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "decolua/9remote 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 198 --> 214
-    line [199, 203, 208, 213]
+    title "decolua/9remote 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 198 --> 215
+    line [199, 203, 208, 213, 214]
 ```
 
-2026-10-18 199 → 2026-10-23 213（+14）
+2026-10-18 199 → 2026-10-24 214（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/apm
 
-⭐ 4,116 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/apm) · [官网](https://microsoft.github.io/apm/) · 组织维护
+⭐ 4,116 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/apm) · [官网](https://microsoft.github.io/apm/) · 组织维护
 
 **AI 编程代理的依赖管理器：一份清单配置所有 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/apm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "microsoft/apm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 4021 --> 4124
-    line [4029, 4037, 4103, 4116]
+    line [4029, 4037, 4103, 4116, 4116]
 ```
 
-2026-10-18 4,029 → 2026-10-23 4,116（+87）
+2026-10-18 4,029 → 2026-10-24 4,116（+87）
 
 
 ---

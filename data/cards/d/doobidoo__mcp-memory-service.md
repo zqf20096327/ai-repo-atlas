@@ -1,6 +1,6 @@
 # doobidoo/mcp-memory-service
 
-⭐ 2,034 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/doobidoo/mcp-memory-service) · 个人维护
+⭐ 2,037 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/doobidoo/mcp-memory-service) · 个人维护
 
 **AI agent 流水线的自托管持久共享记忆后端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "doobidoo/mcp-memory-service 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2020 --> 2035
-    line [2021, 2023, 2028, 2034]
+    title "doobidoo/mcp-memory-service 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2020 --> 2038
+    line [2021, 2023, 2028, 2034, 2037]
 ```
 
-2026-10-18 2,021 → 2026-10-23 2,034（+13）
+2026-10-18 2,021 → 2026-10-24 2,037（+16）
 
 
 ---

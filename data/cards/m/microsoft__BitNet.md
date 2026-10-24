@@ -1,6 +1,6 @@
 # microsoft/BitNet
 
-⭐ 41,225 · C++ · MIT · 推送 2026-07-27 · [GitHub](https://github.com/microsoft/BitNet) · 组织维护
+⭐ 41,228 · C++ · MIT · 推送 2026-07-27 · [GitHub](https://github.com/microsoft/BitNet) · 组织维护
 
 **1-bit 大模型的官方 CPU/GPU 推理框架**
 
@@ -51,13 +51,13 @@ bitnet.cpp 是 1-bit LLM（如 BitNet b1.58）的官方推理框架，提供 I2_
 
 ```mermaid
 xychart-beta
-    title "microsoft/BitNet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 41176 --> 41229
-    line [41180, 41208, 41223, 41225]
+    title "microsoft/BitNet 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 41176 --> 41232
+    line [41180, 41208, 41223, 41225, 41228]
 ```
 
-2026-10-18 41,180 → 2026-10-23 41,225（+45）
+2026-10-18 41,180 → 2026-10-24 41,228（+48）
 
 
 ---

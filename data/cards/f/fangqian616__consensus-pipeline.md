@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fangqian616/consensus-pipeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "fangqian616/consensus-pipeline 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 127 --> 131
-    line [128, 130]
+    line [128, 130, 130]
 ```
 
-2026-10-18 128 → 2026-10-23 130（+2）
+2026-10-18 128 → 2026-10-24 130（+2）
 
 
 ---

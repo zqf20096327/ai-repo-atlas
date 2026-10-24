@@ -1,6 +1,6 @@
 # wh000wh000/awesome-jev-live
 
-⭐ 363 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/wh000wh000/awesome-jev-live) · [官网](https://wh000wh000.github.io/awesome-jev-live/) · 个人维护 · 中文 README
+⭐ 376 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/wh000wh000/awesome-jev-live) · [官网](https://wh000wh000.github.io/awesome-jev-live/) · 个人维护 · 中文 README
 
 **每2小时自动重建的 Jev/System One 生态分级索引清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wh000wh000/awesome-jev-live 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "wh000wh000/awesome-jev-live 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 340 --> 384
-    line [343, 364, 381, 363]
+    line [343, 364, 381, 363, 376]
 ```
 
-2026-10-18 343 → 2026-10-23 363（+20）
+2026-10-18 343 → 2026-10-24 376（+33）
 
 
 ---

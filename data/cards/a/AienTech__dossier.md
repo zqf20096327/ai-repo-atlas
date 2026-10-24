@@ -1,6 +1,6 @@
 # AienTech/dossier
 
-⭐ 388 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/AienTech/dossier) · 个人维护
+⭐ 428 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/AienTech/dossier) · 个人维护
 
 **自托管求职应用：一份档案生成定制简历与求职信并追踪投递**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AienTech/dossier 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 198 --> 405
-    line [215, 315, 388]
+    title "AienTech/dossier 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 194 --> 449
+    line [215, 315, 388, 428]
 ```
 
-2026-10-19 215 → 2026-10-23 388（+173）
+2026-10-19 215 → 2026-10-24 428（+213）
 
 
 ---

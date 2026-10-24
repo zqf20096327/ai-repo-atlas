@@ -1,6 +1,6 @@
 # konnga/skill-buddy
 
-⭐ 123 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/konnga/skill-buddy) · 个人维护 · 中文 README
+⭐ 122 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/konnga/skill-buddy) · 个人维护 · 中文 README
 
 **桌面工作台：跨 AI 编码代理统一管理 Skills 与 MCP Servers**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "konnga/skill-buddy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 122 --> 124
-    line [123, 123]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 121 --> 124
+    line [123, 122]
 ```
 
-2026-10-18 123 → 2026-10-23 123（+0）
+2026-10-18 123 → 2026-10-24 122（-1）
 
 
 ---

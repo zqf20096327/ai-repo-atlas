@@ -1,6 +1,6 @@
 # Card-Forge/forge
 
-⭐ 2,835 · Java · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Card-Forge/forge) · [官网](https://card-forge.github.io/forge/) · 组织维护
+⭐ 2,839 · Java · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Card-Forge/forge) · [官网](https://card-forge.github.io/forge/) · 组织维护
 
 **跨平台万智牌（MTG）规则引擎与单人/在线对局客户端**
 
@@ -45,13 +45,13 @@ Java 编写的开源万智牌规则引擎与游戏客户端，支持 Windows/Mac
 
 ```mermaid
 xychart-beta
-    title "Card-Forge/forge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2802 --> 2838
-    line [2805, 2815, 2829, 2835]
+    title "Card-Forge/forge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2802 --> 2842
+    line [2805, 2815, 2829, 2835, 2839]
 ```
 
-2026-10-18 2,805 → 2026-10-23 2,835（+30）
+2026-10-18 2,805 → 2026-10-24 2,839（+34）
 
 
 ---

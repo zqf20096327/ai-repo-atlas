@@ -1,6 +1,6 @@
 # microsoft/SkillOpt
 
-⭐ 18,634 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/SkillOpt) · [官网](https://aka.ms/skillopt) · 组织维护
+⭐ 18,650 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/SkillOpt) · [官网](https://aka.ms/skillopt) · 组织维护
 
 **为冻结参数的 LLM agent 训练可复用自然语言技能文档的优化器**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/SkillOpt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 18496 --> 18646
-    line [18508, 18563, 18607, 18634]
+    title "microsoft/SkillOpt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 18494 --> 18664
+    line [18508, 18563, 18607, 18634, 18650]
 ```
 
-2026-10-18 18,508 → 2026-10-23 18,634（+126）
+2026-10-18 18,508 → 2026-10-24 18,650（+142）
 
 
 ---

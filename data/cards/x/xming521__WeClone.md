@@ -1,6 +1,6 @@
 # xming521/WeClone
 
-⭐ 18,313 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/xming521/WeClone) · [官网](https://weclone.love) · 个人维护 · 中文 README
+⭐ 18,319 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/xming521/WeClone) · [官网](https://weclone.love) · 个人维护 · 中文 README
 
 **用聊天记录微调 LLM 打造个人数字分身并接入聊天机器人**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "xming521/WeClone 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 18304 --> 18314
-    line [18305, 18310, 18313]
+    title "xming521/WeClone 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 18304 --> 18320
+    line [18305, 18310, 18313, 18319]
 ```
 
-2026-10-18 18,305 → 2026-10-23 18,313（+8）
+2026-10-18 18,305 → 2026-10-24 18,319（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # mattpocock/evalite
 
-⭐ 1,724 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/mattpocock/evalite) · [官网](https://www.evalite.dev/) · 个人维护
+⭐ 1,723 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/mattpocock/evalite) · [官网](https://www.evalite.dev/) · 个人维护
 
 **TypeScript 本地优先的 LLM 应用评测工具**
 
@@ -40,13 +40,13 @@
 
 ```mermaid
 xychart-beta
-    title "mattpocock/evalite 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "mattpocock/evalite 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1716 --> 1725
-    line [1717, 1721, 1723, 1724]
+    line [1717, 1721, 1723, 1724, 1723]
 ```
 
-2026-10-18 1,717 → 2026-10-23 1,724（+7）
+2026-10-18 1,717 → 2026-10-24 1,723（+6）
 
 
 ---

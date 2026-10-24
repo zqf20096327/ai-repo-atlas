@@ -1,6 +1,6 @@
 # feder-cr/jev
 
-⭐ 891 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/feder-cr/jev) · [官网](https://huggingface.co/feder-cr/jev) · 个人维护
+⭐ 902 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/feder-cr/jev) · [官网](https://huggingface.co/feder-cr/jev) · 个人维护
 
 **本地 CPU 运行的决策模型服务：文本+问题返回概率答案**
 
@@ -45,13 +45,13 @@ jevos 是一个以单一二进制在笔记本 CPU 上运行的决策推理服务
 
 ```mermaid
 xychart-beta
-    title "feder-cr/jev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "feder-cr/jev 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 839 --> 1411
-    line [1348, 1364, 886, 891]
+    line [1348, 1364, 886, 891, 902]
 ```
 
-2026-10-18 1,348 → 2026-10-23 891（-457）
+2026-10-18 1,348 → 2026-10-24 902（-446）
 
 
 ---

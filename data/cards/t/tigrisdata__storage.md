@@ -45,13 +45,13 @@ Tigris 是全球分布式、S3 兼容的对象存储服务，本 monorepo 收录
 
 ```mermaid
 xychart-beta
-    title "tigrisdata/storage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "tigrisdata/storage 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 92 --> 95
-    line [93, 94]
+    line [93, 94, 94]
 ```
 
-2026-10-18 93 → 2026-10-23 94（+1）
+2026-10-18 93 → 2026-10-24 94（+1）
 
 
 ---

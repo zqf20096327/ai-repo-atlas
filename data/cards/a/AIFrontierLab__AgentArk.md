@@ -1,6 +1,6 @@
 # AIFrontierLab/AgentArk
 
-⭐ 246 · Python · Apache-2.0 · 推送 2026-05-09 · [GitHub](https://github.com/AIFrontierLab/AgentArk) · [官网](https://aifrontierlab.github.io/AgentArk/) · 组织维护
+⭐ 247 · Python · Apache-2.0 · 推送 2026-05-09 · [GitHub](https://github.com/AIFrontierLab/AgentArk) · [官网](https://aifrontierlab.github.io/AgentArk/) · 组织维护
 
 **将多智能体辩论蒸馏进单一 LLM 的研究框架（NeurIPS'26 论文官方实现）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIFrontierLab/AgentArk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 235 --> 247
-    line [236, 242, 244, 246]
+    title "AIFrontierLab/AgentArk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 235 --> 248
+    line [236, 242, 244, 246, 247]
 ```
 
-2026-10-18 236 → 2026-10-23 246（+10）
+2026-10-18 236 → 2026-10-24 247（+11）
 
 
 ---

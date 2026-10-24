@@ -1,6 +1,6 @@
 # conwnet/github1s
 
-⭐ 23,307 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/conwnet/github1s) · [官网](https://github1s.com) · 组织维护
+⭐ 23,306 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/conwnet/github1s) · [官网](https://github1s.com) · 组织维护
 
 **浏览器中秒开 GitHub 仓库的 VS Code 代码阅读器**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "conwnet/github1s 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "conwnet/github1s 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 23301 --> 23308
-    line [23302, 23304, 23306, 23307]
+    line [23302, 23304, 23306, 23307, 23306]
 ```
 
-2026-10-18 23,302 → 2026-10-23 23,307（+5）
+2026-10-18 23,302 → 2026-10-24 23,306（+4）
 
 
 ---

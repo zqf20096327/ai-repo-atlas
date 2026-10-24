@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinykit-studio/tinykit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "tinykit-studio/tinykit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 523 --> 526
-    line [524, 525]
+    line [524, 525, 525]
 ```
 
-2026-10-18 524 → 2026-10-23 525（+1）
+2026-10-18 524 → 2026-10-24 525（+1）
 
 
 ---

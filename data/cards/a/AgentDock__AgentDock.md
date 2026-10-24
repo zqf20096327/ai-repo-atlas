@@ -45,13 +45,13 @@ AgentDock Core 是开源的后端优先 agent 构建框架，基于节点化架�
 
 ```mermaid
 xychart-beta
-    title "AgentDock/AgentDock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "AgentDock/AgentDock 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1772 --> 1775
-    line [1773, 1774]
+    line [1773, 1774, 1774]
 ```
 
-2026-10-18 1,773 → 2026-10-23 1,774（+1）
+2026-10-18 1,773 → 2026-10-24 1,774（+1）
 
 
 ---

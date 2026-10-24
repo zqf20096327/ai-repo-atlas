@@ -1,6 +1,6 @@
 # microsoft/mcp-for-beginners
 
-⭐ 17,491 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/mcp-for-beginners) · 组织维护
+⭐ 17,503 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/mcp-for-beginners) · 组织维护
 
 **面向开发者的 MCP（模型上下文协议）入门教学课程**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/mcp-for-beginners 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 17465 --> 17493
-    line [17467, 17470, 17486, 17491]
+    title "microsoft/mcp-for-beginners 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 17464 --> 17506
+    line [17467, 17470, 17486, 17491, 17503]
 ```
 
-2026-10-18 17,467 → 2026-10-23 17,491（+24）
+2026-10-18 17,467 → 2026-10-24 17,503（+36）
 
 
 ---

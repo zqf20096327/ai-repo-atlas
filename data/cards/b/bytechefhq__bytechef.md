@@ -1,6 +1,6 @@
 # bytechefhq/bytechef
 
-⭐ 1,044 · Java · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/bytechefhq/bytechef) · [官网](https://www.bytechef.io) · 组织维护
+⭐ 1,044 · Java · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/bytechefhq/bytechef) · [官网](https://www.bytechef.io) · 组织维护
 
 **开源 AI agent 与工作流自动化平台，可自托管或嵌入 SaaS**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytechefhq/bytechef 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "bytechefhq/bytechef 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1020 --> 1046
-    line [1022, 1023, 1042, 1044]
+    line [1022, 1023, 1042, 1044, 1044]
 ```
 
-2026-10-18 1,022 → 2026-10-23 1,044（+22）
+2026-10-18 1,022 → 2026-10-24 1,044（+22）
 
 
 ---

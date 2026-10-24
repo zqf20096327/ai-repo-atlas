@@ -44,13 +44,13 @@ Stanford snap 组维护的大规模半结构化检索基准：覆盖 Amazon 产�
 
 ```mermaid
 xychart-beta
-    title "snap-stanford/stark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "snap-stanford/stark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 335 --> 338
-    line [336, 337]
+    line [336, 337, 337]
 ```
 
-2026-10-18 336 → 2026-10-23 337（+1）
+2026-10-18 336 → 2026-10-24 337（+1）
 
 
 ---

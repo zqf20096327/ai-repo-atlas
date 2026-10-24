@@ -1,6 +1,6 @@
 # Brain0-ai/brain0
 
-⭐ 317 · Rust · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/Brain0-ai/brain0) · 组织维护
+⭐ 317 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Brain0-ai/brain0) · 组织维护
 
 **AI 编码的黑盒审计工具：把每个 commit 关联到背后的 agent 意图**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Brain0-ai/brain0 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "Brain0-ai/brain0 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 316 --> 325
-    line [323, 324, 317]
+    line [323, 324, 317, 317]
 ```
 
-2026-10-18 323 → 2026-10-23 317（-6）
+2026-10-18 323 → 2026-10-24 317（-6）
 
 
 ---

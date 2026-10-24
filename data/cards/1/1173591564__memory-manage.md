@@ -40,6 +40,18 @@
 > L4: 按任务分段的事件日志，coding agent 的记忆层。写入侧零 LLM。TypeScript + SQLite/FTS5 + MCP。
 > L22: 状态：全部机制测试通过，`tsc --noEmit` 零错误。已导入 Devin 的 12 个真实会话、23,424 条去重事件并核对原文。Devin ACP provider 已打通（凭据本地注入、隔离会话库、`swe-2-ma
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "1173591564/memory-manage 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 184 --> 186
+    line [185, 185]
+```
+
+2026-10-23 185 → 2026-10-24 185（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `6979a3e01117` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # veda-sparse/Veda-on-ComfyUI
 
-⭐ 193 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/veda-sparse/Veda-on-ComfyUI) · [官网](https://veda-sparse.github.io/) · 组织维护 · 中文 README
+⭐ 195 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/veda-sparse/Veda-on-ComfyUI) · [官网](https://veda-sparse.github.io/) · 组织维护 · 中文 README
 
 **ComfyUI 节点：用学习式稀疏注意力加速 MiniMax-H3 视频生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "veda-sparse/Veda-on-ComfyUI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 178 --> 194
-    line [179, 189, 191, 193]
+    title "veda-sparse/Veda-on-ComfyUI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 178 --> 196
+    line [179, 189, 191, 193, 195]
 ```
 
-2026-10-18 179 → 2026-10-23 193（+14）
+2026-10-18 179 → 2026-10-24 195（+16）
 
 
 ---

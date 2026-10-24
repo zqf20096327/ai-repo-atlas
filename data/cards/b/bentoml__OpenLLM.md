@@ -1,6 +1,6 @@
 # bentoml/OpenLLM
 
-⭐ 12,560 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/bentoml/OpenLLM) · [官网](https://bentoml.com) · 组织维护
+⭐ 12,562 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bentoml/OpenLLM) · [官网](https://bentoml.com) · 组织维护
 
 **把开源 LLM 一条命令跑成 OpenAI 兼容 API 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bentoml/OpenLLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 12558 --> 12562
-    line [12559, 12560, 12561, 12560]
+    title "bentoml/OpenLLM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 12558 --> 12563
+    line [12559, 12560, 12561, 12560, 12562]
 ```
 
-2026-10-18 12,559 → 2026-10-23 12,560（+1）
+2026-10-18 12,559 → 2026-10-24 12,562（+3）
 
 
 ---

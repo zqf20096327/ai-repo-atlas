@@ -1,6 +1,6 @@
 # iamlukethedev/Herald-OS
 
-⭐ 542 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/iamlukethedev/Herald-OS) · 个人维护
+⭐ 548 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/iamlukethedev/Herald-OS) · 个人维护
 
 **以 AI agent 为交互界面的操作系统（macOS/Linux）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iamlukethedev/Herald-OS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 522 --> 543
-    line [523, 531, 539, 542]
+    title "iamlukethedev/Herald-OS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 521 --> 550
+    line [523, 531, 539, 542, 548]
 ```
 
-2026-10-18 523 → 2026-10-23 542（+19）
+2026-10-18 523 → 2026-10-24 548（+25）
 
 
 ---

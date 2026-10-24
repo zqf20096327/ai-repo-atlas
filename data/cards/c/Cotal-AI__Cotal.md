@@ -1,6 +1,6 @@
 # Cotal-AI/Cotal
 
-⭐ 336 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Cotal-AI/Cotal) · [官网](https://cotal.ai) · 组织维护
+⭐ 338 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Cotal-AI/Cotal) · [官网](https://cotal.ai) · 组织维护
 
 **给多 AI agent 协作的开放 pub/sub 协调标准**
 
@@ -45,13 +45,13 @@ Cotal 是一个面向 AI agent 的开放 pub/sub 标准：让多个 agent 在同
 
 ```mermaid
 xychart-beta
-    title "Cotal-AI/Cotal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 328 --> 337
-    line [329, 331, 333, 336]
+    title "Cotal-AI/Cotal 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 328 --> 339
+    line [329, 331, 333, 336, 338]
 ```
 
-2026-10-18 329 → 2026-10-23 336（+7）
+2026-10-18 329 → 2026-10-24 338（+9）
 
 
 ---

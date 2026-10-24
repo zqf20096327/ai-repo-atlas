@@ -1,6 +1,6 @@
 # zhitongblog/solomd
 
-⭐ 1,346 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zhitongblog/solomd) · [官网](https://solomd.app) · 个人维护 · 中文 README
+⭐ 1,352 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zhitongblog/solomd) · [官网](https://solomd.app) · 个人维护 · 中文 README
 
 **本地优先的 Markdown 编辑器，内置 MCP 供外部 agent 驱动笔记库**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhitongblog/solomd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1286 --> 1351
-    line [1291, 1306, 1335, 1346]
+    title "zhitongblog/solomd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1285 --> 1358
+    line [1291, 1306, 1335, 1346, 1352]
 ```
 
-2026-10-18 1,291 → 2026-10-23 1,346（+55）
+2026-10-18 1,291 → 2026-10-24 1,352（+61）
 
 
 ---

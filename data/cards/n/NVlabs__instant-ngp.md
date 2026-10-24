@@ -1,6 +1,6 @@
 # NVlabs/instant-ngp
 
-⭐ 17,580 · Cuda · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/NVlabs/instant-ngp) · [官网](https://nvlabs.github.io/instant-ngp) · 组织维护
+⭐ 17,579 · Cuda · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/NVlabs/instant-ngp) · [官网](https://nvlabs.github.io/instant-ngp) · 组织维护
 
 **给 NeRF/图形研究者：用哈希编码 MLP 秒级训练并渲染神经图形基元**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVlabs/instant-ngp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "NVlabs/instant-ngp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 17575 --> 17581
-    line [17577, 17576, 17578, 17580]
+    line [17577, 17576, 17578, 17580, 17579]
 ```
 
-2026-10-18 17,577 → 2026-10-23 17,580（+3）
+2026-10-18 17,577 → 2026-10-24 17,579（+2）
 
 
 ---

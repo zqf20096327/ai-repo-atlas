@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "VoltAgent/official-design-md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "VoltAgent/official-design-md 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 523 --> 527
-    line [524, 526]
+    line [524, 526, 526]
 ```
 
-2026-10-18 524 → 2026-10-23 526（+2）
+2026-10-18 524 → 2026-10-24 526（+2）
 
 
 ---

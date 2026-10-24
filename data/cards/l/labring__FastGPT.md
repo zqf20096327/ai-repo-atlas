@@ -1,6 +1,6 @@
 # labring/FastGPT
 
-⭐ 29,893 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/labring/FastGPT) · [官网](https://fastgpt.io) · 组织维护 · 中文 README
+⭐ 29,897 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/labring/FastGPT) · [官网](https://fastgpt.io) · 组织维护 · 中文 README
 
 **知识库问答应用构建平台：可视化工作流编排 + RAG**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "labring/FastGPT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 29843 --> 29897
-    line [29847, 29868, 29892, 29893]
+    title "labring/FastGPT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 29842 --> 29902
+    line [29847, 29868, 29892, 29893, 29897]
 ```
 
-2026-10-18 29,847 → 2026-10-23 29,893（+46）
+2026-10-18 29,847 → 2026-10-24 29,897（+50）
 
 
 ---

@@ -1,6 +1,6 @@
 # tradecatlabs/vibe-coding-cn
 
-⭐ 17,718 · Makefile · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tradecatlabs/vibe-coding-cn) · [官网](https://tradecatlabs.com/) · 个人维护 · 中文 README
+⭐ 17,737 · Makefile · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tradecatlabs/vibe-coding-cn) · [官网](https://tradecatlabs.com/) · 个人维护 · 中文 README
 
 **中文 Vibe Coding 资源工具箱：整理提示词、Skills 与方法文集**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "tradecatlabs/vibe-coding-cn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 17650 --> 17724
-    line [17656, 17686, 17709, 17718]
+    title "tradecatlabs/vibe-coding-cn 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 17648 --> 17745
+    line [17656, 17686, 17709, 17718, 17737]
 ```
 
-2026-10-18 17,656 → 2026-10-23 17,718（+62）
+2026-10-18 17,656 → 2026-10-24 17,737（+81）
 
 
 ---

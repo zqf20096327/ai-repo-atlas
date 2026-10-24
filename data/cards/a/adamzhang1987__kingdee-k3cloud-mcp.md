@@ -1,6 +1,6 @@
 # adamzhang1987/kingdee-k3cloud-mcp
 
-⭐ 95 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/adamzhang1987/kingdee-k3cloud-mcp) · [官网](https://adamzhang1987.github.io/kingdee-k3cloud-mcp/) · 个人维护 · 中文 README
+⭐ 96 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/adamzhang1987/kingdee-k3cloud-mcp) · [官网](https://adamzhang1987.github.io/kingdee-k3cloud-mcp/) · 个人维护 · 中文 README
 
 **让 AI 助手通过 MCP 自然语言操作金蝶云星空 ERP 的服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "adamzhang1987/kingdee-k3cloud-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 92 --> 96
-    line [93, 94, 95, 95]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 92 --> 97
+    line [93, 94, 95, 96]
 ```
 
-2026-10-18 93 → 2026-10-23 95（+2）
+2026-10-18 93 → 2026-10-24 96（+3）
 
 
 ---

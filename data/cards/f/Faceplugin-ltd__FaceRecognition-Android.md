@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-Android
 
-⭐ 465 · Kotlin · 推送 2026-10-02 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-Android) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
+⭐ 468 · Kotlin · 推送 2026-10-02 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-Android) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
 
 **Android 端人脸识别 SDK 演示应用：离线完成注册/1:N 识别与活体检测**
 
@@ -45,12 +45,12 @@ FacePlugin 公司的 Android 人脸识别 SDK 示例仓库：运行时为需从 
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceRecognition-Android 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 463 --> 466
-    line [464, 465, 465]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 463 --> 469
+    line [464, 465, 468]
 ```
 
-2026-10-18 464 → 2026-10-23 465（+1）
+2026-10-18 464 → 2026-10-24 468（+4）
 
 
 ---

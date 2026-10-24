@@ -1,6 +1,6 @@
 # zhu1090093659/spec_driven_develop
 
-⭐ 991 · Shell · MIT · 推送 2026-07-26 · [GitHub](https://github.com/zhu1090093659/spec_driven_develop) · 个人维护 · 中文 README
+⭐ 992 · Shell · MIT · 推送 2026-07-26 · [GitHub](https://github.com/zhu1090093659/spec_driven_develop) · 个人维护 · 中文 README
 
 **给 AI 编程 agent 的规格驱动开发工作流插件（纯 Markdown）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhu1090093659/spec_driven_develop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 988 --> 992
-    line [990, 989, 990, 991]
+    title "zhu1090093659/spec_driven_develop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 988 --> 993
+    line [990, 989, 990, 991, 992]
 ```
 
-2026-10-18 990 → 2026-10-23 991（+1）
+2026-10-18 990 → 2026-10-24 992（+2）
 
 
 ---

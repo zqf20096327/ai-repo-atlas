@@ -1,6 +1,6 @@
 # composio-community/awesome-codex-skills
 
-⭐ 16,991 · Python · 推送 2026-07-26 · [GitHub](https://github.com/composio-community/awesome-codex-skills) · 组织维护
+⭐ 17,002 · Python · 推送 2026-07-26 · [GitHub](https://github.com/composio-community/awesome-codex-skills) · 组织维护
 
 **为 Codex CLI/API 用户提供自动化工作流技能的策展清单**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "composio-community/awesome-codex-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 16936 --> 16996
-    line [16941, 16960, 16991]
+    title "composio-community/awesome-codex-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 16935 --> 17008
+    line [16941, 16960, 16991, 17002]
 ```
 
-2026-10-18 16,941 → 2026-10-23 16,991（+50）
+2026-10-18 16,941 → 2026-10-24 17,002（+61）
 
 
 ---

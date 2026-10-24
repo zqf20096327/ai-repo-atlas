@@ -1,6 +1,6 @@
 # zebbern/claude-code-guide
 
-⭐ 4,677 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zebbern/claude-code-guide) · 个人维护
+⭐ 4,678 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zebbern/claude-code-guide) · 个人维护
 
 **面向开发者的 Claude Code 使用指南（安装/命令/配置/MCP/技能）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zebbern/claude-code-guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4663 --> 4678
-    line [4664, 4668, 4675, 4677]
+    title "zebbern/claude-code-guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4663 --> 4679
+    line [4664, 4668, 4675, 4677, 4678]
 ```
 
-2026-10-18 4,664 → 2026-10-23 4,677（+13）
+2026-10-18 4,664 → 2026-10-24 4,678（+14）
 
 
 ---

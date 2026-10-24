@@ -1,6 +1,6 @@
 # e2b-dev/open-computer-use
 
-⭐ 2,382 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/e2b-dev/open-computer-use) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=open-computer-use) · 组织维护
+⭐ 2,384 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/e2b-dev/open-computer-use) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=open-computer-use) · 组织维护
 
 **开源 LLM 驱动的云 Linux 计算机操作 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "e2b-dev/open-computer-use 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2366 --> 2383
-    line [2367, 2373, 2379, 2382]
+    title "e2b-dev/open-computer-use 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2366 --> 2385
+    line [2367, 2373, 2379, 2382, 2384]
 ```
 
-2026-10-18 2,367 → 2026-10-23 2,382（+15）
+2026-10-18 2,367 → 2026-10-24 2,384（+17）
 
 
 ---

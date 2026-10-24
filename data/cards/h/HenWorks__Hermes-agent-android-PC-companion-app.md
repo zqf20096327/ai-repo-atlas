@@ -1,6 +1,6 @@
 # HenWorks/Hermes-agent-android-PC-companion-app
 
-⭐ 118 · Python · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/HenWorks/Hermes-agent-android-PC-companion-app) · 组织维护 · 中文 README
+⭐ 119 · Python · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/HenWorks/Hermes-agent-android-PC-companion-app) · 组织维护 · 中文 README
 
 **Hermes-agent 手机应用的 PC 伴侣：跨设备跑任务与会话接力**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HenWorks/Hermes-agent-android-PC-companion-app 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 113 --> 119
-    line [114, 115, 117, 118]
+    title "HenWorks/Hermes-agent-android-PC-companion-app 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 113 --> 120
+    line [114, 115, 117, 118, 119]
 ```
 
-2026-10-18 114 → 2026-10-23 118（+4）
+2026-10-18 114 → 2026-10-24 119（+5）
 
 
 ---

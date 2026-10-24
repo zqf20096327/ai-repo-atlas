@@ -1,6 +1,6 @@
 # ageitgey/face_recognition
 
-⭐ 56,846 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/ageitgey/face_recognition) · 个人维护
+⭐ 56,850 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/ageitgey/face_recognition) · 个人维护
 
 **给 Python/命令行用户提供的简单人脸识别库**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "ageitgey/face_recognition 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 56830 --> 56847
-    line [56831, 56837, 56843, 56846]
+    title "ageitgey/face_recognition 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 56830 --> 56851
+    line [56831, 56837, 56843, 56846, 56850]
 ```
 
-2026-10-18 56,831 → 2026-10-23 56,846（+15）
+2026-10-18 56,831 → 2026-10-24 56,850（+19）
 
 
 ---

@@ -45,12 +45,12 @@ AgentScope Java 2.0 是面向企业的 agent 构建框架，提供 HarnessAgent 
 ```mermaid
 xychart-beta
     title "agentscope-ai-java/agentscope-java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 93 --> 95
     line [94, 94]
 ```
 
-2026-10-18 94 → 2026-10-23 94（+0）
+2026-10-18 94 → 2026-10-24 94（+0）
 
 
 ---

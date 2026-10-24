@@ -1,6 +1,6 @@
 # ombharatiya/FAANG-Coding-Interview-Questions
 
-⭐ 6,075 · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) · [官网](https://www.aidaddy.tech) · 个人维护
+⭐ 6,081 · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) · [官网](https://www.aidaddy.tech) · 个人维护
 
 **FAANG/AI 实验室编程面试题策展清单，覆盖 44 家公司**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ombharatiya/FAANG-Coding-Interview-Questions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6058 --> 6076
-    line [6059, 6067, 6070, 6075]
+    title "ombharatiya/FAANG-Coding-Interview-Questions 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6057 --> 6083
+    line [6059, 6067, 6070, 6075, 6081]
 ```
 
-2026-10-18 6,059 → 2026-10-23 6,075（+16）
+2026-10-18 6,059 → 2026-10-24 6,081（+22）
 
 
 ---

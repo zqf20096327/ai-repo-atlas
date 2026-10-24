@@ -44,13 +44,13 @@ FireRedASR 提供两个开源 ASR 模型变体：FireRedASR-LLM（8.3B，Encoder
 
 ```mermaid
 xychart-beta
-    title "FireRedTeam/FireRedASR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "FireRedTeam/FireRedASR 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2005 --> 2009
-    line [2006, 2007, 2008]
+    line [2006, 2007, 2008, 2008]
 ```
 
-2026-10-18 2,006 → 2026-10-23 2,008（+2）
+2026-10-18 2,006 → 2026-10-24 2,008（+2）
 
 
 ---

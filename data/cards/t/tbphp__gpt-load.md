@@ -1,6 +1,6 @@
 # tbphp/gpt-load
 
-⭐ 7,165 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tbphp/gpt-load) · [官网](https://www.gpt-load.com) · 个人维护 · 中文 README
+⭐ 7,167 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tbphp/gpt-load) · [官网](https://www.gpt-load.com) · 个人维护 · 中文 README
 
 **自托管 AI 网关：多渠道多凭据统一接入与调度容错**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tbphp/gpt-load 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 7146 --> 7166
-    line [7147, 7151, 7165]
+    title "tbphp/gpt-load 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7145 --> 7169
+    line [7147, 7151, 7165, 7167]
 ```
 
-2026-10-18 7,147 → 2026-10-23 7,165（+18）
+2026-10-18 7,147 → 2026-10-24 7,167（+20）
 
 
 ---

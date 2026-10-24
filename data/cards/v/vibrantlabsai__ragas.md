@@ -1,6 +1,6 @@
 # vibrantlabsai/ragas
 
-⭐ 16,122 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/vibrantlabsai/ragas) · [官网](https://docs.ragas.io) · 组织维护
+⭐ 16,134 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/vibrantlabsai/ragas) · [官网](https://docs.ragas.io) · 组织维护
 
 **为 LLM 应用提供评估指标与测试集生成的工具包**
 
@@ -51,13 +51,13 @@ Python 工具包，提供 LLM 应用的客观评估指标（含 LLM-based 与传
 
 ```mermaid
 xychart-beta
-    title "vibrantlabsai/ragas 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 16039 --> 16129
-    line [16046, 16076, 16122]
+    title "vibrantlabsai/ragas 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 16038 --> 16142
+    line [16046, 16076, 16122, 16134]
 ```
 
-2026-10-18 16,046 → 2026-10-23 16,122（+76）
+2026-10-18 16,046 → 2026-10-24 16,134（+88）
 
 
 ---

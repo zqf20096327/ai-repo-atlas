@@ -1,6 +1,6 @@
 # ZackSecurity/Zack-AI-Scanner
 
-⭐ 102 · Java · GPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/ZackSecurity/Zack-AI-Scanner) · 个人维护 · 中文 README
+⭐ 103 · Java · GPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/ZackSecurity/Zack-AI-Scanner) · 个人维护 · 中文 README
 
 **Burp Suite 的 LLM 驱动漏洞扫描扩展：右键即可对请求做智能测试**
 
@@ -45,13 +45,13 @@ Burp Suite Java 扩展：对已捕获的请求（Proxy/Repeater/Target）按 11 
 
 ```mermaid
 xychart-beta
-    title "ZackSecurity/Zack-AI-Scanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 98 --> 103
-    line [99, 102]
+    title "ZackSecurity/Zack-AI-Scanner 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 98 --> 104
+    line [99, 102, 103]
 ```
 
-2026-10-18 99 → 2026-10-23 102（+3）
+2026-10-18 99 → 2026-10-24 103（+4）
 
 
 ---

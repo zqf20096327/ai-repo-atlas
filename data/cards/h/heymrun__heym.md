@@ -1,6 +1,6 @@
 # heymrun/heym
 
-⭐ 1,286 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/heymrun/heym) · [官网](https://heym.run) · 组织维护
+⭐ 1,298 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/heymrun/heym) · [官网](https://heym.run) · 组织维护
 
 **自托管的 agent 系统构建与运行平台，覆盖编排/评测/人审**
 
@@ -45,13 +45,13 @@ Heym 是自托管的 agentic 系统运行时与平台：通过可视化画布或
 
 ```mermaid
 xychart-beta
-    title "heymrun/heym 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1181 --> 1295
-    line [1190, 1222, 1251, 1286]
+    title "heymrun/heym 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1180 --> 1308
+    line [1190, 1222, 1251, 1286, 1298]
 ```
 
-2026-10-18 1,190 → 2026-10-23 1,286（+96）
+2026-10-18 1,190 → 2026-10-24 1,298（+108）
 
 
 ---

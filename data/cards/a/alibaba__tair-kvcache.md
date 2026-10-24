@@ -1,6 +1,6 @@
 # alibaba/tair-kvcache
 
-⭐ 272 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/alibaba/tair-kvcache) · 组织维护 · 中文 README
+⭐ 275 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaba/tair-kvcache) · 组织维护 · 中文 README
 
 **面向 LLM 推理的全局 KVCache 管理与推理模拟系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba/tair-kvcache 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 267 --> 273
-    line [268, 271, 272]
+    title "alibaba/tair-kvcache 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 267 --> 276
+    line [268, 271, 272, 275]
 ```
 
-2026-10-18 268 → 2026-10-23 272（+4）
+2026-10-18 268 → 2026-10-24 275（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # rnchg/APT
 
-⭐ 773 · C# · MIT · 推送 2025-12-13 · [GitHub](https://github.com/rnchg/APT) · 个人维护 · 中文 README
+⭐ 772 · C# · MIT · 推送 2025-12-13 · [GitHub](https://github.com/rnchg/APT) · 个人维护 · 中文 README
 
 **面向普通用户的本地离线 AI 图片/视频/音频批量处理桌面工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rnchg/APT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "rnchg/APT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 771 --> 774
-    line [772, 773]
+    line [772, 773, 772]
 ```
 
-2026-10-18 772 → 2026-10-23 773（+1）
+2026-10-18 772 → 2026-10-24 772（+0）
 
 
 ---

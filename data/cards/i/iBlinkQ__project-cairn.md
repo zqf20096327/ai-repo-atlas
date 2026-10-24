@@ -1,6 +1,6 @@
 # iBlinkQ/project-cairn
 
-⭐ 244 · Shell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/iBlinkQ/project-cairn) · 个人维护 · 中文 README
+⭐ 245 · Shell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/iBlinkQ/project-cairn) · 个人维护 · 中文 README
 
 **面向 Claude Code/Codex 的 agent 技能：把项目经验沉淀为可复用知识**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iBlinkQ/project-cairn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 240 --> 245
-    line [241, 243, 244]
+    title "iBlinkQ/project-cairn 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 240 --> 246
+    line [241, 243, 244, 245]
 ```
 
-2026-10-18 241 → 2026-10-23 244（+3）
+2026-10-18 241 → 2026-10-24 245（+4）
 
 
 ---

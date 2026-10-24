@@ -1,6 +1,6 @@
 # blue-idea/linkit
 
-⭐ 96 · JavaScript · 推送 2026-10-22 · [GitHub](https://github.com/blue-idea/linkit) · [官网](https://github.com/blue-idea/linkit/releases) · 个人维护 · 中文 README
+⭐ 101 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/blue-idea/linkit) · [官网](https://github.com/blue-idea/linkit/releases) · 个人维护 · 中文 README
 
 **带 AI 摘要与语义搜索的书签/知识管理桌面应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "blue-idea/linkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 67 --> 98
-    line [69, 70, 85, 96]
+    title "blue-idea/linkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 66 --> 104
+    line [69, 70, 85, 96, 101]
 ```
 
-2026-10-18 69 → 2026-10-23 96（+27）
+2026-10-18 69 → 2026-10-24 101（+32）
 
 
 ---

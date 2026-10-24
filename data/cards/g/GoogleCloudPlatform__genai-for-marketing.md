@@ -45,12 +45,12 @@ Google CloudPlatform 官方仓库，提供可经 Terraform 一键部署的营销
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/genai-for-marketing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 516 --> 519
     line [517, 518, 518]
 ```
 
-2026-10-18 517 → 2026-10-23 518（+1）
+2026-10-18 517 → 2026-10-24 518（+1）
 
 
 ---

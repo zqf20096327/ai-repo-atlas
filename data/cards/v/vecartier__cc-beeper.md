@@ -1,6 +1,6 @@
 # vecartier/cc-beeper
 
-⭐ 175 · Swift · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/vecartier/cc-beeper) · 个人维护
+⭐ 176 · Swift · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/vecartier/cc-beeper) · 个人维护
 
 **macOS 桌面挂件：实时查看 Claude Code 状态并语音应答权限请求**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vecartier/cc-beeper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 174 --> 176
-    line [175, 175]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 174 --> 177
+    line [175, 176]
 ```
 
-2026-10-18 175 → 2026-10-23 175（+0）
+2026-10-18 175 → 2026-10-24 176（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Google DeepMind 发布的 AlphaGeometry2 符号引擎 DDAR 的复现代码库。
 ```mermaid
 xychart-beta
     title "google-deepmind/alphageometry2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 105 --> 107
     line [106, 106]
 ```
 
-2026-10-18 106 → 2026-10-23 106（+0）
+2026-10-18 106 → 2026-10-24 106（+0）
 
 
 ---

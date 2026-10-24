@@ -1,6 +1,6 @@
 # fw-ai/cookbook
 
-⭐ 229 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/fw-ai/cookbook) · [官网](https://fireworks.ai/docs) · 组织维护
+⭐ 230 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/fw-ai/cookbook) · [官网](https://fireworks.ai/docs) · 组织维护
 
 **Fireworks 平台训练教程与 agent 技能集：RL/DPO/SFT 等训练循环示例**
 
@@ -44,13 +44,13 @@ Fireworks AI 官方 cookbook 仓库：提供训练循环与示例，覆盖 RL（
 
 ```mermaid
 xychart-beta
-    title "fw-ai/cookbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 226 --> 230
-    line [228, 227, 229]
+    title "fw-ai/cookbook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 226 --> 231
+    line [228, 227, 229, 230]
 ```
 
-2026-10-18 228 → 2026-10-23 229（+1）
+2026-10-18 228 → 2026-10-24 230（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # kirill-markin/repo-to-text
 
-⭐ 211 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/kirill-markin/repo-to-text) · [官网](https://pypi.org/project/repo-to-text/) · 个人维护
+⭐ 211 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kirill-markin/repo-to-text) · [官网](https://pypi.org/project/repo-to-text/) · 个人维护
 
 **把仓库目录树与文件内容转成单个文本文件，便于分享给 LLM**
 
@@ -45,12 +45,12 @@ Python 命令行工具，在仓库目录下运行后生成带时间戳的文本�
 ```mermaid
 xychart-beta
     title "kirill-markin/repo-to-text 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 210 --> 212
     line [211, 211]
 ```
 
-2026-10-18 211 → 2026-10-23 211（+0）
+2026-10-18 211 → 2026-10-24 211（+0）
 
 
 ---

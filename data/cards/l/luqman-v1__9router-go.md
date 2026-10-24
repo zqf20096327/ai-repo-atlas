@@ -1,6 +1,6 @@
 # luqman-v1/9router-go
 
-⭐ 219 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/luqman-v1/9router-go) · [官网](https://luqman-v1.github.io/9router-go/) · 个人维护
+⭐ 224 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/luqman-v1/9router-go) · [官网](https://luqman-v1.github.io/9router-go/) · 个人维护
 
 **单二进制 Go 版 LLM 代理网关：路由 40+ 提供商并压缩 token**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "luqman-v1/9router-go 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 203 --> 220
-    line [204, 211, 219]
+    title "luqman-v1/9router-go 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 202 --> 226
+    line [204, 211, 219, 224]
 ```
 
-2026-10-18 204 → 2026-10-23 219（+15）
+2026-10-18 204 → 2026-10-24 224（+20）
 
 
 ---

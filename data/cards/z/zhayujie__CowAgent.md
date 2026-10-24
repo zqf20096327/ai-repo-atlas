@@ -1,6 +1,6 @@
 # zhayujie/CowAgent
 
-⭐ 47,505 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zhayujie/CowAgent) · [官网](https://cowagent.ai) · 个人维护 · 中文 README
+⭐ 47,520 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zhayujie/CowAgent) · [官网](https://cowagent.ai) · 个人维护 · 中文 README
 
 **个人 AI 助手框架：任务规划、工具技能、多渠道接入**
 
@@ -52,13 +52,13 @@ CowAgent 是一个开源自托管个人 AI 助手/Agent Harness 参考实现：�
 
 ```mermaid
 xychart-beta
-    title "zhayujie/CowAgent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 47435 --> 47511
-    line [47441, 47466, 47497, 47505]
+    title "zhayujie/CowAgent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 47434 --> 47527
+    line [47441, 47466, 47497, 47505, 47520]
 ```
 
-2026-10-18 47,441 → 2026-10-23 47,505（+64）
+2026-10-18 47,441 → 2026-10-24 47,520（+79）
 
 
 ---

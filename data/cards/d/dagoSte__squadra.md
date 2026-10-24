@@ -1,6 +1,6 @@
 # dagoSte/squadra
 
-⭐ 324 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dagoSte/squadra) · 个人维护
+⭐ 373 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dagoSte/squadra) · 个人维护
 
 **协调 Claude Code/Codex/Cursor 多窗口协作的本地团队技能工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dagoSte/squadra 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 243 --> 331
-    line [250, 255, 268, 324]
+    title "dagoSte/squadra 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 238 --> 385
+    line [250, 255, 268, 324, 373]
 ```
 
-2026-10-18 250 → 2026-10-23 324（+74）
+2026-10-18 250 → 2026-10-24 373（+123）
 
 
 ---

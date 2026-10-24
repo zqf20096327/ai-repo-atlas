@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan3D-2
 
-⭐ 15,182 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) · [官网](https://3d.hunyuan.tencent.com/) · 组织维护 · 中文 README
+⭐ 15,189 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) · [官网](https://3d.hunyuan.tencent.com/) · 组织维护 · 中文 README
 
 **给创作者/开发者的图像与文本生成高分辨率带纹理 3D 资产的扩散模型系统**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hunyuan3D-2 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 15138 --> 15186
-    line [15142, 15160, 15169, 15182]
+    title "Tencent-Hunyuan/Hunyuan3D-2 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 15138 --> 15193
+    line [15142, 15160, 15169, 15182, 15189]
 ```
 
-2026-10-18 15,142 → 2026-10-23 15,182（+40）
+2026-10-18 15,142 → 2026-10-24 15,189（+47）
 
 
 ---

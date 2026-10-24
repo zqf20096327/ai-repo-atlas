@@ -45,13 +45,13 @@ DeepSpeech2 论文的 PaddlePaddle 实现，提供端到端 ASR 训练与推理�
 
 ```mermaid
 xychart-beta
-    title "yeyupiaoling/PaddlePaddle-DeepSpeech 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "yeyupiaoling/PaddlePaddle-DeepSpeech 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 762 --> 765
-    line [763, 764]
+    line [763, 764, 764]
 ```
 
-2026-10-18 763 → 2026-10-23 764（+1）
+2026-10-18 763 → 2026-10-24 764（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sgaofen/humanizer-local-model
 
-⭐ 475 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/sgaofen/humanizer-local-model) · [官网](https://huggingface.co/jialinyyzz/humanizer) · 个人维护 · 中文 README
+⭐ 496 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/sgaofen/humanizer-local-model) · [官网](https://huggingface.co/jialinyyzz/humanizer) · 个人维护 · 中文 README
 
 **本地运行的 12B 模型：把 AI 草稿改写得像人写的**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sgaofen/humanizer-local-model 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 331 --> 488
-    line [344, 395, 451, 475]
+    title "sgaofen/humanizer-local-model 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 329 --> 511
+    line [344, 395, 451, 475, 496]
 ```
 
-2026-10-18 344 → 2026-10-23 475（+131）
+2026-10-18 344 → 2026-10-24 496（+152）
 
 
 ---

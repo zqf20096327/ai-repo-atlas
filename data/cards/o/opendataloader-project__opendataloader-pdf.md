@@ -1,6 +1,6 @@
 # opendataloader-project/opendataloader-pdf
 
-⭐ 29,904 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/opendataloader-project/opendataloader-pdf) · [官网](https://opendataloader.org) · 组织维护
+⭐ 29,978 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/opendataloader-project/opendataloader-pdf) · [官网](https://opendataloader.org) · 组织维护
 
 **为 AI 数据管道解析 PDF 的开源工具：输出 Markdown/JSON/HTML**
 
@@ -51,13 +51,13 @@ Python/Node.js/Java 三种 SDK 提供的 PDF 解析器：本地确定性模式�
 
 ```mermaid
 xychart-beta
-    title "opendataloader-project/opendataloader-pdf 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 29713 --> 29921
-    line [29730, 29748, 29755, 29904]
+    title "opendataloader-project/opendataloader-pdf 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 29706 --> 30002
+    line [29730, 29748, 29755, 29904, 29978]
 ```
 
-2026-10-18 29,730 → 2026-10-23 29,904（+174）
+2026-10-18 29,730 → 2026-10-24 29,978（+248）
 
 
 ---

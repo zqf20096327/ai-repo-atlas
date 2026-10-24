@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "postgres-ai/database-lab-engine 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-23"]
+    title "postgres-ai/database-lab-engine 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2777 --> 2781
-    line [2778, 2780]
+    line [2778, 2780, 2780]
 ```
 
-2026-10-19 2,778 → 2026-10-23 2,780（+2）
+2026-10-19 2,778 → 2026-10-24 2,780（+2）
 
 
 ---

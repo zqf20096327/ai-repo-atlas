@@ -44,12 +44,12 @@ NeuralGenetic 是 PyGAD 库的 pygad.gann 模块源码仓库，用于以遗传�
 ```mermaid
 xychart-beta
     title "ahmedfgad/NeuralGenetic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 253 --> 255
     line [254, 254]
 ```
 
-2026-10-18 254 → 2026-10-23 254（+0）
+2026-10-18 254 → 2026-10-24 254（+0）
 
 
 ---

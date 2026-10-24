@@ -1,6 +1,6 @@
 # birdnet-team/BirdNET-Analyzer
 
-⭐ 1,741 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/birdnet-team/BirdNET-Analyzer) · [官网](https://birdnet-team.github.io/BirdNET-Analyzer/) · 组织维护
+⭐ 1,742 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/birdnet-team/BirdNET-Analyzer) · [官网](https://birdnet-team.github.io/BirdNET-Analyzer/) · 组织维护
 
 **面向科研的鸟类鸣声 AI 识别分析工具**
 
@@ -45,12 +45,12 @@ BirdNET 的脚本集合，用于处理大批量音频或单个音频文件，通
 ```mermaid
 xychart-beta
     title "birdnet-team/BirdNET-Analyzer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1738 --> 1742
-    line [1739, 1741, 1741]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1738 --> 1743
+    line [1739, 1741, 1742]
 ```
 
-2026-10-18 1,739 → 2026-10-23 1,741（+2）
+2026-10-18 1,739 → 2026-10-24 1,742（+3）
 
 
 ---

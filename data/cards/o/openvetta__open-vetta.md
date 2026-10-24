@@ -1,6 +1,6 @@
 # openvetta/open-vetta
 
-⭐ 299 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/openvetta/open-vetta) · [官网](https://www.openvetta.com) · 组织维护 · 中文 README
+⭐ 298 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openvetta/open-vetta) · [官网](https://www.openvetta.com) · 组织维护 · 中文 README
 
 **本地优先的开源桌面 AI agent，用于编码与实际工作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openvetta/open-vetta 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 297 --> 300
-    line [298, 299, 299]
+    line [298, 299, 298]
 ```
 
-2026-10-18 298 → 2026-10-23 299（+1）
+2026-10-18 298 → 2026-10-24 298（+0）
 
 
 ---

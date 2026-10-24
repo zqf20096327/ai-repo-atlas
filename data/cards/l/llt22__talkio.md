@@ -1,6 +1,6 @@
 # llt22/talkio
 
-⭐ 344 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/llt22/talkio) · 个人维护 · 中文 README
+⭐ 345 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/llt22/talkio) · 个人维护 · 中文 README
 
 **本地优先的多模型群聊桌面应用，多个 AI 同场对话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "llt22/talkio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 341 --> 345
-    line [342, 344, 343, 344]
+    title "llt22/talkio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 341 --> 346
+    line [342, 344, 343, 344, 345]
 ```
 
-2026-10-18 342 → 2026-10-23 344（+2）
+2026-10-18 342 → 2026-10-24 345（+3）
 
 
 ---

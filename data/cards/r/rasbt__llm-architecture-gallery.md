@@ -1,6 +1,6 @@
 # rasbt/llm-architecture-gallery
 
-⭐ 1,588 · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/rasbt/llm-architecture-gallery) · [官网](https://sebastianraschka.com/llm-architecture-gallery/) · 个人维护
+⭐ 1,590 · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/rasbt/llm-architecture-gallery) · [官网](https://sebastianraschka.com/llm-architecture-gallery/) · 个人维护
 
 **LLM Architecture Gallery 的模型元数据源数据仓库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "rasbt/llm-architecture-gallery 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1579 --> 1589
-    line [1580, 1584, 1588]
+    title "rasbt/llm-architecture-gallery 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1579 --> 1591
+    line [1580, 1584, 1588, 1590]
 ```
 
-2026-10-18 1,580 → 2026-10-23 1,588（+8）
+2026-10-18 1,580 → 2026-10-24 1,590（+10）
 
 
 ---

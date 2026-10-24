@@ -1,6 +1,6 @@
 # ziwenhahaha/daily-paper-reader
 
-⭐ 962 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ziwenhahaha/daily-paper-reader) · [官网](https://ziwenhahaha.github.io/daily-paper-reader/) · 个人维护 · 中文 README
+⭐ 964 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ziwenhahaha/daily-paper-reader) · [官网](https://ziwenhahaha.github.io/daily-paper-reader/) · 个人维护 · 中文 README
 
 **每日 arXiv/OpenReview 论文推荐与 AI 阅读的自部署平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ziwenhahaha/daily-paper-reader 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 952 --> 963
-    line [953, 954, 962]
+    title "ziwenhahaha/daily-paper-reader 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 952 --> 965
+    line [953, 954, 962, 964]
 ```
 
-2026-10-18 953 → 2026-10-23 962（+9）
+2026-10-18 953 → 2026-10-24 964（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # ColinGPT9/clips-studio
 
-⭐ 138 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ColinGPT9/clips-studio) · [官网](https://colingpt9.github.io/clips-studio/) · 个人维护 · 中文 README
+⭐ 140 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ColinGPT9/clips-studio) · [官网](https://colingpt9.github.io/clips-studio/) · 个人维护 · 中文 README
 
 **本地 AI 视频切片工具：把直播/长视频自动剪成竖屏短视频**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ColinGPT9/clips-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 109 --> 140
-    line [111, 124, 131, 138]
+    title "ColinGPT9/clips-studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 109 --> 142
+    line [111, 124, 131, 138, 140]
 ```
 
-2026-10-18 111 → 2026-10-23 138（+27）
+2026-10-18 111 → 2026-10-24 140（+29）
 
 
 ---

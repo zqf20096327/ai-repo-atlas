@@ -1,6 +1,6 @@
 # WizisCool/oh-my-cpa
 
-⭐ 227 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/WizisCool/oh-my-cpa) · [官网](https://omc-demo.junze.dev) · 个人维护 · 中文 README
+⭐ 231 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/WizisCool/oh-my-cpa) · [官网](https://omc-demo.junze.dev) · 个人维护 · 中文 README
 
 **CLIProxyAPI 网关的自托管管理与用量观测控制台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WizisCool/oh-my-cpa 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 197 --> 229
-    line [199, 216, 221, 227]
+    title "WizisCool/oh-my-cpa 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 196 --> 234
+    line [199, 216, 221, 227, 231]
 ```
 
-2026-10-18 199 → 2026-10-23 227（+28）
+2026-10-18 199 → 2026-10-24 231（+32）
 
 
 ---

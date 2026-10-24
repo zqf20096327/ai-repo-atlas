@@ -1,6 +1,6 @@
 # mostlygeek/llama-swap
 
-⭐ 6,053 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mostlygeek/llama-swap) · 个人维护
+⭐ 6,063 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mostlygeek/llama-swap) · 个人维护
 
 **本地多模型热切换代理：统一 OpenAI/Anthropic API 按需换模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mostlygeek/llama-swap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5984 --> 6059
-    line [5990, 6015, 6041, 6053]
+    title "mostlygeek/llama-swap 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5983 --> 6070
+    line [5990, 6015, 6041, 6053, 6063]
 ```
 
-2026-10-18 5,990 → 2026-10-23 6,053（+63）
+2026-10-18 5,990 → 2026-10-24 6,063（+73）
 
 
 ---

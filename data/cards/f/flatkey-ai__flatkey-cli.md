@@ -1,6 +1,6 @@
 # flatkey-ai/flatkey-cli
 
-⭐ 875 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/flatkey-ai/flatkey-cli) · [官网](https://flatkey.ai/?utm_source=github&utm_medium=repo_homepage&utm_campaign=flatkey_cli) · 组织维护
+⭐ 876 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/flatkey-ai/flatkey-cli) · [官网](https://flatkey.ai/?utm_source=github&utm_medium=repo_homepage&utm_campaign=flatkey_cli) · 组织维护
 
 **面向媒体团队与 AI agent 的多模态生成 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "flatkey-ai/flatkey-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "flatkey-ai/flatkey-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 872 --> 914
-    line [911, 875]
+    line [911, 875, 876]
 ```
 
-2026-10-18 911 → 2026-10-23 875（-36）
+2026-10-18 911 → 2026-10-24 876（-35）
 
 
 ---

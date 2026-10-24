@@ -1,6 +1,6 @@
 # asaotomo/Hx0-HawkEye
 
-⭐ 98 · 推送 2026-10-14 · [GitHub](https://github.com/asaotomo/Hx0-HawkEye) · [官网](https://www.hx0.store/products/hawkeye) · 个人维护 · 中文 README
+⭐ 99 · 推送 2026-10-14 · [GitHub](https://github.com/asaotomo/Hx0-HawkEye) · [官网](https://www.hx0.store/products/hawkeye) · 个人维护 · 中文 README
 
 **浏览器安全工作台扩展：抓包/拦截/重放/Fuzz 集成 AI 与 MCP**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "asaotomo/Hx0-HawkEye 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 96 --> 99
-    line [97, 98, 98]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 96 --> 100
+    line [97, 98, 99]
 ```
 
-2026-10-18 97 → 2026-10-23 98（+1）
+2026-10-18 97 → 2026-10-24 99（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # PlagueKind/ComfyUI-PlagueKind-Nodes
 
-⭐ 208 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes) · 个人维护
+⭐ 209 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes) · 个人维护
 
 **ComfyUI 自定义节点集：图像/遮罩统一缩放、可视裁剪、LoRA 堆叠与 H3 补丁**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PlagueKind/ComfyUI-PlagueKind-Nodes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 205 --> 209
-    line [206, 208, 208]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 205 --> 210
+    line [206, 208, 209]
 ```
 
-2026-10-18 206 → 2026-10-23 208（+2）
+2026-10-18 206 → 2026-10-24 209（+3）
 
 
 ---

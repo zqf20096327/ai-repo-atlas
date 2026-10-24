@@ -1,6 +1,6 @@
 # AmanCode22/deeperseeker
 
-⭐ 203 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/AmanCode22/deeperseeker) · 个人维护
+⭐ 206 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AmanCode22/deeperseeker) · 个人维护
 
 **把 DeepSeek 网页账号封装为 OpenAI/Anthropic 兼容 API 的反向代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmanCode22/deeperseeker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 199 --> 204
-    line [201, 200, 202, 203]
+    title "AmanCode22/deeperseeker 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 199 --> 207
+    line [201, 200, 202, 203, 206]
 ```
 
-2026-10-18 201 → 2026-10-23 203（+2）
+2026-10-18 201 → 2026-10-24 206（+5）
 
 
 ---

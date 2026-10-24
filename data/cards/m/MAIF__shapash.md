@@ -1,6 +1,6 @@
 # MAIF/shapash
 
-⭐ 3,269 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/MAIF/shapash) · [官网](https://maif.github.io/shapash/) · 组织维护
+⭐ 3,270 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/MAIF/shapash) · [官网](https://maif.github.io/shapash/) · 组织维护
 
 **Python 库：让机器学习模型可解释，产出 Webapp 与审计报告**
 
@@ -44,13 +44,13 @@ MAIF 维护的机器学习可解释性 Python 库，作为 SHAP/Lime 等贡献�
 
 ```mermaid
 xychart-beta
-    title "MAIF/shapash 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3263 --> 3270
-    line [3264, 3266, 3267, 3269]
+    title "MAIF/shapash 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3263 --> 3271
+    line [3264, 3266, 3267, 3269, 3270]
 ```
 
-2026-10-18 3,264 → 2026-10-23 3,269（+5）
+2026-10-18 3,264 → 2026-10-24 3,270（+6）
 
 
 ---

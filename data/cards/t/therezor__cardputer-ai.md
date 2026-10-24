@@ -1,6 +1,6 @@
 # therezor/cardputer-ai
 
-⭐ 120 · C++ · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/therezor/cardputer-ai) · 个人维护
+⭐ 121 · C++ · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/therezor/cardputer-ai) · 个人维护
 
 **跑在 ESP32-S3 微控制器上的完全离线 8M 参数小型聊天模型固件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "therezor/cardputer-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 117 --> 121
-    line [118, 119, 120, 120]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 117 --> 122
+    line [118, 119, 120, 121]
 ```
 
-2026-10-18 118 → 2026-10-23 120（+2）
+2026-10-18 118 → 2026-10-24 121（+3）
 
 
 ---

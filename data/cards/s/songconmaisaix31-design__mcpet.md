@@ -1,6 +1,6 @@
 # songconmaisaix31-design/mcpet
 
-⭐ 308 · Python · 推送 2026-10-16 · [GitHub](https://github.com/songconmaisaix31-design/mcpet) · 个人维护 · 中文 README
+⭐ 312 · Python · 推送 2026-10-16 · [GitHub](https://github.com/songconmaisaix31-design/mcpet) · 个人维护 · 中文 README
 
 **麦当劳主题 AI 桌宠：盯 Agent 进度与 token 余额，提醒干饭查券**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "songconmaisaix31-design/mcpet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 60 --> 330
-    line [82, 268, 287, 308]
+    title "songconmaisaix31-design/mcpet 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 59 --> 335
+    line [82, 268, 287, 308, 312]
 ```
 
-2026-10-18 82 → 2026-10-23 308（+226）
+2026-10-18 82 → 2026-10-24 312（+230）
 
 
 ---

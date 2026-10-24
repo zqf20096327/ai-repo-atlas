@@ -1,6 +1,6 @@
 # tphakala/birdnet-go
 
-⭐ 2,328 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/tphakala/birdnet-go) · 个人维护
+⭐ 2,343 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/tphakala/birdnet-go) · 个人维护
 
 **自托管 24/7 实时鸟鸣与蝙蝠声音识别系统，可跑在树莓派上**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tphakala/birdnet-go 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2306 --> 2330
-    line [2308, 2316, 2322, 2328]
+    title "tphakala/birdnet-go 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2305 --> 2346
+    line [2308, 2316, 2322, 2328, 2343]
 ```
 
-2026-10-18 2,308 → 2026-10-23 2,328（+20）
+2026-10-18 2,308 → 2026-10-24 2,343（+35）
 
 
 ---

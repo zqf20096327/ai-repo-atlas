@@ -1,6 +1,6 @@
 # Luisacaotica/ComfyUI-MiniMaxH3Mod
 
-⭐ 548 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod) · 个人维护
+⭐ 556 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod) · 个人维护
 
 **ComfyUI 自定义节点包：免训练压缩 MiniMax H3 图/视频/音频参考**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Luisacaotica/ComfyUI-MiniMaxH3Mod 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 440 --> 557
-    line [449, 475, 540, 548]
+    title "Luisacaotica/ComfyUI-MiniMaxH3Mod 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 439 --> 566
+    line [449, 475, 540, 548, 556]
 ```
 
-2026-10-18 449 → 2026-10-23 548（+99）
+2026-10-18 449 → 2026-10-24 556（+107）
 
 
 ---

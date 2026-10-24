@@ -1,6 +1,6 @@
 # mikhashev/personal-context-manager
 
-⭐ 106 · MIT · 推送 2026-02-26 · [GitHub](https://github.com/mikhashev/personal-context-manager) · 个人维护
+⭐ 107 · MIT · 推送 2026-02-26 · [GitHub](https://github.com/mikhashev/personal-context-manager) · 个人维护
 
 **AI 个性化的个人上下文技术防御性公开与规范模板集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mikhashev/personal-context-manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 105 --> 108
+    line [106, 107]
 ```
 
-2026-10-18 106 → 2026-10-23 106（+0）
+2026-10-18 106 → 2026-10-24 107（+1）
 
 
 ---

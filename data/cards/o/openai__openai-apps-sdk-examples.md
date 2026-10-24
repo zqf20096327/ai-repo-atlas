@@ -44,13 +44,13 @@ OpenAI 维护的 Apps SDK 示例仓库，展示可与 ChatGPT 配合使用的 UI
 
 ```mermaid
 xychart-beta
-    title "openai/openai-apps-sdk-examples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "openai/openai-apps-sdk-examples 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2370 --> 2375
-    line [2371, 2372, 2374]
+    line [2371, 2372, 2374, 2374]
 ```
 
-2026-10-18 2,371 → 2026-10-23 2,374（+3）
+2026-10-18 2,371 → 2026-10-24 2,374（+3）
 
 
 ---

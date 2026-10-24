@@ -1,6 +1,6 @@
 # eclarson/MachineLearningNotebooks
 
-⭐ 172 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/eclarson/MachineLearningNotebooks) · [官网](https://s2.smu.edu/~eclarson/teaching.html) · 组织维护
+⭐ 172 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/eclarson/MachineLearningNotebooks) · [官网](https://s2.smu.edu/~eclarson/teaching.html) · 组织维护
 
 **SMU 神经网络课程讲义与代码仓库（CS5324/CS7324）**
 
@@ -44,12 +44,12 @@ SMU 课程 CS5324/CS7324《Neural Networks I》的教学仓库，前身课程名
 ```mermaid
 xychart-beta
     title "eclarson/MachineLearningNotebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 171 --> 173
     line [172, 172]
 ```
 
-2026-10-18 172 → 2026-10-23 172（+0）
+2026-10-18 172 → 2026-10-24 172（+0）
 
 
 ---

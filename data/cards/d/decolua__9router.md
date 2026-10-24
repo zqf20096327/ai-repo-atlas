@@ -1,6 +1,6 @@
 # decolua/9router
 
-⭐ 31,223 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/decolua/9router) · [官网](https://9router.com) · 个人维护
+⭐ 31,290 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/decolua/9router) · [官网](https://9router.com) · 个人维护
 
 **为 AI 编码 CLI 工具聚合 40+ 模型提供商的本地路由网关**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "decolua/9router 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 30930 --> 31249
-    line [30956, 31071, 31223]
+    title "decolua/9router 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 30923 --> 31323
+    line [30956, 31071, 31223, 31290]
 ```
 
-2026-10-18 30,956 → 2026-10-23 31,223（+267）
+2026-10-18 30,956 → 2026-10-24 31,290（+334）
 
 
 ---

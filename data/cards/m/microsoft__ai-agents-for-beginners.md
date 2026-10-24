@@ -1,6 +1,6 @@
 # microsoft/ai-agents-for-beginners
 
-⭐ 77,690 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/ai-agents-for-beginners) · [官网](https://aka.ms/ai-agents-beginners) · 组织维护
+⭐ 77,760 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/ai-agents-for-beginners) · [官网](https://aka.ms/ai-agents-beginners) · 组织维护
 
 **面向初学者的 AI Agent 构建 18 课教程课程**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/ai-agents-for-beginners 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 77305 --> 77725
-    line [77340, 77468, 77611, 77690]
+    title "microsoft/ai-agents-for-beginners 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 77298 --> 77802
+    line [77340, 77468, 77611, 77690, 77760]
 ```
 
-2026-10-18 77,340 → 2026-10-23 77,690（+350）
+2026-10-18 77,340 → 2026-10-24 77,760（+420）
 
 
 ---

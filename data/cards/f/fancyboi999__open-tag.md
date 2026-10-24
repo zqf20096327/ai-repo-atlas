@@ -47,12 +47,12 @@ Slack 风格的自托管协作平台，人与 AI agent（Claude Code、Codex、G
 ```mermaid
 xychart-beta
     title "fancyboi999/open-tag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 211 --> 213
     line [212, 212]
 ```
 
-2026-10-18 212 → 2026-10-23 212（+0）
+2026-10-18 212 → 2026-10-24 212（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ariadng/metatrader-mcp-server
 
-⭐ 833 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/ariadng/metatrader-mcp-server) · 个人维护
+⭐ 835 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/ariadng/metatrader-mcp-server) · 个人维护
 
 **连接 AI 助手与 MetaTrader 5 的 MCP 服务器：自然语言交易**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ariadng/metatrader-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 830 --> 834
-    line [831, 832, 831, 833]
+    title "ariadng/metatrader-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 830 --> 836
+    line [831, 832, 831, 833, 835]
 ```
 
-2026-10-18 831 → 2026-10-23 833（+2）
+2026-10-18 831 → 2026-10-24 835（+4）
 
 
 ---

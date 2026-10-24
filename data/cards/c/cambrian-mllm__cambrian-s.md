@@ -45,12 +45,12 @@ Cambrian-S 是以视频空间感知（spatial supersensing）为目标的多模�
 ```mermaid
 xychart-beta
     title "cambrian-mllm/cambrian-s 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 570 --> 572
     line [571, 571]
 ```
 
-2026-10-18 571 → 2026-10-23 571（+0）
+2026-10-18 571 → 2026-10-24 571（+0）
 
 
 ---

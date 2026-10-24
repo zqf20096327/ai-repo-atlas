@@ -1,6 +1,6 @@
 # graph-robots/graph-as-policy
 
-⭐ 169 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/graph-robots/graph-as-policy) · 组织维护
+⭐ 170 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/graph-robots/graph-as-policy) · 组织维护
 
 **把自然语言任务编译为经验证的机器人技能图并执行**
 
@@ -45,13 +45,13 @@ GaP 将自然语言任务指令编译成由模块化技能组成的带类型、�
 
 ```mermaid
 xychart-beta
-    title "graph-robots/graph-as-policy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 163 --> 170
-    line [164, 167, 169]
+    title "graph-robots/graph-as-policy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 163 --> 171
+    line [164, 167, 169, 170]
 ```
 
-2026-10-18 164 → 2026-10-23 169（+5）
+2026-10-18 164 → 2026-10-24 170（+6）
 
 
 ---

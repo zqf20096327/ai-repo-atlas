@@ -1,6 +1,6 @@
 # HPInc/AI-Blueprints
 
-⭐ 216 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/HPInc/AI-Blueprints) · [官网](https://hp.com/ai-studio) · 组织维护
+⭐ 216 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HPInc/AI-Blueprints) · [官网](https://hp.com/ai-studio) · 组织维护
 
 **HP 维护的本地 AI 蓝图项目集：20+ 端到端示例工程**
 
@@ -45,12 +45,12 @@ HP AI Studio 团队维护的 AI 蓝图项目集合，包含 20 余个端到端�
 ```mermaid
 xychart-beta
     title "HPInc/AI-Blueprints 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 215 --> 217
     line [216, 216]
 ```
 
-2026-10-18 216 → 2026-10-23 216（+0）
+2026-10-18 216 → 2026-10-24 216（+0）
 
 
 ---

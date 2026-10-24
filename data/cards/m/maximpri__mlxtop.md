@@ -1,6 +1,6 @@
 # maximpri/mlxtop
 
-⭐ 128 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/maximpri/mlxtop) · 个人维护
+⭐ 131 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/maximpri/mlxtop) · 个人维护
 
 **本地 LLM 推理的 TUI 资源监控工具：内存/分页/GPU/吞吐同屏**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "maximpri/mlxtop 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
-    y-axis "stars" 120 --> 129
-    line [121, 128]
+    title "maximpri/mlxtop 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 120 --> 132
+    line [121, 128, 131]
 ```
 
-2026-10-22 121 → 2026-10-23 128（+7）
+2026-10-22 121 → 2026-10-24 131（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # BehaviorTree/BehaviorTree.CPP
 
-⭐ 4,263 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/BehaviorTree/BehaviorTree.CPP) · [官网](https://behaviortree.dev) · 个人维护
+⭐ 4,266 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BehaviorTree/BehaviorTree.CPP) · [官网](https://behaviortree.dev) · 个人维护
 
 **C++17 行为树框架：为机器人和游戏构建任务协调逻辑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BehaviorTree/BehaviorTree.CPP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4247 --> 4264
-    line [4248, 4254, 4259, 4263]
+    title "BehaviorTree/BehaviorTree.CPP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4247 --> 4267
+    line [4248, 4254, 4259, 4263, 4266]
 ```
 
-2026-10-18 4,248 → 2026-10-23 4,263（+15）
+2026-10-18 4,248 → 2026-10-24 4,266（+18）
 
 
 ---

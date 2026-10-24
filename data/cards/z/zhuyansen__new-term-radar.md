@@ -1,6 +1,6 @@
 # zhuyansen/new-term-radar
 
-⭐ 1,676 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zhuyansen/new-term-radar) · 个人维护 · 中文 README
+⭐ 1,752 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zhuyansen/new-term-radar) · 个人维护 · 中文 README
 
 **AI 新词日报雷达：新模型/产品/仓库名出现当天即捕获并产出关键词表**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhuyansen/new-term-radar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1019 --> 1735
-    line [1078, 1130, 1590, 1676]
+    title "zhuyansen/new-term-radar 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1011 --> 1819
+    line [1078, 1130, 1590, 1676, 1752]
 ```
 
-2026-10-18 1,078 → 2026-10-23 1,676（+598）
+2026-10-18 1,078 → 2026-10-24 1,752（+674）
 
 
 ---

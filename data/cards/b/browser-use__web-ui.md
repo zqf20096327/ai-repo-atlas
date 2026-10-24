@@ -1,6 +1,6 @@
 # browser-use/web-ui
 
-⭐ 16,619 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/browser-use/web-ui) · 组织维护
+⭐ 16,622 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/browser-use/web-ui) · 组织维护
 
 **基于 Gradio 的浏览器 AI Agent Web 界面**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "browser-use/web-ui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 16616 --> 16620
-    line [16617, 16618, 16617, 16619]
+    title "browser-use/web-ui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 16616 --> 16623
+    line [16617, 16618, 16617, 16619, 16622]
 ```
 
-2026-10-18 16,617 → 2026-10-23 16,619（+2）
+2026-10-18 16,617 → 2026-10-24 16,622（+5）
 
 
 ---

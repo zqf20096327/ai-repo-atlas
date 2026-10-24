@@ -1,6 +1,6 @@
 # aannoo/hcom
 
-⭐ 592 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/aannoo/hcom) · [官网](https://pypi.org/project/hcom/) · 个人维护
+⭐ 597 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/aannoo/hcom) · [官网](https://pypi.org/project/hcom/) · 个人维护
 
 **跨终端连接各编码 agent CLI：互发消息、监控、派生**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "aannoo/hcom 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 575 --> 593
-    line [576, 580, 583, 592]
+    title "aannoo/hcom 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 574 --> 599
+    line [576, 580, 583, 592, 597]
 ```
 
-2026-10-18 576 → 2026-10-23 592（+16）
+2026-10-18 576 → 2026-10-24 597（+21）
 
 
 ---

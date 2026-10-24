@@ -1,6 +1,6 @@
 # Adam-CAD/CADAM
 
-⭐ 5,316 · TypeScript · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Adam-CAD/CADAM) · [官网](https://adam.new/cadam) · 组织维护
+⭐ 5,319 · TypeScript · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Adam-CAD/CADAM) · [官网](https://adam.new/cadam) · 组织维护
 
 **开源文本生成 CAD 模型的 Web 应用：自然语言/图片转 3D 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Adam-CAD/CADAM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5281 --> 5319
-    line [5284, 5298, 5309, 5316]
+    title "Adam-CAD/CADAM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5281 --> 5322
+    line [5284, 5298, 5309, 5316, 5319]
 ```
 
-2026-10-18 5,284 → 2026-10-23 5,316（+32）
+2026-10-18 5,284 → 2026-10-24 5,319（+35）
 
 
 ---

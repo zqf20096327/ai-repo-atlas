@@ -45,13 +45,13 @@ CMU Auton Lab 发布的通用时间序列基础模型家族（ICML 2024 论文�
 
 ```mermaid
 xychart-beta
-    title "moment-timeseries-foundation-model/moment 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "moment-timeseries-foundation-model/moment 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 856 --> 865
-    line [857, 859, 862, 864]
+    line [857, 859, 862, 864, 864]
 ```
 
-2026-10-18 857 → 2026-10-23 864（+7）
+2026-10-18 857 → 2026-10-24 864（+7）
 
 
 ---

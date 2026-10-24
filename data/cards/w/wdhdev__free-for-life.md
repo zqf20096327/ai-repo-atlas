@@ -1,6 +1,6 @@
 # wdhdev/free-for-life
 
-⭐ 1,769 · HTML · MIT · 推送 2026-10-10 · [GitHub](https://github.com/wdhdev/free-for-life) · [官网](https://free.hrsn.dev/) · 个人维护
+⭐ 1,770 · HTML · MIT · 推送 2026-10-10 · [GitHub](https://github.com/wdhdev/free-for-life) · [官网](https://free.hrsn.dev/) · 个人维护
 
 **免费 SaaS/API/AI 等互联网服务与工具的策展清单**
 
@@ -43,13 +43,13 @@ awesome 类免费资源目录，按类别收录长期免费或带免费额度的
 
 ```mermaid
 xychart-beta
-    title "wdhdev/free-for-life 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1764 --> 1770
-    line [1765, 1767, 1769]
+    title "wdhdev/free-for-life 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1764 --> 1771
+    line [1765, 1767, 1769, 1770]
 ```
 
-2026-10-18 1,765 → 2026-10-23 1,769（+4）
+2026-10-18 1,765 → 2026-10-24 1,770（+5）
 
 
 ---

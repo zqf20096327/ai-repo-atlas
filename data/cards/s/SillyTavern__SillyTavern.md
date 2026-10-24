@@ -1,6 +1,6 @@
 # SillyTavern/SillyTavern
 
-⭐ 34,813 · JavaScript · AGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/SillyTavern/SillyTavern) · [官网](https://sillytavern.app) · 组织维护
+⭐ 34,854 · JavaScript · AGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/SillyTavern/SillyTavern) · [官网](https://sillytavern.app) · 组织维护
 
 **面向高级用户的本地 LLM 聊天前端界面**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "SillyTavern/SillyTavern 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 34565 --> 34835
-    line [34587, 34692, 34761, 34813]
+    title "SillyTavern/SillyTavern 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 34561 --> 34880
+    line [34587, 34692, 34761, 34813, 34854]
 ```
 
-2026-10-18 34,587 → 2026-10-23 34,813（+226）
+2026-10-18 34,587 → 2026-10-24 34,854（+267）
 
 
 ---

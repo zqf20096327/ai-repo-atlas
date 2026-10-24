@@ -1,6 +1,6 @@
 # anthropics/claude-code
 
-⭐ 152,890 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/anthropics/claude-code) · [官网](https://code.claude.com/docs/en/overview) · 组织维护
+⭐ 153,152 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/claude-code) · [官网](https://code.claude.com/docs/en/overview) · 组织维护
 
 **终端里的 agentic 编码工具，用自然语言操作代码库**
 
@@ -52,13 +52,13 @@ Anthropic 出品的命令行编码代理：读取并理解代码库，通过自�
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 151372 --> 153028
-    line [151510, 152562, 152693, 152890]
+    title "anthropics/claude-code 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 151346 --> 153316
+    line [151510, 152562, 152693, 152890, 153152]
 ```
 
-2026-10-18 151,510 → 2026-10-23 152,890（+1,380）
+2026-10-18 151,510 → 2026-10-24 153,152（+1,642）
 
 
 ---

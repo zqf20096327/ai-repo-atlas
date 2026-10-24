@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huangjia2019/rag-project01-framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "huangjia2019/rag-project01-framework 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 122 --> 125
-    line [124, 123]
+    line [124, 123, 123]
 ```
 
-2026-10-18 124 → 2026-10-23 123（-1）
+2026-10-18 124 → 2026-10-24 123（-1）
 
 
 ---

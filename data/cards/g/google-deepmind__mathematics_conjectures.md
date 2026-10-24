@@ -44,12 +44,12 @@ DeepMind 论文《Advancing mathematics by guiding human intuition with AI》的
 ```mermaid
 xychart-beta
     title "google-deepmind/mathematics_conjectures 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 384 --> 386
     line [385, 385]
 ```
 
-2026-10-18 385 → 2026-10-23 385（+0）
+2026-10-18 385 → 2026-10-24 385（+0）
 
 
 ---

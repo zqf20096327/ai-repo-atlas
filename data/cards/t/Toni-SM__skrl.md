@@ -1,6 +1,6 @@
 # Toni-SM/skrl
 
-⭐ 1,100 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Toni-SM/skrl) · [官网](https://skrl.readthedocs.io/) · 组织维护
+⭐ 1,099 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Toni-SM/skrl) · [官网](https://skrl.readthedocs.io/) · 组织维护
 
 **模块化强化学习库，支持多种机器人仿真环境训练**
 
@@ -45,12 +45,12 @@ skrl 是用 Python 编写的开源模块化强化学习库，算法实现覆盖 
 ```mermaid
 xychart-beta
     title "Toni-SM/skrl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1099 --> 1102
-    line [1101, 1100, 1100]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1098 --> 1102
+    line [1101, 1100, 1099]
 ```
 
-2026-10-18 1,101 → 2026-10-23 1,100（-1）
+2026-10-18 1,101 → 2026-10-24 1,099（-2）
 
 
 ---

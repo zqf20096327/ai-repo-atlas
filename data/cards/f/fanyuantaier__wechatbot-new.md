@@ -1,6 +1,6 @@
 # fanyuantaier/wechatbot-new
 
-⭐ 95 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/fanyuantaier/wechatbot-new) · [官网](https://pypi.org/project/wechatbot-new/) · 个人维护 · 中文 README
+⭐ 98 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/fanyuantaier/wechatbot-new) · [官网](https://pypi.org/project/wechatbot-new/) · 个人维护 · 中文 README
 
 **调用 LLM 自动回复的微信聊天机器人，兼容微信 4.1.12+**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fanyuantaier/wechatbot-new 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 82 --> 96
-    line [83, 87, 92, 95]
+    title "fanyuantaier/wechatbot-new 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 82 --> 99
+    line [83, 87, 92, 95, 98]
 ```
 
-2026-10-18 83 → 2026-10-23 95（+12）
+2026-10-18 83 → 2026-10-24 98（+15）
 
 
 ---

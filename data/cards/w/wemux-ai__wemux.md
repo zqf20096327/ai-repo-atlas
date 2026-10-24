@@ -1,6 +1,6 @@
 # wemux-ai/wemux
 
-⭐ 164 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/wemux-ai/wemux) · [官网](https://wemux.ai) · 组织维护 · 中文 README
+⭐ 165 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/wemux-ai/wemux) · [官网](https://wemux.ai) · 组织维护 · 中文 README
 
 **自托管 AI agent 协作平台：人在环中编排 agent 执行真实编码工作**
 
@@ -45,12 +45,12 @@ Apache-2.0 开源的 agent 协作平台社区版：控制平面负责需求理�
 ```mermaid
 xychart-beta
     title "wemux-ai/wemux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 162 --> 165
-    line [163, 164, 164]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 162 --> 166
+    line [163, 164, 165]
 ```
 
-2026-10-18 163 → 2026-10-23 164（+1）
+2026-10-18 163 → 2026-10-24 165（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Vchitect/VBench
 
-⭐ 1,829 · Python · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/Vchitect/VBench) · [官网](https://vchitect.github.io/VBench-project/) · 组织维护
+⭐ 1,831 · Python · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/Vchitect/VBench) · [官网](https://vchitect.github.io/VBench-project/) · 组织维护
 
 **视频生成模型评测基准套件：多维度自动化评估 T2V/I2V 模型**
 
@@ -45,13 +45,13 @@ VBench 系列工作的统一实现仓库，对视频生成模型做多维度自�
 
 ```mermaid
 xychart-beta
-    title "Vchitect/VBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1825 --> 1830
-    line [1826, 1827, 1828, 1829]
+    title "Vchitect/VBench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1825 --> 1832
+    line [1826, 1827, 1828, 1829, 1831]
 ```
 
-2026-10-18 1,826 → 2026-10-23 1,829（+3）
+2026-10-18 1,826 → 2026-10-24 1,831（+5）
 
 
 ---

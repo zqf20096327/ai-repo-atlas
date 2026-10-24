@@ -1,6 +1,6 @@
 # cv-cat/catbus
 
-⭐ 500 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cv-cat/catbus) · 个人维护 · 中文 README
+⭐ 507 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cv-cat/catbus) · 个人维护 · 中文 README
 
 **统一 CLI 操作 11 个内容/电商平台的工具，供人和 AI Agent 调用**
 
@@ -45,13 +45,13 @@ Node/TypeScript 编写的命令行工具，用统一语法调用小红书、抖�
 
 ```mermaid
 xychart-beta
-    title "cv-cat/catbus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 437 --> 505
-    line [442, 470, 487, 500]
+    title "cv-cat/catbus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 436 --> 513
+    line [442, 470, 487, 500, 507]
 ```
 
-2026-10-18 442 → 2026-10-23 500（+58）
+2026-10-18 442 → 2026-10-24 507（+65）
 
 
 ---

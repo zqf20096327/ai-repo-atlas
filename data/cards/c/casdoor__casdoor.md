@@ -1,6 +1,6 @@
 # casdoor/casdoor
 
-⭐ 14,635 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/casdoor/casdoor) · [官网](https://casdoor.ai) · 组织维护
+⭐ 14,643 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/casdoor/casdoor) · [官网](https://casdoor.ai) · 组织维护
 
 **为应用与 AI agent 提供自托管 SSO/IAM 的认证服务器**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "casdoor/casdoor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 14593 --> 14638
-    line [14596, 14601, 14635]
+    title "casdoor/casdoor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 14592 --> 14647
+    line [14596, 14601, 14635, 14643]
 ```
 
-2026-10-18 14,596 → 2026-10-23 14,635（+39）
+2026-10-18 14,596 → 2026-10-24 14,643（+47）
 
 
 ---

@@ -1,6 +1,6 @@
 # xybrid-ai/xybrid
 
-⭐ 492 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/xybrid-ai/xybrid) · [官网](https://xybrid.ai) · 组织维护 · 中文 README
+⭐ 494 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xybrid-ai/xybrid) · [官网](https://xybrid.ai) · 组织维护 · 中文 README
 
 **跨平台端侧 AI 推理 SDK：在应用与游戏内本地运行 LLM/ASR/TTS**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xybrid-ai/xybrid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 483 --> 493
-    line [484, 485, 490, 492]
+    title "xybrid-ai/xybrid 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 483 --> 495
+    line [484, 485, 490, 492, 494]
 ```
 
-2026-10-18 484 → 2026-10-23 492（+8）
+2026-10-18 484 → 2026-10-24 494（+10）
 
 
 ---

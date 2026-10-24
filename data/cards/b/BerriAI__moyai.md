@@ -1,6 +1,6 @@
 # BerriAI/moyai
 
-⭐ 276 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/BerriAI/moyai) · 组织维护
+⭐ 278 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/BerriAI/moyai) · 组织维护
 
 **自托管的共享 AI 编码工作区：后台运行编码 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BerriAI/moyai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 265 --> 277
-    line [266, 268, 272, 276]
+    title "BerriAI/moyai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 265 --> 279
+    line [266, 268, 272, 276, 278]
 ```
 
-2026-10-18 266 → 2026-10-23 276（+10）
+2026-10-18 266 → 2026-10-24 278（+12）
 
 
 ---

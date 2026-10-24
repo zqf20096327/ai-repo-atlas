@@ -1,6 +1,6 @@
 # DevDock-AI/claude-unlimited
 
-⭐ 319 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/DevDock-AI/claude-unlimited) · [官网](https://github.com/DevDock-AI/claude-unlimited#readme) · 组织维护
+⭐ 323 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/DevDock-AI/claude-unlimited) · [官网](https://github.com/DevDock-AI/claude-unlimited#readme) · 组织维护
 
 **在 Claude Code 内轮换 Claude/ChatGPT 订阅与 API key 的本地代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevDock-AI/claude-unlimited 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 303 --> 320
-    line [304, 312, 319]
+    title "DevDock-AI/claude-unlimited 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 303 --> 324
+    line [304, 312, 319, 323]
 ```
 
-2026-10-18 304 → 2026-10-23 319（+15）
+2026-10-18 304 → 2026-10-24 323（+19）
 
 
 ---

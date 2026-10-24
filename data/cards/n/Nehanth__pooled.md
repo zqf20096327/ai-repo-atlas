@@ -1,6 +1,6 @@
 # Nehanth/pooled
 
-⭐ 604 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Nehanth/pooled) · [官网](https://pooled.run) · 个人维护
+⭐ 605 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Nehanth/pooled) · [官网](https://pooled.run) · 个人维护
 
 **浏览器内多设备 P2P 联合推理运行大模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nehanth/pooled 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 590 --> 605
-    line [591, 601, 604, 604]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 590 --> 606
+    line [591, 601, 604, 605]
 ```
 
-2026-10-18 591 → 2026-10-23 604（+13）
+2026-10-18 591 → 2026-10-24 605（+14）
 
 
 ---

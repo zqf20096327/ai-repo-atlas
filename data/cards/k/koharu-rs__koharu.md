@@ -1,6 +1,6 @@
 # koharu-rs/koharu
 
-⭐ 6,454 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/koharu-rs/koharu) · [官网](https://koharu.rs) · 个人维护 · 中文 README
+⭐ 6,466 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/koharu-rs/koharu) · [官网](https://koharu.rs) · 个人维护 · 中文 README
 
 **本地优先的 ML 漫画翻译器（Rust），检测+OCR+修图+翻译一体**
 
@@ -45,13 +45,13 @@ Rust 编写的桌面漫画翻译应用：本地运行视觉模型与 LLM，流�
 
 ```mermaid
 xychart-beta
-    title "koharu-rs/koharu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6359 --> 6462
-    line [6367, 6411, 6439, 6454]
+    title "koharu-rs/koharu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6358 --> 6475
+    line [6367, 6411, 6439, 6454, 6466]
 ```
 
-2026-10-18 6,367 → 2026-10-23 6,454（+87）
+2026-10-18 6,367 → 2026-10-24 6,466（+99）
 
 
 ---

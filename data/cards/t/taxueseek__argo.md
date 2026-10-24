@@ -1,6 +1,6 @@
 # taxueseek/argo
 
-⭐ 204 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/taxueseek/argo) · 个人维护 · 中文 README
+⭐ 205 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/taxueseek/argo) · 个人维护 · 中文 README
 
 **给 Agent 用的搜索与深度研究工具，聚合 264 个搜索源**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "taxueseek/argo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 193 --> 205
-    line [194, 199, 203, 204]
+    title "taxueseek/argo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 193 --> 206
+    line [194, 199, 203, 204, 205]
 ```
 
-2026-10-18 194 → 2026-10-23 204（+10）
+2026-10-18 194 → 2026-10-24 205（+11）
 
 
 ---

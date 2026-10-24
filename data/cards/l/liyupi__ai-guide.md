@@ -1,6 +1,6 @@
 # liyupi/ai-guide
 
-⭐ 21,512 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/liyupi/ai-guide) · [官网](https://ai.codefather.cn) · 个人维护 · 中文 README
+⭐ 21,541 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/liyupi/ai-guide) · [官网](https://ai.codefather.cn) · 个人维护 · 中文 README
 
 **面向零基础者的 Vibe Coding 教程与 AI 资源知识库**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/ai-guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 21264 --> 21534
-    line [21286, 21377, 21468, 21512]
+    title "liyupi/ai-guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 21261 --> 21566
+    line [21286, 21377, 21468, 21512, 21541]
 ```
 
-2026-10-18 21,286 → 2026-10-23 21,512（+226）
+2026-10-18 21,286 → 2026-10-24 21,541（+255）
 
 
 ---

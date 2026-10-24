@@ -1,6 +1,6 @@
 # firerpa/lamda
 
-⭐ 8,647 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/firerpa/lamda) · [官网](https://device-farm.com/) · 组织维护 · 中文 README
+⭐ 8,651 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/firerpa/lamda) · [官网](https://device-farm.com/) · 组织维护 · 中文 README
 
 **Android 全栈设备控制平台：远程桌面、自动化、抓包、逆向与 MCP/Agent**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "firerpa/lamda 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8616 --> 8649
-    line [8618, 8630, 8640, 8647]
+    title "firerpa/lamda 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8615 --> 8654
+    line [8618, 8630, 8640, 8647, 8651]
 ```
 
-2026-10-18 8,618 → 2026-10-23 8,647（+29）
+2026-10-18 8,618 → 2026-10-24 8,651（+33）
 
 
 ---

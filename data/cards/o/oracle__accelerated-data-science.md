@@ -1,6 +1,6 @@
 # oracle/accelerated-data-science
 
-⭐ 125 · Python · UPL-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/oracle/accelerated-data-science) · [官网](https://accelerated-data-science.readthedocs.io/) · 组织维护
+⭐ 125 · Python · UPL-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/oracle/accelerated-data-science) · [官网](https://accelerated-data-science.readthedocs.io/) · 组织维护
 
 **Oracle 云数据科学 Python SDK：模型全生命周期管理与 OCI 服务接口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oracle/accelerated-data-science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 124 --> 126
     line [125, 125]
 ```
 
-2026-10-18 125 → 2026-10-23 125（+0）
+2026-10-18 125 → 2026-10-24 125（+0）
 
 
 ---

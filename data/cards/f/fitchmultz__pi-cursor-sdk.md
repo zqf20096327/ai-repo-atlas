@@ -1,6 +1,6 @@
 # fitchmultz/pi-cursor-sdk
 
-⭐ 342 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/fitchmultz/pi-cursor-sdk) · 个人维护
+⭐ 342 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/fitchmultz/pi-cursor-sdk) · 个人维护
 
 **在 Pi 终端编码代理中接入 Cursor SDK 模型的提供方扩展**
 
@@ -46,12 +46,12 @@ pi coding agent 的 provider 扩展包：在本地运行 Cursor 的 SDK agent，
 ```mermaid
 xychart-beta
     title "fitchmultz/pi-cursor-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 341 --> 343
     line [342, 342]
 ```
 
-2026-10-18 342 → 2026-10-23 342（+0）
+2026-10-18 342 → 2026-10-24 342（+0）
 
 
 ---

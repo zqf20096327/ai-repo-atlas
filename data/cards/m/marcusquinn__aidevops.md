@@ -1,6 +1,6 @@
 # marcusquinn/aidevops
 
-⭐ 420 · Shell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/marcusquinn/aidevops) · [官网](https://www.aidevops.sh) · 个人维护
+⭐ 422 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/marcusquinn/aidevops) · [官网](https://www.aidevops.sh) · 个人维护
 
 **OpenCode 插件式 AI DevOps 框架：agent 团队自动交付软件工作**
 
@@ -45,12 +45,12 @@ aidevops.sh 是一个 OpenCode 插件与 AI DevOps 框架，面向开发者、�
 ```mermaid
 xychart-beta
     title "marcusquinn/aidevops 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 409 --> 421
-    line [410, 413, 420, 420]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 409 --> 423
+    line [410, 413, 420, 422]
 ```
 
-2026-10-18 410 → 2026-10-23 420（+10）
+2026-10-18 410 → 2026-10-24 422（+12）
 
 
 ---

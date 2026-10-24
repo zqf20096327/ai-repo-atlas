@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Johnson-Durui/Companion-Space 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Johnson-Durui/Companion-Space 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 336 --> 365
-    line [363, 338]
+    line [363, 338, 338]
 ```
 
-2026-10-18 363 → 2026-10-23 338（-25）
+2026-10-18 363 → 2026-10-24 338（-25）
 
 
 ---

@@ -1,6 +1,6 @@
 # godot-fun/gai
 
-⭐ 192 · GDScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/godot-fun/gai) · 个人维护 · 中文 README
+⭐ 192 · GDScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/godot-fun/gai) · 个人维护 · 中文 README
 
 **面向 Godot 游戏开发的桌面 AI 编程 agent 与技能工作流框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "godot-fun/gai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "godot-fun/gai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 186 --> 193
-    line [187, 188, 190, 192]
+    line [187, 188, 190, 192, 192]
 ```
 
-2026-10-18 187 → 2026-10-23 192（+5）
+2026-10-18 187 → 2026-10-24 192（+5）
 
 
 ---

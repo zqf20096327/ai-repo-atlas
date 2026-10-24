@@ -1,6 +1,6 @@
 # daobataotie/CAD-MCP
 
-⭐ 631 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/daobataotie/CAD-MCP) · 个人维护 · 中文 README
+⭐ 636 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/daobataotie/CAD-MCP) · 个人维护 · 中文 README
 
 **通过自然语言/MCP 控制 AutoCAD 等 CAD 软件绘图的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "daobataotie/CAD-MCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 613 --> 632
-    line [614, 618, 625, 631]
+    title "daobataotie/CAD-MCP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 612 --> 638
+    line [614, 618, 625, 631, 636]
 ```
 
-2026-10-18 614 → 2026-10-23 631（+17）
+2026-10-18 614 → 2026-10-24 636（+22）
 
 
 ---

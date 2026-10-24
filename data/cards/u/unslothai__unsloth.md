@@ -1,6 +1,6 @@
 # unslothai/unsloth
 
-⭐ 78,425 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/unslothai/unsloth) · [官网](https://unsloth.ai/docs) · 组织维护
+⭐ 78,474 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/unslothai/unsloth) · [官网](https://unsloth.ai/docs) · 组织维护
 
 **在本地运行和微调 LLM 与扩散模型的桌面应用**
 
@@ -53,13 +53,13 @@ Unsloth 提供三种使用形态：桌面应用（Unsloth Desktop）、Web UI（
 
 ```mermaid
 xychart-beta
-    title "unslothai/unsloth 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 78155 --> 78449
-    line [78179, 78271, 78366, 78425]
+    title "unslothai/unsloth 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 78150 --> 78503
+    line [78179, 78271, 78366, 78425, 78474]
 ```
 
-2026-10-18 78,179 → 2026-10-23 78,425（+246）
+2026-10-18 78,179 → 2026-10-24 78,474（+295）
 
 
 ---

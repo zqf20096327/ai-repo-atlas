@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Michael-Jiahao-Zhang/game-the-llm-reviewer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "Michael-Jiahao-Zhang/game-the-llm-reviewer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 209 --> 219
-    line [210, 214, 217, 218]
+    line [210, 214, 217, 218, 218]
 ```
 
-2026-10-18 210 → 2026-10-23 218（+8）
+2026-10-18 210 → 2026-10-24 218（+8）
 
 
 ---

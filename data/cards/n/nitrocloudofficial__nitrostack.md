@@ -1,6 +1,6 @@
 # nitrocloudofficial/nitrostack
 
-⭐ 2,529 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/nitrocloudofficial/nitrostack) · [官网](https://nitrostack.ai) · 组织维护
+⭐ 2,530 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/nitrocloudofficial/nitrostack) · [官网](https://nitrostack.ai) · 组织维护
 
 **TypeScript 全栈框架：构建、测试、部署生产级 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nitrocloudofficial/nitrostack 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "nitrocloudofficial/nitrostack 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2523 --> 2533
-    line [2524, 2532, 2528, 2529]
+    line [2524, 2532, 2528, 2529, 2530]
 ```
 
-2026-10-18 2,524 → 2026-10-23 2,529（+5）
+2026-10-18 2,524 → 2026-10-24 2,530（+6）
 
 
 ---

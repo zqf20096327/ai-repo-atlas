@@ -1,6 +1,6 @@
 # rzhub/GateMem
 
-⭐ 139 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/rzhub/GateMem) · [官网](https://rzhub.github.io/GateMem/project.html) · 组织维护
+⭐ 140 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/rzhub/GateMem) · [官网](https://rzhub.github.io/GateMem/project.html) · 组织维护
 
 **多主体共享记忆 LLM Agent 的记忆治理评测基准与工具包**
 
@@ -46,12 +46,12 @@ GateMem 是一个基准数据集与评测工具包，用于测试记忆增强 LL
 ```mermaid
 xychart-beta
     title "rzhub/GateMem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 138 --> 141
-    line [140, 139, 139]
+    line [140, 139, 140]
 ```
 
-2026-10-18 140 → 2026-10-23 139（-1）
+2026-10-18 140 → 2026-10-24 140（+0）
 
 
 ---

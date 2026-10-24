@@ -1,6 +1,6 @@
 # ISON-format/ison
 
-⭐ 128 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/ISON-format/ison) · [官网](https://www.ison.dev) · 个人维护
+⭐ 127 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/ISON-format/ison) · [官网](https://www.ison.dev) · 个人维护
 
 **面向 LLM/Agent 工作流的省 token 数据序列化格式与多语言解析器**
 
@@ -47,12 +47,12 @@ ISON 是一种表格式数据格式：字段名只在块头声明一次，行按
 ```mermaid
 xychart-beta
     title "ISON-format/ison 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 126 --> 129
+    line [128, 127]
 ```
 
-2026-10-18 128 → 2026-10-23 128（+0）
+2026-10-18 128 → 2026-10-24 127（-1）
 
 
 ---

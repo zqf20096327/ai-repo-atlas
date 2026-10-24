@@ -1,6 +1,6 @@
 # Makson179/Bello
 
-⭐ 161 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Makson179/Bello) · 个人维护
+⭐ 162 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Makson179/Bello) · 个人维护
 
 **围绕编码 agent 的多角色编排工具：省钱并复核产出**
 
@@ -46,13 +46,13 @@ Bello 在编码 agent 外围挂载四个可独立开关的角色：运行时监�
 
 ```mermaid
 xychart-beta
-    title "Makson179/Bello 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 156 --> 162
-    line [157, 161]
+    title "Makson179/Bello 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 156 --> 163
+    line [157, 161, 162]
 ```
 
-2026-10-18 157 → 2026-10-23 161（+4）
+2026-10-18 157 → 2026-10-24 162（+5）
 
 
 ---

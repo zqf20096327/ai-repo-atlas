@@ -44,12 +44,12 @@ Miscellaneous R Code 仓库的更新版，以教程形式提供多种统计模�
 ```mermaid
 xychart-beta
     title "m-clark/models-by-example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-10-23 76（+0）
+2026-10-18 76 → 2026-10-24 76（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # StreetLamb/tribe
 
-⭐ 1,083 · TypeScript · MIT · 推送 2025-10-27 · [GitHub](https://github.com/StreetLamb/tribe) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **低代码构建与协调多 agent 团队的开源工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

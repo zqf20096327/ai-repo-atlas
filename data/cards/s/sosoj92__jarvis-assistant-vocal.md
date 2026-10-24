@@ -1,6 +1,6 @@
 # sosoj92/jarvis-assistant-vocal
 
-⭐ 488 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/sosoj92/jarvis-assistant-vocal) · 个人维护 · 中文 README
+⭐ 493 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/sosoj92/jarvis-assistant-vocal) · 个人维护 · 中文 README
 
 **法语本地语音助手：语音唤起、LLM 推理、控制家庭与 PC**
 
@@ -45,13 +45,13 @@ Python 编写的个人语音助手，运行在用户自己的 Windows 11 机器�
 
 ```mermaid
 xychart-beta
-    title "sosoj92/jarvis-assistant-vocal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 473 --> 489
-    line [474, 481, 487, 488]
+    title "sosoj92/jarvis-assistant-vocal 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 473 --> 494
+    line [474, 481, 487, 488, 493]
 ```
 
-2026-10-18 474 → 2026-10-23 488（+14）
+2026-10-18 474 → 2026-10-24 493（+19）
 
 
 ---

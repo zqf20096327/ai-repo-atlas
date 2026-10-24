@@ -1,6 +1,6 @@
 # facefusion/facefusion
 
-⭐ 30,361 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/facefusion/facefusion) · [官网](https://facefusion.io) · 组织维护
+⭐ 30,376 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/facefusion/facefusion) · [官网](https://facefusion.io) · 组织维护
 
 **面向开发者的人脸换脸与唇形同步操作平台**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "facefusion/facefusion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 30295 --> 30367
-    line [30301, 30322, 30342, 30361]
+    title "facefusion/facefusion 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 30294 --> 30383
+    line [30301, 30322, 30342, 30361, 30376]
 ```
 
-2026-10-18 30,301 → 2026-10-23 30,361（+60）
+2026-10-18 30,301 → 2026-10-24 30,376（+75）
 
 
 ---

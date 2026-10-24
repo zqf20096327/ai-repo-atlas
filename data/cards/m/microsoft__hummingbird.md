@@ -1,6 +1,6 @@
 # microsoft/hummingbird
 
-⭐ 3,554 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/microsoft/hummingbird) · 组织维护
+⭐ 3,553 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/microsoft/hummingbird) · 组织维护
 
 **将训练好的传统 ML 模型编译为张量计算以加速推理的库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/hummingbird 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 3553 --> 3555
-    line [3554, 3554]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 3552 --> 3555
+    line [3554, 3553]
 ```
 
-2026-10-18 3,554 → 2026-10-23 3,554（+0）
+2026-10-18 3,554 → 2026-10-24 3,553（-1）
 
 
 ---

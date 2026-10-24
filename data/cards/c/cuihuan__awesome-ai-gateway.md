@@ -1,6 +1,6 @@
 # cuihuan/awesome-ai-gateway
 
-⭐ 134 · HTML · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/cuihuan/awesome-ai-gateway) · [官网](https://cuihuan.github.io/awesome-ai-gateway/) · 个人维护 · 中文 README
+⭐ 136 · HTML · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/cuihuan/awesome-ai-gateway) · [官网](https://cuihuan.github.io/awesome-ai-gateway/) · 个人维护 · 中文 README
 
 **180+ AI 网关选型清单：决策树+手册+可复现成本基准**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cuihuan/awesome-ai-gateway 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 129 --> 135
-    line [130, 131, 134]
+    title "cuihuan/awesome-ai-gateway 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 129 --> 137
+    line [130, 131, 134, 136]
 ```
 
-2026-10-18 130 → 2026-10-23 134（+4）
+2026-10-18 130 → 2026-10-24 136（+6）
 
 
 ---

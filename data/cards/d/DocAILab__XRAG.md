@@ -1,6 +1,6 @@
 # DocAILab/XRAG
 
-⭐ 551 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/DocAILab/XRAG) · [官网](https://docailab.github.io/XRAG/) · 组织维护 · 中文 README
+⭐ 558 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/DocAILab/XRAG) · [官网](https://docailab.github.io/XRAG/) · 组织维护 · 中文 README
 
 **RAG 核心组件基准评测框架（ICDE 2026 论文）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DocAILab/XRAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "DocAILab/XRAG 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 525 --> 846
-    line [809, 812, 820, 551]
+    line [809, 812, 820, 551, 558]
 ```
 
-2026-10-18 809 → 2026-10-23 551（-258）
+2026-10-18 809 → 2026-10-24 558（-251）
 
 
 ---

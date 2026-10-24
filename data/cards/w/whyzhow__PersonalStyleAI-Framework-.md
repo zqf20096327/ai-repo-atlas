@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "whyzhow/PersonalStyleAI-Framework- 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "whyzhow/PersonalStyleAI-Framework- 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 291 --> 294
-    line [293, 292]
+    line [293, 292, 292]
 ```
 
-2026-10-18 293 → 2026-10-23 292（-1）
+2026-10-18 293 → 2026-10-24 292（-1）
 
 
 ---

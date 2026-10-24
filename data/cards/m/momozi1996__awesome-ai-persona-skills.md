@@ -1,6 +1,6 @@
 # momozi1996/awesome-ai-persona-skills
 
-⭐ 989 · Shell · MIT · 推送 2026-09-02 · [GitHub](https://github.com/momozi1996/awesome-ai-persona-skills) · 个人维护 · 中文 README
+⭐ 1,010 · Shell · MIT · 推送 2026-09-02 · [GitHub](https://github.com/momozi1996/awesome-ai-persona-skills) · 个人维护 · 中文 README
 
 **100+ AI 人格蒸馏 Skills 合集：名人/作家/古籍等多品类 agent skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "momozi1996/awesome-ai-persona-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 960 --> 1004
-    line [963, 985, 1001, 989]
+    title "momozi1996/awesome-ai-persona-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 959 --> 1014
+    line [963, 985, 1001, 989, 1010]
 ```
 
-2026-10-18 963 → 2026-10-23 989（+26）
+2026-10-18 963 → 2026-10-24 1,010（+47）
 
 
 ---

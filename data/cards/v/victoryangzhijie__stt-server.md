@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "victoryangzhijie/stt-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "victoryangzhijie/stt-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 104 --> 108
-    line [107, 105]
+    line [107, 105, 105]
 ```
 
-2026-10-18 107 → 2026-10-23 105（-2）
+2026-10-18 107 → 2026-10-24 105（-2）
 
 
 ---

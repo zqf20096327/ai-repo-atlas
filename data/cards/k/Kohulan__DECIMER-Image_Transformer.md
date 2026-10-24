@@ -1,6 +1,6 @@
 # Kohulan/DECIMER-Image_Transformer
 
-⭐ 413 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/Kohulan/DECIMER-Image_Transformer) · 组织维护
+⭐ 414 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/Kohulan/DECIMER-Image_Transformer) · 组织维护
 
 **深度学习 OCSR 工具：把化学结构图像转为 SMILES 字符串**
 
@@ -46,12 +46,12 @@ DECIMER Image Transformer 面向光学化学结构识别（OCSR）任务：使�
 ```mermaid
 xychart-beta
     title "Kohulan/DECIMER-Image_Transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 412 --> 414
-    line [413, 413]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 412 --> 415
+    line [413, 414]
 ```
 
-2026-10-18 413 → 2026-10-23 413（+0）
+2026-10-18 413 → 2026-10-24 414（+1）
 
 
 ---

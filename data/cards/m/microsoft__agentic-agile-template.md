@@ -1,6 +1,6 @@
 # microsoft/agentic-agile-template
 
-⭐ 98 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/agentic-agile-template) · 组织维护
+⭐ 98 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/agentic-agile-template) · 组织维护
 
 **面向团队的人机协作软件开发方法论模板（Agentic-Agile）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/agentic-agile-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 96 --> 99
     line [97, 98, 98]
 ```
 
-2026-10-18 97 → 2026-10-23 98（+1）
+2026-10-18 97 → 2026-10-24 98（+1）
 
 
 ---

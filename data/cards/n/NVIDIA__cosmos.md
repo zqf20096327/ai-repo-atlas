@@ -1,6 +1,6 @@
 # NVIDIA/cosmos
 
-⭐ 12,105 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cosmos) · [官网](https://www.nvidia.com/en-us/ai/cosmos/) · 组织维护
+⭐ 12,126 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cosmos) · [官网](https://www.nvidia.com/en-us/ai/cosmos/) · 组织维护
 
 **面向物理 AI 的开源世界基础模型平台（模型+数据+工具）**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的 Physical AI 开放平台仓库，本体是 Cosmos 3 全模态�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cosmos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 12053 --> 12109
-    line [12057, 12070, 12089, 12105]
+    title "NVIDIA/cosmos 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 12051 --> 12132
+    line [12057, 12070, 12089, 12105, 12126]
 ```
 
-2026-10-18 12,057 → 2026-10-23 12,105（+48）
+2026-10-18 12,057 → 2026-10-24 12,126（+69）
 
 
 ---

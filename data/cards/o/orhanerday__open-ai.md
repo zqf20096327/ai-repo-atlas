@@ -1,6 +1,6 @@
 # orhanerday/open-ai
 
-⭐ 2,362 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/orhanerday/open-ai) · 个人维护
+⭐ 2,361 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/orhanerday/open-ai) · 个人维护
 
 **社区维护的 OpenAI REST API PHP SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "orhanerday/open-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 2361 --> 2364
-    line [2363, 2362]
+    title "orhanerday/open-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2360 --> 2364
+    line [2363, 2362, 2361]
 ```
 
-2026-10-18 2,363 → 2026-10-23 2,362（-1）
+2026-10-18 2,363 → 2026-10-24 2,361（-2）
 
 
 ---

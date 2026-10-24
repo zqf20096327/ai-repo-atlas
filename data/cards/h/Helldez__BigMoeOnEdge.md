@@ -1,6 +1,6 @@
 # Helldez/BigMoeOnEdge
 
-⭐ 647 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Helldez/BigMoeOnEdge) · 个人维护 · 中文 README
+⭐ 650 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Helldez/BigMoeOnEdge) · 个人维护 · 中文 README
 
 **在内存不足的设备上流式运行大 MoE 模型的本地推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Helldez/BigMoeOnEdge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 627 --> 648
-    line [628, 635, 647]
+    title "Helldez/BigMoeOnEdge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 626 --> 652
+    line [628, 635, 647, 650]
 ```
 
-2026-10-18 628 → 2026-10-23 647（+19）
+2026-10-18 628 → 2026-10-24 650（+22）
 
 
 ---

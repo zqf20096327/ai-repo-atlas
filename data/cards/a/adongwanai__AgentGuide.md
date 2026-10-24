@@ -1,6 +1,6 @@
 # adongwanai/AgentGuide
 
-⭐ 11,165 · MDX · 推送 2026-09-15 · [GitHub](https://github.com/adongwanai/AgentGuide) · 个人维护 · 中文 README
+⭐ 11,202 · MDX · 推送 2026-09-15 · [GitHub](https://github.com/adongwanai/AgentGuide) · 个人维护 · 中文 README
 
 **面向求职的 AI Agent 开发与算法学习指南知识库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "adongwanai/AgentGuide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10961 --> 11183
-    line [10979, 11045, 11136, 11165]
+    title "adongwanai/AgentGuide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10957 --> 11224
+    line [10979, 11045, 11136, 11165, 11202]
 ```
 
-2026-10-18 10,979 → 2026-10-23 11,165（+186）
+2026-10-18 10,979 → 2026-10-24 11,202（+223）
 
 
 ---

@@ -1,6 +1,6 @@
 # DEEIX-AI/DEEIX-Chat
 
-⭐ 1,599 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/DEEIX-AI/DEEIX-Chat) · [官网](https://deeix.com) · 组织维护 · 中文 README
+⭐ 1,606 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/DEEIX-AI/DEEIX-Chat) · [官网](https://deeix.com) · 组织维护 · 中文 README
 
 **面向个人/团队/企业的自托管多模型 AI 聊天与网关平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DEEIX-AI/DEEIX-Chat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1585 --> 1600
-    line [1586, 1592, 1596, 1599]
+    title "DEEIX-AI/DEEIX-Chat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1584 --> 1608
+    line [1586, 1592, 1596, 1599, 1606]
 ```
 
-2026-10-18 1,586 → 2026-10-23 1,599（+13）
+2026-10-18 1,586 → 2026-10-24 1,606（+20）
 
 
 ---

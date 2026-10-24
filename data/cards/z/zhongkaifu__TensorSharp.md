@@ -1,6 +1,6 @@
 # zhongkaifu/TensorSharp
 
-⭐ 600 · C# · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/zhongkaifu/TensorSharp) · [官网](https://tensorsharp.ai) · 个人维护 · 中文 README
+⭐ 614 · C# · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/zhongkaifu/TensorSharp) · [官网](https://tensorsharp.ai) · 个人维护 · 中文 README
 
 **.NET 本地 GGUF 模型推理引擎与 agent 运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhongkaifu/TensorSharp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 590 --> 601
-    line [591, 595, 598, 600]
+    title "zhongkaifu/TensorSharp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 589 --> 616
+    line [591, 595, 598, 600, 614]
 ```
 
-2026-10-18 591 → 2026-10-23 600（+9）
+2026-10-18 591 → 2026-10-24 614（+23）
 
 
 ---

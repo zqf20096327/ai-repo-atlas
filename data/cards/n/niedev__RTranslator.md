@@ -1,6 +1,6 @@
 # niedev/RTranslator
 
-⭐ 10,529 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/niedev/RTranslator) · 个人维护
+⭐ 10,530 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/niedev/RTranslator) · 个人维护
 
 **Android 离线实时翻译应用，本地运行语音识别与翻译模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "niedev/RTranslator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "niedev/RTranslator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 10515 --> 10531
-    line [10516, 10523, 10530, 10529]
+    line [10516, 10523, 10530, 10529, 10530]
 ```
 
-2026-10-18 10,516 → 2026-10-23 10,529（+13）
+2026-10-18 10,516 → 2026-10-24 10,530（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # supabase/agent-skills
 
-⭐ 2,908 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/supabase/agent-skills) · [官网](https://supabase.com/docs/guides/getting-started/ai-skills) · 组织维护
+⭐ 2,916 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/supabase/agent-skills) · [官网](https://supabase.com/docs/guides/getting-started/ai-skills) · 组织维护
 
 **给 AI 开发者的 Supabase 技能包：指令与参考文档助 agent 用好 Supabase**
 
@@ -45,13 +45,13 @@ Supabase 官方维护的 Agent Skills 集合：以 SKILL.md 清单加参考文�
 
 ```mermaid
 xychart-beta
-    title "supabase/agent-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2850 --> 2913
-    line [2855, 2884, 2898, 2908]
+    title "supabase/agent-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2849 --> 2922
+    line [2855, 2884, 2898, 2908, 2916]
 ```
 
-2026-10-18 2,855 → 2026-10-23 2,908（+53）
+2026-10-18 2,855 → 2026-10-24 2,916（+61）
 
 
 ---

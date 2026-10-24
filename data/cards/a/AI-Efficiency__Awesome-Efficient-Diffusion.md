@@ -1,6 +1,6 @@
 # AI-Efficiency/Awesome-Efficient-Diffusion
 
-⭐ 211 · 推送 2026-10-12 · [GitHub](https://github.com/AI-Efficiency/Awesome-Efficient-Diffusion) · 个人维护
+⭐ 211 · 推送 2026-10-23 · [GitHub](https://github.com/AI-Efficiency/Awesome-Efficient-Diffusion) · 个人维护
 
 **高效扩散/流匹配模型论文与代码的策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AI-Efficiency/Awesome-Efficient-Diffusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "AI-Efficiency/Awesome-Efficient-Diffusion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 209 --> 212
-    line [210, 211]
+    line [210, 211, 211]
 ```
 
-2026-10-18 210 → 2026-10-23 211（+1）
+2026-10-18 210 → 2026-10-24 211（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # WangWilly/gaze-correction-cam
 
-⭐ 112 · Python · BSD-3-Clause · 推送 2026-03-12 · [GitHub](https://github.com/WangWilly/gaze-correction-cam) · 个人维护
+⭐ 113 · Python · BSD-3-Clause · 推送 2026-03-12 · [GitHub](https://github.com/WangWilly/gaze-correction-cam) · 个人维护
 
 **macOS 虚拟摄像头：实时校正视线，让视频通话保持眼神接触**
 
@@ -45,12 +45,12 @@ macOS 虚拟摄像头扩展应用，实时捕获摄像头画面，检测人脸�
 ```mermaid
 xychart-beta
     title "WangWilly/gaze-correction-cam 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 110 --> 113
-    line [111, 112, 112]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 110 --> 114
+    line [111, 112, 113]
 ```
 
-2026-10-18 111 → 2026-10-23 112（+1）
+2026-10-18 111 → 2026-10-24 113（+2）
 
 
 ---

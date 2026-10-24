@@ -1,6 +1,6 @@
 # pnoker/iot-dc3
 
-⭐ 1,287 · Java · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pnoker/iot-dc3) · [官网](https://dc3.site) · 个人维护 · 中文 README
+⭐ 1,288 · Java · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pnoker/iot-dc3) · [官网](https://dc3.site) · 个人维护 · 中文 README
 
 **面向 Physical AI 的开源工业物联网运行时平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pnoker/iot-dc3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 1286 --> 1289
-    line [1288, 1287, 1287]
+    line [1288, 1287, 1288]
 ```
 
-2026-10-18 1,288 → 2026-10-23 1,287（-1）
+2026-10-18 1,288 → 2026-10-24 1,288（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # BerriAI/litellm
 
-⭐ 61,827 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/BerriAI/litellm) · [官网](https://docs.litellm.ai/docs/) · 组织维护
+⭐ 61,910 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/BerriAI/litellm) · [官网](https://docs.litellm.ai/docs/) · 组织维护
 
 **统一的 LLM 网关：一份接口调用 100+ 模型供应商**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "BerriAI/litellm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 61401 --> 61865
-    line [61439, 61579, 61726, 61827]
+    title "BerriAI/litellm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 61392 --> 61957
+    line [61439, 61579, 61726, 61827, 61910]
 ```
 
-2026-10-18 61,439 → 2026-10-23 61,827（+388）
+2026-10-18 61,439 → 2026-10-24 61,910（+471）
 
 
 ---

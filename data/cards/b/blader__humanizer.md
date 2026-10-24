@@ -1,6 +1,6 @@
 # blader/humanizer
 
-⭐ 59,580 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/blader/humanizer) · [官网](https://skills.sh/blader/humanizer) · 个人维护
+⭐ 59,938 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/blader/humanizer) · [官网](https://skills.sh/blader/humanizer) · 个人维护
 
 **面向 agent 用户的 AI 痕迹改写技能：按 Wikipedia 标准去除 AI 写作特征**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "blader/humanizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 57586 --> 59761
-    line [57767, 58452, 59580]
+    title "blader/humanizer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 57550 --> 60155
+    line [57767, 58452, 59580, 59938]
 ```
 
-2026-10-18 57,767 → 2026-10-23 59,580（+1,813）
+2026-10-18 57,767 → 2026-10-24 59,938（+2,171）
 
 
 ---

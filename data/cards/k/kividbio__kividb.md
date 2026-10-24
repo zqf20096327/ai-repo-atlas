@@ -1,6 +1,6 @@
 # kividbio/kividb
 
-⭐ 447 · Rust · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/kividbio/kividb) · [官网](https://kividb.io) · 组织维护
+⭐ 519 · Rust · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/kividbio/kividb) · [官网](https://kividb.io) · 组织维护
 
 **Rust 编写的多线程 Redis/Valkey 兼容内存数据库，内置全文与向量检索**
 
@@ -45,13 +45,13 @@ KiviDB 是以 Rust 实现的内存键值数据库，实现 Redis 协议（RESP2/
 
 ```mermaid
 xychart-beta
-    title "kividbio/kividb 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 219 --> 467
-    line [239, 365, 447]
+    title "kividbio/kividb 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 211 --> 547
+    line [239, 365, 447, 519]
 ```
 
-2026-10-19 239 → 2026-10-23 447（+208）
+2026-10-19 239 → 2026-10-24 519（+280）
 
 
 ---

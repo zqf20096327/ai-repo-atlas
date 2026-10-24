@@ -1,6 +1,6 @@
 # rekog-labs/MCP-Nest
 
-⭐ 720 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rekog-labs/MCP-Nest) · 组织维护
+⭐ 721 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rekog-labs/MCP-Nest) · 组织维护
 
 **NestJS 模块：用注解把应用方法暴露为 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rekog-labs/MCP-Nest 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 717 --> 721
-    line [718, 719, 720]
+    title "rekog-labs/MCP-Nest 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 717 --> 722
+    line [718, 719, 720, 721]
 ```
 
-2026-10-18 718 → 2026-10-23 720（+2）
+2026-10-18 718 → 2026-10-24 721（+3）
 
 
 ---

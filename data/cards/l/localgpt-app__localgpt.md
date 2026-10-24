@@ -1,6 +1,6 @@
 # localgpt-app/localgpt
 
-⭐ 1,125 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/localgpt-app/localgpt) · [官网](https://localgpt.app/) · 组织维护
+⭐ 1,126 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/localgpt-app/localgpt) · [官网](https://localgpt.app/) · 组织维护
 
 **本地运行的 AI 助手与 3D 世界生成工具**
 
@@ -44,13 +44,13 @@ Rust 单一二进制程序，含两个组件：localgpt 为本地优先的 AI �
 
 ```mermaid
 xychart-beta
-    title "localgpt-app/localgpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1123 --> 1126
-    line [1124, 1125]
+    title "localgpt-app/localgpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1123 --> 1127
+    line [1124, 1125, 1126]
 ```
 
-2026-10-18 1,124 → 2026-10-23 1,125（+1）
+2026-10-18 1,124 → 2026-10-24 1,126（+2）
 
 
 ---

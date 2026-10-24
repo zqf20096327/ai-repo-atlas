@@ -1,6 +1,6 @@
 # CalebYcj/codex-rehome
 
-⭐ 390 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/CalebYcj/codex-rehome) · 个人维护 · 中文 README
+⭐ 394 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/CalebYcj/codex-rehome) · 个人维护 · 中文 README
 
 **离线迁移 Codex Desktop 项目、对话与 Skills 到新电脑的桌面工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CalebYcj/codex-rehome 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 376 --> 391
-    line [377, 380, 387, 390]
+    title "CalebYcj/codex-rehome 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 376 --> 395
+    line [377, 380, 387, 390, 394]
 ```
 
-2026-10-18 377 → 2026-10-23 390（+13）
+2026-10-18 377 → 2026-10-24 394（+17）
 
 
 ---

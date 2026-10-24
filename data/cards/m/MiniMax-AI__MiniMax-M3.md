@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-M3
 
-⭐ 494 · 推送 2026-07-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M3) · 组织维护 · 中文 README
+⭐ 495 · 推送 2026-07-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M3) · 组织维护 · 中文 README
 
 **开源多模态基础模型：1M 上下文、约428B参数**
 
@@ -44,13 +44,13 @@ MiniMax-AI 发布的 MiniMax-M3 原生多模态模型，约 428B 总参数、约
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/MiniMax-M3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 491 --> 495
-    line [492, 493, 494]
+    title "MiniMax-AI/MiniMax-M3 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 491 --> 496
+    line [492, 493, 494, 495]
 ```
 
-2026-10-18 492 → 2026-10-23 494（+2）
+2026-10-18 492 → 2026-10-24 495（+3）
 
 
 ---

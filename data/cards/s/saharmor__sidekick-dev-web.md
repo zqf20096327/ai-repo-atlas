@@ -1,6 +1,6 @@
 # saharmor/sidekick-dev-web
 
-⭐ 118 · TypeScript · Apache-2.0 · 推送 2026-03-23 · [GitHub](https://github.com/saharmor/sidekick-dev-web) · [官网](https://sidekickdev.com) · 个人维护
+⭐ 117 · TypeScript · Apache-2.0 · 推送 2026-03-23 · [GitHub](https://github.com/saharmor/sidekick-dev-web) · [官网](https://sidekickdev.com) · 个人维护
 
 **为 AI 编程代理生成 GitHub 仓库的 markdown 上下文文件**
 
@@ -45,12 +45,12 @@ Web 应用（React 前端 + FastAPI 后端），读取公开 GitHub 仓库，借
 ```mermaid
 xychart-beta
     title "saharmor/sidekick-dev-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 117 --> 119
-    line [118, 118]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 116 --> 119
+    line [118, 117]
 ```
 
-2026-10-18 118 → 2026-10-23 118（+0）
+2026-10-18 118 → 2026-10-24 117（-1）
 
 
 ---

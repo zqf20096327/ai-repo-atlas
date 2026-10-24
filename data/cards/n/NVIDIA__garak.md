@@ -1,6 +1,6 @@
 # NVIDIA/garak
 
-⭐ 9,655 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/garak) · [官网](https://discord.gg/uVch4puUCs) · 组织维护
+⭐ 9,676 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/garak) · [官网](https://discord.gg/uVch4puUCs) · 组织维护
 
 **LLM 漏洞扫描器：探测幻觉、越狱、注入等安全弱点**
 
@@ -43,13 +43,13 @@ NVIDIA 维护的命令行 LLM 红队评测工具，类比 nmap/Metasploit：以�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/garak 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 9597 --> 9660
-    line [9602, 9619, 9636, 9655]
+    title "NVIDIA/garak 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9595 --> 9683
+    line [9602, 9619, 9636, 9655, 9676]
 ```
 
-2026-10-18 9,602 → 2026-10-23 9,655（+53）
+2026-10-18 9,602 → 2026-10-24 9,676（+74）
 
 
 ---

@@ -1,6 +1,6 @@
 # friuns2/codex-mobile
 
-⭐ 972 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/friuns2/codex-mobile) · [官网](https://friuns2.github.io/codex-mobile/) · 个人维护
+⭐ 973 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/friuns2/codex-mobile) · [官网](https://friuns2.github.io/codex-mobile/) · 个人维护
 
 **把 Codex 桌面端体验通过浏览器跨平台运行的桥接工具**
 
@@ -46,13 +46,13 @@ codexapp 是一个轻量级桥接层：通过一条 npx 命令启动本地 Web �
 
 ```mermaid
 xychart-beta
-    title "friuns2/codex-mobile 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 967 --> 973
-    line [968, 970, 972]
+    title "friuns2/codex-mobile 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 967 --> 974
+    line [968, 970, 972, 973]
 ```
 
-2026-10-18 968 → 2026-10-23 972（+4）
+2026-10-18 968 → 2026-10-24 973（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # suihe1/short-drama-production
 
-⭐ 184 · JavaScript · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/suihe1/short-drama-production) · 个人维护 · 中文 README
+⭐ 186 · JavaScript · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/suihe1/short-drama-production) · 个人维护 · 中文 README
 
 **面向 Codex 的 AI 短剧生产总控 skill：串联剧本到成片的可审批生产链**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "suihe1/short-drama-production 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 182 --> 185
-    line [183, 184, 184]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 182 --> 187
+    line [183, 184, 186]
 ```
 
-2026-10-18 183 → 2026-10-23 184（+1）
+2026-10-18 183 → 2026-10-24 186（+3）
 
 
 ---

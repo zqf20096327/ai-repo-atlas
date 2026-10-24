@@ -1,6 +1,6 @@
 # ceva-ip/DPDFNet
 
-⭐ 171 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/ceva-ip/DPDFNet) · 组织维护
+⭐ 172 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/ceva-ip/DPDFNet) · 组织维护
 
 **实时语音增强模型库：为录音/直播/边缘设备去噪**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ceva-ip/DPDFNet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 162 --> 172
-    line [163, 168, 169, 171]
+    title "ceva-ip/DPDFNet 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 162 --> 173
+    line [163, 168, 169, 171, 172]
 ```
 
-2026-10-18 163 → 2026-10-23 171（+8）
+2026-10-18 163 → 2026-10-24 172（+9）
 
 
 ---

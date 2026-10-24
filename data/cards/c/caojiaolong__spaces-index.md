@@ -1,6 +1,6 @@
 # caojiaolong/spaces-index
 
-⭐ 301 · HTML · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/caojiaolong/spaces-index) · [官网](https://caojiaolong.github.io/spaces-index/) · 个人维护 · 中文 README
+⭐ 301 · HTML · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/caojiaolong/spaces-index) · [官网](https://caojiaolong.github.io/spaces-index/) · 个人维护 · 中文 README
 
 **科学空间博客的非官方文章索引与主题知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "caojiaolong/spaces-index 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 300 --> 302
     line [301, 301]
 ```
 
-2026-10-18 301 → 2026-10-23 301（+0）
+2026-10-18 301 → 2026-10-24 301（+0）
 
 
 ---

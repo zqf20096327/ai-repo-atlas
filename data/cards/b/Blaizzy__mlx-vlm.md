@@ -1,6 +1,6 @@
 # Blaizzy/mlx-vlm
 
-⭐ 5,648 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Blaizzy/mlx-vlm) · 个人维护
+⭐ 5,651 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Blaizzy/mlx-vlm) · 个人维护
 
 **Mac 上基于 MLX 的视觉语言模型推理与微调包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blaizzy/mlx-vlm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 5633 --> 5649
-    line [5634, 5639, 5648]
+    title "Blaizzy/mlx-vlm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5633 --> 5652
+    line [5634, 5639, 5648, 5651]
 ```
 
-2026-10-18 5,634 → 2026-10-23 5,648（+14）
+2026-10-18 5,634 → 2026-10-24 5,651（+17）
 
 
 ---

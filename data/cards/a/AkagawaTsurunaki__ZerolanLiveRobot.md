@@ -1,6 +1,6 @@
 # AkagawaTsurunaki/ZerolanLiveRobot
 
-⭐ 817 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/AkagawaTsurunaki/ZerolanLiveRobot) · [官网](https://github.com/AkagawaTsurunaki/ZerolanLiveRobot) · 个人维护 · 中文 README
+⭐ 818 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/AkagawaTsurunaki/ZerolanLiveRobot) · [官网](https://github.com/AkagawaTsurunaki/ZerolanLiveRobot) · 个人维护 · 中文 README
 
 **开源 AI VTuber：直播、聊天与 Minecraft 游玩的直播机器人**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AkagawaTsurunaki/ZerolanLiveRobot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 814 --> 818
-    line [815, 816, 817]
+    title "AkagawaTsurunaki/ZerolanLiveRobot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 814 --> 819
+    line [815, 816, 817, 818]
 ```
 
-2026-10-18 815 → 2026-10-23 817（+2）
+2026-10-18 815 → 2026-10-24 818（+3）
 
 
 ---

@@ -44,12 +44,12 @@ deepset 维护的 Haystack 示例 notebook 合集，覆盖不同模型提供商�
 ```mermaid
 xychart-beta
     title "deepset-ai/haystack-cookbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 546 --> 548
     line [547, 547]
 ```
 
-2026-10-18 547 → 2026-10-23 547（+0）
+2026-10-18 547 → 2026-10-24 547（+0）
 
 
 ---

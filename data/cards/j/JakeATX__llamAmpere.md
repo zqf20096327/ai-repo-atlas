@@ -1,6 +1,6 @@
 # JakeATX/llamAmpere
 
-⭐ 186 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JakeATX/llamAmpere) · 个人维护
+⭐ 187 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JakeATX/llamAmpere) · 个人维护
 
 **面向 RTX 3090/3090 Ti 优化的 llama.cpp fork，本地长上下文推理**
 
@@ -44,13 +44,13 @@ llama.cpp 的 fork，针对 Ampere 架构（SM86，RTX 3090/3090 Ti）调优，�
 
 ```mermaid
 xychart-beta
-    title "JakeATX/llamAmpere 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 177 --> 187
-    line [178, 182, 184, 186]
+    title "JakeATX/llamAmpere 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 177 --> 188
+    line [178, 182, 184, 186, 187]
 ```
 
-2026-10-18 178 → 2026-10-23 186（+8）
+2026-10-18 178 → 2026-10-24 187（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/diffusers
 
-⭐ 34,778 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/diffusers) · [官网](https://huggingface.co/docs/diffusers) · 组织维护
+⭐ 34,786 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/diffusers) · [官网](https://huggingface.co/docs/diffusers) · 组织维护
 
 **为开发者提供 PyTorch 扩散模型的推理与训练工具库**
 
@@ -51,13 +51,13 @@ Hugging Face 维护的 PyTorch 扩散模型库，覆盖图像、音频与分子 
 
 ```mermaid
 xychart-beta
-    title "huggingface/diffusers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 34741 --> 34781
-    line [34744, 34762, 34776, 34778]
+    title "huggingface/diffusers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 34740 --> 34790
+    line [34744, 34762, 34776, 34778, 34786]
 ```
 
-2026-10-18 34,744 → 2026-10-23 34,778（+34）
+2026-10-18 34,744 → 2026-10-24 34,786（+42）
 
 
 ---

@@ -1,6 +1,6 @@
 # yuwen-cool/yuwen-publish-precheck
 
-⭐ 790 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/yuwen-cool/yuwen-publish-precheck) · 个人维护 · 中文 README
+⭐ 791 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/yuwen-cool/yuwen-publish-precheck) · 个人维护 · 中文 README
 
 **给内容创作者的发布前 AI 合规审核技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuwen-cool/yuwen-publish-precheck 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 786 --> 791
-    line [787, 789, 790]
+    title "yuwen-cool/yuwen-publish-precheck 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 786 --> 792
+    line [787, 789, 790, 791]
 ```
 
-2026-10-18 787 → 2026-10-23 790（+3）
+2026-10-18 787 → 2026-10-24 791（+4）
 
 
 ---

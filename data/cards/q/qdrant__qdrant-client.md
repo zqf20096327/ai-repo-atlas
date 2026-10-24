@@ -1,6 +1,6 @@
 # qdrant/qdrant-client
 
-⭐ 1,373 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/qdrant-client) · [官网](https://qdrant.tech) · 组织维护
+⭐ 1,373 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/qdrant-client) · [官网](https://qdrant.tech) · 组织维护
 
 **Qdrant 向量搜索引擎的 Python 客户端库与 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qdrant/qdrant-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "qdrant/qdrant-client 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1372 --> 1375
-    line [1374, 1373]
+    line [1374, 1373, 1373]
 ```
 
-2026-10-18 1,374 → 2026-10-23 1,373（-1）
+2026-10-18 1,374 → 2026-10-24 1,373（-1）
 
 
 ---

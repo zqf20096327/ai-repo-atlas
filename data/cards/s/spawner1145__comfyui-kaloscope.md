@@ -1,6 +1,6 @@
 # spawner1145/comfyui-kaloscope
 
-⭐ 109 · Python · GPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/spawner1145/comfyui-kaloscope) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **画风分类与聚类工具：识别图片风格并输出特征与关系图**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

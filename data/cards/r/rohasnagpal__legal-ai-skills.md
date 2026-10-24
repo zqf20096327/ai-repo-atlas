@@ -1,6 +1,6 @@
 # rohasnagpal/legal-ai-skills
 
-⭐ 186 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rohasnagpal/legal-ai-skills) · 个人维护 · 中文 README
+⭐ 188 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rohasnagpal/legal-ai-skills) · 个人维护 · 中文 README
 
 **面向 Claude Code/Codex 的律所 AI 技能包：17 名律师+226 项法律技能**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rohasnagpal/legal-ai-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 182 --> 187
-    line [183, 184, 185, 186]
+    title "rohasnagpal/legal-ai-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 182 --> 189
+    line [183, 184, 185, 186, 188]
 ```
 
-2026-10-18 183 → 2026-10-23 186（+3）
+2026-10-18 183 → 2026-10-24 188（+5）
 
 
 ---

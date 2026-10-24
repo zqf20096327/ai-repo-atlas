@@ -1,6 +1,6 @@
 # jegly/OfflineLLM
 
-⭐ 267 · Kotlin · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/jegly/OfflineLLM) · [官网](https://jegly.xyz) · 个人维护
+⭐ 268 · Kotlin · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/jegly/OfflineLLM) · [官网](https://jegly.xyz) · 个人维护
 
 **Android 全离线本地 LLM 聊天应用，通过 llama.cpp 运行 GGUF 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jegly/OfflineLLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "jegly/OfflineLLM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 266 --> 270
-    line [267, 269, 268, 267]
+    line [267, 269, 268, 267, 268]
 ```
 
-2026-10-18 267 → 2026-10-23 267（+0）
+2026-10-18 267 → 2026-10-24 268（+1）
 
 
 ---

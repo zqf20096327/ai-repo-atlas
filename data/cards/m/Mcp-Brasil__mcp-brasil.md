@@ -1,6 +1,6 @@
 # Mcp-Brasil/mcp-brasil
 
-⭐ 1,825 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Mcp-Brasil/mcp-brasil) · 组织维护
+⭐ 1,826 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Mcp-Brasil/mcp-brasil) · 组织维护
 
 **连接 AI agent 与巴西 70 个公共数据 API 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mcp-Brasil/mcp-brasil 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1810 --> 1826
-    line [1811, 1814, 1825]
+    title "Mcp-Brasil/mcp-brasil 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1810 --> 1827
+    line [1811, 1814, 1825, 1826]
 ```
 
-2026-10-18 1,811 → 2026-10-23 1,825（+14）
+2026-10-18 1,811 → 2026-10-24 1,826（+15）
 
 
 ---

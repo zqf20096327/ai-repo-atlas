@@ -1,6 +1,6 @@
 # ARahim3/mlx-dspark
 
-⭐ 723 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ARahim3/mlx-dspark) · [官网](https://arahim.dev/mlx-dspark/) · 个人维护
+⭐ 724 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ARahim3/mlx-dspark) · [官网](https://arahim.dev/mlx-dspark/) · 个人维护
 
 **Apple Silicon 上的无损投机解码推理引擎（DSpark/DFlash 的 MLX 移植）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ARahim3/mlx-dspark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 718 --> 724
-    line [719, 720, 723]
+    title "ARahim3/mlx-dspark 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 718 --> 725
+    line [719, 720, 723, 724]
 ```
 
-2026-10-18 719 → 2026-10-23 723（+4）
+2026-10-18 719 → 2026-10-24 724（+5）
 
 
 ---

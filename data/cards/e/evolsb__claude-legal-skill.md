@@ -1,6 +1,6 @@
 # evolsb/claude-legal-skill
 
-⭐ 480 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/evolsb/claude-legal-skill) · [官网](https://ctsheehan.com) · 个人维护
+⭐ 482 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/evolsb/claude-legal-skill) · [官网](https://ctsheehan.com) · 个人维护
 
 **给开发者的合同审查 Agent 技能：风险检测与红线建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "evolsb/claude-legal-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 472 --> 481
-    line [473, 476, 480]
+    title "evolsb/claude-legal-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 472 --> 483
+    line [473, 476, 480, 482]
 ```
 
-2026-10-18 473 → 2026-10-23 480（+7）
+2026-10-18 473 → 2026-10-24 482（+9）
 
 
 ---

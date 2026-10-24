@@ -1,6 +1,6 @@
 # FuRongJun-1999/dsh-memory
 
-⭐ 453 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/FuRongJun-1999/dsh-memory) · 个人维护 · 中文 README
+⭐ 460 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/FuRongJun-1999/dsh-memory) · 个人维护 · 中文 README
 
 **面向 AI Agent 的长期记忆基础设施：确定性规则裁决的 md 认知图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FuRongJun-1999/dsh-memory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 402 --> 457
-    line [406, 418, 438, 453]
+    title "FuRongJun-1999/dsh-memory 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 401 --> 465
+    line [406, 418, 438, 453, 460]
 ```
 
-2026-10-18 406 → 2026-10-23 453（+47）
+2026-10-18 406 → 2026-10-24 460（+54）
 
 
 ---

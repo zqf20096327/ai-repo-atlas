@@ -1,6 +1,6 @@
 # VoltAgent/awesome-ai-agent-papers
 
-⭐ 1,864 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/VoltAgent/awesome-ai-agent-papers) · [官网](https://starterkit.getdesign.md/) · 组织维护
+⭐ 1,865 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/VoltAgent/awesome-ai-agent-papers) · [官网](https://starterkit.getdesign.md/) · 组织维护
 
 **2026 年 AI Agent 研究论文策展清单，按主题分类并每周更新**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VoltAgent/awesome-ai-agent-papers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1847 --> 1865
-    line [1848, 1854, 1860, 1864]
+    title "VoltAgent/awesome-ai-agent-papers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1847 --> 1866
+    line [1848, 1854, 1860, 1864, 1865]
 ```
 
-2026-10-18 1,848 → 2026-10-23 1,864（+16）
+2026-10-18 1,848 → 2026-10-24 1,865（+17）
 
 
 ---

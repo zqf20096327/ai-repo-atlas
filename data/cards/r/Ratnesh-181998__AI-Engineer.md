@@ -1,6 +1,6 @@
 # Ratnesh-181998/AI-Engineer
 
-⭐ 163 · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/Ratnesh-181998/AI-Engineer) · [官网](https://www.youtube.com/@aiDotEngineer/videos) · 个人维护
+⭐ 165 · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/Ratnesh-181998/AI-Engineer) · [官网](https://www.youtube.com/@aiDotEngineer/videos) · 个人维护
 
 **AI 工程主题图文笔记合集：Agentic AI、GenAI、RAG 概念图解**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ratnesh-181998/AI-Engineer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 157 --> 164
-    line [158, 159, 161, 163]
+    title "Ratnesh-181998/AI-Engineer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 157 --> 166
+    line [158, 159, 161, 163, 165]
 ```
 
-2026-10-18 158 → 2026-10-23 163（+5）
+2026-10-18 158 → 2026-10-24 165（+7）
 
 
 ---

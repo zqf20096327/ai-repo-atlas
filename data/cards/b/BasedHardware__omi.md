@@ -1,6 +1,6 @@
 # BasedHardware/omi
 
-⭐ 13,796 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/BasedHardware/omi) · [官网](https://omi.me) · 组织维护
+⭐ 13,809 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BasedHardware/omi) · [官网](https://omi.me) · 组织维护
 
 **记录屏幕与对话并生成摘要行动项的 AI 可穿戴伴侣应用**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "BasedHardware/omi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13752 --> 13800
-    line [13756, 13769, 13781, 13796]
+    title "BasedHardware/omi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13751 --> 13814
+    line [13756, 13769, 13781, 13796, 13809]
 ```
 
-2026-10-18 13,756 → 2026-10-23 13,796（+40）
+2026-10-18 13,756 → 2026-10-24 13,809（+53）
 
 
 ---

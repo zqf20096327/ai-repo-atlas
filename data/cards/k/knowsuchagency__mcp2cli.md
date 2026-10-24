@@ -1,6 +1,6 @@
 # knowsuchagency/mcp2cli
 
-⭐ 2,423 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/knowsuchagency/mcp2cli) · [官网](https://pypi.org/project/mcp2cli/) · 个人维护
+⭐ 2,422 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/knowsuchagency/mcp2cli) · [官网](https://pypi.org/project/mcp2cli/) · 个人维护
 
 **把 MCP/OpenAPI/GraphQL 服务在运行时转为 CLI 的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "knowsuchagency/mcp2cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "knowsuchagency/mcp2cli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2417 --> 2425
-    line [2418, 2424, 2423]
+    line [2418, 2424, 2423, 2422]
 ```
 
-2026-10-18 2,418 → 2026-10-23 2,423（+5）
+2026-10-18 2,418 → 2026-10-24 2,422（+4）
 
 
 ---

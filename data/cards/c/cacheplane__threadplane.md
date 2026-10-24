@@ -1,6 +1,6 @@
 # cacheplane/threadplane
 
-⭐ 286 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cacheplane/threadplane) · [官网](https://threadplane.ai) · 组织维护
+⭐ 286 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/cacheplane/threadplane) · [官网](https://threadplane.ai) · 组织维护
 
 **面向 Angular 的开源 agent 线程层：聊天、持久线程与生成式 UI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cacheplane/threadplane 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "cacheplane/threadplane 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 285 --> 306
-    line [305, 286]
+    line [305, 286, 286]
 ```
 
-2026-10-18 305 → 2026-10-23 286（-19）
+2026-10-18 305 → 2026-10-24 286（-19）
 
 
 ---

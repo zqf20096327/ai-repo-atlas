@@ -1,6 +1,6 @@
 # intel/openvino-ai-plugins-gimp
 
-⭐ 809 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/intel/openvino-ai-plugins-gimp) · 组织维护
+⭐ 808 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/intel/openvino-ai-plugins-gimp) · 组织维护
 
 **给 GIMP 用户的 OpenVINO AI 插件集：图像生成/超分/语义分割**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "intel/openvino-ai-plugins-gimp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 808 --> 812
-    line [811, 809]
+    title "intel/openvino-ai-plugins-gimp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 807 --> 812
+    line [811, 809, 808]
 ```
 
-2026-10-18 811 → 2026-10-23 809（-2）
+2026-10-18 811 → 2026-10-24 808（-3）
 
 
 ---

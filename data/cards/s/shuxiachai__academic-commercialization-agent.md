@@ -1,6 +1,6 @@
 # shuxiachai/academic-commercialization-agent
 
-⭐ 732 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shuxiachai/academic-commercialization-agent) · [官网](https://academic-commercialization-agent.up.railway.app) · 个人维护 · 中文 README
+⭐ 773 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shuxiachai/academic-commercialization-agent) · [官网](https://academic-commercialization-agent.up.railway.app) · 个人维护 · 中文 README
 
 **把论文/课题转化为带引用的成果转化评估报告的多智能体应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shuxiachai/academic-commercialization-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 588 --> 745
-    line [601, 631, 687, 732]
+    title "shuxiachai/academic-commercialization-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 584 --> 790
+    line [601, 631, 687, 732, 773]
 ```
 
-2026-10-18 601 → 2026-10-23 732（+131）
+2026-10-18 601 → 2026-10-24 773（+172）
 
 
 ---

@@ -1,6 +1,6 @@
 # no-session/pstack
 
-⭐ 145 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/no-session/pstack) · 个人维护
+⭐ 147 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/no-session/pstack) · 个人维护
 
 **面向独立开发者的 Claude Code 技能栈：验证→规划→开发→评审→上线闭环**
 
@@ -45,13 +45,13 @@ gstack 的分支，为单人创业者重新组织的一套 Claude Code 技能（
 
 ```mermaid
 xychart-beta
-    title "no-session/pstack 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 138 --> 146
-    line [139, 143, 144, 145]
+    title "no-session/pstack 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 138 --> 148
+    line [139, 143, 144, 145, 147]
 ```
 
-2026-10-18 139 → 2026-10-23 145（+6）
+2026-10-18 139 → 2026-10-24 147（+8）
 
 
 ---

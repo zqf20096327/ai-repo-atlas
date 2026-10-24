@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RegiaYoung/SlideFormer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "RegiaYoung/SlideFormer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 140 --> 155
-    line [154, 141]
+    line [154, 141, 141]
 ```
 
-2026-10-18 154 → 2026-10-23 141（-13）
+2026-10-18 154 → 2026-10-24 141（-13）
 
 
 ---

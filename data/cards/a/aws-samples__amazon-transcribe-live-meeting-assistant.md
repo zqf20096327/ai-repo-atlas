@@ -1,6 +1,6 @@
 # aws-samples/amazon-transcribe-live-meeting-assistant
 
-⭐ 168 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/aws-samples/amazon-transcribe-live-meeting-assistant) · [官网](https://aws-samples.github.io/amazon-transcribe-live-meeting-assistant/) · 组织维护
+⭐ 169 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/aws-samples/amazon-transcribe-live-meeting-assistant) · [官网](https://aws-samples.github.io/amazon-transcribe-live-meeting-assistant/) · 组织维护
 
 **实时会议转录/翻译/摘要与 AI 助手的 AWS 解决方案**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/amazon-transcribe-live-meeting-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 167 --> 170
+    line [168, 169]
 ```
 
-2026-10-18 168 → 2026-10-23 168（+0）
+2026-10-18 168 → 2026-10-24 169（+1）
 
 
 ---

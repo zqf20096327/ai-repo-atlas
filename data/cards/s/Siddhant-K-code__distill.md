@@ -46,13 +46,13 @@ Go 编写的上下文处理服务，为 LLM agent 提供跨会话持久记忆：
 
 ```mermaid
 xychart-beta
-    title "Siddhant-K-code/distill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Siddhant-K-code/distill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 195 --> 198
-    line [196, 197]
+    line [196, 197, 197]
 ```
 
-2026-10-18 196 → 2026-10-23 197（+1）
+2026-10-18 196 → 2026-10-24 197（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-Memory
 
-⭐ 1,172 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Memory) · 组织维护 · 中文 README
+⭐ 1,230 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Memory) · 组织维护 · 中文 README
 
 **面向自进化 LLM agent 的双系统认知记忆引擎与 Python SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hy-Memory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 472 --> 1235
-    line [535, 951, 1116, 1172]
+    title "Tencent-Hunyuan/Hy-Memory 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 466 --> 1299
+    line [535, 951, 1116, 1172, 1230]
 ```
 
-2026-10-18 535 → 2026-10-23 1,172（+637）
+2026-10-18 535 → 2026-10-24 1,230（+695）
 
 
 ---

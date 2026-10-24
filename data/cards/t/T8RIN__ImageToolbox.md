@@ -1,6 +1,6 @@
 # T8RIN/ImageToolbox
 
-⭐ 15,120 · Kotlin · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/T8RIN/ImageToolbox) · 个人维护
+⭐ 15,138 · Kotlin · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/T8RIN/ImageToolbox) · 个人维护
 
 **Android 图像编辑应用：裁剪、500+滤镜、EXIF、抠图、OCR**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "T8RIN/ImageToolbox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 15039 --> 15127
-    line [15046, 15074, 15100, 15120]
+    title "T8RIN/ImageToolbox 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 15037 --> 15147
+    line [15046, 15074, 15100, 15120, 15138]
 ```
 
-2026-10-18 15,046 → 2026-10-23 15,120（+74）
+2026-10-18 15,046 → 2026-10-24 15,138（+92）
 
 
 ---

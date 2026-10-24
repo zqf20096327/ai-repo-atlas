@@ -1,6 +1,6 @@
 # gexijin/RTutor
 
-⭐ 322 · HTML · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/gexijin/RTutor) · [官网](https://RTutor.ai) · 个人维护
+⭐ 322 · HTML · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/gexijin/RTutor) · [官网](https://RTutor.ai) · 个人维护
 
 **用自然语言对话分析数据的 R/Shiny 应用，自动生成并执行 R 代码**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "gexijin/RTutor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 321 --> 323
     line [322, 322]
 ```
 
-2026-10-18 322 → 2026-10-23 322（+0）
+2026-10-18 322 → 2026-10-24 322（+0）
 
 
 ---

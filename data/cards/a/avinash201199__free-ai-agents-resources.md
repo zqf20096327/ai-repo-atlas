@@ -1,6 +1,6 @@
 # avinash201199/free-ai-agents-resources
 
-⭐ 1,062 · MIT · 推送 2026-02-28 · [GitHub](https://github.com/avinash201199/free-ai-agents-resources) · [官网](https://www.lets-code.co.in/) · 个人维护
+⭐ 1,061 · MIT · 推送 2026-02-28 · [GitHub](https://github.com/avinash201199/free-ai-agents-resources) · [官网](https://www.lets-code.co.in/) · 个人维护
 
 **AI agent 免费学习资源策展清单：教程、框架、社区与课程**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "avinash201199/free-ai-agents-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "avinash201199/free-ai-agents-resources 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1056 --> 1063
-    line [1057, 1061, 1062]
+    line [1057, 1061, 1062, 1061]
 ```
 
-2026-10-18 1,057 → 2026-10-23 1,062（+5）
+2026-10-18 1,057 → 2026-10-24 1,061（+4）
 
 
 ---

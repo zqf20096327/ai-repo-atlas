@@ -1,6 +1,6 @@
 # rohitg00/agentmemory
 
-⭐ 29,794 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/rohitg00/agentmemory) · [官网](https://agent-memory.dev) · 个人维护
+⭐ 29,827 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rohitg00/agentmemory) · [官网](https://agent-memory.dev) · 个人维护
 
 **给 AI 编码 agent 提供跨会话持久记忆的 MCP 服务器**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "rohitg00/agentmemory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 29595 --> 29812
-    line [29613, 29684, 29742, 29794]
+    title "rohitg00/agentmemory 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 29592 --> 29848
+    line [29613, 29684, 29742, 29794, 29827]
 ```
 
-2026-10-18 29,613 → 2026-10-23 29,794（+181）
+2026-10-18 29,613 → 2026-10-24 29,827（+214）
 
 
 ---

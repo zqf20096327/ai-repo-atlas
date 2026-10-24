@@ -1,6 +1,6 @@
 # xzf-thu/VoiceMem
 
-⭐ 2,639 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/xzf-thu/VoiceMem) · 组织维护 · 中文 README
+⭐ 2,663 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/xzf-thu/VoiceMem) · 组织维护 · 中文 README
 
 **面向实时语音智能体的长期记忆系统（流式双脑架构）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xzf-thu/VoiceMem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2551 --> 2647
-    line [2559, 2595, 2622, 2639]
+    title "xzf-thu/VoiceMem 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2549 --> 2673
+    line [2559, 2595, 2622, 2639, 2663]
 ```
 
-2026-10-18 2,559 → 2026-10-23 2,639（+80）
+2026-10-18 2,559 → 2026-10-24 2,663（+104）
 
 
 ---

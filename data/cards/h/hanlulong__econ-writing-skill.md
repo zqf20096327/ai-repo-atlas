@@ -1,6 +1,6 @@
 # hanlulong/econ-writing-skill
 
-⭐ 672 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/hanlulong/econ-writing-skill) · [官网](https://openecon.ai) · 个人维护
+⭐ 675 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/hanlulong/econ-writing-skill) · [官网](https://openecon.ai) · 个人维护
 
 **把 AI 助手变为经济学论文写作专家的 Agent Skill**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hanlulong/econ-writing-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 664 --> 673
-    line [665, 669, 672, 672]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 664 --> 676
+    line [665, 669, 672, 675]
 ```
 
-2026-10-18 665 → 2026-10-23 672（+7）
+2026-10-18 665 → 2026-10-24 675（+10）
 
 
 ---

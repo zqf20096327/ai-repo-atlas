@@ -1,6 +1,6 @@
 # WeftCut/WeftCut
 
-⭐ 249 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/WeftCut/WeftCut) · [官网](https://weftcut.com) · 个人维护 · 中文 README
+⭐ 257 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/WeftCut/WeftCut) · [官网](https://weftcut.com) · 个人维护 · 中文 README
 
 **可被 AI agent 通过 MCP 操控的开源桌面视频编辑器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WeftCut/WeftCut 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 232 --> 250
-    line [233, 240, 245, 249]
+    title "WeftCut/WeftCut 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 231 --> 259
+    line [233, 240, 245, 249, 257]
 ```
 
-2026-10-18 233 → 2026-10-23 249（+16）
+2026-10-18 233 → 2026-10-24 257（+24）
 
 
 ---

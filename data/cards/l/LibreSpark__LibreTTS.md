@@ -1,6 +1,6 @@
 # LibreSpark/LibreTTS
 
-⭐ 389 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/LibreSpark/LibreTTS) · [官网](https://LibreTTS.is-an.org) · 个人维护 · 中文 README
+⭐ 388 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/LibreSpark/LibreTTS) · [官网](https://LibreTTS.is-an.org) · 个人维护 · 中文 README
 
 **在线文本转语音 Web 前端，聚合 Edge/OpenAI 等多种 TTS 接口**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LibreSpark/LibreTTS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "LibreSpark/LibreTTS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 386 --> 390
-    line [387, 388, 389]
+    line [387, 388, 389, 388]
 ```
 
-2026-10-18 387 → 2026-10-23 389（+2）
+2026-10-18 387 → 2026-10-24 388（+1）
 
 
 ---

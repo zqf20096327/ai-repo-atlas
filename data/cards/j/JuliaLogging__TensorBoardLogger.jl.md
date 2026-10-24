@@ -45,12 +45,12 @@ TensorBoardLogger.jl 是 Julia 原生库，扩展 Julia 标准 Logging 框架，
 ```mermaid
 xychart-beta
     title "JuliaLogging/TensorBoardLogger.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 113 --> 115
     line [114, 114]
 ```
 
-2026-10-18 114 → 2026-10-23 114（+0）
+2026-10-18 114 → 2026-10-24 114（+0）
 
 
 ---

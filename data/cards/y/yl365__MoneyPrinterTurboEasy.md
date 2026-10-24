@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yl365/MoneyPrinterTurboEasy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "yl365/MoneyPrinterTurboEasy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 266 --> 270
-    line [267, 269]
+    line [267, 269, 269]
 ```
 
-2026-10-18 267 → 2026-10-23 269（+2）
+2026-10-18 267 → 2026-10-24 269（+2）
 
 
 ---

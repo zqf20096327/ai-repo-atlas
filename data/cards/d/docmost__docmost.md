@@ -1,6 +1,6 @@
 # docmost/docmost
 
-⭐ 22,066 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/docmost/docmost) · [官网](https://docmost.com) · 组织维护
+⭐ 22,079 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/docmost/docmost) · [官网](https://docmost.com) · 组织维护
 
 **给团队提供的开源协作 wiki 与文档软件**
 
@@ -50,13 +50,13 @@ Docmost 是一个开源的协作 wiki 与文档软件，自称是 Confluence 和
 
 ```mermaid
 xychart-beta
-    title "docmost/docmost 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 22006 --> 22071
-    line [22011, 22035, 22050, 22066]
+    title "docmost/docmost 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 22005 --> 22085
+    line [22011, 22035, 22050, 22066, 22079]
 ```
 
-2026-10-18 22,011 → 2026-10-23 22,066（+55）
+2026-10-18 22,011 → 2026-10-24 22,079（+68）
 
 
 ---

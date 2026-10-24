@@ -46,12 +46,12 @@ continuous-eval 是用于 LLM 应用数据驱动评测的 Python 包：提供模
 ```mermaid
 xychart-beta
     title "relari-ai/continuous-eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 518 --> 520
     line [519, 519]
 ```
 
-2026-10-18 519 → 2026-10-23 519（+0）
+2026-10-18 519 → 2026-10-24 519（+0）
 
 
 ---

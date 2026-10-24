@@ -46,12 +46,12 @@ FedRAG 是由 Vector Institute 维护的开源框架，用于在集中式或联�
 ```mermaid
 xychart-beta
     title "VectorInstitute/fed-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 149 --> 151
     line [150, 150]
 ```
 
-2026-10-18 150 → 2026-10-23 150（+0）
+2026-10-18 150 → 2026-10-24 150（+0）
 
 
 ---

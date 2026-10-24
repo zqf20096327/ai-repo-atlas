@@ -1,6 +1,6 @@
 # HarnessRouter/harnessrouter
 
-⭐ 3,227 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/HarnessRouter/harnessrouter) · [官网](https://harnessrouter.ai/) · 组织维护
+⭐ 3,268 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/HarnessRouter/harnessrouter) · [官网](https://harnessrouter.ai/) · 组织维护
 
 **自托管的 agent harness 统一接口：一套 API 运行多种编码代理**
 
@@ -44,13 +44,13 @@ Apache-2.0 的基础设施层：将 Codex、Claude Code、DeepSeek Harness 等 2
 
 ```mermaid
 xychart-beta
-    title "HarnessRouter/harnessrouter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3071 --> 3241
-    line [3085, 3141, 3227]
+    title "HarnessRouter/harnessrouter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3067 --> 3286
+    line [3085, 3141, 3227, 3268]
 ```
 
-2026-10-18 3,085 → 2026-10-23 3,227（+142）
+2026-10-18 3,085 → 2026-10-24 3,268（+183）
 
 
 ---

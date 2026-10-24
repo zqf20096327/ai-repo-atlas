@@ -1,6 +1,6 @@
 # bdg9412/artex-ko-plus
 
-⭐ 215 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/bdg9412/artex-ko-plus) · 个人维护 · 中文 README
+⭐ 216 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/bdg9412/artex-ko-plus) · 个人维护 · 中文 README
 
 **ARTEX 韩语版扩展：漏洞诊断、事件调查与检测规则闭环的 Web 平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bdg9412/artex-ko-plus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 191 --> 217
-    line [193, 200, 211, 215]
+    title "bdg9412/artex-ko-plus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 191 --> 218
+    line [193, 200, 211, 215, 216]
 ```
 
-2026-10-18 193 → 2026-10-23 215（+22）
+2026-10-18 193 → 2026-10-24 216（+23）
 
 
 ---

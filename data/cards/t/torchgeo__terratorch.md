@@ -1,6 +1,6 @@
 # torchgeo/terratorch
 
-⭐ 876 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/torchgeo/terratorch) · [官网](https://torchgeo.github.io/terratorch/) · 组织维护
+⭐ 877 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/torchgeo/terratorch) · [官网](https://torchgeo.github.io/terratorch/) · 组织维护
 
 **地理空间基础模型（GFM）微调框架，面向遥感/地球观测开发者**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "torchgeo/terratorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 873 --> 877
-    line [874, 875, 876]
+    title "torchgeo/terratorch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 873 --> 878
+    line [874, 875, 876, 877]
 ```
 
-2026-10-18 874 → 2026-10-23 876（+2）
+2026-10-18 874 → 2026-10-24 877（+3）
 
 
 ---

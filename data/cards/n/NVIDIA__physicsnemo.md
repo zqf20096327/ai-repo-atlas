@@ -1,6 +1,6 @@
 # NVIDIA/physicsnemo
 
-⭐ 3,379 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/physicsnemo) · [官网](https://developer.nvidia.com/physicsnemo) · 组织维护
+⭐ 3,383 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/physicsnemo) · [官网](https://developer.nvidia.com/physicsnemo) · 组织维护
 
 **面向物理机器学习的 PyTorch 框架：构建、训练科学计算模型**
 
@@ -46,13 +46,13 @@ NVIDIA 开源的 PyTorch 物理机器学习框架，提供可复用库组件与�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/physicsnemo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3360 --> 3380
-    line [3361, 3367, 3375, 3379]
+    title "NVIDIA/physicsnemo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3359 --> 3385
+    line [3361, 3367, 3375, 3379, 3383]
 ```
 
-2026-10-18 3,361 → 2026-10-23 3,379（+18）
+2026-10-18 3,361 → 2026-10-24 3,383（+22）
 
 
 ---

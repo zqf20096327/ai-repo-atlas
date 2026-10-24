@@ -1,6 +1,6 @@
 # The-FinAI/PIXIU
 
-⭐ 894 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/The-FinAI/PIXIU) · [官网](https://huggingface.co/collections/TheFinAI/finben-and-pixiu-english-financial-evaluation-658f515911f68f12ea193194) · 组织维护 · 中文 README
+⭐ 895 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/The-FinAI/PIXIU) · [官网](https://huggingface.co/collections/TheFinAI/finben-and-pixiu-english-financial-evaluation-658f515911f68f12ea193194) · 组织维护 · 中文 README
 
 **金融领域 LLM 评测基准、指令数据集与微调模型的开放资源**
 
@@ -46,12 +46,12 @@ PIXIU 聚合三大组件：FinBen 金融语言理解与预测评测基准（覆�
 ```mermaid
 xychart-beta
     title "The-FinAI/PIXIU 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 893 --> 895
-    line [894, 894]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 893 --> 896
+    line [894, 895]
 ```
 
-2026-10-18 894 → 2026-10-23 894（+0）
+2026-10-18 894 → 2026-10-24 895（+1）
 
 
 ---

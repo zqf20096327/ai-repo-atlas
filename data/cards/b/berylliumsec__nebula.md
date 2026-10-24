@@ -1,6 +1,6 @@
 # berylliumsec/nebula
 
-⭐ 1,129 · Python · BSD-2-Clause · 推送 2026-10-22 · [GitHub](https://github.com/berylliumsec/nebula) · [官网](https://www.berylliumsec.com) · 组织维护
+⭐ 1,127 · Python · BSD-2-Clause · 推送 2026-10-23 · [GitHub](https://github.com/berylliumsec/nebula) · [官网](https://www.berylliumsec.com) · 组织维护
 
 **面向操作员的网络安全测试工作台，集成 AI 助手与 Kali 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "berylliumsec/nebula 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "berylliumsec/nebula 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1125 --> 1130
-    line [1126, 1129, 1128, 1129]
+    line [1126, 1129, 1128, 1129, 1127]
 ```
 
-2026-10-18 1,126 → 2026-10-23 1,129（+3）
+2026-10-18 1,126 → 2026-10-24 1,127（+1）
 
 
 ---

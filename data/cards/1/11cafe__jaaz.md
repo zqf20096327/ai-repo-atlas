@@ -1,6 +1,6 @@
 # 11cafe/jaaz
 
-⭐ 6,721 · TypeScript · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/11cafe/jaaz) · [官网](https://jaaz.app) · 个人维护 · 中文 README
+⭐ 6,722 · TypeScript · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/11cafe/jaaz) · [官网](https://jaaz.app) · 个人维护 · 中文 README
 
 **开源多模态创意画布助手：本地生成图像与视频的 Canva 替代品**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "11cafe/jaaz 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6707 --> 6722
-    line [6708, 6712, 6717, 6721]
+    title "11cafe/jaaz 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6707 --> 6723
+    line [6708, 6712, 6717, 6721, 6722]
 ```
 
-2026-10-18 6,708 → 2026-10-23 6,721（+13）
+2026-10-18 6,708 → 2026-10-24 6,722（+14）
 
 
 ---

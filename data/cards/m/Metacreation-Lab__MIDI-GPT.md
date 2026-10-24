@@ -1,6 +1,6 @@
 # Metacreation-Lab/MIDI-GPT
 
-⭐ 111 · C++ · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Metacreation-Lab/MIDI-GPT) · [官网](https://metacreation-lab.github.io/MIDI-GPT/) · 组织维护
+⭐ 112 · C++ · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Metacreation-Lab/MIDI-GPT) · [官网](https://metacreation-lab.github.io/MIDI-GPT/) · 组织维护
 
 **多轨符号音乐生成的 GPT-2 transformer 库，支持属性可控补全**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Metacreation-Lab/MIDI-GPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "Metacreation-Lab/MIDI-GPT 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 110 --> 113
-    line [111, 112, 111]
+    line [111, 112, 111, 112]
 ```
 
-2026-10-18 111 → 2026-10-23 111（+0）
+2026-10-18 111 → 2026-10-24 112（+1）
 
 
 ---

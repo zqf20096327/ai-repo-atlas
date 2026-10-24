@@ -1,6 +1,6 @@
 # Sanssssssssssssssss/ERP-agent
 
-⭐ 180 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Sanssssssssssssssss/ERP-agent) · 个人维护 · 中文 README
+⭐ 192 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Sanssssssssssssssss/ERP-agent) · 个人维护 · 中文 README
 
 **让 AI Agent 实际操作 Odoo 19 ERP 的 Windows 桌面工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sanssssssssssssssss/ERP-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 119 --> 185
-    line [124, 151, 176, 180]
+    title "Sanssssssssssssssss/ERP-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 118 --> 198
+    line [124, 151, 176, 180, 192]
 ```
 
-2026-10-18 124 → 2026-10-23 180（+56）
+2026-10-18 124 → 2026-10-24 192（+68）
 
 
 ---

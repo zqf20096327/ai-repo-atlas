@@ -1,6 +1,6 @@
 # healthymind-tech/Taiwan-Health-MCP
 
-⭐ 166 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/healthymind-tech/Taiwan-Health-MCP) · [官网](https://tw-health-mcp.healthymind-tech.com) · 组织维护 · 中文 README
+⭐ 167 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/healthymind-tech/Taiwan-Health-MCP) · [官网](https://tw-health-mcp.healthymind-tech.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的台湾医疗数据 MCP 服务器（64 个工具）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "healthymind-tech/Taiwan-Health-MCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 163 --> 167
-    line [164, 165, 166]
+    title "healthymind-tech/Taiwan-Health-MCP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 163 --> 168
+    line [164, 165, 166, 167]
 ```
 
-2026-10-18 164 → 2026-10-23 166（+2）
+2026-10-18 164 → 2026-10-24 167（+3）
 
 
 ---

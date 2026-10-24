@@ -1,6 +1,6 @@
 # rulego/rulego
 
-⭐ 1,626 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rulego/rulego) · [官网](https://rulego.cc) · 组织维护 · 中文 README
+⭐ 1,627 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rulego/rulego) · [官网](https://rulego.cc) · 组织维护 · 中文 README
 
 **Go 轻量级组件化规则引擎，用于业务编排与数据集成**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rulego/rulego 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1624 --> 1627
-    line [1625, 1626, 1626]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1624 --> 1628
+    line [1625, 1626, 1627]
 ```
 
-2026-10-18 1,625 → 2026-10-23 1,626（+1）
+2026-10-18 1,625 → 2026-10-24 1,627（+2）
 
 
 ---

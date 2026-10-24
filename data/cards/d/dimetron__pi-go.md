@@ -1,6 +1,6 @@
 # dimetron/pi-go
 
-⭐ 214 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/dimetron/pi-go) · [官网](https://pi-go.sh) · 个人维护
+⭐ 217 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dimetron/pi-go) · [官网](https://pi-go.sh) · 个人维护
 
 **面向开发者的终端 AI 编程 agent（Go 实现）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dimetron/pi-go 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 210 --> 215
-    line [211, 212, 214, 214]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 210 --> 218
+    line [211, 212, 214, 217]
 ```
 
-2026-10-18 211 → 2026-10-23 214（+3）
+2026-10-18 211 → 2026-10-24 217（+6）
 
 
 ---

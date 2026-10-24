@@ -1,6 +1,6 @@
 # asigalov61/Tegridy-MIDI-Dataset
 
-⭐ 298 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/asigalov61/Tegridy-MIDI-Dataset) · [官网](https://soundcloud.com/aleksandr-sigalov-61/) · 个人维护
+⭐ 299 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/asigalov61/Tegridy-MIDI-Dataset) · [官网](https://soundcloud.com/aleksandr-sigalov-61/) · 个人维护
 
 **多乐器 MIDI 数据集聚合中心，供 MIR 与音乐 AI 研究**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "asigalov61/Tegridy-MIDI-Dataset 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 296 --> 299
-    line [297, 298, 298]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 296 --> 300
+    line [297, 298, 299]
 ```
 
-2026-10-18 297 → 2026-10-23 298（+1）
+2026-10-18 297 → 2026-10-24 299（+2）
 
 
 ---

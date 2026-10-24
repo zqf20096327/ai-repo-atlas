@@ -1,6 +1,6 @@
 # taruma/SceneFlow
 
-⭐ 373 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/taruma/SceneFlow) · [官网](https://sceneflow.taruma.my.id) · 个人维护
+⭐ 375 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/taruma/SceneFlow) · [官网](https://sceneflow.taruma.my.id) · 个人维护
 
 **为 AI 影像创作者做剧本-视频同步与提示词遵循度分析的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "taruma/SceneFlow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 367 --> 374
-    line [368, 369, 370, 373]
+    title "taruma/SceneFlow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 367 --> 376
+    line [368, 369, 370, 373, 375]
 ```
 
-2026-10-18 368 → 2026-10-23 373（+5）
+2026-10-18 368 → 2026-10-24 375（+7）
 
 
 ---

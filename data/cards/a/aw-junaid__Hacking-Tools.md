@@ -1,6 +1,6 @@
 # aw-junaid/Hacking-Tools
 
-⭐ 1,068 · C · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/aw-junaid/Hacking-Tools) · [官网](https://awjunaid.com) · 个人维护
+⭐ 1,069 · C · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/aw-junaid/Hacking-Tools) · [官网](https://awjunaid.com) · 个人维护
 
 **道德黑客工具与恶意软件样本的聚合参考清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aw-junaid/Hacking-Tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1044 --> 1070
-    line [1046, 1052, 1068, 1068]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1044 --> 1071
+    line [1046, 1052, 1068, 1069]
 ```
 
-2026-10-18 1,046 → 2026-10-23 1,068（+22）
+2026-10-18 1,046 → 2026-10-24 1,069（+23）
 
 
 ---

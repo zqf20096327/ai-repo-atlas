@@ -1,6 +1,6 @@
 # templetongroup/radiant
 
-⭐ 114 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/templetongroup/radiant) · [官网](https://templetongroup.dev/showcase/radiant/) · 组织维护
+⭐ 115 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/templetongroup/radiant) · [官网](https://templetongroup.dev/showcase/radiant/) · 组织维护
 
 **Mac 本地编码代理客户端：聚合云端与本地模型聊天驱动代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "templetongroup/radiant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "templetongroup/radiant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 113 --> 116
-    line [115, 114]
+    line [115, 114, 115]
 ```
 
-2026-10-18 115 → 2026-10-23 114（-1）
+2026-10-18 115 → 2026-10-24 115（+0）
 
 
 ---

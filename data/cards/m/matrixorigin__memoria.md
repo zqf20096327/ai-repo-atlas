@@ -1,6 +1,6 @@
 # matrixorigin/memoria
 
-⭐ 614 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/matrixorigin/memoria) · [官网](https://thememoria.ai/) · 组织维护 · 中文 README
+⭐ 615 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/matrixorigin/memoria) · [官网](https://thememoria.ai/) · 组织维护 · 中文 README
 
 **AI Agent 持久记忆层：带 Git 式版本控制的记忆存储与检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matrixorigin/memoria 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 613 --> 615
-    line [614, 614]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 613 --> 616
+    line [614, 615]
 ```
 
-2026-10-18 614 → 2026-10-23 614（+0）
+2026-10-18 614 → 2026-10-24 615（+1）
 
 
 ---

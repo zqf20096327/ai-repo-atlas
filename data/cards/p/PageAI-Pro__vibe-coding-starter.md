@@ -1,6 +1,6 @@
 # PageAI-Pro/vibe-coding-starter
 
-⭐ 367 · TypeScript · NOASSERTION · 推送 2026-03-29 · [GitHub](https://github.com/PageAI-Pro/vibe-coding-starter) · [官网](https://pageai.pro/blog/vibe-coding-starter-guide) · 组织维护
+⭐ 368 · TypeScript · NOASSERTION · 推送 2026-03-29 · [GitHub](https://github.com/PageAI-Pro/vibe-coding-starter) · [官网](https://pageai.pro/blog/vibe-coding-starter-guide) · 组织维护
 
 **AI 网站生成工具的 starter 模板（配套教程）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "PageAI-Pro/vibe-coding-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 366 --> 368
-    line [367, 367]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 366 --> 369
+    line [367, 368]
 ```
 
-2026-10-18 367 → 2026-10-23 367（+0）
+2026-10-18 367 → 2026-10-24 368（+1）
 
 
 ---

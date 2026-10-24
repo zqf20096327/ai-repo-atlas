@@ -1,6 +1,6 @@
 # feyninc/chonkie
 
-⭐ 4,801 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/feyninc/chonkie) · [官网](https://docs.chonkie.ai) · 组织维护
+⭐ 4,802 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/feyninc/chonkie) · [官网](https://docs.chonkie.ai) · 组织维护
 
 **面向 RAG 流水线的轻量文本分块（chunking）库**
 
@@ -45,13 +45,13 @@ Chonkie 是一个 Python 文本分块库，用于 RAG 应用的数据摄取环�
 
 ```mermaid
 xychart-beta
-    title "feyninc/chonkie 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4791 --> 4802
-    line [4792, 4797, 4801]
+    title "feyninc/chonkie 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4791 --> 4803
+    line [4792, 4797, 4801, 4802]
 ```
 
-2026-10-18 4,792 → 2026-10-23 4,801（+9）
+2026-10-18 4,792 → 2026-10-24 4,802（+10）
 
 
 ---

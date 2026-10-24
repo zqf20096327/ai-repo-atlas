@@ -1,6 +1,6 @@
 # ZHangZHengEric/Sage
 
-⭐ 1,214 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ZHangZHengEric/Sage) · [官网](https://zhangzhengeric.github.io/Sage/) · 组织维护 · 中文 README
+⭐ 1,214 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ZHangZHengEric/Sage) · [官网](https://zhangzhengeric.github.io/Sage/) · 组织维护 · 中文 README
 
 **构建自定义自进化 AI Agent 的开源平台（运行时+桌面+服务端）**
 
@@ -46,13 +46,13 @@ Sage 是构建自定义、可自我进化 AI Agent 的平台：用 sage.yaml 定
 
 ```mermaid
 xychart-beta
-    title "ZHangZHengEric/Sage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "ZHangZHengEric/Sage 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1211 --> 1215
-    line [1212, 1213, 1214]
+    line [1212, 1213, 1214, 1214]
 ```
 
-2026-10-18 1,212 → 2026-10-23 1,214（+2）
+2026-10-18 1,212 → 2026-10-24 1,214（+2）
 
 
 ---

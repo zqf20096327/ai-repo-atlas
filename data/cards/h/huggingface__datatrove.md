@@ -1,6 +1,6 @@
 # huggingface/datatrove
 
-⭐ 3,398 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/datatrove) · 组织维护
+⭐ 3,400 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/datatrove) · 组织维护
 
 **大规模文本数据处理、过滤与去重的流水线库，面向 LLM 训练数据制备**
 
@@ -45,13 +45,13 @@ Hugging Face 维护的数据处理库：提供读取、提取、过滤、统计�
 
 ```mermaid
 xychart-beta
-    title "huggingface/datatrove 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3389 --> 3399
-    line [3390, 3393, 3396, 3398]
+    title "huggingface/datatrove 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3389 --> 3401
+    line [3390, 3393, 3396, 3398, 3400]
 ```
 
-2026-10-18 3,390 → 2026-10-23 3,398（+8）
+2026-10-18 3,390 → 2026-10-24 3,400（+10）
 
 
 ---

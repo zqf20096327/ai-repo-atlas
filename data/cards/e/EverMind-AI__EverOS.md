@@ -1,6 +1,6 @@
 # EverMind-AI/EverOS
 
-⭐ 13,566 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/EverMind-AI/EverOS) · [官网](https://evermind.ai/everos) · 组织维护 · 中文 README
+⭐ 13,574 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/EverMind-AI/EverOS) · [官网](https://evermind.ai/everos) · 组织维护 · 中文 README
 
 **给 AI agent 的本地优先可携带记忆层**
 
@@ -53,13 +53,13 @@ Python 库与本地优先的 agent 记忆运行时：将对话、文件与 agent
 
 ```mermaid
 xychart-beta
-    title "EverMind-AI/EverOS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13454 --> 13576
-    line [13464, 13503, 13552, 13566]
+    title "EverMind-AI/EverOS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13453 --> 13585
+    line [13464, 13503, 13552, 13566, 13574]
 ```
 
-2026-10-18 13,464 → 2026-10-23 13,566（+102）
+2026-10-18 13,464 → 2026-10-24 13,574（+110）
 
 
 ---

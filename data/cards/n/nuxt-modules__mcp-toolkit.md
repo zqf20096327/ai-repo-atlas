@@ -1,6 +1,6 @@
 # nuxt-modules/mcp-toolkit
 
-⭐ 179 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/nuxt-modules/mcp-toolkit) · [官网](https://mcp-toolkit.nuxt.dev) · 组织维护
+⭐ 180 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/nuxt-modules/mcp-toolkit) · [官网](https://mcp-toolkit.nuxt.dev) · 组织维护
 
 **Nuxt 模块：在 Nuxt 应用内直接创建 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nuxt-modules/mcp-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 178 --> 181
+    line [179, 180]
 ```
 
-2026-10-18 179 → 2026-10-23 179（+0）
+2026-10-18 179 → 2026-10-24 180（+1）
 
 
 ---

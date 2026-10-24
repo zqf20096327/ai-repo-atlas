@@ -1,6 +1,6 @@
 # oramasearch/oramacore
 
-⭐ 263 · Rust · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/oramasearch/oramacore) · [官网](https://docs.orama.com/docs/cloud) · 组织维护
+⭐ 263 · Rust · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/oramasearch/oramacore) · [官网](https://docs.orama.com/docs/cloud) · 组织维护
 
 **带全文检索、向量库与 LLM 接口的 AI 搜索运行时**
 
@@ -46,12 +46,12 @@ OramaCore 是面向项目、回答引擎、copilot 与搜索场景的 AI 运行�
 ```mermaid
 xychart-beta
     title "oramasearch/oramacore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 262 --> 264
     line [263, 263]
 ```
 
-2026-10-18 263 → 2026-10-23 263（+0）
+2026-10-18 263 → 2026-10-24 263（+0）
 
 
 ---

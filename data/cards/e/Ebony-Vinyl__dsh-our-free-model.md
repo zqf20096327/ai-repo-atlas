@@ -1,6 +1,6 @@
 # Ebony-Vinyl/dsh-our-free-model
 
-⭐ 36,589 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Ebony-Vinyl/dsh-our-free-model) · 个人维护 · 中文 README
+⭐ 38,951 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Ebony-Vinyl/dsh-our-free-model) · 个人维护 · 中文 README
 
 **dsh 免费模型插件：免 Key 直连多家前沿模型**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ebony-Vinyl/dsh-our-free-model 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 19851 --> 38110
-    line [21372, 27577, 32941, 36589]
+    title "Ebony-Vinyl/dsh-our-free-model 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 19615 --> 40708
+    line [21372, 27577, 32941, 36589, 38951]
 ```
 
-2026-10-18 21,372 → 2026-10-23 36,589（+15,217）
+2026-10-18 21,372 → 2026-10-24 38,951（+17,579）
 
 
 ---

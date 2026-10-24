@@ -45,12 +45,12 @@ Yuan Tang 所著 Manning 出版书籍《Distributed Machine Learning Patterns》
 ```mermaid
 xychart-beta
     title "terrytangyuan/distributed-ml-patterns 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 541 --> 546
     line [542, 545, 545]
 ```
 
-2026-10-18 542 → 2026-10-23 545（+3）
+2026-10-18 542 → 2026-10-24 545（+3）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "duongngocbinh56599-ui/local-llm-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "duongngocbinh56599-ui/local-llm-lab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 93 --> 102
-    line [101, 94]
+    line [101, 94, 94]
 ```
 
-2026-10-18 101 → 2026-10-23 94（-7）
+2026-10-18 101 → 2026-10-24 94（-7）
 
 
 ---

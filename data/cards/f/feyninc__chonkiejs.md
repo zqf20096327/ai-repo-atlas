@@ -46,12 +46,12 @@ Python 库 chonkie 的 TypeScript 移植（非 binding），面向开发 TypeScr
 ```mermaid
 xychart-beta
     title "feyninc/chonkiejs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 367 --> 369
     line [368, 368]
 ```
 
-2026-10-18 368 → 2026-10-23 368（+0）
+2026-10-18 368 → 2026-10-24 368（+0）
 
 
 ---

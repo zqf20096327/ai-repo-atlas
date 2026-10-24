@@ -1,6 +1,6 @@
 # Ptero-ai/Ptero
 
-⭐ 1,509 · PHP · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Ptero-ai/Ptero) · [官网](https://ptero.pro/) · 个人维护
+⭐ 1,511 · PHP · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Ptero-ai/Ptero) · [官网](https://ptero.pro/) · 个人维护
 
 **免注册免费的多模型 AI 聊天平台，可嵌入 WordPress**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ptero-ai/Ptero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1502 --> 1510
-    line [1503, 1505, 1507, 1509]
+    title "Ptero-ai/Ptero 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1502 --> 1512
+    line [1503, 1505, 1507, 1509, 1511]
 ```
 
-2026-10-18 1,503 → 2026-10-23 1,509（+6）
+2026-10-18 1,503 → 2026-10-24 1,511（+8）
 
 
 ---

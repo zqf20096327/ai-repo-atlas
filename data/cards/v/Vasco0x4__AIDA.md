@@ -1,6 +1,6 @@
 # Vasco0x4/AIDA
 
-⭐ 501 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Vasco0x4/AIDA) · 个人维护
+⭐ 502 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Vasco0x4/AIDA) · 个人维护
 
 **把任意 LLM 变成自主渗透测试 agent 的安全评估平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vasco0x4/AIDA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 496 --> 502
-    line [497, 498, 501, 501]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 496 --> 503
+    line [497, 498, 501, 502]
 ```
 
-2026-10-18 497 → 2026-10-23 501（+4）
+2026-10-18 497 → 2026-10-24 502（+5）
 
 
 ---

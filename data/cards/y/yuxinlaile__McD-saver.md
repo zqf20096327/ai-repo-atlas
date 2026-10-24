@@ -1,6 +1,6 @@
 # yuxinlaile/McD-saver
 
-⭐ 115 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/yuxinlaile/McD-saver) · [官网](https://yuxinlaile.github.io/McD-saver/demo.html) · 个人维护 · 中文 README
+⭐ 115 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/yuxinlaile/McD-saver) · [官网](https://yuxinlaile.github.io/McD-saver/demo.html) · 个人维护 · 中文 README
 
 **麦当劳中国省钱点餐 Agent Skill 与独立 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yuxinlaile/McD-saver 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1 --> 125
     line [11, 115, 115]
 ```
 
-2026-10-19 11 → 2026-10-23 115（+104）
+2026-10-19 11 → 2026-10-24 115（+104）
 
 
 ---

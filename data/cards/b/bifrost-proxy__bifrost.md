@@ -46,13 +46,13 @@ Bifrost 是用 Rust（Tokio + Hyper）编写的代理服务器，灵感来源于
 
 ```mermaid
 xychart-beta
-    title "bifrost-proxy/bifrost 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "bifrost-proxy/bifrost 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 162 --> 166
-    line [163, 165]
+    line [163, 165, 165]
 ```
 
-2026-10-18 163 → 2026-10-23 165（+2）
+2026-10-18 163 → 2026-10-24 165（+2）
 
 
 ---

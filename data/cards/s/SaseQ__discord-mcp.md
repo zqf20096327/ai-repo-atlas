@@ -1,6 +1,6 @@
 # SaseQ/discord-mcp
 
-⭐ 556 · Java · MIT · 推送 2026-10-18 · [GitHub](https://github.com/SaseQ/discord-mcp) · 个人维护
+⭐ 559 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SaseQ/discord-mcp) · 个人维护
 
 **给 AI 助手的 Discord MCP 服务器：让客户端操作 Discord 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SaseQ/discord-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 545 --> 557
-    line [546, 551, 554, 556]
+    title "SaseQ/discord-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 545 --> 560
+    line [546, 551, 554, 556, 559]
 ```
 
-2026-10-18 546 → 2026-10-23 556（+10）
+2026-10-18 546 → 2026-10-24 559（+13）
 
 
 ---

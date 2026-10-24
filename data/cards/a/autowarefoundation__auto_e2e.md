@@ -1,6 +1,6 @@
 # autowarefoundation/auto_e2e
 
-⭐ 181 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/autowarefoundation/auto_e2e) · [官网](https://autoware.org) · 组织维护
+⭐ 181 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/autowarefoundation/auto_e2e) · [官网](https://autoware.org) · 组织维护
 
 **开源端到端自动驾驶模型：从环视相机直接生成车辆轨迹**
 
@@ -46,12 +46,12 @@ Autoware 基金会维护的相机优先端到端驾驶模型：将六个环视�
 ```mermaid
 xychart-beta
     title "autowarefoundation/auto_e2e 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 180 --> 182
     line [181, 181]
 ```
 
-2026-10-18 181 → 2026-10-23 181（+0）
+2026-10-18 181 → 2026-10-24 181（+0）
 
 
 ---

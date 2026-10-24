@@ -1,6 +1,6 @@
 # CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN
 
-⭐ 189 · HTML · CC0-1.0 · 推送 2026-09-25 · [GitHub](https://github.com/CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN) · [官网](https://prompts.chat) · 个人维护 · 中文 README
+⭐ 190 · HTML · CC0-1.0 · 推送 2026-09-25 · [GitHub](https://github.com/CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN) · [官网](https://prompts.chat) · 个人维护 · 中文 README
 
 **ChatGPT 提示词中文翻译合集：2169 条全译 + AIPRM 快照**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 178 --> 190
-    line [179, 182, 186, 189]
+    title "CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 178 --> 191
+    line [179, 182, 186, 189, 190]
 ```
 
-2026-10-18 179 → 2026-10-23 189（+10）
+2026-10-18 179 → 2026-10-24 190（+11）
 
 
 ---

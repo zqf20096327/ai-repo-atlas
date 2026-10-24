@@ -1,6 +1,6 @@
 # jbrea/BayesianOptimization.jl
 
-⭐ 105 · Julia · NOASSERTION · 推送 2025-10-27 · [GitHub](https://github.com/jbrea/BayesianOptimization.jl) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Julia 贝叶斯优化库：用高斯过程优化昂贵黑箱函数**
 
@@ -11,7 +11,7 @@ Julia 语言的贝叶斯优化软件包，基于 GaussianProcesses.jl 对带噪�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

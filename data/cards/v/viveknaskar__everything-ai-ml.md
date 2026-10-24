@@ -1,6 +1,6 @@
 # viveknaskar/everything-ai-ml
 
-⭐ 487 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/viveknaskar/everything-ai-ml) · [官网](https://viveknaskar.github.io/everything-ai-ml/) · 个人维护
+⭐ 487 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/viveknaskar/everything-ai-ml) · [官网](https://viveknaskar.github.io/everything-ai-ml/) · 个人维护
 
 **AI/ML 学习资源策展清单：课程、教程与工具链接合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "viveknaskar/everything-ai-ml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 485 --> 488
     line [486, 487, 487]
 ```
 
-2026-10-18 486 → 2026-10-23 487（+1）
+2026-10-18 486 → 2026-10-24 487（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # unclecode/modelprint
 
-⭐ 131 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/unclecode/modelprint) · 个人维护
+⭐ 131 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/unclecode/modelprint) · 个人维护
 
 **在浏览器中对 OpenAI 兼容端点做指纹探测，核验 API 背后模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "unclecode/modelprint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 130 --> 132
     line [131, 131]
 ```
 
-2026-10-18 131 → 2026-10-23 131（+0）
+2026-10-18 131 → 2026-10-24 131（+0）
 
 
 ---

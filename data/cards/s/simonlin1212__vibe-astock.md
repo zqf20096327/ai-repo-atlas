@@ -1,6 +1,6 @@
 # simonlin1212/vibe-astock
 
-⭐ 801 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/simonlin1212/vibe-astock) · 个人维护 · 中文 README
+⭐ 810 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/simonlin1212/vibe-astock) · 个人维护 · 中文 README
 
 **A 股短线复盘与跟踪工作台，带 AI 复盘与数字溯源**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "simonlin1212/vibe-astock 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 748 --> 805
-    line [752, 776, 791, 801]
+    title "simonlin1212/vibe-astock 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 747 --> 815
+    line [752, 776, 791, 801, 810]
 ```
 
-2026-10-18 752 → 2026-10-23 801（+49）
+2026-10-18 752 → 2026-10-24 810（+58）
 
 
 ---

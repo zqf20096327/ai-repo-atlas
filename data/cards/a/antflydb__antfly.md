@@ -1,6 +1,6 @@
 # antflydb/antfly
 
-⭐ 471 · Zig · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/antflydb/antfly) · [官网](https://antfly.io) · 组织维护
+⭐ 471 · Zig · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/antflydb/antfly) · [官网](https://antfly.io) · 组织维护
 
 **Zig 编写的检索与推理数据库：混合搜索+RAG+内置推理一体**
 
@@ -11,7 +11,7 @@ Antfly 是用 Zig 实现的搜索与推理数据库：同一张表上承载 BM25
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@ Antfly 是用 Zig 实现的搜索与推理数据库：同一张表上承载 BM25
 
 ```mermaid
 xychart-beta
-    title "antflydb/antfly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "antflydb/antfly 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 469 --> 472
-    line [470, 471]
+    line [470, 471, 471]
 ```
 
-2026-10-18 470 → 2026-10-23 471（+1）
+2026-10-18 470 → 2026-10-24 471（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # WecoAI/aideml
 
-⭐ 1,591 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/WecoAI/aideml) · [官网](https://weco.ai) · 组织维护
+⭐ 1,592 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/WecoAI/aideml) · [官网](https://weco.ai) · 组织维护
 
 **面向研究者的 LLM 树搜索代理：自动撰写并迭代优化机器学习代码**
 
@@ -45,13 +45,13 @@ AIDE 算法的开源参考实现：以 LLM 引导的树搜索在代码空间中�
 
 ```mermaid
 xychart-beta
-    title "WecoAI/aideml 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1581 --> 1592
-    line [1582, 1584, 1590, 1591]
+    title "WecoAI/aideml 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1581 --> 1593
+    line [1582, 1584, 1590, 1591, 1592]
 ```
 
-2026-10-18 1,582 → 2026-10-23 1,591（+9）
+2026-10-18 1,582 → 2026-10-24 1,592（+10）
 
 
 ---

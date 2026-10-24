@@ -45,12 +45,12 @@ Google Research 发布的物体中心短视频数据集：15K 视频、4M+ 标�
 ```mermaid
 xychart-beta
     title "google-research-datasets/Objectron 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 2357 --> 2359
     line [2358, 2358]
 ```
 
-2026-10-18 2,358 → 2026-10-23 2,358（+0）
+2026-10-18 2,358 → 2026-10-24 2,358（+0）
 
 
 ---

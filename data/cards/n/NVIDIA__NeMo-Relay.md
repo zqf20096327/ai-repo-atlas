@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Relay
 
-⭐ 205 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/NeMo-Relay) · [官网](https://docs.nvidia.com/nemo/relay) · 组织维护
+⭐ 206 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/NeMo-Relay) · [官网](https://docs.nvidia.com/nemo/relay) · 组织维护
 
 **多语言 agent 运行时库：管理工具与 LLM 调用的作用域、生命周期与中间件**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的 agent 运行时与库，为编码 agent、应用、框架集成
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/NeMo-Relay 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 195 --> 206
-    line [196, 200, 204, 205]
+    title "NVIDIA/NeMo-Relay 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 195 --> 207
+    line [196, 200, 204, 205, 206]
 ```
 
-2026-10-18 196 → 2026-10-23 205（+9）
+2026-10-18 196 → 2026-10-24 206（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # nadermx/backgroundremover
 
-⭐ 8,119 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/nadermx/backgroundremover) · [官网](https://backgroundremoverai.com) · 个人维护
+⭐ 8,121 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/nadermx/backgroundremover) · [官网](https://backgroundremoverai.com) · 个人维护
 
 **用 AI 抠除图片与视频背景的命令行工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nadermx/backgroundremover 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8095 --> 8121
-    line [8097, 8112, 8114, 8119]
+    title "nadermx/backgroundremover 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8095 --> 8123
+    line [8097, 8112, 8114, 8119, 8121]
 ```
 
-2026-10-18 8,097 → 2026-10-23 8,119（+22）
+2026-10-18 8,097 → 2026-10-24 8,121（+24）
 
 
 ---

@@ -1,6 +1,6 @@
 # ultralytics/ultralytics
 
-⭐ 62,744 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ultralytics/ultralytics) · [官网](https://platform.ultralytics.com) · 组织维护
+⭐ 62,784 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ultralytics/ultralytics) · [官网](https://platform.ultralytics.com) · 组织维护
 
 **YOLO 系列视觉模型库：检测/分割/分类/姿态/跟踪一体化**
 
@@ -52,13 +52,13 @@ Ultralytics 维护的 YOLO 模型库，覆盖目标检测、实例分割、语�
 
 ```mermaid
 xychart-beta
-    title "ultralytics/ultralytics 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 62579 --> 62759
-    line [62594, 62645, 62717, 62744]
+    title "ultralytics/ultralytics 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 62575 --> 62803
+    line [62594, 62645, 62717, 62744, 62784]
 ```
 
-2026-10-18 62,594 → 2026-10-23 62,744（+150）
+2026-10-18 62,594 → 2026-10-24 62,784（+190）
 
 
 ---

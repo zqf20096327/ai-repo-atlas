@@ -1,6 +1,6 @@
 # NitroRCr/nyaai
 
-⭐ 174 · Vue · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/NitroRCr/nyaai) · [官网](https://docs.nyaai.cc) · 个人维护 · 中文 README
+⭐ 173 · Vue · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/NitroRCr/nyaai) · [官网](https://docs.nyaai.cc) · 个人维护 · 中文 README
 
 **一体化协作平台：AI 对话为核心，含笔记、网盘与频道**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NitroRCr/nyaai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "NitroRCr/nyaai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 171 --> 175
-    line [172, 173, 174]
+    line [172, 173, 174, 173]
 ```
 
-2026-10-18 172 → 2026-10-23 174（+2）
+2026-10-18 172 → 2026-10-24 173（+1）
 
 
 ---

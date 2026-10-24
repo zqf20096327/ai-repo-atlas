@@ -1,6 +1,6 @@
 # Karovia/fullstack-ai-agent-roadmap
 
-⭐ 553 · 推送 2026-09-07 · [GitHub](https://github.com/Karovia/fullstack-ai-agent-roadmap) · 个人维护 · 中文 README
+⭐ 556 · 推送 2026-09-07 · [GitHub](https://github.com/Karovia/fullstack-ai-agent-roadmap) · 个人维护 · 中文 README
 
 **零基础到 AI Agent 全栈工程师的中文系统化教程路线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Karovia/fullstack-ai-agent-roadmap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 542 --> 554
-    line [543, 547, 548, 553]
+    title "Karovia/fullstack-ai-agent-roadmap 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 542 --> 557
+    line [543, 547, 548, 553, 556]
 ```
 
-2026-10-18 543 → 2026-10-23 553（+10）
+2026-10-18 543 → 2026-10-24 556（+13）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ivan-Ayub97/Warlock-Studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Ivan-Ayub97/Warlock-Studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 250 --> 253
-    line [252, 251]
+    line [252, 251, 251]
 ```
 
-2026-10-18 252 → 2026-10-23 251（-1）
+2026-10-18 252 → 2026-10-24 251（-1）
 
 
 ---

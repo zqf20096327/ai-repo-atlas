@@ -1,6 +1,6 @@
 # strands-agents/harness-sdk
 
-⭐ 8,918 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/strands-agents/harness-sdk) · [官网](http://strandsagents.com/) · 组织维护
+⭐ 8,935 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/strands-agents/harness-sdk) · [官网](http://strandsagents.com/) · 组织维护
 
 **构建并端到端控制 AI agent 的开源 SDK（Python/TypeScript）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "strands-agents/harness-sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8840 --> 8925
-    line [8847, 8867, 8895, 8918]
+    title "strands-agents/harness-sdk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8839 --> 8943
+    line [8847, 8867, 8895, 8918, 8935]
 ```
 
-2026-10-18 8,847 → 2026-10-23 8,918（+71）
+2026-10-18 8,847 → 2026-10-24 8,935（+88）
 
 
 ---

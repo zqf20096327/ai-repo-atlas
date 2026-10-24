@@ -45,13 +45,13 @@ M-A-P 团队维护的 Latent Reasoning 论文与资源聚合仓库，收录其 a
 
 ```mermaid
 xychart-beta
-    title "multimodal-art-projection/LatentCoT-Horizon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "multimodal-art-projection/LatentCoT-Horizon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 418 --> 422
-    line [419, 420, 421]
+    line [419, 420, 421, 421]
 ```
 
-2026-10-18 419 → 2026-10-23 421（+2）
+2026-10-18 419 → 2026-10-24 421（+2）
 
 
 ---

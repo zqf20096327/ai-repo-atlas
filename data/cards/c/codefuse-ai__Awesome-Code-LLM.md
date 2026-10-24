@@ -1,6 +1,6 @@
 # codefuse-ai/Awesome-Code-LLM
 
-⭐ 3,444 · 推送 2026-05-20 · [GitHub](https://github.com/codefuse-ai/Awesome-Code-LLM) · [官网](https://arxiv.org/abs/2311.07989) · 组织维护 · 中文 README
+⭐ 3,445 · 推送 2026-05-20 · [GitHub](https://github.com/codefuse-ai/Awesome-Code-LLM) · [官网](https://arxiv.org/abs/2311.07989) · 组织维护 · 中文 README
 
 **代码大语言模型研究论文与数据集策展清单（TMLR 综述配套）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "codefuse-ai/Awesome-Code-LLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "codefuse-ai/Awesome-Code-LLM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 3443 --> 3447
-    line [3446, 3445, 3444]
+    line [3446, 3445, 3444, 3445]
 ```
 
-2026-10-18 3,446 → 2026-10-23 3,444（-2）
+2026-10-18 3,446 → 2026-10-24 3,445（-1）
 
 
 ---

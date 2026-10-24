@@ -1,6 +1,6 @@
 # vivy-yi/rag-tutorial
 
-⭐ 106 · Jupyter Notebook · MIT · 推送 2026-02-11 · [GitHub](https://github.com/vivy-yi/rag-tutorial) · [官网](https://vivy-yi.github.io/rag-tutorial/) · 个人维护 · 中文 README
+⭐ 108 · Jupyter Notebook · MIT · 推送 2026-02-11 · [GitHub](https://github.com/vivy-yi/rag-tutorial) · [官网](https://vivy-yi.github.io/rag-tutorial/) · 个人维护 · 中文 README
 
 **面向中文学习者的 RAG 技术系统化教程（4模块/20章/17 Notebook）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vivy-yi/rag-tutorial 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 101 --> 107
-    line [102, 104, 105, 106]
+    title "vivy-yi/rag-tutorial 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 101 --> 109
+    line [102, 104, 105, 106, 108]
 ```
 
-2026-10-18 102 → 2026-10-23 106（+4）
+2026-10-18 102 → 2026-10-24 108（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # ilmoi/MML-Book
 
-⭐ 1,270 · Jupyter Notebook · 推送 2026-09-30 · [GitHub](https://github.com/ilmoi/MML-Book) · 个人维护
+⭐ 1,271 · Jupyter Notebook · 推送 2026-09-30 · [GitHub](https://github.com/ilmoi/MML-Book) · 个人维护
 
 **《Mathematics for Machine Learning》自学代码与章节习题解答集**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "ilmoi/MML-Book 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1268 --> 1271
-    line [1269, 1270, 1270]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 1268 --> 1272
+    line [1269, 1270, 1271]
 ```
 
-2026-10-18 1,269 → 2026-10-23 1,270（+1）
+2026-10-18 1,269 → 2026-10-24 1,271（+2）
 
 
 ---

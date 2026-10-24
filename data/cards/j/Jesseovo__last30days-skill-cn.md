@@ -1,6 +1,6 @@
 # Jesseovo/last30days-skill-cn
 
-⭐ 1,941 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Jesseovo/last30days-skill-cn) · [官网](https://jesseovo.github.io/last30days-skill-cn/) · 个人维护 · 中文 README
+⭐ 1,944 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Jesseovo/last30days-skill-cn) · [官网](https://jesseovo.github.io/last30days-skill-cn/) · 个人维护 · 中文 README
 
 **给 AI Agent 的中文互联网研究 Skill：检索 8 平台近 30 天讨论并附来源**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jesseovo/last30days-skill-cn 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
-    y-axis "stars" 1930 --> 1942
-    line [1931, 1941]
+    title "Jesseovo/last30days-skill-cn 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1930 --> 1945
+    line [1931, 1941, 1944]
 ```
 
-2026-10-22 1,931 → 2026-10-23 1,941（+10）
+2026-10-22 1,931 → 2026-10-24 1,944（+13）
 
 
 ---

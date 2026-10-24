@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/linkedin-content-creator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 98 --> 100
     line [99, 99]
 ```
 
-2026-10-18 99 → 2026-10-23 99（+0）
+2026-10-18 99 → 2026-10-24 99（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/hf_transfer
 
-⭐ 582 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/huggingface/hf_transfer) · 组织维护
+⭐ 583 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/huggingface/hf_transfer) · 组织维护
 
 **加速 Hugging Face Hub 文件传输的 Rust 库，突破 Python 带宽瓶颈**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/hf_transfer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 581 --> 583
-    line [582, 582]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 581 --> 584
+    line [582, 583]
 ```
 
-2026-10-18 582 → 2026-10-23 582（+0）
+2026-10-18 582 → 2026-10-24 583（+1）
 
 
 ---

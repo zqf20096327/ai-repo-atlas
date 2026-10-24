@@ -1,6 +1,6 @@
 # huggingface/course
 
-⭐ 4,316 · MDX · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/course) · [官网](https://huggingface.co/course) · 组织维护
+⭐ 4,318 · MDX · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/course) · [官网](https://huggingface.co/course) · 组织维护
 
 **Hugging Face 官方 Transformers 免费课程的内容仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/course 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4298 --> 4317
-    line [4299, 4305, 4314, 4316]
+    title "huggingface/course 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4298 --> 4319
+    line [4299, 4305, 4314, 4316, 4318]
 ```
 
-2026-10-18 4,299 → 2026-10-23 4,316（+17）
+2026-10-18 4,299 → 2026-10-24 4,318（+19）
 
 
 ---

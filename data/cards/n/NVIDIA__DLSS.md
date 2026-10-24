@@ -1,6 +1,6 @@
 # NVIDIA/DLSS
 
-⭐ 1,602 · C · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/NVIDIA/DLSS) · 组织维护
+⭐ 1,608 · C · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/NVIDIA/DLSS) · 组织维护
 
 **NVIDIA DLSS SDK：深度学习超分辨率与帧生成的游戏图形 SDK**
 
@@ -42,13 +42,13 @@ NVIDIA RTX DLSS SDK 的公开仓库，面向游戏与图形开发者集成 DLSS 
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/DLSS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1577 --> 1604
-    line [1579, 1590, 1595, 1602]
+    title "NVIDIA/DLSS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1577 --> 1610
+    line [1579, 1590, 1595, 1602, 1608]
 ```
 
-2026-10-18 1,579 → 2026-10-23 1,602（+23）
+2026-10-18 1,579 → 2026-10-24 1,608（+29）
 
 
 ---

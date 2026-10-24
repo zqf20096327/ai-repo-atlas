@@ -1,6 +1,6 @@
 # PlanExeOrg/PlanExe
 
-⭐ 403 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/PlanExeOrg/PlanExe) · [官网](https://planexe.org) · 组织维护
+⭐ 402 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/PlanExeOrg/PlanExe) · [官网](https://planexe.org) · 组织维护
 
 **把项目简述转化为可编辑项目计划基线的本地规划工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PlanExeOrg/PlanExe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 402 --> 404
-    line [403, 403]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 401 --> 404
+    line [403, 402]
 ```
 
-2026-10-18 403 → 2026-10-23 403（+0）
+2026-10-18 403 → 2026-10-24 402（-1）
 
 
 ---

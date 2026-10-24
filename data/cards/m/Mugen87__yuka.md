@@ -1,6 +1,6 @@
 # Mugen87/yuka
 
-⭐ 1,449 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Mugen87/yuka) · [官网](https://mugen87.github.io/yuka/) · 个人维护
+⭐ 1,450 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Mugen87/yuka) · [官网](https://mugen87.github.io/yuka/) · 个人维护
 
 **面向游戏 AI 开发的 JavaScript 库：自主智能体、转向、导航与模糊逻辑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mugen87/yuka 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1378 --> 1455
-    line [1384, 1403, 1438, 1449]
+    title "Mugen87/yuka 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1378 --> 1456
+    line [1384, 1403, 1438, 1449, 1450]
 ```
 
-2026-10-18 1,384 → 2026-10-23 1,449（+65）
+2026-10-18 1,384 → 2026-10-24 1,450（+66）
 
 
 ---

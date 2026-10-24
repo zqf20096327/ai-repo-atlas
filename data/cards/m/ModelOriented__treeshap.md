@@ -45,13 +45,13 @@ R 语言包，实现 TreeSHAP 算法为树集成模型计算 SHAP 值与交互�
 
 ```mermaid
 xychart-beta
-    title "ModelOriented/treeshap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "ModelOriented/treeshap 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 104 --> 107
-    line [105, 106]
+    line [105, 106, 106]
 ```
 
-2026-10-18 105 → 2026-10-23 106（+1）
+2026-10-18 105 → 2026-10-24 106（+1）
 
 
 ---

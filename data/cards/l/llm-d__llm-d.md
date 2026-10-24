@@ -1,6 +1,6 @@
 # llm-d/llm-d
 
-⭐ 4,959 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/llm-d/llm-d) · [官网](https://www.llm-d.ai) · 组织维护
+⭐ 4,985 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/llm-d/llm-d) · [官网](https://www.llm-d.ai) · 组织维护
 
 **Kubernetes 上的 LLM 分布式推理服务编排栈**
 
@@ -44,13 +44,13 @@ llm-d 是运行于 Kubernetes 的高性能分布式推理服务栈，在 vLLM、
 
 ```mermaid
 xychart-beta
-    title "llm-d/llm-d 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4844 --> 4969
-    line [4854, 4866, 4913, 4959]
+    title "llm-d/llm-d 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4841 --> 4998
+    line [4854, 4866, 4913, 4959, 4985]
 ```
 
-2026-10-18 4,854 → 2026-10-23 4,959（+105）
+2026-10-18 4,854 → 2026-10-24 4,985（+131）
 
 
 ---

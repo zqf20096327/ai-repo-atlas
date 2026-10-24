@@ -42,13 +42,13 @@ UNIPDS 软件工程与应用 AI 研究生课程的学生原创项目展示清单
 
 ```mermaid
 xychart-beta
-    title "unipds-engenharia-de-ia-aplicada/awesome-unipds-projects 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "unipds-engenharia-de-ia-aplicada/awesome-unipds-projects 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 253 --> 261
-    line [254, 257, 259, 260]
+    line [254, 257, 259, 260, 260]
 ```
 
-2026-10-18 254 → 2026-10-23 260（+6）
+2026-10-18 254 → 2026-10-24 260（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # tinyhumansai/tinyagents
 
-⭐ 124 · Rust · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/tinyhumansai/tinyagents) · [官网](https://github.com/tinyhumansai/tinyagents/wiki) · 组织维护
+⭐ 125 · Rust · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/tinyhumansai/tinyagents) · [官网](https://github.com/tinyhumansai/tinyagents/wiki) · 组织维护
 
 **面向 Rust 的供应商中立 agent 框架与持久化状态图运行时**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinyhumansai/tinyagents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 121 --> 125
-    line [122, 123, 124]
+    title "tinyhumansai/tinyagents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 121 --> 126
+    line [122, 123, 124, 125]
 ```
 
-2026-10-18 122 → 2026-10-23 124（+2）
+2026-10-18 122 → 2026-10-24 125（+3）
 
 
 ---

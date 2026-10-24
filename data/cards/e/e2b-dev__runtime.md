@@ -1,6 +1,6 @@
 # e2b-dev/runtime
 
-⭐ 1,755 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/e2b-dev/runtime) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=runtime) · 组织维护
+⭐ 1,761 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/e2b-dev/runtime) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=runtime) · 组织维护
 
 **AI agent 沙箱运行时：Firecracker microVM 运行不受信代码**
 
@@ -44,13 +44,13 @@ E2B 的开源后端运行时，用 Go 编写，为每个 agent 会话提供一�
 
 ```mermaid
 xychart-beta
-    title "e2b-dev/runtime 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1735 --> 1756
-    line [1736, 1742, 1755]
+    title "e2b-dev/runtime 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1734 --> 1763
+    line [1736, 1742, 1755, 1761]
 ```
 
-2026-10-18 1,736 → 2026-10-23 1,755（+19）
+2026-10-18 1,736 → 2026-10-24 1,761（+25）
 
 
 ---

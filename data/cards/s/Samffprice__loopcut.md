@@ -1,6 +1,6 @@
 # Samffprice/loopcut
 
-⭐ 125 · C++ · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Samffprice/loopcut) · [官网](https://loopcut.org) · 组织维护
+⭐ 143 · C++ · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Samffprice/loopcut) · [官网](https://loopcut.org) · 组织维护
 
 **内置 AI agent 的 Blender 5.2 分支，一句话完成技术性操作**
 
@@ -44,13 +44,13 @@ Loopcut 是 Blender 5.2.2 的 GPL 分支，在其中加入一个 AI agent 面板
 
 ```mermaid
 xychart-beta
-    title "Samffprice/loopcut 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
-    y-axis "stars" 90 --> 128
-    line [93, 125]
+    title "Samffprice/loopcut 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 88 --> 148
+    line [93, 125, 143]
 ```
 
-2026-10-22 93 → 2026-10-23 125（+32）
+2026-10-22 93 → 2026-10-24 143（+50）
 
 
 ---

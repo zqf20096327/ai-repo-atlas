@@ -1,6 +1,6 @@
 # octimot/StoryToolkitAI
 
-⭐ 1,051 · Python · GPL-3.0 · 推送 2026-07-28 · [GitHub](https://github.com/octimot/StoryToolkitAI) · 个人维护
+⭐ 1,054 · Python · GPL-3.0 · 推送 2026-07-28 · [GitHub](https://github.com/octimot/StoryToolkitAI) · 个人维护
 
 **给剪辑师的本地视频转录、索引与 AI 辅助选材工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "octimot/StoryToolkitAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1029 --> 1053
-    line [1031, 1044, 1049, 1051]
+    title "octimot/StoryToolkitAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1029 --> 1056
+    line [1031, 1044, 1049, 1051, 1054]
 ```
 
-2026-10-18 1,031 → 2026-10-23 1,051（+20）
+2026-10-18 1,031 → 2026-10-24 1,054（+23）
 
 
 ---

@@ -1,6 +1,6 @@
 # dfl-rlab/dddmr_navigation
 
-⭐ 583 · C++ · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/dfl-rlab/dddmr_navigation) · 组织维护
+⭐ 584 · C++ · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/dfl-rlab/dddmr_navigation) · 组织维护
 
 **面向移动机器人的 3D 导航栈：建图/定位/感知/规划/控制**
 
@@ -45,12 +45,12 @@ DDDMR Navigation 提供移动机器人与四足机器人（含 Unitree Go2 仿�
 ```mermaid
 xychart-beta
     title "dfl-rlab/dddmr_navigation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 580 --> 584
-    line [581, 582, 583, 583]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 580 --> 585
+    line [581, 582, 583, 584]
 ```
 
-2026-10-18 581 → 2026-10-23 583（+2）
+2026-10-18 581 → 2026-10-24 584（+3）
 
 
 ---

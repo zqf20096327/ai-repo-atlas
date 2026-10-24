@@ -1,6 +1,6 @@
 # Francis1998/nexus-llm-router
 
-⭐ 123 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Francis1998/nexus-llm-router) · 个人维护
+⭐ 123 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Francis1998/nexus-llm-router) · 个人维护
 
 **多 LLM 路由中间件：按任务选模型、控成本、带回退的 OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Francis1998/nexus-llm-router 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 122 --> 124
     line [123, 123]
 ```
 
-2026-10-18 123 → 2026-10-23 123（+0）
+2026-10-18 123 → 2026-10-24 123（+0）
 
 
 ---

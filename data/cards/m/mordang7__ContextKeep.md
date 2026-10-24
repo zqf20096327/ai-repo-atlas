@@ -1,6 +1,6 @@
 # mordang7/ContextKeep
 
-⭐ 158 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/mordang7/ContextKeep) · [官网](https://github.com/mordang7/ContextKeep) · 个人维护
+⭐ 159 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/mordang7/ContextKeep) · [官网](https://github.com/mordang7/ContextKeep) · 个人维护
 
 **为 AI agent 提供跨会话持久记忆的 MCP 服务器**
 
@@ -45,12 +45,12 @@ ContextKeep 是一个 MCP 服务器，为 MCP 兼容的 AI agent 提供基于 SQ
 ```mermaid
 xychart-beta
     title "mordang7/ContextKeep 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 157 --> 159
-    line [158, 158]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 157 --> 160
+    line [158, 159]
 ```
 
-2026-10-18 158 → 2026-10-23 158（+0）
+2026-10-18 158 → 2026-10-24 159（+1）
 
 
 ---

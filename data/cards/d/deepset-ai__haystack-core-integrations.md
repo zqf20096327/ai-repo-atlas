@@ -1,6 +1,6 @@
 # deepset-ai/haystack-core-integrations
 
-⭐ 209 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/deepset-ai/haystack-core-integrations) · [官网](https://haystack.deepset.ai) · 组织维护
+⭐ 209 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/deepset-ai/haystack-core-integrations) · [官网](https://haystack.deepset.ai) · 组织维护
 
 **deepset 维护的 Haystack 框架扩展集成包集合**
 
@@ -45,12 +45,12 @@ deepset 官方维护的 Haystack 生态扩展仓库，收录上百个自包含�
 ```mermaid
 xychart-beta
     title "deepset-ai/haystack-core-integrations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 208 --> 210
     line [209, 209]
 ```
 
-2026-10-18 209 → 2026-10-23 209（+0）
+2026-10-18 209 → 2026-10-24 209（+0）
 
 
 ---

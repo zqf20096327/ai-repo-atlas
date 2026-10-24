@@ -1,6 +1,6 @@
 # bowang-lab/MedRAX
 
-⭐ 1,248 · Python · Apache-2.0 · 推送 2025-10-31 · [GitHub](https://github.com/bowang-lab/MedRAX) · [官网](https://bowang-lab.github.io/MedRAX/) · 组织维护
+⭐ 1,250 · Python · Apache-2.0 · 推送 2025-10-31 · [GitHub](https://github.com/bowang-lab/MedRAX) · [官网](https://bowang-lab.github.io/MedRAX/) · 组织维护
 
 **胸片医学推理 AI Agent，整合多种 CXR 分析工具与多模态 LLM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bowang-lab/MedRAX 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1245 --> 1249
-    line [1246, 1248, 1247, 1248]
+    title "bowang-lab/MedRAX 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1245 --> 1251
+    line [1246, 1248, 1247, 1248, 1250]
 ```
 
-2026-10-18 1,246 → 2026-10-23 1,248（+2）
+2026-10-18 1,246 → 2026-10-24 1,250（+4）
 
 
 ---

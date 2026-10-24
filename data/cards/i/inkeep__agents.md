@@ -1,6 +1,6 @@
 # inkeep/agents
 
-⭐ 1,470 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/inkeep/agents) · [官网](https://docs.inkeep.com) · 组织维护
+⭐ 1,470 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/inkeep/agents) · [官网](https://docs.inkeep.com) · 组织维护
 
 **可视化+TypeScript 双模式构建 AI Agent 的开发平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "inkeep/agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1459 --> 1471
     line [1460, 1468, 1470, 1470]
 ```
 
-2026-10-18 1,460 → 2026-10-23 1,470（+10）
+2026-10-18 1,460 → 2026-10-24 1,470（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/oncall-kit
 
-⭐ 245 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/anthropics/oncall-kit) · 组织维护
+⭐ 248 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/anthropics/oncall-kit) · 组织维护
 
 **Claude 辅助值班应急响应的入门套件：从事件历史生成排障手册**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/oncall-kit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 237 --> 246
-    line [238, 243, 245, 245]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 237 --> 249
+    line [238, 243, 245, 248]
 ```
 
-2026-10-18 238 → 2026-10-23 245（+7）
+2026-10-18 238 → 2026-10-24 248（+10）
 
 
 ---

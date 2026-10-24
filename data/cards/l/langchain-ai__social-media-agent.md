@@ -1,6 +1,6 @@
 # langchain-ai/social-media-agent
 
-⭐ 2,933 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/social-media-agent) · 组织维护
+⭐ 2,941 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/social-media-agent) · 组织维护
 
 **生成并发布 Twitter/LinkedIn 帖子的 HITL 社媒 agent**
 
@@ -44,13 +44,13 @@ LangChain 团队维护的社交内容发布 agent：输入一个 URL，读取内
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/social-media-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2902 --> 2935
-    line [2904, 2919, 2925, 2933]
+    title "langchain-ai/social-media-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2901 --> 2944
+    line [2904, 2919, 2925, 2933, 2941]
 ```
 
-2026-10-18 2,904 → 2026-10-23 2,933（+29）
+2026-10-18 2,904 → 2026-10-24 2,941（+37）
 
 
 ---

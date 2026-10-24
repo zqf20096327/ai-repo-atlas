@@ -1,6 +1,6 @@
 # intel/auto-round
 
-⭐ 1,686 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/intel/auto-round) · 组织维护 · 中文 README
+⭐ 1,686 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/intel/auto-round) · 组织维护 · 中文 README
 
 **面向 LLM/VLM 的训练后量化工具包，兼顾精度与量化成本**
 
@@ -45,13 +45,13 @@ Intel 维护的 LLM 与视觉语言模型训练后量化（PTQ）工具包，核
 
 ```mermaid
 xychart-beta
-    title "intel/auto-round 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "intel/auto-round 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1641 --> 1690
-    line [1645, 1677, 1684, 1686]
+    line [1645, 1677, 1684, 1686, 1686]
 ```
 
-2026-10-18 1,645 → 2026-10-23 1,686（+41）
+2026-10-18 1,645 → 2026-10-24 1,686（+41）
 
 
 ---

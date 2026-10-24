@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "claudioemmanuel/squeez 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "claudioemmanuel/squeez 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 216 --> 220
-    line [217, 219]
+    line [217, 219, 219]
 ```
 
-2026-10-18 217 → 2026-10-23 219（+2）
+2026-10-18 217 → 2026-10-24 219（+2）
 
 
 ---

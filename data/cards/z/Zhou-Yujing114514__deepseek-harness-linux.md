@@ -1,6 +1,6 @@
 # Zhou-Yujing114514/deepseek-harness-linux
 
-⭐ 147 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Zhou-Yujing114514/deepseek-harness-linux) · [官网](https://github.com/Zhou-Yujing114514/deepseek-harness-linux/releases) · 个人维护 · 中文 README
+⭐ 148 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Zhou-Yujing114514/deepseek-harness-linux) · [官网](https://github.com/Zhou-Yujing114514/deepseek-harness-linux/releases) · 个人维护 · 中文 README
 
 **DeepSeek Harness 桌面端的社区 Linux 打包（AppImage/.deb/.tar.gz）**
 
@@ -44,13 +44,13 @@ deepseek-ai/deepseek-harness 的下游 fork，专注为该桌面端补齐 Linux 
 
 ```mermaid
 xychart-beta
-    title "Zhou-Yujing114514/deepseek-harness-linux 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 133 --> 148
-    line [134, 142, 145, 147]
+    title "Zhou-Yujing114514/deepseek-harness-linux 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 133 --> 149
+    line [134, 142, 145, 147, 148]
 ```
 
-2026-10-18 134 → 2026-10-23 147（+13）
+2026-10-18 134 → 2026-10-24 148（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # elizaOS/eliza
 
-⭐ 19,638 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/elizaOS/eliza) · [官网](https://elizaresearch.ai/) · 组织维护
+⭐ 19,640 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/elizaOS/eliza) · [官网](https://elizaresearch.ai/) · 组织维护
 
 **面向开发者的自主 AI agent 开源 TypeScript 框架与产品栈**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "elizaOS/eliza 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 19611 --> 19640
-    line [19613, 19626, 19635, 19638]
+    title "elizaOS/eliza 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 19611 --> 19642
+    line [19613, 19626, 19635, 19638, 19640]
 ```
 
-2026-10-18 19,613 → 2026-10-23 19,638（+25）
+2026-10-18 19,613 → 2026-10-24 19,640（+27）
 
 
 ---

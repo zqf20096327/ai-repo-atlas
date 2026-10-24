@@ -1,6 +1,6 @@
 # ZaytsevZY/yuketang-helper-auto
 
-⭐ 114 · JavaScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/ZaytsevZY/yuketang-helper-auto) · 个人维护 · 中文 README
+⭐ 115 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ZaytsevZY/yuketang-helper-auto) · 个人维护 · 中文 README
 
 **雨课堂学习助手：课件下载、OCR 翻译与 AI 答题辅助**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZaytsevZY/yuketang-helper-auto 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "ZaytsevZY/yuketang-helper-auto 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 112 --> 116
-    line [113, 115, 114]
+    line [113, 115, 114, 115]
 ```
 
-2026-10-18 113 → 2026-10-23 114（+1）
+2026-10-18 113 → 2026-10-24 115（+2）
 
 
 ---

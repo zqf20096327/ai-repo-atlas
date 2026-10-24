@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "KentoNishi/awesome-all-you-need-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 161 --> 163
     line [162, 162]
 ```
 
-2026-10-18 162 → 2026-10-23 162（+0）
+2026-10-18 162 → 2026-10-24 162（+0）
 
 
 ---

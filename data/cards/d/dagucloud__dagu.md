@@ -1,6 +1,6 @@
 # dagucloud/dagu
 
-⭐ 4,419 · Go · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/dagucloud/dagu) · [官网](https://dagu.sh) · 组织维护
+⭐ 4,428 · Go · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/dagucloud/dagu) · [官网](https://dagu.sh) · 组织维护
 
 **单二进制工作流编排引擎，把脚本/容器/SSH 变成可调度的 DAG**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dagucloud/dagu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 4374 --> 4423
-    line [4378, 4390, 4419]
+    title "dagucloud/dagu 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4373 --> 4433
+    line [4378, 4390, 4419, 4428]
 ```
 
-2026-10-18 4,378 → 2026-10-23 4,419（+41）
+2026-10-18 4,378 → 2026-10-24 4,428（+50）
 
 
 ---

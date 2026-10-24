@@ -1,6 +1,6 @@
 # Brhiza/mingyu
 
-⭐ 509 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/Brhiza/mingyu) · [官网](https://aov.cc) · 个人维护 · 中文 README
+⭐ 510 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/Brhiza/mingyu) · [官网](https://aov.cc) · 个人维护 · 中文 README
 
 **面向 AI 的玄学排盘工具包：输出结构化命盘与解读提示词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Brhiza/mingyu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 498 --> 510
-    line [499, 501, 508, 509]
+    title "Brhiza/mingyu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 498 --> 511
+    line [499, 501, 508, 509, 510]
 ```
 
-2026-10-18 499 → 2026-10-23 509（+10）
+2026-10-18 499 → 2026-10-24 510（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/copilot-camp
 
-⭐ 671 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/copilot-camp) · 组织维护
+⭐ 672 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/copilot-camp) · 组织维护
 
 **微软官方 Microsoft 365 Copilot 扩展开发实训课程仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/copilot-camp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 670 --> 672
-    line [671, 671]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 670 --> 673
+    line [671, 672]
 ```
 
-2026-10-18 671 → 2026-10-23 671（+0）
+2026-10-18 671 → 2026-10-24 672（+1）
 
 
 ---

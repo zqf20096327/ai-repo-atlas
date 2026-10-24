@@ -1,6 +1,6 @@
 # datalab-to/indra
 
-⭐ 945 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datalab-to/indra) · [官网](https://www.datalab.to) · 组织维护
+⭐ 992 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datalab-to/indra) · [官网](https://www.datalab.to) · 组织维护
 
 **1M 参数级 CPU OCR 模型：把 PDF/图像转为 markdown/JSON**
 
@@ -44,13 +44,13 @@ Indra OCR 是一个约 1M 参数、运行在 CPU 上的 OCR 模型（全部默�
 
 ```mermaid
 xychart-beta
-    title "datalab-to/indra 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 505 --> 985
-    line [545, 660, 877, 945]
+    title "datalab-to/indra 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 501 --> 1036
+    line [545, 660, 877, 945, 992]
 ```
 
-2026-10-18 545 → 2026-10-23 945（+400）
+2026-10-18 545 → 2026-10-24 992（+447）
 
 
 ---

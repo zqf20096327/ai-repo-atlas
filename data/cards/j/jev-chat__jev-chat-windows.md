@@ -1,6 +1,6 @@
 # jev-chat/jev-chat-windows
 
-⭐ 842 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/jev-chat/jev-chat-windows) · 个人维护 · 中文 README
+⭐ 847 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/jev-chat/jev-chat-windows) · 个人维护 · 中文 README
 
 **Windows 聊天窗口旁挂的 AI 回复辅助：OCR 读屏生成候选回复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jev-chat/jev-chat-windows 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 815 --> 844
-    line [817, 825, 831, 842]
+    title "jev-chat/jev-chat-windows 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 814 --> 850
+    line [817, 825, 831, 842, 847]
 ```
 
-2026-10-18 817 → 2026-10-23 842（+25）
+2026-10-18 817 → 2026-10-24 847（+30）
 
 
 ---

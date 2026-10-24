@@ -46,13 +46,13 @@ Kompute 是基于 Vulkan 的通用 GPU 计算框架，为 AMD、Qualcomm、NVIDI
 
 ```mermaid
 xychart-beta
-    title "KomputeProject/kompute 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "KomputeProject/kompute 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2576 --> 2580
-    line [2577, 2578, 2579]
+    line [2577, 2578, 2579, 2579]
 ```
 
-2026-10-18 2,577 → 2026-10-23 2,579（+2）
+2026-10-18 2,577 → 2026-10-24 2,579（+2）
 
 
 ---

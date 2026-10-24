@@ -1,6 +1,6 @@
 # poloclub/transformer-explainer
 
-⭐ 9,034 · JavaScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/poloclub/transformer-explainer) · [官网](https://poloclub.github.io/transformer-explainer/) · 组织维护
+⭐ 9,042 · JavaScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/poloclub/transformer-explainer) · [官网](https://poloclub.github.io/transformer-explainer/) · 组织维护
 
 **浏览器内交互式可视化讲解 GPT/Transformer 工作原理的工具**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "poloclub/transformer-explainer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8995 --> 9037
-    line [8998, 9010, 9030, 9034]
+    title "poloclub/transformer-explainer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8994 --> 9046
+    line [8998, 9010, 9030, 9034, 9042]
 ```
 
-2026-10-18 8,998 → 2026-10-23 9,034（+36）
+2026-10-18 8,998 → 2026-10-24 9,042（+44）
 
 
 ---

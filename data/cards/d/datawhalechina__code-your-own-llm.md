@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/code-your-own-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "datawhalechina/code-your-own-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 224 --> 227
-    line [225, 226]
+    line [225, 226, 226]
 ```
 
-2026-10-18 225 → 2026-10-23 226（+1）
+2026-10-18 225 → 2026-10-24 226（+1）
 
 
 ---

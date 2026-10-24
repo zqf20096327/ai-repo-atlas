@@ -1,6 +1,6 @@
 # Affitor/affiliate-skills
 
-⭐ 739 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Affitor/affiliate-skills) · [官网](https://affitor.com) · 组织维护
+⭐ 740 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Affitor/affiliate-skills) · [官网](https://affitor.com) · 组织维护
 
 **面向联盟营销的 52 个 AI agent 技能集（8 阶段闭环）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Affitor/affiliate-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 721 --> 740
-    line [722, 727, 737, 739]
+    title "Affitor/affiliate-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 721 --> 741
+    line [722, 727, 737, 739, 740]
 ```
 
-2026-10-18 722 → 2026-10-23 739（+17）
+2026-10-18 722 → 2026-10-24 740（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # go-vgo/robotgo
 
-⭐ 10,878 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/go-vgo/robotgo) · [官网](https://atomai.cc) · 个人维护 · 中文 README
+⭐ 10,879 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/go-vgo/robotgo) · [官网](https://atomai.cc) · 个人维护 · 中文 README
 
 **Go 跨平台桌面自动化库：控制键鼠、读屏、窗口与进程**
 
@@ -45,13 +45,13 @@ Go 语言的原生跨平台 GUI 自动化/RPA 库，提供鼠标键盘控制、�
 
 ```mermaid
 xychart-beta
-    title "go-vgo/robotgo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10870 --> 10879
-    line [10871, 10872, 10876, 10878]
+    title "go-vgo/robotgo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10870 --> 10880
+    line [10871, 10872, 10876, 10878, 10879]
 ```
 
-2026-10-18 10,871 → 2026-10-23 10,878（+7）
+2026-10-18 10,871 → 2026-10-24 10,879（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # GroundedCoreAI/nexusdesk
 
-⭐ 97 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/GroundedCoreAI/nexusdesk) · [官网](https://www.aidet.top) · 组织维护 · 中文 README
+⭐ 97 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/GroundedCoreAI/nexusdesk) · [官网](https://www.aidet.top) · 组织维护 · 中文 README
 
 **自托管通用 Agent 平台，首个参考应用为 AI 客服**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GroundedCoreAI/nexusdesk 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
+    title "GroundedCoreAI/nexusdesk 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 95 --> 98
-    line [96, 97]
+    line [96, 97, 97]
 ```
 
-2026-10-22 96 → 2026-10-23 97（+1）
+2026-10-22 96 → 2026-10-24 97（+1）
 
 
 ---

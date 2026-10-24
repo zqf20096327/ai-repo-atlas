@@ -1,6 +1,6 @@
 # prism-php/prism
 
-⭐ 2,429 · PHP · MIT · 推送 2026-10-16 · [GitHub](https://github.com/prism-php/prism) · [官网](https://prismphp.com) · 个人维护
+⭐ 2,427 · PHP · MIT · 推送 2026-10-16 · [GitHub](https://github.com/prism-php/prism) · [官网](https://prismphp.com) · 个人维护
 
 **Laravel 应用接入 LLM 的统一接口包**
 
@@ -43,12 +43,12 @@ Prism 是一个 Laravel/PHP 包，为应用集成大语言模型提供统一接�
 ```mermaid
 xychart-beta
     title "prism-php/prism 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2427 --> 2430
-    line [2428, 2429, 2429]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 2426 --> 2430
+    line [2428, 2429, 2427]
 ```
 
-2026-10-18 2,428 → 2026-10-23 2,429（+1）
+2026-10-18 2,428 → 2026-10-24 2,427（-1）
 
 
 ---

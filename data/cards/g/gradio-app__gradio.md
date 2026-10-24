@@ -1,6 +1,6 @@
 # gradio-app/gradio
 
-⭐ 43,842 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/gradio-app/gradio) · [官网](http://www.gradio.app) · 组织维护
+⭐ 43,854 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/gradio-app/gradio) · [官网](http://www.gradio.app) · 组织维护
 
 **面向 ML 开发者：用纯 Python 快速构建并分享模型演示 Web 应用**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "gradio-app/gradio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 43778 --> 43847
-    line [43783, 43811, 43831, 43842]
+    title "gradio-app/gradio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 43776 --> 43861
+    line [43783, 43811, 43831, 43842, 43854]
 ```
 
-2026-10-18 43,783 → 2026-10-23 43,842（+59）
+2026-10-18 43,783 → 2026-10-24 43,854（+71）
 
 
 ---

@@ -1,6 +1,6 @@
 # mindspore-ai/docs
 
-⭐ 167 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mindspore-ai/docs) · 组织维护 · 中文 README
+⭐ 167 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mindspore-ai/docs) · 组织维护 · 中文 README
 
 **MindSpore 官方文档源文件仓库：安装指南、教程与 API 文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mindspore-ai/docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 166 --> 168
     line [167, 167]
 ```
 
-2026-10-18 167 → 2026-10-23 167（+0）
+2026-10-18 167 → 2026-10-24 167（+0）
 
 
 ---

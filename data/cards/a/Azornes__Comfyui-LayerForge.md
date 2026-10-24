@@ -1,6 +1,6 @@
 # Azornes/Comfyui-LayerForge
 
-⭐ 351 · JavaScript · MIT · 推送 2026-08-21 · [GitHub](https://github.com/Azornes/Comfyui-LayerForge) · 个人维护
+⭐ 352 · JavaScript · MIT · 推送 2026-08-21 · [GitHub](https://github.com/Azornes/Comfyui-LayerForge) · 个人维护
 
 **ComfyUI 的类 Photoshop 分层画布编辑节点，服务合成与重绘工作流**
 
@@ -46,12 +46,12 @@ ComfyUI 自定义节点，在浏览器中提供多层画布编辑器：图层的
 ```mermaid
 xychart-beta
     title "Azornes/Comfyui-LayerForge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 350 --> 352
-    line [351, 351]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 350 --> 353
+    line [351, 352]
 ```
 
-2026-10-18 351 → 2026-10-23 351（+0）
+2026-10-18 351 → 2026-10-24 352（+1）
 
 
 ---

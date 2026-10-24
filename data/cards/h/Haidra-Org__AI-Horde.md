@@ -1,6 +1,6 @@
 # Haidra-Org/AI-Horde
 
-⭐ 1,634 · Python · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/Haidra-Org/AI-Horde) · 组织维护
+⭐ 1,636 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Haidra-Org/AI-Horde) · 组织维护
 
 **众包分布式 AI 推理集群中间件：志愿者共享算力生成图像与文本**
 
@@ -45,13 +45,13 @@ AI Horde 是一个社区驱动的众包分布式推理集群中间件，支持�
 
 ```mermaid
 xychart-beta
-    title "Haidra-Org/AI-Horde 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1619 --> 1635
-    line [1620, 1624, 1629, 1634]
+    title "Haidra-Org/AI-Horde 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1619 --> 1637
+    line [1620, 1624, 1629, 1634, 1636]
 ```
 
-2026-10-18 1,620 → 2026-10-23 1,634（+14）
+2026-10-18 1,620 → 2026-10-24 1,636（+16）
 
 
 ---

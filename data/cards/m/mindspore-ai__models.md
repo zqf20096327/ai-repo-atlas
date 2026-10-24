@@ -40,6 +40,18 @@
 > L5: The MindSpore models repository provides different task domains, classic SOTA model implementations and end-to-end s
 > L11: |official|• A collections of SOTA models implemented by MindSpore Latest API • Maintained by MindSpore Team|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mindspore-ai/models 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 366 --> 368
+    line [367, 367]
+```
+
+2026-10-23 367 → 2026-10-24 367（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4e3369468c9e` · [字段定义](../../DATASET.md)*

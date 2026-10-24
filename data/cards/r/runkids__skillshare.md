@@ -1,6 +1,6 @@
 # runkids/skillshare
 
-⭐ 2,820 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/runkids/skillshare) · [官网](https://skillshare.runkids.cc) · 个人维护 · 中文 README
+⭐ 2,824 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/runkids/skillshare) · [官网](https://skillshare.runkids.cc) · 个人维护 · 中文 README
 
 **跨 AI CLI 工具同步 skills/agents/MCP/hooks 的统一管理工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "runkids/skillshare 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2798 --> 2822
-    line [2800, 2805, 2812, 2820]
+    title "runkids/skillshare 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2798 --> 2826
+    line [2800, 2805, 2812, 2820, 2824]
 ```
 
-2026-10-18 2,800 → 2026-10-23 2,820（+20）
+2026-10-18 2,800 → 2026-10-24 2,824（+24）
 
 
 ---

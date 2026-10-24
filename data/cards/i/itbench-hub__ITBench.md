@@ -1,6 +1,6 @@
 # itbench-hub/ITBench
 
-⭐ 513 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/itbench-hub/ITBench) · 组织维护
+⭐ 513 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/itbench-hub/ITBench) · 组织维护
 
 **评测 AI agent 在 IT 自动化任务表现的基准框架**
 
@@ -46,12 +46,12 @@ IBM Research 维护的开源基准框架，评测 AI agent 在 SRE（可靠性�
 ```mermaid
 xychart-beta
     title "itbench-hub/ITBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 511 --> 514
     line [512, 513, 513]
 ```
 
-2026-10-18 512 → 2026-10-23 513（+1）
+2026-10-18 512 → 2026-10-24 513（+1）
 
 
 ---

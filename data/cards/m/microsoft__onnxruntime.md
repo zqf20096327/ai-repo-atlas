@@ -1,6 +1,6 @@
 # microsoft/onnxruntime
 
-⭐ 22,145 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/onnxruntime) · [官网](https://onnxruntime.ai) · 组织维护
+⭐ 22,152 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/onnxruntime) · [官网](https://onnxruntime.ai) · 组织维护
 
 **给开发者提供跨平台高性能的 ML 推理与训练加速运行时**
 
@@ -50,13 +50,13 @@ ONNX Runtime 是跨平台的机器学习加速运行时：推理侧可读取来�
 
 ```mermaid
 xychart-beta
-    title "microsoft/onnxruntime 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 22104 --> 22148
-    line [22107, 22119, 22131, 22145]
+    title "microsoft/onnxruntime 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 22103 --> 22156
+    line [22107, 22119, 22131, 22145, 22152]
 ```
 
-2026-10-18 22,107 → 2026-10-23 22,145（+38）
+2026-10-18 22,107 → 2026-10-24 22,152（+45）
 
 
 ---

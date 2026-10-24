@@ -1,6 +1,6 @@
 # jegly/Box
 
-⭐ 934 · Kotlin · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/jegly/Box) · [官网](https://jegly.xyz) · 个人维护
+⭐ 939 · Kotlin · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/jegly/Box) · [官网](https://jegly.xyz) · 个人维护
 
 **Android 端离线 AI 套件：本地聊天、图像生成与多种 AI 工具**
 
@@ -45,13 +45,13 @@ Google AI Edge Gallery 的安全加固分支，面向 Android 用户的全离线
 
 ```mermaid
 xychart-beta
-    title "jegly/Box 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 919 --> 935
-    line [920, 926, 932, 934]
+    title "jegly/Box 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 919 --> 940
+    line [920, 926, 932, 934, 939]
 ```
 
-2026-10-18 920 → 2026-10-23 934（+14）
+2026-10-18 920 → 2026-10-24 939（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-robots-txt/ai.robots.txt
 
-⭐ 4,208 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ai-robots-txt/ai.robots.txt) · [官网](https://github.com/ai-robots-txt/ai.robots.txt/releases.atom) · 组织维护
+⭐ 4,207 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ai-robots-txt/ai.robots.txt) · [官网](https://github.com/ai-robots-txt/ai.robots.txt/releases.atom) · 组织维护
 
 **AI 爬虫屏蔽清单：供网站主配置多服务器拦截**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-robots-txt/ai.robots.txt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "ai-robots-txt/ai.robots.txt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 4197 --> 4209
-    line [4198, 4204, 4207, 4208]
+    line [4198, 4204, 4207, 4208, 4207]
 ```
 
-2026-10-18 4,198 → 2026-10-23 4,208（+10）
+2026-10-18 4,198 → 2026-10-24 4,207（+9）
 
 
 ---

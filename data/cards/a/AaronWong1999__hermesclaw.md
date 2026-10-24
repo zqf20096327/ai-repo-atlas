@@ -1,6 +1,6 @@
 # AaronWong1999/hermesclaw
 
-⭐ 749 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AaronWong1999/hermesclaw) · 个人维护 · 中文 README
+⭐ 750 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AaronWong1999/hermesclaw) · 个人维护 · 中文 README
 
 **让三个 AI Agent 共用同一微信账号的转发代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AaronWong1999/hermesclaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 748 --> 752
-    line [750, 751, 749, 749]
+    line [750, 751, 749, 750]
 ```
 
-2026-10-18 750 → 2026-10-23 749（-1）
+2026-10-18 750 → 2026-10-24 750（+0）
 
 
 ---

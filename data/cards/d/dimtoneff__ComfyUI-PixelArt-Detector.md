@@ -1,6 +1,6 @@
 # dimtoneff/ComfyUI-PixelArt-Detector
 
-⭐ 451 · Python · MIT · 推送 2025-10-31 · [GitHub](https://github.com/dimtoneff/ComfyUI-PixelArt-Detector) · 个人维护
+⭐ 452 · Python · MIT · 推送 2025-10-31 · [GitHub](https://github.com/dimtoneff/ComfyUI-PixelArt-Detector) · 个人维护
 
 **ComfyUI 像素画处理自定义节点集：生成/降采样/调色板替换像素图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dimtoneff/ComfyUI-PixelArt-Detector 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 449 --> 452
-    line [450, 451, 451]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 449 --> 453
+    line [450, 451, 452]
 ```
 
-2026-10-18 450 → 2026-10-23 451（+1）
+2026-10-18 450 → 2026-10-24 452（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # The-AI-Alliance/tapestry
 
-⭐ 294 · Python · 推送 2026-10-20 · [GitHub](https://github.com/The-AI-Alliance/tapestry) · [官网](https://thealliance.ai/projects/tapestry/) · 组织维护
+⭐ 294 · Python · 推送 2026-10-23 · [GitHub](https://github.com/The-AI-Alliance/tapestry) · [官网](https://thealliance.ai/projects/tapestry/) · 组织维护
 
 **多方主权 AI 联盟：共同训练基础模型并构建衍生模型**
 
@@ -45,12 +45,12 @@ The AI Alliance 发起的全球联盟项目：伙伴组织与个人贡献数据�
 ```mermaid
 xychart-beta
     title "The-AI-Alliance/tapestry 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 293 --> 295
     line [294, 294]
 ```
 
-2026-10-18 294 → 2026-10-23 294（+0）
+2026-10-18 294 → 2026-10-24 294（+0）
 
 
 ---

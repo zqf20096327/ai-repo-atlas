@@ -1,6 +1,6 @@
 # zhoushoujianwork/easyeda-agent
 
-⭐ 786 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/zhoushoujianwork/easyeda-agent) · [官网](https://jlc-ext.com/item/zhoushoujian/easyeda-agent-connector) · 个人维护 · 中文 README
+⭐ 800 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/zhoushoujianwork/easyeda-agent) · [官网](https://jlc-ext.com/item/zhoushoujian/easyeda-agent-connector) · 个人维护 · 中文 README
 
 **让 AI Agent 直接操作嘉立创 EDA 专业版的自动化层**
 
@@ -45,13 +45,13 @@ EasyEDA Pro 的 AI 自动化工具：把原理图/PCB 操作封装为 typed acti
 
 ```mermaid
 xychart-beta
-    title "zhoushoujianwork/easyeda-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 684 --> 795
-    line [693, 718, 764, 786]
+    title "zhoushoujianwork/easyeda-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 683 --> 810
+    line [693, 718, 764, 786, 800]
 ```
 
-2026-10-18 693 → 2026-10-23 786（+93）
+2026-10-18 693 → 2026-10-24 800（+107）
 
 
 ---

@@ -1,6 +1,6 @@
 # stepfun-ai/Step-Code
 
-⭐ 1,011 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/stepfun-ai/Step-Code) · 组织维护 · 中文 README
+⭐ 1,014 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/stepfun-ai/Step-Code) · 组织维护 · 中文 README
 
 **终端 AI 编程代理：连接 Step 模型完成读码、改码与测试**
 
@@ -44,13 +44,13 @@ StepFun 出品的终端编码代理，绑定内置 Step 提供方（订阅计划
 
 ```mermaid
 xychart-beta
-    title "stepfun-ai/Step-Code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "stepfun-ai/Step-Code 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 941 --> 1052
-    line [950, 996, 1043, 1011]
+    line [950, 996, 1043, 1011, 1014]
 ```
 
-2026-10-18 950 → 2026-10-23 1,011（+61）
+2026-10-18 950 → 2026-10-24 1,014（+64）
 
 
 ---

@@ -1,6 +1,6 @@
 # QuantumNovice/awesome-civil-engineering
 
-⭐ 104 · Python · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/QuantumNovice/awesome-civil-engineering) · 个人维护
+⭐ 105 · Python · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/QuantumNovice/awesome-civil-engineering) · 个人维护
 
 **土木工程软件与编程资源策展清单，覆盖多工程子领域**
 
@@ -44,12 +44,12 @@ Awesome 系列的土木工程软件资源清单：按报告文档、水资源与
 ```mermaid
 xychart-beta
     title "QuantumNovice/awesome-civil-engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 100 --> 105
-    line [101, 103, 104, 104]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 100 --> 106
+    line [101, 103, 104, 105]
 ```
 
-2026-10-18 101 → 2026-10-23 104（+3）
+2026-10-18 101 → 2026-10-24 105（+4）
 
 
 ---

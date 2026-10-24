@@ -1,6 +1,6 @@
 # atria-asi/Atria-Dawn
 
-⭐ 619 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/atria-asi/Atria-Dawn) · [官网](https://atria-asi.ai/) · 组织维护 · 中文 README
+⭐ 619 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/atria-asi/Atria-Dawn) · [官网](https://atria-asi.ai/) · 组织维护 · 中文 README
 
 **面向科研与工程场景的 agentic 大模型（744B MoE）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "atria-asi/Atria-Dawn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "atria-asi/Atria-Dawn 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 615 --> 620
-    line [616, 618, 619]
+    line [616, 618, 619, 619]
 ```
 
-2026-10-18 616 → 2026-10-23 619（+3）
+2026-10-18 616 → 2026-10-24 619（+3）
 
 
 ---

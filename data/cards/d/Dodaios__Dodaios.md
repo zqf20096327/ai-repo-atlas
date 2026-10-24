@@ -1,6 +1,6 @@
 # Dodaios/Dodaios
 
-⭐ 247 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Dodaios/Dodaios) · [官网](https://dodaios.ai) · 个人维护 · 中文 README
+⭐ 249 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Dodaios/Dodaios) · [官网](https://dodaios.ai) · 个人维护 · 中文 README
 
 **本地开源桌面 Agent OS：语音/聊天调度编码 Agent 与应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dodaios/Dodaios 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 229 --> 248
-    line [230, 238, 244, 247]
+    title "Dodaios/Dodaios 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 229 --> 250
+    line [230, 238, 244, 247, 249]
 ```
 
-2026-10-18 230 → 2026-10-23 247（+17）
+2026-10-18 230 → 2026-10-24 249（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # AgentOps-AI/agentops
 
-⭐ 5,908 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/AgentOps-AI/agentops) · [官网](https://agentops.ai) · 组织维护
+⭐ 5,911 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/AgentOps-AI/agentops) · [官网](https://agentops.ai) · 组织维护
 
 **AI Agent 可观测性与监控平台：会话回放、成本追踪、评测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentOps-AI/agentops 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5891 --> 5909
-    line [5892, 5897, 5901, 5908]
+    title "AgentOps-AI/agentops 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5891 --> 5912
+    line [5892, 5897, 5901, 5908, 5911]
 ```
 
-2026-10-18 5,892 → 2026-10-23 5,908（+16）
+2026-10-18 5,892 → 2026-10-24 5,911（+19）
 
 
 ---

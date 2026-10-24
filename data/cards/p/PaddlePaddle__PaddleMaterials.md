@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "PaddlePaddle/PaddleMaterials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "PaddlePaddle/PaddleMaterials 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 126 --> 129
-    line [127, 128]
+    line [127, 128, 128]
 ```
 
-2026-10-18 127 → 2026-10-23 128（+1）
+2026-10-18 127 → 2026-10-24 128（+1）
 
 
 ---

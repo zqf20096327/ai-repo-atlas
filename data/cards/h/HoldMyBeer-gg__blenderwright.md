@@ -1,6 +1,6 @@
 # HoldMyBeer-gg/blenderwright
 
-⭐ 175 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/HoldMyBeer-gg/blenderwright) · [官网](https://blenderwright.holdmybeer.gg/) · 个人维护
+⭐ 174 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/HoldMyBeer-gg/blenderwright) · [官网](https://blenderwright.holdmybeer.gg/) · 个人维护
 
 **Blender 的 MCP server：191 个工具让 AI 助手用自然语言做 3D 建模**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HoldMyBeer-gg/blenderwright 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 172 --> 176
-    line [173, 175, 175]
+    line [173, 175, 174]
 ```
 
-2026-10-18 173 → 2026-10-23 175（+2）
+2026-10-18 173 → 2026-10-24 174（+1）
 
 
 ---

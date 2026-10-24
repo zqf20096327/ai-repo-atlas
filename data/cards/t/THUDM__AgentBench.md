@@ -1,6 +1,6 @@
 # THUDM/AgentBench
 
-⭐ 3,786 · Python · Apache-2.0 · 推送 2026-02-08 · [GitHub](https://github.com/THUDM/AgentBench) · 组织维护 · 中文 README
+⭐ 3,789 · Python · Apache-2.0 · 推送 2026-02-08 · [GitHub](https://github.com/THUDM/AgentBench) · 组织维护 · 中文 README
 
 **评测 LLM 作为 Agent 能力的多环境基准（ICLR'24）**
 
@@ -44,13 +44,13 @@ THUDM 维护的 LLM-as-Agent 评测基准，含 8 个交互环境（OS、数据�
 
 ```mermaid
 xychart-beta
-    title "THUDM/AgentBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3776 --> 3787
-    line [3777, 3783, 3785, 3786]
+    title "THUDM/AgentBench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3776 --> 3790
+    line [3777, 3783, 3785, 3786, 3789]
 ```
 
-2026-10-18 3,777 → 2026-10-23 3,786（+9）
+2026-10-18 3,777 → 2026-10-24 3,789（+12）
 
 
 ---

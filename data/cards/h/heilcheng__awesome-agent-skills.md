@@ -1,6 +1,6 @@
 # heilcheng/awesome-agent-skills
 
-⭐ 6,295 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/heilcheng/awesome-agent-skills) · [官网](http://agent-skill.co) · 个人维护 · 中文 README
+⭐ 6,300 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/heilcheng/awesome-agent-skills) · [官网](http://agent-skill.co) · 个人维护 · 中文 README
 
 **社区策展的 AI agent 技能清单：教你为 Claude/Copilot 等加载技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "heilcheng/awesome-agent-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 6279 --> 6296
-    line [6280, 6292, 6295]
+    title "heilcheng/awesome-agent-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6278 --> 6302
+    line [6280, 6292, 6295, 6300]
 ```
 
-2026-10-18 6,280 → 2026-10-23 6,295（+15）
+2026-10-18 6,280 → 2026-10-24 6,300（+20）
 
 
 ---

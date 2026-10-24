@@ -1,6 +1,6 @@
 # kouhxp/gutsy
 
-⭐ 95 · HTML · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/kouhxp/gutsy) · 个人维护
+⭐ 96 · HTML · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/kouhxp/gutsy) · 个人维护
 
 **本地决策模型：发状态与问题，返回各选项的校准概率**
 
@@ -46,13 +46,13 @@ gutsy 提供 0.8B 参数（Qwen3.5-0.8B 微调）的本地决策模型，GGUF �
 
 ```mermaid
 xychart-beta
-    title "kouhxp/gutsy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 91 --> 96
-    line [92, 93, 94, 95]
+    title "kouhxp/gutsy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 91 --> 97
+    line [92, 93, 94, 95, 96]
 ```
 
-2026-10-18 92 → 2026-10-23 95（+3）
+2026-10-18 92 → 2026-10-24 96（+4）
 
 
 ---

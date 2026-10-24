@@ -1,6 +1,6 @@
 # hello-diana/MASCOT
 
-⭐ 741 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/hello-diana/MASCOT) · [官网](https://hello-diana.github.io/MASCOT/) · 组织维护
+⭐ 745 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/hello-diana/MASCOT) · [官网](https://hello-diana.github.io/MASCOT/) · 组织维护
 
 **多 agent 社交陪伴系统的双层优化训练框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hello-diana/MASCOT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 724 --> 742
-    line [725, 730, 737, 741]
+    title "hello-diana/MASCOT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 723 --> 747
+    line [725, 730, 737, 741, 745]
 ```
 
-2026-10-18 725 → 2026-10-23 741（+16）
+2026-10-18 725 → 2026-10-24 745（+20）
 
 
 ---

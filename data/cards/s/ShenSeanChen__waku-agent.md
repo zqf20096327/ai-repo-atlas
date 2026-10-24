@@ -1,6 +1,6 @@
 # ShenSeanChen/waku-agent
 
-⭐ 2,083 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ShenSeanChen/waku-agent) · [官网](waku.one) · 个人维护 · 中文 README
+⭐ 2,089 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ShenSeanChen/waku-agent) · [官网](waku.one) · 个人维护 · 中文 README
 
 **本地优先的个人 AI agent 框架，附记忆/评测与终端/网页界面**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ShenSeanChen/waku-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2027 --> 2088
-    line [2032, 2057, 2073, 2083]
+    title "ShenSeanChen/waku-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2027 --> 2094
+    line [2032, 2057, 2073, 2083, 2089]
 ```
 
-2026-10-18 2,032 → 2026-10-23 2,083（+51）
+2026-10-18 2,032 → 2026-10-24 2,089（+57）
 
 
 ---

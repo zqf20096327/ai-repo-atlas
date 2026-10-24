@@ -1,6 +1,6 @@
 # Emmimal/context-engine
 
-⭐ 197 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/Emmimal/context-engine) · 个人维护
+⭐ 198 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/Emmimal/context-engine) · 个人维护
 
 **纯 Python 的 LLM 上下文管理管道：检索、重排、记忆衰减与 token 预算**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Emmimal/context-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 196 --> 198
-    line [197, 197]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 196 --> 199
+    line [197, 198]
 ```
 
-2026-10-18 197 → 2026-10-23 197（+0）
+2026-10-18 197 → 2026-10-24 198（+1）
 
 
 ---

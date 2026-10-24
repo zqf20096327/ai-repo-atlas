@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlibabaResearch/AdvancedLiterateMachinery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "AlibabaResearch/AdvancedLiterateMachinery 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1832 --> 1835
-    line [1833, 1834]
+    line [1833, 1834, 1834]
 ```
 
-2026-10-18 1,833 → 2026-10-23 1,834（+1）
+2026-10-18 1,833 → 2026-10-24 1,834（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhihongz/awesome-low-light-image-enhancement 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "zhihongz/awesome-low-light-image-enhancement 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1851 --> 1856
-    line [1852, 1853, 1855]
+    line [1852, 1853, 1855, 1855]
 ```
 
-2026-10-18 1,852 → 2026-10-23 1,855（+3）
+2026-10-18 1,852 → 2026-10-24 1,855（+3）
 
 
 ---

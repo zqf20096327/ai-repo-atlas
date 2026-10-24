@@ -1,6 +1,6 @@
 # ykdojo/safeclaw
 
-⭐ 184 · HTML · MIT · 推送 2026-09-27 · [GitHub](https://github.com/ykdojo/safeclaw) · 个人维护
+⭐ 185 · HTML · MIT · 推送 2026-09-27 · [GitHub](https://github.com/ykdojo/safeclaw) · 个人维护
 
 **容器化运行多个 Claude Code 会话并提供 Web 管理面板的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ykdojo/safeclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 183 --> 185
-    line [184, 184]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 183 --> 186
+    line [184, 185]
 ```
 
-2026-10-18 184 → 2026-10-23 184（+0）
+2026-10-18 184 → 2026-10-24 185（+1）
 
 
 ---

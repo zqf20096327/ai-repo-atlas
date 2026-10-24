@@ -1,6 +1,6 @@
 # janetom645-coder/mcd-buddy
 
-⭐ 108 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/janetom645-coder/mcd-buddy) · [官网](https://github.com/janetom645-coder/mcd-buddy) · 个人维护 · 中文 README
+⭐ 115 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/janetom645-coder/mcd-buddy) · [官网](https://github.com/janetom645-coder/mcd-buddy) · 个人维护 · 中文 README
 
 **麦当劳中国 MCP 的命令行客户端：点餐记录/团餐/改配/运势四玩法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "janetom645-coder/mcd-buddy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 55 --> 112
-    line [59, 88, 97, 108]
+    title "janetom645-coder/mcd-buddy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 54 --> 120
+    line [59, 88, 97, 108, 115]
 ```
 
-2026-10-18 59 → 2026-10-23 108（+49）
+2026-10-18 59 → 2026-10-24 115（+56）
 
 
 ---

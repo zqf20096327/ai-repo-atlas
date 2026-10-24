@@ -1,6 +1,6 @@
 # OpenRLHF/OpenRLHF
 
-⭐ 10,109 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/OpenRLHF/OpenRLHF) · [官网](https://openrlhf.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 10,113 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/OpenRLHF/OpenRLHF) · [官网](https://openrlhf.readthedocs.io/) · 组织维护 · 中文 README
 
 **面向 LLM/VLM 的分布式 RLHF 训练框架（Ray + vLLM）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenRLHF/OpenRLHF 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10091 --> 10110
-    line [10092, 10099, 10106, 10109]
+    title "OpenRLHF/OpenRLHF 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10090 --> 10115
+    line [10092, 10099, 10106, 10109, 10113]
 ```
 
-2026-10-18 10,092 → 2026-10-23 10,109（+17）
+2026-10-18 10,092 → 2026-10-24 10,113（+21）
 
 
 ---

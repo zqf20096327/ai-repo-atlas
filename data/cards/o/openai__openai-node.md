@@ -1,6 +1,6 @@
 # openai/openai-node
 
-⭐ 11,236 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/openai-node) · [官网](https://www.npmjs.com/package/openai) · 组织维护
+⭐ 11,237 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-node) · [官网](https://www.npmjs.com/package/openai) · 组织维护
 
 **OpenAI API 官方 TypeScript/JavaScript SDK，供开发者调用 OpenAI 模型服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/openai-node 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11224 --> 11237
-    line [11225, 11226, 11232, 11236]
+    title "openai/openai-node 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11224 --> 11238
+    line [11225, 11226, 11232, 11236, 11237]
 ```
 
-2026-10-18 11,225 → 2026-10-23 11,236（+11）
+2026-10-18 11,225 → 2026-10-24 11,237（+12）
 
 
 ---

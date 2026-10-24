@@ -1,6 +1,6 @@
 # deepseek-ai/FlashMLA
 
-⭐ 13,159 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/deepseek-ai/FlashMLA) · 组织维护 · 中文 README
+⭐ 13,170 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/deepseek-ai/FlashMLA) · 组织维护 · 中文 README
 
 **DeepSeek 的高性能注意力算子库，支撑模型在 GPU/NPU 上推理**
 
@@ -44,13 +44,13 @@ DeepSeek 维护的优化注意力 kernel 库，用于 DeepSeek-V4.1 模型在 NV
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/FlashMLA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13077 --> 13166
-    line [13084, 13093, 13145, 13159]
+    title "deepseek-ai/FlashMLA 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13076 --> 13178
+    line [13084, 13093, 13145, 13159, 13170]
 ```
 
-2026-10-18 13,084 → 2026-10-23 13,159（+75）
+2026-10-18 13,084 → 2026-10-24 13,170（+86）
 
 
 ---

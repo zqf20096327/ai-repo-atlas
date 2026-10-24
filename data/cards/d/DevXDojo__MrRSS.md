@@ -1,6 +1,6 @@
 # DevXDojo/MrRSS
 
-⭐ 2,601 · Go · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/DevXDojo/MrRSS) · [官网](https://mrrss.ch3nyang.top/) · 组织维护 · 中文 README
+⭐ 2,604 · Go · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/DevXDojo/MrRSS) · [官网](https://mrrss.ch3nyang.top/) · 组织维护 · 中文 README
 
 **带 AI 翻译与摘要的跨平台桌面 RSS 阅读器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevXDojo/MrRSS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2593 --> 2602
-    line [2595, 2594, 2598, 2601]
+    title "DevXDojo/MrRSS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2593 --> 2605
+    line [2595, 2594, 2598, 2601, 2604]
 ```
 
-2026-10-18 2,595 → 2026-10-23 2,601（+6）
+2026-10-18 2,595 → 2026-10-24 2,604（+9）
 
 
 ---

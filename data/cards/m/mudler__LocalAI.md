@@ -1,6 +1,6 @@
 # mudler/LocalAI
 
-⭐ 49,851 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护 · 中文 README
+⭐ 49,882 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护 · 中文 README
 
 **本地运行各类 AI 模型的开源引擎，无需 GPU**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "mudler/LocalAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 49576 --> 49876
-    line [49601, 49692, 49827, 49851]
+    title "mudler/LocalAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 49573 --> 49910
+    line [49601, 49692, 49827, 49851, 49882]
 ```
 
-2026-10-18 49,601 → 2026-10-23 49,851（+250）
+2026-10-18 49,601 → 2026-10-24 49,882（+281）
 
 
 ---

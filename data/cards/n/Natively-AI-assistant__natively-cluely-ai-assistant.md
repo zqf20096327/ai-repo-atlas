@@ -1,6 +1,6 @@
 # Natively-AI-assistant/natively-cluely-ai-assistant
 
-⭐ 3,058 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) · [官网](https://natively.software) · 组织维护
+⭐ 3,065 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) · [官网](https://natively.software) · 组织维护
 
 **面向面试与会议的桌面 AI 副驾：实时转录、隐形答案与本地 RAG**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Natively-AI-assistant/natively-cluely-ai-assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2996 --> 3063
-    line [3001, 3026, 3044, 3058]
+    title "Natively-AI-assistant/natively-cluely-ai-assistant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2995 --> 3071
+    line [3001, 3026, 3044, 3058, 3065]
 ```
 
-2026-10-18 3,001 → 2026-10-23 3,058（+57）
+2026-10-18 3,001 → 2026-10-24 3,065（+64）
 
 
 ---

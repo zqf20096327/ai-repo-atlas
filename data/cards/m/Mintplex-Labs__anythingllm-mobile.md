@@ -1,6 +1,6 @@
 # Mintplex-Labs/anythingllm-mobile
 
-⭐ 160 · TypeScript · GPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-mobile) · [官网](https://anythingllm.com/mobile) · 组织维护
+⭐ 163 · TypeScript · GPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-mobile) · [官网](https://anythingllm.com/mobile) · 组织维护
 
 **手机端本地优先的 AI Agent 应用：隐私优先的随身助手**
 
@@ -46,13 +46,13 @@ Mintplex Labs 出品的 Android AI Agent 应用，采用混合架构：手机作
 
 ```mermaid
 xychart-beta
-    title "Mintplex-Labs/anythingllm-mobile 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 151 --> 161
-    line [152, 156, 159, 160]
+    title "Mintplex-Labs/anythingllm-mobile 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 151 --> 164
+    line [152, 156, 159, 160, 163]
 ```
 
-2026-10-18 152 → 2026-10-23 160（+8）
+2026-10-18 152 → 2026-10-24 163（+11）
 
 
 ---

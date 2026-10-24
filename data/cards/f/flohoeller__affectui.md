@@ -1,6 +1,6 @@
 # flohoeller/affectui
 
-⭐ 192 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/flohoeller/affectui) · [官网](https://www.affectui.com) · 个人维护
+⭐ 210 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/flohoeller/affectui) · [官网](https://www.affectui.com) · 个人维护
 
 **面向 AI 产品的 React 组件/插画/动效库**
 
@@ -44,13 +44,13 @@ MIT 许可的 React 组件、插画与动效库，面向 AI 产品与现代 SaaS
 
 ```mermaid
 xychart-beta
-    title "flohoeller/affectui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 41 --> 205
-    line [54, 95, 158, 192]
+    title "flohoeller/affectui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 39 --> 225
+    line [54, 95, 158, 192, 210]
 ```
 
-2026-10-18 54 → 2026-10-23 192（+138）
+2026-10-18 54 → 2026-10-24 210（+156）
 
 
 ---

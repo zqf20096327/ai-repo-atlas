@@ -1,6 +1,6 @@
 # InternLM/lmdeploy
 
-⭐ 8,112 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/InternLM/lmdeploy) · [官网](https://lmdeploy.readthedocs.io/en/latest) · 组织维护 · 中文 README
+⭐ 8,115 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/InternLM/lmdeploy) · [官网](https://lmdeploy.readthedocs.io/en/latest) · 组织维护 · 中文 README
 
 **LLM 压缩、部署与推理服务工具包（TurboMind/PyTorch 双引擎）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "InternLM/lmdeploy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8106 --> 8113
-    line [8107, 8108, 8112, 8112]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 8106 --> 8116
+    line [8107, 8108, 8112, 8115]
 ```
 
-2026-10-18 8,107 → 2026-10-23 8,112（+5）
+2026-10-18 8,107 → 2026-10-24 8,115（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # pyxelr/recommendations-for-engineers
 
-⭐ 162 · MIT · 推送 2026-10-13 · [GitHub](https://github.com/pyxelr/recommendations-for-engineers) · [官网](https://pawelcislo.com/recommendations/) · 个人维护
+⭐ 163 · MIT · 推送 2026-10-13 · [GitHub](https://github.com/pyxelr/recommendations-for-engineers) · [官网](https://pawelcislo.com/recommendations/) · 个人维护
 
 **面向工程师的学习资源推荐清单：博客、书籍、课程与工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "pyxelr/recommendations-for-engineers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 161 --> 163
-    line [162, 162]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 161 --> 164
+    line [162, 163]
 ```
 
-2026-10-18 162 → 2026-10-23 162（+0）
+2026-10-18 162 → 2026-10-24 163（+1）
 
 
 ---

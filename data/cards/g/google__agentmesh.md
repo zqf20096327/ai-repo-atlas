@@ -1,6 +1,6 @@
 # google/agentmesh
 
-⭐ 1,146 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/agentmesh) · [官网](https://google.github.io/agentmesh/) · 组织维护
+⭐ 1,150 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/agentmesh) · [官网](https://google.github.io/agentmesh/) · 组织维护
 
 **给 AI agent 的私有网络：节点间发布、发现与调用工具和模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google/agentmesh 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1101 --> 1150
-    line [1105, 1123, 1139, 1146]
+    title "google/agentmesh 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1101 --> 1154
+    line [1105, 1123, 1139, 1146, 1150]
 ```
 
-2026-10-18 1,105 → 2026-10-23 1,146（+41）
+2026-10-18 1,105 → 2026-10-24 1,150（+45）
 
 
 ---

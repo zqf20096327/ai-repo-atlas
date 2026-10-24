@@ -1,6 +1,6 @@
 # awwaiid/ghostwriter
 
-⭐ 567 · Rust · MIT · 推送 2026-07-10 · [GitHub](https://github.com/awwaiid/ghostwriter) · 个人维护
+⭐ 568 · Rust · MIT · 推送 2026-07-10 · [GitHub](https://github.com/awwaiid/ghostwriter) · 个人维护
 
 **让 reMarkable2 电子墨水屏直连视觉 LLM 的手写交互实验程序**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "awwaiid/ghostwriter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 564 --> 568
-    line [565, 566, 567]
+    title "awwaiid/ghostwriter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 564 --> 569
+    line [565, 566, 567, 568]
 ```
 
-2026-10-18 565 → 2026-10-23 567（+2）
+2026-10-18 565 → 2026-10-24 568（+3）
 
 
 ---

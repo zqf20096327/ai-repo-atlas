@@ -1,6 +1,6 @@
 # SapienXai/AgentOS
 
-⭐ 127 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/SapienXai/AgentOS) · [官网](https://agentos.sapienx.app/) · 组织维护
+⭐ 128 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SapienXai/AgentOS) · [官网](https://agentos.sapienx.app/) · 组织维护
 
 **运行数字员工团队的操作层：基于 OpenClaw 管理 agent、任务与审批**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SapienXai/AgentOS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 120 --> 128
-    line [121, 122, 126, 127]
+    title "SapienXai/AgentOS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 120 --> 129
+    line [121, 122, 126, 127, 128]
 ```
 
-2026-10-18 121 → 2026-10-23 127（+6）
+2026-10-18 121 → 2026-10-24 128（+7）
 
 
 ---

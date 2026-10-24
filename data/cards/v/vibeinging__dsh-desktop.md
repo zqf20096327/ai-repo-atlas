@@ -1,6 +1,6 @@
 # vibeinging/dsh-desktop
 
-⭐ 483 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/vibeinging/dsh-desktop) · 个人维护 · 中文 README
+⭐ 484 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vibeinging/dsh-desktop) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的桌面发行版：打包官方 Web、插件市场与桌面能力**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vibeinging/dsh-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 482 --> 485
-    line [483, 484, 483, 483]
+    line [483, 484, 483, 484]
 ```
 
-2026-10-18 483 → 2026-10-23 483（+0）
+2026-10-18 483 → 2026-10-24 484（+1）
 
 
 ---

@@ -47,12 +47,12 @@ Twilio 官方维护的 MCP monorepo，含两个包：mcp 将 Twilio 全部公开
 ```mermaid
 xychart-beta
     title "twilio-labs/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 112 --> 114
     line [113, 113]
 ```
 
-2026-10-18 113 → 2026-10-23 113（+0）
+2026-10-18 113 → 2026-10-24 113（+0）
 
 
 ---

@@ -45,13 +45,13 @@ Wind（万得）维护的金融 Skill monorepo，收录 34 个金融 skill：通
 
 ```mermaid
 xychart-beta
-    title "Wind-Alice/AliceMarket 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "Wind-Alice/AliceMarket 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 137 --> 142
-    line [138, 140, 141]
+    line [138, 140, 141, 141]
 ```
 
-2026-10-18 138 → 2026-10-23 141（+3）
+2026-10-18 138 → 2026-10-24 141（+3）
 
 
 ---

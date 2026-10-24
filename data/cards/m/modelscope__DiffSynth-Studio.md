@@ -1,6 +1,6 @@
 # modelscope/DiffSynth-Studio
 
-⭐ 13,290 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/modelscope/DiffSynth-Studio) · 组织维护 · 中文 README
+⭐ 13,296 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelscope/DiffSynth-Studio) · 组织维护 · 中文 README
 
 **开源 Diffusion 模型引擎：统一推理与训练图像/视频/音频生成模型**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelscope/DiffSynth-Studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13253 --> 13293
-    line [13256, 13267, 13282, 13290]
+    title "modelscope/DiffSynth-Studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13252 --> 13300
+    line [13256, 13267, 13282, 13290, 13296]
 ```
 
-2026-10-18 13,256 → 2026-10-23 13,290（+34）
+2026-10-18 13,256 → 2026-10-24 13,296（+40）
 
 
 ---

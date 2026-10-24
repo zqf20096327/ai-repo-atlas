@@ -1,6 +1,6 @@
 # aws-samples/sample-genai-on-eks-starter-kit
 
-⭐ 96 · JavaScript · MIT-0 · 推送 2026-10-20 · [GitHub](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) · [官网](https://aws-samples.github.io/sample-genai-on-eks-starter-kit/) · 组织维护
+⭐ 95 · JavaScript · MIT-0 · 推送 2026-10-23 · [GitHub](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) · [官网](https://aws-samples.github.io/sample-genai-on-eks-starter-kit/) · 组织维护
 
 **在 Amazon EKS 上一键部署生成式 AI 基础设施的启动套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/sample-genai-on-eks-starter-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 94 --> 97
+    line [96, 95]
 ```
 
-2026-10-18 96 → 2026-10-23 96（+0）
+2026-10-18 96 → 2026-10-24 95（-1）
 
 
 ---

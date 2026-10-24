@@ -1,6 +1,6 @@
 # LLM-Coding/Semantic-Anchors
 
-⭐ 520 · HTML · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/LLM-Coding/Semantic-Anchors) · [官网](https://llm-coding.github.io/Semantic-Anchors/) · 组织维护
+⭐ 521 · HTML · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/LLM-Coding/Semantic-Anchors) · [官网](https://llm-coding.github.io/Semantic-Anchors/) · 组织维护
 
 **230+ 语义锚点策展清单：用术语激活 LLM 深层知识**
 
@@ -40,6 +40,18 @@
 > L16: Browse the full catalog of 230+ semantic anchors with interactive visualization, search, and role-based filtering:
 > L22: *Semantic anchors* are well-defined terms, methodologies, and frameworks that serve as reference points when commun
 > L36: Most frontier LLMs already recognize semantic anchors from their training data. However, if you use local or smalle
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LLM-Coding/Semantic-Anchors 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 519 --> 522
+    line [520, 521]
+```
+
+2026-10-23 520 → 2026-10-24 521（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # chAng-L19/codex-redteam-mode
 
-⭐ 1,125 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/chAng-L19/codex-redteam-mode) · 个人维护 · 中文 README
+⭐ 1,126 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/chAng-L19/codex-redteam-mode) · 个人维护 · 中文 README
 
 **给 Codex 用户的可选红队模式运行时：目标合约化并持久执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chAng-L19/codex-redteam-mode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1116 --> 1126
-    line [1117, 1121, 1123, 1125]
+    title "chAng-L19/codex-redteam-mode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1116 --> 1127
+    line [1117, 1121, 1123, 1125, 1126]
 ```
 
-2026-10-18 1,117 → 2026-10-23 1,125（+8）
+2026-10-18 1,117 → 2026-10-24 1,126（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # jnMetaCode/agency-orchestrator
 
-⭐ 2,397 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jnMetaCode/agency-orchestrator) · [官网](https://ao.aiolaola.com) · 个人维护 · 中文 README
+⭐ 2,400 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jnMetaCode/agency-orchestrator) · [官网](https://ao.aiolaola.com) · 个人维护 · 中文 README
 
 **多 AI 角色协作编排工具：一句话组队、几分钟交付方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jnMetaCode/agency-orchestrator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2374 --> 2399
-    line [2376, 2383, 2394, 2397]
+    title "jnMetaCode/agency-orchestrator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2374 --> 2402
+    line [2376, 2383, 2394, 2397, 2400]
 ```
 
-2026-10-18 2,376 → 2026-10-23 2,397（+21）
+2026-10-18 2,376 → 2026-10-24 2,400（+24）
 
 
 ---

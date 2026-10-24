@@ -1,6 +1,6 @@
 # unicodeveloper/globalthreatmap
 
-⭐ 1,860 · TypeScript · 推送 2026-07-02 · [GitHub](https://github.com/unicodeveloper/globalthreatmap) · [官网](https://globalthreatmap.up.railway.app) · 个人维护
+⭐ 1,859 · TypeScript · 推送 2026-07-02 · [GitHub](https://github.com/unicodeveloper/globalthreatmap) · [官网](https://globalthreatmap.up.railway.app) · 个人维护
 
 **全球威胁与事件情报地图：实时安全事件与深度研究简报**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "unicodeveloper/globalthreatmap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "unicodeveloper/globalthreatmap 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1850 --> 1861
-    line [1851, 1853, 1857, 1860]
+    line [1851, 1853, 1857, 1860, 1859]
 ```
 
-2026-10-18 1,851 → 2026-10-23 1,860（+9）
+2026-10-18 1,851 → 2026-10-24 1,859（+8）
 
 
 ---

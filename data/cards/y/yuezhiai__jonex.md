@@ -1,6 +1,6 @@
 # yuezhiai/jonex
 
-⭐ 1,445 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/yuezhiai/jonex) · [官网](https://jonex.ai) · 组织维护 · 中文 README
+⭐ 1,452 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/yuezhiai/jonex) · [官网](https://jonex.ai) · 组织维护 · 中文 README
 
 **面向企业 Agent 的多模态领域知识引擎（解析+本体知识库）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuezhiai/jonex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1390 --> 1450
-    line [1395, 1414, 1440, 1445]
+    title "yuezhiai/jonex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1390 --> 1457
+    line [1395, 1414, 1440, 1445, 1452]
 ```
 
-2026-10-18 1,395 → 2026-10-23 1,445（+50）
+2026-10-18 1,395 → 2026-10-24 1,452（+57）
 
 
 ---

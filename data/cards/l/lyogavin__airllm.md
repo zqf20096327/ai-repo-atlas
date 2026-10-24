@@ -1,6 +1,6 @@
 # lyogavin/airllm
 
-⭐ 40,299 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护
+⭐ 40,446 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护
 
 **让单张 4GB 显卡运行超大 LLM 的推理库**
 
@@ -52,13 +52,13 @@ Python 推理库，通过每次仅在 GPU 上保留一层解码层、逐层从�
 
 ```mermaid
 xychart-beta
-    title "lyogavin/airllm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 39016 --> 40415
-    line [39132, 39507, 40299]
+    title "lyogavin/airllm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 39001 --> 40577
+    line [39132, 39507, 40299, 40446]
 ```
 
-2026-10-18 39,132 → 2026-10-23 40,299（+1,167）
+2026-10-18 39,132 → 2026-10-24 40,446（+1,314）
 
 
 ---

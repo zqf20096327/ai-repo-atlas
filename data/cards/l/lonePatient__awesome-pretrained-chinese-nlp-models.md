@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lonePatient/awesome-pretrained-chinese-nlp-models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "lonePatient/awesome-pretrained-chinese-nlp-models 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 5600 --> 5612
-    line [5601, 5609, 5611]
+    line [5601, 5609, 5611, 5611]
 ```
 
-2026-10-18 5,601 → 2026-10-23 5,611（+10）
+2026-10-18 5,601 → 2026-10-24 5,611（+10）
 
 
 ---

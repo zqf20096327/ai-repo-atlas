@@ -1,6 +1,6 @@
 # pasrom/meeting-transcriber
 
-⭐ 212 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pasrom/meeting-transcriber) · [官网](https://meetingtranscriber.app) · 个人维护
+⭐ 215 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pasrom/meeting-transcriber) · [官网](https://meetingtranscriber.app) · 个人维护
 
 **macOS 本地会议转录器：录音、转录、说话人分离全在设备端**
 
@@ -45,13 +45,13 @@ macOS 菜单栏应用，自动检测 Teams/Zoom/Webex 会议并双轨录音（�
 
 ```mermaid
 xychart-beta
-    title "pasrom/meeting-transcriber 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 205 --> 213
-    line [206, 209, 211, 212]
+    title "pasrom/meeting-transcriber 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 205 --> 216
+    line [206, 209, 211, 212, 215]
 ```
 
-2026-10-18 206 → 2026-10-23 212（+6）
+2026-10-18 206 → 2026-10-24 215（+9）
 
 
 ---

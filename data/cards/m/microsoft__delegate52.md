@@ -1,6 +1,6 @@
 # microsoft/delegate52
 
-⭐ 124 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/microsoft/delegate52) · [官网](https://arxiv.org/abs/2604.15597) · 组织维护
+⭐ 123 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/microsoft/delegate52) · [官网](https://arxiv.org/abs/2604.15597) · 组织维护
 
 **评测 LLM 长程文档代编辑保真度的基准（52 领域）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/delegate52 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 122 --> 125
-    line [123, 124, 124]
+    line [123, 124, 123]
 ```
 
-2026-10-18 123 → 2026-10-23 124（+1）
+2026-10-18 123 → 2026-10-24 123（+0）
 
 
 ---

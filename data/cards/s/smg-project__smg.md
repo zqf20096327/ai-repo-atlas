@@ -1,6 +1,6 @@
 # smg-project/smg
 
-⭐ 661 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/smg-project/smg) · [官网](https://lightseek.org/smg) · 组织维护
+⭐ 665 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/smg-project/smg) · [官网](https://lightseek.org/smg) · 组织维护
 
 **Rust 编写的引擎无关 LLM 网关：统一接入多种推理后端**
 
@@ -44,13 +44,13 @@ Shepherd Model Gateway（SMG）是面向大规模 LLM 部署的模型路由网�
 
 ```mermaid
 xychart-beta
-    title "smg-project/smg 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 604 --> 666
-    line [609, 635, 661]
+    title "smg-project/smg 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 604 --> 670
+    line [609, 635, 661, 665]
 ```
 
-2026-10-18 609 → 2026-10-23 661（+52）
+2026-10-18 609 → 2026-10-24 665（+56）
 
 
 ---

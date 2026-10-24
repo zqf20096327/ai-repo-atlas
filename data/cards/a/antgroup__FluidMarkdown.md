@@ -1,6 +1,6 @@
 # antgroup/FluidMarkdown
 
-⭐ 641 · JavaScript · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/antgroup/FluidMarkdown) · 组织维护 · 中文 README
+⭐ 642 · JavaScript · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/antgroup/FluidMarkdown) · 组织维护 · 中文 README
 
 **面向 Android/iOS/HarmonyOS 的流式 Markdown 渲染库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "antgroup/FluidMarkdown 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 634 --> 642
-    line [635, 637, 641, 641]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 634 --> 643
+    line [635, 637, 641, 642]
 ```
 
-2026-10-18 635 → 2026-10-23 641（+6）
+2026-10-18 635 → 2026-10-24 642（+7）
 
 
 ---

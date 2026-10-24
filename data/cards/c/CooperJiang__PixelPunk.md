@@ -1,6 +1,6 @@
 # CooperJiang/PixelPunk
 
-⭐ 487 · Vue · NOASSERTION · 推送 2025-11-19 · [GitHub](https://github.com/CooperJiang/PixelPunk) · [官网](https://pixelpunk.cc) · 个人维护 · 中文 README
+⭐ 486 · Vue · NOASSERTION · 推送 2025-11-19 · [GitHub](https://github.com/CooperJiang/PixelPunk) · [官网](https://pixelpunk.cc) · 个人维护 · 中文 README
 
 **带 AI 智能标签与审核的自托管图床/资源管理平台**
 
@@ -46,12 +46,12 @@ Go + Vue 3 构建的全栈图床与文件管理平台，面向个人与团队自
 ```mermaid
 xychart-beta
     title "CooperJiang/PixelPunk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 485 --> 488
-    line [486, 487, 487]
+    line [486, 487, 486]
 ```
 
-2026-10-18 486 → 2026-10-23 487（+1）
+2026-10-18 486 → 2026-10-24 486（+0）
 
 
 ---

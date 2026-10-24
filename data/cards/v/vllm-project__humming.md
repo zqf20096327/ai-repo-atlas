@@ -1,6 +1,6 @@
 # vllm-project/humming
 
-⭐ 302 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vllm-project/humming) · 组织维护
+⭐ 309 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vllm-project/humming) · 组织维护
 
 **面向量化推理的 JIT 编译 GEMM 核库，供 NVIDIA GPU 使用**
 
@@ -44,13 +44,13 @@ vllm-project 下的轻量级 GEMM 核函数库：以 JIT 方式为量化推理�
 
 ```mermaid
 xychart-beta
-    title "vllm-project/humming 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 254 --> 306
-    line [258, 263, 278, 302]
+    title "vllm-project/humming 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 253 --> 314
+    line [258, 263, 278, 302, 309]
 ```
 
-2026-10-18 258 → 2026-10-23 302（+44）
+2026-10-18 258 → 2026-10-24 309（+51）
 
 
 ---

@@ -1,6 +1,6 @@
 # Companion-Inc/feynman
 
-⭐ 10,018 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Companion-Inc/feynman) · [官网](https://feynman.is) · 组织维护
+⭐ 10,016 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Companion-Inc/feynman) · [官网](https://feynman.is) · 组织维护
 
 **开源 AI 科研 agent CLI：文献综述、深度研究与论文审查**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Companion-Inc/feynman 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "Companion-Inc/feynman 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 9978 --> 10021
-    line [9981, 9991, 10008, 10018]
+    line [9981, 9991, 10008, 10018, 10016]
 ```
 
-2026-10-18 9,981 → 2026-10-23 10,018（+37）
+2026-10-18 9,981 → 2026-10-24 10,016（+35）
 
 
 ---

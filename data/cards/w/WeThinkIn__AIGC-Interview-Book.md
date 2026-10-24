@@ -1,6 +1,6 @@
 # WeThinkIn/AIGC-Interview-Book
 
-⭐ 5,044 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/WeThinkIn/AIGC-Interview-Book) · [官网](https://wethinkin.github.io/AIGC-Interview-Book/) · 组织维护 · 中文 README
+⭐ 5,050 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/WeThinkIn/AIGC-Interview-Book) · [官网](https://wethinkin.github.io/AIGC-Interview-Book/) · 组织维护 · 中文 README
 
 **AIGC/LLM/AI Agent 算法岗面试求职与职业成长知识平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "WeThinkIn/AIGC-Interview-Book 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4986 --> 5049
-    line [4991, 5011, 5036, 5044]
+    title "WeThinkIn/AIGC-Interview-Book 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4986 --> 5055
+    line [4991, 5011, 5036, 5044, 5050]
 ```
 
-2026-10-18 4,991 → 2026-10-23 5,044（+53）
+2026-10-18 4,991 → 2026-10-24 5,050（+59）
 
 
 ---

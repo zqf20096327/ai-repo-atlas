@@ -1,6 +1,6 @@
 # JuliaLang/julia
 
-⭐ 49,197 · Julia · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JuliaLang/julia) · [官网](https://julialang.org/) · 组织维护
+⭐ 49,203 · Julia · MIT · 推送 2026-10-23 · [GitHub](https://github.com/JuliaLang/julia) · [官网](https://julialang.org/) · 组织维护
 
 **面向技术计算的高性能动态编程语言**
 
@@ -51,13 +51,13 @@ Julia 是一种面向技术计算的高级动态编程语言，官方仓库提�
 
 ```mermaid
 xychart-beta
-    title "JuliaLang/julia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "JuliaLang/julia 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 49195 --> 49224
-    line [49211, 49222, 49215, 49197]
+    line [49211, 49222, 49215, 49197, 49203]
 ```
 
-2026-10-18 49,211 → 2026-10-23 49,197（-14）
+2026-10-18 49,211 → 2026-10-24 49,203（-8）
 
 
 ---

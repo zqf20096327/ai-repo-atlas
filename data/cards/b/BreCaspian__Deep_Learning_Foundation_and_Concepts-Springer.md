@@ -1,6 +1,6 @@
 # BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer
 
-⭐ 117 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer) · [官网](https://www.bishopbook.com) · 个人维护 · 中文 README
+⭐ 118 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer) · [官网](https://www.bishopbook.com) · 个人维护 · 中文 README
 
 **深度学习教材《Deep Learning: Foundations and Concepts》配套资源仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 116 --> 118
-    line [117, 117]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 116 --> 119
+    line [117, 118]
 ```
 
-2026-10-18 117 → 2026-10-23 117（+0）
+2026-10-18 117 → 2026-10-24 118（+1）
 
 
 ---

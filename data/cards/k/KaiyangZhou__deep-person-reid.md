@@ -1,6 +1,6 @@
 # KaiyangZhou/deep-person-reid
 
-⭐ 4,932 · Python · MIT · 推送 2026-01-09 · [GitHub](https://github.com/KaiyangZhou/deep-person-reid) · [官网](https://kaiyangzhou.github.io/deep-person-reid/) · 个人维护
+⭐ 4,933 · Python · MIT · 推送 2026-01-09 · [GitHub](https://github.com/KaiyangZhou/deep-person-reid) · [官网](https://kaiyangzhou.github.io/deep-person-reid/) · 个人维护
 
 **PyTorch 行人重识别（re-ID）深度学习库**
 
@@ -44,13 +44,13 @@ Torchreid 是用 PyTorch 编写的行人重识别库，配套作者 ICCV'19 OSNe
 
 ```mermaid
 xychart-beta
-    title "KaiyangZhou/deep-person-reid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4925 --> 4933
-    line [4926, 4929, 4930, 4932]
+    title "KaiyangZhou/deep-person-reid 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4925 --> 4934
+    line [4926, 4929, 4930, 4932, 4933]
 ```
 
-2026-10-18 4,926 → 2026-10-23 4,932（+6）
+2026-10-18 4,926 → 2026-10-24 4,933（+7）
 
 
 ---

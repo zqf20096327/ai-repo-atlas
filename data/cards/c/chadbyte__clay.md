@@ -1,6 +1,6 @@
 # chadbyte/clay
 
-⭐ 404 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/chadbyte/clay) · 个人维护
+⭐ 404 · JavaScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/chadbyte/clay) · 个人维护
 
 **自托管工作区：人与多个编码 agent 跨项目协作**
 
@@ -45,13 +45,13 @@ Clay Studio 是运行在本机的自托管工作区：通过浏览器统一管�
 
 ```mermaid
 xychart-beta
-    title "chadbyte/clay 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "chadbyte/clay 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 400 --> 405
-    line [401, 403, 404]
+    line [401, 403, 404, 404]
 ```
 
-2026-10-18 401 → 2026-10-23 404（+3）
+2026-10-18 401 → 2026-10-24 404（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Thysrael/Horizon
 
-⭐ 10,955 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Thysrael/Horizon) · [官网](https://www.horizon1123.top) · 个人维护 · 中文 README
+⭐ 10,966 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Thysrael/Horizon) · [官网](https://www.horizon1123.top) · 个人维护 · 中文 README
 
 **AI 驱动的个人新闻雷达：多源聚合并生成中英日报**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Thysrael/Horizon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 10610 --> 10986
-    line [10641, 10801, 10955]
+    title "Thysrael/Horizon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10609 --> 10998
+    line [10641, 10801, 10955, 10966]
 ```
 
-2026-10-18 10,641 → 2026-10-23 10,955（+314）
+2026-10-18 10,641 → 2026-10-24 10,966（+325）
 
 
 ---

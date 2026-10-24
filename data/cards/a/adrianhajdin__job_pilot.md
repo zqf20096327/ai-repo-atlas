@@ -1,6 +1,6 @@
 # adrianhajdin/job_pilot
 
-⭐ 145 · TypeScript · 推送 2026-06-06 · [GitHub](https://github.com/adrianhajdin/job_pilot) · [官网](https://jsmastery.com) · 组织维护
+⭐ 144 · TypeScript · 推送 2026-06-06 · [GitHub](https://github.com/adrianhajdin/job_pilot) · [官网](https://jsmastery.com) · 组织维护
 
 **求职者用的 AI Agent：自动找工作、打分匹配并定制简历**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adrianhajdin/job_pilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 144 --> 146
-    line [145, 145]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 143 --> 146
+    line [145, 144]
 ```
 
-2026-10-18 145 → 2026-10-23 145（+0）
+2026-10-18 145 → 2026-10-24 144（-1）
 
 
 ---

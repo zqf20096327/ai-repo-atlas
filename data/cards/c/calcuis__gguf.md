@@ -1,6 +1,6 @@
 # calcuis/gguf
 
-⭐ 275 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/calcuis/gguf) · [官网](https://pypi.org/project/gguf-node) · 个人维护
+⭐ 277 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/calcuis/gguf) · [官网](https://pypi.org/project/gguf-node) · 个人维护
 
 **ComfyUI 的 GGUF 节点：加载与转换 GGUF/ safetensors 模型**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "calcuis/gguf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 273 --> 276
-    line [274, 275]
+    title "calcuis/gguf 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 273 --> 278
+    line [274, 275, 277]
 ```
 
-2026-10-18 274 → 2026-10-23 275（+1）
+2026-10-18 274 → 2026-10-24 277（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # dholzmueller/pytabkit
 
-⭐ 399 · Python · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/dholzmueller/pytabkit) · 个人维护
+⭐ 400 · Python · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/dholzmueller/pytabkit) · 个人维护
 
 **表格数据分类/回归的 scikit-learn 接口模型库与基准代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dholzmueller/pytabkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 397 --> 400
-    line [398, 399, 399]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 397 --> 401
+    line [398, 399, 400]
 ```
 
-2026-10-18 398 → 2026-10-23 399（+1）
+2026-10-18 398 → 2026-10-24 400（+2）
 
 
 ---

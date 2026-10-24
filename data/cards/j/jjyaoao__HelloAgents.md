@@ -1,6 +1,6 @@
 # jjyaoao/HelloAgents
 
-⭐ 3,286 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/jjyaoao/HelloAgents) · 个人维护 · 中文 README
+⭐ 3,287 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/jjyaoao/HelloAgents) · 个人维护 · 中文 README
 
 **面向智能体开发的组件化多智能体框架（Python）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jjyaoao/HelloAgents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3247 --> 3289
-    line [3250, 3256, 3286]
+    title "jjyaoao/HelloAgents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3247 --> 3290
+    line [3250, 3256, 3286, 3287]
 ```
 
-2026-10-18 3,250 → 2026-10-23 3,286（+36）
+2026-10-18 3,250 → 2026-10-24 3,287（+37）
 
 
 ---

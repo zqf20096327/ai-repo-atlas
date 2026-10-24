@@ -1,6 +1,6 @@
 # tt-a1i/archify
 
-⭐ 87,529 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
+⭐ 88,236 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
 
 **给编码 Agent 的交互式图表生成技能，将描述或代码库转为可交互 HTML**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "tt-a1i/archify 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 84479 --> 87806
-    line [84756, 85805, 87529]
+    title "tt-a1i/archify 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 84408 --> 88584
+    line [84756, 85805, 87529, 88236]
 ```
 
-2026-10-18 84,756 → 2026-10-23 87,529（+2,773）
+2026-10-18 84,756 → 2026-10-24 88,236（+3,480）
 
 
 ---

@@ -1,6 +1,6 @@
 # whirlchat/whirl
 
-⭐ 509 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/whirlchat/whirl) · [官网](https://whirl.chat) · 组织维护
+⭐ 510 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/whirlchat/whirl) · [官网](https://whirl.chat) · 组织维护
 
 **可自托管的全栈 AI 聊天应用：多模型、长期记忆、活文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "whirlchat/whirl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 508 --> 512
-    line [510, 511, 509, 509]
+    line [510, 511, 509, 510]
 ```
 
-2026-10-18 510 → 2026-10-23 509（-1）
+2026-10-18 510 → 2026-10-24 510（+0）
 
 
 ---

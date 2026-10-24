@@ -1,6 +1,6 @@
 # tribgames/mixdog
 
-⭐ 180 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tribgames/mixdog) · 组织维护
+⭐ 186 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tribgames/mixdog) · 组织维护
 
 **开源桌面编码 agent：主模型规划、廉价模型并行执行搜索与审校**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tribgames/mixdog 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 140 --> 183
-    line [143, 155, 177, 180]
+    title "tribgames/mixdog 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 139 --> 190
+    line [143, 155, 177, 180, 186]
 ```
 
-2026-10-18 143 → 2026-10-23 180（+37）
+2026-10-18 143 → 2026-10-24 186（+43）
 
 
 ---

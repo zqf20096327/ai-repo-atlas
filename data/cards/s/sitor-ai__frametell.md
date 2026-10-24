@@ -1,6 +1,6 @@
 # sitor-ai/frametell
 
-⭐ 379 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/sitor-ai/frametell) · [官网](https://frametell.ai) · 组织维护 · 中文 README
+⭐ 390 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/sitor-ai/frametell) · [官网](https://frametell.ai) · 组织维护 · 中文 README
 
 **面向知识创作者的 AI 解说视频生成桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sitor-ai/frametell 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 188 --> 396
-    line [205, 286, 358, 379]
+    title "sitor-ai/frametell 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 187 --> 408
+    line [205, 286, 358, 379, 390]
 ```
 
-2026-10-18 205 → 2026-10-23 379（+174）
+2026-10-18 205 → 2026-10-24 390（+185）
 
 
 ---

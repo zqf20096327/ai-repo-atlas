@@ -1,6 +1,6 @@
 # ComposioHQ/composio
 
-⭐ 30,684 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ComposioHQ/composio) · [官网](https://docs.composio.dev) · 组织维护
+⭐ 30,703 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ComposioHQ/composio) · [官网](https://docs.composio.dev) · 组织维护
 
 **给 AI Agent 开发者提供 1000+ 工具集成、认证与沙箱的 SDK**
 
@@ -51,13 +51,13 @@ Composio 是一个 SDK monorepo，包含 TypeScript SDK（@composio/core）、Py
 
 ```mermaid
 xychart-beta
-    title "ComposioHQ/composio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 30601 --> 30691
-    line [30608, 30641, 30664, 30684]
+    title "ComposioHQ/composio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 30599 --> 30712
+    line [30608, 30641, 30664, 30684, 30703]
 ```
 
-2026-10-18 30,608 → 2026-10-23 30,684（+76）
+2026-10-18 30,608 → 2026-10-24 30,703（+95）
 
 
 ---

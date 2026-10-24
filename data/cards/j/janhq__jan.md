@@ -1,6 +1,6 @@
 # janhq/jan
 
-⭐ 45,044 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/janhq/jan) · [官网](https://jan.ai/) · 组织维护
+⭐ 45,050 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/janhq/jan) · [官网](https://jan.ai/) · 组织维护
 
 **给个人用户的本地离线 LLM 客户端：下载并运行模型**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "janhq/jan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 44972 --> 45050
-    line [44978, 45017, 45044]
+    title "janhq/jan 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 44971 --> 45057
+    line [44978, 45017, 45044, 45050]
 ```
 
-2026-10-18 44,978 → 2026-10-23 45,044（+66）
+2026-10-18 44,978 → 2026-10-24 45,050（+72）
 
 
 ---

@@ -1,6 +1,6 @@
 # SYuan03/Skill-Anything
 
-⭐ 342 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/SYuan03/Skill-Anything) · [官网](https://SYuan03.github.io/Skill-Anything/) · 个人维护
+⭐ 343 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/SYuan03/Skill-Anything) · [官网](https://SYuan03.github.io/Skill-Anything/) · 个人维护
 
 **把任意来源（PDF/视频/网页/音频/文本/仓库）转成学习包与 Agent 技能的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SYuan03/Skill-Anything 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 337 --> 343
-    line [338, 342]
+    title "SYuan03/Skill-Anything 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 337 --> 344
+    line [338, 342, 343]
 ```
 
-2026-10-18 338 → 2026-10-23 342（+4）
+2026-10-18 338 → 2026-10-24 343（+5）
 
 
 ---

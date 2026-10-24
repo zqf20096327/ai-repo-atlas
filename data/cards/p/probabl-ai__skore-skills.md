@@ -1,6 +1,6 @@
 # probabl-ai/skore-skills
 
-⭐ 142 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/probabl-ai/skore-skills) · [官网](https://probabl-ai.github.io/skore-skills/) · 组织维护
+⭐ 143 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/probabl-ai/skore-skills) · [官网](https://probabl-ai.github.io/skore-skills/) · 组织维护
 
 **给 AI agent 的表格数据科学技能包，约束 ML 实验方法论**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "probabl-ai/skore-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 140 --> 143
-    line [141, 142, 142]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 140 --> 144
+    line [141, 142, 143]
 ```
 
-2026-10-18 141 → 2026-10-23 142（+1）
+2026-10-18 141 → 2026-10-24 143（+2）
 
 
 ---

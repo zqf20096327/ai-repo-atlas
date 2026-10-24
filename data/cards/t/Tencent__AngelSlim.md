@@ -1,6 +1,6 @@
 # Tencent/AngelSlim
 
-⭐ 1,769 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Tencent/AngelSlim) · [官网](https://angelslim.readthedocs.io) · 组织维护 · 中文 README
+⭐ 1,770 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Tencent/AngelSlim) · [官网](https://angelslim.readthedocs.io) · 组织维护 · 中文 README
 
 **腾讯开源的大模型压缩工具包：量化、蒸馏、投机解码、稀疏注意力**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent/AngelSlim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1760 --> 1770
-    line [1761, 1762, 1769]
+    title "Tencent/AngelSlim 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1760 --> 1771
+    line [1761, 1762, 1769, 1770]
 ```
 
-2026-10-18 1,761 → 2026-10-23 1,769（+8）
+2026-10-18 1,761 → 2026-10-24 1,770（+9）
 
 
 ---

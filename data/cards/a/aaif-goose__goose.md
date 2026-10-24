@@ -1,6 +1,6 @@
 # aaif-goose/goose
 
-⭐ 55,532 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/aaif-goose/goose) · [官网](https://goose-docs.ai/) · 组织维护
+⭐ 55,588 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aaif-goose/goose) · [官网](https://goose-docs.ai/) · 组织维护
 
 **本地运行的通用开源 AI agent：桌面应用、CLI 与 API 三形态**
 
@@ -52,13 +52,13 @@ goose 是运行在用户本机的通用 AI agent，用途不限于代码，也�
 
 ```mermaid
 xychart-beta
-    title "aaif-goose/goose 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 55344 --> 55549
-    line [55361, 55441, 55487, 55532]
+    title "aaif-goose/goose 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 55339 --> 55610
+    line [55361, 55441, 55487, 55532, 55588]
 ```
 
-2026-10-18 55,361 → 2026-10-23 55,532（+171）
+2026-10-18 55,361 → 2026-10-24 55,588（+227）
 
 
 ---

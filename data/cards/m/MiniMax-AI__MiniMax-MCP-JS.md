@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-MCP-JS
 
-⭐ 130 · TypeScript · MIT · 推送 2026-08-21 · [GitHub](https://github.com/MiniMax-AI/MiniMax-MCP-JS) · [官网](https://www.minimax.io/platform) · 组织维护 · 中文 README
+⭐ 129 · TypeScript · MIT · 推送 2026-08-21 · [GitHub](https://github.com/MiniMax-AI/MiniMax-MCP-JS) · [官网](https://www.minimax.io/platform) · 组织维护 · 中文 README
 
 **MiniMax 官方 MCP 服务器：图像/视频生成、TTS、语音克隆工具**
 
@@ -45,12 +45,12 @@ MiniMax-AI 官方维护的 Model Context Protocol JavaScript/TypeScript 实现�
 ```mermaid
 xychart-beta
     title "MiniMax-AI/MiniMax-MCP-JS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 129 --> 131
-    line [130, 130]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 128 --> 131
+    line [130, 129]
 ```
 
-2026-10-18 130 → 2026-10-23 130（+0）
+2026-10-18 130 → 2026-10-24 129（-1）
 
 
 ---

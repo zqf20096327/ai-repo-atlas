@@ -1,6 +1,6 @@
 # im4codes/imcodes
 
-⭐ 965 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/im4codes/imcodes) · [官网](https://im.codes) · 个人维护 · 中文 README
+⭐ 965 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/im4codes/imcodes) · [官网](https://im.codes) · 个人维护 · 中文 README
 
 **面向编码代理的即时通讯层：共享记忆、监督执行与跨代理审计**
 
@@ -46,13 +46,13 @@ IM.codes 是围绕终端编码代理的消息、记忆与审查层：将受管�
 
 ```mermaid
 xychart-beta
-    title "im4codes/imcodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "im4codes/imcodes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 964 --> 972
-    line [971, 965]
+    line [971, 965, 965]
 ```
 
-2026-10-18 971 → 2026-10-23 965（-6）
+2026-10-18 971 → 2026-10-24 965（-6）
 
 
 ---

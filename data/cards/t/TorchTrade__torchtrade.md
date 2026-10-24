@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TorchTrade/torchtrade 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "TorchTrade/torchtrade 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 427 --> 430
-    line [428, 429]
+    line [428, 429, 429]
 ```
 
-2026-10-18 428 → 2026-10-23 429（+1）
+2026-10-18 428 → 2026-10-24 429（+1）
 
 
 ---

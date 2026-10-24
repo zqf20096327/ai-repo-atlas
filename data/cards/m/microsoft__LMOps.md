@@ -1,6 +1,6 @@
 # microsoft/LMOps
 
-⭐ 4,484 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/LMOps) · [官网](https://aka.ms/GeneralAI) · 组织维护
+⭐ 4,485 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/LMOps) · [官网](https://aka.ms/GeneralAI) · 组织维护
 
 **微软的 LLM/基础模型技术集合：提示优化、推理加速等研究项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/LMOps 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 4482 --> 4485
-    line [4483, 4484, 4484]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 4482 --> 4486
+    line [4483, 4484, 4485]
 ```
 
-2026-10-18 4,483 → 2026-10-23 4,484（+1）
+2026-10-18 4,483 → 2026-10-24 4,485（+2）
 
 
 ---

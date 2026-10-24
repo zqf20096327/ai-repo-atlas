@@ -1,6 +1,6 @@
 # jmagly/aiwg
 
-⭐ 225 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jmagly/aiwg) · [官网](https://aiwg.io) · 个人维护
+⭐ 225 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jmagly/aiwg) · [官网](https://aiwg.io) · 个人维护
 
 **为多种 AI 编码工具提供可复用上下文与工作流的部署框架**
 
@@ -45,13 +45,13 @@ AIWG 将 agents、skills、rules、templates 与工作流工具打包为 Markdow
 
 ```mermaid
 xychart-beta
-    title "jmagly/aiwg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "jmagly/aiwg 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 223 --> 226
-    line [224, 225]
+    line [224, 225, 225]
 ```
 
-2026-10-18 224 → 2026-10-23 225（+1）
+2026-10-18 224 → 2026-10-24 225（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # PurpleDoubleD/locally-uncensored
 
-⭐ 2,473 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) · [官网](https://locallyuncensored.com) · 个人维护
+⭐ 2,492 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) · [官网](https://locallyuncensored.com) · 个人维护
 
 **桌面端一体化本地 AI 工作室：聊天、图像视频生成与编程 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PurpleDoubleD/locally-uncensored 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2327 --> 2486
-    line [2340, 2406, 2447, 2473]
+    title "PurpleDoubleD/locally-uncensored 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2325 --> 2507
+    line [2340, 2406, 2447, 2473, 2492]
 ```
 
-2026-10-18 2,340 → 2026-10-23 2,473（+133）
+2026-10-18 2,340 → 2026-10-24 2,492（+152）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "intellicia-public/parastore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "intellicia-public/parastore 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 434 --> 445
-    line [444, 435]
+    line [444, 435, 435]
 ```
 
-2026-10-18 444 → 2026-10-23 435（-9）
+2026-10-18 444 → 2026-10-24 435（-9）
 
 
 ---

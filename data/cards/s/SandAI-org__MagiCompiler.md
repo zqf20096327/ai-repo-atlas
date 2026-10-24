@@ -1,6 +1,6 @@
 # SandAI-org/MagiCompiler
 
-⭐ 334 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/SandAI-org/MagiCompiler) · 组织维护
+⭐ 335 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/SandAI-org/MagiCompiler) · 组织维护
 
 **面向大模型训练与多模态推理的编译器加速框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SandAI-org/MagiCompiler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 333 --> 335
-    line [334, 334]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 333 --> 336
+    line [334, 335]
 ```
 
-2026-10-18 334 → 2026-10-23 334（+0）
+2026-10-18 334 → 2026-10-24 335（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mogeng/IOHMM
 
-⭐ 178 · Python · BSD-3-Clause · 推送 2026-05-23 · [GitHub](https://github.com/Mogeng/IOHMM) · 个人维护
+⭐ 179 · Python · BSD-3-Clause · 推送 2026-05-23 · [GitHub](https://github.com/Mogeng/IOHMM) · 个人维护
 
 **Python 的输入-输出隐马尔可夫模型（IOHMM）实现包**
 
@@ -45,12 +45,12 @@ Python 包，实现输入-输出隐马尔可夫模型：在标准 HMM 基础上�
 ```mermaid
 xychart-beta
     title "Mogeng/IOHMM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 177 --> 179
-    line [178, 178]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 177 --> 180
+    line [178, 179]
 ```
 
-2026-10-18 178 → 2026-10-23 178（+0）
+2026-10-18 178 → 2026-10-24 179（+1）
 
 
 ---

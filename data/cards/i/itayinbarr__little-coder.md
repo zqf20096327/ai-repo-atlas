@@ -1,6 +1,6 @@
 # itayinbarr/little-coder
 
-⭐ 2,697 · TypeScript · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/itayinbarr/little-coder) · [官网](https://itayinbarr.github.io/little-coder/) · 个人维护
+⭐ 2,700 · TypeScript · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/itayinbarr/little-coder) · [官网](https://itayinbarr.github.io/little-coder/) · 个人维护
 
 **面向小型本地模型的终端编程代理（基于 pi 构建）**
 
@@ -44,12 +44,12 @@ little-coder 是构建在 pi 之上的命令行编程代理，针对小型本地
 ```mermaid
 xychart-beta
     title "itayinbarr/little-coder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2691 --> 2698
-    line [2692, 2693, 2697, 2697]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 2691 --> 2701
+    line [2692, 2693, 2697, 2700]
 ```
 
-2026-10-18 2,692 → 2026-10-23 2,697（+5）
+2026-10-18 2,692 → 2026-10-24 2,700（+8）
 
 
 ---

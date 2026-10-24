@@ -1,6 +1,6 @@
 # kornia/kornia
 
-⭐ 11,443 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kornia/kornia) · [官网](https://kornia.readthedocs.io) · 组织维护 · 中文 README
+⭐ 11,443 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kornia/kornia) · [官网](https://kornia.readthedocs.io) · 组织维护 · 中文 README
 
 **基于 PyTorch 的可微分计算机视觉与几何运算库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kornia/kornia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "kornia/kornia 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 11432 --> 11444
-    line [11433, 11436, 11440, 11443]
+    line [11433, 11436, 11440, 11443, 11443]
 ```
 
-2026-10-18 11,433 → 2026-10-23 11,443（+10）
+2026-10-18 11,433 → 2026-10-24 11,443（+10）
 
 
 ---

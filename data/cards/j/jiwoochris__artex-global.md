@@ -1,6 +1,6 @@
 # jiwoochris/artex-global
 
-⭐ 1,991 · Go · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/jiwoochris/artex-global) · 个人维护 · 中文 README
+⭐ 2,079 · Go · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/jiwoochris/artex-global) · 个人维护 · 中文 README
 
 **多语言本地化版 ARTEX：LLM 多智能体自主渗透测试系统**
 
@@ -44,13 +44,13 @@ Autumn-27/ARTEX 的本地化分叉版：多个 LLM 驱动的智能体自主执�
 
 ```mermaid
 xychart-beta
-    title "jiwoochris/artex-global 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1579 --> 2028
-    line [1616, 1710, 1889, 1991]
+    title "jiwoochris/artex-global 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1570 --> 2125
+    line [1616, 1710, 1889, 1991, 2079]
 ```
 
-2026-10-18 1,616 → 2026-10-23 1,991（+375）
+2026-10-18 1,616 → 2026-10-24 2,079（+463）
 
 
 ---

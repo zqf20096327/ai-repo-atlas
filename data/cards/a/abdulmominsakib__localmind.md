@@ -1,6 +1,6 @@
 # abdulmominsakib/localmind
 
-⭐ 289 · Dart · MIT · 推送 2026-10-21 · [GitHub](https://github.com/abdulmominsakib/localmind) · 个人维护
+⭐ 288 · Dart · MIT · 推送 2026-10-23 · [GitHub](https://github.com/abdulmominsakib/localmind) · 个人维护
 
 **移动端本地 LLM 聊天客户端：离线跑 GGUF 模型或连接自有服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "abdulmominsakib/localmind 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "abdulmominsakib/localmind 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 280 --> 290
-    line [281, 287, 288, 289]
+    line [281, 287, 288, 289, 288]
 ```
 
-2026-10-18 281 → 2026-10-23 289（+8）
+2026-10-18 281 → 2026-10-24 288（+7）
 
 
 ---

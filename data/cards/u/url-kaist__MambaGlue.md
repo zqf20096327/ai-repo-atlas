@@ -45,12 +45,12 @@ KAIST 团队发表的 MambaGlue：将 Mamba 与 Transformer 混合用于两张�
 ```mermaid
 xychart-beta
     title "url-kaist/MambaGlue 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 279 --> 281
     line [280, 280]
 ```
 
-2026-10-18 280 → 2026-10-23 280（+0）
+2026-10-18 280 → 2026-10-24 280（+0）
 
 
 ---

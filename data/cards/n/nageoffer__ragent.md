@@ -1,6 +1,6 @@
 # nageoffer/ragent
 
-⭐ 4,329 · Java · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/nageoffer/ragent) · [官网](https://nageoffer.com/ragent) · 组织维护 · 中文 README
+⭐ 4,334 · Java · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/nageoffer/ragent) · [官网](https://nageoffer.com/ragent) · 组织维护 · 中文 README
 
 **面向 Java 后端的 Agentic RAG 生产级开源工程参考项目**
 
@@ -45,13 +45,13 @@ Ragent 是基于 Java（Spring Boot 4 后端 + React 18 前端）的 Agentic RAG
 
 ```mermaid
 xychart-beta
-    title "nageoffer/ragent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4279 --> 4333
-    line [4283, 4293, 4313, 4329]
+    title "nageoffer/ragent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4278 --> 4339
+    line [4283, 4293, 4313, 4329, 4334]
 ```
 
-2026-10-18 4,283 → 2026-10-23 4,329（+46）
+2026-10-18 4,283 → 2026-10-24 4,334（+51）
 
 
 ---

@@ -1,6 +1,6 @@
 # bohyy/academic-ai-prompt
 
-⭐ 2,185 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/bohyy/academic-ai-prompt) · 个人维护 · 中文 README
+⭐ 2,195 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/bohyy/academic-ai-prompt) · 个人维护 · 中文 README
 
 **面向研究生的学术研究 AI Prompt 合集（89+条）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bohyy/academic-ai-prompt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2132 --> 2189
-    line [2136, 2156, 2170, 2185]
+    title "bohyy/academic-ai-prompt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2131 --> 2200
+    line [2136, 2156, 2170, 2185, 2195]
 ```
 
-2026-10-18 2,136 → 2026-10-23 2,185（+49）
+2026-10-18 2,136 → 2026-10-24 2,195（+59）
 
 
 ---

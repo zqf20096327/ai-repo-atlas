@@ -1,6 +1,6 @@
 # Decade-qiu/CookHero
 
-⭐ 634 · Python · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/Decade-qiu/CookHero) · 个人维护 · 中文 README
+⭐ 635 · Python · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/Decade-qiu/CookHero) · 个人维护 · 中文 README
 
 **面向个人用户的 AI 饮食烹饪助手：菜谱问答与饮食管理平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Decade-qiu/CookHero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 628 --> 635
-    line [629, 631, 633, 634]
+    title "Decade-qiu/CookHero 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 628 --> 636
+    line [629, 631, 633, 634, 635]
 ```
 
-2026-10-18 629 → 2026-10-23 634（+5）
+2026-10-18 629 → 2026-10-24 635（+6）
 
 
 ---

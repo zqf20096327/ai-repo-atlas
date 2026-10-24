@@ -1,6 +1,6 @@
 # Xu123-Bob/Baize
 
-⭐ 584 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Xu123-Bob/Baize) · 个人维护 · 中文 README
+⭐ 585 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Xu123-Bob/Baize) · 个人维护 · 中文 README
 
 **带隐私脱敏的开源 Coding Agent CLI，支持多后端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xu123-Bob/Baize 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 579 --> 585
-    line [580, 581, 582, 584]
+    title "Xu123-Bob/Baize 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 579 --> 586
+    line [580, 581, 582, 584, 585]
 ```
 
-2026-10-18 580 → 2026-10-23 584（+4）
+2026-10-18 580 → 2026-10-24 585（+5）
 
 
 ---

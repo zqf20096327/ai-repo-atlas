@@ -1,6 +1,6 @@
 # nexu-io/nexu
 
-⭐ 3,283 · TypeScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/nexu-io/nexu) · [官网](https://nexu.io) · 组织维护 · 中文 README
+⭐ 3,284 · TypeScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/nexu-io/nexu) · [官网](https://nexu.io) · 组织维护 · 中文 README
 
 **把 OpenClaw Agent 接入微信/飞书/Slack/Discord 的桌面客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nexu-io/nexu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3281 --> 3284
-    line [3282, 3283, 3283]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 3281 --> 3285
+    line [3282, 3283, 3284]
 ```
 
-2026-10-18 3,282 → 2026-10-23 3,283（+1）
+2026-10-18 3,282 → 2026-10-24 3,284（+2）
 
 
 ---

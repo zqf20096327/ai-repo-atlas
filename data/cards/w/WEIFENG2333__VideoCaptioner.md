@@ -1,6 +1,6 @@
 # WEIFENG2333/VideoCaptioner
 
-⭐ 16,334 · Python · GPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/WEIFENG2333/VideoCaptioner) · [官网](https://www.videocaptioner.cn) · 个人维护 · 中文 README
+⭐ 16,350 · Python · GPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/WEIFENG2333/VideoCaptioner) · [官网](https://www.videocaptioner.cn) · 个人维护 · 中文 README
 
 **给视频创作者提供 LLM 驱动的字幕生成、优化与翻译工具**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "WEIFENG2333/VideoCaptioner 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 16263 --> 16340
-    line [16269, 16299, 16323, 16334]
+    title "WEIFENG2333/VideoCaptioner 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 16261 --> 16358
+    line [16269, 16299, 16323, 16334, 16350]
 ```
 
-2026-10-18 16,269 → 2026-10-23 16,334（+65）
+2026-10-18 16,269 → 2026-10-24 16,350（+81）
 
 
 ---

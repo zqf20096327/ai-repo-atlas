@@ -1,6 +1,6 @@
 # UditAkhourii/adhd
 
-⭐ 4,447 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/UditAkhourii/adhd) · [官网](https://divergent.sh) · 个人维护
+⭐ 4,456 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/UditAkhourii/adhd) · [官网](https://divergent.sh) · 个人维护
 
 **给编码 agent 的发散思维技能：并行多框架生成、评分并剪枝想法**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "UditAkhourii/adhd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4424 --> 4449
-    line [4426, 4436, 4444, 4447]
+    title "UditAkhourii/adhd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4423 --> 4459
+    line [4426, 4436, 4444, 4447, 4456]
 ```
 
-2026-10-18 4,426 → 2026-10-23 4,447（+21）
+2026-10-18 4,426 → 2026-10-24 4,456（+30）
 
 
 ---

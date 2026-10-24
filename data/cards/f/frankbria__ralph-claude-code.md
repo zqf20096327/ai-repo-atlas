@@ -1,6 +1,6 @@
 # frankbria/ralph-claude-code
 
-⭐ 9,712 · Shell · MIT · 推送 2026-10-17 · [GitHub](https://github.com/frankbria/ralph-claude-code) · 个人维护
+⭐ 9,710 · Shell · MIT · 推送 2026-10-17 · [GitHub](https://github.com/frankbria/ralph-claude-code) · 个人维护
 
 **让 Claude Code 持续自主迭代的开发循环驱动器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "frankbria/ralph-claude-code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "frankbria/ralph-claude-code 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 9705 --> 9713
-    line [9706, 9710, 9711, 9712]
+    line [9706, 9710, 9711, 9712, 9710]
 ```
 
-2026-10-18 9,706 → 2026-10-23 9,712（+6）
+2026-10-18 9,706 → 2026-10-24 9,710（+4）
 
 
 ---

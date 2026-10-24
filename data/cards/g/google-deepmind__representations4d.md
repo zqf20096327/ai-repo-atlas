@@ -1,6 +1,6 @@
 # google-deepmind/representations4d
 
-⭐ 390 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google-deepmind/representations4d) · 组织维护
+⭐ 394 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google-deepmind/representations4d) · 组织维护
 
 **Google DeepMind 4D 视觉基础模型代码与检查点集合**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/representations4d 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 384 --> 391
-    line [385, 387, 390]
+    title "google-deepmind/representations4d 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 384 --> 395
+    line [385, 387, 390, 394]
 ```
 
-2026-10-18 385 → 2026-10-23 390（+5）
+2026-10-18 385 → 2026-10-24 394（+9）
 
 
 ---

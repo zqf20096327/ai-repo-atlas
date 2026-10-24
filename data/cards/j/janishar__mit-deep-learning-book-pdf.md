@@ -1,6 +1,6 @@
 # janishar/mit-deep-learning-book-pdf
 
-⭐ 14,276 · Java · 推送 2026-02-03 · [GitHub](https://github.com/janishar/mit-deep-learning-book-pdf) · 个人维护
+⭐ 14,278 · Java · 推送 2026-02-03 · [GitHub](https://github.com/janishar/mit-deep-learning-book-pdf) · 个人维护
 
 **为学习者提供 MIT 深度学习教材的 PDF 版本**
 
@@ -49,13 +49,13 @@
 
 ```mermaid
 xychart-beta
-    title "janishar/mit-deep-learning-book-pdf 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 14269 --> 14277
-    line [14270, 14271, 14274, 14276]
+    title "janishar/mit-deep-learning-book-pdf 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 14269 --> 14279
+    line [14270, 14271, 14274, 14276, 14278]
 ```
 
-2026-10-18 14,270 → 2026-10-23 14,276（+6）
+2026-10-18 14,270 → 2026-10-24 14,278（+8）
 
 
 ---

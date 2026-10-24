@@ -1,6 +1,6 @@
 # sahibzada-allahyar/Formal-Verification-RSI
 
-⭐ 2,852 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sahibzada-allahyar/Formal-Verification-RSI) · 个人维护
+⭐ 2,854 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sahibzada-allahyar/Formal-Verification-RSI) · [官网](https://sahibzada-allahyar.github.io) · 个人维护
 
 **Lean 4/Dafny 证明检查器：拦截 AI 假证明并支持验证式自改进**
 
@@ -40,6 +40,18 @@
 > L33: **Millennium Harness** is a model-free gate: a solution counts only if the frozen specification kept its meaning an
 > L82: Millennium RSI is an agent that improves its own harness, and keeps a change only if Millennium Harness certifies m
 > L154: Each prints a JSON verdict (`PROVED`, `UNPROVED`, `CHEAT_REJECTED`, `SPEC_TAMPERED` or `CHECK_ERROR`) whose `feedb
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sahibzada-allahyar/Formal-Verification-RSI 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 2851 --> 2855
+    line [2852, 2854]
+```
+
+2026-10-23 2,852 → 2026-10-24 2,854（+2）
 
 
 ---

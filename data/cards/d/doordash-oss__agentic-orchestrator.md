@@ -45,13 +45,13 @@ DoorDash 开源的桌面应用加 agentico CLI，把高层功能描述转化为�
 
 ```mermaid
 xychart-beta
-    title "doordash-oss/agentic-orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "doordash-oss/agentic-orchestrator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 113 --> 116
-    line [114, 115]
+    line [114, 115, 115]
 ```
 
-2026-10-18 114 → 2026-10-23 115（+1）
+2026-10-18 114 → 2026-10-24 115（+1）
 
 
 ---

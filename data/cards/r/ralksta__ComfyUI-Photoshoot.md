@@ -1,6 +1,6 @@
 # ralksta/ComfyUI-Photoshoot
 
-⭐ 154 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ralksta/ComfyUI-Photoshoot) · 个人维护
+⭐ 155 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ralksta/ComfyUI-Photoshoot) · 个人维护
 
 **ComfyUI 节点集：一次构建人物，批量生成同人多角度写真系列**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点集，分两部分：Person Builder 以 37 个字段描�
 ```mermaid
 xychart-beta
     title "ralksta/ComfyUI-Photoshoot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 152 --> 155
-    line [153, 154, 154]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 152 --> 156
+    line [153, 154, 155]
 ```
 
-2026-10-18 153 → 2026-10-23 154（+1）
+2026-10-18 153 → 2026-10-24 155（+2）
 
 
 ---

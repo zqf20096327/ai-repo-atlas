@@ -45,13 +45,13 @@ LinaPro 是一个 AI 原生全栈框架：后端基于 Go（GoFrame），前端�
 
 ```mermaid
 xychart-beta
-    title "linaproai/linapro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "linaproai/linapro 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 161 --> 164
-    line [162, 163]
+    line [162, 163, 163]
 ```
 
-2026-10-18 162 → 2026-10-23 163（+1）
+2026-10-18 162 → 2026-10-24 163（+1）
 
 
 ---

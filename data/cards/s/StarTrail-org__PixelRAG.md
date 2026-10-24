@@ -1,6 +1,6 @@
 # StarTrail-org/PixelRAG
 
-⭐ 10,338 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/StarTrail-org/PixelRAG) · [官网](https://arxiv.org/pdf/2606.28344) · 组织维护
+⭐ 10,346 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/StarTrail-org/PixelRAG) · [官网](https://arxiv.org/pdf/2606.28344) · 组织维护
 
 **把网页/PDF渲染成截图做视觉检索的 RAG 管线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "StarTrail-org/PixelRAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10291 --> 10342
-    line [10295, 10312, 10325, 10338]
+    title "StarTrail-org/PixelRAG 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10290 --> 10351
+    line [10295, 10312, 10325, 10338, 10346]
 ```
 
-2026-10-18 10,295 → 2026-10-23 10,338（+43）
+2026-10-18 10,295 → 2026-10-24 10,346（+51）
 
 
 ---

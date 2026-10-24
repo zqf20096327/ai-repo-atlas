@@ -1,6 +1,6 @@
 # naptha/tesseract.js
 
-⭐ 38,787 · JavaScript · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/naptha/tesseract.js) · [官网](http://tesseract.projectnaptha.com/) · 个人维护
+⭐ 38,789 · JavaScript · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/naptha/tesseract.js) · [官网](http://tesseract.projectnaptha.com/) · 个人维护
 
 **JS 库：浏览器/Node 从图片识别 100+ 语言文字**
 
@@ -51,13 +51,13 @@ Tesseract.js 是 JavaScript OCR 库，通过封装 Tesseract 的 WebAssembly 移
 
 ```mermaid
 xychart-beta
-    title "naptha/tesseract.js 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 38765 --> 38789
-    line [38767, 38773, 38780, 38787]
+    title "naptha/tesseract.js 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 38765 --> 38791
+    line [38767, 38773, 38780, 38787, 38789]
 ```
 
-2026-10-18 38,767 → 2026-10-23 38,787（+20）
+2026-10-18 38,767 → 2026-10-24 38,789（+22）
 
 
 ---

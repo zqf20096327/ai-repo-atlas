@@ -1,6 +1,6 @@
 # pgrundev/pgbot
 
-⭐ 1,451 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/pgrundev/pgbot) · [官网](https://pgbot.dev) · 个人维护
+⭐ 1,454 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/pgrundev/pgbot) · [官网](https://pgbot.dev) · 个人维护
 
 **只读 PostgreSQL 诊断 CLI，可选 AI 解读结果**
 
@@ -46,13 +46,13 @@ Go 编写的单二进制 PostgreSQL 诊断工具：以 pg_monitor 只读角色�
 
 ```mermaid
 xychart-beta
-    title "pgrundev/pgbot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1413 --> 1454
-    line [1416, 1424, 1445, 1451]
+    title "pgrundev/pgbot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1413 --> 1457
+    line [1416, 1424, 1445, 1451, 1454]
 ```
 
-2026-10-18 1,416 → 2026-10-23 1,451（+35）
+2026-10-18 1,416 → 2026-10-24 1,454（+38）
 
 
 ---

@@ -1,6 +1,6 @@
 # rl-tools/rl-tools
 
-⭐ 1,042 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rl-tools/rl-tools) · [官网](https://rl.tools) · 组织维护
+⭐ 1,044 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rl-tools/rl-tools) · [官网](https://rl.tools) · 组织维护
 
 **面向连续控制的 C++ 深度强化学习库，支持嵌入式部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rl-tools/rl-tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1036 --> 1043
-    line [1037, 1039, 1042]
+    title "rl-tools/rl-tools 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1036 --> 1045
+    line [1037, 1039, 1042, 1044]
 ```
 
-2026-10-18 1,037 → 2026-10-23 1,042（+5）
+2026-10-18 1,037 → 2026-10-24 1,044（+7）
 
 
 ---

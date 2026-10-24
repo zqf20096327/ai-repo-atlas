@@ -1,6 +1,6 @@
 # Ayuilos/Miffan
 
-⭐ 305 · Kotlin · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Ayuilos/Miffan) · [官网](https://miffan.ayuilos.me) · 个人维护 · 中文 README
+⭐ 306 · Kotlin · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Ayuilos/Miffan) · [官网](https://miffan.ayuilos.me) · 个人维护 · 中文 README
 
 **Android AI 对话客户端：伙伴式聊天与远程控制你的电脑**
 
@@ -45,13 +45,13 @@ RikkaHub 的独立 fork，面向终端用户的 Android AI 聊天应用：每个
 
 ```mermaid
 xychart-beta
-    title "Ayuilos/Miffan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "Ayuilos/Miffan 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 292 --> 316
-    line [294, 314, 305]
+    line [294, 314, 305, 306]
 ```
 
-2026-10-18 294 → 2026-10-23 305（+11）
+2026-10-18 294 → 2026-10-24 306（+12）
 
 
 ---

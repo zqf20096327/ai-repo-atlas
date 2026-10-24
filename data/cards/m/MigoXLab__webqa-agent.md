@@ -1,6 +1,6 @@
 # MigoXLab/webqa-agent
 
-⭐ 235 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/MigoXLab/webqa-agent) · 组织维护 · 中文 README
+⭐ 236 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/MigoXLab/webqa-agent) · 组织维护 · 中文 README
 
 **面向工程师的自主 Web 测试 Agent：一句话目标即驱动浏览器完成测试**
 
@@ -45,13 +45,13 @@ AI 驱动的自动化 Web 测试代理：通过多模态页面理解直接识别
 
 ```mermaid
 xychart-beta
-    title "MigoXLab/webqa-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 233 --> 236
-    line [234, 235]
+    title "MigoXLab/webqa-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 233 --> 237
+    line [234, 235, 236]
 ```
 
-2026-10-18 234 → 2026-10-23 235（+1）
+2026-10-18 234 → 2026-10-24 236（+2）
 
 
 ---

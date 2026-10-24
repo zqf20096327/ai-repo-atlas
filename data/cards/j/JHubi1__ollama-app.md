@@ -1,6 +1,6 @@
 # JHubi1/ollama-app
 
-⭐ 1,816 · Dart · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/JHubi1/ollama-app) · 个人维护
+⭐ 1,819 · Dart · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/JHubi1/ollama-app) · 个人维护
 
 **连接本地 Ollama 服务的多平台聊天客户端应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JHubi1/ollama-app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1814 --> 1817
-    line [1816, 1815, 1816]
+    title "JHubi1/ollama-app 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1814 --> 1820
+    line [1816, 1815, 1816, 1819]
 ```
 
-2026-10-18 1,816 → 2026-10-23 1,816（+0）
+2026-10-18 1,816 → 2026-10-24 1,819（+3）
 
 
 ---

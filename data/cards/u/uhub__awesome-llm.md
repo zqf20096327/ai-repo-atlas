@@ -1,6 +1,6 @@
 # uhub/awesome-llm
 
-⭐ 863 · 推送 2026-10-22 · [GitHub](https://github.com/uhub/awesome-llm) · 个人维护 · 中文 README
+⭐ 864 · 推送 2026-10-22 · [GitHub](https://github.com/uhub/awesome-llm) · 个人维护 · 中文 README
 
 **LLM 框架、库与软件的策展清单，供开发者查找学习资源与工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "uhub/awesome-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 861 --> 864
-    line [862, 863]
+    title "uhub/awesome-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 861 --> 865
+    line [862, 863, 864]
 ```
 
-2026-10-18 862 → 2026-10-23 863（+1）
+2026-10-18 862 → 2026-10-24 864（+2）
 
 
 ---

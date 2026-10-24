@@ -1,6 +1,6 @@
 # RizwanMunawar/yolov8-object-tracking
 
-⭐ 375 · Python · AGPL-3.0 · 推送 2026-01-13 · [GitHub](https://github.com/RizwanMunawar/yolov8-object-tracking) · 个人维护
+⭐ 376 · Python · AGPL-3.0 · 推送 2026-01-13 · [GitHub](https://github.com/RizwanMunawar/yolov8-object-tracking) · 个人维护
 
 **基于 YOLOv8 的视频目标检测与跟踪示例工程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RizwanMunawar/yolov8-object-tracking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 374 --> 376
-    line [375, 375]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 374 --> 377
+    line [375, 376]
 ```
 
-2026-10-18 375 → 2026-10-23 375（+0）
+2026-10-18 375 → 2026-10-24 376（+1）
 
 
 ---

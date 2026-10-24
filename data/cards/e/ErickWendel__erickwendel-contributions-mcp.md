@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ErickWendel/erickwendel-contributions-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "ErickWendel/erickwendel-contributions-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 375 --> 381
-    line [376, 379, 380]
+    line [376, 379, 380, 380]
 ```
 
-2026-10-18 376 → 2026-10-23 380（+4）
+2026-10-18 376 → 2026-10-24 380（+4）
 
 
 ---

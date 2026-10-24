@@ -1,6 +1,6 @@
 # zjunlp/LightMem
 
-⭐ 1,202 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zjunlp/LightMem) · 组织维护 · 中文 README
+⭐ 1,203 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zjunlp/LightMem) · 组织维护 · 中文 README
 
 **面向 LLM 与 Agent 的轻量级长期记忆管理框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjunlp/LightMem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1194 --> 1203
-    line [1195, 1196, 1198, 1202]
+    title "zjunlp/LightMem 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1194 --> 1204
+    line [1195, 1196, 1198, 1202, 1203]
 ```
 
-2026-10-18 1,195 → 2026-10-23 1,202（+7）
+2026-10-18 1,195 → 2026-10-24 1,203（+8）
 
 
 ---

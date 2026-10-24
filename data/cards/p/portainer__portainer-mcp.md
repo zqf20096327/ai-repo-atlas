@@ -1,6 +1,6 @@
 # portainer/portainer-mcp
 
-⭐ 239 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/portainer/portainer-mcp) · [官网](https://portainer.io) · 组织维护
+⭐ 239 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/portainer/portainer-mcp) · [官网](https://portainer.io) · 组织维护
 
 **将 Portainer REST API 暴露为 MCP 工具的官方服务器（已停止支持）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "portainer/portainer-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 237 --> 240
     line [238, 239, 239]
 ```
 
-2026-10-18 238 → 2026-10-23 239（+1）
+2026-10-18 238 → 2026-10-24 239（+1）
 
 
 ---

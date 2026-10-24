@@ -1,6 +1,6 @@
 # ChangWenC/understanding-ladder
 
-⭐ 112 · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ChangWenC/understanding-ladder) · [官网](https://changwenc.github.io/understanding-ladder/docs/demo/) · 个人维护 · 中文 README
+⭐ 114 · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ChangWenC/understanding-ladder) · [官网](https://changwenc.github.io/understanding-ladder/docs/demo/) · 个人维护 · 中文 README
 
 **按 Karpathy 理解阶梯自动选择格式的 agent 解释技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChangWenC/understanding-ladder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 104 --> 113
-    line [105, 108, 111, 112]
+    title "ChangWenC/understanding-ladder 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 104 --> 115
+    line [105, 108, 111, 112, 114]
 ```
 
-2026-10-18 105 → 2026-10-23 112（+7）
+2026-10-18 105 → 2026-10-24 114（+9）
 
 
 ---

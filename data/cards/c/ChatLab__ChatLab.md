@@ -1,6 +1,6 @@
 # ChatLab/ChatLab
 
-⭐ 7,557 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ChatLab/ChatLab) · [官网](https://chatlab.fun) · 组织维护 · 中文 README
+⭐ 7,560 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ChatLab/ChatLab) · [官网](https://chatlab.fun) · 组织维护 · 中文 README
 
 **本地优先的桌面聊天记录分析工具，AI 助手辅助挖掘聊天数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChatLab/ChatLab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7535 --> 7559
-    line [7537, 7541, 7551, 7557]
+    title "ChatLab/ChatLab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7535 --> 7562
+    line [7537, 7541, 7551, 7557, 7560]
 ```
 
-2026-10-18 7,537 → 2026-10-23 7,557（+20）
+2026-10-18 7,537 → 2026-10-24 7,560（+23）
 
 
 ---

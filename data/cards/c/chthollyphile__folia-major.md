@@ -1,6 +1,6 @@
 # chthollyphile/folia-major
 
-⭐ 8,864 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/chthollyphile/folia-major) · [官网](https://folia-site.cielaniska.top/) · 个人维护 · 中文 README
+⭐ 9,021 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/chthollyphile/folia-major) · [官网](https://folia-site.cielaniska.top/) · 个人维护 · 中文 README
 
 **以全屏沉浸式歌词动画为核心的多源音乐播放器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chthollyphile/folia-major 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7426 --> 8994
-    line [7556, 8228, 8677, 8864]
+    title "chthollyphile/folia-major 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7410 --> 9167
+    line [7556, 8228, 8677, 8864, 9021]
 ```
 
-2026-10-18 7,556 → 2026-10-23 8,864（+1,308）
+2026-10-18 7,556 → 2026-10-24 9,021（+1,465）
 
 
 ---

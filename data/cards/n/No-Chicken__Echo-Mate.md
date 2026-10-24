@@ -1,6 +1,6 @@
 # No-Chicken/Echo-Mate
 
-⭐ 377 · C · GPL-3.0 · 推送 2026-04-04 · [GitHub](https://github.com/No-Chicken/Echo-Mate) · 个人维护 · 中文 README
+⭐ 378 · C · GPL-3.0 · 推送 2026-04-04 · [GitHub](https://github.com/No-Chicken/Echo-Mate) · 个人维护 · 中文 README
 
 **基于RV1106的开源硬件AI桌面机器人（聊天/翻译/AI相机）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "No-Chicken/Echo-Mate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 376 --> 378
-    line [377, 377]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 376 --> 379
+    line [377, 378]
 ```
 
-2026-10-18 377 → 2026-10-23 377（+0）
+2026-10-18 377 → 2026-10-24 378（+1）
 
 
 ---

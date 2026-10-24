@@ -1,6 +1,6 @@
 # helallao/perplexity-ai
 
-⭐ 1,987 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/helallao/perplexity-ai) · [官网](https://perplexity.ai) · 个人维护
+⭐ 1,986 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/helallao/perplexity-ai) · [官网](https://perplexity.ai) · 个人维护
 
 **非官方 Perplexity.ai Python 封装：逆向网页接口免 API key 使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "helallao/perplexity-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "helallao/perplexity-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1976 --> 1988
-    line [1977, 1981, 1986, 1987]
+    line [1977, 1981, 1986, 1987, 1986]
 ```
 
-2026-10-18 1,977 → 2026-10-23 1,987（+10）
+2026-10-18 1,977 → 2026-10-24 1,986（+9）
 
 
 ---

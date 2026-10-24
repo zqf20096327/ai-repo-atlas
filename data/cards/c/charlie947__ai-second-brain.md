@@ -1,6 +1,6 @@
 # charlie947/ai-second-brain
 
-⭐ 202 · MIT · 推送 2026-04-17 · [GitHub](https://github.com/charlie947/ai-second-brain) · 个人维护
+⭐ 205 · MIT · 推送 2026-04-17 · [GitHub](https://github.com/charlie947/ai-second-brain) · 个人维护
 
 **引导用户在 Claude Code 中搭建个人 AI 知识库的技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "charlie947/ai-second-brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 197 --> 203
-    line [198, 201, 202]
+    title "charlie947/ai-second-brain 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 197 --> 206
+    line [198, 201, 202, 205]
 ```
 
-2026-10-18 198 → 2026-10-23 202（+4）
+2026-10-18 198 → 2026-10-24 205（+7）
 
 
 ---

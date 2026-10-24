@@ -1,6 +1,6 @@
 # dphnAI/sonar
 
-⭐ 1,880 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/dphnAI/sonar) · [官网](https://sonar.dphn.ai) · 组织维护
+⭐ 1,881 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/dphnAI/sonar) · [官网](https://sonar.dphn.ai) · 组织维护
 
 **基于 vLLM 的大规模 LLM 推理引擎，面向生产部署**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dphnAI/sonar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1875 --> 1881
-    line [1876, 1878, 1880]
+    title "dphnAI/sonar 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1875 --> 1882
+    line [1876, 1878, 1880, 1881]
 ```
 
-2026-10-18 1,876 → 2026-10-23 1,880（+4）
+2026-10-18 1,876 → 2026-10-24 1,881（+5）
 
 
 ---

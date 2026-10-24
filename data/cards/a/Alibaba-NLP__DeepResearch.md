@@ -1,6 +1,6 @@
 # Alibaba-NLP/DeepResearch
 
-⭐ 20,073 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/Alibaba-NLP/DeepResearch) · [官网](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) · 组织维护 · 中文 README
+⭐ 20,076 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/Alibaba-NLP/DeepResearch) · [官网](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) · 组织维护 · 中文 README
 
 **面向长程深度信息检索任务的 30B 级开源 agent 模型**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alibaba-NLP/DeepResearch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 20047 --> 20075
-    line [20049, 20061, 20066, 20073]
+    title "Alibaba-NLP/DeepResearch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 20047 --> 20078
+    line [20049, 20061, 20066, 20073, 20076]
 ```
 
-2026-10-18 20,049 → 2026-10-23 20,073（+24）
+2026-10-18 20,049 → 2026-10-24 20,076（+27）
 
 
 ---

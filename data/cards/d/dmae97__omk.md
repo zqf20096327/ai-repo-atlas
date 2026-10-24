@@ -1,6 +1,6 @@
 # dmae97/omk
 
-⭐ 148 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dmae97/omk) · 个人维护
+⭐ 148 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dmae97/omk) · 个人维护
 
 **终端编码 agent CLI：同一会话切换模型，目标以测试通过为准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dmae97/omk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 147 --> 149
     line [148, 148]
 ```
 
-2026-10-18 148 → 2026-10-23 148（+0）
+2026-10-18 148 → 2026-10-24 148（+0）
 
 
 ---

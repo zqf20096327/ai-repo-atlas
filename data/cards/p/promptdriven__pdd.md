@@ -1,6 +1,6 @@
 # promptdriven/pdd
 
-⭐ 906 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
+⭐ 911 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
 
 **以 .prompt 文件为源码、由 LLM 生成实现代码的开发系统**
 
@@ -45,13 +45,13 @@ Prompt-Driven Development 的 CLI 与 Web 工具：开发者以 .prompt 文件�
 
 ```mermaid
 xychart-beta
-    title "promptdriven/pdd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 896 --> 907
-    line [897, 900, 903, 906]
+    title "promptdriven/pdd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 896 --> 912
+    line [897, 900, 903, 906, 911]
 ```
 
-2026-10-18 897 → 2026-10-23 906（+9）
+2026-10-18 897 → 2026-10-24 911（+14）
 
 
 ---

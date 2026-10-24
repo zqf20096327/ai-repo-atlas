@@ -45,12 +45,12 @@ Trail of Bits 维护的机器学习安全主题聚合清单，按 CIA（机密�
 ```mermaid
 xychart-beta
     title "trailofbits/awesome-ml-security 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 170 --> 172
     line [171, 171]
 ```
 
-2026-10-18 171 → 2026-10-23 171（+0）
+2026-10-18 171 → 2026-10-24 171（+0）
 
 
 ---

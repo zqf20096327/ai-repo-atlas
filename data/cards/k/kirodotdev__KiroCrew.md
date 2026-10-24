@@ -1,6 +1,6 @@
 # kirodotdev/KiroCrew
 
-⭐ 4,545 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kirodotdev/KiroCrew) · [官网](https://kiro.dev/crew/) · 组织维护
+⭐ 4,551 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kirodotdev/KiroCrew) · [官网](https://kiro.dev/crew/) · 组织维护
 
 **面向开发者的持久化 AI agent 工作区：跨会话记忆、无人值守执行任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kirodotdev/KiroCrew 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4464 --> 4552
-    line [4471, 4495, 4527, 4545]
+    title "kirodotdev/KiroCrew 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4463 --> 4559
+    line [4471, 4495, 4527, 4545, 4551]
 ```
 
-2026-10-18 4,471 → 2026-10-23 4,545（+74）
+2026-10-18 4,471 → 2026-10-24 4,551（+80）
 
 
 ---

@@ -1,6 +1,6 @@
 # fathah/hermes-desktop
 
-⭐ 14,448 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/fathah/hermes-desktop) · [官网](https://hermesone.org) · 组织维护 · 中文 README
+⭐ 14,449 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/fathah/hermes-desktop) · [官网](https://hermesone.org) · 组织维护 · 中文 README
 
 **为 Hermes Agent 提供安装、配置与对话的桌面应用**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "fathah/hermes-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 14423 --> 14450
-    line [14425, 14428, 14439, 14448]
+    title "fathah/hermes-desktop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 14423 --> 14451
+    line [14425, 14428, 14439, 14448, 14449]
 ```
 
-2026-10-18 14,425 → 2026-10-23 14,448（+23）
+2026-10-18 14,425 → 2026-10-24 14,449（+24）
 
 
 ---

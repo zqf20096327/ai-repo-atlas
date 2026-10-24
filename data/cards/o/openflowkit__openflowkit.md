@@ -1,6 +1,6 @@
 # openflowkit/openflowkit
 
-⭐ 901 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/openflowkit/openflowkit) · [官网](https://openflowkit.com/) · 组织维护
+⭐ 904 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/openflowkit/openflowkit) · [官网](https://openflowkit.com/) · 组织维护
 
 **开源架构图绘制画布：画图、代码写图、AI agent 代画**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openflowkit/openflowkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 885 --> 902
-    line [886, 893, 899, 901]
+    title "openflowkit/openflowkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 885 --> 905
+    line [886, 893, 899, 901, 904]
 ```
 
-2026-10-18 886 → 2026-10-23 901（+15）
+2026-10-18 886 → 2026-10-24 904（+18）
 
 
 ---

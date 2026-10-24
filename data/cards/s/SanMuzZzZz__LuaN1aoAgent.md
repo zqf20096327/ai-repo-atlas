@@ -1,6 +1,6 @@
 # SanMuzZzZz/LuaN1aoAgent
 
-⭐ 1,434 · TypeScript · AGPL-3.0 · 推送 2026-09-15 · [GitHub](https://github.com/SanMuzZzZz/LuaN1aoAgent) · 个人维护 · 中文 README
+⭐ 1,436 · TypeScript · AGPL-3.0 · 推送 2026-09-15 · [GitHub](https://github.com/SanMuzZzZz/LuaN1aoAgent) · 个人维护 · 中文 README
 
 **面向授权安全测试的认知驱动自主 Agent（TypeScript 重写版）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SanMuzZzZz/LuaN1aoAgent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1423 --> 1435
-    line [1424, 1428, 1432, 1434]
+    title "SanMuzZzZz/LuaN1aoAgent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1423 --> 1437
+    line [1424, 1428, 1432, 1434, 1436]
 ```
 
-2026-10-18 1,424 → 2026-10-23 1,434（+10）
+2026-10-18 1,424 → 2026-10-24 1,436（+12）
 
 
 ---

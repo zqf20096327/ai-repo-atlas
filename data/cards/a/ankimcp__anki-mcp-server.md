@@ -1,6 +1,6 @@
 # ankimcp/anki-mcp-server
 
-⭐ 527 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ankimcp/anki-mcp-server) · [官网](https://ankimcp.ai) · 组织维护
+⭐ 530 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ankimcp/anki-mcp-server) · [官网](https://ankimcp.ai) · 组织维护
 
 **让 AI 助手通过 MCP 操作 Anki 记忆卡片的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ankimcp/anki-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 515 --> 528
-    line [516, 521, 525, 527]
+    title "ankimcp/anki-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 515 --> 531
+    line [516, 521, 525, 527, 530]
 ```
 
-2026-10-18 516 → 2026-10-23 527（+11）
+2026-10-18 516 → 2026-10-24 530（+14）
 
 
 ---

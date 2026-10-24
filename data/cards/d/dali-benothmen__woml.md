@@ -1,6 +1,6 @@
 # dali-benothmen/woml
 
-⭐ 131 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/dali-benothmen/woml) · [官网](https://woml.org) · 个人维护
+⭐ 131 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/dali-benothmen/woml) · [官网](https://woml.org) · 个人维护
 
 **用 HTML 风格标记语言编写可持久化自动化工作流的运行时**
 
@@ -46,12 +46,12 @@ WOML 是一种可执行的工作流标记语言加 Rust 运行时：用 HTML 风
 ```mermaid
 xychart-beta
     title "dali-benothmen/woml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 130 --> 132
     line [131, 131]
 ```
 
-2026-10-18 131 → 2026-10-23 131（+0）
+2026-10-18 131 → 2026-10-24 131（+0）
 
 
 ---

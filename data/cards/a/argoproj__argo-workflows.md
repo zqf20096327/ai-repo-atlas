@@ -1,6 +1,6 @@
 # argoproj/argo-workflows
 
-⭐ 17,048 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/argoproj/argo-workflows) · [官网](https://argo-workflows.readthedocs.io/) · 组织维护
+⭐ 17,050 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/argoproj/argo-workflows) · [官网](https://argo-workflows.readthedocs.io/) · 组织维护
 
 **面向 Kubernetes 的容器化并行任务工作流引擎**
 
@@ -52,13 +52,13 @@ Argo Workflows 是以 Kubernetes CRD 形式实现的开源工作流引擎，用�
 
 ```mermaid
 xychart-beta
-    title "argoproj/argo-workflows 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 17039 --> 17049
-    line [17040, 17043, 17045, 17048]
+    title "argoproj/argo-workflows 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 17039 --> 17051
+    line [17040, 17043, 17045, 17048, 17050]
 ```
 
-2026-10-18 17,040 → 2026-10-23 17,048（+8）
+2026-10-18 17,040 → 2026-10-24 17,050（+10）
 
 
 ---

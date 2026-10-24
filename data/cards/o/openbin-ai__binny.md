@@ -1,6 +1,6 @@
 # openbin-ai/binny
 
-⭐ 181 · Go · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/openbin-ai/binny) · [官网](https://openbin.ai/#binny) · 组织维护
+⭐ 184 · Go · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/openbin-ai/binny) · [官网](https://openbin.ai/#binny) · 组织维护
 
 **逆向工程 agent 运行框架：接入任意模型分析二进制并产出报告**
 
@@ -44,13 +44,13 @@ BINNY 是一个开源的逆向工程 agent harness（本体是框架，不含模
 
 ```mermaid
 xychart-beta
-    title "openbin-ai/binny 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 137 --> 185
-    line [141, 176, 180, 181]
+    title "openbin-ai/binny 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 137 --> 188
+    line [141, 176, 180, 181, 184]
 ```
 
-2026-10-18 141 → 2026-10-23 181（+40）
+2026-10-18 141 → 2026-10-24 184（+43）
 
 
 ---

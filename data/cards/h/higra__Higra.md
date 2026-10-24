@@ -1,6 +1,6 @@
 # higra/Higra
 
-⭐ 118 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/higra/Higra) · [官网](https://higra.readthedocs.io/) · 组织维护
+⭐ 118 · C++ · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/higra/Higra) · [官网](https://higra.readthedocs.io/) · 组织维护
 
 **C++/Python 层次图分析库：高效层次聚类与图像分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "higra/Higra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 117 --> 119
     line [118, 118]
 ```
 
-2026-10-18 118 → 2026-10-23 118（+0）
+2026-10-18 118 → 2026-10-24 118（+0）
 
 
 ---

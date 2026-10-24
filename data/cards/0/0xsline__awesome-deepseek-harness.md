@@ -1,6 +1,6 @@
 # 0xsline/awesome-deepseek-harness
 
-⭐ 1,244 · Python · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/0xsline/awesome-deepseek-harness) · [官网](https://deepseekdocs.com/) · 个人维护
+⭐ 1,250 · Python · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/0xsline/awesome-deepseek-harness) · [官网](https://deepseekdocs.com/) · 个人维护
 
 **DeepSeek Harness 插件与生态工具的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xsline/awesome-deepseek-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1193 --> 1248
-    line [1197, 1219, 1231, 1244]
+    title "0xsline/awesome-deepseek-harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1192 --> 1255
+    line [1197, 1219, 1231, 1244, 1250]
 ```
 
-2026-10-18 1,197 → 2026-10-23 1,244（+47）
+2026-10-18 1,197 → 2026-10-24 1,250（+53）
 
 
 ---

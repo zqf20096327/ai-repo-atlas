@@ -1,6 +1,6 @@
 # openai/openai-cookbook
 
-⭐ 76,756 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/openai/openai-cookbook) · [官网](https://cookbook.openai.com) · 组织维护
+⭐ 76,779 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-cookbook) · [官网](https://cookbook.openai.com) · 组织维护
 
 **为 OpenAI API 使用者提供示例代码与任务指南**
 
@@ -50,13 +50,13 @@ OpenAI 官方维护的示例代码与指南合集，覆盖使用 OpenAI API 完�
 
 ```mermaid
 xychart-beta
-    title "openai/openai-cookbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 76657 --> 76765
-    line [76666, 76701, 76734, 76756]
+    title "openai/openai-cookbook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 76655 --> 76790
+    line [76666, 76701, 76734, 76756, 76779]
 ```
 
-2026-10-18 76,666 → 2026-10-23 76,756（+90）
+2026-10-18 76,666 → 2026-10-24 76,779（+113）
 
 
 ---

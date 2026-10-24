@@ -1,6 +1,6 @@
 # microsoft/VibeVoice
 
-⭐ 54,927 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/VibeVoice) · [官网](https://microsoft.github.io/VibeVoice/) · 组织维护
+⭐ 54,949 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/VibeVoice) · [官网](https://microsoft.github.io/VibeVoice/) · 组织维护
 
 **语音 AI 模型家族：长音频识别与多说话人语音生成**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/VibeVoice 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 54850 --> 54934
-    line [54857, 54881, 54906, 54927]
+    title "microsoft/VibeVoice 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 54848 --> 54958
+    line [54857, 54881, 54906, 54927, 54949]
 ```
 
-2026-10-18 54,857 → 2026-10-23 54,927（+70）
+2026-10-18 54,857 → 2026-10-24 54,949（+92）
 
 
 ---

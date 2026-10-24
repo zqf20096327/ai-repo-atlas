@@ -1,6 +1,6 @@
 # FellouAI/eko
 
-⭐ 4,964 · TypeScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/FellouAI/eko) · [官网](https://fellou.ai/eko) · 组织维护
+⭐ 4,963 · TypeScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/FellouAI/eko) · [官网](https://fellou.ai/eko) · 组织维护
 
 **用自然语言构建生产级 Agent 工作流的 JavaScript 框架**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "FellouAI/eko 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4963 --> 4967
-    line [4965, 4966, 4965, 4964]
+    title "FellouAI/eko 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4962 --> 4967
+    line [4965, 4966, 4965, 4964, 4963]
 ```
 
-2026-10-18 4,965 → 2026-10-23 4,964（-1）
+2026-10-18 4,965 → 2026-10-24 4,963（-2）
 
 
 ---

@@ -43,13 +43,13 @@ Google Cloud AI 组织维护的策展仓库，汇集在 Gemini Enterprise Agent 
 
 ```mermaid
 xychart-beta
-    title "Google-Cloud-AI/agent-platform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "Google-Cloud-AI/agent-platform 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 331 --> 335
-    line [332, 333, 334]
+    line [332, 333, 334, 334]
 ```
 
-2026-10-18 332 → 2026-10-23 334（+2）
+2026-10-18 332 → 2026-10-24 334（+2）
 
 
 ---

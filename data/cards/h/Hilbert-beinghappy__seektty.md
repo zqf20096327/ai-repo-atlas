@@ -44,13 +44,13 @@ SeekTTY 是 DeepSeek Harness（dsh）的终端前端插件：通过 dsh plugin �
 
 ```mermaid
 xychart-beta
-    title "Hilbert-beinghappy/seektty 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Hilbert-beinghappy/seektty 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 194 --> 197
-    line [196, 195]
+    line [196, 195, 195]
 ```
 
-2026-10-18 196 → 2026-10-23 195（-1）
+2026-10-18 196 → 2026-10-24 195（-1）
 
 
 ---

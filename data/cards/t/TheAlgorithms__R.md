@@ -1,6 +1,6 @@
 # TheAlgorithms/R
 
-⭐ 1,214 · R · MIT · 推送 2026-06-12 · [GitHub](https://github.com/TheAlgorithms/R) · 组织维护
+⭐ 1,216 · R · MIT · 推送 2026-06-12 · [GitHub](https://github.com/TheAlgorithms/R) · 组织维护
 
 **R 语言算法实现合集，面向学习与教学**
 
@@ -44,13 +44,13 @@ TheAlgorithms 组织维护的 R 语言算法集合仓库，包含机器学习、
 
 ```mermaid
 xychart-beta
-    title "TheAlgorithms/R 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1210 --> 1215
-    line [1211, 1212, 1213, 1214]
+    title "TheAlgorithms/R 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1210 --> 1217
+    line [1211, 1212, 1213, 1214, 1216]
 ```
 
-2026-10-18 1,211 → 2026-10-23 1,214（+3）
+2026-10-18 1,211 → 2026-10-24 1,216（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-VL
 
-⭐ 20,109 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/QwenLM/Qwen3-VL) · 组织维护 · 中文 README
+⭐ 20,113 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/QwenLM/Qwen3-VL) · 组织维护 · 中文 README
 
 **面向开发者的开源多模态视觉语言模型系列及使用代码**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "QwenLM/Qwen3-VL 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 20081 --> 20111
-    line [20083, 20088, 20102, 20109]
+    title "QwenLM/Qwen3-VL 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 20080 --> 20116
+    line [20083, 20088, 20102, 20109, 20113]
 ```
 
-2026-10-18 20,083 → 2026-10-23 20,109（+26）
+2026-10-18 20,083 → 2026-10-24 20,113（+30）
 
 
 ---

@@ -1,6 +1,6 @@
 # xai-org/plugin-marketplace
 
-⭐ 303 · Python · 推送 2026-10-22 · [GitHub](https://github.com/xai-org/plugin-marketplace) · 组织维护
+⭐ 306 · Python · 推送 2026-10-23 · [GitHub](https://github.com/xai-org/plugin-marketplace) · 组织维护
 
 **Grok Build 官方插件市场目录：插件索引与分发仓库**
 
@@ -44,13 +44,13 @@ xAI 维护的 Grok Build 插件官方目录仓库：以 .grok-plugin/marketplace
 
 ```mermaid
 xychart-beta
-    title "xai-org/plugin-marketplace 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 290 --> 304
-    line [291, 294, 300, 303]
+    title "xai-org/plugin-marketplace 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 290 --> 307
+    line [291, 294, 300, 303, 306]
 ```
 
-2026-10-18 291 → 2026-10-23 303（+12）
+2026-10-18 291 → 2026-10-24 306（+15）
 
 
 ---

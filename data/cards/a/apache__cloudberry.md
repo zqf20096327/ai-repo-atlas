@@ -1,6 +1,6 @@
 # apache/cloudberry
 
-⭐ 1,434 · C · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/cloudberry) · [官网](https://cloudberry.apache.org) · 组织维护
+⭐ 1,436 · C · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/apache/cloudberry) · [官网](https://cloudberry.apache.org) · 组织维护
 
 **源自 Greenplum 原班开发者的开源 MPP 分析型数据库**
 
@@ -44,13 +44,13 @@ Apache 孵化中的大规模并行处理（MPP）数据库，由 Greenplum Datab
 
 ```mermaid
 xychart-beta
-    title "apache/cloudberry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1430 --> 1435
-    line [1431, 1433, 1434]
+    title "apache/cloudberry 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1430 --> 1437
+    line [1431, 1433, 1434, 1436]
 ```
 
-2026-10-18 1,431 → 2026-10-23 1,434（+3）
+2026-10-18 1,431 → 2026-10-24 1,436（+5）
 
 
 ---

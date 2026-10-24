@@ -1,6 +1,6 @@
 # oneal2000/SR-Agents
 
-⭐ 110 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/oneal2000/SR-Agents) · [官网](https://sr-agents.github.io/) · 组织维护
+⭐ 111 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/oneal2000/SR-Agents) · [官网](https://sr-agents.github.io/) · 组织维护
 
 **技能检索增强（SRA）基准与评测工具包：评估 LLM agent 的技能检索能力**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oneal2000/SR-Agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 108 --> 111
-    line [109, 110, 110]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 108 --> 112
+    line [109, 110, 111]
 ```
 
-2026-10-18 109 → 2026-10-23 110（+1）
+2026-10-18 109 → 2026-10-24 111（+2）
 
 
 ---

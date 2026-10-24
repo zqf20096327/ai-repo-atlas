@@ -1,6 +1,6 @@
 # lmcinnes/umap
 
-⭐ 8,282 · Python · BSD-3-Clause · 推送 2026-10-16 · [GitHub](https://github.com/lmcinnes/umap) · [官网](https://umap-learn.readthedocs.io) · 个人维护
+⭐ 8,283 · Python · BSD-3-Clause · 推送 2026-10-16 · [GitHub](https://github.com/lmcinnes/umap) · [官网](https://umap-learn.readthedocs.io) · 个人维护
 
 **面向数据科学家的通用非线性降维与可视化库**
 
@@ -45,12 +45,12 @@ UMAP 是基于流形学习与模糊拓扑结构的降维算法库，以 Python �
 ```mermaid
 xychart-beta
     title "lmcinnes/umap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8277 --> 8283
-    line [8278, 8280, 8282, 8282]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 8277 --> 8284
+    line [8278, 8280, 8282, 8283]
 ```
 
-2026-10-18 8,278 → 2026-10-23 8,282（+4）
+2026-10-18 8,278 → 2026-10-24 8,283（+5）
 
 
 ---

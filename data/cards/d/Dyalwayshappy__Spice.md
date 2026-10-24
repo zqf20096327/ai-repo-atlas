@@ -46,12 +46,12 @@ Spice 是面向 agentic AI 系统的决策运行时，运行 perception → stat
 ```mermaid
 xychart-beta
     title "Dyalwayshappy/Spice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 247 --> 249
     line [248, 248]
 ```
 
-2026-10-18 248 → 2026-10-23 248（+0）
+2026-10-18 248 → 2026-10-24 248（+0）
 
 
 ---

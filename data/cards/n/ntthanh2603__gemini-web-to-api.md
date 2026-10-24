@@ -1,6 +1,6 @@
 # ntthanh2603/gemini-web-to-api
 
-⭐ 606 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ntthanh2603/gemini-web-to-api) · 个人维护
+⭐ 607 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ntthanh2603/gemini-web-to-api) · 个人维护
 
 **将 Gemini 网页版逆向封装为 OpenAI/Claude/Gemini 兼容 API 的本地网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ntthanh2603/gemini-web-to-api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 590 --> 607
-    line [591, 602, 606, 606]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 590 --> 608
+    line [591, 602, 606, 607]
 ```
 
-2026-10-18 591 → 2026-10-23 606（+15）
+2026-10-18 591 → 2026-10-24 607（+16）
 
 
 ---

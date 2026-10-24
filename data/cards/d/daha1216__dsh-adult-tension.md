@@ -1,6 +1,6 @@
 # daha1216/dsh-adult-tension
 
-⭐ 314 · Python · 推送 2026-10-22 · [GitHub](https://github.com/daha1216/dsh-adult-tension) · 个人维护 · 中文 README
+⭐ 325 · Python · 推送 2026-10-23 · [GitHub](https://github.com/daha1216/dsh-adult-tension) · 个人维护 · 中文 README
 
 **18+ 高张力成人互动叙事引擎：活人感 NPC 与 211 个世界**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "daha1216/dsh-adult-tension 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 217 --> 322
-    line [225, 261, 289, 314]
+    title "daha1216/dsh-adult-tension 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 215 --> 335
+    line [225, 261, 289, 314, 325]
 ```
 
-2026-10-18 225 → 2026-10-23 314（+89）
+2026-10-18 225 → 2026-10-24 325（+100）
 
 
 ---

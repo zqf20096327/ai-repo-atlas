@@ -1,6 +1,6 @@
 # oc8-ai/oc8
 
-⭐ 132 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/oc8-ai/oc8) · [官网](https://oc8.ai/) · 组织维护
+⭐ 132 · Python · LGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/oc8-ai/oc8) · [官网](https://oc8.ai/) · 组织维护
 
 **企业自托管的 AI agent 编排平台，跨 ERP/CRM/Office 治理运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oc8-ai/oc8 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "oc8-ai/oc8 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 128 --> 133
-    line [129, 132]
+    line [129, 132, 132]
 ```
 
-2026-10-18 129 → 2026-10-23 132（+3）
+2026-10-18 129 → 2026-10-24 132（+3）
 
 
 ---

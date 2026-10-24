@@ -1,6 +1,6 @@
 # asgeirtj/system_prompts_leaks
 
-⭐ 70,039 · Python · CC0-1.0 · 推送 2026-10-19 · [GitHub](https://github.com/asgeirtj/system_prompts_leaks) · 个人维护
+⭐ 70,106 · Python · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/asgeirtj/system_prompts_leaks) · 个人维护
 
 **收录各家聊天产品系统提示词原文的资料集**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "asgeirtj/system_prompts_leaks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 69769 --> 70063
-    line [69793, 69906, 69977, 70039]
+    title "asgeirtj/system_prompts_leaks 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 69762 --> 70137
+    line [69793, 69906, 69977, 70039, 70106]
 ```
 
-2026-10-18 69,793 → 2026-10-23 70,039（+246）
+2026-10-18 69,793 → 2026-10-24 70,106（+313）
 
 
 ---

@@ -1,6 +1,6 @@
 # stas00/ml-engineering
 
-⭐ 19,573 · Python · CC-BY-SA-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/stas00/ml-engineering) · [官网](https://stasosphere.com/machine-learning/) · 个人维护
+⭐ 19,578 · Python · CC-BY-SA-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/stas00/ml-engineering) · [官网](https://stasosphere.com/machine-learning/) · 个人维护
 
 **面向 LLM 训练工程师的训练/微调/推理方法论开源手册**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "stas00/ml-engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 19538 --> 19576
-    line [19541, 19556, 19566, 19573]
+    title "stas00/ml-engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 19538 --> 19581
+    line [19541, 19556, 19566, 19573, 19578]
 ```
 
-2026-10-18 19,541 → 2026-10-23 19,573（+32）
+2026-10-18 19,541 → 2026-10-24 19,578（+37）
 
 
 ---

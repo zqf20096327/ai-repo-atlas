@@ -1,6 +1,6 @@
 # JPeetz/Hermes-Studio
 
-⭐ 391 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/JPeetz/Hermes-Studio) · [官网](https://github.com/JPeetz/Hermes-Studio) · 个人维护
+⭐ 392 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/JPeetz/Hermes-Studio) · [官网](https://github.com/JPeetz/Hermes-Studio) · 个人维护
 
 **本地 Hermes Agent 的自托管 Web 管理面板与多代理编排工作台**
 
@@ -45,13 +45,13 @@ Hermes Studio 是面向 NousResearch Hermes Agent 的开源自托管 Web UI 与�
 
 ```mermaid
 xychart-beta
-    title "JPeetz/Hermes-Studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 379 --> 392
-    line [380, 387, 389, 391]
+    title "JPeetz/Hermes-Studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 379 --> 393
+    line [380, 387, 389, 391, 392]
 ```
 
-2026-10-18 380 → 2026-10-23 391（+11）
+2026-10-18 380 → 2026-10-24 392（+12）
 
 
 ---

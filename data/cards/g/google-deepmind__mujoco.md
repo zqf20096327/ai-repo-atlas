@@ -1,6 +1,6 @@
 # google-deepmind/mujoco
 
-⭐ 15,825 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/mujoco) · [官网](https://mujoco.org) · 组织维护
+⭐ 15,837 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/mujoco) · [官网](https://mujoco.org) · 组织维护
 
 **面向机器人与仿真研究的通用多关节接触动力学物理引擎**
 
@@ -53,13 +53,13 @@ MuJoCo（Multi-Joint dynamics with Contact）是一个通用物理引擎，服�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/mujoco 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 15721 --> 15834
-    line [15730, 15762, 15798, 15825]
+    title "google-deepmind/mujoco 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 15720 --> 15847
+    line [15730, 15762, 15798, 15825, 15837]
 ```
 
-2026-10-18 15,730 → 2026-10-23 15,825（+95）
+2026-10-18 15,730 → 2026-10-24 15,837（+107）
 
 
 ---

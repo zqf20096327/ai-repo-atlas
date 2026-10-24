@@ -1,6 +1,6 @@
 # shep-ai/shep
 
-⭐ 267 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/shep-ai/shep) · [官网](https://shep.bot) · 组织维护
+⭐ 267 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shep-ai/shep) · [官网](https://shep.bot) · 组织维护
 
 **并行编排多个 AI 编码 agent、自动产出 PR 的开源编排器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shep-ai/shep 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 264 --> 268
     line [265, 266, 267, 267]
 ```
 
-2026-10-18 265 → 2026-10-23 267（+2）
+2026-10-18 265 → 2026-10-24 267（+2）
 
 
 ---

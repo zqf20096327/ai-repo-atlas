@@ -1,6 +1,6 @@
 # getml/getml-community
 
-⭐ 244 · C++ · NOASSERTION · 推送 2025-10-27 · [GitHub](https://github.com/getml/getml-community) · [官网](https://getml.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向关系数据与时间序列的自动特征工程与预测建模工具**
 
@@ -11,7 +11,7 @@ getML 是用于关系型数据和时间序列自动特征工程的 Python 工具
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

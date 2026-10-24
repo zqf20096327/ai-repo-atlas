@@ -1,6 +1,6 @@
 # quoroom-ai/room
 
-⭐ 836 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/quoroom-ai/room) · [官网](https://quoroom.ai) · 组织维护
+⭐ 835 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/quoroom-ai/room) · [官网](https://quoroom.ai) · 组织维护
 
 **自主多智能体集群引擎：本地运行 Queen/Worker/投票治理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "quoroom-ai/room 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 835 --> 837
-    line [836, 836]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 834 --> 837
+    line [836, 835]
 ```
 
-2026-10-18 836 → 2026-10-23 836（+0）
+2026-10-18 836 → 2026-10-24 835（-1）
 
 
 ---

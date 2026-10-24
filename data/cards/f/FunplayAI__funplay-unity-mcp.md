@@ -1,6 +1,6 @@
 # FunplayAI/funplay-unity-mcp
 
-⭐ 265 · C# · MIT · 推送 2026-10-08 · [GitHub](https://github.com/FunplayAI/funplay-unity-mcp) · 组织维护 · 中文 README
+⭐ 267 · C# · MIT · 推送 2026-10-08 · [GitHub](https://github.com/FunplayAI/funplay-unity-mcp) · 组织维护 · 中文 README
 
 **让 AI 助手直接操作 Unity 编辑器的 MCP 服务器**
 
@@ -45,12 +45,12 @@ MIT 许可的 Unity Editor 专用 MCP 服务器（Unity 2022.3+，仅编辑器�
 ```mermaid
 xychart-beta
     title "FunplayAI/funplay-unity-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 264 --> 266
-    line [265, 265]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 264 --> 268
+    line [265, 267]
 ```
 
-2026-10-18 265 → 2026-10-23 265（+0）
+2026-10-18 265 → 2026-10-24 267（+2）
 
 
 ---

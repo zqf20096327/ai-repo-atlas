@@ -1,6 +1,6 @@
 # open-spaced-repetition/fsrs-rs
 
-⭐ 450 · Rust · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/open-spaced-repetition/fsrs-rs) · [官网](https://crates.io/crates/fsrs) · 组织维护
+⭐ 451 · Rust · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/open-spaced-repetition/fsrs-rs) · [官网](https://crates.io/crates/fsrs) · 组织维护
 
 **FSRS 间隔重复算法的 Rust 实现：排程与参数优化**
 
@@ -44,13 +44,13 @@ FSRS（Free Spaced Repetition Scheduler，源自 MaiMemo DHP 模型，DSR 模型
 
 ```mermaid
 xychart-beta
-    title "open-spaced-repetition/fsrs-rs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 444 --> 451
-    line [445, 447, 448, 450]
+    title "open-spaced-repetition/fsrs-rs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 444 --> 452
+    line [445, 447, 448, 450, 451]
 ```
 
-2026-10-18 445 → 2026-10-23 450（+5）
+2026-10-18 445 → 2026-10-24 451（+6）
 
 
 ---

@@ -45,12 +45,12 @@ Hugging Face 维护的 Swift Package，提供与 Python transformers 库风格�
 ```mermaid
 xychart-beta
     title "huggingface/swift-transformers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 1359 --> 1361
     line [1360, 1360]
 ```
 
-2026-10-18 1,360 → 2026-10-23 1,360（+0）
+2026-10-18 1,360 → 2026-10-24 1,360（+0）
 
 
 ---

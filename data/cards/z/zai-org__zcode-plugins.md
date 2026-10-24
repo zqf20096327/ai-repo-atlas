@@ -1,6 +1,6 @@
 # zai-org/zcode-plugins
 
-⭐ 111 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/zai-org/zcode-plugins) · 组织维护 · 中文 README
+⭐ 122 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/zai-org/zcode-plugins) · 组织维护 · 中文 README
 
 **ZCode 官方插件市场：浏览、安装与共建 ZCode 插件**
 
@@ -46,13 +46,13 @@ zai-org 维护的 ZCode 插件市场仓库，收录官方内置与社区插件�
 
 ```mermaid
 xychart-beta
-    title "zai-org/zcode-plugins 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 102 --> 112
-    line [103, 104, 108, 111]
+    title "zai-org/zcode-plugins 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 102 --> 123
+    line [103, 104, 108, 111, 122]
 ```
 
-2026-10-18 103 → 2026-10-23 111（+8）
+2026-10-18 103 → 2026-10-24 122（+19）
 
 
 ---

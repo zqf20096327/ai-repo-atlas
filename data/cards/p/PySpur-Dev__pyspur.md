@@ -1,6 +1,6 @@
 # PySpur-Dev/pyspur
 
-⭐ 5,793 · TypeScript · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/PySpur-Dev/pyspur) · [官网](https://pyspur.dev) · 组织维护 · 中文 README
+⭐ 5,792 · TypeScript · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/PySpur-Dev/pyspur) · [官网](https://pyspur.dev) · 组织维护 · 中文 README
 
 **面向 AI 工程师的可视化 agent 工作流构建与迭代平台**
 
@@ -46,12 +46,12 @@ PySpur 提供 agent 工作流的可视化编排与调试环境：用 Python 代�
 ```mermaid
 xychart-beta
     title "PySpur-Dev/pyspur 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 5790 --> 5794
-    line [5793, 5791, 5793, 5793]
+    line [5793, 5791, 5793, 5792]
 ```
 
-2026-10-18 5,793 → 2026-10-23 5,793（+0）
+2026-10-18 5,793 → 2026-10-24 5,792（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # LvcidPsyche/auto-browser
 
-⭐ 914 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/LvcidPsyche/auto-browser) · [官网](https://github.com/LvcidPsyche/auto-browser) · 个人维护
+⭐ 916 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LvcidPsyche/auto-browser) · [官网](https://github.com/LvcidPsyche/auto-browser) · 个人维护
 
 **MCP 原生浏览器控制平面：让 AI agent 带人工接管地操作真实浏览器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LvcidPsyche/auto-browser 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 905 --> 915
-    line [906, 910, 913, 914]
+    title "LvcidPsyche/auto-browser 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 905 --> 917
+    line [906, 910, 913, 914, 916]
 ```
 
-2026-10-18 906 → 2026-10-23 914（+8）
+2026-10-18 906 → 2026-10-24 916（+10）
 
 
 ---

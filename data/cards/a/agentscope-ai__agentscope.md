@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope
 
-⭐ 33,658 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/agentscope-ai/agentscope) · [官网](https://docs.agentscope.io/) · 组织维护 · 中文 README
+⭐ 33,773 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/agentscope-ai/agentscope) · [官网](https://docs.agentscope.io/) · 组织维护 · 中文 README
 
 **给开发者的 agent 构建框架与服务运行时**
 
@@ -53,13 +53,13 @@ AgentScope 2.0 是一个 agent 框架，提供 SDK 层与服务层两部分：SD
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai/agentscope 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 33399 --> 33681
-    line [33422, 33511, 33589, 33658]
+    title "agentscope-ai/agentscope 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 33387 --> 33808
+    line [33422, 33511, 33589, 33658, 33773]
 ```
 
-2026-10-18 33,422 → 2026-10-23 33,658（+236）
+2026-10-18 33,422 → 2026-10-24 33,773（+351）
 
 
 ---

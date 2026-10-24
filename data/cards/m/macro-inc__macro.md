@@ -1,6 +1,6 @@
 # macro-inc/macro
 
-⭐ 4,843 · Rust · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/macro-inc/macro) · [官网](https://macro.com) · 组织维护
+⭐ 4,866 · Rust · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/macro-inc/macro) · [官网](https://macro.com) · 组织维护
 
 **团队一体化工作区：邮件/聊天/文档/任务/CRM 与共享 AI 记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "macro-inc/macro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4693 --> 4856
-    line [4706, 4752, 4790, 4843]
+    title "macro-inc/macro 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4690 --> 4882
+    line [4706, 4752, 4790, 4843, 4866]
 ```
 
-2026-10-18 4,706 → 2026-10-23 4,843（+137）
+2026-10-18 4,706 → 2026-10-24 4,866（+160）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-MT2
 
-⭐ 1,474 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT2) · 组织维护 · 中文 README
+⭐ 1,484 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT2) · 组织维护 · 中文 README
 
 **腾讯混元 Hy-MT2 多语言翻译模型系列（1.8B/7B/30B-A3B）**
 
@@ -44,13 +44,13 @@ Hy-MT2 是面向复杂真实场景的“快思考”多语言翻译模型家族�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hy-MT2 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1294 --> 1490
-    line [1310, 1326, 1353, 1474]
+    title "Tencent-Hunyuan/Hy-MT2 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1293 --> 1501
+    line [1310, 1326, 1353, 1474, 1484]
 ```
 
-2026-10-18 1,310 → 2026-10-23 1,474（+164）
+2026-10-18 1,310 → 2026-10-24 1,484（+174）
 
 
 ---

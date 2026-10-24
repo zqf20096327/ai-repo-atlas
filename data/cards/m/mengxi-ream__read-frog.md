@@ -1,6 +1,6 @@
 # mengxi-ream/read-frog
 
-⭐ 10,153 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/mengxi-ream/read-frog) · [官网](https://www.readfrog.app) · 个人维护 · 中文 README
+⭐ 10,164 · TypeScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/mengxi-ream/read-frog) · [官网](https://www.readfrog.app) · 个人维护 · 中文 README
 
 **开源 AI 语言学习浏览器扩展：网页/字幕翻译+FSRS 闪词卡**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mengxi-ream/read-frog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 10085 --> 10159
-    line [10091, 10111, 10153]
+    title "mengxi-ream/read-frog 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10084 --> 10171
+    line [10091, 10111, 10153, 10164]
 ```
 
-2026-10-18 10,091 → 2026-10-23 10,153（+62）
+2026-10-18 10,091 → 2026-10-24 10,164（+73）
 
 
 ---

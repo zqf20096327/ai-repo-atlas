@@ -1,6 +1,6 @@
 # sno-ai/sno-station-skills
 
-⭐ 571 · Shell · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/sno-ai/sno-station-skills) · [官网](https://sno.ai) · 组织维护
+⭐ 662 · Shell · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/sno-ai/sno-station-skills) · [官网](https://sno.ai) · 组织维护
 
 **给 Claude Code 与 Codex 安装31个协作技能，组成跨厂商开发团队**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sno-ai/sno-station-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 395 --> 587
-    line [411, 465, 546, 571]
+    title "sno-ai/sno-station-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 386 --> 687
+    line [411, 465, 546, 571, 662]
 ```
 
-2026-10-18 411 → 2026-10-23 571（+160）
+2026-10-18 411 → 2026-10-24 662（+251）
 
 
 ---

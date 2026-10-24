@@ -1,6 +1,6 @@
 # agent-sh/computer-use-linux
 
-⭐ 727 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/agent-sh/computer-use-linux) · 组织维护
+⭐ 733 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/agent-sh/computer-use-linux) · 组织维护
 
 **给 AI agent 的 Linux 桌面控制 MCP 服务器与 CLI**
 
@@ -44,13 +44,13 @@ Rust 编写的 MCP server + CLI，让 AI agent 通过 AT-SPI 语义无障碍树�
 
 ```mermaid
 xychart-beta
-    title "agent-sh/computer-use-linux 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 702 --> 729
-    line [704, 713, 724, 727]
+    title "agent-sh/computer-use-linux 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 702 --> 735
+    line [704, 713, 724, 727, 733]
 ```
 
-2026-10-18 704 → 2026-10-23 727（+23）
+2026-10-18 704 → 2026-10-24 733（+29）
 
 
 ---

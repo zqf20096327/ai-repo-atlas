@@ -1,6 +1,6 @@
 # editor-code-assistant/eca
 
-⭐ 1,042 · Clojure · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/editor-code-assistant/eca) · [官网](http://eca.dev) · 组织维护
+⭐ 1,041 · Clojure · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/editor-code-assistant/eca) · [官网](http://eca.dev) · 组织维护
 
 **编辑器无关的 AI 结对编程服务器：为任意编辑器接入 LLM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "editor-code-assistant/eca 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "editor-code-assistant/eca 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1032 --> 1043
-    line [1033, 1039, 1040, 1042]
+    line [1033, 1039, 1040, 1042, 1041]
 ```
 
-2026-10-18 1,033 → 2026-10-23 1,042（+9）
+2026-10-18 1,033 → 2026-10-24 1,041（+8）
 
 
 ---

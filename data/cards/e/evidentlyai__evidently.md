@@ -1,6 +1,6 @@
 # evidentlyai/evidently
 
-⭐ 8,000 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/evidentlyai/evidently) · [官网](https://discord.gg/xZjKRaNp8b) · 组织维护
+⭐ 8,004 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/evidentlyai/evidently) · [官网](https://discord.gg/xZjKRaNp8b) · 组织维护
 
 **开源 ML/LLM 系统评测、测试与监控框架（100+ 指标）**
 
@@ -46,13 +46,13 @@ Python 库，用于评估、测试和监控 ML 与 LLM 系统，覆盖表格数�
 
 ```mermaid
 xychart-beta
-    title "evidentlyai/evidently 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7993 --> 8001
-    line [7994, 7998, 7999, 8000]
+    title "evidentlyai/evidently 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7993 --> 8005
+    line [7994, 7998, 7999, 8000, 8004]
 ```
 
-2026-10-18 7,994 → 2026-10-23 8,000（+6）
+2026-10-18 7,994 → 2026-10-24 8,004（+10）
 
 
 ---

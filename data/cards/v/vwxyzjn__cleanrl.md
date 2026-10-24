@@ -1,6 +1,6 @@
 # vwxyzjn/cleanrl
 
-⭐ 10,595 · Python · NOASSERTION · 推送 2026-04-20 · [GitHub](https://github.com/vwxyzjn/cleanrl) · [官网](http://docs.cleanrl.dev) · 组织维护
+⭐ 10,597 · Python · NOASSERTION · 推送 2026-04-20 · [GitHub](https://github.com/vwxyzjn/cleanrl) · [官网](http://docs.cleanrl.dev) · 组织维护
 
 **深度强化学习算法的单文件实现库，面向研究者**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vwxyzjn/cleanrl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10562 --> 10598
-    line [10565, 10576, 10584, 10595]
+    title "vwxyzjn/cleanrl 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10562 --> 10600
+    line [10565, 10576, 10584, 10595, 10597]
 ```
 
-2026-10-18 10,565 → 2026-10-23 10,595（+30）
+2026-10-18 10,565 → 2026-10-24 10,597（+32）
 
 
 ---

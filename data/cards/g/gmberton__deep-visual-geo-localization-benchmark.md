@@ -45,12 +45,12 @@ CVPR 2022 Oral 论文 Deep Visual Geo-localization Benchmark 的官方代码库�
 ```mermaid
 xychart-beta
     title "gmberton/deep-visual-geo-localization-benchmark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 258 --> 261
     line [260, 259, 259]
 ```
 
-2026-10-18 260 → 2026-10-23 259（-1）
+2026-10-18 260 → 2026-10-24 259（-1）
 
 
 ---

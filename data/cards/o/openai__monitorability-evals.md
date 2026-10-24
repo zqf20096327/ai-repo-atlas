@@ -1,6 +1,6 @@
 # openai/monitorability-evals
 
-⭐ 107 · Python · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/openai/monitorability-evals) · 组织维护
+⭐ 108 · Python · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/openai/monitorability-evals) · 组织维护
 
 **Monitoring Monitorability 论文的公开评测数据集**
 
@@ -45,12 +45,12 @@ OpenAI 发布的监测能力评测数据集，对应 Monitoring Monitorability �
 ```mermaid
 xychart-beta
     title "openai/monitorability-evals 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 102 --> 108
-    line [103, 104, 107, 107]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 102 --> 109
+    line [103, 104, 107, 108]
 ```
 
-2026-10-18 103 → 2026-10-23 107（+4）
+2026-10-18 103 → 2026-10-24 108（+5）
 
 
 ---

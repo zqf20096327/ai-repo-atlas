@@ -1,6 +1,6 @@
 # ucbepic/docetl
 
-⭐ 4,138 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ucbepic/docetl) · [官网](https://docetl.org) · 组织维护
+⭐ 4,139 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ucbepic/docetl) · [官网](https://docetl.org) · 组织维护
 
 **LLM 驱动的声明式数据处理与 ETL 系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ucbepic/docetl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 4132 --> 4139
-    line [4133, 4137, 4138]
+    title "ucbepic/docetl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4132 --> 4140
+    line [4133, 4137, 4138, 4139]
 ```
 
-2026-10-18 4,133 → 2026-10-23 4,138（+5）
+2026-10-18 4,133 → 2026-10-24 4,139（+6）
 
 
 ---

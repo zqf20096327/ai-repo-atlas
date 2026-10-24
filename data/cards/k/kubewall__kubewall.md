@@ -1,6 +1,6 @@
 # kubewall/kubewall
 
-⭐ 1,944 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/kubewall/kubewall) · 组织维护
+⭐ 1,945 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/kubewall/kubewall) · 组织维护
 
 **单二进制自托管 Kubernetes 多集群管理面板，带 AI 排障**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kubewall/kubewall 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1941 --> 1945
-    line [1943, 1942, 1944]
+    title "kubewall/kubewall 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1941 --> 1946
+    line [1943, 1942, 1944, 1945]
 ```
 
-2026-10-18 1,943 → 2026-10-23 1,944（+1）
+2026-10-18 1,943 → 2026-10-24 1,945（+2）
 
 
 ---

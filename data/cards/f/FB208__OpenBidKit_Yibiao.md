@@ -1,6 +1,6 @@
 # FB208/OpenBidKit_Yibiao
 
-⭐ 3,202 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/FB208/OpenBidKit_Yibiao) · [官网](https://yibiao.pro) · 个人维护 · 中文 README
+⭐ 3,212 · JavaScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/FB208/OpenBidKit_Yibiao) · [官网](https://yibiao.pro) · 个人维护 · 中文 README
 
 **面向招投标场景的开源 AI 标书生成桌面工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FB208/OpenBidKit_Yibiao 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3165 --> 3205
-    line [3168, 3177, 3191, 3202]
+    title "FB208/OpenBidKit_Yibiao 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3164 --> 3216
+    line [3168, 3177, 3191, 3202, 3212]
 ```
 
-2026-10-18 3,168 → 2026-10-23 3,202（+34）
+2026-10-18 3,168 → 2026-10-24 3,212（+44）
 
 
 ---

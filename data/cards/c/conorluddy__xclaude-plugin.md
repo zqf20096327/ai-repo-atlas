@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "conorluddy/xclaude-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "conorluddy/xclaude-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 183 --> 187
-    line [184, 186]
+    line [184, 186, 186]
 ```
 
-2026-10-18 184 → 2026-10-23 186（+2）
+2026-10-18 184 → 2026-10-24 186（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # google/langextract
 
-⭐ 39,002 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/google/langextract) · [官网](https://pypi.org/project/langextract/) · 组织维护
+⭐ 39,016 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/google/langextract) · [官网](https://pypi.org/project/langextract/) · 组织维护
 
 **用 LLM 从非结构化文本提取结构化信息并溯源的 Python 库**
 
@@ -52,13 +52,13 @@ LangExtract 是一个 Python 库：按用户自定义指令和 few-shot 示例�
 
 ```mermaid
 xychart-beta
-    title "google/langextract 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 38962 --> 39005
-    line [38965, 38976, 38984, 39002]
+    title "google/langextract 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 38960 --> 39021
+    line [38965, 38976, 38984, 39002, 39016]
 ```
 
-2026-10-18 38,965 → 2026-10-23 39,002（+37）
+2026-10-18 38,965 → 2026-10-24 39,016（+51）
 
 
 ---

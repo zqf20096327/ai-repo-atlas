@@ -1,6 +1,6 @@
 # MouseLand/facemap
 
-⭐ 203 · Python · GPL-3.0 · 推送 2026-01-26 · [GitHub](https://github.com/MouseLand/facemap) · [官网](https://facemap.readthedocs.io) · 组织维护
+⭐ 204 · Python · GPL-3.0 · 推送 2026-01-26 · [GitHub](https://github.com/MouseLand/facemap) · [官网](https://facemap.readthedocs.io) · 组织维护
 
 **从小鼠面部动作预测神经活动的框架，含姿态跟踪与视频 SVD**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MouseLand/facemap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 202 --> 204
-    line [203, 203]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 202 --> 205
+    line [203, 204]
 ```
 
-2026-10-18 203 → 2026-10-23 203（+0）
+2026-10-18 203 → 2026-10-24 204（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # openbq-org/OpenBB
 
-⭐ 74,550 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/openbq-org/OpenBB) · [官网](https://openbb.co) · 组织维护
+⭐ 74,592 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/openbq-org/OpenBB) · [官网](https://openbb.co) · 组织维护
 
 **为量化分析师与 AI agent 提供统一金融数据接入的开源平台**
 
@@ -52,13 +52,13 @@ OpenBB 的开放数据平台（ODP）是帮助数据工程师将专有、授权�
 
 ```mermaid
 xychart-beta
-    title "openbq-org/OpenBB 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 74319 --> 74571
-    line [74340, 74453, 74515, 74550]
+    title "openbq-org/OpenBB 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 74315 --> 74617
+    line [74340, 74453, 74515, 74550, 74592]
 ```
 
-2026-10-18 74,340 → 2026-10-23 74,550（+210）
+2026-10-18 74,340 → 2026-10-24 74,592（+252）
 
 
 ---

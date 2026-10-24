@@ -1,6 +1,6 @@
 # huggingface/candle
 
-⭐ 21,211 · Rust · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/candle) · 组织维护
+⭐ 21,217 · Rust · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/candle) · 组织维护
 
 **面向 Rust 开发者的极简机器学习框架，支持 GPU 与浏览器推理**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/candle 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 21184 --> 21213
-    line [21186, 21197, 21207, 21211]
+    title "huggingface/candle 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 21183 --> 21220
+    line [21186, 21197, 21207, 21211, 21217]
 ```
 
-2026-10-18 21,186 → 2026-10-23 21,211（+25）
+2026-10-18 21,186 → 2026-10-24 21,217（+31）
 
 
 ---

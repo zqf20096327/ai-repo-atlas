@@ -1,6 +1,6 @@
 # agent-sh/agnix
 
-⭐ 457 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/agent-sh/agnix) · 个人维护
+⭐ 457 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/agent-sh/agnix) · 个人维护
 
 **AI 编程助手配置文件的 linter 与 LSP，校验并自动修复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agent-sh/agnix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "agent-sh/agnix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 452 --> 458
-    line [453, 455, 456, 457]
+    line [453, 455, 456, 457, 457]
 ```
 
-2026-10-18 453 → 2026-10-23 457（+4）
+2026-10-18 453 → 2026-10-24 457（+4）
 
 
 ---

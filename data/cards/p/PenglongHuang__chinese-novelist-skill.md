@@ -1,6 +1,6 @@
 # PenglongHuang/chinese-novelist-skill
 
-⭐ 4,118 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/PenglongHuang/chinese-novelist-skill) · 个人维护 · 中文 README
+⭐ 4,134 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/PenglongHuang/chinese-novelist-skill) · 个人维护 · 中文 README
 
 **让 Claude Code 生成 10-50 章完整中文小说的技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PenglongHuang/chinese-novelist-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3890 --> 4138
-    line [3910, 3975, 4118]
+    title "PenglongHuang/chinese-novelist-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3888 --> 4156
+    line [3910, 3975, 4118, 4134]
 ```
 
-2026-10-18 3,910 → 2026-10-23 4,118（+208）
+2026-10-18 3,910 → 2026-10-24 4,134（+224）
 
 
 ---

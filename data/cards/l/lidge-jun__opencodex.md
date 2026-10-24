@@ -1,6 +1,6 @@
 # lidge-jun/opencodex
 
-⭐ 17,781 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lidge-jun/opencodex) · [官网](https://opencodex.me/) · 个人维护
+⭐ 17,821 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lidge-jun/opencodex) · [官网](https://opencodex.me/) · 个人维护
 
 **本地代理：让 Codex/Claude Code 等前端接入任意 LLM 提供商**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "lidge-jun/opencodex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 17503 --> 17806
-    line [17528, 17621, 17725, 17781]
+    title "lidge-jun/opencodex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 17499 --> 17850
+    line [17528, 17621, 17725, 17781, 17821]
 ```
 
-2026-10-18 17,528 → 2026-10-23 17,781（+253）
+2026-10-18 17,528 → 2026-10-24 17,821（+293）
 
 
 ---

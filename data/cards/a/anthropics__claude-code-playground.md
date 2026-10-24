@@ -1,6 +1,6 @@
 # anthropics/claude-code-playground
 
-⭐ 278 · JavaScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/anthropics/claude-code-playground) · 组织维护
+⭐ 283 · JavaScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/anthropics/claude-code-playground) · 组织维护
 
 **Anthropic DevRel 的 Claude Code 配置、技能与演示示例合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-code-playground 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 242 --> 281
-    line [245, 256, 271, 278]
+    title "anthropics/claude-code-playground 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 242 --> 286
+    line [245, 256, 271, 278, 283]
 ```
 
-2026-10-18 245 → 2026-10-23 278（+33）
+2026-10-18 245 → 2026-10-24 283（+38）
 
 
 ---

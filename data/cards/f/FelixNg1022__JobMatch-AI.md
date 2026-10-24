@@ -1,6 +1,6 @@
 # FelixNg1022/JobMatch-AI
 
-⭐ 207 · TypeScript · 推送 2025-12-01 · [GitHub](https://github.com/FelixNg1022/JobMatch-AI) · 个人维护
+⭐ 211 · TypeScript · 推送 2025-12-01 · [GitHub](https://github.com/FelixNg1022/JobMatch-AI) · 个人维护
 
 **求职者的简历-JD 匹配分析 agent，含求职信生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FelixNg1022/JobMatch-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 195 --> 208
-    line [196, 197, 204, 207]
+    title "FelixNg1022/JobMatch-AI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 195 --> 212
+    line [196, 197, 204, 207, 211]
 ```
 
-2026-10-18 196 → 2026-10-23 207（+11）
+2026-10-18 196 → 2026-10-24 211（+15）
 
 
 ---

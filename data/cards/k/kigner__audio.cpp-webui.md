@@ -1,6 +1,6 @@
 # kigner/audio.cpp-webui
 
-⭐ 403 · C++ · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/kigner/audio.cpp-webui) · 个人维护 · 中文 README
+⭐ 404 · C++ · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/kigner/audio.cpp-webui) · 个人维护 · 中文 README
 
 **本地音频模型一体化工作台：TTS/ASR/配音/音乐生成**
 
@@ -46,13 +46,13 @@ Aixora Audio 将本地音频模型集中到一个 WebUI 工作台：语音合成
 
 ```mermaid
 xychart-beta
-    title "kigner/audio.cpp-webui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 387 --> 404
-    line [388, 399, 402, 403]
+    title "kigner/audio.cpp-webui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 387 --> 405
+    line [388, 399, 402, 403, 404]
 ```
 
-2026-10-18 388 → 2026-10-23 403（+15）
+2026-10-18 388 → 2026-10-24 404（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # aegra/aegra
 
-⭐ 1,277 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/aegra/aegra) · [官网](https://aegra.dev) · 组织维护
+⭐ 1,277 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aegra/aegra) · [官网](https://aegra.dev) · 组织维护
 
 **LangSmith Deployments 的自托管开源替代：运行 LangGraph agent 后端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aegra/aegra 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "aegra/aegra 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1263 --> 1278
-    line [1264, 1270, 1274, 1277]
+    line [1264, 1270, 1274, 1277, 1277]
 ```
 
-2026-10-18 1,264 → 2026-10-23 1,277（+13）
+2026-10-18 1,264 → 2026-10-24 1,277（+13）
 
 
 ---

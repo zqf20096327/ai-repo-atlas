@@ -1,6 +1,6 @@
 # RevEngAI/plugin-ghidra
 
-⭐ 197 · Java · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/RevEngAI/plugin-ghidra) · [官网](https://reveng.ai) · 组织维护
+⭐ 198 · Java · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/RevEngAI/plugin-ghidra) · [官网](https://reveng.ai) · 组织维护
 
 **给逆向工程师的 Ghidra 插件：接入 RevEng.AI 做二进制相似度与 AI 反编译**
 
@@ -46,12 +46,12 @@ RevEng.AI 官方开源的 Ghidra 扩展，通过 API 将当前打开的二进制
 ```mermaid
 xychart-beta
     title "RevEngAI/plugin-ghidra 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 194 --> 198
-    line [195, 196, 197, 197]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 194 --> 199
+    line [195, 196, 197, 198]
 ```
 
-2026-10-18 195 → 2026-10-23 197（+2）
+2026-10-18 195 → 2026-10-24 198（+3）
 
 
 ---

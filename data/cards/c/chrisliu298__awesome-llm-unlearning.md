@@ -1,6 +1,6 @@
 # chrisliu298/awesome-llm-unlearning
 
-⭐ 633 · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) · 个人维护
+⭐ 634 · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) · 个人维护
 
 **LLM 机器遗忘论文/综述/框架的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "chrisliu298/awesome-llm-unlearning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 629 --> 634
-    line [630, 632, 633]
+    title "chrisliu298/awesome-llm-unlearning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 629 --> 635
+    line [630, 632, 633, 634]
 ```
 
-2026-10-18 630 → 2026-10-23 633（+3）
+2026-10-18 630 → 2026-10-24 634（+4）
 
 
 ---

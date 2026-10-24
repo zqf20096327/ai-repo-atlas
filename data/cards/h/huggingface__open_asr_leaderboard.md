@@ -1,6 +1,6 @@
 # huggingface/open_asr_leaderboard
 
-⭐ 269 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/open_asr_leaderboard) · 组织维护
+⭐ 271 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/open_asr_leaderboard) · 组织维护
 
 **语音识别（ASR）模型评测排行榜：多数据集比较模型准确率**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/open_asr_leaderboard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 265 --> 270
-    line [266, 268, 269]
+    title "huggingface/open_asr_leaderboard 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 265 --> 272
+    line [266, 268, 269, 271]
 ```
 
-2026-10-18 266 → 2026-10-23 269（+3）
+2026-10-18 266 → 2026-10-24 271（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # storytold/artcraft
 
-⭐ 35,524 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/storytold/artcraft) · [官网](https://getartcraft.com) · 组织维护
+⭐ 35,927 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/storytold/artcraft) · [官网](https://getartcraft.com) · 组织维护
 
 **面向艺术家与影像创作者的 AI 图像/视频生成 IDE**
 
@@ -50,13 +50,13 @@ ArtCraft 定位为交互式 AI 图像与视频创作的 IDE：支持 2D 合成�
 
 ```mermaid
 xychart-beta
-    title "storytold/artcraft 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 31039 --> 35931
-    line [31446, 33580, 34966, 35524]
+    title "storytold/artcraft 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 30998 --> 36375
+    line [31446, 33580, 34966, 35524, 35927]
 ```
 
-2026-10-18 31,446 → 2026-10-23 35,524（+4,078）
+2026-10-18 31,446 → 2026-10-24 35,927（+4,481）
 
 
 ---

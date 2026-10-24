@@ -1,6 +1,6 @@
 # nicorobinreal/llmspeed
 
-⭐ 151 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nicorobinreal/llmspeed) · [官网](https://llmspeed.dev) · 个人维护
+⭐ 154 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nicorobinreal/llmspeed) · [官网](https://llmspeed.dev) · 个人维护
 
 **本地 LLM 硬件速度预估网站：购卡前看真实流式速度**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicorobinreal/llmspeed 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 51 --> 160
-    line [60, 122, 148, 151]
+    title "nicorobinreal/llmspeed 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 51 --> 163
+    line [60, 122, 148, 151, 154]
 ```
 
-2026-10-18 60 → 2026-10-23 151（+91）
+2026-10-18 60 → 2026-10-24 154（+94）
 
 
 ---

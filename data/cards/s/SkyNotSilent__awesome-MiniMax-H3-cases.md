@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SkyNotSilent/awesome-MiniMax-H3-cases 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "SkyNotSilent/awesome-MiniMax-H3-cases 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 202 --> 310
-    line [301, 297, 211]
+    line [301, 297, 211, 211]
 ```
 
-2026-10-18 301 → 2026-10-23 211（-90）
+2026-10-18 301 → 2026-10-24 211（-90）
 
 
 ---

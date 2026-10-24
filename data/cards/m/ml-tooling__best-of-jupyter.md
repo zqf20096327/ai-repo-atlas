@@ -1,6 +1,6 @@
 # ml-tooling/best-of-jupyter
 
-⭐ 1,246 · CC-BY-SA-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/ml-tooling/best-of-jupyter) · 组织维护
+⭐ 1,247 · CC-BY-SA-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/ml-tooling/best-of-jupyter) · 组织维护
 
 **Jupyter 生态开源项目排名清单（300 个项目，13 类）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ml-tooling/best-of-jupyter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1244 --> 1247
-    line [1245, 1246, 1246]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1244 --> 1248
+    line [1245, 1246, 1247]
 ```
 
-2026-10-18 1,245 → 2026-10-23 1,246（+1）
+2026-10-18 1,245 → 2026-10-24 1,247（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # NLP-LOVE/ML-NLP
 
-⭐ 17,840 · Jupyter Notebook · 推送 2026-01-09 · [GitHub](https://github.com/NLP-LOVE/ML-NLP) · [官网](http://era.dx3906.info) · 个人维护 · 中文 README
+⭐ 17,839 · Jupyter Notebook · 推送 2026-01-09 · [GitHub](https://github.com/NLP-LOVE/ML-NLP) · [官网](http://era.dx3906.info) · 个人维护 · 中文 README
 
 **机器学习/NLP 面试知识点与代码实现的中文知识库**
 
@@ -48,13 +48,13 @@
 
 ```mermaid
 xychart-beta
-    title "NLP-LOVE/ML-NLP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "NLP-LOVE/ML-NLP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 17832 --> 17841
-    line [17833, 17837, 17839, 17840]
+    line [17833, 17837, 17839, 17840, 17839]
 ```
 
-2026-10-18 17,833 → 2026-10-23 17,840（+7）
+2026-10-18 17,833 → 2026-10-24 17,839（+6）
 
 
 ---

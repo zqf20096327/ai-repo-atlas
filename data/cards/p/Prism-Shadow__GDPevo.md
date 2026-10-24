@@ -1,6 +1,6 @@
 # Prism-Shadow/GDPevo
 
-⭐ 114 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/Prism-Shadow/GDPevo) · [官网](https://prism-shadow.github.io/GDPevo/) · 组织维护 · 中文 README
+⭐ 115 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/Prism-Shadow/GDPevo) · [官网](https://prism-shadow.github.io/GDPevo/) · 组织维护 · 中文 README
 
 **评测 agent 自我进化能力的公开基准（240 个真实业务任务）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Prism-Shadow/GDPevo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 103 --> 115
-    line [104, 108, 112, 114]
+    title "Prism-Shadow/GDPevo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 103 --> 116
+    line [104, 108, 112, 114, 115]
 ```
 
-2026-10-18 104 → 2026-10-23 114（+10）
+2026-10-18 104 → 2026-10-24 115（+11）
 
 
 ---

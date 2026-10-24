@@ -1,6 +1,6 @@
 # datamllab/OpenEBFM
 
-⭐ 124 · Python · 推送 2026-10-17 · [GitHub](https://github.com/datamllab/OpenEBFM) · 组织维护 · 中文 README
+⭐ 135 · Python · 推送 2026-10-23 · [GitHub](https://github.com/datamllab/OpenEBFM) · 组织维护 · 中文 README
 
 **能量基基础模型的训练与扩展开源代码库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datamllab/OpenEBFM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 66 --> 129
-    line [71, 99, 119, 124]
+    title "datamllab/OpenEBFM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 65 --> 141
+    line [71, 99, 119, 124, 135]
 ```
 
-2026-10-18 71 → 2026-10-23 124（+53）
+2026-10-18 71 → 2026-10-24 135（+64）
 
 
 ---

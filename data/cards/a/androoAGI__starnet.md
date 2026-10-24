@@ -1,6 +1,6 @@
 # androoAGI/starnet
 
-⭐ 1,570 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/androoAGI/starnet) · [官网](https://github.com/androoAGI/starnet-releases/releases/latest) · 个人维护
+⭐ 1,586 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/androoAGI/starnet) · [官网](https://github.com/androoAGI/starnet-releases/releases/latest) · 个人维护
 
 **像素风空间站界面的本地多 AI agent 桌面运行台（BYOK）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "androoAGI/starnet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1488 --> 1577
-    line [1495, 1531, 1560, 1570]
+    title "androoAGI/starnet 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1486 --> 1595
+    line [1495, 1531, 1560, 1570, 1586]
 ```
 
-2026-10-18 1,495 → 2026-10-23 1,570（+75）
+2026-10-18 1,495 → 2026-10-24 1,586（+91）
 
 
 ---

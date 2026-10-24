@@ -1,6 +1,6 @@
 # ashishsinha1602/schemagate
 
-⭐ 105 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ashishsinha1602/schemagate) · [官网](https://ashishsinha1602.github.io/schemagate/) · 个人维护
+⭐ 105 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ashishsinha1602/schemagate) · [官网](https://ashishsinha1602.github.io/schemagate/) · 个人维护
 
 **给 text-to-SQL agent 的权限感知表筛选库，按调用者授权裁剪 schema**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashishsinha1602/schemagate 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "ashishsinha1602/schemagate 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 103 --> 113
-    line [104, 105, 112, 105]
+    line [104, 105, 112, 105, 105]
 ```
 
-2026-10-18 104 → 2026-10-23 105（+1）
+2026-10-18 104 → 2026-10-24 105（+1）
 
 
 ---

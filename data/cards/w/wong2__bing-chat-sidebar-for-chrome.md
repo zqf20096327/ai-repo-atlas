@@ -43,12 +43,12 @@ Chrome 浏览器扩展，将 Microsoft Edge 内置的 AI Bing 侧边栏通过逆
 ```mermaid
 xychart-beta
     title "wong2/bing-chat-sidebar-for-chrome 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 212 --> 214
     line [213, 213]
 ```
 
-2026-10-18 213 → 2026-10-23 213（+0）
+2026-10-18 213 → 2026-10-24 213（+0）
 
 
 ---

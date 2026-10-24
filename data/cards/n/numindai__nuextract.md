@@ -45,13 +45,13 @@ NuMind 发布的 4B 统一视觉语言推理模型 NuExtract3，面向文档理�
 
 ```mermaid
 xychart-beta
-    title "numindai/nuextract 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "numindai/nuextract 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 264 --> 267
-    line [265, 266]
+    line [265, 266, 266]
 ```
 
-2026-10-18 265 → 2026-10-23 266（+1）
+2026-10-18 265 → 2026-10-24 266（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # agenticloops-ai/agentic-ai-engineering
 
-⭐ 370 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/agenticloops-ai/agentic-ai-engineering) · [官网](http://agenticloops.ai) · 组织维护 · 中文 README
+⭐ 371 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/agenticloops-ai/agentic-ai-engineering) · [官网](http://agenticloops.ai) · 组织维护 · 中文 README
 
 **从零构建 AI agent 的实操教程库，覆盖 LLM 调用到评测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agenticloops-ai/agentic-ai-engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 366 --> 371
-    line [367, 368, 369, 370]
+    title "agenticloops-ai/agentic-ai-engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 366 --> 372
+    line [367, 368, 369, 370, 371]
 ```
 
-2026-10-18 367 → 2026-10-23 370（+3）
+2026-10-18 367 → 2026-10-24 371（+4）
 
 
 ---

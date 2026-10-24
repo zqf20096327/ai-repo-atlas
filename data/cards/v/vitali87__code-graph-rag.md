@@ -1,6 +1,6 @@
 # vitali87/code-graph-rag
 
-⭐ 5,277 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/vitali87/code-graph-rag) · [官网](https://code-graph-rag.com) · 个人维护
+⭐ 5,279 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vitali87/code-graph-rag) · [官网](https://code-graph-rag.com) · 个人维护
 
 **把多语言代码库解析成知识图谱，用自然语言查询与编辑代码的 CLI 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vitali87/code-graph-rag 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5264 --> 5278
-    line [5265, 5268, 5275, 5277]
+    title "vitali87/code-graph-rag 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5264 --> 5280
+    line [5265, 5268, 5275, 5277, 5279]
 ```
 
-2026-10-18 5,265 → 2026-10-23 5,277（+12）
+2026-10-18 5,265 → 2026-10-24 5,279（+14）
 
 
 ---

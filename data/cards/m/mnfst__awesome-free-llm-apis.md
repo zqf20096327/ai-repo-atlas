@@ -1,6 +1,6 @@
 # mnfst/awesome-free-llm-apis
 
-⭐ 10,976 · JavaScript · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/mnfst/awesome-free-llm-apis) · 组织维护
+⭐ 11,095 · JavaScript · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/mnfst/awesome-free-llm-apis) · 组织维护
 
 **永久免费 LLM API 清单：按提供商列出可用模型与限额**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mnfst/awesome-free-llm-apis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10435 --> 11025
-    line [10484, 10695, 10881, 10976]
+    title "mnfst/awesome-free-llm-apis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10423 --> 11156
+    line [10484, 10695, 10881, 10976, 11095]
 ```
 
-2026-10-18 10,484 → 2026-10-23 10,976（+492）
+2026-10-18 10,484 → 2026-10-24 11,095（+611）
 
 
 ---

@@ -1,6 +1,6 @@
 # ekzhang/jax-js
 
-⭐ 944 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ekzhang/jax-js) · [官网](https://jax-js.com) · 个人维护
+⭐ 945 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ekzhang/jax-js) · [官网](https://jax-js.com) · 个人维护
 
 **面向开发者的浏览器端 JAX 风格机器学习框架（WebGPU/Wasm）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ekzhang/jax-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 942 --> 945
-    line [943, 944]
+    title "ekzhang/jax-js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 942 --> 946
+    line [943, 944, 945]
 ```
 
-2026-10-18 943 → 2026-10-23 944（+1）
+2026-10-18 943 → 2026-10-24 945（+2）
 
 
 ---

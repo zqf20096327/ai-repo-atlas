@@ -1,6 +1,6 @@
 # github/awesome-copilot
 
-⭐ 40,314 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/github/awesome-copilot) · [官网](https://awesome-copilot.github.com/) · 组织维护
+⭐ 40,350 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/github/awesome-copilot) · [官网](https://awesome-copilot.github.com/) · 组织维护
 
 **为 GitHub Copilot 用户提供社区贡献的自定义 agent 与配置集合**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "github/awesome-copilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 40099 --> 40333
-    line [40118, 40188, 40266, 40314]
+    title "github/awesome-copilot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 40095 --> 40373
+    line [40118, 40188, 40266, 40314, 40350]
 ```
 
-2026-10-18 40,118 → 2026-10-23 40,314（+196）
+2026-10-18 40,118 → 2026-10-24 40,350（+232）
 
 
 ---

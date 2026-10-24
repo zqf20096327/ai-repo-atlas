@@ -1,6 +1,6 @@
 # stemrollerapp/stemroller
 
-⭐ 3,181 · Svelte · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/stemrollerapp/stemroller) · [官网](https://www.stemroller.com) · 组织维护
+⭐ 3,182 · Svelte · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/stemrollerapp/stemroller) · [官网](https://www.stemroller.com) · 组织维护
 
 **一键从任意歌曲分离人声/鼓/贝斯等分轨的桌面应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "stemrollerapp/stemroller 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3175 --> 3182
-    line [3176, 3178, 3179, 3181]
+    title "stemrollerapp/stemroller 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3175 --> 3183
+    line [3176, 3178, 3179, 3181, 3182]
 ```
 
-2026-10-18 3,176 → 2026-10-23 3,181（+5）
+2026-10-18 3,176 → 2026-10-24 3,182（+6）
 
 
 ---

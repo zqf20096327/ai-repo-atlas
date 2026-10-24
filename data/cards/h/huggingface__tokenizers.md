@@ -1,6 +1,6 @@
 # huggingface/tokenizers
 
-⭐ 11,191 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/tokenizers) · [官网](https://huggingface.co/docs/tokenizers) · 组织维护
+⭐ 11,192 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/tokenizers) · [官网](https://huggingface.co/docs/tokenizers) · 组织维护
 
 **面向研究与生产的分词器库，Rust 实现含多语言绑定**
 
@@ -44,13 +44,13 @@ Hugging Face 维护的分词器引擎：Rust 参考实现，提供 Python 与 No
 
 ```mermaid
 xychart-beta
-    title "huggingface/tokenizers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11179 --> 11192
-    line [11180, 11185, 11188, 11191]
+    title "huggingface/tokenizers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11179 --> 11193
+    line [11180, 11185, 11188, 11191, 11192]
 ```
 
-2026-10-18 11,180 → 2026-10-23 11,191（+11）
+2026-10-18 11,180 → 2026-10-24 11,192（+12）
 
 
 ---

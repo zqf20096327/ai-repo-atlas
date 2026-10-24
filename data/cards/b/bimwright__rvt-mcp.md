@@ -1,6 +1,6 @@
 # bimwright/rvt-mcp
 
-⭐ 96 · C# · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bimwright/rvt-mcp) · [官网](https://github.com/bimwright/rvt-mcp) · 组织维护 · 中文 README
+⭐ 96 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bimwright/rvt-mcp) · [官网](https://github.com/bimwright/rvt-mcp) · 组织维护 · 中文 README
 
 **面向 AI agent 的 Revit 本地 MCP 工具网关（Revit 2022–2027）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bimwright/rvt-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "bimwright/rvt-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 82 --> 97
-    line [83, 90, 93, 96]
+    line [83, 90, 93, 96, 96]
 ```
 
-2026-10-18 83 → 2026-10-23 96（+13）
+2026-10-18 83 → 2026-10-24 96（+13）
 
 
 ---

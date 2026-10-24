@@ -44,13 +44,13 @@ SWIRL Community 是 Apache 2.0 开源的联邦搜索与 RAG 系统：以用户�
 
 ```mermaid
 xychart-beta
-    title "swirlai/swirl-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "swirlai/swirl-search 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 3045 --> 3048
-    line [3047, 3046]
+    line [3047, 3046, 3046]
 ```
 
-2026-10-18 3,047 → 2026-10-23 3,046（-1）
+2026-10-18 3,047 → 2026-10-24 3,046（-1）
 
 
 ---

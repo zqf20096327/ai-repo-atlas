@@ -44,13 +44,13 @@ Chinese-LLaMA-Alpaca 系列第三期项目，开源 Llama-3-Chinese-8B 基座模
 
 ```mermaid
 xychart-beta
-    title "ymcui/Chinese-LLaMA-Alpaca-3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "ymcui/Chinese-LLaMA-Alpaca-3 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1978 --> 1981
-    line [1980, 1979]
+    line [1980, 1979, 1979]
 ```
 
-2026-10-18 1,980 → 2026-10-23 1,979（-1）
+2026-10-18 1,980 → 2026-10-24 1,979（-1）
 
 
 ---

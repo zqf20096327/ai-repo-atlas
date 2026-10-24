@@ -1,6 +1,6 @@
 # datawhalechina/deepagents-in-action
 
-⭐ 2,778 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/datawhalechina/deepagents-in-action) · [官网](https://datawhalechina.github.io/deepagents-in-action/) · 组织维护 · 中文 README
+⭐ 2,788 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/datawhalechina/deepagents-in-action) · [官网](https://datawhalechina.github.io/deepagents-in-action/) · 组织维护 · 中文 README
 
 **中文开源课程：基于 LangChain/LangGraph 从零构建生产级 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/deepagents-in-action 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2717 --> 2783
-    line [2722, 2735, 2761, 2778]
+    title "datawhalechina/deepagents-in-action 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2716 --> 2794
+    line [2722, 2735, 2761, 2778, 2788]
 ```
 
-2026-10-18 2,722 → 2026-10-23 2,778（+56）
+2026-10-18 2,722 → 2026-10-24 2,788（+66）
 
 
 ---

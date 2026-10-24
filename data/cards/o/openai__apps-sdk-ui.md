@@ -1,6 +1,6 @@
 # openai/apps-sdk-ui
 
-⭐ 963 · TypeScript · MIT · 推送 2026-05-20 · [GitHub](https://github.com/openai/apps-sdk-ui) · [官网](https://openai.github.io/apps-sdk-ui/) · 组织维护
+⭐ 965 · TypeScript · MIT · 推送 2026-05-20 · [GitHub](https://github.com/openai/apps-sdk-ui) · [官网](https://openai.github.io/apps-sdk-ui/) · 组织维护
 
 **构建 ChatGPT 应用的 React 组件库与设计系统**
 
@@ -45,12 +45,12 @@ OpenAI 维护的轻量级设计系统，面向使用 Apps SDK 开发 ChatGPT 应
 ```mermaid
 xychart-beta
     title "openai/apps-sdk-ui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 960 --> 964
-    line [962, 961, 963, 963]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 960 --> 966
+    line [962, 961, 963, 965]
 ```
 
-2026-10-18 962 → 2026-10-23 963（+1）
+2026-10-18 962 → 2026-10-24 965（+3）
 
 
 ---

@@ -45,12 +45,12 @@ AIRTBench 代码仓库：实现基于 rigging 的自主 AI 红队 agent，通过
 ```mermaid
 xychart-beta
     title "dreadnode/AIRTBench-Code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 110 --> 112
     line [111, 111]
 ```
 
-2026-10-18 111 → 2026-10-23 111（+0）
+2026-10-18 111 → 2026-10-24 111（+0）
 
 
 ---

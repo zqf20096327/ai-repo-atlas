@@ -1,6 +1,6 @@
 # magicapple123/ResumeForge
 
-⭐ 347 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/magicapple123/ResumeForge) · [官网](https://github.com/magicapple123/ResumeForge#readme) · 个人维护 · 中文 README
+⭐ 348 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/magicapple123/ResumeForge) · [官网](https://github.com/magicapple123/ResumeForge#readme) · 个人维护 · 中文 README
 
 **本地优先的 AI 简历工作台：求职全流程资料管理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "magicapple123/ResumeForge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 327 --> 348
-    line [328, 334, 340, 347]
+    title "magicapple123/ResumeForge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 326 --> 350
+    line [328, 334, 340, 347, 348]
 ```
 
-2026-10-18 328 → 2026-10-23 347（+19）
+2026-10-18 328 → 2026-10-24 348（+20）
 
 
 ---

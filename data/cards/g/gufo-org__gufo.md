@@ -1,6 +1,6 @@
 # gufo-org/gufo
 
-⭐ 872 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/gufo-org/gufo) · [官网](https://gufo.blog) · 组织维护
+⭐ 892 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gufo-org/gufo) · [官网](https://gufo.blog) · 组织维护
 
 **面向 AMD Strix Halo 的本地推理引擎，运行文本/语音/图像/视频模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gufo-org/gufo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 781 --> 880
-    line [789, 814, 872]
+    title "gufo-org/gufo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 779 --> 902
+    line [789, 814, 872, 892]
 ```
 
-2026-10-18 789 → 2026-10-23 872（+83）
+2026-10-18 789 → 2026-10-24 892（+103）
 
 
 ---

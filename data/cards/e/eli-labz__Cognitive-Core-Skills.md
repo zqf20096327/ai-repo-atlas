@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eli-labz/Cognitive-Core-Skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "eli-labz/Cognitive-Core-Skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 150 --> 159
-    line [158, 151]
+    line [158, 151, 151]
 ```
 
-2026-10-18 158 → 2026-10-23 151（-7）
+2026-10-18 158 → 2026-10-24 151（-7）
 
 
 ---

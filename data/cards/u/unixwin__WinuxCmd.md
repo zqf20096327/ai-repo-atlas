@@ -1,6 +1,6 @@
 # unixwin/WinuxCmd
 
-⭐ 274 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/unixwin/WinuxCmd) · [官网](https://dl.caomengxuan666.com/) · 个人维护 · 中文 README
+⭐ 274 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/unixwin/WinuxCmd) · [官网](https://dl.caomengxuan666.com/) · 个人维护 · 中文 README
 
 **Windows 原生 Unix 命令行工具集：单个 3MB 二进制提供 176 个 GNU 命令**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "unixwin/WinuxCmd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 273 --> 275
     line [274, 274]
 ```
 
-2026-10-18 274 → 2026-10-23 274（+0）
+2026-10-18 274 → 2026-10-24 274（+0）
 
 
 ---

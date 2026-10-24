@@ -1,6 +1,6 @@
 # jev-chat/jev-chat-jarvis
 
-⭐ 7,995 · Kotlin · MIT · 推送 2026-10-16 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) · [官网](https://chatjevs.com) · 组织维护 · 中文 README
+⭐ 8,023 · Kotlin · MIT · 推送 2026-10-16 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) · [官网](https://chatjevs.com) · 组织维护 · 中文 README
 
 **聊天回复决策助手：先判断对方意图与风险，再起草回复供你发送**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jev-chat/jev-chat-jarvis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7848 --> 8008
-    line [7861, 7916, 7960, 7995]
+    title "jev-chat/jev-chat-jarvis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7845 --> 8039
+    line [7861, 7916, 7960, 7995, 8023]
 ```
 
-2026-10-18 7,861 → 2026-10-23 7,995（+134）
+2026-10-18 7,861 → 2026-10-24 8,023（+162）
 
 
 ---

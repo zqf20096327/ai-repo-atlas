@@ -1,6 +1,6 @@
 # ServiceNow/BrowserGym
 
-⭐ 1,414 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ServiceNow/BrowserGym) · 组织维护
+⭐ 1,416 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ServiceNow/BrowserGym) · 组织维护
 
 **面向网页任务自动化的 Gym 环境：web agent 研究基准集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ServiceNow/BrowserGym 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1406 --> 1415
-    line [1407, 1408, 1411, 1414]
+    title "ServiceNow/BrowserGym 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1406 --> 1417
+    line [1407, 1408, 1411, 1414, 1416]
 ```
 
-2026-10-18 1,407 → 2026-10-23 1,414（+7）
+2026-10-18 1,407 → 2026-10-24 1,416（+9）
 
 
 ---

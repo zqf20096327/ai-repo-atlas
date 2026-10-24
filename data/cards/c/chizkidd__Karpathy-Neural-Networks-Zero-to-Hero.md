@@ -1,6 +1,6 @@
 # chizkidd/Karpathy-Neural-Networks-Zero-to-Hero
 
-⭐ 275 · Jupyter Notebook · MIT · 推送 2026-10-03 · [GitHub](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero) · [官网](https://chizkidd.github.io/Karpathy-Neural-Networks-Zero-to-Hero/) · 个人维护
+⭐ 277 · Jupyter Notebook · MIT · 推送 2026-10-03 · [GitHub](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero) · [官网](https://chizkidd.github.io/Karpathy-Neural-Networks-Zero-to-Hero/) · 个人维护
 
 **Karpathy《Neural Networks: Zero to Hero》课程的笔记与代码实现**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "chizkidd/Karpathy-Neural-Networks-Zero-to-Hero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 271 --> 276
-    line [272, 273, 274, 275]
+    title "chizkidd/Karpathy-Neural-Networks-Zero-to-Hero 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 271 --> 278
+    line [272, 273, 274, 275, 277]
 ```
 
-2026-10-18 272 → 2026-10-23 275（+3）
+2026-10-18 272 → 2026-10-24 277（+5）
 
 
 ---

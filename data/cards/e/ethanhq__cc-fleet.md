@@ -1,6 +1,6 @@
 # ethanhq/cc-fleet
 
-⭐ 185 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ethanhq/cc-fleet) · 个人维护 · 中文 README
+⭐ 185 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ethanhq/cc-fleet) · 个人维护 · 中文 README
 
 **让 Claude Code 的工作流/团队/子代理接入任意第三方模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ethanhq/cc-fleet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "ethanhq/cc-fleet 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 140 --> 189
-    line [144, 172, 184, 185]
+    line [144, 172, 184, 185, 185]
 ```
 
-2026-10-18 144 → 2026-10-23 185（+41）
+2026-10-18 144 → 2026-10-24 185（+41）
 
 
 ---

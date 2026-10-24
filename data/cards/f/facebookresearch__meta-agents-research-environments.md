@@ -45,13 +45,13 @@ Meta Agents Research Environments（ARE）是用于在动态、演化场景中�
 
 ```mermaid
 xychart-beta
-    title "facebookresearch/meta-agents-research-environments 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "facebookresearch/meta-agents-research-environments 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 566 --> 574
-    line [567, 568, 570, 573]
+    line [567, 568, 570, 573, 573]
 ```
 
-2026-10-18 567 → 2026-10-23 573（+6）
+2026-10-18 567 → 2026-10-24 573（+6）
 
 
 ---

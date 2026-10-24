@@ -1,6 +1,6 @@
 # Tencent/WeKnora
 
-⭐ 35,075 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Tencent/WeKnora) · [官网](https://weknora.weixin.qq.com) · 组织维护 · 中文 README
+⭐ 35,216 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Tencent/WeKnora) · [官网](https://weknora.weixin.qq.com) · 组织维护 · 中文 README
 
 **面向企业的开源 LLM 知识平台：文档转 RAG、Agent 与 Wiki**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent/WeKnora 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 34441 --> 35132
-    line [34498, 34724, 34971, 35075]
+    title "Tencent/WeKnora 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 34427 --> 35287
+    line [34498, 34724, 34971, 35075, 35216]
 ```
 
-2026-10-18 34,498 → 2026-10-23 35,075（+577）
+2026-10-18 34,498 → 2026-10-24 35,216（+718）
 
 
 ---

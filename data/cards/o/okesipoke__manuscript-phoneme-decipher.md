@@ -1,6 +1,6 @@
 # okesipoke/manuscript-phoneme-decipher
 
-⭐ 118 · HTML · 推送 2026-10-22 · [GitHub](https://github.com/okesipoke/manuscript-phoneme-decipher) · 个人维护
+⭐ 118 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/okesipoke/manuscript-phoneme-decipher) · 个人维护
 
 **面向未解读文字的语音转写重建引擎：输出 IPA 假设与置信度**
 
@@ -46,12 +46,12 @@ LinguaCryptum 是一个将未知文字视为语音记录而非字母密码的推
 ```mermaid
 xychart-beta
     title "okesipoke/manuscript-phoneme-decipher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 117 --> 119
     line [118, 118]
 ```
 
-2026-10-18 118 → 2026-10-23 118（+0）
+2026-10-18 118 → 2026-10-24 118（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rocketride-org/rocketride-server
 
-⭐ 17,717 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rocketride-org/rocketride-server) · 组织维护
+⭐ 17,709 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rocketride-org/rocketride-server) · 组织维护
 
 **在 IDE 中构建、调试和部署 AI/LLM 管线的开源引擎**
 
@@ -53,13 +53,13 @@ RocketRide 是一个开源 AI 管线构建器与运行时：管线以 .pipe JSON
 
 ```mermaid
 xychart-beta
-    title "rocketride-org/rocketride-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 17713 --> 17762
-    line [17758, 17738, 17723, 17717]
+    title "rocketride-org/rocketride-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 17705 --> 17762
+    line [17758, 17738, 17723, 17717, 17709]
 ```
 
-2026-10-18 17,758 → 2026-10-23 17,717（-41）
+2026-10-18 17,758 → 2026-10-24 17,709（-49）
 
 
 ---

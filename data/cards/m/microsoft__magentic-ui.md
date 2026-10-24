@@ -1,6 +1,6 @@
 # microsoft/magentic-ui
 
-⭐ 10,099 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/magentic-ui) · [官网](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) · 组织维护
+⭐ 10,097 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/magentic-ui) · [官网](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) · 组织维护
 
 **微软出品的浏览器与本地文件系统自动化 agent 应用**
 
@@ -44,13 +44,13 @@ Microsoft AI Frontiers 开发的 agentic 应用 MagenticLite，是 Magentic-UI �
 
 ```mermaid
 xychart-beta
-    title "microsoft/magentic-ui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "microsoft/magentic-ui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 10095 --> 10100
-    line [10098, 10097, 10096, 10099]
+    line [10098, 10097, 10096, 10099, 10097]
 ```
 
-2026-10-18 10,098 → 2026-10-23 10,099（+1）
+2026-10-18 10,098 → 2026-10-24 10,097（-1）
 
 
 ---

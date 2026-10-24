@@ -1,6 +1,6 @@
 # panxunying/ai-coding-welfare
 
-⭐ 1,155 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/panxunying/ai-coding-welfare) · [官网](https://panxunying.github.io/ai-coding-welfare/) · 个人维护 · 中文 README
+⭐ 1,164 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/panxunying/ai-coding-welfare) · [官网](https://panxunying.github.io/ai-coding-welfare/) · 个人维护 · 中文 README
 
 **AI 编码工具免费额度的中转/公益站导航合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "panxunying/ai-coding-welfare 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1059 --> 1163
-    line [1067, 1125, 1155]
+    title "panxunying/ai-coding-welfare 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1058 --> 1173
+    line [1067, 1125, 1155, 1164]
 ```
 
-2026-10-18 1,067 → 2026-10-23 1,155（+88）
+2026-10-18 1,067 → 2026-10-24 1,164（+97）
 
 
 ---

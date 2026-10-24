@@ -1,6 +1,6 @@
 # whchien/ai-trader
 
-⭐ 1,116 · Python · GPL-3.0 · 推送 2026-03-28 · [GitHub](https://github.com/whchien/ai-trader) · 个人维护 · 中文 README
+⭐ 1,117 · Python · GPL-3.0 · 推送 2026-03-28 · [GitHub](https://github.com/whchien/ai-trader) · 个人维护 · 中文 README
 
 **面向专业交易者的 Backtrader 回测框架，含 MCP 服务集成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "whchien/ai-trader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1112 --> 1117
-    line [1113, 1116]
+    title "whchien/ai-trader 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1112 --> 1118
+    line [1113, 1116, 1117]
 ```
 
-2026-10-18 1,113 → 2026-10-23 1,116（+3）
+2026-10-18 1,113 → 2026-10-24 1,117（+4）
 
 
 ---

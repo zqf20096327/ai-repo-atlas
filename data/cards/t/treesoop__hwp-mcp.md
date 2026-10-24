@@ -1,6 +1,6 @@
 # treesoop/hwp-mcp
 
-⭐ 98 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/treesoop/hwp-mcp) · [官网](https://github.com/treesoop/hwp-mcp) · 个人维护 · 中文 README
+⭐ 99 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/treesoop/hwp-mcp) · [官网](https://github.com/treesoop/hwp-mcp) · 个人维护 · 中文 README
 
 **让 MCP 兼容 AI 读写韩文 HWP/HWPX 文档的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "treesoop/hwp-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 95 --> 99
-    line [96, 97, 98]
+    title "treesoop/hwp-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 95 --> 100
+    line [96, 97, 98, 99]
 ```
 
-2026-10-18 96 → 2026-10-23 98（+2）
+2026-10-18 96 → 2026-10-24 99（+3）
 
 
 ---

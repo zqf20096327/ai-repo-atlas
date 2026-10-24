@@ -1,6 +1,6 @@
 # fracapuano/robot-learning-tutorial
 
-⭐ 592 · TeX · NOASSERTION · 推送 2026-04-09 · [GitHub](https://github.com/fracapuano/robot-learning-tutorial) · [官网](http://arxiv.org/abs/2510.12403) · 个人维护
+⭐ 593 · TeX · NOASSERTION · 推送 2026-04-09 · [GitHub](https://github.com/fracapuano/robot-learning-tutorial) · [官网](http://arxiv.org/abs/2510.12403) · 个人维护
 
 **机器人学习教程源码仓库，基于 lerobot 提供实践示例**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "fracapuano/robot-learning-tutorial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 590 --> 593
-    line [591, 592, 592]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 590 --> 594
+    line [591, 592, 593]
 ```
 
-2026-10-18 591 → 2026-10-23 592（+1）
+2026-10-18 591 → 2026-10-24 593（+2）
 
 
 ---

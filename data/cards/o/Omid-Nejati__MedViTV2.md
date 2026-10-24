@@ -1,6 +1,6 @@
 # Omid-Nejati/MedViTV2
 
-⭐ 105 · Jupyter Notebook · MIT · 推送 2026-03-10 · [GitHub](https://github.com/Omid-Nejati/MedViTV2) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **医学影像分类模型：KAN 集成 Transformer 与膨胀邻域注意力**
 
@@ -11,7 +11,7 @@ MedViTV2 是面向医学影像分类的视觉 Transformer 架构，首次将 Kol
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

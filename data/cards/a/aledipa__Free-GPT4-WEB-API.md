@@ -1,6 +1,6 @@
 # aledipa/Free-GPT4-WEB-API
 
-⭐ 725 · Python · GPL-3.0 · 推送 2026-08-14 · [GitHub](https://github.com/aledipa/Free-GPT4-WEB-API) · [官网](https://api.freegpt4.ddns.net/?text=Your Request Here) · 个人维护
+⭐ 726 · Python · GPL-3.0 · 推送 2026-08-14 · [GitHub](https://github.com/aledipa/Free-GPT4-WEB-API) · [官网](https://api.freegpt4.ddns.net/?text=Your Request Here) · 个人维护
 
 **自托管 Web API：免 API key 统一调用 GPT-4 等多家 LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aledipa/Free-GPT4-WEB-API 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 723 --> 726
-    line [724, 725, 725]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 723 --> 727
+    line [724, 725, 726]
 ```
 
-2026-10-18 724 → 2026-10-23 725（+1）
+2026-10-18 724 → 2026-10-24 726（+2）
 
 
 ---

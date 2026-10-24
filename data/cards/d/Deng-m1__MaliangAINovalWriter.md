@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Deng-m1/MaliangAINovalWriter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Deng-m1/MaliangAINovalWriter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 896 --> 899
-    line [898, 897]
+    line [898, 897, 897]
 ```
 
-2026-10-18 898 → 2026-10-23 897（-1）
+2026-10-18 898 → 2026-10-24 897（-1）
 
 
 ---

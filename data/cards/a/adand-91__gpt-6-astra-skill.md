@@ -1,6 +1,6 @@
 # adand-91/gpt-6-astra-skill
 
-⭐ 123 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/adand-91/gpt-6-astra-skill) · 个人维护 · 中文 README
+⭐ 124 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/adand-91/gpt-6-astra-skill) · 个人维护 · 中文 README
 
 **面向 Codex 的项目接管与 Skill 适配插件工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "adand-91/gpt-6-astra-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 122 --> 124
-    line [123, 123]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 122 --> 125
+    line [123, 124]
 ```
 
-2026-10-18 123 → 2026-10-23 123（+0）
+2026-10-18 123 → 2026-10-24 124（+1）
 
 
 ---

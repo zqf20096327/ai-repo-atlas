@@ -1,6 +1,6 @@
 # lfai/lfai-landscape
 
-⭐ 387 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lfai/lfai-landscape) · [官网](https://l.lfai.foundation/) · 组织维护
+⭐ 387 · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/lfai/lfai-landscape) · [官网](https://l.lfai.foundation/) · 组织维护
 
 **开源 AI 与数据生态项目全景图（LF AI 基金会官方景观图）**
 
@@ -45,12 +45,12 @@ LF AI & Data 基金会维护的开源 AI 与数据领域项目全景图，仿照
 ```mermaid
 xychart-beta
     title "lfai/lfai-landscape 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 386 --> 388
     line [387, 387]
 ```
 
-2026-10-18 387 → 2026-10-23 387（+0）
+2026-10-18 387 → 2026-10-24 387（+0）
 
 
 ---

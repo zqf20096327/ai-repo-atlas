@@ -1,6 +1,6 @@
 # onnx/models
 
-⭐ 9,824 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/onnx/models) · 组织维护
+⭐ 9,827 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/onnx/models) · 组织维护
 
 **ONNX 格式预训练模型集合，供开发者下载使用**
 
@@ -44,13 +44,13 @@ ONNX 官方维护的预训练模型动物园：以 ONNX 开放格式收录图像
 
 ```mermaid
 xychart-beta
-    title "onnx/models 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 9818 --> 9825
-    line [9820, 9819, 9822, 9824]
+    title "onnx/models 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9818 --> 9828
+    line [9820, 9819, 9822, 9824, 9827]
 ```
 
-2026-10-18 9,820 → 2026-10-23 9,824（+4）
+2026-10-18 9,820 → 2026-10-24 9,827（+7）
 
 
 ---

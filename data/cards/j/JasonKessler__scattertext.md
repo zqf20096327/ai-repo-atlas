@@ -46,13 +46,13 @@ Scattertext 是一个 Python 文本分析库：读取 Pandas 数据框中的文�
 
 ```mermaid
 xychart-beta
-    title "JasonKessler/scattertext 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "JasonKessler/scattertext 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2343 --> 2346
-    line [2344, 2345]
+    line [2344, 2345, 2345]
 ```
 
-2026-10-18 2,344 → 2026-10-23 2,345（+1）
+2026-10-18 2,344 → 2026-10-24 2,345（+1）
 
 
 ---

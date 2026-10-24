@@ -1,6 +1,6 @@
 # cognizant-ai-lab/neuro-san
 
-⭐ 162 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/cognizant-ai-lab/neuro-san) · [官网](https://decisionai.ml/neuro-san) · 组织维护
+⭐ 163 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/cognizant-ai-lab/neuro-san) · [官网](https://decisionai.ml/neuro-san) · 组织维护
 
 **数据驱动多智能体网络构建库，可用作库或 HTTP 服务**
 
@@ -46,12 +46,12 @@ Neuro SAN 是用于构建多 LLM 智能体网络的 Python 库，可将复杂问
 ```mermaid
 xychart-beta
     title "cognizant-ai-lab/neuro-san 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 158 --> 163
-    line [159, 161, 162, 162]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 158 --> 164
+    line [159, 161, 162, 163]
 ```
 
-2026-10-18 159 → 2026-10-23 162（+3）
+2026-10-18 159 → 2026-10-24 163（+4）
 
 
 ---

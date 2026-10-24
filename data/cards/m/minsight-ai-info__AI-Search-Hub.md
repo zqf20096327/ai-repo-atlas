@@ -1,6 +1,6 @@
 # minsight-ai-info/AI-Search-Hub
 
-⭐ 1,304 · Python · 推送 2026-04-27 · [GitHub](https://github.com/minsight-ai-info/AI-Search-Hub) · 组织维护 · 中文 README
+⭐ 1,306 · Python · 推送 2026-04-27 · [GitHub](https://github.com/minsight-ai-info/AI-Search-Hub) · 组织维护 · 中文 README
 
 **聚合多平台 AI 搜索能力的开源 Skill，供 Agent 统一调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "minsight-ai-info/AI-Search-Hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1298 --> 1305
-    line [1299, 1301, 1304]
+    title "minsight-ai-info/AI-Search-Hub 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1298 --> 1307
+    line [1299, 1301, 1304, 1306]
 ```
 
-2026-10-18 1,299 → 2026-10-23 1,304（+5）
+2026-10-18 1,299 → 2026-10-24 1,306（+7）
 
 
 ---

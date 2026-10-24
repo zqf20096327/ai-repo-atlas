@@ -1,6 +1,6 @@
 # RWKV-APP/RWKV_APP
 
-⭐ 132 · Dart · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/RWKV-APP/RWKV_APP) · [官网](https://rwkv.halowang.cloud) · 组织维护 · 中文 README
+⭐ 132 · Dart · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/RWKV-APP/RWKV_APP) · [官网](https://rwkv.halowang.cloud) · 组织维护 · 中文 README
 
 **跨平台本地 RWKV 聊天应用：手机/桌面端离线推理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RWKV-APP/RWKV_APP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "RWKV-APP/RWKV_APP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 130 --> 133
-    line [131, 132]
+    line [131, 132, 132]
 ```
 
-2026-10-18 131 → 2026-10-23 132（+1）
+2026-10-18 131 → 2026-10-24 132（+1）
 
 
 ---

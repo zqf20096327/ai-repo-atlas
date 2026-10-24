@@ -1,6 +1,6 @@
 # Panniantong/Agent-Reach
 
-⭐ 100,964 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Panniantong/Agent-Reach) · 个人维护 · 中文 README
+⭐ 101,295 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Panniantong/Agent-Reach) · 个人维护 · 中文 README
 
 **给 AI Agent 一键配置读取与搜索互联网渠道的 CLI 能力层**
 
@@ -51,13 +51,13 @@ Agent Reach 定位为能力层：为 Claude Code、OpenClaw、Cursor 等可执�
 
 ```mermaid
 xychart-beta
-    title "Panniantong/Agent-Reach 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 98387 --> 101198
-    line [98621, 99587, 100510, 100964]
+    title "Panniantong/Agent-Reach 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 98354 --> 101562
+    line [98621, 99587, 100510, 100964, 101295]
 ```
 
-2026-10-18 98,621 → 2026-10-23 100,964（+2,343）
+2026-10-18 98,621 → 2026-10-24 101,295（+2,674）
 
 
 ---

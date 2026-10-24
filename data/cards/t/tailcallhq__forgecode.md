@@ -1,6 +1,6 @@
 # tailcallhq/forgecode
 
-⭐ 7,635 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tailcallhq/forgecode) · [官网](https://forgecode.dev) · 组织维护
+⭐ 7,635 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tailcallhq/forgecode) · [官网](https://forgecode.dev) · 组织维护
 
 **终端 AI 结对编程工具：对话式读写代码、提交与语义检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tailcallhq/forgecode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 7634 --> 7637
     line [7636, 7635, 7635]
 ```
 
-2026-10-18 7,636 → 2026-10-23 7,635（-1）
+2026-10-18 7,636 → 2026-10-24 7,635（-1）
 
 
 ---

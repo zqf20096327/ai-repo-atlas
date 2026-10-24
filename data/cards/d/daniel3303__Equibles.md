@@ -1,6 +1,6 @@
 # daniel3303/Equibles
 
-⭐ 237 · C# · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/daniel3303/Equibles) · [官网](https://equibles.com) · 个人维护
+⭐ 237 · C# · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/daniel3303/Equibles) · [官网](https://equibles.com) · 个人维护
 
 **自托管金融数据 MCP 服务器：让 AI agent 直接查询 SEC/FRED 等数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "daniel3303/Equibles 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "daniel3303/Equibles 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 229 --> 238
-    line [230, 236, 237]
+    line [230, 236, 237, 237]
 ```
 
-2026-10-18 230 → 2026-10-23 237（+7）
+2026-10-18 230 → 2026-10-24 237（+7）
 
 
 ---

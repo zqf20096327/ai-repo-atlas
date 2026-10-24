@@ -1,6 +1,6 @@
 # ayaka-notes/ayakaleaf-pro
 
-⭐ 1,068 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ayaka-notes/ayakaleaf-pro) · [官网](https://ayakaleaf-home.ayaka.space/) · 组织维护
+⭐ 1,139 · JavaScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ayaka-notes/ayakaleaf-pro) · [官网](https://ayakaleaf-home.ayaka.space/) · 组织维护
 
 **自托管的 Overleaf 社区版增强版，补齐 Pro 功能与 AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ayaka-notes/ayakaleaf-pro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 722 --> 1099
-    line [753, 881, 1002, 1068]
+    title "ayaka-notes/ayakaleaf-pro 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 715 --> 1177
+    line [753, 881, 1002, 1068, 1139]
 ```
 
-2026-10-18 753 → 2026-10-23 1,068（+315）
+2026-10-18 753 → 2026-10-24 1,139（+386）
 
 
 ---

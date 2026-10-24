@@ -1,6 +1,6 @@
 # nexu-io/motion-anything
 
-⭐ 946 · JavaScript · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/nexu-io/motion-anything) · 组织维护 · 中文 README
+⭐ 965 · JavaScript · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/nexu-io/motion-anything) · 组织维护 · 中文 README
 
 **本地优先的对话式动效引擎：一句话生成动画页面并逐组件编辑**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "nexu-io/motion-anything 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 871 --> 952
-    line [877, 888, 918, 946]
+    title "nexu-io/motion-anything 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 869 --> 973
+    line [877, 888, 918, 946, 965]
 ```
 
-2026-10-18 877 → 2026-10-23 946（+69）
+2026-10-18 877 → 2026-10-24 965（+88）
 
 
 ---

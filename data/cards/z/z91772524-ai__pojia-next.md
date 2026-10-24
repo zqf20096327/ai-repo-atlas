@@ -1,6 +1,6 @@
 # z91772524-ai/pojia-next
 
-⭐ 676 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/z91772524-ai/pojia-next) · 个人维护 · 中文 README
+⭐ 712 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/z91772524-ai/pojia-next) · 个人维护 · 中文 README
 
 **给普通用户：一键替换十五个 AI 编程客户端的内置提示词与人格**
 
@@ -45,13 +45,13 @@ Windows 桌面工具（单文件 exe 或 Python 源码运行，零第三方依�
 
 ```mermaid
 xychart-beta
-    title "z91772524-ai/pojia-next 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 443 --> 697
-    line [464, 535, 600, 676]
+    title "z91772524-ai/pojia-next 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 440 --> 736
+    line [464, 535, 600, 676, 712]
 ```
 
-2026-10-18 464 → 2026-10-23 676（+212）
+2026-10-18 464 → 2026-10-24 712（+248）
 
 
 ---

@@ -1,6 +1,6 @@
 # alisaitteke/photoshop-mcp
 
-⭐ 709 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/alisaitteke/photoshop-mcp) · [官网](https://photoshop-mcp.com) · 个人维护 · 中文 README
+⭐ 716 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/alisaitteke/photoshop-mcp) · [官网](https://photoshop-mcp.com) · 个人维护 · 中文 README
 
 **MCP 服务器：让 Cursor/Claude 等 AI 通过自然语言操控 Photoshop**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alisaitteke/photoshop-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 669 --> 712
-    line [672, 685, 702, 709]
+    title "alisaitteke/photoshop-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 668 --> 720
+    line [672, 685, 702, 709, 716]
 ```
 
-2026-10-18 672 → 2026-10-23 709（+37）
+2026-10-18 672 → 2026-10-24 716（+44）
 
 
 ---

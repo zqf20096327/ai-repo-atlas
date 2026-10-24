@@ -1,6 +1,6 @@
 # diivi/aseprite-mcp
 
-⭐ 780 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/diivi/aseprite-mcp) · 个人维护
+⭐ 803 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/diivi/aseprite-mcp) · 个人维护
 
 **让 AI 助手通过 MCP 操控 Aseprite 绘制像素画的服务器**
 
@@ -39,6 +39,18 @@ Python 实现的 MCP 服务器，通过 Aseprite API 向 AI 助手暴露 123 个
 
 > L3: A Python MCP server that gives AI assistants full control over Aseprite for creating pixel art and animated sprites.
 > L5: **123 tools across 18 categories** — canvas, drawing, layers, animation, palettes, effects, slices, tilemaps, export
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "diivi/aseprite-mcp 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 778 --> 805
+    line [780, 803]
+```
+
+2026-10-23 780 → 2026-10-24 803（+23）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/alphafold
 
-⭐ 14,903 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/google-deepmind/alphafold) · 组织维护
+⭐ 14,907 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/google-deepmind/alphafold) · 组织维护
 
 **为科研人员提供蛋白质结构预测 AlphaFold2 推理代码**
 
@@ -53,13 +53,13 @@ DeepMind 开源的 AlphaFold v2 推理流水线实现，读取 FASTA 格式的�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/alphafold 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 14894 --> 14904
-    line [14895, 14900, 14902, 14903]
+    title "google-deepmind/alphafold 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 14894 --> 14908
+    line [14895, 14900, 14902, 14903, 14907]
 ```
 
-2026-10-18 14,895 → 2026-10-23 14,903（+8）
+2026-10-18 14,895 → 2026-10-24 14,907（+12）
 
 
 ---

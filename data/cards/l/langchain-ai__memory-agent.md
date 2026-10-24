@@ -1,6 +1,6 @@
 # langchain-ai/memory-agent
 
-⭐ 483 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/memory-agent) · 组织维护
+⭐ 483 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/memory-agent) · 组织维护
 
 **LangGraph ReAct 记忆代理示例：带记忆保存工具的对话 agent**
 
@@ -45,12 +45,12 @@ langchain-ai 官方提供的 ReAct 风格 agent 示例工程：agent 通过 stor
 ```mermaid
 xychart-beta
     title "langchain-ai/memory-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 481 --> 484
     line [482, 483, 483]
 ```
 
-2026-10-18 482 → 2026-10-23 483（+1）
+2026-10-18 482 → 2026-10-24 483（+1）
 
 
 ---

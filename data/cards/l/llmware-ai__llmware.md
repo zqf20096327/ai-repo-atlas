@@ -1,6 +1,6 @@
 # llmware-ai/llmware
 
-⭐ 14,816 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/llmware-ai/llmware) · [官网](https://llmware-ai.github.io/llmware/) · 组织维护
+⭐ 14,815 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/llmware-ai/llmware) · [官网](https://llmware-ai.github.io/llmware/) · 组织维护
 
 **为企业在本地/边缘设备构建小型专用模型 RAG 应用的统一框架**
 
@@ -54,12 +54,12 @@ llmware 是一个 Python 框架，包含模型目录（300+ 预打包量化模�
 ```mermaid
 xychart-beta
     title "llmware-ai/llmware 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 14813 --> 14817
-    line [14814, 14816, 14816]
+    line [14814, 14816, 14815]
 ```
 
-2026-10-18 14,814 → 2026-10-23 14,816（+2）
+2026-10-18 14,814 → 2026-10-24 14,815（+1）
 
 
 ---

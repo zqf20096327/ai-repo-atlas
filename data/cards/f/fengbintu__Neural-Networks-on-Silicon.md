@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "fengbintu/Neural-Networks-on-Silicon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "fengbintu/Neural-Networks-on-Silicon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2131 --> 2134
-    line [2132, 2133]
+    line [2132, 2133, 2133]
 ```
 
-2026-10-18 2,132 → 2026-10-23 2,133（+1）
+2026-10-18 2,132 → 2026-10-24 2,133（+1）
 
 
 ---

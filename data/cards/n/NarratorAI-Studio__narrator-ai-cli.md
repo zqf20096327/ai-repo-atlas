@@ -45,13 +45,13 @@ Narrator AI 平台的命令行客户端：通过自然语言指令或命令调�
 
 ```mermaid
 xychart-beta
-    title "NarratorAI-Studio/narrator-ai-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "NarratorAI-Studio/narrator-ai-cli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 140 --> 145
-    line [141, 142, 144]
+    line [141, 142, 144, 144]
 ```
 
-2026-10-18 141 → 2026-10-23 144（+3）
+2026-10-18 141 → 2026-10-24 144（+3）
 
 
 ---

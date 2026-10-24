@@ -1,6 +1,6 @@
 # dipakkr/awesome-ai-engineering
 
-⭐ 22,444 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/dipakkr/awesome-ai-engineering) · 个人维护
+⭐ 22,450 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/dipakkr/awesome-ai-engineering) · 个人维护
 
 **面向学生与新手的 AI/编程学习资源聚合清单**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "dipakkr/awesome-ai-engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 22403 --> 22447
-    line [22406, 22425, 22435, 22444]
+    title "dipakkr/awesome-ai-engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 22402 --> 22454
+    line [22406, 22425, 22435, 22444, 22450]
 ```
 
-2026-10-18 22,406 → 2026-10-23 22,444（+38）
+2026-10-18 22,406 → 2026-10-24 22,450（+44）
 
 
 ---

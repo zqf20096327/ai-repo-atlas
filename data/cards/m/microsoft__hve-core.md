@@ -1,6 +1,6 @@
 # microsoft/hve-core
 
-⭐ 1,560 · PowerShell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/hve-core) · 组织维护
+⭐ 1,565 · PowerShell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/hve-core) · 组织维护
 
 **面向 GitHub Copilot 的规范驱动 agentic SDLC 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/hve-core 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1529 --> 1562
-    line [1531, 1533, 1544, 1560]
+    title "microsoft/hve-core 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1528 --> 1568
+    line [1531, 1533, 1544, 1560, 1565]
 ```
 
-2026-10-18 1,531 → 2026-10-23 1,560（+29）
+2026-10-18 1,531 → 2026-10-24 1,565（+34）
 
 
 ---

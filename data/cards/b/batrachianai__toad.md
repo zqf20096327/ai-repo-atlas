@@ -1,6 +1,6 @@
 # batrachianai/toad
 
-⭐ 3,485 · Python · AGPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/batrachianai/toad) · [官网](https://www.batrachian.ai/) · 个人维护
+⭐ 3,486 · Python · AGPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/batrachianai/toad) · [官网](https://www.batrachian.ai/) · 个人维护
 
 **终端里的编码 agent 统一界面：安装运行多种 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "batrachianai/toad 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3479 --> 3486
-    line [3480, 3483, 3484, 3485]
+    title "batrachianai/toad 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3479 --> 3487
+    line [3480, 3483, 3484, 3485, 3486]
 ```
 
-2026-10-18 3,480 → 2026-10-23 3,485（+5）
+2026-10-18 3,480 → 2026-10-24 3,486（+6）
 
 
 ---

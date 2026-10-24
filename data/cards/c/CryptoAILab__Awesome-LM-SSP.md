@@ -1,6 +1,6 @@
 # CryptoAILab/Awesome-LM-SSP
 
-⭐ 2,089 · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/CryptoAILab/Awesome-LM-SSP) · [官网](https://github.com/CryptoAILab/Awesome-LM-SSP) · 组织维护 · 中文 README
+⭐ 2,090 · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/CryptoAILab/Awesome-LM-SSP) · [官网](https://github.com/CryptoAILab/Awesome-LM-SSP) · 组织维护 · 中文 README
 
 **大模型安全/安全性与隐私研究的论文阅读清单（2467 篇论文）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CryptoAILab/Awesome-LM-SSP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2086 --> 2090
-    line [2087, 2088, 2089]
+    title "CryptoAILab/Awesome-LM-SSP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2086 --> 2091
+    line [2087, 2088, 2089, 2090]
 ```
 
-2026-10-18 2,087 → 2026-10-23 2,089（+2）
+2026-10-18 2,087 → 2026-10-24 2,090（+3）
 
 
 ---

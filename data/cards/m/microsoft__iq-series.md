@@ -1,6 +1,6 @@
 # microsoft/iq-series
 
-⭐ 394 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/iq-series) · [官网](https://aka.ms/iq-series) · 组织维护
+⭐ 394 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/iq-series) · [官网](https://aka.ms/iq-series) · 组织维护
 
 **Microsoft IQ 企业智能层的学习教程系列：视频+Notebook 实操**
 
@@ -45,12 +45,12 @@ Microsoft 官方出品的动手学习项目，围绕 Microsoft IQ 企业智能�
 ```mermaid
 xychart-beta
     title "microsoft/iq-series 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 391 --> 395
     line [392, 394, 394]
 ```
 
-2026-10-18 392 → 2026-10-23 394（+2）
+2026-10-18 392 → 2026-10-24 394（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # qdrant/mcp-server-qdrant
 
-⭐ 1,552 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/qdrant/mcp-server-qdrant) · [官网](https://qdrant.tech) · 组织维护
+⭐ 1,553 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/qdrant/mcp-server-qdrant) · [官网](https://qdrant.tech) · 组织维护
 
 **为 LLM 客户端提供基于 Qdrant 的语义记忆层 MCP 服务器**
 
@@ -45,12 +45,12 @@ Qdrant 官方维护的 Model Context Protocol 服务器实现，在 Qdrant 向�
 ```mermaid
 xychart-beta
     title "qdrant/mcp-server-qdrant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1549 --> 1553
-    line [1550, 1551, 1552, 1552]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1549 --> 1554
+    line [1550, 1551, 1552, 1553]
 ```
 
-2026-10-18 1,550 → 2026-10-23 1,552（+2）
+2026-10-18 1,550 → 2026-10-24 1,553（+3）
 
 
 ---

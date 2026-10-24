@@ -1,6 +1,6 @@
 # zai-org/GLM-5
 
-⭐ 7,372 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/zai-org/GLM-5) · [官网](https://z.ai/blog/glm-5.2) · 组织维护 · 中文 README
+⭐ 7,376 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/zai-org/GLM-5) · [官网](https://z.ai/blog/glm-5.2) · 组织维护 · 中文 README
 
 **面向 agentic 工程与长程任务的开源大模型系列（GLM-5.x）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zai-org/GLM-5 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7346 --> 7374
-    line [7348, 7361, 7366, 7372]
+    title "zai-org/GLM-5 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7346 --> 7378
+    line [7348, 7361, 7366, 7372, 7376]
 ```
 
-2026-10-18 7,348 → 2026-10-23 7,372（+24）
+2026-10-18 7,348 → 2026-10-24 7,376（+28）
 
 
 ---

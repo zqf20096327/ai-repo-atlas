@@ -1,6 +1,6 @@
 # steven2358/awesome-generative-ai
 
-⭐ 12,748 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/steven2358/awesome-generative-ai) · 个人维护
+⭐ 12,752 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/steven2358/awesome-generative-ai) · 个人维护
 
 **生成式 AI 项目与服务策展清单，覆盖文本、图像等多领域**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "steven2358/awesome-generative-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 12738 --> 12749
-    line [12739, 12742, 12744, 12748]
+    title "steven2358/awesome-generative-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 12738 --> 12753
+    line [12739, 12742, 12744, 12748, 12752]
 ```
 
-2026-10-18 12,739 → 2026-10-23 12,748（+9）
+2026-10-18 12,739 → 2026-10-24 12,752（+13）
 
 
 ---

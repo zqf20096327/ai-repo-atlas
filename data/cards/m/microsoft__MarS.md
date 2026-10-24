@@ -1,6 +1,6 @@
 # microsoft/MarS
 
-⭐ 1,880 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/microsoft/MarS) · 组织维护 · 中文 README
+⭐ 1,882 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/microsoft/MarS) · 组织维护 · 中文 README
 
 **微软开源的生成式金融市场模拟引擎：订单级仿真与预测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/MarS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1876 --> 1881
-    line [1877, 1879, 1880]
+    title "microsoft/MarS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1876 --> 1883
+    line [1877, 1879, 1880, 1882]
 ```
 
-2026-10-18 1,877 → 2026-10-23 1,880（+3）
+2026-10-18 1,877 → 2026-10-24 1,882（+5）
 
 
 ---

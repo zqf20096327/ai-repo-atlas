@@ -1,6 +1,6 @@
 # t59688/arboris-novel
 
-⭐ 1,618 · Python · 推送 2026-02-25 · [GitHub](https://github.com/t59688/arboris-novel) · [官网](https://arboris.aozhiai.com) · 个人维护 · 中文 README
+⭐ 1,619 · Python · 推送 2026-02-25 · [GitHub](https://github.com/t59688/arboris-novel) · [官网](https://arboris.aozhiai.com) · 个人维护 · 中文 README
 
 **面向创作者的开源 AI 小说写作辅助 Web 应用**
 
@@ -46,13 +46,13 @@ Arboris-Novel 是一个自托管的开源写作辅助工具：集中管理角色
 
 ```mermaid
 xychart-beta
-    title "t59688/arboris-novel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1614 --> 1619
-    line [1615, 1617, 1616, 1618]
+    title "t59688/arboris-novel 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1614 --> 1620
+    line [1615, 1617, 1616, 1618, 1619]
 ```
 
-2026-10-18 1,615 → 2026-10-23 1,618（+3）
+2026-10-18 1,615 → 2026-10-24 1,619（+4）
 
 
 ---

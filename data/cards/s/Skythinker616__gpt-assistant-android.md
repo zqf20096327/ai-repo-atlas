@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Skythinker616/gpt-assistant-android 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Skythinker616/gpt-assistant-android 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 905 --> 908
-    line [906, 907]
+    line [906, 907, 907]
 ```
 
-2026-10-18 906 → 2026-10-23 907（+1）
+2026-10-18 906 → 2026-10-24 907（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # azuwis/pianotrans
 
-⭐ 1,537 · Nix · 推送 2026-09-14 · [GitHub](https://github.com/azuwis/pianotrans) · 个人维护
+⭐ 1,536 · Nix · 推送 2026-09-14 · [GitHub](https://github.com/azuwis/pianotrans) · 个人维护
 
 **钢琴转录模型 ByteDance Piano Transcription 的 GUI 封装，音频转 MIDI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "azuwis/pianotrans 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "azuwis/pianotrans 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1534 --> 1538
-    line [1535, 1536, 1537]
+    line [1535, 1536, 1537, 1536]
 ```
 
-2026-10-18 1,535 → 2026-10-23 1,537（+2）
+2026-10-18 1,535 → 2026-10-24 1,536（+1）
 
 
 ---

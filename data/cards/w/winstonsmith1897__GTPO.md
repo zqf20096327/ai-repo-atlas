@@ -45,12 +45,12 @@ GTPO（Group-relative Trajectory-based Policy Optimization）的官方 PyTorch �
 ```mermaid
 xychart-beta
     title "winstonsmith1897/GTPO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-23 41（+0）
+2026-10-18 41 → 2026-10-24 41（+0）
 
 
 ---

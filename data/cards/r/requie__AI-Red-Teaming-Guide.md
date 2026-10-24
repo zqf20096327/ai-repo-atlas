@@ -1,6 +1,6 @@
 # requie/AI-Red-Teaming-Guide
 
-⭐ 998 · 推送 2026-10-11 · [GitHub](https://github.com/requie/AI-Red-Teaming-Guide) · 个人维护 · 中文 README
+⭐ 999 · 推送 2026-10-11 · [GitHub](https://github.com/requie/AI-Red-Teaming-Guide) · 个人维护 · 中文 README
 
 **AI 系统红队测试与安全评估的综合指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "requie/AI-Red-Teaming-Guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 984 --> 999
-    line [985, 989, 995, 998]
+    title "requie/AI-Red-Teaming-Guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 984 --> 1000
+    line [985, 989, 995, 998, 999]
 ```
 
-2026-10-18 985 → 2026-10-23 998（+13）
+2026-10-18 985 → 2026-10-24 999（+14）
 
 
 ---

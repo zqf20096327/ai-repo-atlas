@@ -1,6 +1,6 @@
 # symgraph/GhidrAssistMCP
 
-⭐ 779 · Java · MIT · 推送 2026-10-09 · [GitHub](https://github.com/symgraph/GhidrAssistMCP) · 个人维护
+⭐ 780 · Java · MIT · 推送 2026-10-09 · [GitHub](https://github.com/symgraph/GhidrAssistMCP) · 个人维护
 
 **为 Ghidra 提供 MCP 服务器的扩展：让 AI 助手操作逆向分析**
 
@@ -45,13 +45,13 @@ Ghidra 扩展，内嵌 Model Context Protocol 服务器（官方 SDK 实现，SS
 
 ```mermaid
 xychart-beta
-    title "symgraph/GhidrAssistMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 775 --> 780
-    line [776, 777, 779]
+    title "symgraph/GhidrAssistMCP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 775 --> 781
+    line [776, 777, 779, 780]
 ```
 
-2026-10-18 776 → 2026-10-23 779（+3）
+2026-10-18 776 → 2026-10-24 780（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # GetBindu/Bindu
 
-⭐ 10,039 · Python · NOASSERTION · 推送 2026-09-06 · [GitHub](https://github.com/GetBindu/Bindu) · [官网](https://docs.getbindu.com) · 组织维护
+⭐ 10,036 · Python · NOASSERTION · 推送 2026-09-06 · [GitHub](https://github.com/GetBindu/Bindu) · [官网](https://docs.getbindu.com) · 组织维护
 
 **AI agent 的身份、通信与支付基础设施层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GetBindu/Bindu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10038 --> 10056
-    line [10055, 10046, 10044, 10039]
+    title "GetBindu/Bindu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10035 --> 10056
+    line [10055, 10046, 10044, 10039, 10036]
 ```
 
-2026-10-18 10,055 → 2026-10-23 10,039（-16）
+2026-10-18 10,055 → 2026-10-24 10,036（-19）
 
 
 ---

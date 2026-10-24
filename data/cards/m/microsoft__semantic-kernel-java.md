@@ -1,6 +1,6 @@
 # microsoft/semantic-kernel-java
 
-⭐ 276 · Java · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/semantic-kernel-java) · 组织维护
+⭐ 276 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/semantic-kernel-java) · 组织维护
 
 **面向 Java 开发者的 LLM 编排 SDK：插件链式调用与 AI 规划**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/semantic-kernel-java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 275 --> 277
     line [276, 276]
 ```
 
-2026-10-18 276 → 2026-10-23 276（+0）
+2026-10-18 276 → 2026-10-24 276（+0）
 
 
 ---

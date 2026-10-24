@@ -1,6 +1,6 @@
 # elkimek/get-based
 
-⭐ 148 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/elkimek/get-based) · [官网](https://getbased.health) · 个人维护
+⭐ 148 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/elkimek/get-based) · [官网](https://getbased.health) · 个人维护
 
 **本地优先的个人健康仪表盘：化验、DNA、可穿戴与光照数据整合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "elkimek/get-based 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "elkimek/get-based 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 144 --> 149
-    line [145, 146, 147, 148]
+    line [145, 146, 147, 148, 148]
 ```
 
-2026-10-18 145 → 2026-10-23 148（+3）
+2026-10-18 145 → 2026-10-24 148（+3）
 
 
 ---

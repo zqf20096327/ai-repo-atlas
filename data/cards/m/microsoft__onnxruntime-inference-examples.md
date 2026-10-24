@@ -1,6 +1,6 @@
 # microsoft/onnxruntime-inference-examples
 
-⭐ 1,698 · C++ · MIT · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/onnxruntime-inference-examples) · 组织维护
+⭐ 1,700 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/onnxruntime-inference-examples) · 组织维护
 
 **微软官方 ONNX Runtime 推理示例代码集（多语言）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/onnxruntime-inference-examples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1694 --> 1699
-    line [1695, 1697, 1698]
+    title "microsoft/onnxruntime-inference-examples 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1694 --> 1701
+    line [1695, 1697, 1698, 1700]
 ```
 
-2026-10-18 1,695 → 2026-10-23 1,698（+3）
+2026-10-18 1,695 → 2026-10-24 1,700（+5）
 
 
 ---

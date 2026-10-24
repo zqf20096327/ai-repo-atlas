@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "khairulislam/ML-conferences 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "khairulislam/ML-conferences 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 259 --> 263
-    line [260, 262]
+    line [260, 262, 262]
 ```
 
-2026-10-18 260 → 2026-10-23 262（+2）
+2026-10-18 260 → 2026-10-24 262（+2）
 
 
 ---

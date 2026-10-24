@@ -1,6 +1,6 @@
 # s60sc/ESP32-CAM_MJPEG2SD
 
-⭐ 1,765 · C++ · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) · 个人维护
+⭐ 1,765 · C++ · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) · 个人维护
 
 **ESP32 摄像头应用：运动检测录像存 SD 卡并串流到浏览器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "s60sc/ESP32-CAM_MJPEG2SD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "s60sc/ESP32-CAM_MJPEG2SD 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1762 --> 1767
-    line [1763, 1766, 1765]
+    line [1763, 1766, 1765, 1765]
 ```
 
-2026-10-18 1,763 → 2026-10-23 1,765（+2）
+2026-10-18 1,763 → 2026-10-24 1,765（+2）
 
 
 ---

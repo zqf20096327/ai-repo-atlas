@@ -1,6 +1,6 @@
 # aimeoa/hanshuang-codex
 
-⭐ 382 · Lua · 推送 2026-10-17 · [GitHub](https://github.com/aimeoa/hanshuang-codex) · 个人维护 · 中文 README
+⭐ 410 · Lua · 推送 2026-10-17 · [GitHub](https://github.com/aimeoa/hanshuang-codex) · 个人维护 · 中文 README
 
 **面向九个 AI 编程工具的提示词注入管理桌面工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aimeoa/hanshuang-codex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 131 --> 404
-    line [153, 260, 338, 382]
+    title "aimeoa/hanshuang-codex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 128 --> 435
+    line [153, 260, 338, 382, 410]
 ```
 
-2026-10-18 153 → 2026-10-23 382（+229）
+2026-10-18 153 → 2026-10-24 410（+257）
 
 
 ---

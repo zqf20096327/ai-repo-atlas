@@ -1,6 +1,6 @@
 # zoicware/RemoveWindowsAI
 
-⭐ 13,427 · PowerShell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zoicware/RemoveWindowsAI) · 个人维护
+⭐ 13,460 · PowerShell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zoicware/RemoveWindowsAI) · 个人维护
 
 **给 Windows 11 用户移除 Copilot、Recall 等 AI 组件的 PowerShell 脚本**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "zoicware/RemoveWindowsAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13372 --> 13432
-    line [13377, 13402, 13410, 13427]
+    title "zoicware/RemoveWindowsAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13369 --> 13468
+    line [13377, 13402, 13410, 13427, 13460]
 ```
 
-2026-10-18 13,377 → 2026-10-23 13,427（+50）
+2026-10-18 13,377 → 2026-10-24 13,460（+83）
 
 
 ---

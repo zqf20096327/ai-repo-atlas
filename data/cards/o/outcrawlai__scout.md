@@ -1,6 +1,6 @@
 # outcrawlai/scout
 
-⭐ 941 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/outcrawlai/scout) · [官网](https://outcrawl.ai) · 组织维护
+⭐ 942 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/outcrawlai/scout) · [官网](https://outcrawl.ai) · 组织维护
 
 **开源浏览器代理：用自然语言任务驱动真实浏览器完成操作**
 
@@ -44,13 +44,13 @@ TypeScript 实现的开源 agent，通过 CDP 驱动真实 Chrome/Chromium 浏�
 
 ```mermaid
 xychart-beta
-    title "outcrawlai/scout 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "outcrawlai/scout 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 927 --> 963
-    line [930, 949, 960, 941]
+    line [930, 949, 960, 941, 942]
 ```
 
-2026-10-18 930 → 2026-10-23 941（+11）
+2026-10-18 930 → 2026-10-24 942（+12）
 
 
 ---

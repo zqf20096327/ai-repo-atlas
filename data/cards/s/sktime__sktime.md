@@ -1,6 +1,6 @@
 # sktime/sktime
 
-⭐ 10,073 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/sktime/sktime) · [官网](https://www.sktime.net) · 组织维护
+⭐ 10,074 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/sktime/sktime) · [官网](https://www.sktime.net) · 组织维护
 
 **Python 时间序列机器学习统一框架：预测/分类/聚类/检测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sktime/sktime 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10068 --> 10074
-    line [10069, 10071, 10073]
+    title "sktime/sktime 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10068 --> 10075
+    line [10069, 10071, 10073, 10074]
 ```
 
-2026-10-18 10,069 → 2026-10-23 10,073（+4）
+2026-10-18 10,069 → 2026-10-24 10,074（+5）
 
 
 ---

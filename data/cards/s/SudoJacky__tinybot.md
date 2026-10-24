@@ -1,6 +1,6 @@
 # SudoJacky/tinybot
 
-⭐ 152 · Rust · MIT · 推送 2026-10-09 · [GitHub](https://github.com/SudoJacky/tinybot) · [官网](https://sudojacky.github.io/tinybot/) · 个人维护 · 中文 README
+⭐ 153 · Rust · MIT · 推送 2026-10-09 · [GitHub](https://github.com/SudoJacky/tinybot) · [官网](https://sudojacky.github.io/tinybot/) · 个人维护 · 中文 README
 
 **桌面端个人 AI 助手：对话+原生工具+插件+Agent Graph**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SudoJacky/tinybot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 150 --> 153
-    line [151, 152, 152]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 150 --> 154
+    line [151, 152, 153]
 ```
 
-2026-10-18 151 → 2026-10-23 152（+1）
+2026-10-18 151 → 2026-10-24 153（+2）
 
 
 ---

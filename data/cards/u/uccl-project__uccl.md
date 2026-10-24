@@ -1,6 +1,6 @@
 # uccl-project/uccl
 
-⭐ 1,550 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/uccl-project/uccl) · [官网](https://uccl-project.github.io/) · 组织维护
+⭐ 1,552 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/uccl-project/uccl) · [官网](https://uccl-project.github.io/) · 组织维护
 
 **面向 GPU 集合通信/P2P/EP 的通信库，可替换 NCCL/RCCL**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "uccl-project/uccl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1543 --> 1551
-    line [1544, 1545, 1549, 1550]
+    title "uccl-project/uccl 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1543 --> 1553
+    line [1544, 1545, 1549, 1550, 1552]
 ```
 
-2026-10-18 1,544 → 2026-10-23 1,550（+6）
+2026-10-18 1,544 → 2026-10-24 1,552（+8）
 
 
 ---

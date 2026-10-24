@@ -1,6 +1,6 @@
 # hardhackerlabs/book
 
-⭐ 1,376 · MDX · 推送 2026-08-08 · [GitHub](https://github.com/hardhackerlabs/book) · [官网](https://t.zsxq.com/19SKbmflB) · 组织维护 · 中文 README
+⭐ 1,375 · MDX · 推送 2026-08-08 · [GitHub](https://github.com/hardhackerlabs/book) · [官网](https://t.zsxq.com/19SKbmflB) · 组织维护 · 中文 README
 
 **记录 Podwise 产品历程的独立开发者实践书籍**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hardhackerlabs/book 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "hardhackerlabs/book 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1372 --> 1377
-    line [1373, 1375, 1376]
+    line [1373, 1375, 1376, 1375]
 ```
 
-2026-10-18 1,373 → 2026-10-23 1,376（+3）
+2026-10-18 1,373 → 2026-10-24 1,375（+2）
 
 
 ---

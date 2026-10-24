@@ -1,6 +1,6 @@
 # GeostatsGuy/PythonNumericalDemos
 
-⭐ 1,474 · Jupyter Notebook · MIT · 推送 2026-03-03 · [GitHub](https://github.com/GeostatsGuy/PythonNumericalDemos) · 组织维护
+⭐ 1,473 · Jupyter Notebook · MIT · 推送 2026-03-03 · [GitHub](https://github.com/GeostatsGuy/PythonNumericalDemos) · 组织维护
 
 **面向教学的地理统计与机器学习 Python 演示代码集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GeostatsGuy/PythonNumericalDemos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1473 --> 1476
-    line [1474, 1475, 1474, 1474]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1472 --> 1476
+    line [1474, 1475, 1474, 1473]
 ```
 
-2026-10-18 1,474 → 2026-10-23 1,474（+0）
+2026-10-18 1,474 → 2026-10-24 1,473（-1）
 
 
 ---

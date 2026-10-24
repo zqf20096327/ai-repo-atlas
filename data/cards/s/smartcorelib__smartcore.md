@@ -1,6 +1,6 @@
 # smartcorelib/smartcore
 
-⭐ 969 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/smartcorelib/smartcore) · [官网](https://smartcorelib.github.io) · 组织维护
+⭐ 969 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/smartcorelib/smartcore) · [官网](https://smartcorelib.github.io) · 组织维护
 
 **面向 Rust 的经典机器学习算法库，覆盖分类/聚类/回归**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smartcorelib/smartcore 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "smartcorelib/smartcore 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 965 --> 970
-    line [966, 967, 968, 969]
+    line [966, 967, 968, 969, 969]
 ```
 
-2026-10-18 966 → 2026-10-23 969（+3）
+2026-10-18 966 → 2026-10-24 969（+3）
 
 
 ---

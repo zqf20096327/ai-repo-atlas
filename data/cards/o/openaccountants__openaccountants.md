@@ -1,6 +1,6 @@
 # openaccountants/openaccountants
 
-⭐ 457 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/openaccountants/openaccountants) · [官网](https://www.openaccountants.com/connect) · 组织维护
+⭐ 459 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/openaccountants/openaccountants) · [官网](https://www.openaccountants.com/connect) · 组织维护
 
 **190+ 国家税法 AI 技能库：AI 回答税务问题时可引用并标注审查状态**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openaccountants/openaccountants 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 445 --> 458
-    line [446, 453, 455, 457]
+    title "openaccountants/openaccountants 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 445 --> 460
+    line [446, 453, 455, 457, 459]
 ```
 
-2026-10-18 446 → 2026-10-23 457（+11）
+2026-10-18 446 → 2026-10-24 459（+13）
 
 
 ---

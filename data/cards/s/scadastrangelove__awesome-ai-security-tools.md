@@ -1,6 +1,6 @@
 # scadastrangelove/awesome-ai-security-tools
 
-⭐ 1,676 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/scadastrangelove/awesome-ai-security-tools) · 个人维护
+⭐ 1,678 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/scadastrangelove/awesome-ai-security-tools) · 个人维护
 
 **AI 安全工具策展清单：收录 AI/agent 安全与 AI 辅助安全工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "scadastrangelove/awesome-ai-security-tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1661 --> 1677
-    line [1662, 1668, 1676]
+    title "scadastrangelove/awesome-ai-security-tools 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1661 --> 1679
+    line [1662, 1668, 1676, 1678]
 ```
 
-2026-10-18 1,662 → 2026-10-23 1,676（+14）
+2026-10-18 1,662 → 2026-10-24 1,678（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # AgentSwarms-fyi/agentswarms
 
-⭐ 280 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/AgentSwarms-fyi/agentswarms) · [官网](https://agentswarms.fyi) · 组织维护
+⭐ 280 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AgentSwarms-fyi/agentswarms) · [官网](https://agentswarms.fyi) · 组织维护
 
 **自托管的 Agentic AI 与数据一体化平台（代理+湖仓+BI+ML）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgentSwarms-fyi/agentswarms 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 274 --> 281
     line [275, 278, 280, 280]
 ```
 
-2026-10-18 275 → 2026-10-23 280（+5）
+2026-10-18 275 → 2026-10-24 280（+5）
 
 
 ---

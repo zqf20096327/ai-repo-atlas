@@ -1,6 +1,6 @@
 # Upsonic/Upsonic
 
-⭐ 7,962 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Upsonic/Upsonic) · [官网](https://docs.upsonic.ai) · 组织维护
+⭐ 7,963 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Upsonic/Upsonic) · [官网](https://docs.upsonic.ai) · 组织维护
 
 **Python 自主 Agent 构建框架，含 OCR 与预置 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Upsonic/Upsonic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7957 --> 7963
-    line [7958, 7959, 7962, 7962]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 7957 --> 7964
+    line [7958, 7959, 7962, 7963]
 ```
 
-2026-10-18 7,958 → 2026-10-23 7,962（+4）
+2026-10-18 7,958 → 2026-10-24 7,963（+5）
 
 
 ---

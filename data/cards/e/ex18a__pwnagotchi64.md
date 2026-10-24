@@ -1,6 +1,6 @@
 # ex18a/pwnagotchi64
 
-⭐ 122 · JavaScript · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/ex18a/pwnagotchi64) · 个人维护
+⭐ 121 · JavaScript · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/ex18a/pwnagotchi64) · 个人维护
 
 **在树莓派上用强化学习自动调优 WiFi 审计工具 bettercap 的便携设备镜像**
 
@@ -45,12 +45,12 @@ Pwnagotchi 的 64 位分支：底层 WiFi 攻击（去认证、关联、抓握�
 ```mermaid
 xychart-beta
     title "ex18a/pwnagotchi64 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 121 --> 123
-    line [122, 122]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 120 --> 123
+    line [122, 121]
 ```
 
-2026-10-18 122 → 2026-10-23 122（+0）
+2026-10-18 122 → 2026-10-24 121（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # unsplash/datasets
 
-⭐ 2,803 · Jupyter Notebook · 推送 2026-06-26 · [GitHub](https://github.com/unsplash/datasets) · [官网](https://unsplash.com/data) · 组织维护
+⭐ 2,804 · Jupyter Notebook · 推送 2026-06-26 · [GitHub](https://github.com/unsplash/datasets) · [官网](https://unsplash.com/data) · 组织维护
 
 **面向研究与机器学习的 Unsplash 图片数据集（740万+照片）**
 
@@ -45,12 +45,12 @@ Unsplash 官方发布的图像与搜索行为数据集：由 41.5 万+摄影师�
 ```mermaid
 xychart-beta
     title "unsplash/datasets 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2800 --> 2804
-    line [2801, 2802, 2803, 2803]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 2800 --> 2805
+    line [2801, 2802, 2803, 2804]
 ```
 
-2026-10-18 2,801 → 2026-10-23 2,803（+2）
+2026-10-18 2,801 → 2026-10-24 2,804（+3）
 
 
 ---

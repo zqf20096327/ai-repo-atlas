@@ -1,6 +1,6 @@
 # martian56/redcell
 
-⭐ 346 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/martian56/redcell) · 个人维护
+⭐ 347 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/martian56/redcell) · 个人维护
 
 **LLM 多智能体端到端执行渗透测试并生成报告的平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "martian56/redcell 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 342 --> 347
-    line [343, 346]
+    title "martian56/redcell 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 342 --> 348
+    line [343, 346, 347]
 ```
 
-2026-10-18 343 → 2026-10-23 346（+3）
+2026-10-18 343 → 2026-10-24 347（+4）
 
 
 ---

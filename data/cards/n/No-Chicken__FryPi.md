@@ -1,6 +1,6 @@
 # No-Chicken/FryPi
 
-⭐ 390 · C · GPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/No-Chicken/FryPi) · 个人维护 · 中文 README
+⭐ 391 · C · GPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/No-Chicken/FryPi) · 个人维护 · 中文 README
 
 **基于 STM32F411RET6 的迷你开发板，面向 AI 与 UI 嵌入式开发**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "No-Chicken/FryPi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 386 --> 391
-    line [387, 388, 389, 390]
+    title "No-Chicken/FryPi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 386 --> 392
+    line [387, 388, 389, 390, 391]
 ```
 
-2026-10-18 387 → 2026-10-23 390（+3）
+2026-10-18 387 → 2026-10-24 391（+4）
 
 
 ---

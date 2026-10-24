@@ -1,6 +1,6 @@
 # agenvoy/Agenvoy
 
-⭐ 505 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/agenvoy/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
+⭐ 523 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/agenvoy/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
 
 **本地自托管 24/7 个人 AI 代理运行器（Go 单二进制）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agenvoy/Agenvoy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 447 --> 510
-    line [452, 457, 479, 505]
+    title "agenvoy/Agenvoy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 445 --> 530
+    line [452, 457, 479, 505, 523]
 ```
 
-2026-10-18 452 → 2026-10-23 505（+53）
+2026-10-18 452 → 2026-10-24 523（+71）
 
 
 ---

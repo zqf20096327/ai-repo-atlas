@@ -1,6 +1,6 @@
 # mrmps/pdf2md
 
-⭐ 381 · TypeScript · 推送 2026-07-04 · [GitHub](https://github.com/mrmps/pdf2md) · [官网](https://www.pdftomarkdown.co) · 个人维护
+⭐ 382 · TypeScript · 推送 2026-07-04 · [GitHub](https://github.com/mrmps/pdf2md) · [官网](https://www.pdftomarkdown.co) · 个人维护
 
 **浏览器本地运行的 PDF 转 Markdown 工具，无文件上传**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mrmps/pdf2md 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 379 --> 382
-    line [380, 381, 381]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 379 --> 383
+    line [380, 381, 382]
 ```
 
-2026-10-18 380 → 2026-10-23 381（+1）
+2026-10-18 380 → 2026-10-24 382（+2）
 
 
 ---

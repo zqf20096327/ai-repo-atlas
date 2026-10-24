@@ -1,6 +1,6 @@
 # FengZhenfei/carrel
 
-⭐ 462 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/FengZhenfei/carrel) · 个人维护 · 中文 README
+⭐ 463 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/FengZhenfei/carrel) · 个人维护 · 中文 README
 
 **面向 AI agent 的自托管知识库：文档解析、索引与检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FengZhenfei/carrel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 134 --> 491
-    line [163, 312, 373, 462]
+    title "FengZhenfei/carrel 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 133 --> 493
+    line [163, 312, 373, 462, 463]
 ```
 
-2026-10-18 163 → 2026-10-23 462（+299）
+2026-10-18 163 → 2026-10-24 463（+300）
 
 
 ---

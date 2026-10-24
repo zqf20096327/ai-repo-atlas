@@ -1,6 +1,6 @@
 # atopos31/llmio
 
-⭐ 322 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/atopos31/llmio) · 个人维护 · 中文 README
+⭐ 321 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/atopos31/llmio) · 个人维护 · 中文 README
 
 **统一 LLM 网关：权重负载均衡、可观测性与费用追踪**
 
@@ -44,13 +44,13 @@ Go 实现的 LLM 负载均衡网关，对外提供兼容 OpenAI / Anthropic / Ge
 
 ```mermaid
 xychart-beta
-    title "atopos31/llmio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "atopos31/llmio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 318 --> 323
-    line [319, 321, 322]
+    line [319, 321, 322, 321]
 ```
 
-2026-10-18 319 → 2026-10-23 322（+3）
+2026-10-18 319 → 2026-10-24 321（+2）
 
 
 ---

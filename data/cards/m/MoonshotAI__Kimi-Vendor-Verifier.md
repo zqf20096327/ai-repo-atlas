@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-Vendor-Verifier
 
-⭐ 184 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/MoonshotAI/Kimi-Vendor-Verifier) · 组织维护 · 中文 README
+⭐ 185 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/MoonshotAI/Kimi-Vendor-Verifier) · 组织维护 · 中文 README
 
 **为 Kimi 模型的各供应商 API 部署做验收评测的基准套件**
 
@@ -46,12 +46,12 @@ MoonshotAI 维护的评测与预检验证工具集，用于核验第三方供应
 ```mermaid
 xychart-beta
     title "MoonshotAI/Kimi-Vendor-Verifier 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 182 --> 185
-    line [183, 184, 184]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 182 --> 186
+    line [183, 184, 185]
 ```
 
-2026-10-18 183 → 2026-10-23 184（+1）
+2026-10-18 183 → 2026-10-24 185（+2）
 
 
 ---

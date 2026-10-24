@@ -1,6 +1,6 @@
 # streamlit/streamlit
 
-⭐ 46,069 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/streamlit/streamlit) · [官网](https://streamlit.io) · 组织维护
+⭐ 46,079 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/streamlit/streamlit) · [官网](https://streamlit.io) · 组织维护
 
 **让开发者用 Python 脚本快速构建和分享数据应用**
 
@@ -52,13 +52,13 @@ Streamlit 将 Python 脚本转换为交互式 Web 应用的框架：提供输入
 
 ```mermaid
 xychart-beta
-    title "streamlit/streamlit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 46016 --> 46079
-    line [46021, 46047, 46074, 46069]
+    title "streamlit/streamlit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 46016 --> 46084
+    line [46021, 46047, 46074, 46069, 46079]
 ```
 
-2026-10-18 46,021 → 2026-10-23 46,069（+48）
+2026-10-18 46,021 → 2026-10-24 46,079（+58）
 
 
 ---

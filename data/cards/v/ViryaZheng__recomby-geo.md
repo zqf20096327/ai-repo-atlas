@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ViryaZheng/recomby-geo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "ViryaZheng/recomby-geo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 457 --> 460
-    line [459, 458]
+    line [459, 458, 458]
 ```
 
-2026-10-18 459 → 2026-10-23 458（-1）
+2026-10-18 459 → 2026-10-24 458（-1）
 
 
 ---

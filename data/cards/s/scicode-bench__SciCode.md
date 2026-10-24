@@ -1,6 +1,6 @@
 # scicode-bench/SciCode
 
-⭐ 244 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/scicode-bench/SciCode) · 组织维护
+⭐ 246 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/scicode-bench/SciCode) · 组织维护
 
 **科学家标注的科研编程基准：评测 LM 解决科学研究问题的能力**
 
@@ -45,13 +45,13 @@ SciCode 是评测语言模型科研编程能力的基准：80 个来自真实研
 
 ```mermaid
 xychart-beta
-    title "scicode-bench/SciCode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 240 --> 245
-    line [241, 243, 244]
+    title "scicode-bench/SciCode 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 240 --> 247
+    line [241, 243, 244, 246]
 ```
 
-2026-10-18 241 → 2026-10-23 244（+3）
+2026-10-18 241 → 2026-10-24 246（+5）
 
 
 ---

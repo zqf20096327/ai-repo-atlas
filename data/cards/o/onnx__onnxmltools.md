@@ -1,6 +1,6 @@
 # onnx/onnxmltools
 
-⭐ 1,174 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/onnx/onnxmltools) · [官网](https://onnx.ai) · 组织维护
+⭐ 1,174 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/onnx/onnxmltools) · [官网](https://onnx.ai) · 组织维护
 
 **将各类机器学习框架模型转换为 ONNX 格式的 Python 库**
 
@@ -44,12 +44,12 @@ ONNX 官方生态的模型转换工具：把 TensorFlow、scikit-learn、Core ML
 ```mermaid
 xychart-beta
     title "onnx/onnxmltools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 1173 --> 1175
     line [1174, 1174]
 ```
 
-2026-10-18 1,174 → 2026-10-23 1,174（+0）
+2026-10-18 1,174 → 2026-10-24 1,174（+0）
 
 
 ---

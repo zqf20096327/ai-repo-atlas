@@ -1,6 +1,6 @@
 # kyegomez/swarms-pytorch
 
-⭐ 156 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/kyegomez/swarms-pytorch) · [官网](https://swarmstorch.readthedocs.io/en/latest/) · 组织维护
+⭐ 157 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/kyegomez/swarms-pytorch) · [官网](https://swarmstorch.readthedocs.io/en/latest/) · 组织维护
 
 **PyTorch 群体智能算法与模型架构库，供开发者与研究使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/swarms-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 155 --> 157
-    line [156, 156]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 155 --> 158
+    line [156, 157]
 ```
 
-2026-10-18 156 → 2026-10-23 156（+0）
+2026-10-18 156 → 2026-10-24 157（+1）
 
 
 ---

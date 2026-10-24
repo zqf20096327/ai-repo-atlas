@@ -1,6 +1,6 @@
 # thuml/OpenLTM
 
-⭐ 565 · Jupyter Notebook · MIT · 推送 2026-03-22 · [GitHub](https://github.com/thuml/OpenLTM) · 组织维护 · 中文 README
+⭐ 567 · Jupyter Notebook · MIT · 推送 2026-03-22 · [GitHub](https://github.com/thuml/OpenLTM) · 组织维护 · 中文 README
 
 **大型时间序列模型的实现、预训练代码与数据集代码库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thuml/OpenLTM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 564 --> 567
-    line [565, 566, 565, 565]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 564 --> 568
+    line [565, 566, 565, 567]
 ```
 
-2026-10-18 565 → 2026-10-23 565（+0）
+2026-10-18 565 → 2026-10-24 567（+2）
 
 
 ---

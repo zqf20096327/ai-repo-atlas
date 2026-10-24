@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wassim249/fastapi-langgraph-agent-production-ready-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "wassim249/fastapi-langgraph-agent-production-ready-template 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2704 --> 2719
-    line [2705, 2711, 2714, 2718]
+    line [2705, 2711, 2714, 2718, 2718]
 ```
 
-2026-10-18 2,705 → 2026-10-23 2,718（+13）
+2026-10-18 2,705 → 2026-10-24 2,718（+13）
 
 
 ---

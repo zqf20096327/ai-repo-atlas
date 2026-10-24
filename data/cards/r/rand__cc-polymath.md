@@ -1,6 +1,6 @@
 # rand/cc-polymath
 
-⭐ 189 · Python · MIT · 推送 2026-02-28 · [GitHub](https://github.com/rand/cc-polymath) · 个人维护
+⭐ 188 · Python · MIT · 推送 2026-02-28 · [GitHub](https://github.com/rand/cc-polymath) · 个人维护
 
 **面向 Claude Code 的 410+ 原子开发技能库与渐进式发现插件**
 
@@ -45,12 +45,12 @@ Claude Code 插件，收录 410+ 个自包含的原子技能，覆盖后端/前�
 ```mermaid
 xychart-beta
     title "rand/cc-polymath 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 183 --> 190
-    line [184, 188, 189, 189]
+    line [184, 188, 189, 188]
 ```
 
-2026-10-18 184 → 2026-10-23 189（+5）
+2026-10-18 184 → 2026-10-24 188（+4）
 
 
 ---

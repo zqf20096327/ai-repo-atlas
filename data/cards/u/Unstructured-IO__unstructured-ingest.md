@@ -42,12 +42,12 @@ Unstructured-IO 维护的摄取（ingest）工具，用于从各类数据源读�
 ```mermaid
 xychart-beta
     title "Unstructured-IO/unstructured-ingest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 108 --> 110
     line [109, 109]
 ```
 
-2026-10-18 109 → 2026-10-23 109（+0）
+2026-10-18 109 → 2026-10-24 109（+0）
 
 
 ---

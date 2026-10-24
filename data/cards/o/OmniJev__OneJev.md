@@ -1,6 +1,6 @@
 # OmniJev/OneJev
 
-⭐ 185 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/OmniJev/OneJev) · [官网](https://omnijev.github.io/OneJev/) · 组织维护 · 中文 README
+⭐ 188 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/OmniJev/OneJev) · [官网](https://omnijev.github.io/OneJev/) · 组织维护 · 中文 README
 
 **多模态决策模型：对屏幕/图片/视频/文本给出校准概率答案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OmniJev/OneJev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 171 --> 186
-    line [172, 176, 180, 185]
+    title "OmniJev/OneJev 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 171 --> 189
+    line [172, 176, 180, 185, 188]
 ```
 
-2026-10-18 172 → 2026-10-23 185（+13）
+2026-10-18 172 → 2026-10-24 188（+16）
 
 
 ---

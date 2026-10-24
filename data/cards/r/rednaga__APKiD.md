@@ -1,6 +1,6 @@
 # rednaga/APKiD
 
-⭐ 2,600 · YARA · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/rednaga/APKiD) · 个人维护
+⭐ 2,601 · YARA · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/rednaga/APKiD) · 个人维护
 
 **识别 APK 编译器/加壳/混淆工具的静态分析工具**
 
@@ -44,13 +44,13 @@ APKiD 对 Android APK/DEX 文件做静态识别，输出其使用的编译器、
 
 ```mermaid
 xychart-beta
-    title "rednaga/APKiD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "rednaga/APKiD 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2599 --> 2602
-    line [2600, 2601, 2600]
+    line [2600, 2601, 2600, 2601]
 ```
 
-2026-10-18 2,600 → 2026-10-23 2,600（+0）
+2026-10-18 2,600 → 2026-10-24 2,601（+1）
 
 
 ---

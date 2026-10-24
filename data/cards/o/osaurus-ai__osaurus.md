@@ -1,6 +1,6 @@
 # osaurus-ai/osaurus
 
-⭐ 8,067 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/osaurus-ai/osaurus) · [官网](https://osaurus.ai) · 组织维护
+⭐ 8,073 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/osaurus-ai/osaurus) · [官网](https://osaurus.ai) · 组织维护
 
 **macOS 原生 AI agent 平台：本地/云端模型加持久记忆与沙箱执行**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "osaurus-ai/osaurus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 8054 --> 8068
-    line [8055, 8056, 8067]
+    title "osaurus-ai/osaurus 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8054 --> 8074
+    line [8055, 8056, 8067, 8073]
 ```
 
-2026-10-18 8,055 → 2026-10-23 8,067（+12）
+2026-10-18 8,055 → 2026-10-24 8,073（+18）
 
 
 ---

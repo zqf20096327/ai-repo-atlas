@@ -44,13 +44,13 @@ MLCommons 维护的存储基准套件，用 mlpstorage CLI 与基于 DLIO 的 I/
 
 ```mermaid
 xychart-beta
-    title "mlcommons/storage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "mlcommons/storage 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 205 --> 208
-    line [206, 207]
+    line [206, 207, 207]
 ```
 
-2026-10-18 206 → 2026-10-23 207（+1）
+2026-10-18 206 → 2026-10-24 207（+1）
 
 
 ---

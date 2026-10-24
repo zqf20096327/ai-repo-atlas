@@ -1,6 +1,6 @@
 # lss233/kirara-ai
 
-⭐ 19,145 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/lss233/kirara-ai) · [官网](https://kirara-docs.app.lss233.com/) · 个人维护 · 中文 README
+⭐ 19,157 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/lss233/kirara-ai) · [官网](https://kirara-docs.app.lss233.com/) · 个人维护 · 中文 README
 
 **接入多平台多模型的可 DIY 聊天机器人**
 
@@ -39,6 +39,18 @@
 
 > L3:  一款支持主流大语言模型、主流聊天平台的聊天的机器人！
 > L64: * [x] 支持 OpenAI、DeepSeek、Claude、Gemini、Qwen、Mistral、豆包、Minimax、Kimi、Mistral 等主流大模型
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lss233/kirara-ai 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 19144 --> 19158
+    line [19145, 19157]
+```
+
+2026-10-23 19,145 → 2026-10-24 19,157（+12）
 
 
 ---

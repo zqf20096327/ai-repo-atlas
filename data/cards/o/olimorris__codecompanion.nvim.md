@@ -1,6 +1,6 @@
 # olimorris/codecompanion.nvim
 
-⭐ 6,900 · Lua · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/olimorris/codecompanion.nvim) · [官网](https://codecompanion.olimorris.dev) · 个人维护
+⭐ 6,902 · Lua · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/olimorris/codecompanion.nvim) · [官网](https://codecompanion.olimorris.dev) · 个人维护
 
 **Neovim 的 LLM/Agent 编程助手插件，接入多家模型与编码代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "olimorris/codecompanion.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 6898 --> 6901
-    line [6899, 6900]
+    title "olimorris/codecompanion.nvim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6898 --> 6903
+    line [6899, 6900, 6902]
 ```
 
-2026-10-18 6,899 → 2026-10-23 6,900（+1）
+2026-10-18 6,899 → 2026-10-24 6,902（+3）
 
 
 ---

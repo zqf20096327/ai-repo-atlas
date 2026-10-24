@@ -1,6 +1,6 @@
 # ShadowWalker2014/open-sunsama
 
-⭐ 109 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/ShadowWalker2014/open-sunsama) · [官网](https://opensunsama.com) · 个人维护
+⭐ 113 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/ShadowWalker2014/open-sunsama) · [官网](https://opensunsama.com) · 个人维护
 
 **开源每日计划器：看板、时间块、专注模式，可被 Claude/ChatGPT 通过 MCP 操控**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ShadowWalker2014/open-sunsama 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 103 --> 110
-    line [104, 108, 109, 109]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 103 --> 114
+    line [104, 108, 109, 113]
 ```
 
-2026-10-18 104 → 2026-10-23 109（+5）
+2026-10-18 104 → 2026-10-24 113（+9）
 
 
 ---

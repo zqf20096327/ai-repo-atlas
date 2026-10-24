@@ -1,6 +1,6 @@
 # civai-technologies/cursor-agent
 
-⭐ 136 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/civai-technologies/cursor-agent) · [官网](https://civai.co) · 组织维护
+⭐ 137 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/civai-technologies/cursor-agent) · [官网](https://civai.co) · 组织维护
 
 **Python 编码助手 Agent 框架：复刻 Cursor 式代码代理能力**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "civai-technologies/cursor-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 135 --> 137
-    line [136, 136]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 135 --> 138
+    line [136, 137]
 ```
 
-2026-10-18 136 → 2026-10-23 136（+0）
+2026-10-18 136 → 2026-10-24 137（+1）
 
 
 ---

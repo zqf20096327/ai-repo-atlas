@@ -1,6 +1,6 @@
 # kubeflow/kubeflow
 
-⭐ 15,921 · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/kubeflow/kubeflow) · [官网](https://www.kubeflow.org/) · 组织维护
+⭐ 15,922 · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/kubeflow/kubeflow) · [官网](https://www.kubeflow.org/) · 组织维护
 
 **面向 AI 从业者与管理员的云原生 AI 平台**
 
@@ -50,13 +50,13 @@ Kubeflow 是由模块化开源项目组成的 Kubernetes 原生技术栈，面�
 
 ```mermaid
 xychart-beta
-    title "kubeflow/kubeflow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 15912 --> 15922
-    line [15913, 15915, 15916, 15921]
+    title "kubeflow/kubeflow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 15912 --> 15923
+    line [15913, 15915, 15916, 15921, 15922]
 ```
 
-2026-10-18 15,913 → 2026-10-23 15,921（+8）
+2026-10-18 15,913 → 2026-10-24 15,922（+9）
 
 
 ---

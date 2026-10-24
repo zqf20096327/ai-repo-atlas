@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "webworn/openfoam-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "webworn/openfoam-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 120 --> 125
-    line [121, 124]
+    line [121, 124, 124]
 ```
 
-2026-10-18 121 → 2026-10-23 124（+3）
+2026-10-18 121 → 2026-10-24 124（+3）
 
 
 ---

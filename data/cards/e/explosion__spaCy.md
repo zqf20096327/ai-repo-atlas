@@ -1,6 +1,6 @@
 # explosion/spaCy
 
-⭐ 33,983 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/explosion/spaCy) · [官网](https://spacy.io) · 组织维护
+⭐ 33,987 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/explosion/spaCy) · [官网](https://spacy.io) · 组织维护
 
 **Python 开发者的工业级 NLP 处理库**
 
@@ -52,13 +52,13 @@ Python/Cython 编写的自然语言处理库，提供预训练流水线，支持
 
 ```mermaid
 xychart-beta
-    title "explosion/spaCy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 33966 --> 33984
-    line [33967, 33973, 33981, 33983]
+    title "explosion/spaCy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 33965 --> 33989
+    line [33967, 33973, 33981, 33983, 33987]
 ```
 
-2026-10-18 33,967 → 2026-10-23 33,983（+16）
+2026-10-18 33,967 → 2026-10-24 33,987（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # google/artemis
 
-⭐ 13,793 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/google/artemis) · 组织维护 · 中文 README
+⭐ 14,015 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/google/artemis) · 组织维护 · 中文 README
 
 **让 AI 助手与测试套件用自然语言驱动真机 Android 自动化**
 
@@ -45,13 +45,13 @@ Google 的 Android 自动化框架：将自然语言指令转化为跨应用 UI 
 
 ```mermaid
 xychart-beta
-    title "google/artemis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11971 --> 13958
-    line [12136, 12947, 13448, 13793]
+    title "google/artemis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11949 --> 14202
+    line [12136, 12947, 13448, 13793, 14015]
 ```
 
-2026-10-18 12,136 → 2026-10-23 13,793（+1,657）
+2026-10-18 12,136 → 2026-10-24 14,015（+1,879）
 
 
 ---

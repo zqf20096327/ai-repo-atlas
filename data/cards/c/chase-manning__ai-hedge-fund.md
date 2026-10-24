@@ -41,6 +41,18 @@
 > L16: - Passes that proposal through a deterministic risk gate. The model never sends an order.
 > L35:     D --> C[Claude<br/>targets, forecasts, theses]
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chase-manning/ai-hedge-fund 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 96 --> 98
+    line [97, 97]
+```
+
+2026-10-23 97 → 2026-10-24 97（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `5526f4d8a4ff` · [字段定义](../../DATASET.md)*

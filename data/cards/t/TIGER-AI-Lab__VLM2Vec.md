@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/VLM2Vec
 
-⭐ 695 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/TIGER-AI-Lab/VLM2Vec) · [官网](https://tiger-ai-lab.github.io/VLM2Vec/) · 组织维护
+⭐ 696 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/TIGER-AI-Lab/VLM2Vec) · [官网](https://tiger-ai-lab.github.io/VLM2Vec/) · 组织维护
 
 **全模态嵌入模型训练框架与 MMEB 系列评测基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TIGER-AI-Lab/VLM2Vec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 693 --> 696
-    line [694, 695, 695]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 693 --> 697
+    line [694, 695, 696]
 ```
 
-2026-10-18 694 → 2026-10-23 695（+1）
+2026-10-18 694 → 2026-10-24 696（+2）
 
 
 ---

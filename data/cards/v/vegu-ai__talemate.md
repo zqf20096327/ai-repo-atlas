@@ -1,6 +1,6 @@
 # vegu-ai/talemate
 
-⭐ 426 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/vegu-ai/talemate) · 组织维护
+⭐ 427 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/vegu-ai/talemate) · 组织维护
 
 **AI 角色扮演应用：叙事、世界状态追踪的多 agent 互动小说**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vegu-ai/talemate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 422 --> 427
-    line [423, 426]
+    title "vegu-ai/talemate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 422 --> 428
+    line [423, 426, 427]
 ```
 
-2026-10-18 423 → 2026-10-23 426（+3）
+2026-10-18 423 → 2026-10-24 427（+4）
 
 
 ---

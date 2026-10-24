@@ -1,6 +1,6 @@
 # zhuxian518/mcd-1024-skill
 
-⭐ 191 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zhuxian518/mcd-1024-skill) · 个人维护 · 中文 README
+⭐ 208 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zhuxian518/mcd-1024-skill) · 个人维护 · 中文 README
 
 **麦当劳点餐推荐 Skill：给一个答案，附本地记忆与价格指数**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhuxian518/mcd-1024-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 94 --> 199
-    line [102, 147, 179, 191]
+    title "zhuxian518/mcd-1024-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 92 --> 218
+    line [102, 147, 179, 191, 208]
 ```
 
-2026-10-18 102 → 2026-10-23 191（+89）
+2026-10-18 102 → 2026-10-24 208（+106）
 
 
 ---

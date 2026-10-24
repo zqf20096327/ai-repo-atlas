@@ -1,6 +1,6 @@
 # google-deepmind/open_x_embodiment
 
-⭐ 2,082 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-05 · [GitHub](https://github.com/google-deepmind/open_x_embodiment) · 组织维护
+⭐ 2,083 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-05 · [GitHub](https://github.com/google-deepmind/open_x_embodiment) · 组织维护
 
 **机器人操作数据集统一格式集合与 RT-1-X 模型检查点发布**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/open_x_embodiment 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2074 --> 2083
-    line [2075, 2076, 2078, 2082]
+    title "google-deepmind/open_x_embodiment 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2074 --> 2084
+    line [2075, 2076, 2078, 2082, 2083]
 ```
 
-2026-10-18 2,075 → 2026-10-23 2,082（+7）
+2026-10-18 2,075 → 2026-10-24 2,083（+8）
 
 
 ---

@@ -47,12 +47,12 @@ Python 库，用 Unit/Layer/Block 原语以依赖图方式组合多个 LLM 判�
 ```mermaid
 xychart-beta
     title "haizelabs/verdict 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 348 --> 350
     line [349, 349]
 ```
 
-2026-10-18 349 → 2026-10-23 349（+0）
+2026-10-18 349 → 2026-10-24 349（+0）
 
 
 ---

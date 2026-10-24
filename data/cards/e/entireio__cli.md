@@ -1,6 +1,6 @@
 # entireio/cli
 
-⭐ 5,202 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/entireio/cli) · [官网](https://entire.io) · 组织维护
+⭐ 5,210 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/entireio/cli) · [官网](https://entire.io) · 组织维护
 
 **随 Git 工作流捕获 AI agent 会话并按提交索引的工具**
 
@@ -46,13 +46,13 @@ Entire CLI 通过安装 git hooks 在开发者工作时后台捕获 AI agent 会
 
 ```mermaid
 xychart-beta
-    title "entireio/cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5186 --> 5203
-    line [5187, 5188, 5197, 5202]
+    title "entireio/cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5185 --> 5212
+    line [5187, 5188, 5197, 5202, 5210]
 ```
 
-2026-10-18 5,187 → 2026-10-23 5,202（+15）
+2026-10-18 5,187 → 2026-10-24 5,210（+23）
 
 
 ---

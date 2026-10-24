@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThyrixYang/awesome-artificial-intelligence-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 132 --> 134
     line [133, 133]
 ```
 
-2026-10-18 133 → 2026-10-23 133（+0）
+2026-10-18 133 → 2026-10-24 133（+0）
 
 
 ---

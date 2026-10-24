@@ -1,6 +1,6 @@
 # 0xranx/OpenContext
 
-⭐ 1,269 · JavaScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/0xranx/OpenContext) · [官网](https://0xranx.github.io/OpenContext/) · 个人维护 · 中文 README
+⭐ 1,270 · JavaScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/0xranx/OpenContext) · [官网](https://0xranx.github.io/OpenContext/) · 个人维护 · 中文 README
 
 **给编程 Agent 的个人上下文存储：跨项目持久记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "0xranx/OpenContext 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1267 --> 1270
-    line [1268, 1269, 1269]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 1267 --> 1271
+    line [1268, 1269, 1270]
 ```
 
-2026-10-18 1,268 → 2026-10-23 1,269（+1）
+2026-10-18 1,268 → 2026-10-24 1,270（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # christopherkarani/Swarm
 
-⭐ 584 · Swift · MIT · 推送 2026-10-02 · [GitHub](https://github.com/christopherkarani/Swarm) · [官网](https://christopherkarani.github.io/Swarm/) · 个人维护
+⭐ 585 · Swift · MIT · 推送 2026-10-02 · [GitHub](https://github.com/christopherkarani/Swarm) · [官网](https://christopherkarani.github.io/Swarm/) · 个人维护
 
 **Swift 原生 AI agent 运行时：类型安全工具与多 agent 工作流**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "christopherkarani/Swarm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 583 --> 585
-    line [584, 584]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 583 --> 586
+    line [584, 585]
 ```
 
-2026-10-18 584 → 2026-10-23 584（+0）
+2026-10-18 584 → 2026-10-24 585（+1）
 
 
 ---

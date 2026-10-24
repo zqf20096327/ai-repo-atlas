@@ -1,6 +1,6 @@
 # mediar-ai/terminator
 
-⭐ 1,657 · Rust · MIT · 推送 2026-06-02 · [GitHub](https://github.com/mediar-ai/terminator) · [官网](https://t8r.tech/) · 组织维护
+⭐ 1,658 · Rust · MIT · 推送 2026-06-02 · [GitHub](https://github.com/mediar-ai/terminator) · [官网](https://t8r.tech/) · 组织维护
 
 **让 AI 助手通过 MCP 控制整个 Windows 桌面的自动化框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mediar-ai/terminator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "mediar-ai/terminator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1654 --> 1659
-    line [1655, 1656, 1658, 1657]
+    line [1655, 1656, 1658, 1657, 1658]
 ```
 
-2026-10-18 1,655 → 2026-10-23 1,657（+2）
+2026-10-18 1,655 → 2026-10-24 1,658（+3）
 
 
 ---

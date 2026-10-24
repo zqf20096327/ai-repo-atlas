@@ -1,6 +1,6 @@
 # creativecommons/cc-signals
 
-⭐ 133 · CC-BY-4.0 · 推送 2025-12-04 · [GitHub](https://github.com/creativecommons/cc-signals) · [官网](https://creativecommons.org/ai-and-the-commons/cc-signals/) · 组织维护
+⭐ 134 · CC-BY-4.0 · 推送 2025-12-04 · [GitHub](https://github.com/creativecommons/cc-signals) · [官网](https://creativecommons.org/ai-and-the-commons/cc-signals/) · 组织维护
 
 **Creative Commons 提出的 AI 数据复用偏好信号规范草案**
 
@@ -45,12 +45,12 @@ CC signals 是 Creative Commons 发布的框架草案，供内容集合管理者
 ```mermaid
 xychart-beta
     title "creativecommons/cc-signals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 132 --> 134
-    line [133, 133]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 132 --> 135
+    line [133, 134]
 ```
 
-2026-10-18 133 → 2026-10-23 133（+0）
+2026-10-18 133 → 2026-10-24 134（+1）
 
 
 ---

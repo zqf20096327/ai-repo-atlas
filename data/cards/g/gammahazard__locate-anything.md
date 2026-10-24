@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gammahazard/locate-anything 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "gammahazard/locate-anything 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 163 --> 167
-    line [164, 166]
+    line [164, 166, 166]
 ```
 
-2026-10-18 164 → 2026-10-23 166（+2）
+2026-10-18 164 → 2026-10-24 166（+2）
 
 
 ---

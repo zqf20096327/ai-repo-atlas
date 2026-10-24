@@ -1,6 +1,6 @@
 # amd/gaia
 
-⭐ 1,596 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/amd/gaia) · [官网](https://github.com/amd/gaia) · 组织维护
+⭐ 1,597 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/amd/gaia) · [官网](https://github.com/amd/gaia) · 组织维护
 
 **AMD 开源本地 Agent 工厂：在 Ryzen AI 硬件上构建/运行本地智能体**
 
@@ -45,13 +45,13 @@ AMD 维护的开源 agent 框架，提供 Agent SDK（工具编排、状态管�
 
 ```mermaid
 xychart-beta
-    title "amd/gaia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "amd/gaia 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1585 --> 1598
-    line [1586, 1597, 1596]
+    line [1586, 1597, 1596, 1597]
 ```
 
-2026-10-18 1,586 → 2026-10-23 1,596（+10）
+2026-10-18 1,586 → 2026-10-24 1,597（+11）
 
 
 ---

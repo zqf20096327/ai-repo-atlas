@@ -1,6 +1,6 @@
 # microsoft/SkillLens
 
-⭐ 182 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/microsoft/SkillLens) · [官网](https://microsoft.github.io/SkillLens/) · 组织维护
+⭐ 183 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/microsoft/SkillLens) · [官网](https://microsoft.github.io/SkillLens/) · 组织维护
 
 **研究模型生成 agent 技能全生命周期的评测框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/SkillLens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 179 --> 183
-    line [180, 182]
+    title "microsoft/SkillLens 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 179 --> 184
+    line [180, 182, 183]
 ```
 
-2026-10-18 180 → 2026-10-23 182（+2）
+2026-10-18 180 → 2026-10-24 183（+3）
 
 
 ---

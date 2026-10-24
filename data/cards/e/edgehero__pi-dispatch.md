@@ -1,6 +1,6 @@
 # edgehero/pi-dispatch
 
-⭐ 184 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/edgehero/pi-dispatch) · 组织维护
+⭐ 186 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/edgehero/pi-dispatch) · 组织维护
 
 **把 pi 编码 agent 跑成自托管后台服务的队列与预算层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "edgehero/pi-dispatch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 182 --> 186
-    line [183, 184, 185, 184]
+    title "edgehero/pi-dispatch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 182 --> 187
+    line [183, 184, 185, 184, 186]
 ```
 
-2026-10-18 183 → 2026-10-23 184（+1）
+2026-10-18 183 → 2026-10-24 186（+3）
 
 
 ---

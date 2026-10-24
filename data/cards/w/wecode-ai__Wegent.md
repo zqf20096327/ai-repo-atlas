@@ -1,6 +1,6 @@
 # wecode-ai/Wegent
 
-⭐ 874 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/wecode-ai/Wegent) · [官网](https://wecode-ai.github.io/wegent-docs) · 组织维护 · 中文 README
+⭐ 877 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/wecode-ai/Wegent) · [官网](https://wecode-ai.github.io/wegent-docs) · 组织维护 · 中文 README
 
 **面向开发团队的自托管 AI 编码工作台（桌面+Web）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wecode-ai/Wegent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 871 --> 875
-    line [872, 874, 874]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 871 --> 878
+    line [872, 874, 877]
 ```
 
-2026-10-18 872 → 2026-10-23 874（+2）
+2026-10-18 872 → 2026-10-24 877（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # datawhalechina/easy-vecdb
 
-⭐ 425 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/datawhalechina/easy-vecdb) · [官网](https://datawhalechina.github.io/easy-vecdb/) · 组织维护 · 中文 README
+⭐ 427 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/datawhalechina/easy-vecdb) · [官网](https://datawhalechina.github.io/easy-vecdb/) · 组织维护 · 中文 README
 
 **面向开发者与研究者的向量数据库原理与实践系统教程**
 
@@ -45,13 +45,13 @@ Datawhale 维护的中文开源教程项目，覆盖向量数据库原理、嵌�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/easy-vecdb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 419 --> 426
-    line [420, 421, 423, 425]
+    title "datawhalechina/easy-vecdb 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 419 --> 428
+    line [420, 421, 423, 425, 427]
 ```
 
-2026-10-18 420 → 2026-10-23 425（+5）
+2026-10-18 420 → 2026-10-24 427（+7）
 
 
 ---

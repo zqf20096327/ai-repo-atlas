@@ -1,6 +1,6 @@
 # quests-org/quests
 
-⭐ 466 · TypeScript · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/quests-org/quests) · [官网](https://quests.dev) · 组织维护
+⭐ 465 · TypeScript · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/quests-org/quests) · [官网](https://quests.dev) · 组织维护
 
 **开源桌面应用构建器：用任意 LLM 在本地生成并运行应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "quests-org/quests 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 463 --> 467
-    line [464, 465, 466, 466]
+    line [464, 465, 466, 465]
 ```
 
-2026-10-18 464 → 2026-10-23 466（+2）
+2026-10-18 464 → 2026-10-24 465（+1）
 
 
 ---

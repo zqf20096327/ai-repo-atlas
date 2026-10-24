@@ -1,6 +1,6 @@
 # agent0ai/dox
 
-⭐ 1,493 · MIT · 推送 2026-09-01 · [GitHub](https://github.com/agent0ai/dox) · [官网](https://agent-zero.ai) · 组织维护
+⭐ 1,495 · MIT · 推送 2026-09-01 · [GitHub](https://github.com/agent0ai/dox) · [官网](https://agent-zero.ai) · 组织维护
 
 **让 AI agent 自维护 AGENTS.md 文档树的指令框架**
 
@@ -44,13 +44,13 @@ DOX 是一个以单一 Markdown 指令文件形式提供的 AGENTS.md 框架：a
 
 ```mermaid
 xychart-beta
-    title "agent0ai/dox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1487 --> 1495
-    line [1488, 1491, 1494, 1493]
+    title "agent0ai/dox 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1487 --> 1496
+    line [1488, 1491, 1494, 1493, 1495]
 ```
 
-2026-10-18 1,488 → 2026-10-23 1,493（+5）
+2026-10-18 1,488 → 2026-10-24 1,495（+7）
 
 
 ---

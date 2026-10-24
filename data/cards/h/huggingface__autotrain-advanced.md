@@ -43,13 +43,13 @@ HuggingFace 维护的无代码（no-code）模型训练工具：通过 UI 或 CL
 
 ```mermaid
 xychart-beta
-    title "huggingface/autotrain-advanced 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "huggingface/autotrain-advanced 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 4611 --> 4615
-    line [4612, 4613, 4614]
+    line [4612, 4613, 4614, 4614]
 ```
 
-2026-10-18 4,612 → 2026-10-23 4,614（+2）
+2026-10-18 4,612 → 2026-10-24 4,614（+2）
 
 
 ---

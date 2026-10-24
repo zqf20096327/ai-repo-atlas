@@ -1,6 +1,6 @@
 # xai-org/x-algorithm
 
-⭐ 33,727 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/xai-org/x-algorithm) · 组织维护
+⭐ 33,751 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xai-org/x-algorithm) · 组织维护
 
 **X 平台 For You 信息流排序算法的参考实现**
 
@@ -50,13 +50,13 @@ xai-org 开源的 X 平台 For You 信息流核心代码：请求路径上由 Th
 
 ```mermaid
 xychart-beta
-    title "xai-org/x-algorithm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 33665 --> 33732
-    line [33670, 33689, 33711, 33727]
+    title "xai-org/x-algorithm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 33662 --> 33759
+    line [33670, 33689, 33711, 33727, 33751]
 ```
 
-2026-10-18 33,670 → 2026-10-23 33,727（+57）
+2026-10-18 33,670 → 2026-10-24 33,751（+81）
 
 
 ---

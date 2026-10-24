@@ -1,6 +1,6 @@
 # MCP-UI-Org/mcp-ui
 
-⭐ 5,229 · TypeScript · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/MCP-UI-Org/mcp-ui) · [官网](https://mcpui.dev) · 个人维护
+⭐ 5,231 · TypeScript · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/MCP-UI-Org/mcp-ui) · [官网](https://mcpui.dev) · 个人维护
 
 **实现 MCP Apps 标准的 UI SDK：让 MCP 工具返回可交互 Web 界面**
 
@@ -44,13 +44,13 @@ mcp-ui 是实现 MCP Apps 规范的多语言 SDK，覆盖 TypeScript(@mcp-ui/ser
 
 ```mermaid
 xychart-beta
-    title "MCP-UI-Org/mcp-ui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5219 --> 5230
-    line [5220, 5222, 5227, 5229]
+    title "MCP-UI-Org/mcp-ui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5219 --> 5232
+    line [5220, 5222, 5227, 5229, 5231]
 ```
 
-2026-10-18 5,220 → 2026-10-23 5,229（+9）
+2026-10-18 5,220 → 2026-10-24 5,231（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # AlexsJones/llmfit
 
-⭐ 38,247 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AlexsJones/llmfit) · 个人维护
+⭐ 38,299 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AlexsJones/llmfit) · 个人维护
 
 **检测本机硬件并推荐可流畅运行的本地 LLM 的命令行工具**
 
@@ -52,13 +52,13 @@ Rust 编写的终端工具：自动检测 CPU、内存、GPU/VRAM 与加速器�
 
 ```mermaid
 xychart-beta
-    title "AlexsJones/llmfit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 37997 --> 38269
-    line [38019, 38131, 38247]
+    title "AlexsJones/llmfit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 37991 --> 38327
+    line [38019, 38131, 38247, 38299]
 ```
 
-2026-10-18 38,019 → 2026-10-23 38,247（+228）
+2026-10-18 38,019 → 2026-10-24 38,299（+280）
 
 
 ---

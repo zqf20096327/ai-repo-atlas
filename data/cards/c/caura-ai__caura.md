@@ -1,6 +1,6 @@
 # caura-ai/caura
 
-⭐ 506 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/caura-ai/caura) · [官网](https://caura.ai) · 组织维护
+⭐ 508 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/caura-ai/caura) · [官网](https://caura.ai) · 组织维护
 
 **面向多智能体舰队的管理式共享记忆层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "caura-ai/caura 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 500 --> 507
-    line [501, 502, 504, 506]
+    title "caura-ai/caura 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 500 --> 509
+    line [501, 502, 504, 506, 508]
 ```
 
-2026-10-18 501 → 2026-10-23 506（+5）
+2026-10-18 501 → 2026-10-24 508（+7）
 
 
 ---

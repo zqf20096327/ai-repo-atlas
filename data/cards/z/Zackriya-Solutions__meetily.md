@@ -1,6 +1,6 @@
 # Zackriya-Solutions/meetily
 
-⭐ 32,051 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Zackriya-Solutions/meetily) · [官网](https://meetily.ai) · 组织维护
+⭐ 32,093 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Zackriya-Solutions/meetily) · [官网](https://meetily.ai) · 组织维护
 
 **本地运行的隐私优先 AI 会议记录与摘要应用**
 
@@ -51,13 +51,13 @@ Meetily 是一款运行在用户本机的会议助手，基于 Tauri（Rust 后�
 
 ```mermaid
 xychart-beta
-    title "Zackriya-Solutions/meetily 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 31818 --> 32072
-    line [31839, 31942, 32002, 32051]
+    title "Zackriya-Solutions/meetily 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 31814 --> 32118
+    line [31839, 31942, 32002, 32051, 32093]
 ```
 
-2026-10-18 31,839 → 2026-10-23 32,051（+212）
+2026-10-18 31,839 → 2026-10-24 32,093（+254）
 
 
 ---

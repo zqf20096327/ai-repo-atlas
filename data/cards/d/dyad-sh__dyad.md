@@ -1,6 +1,6 @@
 # dyad-sh/dyad
 
-⭐ 22,032 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dyad-sh/dyad) · [官网](https://dyad.sh) · 组织维护
+⭐ 22,045 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dyad-sh/dyad) · [官网](https://dyad.sh) · 组织维护
 
 **本地运行的开源 AI 应用构建器，面向进阶用户**
 
@@ -52,13 +52,13 @@ Dyad 是一个在本地机器上运行的开源 AI 应用构建器，定位为 L
 
 ```mermaid
 xychart-beta
-    title "dyad-sh/dyad 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 21953 --> 22039
-    line [21960, 21988, 22022, 22032]
+    title "dyad-sh/dyad 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 21952 --> 22053
+    line [21960, 21988, 22022, 22032, 22045]
 ```
 
-2026-10-18 21,960 → 2026-10-23 22,032（+72）
+2026-10-18 21,960 → 2026-10-24 22,045（+85）
 
 
 ---

@@ -1,6 +1,6 @@
 # jedzqer/manga-translator-android
 
-⭐ 488 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jedzqer/manga-translator-android) · 个人维护 · 中文 README
+⭐ 487 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jedzqer/manga-translator-android) · 个人维护 · 中文 README
 
 **安卓端 LLM 驱动的漫画自动翻译与阅读 App**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jedzqer/manga-translator-android 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "jedzqer/manga-translator-android 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 484 --> 489
-    line [485, 487, 488]
+    line [485, 487, 488, 487]
 ```
 
-2026-10-18 485 → 2026-10-23 488（+3）
+2026-10-18 485 → 2026-10-24 487（+2）
 
 
 ---

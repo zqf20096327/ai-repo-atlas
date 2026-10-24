@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-Coder
 
-⭐ 16,834 · Python · 推送 2026-03-24 · [GitHub](https://github.com/QwenLM/Qwen3-Coder) · 组织维护 · 中文 README
+⭐ 16,832 · Python · 推送 2026-03-24 · [GitHub](https://github.com/QwenLM/Qwen3-Coder) · 组织维护 · 中文 README
 
 **为开发者提供的代码生成与 Agentic Coding 开源大语言模型系列**
 
@@ -52,12 +52,12 @@ Qwen 团队发布的 Qwen3 系列代码模型，含 Qwen3-Coder-Next（基于 Qw
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen3-Coder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 16829 --> 16835
-    line [16833, 16830, 16834, 16834]
+    line [16833, 16830, 16834, 16832]
 ```
 
-2026-10-18 16,833 → 2026-10-23 16,834（+1）
+2026-10-18 16,833 → 2026-10-24 16,832（-1）
 
 
 ---

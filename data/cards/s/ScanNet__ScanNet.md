@@ -1,6 +1,6 @@
 # ScanNet/ScanNet
 
-⭐ 2,357 · C · NOASSERTION · 推送 2025-11-03 · [GitHub](https://github.com/ScanNet/ScanNet) · [官网](http://www.scan-net.org/) · 组织维护
+⭐ 2,358 · C · NOASSERTION · 推送 2025-11-03 · [GitHub](https://github.com/ScanNet/ScanNet) · [官网](http://www.scan-net.org/) · 组织维护
 
 **室内场景 RGB-D 3D 数据集：250 万视图、1500+ 扫描及语义标注**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ScanNet/ScanNet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2350 --> 2358
-    line [2351, 2353, 2355, 2357]
+    title "ScanNet/ScanNet 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2350 --> 2359
+    line [2351, 2353, 2355, 2357, 2358]
 ```
 
-2026-10-18 2,351 → 2026-10-23 2,357（+6）
+2026-10-18 2,351 → 2026-10-24 2,358（+7）
 
 
 ---

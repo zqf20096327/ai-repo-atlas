@@ -1,6 +1,6 @@
 # aws-neuron/torch-neuronx
 
-⭐ 113 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/aws-neuron/torch-neuronx) · [官网](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/torch/index.html) · 组织维护
+⭐ 119 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/aws-neuron/torch-neuronx) · [官网](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/torch/index.html) · 组织维护
 
 **面向 AWS Trainium 的 PyTorch 原生后端（neuron 设备）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aws-neuron/torch-neuronx 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
-    y-axis "stars" 104 --> 114
-    line [105, 113]
+    title "aws-neuron/torch-neuronx 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 104 --> 120
+    line [105, 113, 119]
 ```
 
-2026-10-22 105 → 2026-10-23 113（+8）
+2026-10-22 105 → 2026-10-24 119（+14）
 
 
 ---

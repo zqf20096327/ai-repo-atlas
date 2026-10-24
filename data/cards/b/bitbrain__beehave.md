@@ -1,6 +1,6 @@
 # bitbrain/beehave
 
-⭐ 3,307 · GDScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/bitbrain/beehave) · [官网](https://bitbra.in/beehave) · 个人维护
+⭐ 3,308 · GDScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/bitbrain/beehave) · [官网](https://bitbra.in/beehave) · 个人维护
 
 **Godot 引擎的行为树 AI 插件：用节点搭建游戏 NPC 行为逻辑**
 
@@ -45,12 +45,12 @@ Godot Engine 的插件（addon），在场景树中以节点方式构建行为�
 ```mermaid
 xychart-beta
     title "bitbrain/beehave 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3304 --> 3308
-    line [3305, 3307, 3307]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 3304 --> 3309
+    line [3305, 3307, 3308]
 ```
 
-2026-10-18 3,305 → 2026-10-23 3,307（+2）
+2026-10-18 3,305 → 2026-10-24 3,308（+3）
 
 
 ---

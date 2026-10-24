@@ -1,6 +1,6 @@
 # Nexting-ai/nexting
 
-⭐ 1,974 · C · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Nexting-ai/nexting) · [官网](https://nexting.ai) · 组织维护
+⭐ 1,996 · C · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Nexting-ai/nexting) · [官网](https://nexting.ai) · 组织维护
 
 **可穿戴硬件+手机远程操控本机 AI agent 会话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nexting-ai/nexting 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1875 --> 1983
-    line [1884, 1909, 1951, 1974]
+    title "Nexting-ai/nexting 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1873 --> 2007
+    line [1884, 1909, 1951, 1974, 1996]
 ```
 
-2026-10-18 1,884 → 2026-10-23 1,974（+90）
+2026-10-18 1,884 → 2026-10-24 1,996（+112）
 
 
 ---

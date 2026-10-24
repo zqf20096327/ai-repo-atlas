@@ -1,6 +1,6 @@
 # pypose/pypose
 
-⭐ 1,616 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/pypose/pypose) · [官网](https://pypose.org) · 组织维护
+⭐ 1,617 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pypose/pypose) · [官网](https://pypose.org) · 组织维护
 
 **面向机器人学的 PyTorch 李群可微优化库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pypose/pypose 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1614 --> 1617
-    line [1615, 1616, 1615, 1616]
+    title "pypose/pypose 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1614 --> 1618
+    line [1615, 1616, 1615, 1616, 1617]
 ```
 
-2026-10-18 1,615 → 2026-10-23 1,616（+1）
+2026-10-18 1,615 → 2026-10-24 1,617（+2）
 
 
 ---

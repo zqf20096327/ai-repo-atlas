@@ -1,6 +1,6 @@
 # anthropics/knowledge-work-plugins
 
-⭐ 31,466 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/anthropics/knowledge-work-plugins) · 组织维护
+⭐ 32,101 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/knowledge-work-plugins) · 组织维护
 
 **面向知识工作者的 Claude 插件集（11 个职能专用插件）**
 
@@ -52,13 +52,13 @@ Anthropic 开源的插件仓库，包含 11 个针对具体职能（销售、客
 
 ```mermaid
 xychart-beta
-    title "anthropics/knowledge-work-plugins 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 29822 --> 31615
-    line [29971, 30469, 31050, 31466]
+    title "anthropics/knowledge-work-plugins 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 29758 --> 32314
+    line [29971, 30469, 31050, 31466, 32101]
 ```
 
-2026-10-18 29,971 → 2026-10-23 31,466（+1,495）
+2026-10-18 29,971 → 2026-10-24 32,101（+2,130）
 
 
 ---

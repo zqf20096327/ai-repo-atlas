@@ -1,6 +1,6 @@
 # selfimproving-agent/Awesome-Self-Improving-Agents
 
-⭐ 584 · TeX · MIT · 推送 2026-10-19 · [GitHub](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents) · [官网](https://selfimproving-agent.github.io/) · 组织维护
+⭐ 586 · TeX · MIT · 推送 2026-10-19 · [GitHub](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents) · [官网](https://selfimproving-agent.github.io/) · 组织维护
 
 **自我改进智能体系统论文与资源的策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "selfimproving-agent/Awesome-Self-Improving-Agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 568 --> 585
-    line [569, 574, 584]
+    title "selfimproving-agent/Awesome-Self-Improving-Agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 568 --> 587
+    line [569, 574, 584, 586]
 ```
 
-2026-10-18 569 → 2026-10-23 584（+15）
+2026-10-18 569 → 2026-10-24 586（+17）
 
 
 ---

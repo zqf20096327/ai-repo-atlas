@@ -1,6 +1,6 @@
 # doomL/langchain-langgraph-tutorial
 
-⭐ 108 · Jupyter Notebook · 推送 2026-08-24 · [GitHub](https://github.com/doomL/langchain-langgraph-tutorial) · 个人维护
+⭐ 107 · Jupyter Notebook · 推送 2026-08-24 · [GitHub](https://github.com/doomL/langchain-langgraph-tutorial) · 个人维护
 
 **LangChain/LangGraph/LangSmith 实战教程集：25 个 Jupyter notebook**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "doomL/langchain-langgraph-tutorial 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 106 --> 109
+    line [108, 107]
 ```
 
-2026-10-18 108 → 2026-10-23 108（+0）
+2026-10-18 108 → 2026-10-24 107（-1）
 
 
 ---

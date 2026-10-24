@@ -1,6 +1,6 @@
 # hanshuaikang/AI-Media2Doc
 
-⭐ 4,059 · Vue · MIT · 推送 2026-02-05 · [GitHub](https://github.com/hanshuaikang/AI-Media2Doc) · 个人维护 · 中文 README
+⭐ 4,062 · Vue · MIT · 推送 2026-02-05 · [GitHub](https://github.com/hanshuaikang/AI-Media2Doc) · 个人维护 · 中文 README
 
 **将音视频一键转为多风格图文文档的本地部署 Web 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hanshuaikang/AI-Media2Doc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 4053 --> 4060
-    line [4054, 4058, 4059]
+    title "hanshuaikang/AI-Media2Doc 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4053 --> 4063
+    line [4054, 4058, 4059, 4062]
 ```
 
-2026-10-18 4,054 → 2026-10-23 4,059（+5）
+2026-10-18 4,054 → 2026-10-24 4,062（+8）
 
 
 ---

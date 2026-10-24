@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-shorts
 
-⭐ 236 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/AgriciDaniel/claude-shorts) · [官网](https://www.skool.com/ai-marketing-hub-pro/) · 个人维护
+⭐ 238 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/AgriciDaniel/claude-shorts) · [官网](https://www.skool.com/ai-marketing-hub-pro/) · 个人维护
 
 **Claude Code 技能：把长视频交互式剪辑为竖屏短视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/claude-shorts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 230 --> 237
-    line [231, 233, 234, 236]
+    title "AgriciDaniel/claude-shorts 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 230 --> 239
+    line [231, 233, 234, 236, 238]
 ```
 
-2026-10-18 231 → 2026-10-23 236（+5）
+2026-10-18 231 → 2026-10-24 238（+7）
 
 
 ---

@@ -45,12 +45,12 @@ Novotny 等人《Machine Learning and Big Data with kdb+/q》一书的配套仓�
 ```mermaid
 xychart-beta
     title "hanssmail/quantQ 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-18 101 → 2026-10-23 101（+0）
+2026-10-18 101 → 2026-10-24 101（+0）
 
 
 ---

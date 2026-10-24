@@ -1,6 +1,6 @@
 # taishi-i/awesome-ChatGPT-repositories
 
-⭐ 3,322 · Python · CC0-1.0 · 推送 2026-10-21 · [GitHub](https://github.com/taishi-i/awesome-ChatGPT-repositories) · [官网](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) · 个人维护
+⭐ 3,324 · Python · CC0-1.0 · 推送 2026-10-21 · [GitHub](https://github.com/taishi-i/awesome-ChatGPT-repositories) · [官网](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) · 个人维护
 
 **ChatGPT/OpenAI 相关开源仓库策展清单（2733 条）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "taishi-i/awesome-ChatGPT-repositories 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3305 --> 3323
-    line [3306, 3311, 3319, 3322]
+    title "taishi-i/awesome-ChatGPT-repositories 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3305 --> 3325
+    line [3306, 3311, 3319, 3322, 3324]
 ```
 
-2026-10-18 3,306 → 2026-10-23 3,322（+16）
+2026-10-18 3,306 → 2026-10-24 3,324（+18）
 
 
 ---

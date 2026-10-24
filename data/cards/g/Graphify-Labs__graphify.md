@@ -1,6 +1,6 @@
 # Graphify-Labs/graphify
 
-⭐ 132,719 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Graphify-Labs/graphify) · [官网](https://www.graphify.com) · 组织维护
+⭐ 133,791 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Graphify-Labs/graphify) · [官网](https://www.graphify.com) · 组织维护
 
 **给 AI 编码助手把代码库映射成可查询知识图谱的 CLI 工具**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Graphify-Labs/graphify 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 127094 --> 133230
-    line [127605, 129050, 131072, 132719]
+    title "Graphify-Labs/graphify 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 126987 --> 134409
+    line [127605, 129050, 131072, 132719, 133791]
 ```
 
-2026-10-18 127,605 → 2026-10-23 132,719（+5,114）
+2026-10-18 127,605 → 2026-10-24 133,791（+6,186）
 
 
 ---

@@ -1,6 +1,6 @@
 # enoch3712/ExtractThinker
 
-⭐ 1,602 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/enoch3712/ExtractThinker) · [官网](https://enoch3712.github.io/ExtractThinker) · 个人维护
+⭐ 1,604 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/enoch3712/ExtractThinker) · [官网](https://enoch3712.github.io/ExtractThinker) · 个人维护
 
 **Python 文档智能库：用 Pydantic 契约把文档转为校验过的类型化数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "enoch3712/ExtractThinker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1600 --> 1603
-    line [1601, 1602, 1602]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1600 --> 1605
+    line [1601, 1602, 1604]
 ```
 
-2026-10-18 1,601 → 2026-10-23 1,602（+1）
+2026-10-18 1,601 → 2026-10-24 1,604（+3）
 
 
 ---

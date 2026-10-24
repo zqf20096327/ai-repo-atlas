@@ -44,13 +44,13 @@ Antmicro 提供的开源硬件底板设计文件项目，支持 NVIDIA Jetson Na
 
 ```mermaid
 xychart-beta
-    title "antmicro/jetson-nano-baseboard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "antmicro/jetson-nano-baseboard 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 545 --> 549
-    line [546, 547, 548]
+    line [546, 547, 548, 548]
 ```
 
-2026-10-18 546 → 2026-10-23 548（+2）
+2026-10-18 546 → 2026-10-24 548（+2）
 
 
 ---

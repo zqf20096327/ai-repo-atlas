@@ -1,6 +1,6 @@
 # OpenMined/PySyft
 
-⭐ 10,045 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/OpenMined/PySyft) · [官网](https://www.openmined.org/) · 组织维护
+⭐ 10,046 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/OpenMined/PySyft) · [官网](https://www.openmined.org/) · 组织维护
 
 **远程数据科学库：数据不出所有者机器即可提交计算**
 
@@ -45,13 +45,13 @@ OpenMined 维护的隐私保护远程数据科学框架（v2）：数据科学�
 
 ```mermaid
 xychart-beta
-    title "OpenMined/PySyft 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "OpenMined/PySyft 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 10042 --> 10047
-    line [10043, 10045, 10046, 10045]
+    line [10043, 10045, 10046, 10045, 10046]
 ```
 
-2026-10-18 10,043 → 2026-10-23 10,045（+2）
+2026-10-18 10,043 → 2026-10-24 10,046（+3）
 
 
 ---

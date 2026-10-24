@@ -1,6 +1,6 @@
 # officecli/officedex
 
-⭐ 1,061 · JavaScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/officecli/officedex) · [官网](https://officecli.io) · 组织维护
+⭐ 1,062 · JavaScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/officecli/officedex) · [官网](https://officecli.io) · 组织维护
 
 **自然语言生成 Word/PPT/Excel 的 AI 原生桌面办公平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "officecli/officedex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "officecli/officedex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1060 --> 1075
-    line [1073, 1074, 1073, 1061]
+    line [1073, 1074, 1073, 1061, 1062]
 ```
 
-2026-10-18 1,073 → 2026-10-23 1,061（-12）
+2026-10-18 1,073 → 2026-10-24 1,062（-11）
 
 
 ---

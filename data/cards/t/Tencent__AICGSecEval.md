@@ -1,6 +1,6 @@
 # Tencent/AICGSecEval
 
-⭐ 665 · Python · NOASSERTION · 推送 2026-05-25 · [GitHub](https://github.com/Tencent/AICGSecEval) · [官网](https://aicgseceval.tencent.com) · 组织维护 · 中文 README
+⭐ 664 · Python · NOASSERTION · 推送 2026-05-25 · [GitHub](https://github.com/Tencent/AICGSecEval) · [官网](https://aicgseceval.tencent.com) · 组织维护 · 中文 README
 
 **腾讯团队维护的仓库级 AI 生成代码安全评测基准**
 
@@ -46,12 +46,12 @@ A.S.E (AICGSecEval) 提供项目级评测基准与框架，评估 AI 辅助编�
 ```mermaid
 xychart-beta
     title "Tencent/AICGSecEval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 663 --> 666
-    line [664, 665, 665]
+    line [664, 665, 664]
 ```
 
-2026-10-18 664 → 2026-10-23 665（+1）
+2026-10-18 664 → 2026-10-24 664（+0）
 
 
 ---

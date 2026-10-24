@@ -1,6 +1,6 @@
 # Jit-Roy/WeeLLM
 
-⭐ 116 · Python · 推送 2026-10-20 · [GitHub](https://github.com/Jit-Roy/WeeLLM) · 个人维护
+⭐ 120 · Python · 推送 2026-10-20 · [GitHub](https://github.com/Jit-Roy/WeeLLM) · 个人维护
 
 **低显存运行大型扩散模型的分层流式推理工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jit-Roy/WeeLLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 99 --> 117
-    line [100, 107, 112, 116]
+    title "Jit-Roy/WeeLLM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 98 --> 122
+    line [100, 107, 112, 116, 120]
 ```
 
-2026-10-18 100 → 2026-10-23 116（+16）
+2026-10-18 100 → 2026-10-24 120（+20）
 
 
 ---

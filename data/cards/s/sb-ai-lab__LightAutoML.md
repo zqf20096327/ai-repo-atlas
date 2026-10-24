@@ -45,13 +45,13 @@ LightAutoML (LAMA) 是用 Python 编写的 AutoML 框架，支持表格、时间
 
 ```mermaid
 xychart-beta
-    title "sb-ai-lab/LightAutoML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "sb-ai-lab/LightAutoML 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1482 --> 1485
-    line [1483, 1484]
+    line [1483, 1484, 1484]
 ```
 
-2026-10-18 1,483 → 2026-10-23 1,484（+1）
+2026-10-18 1,483 → 2026-10-24 1,484（+1）
 
 
 ---

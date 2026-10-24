@@ -1,6 +1,6 @@
 # libingzheren/Jev-Mem
 
-⭐ 228 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/libingzheren/Jev-Mem) · 个人维护
+⭐ 233 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/libingzheren/Jev-Mem) · 个人维护
 
 **长时运行 AI agent 的双层记忆系统：快速控制+推理作答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "libingzheren/Jev-Mem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 216 --> 229
-    line [217, 222, 226, 228]
+    title "libingzheren/Jev-Mem 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 216 --> 234
+    line [217, 222, 226, 228, 233]
 ```
 
-2026-10-18 217 → 2026-10-23 228（+11）
+2026-10-18 217 → 2026-10-24 233（+16）
 
 
 ---

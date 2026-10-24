@@ -1,6 +1,6 @@
 # jacklandrin/OnlySwitch
 
-⭐ 6,008 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jacklandrin/OnlySwitch) · [官网](https://onlyswitch.click/) · 个人维护
+⭐ 6,012 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jacklandrin/OnlySwitch) · [官网](https://onlyswitch.click/) · 个人维护
 
 **macOS 菜单栏多功能开关合集，含 AI Agent 与系统监视器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jacklandrin/OnlySwitch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5991 --> 6009
-    line [5992, 5995, 6001, 6008]
+    title "jacklandrin/OnlySwitch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5990 --> 6014
+    line [5992, 5995, 6001, 6008, 6012]
 ```
 
-2026-10-18 5,992 → 2026-10-23 6,008（+16）
+2026-10-18 5,992 → 2026-10-24 6,012（+20）
 
 
 ---

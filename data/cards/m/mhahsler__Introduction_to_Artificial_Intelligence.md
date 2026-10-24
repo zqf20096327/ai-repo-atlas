@@ -1,6 +1,6 @@
 # mhahsler/Introduction_to_Artificial_Intelligence
 
-⭐ 105 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-10-14 · [GitHub](https://github.com/mhahsler/Introduction_to_Artificial_Intelligence) · [官网](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/) · 组织维护
+⭐ 105 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-10-23 · [GitHub](https://github.com/mhahsler/Introduction_to_Artificial_Intelligence) · [官网](https://mhahsler.github.io/Introduction_to_Artificial_Intelligence/) · 组织维护
 
 **AI 课程教学材料：AIMA 教材各章讲义与 Python 示例**
 
@@ -44,12 +44,12 @@ SMU 计算机 CS 5/7320 人工智能课程配套仓库，由 Michael Hahsler 维
 ```mermaid
 xychart-beta
     title "mhahsler/Introduction_to_Artificial_Intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-18 105 → 2026-10-23 105（+0）
+2026-10-18 105 → 2026-10-24 105（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # vercel-labs/gemini-chatbot
 
-⭐ 1,355 · TypeScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/vercel-labs/gemini-chatbot) · [官网](https://gemini.vercel.ai) · 组织维护
+⭐ 1,355 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/vercel-labs/gemini-chatbot) · [官网](https://gemini.vercel.ai) · 组织维护
 
 **基于 Next.js 与 Vercel AI SDK 的开源聊天机器人模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/gemini-chatbot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "vercel-labs/gemini-chatbot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1354 --> 1358
-    line [1357, 1356, 1357, 1355]
+    line [1357, 1356, 1357, 1355, 1355]
 ```
 
-2026-10-18 1,357 → 2026-10-23 1,355（-2）
+2026-10-18 1,357 → 2026-10-24 1,355（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # sixtysevenlf/dsh-blender-plugin
 
-⭐ 1,105 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/sixtysevenlf/dsh-blender-plugin) · 个人维护 · 中文 README
+⭐ 1,210 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/sixtysevenlf/dsh-blender-plugin) · 个人维护 · 中文 README
 
 **让 AI 模型实时驱动 GUI Blender 的 DSH 插件（15 个模型工具）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sixtysevenlf/dsh-blender-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 363 --> 1172
-    line [430, 809, 981, 1105]
+    title "sixtysevenlf/dsh-blender-plugin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 352 --> 1288
+    line [430, 809, 981, 1105, 1210]
 ```
 
-2026-10-18 430 → 2026-10-23 1,105（+675）
+2026-10-18 430 → 2026-10-24 1,210（+780）
 
 
 ---

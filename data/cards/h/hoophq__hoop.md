@@ -1,6 +1,6 @@
 # hoophq/hoop
 
-⭐ 834 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hoophq/hoop) · [官网](https://hoop.dev) · 组织维护
+⭐ 834 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/hoophq/hoop) · [官网](https://hoop.dev) · 组织维护
 
 **代理数据库流量的开源 sidecar：为 AI agent 做数据脱敏与拦截危险 SQL**
 
@@ -45,13 +45,13 @@ MIT 许可的单二进制 sidecar，部署在 agent 与数据库之间，agent �
 
 ```mermaid
 xychart-beta
-    title "hoophq/hoop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "hoophq/hoop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 830 --> 835
-    line [831, 834]
+    line [831, 834, 834]
 ```
 
-2026-10-18 831 → 2026-10-23 834（+3）
+2026-10-18 831 → 2026-10-24 834（+3）
 
 
 ---

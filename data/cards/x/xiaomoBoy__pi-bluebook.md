@@ -1,6 +1,6 @@
 # xiaomoBoy/pi-bluebook
 
-⭐ 323 · Markdown · MIT · 推送 2026-10-11 · [GitHub](https://github.com/xiaomoBoy/pi-bluebook) · [官网](https://pi.xiaomovps.com) · 个人维护 · 中文 README
+⭐ 325 · Markdown · MIT · 推送 2026-10-11 · [GitHub](https://github.com/xiaomoBoy/pi-bluebook) · [官网](https://pi.xiaomovps.com) · 个人维护 · 中文 README
 
 **Pi Coding Agent 中文学习手册：从安装到长期工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaomoBoy/pi-bluebook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 317 --> 324
-    line [318, 321, 322, 323]
+    title "xiaomoBoy/pi-bluebook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 317 --> 326
+    line [318, 321, 322, 323, 325]
 ```
 
-2026-10-18 318 → 2026-10-23 323（+5）
+2026-10-18 318 → 2026-10-24 325（+7）
 
 
 ---

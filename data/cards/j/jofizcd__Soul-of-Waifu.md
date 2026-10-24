@@ -1,6 +1,6 @@
 # jofizcd/Soul-of-Waifu
 
-⭐ 1,410 · Python · GPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/jofizcd/Soul-of-Waifu) · [官网](https://jofizcd.github.io/soul-of-waifu-site/) · 个人维护
+⭐ 1,412 · Python · GPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/jofizcd/Soul-of-Waifu) · [官网](https://jofizcd.github.io/soul-of-waifu-site/) · 个人维护
 
 **本地优先的桌面 AI 角色陪伴应用：角色跨聊天、RPG 与桌面代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jofizcd/Soul-of-Waifu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1403 --> 1411
-    line [1404, 1405, 1406, 1410]
+    title "jofizcd/Soul-of-Waifu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1403 --> 1413
+    line [1404, 1405, 1406, 1410, 1412]
 ```
 
-2026-10-18 1,404 → 2026-10-23 1,410（+6）
+2026-10-18 1,404 → 2026-10-24 1,412（+8）
 
 
 ---

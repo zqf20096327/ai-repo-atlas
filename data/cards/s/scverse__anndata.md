@@ -1,6 +1,6 @@
 # scverse/anndata
 
-⭐ 781 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/scverse/anndata) · [官网](http://anndata.scverse.org) · 组织维护
+⭐ 781 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/scverse/anndata) · [官网](http://anndata.scverse.org) · 组织维护
 
 **处理带标注数据矩阵的 Python 包，面向单细胞组学分析**
 
@@ -44,13 +44,13 @@ anndata 是一个 Python 包，在内存和磁盘上处理带标注的数据矩�
 
 ```mermaid
 xychart-beta
-    title "scverse/anndata 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "scverse/anndata 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 779 --> 782
-    line [780, 781]
+    line [780, 781, 781]
 ```
 
-2026-10-18 780 → 2026-10-23 781（+1）
+2026-10-18 780 → 2026-10-24 781（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # EleutherAI/gpt-neox
 
-⭐ 7,472 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/EleutherAI/gpt-neox) · [官网](https://www.eleuther.ai/) · 组织维护
+⭐ 7,471 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/EleutherAI/gpt-neox) · [官网](https://www.eleuther.ai/) · 组织维护
 
 **GPU 上大规模自回归语言模型的分布式训练库**
 
@@ -44,13 +44,13 @@ EleutherAI 维护的大语言模型训练框架，基于 NVIDIA Megatron 并引�
 
 ```mermaid
 xychart-beta
-    title "EleutherAI/gpt-neox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "EleutherAI/gpt-neox 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 7469 --> 7473
-    line [7471, 7470, 7471, 7472]
+    line [7471, 7470, 7471, 7472, 7471]
 ```
 
-2026-10-18 7,471 → 2026-10-23 7,472（+1）
+2026-10-18 7,471 → 2026-10-24 7,471（+0）
 
 
 ---

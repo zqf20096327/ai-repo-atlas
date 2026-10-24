@@ -1,6 +1,6 @@
 # nanaism/yomiyasu
 
-⭐ 2,400 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nanaism/yomiyasu) · 个人维护
+⭐ 2,436 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nanaism/yomiyasu) · 个人维护
 
 **供 AI 编码环境调用的日文推敲技能：改写 AI 日文为自然日文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nanaism/yomiyasu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2147 --> 2423
-    line [2170, 2262, 2377, 2400]
+    title "nanaism/yomiyasu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2144 --> 2462
+    line [2170, 2262, 2377, 2400, 2436]
 ```
 
-2026-10-18 2,170 → 2026-10-23 2,400（+230）
+2026-10-18 2,170 → 2026-10-24 2,436（+266）
 
 
 ---

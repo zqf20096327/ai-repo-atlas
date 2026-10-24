@@ -1,6 +1,6 @@
 # DietrichGebert/ponytail
 
-⭐ 173,077 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/DietrichGebert/ponytail) · [官网](https://ponytail.dev) · 个人维护
+⭐ 174,642 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/DietrichGebert/ponytail) · [官网](https://ponytail.dev) · 个人维护
 
 **给 AI 编码 agent 注入“极简优先”编码原则的提示词技能包**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "DietrichGebert/ponytail 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 165140 --> 173798
-    line [165861, 167924, 173077]
+    title "DietrichGebert/ponytail 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 164983 --> 175520
+    line [165861, 167924, 173077, 174642]
 ```
 
-2026-10-18 165,861 → 2026-10-23 173,077（+7,216）
+2026-10-18 165,861 → 2026-10-24 174,642（+8,781）
 
 
 ---

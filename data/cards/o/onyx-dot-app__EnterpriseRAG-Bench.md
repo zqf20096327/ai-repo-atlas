@@ -1,6 +1,6 @@
 # onyx-dot-app/EnterpriseRAG-Bench
 
-⭐ 601 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) · [官网](https://www.onyx.app/) · 组织维护
+⭐ 604 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) · [官网](https://www.onyx.app/) · 组织维护
 
 **企业内部文档 RAG 基准：50 万文档 + 500 题数据集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "onyx-dot-app/EnterpriseRAG-Bench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 597 --> 602
-    line [598, 599, 600, 601]
+    title "onyx-dot-app/EnterpriseRAG-Bench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 597 --> 605
+    line [598, 599, 600, 601, 604]
 ```
 
-2026-10-18 598 → 2026-10-23 601（+3）
+2026-10-18 598 → 2026-10-24 604（+6）
 
 
 ---

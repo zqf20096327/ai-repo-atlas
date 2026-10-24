@@ -1,6 +1,6 @@
 # Data-Centric-AI-Community/fg-data-profiling
 
-⭐ 13,735 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-profiling) · [官网](https://docs.sdk.ydata.ai) · 组织维护
+⭐ 13,736 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-profiling) · [官网](https://docs.sdk.ydata.ai) · 组织维护
 
 **一行代码生成 DataFrame 数据质量剖析与 EDA 报告**
 
@@ -52,13 +52,13 @@ ydata-profiling 更名后的 Python 包，为 Pandas 与 Spark DataFrame 提供�
 
 ```mermaid
 xychart-beta
-    title "Data-Centric-AI-Community/fg-data-profiling 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13726 --> 13736
-    line [13727, 13731, 13733, 13735]
+    title "Data-Centric-AI-Community/fg-data-profiling 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13726 --> 13737
+    line [13727, 13731, 13733, 13735, 13736]
 ```
 
-2026-10-18 13,727 → 2026-10-23 13,735（+8）
+2026-10-18 13,727 → 2026-10-24 13,736（+9）
 
 
 ---

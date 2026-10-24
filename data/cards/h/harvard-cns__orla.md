@@ -1,6 +1,6 @@
 # harvard-cns/orla
 
-⭐ 260 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/harvard-cns/orla) · [官网](https://orlaserver.github.io/) · 组织维护
+⭐ 261 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/harvard-cns/orla) · [官网](https://orlaserver.github.io/) · 组织维护
 
 **面向 agentic 工作流的运行时自适应执行层**
 
@@ -45,12 +45,12 @@ Go 编写的 LLM 调用执行层：开发者将 agent 指向 Orla 的 OpenAI 兼
 ```mermaid
 xychart-beta
     title "harvard-cns/orla 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 259 --> 261
-    line [260, 260]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 259 --> 262
+    line [260, 261]
 ```
 
-2026-10-18 260 → 2026-10-23 260（+0）
+2026-10-18 260 → 2026-10-24 261（+1）
 
 
 ---

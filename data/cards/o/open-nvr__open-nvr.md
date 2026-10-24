@@ -1,6 +1,6 @@
 # open-nvr/open-nvr
 
-⭐ 175 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/open-nvr/open-nvr) · [官网](https://opennvr.org) · 组织维护
+⭐ 177 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/open-nvr/open-nvr) · [官网](https://opennvr.org) · 组织维护
 
 **自托管开源 NVR：在自有硬件上运行任意 AI 模型的摄像头视频平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-nvr/open-nvr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 165 --> 176
-    line [166, 167, 169, 175]
+    title "open-nvr/open-nvr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 165 --> 178
+    line [166, 167, 169, 175, 177]
 ```
 
-2026-10-18 166 → 2026-10-23 175（+9）
+2026-10-18 166 → 2026-10-24 177（+11）
 
 
 ---

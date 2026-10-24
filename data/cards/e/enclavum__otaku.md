@@ -1,6 +1,6 @@
 # enclavum/otaku
 
-⭐ 143 · Python · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/enclavum/otaku) · [官网](https://otaku.sh) · 个人维护
+⭐ 144 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/enclavum/otaku) · [官网](https://otaku.sh) · 个人维护
 
 **面向创意写作与角色扮演的本地 LLM 前端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "enclavum/otaku 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 103 --> 146
-    line [106, 139, 142, 143]
+    title "enclavum/otaku 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 103 --> 147
+    line [106, 139, 142, 143, 144]
 ```
 
-2026-10-18 106 → 2026-10-23 143（+37）
+2026-10-18 106 → 2026-10-24 144（+38）
 
 
 ---

@@ -1,6 +1,6 @@
 # jingyaogong/minimind-o
 
-⭐ 2,669 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind-o) · [官网](https://jingyaogong.github.io/minimind-o) · 个人维护 · 中文 README
+⭐ 2,672 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind-o) · [官网](https://jingyaogong.github.io/minimind-o) · 个人维护 · 中文 README
 
 **从 0 训练的 0.1B 级端到端 Omni 模型：能听、能看、能说**
 
@@ -45,13 +45,13 @@ MiniMind 系列的第三站：提供约 0.1B 参数的端到端 Omni 模型完�
 
 ```mermaid
 xychart-beta
-    title "jingyaogong/minimind-o 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2653 --> 2670
-    line [2654, 2659, 2663, 2669]
+    title "jingyaogong/minimind-o 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2653 --> 2673
+    line [2654, 2659, 2663, 2669, 2672]
 ```
 
-2026-10-18 2,654 → 2026-10-23 2,669（+15）
+2026-10-18 2,654 → 2026-10-24 2,672（+18）
 
 
 ---

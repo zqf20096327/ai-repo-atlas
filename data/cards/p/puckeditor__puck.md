@@ -1,6 +1,6 @@
 # puckeditor/puck
 
-⭐ 13,508 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/puckeditor/puck) · [官网](https://puckeditor.com) · 组织维护
+⭐ 13,515 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/puckeditor/puck) · [官网](https://puckeditor.com) · 组织维护
 
 **React 开发者的可视化拖拽页面编辑器**
 
@@ -51,13 +51,13 @@ Puck 是一个模块化的 React 可视化编辑器，本身以 React 组件形�
 
 ```mermaid
 xychart-beta
-    title "puckeditor/puck 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13482 --> 13510
-    line [13484, 13487, 13503, 13508]
+    title "puckeditor/puck 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13481 --> 13518
+    line [13484, 13487, 13503, 13508, 13515]
 ```
 
-2026-10-18 13,484 → 2026-10-23 13,508（+24）
+2026-10-18 13,484 → 2026-10-24 13,515（+31）
 
 
 ---

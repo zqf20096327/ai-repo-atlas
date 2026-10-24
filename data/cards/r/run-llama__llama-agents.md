@@ -1,6 +1,6 @@
 # run-llama/llama-agents
 
-⭐ 462 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/run-llama/llama-agents) · [官网](https://www.llamaindex.ai/) · 组织维护
+⭐ 462 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/run-llama/llama-agents) · [官网](https://www.llamaindex.ai/) · 组织维护
 
 **构建与部署文档中心 AI agent 的 Python 编排框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "run-llama/llama-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 459 --> 463
     line [460, 462, 462]
 ```
 
-2026-10-18 460 → 2026-10-23 462（+2）
+2026-10-18 460 → 2026-10-24 462（+2）
 
 
 ---

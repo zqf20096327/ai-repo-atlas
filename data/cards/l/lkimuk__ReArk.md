@@ -1,6 +1,6 @@
 # lkimuk/ReArk
 
-⭐ 722 · C++ · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lkimuk/ReArk) · 个人维护 · 中文 README
+⭐ 723 · C++ · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lkimuk/ReArk) · 个人维护 · 中文 README
 
 **多平台应用与二进制逆向分析桌面工具，含 AI 助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lkimuk/ReArk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 681 --> 725
-    line [684, 701, 715, 722]
+    title "lkimuk/ReArk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 681 --> 726
+    line [684, 701, 715, 722, 723]
 ```
 
-2026-10-18 684 → 2026-10-23 722（+38）
+2026-10-18 684 → 2026-10-24 723（+39）
 
 
 ---

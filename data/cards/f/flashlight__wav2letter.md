@@ -43,13 +43,13 @@ Facebook AI Research 的自动语音识别（ASR）工具包 wav2letter++。READ
 
 ```mermaid
 xychart-beta
-    title "flashlight/wav2letter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "flashlight/wav2letter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 6439 --> 6442
-    line [6440, 6441]
+    line [6440, 6441, 6441]
 ```
 
-2026-10-18 6,440 → 2026-10-23 6,441（+1）
+2026-10-18 6,440 → 2026-10-24 6,441（+1）
 
 
 ---

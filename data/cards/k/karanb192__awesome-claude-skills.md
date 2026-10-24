@@ -1,6 +1,6 @@
 # karanb192/awesome-claude-skills
 
-⭐ 558 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/karanb192/awesome-claude-skills) · 个人维护 · 中文 README
+⭐ 559 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/karanb192/awesome-claude-skills) · 个人维护 · 中文 README
 
 **社区维护的 Claude 技能（Skills）目录清单，按任务分类**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "karanb192/awesome-claude-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 551 --> 559
-    line [552, 553, 554, 558]
+    title "karanb192/awesome-claude-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 551 --> 560
+    line [552, 553, 554, 558, 559]
 ```
 
-2026-10-18 552 → 2026-10-23 558（+6）
+2026-10-18 552 → 2026-10-24 559（+7）
 
 
 ---

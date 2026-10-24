@@ -1,6 +1,6 @@
 # 0x4m4/hexstrike-ai
 
-⭐ 13,017 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/0x4m4/hexstrike-ai) · [官网](https://www.hexstrike.com/) · 组织维护
+⭐ 13,038 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/0x4m4/hexstrike-ai) · [官网](https://www.hexstrike.com/) · 组织维护
 
 **供 AI agent 自动调用 150+ 渗透测试工具的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0x4m4/hexstrike-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 12868 --> 13030
-    line [12881, 12948, 12989, 13017]
+    title "0x4m4/hexstrike-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 12866 --> 13053
+    line [12881, 12948, 12989, 13017, 13038]
 ```
 
-2026-10-18 12,881 → 2026-10-23 13,017（+136）
+2026-10-18 12,881 → 2026-10-24 13,038（+157）
 
 
 ---

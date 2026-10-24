@@ -1,6 +1,6 @@
 # GeiserX/whisper-subs
 
-⭐ 116 · C# · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/GeiserX/whisper-subs) · [官网](https://geiserx.github.io/whisper-subs/) · 个人维护
+⭐ 115 · C# · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/GeiserX/whisper-subs) · [官网](https://geiserx.github.io/whisper-subs/) · 个人维护
 
 **Jellyfin 插件：用本地 Whisper 为媒体库生成字幕**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GeiserX/whisper-subs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 112 --> 117
-    line [113, 116, 116]
+    line [113, 116, 115]
 ```
 
-2026-10-18 113 → 2026-10-23 116（+3）
+2026-10-18 113 → 2026-10-24 115（+2）
 
 
 ---

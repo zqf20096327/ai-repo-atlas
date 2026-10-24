@@ -1,6 +1,6 @@
 # ag2ai/fastagency
 
-⭐ 546 · Python · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/ag2ai/fastagency) · [官网](https://fastagency.ai/latest) · 组织维护
+⭐ 545 · Python · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/ag2ai/fastagency) · [官网](https://fastagency.ai/latest) · 组织维护
 
 **将 AG2 多智能体工作流从原型部署到生产的框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ag2ai/fastagency 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 545 --> 547
-    line [546, 546]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 544 --> 547
+    line [546, 545]
 ```
 
-2026-10-18 546 → 2026-10-23 546（+0）
+2026-10-18 546 → 2026-10-24 545（-1）
 
 
 ---

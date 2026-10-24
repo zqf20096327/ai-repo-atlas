@@ -1,6 +1,6 @@
 # gitleaks/gitleaks
 
-⭐ 30,230 · Go · MIT · 推送 2026-09-30 · [GitHub](https://github.com/gitleaks/gitleaks) · [官网](https://gitleaks.io) · 个人维护
+⭐ 30,270 · Go · MIT · 推送 2026-09-30 · [GitHub](https://github.com/gitleaks/gitleaks) · [官网](https://gitleaks.io) · 个人维护
 
 **扫描 git 仓库、目录与 stdin 中的密码/API 密钥等秘密的工具**
 
@@ -52,13 +52,13 @@ Go 编写的命令行工具，通过正则规则检测 git 仓库、目录文件
 
 ```mermaid
 xychart-beta
-    title "gitleaks/gitleaks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 30052 --> 30246
-    line [30068, 30128, 30230]
+    title "gitleaks/gitleaks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 30048 --> 30290
+    line [30068, 30128, 30230, 30270]
 ```
 
-2026-10-18 30,068 → 2026-10-23 30,230（+162）
+2026-10-18 30,068 → 2026-10-24 30,270（+202）
 
 
 ---

@@ -1,6 +1,6 @@
 # intellectronica/ruler
 
-⭐ 2,950 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/intellectronica/ruler) · 个人维护
+⭐ 2,951 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/intellectronica/ruler) · 个人维护
 
 **统一管理并分发 AI 编码助手规则配置的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "intellectronica/ruler 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2946 --> 2951
-    line [2947, 2948, 2949, 2950]
+    title "intellectronica/ruler 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2946 --> 2952
+    line [2947, 2948, 2949, 2950, 2951]
 ```
 
-2026-10-18 2,947 → 2026-10-23 2,950（+3）
+2026-10-18 2,947 → 2026-10-24 2,951（+4）
 
 
 ---

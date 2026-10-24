@@ -1,6 +1,6 @@
 # AgriciDaniel/on-page-seo
 
-⭐ 270 · TypeScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/AgriciDaniel/on-page-seo) · [官网](https://agricidaniel.com/blog/free-seo-audit-tools) · 个人维护
+⭐ 271 · TypeScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/AgriciDaniel/on-page-seo) · [官网](https://agricidaniel.com/blog/free-seo-audit-tools) · 个人维护
 
 **网站页面 SEO 审计工具：批量分析最多 500 页的 74 项指标**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/on-page-seo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 268 --> 271
-    line [269, 270]
+    title "AgriciDaniel/on-page-seo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 268 --> 272
+    line [269, 270, 271]
 ```
 
-2026-10-18 269 → 2026-10-23 270（+1）
+2026-10-18 269 → 2026-10-24 271（+2）
 
 
 ---

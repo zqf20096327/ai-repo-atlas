@@ -1,6 +1,6 @@
 # eadmin2/jarvis_ai
 
-⭐ 195 · Python · MIT · 推送 2026-06-13 · [GitHub](https://github.com/eadmin2/jarvis_ai) · 个人维护
+⭐ 196 · Python · MIT · 推送 2026-06-13 · [GitHub](https://github.com/eadmin2/jarvis_ai) · 个人维护
 
 **自托管的钢铁侠风格语音助手与全息 HUD，接入 Hermes Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eadmin2/jarvis_ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 189 --> 196
-    line [190, 193, 194, 195]
+    title "eadmin2/jarvis_ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 189 --> 197
+    line [190, 193, 194, 195, 196]
 ```
 
-2026-10-18 190 → 2026-10-23 195（+5）
+2026-10-18 190 → 2026-10-24 196（+6）
 
 
 ---

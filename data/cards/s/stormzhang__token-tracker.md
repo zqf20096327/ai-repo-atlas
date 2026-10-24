@@ -1,6 +1,6 @@
 # stormzhang/token-tracker
 
-⭐ 534 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/stormzhang/token-tracker) · 个人维护 · 中文 README
+⭐ 533 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/stormzhang/token-tracker) · 个人维护 · 中文 README
 
 **追踪 Claude Code/Codex/Kimi Code 本地 token 用量的 CLI 工具**
 
@@ -46,12 +46,12 @@ Python 编写的终端工具，只读解析 Claude Code、Codex、Kimi Code 的�
 ```mermaid
 xychart-beta
     title "stormzhang/token-tracker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 531 --> 535
-    line [532, 533, 534, 534]
+    line [532, 533, 534, 533]
 ```
 
-2026-10-18 532 → 2026-10-23 534（+2）
+2026-10-18 532 → 2026-10-24 533（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NeuromatchAcademy/course-content
 
-⭐ 3,145 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-09-18 · [GitHub](https://github.com/NeuromatchAcademy/course-content) · [官网](https://compneuro.neuromatch.io) · 组织维护
+⭐ 3,146 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-09-18 · [GitHub](https://github.com/NeuromatchAcademy/course-content) · [官网](https://compneuro.neuromatch.io) · 组织维护
 
 **计算神经科学暑期课程教材（教程与日程），面向学生**
 
@@ -44,13 +44,13 @@ Neuromatch Academy 2025 年（7 月 7-25 日）计算神经科学课程的课程
 
 ```mermaid
 xychart-beta
-    title "NeuromatchAcademy/course-content 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "NeuromatchAcademy/course-content 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 3142 --> 3147
-    line [3143, 3146, 3145]
+    line [3143, 3146, 3145, 3146]
 ```
 
-2026-10-18 3,143 → 2026-10-23 3,145（+2）
+2026-10-18 3,143 → 2026-10-24 3,146（+3）
 
 
 ---

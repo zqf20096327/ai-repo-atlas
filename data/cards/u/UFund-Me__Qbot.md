@@ -1,6 +1,6 @@
 # UFund-Me/Qbot
 
-⭐ 18,714 · Jupyter Notebook · MIT · 推送 2026-03-11 · [GitHub](https://github.com/UFund-Me/Qbot) · [官网](https://github.com/Charmve) · 组织维护 · 中文 README
+⭐ 18,719 · Jupyter Notebook · MIT · 推送 2026-03-11 · [GitHub](https://github.com/UFund-Me/Qbot) · [官网](https://github.com/Charmve) · 组织维护 · 中文 README
 
 **面向量化交易者的本地部署 AI 量化投研与自动交易平台**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "UFund-Me/Qbot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 18684 --> 18716
-    line [18686, 18703, 18712, 18714]
+    title "UFund-Me/Qbot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 18683 --> 18722
+    line [18686, 18703, 18712, 18714, 18719]
 ```
 
-2026-10-18 18,686 → 2026-10-23 18,714（+28）
+2026-10-18 18,686 → 2026-10-24 18,719（+33）
 
 
 ---

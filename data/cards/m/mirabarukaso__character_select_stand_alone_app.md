@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirabarukaso/character_select_stand_alone_app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "mirabarukaso/character_select_stand_alone_app 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 636 --> 640
-    line [637, 638, 639]
+    line [637, 638, 639, 639]
 ```
 
-2026-10-18 637 → 2026-10-23 639（+2）
+2026-10-18 637 → 2026-10-24 639（+2）
 
 
 ---

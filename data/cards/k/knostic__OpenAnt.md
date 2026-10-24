@@ -1,6 +1,6 @@
 # knostic/OpenAnt
 
-⭐ 781 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/knostic/OpenAnt) · [官网](https://www.knostic.ai/openant) · 组织维护
+⭐ 781 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/knostic/OpenAnt) · [官网](https://www.knostic.ai/openant) · 组织维护
 
 **面向防御者的 LLM 漏洞发现与修复工具（Go CLI）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "knostic/OpenAnt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "knostic/OpenAnt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 775 --> 782
-    line [776, 779, 780, 781]
+    line [776, 779, 780, 781, 781]
 ```
 
-2026-10-18 776 → 2026-10-23 781（+5）
+2026-10-18 776 → 2026-10-24 781（+5）
 
 
 ---

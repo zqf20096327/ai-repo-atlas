@@ -47,12 +47,12 @@ DrivAerNet++ 提供涵盖 fastback、notchback、estateback 等构型的 8,150 �
 ```mermaid
 xychart-beta
     title "Mohamedelrefaie/DrivAerNet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 553 --> 556
     line [554, 555, 555]
 ```
 
-2026-10-18 554 → 2026-10-23 555（+1）
+2026-10-18 554 → 2026-10-24 555（+1）
 
 
 ---

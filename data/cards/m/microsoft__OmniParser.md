@@ -1,6 +1,6 @@
 # microsoft/OmniParser
 
-⭐ 25,540 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-07-20 · [GitHub](https://github.com/microsoft/OmniParser) · 组织维护
+⭐ 25,542 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-07-20 · [GitHub](https://github.com/microsoft/OmniParser) · 组织维护
 
 **为视觉 GUI Agent 解析界面截图的结构化工具**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/OmniParser 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 25528 --> 25541
-    line [25529, 25531, 25539, 25540]
+    title "microsoft/OmniParser 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 25528 --> 25543
+    line [25529, 25531, 25539, 25540, 25542]
 ```
 
-2026-10-18 25,529 → 2026-10-23 25,540（+11）
+2026-10-18 25,529 → 2026-10-24 25,542（+13）
 
 
 ---

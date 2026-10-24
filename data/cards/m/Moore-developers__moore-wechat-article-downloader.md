@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Moore-developers/moore-wechat-article-downloader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 293 --> 295
     line [294, 294]
 ```
 
-2026-10-18 294 → 2026-10-23 294（+0）
+2026-10-18 294 → 2026-10-24 294（+0）
 
 
 ---

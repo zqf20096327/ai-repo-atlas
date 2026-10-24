@@ -1,6 +1,6 @@
 # yifanzhang-pro/deep-delta-learning
 
-⭐ 364 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/yifanzhang-pro/deep-delta-learning) · [官网](https://yifanzhang-pro.github.io/deep-delta-learning) · 组织维护
+⭐ 365 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/yifanzhang-pro/deep-delta-learning) · [官网](https://yifanzhang-pro.github.io/deep-delta-learning) · 组织维护
 
 **Transformer 残差更新机制研究代码：DDL 结构化残差编辑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yifanzhang-pro/deep-delta-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 363 --> 365
-    line [364, 364]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 363 --> 366
+    line [364, 365]
 ```
 
-2026-10-18 364 → 2026-10-23 364（+0）
+2026-10-18 364 → 2026-10-24 365（+1）
 
 
 ---

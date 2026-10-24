@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Gym
 
-⭐ 1,266 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA-NeMo/Gym) · [官网](https://docs.nvidia.com/nemo/gym/main/about/) · 组织维护
+⭐ 1,269 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA-NeMo/Gym) · [官网](https://docs.nvidia.com/nemo/gym/main/about/) · 组织维护
 
 **评测与训练模型/智能体的环境库**
 
@@ -44,13 +44,13 @@ NVIDIA NeMo 生态下的评测与训练基础设施库：以『环境』为核�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-NeMo/Gym 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1248 --> 1267
-    line [1249, 1250, 1266]
+    title "NVIDIA-NeMo/Gym 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1247 --> 1271
+    line [1249, 1250, 1266, 1269]
 ```
 
-2026-10-18 1,249 → 2026-10-23 1,266（+17）
+2026-10-18 1,249 → 2026-10-24 1,269（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # sgl-project/SpecForge
 
-⭐ 1,233 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sgl-project/SpecForge) · [官网](https://docs.sglang.ai/SpecForge/) · 组织维护
+⭐ 1,237 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sgl-project/SpecForge) · [官网](https://docs.sglang.ai/SpecForge/) · 组织维护
 
 **SGLang 团队的投机解码草稿模型训练框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sgl-project/SpecForge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1224 --> 1234
-    line [1225, 1228, 1229, 1233]
+    title "sgl-project/SpecForge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1224 --> 1238
+    line [1225, 1228, 1229, 1233, 1237]
 ```
 
-2026-10-18 1,225 → 2026-10-23 1,233（+8）
+2026-10-18 1,225 → 2026-10-24 1,237（+12）
 
 
 ---

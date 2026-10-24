@@ -45,13 +45,13 @@ ScrapingBee 官方仓库，演示如何通过单一 API（chatGPT 端点）构�
 
 ```mermaid
 xychart-beta
-    title "ScrapingBee/chatgpt-scraper-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "ScrapingBee/chatgpt-scraper-api 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1261 --> 1299
-    line [1264, 1289, 1296]
+    line [1264, 1289, 1296, 1296]
 ```
 
-2026-10-18 1,264 → 2026-10-23 1,296（+32）
+2026-10-18 1,264 → 2026-10-24 1,296（+32）
 
 
 ---

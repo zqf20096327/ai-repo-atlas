@@ -1,6 +1,6 @@
 # pattern-ai-labs/agentcall
 
-⭐ 169 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pattern-ai-labs/agentcall) · [官网](https://agentcall.dev) · 组织维护
+⭐ 169 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pattern-ai-labs/agentcall) · [官网](https://agentcall.dev) · 组织维护
 
 **让 AI 编程代理以语音/视频加入线上会议的技能插件**
 
@@ -45,12 +45,12 @@ AgentCall 的 join-meeting 技能：使 Claude Code、Cursor、Codex、Gemini CL
 ```mermaid
 xychart-beta
     title "pattern-ai-labs/agentcall 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 166 --> 170
     line [167, 169, 169]
 ```
 
-2026-10-18 167 → 2026-10-23 169（+2）
+2026-10-18 167 → 2026-10-24 169（+2）
 
 
 ---

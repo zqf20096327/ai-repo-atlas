@@ -1,6 +1,6 @@
 # milisp/mcp-linker
 
-⭐ 343 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/milisp/mcp-linker) · [官网](https://mcp-linker.milisp.dev) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **跨 AI 客户端的一键 MCP 服务器安装与配置同步工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

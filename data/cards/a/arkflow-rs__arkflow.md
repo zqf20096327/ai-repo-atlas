@@ -1,6 +1,6 @@
 # arkflow-rs/arkflow
 
-⭐ 1,314 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/arkflow-rs/arkflow) · [官网](https://arkflow-rs.com/) · 组织维护 · 中文 README
+⭐ 1,314 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/arkflow-rs/arkflow) · [官网](https://arkflow-rs.com/) · 组织维护 · 中文 README
 
 **Rust 流处理引擎，管道内置 LLM/嵌入/向量检索处理器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "arkflow-rs/arkflow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "arkflow-rs/arkflow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1310 --> 1315
-    line [1311, 1312, 1313, 1314]
+    line [1311, 1312, 1313, 1314, 1314]
 ```
 
-2026-10-18 1,311 → 2026-10-23 1,314（+3）
+2026-10-18 1,311 → 2026-10-24 1,314（+3）
 
 
 ---

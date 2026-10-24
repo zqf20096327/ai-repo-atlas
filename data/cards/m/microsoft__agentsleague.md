@@ -46,12 +46,12 @@ Microsoft 在 GitHub 举办的 Agents League 开发者挑战赛仓库：2026 年
 ```mermaid
 xychart-beta
     title "microsoft/agentsleague 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 285 --> 287
     line [286, 286]
 ```
 
-2026-10-18 286 → 2026-10-23 286（+0）
+2026-10-18 286 → 2026-10-24 286（+0）
 
 
 ---

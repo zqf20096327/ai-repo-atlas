@@ -1,6 +1,6 @@
 # run-llama/ParseBench
 
-⭐ 608 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/run-llama/ParseBench) · [官网](https://arxiv.org/abs/2604.08538) · 组织维护
+⭐ 612 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/run-llama/ParseBench) · [官网](https://arxiv.org/abs/2604.08538) · 组织维护
 
 **面向 AI Agent 的文档解析基准：评测 PDF 转结构化输出的可靠性**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "run-llama/ParseBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 601 --> 609
-    line [602, 603, 604, 608]
+    title "run-llama/ParseBench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 601 --> 613
+    line [602, 603, 604, 608, 612]
 ```
 
-2026-10-18 602 → 2026-10-23 608（+6）
+2026-10-18 602 → 2026-10-24 612（+10）
 
 
 ---

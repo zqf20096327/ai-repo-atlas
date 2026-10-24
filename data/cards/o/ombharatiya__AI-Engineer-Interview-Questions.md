@@ -1,6 +1,6 @@
 # ombharatiya/AI-Engineer-Interview-Questions
 
-⭐ 209 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ombharatiya/AI-Engineer-Interview-Questions) · [官网](https://aidaddy.tech) · 个人维护
+⭐ 219 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ombharatiya/AI-Engineer-Interview-Questions) · [官网](https://aidaddy.tech) · 个人维护
 
 **AI 工程师面试题库：1,172 题带答案与 33 家公司面试题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ombharatiya/AI-Engineer-Interview-Questions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 195 --> 210
-    line [196, 204, 206, 209]
+    title "ombharatiya/AI-Engineer-Interview-Questions 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 194 --> 221
+    line [196, 204, 206, 209, 219]
 ```
 
-2026-10-18 196 → 2026-10-23 209（+13）
+2026-10-18 196 → 2026-10-24 219（+23）
 
 
 ---

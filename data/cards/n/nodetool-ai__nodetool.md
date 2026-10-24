@@ -1,6 +1,6 @@
 # nodetool-ai/nodetool
 
-⭐ 583 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/nodetool-ai/nodetool) · [官网](https://nodetool.ai/) · 组织维护
+⭐ 584 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/nodetool-ai/nodetool) · [官网](https://nodetool.ai/) · 组织维护
 
 **Agent 驱动的创意工作台：用对话与节点图产出图像/视频/音频**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "nodetool-ai/nodetool 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 570 --> 584
-    line [571, 575, 580, 583]
+    title "nodetool-ai/nodetool 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 570 --> 585
+    line [571, 575, 580, 583, 584]
 ```
 
-2026-10-18 571 → 2026-10-23 583（+12）
+2026-10-18 571 → 2026-10-24 584（+13）
 
 
 ---

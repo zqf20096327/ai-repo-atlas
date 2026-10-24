@@ -1,6 +1,6 @@
 # ys-ll/uniterm
 
-⭐ 892 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ys-ll/uniterm) · [官网](https://uniterm.net) · 个人维护 · 中文 README
+⭐ 908 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ys-ll/uniterm) · [官网](https://uniterm.net) · 个人维护 · 中文 README
 
 **覆盖 30+ 协议的一体化终端，内置自主执行命令的 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ys-ll/uniterm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 853 --> 895
-    line [856, 864, 878, 892]
+    title "ys-ll/uniterm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 851 --> 913
+    line [856, 864, 878, 892, 908]
 ```
 
-2026-10-18 856 → 2026-10-23 892（+36）
+2026-10-18 856 → 2026-10-24 908（+52）
 
 
 ---

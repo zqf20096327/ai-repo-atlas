@@ -1,6 +1,6 @@
 # xalgorix/xalgorix
 
-⭐ 1,224 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/xalgorix/xalgorix) · [官网](https://www.xalgorix.com) · 组织维护
+⭐ 1,229 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xalgorix/xalgorix) · [官网](https://www.xalgorix.com) · 组织维护
 
 **自托管的自主 AI 渗透测试平台，产出经复验的漏洞证据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xalgorix/xalgorix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1209 --> 1225
-    line [1210, 1217, 1221, 1224]
+    title "xalgorix/xalgorix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1209 --> 1230
+    line [1210, 1217, 1221, 1224, 1229]
 ```
 
-2026-10-18 1,210 → 2026-10-23 1,224（+14）
+2026-10-18 1,210 → 2026-10-24 1,229（+19）
 
 
 ---

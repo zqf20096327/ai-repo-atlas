@@ -1,6 +1,6 @@
 # cortexkit/aft
 
-⭐ 331 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cortexkit/aft) · [官网](https://discord.gg/DSa65w8wuf) · 组织维护
+⭐ 331 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/cortexkit/aft) · [官网](https://discord.gg/DSa65w8wuf) · 组织维护
 
 **为编码 agent 提供符号级代码感知与执行环境的工具层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cortexkit/aft 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "cortexkit/aft 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 324 --> 332
-    line [325, 327, 330, 331]
+    line [325, 327, 330, 331, 331]
 ```
 
-2026-10-18 325 → 2026-10-23 331（+6）
+2026-10-18 325 → 2026-10-24 331（+6）
 
 
 ---

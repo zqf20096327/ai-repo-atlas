@@ -1,6 +1,6 @@
 # Angel-ML/angel
 
-⭐ 6,794 · Java · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/Angel-ML/angel) · 组织维护 · 中文 README
+⭐ 6,794 · Java · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Angel-ML/angel) · 组织维护 · 中文 README
 
 **腾讯等研发的大规模分布式机器学习参数服务器平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Angel-ML/angel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 6793 --> 6795
     line [6794, 6794]
 ```
 
-2026-10-18 6,794 → 2026-10-23 6,794（+0）
+2026-10-18 6,794 → 2026-10-24 6,794（+0）
 
 
 ---

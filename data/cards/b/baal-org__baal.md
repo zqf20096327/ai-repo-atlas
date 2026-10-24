@@ -1,6 +1,6 @@
 # baal-org/baal
 
-⭐ 936 · Python · Apache-2.0 · 推送 2025-12-03 · [GitHub](https://github.com/baal-org/baal) · [官网](https://baal.readthedocs.io) · 组织维护
+⭐ 937 · Python · Apache-2.0 · 推送 2025-12-03 · [GitHub](https://github.com/baal-org/baal) · [官网](https://baal.readthedocs.io) · 组织维护
 
 **给研究与工业界的贝叶斯主动学习 PyTorch 库**
 
@@ -46,12 +46,12 @@ Python 主动学习库，面向科研与工业场景。支持 Monte-Carlo Dropou
 ```mermaid
 xychart-beta
     title "baal-org/baal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 935 --> 937
-    line [936, 936]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 935 --> 938
+    line [936, 937]
 ```
 
-2026-10-18 936 → 2026-10-23 936（+0）
+2026-10-18 936 → 2026-10-24 937（+1）
 
 
 ---

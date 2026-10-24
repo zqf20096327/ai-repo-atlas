@@ -1,6 +1,6 @@
 # ArtificialAnalysis/Stirrup
 
-⭐ 666 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ArtificialAnalysis/Stirrup) · [官网](https://stirrup.artificialanalysis.ai) · 组织维护
+⭐ 667 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ArtificialAnalysis/Stirrup) · [官网](https://stirrup.artificialanalysis.ai) · 组织维护
 
 **给开发者的轻量级 Python agent 构建框架**
 
@@ -44,13 +44,13 @@ ArtificialAnalysis 维护的轻量级 Python 框架，可作为包或起始模�
 
 ```mermaid
 xychart-beta
-    title "ArtificialAnalysis/Stirrup 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 659 --> 667
-    line [660, 662, 664, 666]
+    title "ArtificialAnalysis/Stirrup 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 659 --> 668
+    line [660, 662, 664, 666, 667]
 ```
 
-2026-10-18 660 → 2026-10-23 666（+6）
+2026-10-18 660 → 2026-10-24 667（+7）
 
 
 ---

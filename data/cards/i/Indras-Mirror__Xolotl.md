@@ -1,6 +1,6 @@
 # Indras-Mirror/Xolotl
 
-⭐ 287 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Indras-Mirror/Xolotl) · [官网](https://github.com/Niko1221/Strata) · 个人维护
+⭐ 307 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Indras-Mirror/Xolotl) · [官网](https://github.com/Niko1221/Strata) · 个人维护
 
 **在单张游戏显卡上运行 552B MoE 模型的推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Indras-Mirror/Xolotl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10 --> 312
-    line [35, 172, 263, 287]
+    title "Indras-Mirror/Xolotl 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8 --> 334
+    line [35, 172, 263, 287, 307]
 ```
 
-2026-10-18 35 → 2026-10-23 287（+252）
+2026-10-18 35 → 2026-10-24 307（+272）
 
 
 ---

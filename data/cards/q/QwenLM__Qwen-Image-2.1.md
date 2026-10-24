@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Image-2.1
 
-⭐ 2,045 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/QwenLM/Qwen-Image-2.1) · 组织维护 · 中文 README
+⭐ 2,054 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/QwenLM/Qwen-Image-2.1) · 组织维护 · 中文 README
 
 **7B 文生图与图像编辑统一模型，支持透明图生成与多参考编辑**
 
@@ -45,13 +45,13 @@ Qwen 团队开源的文生图与图像编辑统一模型：视觉生成组件 7B
 
 ```mermaid
 xychart-beta
-    title "QwenLM/Qwen-Image-2.1 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1970 --> 2051
-    line [1976, 2010, 2035, 2045]
+    title "QwenLM/Qwen-Image-2.1 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1969 --> 2061
+    line [1976, 2010, 2035, 2045, 2054]
 ```
 
-2026-10-18 1,976 → 2026-10-23 2,045（+69）
+2026-10-18 1,976 → 2026-10-24 2,054（+78）
 
 
 ---

@@ -1,6 +1,6 @@
 # OrionStarAI/EasyCode
 
-⭐ 422 · TypeScript · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/OrionStarAI/EasyCode) · [官网](https://easycode.bot) · 组织维护 · 中文 README
+⭐ 421 · TypeScript · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/OrionStarAI/EasyCode) · [官网](https://easycode.bot) · 组织维护 · 中文 README
 
 **给开发者的 CLI/VS Code AI 编程助手，支持多模型接入与任务派发**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OrionStarAI/EasyCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 421 --> 423
-    line [422, 422]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 420 --> 423
+    line [422, 421]
 ```
 
-2026-10-18 422 → 2026-10-23 422（+0）
+2026-10-18 422 → 2026-10-24 421（-1）
 
 
 ---

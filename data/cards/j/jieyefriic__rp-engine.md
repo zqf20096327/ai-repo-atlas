@@ -1,6 +1,6 @@
 # jieyefriic/rp-engine
 
-⭐ 1,210 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/jieyefriic/rp-engine) · [官网](https://crates.io/crates/riceprompt-engine) · 组织维护 · 中文 README
+⭐ 1,209 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/jieyefriic/rp-engine) · [官网](https://crates.io/crates/riceprompt-engine) · 组织维护 · 中文 README
 
 **Rust 编写的 YAML 原生 agent 工作流执行引擎，供开发者编排 LLM 任务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jieyefriic/rp-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "jieyefriic/rp-engine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1208 --> 1211
-    line [1210, 1209, 1210]
+    line [1210, 1209, 1210, 1209]
 ```
 
-2026-10-18 1,210 → 2026-10-23 1,210（+0）
+2026-10-18 1,210 → 2026-10-24 1,209（-1）
 
 
 ---

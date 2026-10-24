@@ -1,6 +1,6 @@
 # guoguo-tju/agent_java_offer
 
-⭐ 789 · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/guoguo-tju/agent_java_offer) · 个人维护 · 中文 README
+⭐ 791 · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/guoguo-tju/agent_java_offer) · 个人维护 · 中文 README
 
 **后端转 AI Agent 方向的面试结构化复习资料库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guoguo-tju/agent_java_offer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 783 --> 790
-    line [784, 786, 789, 789]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 783 --> 792
+    line [784, 786, 789, 791]
 ```
 
-2026-10-18 784 → 2026-10-23 789（+5）
+2026-10-18 784 → 2026-10-24 791（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # patoles/agent-flow
 
-⭐ 1,729 · TypeScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/patoles/agent-flow) · [官网](https://marketplace.visualstudio.com/items?itemName=simon-p.agent-flow) · 组织维护
+⭐ 1,731 · TypeScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/patoles/agent-flow) · [官网](https://marketplace.visualstudio.com/items?itemName=simon-p.agent-flow) · 组织维护
 
 **Claude Code/Codex agent 执行的实时可视化工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "patoles/agent-flow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1712 --> 1730
-    line [1713, 1719, 1729]
+    title "patoles/agent-flow 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1712 --> 1732
+    line [1713, 1719, 1729, 1731]
 ```
 
-2026-10-18 1,713 → 2026-10-23 1,729（+16）
+2026-10-18 1,713 → 2026-10-24 1,731（+18）
 
 
 ---

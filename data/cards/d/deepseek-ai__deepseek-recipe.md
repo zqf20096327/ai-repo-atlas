@@ -1,6 +1,6 @@
 # deepseek-ai/deepseek-recipe
 
-⭐ 2,131 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/deepseek-ai/deepseek-recipe) · 组织维护 · 中文 README
+⭐ 2,256 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/deepseek-ai/deepseek-recipe) · 组织维护 · 中文 README
 
 **Rust 库+Python 绑定：把多格式 API 请求转换为 DeepSeek 提示与词元**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/deepseek-recipe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 239 --> 2303
-    line [411, 432, 1889, 2131]
+    title "deepseek-ai/deepseek-recipe 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 227 --> 2440
+    line [411, 432, 1889, 2131, 2256]
 ```
 
-2026-10-18 411 → 2026-10-23 2,131（+1,720）
+2026-10-18 411 → 2026-10-24 2,256（+1,845）
 
 
 ---

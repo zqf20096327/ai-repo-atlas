@@ -1,6 +1,6 @@
 # Vistyy/nopus
 
-⭐ 298 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Vistyy/nopus) · 个人维护
+⭐ 299 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Vistyy/nopus) · 个人维护
 
 **检测编码代理回答冗语的确定性文风检查插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vistyy/nopus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "Vistyy/nopus 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 297 --> 300
-    line [298, 299, 298]
+    line [298, 299, 298, 299]
 ```
 
-2026-10-18 298 → 2026-10-23 298（+0）
+2026-10-18 298 → 2026-10-24 299（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # guaardvark/guaardvark
 
-⭐ 273 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/guaardvark/guaardvark) · [官网](https://guaardvark.com) · 个人维护
+⭐ 282 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/guaardvark/guaardvark) · [官网](https://guaardvark.com) · 个人维护
 
 **自托管本地 AI 工作室：RAG、桌面/浏览器 agent、生成媒体全跑自有 GPU**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "guaardvark/guaardvark 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 267 --> 274
-    line [268, 270, 273, 273]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 267 --> 283
+    line [268, 270, 273, 282]
 ```
 
-2026-10-18 268 → 2026-10-23 273（+5）
+2026-10-18 268 → 2026-10-24 282（+14）
 
 
 ---

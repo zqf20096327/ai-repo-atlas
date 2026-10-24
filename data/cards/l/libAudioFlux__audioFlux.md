@@ -1,6 +1,6 @@
 # libAudioFlux/audioFlux
 
-⭐ 3,375 · C · MIT · 推送 2026-03-06 · [GitHub](https://github.com/libAudioFlux/audioFlux) · [官网](https://audioflux.top) · 组织维护
+⭐ 3,376 · C · MIT · 推送 2026-03-06 · [GitHub](https://github.com/libAudioFlux/audioFlux) · [官网](https://audioflux.top) · 组织维护
 
 **面向深度学习的音频与音乐分析、特征提取库**
 
@@ -44,13 +44,13 @@ audioFlux 是用于音频与音乐分析及特征提取的库，基于数据流�
 
 ```mermaid
 xychart-beta
-    title "libAudioFlux/audioFlux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3370 --> 3376
-    line [3371, 3372, 3375]
+    title "libAudioFlux/audioFlux 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3370 --> 3377
+    line [3371, 3372, 3375, 3376]
 ```
 
-2026-10-18 3,371 → 2026-10-23 3,375（+4）
+2026-10-18 3,371 → 2026-10-24 3,376（+5）
 
 
 ---

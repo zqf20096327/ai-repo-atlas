@@ -1,6 +1,6 @@
 # ruc-datalab/EvoOntology
 
-⭐ 1,015 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ruc-datalab/EvoOntology) · 组织维护 · 中文 README
+⭐ 1,033 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ruc-datalab/EvoOntology) · 组织维护 · 中文 README
 
 **为数据 Agent 构建并持续进化的本体层 MCP 插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruc-datalab/EvoOntology 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 940 --> 1021
-    line [946, 986, 1007, 1015]
+    title "ruc-datalab/EvoOntology 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 938 --> 1041
+    line [946, 986, 1007, 1015, 1033]
 ```
 
-2026-10-18 946 → 2026-10-23 1,015（+69）
+2026-10-18 946 → 2026-10-24 1,033（+87）
 
 
 ---

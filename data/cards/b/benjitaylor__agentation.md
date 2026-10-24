@@ -1,6 +1,6 @@
 # benjitaylor/agentation
 
-⭐ 5,025 · TypeScript · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/benjitaylor/agentation) · [官网](https://agentation.com) · 个人维护
+⭐ 5,032 · TypeScript · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/benjitaylor/agentation) · [官网](https://agentation.com) · 个人维护
 
 **让开发者在页面上标注元素并输出结构化反馈给 AI 编程代理**
 
@@ -44,13 +44,13 @@ React 组件形式的可视化反馈工具：在网页右下角注入工具栏�
 
 ```mermaid
 xychart-beta
-    title "benjitaylor/agentation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4986 --> 5028
-    line [4989, 5004, 5019, 5025]
+    title "benjitaylor/agentation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4985 --> 5036
+    line [4989, 5004, 5019, 5025, 5032]
 ```
 
-2026-10-18 4,989 → 2026-10-23 5,025（+36）
+2026-10-18 4,989 → 2026-10-24 5,032（+43）
 
 
 ---

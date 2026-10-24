@@ -1,6 +1,6 @@
 # nathaninline/ajean
 
-⭐ 100 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nathaninline/ajean) · [官网](https://ajean.app) · 个人维护
+⭐ 101 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nathaninline/ajean) · [官网](https://ajean.app) · 个人维护
 
 **单文件本地 AI 助手：在家用电脑上运行带记忆与工具的聊天助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nathaninline/ajean 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 90 --> 101
-    line [91, 95, 100]
+    title "nathaninline/ajean 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 90 --> 102
+    line [91, 95, 100, 101]
 ```
 
-2026-10-18 91 → 2026-10-23 100（+9）
+2026-10-18 91 → 2026-10-24 101（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # netdata/netdata
 
-⭐ 81,091 · Go · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/netdata/netdata) · [官网](https://www.netdata.cloud) · 组织维护
+⭐ 81,104 · Go · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/netdata/netdata) · [官网](https://www.netdata.cloud) · 组织维护
 
 **为基础设施团队提供每秒级实时监控与 ML 异常检测**
 
@@ -52,13 +52,13 @@ Netdata 是开源实时基础设施监控平台，Agent 部署在被监控节点
 
 ```mermaid
 xychart-beta
-    title "netdata/netdata 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 80975 --> 81101
-    line [80985, 81033, 81077, 81091]
+    title "netdata/netdata 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 80974 --> 81115
+    line [80985, 81033, 81077, 81091, 81104]
 ```
 
-2026-10-18 80,985 → 2026-10-23 81,091（+106）
+2026-10-18 80,985 → 2026-10-24 81,104（+119）
 
 
 ---

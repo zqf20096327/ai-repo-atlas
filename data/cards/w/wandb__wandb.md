@@ -1,6 +1,6 @@
 # wandb/wandb
 
-⭐ 11,308 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wandb/wandb) · [官网](https://wandb.ai) · 组织维护
+⭐ 11,306 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wandb/wandb) · [官网](https://wandb.ai) · 组织维护
 
 **面向开发者的 ML 实验跟踪与模型管理平台**
 
@@ -45,13 +45,13 @@ Weights & Biases 提供 Python 库与托管平台，用于记录、可视化和�
 
 ```mermaid
 xychart-beta
-    title "wandb/wandb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "wandb/wandb 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 11298 --> 11309
-    line [11299, 11302, 11305, 11308]
+    line [11299, 11302, 11305, 11308, 11306]
 ```
 
-2026-10-18 11,299 → 2026-10-23 11,308（+9）
+2026-10-18 11,299 → 2026-10-24 11,306（+7）
 
 
 ---

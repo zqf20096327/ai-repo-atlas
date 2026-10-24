@@ -1,6 +1,6 @@
 # 1EchA/how-to-vibecoding
 
-⭐ 928 · MIT · 推送 2026-04-27 · [GitHub](https://github.com/1EchA/how-to-vibecoding) · 个人维护 · 中文 README
+⭐ 929 · MIT · 推送 2026-04-27 · [GitHub](https://github.com/1EchA/how-to-vibecoding) · 个人维护 · 中文 README
 
 **Vibecoding 中文系列教程：环境搭建到多智能体协作**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "1EchA/how-to-vibecoding 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 920 --> 929
-    line [921, 925, 927, 928]
+    title "1EchA/how-to-vibecoding 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 920 --> 930
+    line [921, 925, 927, 928, 929]
 ```
 
-2026-10-18 921 → 2026-10-23 928（+7）
+2026-10-18 921 → 2026-10-24 929（+8）
 
 
 ---

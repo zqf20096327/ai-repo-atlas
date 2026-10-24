@@ -1,6 +1,6 @@
 # ai-ppt-template/free-ppt-template
 
-⭐ 778 · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/ai-ppt-template/free-ppt-template) · [官网](https://ppttemplate.ai) · 组织维护
+⭐ 779 · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/ai-ppt-template/free-ppt-template) · [官网](https://ppttemplate.ai) · 组织维护
 
 **595 套 AI 生成 PPT 模板目录：可预览下载 .pptx**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-ppt-template/free-ppt-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 769 --> 779
-    line [770, 772, 775, 778]
+    title "ai-ppt-template/free-ppt-template 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 769 --> 780
+    line [770, 772, 775, 778, 779]
 ```
 
-2026-10-18 770 → 2026-10-23 778（+8）
+2026-10-18 770 → 2026-10-24 779（+9）
 
 
 ---

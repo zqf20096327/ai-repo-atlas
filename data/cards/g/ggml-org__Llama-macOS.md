@@ -1,6 +1,6 @@
 # ggml-org/Llama-macOS
 
-⭐ 1,665 · Swift · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ggml-org/Llama-macOS) · [官网](https://llama.app) · 组织维护
+⭐ 1,669 · Swift · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ggml-org/Llama-macOS) · [官网](https://llama.app) · 组织维护
 
 **macOS 菜单栏应用：本地运行 LLM 并提供 OpenAI 风格 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ggml-org/Llama-macOS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1637 --> 1667
-    line [1639, 1658, 1659, 1665]
+    title "ggml-org/Llama-macOS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1636 --> 1672
+    line [1639, 1658, 1659, 1665, 1669]
 ```
 
-2026-10-18 1,639 → 2026-10-23 1,665（+26）
+2026-10-18 1,639 → 2026-10-24 1,669（+30）
 
 
 ---

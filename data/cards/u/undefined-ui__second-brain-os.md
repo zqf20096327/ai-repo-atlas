@@ -1,6 +1,6 @@
 # undefined-ui/second-brain-os
 
-⭐ 1,110 · HTML · MIT · 推送 2026-10-14 · [GitHub](https://github.com/undefined-ui/second-brain-os) · [官网](https://x.com/undefinedKi/status/2068306794116501544) · 组织维护
+⭐ 1,116 · HTML · MIT · 推送 2026-10-14 · [GitHub](https://github.com/undefined-ui/second-brain-os) · [官网](https://x.com/undefinedKi/status/2068306794116501544) · 组织维护
 
 **AI 自维护第二大脑的完整指南、模板与 agent 技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "undefined-ui/second-brain-os 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1096 --> 1111
-    line [1097, 1103, 1106, 1110]
+    title "undefined-ui/second-brain-os 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1096 --> 1117
+    line [1097, 1103, 1106, 1110, 1116]
 ```
 
-2026-10-18 1,097 → 2026-10-23 1,110（+13）
+2026-10-18 1,097 → 2026-10-24 1,116（+19）
 
 
 ---

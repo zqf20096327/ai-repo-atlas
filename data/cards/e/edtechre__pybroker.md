@@ -1,6 +1,6 @@
 # edtechre/pybroker
 
-⭐ 3,636 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/edtechre/pybroker) · [官网](https://www.pybroker.com) · 个人维护
+⭐ 3,649 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/edtechre/pybroker) · [官网](https://www.pybroker.com) · 个人维护
 
 **Python 机器学习算法交易框架：策略开发与回测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "edtechre/pybroker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3616 --> 3637
-    line [3617, 3620, 3631, 3636]
+    title "edtechre/pybroker 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3614 --> 3652
+    line [3617, 3620, 3631, 3636, 3649]
 ```
 
-2026-10-18 3,617 → 2026-10-23 3,636（+19）
+2026-10-18 3,617 → 2026-10-24 3,649（+32）
 
 
 ---

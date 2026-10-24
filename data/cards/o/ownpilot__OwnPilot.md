@@ -1,6 +1,6 @@
 # ownpilot/OwnPilot
 
-⭐ 430 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/ownpilot/OwnPilot) · [官网](http://ownpilot.dev/) · 组织维护
+⭐ 429 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/ownpilot/OwnPilot) · [官网](http://ownpilot.dev/) · 组织维护
 
 **自托管的隐私优先个人 AI 助手平台，含自主 agent 与工具编排**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ownpilot/OwnPilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "ownpilot/OwnPilot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 425 --> 431
-    line [426, 428, 430]
+    line [426, 428, 430, 429]
 ```
 
-2026-10-18 426 → 2026-10-23 430（+4）
+2026-10-18 426 → 2026-10-24 429（+3）
 
 
 ---

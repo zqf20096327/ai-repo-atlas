@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "johannesbrandenburger/typst-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "johannesbrandenburger/typst-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 182 --> 186
-    line [183, 184, 185]
+    line [183, 184, 185, 185]
 ```
 
-2026-10-18 183 → 2026-10-23 185（+2）
+2026-10-18 183 → 2026-10-24 185（+2）
 
 
 ---

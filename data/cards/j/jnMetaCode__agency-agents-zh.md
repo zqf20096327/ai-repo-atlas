@@ -1,6 +1,6 @@
 # jnMetaCode/agency-agents-zh
 
-⭐ 21,508 · Shell · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jnMetaCode/agency-agents-zh) · [官网](https://ao.aiolaola.com/experts) · 个人维护 · 中文 README
+⭐ 21,537 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-zh) · [官网](https://ao.aiolaola.com/experts) · 个人维护 · 中文 README
 
 **328 个即插即用 AI 专家角色库，覆盖 22 个部门、支持 20 种工具**
 
@@ -52,13 +52,13 @@ AI 智能体角色定义的中文策展仓库：收录 328 个专家角色（261
 
 ```mermaid
 xychart-beta
-    title "jnMetaCode/agency-agents-zh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 21313 --> 21525
-    line [21330, 21383, 21508]
+    title "jnMetaCode/agency-agents-zh 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 21310 --> 21557
+    line [21330, 21383, 21508, 21537]
 ```
 
-2026-10-18 21,330 → 2026-10-23 21,508（+178）
+2026-10-18 21,330 → 2026-10-24 21,537（+207）
 
 
 ---

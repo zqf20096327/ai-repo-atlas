@@ -1,6 +1,6 @@
 # MTG/mtg-jamendo-dataset
 
-⭐ 412 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/MTG/mtg-jamendo-dataset) · 组织维护
+⭐ 413 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/MTG/mtg-jamendo-dataset) · 组织维护
 
 **音乐自动标注开放数据集：5.5万首曲目、195个标签及基线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MTG/mtg-jamendo-dataset 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 410 --> 413
-    line [411, 412, 412]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 410 --> 414
+    line [411, 412, 413]
 ```
 
-2026-10-18 411 → 2026-10-23 412（+1）
+2026-10-18 411 → 2026-10-24 413（+2）
 
 
 ---

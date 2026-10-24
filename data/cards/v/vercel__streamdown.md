@@ -1,6 +1,6 @@
 # vercel/streamdown
 
-⭐ 5,720 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/vercel/streamdown) · [官网](https://streamdown.ai) · 组织维护
+⭐ 5,722 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/vercel/streamdown) · [官网](https://streamdown.ai) · 组织维护
 
 **面向 AI 流式输出的 react-markdown 替代 React 组件**
 
@@ -45,13 +45,13 @@ npm 包形式的 React Markdown 渲染组件，定位为 react-markdown 的 drop
 
 ```mermaid
 xychart-beta
-    title "vercel/streamdown 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5706 --> 5721
-    line [5707, 5710, 5718, 5720]
+    title "vercel/streamdown 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5706 --> 5723
+    line [5707, 5710, 5718, 5720, 5722]
 ```
 
-2026-10-18 5,707 → 2026-10-23 5,720（+13）
+2026-10-18 5,707 → 2026-10-24 5,722（+15）
 
 
 ---

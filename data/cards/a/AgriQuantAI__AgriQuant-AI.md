@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriQuantAI/AgriQuant-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "AgriQuantAI/AgriQuant-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 645 --> 659
-    line [658, 646]
+    line [658, 646, 646]
 ```
 
-2026-10-18 658 → 2026-10-23 646（-12）
+2026-10-18 658 → 2026-10-24 646（-12）
 
 
 ---

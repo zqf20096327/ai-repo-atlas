@@ -1,6 +1,6 @@
 # MaartenGr/BERTopic
 
-⭐ 7,904 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MaartenGr/BERTopic) · [官网](https://maartengr.github.io/BERTopic/) · 个人维护
+⭐ 7,907 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MaartenGr/BERTopic) · [官网](https://maartengr.github.io/BERTopic/) · 个人维护
 
 **给开发者/NLP 研究者的主题建模库：从文本生成可解释主题**
 
@@ -44,13 +44,13 @@ BERTopic 是基于 transformers 与 c-TF-IDF 的主题建模 Python 库，对文
 
 ```mermaid
 xychart-beta
-    title "MaartenGr/BERTopic 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7895 --> 7905
-    line [7896, 7899, 7903, 7904]
+    title "MaartenGr/BERTopic 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7895 --> 7908
+    line [7896, 7899, 7903, 7904, 7907]
 ```
 
-2026-10-18 7,896 → 2026-10-23 7,904（+8）
+2026-10-18 7,896 → 2026-10-24 7,907（+11）
 
 
 ---

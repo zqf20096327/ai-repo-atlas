@@ -1,6 +1,6 @@
 # microsoft/renderformer
 
-⭐ 979 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/microsoft/renderformer) · [官网](https://microsoft.github.io/renderformer/) · 组织维护
+⭐ 981 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/microsoft/renderformer) · [官网](https://microsoft.github.io/renderformer/) · 组织维护
 
 **从三角网格直接生成含全局光照渲染图像的神经渲染管线**
 
@@ -45,12 +45,12 @@ SIGGRAPH 2025 论文的官方代码（微软）：RenderFormer 将渲染表述�
 ```mermaid
 xychart-beta
     title "microsoft/renderformer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 975 --> 980
-    line [976, 979, 979]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 975 --> 982
+    line [976, 979, 981]
 ```
 
-2026-10-18 976 → 2026-10-23 979（+3）
+2026-10-18 976 → 2026-10-24 981（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # FalkorDB/GraphRAG-SDK
 
-⭐ 1,025 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/FalkorDB/GraphRAG-SDK) · [官网](https://www.falkordb.com/) · 组织维护
+⭐ 1,026 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/FalkorDB/GraphRAG-SDK) · [官网](https://www.falkordb.com/) · 组织维护
 
 **给开发者的 GraphRAG 框架：基于 FalkorDB 构建带溯源的 RAG 应用**
 
@@ -44,13 +44,13 @@ FalkorDB 维护的 Python GraphRAG SDK：把原始文档经实体/关系抽取�
 
 ```mermaid
 xychart-beta
-    title "FalkorDB/GraphRAG-SDK 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1019 --> 1026
-    line [1020, 1022, 1024, 1025]
+    title "FalkorDB/GraphRAG-SDK 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1019 --> 1027
+    line [1020, 1022, 1024, 1025, 1026]
 ```
 
-2026-10-18 1,020 → 2026-10-23 1,025（+5）
+2026-10-18 1,020 → 2026-10-24 1,026（+6）
 
 
 ---

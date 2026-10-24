@@ -1,6 +1,6 @@
 # btsouth/toolport
 
-⭐ 235 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/btsouth/toolport) · [官网](https://toolport.app) · 个人维护
+⭐ 236 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/btsouth/toolport) · [官网](https://toolport.app) · 个人维护
 
 **本地优先的 MCP 网关：一次配置 MCP 服务器供各 AI 客户端共用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "btsouth/toolport 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 228 --> 236
-    line [229, 233, 235, 235]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 228 --> 237
+    line [229, 233, 235, 236]
 ```
 
-2026-10-18 229 → 2026-10-23 235（+6）
+2026-10-18 229 → 2026-10-24 236（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # EvolvingLMMs-Lab/LLaVA-OneVision-2
 
-⭐ 1,225 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2) · [官网](https://evolvinglmms-lab.github.io/LLaVA-OneVision-2/projects/index.html) · 组织维护
+⭐ 1,225 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2) · [官网](https://evolvinglmms-lab.github.io/LLaVA-OneVision-2/projects/index.html) · 组织维护
 
 **开源 8B 多模态大模型及全流程训练框架（图像/长视频/空间）**
 
@@ -44,13 +44,13 @@ LLaVA-OneVision 系列的下一代发布：单一 8B 模型统一图像、长视
 
 ```mermaid
 xychart-beta
-    title "EvolvingLMMs-Lab/LLaVA-OneVision-2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "EvolvingLMMs-Lab/LLaVA-OneVision-2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1221 --> 1226
-    line [1222, 1224, 1225]
+    line [1222, 1224, 1225, 1225]
 ```
 
-2026-10-18 1,222 → 2026-10-23 1,225（+3）
+2026-10-18 1,222 → 2026-10-24 1,225（+3）
 
 
 ---

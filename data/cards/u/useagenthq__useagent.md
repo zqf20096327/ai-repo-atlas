@@ -1,6 +1,6 @@
 # useagenthq/useagent
 
-⭐ 377 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/useagenthq/useagent) · [官网](https://app.useagent.org) · 组织维护
+⭐ 380 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/useagenthq/useagent) · [官网](https://app.useagent.org) · 组织维护
 
 **开源 Devin 替代：在可自托管的隔离工作区运行 Claude Code 等编码代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "useagenthq/useagent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 362 --> 378
-    line [363, 368, 372, 377]
+    title "useagenthq/useagent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 362 --> 381
+    line [363, 368, 372, 377, 380]
 ```
 
-2026-10-18 363 → 2026-10-23 377（+14）
+2026-10-18 363 → 2026-10-24 380（+17）
 
 
 ---

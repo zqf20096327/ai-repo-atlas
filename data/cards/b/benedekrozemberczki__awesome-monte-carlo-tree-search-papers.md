@@ -1,6 +1,6 @@
 # benedekrozemberczki/awesome-monte-carlo-tree-search-papers
 
-⭐ 716 · Python · CC0-1.0 · 推送 2026-01-13 · [GitHub](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) · 个人维护
+⭐ 717 · Python · CC0-1.0 · 推送 2026-01-13 · [GitHub](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) · 个人维护
 
 **蒙特卡洛树搜索论文策展清单：按会议与年份收录论文及实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "benedekrozemberczki/awesome-monte-carlo-tree-search-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 715 --> 717
-    line [716, 716]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 715 --> 718
+    line [716, 717]
 ```
 
-2026-10-18 716 → 2026-10-23 716（+0）
+2026-10-18 716 → 2026-10-24 717（+1）
 
 
 ---

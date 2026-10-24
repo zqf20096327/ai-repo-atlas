@@ -1,6 +1,6 @@
 # langchain-ai/langconnect
 
-⭐ 345 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/langconnect) · 组织维护
+⭐ 345 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langconnect) · 组织维护
 
 **基于 FastAPI 与 LangChain 的托管 RAG REST API 服务**
 
@@ -45,12 +45,12 @@ LangConnect 是一个用 FastAPI 与 LangChain 构建的 RAG 服务，提供 RES
 ```mermaid
 xychart-beta
     title "langchain-ai/langconnect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 344 --> 346
     line [345, 345]
 ```
 
-2026-10-18 345 → 2026-10-23 345（+0）
+2026-10-18 345 → 2026-10-24 345（+0）
 
 
 ---

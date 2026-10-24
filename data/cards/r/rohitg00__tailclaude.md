@@ -1,6 +1,6 @@
 # rohitg00/tailclaude
 
-⭐ 266 · TypeScript · 推送 2026-02-26 · [GitHub](https://github.com/rohitg00/tailclaude) · 个人维护
+⭐ 267 · TypeScript · 推送 2026-02-26 · [GitHub](https://github.com/rohitg00/tailclaude) · 个人维护
 
 **浏览器使用 Claude Code 的自托管 Web 网关与界面**
 
@@ -45,12 +45,12 @@ TailClaude 是基于 iii 引擎的 Claude Code Web 前端/代理：在 Tailscale
 ```mermaid
 xychart-beta
     title "rohitg00/tailclaude 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 265 --> 267
-    line [266, 266]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 265 --> 268
+    line [266, 267]
 ```
 
-2026-10-18 266 → 2026-10-23 266（+0）
+2026-10-18 266 → 2026-10-24 267（+1）
 
 
 ---

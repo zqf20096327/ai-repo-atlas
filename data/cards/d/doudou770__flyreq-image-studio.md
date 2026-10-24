@@ -1,6 +1,6 @@
 # doudou770/flyreq-image-studio
 
-⭐ 162 · TypeScript · AGPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/doudou770/flyreq-image-studio) · [官网](https://image.flyreq.com) · 个人维护 · 中文 README
+⭐ 163 · TypeScript · AGPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/doudou770/flyreq-image-studio) · [官网](https://image.flyreq.com) · 个人维护 · 中文 README
 
 **自托管 AI 生图/视频工作台，多模型接入与无限画布**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "doudou770/flyreq-image-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 153 --> 163
-    line [154, 156, 159, 162]
+    title "doudou770/flyreq-image-studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 153 --> 164
+    line [154, 156, 159, 162, 163]
 ```
 
-2026-10-18 154 → 2026-10-23 162（+8）
+2026-10-18 154 → 2026-10-24 163（+9）
 
 
 ---

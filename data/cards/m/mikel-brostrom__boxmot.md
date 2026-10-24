@@ -1,6 +1,6 @@
 # mikel-brostrom/boxmot
 
-⭐ 8,318 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/mikel-brostrom/boxmot) · [官网](https://mikel-brostrom.github.io/boxmot/) · 个人维护
+⭐ 8,319 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/mikel-brostrom/boxmot) · [官网](https://mikel-brostrom.github.io/boxmot/) · 个人维护
 
 **可插拔多目标跟踪模块库，供开发者对任意检测器输出做跟踪**
 
@@ -45,13 +45,13 @@ BoxMOT 提供基于 Torch 结构的检测器、分割器、外观编码器与跟
 
 ```mermaid
 xychart-beta
-    title "mikel-brostrom/boxmot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "mikel-brostrom/boxmot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 8314 --> 8320
-    line [8315, 8317, 8319, 8318]
+    line [8315, 8317, 8319, 8318, 8319]
 ```
 
-2026-10-18 8,315 → 2026-10-23 8,318（+3）
+2026-10-18 8,315 → 2026-10-24 8,319（+4）
 
 
 ---

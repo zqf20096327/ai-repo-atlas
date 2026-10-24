@@ -1,6 +1,6 @@
 # Bria-AI/FIBO
 
-⭐ 353 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/Bria-AI/FIBO) · [官网](https://bria.ai) · 组织维护
+⭐ 355 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/Bria-AI/FIBO) · [官网](https://bria.ai) · 组织维护
 
 **8B 参数 JSON 原生文生图模型，支持可控迭代生成**
 
@@ -45,13 +45,13 @@ Bria 开源的 8B 参数 DiT 架构文生图模型，基于流匹配训练，使
 
 ```mermaid
 xychart-beta
-    title "Bria-AI/FIBO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 344 --> 354
-    line [345, 350, 353]
+    title "Bria-AI/FIBO 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 344 --> 356
+    line [345, 350, 353, 355]
 ```
 
-2026-10-18 345 → 2026-10-23 353（+8）
+2026-10-18 345 → 2026-10-24 355（+10）
 
 
 ---

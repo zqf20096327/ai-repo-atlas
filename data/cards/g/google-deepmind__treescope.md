@@ -46,12 +46,12 @@ IPython notebook 中的交互式 HTML pretty-printer 与 N 维数组（张量）
 ```mermaid
 xychart-beta
     title "google-deepmind/treescope 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 475 --> 477
     line [476, 476]
 ```
 
-2026-10-18 476 → 2026-10-23 476（+0）
+2026-10-18 476 → 2026-10-24 476（+0）
 
 
 ---

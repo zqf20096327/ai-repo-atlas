@@ -1,6 +1,6 @@
 # wiltodelta/remove-ai-watermarks
 
-⭐ 6,092 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/wiltodelta/remove-ai-watermarks) · [官网](https://raiw.cc) · 个人维护
+⭐ 6,106 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/wiltodelta/remove-ai-watermarks) · [官网](https://raiw.cc) · 个人维护
 
 **去除自有 AI 生成内容的水印与溯源元数据的 Python 库/CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wiltodelta/remove-ai-watermarks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6031 --> 6097
-    line [6036, 6059, 6076, 6092]
+    title "wiltodelta/remove-ai-watermarks 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6029 --> 6113
+    line [6036, 6059, 6076, 6092, 6106]
 ```
 
-2026-10-18 6,036 → 2026-10-23 6,092（+56）
+2026-10-18 6,036 → 2026-10-24 6,106（+70）
 
 
 ---

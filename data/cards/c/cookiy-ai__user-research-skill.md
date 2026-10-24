@@ -44,13 +44,13 @@ MIT 许可的 agent 技能包，安装到 Claude Code、Codex、Cursor、OpenCla
 
 ```mermaid
 xychart-beta
-    title "cookiy-ai/user-research-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "cookiy-ai/user-research-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1567 --> 1573
-    line [1568, 1569, 1572, 1569]
+    line [1568, 1569, 1572, 1569, 1569]
 ```
 
-2026-10-18 1,568 → 2026-10-23 1,569（+1）
+2026-10-18 1,568 → 2026-10-24 1,569（+1）
 
 
 ---

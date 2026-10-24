@@ -1,6 +1,6 @@
 # light-and-ray/awesome-alternative-uis-for-comfyui
 
-⭐ 130 · 推送 2026-10-05 · [GitHub](https://github.com/light-and-ray/awesome-alternative-uis-for-comfyui) · 个人维护
+⭐ 130 · 推送 2026-10-23 · [GitHub](https://github.com/light-and-ray/awesome-alternative-uis-for-comfyui) · 个人维护
 
 **使用 ComfyUI 后端的替代 UI 工具合集清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "light-and-ray/awesome-alternative-uis-for-comfyui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 127 --> 131
     line [128, 129, 130, 130]
 ```
 
-2026-10-18 128 → 2026-10-23 130（+2）
+2026-10-18 128 → 2026-10-24 130（+2）
 
 
 ---

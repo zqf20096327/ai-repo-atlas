@@ -1,6 +1,6 @@
 # arcee-ai/mergekit
 
-⭐ 7,414 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/arcee-ai/mergekit) · 组织维护
+⭐ 7,415 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/arcee-ai/mergekit) · 组织维护
 
 **合并多个预训练语言模型权重的 Python 工具包**
 
@@ -45,13 +45,13 @@ mergekit 通过 YAML 配置描述合并方案，在权重空间组合多个预�
 
 ```mermaid
 xychart-beta
-    title "arcee-ai/mergekit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 7400 --> 7415
-    line [7401, 7405, 7414]
+    title "arcee-ai/mergekit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7400 --> 7416
+    line [7401, 7405, 7414, 7415]
 ```
 
-2026-10-18 7,401 → 2026-10-23 7,414（+13）
+2026-10-18 7,401 → 2026-10-24 7,415（+14）
 
 
 ---

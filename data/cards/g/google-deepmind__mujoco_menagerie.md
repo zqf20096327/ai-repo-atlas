@@ -1,6 +1,6 @@
 # google-deepmind/mujoco_menagerie
 
-⭐ 4,247 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/mujoco_menagerie) · 组织维护
+⭐ 4,257 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/mujoco_menagerie) · 组织维护
 
 **Google DeepMind 维护的 MuJoCo 机器人仿真模型库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/mujoco_menagerie 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4206 --> 4250
-    line [4209, 4224, 4240, 4247]
+    title "google-deepmind/mujoco_menagerie 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4205 --> 4261
+    line [4209, 4224, 4240, 4247, 4257]
 ```
 
-2026-10-18 4,209 → 2026-10-23 4,247（+38）
+2026-10-18 4,209 → 2026-10-24 4,257（+48）
 
 
 ---

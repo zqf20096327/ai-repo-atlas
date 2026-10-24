@@ -1,6 +1,6 @@
 # zj-unicom-ai/UniEmployee
 
-⭐ 429 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zj-unicom-ai/UniEmployee) · 组织维护 · 中文 README
+⭐ 456 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zj-unicom-ai/UniEmployee) · 组织维护 · 中文 README
 
 **企业数字员工构建与运行平台：把员工经验固化为可上岗 AI 员工**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zj-unicom-ai/UniEmployee 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 356 --> 435
-    line [362, 363, 416, 429]
+    title "zj-unicom-ai/UniEmployee 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 353 --> 465
+    line [362, 363, 416, 429, 456]
 ```
 
-2026-10-18 362 → 2026-10-23 429（+67）
+2026-10-18 362 → 2026-10-24 456（+94）
 
 
 ---

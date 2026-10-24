@@ -1,6 +1,6 @@
 # Astro-Han/karpathy-llm-wiki
 
-⭐ 2,574 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/Astro-Han/karpathy-llm-wiki) · 个人维护
+⭐ 2,584 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/Astro-Han/karpathy-llm-wiki) · 个人维护
 
 **给编程 Agent 安装的可复用技能：构建带引用的 LLM 个人维基**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Astro-Han/karpathy-llm-wiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2501 --> 2580
-    line [2507, 2533, 2574]
+    title "Astro-Han/karpathy-llm-wiki 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2500 --> 2591
+    line [2507, 2533, 2574, 2584]
 ```
 
-2026-10-18 2,507 → 2026-10-23 2,574（+67）
+2026-10-18 2,507 → 2026-10-24 2,584（+77）
 
 
 ---

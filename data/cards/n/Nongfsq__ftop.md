@@ -1,6 +1,6 @@
 # Nongfsq/ftop
 
-⭐ 344 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Nongfsq/ftop) · [官网](https://github.com/Nongfsq/ftop/releases/latest) · 个人维护 · 中文 README
+⭐ 348 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Nongfsq/ftop) · [官网](https://github.com/Nongfsq/ftop/releases/latest) · 个人维护 · 中文 README
 
 **Apple Silicon Mac 的原生浮动面板系统监视器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nongfsq/ftop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 298 --> 348
-    line [302, 313, 339, 344]
+    title "Nongfsq/ftop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 298 --> 352
+    line [302, 313, 339, 344, 348]
 ```
 
-2026-10-18 302 → 2026-10-23 344（+42）
+2026-10-18 302 → 2026-10-24 348（+46）
 
 
 ---

@@ -1,6 +1,6 @@
 # fancydirty/mediary-scout
 
-⭐ 1,557 · TypeScript · 0BSD · 推送 2026-10-22 · [GitHub](https://github.com/fancydirty/mediary-scout) · [官网](https://mediaryscout.app) · 个人维护 · 中文 README
+⭐ 1,566 · TypeScript · 0BSD · 推送 2026-10-23 · [GitHub](https://github.com/fancydirty/mediary-scout) · [官网](https://mediaryscout.app) · 个人维护 · 中文 README
 
 **给自部署用户的 agent 驱动网盘媒体库，自动搜片转存补缺**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fancydirty/mediary-scout 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1516 --> 1560
-    line [1519, 1526, 1535, 1557]
+    title "fancydirty/mediary-scout 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1515 --> 1570
+    line [1519, 1526, 1535, 1557, 1566]
 ```
 
-2026-10-18 1,519 → 2026-10-23 1,557（+38）
+2026-10-18 1,519 → 2026-10-24 1,566（+47）
 
 
 ---

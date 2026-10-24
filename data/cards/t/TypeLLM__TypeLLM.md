@@ -1,6 +1,6 @@
 # TypeLLM/TypeLLM
 
-⭐ 970 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/TypeLLM/TypeLLM) · [官网](https://typellm.ai) · 组织维护
+⭐ 972 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/TypeLLM/TypeLLM) · [官网](https://typellm.ai) · 组织维护
 
 **让现有 LLM 输出类型安全结构化结果的生成框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TypeLLM/TypeLLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 956 --> 971
-    line [957, 962, 969, 970]
+    title "TypeLLM/TypeLLM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 956 --> 973
+    line [957, 962, 969, 970, 972]
 ```
 
-2026-10-18 957 → 2026-10-23 970（+13）
+2026-10-18 957 → 2026-10-24 972（+15）
 
 
 ---

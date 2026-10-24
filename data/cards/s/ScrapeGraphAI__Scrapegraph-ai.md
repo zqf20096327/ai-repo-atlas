@@ -1,6 +1,6 @@
 # ScrapeGraphAI/Scrapegraph-ai
 
-⭐ 32,133 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) · [官网](https://scrapegraphai.com) · 组织维护
+⭐ 32,159 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) · [官网](https://scrapegraphai.com) · 组织维护
 
 **基于 LLM 的 Python 网页抓取库，自然语言即抽取**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "ScrapeGraphAI/Scrapegraph-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 31812 --> 32162
-    line [31841, 31979, 32074, 32133]
+    title "ScrapeGraphAI/Scrapegraph-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 31810 --> 32190
+    line [31841, 31979, 32074, 32133, 32159]
 ```
 
-2026-10-18 31,841 → 2026-10-23 32,133（+292）
+2026-10-18 31,841 → 2026-10-24 32,159（+318）
 
 
 ---

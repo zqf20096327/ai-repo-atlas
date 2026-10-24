@@ -1,6 +1,6 @@
 # linghungegeg/Linghun
 
-⭐ 467 · TypeScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/linghungegeg/Linghun) · 个人维护 · 中文 README
+⭐ 469 · TypeScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/linghungegeg/Linghun) · 个人维护 · 中文 README
 
 **本地优先、证据优先的 AI 编程终端，供开发者用自然语言驱动真实工程闭环**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "linghungegeg/Linghun 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 456 --> 468
-    line [457, 459, 466, 467]
+    title "linghungegeg/Linghun 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 456 --> 470
+    line [457, 459, 466, 467, 469]
 ```
 
-2026-10-18 457 → 2026-10-23 467（+10）
+2026-10-18 457 → 2026-10-24 469（+12）
 
 
 ---

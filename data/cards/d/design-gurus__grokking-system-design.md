@@ -1,6 +1,6 @@
 # design-gurus/grokking-system-design
 
-⭐ 350 · CC-BY-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/design-gurus/grokking-system-design) · [官网](https://www.designgurus.io/course/grokking-the-system-design-interview) · 组织维护
+⭐ 353 · CC-BY-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/design-gurus/grokking-system-design) · [官网](https://www.designgurus.io/course/grokking-the-system-design-interview) · 组织维护
 
 **面向系统设计面试的免费模式化学习知识库（30 模式/59 题）**
 
@@ -45,13 +45,13 @@ DesignGurus.io 维护的免费开源学习内容库，作为其付费课程 Grok
 
 ```mermaid
 xychart-beta
-    title "design-gurus/grokking-system-design 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 339 --> 351
-    line [340, 346, 350]
+    title "design-gurus/grokking-system-design 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 339 --> 354
+    line [340, 346, 350, 353]
 ```
 
-2026-10-18 340 → 2026-10-23 350（+10）
+2026-10-18 340 → 2026-10-24 353（+13）
 
 
 ---

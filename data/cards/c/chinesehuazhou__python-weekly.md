@@ -1,6 +1,6 @@
 # chinesehuazhou/python-weekly
 
-⭐ 1,903 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/chinesehuazhou/python-weekly) · [官网](https://weekly.pythoncat.top) · 组织维护 · 中文 README
+⭐ 1,902 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/chinesehuazhou/python-weekly) · [官网](https://weekly.pythoncat.top) · 组织维护 · 中文 README
 
 **Python 生态中英文内容策展周刊（付费订阅制）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chinesehuazhou/python-weekly 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1902 --> 1906
-    line [1905, 1904, 1903]
+    title "chinesehuazhou/python-weekly 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1901 --> 1906
+    line [1905, 1904, 1903, 1902]
 ```
 
-2026-10-18 1,905 → 2026-10-23 1,903（-2）
+2026-10-18 1,905 → 2026-10-24 1,902（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # tinystruct/tinystruct
 
-⭐ 362 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/tinystruct/tinystruct) · [官网](https://tinystruct.org) · 组织维护
+⭐ 363 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tinystruct/tinystruct) · [官网](https://tinystruct.org) · 组织维护
 
 **面向 Java 开发者的轻量模块化 Web/CLI 应用框架，支持 AI 集成**
 
@@ -45,12 +45,12 @@ tinystruct 是一个 Java 应用框架（要求 JDK 17+、Maven），统一 CLI 
 ```mermaid
 xychart-beta
     title "tinystruct/tinystruct 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 361 --> 363
-    line [362, 362]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 361 --> 364
+    line [362, 363]
 ```
 
-2026-10-18 362 → 2026-10-23 362（+0）
+2026-10-18 362 → 2026-10-24 363（+1）
 
 
 ---

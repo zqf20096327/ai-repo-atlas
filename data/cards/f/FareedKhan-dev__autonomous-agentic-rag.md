@@ -1,6 +1,6 @@
 # FareedKhan-dev/autonomous-agentic-rag
 
-⭐ 228 · Jupyter Notebook · MIT · 推送 2025-11-13 · [GitHub](https://github.com/FareedKhan-dev/autonomous-agentic-rag) · [官网](https://medium.com/@fareedkhandev/building-self-improving-rag-agentic-system-to-improve-rag-pipeline-f55003af44c4) · 个人维护
+⭐ 227 · Jupyter Notebook · MIT · 推送 2025-11-13 · [GitHub](https://github.com/FareedKhan-dev/autonomous-agentic-rag) · [官网](https://medium.com/@fareedkhandev/building-self-improving-rag-agentic-system-to-improve-rag-pipeline-f55003af44c4) · 个人维护
 
 **教程/博文：构建自我改进的 Agentic RAG 流水线（医疗领域）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/autonomous-agentic-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 227 --> 229
-    line [228, 228]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 226 --> 229
+    line [228, 227]
 ```
 
-2026-10-18 228 → 2026-10-23 228（+0）
+2026-10-18 228 → 2026-10-24 227（-1）
 
 
 ---

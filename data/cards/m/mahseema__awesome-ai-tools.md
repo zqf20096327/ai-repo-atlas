@@ -1,6 +1,6 @@
 # mahseema/awesome-ai-tools
 
-⭐ 6,457 · MIT · 推送 2025-12-31 · [GitHub](https://github.com/mahseema/awesome-ai-tools) · 组织维护
+⭐ 6,463 · MIT · 推送 2025-12-31 · [GitHub](https://github.com/mahseema/awesome-ai-tools) · 组织维护
 
 **AI 工具策展清单：分类收录生成式 AI 工具与模型**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mahseema/awesome-ai-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6420 --> 6460
-    line [6423, 6436, 6447, 6457]
+    title "mahseema/awesome-ai-tools 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6419 --> 6467
+    line [6423, 6436, 6447, 6457, 6463]
 ```
 
-2026-10-18 6,423 → 2026-10-23 6,457（+34）
+2026-10-18 6,423 → 2026-10-24 6,463（+40）
 
 
 ---

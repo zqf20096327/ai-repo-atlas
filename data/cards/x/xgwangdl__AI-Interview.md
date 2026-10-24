@@ -1,6 +1,6 @@
 # xgwangdl/AI-Interview
 
-⭐ 234 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/xgwangdl/AI-Interview) · 个人维护 · 中文 README
+⭐ 236 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/xgwangdl/AI-Interview) · 个人维护 · 中文 README
 
 **AI 模拟面试训练系统：数字人面试官逐题提问、追问与评分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xgwangdl/AI-Interview 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-23"]
-    y-axis "stars" 233 --> 235
-    line [234, 234]
+    x-axis ["2026-10-19", "2026-10-24"]
+    y-axis "stars" 233 --> 237
+    line [234, 236]
 ```
 
-2026-10-19 234 → 2026-10-23 234（+0）
+2026-10-19 234 → 2026-10-24 236（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # canarybyte/veridrop
 
-⭐ 670 · Python · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/canarybyte/veridrop) · [官网](https://veridrop.app) · 个人维护 · 中文 README
+⭐ 674 · Python · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/canarybyte/veridrop) · [官网](https://veridrop.app) · 个人维护 · 中文 README
 
 **检测 AI API 中转站真伪与合规性的开源工具，面向开发者和站长**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "canarybyte/veridrop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 645 --> 672
-    line [647, 654, 666, 670]
+    title "canarybyte/veridrop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 645 --> 676
+    line [647, 654, 666, 670, 674]
 ```
 
-2026-10-18 647 → 2026-10-23 670（+23）
+2026-10-18 647 → 2026-10-24 674（+27）
 
 
 ---

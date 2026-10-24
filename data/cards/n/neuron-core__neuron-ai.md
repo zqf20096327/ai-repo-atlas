@@ -1,6 +1,6 @@
 # neuron-core/neuron-ai
 
-⭐ 2,152 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/neuron-core/neuron-ai) · [官网](https://neuron-ai.dev) · 组织维护
+⭐ 2,153 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/neuron-core/neuron-ai) · [官网](https://neuron-ai.dev) · 组织维护
 
 **PHP 生态的 AI Agent 开发框架：编排 LLM、工具与 RAG**
 
@@ -44,13 +44,13 @@ Neuron AI 是用于创建和编排 AI Agent 的 PHP 框架，提供 Agent 基类
 
 ```mermaid
 xychart-beta
-    title "neuron-core/neuron-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2145 --> 2153
-    line [2146, 2148, 2152]
+    title "neuron-core/neuron-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2145 --> 2154
+    line [2146, 2148, 2152, 2153]
 ```
 
-2026-10-18 2,146 → 2026-10-23 2,152（+6）
+2026-10-18 2,146 → 2026-10-24 2,153（+7）
 
 
 ---

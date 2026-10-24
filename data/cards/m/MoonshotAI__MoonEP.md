@@ -1,6 +1,6 @@
 # MoonshotAI/MoonEP
 
-⭐ 1,189 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/MoonshotAI/MoonEP) · 组织维护
+⭐ 1,190 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/MoonshotAI/MoonEP) · 组织维护
 
 **MoE 专家并行通信库：通过动态冗余专家保持 token 负载均衡**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/MoonEP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1181 --> 1190
-    line [1182, 1186, 1188, 1189]
+    title "MoonshotAI/MoonEP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1181 --> 1191
+    line [1182, 1186, 1188, 1189, 1190]
 ```
 
-2026-10-18 1,182 → 2026-10-23 1,189（+7）
+2026-10-18 1,182 → 2026-10-24 1,190（+8）
 
 
 ---

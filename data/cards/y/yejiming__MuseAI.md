@@ -1,6 +1,6 @@
 # yejiming/MuseAI
 
-⭐ 674 · TypeScript · 推送 2026-08-14 · [GitHub](https://github.com/yejiming/MuseAI) · 个人维护 · 中文 README
+⭐ 678 · TypeScript · 推送 2026-08-14 · [GitHub](https://github.com/yejiming/MuseAI) · 个人维护 · 中文 README
 
 **本地 AI 伴侣、文字冒险与穿书互动桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yejiming/MuseAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 663 --> 675
-    line [664, 666, 668, 674]
+    title "yejiming/MuseAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 663 --> 679
+    line [664, 666, 668, 674, 678]
 ```
 
-2026-10-18 664 → 2026-10-23 674（+10）
+2026-10-18 664 → 2026-10-24 678（+14）
 
 
 ---

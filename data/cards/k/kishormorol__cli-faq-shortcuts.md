@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kishormorol/cli-faq-shortcuts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "kishormorol/cli-faq-shortcuts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 130 --> 133
-    line [131, 132]
+    line [131, 132, 132]
 ```
 
-2026-10-18 131 → 2026-10-23 132（+1）
+2026-10-18 131 → 2026-10-24 132（+1）
 
 
 ---

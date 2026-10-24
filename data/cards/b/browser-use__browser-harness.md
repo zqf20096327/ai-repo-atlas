@@ -1,6 +1,6 @@
 # browser-use/browser-harness
 
-⭐ 18,564 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/browser-use/browser-harness) · [官网](https://browser-harness.com) · 组织维护
+⭐ 18,585 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/browser-use/browser-harness) · [官网](https://browser-harness.com) · 组织维护
 
 **让 Claude Code/Codex/Cursor 驱动你已登录的真实 Chrome 的工具**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "browser-use/browser-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 18459 --> 18573
-    line [18468, 18497, 18538, 18564]
+    title "browser-use/browser-harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 18457 --> 18596
+    line [18468, 18497, 18538, 18564, 18585]
 ```
 
-2026-10-18 18,468 → 2026-10-23 18,564（+96）
+2026-10-18 18,468 → 2026-10-24 18,585（+117）
 
 
 ---

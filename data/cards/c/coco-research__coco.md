@@ -1,6 +1,6 @@
 # coco-research/coco
 
-⭐ 924 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/coco-research/coco) · [官网](https://cocoresearch.org/coco/) · 组织维护
+⭐ 962 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/coco-research/coco) · [官网](https://cocoresearch.org/coco/) · 组织维护
 
 **装进现有编码 Agent 的多专家决策编排层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "coco-research/coco 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 676 --> 946
-    line [698, 779, 871, 924]
+    title "coco-research/coco 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 672 --> 988
+    line [698, 779, 871, 924, 962]
 ```
 
-2026-10-18 698 → 2026-10-23 924（+226）
+2026-10-18 698 → 2026-10-24 962（+264）
 
 
 ---

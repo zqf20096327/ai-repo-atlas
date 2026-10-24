@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liushuangls/go-anthropic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "liushuangls/go-anthropic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 173 --> 176
-    line [174, 175]
+    line [174, 175, 175]
 ```
 
-2026-10-18 174 → 2026-10-23 175（+1）
+2026-10-18 174 → 2026-10-24 175（+1）
 
 
 ---

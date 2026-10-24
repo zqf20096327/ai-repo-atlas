@@ -1,6 +1,6 @@
 # openai/php2shell-checker
 
-⭐ 777 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/openai/php2shell-checker) · 组织维护
+⭐ 1,089 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/php2shell-checker) · 组织维护
 
 **检测网站或本地 PHP 是否暴露 php2shell 可利用版本的检查工具**
 
@@ -39,6 +39,18 @@
 
 > L5: To install both skills, ask Codex:
 > L8: $skill-installer install both skills from https://github.com/openai/php2shell-checker
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/php2shell-checker 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 746 --> 1120
+    line [777, 1089]
+```
+
+2026-10-23 777 → 2026-10-24 1,089（+312）
 
 
 ---

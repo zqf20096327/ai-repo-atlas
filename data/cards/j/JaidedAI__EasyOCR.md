@@ -1,6 +1,6 @@
 # JaidedAI/EasyOCR
 
-⭐ 30,096 · Python · Apache-2.0 · 推送 2025-12-05 · [GitHub](https://github.com/JaidedAI/EasyOCR) · [官网](https://www.jaided.ai) · 组织维护
+⭐ 30,097 · Python · Apache-2.0 · 推送 2025-12-05 · [GitHub](https://github.com/JaidedAI/EasyOCR) · [官网](https://www.jaided.ai) · 组织维护
 
 **支持80+语言的即用型 OCR 图文识别库**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "JaidedAI/EasyOCR 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 30079 --> 30097
-    line [30080, 30089, 30093, 30096]
+    title "JaidedAI/EasyOCR 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 30079 --> 30098
+    line [30080, 30089, 30093, 30096, 30097]
 ```
 
-2026-10-18 30,080 → 2026-10-23 30,096（+16）
+2026-10-18 30,080 → 2026-10-24 30,097（+17）
 
 
 ---

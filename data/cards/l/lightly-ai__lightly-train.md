@@ -1,6 +1,6 @@
 # lightly-ai/lightly-train
 
-⭐ 1,716 · Python · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/lightly-ai/lightly-train) · [官网](https://docs.lightly.ai/train) · 组织维护
+⭐ 1,717 · Python · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/lightly-ai/lightly-train) · [官网](https://docs.lightly.ai/train) · 组织维护
 
 **面向视觉模型的预训练、微调与蒸馏一体化训练框架**
 
@@ -45,12 +45,12 @@ Lightly 公司维护的计算机视觉训练框架，覆盖模型开发全流程
 ```mermaid
 xychart-beta
     title "lightly-ai/lightly-train 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1715 --> 1717
-    line [1716, 1716]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 1715 --> 1718
+    line [1716, 1717]
 ```
 
-2026-10-18 1,716 → 2026-10-23 1,716（+0）
+2026-10-18 1,716 → 2026-10-24 1,717（+1）
 
 
 ---

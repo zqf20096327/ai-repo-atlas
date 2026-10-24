@@ -1,6 +1,6 @@
 # orbi-build/orbi
 
-⭐ 225 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/orbi-build/orbi) · [官网](https://orbi.build) · 组织维护 · 中文 README
+⭐ 225 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/orbi-build/orbi) · [官网](https://orbi.build) · 组织维护 · 中文 README
 
 **给维护 GitHub 仓库的开发者：标标签 Issue，自动产出已评审合并的 PR 与发布**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "orbi-build/orbi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "orbi-build/orbi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 219 --> 226
-    line [220, 222, 224, 225]
+    line [220, 222, 224, 225, 225]
 ```
 
-2026-10-18 220 → 2026-10-23 225（+5）
+2026-10-18 220 → 2026-10-24 225（+5）
 
 
 ---

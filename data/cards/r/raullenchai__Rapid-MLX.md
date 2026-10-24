@@ -1,6 +1,6 @@
 # raullenchai/Rapid-MLX
 
-⭐ 4,018 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/raullenchai/Rapid-MLX) · [官网](https://rapidmlx.com) · 个人维护
+⭐ 4,022 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/raullenchai/Rapid-MLX) · [官网](https://rapidmlx.com) · 个人维护
 
 **Apple Silicon 本地 LLM 推理服务器，OpenAI/Anthropic 兼容**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raullenchai/Rapid-MLX 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3991 --> 4020
-    line [3993, 3998, 4010, 4018]
+    title "raullenchai/Rapid-MLX 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3991 --> 4024
+    line [3993, 3998, 4010, 4018, 4022]
 ```
 
-2026-10-18 3,993 → 2026-10-23 4,018（+25）
+2026-10-18 3,993 → 2026-10-24 4,022（+29）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaganmanku96/Finding-missing-person-using-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "gaganmanku96/Finding-missing-person-using-AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 653 --> 656
-    line [655, 654]
+    line [655, 654, 654]
 ```
 
-2026-10-18 655 → 2026-10-23 654（-1）
+2026-10-18 655 → 2026-10-24 654（-1）
 
 
 ---

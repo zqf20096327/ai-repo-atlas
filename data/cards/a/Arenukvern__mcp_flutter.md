@@ -1,6 +1,6 @@
 # Arenukvern/mcp_flutter
 
-⭐ 390 · Dart · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Arenukvern/mcp_flutter) · [官网](https://docs.page/arenukvern/mcp_flutter) · 个人维护
+⭐ 391 · Dart · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Arenukvern/mcp_flutter) · [官网](https://docs.page/arenukvern/mcp_flutter) · 个人维护
 
 **让 AI agent 检查并驱动运行中 Flutter 应用的 MCP 工具集**
 
@@ -45,13 +45,13 @@ Dart 编写的 MCP 服务器加 Flutter 包，面向 Codex、Cursor、Claude Cod
 
 ```mermaid
 xychart-beta
-    title "Arenukvern/mcp_flutter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 388 --> 391
-    line [389, 390]
+    title "Arenukvern/mcp_flutter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 388 --> 392
+    line [389, 390, 391]
 ```
 
-2026-10-18 389 → 2026-10-23 390（+1）
+2026-10-18 389 → 2026-10-24 391（+2）
 
 
 ---

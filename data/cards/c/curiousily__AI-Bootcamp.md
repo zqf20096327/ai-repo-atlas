@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "curiousily/AI-Bootcamp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "curiousily/AI-Bootcamp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 954 --> 957
-    line [956, 955]
+    line [956, 955, 955]
 ```
 
-2026-10-18 956 → 2026-10-23 955（-1）
+2026-10-18 956 → 2026-10-24 955（-1）
 
 
 ---

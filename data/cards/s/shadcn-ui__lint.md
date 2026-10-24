@@ -1,6 +1,6 @@
 # shadcn-ui/lint
 
-⭐ 3,253 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shadcn-ui/lint) · 组织维护
+⭐ 3,259 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shadcn-ui/lint) · 组织维护
 
 **面向 agent 的 Tailwind 设计系统 linter，错误信息供 agent 修复**
 
@@ -44,13 +44,13 @@ ESLint/Oxlint 插件形式的 linter，用于在 Tailwind v4 项目中执行设�
 
 ```mermaid
 xychart-beta
-    title "shadcn-ui/lint 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3207 --> 3257
-    line [3211, 3228, 3240, 3253]
+    title "shadcn-ui/lint 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3207 --> 3263
+    line [3211, 3228, 3240, 3253, 3259]
 ```
 
-2026-10-18 3,211 → 2026-10-23 3,253（+42）
+2026-10-18 3,211 → 2026-10-24 3,259（+48）
 
 
 ---

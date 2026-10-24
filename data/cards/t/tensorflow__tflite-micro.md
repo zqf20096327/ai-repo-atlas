@@ -1,6 +1,6 @@
 # tensorflow/tflite-micro
 
-⭐ 3,127 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tensorflow/tflite-micro) · 组织维护
+⭐ 3,128 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tensorflow/tflite-micro) · 组织维护
 
 **在微控制器等低功耗嵌入式设备上运行深度学习模型的推理框架**
 
@@ -44,13 +44,13 @@ TensorFlow Lite for Microcontrollers（TFLM）提供在裸机系统、DSP 与仅
 
 ```mermaid
 xychart-beta
-    title "tensorflow/tflite-micro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "tensorflow/tflite-micro 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 3119 --> 3129
-    line [3120, 3123, 3128, 3127]
+    line [3120, 3123, 3128, 3127, 3128]
 ```
 
-2026-10-18 3,120 → 2026-10-23 3,127（+7）
+2026-10-18 3,120 → 2026-10-24 3,128（+8）
 
 
 ---

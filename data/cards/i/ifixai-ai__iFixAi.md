@@ -1,6 +1,6 @@
 # ifixai-ai/iFixAi
 
-⭐ 33,092 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ifixai-ai/iFixAi) · [官网](https://www.ifixai.ai) · 组织维护
+⭐ 33,645 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ifixai-ai/iFixAi) · [官网](https://www.ifixai.ai) · 组织维护
 
 **面向 AI Agent 的独立审计 CLI，120 秒内给出合规评分**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "ifixai-ai/iFixAi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 28672 --> 33493
-    line [29073, 30031, 31112, 33092]
+    title "ifixai-ai/iFixAi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 28616 --> 34102
+    line [29073, 30031, 31112, 33092, 33645]
 ```
 
-2026-10-18 29,073 → 2026-10-23 33,092（+4,019）
+2026-10-18 29,073 → 2026-10-24 33,645（+4,572）
 
 
 ---

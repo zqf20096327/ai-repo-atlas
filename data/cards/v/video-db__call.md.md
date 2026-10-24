@@ -1,6 +1,6 @@
 # video-db/call.md
 
-⭐ 1,560 · TypeScript · 推送 2026-08-19 · [GitHub](https://github.com/video-db/call.md) · [官网](https://docs.videodb.io/examples-and-tutorials/ai-copilots/call-md) · 组织维护
+⭐ 1,562 · TypeScript · 推送 2026-08-19 · [GitHub](https://github.com/video-db/call.md) · [官网](https://docs.videodb.io/examples-and-tutorials/ai-copilots/call-md) · 组织维护
 
 **会议录制与实时转录的桌面应用，会后生成 AI 摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "video-db/call.md 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1554 --> 1561
-    line [1555, 1558, 1559, 1560]
+    title "video-db/call.md 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1554 --> 1563
+    line [1555, 1558, 1559, 1560, 1562]
 ```
 
-2026-10-18 1,555 → 2026-10-23 1,560（+5）
+2026-10-18 1,555 → 2026-10-24 1,562（+7）
 
 
 ---

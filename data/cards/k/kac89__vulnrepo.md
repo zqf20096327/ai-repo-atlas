@@ -1,6 +1,6 @@
 # kac89/vulnrepo
 
-⭐ 584 · TypeScript · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/kac89/vulnrepo) · [官网](https://vulnrepo.com) · 个人维护
+⭐ 583 · TypeScript · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/kac89/vulnrepo) · [官网](https://vulnrepo.com) · 个人维护
 
 **浏览器端加密的渗透测试漏洞报告生成与管理工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kac89/vulnrepo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 583 --> 585
-    line [584, 584]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 582 --> 585
+    line [584, 583]
 ```
 
-2026-10-18 584 → 2026-10-23 584（+0）
+2026-10-18 584 → 2026-10-24 583（-1）
 
 
 ---

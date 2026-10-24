@@ -1,6 +1,6 @@
 # ever-works/ever-works
 
-⭐ 171 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ever-works/ever-works) · [官网](https://ever.works) · 组织维护
+⭐ 179 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ever-works/ever-works) · [官网](https://ever.works) · 组织维护
 
 **开源 agentic 运行时：AI agent 自主研究、生成并维护完整业务站点**
 
@@ -46,12 +46,12 @@ Ever Co. LTD 维护的 TypeScript monorepo 平台（Turborepo + pnpm，NestJS AP
 ```mermaid
 xychart-beta
     title "ever-works/ever-works 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 169 --> 172
-    line [170, 171, 171]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 169 --> 180
+    line [170, 171, 179]
 ```
 
-2026-10-18 170 → 2026-10-23 171（+1）
+2026-10-18 170 → 2026-10-24 179（+9）
 
 
 ---

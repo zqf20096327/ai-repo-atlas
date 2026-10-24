@@ -1,6 +1,6 @@
 # lxf746/any-auto-register
 
-⭐ 3,369 · Python · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/lxf746/any-auto-register) · [官网](https://github.com/lxf746/any2api) · 个人维护 · 中文 README
+⭐ 3,372 · Python · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/lxf746/any-auto-register) · [官网](https://github.com/lxf746/any2api) · 个人维护 · 中文 README
 
 **11+ AI 平台账号自动化批量注册与生命周期管理桌面工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lxf746/any-auto-register 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3352 --> 3370
-    line [3353, 3364, 3366, 3369]
+    title "lxf746/any-auto-register 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3352 --> 3373
+    line [3353, 3364, 3366, 3369, 3372]
 ```
 
-2026-10-18 3,353 → 2026-10-23 3,369（+16）
+2026-10-18 3,353 → 2026-10-24 3,372（+19）
 
 
 ---

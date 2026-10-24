@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanVideo
 
-⭐ 12,647 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo) · [官网](https://aivideo.hunyuan.tencent.com) · 组织维护 · 中文 README
+⭐ 12,654 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo) · [官网](https://aivideo.hunyuan.tencent.com) · 组织维护 · 中文 README
 
 **腾讯开源的 13B 参数文生视频基础模型及推理代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HunyuanVideo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 12625 --> 12649
-    line [12627, 12634, 12643, 12647]
+    title "Tencent-Hunyuan/HunyuanVideo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 12625 --> 12656
+    line [12627, 12634, 12643, 12647, 12654]
 ```
 
-2026-10-18 12,627 → 2026-10-23 12,647（+20）
+2026-10-18 12,627 → 2026-10-24 12,654（+27）
 
 
 ---

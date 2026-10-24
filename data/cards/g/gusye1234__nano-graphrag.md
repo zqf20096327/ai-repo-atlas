@@ -1,6 +1,6 @@
 # gusye1234/nano-graphrag
 
-⭐ 4,006 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/gusye1234/nano-graphrag) · 个人维护
+⭐ 4,007 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/gusye1234/nano-graphrag) · 个人维护
 
 **约 1100 行代码的轻量 GraphRAG 实现，供阅读与改造**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gusye1234/nano-graphrag 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4001 --> 4007
-    line [4002, 4004, 4005, 4006]
+    title "gusye1234/nano-graphrag 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4001 --> 4008
+    line [4002, 4004, 4005, 4006, 4007]
 ```
 
-2026-10-18 4,002 → 2026-10-23 4,006（+4）
+2026-10-18 4,002 → 2026-10-24 4,007（+5）
 
 
 ---

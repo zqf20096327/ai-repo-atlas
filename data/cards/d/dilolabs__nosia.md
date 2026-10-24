@@ -1,6 +1,6 @@
 # dilolabs/nosia
 
-⭐ 214 · Ruby · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dilolabs/nosia) · [官网](https://hub.docker.com/r/dilolabs/nosia) · 组织维护
+⭐ 214 · Ruby · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dilolabs/nosia) · [官网](https://hub.docker.com/r/dilolabs/nosia) · 组织维护
 
 **自托管的 AI RAG + MCP 平台：用私有数据运行 AI 并对外提供 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dilolabs/nosia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 213 --> 215
     line [214, 214]
 ```
 
-2026-10-18 214 → 2026-10-23 214（+0）
+2026-10-18 214 → 2026-10-24 214（+0）
 
 
 ---

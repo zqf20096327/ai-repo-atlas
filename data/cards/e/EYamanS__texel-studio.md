@@ -1,6 +1,6 @@
 # EYamanS/texel-studio
 
-⭐ 225 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/EYamanS/texel-studio) · [官网](https://texel.studio) · 个人维护
+⭐ 228 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/EYamanS/texel-studio) · [官网](https://texel.studio) · 个人维护
 
 **AI agent 逐像素绘制像素画/游戏素材的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EYamanS/texel-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 219 --> 226
-    line [220, 221, 223, 225]
+    title "EYamanS/texel-studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 219 --> 229
+    line [220, 221, 223, 225, 228]
 ```
 
-2026-10-18 220 → 2026-10-23 225（+5）
+2026-10-18 220 → 2026-10-24 228（+8）
 
 
 ---

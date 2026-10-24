@@ -1,6 +1,6 @@
 # ludwig-ai/ludwig
 
-⭐ 11,776 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ludwig-ai/ludwig) · [官网](http://ludwig.ai) · 组织维护
+⭐ 11,778 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ludwig-ai/ludwig) · [官网](http://ludwig.ai) · 组织维护
 
 **YAML 声明式深度学习框架：训练/微调/部署 LLM 与多模态模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ludwig-ai/ludwig 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11773 --> 11777
-    line [11774, 11775, 11776]
+    title "ludwig-ai/ludwig 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11773 --> 11779
+    line [11774, 11775, 11776, 11778]
 ```
 
-2026-10-18 11,774 → 2026-10-23 11,776（+2）
+2026-10-18 11,774 → 2026-10-24 11,778（+4）
 
 
 ---

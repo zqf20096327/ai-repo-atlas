@@ -1,6 +1,6 @@
 # buchidonggua/dg-ai-notes
 
-⭐ 3,460 · MDX · MIT · 推送 2026-08-23 · [GitHub](https://github.com/buchidonggua/dg-ai-notes) · [官网](https://dg-ai-notes.pages.dev/) · 个人维护 · 中文 README
+⭐ 3,468 · MDX · MIT · 推送 2026-08-23 · [GitHub](https://github.com/buchidonggua/dg-ai-notes) · [官网](https://dg-ai-notes.pages.dev/) · 个人维护 · 中文 README
 
 **Pi-Agent 源码解读与二次开发实战教程（电子书+skill）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "buchidonggua/dg-ai-notes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3401 --> 3465
-    line [3406, 3423, 3446, 3460]
+    title "buchidonggua/dg-ai-notes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3400 --> 3474
+    line [3406, 3423, 3446, 3460, 3468]
 ```
 
-2026-10-18 3,406 → 2026-10-23 3,460（+54）
+2026-10-18 3,406 → 2026-10-24 3,468（+62）
 
 
 ---

@@ -1,6 +1,6 @@
 # malevrigns/agent-jev
 
-⭐ 394 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/malevrigns/agent-jev) · 个人维护 · 中文 README
+⭐ 395 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/malevrigns/agent-jev) · 个人维护 · 中文 README
 
 **面向 Agent 决策门的 0.6B 分布输出模型，一次前向返回概率**
 
@@ -45,12 +45,12 @@ AgentJev-0.6B 是基于 Qwen3-0.6B（移除语言模型头）的专用决策模�
 ```mermaid
 xychart-beta
     title "malevrigns/agent-jev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 387 --> 395
-    line [388, 391, 394, 394]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 387 --> 396
+    line [388, 391, 394, 395]
 ```
 
-2026-10-18 388 → 2026-10-23 394（+6）
+2026-10-18 388 → 2026-10-24 395（+7）
 
 
 ---

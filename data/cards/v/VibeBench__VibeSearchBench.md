@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VibeBench/VibeSearchBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "VibeBench/VibeSearchBench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 104 --> 111
-    line [110, 105]
+    line [110, 105, 105]
 ```
 
-2026-10-18 110 → 2026-10-23 105（-5）
+2026-10-18 110 → 2026-10-24 105（-5）
 
 
 ---

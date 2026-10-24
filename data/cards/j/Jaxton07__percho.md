@@ -1,6 +1,6 @@
 # Jaxton07/percho
 
-⭐ 456 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Jaxton07/percho) · [官网](https://www.percho.org/) · 个人维护 · 中文 README
+⭐ 459 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Jaxton07/percho) · [官网](https://www.percho.org/) · 个人维护 · 中文 README
 
 **Pi 编码代理的桌面 GUI 客户端：多会话与可视化工具审批**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jaxton07/percho 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 437 --> 457
-    line [438, 452, 454, 456]
+    title "Jaxton07/percho 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 436 --> 461
+    line [438, 452, 454, 456, 459]
 ```
 
-2026-10-18 438 → 2026-10-23 456（+18）
+2026-10-18 438 → 2026-10-24 459（+21）
 
 
 ---

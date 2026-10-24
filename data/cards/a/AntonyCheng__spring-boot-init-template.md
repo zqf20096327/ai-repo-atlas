@@ -1,6 +1,6 @@
 # AntonyCheng/spring-boot-init-template
 
-⭐ 542 · Java · Apache-2.0 · 推送 2026-05-12 · [GitHub](https://github.com/AntonyCheng/spring-boot-init-template) · 个人维护 · 中文 README
+⭐ 543 · Java · Apache-2.0 · 推送 2026-05-12 · [GitHub](https://github.com/AntonyCheng/spring-boot-init-template) · 个人维护 · 中文 README
 
 **整合 Spring AI 的 Java Web 后端初始化模板，开箱即用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AntonyCheng/spring-boot-init-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 541 --> 543
-    line [542, 542]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 541 --> 544
+    line [542, 543]
 ```
 
-2026-10-18 542 → 2026-10-23 542（+0）
+2026-10-18 542 → 2026-10-24 543（+1）
 
 
 ---

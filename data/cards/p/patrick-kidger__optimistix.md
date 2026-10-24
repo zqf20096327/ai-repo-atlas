@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "patrick-kidger/optimistix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "patrick-kidger/optimistix 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 625 --> 628
-    line [626, 627]
+    line [626, 627, 627]
 ```
 
-2026-10-18 626 → 2026-10-23 627（+1）
+2026-10-18 626 → 2026-10-24 627（+1）
 
 
 ---

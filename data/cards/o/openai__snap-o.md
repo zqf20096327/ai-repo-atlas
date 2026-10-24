@@ -1,6 +1,6 @@
 # openai/snap-o
 
-⭐ 116 · Swift · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/openai/snap-o) · [官网](https://openai.github.io/snap-o/) · 组织维护
+⭐ 117 · Swift · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openai/snap-o) · [官网](https://openai.github.io/snap-o/) · 组织维护
 
 **macOS 上的 Android 应用检查与调试工具（截屏/抓包/改值）**
 
@@ -46,12 +46,12 @@ OpenAI 发布的 macOS 桌面应用，面向 Android 开发者：对运行中的
 ```mermaid
 xychart-beta
     title "openai/snap-o 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 114 --> 117
-    line [115, 116, 116]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 114 --> 118
+    line [115, 116, 117]
 ```
 
-2026-10-18 115 → 2026-10-23 116（+1）
+2026-10-18 115 → 2026-10-24 117（+2）
 
 
 ---

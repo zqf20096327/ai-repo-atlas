@@ -1,6 +1,6 @@
 # GaiZhenbiao/ChuanhuChatGPT
 
-⭐ 15,263 · Python · GPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/GaiZhenbiao/ChuanhuChatGPT) · [官网](https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT) · 个人维护 · 中文 README
+⭐ 15,260 · Python · GPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/GaiZhenbiao/ChuanhuChatGPT) · [官网](https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT) · 个人维护 · 中文 README
 
 **为多种 LLM 提供带附加功能的 Web 聊天界面**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "GaiZhenbiao/ChuanhuChatGPT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 15261 --> 15268
-    line [15267, 15263, 15262, 15263]
+    title "GaiZhenbiao/ChuanhuChatGPT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 15259 --> 15268
+    line [15267, 15263, 15262, 15263, 15260]
 ```
 
-2026-10-18 15,267 → 2026-10-23 15,263（-4）
+2026-10-18 15,267 → 2026-10-24 15,260（-7）
 
 
 ---

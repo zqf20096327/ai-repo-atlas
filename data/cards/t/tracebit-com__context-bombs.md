@@ -1,6 +1,6 @@
 # tracebit-com/context-bombs
 
-⭐ 144 · 推送 2026-09-14 · [GitHub](https://github.com/tracebit-com/context-bombs) · [官网](https://agentic.tracebit.com/context-bombs) · 组织维护
+⭐ 145 · 推送 2026-09-14 · [GitHub](https://github.com/tracebit-com/context-bombs) · [官网](https://agentic.tracebit.com/context-bombs) · 组织维护
 
 **可触发攻击方 AI 安全护栏的诱饵字符串集合，用于检测与阻断恶意 agent**
 
@@ -45,13 +45,13 @@ Tracebit 发布的 context bomb 字符串资源库：将此类字符串部署为
 
 ```mermaid
 xychart-beta
-    title "tracebit-com/context-bombs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 141 --> 145
-    line [142, 144]
+    title "tracebit-com/context-bombs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 141 --> 146
+    line [142, 144, 145]
 ```
 
-2026-10-18 142 → 2026-10-23 144（+2）
+2026-10-18 142 → 2026-10-24 145（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # cogine-ai/awesome-openclaw-zh
 
-⭐ 240 · HTML · MIT · 推送 2026-10-11 · [GitHub](https://github.com/cogine-ai/awesome-openclaw-zh) · [官网](https://opcboost.com) · 组织维护 · 中文 README
+⭐ 240 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/cogine-ai/awesome-openclaw-zh) · [官网](https://opcboost.com) · 组织维护 · 中文 README
 
 **面向中文用户的 OpenClaw 实战案例库：部署、接入与场景案例**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cogine-ai/awesome-openclaw-zh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 239 --> 241
     line [240, 240]
 ```
 
-2026-10-18 240 → 2026-10-23 240（+0）
+2026-10-18 240 → 2026-10-24 240（+0）
 
 
 ---

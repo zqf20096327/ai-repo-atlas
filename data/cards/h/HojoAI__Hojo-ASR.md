@@ -1,6 +1,6 @@
 # HojoAI/Hojo-ASR
 
-⭐ 417 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/HojoAI/Hojo-ASR) · 组织维护
+⭐ 441 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/HojoAI/Hojo-ASR) · 组织维护
 
 **基于 Qwen3 LLM 解码器的中英粤川对话语音识别模型**
 
@@ -44,13 +44,13 @@ Hojo-ASR-V1 是采用 Encoder-Adapter-LLM 架构的语音识别模型，声学�
 
 ```mermaid
 xychart-beta
-    title "HojoAI/Hojo-ASR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 375 --> 420
-    line [378, 392, 417]
+    title "HojoAI/Hojo-ASR 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 372 --> 447
+    line [378, 392, 417, 441]
 ```
 
-2026-10-18 378 → 2026-10-23 417（+39）
+2026-10-18 378 → 2026-10-24 441（+63）
 
 
 ---

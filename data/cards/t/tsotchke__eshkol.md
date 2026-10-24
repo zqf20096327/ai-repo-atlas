@@ -1,6 +1,6 @@
 # tsotchke/eshkol
 
-⭐ 168 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tsotchke/eshkol) · [官网](https://eshkol.ai) · 个人维护
+⭐ 172 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tsotchke/eshkol) · [官网](https://eshkol.ai) · 个人维护
 
 **带原生自动微分的 Scheme 方言，面向科学计算与机器学习**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tsotchke/eshkol 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 162 --> 169
-    line [163, 165, 166, 168]
+    title "tsotchke/eshkol 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 162 --> 173
+    line [163, 165, 166, 168, 172]
 ```
 
-2026-10-18 163 → 2026-10-23 168（+5）
+2026-10-18 163 → 2026-10-24 172（+9）
 
 
 ---

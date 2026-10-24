@@ -1,6 +1,6 @@
 # EscVM/RAMS
 
-⭐ 94 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-10 · [GitHub](https://github.com/EscVM/RAMS) · [官网](https://www.mdpi.com/2072-4292/12/14/2207) · 个人维护
+⭐ 95 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-10 · [GitHub](https://github.com/EscVM/RAMS) · [官网](https://www.mdpi.com/2072-4292/12/14/2207) · 个人维护
 
 **遥感多帧超分辨率论文官方代码：Proba-V 数据集与预训练 RAMS 网络**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "EscVM/RAMS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 93 --> 96
+    line [94, 95]
 ```
 
-2026-10-18 94 → 2026-10-23 94（+0）
+2026-10-18 94 → 2026-10-24 95（+1）
 
 
 ---

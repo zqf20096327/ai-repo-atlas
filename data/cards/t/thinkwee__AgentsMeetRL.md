@@ -1,6 +1,6 @@
 # thinkwee/AgentsMeetRL
 
-⭐ 1,865 · HTML · 推送 2026-10-21 · [GitHub](https://github.com/thinkwee/AgentsMeetRL) · [官网](https://thinkwee.top/amr/) · 个人维护
+⭐ 1,866 · HTML · 推送 2026-10-21 · [GitHub](https://github.com/thinkwee/AgentsMeetRL) · [官网](https://thinkwee.top/amr/) · 个人维护
 
 **Agentic RL 开源仓库策展清单：LLM Agent 强化学习训练项目汇总**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thinkwee/AgentsMeetRL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1861 --> 1866
-    line [1863, 1862, 1865]
+    title "thinkwee/AgentsMeetRL 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1861 --> 1867
+    line [1863, 1862, 1865, 1866]
 ```
 
-2026-10-18 1,863 → 2026-10-23 1,865（+2）
+2026-10-18 1,863 → 2026-10-24 1,866（+3）
 
 
 ---

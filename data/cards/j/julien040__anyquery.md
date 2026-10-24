@@ -1,6 +1,6 @@
 # julien040/anyquery
 
-⭐ 1,784 · Go · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/julien040/anyquery) · [官网](https://anyquery.dev) · 个人维护
+⭐ 1,785 · Go · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/julien040/anyquery) · [官网](https://anyquery.dev) · 个人维护
 
 **用 SQL 查询 60+ 工具与文件数据的引擎，可接入 LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "julien040/anyquery 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1782 --> 1785
-    line [1784, 1783, 1784, 1784]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1782 --> 1786
+    line [1784, 1783, 1784, 1785]
 ```
 
-2026-10-18 1,784 → 2026-10-23 1,784（+0）
+2026-10-18 1,784 → 2026-10-24 1,785（+1）
 
 
 ---

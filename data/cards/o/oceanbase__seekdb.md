@@ -1,6 +1,6 @@
 # oceanbase/seekdb
 
-⭐ 3,171 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/oceanbase/seekdb) · [官网](https://seekdb.ai) · 组织维护 · 中文 README
+⭐ 3,173 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/oceanbase/seekdb) · [官网](https://seekdb.ai) · 组织维护 · 中文 README
 
 **面向 AI agent 的搜索数据库：统一向量、全文与结构化存储**
 
@@ -45,13 +45,13 @@ OceanBase 团队开源的 MySQL 兼容数据库，定位为 AI agent 的状态�
 
 ```mermaid
 xychart-beta
-    title "oceanbase/seekdb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3160 --> 3172
-    line [3161, 3164, 3167, 3171]
+    title "oceanbase/seekdb 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3160 --> 3174
+    line [3161, 3164, 3167, 3171, 3173]
 ```
 
-2026-10-18 3,161 → 2026-10-23 3,171（+10）
+2026-10-18 3,161 → 2026-10-24 3,173（+12）
 
 
 ---

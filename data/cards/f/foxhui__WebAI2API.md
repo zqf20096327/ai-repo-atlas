@@ -1,6 +1,6 @@
 # foxhui/WebAI2API
 
-⭐ 1,403 · JavaScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/foxhui/WebAI2API) · [官网](https://foxhui.github.io/WebAI2API/) · 个人维护 · 中文 README
+⭐ 1,404 · JavaScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/foxhui/WebAI2API) · [官网](https://foxhui.github.io/WebAI2API/) · 个人维护 · 中文 README
 
 **把 LMArena/Gemini 等网页 AI 转成 OpenAI 兼容 API 的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "foxhui/WebAI2API 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1393 --> 1404
-    line [1394, 1397, 1400, 1403]
+    title "foxhui/WebAI2API 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1393 --> 1405
+    line [1394, 1397, 1400, 1403, 1404]
 ```
 
-2026-10-18 1,394 → 2026-10-23 1,403（+9）
+2026-10-18 1,394 → 2026-10-24 1,404（+10）
 
 
 ---

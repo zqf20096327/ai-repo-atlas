@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleDetection
 
-⭐ 14,441 · Python · Apache-2.0 · 推送 2026-05-28 · [GitHub](https://github.com/PaddlePaddle/PaddleDetection) · 组织维护 · 中文 README
+⭐ 14,442 · Python · Apache-2.0 · 推送 2026-05-28 · [GitHub](https://github.com/PaddlePaddle/PaddleDetection) · 组织维护 · 中文 README
 
 **给开发者的目标检测端到端开发套件**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleDetection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 14440 --> 14445
-    line [14443, 14444, 14441, 14441]
+    line [14443, 14444, 14441, 14442]
 ```
 
-2026-10-18 14,443 → 2026-10-23 14,441（-2）
+2026-10-18 14,443 → 2026-10-24 14,442（-1）
 
 
 ---

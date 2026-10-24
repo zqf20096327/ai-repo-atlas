@@ -1,6 +1,6 @@
 # avhz/RustQuant
 
-⭐ 1,826 · Rust · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/avhz/RustQuant) · [官网](https://avhz.github.io) · 个人维护
+⭐ 1,827 · Rust · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/avhz/RustQuant) · [官网](https://avhz.github.io) · 个人维护
 
 **面向量化金融的 Rust 库：定价、随机过程与数学工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "avhz/RustQuant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1822 --> 1827
-    line [1824, 1823, 1825, 1826]
+    title "avhz/RustQuant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1822 --> 1828
+    line [1824, 1823, 1825, 1826, 1827]
 ```
 
-2026-10-18 1,824 → 2026-10-23 1,826（+2）
+2026-10-18 1,824 → 2026-10-24 1,827（+3）
 
 
 ---

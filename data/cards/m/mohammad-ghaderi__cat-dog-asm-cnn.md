@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohammad-ghaderi/cat-dog-asm-cnn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "mohammad-ghaderi/cat-dog-asm-cnn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 178 --> 181
-    line [180, 179]
+    line [180, 179, 179]
 ```
 
-2026-10-18 180 → 2026-10-23 179（-1）
+2026-10-18 180 → 2026-10-24 179（-1）
 
 
 ---

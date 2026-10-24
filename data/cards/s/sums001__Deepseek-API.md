@@ -1,6 +1,6 @@
 # sums001/Deepseek-API
 
-⭐ 318 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/sums001/Deepseek-API) · 个人维护
+⭐ 321 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/sums001/Deepseek-API) · 个人维护
 
 **将 DeepSeek 网页聊天封装成 OpenAI 兼容本地 API 的桥梁**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sums001/Deepseek-API 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 312 --> 319
-    line [313, 316, 317, 318]
+    title "sums001/Deepseek-API 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 312 --> 322
+    line [313, 316, 317, 318, 321]
 ```
 
-2026-10-18 313 → 2026-10-23 318（+5）
+2026-10-18 313 → 2026-10-24 321（+8）
 
 
 ---

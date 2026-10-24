@@ -1,6 +1,6 @@
 # hardrave/NIGHTRUN
 
-⭐ 300 · Rust · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/hardrave/NIGHTRUN) · [官网](https://nightrun.io) · 个人维护
+⭐ 301 · Rust · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/hardrave/NIGHTRUN) · [官网](https://nightrun.io) · 个人维护
 
 **无操作系统、直接从 UEFI 启动的本地 LLM 对话运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hardrave/NIGHTRUN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 299 --> 301
-    line [300, 300]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 299 --> 302
+    line [300, 301]
 ```
 
-2026-10-18 300 → 2026-10-23 300（+0）
+2026-10-18 300 → 2026-10-24 301（+1）
 
 
 ---

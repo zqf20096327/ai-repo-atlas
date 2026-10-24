@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "webmachinelearning/awesome-webnn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "webmachinelearning/awesome-webnn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 100 --> 103
-    line [101, 102]
+    line [101, 102, 102]
 ```
 
-2026-10-18 101 → 2026-10-23 102（+1）
+2026-10-18 101 → 2026-10-24 102（+1）
 
 
 ---

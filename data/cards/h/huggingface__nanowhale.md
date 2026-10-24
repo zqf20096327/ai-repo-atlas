@@ -1,6 +1,6 @@
 # huggingface/nanowhale
 
-⭐ 391 · Python · 推送 2026-05-04 · [GitHub](https://github.com/huggingface/nanowhale) · 组织维护
+⭐ 392 · Python · 推送 2026-05-04 · [GitHub](https://github.com/huggingface/nanowhale) · 组织维护
 
 **用 DeepSeek-V4 架构从零训练的 ~110M 小型语言模型**
 
@@ -45,12 +45,12 @@ Hugging Face 维护的微型语言模型项目：以 DeepSeek-V4 架构（MLA、
 ```mermaid
 xychart-beta
     title "huggingface/nanowhale 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 390 --> 392
-    line [391, 391]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 390 --> 393
+    line [391, 392]
 ```
 
-2026-10-18 391 → 2026-10-23 391（+0）
+2026-10-18 391 → 2026-10-24 392（+1）
 
 
 ---

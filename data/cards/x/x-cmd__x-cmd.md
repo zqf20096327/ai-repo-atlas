@@ -1,6 +1,6 @@
 # x-cmd/x-cmd
 
-⭐ 4,721 · Awk · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/x-cmd/x-cmd) · [官网](https://x-cmd.com) · 组织维护 · 中文 README
+⭐ 4,722 · Awk · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/x-cmd/x-cmd) · [官网](https://x-cmd.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的 POSIX shell 增强工具箱与按需 CLI 包管理器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "x-cmd/x-cmd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4712 --> 4722
-    line [4713, 4717, 4718, 4721]
+    title "x-cmd/x-cmd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4712 --> 4723
+    line [4713, 4717, 4718, 4721, 4722]
 ```
 
-2026-10-18 4,713 → 2026-10-23 4,721（+8）
+2026-10-18 4,713 → 2026-10-24 4,722（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/fineweb-2
 
-⭐ 270 · Python · Apache-2.0 · 推送 2025-10-27 · [GitHub](https://github.com/huggingface/fineweb-2) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **1000+ 语言预训练数据集 FineWeb 2 的处理管线代码库**
 
@@ -11,7 +11,7 @@ Hugging Face 团队发布的多语言预训练数据集 FineWeb 2 配套代码�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

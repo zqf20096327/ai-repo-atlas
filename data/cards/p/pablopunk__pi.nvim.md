@@ -44,13 +44,13 @@ pi.nvim 是连接 Neovim 与命令行 AI agent pi 的插件，通过 :PiAsk / :P
 
 ```mermaid
 xychart-beta
-    title "pablopunk/pi.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "pablopunk/pi.nvim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 278 --> 281
-    line [279, 280]
+    line [279, 280, 280]
 ```
 
-2026-10-18 279 → 2026-10-23 280（+1）
+2026-10-18 279 → 2026-10-24 280（+1）
 
 
 ---

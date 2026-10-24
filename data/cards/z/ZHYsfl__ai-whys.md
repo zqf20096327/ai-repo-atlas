@@ -1,6 +1,6 @@
 # ZHYsfl/ai-whys
 
-⭐ 116 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ZHYsfl/ai-whys) · 个人维护 · 中文 README
+⭐ 117 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ZHYsfl/ai-whys) · 个人维护 · 中文 README
 
 **深度学习与强化学习学习路线：39 个从零实现实验配推导笔记**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZHYsfl/ai-whys 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 107 --> 117
-    line [108, 112, 115, 116]
+    title "ZHYsfl/ai-whys 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 107 --> 118
+    line [108, 112, 115, 116, 117]
 ```
 
-2026-10-18 108 → 2026-10-23 116（+8）
+2026-10-18 108 → 2026-10-24 117（+9）
 
 
 ---

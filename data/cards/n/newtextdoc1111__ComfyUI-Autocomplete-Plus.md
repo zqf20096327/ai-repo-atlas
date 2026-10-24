@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "newtextdoc1111/ComfyUI-Autocomplete-Plus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 193 --> 195
     line [194, 194]
 ```
 
-2026-10-18 194 → 2026-10-23 194（+0）
+2026-10-18 194 → 2026-10-24 194（+0）
 
 
 ---

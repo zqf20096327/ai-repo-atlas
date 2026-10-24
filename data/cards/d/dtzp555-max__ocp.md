@@ -44,13 +44,13 @@ OCP 在 localhost:3456 起代理，将 OpenAI 兼容的 /v1/chat/completions 请
 
 ```mermaid
 xychart-beta
-    title "dtzp555-max/ocp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "dtzp555-max/ocp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 125 --> 129
-    line [126, 128]
+    line [126, 128, 128]
 ```
 
-2026-10-18 126 → 2026-10-23 128（+2）
+2026-10-18 126 → 2026-10-24 128（+2）
 
 
 ---

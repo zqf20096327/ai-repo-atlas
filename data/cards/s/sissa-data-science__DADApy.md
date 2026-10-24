@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sissa-data-science/DADApy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "sissa-data-science/DADApy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 154 --> 157
-    line [155, 156]
+    line [155, 156, 156]
 ```
 
-2026-10-18 155 → 2026-10-23 156（+1）
+2026-10-18 155 → 2026-10-24 156（+1）
 
 
 ---

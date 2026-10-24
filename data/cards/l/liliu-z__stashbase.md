@@ -1,6 +1,6 @@
 # liliu-z/stashbase
 
-⭐ 1,123 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/liliu-z/stashbase) · [官网](https://stashbase.ai) · 个人维护
+⭐ 1,136 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/liliu-z/stashbase) · [官网](https://stashbase.ai) · 个人维护
 
 **本地优先的写作工作区：用自己的资料与 AI agent 共同写作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liliu-z/stashbase 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1052 --> 1129
-    line [1058, 1081, 1102, 1123]
+    title "liliu-z/stashbase 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1051 --> 1143
+    line [1058, 1081, 1102, 1123, 1136]
 ```
 
-2026-10-18 1,058 → 2026-10-23 1,123（+65）
+2026-10-18 1,058 → 2026-10-24 1,136（+78）
 
 
 ---

@@ -1,6 +1,6 @@
 # Zchary1106/agent-interview-hub
 
-⭐ 795 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Zchary1106/agent-interview-hub) · 个人维护 · 中文 README
+⭐ 800 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Zchary1106/agent-interview-hub) · 个人维护 · 中文 README
 
 **国内 AI Agent 工程师面试题库与学习路线知识库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zchary1106/agent-interview-hub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 756 --> 798
-    line [759, 775, 785, 795]
+    title "Zchary1106/agent-interview-hub 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 755 --> 804
+    line [759, 775, 785, 795, 800]
 ```
 
-2026-10-18 759 → 2026-10-23 795（+36）
+2026-10-18 759 → 2026-10-24 800（+41）
 
 
 ---

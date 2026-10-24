@@ -1,6 +1,6 @@
 # imhuso/cunzhi
 
-⭐ 1,394 · Rust · MIT · 推送 2026-05-12 · [GitHub](https://github.com/imhuso/cunzhi) · 个人维护 · 中文 README
+⭐ 1,393 · Rust · MIT · 推送 2026-05-12 · [GitHub](https://github.com/imhuso/cunzhi) · 个人维护 · 中文 README
 
 **拦截 AI 提前结束对话的 MCP 工具，含记忆管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "imhuso/cunzhi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1393 --> 1395
-    line [1394, 1394]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 1392 --> 1395
+    line [1394, 1393]
 ```
 
-2026-10-18 1,394 → 2026-10-23 1,394（+0）
+2026-10-18 1,394 → 2026-10-24 1,393（-1）
 
 
 ---

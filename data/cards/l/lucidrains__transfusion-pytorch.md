@@ -45,12 +45,12 @@ PyTorch 实现的 Transfusion 论文（MetaAI，"Predict the Next Token and Diff
 ```mermaid
 xychart-beta
     title "lucidrains/transfusion-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1406 --> 1409
     line [1407, 1408, 1408]
 ```
 
-2026-10-18 1,407 → 2026-10-23 1,408（+1）
+2026-10-18 1,407 → 2026-10-24 1,408（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DEEP-PolyU/LinearRAG
 
-⭐ 563 · Python · GPL-3.0 · 推送 2026-07-05 · [GitHub](https://github.com/DEEP-PolyU/LinearRAG) · [官网](https://arxiv.org/pdf/2510.10114) · 组织维护
+⭐ 564 · Python · GPL-3.0 · 推送 2026-07-05 · [GitHub](https://github.com/DEEP-PolyU/LinearRAG) · [官网](https://arxiv.org/pdf/2510.10114) · 组织维护
 
 **免 LLM 建图的高效 GraphRAG 方法（ICLR 2026 论文代码）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DEEP-PolyU/LinearRAG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 560 --> 564
-    line [561, 563, 563]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 560 --> 565
+    line [561, 563, 564]
 ```
 
-2026-10-18 561 → 2026-10-23 563（+2）
+2026-10-18 561 → 2026-10-24 564（+3）
 
 
 ---

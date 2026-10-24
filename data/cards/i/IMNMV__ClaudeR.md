@@ -1,6 +1,6 @@
 # IMNMV/ClaudeR
 
-⭐ 356 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/IMNMV/ClaudeR) · 个人维护
+⭐ 357 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/IMNMV/ClaudeR) · 个人维护
 
 **把 R/Python 会话接入 Claude Code 等 LLM agent 的 MCP 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IMNMV/ClaudeR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 352 --> 357
-    line [353, 354, 356]
+    title "IMNMV/ClaudeR 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 352 --> 358
+    line [353, 354, 356, 357]
 ```
 
-2026-10-18 353 → 2026-10-23 356（+3）
+2026-10-18 353 → 2026-10-24 357（+4）
 
 
 ---

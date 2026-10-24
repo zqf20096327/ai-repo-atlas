@@ -1,6 +1,6 @@
 # paperclipai/paperclip
 
-⭐ 106,076 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/paperclipai/paperclip) · [官网](https://paperclip.ing) · 组织维护
+⭐ 106,511 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/paperclipai/paperclip) · [官网](https://paperclip.ing) · 组织维护
 
 **开源的团队级 AI agent 编排与治理平台**
 
@@ -53,13 +53,13 @@ Node.js 服务端 + React UI 的控制平面，用于组织和管理多个 AI ag
 
 ```mermaid
 xychart-beta
-    title "paperclipai/paperclip 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 103224 --> 106335
-    line [103483, 104637, 106076]
+    title "paperclipai/paperclip 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 103181 --> 106813
+    line [103483, 104637, 106076, 106511]
 ```
 
-2026-10-18 103,483 → 2026-10-23 106,076（+2,593）
+2026-10-18 103,483 → 2026-10-24 106,511（+3,028）
 
 
 ---

@@ -1,6 +1,6 @@
 # mezmo/aura
 
-⭐ 404 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mezmo/aura) · [官网](https://www.mezmo.com/aura) · 组织维护
+⭐ 404 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mezmo/aura) · [官网](https://www.mezmo.com/aura) · 组织维护
 
 **面向 SRE 的生产级 agent 平台：在自有基础设施内运维排障**
 
@@ -45,13 +45,13 @@ Mezmo 开源的 SRE agent 平台，提供预配置专家 agent 团队用于事�
 
 ```mermaid
 xychart-beta
-    title "mezmo/aura 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "mezmo/aura 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 397 --> 405
-    line [398, 401, 403, 404]
+    line [398, 401, 403, 404, 404]
 ```
 
-2026-10-18 398 → 2026-10-23 404（+6）
+2026-10-18 398 → 2026-10-24 404（+6）
 
 
 ---

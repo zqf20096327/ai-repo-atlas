@@ -1,6 +1,6 @@
 # microsoft/nvx
 
-⭐ 725 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/nvx) · 组织维护
+⭐ 747 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/nvx) · 组织维护
 
 **面向 agent 工作负载的超轻量 micro-VM 沙箱，硬件级隔离**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/nvx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 373 --> 757
-    line [405, 448, 580, 725]
+    title "microsoft/nvx 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 371 --> 781
+    line [405, 448, 580, 725, 747]
 ```
 
-2026-10-18 405 → 2026-10-23 725（+320）
+2026-10-18 405 → 2026-10-24 747（+342）
 
 
 ---

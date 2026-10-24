@@ -45,12 +45,12 @@ Google CloudPlatform 维护的 Python 包，为 GenAI agent 提供生产就绪�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/agent-starter-pack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 6567 --> 6571
     line [6568, 6570, 6570]
 ```
 
-2026-10-18 6,568 → 2026-10-23 6,570（+2）
+2026-10-18 6,568 → 2026-10-24 6,570（+2）
 
 
 ---

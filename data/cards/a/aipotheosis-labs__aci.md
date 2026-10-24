@@ -1,6 +1,6 @@
 # aipotheosis-labs/aci
 
-⭐ 4,922 · Python · Apache-2.0 · 推送 2026-05-28 · [GitHub](https://github.com/aipotheosis-labs/aci) · [官网](https://www.aci.dev/) · 组织维护
+⭐ 4,921 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aipotheosis-labs/aci) · [官网](https://www.aci.dev/) · 组织维护
 
 **开源工具调用平台：为 AI agent 接入 600+ 工具与统一 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aipotheosis-labs/aci 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "aipotheosis-labs/aci 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 4910 --> 4923
-    line [4911, 4917, 4921, 4922]
+    line [4911, 4917, 4921, 4922, 4921]
 ```
 
-2026-10-18 4,911 → 2026-10-23 4,922（+11）
+2026-10-18 4,911 → 2026-10-24 4,921（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # open-multi-agent/open-multi-agent
 
-⭐ 7,015 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/open-multi-agent/open-multi-agent) · [官网](https://open-multi-agent.com/go/repo) · 组织维护 · 中文 README
+⭐ 7,018 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/open-multi-agent/open-multi-agent) · [官网](https://open-multi-agent.com/go/repo) · 组织维护 · 中文 README
 
 **自托管 TypeScript 多 Agent 运行时：审批门与可验证运行记录**
 
@@ -44,13 +44,13 @@ OMA 是以 npm 库形式提供的自托管 TypeScript agent 运行时，支持�
 
 ```mermaid
 xychart-beta
-    title "open-multi-agent/open-multi-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7002 --> 7016
-    line [7003, 7006, 7010, 7015]
+    title "open-multi-agent/open-multi-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7002 --> 7019
+    line [7003, 7006, 7010, 7015, 7018]
 ```
 
-2026-10-18 7,003 → 2026-10-23 7,015（+12）
+2026-10-18 7,003 → 2026-10-24 7,018（+15）
 
 
 ---

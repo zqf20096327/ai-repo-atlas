@@ -1,6 +1,6 @@
 # jmaczan/tiny-vllm
 
-⭐ 1,161 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jmaczan/tiny-vllm) · 个人维护
+⭐ 1,163 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jmaczan/tiny-vllm) · 个人维护
 
 **用 C++/CUDA 从零实现 LLM 推理引擎的教学课程与源码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jmaczan/tiny-vllm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1153 --> 1162
-    line [1154, 1157, 1158, 1161]
+    title "jmaczan/tiny-vllm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1153 --> 1164
+    line [1154, 1157, 1158, 1161, 1163]
 ```
 
-2026-10-18 1,154 → 2026-10-23 1,161（+7）
+2026-10-18 1,154 → 2026-10-24 1,163（+9）
 
 
 ---

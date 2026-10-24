@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Agent-Toolkit
 
-⭐ 2,669 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/NeMo-Agent-Toolkit) · [官网](https://docs.nvidia.com/nemo/agent-toolkit/latest/) · 组织维护
+⭐ 2,671 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/NeMo-Agent-Toolkit) · [官网](https://docs.nvidia.com/nemo/agent-toolkit/latest/) · 组织维护
 
 **NVIDIA 开源 AI agent 开发与优化工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/NeMo-Agent-Toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2658 --> 2670
-    line [2659, 2661, 2663, 2669]
+    title "NVIDIA/NeMo-Agent-Toolkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2658 --> 2672
+    line [2659, 2661, 2663, 2669, 2671]
 ```
 
-2026-10-18 2,659 → 2026-10-23 2,669（+10）
+2026-10-18 2,659 → 2026-10-24 2,671（+12）
 
 
 ---

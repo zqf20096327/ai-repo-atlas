@@ -1,6 +1,6 @@
 # breakstageaxe61/genspark-claw
 
-⭐ 604 · JavaScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/breakstageaxe61/genspark-claw) · 个人维护
+⭐ 648 · JavaScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/breakstageaxe61/genspark-claw) · 个人维护
 
 **给个人 AI agent 安装生产级技能的社区技能包与 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "breakstageaxe61/genspark-claw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 337 --> 628
-    line [361, 466, 551, 604]
+    title "breakstageaxe61/genspark-claw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 333 --> 676
+    line [361, 466, 551, 604, 648]
 ```
 
-2026-10-18 361 → 2026-10-23 604（+243）
+2026-10-18 361 → 2026-10-24 648（+287）
 
 
 ---

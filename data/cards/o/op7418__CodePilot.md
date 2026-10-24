@@ -1,6 +1,6 @@
 # op7418/CodePilot
 
-⭐ 6,503 · TypeScript · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/op7418/CodePilot) · [官网](https://www.codepilot.sh/) · 个人维护 · 中文 README
+⭐ 6,504 · TypeScript · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/op7418/CodePilot) · [官网](https://www.codepilot.sh/) · 个人维护 · 中文 README
 
 **多模型 AI agent 桌面客户端，接入多家 AI 提供商并支持远程控制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "op7418/CodePilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 6502 --> 6505
-    line [6503, 6504, 6503, 6503]
+    line [6503, 6504, 6503, 6504]
 ```
 
-2026-10-18 6,503 → 2026-10-23 6,503（+0）
+2026-10-18 6,503 → 2026-10-24 6,504（+1）
 
 
 ---

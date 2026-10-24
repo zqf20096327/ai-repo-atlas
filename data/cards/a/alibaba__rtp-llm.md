@@ -1,6 +1,6 @@
 # alibaba/rtp-llm
 
-⭐ 1,366 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/alibaba/rtp-llm) · 组织维护 · 中文 README
+⭐ 1,370 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaba/rtp-llm) · 组织维护 · 中文 README
 
 **阿里开发的高性能 LLM 推理加速引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba/rtp-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1361 --> 1367
-    line [1362, 1363, 1366]
+    title "alibaba/rtp-llm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1361 --> 1371
+    line [1362, 1363, 1366, 1370]
 ```
 
-2026-10-18 1,362 → 2026-10-23 1,366（+4）
+2026-10-18 1,362 → 2026-10-24 1,370（+8）
 
 
 ---

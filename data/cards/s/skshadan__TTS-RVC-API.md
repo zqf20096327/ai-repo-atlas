@@ -1,6 +1,6 @@
 # skshadan/TTS-RVC-API
 
-⭐ 114 · Python · MIT · 推送 2025-11-30 · [GitHub](https://github.com/skshadan/TTS-RVC-API) · 个人维护
+⭐ 115 · Python · MIT · 推送 2025-11-30 · [GitHub](https://github.com/skshadan/TTS-RVC-API) · 个人维护
 
 **将 Coqui TTS 与 RVC 结合的语音生成 API 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "skshadan/TTS-RVC-API 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 113 --> 116
+    line [114, 115]
 ```
 
-2026-10-18 114 → 2026-10-23 114（+0）
+2026-10-18 114 → 2026-10-24 115（+1）
 
 
 ---

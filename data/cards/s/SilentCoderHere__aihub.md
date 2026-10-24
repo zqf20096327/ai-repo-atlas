@@ -1,6 +1,6 @@
 # SilentCoderHere/aihub
 
-⭐ 532 · Kotlin · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/SilentCoderHere/aihub) · 个人维护
+⭐ 534 · Kotlin · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/SilentCoderHere/aihub) · 个人维护
 
 **安卓聚合多 AI 助手的标签页客户端，隐私优先**
 
@@ -44,13 +44,13 @@ Kotlin 编写的 Android 应用，通过 webview 将多个 AI 助手服务聚合
 
 ```mermaid
 xychart-beta
-    title "SilentCoderHere/aihub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 528 --> 534
-    line [529, 531, 533, 532]
+    title "SilentCoderHere/aihub 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 528 --> 535
+    line [529, 531, 533, 532, 534]
 ```
 
-2026-10-18 529 → 2026-10-23 532（+3）
+2026-10-18 529 → 2026-10-24 534（+5）
 
 
 ---

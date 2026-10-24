@@ -1,6 +1,6 @@
 # Dest1ny-Sec/Des-CTF-Knowledge
 
-⭐ 398 · Python · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Dest1ny-Sec/Des-CTF-Knowledge) · 个人维护 · 中文 README
+⭐ 405 · Python · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Dest1ny-Sec/Des-CTF-Knowledge) · 个人维护 · 中文 README
 
 **CTF 中文知识库：WP/漏洞文章/脚本，适配 AI RAG 检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dest1ny-Sec/Des-CTF-Knowledge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 372 --> 400
-    line [374, 385, 393, 398]
+    title "Dest1ny-Sec/Des-CTF-Knowledge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 371 --> 408
+    line [374, 385, 393, 398, 405]
 ```
 
-2026-10-18 374 → 2026-10-23 398（+24）
+2026-10-18 374 → 2026-10-24 405（+31）
 
 
 ---

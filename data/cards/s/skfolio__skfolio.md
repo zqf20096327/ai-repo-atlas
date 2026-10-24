@@ -1,6 +1,6 @@
 # skfolio/skfolio
 
-⭐ 2,531 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/skfolio/skfolio) · [官网](https://skfolio.org) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向量化投资的 Python 组合优化库，基于 scikit-learn API**
 
@@ -11,7 +11,7 @@ Python 库，提供组合优化、因子模型构建与风险管理功能，构�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

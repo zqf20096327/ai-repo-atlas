@@ -1,6 +1,6 @@
 # Lyellr88/marm-memory
 
-⭐ 422 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Lyellr88/marm-memory) · [官网](https://lyellr88.github.io/marm-memory) · 个人维护
+⭐ 422 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Lyellr88/marm-memory) · [官网](https://lyellr88.github.io/marm-memory) · 个人维护
 
 **本地优先的 AI agent 记忆层与 MCP 服务器：跨会话持久记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Lyellr88/marm-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 421 --> 423
     line [422, 422]
 ```
 
-2026-10-18 422 → 2026-10-23 422（+0）
+2026-10-18 422 → 2026-10-24 422（+0）
 
 
 ---

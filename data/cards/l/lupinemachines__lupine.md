@@ -1,6 +1,6 @@
 # lupinemachines/lupine
 
-⭐ 2,453 · C++ · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lupinemachines/lupine) · [官网](https://lupine.sh) · 组织维护
+⭐ 2,454 · C++ · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lupinemachines/lupine) · [官网](https://lupine.sh) · 组织维护
 
 **GPU-over-IP 桥：让纯 CPU 机器挂载远程机器的 GPU**
 
@@ -45,13 +45,13 @@ LUPINE 通过客户端 libcuda/NVML/NCCL/nvSHMEM/HIP shim 库把 CUDA 驱动调�
 
 ```mermaid
 xychart-beta
-    title "lupinemachines/lupine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2449 --> 2454
-    line [2450, 2451, 2453]
+    title "lupinemachines/lupine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2449 --> 2455
+    line [2450, 2451, 2453, 2454]
 ```
 
-2026-10-18 2,450 → 2026-10-23 2,453（+3）
+2026-10-18 2,450 → 2026-10-24 2,454（+4）
 
 
 ---

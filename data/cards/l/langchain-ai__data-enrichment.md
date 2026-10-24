@@ -1,6 +1,6 @@
 # langchain-ai/data-enrichment
 
-⭐ 258 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/data-enrichment) · 组织维护
+⭐ 258 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/data-enrichment) · 组织维护
 
 **LangGraph Studio 数据富化 agent 模板：web 研究生成结构化数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/data-enrichment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 257 --> 259
     line [258, 258]
 ```
 
-2026-10-18 258 → 2026-10-23 258（+0）
+2026-10-18 258 → 2026-10-24 258（+0）
 
 
 ---

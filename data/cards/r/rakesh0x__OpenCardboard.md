@@ -1,6 +1,6 @@
 # rakesh0x/OpenCardboard
 
-⭐ 95 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/rakesh0x/OpenCardboard) · 个人维护
+⭐ 96 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/rakesh0x/OpenCardboard) · 个人维护
 
 **本地优先的对话式 AI 视频剪辑桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rakesh0x/OpenCardboard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 88 --> 96
-    line [89, 93, 95]
+    title "rakesh0x/OpenCardboard 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 88 --> 97
+    line [89, 93, 95, 96]
 ```
 
-2026-10-18 89 → 2026-10-23 95（+6）
+2026-10-18 89 → 2026-10-24 96（+7）
 
 
 ---

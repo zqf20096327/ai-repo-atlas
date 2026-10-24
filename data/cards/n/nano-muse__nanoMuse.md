@@ -1,6 +1,6 @@
 # nano-muse/nanoMuse
 
-⭐ 2,296 · Swift · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/nano-muse/nanoMuse) · [官网](https://nanomuse.cn/) · 组织维护 · 中文 README
+⭐ 2,421 · Swift · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/nano-muse/nanoMuse) · [官网](https://nanomuse.cn/) · 组织维护 · 中文 README
 
 **跨设备个人 agent：一个账号贯通手机/桌面/网页，代做事并跨设备协同**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "nano-muse/nanoMuse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1291 --> 2387
-    line [1382, 1521, 2068, 2296]
+    title "nano-muse/nanoMuse 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1279 --> 2524
+    line [1382, 1521, 2068, 2296, 2421]
 ```
 
-2026-10-18 1,382 → 2026-10-23 2,296（+914）
+2026-10-18 1,382 → 2026-10-24 2,421（+1,039）
 
 
 ---

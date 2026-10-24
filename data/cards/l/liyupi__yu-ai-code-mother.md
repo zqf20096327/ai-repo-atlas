@@ -1,6 +1,6 @@
 # liyupi/yu-ai-code-mother
 
-⭐ 1,983 · Java · 推送 2026-09-12 · [GitHub](https://github.com/liyupi/yu-ai-code-mother) · [官网](https://www.codefather.cn/course/1948291549923344386) · 组织维护 · 中文 README
+⭐ 1,982 · Java · 推送 2026-09-12 · [GitHub](https://github.com/liyupi/yu-ai-code-mother) · [官网](https://www.codefather.cn/course/1948291549923344386) · 组织维护 · 中文 README
 
 **面向求职者的 AI 代码生成平台教学项目（Spring Boot 3 + LangChain4j）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/yu-ai-code-mother 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "liyupi/yu-ai-code-mother 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1979 --> 1984
-    line [1980, 1983, 1982, 1983]
+    line [1980, 1983, 1982, 1983, 1982]
 ```
 
-2026-10-18 1,980 → 2026-10-23 1,983（+3）
+2026-10-18 1,980 → 2026-10-24 1,982（+2）
 
 
 ---

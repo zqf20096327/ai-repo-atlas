@@ -1,6 +1,6 @@
 # HelixDB/helix-db
 
-⭐ 6,228 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/HelixDB/helix-db) · [官网](https://helix-db.com) · 组织维护
+⭐ 6,231 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/HelixDB/helix-db) · [官网](https://helix-db.com) · 组织维护
 
 **Rust 编写的图数据库，内置向量与 BM25 全文检索，面向 AI/RAG 应用**
 
@@ -44,13 +44,13 @@ Apache 2.0 开源图数据库，以标记属性图存储实体、关系、嵌入
 
 ```mermaid
 xychart-beta
-    title "HelixDB/helix-db 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6206 --> 6230
-    line [6208, 6215, 6222, 6228]
+    title "HelixDB/helix-db 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6206 --> 6233
+    line [6208, 6215, 6222, 6228, 6231]
 ```
 
-2026-10-18 6,208 → 2026-10-23 6,228（+20）
+2026-10-18 6,208 → 2026-10-24 6,231（+23）
 
 
 ---

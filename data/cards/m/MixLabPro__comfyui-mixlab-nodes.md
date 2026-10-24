@@ -1,6 +1,6 @@
 # MixLabPro/comfyui-mixlab-nodes
 
-⭐ 1,866 · JavaScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/MixLabPro/comfyui-mixlab-nodes) · [官网](https://mixlabnodes.com) · 个人维护 · 中文 README
+⭐ 1,867 · JavaScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/MixLabPro/comfyui-mixlab-nodes) · [官网](https://mixlabnodes.com) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：工作流转 Web App、GPT/语音/3D 等多类节点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MixLabPro/comfyui-mixlab-nodes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1862 --> 1867
-    line [1863, 1864, 1866, 1866]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1862 --> 1868
+    line [1863, 1864, 1866, 1867]
 ```
 
-2026-10-18 1,863 → 2026-10-23 1,866（+3）
+2026-10-18 1,863 → 2026-10-24 1,867（+4）
 
 
 ---

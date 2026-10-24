@@ -1,6 +1,6 @@
 # rcarmo/agentbox
 
-⭐ 152 · Dockerfile · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rcarmo/agentbox) · [官网](https://rcarmo.github.io/projects/agentbox/) · 个人维护
+⭐ 153 · Dockerfile · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rcarmo/agentbox) · [官网](https://rcarmo.github.io/projects/agentbox/) · 个人维护
 
 **Docker 化的编程 agent 沙箱容器，隔离运行多个编码代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rcarmo/agentbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 151 --> 153
-    line [152, 152]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 151 --> 154
+    line [152, 153]
 ```
 
-2026-10-18 152 → 2026-10-23 152（+0）
+2026-10-18 152 → 2026-10-24 153（+1）
 
 
 ---

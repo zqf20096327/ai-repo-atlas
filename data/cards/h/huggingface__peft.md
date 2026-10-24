@@ -1,6 +1,6 @@
 # huggingface/peft
 
-⭐ 21,834 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/peft) · [官网](https://huggingface.co/docs/peft) · 组织维护
+⭐ 21,844 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/peft) · [官网](https://huggingface.co/docs/peft) · 组织维护
 
 **大模型参数高效微调库：小参数量适配下游任务**
 
@@ -52,13 +52,13 @@ Hugging Face 的参数高效微调（PEFT）库，通过仅微调少量（额外
 
 ```mermaid
 xychart-beta
-    title "huggingface/peft 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 21793 --> 21837
-    line [21796, 21810, 21821, 21834]
+    title "huggingface/peft 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 21792 --> 21848
+    line [21796, 21810, 21821, 21834, 21844]
 ```
 
-2026-10-18 21,796 → 2026-10-23 21,834（+38）
+2026-10-18 21,796 → 2026-10-24 21,844（+48）
 
 
 ---

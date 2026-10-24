@@ -1,6 +1,6 @@
 # RobotecAI/rai
 
-⭐ 607 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/RobotecAI/rai) · 组织维护
+⭐ 609 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/RobotecAI/rai) · 组织维护
 
 **面向物理机器人/具身 AI 的厂商无关 agentic 框架（ROS 2）**
 
@@ -44,13 +44,13 @@ RAI 是一个用于在机器人上开发与部署具身 AI 功能的 agentic 框
 
 ```mermaid
 xychart-beta
-    title "RobotecAI/rai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 601 --> 608
-    line [602, 606, 607]
+    title "RobotecAI/rai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 601 --> 610
+    line [602, 606, 607, 609]
 ```
 
-2026-10-18 602 → 2026-10-23 607（+5）
+2026-10-18 602 → 2026-10-24 609（+7）
 
 
 ---

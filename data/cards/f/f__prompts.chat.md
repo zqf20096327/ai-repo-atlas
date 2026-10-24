@@ -1,6 +1,6 @@
 # f/prompts.chat
 
-⭐ 173,973 · HTML · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/f/prompts.chat) · [官网](https://prompts.chat) · 个人维护
+⭐ 174,203 · HTML · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/f/prompts.chat) · [官网](https://prompts.chat) · 个人维护
 
 **给 AI 用户的社区开源提示词库，可浏览、收藏与自托管**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "f/prompts.chat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 173179 --> 174045
-    line [173251, 173567, 173793, 173973]
+    title "f/prompts.chat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 173156 --> 174298
+    line [173251, 173567, 173793, 173973, 174203]
 ```
 
-2026-10-18 173,251 → 2026-10-23 173,973（+722）
+2026-10-18 173,251 → 2026-10-24 174,203（+952）
 
 
 ---

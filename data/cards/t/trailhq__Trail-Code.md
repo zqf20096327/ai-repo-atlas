@@ -1,6 +1,6 @@
 # trailhq/Trail-Code
 
-⭐ 10,655 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/trailhq/Trail-Code) · [官网](https://trailhq.com/graft) · 组织维护
+⭐ 10,702 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/trailhq/Trail-Code) · [官网](https://trailhq.com/graft) · 组织维护
 
 **给编码 agent 的代码地图与团队经验学习层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "trailhq/Trail-Code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 10273 --> 10689
-    line [10307, 10448, 10655]
+    title "trailhq/Trail-Code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10268 --> 10741
+    line [10307, 10448, 10655, 10702]
 ```
 
-2026-10-18 10,307 → 2026-10-23 10,655（+348）
+2026-10-18 10,307 → 2026-10-24 10,702（+395）
 
 
 ---

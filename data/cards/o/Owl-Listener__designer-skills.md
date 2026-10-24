@@ -1,6 +1,6 @@
 # Owl-Listener/designer-skills
 
-⭐ 3,024 · Markdown · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Owl-Listener/designer-skills) · 组织维护
+⭐ 3,046 · Markdown · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Owl-Listener/designer-skills) · 组织维护
 
 **面向 AI 编码助手的设计领域技能与命令集合（273 技能/76 命令）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Owl-Listener/designer-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2941 --> 3031
-    line [2948, 2966, 3005, 3024]
+    title "Owl-Listener/designer-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2939 --> 3055
+    line [2948, 2966, 3005, 3024, 3046]
 ```
 
-2026-10-18 2,948 → 2026-10-23 3,024（+76）
+2026-10-18 2,948 → 2026-10-24 3,046（+98）
 
 
 ---

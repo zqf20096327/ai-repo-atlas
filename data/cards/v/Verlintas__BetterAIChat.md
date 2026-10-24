@@ -1,6 +1,6 @@
 # Verlintas/BetterAIChat
 
-⭐ 119 · Kotlin · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Verlintas/BetterAIChat) · 个人维护 · 中文 README
+⭐ 120 · Kotlin · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Verlintas/BetterAIChat) · 个人维护 · 中文 README
 
 **Android 原生 AI 助手：自有 API Key 对话并操作手机**
 
@@ -47,13 +47,13 @@ Kotlin/Jetpack Compose 编写的本地优先 Android AI agent 应用：用户填
 
 ```mermaid
 xychart-beta
-    title "Verlintas/BetterAIChat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "Verlintas/BetterAIChat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 115 --> 164
-    line [160, 159, 158, 119]
+    line [160, 159, 158, 119, 120]
 ```
 
-2026-10-18 160 → 2026-10-23 119（-41）
+2026-10-18 160 → 2026-10-24 120（-40）
 
 
 ---

@@ -1,6 +1,6 @@
 # diillson/chatcli
 
-⭐ 94 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/diillson/chatcli) · [官网](https://chatcli.edilsonfreitas.com/) · 个人维护
+⭐ 94 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/diillson/chatcli) · [官网](https://chatcli.edilsonfreitas.com/) · 个人维护
 
 **终端 LLM 客户端：单二进制接入 14 家模型，带编码 agent 与质量验证**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "diillson/chatcli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "diillson/chatcli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 92 --> 95
-    line [93, 94]
+    line [93, 94, 94]
 ```
 
-2026-10-18 93 → 2026-10-23 94（+1）
+2026-10-18 93 → 2026-10-24 94（+1）
 
 
 ---

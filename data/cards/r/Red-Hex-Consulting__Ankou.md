@@ -1,6 +1,6 @@
 # Red-Hex-Consulting/Ankou
 
-⭐ 240 · TypeScript · BSD-3-Clause · 推送 2026-04-24 · [GitHub](https://github.com/Red-Hex-Consulting/Ankou) · [官网](https://ankou.ai) · 组织维护
+⭐ 239 · TypeScript · BSD-3-Clause · 推送 2026-04-24 · [GitHub](https://github.com/Red-Hex-Consulting/Ankou) · [官网](https://ankou.ai) · 组织维护
 
 **带 AI 助手的模块化 C2 框架，供红队与安全测试人员使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Red-Hex-Consulting/Ankou 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 239 --> 241
-    line [240, 240]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 238 --> 241
+    line [240, 239]
 ```
 
-2026-10-18 240 → 2026-10-23 240（+0）
+2026-10-18 240 → 2026-10-24 239（-1）
 
 
 ---

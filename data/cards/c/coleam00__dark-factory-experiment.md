@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "coleam00/dark-factory-experiment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "coleam00/dark-factory-experiment 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 170 --> 173
-    line [171, 172]
+    line [171, 172, 172]
 ```
 
-2026-10-18 171 → 2026-10-23 172（+1）
+2026-10-18 171 → 2026-10-24 172（+1）
 
 
 ---

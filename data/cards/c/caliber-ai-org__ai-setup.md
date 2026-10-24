@@ -1,6 +1,6 @@
 # caliber-ai-org/ai-setup
 
-⭐ 1,309 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/caliber-ai-org/ai-setup) · [官网](https://trycaliber.ai) · 组织维护
+⭐ 1,310 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/caliber-ai-org/ai-setup) · [官网](https://trycaliber.ai) · 组织维护
 
 **为多款编码 agent 统一生成与同步技能、规则和配置的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "caliber-ai-org/ai-setup 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1306 --> 1310
-    line [1307, 1309, 1309]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 1306 --> 1311
+    line [1307, 1309, 1310]
 ```
 
-2026-10-18 1,307 → 2026-10-23 1,309（+2）
+2026-10-18 1,307 → 2026-10-24 1,310（+3）
 
 
 ---

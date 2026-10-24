@@ -1,6 +1,6 @@
 # Snailclimb/interview-guide
 
-⭐ 3,405 · Java · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/Snailclimb/interview-guide) · [官网](https://javaguide.cn/zhuanlan/interview-guide.html) · 个人维护 · 中文 README
+⭐ 3,410 · Java · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/Snailclimb/interview-guide) · [官网](https://javaguide.cn/zhuanlan/interview-guide.html) · 个人维护 · 中文 README
 
 **面向求职者/HR/培训机构的开源 AI 面试平台**
 
@@ -46,13 +46,13 @@ InterviewGuide 是基于 Spring Boot 4.1、Spring AI 2.0、React 18 与 PostgreS
 
 ```mermaid
 xychart-beta
-    title "Snailclimb/interview-guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3372 --> 3408
-    line [3375, 3386, 3397, 3405]
+    title "Snailclimb/interview-guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3372 --> 3413
+    line [3375, 3386, 3397, 3405, 3410]
 ```
 
-2026-10-18 3,375 → 2026-10-23 3,405（+30）
+2026-10-18 3,375 → 2026-10-24 3,410（+35）
 
 
 ---

@@ -1,6 +1,6 @@
 # aaronsb/obsidian-mcp-plugin
 
-⭐ 466 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/aaronsb/obsidian-mcp-plugin) · 个人维护
+⭐ 467 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/aaronsb/obsidian-mcp-plugin) · 个人维护
 
 **运行在 Obsidian 内的 MCP 服务器：让 AI 客户端直接读写笔记库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aaronsb/obsidian-mcp-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 465 --> 467
-    line [466, 466]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 465 --> 468
+    line [466, 467]
 ```
 
-2026-10-18 466 → 2026-10-23 466（+0）
+2026-10-18 466 → 2026-10-24 467（+1）
 
 
 ---

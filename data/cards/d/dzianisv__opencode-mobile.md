@@ -1,6 +1,6 @@
 # dzianisv/opencode-mobile
 
-⭐ 240 · TypeScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/dzianisv/opencode-mobile) · [官网](https://agentlabs.cc/opencode) · 组织维护
+⭐ 246 · TypeScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/dzianisv/opencode-mobile) · [官网](https://agentlabs.cc/opencode) · 组织维护
 
 **自托管 opencode AI 编程代理的开源 Android 客户端**
 
@@ -44,13 +44,13 @@ React Native/Expo 构建的 Android 瘦客户端，通过 opencode 的 HTTP+SSE 
 
 ```mermaid
 xychart-beta
-    title "dzianisv/opencode-mobile 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 229 --> 241
-    line [230, 234, 239, 240]
+    title "dzianisv/opencode-mobile 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 229 --> 247
+    line [230, 234, 239, 240, 246]
 ```
 
-2026-10-18 230 → 2026-10-23 240（+10）
+2026-10-18 230 → 2026-10-24 246（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # Finrandojin/alexandria-audiobook
 
-⭐ 1,073 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/Finrandojin/alexandria-audiobook) · 个人维护 · 中文 README
+⭐ 1,074 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/Finrandojin/alexandria-audiobook) · 个人维护 · 中文 README
 
 **把书籍/小说转为多角色配音有声书的全流程生成器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Finrandojin/alexandria-audiobook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1070 --> 1074
-    line [1071, 1072, 1073, 1073]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1070 --> 1075
+    line [1071, 1072, 1073, 1074]
 ```
 
-2026-10-18 1,071 → 2026-10-23 1,073（+2）
+2026-10-18 1,071 → 2026-10-24 1,074（+3）
 
 
 ---

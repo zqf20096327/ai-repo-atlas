@@ -1,6 +1,6 @@
 # QiYao-Wang/AutoPatent
 
-⭐ 219 · JavaScript · 推送 2026-01-04 · [GitHub](https://github.com/QiYao-Wang/AutoPatent) · [官网](https://autopatent.wangqiyao.me/) · 组织维护 · 中文 README
+⭐ 220 · JavaScript · 推送 2026-01-04 · [GitHub](https://github.com/QiYao-Wang/AutoPatent) · [官网](https://autopatent.wangqiyao.me/) · 组织维护 · 中文 README
 
 **多智能体框架：从草稿自动生成完整专利文档（附 D2P 基准）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QiYao-Wang/AutoPatent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 218 --> 220
-    line [219, 219]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 218 --> 221
+    line [219, 220]
 ```
 
-2026-10-18 219 → 2026-10-23 219（+0）
+2026-10-18 219 → 2026-10-24 220（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # youichi-uda/godot-mcp-pro
 
-⭐ 629 · GDScript · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/youichi-uda/godot-mcp-pro) · [官网](https://godot-mcp.abyo.net/) · 个人维护
+⭐ 632 · GDScript · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/youichi-uda/godot-mcp-pro) · [官网](https://godot-mcp.abyo.net/) · 个人维护
 
 **连接 AI 助手与 Godot 编辑器的 MCP 服务器（187 工具）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "youichi-uda/godot-mcp-pro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 625 --> 630
-    line [626, 627, 629, 629]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 625 --> 633
+    line [626, 627, 629, 632]
 ```
 
-2026-10-18 626 → 2026-10-23 629（+3）
+2026-10-18 626 → 2026-10-24 632（+6）
 
 
 ---

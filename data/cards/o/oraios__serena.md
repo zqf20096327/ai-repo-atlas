@@ -1,6 +1,6 @@
 # oraios/serena
 
-⭐ 30,611 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/oraios/serena) · [官网](https://oraios.github.io/serena) · 组织维护
+⭐ 30,655 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/oraios/serena) · [官网](https://oraios.github.io/serena) · 组织维护
 
 **面向编码 Agent 的 MCP 工具集：符号级代码检索、编辑与重构**
 
@@ -51,13 +51,13 @@ Serena 是一个通过模型上下文协议（MCP）向 AI 编码代理提供语
 
 ```mermaid
 xychart-beta
-    title "oraios/serena 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 30318 --> 30637
-    line [30344, 30398, 30565, 30611]
+    title "oraios/serena 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 30313 --> 30686
+    line [30344, 30398, 30565, 30611, 30655]
 ```
 
-2026-10-18 30,344 → 2026-10-23 30,611（+267）
+2026-10-18 30,344 → 2026-10-24 30,655（+311）
 
 
 ---

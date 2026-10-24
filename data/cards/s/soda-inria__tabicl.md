@@ -1,6 +1,6 @@
 # soda-inria/tabicl
 
-⭐ 1,439 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/soda-inria/tabicl) · [官网](https://tabicl.readthedocs.io/en/latest/) · 组织维护
+⭐ 1,441 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/soda-inria/tabicl) · [官网](https://tabicl.readthedocs.io/en/latest/) · 组织维护
 
 **表格数据基础模型：零样本分类/回归/时序预测**
 
@@ -45,13 +45,13 @@ TabICLv2 是开源表格基础模型（ICML 2026），提供 scikit-learn 兼容
 
 ```mermaid
 xychart-beta
-    title "soda-inria/tabicl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1426 --> 1440
-    line [1427, 1430, 1434, 1439]
+    title "soda-inria/tabicl 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1426 --> 1442
+    line [1427, 1430, 1434, 1439, 1441]
 ```
 
-2026-10-18 1,427 → 2026-10-23 1,439（+12）
+2026-10-18 1,427 → 2026-10-24 1,441（+14）
 
 
 ---

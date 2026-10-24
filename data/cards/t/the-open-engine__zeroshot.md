@@ -1,6 +1,6 @@
 # the-open-engine/zeroshot
 
-⭐ 2,026 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/the-open-engine/zeroshot) · [官网](https://zeroshot.sh) · 组织维护
+⭐ 2,032 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/the-open-engine/zeroshot) · [官网](https://zeroshot.sh) · 组织维护
 
 **开源编码 agent 编排引擎：自定义工作流、评审与修复循环**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "the-open-engine/zeroshot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1988 --> 2029
-    line [1991, 2008, 2017, 2026]
+    title "the-open-engine/zeroshot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1987 --> 2036
+    line [1991, 2008, 2017, 2026, 2032]
 ```
 
-2026-10-18 1,991 → 2026-10-23 2,026（+35）
+2026-10-18 1,991 → 2026-10-24 2,032（+41）
 
 
 ---

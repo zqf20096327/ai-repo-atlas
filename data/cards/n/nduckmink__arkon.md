@@ -1,6 +1,6 @@
 # nduckmink/arkon
 
-⭐ 1,495 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/nduckmink/arkon) · 组织维护
+⭐ 1,497 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/nduckmink/arkon) · 组织维护
 
 **面向团队的自托管企业知识库与 MCP 服务器，向 LLM 供给受控上下文**
 
@@ -46,12 +46,12 @@ Arkon 是自托管的企业知识管理层：把 SOP、政策与内部文档经 
 ```mermaid
 xychart-beta
     title "nduckmink/arkon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1494 --> 1496
-    line [1495, 1495]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 1494 --> 1498
+    line [1495, 1497]
 ```
 
-2026-10-18 1,495 → 2026-10-23 1,495（+0）
+2026-10-18 1,495 → 2026-10-24 1,497（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # kubeai-project/kubeai
 
-⭐ 1,285 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kubeai-project/kubeai) · [官网](https://www.kubeai.org) · 组织维护
+⭐ 1,285 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kubeai-project/kubeai) · [官网](https://www.kubeai.org) · 组织维护
 
 **Kubernetes 上的 AI 推理算子：部署与弹性伸缩 LLM/嵌入/语音模型**
 
@@ -46,12 +46,12 @@ KubeAI 是一个 Kubernetes Operator，由两部分组成：OpenAI 兼容的模�
 ```mermaid
 xychart-beta
     title "kubeai-project/kubeai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1283 --> 1286
     line [1284, 1285, 1285]
 ```
 
-2026-10-18 1,284 → 2026-10-23 1,285（+1）
+2026-10-18 1,284 → 2026-10-24 1,285（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mattn/tensai
 
-⭐ 115 · Go · MIT · 推送 2026-10-09 · [GitHub](https://github.com/mattn/tensai) · [官网](https://mattn.github.io/tensai/) · 个人维护
+⭐ 116 · Go · MIT · 推送 2026-10-09 · [GitHub](https://github.com/mattn/tensai) · [官网](https://mattn.github.io/tensai/) · 个人维护
 
 **纯 Go 实现的轻量机器学习框架：张量/自动微分/量化与模型运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mattn/tensai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 112 --> 116
-    line [113, 114, 115, 115]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 112 --> 117
+    line [113, 114, 115, 116]
 ```
 
-2026-10-18 113 → 2026-10-23 115（+2）
+2026-10-18 113 → 2026-10-24 116（+3）
 
 
 ---

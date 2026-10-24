@@ -1,6 +1,6 @@
 # ccfddl/ccf-deadlines
 
-⭐ 9,472 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ccfddl/ccf-deadlines) · [官网](https://ccfddl.com) · 组织维护 · 中文 README
+⭐ 9,471 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ccfddl/ccf-deadlines) · [官网](https://ccfddl.com) · 组织维护 · 中文 README
 
 **面向科研人员的会议截止日期追踪工具（网站/CLI/小程序）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ccfddl/ccf-deadlines 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "ccfddl/ccf-deadlines 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 9455 --> 9473
-    line [9456, 9462, 9470, 9472]
+    line [9456, 9462, 9470, 9472, 9471]
 ```
 
-2026-10-18 9,456 → 2026-10-23 9,472（+16）
+2026-10-18 9,456 → 2026-10-24 9,471（+15）
 
 
 ---

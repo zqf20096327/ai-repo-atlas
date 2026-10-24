@@ -1,6 +1,6 @@
 # ghbalf/freecad-ai
 
-⭐ 585 · Python · LGPL-2.1 · 推送 2026-10-16 · [GitHub](https://github.com/ghbalf/freecad-ai) · 个人维护
+⭐ 586 · Python · LGPL-2.1 · 推送 2026-10-16 · [GitHub](https://github.com/ghbalf/freecad-ai) · 个人维护
 
 **FreeCAD 的 AI 助手工作台：用自然语言生成并执行 3D 建模代码**
 
@@ -48,13 +48,13 @@
 
 ```mermaid
 xychart-beta
-    title "ghbalf/freecad-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 575 --> 586
-    line [576, 577, 583, 585]
+    title "ghbalf/freecad-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 575 --> 587
+    line [576, 577, 583, 585, 586]
 ```
 
-2026-10-18 576 → 2026-10-23 585（+9）
+2026-10-18 576 → 2026-10-24 586（+10）
 
 
 ---

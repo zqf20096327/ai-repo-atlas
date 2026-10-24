@@ -1,6 +1,6 @@
 # adham90/ruby_llm-agents
 
-⭐ 139 · Ruby · MIT · 推送 2026-10-09 · [GitHub](https://github.com/adham90/ruby_llm-agents) · [官网](https://rubygems.org/gems/ruby_llm-agents) · 个人维护
+⭐ 138 · Ruby · MIT · 推送 2026-10-09 · [GitHub](https://github.com/adham90/ruby_llm-agents) · [官网](https://rubygems.org/gems/ruby_llm-agents) · 个人维护
 
 **Rails 引擎：构建并监控 LLM AI agent，含成本与预算管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adham90/ruby_llm-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 138 --> 141
-    line [140, 139, 139]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 137 --> 141
+    line [140, 139, 138]
 ```
 
-2026-10-18 140 → 2026-10-23 139（-1）
+2026-10-18 140 → 2026-10-24 138（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # alteryx/featuretools
 
-⭐ 7,688 · Python · BSD-3-Clause · 推送 2026-09-11 · [GitHub](https://github.com/alteryx/featuretools) · [官网](https://www.featuretools.com) · 组织维护
+⭐ 7,687 · Python · BSD-3-Clause · 推送 2026-09-11 · [GitHub](https://github.com/alteryx/featuretools) · [官网](https://www.featuretools.com) · 组织维护
 
 **面向数据科学家的 Python 自动特征工程库**
 
@@ -45,12 +45,12 @@ Alteryx 维护的 Python 库，通过 Deep Feature Synthesis（DFS）算法从�
 ```mermaid
 xychart-beta
     title "alteryx/featuretools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 7687 --> 7689
-    line [7688, 7688]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 7686 --> 7689
+    line [7688, 7687]
 ```
 
-2026-10-18 7,688 → 2026-10-23 7,688（+0）
+2026-10-18 7,688 → 2026-10-24 7,687（-1）
 
 
 ---

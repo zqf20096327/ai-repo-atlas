@@ -1,6 +1,6 @@
 # openai/codex-universal
 
-⭐ 1,098 · Dockerfile · 推送 2026-05-02 · [GitHub](https://github.com/openai/codex-universal) · 组织维护
+⭐ 1,099 · Dockerfile · 推送 2026-05-02 · [GitHub](https://github.com/openai/codex-universal) · 组织维护
 
 **OpenAI Codex 环境基础 Docker 镜像的参考实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/codex-universal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1093 --> 1099
-    line [1094, 1095, 1098, 1098]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1093 --> 1100
+    line [1094, 1095, 1098, 1099]
 ```
 
-2026-10-18 1,094 → 2026-10-23 1,098（+4）
+2026-10-18 1,094 → 2026-10-24 1,099（+5）
 
 
 ---

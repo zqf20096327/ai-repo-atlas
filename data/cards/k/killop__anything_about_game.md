@@ -1,6 +1,6 @@
 # killop/anything_about_game
 
-⭐ 4,173 · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/killop/anything_about_game) · 个人维护 · 中文 README
+⭐ 4,176 · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/killop/anything_about_game) · 个人维护 · 中文 README
 
 **游戏开发资源聚合清单：收录工具、库、博客与周刊链接**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "killop/anything_about_game 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4164 --> 4174
-    line [4165, 4170, 4172, 4173]
+    title "killop/anything_about_game 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4164 --> 4177
+    line [4165, 4170, 4172, 4173, 4176]
 ```
 
-2026-10-18 4,165 → 2026-10-23 4,173（+8）
+2026-10-18 4,165 → 2026-10-24 4,176（+11）
 
 
 ---

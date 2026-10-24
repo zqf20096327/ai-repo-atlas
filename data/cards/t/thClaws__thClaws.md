@@ -1,6 +1,6 @@
 # thClaws/thClaws
 
-⭐ 1,242 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/thClaws/thClaws) · [官网](https://thclaws.ai) · 组织维护
+⭐ 1,242 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/thClaws/thClaws) · [官网](https://thclaws.ai) · 组织维护
 
 **Rust 编写的开源 AI agent 工作台：单二进制提供 GUI/CLI/Webapp**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "thClaws/thClaws 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "thClaws/thClaws 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1238 --> 1243
-    line [1239, 1241, 1242]
+    line [1239, 1241, 1242, 1242]
 ```
 
-2026-10-18 1,239 → 2026-10-23 1,242（+3）
+2026-10-18 1,239 → 2026-10-24 1,242（+3）
 
 
 ---

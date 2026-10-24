@@ -1,6 +1,6 @@
 # understandable-machine-intelligence-lab/Quantus
 
-⭐ 677 · Jupyter Notebook · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/understandable-machine-intelligence-lab/Quantus) · [官网](https://quantus.readthedocs.io/) · 组织维护
+⭐ 678 · Jupyter Notebook · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/understandable-machine-intelligence-lab/Quantus) · [官网](https://quantus.readthedocs.io/) · 组织维护
 
 **XAI 评测工具包：量化评估神经网络解释方法的质量**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "understandable-machine-intelligence-lab/Quantus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 676 --> 678
-    line [677, 677]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 676 --> 679
+    line [677, 678]
 ```
 
-2026-10-18 677 → 2026-10-23 677（+0）
+2026-10-18 677 → 2026-10-24 678（+1）
 
 
 ---

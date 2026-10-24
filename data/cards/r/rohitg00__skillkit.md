@@ -1,6 +1,6 @@
 # rohitg00/skillkit
 
-⭐ 1,560 · TypeScript · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/rohitg00/skillkit) · [官网](https://skillkit.sh) · 个人维护
+⭐ 1,563 · TypeScript · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/rohitg00/skillkit) · [官网](https://skillkit.sh) · 个人维护
 
 **AI 编程 agent 技能的包管理器：一次安装，分发到 46 种 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rohitg00/skillkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1555 --> 1561
-    line [1556, 1558, 1560, 1560]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1555 --> 1564
+    line [1556, 1558, 1560, 1563]
 ```
 
-2026-10-18 1,556 → 2026-10-23 1,560（+4）
+2026-10-18 1,556 → 2026-10-24 1,563（+7）
 
 
 ---

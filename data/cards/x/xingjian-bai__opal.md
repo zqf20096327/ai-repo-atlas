@@ -1,6 +1,6 @@
 # xingjian-bai/opal
 
-⭐ 147 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/xingjian-bai/opal) · [官网](https://xingjianbai.com/reactive-optimizers/) · 个人维护
+⭐ 181 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xingjian-bai/opal) · [官网](https://xingjianbai.com/reactive-optimizers/) · 个人维护
 
 **PyTorch 优化器包装器：让编程 agent 在训练中改写优化器**
 
@@ -40,6 +40,18 @@ OPAL 是一个 PyTorch 优化器包装库：把用户已有的优化器包装后
 > L3:  A PyTorch optimizer wrapper that lets a coding agent change the optimizer while your model trains.
 > L12: optimizer in one line. Every so often the agent (Claude Code) reads what the run reports and decides whether to
 > L162: v0.3.6, under active development. Tested on one GPU and on DDP within one node (NCCL, eager and `torch.compile`).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xingjian-bai/opal 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 144 --> 184
+    line [147, 181]
+```
+
+2026-10-23 147 → 2026-10-24 181（+34）
 
 
 ---

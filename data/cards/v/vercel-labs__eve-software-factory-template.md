@@ -1,6 +1,6 @@
 # vercel-labs/eve-software-factory-template
 
-⭐ 1,171 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/vercel-labs/eve-software-factory-template) · [官网](https://vercel.com/templates/eve/eve-software-factory) · 组织维护
+⭐ 1,174 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vercel-labs/eve-software-factory-template) · [官网](https://vercel.com/templates/eve/eve-software-factory) · 组织维护
 
 **面向 GitHub/Linear 的 AI 代理软件工厂模板，产出草稿 PR**
 
@@ -45,13 +45,13 @@ Vercel 官方实验室提供的 eve 软件工厂模板，名为 Foreman：从 Gi
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/eve-software-factory-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "vercel-labs/eve-software-factory-template 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1162 --> 1175
-    line [1163, 1164, 1174, 1171]
+    line [1163, 1164, 1174, 1171, 1174]
 ```
 
-2026-10-18 1,163 → 2026-10-23 1,171（+8）
+2026-10-18 1,163 → 2026-10-24 1,174（+11）
 
 
 ---

@@ -45,13 +45,13 @@ MoleCode 是一种以 Mermaid 图序列化的分子表示格式：原子与化�
 
 ```mermaid
 xychart-beta
-    title "AtomFlow-AI/MoleCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "AtomFlow-AI/MoleCode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 305 --> 309
-    line [306, 308]
+    line [306, 308, 308]
 ```
 
-2026-10-18 306 → 2026-10-23 308（+2）
+2026-10-18 306 → 2026-10-24 308（+2）
 
 
 ---

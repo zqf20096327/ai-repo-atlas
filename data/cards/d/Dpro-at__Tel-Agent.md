@@ -1,6 +1,6 @@
 # Dpro-at/Tel-Agent
 
-⭐ 1,154 · Python · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/Dpro-at/Tel-Agent) · [官网](https://Tel-Agent.com) · 组织维护
+⭐ 1,156 · Python · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/Dpro-at/Tel-Agent) · [官网](https://Tel-Agent.com) · 组织维护
 
 **自托管 AI 电话助理网关：SIP 电话线接入 AI agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dpro-at/Tel-Agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1121 --> 1157
-    line [1124, 1139, 1147, 1154]
+    title "Dpro-at/Tel-Agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1121 --> 1159
+    line [1124, 1139, 1147, 1154, 1156]
 ```
 
-2026-10-18 1,124 → 2026-10-23 1,154（+30）
+2026-10-18 1,124 → 2026-10-24 1,156（+32）
 
 
 ---

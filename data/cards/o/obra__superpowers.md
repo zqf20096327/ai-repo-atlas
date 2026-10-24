@@ -1,6 +1,6 @@
 # obra/superpowers
 
-⭐ 303,603 · Shell · MIT · 推送 2026-10-21 · [GitHub](https://github.com/obra/superpowers) · 个人维护
+⭐ 304,148 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/obra/superpowers) · 个人维护
 
 **给编码 agent 的技能框架与软件开发方法论**
 
@@ -51,13 +51,13 @@ Superpowers 是一套面向编码 agent 的软件开发方法论，由一组可�
 
 ```mermaid
 xychart-beta
-    title "obra/superpowers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 300805 --> 303857
-    line [301059, 302054, 302912, 303603]
+    title "obra/superpowers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 300751 --> 304456
+    line [301059, 302054, 302912, 303603, 304148]
 ```
 
-2026-10-18 301,059 → 2026-10-23 303,603（+2,544）
+2026-10-18 301,059 → 2026-10-24 304,148（+3,089）
 
 
 ---

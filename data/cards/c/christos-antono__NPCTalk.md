@@ -1,6 +1,6 @@
 # christos-antono/NPCTalk
 
-⭐ 193 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/christos-antono/NPCTalk) · 个人维护
+⭐ 205 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/christos-antono/NPCTalk) · 个人维护
 
 **让 AI 编程 agent 为任意游戏接入可对话 NPC 的技能与语音服务工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "christos-antono/NPCTalk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 102 --> 201
-    line [110, 179, 188, 193]
+    title "christos-antono/NPCTalk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 101 --> 214
+    line [110, 179, 188, 193, 205]
 ```
 
-2026-10-18 110 → 2026-10-23 193（+83）
+2026-10-18 110 → 2026-10-24 205（+95）
 
 
 ---

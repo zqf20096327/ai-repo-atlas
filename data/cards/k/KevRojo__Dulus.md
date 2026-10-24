@@ -1,6 +1,6 @@
 # KevRojo/Dulus
 
-⭐ 343 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/KevRojo/Dulus) · [官网](https://dulus.ai/) · 个人维护
+⭐ 364 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/KevRojo/Dulus) · [官网](https://dulus.ai/) · 个人维护
 
 **开源 AI agent 运行时：一个引擎接入多家模型与本地模型**
 
@@ -45,13 +45,13 @@ Python 编写的 agent 运行时，安装后即得到可通过终端、浏览器
 
 ```mermaid
 xychart-beta
-    title "KevRojo/Dulus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 240 --> 352
-    line [249, 295, 324, 343]
+    title "KevRojo/Dulus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 238 --> 375
+    line [249, 295, 324, 343, 364]
 ```
 
-2026-10-18 249 → 2026-10-23 343（+94）
+2026-10-18 249 → 2026-10-24 364（+115）
 
 
 ---

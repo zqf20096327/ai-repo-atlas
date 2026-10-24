@@ -1,6 +1,6 @@
 # NirDiamant/Prompt_Engineering
 
-⭐ 7,914 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/NirDiamant/Prompt_Engineering) · [官网](https://diamant-ai.com) · 个人维护
+⭐ 7,912 · Jupyter Notebook · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NirDiamant/Prompt_Engineering) · [官网](https://diamant-ai.com) · 个人维护
 
 **22 种提示工程技术的 Jupyter Notebook 教程合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NirDiamant/Prompt_Engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "NirDiamant/Prompt_Engineering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 7904 --> 7915
-    line [7905, 7909, 7913, 7914]
+    line [7905, 7909, 7913, 7914, 7912]
 ```
 
-2026-10-18 7,905 → 2026-10-23 7,914（+9）
+2026-10-18 7,905 → 2026-10-24 7,912（+7）
 
 
 ---

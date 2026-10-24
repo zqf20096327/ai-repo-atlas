@@ -1,6 +1,6 @@
 # plur-ai/plur
 
-⭐ 308 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/plur-ai/plur) · [官网](https://plur.ai) · 组织维护
+⭐ 308 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/plur-ai/plur) · [官网](https://plur.ai) · 组织维护
 
 **面向 AI agent 的本地优先共享记忆层（MCP 记忆服务器）**
 
@@ -44,13 +44,13 @@ PLUR 是给 MCP 客户端（Claude Code、Codex、Cursor、OpenCode 等）提供
 
 ```mermaid
 xychart-beta
-    title "plur-ai/plur 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "plur-ai/plur 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 305 --> 309
-    line [306, 308]
+    line [306, 308, 308]
 ```
 
-2026-10-18 306 → 2026-10-23 308（+2）
+2026-10-18 306 → 2026-10-24 308（+2）
 
 
 ---

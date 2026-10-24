@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "yousefebrahimi0/list-ai-extensions-chrome-addons-firefox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 126 --> 128
     line [127, 127]
 ```
 
-2026-10-18 127 → 2026-10-23 127（+0）
+2026-10-18 127 → 2026-10-24 127（+0）
 
 
 ---

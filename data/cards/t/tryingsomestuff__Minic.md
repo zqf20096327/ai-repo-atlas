@@ -1,6 +1,6 @@
 # tryingsomestuff/Minic
 
-⭐ 137 · C++ · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/tryingsomestuff/Minic) · 个人维护
+⭐ 138 · C++ · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/tryingsomestuff/Minic) · 个人维护
 
 **开源国际象棋引擎：NNUE 评估 + 搜索，UCI/CECP 协议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tryingsomestuff/Minic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 135 --> 138
-    line [136, 137, 137]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 135 --> 139
+    line [136, 137, 138]
 ```
 
-2026-10-18 136 → 2026-10-23 137（+1）
+2026-10-18 136 → 2026-10-24 138（+2）
 
 
 ---

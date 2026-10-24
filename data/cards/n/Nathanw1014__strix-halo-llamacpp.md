@@ -1,6 +1,6 @@
 # Nathanw1014/strix-halo-llamacpp
 
-⭐ 217 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Nathanw1014/strix-halo-llamacpp) · 个人维护
+⭐ 218 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Nathanw1014/strix-halo-llamacpp) · 个人维护
 
 **面向 AMD Strix Halo 的 llama.cpp 优化构建：FA 与 MoE-prefill 修复**
 
@@ -45,12 +45,12 @@ llama.cpp 的下游分叉，为 AMD Strix Halo（Ryzen AI Max+ 395 / gfx1151）�
 ```mermaid
 xychart-beta
     title "Nathanw1014/strix-halo-llamacpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 215 --> 218
-    line [216, 217, 217]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 215 --> 219
+    line [216, 217, 218]
 ```
 
-2026-10-18 216 → 2026-10-23 217（+1）
+2026-10-18 216 → 2026-10-24 218（+2）
 
 
 ---

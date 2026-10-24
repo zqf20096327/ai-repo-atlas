@@ -1,6 +1,6 @@
 # cloudflare/agents
 
-⭐ 5,872 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cloudflare/agents) · [官网](https://developers.cloudflare.com/agents/) · 组织维护
+⭐ 5,879 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/cloudflare/agents) · [官网](https://developers.cloudflare.com/agents/) · 组织维护
 
 **在 Cloudflare 上构建有状态 AI Agent 的 TypeScript SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cloudflare/agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5841 --> 5874
-    line [5843, 5851, 5861, 5872]
+    title "cloudflare/agents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5840 --> 5882
+    line [5843, 5851, 5861, 5872, 5879]
 ```
 
-2026-10-18 5,843 → 2026-10-23 5,872（+29）
+2026-10-18 5,843 → 2026-10-24 5,879（+36）
 
 
 ---

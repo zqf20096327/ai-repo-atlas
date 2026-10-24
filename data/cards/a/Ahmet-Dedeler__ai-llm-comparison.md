@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ahmet-Dedeler/ai-llm-comparison 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Ahmet-Dedeler/ai-llm-comparison 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 424 --> 427
-    line [425, 426]
+    line [425, 426, 426]
 ```
 
-2026-10-18 425 → 2026-10-23 426（+1）
+2026-10-18 425 → 2026-10-24 426（+1）
 
 
 ---

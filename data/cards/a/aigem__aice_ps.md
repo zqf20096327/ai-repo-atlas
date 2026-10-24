@@ -1,6 +1,6 @@
 # aigem/aice_ps
 
-⭐ 330 · TypeScript · 推送 2025-10-27 · [GitHub](https://github.com/aigem/aice_ps) · [官网](https://youtu.be/_4awNdJS5C4) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **网页版 AI 照片编辑器：用 Gemini 实现文生图与局部修图**
 

@@ -1,6 +1,6 @@
 # genieincodebottle/generative-ai
 
-⭐ 2,650 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/genieincodebottle/generative-ai) · [官网](https://aimlcompanion.ai/) · 个人维护
+⭐ 2,651 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/genieincodebottle/generative-ai) · [官网](https://aimlcompanion.ai/) · 个人维护
 
 **生成式 AI 学习资源与项目合集（路线图、面试题、实战项目）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "genieincodebottle/generative-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2645 --> 2651
-    line [2646, 2647, 2650]
+    title "genieincodebottle/generative-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2645 --> 2652
+    line [2646, 2647, 2650, 2651]
 ```
 
-2026-10-18 2,646 → 2026-10-23 2,650（+4）
+2026-10-18 2,646 → 2026-10-24 2,651（+5）
 
 
 ---

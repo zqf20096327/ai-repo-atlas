@@ -1,6 +1,6 @@
 # datawhalechina/self-llm
 
-⭐ 32,554 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/datawhalechina/self-llm) · 组织维护 · 中文 README
+⭐ 32,565 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/datawhalechina/self-llm) · 组织维护 · 中文 README
 
 **面向国内初学者的开源大模型配置、部署与微调中文教程**
 
@@ -52,13 +52,13 @@ Datawhale 出品的开源大模型教程仓库，基于 Linux 平台覆盖环境
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/self-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 32495 --> 32559
-    line [32500, 32518, 32554]
+    title "datawhalechina/self-llm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 32494 --> 32571
+    line [32500, 32518, 32554, 32565]
 ```
 
-2026-10-18 32,500 → 2026-10-23 32,554（+54）
+2026-10-18 32,500 → 2026-10-24 32,565（+65）
 
 
 ---

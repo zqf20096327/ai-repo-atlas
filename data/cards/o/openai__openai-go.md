@@ -1,6 +1,6 @@
 # openai/openai-go
 
-⭐ 3,503 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/openai-go) · 组织维护
+⭐ 3,504 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-go) · 组织维护
 
 **OpenAI API 的官方 Go 客户端库，供 Go 应用调用模型**
 
@@ -44,13 +44,13 @@ OpenAI 官方维护的 Go 语言 SDK，封装对 OpenAI REST API 的访问：支
 
 ```mermaid
 xychart-beta
-    title "openai/openai-go 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3495 --> 3504
-    line [3496, 3499, 3502, 3503]
+    title "openai/openai-go 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3495 --> 3505
+    line [3496, 3499, 3502, 3503, 3504]
 ```
 
-2026-10-18 3,496 → 2026-10-23 3,503（+7）
+2026-10-18 3,496 → 2026-10-24 3,504（+8）
 
 
 ---

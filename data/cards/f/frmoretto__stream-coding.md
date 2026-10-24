@@ -1,6 +1,6 @@
 # frmoretto/stream-coding
 
-⭐ 96 · NOASSERTION · 推送 2026-02-26 · [GitHub](https://github.com/frmoretto/stream-coding) · [官网](https://www.stream-coding.com/) · 个人维护
+⭐ 97 · NOASSERTION · 推送 2026-02-26 · [GitHub](https://github.com/frmoretto/stream-coding) · [官网](https://www.stream-coding.com/) · 个人维护
 
 **面向小团队的文档优先 AI 开发方法论（SKILL.md+宣言）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "frmoretto/stream-coding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 95 --> 98
+    line [96, 97]
 ```
 
-2026-10-18 96 → 2026-10-23 96（+0）
+2026-10-18 96 → 2026-10-24 97（+1）
 
 
 ---

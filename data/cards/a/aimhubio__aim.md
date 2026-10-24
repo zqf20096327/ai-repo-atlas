@@ -1,6 +1,6 @@
 # aimhubio/aim
 
-⭐ 6,289 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/aimhubio/aim) · [官网](https://aimstack.io) · 组织维护
+⭐ 6,290 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/aimhubio/aim) · [官网](https://aimstack.io) · 组织维护
 
 **自托管 ML 实验追踪工具：记录训练运行与元数据并对比**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aimhubio/aim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 6286 --> 6290
-    line [6287, 6288, 6289]
+    title "aimhubio/aim 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6286 --> 6291
+    line [6287, 6288, 6289, 6290]
 ```
 
-2026-10-18 6,287 → 2026-10-23 6,289（+2）
+2026-10-18 6,287 → 2026-10-24 6,290（+3）
 
 
 ---

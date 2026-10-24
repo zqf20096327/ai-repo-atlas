@@ -1,6 +1,6 @@
 # ghostwright/phantom
 
-⭐ 1,486 · TypeScript · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/ghostwright/phantom) · [官网](https://ghostwright.dev/phantom) · 组织维护
+⭐ 1,485 · TypeScript · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/ghostwright/phantom) · [官网](https://ghostwright.dev/phantom) · 组织维护
 
 **给个人和团队的自主 AI 同事：运行在专属虚拟机上，长期记忆并可自建工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ghostwright/phantom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "ghostwright/phantom 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1483 --> 1487
-    line [1484, 1485, 1486]
+    line [1484, 1485, 1486, 1485]
 ```
 
-2026-10-18 1,484 → 2026-10-23 1,486（+2）
+2026-10-18 1,484 → 2026-10-24 1,485（+1）
 
 
 ---

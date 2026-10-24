@@ -1,6 +1,6 @@
 # arn-c0de/Crawllama
 
-⭐ 106 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/arn-c0de/Crawllama) · 个人维护
+⭐ 106 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/arn-c0de/Crawllama) · 个人维护
 
 **本地 OSINT 研究代理：经 Ollama 联网检索与 RAG 回答问题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arn-c0de/Crawllama 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "arn-c0de/Crawllama 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 104 --> 108
-    line [105, 106, 107, 106]
+    line [105, 106, 107, 106, 106]
 ```
 
-2026-10-18 105 → 2026-10-23 106（+1）
+2026-10-18 105 → 2026-10-24 106（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tirth8205/code-review-graph
 
-⭐ 32,322 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/tirth8205/code-review-graph) · [官网](https://code-review-graph.com) · 个人维护
+⭐ 32,347 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/tirth8205/code-review-graph) · [官网](https://code-review-graph.com) · 个人维护
 
 **给 AI 编码工具的本地代码知识图谱：MCP 提供精准审查上下文**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "tirth8205/code-review-graph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 32208 --> 32332
-    line [32218, 32264, 32322]
+    title "tirth8205/code-review-graph 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 32206 --> 32359
+    line [32218, 32264, 32322, 32347]
 ```
 
-2026-10-18 32,218 → 2026-10-23 32,322（+104）
+2026-10-18 32,218 → 2026-10-24 32,347（+129）
 
 
 ---

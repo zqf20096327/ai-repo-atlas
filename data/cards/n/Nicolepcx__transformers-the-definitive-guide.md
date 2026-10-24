@@ -44,13 +44,13 @@ O'Reilly 图书 Transformers - The Definitive Guide 的官方配套代码库：�
 
 ```mermaid
 xychart-beta
-    title "Nicolepcx/transformers-the-definitive-guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "Nicolepcx/transformers-the-definitive-guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 469 --> 474
-    line [470, 471, 472, 473]
+    line [470, 471, 472, 473, 473]
 ```
 
-2026-10-18 470 → 2026-10-23 473（+3）
+2026-10-18 470 → 2026-10-24 473（+3）
 
 
 ---

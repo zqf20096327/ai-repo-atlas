@@ -1,6 +1,6 @@
 # tolkonepiu/best-of-mcp-servers
 
-⭐ 157 · CC-BY-SA-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/tolkonepiu/best-of-mcp-servers) · 个人维护
+⭐ 158 · CC-BY-SA-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/tolkonepiu/best-of-mcp-servers) · 个人维护
 
 **MCP 服务器排行清单：400 个项目按 34 类自动评分排名**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tolkonepiu/best-of-mcp-servers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 154 --> 158
-    line [155, 156, 157]
+    title "tolkonepiu/best-of-mcp-servers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 154 --> 159
+    line [155, 156, 157, 158]
 ```
 
-2026-10-18 155 → 2026-10-23 157（+2）
+2026-10-18 155 → 2026-10-24 158（+3）
 
 
 ---

@@ -46,12 +46,12 @@ ERC 资助的 Digital Ludeme 项目开发的通用博弈（General Game Playing�
 ```mermaid
 xychart-beta
     title "Ludeme/Ludii 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 168 --> 170
     line [169, 169]
 ```
 
-2026-10-18 169 → 2026-10-23 169（+0）
+2026-10-18 169 → 2026-10-24 169（+0）
 
 
 ---

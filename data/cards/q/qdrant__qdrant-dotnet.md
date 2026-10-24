@@ -1,6 +1,6 @@
 # qdrant/qdrant-dotnet
 
-⭐ 231 · C# · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/qdrant-dotnet) · 组织维护
+⭐ 231 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/qdrant-dotnet) · 组织维护
 
 **Qdrant 向量数据库的官方 .NET SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qdrant/qdrant-dotnet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 230 --> 232
     line [231, 231]
 ```
 
-2026-10-18 231 → 2026-10-23 231（+0）
+2026-10-18 231 → 2026-10-24 231（+0）
 
 
 ---

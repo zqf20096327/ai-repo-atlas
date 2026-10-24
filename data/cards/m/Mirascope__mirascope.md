@@ -1,6 +1,6 @@
 # Mirascope/mirascope
 
-⭐ 1,536 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Mirascope/mirascope) · [官网](https://mirascope.com) · 组织维护
+⭐ 1,537 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Mirascope/mirascope) · [官网](https://mirascope.com) · 组织维护
 
 **统一接口调用各类前沿 LLM 的 Python/TS 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mirascope/mirascope 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1531 --> 1537
-    line [1532, 1533, 1535, 1536]
+    title "Mirascope/mirascope 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1531 --> 1538
+    line [1532, 1533, 1535, 1536, 1537]
 ```
 
-2026-10-18 1,532 → 2026-10-23 1,536（+4）
+2026-10-18 1,532 → 2026-10-24 1,537（+5）
 
 
 ---

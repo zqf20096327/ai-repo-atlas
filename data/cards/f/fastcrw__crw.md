@@ -1,6 +1,6 @@
 # fastcrw/crw
 
-⭐ 1,173 · Rust · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/fastcrw/crw) · [官网](https://fastcrw.com) · 组织维护
+⭐ 1,172 · Rust · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/fastcrw/crw) · [官网](https://fastcrw.com) · 组织维护
 
 **Rust 单二进制网页抓取/爬取/搜索 API，供 AI agent 经 MCP 调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fastcrw/crw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "fastcrw/crw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1143 --> 1175
-    line [1145, 1159, 1171, 1173]
+    line [1145, 1159, 1171, 1173, 1172]
 ```
 
-2026-10-18 1,145 → 2026-10-23 1,173（+28）
+2026-10-18 1,145 → 2026-10-24 1,172（+27）
 
 
 ---

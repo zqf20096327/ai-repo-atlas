@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/AuK
 
-⭐ 1,541 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Tencent-Hunyuan/AuK) · [官网](https://auk-project.github.io/) · 组织维护 · 中文 README
+⭐ 1,543 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Tencent-Hunyuan/AuK) · [官网](https://auk-project.github.io/) · 组织维护 · 中文 README
 
 **1.5B 语音生成与编辑基础模型，支持 TTS/编辑/分离等任务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/AuK 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1523 --> 1542
-    line [1524, 1528, 1537, 1541]
+    title "Tencent-Hunyuan/AuK 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1523 --> 1544
+    line [1524, 1528, 1537, 1541, 1543]
 ```
 
-2026-10-18 1,524 → 2026-10-23 1,541（+17）
+2026-10-18 1,524 → 2026-10-24 1,543（+19）
 
 
 ---

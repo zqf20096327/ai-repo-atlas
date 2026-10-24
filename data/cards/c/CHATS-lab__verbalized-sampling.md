@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CHATS-lab/verbalized-sampling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "CHATS-lab/verbalized-sampling 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 812 --> 815
-    line [813, 814]
+    line [813, 814, 814]
 ```
 
-2026-10-18 813 → 2026-10-23 814（+1）
+2026-10-18 813 → 2026-10-24 814（+1）
 
 
 ---

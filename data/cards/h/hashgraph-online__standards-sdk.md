@@ -1,6 +1,6 @@
 # hashgraph-online/standards-sdk
 
-⭐ 1,272 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hashgraph-online/standards-sdk) · [官网](https://hol.org) · 组织维护
+⭐ 1,271 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hashgraph-online/standards-sdk) · [官网](https://hol.org) · 组织维护
 
 **Hedera HCS 标准的官方 TypeScript SDK：实现文件、注册与代理通信标准**
 
@@ -44,13 +44,13 @@ HOL 维护的 Hashgraph 共识标准（HCS）参考实现 SDK，覆盖 HCS-1 文
 
 ```mermaid
 xychart-beta
-    title "hashgraph-online/standards-sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "hashgraph-online/standards-sdk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1266 --> 1273
-    line [1267, 1269, 1270, 1272]
+    line [1267, 1269, 1270, 1272, 1271]
 ```
 
-2026-10-18 1,267 → 2026-10-23 1,272（+5）
+2026-10-18 1,267 → 2026-10-24 1,271（+4）
 
 
 ---

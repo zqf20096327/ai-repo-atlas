@@ -1,6 +1,6 @@
 # LibreYOLO/libreyolo
 
-⭐ 914 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/LibreYOLO/libreyolo) · [官网](https://www.libreyolo.com/) · 组织维护 · 中文 README
+⭐ 915 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/LibreYOLO/libreyolo) · [官网](https://www.libreyolo.com/) · 组织维护 · 中文 README
 
 **MIT 许可的计算机视觉库：统一 API 跑检测/分割/姿态等二十余类任务**
 
@@ -45,13 +45,13 @@ MIT 许可的 Python 计算机视觉库，用一个三行 API 覆盖检测、实
 
 ```mermaid
 xychart-beta
-    title "LibreYOLO/libreyolo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 898 --> 915
-    line [899, 905, 910, 914]
+    title "LibreYOLO/libreyolo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 898 --> 916
+    line [899, 905, 910, 914, 915]
 ```
 
-2026-10-18 899 → 2026-10-23 914（+15）
+2026-10-18 899 → 2026-10-24 915（+16）
 
 
 ---

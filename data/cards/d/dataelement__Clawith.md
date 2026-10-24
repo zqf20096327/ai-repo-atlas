@@ -1,6 +1,6 @@
 # dataelement/Clawith
 
-⭐ 4,174 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/dataelement/Clawith) · [官网](https://www.clawith.ai) · 组织维护 · 中文 README
+⭐ 4,175 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/dataelement/Clawith) · [官网](https://www.clawith.ai) · 组织维护 · 中文 README
 
 **开源多智能体协作平台，给团队提供持久身份的 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dataelement/Clawith 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 4163 --> 4175
-    line [4164, 4168, 4174]
+    title "dataelement/Clawith 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4163 --> 4176
+    line [4164, 4168, 4174, 4175]
 ```
 
-2026-10-18 4,164 → 2026-10-23 4,174（+10）
+2026-10-18 4,164 → 2026-10-24 4,175（+11）
 
 
 ---

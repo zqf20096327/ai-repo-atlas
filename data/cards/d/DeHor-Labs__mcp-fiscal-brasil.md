@@ -1,6 +1,6 @@
 # DeHor-Labs/mcp-fiscal-brasil
 
-⭐ 328 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/DeHor-Labs/mcp-fiscal-brasil) · [官网](https://fiscal.dehor.dev) · 组织维护
+⭐ 331 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/DeHor-Labs/mcp-fiscal-brasil) · [官网](https://fiscal.dehor.dev) · 组织维护
 
 **面向巴西财税数据的 MCP 服务器：44 个工具免密查询**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "DeHor-Labs/mcp-fiscal-brasil 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 322 --> 329
-    line [323, 324, 326, 328]
+    title "DeHor-Labs/mcp-fiscal-brasil 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 322 --> 332
+    line [323, 324, 326, 328, 331]
 ```
 
-2026-10-18 323 → 2026-10-23 328（+5）
+2026-10-18 323 → 2026-10-24 331（+8）
 
 
 ---

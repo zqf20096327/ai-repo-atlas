@@ -1,6 +1,6 @@
 # GetBusbar/busbar
 
-⭐ 211 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/GetBusbar/busbar) · [官网](https://getbusbar.com) · 组织维护
+⭐ 212 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/GetBusbar/busbar) · [官网](https://getbusbar.com) · 组织维护
 
 **自托管的 AI 执行边界网关：治理模型、MCP 工具与 A2A 调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GetBusbar/busbar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 196 --> 212
-    line [197, 204, 211]
+    title "GetBusbar/busbar 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 196 --> 213
+    line [197, 204, 211, 212]
 ```
 
-2026-10-18 197 → 2026-10-23 211（+14）
+2026-10-18 197 → 2026-10-24 212（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # mage-ai/mage-ai
 
-⭐ 8,835 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/mage-ai/mage-ai) · [官网](https://www.mage.ai) · 组织维护
+⭐ 8,836 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/mage-ai/mage-ai) · [官网](https://www.mage.ai) · 组织维护
 
 **自托管数据管道开发环境：本地构建、运行与管理 ETL**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mage-ai/mage-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8829 --> 8836
-    line [8830, 8833, 8835, 8835]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 8829 --> 8837
+    line [8830, 8833, 8835, 8836]
 ```
 
-2026-10-18 8,830 → 2026-10-23 8,835（+5）
+2026-10-18 8,830 → 2026-10-24 8,836（+6）
 
 
 ---

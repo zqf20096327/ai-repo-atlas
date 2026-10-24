@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "claudio-silva/claude-artifact-runner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "claudio-silva/claude-artifact-runner 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 579 --> 583
-    line [580, 581, 582]
+    line [580, 581, 582, 582]
 ```
 
-2026-10-18 580 → 2026-10-23 582（+2）
+2026-10-18 580 → 2026-10-24 582（+2）
 
 
 ---

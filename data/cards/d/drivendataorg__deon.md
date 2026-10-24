@@ -1,6 +1,6 @@
 # drivendataorg/deon
 
-⭐ 309 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/drivendataorg/deon) · [官网](https://deon.drivendata.org/) · 组织维护
+⭐ 309 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/drivendataorg/deon) · [官网](https://deon.drivendata.org/) · 组织维护
 
 **为数据科学项目生成伦理检查清单的命令行工具**
 
@@ -45,12 +45,12 @@ deon 是一个 Python 命令行工具，用于在数据科学项目中创建或�
 ```mermaid
 xychart-beta
     title "drivendataorg/deon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 308 --> 310
     line [309, 309]
 ```
 
-2026-10-18 309 → 2026-10-23 309（+0）
+2026-10-18 309 → 2026-10-24 309（+0）
 
 
 ---

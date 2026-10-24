@@ -46,12 +46,12 @@ DeepMind 维护的 DQN 变体参考实现集合，收录 DQN、Double Q、优先
 ```mermaid
 xychart-beta
     title "google-deepmind/dqn_zoo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 514 --> 516
     line [515, 515]
 ```
 
-2026-10-18 515 → 2026-10-23 515（+0）
+2026-10-18 515 → 2026-10-24 515（+0）
 
 
 ---

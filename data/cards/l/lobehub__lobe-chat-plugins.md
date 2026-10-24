@@ -44,13 +44,13 @@ LobeHub 维护的插件索引仓库：LobeChat 通过读取本仓库的 index.js
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobe-chat-plugins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "lobehub/lobe-chat-plugins 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 299 --> 303
-    line [300, 301, 302]
+    line [300, 301, 302, 302]
 ```
 
-2026-10-18 300 → 2026-10-23 302（+2）
+2026-10-18 300 → 2026-10-24 302（+2）
 
 
 ---

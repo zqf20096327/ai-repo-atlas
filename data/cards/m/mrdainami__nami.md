@@ -1,6 +1,6 @@
 # mrdainami/nami
 
-⭐ 327 · JavaScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/mrdainami/nami) · [官网](https://nami.dainami.ai) · 个人维护
+⭐ 329 · JavaScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/mrdainami/nami) · [官网](https://nami.dainami.ai) · 个人维护
 
 **桌面工作区：并排运行多个 AI agent 干活的统一操作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrdainami/nami 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 318 --> 328
-    line [319, 323, 325, 327]
+    title "mrdainami/nami 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 318 --> 330
+    line [319, 323, 325, 327, 329]
 ```
 
-2026-10-18 319 → 2026-10-23 327（+8）
+2026-10-18 319 → 2026-10-24 329（+10）
 
 
 ---

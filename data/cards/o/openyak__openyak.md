@@ -1,6 +1,6 @@
 # openyak/openyak
 
-⭐ 693 · TypeScript · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/openyak/openyak) · [官网](https://open-yak.com/) · 组织维护 · 中文 README
+⭐ 694 · TypeScript · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/openyak/openyak) · [官网](https://open-yak.com/) · 组织维护 · 中文 README
 
 **本地桌面 GUI：统一界面运行 Codex 与 Claude Code 等 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openyak/openyak 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 692 --> 694
-    line [693, 693]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 692 --> 695
+    line [693, 694]
 ```
 
-2026-10-18 693 → 2026-10-23 693（+0）
+2026-10-18 693 → 2026-10-24 694（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # morphik-org/morphik-core
 
-⭐ 3,718 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/morphik-org/morphik-core) · [官网](https://morphik.ai/docs) · 组织维护
+⭐ 3,717 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/morphik-org/morphik-core) · [官网](https://morphik.ai/docs) · 组织维护
 
 **面向开发者的多模态检索引擎，处理图文文档的存取与检索**
 
@@ -45,12 +45,12 @@ Morphik Core 是一个开源（source-available，BSL 1.1）的多模态检索�
 ```mermaid
 xychart-beta
     title "morphik-org/morphik-core 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 3715 --> 3719
-    line [3716, 3717, 3718, 3718]
+    line [3716, 3717, 3718, 3717]
 ```
 
-2026-10-18 3,716 → 2026-10-23 3,718（+2）
+2026-10-18 3,716 → 2026-10-24 3,717（+1）
 
 
 ---

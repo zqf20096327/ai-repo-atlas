@@ -1,6 +1,6 @@
 # ansvisor/ansvisor
 
-⭐ 156 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ansvisor/ansvisor) · [官网](https://ansvisor.com) · 组织维护
+⭐ 159 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ansvisor/ansvisor) · [官网](https://ansvisor.com) · 组织维护
 
 **开源 AI 搜索可见性分析平台：帮品牌追踪与优化在 AI 搜索中的表现**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ansvisor/ansvisor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 145 --> 157
-    line [146, 148, 152, 156]
+    title "ansvisor/ansvisor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 145 --> 160
+    line [146, 148, 152, 156, 159]
 ```
 
-2026-10-18 146 → 2026-10-23 156（+10）
+2026-10-18 146 → 2026-10-24 159（+13）
 
 
 ---

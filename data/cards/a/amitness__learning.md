@@ -1,6 +1,6 @@
 # amitness/learning
 
-⭐ 6,980 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/amitness/learning) · [官网](https://twitter.com/amitness) · 个人维护
+⭐ 6,981 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/amitness/learning) · [官网](https://twitter.com/amitness) · 个人维护
 
 **个人学习记录：按技能领域整理的课程与书籍清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitness/learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6972 --> 6981
-    line [6973, 6976, 6978, 6980]
+    title "amitness/learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6972 --> 6982
+    line [6973, 6976, 6978, 6980, 6981]
 ```
 
-2026-10-18 6,973 → 2026-10-23 6,980（+7）
+2026-10-18 6,973 → 2026-10-24 6,981（+8）
 
 
 ---

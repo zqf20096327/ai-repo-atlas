@@ -1,6 +1,6 @@
 # ShadowLoveElysia/AiNiee-Next
 
-⭐ 213 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/ShadowLoveElysia/AiNiee-Next) · 个人维护 · 中文 README
+⭐ 214 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/ShadowLoveElysia/AiNiee-Next) · 个人维护 · 中文 README
 
 **AiNiee 优化分支：面向批量长篇内容的 LLM 翻译 CLI/TUI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ShadowLoveElysia/AiNiee-Next 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 206 --> 214
-    line [207, 212, 213, 213]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 206 --> 215
+    line [207, 212, 213, 214]
 ```
 
-2026-10-18 207 → 2026-10-23 213（+6）
+2026-10-18 207 → 2026-10-24 214（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # NotJoeMartinez/yt-fts
 
-⭐ 1,811 · Python · Unlicense · 推送 2026-01-22 · [GitHub](https://github.com/NotJoeMartinez/yt-fts) · 个人维护
+⭐ 1,812 · Python · Unlicense · 推送 2026-01-22 · [GitHub](https://github.com/NotJoeMartinez/yt-fts) · 个人维护
 
 **命令行抓取 YouTube 频道字幕并做全文/语义检索的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NotJoeMartinez/yt-fts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1807 --> 1812
-    line [1808, 1810, 1811, 1811]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1807 --> 1813
+    line [1808, 1810, 1811, 1812]
 ```
 
-2026-10-18 1,808 → 2026-10-23 1,811（+3）
+2026-10-18 1,808 → 2026-10-24 1,812（+4）
 
 
 ---

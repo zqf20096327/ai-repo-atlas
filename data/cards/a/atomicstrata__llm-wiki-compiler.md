@@ -1,6 +1,6 @@
 # atomicstrata/llm-wiki-compiler
 
-⭐ 2,211 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/atomicstrata/llm-wiki-compiler) · [官网](https://llmwiki.atomicstrata.ai) · 个人维护
+⭐ 2,214 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/atomicstrata/llm-wiki-compiler) · [官网](https://llmwiki.atomicstrata.ai) · 个人维护
 
 **将原始资料编译为带引用的互联 wiki 的知识编译器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atomicstrata/llm-wiki-compiler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2189 --> 2213
-    line [2191, 2201, 2211]
+    title "atomicstrata/llm-wiki-compiler 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2189 --> 2216
+    line [2191, 2201, 2211, 2214]
 ```
 
-2026-10-18 2,191 → 2026-10-23 2,211（+20）
+2026-10-18 2,191 → 2026-10-24 2,214（+23）
 
 
 ---

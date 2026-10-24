@@ -1,6 +1,6 @@
 # Sallyn0225/eidolon-sc
 
-⭐ 200 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Sallyn0225/eidolon-sc) · 个人维护 · 中文 README
+⭐ 221 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Sallyn0225/eidolon-sc) · 个人维护 · 中文 README
 
 **与《闪耀色彩》偶像实时语音/文字对话的 AI 分身应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sallyn0225/eidolon-sc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 0 --> 219
-    line [6, 106, 181, 200]
+    title "Sallyn0225/eidolon-sc 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 0 --> 242
+    line [6, 106, 181, 200, 221]
 ```
 
-2026-10-18 6 → 2026-10-23 200（+194）
+2026-10-18 6 → 2026-10-24 221（+215）
 
 
 ---

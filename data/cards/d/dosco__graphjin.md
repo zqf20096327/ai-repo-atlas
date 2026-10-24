@@ -1,6 +1,6 @@
 # dosco/graphjin
 
-⭐ 3,219 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/dosco/graphjin) · [官网](https://graphjin.com) · 个人维护
+⭐ 3,221 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/dosco/graphjin) · [官网](https://graphjin.com) · 个人维护
 
 **面向 AI agent 的统一受治数据图：GraphQL+MCP 接入数据库与代码**
 
@@ -45,13 +45,13 @@ Go 实现的编译器与运行时：把 PostgreSQL、MySQL、MongoDB、Snowflake
 
 ```mermaid
 xychart-beta
-    title "dosco/graphjin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 3212 --> 3220
-    line [3213, 3219]
+    title "dosco/graphjin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3212 --> 3222
+    line [3213, 3219, 3221]
 ```
 
-2026-10-18 3,213 → 2026-10-23 3,219（+6）
+2026-10-18 3,213 → 2026-10-24 3,221（+8）
 
 
 ---

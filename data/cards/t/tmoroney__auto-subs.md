@@ -1,6 +1,6 @@
 # tmoroney/auto-subs
 
-⭐ 4,424 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/tmoroney/auto-subs) · [官网](https://tom-moroney.com/auto-subs/) · 个人维护
+⭐ 4,436 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/tmoroney/auto-subs) · [官网](https://tom-moroney.com/auto-subs/) · 个人维护
 
 **本地离线语音转字幕工具，对接 Resolve/Premiere/AE**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tmoroney/auto-subs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4380 --> 4428
-    line [4384, 4401, 4413, 4424]
+    title "tmoroney/auto-subs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4379 --> 4441
+    line [4384, 4401, 4413, 4424, 4436]
 ```
 
-2026-10-18 4,384 → 2026-10-23 4,424（+40）
+2026-10-18 4,384 → 2026-10-24 4,436（+52）
 
 
 ---

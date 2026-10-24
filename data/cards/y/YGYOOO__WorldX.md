@@ -1,6 +1,6 @@
 # YGYOOO/WorldX
 
-⭐ 1,576 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/YGYOOO/WorldX) · 个人维护 · 中文 README
+⭐ 1,578 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/YGYOOO/WorldX) · 个人维护 · 中文 README
 
 **一句话生成 LLM 驱动的 AI 自主世界模拟应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YGYOOO/WorldX 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1567 --> 1577
-    line [1568, 1573, 1575, 1576]
+    title "YGYOOO/WorldX 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1567 --> 1579
+    line [1568, 1573, 1575, 1576, 1578]
 ```
 
-2026-10-18 1,568 → 2026-10-23 1,576（+8）
+2026-10-18 1,568 → 2026-10-24 1,578（+10）
 
 
 ---

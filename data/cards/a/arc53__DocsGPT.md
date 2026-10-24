@@ -1,6 +1,6 @@
 # arc53/DocsGPT
 
-⭐ 18,333 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/arc53/DocsGPT) · [官网](https://app.docsgpt.cloud/) · 组织维护
+⭐ 18,334 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/arc53/DocsGPT) · [官网](https://app.docsgpt.cloud/) · 组织维护
 
 **面向企业与开发者的自托管文档问答与 AI Agent 平台**
 
@@ -53,13 +53,13 @@ DocsGPT 将文档、网站与已连接的应用转为可引用出处的 AI Agent
 
 ```mermaid
 xychart-beta
-    title "arc53/DocsGPT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 18321 --> 18334
-    line [18322, 18324, 18331, 18333]
+    title "arc53/DocsGPT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 18321 --> 18335
+    line [18322, 18324, 18331, 18333, 18334]
 ```
 
-2026-10-18 18,322 → 2026-10-23 18,333（+11）
+2026-10-18 18,322 → 2026-10-24 18,334（+12）
 
 
 ---

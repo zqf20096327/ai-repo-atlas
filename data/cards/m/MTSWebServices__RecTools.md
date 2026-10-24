@@ -1,6 +1,6 @@
 # MTSWebServices/RecTools
 
-⭐ 458 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/MTSWebServices/RecTools) · 组织维护
+⭐ 459 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/MTSWebServices/RecTools) · 组织维护
 
 **Python 推荐系统构建库：统一接口提供多种推荐模型**
 
@@ -45,12 +45,12 @@ RecTools 是用于构建推荐系统的 Python 库，面向推荐系统开发与
 ```mermaid
 xychart-beta
     title "MTSWebServices/RecTools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 457 --> 460
-    line [458, 459, 458, 458]
+    line [458, 459, 458, 459]
 ```
 
-2026-10-18 458 → 2026-10-23 458（+0）
+2026-10-18 458 → 2026-10-24 459（+1）
 
 
 ---

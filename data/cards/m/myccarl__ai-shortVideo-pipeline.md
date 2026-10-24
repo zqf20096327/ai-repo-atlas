@@ -1,6 +1,6 @@
 # myccarl/ai-shortVideo-pipeline
 
-⭐ 740 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/myccarl/ai-shortVideo-pipeline) · 个人维护 · 中文 README
+⭐ 743 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/myccarl/ai-shortVideo-pipeline) · 个人维护 · 中文 README
 
 **全自动中文短视频生产流水线：一句话输入到成片发布**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "myccarl/ai-shortVideo-pipeline 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "myccarl/ai-shortVideo-pipeline 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 738 --> 765
-    line [746, 754, 763, 740]
+    line [746, 754, 763, 740, 743]
 ```
 
-2026-10-18 746 → 2026-10-23 740（-6）
+2026-10-18 746 → 2026-10-24 743（-3）
 
 
 ---

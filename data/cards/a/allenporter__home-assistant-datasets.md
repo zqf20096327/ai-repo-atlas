@@ -1,6 +1,6 @@
 # allenporter/home-assistant-datasets
 
-⭐ 261 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/allenporter/home-assistant-datasets) · [官网](https://allenporter.github.io/home-assistant-datasets) · 个人维护
+⭐ 261 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/allenporter/home-assistant-datasets) · [官网](https://allenporter.github.io/home-assistant-datasets) · 个人维护
 
 **面向 Home Assistant 的 AI 模型评测数据集集合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "allenporter/home-assistant-datasets 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "allenporter/home-assistant-datasets 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 257 --> 262
-    line [258, 259, 261]
+    line [258, 259, 261, 261]
 ```
 
-2026-10-18 258 → 2026-10-23 261（+3）
+2026-10-18 258 → 2026-10-24 261（+3）
 
 
 ---

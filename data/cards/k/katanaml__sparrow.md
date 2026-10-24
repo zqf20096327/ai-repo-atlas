@@ -1,6 +1,6 @@
 # katanaml/sparrow
 
-⭐ 5,226 · Python · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/katanaml/sparrow) · [官网](https://sparrow.katanaml.io) · 组织维护
+⭐ 5,227 · Python · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/katanaml/sparrow) · [官网](https://sparrow.katanaml.io) · 组织维护
 
 **面向企业的文档结构化数据提取与 agent 工作流 API 平台**
 
@@ -46,13 +46,13 @@ API-first 的企业文档智能平台：通过 REST API 对发票、银行对账
 
 ```mermaid
 xychart-beta
-    title "katanaml/sparrow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "katanaml/sparrow 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 5224 --> 5228
-    line [5227, 5225, 5226]
+    line [5227, 5225, 5226, 5227]
 ```
 
-2026-10-18 5,227 → 2026-10-23 5,226（-1）
+2026-10-18 5,227 → 2026-10-24 5,227（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ASCIT31/Dark-Moon
 
-⭐ 1,132 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ASCIT31/Dark-Moon) · [官网](https://dark-moon.org/) · 组织维护
+⭐ 1,136 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ASCIT31/Dark-Moon) · [官网](https://dark-moon.org/) · 组织维护
 
 **自主 AI 渗透测试平台：50 个专家代理自动发现并验证漏洞**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ASCIT31/Dark-Moon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1022 --> 1142
-    line [1032, 1100, 1122, 1132]
+    title "ASCIT31/Dark-Moon 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1022 --> 1146
+    line [1032, 1100, 1122, 1132, 1136]
 ```
 
-2026-10-18 1,032 → 2026-10-23 1,132（+100）
+2026-10-18 1,032 → 2026-10-24 1,136（+104）
 
 
 ---

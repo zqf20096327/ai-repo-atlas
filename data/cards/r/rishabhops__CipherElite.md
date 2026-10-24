@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rishabhops/CipherElite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "rishabhops/CipherElite 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 284 --> 289
-    line [285, 288]
+    line [285, 288, 288]
 ```
 
-2026-10-18 285 → 2026-10-23 288（+3）
+2026-10-18 285 → 2026-10-24 288（+3）
 
 
 ---

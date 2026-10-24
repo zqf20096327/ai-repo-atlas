@@ -1,6 +1,6 @@
 # ovg-project/kvcached
 
-⭐ 1,903 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ovg-project/kvcached) · 组织维护
+⭐ 1,928 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ovg-project/kvcached) · 组织维护
 
 **共享 GPU 上 LLM 服务的弹性 KV 缓存内存管理库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ovg-project/kvcached 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1757 --> 1928
-    line [1771, 1846, 1914, 1903]
+    title "ovg-project/kvcached 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1756 --> 1943
+    line [1771, 1846, 1914, 1903, 1928]
 ```
 
-2026-10-18 1,771 → 2026-10-23 1,903（+132）
+2026-10-18 1,771 → 2026-10-24 1,928（+157）
 
 
 ---

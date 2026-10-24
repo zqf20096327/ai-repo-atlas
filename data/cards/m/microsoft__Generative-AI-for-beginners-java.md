@@ -1,6 +1,6 @@
 # microsoft/Generative-AI-for-beginners-java
 
-⭐ 570 · Java · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-java) · 组织维护
+⭐ 573 · Java · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-java) · 组织维护
 
 **面向 Java 开发者的生成式 AI 入门课程（5 章，微软维护）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Generative-AI-for-beginners-java 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 566 --> 571
-    line [567, 570, 570]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 566 --> 574
+    line [567, 570, 573]
 ```
 
-2026-10-18 567 → 2026-10-23 570（+3）
+2026-10-18 567 → 2026-10-24 573（+6）
 
 
 ---

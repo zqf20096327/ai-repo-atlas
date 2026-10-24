@@ -1,6 +1,6 @@
 # git-ai-project/git-ai
 
-⭐ 2,881 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/git-ai-project/git-ai) · [官网](https://usegitai.com) · 个人维护
+⭐ 2,884 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/git-ai-project/git-ai) · [官网](https://usegitai.com) · 个人维护
 
 **Git 扩展：追踪并归因仓库中 AI 生成的每一行代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "git-ai-project/git-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2842 --> 2884
-    line [2845, 2861, 2877, 2881]
+    title "git-ai-project/git-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2842 --> 2887
+    line [2845, 2861, 2877, 2881, 2884]
 ```
 
-2026-10-18 2,845 → 2026-10-23 2,881（+36）
+2026-10-18 2,845 → 2026-10-24 2,884（+39）
 
 
 ---

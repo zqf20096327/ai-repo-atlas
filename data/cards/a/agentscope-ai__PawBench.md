@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai/PawBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "agentscope-ai/PawBench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 117 --> 122
-    line [118, 121]
+    line [118, 121, 121]
 ```
 
-2026-10-18 118 → 2026-10-23 121（+3）
+2026-10-18 118 → 2026-10-24 121（+3）
 
 
 ---

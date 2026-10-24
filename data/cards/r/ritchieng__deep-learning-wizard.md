@@ -1,6 +1,6 @@
 # ritchieng/deep-learning-wizard
 
-⭐ 878 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/ritchieng/deep-learning-wizard) · [官网](https://www.deeplearningwizard.com/) · 个人维护
+⭐ 879 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/ritchieng/deep-learning-wizard) · [官网](https://www.deeplearningwizard.com/) · 个人维护
 
 **深度学习教程仓库：PyTorch/RAG/HPC 容器等课程笔记与代码**
 
@@ -45,12 +45,12 @@ Deep Learning Wizard 网站的开源教程材料仓库，收录 notebooks 与 mk
 ```mermaid
 xychart-beta
     title "ritchieng/deep-learning-wizard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 877 --> 879
-    line [878, 878]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 877 --> 880
+    line [878, 879]
 ```
 
-2026-10-18 878 → 2026-10-23 878（+0）
+2026-10-18 878 → 2026-10-24 879（+1）
 
 
 ---

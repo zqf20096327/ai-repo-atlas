@@ -44,13 +44,13 @@ Python RAG 框架，管道覆盖文档处理（docling+chonkie）、向量索引
 
 ```mermaid
 xychart-beta
-    title "KRLabsOrg/verbatim-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "KRLabsOrg/verbatim-rag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 205 --> 208
-    line [206, 207]
+    line [206, 207, 207]
 ```
 
-2026-10-18 206 → 2026-10-23 207（+1）
+2026-10-18 206 → 2026-10-24 207（+1）
 
 
 ---

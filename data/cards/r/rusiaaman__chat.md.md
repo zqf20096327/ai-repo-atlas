@@ -44,12 +44,12 @@ chat.md 是一个 Visual Studio Code 扩展，将 AI 对话以 .chat.md 纯文�
 ```mermaid
 xychart-beta
     title "rusiaaman/chat.md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 158 --> 160
     line [159, 159]
 ```
 
-2026-10-18 159 → 2026-10-23 159（+0）
+2026-10-18 159 → 2026-10-24 159（+0）
 
 
 ---

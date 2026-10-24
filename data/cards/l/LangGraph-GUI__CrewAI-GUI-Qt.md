@@ -1,6 +1,6 @@
 # LangGraph-GUI/CrewAI-GUI-Qt
 
-⭐ 210 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/LangGraph-GUI/CrewAI-GUI-Qt) · [官网](https://langgraph-gui.github.io/CrewAI-GUI-Qt/) · 组织维护
+⭐ 209 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/LangGraph-GUI/CrewAI-GUI-Qt) · [官网](https://langgraph-gui.github.io/CrewAI-GUI-Qt/) · 组织维护
 
 **CrewAI 的节点式图形前端：拖拽设计 AI 工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LangGraph-GUI/CrewAI-GUI-Qt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 209 --> 211
-    line [210, 210]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 208 --> 211
+    line [210, 209]
 ```
 
-2026-10-18 210 → 2026-10-23 210（+0）
+2026-10-18 210 → 2026-10-24 209（-1）
 
 
 ---

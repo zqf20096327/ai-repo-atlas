@@ -1,6 +1,6 @@
 # magnitudedev/browser-agent
 
-⭐ 4,133 · TypeScript · Apache-2.0 · 推送 2026-02-08 · [GitHub](https://github.com/magnitudedev/browser-agent) · [官网](https://magnitude.run) · 组织维护
+⭐ 4,134 · TypeScript · Apache-2.0 · 推送 2026-02-08 · [GitHub](https://github.com/magnitudedev/browser-agent) · [官网](https://magnitude.run) · 组织维护
 
 **视觉优先的开源浏览器自动化 agent 框架**
 
@@ -46,13 +46,13 @@ Magnitude 是一个 vision-first 的浏览器 agent 框架：由视觉接地 LLM
 
 ```mermaid
 xychart-beta
-    title "magnitudedev/browser-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "magnitudedev/browser-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 4132 --> 4136
-    line [4135, 4134, 4133]
+    line [4135, 4134, 4133, 4134]
 ```
 
-2026-10-18 4,135 → 2026-10-23 4,133（-2）
+2026-10-18 4,135 → 2026-10-24 4,134（-1）
 
 
 ---

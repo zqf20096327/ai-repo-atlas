@@ -1,6 +1,6 @@
 # Junchao-cs/SolarWM
 
-⭐ 781 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Junchao-cs/SolarWM) · [官网](https://junchao-cs.github.io/SolarWM-Web/) · 组织维护
+⭐ 788 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Junchao-cs/SolarWM) · [官网](https://junchao-cs.github.io/SolarWM-Web/) · 组织维护
 
 **长时程交互视频世界模型的开源数据与训练框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Junchao-cs/SolarWM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "Junchao-cs/SolarWM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 776 --> 789
-    line [777, 779, 788, 781]
+    line [777, 779, 788, 781, 788]
 ```
 
-2026-10-18 777 → 2026-10-23 781（+4）
+2026-10-18 777 → 2026-10-24 788（+11）
 
 
 ---

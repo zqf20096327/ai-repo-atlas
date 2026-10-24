@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "erfnzdeh/Divar-AI-Contest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "erfnzdeh/Divar-AI-Contest 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 142 --> 147
-    line [143, 146]
+    line [143, 146, 146]
 ```
 
-2026-10-18 143 → 2026-10-23 146（+3）
+2026-10-18 143 → 2026-10-24 146（+3）
 
 
 ---

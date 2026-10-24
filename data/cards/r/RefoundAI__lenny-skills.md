@@ -1,6 +1,6 @@
 # RefoundAI/lenny-skills
 
-⭐ 1,434 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/RefoundAI/lenny-skills) · 组织维护
+⭐ 1,436 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/RefoundAI/lenny-skills) · 组织维护
 
 **Lenny's Podcast 提炼的 76 个产品管理技能包，供 Claude Code 等 AI agent 使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RefoundAI/lenny-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1425 --> 1435
-    line [1426, 1431, 1434]
+    title "RefoundAI/lenny-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1425 --> 1437
+    line [1426, 1431, 1434, 1436]
 ```
 
-2026-10-18 1,426 → 2026-10-23 1,434（+8）
+2026-10-18 1,426 → 2026-10-24 1,436（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # onlook-dev/onlook
 
-⭐ 26,976 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/onlook-dev/onlook) · [官网](https://onlook.com) · 组织维护 · 中文 README
+⭐ 26,993 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/onlook-dev/onlook) · [官网](https://onlook.com) · 组织维护 · 中文 README
 
 **给设计/前端工程师的开源可视化 AI 代码编辑器**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "onlook-dev/onlook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 26929 --> 26980
-    line [26933, 26956, 26971, 26976]
+    title "onlook-dev/onlook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 26927 --> 26999
+    line [26933, 26956, 26971, 26976, 26993]
 ```
 
-2026-10-18 26,933 → 2026-10-23 26,976（+43）
+2026-10-18 26,933 → 2026-10-24 26,993（+60）
 
 
 ---

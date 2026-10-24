@@ -1,6 +1,6 @@
 # Liu-Ming-Yu/alpha-forge
 
-⭐ 179 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/Liu-Ming-Yu/alpha-forge) · 个人维护 · 中文 README
+⭐ 180 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/Liu-Ming-Yu/alpha-forge) · 个人维护 · 中文 README
 
 **面向量化交易者的 Agentic AI 系统化交易操作系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Liu-Ming-Yu/alpha-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 178 --> 181
+    line [179, 180]
 ```
 
-2026-10-18 179 → 2026-10-23 179（+0）
+2026-10-18 179 → 2026-10-24 180（+1）
 
 
 ---

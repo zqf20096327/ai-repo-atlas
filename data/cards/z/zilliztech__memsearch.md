@@ -1,6 +1,6 @@
 # zilliztech/memsearch
 
-⭐ 2,775 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zilliztech/memsearch) · [官网](https://zilliztech.github.io/memsearch/) · 组织维护 · 中文 README
+⭐ 2,782 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zilliztech/memsearch) · [官网](https://zilliztech.github.io/memsearch/) · 组织维护 · 中文 README
 
 **跨 AI 编程 agent 的持久统一记忆层（Markdown+Milvus）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zilliztech/memsearch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2755 --> 2776
-    line [2756, 2762, 2768, 2775]
+    title "zilliztech/memsearch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2754 --> 2784
+    line [2756, 2762, 2768, 2775, 2782]
 ```
 
-2026-10-18 2,756 → 2026-10-23 2,775（+19）
+2026-10-18 2,756 → 2026-10-24 2,782（+26）
 
 
 ---

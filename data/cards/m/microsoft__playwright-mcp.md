@@ -1,6 +1,6 @@
 # microsoft/playwright-mcp
 
-⭐ 38,510 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/playwright-mcp) · [官网](https://www.npmjs.com/package/@playwright/mcp) · 组织维护
+⭐ 38,550 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/playwright-mcp) · [官网](https://www.npmjs.com/package/@playwright/mcp) · 组织维护
 
 **给 LLM 提供浏览器自动化能力的 MCP 服务器**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/playwright-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 38255 --> 38533
-    line [38278, 38377, 38462, 38510]
+    title "microsoft/playwright-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 38251 --> 38577
+    line [38278, 38377, 38462, 38510, 38550]
 ```
 
-2026-10-18 38,278 → 2026-10-23 38,510（+232）
+2026-10-18 38,278 → 2026-10-24 38,550（+272）
 
 
 ---

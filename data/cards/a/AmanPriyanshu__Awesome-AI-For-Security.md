@@ -1,6 +1,6 @@
 # AmanPriyanshu/Awesome-AI-For-Security
 
-⭐ 152 · CC0-1.0 · 推送 2026-10-05 · [GitHub](https://github.com/AmanPriyanshu/Awesome-AI-For-Security) · [官网](https://amanpriyanshu.github.io/Awesome-AI-For-Security/) · 个人维护
+⭐ 153 · CC0-1.0 · 推送 2026-10-05 · [GitHub](https://github.com/AmanPriyanshu/Awesome-AI-For-Security) · [官网](https://amanpriyanshu.github.io/Awesome-AI-For-Security/) · 个人维护
 
 **AI 应用于网络安全的工具/论文/数据集策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AmanPriyanshu/Awesome-AI-For-Security 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 150 --> 153
-    line [151, 152, 152]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 150 --> 154
+    line [151, 152, 153]
 ```
 
-2026-10-18 151 → 2026-10-23 152（+1）
+2026-10-18 151 → 2026-10-24 153（+2）
 
 
 ---

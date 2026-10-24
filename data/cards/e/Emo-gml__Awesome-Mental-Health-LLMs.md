@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Emo-gml/Awesome-Mental-Health-LLMs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Emo-gml/Awesome-Mental-Health-LLMs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 139 --> 143
-    line [140, 142]
+    line [140, 142, 142]
 ```
 
-2026-10-18 140 → 2026-10-23 142（+2）
+2026-10-18 140 → 2026-10-24 142（+2）
 
 
 ---

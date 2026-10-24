@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HurricaHjz/SecondSelf 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-23"]
+    title "HurricaHjz/SecondSelf 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 146 --> 157
-    line [156, 147]
+    line [156, 147, 147]
 ```
 
-2026-10-19 156 → 2026-10-23 147（-9）
+2026-10-19 156 → 2026-10-24 147（-9）
 
 
 ---

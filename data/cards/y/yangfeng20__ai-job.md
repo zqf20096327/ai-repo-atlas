@@ -1,6 +1,6 @@
 # yangfeng20/ai-job
 
-⭐ 710 · Java · MIT · 推送 2026-08-18 · [GitHub](https://github.com/yangfeng20/ai-job) · 个人维护 · 中文 README
+⭐ 709 · Java · MIT · 推送 2026-08-18 · [GitHub](https://github.com/yangfeng20/ai-job) · 个人维护 · 中文 README
 
 **面向 BOSS 直聘求职者的 AI 自动投递与智能回复油猴脚本+后端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yangfeng20/ai-job 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "yangfeng20/ai-job 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 704 --> 711
-    line [705, 706, 709, 710]
+    line [705, 706, 709, 710, 709]
 ```
 
-2026-10-18 705 → 2026-10-23 710（+5）
+2026-10-18 705 → 2026-10-24 709（+4）
 
 
 ---

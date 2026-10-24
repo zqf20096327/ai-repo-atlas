@@ -1,6 +1,6 @@
 # yuhp/opencode-models-discovery
 
-⭐ 190 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yuhp/opencode-models-discovery) · 个人维护
+⭐ 191 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yuhp/opencode-models-discovery) · 个人维护
 
 **OpenCode 插件：从 OpenAI 兼容端点动态发现并注入模型配置**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuhp/opencode-models-discovery 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 184 --> 191
-    line [185, 187, 189, 190]
+    title "yuhp/opencode-models-discovery 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 184 --> 192
+    line [185, 187, 189, 190, 191]
 ```
 
-2026-10-18 185 → 2026-10-23 190（+5）
+2026-10-18 185 → 2026-10-24 191（+6）
 
 
 ---

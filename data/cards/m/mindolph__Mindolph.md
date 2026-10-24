@@ -1,6 +1,6 @@
 # mindolph/Mindolph
 
-⭐ 202 · Java · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/mindolph/Mindolph) · 个人维护 · 中文 README
+⭐ 201 · Java · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/mindolph/Mindolph) · 个人维护 · 中文 README
 
 **跨桌面平台的个人知识管理软件，支持思维导图等格式编辑与 Gen-AI 生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mindolph/Mindolph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 201 --> 203
-    line [202, 202]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 200 --> 203
+    line [202, 201]
 ```
 
-2026-10-18 202 → 2026-10-23 202（+0）
+2026-10-18 202 → 2026-10-24 201（-1）
 
 
 ---

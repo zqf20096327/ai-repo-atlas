@@ -1,6 +1,6 @@
 # stepfun-ai/Step-Audio-EditX
 
-⭐ 990 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/stepfun-ai/Step-Audio-EditX) · 组织维护 · 中文 README
+⭐ 991 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/stepfun-ai/Step-Audio-EditX) · 组织维护 · 中文 README
 
 **3B 音频编辑模型：按标签编辑语音情感、风格与副语言**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stepfun-ai/Step-Audio-EditX 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 984 --> 991
-    line [985, 986, 988, 990]
+    title "stepfun-ai/Step-Audio-EditX 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 984 --> 992
+    line [985, 986, 988, 990, 991]
 ```
 
-2026-10-18 985 → 2026-10-23 990（+5）
+2026-10-18 985 → 2026-10-24 991（+6）
 
 
 ---

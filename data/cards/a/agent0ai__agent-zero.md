@@ -1,6 +1,6 @@
 # agent0ai/agent-zero
 
-⭐ 19,543 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/agent0ai/agent-zero) · [官网](https://agent-zero.ai) · 组织维护
+⭐ 19,551 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/agent0ai/agent-zero) · [官网](https://agent-zero.ai) · 组织维护
 
 **给 agent 一个完整 Dockerized Linux 环境的开源框架**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "agent0ai/agent-zero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 19492 --> 19547
-    line [19496, 19514, 19531, 19543]
+    title "agent0ai/agent-zero 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 19491 --> 19556
+    line [19496, 19514, 19531, 19543, 19551]
 ```
 
-2026-10-18 19,496 → 2026-10-23 19,543（+47）
+2026-10-18 19,496 → 2026-10-24 19,551（+55）
 
 
 ---

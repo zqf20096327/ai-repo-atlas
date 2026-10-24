@@ -1,6 +1,6 @@
 # AsyncFuncAI/deepwiki-open
 
-⭐ 18,260 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/AsyncFuncAI/deepwiki-open) · [官网](https://grok-wiki.com/) · 组织维护 · 中文 README
+⭐ 18,267 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AsyncFuncAI/deepwiki-open) · [官网](https://grok-wiki.com/) · 组织维护 · 中文 README
 
 **为 GitHub/GitLab/Bitbucket 仓库自动生成 AI Wiki 的工具**
 
@@ -48,13 +48,13 @@
 
 ```mermaid
 xychart-beta
-    title "AsyncFuncAI/deepwiki-open 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 18211 --> 18264
-    line [18215, 18226, 18247, 18260]
+    title "AsyncFuncAI/deepwiki-open 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 18210 --> 18272
+    line [18215, 18226, 18247, 18260, 18267]
 ```
 
-2026-10-18 18,215 → 2026-10-23 18,260（+45）
+2026-10-18 18,215 → 2026-10-24 18,267（+52）
 
 
 ---

@@ -1,6 +1,6 @@
 # rynfar/meridian
 
-⭐ 2,152 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/rynfar/meridian) · [官网](https://www.npmjs.com/package/@rynfar/meridian) · 个人维护
+⭐ 2,154 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/rynfar/meridian) · [官网](https://www.npmjs.com/package/@rynfar/meridian) · 个人维护
 
 **让编码客户端经订阅使用 Claude/Antigravity 的本地 API 桥**
 
@@ -45,13 +45,13 @@ Meridian 将 Pi、OpenCode 等编码客户端连接到 Claude 与 Antigravity �
 
 ```mermaid
 xychart-beta
-    title "rynfar/meridian 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2122 --> 2154
-    line [2124, 2135, 2152]
+    title "rynfar/meridian 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2121 --> 2157
+    line [2124, 2135, 2152, 2154]
 ```
 
-2026-10-18 2,124 → 2026-10-23 2,152（+28）
+2026-10-18 2,124 → 2026-10-24 2,154（+30）
 
 
 ---

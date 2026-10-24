@@ -1,6 +1,6 @@
 # fufankeji/deepseek-harness-studio
 
-⭐ 692 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/fufankeji/deepseek-harness-studio) · [官网](https://www.beyondata.com/) · 组织维护 · 中文 README
+⭐ 694 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/fufankeji/deepseek-harness-studio) · [官网](https://www.beyondata.com/) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的零代码 Electron 桌面客户端，含插件/Preset/应用市场**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fufankeji/deepseek-harness-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 683 --> 693
-    line [684, 689, 692, 692]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 683 --> 695
+    line [684, 689, 692, 694]
 ```
 
-2026-10-18 684 → 2026-10-23 692（+8）
+2026-10-18 684 → 2026-10-24 694（+10）
 
 
 ---

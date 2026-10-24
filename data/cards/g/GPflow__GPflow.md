@@ -1,6 +1,6 @@
 # GPflow/GPflow
 
-⭐ 1,920 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/GPflow/GPflow) · 组织维护
+⭐ 1,921 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/GPflow/GPflow) · 组织维护
 
 **基于 TensorFlow 的高斯过程建模 Python 库**
 
@@ -45,12 +45,12 @@ GPflow 是用 Python 构建高斯过程模型的库，实现可组合核与似�
 ```mermaid
 xychart-beta
     title "GPflow/GPflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1919 --> 1922
-    line [1921, 1920, 1920]
+    line [1921, 1920, 1921]
 ```
 
-2026-10-18 1,921 → 2026-10-23 1,920（-1）
+2026-10-18 1,921 → 2026-10-24 1,921（+0）
 
 
 ---

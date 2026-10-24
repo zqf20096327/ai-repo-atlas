@@ -46,12 +46,12 @@ Trinity-RFT 是一个 LLM 强化微调（RFT）框架，将 RFT 解耦为 Explor
 ```mermaid
 xychart-beta
     title "agentscope-ai/Trinity-RFT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 709 --> 711
     line [710, 710]
 ```
 
-2026-10-18 710 → 2026-10-23 710（+0）
+2026-10-18 710 → 2026-10-24 710（+0）
 
 
 ---

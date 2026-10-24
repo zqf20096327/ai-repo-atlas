@@ -1,6 +1,6 @@
 # WZMIAOMIAO/deep-learning-for-image-processing
 
-⭐ 26,424 · Python · GPL-3.0 · 推送 2026-01-01 · [GitHub](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) · 个人维护 · 中文 README
+⭐ 26,427 · Python · GPL-3.0 · 推送 2026-01-01 · [GitHub](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) · 个人维护 · 中文 README
 
 **图像处理深度学习入门教程：讲解与代码实现经典网络**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "WZMIAOMIAO/deep-learning-for-image-processing 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 26413 --> 26426
-    line [26414, 26418, 26425, 26424]
+    title "WZMIAOMIAO/deep-learning-for-image-processing 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 26413 --> 26428
+    line [26414, 26418, 26425, 26424, 26427]
 ```
 
-2026-10-18 26,414 → 2026-10-23 26,424（+10）
+2026-10-18 26,414 → 2026-10-24 26,427（+13）
 
 
 ---

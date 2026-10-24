@@ -1,6 +1,6 @@
 # kitops-ml/kitops
 
-⭐ 1,433 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kitops-ml/kitops) · [官网](https://KitOps.org) · 组织维护
+⭐ 1,434 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kitops-ml/kitops) · [官网](https://KitOps.org) · 组织维护
 
 **把模型/数据集/代码/配置打包为 OCI 制品的 AI/ML 版本管理工具**
 
@@ -45,12 +45,12 @@ CNCF 治理的开源 DevOps 工具，将 AI/ML 项目的模型权重、数据集
 ```mermaid
 xychart-beta
     title "kitops-ml/kitops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1429 --> 1434
-    line [1430, 1433, 1433]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1429 --> 1435
+    line [1430, 1433, 1434]
 ```
 
-2026-10-18 1,430 → 2026-10-23 1,433（+3）
+2026-10-18 1,430 → 2026-10-24 1,434（+4）
 
 
 ---

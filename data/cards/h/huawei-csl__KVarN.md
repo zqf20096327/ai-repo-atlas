@@ -1,6 +1,6 @@
 # huawei-csl/KVarN
 
-⭐ 511 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/huawei-csl/KVarN) · [官网](https://arxiv.org/abs/2606.03458) · 组织维护
+⭐ 512 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/huawei-csl/KVarN) · [官网](https://arxiv.org/abs/2606.03458) · 组织维护
 
 **vLLM 原生 KV-cache 量化后端：免校准提升上下文容量**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huawei-csl/KVarN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 509 --> 512
-    line [510, 511]
+    title "huawei-csl/KVarN 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 509 --> 513
+    line [510, 511, 512]
 ```
 
-2026-10-18 510 → 2026-10-23 511（+1）
+2026-10-18 510 → 2026-10-24 512（+2）
 
 
 ---

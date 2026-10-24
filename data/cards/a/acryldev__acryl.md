@@ -1,6 +1,6 @@
 # acryldev/acryl
 
-⭐ 259 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/acryldev/acryl) · [官网](https://acryl.dev) · 组织维护
+⭐ 286 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/acryldev/acryl) · [官网](https://acryl.dev) · 组织维护
 
 **多编码 Agent 共用持久上下文的 Agentic 开发环境运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "acryldev/acryl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 256 --> 260
-    line [257, 259, 259]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 255 --> 288
+    line [257, 259, 286]
 ```
 
-2026-10-18 257 → 2026-10-23 259（+2）
+2026-10-18 257 → 2026-10-24 286（+29）
 
 
 ---

@@ -1,6 +1,6 @@
 # catboost/catboost
 
-⭐ 9,161 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/catboost/catboost) · [官网](https://catboost.ai) · 组织维护
+⭐ 9,164 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/catboost/catboost) · [官网](https://catboost.ai) · 组织维护
 
 **梯度提升决策树机器学习库，用于分类/回归/排序**
 
@@ -44,13 +44,13 @@ CatBoost 是基于决策树梯度提升的机器学习库，提供 Python、R、
 
 ```mermaid
 xychart-beta
-    title "catboost/catboost 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 9144 --> 9162
-    line [9145, 9151, 9156, 9161]
+    title "catboost/catboost 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9144 --> 9165
+    line [9145, 9151, 9156, 9161, 9164]
 ```
 
-2026-10-18 9,145 → 2026-10-23 9,161（+16）
+2026-10-18 9,145 → 2026-10-24 9,164（+19）
 
 
 ---

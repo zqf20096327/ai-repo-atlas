@@ -1,6 +1,6 @@
 # robbyzhaox/myocr
 
-⭐ 290 · Python · Apache-2.0 · 推送 2025-10-27 · [GitHub](https://github.com/robbyzhaox/myocr) · [官网](https://robbyzhaox.github.io/myocr/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **构建 OCR 系统的可扩展 Python 框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |

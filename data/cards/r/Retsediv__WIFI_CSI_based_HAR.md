@@ -45,13 +45,13 @@ Ukrainian Catholic University 学位论文及配套论文的源码仓库，实�
 
 ```mermaid
 xychart-beta
-    title "Retsediv/WIFI_CSI_based_HAR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Retsediv/WIFI_CSI_based_HAR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 212 --> 215
-    line [213, 214]
+    line [213, 214, 214]
 ```
 
-2026-10-18 213 → 2026-10-23 214（+1）
+2026-10-18 213 → 2026-10-24 214（+1）
 
 
 ---

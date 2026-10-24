@@ -1,6 +1,6 @@
 # MystenLabs/walrus-memory
 
-⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/MystenLabs/walrus-memory) · [官网](https://walrus.xyz/memory) · 组织维护
+⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/MystenLabs/walrus-memory) · [官网](https://walrus.xyz/memory) · 组织维护
 
 **可移植的 AI agent 长期记忆层，跨应用跨会话持久化**
 
@@ -39,6 +39,18 @@
 
 > L5: Walrus Memory enables AI agents to operate reliably across apps and sessions,
 > L82: |`@mysten-incubation/memwal`|Default client (`MemWal`). The relayer handles embedding, encryption, Walrus upload/do
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MystenLabs/walrus-memory 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 123 --> 125
+    line [124, 124]
+```
+
+2026-10-23 124 → 2026-10-24 124（+0）
 
 
 ---

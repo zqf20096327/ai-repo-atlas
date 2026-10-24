@@ -1,6 +1,6 @@
 # NirDiamant/agents-towards-production
 
-⭐ 21,747 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/NirDiamant/agents-towards-production) · [官网](https://diamant-ai.com) · 个人维护
+⭐ 21,752 · Jupyter Notebook · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NirDiamant/agents-towards-production) · [官网](https://diamant-ai.com) · 个人维护
 
 **面向开发者的生产级 GenAI Agent 教程合集**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "NirDiamant/agents-towards-production 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 21721 --> 21749
-    line [21723, 21730, 21739, 21747]
+    title "NirDiamant/agents-towards-production 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 21721 --> 21754
+    line [21723, 21730, 21739, 21747, 21752]
 ```
 
-2026-10-18 21,723 → 2026-10-23 21,747（+24）
+2026-10-18 21,723 → 2026-10-24 21,752（+29）
 
 
 ---

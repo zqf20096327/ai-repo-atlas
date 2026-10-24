@@ -1,6 +1,6 @@
 # excalimate/excalimate
 
-⭐ 95 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/excalimate/excalimate) · [官网](https://excalimate.com) · 组织维护
+⭐ 96 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/excalimate/excalimate) · [官网](https://excalimate.com) · 组织维护
 
 **把 Excalidraw 手绘图变成关键帧动画的 Web 编辑器，附 MCP 服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "excalimate/excalimate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 91 --> 96
-    line [92, 95, 95]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 91 --> 97
+    line [92, 95, 96]
 ```
 
-2026-10-18 92 → 2026-10-23 95（+3）
+2026-10-18 92 → 2026-10-24 96（+4）
 
 
 ---

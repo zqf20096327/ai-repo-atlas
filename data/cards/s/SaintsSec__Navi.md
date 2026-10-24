@@ -40,6 +40,18 @@ Python 编写的 CLI 工具，为网络安全从业者提供 AI 对话界面。�
 > L12: - **Navi3b** - The first iteration of our local AI system. Currently running WhiteRabbitNeo with ollama in the back
 > L18: - **Navi RAG** - We implimented a RAG System into Navi that will be take data from PDF's and allow the model to use
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SaintsSec/Navi 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 95 --> 97
+    line [96, 96]
+```
+
+2026-10-23 96 → 2026-10-24 96（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `9005538ba3f5` · [字段定义](../../DATASET.md)*

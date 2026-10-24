@@ -1,6 +1,6 @@
 # browser-use/browser-use
 
-⭐ 118,870 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/browser-use/browser-use) · [官网](https://browser-use.com) · 组织维护
+⭐ 118,966 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/browser-use/browser-use) · [官网](https://browser-use.com) · 组织维护
 
 **面向 AI agent 的开源浏览器自动化 Python 库**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "browser-use/browser-use 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 118258 --> 118925
-    line [118313, 118526, 118870]
+    title "browser-use/browser-use 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 118248 --> 119031
+    line [118313, 118526, 118870, 118966]
 ```
 
-2026-10-18 118,313 → 2026-10-23 118,870（+557）
+2026-10-18 118,313 → 2026-10-24 118,966（+653）
 
 
 ---

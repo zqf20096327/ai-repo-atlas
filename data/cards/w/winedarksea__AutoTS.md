@@ -1,6 +1,6 @@
 # winedarksea/AutoTS
 
-⭐ 1,433 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/winedarksea/AutoTS) · 个人维护
+⭐ 1,434 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/winedarksea/AutoTS) · 个人维护
 
 **面向 Python 的自动化时间序列预测库，AutoML 搜索最优模型**
 
@@ -46,12 +46,12 @@ Python 时间序列预测包，提供数十个 sklearn 风格（.fit()/.predict(
 ```mermaid
 xychart-beta
     title "winedarksea/AutoTS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1430 --> 1434
-    line [1431, 1432, 1433, 1433]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1430 --> 1435
+    line [1431, 1432, 1433, 1434]
 ```
 
-2026-10-18 1,431 → 2026-10-23 1,433（+2）
+2026-10-18 1,431 → 2026-10-24 1,434（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # invariantlabs-ai/invariant
 
-⭐ 472 · Python · Apache-2.0 · 推送 2026-01-12 · [GitHub](https://github.com/invariantlabs-ai/invariant) · [官网](https://invariantlabs.ai) · 组织维护
+⭐ 473 · Python · Apache-2.0 · 推送 2026-01-12 · [GitHub](https://github.com/invariantlabs-ai/invariant) · [官网](https://invariantlabs.ai) · 组织维护
 
 **为 LLM/MCP 智能体应用提供规则式安全护栏层**
 
@@ -45,12 +45,12 @@ Invariant Guardrails 是部署在应用与 MCP 服务器或 LLM 提供方之间�
 ```mermaid
 xychart-beta
     title "invariantlabs-ai/invariant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 471 --> 473
-    line [472, 472]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 471 --> 474
+    line [472, 473]
 ```
 
-2026-10-18 472 → 2026-10-23 472（+0）
+2026-10-18 472 → 2026-10-24 473（+1）
 
 
 ---

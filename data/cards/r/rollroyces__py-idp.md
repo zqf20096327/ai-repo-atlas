@@ -1,6 +1,6 @@
 # rollroyces/py-idp
 
-⭐ 297 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/rollroyces/py-idp) · [官网](https://pypi.org/project/py-idp/) · 个人维护 · 中文 README
+⭐ 297 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/rollroyces/py-idp) · [官网](https://pypi.org/project/py-idp/) · 个人维护 · 中文 README
 
 **Python 智能文档处理框架：六阶段流水线完成文档解析与结构化抽取**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rollroyces/py-idp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "rollroyces/py-idp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 253 --> 301
-    line [257, 279, 294, 297]
+    line [257, 279, 294, 297, 297]
 ```
 
-2026-10-18 257 → 2026-10-23 297（+40）
+2026-10-18 257 → 2026-10-24 297（+40）
 
 
 ---

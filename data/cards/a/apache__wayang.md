@@ -1,6 +1,6 @@
 # apache/wayang
 
-⭐ 277 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/wayang) · [官网](https://wayang.apache.org/) · 组织维护
+⭐ 278 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/wayang) · [官网](https://wayang.apache.org/) · 组织维护
 
 **跨平台数据处理系统：一次编写流水线，多引擎择优执行**
 
@@ -46,12 +46,12 @@ Apache 顶级项目（前身为 Rheem）：用户用统一 API 编写数据流�
 ```mermaid
 xychart-beta
     title "apache/wayang 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 275 --> 278
-    line [276, 277, 277]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 275 --> 279
+    line [276, 277, 278]
 ```
 
-2026-10-18 276 → 2026-10-23 277（+1）
+2026-10-18 276 → 2026-10-24 278（+2）
 
 
 ---

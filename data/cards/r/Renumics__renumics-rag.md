@@ -1,6 +1,6 @@
 # Renumics/renumics-rag
 
-⭐ 211 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Renumics/renumics-rag) · 组织维护
+⭐ 211 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Renumics/renumics-rag) · 组织维护
 
 **RAG 助手演示与数据可视化：回答问题并探索检索数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Renumics/renumics-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Renumics/renumics-rag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 210 --> 213
-    line [212, 211]
+    line [212, 211, 211]
 ```
 
-2026-10-18 212 → 2026-10-23 211（-1）
+2026-10-18 212 → 2026-10-24 211（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # memovai/mimiclaw
 
-⭐ 5,802 · C · MIT · 推送 2026-10-04 · [GitHub](https://github.com/memovai/mimiclaw) · [官网](https://mimiclaw.io) · 组织维护 · 中文 README
+⭐ 5,804 · C · MIT · 推送 2026-10-04 · [GitHub](https://github.com/memovai/mimiclaw) · [官网](https://mimiclaw.io) · 组织维护 · 中文 README
 
 **跑在 5 美元 ESP32-S3 芯片上的 Telegram 个人 AI 助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "memovai/mimiclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 5799 --> 5803
-    line [5800, 5801, 5802]
+    title "memovai/mimiclaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5799 --> 5805
+    line [5800, 5801, 5802, 5804]
 ```
 
-2026-10-18 5,800 → 2026-10-23 5,802（+2）
+2026-10-18 5,800 → 2026-10-24 5,804（+4）
 
 
 ---

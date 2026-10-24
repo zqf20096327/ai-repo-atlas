@@ -1,6 +1,6 @@
 # deta/surf
 
-⭐ 3,606 · TypeScript · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/deta/surf) · [官网](https://deta.surf) · 组织维护
+⭐ 3,610 · TypeScript · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/deta/surf) · [官网](https://deta.surf) · 组织维护
 
 **本地优先的个人 AI 笔记本：整理文件网页并生成笔记**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deta/surf 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3600 --> 3607
-    line [3601, 3603, 3604, 3606]
+    title "deta/surf 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3600 --> 3611
+    line [3601, 3603, 3604, 3606, 3610]
 ```
 
-2026-10-18 3,601 → 2026-10-23 3,606（+5）
+2026-10-18 3,601 → 2026-10-24 3,610（+9）
 
 
 ---

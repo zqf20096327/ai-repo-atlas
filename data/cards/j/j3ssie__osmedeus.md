@@ -1,6 +1,6 @@
 # j3ssie/osmedeus
 
-⭐ 6,615 · Go · MIT · 推送 2026-10-04 · [GitHub](https://github.com/j3ssie/osmedeus) · [官网](https://www.osmedeus.org/) · 个人维护
+⭐ 6,618 · Go · MIT · 推送 2026-10-04 · [GitHub](https://github.com/j3ssie/osmedeus) · [官网](https://www.osmedeus.org/) · 个人维护
 
 **安全工作流编排引擎：以 YAML 声明式自动化侦察与扫描**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "j3ssie/osmedeus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 6600 --> 6616
-    line [6601, 6609, 6615]
+    title "j3ssie/osmedeus 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6600 --> 6619
+    line [6601, 6609, 6615, 6618]
 ```
 
-2026-10-18 6,601 → 2026-10-23 6,615（+14）
+2026-10-18 6,601 → 2026-10-24 6,618（+17）
 
 
 ---

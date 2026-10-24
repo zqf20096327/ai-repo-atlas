@@ -1,6 +1,6 @@
 # zhu1090093659/dsh-trading
 
-⭐ 274 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/zhu1090093659/dsh-trading) · [官网](https://dsh-trading.win) · 个人维护 · 中文 README
+⭐ 275 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/zhu1090093659/dsh-trading) · [官网](https://dsh-trading.win) · 个人维护 · 中文 README
 
 **给个人交易者的 agent 原生多市场交易终端与量化研究平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhu1090093659/dsh-trading 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 265 --> 275
-    line [266, 269, 273, 274]
+    title "zhu1090093659/dsh-trading 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 265 --> 276
+    line [266, 269, 273, 274, 275]
 ```
 
-2026-10-18 266 → 2026-10-23 274（+8）
+2026-10-18 266 → 2026-10-24 275（+9）
 
 
 ---

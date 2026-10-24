@@ -1,6 +1,6 @@
 # xianyongwen/TestDog
 
-⭐ 4 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/xianyongwen/TestDog) · [官网](https://softwing.top/testdog-doc/ ) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Web 回归测试桌面工具：自然语言生成 Playwright 脚本并确定性回放**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

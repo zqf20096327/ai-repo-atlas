@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vicentereig/whatsapp-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "vicentereig/whatsapp-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 201 --> 204
-    line [202, 203]
+    line [202, 203, 203]
 ```
 
-2026-10-18 202 → 2026-10-23 203（+1）
+2026-10-18 202 → 2026-10-24 203（+1）
 
 
 ---

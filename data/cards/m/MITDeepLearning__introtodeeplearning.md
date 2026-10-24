@@ -1,6 +1,6 @@
 # MITDeepLearning/introtodeeplearning
 
-⭐ 8,847 · Jupyter Notebook · MIT · 推送 2026-01-04 · [GitHub](https://github.com/MITDeepLearning/introtodeeplearning) · 组织维护
+⭐ 8,848 · Jupyter Notebook · MIT · 推送 2026-01-04 · [GitHub](https://github.com/MITDeepLearning/introtodeeplearning) · 组织维护
 
 **MIT 深度学习入门课程（6.S191）的实验代码与软件 Lab 集合**
 
@@ -45,12 +45,12 @@ MIT Introduction to Deep Learning 课程的配套代码仓库，包含按 lab1/l
 ```mermaid
 xychart-beta
     title "MITDeepLearning/introtodeeplearning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 8844 --> 8848
-    line [8845, 8847, 8847]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 8844 --> 8849
+    line [8845, 8847, 8848]
 ```
 
-2026-10-18 8,845 → 2026-10-23 8,847（+2）
+2026-10-18 8,845 → 2026-10-24 8,848（+3）
 
 
 ---

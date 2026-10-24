@@ -1,6 +1,6 @@
 # songshikang0111/awesome-REA-cases
 
-⭐ 313 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/songshikang0111/awesome-REA-cases) · 个人维护 · 中文 README
+⭐ 327 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/songshikang0111/awesome-REA-cases) · 个人维护 · 中文 README
 
 **AI 辅助逆向工程案例策展清单（669 条，4 大类）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "songshikang0111/awesome-REA-cases 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 92 --> 333
-    line [112, 283, 301, 313]
+    title "songshikang0111/awesome-REA-cases 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 91 --> 348
+    line [112, 283, 301, 313, 327]
 ```
 
-2026-10-18 112 → 2026-10-23 313（+201）
+2026-10-18 112 → 2026-10-24 327（+215）
 
 
 ---

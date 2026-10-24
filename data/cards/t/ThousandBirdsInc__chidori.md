@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThousandBirdsInc/chidori 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "ThousandBirdsInc/chidori 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1366 --> 1369
-    line [1367, 1368]
+    line [1367, 1368, 1368]
 ```
 
-2026-10-18 1,367 → 2026-10-23 1,368（+1）
+2026-10-18 1,367 → 2026-10-24 1,368（+1）
 
 
 ---

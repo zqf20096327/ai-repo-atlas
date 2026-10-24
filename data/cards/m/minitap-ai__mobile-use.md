@@ -1,6 +1,6 @@
 # minitap-ai/mobile-use
 
-⭐ 3,300 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/minitap-ai/mobile-use) · [官网](https://minitap.ai) · 组织维护
+⭐ 3,306 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/minitap-ai/mobile-use) · [官网](https://minitap.ai) · 组织维护
 
 **用自然语言操控真实 Android/iOS 应用的开源 AI agent**
 
@@ -45,13 +45,13 @@ mobile-use 是一个通过自然语言指令控制 Android 或 iOS 设备的 AI 
 
 ```mermaid
 xychart-beta
-    title "minitap-ai/mobile-use 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3269 --> 3302
-    line [3271, 3284, 3297, 3300]
+    title "minitap-ai/mobile-use 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3268 --> 3309
+    line [3271, 3284, 3297, 3300, 3306]
 ```
 
-2026-10-18 3,271 → 2026-10-23 3,300（+29）
+2026-10-18 3,271 → 2026-10-24 3,306（+35）
 
 
 ---

@@ -1,6 +1,6 @@
 # jsgrrchg/NeverWrite
 
-⭐ 791 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jsgrrchg/NeverWrite) · [官网](https://neverwrite.app/) · 个人维护
+⭐ 790 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jsgrrchg/NeverWrite) · [官网](https://neverwrite.app/) · 个人维护
 
 **本地优先的 agentic Markdown 工作区：写作+多 Agent+变更审查**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jsgrrchg/NeverWrite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 790 --> 792
-    line [791, 791]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 789 --> 792
+    line [791, 790]
 ```
 
-2026-10-18 791 → 2026-10-23 791（+0）
+2026-10-18 791 → 2026-10-24 790（-1）
 
 
 ---

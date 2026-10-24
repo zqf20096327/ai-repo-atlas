@@ -1,6 +1,6 @@
 # anshulforyou/grandma
 
-⭐ 118 · Shell · MIT · 推送 2026-10-15 · [GitHub](https://github.com/anshulforyou/grandma) · 个人维护
+⭐ 119 · Shell · MIT · 推送 2026-10-15 · [GitHub](https://github.com/anshulforyou/grandma) · 个人维护
 
 **Claude Code 的持久记忆层：按上下文分离的 markdown 记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anshulforyou/grandma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 117 --> 119
-    line [118, 118]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 117 --> 120
+    line [118, 119]
 ```
 
-2026-10-18 118 → 2026-10-23 118（+0）
+2026-10-18 118 → 2026-10-24 119（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # theJayTea/WritingTools
 
-⭐ 2,474 · Swift · GPL-3.0 · 推送 2026-08-19 · [GitHub](https://github.com/theJayTea/WritingTools) · 个人维护
+⭐ 2,473 · Swift · GPL-3.0 · 推送 2026-08-19 · [GitHub](https://github.com/theJayTea/WritingTools) · 个人维护
 
 **跨平台 AI 写作助手：快捷键全局润色、改写与摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "theJayTea/WritingTools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "theJayTea/WritingTools 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2470 --> 2475
-    line [2472, 2471, 2473, 2474]
+    line [2472, 2471, 2473, 2474, 2473]
 ```
 
-2026-10-18 2,472 → 2026-10-23 2,474（+2）
+2026-10-18 2,472 → 2026-10-24 2,473（+1）
 
 
 ---

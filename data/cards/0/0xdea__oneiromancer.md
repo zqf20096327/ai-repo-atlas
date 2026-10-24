@@ -1,6 +1,6 @@
 # 0xdea/oneiromancer
 
-⭐ 146 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/0xdea/oneiromancer) · [官网](https://ollama.com) · 个人维护
+⭐ 146 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/0xdea/oneiromancer) · [官网](https://ollama.com) · 个人维护
 
 **逆向工程助手：本地 LLM 辅助分析 Hex-Rays 伪代码**
 
@@ -46,12 +46,12 @@ Rust 编写的逆向工程辅助工具，调用本地运行的、针对 Hex-Rays
 ```mermaid
 xychart-beta
     title "0xdea/oneiromancer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 145 --> 147
     line [146, 146]
 ```
 
-2026-10-18 146 → 2026-10-23 146（+0）
+2026-10-18 146 → 2026-10-24 146（+0）
 
 
 ---

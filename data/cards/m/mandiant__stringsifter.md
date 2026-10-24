@@ -1,6 +1,6 @@
 # mandiant/stringsifter
 
-⭐ 766 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/mandiant/stringsifter) · 组织维护
+⭐ 767 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/mandiant/stringsifter) · 组织维护
 
 **按恶意软件分析相关性对字符串排序的机器学习工具**
 
@@ -45,12 +45,12 @@ Mandiant（FireEye）开源的排序工具：内置 flarestrings 从二进制中
 ```mermaid
 xychart-beta
     title "mandiant/stringsifter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 765 --> 767
-    line [766, 766]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 765 --> 768
+    line [766, 767]
 ```
 
-2026-10-18 766 → 2026-10-23 766（+0）
+2026-10-18 766 → 2026-10-24 767（+1）
 
 
 ---

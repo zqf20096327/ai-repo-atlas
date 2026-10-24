@@ -1,6 +1,6 @@
 # ermig1979/Simd
 
-⭐ 2,275 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ermig1979/Simd) · [官网](http://ermig1979.github.io/Simd) · 个人维护
+⭐ 2,276 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ermig1979/Simd) · [官网](http://ermig1979.github.io/Simd) · 个人维护
 
 **面向 C/C++ 的 SIMD 优化图像处理与机器学习库**
 
@@ -46,12 +46,12 @@ C/C++ 图像处理与机器学习库，提供像素格式转换、图像缩放�
 ```mermaid
 xychart-beta
     title "ermig1979/Simd 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2273 --> 2276
-    line [2274, 2275, 2275]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 2273 --> 2277
+    line [2274, 2275, 2276]
 ```
 
-2026-10-18 2,274 → 2026-10-23 2,275（+1）
+2026-10-18 2,274 → 2026-10-24 2,276（+2）
 
 
 ---

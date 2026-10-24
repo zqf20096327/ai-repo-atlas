@@ -1,6 +1,6 @@
 # apm-studio/apm-studio
 
-⭐ 436 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/apm-studio/apm-studio) · [官网](https://discord.gg/amEHpsqwZP) · 组织维护
+⭐ 437 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/apm-studio/apm-studio) · [官网](https://discord.gg/amEHpsqwZP) · 组织维护
 
 **本地 GUI：导入、管理与同步 APM agent 包到各编码助手**
 
@@ -46,12 +46,12 @@ Agent Package Manager（APM）生态的可视化层：从 GitHub 导入 agents�
 ```mermaid
 xychart-beta
     title "apm-studio/apm-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 435 --> 438
-    line [437, 436, 436]
+    line [437, 436, 437]
 ```
 
-2026-10-18 437 → 2026-10-23 436（-1）
+2026-10-18 437 → 2026-10-24 437（+0）
 
 
 ---

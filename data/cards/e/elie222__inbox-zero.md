@@ -1,6 +1,6 @@
 # elie222/inbox-zero
 
-⭐ 12,756 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/elie222/inbox-zero) · [官网](https://getinboxzero.com) · 个人维护
+⭐ 12,781 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/elie222/inbox-zero) · [官网](https://getinboxzero.com) · 个人维护
 
 **开源 AI 邮件助手与邮件客户端，助用户清空收件箱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "elie222/inbox-zero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 12585 --> 12771
-    line [12600, 12676, 12726, 12756]
+    title "elie222/inbox-zero 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 12582 --> 12799
+    line [12600, 12676, 12726, 12756, 12781]
 ```
 
-2026-10-18 12,600 → 2026-10-23 12,756（+156）
+2026-10-18 12,600 → 2026-10-24 12,781（+181）
 
 
 ---

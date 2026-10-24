@@ -1,6 +1,6 @@
 # kucherenko/jscpd
 
-⭐ 6,440 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kucherenko/jscpd) · [官网](https://jscpd.dev) · 个人维护
+⭐ 6,446 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kucherenko/jscpd) · [官网](https://jscpd.dev) · 个人维护
 
 **面向开发者的源码复制粘贴与代码健康检测 CLI（224 种格式）**
 
@@ -45,13 +45,13 @@ Rust 引擎的代码克隆检测工具：按各语言自身规则分词，用滚
 
 ```mermaid
 xychart-beta
-    title "kucherenko/jscpd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6404 --> 6443
-    line [6407, 6419, 6433, 6440]
+    title "kucherenko/jscpd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6404 --> 6449
+    line [6407, 6419, 6433, 6440, 6446]
 ```
 
-2026-10-18 6,407 → 2026-10-23 6,440（+33）
+2026-10-18 6,407 → 2026-10-24 6,446（+39）
 
 
 ---

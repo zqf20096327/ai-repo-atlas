@@ -1,6 +1,6 @@
 # KempnerInstitute/overcomplete
 
-⭐ 154 · Python · MIT · 推送 2025-12-04 · [GitHub](https://github.com/KempnerInstitute/overcomplete) · [官网](https://kempnerinstitute.github.io/overcomplete) · 组织维护
+⭐ 155 · Python · MIT · 推送 2025-12-04 · [GitHub](https://github.com/KempnerInstitute/overcomplete) · [官网](https://kempnerinstitute.github.io/overcomplete) · 组织维护
 
 **视觉大模型概念提取的 SAE/字典学习研究库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KempnerInstitute/overcomplete 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 152 --> 155
-    line [153, 154]
+    title "KempnerInstitute/overcomplete 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 152 --> 156
+    line [153, 154, 155]
 ```
 
-2026-10-18 153 → 2026-10-23 154（+1）
+2026-10-18 153 → 2026-10-24 155（+2）
 
 
 ---

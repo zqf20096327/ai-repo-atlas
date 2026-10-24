@@ -1,6 +1,6 @@
 # l33tdawg/sage
 
-⭐ 256 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/l33tdawg/sage) · [官网](https://orcid.org/0009-0001-7248-2411) · 个人维护
+⭐ 257 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/l33tdawg/sage) · [官网](https://orcid.org/0009-0001-7248-2411) · 个人维护
 
 **面向 AI agent 的治理型记忆与消息层，带共识准入与审计**
 
@@ -45,13 +45,13 @@ SAGE 是供 AI agent 使用的治理型记忆与消息层：每条记忆由 agen
 
 ```mermaid
 xychart-beta
-    title "l33tdawg/sage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 252 --> 257
-    line [253, 255, 256]
+    title "l33tdawg/sage 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 252 --> 258
+    line [253, 255, 256, 257]
 ```
 
-2026-10-18 253 → 2026-10-23 256（+3）
+2026-10-18 253 → 2026-10-24 257（+4）
 
 
 ---

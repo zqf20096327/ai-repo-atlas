@@ -1,6 +1,6 @@
 # iskandaryv/meetingly-ai
 
-⭐ 309 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/iskandaryv/meetingly-ai) · [官网](https://meetinglyai.com) · 个人维护 · 中文 README
+⭐ 314 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/iskandaryv/meetingly-ai) · [官网](https://meetinglyai.com) · 个人维护 · 中文 README
 
 **开源 AI 面试与会议助手：通话中实时转写并给出答案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iskandaryv/meetingly-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "iskandaryv/meetingly-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 284 --> 320
-    line [287, 302, 317, 309]
+    line [287, 302, 317, 309, 314]
 ```
 
-2026-10-18 287 → 2026-10-23 309（+22）
+2026-10-18 287 → 2026-10-24 314（+27）
 
 
 ---

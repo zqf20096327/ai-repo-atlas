@@ -46,13 +46,13 @@ Swift 编写的 macOS 本地推理服务：通过 `afm` 命令启动本地 OpenA
 
 ```mermaid
 xychart-beta
-    title "scouzi1966/maclocal-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "scouzi1966/maclocal-api 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 346 --> 349
-    line [347, 348]
+    line [347, 348, 348]
 ```
 
-2026-10-18 347 → 2026-10-23 348（+1）
+2026-10-18 347 → 2026-10-24 348（+1）
 
 
 ---

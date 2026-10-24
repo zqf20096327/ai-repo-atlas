@@ -1,6 +1,6 @@
 # ModelOriented/DALEX
 
-⭐ 1,489 · Python · GPL-3.0 · 推送 2026-07-15 · [GitHub](https://github.com/ModelOriented/DALEX) · [官网](https://dalex.drwhy.ai) · 组织维护
+⭐ 1,490 · Python · GPL-3.0 · 推送 2026-07-15 · [GitHub](https://github.com/ModelOriented/DALEX) · [官网](https://dalex.drwhy.ai) · 组织维护
 
 **模型无关的机器学习模型解释与探索工具包（R/Python）**
 
@@ -45,12 +45,12 @@ DALEX 提供模型不可知的解释框架：核心函数 explain() 包装任意
 ```mermaid
 xychart-beta
     title "ModelOriented/DALEX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1488 --> 1490
-    line [1489, 1489]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 1488 --> 1491
+    line [1489, 1490]
 ```
 
-2026-10-18 1,489 → 2026-10-23 1,489（+0）
+2026-10-18 1,489 → 2026-10-24 1,490（+1）
 
 
 ---

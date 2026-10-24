@@ -1,6 +1,6 @@
 # ChatGPTNextWeb/NextChat
 
-⭐ 88,883 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ChatGPTNextWeb/NextChat) · [官网](https://nextchat.club) · 组织维护 · 中文 README
+⭐ 88,885 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ChatGPTNextWeb/NextChat) · [官网](https://nextchat.club) · 组织维护 · 中文 README
 
 **给消费者/开发者提供零配置跨平台 AI 聊天客户端**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChatGPTNextWeb/NextChat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 88849 --> 88886
-    line [88852, 88871, 88878, 88883]
+    title "ChatGPTNextWeb/NextChat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 88849 --> 88888
+    line [88852, 88871, 88878, 88883, 88885]
 ```
 
-2026-10-18 88,852 → 2026-10-23 88,883（+31）
+2026-10-18 88,852 → 2026-10-24 88,885（+33）
 
 
 ---

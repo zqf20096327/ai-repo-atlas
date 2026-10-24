@@ -1,6 +1,6 @@
 # syv-ai/HyperQwen
 
-⭐ 2,178 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/syv-ai/HyperQwen) · 组织维护
+⭐ 2,196 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/syv-ai/HyperQwen) · 组织维护
 
 **在单张消费级 GPU 上高速部署大尺寸 Qwen 模型的 vLLM 补丁与部署套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "syv-ai/HyperQwen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2028 --> 2191
-    line [2041, 2113, 2153, 2178]
+    title "syv-ai/HyperQwen 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2026 --> 2211
+    line [2041, 2113, 2153, 2178, 2196]
 ```
 
-2026-10-18 2,041 → 2026-10-23 2,178（+137）
+2026-10-18 2,041 → 2026-10-24 2,196（+155）
 
 
 ---

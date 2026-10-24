@@ -1,6 +1,6 @@
 # Source-Robotics/PAROL6-Desktop-robot-arm
 
-⭐ 3,394 · HTML · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) · [官网](https://source-robotics.com/) · 组织维护
+⭐ 3,393 · HTML · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) · [官网](https://source-robotics.com/) · 组织维护
 
 **3D 打印桌面机械臂的开源硬件项目：BOM/STL/文档**
 
@@ -44,13 +44,13 @@ PAROL6 是一款 3D 打印的桌面六轴机械臂开源项目，机械设计、
 
 ```mermaid
 xychart-beta
-    title "Source-Robotics/PAROL6-Desktop-robot-arm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "Source-Robotics/PAROL6-Desktop-robot-arm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 3379 --> 3395
-    line [3380, 3389, 3392, 3394]
+    line [3380, 3389, 3392, 3394, 3393]
 ```
 
-2026-10-18 3,380 → 2026-10-23 3,394（+14）
+2026-10-18 3,380 → 2026-10-24 3,393（+13）
 
 
 ---

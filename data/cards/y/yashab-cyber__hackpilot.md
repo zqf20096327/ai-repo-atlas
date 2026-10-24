@@ -1,6 +1,6 @@
 # yashab-cyber/hackpilot
 
-⭐ 1,278 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/yashab-cyber/hackpilot) · [官网](https://yashab-cyber.github.io/hackpilot/) · 个人维护
+⭐ 1,279 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/yashab-cyber/hackpilot) · [官网](https://yashab-cyber.github.io/hackpilot/) · 个人维护
 
 **面向企业安全团队的 AI 驱动渗透测试平台**
 
@@ -44,13 +44,13 @@ HackPilot Enterprise 是面向企业安全团队的云原生渗透测试平台�
 
 ```mermaid
 xychart-beta
-    title "yashab-cyber/hackpilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1268 --> 1279
-    line [1269, 1275, 1276, 1278]
+    title "yashab-cyber/hackpilot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1268 --> 1280
+    line [1269, 1275, 1276, 1278, 1279]
 ```
 
-2026-10-18 1,269 → 2026-10-23 1,278（+9）
+2026-10-18 1,269 → 2026-10-24 1,279（+10）
 
 
 ---

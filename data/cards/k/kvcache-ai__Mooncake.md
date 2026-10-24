@@ -1,6 +1,6 @@
 # kvcache-ai/Mooncake
 
-⭐ 6,865 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kvcache-ai/Mooncake) · [官网](https://kvcache-ai.github.io/Mooncake/) · 组织维护 · 中文 README
+⭐ 6,873 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kvcache-ai/Mooncake) · [官网](https://kvcache-ai.github.io/Mooncake/) · 组织维护 · 中文 README
 
 **面向大规模 LLM 推理/训练的 KVCache 中心化解耦架构基础设施**
 
@@ -44,13 +44,13 @@ Moonshot AI（月之暗面）开源的大规模 LLM 推理与训练基础设施�
 
 ```mermaid
 xychart-beta
-    title "kvcache-ai/Mooncake 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 6817 --> 6869
-    line [6821, 6834, 6865]
+    title "kvcache-ai/Mooncake 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6816 --> 6878
+    line [6821, 6834, 6865, 6873]
 ```
 
-2026-10-18 6,821 → 2026-10-23 6,865（+44）
+2026-10-18 6,821 → 2026-10-24 6,873（+52）
 
 
 ---

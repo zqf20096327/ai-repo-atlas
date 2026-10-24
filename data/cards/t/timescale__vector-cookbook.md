@@ -45,12 +45,12 @@ Timescale 维护的食谱（cookbook）仓库：汇集基于 PostgreSQL、pgvect
 ```mermaid
 xychart-beta
     title "timescale/vector-cookbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 128 --> 130
     line [129, 129]
 ```
 
-2026-10-18 129 → 2026-10-23 129（+0）
+2026-10-18 129 → 2026-10-24 129（+0）
 
 
 ---

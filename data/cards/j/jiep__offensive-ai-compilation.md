@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jiep/offensive-ai-compilation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "jiep/offensive-ai-compilation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1440 --> 1443
-    line [1441, 1442]
+    line [1441, 1442, 1442]
 ```
 
-2026-10-18 1,441 → 2026-10-23 1,442（+1）
+2026-10-18 1,441 → 2026-10-24 1,442（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # taracodlabs/aiden
 
-⭐ 864 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/taracodlabs/aiden) · [官网](https://aiden.taracod.com) · 个人维护
+⭐ 863 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/taracodlabs/aiden) · [官网](https://aiden.taracod.com) · 个人维护
 
 **自主 AI 工作引擎：给目标，跨文件/终端/浏览器执行并验证结果**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "taracodlabs/aiden 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "taracodlabs/aiden 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 855 --> 865
-    line [856, 859, 862, 864]
+    line [856, 859, 862, 864, 863]
 ```
 
-2026-10-18 856 → 2026-10-23 864（+8）
+2026-10-18 856 → 2026-10-24 863（+7）
 
 
 ---

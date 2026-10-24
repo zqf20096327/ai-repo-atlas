@@ -1,6 +1,6 @@
 # diegosouzapw/OmniCopilot
 
-⭐ 136 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/diegosouzapw/OmniCopilot) · [官网](https://github.com/diegosouzapw/OmniRoute) · 个人维护
+⭐ 139 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/diegosouzapw/OmniCopilot) · [官网](https://github.com/diegosouzapw/OmniRoute) · 个人维护
 
 **把 1200+ 模型接入 VS Code Copilot Chat 的扩展**
 
@@ -44,13 +44,13 @@ VS Code 扩展（亦发布于 Open VSX，支持 Cursor/Windsurf/VSCodium 等）�
 
 ```mermaid
 xychart-beta
-    title "diegosouzapw/OmniCopilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 129 --> 137
-    line [130, 131, 134, 136]
+    title "diegosouzapw/OmniCopilot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 129 --> 140
+    line [130, 131, 134, 136, 139]
 ```
 
-2026-10-18 130 → 2026-10-23 136（+6）
+2026-10-18 130 → 2026-10-24 139（+9）
 
 
 ---

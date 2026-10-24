@@ -1,6 +1,6 @@
 # Goekdeniz-Guelmez/mlx-lm-lora
 
-⭐ 446 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora) · [官网](https://goekdeniz-guelmez.github.io/mlx-lm-lora/) · 个人维护
+⭐ 462 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora) · [官网](https://goekdeniz-guelmez.github.io/mlx-lm-lora/) · 个人维护
 
 **在 Apple Silicon 上用 MLX 本地微调大语言模型的训练库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Goekdeniz-Guelmez/mlx-lm-lora 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 433 --> 447
-    line [434, 436, 446]
+    title "Goekdeniz-Guelmez/mlx-lm-lora 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 432 --> 464
+    line [434, 436, 446, 462]
 ```
 
-2026-10-18 434 → 2026-10-23 446（+12）
+2026-10-18 434 → 2026-10-24 462（+28）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVlabs/sionna
 
-⭐ 1,648 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/NVlabs/sionna) · [官网](https://nvlabs.github.io/sionna/) · 组织维护
+⭐ 1,650 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/NVlabs/sionna) · [官网](https://nvlabs.github.io/sionna/) · 组织维护
 
 **面向通信系统研究的可微仿真库（光线追踪/链路级/系统级）**
 
@@ -47,13 +47,13 @@ NVIDIA 实验室开源的 Python 通信系统研究库，含三个包：Sionna R
 
 ```mermaid
 xychart-beta
-    title "NVlabs/sionna 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1639 --> 1649
-    line [1640, 1643, 1646, 1648]
+    title "NVlabs/sionna 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1639 --> 1651
+    line [1640, 1643, 1646, 1648, 1650]
 ```
 
-2026-10-18 1,640 → 2026-10-23 1,648（+8）
+2026-10-18 1,640 → 2026-10-24 1,650（+10）
 
 
 ---

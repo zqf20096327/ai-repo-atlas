@@ -1,6 +1,6 @@
 # mryab/efficient-dl-systems
 
-⭐ 1,045 · Jupyter Notebook · MIT · 推送 2026-05-28 · [GitHub](https://github.com/mryab/efficient-dl-systems) · 组织维护
+⭐ 1,046 · Jupyter Notebook · MIT · 推送 2026-05-28 · [GitHub](https://github.com/mryab/efficient-dl-systems) · 组织维护
 
 **深度学习系统效率化课程讲义与研讨材料合集**
 
@@ -45,12 +45,12 @@ HSE 大学计算机学院与 Yandex 数据分析学校开设的 Efficient Deep L
 ```mermaid
 xychart-beta
     title "mryab/efficient-dl-systems 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1041 --> 1046
-    line [1042, 1043, 1045, 1045]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1041 --> 1047
+    line [1042, 1043, 1045, 1046]
 ```
 
-2026-10-18 1,042 → 2026-10-23 1,045（+3）
+2026-10-18 1,042 → 2026-10-24 1,046（+4）
 
 
 ---

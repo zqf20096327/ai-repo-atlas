@@ -1,6 +1,6 @@
 # vercel-labs/open-agents
 
-⭐ 5,858 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/vercel-labs/open-agents) · [官网](https://open-agents.dev) · 组织维护
+⭐ 5,860 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/vercel-labs/open-agents) · [官网](https://open-agents.dev) · 组织维护
 
 **在 Vercel 上构建后台编码 agent 的开源参考应用模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/open-agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5846 --> 5859
-    line [5847, 5852, 5854, 5858]
+    title "vercel-labs/open-agents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5846 --> 5861
+    line [5847, 5852, 5854, 5858, 5860]
 ```
 
-2026-10-18 5,847 → 2026-10-23 5,858（+11）
+2026-10-18 5,847 → 2026-10-24 5,860（+13）
 
 
 ---

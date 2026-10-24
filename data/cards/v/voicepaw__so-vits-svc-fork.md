@@ -1,6 +1,6 @@
 # voicepaw/so-vits-svc-fork
 
-⭐ 9,329 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/voicepaw/so-vits-svc-fork) · 组织维护 · 中文 README
+⭐ 9,329 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/voicepaw/so-vits-svc-fork) · 组织维护 · 中文 README
 
 **歌声/语音转换工具：实时变声与模型训练，已停止维护**
 
@@ -44,13 +44,13 @@ so-vits-svc 的 fork，基于 ContentVec/HuBERT 特征与 VITS、PyTorch Lightni
 
 ```mermaid
 xychart-beta
-    title "voicepaw/so-vits-svc-fork 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "voicepaw/so-vits-svc-fork 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 9328 --> 9335
-    line [9333, 9334, 9333, 9329]
+    line [9333, 9334, 9333, 9329, 9329]
 ```
 
-2026-10-18 9,333 → 2026-10-23 9,329（-4）
+2026-10-18 9,333 → 2026-10-24 9,329（-4）
 
 
 ---

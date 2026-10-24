@@ -45,12 +45,12 @@ OpenAI 发布的论文《Ten advances in mathematics and theoretical computer sc
 ```mermaid
 xychart-beta
     title "openai/ten-proofs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 213 --> 217
     line [214, 216, 216]
 ```
 
-2026-10-18 214 → 2026-10-23 216（+2）
+2026-10-18 214 → 2026-10-24 216（+2）
 
 
 ---

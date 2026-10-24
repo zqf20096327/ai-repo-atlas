@@ -1,6 +1,6 @@
 # estebanstifli/LocalText2Voice
 
-⭐ 397 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/estebanstifli/LocalText2Voice) · [官网](https://andromedanova.com/localtext2voice.html) · 个人维护
+⭐ 398 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/estebanstifli/LocalText2Voice) · [官网](https://andromedanova.com/localtext2voice.html) · 个人维护
 
 **桌面应用：把文本制作为有声书、播客与视频，支持本地离线运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "estebanstifli/LocalText2Voice 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 393 --> 398
-    line [394, 397, 397]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 393 --> 399
+    line [394, 397, 398]
 ```
 
-2026-10-18 394 → 2026-10-23 397（+3）
+2026-10-18 394 → 2026-10-24 398（+4）
 
 
 ---

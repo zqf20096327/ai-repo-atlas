@@ -1,6 +1,6 @@
 # humanlayer/humanlayer
 
-⭐ 11,716 · TypeScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/humanlayer/humanlayer) · [官网](https://humanlayer.dev/code) · 组织维护
+⭐ 11,721 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/humanlayer/humanlayer) · [官网](https://humanlayer.dev/code) · 组织维护
 
 **HumanLayer 的公开 issues 仓库，主体代码已弃用**
 
@@ -11,7 +11,7 @@ humanlayer 的 public issues 仓库，README 声明此处代码基本已全部�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -42,13 +42,13 @@ humanlayer 的 public issues 仓库，README 声明此处代码基本已全部�
 
 ```mermaid
 xychart-beta
-    title "humanlayer/humanlayer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11702 --> 11717
-    line [11703, 11705, 11714, 11716]
+    title "humanlayer/humanlayer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11702 --> 11722
+    line [11703, 11705, 11714, 11716, 11721]
 ```
 
-2026-10-18 11,703 → 2026-10-23 11,716（+13）
+2026-10-18 11,703 → 2026-10-24 11,721（+18）
 
 
 ---

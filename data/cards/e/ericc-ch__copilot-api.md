@@ -1,6 +1,6 @@
 # ericc-ch/copilot-api
 
-⭐ 4,145 · TypeScript · MIT · 推送 2025-11-10 · [GitHub](https://github.com/ericc-ch/copilot-api) · [官网](https://ericc-ch.github.io/copilot-api/?endpoint=http://localhost:4141/usage) · 个人维护
+⭐ 4,146 · TypeScript · MIT · 推送 2025-11-10 · [GitHub](https://github.com/ericc-ch/copilot-api) · [官网](https://ericc-ch.github.io/copilot-api/?endpoint=http://localhost:4141/usage) · 个人维护
 
 **把 GitHub Copilot 变成 OpenAI/Anthropic 兼容 API 的代理服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ericc-ch/copilot-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4143 --> 4146
-    line [4145, 4144, 4145]
+    title "ericc-ch/copilot-api 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4143 --> 4147
+    line [4145, 4144, 4145, 4146]
 ```
 
-2026-10-18 4,145 → 2026-10-23 4,145（+0）
+2026-10-18 4,145 → 2026-10-24 4,146（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ibrahimqureshae/mdflux
 
-⭐ 568 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ibrahimqureshae/mdflux) · [官网](https://ibrahimqureshae.github.io/mdflux/) · 个人维护
+⭐ 569 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ibrahimqureshae/mdflux) · [官网](https://ibrahimqureshae.github.io/mdflux/) · 个人维护
 
 **本地优先的桌面文档转 Markdown 工具，含 OCR 与批量转换**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ibrahimqureshae/mdflux 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 565 --> 569
-    line [566, 567, 568, 568]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 565 --> 570
+    line [566, 567, 568, 569]
 ```
 
-2026-10-18 566 → 2026-10-23 568（+2）
+2026-10-18 566 → 2026-10-24 569（+3）
 
 
 ---

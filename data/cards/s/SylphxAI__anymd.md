@@ -1,6 +1,6 @@
 # SylphxAI/anymd
 
-⭐ 1,050 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/SylphxAI/anymd) · [官网](https://sylphxai.github.io/anymd/) · 组织维护
+⭐ 1,051 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/SylphxAI/anymd) · [官网](https://sylphxai.github.io/anymd/) · 组织维护
 
 **本地多格式文档转 Markdown 的 Rust MCP 服务器与 CLI**
 
@@ -45,13 +45,13 @@ Rust 编写的 MCP 服务器兼命令行工具，将 PDF、Word、PPT、Excel、
 
 ```mermaid
 xychart-beta
-    title "SylphxAI/anymd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1041 --> 1051
-    line [1042, 1045, 1048, 1050]
+    title "SylphxAI/anymd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1041 --> 1052
+    line [1042, 1045, 1048, 1050, 1051]
 ```
 
-2026-10-18 1,042 → 2026-10-23 1,050（+8）
+2026-10-18 1,042 → 2026-10-24 1,051（+9）
 
 
 ---

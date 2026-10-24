@@ -1,6 +1,6 @@
 # Miasyster/QuantGPT
 
-⭐ 493 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/Miasyster/QuantGPT) · 个人维护 · 中文 README
+⭐ 494 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/Miasyster/QuantGPT) · 个人维护 · 中文 README
 
 **给量化研究者的 Agent 驱动因子挖掘引擎，自动回测并提交 WorldQuant BRAIN**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Miasyster/QuantGPT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 486 --> 494
-    line [487, 489, 490, 493]
+    title "Miasyster/QuantGPT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 486 --> 495
+    line [487, 489, 490, 493, 494]
 ```
 
-2026-10-18 487 → 2026-10-23 493（+6）
+2026-10-18 487 → 2026-10-24 494（+7）
 
 
 ---

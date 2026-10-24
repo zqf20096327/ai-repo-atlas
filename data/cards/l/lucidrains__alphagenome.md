@@ -46,12 +46,12 @@ lucidrains 实现的 AlphaGenome——DeepMind 的基因组注意力模型（DNA
 ```mermaid
 xychart-beta
     title "lucidrains/alphagenome 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-18 101 → 2026-10-23 101（+0）
+2026-10-18 101 → 2026-10-24 101（+0）
 
 
 ---

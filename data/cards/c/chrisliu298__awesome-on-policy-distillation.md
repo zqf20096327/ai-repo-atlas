@@ -1,6 +1,6 @@
 # chrisliu298/awesome-on-policy-distillation
 
-⭐ 891 · CC0-1.0 · 推送 2026-10-06 · [GitHub](https://github.com/chrisliu298/awesome-on-policy-distillation) · 个人维护 · 中文 README
+⭐ 895 · CC0-1.0 · 推送 2026-10-06 · [GitHub](https://github.com/chrisliu298/awesome-on-policy-distillation) · 个人维护 · 中文 README
 
 **LLM 在线策略蒸馏（OPD）论文与工具策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chrisliu298/awesome-on-policy-distillation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 885 --> 892
-    line [886, 889, 891]
+    title "chrisliu298/awesome-on-policy-distillation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 885 --> 896
+    line [886, 889, 891, 895]
 ```
 
-2026-10-18 886 → 2026-10-23 891（+5）
+2026-10-18 886 → 2026-10-24 895（+9）
 
 
 ---

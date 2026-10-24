@@ -1,6 +1,6 @@
 # niklasfrick/spark-dashboard
 
-⭐ 136 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/niklasfrick/spark-dashboard) · 个人维护
+⭐ 138 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/niklasfrick/spark-dashboard) · 个人维护
 
 **Linux+NVIDIA 主机的硬件与 LLM 推理实时监控仪表盘**
 
@@ -46,12 +46,12 @@ Rust 后端通过 NVML、sysinfo、procfs 采集 GPU/CPU/内存/磁盘/网络指
 ```mermaid
 xychart-beta
     title "niklasfrick/spark-dashboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 135 --> 137
-    line [136, 136]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 135 --> 139
+    line [136, 138]
 ```
 
-2026-10-18 136 → 2026-10-23 136（+0）
+2026-10-18 136 → 2026-10-24 138（+2）
 
 
 ---

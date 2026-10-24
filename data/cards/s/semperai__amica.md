@@ -1,6 +1,6 @@
 # semperai/amica
 
-⭐ 1,617 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/semperai/amica) · [官网](https://heyamica.com) · 组织维护
+⭐ 1,618 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/semperai/amica) · [官网](https://heyamica.com) · 组织维护
 
 **与可定制 3D 角色语音对话的开源聊天界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "semperai/amica 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1613 --> 1618
-    line [1614, 1616, 1617, 1617]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1613 --> 1619
+    line [1614, 1616, 1617, 1618]
 ```
 
-2026-10-18 1,614 → 2026-10-23 1,617（+3）
+2026-10-18 1,614 → 2026-10-24 1,618（+4）
 
 
 ---

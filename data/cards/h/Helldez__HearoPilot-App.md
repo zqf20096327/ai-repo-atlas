@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Helldez/HearoPilot-App 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Helldez/HearoPilot-App 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 103 --> 106
-    line [104, 105]
+    line [104, 105, 105]
 ```
 
-2026-10-18 104 → 2026-10-23 105（+1）
+2026-10-18 104 → 2026-10-24 105（+1）
 
 
 ---

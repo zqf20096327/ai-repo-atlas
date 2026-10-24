@@ -1,6 +1,6 @@
 # habit-hooks/habit-hooks
 
-⭐ 232 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/habit-hooks/habit-hooks) · [官网](http://habit-hooks.com/) · 组织维护
+⭐ 235 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/habit-hooks/habit-hooks) · [官网](http://habit-hooks.com/) · 组织维护
 
 **把 linter 违规改写为辅导指南、引导 AI 编程代理改进代码的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "habit-hooks/habit-hooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 226 --> 233
-    line [227, 228, 232]
+    title "habit-hooks/habit-hooks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 226 --> 236
+    line [227, 228, 232, 235]
 ```
 
-2026-10-18 227 → 2026-10-23 232（+5）
+2026-10-18 227 → 2026-10-24 235（+8）
 
 
 ---

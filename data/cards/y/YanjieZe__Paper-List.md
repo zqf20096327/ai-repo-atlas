@@ -1,6 +1,6 @@
 # YanjieZe/Paper-List
 
-⭐ 618 · Python · 推送 2026-10-22 · [GitHub](https://github.com/YanjieZe/Paper-List) · 个人维护
+⭐ 618 · Python · 推送 2026-10-23 · [GitHub](https://github.com/YanjieZe/Paper-List) · 个人维护
 
 **个人维护的机器人学习与视觉 ML 论文阅读清单**
 
@@ -44,13 +44,13 @@ Yanjie Ze 维护的个人论文列表：按主题分为机器人学习（自我�
 
 ```mermaid
 xychart-beta
-    title "YanjieZe/Paper-List 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "YanjieZe/Paper-List 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 614 --> 619
-    line [615, 616, 617, 618]
+    line [615, 616, 617, 618, 618]
 ```
 
-2026-10-18 615 → 2026-10-23 618（+3）
+2026-10-18 615 → 2026-10-24 618（+3）
 
 
 ---

@@ -46,12 +46,12 @@ ICCV 2025 Oral 论文官方代码库，实现 Token Activation Map（TAM）方�
 ```mermaid
 xychart-beta
     title "xmed-lab/TAM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 190 --> 192
     line [191, 191]
 ```
 
-2026-10-18 191 → 2026-10-23 191（+0）
+2026-10-18 191 → 2026-10-24 191（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # cLin-c/paper-skill
 
-⭐ 129 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/cLin-c/paper-skill) · 个人维护 · 中文 README
+⭐ 130 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/cLin-c/paper-skill) · 个人维护 · 中文 README
 
 **面向中文科研作者的 evidence-first 英文论文投稿技能包**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "cLin-c/paper-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 123 --> 130
-    line [124, 127, 128, 129]
+    title "cLin-c/paper-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 123 --> 131
+    line [124, 127, 128, 129, 130]
 ```
 
-2026-10-18 124 → 2026-10-23 129（+5）
+2026-10-18 124 → 2026-10-24 130（+6）
 
 
 ---

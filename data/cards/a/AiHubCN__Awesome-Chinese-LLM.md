@@ -1,6 +1,6 @@
 # AiHubCN/Awesome-Chinese-LLM
 
-⭐ 22,772 · 推送 2026-05-10 · [GitHub](https://github.com/AiHubCN/Awesome-Chinese-LLM) · 个人维护 · 中文 README
+⭐ 22,774 · 推送 2026-05-10 · [GitHub](https://github.com/AiHubCN/Awesome-Chinese-LLM) · 个人维护 · 中文 README
 
 **中文开源大语言模型资源清单：收录模型、应用、数据集与教程**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "AiHubCN/Awesome-Chinese-LLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 22771 --> 22774
-    line [22772, 22773, 22772]
+    title "AiHubCN/Awesome-Chinese-LLM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 22771 --> 22775
+    line [22772, 22773, 22772, 22774]
 ```
 
-2026-10-18 22,772 → 2026-10-23 22,772（+0）
+2026-10-18 22,772 → 2026-10-24 22,774（+2）
 
 
 ---

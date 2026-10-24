@@ -1,6 +1,6 @@
 # nadimtuhin/claude-token-optimizer
 
-⭐ 628 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nadimtuhin/claude-token-optimizer) · [官网](https://www.npmjs.com/package/claude-token-optimizer) · 个人维护
+⭐ 629 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nadimtuhin/claude-token-optimizer) · [官网](https://www.npmjs.com/package/claude-token-optimizer) · 个人维护
 
 **缩减 Claude Code 会话启动加载 token 的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nadimtuhin/claude-token-optimizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 620 --> 629
-    line [621, 624, 628]
+    title "nadimtuhin/claude-token-optimizer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 620 --> 630
+    line [621, 624, 628, 629]
 ```
 
-2026-10-18 621 → 2026-10-23 628（+7）
+2026-10-18 621 → 2026-10-24 629（+8）
 
 
 ---

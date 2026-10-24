@@ -1,6 +1,6 @@
 # alivecontext/alive
 
-⭐ 130 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/alivecontext/alive) · [官网](https://alivecontext.com) · 组织维护
+⭐ 131 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/alivecontext/alive) · [官网](https://alivecontext.com) · 组织维护
 
 **Claude Code 的个人上下文管理插件：会话知识文件化沉淀**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alivecontext/alive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 129 --> 131
-    line [130, 130]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 129 --> 132
+    line [130, 131]
 ```
 
-2026-10-18 130 → 2026-10-23 130（+0）
+2026-10-18 130 → 2026-10-24 131（+1）
 
 
 ---

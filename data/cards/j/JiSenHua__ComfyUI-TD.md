@@ -1,6 +1,6 @@
 # JiSenHua/ComfyUI-TD
 
-⭐ 167 · Python · AGPL-3.0 · 推送 2026-08-20 · [GitHub](https://github.com/JiSenHua/ComfyUI-TD) · 个人维护 · 中文 README
+⭐ 168 · Python · AGPL-3.0 · 推送 2026-08-20 · [GitHub](https://github.com/JiSenHua/ComfyUI-TD) · 个人维护 · 中文 README
 
 **将 ComfyUI 生成内容实时串流到 TouchDesigner 的自定义节点**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点集合，通过 WebSocket 将 ComfyUI 生成的图像、�
 ```mermaid
 xychart-beta
     title "JiSenHua/ComfyUI-TD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 166 --> 168
-    line [167, 167]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 166 --> 169
+    line [167, 168]
 ```
 
-2026-10-18 167 → 2026-10-23 167（+0）
+2026-10-18 167 → 2026-10-24 168（+1）
 
 
 ---

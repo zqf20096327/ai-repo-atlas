@@ -1,6 +1,6 @@
 # Dokploy/mcp
 
-⭐ 408 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Dokploy/mcp) · 组织维护
+⭐ 407 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Dokploy/mcp) · 组织维护
 
 **将 Dokploy 全部 API 端点暴露为 MCP 工具的官方服务器**
 
@@ -45,13 +45,13 @@ Dokploy 官方维护的 MCP Server，把 Dokploy 部署平台的 API（508 个�
 
 ```mermaid
 xychart-beta
-    title "Dokploy/mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "Dokploy/mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 400 --> 409
-    line [401, 402, 406, 408]
+    line [401, 402, 406, 408, 407]
 ```
 
-2026-10-18 401 → 2026-10-23 408（+7）
+2026-10-18 401 → 2026-10-24 407（+6）
 
 
 ---

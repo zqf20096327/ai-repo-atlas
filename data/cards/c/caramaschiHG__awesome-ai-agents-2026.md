@@ -1,6 +1,6 @@
 # caramaschiHG/awesome-ai-agents-2026
 
-⭐ 1,965 · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/caramaschiHG/awesome-ai-agents-2026) · [官网](https://github.com/caramaschiHG/awesome-ai-agents-2026) · 个人维护
+⭐ 1,990 · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/caramaschiHG/awesome-ai-agents-2026) · [官网](https://github.com/caramaschiHG/awesome-ai-agents-2026) · 个人维护
 
 **AI agent 与工具策展清单（340+ 条，20+ 分类，月度更新）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "caramaschiHG/awesome-ai-agents-2026 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1951 --> 1966
-    line [1952, 1958, 1963, 1965]
+    title "caramaschiHG/awesome-ai-agents-2026 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1949 --> 1993
+    line [1952, 1958, 1963, 1965, 1990]
 ```
 
-2026-10-18 1,952 → 2026-10-23 1,965（+13）
+2026-10-18 1,952 → 2026-10-24 1,990（+38）
 
 
 ---

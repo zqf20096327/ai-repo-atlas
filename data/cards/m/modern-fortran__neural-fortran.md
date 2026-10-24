@@ -1,6 +1,6 @@
 # modern-fortran/neural-fortran
 
-⭐ 477 · Fortran · MIT · 推送 2026-10-05 · [GitHub](https://github.com/modern-fortran/neural-fortran) · 组织维护
+⭐ 478 · Fortran · MIT · 推送 2026-10-05 · [GitHub](https://github.com/modern-fortran/neural-fortran) · 组织维护
 
 **Fortran 并行深度学习框架，供科研开发者训练推理神经网络**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "modern-fortran/neural-fortran 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 476 --> 478
-    line [477, 477]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 476 --> 479
+    line [477, 478]
 ```
 
-2026-10-18 477 → 2026-10-23 477（+0）
+2026-10-18 477 → 2026-10-24 478（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # calcitem/Sanmill
 
-⭐ 205 · Dart · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/calcitem/Sanmill) · [官网](https://play.google.com/store/apps/details?id=com.calcitem.sanmill) · 个人维护 · 中文 README
+⭐ 205 · Dart · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/calcitem/Sanmill) · [官网](https://play.google.com/store/apps/details?id=com.calcitem.sanmill) · 个人维护 · 中文 README
 
 **九子棋（直棋）开源游戏：Flutter GUI + Rust AI 引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "calcitem/Sanmill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 204 --> 206
     line [205, 205]
 ```
 
-2026-10-18 205 → 2026-10-23 205（+0）
+2026-10-18 205 → 2026-10-24 205（+0）
 
 
 ---

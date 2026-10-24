@@ -1,6 +1,6 @@
 # unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada
 
-⭐ 1,276 · TypeScript · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada) · [官网](https://unipds.com.br/org-erick-wendel/?utm_source=github&utm_medium=bio&utm_campaign=bolsa_47&utm_term=&utm_content=perfil_erick) · 组织维护
+⭐ 1,281 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada) · [官网](https://unipds.com.br/org-erick-wendel/?utm_source=github&utm_medium=bio&utm_campaign=bolsa_47&utm_term=&utm_content=perfil_erick) · 组织维护
 
 **软件工程与应用 AI 研究生课程的参考资料与示例代码清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1267 --> 1277
-    line [1268, 1272, 1276, 1276]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1267 --> 1282
+    line [1268, 1272, 1276, 1281]
 ```
 
-2026-10-18 1,268 → 2026-10-23 1,276（+8）
+2026-10-18 1,268 → 2026-10-24 1,281（+13）
 
 
 ---

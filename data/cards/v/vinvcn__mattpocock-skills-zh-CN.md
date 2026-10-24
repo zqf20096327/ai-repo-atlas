@@ -1,6 +1,6 @@
 # vinvcn/mattpocock-skills-zh-CN
 
-⭐ 5,200 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/vinvcn/mattpocock-skills-zh-CN) · [官网](https://skills.sh/vinvcn/mattpocock-skills-zh-CN) · 个人维护 · 中文 README
+⭐ 5,231 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/vinvcn/mattpocock-skills-zh-CN) · [官网](https://skills.sh/vinvcn/mattpocock-skills-zh-CN) · 个人维护 · 中文 README
 
 **Matt Pocock coding agent skills 的简体中文本地化仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vinvcn/mattpocock-skills-zh-CN 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
-    y-axis "stars" 5154 --> 5204
-    line [5158, 5200]
+    title "vinvcn/mattpocock-skills-zh-CN 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5151 --> 5238
+    line [5158, 5200, 5231]
 ```
 
-2026-10-22 5,158 → 2026-10-23 5,200（+42）
+2026-10-22 5,158 → 2026-10-24 5,231（+73）
 
 
 ---

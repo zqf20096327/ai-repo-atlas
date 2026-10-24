@@ -1,6 +1,6 @@
 # microsoft/markitdown
 
-⭐ 191,639 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/markitdown) · 组织维护
+⭐ 191,799 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/markitdown) · 组织维护
 
 **面向 LLM 场景的文件转 Markdown Python 工具**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/markitdown 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 190656 --> 191728
-    line [190745, 191103, 191434, 191639]
+    title "microsoft/markitdown 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 190640 --> 191904
+    line [190745, 191103, 191434, 191639, 191799]
 ```
 
-2026-10-18 190,745 → 2026-10-23 191,639（+894）
+2026-10-18 190,745 → 2026-10-24 191,799（+1,054）
 
 
 ---

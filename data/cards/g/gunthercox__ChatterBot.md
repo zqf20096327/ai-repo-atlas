@@ -1,6 +1,6 @@
 # gunthercox/ChatterBot
 
-⭐ 14,521 · Python · BSD-3-Clause · 推送 2026-08-25 · [GitHub](https://github.com/gunthercox/ChatterBot) · [官网](http://docs.chatterbot.us/) · 个人维护
+⭐ 14,520 · Python · BSD-3-Clause · 推送 2026-08-25 · [GitHub](https://github.com/gunthercox/ChatterBot) · [官网](http://docs.chatterbot.us/) · 个人维护
 
 **面向开发者的 Python 机器学习对话引擎，用于创建聊天机器人**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "gunthercox/ChatterBot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 14519 --> 14522
-    line [14520, 14521, 14521]
+    line [14520, 14521, 14520]
 ```
 
-2026-10-18 14,520 → 2026-10-23 14,521（+1）
+2026-10-18 14,520 → 2026-10-24 14,520（+0）
 
 
 ---

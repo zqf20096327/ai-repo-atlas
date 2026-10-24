@@ -1,6 +1,6 @@
 # dataease/SQLBot
 
-⭐ 6,945 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dataease/SQLBot) · [官网](https://sqlbot.org/) · 组织维护 · 中文 README
+⭐ 6,955 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/dataease/SQLBot) · [官网](https://sqlbot.org/) · 组织维护 · 中文 README
 
 **基于大模型与 RAG 的对话式问数系统（ChatBI/Text-to-SQL）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dataease/SQLBot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6920 --> 6947
-    line [6922, 6927, 6935, 6945]
+    title "dataease/SQLBot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6919 --> 6958
+    line [6922, 6927, 6935, 6945, 6955]
 ```
 
-2026-10-18 6,922 → 2026-10-23 6,945（+23）
+2026-10-18 6,922 → 2026-10-24 6,955（+33）
 
 
 ---

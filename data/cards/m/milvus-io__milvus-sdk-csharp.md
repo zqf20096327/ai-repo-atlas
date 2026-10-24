@@ -1,6 +1,6 @@
 # milvus-io/milvus-sdk-csharp
 
-⭐ 138 · C# · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/milvus-io/milvus-sdk-csharp) · 组织维护
+⭐ 138 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/milvus-io/milvus-sdk-csharp) · 组织维护
 
 **Milvus 向量数据库的官方 C#/.NET SDK**
 
@@ -45,12 +45,12 @@ Milvus 官方 C# SDK，以 NuGet 包分发，供 .NET 应用连接 Milvus 向量
 ```mermaid
 xychart-beta
     title "milvus-io/milvus-sdk-csharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 137 --> 139
     line [138, 138]
 ```
 
-2026-10-18 138 → 2026-10-23 138（+0）
+2026-10-18 138 → 2026-10-24 138（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mastra-ai/mastra
 
-⭐ 29,011 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/mastra-ai/mastra) · [官网](https://mastra.ai) · 组织维护
+⭐ 29,036 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/mastra-ai/mastra) · [官网](https://mastra.ai) · 组织维护
 
 **面向开发者的 TypeScript AI 应用与 Agent 框架**
 
@@ -53,13 +53,13 @@ Mastra 提供基于 TypeScript 的框架，用于构建 AI 应用与 Agent，覆
 
 ```mermaid
 xychart-beta
-    title "mastra-ai/mastra 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 28850 --> 29025
-    line [28864, 28917, 28976, 29011]
+    title "mastra-ai/mastra 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 28847 --> 29053
+    line [28864, 28917, 28976, 29011, 29036]
 ```
 
-2026-10-18 28,864 → 2026-10-23 29,011（+147）
+2026-10-18 28,864 → 2026-10-24 29,036（+172）
 
 
 ---

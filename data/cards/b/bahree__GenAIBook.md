@@ -1,6 +1,6 @@
 # bahree/GenAIBook
 
-⭐ 145 · Python · MIT · 推送 2025-10-27 · [GitHub](https://github.com/bahree/GenAIBook) · [官网](https://www.manning.com/books/generative-ai-in-action) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **《Generative AI in Action》书籍配套代码与论文清单仓库**
 
@@ -11,7 +11,7 @@ Manning 出版书籍 Generative AI in Action 的官方代码仓库：按章节�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

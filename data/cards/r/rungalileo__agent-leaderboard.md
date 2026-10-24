@@ -46,12 +46,12 @@ Galileo 维护的 agent 评测框架与公开排行榜：v1 基于 BFCL、τ-ben
 ```mermaid
 xychart-beta
     title "rungalileo/agent-leaderboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 225 --> 227
     line [226, 226]
 ```
 
-2026-10-18 226 → 2026-10-23 226（+0）
+2026-10-18 226 → 2026-10-24 226（+0）
 
 
 ---

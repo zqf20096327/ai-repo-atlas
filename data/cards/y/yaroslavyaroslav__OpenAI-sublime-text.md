@@ -1,6 +1,6 @@
 # yaroslavyaroslav/OpenAI-sublime-text
 
-⭐ 466 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) · 个人维护
+⭐ 467 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) · 个人维护
 
 **Sublime Text 编辑器的 AI 助手插件，支持多模型对话与补全**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yaroslavyaroslav/OpenAI-sublime-text 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 465 --> 467
-    line [466, 466]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 465 --> 468
+    line [466, 467]
 ```
 
-2026-10-18 466 → 2026-10-23 466（+0）
+2026-10-18 466 → 2026-10-24 467（+1）
 
 
 ---

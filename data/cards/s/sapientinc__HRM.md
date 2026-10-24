@@ -1,6 +1,6 @@
 # sapientinc/HRM
 
-⭐ 12,660 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/sapientinc/HRM) · [官网](https://sapient.inc) · 组织维护
+⭐ 12,659 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/sapientinc/HRM) · [官网](https://sapient.inc) · 组织维护
 
 **27M 参数的两层级联循环推理模型官方实现**
 
@@ -44,13 +44,13 @@ Sapient 公司发布的 Hierarchical Reasoning Model（HRM）官方代码库：�
 
 ```mermaid
 xychart-beta
-    title "sapientinc/HRM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "sapientinc/HRM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 12656 --> 12661
-    line [12657, 12659, 12660]
+    line [12657, 12659, 12660, 12659]
 ```
 
-2026-10-18 12,657 → 2026-10-23 12,660（+3）
+2026-10-18 12,657 → 2026-10-24 12,659（+2）
 
 
 ---

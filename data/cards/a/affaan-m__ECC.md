@@ -1,6 +1,6 @@
 # affaan-m/ECC
 
-⭐ 286,318 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/affaan-m/ECC) · [官网](https://ecc.tools) · 个人维护
+⭐ 287,146 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/affaan-m/ECC) · [官网](https://ecc.tools) · 个人维护
 
 **为 Claude Code 等 AI 编码 harness 安装 agent 工程系统的插件**
 
@@ -52,13 +52,13 @@ ECC 是面向 AI 编码代理的开源 harness 系统，以 Claude Code 插件�
 
 ```mermaid
 xychart-beta
-    title "affaan-m/ECC 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 281703 --> 286737
-    line [282122, 283940, 286318]
+    title "affaan-m/ECC 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 281620 --> 287648
+    line [282122, 283940, 286318, 287146]
 ```
 
-2026-10-18 282,122 → 2026-10-23 286,318（+4,196）
+2026-10-18 282,122 → 2026-10-24 287,146（+5,024）
 
 
 ---

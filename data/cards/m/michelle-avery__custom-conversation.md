@@ -46,12 +46,12 @@ Home Assistant 的自定义对话 agent 集成：通过 LiteLLM 兼容多家 LLM
 ```mermaid
 xychart-beta
     title "michelle-avery/custom-conversation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-18 98 → 2026-10-23 98（+0）
+2026-10-18 98 → 2026-10-24 98（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # qiaohaoforever/DeepLearningFromScratch
 
-⭐ 1,296 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/qiaohaoforever/DeepLearningFromScratch) · 个人维护 · 中文 README
+⭐ 1,298 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/qiaohaoforever/DeepLearningFromScratch) · 个人维护 · 中文 README
 
 **《深度学习入门》书籍配套源代码与电子版仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "qiaohaoforever/DeepLearningFromScratch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1287 --> 1297
-    line [1288, 1293, 1296, 1296]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1287 --> 1299
+    line [1288, 1293, 1296, 1298]
 ```
 
-2026-10-18 1,288 → 2026-10-23 1,296（+8）
+2026-10-18 1,288 → 2026-10-24 1,298（+10）
 
 
 ---

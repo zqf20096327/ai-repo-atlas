@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mah3Sec/ForgeGuardian 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Mah3Sec/ForgeGuardian 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 96 --> 107
-    line [106, 97]
+    line [106, 97, 97]
 ```
 
-2026-10-18 106 → 2026-10-23 97（-9）
+2026-10-18 106 → 2026-10-24 97（-9）
 
 
 ---

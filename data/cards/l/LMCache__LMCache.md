@@ -1,6 +1,6 @@
 # LMCache/LMCache
 
-⭐ 12,150 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/LMCache/LMCache) · [官网](https://lmcache.ai/) · 组织维护
+⭐ 12,155 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/LMCache/LMCache) · [官网](https://lmcache.ai/) · 组织维护
 
 **LLM 推理的 KV 缓存管理层：跨引擎持久化存储与复用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LMCache/LMCache 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 12101 --> 12154
-    line [12105, 12116, 12150]
+    title "LMCache/LMCache 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 12100 --> 12160
+    line [12105, 12116, 12150, 12155]
 ```
 
-2026-10-18 12,105 → 2026-10-23 12,150（+45）
+2026-10-18 12,105 → 2026-10-24 12,155（+50）
 
 
 ---

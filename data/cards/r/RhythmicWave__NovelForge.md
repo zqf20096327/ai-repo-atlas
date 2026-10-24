@@ -1,6 +1,6 @@
 # RhythmicWave/NovelForge
 
-⭐ 1,256 · Python · AGPL-3.0 · 推送 2026-09-23 · [GitHub](https://github.com/RhythmicWave/NovelForge) · 组织维护 · 中文 README
+⭐ 1,255 · Python · AGPL-3.0 · 推送 2026-09-23 · [GitHub](https://github.com/RhythmicWave/NovelForge) · 组织维护 · 中文 README
 
 **面向长篇小说作者的卡片式 AI 辅助创作桌面应用**
 
@@ -45,13 +45,13 @@ Electron + FastAPI 架构的 AI 长篇小说创作工具：以模块化卡片组
 
 ```mermaid
 xychart-beta
-    title "RhythmicWave/NovelForge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "RhythmicWave/NovelForge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1246 --> 1257
-    line [1247, 1250, 1256]
+    line [1247, 1250, 1256, 1255]
 ```
 
-2026-10-18 1,247 → 2026-10-23 1,256（+9）
+2026-10-18 1,247 → 2026-10-24 1,255（+8）
 
 
 ---

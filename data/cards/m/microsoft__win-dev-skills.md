@@ -1,6 +1,6 @@
 # microsoft/win-dev-skills
 
-⭐ 476 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/win-dev-skills) · 组织维护
+⭐ 479 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/win-dev-skills) · 组织维护
 
 **微软维护的 Windows 开发 AI agent 插件/技能目录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/win-dev-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 471 --> 477
-    line [472, 475, 476, 476]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 471 --> 480
+    line [472, 475, 476, 479]
 ```
 
-2026-10-18 472 → 2026-10-23 476（+4）
+2026-10-18 472 → 2026-10-24 479（+7）
 
 
 ---

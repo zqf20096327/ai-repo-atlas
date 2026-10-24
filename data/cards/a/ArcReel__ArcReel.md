@@ -1,6 +1,6 @@
 # ArcReel/ArcReel
 
-⭐ 5,664 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ArcReel/ArcReel) · [官网](https://arc-reel.com) · 组织维护 · 中文 README
+⭐ 5,690 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ArcReel/ArcReel) · [官网](https://arc-reel.com) · 组织维护 · 中文 README
 
 **自托管 AI 视频生产工作台：小说/剧本转角色一致短视频**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArcReel/ArcReel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5540 --> 5675
-    line [5551, 5593, 5638, 5664]
+    title "ArcReel/ArcReel 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5538 --> 5703
+    line [5551, 5593, 5638, 5664, 5690]
 ```
 
-2026-10-18 5,551 → 2026-10-23 5,664（+113）
+2026-10-18 5,551 → 2026-10-24 5,690（+139）
 
 
 ---

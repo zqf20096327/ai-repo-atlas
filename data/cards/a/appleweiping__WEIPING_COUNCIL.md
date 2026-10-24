@@ -41,6 +41,18 @@
 > L52: |`council`|all answer, each ranks the others anonymously, the chairman synthesizes|13|
 > L82: use `openai/gpt-5.5` through OpenRouter and the bulk worker uses
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "appleweiping/WEIPING_COUNCIL 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 130 --> 132
+    line [131, 131]
+```
+
+2026-10-23 131 → 2026-10-24 131（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `e25cec72e31c` · [字段定义](../../DATASET.md)*

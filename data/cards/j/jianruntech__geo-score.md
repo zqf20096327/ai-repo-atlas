@@ -1,6 +1,6 @@
 # jianruntech/geo-score
 
-⭐ 32 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/jianruntech/geo-score) · [官网](https://www.jianruntech.com/leaderboard) · 组织维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jianruntech/geo-score) · [官网](https://geo-score.dev) · 组织维护 · 中文 README
 
 **网站 AI 可见性（GEO）评分器：测 AI 引擎能否引用你的站点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jianruntech/geo-score 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "jianruntech/geo-score 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 3 --> 353
-    line [324, 318, 311, 32]
+    line [324, 318, 311, 32, 32]
 ```
 
-2026-10-18 324 → 2026-10-23 32（-292）
+2026-10-18 324 → 2026-10-24 32（-292）
 
 
 ---

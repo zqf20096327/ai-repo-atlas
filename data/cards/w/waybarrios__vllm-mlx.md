@@ -1,6 +1,6 @@
 # waybarrios/vllm-mlx
 
-⭐ 1,633 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/waybarrios/vllm-mlx) · [官网](https://vllm-mlx.is-a.dev/) · 个人维护 · 中文 README
+⭐ 1,636 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/waybarrios/vllm-mlx) · [官网](https://vllm-mlx.is-a.dev/) · 个人维护 · 中文 README
 
 **Apple Silicon 上的本地 LLM 推理服务器：OpenAI/Anthropic 双协议**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "waybarrios/vllm-mlx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1624 --> 1634
-    line [1625, 1626, 1630, 1633]
+    title "waybarrios/vllm-mlx 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1624 --> 1637
+    line [1625, 1626, 1630, 1633, 1636]
 ```
 
-2026-10-18 1,625 → 2026-10-23 1,633（+8）
+2026-10-18 1,625 → 2026-10-24 1,636（+11）
 
 
 ---

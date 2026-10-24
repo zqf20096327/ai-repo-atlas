@@ -1,6 +1,6 @@
 # AgentR1/Agent-R1
 
-⭐ 1,705 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AgentR1/Agent-R1) · 组织维护 · 中文 README
+⭐ 1,706 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AgentR1/Agent-R1) · 组织维护 · 中文 README
 
 **训练多步 LLM agent 的端到端强化学习框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentR1/Agent-R1 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1696 --> 1706
-    line [1697, 1700, 1705]
+    title "AgentR1/Agent-R1 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1696 --> 1707
+    line [1697, 1700, 1705, 1706]
 ```
 
-2026-10-18 1,697 → 2026-10-23 1,705（+8）
+2026-10-18 1,697 → 2026-10-24 1,706（+9）
 
 
 ---

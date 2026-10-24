@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tedhappy/ragflow-admin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "tedhappy/ragflow-admin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 267 --> 270
-    line [268, 269]
+    line [268, 269, 269]
 ```
 
-2026-10-18 268 → 2026-10-23 269（+1）
+2026-10-18 268 → 2026-10-24 269（+1）
 
 
 ---

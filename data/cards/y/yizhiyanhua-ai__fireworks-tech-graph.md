@@ -1,6 +1,6 @@
 # yizhiyanhua-ai/fireworks-tech-graph
 
-⭐ 11,813 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) · [官网](https://yizhiyanhua-ai.github.io/fireworks-tech-graph/) · 个人维护 · 中文 README
+⭐ 11,828 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) · [官网](https://yizhiyanhua-ai.github.io/fireworks-tech-graph/) · 个人维护 · 中文 README
 
 **从自然语言生成技术图表的 Agent 技能（SVG/PNG/GIF/HTML）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yizhiyanhua-ai/fireworks-tech-graph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11752 --> 11818
-    line [11757, 11775, 11798, 11813]
+    title "yizhiyanhua-ai/fireworks-tech-graph 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11750 --> 11835
+    line [11757, 11775, 11798, 11813, 11828]
 ```
 
-2026-10-18 11,757 → 2026-10-23 11,813（+56）
+2026-10-18 11,757 → 2026-10-24 11,828（+71）
 
 
 ---

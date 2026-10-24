@@ -1,6 +1,6 @@
 # sandbox-quantum/switch
 
-⭐ 1,243 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/sandbox-quantum/switch) · [官网](https://www.switchagents.ai) · 组织维护
+⭐ 1,427 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/sandbox-quantum/switch) · [官网](https://www.switchagents.ai) · 组织维护
 
 **把 AI agent 以队友形式接入团队聊天平台的自托管网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sandbox-quantum/switch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 726 --> 1290
-    line [773, 797, 860, 1243]
+    title "sandbox-quantum/switch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 708 --> 1492
+    line [773, 797, 860, 1243, 1427]
 ```
 
-2026-10-18 773 → 2026-10-23 1,243（+470）
+2026-10-18 773 → 2026-10-24 1,427（+654）
 
 
 ---

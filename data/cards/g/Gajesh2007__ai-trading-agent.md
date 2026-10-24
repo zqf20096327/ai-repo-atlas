@@ -1,6 +1,6 @@
 # Gajesh2007/ai-trading-agent
 
-⭐ 554 · Python · 推送 2025-10-27 · [GitHub](https://github.com/Gajesh2007/ai-trading-agent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 Hyperliquid 上用 LLM 分析行情并自动执行交易的代理**
 

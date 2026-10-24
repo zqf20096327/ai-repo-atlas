@@ -1,6 +1,6 @@
 # datawhalechina/diy-llm
 
-⭐ 1,533 · Jupyter Notebook · 推送 2026-10-09 · [GitHub](https://github.com/datawhalechina/diy-llm) · [官网](https://datawhalechina.github.io/diy-llm/) · 组织维护 · 中文 README
+⭐ 1,628 · Jupyter Notebook · 推送 2026-10-09 · [GitHub](https://github.com/datawhalechina/diy-llm) · [官网](https://datawhalechina.github.io/diy-llm/) · 组织维护 · 中文 README
 
 **面向中文学习者的 LLM 全栈中文课程（CS336 中文版，6 项代码作业）**
 
@@ -44,13 +44,13 @@ Datawhale 维护的中文开源课程，基于 Stanford CS336 内容做本土化
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/diy-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1504 --> 1535
-    line [1506, 1519, 1533]
+    title "datawhalechina/diy-llm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1494 --> 1640
+    line [1506, 1519, 1533, 1628]
 ```
 
-2026-10-18 1,506 → 2026-10-23 1,533（+27）
+2026-10-18 1,506 → 2026-10-24 1,628（+122）
 
 
 ---

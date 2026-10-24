@@ -1,6 +1,6 @@
 # ihor-sokoliuk/mcp-searxng
 
-⭐ 1,322 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ihor-sokoliuk/mcp-searxng) · [官网](https://www.npmjs.com/package/mcp-searxng) · 个人维护
+⭐ 1,328 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ihor-sokoliuk/mcp-searxng) · [官网](https://www.npmjs.com/package/mcp-searxng) · 个人维护
 
 **为 AI 助手接入 SearXNG 隐私搜索的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ihor-sokoliuk/mcp-searxng 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1312 --> 1323
-    line [1313, 1316, 1322, 1322]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1312 --> 1329
+    line [1313, 1316, 1322, 1328]
 ```
 
-2026-10-18 1,313 → 2026-10-23 1,322（+9）
+2026-10-18 1,313 → 2026-10-24 1,328（+15）
 
 
 ---

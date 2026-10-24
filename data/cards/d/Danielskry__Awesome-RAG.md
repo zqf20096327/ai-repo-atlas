@@ -1,6 +1,6 @@
 # Danielskry/Awesome-RAG
 
-⭐ 1,411 · CC0-1.0 · 推送 2026-10-06 · [GitHub](https://github.com/Danielskry/Awesome-RAG) · 个人维护
+⭐ 1,413 · CC0-1.0 · 推送 2026-10-06 · [GitHub](https://github.com/Danielskry/Awesome-RAG) · 个人维护
 
 **RAG 生态策展清单：工具、框架、技术与学习资源导航**
 
@@ -44,13 +44,13 @@ Awesome 风格的检索增强生成（RAG）资源清单，面向构建 RAG 应�
 
 ```mermaid
 xychart-beta
-    title "Danielskry/Awesome-RAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1398 --> 1412
-    line [1399, 1403, 1408, 1411]
+    title "Danielskry/Awesome-RAG 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1398 --> 1414
+    line [1399, 1403, 1408, 1411, 1413]
 ```
 
-2026-10-18 1,399 → 2026-10-23 1,411（+12）
+2026-10-18 1,399 → 2026-10-24 1,413（+14）
 
 
 ---

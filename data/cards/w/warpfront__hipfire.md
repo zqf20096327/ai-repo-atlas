@@ -1,6 +1,6 @@
 # warpfront/hipfire
 
-⭐ 730 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/warpfront/hipfire) · 组织维护
+⭐ 734 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/warpfront/hipfire) · 组织维护
 
 **面向 AMD GPU 的 Rust 本地 LLM 推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "warpfront/hipfire 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 686 --> 734
-    line [690, 709, 726, 730]
+    title "warpfront/hipfire 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 686 --> 738
+    line [690, 709, 726, 730, 734]
 ```
 
-2026-10-18 690 → 2026-10-23 730（+40）
+2026-10-18 690 → 2026-10-24 734（+44）
 
 
 ---

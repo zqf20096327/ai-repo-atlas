@@ -1,6 +1,6 @@
 # AltanS/collie
 
-⭐ 1,436 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AltanS/collie) · [官网](https://colliepwa.dev/) · 个人维护
+⭐ 1,442 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AltanS/collie) · [官网](https://colliepwa.dev/) · 个人维护
 
 **从手机驱动终端 AI 编码 agent 的自托管 PWA 客户端**
 
@@ -44,13 +44,13 @@ ColliePWA 是开源（MIT）的自托管移动 Web 应用，用于从 iPhone/And
 
 ```mermaid
 xychart-beta
-    title "AltanS/collie 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1373 --> 1441
-    line [1378, 1402, 1423, 1436]
+    title "AltanS/collie 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1372 --> 1448
+    line [1378, 1402, 1423, 1436, 1442]
 ```
 
-2026-10-18 1,378 → 2026-10-23 1,436（+58）
+2026-10-18 1,378 → 2026-10-24 1,442（+64）
 
 
 ---

@@ -1,6 +1,6 @@
 # freestylefly/wesight
 
-⭐ 955 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/freestylefly/wesight) · [官网](https://wesight.ai) · 个人维护 · 中文 README
+⭐ 956 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/freestylefly/wesight) · [官网](https://wesight.ai) · 个人维护 · 中文 README
 
 **桌面 AI agent 工作台：统一安装、运行与监控本地编码 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "freestylefly/wesight 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 950 --> 956
-    line [951, 954, 955]
+    title "freestylefly/wesight 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 950 --> 957
+    line [951, 954, 955, 956]
 ```
 
-2026-10-18 951 → 2026-10-23 955（+4）
+2026-10-18 951 → 2026-10-24 956（+5）
 
 
 ---

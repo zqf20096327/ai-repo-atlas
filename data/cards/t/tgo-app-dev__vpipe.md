@@ -1,6 +1,6 @@
 # tgo-app-dev/vpipe
 
-⭐ 220 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tgo-app-dev/vpipe) · 组织维护 · 中文 README
+⭐ 220 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tgo-app-dev/vpipe) · 组织维护 · 中文 README
 
 **Apple Silicon 上的本地多模态 AI 推理运行时与 macOS 应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tgo-app-dev/vpipe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "tgo-app-dev/vpipe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 210 --> 221
-    line [211, 216, 220]
+    line [211, 216, 220, 220]
 ```
 
-2026-10-18 211 → 2026-10-23 220（+9）
+2026-10-18 211 → 2026-10-24 220（+9）
 
 
 ---

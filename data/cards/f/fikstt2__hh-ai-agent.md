@@ -1,6 +1,6 @@
 # fikstt2/hh-ai-agent
 
-⭐ 248 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/fikstt2/hh-ai-agent) · 个人维护
+⭐ 249 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/fikstt2/hh-ai-agent) · 个人维护
 
 **HH.ru 求职自动应答机器人：LLM 筛选职位并生成求职信**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fikstt2/hh-ai-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 245 --> 249
-    line [246, 247, 248]
+    title "fikstt2/hh-ai-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 245 --> 250
+    line [246, 247, 248, 249]
 ```
 
-2026-10-18 246 → 2026-10-23 248（+2）
+2026-10-18 246 → 2026-10-24 249（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ArcadeData/arcadedb
 
-⭐ 1,213 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ArcadeData/arcadedb) · [官网](https://arcadedb.com) · 组织维护
+⭐ 1,215 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ArcadeData/arcadedb) · [官网](https://arcadedb.com) · 组织维护
 
 **面向开发者的多模型数据库：图/文档/KV/向量/时序一体化 DBMS**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArcadeData/arcadedb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1204 --> 1215
-    line [1205, 1209, 1214, 1213]
+    title "ArcadeData/arcadedb 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1204 --> 1216
+    line [1205, 1209, 1214, 1213, 1215]
 ```
 
-2026-10-18 1,205 → 2026-10-23 1,213（+8）
+2026-10-18 1,205 → 2026-10-24 1,215（+10）
 
 
 ---

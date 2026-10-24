@@ -1,6 +1,6 @@
 # LC044/TrailSnap
 
-⭐ 801 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/LC044/TrailSnap) · [官网](https://trailsnap.cn/) · 个人维护 · 中文 README
+⭐ 802 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/LC044/TrailSnap) · [官网](https://trailsnap.cn/) · 个人维护 · 中文 README
 
 **面向个人与家庭的 AI 相册：自动整理识别旅行与生活照片**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LC044/TrailSnap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 790 --> 802
-    line [791, 792, 797, 801]
+    title "LC044/TrailSnap 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 790 --> 803
+    line [791, 792, 797, 801, 802]
 ```
 
-2026-10-18 791 → 2026-10-23 801（+10）
+2026-10-18 791 → 2026-10-24 802（+11）
 
 
 ---

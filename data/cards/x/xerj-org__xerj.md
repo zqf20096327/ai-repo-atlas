@@ -1,6 +1,6 @@
 # xerj-org/xerj
 
-⭐ 13,066 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/xerj-org/xerj) · [官网](https://xerj.org) · 组织维护
+⭐ 14,131 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xerj-org/xerj) · [官网](https://xerj.org) · 组织维护
 
 **本地 AI 搜索引擎：一条命令索引任意文件夹供 agent 检索**
 
@@ -45,13 +45,13 @@ Rust 编写的本地搜索引擎，以单一静态二进制分发。`xerj autoin
 
 ```mermaid
 xychart-beta
-    title "xerj-org/xerj 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7015 --> 13616
-    line [7565, 10418, 12650, 13066]
+    title "xerj-org/xerj 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6909 --> 14787
+    line [7565, 10418, 12650, 13066, 14131]
 ```
 
-2026-10-18 7,565 → 2026-10-23 13,066（+5,501）
+2026-10-18 7,565 → 2026-10-24 14,131（+6,566）
 
 
 ---

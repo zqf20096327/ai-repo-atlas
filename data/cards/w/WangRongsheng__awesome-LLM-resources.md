@@ -1,6 +1,6 @@
 # WangRongsheng/awesome-LLM-resources
 
-⭐ 9,035 · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/WangRongsheng/awesome-LLM-resources) · 个人维护 · 中文 README
+⭐ 9,036 · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/WangRongsheng/awesome-LLM-resources) · 个人维护 · 中文 README
 
 **LLM 学习资源汇总清单：数据、微调、推理、Agent 等**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "WangRongsheng/awesome-LLM-resources 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 9024 --> 9036
-    line [9025, 9027, 9033, 9035]
+    title "WangRongsheng/awesome-LLM-resources 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9024 --> 9037
+    line [9025, 9027, 9033, 9035, 9036]
 ```
 
-2026-10-18 9,025 → 2026-10-23 9,035（+10）
+2026-10-18 9,025 → 2026-10-24 9,036（+11）
 
 
 ---

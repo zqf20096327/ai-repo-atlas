@@ -1,6 +1,6 @@
 # NoFxAiOS/nofx
 
-⭐ 13,131 · Go · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/NoFxAiOS/nofx) · [官网](https://vergex.trade/explore) · 组织维护 · 中文 README
+⭐ 13,136 · Go · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/NoFxAiOS/nofx) · [官网](https://vergex.trade/explore) · 组织维护 · 中文 README
 
 **自托管 AI 交易系统：人审下单与连续策略执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NoFxAiOS/nofx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 13091 --> 13134
-    line [13094, 13110, 13122, 13131]
+    title "NoFxAiOS/nofx 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 13090 --> 13140
+    line [13094, 13110, 13122, 13131, 13136]
 ```
 
-2026-10-18 13,094 → 2026-10-23 13,131（+37）
+2026-10-18 13,094 → 2026-10-24 13,136（+42）
 
 
 ---

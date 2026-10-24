@@ -1,6 +1,6 @@
 # 410979729/scope-recall-hermes
 
-⭐ 448 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/410979729/scope-recall-hermes) · 个人维护 · 中文 README
+⭐ 456 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/410979729/scope-recall-hermes) · 个人维护 · 中文 README
 
 **多 agent 共享的本地长期记忆核心：SQLite 事实库+向量检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "410979729/scope-recall-hermes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 381 --> 454
-    line [387, 415, 435, 448]
+    title "410979729/scope-recall-hermes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 381 --> 462
+    line [387, 415, 435, 448, 456]
 ```
 
-2026-10-18 387 → 2026-10-23 448（+61）
+2026-10-18 387 → 2026-10-24 456（+69）
 
 
 ---

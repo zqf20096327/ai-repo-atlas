@@ -1,6 +1,6 @@
 # hi-godot/godot-ai
 
-⭐ 3,141 · GDScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hi-godot/godot-ai) · 个人维护
+⭐ 3,167 · GDScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/hi-godot/godot-ai) · 个人维护
 
 **把 MCP 客户端接入 Godot 编辑器的 MCP 服务器与工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hi-godot/godot-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3026 --> 3151
-    line [3036, 3084, 3122, 3141]
+    title "hi-godot/godot-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3023 --> 3180
+    line [3036, 3084, 3122, 3141, 3167]
 ```
 
-2026-10-18 3,036 → 2026-10-23 3,141（+105）
+2026-10-18 3,036 → 2026-10-24 3,167（+131）
 
 
 ---

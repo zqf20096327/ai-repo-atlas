@@ -1,6 +1,6 @@
 # shenweichen/DeepCTR
 
-⭐ 8,048 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/shenweichen/DeepCTR) · [官网](https://deepctr-doc.readthedocs.io/en/latest/index.html) · 个人维护 · 中文 README
+⭐ 8,049 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/shenweichen/DeepCTR) · [官网](https://deepctr-doc.readthedocs.io/en/latest/index.html) · 个人维护 · 中文 README
 
 **基于深度学习的 CTR 预估模型库，含 29 种论文模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shenweichen/DeepCTR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 8047 --> 8051
-    line [8050, 8048, 8048]
+    line [8050, 8048, 8049]
 ```
 
-2026-10-18 8,050 → 2026-10-23 8,048（-2）
+2026-10-18 8,050 → 2026-10-24 8,049（-1）
 
 
 ---

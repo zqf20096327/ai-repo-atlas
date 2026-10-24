@@ -1,6 +1,6 @@
 # EgoAlpha/prompt-in-context-learning
 
-⭐ 2,247 · Jupyter Notebook · MIT · 推送 2026-05-29 · [GitHub](https://github.com/EgoAlpha/prompt-in-context-learning) · [官网](https://egoalpha.com) · 组织维护 · 中文 README
+⭐ 2,249 · Jupyter Notebook · MIT · 推送 2026-05-29 · [GitHub](https://github.com/EgoAlpha/prompt-in-context-learning) · [官网](https://egoalpha.com) · 组织维护 · 中文 README
 
 **上下文学习与提示工程的开源资源清单：论文、提示技术与LLM使用指南**
 
@@ -46,12 +46,12 @@ EgoAlpha Lab 维护的 Awesome 类资源汇编，按 Papers、Playground、Promp
 ```mermaid
 xychart-beta
     title "EgoAlpha/prompt-in-context-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2245 --> 2248
-    line [2246, 2247, 2247]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 2245 --> 2250
+    line [2246, 2247, 2249]
 ```
 
-2026-10-18 2,246 → 2026-10-23 2,247（+1）
+2026-10-18 2,246 → 2026-10-24 2,249（+3）
 
 
 ---

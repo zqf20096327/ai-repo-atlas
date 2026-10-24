@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-cli
 
-⭐ 291 · TypeScript · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/SonarSource/sonarqube-cli) · [官网](https://cli.sonarqube.com/) · 组织维护
+⭐ 291 · TypeScript · LGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/SonarSource/sonarqube-cli) · [官网](https://cli.sonarqube.com/) · 组织维护
 
 **SonarQube 官方命令行工具：终端内做代码质量与密钥扫描，并接入 AI 编码代理**
 
@@ -46,12 +46,12 @@ SonarSource 发布的 CLI，面向使用 SonarQube Cloud 或自托管 Server（v
 ```mermaid
 xychart-beta
     title "SonarSource/sonarqube-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 288 --> 292
     line [289, 290, 291, 291]
 ```
 
-2026-10-18 289 → 2026-10-23 291（+2）
+2026-10-18 289 → 2026-10-24 291（+2）
 
 
 ---

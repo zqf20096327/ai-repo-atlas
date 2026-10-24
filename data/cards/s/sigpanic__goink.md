@@ -1,6 +1,6 @@
 # sigpanic/goink
 
-⭐ 476 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/sigpanic/goink) · 个人维护 · 中文 README
+⭐ 477 · Go · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/sigpanic/goink) · 个人维护 · 中文 README
 
 **桌面 AI 长篇小说创作系统：结构化记忆 + Agent 自维护**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sigpanic/goink 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 458 --> 477
-    line [459, 471, 474, 476]
+    title "sigpanic/goink 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 458 --> 478
+    line [459, 471, 474, 476, 477]
 ```
 
-2026-10-18 459 → 2026-10-23 476（+17）
+2026-10-18 459 → 2026-10-24 477（+18）
 
 
 ---

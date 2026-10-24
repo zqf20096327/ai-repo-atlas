@@ -1,6 +1,6 @@
 # EvotecIT/OfficeIMO
 
-⭐ 631 · C# · MIT · 推送 2026-10-22 · [GitHub](https://github.com/EvotecIT/OfficeIMO) · [官网](https://officeimo.com/) · 组织维护
+⭐ 632 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/EvotecIT/OfficeIMO) · [官网](https://officeimo.com/) · 组织维护
 
 **.NET 无 COM 办公文档库：读写转换 Office/PDF/邮件等格式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EvotecIT/OfficeIMO 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 573 --> 636
-    line [578, 579, 625, 631]
+    title "EvotecIT/OfficeIMO 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 573 --> 637
+    line [578, 579, 625, 631, 632]
 ```
 
-2026-10-18 578 → 2026-10-23 631（+53）
+2026-10-18 578 → 2026-10-24 632（+54）
 
 
 ---

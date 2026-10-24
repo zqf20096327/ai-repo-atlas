@@ -1,6 +1,6 @@
 # whiteguo233/OpenBiliClaw
 
-⭐ 3,551 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/whiteguo233/OpenBiliClaw) · [官网](https://whiteguo233.github.io/OpenBiliClaw/) · 个人维护 · 中文 README
+⭐ 3,558 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/whiteguo233/OpenBiliClaw) · [官网](https://whiteguo233.github.io/OpenBiliClaw/) · 个人维护 · 中文 README
 
 **本地运行的跨平台个性化 AI 内容发现 Agent**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "whiteguo233/OpenBiliClaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3461 --> 3559
-    line [3469, 3496, 3528, 3551]
+    title "whiteguo233/OpenBiliClaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3461 --> 3566
+    line [3469, 3496, 3528, 3551, 3558]
 ```
 
-2026-10-18 3,469 → 2026-10-23 3,551（+82）
+2026-10-18 3,469 → 2026-10-24 3,558（+89）
 
 
 ---

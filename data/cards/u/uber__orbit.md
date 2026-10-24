@@ -1,6 +1,6 @@
 # uber/orbit
 
-⭐ 2,083 · Python · NOASSERTION · 推送 2026-05-22 · [GitHub](https://github.com/uber/orbit) · [官网](https://orbit-ml.readthedocs.io/en/stable/) · 组织维护
+⭐ 2,082 · Python · NOASSERTION · 推送 2026-05-22 · [GitHub](https://github.com/uber/orbit) · [官网](https://orbit-ml.readthedocs.io/en/stable/) · 组织维护
 
 **贝叶斯时间序列预测 Python 库：概率模型输出预测与推断**
 
@@ -45,12 +45,12 @@ Uber 维护的 Python 时间序列预测与推断库，提供 initialize-fit-pre
 ```mermaid
 xychart-beta
     title "uber/orbit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 2080 --> 2084
-    line [2081, 2082, 2083, 2083]
+    line [2081, 2082, 2083, 2082]
 ```
 
-2026-10-18 2,081 → 2026-10-23 2,083（+2）
+2026-10-18 2,081 → 2026-10-24 2,082（+1）
 
 
 ---

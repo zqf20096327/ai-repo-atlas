@@ -1,6 +1,6 @@
 # rilldata/rill
 
-⭐ 2,959 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/rilldata/rill) · [官网](https://www.rilldata.com) · 组织维护
+⭐ 2,961 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rilldata/rill) · [官网](https://www.rilldata.com) · 组织维护
 
 **面向人与 AI agent 的 BI 工具：以代码定义数据模型、指标与看板**
 
@@ -47,13 +47,13 @@ Rill 是一个以 BI-as-code（YAML + SQL）方式工作的商业智能工具，
 
 ```mermaid
 xychart-beta
-    title "rilldata/rill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2949 --> 2960
-    line [2950, 2954, 2957, 2959]
+    title "rilldata/rill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2949 --> 2962
+    line [2950, 2954, 2957, 2959, 2961]
 ```
 
-2026-10-18 2,950 → 2026-10-23 2,959（+9）
+2026-10-18 2,950 → 2026-10-24 2,961（+11）
 
 
 ---

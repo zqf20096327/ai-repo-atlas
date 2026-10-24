@@ -1,6 +1,6 @@
 # Taewan-P/gpt_mobile
 
-⭐ 1,258 · Kotlin · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/Taewan-P/gpt_mobile) · 个人维护
+⭐ 1,261 · Kotlin · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/Taewan-P/gpt_mobile) · 个人维护
 
 **Android 多模型 AI 聊天客户端，BYOK 接入多家 LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Taewan-P/gpt_mobile 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1256 --> 1259
-    line [1257, 1258, 1258]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 1256 --> 1262
+    line [1257, 1258, 1261]
 ```
 
-2026-10-18 1,257 → 2026-10-23 1,258（+1）
+2026-10-18 1,257 → 2026-10-24 1,261（+4）
 
 
 ---

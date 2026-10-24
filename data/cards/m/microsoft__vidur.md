@@ -1,6 +1,6 @@
 # microsoft/vidur
 
-⭐ 706 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/vidur) · 组织维护
+⭐ 707 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/vidur) · 组织维护
 
 **面向 LLM 推理系统的性能模拟器，用于容量规划与配置搜索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/vidur 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 696 --> 707
-    line [697, 701, 704, 706]
+    title "microsoft/vidur 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 696 --> 708
+    line [697, 701, 704, 706, 707]
 ```
 
-2026-10-18 697 → 2026-10-23 706（+9）
+2026-10-18 697 → 2026-10-24 707（+10）
 
 
 ---

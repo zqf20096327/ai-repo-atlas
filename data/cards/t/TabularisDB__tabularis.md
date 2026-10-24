@@ -1,6 +1,6 @@
 # TabularisDB/tabularis
 
-⭐ 5,265 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/TabularisDB/tabularis) · [官网](https://tabularis.dev) · 组织维护 · 中文 README
+⭐ 5,269 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/TabularisDB/tabularis) · [官网](https://tabularis.dev) · 组织维护 · 中文 README
 
 **开源桌面 SQL 工作台，内置 MCP 服务器供 AI agent 使用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "TabularisDB/tabularis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5227 --> 5268
-    line [5230, 5240, 5251, 5265]
+    title "TabularisDB/tabularis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5227 --> 5272
+    line [5230, 5240, 5251, 5265, 5269]
 ```
 
-2026-10-18 5,230 → 2026-10-23 5,265（+35）
+2026-10-18 5,230 → 2026-10-24 5,269（+39）
 
 
 ---

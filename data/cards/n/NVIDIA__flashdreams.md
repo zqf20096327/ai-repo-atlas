@@ -1,6 +1,6 @@
 # NVIDIA/flashdreams
 
-⭐ 522 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/flashdreams) · [官网](https://nvidia.github.io/flashdreams/) · 组织维护
+⭐ 525 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/flashdreams) · [官网](https://nvidia.github.io/flashdreams/) · 组织维护
 
 **面向交互式自回归视频与世界模型的高性能推理服务库**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的推理与 serving 库，面向交互式自回归视频模型与�
 ```mermaid
 xychart-beta
     title "NVIDIA/flashdreams 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 515 --> 523
-    line [516, 518, 522, 522]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 515 --> 526
+    line [516, 518, 522, 525]
 ```
 
-2026-10-18 516 → 2026-10-23 522（+6）
+2026-10-18 516 → 2026-10-24 525（+9）
 
 
 ---

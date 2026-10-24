@@ -1,6 +1,6 @@
 # snapotter-hq/SnapOtter
 
-⭐ 2,833 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/snapotter-hq/SnapOtter) · [官网](https://snapotter.com) · 个人维护
+⭐ 2,835 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/snapotter-hq/SnapOtter) · [官网](https://snapotter.com) · 个人维护
 
 **自托管文件处理套件：转换/压缩/OCR/转录与本地 AI，文件不出网**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "snapotter-hq/SnapOtter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2823 --> 2834
-    line [2824, 2830, 2829, 2833]
+    title "snapotter-hq/SnapOtter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2823 --> 2836
+    line [2824, 2830, 2829, 2833, 2835]
 ```
 
-2026-10-18 2,824 → 2026-10-23 2,833（+9）
+2026-10-18 2,824 → 2026-10-24 2,835（+11）
 
 
 ---

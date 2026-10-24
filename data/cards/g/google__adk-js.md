@@ -1,6 +1,6 @@
 # google/adk-js
 
-⭐ 1,449 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/adk-js) · [官网](https://adk.dev) · 组织维护
+⭐ 1,448 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/adk-js) · [官网](https://adk.dev) · 组织维护
 
 **Google 的 TypeScript AI agent 开发框架，构建/调试/部署多 agent 系统**
 
@@ -44,13 +44,13 @@ Google 开源的代码优先 TypeScript agent 开发工具包：以代码定义 
 
 ```mermaid
 xychart-beta
-    title "google/adk-js 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "google/adk-js 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1439 --> 1450
-    line [1440, 1442, 1448, 1449]
+    line [1440, 1442, 1448, 1449, 1448]
 ```
 
-2026-10-18 1,440 → 2026-10-23 1,449（+9）
+2026-10-18 1,440 → 2026-10-24 1,448（+8）
 
 
 ---

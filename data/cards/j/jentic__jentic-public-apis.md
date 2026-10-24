@@ -1,6 +1,6 @@
 # jentic/jentic-public-apis
 
-⭐ 263 · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/jentic/jentic-public-apis) · [官网](https://jentic.com/) · 组织维护
+⭐ 264 · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/jentic/jentic-public-apis) · [官网](https://jentic.com/) · 组织维护
 
 **面向 AI agent 的公开 API 知识目录：数千个 OpenAPI 规格与 AI 就绪评分**
 
@@ -45,12 +45,12 @@ Jentic 维护的公开 API 目录仓库：收录数千个 API 的机器可读 Op
 ```mermaid
 xychart-beta
     title "jentic/jentic-public-apis 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
-    y-axis "stars" 262 --> 264
-    line [263, 263]
+    x-axis ["2026-10-22", "2026-10-24"]
+    y-axis "stars" 262 --> 265
+    line [263, 264]
 ```
 
-2026-10-22 263 → 2026-10-23 263（+0）
+2026-10-22 263 → 2026-10-24 264（+1）
 
 
 ---

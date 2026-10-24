@@ -1,6 +1,6 @@
 # Alisa0808/vox-director
 
-⭐ 2,408 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Alisa0808/vox-director) · 个人维护 · 中文 README
+⭐ 2,426 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Alisa0808/vox-director) · 个人维护 · 中文 README
 
 **把一句话主题自动做成 Vox 风格拼贴解说视频的 agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alisa0808/vox-director 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2306 --> 2417
-    line [2315, 2348, 2379, 2408]
+    title "Alisa0808/vox-director 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2304 --> 2437
+    line [2315, 2348, 2379, 2408, 2426]
 ```
 
-2026-10-18 2,315 → 2026-10-23 2,408（+93）
+2026-10-18 2,315 → 2026-10-24 2,426（+111）
 
 
 ---

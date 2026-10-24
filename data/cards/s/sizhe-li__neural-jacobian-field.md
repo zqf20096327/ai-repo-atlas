@@ -46,12 +46,12 @@ Neural Jacobian Fields 论文（Nature 2025）的官方实现：用深度网络�
 ```mermaid
 xychart-beta
     title "sizhe-li/neural-jacobian-field 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 240 --> 242
     line [241, 241]
 ```
 
-2026-10-18 241 → 2026-10-23 241（+0）
+2026-10-18 241 → 2026-10-24 241（+0）
 
 
 ---

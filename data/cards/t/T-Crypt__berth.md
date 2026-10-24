@@ -1,6 +1,6 @@
 # T-Crypt/berth
 
-⭐ 137 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/T-Crypt/berth) · [官网](https://t-crypt.github.io/berth/) · 个人维护
+⭐ 147 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/T-Crypt/berth) · [官网](https://t-crypt.github.io/berth/) · 个人维护
 
 **单卡 GPU 租约调度器：让本地推理引擎排队轮流用卡、避免 OOM 互撞**
 
@@ -45,13 +45,13 @@ Go 单二进制工具，在多类 GPU 程序之间做租约仲裁：聊天模型
 
 ```mermaid
 xychart-beta
-    title "T-Crypt/berth 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
-    y-axis "stars" 122 --> 138
-    line [123, 137]
+    title "T-Crypt/berth 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 121 --> 149
+    line [123, 137, 147]
 ```
 
-2026-10-22 123 → 2026-10-23 137（+14）
+2026-10-22 123 → 2026-10-24 147（+24）
 
 
 ---

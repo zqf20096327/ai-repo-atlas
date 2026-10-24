@@ -1,6 +1,6 @@
 # heavyai/heavydb
 
-⭐ 3,068 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/heavyai/heavydb) · [官网](https://heavy.ai) · 组织维护
+⭐ 3,068 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/heavyai/heavydb) · [官网](https://heavy.ai) · 组织维护
 
 **面向 GPU 的内存列式 SQL 数据库及 HeavyAI 分析平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heavyai/heavydb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 3066 --> 3069
     line [3067, 3068, 3068]
 ```
 
-2026-10-18 3,067 → 2026-10-23 3,068（+1）
+2026-10-18 3,067 → 2026-10-24 3,068（+1）
 
 
 ---

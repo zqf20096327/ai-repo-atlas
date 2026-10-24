@@ -1,6 +1,6 @@
 # xiaoyaya191/bilibili_learning_bot
 
-⭐ 132 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/xiaoyaya191/bilibili_learning_bot) · [官网](https://bxya.app) · 个人维护 · 中文 README
+⭐ 133 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/xiaoyaya191/bilibili_learning_bot) · [官网](https://bxya.app) · 个人维护 · 中文 README
 
 **AI 驱动的 B 站自动刷视频与互动机器人，含 Web 管理面板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoyaya191/bilibili_learning_bot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 120 --> 133
-    line [121, 123, 129, 132]
+    title "xiaoyaya191/bilibili_learning_bot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 120 --> 134
+    line [121, 123, 129, 132, 133]
 ```
 
-2026-10-18 121 → 2026-10-23 132（+11）
+2026-10-18 121 → 2026-10-24 133（+12）
 
 
 ---

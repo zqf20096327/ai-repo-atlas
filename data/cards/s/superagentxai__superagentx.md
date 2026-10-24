@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "superagentxai/superagentx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "superagentxai/superagentx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 201 --> 204
-    line [203, 202]
+    line [203, 202, 202]
 ```
 
-2026-10-18 203 → 2026-10-23 202（-1）
+2026-10-18 203 → 2026-10-24 202（-1）
 
 
 ---

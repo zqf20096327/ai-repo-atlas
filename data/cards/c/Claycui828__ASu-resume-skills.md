@@ -1,6 +1,6 @@
 # Claycui828/ASu-resume-skills
 
-⭐ 397 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/Claycui828/ASu-resume-skills) · 个人维护 · 中文 README
+⭐ 402 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/Claycui828/ASu-resume-skills) · 个人维护 · 中文 README
 
 **面向 Codex 的简历生成与证据审计技能插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Claycui828/ASu-resume-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 384 --> 398
-    line [385, 390, 393, 397]
+    title "Claycui828/ASu-resume-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 384 --> 403
+    line [385, 390, 393, 397, 402]
 ```
 
-2026-10-18 385 → 2026-10-23 397（+12）
+2026-10-18 385 → 2026-10-24 402（+17）
 
 
 ---

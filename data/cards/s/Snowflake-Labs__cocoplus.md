@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Snowflake-Labs/cocoplus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Snowflake-Labs/cocoplus 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 722 --> 725
-    line [724, 723]
+    line [724, 723, 723]
 ```
 
-2026-10-18 724 → 2026-10-23 723（-1）
+2026-10-18 724 → 2026-10-24 723（-1）
 
 
 ---

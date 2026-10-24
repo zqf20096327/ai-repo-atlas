@@ -1,6 +1,6 @@
 # danielmiessler/Fabric
 
-⭐ 44,399 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/danielmiessler/Fabric) · [官网](https://danielmiessler.com/p/fabric-origin-story) · 个人维护
+⭐ 44,406 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/danielmiessler/Fabric) · [官网](https://danielmiessler.com/p/fabric-origin-story) · 个人维护
 
 **面向命令行用户的 AI 提示词组织与调用框架**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "danielmiessler/Fabric 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 44309 --> 44407
-    line [44317, 44360, 44385, 44399]
+    title "danielmiessler/Fabric 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 44309 --> 44414
+    line [44317, 44360, 44385, 44399, 44406]
 ```
 
-2026-10-18 44,317 → 2026-10-23 44,399（+82）
+2026-10-18 44,317 → 2026-10-24 44,406（+89）
 
 
 ---

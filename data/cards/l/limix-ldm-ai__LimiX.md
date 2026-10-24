@@ -1,6 +1,6 @@
 # limix-ldm-ai/LimiX
 
-⭐ 4,390 · Python · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/limix-ldm-ai/LimiX) · [官网](https://www.limix.ai) · 组织维护 · 中文 README
+⭐ 4,392 · Python · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/limix-ldm-ai/LimiX) · [官网](https://www.limix.ai) · 组织维护 · 中文 README
 
 **结构化数据（表格）基础模型：单模型完成分类/回归/缺失值填补**
 
@@ -44,13 +44,13 @@ LimiX-2 是面向表格数据的预训练基础模型（400M，另有 2M/16M 轻
 
 ```mermaid
 xychart-beta
-    title "limix-ldm-ai/LimiX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4386 --> 4391
-    line [4387, 4389, 4390]
+    title "limix-ldm-ai/LimiX 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4386 --> 4393
+    line [4387, 4389, 4390, 4392]
 ```
 
-2026-10-18 4,387 → 2026-10-23 4,390（+3）
+2026-10-18 4,387 → 2026-10-24 4,392（+5）
 
 
 ---

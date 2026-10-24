@@ -1,6 +1,6 @@
 # strelov1/freehire
 
-⭐ 2,776 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/strelov1/freehire) · [官网](https://freehire.me) · 个人维护
+⭐ 2,925 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/strelov1/freehire) · [官网](https://freehire.me) · 个人维护
 
 **开源 IT 职位聚合搜索引擎：直连 3.3M+ 公司招聘页的职位目录**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "strelov1/freehire 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 663 --> 2968
-    line [855, 1416, 2083, 2776]
+    title "strelov1/freehire 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 648 --> 3132
+    line [855, 1416, 2083, 2776, 2925]
 ```
 
-2026-10-18 855 → 2026-10-23 2,776（+1,921）
+2026-10-18 855 → 2026-10-24 2,925（+2,070）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 271 --> 281
-    line [272, 273, 278, 280]
+    line [272, 273, 278, 280, 280]
 ```
 
-2026-10-18 272 → 2026-10-23 280（+8）
+2026-10-18 272 → 2026-10-24 280（+8）
 
 
 ---

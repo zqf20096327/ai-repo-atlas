@@ -1,6 +1,6 @@
 # haloshin/ip-diagram-creator
 
-⭐ 262 · MIT · 推送 2026-06-26 · [GitHub](https://github.com/haloshin/ip-diagram-creator) · 个人维护 · 中文 README
+⭐ 263 · MIT · 推送 2026-06-26 · [GitHub](https://github.com/haloshin/ip-diagram-creator) · 个人维护 · 中文 README
 
 **面向个人 IP 创作者的 Agent 技能：把形象与内容生成为图解**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "haloshin/ip-diagram-creator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 261 --> 263
-    line [262, 262]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 261 --> 264
+    line [262, 263]
 ```
 
-2026-10-18 262 → 2026-10-23 262（+0）
+2026-10-18 262 → 2026-10-24 263（+1）
 
 
 ---

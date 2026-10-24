@@ -1,6 +1,6 @@
 # fikrikarim/parlor
 
-⭐ 2,083 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/fikrikarim/parlor) · 个人维护
+⭐ 2,095 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/fikrikarim/parlor) · 个人维护
 
 **本地全离线实时多模态语音 AI 应用（类 GPT-Live）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fikrikarim/parlor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2075 --> 2084
-    line [2076, 2078, 2083]
+    title "fikrikarim/parlor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2075 --> 2096
+    line [2076, 2078, 2083, 2095]
 ```
 
-2026-10-18 2,076 → 2026-10-23 2,083（+7）
+2026-10-18 2,076 → 2026-10-24 2,095（+19）
 
 
 ---

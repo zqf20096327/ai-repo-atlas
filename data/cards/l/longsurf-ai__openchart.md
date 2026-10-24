@@ -1,6 +1,6 @@
 # longsurf-ai/openchart
 
-⭐ 265 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/longsurf-ai/openchart) · [官网](https://chart.chat) · 组织维护
+⭐ 267 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/longsurf-ai/openchart) · [官网](https://chart.chat) · 组织维护
 
 **开源交易图表工作台，接入自有 AI agent 做市场研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "longsurf-ai/openchart 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 238 --> 267
-    line [240, 256, 261, 265]
+    title "longsurf-ai/openchart 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 238 --> 269
+    line [240, 256, 261, 265, 267]
 ```
 
-2026-10-18 240 → 2026-10-23 265（+25）
+2026-10-18 240 → 2026-10-24 267（+27）
 
 
 ---

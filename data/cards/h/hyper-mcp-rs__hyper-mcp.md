@@ -1,6 +1,6 @@
 # hyper-mcp-rs/hyper-mcp
 
-⭐ 882 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/hyper-mcp-rs/hyper-mcp) · 组织维护
+⭐ 882 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/hyper-mcp-rs/hyper-mcp) · 组织维护
 
 **通过 WebAssembly 插件扩展能力的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hyper-mcp-rs/hyper-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 881 --> 884
     line [883, 882, 882]
 ```
 
-2026-10-18 883 → 2026-10-23 882（-1）
+2026-10-18 883 → 2026-10-24 882（-1）
 
 
 ---

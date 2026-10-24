@@ -1,6 +1,6 @@
 # microsoft/ArgusAgent
 
-⭐ 142 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/ArgusAgent) · [官网](https://argusbot.cn) · 组织维护 · 中文 README
+⭐ 142 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/ArgusAgent) · [官网](https://argusbot.cn) · 组织维护 · 中文 README
 
 **面向长周期研究与工程的多智能体持久运行时**
 
@@ -45,13 +45,13 @@ Argus 是一个由 Manager/Planner/Engineer/Reviewer 四角色分工的多智能
 
 ```mermaid
 xychart-beta
-    title "microsoft/ArgusAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "microsoft/ArgusAgent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 139 --> 143
-    line [140, 142]
+    line [140, 142, 142]
 ```
 
-2026-10-18 140 → 2026-10-23 142（+2）
+2026-10-18 140 → 2026-10-24 142（+2）
 
 
 ---

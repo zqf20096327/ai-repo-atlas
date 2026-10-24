@@ -1,6 +1,6 @@
 # artbyjazi/autoclip
 
-⭐ 196 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/artbyjazi/autoclip) · 个人维护
+⭐ 197 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/artbyjazi/autoclip) · 个人维护
 
 **本地优先的开源 AI 视频剪辑器：长视频转竖屏短视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "artbyjazi/autoclip 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 181 --> 197
-    line [182, 185, 188, 196]
+    title "artbyjazi/autoclip 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 181 --> 198
+    line [182, 185, 188, 196, 197]
 ```
 
-2026-10-18 182 → 2026-10-23 196（+14）
+2026-10-18 182 → 2026-10-24 197（+15）
 
 
 ---

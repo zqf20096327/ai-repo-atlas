@@ -1,6 +1,6 @@
 # physiclaw/PhysiClaw
 
-⭐ 397 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/physiclaw/PhysiClaw) · [官网](https://physiclaw.ai) · 组织维护 · 中文 README
+⭐ 397 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/physiclaw/PhysiClaw) · [官网](https://physiclaw.ai) · 组织维护 · 中文 README
 
 **用机械臂+摄像头实体操控手机的具身 AI 代理**
 
@@ -45,12 +45,12 @@ PhysiClaw 是一个具身 AI 代理：通过摄像头读取手机屏幕、用触
 ```mermaid
 xychart-beta
     title "physiclaw/PhysiClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 393 --> 398
     line [394, 397, 397]
 ```
 
-2026-10-18 394 → 2026-10-23 397（+3）
+2026-10-18 394 → 2026-10-24 397（+3）
 
 
 ---

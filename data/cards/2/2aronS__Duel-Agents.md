@@ -44,13 +44,13 @@ duelagents.com 的官方集成仓库，提供将多个 IDE/CLI 工具（Claude C
 
 ```mermaid
 xychart-beta
-    title "2aronS/Duel-Agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "2aronS/Duel-Agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 734 --> 746
-    line [745, 735]
+    line [745, 735, 735]
 ```
 
-2026-10-18 745 → 2026-10-23 735（-10）
+2026-10-18 745 → 2026-10-24 735（-10）
 
 
 ---

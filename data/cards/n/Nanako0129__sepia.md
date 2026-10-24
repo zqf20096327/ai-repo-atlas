@@ -1,6 +1,6 @@
 # Nanako0129/sepia
 
-⭐ 3,422 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Nanako0129/sepia) · 个人维护 · 中文 README
+⭐ 3,440 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Nanako0129/sepia) · 个人维护 · 中文 README
 
 **面向 Agent 的去 AI 味写作技能包，修复叙事结构与文体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nanako0129/sepia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3189 --> 3443
-    line [3210, 3248, 3422]
+    title "Nanako0129/sepia 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3187 --> 3463
+    line [3210, 3248, 3422, 3440]
 ```
 
-2026-10-18 3,210 → 2026-10-23 3,422（+212）
+2026-10-18 3,210 → 2026-10-24 3,440（+230）
 
 
 ---

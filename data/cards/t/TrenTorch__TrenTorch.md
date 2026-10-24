@@ -1,6 +1,6 @@
 # TrenTorch/TrenTorch
 
-⭐ 649 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/TrenTorch/TrenTorch) · [官网](https://trentorch.com) · 组织维护
+⭐ 675 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/TrenTorch/TrenTorch) · [官网](https://trentorch.com) · 组织维护
 
 **从零构建 ML 框架的教学课程：浏览器刷题 + CLI 模块实践**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TrenTorch/TrenTorch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 362 --> 675
-    line [388, 575, 590, 649]
+    title "TrenTorch/TrenTorch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 360 --> 703
+    line [388, 575, 590, 649, 675]
 ```
 
-2026-10-18 388 → 2026-10-23 649（+261）
+2026-10-18 388 → 2026-10-24 675（+287）
 
 
 ---

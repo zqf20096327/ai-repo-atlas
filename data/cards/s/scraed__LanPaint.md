@@ -1,6 +1,6 @@
 # scraed/LanPaint
 
-⭐ 1,466 · Python · GPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/scraed/LanPaint) · 个人维护
+⭐ 1,467 · Python · GPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/scraed/LanPaint) · 个人维护
 
 **ComfyUI 通用的免训练局部重绘采样器节点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "scraed/LanPaint 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1461 --> 1467
-    line [1462, 1465, 1466]
+    title "scraed/LanPaint 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1461 --> 1468
+    line [1462, 1465, 1466, 1467]
 ```
 
-2026-10-18 1,462 → 2026-10-23 1,466（+4）
+2026-10-18 1,462 → 2026-10-24 1,467（+5）
 
 
 ---

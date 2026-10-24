@@ -1,6 +1,6 @@
 # zhimaAi/ChatClaw
 
-⭐ 309 · Go · GPL-3.0 · 推送 2026-05-13 · [GitHub](https://github.com/zhimaAi/ChatClaw) · [官网](https://ichatclaw.com) · 组织维护 · 中文 README
+⭐ 311 · Go · GPL-3.0 · 推送 2026-05-13 · [GitHub](https://github.com/zhimaAi/ChatClaw) · [官网](https://ichatclaw.com) · 组织维护 · 中文 README
 
 **本地知识库个人 AI 智能体桌面应用，接入多聊天渠道**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zhimaAi/ChatClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 308 --> 311
-    line [310, 309, 309]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 308 --> 312
+    line [310, 309, 311]
 ```
 
-2026-10-18 310 → 2026-10-23 309（-1）
+2026-10-18 310 → 2026-10-24 311（+1）
 
 
 ---

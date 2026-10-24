@@ -1,6 +1,6 @@
 # GeeeekExplorer/nano-vllm
 
-⭐ 16,075 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/GeeeekExplorer/nano-vllm) · 个人维护
+⭐ 16,099 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/GeeeekExplorer/nano-vllm) · 个人维护
 
 **面向开发者的轻量级 LLM 离线推理引擎，从零实现 vLLM 接口**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "GeeeekExplorer/nano-vllm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 15910 --> 16090
-    line [15925, 15996, 16046, 16075]
+    title "GeeeekExplorer/nano-vllm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 15908 --> 16116
+    line [15925, 15996, 16046, 16075, 16099]
 ```
 
-2026-10-18 15,925 → 2026-10-23 16,075（+150）
+2026-10-18 15,925 → 2026-10-24 16,099（+174）
 
 
 ---

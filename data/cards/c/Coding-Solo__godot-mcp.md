@@ -1,6 +1,6 @@
 # Coding-Solo/godot-mcp
 
-⭐ 6,277 · JavaScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/Coding-Solo/godot-mcp) · 个人维护
+⭐ 6,295 · JavaScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/Coding-Solo/godot-mcp) · 个人维护
 
 **让 AI agent 操作 Godot 引擎的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Coding-Solo/godot-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 6118 --> 6291
-    line [6132, 6179, 6239, 6277]
+    title "Coding-Solo/godot-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 6116 --> 6311
+    line [6132, 6179, 6239, 6277, 6295]
 ```
 
-2026-10-18 6,132 → 2026-10-23 6,277（+145）
+2026-10-18 6,132 → 2026-10-24 6,295（+163）
 
 
 ---

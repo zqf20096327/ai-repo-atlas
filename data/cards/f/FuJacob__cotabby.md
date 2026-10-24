@@ -1,6 +1,6 @@
 # FuJacob/cotabby
 
-⭐ 1,090 · Swift · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/FuJacob/cotabby) · [官网](https://cotabby.app) · 个人维护
+⭐ 1,091 · Swift · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/FuJacob/cotabby) · [官网](https://cotabby.app) · 个人维护
 
 **macOS 全局本地 AI 自动补全工具，任意文本框内联建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FuJacob/cotabby 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1081 --> 1091
-    line [1082, 1087, 1090]
+    title "FuJacob/cotabby 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1081 --> 1092
+    line [1082, 1087, 1090, 1091]
 ```
 
-2026-10-18 1,082 → 2026-10-23 1,090（+8）
+2026-10-18 1,082 → 2026-10-24 1,091（+9）
 
 
 ---

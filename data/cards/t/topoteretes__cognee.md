@@ -1,6 +1,6 @@
 # topoteretes/cognee
 
-⭐ 32,672 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/topoteretes/cognee) · [官网](https://www.cognee.ai) · 组织维护 · 中文 README
+⭐ 32,701 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/topoteretes/cognee) · [官网](https://www.cognee.ai) · 组织维护 · 中文 README
 
 **给 AI agent 提供持久长期记忆的开源知识图谱平台**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "topoteretes/cognee 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 32415 --> 32695
-    line [32438, 32548, 32625, 32672]
+    title "topoteretes/cognee 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 32412 --> 32727
+    line [32438, 32548, 32625, 32672, 32701]
 ```
 
-2026-10-18 32,438 → 2026-10-23 32,672（+234）
+2026-10-18 32,438 → 2026-10-24 32,701（+263）
 
 
 ---

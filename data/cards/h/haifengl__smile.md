@@ -1,6 +1,6 @@
 # haifengl/smile
 
-⭐ 6,424 · Java · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/haifengl/smile) · [官网](https://haifengl.github.io) · 个人维护
+⭐ 6,424 · Java · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/haifengl/smile) · [官网](https://haifengl.github.io) · 个人维护
 
 **面向 JVM 的机器学习框架，覆盖经典 ML、深度学习与 LLM 推理**
 
@@ -46,13 +46,13 @@ SMILE 是 JVM 上的机器学习框架，以 Java/Scala/Kotlin API 提供分类�
 
 ```mermaid
 xychart-beta
-    title "haifengl/smile 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "haifengl/smile 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 6420 --> 6425
-    line [6421, 6423, 6424]
+    line [6421, 6423, 6424, 6424]
 ```
 
-2026-10-18 6,421 → 2026-10-23 6,424（+3）
+2026-10-18 6,421 → 2026-10-24 6,424（+3）
 
 
 ---

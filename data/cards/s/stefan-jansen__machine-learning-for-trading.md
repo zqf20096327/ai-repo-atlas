@@ -1,6 +1,6 @@
 # stefan-jansen/machine-learning-for-trading
 
-⭐ 21,514 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/stefan-jansen/machine-learning-for-trading) · [官网](https://ml4trading.io) · 个人维护
+⭐ 21,524 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/stefan-jansen/machine-learning-for-trading) · [官网](https://ml4trading.io) · 个人维护
 
 **为交易研究者提供机器学习交易策略的图书配套代码库**
 
@@ -50,13 +50,13 @@ Stefan Jansen《Machine Learning for Trading》第三版的全书代码：27 章
 
 ```mermaid
 xychart-beta
-    title "stefan-jansen/machine-learning-for-trading 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 21385 --> 21525
-    line [21396, 21463, 21487, 21514]
+    title "stefan-jansen/machine-learning-for-trading 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 21384 --> 21536
+    line [21396, 21463, 21487, 21514, 21524]
 ```
 
-2026-10-18 21,396 → 2026-10-23 21,514（+118）
+2026-10-18 21,396 → 2026-10-24 21,524（+128）
 
 
 ---

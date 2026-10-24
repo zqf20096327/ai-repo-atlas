@@ -1,6 +1,6 @@
 # huggingface/deep-rl-class
 
-⭐ 5,067 · MDX · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/deep-rl-class) · 组织维护
+⭐ 5,069 · MDX · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/deep-rl-class) · 组织维护
 
 **Hugging Face 深度强化学习课程（讲义与实战 Notebook）**
 
@@ -43,13 +43,13 @@ Hugging Face 维护的深度强化学习课程仓库，存放课程的 mdx 讲�
 
 ```mermaid
 xychart-beta
-    title "huggingface/deep-rl-class 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5062 --> 5068
-    line [5063, 5064, 5066, 5067]
+    title "huggingface/deep-rl-class 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5062 --> 5070
+    line [5063, 5064, 5066, 5067, 5069]
 ```
 
-2026-10-18 5,063 → 2026-10-23 5,067（+4）
+2026-10-18 5,063 → 2026-10-24 5,069（+6）
 
 
 ---

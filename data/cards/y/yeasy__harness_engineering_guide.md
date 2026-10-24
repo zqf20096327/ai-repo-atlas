@@ -1,6 +1,6 @@
 # yeasy/harness_engineering_guide
 
-⭐ 138 · Python · 推送 2026-10-19 · [GitHub](https://github.com/yeasy/harness_engineering_guide) · [官网](https://yeasy.gitbook.io/harness_engineering_guide) · 个人维护 · 中文 README
+⭐ 143 · Python · 推送 2026-10-19 · [GitHub](https://github.com/yeasy/harness_engineering_guide) · [官网](https://yeasy.gitbook.io/harness_engineering_guide) · 个人维护 · 中文 README
 
 **剖析智能体 Harness 工程原理与实现的中文技术书**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yeasy/harness_engineering_guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 133 --> 139
-    line [134, 135, 138]
+    title "yeasy/harness_engineering_guide 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 133 --> 144
+    line [134, 135, 138, 143]
 ```
 
-2026-10-18 134 → 2026-10-23 138（+4）
+2026-10-18 134 → 2026-10-24 143（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # plastic-labs/honcho
 
-⭐ 7,731 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/plastic-labs/honcho) · [官网](https://honcho.dev/docs) · 组织维护
+⭐ 7,750 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/plastic-labs/honcho) · [官网](https://honcho.dev/docs) · 组织维护
 
 **给 agent 开发者的记忆基础设施：存储-推理-查询的持久记忆层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "plastic-labs/honcho 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7651 --> 7738
-    line [7658, 7688, 7721, 7731]
+    title "plastic-labs/honcho 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7649 --> 7759
+    line [7658, 7688, 7721, 7731, 7750]
 ```
 
-2026-10-18 7,658 → 2026-10-23 7,731（+73）
+2026-10-18 7,658 → 2026-10-24 7,750（+92）
 
 
 ---

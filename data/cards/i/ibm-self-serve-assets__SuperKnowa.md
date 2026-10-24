@@ -1,6 +1,6 @@
 # ibm-self-serve-assets/SuperKnowa
 
-⭐ 118 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ibm-self-serve-assets/SuperKnowa) · 组织维护
+⭐ 118 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ibm-self-serve-assets/SuperKnowa) · 组织维护
 
 **IBM 出品的企业级 RAG 流水线搭建框架**
 
@@ -40,6 +40,18 @@
 > L3: **Fast Framework to build Enterprise RAG (Retriever Augmented Generation) Pipelines at Scale - powered by watsonx**
 > L5: Welcome to the SuperKnowa GitHub repository! SuperKnowa framework accelerates your Enterprise Generative AI applicat
 > L31: You can get started by updating the `config.yaml` file and run the LLMQnA.py script for quickly configuring your RA
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ibm-self-serve-assets/SuperKnowa 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 117 --> 119
+    line [118, 118]
+```
+
+2026-10-23 118 → 2026-10-24 118（+0）
 
 
 ---

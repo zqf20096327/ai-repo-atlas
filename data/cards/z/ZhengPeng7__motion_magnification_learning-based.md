@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZhengPeng7/motion_magnification_learning-based 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 118 --> 120
     line [119, 119]
 ```
 
-2026-10-18 119 → 2026-10-23 119（+0）
+2026-10-18 119 → 2026-10-24 119（+0）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ScalaConsultants/Aspect-Based-Sentiment-Analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 583 --> 585
     line [584, 584]
 ```
 
-2026-10-18 584 → 2026-10-23 584（+0）
+2026-10-18 584 → 2026-10-24 584（+0）
 
 
 ---

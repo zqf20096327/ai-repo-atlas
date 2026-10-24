@@ -1,6 +1,6 @@
 # kyleskom/NBA-Machine-Learning-Sports-Betting
 
-⭐ 1,755 · Python · 推送 2026-09-12 · [GitHub](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) · 个人维护
+⭐ 1,757 · Python · 推送 2026-09-12 · [GitHub](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) · 个人维护
 
 **用机器学习预测 NBA 比赛胜负与大小分的投注分析工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyleskom/NBA-Machine-Learning-Sports-Betting 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1745 --> 1756
-    line [1746, 1747, 1750, 1755]
+    title "kyleskom/NBA-Machine-Learning-Sports-Betting 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1745 --> 1758
+    line [1746, 1747, 1750, 1755, 1757]
 ```
 
-2026-10-18 1,746 → 2026-10-23 1,755（+9）
+2026-10-18 1,746 → 2026-10-24 1,757（+11）
 
 
 ---

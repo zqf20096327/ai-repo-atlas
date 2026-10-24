@@ -1,6 +1,6 @@
 # HKUDS/VideoRAG
 
-⭐ 3,419 · Python · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/HKUDS/VideoRAG) · [官网](https://arxiv.org/abs/2502.01549) · 组织维护
+⭐ 3,422 · Python · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/HKUDS/VideoRAG) · [官网](https://arxiv.org/abs/2502.01549) · 组织维护
 
 **面向用户的视频对话桌面应用：基于 VideoRAG 与超长视频问答**
 
@@ -45,13 +45,13 @@ HKUDS 团队推出的桌面应用 Vimo，让用户以自然语言与视频对话
 
 ```mermaid
 xychart-beta
-    title "HKUDS/VideoRAG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3403 --> 3420
-    line [3404, 3410, 3414, 3419]
+    title "HKUDS/VideoRAG 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3403 --> 3423
+    line [3404, 3410, 3414, 3419, 3422]
 ```
 
-2026-10-18 3,404 → 2026-10-23 3,419（+15）
+2026-10-18 3,404 → 2026-10-24 3,422（+18）
 
 
 ---

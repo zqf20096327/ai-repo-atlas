@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zscole/adversarial-spec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "zscole/adversarial-spec 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 555 --> 558
-    line [556, 557]
+    line [556, 557, 557]
 ```
 
-2026-10-18 556 → 2026-10-23 557（+1）
+2026-10-18 556 → 2026-10-24 557（+1）
 
 
 ---

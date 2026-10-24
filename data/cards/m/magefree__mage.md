@@ -1,6 +1,6 @@
 # magefree/mage
 
-⭐ 2,380 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/magefree/mage) · [官网](https://xmage.today) · 组织维护
+⭐ 2,382 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/magefree/mage) · [官网](https://xmage.today) · 组织维护
 
 **支持 3.2 万张卡的万智牌规则引擎与在线对战平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "magefree/mage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 2376 --> 2381
-    line [2377, 2378, 2380]
+    title "magefree/mage 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2376 --> 2383
+    line [2377, 2378, 2380, 2382]
 ```
 
-2026-10-18 2,377 → 2026-10-23 2,380（+3）
+2026-10-18 2,377 → 2026-10-24 2,382（+5）
 
 
 ---

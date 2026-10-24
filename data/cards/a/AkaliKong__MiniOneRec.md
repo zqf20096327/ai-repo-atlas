@@ -1,6 +1,6 @@
 # AkaliKong/MiniOneRec
 
-⭐ 1,915 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/AkaliKong/MiniOneRec) · 个人维护
+⭐ 1,921 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/AkaliKong/MiniOneRec) · 个人维护
 
 **开源生成式推荐复现框架：SID 构建+ SFT + 推荐向 RL 全流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AkaliKong/MiniOneRec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1900 --> 1916
-    line [1901, 1905, 1915]
+    title "AkaliKong/MiniOneRec 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1899 --> 1923
+    line [1901, 1905, 1915, 1921]
 ```
 
-2026-10-18 1,901 → 2026-10-23 1,915（+14）
+2026-10-18 1,901 → 2026-10-24 1,921（+20）
 
 
 ---

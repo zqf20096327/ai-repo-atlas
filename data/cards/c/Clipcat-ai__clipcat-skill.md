@@ -1,6 +1,6 @@
 # Clipcat-ai/clipcat-skill
 
-⭐ 303 · 推送 2026-09-20 · [GitHub](https://github.com/Clipcat-ai/clipcat-skill) · [官网](https://clipcat.ai) · 组织维护 · 中文 README
+⭐ 315 · 推送 2026-09-20 · [GitHub](https://github.com/Clipcat-ai/clipcat-skill) · [官网](https://clipcat.ai) · 组织维护 · 中文 README
 
 **让 AI agent 生成/复制/发布 TikTok 带货视频的 CLI 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Clipcat-ai/clipcat-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 272 --> 305
-    line [274, 282, 296, 303]
+    title "Clipcat-ai/clipcat-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 270 --> 319
+    line [274, 282, 296, 303, 315]
 ```
 
-2026-10-18 274 → 2026-10-23 303（+29）
+2026-10-18 274 → 2026-10-24 315（+41）
 
 
 ---

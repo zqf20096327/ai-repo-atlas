@@ -1,6 +1,6 @@
 # oooscoos/Benzi
 
-⭐ 169 · HTML · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/oooscoos/Benzi) · [官网](https://varianttech.net) · 个人维护
+⭐ 170 · HTML · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/oooscoos/Benzi) · [官网](https://varianttech.net) · 个人维护
 
 **编译器驱动的 AI 编程 agent：先把代码库编成可查询索引再改代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oooscoos/Benzi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 164 --> 170
-    line [165, 169, 169]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 164 --> 171
+    line [165, 169, 170]
 ```
 
-2026-10-18 165 → 2026-10-23 169（+4）
+2026-10-18 165 → 2026-10-24 170（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # bytedance/DreamID-V
 
-⭐ 693 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/bytedance/DreamID-V) · 组织维护 · 中文 README
+⭐ 694 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/bytedance/DreamID-V) · 组织维护 · 中文 README
 
 **基于扩散 Transformer 的视频人脸替换模型，供研究使用**
 
@@ -44,13 +44,13 @@ ECCV 2026 Oral 论文的官方开源实现：给定 512x512 裁剪人脸参考�
 
 ```mermaid
 xychart-beta
-    title "bytedance/DreamID-V 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 691 --> 694
-    line [693, 692, 693]
+    title "bytedance/DreamID-V 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 691 --> 695
+    line [693, 692, 693, 694]
 ```
 
-2026-10-18 693 → 2026-10-23 693（+0）
+2026-10-18 693 → 2026-10-24 694（+1）
 
 
 ---

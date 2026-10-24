@@ -1,6 +1,6 @@
 # epam/ai-dial
 
-⭐ 146 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/epam/ai-dial) · [官网](https://docs.dialx.ai/) · 组织维护
+⭐ 146 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/epam/ai-dial) · [官网](https://docs.dialx.ai/) · 组织维护
 
 **EPAM 开源企业级 AI 平台 DIAL 的文档与示例仓库**
 
@@ -47,12 +47,12 @@ AI DIAL 是 EPAM 维护的开源企业级 AI 平台，核心组件 DIAL Core 以
 ```mermaid
 xychart-beta
     title "epam/ai-dial 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 145 --> 147
     line [146, 146]
 ```
 
-2026-10-18 146 → 2026-10-23 146（+0）
+2026-10-18 146 → 2026-10-24 146（+0）
 
 
 ---

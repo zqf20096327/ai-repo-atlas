@@ -1,6 +1,6 @@
 # PKU-YuanGroup/Helios
 
-⭐ 2,221 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/PKU-YuanGroup/Helios) · [官网](https://pku-yuangroup.github.io/Helios-Page) · 组织维护 · 中文 README
+⭐ 2,222 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/PKU-YuanGroup/Helios) · [官网](https://pku-yuangroup.github.io/Helios-Page) · 组织维护 · 中文 README
 
 **北大团队开源的 14B 实时长视频生成模型**
 
@@ -45,13 +45,13 @@ Helios 的官方实现：自回归扩散视频生成模型，按每块 33 帧分
 
 ```mermaid
 xychart-beta
-    title "PKU-YuanGroup/Helios 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2208 --> 2222
-    line [2209, 2216, 2218, 2221]
+    title "PKU-YuanGroup/Helios 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2208 --> 2223
+    line [2209, 2216, 2218, 2221, 2222]
 ```
 
-2026-10-18 2,209 → 2026-10-23 2,221（+12）
+2026-10-18 2,209 → 2026-10-24 2,222（+13）
 
 
 ---

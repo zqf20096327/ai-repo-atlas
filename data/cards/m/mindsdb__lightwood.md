@@ -1,6 +1,6 @@
 # mindsdb/lightwood
 
-⭐ 511 · Python · GPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/mindsdb/lightwood) · 组织维护
+⭐ 512 · Python · GPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/mindsdb/lightwood) · 组织维护
 
 **面向开发者的 AutoML 框架：用 JSON-AI 声明式生成 ML 流水线**
 
@@ -45,12 +45,12 @@ Lightwood 是 MindsDB 维护的 AutoML 框架，用户通过 JSON-AI 声明式�
 ```mermaid
 xychart-beta
     title "mindsdb/lightwood 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 510 --> 512
-    line [511, 511]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 510 --> 513
+    line [511, 512]
 ```
 
-2026-10-18 511 → 2026-10-23 511（+0）
+2026-10-18 511 → 2026-10-24 512（+1）
 
 
 ---

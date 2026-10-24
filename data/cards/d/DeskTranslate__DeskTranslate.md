@@ -1,6 +1,6 @@
 # DeskTranslate/DeskTranslate
 
-⭐ 184 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DeskTranslate/DeskTranslate) · [官网](https://github.com/DeskTranslate/DeskTranslate#readme) · 组织维护
+⭐ 183 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DeskTranslate/DeskTranslate) · [官网](https://github.com/DeskTranslate/DeskTranslate#readme) · 组织维护
 
 **Windows 屏幕取词翻译工具：划区 OCR 并本地/云端翻译**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DeskTranslate/DeskTranslate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 182 --> 185
-    line [183, 184, 184]
+    line [183, 184, 183]
 ```
 
-2026-10-18 183 → 2026-10-23 184（+1）
+2026-10-18 183 → 2026-10-24 183（+0）
 
 
 ---

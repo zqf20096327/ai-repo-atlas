@@ -1,6 +1,6 @@
 # FurkanGozukara/Stable-Diffusion
 
-⭐ 2,782 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/FurkanGozukara/Stable-Diffusion) · [官网](https://www.youtube.com/SECourses) · 组织维护
+⭐ 2,781 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/FurkanGozukara/Stable-Diffusion) · [官网](https://www.youtube.com/SECourses) · 组织维护
 
 **SECourses 生成式 AI 视频教程索引清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FurkanGozukara/Stable-Diffusion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "FurkanGozukara/Stable-Diffusion 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 2779 --> 2784
-    line [2780, 2782, 2783, 2782]
+    line [2780, 2782, 2783, 2782, 2781]
 ```
 
-2026-10-18 2,780 → 2026-10-23 2,782（+2）
+2026-10-18 2,780 → 2026-10-24 2,781（+1）
 
 
 ---

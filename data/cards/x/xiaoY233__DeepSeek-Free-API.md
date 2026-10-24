@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoY233/DeepSeek-Free-API 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "xiaoY233/DeepSeek-Free-API 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 91 --> 94
-    line [92, 93]
+    line [92, 93, 93]
 ```
 
-2026-10-18 92 → 2026-10-23 93（+1）
+2026-10-18 92 → 2026-10-24 93（+1）
 
 
 ---

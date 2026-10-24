@@ -1,6 +1,6 @@
 # mcp-use/mcp-use
 
-⭐ 10,797 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mcp-use/mcp-use) · [官网](https://manufact.com) · 组织维护
+⭐ 10,805 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mcp-use/mcp-use) · [官网](https://manufact.com) · 组织维护
 
 **TypeScript 全栈 MCP 框架：构建 MCP 服务器与 MCP Apps**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mcp-use/mcp-use 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10775 --> 10799
-    line [10777, 10786, 10793, 10797]
+    title "mcp-use/mcp-use 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10775 --> 10807
+    line [10777, 10786, 10793, 10797, 10805]
 ```
 
-2026-10-18 10,777 → 2026-10-23 10,797（+20）
+2026-10-18 10,777 → 2026-10-24 10,805（+28）
 
 
 ---

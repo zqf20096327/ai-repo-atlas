@@ -1,6 +1,6 @@
 # Agent-Field/SWE-AF
 
-⭐ 1,035 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Agent-Field/SWE-AF) · [官网](https://agentfield.ai/) · 组织维护
+⭐ 1,037 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Agent-Field/SWE-AF) · [官网](https://agentfield.ai/) · 组织维护
 
 **面向生产级 PR 的自主软件工程 agent 舰队运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agent-Field/SWE-AF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 1033 --> 1036
-    line [1034, 1035]
+    title "Agent-Field/SWE-AF 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1033 --> 1038
+    line [1034, 1035, 1037]
 ```
 
-2026-10-18 1,034 → 2026-10-23 1,035（+1）
+2026-10-18 1,034 → 2026-10-24 1,037（+3）
 
 
 ---

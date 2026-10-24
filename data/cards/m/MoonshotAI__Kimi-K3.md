@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-K3
 
-⭐ 8,956 · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/MoonshotAI/Kimi-K3) · 组织维护 · 中文 README
+⭐ 8,964 · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/MoonshotAI/Kimi-K3) · 组织维护 · 中文 README
 
 **开源权重的原生多模态 agentic 前沿模型（2.8T MoE）**
 
@@ -45,13 +45,13 @@ MoonshotAI 发布的开源权重模型：2.8T 参数 MoE 架构（激活 104B）
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/Kimi-K3 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8938 --> 8957
-    line [8939, 8946, 8954, 8956]
+    title "MoonshotAI/Kimi-K3 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8937 --> 8966
+    line [8939, 8946, 8954, 8956, 8964]
 ```
 
-2026-10-18 8,939 → 2026-10-23 8,956（+17）
+2026-10-18 8,939 → 2026-10-24 8,964（+25）
 
 
 ---

@@ -1,6 +1,6 @@
 # Nebutra/MinerU-Skill
 
-⭐ 125 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Nebutra/MinerU-Skill) · [官网](https://smithery.ai/skills/nebutra/mineru-skill) · 个人维护 · 中文 README
+⭐ 126 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Nebutra/MinerU-Skill) · [官网](https://smithery.ai/skills/nebutra/mineru-skill) · 个人维护 · 中文 README
 
 **面向 AI agent 的零依赖文档解析 CLI/技能：PDF/Office/图片转 Markdown**
 
@@ -45,12 +45,12 @@ MinerU 云端 API 之上的零配置、零依赖封装层：单个约 54KB 的�
 ```mermaid
 xychart-beta
     title "Nebutra/MinerU-Skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 124 --> 127
+    line [125, 126]
 ```
 
-2026-10-18 125 → 2026-10-23 125（+0）
+2026-10-18 125 → 2026-10-24 126（+1）
 
 
 ---

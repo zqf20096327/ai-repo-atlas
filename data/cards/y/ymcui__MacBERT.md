@@ -1,6 +1,6 @@
 # ymcui/MacBERT
 
-⭐ 723 · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/MacBERT) · [官网](https://www.aclweb.org/anthology/2020.findings-emnlp.58/) · 组织维护 · 中文 README
+⭐ 725 · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/MacBERT) · [官网](https://www.aclweb.org/anthology/2020.findings-emnlp.58/) · 组织维护 · 中文 README
 
 **中文预训练 BERT 改进模型，供 NLP 下游任务使用**
 
@@ -45,12 +45,12 @@ MacBERT 是 BERT 的改进版本，由哈工大讯飞联合实验室发布，引
 ```mermaid
 xychart-beta
     title "ymcui/MacBERT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 721 --> 724
-    line [723, 722, 723, 723]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 721 --> 726
+    line [723, 722, 723, 725]
 ```
 
-2026-10-18 723 → 2026-10-23 723（+0）
+2026-10-18 723 → 2026-10-24 725（+2）
 
 
 ---

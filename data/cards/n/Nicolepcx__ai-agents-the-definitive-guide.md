@@ -1,6 +1,6 @@
 # Nicolepcx/ai-agents-the-definitive-guide
 
-⭐ 2,809 · Jupyter Notebook · 推送 2026-08-01 · [GitHub](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) · [官网](https://www.oreilly.com/library/view/ai-agents-the/0642572247775/) · 个人维护
+⭐ 2,811 · Jupyter Notebook · 推送 2026-08-01 · [GitHub](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) · [官网](https://www.oreilly.com/library/view/ai-agents-the/0642572247775/) · 个人维护
 
 **《AI Agents - The Definitive Guide》配套代码：12 章 agent 学习 notebook**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nicolepcx/ai-agents-the-definitive-guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2752 --> 2814
-    line [2757, 2764, 2808, 2809]
+    title "Nicolepcx/ai-agents-the-definitive-guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2752 --> 2816
+    line [2757, 2764, 2808, 2809, 2811]
 ```
 
-2026-10-18 2,757 → 2026-10-23 2,809（+52）
+2026-10-18 2,757 → 2026-10-24 2,811（+54）
 
 
 ---

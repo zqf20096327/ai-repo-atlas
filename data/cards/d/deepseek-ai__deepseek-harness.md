@@ -1,6 +1,6 @@
 # deepseek-ai/deepseek-harness
 
-⭐ 258,060 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/deepseek-ai/deepseek-harness) · [官网](https://deepseek.com/harness) · 组织维护 · 中文 README
+⭐ 259,351 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/deepseek-ai/deepseek-harness) · [官网](https://deepseek.com/harness) · 组织维护 · 中文 README
 
 **DeepSeek 开源的 agent 运行时框架，一切皆插件**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/deepseek-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 251389 --> 258666
-    line [251995, 254392, 256718, 258060]
+    title "deepseek-ai/deepseek-harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 251260 --> 260086
+    line [251995, 254392, 256718, 258060, 259351]
 ```
 
-2026-10-18 251,995 → 2026-10-23 258,060（+6,065）
+2026-10-18 251,995 → 2026-10-24 259,351（+7,356）
 
 
 ---

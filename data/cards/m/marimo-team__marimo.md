@@ -1,6 +1,6 @@
 # marimo-team/marimo
 
-⭐ 23,293 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/marimo-team/marimo) · [官网](https://marimo.io) · 组织维护 · 中文 README
+⭐ 23,306 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/marimo-team/marimo) · [官网](https://marimo.io) · 组织维护 · 中文 README
 
 **反应式 Python 笔记本：可复现实验、SQL 查询、可部署为应用**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "marimo-team/marimo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 23221 --> 23299
-    line [23227, 23240, 23272, 23293]
+    title "marimo-team/marimo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 23220 --> 23313
+    line [23227, 23240, 23272, 23293, 23306]
 ```
 
-2026-10-18 23,227 → 2026-10-23 23,293（+66）
+2026-10-18 23,227 → 2026-10-24 23,306（+79）
 
 
 ---

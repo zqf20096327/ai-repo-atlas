@@ -1,6 +1,6 @@
 # oumi-ai/oumi
 
-⭐ 9,410 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/oumi-ai/oumi) · [官网](https://oumi.ai) · 组织维护
+⭐ 9,409 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/oumi-ai/oumi) · [官网](https://oumi.ai) · 组织维护
 
 **开源基础模型全流程平台：微调、评测与部署 LLM/VLM**
 
@@ -46,13 +46,13 @@ Oumi 是覆盖基础模型全生命周期的开源 Python 平台：数据合成�
 
 ```mermaid
 xychart-beta
-    title "oumi-ai/oumi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "oumi-ai/oumi 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 9400 --> 9411
-    line [9401, 9406, 9410]
+    line [9401, 9406, 9410, 9409]
 ```
 
-2026-10-18 9,401 → 2026-10-23 9,410（+9）
+2026-10-18 9,401 → 2026-10-24 9,409（+8）
 
 
 ---

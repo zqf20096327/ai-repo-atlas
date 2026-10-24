@@ -1,6 +1,6 @@
 # ruslanmv/BOT-MMORPG-AI
 
-⭐ 316 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/ruslanmv/BOT-MMORPG-AI) · [官网](https://ruslanmv.com/BOT-MMORPG-AI/) · 个人维护
+⭐ 317 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/ruslanmv/BOT-MMORPG-AI) · [官网](https://ruslanmv.com/BOT-MMORPG-AI/) · 个人维护
 
 **录制玩家操作并模仿学习的 MMORPG/RPG 自动挂机机器人**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruslanmv/BOT-MMORPG-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 309 --> 317
-    line [310, 312, 314, 316]
+    title "ruslanmv/BOT-MMORPG-AI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 309 --> 318
+    line [310, 312, 314, 316, 317]
 ```
 
-2026-10-18 310 → 2026-10-23 316（+6）
+2026-10-18 310 → 2026-10-24 317（+7）
 
 
 ---

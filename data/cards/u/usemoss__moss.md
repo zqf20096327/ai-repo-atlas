@@ -1,6 +1,6 @@
 # usemoss/moss
 
-⭐ 798 · Python · BSD-2-Clause · 推送 2026-10-22 · [GitHub](https://github.com/usemoss/moss) · [官网](https://moss.dev) · 组织维护
+⭐ 797 · Python · BSD-2-Clause · 推送 2026-10-23 · [GitHub](https://github.com/usemoss/moss) · [官网](https://moss.dev) · 组织维护
 
 **面向 AI agent 的嵌入式语义检索运行时，亚 10ms 混合搜索**
 
@@ -45,13 +45,13 @@ Moss 是嵌入应用进程内的语义检索运行时，为对话式 AI agent �
 
 ```mermaid
 xychart-beta
-    title "usemoss/moss 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "usemoss/moss 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 796 --> 800
-    line [799, 798, 797, 798]
+    line [799, 798, 797, 798, 797]
 ```
 
-2026-10-18 799 → 2026-10-23 798（-1）
+2026-10-18 799 → 2026-10-24 797（-2）
 
 
 ---

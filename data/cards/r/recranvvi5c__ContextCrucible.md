@@ -1,6 +1,6 @@
 # recranvvi5c/ContextCrucible
 
-⭐ 206 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/recranvvi5c/ContextCrucible) · [官网](https://pablog-7.github.io/ecommerce-kushi/) · 个人维护
+⭐ 212 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/recranvvi5c/ContextCrucible) · [官网](https://pablog-7.github.io/ecommerce-kushi/) · 个人维护
 
 **给编码 agent 的硬预算上下文编译器：扫描、打分、产出打包**
 
@@ -39,6 +39,18 @@ Rust 编写的 CLI 工具（crucible），从代码仓库生成受 token 硬预�
 
 > L5:  A budget-aware context compiler for coding agents.
 > L22: `contextcrucible` is that foundry. It is a single, dependency-free Rust binary
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "recranvvi5c/ContextCrucible 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 205 --> 213
+    line [206, 212]
+```
+
+2026-10-23 206 → 2026-10-24 212（+6）
 
 
 ---

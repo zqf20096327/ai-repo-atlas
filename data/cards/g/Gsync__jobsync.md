@@ -1,6 +1,6 @@
 # Gsync/jobsync
 
-⭐ 1,443 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Gsync/jobsync) · [官网](https://jobsync.ca) · 个人维护
+⭐ 1,444 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Gsync/jobsync) · [官网](https://jobsync.ca) · 个人维护
 
 **自托管求职助手：AI 简历评审、岗位匹配与投递追踪**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gsync/jobsync 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1416 --> 1445
-    line [1418, 1432, 1439, 1443]
+    title "Gsync/jobsync 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1416 --> 1446
+    line [1418, 1432, 1439, 1443, 1444]
 ```
 
-2026-10-18 1,418 → 2026-10-23 1,443（+25）
+2026-10-18 1,418 → 2026-10-24 1,444（+26）
 
 
 ---

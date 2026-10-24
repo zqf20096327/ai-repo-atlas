@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lisamsung/agent-meme-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "lisamsung/agent-meme-forge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 97 --> 106
-    line [105, 98]
+    line [105, 98, 98]
 ```
 
-2026-10-18 105 → 2026-10-23 98（-7）
+2026-10-18 105 → 2026-10-24 98（-7）
 
 
 ---

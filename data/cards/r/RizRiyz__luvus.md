@@ -1,6 +1,6 @@
 # RizRiyz/luvus
 
-⭐ 980 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/RizRiyz/luvus) · [官网](https://luvus.dev) · 个人维护
+⭐ 981 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/RizRiyz/luvus) · [官网](https://luvus.dev) · 个人维护
 
 **面向 AI 编码代理的终端任务控制台/多路复用器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RizRiyz/luvus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 973 --> 981
-    line [974, 976, 979, 980]
+    title "RizRiyz/luvus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 973 --> 982
+    line [974, 976, 979, 980, 981]
 ```
 
-2026-10-18 974 → 2026-10-23 980（+6）
+2026-10-18 974 → 2026-10-24 981（+7）
 
 
 ---

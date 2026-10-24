@@ -1,6 +1,6 @@
 # steven-jianhao-li/zotero-AI-Butler
 
-⭐ 1,827 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/steven-jianhao-li/zotero-AI-Butler) · [官网](https://github.com/steven-jianhao-li/zotero-AI-Butler/releases) · 个人维护 · 中文 README
+⭐ 1,829 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/steven-jianhao-li/zotero-AI-Butler) · [官网](https://github.com/steven-jianhao-li/zotero-AI-Butler/releases) · 个人维护 · 中文 README
 
 **Zotero 插件：自动精读论文并生成总结笔记**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "steven-jianhao-li/zotero-AI-Butler 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1804 --> 1829
-    line [1806, 1817, 1822, 1827]
+    title "steven-jianhao-li/zotero-AI-Butler 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1804 --> 1831
+    line [1806, 1817, 1822, 1827, 1829]
 ```
 
-2026-10-18 1,806 → 2026-10-23 1,827（+21）
+2026-10-18 1,806 → 2026-10-24 1,829（+23）
 
 
 ---

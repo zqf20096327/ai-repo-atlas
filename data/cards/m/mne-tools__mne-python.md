@@ -1,6 +1,6 @@
 # mne-tools/mne-python
 
-⭐ 3,560 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/mne-tools/mne-python) · [官网](https://mne.tools) · 组织维护
+⭐ 3,562 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/mne-tools/mne-python) · [官网](https://mne.tools) · 组织维护
 
 **面向科研者的 MEG/EEG 等神经生理数据分析 Python 库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mne-tools/mne-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 3553 --> 3561
-    line [3554, 3557, 3560]
+    title "mne-tools/mne-python 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3553 --> 3563
+    line [3554, 3557, 3560, 3562]
 ```
 
-2026-10-18 3,554 → 2026-10-23 3,560（+6）
+2026-10-18 3,554 → 2026-10-24 3,562（+8）
 
 
 ---

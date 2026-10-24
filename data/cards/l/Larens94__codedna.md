@@ -1,6 +1,6 @@
 # Larens94/codedna
 
-⭐ 151 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Larens94/codedna) · [官网](https://larens94.github.io/codedna) · 个人维护
+⭐ 150 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Larens94/codedna) · [官网](https://larens94.github.io/codedna) · 个人维护
 
 **源码内注释协议：让 AI agent 跨会话共享代码库架构上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Larens94/codedna 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 150 --> 152
-    line [151, 151]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 149 --> 152
+    line [151, 150]
 ```
 
-2026-10-18 151 → 2026-10-23 151（+0）
+2026-10-18 151 → 2026-10-24 150（-1）
 
 
 ---

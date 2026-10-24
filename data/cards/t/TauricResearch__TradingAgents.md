@@ -1,6 +1,6 @@
 # TauricResearch/TradingAgents
 
-⭐ 112,875 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://arxiv.org/pdf/2412.20138) · 组织维护
+⭐ 113,311 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://arxiv.org/pdf/2412.20138) · 组织维护
 
 **多智能体 LLM 金融交易研究框架：模拟交易公司角色分工**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "TauricResearch/TradingAgents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 111558 --> 112994
-    line [111677, 112083, 112875]
+    title "TauricResearch/TradingAgents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 111514 --> 113474
+    line [111677, 112083, 112875, 113311]
 ```
 
-2026-10-18 111,677 → 2026-10-23 112,875（+1,198）
+2026-10-18 111,677 → 2026-10-24 113,311（+1,634）
 
 
 ---

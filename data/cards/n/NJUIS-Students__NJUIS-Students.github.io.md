@@ -1,6 +1,6 @@
 # NJUIS-Students/NJUIS-Students.github.io
 
-⭐ 151 · 推送 2026-09-09 · [GitHub](https://github.com/NJUIS-Students/NJUIS-Students.github.io) · [官网](https://njuis-students.github.io/) · 组织维护 · 中文 README
+⭐ 152 · 推送 2026-09-09 · [GitHub](https://github.com/NJUIS-Students/NJUIS-Students.github.io) · [官网](https://njuis-students.github.io/) · 组织维护 · 中文 README
 
 **南大智能学院学生的课程资料与经验民间 Wiki 站点**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "NJUIS-Students/NJUIS-Students.github.io 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 149 --> 152
-    line [150, 151, 151]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 149 --> 153
+    line [150, 151, 152]
 ```
 
-2026-10-18 150 → 2026-10-23 151（+1）
+2026-10-18 150 → 2026-10-24 152（+2）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KernelTuner/kernel_tuner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "KernelTuner/kernel_tuner 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 425 --> 428
-    line [426, 427]
+    line [426, 427, 427]
 ```
 
-2026-10-18 426 → 2026-10-23 427（+1）
+2026-10-18 426 → 2026-10-24 427（+1）
 
 
 ---

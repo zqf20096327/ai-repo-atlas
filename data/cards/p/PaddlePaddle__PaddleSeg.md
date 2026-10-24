@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleSeg
 
-⭐ 9,413 · Python · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/PaddlePaddle/PaddleSeg) · [官网](https://arxiv.org/abs/2101.06175) · 组织维护 · 中文 README
+⭐ 9,416 · Python · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/PaddlePaddle/PaddleSeg) · [官网](https://arxiv.org/abs/2101.06175) · 组织维护 · 中文 README
 
 **飞桨图像分割开发套件：45+模型全流程训练到部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleSeg 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 9410 --> 9414
-    line [9411, 9413, 9413]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 9410 --> 9417
+    line [9411, 9413, 9416]
 ```
 
-2026-10-18 9,411 → 2026-10-23 9,413（+2）
+2026-10-18 9,411 → 2026-10-24 9,416（+5）
 
 
 ---

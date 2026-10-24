@@ -1,6 +1,6 @@
 # chengtan9907/OpenSTL
 
-⭐ 1,161 · Python · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/chengtan9907/OpenSTL) · [官网](https://openstl.readthedocs.io/en/latest/) · 组织维护
+⭐ 1,160 · Python · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/chengtan9907/OpenSTL) · [官网](https://openstl.readthedocs.io/en/latest/) · 组织维护
 
 **时空预测学习基准框架：统一训练评测视频/交通/气象预测方法**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chengtan9907/OpenSTL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 1159 --> 1162
-    line [1160, 1161, 1161]
+    line [1160, 1161, 1160]
 ```
 
-2026-10-18 1,160 → 2026-10-23 1,161（+1）
+2026-10-18 1,160 → 2026-10-24 1,160（+0）
 
 
 ---

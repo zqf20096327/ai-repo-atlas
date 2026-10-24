@@ -1,6 +1,6 @@
 # openai/tunnel-client
 
-⭐ 589 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/tunnel-client) · 组织维护
+⭐ 592 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openai/tunnel-client) · 组织维护
 
 **OpenAI Secure MCP Tunnel 客户端：把本地/私有 MCP 服务接入 ChatGPT**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/tunnel-client 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 570 --> 590
-    line [571, 581, 586, 589]
+    title "openai/tunnel-client 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 569 --> 594
+    line [571, 581, 586, 589, 592]
 ```
 
-2026-10-18 571 → 2026-10-23 589（+18）
+2026-10-18 571 → 2026-10-24 592（+21）
 
 
 ---

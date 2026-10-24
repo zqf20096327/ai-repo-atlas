@@ -1,6 +1,6 @@
 # Azure-Samples/azure-ai-document-processing-samples
 
-⭐ 125 · Bicep · MIT · 推送 2025-10-27 · [GitHub](https://github.com/Azure-Samples/azure-ai-document-processing-samples) · [官网](https://aka.ms/azure-ai-document-extraction) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Azure AI 文档处理示例集：分类/抽取/脱敏的参考代码**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

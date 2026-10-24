@@ -1,6 +1,6 @@
 # ethanplusai/harvey
 
-⭐ 2,073 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ethanplusai/harvey) · 个人维护
+⭐ 2,274 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ethanplusai/harvey) · 个人维护
 
 **跑在 Claude/Codex 订阅上的自主销售外呼 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ethanplusai/harvey 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1097 --> 2161
-    line [1185, 1670, 1920, 2073]
+    title "ethanplusai/harvey 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1077 --> 2382
+    line [1185, 1670, 1920, 2073, 2274]
 ```
 
-2026-10-18 1,185 → 2026-10-23 2,073（+888）
+2026-10-18 1,185 → 2026-10-24 2,274（+1,089）
 
 
 ---

@@ -1,6 +1,6 @@
 # ranxi2001/zero2Leetcode
 
-⭐ 262 · JavaScript · 推送 2026-10-21 · [GitHub](https://github.com/ranxi2001/zero2Leetcode) · [官网](https://onefly.top/zero2Leetcode/) · 个人维护 · 中文 README
+⭐ 263 · JavaScript · 推送 2026-10-21 · [GitHub](https://github.com/ranxi2001/zero2Leetcode) · [官网](https://onefly.top/zero2Leetcode/) · 个人维护 · 中文 README
 
 **从零基础到算法面试的 Python/LeetCode 学习平台，带 AI 编程教练**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ranxi2001/zero2Leetcode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 244 --> 263
-    line [245, 253, 262]
+    title "ranxi2001/zero2Leetcode 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 244 --> 264
+    line [245, 253, 262, 263]
 ```
 
-2026-10-18 245 → 2026-10-23 262（+17）
+2026-10-18 245 → 2026-10-24 263（+18）
 
 
 ---

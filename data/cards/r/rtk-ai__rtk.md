@@ -1,6 +1,6 @@
 # rtk-ai/rtk
 
-⭐ 84,297 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护 · 中文 README
+⭐ 84,380 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护 · 中文 README
 
 **压缩开发命令输出的 CLI 代理，降低 agent 读取的 token 消耗**
 
@@ -51,13 +51,13 @@ RTK 以 shell hook 方式拦截 agent 的命令调用，在输出进入 LLM 上�
 
 ```mermaid
 xychart-beta
-    title "rtk-ai/rtk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 83655 --> 84355
-    line [83713, 83974, 84297]
+    title "rtk-ai/rtk 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 83647 --> 84446
+    line [83713, 83974, 84297, 84380]
 ```
 
-2026-10-18 83,713 → 2026-10-23 84,297（+584）
+2026-10-18 83,713 → 2026-10-24 84,380（+667）
 
 
 ---

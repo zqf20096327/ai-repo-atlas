@@ -1,6 +1,6 @@
 # pinecone-io/examples
 
-⭐ 3,050 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pinecone-io/examples) · [官网](https://docs.pinecone.io) · 组织维护
+⭐ 3,050 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pinecone-io/examples) · [官网](https://docs.pinecone.io) · 组织维护
 
 **Pinecone 向量数据库的示例应用与 Jupyter Notebook 合集**
 
@@ -46,12 +46,12 @@ Pinecone 官方维护的示例仓库，分两类内容：./docs 下由 Pinecone 
 ```mermaid
 xychart-beta
     title "pinecone-io/examples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 3048 --> 3051
     line [3049, 3050, 3050]
 ```
 
-2026-10-18 3,049 → 2026-10-23 3,050（+1）
+2026-10-18 3,049 → 2026-10-24 3,050（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # bentoml/BentoML
 
-⭐ 8,914 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/bentoml/BentoML) · [官网](https://bentoml.com) · 组织维护
+⭐ 8,917 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bentoml/BentoML) · [官网](https://bentoml.com) · 组织维护
 
 **Python 模型服务框架：把 AI 模型推理脚本构建为 API 服务**
 
@@ -44,13 +44,13 @@ Python 库，用于构建面向 AI 应用与模型推理的在线服务系统：
 
 ```mermaid
 xychart-beta
-    title "bentoml/BentoML 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 8904 --> 8917
-    line [8905, 8909, 8916, 8914]
+    title "bentoml/BentoML 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 8904 --> 8918
+    line [8905, 8909, 8916, 8914, 8917]
 ```
 
-2026-10-18 8,905 → 2026-10-23 8,914（+9）
+2026-10-18 8,905 → 2026-10-24 8,917（+12）
 
 
 ---

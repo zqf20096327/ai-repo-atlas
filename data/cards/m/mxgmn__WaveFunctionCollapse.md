@@ -1,6 +1,6 @@
 # mxgmn/WaveFunctionCollapse
 
-⭐ 25,428 · C# · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/mxgmn/WaveFunctionCollapse) · 个人维护
+⭐ 25,435 · C# · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/mxgmn/WaveFunctionCollapse) · 个人维护
 
 **从单个示例图生成局部相似位图与瓦片地图的程序**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "mxgmn/WaveFunctionCollapse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 25400 --> 25430
-    line [25402, 25416, 25422, 25428]
+    title "mxgmn/WaveFunctionCollapse 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 25399 --> 25438
+    line [25402, 25416, 25422, 25428, 25435]
 ```
 
-2026-10-18 25,402 → 2026-10-23 25,428（+26）
+2026-10-18 25,402 → 2026-10-24 25,435（+33）
 
 
 ---

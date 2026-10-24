@@ -1,6 +1,6 @@
 # nndl/nndl-practice
 
-⭐ 3,548 · Jupyter Notebook · 推送 2026-09-07 · [GitHub](https://github.com/nndl/nndl-practice) · [官网](https://nndl.ai/nndl-practice/) · 组织维护 · 中文 README
+⭐ 3,549 · Jupyter Notebook · 推送 2026-09-07 · [GitHub](https://github.com/nndl/nndl-practice) · [官网](https://nndl.ai/nndl-practice/) · 组织维护 · 中文 README
 
 **深度学习实践教材配套代码库：10 章 PyTorch Notebook 与测试**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "nndl/nndl-practice 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3537 --> 3549
-    line [3538, 3545, 3546, 3548]
+    title "nndl/nndl-practice 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3537 --> 3550
+    line [3538, 3545, 3546, 3548, 3549]
 ```
 
-2026-10-18 3,538 → 2026-10-23 3,548（+10）
+2026-10-18 3,538 → 2026-10-24 3,549（+11）
 
 
 ---

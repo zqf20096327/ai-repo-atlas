@@ -1,6 +1,6 @@
 # LayerNorm/overlay-web
 
-⭐ 185 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/LayerNorm/overlay-web) · [官网](https://getoverlay.io/) · 组织维护
+⭐ 186 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/LayerNorm/overlay-web) · [官网](https://getoverlay.io/) · 组织维护
 
 **人与 AI agent 共享上下位的开源协作工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LayerNorm/overlay-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 183 --> 186
-    line [184, 185]
+    title "LayerNorm/overlay-web 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 183 --> 187
+    line [184, 185, 186]
 ```
 
-2026-10-18 184 → 2026-10-23 185（+1）
+2026-10-18 184 → 2026-10-24 186（+2）
 
 
 ---

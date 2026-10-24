@@ -1,6 +1,6 @@
 # kunchenguid/baby-menu
 
-⭐ 240 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kunchenguid/baby-menu) · 个人维护
+⭐ 241 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kunchenguid/baby-menu) · 个人维护
 
 **可被 AI agent 用自然语言实时改造的 macOS 菜单栏应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kunchenguid/baby-menu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 237 --> 241
-    line [238, 240]
+    title "kunchenguid/baby-menu 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 237 --> 242
+    line [238, 240, 241]
 ```
 
-2026-10-18 238 → 2026-10-23 240（+2）
+2026-10-18 238 → 2026-10-24 241（+3）
 
 
 ---

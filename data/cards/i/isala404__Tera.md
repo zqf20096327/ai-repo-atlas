@@ -44,13 +44,13 @@ Tera 是一个 Rust 守护进程：通过 WhatsApp Rust 连接 WhatsApp Web（�
 
 ```mermaid
 xychart-beta
-    title "isala404/Tera 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "isala404/Tera 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 95 --> 98
-    line [96, 97]
+    line [96, 97, 97]
 ```
 
-2026-10-18 96 → 2026-10-23 97（+1）
+2026-10-18 96 → 2026-10-24 97（+1）
 
 
 ---

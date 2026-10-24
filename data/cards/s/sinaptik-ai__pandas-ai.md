@@ -1,6 +1,6 @@
 # sinaptik-ai/pandas-ai
 
-⭐ 23,898 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/sinaptik-ai/pandas-ai) · [官网](https://pandas-ai.com) · 组织维护
+⭐ 23,899 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/sinaptik-ai/pandas-ai) · [官网](https://pandas-ai.com) · 组织维护
 
 **用自然语言对话查询数据库与数据文件的 Python 库**
 
@@ -51,13 +51,13 @@ PandasAI 是一个 Python 库，通过 LLM 让用户以自然语言向数据提�
 
 ```mermaid
 xychart-beta
-    title "sinaptik-ai/pandas-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 23885 --> 23899
-    line [23886, 23888, 23893, 23898]
+    title "sinaptik-ai/pandas-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 23885 --> 23900
+    line [23886, 23888, 23893, 23898, 23899]
 ```
 
-2026-10-18 23,886 → 2026-10-23 23,898（+12）
+2026-10-18 23,886 → 2026-10-24 23,899（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # linbei0/EcomGen
 
-⭐ 188 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/linbei0/EcomGen) · 个人维护 · 中文 README
+⭐ 194 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/linbei0/EcomGen) · 个人维护 · 中文 README
 
 **面向个人卖家的本地自托管电商 AI 套图生成工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "linbei0/EcomGen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 153 --> 191
-    line [156, 159, 178, 188]
+    title "linbei0/EcomGen 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 153 --> 197
+    line [156, 159, 178, 188, 194]
 ```
 
-2026-10-18 156 → 2026-10-23 188（+32）
+2026-10-18 156 → 2026-10-24 194（+38）
 
 
 ---

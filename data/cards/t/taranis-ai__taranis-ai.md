@@ -1,6 +1,6 @@
 # taranis-ai/taranis-ai
 
-⭐ 1,230 · Python · EUPL-1.2 · 推送 2026-10-22 · [GitHub](https://github.com/taranis-ai/taranis-ai) · [官网](https://taranis.ai/) · 组织维护
+⭐ 1,230 · Python · EUPL-1.2 · 推送 2026-10-23 · [GitHub](https://github.com/taranis-ai/taranis-ai) · [官网](https://taranis.ai/) · 组织维护
 
 **面向情报分析师的开源 OSINT 采集与报告平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "taranis-ai/taranis-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "taranis-ai/taranis-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1228 --> 1231
-    line [1230, 1229, 1230]
+    line [1230, 1229, 1230, 1230]
 ```
 
-2026-10-18 1,230 → 2026-10-23 1,230（+0）
+2026-10-18 1,230 → 2026-10-24 1,230（+0）
 
 
 ---

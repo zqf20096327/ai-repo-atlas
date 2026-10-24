@@ -1,6 +1,6 @@
 # anthropics/claude-cookbooks
 
-⭐ 53,675 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/anthropics/claude-cookbooks) · 组织维护
+⭐ 53,705 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/anthropics/claude-cookbooks) · 组织维护
 
 **面向开发者的 Claude 使用示例与指南手册**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-cookbooks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 53498 --> 53691
-    line [53514, 53581, 53644, 53675]
+    title "anthropics/claude-cookbooks 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 53495 --> 53724
+    line [53514, 53581, 53644, 53675, 53705]
 ```
 
-2026-10-18 53,514 → 2026-10-23 53,675（+161）
+2026-10-18 53,514 → 2026-10-24 53,705（+191）
 
 
 ---

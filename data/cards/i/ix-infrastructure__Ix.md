@@ -1,6 +1,6 @@
 # ix-infrastructure/Ix
 
-⭐ 1,098 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ix-infrastructure/Ix) · [官网](https://www.ix-infra.com) · 组织维护
+⭐ 1,098 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ix-infrastructure/Ix) · [官网](https://www.ix-infra.com) · 组织维护
 
 **代码库结构图谱工具：解析仓库供人与 AI 客户端查询**
 
@@ -45,13 +45,13 @@ Ix 用 tree-sitter 解析仓库，将符号、调用与导入关系持久化为�
 
 ```mermaid
 xychart-beta
-    title "ix-infrastructure/Ix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "ix-infrastructure/Ix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1092 --> 1099
-    line [1093, 1095, 1096, 1098]
+    line [1093, 1095, 1096, 1098, 1098]
 ```
 
-2026-10-18 1,093 → 2026-10-23 1,098（+5）
+2026-10-18 1,093 → 2026-10-24 1,098（+5）
 
 
 ---

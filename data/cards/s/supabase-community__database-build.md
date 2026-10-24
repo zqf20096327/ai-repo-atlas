@@ -1,6 +1,6 @@
 # supabase-community/database-build
 
-⭐ 2,952 · TypeScript · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/supabase-community/database-build) · [官网](https://database.build) · 组织维护
+⭐ 2,950 · TypeScript · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/supabase-community/database-build) · [官网](https://database.build) · 组织维护
 
 **浏览器内 Postgres 沙箱，配 LLM 辅助建库与生成报表**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "supabase-community/database-build 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 2951 --> 2953
-    line [2952, 2952]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 2949 --> 2953
+    line [2952, 2950]
 ```
 
-2026-10-18 2,952 → 2026-10-23 2,952（+0）
+2026-10-18 2,952 → 2026-10-24 2,950（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # muellerberndt/cadence
 
-⭐ 453 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/muellerberndt/cadence) · [官网](https://floatingpragma.io/cadence/) · 个人维护
+⭐ 453 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/muellerberndt/cadence) · [官网](https://floatingpragma.io/) · 个人维护
 
 **研究用类脑在线学习库：持续感知、记忆与行动**
 
@@ -44,13 +44,13 @@ Cadence 是 GPL v3 许可的 Python 研究库（alpha 阶段），构建一个�
 
 ```mermaid
 xychart-beta
-    title "muellerberndt/cadence 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "muellerberndt/cadence 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 448 --> 454
-    line [449, 453, 452, 453]
+    line [449, 453, 452, 453, 453]
 ```
 
-2026-10-18 449 → 2026-10-23 453（+4）
+2026-10-18 449 → 2026-10-24 453（+4）
 
 
 ---

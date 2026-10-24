@@ -1,6 +1,6 @@
 # CSSLab/maia-chess
 
-⭐ 1,259 · Python · GPL-3.0 · 推送 2026-05-24 · [GitHub](https://github.com/CSSLab/maia-chess) · [官网](https://maiachess.com) · 组织维护
+⭐ 1,260 · Python · GPL-3.0 · 推送 2026-05-24 · [GitHub](https://github.com/CSSLab/maia-chess) · [官网](https://maiachess.com) · 组织维护
 
 **模仿人类棋风的神经网络国际象棋引擎（1100-1900 ELO）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CSSLab/maia-chess 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1255 --> 1260
-    line [1256, 1258, 1259, 1259]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1255 --> 1261
+    line [1256, 1258, 1259, 1260]
 ```
 
-2026-10-18 1,256 → 2026-10-23 1,259（+3）
+2026-10-18 1,256 → 2026-10-24 1,260（+4）
 
 
 ---

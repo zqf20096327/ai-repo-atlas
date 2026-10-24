@@ -1,6 +1,6 @@
 # BeRo1985/pasllm
 
-⭐ 107 · Pascal · AGPL-3.0 · 推送 2026-05-01 · [GitHub](https://github.com/BeRo1985/pasllm) · 个人维护
+⭐ 106 · Pascal · AGPL-3.0 · 推送 2026-05-01 · [GitHub](https://github.com/BeRo1985/pasllm) · 个人维护
 
 **纯 Object Pascal 编写的本地 LLM 推理引擎（CPU）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BeRo1985/pasllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "BeRo1985/pasllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 105 --> 108
-    line [106, 107]
+    line [106, 107, 106]
 ```
 
-2026-10-18 106 → 2026-10-23 107（+1）
+2026-10-18 106 → 2026-10-24 106（+0）
 
 
 ---

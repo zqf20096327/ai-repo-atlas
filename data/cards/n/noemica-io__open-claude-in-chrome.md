@@ -1,6 +1,6 @@
 # noemica-io/open-claude-in-chrome
 
-⭐ 255 · HTML · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/noemica-io/open-claude-in-chrome) · 组织维护
+⭐ 256 · HTML · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/noemica-io/open-claude-in-chrome) · 组织维护
 
 **开源版 Claude 浏览器扩展：无域名封锁的 Claude Code 浏览器自动化**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "noemica-io/open-claude-in-chrome 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 250 --> 256
-    line [251, 255, 255]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 250 --> 257
+    line [251, 255, 256]
 ```
 
-2026-10-18 251 → 2026-10-23 255（+4）
+2026-10-18 251 → 2026-10-24 256（+5）
 
 
 ---

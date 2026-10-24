@@ -45,13 +45,13 @@ bitsandbytes 是 PyTorch 生态的量化库，提供三项主要能力：8-bit �
 
 ```mermaid
 xychart-beta
-    title "bitsandbytes-foundation/bitsandbytes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "bitsandbytes-foundation/bitsandbytes 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 8525 --> 8530
-    line [8526, 8529, 8528]
+    line [8526, 8529, 8528, 8528]
 ```
 
-2026-10-18 8,526 → 2026-10-23 8,528（+2）
+2026-10-18 8,526 → 2026-10-24 8,528（+2）
 
 
 ---

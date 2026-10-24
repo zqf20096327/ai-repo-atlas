@@ -1,6 +1,6 @@
 # shootthesound/Fizgig
 
-⭐ 593 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/shootthesound/Fizgig) · 个人维护
+⭐ 599 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/shootthesound/Fizgig) · 个人维护
 
 **消费级 GPU 上训练图像/视频/音乐模型 LoRA 与微调的训练工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shootthesound/Fizgig 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 534 --> 598
-    line [539, 564, 585, 593]
+    title "shootthesound/Fizgig 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 533 --> 605
+    line [539, 564, 585, 593, 599]
 ```
 
-2026-10-18 539 → 2026-10-23 593（+54）
+2026-10-18 539 → 2026-10-24 599（+60）
 
 
 ---

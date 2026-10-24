@@ -1,6 +1,6 @@
 # flyteorg/flyte
 
-⭐ 7,745 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/flyteorg/flyte) · [官网](https://flyte.org) · 组织维护
+⭐ 7,754 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/flyteorg/flyte) · [官网](https://flyte.org) · 组织维护
 
 **面向 ML 流水线、模型与 agent 的分布式编排框架**
 
@@ -44,13 +44,13 @@ Flyte 2 是 LF AI & Data 基金会毕业项目，用纯 Python（支持 async/aw
 
 ```mermaid
 xychart-beta
-    title "flyteorg/flyte 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7714 --> 7747
-    line [7716, 7731, 7743, 7745]
+    title "flyteorg/flyte 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7713 --> 7757
+    line [7716, 7731, 7743, 7745, 7754]
 ```
 
-2026-10-18 7,716 → 2026-10-23 7,745（+29）
+2026-10-18 7,716 → 2026-10-24 7,754（+38）
 
 
 ---

@@ -1,6 +1,6 @@
 # DSH-APP/DSHA
 
-⭐ 1,996 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DSH-APP/DSHA) · 组织维护 · 中文 README
+⭐ 2,084 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/DSH-APP/DSHA) · 组织维护 · 中文 README
 
 **安卓上运行 DeepSeek Harness 的免 ROOT 启动器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DSH-APP/DSHA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1416 --> 2048
-    line [1468, 1712, 1996]
+    title "DSH-APP/DSHA 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1407 --> 2145
+    line [1468, 1712, 1996, 2084]
 ```
 
-2026-10-18 1,468 → 2026-10-23 1,996（+528）
+2026-10-18 1,468 → 2026-10-24 2,084（+616）
 
 
 ---

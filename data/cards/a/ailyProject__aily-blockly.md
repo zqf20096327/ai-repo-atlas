@@ -1,6 +1,6 @@
 # ailyProject/aily-blockly
 
-⭐ 3,854 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ailyProject/aily-blockly) · [官网](https://aily.pro) · 组织维护 · 中文 README
+⭐ 3,855 · TypeScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ailyProject/aily-blockly) · [官网](https://aily.pro) · 组织维护 · 中文 README
 
 **面向非专业用户的图形化硬件开发 IDE，AI 辅助编程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ailyProject/aily-blockly 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3841 --> 3855
-    line [3842, 3849, 3852, 3854]
+    title "ailyProject/aily-blockly 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3841 --> 3856
+    line [3842, 3849, 3852, 3854, 3855]
 ```
 
-2026-10-18 3,842 → 2026-10-23 3,854（+12）
+2026-10-18 3,842 → 2026-10-24 3,855（+13）
 
 
 ---

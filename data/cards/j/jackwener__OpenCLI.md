@@ -1,6 +1,6 @@
 # jackwener/OpenCLI
 
-⭐ 30,546 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/jackwener/OpenCLI) · [官网](https://opencli.info/) · 个人维护 · 中文 README
+⭐ 30,589 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jackwener/OpenCLI) · [官网](https://opencli.info/) · 个人维护 · 中文 README
 
 **把任意网站变成 CLI 命令、供 AI agent 操作登录态浏览器的工具**
 
@@ -52,13 +52,13 @@ OpenCLI 是面向 AI agent 的通用浏览器自动化 CLI，同时自称 agent-
 
 ```mermaid
 xychart-beta
-    title "jackwener/OpenCLI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 30357 --> 30563
-    line [30374, 30440, 30500, 30546]
+    title "jackwener/OpenCLI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 30353 --> 30610
+    line [30374, 30440, 30500, 30546, 30589]
 ```
 
-2026-10-18 30,374 → 2026-10-23 30,546（+172）
+2026-10-18 30,374 → 2026-10-24 30,589（+215）
 
 
 ---

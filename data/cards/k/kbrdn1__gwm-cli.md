@@ -47,12 +47,12 @@ Rust 编写的单二进制 git worktree 管理器，基于 vendored libgit2 提�
 ```mermaid
 xychart-beta
     title "kbrdn1/gwm-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 147 --> 149
     line [148, 148]
 ```
 
-2026-10-18 148 → 2026-10-23 148（+0）
+2026-10-18 148 → 2026-10-24 148（+0）
 
 
 ---

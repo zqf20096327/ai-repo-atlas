@@ -1,6 +1,6 @@
 # NVIDIA/cuml
 
-⭐ 5,305 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/cuml) · [官网](https://docs.nvidia.com/cuml/) · 组织维护
+⭐ 5,306 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/cuml) · [官网](https://docs.nvidia.com/cuml/) · 组织维护
 
 **面向 NVIDIA GPU 的机器学习加速库，兼容 scikit-learn 工作流**
 
@@ -46,13 +46,13 @@ NVIDIA 开源的 CUDA-X 数据科学库，提供两种在 GPU 上运行机器学
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cuml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "NVIDIA/cuml 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 5304 --> 5307
-    line [5306, 5305]
+    line [5306, 5305, 5306]
 ```
 
-2026-10-18 5,306 → 2026-10-23 5,305（-1）
+2026-10-18 5,306 → 2026-10-24 5,306（+0）
 
 
 ---

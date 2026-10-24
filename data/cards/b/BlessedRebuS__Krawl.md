@@ -1,6 +1,6 @@
 # BlessedRebuS/Krawl
 
-⭐ 787 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/BlessedRebuS/Krawl) · [官网](https://demo.krawlme.com/das_dashboard) · 个人维护
+⭐ 788 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/BlessedRebuS/Krawl) · [官网](https://demo.krawlme.com/das_dashboard) · 个人维护
 
 **云原生 Web 蜜罐服务器：用假应用与 AI 生成页面诱捕攻击者与爬虫**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BlessedRebuS/Krawl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 783 --> 788
-    line [784, 785, 787]
+    title "BlessedRebuS/Krawl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 783 --> 789
+    line [784, 785, 787, 788]
 ```
 
-2026-10-18 784 → 2026-10-23 787（+3）
+2026-10-18 784 → 2026-10-24 788（+4）
 
 
 ---

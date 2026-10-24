@@ -1,6 +1,6 @@
 # mukul975/Anthropic-Cybersecurity-Skills
 
-⭐ 34,849 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) · [官网](https://mahipal.engineer/Anthropic-Cybersecurity-Skills/) · 个人维护
+⭐ 34,906 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) · [官网](https://mahipal.engineer/Anthropic-Cybersecurity-Skills/) · 个人维护
 
 **为 AI 代理提供网络安全技能库：818 条技能，映射 6 大框架**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "mukul975/Anthropic-Cybersecurity-Skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 34577 --> 34873
-    line [34601, 34711, 34849]
+    title "mukul975/Anthropic-Cybersecurity-Skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 34571 --> 34936
+    line [34601, 34711, 34849, 34906]
 ```
 
-2026-10-18 34,601 → 2026-10-23 34,849（+248）
+2026-10-18 34,601 → 2026-10-24 34,906（+305）
 
 
 ---

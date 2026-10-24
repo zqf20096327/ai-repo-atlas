@@ -1,6 +1,6 @@
 # elebitzero/openai-react-chat
 
-⭐ 127 · TypeScript · MIT · 推送 2025-11-21 · [GitHub](https://github.com/elebitzero/openai-react-chat) · 个人维护
+⭐ 126 · TypeScript · MIT · 推送 2025-11-21 · [GitHub](https://github.com/elebitzero/openai-react-chat) · 个人维护
 
 **面向开发者的 OpenAI API 网页聊天前端**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "elebitzero/openai-react-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 126 --> 128
-    line [127, 127]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 125 --> 128
+    line [127, 126]
 ```
 
-2026-10-18 127 → 2026-10-23 127（+0）
+2026-10-18 127 → 2026-10-24 126（-1）
 
 
 ---

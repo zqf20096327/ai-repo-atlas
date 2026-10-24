@@ -1,6 +1,6 @@
 # FLAIROx/Kinetix
 
-⭐ 280 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/FLAIROx/Kinetix) · [官网](https://kinetix-env.github.io/) · 组织维护
+⭐ 281 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/FLAIROx/Kinetix) · [官网](https://kinetix-env.github.io/) · 组织维护
 
 **JAX 2D 刚体物理世界中的强化学习研究框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FLAIROx/Kinetix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 276 --> 281
-    line [277, 278, 279, 280]
+    title "FLAIROx/Kinetix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 276 --> 282
+    line [277, 278, 279, 280, 281]
 ```
 
-2026-10-18 277 → 2026-10-23 280（+3）
+2026-10-18 277 → 2026-10-24 281（+4）
 
 
 ---

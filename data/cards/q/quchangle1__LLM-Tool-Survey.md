@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "quchangle1/LLM-Tool-Survey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "quchangle1/LLM-Tool-Survey 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 491 --> 494
-    line [492, 493]
+    line [492, 493, 493]
 ```
 
-2026-10-18 492 → 2026-10-23 493（+1）
+2026-10-18 492 → 2026-10-24 493（+1）
 
 
 ---

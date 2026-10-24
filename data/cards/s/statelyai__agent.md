@@ -1,6 +1,6 @@
 # statelyai/agent
 
-⭐ 483 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/statelyai/agent) · [官网](https://stately.ai/docs/agents) · 组织维护
+⭐ 484 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/statelyai/agent) · [官网](https://stately.ai/docs/agents) · 组织维护
 
 **基于 XState 状态机构建 LLM agent 的 TypeScript 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "statelyai/agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 478 --> 484
-    line [479, 480, 482, 483]
+    title "statelyai/agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 478 --> 485
+    line [479, 480, 482, 483, 484]
 ```
 
-2026-10-18 479 → 2026-10-23 483（+4）
+2026-10-18 479 → 2026-10-24 484（+5）
 
 
 ---

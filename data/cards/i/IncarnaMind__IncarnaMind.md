@@ -1,6 +1,6 @@
 # IncarnaMind/IncarnaMind
 
-⭐ 843 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/IncarnaMind/IncarnaMind) · 个人维护 · 中文 README
+⭐ 843 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/IncarnaMind/IncarnaMind) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI 写作与文档问答应用，引用逐句核验**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IncarnaMind/IncarnaMind 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "IncarnaMind/IncarnaMind 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 814 --> 845
-    line [816, 838, 841, 843]
+    line [816, 838, 841, 843, 843]
 ```
 
-2026-10-18 816 → 2026-10-23 843（+27）
+2026-10-18 816 → 2026-10-24 843（+27）
 
 
 ---

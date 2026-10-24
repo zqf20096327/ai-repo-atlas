@@ -1,6 +1,6 @@
 # Sec-Link/Argus-Agentic-SOC-Platform
 
-⭐ 1,179 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Sec-Link/Argus-Agentic-SOC-Platform) · [官网](https://siem.seclink.info) · 组织维护 · 中文 README
+⭐ 1,179 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Sec-Link/Argus-Agentic-SOC-Platform) · [官网](https://siem.seclink.info) · 组织维护 · 中文 README
 
 **开源 AI 原生 Agentic SOC 平台，覆盖告警、工单、CMDB 与自动化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sec-Link/Argus-Agentic-SOC-Platform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "Sec-Link/Argus-Agentic-SOC-Platform 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1177 --> 1207
-    line [1204, 1205, 1179]
+    line [1204, 1205, 1179, 1179]
 ```
 
-2026-10-18 1,204 → 2026-10-23 1,179（-25）
+2026-10-18 1,204 → 2026-10-24 1,179（-25）
 
 
 ---

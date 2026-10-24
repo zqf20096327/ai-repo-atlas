@@ -1,6 +1,6 @@
 # snflkd/fluent-korean
 
-⭐ 1,446 · MIT · 推送 2026-08-23 · [GitHub](https://github.com/snflkd/fluent-korean) · 个人维护
+⭐ 1,450 · MIT · 推送 2026-08-23 · [GitHub](https://github.com/snflkd/fluent-korean) · 个人维护
 
 **让 Claude Code 输出清晰韩语的 output-style 插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "snflkd/fluent-korean 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1427 --> 1447
-    line [1428, 1433, 1446]
+    title "snflkd/fluent-korean 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1426 --> 1452
+    line [1428, 1433, 1446, 1450]
 ```
 
-2026-10-18 1,428 → 2026-10-23 1,446（+18）
+2026-10-18 1,428 → 2026-10-24 1,450（+22）
 
 
 ---

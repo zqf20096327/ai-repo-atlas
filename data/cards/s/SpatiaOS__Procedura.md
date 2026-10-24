@@ -1,6 +1,6 @@
 # SpatiaOS/Procedura
 
-⭐ 416 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/SpatiaOS/Procedura) · [官网](https://spatiaos.github.io/projects/procedura/) · 组织维护
+⭐ 419 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/SpatiaOS/Procedura) · [官网](https://spatiaos.github.io/projects/procedura/) · 组织维护
 
 **文本/图像生成可编辑参数化 3D 模型的 MCP 工具**
 
@@ -44,13 +44,13 @@ Procedura 将文本描述或参考图转换为可编辑的 3D 模型：逐部件
 
 ```mermaid
 xychart-beta
-    title "SpatiaOS/Procedura 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 400 --> 417
-    line [401, 406, 412, 416]
+    title "SpatiaOS/Procedura 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 400 --> 420
+    line [401, 406, 412, 416, 419]
 ```
 
-2026-10-18 401 → 2026-10-23 416（+15）
+2026-10-18 401 → 2026-10-24 419（+18）
 
 
 ---

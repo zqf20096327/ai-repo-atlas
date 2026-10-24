@@ -1,6 +1,6 @@
 # open-compass/opencompass
 
-⭐ 7,536 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/open-compass/opencompass) · [官网](https://opencompass.org.cn/) · 组织维护 · 中文 README
+⭐ 7,538 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/open-compass/opencompass) · [官网](https://opencompass.org.cn/) · 组织维护 · 中文 README
 
 **大模型评测平台：配置数据集与模型、推理、评测到汇总的一站式流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-compass/opencompass 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 7522 --> 7537
-    line [7523, 7528, 7536]
+    title "open-compass/opencompass 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7522 --> 7539
+    line [7523, 7528, 7536, 7538]
 ```
 
-2026-10-18 7,523 → 2026-10-23 7,536（+13）
+2026-10-18 7,523 → 2026-10-24 7,538（+15）
 
 
 ---

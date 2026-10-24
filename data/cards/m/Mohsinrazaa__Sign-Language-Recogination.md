@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mohsinrazaa/Sign-Language-Recogination 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-22", "2026-10-24"]
     y-axis "stars" 129 --> 131
     line [130, 130]
 ```
 
-2026-10-22 130 → 2026-10-23 130（+0）
+2026-10-22 130 → 2026-10-24 130（+0）
 
 
 ---

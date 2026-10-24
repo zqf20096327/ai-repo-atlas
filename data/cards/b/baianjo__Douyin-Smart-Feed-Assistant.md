@@ -1,6 +1,6 @@
 # baianjo/Douyin-Smart-Feed-Assistant
 
-⭐ 193 · TypeScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/baianjo/Douyin-Smart-Feed-Assistant) · 个人维护 · 中文 README
+⭐ 194 · TypeScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/baianjo/Douyin-Smart-Feed-Assistant) · 个人维护 · 中文 README
 
 **用 LLM 自动调教抖音推荐流的油猴脚本，面向普通用户**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "baianjo/Douyin-Smart-Feed-Assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 192 --> 196
-    line [193, 195, 193, 193]
+    line [193, 195, 193, 194]
 ```
 
-2026-10-18 193 → 2026-10-23 193（+0）
+2026-10-18 193 → 2026-10-24 194（+1）
 
 
 ---

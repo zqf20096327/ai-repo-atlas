@@ -1,6 +1,6 @@
 # dat999zx/knowl
 
-⭐ 114 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/dat999zx/knowl) · [官网](https://knowl.cloud) · 个人维护
+⭐ 115 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/dat999zx/knowl) · [官网](https://knowl.cloud) · 个人维护
 
 **AI agent 持久记忆系统：事实被取代时自动退役旧条目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dat999zx/knowl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 104 --> 115
-    line [105, 108, 113, 114]
+    title "dat999zx/knowl 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 104 --> 116
+    line [105, 108, 113, 114, 115]
 ```
 
-2026-10-18 105 → 2026-10-23 114（+9）
+2026-10-18 105 → 2026-10-24 115（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan3D-WorldClaw
 
-⭐ 1,407 · 推送 2026-08-13 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) · [官网](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) · 组织维护 · 中文 README
+⭐ 1,410 · 推送 2026-08-13 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) · [官网](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) · 组织维护 · 中文 README
 
 **腾讯混元的大规模 3D 开放世界智能体生成研究（论文发布）**
 
@@ -42,13 +42,13 @@ WorldClaw 是腾讯混元团队的研究项目，主题为 Agentic 3D 开放世�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hunyuan3D-WorldClaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1391 --> 1408
-    line [1392, 1403, 1406, 1407]
+    title "Tencent-Hunyuan/Hunyuan3D-WorldClaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1391 --> 1411
+    line [1392, 1403, 1406, 1407, 1410]
 ```
 
-2026-10-18 1,392 → 2026-10-23 1,407（+15）
+2026-10-18 1,392 → 2026-10-24 1,410（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # trymirai/uzu
 
-⭐ 2,540 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/trymirai/uzu) · [官网](https://trymirai.com) · 组织维护
+⭐ 2,552 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/trymirai/uzu) · [官网](https://trymirai.com) · 组织维护
 
 **Rust 推理引擎：在应用内本地运行 LLM，多语言绑定**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "trymirai/uzu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2364 --> 2556
-    line [2380, 2402, 2469, 2540]
+    title "trymirai/uzu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2363 --> 2569
+    line [2380, 2402, 2469, 2540, 2552]
 ```
 
-2026-10-18 2,380 → 2026-10-23 2,540（+160）
+2026-10-18 2,380 → 2026-10-24 2,552（+172）
 
 
 ---

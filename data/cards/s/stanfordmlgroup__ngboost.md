@@ -43,13 +43,13 @@ NGBoost 是实现自然梯度提升（Natural Gradient Boosting）的 Python 库
 
 ```mermaid
 xychart-beta
-    title "stanfordmlgroup/ngboost 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    title "stanfordmlgroup/ngboost 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1892 --> 1897
-    line [1893, 1894, 1896]
+    line [1893, 1894, 1896, 1896]
 ```
 
-2026-10-18 1,893 → 2026-10-23 1,896（+3）
+2026-10-18 1,893 → 2026-10-24 1,896（+3）
 
 
 ---

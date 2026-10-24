@@ -1,6 +1,6 @@
 # Edwardxlai/easyread
 
-⭐ 1,010 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Edwardxlai/easyread) · [官网](https://edwardxlai.github.io/easyread/) · 个人维护 · 中文 README
+⭐ 1,011 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Edwardxlai/easyread) · [官网](https://edwardxlai.github.io/easyread/) · 个人维护 · 中文 README
 
 **本地 PDF 论文翻译阅读器：中文对照、划线笔记、边读边问 AI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Edwardxlai/easyread 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 964 --> 1014
-    line [968, 982, 997, 1010]
+    title "Edwardxlai/easyread 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 964 --> 1015
+    line [968, 982, 997, 1010, 1011]
 ```
 
-2026-10-18 968 → 2026-10-23 1,010（+42）
+2026-10-18 968 → 2026-10-24 1,011（+43）
 
 
 ---

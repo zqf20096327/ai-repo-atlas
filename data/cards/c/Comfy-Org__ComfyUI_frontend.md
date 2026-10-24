@@ -1,6 +1,6 @@
 # Comfy-Org/ComfyUI_frontend
 
-⭐ 2,082 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Comfy-Org/ComfyUI_frontend) · [官网](https://www.comfy.org/) · 组织维护
+⭐ 2,083 · TypeScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Comfy-Org/ComfyUI_frontend) · [官网](https://www.comfy.org/) · 组织维护
 
 **ComfyUI 官方前端实现：节点画布等图形界面**
 
@@ -44,13 +44,13 @@ Comfy-Org 维护的 ComfyUI 官方前端项目，提供节点图编辑（Litegra
 
 ```mermaid
 xychart-beta
-    title "Comfy-Org/ComfyUI_frontend 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2070 --> 2083
-    line [2071, 2076, 2081, 2082]
+    title "Comfy-Org/ComfyUI_frontend 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2070 --> 2084
+    line [2071, 2076, 2081, 2082, 2083]
 ```
 
-2026-10-18 2,071 → 2026-10-23 2,082（+11）
+2026-10-18 2,071 → 2026-10-24 2,083（+12）
 
 
 ---

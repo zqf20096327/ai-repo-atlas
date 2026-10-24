@@ -1,6 +1,6 @@
 # OpenMOSS/MOSS-TTS
 
-⭐ 4,239 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/OpenMOSS/MOSS-TTS) · [官网](https://mosi.cn/models/moss-tts) · 组织维护 · 中文 README
+⭐ 4,244 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/OpenMOSS/MOSS-TTS) · [官网](https://mosi.cn/models/moss-tts) · 组织维护 · 中文 README
 
 **开源语音/音效生成模型家族：长语音、对话、音色设计与流式 TTS**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenMOSS/MOSS-TTS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 4219 --> 4240
-    line [4220, 4227, 4239]
+    title "OpenMOSS/MOSS-TTS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4218 --> 4246
+    line [4220, 4227, 4239, 4244]
 ```
 
-2026-10-18 4,220 → 2026-10-23 4,239（+19）
+2026-10-18 4,220 → 2026-10-24 4,244（+24）
 
 
 ---

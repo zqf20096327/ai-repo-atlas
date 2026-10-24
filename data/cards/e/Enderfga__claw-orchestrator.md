@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "Enderfga/claw-orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Enderfga/claw-orchestrator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 594 --> 598
-    line [595, 597]
+    line [595, 597, 597]
 ```
 
-2026-10-18 595 → 2026-10-23 597（+2）
+2026-10-18 595 → 2026-10-24 597（+2）
 
 
 ---

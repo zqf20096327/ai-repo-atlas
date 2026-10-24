@@ -46,12 +46,12 @@ comfyui-mcp 项目的面板 UI：作为 ComfyUI 自定义节点安装后在侧�
 ```mermaid
 xychart-beta
     title "artokun/comfyui-mcp-panel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 128 --> 130
     line [129, 129]
 ```
 
-2026-10-18 129 → 2026-10-23 129（+0）
+2026-10-18 129 → 2026-10-24 129（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # beehive-lab/TornadoVM
 
-⭐ 1,531 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/beehive-lab/TornadoVM) · [官网](https://www.tornadovm.org) · 组织维护
+⭐ 1,532 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/beehive-lab/TornadoVM) · [官网](https://www.tornadovm.org) · 组织维护
 
 **Java GPU 编程框架：把 Java 字节码 JIT 编译到 GPU 运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "beehive-lab/TornadoVM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1527 --> 1532
-    line [1528, 1529, 1531]
+    title "beehive-lab/TornadoVM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1527 --> 1533
+    line [1528, 1529, 1531, 1532]
 ```
 
-2026-10-18 1,528 → 2026-10-23 1,531（+3）
+2026-10-18 1,528 → 2026-10-24 1,532（+4）
 
 
 ---

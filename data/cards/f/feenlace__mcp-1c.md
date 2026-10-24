@@ -1,6 +1,6 @@
 # feenlace/mcp-1c
 
-⭐ 248 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/feenlace/mcp-1c) · [官网](https://feenlace.ru) · 个人维护 · 中文 README
+⭐ 250 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/feenlace/mcp-1c) · [官网](https://feenlace.ru) · 个人维护 · 中文 README
 
 **连接 AI 助手与 1С:Enterprise 的 MCP 服务器，读取配置元数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "feenlace/mcp-1c 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 246 --> 249
-    line [247, 248]
+    title "feenlace/mcp-1c 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 246 --> 251
+    line [247, 248, 250]
 ```
 
-2026-10-18 247 → 2026-10-23 248（+1）
+2026-10-18 247 → 2026-10-24 250（+3）
 
 
 ---

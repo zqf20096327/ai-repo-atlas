@@ -1,6 +1,6 @@
 # nianticlabs/acezero
 
-⭐ 808 · Python · NOASSERTION · 推送 2025-11-10 · [GitHub](https://github.com/nianticlabs/acezero) · [官网](https://nianticlabs.github.io/acezero/) · 组织维护
+⭐ 809 · Python · NOASSERTION · 推送 2025-11-10 · [GitHub](https://github.com/nianticlabs/acezero) · [官网](https://nianticlabs.github.io/acezero/) · 组织维护
 
 **学习式运动恢复结构：从图像集合估计相机位姿与场景重建**
 
@@ -45,12 +45,12 @@ ECCV 2024 Oral 论文的官方代码。基于 ACE 场景坐标回归模型（MLP
 ```mermaid
 xychart-beta
     title "nianticlabs/acezero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 807 --> 809
-    line [808, 808]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 807 --> 810
+    line [808, 809]
 ```
 
-2026-10-18 808 → 2026-10-23 808（+0）
+2026-10-18 808 → 2026-10-24 809（+1）
 
 
 ---

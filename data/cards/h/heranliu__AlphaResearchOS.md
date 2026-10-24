@@ -1,6 +1,6 @@
 # heranliu/AlphaResearchOS
 
-⭐ 107 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/heranliu/AlphaResearchOS) · 个人维护 · 中文 README
+⭐ 110 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/heranliu/AlphaResearchOS) · 个人维护 · 中文 README
 
 **本地量化研究工作台：接入模型 API 从 CSV 生成可审计策略**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "heranliu/AlphaResearchOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 101 --> 108
-    line [102, 106, 107]
+    title "heranliu/AlphaResearchOS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 101 --> 111
+    line [102, 106, 107, 110]
 ```
 
-2026-10-18 102 → 2026-10-23 107（+5）
+2026-10-18 102 → 2026-10-24 110（+8）
 
 
 ---

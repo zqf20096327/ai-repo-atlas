@@ -1,6 +1,6 @@
 # google/skills
 
-⭐ 21,491 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/skills) · 组织维护
+⭐ 21,522 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/skills) · 组织维护
 
 **Google 产品与云技术的 AI agent 技能库（含插件）**
 
@@ -51,13 +51,13 @@ Google 维护的 Agent Skills 仓库，收录面向 Google Cloud、GKE、BigQuer
 
 ```mermaid
 xychart-beta
-    title "google/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 21366 --> 21502
-    line [21377, 21423, 21465, 21491]
+    title "google/skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 21363 --> 21536
+    line [21377, 21423, 21465, 21491, 21522]
 ```
 
-2026-10-18 21,377 → 2026-10-23 21,491（+114）
+2026-10-18 21,377 → 2026-10-24 21,522（+145）
 
 
 ---

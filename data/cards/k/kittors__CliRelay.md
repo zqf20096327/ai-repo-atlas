@@ -1,6 +1,6 @@
 # kittors/CliRelay
 
-⭐ 1,042 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kittors/CliRelay) · 组织维护 · 中文 README
+⭐ 1,043 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kittors/CliRelay) · 组织维护 · 中文 README
 
 **面向编码 CLI 的自托管 AI 网关：多租户管控上游订阅与 API Key**
 
@@ -45,13 +45,13 @@ CLIProxyAPI 的扩展分支，用 Go 编写的自托管网关：将 Claude、Cod
 
 ```mermaid
 xychart-beta
-    title "kittors/CliRelay 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1038 --> 1043
-    line [1040, 1039, 1042]
+    title "kittors/CliRelay 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1038 --> 1044
+    line [1040, 1039, 1042, 1043]
 ```
 
-2026-10-18 1,040 → 2026-10-23 1,042（+2）
+2026-10-18 1,040 → 2026-10-24 1,043（+3）
 
 
 ---

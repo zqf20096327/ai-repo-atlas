@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "weiwei966/awesome-ai-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "weiwei966/awesome-ai-harness 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 136 --> 154
-    line [153, 137]
+    line [153, 137, 137]
 ```
 
-2026-10-18 153 → 2026-10-23 137（-16）
+2026-10-18 153 → 2026-10-24 137（-16）
 
 
 ---

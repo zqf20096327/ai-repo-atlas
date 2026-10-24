@@ -1,6 +1,6 @@
 # anush008/fastembed-rs
 
-⭐ 1,045 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/anush008/fastembed-rs) · [官网](https://docs.rs/fastembed) · 个人维护
+⭐ 1,046 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anush008/fastembed-rs) · [官网](https://docs.rs/fastembed) · 个人维护
 
 **本地生成向量嵌入与重排序的 Rust 库**
 
@@ -44,13 +44,13 @@ Rust 嵌入与重排序库：基于 pykeio/ort 做 ONNX 本地推理，支持文
 
 ```mermaid
 xychart-beta
-    title "anush008/fastembed-rs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1037 --> 1046
-    line [1038, 1041, 1044, 1045]
+    title "anush008/fastembed-rs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1037 --> 1047
+    line [1038, 1041, 1044, 1045, 1046]
 ```
 
-2026-10-18 1,038 → 2026-10-23 1,045（+7）
+2026-10-18 1,038 → 2026-10-24 1,046（+8）
 
 
 ---

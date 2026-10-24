@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-World-2.0
 
-⭐ 2,761 · Python · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/Tencent-Hunyuan/HY-World-2.0) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
+⭐ 2,764 · Python · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/Tencent-Hunyuan/HY-World-2.0) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
 
 **腾讯混元多模态世界模型：从文本/图像/视频生成与重建 3D 世界**
 
@@ -45,13 +45,13 @@ HY-World 2.0 是腾讯混元开源的多模态世界模型框架，含两大能�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HY-World-2.0 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2744 --> 2762
-    line [2745, 2755, 2758, 2761]
+    title "Tencent-Hunyuan/HY-World-2.0 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2744 --> 2765
+    line [2745, 2755, 2758, 2761, 2764]
 ```
 
-2026-10-18 2,745 → 2026-10-23 2,761（+16）
+2026-10-18 2,745 → 2026-10-24 2,764（+19）
 
 
 ---

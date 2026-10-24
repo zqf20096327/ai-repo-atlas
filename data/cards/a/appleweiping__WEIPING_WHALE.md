@@ -41,6 +41,18 @@ TypeScript 编写的约 8,500 行终端编码 agent，是 Rust 项目 CodeWhale 
 > L85: 4. **The loop.** `Agent.complete()` sends the messages plus every tool
 > L133: - The client targets DeepSeek's OpenAI-compatible chat API; other endpoints set via
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "appleweiping/WEIPING_WHALE 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-10-24"]
+    y-axis "stars" 130 --> 132
+    line [131, 131]
+```
+
+2026-10-23 131 → 2026-10-24 131（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `4aaf462551a6` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # dsphper/lanhu-mcp
 
-⭐ 2,510 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/dsphper/lanhu-mcp) · 个人维护 · 中文 README
+⭐ 2,511 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/dsphper/lanhu-mcp) · 个人维护 · 中文 README
 
 **面向蓝湖设计交付的 MCP 服务器：让 AI 客户端读取需求文档与设计稿并共享团队知识**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dsphper/lanhu-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2481 --> 2512
-    line [2483, 2487, 2503, 2510]
+    title "dsphper/lanhu-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2481 --> 2513
+    line [2483, 2487, 2503, 2510, 2511]
 ```
 
-2026-10-18 2,483 → 2026-10-23 2,510（+27）
+2026-10-18 2,483 → 2026-10-24 2,511（+28）
 
 
 ---

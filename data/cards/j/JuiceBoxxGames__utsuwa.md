@@ -1,6 +1,6 @@
 # JuiceBoxxGames/utsuwa
 
-⭐ 125 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/JuiceBoxxGames/utsuwa) · [官网](https://www.utsuwa.ai) · 组织维护
+⭐ 126 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/JuiceBoxxGames/utsuwa) · [官网](https://www.utsuwa.ai) · 组织维护
 
 **带 3D VRM 化身的本地优先开源 AI 陪伴应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JuiceBoxxGames/utsuwa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 123 --> 126
-    line [124, 125, 125]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    y-axis "stars" 123 --> 127
+    line [124, 125, 126]
 ```
 
-2026-10-18 124 → 2026-10-23 125（+1）
+2026-10-18 124 → 2026-10-24 126（+2）
 
 
 ---

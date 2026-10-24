@@ -1,6 +1,6 @@
 # Haozhe-Xing/agent_learning
 
-⭐ 612 · HTML · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Haozhe-Xing/agent_learning) · [官网](https://haozhe-xing.github.io/agent_learning/) · 个人维护 · 中文 README
+⭐ 615 · HTML · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Haozhe-Xing/agent_learning) · [官网](https://haozhe-xing.github.io/agent_learning/) · 个人维护 · 中文 README
 
 **从零开始学 AI Agent 开发的双语教材仓库（23 章）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Haozhe-Xing/agent_learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 599 --> 613
-    line [600, 602, 610, 612]
+    title "Haozhe-Xing/agent_learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 599 --> 616
+    line [600, 602, 610, 612, 615]
 ```
 
-2026-10-18 600 → 2026-10-23 612（+12）
+2026-10-18 600 → 2026-10-24 615（+15）
 
 
 ---

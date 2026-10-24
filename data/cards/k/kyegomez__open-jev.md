@@ -1,6 +1,6 @@
 # kyegomez/open-jev
 
-⭐ 128 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/kyegomez/open-jev) · [官网](https://discord.gg/3keGBK9Pvr) · 个人维护
+⭐ 129 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/kyegomez/open-jev) · [官网](https://discord.gg/3keGBK9Pvr) · 个人维护
 
 **Jev 概念的 PyTorch 复现研究实现（随机权重）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyegomez/open-jev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 115 --> 129
-    line [116, 122, 126, 128]
+    title "kyegomez/open-jev 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 115 --> 130
+    line [116, 122, 126, 128, 129]
 ```
 
-2026-10-18 116 → 2026-10-23 128（+12）
+2026-10-18 116 → 2026-10-24 129（+13）
 
 
 ---

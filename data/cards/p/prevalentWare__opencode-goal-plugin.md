@@ -1,6 +1,6 @@
 # prevalentWare/opencode-goal-plugin
 
-⭐ 507 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/prevalentWare/opencode-goal-plugin) · [官网](https://www.npmjs.com/package/@prevalentware/opencode-goal-plugin) · 组织维护 · 中文 README
+⭐ 508 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/prevalentWare/opencode-goal-plugin) · [官网](https://www.npmjs.com/package/@prevalentware/opencode-goal-plugin) · 组织维护 · 中文 README
 
 **为 OpenCode 增加 Codex 式长目标模式的 npm 插件**
 
@@ -44,13 +44,13 @@ OpenCode 插件，以 npm 包形式提供，向 AI 编程代理会话注入 /goa
 
 ```mermaid
 xychart-beta
-    title "prevalentWare/opencode-goal-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 485 --> 509
-    line [487, 496, 502, 507]
+    title "prevalentWare/opencode-goal-plugin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 485 --> 510
+    line [487, 496, 502, 507, 508]
 ```
 
-2026-10-18 487 → 2026-10-23 507（+20）
+2026-10-18 487 → 2026-10-24 508（+21）
 
 
 ---

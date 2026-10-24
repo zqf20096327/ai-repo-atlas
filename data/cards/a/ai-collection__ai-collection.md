@@ -1,6 +1,6 @@
 # ai-collection/ai-collection
 
-⭐ 9,229 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ai-collection/ai-collection) · [官网](https://www.thataicollection.com/) · 个人维护 · 中文 README
+⭐ 9,235 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ai-collection/ai-collection) · [官网](https://www.thataicollection.com/) · 个人维护 · 中文 README
 
 **生成式 AI 应用策展清单：按类别收录各类 AI 应用条目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-collection/ai-collection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 9209 --> 9230
-    line [9210, 9215, 9225, 9229]
+    title "ai-collection/ai-collection 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9208 --> 9237
+    line [9210, 9215, 9225, 9229, 9235]
 ```
 
-2026-10-18 9,210 → 2026-10-23 9,229（+19）
+2026-10-18 9,210 → 2026-10-24 9,235（+25）
 
 
 ---

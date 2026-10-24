@@ -1,6 +1,6 @@
 # Unclecheng-li/AI_Animation
 
-⭐ 1,606 · HTML · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Unclecheng-li/AI_Animation) · 个人维护 · 中文 README
+⭐ 1,607 · HTML · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Unclecheng-li/AI_Animation) · 个人维护 · 中文 README
 
 **面向 AI Agent 的 HTML 动画生成技能（Skill）集合，含 12 类动效**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Unclecheng-li/AI_Animation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1557 --> 1610
-    line [1561, 1575, 1593, 1606]
+    title "Unclecheng-li/AI_Animation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1557 --> 1611
+    line [1561, 1575, 1593, 1606, 1607]
 ```
 
-2026-10-18 1,561 → 2026-10-23 1,606（+45）
+2026-10-18 1,561 → 2026-10-24 1,607（+46）
 
 
 ---

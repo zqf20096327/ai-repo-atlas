@@ -1,6 +1,6 @@
 # AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio
 
-⭐ 108 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio) · 组织维护
+⭐ 111 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio) · 组织维护
 
 **多模型 LoRA 训练工作台：消费级 GPU 上训练图像/视频模型 LoRA**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 75 --> 111
-    line [78, 99, 105, 108]
+    title "AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 75 --> 114
+    line [78, 99, 105, 108, 111]
 ```
 
-2026-10-18 78 → 2026-10-23 108（+30）
+2026-10-18 78 → 2026-10-24 111（+33）
 
 
 ---

@@ -1,6 +1,6 @@
 # OpenWhispr/openwhispr
 
-⭐ 9,761 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/OpenWhispr/openwhispr) · [官网](https://openwhispr.com) · 组织维护
+⭐ 9,821 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/OpenWhispr/openwhispr) · [官网](https://openwhispr.com) · 组织维护
 
 **跨平台语音听写桌面应用：本地/云端转文字与笔记**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenWhispr/openwhispr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 9479 --> 9786
-    line [9504, 9584, 9685, 9761]
+    title "OpenWhispr/openwhispr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 9473 --> 9852
+    line [9504, 9584, 9685, 9761, 9821]
 ```
 
-2026-10-18 9,504 → 2026-10-23 9,761（+257）
+2026-10-18 9,504 → 2026-10-24 9,821（+317）
 
 
 ---

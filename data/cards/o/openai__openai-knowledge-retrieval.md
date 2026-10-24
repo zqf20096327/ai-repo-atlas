@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/openai-knowledge-retrieval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "openai/openai-knowledge-retrieval 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 101 --> 105
-    line [102, 104]
+    line [102, 104, 104]
 ```
 
-2026-10-18 102 → 2026-10-23 104（+2）
+2026-10-18 102 → 2026-10-24 104（+2）
 
 
 ---

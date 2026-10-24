@@ -1,6 +1,6 @@
 # emgucv/emgutf
 
-⭐ 221 · C# · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/emgucv/emgutf) · [官网](https://www.emgu.com/wiki/index.php/Emgu_TF) · 组织维护
+⭐ 221 · C# · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/emgucv/emgutf) · [官网](https://www.emgu.com/wiki/index.php/Emgu_TF) · 组织维护
 
 **TensorFlow 的 .Net 跨平台封装库，供 C#/VB 等调用**
 
@@ -43,12 +43,12 @@ Emgu TF 是 Google TensorFlow 库的跨平台 .Net 封装，使 TensorFlow 函�
 ```mermaid
 xychart-beta
     title "emgucv/emgutf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 220 --> 222
     line [221, 221]
 ```
 
-2026-10-18 221 → 2026-10-23 221（+0）
+2026-10-18 221 → 2026-10-24 221（+0）
 
 
 ---

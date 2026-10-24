@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "devnen/Kitten-TTS-Server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "devnen/Kitten-TTS-Server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 279 --> 282
-    line [280, 281]
+    line [280, 281, 281]
 ```
 
-2026-10-18 280 → 2026-10-23 281（+1）
+2026-10-18 280 → 2026-10-24 281（+1）
 
 
 ---

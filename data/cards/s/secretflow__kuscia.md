@@ -1,6 +1,6 @@
 # secretflow/kuscia
 
-⭐ 146 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/secretflow/kuscia) · [官网](https://www.secretflow.org.cn/docs/kuscia/latest/zh-Hans) · 组织维护 · 中文 README
+⭐ 146 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/secretflow/kuscia) · [官网](https://www.secretflow.org.cn/docs/kuscia/latest/zh-Hans) · 组织维护 · 中文 README
 
 **K8s 隐私计算任务编排框架，统一多方安全计算基础设施**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "secretflow/kuscia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 145 --> 147
     line [146, 146]
 ```
 
-2026-10-18 146 → 2026-10-23 146（+0）
+2026-10-18 146 → 2026-10-24 146（+0）
 
 
 ---

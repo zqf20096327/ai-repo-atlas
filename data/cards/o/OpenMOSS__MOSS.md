@@ -1,6 +1,6 @@
 # OpenMOSS/MOSS
 
-⭐ 12,289 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/OpenMOSS/MOSS) · [官网](https://txsun1997.github.io/blogs/moss.html) · 组织维护 · 中文 README
+⭐ 12,295 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/OpenMOSS/MOSS) · [官网](https://txsun1997.github.io/blogs/moss.html) · 组织维护 · 中文 README
 
 **复旦开源的中英双语对话语言模型及部署微调代码**
 
@@ -44,13 +44,13 @@ MOSS-003 系列是 160 亿参数、支持中英双语对话与工具调用的开
 
 ```mermaid
 xychart-beta
-    title "OpenMOSS/MOSS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 12269 --> 12290
-    line [12270, 12278, 12285, 12289]
+    title "OpenMOSS/MOSS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 12268 --> 12297
+    line [12270, 12278, 12285, 12289, 12295]
 ```
 
-2026-10-18 12,270 → 2026-10-23 12,289（+19）
+2026-10-18 12,270 → 2026-10-24 12,295（+25）
 
 
 ---

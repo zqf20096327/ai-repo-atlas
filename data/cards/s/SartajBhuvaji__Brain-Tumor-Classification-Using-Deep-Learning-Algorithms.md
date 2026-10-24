@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-10-23 97（+0）
+2026-10-18 97 → 2026-10-24 97（+0）
 
 
 ---

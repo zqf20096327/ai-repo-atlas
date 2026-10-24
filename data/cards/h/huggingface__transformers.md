@@ -1,6 +1,6 @@
 # huggingface/transformers
 
-⭐ 167,992 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/transformers) · [官网](https://huggingface.co/transformers) · 组织维护
+⭐ 168,036 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/transformers) · [官网](https://huggingface.co/transformers) · 组织维护
 
 **为文本/视觉/音频/多模态模型提供统一模型定义，用于推理与训练**
 
@@ -50,13 +50,13 @@ Hugging Face 的 Transformers 库作为模型定义框架，集中维护各模�
 
 ```mermaid
 xychart-beta
-    title "huggingface/transformers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 167769 --> 168012
-    line [167789, 167861, 167946, 167992]
+    title "huggingface/transformers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 167765 --> 168060
+    line [167789, 167861, 167946, 167992, 168036]
 ```
 
-2026-10-18 167,789 → 2026-10-23 167,992（+203）
+2026-10-18 167,789 → 2026-10-24 168,036（+247）
 
 
 ---

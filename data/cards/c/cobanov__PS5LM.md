@@ -1,6 +1,6 @@
 # cobanov/PS5LM
 
-⭐ 633 · C++ · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/cobanov/PS5LM) · [官网](https://ps5lm.cobanov.dev) · 个人维护
+⭐ 662 · C++ · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/cobanov/PS5LM) · [官网](https://ps5lm.cobanov.dev) · 个人维护
 
 **在越狱 PS5 上运行 GGUF 模型的家用模型服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cobanov/PS5LM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 460 --> 648
-    line [475, 581, 623, 633]
+    title "cobanov/PS5LM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 457 --> 680
+    line [475, 581, 623, 633, 662]
 ```
 
-2026-10-18 475 → 2026-10-23 633（+158）
+2026-10-18 475 → 2026-10-24 662（+187）
 
 
 ---

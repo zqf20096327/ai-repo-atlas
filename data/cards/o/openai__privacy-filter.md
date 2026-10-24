@@ -1,6 +1,6 @@
 # openai/privacy-filter
 
-⭐ 2,756 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/openai/privacy-filter) · 组织维护
+⭐ 2,759 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/openai/privacy-filter) · 组织维护
 
 **本地运行的 PII 检测与脱敏模型（1.5B，Apache 2.0）**
 
@@ -44,13 +44,13 @@ OpenAI 发布的双向 token 分类模型，用于检测并遮蔽文本中的个
 
 ```mermaid
 xychart-beta
-    title "openai/privacy-filter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2743 --> 2757
-    line [2744, 2752, 2755, 2756]
+    title "openai/privacy-filter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 2743 --> 2760
+    line [2744, 2752, 2755, 2756, 2759]
 ```
 
-2026-10-18 2,744 → 2026-10-23 2,756（+12）
+2026-10-18 2,744 → 2026-10-24 2,759（+15）
 
 
 ---

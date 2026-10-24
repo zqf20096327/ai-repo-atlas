@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dicklesworthstone/llm_aided_ocr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "Dicklesworthstone/llm_aided_ocr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 3001 --> 3005
-    line [3002, 3004]
+    line [3002, 3004, 3004]
 ```
 
-2026-10-18 3,002 → 2026-10-23 3,004（+2）
+2026-10-18 3,002 → 2026-10-24 3,004（+2）
 
 
 ---

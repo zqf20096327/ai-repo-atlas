@@ -1,6 +1,6 @@
 # bojieli/greenbubbles
 
-⭐ 399 · Rust · MIT · 推送 2026-10-03 · [GitHub](https://github.com/bojieli/greenbubbles) · 个人维护 · 中文 README
+⭐ 401 · Rust · MIT · 推送 2026-10-03 · [GitHub](https://github.com/bojieli/greenbubbles) · 个人维护 · 中文 README
 
 **让 AI 读取本机微信聊天记录的 macOS 工具，含代理技能**
 
@@ -45,13 +45,13 @@ macOS 命令行工具与桌面应用：直接读取 WeChat 在本地已加密的
 
 ```mermaid
 xychart-beta
-    title "bojieli/greenbubbles 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 382 --> 400
-    line [383, 387, 395, 399]
+    title "bojieli/greenbubbles 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 382 --> 402
+    line [383, 387, 395, 399, 401]
 ```
 
-2026-10-18 383 → 2026-10-23 399（+16）
+2026-10-18 383 → 2026-10-24 401（+18）
 
 
 ---

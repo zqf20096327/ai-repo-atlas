@@ -1,6 +1,6 @@
 # deepseek-ai/DeepEP
 
-⭐ 10,335 · Cuda · MIT · 推送 2026-10-21 · [GitHub](https://github.com/deepseek-ai/DeepEP) · 组织维护 · 中文 README
+⭐ 10,345 · Cuda · MIT · 推送 2026-10-21 · [GitHub](https://github.com/deepseek-ai/DeepEP) · 组织维护 · 中文 README
 
 **MoE 专家并行的 GPU 通信库：高性能 all-to-all dispatch/combine**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepEP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 10280 --> 10340
-    line [10285, 10292, 10320, 10335]
+    title "deepseek-ai/DeepEP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 10279 --> 10351
+    line [10285, 10292, 10320, 10335, 10345]
 ```
 
-2026-10-18 10,285 → 2026-10-23 10,335（+50）
+2026-10-18 10,285 → 2026-10-24 10,345（+60）
 
 
 ---

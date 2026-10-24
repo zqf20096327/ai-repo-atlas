@@ -1,6 +1,6 @@
 # Yinsongxu/LLM2Jev
 
-⭐ 460 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Yinsongxu/LLM2Jev) · 个人维护 · 中文 README
+⭐ 461 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Yinsongxu/LLM2Jev) · 个人维护 · 中文 README
 
 **把本地 LLM/MLLM 免训练变为 Jev 式结构化决策模型的工具**
 
@@ -45,13 +45,13 @@ LLM2Jev 是一个 Python 项目：让现有模型权重在不训练、不微调�
 
 ```mermaid
 xychart-beta
-    title "Yinsongxu/LLM2Jev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 448 --> 461
-    line [449, 452, 457, 460]
+    title "Yinsongxu/LLM2Jev 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 448 --> 462
+    line [449, 452, 457, 460, 461]
 ```
 
-2026-10-18 449 → 2026-10-23 460（+11）
+2026-10-18 449 → 2026-10-24 461（+12）
 
 
 ---

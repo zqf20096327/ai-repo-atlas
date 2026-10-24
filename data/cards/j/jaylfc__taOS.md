@@ -1,6 +1,6 @@
 # jaylfc/taOS
 
-⭐ 577 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/jaylfc/taOS) · [官网](https://taOS.my) · 个人维护
+⭐ 577 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/jaylfc/taOS) · [官网](https://taOS.my) · 个人维护
 
 **自托管 AI agent 平台：在自有硬件上运行记忆、聊天、agent 与文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jaylfc/taOS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
     y-axis "stars" 563 --> 578
     line [564, 570, 577, 577]
 ```
 
-2026-10-18 564 → 2026-10-23 577（+13）
+2026-10-18 564 → 2026-10-24 577（+13）
 
 
 ---

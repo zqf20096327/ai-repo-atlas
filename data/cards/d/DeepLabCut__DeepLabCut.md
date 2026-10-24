@@ -1,6 +1,6 @@
 # DeepLabCut/DeepLabCut
 
-⭐ 5,798 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/DeepLabCut/DeepLabCut) · [官网](http://deeplabcut.org) · 组织维护
+⭐ 5,800 · Python · LGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/DeepLabCut/DeepLabCut) · [官网](http://deeplabcut.org) · 组织维护
 
 **面向动物行为学研究的无标记姿态估计工具箱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DeepLabCut/DeepLabCut 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 5791 --> 5799
-    line [5792, 5794, 5797, 5798]
+    title "DeepLabCut/DeepLabCut 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 5791 --> 5801
+    line [5792, 5794, 5797, 5798, 5800]
 ```
 
-2026-10-18 5,792 → 2026-10-23 5,798（+6）
+2026-10-18 5,792 → 2026-10-24 5,800（+8）
 
 
 ---

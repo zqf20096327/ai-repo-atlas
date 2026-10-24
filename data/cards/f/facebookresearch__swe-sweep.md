@@ -1,6 +1,6 @@
 # facebookresearch/swe-sweep
 
-⭐ 181 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/facebookresearch/swe-sweep) · [官网](https://swesweep.com) · 组织维护
+⭐ 184 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/facebookresearch/swe-sweep) · [官网](https://swesweep.com) · 组织维护
 
 **评测 LM agent 在大型代码库中自主发现并修复 bug 的基准**
 
@@ -44,13 +44,13 @@ Facebook Research 发布的软件工程 agent 基准：给定真实仓库，agen
 
 ```mermaid
 xychart-beta
-    title "facebookresearch/swe-sweep 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 134 --> 185
-    line [138, 166, 174, 181]
+    title "facebookresearch/swe-sweep 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 134 --> 188
+    line [138, 166, 174, 181, 184]
 ```
 
-2026-10-18 138 → 2026-10-23 181（+43）
+2026-10-18 138 → 2026-10-24 184（+46）
 
 
 ---

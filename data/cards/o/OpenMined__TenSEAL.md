@@ -1,6 +1,6 @@
 # OpenMined/TenSEAL
 
-⭐ 1,041 · C++ · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/OpenMined/TenSEAL) · 组织维护
+⭐ 1,041 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/OpenMined/TenSEAL) · 组织维护
 
 **面向开发者的张量同态加密库：在密文上做张量运算**
 
@@ -44,13 +44,13 @@ TenSEAL 是构建在 Microsoft SEAL 之上的同态加密张量运算库，Pytho
 
 ```mermaid
 xychart-beta
-    title "OpenMined/TenSEAL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "OpenMined/TenSEAL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1039 --> 1042
-    line [1040, 1041]
+    line [1040, 1041, 1041]
 ```
 
-2026-10-18 1,040 → 2026-10-23 1,041（+1）
+2026-10-18 1,040 → 2026-10-24 1,041（+1）
 
 
 ---

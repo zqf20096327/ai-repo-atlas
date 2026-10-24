@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-python
 
-⭐ 3,993 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/anthropic-sdk-python) · 组织维护
+⭐ 4,001 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-python) · 组织维护
 
 **Anthropic 官方 Python SDK，供应用访问 Claude API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/anthropic-sdk-python 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3974 --> 3994
-    line [3975, 3979, 3990, 3993]
+    title "anthropics/anthropic-sdk-python 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3973 --> 4003
+    line [3975, 3979, 3990, 3993, 4001]
 ```
 
-2026-10-18 3,975 → 2026-10-23 3,993（+18）
+2026-10-18 3,975 → 2026-10-24 4,001（+26）
 
 
 ---

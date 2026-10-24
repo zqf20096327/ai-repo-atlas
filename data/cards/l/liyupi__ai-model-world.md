@@ -1,6 +1,6 @@
 # liyupi/ai-model-world
 
-⭐ 249 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/liyupi/ai-model-world) · [官网](https://bilibili.com/toy/ai-model-world) · 个人维护 · 中文 README
+⭐ 250 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/liyupi/ai-model-world) · [官网](https://bilibili.com/toy/ai-model-world) · 个人维护 · 中文 README
 
 **把 556 个大模型拟人化为像素小人的可视化站点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/ai-model-world 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 240 --> 250
-    line [241, 243, 246, 249]
+    title "liyupi/ai-model-world 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 240 --> 251
+    line [241, 243, 246, 249, 250]
 ```
 
-2026-10-18 241 → 2026-10-23 249（+8）
+2026-10-18 241 → 2026-10-24 250（+9）
 
 
 ---

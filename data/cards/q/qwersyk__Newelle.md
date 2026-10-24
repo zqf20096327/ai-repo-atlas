@@ -1,6 +1,6 @@
 # qwersyk/Newelle
 
-⭐ 1,493 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/qwersyk/Newelle) · [官网](https://newelle.qsk.me) · 个人维护
+⭐ 1,497 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/qwersyk/Newelle) · [官网](https://newelle.qsk.me) · 个人维护
 
 **GNOME 桌面上的虚拟助手应用，本地/多模型对话与文件管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qwersyk/Newelle 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1487 --> 1494
-    line [1488, 1490, 1491, 1493]
+    title "qwersyk/Newelle 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1487 --> 1498
+    line [1488, 1490, 1491, 1493, 1497]
 ```
 
-2026-10-18 1,488 → 2026-10-23 1,493（+5）
+2026-10-18 1,488 → 2026-10-24 1,497（+9）
 
 
 ---

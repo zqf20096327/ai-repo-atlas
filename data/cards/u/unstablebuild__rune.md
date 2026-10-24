@@ -1,6 +1,6 @@
 # unstablebuild/rune
 
-⭐ 1,270 · Go · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/unstablebuild/rune) · [官网](https://rune.build) · 组织维护
+⭐ 1,270 · Go · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/unstablebuild/rune) · [官网](https://rune.build) · 组织维护
 
 **GPU 加速的 IDE 与终端复用器，内置编程 agent**
 
@@ -44,13 +44,13 @@ Rune 是面向开发者的原生图形管线 IDE 与终端多路复用器，用 
 
 ```mermaid
 xychart-beta
-    title "unstablebuild/rune 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "unstablebuild/rune 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1260 --> 1271
-    line [1261, 1266, 1269, 1270]
+    line [1261, 1266, 1269, 1270, 1270]
 ```
 
-2026-10-18 1,261 → 2026-10-23 1,270（+9）
+2026-10-18 1,261 → 2026-10-24 1,270（+9）
 
 
 ---

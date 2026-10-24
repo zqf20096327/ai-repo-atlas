@@ -1,6 +1,6 @@
 # tenuo-ai/tenuo
 
-⭐ 101 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tenuo-ai/tenuo) · [官网](https://tenuo.ai) · 组织维护
+⭐ 101 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tenuo-ai/tenuo) · [官网](https://tenuo.ai) · 组织维护
 
 **面向 AI agent 的任务级密码学授权库：签名 warrant 约束工具与参数**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tenuo-ai/tenuo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
     y-axis "stars" 100 --> 103
     line [102, 101, 101]
 ```
 
-2026-10-18 102 → 2026-10-23 101（-1）
+2026-10-18 102 → 2026-10-24 101（-1）
 
 
 ---

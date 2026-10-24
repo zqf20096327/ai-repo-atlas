@@ -1,6 +1,6 @@
 # mindee/doctr
 
-⭐ 6,393 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mindee/doctr) · [官网](https://mindee.github.io/doctr/) · 组织维护
+⭐ 6,392 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mindee/doctr) · [官网](https://mindee.github.io/doctr/) · 组织维护
 
 **深度学习 OCR 库：从 PDF/图像中定位并识别文档文字**
 
@@ -47,13 +47,13 @@ docTR 是基于深度学习的 Python OCR 库，由 Mindee 创建、t2k GmbH 维
 
 ```mermaid
 xychart-beta
-    title "mindee/doctr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "mindee/doctr 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 6389 --> 6394
-    line [6390, 6391, 6393]
+    line [6390, 6391, 6393, 6392]
 ```
 
-2026-10-18 6,390 → 2026-10-23 6,393（+3）
+2026-10-18 6,390 → 2026-10-24 6,392（+2）
 
 
 ---

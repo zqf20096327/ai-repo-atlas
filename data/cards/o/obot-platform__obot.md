@@ -1,6 +1,6 @@
 # obot-platform/obot
 
-⭐ 1,118 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/obot-platform/obot) · [官网](https://obot.ai) · 组织维护
+⭐ 1,119 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/obot-platform/obot) · [官网](https://obot.ai) · 组织维护
 
 **面向组织的企业级 AI 治理平台：统一接入、管控与审计 AI 生态**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "obot-platform/obot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1107 --> 1119
-    line [1108, 1110, 1116, 1118]
+    title "obot-platform/obot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1107 --> 1120
+    line [1108, 1110, 1116, 1118, 1119]
 ```
 
-2026-10-18 1,108 → 2026-10-23 1,118（+10）
+2026-10-18 1,108 → 2026-10-24 1,119（+11）
 
 
 ---

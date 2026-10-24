@@ -1,6 +1,6 @@
 # emotixco/claude-skills-founder
 
-⭐ 703 · Markdown · MIT · 推送 2026-10-20 · [GitHub](https://github.com/emotixco/claude-skills-founder) · 组织维护
+⭐ 714 · Markdown · MIT · 推送 2026-10-20 · [GitHub](https://github.com/emotixco/claude-skills-founder) · 组织维护
 
 **给创业者的 Claude Code 技能包：验证想法、定价、融资等 13 个斜杠命令**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "emotixco/claude-skills-founder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 659 --> 707
-    line [663, 673, 686, 703]
+    title "emotixco/claude-skills-founder 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 658 --> 719
+    line [663, 673, 686, 703, 714]
 ```
 
-2026-10-18 663 → 2026-10-23 703（+40）
+2026-10-18 663 → 2026-10-24 714（+51）
 
 
 ---

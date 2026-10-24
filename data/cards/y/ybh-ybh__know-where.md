@@ -1,6 +1,6 @@
 # ybh-ybh/know-where
 
-⭐ 99 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/ybh-ybh/know-where) · 个人维护 · 中文 README
+⭐ 99 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ybh-ybh/know-where) · [官网](https://ybh-ybh.github.io/know-where/) · 个人维护 · 中文 README
 
 **自托管飞书机器人：把内容链接经 AI 分类总结归档到多维表格**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ybh-ybh/know-where 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "ybh-ybh/know-where 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 98 --> 105
-    line [104, 99]
+    line [104, 99, 99]
 ```
 
-2026-10-18 104 → 2026-10-23 99（-5）
+2026-10-18 104 → 2026-10-24 99（-5）
 
 
 ---

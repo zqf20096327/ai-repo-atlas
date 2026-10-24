@@ -1,6 +1,6 @@
 # mikehasa/agentacct
 
-⭐ 770 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/mikehasa/agentacct) · [官网](https://trytofu.ai) · 个人维护
+⭐ 771 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/mikehasa/agentacct) · [官网](https://trytofu.ai) · 个人维护
 
 **本地优先的编码 Agent 工作记录与用量成本看板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikehasa/agentacct 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 766 --> 771
-    line [767, 770]
+    title "mikehasa/agentacct 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 766 --> 772
+    line [767, 770, 771]
 ```
 
-2026-10-18 767 → 2026-10-23 770（+3）
+2026-10-18 767 → 2026-10-24 771（+4）
 
 
 ---

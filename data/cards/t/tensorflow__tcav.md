@@ -45,12 +45,12 @@ TensorFlow 团队的 TCAV（Testing with Concept Activation Vectors）实现：�
 ```mermaid
 xychart-beta
     title "tensorflow/tcav 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 653 --> 655
     line [654, 654]
 ```
 
-2026-10-18 654 → 2026-10-23 654（+0）
+2026-10-18 654 → 2026-10-24 654（+0）
 
 
 ---

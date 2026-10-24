@@ -1,6 +1,6 @@
 # IntelliSensing/RS-Agent
 
-⭐ 139 · Python · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/IntelliSensing/RS-Agent) · [官网](https://jarvis33yu.github.io/RS-Agent-website/) · 组织维护 · 中文 README
+⭐ 140 · Python · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/IntelliSensing/RS-Agent) · [官网](https://jarvis33yu.github.io/RS-Agent-website/) · 组织维护 · 中文 README
 
 **面向遥感的 LLM 智能体：对话式完成遥感图像分析任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IntelliSensing/RS-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 136 --> 140
-    line [137, 138, 139]
+    title "IntelliSensing/RS-Agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 136 --> 141
+    line [137, 138, 139, 140]
 ```
 
-2026-10-18 137 → 2026-10-23 139（+2）
+2026-10-18 137 → 2026-10-24 140（+3）
 
 
 ---

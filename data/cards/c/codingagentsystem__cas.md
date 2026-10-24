@@ -1,6 +1,6 @@
 # codingagentsystem/cas
 
-⭐ 178 · Rust · MIT · 推送 2026-03-12 · [GitHub](https://github.com/codingagentsystem/cas) · [官网](https://codingagentsystem.com) · 组织维护
+⭐ 177 · Rust · MIT · 推送 2026-03-12 · [GitHub](https://github.com/codingagentsystem/cas) · [官网](https://codingagentsystem.com) · 组织维护
 
 **编排多个 Claude Code 实例并行编码的多 agent 工厂与持久上下文系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codingagentsystem/cas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 177 --> 179
-    line [178, 178]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 176 --> 179
+    line [178, 177]
 ```
 
-2026-10-18 178 → 2026-10-23 178（+0）
+2026-10-18 178 → 2026-10-24 177（-1）
 
 
 ---

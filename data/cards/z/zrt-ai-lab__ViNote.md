@@ -1,6 +1,6 @@
 # zrt-ai-lab/ViNote
 
-⭐ 476 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/zrt-ai-lab/ViNote) · 组织维护 · 中文 README
+⭐ 477 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/zrt-ai-lab/ViNote) · 组织维护 · 中文 README
 
 **开源视频知识 Agent：视频转笔记、问答、卡片与导图**
 
@@ -48,12 +48,12 @@ FastAPI + React 的自托管 Web 应用，面向个人用户的单机视频知�
 ```mermaid
 xychart-beta
     title "zrt-ai-lab/ViNote 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 472 --> 477
-    line [473, 474, 476, 476]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 472 --> 478
+    line [473, 474, 476, 477]
 ```
 
-2026-10-18 473 → 2026-10-23 476（+3）
+2026-10-18 473 → 2026-10-24 477（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/skills
 
-⭐ 11,197 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/skills) · [官网](https://huggingface.co) · 组织维护
+⭐ 11,203 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/skills) · [官网](https://huggingface.co) · 组织维护
 
 **给 AI 编程代理接入 Hugging Face 生态的技能包仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 11177 --> 11198
-    line [11178, 11186, 11191, 11197]
+    title "huggingface/skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 11176 --> 11205
+    line [11178, 11186, 11191, 11197, 11203]
 ```
 
-2026-10-18 11,178 → 2026-10-23 11,197（+19）
+2026-10-18 11,178 → 2026-10-24 11,203（+25）
 
 
 ---

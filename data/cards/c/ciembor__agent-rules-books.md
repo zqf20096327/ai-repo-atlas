@@ -1,6 +1,6 @@
 # ciembor/agent-rules-books
 
-⭐ 3,089 · MIT · 推送 2026-09-10 · [GitHub](https://github.com/ciembor/agent-rules-books) · [官网](https://ciembor.github.io/agent-rules-books/) · 个人维护
+⭐ 3,104 · MIT · 推送 2026-09-10 · [GitHub](https://github.com/ciembor/agent-rules-books) · [官网](https://ciembor.github.io/agent-rules-books/) · 个人维护
 
 **从 14 本软件工程书籍提炼的 AI 编程 agent 规则/技能集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ciembor/agent-rules-books 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3049 --> 3092
-    line [3052, 3068, 3087, 3089]
+    title "ciembor/agent-rules-books 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3047 --> 3109
+    line [3052, 3068, 3087, 3089, 3104]
 ```
 
-2026-10-18 3,052 → 2026-10-23 3,089（+37）
+2026-10-18 3,052 → 2026-10-24 3,104（+52）
 
 
 ---

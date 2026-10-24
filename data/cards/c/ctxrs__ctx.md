@@ -1,6 +1,6 @@
 # ctxrs/ctx
 
-⭐ 1,162 · Rust · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/ctxrs/ctx) · [官网](https://ctx.rs) · 组织维护
+⭐ 1,165 · Rust · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/ctxrs/ctx) · [官网](https://ctx.rs) · 组织维护
 
 **面向编码 agent 的本地历史检索、代码归因与降噪 CLI 工具链**
 
@@ -45,13 +45,13 @@ Rust 编写的本地 CLI 工具链：ctx setup 发现并索引 ~/.claude、~/.co
 
 ```mermaid
 xychart-beta
-    title "ctxrs/ctx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1156 --> 1163
-    line [1157, 1159, 1160, 1162]
+    title "ctxrs/ctx 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1156 --> 1166
+    line [1157, 1159, 1160, 1162, 1165]
 ```
 
-2026-10-18 1,157 → 2026-10-23 1,162（+5）
+2026-10-18 1,157 → 2026-10-24 1,165（+8）
 
 
 ---

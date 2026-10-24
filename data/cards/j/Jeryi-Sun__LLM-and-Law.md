@@ -1,6 +1,6 @@
 # Jeryi-Sun/LLM-and-Law
 
-⭐ 334 · 推送 2026-10-22 · [GitHub](https://github.com/Jeryi-Sun/LLM-and-Law) · 个人维护
+⭐ 334 · 推送 2026-10-23 · [GitHub](https://github.com/Jeryi-Sun/LLM-and-Law) · 个人维护
 
 **法律领域大语言模型论文与资源追踪清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Jeryi-Sun/LLM-and-Law 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 333 --> 335
     line [334, 334]
 ```
 
-2026-10-18 334 → 2026-10-23 334（+0）
+2026-10-18 334 → 2026-10-24 334（+0）
 
 
 ---

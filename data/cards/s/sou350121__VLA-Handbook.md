@@ -1,6 +1,6 @@
 # sou350121/VLA-Handbook
 
-⭐ 734 · HTML · CC-BY-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/sou350121/VLA-Handbook) · 个人维护 · 中文 README
+⭐ 735 · HTML · CC-BY-4.0 · 推送 2026-10-23 · [GitHub](https://github.com/sou350121/VLA-Handbook) · 个人维护 · 中文 README
 
 **面向算法工程师的全中文 VLA 学习/面试知识库（754 篇）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sou350121/VLA-Handbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 714 --> 735
-    line [715, 721, 728, 734]
+    title "sou350121/VLA-Handbook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 713 --> 737
+    line [715, 721, 728, 734, 735]
 ```
 
-2026-10-18 715 → 2026-10-23 734（+19）
+2026-10-18 715 → 2026-10-24 735（+20）
 
 
 ---

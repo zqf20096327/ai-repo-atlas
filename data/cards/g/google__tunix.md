@@ -1,6 +1,6 @@
 # google/tunix
 
-⭐ 2,491 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/tunix) · 组织维护
+⭐ 2,492 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/tunix) · 组织维护
 
 **基于 JAX 的 LLM 后训练库：支持 SFT、RL 与 Agentic RL**
 
@@ -45,12 +45,12 @@ Tunix（Tune-in-JAX）是 Google 维护的 JAX 后训练库，覆盖监督微调
 ```mermaid
 xychart-beta
     title "google/tunix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 2485 --> 2492
-    line [2486, 2487, 2491, 2491]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 2485 --> 2493
+    line [2486, 2487, 2491, 2492]
 ```
 
-2026-10-18 2,486 → 2026-10-23 2,491（+5）
+2026-10-18 2,486 → 2026-10-24 2,492（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # NirDiamant/GenAI_Agents
 
-⭐ 24,669 · Jupyter Notebook · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NirDiamant/GenAI_Agents) · [官网](https://diamant-ai.com) · 个人维护
+⭐ 24,678 · Jupyter Notebook · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NirDiamant/GenAI_Agents) · [官网](https://diamant-ai.com) · 个人维护
 
 **面向学习者的 50+ 生成式 AI Agent 教程与实现合集**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "NirDiamant/GenAI_Agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 24605 --> 24674
-    line [24610, 24635, 24650, 24669]
+    title "NirDiamant/GenAI_Agents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 24604 --> 24684
+    line [24610, 24635, 24650, 24669, 24678]
 ```
 
-2026-10-18 24,610 → 2026-10-23 24,669（+59）
+2026-10-18 24,610 → 2026-10-24 24,678（+68）
 
 
 ---

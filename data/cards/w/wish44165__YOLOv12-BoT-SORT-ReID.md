@@ -45,12 +45,12 @@ CVPR 2025 第 4 届 Anti-UAV Workshop & Challenge Track 3 季军方案：以 YOL
 ```mermaid
 xychart-beta
     title "wish44165/YOLOv12-BoT-SORT-ReID 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-24"]
     y-axis "stars" 213 --> 215
     line [214, 214]
 ```
 
-2026-10-18 214 → 2026-10-23 214（+0）
+2026-10-18 214 → 2026-10-24 214（+0）
 
 
 ---

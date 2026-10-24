@@ -1,6 +1,6 @@
 # RoversX/ThinkTerm
 
-⭐ 190 · Rust · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/RoversX/ThinkTerm) · [官网](https://closex.org/thinkterm/) · 个人维护
+⭐ 197 · Rust · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/RoversX/ThinkTerm) · [官网](https://closex.org/thinkterm/) · 个人维护
 
 **内置多路复用器的 Rust 终端，跨机运行 shell 与编码代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RoversX/ThinkTerm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 118 --> 196
-    line [124, 136, 176, 190]
+    title "RoversX/ThinkTerm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 117 --> 204
+    line [124, 136, 176, 190, 197]
 ```
 
-2026-10-18 124 → 2026-10-23 190（+66）
+2026-10-18 124 → 2026-10-24 197（+73）
 
 
 ---

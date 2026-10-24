@@ -1,6 +1,6 @@
 # kyegomez/swarms
 
-⭐ 7,287 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kyegomez/swarms) · [官网](https://docs.swarms.world) · 个人维护 · 中文 README
+⭐ 7,289 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kyegomez/swarms) · [官网](https://docs.swarms.world) · 个人维护 · 中文 README
 
 **面向企业的 Python 多智能体编排框架**
 
@@ -46,13 +46,13 @@ Swarms 是一个用于构建、部署和扩展多智能体系统的 Python 框�
 
 ```mermaid
 xychart-beta
-    title "kyegomez/swarms 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7272 --> 7288
-    line [7273, 7280, 7285, 7287]
+    title "kyegomez/swarms 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7272 --> 7290
+    line [7273, 7280, 7285, 7287, 7289]
 ```
 
-2026-10-18 7,273 → 2026-10-23 7,287（+14）
+2026-10-18 7,273 → 2026-10-24 7,289（+16）
 
 
 ---

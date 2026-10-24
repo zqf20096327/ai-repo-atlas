@@ -1,6 +1,6 @@
 # steventsvik/Tellurion
 
-⭐ 117 · Zig · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/steventsvik/Tellurion) · [官网](https://steventsvik.github.io/Tellurion/) · 个人维护
+⭐ 118 · Zig · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/steventsvik/Tellurion) · [官网](https://steventsvik.github.io/Tellurion/) · 个人维护
 
 **面向多 AI 编码 agent 的 macOS 终端：实时观测、审查与撤销**
 
@@ -45,13 +45,13 @@ Ghostty 的非官方 fork，面向同时运行多个 AI 编码 agent（Claude Co
 
 ```mermaid
 xychart-beta
-    title "steventsvik/Tellurion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 108 --> 118
-    line [109, 116, 117]
+    title "steventsvik/Tellurion 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 108 --> 119
+    line [109, 116, 117, 118]
 ```
 
-2026-10-18 109 → 2026-10-23 117（+8）
+2026-10-18 109 → 2026-10-24 118（+9）
 
 
 ---

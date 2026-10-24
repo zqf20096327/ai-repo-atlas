@@ -1,6 +1,6 @@
 # richardr1126/openreader
 
-⭐ 546 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/richardr1126/openreader) · [官网](https://openreader.richardr.dev) · 个人维护
+⭐ 546 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/richardr1126/openreader) · [官网](https://openreader.richardr.dev) · 个人维护
 
 **自托管友好的多格式文档朗读阅读器，支持同步高亮与有声书导出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "richardr1126/openreader 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "richardr1126/openreader 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 540 --> 547
-    line [541, 544, 546]
+    line [541, 544, 546, 546]
 ```
 
-2026-10-18 541 → 2026-10-23 546（+5）
+2026-10-18 541 → 2026-10-24 546（+5）
 
 
 ---

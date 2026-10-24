@@ -1,6 +1,6 @@
 # JiangNanGenius/floe-agent
 
-⭐ 294 · Swift · MPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/JiangNanGenius/floe-agent) · [官网](https://www.floe-agent.com/) · 个人维护 · 中文 README
+⭐ 305 · Swift · MPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/JiangNanGenius/floe-agent) · [官网](https://www.floe-agent.com/) · 个人维护 · 中文 README
 
 **面向 iPhone/iPad 与 Android 的设备端 AI 智能体工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JiangNanGenius/floe-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 269 --> 299
-    line [271, 286, 297, 294]
+    title "JiangNanGenius/floe-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 268 --> 308
+    line [271, 286, 297, 294, 305]
 ```
 
-2026-10-18 271 → 2026-10-23 294（+23）
+2026-10-18 271 → 2026-10-24 305（+34）
 
 
 ---

@@ -1,6 +1,6 @@
 # rishikanthc/Scriberr
 
-⭐ 3,111 · Go · MIT · 推送 2026-09-20 · [GitHub](https://github.com/rishikanthc/Scriberr) · [官网](https://scriberr.app) · 个人维护
+⭐ 3,113 · Go · MIT · 推送 2026-09-20 · [GitHub](https://github.com/rishikanthc/Scriberr) · [官网](https://scriberr.app) · 个人维护
 
 **自托管者的本地离线音频/视频转写 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rishikanthc/Scriberr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 3103 --> 3113
-    line [3104, 3105, 3112, 3111]
+    title "rishikanthc/Scriberr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 3103 --> 3114
+    line [3104, 3105, 3112, 3111, 3113]
 ```
 
-2026-10-18 3,104 → 2026-10-23 3,111（+7）
+2026-10-18 3,104 → 2026-10-24 3,113（+9）
 
 
 ---

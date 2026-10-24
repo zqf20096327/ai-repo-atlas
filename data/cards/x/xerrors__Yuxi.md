@@ -1,6 +1,6 @@
 # xerrors/Yuxi
 
-⭐ 7,459 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/xerrors/Yuxi) · [官网](https://xerrors.github.io/Yuxi/) · 个人维护 · 中文 README
+⭐ 7,469 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xerrors/Yuxi) · [官网](https://xerrors.github.io/Yuxi/) · 个人维护 · 中文 README
 
 **可私有部署的多租户知识智能体平台，自托管 RAG 与多智能体**
 
@@ -44,13 +44,13 @@ Yuxi 是面向需要自部署、自控数据/模型/权限的企业团队的多�
 
 ```mermaid
 xychart-beta
-    title "xerrors/Yuxi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 7418 --> 7462
-    line [7421, 7433, 7451, 7459]
+    title "xerrors/Yuxi 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 7417 --> 7473
+    line [7421, 7433, 7451, 7459, 7469]
 ```
 
-2026-10-18 7,421 → 2026-10-23 7,459（+38）
+2026-10-18 7,421 → 2026-10-24 7,469（+48）
 
 
 ---

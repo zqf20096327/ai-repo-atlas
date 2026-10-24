@@ -1,6 +1,6 @@
 # Kobaayyy/Awesome-AIGC-Research-Groups
 
-⭐ 108 · 推送 2026-09-08 · [GitHub](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups) · 个人维护 · 中文 README
+⭐ 107 · 推送 2026-09-08 · [GitHub](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups) · 个人维护 · 中文 README
 
 **AIGC 研究团队名录：按国家机构收录学者团队**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Kobaayyy/Awesome-AIGC-Research-Groups 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 106 --> 109
+    line [108, 107]
 ```
 
-2026-10-18 108 → 2026-10-23 108（+0）
+2026-10-18 108 → 2026-10-24 107（-1）
 
 
 ---

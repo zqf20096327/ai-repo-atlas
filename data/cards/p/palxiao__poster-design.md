@@ -1,6 +1,6 @@
 # palxiao/poster-design
 
-⭐ 4,947 · Vue · AGPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/palxiao/poster-design) · [官网](https://design.palxp.cn) · 个人维护 · 中文 README
+⭐ 4,950 · Vue · AGPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/palxiao/poster-design) · [官网](https://design.palxp.cn) · 个人维护 · 中文 README
 
 **开源在线海报/图片设计器，内置 AI 生图、文案与抠图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "palxiao/poster-design 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 4925 --> 4949
-    line [4927, 4936, 4945, 4947]
+    title "palxiao/poster-design 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 4925 --> 4952
+    line [4927, 4936, 4945, 4947, 4950]
 ```
 
-2026-10-18 4,927 → 2026-10-23 4,947（+20）
+2026-10-18 4,927 → 2026-10-24 4,950（+23）
 
 
 ---

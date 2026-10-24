@@ -1,6 +1,6 @@
 # openai/mcp-extensions
 
-⭐ 1,098 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/openai/mcp-extensions) · 组织维护
+⭐ 1,100 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/mcp-extensions) · 组织维护
 
 **为 ChatGPT 构建 MCP 插件扩展的 SDK，含侧边栏入口、文件查看器等能力**
 
@@ -44,13 +44,13 @@ OpenAI 官方的 MCP Extensions 项目：在 MCP 协议之上添加 ChatGPT 专�
 
 ```mermaid
 xychart-beta
-    title "openai/mcp-extensions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1080 --> 1099
-    line [1081, 1085, 1093, 1098]
+    title "openai/mcp-extensions 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 1080 --> 1101
+    line [1081, 1085, 1093, 1098, 1100]
 ```
 
-2026-10-18 1,081 → 2026-10-23 1,098（+17）
+2026-10-18 1,081 → 2026-10-24 1,100（+19）
 
 
 ---

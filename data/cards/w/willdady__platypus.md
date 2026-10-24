@@ -1,6 +1,6 @@
 # willdady/platypus
 
-⭐ 124 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/willdady/platypus) · [官网](https://platypus.chat) · 组织维护
+⭐ 124 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/willdady/platypus) · [官网](https://platypus.chat) · 组织维护
 
 **团队自托管的 AI Agent 平台：自备模型构建、运行常驻 Agent**
 
@@ -46,13 +46,13 @@ MIT 许可的全栈开源应用，供团队在自己基础设施上构建和运�
 
 ```mermaid
 xychart-beta
-    title "willdady/platypus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "willdady/platypus 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 120 --> 125
-    line [121, 123, 124]
+    line [121, 123, 124, 124]
 ```
 
-2026-10-18 121 → 2026-10-23 124（+3）
+2026-10-18 121 → 2026-10-24 124（+3）
 
 
 ---

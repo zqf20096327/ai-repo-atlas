@@ -1,6 +1,6 @@
 # ttlequals0/MinusPod
 
-⭐ 493 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ttlequals0/MinusPod) · 个人维护
+⭐ 494 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ttlequals0/MinusPod) · 个人维护
 
 **自托管播客服务器：本地转录+LLM 在播放前去广告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ttlequals0/MinusPod 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 478 --> 494
-    line [479, 484, 488, 493]
+    title "ttlequals0/MinusPod 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 478 --> 495
+    line [479, 484, 488, 493, 494]
 ```
 
-2026-10-18 479 → 2026-10-23 493（+14）
+2026-10-18 479 → 2026-10-24 494（+15）
 
 
 ---

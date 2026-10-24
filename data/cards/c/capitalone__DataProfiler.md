@@ -44,13 +44,13 @@ DataProfiler 是由 Capital One 维护的 Python 库，用单条命令加载 CSV
 
 ```mermaid
 xychart-beta
-    title "capitalone/DataProfiler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
+    title "capitalone/DataProfiler 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
     y-axis "stars" 1594 --> 1597
-    line [1595, 1596, 1595]
+    line [1595, 1596, 1595, 1595]
 ```
 
-2026-10-18 1,595 → 2026-10-23 1,595（+0）
+2026-10-18 1,595 → 2026-10-24 1,595（+0）
 
 
 ---

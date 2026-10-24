@@ -1,6 +1,6 @@
 # google/adk-web
 
-⭐ 1,058 · TypeScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/google/adk-web) · [官网](https://google.github.io/adk-docs/) · 组织维护
+⭐ 1,059 · TypeScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/google/adk-web) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
 **Google ADK 内置的开发者 Web UI，用于 agent 开发调试**
 
@@ -45,12 +45,12 @@ Google Agent Development Kit (ADK) 自带的前端开发者界面，供开发者
 ```mermaid
 xychart-beta
     title "google/adk-web 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 1054 --> 1059
-    line [1055, 1058, 1058]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    y-axis "stars" 1054 --> 1060
+    line [1055, 1058, 1059]
 ```
 
-2026-10-18 1,055 → 2026-10-23 1,058（+3）
+2026-10-18 1,055 → 2026-10-24 1,059（+4）
 
 
 ---

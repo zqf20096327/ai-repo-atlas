@@ -1,6 +1,6 @@
 # astroautomata/SymbolicRegression.jl
 
-⭐ 808 · Julia · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/astroautomata/SymbolicRegression.jl) · [官网](https://julia.pysr.ai) · 个人维护
+⭐ 808 · Julia · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/astroautomata/SymbolicRegression.jl) · [官网](https://julia.pysr.ai) · 个人维护
 
 **Julia 符号回归库：搜索优化目标的解析表达式**
 
@@ -45,12 +45,12 @@ Julia 编写的分布式高性能符号回归库：对数据搜索使特定目�
 ```mermaid
 xychart-beta
     title "astroautomata/SymbolicRegression.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
     y-axis "stars" 807 --> 810
     line [809, 808, 808]
 ```
 
-2026-10-18 809 → 2026-10-23 808（-1）
+2026-10-18 809 → 2026-10-24 808（-1）
 
 
 ---

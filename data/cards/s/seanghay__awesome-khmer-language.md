@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "seanghay/awesome-khmer-language 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "seanghay/awesome-khmer-language 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 202 --> 205
-    line [203, 204]
+    line [203, 204, 204]
 ```
 
-2026-10-18 203 → 2026-10-23 204（+1）
+2026-10-18 203 → 2026-10-24 204（+1）
 
 
 ---

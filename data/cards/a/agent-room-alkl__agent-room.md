@@ -1,6 +1,6 @@
 # agent-room-alkl/agent-room
 
-⭐ 103 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/agent-room-alkl/agent-room) · [官网](https://agent-room.com) · 个人维护
+⭐ 104 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/agent-room-alkl/agent-room) · [官网](https://agent-room.com) · 个人维护
 
 **让多个编码 agent 通过 MCP/REST 进入同一房间实时协作的协议层**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "agent-room-alkl/agent-room 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 98 --> 104
-    line [99, 100, 103]
+    title "agent-room-alkl/agent-room 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 98 --> 105
+    line [99, 100, 103, 104]
 ```
 
-2026-10-18 99 → 2026-10-23 103（+4）
+2026-10-18 99 → 2026-10-24 104（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # coderzc/open-xiaoai-bridge
 
-⭐ 419 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/coderzc/open-xiaoai-bridge) · 个人维护 · 中文 README
+⭐ 422 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/coderzc/open-xiaoai-bridge) · 个人维护 · 中文 README
 
 **将小爱音箱桥接到外部 AI 服务（OpenClaw、小智等）的网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "coderzc/open-xiaoai-bridge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 411 --> 420
-    line [412, 415, 417, 419]
+    title "coderzc/open-xiaoai-bridge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 411 --> 423
+    line [412, 415, 417, 419, 422]
 ```
 
-2026-10-18 412 → 2026-10-23 419（+7）
+2026-10-18 412 → 2026-10-24 422（+10）
 
 
 ---

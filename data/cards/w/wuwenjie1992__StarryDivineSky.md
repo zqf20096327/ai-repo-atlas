@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "wuwenjie1992/StarryDivineSky 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
+    title "wuwenjie1992/StarryDivineSky 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
     y-axis "stars" 950 --> 953
-    line [952, 951]
+    line [952, 951, 951]
 ```
 
-2026-10-18 952 → 2026-10-23 951（-1）
+2026-10-18 952 → 2026-10-24 951（-1）
 
 
 ---

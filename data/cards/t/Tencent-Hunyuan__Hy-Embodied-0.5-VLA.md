@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-Embodied-0.5-VLA
 
-⭐ 309 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA) · 组织维护 · 中文 README
+⭐ 311 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA) · 组织维护 · 中文 README
 
 **端到端视觉-语言-动作机器人操作系统：从数据到真机部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/Hy-Embodied-0.5-VLA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-23"]
-    y-axis "stars" 308 --> 310
-    line [309, 309]
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 308 --> 312
+    line [309, 311]
 ```
 
-2026-10-18 309 → 2026-10-23 309（+0）
+2026-10-18 309 → 2026-10-24 311（+2）
 
 
 ---

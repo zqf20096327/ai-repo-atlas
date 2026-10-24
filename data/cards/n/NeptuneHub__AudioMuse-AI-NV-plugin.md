@@ -1,6 +1,6 @@
 # NeptuneHub/AudioMuse-AI-NV-plugin
 
-⭐ 534 · Go · AGPL-3.0 · 推送 2026-09-19 · [GitHub](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) · 组织维护
+⭐ 535 · Go · AGPL-3.0 · 推送 2026-09-19 · [GitHub](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) · 组织维护
 
 **将 AudioMuse-AI 相似歌曲分析接入 Navidrome 的插件**
 
@@ -44,13 +44,13 @@ Navidrome 音乐服务器插件：把 AudioMuse-AI 核心容器提供的声音�
 
 ```mermaid
 xychart-beta
-    title "NeptuneHub/AudioMuse-AI-NV-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 524 --> 535
-    line [525, 530, 534]
+    title "NeptuneHub/AudioMuse-AI-NV-plugin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 524 --> 536
+    line [525, 530, 534, 535]
 ```
 
-2026-10-18 525 → 2026-10-23 534（+9）
+2026-10-18 525 → 2026-10-24 535（+10）
 
 
 ---

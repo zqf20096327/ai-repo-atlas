@@ -1,6 +1,6 @@
 # Bria-AI/RMBG-2.0
 
-⭐ 341 · Python · NOASSERTION · 推送 2025-12-11 · [GitHub](https://github.com/Bria-AI/RMBG-2.0) · [官网](https://bria.ai/) · 组织维护
+⭐ 342 · Python · NOASSERTION · 推送 2025-12-11 · [GitHub](https://github.com/Bria-AI/RMBG-2.0) · [官网](https://bria.ai/) · 组织维护
 
 **面向商用的图像背景去除分割模型，输出灰度 alpha 蒙版**
 
@@ -45,13 +45,13 @@ BRIA AI 开发的二分图像分割模型 RMBG-2.0，基于 BiRefNet 架构，�
 
 ```mermaid
 xychart-beta
-    title "Bria-AI/RMBG-2.0 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
-    y-axis "stars" 335 --> 342
-    line [336, 339, 340, 341]
+    title "Bria-AI/RMBG-2.0 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    y-axis "stars" 335 --> 343
+    line [336, 339, 340, 341, 342]
 ```
 
-2026-10-18 336 → 2026-10-23 341（+5）
+2026-10-18 336 → 2026-10-24 342（+6）
 
 
 ---

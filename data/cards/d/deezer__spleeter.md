@@ -1,6 +1,6 @@
 # deezer/spleeter
 
-⭐ 28,498 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/deezer/spleeter) · [官网](https://research.deezer.com/projects/spleeter.html) · 组织维护
+⭐ 28,495 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/deezer/spleeter) · [官网](https://research.deezer.com/projects/spleeter.html) · 组织维护
 
 **为开发者提供音频音轨分离库与预训练模型**
 
@@ -51,13 +51,13 @@ Deezer 出品的 Python 音源分离库，基于 TensorFlow，提供预训练模
 
 ```mermaid
 xychart-beta
-    title "deezer/spleeter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23"]
+    title "deezer/spleeter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
     y-axis "stars" 28493 --> 28500
-    line [28494, 28498, 28499, 28498]
+    line [28494, 28498, 28499, 28498, 28495]
 ```
 
-2026-10-18 28,494 → 2026-10-23 28,498（+4）
+2026-10-18 28,494 → 2026-10-24 28,495（+1）
 
 
 ---
