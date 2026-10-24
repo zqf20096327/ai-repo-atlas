@@ -1,1 +1,84 @@
-{"fn": "momasiku/dsh-pilot", "sha": "aba0d10b4717", "source": "readme", "identity": {"one_liner": "给 DeepSeek Harness 装 Windows 桌面操控能力的插件", "review": "dsh-pilot 是 DeepSeek Harness（DSH）的桌面操控插件：提供 screen_view 抓屏（PNG 图像块，附坐标刻度尺）、desktop_control 单步动作、desktop_sequence 批量动作三个工具，让模型直接看真实屏幕并驱动真实鼠标键盘。坐标可靠性通过 per-monitor DPI 感知、刻度尺与交付尺寸声明实现；支持 UI Automation 控件树作为截图之外的定位路径。安全机制包括风险分级拒绝、dryRun、遇错即停、Esc 中断与批量步数上限。环境要求 Windows、PowerShell 5.1/7、DSH 0.1.5-rc.2 至 0.2.x 及支持图像输入的模型线路。面向在 DSH 上运行桌面自动化 agent 的用户，以 npm 包 @momasiku/dsh-pilot 安装。", "highlights": ["screen_view 返回真实 PNG 图像块并附屏幕坐标刻度尺", "desktop_sequence 一次调用执行批量动作，常驻 worker 下动作延迟 6-12 毫秒", "通过 UI Automation 读控件树，按精确矩形定位控件", "风险分级、dryRun、遇错即停、Esc 中断等安全机制"], "use_cases": ["让 DSH 会话自己看屏幕、点按钮、打字完成桌面任务", "在 AutoCAD/LibreOffice/Blender 等软件里由模型执行操作", "用控件树精确定位界面元素替代像素猜测"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["桌面自动化", "computer-use", "AI Agent 插件", "GUI 自动化", "截图/视觉"], "domain": "AI Agent 桌面自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文说明置于 README 顶部", "演示内容含 WPS/微信/中文场景", "0.6.1 起简介以中文为先"]}, "trust": {"confidence": "high", "evidence": ["L1: dsh-pilot — desktop control for DeepSeek Harness: hands and eyes on the whole machine", "L44: |**`screen_view`**|抓取当前屏幕，把 PNG 作为**真正的图像块**交给模型（不是 OCR、不是文字描述），连光标位置、前台窗口、各显示器范围一起给出|", "L159: 要求 DSH **0.1.5-rc.2 至 0.2.x**（即 `package.json` 里的 peer 范围，也是 `dsh plugin add` 在安装前的门禁）。环境要求：**Windows**、PowerShell 5.1 或"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "momasiku/dsh-pilot",
+ "sha": "aba0d10b4717",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 DeepSeek Harness 装 Windows 桌面操控能力的插件",
+  "review": "dsh-pilot 是 DeepSeek Harness（DSH）的桌面操控插件：提供 screen_view 抓屏（PNG 图像块，附坐标刻度尺）、desktop_control 单步动作、desktop_sequence 批量动作三个工具，让模型直接看真实屏幕并驱动真实鼠标键盘。坐标可靠性通过 per-monitor DPI 感知、刻度尺与交付尺寸声明实现；支持 UI Automation 控件树作为截图之外的定位路径。安全机制包括风险分级拒绝、dryRun、遇错即停、Esc 中断与批量步数上限。环境要求 Windows、PowerShell 5.1/7、DSH 0.1.5-rc.2 至 0.2.x 及支持图像输入的模型线路。面向在 DSH 上运行桌面自动化 agent 的用户，以 npm 包 @momasiku/dsh-pilot 安装。",
+  "highlights": [
+   "screen_view 返回真实 PNG 图像块并附屏幕坐标刻度尺",
+   "desktop_sequence 一次调用执行批量动作，常驻 worker 下动作延迟 6-12 毫秒",
+   "通过 UI Automation 读控件树，按精确矩形定位控件",
+   "风险分级、dryRun、遇错即停、Esc 中断等安全机制"
+  ],
+  "use_cases": [
+   "让 DSH 会话自己看屏幕、点按钮、打字完成桌面任务",
+   "在 AutoCAD/LibreOffice/Blender 等软件里由模型执行操作",
+   "用控件树精确定位界面元素替代像素猜测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面自动化",
+   "computer-use",
+   "AI Agent 插件",
+   "GUI 自动化",
+   "截图/视觉"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文说明置于 README 顶部",
+   "演示内容含 WPS/微信/中文场景",
+   "0.6.1 起简介以中文为先"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: dsh-pilot — desktop control for DeepSeek Harness: hands and eyes on the whole machine",
+   "L44: |**`screen_view`**|抓取当前屏幕，把 PNG 作为**真正的图像块**交给模型（不是 OCR、不是文字描述），连光标位置、前台窗口、各显示器范围一起给出|",
+   "L159: 要求 DSH **0.1.5-rc.2 至 0.2.x**（即 `package.json` 里的 peer 范围，也是 `dsh plugin add` 在安装前的门禁）。环境要求：**Windows**、PowerShell 5.1 或"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

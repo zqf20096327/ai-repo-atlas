@@ -33,7 +33,7 @@ serge 是 Hugging Face 维护的 GitHub 评审机器人：调用任意 OpenAI �
 
 ## 场景标签
 
- · 领域:软件开发/DevOps
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 

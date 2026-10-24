@@ -33,7 +33,7 @@ dsh-pilot 是 DeepSeek Harness（DSH）的桌面操控插件：提供 screen_vie
 
 ## 场景标签
 
- · 领域:AI Agent 桌面自动化
+`GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
