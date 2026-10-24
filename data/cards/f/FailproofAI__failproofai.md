@@ -1,6 +1,6 @@
 # FailproofAI/failproofai
 
-⭐ 6,033 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/FailproofAI/failproofai) · [官网](https://befailproof.ai) · 组织维护 · 中文 README
+⭐ 6,192 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/FailproofAI/failproofai) · [官网](https://befailproof.ai) · 组织维护 · 中文 README
 
 **AI agent 运行时观测与策略拦截工具：记录每次运行并拦截危险工具调用**
 

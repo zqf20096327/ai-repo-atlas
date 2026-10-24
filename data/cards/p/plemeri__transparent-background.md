@@ -1,6 +1,6 @@
 # plemeri/transparent-background
 
-⭐ 1,298 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/plemeri/transparent-background) · 个人维护
+⭐ 1,299 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/plemeri/transparent-background) · 个人维护
 
 **基于 InSPyReNet 的图片/视频/摄像头抠图去背景工具**
 

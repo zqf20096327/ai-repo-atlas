@@ -1,6 +1,6 @@
 # yanun0323/Whallm
 
-⭐ 150 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/yanun0323/Whallm) · 个人维护 · 中文 README
+⭐ 150 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yanun0323/Whallm) · 个人维护 · 中文 README
 
 **在 Apple Silicon Mac 上本地运行超大 MoE 模型的推理应用**
 

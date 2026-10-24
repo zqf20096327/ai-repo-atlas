@@ -1,6 +1,6 @@
 # Azure-Samples/aisearch-openai-rag-audio
 
-⭐ 563 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/Azure-Samples/aisearch-openai-rag-audio) · [官网](https://azure.microsoft.com/products/search) · 组织维护
+⭐ 564 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/Azure-Samples/aisearch-openai-rag-audio) · [官网](https://azure.microsoft.com/products/search) · 组织维护
 
 **语音 RAG 应用示例：GPT-4o Realtime 语音问答结合 Azure AI Search**
 

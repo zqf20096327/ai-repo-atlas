@@ -1,6 +1,6 @@
 # breakstageaxe61/genspark-claw
 
-⭐ 648 · JavaScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/breakstageaxe61/genspark-claw) · 个人维护
+⭐ 538 · JavaScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/breakstageaxe61/genspark-claw) · 个人维护
 
 **给个人 AI agent 安装生产级技能的社区技能包与 CLI**
 

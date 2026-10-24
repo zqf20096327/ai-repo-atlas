@@ -1,6 +1,6 @@
 # superagent-ai/superagent
 
-⭐ 6,771 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/superagent-ai/superagent) · [官网](https://superagent.sh) · 组织维护
+⭐ 6,772 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/superagent-ai/superagent) · [官网](https://superagent.sh) · 组织维护
 
 **面向 AI 应用的安全 SDK：防提示注入、脱敏、仓库扫描**
 

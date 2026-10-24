@@ -1,6 +1,6 @@
 # johnxie/awesome-code-docs
 
-⭐ 66 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/johnxie/awesome-code-docs) · [官网](https://github.com/johnxie/awesome-code-docs#-tutorial-catalog) · 个人维护
+⭐ 67 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/johnxie/awesome-code-docs) · [官网](https://github.com/johnxie/awesome-code-docs#-tutorial-catalog) · 个人维护
 
 **203 篇 AI agent 与开发工具深度教程的策展清单**
 

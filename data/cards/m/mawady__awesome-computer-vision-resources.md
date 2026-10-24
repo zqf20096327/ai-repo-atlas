@@ -1,6 +1,6 @@
 # mawady/awesome-computer-vision-resources
 
-⭐ 176 · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/mawady/awesome-computer-vision-resources) · 个人维护
+⭐ 176 · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/mawady/awesome-computer-vision-resources) · 个人维护
 
 **计算机视觉结构化学习资源清单：课程、书籍、会议、期刊与库**
 

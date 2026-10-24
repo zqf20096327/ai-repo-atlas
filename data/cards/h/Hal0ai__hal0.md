@@ -1,6 +1,6 @@
 # Hal0ai/hal0
 
-⭐ 83 · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Hal0ai/hal0) · [官网](https://hal0.dev) · 组织维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Hal0ai/hal0) · [官网](https://hal0.dev) · 组织维护
 
 **面向 AMD Strix Halo 的自托管家庭 AI 推理平台**
 

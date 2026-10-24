@@ -1,6 +1,6 @@
 # pydn/ComfyUI-to-Python-Extension
 
-⭐ 2,392 · Python · MIT · 推送 2026-05-10 · [GitHub](https://github.com/pydn/ComfyUI-to-Python-Extension) · 个人维护
+⭐ 2,391 · Python · MIT · 推送 2026-05-10 · [GitHub](https://github.com/pydn/ComfyUI-to-Python-Extension) · 个人维护
 
 **将 ComfyUI 可视化工作流导出为可执行 Python 脚本的扩展**
 

@@ -1,6 +1,6 @@
 # Xilinx/brevitas
 
-⭐ 1,590 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Xilinx/brevitas) · [官网](https://xilinx.github.io/brevitas/) · 组织维护
+⭐ 1,590 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Xilinx/brevitas) · [官网](https://xilinx.github.io/brevitas/) · 组织维护
 
 **PyTorch 神经网络量化库，支持 PTQ 与 QAT**
 

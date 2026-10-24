@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Fake-News-Detector
 
-⭐ 133 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/AmirhosseinHonardoust/Fake-News-Detector) · 个人维护
+⭐ 126 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/AmirhosseinHonardoust/Fake-News-Detector) · 个人维护
 
 **教育用新闻文本风格风险分类器（TF-IDF+逻辑回归）**
 

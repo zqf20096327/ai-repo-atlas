@@ -1,6 +1,6 @@
 # google-deepmind/simply
 
-⭐ 585 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/simply) · 组织维护
+⭐ 585 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google-deepmind/simply) · 组织维护
 
 **供人与 AI agent 快速迭代 LLM 前沿研究的极简 JAX 研究代码库**
 

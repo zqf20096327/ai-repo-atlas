@@ -1,6 +1,6 @@
 # ROCm/FastFlowLM
 
-⭐ 1,981 · C++ · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ROCm/FastFlowLM) · [官网](http://fastflowlm.com/) · 组织维护
+⭐ 1,984 · C++ · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/ROCm/FastFlowLM) · [官网](http://fastflowlm.com/) · 组织维护
 
 **面向 AMD Ryzen AI NPU 的本地 LLM 推理运行时与 CLI**
 

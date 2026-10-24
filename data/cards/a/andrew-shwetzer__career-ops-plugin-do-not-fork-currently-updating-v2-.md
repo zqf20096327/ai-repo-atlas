@@ -1,6 +1,6 @@
 # andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-
 
-⭐ 504 · HTML · MIT · 推送 2026-07-23 · [GitHub](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-) · 个人维护
+⭐ 505 · HTML · MIT · 推送 2026-07-23 · [GitHub](https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-) · 个人维护
 
 **给求职者的 Claude Cowork 插件：职位评估与求职全流程技能**
 

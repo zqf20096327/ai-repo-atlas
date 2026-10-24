@@ -1,6 +1,6 @@
 # Ryder-Sun/Meldwork
 
-⭐ 1,084 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Ryder-Sun/Meldwork) · [官网](https://ryder-sun.github.io/Meldwork/) · 个人维护 · 中文 README
+⭐ 1,090 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Ryder-Sun/Meldwork) · [官网](https://ryder-sun.github.io/Meldwork/) · 个人维护 · 中文 README
 
 **本地优先的多 AI 编码 agent 协作桌面工作台**
 

@@ -1,6 +1,6 @@
 # htobty/ReadyLLM
 
-⭐ 103 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/htobty/ReadyLLM) · 个人维护 · 中文 README
+⭐ 100 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/htobty/ReadyLLM) · 个人维护 · 中文 README
 
 **通过可视化界面部署、监控与调优本地 LLM 的 Web 工具**
 

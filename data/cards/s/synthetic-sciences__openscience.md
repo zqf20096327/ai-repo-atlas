@@ -1,6 +1,6 @@
 # synthetic-sciences/openscience
 
-⭐ 4,242 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/synthetic-sciences/openscience) · [官网](https://openscience.sh) · 组织维护
+⭐ 4,248 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/synthetic-sciences/openscience) · [官网](https://openscience.sh) · 组织维护
 
 **开源科研 AI 工作台：给定目标后自主查文献、写跑代码并成文**
 

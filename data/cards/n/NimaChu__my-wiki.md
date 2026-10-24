@@ -1,6 +1,6 @@
 # NimaChu/my-wiki
 
-⭐ 125 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/NimaChu/my-wiki) · [官网](https://www.npmjs.com/package/my-wiki-skill) · 个人维护 · 中文 README
+⭐ 124 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/NimaChu/my-wiki) · [官网](https://www.npmjs.com/package/my-wiki-skill) · 个人维护 · 中文 README
 
 **本地优先的 AI 知识管理应用：Agent 整理资料为可追溯知识库**
 

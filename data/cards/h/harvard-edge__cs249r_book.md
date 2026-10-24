@@ -1,6 +1,6 @@
 # harvard-edge/cs249r_book
 
-⭐ 29,269 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/harvard-edge/cs249r_book) · [官网](https://mlsysbook.ai) · 组织维护
+⭐ 29,489 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/harvard-edge/cs249r_book) · [官网](https://mlsysbook.ai) · 组织维护
 
 **Harvard CS249r 的 ML 系统工程四卷本开放教材与配套课程资源**
 

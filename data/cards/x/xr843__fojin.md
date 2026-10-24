@@ -1,6 +1,6 @@
 # xr843/fojin
 
-⭐ 352 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xr843/fojin) · [官网](https://fojin.app) · 个人维护 · 中文 README
+⭐ 352 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/xr843/fojin) · [官网](https://fojin.app) · 个人维护 · 中文 README
 
 **面向佛学研究者与读者的佛教文献平台：带引文可验证的 AI 问答**
 

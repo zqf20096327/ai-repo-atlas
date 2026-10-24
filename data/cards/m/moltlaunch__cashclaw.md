@@ -1,6 +1,6 @@
 # moltlaunch/cashclaw
 
-⭐ 1,225 · TypeScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/moltlaunch/cashclaw) · [官网](https://moltlaunch.com) · 组织维护
+⭐ 1,224 · TypeScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/moltlaunch/cashclaw) · [官网](https://moltlaunch.com) · 组织维护
 
 **接入链上任务市场的自主接单工作 Agent**
 

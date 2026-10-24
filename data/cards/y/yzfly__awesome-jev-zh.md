@@ -1,6 +1,6 @@
 # yzfly/awesome-jev-zh
 
-⭐ 85 · HTML · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/yzfly/awesome-jev-zh) · [官网](https://code.jiangshu.ai/awesome-jev-zh/) · 个人维护 · 中文 README
+⭐ 85 · HTML · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/yzfly/awesome-jev-zh) · [官网](https://code.jiangshu.ai/awesome-jev-zh/) · 个人维护 · 中文 README
 
 **Jev / TypeSafe System One 中文精选清单：资料、SDK、应用与评测**
 

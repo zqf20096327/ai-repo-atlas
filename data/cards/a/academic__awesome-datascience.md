@@ -1,6 +1,6 @@
 # academic/awesome-datascience
 
-⭐ 30,225 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/academic/awesome-datascience) · 组织维护
+⭐ 30,228 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/academic/awesome-datascience) · 组织维护
 
 **数据科学学习与资源策展清单（awesome list）**
 

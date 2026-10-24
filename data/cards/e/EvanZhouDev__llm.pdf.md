@@ -1,6 +1,6 @@
 # EvanZhouDev/llm.pdf
 
-⭐ 870 · Python · 推送 2026-09-13 · [GitHub](https://github.com/EvanZhouDev/llm.pdf) · [官网](http://evanzhoudev.github.io/llm.pdf) · 个人维护
+⭐ 869 · Python · 推送 2026-09-13 · [GitHub](https://github.com/EvanZhouDev/llm.pdf) · [官网](http://evanzhoudev.github.io/llm.pdf) · 个人维护
 
 **在 PDF 文件内运行 LLM 推理的概念验证项目**
 

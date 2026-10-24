@@ -1,6 +1,6 @@
 # jasoncheng7115/jt-ipam
 
-⭐ 120 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/jasoncheng7115/jt-ipam) · [官网](https://jasoncheng7115.github.io/jt-ipam/) · 组织维护 · 中文 README
+⭐ 121 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/jasoncheng7115/jt-ipam) · [官网](https://jasoncheng7115.github.io/jt-ipam/) · 组织维护 · 中文 README
 
 **自托管 IPAM：操作流接近 phpIPAM，深度集成多种 DNS/网络/虚拟化平台**
 

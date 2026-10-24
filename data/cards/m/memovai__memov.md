@@ -1,6 +1,6 @@
 # memovai/memov
 
-⭐ 194 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/memovai/memov) · [官网](https://memov.ai) · 组织维护
+⭐ 193 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/memovai/memov) · [官网](https://memov.ai) · 组织维护
 
 **给 AI 编码 agent 提供类 Git 可追溯记忆的 MCP 工具**
 

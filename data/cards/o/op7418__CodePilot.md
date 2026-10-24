@@ -1,6 +1,6 @@
 # op7418/CodePilot
 
-⭐ 6,504 · TypeScript · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/op7418/CodePilot) · [官网](https://www.codepilot.sh/) · 个人维护 · 中文 README
+⭐ 6,506 · TypeScript · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/op7418/CodePilot) · [官网](https://www.codepilot.sh/) · 个人维护 · 中文 README
 
 **多模型 AI agent 桌面客户端，接入多家 AI 提供商并支持远程控制**
 

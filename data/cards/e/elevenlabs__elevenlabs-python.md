@@ -1,6 +1,6 @@
 # elevenlabs/elevenlabs-python
 
-⭐ 3,151 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/elevenlabs/elevenlabs-python) · [官网](https://elevenlabs.io/docs/api-reference/overview) · 组织维护
+⭐ 3,154 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/elevenlabs/elevenlabs-python) · [官网](https://elevenlabs.io/docs/api-reference/overview) · 组织维护
 
 **ElevenLabs 官方 Python SDK：文本转语音与对话式语音 Agent 接入**
 

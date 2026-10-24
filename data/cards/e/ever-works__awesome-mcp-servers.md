@@ -1,6 +1,6 @@
 # ever-works/awesome-mcp-servers
 
-⭐ 122 · CC-BY-SA-4.0 · 推送 2026-08-04 · [GitHub](https://github.com/ever-works/awesome-mcp-servers) · [官网](https://mcpserver.ever.works) · 组织维护
+⭐ 123 · CC-BY-SA-4.0 · 推送 2026-08-04 · [GitHub](https://github.com/ever-works/awesome-mcp-servers) · [官网](https://mcpserver.ever.works) · 组织维护
 
 **MCP Server 精选目录：聚合各类 MCP 服务器条目**
 

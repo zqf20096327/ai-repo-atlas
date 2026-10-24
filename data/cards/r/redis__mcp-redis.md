@@ -1,6 +1,6 @@
 # redis/mcp-redis
 
-⭐ 639 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/redis/mcp-redis) · [官网](https://redis.io/docs/latest/integrate/redis-mcp/) · 组织维护
+⭐ 640 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/redis/mcp-redis) · [官网](https://redis.io/docs/latest/integrate/redis-mcp/) · 组织维护
 
 **官方 Redis MCP Server：让 AI agent 用自然语言管理 Redis 数据**
 

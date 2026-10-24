@@ -1,6 +1,6 @@
 # godelcomplete9/deepsearch-academic
 
-⭐ 186 · Python · 推送 2026-08-14 · [GitHub](https://github.com/godelcomplete9/deepsearch-academic) · 个人维护
+⭐ 185 · Python · 推送 2026-08-14 · [GitHub](https://github.com/godelcomplete9/deepsearch-academic) · 个人维护
 
 **本地学术文献检索问答助手：搜论文、RAPTOR 索引、回答问题**
 

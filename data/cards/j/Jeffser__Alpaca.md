@@ -1,6 +1,6 @@
 # Jeffser/Alpaca
 
-⭐ 1,655 · Python · GPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/Jeffser/Alpaca) · [官网](https://jeffser.com/alpaca) · 个人维护
+⭐ 1,657 · Python · GPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/Jeffser/Alpaca) · [官网](https://jeffser.com/alpaca) · 个人维护
 
 **GNOME 桌面的 Ollama 客户端：本地/云端模型聊天界面**
 

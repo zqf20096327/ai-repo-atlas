@@ -1,6 +1,6 @@
 # axon-rl/gem
 
-⭐ 510 · Python · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/axon-rl/gem) · [官网](https://arxiv.org/pdf/2510.01051) · 组织维护
+⭐ 511 · Python · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/axon-rl/gem) · [官网](https://arxiv.org/pdf/2510.01051) · 组织维护
 
 **面向 Agentic LLM 的强化学习环境套件（Gym 式）**
 

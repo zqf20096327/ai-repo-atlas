@@ -1,6 +1,6 @@
 # xop01/ai_goodpractice
 
-⭐ 671 · 推送 2026-10-02 · [GitHub](https://github.com/xop01/ai_goodpractice) · 个人维护
+⭐ 605 · 推送 2026-10-02 · [GitHub](https://github.com/xop01/ai_goodpractice) · 个人维护
 
 **手写 AI 编码工作流经验指南：教人用 agentic 方式开发**
 

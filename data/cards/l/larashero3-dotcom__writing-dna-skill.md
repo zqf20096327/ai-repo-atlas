@@ -1,6 +1,6 @@
 # larashero3-dotcom/writing-dna-skill
 
-⭐ 2,627 · MIT · 推送 2026-08-24 · [GitHub](https://github.com/larashero3-dotcom/writing-dna-skill) · 组织维护 · 中文 README
+⭐ 2,642 · MIT · 推送 2026-08-24 · [GitHub](https://github.com/larashero3-dotcom/writing-dna-skill) · 组织维护 · 中文 README
 
 **把任意作者写作风格蒸馏为可复用 Writing DNA 的 agent skill**
 

@@ -1,6 +1,6 @@
 # java-up-up/nexus-agent
 
-⭐ 666 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/java-up-up/nexus-agent) · [官网](https://javaup.chat/super-agent/overview/project-intro) · 个人维护 · 中文 README
+⭐ 667 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/java-up-up/nexus-agent) · [官网](https://javaup.chat/super-agent/overview/project-intro) · 个人维护 · 中文 README
 
 **企业级 AI 智能体对话平台：Agent、RAG 问答与工具调用全链路**
 

@@ -1,6 +1,6 @@
 # NVIDIA/physicsnemo
 
-⭐ 3,383 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/physicsnemo) · [官网](https://developer.nvidia.com/physicsnemo) · 组织维护
+⭐ 3,385 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/physicsnemo) · [官网](https://developer.nvidia.com/physicsnemo) · 组织维护
 
 **面向物理机器学习的 PyTorch 框架：构建、训练科学计算模型**
 

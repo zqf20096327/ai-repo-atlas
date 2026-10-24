@@ -1,6 +1,6 @@
 # minicoohei/ai-agent-camp
 
-⭐ 346 · Python · 推送 2026-10-07 · [GitHub](https://github.com/minicoohei/ai-agent-camp) · [官网](https://ai-agent.camp) · 个人维护
+⭐ 345 · Python · 推送 2026-10-07 · [GitHub](https://github.com/minicoohei/ai-agent-camp) · [官网](https://ai-agent.camp) · 个人维护
 
 **面向非工程师的 AI Agent 实训课程仓库（Claude Code/Cursor/Codex）**
 

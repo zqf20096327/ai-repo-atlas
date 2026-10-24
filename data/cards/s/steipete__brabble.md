@@ -1,6 +1,6 @@
 # steipete/brabble
 
-⭐ 172 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/steipete/brabble) · [官网](https://brabble.dev) · 个人维护
+⭐ 172 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/steipete/brabble) · [官网](https://brabble.dev) · 个人维护
 
 **macOS/Linux 本地常驻语音唤醒守护进程，转写后触发自定义命令**
 

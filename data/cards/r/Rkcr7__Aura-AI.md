@@ -1,6 +1,6 @@
 # Rkcr7/Aura-AI
 
-⭐ 87 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Rkcr7/Aura-AI) · [官网](https://aura-ai-stealth.netlify.app/) · 个人维护
+⭐ 89 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Rkcr7/Aura-AI) · [官网](https://aura-ai-stealth.netlify.app/) · 个人维护
 
 **屏幕隐形 AI 助手：面试/考试中实时监听、截图分析、隐蔽给答案**
 

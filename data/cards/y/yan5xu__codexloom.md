@@ -1,6 +1,6 @@
 # yan5xu/codexloom
 
-⭐ 389 · Go · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/yan5xu/codexloom) · 个人维护 · 中文 README
+⭐ 390 · Go · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/yan5xu/codexloom) · 个人维护 · 中文 README
 
 **为 Codex 长期领域 Agent 提供治理与编组的工作环境**
 

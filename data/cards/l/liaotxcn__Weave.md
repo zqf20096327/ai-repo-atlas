@@ -1,6 +1,6 @@
 # liaotxcn/Weave
 
-⭐ 548 · Go · 推送 2026-07-15 · [GitHub](https://github.com/liaotxcn/Weave) · [官网](https://github.com/NexusForgeAI/Weave-Toolkit) · 个人维护 · 中文 README
+⭐ 541 · Go · 推送 2026-07-15 · [GitHub](https://github.com/liaotxcn/Weave) · [官网](https://github.com/NexusForgeAI/Weave-Toolkit) · 个人维护 · 中文 README
 
 **面向开发者的 Go 应用开发平台，集成 LLM/Agent/RAG 能力**
 

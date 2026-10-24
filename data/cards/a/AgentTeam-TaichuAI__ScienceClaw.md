@@ -1,6 +1,6 @@
 # AgentTeam-TaichuAI/ScienceClaw
 
-⭐ 674 · Python · 推送 2026-05-09 · [GitHub](https://github.com/AgentTeam-TaichuAI/ScienceClaw) · [官网](https://scienceclaw.zidongtaichu.com/) · 组织维护 · 中文 README
+⭐ 673 · Python · 推送 2026-05-09 · [GitHub](https://github.com/AgentTeam-TaichuAI/ScienceClaw) · [官网](https://scienceclaw.zidongtaichu.com/) · 组织维护 · 中文 README
 
 **本地运行的科研 Agent 助手：Docker 沙箱内调用 1900+ 科学工具**
 

@@ -1,6 +1,6 @@
 # LiuMengxuan04/MiniCode
 
-⭐ 1,152 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/LiuMengxuan04/MiniCode) · [官网](https://liumengxuan04.github.io/MiniCode/) · 组织维护 · 中文 README
+⭐ 1,154 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/LiuMengxuan04/MiniCode) · [官网](https://liumengxuan04.github.io/MiniCode/) · 组织维护 · 中文 README
 
 **轻量终端编码助手：类 Claude Code 工作流的学习型实现**
 

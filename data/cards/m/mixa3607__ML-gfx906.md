@@ -1,6 +1,6 @@
 # mixa3607/ML-gfx906
 
-⭐ 357 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mixa3607/ML-gfx906) · [官网](https://arkprojects.space/wiki/AMD_GFX906) · 个人维护
+⭐ 359 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mixa3607/ML-gfx906) · [官网](https://arkprojects.space/wiki/AMD_GFX906) · 个人维护
 
 **面向 AMD gfx906（Radeon VII/MI50/MI60）的 ML 软件构建仓库**
 

@@ -1,6 +1,6 @@
 # fitchmultz/pi-posthorse
 
-⭐ 274 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/fitchmultz/pi-posthorse) · 个人维护
+⭐ 274 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/fitchmultz/pi-posthorse) · 个人维护
 
 **Pi 编码代理的无摘要上下文轮转扩展，附持久笔记**
 

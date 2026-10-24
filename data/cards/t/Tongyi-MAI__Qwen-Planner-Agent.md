@@ -1,6 +1,6 @@
 # Tongyi-MAI/Qwen-Planner-Agent
 
-⭐ 111 · HTML · 推送 2026-09-26 · [GitHub](https://github.com/Tongyi-MAI/Qwen-Planner-Agent) · [官网](https://tongyi-mai.github.io/Qwen-Planner-Agent/) · 组织维护 · 中文 README
+⭐ 112 · HTML · 推送 2026-09-26 · [GitHub](https://github.com/Tongyi-MAI/Qwen-Planner-Agent) · [官网](https://tongyi-mai.github.io/Qwen-Planner-Agent/) · 组织维护 · 中文 README
 
 **移动端规划智能体框架的博客与技术报告展示仓库**
 

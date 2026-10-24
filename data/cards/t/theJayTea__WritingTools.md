@@ -1,6 +1,6 @@
 # theJayTea/WritingTools
 
-⭐ 2,473 · Swift · GPL-3.0 · 推送 2026-08-19 · [GitHub](https://github.com/theJayTea/WritingTools) · 个人维护
+⭐ 2,474 · Swift · GPL-3.0 · 推送 2026-08-19 · [GitHub](https://github.com/theJayTea/WritingTools) · 个人维护
 
 **跨平台 AI 写作助手：快捷键全局润色、改写与摘要**
 

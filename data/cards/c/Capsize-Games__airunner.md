@@ -1,6 +1,6 @@
 # Capsize-Games/airunner
 
-⭐ 1,319 · Python · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/Capsize-Games/airunner) · [官网](https://airunner.art) · 组织维护
+⭐ 1,319 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Capsize-Games/airunner) · [官网](https://airunner.art) · 组织维护
 
 **离线桌面 AI 伴侣与 AI 艺术生成应用（本地运行）**
 

@@ -1,6 +1,6 @@
 # moss-site/moss-trade-bot-skills
 
-⭐ 389 · Python · MIT-0 · 推送 2026-10-20 · [GitHub](https://github.com/moss-site/moss-trade-bot-skills) · [官网](https://moss.site/) · 组织维护
+⭐ 390 · Python · MIT-0 · 推送 2026-10-20 · [GitHub](https://github.com/moss-site/moss-trade-bot-skills) · [官网](https://moss.site/) · 组织维护
 
 **用自然语言生成并进化加密货币交易 agent 的策略工厂**
 

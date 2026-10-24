@@ -1,6 +1,6 @@
 # chiphoton/DeepSeek-Harness-Video-Director
 
-⭐ 76 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/chiphoton/DeepSeek-Harness-Video-Director) · 个人维护 · 中文 README
+⭐ 65 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/chiphoton/DeepSeek-Harness-Video-Director) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的可视化视频生产插件：画布式编排多源生成**
 

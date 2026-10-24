@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-typescript
 
-⭐ 2,150 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-typescript) · [官网](https://www.npmjs.com/package/@anthropic-ai/sdk) · 组织维护
+⭐ 2,153 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-typescript) · [官网](https://www.npmjs.com/package/@anthropic-ai/sdk) · 组织维护
 
 **Anthropic 官方 TypeScript SDK：在 TS/JS 应用中调用 Claude API**
 

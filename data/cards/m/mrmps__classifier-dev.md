@@ -1,6 +1,6 @@
 # mrmps/classifier-dev
 
-⭐ 425 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mrmps/classifier-dev) · [官网](https://classifier.dev) · 个人维护
+⭐ 429 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mrmps/classifier-dev) · [官网](https://classifier.dev) · 个人维护
 
 **免 Key 的零样本文本分类 HTTP API、CLI 与 MCP 服务**
 

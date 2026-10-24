@@ -1,6 +1,6 @@
 # NLPOptimize/flash-tokenizer
 
-⭐ 458 · C++ · 推送 2026-02-02 · [GitHub](https://github.com/NLPOptimize/flash-tokenizer) · [官网](https://github.com/NLPOptimize/flash-tokenizer) · 组织维护
+⭐ 457 · C++ · 推送 2026-02-02 · [GitHub](https://github.com/NLPOptimize/flash-tokenizer) · [官网](https://github.com/NLPOptimize/flash-tokenizer) · 组织维护
 
 **C++17 实现的高速 BertTokenizer 库，面向 LLM 推理服务**
 

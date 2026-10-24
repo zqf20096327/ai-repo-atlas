@@ -1,6 +1,6 @@
 # zhaoyang97/Paper-Notes
 
-⭐ 2,255 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/zhaoyang97/Paper-Notes) · [官网](https://papernotes.org) · 组织维护 · 中文 README
+⭐ 2,257 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/zhaoyang97/Paper-Notes) · [官网](https://papernotes.org) · 组织维护 · 中文 README
 
 **面向研究者的顶会论文解读聚合站，23,000+ 篇覆盖 9 大会议**
 

@@ -1,6 +1,6 @@
 # JohnCrickett/ai-assisted-engineering
 
-⭐ 433 · 推送 2026-03-13 · [GitHub](https://github.com/JohnCrickett/ai-assisted-engineering) · 个人维护
+⭐ 432 · 推送 2026-03-13 · [GitHub](https://github.com/JohnCrickett/ai-assisted-engineering) · 个人维护
 
 **AI 辅助软件工程指南：面向工程师与工程负责人**
 

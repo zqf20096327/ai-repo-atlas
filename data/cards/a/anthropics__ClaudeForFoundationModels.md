@@ -1,6 +1,6 @@
 # anthropics/ClaudeForFoundationModels
 
-⭐ 333 · Swift · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/anthropics/ClaudeForFoundationModels) · 组织维护
+⭐ 335 · Swift · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/anthropics/ClaudeForFoundationModels) · 组织维护
 
 **将 Claude 接入 Apple Foundation Models 框架的 Swift 适配包**
 

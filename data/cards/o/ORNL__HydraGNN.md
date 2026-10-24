@@ -1,6 +1,6 @@
 # ORNL/HydraGNN
 
-⭐ 127 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/ORNL/HydraGNN) · 组织维护
+⭐ 127 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/ORNL/HydraGNN) · 组织维护
 
 **多图多头图神经网络的分布式 PyTorch 框架，面向科学计算**
 

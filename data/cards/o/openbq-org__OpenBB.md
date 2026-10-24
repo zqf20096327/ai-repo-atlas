@@ -1,6 +1,6 @@
 # openbq-org/OpenBB
 
-⭐ 74,592 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/openbq-org/OpenBB) · [官网](https://openbb.co) · 组织维护
+⭐ 74,619 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/openbq-org/OpenBB) · [官网](https://openbb.co) · 组织维护
 
 **为量化分析师与 AI agent 提供统一金融数据接入的开源平台**
 

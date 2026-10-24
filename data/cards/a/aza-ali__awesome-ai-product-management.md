@@ -1,6 +1,6 @@
 # aza-ali/awesome-ai-product-management
 
-⭐ 255 · 推送 2026-05-24 · [GitHub](https://github.com/aza-ali/awesome-ai-product-management) · [官网](https://github.com/aza-ali/awesome-ai-product-management) · 个人维护
+⭐ 257 · 推送 2026-05-24 · [GitHub](https://github.com/aza-ali/awesome-ai-product-management) · [官网](https://github.com/aza-ali/awesome-ai-product-management) · 个人维护
 
 **AI 产品经理资源策展清单：工具、框架、书单与报告**
 

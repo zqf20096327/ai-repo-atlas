@@ -1,6 +1,6 @@
 # anus-dev/ANUS
 
-⭐ 6,552 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/anus-dev/ANUS) · [官网](https://anus.dev) · 个人维护
+⭐ 6,553 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/anus-dev/ANUS) · [官网](https://anus.dev) · 个人维护
 
 **终端免费编码 agent：自动在多个免费模型间路由请求**
 

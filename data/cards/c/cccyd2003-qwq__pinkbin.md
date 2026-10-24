@@ -1,6 +1,6 @@
 # cccyd2003-qwq/pinkbin
 
-⭐ 1,396 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/cccyd2003-qwq/pinkbin) · [官网](https://github.com/cccyd2003-qwq/pinkbin) · 个人维护 · 中文 README
+⭐ 1,398 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/cccyd2003-qwq/pinkbin) · [官网](https://github.com/cccyd2003-qwq/pinkbin) · 个人维护 · 中文 README
 
 **带 AI 问答的 Windows 磁盘扫描清理工具**
 

@@ -1,6 +1,6 @@
 # labtether/labtether
 
-⭐ 234 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/labtether/labtether) · [官网](https://labtether.com) · 组织维护
+⭐ 233 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/labtether/labtether) · [官网](https://labtether.com) · 组织维护
 
 **自托管家庭实验室统一管控面板，内置 MCP 供 AI agent 运维**
 

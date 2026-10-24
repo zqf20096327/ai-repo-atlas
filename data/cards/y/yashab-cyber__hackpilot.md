@@ -1,6 +1,6 @@
 # yashab-cyber/hackpilot
 
-⭐ 1,279 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/yashab-cyber/hackpilot) · [官网](https://yashab-cyber.github.io/hackpilot/) · 个人维护
+⭐ 1,283 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/yashab-cyber/hackpilot) · [官网](https://yashab-cyber.github.io/hackpilot/) · 个人维护
 
 **面向企业安全团队的 AI 驱动渗透测试平台**
 

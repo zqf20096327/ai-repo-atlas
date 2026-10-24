@@ -1,6 +1,6 @@
 # tommasocarraro/LTNtorch
 
-⭐ 163 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/tommasocarraro/LTNtorch) · [官网](https://tommasocarraro.github.io/LTNtorch/) · 个人维护
+⭐ 164 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/tommasocarraro/LTNtorch) · [官网](https://tommasocarraro.github.io/LTNtorch/) · 个人维护
 
 **Logic Tensor Networks 的 PyTorch 实现：用逻辑公理指导神经网络训练**
 

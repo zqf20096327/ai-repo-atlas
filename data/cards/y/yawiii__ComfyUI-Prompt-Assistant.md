@@ -1,6 +1,6 @@
 # yawiii/ComfyUI-Prompt-Assistant
 
-⭐ 2,452 · JavaScript · GPL-3.0 · 推送 2026-04-25 · [GitHub](https://github.com/yawiii/ComfyUI-Prompt-Assistant) · [官网](https://space.bilibili.com/520680644) · 个人维护 · 中文 README
+⭐ 2,456 · JavaScript · GPL-3.0 · 推送 2026-04-25 · [GitHub](https://github.com/yawiii/ComfyUI-Prompt-Assistant) · [官网](https://space.bilibili.com/520680644) · 个人维护 · 中文 README
 
 **ComfyUI 提示词插件：调用云端/本地大模型做翻译、扩写与图像反推**
 

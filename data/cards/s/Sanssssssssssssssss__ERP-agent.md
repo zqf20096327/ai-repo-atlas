@@ -1,6 +1,6 @@
 # Sanssssssssssssssss/ERP-agent
 
-⭐ 192 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Sanssssssssssssssss/ERP-agent) · 个人维护 · 中文 README
+⭐ 197 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Sanssssssssssssssss/ERP-agent) · 个人维护 · 中文 README
 
 **让 AI Agent 实际操作 Odoo 19 ERP 的 Windows 桌面工作台**
 

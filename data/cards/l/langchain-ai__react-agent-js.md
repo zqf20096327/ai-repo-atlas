@@ -1,6 +1,6 @@
 # langchain-ai/react-agent-js
 
-⭐ 119 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/react-agent-js) · 组织维护
+⭐ 118 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/react-agent-js) · 组织维护
 
 **面向开发者的 LangChain AI Agent 应用起始模板**
 

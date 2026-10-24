@@ -1,6 +1,6 @@
 # SimplyLiz/ckb
 
-⭐ 110 · Go · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/SimplyLiz/ckb) · [官网](https://github.com/SimplyLiz/CodeMCP/wiki) · 个人维护
+⭐ 111 · Go · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/SimplyLiz/ckb) · [官网](https://github.com/SimplyLiz/CodeMCP/wiki) · 个人维护
 
 **把代码库变成可查询知识库的 MCP 服务，供 AI 助手做代码导航与影响分析**
 

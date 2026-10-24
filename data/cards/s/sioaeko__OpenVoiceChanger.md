@@ -1,6 +1,6 @@
 # sioaeko/OpenVoiceChanger
 
-⭐ 113 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/sioaeko/OpenVoiceChanger) · 个人维护
+⭐ 115 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/sioaeko/OpenVoiceChanger) · 个人维护
 
 **实时 AI 变声 Web 应用：麦克风经 RVC/ONNX 模型低延迟变声**
 

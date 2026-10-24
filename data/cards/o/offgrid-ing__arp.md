@@ -1,6 +1,6 @@
 # offgrid-ing/arp
 
-⭐ 63 · Rust · MIT · 推送 2026-04-29 · [GitHub](https://github.com/offgrid-ing/arp) · [官网](https://arp.offgrid.ing) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给自主 agent 的无状态 WebSocket 加密中继通信协议**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

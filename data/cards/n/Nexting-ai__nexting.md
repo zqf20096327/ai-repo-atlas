@@ -1,6 +1,6 @@
 # Nexting-ai/nexting
 
-⭐ 1,996 · C · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Nexting-ai/nexting) · [官网](https://nexting.ai) · 组织维护
+⭐ 2,021 · C · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Nexting-ai/nexting) · [官网](https://nexting.ai) · 组织维护
 
 **可穿戴硬件+手机远程操控本机 AI agent 会话**
 

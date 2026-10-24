@@ -1,6 +1,6 @@
 # dvgodoy/FineTuningLLMs
 
-⭐ 876 · Jupyter Notebook · MIT · 推送 2026-02-28 · [GitHub](https://github.com/dvgodoy/FineTuningLLMs) · 个人维护
+⭐ 875 · Jupyter Notebook · MIT · 推送 2026-02-28 · [GitHub](https://github.com/dvgodoy/FineTuningLLMs) · 个人维护
 
 **微调 LLM 的实战书籍配套仓库：PyTorch 与 Hugging Face 教程**
 

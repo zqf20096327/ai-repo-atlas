@@ -1,6 +1,6 @@
 # mdipietro09/GenerativeAI
 
-⭐ 178 · Jupyter Notebook · 推送 2025-10-28 · [GitHub](https://github.com/mdipietro09/GenerativeAI) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **生成式 AI 与 LLM 应用示例集：聊天机器人、Agent、RAG**
 

@@ -1,6 +1,6 @@
 # tmc/langchaingo
 
-⭐ 9,740 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tmc/langchaingo) · [官网](https://tmc.github.io/langchaingo/) · 组织维护
+⭐ 9,741 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tmc/langchaingo) · [官网](https://tmc.github.io/langchaingo/) · 组织维护
 
 **LangChain 的 Go 语言实现，用 Go 构建 LLM 应用**
 

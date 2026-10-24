@@ -1,6 +1,6 @@
 # 4paradigm/OpenMLDB
 
-⭐ 1,715 · C++ · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/4paradigm/OpenMLDB) · [官网](https://openmldb.ai) · 组织维护 · 中文 README
+⭐ 1,715 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/4paradigm/OpenMLDB) · [官网](https://openmldb.ai) · 组织维护 · 中文 README
 
 **面向机器学习应用的特性计算数据库，训练与推理特性一致**
 

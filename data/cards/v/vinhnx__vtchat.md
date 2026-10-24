@@ -1,6 +1,6 @@
 # vinhnx/vtchat
 
-⭐ 59 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vinhnx/vtchat) · 个人维护
+⭐ 58 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vinhnx/vtchat) · 个人维护
 
 **面向用户的隐私优先 AI 聊天应用，支持多模型与本地运行**
 

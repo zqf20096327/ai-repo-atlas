@@ -1,6 +1,6 @@
 # adamzhang1987/kingdee-k3cloud-mcp
 
-⭐ 96 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/adamzhang1987/kingdee-k3cloud-mcp) · [官网](https://adamzhang1987.github.io/kingdee-k3cloud-mcp/) · 个人维护 · 中文 README
+⭐ 97 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/adamzhang1987/kingdee-k3cloud-mcp) · [官网](https://adamzhang1987.github.io/kingdee-k3cloud-mcp/) · 个人维护 · 中文 README
 
 **让 AI 助手通过 MCP 自然语言操作金蝶云星空 ERP 的服务器**
 

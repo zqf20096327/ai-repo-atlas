@@ -1,6 +1,6 @@
 # microsoft/Huabu
 
-⭐ 162 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/Huabu) · [官网](https://microsoft.github.io/Huabu/) · 组织维护
+⭐ 163 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/Huabu) · [官网](https://microsoft.github.io/Huabu/) · 组织维护
 
 **微软的无限画布式思考空间：人与自有 agent 协同整理思路**
 

@@ -1,6 +1,6 @@
 # iLearn-Lab/NovelClaw
 
-⭐ 380 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/iLearn-Lab/NovelClaw) · [官网](https://hitsz-ds.github.io/CoLong-Idea-Studio/) · 组织维护 · 中文 README
+⭐ 378 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/iLearn-Lab/NovelClaw) · [官网](https://hitsz-ds.github.io/CoLong-Idea-Studio/) · 组织维护 · 中文 README
 
 **面向长篇小说写作的 FastAPI 工作区：会话、章节与记忆管理**
 

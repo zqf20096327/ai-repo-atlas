@@ -1,6 +1,6 @@
 # fh2019ustc/Awesome-Document-Image-Rectification
 
-⭐ 571 · 推送 2026-04-15 · [GitHub](https://github.com/fh2019ustc/Awesome-Document-Image-Rectification) · 个人维护
+⭐ 571 · 推送 2026-10-24 · [GitHub](https://github.com/fh2019ustc/Awesome-Document-Image-Rectification) · 个人维护
 
 **文档图像矫正（去弯曲）论文/数据集/演示策展清单**
 

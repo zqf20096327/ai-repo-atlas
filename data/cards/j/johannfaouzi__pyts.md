@@ -1,6 +1,6 @@
 # johannfaouzi/pyts
 
-⭐ 1,879 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/johannfaouzi/pyts) · [官网](https://pyts.readthedocs.io) · 个人维护
+⭐ 1,878 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/johannfaouzi/pyts) · [官网](https://pyts.readthedocs.io) · 个人维护
 
 **时间序列分类的 Python 机器学习库**
 

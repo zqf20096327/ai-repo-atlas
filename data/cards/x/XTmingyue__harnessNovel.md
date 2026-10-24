@@ -1,6 +1,6 @@
 # XTmingyue/harnessNovel
 
-⭐ 196 · Python · GPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/XTmingyue/harnessNovel) · [官网](https://mp.weixin.qq.com/s/_GIBLfxKKc6VyMdx9oWhwA) · 个人维护 · 中文 README
+⭐ 197 · Python · GPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/XTmingyue/harnessNovel) · [官网](https://mp.weixin.qq.com/s/_GIBLfxKKc6VyMdx9oWhwA) · 个人维护 · 中文 README
 
 **面向网文作者的「拆书+仿写」长篇小说自动化写作 AI Agent**
 

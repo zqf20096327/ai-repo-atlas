@@ -1,6 +1,6 @@
 # speedyk-005/chunklet-py
 
-⭐ 88 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/speedyk-005/chunklet-py) · [官网](https://speedyk-005.github.io/chunklet-py/latest) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/speedyk-005/chunklet-py) · [官网](https://speedyk-005.github.io/chunklet-py/latest) · 个人维护
 
 **面向 RAG/LLM 的文本、代码与文档智能分块 Python 库**
 

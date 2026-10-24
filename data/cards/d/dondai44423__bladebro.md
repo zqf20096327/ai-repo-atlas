@@ -1,6 +1,6 @@
 # dondai44423/bladebro
 
-⭐ 331 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/dondai44423/bladebro) · 个人维护
+⭐ 333 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/dondai44423/bladebro) · 个人维护
 
 **给 AI agent 用的 Rust 浏览器驱动：MCP/CLI，5 工具全控真实浏览器**
 

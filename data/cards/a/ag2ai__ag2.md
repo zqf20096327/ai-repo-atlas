@@ -1,6 +1,6 @@
 # ag2ai/ag2
 
-⭐ 5,013 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ag2ai/ag2) · [官网](https://ag2.ai) · 组织维护
+⭐ 5,015 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ag2ai/ag2) · [官网](https://ag2.ai) · 组织维护
 
 **构建多 AI agent 的开源编程框架（前 AutoGen）**
 

@@ -1,6 +1,6 @@
 # 888newstep/ai-agent-platform
 
-⭐ 117 · Java · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/888newstep/ai-agent-platform) · 个人维护 · 中文 README
+⭐ 116 · Java · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/888newstep/ai-agent-platform) · 个人维护 · 中文 README
 
 **Java 企业知识问答与智能客服 AI Agent 服务端**
 

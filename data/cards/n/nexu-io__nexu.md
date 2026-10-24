@@ -1,6 +1,6 @@
 # nexu-io/nexu
 
-⭐ 3,284 · TypeScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/nexu-io/nexu) · [官网](https://nexu.io) · 组织维护 · 中文 README
+⭐ 3,280 · TypeScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/nexu-io/nexu) · [官网](https://nexu.io) · 组织维护 · 中文 README
 
 **把 OpenClaw Agent 接入微信/飞书/Slack/Discord 的桌面客户端**
 

@@ -1,6 +1,6 @@
 # silverstein/minutes
 
-⭐ 1,564 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/silverstein/minutes) · [官网](https://useminutes.app) · 个人维护
+⭐ 1,567 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/silverstein/minutes) · [官网](https://useminutes.app) · 个人维护
 
 **本地优先的会议/语音录制转录应用，产出自有 Markdown 记录**
 

@@ -1,6 +1,6 @@
 # yandexdataschool/Practical_DL
 
-⭐ 1,780 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yandexdataschool/Practical_DL) · 组织维护
+⭐ 1,780 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yandexdataschool/Practical_DL) · 组织维护
 
 **YSDA/HSE/Skoltech 合作的深度学习课程材料库**
 

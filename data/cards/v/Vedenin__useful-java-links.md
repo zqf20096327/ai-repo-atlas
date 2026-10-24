@@ -1,6 +1,6 @@
 # Vedenin/useful-java-links
 
-⭐ 6,207 · Java · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/Vedenin/useful-java-links) · 个人维护
+⭐ 6,208 · Java · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/Vedenin/useful-java-links) · 个人维护
 
 **Java 框架与库的策展清单：给开发者按类别找库**
 

@@ -1,6 +1,6 @@
 # hashgraph-online/standards-sdk-go
 
-⭐ 320 · Go · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/hashgraph-online/standards-sdk-go) · [官网](https://hol.org) · 组织维护
+⭐ 321 · Go · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/hashgraph-online/standards-sdk-go) · [官网](https://hol.org) · 组织维护
 
 **Go 实现的 Hiero 共识规范（HCS）官方 SDK**
 

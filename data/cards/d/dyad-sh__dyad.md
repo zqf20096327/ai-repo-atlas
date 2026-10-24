@@ -1,6 +1,6 @@
 # dyad-sh/dyad
 
-⭐ 22,045 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dyad-sh/dyad) · [官网](https://dyad.sh) · 组织维护
+⭐ 22,050 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dyad-sh/dyad) · [官网](https://dyad.sh) · 组织维护
 
 **本地运行的开源 AI 应用构建器，面向进阶用户**
 

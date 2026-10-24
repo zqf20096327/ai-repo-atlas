@@ -1,6 +1,6 @@
 # e2b-dev/awesome-ai-sdks
 
-⭐ 1,233 · 推送 2026-07-09 · [GitHub](https://github.com/e2b-dev/awesome-ai-sdks) · 组织维护
+⭐ 1,234 · 推送 2026-07-09 · [GitHub](https://github.com/e2b-dev/awesome-ai-sdks) · 组织维护
 
 **面向 AI agent 开发的 SDK/框架/工具策展清单**
 

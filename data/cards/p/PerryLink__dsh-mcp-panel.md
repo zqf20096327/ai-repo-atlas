@@ -1,6 +1,6 @@
 # PerryLink/dsh-mcp-panel
 
-⭐ 86 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/PerryLink/dsh-mcp-panel) · [官网](https://perrylink.github.io/plugins/dsh-mcp-panel/) · 个人维护 · 中文 README
+⭐ 89 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PerryLink/dsh-mcp-panel) · [官网](https://perrylink.github.io/plugins/dsh-mcp-panel/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 官方 MCP 客户端的管理控制台插件**
 

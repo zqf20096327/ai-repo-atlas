@@ -1,6 +1,6 @@
 # rasbt/MachineLearning-QandAI-book
 
-⭐ 973 · Jupyter Notebook · BSD-3-Clause · 推送 2025-12-17 · [GitHub](https://github.com/rasbt/MachineLearning-QandAI-book) · [官网](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768) · 个人维护
+⭐ 972 · Jupyter Notebook · BSD-3-Clause · 推送 2025-12-17 · [GitHub](https://github.com/rasbt/MachineLearning-QandAI-book) · [官网](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768) · 个人维护
 
 **机器学习书籍《Machine Learning Q and AI》的配套材料仓库**
 

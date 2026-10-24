@@ -1,6 +1,6 @@
 # mc3545dada/mspm0-skill
 
-⭐ 378 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/mc3545dada/mspm0-skill) · 个人维护 · 中文 README
+⭐ 377 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/mc3545dada/mspm0-skill) · 个人维护 · 中文 README
 
 **让 AI Agent 参与 MSPM0 嵌入式开发与电赛备赛的技能包**
 

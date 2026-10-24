@@ -1,6 +1,6 @@
 # vercel-labs/ai-sdk-slackbot
 
-⭐ 132 · TypeScript · 推送 2026-06-05 · [GitHub](https://github.com/vercel-labs/ai-sdk-slackbot) · [官网](https://ai-sdk.dev) · 组织维护
+⭐ 131 · TypeScript · 推送 2026-06-05 · [GitHub](https://github.com/vercel-labs/ai-sdk-slackbot) · [官网](https://ai-sdk.dev) · 组织维护
 
 **基于 AI SDK 的 Slack AI 聊天机器人，带工具调用与策略门控**
 

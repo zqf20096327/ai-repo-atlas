@@ -1,6 +1,6 @@
 # CliMA/ClimaOcean.jl
 
-⭐ 66 · Julia · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/CliMA/ClimaOcean.jl) · [官网](https://clima.github.io/ClimaOceanDocumentation/stable/) · 组织维护
+⭐ 66 · Julia · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/CliMA/ClimaOcean.jl) · [官网](https://clima.github.io/ClimaOceanDocumentation/stable/) · 组织维护
 
 **给气候研究者的区域到全球海洋与海冰耦合模拟框架**
 

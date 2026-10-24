@@ -1,6 +1,6 @@
 # salesforce/TransmogrifAI
 
-⭐ 2,280 · Scala · BSD-3-Clause · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/TransmogrifAI) · [官网](https://transmogrif.ai) · 组织维护
+⭐ 2,279 · Scala · BSD-3-Clause · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/TransmogrifAI) · [官网](https://transmogrif.ai) · 组织维护
 
 **Apache Spark 上的 Scala AutoML 库，自动构建机器学习工作流**
 

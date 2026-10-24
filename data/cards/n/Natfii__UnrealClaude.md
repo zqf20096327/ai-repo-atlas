@@ -1,6 +1,6 @@
 # Natfii/UnrealClaude
 
-⭐ 949 · C++ · 推送 2026-06-26 · [GitHub](https://github.com/Natfii/UnrealClaude) · 个人维护
+⭐ 952 · C++ · 推送 2026-06-26 · [GitHub](https://github.com/Natfii/UnrealClaude) · 个人维护
 
 **UE5.7 编辑器内集成 Claude Code CLI 的 AI 编码助手插件**
 

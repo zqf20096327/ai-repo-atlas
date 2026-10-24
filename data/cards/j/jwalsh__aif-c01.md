@@ -1,6 +1,6 @@
 # jwalsh/aif-c01
 
-⭐ 75 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/jwalsh/aif-c01) · 个人维护
+⭐ 75 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jwalsh/aif-c01) · 个人维护
 
 **AWS AIF-C01 认证备考资料库：分域学习路径与动手示例**
 

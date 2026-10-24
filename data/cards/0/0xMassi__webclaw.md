@@ -1,6 +1,6 @@
 # 0xMassi/webclaw
 
-⭐ 2,386 · Rust · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/0xMassi/webclaw) · [官网](https://webclaw.io) · 个人维护 · 中文 README
+⭐ 2,388 · Rust · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/0xMassi/webclaw) · [官网](https://webclaw.io) · 个人维护 · 中文 README
 
 **面向 LLM/Agent 的本地网页抽取工具：网页转 Markdown/JSON/LLM 上下文**
 

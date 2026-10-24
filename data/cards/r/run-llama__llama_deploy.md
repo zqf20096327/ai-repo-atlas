@@ -1,6 +1,6 @@
 # run-llama/llama_deploy
 
-⭐ 2,067 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/run-llama/llama_deploy) · [官网](https://docs.llamaindex.ai/en/stable/module_guides/llama_deploy/) · 组织维护
+⭐ 2,068 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/run-llama/llama_deploy) · [官网](https://docs.llamaindex.ai/en/stable/module_guides/llama_deploy/) · 组织维护
 
 **将 LlamaIndex agent 工作流部署到生产环境的框架（已弃用）**
 

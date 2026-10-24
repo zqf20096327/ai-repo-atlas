@@ -1,6 +1,6 @@
 # br3ndonland/dotfiles
 
-⭐ 84 · Starlark · MIT · 推送 2026-10-18 · [GitHub](https://github.com/br3ndonland/dotfiles) · 个人维护
+⭐ 85 · Starlark · MIT · 推送 2026-10-18 · [GitHub](https://github.com/br3ndonland/dotfiles) · 个人维护
 
 **个人 macOS/Linux 开发环境配置文件集与一键初始化脚本**
 

@@ -1,6 +1,6 @@
 # IBM/mcp-context-forge
 
-⭐ 4,685 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/IBM/mcp-context-forge) · [官网](https://ibm.github.io/mcp-context-forge/) · 组织维护
+⭐ 4,685 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/IBM/mcp-context-forge) · [官网](https://ibm.github.io/mcp-context-forge/) · 组织维护
 
 **IBM 开源的 MCP/A2A/REST 联邦网关与注册中心**
 

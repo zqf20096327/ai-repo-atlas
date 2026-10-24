@@ -1,6 +1,6 @@
 # niki914/zafiro
 
-⭐ 293 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/niki914/zafiro) · 个人维护 · 中文 README
+⭐ 296 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/niki914/zafiro) · 个人维护 · 中文 README
 
 **安卓端 BYOK 开源 AI Agent：控制手机、跑 Shell 与 Python**
 

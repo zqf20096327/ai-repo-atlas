@@ -1,6 +1,6 @@
 # ZenSystemAI/Zengram
 
-⭐ 64 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ZenSystemAI/Zengram) · [官网](https://zensystem.ai) · 组织维护
+⭐ 64 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ZenSystemAI/Zengram) · [官网](https://zensystem.ai) · 组织维护
 
 **面向多 AI agent 的跨机器共享记忆系统（MCP 记忆服务）**
 

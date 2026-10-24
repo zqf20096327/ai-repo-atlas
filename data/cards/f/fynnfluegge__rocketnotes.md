@@ -1,6 +1,6 @@
 # fynnfluegge/rocketnotes
 
-⭐ 1,497 · TypeScript · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/fynnfluegge/rocketnotes) · 个人维护
+⭐ 1,496 · TypeScript · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/fynnfluegge/rocketnotes) · 个人维护
 
 **带原生 AI 功能的 Web/Electron Markdown 笔记应用，可全本地运行**
 

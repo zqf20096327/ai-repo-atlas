@@ -1,6 +1,6 @@
 # Soodok/Deepseek-Harness-Local-Android
 
-⭐ 310 · Kotlin · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Soodok/Deepseek-Harness-Local-Android) · 个人维护 · 中文 README
+⭐ 326 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Soodok/Deepseek-Harness-Local-Android) · 个人维护 · 中文 README
 
 **在 Android 手机本地运行 DeepSeek Harness Agent 的移植 App**
 

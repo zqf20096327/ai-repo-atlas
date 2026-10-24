@@ -1,6 +1,6 @@
 # diegosouzapw/OmniCopilot
 
-⭐ 139 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/diegosouzapw/OmniCopilot) · [官网](https://github.com/diegosouzapw/OmniRoute) · 个人维护
+⭐ 140 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/diegosouzapw/OmniCopilot) · [官网](https://github.com/diegosouzapw/OmniRoute) · 个人维护
 
 **把 1200+ 模型接入 VS Code Copilot Chat 的扩展**
 

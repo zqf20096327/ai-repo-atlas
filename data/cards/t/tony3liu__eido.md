@@ -1,6 +1,6 @@
 # tony3liu/eido
 
-⭐ 129 · Rust · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/tony3liu/eido) · [官网](https://cairno.cn/eido/) · 个人维护 · 中文 README
+⭐ 136 · Rust · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/tony3liu/eido) · [官网](https://cairno.cn/eido/) · 个人维护 · 中文 README
 
 **macOS AI 编码工作台：对话、编辑、审查与浏览器/桌面操作一体**
 

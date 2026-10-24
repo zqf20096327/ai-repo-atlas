@@ -1,6 +1,6 @@
 # WEIFENG2333/VideoCaptioner
 
-⭐ 16,350 · Python · GPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/WEIFENG2333/VideoCaptioner) · [官网](https://www.videocaptioner.cn) · 个人维护 · 中文 README
+⭐ 16,353 · Python · GPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/WEIFENG2333/VideoCaptioner) · [官网](https://www.videocaptioner.cn) · 个人维护 · 中文 README
 
 **给视频创作者提供 LLM 驱动的字幕生成、优化与翻译工具**
 

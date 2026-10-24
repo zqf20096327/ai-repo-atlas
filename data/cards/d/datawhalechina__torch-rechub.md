@@ -1,6 +1,6 @@
 # datawhalechina/torch-rechub
 
-⭐ 1,234 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/datawhalechina/torch-rechub) · [官网](https://datawhalechina.github.io/torch-rechub/) · 组织维护 · 中文 README
+⭐ 1,234 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/datawhalechina/torch-rechub) · [官网](https://datawhalechina.github.io/torch-rechub/) · 组织维护 · 中文 README
 
 **PyTorch 推荐系统框架：30+ 主流模型开箱即用并支持 ONNX 部署**
 

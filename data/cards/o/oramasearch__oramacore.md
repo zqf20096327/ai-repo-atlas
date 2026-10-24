@@ -1,6 +1,6 @@
 # oramasearch/oramacore
 
-⭐ 263 · Rust · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/oramasearch/oramacore) · [官网](https://docs.orama.com/docs/cloud) · 组织维护
+⭐ 263 · Rust · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/oramasearch/oramacore) · [官网](https://docs.orama.com/docs/cloud) · 组织维护
 
 **带全文检索、向量库与 LLM 接口的 AI 搜索运行时**
 

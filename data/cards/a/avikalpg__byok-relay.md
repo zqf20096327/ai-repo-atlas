@@ -1,6 +1,6 @@
 # avikalpg/byok-relay
 
-⭐ 56 · JavaScript · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/avikalpg/byok-relay) · [官网](https://byokrelay.com) · 个人维护
+⭐ 57 · JavaScript · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/avikalpg/byok-relay) · [官网](https://byokrelay.com) · 个人维护
 
 **BYOK 中继服务：让浏览器前端用用户自己的 AI 密钥直连 LLM，绕开 CORS**
 

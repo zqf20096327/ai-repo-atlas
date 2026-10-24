@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/vertex-ai-samples
 
-⭐ 790 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/GoogleCloudPlatform/vertex-ai-samples) · [官网](https://cloud.google.com/vertex-ai) · 组织维护
+⭐ 791 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/GoogleCloudPlatform/vertex-ai-samples) · [官网](https://cloud.google.com/vertex-ai) · 组织维护
 
 **Vertex AI 官方示例库：notebook 与代码演示 ML/生成式 AI 工作流**
 

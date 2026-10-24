@@ -1,6 +1,6 @@
 # Marco-Christiani/Zigrad
 
-⭐ 197 · Zig · LGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/Marco-Christiani/Zigrad) · [官网](http://zigrad.datatician.io/) · 个人维护
+⭐ 197 · Zig · LGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Marco-Christiani/Zigrad) · [官网](http://zigrad.datatician.io/) · 个人维护
 
 **Zig 编写的深度学习框架，基于自动微分引擎**
 

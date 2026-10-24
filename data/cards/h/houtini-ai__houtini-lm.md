@@ -1,6 +1,6 @@
 # houtini-ai/houtini-lm
 
-⭐ 121 · TypeScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/houtini-ai/houtini-lm) · [官网](https://houtini.com/how-to-cut-your-claude-code-bill-with-houtini-lm/) · 个人维护
+⭐ 121 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/houtini-ai/houtini-lm) · [官网](https://houtini.com/how-to-cut-your-claude-code-bill-with-houtini-lm/) · 个人维护
 
 **把有界任务从 Claude Code 委派给本地/云端 LLM 的 MCP server**
 

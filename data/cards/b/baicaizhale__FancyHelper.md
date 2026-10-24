@@ -1,6 +1,6 @@
 # baicaizhale/FancyHelper
 
-⭐ 70 · Java · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/baicaizhale/FancyHelper) · [官网](https://modrinth.com/plugin/fancyhelper) · 个人维护 · 中文 README
+⭐ 64 · Java · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/baicaizhale/FancyHelper) · [官网](https://modrinth.com/plugin/fancyhelper) · 个人维护 · 中文 README
 
 **Minecraft 服务器管理的游戏内 AI 助手插件**
 

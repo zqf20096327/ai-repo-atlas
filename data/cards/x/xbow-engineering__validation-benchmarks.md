@@ -1,6 +1,6 @@
 # xbow-engineering/validation-benchmarks
 
-⭐ 735 · PHP · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/xbow-engineering/validation-benchmarks) · [官网](https://xbow.com) · 组织维护
+⭐ 738 · PHP · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/xbow-engineering/validation-benchmarks) · [官网](https://xbow.com) · 组织维护
 
 **104 个 Web 攻防 CTF 基准，用于评测 LLM 网络安全能力**
 

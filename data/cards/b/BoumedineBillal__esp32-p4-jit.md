@@ -1,6 +1,6 @@
 # BoumedineBillal/esp32-p4-jit
 
-⭐ 56 · Assembly · MIT · 推送 2026-01-01 · [GitHub](https://github.com/BoumedineBillal/esp32-p4-jit) · 个人维护
+⭐ 57 · Assembly · MIT · 推送 2026-01-01 · [GitHub](https://github.com/BoumedineBillal/esp32-p4-jit) · 个人维护
 
 **ESP32-P4 动态代码加载系统：PC 编译、设备原生执行，免刷固件**
 

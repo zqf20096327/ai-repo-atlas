@@ -1,6 +1,6 @@
 # unitedrhino/docling
 
-⭐ 59 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/unitedrhino/docling) · [官网](https://www.unitedrhino.com/) · 组织维护 · 中文 README
+⭐ 61 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/unitedrhino/docling) · [官网](https://www.unitedrhino.com/) · 组织维护 · 中文 README
 
 **纯 Go 文档解析库：12+ 种格式统一转为 Docling 协议供 LLM 摄入**
 

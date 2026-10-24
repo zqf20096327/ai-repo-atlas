@@ -1,6 +1,6 @@
 # georg-jung/FaceAiSharp
 
-⭐ 135 · C# · MIT · 推送 2026-08-04 · [GitHub](https://github.com/georg-jung/FaceAiSharp) · [官网](https://nuget.org/packages/FaceAiSharp/) · 个人维护
+⭐ 136 · C# · MIT · 推送 2026-08-04 · [GitHub](https://github.com/georg-jung/FaceAiSharp) · [官网](https://nuget.org/packages/FaceAiSharp/) · 个人维护
 
 **.NET 人脸检测/识别/关键点与眼睛状态库**
 

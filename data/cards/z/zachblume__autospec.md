@@ -1,6 +1,6 @@
 # zachblume/autospec
 
-⭐ 66 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/zachblume/autospec) · [官网](https://autospec.dev) · 个人维护
+⭐ 67 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/zachblume/autospec) · [官网](https://autospec.dev) · 个人维护
 
 **AI 代理：给定 Web 应用 URL，自主探索并生成 Playwright E2E 测试**
 

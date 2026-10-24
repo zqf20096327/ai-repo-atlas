@@ -1,6 +1,6 @@
 # govctl-org/govctl
 
-⭐ 275 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/govctl-org/govctl) · [官网](https://govctl-org.github.io/govctl/) · 组织维护
+⭐ 276 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/govctl-org/govctl) · [官网](https://govctl-org.github.io/govctl/) · 组织维护
 
 **面向 AI 编码团队的治理即代码 CLI：把提示与补丁纳入 RFC/ADR/工作项管控**
 

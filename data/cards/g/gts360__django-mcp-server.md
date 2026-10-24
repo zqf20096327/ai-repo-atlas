@@ -1,6 +1,6 @@
 # gts360/django-mcp-server
 
-⭐ 382 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/gts360/django-mcp-server) · 组织维护
+⭐ 383 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/gts360/django-mcp-server) · 组织维护
 
 **Django 扩展：把 Django 应用暴露为 MCP 工具供 AI Agent 调用**
 

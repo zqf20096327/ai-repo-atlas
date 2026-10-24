@@ -1,6 +1,6 @@
 # IliasHad/edit-mind
 
-⭐ 1,816 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/IliasHad/edit-mind) · [官网](https://orcah.app) · 个人维护
+⭐ 1,817 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/IliasHad/edit-mind) · [官网](https://orcah.app) · 个人维护
 
 **本地自托管视频知识库：索引视频并用自然语言检索**
 

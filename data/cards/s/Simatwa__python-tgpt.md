@@ -1,6 +1,6 @@
 # Simatwa/python-tgpt
 
-⭐ 177 · Python · MIT · 推送 2026-02-21 · [GitHub](https://github.com/Simatwa/python-tgpt) · 个人维护
+⭐ 176 · Python · MIT · 推送 2026-02-21 · [GitHub](https://github.com/Simatwa/python-tgpt) · 个人维护
 
 **无需 API Key 即可对话 45+ 免费 LLM 的 Python 包与 CLI**
 

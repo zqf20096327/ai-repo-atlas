@@ -1,6 +1,6 @@
 # nitrosend/cli
 
-⭐ 115 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nitrosend/cli) · [官网](https://www.npmjs.com/package/@nitrosend/cli) · 组织维护
+⭐ 117 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nitrosend/cli) · [官网](https://www.npmjs.com/package/@nitrosend/cli) · 组织维护
 
 **Nitrosend 营销平台的命令行客户端：终端发送邮件短信、跑流程、调 MCP 工具**
 

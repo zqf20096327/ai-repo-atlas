@@ -1,6 +1,6 @@
 # linyqh/NarratoAI
 
-⭐ 11,514 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/linyqh/NarratoAI) · [官网](https://www.narratoai.cn) · 个人维护 · 中文 README
+⭐ 11,521 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/linyqh/NarratoAI) · [官网](https://www.narratoai.cn) · 个人维护 · 中文 README
 
 **面向内容创作者的 AI 影视解说与自动化剪辑工具**
 

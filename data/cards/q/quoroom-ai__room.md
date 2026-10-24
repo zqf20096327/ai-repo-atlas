@@ -1,6 +1,6 @@
 # quoroom-ai/room
 
-⭐ 835 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/quoroom-ai/room) · [官网](https://quoroom.ai) · 组织维护
+⭐ 834 · TypeScript · MIT · 推送 2026-04-12 · [GitHub](https://github.com/quoroom-ai/room) · [官网](https://quoroom.ai) · 组织维护
 
 **自主多智能体集群引擎：本地运行 Queen/Worker/投票治理**
 

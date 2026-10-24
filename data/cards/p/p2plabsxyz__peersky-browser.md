@@ -1,6 +1,6 @@
 # p2plabsxyz/peersky-browser
 
-⭐ 89 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/p2plabsxyz/peersky-browser) · [官网](https://peersky.p2plabs.xyz/) · 组织维护
+⭐ 89 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/p2plabsxyz/peersky-browser) · [官网](https://peersky.p2plabs.xyz/) · 组织维护
 
 **本地优先的点对点浏览器：让电脑成为节点访问 P2P 网络**
 

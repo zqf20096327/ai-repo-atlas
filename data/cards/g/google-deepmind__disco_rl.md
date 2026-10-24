@@ -1,6 +1,6 @@
 # google-deepmind/disco_rl
 
-⭐ 744 · Python · Apache-2.0 · 推送 2025-12-02 · [GitHub](https://github.com/google-deepmind/disco_rl) · [官网](https://google-deepmind.github.io/disco_rl) · 组织维护
+⭐ 745 · Python · Apache-2.0 · 推送 2025-12-02 · [GitHub](https://github.com/google-deepmind/disco_rl) · [官网](https://google-deepmind.github.io/disco_rl) · 组织维护
 
 **DiscoRL 论文配套代码：JAX 复现与元学习强化学习更新规则**
 

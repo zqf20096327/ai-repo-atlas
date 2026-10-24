@@ -1,6 +1,6 @@
 # chrisryugj/kordoc
 
-⭐ 2,716 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/chrisryugj/kordoc) · [官网](https://www.npmjs.com/package/kordoc) · 个人维护 · 中文 README
+⭐ 2,726 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/chrisryugj/kordoc) · [官网](https://www.npmjs.com/package/kordoc) · 个人维护 · 中文 README
 
 **韩文文档(HWP/HWPX/PDF/Office)转 Markdown 的解析器：CLI·库·MCP 服务器**
 

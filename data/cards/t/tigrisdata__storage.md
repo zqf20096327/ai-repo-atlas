@@ -1,6 +1,6 @@
 # tigrisdata/storage
 
-⭐ 94 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tigrisdata/storage) · [官网](https://www.tigrisdata.com) · 组织维护
+⭐ 94 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tigrisdata/storage) · [官网](https://www.tigrisdata.com) · 组织维护
 
 **Tigris 对象存储的 JavaScript/TypeScript SDK 合集（含 AI agent 工具）**
 

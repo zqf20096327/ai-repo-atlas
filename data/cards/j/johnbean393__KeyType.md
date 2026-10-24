@@ -1,6 +1,6 @@
 # johnbean393/KeyType
 
-⭐ 574 · Swift · MIT · 推送 2026-08-29 · [GitHub](https://github.com/johnbean393/KeyType) · 个人维护
+⭐ 573 · Swift · MIT · 推送 2026-08-29 · [GitHub](https://github.com/johnbean393/KeyType) · 个人维护
 
 **macOS 全系统 Tab 补全工具：本地 LLM 预测续写**
 

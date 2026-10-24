@@ -1,6 +1,6 @@
 # Vincentqyw/cv-arxiv-daily
 
-⭐ 1,507 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Vincentqyw/cv-arxiv-daily) · [官网](https://papers.vincentqin.tech) · 个人维护
+⭐ 1,506 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Vincentqyw/cv-arxiv-daily) · [官网](https://papers.vincentqin.tech) · 个人维护
 
 **每日自动更新的计算机视觉 arXiv 论文清单**
 

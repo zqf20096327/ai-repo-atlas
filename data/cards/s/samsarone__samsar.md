@@ -1,6 +1,6 @@
 # samsarone/samsar
 
-⭐ 59 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/samsarone/samsar) · [官网](https://www.samsar.one) · 组织维护
+⭐ 59 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/samsarone/samsar) · [官网](https://www.samsar.one) · 组织维护
 
 **生成式视频与媒体自动化平台：提示词/产品图生成成品视频**
 

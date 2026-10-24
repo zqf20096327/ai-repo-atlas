@@ -1,6 +1,6 @@
 # ANTsX/ANTsPyNet
 
-⭐ 263 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/ANTsX/ANTsPyNet) · [官网](https://antspynet.readthedocs.io) · 组织维护
+⭐ 263 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ANTsX/ANTsPyNet) · [官网](https://antspynet.readthedocs.io) · 组织维护
 
 **医学影像深度学习库：预训练模型+网络架构+训练工具**
 

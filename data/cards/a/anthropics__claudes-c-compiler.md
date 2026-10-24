@@ -1,6 +1,6 @@
 # anthropics/claudes-c-compiler
 
-⭐ 2,823 · Rust · CC0-1.0 · 推送 2026-02-05 · [GitHub](https://github.com/anthropics/claudes-c-compiler) · 组织维护
+⭐ 2,822 · Rust · CC0-1.0 · 推送 2026-02-05 · [GitHub](https://github.com/anthropics/claudes-c-compiler) · 组织维护
 
 **由 Claude Opus 4.6 编写的零依赖 Rust 实现的 C 编译器**
 

@@ -1,6 +1,6 @@
 # probml/pyprobml
 
-⭐ 7,171 · Jupyter Notebook · MIT · 推送 2026-02-26 · [GitHub](https://github.com/probml/pyprobml) · 个人维护
+⭐ 7,170 · Jupyter Notebook · MIT · 推送 2026-02-26 · [GitHub](https://github.com/probml/pyprobml) · 个人维护
 
 **《Probabilistic Machine Learning》两卷教材插图复现代码集**
 

@@ -1,6 +1,6 @@
 # ChaitanyaEswarRajeshJakki/gemini-youtube-automation
 
-⭐ 368 · Python · 推送 2026-10-23 · [GitHub](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation) · [官网](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation) · 个人维护
+⭐ 367 · Python · 推送 2026-10-24 · [GitHub](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation) · [官网](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation) · 个人维护
 
 **全自动 Python 流水线：用 Gemini 生成教学内容视频并上传 YouTube**
 

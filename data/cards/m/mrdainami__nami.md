@@ -1,6 +1,6 @@
 # mrdainami/nami
 
-⭐ 329 · JavaScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/mrdainami/nami) · [官网](https://nami.dainami.ai) · 个人维护
+⭐ 330 · JavaScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/mrdainami/nami) · [官网](https://nami.dainami.ai) · 个人维护
 
 **桌面工作区：并排运行多个 AI agent 干活的统一操作台**
 

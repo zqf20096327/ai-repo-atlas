@@ -1,6 +1,6 @@
 # sanshengai/sansheng-distill
 
-⭐ 57 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sanshengai/sansheng-distill) · 个人维护 · 中文 README
+⭐ 57 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sanshengai/sansheng-distill) · 个人维护 · 中文 README
 
 **把书/视频/人物资料蒸成单文件 HTML 知识地图的 Claude Code skill**
 

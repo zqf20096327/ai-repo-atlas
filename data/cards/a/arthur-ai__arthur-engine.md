@@ -1,6 +1,6 @@
 # arthur-ai/arthur-engine
 
-⭐ 92 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/arthur-ai/arthur-engine) · [官网](https://arthur.ai) · 组织维护
+⭐ 92 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/arthur-ai/arthur-engine) · [官网](https://arthur.ai) · 组织维护
 
 **AI/ML 工作负载的开发、监控与治理服务：护栏、评测与追踪**
 

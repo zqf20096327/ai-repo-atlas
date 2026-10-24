@@ -1,6 +1,6 @@
 # abundantbeing/hermes-browser-extension
 
-⭐ 1,699 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/abundantbeing/hermes-browser-extension) · 个人维护
+⭐ 1,698 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/abundantbeing/hermes-browser-extension) · 个人维护
 
 **连接本地 Hermes Agent 运行时的浏览器侧边栏扩展**
 

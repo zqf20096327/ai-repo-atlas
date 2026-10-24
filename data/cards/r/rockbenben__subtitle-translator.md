@@ -1,6 +1,6 @@
 # rockbenben/subtitle-translator
 
-⭐ 1,174 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rockbenben/subtitle-translator) · [官网](https://tools.newzone.top/en/subtitle-translator) · 个人维护 · 中文 README
+⭐ 1,176 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rockbenben/subtitle-translator) · [官网](https://tools.newzone.top/en/subtitle-translator) · 个人维护 · 中文 README
 
 **浏览器端整季字幕批量翻译工具，时轴本地保护**
 

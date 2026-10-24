@@ -1,6 +1,6 @@
 # rivet-dev/agents
 
-⭐ 1,609 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/rivet-dev/agents) · [官网](https://rivet.dev/agents/docs) · 组织维护
+⭐ 1,608 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/rivet-dev/agents) · [官网](https://rivet.dev/agents/docs) · 组织维护
 
 **Rivet 出品的 agent 基础设施：以持久 Actor 运行 agent**
 

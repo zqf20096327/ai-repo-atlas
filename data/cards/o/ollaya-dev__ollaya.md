@@ -1,6 +1,6 @@
 # ollaya-dev/ollaya
 
-⭐ 1,386 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ollaya-dev/ollaya) · [官网](https://ollaya.dev) · 个人维护
+⭐ 1,390 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ollaya-dev/ollaya) · [官网](https://ollaya.dev) · 个人维护
 
 **本地运行开源决策模型的运行时：按名拉取并通过类 Ollama CLI/API 服务**
 

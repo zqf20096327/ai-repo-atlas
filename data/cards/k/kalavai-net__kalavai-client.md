@@ -1,6 +1,6 @@
 # kalavai-net/kalavai-client
 
-⭐ 222 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/kalavai-net/kalavai-client) · [官网](https://kalavai-net.github.io/kalavai-client/) · 组织维护
+⭐ 223 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/kalavai-net/kalavai-client) · [官网](https://kalavai-net.github.io/kalavai-client/) · 组织维护
 
 **聚合闲置 GPU 算力并统一调度部署 AI 工作负载的开源平台**
 

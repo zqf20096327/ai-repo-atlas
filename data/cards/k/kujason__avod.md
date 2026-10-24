@@ -1,6 +1,6 @@
 # kujason/avod
 
-⭐ 959 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/kujason/avod) · 组织维护
+⭐ 960 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/kujason/avod) · 组织维护
 
 **自动驾驶 3D 目标检测网络 AVOD 的官方实现**
 

@@ -1,6 +1,6 @@
 # agentscope-ai/OpenJudge
 
-⭐ 887 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/agentscope-ai/OpenJudge) · [官网](https://openjudge.me/) · 组织维护 · 中文 README
+⭐ 888 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/agentscope-ai/OpenJudge) · [官网](https://openjudge.me/) · 组织维护 · 中文 README
 
 **面向 AI 应用与 Agent 的开源评测框架，提供 50+ 评分器**
 

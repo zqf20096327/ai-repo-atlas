@@ -1,6 +1,6 @@
 # Songzhi-lab/chinese-font-selector
 
-⭐ 80 · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Songzhi-lab/chinese-font-selector) · 个人维护 · 中文 README
+⭐ 81 · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Songzhi-lab/chinese-font-selector) · 个人维护 · 中文 README
 
 **给 AI Agent 的中文字体选配知识包：授权分级+选字矩阵+混排规则**
 

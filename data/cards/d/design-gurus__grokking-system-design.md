@@ -1,6 +1,6 @@
 # design-gurus/grokking-system-design
 
-⭐ 353 · CC-BY-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/design-gurus/grokking-system-design) · [官网](https://www.designgurus.io/course/grokking-the-system-design-interview) · 组织维护
+⭐ 354 · CC-BY-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/design-gurus/grokking-system-design) · [官网](https://www.designgurus.io/course/grokking-the-system-design-interview) · 组织维护
 
 **面向系统设计面试的免费模式化学习知识库（30 模式/59 题）**
 

@@ -1,6 +1,6 @@
 # paulpierre/markdown-crawler
 
-⭐ 477 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/paulpierre/markdown-crawler) · [官网](https://pypi.org/project/markdown-crawler/) · 个人维护
+⭐ 478 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/paulpierre/markdown-crawler) · [官网](https://pypi.org/project/markdown-crawler/) · 个人维护
 
 **多线程网站爬虫：整站爬取并转为 Markdown，供 RAG 用**
 

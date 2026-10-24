@@ -1,6 +1,6 @@
 # OrionStarAI/EasyCode
 
-⭐ 421 · TypeScript · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/OrionStarAI/EasyCode) · [官网](https://easycode.bot) · 组织维护 · 中文 README
+⭐ 420 · TypeScript · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/OrionStarAI/EasyCode) · [官网](https://easycode.bot) · 组织维护 · 中文 README
 
 **给开发者的 CLI/VS Code AI 编程助手，支持多模型接入与任务派发**
 

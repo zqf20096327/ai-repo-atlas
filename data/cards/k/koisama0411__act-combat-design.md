@@ -1,6 +1,6 @@
 # koisama0411/act-combat-design
 
-⭐ 89 · HTML · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/koisama0411/act-combat-design) · 个人维护 · 中文 README
+⭐ 90 · HTML · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/koisama0411/act-combat-design) · 个人维护 · 中文 README
 
 **动作游戏战斗设计方法论知识库，供任意 AI agent 加载使用**
 

@@ -1,6 +1,6 @@
 # Tencent/AngelSlim
 
-⭐ 1,770 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Tencent/AngelSlim) · [官网](https://angelslim.readthedocs.io) · 组织维护 · 中文 README
+⭐ 1,771 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Tencent/AngelSlim) · [官网](https://angelslim.readthedocs.io) · 组织维护 · 中文 README
 
 **腾讯开源的大模型压缩工具包：量化、蒸馏、投机解码、稀疏注意力**
 

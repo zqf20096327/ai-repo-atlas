@@ -1,6 +1,6 @@
 # nudgebee/nudgebee
 
-⭐ 402 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/nudgebee/nudgebee) · [官网](https://nudgebee.com/) · 组织维护
+⭐ 402 · Go · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/nudgebee/nudgebee) · [官网](https://nudgebee.com/) · 组织维护
 
 **开源 SRE 副驾驶平台：跨 K8s 与多云的可观测、FinOps 与事件响应**
 

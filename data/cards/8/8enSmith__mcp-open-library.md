@@ -1,6 +1,6 @@
 # 8enSmith/mcp-open-library
 
-⭐ 97 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/8enSmith/mcp-open-library) · 个人维护
+⭐ 99 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/8enSmith/mcp-open-library) · 个人维护
 
 **为 AI 助手提供 Open Library 图书/作者检索的 MCP 服务器**
 

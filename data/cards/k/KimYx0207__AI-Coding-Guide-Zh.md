@@ -1,6 +1,6 @@
 # KimYx0207/AI-Coding-Guide-Zh
 
-⭐ 6,330 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/KimYx0207/AI-Coding-Guide-Zh) · 个人维护 · 中文 README
+⭐ 6,337 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/KimYx0207/AI-Coding-Guide-Zh) · 个人维护 · 中文 README
 
 **面向中文初学者的 AI 编程工具四线实战教程集**
 

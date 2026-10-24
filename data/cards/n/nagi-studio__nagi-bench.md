@@ -1,6 +1,6 @@
 # nagi-studio/nagi-bench
 
-⭐ 71 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nagi-studio/nagi-bench) · [官网](http://bench.nagi.fun/) · 组织维护 · 中文 README
+⭐ 72 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nagi-studio/nagi-bench) · [官网](http://bench.nagi.fun/) · 组织维护 · 中文 README
 
 **LLM Agent 一次生成能力测评案例集与社区盲评榜单**
 

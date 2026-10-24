@@ -1,6 +1,6 @@
 # NVIDIA/kvpress
 
-⭐ 1,236 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/kvpress) · 组织维护
+⭐ 1,237 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/kvpress) · 组织维护
 
 **面向研究者的 LLM KV cache 压缩方法库与评测工具**
 

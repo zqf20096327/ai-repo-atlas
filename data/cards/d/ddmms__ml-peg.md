@@ -1,6 +1,6 @@
 # ddmms/ml-peg
 
-⭐ 71 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ddmms/ml-peg) · [官网](https://ddmms.github.io/ml-peg/) · 组织维护
+⭐ 71 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ddmms/ml-peg) · [官网](https://ddmms.github.io/ml-peg/) · 组织维护
 
 **机器学习原子间势（MLIP）的性能与外推评测框架**
 

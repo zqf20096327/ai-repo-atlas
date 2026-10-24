@@ -1,6 +1,6 @@
 # zai-org/Synapse
 
-⭐ 480 · TypeScript · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/zai-org/Synapse) · [官网](https://synapse-zai-org.vercel.app/) · 组织维护 · 中文 README
+⭐ 487 · TypeScript · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/zai-org/Synapse) · [官网](https://synapse-zai-org.vercel.app/) · 组织维护 · 中文 README
 
 **自托管的共享 AI 队友工作台：对话即协作边界**
 

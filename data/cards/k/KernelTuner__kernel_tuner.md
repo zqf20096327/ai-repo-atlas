@@ -1,6 +1,6 @@
 # KernelTuner/kernel_tuner
 
-⭐ 427 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/KernelTuner/kernel_tuner) · [官网](https://kerneltuner.github.io/kernel_tuner/) · 组织维护
+⭐ 427 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/KernelTuner/kernel_tuner) · [官网](https://kerneltuner.github.io/kernel_tuner/) · 组织维护
 
 **面向开发者的 GPU kernel 自动调优框架（CUDA/HIP/OpenCL 等）**
 

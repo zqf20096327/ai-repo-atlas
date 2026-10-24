@@ -1,6 +1,6 @@
 # lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction
 
-⭐ 251 · MIT · 推送 2026-03-04 · [GitHub](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) · 个人维护 · 中文 README
+⭐ 250 · MIT · 推送 2026-03-04 · [GitHub](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) · 个人维护 · 中文 README
 
 **多相机 3D 占用预测论文与代码的策展清单**
 

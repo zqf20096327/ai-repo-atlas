@@ -1,6 +1,6 @@
 # pythops/tenere
 
-⭐ 684 · Rust · GPL-3.0 · 推送 2026-05-10 · [GitHub](https://github.com/pythops/tenere) · [官网](https://crates.io/crates/tenere) · 个人维护
+⭐ 685 · Rust · GPL-3.0 · 推送 2026-05-10 · [GitHub](https://github.com/pythops/tenere) · [官网](https://crates.io/crates/tenere) · 个人维护
 
 **Rust 编写的终端 LLM 聊天客户端，支持多后端**
 

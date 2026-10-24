@@ -1,6 +1,6 @@
 # Farama-Foundation/Stable-Retro
 
-⭐ 1,101 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Farama-Foundation/Stable-Retro) · [官网](https://stable-retro.farama.org/) · 组织维护
+⭐ 1,099 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Farama-Foundation/Stable-Retro) · [官网](https://stable-retro.farama.org/) · 组织维护
 
 **经典游戏机模拟器强化学习环境库（Gymnasium 接口）**
 

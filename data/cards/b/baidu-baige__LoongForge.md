@@ -1,6 +1,6 @@
 # baidu-baige/LoongForge
 
-⭐ 715 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/baidu-baige/LoongForge) · [官网](https://baidu-baige.github.io/LoongForge/) · 组织维护 · 中文 README
+⭐ 717 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/baidu-baige/LoongForge) · [官网](https://baidu-baige.github.io/LoongForge/) · 组织维护 · 中文 README
 
 **百度百度的多模态大模型与具身模型训练框架**
 

@@ -1,6 +1,6 @@
 # combust/mleap
 
-⭐ 1,546 · Scala · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/combust/mleap) · [官网](https://combust.github.io/mleap-docs/) · 组织维护
+⭐ 1,545 · Scala · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/combust/mleap) · [官网](https://combust.github.io/mleap-docs/) · 组织维护
 
 **把 Spark/Scikit-learn 训练的 ML 管道导出为可移植格式并在 JVM 上离线执行**
 

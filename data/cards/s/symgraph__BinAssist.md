@@ -1,6 +1,6 @@
 # symgraph/BinAssist
 
-⭐ 67 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/symgraph/BinAssist) · 个人维护
+⭐ 68 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/symgraph/BinAssist) · 个人维护
 
 **Binary Ninja 的 LLM 逆向分析插件：函数解释、重命名建议与语义图**
 

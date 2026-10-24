@@ -1,6 +1,6 @@
 # divelab/GOOD
 
-⭐ 212 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/divelab/GOOD) · [官网](https://good.readthedocs.io/) · 组织维护
+⭐ 211 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/divelab/GOOD) · [官网](https://good.readthedocs.io/) · 组织维护
 
 **图分布外（OOD）算法基准库：供科研者开发评测图 OOD 算法**
 

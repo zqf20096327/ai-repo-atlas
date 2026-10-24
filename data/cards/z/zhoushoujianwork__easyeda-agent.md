@@ -1,6 +1,6 @@
 # zhoushoujianwork/easyeda-agent
 
-⭐ 800 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/zhoushoujianwork/easyeda-agent) · [官网](https://jlc-ext.com/item/zhoushoujian/easyeda-agent-connector) · 个人维护 · 中文 README
+⭐ 812 · Go · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/zhoushoujianwork/easyeda-agent) · [官网](https://jlc-ext.com/item/zhoushoujian/easyeda-agent-connector) · 个人维护 · 中文 README
 
 **让 AI Agent 直接操作嘉立创 EDA 专业版的自动化层**
 

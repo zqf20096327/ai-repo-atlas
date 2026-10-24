@@ -1,6 +1,6 @@
 # linguo2625469/workbuddy2api-panel
 
-⭐ 4,449 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/linguo2625469/workbuddy2api-panel) · 个人维护 · 中文 README
+⭐ 4,476 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/linguo2625469/workbuddy2api-panel) · 个人维护 · 中文 README
 
 **把腾讯 CodeBuddy 账号包装为 OpenAI 兼容 API 的自托管多账号网关**
 

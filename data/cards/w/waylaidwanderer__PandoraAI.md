@@ -1,6 +1,6 @@
 # waylaidwanderer/PandoraAI
 
-⭐ 855 · Vue · MIT · 推送 2026-05-29 · [GitHub](https://github.com/waylaidwanderer/PandoraAI) · [官网](https://github.com/waylaidwanderer/node-chatgpt-api) · 个人维护
+⭐ 854 · Vue · MIT · 推送 2026-05-29 · [GitHub](https://github.com/waylaidwanderer/PandoraAI) · [官网](https://github.com/waylaidwanderer/node-chatgpt-api) · 个人维护
 
 **基于 node-chatgpt-api 的多 AI 网页聊天客户端**
 

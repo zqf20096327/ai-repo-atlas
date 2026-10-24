@@ -1,6 +1,6 @@
 # 26zl/cybersec-toolkit
 
-⭐ 78 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/26zl/cybersec-toolkit) · 个人维护
+⭐ 80 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/26zl/cybersec-toolkit) · 个人维护
 
 **AI agent 驱动的安全工具集：一键装 670+ 工具+MCP 治理执行**
 

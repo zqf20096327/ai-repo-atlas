@@ -1,6 +1,6 @@
 # jidouqie/redbeacon
 
-⭐ 261 · Shell · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/jidouqie/redbeacon) · [官网](https://bytestaff.jiomig.com/market/redbeacon) · 组织维护 · 中文 README
+⭐ 257 · Shell · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/jidouqie/redbeacon) · [官网](https://bytestaff.jiomig.com/market/redbeacon) · 组织维护 · 中文 README
 
 **小红书运营数字员工：定位、选题、生成、审稿、发布全流程**
 

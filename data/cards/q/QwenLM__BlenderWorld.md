@@ -1,6 +1,6 @@
 # QwenLM/BlenderWorld
 
-⭐ 240 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/QwenLM/BlenderWorld) · 组织维护 · 中文 README
+⭐ 261 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/QwenLM/BlenderWorld) · 组织维护 · 中文 README
 
 **评测视觉 agent 从真实参考生成 Blender 3D 场景的基准**
 

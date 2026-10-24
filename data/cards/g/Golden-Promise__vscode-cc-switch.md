@@ -1,6 +1,6 @@
 # Golden-Promise/vscode-cc-switch
 
-⭐ 306 · MIT · 推送 2026-03-19 · [GitHub](https://github.com/Golden-Promise/vscode-cc-switch) · 个人维护 · 中文 README
+⭐ 307 · MIT · 推送 2026-03-19 · [GitHub](https://github.com/Golden-Promise/vscode-cc-switch) · 个人维护 · 中文 README
 
 **图文教程：用 VS Code + cc-Switch 让 Claude Code 调第三方模型 API**
 

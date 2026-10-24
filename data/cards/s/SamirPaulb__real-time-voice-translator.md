@@ -1,6 +1,6 @@
 # SamirPaulb/real-time-voice-translator
 
-⭐ 440 · Tcl · GPL-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/SamirPaulb/real-time-voice-translator) · [官网](https://samirpaulb.github.io/posts/real-time-voice-translator) · 个人维护
+⭐ 441 · Tcl · GPL-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/SamirPaulb/real-time-voice-translator) · [官网](https://samirpaulb.github.io/posts/real-time-voice-translator) · 个人维护
 
 **实时语音翻译桌面应用：跨语言保留语气与情感**
 

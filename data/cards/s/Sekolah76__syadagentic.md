@@ -1,6 +1,6 @@
 # Sekolah76/syadagentic
 
-⭐ 83 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Sekolah76/syadagentic) · [官网](https://github.com/Sekolah76/syadagentic) · 个人维护
+⭐ 87 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Sekolah76/syadagentic) · [官网](https://github.com/Sekolah76/syadagentic) · 个人维护
 
 **零拒绝 AI agent 框架：越狱模板与自动化/安全技能集**
 

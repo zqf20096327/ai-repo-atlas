@@ -1,6 +1,6 @@
 # talmolab/sleap
 
-⭐ 618 · Python · BSD-3-Clause-Clear · 推送 2026-10-20 · [GitHub](https://github.com/talmolab/sleap) · [官网](https://sleap.ai) · 组织维护
+⭐ 619 · Python · BSD-3-Clause-Clear · 推送 2026-10-20 · [GitHub](https://github.com/talmolab/sleap) · [官网](https://sleap.ai) · 组织维护
 
 **科研用深度学习多动物姿态追踪框架**
 

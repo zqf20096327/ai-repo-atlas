@@ -1,6 +1,6 @@
 # AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects
 
-⭐ 288 · HTML · 推送 2026-10-12 · [GitHub](https://github.com/AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects) · [官网](https://adilshamim8.github.io/100-AI-Machine-Learning-Deep-Learnin-Projects/) · 个人维护
+⭐ 289 · HTML · 推送 2026-10-12 · [GitHub](https://github.com/AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects) · [官网](https://adilshamim8.github.io/100-AI-Machine-Learning-Deep-Learnin-Projects/) · 个人维护
 
 **个人维护的 100+ AI/ML/DL 项目策展合集，含路线图与实战项目**
 

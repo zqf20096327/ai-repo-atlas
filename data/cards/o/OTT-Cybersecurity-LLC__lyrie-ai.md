@@ -1,6 +1,6 @@
 # OTT-Cybersecurity-LLC/lyrie-ai
 
-⭐ 327 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai) · [官网](https://lyrie.ai) · 组织维护
+⭐ 325 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai) · [官网](https://lyrie.ai) · 组织维护
 
 **自主 AI 网络安全 agent：自动渗透测试与 LLM 红队**
 

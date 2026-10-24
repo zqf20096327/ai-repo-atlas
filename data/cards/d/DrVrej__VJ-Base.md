@@ -1,6 +1,6 @@
 # DrVrej/VJ-Base
 
-⭐ 124 · Lua · 推送 2026-10-20 · [GitHub](https://github.com/DrVrej/VJ-Base) · [官网](http://steamcommunity.com/sharedfiles/filedetails/?id=131759821) · 个人维护
+⭐ 124 · Lua · 推送 2026-10-24 · [GitHub](https://github.com/DrVrej/VJ-Base) · [官网](http://steamcommunity.com/sharedfiles/filedetails/?id=131759821) · 个人维护
 
 **Garry's Mod 的 Lua 扩展基座，用于开发含 AI 系统的可定制 NPC 等插件**
 

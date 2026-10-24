@@ -1,6 +1,6 @@
 # apphp/awesome-php-ml
 
-⭐ 116 · PHP · MIT · 推送 2026-09-19 · [GitHub](https://github.com/apphp/awesome-php-ml) · [官网](https://apphp.github.io/awesome-php-ml/) · 个人维护
+⭐ 117 · PHP · MIT · 推送 2026-09-19 · [GitHub](https://github.com/apphp/awesome-php-ml) · [官网](https://apphp.github.io/awesome-php-ml/) · 个人维护
 
 **PHP 生态机器学习/AI/NLP/LLM 库的策展清单**
 

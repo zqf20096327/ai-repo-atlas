@@ -1,6 +1,6 @@
 # DingoOz/llm-visuals
 
-⭐ 152 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/DingoOz/llm-visuals) · 个人维护
+⭐ 151 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/DingoOz/llm-visuals) · 个人维护
 
 **本地 LLM 推理服务的真彩色终端实时监控面板**
 

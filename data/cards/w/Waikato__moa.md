@@ -1,6 +1,6 @@
 # Waikato/moa
 
-⭐ 669 · Java · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/Waikato/moa) · [官网](http://moa.cms.waikato.ac.nz/) · 组织维护
+⭐ 670 · Java · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/Waikato/moa) · [官网](http://moa.cms.waikato.ac.nz/) · 组织维护
 
 **大数据流挖掘框架：提供流式机器学习算法与评测工具**
 

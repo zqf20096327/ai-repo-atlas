@@ -1,6 +1,6 @@
 # HaoyueQin/dsh-better-reasoning-effort
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HaoyueQin/dsh-better-reasoning-effort) · [官网](https://awesome-dsh-plugin.com/p/HaoyueQin/dsh-better-reasoning-effort) · 个人维护 · 中文 README
+⭐ 65 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HaoyueQin/dsh-better-reasoning-effort) · [官网](https://awesome-dsh-plugin.com/p/HaoyueQin/dsh-better-reasoning-effort) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：在官方页面编辑第三方模型的推理力度**
 

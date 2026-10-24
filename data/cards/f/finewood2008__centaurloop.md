@@ -1,6 +1,6 @@
 # finewood2008/centaurloop
 
-⭐ 73 · TypeScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/finewood2008/centaurloop) · [官网](https://www.centaurloop.com/) · 个人维护 · 中文 README
+⭐ 66 · TypeScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/finewood2008/centaurloop) · [官网](https://www.centaurloop.com/) · 个人维护 · 中文 README
 
 **构建 AI 员工的最小工作单元（循环工作流）框架**
 

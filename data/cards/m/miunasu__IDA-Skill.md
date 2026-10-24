@@ -1,6 +1,6 @@
 # miunasu/IDA-Skill
 
-⭐ 237 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/miunasu/IDA-Skill) · 个人维护 · 中文 README
+⭐ 238 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/miunasu/IDA-Skill) · 个人维护 · 中文 README
 
 **让 AI Agent 用 IDA Pro 自动逆向分析恶意样本的技能包**
 

@@ -1,6 +1,6 @@
 # Atomic-Mail/atomic-mail-agentic
 
-⭐ 262 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Atomic-Mail/atomic-mail-agentic) · [官网](https://atomicmail.ai) · 组织维护
+⭐ 264 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Atomic-Mail/atomic-mail-agentic) · [官网](https://atomicmail.ai) · 组织维护
 
 **给自主 AI 代理提供独立邮箱的客户端集成与服务**
 

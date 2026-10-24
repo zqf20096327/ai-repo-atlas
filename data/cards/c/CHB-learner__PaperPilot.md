@@ -1,6 +1,6 @@
 # CHB-learner/PaperPilot
 
-⭐ 175 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/CHB-learner/PaperPilot) · [官网](https://chb-learner.github.io/PaperPilot/) · 个人维护 · 中文 README
+⭐ 172 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/CHB-learner/PaperPilot) · [官网](https://chb-learner.github.io/PaperPilot/) · 个人维护 · 中文 README
 
 **AI 文献综述 CLI Agent：一次请求产出可溯源的中英双语综述报告**
 

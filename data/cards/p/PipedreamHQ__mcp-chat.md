@@ -1,6 +1,6 @@
 # PipedreamHQ/mcp-chat
 
-⭐ 193 · TypeScript · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/PipedreamHQ/mcp-chat) · [官网](https://pipedream.com/docs/connect/mcp/developers) · 组织维护
+⭐ 192 · TypeScript · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/PipedreamHQ/mcp-chat) · [官网](https://pipedream.com/docs/connect/mcp/developers) · 组织维护
 
 **基于 Pipedream MCP 的开源 AI 聊天参考应用**
 

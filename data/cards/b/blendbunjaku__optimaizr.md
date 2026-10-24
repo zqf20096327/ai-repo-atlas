@@ -1,6 +1,6 @@
 # blendbunjaku/optimaizr
 
-⭐ 140 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/blendbunjaku/optimaizr) · [官网](https://optimaizr.com) · 个人维护
+⭐ 145 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/blendbunjaku/optimaizr) · [官网](https://optimaizr.com) · 个人维护
 
 **本地 CLI：分析并削减 Claude Code/Codex/opencode 的 token 开销**
 

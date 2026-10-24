@@ -1,6 +1,6 @@
 # Jackychen-12/AI-Search
 
-⭐ 117 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Jackychen-12/AI-Search) · [官网](https://aisearches.cc/) · 个人维护 · 中文 README
+⭐ 117 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Jackychen-12/AI-Search) · [官网](https://aisearches.cc/) · 个人维护 · 中文 README
 
 **零服务器零数据库的 AI 行业资讯聚合站，每日自动抓取 40+ 源**
 

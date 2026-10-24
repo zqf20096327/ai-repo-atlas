@@ -1,6 +1,6 @@
 # DeepMIMO/DeepMIMO
 
-⭐ 134 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/DeepMIMO/DeepMIMO) · [官网](https://deepmimo.net/) · 组织维护
+⭐ 134 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/DeepMIMO/DeepMIMO) · [官网](https://deepmimo.net/) · 组织维护
 
 **无线信道射线追踪数据集与工具链，衔接 5G/6G 仿真与 AI 基准测试**
 

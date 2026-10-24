@@ -1,6 +1,6 @@
 # LumiDesk/verifin
 
-⭐ 162 · Dart · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/LumiDesk/verifin) · [官网](https://verifin.talyra42.top) · 个人维护 · 中文 README
+⭐ 163 · Dart · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/LumiDesk/verifin) · [官网](https://verifin.talyra42.top) · 个人维护 · 中文 README
 
 **本地优先、无账号的 Android 个人记账应用**
 

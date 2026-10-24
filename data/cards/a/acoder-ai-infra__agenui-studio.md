@@ -1,6 +1,6 @@
 # acoder-ai-infra/agenui-studio
 
-⭐ 79 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/acoder-ai-infra/agenui-studio) · 组织维护 · 中文 README
+⭐ 79 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/acoder-ai-infra/agenui-studio) · 组织维护 · 中文 README
 
 **自托管工作台：用 AI agent 生成可执行的数据绑定界面**
 

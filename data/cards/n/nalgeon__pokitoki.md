@@ -1,6 +1,6 @@
 # nalgeon/pokitoki
 
-⭐ 342 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/nalgeon/pokitoki) · 个人维护
+⭐ 341 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nalgeon/pokitoki) · 个人维护
 
 **接入 OpenAI 兼容 API 的 Telegram 聊天机器人**
 

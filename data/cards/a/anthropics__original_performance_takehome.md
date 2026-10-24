@@ -1,6 +1,6 @@
 # anthropics/original_performance_takehome
 
-⭐ 4,196 · Python · 推送 2026-01-22 · [GitHub](https://github.com/anthropics/original_performance_takehome) · 组织维护
+⭐ 4,197 · Python · 推送 2026-01-22 · [GitHub](https://github.com/anthropics/original_performance_takehome) · 组织维护
 
 **Anthropic 原版性能优化招聘测试题：优化模拟机器代码至更低时钟周期**
 

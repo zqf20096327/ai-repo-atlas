@@ -1,6 +1,6 @@
 # NVIDIA/TransformerEngine
 
-⭐ 3,591 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/TransformerEngine) · [官网](https://docs.nvidia.com/deeplearning/transformer-engine/) · 组织维护
+⭐ 3,593 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/TransformerEngine) · [官网](https://docs.nvidia.com/deeplearning/transformer-engine/) · 组织维护
 
 **NVIDIA GPU 上加速 Transformer 训练的 FP8/FP4 混合精度库**
 

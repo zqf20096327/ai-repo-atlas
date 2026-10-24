@@ -1,6 +1,6 @@
 # Windsander/ADI-Stable-Diffusion
 
-⭐ 448 · C++ · GPL-3.0 · 推送 2026-09-02 · [GitHub](https://github.com/Windsander/ADI-Stable-Diffusion) · [官网](https://adi.cyberfederal.io/) · 个人维护 · 中文 README
+⭐ 449 · C++ · GPL-3.0 · 推送 2026-09-02 · [GitHub](https://github.com/Windsander/ADI-Stable-Diffusion) · [官网](https://adi.cyberfederal.io/) · 个人维护 · 中文 README
 
 **C++/ONNXRuntime 的 Stable Diffusion 推理库与 CLI，跨九平台**
 

@@ -1,6 +1,6 @@
 # datawhalechina/statistical-learning-method-solutions-manual
 
-⭐ 2,093 · Jupyter Notebook · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/datawhalechina/statistical-learning-method-solutions-manual) · [官网](https://datawhalechina.github.io/statistical-learning-method-solutions-manual) · 组织维护 · 中文 README
+⭐ 2,094 · Jupyter Notebook · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/datawhalechina/statistical-learning-method-solutions-manual) · [官网](https://datawhalechina.github.io/statistical-learning-method-solutions-manual) · 组织维护 · 中文 README
 
 **李航《机器学习方法》全书习题解答与 Python 实现教程**
 

@@ -1,6 +1,6 @@
 # liyown/ai-trend-publish
 
-⭐ 3,214 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/liyown/ai-trend-publish) · [官网](https://liyown.github.io/ai-trend-publish/) · 个人维护 · 中文 README
+⭐ 3,218 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/liyown/ai-trend-publish) · [官网](https://liyown.github.io/ai-trend-publish/) · 个人维护 · 中文 README
 
 **微信公众号自动化选题与发布系统，AI 全流程生成文章**
 

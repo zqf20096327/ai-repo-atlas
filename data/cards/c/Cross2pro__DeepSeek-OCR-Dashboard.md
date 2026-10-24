@@ -1,6 +1,6 @@
 # Cross2pro/DeepSeek-OCR-Dashboard
 
-⭐ 122 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/Cross2pro/DeepSeek-OCR-Dashboard) · 个人维护 · 中文 README
+⭐ 120 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/Cross2pro/DeepSeek-OCR-Dashboard) · 个人维护 · 中文 README
 
 **DeepSeek-OCR 模型的本地 Web UI：上传 PDF/图像并可视化识别结果**
 

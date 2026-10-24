@@ -1,6 +1,6 @@
 # Agenta-AI/awesome-ai-agent-platforms
 
-⭐ 778 · Astro · CC0-1.0 · 推送 2026-10-01 · [GitHub](https://github.com/Agenta-AI/awesome-ai-agent-platforms) · [官网](https://aiagentplatforms.dev) · 组织维护
+⭐ 667 · Astro · CC0-1.0 · 推送 2026-10-01 · [GitHub](https://github.com/Agenta-AI/awesome-ai-agent-platforms) · [官网](https://aiagentplatforms.dev) · 组织维护
 
 **开源 AI agent 平台策展清单，含许可证与托管信息**
 

@@ -1,6 +1,6 @@
 # Nebutra/MinerU-Skill
 
-⭐ 126 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Nebutra/MinerU-Skill) · [官网](https://smithery.ai/skills/nebutra/mineru-skill) · 个人维护 · 中文 README
+⭐ 127 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Nebutra/MinerU-Skill) · [官网](https://smithery.ai/skills/nebutra/mineru-skill) · 个人维护 · 中文 README
 
 **面向 AI agent 的零依赖文档解析 CLI/技能：PDF/Office/图片转 Markdown**
 

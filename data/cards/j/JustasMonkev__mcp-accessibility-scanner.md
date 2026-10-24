@@ -1,6 +1,6 @@
 # JustasMonkev/mcp-accessibility-scanner
 
-⭐ 57 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/JustasMonkev/mcp-accessibility-scanner) · [官网](https://www.npmjs.com/package/mcp-accessibility-scanner) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/JustasMonkev/mcp-accessibility-scanner) · [官网](https://www.npmjs.com/package/mcp-accessibility-scanner) · 个人维护
 
 **供编码 Agent 调用的网页无障碍审计 MCP 服务器**
 

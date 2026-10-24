@@ -1,6 +1,6 @@
 # polyfact/polyfire-js
 
-⭐ 140 · JavaScript · 推送 2026-07-31 · [GitHub](https://github.com/polyfact/polyfire-js) · [官网](https://www.npmjs.com/package/polyfire-js) · 组织维护
+⭐ 141 · JavaScript · 推送 2026-07-31 · [GitHub](https://github.com/polyfact/polyfire-js) · [官网](https://www.npmjs.com/package/polyfire-js) · 组织维护
 
 **面向 AI 应用的托管后端 JS/React SDK**
 

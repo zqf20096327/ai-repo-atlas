@@ -1,6 +1,6 @@
 # zinja-coder/jadx-mcp-server
 
-⭐ 811 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zinja-coder/jadx-mcp-server) · 个人维护
+⭐ 810 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zinja-coder/jadx-mcp-server) · 个人维护
 
 **连接 LLM 与 JADX 反编译插件的 MCP 服务器，用于 Android 逆向**
 

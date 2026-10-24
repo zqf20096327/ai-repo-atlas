@@ -1,6 +1,6 @@
 # usedotai/dot-loom
 
-⭐ 164 · JavaScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/usedotai/dot-loom) · [官网](https://app.usedot.xyz) · 组织维护
+⭐ 162 · JavaScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/usedotai/dot-loom) · [官网](https://app.usedot.xyz) · 组织维护
 
 **面向开发者的多模型自适应推理编排运行时**
 

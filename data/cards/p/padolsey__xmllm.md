@@ -1,6 +1,6 @@
 # padolsey/xmllm
 
-⭐ 60 · JavaScript · 推送 2026-06-25 · [GitHub](https://github.com/padolsey/xmllm) · [官网](https://xmllm.j11y.io) · 个人维护
+⭐ 60 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/padolsey/xmllm) · [官网](https://xmllm.j11y.io) · 个人维护
 
 **JS 库：用 XML 从 LLM 输出提取结构化数据**
 

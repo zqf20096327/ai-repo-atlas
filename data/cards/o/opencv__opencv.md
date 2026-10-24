@@ -1,6 +1,6 @@
 # opencv/opencv
 
-⭐ 91,313 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/opencv/opencv) · [官网](https://opencv.org) · 组织维护
+⭐ 91,316 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/opencv/opencv) · [官网](https://opencv.org) · 组织维护
 
 **开源计算机视觉库：提供图像处理与视觉算法**
 

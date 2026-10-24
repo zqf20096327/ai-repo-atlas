@@ -1,6 +1,6 @@
 # zxx1218/image_fix
 
-⭐ 62 · Python · 推送 2025-10-28 · [GitHub](https://github.com/zxx1218/image_fix) · [官网](http://fortunefreedom.top:9091) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向毕业设计的 GAN+Transformer 图像修复模型与配套应用**
 

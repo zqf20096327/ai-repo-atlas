@@ -1,6 +1,6 @@
 # neuml/paperai
 
-⭐ 1,788 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/neuml/paperai) · 组织维护
+⭐ 1,789 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/neuml/paperai) · 组织维护
 
 **面向医学/科学论文的 AI 检索与批量报告生成应用**
 

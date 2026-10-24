@@ -1,6 +1,6 @@
 # metaopt/torchopt
 
-⭐ 639 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/metaopt/torchopt) · [官网](https://torchopt.readthedocs.io) · 组织维护
+⭐ 640 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/metaopt/torchopt) · [官网](https://torchopt.readthedocs.io) · 组织维护
 
 **基于 PyTorch 的可微分优化库，用于双层优化与元学习**
 

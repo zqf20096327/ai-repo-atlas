@@ -1,6 +1,6 @@
 # cognyai/claude-code-marketing-skills
 
-⭐ 108 · HTML · 推送 2026-10-12 · [GitHub](https://github.com/cognyai/claude-code-marketing-skills) · [官网](https://cogny.com) · 组织维护
+⭐ 110 · HTML · 推送 2026-10-12 · [GitHub](https://github.com/cognyai/claude-code-marketing-skills) · [官网](https://cogny.com) · 组织维护
 
 **面向 Claude Code 等 AI 编码工具的营销技能包（SEO/广告/邮件）**
 

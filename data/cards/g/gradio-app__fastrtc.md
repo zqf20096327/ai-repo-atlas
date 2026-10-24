@@ -1,6 +1,6 @@
 # gradio-app/fastrtc
 
-⭐ 4,633 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/gradio-app/fastrtc) · [官网](https://fastrtc.org/) · 组织维护
+⭐ 4,632 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/gradio-app/fastrtc) · [官网](https://fastrtc.org/) · 组织维护
 
 **将 Python 函数变为 WebRTC/WebSocket 实时音视频流的库**
 

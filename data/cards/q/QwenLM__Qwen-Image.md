@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Image
 
-⭐ 8,423 · Python · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/QwenLM/Qwen-Image) · 组织维护 · 中文 README
+⭐ 8,428 · Python · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/QwenLM/Qwen-Image) · 组织维护 · 中文 README
 
 **20B 文生图/图像编辑基础模型，擅长中英复杂文字渲染**
 

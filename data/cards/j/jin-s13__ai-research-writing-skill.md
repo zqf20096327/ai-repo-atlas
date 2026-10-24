@@ -1,6 +1,6 @@
 # jin-s13/ai-research-writing-skill
 
-⭐ 57 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/jin-s13/ai-research-writing-skill) · 个人维护 · 中文 README
+⭐ 58 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/jin-s13/ai-research-writing-skill) · 个人维护 · 中文 README
 
 **面向 ML/AI 研究者的 agent 技能：把代码仓库转为证据支撑的论文包**
 

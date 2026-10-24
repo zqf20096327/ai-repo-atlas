@@ -1,6 +1,6 @@
 # sibidharan/zealphp
 
-⭐ 68 · PHP · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sibidharan/zealphp) · [官网](https://php.zeal.ninja) · 个人维护
+⭐ 68 · PHP · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sibidharan/zealphp) · [官网](https://php.zeal.ninja) · 个人维护
 
 **基于 OpenSwoole 的 PHP HTTP 服务器框架：常驻进程内跑传统 PHP 并获得异步能力**
 

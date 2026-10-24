@@ -1,6 +1,6 @@
 # dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows
 
-⭐ 93 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows) · 个人维护
+⭐ 89 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows) · 个人维护
 
 **自动生成 SaaS RFP/RFI/RFQ 应答的单文件 Web 应用**
 

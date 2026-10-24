@@ -1,6 +1,6 @@
 # agentic-in/elephant-agent
 
-⭐ 583 · Python · 推送 2026-08-27 · [GitHub](https://github.com/agentic-in/elephant-agent) · [官网](https://elephant.agentic-in.ai) · 组织维护 · 中文 README
+⭐ 584 · Python · 推送 2026-08-27 · [GitHub](https://github.com/agentic-in/elephant-agent) · [官网](https://elephant.agentic-in.ai) · 组织维护 · 中文 README
 
 **以个人模型为核心的自进化个人 AI Agent 应用**
 

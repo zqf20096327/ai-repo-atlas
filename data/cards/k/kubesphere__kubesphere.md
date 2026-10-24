@@ -1,6 +1,6 @@
 # kubesphere/kubesphere
 
-⭐ 17,066 · Go · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/kubesphere/kubesphere) · [官网](https://kubesphere.io) · 组织维护 · 中文 README
+⭐ 17,065 · Go · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/kubesphere/kubesphere) · [官网](https://kubesphere.io) · 组织维护 · 中文 README
 
 **企业级 Kubernetes 容器平台：多云/多集群/边缘统一管理**
 

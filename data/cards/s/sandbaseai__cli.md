@@ -1,6 +1,6 @@
 # sandbaseai/cli
 
-⭐ 184 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/sandbaseai/cli) · [官网](https://sandbaseai.github.io/cli/) · 组织维护 · 中文 README
+⭐ 184 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/sandbaseai/cli) · [官网](https://sandbaseai.github.io/cli/) · 组织维护 · 中文 README
 
 **连接 25 个 AI 客户端到 2,000+ 模型/API 的本地 MCP 网关 CLI**
 

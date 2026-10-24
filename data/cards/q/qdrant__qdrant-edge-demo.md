@@ -1,6 +1,6 @@
 # qdrant/qdrant-edge-demo
 
-⭐ 62 · Python · 推送 2026-10-07 · [GitHub](https://github.com/qdrant/qdrant-edge-demo) · [官网](https://qdrant.tech/edge/ ) · 组织维护
+⭐ 62 · Python · 推送 2026-10-24 · [GitHub](https://github.com/qdrant/qdrant-edge-demo) · [官网](https://qdrant.tech/edge/ ) · 组织维护
 
 **智能眼镜离线视觉记忆 POC：CLIP 向量化本地检索找物品**
 

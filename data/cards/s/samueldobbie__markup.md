@@ -1,6 +1,6 @@
 # samueldobbie/markup
 
-⭐ 270 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/samueldobbie/markup) · [官网](https://getmarkup.com) · 个人维护
+⭐ 270 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/samueldobbie/markup) · [官网](https://getmarkup.com) · 个人维护
 
 **给 NLP/ML 从业者的 AI 辅助文档标注与本体映射工具**
 

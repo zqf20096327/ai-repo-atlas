@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-MT
 
-⭐ 838 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT) · 组织维护 · 中文 README
+⭐ 839 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT) · 组织维护 · 中文 README
 
 **腾讯混元开源翻译模型：33 语种互译的 1.8B/7B 权重**
 

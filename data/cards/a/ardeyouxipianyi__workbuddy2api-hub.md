@@ -1,6 +1,6 @@
 # ardeyouxipianyi/workbuddy2api-hub
 
-⭐ 2,819 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ardeyouxipianyi/workbuddy2api-hub) · [官网](https://github.com/ardeyouxipianyi/workbuddy2api-intl/releases) · 个人维护 · 中文 README
+⭐ 2,882 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ardeyouxipianyi/workbuddy2api-hub) · [官网](https://github.com/ardeyouxipianyi/workbuddy2api-intl/releases) · 个人维护 · 中文 README
 
 **腾讯 WorkBuddy 多账号反向代理网关，输出 OpenAI 兼容接口**
 

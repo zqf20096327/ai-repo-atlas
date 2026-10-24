@@ -1,6 +1,6 @@
 # rishikanthc/Scriberr
 
-⭐ 3,113 · Go · MIT · 推送 2026-09-20 · [GitHub](https://github.com/rishikanthc/Scriberr) · [官网](https://scriberr.app) · 个人维护
+⭐ 3,114 · Go · MIT · 推送 2026-09-20 · [GitHub](https://github.com/rishikanthc/Scriberr) · [官网](https://scriberr.app) · 个人维护
 
 **自托管者的本地离线音频/视频转写 Web 应用**
 

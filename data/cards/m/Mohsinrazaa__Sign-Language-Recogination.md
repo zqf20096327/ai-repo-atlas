@@ -1,6 +1,6 @@
 # Mohsinrazaa/Sign-Language-Recogination
 
-⭐ 130 · Jupyter Notebook · 推送 2026-10-20 · [GitHub](https://github.com/Mohsinrazaa/Sign-Language-Recogination) · 个人维护
+⭐ 131 · Jupyter Notebook · 推送 2026-10-20 · [GitHub](https://github.com/Mohsinrazaa/Sign-Language-Recogination) · 个人维护
 
 **手语识别应用：摄像头识别手势并组句，面向学习/毕设**
 

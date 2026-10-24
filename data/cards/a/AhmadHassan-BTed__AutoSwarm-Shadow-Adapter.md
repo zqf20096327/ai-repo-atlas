@@ -1,6 +1,6 @@
 # AhmadHassan-BTed/AutoSwarm-Shadow-Adapter
 
-⭐ 2,983 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AhmadHassan-BTed/AutoSwarm-Shadow-Adapter) · [官网](https://pypi.org/project/AutoSwarm-shadow-adapter/) · 个人维护
+⭐ 3,186 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AhmadHassan-BTed/AutoSwarm-Shadow-Adapter) · [官网](https://pypi.org/project/AutoSwarm-shadow-adapter/) · 个人维护
 
 **为 AutoSwarm 提供 HITL 与远程算力接入的非侵入适配器**
 

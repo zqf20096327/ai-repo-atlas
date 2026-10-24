@@ -1,6 +1,6 @@
 # Juror-AI/juror
 
-⭐ 118 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Juror-AI/juror) · [官网](https://jays.fyi/blog/how-i-removed-greptile) · 组织维护
+⭐ 117 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Juror-AI/juror) · [官网](https://jays.fyi/blog/how-i-removed-greptile) · 组织维护
 
 **多模型并行评审 PR 的 GitHub Action 与 CLI**
 

@@ -1,6 +1,6 @@
 # Azure-Samples/Cosmic-Food-RAG-app
 
-⭐ 67 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) · [官网](https://techcommunity.microsoft.com/blog/educatordeveloperblog/build-ai-rag-apps-with-langchain-azure-documentdb-and-microsoft-foundry-step-by-/4513775?wt.mc_id=studentamb_71460) · 组织维护
+⭐ 67 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) · [官网](https://techcommunity.microsoft.com/blog/educatordeveloperblog/build-ai-rag-apps-with-langchain-azure-documentdb-and-microsoft-foundry-step-by-/4513775?wt.mc_id=studentamb_71460) · 组织维护
 
 **Azure OpenAI + DocumentDB 的餐饮点餐 RAG 演示应用**
 

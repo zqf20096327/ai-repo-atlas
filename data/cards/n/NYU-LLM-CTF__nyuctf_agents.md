@@ -1,6 +1,6 @@
 # NYU-LLM-CTF/nyuctf_agents
 
-⭐ 171 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents) · [官网](https://nyu-llm-ctf.github.io) · 组织维护
+⭐ 172 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents) · [官网](https://nyu-llm-ctf.github.io) · 组织维护
 
 **解 CTF 题目的 LLM 多智能体框架（D-CIPHER 与基线）**
 

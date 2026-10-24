@@ -1,6 +1,6 @@
 # masterFoad/NanoSage
 
-⭐ 265 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/masterFoad/NanoSage) · 个人维护
+⭐ 265 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/masterFoad/NanoSage) · 个人维护
 
 **本地小模型驱动的递归式深度研究助手，生成结构化研究报告**
 

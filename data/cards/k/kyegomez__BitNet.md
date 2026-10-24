@@ -1,6 +1,6 @@
 # kyegomez/BitNet
 
-⭐ 1,947 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/kyegomez/BitNet) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
+⭐ 1,948 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/kyegomez/BitNet) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
 
 **BitNet 论文的 PyTorch 实现：1-bit Transformer 模块库**
 

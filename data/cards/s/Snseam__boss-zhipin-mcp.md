@@ -1,6 +1,6 @@
 # Snseam/boss-zhipin-mcp
 
-⭐ 154 · Python · 推送 2026-03-31 · [GitHub](https://github.com/Snseam/boss-zhipin-mcp) · 个人维护 · 中文 README
+⭐ 155 · Python · 推送 2026-03-31 · [GitHub](https://github.com/Snseam/boss-zhipin-mcp) · 个人维护 · 中文 README
 
 **让 AI 助手自动化操作 BOSS 直聘招聘后台的 MCP Server**
 

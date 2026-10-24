@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/AuK
 
-⭐ 1,543 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Tencent-Hunyuan/AuK) · [官网](https://auk-project.github.io/) · 组织维护 · 中文 README
+⭐ 1,545 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Tencent-Hunyuan/AuK) · [官网](https://auk-project.github.io/) · 组织维护 · 中文 README
 
 **1.5B 语音生成与编辑基础模型，支持 TTS/编辑/分离等任务**
 

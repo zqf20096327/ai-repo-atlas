@@ -1,6 +1,6 @@
 # karimknaebel/point2vec
 
-⭐ 102 · Python · MIT · 推送 2026-01-26 · [GitHub](https://github.com/karimknaebel/point2vec) · [官网](https://vision.rwth-aachen.de/point2vec) · 个人维护
+⭐ 102 · Python · MIT · 推送 2026-01-26 · [GitHub](https://github.com/karimknaebel/point2vec) · [官网](https://karimknaebel.github.io/point2vec/) · 个人维护
 
 **点云自监督预训练模型：学习点云表征用于分类与分割**
 

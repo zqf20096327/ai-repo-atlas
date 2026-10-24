@@ -1,6 +1,6 @@
 # calesthio/generative-media-skills
 
-⭐ 213 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/calesthio/generative-media-skills) · [官网](https://github.com/calesthio/OpenMontage) · 个人维护
+⭐ 214 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/calesthio/generative-media-skills) · [官网](https://github.com/calesthio/OpenMontage) · 个人维护
 
 **面向 AI 编码助手的生成式媒体制作技能库（153 个技能包）**
 

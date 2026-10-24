@@ -1,6 +1,6 @@
 # Nixtla/nixtla
 
-⭐ 4,033 · Jupyter Notebook · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Nixtla/nixtla) · [官网](https://www.nixtla.io/docs) · 组织维护
+⭐ 4,032 · Jupyter Notebook · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Nixtla/nixtla) · [官网](https://www.nixtla.io/docs) · 组织维护
 
 **面向开发者的时间序列预测与异常检测基础模型 TimeGPT 的 Python SDK**
 

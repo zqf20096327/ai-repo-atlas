@@ -1,6 +1,6 @@
 # steel-dev/steel-browser
 
-⭐ 7,861 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/steel-dev/steel-browser) · [官网](https://steel.dev) · 组织维护
+⭐ 7,862 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/steel-dev/steel-browser) · [官网](https://steel.dev) · 组织维护
 
 **面向 AI agent 的开源浏览器 API 与托管沙箱服务**
 

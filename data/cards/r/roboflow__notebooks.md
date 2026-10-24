@@ -1,6 +1,6 @@
 # roboflow/notebooks
 
-⭐ 9,723 · Jupyter Notebook · 推送 2026-09-22 · [GitHub](https://github.com/roboflow/notebooks) · [官网](https://roboflow.com/models) · 组织维护
+⭐ 9,722 · Jupyter Notebook · 推送 2026-09-22 · [GitHub](https://github.com/roboflow/notebooks) · [官网](https://roboflow.com/models) · 组织维护
 
 **计算机视觉模型教程笔记本合集（88+ 本）**
 

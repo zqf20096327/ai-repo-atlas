@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-repurpose
 
-⭐ 161 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-repurpose) · [官网](https://agricidaniel.com/blog/ai-marketing-automation-stack) · 个人维护
+⭐ 162 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-repurpose) · [官网](https://agricidaniel.com/blog/ai-marketing-automation-stack) · 个人维护
 
 **Claude Code 技能：把一份内容改写为 10+ 平台的原生帖子**
 

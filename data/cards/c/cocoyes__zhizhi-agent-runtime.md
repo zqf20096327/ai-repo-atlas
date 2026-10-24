@@ -1,6 +1,6 @@
 # cocoyes/zhizhi-agent-runtime
 
-⭐ 191 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/cocoyes/zhizhi-agent-runtime) · [官网](https://deepyou.top) · 个人维护 · 中文 README
+⭐ 180 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/cocoyes/zhizhi-agent-runtime) · [官网](https://deepyou.top) · 个人维护 · 中文 README
 
 **Go 编写的模型无关 agent 执行运行时，覆盖规划、工具编排与恢复**
 

@@ -1,6 +1,6 @@
 # pytorch/tutorials
 
-⭐ 9,383 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/pytorch/tutorials) · [官网](https://pytorch.org/tutorials/) · 组织维护
+⭐ 9,384 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/pytorch/tutorials) · [官网](https://pytorch.org/tutorials/) · 组织维护
 
 **PyTorch 官方教程仓库：以 Sphinx 文档形式呈现的深度学习教程集**
 

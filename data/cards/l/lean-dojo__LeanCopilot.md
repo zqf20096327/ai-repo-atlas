@@ -1,6 +1,6 @@
 # lean-dojo/LeanCopilot
 
-⭐ 1,336 · C++ · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lean-dojo/LeanCopilot) · [官网](https://leandojo.org/leancopilot.html) · 组织维护
+⭐ 1,337 · C++ · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lean-dojo/LeanCopilot) · [官网](https://leandojo.org/leancopilot.html) · 组织维护
 
 **在 Lean 中原生运行 LLM 做定理证明辅助的库**
 

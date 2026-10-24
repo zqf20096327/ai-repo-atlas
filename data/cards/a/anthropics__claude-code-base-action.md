@@ -1,6 +1,6 @@
 # anthropics/claude-code-base-action
 
-⭐ 1,015 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/anthropics/claude-code-base-action) · 组织维护
+⭐ 1,014 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/anthropics/claude-code-base-action) · 组织维护
 
 **在 GitHub Actions 中运行 Claude Code 的基础 Action**
 

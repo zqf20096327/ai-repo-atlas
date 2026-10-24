@@ -1,6 +1,6 @@
 # heygen-com/skills
 
-⭐ 512 · Shell · MIT · 推送 2026-07-14 · [GitHub](https://github.com/heygen-com/skills) · [官网](https://developers.heygen.com/docs/quick-start) · 组织维护
+⭐ 516 · Shell · MIT · 推送 2026-07-14 · [GitHub](https://github.com/heygen-com/skills) · [官网](https://developers.heygen.com/docs/quick-start) · 组织维护
 
 **让 AI agent 调用 HeyGen 生成数字人头像视频的技能包**
 

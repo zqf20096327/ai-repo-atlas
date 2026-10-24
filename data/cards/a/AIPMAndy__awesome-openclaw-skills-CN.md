@@ -1,6 +1,6 @@
 # AIPMAndy/awesome-openclaw-skills-CN
 
-⭐ 127 · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/AIPMAndy/awesome-openclaw-skills-CN) · [官网](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/CHINESE-MODELS.md) · 个人维护 · 中文 README
+⭐ 128 · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/AIPMAndy/awesome-openclaw-skills-CN) · [官网](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/CHINESE-MODELS.md) · 个人维护 · 中文 README
 
 **面向中文开发者的 OpenClaw Skills 精选清单（2,868 个）**
 

@@ -1,6 +1,6 @@
 # mblode/agent-skills
 
-⭐ 158 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mblode/agent-skills) · [官网](https://blode.co/agent-skills) · 个人维护
+⭐ 162 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mblode/agent-skills) · [官网](https://blode.co/agent-skills) · 个人维护
 
 **面向编码代理的按需技能集：UI 审计、排版、文档、PR 审查与发布**
 

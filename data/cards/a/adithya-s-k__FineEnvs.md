@@ -1,6 +1,6 @@
 # adithya-s-k/FineEnvs
 
-⭐ 528 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/adithya-s-k/FineEnvs) · [官网](https://huggingface.co/FineEnvs) · 个人维护
+⭐ 530 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/adithya-s-k/FineEnvs) · [官网](https://huggingface.co/FineEnvs) · 个人维护
 
 **面向 LLM 智能体的开源 RL 环境项目集与教程资源**
 

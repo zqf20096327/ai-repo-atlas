@@ -1,6 +1,6 @@
 # TienNHM/ebooks
 
-⭐ 568 · 推送 2026-10-02 · [GitHub](https://github.com/TienNHM/ebooks) · [官网](http://tiennhm.io.vn/ebooks/) · 个人维护
+⭐ 567 · 推送 2026-10-02 · [GitHub](https://github.com/TienNHM/ebooks) · [官网](http://tiennhm.io.vn/ebooks/) · 个人维护
 
 **信息技术领域电子书聚合清单，面向程序员与学生**
 

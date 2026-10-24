@@ -1,6 +1,6 @@
 # Conceptual-Machines/magda-core
 
-⭐ 246 · C++ · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Conceptual-Machines/magda-core) · [官网](https://magda.land/) · 组织维护 · 中文 README
+⭐ 247 · C++ · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Conceptual-Machines/magda-core) · [官网](https://magda.land/) · 组织维护 · 中文 README
 
 **内置 AI 聊天助手的开源 DAW（数字音频工作站）**
 

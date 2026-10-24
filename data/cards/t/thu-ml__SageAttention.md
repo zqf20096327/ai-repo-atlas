@@ -1,6 +1,6 @@
 # thu-ml/SageAttention
 
-⭐ 3,973 · Cuda · Apache-2.0 · 推送 2026-01-17 · [GitHub](https://github.com/thu-ml/SageAttention) · [官网](https://arxiv.org/abs/2410.02367) · 组织维护 · 中文 README
+⭐ 3,974 · Cuda · Apache-2.0 · 推送 2026-01-17 · [GitHub](https://github.com/thu-ml/SageAttention) · [官网](https://arxiv.org/abs/2410.02367) · 组织维护 · 中文 README
 
 **量化注意力算子库：为 GPU 推理提供 2-5x 提速的即插即用 attention 内核**
 

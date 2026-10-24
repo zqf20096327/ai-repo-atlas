@@ -1,6 +1,6 @@
 # ros-claw/rosclaw
 
-⭐ 230 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ros-claw/rosclaw) · [官网](https://rosclaw.io) · 组织维护 · 中文 README
+⭐ 230 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ros-claw/rosclaw) · [官网](https://rosclaw.io) · 组织维护 · 中文 README
 
 **具身智能体运行时：把 Agent 意图转为受治理的物理动作与经验**
 

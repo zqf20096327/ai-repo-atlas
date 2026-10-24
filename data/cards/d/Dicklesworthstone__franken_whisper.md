@@ -1,6 +1,6 @@
 # Dicklesworthstone/franken_whisper
 
-⭐ 94 · Rust · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Dicklesworthstone/franken_whisper) · 个人维护
+⭐ 94 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Dicklesworthstone/franken_whisper) · 个人维护
 
 **Rust ASR 编排工具：统一多 Whisper 后端，agent 友好流式输出**
 

@@ -1,6 +1,6 @@
 # datawhalechina/llm-universe
 
-⭐ 14,196 · Jupyter Notebook · 推送 2026-08-27 · [GitHub](https://github.com/datawhalechina/llm-universe) · [官网](https://datawhalechina.github.io/llm-universe/) · 组织维护 · 中文 README
+⭐ 14,200 · Jupyter Notebook · 推送 2026-08-27 · [GitHub](https://github.com/datawhalechina/llm-universe) · [官网](https://datawhalechina.github.io/llm-universe/) · 组织维护 · 中文 README
 
 **面向小白的中文大模型应用开发教程：RAG 知识库助手**
 

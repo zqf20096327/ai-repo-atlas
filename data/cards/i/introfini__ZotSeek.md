@@ -1,6 +1,6 @@
 # introfini/ZotSeek
 
-⭐ 232 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/introfini/ZotSeek) · 个人维护 · 中文 README
+⭐ 235 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/introfini/ZotSeek) · 个人维护 · 中文 README
 
 **Zotero 的本地语义检索插件，内置 MCP 服务器供 AI agent 查文献**
 

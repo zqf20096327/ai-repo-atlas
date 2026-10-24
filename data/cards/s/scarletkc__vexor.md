@@ -1,6 +1,6 @@
 # scarletkc/vexor
 
-⭐ 246 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/scarletkc/vexor) · [官网](https://pypi.org/project/vexor/) · 个人维护 · 中文 README
+⭐ 246 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/scarletkc/vexor) · [官网](https://pypi.org/project/vexor/) · 个人维护 · 中文 README
 
 **面向人类与 AI 助手的文件与代码语义搜索引擎**
 

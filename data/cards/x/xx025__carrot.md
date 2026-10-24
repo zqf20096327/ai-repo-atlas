@@ -1,6 +1,6 @@
 # xx025/carrot
 
-⭐ 17,208 · 推送 2026-09-05 · [GitHub](https://github.com/xx025/carrot) · 个人维护 · 中文 README
+⭐ 17,209 · 推送 2026-09-05 · [GitHub](https://github.com/xx025/carrot) · 个人维护 · 中文 README
 
 **面向普通用户的 AI 工具网站导航清单，按类别收录可用站点**
 

@@ -1,6 +1,6 @@
 # MuzeAnisichael/minimal-local-agent
 
-⭐ 121 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/MuzeAnisichael/minimal-local-agent) · [官网](https://github.com/MuzeAnisichael/minimal-local-agent/tree/main/docs#readme) · 个人维护 · 中文 README
+⭐ 120 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/MuzeAnisichael/minimal-local-agent) · [官网](https://github.com/MuzeAnisichael/minimal-local-agent/tree/main/docs#readme) · 个人维护 · 中文 README
 
 **本地优先的小型 agent 内核：受限工具、可撤销编辑、可审计运行**
 

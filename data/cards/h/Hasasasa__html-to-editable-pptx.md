@@ -1,6 +1,6 @@
 # Hasasasa/html-to-editable-pptx
 
-⭐ 93 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Hasasasa/html-to-editable-pptx) · 个人维护 · 中文 README
+⭐ 94 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Hasasasa/html-to-editable-pptx) · 个人维护 · 中文 README
 
 **把 HTML 幻灯片转换为可编辑 .pptx 的工具/Agent 技能**
 

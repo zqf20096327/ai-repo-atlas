@@ -1,6 +1,6 @@
 # DaoyuanLi2816/can-i-finetune-this
 
-⭐ 793 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/DaoyuanLi2816/can-i-finetune-this) · [官网](https://daoyuanli2816.github.io/can-i-finetune-this/) · 个人维护
+⭐ 794 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/DaoyuanLi2816/can-i-finetune-this) · [官网](https://daoyuanli2816.github.io/can-i-finetune-this/) · 个人维护
 
 **单卡 LLM 微调预检工具：估算显存并生成可运行的 LoRA/QLoRA 方案**
 

@@ -1,6 +1,6 @@
 # bandinopla/three-mediapipe-rig
 
-⭐ 141 · TypeScript · 推送 2026-04-10 · [GitHub](https://github.com/bandinopla/three-mediapipe-rig) · [官网](https://bandinopla.github.io/three-mediapipe-rig/) · 个人维护
+⭐ 143 · TypeScript · 推送 2026-04-10 · [GitHub](https://github.com/bandinopla/three-mediapipe-rig) · [官网](https://bandinopla.github.io/three-mediapipe-rig/) · 个人维护
 
 **用摄像头驱动 Three.js 骨骼的 MediaPipe 动作捕捉模块**
 

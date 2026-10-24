@@ -1,6 +1,6 @@
 # greatfrontend/black-friday-cyber-monday-deals
 
-⭐ 177 · 推送 2025-12-02 · [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals) · 组织维护
+⭐ 178 · 推送 2025-12-02 · [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals) · 组织维护
 
 **面向开发者与设计师的黑五/网一优惠信息聚合清单**
 

@@ -1,6 +1,6 @@
 # Duragraph/duragraph
 
-⭐ 162 · Go · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/Duragraph/duragraph) · [官网](https://duragraph.ai) · 组织维护
+⭐ 161 · Go · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/Duragraph/duragraph) · [官网](https://duragraph.ai) · 组织维护
 
 **面向 AI agent 的自托管持久化工作流编排引擎（事件溯源）**
 

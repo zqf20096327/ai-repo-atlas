@@ -1,6 +1,6 @@
 # Dest1ny-Sec/Des-CTF-Knowledge
 
-⭐ 405 · Python · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Dest1ny-Sec/Des-CTF-Knowledge) · 个人维护 · 中文 README
+⭐ 411 · Python · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Dest1ny-Sec/Des-CTF-Knowledge) · 个人维护 · 中文 README
 
 **CTF 中文知识库：WP/漏洞文章/脚本，适配 AI RAG 检索**
 

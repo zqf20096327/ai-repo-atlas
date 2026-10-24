@@ -1,6 +1,6 @@
 # vahapogut/antigravity-add-model
 
-⭐ 102 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vahapogut/antigravity-add-model) · [官网](https://ipeclabs.com) · 个人维护 · 中文 README
+⭐ 104 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vahapogut/antigravity-add-model) · [官网](https://ipeclabs.com) · 个人维护 · 中文 README
 
 **为 Google Antigravity IDE/桌面端接入自定义 LLM 提供商的补丁与网关**
 

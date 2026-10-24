@@ -1,6 +1,6 @@
 # QwenLM/qwen-code-docs
 
-⭐ 56 · MDX · 推送 2026-10-23 · [GitHub](https://github.com/QwenLM/qwen-code-docs) · [官网](https://qwenlm.github.io/qwen-code-docs/) · 组织维护 · 中文 README
+⭐ 56 · MDX · 推送 2026-10-24 · [GitHub](https://github.com/QwenLM/qwen-code-docs) · [官网](https://qwenlm.github.io/qwen-code-docs/) · 组织维护 · 中文 README
 
 **面向 Qwen Code 的文档翻译工具：同步 GitHub 文档并用 Qwen AI 多语言翻译**
 

@@ -1,6 +1,6 @@
 # AnXMuy/AgenticASR
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/AnXMuy/AgenticASR) · [官网](https://anxmuy.github.io/blog/agenticasr/) · 组织维护 · 中文 README
+⭐ 62 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/AnXMuy/AgenticASR) · [官网](https://anxmuy.github.io/blog/agenticasr/) · 组织维护 · 中文 README
 
 **把 ASR 转写精修为干净书面文本的语音识别研究框架**
 

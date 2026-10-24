@@ -1,6 +1,6 @@
 # hwdsl2/self-hosted-ai-stack
 
-⭐ 169 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/hwdsl2/self-hosted-ai-stack) · [官网](https://selfhostedaistack.com) · 个人维护
+⭐ 170 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hwdsl2/self-hosted-ai-stack) · [官网](https://selfhostedaistack.com) · 个人维护
 
 **Docker Compose 一键部署的自托管 AI 服务全家桶**
 

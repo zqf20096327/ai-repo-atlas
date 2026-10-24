@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/labs-molt
 
-⭐ 1,207 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA-NeMo/labs-molt) · 组织维护
+⭐ 1,206 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA-NeMo/labs-molt) · 组织维护
 
 **面向科研的 agentic-first 强化学习训练框架（PyTorch/HF 原生）**
 

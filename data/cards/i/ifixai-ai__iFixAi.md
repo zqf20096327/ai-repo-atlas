@@ -1,6 +1,6 @@
 # ifixai-ai/iFixAi
 
-⭐ 33,645 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ifixai-ai/iFixAi) · [官网](https://www.ifixai.ai) · 组织维护
+⭐ 33,937 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ifixai-ai/iFixAi) · [官网](https://www.ifixai.ai) · 组织维护
 
 **面向 AI Agent 的独立审计 CLI，120 秒内给出合规评分**
 

@@ -1,6 +1,6 @@
 # tensorflow/privacy
 
-⭐ 2,040 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tensorflow/privacy) · 组织维护
+⭐ 2,039 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tensorflow/privacy) · 组织维护
 
 **TensorFlow 差分隐私训练库：DP 优化器与隐私保证分析工具**
 

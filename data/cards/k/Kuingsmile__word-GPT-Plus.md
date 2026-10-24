@@ -1,6 +1,6 @@
 # Kuingsmile/word-GPT-Plus
 
-⭐ 1,372 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Kuingsmile/word-GPT-Plus) · 个人维护 · 中文 README
+⭐ 1,373 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Kuingsmile/word-GPT-Plus) · 个人维护 · 中文 README
 
 **在 Microsoft Word 内直接使用 AI 与 Agent 的办公插件**
 

@@ -1,6 +1,6 @@
 # microsoft/qlib
 
-⭐ 49,628 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/qlib) · [官网](https://qlib.readthedocs.io/en/latest/) · 组织维护
+⭐ 49,659 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/qlib) · [官网](https://qlib.readthedocs.io/en/latest/) · 组织维护
 
 **面向量化研究的 AI 量化投资平台**
 

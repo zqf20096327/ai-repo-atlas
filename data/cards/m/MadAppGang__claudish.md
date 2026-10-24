@@ -1,6 +1,6 @@
 # MadAppGang/claudish
 
-⭐ 1,007 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/MadAppGang/claudish) · [官网](https://claudish.com) · 组织维护
+⭐ 1,007 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/MadAppGang/claudish) · [官网](https://claudish.com) · 组织维护
 
 **让 Claude Code 接入任意 AI 模型的本地代理 CLI 工具**
 

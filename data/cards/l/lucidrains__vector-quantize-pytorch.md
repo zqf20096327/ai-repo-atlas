@@ -1,6 +1,6 @@
 # lucidrains/vector-quantize-pytorch
 
-⭐ 4,019 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/lucidrains/vector-quantize-pytorch) · 个人维护
+⭐ 4,022 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lucidrains/vector-quantize-pytorch) · 个人维护
 
 **PyTorch 向量/标量量化库，供深度学习模型构建离散表示**
 

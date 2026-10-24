@@ -1,6 +1,6 @@
 # tinyhumansai/opencompany
 
-⭐ 315 · Rust · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/tinyhumansai/opencompany) · [官网](https://tinyhumans.ai/opencompany) · 组织维护
+⭐ 316 · Rust · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/tinyhumansai/opencompany) · [官网](https://tinyhumans.ai/opencompany) · 组织维护
 
 **一人公司的多智能体运行时：让 agent 群组代跑各项业务**
 

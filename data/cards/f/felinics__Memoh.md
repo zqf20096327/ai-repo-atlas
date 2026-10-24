@@ -1,6 +1,6 @@
 # felinics/Memoh
 
-⭐ 2,733 · Go · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/felinics/Memoh) · [官网](https://memoh.ai) · 组织维护 · 中文 README
+⭐ 2,733 · Go · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/felinics/Memoh) · [官网](https://memoh.ai) · 组织维护 · 中文 README
 
 **开源多 agent 平台：每个 agent 配专属云电脑与长期记忆**
 

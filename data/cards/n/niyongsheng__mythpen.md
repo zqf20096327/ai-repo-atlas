@@ -1,6 +1,6 @@
 # niyongsheng/mythpen
 
-⭐ 72 · TypeScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/niyongsheng/mythpen) · [官网](https://niyongsheng.github.io/mythpen/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给小说作者的 AI 辅助写作桌面应用：管理角色、章节、伏笔等创作要素**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

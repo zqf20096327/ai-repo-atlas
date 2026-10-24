@@ -1,6 +1,6 @@
 # ghostwright/phantom
 
-⭐ 1,485 · TypeScript · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/ghostwright/phantom) · [官网](https://ghostwright.dev/phantom) · 组织维护
+⭐ 1,484 · TypeScript · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/ghostwright/phantom) · [官网](https://ghostwright.dev/phantom) · 组织维护
 
 **给个人和团队的自主 AI 同事：运行在专属虚拟机上，长期记忆并可自建工具**
 

@@ -1,6 +1,6 @@
 # menachem-dadon/SmartiAI-Agent-for-Windows
 
-⭐ 119 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows) · 个人维护 · 中文 README
+⭐ 118 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows) · 个人维护 · 中文 README
 
 **面向 Windows 的本地优先桌面 AI agent，自动化操作系统**
 

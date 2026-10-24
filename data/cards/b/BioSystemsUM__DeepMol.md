@@ -1,6 +1,6 @@
 # BioSystemsUM/DeepMol
 
-⭐ 183 · Python · BSD-2-Clause · 推送 2026-03-26 · [GitHub](https://github.com/BioSystemsUM/DeepMol) · 组织维护
+⭐ 182 · Python · BSD-2-Clause · 推送 2026-03-26 · [GitHub](https://github.com/BioSystemsUM/DeepMol) · 组织维护
 
 **面向药物发现的机器学习/深度学习化学信息学 Python 框架**
 

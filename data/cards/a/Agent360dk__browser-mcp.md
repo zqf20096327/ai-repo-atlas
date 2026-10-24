@@ -1,6 +1,6 @@
 # Agent360dk/browser-mcp
 
-⭐ 59 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Agent360dk/browser-mcp) · [官网](https://browsermcp.dev) · 组织维护
+⭐ 59 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Agent360dk/browser-mcp) · [官网](https://browsermcp.dev) · 组织维护
 
 **让 AI agent 操控你已登录 Chrome 的 MCP 工具，遇 2FA/CAPTCHA 可暂停询问**
 

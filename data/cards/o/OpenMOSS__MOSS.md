@@ -1,6 +1,6 @@
 # OpenMOSS/MOSS
 
-⭐ 12,295 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/OpenMOSS/MOSS) · [官网](https://txsun1997.github.io/blogs/moss.html) · 组织维护 · 中文 README
+⭐ 12,298 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/OpenMOSS/MOSS) · [官网](https://txsun1997.github.io/blogs/moss.html) · 组织维护 · 中文 README
 
 **复旦开源的中英双语对话语言模型及部署微调代码**
 

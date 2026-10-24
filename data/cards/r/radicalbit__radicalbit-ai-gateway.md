@@ -1,6 +1,6 @@
 # radicalbit/radicalbit-ai-gateway
 
-⭐ 72 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/radicalbit/radicalbit-ai-gateway) · [官网](https://docs.ai-gateway.radicalbit.ai/) · 组织维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/radicalbit/radicalbit-ai-gateway) · [官网](https://docs.ai-gateway.radicalbit.ai/) · 组织维护
 
 **带护栏与可观测性的 LLM 网关，UI 配置并可自然语言生成 YAML**
 

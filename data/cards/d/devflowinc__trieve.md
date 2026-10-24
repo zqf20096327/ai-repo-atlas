@@ -1,6 +1,6 @@
 # devflowinc/trieve
 
-⭐ 2,722 · Rust · MIT · 推送 2026-01-25 · [GitHub](https://github.com/devflowinc/trieve) · [官网](https://trieve.ai) · 组织维护
+⭐ 2,721 · Rust · MIT · 推送 2026-01-25 · [GitHub](https://github.com/devflowinc/trieve) · [官网](https://trieve.ai) · 组织维护
 
 **面向开发者的搜索/推荐/RAG 一体化基础设施 API 平台**
 

@@ -1,6 +1,6 @@
 # dougeeai/llama-cpp-python-wheels
 
-⭐ 86 · MIT · 推送 2026-04-18 · [GitHub](https://github.com/dougeeai/llama-cpp-python-wheels) · 个人维护
+⭐ 87 · MIT · 推送 2026-04-18 · [GitHub](https://github.com/dougeeai/llama-cpp-python-wheels) · 个人维护
 
 **llama-cpp-python 的预编译 CUDA wheel 分发：免本地编译安装**
 

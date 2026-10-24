@@ -1,6 +1,6 @@
 # lotus-data/lotus
 
-⭐ 1,719 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/lotus-data/lotus) · [官网](https://lotus-data.github.io) · 组织维护
+⭐ 1,720 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/lotus-data/lotus) · [官网](https://lotus-data.github.io) · 组织维护
 
 **用 LLM 与 agent 批量处理数据集的语义算子库**
 

@@ -1,6 +1,6 @@
 # Kim2091/vapourkit
 
-⭐ 93 · TypeScript · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/Kim2091/vapourkit) · [官网](https://www.vapourkit.app/) · 个人维护
+⭐ 93 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Kim2091/vapourkit) · [官网](https://www.vapourkit.app/) · 个人维护
 
 **面向用户的 VapourSynth AI 视频超分/增强前端**
 

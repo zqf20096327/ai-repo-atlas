@@ -1,6 +1,6 @@
 # huggingface/hf-mcp-server
 
-⭐ 308 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/huggingface/hf-mcp-server) · [官网](https://huggingface.co/mcp) · 组织维护
+⭐ 308 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/huggingface/hf-mcp-server) · [官网](https://huggingface.co/mcp) · 组织维护
 
 **Hugging Face 官方 MCP 服务器：把 LLM 接入 Hub 与 Gradio 应用**
 

@@ -1,6 +1,6 @@
 # IsRengel/InstallCursorEditorLinux
 
-⭐ 158 · Shell · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/IsRengel/InstallCursorEditorLinux) · 个人维护
+⭐ 157 · Shell · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/IsRengel/InstallCursorEditorLinux) · 个人维护
 
 **Linux 上安装 Cursor AI 代码编辑器的 Bash 安装脚本（已弃用）**
 

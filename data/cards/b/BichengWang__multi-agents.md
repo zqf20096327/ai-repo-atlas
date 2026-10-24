@@ -1,6 +1,6 @@
 # BichengWang/multi-agents
 
-⭐ 101 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BichengWang/multi-agents) · [官网](https://bichengwang.github.io/multi-agents/) · 个人维护
+⭐ 119 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BichengWang/multi-agents) · [官网](https://bichengwang.github.io/multi-agents/) · 个人维护
 
 **编排编码 agent 团队并测量其效果的运行器与基准**
 

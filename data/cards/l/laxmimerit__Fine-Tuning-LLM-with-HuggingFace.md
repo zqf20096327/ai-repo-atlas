@@ -1,6 +1,6 @@
 # laxmimerit/Fine-Tuning-LLM-with-HuggingFace
 
-⭐ 58 · Jupyter Notebook · 推送 2026-06-18 · [GitHub](https://github.com/laxmimerit/Fine-Tuning-LLM-with-HuggingFace) · [官网](https://kgptalkie.com/fine-tuning-llm) · 个人维护
+⭐ 59 · Jupyter Notebook · 推送 2026-06-18 · [GitHub](https://github.com/laxmimerit/Fine-Tuning-LLM-with-HuggingFace) · [官网](https://kgptalkie.com/fine-tuning-llm) · 个人维护
 
 **机器学习课程资源清单仓库，含 HuggingFace LLM 微调教程**
 

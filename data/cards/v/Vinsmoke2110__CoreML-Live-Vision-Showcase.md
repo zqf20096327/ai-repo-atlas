@@ -1,6 +1,6 @@
 # Vinsmoke2110/CoreML-Live-Vision-Showcase
 
-⭐ 56 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/Vinsmoke2110/CoreML-Live-Vision-Showcase) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/Vinsmoke2110/CoreML-Live-Vision-Showcase) · 个人维护
 
 **给 iOS/macOS 开发者的 CoreML+Vision 实时图像识别示例应用**
 

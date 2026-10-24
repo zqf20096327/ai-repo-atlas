@@ -1,6 +1,6 @@
 # reasoning-survey/Awesome-Reasoning-Foundation-Models
 
-⭐ 660 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) · 组织维护
+⭐ 659 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) · 组织维护
 
 **推理基础模型论文与基准的策展清单（配综述论文）**
 

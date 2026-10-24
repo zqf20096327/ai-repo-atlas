@@ -1,6 +1,6 @@
 # AshiteshSingh/House-price-prediction
 
-⭐ 62 · Python · 推送 2026-03-27 · [GitHub](https://github.com/AshiteshSingh/House-price-prediction) · [官网](https://ashiteshsingh.github.io/House-price-prediction/) · 个人维护
+⭐ 58 · Python · 推送 2026-03-27 · [GitHub](https://github.com/AshiteshSingh/House-price-prediction) · [官网](https://ashiteshsingh.github.io/House-price-prediction/) · 个人维护
 
 **印度房价预测系统：5 模型堆叠给出估价**
 

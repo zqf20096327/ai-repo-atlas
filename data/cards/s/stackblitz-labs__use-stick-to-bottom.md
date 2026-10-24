@@ -1,6 +1,6 @@
 # stackblitz-labs/use-stick-to-bottom
 
-⭐ 785 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/stackblitz-labs/use-stick-to-bottom) · [官网](https://use-stick-to-bottom.samdenty.io/) · 个人维护
+⭐ 784 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/stackblitz-labs/use-stick-to-bottom) · [官网](https://use-stick-to-bottom.samdenty.io/) · 个人维护
 
 **面向 AI 聊天界面的 React 吸底滚动 Hook**
 

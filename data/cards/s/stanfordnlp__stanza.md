@@ -1,6 +1,6 @@
 # stanfordnlp/stanza
 
-⭐ 7,905 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/stanfordnlp/stanza) · [官网](https://stanfordnlp.github.io/stanza/) · 组织维护
+⭐ 7,903 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/stanfordnlp/stanza) · [官网](https://stanfordnlp.github.io/stanza/) · 组织维护
 
 **面向 60+ 语言的多语言 NLP 工具库：分词、命名实体识别、句法分析**
 

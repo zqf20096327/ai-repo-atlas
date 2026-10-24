@@ -1,6 +1,6 @@
 # QInzhengk/Math-Model-and-Machine-Learning
 
-⭐ 657 · Jupyter Notebook · 推送 2026-09-29 · [GitHub](https://github.com/QInzhengk/Math-Model-and-Machine-Learning) · [官网](https://zread.ai/QInzhengk/Math-Model-and-Machine-Learning) · 个人维护 · 中文 README
+⭐ 657 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/QInzhengk/Math-Model-and-Machine-Learning) · [官网](https://zread.ai/QInzhengk/Math-Model-and-Machine-Learning) · 个人维护 · 中文 README
 
 **数学建模与机器学习/深度学习/大模型的学习资料合集**
 

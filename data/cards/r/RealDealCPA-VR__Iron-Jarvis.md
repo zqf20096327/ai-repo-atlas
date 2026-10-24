@@ -1,6 +1,6 @@
 # RealDealCPA-VR/Iron-Jarvis
 
-⭐ 63 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/RealDealCPA-VR/Iron-Jarvis) · [官网](https://www.realdealcpa.ai) · 个人维护
+⭐ 64 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/RealDealCPA-VR/Iron-Jarvis) · [官网](https://www.realdealcpa.ai) · 个人维护
 
 **本地优先的桌面 AI 控制台：统一编排模型、Agent、工具与本机**
 

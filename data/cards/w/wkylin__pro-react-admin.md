@@ -1,6 +1,6 @@
 # wkylin/pro-react-admin
 
-⭐ 947 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wkylin/pro-react-admin) · [官网](https://pro-react-admin.vercel.app/) · 个人维护 · 中文 README
+⭐ 948 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wkylin/pro-react-admin) · [官网](https://pro-react-admin.vercel.app/) · 个人维护 · 中文 README
 
 **React 19 企业级中后台前端模板与组件库工作区**
 

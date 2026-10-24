@@ -1,6 +1,6 @@
 # alexrudall/ruby-openai
 
-⭐ 3,222 · Ruby · MIT · 推送 2026-05-01 · [GitHub](https://github.com/alexrudall/ruby-openai) · [官网](https://insertrobot.com) · 个人维护
+⭐ 3,223 · Ruby · MIT · 推送 2026-05-01 · [GitHub](https://github.com/alexrudall/ruby-openai) · [官网](https://insertrobot.com) · 个人维护
 
 **Ruby 的 OpenAI API 客户端库：聊天/Responses/嵌入等接口封装**
 

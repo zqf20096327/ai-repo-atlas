@@ -1,6 +1,6 @@
 # FaqFirebase/pi-desktop
 
-⭐ 338 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/FaqFirebase/pi-desktop) · [官网](https://pi-desktop.com) · 组织维护 · 中文 README
+⭐ 342 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/FaqFirebase/pi-desktop) · [官网](https://pi-desktop.com) · 组织维护 · 中文 README
 
 **Pi 编码 agent 的跨平台桌面 GUI 客户端**
 

@@ -1,6 +1,6 @@
 # vect-G/lecture-to-hw
 
-⭐ 130 · MIT · 推送 2026-05-08 · [GitHub](https://github.com/vect-G/lecture-to-hw) · 个人维护 · 中文 README
+⭐ 129 · MIT · 推送 2026-05-08 · [GitHub](https://github.com/vect-G/lecture-to-hw) · 个人维护 · 中文 README
 
 **把课件与作业题自动转成 Markdown 作业答案的 Codex skill**
 

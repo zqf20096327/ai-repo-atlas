@@ -1,6 +1,6 @@
 # Liao-Ke/everyday
 
-⭐ 70 · Markdown · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Liao-Ke/everyday) · [官网](https://liao-ke.github.io/everyday/) · 个人维护 · 中文 README
+⭐ 70 · Markdown · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Liao-Ke/everyday) · [官网](https://liao-ke.github.io/everyday/) · 个人维护 · 中文 README
 
 **基于金山每日一句用多个 LLM 并行生成故事的 Python 工具**
 

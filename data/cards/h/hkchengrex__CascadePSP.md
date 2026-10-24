@@ -1,6 +1,6 @@
 # hkchengrex/CascadePSP
 
-⭐ 885 · Python · MIT · 推送 2026-01-02 · [GitHub](https://github.com/hkchengrex/CascadePSP) · [官网](https://hkchengrex.com/CascadePSP/) · 个人维护
+⭐ 886 · Python · MIT · 推送 2026-01-02 · [GitHub](https://github.com/hkchengrex/CascadePSP) · [官网](https://hkchengrex.com/CascadePSP/) · 个人维护
 
 **高分辨率分割掩码精修的 PyTorch 模型与训练代码**
 

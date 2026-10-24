@@ -1,6 +1,6 @@
 # debpalash/VoiceStudio
 
-⭐ 82,788 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/debpalash/VoiceStudio) · [官网](https://voicestudio.sh) · 个人维护 · 中文 README
+⭐ 84,482 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/debpalash/VoiceStudio) · [官网](https://voicestudio.sh) · 个人维护 · 中文 README
 
 **本地优先的开源语音工作站：克隆、配音、转写、有声书**
 

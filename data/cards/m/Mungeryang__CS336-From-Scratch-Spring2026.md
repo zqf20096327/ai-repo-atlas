@@ -1,6 +1,6 @@
 # Mungeryang/CS336-From-Scratch-Spring2026
 
-⭐ 78 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/Mungeryang/CS336-From-Scratch-Spring2026) · 个人维护 · 中文 README
+⭐ 79 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/Mungeryang/CS336-From-Scratch-Spring2026) · 个人维护 · 中文 README
 
 **斯坦福 CS336 课程的中文学习笔记与从零实现作业合集**
 

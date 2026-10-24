@@ -1,6 +1,6 @@
 # oil-oil/wolfcha
 
-⭐ 738 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/oil-oil/wolfcha) · [官网](https://wolf-cha.com) · 个人维护 · 中文 README
+⭐ 738 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/oil-oil/wolfcha) · [官网](https://wolf-cha.com) · 个人维护 · 中文 README
 
 **单人 AI 狼人杀：一人入座，LLM 扮演其余玩家**
 

@@ -1,6 +1,6 @@
 # pegainfer-project/pegainfer
 
-⭐ 725 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pegainfer-project/pegainfer) · [官网](https://pegainfer.org/) · 组织维护
+⭐ 726 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/pegainfer-project/pegainfer) · [官网](https://pegainfer.org/) · 组织维护
 
 **纯 Rust+CUDA 的 LLM 推理引擎，OpenAI 兼容 API 服务多种模型**
 

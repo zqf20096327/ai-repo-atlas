@@ -1,6 +1,6 @@
 # alibaba/MNN
 
-⭐ 16,276 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaba/MNN) · 组织维护 · 中文 README
+⭐ 16,274 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaba/MNN) · 组织维护 · 中文 README
 
 **面向开发者的端侧深度学习推理与训练框架，支持本地部署 LLM 与扩散模型**
 

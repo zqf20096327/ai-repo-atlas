@@ -1,6 +1,6 @@
 # zhuzhangxue/wechat-chat-export
 
-⭐ 94 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/zhuzhangxue/wechat-chat-export) · 个人维护 · 中文 README
+⭐ 95 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/zhuzhangxue/wechat-chat-export) · 个人维护 · 中文 README
 
 **Windows 微信聊天记录本地导出工具，产出面向 LLM 的文本**
 

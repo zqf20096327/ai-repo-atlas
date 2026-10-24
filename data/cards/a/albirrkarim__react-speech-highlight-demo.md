@@ -1,6 +1,6 @@
 # albirrkarim/react-speech-highlight-demo
 
-⭐ 189 · JavaScript · NOASSERTION · 推送 2026-06-14 · [GitHub](https://github.com/albirrkarim/react-speech-highlight-demo) · [官网](https://react-speech-highlight.vercel.app) · 个人维护
+⭐ 190 · JavaScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/albirrkarim/react-speech-highlight-demo) · [官网](https://react-speech-highlight.vercel.app) · 个人维护
 
 **网页端 TTS 朗读与逐词/逐句高亮同步的前端库**
 

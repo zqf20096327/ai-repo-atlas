@@ -1,6 +1,6 @@
 # flagdizero/jenny-android-ai-agent
 
-⭐ 109 · Python · AGPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/flagdizero/jenny-android-ai-agent) · [官网](https://jenny.flagdizero.com) · 个人维护
+⭐ 113 · Python · AGPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/flagdizero/jenny-android-ai-agent) · [官网](https://jenny.flagdizero.com) · 个人维护
 
 **运行在 Android 手机上的本地优先个人 AI agent 应用**
 

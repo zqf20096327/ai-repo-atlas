@@ -1,6 +1,6 @@
 # bopen/elevation
 
-⭐ 342 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bopen/elevation) · [官网](http://elevation.bopen.eu) · 组织维护
+⭐ 344 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/bopen/elevation) · [官网](http://elevation.bopen.eu) · 组织维护
 
 **全球 DEM 数据下载/缓存/裁剪的 Python 工具与 CLI**
 

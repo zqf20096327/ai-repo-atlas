@@ -1,6 +1,6 @@
 # evolsb/claude-legal-skill
 
-⭐ 482 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/evolsb/claude-legal-skill) · [官网](https://ctsheehan.com) · 个人维护
+⭐ 484 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/evolsb/claude-legal-skill) · [官网](https://ctsheehan.com) · 个人维护
 
 **给开发者的合同审查 Agent 技能：风险检测与红线建议**
 

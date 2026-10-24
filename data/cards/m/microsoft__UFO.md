@@ -1,6 +1,6 @@
 # microsoft/UFO
 
-⭐ 10,065 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/UFO) · [官网](https://microsoft.github.io/UFO/) · 组织维护 · 中文 README
+⭐ 10,075 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/UFO) · [官网](https://microsoft.github.io/UFO/) · 组织维护 · 中文 README
 
 **微软的 Windows GUI Agent 与多设备 Agent 编排框架**
 

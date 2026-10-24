@@ -1,6 +1,6 @@
 # PerforatedAI/PerforatedAI
 
-⭐ 237 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/PerforatedAI/PerforatedAI) · 组织维护
+⭐ 237 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PerforatedAI/PerforatedAI) · 组织维护
 
 **给 PyTorch 训练加人工树突的训练增强库**
 

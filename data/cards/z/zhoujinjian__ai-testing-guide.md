@@ -1,6 +1,6 @@
 # zhoujinjian/ai-testing-guide
 
-⭐ 140 · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/zhoujinjian/ai-testing-guide) · [官网](https://ai.testfather.cn/) · 个人维护 · 中文 README
+⭐ 142 · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/zhoujinjian/ai-testing-guide) · [官网](https://ai.testfather.cn/) · 个人维护 · 中文 README
 
 **测试工程师的 AI 时代学习路线与面试资源合集**
 

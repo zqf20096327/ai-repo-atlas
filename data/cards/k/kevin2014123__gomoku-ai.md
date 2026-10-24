@@ -1,6 +1,6 @@
 # kevin2014123/gomoku-ai
 
-⭐ 69 · JavaScript · GPL-3.0 · 推送 2026-07-04 · [GitHub](https://github.com/kevin2014123/gomoku-ai) · [官网](https://kevin2014123.github.io/gomoku-ai/) · 个人维护 · 中文 README
+⭐ 64 · JavaScript · GPL-3.0 · 推送 2026-07-04 · [GitHub](https://github.com/kevin2014123/gomoku-ai) · [官网](https://kevin2014123.github.io/gomoku-ai/) · 个人维护 · 中文 README
 
 **浏览器与安卓可玩的五子棋 AI 对弈游戏，含段位系统**
 

@@ -1,6 +1,6 @@
 # JSONbored/awesome-claude
 
-⭐ 303 · MDX · MIT · 推送 2026-08-16 · [GitHub](https://github.com/JSONbored/awesome-claude) · [官网](https://heyclau.de) · 个人维护
+⭐ 304 · MDX · MIT · 推送 2026-08-16 · [GitHub](https://github.com/JSONbored/awesome-claude) · [官网](https://heyclau.de) · 个人维护
 
 **Claude 生态资源人工审编目录：1388+ 条 agent/技能/MCP 条目**
 

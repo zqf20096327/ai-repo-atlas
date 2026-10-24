@@ -1,6 +1,6 @@
 # jordan-gibbs/hypercheap-voiceAI
 
-⭐ 156 · Python · MIT · 推送 2025-10-31 · [GitHub](https://github.com/jordan-gibbs/hypercheap-voiceAI) · 个人维护
+⭐ 157 · Python · MIT · 推送 2025-10-31 · [GitHub](https://github.com/jordan-gibbs/hypercheap-voiceAI) · 个人维护
 
 **低成本实时语音 AI 对话代理：Fennec ASR + Baseten LLM + Inworld TTS**
 

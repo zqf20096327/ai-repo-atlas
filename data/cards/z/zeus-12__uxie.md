@@ -1,6 +1,6 @@
 # zeus-12/uxie
 
-⭐ 197 · TypeScript · 推送 2026-09-19 · [GitHub](https://github.com/zeus-12/uxie) · [官网](https://uxie.vercel.app) · 个人维护
+⭐ 196 · TypeScript · 推送 2026-09-19 · [GitHub](https://github.com/zeus-12/uxie) · [官网](https://uxie.vercel.app) · 个人维护
 
 **带 AI 对话与闪卡功能的 PDF 阅读笔记应用（Web + 桌面）**
 

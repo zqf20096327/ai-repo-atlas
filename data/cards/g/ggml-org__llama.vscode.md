@@ -1,6 +1,6 @@
 # ggml-org/llama.vscode
 
-⭐ 1,548 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ggml-org/llama.vscode) · 组织维护
+⭐ 1,549 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ggml-org/llama.vscode) · 组织维护
 
 **VS Code 本地 LLM 代码补全与 Agent 编程扩展**
 

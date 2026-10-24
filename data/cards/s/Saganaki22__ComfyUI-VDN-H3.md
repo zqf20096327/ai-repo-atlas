@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-VDN-H3
 
-⭐ 241 · Python · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/Saganaki22/ComfyUI-VDN-H3) · [官网](https://huggingface.co/drbaph/vdn-minimax-h3-int8-convrot-comfyui) · 个人维护 · 中文 README
+⭐ 242 · Python · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/Saganaki22/ComfyUI-VDN-H3) · [官网](https://huggingface.co/drbaph/vdn-minimax-h3-int8-convrot-comfyui) · 个人维护 · 中文 README
 
 **把 MiniMax-H3 的 Video Delta Net 混合注意力移植为 ComfyUI 原生节点**
 

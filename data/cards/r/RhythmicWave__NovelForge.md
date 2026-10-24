@@ -1,6 +1,6 @@
 # RhythmicWave/NovelForge
 
-⭐ 1,255 · Python · AGPL-3.0 · 推送 2026-09-23 · [GitHub](https://github.com/RhythmicWave/NovelForge) · 组织维护 · 中文 README
+⭐ 1,257 · Python · AGPL-3.0 · 推送 2026-09-23 · [GitHub](https://github.com/RhythmicWave/NovelForge) · 组织维护 · 中文 README
 
 **面向长篇小说作者的卡片式 AI 辅助创作桌面应用**
 

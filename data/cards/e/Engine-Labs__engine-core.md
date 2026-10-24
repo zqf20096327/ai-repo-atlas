@@ -1,6 +1,6 @@
 # Engine-Labs/engine-core
 
-⭐ 145 · TypeScript · Apache-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/Engine-Labs/engine-core) · [官网](https://www.enginelabs.ai) · 组织维护
+⭐ 144 · TypeScript · Apache-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/Engine-Labs/engine-core) · [官网](https://www.enginelabs.ai) · 组织维护
 
 **面向软件工程任务的 LLM 聊天策略工具：可换模型的自研工程师**
 

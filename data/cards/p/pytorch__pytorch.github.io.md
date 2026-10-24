@@ -1,6 +1,6 @@
 # pytorch/pytorch.github.io
 
-⭐ 287 · HTML · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/pytorch/pytorch.github.io) · [官网](https://pytorch.org) · 组织维护
+⭐ 288 · HTML · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/pytorch/pytorch.github.io) · [官网](https://pytorch.org) · 组织维护
 
 **PyTorch 官网的 Jekyll 静态站点源码仓库**
 

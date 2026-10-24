@@ -1,6 +1,6 @@
 # Jpisnice/shadcn-ui-mcp-server
 
-⭐ 3,068 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Jpisnice/shadcn-ui-mcp-server) · 个人维护
+⭐ 3,069 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Jpisnice/shadcn-ui-mcp-server) · 个人维护
 
 **向 AI 助手提供 shadcn/ui 组件源码与元数据的 MCP 服务器**
 

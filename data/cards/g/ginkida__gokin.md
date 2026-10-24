@@ -1,6 +1,6 @@
 # ginkida/gokin
 
-⭐ 107 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ginkida/gokin) · [官网](https://gokin.ginkida.dev) · 个人维护
+⭐ 107 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ginkida/gokin) · [官网](https://gokin.ginkida.dev) · 个人维护
 
 **终端里的 AI 编程代理：自然语言操作代码、命令与 git**
 

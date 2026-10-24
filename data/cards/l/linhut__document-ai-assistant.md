@@ -1,6 +1,6 @@
 # linhut/document-ai-assistant
 
-⭐ 118 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/linhut/document-ai-assistant) · [官网](https://doc.linhut.cn) · 个人维护 · 中文 README
+⭐ 119 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/linhut/document-ai-assistant) · [官网](https://doc.linhut.cn) · 个人维护 · 中文 README
 
 **按 GB/T 9704 标准检测并优化中文公文格式的桌面应用**
 

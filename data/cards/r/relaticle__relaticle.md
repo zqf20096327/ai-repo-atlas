@@ -1,6 +1,6 @@
 # relaticle/relaticle
 
-⭐ 1,777 · PHP · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/relaticle/relaticle) · [官网](https://relaticle.com) · 组织维护
+⭐ 1,779 · PHP · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/relaticle/relaticle) · [官网](https://relaticle.com) · 组织维护
 
 **面向 AI agent 的自托管开源 CRM，通过 MCP 读写 CRM 数据**
 

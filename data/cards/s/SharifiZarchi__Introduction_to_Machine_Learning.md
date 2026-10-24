@@ -1,6 +1,6 @@
 # SharifiZarchi/Introduction_to_Machine_Learning
 
-⭐ 2,144 · Jupyter Notebook · 推送 2026-05-18 · [GitHub](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) · [官网](https://SharifML.ir) · 组织维护
+⭐ 2,145 · Jupyter Notebook · 推送 2026-05-18 · [GitHub](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) · [官网](https://SharifML.ir) · 组织维护
 
 **谢里夫理工大学机器学习课程：讲义、笔记与练习**
 

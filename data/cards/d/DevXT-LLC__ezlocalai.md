@@ -1,6 +1,6 @@
 # DevXT-LLC/ezlocalai
 
-⭐ 99 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/DevXT-LLC/ezlocalai) · 组织维护
+⭐ 99 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/DevXT-LLC/ezlocalai) · 组织维护
 
 **C++17 本地 AI 推理服务器，提供 OpenAI 兼容接口**
 

@@ -1,6 +1,6 @@
 # PrismML-Eng/Bonsai-demo
 
-⭐ 3,434 · Shell · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/PrismML-Eng/Bonsai-demo) · [官网](https://prismml.com/) · 组织维护
+⭐ 3,437 · Shell · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PrismML-Eng/Bonsai-demo) · [官网](https://prismml.com/) · 组织维护
 
 **在本地运行 Bonsai 2 系列模型（2B-27B）的官方演示环境**
 

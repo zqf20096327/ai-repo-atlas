@@ -1,6 +1,6 @@
 # jshn9515/deep-learning-notes
 
-⭐ 78 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/jshn9515/deep-learning-notes) · [官网](https://jshn9515.github.io/deep-learning-notes/) · 个人维护 · 中文 README
+⭐ 78 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/jshn9515/deep-learning-notes) · [官网](https://jshn9515.github.io/deep-learning-notes/) · 个人维护 · 中文 README
 
 **个人深度学习学习笔记与教程，覆盖基础到 LLM 推理框架**
 

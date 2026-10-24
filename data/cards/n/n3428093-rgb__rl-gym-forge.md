@@ -1,6 +1,6 @@
 # n3428093-rgb/rl-gym-forge
 
-⭐ 56 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/n3428093-rgb/rl-gym-forge) · 组织维护
+⭐ 56 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/n3428093-rgb/rl-gym-forge) · 组织维护
 
 **面向研究者的 LLM RLHF 训练框架，含奖励模型与交互面板**
 

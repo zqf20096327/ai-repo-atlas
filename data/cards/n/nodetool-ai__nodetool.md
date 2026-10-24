@@ -1,6 +1,6 @@
 # nodetool-ai/nodetool
 
-⭐ 584 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/nodetool-ai/nodetool) · [官网](https://nodetool.ai/) · 组织维护
+⭐ 587 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/nodetool-ai/nodetool) · [官网](https://nodetool.ai/) · 组织维护
 
 **Agent 驱动的创意工作台：用对话与节点图产出图像/视频/音频**
 

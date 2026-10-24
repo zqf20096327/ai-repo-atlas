@@ -1,6 +1,6 @@
 # SeldonIO/seldon-core
 
-⭐ 4,786 · Go · NOASSERTION · 推送 2026-03-23 · [GitHub](https://github.com/SeldonIO/seldon-core) · [官网](https://www.seldon.io/solutions/core/) · 组织维护
+⭐ 4,785 · Go · NOASSERTION · 推送 2026-03-23 · [GitHub](https://github.com/SeldonIO/seldon-core) · [官网](https://www.seldon.io/solutions/core/) · 组织维护
 
 **Kubernetes 上部署、管理与扩缩 ML/LLM 模型的 MLOps 框架**
 

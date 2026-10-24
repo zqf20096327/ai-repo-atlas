@@ -1,6 +1,6 @@
 # pattern-ai-labs/agentcall
 
-⭐ 169 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pattern-ai-labs/agentcall) · [官网](https://agentcall.dev) · 组织维护
+⭐ 170 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/pattern-ai-labs/agentcall) · [官网](https://agentcall.dev) · 组织维护
 
 **让 AI 编程代理以语音/视频加入线上会议的技能插件**
 

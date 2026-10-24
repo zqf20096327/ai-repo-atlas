@@ -1,6 +1,6 @@
 # Routstr/routstr-core
 
-⭐ 85 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Routstr/routstr-core) · [官网](http://docs.routstr.com/) · 组织维护
+⭐ 85 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Routstr/routstr-core) · [官网](http://docs.routstr.com/) · 组织维护
 
 **去中心化 AI 推理付费代理协议核心：Nostr 发现 + Cashu 微支付**
 

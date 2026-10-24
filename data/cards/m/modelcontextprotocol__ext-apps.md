@@ -1,6 +1,6 @@
 # modelcontextprotocol/ext-apps
 
-⭐ 3,003 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/modelcontextprotocol/ext-apps) · [官网](https://apps.extensions.modelcontextprotocol.io/) · 组织维护
+⭐ 3,005 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/modelcontextprotocol/ext-apps) · [官网](https://apps.extensions.modelcontextprotocol.io/) · 组织维护
 
 **MCP Apps 协议规范与 SDK：让 MCP 工具在聊天客户端内渲染交互 UI**
 

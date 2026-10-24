@@ -1,6 +1,6 @@
 # opencues/opencues
 
-⭐ 70 · TypeScript · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/opencues/opencues) · [官网](https://www.opencues.com) · 个人维护
+⭐ 69 · TypeScript · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/opencues/opencues) · [官网](https://www.opencues.com) · 个人维护
 
 **把任意文本框变成双向 LLM 通道的内联 AI 标准与 CLI**
 

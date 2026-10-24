@@ -1,6 +1,6 @@
 # TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
 
-⭐ 4,017 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) · [官网](https://synapsa.realai.eu) · 组织维护
+⭐ 4,017 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) · [官网](https://synapsa.realai.eu) · 组织维护
 
 **免费动手 AI 课程库：77 节可在浏览器本地运行的自测课**
 

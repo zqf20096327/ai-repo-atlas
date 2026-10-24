@@ -1,6 +1,6 @@
 # YaoFANGUK/video-subtitle-extractor
 
-⭐ 9,642 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/YaoFANGUK/video-subtitle-extractor) · 个人维护 · 中文 README
+⭐ 9,644 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/YaoFANGUK/video-subtitle-extractor) · 个人维护 · 中文 README
 
 **本地 OCR 提取视频硬字幕并生成 srt 文件的 GUI 工具**
 

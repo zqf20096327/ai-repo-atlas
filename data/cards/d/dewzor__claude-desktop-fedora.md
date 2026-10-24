@@ -1,6 +1,6 @@
 # dewzor/claude-desktop-fedora
 
-⭐ 184 · Shell · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/dewzor/claude-desktop-fedora) · [官网](https://copr.fedorainfracloud.org/coprs/dewzor/claude-desktop/) · 个人维护
+⭐ 189 · Shell · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/dewzor/claude-desktop-fedora) · [官网](https://copr.fedorainfracloud.org/coprs/dewzor/claude-desktop/) · 个人维护
 
 **将 Claude Desktop 官方 Linux 构建重打包为 Fedora 原生 RPM**
 

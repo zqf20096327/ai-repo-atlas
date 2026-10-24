@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/genai-for-marketing
 
-⭐ 518 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-21 · [GitHub](https://github.com/GoogleCloudPlatform/genai-for-marketing) · [官网](https://cloud.google.com/vertex-ai/) · 组织维护
+⭐ 517 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-21 · [GitHub](https://github.com/GoogleCloudPlatform/genai-for-marketing) · [官网](https://cloud.google.com/vertex-ai/) · 组织维护
 
 **谷歌云上生成式 AI 营销方案：前端+后端+部署指南**
 

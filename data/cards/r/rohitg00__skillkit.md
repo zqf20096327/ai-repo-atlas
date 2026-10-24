@@ -1,6 +1,6 @@
 # rohitg00/skillkit
 
-⭐ 1,563 · TypeScript · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/rohitg00/skillkit) · [官网](https://skillkit.sh) · 个人维护
+⭐ 1,562 · TypeScript · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/rohitg00/skillkit) · [官网](https://skillkit.sh) · 个人维护
 
 **AI 编程 agent 技能的包管理器：一次安装，分发到 46 种 agent**
 

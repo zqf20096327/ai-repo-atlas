@@ -1,6 +1,6 @@
 # sktime/pytorch-forecasting
 
-⭐ 5,003 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sktime/pytorch-forecasting) · [官网](https://pytorch-forecasting.readthedocs.io/) · 组织维护
+⭐ 5,003 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sktime/pytorch-forecasting) · [官网](https://pytorch-forecasting.readthedocs.io/) · 组织维护
 
 **基于 PyTorch 的时间序列预测深度学习库**
 

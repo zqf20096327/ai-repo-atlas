@@ -1,6 +1,6 @@
 # NX-AI/xlstm
 
-⭐ 2,211 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/NX-AI/xlstm) · [官网](https://www.nx-ai.com/) · 组织维护
+⭐ 2,211 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NX-AI/xlstm) · [官网](https://www.nx-ai.com/) · 组织维护
 
 **面向研究者的 xLSTM 循环神经网络架构 PyTorch 实现库**
 

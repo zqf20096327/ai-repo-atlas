@@ -1,6 +1,6 @@
 # chatwoot/ai-agents
 
-⭐ 162 · Ruby · MIT · 推送 2026-10-15 · [GitHub](https://github.com/chatwoot/ai-agents) · [官网](https://ai-agents.chatwoot.dev/) · 组织维护
+⭐ 163 · Ruby · MIT · 推送 2026-10-15 · [GitHub](https://github.com/chatwoot/ai-agents) · [官网](https://ai-agents.chatwoot.dev/) · 组织维护
 
 **面向 Ruby 开发者的多 agent 工作流构建 SDK**
 

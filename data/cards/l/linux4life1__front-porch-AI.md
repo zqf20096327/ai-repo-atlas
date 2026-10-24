@@ -1,6 +1,6 @@
 # linux4life1/front-porch-AI
 
-⭐ 79 · Dart · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/linux4life1/front-porch-AI) · [官网](https://frontporchai.app) · 个人维护
+⭐ 79 · Dart · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/linux4life1/front-porch-AI) · [官网](https://frontporchai.app) · 个人维护
 
 **本地优先的开源 AI 角色聊天与扮演桌面应用**
 

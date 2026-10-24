@@ -1,6 +1,6 @@
 # topoteretes/awesome-ai-memory
 
-⭐ 890 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/topoteretes/awesome-ai-memory) · [官网](https://github.com/topoteretes/cognee) · 组织维护
+⭐ 889 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/topoteretes/awesome-ai-memory) · [官网](https://github.com/topoteretes/cognee) · 组织维护
 
 **为 AI 应用与 agent 提供记忆能力的工具/框架/存储策展清单**
 

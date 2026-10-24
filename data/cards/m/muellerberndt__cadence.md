@@ -1,6 +1,6 @@
 # muellerberndt/cadence
 
-⭐ 453 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/muellerberndt/cadence) · [官网](https://floatingpragma.io/) · 个人维护
+⭐ 453 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/muellerberndt/cadence) · [官网](https://floatingpragma.io/) · 个人维护
 
 **研究用类脑在线学习库：持续感知、记忆与行动**
 

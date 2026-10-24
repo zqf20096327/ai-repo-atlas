@@ -1,6 +1,6 @@
 # sib-swiss/sparql-llm
 
-⭐ 130 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sib-swiss/sparql-llm) · [官网](https://chat.expasy.org) · 组织维护
+⭐ 130 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sib-swiss/sparql-llm) · [官网](https://chat.expasy.org) · 组织维护
 
 **帮 LLM 生成 SPARQL 查询的 MCP 服务器、聊天系统与组件**
 

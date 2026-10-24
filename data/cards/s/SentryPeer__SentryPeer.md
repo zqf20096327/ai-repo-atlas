@@ -1,6 +1,6 @@
 # SentryPeer/SentryPeer
 
-⭐ 212 · C · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/SentryPeer/SentryPeer) · [官网](https://sentrypeer.org) · 个人维护
+⭐ 212 · C · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/SentryPeer/SentryPeer) · [官网](https://sentrypeer.org) · 个人维护
 
 **SIP 蜜罐欺诈检测工具：收集恶意 IP 与号码并 P2P 共享**
 

@@ -1,6 +1,6 @@
 # microsoft/multi-agent-reference-architecture
 
-⭐ 246 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/microsoft/multi-agent-reference-architecture) · [官网](https://aka.ms/multi-agent-system) · 组织维护
+⭐ 247 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/microsoft/multi-agent-reference-architecture) · [官网](https://aka.ms/multi-agent-system) · 组织维护
 
 **企业多智能体系统设计的参考架构指南**
 

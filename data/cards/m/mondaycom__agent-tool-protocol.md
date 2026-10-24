@@ -1,6 +1,6 @@
 # mondaycom/agent-tool-protocol
 
-⭐ 101 · TypeScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/mondaycom/agent-tool-protocol) · [官网](https://agenttoolprotocol.com) · 组织维护
+⭐ 100 · TypeScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/mondaycom/agent-tool-protocol) · [官网](https://agenttoolprotocol.com) · 组织维护
 
 **让 AI agent 以沙箱代码执行方式调用外部系统的协议与运行时**
 

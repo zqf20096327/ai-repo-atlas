@@ -1,6 +1,6 @@
 # shauryagangrade/awesome-ai-prompts
 
-⭐ 76 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shauryagangrade/awesome-ai-prompts) · [官网](https://awesome-ai-prompts.vercel.app) · 个人维护
+⭐ 76 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/shauryagangrade/awesome-ai-prompts) · [官网](https://awesome-ai-prompts.vercel.app) · 个人维护
 
 **面向 AI 编码代理的可复制提示词策展清单**
 

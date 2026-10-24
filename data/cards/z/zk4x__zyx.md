@@ -1,6 +1,6 @@
 # zk4x/zyx
 
-⭐ 74 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/zk4x/zyx) · 个人维护
+⭐ 74 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/zk4x/zyx) · 个人维护
 
 **面向多后端硬件的 Rust 张量/机器学习库**
 

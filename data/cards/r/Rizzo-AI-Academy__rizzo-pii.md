@@ -1,6 +1,6 @@
 # Rizzo-AI-Academy/rizzo-pii
 
-⭐ 1,207 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Rizzo-AI-Academy/rizzo-pii) · [官网](https://rizzo-ai-academy.github.io/rizzo-pii/) · 组织维护
+⭐ 1,215 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Rizzo-AI-Academy/rizzo-pii) · [官网](https://rizzo-ai-academy.github.io/rizzo-pii/) · 组织维护
 
 **本地可逆 PII 匿名化工具：发给 LLM 前遮蔽意大利法律文本中的个人数据**
 

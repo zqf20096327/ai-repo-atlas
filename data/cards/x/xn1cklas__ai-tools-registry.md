@@ -1,6 +1,6 @@
 # xn1cklas/ai-tools-registry
 
-⭐ 207 · TypeScript · 推送 2025-12-06 · [GitHub](https://github.com/xn1cklas/ai-tools-registry) · [官网](https://ai-tools-registry.vercel.app) · 个人维护
+⭐ 206 · TypeScript · 推送 2025-12-06 · [GitHub](https://github.com/xn1cklas/ai-tools-registry) · [官网](https://ai-tools-registry.vercel.app) · 个人维护
 
 **基于 shadcn CLI 分发 Vercel AI SDK 工具的注册表**
 

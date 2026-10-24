@@ -1,6 +1,6 @@
 # BeamusWayne/simp-skill
 
-⭐ 328 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/BeamusWayne/simp-skill) · 个人维护 · 中文 README
+⭐ 327 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/BeamusWayne/simp-skill) · 个人维护 · 中文 README
 
 **面向 Claude Code 的恋爱追求辅助 skill，分析聊天记录并生成策略**
 

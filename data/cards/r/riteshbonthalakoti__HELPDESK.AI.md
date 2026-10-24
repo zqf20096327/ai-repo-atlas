@@ -1,6 +1,6 @@
 # riteshbonthalakoti/HELPDESK.AI
 
-⭐ 187 · JavaScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/riteshbonthalakoti/HELPDESK.AI) · [官网](https://helpdeskai1918.vercel.app) · 个人维护
+⭐ 183 · JavaScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/riteshbonthalakoti/HELPDESK.AI) · [官网](https://helpdeskai1918.vercel.app) · 个人维护
 
 **多租户 AI 工单平台：自动分类工单、查重与建议修复**
 

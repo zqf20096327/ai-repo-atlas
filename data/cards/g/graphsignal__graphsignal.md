@@ -1,6 +1,6 @@
 # graphsignal/graphsignal
 
-⭐ 271 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/graphsignal/graphsignal) · [官网](https://graphsignal.com) · 组织维护
+⭐ 272 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/graphsignal/graphsignal) · [官网](https://graphsignal.com) · 组织维护
 
 **GPU 剖析器：让 AI agent 自主测量并优化推理性能**
 

@@ -1,6 +1,6 @@
 # brycewang-stanford/StatsPAI
 
-⭐ 345 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/brycewang-stanford/StatsPAI) · 组织维护
+⭐ 348 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/brycewang-stanford/StatsPAI) · 组织维护
 
 **Python 因果推断与计量经济学库，供 AI agent 调用 Stata/R 式工作流**
 

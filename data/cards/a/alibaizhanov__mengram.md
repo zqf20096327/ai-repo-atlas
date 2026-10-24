@@ -1,6 +1,6 @@
 # alibaizhanov/mengram
 
-⭐ 204 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/alibaizhanov/mengram) · [官网](https://mengram.io) · 个人维护
+⭐ 204 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaizhanov/mengram) · [官网](https://mengram.io) · 个人维护
 
 **给 AI agent 的记忆层：语义/情景/程序性记忆与失败演化**
 

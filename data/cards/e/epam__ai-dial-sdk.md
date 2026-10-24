@@ -1,6 +1,6 @@
 # epam/ai-dial-sdk
 
-⭐ 202 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/epam/ai-dial-sdk) · [官网](https://dialx.ai) · 组织维护
+⭐ 202 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/epam/ai-dial-sdk) · [官网](https://dialx.ai) · 组织维护
 
 **AI DIAL 的 Python SDK：构建应用与模型适配器**
 

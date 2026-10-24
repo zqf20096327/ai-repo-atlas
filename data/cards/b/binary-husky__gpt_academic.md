@@ -1,6 +1,6 @@
 # binary-husky/gpt_academic
 
-⭐ 71,531 · Python · GPL-3.0 · 推送 2026-01-25 · [GitHub](https://github.com/binary-husky/gpt_academic) · [官网](https://github.com/binary-husky/gpt_academic/wiki/online) · 个人维护 · 中文 README
+⭐ 71,539 · Python · GPL-3.0 · 推送 2026-01-25 · [GitHub](https://github.com/binary-husky/gpt_academic) · [官网](https://github.com/binary-husky/gpt_academic/wiki/online) · 个人维护 · 中文 README
 
 **为学术用户提供LLM交互接口，优化论文阅读润色写作**
 

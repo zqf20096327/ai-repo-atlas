@@ -1,6 +1,6 @@
 # huggingface/smollm
 
-⭐ 3,933 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/smollm) · [官网](https://huggingface.co/HuggingFaceTB) · 组织维护
+⭐ 3,935 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/smollm) · [官网](https://huggingface.co/HuggingFaceTB) · 组织维护
 
 **HuggingFace 的轻量级开源文本与视觉模型家族（SmolLM/SmolVLM）**
 

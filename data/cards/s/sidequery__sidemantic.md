@@ -1,6 +1,6 @@
 # sidequery/sidemantic
 
-⭐ 131 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/sidequery/sidemantic) · [官网](https://sidemantic.com) · 组织维护
+⭐ 131 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/sidequery/sidemantic) · [官网](https://sidemantic.com) · 组织维护
 
 **开源语义层运行时：统一定义治理指标并多格式复用**
 

@@ -1,6 +1,6 @@
 # Integuru-AI/Integuru
 
-⭐ 4,782 · Python · AGPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/Integuru-AI/Integuru) · [官网](https://integuru.ai) · 组织维护
+⭐ 4,781 · Python · AGPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/Integuru-AI/Integuru) · [官网](https://integuru.ai) · 组织维护
 
 **逆向平台内部 API 并生成可运行集成代码的 AI agent**
 

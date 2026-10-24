@@ -1,6 +1,6 @@
 # khaosdoctor/dontquotetheai
 
-⭐ 165 · HTML · MIT · 推送 2026-09-27 · [GitHub](https://github.com/khaosdoctor/dontquotetheai) · [官网](https://dontquotetheai.com) · 个人维护
+⭐ 166 · HTML · MIT · 推送 2026-09-27 · [GitHub](https://github.com/khaosdoctor/dontquotetheai) · [官网](https://dontquotetheai.com) · 个人维护
 
 **讽刺网站：发给直接粘贴 AI 长回答而不读的人**
 

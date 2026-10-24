@@ -1,6 +1,6 @@
 # vouchdev/vouch
 
-⭐ 67 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/vouchdev/vouch) · [官网](https://vouchai.dev) · 组织维护
+⭐ 64 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/vouchdev/vouch) · [官网](https://vouchai.dev) · 组织维护
 
 **面向 LLM agent 的 git 原生、审核门控知识库（MCP + CLI）**
 

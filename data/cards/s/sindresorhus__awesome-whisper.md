@@ -1,6 +1,6 @@
 # sindresorhus/awesome-whisper
 
-⭐ 2,424 · CC0-1.0 · 推送 2026-09-17 · [GitHub](https://github.com/sindresorhus/awesome-whisper) · 个人维护
+⭐ 2,423 · CC0-1.0 · 推送 2026-09-17 · [GitHub](https://github.com/sindresorhus/awesome-whisper) · 个人维护
 
 **Whisper 语音识别生态的策展清单：模型变体、应用与工具**
 

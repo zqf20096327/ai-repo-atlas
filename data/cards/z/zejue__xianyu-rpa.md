@@ -1,6 +1,6 @@
 # zejue/xianyu-rpa
 
-⭐ 59 · HTML · 推送 2026-08-21 · [GitHub](https://github.com/zejue/xianyu-rpa) · [官网](https://zejue.github.io/xianyu-rpa/) · 个人维护 · 中文 README
+⭐ 58 · HTML · 推送 2026-08-21 · [GitHub](https://github.com/zejue/xianyu-rpa) · [官网](https://zejue.github.io/xianyu-rpa/) · 个人维护 · 中文 README
 
 **闲鱼卖家的本地化 RPA 运营工具：多店铺接待、自动发货与 AI 客服**
 

@@ -1,6 +1,6 @@
 # Paritok-official/paritok-4b-v1
 
-⭐ 1,462 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/Paritok-official/paritok-4b-v1) · [官网](https://www.paritok.com/) · 组织维护
+⭐ 1,441 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/Paritok-official/paritok-4b-v1) · [官网](https://www.paritok.com/) · 组织维护
 
 **AI 编程 agent 的无损 token 压缩网关，降低输入 token 账单**
 

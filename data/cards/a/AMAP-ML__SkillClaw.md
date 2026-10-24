@@ -1,6 +1,6 @@
 # AMAP-ML/SkillClaw
 
-⭐ 2,720 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AMAP-ML/SkillClaw) · 组织维护 · 中文 README
+⭐ 2,722 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AMAP-ML/SkillClaw) · 组织维护 · 中文 README
 
 **让 LLM agent 技能跨会话/设备/用户持续演进的代理与进化服务**
 

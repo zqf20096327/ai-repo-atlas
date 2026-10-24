@@ -1,6 +1,6 @@
 # sirquy/bestie
 
-⭐ 106 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/sirquy/bestie) · [官网](https://bestieagent.com) · 个人维护 · 中文 README
+⭐ 104 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/sirquy/bestie) · [官网](https://bestieagent.com) · 个人维护 · 中文 README
 
 **自托管本地优先的越南语 AI 伴侣运行时，带记忆/技能/权限门控**
 

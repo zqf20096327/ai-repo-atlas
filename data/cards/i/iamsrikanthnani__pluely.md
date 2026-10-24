@@ -1,6 +1,6 @@
 # iamsrikanthnani/pluely
 
-⭐ 2,753 · TypeScript · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/iamsrikanthnani/pluely) · [官网](https://pluely.com) · 个人维护
+⭐ 2,752 · TypeScript · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/iamsrikanthnani/pluely) · [官网](https://pluely.com) · 个人维护
 
 **桌面悬浮 AI 助手：会议/访谈中隐形提问与实时转录应答**
 

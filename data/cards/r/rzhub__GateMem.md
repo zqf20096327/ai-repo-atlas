@@ -1,6 +1,6 @@
 # rzhub/GateMem
 
-⭐ 140 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/rzhub/GateMem) · [官网](https://rzhub.github.io/GateMem/project.html) · 组织维护
+⭐ 138 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/rzhub/GateMem) · [官网](https://rzhub.github.io/GateMem/project.html) · 组织维护
 
 **多主体共享记忆 LLM Agent 的记忆治理评测基准与工具包**
 

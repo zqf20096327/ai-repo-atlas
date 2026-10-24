@@ -1,6 +1,6 @@
 # microsoft/RAMPART
 
-⭐ 422 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/RAMPART) · [官网](https://microsoft.github.io/RAMPART/) · 组织维护
+⭐ 424 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/RAMPART) · [官网](https://microsoft.github.io/RAMPART/) · 组织维护
 
 **面向 AI agent 的安全红队测试框架（pytest 原生）**
 

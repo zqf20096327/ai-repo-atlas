@@ -1,6 +1,6 @@
 # jmont-dev/ollama-hpp
 
-⭐ 228 · C++ · MIT · 推送 2026-04-25 · [GitHub](https://github.com/jmont-dev/ollama-hpp) · 个人维护
+⭐ 229 · C++ · MIT · 推送 2026-04-25 · [GitHub](https://github.com/jmont-dev/ollama-hpp) · 个人维护
 
 **C++ 单头文件库：封装 Ollama API，在 C++ 中调用本地模型**
 

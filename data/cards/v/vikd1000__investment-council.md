@@ -1,6 +1,6 @@
 # vikd1000/investment-council
 
-⭐ 80 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/vikd1000/investment-council) · 个人维护
+⭐ 82 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/vikd1000/investment-council) · 个人维护
 
 **让 21 位传奇投资人风格 AI 辩论你的选股名单的 Claude Code 工具**
 

@@ -1,6 +1,6 @@
 # vakandi/opencode-rust
 
-⭐ 73 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/vakandi/opencode-rust) · [官网](https://vakandi.github.io/opencode-rust/) · 个人维护
+⭐ 52 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/vakandi/opencode-rust) · [官网](https://vakandi.github.io/opencode-rust/) · 个人维护
 
 **Rust 实现的开源 AI 编码代理，CLI/TUI/HTTP 服务**
 

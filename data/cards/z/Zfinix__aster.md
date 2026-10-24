@@ -1,6 +1,6 @@
 # Zfinix/aster
 
-⭐ 132 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Zfinix/aster) · [官网](https://withaster.dev) · 个人维护
+⭐ 132 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Zfinix/aster) · [官网](https://withaster.dev) · 个人维护
 
 **可自托管的开源终端编程 agent，自带模型与密钥**
 

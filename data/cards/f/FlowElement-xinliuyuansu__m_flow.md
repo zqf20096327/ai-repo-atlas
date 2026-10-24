@@ -1,6 +1,6 @@
 # FlowElement-xinliuyuansu/m_flow
 
-⭐ 4,512 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/FlowElement-xinliuyuansu/m_flow) · [官网](https://flowelement.ai) · 组织维护
+⭐ 4,508 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/FlowElement-xinliuyuansu/m_flow) · [官网](https://flowelement.ai) · 组织维护
 
 **给 LLM/Agent 的认知记忆引擎：以四层锥形图做路径成本检索**
 

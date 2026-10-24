@@ -1,6 +1,6 @@
 # georgeding/Relate
 
-⭐ 111 · JavaScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/georgeding/Relate) · 个人维护 · 中文 README
+⭐ 110 · JavaScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/georgeding/Relate) · 个人维护 · 中文 README
 
 **自托管的私人聊天 AI 幕僚：记住承诺与提醒日子**
 

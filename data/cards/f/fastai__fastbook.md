@@ -1,6 +1,6 @@
 # fastai/fastbook
 
-⭐ 25,411 · Jupyter Notebook · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/fastai/fastbook) · 个人维护 · 中文 README
+⭐ 25,414 · Jupyter Notebook · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/fastai/fastbook) · 个人维护 · 中文 README
 
 **以 Jupyter Notebook 形式发布的 fastai 深度学习教材**
 

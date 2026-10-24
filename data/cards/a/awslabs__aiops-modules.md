@@ -1,6 +1,6 @@
 # awslabs/aiops-modules
 
-⭐ 104 · Python · Apache-2.0 · 推送 2026-05-11 · [GitHub](https://github.com/awslabs/aiops-modules) · 组织维护
+⭐ 103 · Python · Apache-2.0 · 推送 2026-05-11 · [GitHub](https://github.com/awslabs/aiops-modules) · 组织维护
 
 **AWS 上 ML/LLM/GenAI 开发运维的可复用 IaC 模块集**
 

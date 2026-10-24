@@ -1,6 +1,6 @@
 # Renumics/renumics-rag
 
-⭐ 211 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Renumics/renumics-rag) · 组织维护
+⭐ 211 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Renumics/renumics-rag) · 组织维护
 
 **RAG 助手演示与数据可视化：回答问题并探索检索数据**
 

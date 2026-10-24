@@ -1,6 +1,6 @@
 # mzopedia/simplified-technical-chinese
 
-⭐ 62 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/mzopedia/simplified-technical-chinese) · 个人维护 · 中文 README
+⭐ 66 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/mzopedia/simplified-technical-chinese) · 个人维护 · 中文 README
 
 **中文技术写作受控语言规范：40条规则+词表+零依赖检查脚本**
 

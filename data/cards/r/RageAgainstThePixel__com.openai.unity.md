@@ -1,6 +1,6 @@
 # RageAgainstThePixel/com.openai.unity
 
-⭐ 597 · C# · MIT · 推送 2026-01-26 · [GitHub](https://github.com/RageAgainstThePixel/com.openai.unity) · [官网](https://openai.com) · 个人维护
+⭐ 598 · C# · MIT · 推送 2026-01-26 · [GitHub](https://github.com/RageAgainstThePixel/com.openai.unity) · [官网](https://openai.com) · 个人维护
 
 **供 Unity 开发者调用 OpenAI REST API 的非官方客户端库**
 

@@ -1,6 +1,6 @@
 # clusterzx/paperless-ai
 
-⭐ 5,980 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/clusterzx/paperless-ai) · [官网](https://clusterzx.github.io/paperless-ai/) · 个人维护
+⭐ 5,978 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/clusterzx/paperless-ai) · [官网](https://clusterzx.github.io/paperless-ai/) · 个人维护
 
 **为 Paperless-ngx 自动分类打标签并提供 RAG 问答的扩展**
 

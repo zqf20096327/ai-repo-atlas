@@ -1,6 +1,6 @@
 # ClaudiuGeorgiu/RiskInDroid
 
-⭐ 162 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ClaudiuGeorgiu/RiskInDroid) · 个人维护
+⭐ 163 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ClaudiuGeorgiu/RiskInDroid) · 个人维护
 
 **基于机器学习的 Android 应用权限风险量化分析工具**
 

@@ -1,6 +1,6 @@
 # Arize-ai/openinference
 
-⭐ 1,278 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Arize-ai/openinference) · [官网](https://arize-ai.github.io/openinference/) · 组织维护
+⭐ 1,282 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Arize-ai/openinference) · [官网](https://arize-ai.github.io/openinference/) · 组织维护
 
 **为 AI 应用提供 OpenTelemetry 兼容追踪规范的插桩库集合**
 

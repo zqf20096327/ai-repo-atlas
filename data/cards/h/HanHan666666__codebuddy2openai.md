@@ -1,6 +1,6 @@
 # HanHan666666/codebuddy2openai
 
-⭐ 85 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/HanHan666666/codebuddy2openai) · [官网](https://github.com/HanHan666666/codebuddy2openai) · 个人维护 · 中文 README
+⭐ 84 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/HanHan666666/codebuddy2openai) · [官网](https://github.com/HanHan666666/codebuddy2openai) · 个人维护 · 中文 README
 
 **把 CodeBuddy 订阅转成 OpenAI 兼容 API 的本地转换器**
 

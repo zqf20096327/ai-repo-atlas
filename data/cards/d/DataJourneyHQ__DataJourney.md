@@ -1,6 +1,6 @@
 # DataJourneyHQ/DataJourney
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/DataJourneyHQ/DataJourney) · [官网](https://datajourneyhq.com/) · 组织维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/DataJourneyHQ/DataJourney) · [官网](https://datajourneyhq.com/) · 组织维护
 
 **面向学习者的 AI 数据产品设计工具包，教你组装开源组件**
 

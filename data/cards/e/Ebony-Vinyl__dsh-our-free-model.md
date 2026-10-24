@@ -1,6 +1,6 @@
 # Ebony-Vinyl/dsh-our-free-model
 
-⭐ 38,951 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Ebony-Vinyl/dsh-our-free-model) · 个人维护 · 中文 README
+⭐ 41,024 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Ebony-Vinyl/dsh-our-free-model) · 个人维护 · 中文 README
 
 **dsh 免费模型插件：免 Key 直连多家前沿模型**
 

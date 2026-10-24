@@ -1,6 +1,6 @@
 # oscar-castaneda-dev/oscar-castaneda-website
 
-⭐ 119 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) · [官网](https://oscar-castaneda-website-brown.vercel.app/) · 个人维护
+⭐ 120 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) · [官网](https://oscar-castaneda-website-brown.vercel.app/) · 个人维护
 
 **个人作品集网站：展示全栈与 AI 工程工作**
 

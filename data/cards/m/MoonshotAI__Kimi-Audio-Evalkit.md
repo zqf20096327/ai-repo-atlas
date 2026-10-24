@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-Audio-Evalkit
 
-⭐ 170 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/MoonshotAI/Kimi-Audio-Evalkit) · 组织维护 · 中文 README
+⭐ 171 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/MoonshotAI/Kimi-Audio-Evalkit) · 组织维护 · 中文 README
 
 **音频大语言模型评测框架：跑基准、出指标报告**
 

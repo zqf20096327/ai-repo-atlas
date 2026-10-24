@@ -1,6 +1,6 @@
 # xszyou/Fay
 
-⭐ 13,588 · Python · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/xszyou/Fay) · 个人维护 · 中文 README
+⭐ 13,589 · Python · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/xszyou/Fay) · 个人维护 · 中文 README
 
 **为数字人与大语言模型连通业务系统的 agent 框架**
 

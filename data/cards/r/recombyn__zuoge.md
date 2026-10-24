@@ -1,6 +1,6 @@
 # recombyn/zuoge
 
-⭐ 55 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/recombyn/zuoge) · [官网](https://recombyn.com) · 组织维护 · 中文 README
+⭐ 56 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/recombyn/zuoge) · [官网](https://recombyn.com) · 组织维护 · 中文 README
 
 **自托管的开源 AI 设计工作台：无限画布+设计 Agent**
 

@@ -1,6 +1,6 @@
 # luxdelux7/ComfyUI-Forbidden-Vision
 
-⭐ 104 · Python · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/luxdelux7/ComfyUI-Forbidden-Vision) · [官网](https://ko-fi.com/luxdelux) · 个人维护
+⭐ 105 · Python · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/luxdelux7/ComfyUI-Forbidden-Vision) · [官网](https://ko-fi.com/luxdelux) · 个人维护
 
 **ComfyUI 人脸检测/分割/修复自定义节点套件**
 

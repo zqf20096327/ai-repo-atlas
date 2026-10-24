@@ -1,6 +1,6 @@
 # Promethe-us/awesome-jev
 
-⭐ 147 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Promethe-us/awesome-jev) · [官网](https://promethe-us.github.io/awesome-jev/) · 个人维护 · 中文 README
+⭐ 148 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Promethe-us/awesome-jev) · [官网](https://promethe-us.github.io/awesome-jev/) · 个人维护 · 中文 README
 
 **Jev/System One 决策模型的资源清单：项目、论文、评测与社区线索**
 

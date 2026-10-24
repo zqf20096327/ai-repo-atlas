@@ -1,6 +1,6 @@
 # AgentDock/AgentDock
 
-⭐ 1,774 · MDX · MIT · 推送 2026-07-14 · [GitHub](https://github.com/AgentDock/AgentDock) · [官网](https://agentdock.ai) · 组织维护
+⭐ 1,772 · MDX · MIT · 推送 2026-07-14 · [GitHub](https://github.com/AgentDock/AgentDock) · [官网](https://agentdock.ai) · 组织维护
 
 **构建可配置确定性 AI agent 的 TypeScript 后端框架**
 

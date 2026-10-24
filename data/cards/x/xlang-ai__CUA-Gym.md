@@ -1,6 +1,6 @@
 # xlang-ai/CUA-Gym
 
-⭐ 220 · Python · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/xlang-ai/CUA-Gym) · [官网](https://cua-gym.xlang.ai) · 组织维护
+⭐ 222 · Python · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/xlang-ai/CUA-Gym) · [官网](https://cua-gym.xlang.ai) · 组织维护
 
 **为计算机使用代理合成可验证 RLVR 训练数据的流水线与数据集**
 

@@ -1,6 +1,6 @@
 # eat-pray-ai/yutu
 
-⭐ 703 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/eat-pray-ai/yutu) · [官网](https://yutu.ifor.dev) · 个人维护 · 中文 README
+⭐ 704 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/eat-pray-ai/yutu) · [官网](https://yutu.ifor.dev) · 个人维护 · 中文 README
 
 **自动化 YouTube 运营的 CLI/MCP 服务器/AI 代理工具**
 

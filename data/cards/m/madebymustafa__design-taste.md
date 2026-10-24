@@ -1,6 +1,6 @@
 # madebymustafa/design-taste
 
-⭐ 191 · JavaScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/madebymustafa/design-taste) · 个人维护
+⭐ 193 · JavaScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/madebymustafa/design-taste) · 个人维护
 
 **给 AI 编码代理的 24 个设计品味技能包，避免模板化 UI**
 

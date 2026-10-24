@@ -1,6 +1,6 @@
 # yuhp/opencode-models-discovery
 
-⭐ 191 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yuhp/opencode-models-discovery) · 个人维护
+⭐ 192 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yuhp/opencode-models-discovery) · 个人维护
 
 **OpenCode 插件：从 OpenAI 兼容端点动态发现并注入模型配置**
 

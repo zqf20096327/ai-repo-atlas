@@ -1,6 +1,6 @@
 # polakowo/vectorbt
 
-⭐ 9,500 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/polakowo/vectorbt) · [官网](https://vectorbt.dev) · 个人维护 · 中文 README
+⭐ 9,511 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/polakowo/vectorbt) · [官网](https://vectorbt.dev) · 个人维护 · 中文 README
 
 **面向量化研究的向量化回测引擎：批量测试数千策略组合**
 

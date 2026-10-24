@@ -1,6 +1,6 @@
 # stakpak/agent
 
-⭐ 1,828 · Rust · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/stakpak/agent) · [官网](https://stakpak.dev) · 组织维护
+⭐ 1,830 · Rust · Apache-2.0 · 推送 2026-07-06 · [GitHub](https://github.com/stakpak/agent) · [官网](https://stakpak.dev) · 组织维护
 
 **常驻本机的自主 DevOps AI agent，24/7 运维并生成基础设施代码**
 

@@ -1,6 +1,6 @@
 # kamjin3086/chatless
 
-⭐ 301 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kamjin3086/chatless) · [官网](https://kamjin3086.github.io/chatless) · 个人维护 · 中文 README
+⭐ 301 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kamjin3086/chatless) · [官网](https://kamjin3086.github.io/chatless) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI 聊天客户端，数据全存本地**
 

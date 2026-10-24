@@ -1,6 +1,6 @@
 # sandbox-quantum/switch
 
-⭐ 1,427 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/sandbox-quantum/switch) · [官网](https://www.switchagents.ai) · 组织维护
+⭐ 1,518 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/sandbox-quantum/switch) · [官网](https://www.switchagents.ai) · 组织维护
 
 **把 AI agent 以队友形式接入团队聊天平台的自托管网关**
 

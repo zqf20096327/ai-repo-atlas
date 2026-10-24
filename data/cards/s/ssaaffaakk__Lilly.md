@@ -1,6 +1,6 @@
 # ssaaffaakk/Lilly
 
-⭐ 159 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ssaaffaakk/Lilly) · [官网](https://github.com/ssaaffaakk/Lilly) · 个人维护
+⭐ 158 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ssaaffaakk/Lilly) · [官网](https://github.com/ssaaffaakk/Lilly) · 个人维护
 
 **离线波斯尼亚语–英语双向翻译助手：打字/语音/拍照输入**
 

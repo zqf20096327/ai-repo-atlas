@@ -1,6 +1,6 @@
 # MoonshotAI/FlashKDA
 
-⭐ 1,288 · Cuda · MIT · 推送 2026-09-01 · [GitHub](https://github.com/MoonshotAI/FlashKDA) · 组织维护
+⭐ 1,289 · Cuda · MIT · 推送 2026-09-01 · [GitHub](https://github.com/MoonshotAI/FlashKDA) · 组织维护
 
 **为 Kimi Delta Attention 提供基于 CUTLASS 的 CUDA 算子库**
 

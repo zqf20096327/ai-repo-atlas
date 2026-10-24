@@ -1,6 +1,6 @@
 # giancarloerra/SocratiCode
 
-⭐ 3,354 · TypeScript · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/giancarloerra/SocratiCode) · [官网](https://socraticode.cloud) · 个人维护
+⭐ 3,354 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/giancarloerra/SocratiCode) · [官网](https://socraticode.cloud) · 个人维护
 
 **给 AI 助手的代码库上下文引擎：零配置本地索引与语义检索**
 

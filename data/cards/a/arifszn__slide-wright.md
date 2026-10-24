@@ -1,6 +1,6 @@
 # arifszn/slide-wright
 
-⭐ 62 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/arifszn/slide-wright) · 个人维护
+⭐ 63 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/arifszn/slide-wright) · 个人维护
 
 **让编程 agent 生成幻灯片的技能：预览确认后构建并导出**
 

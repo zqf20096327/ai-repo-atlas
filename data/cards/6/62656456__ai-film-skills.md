@@ -1,6 +1,6 @@
 # 62656456/ai-film-skills
 
-⭐ 85 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/62656456/ai-film-skills) · [官网](https://62656456.github.io/ai-film-skills/) · 个人维护 · 中文 README
+⭐ 88 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/62656456/ai-film-skills) · [官网](https://62656456.github.io/ai-film-skills/) · 个人维护 · 中文 README
 
 **AI 影视创作的 21 个 Agent 技能包：剧本、资产、分镜到成片流程**
 

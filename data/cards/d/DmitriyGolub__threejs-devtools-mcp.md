@@ -1,6 +1,6 @@
 # DmitriyGolub/threejs-devtools-mcp
 
-⭐ 125 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/DmitriyGolub/threejs-devtools-mcp) · [官网](https://www.npmjs.com/package/threejs-devtools-mcp) · 个人维护
+⭐ 126 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/DmitriyGolub/threejs-devtools-mcp) · [官网](https://www.npmjs.com/package/threejs-devtools-mcp) · 个人维护
 
 **Three.js 场景的 MCP 工具服务器：让 AI agent 实时检查与修改 3D 场景**
 

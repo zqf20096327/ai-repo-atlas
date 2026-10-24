@@ -1,6 +1,6 @@
 # jonwiggins/optio
 
-⭐ 1,072 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jonwiggins/optio) · [官网](https://optio.host/) · 个人维护
+⭐ 1,073 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jonwiggins/optio) · [官网](https://optio.host/) · 个人维护
 
 **自托管的编码 agent 编排平台：统一调度与跟进 agent 任务**
 

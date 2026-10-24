@@ -1,6 +1,6 @@
 # kozistr/pytorch_optimizer
 
-⭐ 432 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kozistr/pytorch_optimizer) · [官网](https://pytorch-optimizers.readthedocs.io/en/latest/) · 个人维护
+⭐ 432 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/kozistr/pytorch_optimizer) · [官网](https://pytorch-optimizers.readthedocs.io/en/latest/) · 个人维护
 
 **PyTorch 优化器/调度器/损失函数合集库，供训练快速实验**
 

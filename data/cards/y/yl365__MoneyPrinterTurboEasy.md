@@ -1,6 +1,6 @@
 # yl365/MoneyPrinterTurboEasy
 
-⭐ 269 · QMake · 推送 2026-07-10 · [GitHub](https://github.com/yl365/MoneyPrinterTurboEasy) · 个人维护 · 中文 README
+⭐ 270 · QMake · 推送 2026-07-10 · [GitHub](https://github.com/yl365/MoneyPrinterTurboEasy) · 个人维护 · 中文 README
 
 **一句话主题词生成带配音短视频的 Windows 绿色版工具**
 

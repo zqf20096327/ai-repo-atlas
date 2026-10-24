@@ -1,6 +1,6 @@
 # open-compass/opencompass
 
-⭐ 7,538 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/open-compass/opencompass) · [官网](https://opencompass.org.cn/) · 组织维护 · 中文 README
+⭐ 7,541 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/open-compass/opencompass) · [官网](https://opencompass.org.cn/) · 组织维护 · 中文 README
 
 **大模型评测平台：配置数据集与模型、推理、评测到汇总的一站式流程**
 

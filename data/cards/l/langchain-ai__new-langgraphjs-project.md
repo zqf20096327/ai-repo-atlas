@@ -1,6 +1,6 @@
 # langchain-ai/new-langgraphjs-project
 
-⭐ 76 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/new-langgraphjs-project) · 组织维护
+⭐ 75 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/new-langgraphjs-project) · 组织维护
 
 **LangGraph.js 聊天机器人项目模板，供快速起步开发**
 

@@ -1,6 +1,6 @@
 # Azure-Samples/azure-ai-travel-agents
 
-⭐ 481 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Azure-Samples/azure-ai-travel-agents) · [官网](https://azure-samples.github.io/azure-ai-travel-agents/) · 组织维护
+⭐ 481 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Azure-Samples/azure-ai-travel-agents) · [官网](https://azure-samples.github.io/azure-ai-travel-agents/) · 组织维护
 
 **旅行社 AI 多智能体参考应用：MCP 工具编排与本地免费预览**
 

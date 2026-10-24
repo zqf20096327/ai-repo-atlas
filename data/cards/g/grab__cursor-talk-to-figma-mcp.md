@@ -1,6 +1,6 @@
 # grab/cursor-talk-to-figma-mcp
 
-⭐ 7,071 · JavaScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/grab/cursor-talk-to-figma-mcp) · [官网](https://www.figma.com/community/plugin/1485687494525374295/cursor-talk-to-figma-mcp-plugin) · 组织维护
+⭐ 7,070 · JavaScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/grab/cursor-talk-to-figma-mcp) · [官网](https://www.figma.com/community/plugin/1485687494525374295/cursor-talk-to-figma-mcp-plugin) · 组织维护
 
 **让 AI Agent 通过 MCP 读写和修改 Figma 设计的工具**
 

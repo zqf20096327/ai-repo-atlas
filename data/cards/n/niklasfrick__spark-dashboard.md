@@ -1,6 +1,6 @@
 # niklasfrick/spark-dashboard
 
-⭐ 138 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/niklasfrick/spark-dashboard) · 个人维护
+⭐ 139 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/niklasfrick/spark-dashboard) · 个人维护
 
 **Linux+NVIDIA 主机的硬件与 LLM 推理实时监控仪表盘**
 

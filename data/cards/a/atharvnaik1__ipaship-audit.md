@@ -1,6 +1,6 @@
 # atharvnaik1/ipaship-audit
 
-⭐ 108 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/atharvnaik1/ipaship-audit) · 个人维护
+⭐ 104 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/atharvnaik1/ipaship-audit) · 个人维护
 
 **iOS 应用提交前的 App Store 合规 AI 审计工具**
 

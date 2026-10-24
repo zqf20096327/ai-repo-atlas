@@ -1,6 +1,6 @@
 # bytechefhq/bytechef
 
-⭐ 1,044 · Java · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/bytechefhq/bytechef) · [官网](https://www.bytechef.io) · 组织维护
+⭐ 1,047 · Java · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/bytechefhq/bytechef) · [官网](https://www.bytechef.io) · 组织维护
 
 **开源 AI agent 与工作流自动化平台，可自托管或嵌入 SaaS**
 

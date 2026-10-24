@@ -1,6 +1,6 @@
 # huggingface/chat-ui
 
-⭐ 10,995 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/chat-ui) · [官网](https://huggingface.co/chat) · 组织维护
+⭐ 10,996 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/chat-ui) · [官网](https://huggingface.co/chat) · 组织维护
 
 **驱动 HuggingChat 的开源 LLM 聊天界面（SvelteKit 应用）**
 

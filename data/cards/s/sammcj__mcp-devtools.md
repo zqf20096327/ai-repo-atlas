@@ -1,6 +1,6 @@
 # sammcj/mcp-devtools
 
-⭐ 161 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/sammcj/mcp-devtools) · [官网](https://smcleod.net) · 个人维护
+⭐ 161 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/sammcj/mcp-devtools) · [官网](https://smcleod.net) · 个人维护
 
 **面向 AI 编程 agent 的 Go 单二进制 MCP 服务器，聚合常用开发工具**
 

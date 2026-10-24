@@ -1,6 +1,6 @@
 # tensorkithq/openbeam
 
-⭐ 88 · TypeScript · 推送 2026-08-29 · [GitHub](https://github.com/tensorkithq/openbeam) · [官网](https://openbeam.tensorkit.ai) · 组织维护
+⭐ 81 · TypeScript · 推送 2026-08-29 · [GitHub](https://github.com/tensorkithq/openbeam) · [官网](https://openbeam.tensorkit.ai) · 组织维护
 
 **面向直播讲道的实时经文检测浏览器应用**
 

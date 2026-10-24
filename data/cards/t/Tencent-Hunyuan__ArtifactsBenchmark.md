@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/ArtifactsBenchmark
 
-⭐ 281 · Python · NOASSERTION · 推送 2025-12-30 · [GitHub](https://github.com/Tencent-Hunyuan/ArtifactsBenchmark) · [官网](https://artifactsbenchmark.github.io/) · 组织维护 · 中文 README
+⭐ 282 · Python · NOASSERTION · 推送 2025-12-30 · [GitHub](https://github.com/Tencent-Hunyuan/ArtifactsBenchmark) · [官网](https://artifactsbenchmark.github.io/) · 组织维护 · 中文 README
 
 **面向交互式可视代码生成的自动化多模态评测基准（1,825 任务）**
 

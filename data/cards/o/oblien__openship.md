@@ -1,6 +1,6 @@
 # oblien/openship
 
-⭐ 14,912 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/oblien/openship) · [官网](https://openship.io) · 组织维护
+⭐ 14,918 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/oblien/openship) · [官网](https://openship.io) · 组织维护
 
 **给开发者的自托管部署平台：从仓库到带 TLS 的线上应用**
 

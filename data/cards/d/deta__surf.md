@@ -1,6 +1,6 @@
 # deta/surf
 
-⭐ 3,610 · TypeScript · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/deta/surf) · [官网](https://deta.surf) · 组织维护
+⭐ 3,611 · TypeScript · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/deta/surf) · [官网](https://deta.surf) · 组织维护
 
 **本地优先的个人 AI 笔记本：整理文件网页并生成笔记**
 

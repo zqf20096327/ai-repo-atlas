@@ -1,6 +1,6 @@
 # InterviewReady/ai-engineering-resources
 
-⭐ 2,664 · 推送 2025-11-19 · [GitHub](https://github.com/InterviewReady/ai-engineering-resources) · [官网](https://interviewready.io) · 组织维护
+⭐ 2,665 · 推送 2025-11-19 · [GitHub](https://github.com/InterviewReady/ai-engineering-resources) · [官网](https://interviewready.io) · 组织维护
 
 **软件工程师转型 AI 工程师的论文与资源清单**
 

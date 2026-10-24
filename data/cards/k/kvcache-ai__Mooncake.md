@@ -1,6 +1,6 @@
 # kvcache-ai/Mooncake
 
-⭐ 6,873 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kvcache-ai/Mooncake) · [官网](https://kvcache-ai.github.io/Mooncake/) · 组织维护 · 中文 README
+⭐ 6,877 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/kvcache-ai/Mooncake) · [官网](https://kvcache-ai.github.io/Mooncake/) · 组织维护 · 中文 README
 
 **面向大规模 LLM 推理/训练的 KVCache 中心化解耦架构基础设施**
 

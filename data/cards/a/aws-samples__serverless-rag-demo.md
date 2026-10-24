@@ -1,6 +1,6 @@
 # aws-samples/serverless-rag-demo
 
-⭐ 223 · Python · MIT-0 · 推送 2026-10-07 · [GitHub](https://github.com/aws-samples/serverless-rag-demo) · [官网](https://aws.amazon.com/blogs/big-data/build-scalable-and-serverless-rag-workflows-with-a-vector-engine-for-amazon-opensearch-serverless-and-amazon-bedrock-claude-models/) · 组织维护
+⭐ 223 · Python · MIT-0 · 推送 2026-10-24 · [GitHub](https://github.com/aws-samples/serverless-rag-demo) · [官网](https://aws.amazon.com/blogs/big-data/build-scalable-and-serverless-rag-workflows-with-a-vector-engine-for-amazon-opensearch-serverless-and-amazon-bedrock-claude-models/) · 组织维护
 
 **AWS 上部署的 Serverless RAG 文档问答与多 Agent 示例**
 

@@ -1,6 +1,6 @@
 # CommandCodeAI/command-code
 
-⭐ 4,164 · 推送 2026-10-23 · [GitHub](https://github.com/CommandCodeAI/command-code) · [官网](https://commandcode.ai) · 组织维护
+⭐ 4,167 · 推送 2026-10-23 · [GitHub](https://github.com/CommandCodeAI/command-code) · [官网](https://commandcode.ai) · 组织维护
 
 **面向开源模型的 CLI 编程 agent，学习用户编码品味**
 

@@ -1,6 +1,6 @@
 # sonos/tract
 
-⭐ 3,096 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/sonos/tract) · 组织维护
+⭐ 3,097 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/sonos/tract) · 组织维护
 
 **Rust 神经网络推理引擎：加载 ONNX/NNEF 模型并在多平台运行**
 

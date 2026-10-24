@@ -1,6 +1,6 @@
 # jatinkrmalik/LLMFeeder
 
-⭐ 484 · JavaScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/jatinkrmalik/LLMFeeder) · [官网](https://llmfeeder.fyi) · 个人维护
+⭐ 485 · JavaScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/jatinkrmalik/LLMFeeder) · [官网](https://llmfeeder.fyi) · 个人维护
 
 **一键把网页转成 Markdown 供 LLM 使用的浏览器扩展**
 

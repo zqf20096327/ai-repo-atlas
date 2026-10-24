@@ -1,6 +1,6 @@
 # STMicroelectronics/STM32AI_Overall_Offer
 
-⭐ 62 · 推送 2026-02-07 · [GitHub](https://github.com/STMicroelectronics/STM32AI_Overall_Offer) · 组织维护
+⭐ 63 · 推送 2026-02-07 · [GitHub](https://github.com/STMicroelectronics/STM32AI_Overall_Offer) · 组织维护
 
 **STM32 嵌入式 AI 资源总入口：汇集官方工具与示例仓库**
 

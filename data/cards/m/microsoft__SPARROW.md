@@ -1,6 +1,6 @@
 # microsoft/SPARROW
 
-⭐ 69 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/SPARROW) · [官网](https://unlocked.microsoft.com/project-sparrow/) · 组织维护
+⭐ 69 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/SPARROW) · [官网](https://unlocked.microsoft.com/project-sparrow/) · 组织维护
 
 **太阳能供电的野生动植物监测 AI 边缘设备客户端，给保护研究者**
 

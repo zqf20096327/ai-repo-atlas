@@ -1,6 +1,6 @@
 # morphik-org/morphik-core
 
-⭐ 3,717 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/morphik-org/morphik-core) · [官网](https://morphik.ai/docs) · 组织维护
+⭐ 3,719 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/morphik-org/morphik-core) · [官网](https://morphik.ai/docs) · 组织维护
 
 **面向开发者的多模态检索引擎，处理图文文档的存取与检索**
 

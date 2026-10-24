@@ -1,6 +1,6 @@
 # potamides/DeTikZify
 
-⭐ 1,822 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/potamides/DeTikZify) · [官网](https://nllg-detikzify.hf.space) · 组织维护
+⭐ 1,821 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/potamides/DeTikZify) · [官网](https://nllg-detikzify.hf.space) · 组织维护
 
 **把草图/已有图形合成为 TikZ 程序的多模态模型**
 

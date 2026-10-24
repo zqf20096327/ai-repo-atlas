@@ -1,6 +1,6 @@
 # recastnavigation/recastnavigation
 
-⭐ 7,979 · C++ · Zlib · 推送 2026-02-27 · [GitHub](https://github.com/recastnavigation/recastnavigation) · [官网](http://recastnav.com/) · 组织维护
+⭐ 7,980 · C++ · Zlib · 推送 2026-02-27 · [GitHub](https://github.com/recastnavigation/recastnavigation) · [官网](http://recastnav.com/) · 组织维护
 
 **游戏用导航网格生成与寻路工具集**
 

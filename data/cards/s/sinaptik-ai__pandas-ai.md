@@ -1,6 +1,6 @@
 # sinaptik-ai/pandas-ai
 
-⭐ 23,899 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/sinaptik-ai/pandas-ai) · [官网](https://pandas-ai.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用自然语言对话查询数据库与数据文件的 Python 库**
 
@@ -11,7 +11,7 @@ PandasAI 是一个 Python 库，通过 LLM 让用户以自然语言向数据提�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | NOASSERTION |
+| 许可风险 | `dual` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

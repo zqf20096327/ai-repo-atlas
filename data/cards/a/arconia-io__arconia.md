@@ -1,6 +1,6 @@
 # arconia-io/arconia
 
-⭐ 198 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/arconia-io/arconia) · [官网](https://docs.arconia.io) · 组织维护
+⭐ 198 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/arconia-io/arconia) · [官网](https://docs.arconia.io) · 组织维护
 
 **给 Java 开发者的 Spring Boot 增强框架：开发服务/可观测/AI 文档处理**
 

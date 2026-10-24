@@ -1,6 +1,6 @@
 # osaurus-ai/osaurus
 
-⭐ 8,073 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/osaurus-ai/osaurus) · [官网](https://osaurus.ai) · 组织维护
+⭐ 8,076 · Swift · MIT · 推送 2026-10-24 · [GitHub](https://github.com/osaurus-ai/osaurus) · [官网](https://osaurus.ai) · 组织维护
 
 **macOS 原生 AI agent 平台：本地/云端模型加持久记忆与沙箱执行**
 

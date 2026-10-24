@@ -1,6 +1,6 @@
 # he-yufeng/RepoWiki
 
-⭐ 296 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/RepoWiki) · [官网](https://pypi.org/project/repowiki/) · 个人维护 · 中文 README
+⭐ 298 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/RepoWiki) · [官网](https://pypi.org/project/repowiki/) · 个人维护 · 中文 README
 
 **为任意代码库生成结构化 Wiki 文档的 CLI/Web 工具**
 

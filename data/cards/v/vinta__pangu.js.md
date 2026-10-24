@@ -1,6 +1,6 @@
 # vinta/pangu.js
 
-⭐ 4,852 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vinta/pangu.js) · [官网](https://chrome.google.com/webstore/detail/paphcfdffjnbcgkokihcdjliihicmbpd) · 个人维护 · 中文 README
+⭐ 4,852 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/vinta/pangu.js) · [官网](https://chrome.google.com/webstore/detail/paphcfdffjnbcgkokihcdjliihicmbpd) · 个人维护 · 中文 README
 
 **在中英文之间自动插入空格的 JS 库与 Chrome 扩展**
 

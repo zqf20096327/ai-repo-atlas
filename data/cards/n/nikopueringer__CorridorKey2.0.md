@@ -1,6 +1,6 @@
 # nikopueringer/CorridorKey2.0
 
-⭐ 1,164 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/nikopueringer/CorridorKey2.0) · [官网](https://corridorkey.com) · 个人维护
+⭐ 1,328 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/nikopueringer/CorridorKey2.0) · [官网](https://corridorkey.com) · 个人维护
 
 **面向绿幕/蓝幕抠像的 AI 视频 matte 生成工具，供 VFX 艺术家使用**
 

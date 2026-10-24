@@ -1,6 +1,6 @@
 # deep-learning-for-biology/notebooks
 
-⭐ 149 · Jupyter Notebook · 推送 2026-03-19 · [GitHub](https://github.com/deep-learning-for-biology/notebooks) · [官网](https://deep-learning-for-biology.com) · 组织维护
+⭐ 148 · Jupyter Notebook · 推送 2026-03-19 · [GitHub](https://github.com/deep-learning-for-biology/notebooks) · [官网](https://deep-learning-for-biology.com) · 组织维护
 
 **《Deep Learning for Biology》配套可执行代码笔记本（第2-6章）**
 

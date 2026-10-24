@@ -1,6 +1,6 @@
 # google/grain
 
-⭐ 795 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/grain) · [官网](https://google-grain.readthedocs.io) · 组织维护
+⭐ 797 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/grain) · [官网](https://google-grain.readthedocs.io) · 组织维护
 
 **面向 JAX 模型的确定性数据读取与处理 Python 库**
 

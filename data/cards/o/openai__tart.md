@@ -1,6 +1,6 @@
 # openai/tart
 
-⭐ 7,634 · Swift · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/openai/tart) · [官网](https://tart.run) · 组织维护
+⭐ 7,647 · Swift · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/openai/tart) · [官网](https://tart.run) · 组织维护
 
 **Apple Silicon 上构建、运行和管理 macOS/Linux 虚拟机的工具集**
 

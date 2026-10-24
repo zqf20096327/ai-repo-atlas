@@ -1,6 +1,6 @@
 # slokam-ai/localgcp
 
-⭐ 89 · Go · MIT · 推送 2026-04-16 · [GitHub](https://github.com/slokam-ai/localgcp) · [官网](https://localgcp.com) · 组织维护
+⭐ 90 · Go · MIT · 推送 2026-04-16 · [GitHub](https://github.com/slokam-ai/localgcp) · [官网](https://localgcp.com) · 组织维护
 
 **本地模拟 14 个 GCP 服务的 Go 单二进制模拟器**
 

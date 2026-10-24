@@ -1,6 +1,6 @@
 # CliMA/ClimaLand.jl
 
-⭐ 73 · Julia · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/CliMA/ClimaLand.jl) · [官网](https://clima.github.io/ClimaLand.jl/) · 组织维护
+⭐ 73 · Julia · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/CliMA/ClimaLand.jl) · [官网](https://clima.github.io/ClimaLand.jl/) · 组织维护
 
 **CliMA 地球系统模型的模块化陆面模拟器，支持数据驱动参数化**
 

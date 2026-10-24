@@ -1,6 +1,6 @@
 # databendlabs/databend
 
-⭐ 9,477 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/databendlabs/databend) · [官网](https://docs.databend.com) · 组织维护
+⭐ 9,477 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/databendlabs/databend) · [官网](https://docs.databend.com) · 组织维护
 
 **Rust 编写的云原生企业数据仓库，支持分析与 AI Agent 工作负载**
 

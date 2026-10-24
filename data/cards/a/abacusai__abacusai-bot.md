@@ -1,6 +1,6 @@
 # abacusai/abacusai-bot
 
-⭐ 312 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/abacusai/abacusai-bot) · [官网](https://bot.abacus.ai) · 组织维护
+⭐ 330 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/abacusai/abacusai-bot) · [官网](https://bot.abacus.ai) · 组织维护
 
 **免费开源的桌面个人 AI agent 应用，接入聊天与办公工具**
 

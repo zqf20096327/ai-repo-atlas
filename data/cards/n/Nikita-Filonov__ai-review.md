@@ -1,6 +1,6 @@
 # Nikita-Filonov/ai-review
 
-⭐ 598 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/Nikita-Filonov/ai-review) · [官网](https://boosty.to/ai_review) · 个人维护
+⭐ 597 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/Nikita-Filonov/ai-review) · [官网](https://boosty.to/ai_review) · 个人维护
 
 **在 CI/CD 中自动生成 AI 代码评审评论的开发者工具**
 

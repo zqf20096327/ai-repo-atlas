@@ -1,6 +1,6 @@
 # chriswritescode-dev/opencode-manager
 
-⭐ 908 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/chriswritescode-dev/opencode-manager) · [官网](https://opencodemanager.app) · 个人维护
+⭐ 908 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/chriswritescode-dev/opencode-manager) · [官网](https://opencodemanager.app) · 个人维护
 
 **自托管 OpenCode 命令中心：网页管理会话、git、终端与定时任务**
 

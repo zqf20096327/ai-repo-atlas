@@ -1,6 +1,6 @@
 # impossibleG/phorminx
 
-⭐ 195 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/impossibleG/phorminx) · [官网](phorminx.net) · 个人维护
+⭐ 193 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/impossibleG/phorminx) · [官网](phorminx.net) · 个人维护
 
 **Windows 本地优先的语音听写与会议转录应用**
 

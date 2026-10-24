@@ -1,6 +1,6 @@
 # daveshap/PostLaborEconomics
 
-⭐ 157 · Python · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/daveshap/PostLaborEconomics) · [官网](https://daveshap.github.io/PostLaborEconomics/) · 个人维护
+⭐ 158 · Python · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/daveshap/PostLaborEconomics) · [官网](https://daveshap.github.io/PostLaborEconomics/) · 个人维护
 
 **后劳动经济学研究资料库：103 篇报告与图表供公开查阅**
 

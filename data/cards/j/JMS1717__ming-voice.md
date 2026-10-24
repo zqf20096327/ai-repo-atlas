@@ -1,6 +1,6 @@
 # JMS1717/ming-voice
 
-⭐ 161 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/JMS1717/ming-voice) · 个人维护 · 中文 README
+⭐ 223 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/JMS1717/ming-voice) · 个人维护 · 中文 README
 
 **AMD/NVIDIA GPU 上本地运行的实时语音助手**
 

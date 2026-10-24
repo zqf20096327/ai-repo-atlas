@@ -1,6 +1,6 @@
 # VisionForge-OU/foreman
 
-⭐ 445 · Python · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/VisionForge-OU/foreman) · 组织维护
+⭐ 443 · Python · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/VisionForge-OU/foreman) · 组织维护
 
 **监督 headless Claude Code agents 的门控交付编排 TUI**
 

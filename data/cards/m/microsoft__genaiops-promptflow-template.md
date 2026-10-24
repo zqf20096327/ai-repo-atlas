@@ -1,6 +1,6 @@
 # microsoft/genaiops-promptflow-template
 
-⭐ 368 · Python · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/genaiops-promptflow-template) · 组织维护
+⭐ 369 · Python · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/genaiops-promptflow-template) · 组织维护
 
 **微软的 Prompt Flow LLMOps 模板：LLM 应用的实验、评估与部署流程**
 

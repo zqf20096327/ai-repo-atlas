@@ -1,6 +1,6 @@
 # datawhalechina/all-in-rag
 
-⭐ 12,484 · Python · 推送 2026-09-30 · [GitHub](https://github.com/datawhalechina/all-in-rag) · [官网](https://datawhalechina.github.io/all-in-rag/) · 组织维护 · 中文 README
+⭐ 12,510 · Python · 推送 2026-09-30 · [GitHub](https://github.com/datawhalechina/all-in-rag) · [官网](https://datawhalechina.github.io/all-in-rag/) · 组织维护 · 中文 README
 
 **面向开发者的 RAG 技术全栈教程与实战项目**
 

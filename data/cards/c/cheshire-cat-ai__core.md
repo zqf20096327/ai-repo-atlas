@@ -1,6 +1,6 @@
 # cheshire-cat-ai/core
 
-⭐ 3,096 · Python · GPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/cheshire-cat-ai/core) · [官网](https://cheshirecat.ai) · 组织维护
+⭐ 3,097 · Python · GPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/cheshire-cat-ai/core) · [官网](https://cheshirecat.ai) · 组织维护
 
 **教学与研究向的 AI agent 微服务框架（v2 alpha）**
 

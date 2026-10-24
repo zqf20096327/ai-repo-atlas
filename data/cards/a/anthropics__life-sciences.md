@@ -1,6 +1,6 @@
 # anthropics/life-sciences
 
-⭐ 626 · Python · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/life-sciences) · 组织维护
+⭐ 625 · Python · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/life-sciences) · 组织维护
 
 **面向生命科学的 Claude Code 插件市场：MCP 服务器与技能集合**
 

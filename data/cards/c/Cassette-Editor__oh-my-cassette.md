@@ -1,6 +1,6 @@
 # Cassette-Editor/oh-my-cassette
 
-⭐ 122 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Cassette-Editor/oh-my-cassette) · [官网](https://cassette-editor.github.io/oh-my-cassette/) · 组织维护 · 中文 README
+⭐ 117 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Cassette-Editor/oh-my-cassette) · [官网](https://cassette-editor.github.io/oh-my-cassette/) · 组织维护 · 中文 README
 
 **让 Claude Code/Codex 等编码 agent 对话式剪辑视频的 MCP 桥接插件**
 

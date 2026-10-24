@@ -1,6 +1,6 @@
 # PunGrumpy/logixlysia
 
-⭐ 271 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/PunGrumpy/logixlysia) · [官网](https://logixlysia.vercel.app) · 个人维护
+⭐ 273 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/PunGrumpy/logixlysia) · [官网](https://logixlysia.vercel.app) · 个人维护
 
 **面向 ElysiaJS 的结构化日志库**
 

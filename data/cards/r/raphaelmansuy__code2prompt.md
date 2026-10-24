@@ -1,6 +1,6 @@
 # raphaelmansuy/code2prompt
 
-⭐ 885 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/raphaelmansuy/code2prompt) · 个人维护
+⭐ 885 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/raphaelmansuy/code2prompt) · 个人维护
 
 **把代码库转换成 LLM 可用 Markdown 提示词的命令行工具**
 

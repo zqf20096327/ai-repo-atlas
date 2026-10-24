@@ -1,6 +1,6 @@
 # chekusu/wanman
 
-⭐ 695 · TypeScript · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/chekusu/wanman) · [官网](http://wanman.ai) · 个人维护
+⭐ 696 · TypeScript · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/chekusu/wanman) · [官网](http://wanman.ai) · 个人维护
 
 **本地多智能体矩阵运行时：编排 Claude Code/Codex 协同工作**
 

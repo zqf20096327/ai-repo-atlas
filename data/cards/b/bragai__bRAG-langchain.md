@@ -1,6 +1,6 @@
 # bragai/bRAG-langchain
 
-⭐ 4,192 · Jupyter Notebook · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/bragai/bRAG-langchain) · [官网](https://bragai.dev) · 个人维护
+⭐ 4,191 · Jupyter Notebook · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/bragai/bRAG-langchain) · [官网](https://bragai.dev) · 个人维护
 
 **RAG 教学笔记本合集：从入门到高级检索的实现指南**
 

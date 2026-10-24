@@ -1,6 +1,6 @@
 # xtekky/gpt4free
 
-⭐ 66,923 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/xtekky/gpt4free) · [官网](https://t.me/g4f_channel) · 个人维护
+⭐ 66,920 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/xtekky/gpt4free) · [官网](https://t.me/g4f_channel) · 个人维护
 
 **聚合多家 LLM 提供商的接入层：统一 API、GUI 与客户端**
 

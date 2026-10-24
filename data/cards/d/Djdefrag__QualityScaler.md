@@ -1,6 +1,6 @@
 # Djdefrag/QualityScaler
 
-⭐ 3,214 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Djdefrag/QualityScaler) · 个人维护
+⭐ 3,216 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Djdefrag/QualityScaler) · 个人维护
 
 **Windows 图像/视频 AI 超分与降噪桌面应用**
 

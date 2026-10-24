@@ -1,6 +1,6 @@
 # TheAlgorithms/C-Plus-Plus
 
-⭐ 34,789 · C++ · MIT · 推送 2026-10-03 · [GitHub](https://github.com/TheAlgorithms/C-Plus-Plus) · [官网](https://thealgorithms.github.io/C-Plus-Plus)
+⭐ 34,792 · C++ · MIT · 推送 2026-10-03 · [GitHub](https://github.com/TheAlgorithms/C-Plus-Plus) · [官网](https://thealgorithms.github.io/C-Plus-Plus)
 
 **面向教学的多领域 C++ 算法实现集合**
 

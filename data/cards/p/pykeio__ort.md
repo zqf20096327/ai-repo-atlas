@@ -1,6 +1,6 @@
 # pykeio/ort
 
-⭐ 2,584 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pykeio/ort) · [官网](https://ort.pyke.io/) · 组织维护
+⭐ 2,585 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pykeio/ort) · [官网](https://ort.pyke.io/) · 组织维护
 
 **Rust 的 ONNX Runtime 封装库：运行与训练 ONNX 模型**
 

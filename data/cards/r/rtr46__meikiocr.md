@@ -1,6 +1,6 @@
 # rtr46/meikiocr
 
-⭐ 100 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rtr46/meikiocr) · 个人维护
+⭐ 101 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rtr46/meikiocr) · 个人维护
 
 **面向日文游戏文本的本地 OCR 管线工具**
 

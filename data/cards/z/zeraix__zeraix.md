@@ -1,6 +1,6 @@
 # zeraix/zeraix
 
-⭐ 411 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zeraix/zeraix) · [官网](https://zeraix.com) · 组织维护
+⭐ 407 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zeraix/zeraix) · [官网](https://zeraix.com) · 组织维护
 
 **开源本地 AI 桌面工作台：本机运行模型、文件、工具与 Agent**
 

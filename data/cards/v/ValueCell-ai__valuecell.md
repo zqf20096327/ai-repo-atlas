@@ -1,6 +1,6 @@
 # ValueCell-ai/valuecell
 
-⭐ 11,027 · Python · Apache-2.0 · 推送 2026-03-09 · [GitHub](https://github.com/ValueCell-ai/valuecell) · [官网](https://valuecell.ai) · 组织维护 · 中文 README
+⭐ 11,029 · Python · Apache-2.0 · 推送 2026-03-09 · [GitHub](https://github.com/ValueCell-ai/valuecell) · [官网](https://valuecell.ai) · 组织维护 · 中文 README
 
 **面向金融投资的多 Agent 平台：选股、研究、跟踪与交易**
 

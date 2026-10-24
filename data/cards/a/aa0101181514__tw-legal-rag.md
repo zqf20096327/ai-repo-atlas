@@ -1,6 +1,6 @@
 # aa0101181514/tw-legal-rag
 
-⭐ 332 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/aa0101181514/tw-legal-rag) · [官网](https://dr-legal.com.tw) · 个人维护 · 中文 README
+⭐ 333 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/aa0101181514/tw-legal-rag) · [官网](https://dr-legal.com.tw) · 个人维护 · 中文 README
 
 **台灣法律語義檢索 MCP 伺服器與 CLI，供 AI 助理調用判決資料**
 

@@ -1,6 +1,6 @@
 # shaRk-033/ai.c
 
-⭐ 126 · C · MIT · 推送 2026-03-11 · [GitHub](https://github.com/shaRk-033/ai.c) · 个人维护
+⭐ 127 · C · MIT · 推送 2026-03-11 · [GitHub](https://github.com/shaRk-033/ai.c) · 个人维护
 
 **纯 C 实现的 GPT-2 训练与生成程序**
 

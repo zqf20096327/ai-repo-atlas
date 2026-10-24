@@ -1,6 +1,6 @@
 # claimed-framework/claimed
 
-⭐ 2,306 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/claimed-framework/claimed) · 组织维护
+⭐ 2,305 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/claimed-framework/claimed) · 组织维护
 
 **把脚本/笔记本编译为容器化 AI 组件与 Kubeflow 流水线的工具**
 

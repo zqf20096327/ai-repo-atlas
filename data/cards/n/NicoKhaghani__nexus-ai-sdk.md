@@ -1,6 +1,6 @@
 # NicoKhaghani/nexus-ai-sdk
 
-⭐ 118 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/NicoKhaghani/nexus-ai-sdk) · 个人维护
+⭐ 113 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/NicoKhaghani/nexus-ai-sdk) · 个人维护
 
 **TypeScript 的 Quest 式 AI 执行编排运行时**
 

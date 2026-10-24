@@ -1,6 +1,6 @@
 # OSU-NLP-Group/UGround
 
-⭐ 322 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/OSU-NLP-Group/UGround) · [官网](https://osu-nlp-group.github.io/UGround/) · 组织维护
+⭐ 321 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/OSU-NLP-Group/UGround) · [官网](https://osu-nlp-group.github.io/UGround/) · 组织维护
 
 **GUI 智能体的通用视觉定位模型（ICLR'25 Oral）**
 

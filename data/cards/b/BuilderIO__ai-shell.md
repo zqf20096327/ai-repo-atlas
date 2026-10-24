@@ -1,6 +1,6 @@
 # BuilderIO/ai-shell
 
-⭐ 5,306 · TypeScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/BuilderIO/ai-shell) · 组织维护 · 中文 README
+⭐ 5,305 · TypeScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/BuilderIO/ai-shell) · 组织维护 · 中文 README
 
 **自然语言转 shell 命令的开源 CLI 工具**
 

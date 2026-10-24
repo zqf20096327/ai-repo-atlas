@@ -1,6 +1,6 @@
 # xiehuan123/dsh-deepread
 
-⭐ 62 · JavaScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/xiehuan123/dsh-deepread) · [官网](https://xiehuan123.github.io/dsh-deepread/) · 个人维护 · 中文 README
+⭐ 63 · JavaScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/xiehuan123/dsh-deepread) · [官网](https://xiehuan123.github.io/dsh-deepread/) · 个人维护 · 中文 README
 
 **面向 AI agent 的证据优先深度阅读技能/插件**
 

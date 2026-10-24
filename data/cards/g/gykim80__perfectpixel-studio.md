@@ -1,6 +1,6 @@
 # gykim80/perfectpixel-studio
 
-⭐ 609 · Go · MIT · 推送 2026-06-22 · [GitHub](https://github.com/gykim80/perfectpixel-studio) · 个人维护 · 中文 README
+⭐ 608 · Go · MIT · 推送 2026-06-22 · [GitHub](https://github.com/gykim80/perfectpixel-studio) · 个人维护 · 中文 README
 
 **游戏开发者的 AI 像素角色动画精灵表生成工作室**
 

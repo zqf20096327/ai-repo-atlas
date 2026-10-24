@@ -1,6 +1,6 @@
 # madrury/py-glm
 
-⭐ 131 · Python · BSD-3-Clause · 推送 2026-10-09 · [GitHub](https://github.com/madrury/py-glm) · 个人维护
+⭐ 131 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/madrury/py-glm) · 个人维护
 
 **Python 广义线性模型库：sklearn 风格拟合、推断与模拟**
 

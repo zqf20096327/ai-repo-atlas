@@ -1,6 +1,6 @@
 # Glade-tool/glade-mcp
 
-⭐ 217 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Glade-tool/glade-mcp) · [官网](https://www.gladekit.com/) · 组织维护
+⭐ 212 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Glade-tool/glade-mcp) · [官网](https://www.gladekit.com/) · 组织维护
 
 **把 MCP AI 客户端接入 Unity/Godot 编辑器的游戏开发工具服务器**
 

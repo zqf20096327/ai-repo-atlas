@@ -1,6 +1,6 @@
 # cardmagic/classifier
 
-⭐ 741 · Ruby · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/cardmagic/classifier) · 个人维护
+⭐ 741 · Ruby · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/cardmagic/classifier) · 个人维护
 
 **Ruby 文本分类库：贝叶斯/LSI/KNN/逻辑回归/TF-IDF**
 

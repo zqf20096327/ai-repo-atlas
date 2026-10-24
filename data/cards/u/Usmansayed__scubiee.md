@@ -1,6 +1,6 @@
 # Usmansayed/scubiee
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Usmansayed/scubiee) · [官网](https://scubiee.com) · 个人维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Usmansayed/scubiee) · [官网](https://scubiee.com) · 个人维护
 
 **本地代码上下文引擎：为 AI 编程代理提供语义化代码检索**
 

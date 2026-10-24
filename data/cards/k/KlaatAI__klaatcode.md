@@ -1,6 +1,6 @@
 # KlaatAI/klaatcode
 
-⭐ 359 · TypeScript · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/KlaatAI/klaatcode) · [官网](https://klaatai.com) · 组织维护
+⭐ 353 · TypeScript · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/KlaatAI/klaatcode) · [官网](https://klaatai.com) · 组织维护
 
 **终端 AI 编程代理，按任务难度自动路由模型档位以降成本**
 

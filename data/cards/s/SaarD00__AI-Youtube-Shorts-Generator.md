@@ -1,6 +1,6 @@
 # SaarD00/AI-Youtube-Shorts-Generator
 
-⭐ 257 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/SaarD00/AI-Youtube-Shorts-Generator) · 个人维护
+⭐ 258 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/SaarD00/AI-Youtube-Shorts-Generator) · 个人维护
 
 **自动生成“无人出镜”短视频的 Python 流水线**
 

@@ -1,6 +1,6 @@
 # ZhgChgLi/linkyee
 
-⭐ 182 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ZhgChgLi/linkyee) · [官网](https://link.zhgchg.li/) · 个人维护 · 中文 README
+⭐ 182 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ZhgChgLi/linkyee) · [官网](https://link.zhgchg.li/) · 个人维护 · 中文 README
 
 **部署在 GitHub Pages 的开源自建 LinkTree 替代链接页**
 

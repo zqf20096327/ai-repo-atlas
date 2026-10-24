@@ -1,6 +1,6 @@
 # hypen-lang/hypen
 
-⭐ 59 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hypen-lang/hypen) · [官网](https://hypen.space) · 组织维护
+⭐ 59 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hypen-lang/hypen) · [官网](https://hypen.space) · 组织维护
 
 **声明式跨平台 UI 语言与引擎，一套 UI 流式渲染到各端**
 

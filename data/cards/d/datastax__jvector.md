@@ -1,6 +1,6 @@
 # datastax/jvector
 
-⭐ 1,755 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/datastax/jvector) · 组织维护
+⭐ 1,757 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/datastax/jvector) · 组织维护
 
 **嵌入式 Java 向量搜索引擎：图索引实现近似最近邻检索**
 

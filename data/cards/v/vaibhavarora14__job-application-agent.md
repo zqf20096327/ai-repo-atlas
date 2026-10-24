@@ -1,6 +1,6 @@
 # vaibhavarora14/job-application-agent
 
-⭐ 162 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vaibhavarora14/job-application-agent) · [官网](https://jobappagent.com) · 个人维护
+⭐ 164 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/vaibhavarora14/job-application-agent) · [官网](https://jobappagent.com) · 个人维护
 
 **给求职者的 Agent 技能与 CLI：搜索、资格判断、按规则投递并追踪申请**
 

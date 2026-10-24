@@ -1,6 +1,6 @@
 # github/codespaces-jupyter
 
-⭐ 912 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/github/codespaces-jupyter) · 组织维护
+⭐ 913 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/github/codespaces-jupyter) · 组织维护
 
 **GitHub Codespaces 的 Jupyter 笔记本起步模板**
 

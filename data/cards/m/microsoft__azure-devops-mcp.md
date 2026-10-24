@@ -1,6 +1,6 @@
 # microsoft/azure-devops-mcp
 
-⭐ 2,065 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/azure-devops-mcp) · 组织维护
+⭐ 2,067 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/azure-devops-mcp) · 组织维护
 
 **让 AI agent 通过 MCP 访问 Azure DevOps 的服务器**
 

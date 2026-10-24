@@ -1,6 +1,6 @@
 # hud-evals/hud-python
 
-⭐ 320 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/hud-evals/hud-python) · [官网](https://www.hud.ai) · 组织维护
+⭐ 320 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hud-evals/hud-python) · [官网](https://www.hud.ai) · 组织维护
 
 **AI agent 的 RL 环境与评测平台：一次定义，跨模型训练评测**
 

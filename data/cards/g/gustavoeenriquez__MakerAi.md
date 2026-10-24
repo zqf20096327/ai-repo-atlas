@@ -1,6 +1,6 @@
 # gustavoeenriquez/MakerAi
 
-⭐ 214 · Pascal · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gustavoeenriquez/MakerAi) · [官网](https://www.youtube.com/@cimamaker3945) · 个人维护
+⭐ 215 · Pascal · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gustavoeenriquez/MakerAi) · [官网](https://www.youtube.com/@cimamaker3945) · 个人维护
 
 **Delphi 原生 AI 应用框架：RAG、自主 Agent、MCP 与多 LLM 接入**
 

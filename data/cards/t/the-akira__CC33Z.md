@@ -1,6 +1,6 @@
 # the-akira/CC33Z
 
-⭐ 70 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/the-akira/CC33Z) · [官网](https://cc33z.pythonanywhere.com) · 个人维护
+⭐ 70 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/the-akira/CC33Z) · [官网](https://cc33z.pythonanywhere.com) · 个人维护
 
 **计算机科学自学课程目录：覆盖算法到机器学习等多学科**
 

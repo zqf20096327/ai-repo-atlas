@@ -1,6 +1,6 @@
 # Myzel394/zsh-copilot
 
-⭐ 177 · Shell · 推送 2026-01-22 · [GitHub](https://github.com/Myzel394/zsh-copilot) · [官网](https://git.myzel394.app/Myzel394/zsh-copilot) · 个人维护
+⭐ 178 · Shell · 推送 2026-01-22 · [GitHub](https://github.com/Myzel394/zsh-copilot) · [官网](https://git.myzel394.app/Myzel394/zsh-copilot) · 个人维护
 
 **Zsh 插件：按快捷键将输入交给 LLM 生成命令建议**
 

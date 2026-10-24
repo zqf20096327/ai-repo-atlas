@@ -1,6 +1,6 @@
 # agenmod/immortal-skill
 
-⭐ 1,114 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/agenmod/immortal-skill) · [官网](https://agenworld.com) · 组织维护 · 中文 README
+⭐ 1,119 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/agenmod/immortal-skill) · [官网](https://agenworld.com) · 组织维护 · 中文 README
 
 **开源数字永生框架：从聊天记录蒸馏任何人的数字分身 Skill**
 

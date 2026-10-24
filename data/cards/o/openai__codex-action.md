@@ -1,6 +1,6 @@
 # openai/codex-action
 
-⭐ 1,278 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/openai/codex-action) · 组织维护
+⭐ 1,280 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/openai/codex-action) · 组织维护
 
 **在 GitHub Actions 中以受限权限运行 Codex CLI 的官方 Action**
 

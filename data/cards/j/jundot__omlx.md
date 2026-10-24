@@ -1,6 +1,6 @@
 # jundot/omlx
 
-⭐ 23,013 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jundot/omlx) · [官网](https://omlx.ai) · 个人维护 · 中文 README
+⭐ 23,030 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/jundot/omlx) · [官网](https://omlx.ai) · 个人维护 · 中文 README
 
 **Apple Silicon 本地 LLM 推理服务器，菜单栏管理，含 SSD 分层 KV 缓存**
 

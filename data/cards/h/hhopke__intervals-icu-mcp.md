@@ -1,6 +1,6 @@
 # hhopke/intervals-icu-mcp
 
-⭐ 104 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/hhopke/intervals-icu-mcp) · 个人维护
+⭐ 106 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/hhopke/intervals-icu-mcp) · 个人维护
 
 **通过 Claude/ChatGPT 等读写 Intervals.icu 训练数据的 MCP 服务器**
 

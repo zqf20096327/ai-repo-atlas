@@ -1,6 +1,6 @@
 # jhaizhou-ops/pinrule
 
-⭐ 67 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/jhaizhou-ops/pinrule) · [官网](https://pypi.org/project/pinrule/) · 个人维护 · 中文 README
+⭐ 70 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/jhaizhou-ops/pinrule) · [官网](https://pypi.org/project/pinrule/) · 个人维护 · 中文 README
 
 **给 AI 编程助手的长期行为规则固定框架：防止长任务中规则漂移**
 

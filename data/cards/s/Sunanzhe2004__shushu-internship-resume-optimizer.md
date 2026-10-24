@@ -1,6 +1,6 @@
 # Sunanzhe2004/shushu-internship-resume-optimizer
 
-⭐ 127 · Python · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/Sunanzhe2004/shushu-internship-resume-optimizer) · 个人维护 · 中文 README
+⭐ 128 · Python · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/Sunanzhe2004/shushu-internship-resume-optimizer) · 个人维护 · 中文 README
 
 **把实习材料转成简历 bullet 与面试叙事的 AI 工具包**
 

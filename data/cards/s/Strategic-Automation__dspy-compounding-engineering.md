@@ -1,6 +1,6 @@
 # Strategic-Automation/dspy-compounding-engineering
 
-⭐ 75 · Python · 推送 2026-06-13 · [GitHub](https://github.com/Strategic-Automation/dspy-compounding-engineering) · [官网](https://strategic-automation.github.io/dspy-compounding-engineering/) · 组织维护
+⭐ 74 · Python · 推送 2026-06-13 · [GitHub](https://github.com/Strategic-Automation/dspy-compounding-engineering) · [官网](https://strategic-automation.github.io/dspy-compounding-engineering/) · 组织维护
 
 **本地优先的 AI 工程代理 CLI：代码审查、规划与工作流自动化并持续积累经验**
 

@@ -1,6 +1,6 @@
 # BlinkDL/RWKV-LM
 
-⭐ 14,759 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/BlinkDL/RWKV-LM) · 个人维护
+⭐ 14,761 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/BlinkDL/RWKV-LM) · 个人维护
 
 **RWKV 线性 RNN 语言模型的参考实现与训练指南**
 

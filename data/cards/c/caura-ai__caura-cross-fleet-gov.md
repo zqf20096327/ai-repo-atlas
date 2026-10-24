@@ -1,6 +1,6 @@
 # caura-ai/caura-cross-fleet-gov
 
-⭐ 64 · PowerShell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/caura-ai/caura-cross-fleet-gov) · 组织维护
+⭐ 56 · PowerShell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/caura-ai/caura-cross-fleet-gov) · 组织维护
 
 **多智能体共享记忆的舰队级隔离治理演示（MemClaw+OpenClaw）**
 

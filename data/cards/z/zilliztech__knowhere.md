@@ -1,6 +1,6 @@
 # zilliztech/knowhere
 
-⭐ 388 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/zilliztech/knowhere) · [官网](https://github.com/milvus-io/milvus) · 组织维护
+⭐ 389 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/zilliztech/knowhere) · [官网](https://github.com/milvus-io/milvus) · 组织维护
 
 **Milvus 内部向量检索引擎核心库，集成多种索引算法**
 

@@ -1,6 +1,6 @@
 # Th0rgal/orb
 
-⭐ 534 · Rust · 推送 2026-10-23 · [GitHub](https://github.com/Th0rgal/orb) · [官网](https://orb.thomas.md) · 个人维护
+⭐ 534 · Rust · 推送 2026-10-24 · [GitHub](https://github.com/Th0rgal/orb) · [官网](https://orb.thomas.md) · 个人维护
 
 **统一管理 AI 订阅、机器与 agent 运行的 macOS/iOS 客户端**
 

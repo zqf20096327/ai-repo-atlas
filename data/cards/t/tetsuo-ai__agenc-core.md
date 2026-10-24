@@ -1,6 +1,6 @@
 # tetsuo-ai/agenc-core
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tetsuo-ai/agenc-core) · [官网](https://get.agenc.ag) · 组织维护
+⭐ 57 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tetsuo-ai/agenc-core) · [官网](https://get.agenc.ag) · 组织维护
 
 **开源终端 AI 编程 agent，支持 17+ 模型提供商与本地模型**
 

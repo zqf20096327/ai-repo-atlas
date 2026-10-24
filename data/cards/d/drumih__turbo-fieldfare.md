@@ -1,6 +1,6 @@
 # drumih/turbo-fieldfare
 
-⭐ 7,004 · Swift · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/drumih/turbo-fieldfare) · 个人维护
+⭐ 7,028 · Swift · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/drumih/turbo-fieldfare) · 个人维护
 
 **让 8GB Mac 以约 2GB 内存运行 Gemma 4 26B 的 Swift+Metal 推理运行时**
 

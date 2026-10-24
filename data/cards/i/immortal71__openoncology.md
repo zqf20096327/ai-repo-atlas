@@ -1,6 +1,6 @@
 # immortal71/openoncology
 
-⭐ 62 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/immortal71/openoncology) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/immortal71/openoncology) · 个人维护
 
 **自托管精准肿瘤平台：从患者变异谱生成候选药物排序**
 

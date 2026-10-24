@@ -1,6 +1,6 @@
 # microsoft/OpenAIWorkshop
 
-⭐ 898 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/OpenAIWorkshop) · 组织维护
+⭐ 898 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/OpenAIWorkshop) · 组织维护
 
 **微软官方 AI Agent 工作坊：基于 Azure 的智能体方案教学材料**
 

@@ -1,6 +1,6 @@
 # gzxx-2025/aid-studio
 
-⭐ 1,105 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/gzxx-2025/aid-studio) · [官网](https://www.aidstudio.com.cn/) · 组织维护 · 中文 README
+⭐ 1,116 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/gzxx-2025/aid-studio) · [官网](https://www.aidstudio.com.cn/) · 组织维护 · 中文 README
 
 **自托管 AI 漫剧/短剧/电影/漫画创作平台**
 

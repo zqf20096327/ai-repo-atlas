@@ -1,6 +1,6 @@
 # Leonxlnx/unlazy
 
-⭐ 4,073 · JavaScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Leonxlnx/unlazy) · 个人维护
+⭐ 4,096 · JavaScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Leonxlnx/unlazy) · 个人维护
 
 **给 AI agent 的反偷懒技能：验收台账先行、可运行门禁与复审**
 

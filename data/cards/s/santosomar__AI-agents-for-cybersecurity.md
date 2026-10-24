@@ -1,6 +1,6 @@
 # santosomar/AI-agents-for-cybersecurity
 
-⭐ 254 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/santosomar/AI-agents-for-cybersecurity) · 个人维护
+⭐ 256 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/santosomar/AI-agents-for-cybersecurity) · 个人维护
 
 **面向安全团队的 AI agent 实战代码、实验与参考资料库**
 

@@ -1,6 +1,6 @@
 # wangxin6x/AutoVideo-Agent
 
-⭐ 91 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/wangxin6x/AutoVideo-Agent) · 个人维护 · 中文 README
+⭐ 90 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/wangxin6x/AutoVideo-Agent) · 个人维护 · 中文 README
 
 **给编码 Agent 用的 Markdown 转视频流水线工具**
 

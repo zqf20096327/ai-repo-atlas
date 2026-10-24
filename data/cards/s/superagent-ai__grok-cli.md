@@ -1,6 +1,6 @@
 # superagent-ai/grok-cli
 
-⭐ 3,498 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/superagent-ai/grok-cli) · 组织维护
+⭐ 3,499 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/superagent-ai/grok-cli) · 组织维护
 
 **面向开发者的终端 AI 编程代理，接入 xAI Grok API**
 

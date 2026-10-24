@@ -1,6 +1,6 @@
 # ShiftHackZ/Stable-Diffusion-KMP
 
-⭐ 1,280 · Kotlin · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/ShiftHackZ/Stable-Diffusion-KMP) · [官网](https://sdai.moroz.cc) · 组织维护
+⭐ 1,281 · Kotlin · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/ShiftHackZ/Stable-Diffusion-KMP) · [官网](https://sdai.moroz.cc) · 组织维护
 
 **Android/iOS 上的 Stable Diffusion 图像生成客户端，多后端接入**
 

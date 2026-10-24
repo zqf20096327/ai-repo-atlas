@@ -1,6 +1,6 @@
 # tryAGI/HuggingFace
 
-⭐ 58 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tryAGI/HuggingFace) · [官网](https://tryagi.github.io/HuggingFace/) · 组织维护
+⭐ 58 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tryAGI/HuggingFace) · [官网](https://tryagi.github.io/HuggingFace/) · 组织维护
 
 **面向 .NET 开发者的 Hugging Face API C# SDK**
 

@@ -1,6 +1,6 @@
 # dmlc/dlpack
 
-⭐ 1,258 · C++ · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/dmlc/dlpack) · [官网](https://dmlc.github.io/dlpack/latest) · 组织维护
+⭐ 1,257 · C++ · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/dmlc/dlpack) · [官网](https://dmlc.github.io/dlpack/latest) · 组织维护
 
 **跨深度学习框架共享张量的开放内存张量结构规范**
 

@@ -1,6 +1,6 @@
 # liuyueyi/spring-ai-demo
 
-⭐ 144 · Java · 推送 2026-07-31 · [GitHub](https://github.com/liuyueyi/spring-ai-demo) · [官网](https://ppai.top) · 个人维护 · 中文 README
+⭐ 145 · Java · 推送 2026-07-31 · [GitHub](https://github.com/liuyueyi/spring-ai-demo) · [官网](https://ppai.top) · 个人维护 · 中文 README
 
 **Java 开发者的 SpringAI 大模型应用与 Agent 示例工程集**
 

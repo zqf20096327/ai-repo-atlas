@@ -1,6 +1,6 @@
 # mrtinkz/ai-charter
 
-⭐ 101 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/mrtinkz/ai-charter) · [官网](https://mrtinkz.github.io/ai-charter/) · 个人维护
+⭐ 99 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/mrtinkz/ai-charter) · [官网](https://mrtinkz.github.io/ai-charter/) · 个人维护
 
 **通用 AI 宪章与模型认证登记公开站点**
 

@@ -1,6 +1,6 @@
 # vueuse/skills
 
-⭐ 399 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/vueuse/skills) · 组织维护
+⭐ 400 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/vueuse/skills) · 组织维护
 
 **帮助 AI agent 准确使用 VueUse 的技能包**
 

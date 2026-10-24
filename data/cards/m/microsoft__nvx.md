@@ -1,6 +1,6 @@
 # microsoft/nvx
 
-⭐ 747 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/nvx) · 组织维护
+⭐ 754 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/nvx) · 组织维护
 
 **面向 agent 工作负载的超轻量 micro-VM 沙箱，硬件级隔离**
 

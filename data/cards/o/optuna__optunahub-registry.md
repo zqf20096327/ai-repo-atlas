@@ -1,6 +1,6 @@
 # optuna/optunahub-registry
 
-⭐ 58 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/optuna/optunahub-registry) · [官网](https://hub.optuna.org) · 组织维护
+⭐ 59 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/optuna/optunahub-registry) · [官网](https://hub.optuna.org) · 组织维护
 
 **Optuna 优化包的共享与发现注册表服务**
 

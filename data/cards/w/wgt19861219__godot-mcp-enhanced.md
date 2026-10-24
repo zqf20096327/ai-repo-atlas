@@ -1,6 +1,6 @@
 # wgt19861219/godot-mcp-enhanced
 
-⭐ 102 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/wgt19861219/godot-mcp-enhanced) · [官网](https://godotengine.org/asset-library/asset?user=wgt19861219) · 个人维护 · 中文 README
+⭐ 103 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/wgt19861219/godot-mcp-enhanced) · [官网](https://godotengine.org/asset-library/asset?user=wgt19861219) · 个人维护 · 中文 README
 
 **面向 AI 客户端的 Godot 4.5-4.7 MCP 工具服务器**
 

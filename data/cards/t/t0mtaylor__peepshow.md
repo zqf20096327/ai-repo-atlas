@@ -1,6 +1,6 @@
 # t0mtaylor/peepshow
 
-⭐ 68 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/t0mtaylor/peepshow) · 个人维护
+⭐ 69 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/t0mtaylor/peepshow) · 个人维护
 
 **把视频/动图抽成帧时间轴与音频转录，供 LLM 查看**
 

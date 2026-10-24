@@ -1,6 +1,6 @@
 # artbyjazi/autoclip
 
-⭐ 197 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/artbyjazi/autoclip) · 个人维护
+⭐ 200 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/artbyjazi/autoclip) · 个人维护
 
 **本地优先的开源 AI 视频剪辑器：长视频转竖屏短视频**
 

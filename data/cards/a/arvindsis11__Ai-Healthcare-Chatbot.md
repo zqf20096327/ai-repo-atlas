@@ -1,6 +1,6 @@
 # arvindsis11/Ai-Healthcare-Chatbot
 
-⭐ 147 · Python · 推送 2026-06-12 · [GitHub](https://github.com/arvindsis11/Ai-Healthcare-Chatbot) · [官网](https://ai-healthcare-frontend.onrender.com/) · 个人维护
+⭐ 148 · Python · 推送 2026-06-12 · [GitHub](https://github.com/arvindsis11/Ai-Healthcare-Chatbot) · [官网](https://ai-healthcare-frontend.onrender.com/) · 个人维护
 
 **面向患者与医疗场景的 RAG 医疗健康问答聊天机器人平台**
 

@@ -1,6 +1,6 @@
 # 869413421/ai-moive-studio
 
-⭐ 1,621 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/869413421/ai-moive-studio) · [官网](https://aicon-studio.com) · 个人维护 · 中文 README
+⭐ 1,633 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/869413421/ai-moive-studio) · [官网](https://aicon-studio.com) · 个人维护 · 中文 README
 
 **自然语言驱动的无限画布 AI 视频创作工作台**
 

@@ -1,6 +1,6 @@
 # milanm/AutoGrad-Engine
 
-⭐ 401 · C# · MIT · 推送 2026-02-14 · [GitHub](https://github.com/milanm/AutoGrad-Engine) · 个人维护
+⭐ 402 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/milanm/AutoGrad-Engine) · 个人维护
 
 **约600行纯 C# 实现的 GPT 训练与生成教学项目**
 

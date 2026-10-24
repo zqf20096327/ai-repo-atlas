@@ -1,6 +1,6 @@
 # cyanheads/mcp-ts-core
 
-⭐ 152 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/cyanheads/mcp-ts-core) · [官网](https://www.npmjs.com/package/@cyanheads/mcp-ts-core) · 个人维护
+⭐ 152 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/cyanheads/mcp-ts-core) · [官网](https://www.npmjs.com/package/@cyanheads/mcp-ts-core) · 个人维护
 
 **给开发者的 TypeScript MCP 服务器构建框架**
 

@@ -1,6 +1,6 @@
 # capture0x/AdStrike
 
-⭐ 387 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/capture0x/AdStrike) · [官网](https://adstrike.oxcapture.com) · 个人维护
+⭐ 388 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/capture0x/AdStrike) · [官网](https://adstrike.oxcapture.com) · 个人维护
 
 **模块化 Active Directory 红队攻击框架，含 AI 助手与 MCP 接入**
 

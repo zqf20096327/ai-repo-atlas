@@ -1,6 +1,6 @@
 # warmsum/deepseek-harness-python-tutorial
 
-⭐ 138 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/warmsum/deepseek-harness-python-tutorial) · 个人维护 · 中文 README
+⭐ 139 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/warmsum/deepseek-harness-python-tutorial) · 个人维护 · 中文 README
 
 **用 Python 从零实现 DeepSeek Harness 核心机制的 17 章中文教程**
 

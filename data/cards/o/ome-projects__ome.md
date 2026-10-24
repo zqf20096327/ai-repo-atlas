@@ -1,6 +1,6 @@
 # ome-projects/ome
 
-⭐ 520 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ome-projects/ome) · [官网](http://ome-projects.github.io/ome/) · 组织维护
+⭐ 520 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ome-projects/ome) · [官网](http://ome-projects.github.io/ome/) · 组织维护
 
 **面向企业的 LLM 服务 Kubernetes Operator：模型管理与 GPU 调度**
 

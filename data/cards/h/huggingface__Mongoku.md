@@ -1,6 +1,6 @@
 # huggingface/Mongoku
 
-⭐ 1,427 · Svelte · MIT · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/Mongoku) · 组织维护
+⭐ 1,427 · Svelte · MIT · 推送 2026-10-24 · [GitHub](https://github.com/huggingface/Mongoku) · 组织维护
 
 **基于浏览器的 MongoDB Web 管理客户端**
 

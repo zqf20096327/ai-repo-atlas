@@ -1,6 +1,6 @@
 # projectdiscovery/openrisk
 
-⭐ 181 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/projectdiscovery/openrisk) · 组织维护
+⭐ 181 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/projectdiscovery/openrisk) · 组织维护
 
 **读取 Nuclei 扫描结果并用 GPT-4o 生成主机风险评分的工具**
 

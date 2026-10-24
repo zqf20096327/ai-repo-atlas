@@ -1,6 +1,6 @@
 # rokoss21/soul.md
 
-⭐ 159 · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/rokoss21/soul.md) · [官网](https://github.com/rokoss21/soul.md) · 个人维护
+⭐ 158 · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/rokoss21/soul.md) · [官网](https://github.com/rokoss21/soul.md) · 个人维护
 
 **AI agent 人设的跨平台可移植规范（Soul.md RFC-1）**
 

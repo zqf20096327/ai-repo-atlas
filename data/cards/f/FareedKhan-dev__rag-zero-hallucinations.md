@@ -1,6 +1,6 @@
 # FareedKhan-dev/rag-zero-hallucinations
 
-⭐ 172 · Jupyter Notebook · MIT · 推送 2026-06-08 · [GitHub](https://github.com/FareedKhan-dev/rag-zero-hallucinations) · 个人维护
+⭐ 171 · Jupyter Notebook · MIT · 推送 2026-06-08 · [GitHub](https://github.com/FareedKhan-dev/rag-zero-hallucinations) · 个人维护
 
 **教程：构建千万级文档、低幻觉并带引用的 RAG 管线**
 

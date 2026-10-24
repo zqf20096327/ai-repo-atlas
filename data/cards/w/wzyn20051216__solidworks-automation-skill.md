@@ -1,6 +1,6 @@
 # wzyn20051216/solidworks-automation-skill
 
-⭐ 1,418 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wzyn20051216/solidworks-automation-skill) · 个人维护 · 中文 README
+⭐ 1,444 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wzyn20051216/solidworks-automation-skill) · 个人维护 · 中文 README
 
 **让 AI Agent 用自然语言驱动 SolidWorks/AutoCAD 的 Skill+MCP 工具集**
 

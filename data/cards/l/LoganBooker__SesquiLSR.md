@@ -1,6 +1,6 @@
 # LoganBooker/SesquiLSR
 
-⭐ 114 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/LoganBooker/SesquiLSR) · 个人维护
+⭐ 115 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/LoganBooker/SesquiLSR) · 个人维护
 
 **SDXL/Flux/Wan 等扩散模型的任意倍率隐空间放大器**
 

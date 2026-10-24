@@ -1,6 +1,6 @@
 # Temaki-AI/clawd-control
 
-⭐ 115 · HTML · MIT · 推送 2026-02-28 · [GitHub](https://github.com/Temaki-AI/clawd-control) · [官网](https://clawdcontrol.com) · 组织维护
+⭐ 114 · HTML · MIT · 推送 2026-02-28 · [GitHub](https://github.com/Temaki-AI/clawd-control) · [官网](https://clawdcontrol.com) · 组织维护
 
 **监控管理 Clawdbot AI agent 集群的实时仪表盘**
 

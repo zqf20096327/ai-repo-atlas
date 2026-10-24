@@ -1,6 +1,6 @@
 # navilg/media-stack
 
-⭐ 1,252 · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/navilg/media-stack) · 个人维护
+⭐ 1,253 · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/navilg/media-stack) · 个人维护
 
 **自托管媒体管理与流媒体全家桶，可选 AI 影视推荐**
 

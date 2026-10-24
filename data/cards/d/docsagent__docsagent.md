@@ -1,6 +1,6 @@
 # docsagent/docsagent
 
-⭐ 577 · TypeScript · 推送 2026-09-28 · [GitHub](https://github.com/docsagent/docsagent) · 组织维护
+⭐ 578 · TypeScript · 推送 2026-09-28 · [GitHub](https://github.com/docsagent/docsagent) · 组织维护
 
 **让 AI agent 私密检索 Zotero/Obsidian/Apple Notes 的 MCP 服务器**
 

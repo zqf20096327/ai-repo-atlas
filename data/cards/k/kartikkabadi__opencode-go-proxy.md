@@ -1,6 +1,6 @@
 # kartikkabadi/opencode-go-proxy
 
-⭐ 91 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/kartikkabadi/opencode-go-proxy) · [官网](https://opencode.ai/docs/go) · 个人维护
+⭐ 92 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/kartikkabadi/opencode-go-proxy) · [官网](https://opencode.ai/docs/go) · 个人维护
 
 **让 Codex 应用调用 OpenCode Go 订阅模型的本地协议桥接代理**
 

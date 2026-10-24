@@ -1,6 +1,6 @@
 # vercel-labs/open-agents
 
-⭐ 5,860 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/vercel-labs/open-agents) · [官网](https://open-agents.dev) · 组织维护
+⭐ 5,862 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/vercel-labs/open-agents) · [官网](https://open-agents.dev) · 组织维护
 
 **在 Vercel 上构建后台编码 agent 的开源参考应用模板**
 

@@ -1,6 +1,6 @@
 # guan-ops/Agent-Signal-Bar
 
-⭐ 70 · Swift · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/guan-ops/Agent-Signal-Bar) · [官网](https://agentsignalbar.app) · 个人维护 · 中文 README
+⭐ 71 · Swift · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/guan-ops/Agent-Signal-Bar) · [官网](https://agentsignalbar.app) · 个人维护 · 中文 README
 
 **macOS 状态栏/桌面悬浮 AI Agent 信号灯，监控 Codex 与 Claude Code**
 

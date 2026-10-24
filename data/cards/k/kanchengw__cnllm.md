@@ -1,6 +1,6 @@
 # kanchengw/cnllm
 
-⭐ 173 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/kanchengw/cnllm) · 个人维护 · 中文 README
+⭐ 171 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/kanchengw/cnllm) · 个人维护 · 中文 README
 
 **中文大模型统一 OpenAI 兼容接口的 Python 适配工具包**
 

@@ -1,6 +1,6 @@
 # autohandai/commander
 
-⭐ 86 · TypeScript · 推送 2026-06-09 · [GitHub](https://github.com/autohandai/commander) · [官网](https://www.autohand.ai/commander) · 组织维护
+⭐ 87 · TypeScript · 推送 2026-06-09 · [GitHub](https://github.com/autohandai/commander) · [官网](https://www.autohand.ai/commander) · 组织维护
 
 **编排多个 CLI 编码代理的本地 Tauri 桌面端**
 

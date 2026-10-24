@@ -1,6 +1,6 @@
 # ashishps1/learn-ai-engineering
 
-⭐ 6,140 · GPL-3.0 · 推送 2026-02-05 · [GitHub](https://github.com/ashishps1/learn-ai-engineering) · 个人维护
+⭐ 6,145 · GPL-3.0 · 推送 2026-02-05 · [GitHub](https://github.com/ashishps1/learn-ai-engineering) · 个人维护
 
 **免费资源清单：系统学习 AI/ML、LLM 与 Agent 的课程与论文汇编**
 

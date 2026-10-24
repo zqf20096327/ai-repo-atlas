@@ -1,6 +1,6 @@
 # mw00/project-maya
 
-⭐ 1,646 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mw00/project-maya) · [官网](https://huggingface.co/peasantsmith) · 个人维护
+⭐ 1,748 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mw00/project-maya) · [官网](https://huggingface.co/peasantsmith) · 个人维护
 
 **在自有 GPU 上私有运行 GLM-5.3-Flash/DeepSeek-V4.1-Flash 的推理套件**
 

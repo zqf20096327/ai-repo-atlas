@@ -1,6 +1,6 @@
 # Pyenb/Ollama-models
 
-⭐ 95 · Shell · GPL-3.0 · 推送 2025-11-02 · [GitHub](https://github.com/Pyenb/Ollama-models) · [官网](https://data.pyenb.network/Github/Ollama/models/) · 个人维护
+⭐ 96 · Shell · GPL-3.0 · 推送 2025-11-02 · [GitHub](https://github.com/Pyenb/Ollama-models) · [官网](https://data.pyenb.network/Github/Ollama/models/) · 个人维护
 
 **Ollama 模型离线分发仓库：下载解压即用**
 

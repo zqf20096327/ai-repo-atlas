@@ -1,6 +1,6 @@
 # AashishH15/Lexicon
 
-⭐ 220 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AashishH15/Lexicon) · [官网](https://lexicon-writer.pages.dev/) · 个人维护
+⭐ 221 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AashishH15/Lexicon) · [官网](https://lexicon-writer.pages.dev/) · 个人维护
 
 **离线优先的本地写作助手：校对、改写与语气调整全在本机**
 

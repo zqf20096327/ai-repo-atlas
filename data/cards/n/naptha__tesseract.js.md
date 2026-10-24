@@ -1,6 +1,6 @@
 # naptha/tesseract.js
 
-⭐ 38,789 · JavaScript · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/naptha/tesseract.js) · [官网](http://tesseract.projectnaptha.com/) · 个人维护
+⭐ 38,790 · JavaScript · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/naptha/tesseract.js) · [官网](http://tesseract.projectnaptha.com/) · 个人维护
 
 **JS 库：浏览器/Node 从图片识别 100+ 语言文字**
 

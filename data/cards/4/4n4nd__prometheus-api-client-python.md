@@ -1,6 +1,6 @@
 # 4n4nd/prometheus-api-client-python
 
-⭐ 277 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/4n4nd/prometheus-api-client-python) · 组织维护
+⭐ 277 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/4n4nd/prometheus-api-client-python) · 组织维护
 
 **Prometheus HTTP API 的 Python 封装库，用于获取与处理监控指标**
 

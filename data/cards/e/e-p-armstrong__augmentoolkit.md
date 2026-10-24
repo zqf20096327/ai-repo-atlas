@@ -1,6 +1,6 @@
 # e-p-armstrong/augmentoolkit
 
-⭐ 1,872 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/e-p-armstrong/augmentoolkit) · 个人维护
+⭐ 1,871 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/e-p-armstrong/augmentoolkit) · 个人维护
 
 **用自有文档生成训练数据并微调领域专家 LLM 的工具包**
 

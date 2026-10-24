@@ -1,6 +1,6 @@
 # prapaa-ai/agav
 
-⭐ 170 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/prapaa-ai/agav) · [官网](https://agav.dev) · 组织维护
+⭐ 170 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/prapaa-ai/agav) · [官网](https://agav.dev) · 组织维护
 
 **终端 AI 编程代理：在 CLI 中读写代码、跑测试、验证修改**
 

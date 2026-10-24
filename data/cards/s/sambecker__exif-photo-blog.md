@@ -1,6 +1,6 @@
 # sambecker/exif-photo-blog
 
-⭐ 1,728 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/sambecker/exif-photo-blog) · [官网](https://photos.sambecker.com) · 个人维护
+⭐ 1,728 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/sambecker/exif-photo-blog) · [官网](https://photos.sambecker.com) · 个人维护
 
 **基于 Next.js 的照片博客，展示每张照片的 EXIF 相机参数**
 

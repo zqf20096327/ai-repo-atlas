@@ -1,6 +1,6 @@
 # oaslananka/kicad-mcp-pro
 
-⭐ 146 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/oaslananka/kicad-mcp-pro) · [官网](https://oaslananka.github.io/kicad-mcp-pro/) · 个人维护
+⭐ 149 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/oaslananka/kicad-mcp-pro) · [官网](https://oaslananka.github.io/kicad-mcp-pro/) · 个人维护
 
 **连接 AI agent 与 KiCad 电路设计的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # AaronWong1999/hermesclaw
 
-⭐ 750 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AaronWong1999/hermesclaw) · 个人维护 · 中文 README
+⭐ 749 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AaronWong1999/hermesclaw) · 个人维护 · 中文 README
 
 **让三个 AI Agent 共用同一微信账号的转发代理**
 

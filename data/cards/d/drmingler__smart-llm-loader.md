@@ -1,6 +1,6 @@
 # drmingler/smart-llm-loader
 
-⭐ 280 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/drmingler/smart-llm-loader) · 个人维护
+⭐ 278 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/drmingler/smart-llm-loader) · 个人维护
 
 **把各类文档转为 LLM 可用 chunk 的 Python 文档处理库**
 

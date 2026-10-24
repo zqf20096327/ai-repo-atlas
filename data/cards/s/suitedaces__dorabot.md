@@ -1,6 +1,6 @@
 # suitedaces/dorabot
 
-⭐ 246 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/suitedaces/dorabot) · [官网](https://dora.so) · 组织维护
+⭐ 247 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/suitedaces/dorabot) · [官网](https://dora.so) · 组织维护
 
 **macOS 常驻自主 AI agent 桌面应用，带 IDE 工作区与多渠道消息**
 

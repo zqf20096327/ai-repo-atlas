@@ -1,6 +1,6 @@
 # fashn-AI/fashn-human-parser
 
-⭐ 59 · Python · NOASSERTION · 推送 2026-01-10 · [GitHub](https://github.com/fashn-AI/fashn-human-parser) · [官网](https://fashn.ai/) · 组织维护
+⭐ 60 · Python · NOASSERTION · 推送 2026-01-10 · [GitHub](https://github.com/fashn-AI/fashn-human-parser) · [官网](https://fashn.ai/) · 组织维护
 
 **时尚/虚拟试穿用人体解析库：输出 18 类语义分割掩码**
 

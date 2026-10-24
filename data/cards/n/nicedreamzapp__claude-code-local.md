@@ -1,6 +1,6 @@
 # nicedreamzapp/claude-code-local
 
-⭐ 3,377 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nicedreamzapp/claude-code-local) · [官网](https://www.youtube.com/@nicedreamzapps) · 个人维护
+⭐ 3,378 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nicedreamzapp/claude-code-local) · [官网](https://www.youtube.com/@nicedreamzapps) · 个人维护
 
 **在 Apple Silicon Mac 上本地运行开源模型驱动 Claude Code 的 MLX 服务器**
 

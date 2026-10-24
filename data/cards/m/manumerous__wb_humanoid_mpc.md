@@ -1,6 +1,6 @@
 # manumerous/wb_humanoid_mpc
 
-⭐ 384 · C++ · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/manumerous/wb_humanoid_mpc) · 个人维护
+⭐ 385 · C++ · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/manumerous/wb_humanoid_mpc) · 个人维护
 
 **人形机器人全身非线性 MPC 规划与控制框架**
 

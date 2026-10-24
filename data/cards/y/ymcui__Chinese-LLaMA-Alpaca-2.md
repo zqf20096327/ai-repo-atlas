@@ -1,6 +1,6 @@
 # ymcui/Chinese-LLaMA-Alpaca-2
 
-⭐ 7,101 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) · 组织维护 · 中文 README
+⭐ 7,100 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) · 组织维护 · 中文 README
 
 **基于 Llama-2 的中文扩充开源大模型系列（含 64K 长上下文与 RLHF 版）**
 

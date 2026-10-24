@@ -1,6 +1,6 @@
 # pinecone-io/examples
 
-⭐ 3,050 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pinecone-io/examples) · [官网](https://docs.pinecone.io) · 组织维护
+⭐ 3,049 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pinecone-io/examples) · [官网](https://docs.pinecone.io) · 组织维护
 
 **Pinecone 向量数据库的示例应用与 Jupyter Notebook 合集**
 

@@ -1,6 +1,6 @@
 # hank-ai/darknet
 
-⭐ 857 · C++ · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/hank-ai/darknet) · [官网](https://www.ccoderun.ca/darknet/) · 组织维护
+⭐ 858 · C++ · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/hank-ai/darknet) · [官网](https://www.ccoderun.ca/darknet/) · 组织维护
 
 **C/C++/CUDA 实现的 Darknet/YOLO 目标检测框架**
 

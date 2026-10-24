@@ -1,6 +1,6 @@
 # zilliztech/memsearch
 
-⭐ 2,782 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zilliztech/memsearch) · [官网](https://zilliztech.github.io/memsearch/) · 组织维护 · 中文 README
+⭐ 2,787 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zilliztech/memsearch) · [官网](https://zilliztech.github.io/memsearch/) · 组织维护 · 中文 README
 
 **跨 AI 编程 agent 的持久统一记忆层（Markdown+Milvus）**
 

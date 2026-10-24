@@ -1,6 +1,6 @@
 # MaoXiaoYuZ/Long-Novel-GPT
 
-⭐ 1,247 · Python · 推送 2025-11-05 · [GitHub](https://github.com/MaoXiaoYuZ/Long-Novel-GPT) · 个人维护 · 中文 README
+⭐ 1,248 · Python · 推送 2025-11-05 · [GitHub](https://github.com/MaoXiaoYuZ/Long-Novel-GPT) · 个人维护 · 中文 README
 
 **基于 LLM+RAG 的长篇小说生成器，供网文创作者使用**
 

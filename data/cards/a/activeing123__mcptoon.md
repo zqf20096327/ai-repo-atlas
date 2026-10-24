@@ -1,6 +1,6 @@
 # activeing123/mcptoon
 
-⭐ 377 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/activeing123/mcptoon) · [官网](https://mcptoon.github.io/) · 个人维护 · 中文 README
+⭐ 382 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/activeing123/mcptoon) · [官网](https://mcptoon.github.io/) · 个人维护 · 中文 README
 
 **零依赖 CLI：统一管理 MCP 工具与技能，压缩上下文占用**
 

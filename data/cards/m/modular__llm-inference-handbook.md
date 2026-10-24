@@ -1,6 +1,6 @@
 # modular/llm-inference-handbook
 
-⭐ 462 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/modular/llm-inference-handbook) · [官网](https://handbook.modular.com/) · 组织维护
+⭐ 464 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modular/llm-inference-handbook) · [官网](https://handbook.modular.com/) · 组织维护
 
 **LLM 推理系统的实践指南（Docusaurus 站点源码）**
 

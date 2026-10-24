@@ -1,6 +1,6 @@
 # towardsai/ragbook-notebooks
 
-⭐ 559 · Jupyter Notebook · 推送 2026-10-09 · [GitHub](https://github.com/towardsai/ragbook-notebooks) · [官网](https://academy.towardsai.net/courses/buildingllmsforproduction) · 组织维护
+⭐ 560 · Jupyter Notebook · 推送 2026-10-09 · [GitHub](https://github.com/towardsai/ragbook-notebooks) · [官网](https://academy.towardsai.net/courses/buildingllmsforproduction) · 组织维护
 
 **Towards AI RAG 图书配套的 Jupyter notebook 代码集**
 

@@ -1,6 +1,6 @@
 # thuml/OpenLTM
 
-⭐ 567 · Jupyter Notebook · MIT · 推送 2026-03-22 · [GitHub](https://github.com/thuml/OpenLTM) · 组织维护 · 中文 README
+⭐ 568 · Jupyter Notebook · MIT · 推送 2026-03-22 · [GitHub](https://github.com/thuml/OpenLTM) · 组织维护 · 中文 README
 
 **大型时间序列模型的实现、预训练代码与数据集代码库**
 

@@ -1,6 +1,6 @@
 # tadata-org/fastapi_mcp
 
-⭐ 12,024 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/tadata-org/fastapi_mcp) · [官网](https://fastapi-mcp.tadata.com/) · 组织维护
+⭐ 12,022 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/tadata-org/fastapi_mcp) · [官网](https://fastapi-mcp.tadata.com/) · 组织维护
 
 **将 FastAPI 端点暴露为 MCP 工具的 Python 库**
 

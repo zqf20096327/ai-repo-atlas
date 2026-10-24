@@ -1,6 +1,6 @@
 # MoonshotAI/kimi-code
 
-⭐ 7,974 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MoonshotAI/kimi-code) · [官网](https://www.kimi.com/code/docs/) · 组织维护 · 中文 README
+⭐ 8,000 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MoonshotAI/kimi-code) · [官网](https://www.kimi.com/code/docs/) · 组织维护 · 中文 README
 
 **终端 AI 编程代理：读写代码、执行命令、自主选择下一步**
 

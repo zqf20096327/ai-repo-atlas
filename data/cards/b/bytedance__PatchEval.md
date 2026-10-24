@@ -1,6 +1,6 @@
 # bytedance/PatchEval
 
-⭐ 233 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/bytedance/PatchEval) · [官网](https://patcheval.github.io/) · 组织维护 · 中文 README
+⭐ 234 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/bytedance/PatchEval) · [官网](https://patcheval.github.io/) · 组织维护 · 中文 README
 
 **评测 LLM/Agent 修复真实漏洞能力的基准（230 个 CVE）**
 

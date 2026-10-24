@@ -1,6 +1,6 @@
 # Faceplugin-ltd/Face-Recognition-SDK
 
-⭐ 56 · 推送 2026-09-21 · [GitHub](https://github.com/Faceplugin-ltd/Face-Recognition-SDK) · [官网](https://faceplugin.com/face-recognition/) · 组织维护
+⭐ 57 · 推送 2026-09-21 · [GitHub](https://github.com/Faceplugin-ltd/Face-Recognition-SDK) · [官网](https://faceplugin.com/face-recognition/) · 组织维护
 
 **本地化人脸识别与活体检测 SDK 产品集线器，面向 KYC/门禁**
 

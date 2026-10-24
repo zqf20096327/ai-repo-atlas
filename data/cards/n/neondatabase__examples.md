@@ -1,6 +1,6 @@
 # neondatabase/examples
 
-⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/neondatabase/examples) · [官网](https://fuzzy-semantic-search-nextjs-theta.vercel.app) · 组织维护
+⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/neondatabase/examples) · [官网](https://fuzzy-semantic-search-nextjs-theta.vercel.app) · 组织维护
 
 **Neon 云 Postgres 的集成示例与起步工程合集**
 

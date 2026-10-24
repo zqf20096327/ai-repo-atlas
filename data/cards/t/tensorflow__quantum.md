@@ -1,6 +1,6 @@
 # tensorflow/quantum
 
-⭐ 2,200 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/tensorflow/quantum) · [官网](https://www.tensorflow.org/quantum) · 组织维护
+⭐ 2,200 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tensorflow/quantum) · [官网](https://www.tensorflow.org/quantum) · 组织维护
 
 **混合量子-经典机器学习 Python 框架，面向量子算法研究者**
 

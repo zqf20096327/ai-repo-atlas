@@ -1,6 +1,6 @@
 # mosaicml/llm-foundry
 
-⭐ 4,460 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/mosaicml/llm-foundry) · [官网](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向开发者的 LLM 训练/微调/评测/推理代码库**
 
@@ -11,7 +11,7 @@ Databricks MosaicML 团队维护的 LLM 训练框架，基于 Composer 与 Mosai
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

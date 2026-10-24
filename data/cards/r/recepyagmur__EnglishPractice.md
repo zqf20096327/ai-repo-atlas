@@ -1,6 +1,6 @@
 # recepyagmur/EnglishPractice
 
-⭐ 87 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/recepyagmur/EnglishPractice) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/recepyagmur/EnglishPractice) · 个人维护
 
 **面向土耳其语使用者的离线便携英语练习应用**
 

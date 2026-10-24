@@ -1,6 +1,6 @@
 # zofe/rapyd-admin
 
-⭐ 862 · PHP · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zofe/rapyd-admin) · 个人维护
+⭐ 862 · PHP · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zofe/rapyd-admin) · 个人维护
 
 **面向 Laravel 的轻量管理面板，适配 AI agent 协作开发**
 

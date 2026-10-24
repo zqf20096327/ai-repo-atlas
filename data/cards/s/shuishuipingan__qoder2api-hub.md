@@ -1,6 +1,6 @@
 # shuishuipingan/qoder2api-hub
 
-⭐ 352 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shuishuipingan/qoder2api-hub) · [官网](https://qoder2api-hub-eybpg15659n.qoder.zone) · 个人维护 · 中文 README
+⭐ 362 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/shuishuipingan/qoder2api-hub) · [官网](https://qoder2api-hub-eybpg15659n.qoder.zone) · 个人维护 · 中文 README
 
 **把 Qoder 双区多账号封装成 OpenAI/Anthropic 兼容接口的自托管网关**
 

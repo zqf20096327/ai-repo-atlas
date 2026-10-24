@@ -1,6 +1,6 @@
 # versun/RSSBox
 
-⭐ 682 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/versun/RSSBox) · [官网](https://rssbox.app) · 个人维护 · 中文 README
+⭐ 682 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/versun/RSSBox) · [官网](https://rssbox.app) · 个人维护 · 中文 README
 
 **自托管的 RSS 翻译、总结与过滤服务**
 

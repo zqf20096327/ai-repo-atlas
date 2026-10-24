@@ -1,6 +1,6 @@
 # brucetoo/visual-agentic-dev
 
-⭐ 103 · TypeScript · NOASSERTION · 推送 2026-02-14 · [GitHub](https://github.com/brucetoo/visual-agentic-dev) · 个人维护
+⭐ 102 · TypeScript · NOASSERTION · 推送 2026-02-14 · [GitHub](https://github.com/brucetoo/visual-agentic-dev) · 个人维护
 
 **浏览器内点击定位元素并交给 AI agent 修改的沉浸式开发环境**
 

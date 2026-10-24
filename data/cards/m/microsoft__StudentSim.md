@@ -1,6 +1,6 @@
 # microsoft/StudentSim
 
-⭐ 78 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/StudentSim) · 组织维护
+⭐ 79 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/StudentSim) · 组织维护
 
 **为AI辅导研究者训练单个学生模拟器以测试辅导方法**
 

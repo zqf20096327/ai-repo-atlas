@@ -1,6 +1,6 @@
 # oh-my-mermaid/oh-my-mermaid
 
-⭐ 3,233 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/oh-my-mermaid/oh-my-mermaid) · 组织维护
+⭐ 3,255 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/oh-my-mermaid/oh-my-mermaid) · 组织维护
 
 **让 Claude Code 等 AI 工具生成代码库架构图与文档的 CLI**
 

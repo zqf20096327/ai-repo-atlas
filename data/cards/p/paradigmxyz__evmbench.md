@@ -1,6 +1,6 @@
 # paradigmxyz/evmbench
 
-⭐ 465 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/paradigmxyz/evmbench) · [官网](https://paradigm.xyz/evmbench) · 组织维护
+⭐ 466 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/paradigmxyz/evmbench) · [官网](https://paradigm.xyz/evmbench) · 组织维护
 
 **智能合约漏洞挖掘的基准评测与 agent 运行框架**
 

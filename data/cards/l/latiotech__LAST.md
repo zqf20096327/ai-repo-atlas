@@ -1,6 +1,6 @@
 # latiotech/LAST
 
-⭐ 187 · Python · GPL-3.0 · 推送 2026-05-28 · [GitHub](https://github.com/latiotech/LAST) · [官网](http://latio.tech/) · 组织维护
+⭐ 184 · Python · GPL-3.0 · 推送 2026-05-28 · [GitHub](https://github.com/latiotech/LAST) · [官网](http://latio.tech/) · 组织维护
 
 **CLI 代码安全扫描工具：用 OpenAI/Gemini 扫描安全与代码异味**
 

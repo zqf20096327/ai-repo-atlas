@@ -1,6 +1,6 @@
 # ot-triton-lab/flash-sinkhorn
 
-⭐ 225 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ot-triton-lab/flash-sinkhorn) · [官网](https://arxiv.org/abs/2602.03067) · 组织维护
+⭐ 226 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ot-triton-lab/flash-sinkhorn) · [官网](https://arxiv.org/abs/2602.03067) · 组织维护
 
 **面向 GPU 的熵正则最优传输库，无需存储成对代价矩阵**
 

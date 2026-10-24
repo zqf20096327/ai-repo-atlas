@@ -1,6 +1,6 @@
 # CliMA/ClimaAtmos.jl
 
-⭐ 130 · Julia · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/CliMA/ClimaAtmos.jl) · [官网](https://clima.github.io/ClimaAtmos.jl/dev/) · 组织维护
+⭐ 130 · Julia · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/CliMA/ClimaAtmos.jl) · [官网](https://clima.github.io/ClimaAtmos.jl/dev/) · 组织维护
 
 **CliMA 地球系统模式的全球大气模拟器，支持 GPU 运行**
 

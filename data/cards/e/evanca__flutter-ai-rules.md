@@ -1,6 +1,6 @@
 # evanca/flutter-ai-rules
 
-⭐ 658 · Shell · MIT · 推送 2026-10-10 · [GitHub](https://github.com/evanca/flutter-ai-rules) · 个人维护
+⭐ 660 · Shell · MIT · 推送 2026-10-10 · [GitHub](https://github.com/evanca/flutter-ai-rules) · 个人维护
 
 **36 个源自官方文档的 Flutter/Dart AI 编码技能集，供编码 agent 自主加载**
 

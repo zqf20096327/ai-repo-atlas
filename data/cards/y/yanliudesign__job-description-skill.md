@@ -1,6 +1,6 @@
 # yanliudesign/job-description-skill
 
-⭐ 114 · 推送 2026-07-24 · [GitHub](https://github.com/yanliudesign/job-description-skill) · 个人维护 · 中文 README
+⭐ 115 · 推送 2026-07-24 · [GitHub](https://github.com/yanliudesign/job-description-skill) · 个人维护 · 中文 README
 
 **解析职位描述并生成求职策略报告的 Claude 技能**
 

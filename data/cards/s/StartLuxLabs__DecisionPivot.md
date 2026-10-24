@@ -1,6 +1,6 @@
 # StartLuxLabs/DecisionPivot
 
-⭐ 144 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/StartLuxLabs/DecisionPivot) · [官网](https://huggingface.co/datasets/startlux-models/DecisionPivot) · 组织维护
+⭐ 145 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/StartLuxLabs/DecisionPivot) · [官网](https://huggingface.co/datasets/startlux-models/DecisionPivot) · 组织维护
 
 **评测 LLM 系统中决策模型的诊断基准（对比组+独立求解器）**
 

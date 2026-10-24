@@ -1,6 +1,6 @@
 # PatrikFehrenbach/h1-brain
 
-⭐ 356 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/PatrikFehrenbach/h1-brain) · 个人维护
+⭐ 355 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/PatrikFehrenbach/h1-brain) · 个人维护
 
 **连接 AI 助手与 HackerOne 的 MCP 服务器，辅助漏洞赏金**
 

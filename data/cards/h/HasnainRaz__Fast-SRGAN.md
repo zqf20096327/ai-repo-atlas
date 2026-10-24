@@ -1,6 +1,6 @@
 # HasnainRaz/Fast-SRGAN
 
-⭐ 695 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/HasnainRaz/Fast-SRGAN) · 个人维护
+⭐ 695 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HasnainRaz/Fast-SRGAN) · 个人维护
 
 **面向低清视频实时超分的 SR-GAN 实现（M1 上 30fps）**
 

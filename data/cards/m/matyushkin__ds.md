@@ -1,6 +1,6 @@
 # matyushkin/ds
 
-⭐ 231 · Jupyter Notebook · MIT · 推送 2026-03-02 · [GitHub](https://github.com/matyushkin/ds) · [官网](https://matyushkin.github.io/) · 个人维护
+⭐ 232 · Jupyter Notebook · MIT · 推送 2026-03-02 · [GitHub](https://github.com/matyushkin/ds) · [官网](https://matyushkin.github.io/) · 个人维护
 
 **俄语免费 Data Science 学习资源结构化清单**
 

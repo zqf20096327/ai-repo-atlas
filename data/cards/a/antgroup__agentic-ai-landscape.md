@@ -1,6 +1,6 @@
 # antgroup/agentic-ai-landscape
 
-⭐ 556 · HTML · 推送 2026-09-27 · [GitHub](https://github.com/antgroup/agentic-ai-landscape) · [官网](https://insights.inclusion-ai.org/) · 组织维护 · 中文 README
+⭐ 557 · HTML · 推送 2026-09-27 · [GitHub](https://github.com/antgroup/agentic-ai-landscape) · [官网](https://insights.inclusion-ai.org/) · 组织维护 · 中文 README
 
 **数据驱动的 Agentic AI 生态全景图与洞察报告（蚂蚁开源）**
 

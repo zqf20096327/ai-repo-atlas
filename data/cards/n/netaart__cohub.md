@@ -1,6 +1,6 @@
 # netaart/cohub
 
-⭐ 574 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/netaart/cohub) · [官网](https://cohub.live) · 组织维护 · 中文 README
+⭐ 574 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/netaart/cohub) · [官网](https://cohub.live) · 组织维护 · 中文 README
 
 **人与 agent 共同创作、游玩和构建的在线协作空间平台**
 

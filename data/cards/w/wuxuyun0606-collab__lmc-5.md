@@ -1,6 +1,6 @@
 # wuxuyun0606-collab/lmc-5
 
-⭐ 154 · Python · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/wuxuyun0606-collab/lmc-5) · 个人维护 · 中文 README
+⭐ 154 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/wuxuyun0606-collab/lmc-5) · 个人维护 · 中文 README
 
 **为长期运行 LLM agent 提供五轴记忆架构与可恢复记忆层**
 

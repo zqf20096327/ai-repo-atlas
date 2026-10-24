@@ -1,6 +1,6 @@
 # supavec/supavec
 
-⭐ 1,238 · TypeScript · Apache-2.0 · 推送 2025-12-28 · [GitHub](https://github.com/supavec/supavec) · [官网](https://www.supavec.com) · 个人维护
+⭐ 1,237 · TypeScript · Apache-2.0 · 推送 2025-12-28 · [GitHub](https://github.com/supavec/supavec) · [官网](https://www.supavec.com) · 个人维护
 
 **开源 RAG 即服务平台：向量搜索与聊天 API，自称 Carbon.ai 替代**
 

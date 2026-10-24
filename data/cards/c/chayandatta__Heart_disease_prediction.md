@@ -1,6 +1,6 @@
 # chayandatta/Heart_disease_prediction
 
-⭐ 135 · Jupyter Notebook · MIT · 推送 2026-08-15 · [GitHub](https://github.com/chayandatta/Heart_disease_prediction) · 个人维护
+⭐ 136 · Jupyter Notebook · MIT · 推送 2026-08-15 · [GitHub](https://github.com/chayandatta/Heart_disease_prediction) · 个人维护
 
 **比较五种分类算法预测心脏病的机器学习教学项目**
 

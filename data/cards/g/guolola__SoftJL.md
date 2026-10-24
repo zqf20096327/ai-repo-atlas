@@ -1,6 +1,6 @@
 # guolola/SoftJL
 
-⭐ 112 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/guolola/SoftJL) · [官网](https://jianglisoftware.com) · 组织维护 · 中文 README
+⭐ 109 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/guolola/SoftJL) · [官网](https://jianglisoftware.com) · 组织维护 · 中文 README
 
 **面向课程/毕设的自托管 AI 软件工程工作台，生成 UML、测试用例与文档**
 

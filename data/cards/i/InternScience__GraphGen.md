@@ -1,6 +1,6 @@
 # InternScience/GraphGen
 
-⭐ 1,236 · Python · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/InternScience/GraphGen) · [官网](https://chenzihong.gitbook.io/graphgen-cookbook/) · 组织维护 · 中文 README
+⭐ 1,235 · Python · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/InternScience/GraphGen) · [官网](https://chenzihong.gitbook.io/graphgen-cookbook/) · 组织维护 · 中文 README
 
 **知识图谱引导的 LLM 训练合成数据生成框架**
 

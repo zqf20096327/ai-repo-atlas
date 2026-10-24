@@ -1,6 +1,6 @@
 # huggingface/hf_transfer
 
-⭐ 583 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/huggingface/hf_transfer) · 组织维护
+⭐ 582 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/huggingface/hf_transfer) · 组织维护
 
 **加速 Hugging Face Hub 文件传输的 Rust 库，突破 Python 带宽瓶颈**
 

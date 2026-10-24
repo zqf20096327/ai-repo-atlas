@@ -1,6 +1,6 @@
 # InternLM/CapRL
 
-⭐ 233 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/InternLM/CapRL) · [官网](https://arxiv.org/pdf/2509.22647) · 组织维护 · 中文 README
+⭐ 234 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/InternLM/CapRL) · [官网](https://arxiv.org/pdf/2509.22647) · 组织维护 · 中文 README
 
 **强化学习训练的密集图像/视频描述模型及训练代码（ICLR 2026）**
 

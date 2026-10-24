@@ -1,6 +1,6 @@
 # SWE-agent/SWE-ReX
 
-⭐ 623 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SWE-agent/SWE-ReX) · [官网](https://swe-rex.com/) · 组织维护
+⭐ 624 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SWE-agent/SWE-ReX) · [官网](https://swe-rex.com/) · 组织维护
 
 **给 AI agent 开发者的沙箱化远程命令执行运行时框架**
 

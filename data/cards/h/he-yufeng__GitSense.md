@@ -1,6 +1,6 @@
 # he-yufeng/GitSense
 
-⭐ 92 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/GitSense) · 个人维护 · 中文 README
+⭐ 91 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/GitSense) · 个人维护 · 中文 README
 
 **帮开发者按技能匹配可做的开源 issue 并评估仓库健康度的 CLI**
 

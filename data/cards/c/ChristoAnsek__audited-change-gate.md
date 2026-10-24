@@ -1,6 +1,6 @@
 # ChristoAnsek/audited-change-gate
 
-⭐ 116 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/ChristoAnsek/audited-change-gate) · 个人维护
+⭐ 116 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/ChristoAnsek/audited-change-gate) · 个人维护
 
 **自主 agent 基础设施变更的密码学审计门控（proof-carrying envelope）**
 

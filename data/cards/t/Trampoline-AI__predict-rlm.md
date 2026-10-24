@@ -1,6 +1,6 @@
 # Trampoline-AI/predict-rlm
 
-⭐ 436 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Trampoline-AI/predict-rlm) · [官网](https://trampoline.ai) · 组织维护
+⭐ 436 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Trampoline-AI/predict-rlm) · [官网](https://trampoline.ai) · 组织维护
 
 **让 LLM 自主编排子模型与工具的递归语言模型运行时**
 

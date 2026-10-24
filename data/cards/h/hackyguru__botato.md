@@ -1,6 +1,6 @@
 # hackyguru/botato
 
-⭐ 57 · TypeScript · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/hackyguru/botato) · [官网](https://botato.hackyguru.com) · 个人维护
+⭐ 58 · TypeScript · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/hackyguru/botato) · [官网](https://botato.hackyguru.com) · 个人维护
 
 **本地优先的常驻 AI bot 桌面应用：自管模型与机器人的聊天室**
 

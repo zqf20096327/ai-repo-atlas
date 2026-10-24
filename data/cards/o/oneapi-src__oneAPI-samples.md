@@ -1,6 +1,6 @@
 # oneapi-src/oneAPI-samples
 
-⭐ 1,168 · C++ · MIT · 推送 2026-07-28 · [GitHub](https://github.com/oneapi-src/oneAPI-samples) · [官网](https://oneapi-src.github.io/oneAPI-samples/) · 组织维护
+⭐ 1,169 · C++ · MIT · 推送 2026-07-28 · [GitHub](https://github.com/oneapi-src/oneAPI-samples) · [官网](https://oneapi-src.github.io/oneAPI-samples/) · 组织维护
 
 **Intel oneAPI 工具链官方代码示例集合，覆盖 CPU/GPU/FPGA**
 

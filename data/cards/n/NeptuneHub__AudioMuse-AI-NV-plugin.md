@@ -1,6 +1,6 @@
 # NeptuneHub/AudioMuse-AI-NV-plugin
 
-⭐ 535 · Go · AGPL-3.0 · 推送 2026-09-19 · [GitHub](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) · 组织维护
+⭐ 537 · Go · AGPL-3.0 · 推送 2026-09-19 · [GitHub](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) · 组织维护
 
 **将 AudioMuse-AI 相似歌曲分析接入 Navidrome 的插件**
 

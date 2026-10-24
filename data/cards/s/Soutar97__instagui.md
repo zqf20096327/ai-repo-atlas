@@ -1,6 +1,6 @@
 # Soutar97/instagui
 
-⭐ 107 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Soutar97/instagui) · 个人维护
+⭐ 107 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Soutar97/instagui) · 个人维护
 
 **把任意 CLI 一条命令变成本地 Web 表单的 AI 工具**
 

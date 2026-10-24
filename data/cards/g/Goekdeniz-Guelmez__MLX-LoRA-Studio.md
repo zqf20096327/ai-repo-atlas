@@ -1,6 +1,6 @@
 # Goekdeniz-Guelmez/MLX-LoRA-Studio
 
-⭐ 280 · Swift · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio) · [官网](https://mlx-lora-studio.netlify.app) · 个人维护
+⭐ 281 · Swift · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio) · [官网](https://mlx-lora-studio.netlify.app) · 个人维护
 
 **Apple Silicon 本地 LLM 微调 Mac 应用**
 

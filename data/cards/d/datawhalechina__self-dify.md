@@ -1,6 +1,6 @@
 # datawhalechina/self-dify
 
-⭐ 635 · CC-BY-SA-4.0 · 推送 2025-12-21 · [GitHub](https://github.com/datawhalechina/self-dify) · 组织维护 · 中文 README
+⭐ 636 · CC-BY-SA-4.0 · 推送 2025-12-21 · [GitHub](https://github.com/datawhalechina/self-dify) · 组织维护 · 中文 README
 
 **基于 Dify 的大模型应用开发中文教程（11 个实战项目）**
 

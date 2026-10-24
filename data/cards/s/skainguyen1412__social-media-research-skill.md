@@ -1,6 +1,6 @@
 # skainguyen1412/social-media-research-skill
 
-⭐ 61 · TypeScript · MIT · 推送 2026-02-23 · [GitHub](https://github.com/skainguyen1412/social-media-research-skill) · [官网](https://skainguyen1412.github.io/social-media-research-skill/) · 个人维护
+⭐ 62 · TypeScript · MIT · 推送 2026-02-23 · [GitHub](https://github.com/skainguyen1412/social-media-research-skill) · [官网](https://skainguyen1412.github.io/social-media-research-skill/) · 个人维护
 
 **面向 AI 助手的社媒舆情分析技能：实时抓取 Reddit/X 讨论**
 

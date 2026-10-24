@@ -1,6 +1,6 @@
 # BidingCC/BuildingAI
 
-⭐ 1,919 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/BidingCC/BuildingAI) · [官网](https://www.buildingai.cc) · 组织维护 · 中文 README
+⭐ 1,918 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/BidingCC/BuildingAI) · [官网](https://www.buildingai.cc) · 组织维护 · 中文 README
 
 **积木式可视化搭建企业 AI 应用与智能体的开源平台**
 

@@ -1,6 +1,6 @@
 # tourmind-com/Tourmind-Booking-Skills
 
-⭐ 2,304 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/tourmind-com/Tourmind-Booking-Skills) · [官网](https://tourmind.com/skills) · 组织维护 · 中文 README
+⭐ 2,336 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/tourmind-com/Tourmind-Booking-Skills) · [官网](https://tourmind.com/skills) · 组织维护 · 中文 README
 
 **让 AI Agent 完成酒店与机票搜索、比价、预订与支付的技能包**
 

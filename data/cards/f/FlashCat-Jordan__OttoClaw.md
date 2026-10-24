@@ -1,6 +1,6 @@
 # FlashCat-Jordan/OttoClaw
 
-⭐ 82 · C · NOASSERTION · 推送 2026-06-15 · [GitHub](https://github.com/FlashCat-Jordan/OttoClaw) · [官网](https://www.shanmaotech.cn/ottodiy) · 组织维护 · 中文 README
+⭐ 83 · C · NOASSERTION · 推送 2026-06-15 · [GitHub](https://github.com/FlashCat-Jordan/OttoClaw) · [官网](https://www.shanmaotech.cn/ottodiy) · 组织维护 · 中文 README
 
 **ESP32-S3 端侧全栈运行的 AI 桌面人形机器人（不开口、钉钉交互）**
 

@@ -1,6 +1,6 @@
 # agenvoy/Agenvoy
 
-⭐ 523 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/agenvoy/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地自托管 24/7 个人 AI 代理运行器（Go 单二进制）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

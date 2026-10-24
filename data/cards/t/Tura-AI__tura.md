@@ -1,6 +1,6 @@
 # Tura-AI/tura
 
-⭐ 661 · Rust · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/Tura-AI/tura) · [官网](https://turaai.net/) · 组织维护 · 中文 README
+⭐ 657 · Rust · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/Tura-AI/tura) · [官网](https://turaai.net/) · 组织维护 · 中文 README
 
 **面向开发者的终端编码 agent，以更少 token 轮次执行任务**
 

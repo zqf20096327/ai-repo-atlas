@@ -1,6 +1,6 @@
 # NVIDIA/nvshmem
 
-⭐ 596 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/nvshmem) · [官网](https://docs.nvidia.com/nvshmem/api/index.html) · 组织维护
+⭐ 595 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/nvshmem) · [官网](https://docs.nvidia.com/nvshmem/api/index.html) · 组织维护
 
 **面向 NVIDIA GPU 集群的一侧通信并行编程库（OpenSHMEM 风格）**
 

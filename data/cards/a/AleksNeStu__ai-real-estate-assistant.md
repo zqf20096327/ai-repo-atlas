@@ -1,6 +1,6 @@
 # AleksNeStu/ai-real-estate-assistant
 
-⭐ 319 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AleksNeStu/ai-real-estate-assistant) · [官网](https://realestate-web-dz1y.onrender.com/) · 个人维护
+⭐ 320 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AleksNeStu/ai-real-estate-assistant) · [官网](https://realestate-web-dz1y.onrender.com/) · 个人维护
 
 **面向购房者的 AI 对话式房产搜索与分析平台**
 

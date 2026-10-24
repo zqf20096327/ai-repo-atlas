@@ -1,6 +1,6 @@
 # ai-shifu/markdown-flow
 
-⭐ 86 · JavaScript · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/ai-shifu/markdown-flow) · [官网](https://markdownflow.ai/) · 组织维护
+⭐ 86 · JavaScript · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/ai-shifu/markdown-flow) · [官网](https://markdownflow.ai/) · 组织维护
 
 **扩展 Markdown 的 AI 个性化交互文档规范与配套库**
 

@@ -1,6 +1,6 @@
 # raiyanyahya/how-to-train-your-gpt
 
-⭐ 4,128 · Jupyter Notebook · MIT · 推送 2026-08-30 · [GitHub](https://github.com/raiyanyahya/how-to-train-your-gpt) · 个人维护
+⭐ 4,133 · Jupyter Notebook · MIT · 推送 2026-08-30 · [GitHub](https://github.com/raiyanyahya/how-to-train-your-gpt) · 个人维护
 
 **面向零基础开发者的从零构建 GPT 交互式教科书（12 章）**
 

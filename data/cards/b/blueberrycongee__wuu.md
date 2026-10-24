@@ -1,6 +1,6 @@
 # blueberrycongee/wuu
 
-⭐ 60 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/blueberrycongee/wuu) · 组织维护 · 中文 README
+⭐ 61 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/blueberrycongee/wuu) · 组织维护 · 中文 README
 
 **BYOK AI 编码 agent：桌面应用+可脚本化 CLI，Agent 直接读写本地项目代码**
 

@@ -1,6 +1,6 @@
 # ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances
 
-⭐ 213 · Jupyter Notebook · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances) · 组织维护
+⭐ 214 · Jupyter Notebook · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances) · 组织维护
 
 **面向研究者的多种机器调度问题基准环境与算例集**
 

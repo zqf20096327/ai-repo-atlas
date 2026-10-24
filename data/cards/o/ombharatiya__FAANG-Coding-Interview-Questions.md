@@ -1,6 +1,6 @@
 # ombharatiya/FAANG-Coding-Interview-Questions
 
-⭐ 6,081 · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) · [官网](https://www.aidaddy.tech) · 个人维护
+⭐ 6,087 · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) · [官网](https://www.aidaddy.tech) · 个人维护
 
 **FAANG/AI 实验室编程面试题策展清单，覆盖 44 家公司**
 

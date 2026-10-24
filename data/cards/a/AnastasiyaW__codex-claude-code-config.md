@@ -1,6 +1,6 @@
 # AnastasiyaW/codex-claude-code-config
 
-⭐ 212 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AnastasiyaW/codex-claude-code-config) · 个人维护
+⭐ 212 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AnastasiyaW/codex-claude-code-config) · 个人维护
 
 **面向 Claude Code/Codex 等 coding agent 的配置体系：原则、钩子、技能与工作流**
 

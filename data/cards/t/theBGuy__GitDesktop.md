@@ -1,6 +1,6 @@
 # theBGuy/GitDesktop
 
-⭐ 237 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/theBGuy/GitDesktop) · [官网](https://gitdesktop.app) · 个人维护
+⭐ 238 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/theBGuy/GitDesktop) · [官网](https://gitdesktop.app) · 个人维护
 
 **键盘优先的 AI 增强型 Git 桌面客户端，覆盖三大平台全 PR 流程**
 

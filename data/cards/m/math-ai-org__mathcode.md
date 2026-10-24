@@ -1,6 +1,6 @@
 # math-ai-org/mathcode
 
-⭐ 748 · Shell · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/math-ai-org/mathcode) · [官网](https://math-ai-org.github.io/mathcode) · 组织维护 · 中文 README
+⭐ 749 · Shell · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/math-ai-org/mathcode) · [官网](https://math-ai-org.github.io/mathcode) · 组织维护 · 中文 README
 
 **面向数学证明的编码 Agent：终端/WebUI 中写 Lean 4 证明**
 

@@ -1,6 +1,6 @@
 # Tencent/AI-Infra-Guard
 
-⭐ 7,020 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Tencent/AI-Infra-Guard) · [官网](https://tencent.github.io/AI-Infra-Guard/) · 组织维护 · 中文 README
+⭐ 7,076 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Tencent/AI-Infra-Guard) · [官网](https://tencent.github.io/AI-Infra-Guard/) · 组织维护 · 中文 README
 
 **面向企业/个人的 AI 红队安全平台：扫描 AI 基础设施与 Agent 风险**
 

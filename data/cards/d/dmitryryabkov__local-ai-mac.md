@@ -1,6 +1,6 @@
 # dmitryryabkov/local-ai-mac
 
-⭐ 93 · MIT · 推送 2026-06-13 · [GitHub](https://github.com/dmitryryabkov/local-ai-mac) · 个人维护
+⭐ 95 · MIT · 推送 2026-06-13 · [GitHub](https://github.com/dmitryryabkov/local-ai-mac) · 个人维护
 
 **在 Apple Silicon Mac 上本地运行 LLM 与编码 agent 的实践指南**
 

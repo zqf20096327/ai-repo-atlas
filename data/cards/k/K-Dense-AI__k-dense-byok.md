@@ -1,6 +1,6 @@
 # K-Dense-AI/k-dense-byok
 
-⭐ 1,397 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/K-Dense-AI/k-dense-byok) · [官网](https://arxiv.org/abs/2610.00074) · 组织维护
+⭐ 1,400 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/K-Dense-AI/k-dense-byok) · [官网](https://arxiv.org/abs/2610.00074) · 组织维护
 
 **本地运行的科研 AI 助手（BYOK），带可追溯实验记录**
 

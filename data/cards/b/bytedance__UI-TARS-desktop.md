@@ -1,6 +1,6 @@
 # bytedance/UI-TARS-desktop
 
-⭐ 39,371 · TypeScript · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/bytedance/UI-TARS-desktop) · [官网](https://agent-tars.com) · 组织维护 · 中文 README
+⭐ 39,374 · TypeScript · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/bytedance/UI-TARS-desktop) · [官网](https://agent-tars.com) · 组织维护 · 中文 README
 
 **开发者的多模态 GUI Agent 栈：用自然语言操作电脑与浏览器**
 

@@ -1,6 +1,6 @@
 # FreeAiHR/FreeAiHR
 
-⭐ 65 · Python · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/FreeAiHR/FreeAiHR) · [官网](https://www.freeaihr.com) · 组织维护 · 中文 README
+⭐ 66 · Python · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/FreeAiHR/FreeAiHR) · [官网](https://www.freeaihr.com) · 组织维护 · 中文 README
 
 **企业级 AI 招聘管理系统：简历解析、AI 面试、考评与培训全流程**
 

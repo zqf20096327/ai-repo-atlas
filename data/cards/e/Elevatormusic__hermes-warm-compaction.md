@@ -1,6 +1,6 @@
 # Elevatormusic/hermes-warm-compaction
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Elevatormusic/hermes-warm-compaction) · 个人维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Elevatormusic/hermes-warm-compaction) · 个人维护
 
 **Hermes Agent 的上下文压缩插件：利用前缀缓存加速压缩**
 

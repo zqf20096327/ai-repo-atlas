@@ -1,6 +1,6 @@
 # devcxl/mattpocock-skills-zh
 
-⭐ 505 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/devcxl/mattpocock-skills-zh) · 个人维护 · 中文 README
+⭐ 507 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/devcxl/mattpocock-skills-zh) · 个人维护 · 中文 README
 
 **面向工程实践的 AI 编程智能体技能集中文翻译版**
 

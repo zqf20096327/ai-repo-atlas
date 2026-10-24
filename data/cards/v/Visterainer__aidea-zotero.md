@@ -1,6 +1,6 @@
 # Visterainer/aidea-zotero
 
-⭐ 138 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Visterainer/aidea-zotero) · 个人维护 · 中文 README
+⭐ 139 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Visterainer/aidea-zotero) · 个人维护 · 中文 README
 
 **给 Zotero 用户的 AI 助手插件：论文对话、划词与全文翻译**
 

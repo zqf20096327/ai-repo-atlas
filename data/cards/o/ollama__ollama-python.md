@@ -1,6 +1,6 @@
 # ollama/ollama-python
 
-⭐ 10,623 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ollama/ollama-python) · [官网](https://ollama.com) · 组织维护
+⭐ 10,627 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ollama/ollama-python) · [官网](https://ollama.com) · 组织维护
 
 **Ollama 官方 Python 库：Python 3.8+ 项目接入 Ollama**
 

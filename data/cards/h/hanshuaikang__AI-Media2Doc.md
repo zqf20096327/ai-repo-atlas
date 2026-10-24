@@ -1,6 +1,6 @@
 # hanshuaikang/AI-Media2Doc
 
-⭐ 4,062 · Vue · MIT · 推送 2026-02-05 · [GitHub](https://github.com/hanshuaikang/AI-Media2Doc) · 个人维护 · 中文 README
+⭐ 4,064 · Vue · MIT · 推送 2026-02-05 · [GitHub](https://github.com/hanshuaikang/AI-Media2Doc) · 个人维护 · 中文 README
 
 **将音视频一键转为多风格图文文档的本地部署 Web 工具**
 

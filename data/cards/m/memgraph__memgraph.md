@@ -1,6 +1,6 @@
 # memgraph/memgraph
 
-⭐ 4,627 · C++ · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/memgraph/memgraph) · [官网](https://memgraph.com) · 组织维护
+⭐ 4,628 · C++ · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/memgraph/memgraph) · [官网](https://memgraph.com) · 组织维护
 
 **内存图数据库：为 GraphRAG 与 AI 记忆提供图检索引擎**
 

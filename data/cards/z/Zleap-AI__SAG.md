@@ -1,6 +1,6 @@
 # Zleap-AI/SAG
 
-⭐ 2,630 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Zleap-AI/SAG) · [官网](https://zleap.com) · 组织维护 · 中文 README
+⭐ 2,632 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Zleap-AI/SAG) · [官网](https://zleap.com) · 组织维护 · 中文 README
 
 **面向个人与 Agent 的本地优先知识库应用，含 SAG 检索架构**
 

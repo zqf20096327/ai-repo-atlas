@@ -1,6 +1,6 @@
 # pytorch/rl
 
-⭐ 3,610 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pytorch/rl) · [官网](https://pytorch.org/rl) · 组织维护
+⭐ 3,612 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/pytorch/rl) · [官网](https://pytorch.org/rl) · 组织维护
 
 **PyTorch 原生的模块化强化学习工具库，供研究与机器人控制**
 

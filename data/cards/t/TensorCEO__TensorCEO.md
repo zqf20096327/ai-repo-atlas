@@ -1,6 +1,6 @@
 # TensorCEO/TensorCEO
 
-⭐ 161 · 推送 2026-03-29 · [GitHub](https://github.com/TensorCEO/TensorCEO) · 个人维护 · 中文 README
+⭐ 154 · 推送 2026-03-29 · [GitHub](https://github.com/TensorCEO/TensorCEO) · 个人维护 · 中文 README
 
 **计算机毕设源码与定制指导服务：AI 模型+系统开发全流程**
 

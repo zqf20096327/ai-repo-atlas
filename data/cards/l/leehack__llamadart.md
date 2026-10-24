@@ -1,6 +1,6 @@
 # leehack/llamadart
 
-⭐ 78 · Dart · MIT · 推送 2026-10-23 · [GitHub](https://github.com/leehack/llamadart) · [官网](https://llamadart.leehack.com) · 个人维护
+⭐ 78 · Dart · MIT · 推送 2026-10-24 · [GitHub](https://github.com/leehack/llamadart) · [官网](https://llamadart.leehack.com) · 个人维护
 
 **Dart/Flutter 跨平台端侧 LLM 推理库，统一 API 调 llama.cpp 与 LiteRT-LM**
 

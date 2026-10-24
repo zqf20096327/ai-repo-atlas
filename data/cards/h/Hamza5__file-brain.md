@@ -1,6 +1,6 @@
 # Hamza5/file-brain
 
-⭐ 236 · Python · GPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/Hamza5/file-brain) · [官网](https://file-brain.com/) · 个人维护
+⭐ 235 · Python · GPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/Hamza5/file-brain) · [官网](https://file-brain.com/) · 个人维护
 
 **本地桌面文件语义搜索应用：用自然语言找文件**
 

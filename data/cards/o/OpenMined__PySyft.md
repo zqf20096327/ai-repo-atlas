@@ -1,6 +1,6 @@
 # OpenMined/PySyft
 
-⭐ 10,046 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/OpenMined/PySyft) · [官网](https://www.openmined.org/) · 组织维护
+⭐ 10,045 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/OpenMined/PySyft) · [官网](https://www.openmined.org/) · 组织维护
 
 **远程数据科学库：数据不出所有者机器即可提交计算**
 

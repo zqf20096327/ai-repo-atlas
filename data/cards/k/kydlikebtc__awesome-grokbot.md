@@ -1,6 +1,6 @@
 # kydlikebtc/awesome-grokbot
 
-⭐ 389 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kydlikebtc/awesome-grokbot) · [官网](https://kydlikebtc.github.io/awesome-grokbot/) · 个人维护 · 中文 README
+⭐ 400 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kydlikebtc/awesome-grokbot) · [官网](https://kydlikebtc.github.io/awesome-grokbot/) · 个人维护 · 中文 README
 
 **Grok Bot 公开分享配置的策展清单（4933 条，双语）**
 

@@ -1,6 +1,6 @@
 # diillson/chatcli
 
-⭐ 94 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/diillson/chatcli) · [官网](https://chatcli.edilsonfreitas.com/) · 个人维护
+⭐ 94 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/diillson/chatcli) · [官网](https://chatcli.edilsonfreitas.com/) · 个人维护
 
 **终端 LLM 客户端：单二进制接入 14 家模型，带编码 agent 与质量验证**
 

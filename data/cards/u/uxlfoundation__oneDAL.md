@@ -1,6 +1,6 @@
 # uxlfoundation/oneDAL
 
-⭐ 653 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/uxlfoundation/oneDAL) · [官网](http://uxlfoundation.github.io/oneDAL/) · 组织维护
+⭐ 653 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/uxlfoundation/oneDAL) · [官网](http://uxlfoundation.github.io/oneDAL/) · 组织维护
 
 **C++/DPC++ 机器学习库：为表格数据提供 CPU/GPU 加速算法**
 

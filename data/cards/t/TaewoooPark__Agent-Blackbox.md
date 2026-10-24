@@ -1,6 +1,6 @@
 # TaewoooPark/Agent-Blackbox
 
-⭐ 78 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/TaewoooPark/Agent-Blackbox) · [官网](https://www.npmjs.com/package/@taewooopark/agent-blackbox) · 个人维护 · 中文 README
+⭐ 79 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/TaewoooPark/Agent-Blackbox) · [官网](https://www.npmjs.com/package/@taewooopark/agent-blackbox) · 个人维护 · 中文 README
 
 **编程 agent 的本地飞行记录器：回放运行图并评分上下文开销**
 

@@ -1,6 +1,6 @@
 # tonywu71/colpali-cookbooks
 
-⭐ 357 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/tonywu71/colpali-cookbooks) · [官网](https://huggingface.co/vidore) · 个人维护
+⭐ 355 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/tonywu71/colpali-cookbooks) · [官网](https://huggingface.co/vidore) · 个人维护
 
 **ColPali 视觉检索模型的教学与微调 notebook 合集**
 

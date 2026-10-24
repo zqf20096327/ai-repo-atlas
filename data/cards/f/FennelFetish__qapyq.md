@@ -1,6 +1,6 @@
 # FennelFetish/qapyq
 
-⭐ 164 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/FennelFetish/qapyq) · 个人维护
+⭐ 163 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/FennelFetish/qapyq) · 个人维护
 
 **面向 LoRA/扩散训练的图像视频数据集 AI 策展桌面工具**
 

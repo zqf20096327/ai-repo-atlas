@@ -1,6 +1,6 @@
 # greydanus/mnist1d
 
-⭐ 262 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/greydanus/mnist1d) · 个人维护
+⭐ 263 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/greydanus/mnist1d) · 个人维护
 
 **MNIST 的 1D 类比数据集，用于测量空间归纳偏置**
 

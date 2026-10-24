@@ -1,6 +1,6 @@
 # open-mmlab/Amphion
 
-⭐ 10,320 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/open-mmlab/Amphion) · [官网](https://openhlt.github.io/amphion/) · 组织维护
+⭐ 10,321 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/open-mmlab/Amphion) · [官网](https://openhlt.github.io/amphion/) · 组织维护
 
 **音频/音乐/语音生成工具包，面向科研与工程的复现平台**
 

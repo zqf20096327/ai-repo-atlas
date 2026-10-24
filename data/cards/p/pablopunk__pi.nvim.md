@@ -1,6 +1,6 @@
 # pablopunk/pi.nvim
 
-⭐ 280 · Lua · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pablopunk/pi.nvim) · 个人维护
+⭐ 281 · Lua · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pablopunk/pi.nvim) · 个人维护
 
 **Neovim 插件：在编辑器内调用 pi CLI 编程 agent**
 

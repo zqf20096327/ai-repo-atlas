@@ -1,6 +1,6 @@
 # anthropics/claude-desktop-buddy
 
-⭐ 2,669 · C++ · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/anthropics/claude-desktop-buddy) · 组织维护
+⭐ 2,670 · C++ · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/anthropics/claude-desktop-buddy) · 组织维护
 
 **Claude 桌面端 BLE API 参考实现：ESP32 桌宠硬件示例**
 

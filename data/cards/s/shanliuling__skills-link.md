@@ -1,6 +1,6 @@
 # shanliuling/skills-link
 
-⭐ 198 · TypeScript · MIT · 推送 2026-05-14 · [GitHub](https://github.com/shanliuling/skills-link) · 个人维护 · 中文 README
+⭐ 197 · TypeScript · MIT · 推送 2026-05-14 · [GitHub](https://github.com/shanliuling/skills-link) · 个人维护 · 中文 README
 
 **跨 41+ AI 编码代理统一同步本地 skills 的 CLI 工具**
 

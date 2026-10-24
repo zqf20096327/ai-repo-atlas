@@ -1,6 +1,6 @@
 # guinmoon/LLMFarm
 
-⭐ 2,082 · C · MIT · 推送 2026-01-30 · [GitHub](https://github.com/guinmoon/LLMFarm) · [官网](https://llmfarm.space) · 个人维护
+⭐ 2,083 · C · MIT · 推送 2026-01-30 · [GitHub](https://github.com/guinmoon/LLMFarm) · [官网](https://llmfarm.space) · 个人维护
 
 **在 iOS/macOS 上离线加载运行各类本地 LLM 的应用**
 

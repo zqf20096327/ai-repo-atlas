@@ -1,6 +1,6 @@
 # Tranvanviet27/NLP-LLM-Fine-Tuning-Studio
 
-⭐ 57 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/Tranvanviet27/NLP-LLM-Fine-Tuning-Studio) · 个人维护
+⭐ 57 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/Tranvanviet27/NLP-LLM-Fine-Tuning-Studio) · 个人维护
 
 **面向多语言场景的 LLM 微调训练框架与评测工具集**
 

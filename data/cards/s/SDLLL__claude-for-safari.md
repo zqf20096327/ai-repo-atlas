@@ -1,6 +1,6 @@
 # SDLLL/claude-for-safari
 
-⭐ 96 · JavaScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/SDLLL/claude-for-safari) · [官网](https://safari.skilljam.dev) · 个人维护 · 中文 README
+⭐ 97 · JavaScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/SDLLL/claude-for-safari) · [官网](https://safari.skilljam.dev) · 个人维护 · 中文 README
 
 **让 AI Agent 通过 AppleScript 直接控制 macOS Safari 的技能**
 

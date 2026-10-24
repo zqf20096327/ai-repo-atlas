@@ -1,6 +1,6 @@
 # promptdriven/pdd
 
-⭐ 911 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
+⭐ 913 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
 
 **以 .prompt 文件为源码、由 LLM 生成实现代码的开发系统**
 

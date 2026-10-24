@@ -1,6 +1,6 @@
 # explorerhq/sql-explorer
 
-⭐ 2,876 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/explorerhq/sql-explorer) · [官网](https://www.sqlexplorer.io) · 组织维护
+⭐ 2,877 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/explorerhq/sql-explorer) · [官网](https://www.sqlexplorer.io) · 组织维护
 
 **面向 Django 的 SQL 查询与报表工具，含 AI SQL 助手**
 

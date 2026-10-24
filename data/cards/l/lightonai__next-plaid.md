@@ -1,6 +1,6 @@
 # lightonai/next-plaid
 
-⭐ 601 · Rust · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/lightonai/next-plaid) · [官网](https://lightonai.github.io/next-plaid/) · 组织维护
+⭐ 599 · Rust · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/lightonai/next-plaid) · [官网](https://lightonai.github.io/next-plaid/) · 组织维护
 
 **本地多向量搜索引擎 NextPlaid 及其上的语义代码搜索工具 ColGREP**
 

@@ -1,6 +1,6 @@
 # heyman333/agent-notion-template-docs
 
-⭐ 106 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/heyman333/agent-notion-template-docs) · 个人维护
+⭐ 107 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/heyman333/agent-notion-template-docs) · 个人维护
 
 **让 AI agent 生成 Notion 视觉风格 HTML 文档的技能插件**
 

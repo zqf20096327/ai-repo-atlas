@@ -1,6 +1,6 @@
 # Shishir435/ollama-client
 
-⭐ 68 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Shishir435/ollama-client) · [官网](https://www.ollamaclient.in) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Shishir435/ollama-client) · [官网](https://www.ollamaclient.in) · 个人维护
 
 **浏览器侧栏扩展：与本地/自托管 LLM 私密对话**
 

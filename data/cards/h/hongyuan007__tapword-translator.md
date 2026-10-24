@@ -1,6 +1,6 @@
 # hongyuan007/tapword-translator
 
-⭐ 271 · TypeScript · AGPL-3.0 · 推送 2026-07-26 · [GitHub](https://github.com/hongyuan007/tapword-translator) · [官网](http://www.tapword.cn) · 个人维护 · 中文 README
+⭐ 272 · TypeScript · AGPL-3.0 · 推送 2026-07-26 · [GitHub](https://github.com/hongyuan007/tapword-translator) · [官网](http://www.tapword.cn) · 个人维护 · 中文 README
 
 **在原文下方显示字幕式 AI 翻译的 Chrome 扩展**
 

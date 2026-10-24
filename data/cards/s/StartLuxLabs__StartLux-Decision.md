@@ -1,6 +1,6 @@
 # StartLuxLabs/StartLux-Decision
 
-⭐ 1,408 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/StartLuxLabs/StartLux-Decision) · [官网](https://decision.startlux.com/) · 组织维护
+⭐ 1,474 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/StartLuxLabs/StartLux-Decision) · [官网](https://decision.startlux.com/) · 组织维护
 
 **开源决策模型族（0.8B-27B）：一次前向给出每个选项的校准概率**
 

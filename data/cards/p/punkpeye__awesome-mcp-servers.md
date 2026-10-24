@@ -1,6 +1,6 @@
 # punkpeye/awesome-mcp-servers
 
-⭐ 96,791 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/punkpeye/awesome-mcp-servers) · [官网](https://glama.ai/mcp/servers) · 个人维护 · 中文 README
+⭐ 96,821 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/punkpeye/awesome-mcp-servers) · [官网](https://glama.ai/mcp/servers) · 个人维护 · 中文 README
 
 **MCP 服务器策展清单：收录可自托管的服务器实现**
 

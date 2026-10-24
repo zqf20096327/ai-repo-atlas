@@ -1,6 +1,6 @@
 # andrefetch/postal
 
-⭐ 147 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/andrefetch/postal) · [官网](https://postalcli.vercel.app) · 个人维护
+⭐ 147 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/andrefetch/postal) · [官网](https://postalcli.vercel.app) · 个人维护
 
 **终端 AI 编程 agent：通过 OpenRouter 调任意模型读写代码**
 

@@ -1,6 +1,6 @@
 # abhisheks008/DL-Simplified
 
-⭐ 600 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/abhisheks008/DL-Simplified) · [官网](https://quine.sh/repo/abhisheks008-DL-Simplified-499023976) · 个人维护
+⭐ 599 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/abhisheks008/DL-Simplified) · [官网](https://quine.sh/repo/abhisheks008-DL-Simplified-499023976) · 个人维护
 
 **面向贡献者的深度学习入门项目合集仓库**
 

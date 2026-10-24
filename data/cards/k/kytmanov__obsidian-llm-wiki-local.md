@@ -1,6 +1,6 @@
 # kytmanov/obsidian-llm-wiki-local
 
-⭐ 841 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/kytmanov/obsidian-llm-wiki-local) · 个人维护
+⭐ 842 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/kytmanov/obsidian-llm-wiki-local) · 个人维护
 
 **本地 LLM 驱动的 Obsidian 个人维基生成与维护工具**
 

@@ -1,6 +1,6 @@
 # DataTalksClub/mlops-zoomcamp
 
-⭐ 15,469 · Jupyter Notebook · 推送 2026-10-15 · [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp) · [官网](https://courses.datatalks.club/register/mlops-zoomcamp/) · 组织维护
+⭐ 15,475 · Jupyter Notebook · 推送 2026-10-15 · [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp) · [官网](https://courses.datatalks.club/register/mlops-zoomcamp/) · 组织维护
 
 **面向数据从业者的 9 周免费 MLOps 课程**
 

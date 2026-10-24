@@ -1,6 +1,6 @@
 # AIpRoBuilder/FlowX
 
-⭐ 184 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/AIpRoBuilder/FlowX) · [官网](https://aiprobuilder.github.io/flowx_web/) · 组织维护
+⭐ 190 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/AIpRoBuilder/FlowX) · [官网](https://aiprobuilder.github.io/flowx_web/) · 组织维护
 
 **让 AI agent 用自然语言生成并运行工作流的 MCP 服务器与 Python SDK**
 

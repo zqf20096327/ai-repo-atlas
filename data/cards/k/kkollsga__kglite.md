@@ -1,6 +1,6 @@
 # kkollsga/kglite
 
-⭐ 73 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kkollsga/kglite) · 个人维护
+⭐ 73 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kkollsga/kglite) · 个人维护
 
 **面向 LLM agent 的嵌入式 Cypher 知识图谱引擎（Python/Rust）**
 

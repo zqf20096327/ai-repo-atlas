@@ -1,6 +1,6 @@
 # openvort/openvort
 
-⭐ 389 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/openvort/openvort) · [官网](https://openvort.com) · 组织维护 · 中文 README
+⭐ 390 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/openvort/openvort) · [官网](https://openvort.com) · 组织维护 · 中文 README
 
 **企业部署 AI 员工的开源平台，接入企微/钉钉/飞书协作**
 

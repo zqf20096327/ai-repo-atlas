@@ -1,6 +1,6 @@
 # timoncool/dub-studio
 
-⭐ 220 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/timoncool/dub-studio) · [官网](https://timoncool.github.io/dub-studio/) · 个人维护 · 中文 README
+⭐ 221 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/timoncool/dub-studio) · [官网](https://timoncool.github.io/dub-studio/) · 个人维护 · 中文 README
 
 **Windows 本地 AI 视频配音工作室：克隆原声译制视频并本地化字幕画面**
 

@@ -1,6 +1,6 @@
 # daimonia-ai/STC-Simplified-Technical-Chinese
 
-⭐ 97 · JavaScript · CC-BY-4.0 · 推送 2026-10-20 · [GitHub](https://github.com/daimonia-ai/STC-Simplified-Technical-Chinese) · [官网](https://daimonia.ai/open-source/stc/?utm_source=github&utm_medium=repository&utm_campaign=stc) · 组织维护 · 中文 README
+⭐ 100 · JavaScript · CC-BY-4.0 · 推送 2026-10-20 · [GitHub](https://github.com/daimonia-ai/STC-Simplified-Technical-Chinese) · [官网](https://daimonia.ai/open-source/stc/?utm_source=github&utm_medium=repository&utm_campaign=stc) · 组织维护 · 中文 README
 
 **给 AI 用的开源中文写作规范：规则、词表与检查工具**
 

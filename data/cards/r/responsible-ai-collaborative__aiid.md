@@ -1,6 +1,6 @@
 # responsible-ai-collaborative/aiid
 
-⭐ 273 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/responsible-ai-collaborative/aiid) · [官网](https://incidentdatabase.ai) · 组织维护
+⭐ 274 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/responsible-ai-collaborative/aiid) · [官网](https://incidentdatabase.ai) · 组织维护
 
 **AI 事件数据库：收录、定义并编目人工智能相关事件**
 

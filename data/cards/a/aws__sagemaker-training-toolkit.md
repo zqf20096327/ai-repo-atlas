@@ -1,6 +1,6 @@
 # aws/sagemaker-training-toolkit
 
-⭐ 530 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/aws/sagemaker-training-toolkit) · 组织维护
+⭐ 530 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aws/sagemaker-training-toolkit) · 组织维护
 
 **让任意 Docker 容器接入 SageMaker 训练的 Python 工具库**
 

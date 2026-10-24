@@ -1,6 +1,6 @@
 # RightNow-AI/openfang
 
-⭐ 18,221 · Rust · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/RightNow-AI/openfang) · [官网](https://www.openfang.sh/) · 组织维护
+⭐ 18,219 · Rust · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/RightNow-AI/openfang) · [官网](https://www.openfang.sh/) · 组织维护
 
 **给需要自主运行的 agent 的 Rust 单二进制操作系统**
 

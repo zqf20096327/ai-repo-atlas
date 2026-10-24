@@ -1,6 +1,6 @@
 # yanliudesign/offer-toolkit-skill
 
-⭐ 538 · HTML · MIT · 推送 2026-09-29 · [GitHub](https://github.com/yanliudesign/offer-toolkit-skill) · 个人维护 · 中文 README
+⭐ 539 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yanliudesign/offer-toolkit-skill) · 个人维护 · 中文 README
 
 **求职全流程 Claude 技能包：找工作、JD 分析、简历、面试、比薪、谈薪六件套**
 

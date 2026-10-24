@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-gen-py
 
-⭐ 115 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/langchain-ai/langgraph-gen-py) · 组织维护
+⭐ 115 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/langchain-ai/langgraph-gen-py) · 组织维护
 
 **从 YAML 规格生成 LangGraph 存根代码的 CLI 工具**
 

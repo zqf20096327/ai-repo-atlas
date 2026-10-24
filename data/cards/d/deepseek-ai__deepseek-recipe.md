@@ -1,6 +1,6 @@
 # deepseek-ai/deepseek-recipe
 
-⭐ 2,256 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/deepseek-ai/deepseek-recipe) · 组织维护 · 中文 README
+⭐ 2,370 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/deepseek-ai/deepseek-recipe) · 组织维护 · 中文 README
 
 **Rust 库+Python 绑定：把多格式 API 请求转换为 DeepSeek 提示与词元**
 

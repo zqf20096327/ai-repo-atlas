@@ -1,6 +1,6 @@
 # mengrru/Spherse
 
-⭐ 91 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mengrru/Spherse) · [官网](https://spherse.mengru.work) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mengrru/Spherse) · [官网](https://spherse.mengru.work) · 个人维护 · 中文 README
 
 **本地运行的个人多 Agent 运行时与 Agent Workspace 平台**
 

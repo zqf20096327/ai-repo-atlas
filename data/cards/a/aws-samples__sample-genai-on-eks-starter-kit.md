@@ -1,6 +1,6 @@
 # aws-samples/sample-genai-on-eks-starter-kit
 
-⭐ 95 · JavaScript · MIT-0 · 推送 2026-10-23 · [GitHub](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) · [官网](https://aws-samples.github.io/sample-genai-on-eks-starter-kit/) · 组织维护
+⭐ 98 · JavaScript · MIT-0 · 推送 2026-10-24 · [GitHub](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) · [官网](https://aws-samples.github.io/sample-genai-on-eks-starter-kit/) · 组织维护
 
 **在 Amazon EKS 上一键部署生成式 AI 基础设施的启动套件**
 

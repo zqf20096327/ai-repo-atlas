@@ -1,6 +1,6 @@
 # Michael-OvO/obsidian-knowledge-agent
 
-⭐ 207 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/Michael-OvO/obsidian-knowledge-agent) · 个人维护
+⭐ 206 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/Michael-OvO/obsidian-knowledge-agent) · 个人维护
 
 **面向 Obsidian 库的 agent 笔记管线：整理原始资料为教学级笔记**
 

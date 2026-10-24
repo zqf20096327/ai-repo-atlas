@@ -1,6 +1,6 @@
 # nihalashetty/Forge
 
-⭐ 173 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/nihalashetty/Forge) · 个人维护
+⭐ 172 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/nihalashetty/Forge) · 个人维护
 
 **自托管的可视化 AI agent 与工作流构建平台**
 

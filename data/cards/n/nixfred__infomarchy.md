@@ -1,6 +1,6 @@
 # nixfred/infomarchy
 
-⭐ 124 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/nixfred/infomarchy) · 个人维护
+⭐ 125 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/nixfred/infomarchy) · 个人维护
 
 **把壁纸变成本机 AI agent 实时监控面板的 Omarchy 插件**
 

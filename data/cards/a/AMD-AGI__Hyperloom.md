@@ -1,6 +1,6 @@
 # AMD-AGI/Hyperloom
 
-⭐ 253 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AMD-AGI/Hyperloom) · [官网](https://rocm.docs.amd.com/projects/hyperloom) · 组织维护
+⭐ 254 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/AMD-AGI/Hyperloom) · [官网](https://rocm.docs.amd.com/projects/hyperloom) · 组织维护
 
 **在 AMD Instinct GPU 上自动优化 LLM 推理的多 Agent 系统**
 

@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-M2
 
-⭐ 2,602 · NOASSERTION · 推送 2025-11-13 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
+⭐ 2,600 · NOASSERTION · 推送 2025-11-13 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
 
 **面向编码与 agent 工作流的开源 MoE 大模型权重（230B/10B 激活）**
 

@@ -1,6 +1,6 @@
 # xiaolai/claudepot-app
 
-⭐ 125 · Rust · ISC · 推送 2026-10-12 · [GitHub](https://github.com/xiaolai/claudepot-app) · [官网](https://claudepot.com) · 个人维护
+⭐ 125 · Rust · ISC · 推送 2026-10-23 · [GitHub](https://github.com/xiaolai/claudepot-app) · [官网](https://claudepot.com) · 个人维护
 
 **Claude Code/Desktop 的桌面控制面板：账号切换、会话监控与调度**
 

@@ -1,6 +1,6 @@
 # DeekeScript/ad-ai-chat
 
-⭐ 76 · HTML · 推送 2026-10-21 · [GitHub](https://github.com/DeekeScript/ad-ai-chat) · [官网](http://101.43.47.185:8080) · 个人维护 · 中文 README
+⭐ 75 · HTML · 推送 2026-10-21 · [GitHub](https://github.com/DeekeScript/ad-ai-chat) · [官网](http://101.43.47.185:8080) · 个人维护 · 中文 README
 
 **付费商用的 LLM 角色扮演聊天系统源码（含语音与多端）**
 

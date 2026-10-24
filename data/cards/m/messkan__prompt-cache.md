@@ -1,6 +1,6 @@
 # messkan/prompt-cache
 
-⭐ 426 · Go · MIT · 推送 2026-08-18 · [GitHub](https://github.com/messkan/prompt-cache) · [官网](https://messkan.github.io/prompt-cache) · 个人维护
+⭐ 425 · Go · MIT · 推送 2026-08-18 · [GitHub](https://github.com/messkan/prompt-cache) · [官网](https://messkan.github.io/prompt-cache) · 个人维护
 
 **自托管 LLM 语义缓存代理：相似提示词直接返回缓存回答**
 

@@ -1,6 +1,6 @@
 # walkinglabs/hands-on-modern-rl
 
-⭐ 4,756 · Jupyter Notebook · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/walkinglabs/hands-on-modern-rl) · [官网](https://walkinglabs.github.io/hands-on-modern-rl/) · 组织维护 · 中文 README
+⭐ 4,763 · Jupyter Notebook · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/walkinglabs/hands-on-modern-rl) · [官网](https://walkinglabs.github.io/hands-on-modern-rl/) · 组织维护 · 中文 README
 
 **现代强化学习动手课程：从经典 RL 到 RLHF/DPO/GRPO 与 Agentic RL**
 

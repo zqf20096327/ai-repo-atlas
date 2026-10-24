@@ -1,6 +1,6 @@
 # yaojingang/yao-geo-skills
 
-⭐ 895 · HTML · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yaojingang/yao-geo-skills) · [官网](https://yaojingang.github.io/yao-geo-skills/) · 个人维护 · 中文 README
+⭐ 897 · HTML · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yaojingang/yao-geo-skills) · [官网](https://yaojingang.github.io/yao-geo-skills/) · 个人维护 · 中文 README
 
 **GEO（生成式引擎优化）工作流的 Agent Skill 集合仓库**
 

@@ -1,6 +1,6 @@
 # ConardLi/easy-dataset
 
-⭐ 15,032 · JavaScript · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/ConardLi/easy-dataset) · [官网](https://docs.easy-dataset.com) · 个人维护 · 中文 README
+⭐ 15,036 · JavaScript · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/ConardLi/easy-dataset) · [官网](https://docs.easy-dataset.com) · 个人维护 · 中文 README
 
 **为开发者从领域文档生成微调/RAG/评测数据集**
 

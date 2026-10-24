@@ -1,6 +1,6 @@
 # XUANTIE-RV/riscv-matrix-extension-spec
 
-⭐ 188 · Makefile · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/XUANTIE-RV/riscv-matrix-extension-spec) · 组织维护 · 中文 README
+⭐ 189 · Makefile · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/XUANTIE-RV/riscv-matrix-extension-spec) · 组织维护 · 中文 README
 
 **RISC-V 架构面向 AI 应用的矩阵扩展指令集规范提案（V0.6.0）**
 

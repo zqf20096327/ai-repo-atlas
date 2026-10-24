@@ -1,6 +1,6 @@
 # 2694048168/C-and-C-plus-plus
 
-⭐ 63 · C++ · 推送 2026-10-14 · [GitHub](https://github.com/2694048168/C-and-C-plus-plus) · [官网](https://2694048168.github.io/blog/#/) · 个人维护 · 中文 README
+⭐ 63 · C++ · 推送 2026-10-24 · [GitHub](https://github.com/2694048168/C-and-C-plus-plus) · [官网](https://2694048168.github.io/blog/#/) · 个人维护 · 中文 README
 
 **现代 C++ 学习示例与项目模板合集：覆盖 CUDA/OpenCV/CMake/OpenGL**
 

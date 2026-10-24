@@ -1,6 +1,6 @@
 # rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms
 
-⭐ 437 · Python · AGPL-3.0 · 推送 2026-08-06 · [GitHub](https://github.com/rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms) · [官网](https://www.manning.com/books/grokking-ai-algorithms-second-edition) · 个人维护
+⭐ 438 · Python · AGPL-3.0 · 推送 2026-08-06 · [GitHub](https://github.com/rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms) · [官网](https://www.manning.com/books/grokking-ai-algorithms-second-edition) · 个人维护
 
 **《Grokking AI Algorithms》书籍配套示例代码仓库**
 

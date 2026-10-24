@@ -1,6 +1,6 @@
 # microsoft/mattergen
 
-⭐ 1,852 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/microsoft/mattergen) · [官网](https://www.nature.com/articles/s41586-025-08628-5) · 组织维护
+⭐ 1,853 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/microsoft/mattergen) · [官网](https://www.nature.com/articles/s41586-025-08628-5) · 组织维护
 
 **微软的无机材料生成式模型，按属性约束设计周期表内新材料**
 

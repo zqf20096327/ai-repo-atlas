@@ -1,6 +1,6 @@
 # shanraisshan/codex-cli-hooks
 
-⭐ 73 · Python · 推送 2026-06-04 · [GitHub](https://github.com/shanraisshan/codex-cli-hooks) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
+⭐ 74 · Python · 推送 2026-06-04 · [GitHub](https://github.com/shanraisshan/codex-cli-hooks) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
 
 **Codex CLI 钩子集合：为各事件添加提示音与上下文注入**
 

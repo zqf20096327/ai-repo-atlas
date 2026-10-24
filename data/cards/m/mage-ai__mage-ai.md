@@ -1,6 +1,6 @@
 # mage-ai/mage-ai
 
-⭐ 8,836 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/mage-ai/mage-ai) · [官网](https://www.mage.ai) · 组织维护
+⭐ 8,837 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mage-ai/mage-ai) · [官网](https://www.mage.ai) · 组织维护
 
 **自托管数据管道开发环境：本地构建、运行与管理 ETL**
 

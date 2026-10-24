@@ -1,6 +1,6 @@
 # renezander030/capcut-cli
 
-⭐ 943 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/renezander030/capcut-cli) · [官网](https://renezander.com/projects/capcut-cli) · 个人维护 · 中文 README
+⭐ 949 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/renezander030/capcut-cli) · [官网](https://renezander.com/projects/capcut-cli) · 个人维护 · 中文 README
 
 **LLM agent 可调用的 CapCut/剪映草稿本地编辑 CLI**
 

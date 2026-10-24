@@ -1,6 +1,6 @@
 # K-Dense-AI/karpathy
 
-⭐ 1,570 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/K-Dense-AI/karpathy) · [官网](https://k-dense.ai) · 组织维护
+⭐ 1,571 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/K-Dense-AI/karpathy) · [官网](https://k-dense.ai) · 组织维护
 
 **基于 Claude Agent SDK 与 Google ADK 的代理式机器学习工程师**
 

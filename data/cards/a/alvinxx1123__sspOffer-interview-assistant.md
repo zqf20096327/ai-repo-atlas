@@ -1,6 +1,6 @@
 # alvinxx1123/sspOffer-interview-assistant
 
-⭐ 99 · Java · MIT · 推送 2026-08-26 · [GitHub](https://github.com/alvinxx1123/sspOffer-interview-assistant) · 个人维护 · 中文 README
+⭐ 100 · Java · MIT · 推送 2026-08-26 · [GitHub](https://github.com/alvinxx1123/sspOffer-interview-assistant) · 个人维护 · 中文 README
 
 **互联网面试准备一站式平台：AI 面试模拟与面经整合**
 

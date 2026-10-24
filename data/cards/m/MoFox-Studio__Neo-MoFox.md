@@ -1,6 +1,6 @@
 # MoFox-Studio/Neo-MoFox
 
-⭐ 116 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/MoFox-Studio/Neo-MoFox) · 组织维护 · 中文 README
+⭐ 116 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/MoFox-Studio/Neo-MoFox) · 组织维护 · 中文 README
 
 **面向开发者的 AI 聊天机器人框架，带记忆与插件生态**
 

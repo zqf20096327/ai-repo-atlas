@@ -1,6 +1,6 @@
 # jnamaya/SAFi
 
-⭐ 62 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/jnamaya/SAFi) · [官网](https://selfalignmentframework.com/) · 个人维护
+⭐ 62 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/jnamaya/SAFi) · [官网](https://selfalignmentframework.com/) · 个人维护
 
 **面向 AI agent 的开源治理引擎：实时执行策略并审计每次决策**
 

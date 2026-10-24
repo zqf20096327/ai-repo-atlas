@@ -1,6 +1,6 @@
 # mudler/LocalAI
 
-⭐ 49,882 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护 · 中文 README
+⭐ 49,918 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护 · 中文 README
 
 **本地运行各类 AI 模型的开源引擎，无需 GPU**
 

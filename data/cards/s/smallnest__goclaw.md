@@ -1,6 +1,6 @@
 # smallnest/goclaw
 
-⭐ 599 · Go · MIT · 推送 2026-03-27 · [GitHub](https://github.com/smallnest/goclaw) · 个人维护 · 中文 README
+⭐ 598 · Go · MIT · 推送 2026-03-27 · [GitHub](https://github.com/smallnest/goclaw) · 个人维护 · 中文 README
 
 **Go 语言实现的 AI Agent 框架，含技能系统与多渠道接入**
 

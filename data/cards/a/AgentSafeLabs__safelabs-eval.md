@@ -1,6 +1,6 @@
 # AgentSafeLabs/safelabs-eval
 
-⭐ 923 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/AgentSafeLabs/safelabs-eval) · [官网](https://agentsafelabs.com) · 组织维护
+⭐ 935 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/AgentSafeLabs/safelabs-eval) · [官网](https://agentsafelabs.com) · 组织维护
 
 **AI agent 红队评测框架：300 条对抗提示跨 10 类安全检测**
 

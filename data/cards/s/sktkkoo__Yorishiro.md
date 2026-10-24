@@ -1,6 +1,6 @@
 # sktkkoo/Yorishiro
 
-⭐ 82 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/sktkkoo/Yorishiro) · 个人维护 · 中文 README
+⭐ 82 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sktkkoo/Yorishiro) · 个人维护 · 中文 README
 
 **让 AI 以虚拟形象常驻的 macOS 终端（Claude Code/Codex）**
 

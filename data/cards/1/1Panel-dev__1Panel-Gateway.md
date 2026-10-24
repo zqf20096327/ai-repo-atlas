@@ -1,6 +1,6 @@
 # 1Panel-dev/1Panel-Gateway
 
-⭐ 82 · 推送 2026-10-15 · [GitHub](https://github.com/1Panel-dev/1Panel-Gateway) · [官网](https://1panel.cn/ai-gateway.html) · 组织维护 · 中文 README
+⭐ 83 · 推送 2026-10-15 · [GitHub](https://github.com/1Panel-dev/1Panel-Gateway) · [官网](https://1panel.cn/ai-gateway.html) · 组织维护 · 中文 README
 
 **面向企业团队的 AI 统一接入与治理网关平台**
 

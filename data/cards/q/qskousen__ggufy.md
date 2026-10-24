@@ -1,6 +1,6 @@
 # qskousen/ggufy
 
-⭐ 108 · Zig · MIT · 推送 2026-10-21 · [GitHub](https://github.com/qskousen/ggufy) · 个人维护
+⭐ 109 · Zig · MIT · 推送 2026-10-24 · [GitHub](https://github.com/qskousen/ggufy) · 个人维护
 
 **Zig 编写的 safetensors/GGUF 模型格式与量化转换工具（CLI/GUI）**
 

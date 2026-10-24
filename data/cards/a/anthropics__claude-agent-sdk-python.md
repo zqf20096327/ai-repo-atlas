@@ -1,6 +1,6 @@
 # anthropics/claude-agent-sdk-python
 
-⭐ 8,338 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/anthropics/claude-agent-sdk-python) · 组织维护
+⭐ 8,344 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/anthropics/claude-agent-sdk-python) · 组织维护
 
 **Anthropic 官方 Python SDK，用于构建和驱动 Claude Code agent**
 

@@ -1,6 +1,6 @@
 # rookslog/zlibrary-mcp
 
-⭐ 100 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rookslog/zlibrary-mcp) · [官网](https://www.npmjs.com/package/zlibrary-mcp) · 个人维护
+⭐ 102 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rookslog/zlibrary-mcp) · [官网](https://www.npmjs.com/package/zlibrary-mcp) · 个人维护
 
 **供 AI 助手检索与下载图书的 MCP 服务器**
 

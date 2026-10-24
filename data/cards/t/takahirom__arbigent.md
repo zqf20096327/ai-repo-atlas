@@ -1,6 +1,6 @@
 # takahirom/arbigent
 
-⭐ 652 · Kotlin · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/takahirom/arbigent) · 个人维护
+⭐ 651 · Kotlin · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/takahirom/arbigent) · 个人维护
 
 **面向 Android/iOS/Web/TV 的 AI Agent 自动化测试框架**
 

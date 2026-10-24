@@ -1,6 +1,6 @@
 # day-mon/sports-betting-ai
 
-⭐ 114 · Rust · 推送 2026-10-22 · [GitHub](https://github.com/day-mon/sports-betting-ai) · [官网](https://accuribet.win) · 个人维护
+⭐ 115 · Rust · 推送 2026-10-22 · [GitHub](https://github.com/day-mon/sports-betting-ai) · [官网](https://accuribet.win) · 个人维护
 
 **用神经网络预测 NBA 比赛胜负的体育下注网站**
 

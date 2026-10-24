@@ -1,6 +1,6 @@
 # raiyanyahya/recall
 
-⭐ 762 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/raiyanyahya/recall) · [官网](https://recallplugin.dev) · 个人维护
+⭐ 764 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/raiyanyahya/recall) · [官网](https://recallplugin.dev) · 个人维护
 
 **给 Claude Code/OpenCode 的本地会话记忆插件**
 

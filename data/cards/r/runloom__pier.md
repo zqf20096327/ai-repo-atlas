@@ -1,6 +1,6 @@
 # runloom/pier
 
-⭐ 273 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/runloom/pier) · [官网](https://pier.codes) · 组织维护 · 中文 README
+⭐ 290 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/runloom/pier) · [官网](https://pier.codes) · 组织维护 · 中文 README
 
 **macOS 本地工作台：集中查看多个 AI 终端会话状态，旁边改文件、看 Git**
 

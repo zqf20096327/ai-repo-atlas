@@ -1,6 +1,6 @@
 # OpenRLHF/OpenRLHF
 
-⭐ 10,113 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/OpenRLHF/OpenRLHF) · [官网](https://openrlhf.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 10,115 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/OpenRLHF/OpenRLHF) · [官网](https://openrlhf.readthedocs.io/) · 组织维护 · 中文 README
 
 **面向 LLM/VLM 的分布式 RLHF 训练框架（Ray + vLLM）**
 

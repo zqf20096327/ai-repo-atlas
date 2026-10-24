@@ -1,6 +1,6 @@
 # gary23w/nl-veil
 
-⭐ 112 · Zig · MIT · 推送 2026-10-22 · [GitHub](https://github.com/gary23w/nl-veil) · [官网](https://gary23w.github.io/nl-veil/) · 个人维护
+⭐ 102 · Zig · MIT · 推送 2026-10-22 · [GitHub](https://github.com/gary23w/nl-veil) · [官网](https://gary23w.github.io/nl-veil/) · 个人维护
 
 **本地优先的 AI 编程桌面应用：多 agent 协作并记住项目**
 

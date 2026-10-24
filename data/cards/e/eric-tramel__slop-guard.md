@@ -1,6 +1,6 @@
 # eric-tramel/slop-guard
 
-⭐ 167 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/eric-tramel/slop-guard) · [官网](https://eric-tramel.github.io/blog/2026-02-18-slop-guard/) · 个人维护
+⭐ 168 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/eric-tramel/slop-guard) · [官网](https://eric-tramel.github.io/blog/2026-02-18-slop-guard/) · 个人维护
 
 **规则式文风检查器：给文本的 AI 套话程度打分**
 

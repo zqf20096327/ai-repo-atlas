@@ -1,6 +1,6 @@
 # nullclaw/nullclaw
 
-⭐ 8,133 · Zig · MIT · 推送 2026-10-08 · [GitHub](https://github.com/nullclaw/nullclaw) · [官网](https://nullclaw.io) · 组织维护 · 中文 README
+⭐ 8,132 · Zig · MIT · 推送 2026-10-08 · [GitHub](https://github.com/nullclaw/nullclaw) · [官网](https://nullclaw.io) · 组织维护 · 中文 README
 
 **Zig 编写的自主 AI 助手基础设施，678KB 单二进制运行于边缘设备**
 

@@ -1,6 +1,6 @@
 # OpenBMB/ParamMute
 
-⭐ 64 · Python · 推送 2026-10-18 · [GitHub](https://github.com/OpenBMB/ParamMute) · [官网](https://passionate11.github.io/ParamMute-project-page/) · 组织维护 · 中文 README
+⭐ 64 · Python · 推送 2026-10-24 · [GitHub](https://github.com/OpenBMB/ParamMute) · [官网](https://passionate11.github.io/ParamMute-project-page/) · 组织维护 · 中文 README
 
 **抑制关键FFN提升RAG忠实性的训练方法与模型（NeurIPS 2025）**
 

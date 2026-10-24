@@ -1,6 +1,6 @@
 # netaart/comfyui-browser
 
-⭐ 679 · Svelte · 推送 2026-08-09 · [GitHub](https://github.com/netaart/comfyui-browser) · 个人维护 · 中文 README
+⭐ 680 · Svelte · 推送 2026-08-09 · [GitHub](https://github.com/netaart/comfyui-browser) · 个人维护 · 中文 README
 
 **ComfyUI 的图像/视频/工作流浏览器与管理插件**
 

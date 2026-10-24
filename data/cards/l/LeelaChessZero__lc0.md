@@ -1,6 +1,6 @@
 # LeelaChessZero/lc0
 
-⭐ 3,254 · C++ · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/LeelaChessZero/lc0) · [官网](https://lczero.org/) · 组织维护
+⭐ 3,256 · C++ · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/LeelaChessZero/lc0) · [官网](https://lczero.org/) · 组织维护
 
 **神经网络国际象棋引擎，UCI 协议，多 GPU 后端加速**
 

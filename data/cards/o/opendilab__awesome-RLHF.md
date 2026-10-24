@@ -1,6 +1,6 @@
 # opendilab/awesome-RLHF
 
-⭐ 4,437 · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/opendilab/awesome-RLHF) · 组织维护 · 中文 README
+⭐ 4,438 · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/opendilab/awesome-RLHF) · 组织维护 · 中文 README
 
 **RLHF 研究论文策展清单：持续追踪人类反馈强化学习前沿**
 

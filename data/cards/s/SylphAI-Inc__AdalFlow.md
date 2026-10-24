@@ -1,6 +1,6 @@
 # SylphAI-Inc/AdalFlow
 
-⭐ 4,223 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/SylphAI-Inc/AdalFlow) · [官网](http://adalflow.sylph.ai/) · 组织维护
+⭐ 4,223 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SylphAI-Inc/AdalFlow) · [官网](http://adalflow.sylph.ai/) · 组织维护
 
 **构建并自动优化 LLM 应用工作流的 PyTorch 风格库**
 

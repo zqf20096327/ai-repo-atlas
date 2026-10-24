@@ -1,6 +1,6 @@
 # n0an/VivaDicta
 
-⭐ 135 · Swift · MIT · 推送 2026-10-18 · [GitHub](https://github.com/n0an/VivaDicta) · [官网](https://vivadicta.com/ios) · 个人维护
+⭐ 135 · Swift · MIT · 推送 2026-10-24 · [GitHub](https://github.com/n0an/VivaDicta) · [官网](https://vivadicta.com/ios) · 个人维护
 
 **iOS/watchOS 语音转文字应用，含 AI 语音键盘与本地 RAG 笔记问答**
 

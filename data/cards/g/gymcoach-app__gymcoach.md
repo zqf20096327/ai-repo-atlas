@@ -1,6 +1,6 @@
 # gymcoach-app/gymcoach
 
-⭐ 124 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gymcoach-app/gymcoach) · [官网](https://demo-gymcoach.mesureprivee.com) · 组织维护
+⭐ 127 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gymcoach-app/gymcoach) · [官网](https://demo-gymcoach.mesureprivee.com) · 组织维护
 
 **自托管健身记录器，带基于自有训练数据的 AI 教练**
 

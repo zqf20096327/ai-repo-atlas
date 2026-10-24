@@ -1,6 +1,6 @@
 # chanon/comfyui-obvpm
 
-⭐ 116 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/chanon/comfyui-obvpm) · 个人维护
+⭐ 119 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/chanon/comfyui-obvpm) · 个人维护
 
 **ComfyUI 自定义节点包：线束打包、预设与图像合成等整理工具**
 

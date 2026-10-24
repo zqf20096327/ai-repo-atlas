@@ -1,6 +1,6 @@
 # zai-org/GLM-ASR
 
-⭐ 859 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/zai-org/GLM-ASR) · [官网](https://autoglm.zhipuai.cn/autotyper) · 组织维护 · 中文 README
+⭐ 860 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/zai-org/GLM-ASR) · [官网](https://autoglm.zhipuai.cn/autotyper) · 组织维护 · 中文 README
 
 **面向终端用户的 1.5B 参数开源语音识别模型**
 

@@ -1,6 +1,6 @@
 # huggingface/pwc-cli
 
-⭐ 210 · Python · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/pwc-cli) · 组织维护
+⭐ 211 · Python · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/pwc-cli) · 组织维护
 
 **面向人类与 coding agent 的 Papers with Code 论文目录 CLI/Skill/MCP 服务**
 

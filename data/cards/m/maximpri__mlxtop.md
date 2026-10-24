@@ -1,6 +1,6 @@
 # maximpri/mlxtop
 
-⭐ 131 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/maximpri/mlxtop) · 个人维护
+⭐ 135 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/maximpri/mlxtop) · 个人维护
 
 **本地 LLM 推理的 TUI 资源监控工具：内存/分页/GPU/吞吐同屏**
 

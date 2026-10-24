@@ -1,6 +1,6 @@
 # guilyx/grip
 
-⭐ 205 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/guilyx/grip) · [官网](https://guilyx.github.io/grip/) · 个人维护
+⭐ 216 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/guilyx/grip) · [官网](https://guilyx.github.io/grip/) · 个人维护
 
 **推送前拷问开发者的 git hook：用模型就 diff 出题并打分**
 

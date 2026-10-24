@@ -1,6 +1,6 @@
 # BuildWithAIs/voicekey
 
-⭐ 181 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/BuildWithAIs/voicekey) · [官网](https://buildwithais.github.io/voicekey/) · 组织维护 · 中文 README
+⭐ 181 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/BuildWithAIs/voicekey) · [官网](https://buildwithais.github.io/voicekey/) · 组织维护 · 中文 README
 
 **本地优先的按键说话语音转文字桌面输入工具**
 

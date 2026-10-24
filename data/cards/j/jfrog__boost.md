@@ -1,6 +1,6 @@
 # jfrog/boost
 
-⭐ 539 · Shell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/jfrog/boost) · [官网](https://boost.jfrog.com/) · 组织维护
+⭐ 540 · Shell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/jfrog/boost) · [官网](https://boost.jfrog.com/) · 组织维护
 
 **给编码 agent 瘦身上下文的本地 CLI/桌面工具，减少 token 消耗**
 

@@ -1,6 +1,6 @@
 # Varn1t/EDAgent
 
-⭐ 56 · Python · 推送 2026-06-19 · [GitHub](https://github.com/Varn1t/EDAgent) · 个人维护
+⭐ 50 · Python · 推送 2026-06-19 · [GitHub](https://github.com/Varn1t/EDAgent) · 个人维护
 
 **本地多智能体探索性数据分析工具：CSV 进、EDA 报告出**
 

@@ -1,6 +1,6 @@
 # lastmile-ai/mcp-agent
 
-⭐ 8,572 · Python · Apache-2.0 · 推送 2026-01-25 · [GitHub](https://github.com/lastmile-ai/mcp-agent) · 组织维护
+⭐ 8,570 · Python · Apache-2.0 · 推送 2026-01-25 · [GitHub](https://github.com/lastmile-ai/mcp-agent) · 组织维护
 
 **基于 MCP 的 Python agent 构建框架：组合式工作流模式**
 

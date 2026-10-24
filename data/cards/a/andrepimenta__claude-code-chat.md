@@ -1,6 +1,6 @@
 # andrepimenta/claude-code-chat
 
-⭐ 1,087 · JavaScript · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/andrepimenta/claude-code-chat) · [官网](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) · 个人维护
+⭐ 1,086 · JavaScript · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/andrepimenta/claude-code-chat) · [官网](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) · 个人维护
 
 **VS Code 扩展：为 Claude Code 提供图形化聊天界面**
 

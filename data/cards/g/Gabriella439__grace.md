@@ -1,6 +1,6 @@
 # Gabriella439/grace
 
-⭐ 624 · Haskell · BSD-3-Clause · 推送 2026-08-31 · [GitHub](https://github.com/Gabriella439/grace) · [官网](https://trygrace.dev/) · 个人维护
+⭐ 623 · Haskell · BSD-3-Clause · 推送 2026-08-31 · [GitHub](https://github.com/Gabriella439/grace) · [官网](https://trygrace.dev/) · 个人维护
 
 **面向提示工程的函数式 DSL，构建与生成提示链**
 

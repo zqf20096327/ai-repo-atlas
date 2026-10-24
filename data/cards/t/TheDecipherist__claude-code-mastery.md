@@ -1,6 +1,6 @@
 # TheDecipherist/claude-code-mastery
 
-⭐ 555 · Shell · MIT · 推送 2026-05-07 · [GitHub](https://github.com/TheDecipherist/claude-code-mastery) · [官网](https://thedecipherist.com?utm_source=github&utm_medium=repo&utm_campaign=claude-code-mastery&utm_content=about-link    ) · 个人维护
+⭐ 556 · Shell · MIT · 推送 2026-05-07 · [GitHub](https://github.com/TheDecipherist/claude-code-mastery) · [官网](https://thedecipherist.com?utm_source=github&utm_medium=repo&utm_campaign=claude-code-mastery&utm_content=about-link    ) · 个人维护
 
 **Claude Code 使用指南与配置模板库（V2 已废弃）**
 

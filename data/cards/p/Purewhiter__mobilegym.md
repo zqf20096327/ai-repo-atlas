@@ -1,6 +1,6 @@
 # Purewhiter/mobilegym
 
-⭐ 836 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Purewhiter/mobilegym) · [官网](https://mobilegym.dev) · 组织维护 · 中文 README
+⭐ 837 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Purewhiter/mobilegym) · [官网](https://mobilegym.dev) · 组织维护 · 中文 README
 
 **移动 GUI agent 的可验证高并行浏览器仿真评测与在线 RL 平台**
 

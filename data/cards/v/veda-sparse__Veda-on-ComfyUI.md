@@ -1,6 +1,6 @@
 # veda-sparse/Veda-on-ComfyUI
 
-⭐ 195 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/veda-sparse/Veda-on-ComfyUI) · [官网](https://veda-sparse.github.io/) · 组织维护 · 中文 README
+⭐ 196 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/veda-sparse/Veda-on-ComfyUI) · [官网](https://veda-sparse.github.io/) · 组织维护 · 中文 README
 
 **ComfyUI 节点：用学习式稀疏注意力加速 MiniMax-H3 视频生成**
 

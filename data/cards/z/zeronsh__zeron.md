@@ -1,6 +1,6 @@
 # zeronsh/zeron
 
-⭐ 3,333 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zeronsh/zeron) · [官网](https://zeron.sh) · 组织维护 · 中文 README
+⭐ 3,344 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zeronsh/zeron) · [官网](https://zeron.sh) · 组织维护 · 中文 README
 
 **本地优先的编码 agent 控制面板：管理与监控多种 coding agent**
 

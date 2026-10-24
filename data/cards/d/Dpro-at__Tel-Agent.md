@@ -1,6 +1,6 @@
 # Dpro-at/Tel-Agent
 
-⭐ 1,156 · Python · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/Dpro-at/Tel-Agent) · [官网](https://Tel-Agent.com) · 组织维护
+⭐ 1,154 · Python · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/Dpro-at/Tel-Agent) · [官网](https://Tel-Agent.com) · 组织维护
 
 **自托管 AI 电话助理网关：SIP 电话线接入 AI agent**
 

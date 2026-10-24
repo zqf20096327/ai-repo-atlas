@@ -1,6 +1,6 @@
 # LaurentMazare/tch-rs
 
-⭐ 5,507 · Rust · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/LaurentMazare/tch-rs) · 个人维护
+⭐ 5,505 · Rust · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/LaurentMazare/tch-rs) · 个人维护
 
 **PyTorch C++ API 的 Rust 绑定，供 Rust 开发深度学习**
 

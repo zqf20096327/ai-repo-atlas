@@ -1,6 +1,6 @@
 # lightbearco/tupper
 
-⭐ 88 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/lightbearco/tupper) · 组织维护
+⭐ 89 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/lightbearco/tupper) · 组织维护
 
 **自托管的 AI agent 代码执行沙箱，Apple Containers 隔离不可信代码**
 

@@ -1,6 +1,6 @@
 # EmbraceAGI/Awesome-AGI
 
-⭐ 580 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/EmbraceAGI/Awesome-AGI) · 组织维护 · 中文 README
+⭐ 579 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/EmbraceAGI/Awesome-AGI) · 组织维护 · 中文 README
 
 **AGI 框架与资源的策展清单：前沿模型、agent 工具与论文聚合**
 

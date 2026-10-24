@@ -1,6 +1,6 @@
 # hust-open-atom-club/oh-dsh
 
-⭐ 323 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/hust-open-atom-club/oh-dsh) · [官网](https://dsh.openatom.club/) · 组织维护 · 中文 README
+⭐ 324 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/hust-open-atom-club/oh-dsh) · [官网](https://dsh.openatom.club/) · 组织维护 · 中文 README
 
 **DSH runtime 发行版：Desktop/Web/TUI 三端本地 AI 开发工作台**
 

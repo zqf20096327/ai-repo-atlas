@@ -1,6 +1,6 @@
 # AlbanPerli/Noema-Declarative-AI
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/AlbanPerli/Noema-Declarative-AI) · 个人维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/AlbanPerli/Noema-Declarative-AI) · 个人维护
 
 **声明式控制 LLM 生成的 Python 框架**
 

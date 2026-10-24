@@ -1,6 +1,6 @@
 # pixie-io/pixie
 
-⭐ 6,552 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/pixie-io/pixie) · [官网](https://px.dev) · 组织维护
+⭐ 6,551 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/pixie-io/pixie) · [官网](https://px.dev) · 组织维护
 
 **面向 Kubernetes 应用的 eBPF 自动遥测观测工具**
 

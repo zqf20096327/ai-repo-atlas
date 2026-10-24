@@ -1,6 +1,6 @@
 # six2dez/burp-ai-agent
 
-⭐ 1,553 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/six2dez/burp-ai-agent) · [官网](https://burp-ai-agent.six2dez.com/) · 个人维护
+⭐ 1,555 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/six2dez/burp-ai-agent) · [官网](https://burp-ai-agent.six2dez.com/) · 个人维护
 
 **Burp Suite 的 AI 集成扩展：多后端模型分析与 MCP 扫描**
 

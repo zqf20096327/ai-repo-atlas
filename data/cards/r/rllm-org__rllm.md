@@ -1,6 +1,6 @@
 # rllm-org/rllm
 
-⭐ 5,895 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/rllm-org/rllm) · [官网](https://docs.rllm-project.com) · 组织维护
+⭐ 5,896 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/rllm-org/rllm) · [官网](https://docs.rllm-project.com) · 组织维护
 
 **面向开发者：用强化学习训练语言 agent 的开源框架**
 

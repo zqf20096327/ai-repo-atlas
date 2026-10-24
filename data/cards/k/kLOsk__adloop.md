@@ -1,6 +1,6 @@
 # kLOsk/adloop
 
-⭐ 286 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kLOsk/adloop) · [官网](https://getadloop.com) · 个人维护
+⭐ 287 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kLOsk/adloop) · [官网](https://getadloop.com) · 个人维护
 
 **让 AI 助手读写 Google Ads/GA4 的 MCP 服务器，带防误花钱护栏**
 

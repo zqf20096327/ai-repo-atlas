@@ -1,6 +1,6 @@
 # Kc1t/alethe-agents
 
-⭐ 975 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Kc1t/alethe-agents) · [官网](https://alethe-agents.kc1t.com/) · 个人维护 · 中文 README
+⭐ 982 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Kc1t/alethe-agents) · [官网](https://alethe-agents.kc1t.com/) · 个人维护 · 中文 README
 
 **本地优先桌面工作台：并行运行、组织与恢复多个编码 agent 与终端**
 

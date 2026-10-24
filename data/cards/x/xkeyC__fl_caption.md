@@ -1,6 +1,6 @@
 # xkeyC/fl_caption
 
-⭐ 97 · Dart · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/xkeyC/fl_caption) · 个人维护 · 中文 README
+⭐ 97 · Dart · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/xkeyC/fl_caption) · 个人维护 · 中文 README
 
 **离线实时字幕与翻译工具，识别电脑声音并实时翻译**
 

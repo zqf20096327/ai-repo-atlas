@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-infrastructure
 
-⭐ 78 · Python · 推送 2026-09-20 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-infrastructure) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ 77 · Python · 推送 2026-09-20 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-infrastructure) · [官网](https://lnktr.net/awesome) · 个人维护
 
 **AI 基础设施工具策展清单：分布式训练/模型服务/MLOps 等**
 

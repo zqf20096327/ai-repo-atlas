@@ -1,6 +1,6 @@
 # lucidrains/byol-pytorch
 
-⭐ 1,900 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/lucidrains/byol-pytorch) · 个人维护
+⭐ 1,899 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/lucidrains/byol-pytorch) · 个人维护
 
 **PyTorch 实现的 BYOL 自监督学习库，可包裹任意图像网络**
 

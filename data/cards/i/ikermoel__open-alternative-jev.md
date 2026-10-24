@@ -1,6 +1,6 @@
 # ikermoel/open-alternative-jev
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/ikermoel/open-alternative-jev) · [官网](https://huggingface.co/spaces/IkerMoel/open-alternative-jev) · 个人维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/ikermoel/open-alternative-jev) · [官网](https://huggingface.co/spaces/IkerMoel/open-alternative-jev) · 个人维护
 
 **开源库：让任意开源权重 LLM 一次前向输出类型化、校准的决策**
 

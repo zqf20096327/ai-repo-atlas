@@ -1,6 +1,6 @@
 # gunthercox/ChatterBot
 
-⭐ 14,520 · Python · BSD-3-Clause · 推送 2026-08-25 · [GitHub](https://github.com/gunthercox/ChatterBot) · [官网](http://docs.chatterbot.us/) · 个人维护
+⭐ 14,521 · Python · BSD-3-Clause · 推送 2026-08-25 · [GitHub](https://github.com/gunthercox/ChatterBot) · [官网](http://docs.chatterbot.us/) · 个人维护
 
 **面向开发者的 Python 机器学习对话引擎，用于创建聊天机器人**
 

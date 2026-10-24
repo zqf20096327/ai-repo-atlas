@@ -1,6 +1,6 @@
 # decodingai-magazine/second-brain-ai-assistant-course
 
-⭐ 3,123 · Jupyter Notebook · MIT · 推送 2026-04-06 · [GitHub](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) · [官网](https://decodingml.substack.com/p/build-your-second-brain-ai-assistant) · 组织维护
+⭐ 3,124 · Jupyter Notebook · MIT · 推送 2026-04-06 · [GitHub](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) · [官网](https://decodingml.substack.com/p/build-your-second-brain-ai-assistant) · 组织维护
 
 **开源课程：构建基于 RAG、Agent 与 LLMOps 的第二大脑 AI 助手**
 

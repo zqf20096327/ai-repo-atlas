@@ -1,6 +1,6 @@
 # AIScientists-Dev/WorldSeed
 
-⭐ 822 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/AIScientists-Dev/WorldSeed) · [官网](https://worldseed.morphmind.ai/demo) · 组织维护 · 中文 README
+⭐ 821 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/AIScientists-Dev/WorldSeed) · [官网](https://worldseed.morphmind.ai/demo) · 组织维护 · 中文 README
 
 **多智能体世界引擎：用 YAML 定义规则驱动 AI 智能体涌现交互**
 

@@ -1,6 +1,6 @@
 # Hainrixz/editor-pro-max
 
-⭐ 277 · TypeScript · NOASSERTION · 推送 2026-03-26 · [GitHub](https://github.com/Hainrixz/editor-pro-max) · [官网](https://www.tododeia.com) · 个人维护
+⭐ 279 · TypeScript · NOASSERTION · 推送 2026-03-26 · [GitHub](https://github.com/Hainrixz/editor-pro-max) · [官网](https://www.tododeia.com) · 个人维护
 
 **用自然语言让 Claude Code 生成视频的本地视频编辑器**
 

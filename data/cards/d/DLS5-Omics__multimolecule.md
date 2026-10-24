@@ -1,6 +1,6 @@
 # DLS5-Omics/multimolecule
 
-⭐ 57 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/DLS5-Omics/multimolecule) · [官网](https://multimolecule.danling.org/) · 组织维护
+⭐ 57 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/DLS5-Omics/multimolecule) · [官网](https://multimolecule.danling.org/) · 组织维护
 
 **分子机器学习一站式生态系统，覆盖 RNA/DNA/蛋白质任务**
 

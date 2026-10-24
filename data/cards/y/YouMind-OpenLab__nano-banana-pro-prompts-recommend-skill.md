@@ -1,6 +1,6 @@
 # YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
 
-⭐ 1,889 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) · [官网](https://youmind.com/nano-banana-pro-prompts) · 组织维护
+⭐ 1,889 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) · [官网](https://youmind.com/nano-banana-pro-prompts) · 组织维护
 
 **为 AI 助手提供 1 万+ Nano Banana Pro 图像提示词检索技能**
 

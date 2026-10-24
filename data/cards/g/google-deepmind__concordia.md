@@ -1,6 +1,6 @@
 # google-deepmind/concordia
 
-⭐ 1,819 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/concordia) · 组织维护
+⭐ 1,821 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/concordia) · 组织维护
 
 **生成式社会模拟库：用 LLM 驱动 agent 在环境中交互**
 

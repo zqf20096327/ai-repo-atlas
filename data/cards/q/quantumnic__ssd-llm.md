@@ -1,6 +1,6 @@
 # quantumnic/ssd-llm
 
-⭐ 55 · Rust · MIT · 推送 2026-08-24 · [GitHub](https://github.com/quantumnic/ssd-llm) · 个人维护
+⭐ 55 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/quantumnic/ssd-llm) · 个人维护
 
 **用 SSD 扩展内存、在 Apple Silicon 上运行 70B+ LLM 的推理运行时**
 

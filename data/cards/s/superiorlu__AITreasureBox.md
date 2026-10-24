@@ -1,6 +1,6 @@
 # superiorlu/AITreasureBox
 
-⭐ 875 · Ruby · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/superiorlu/AITreasureBox) · 个人维护 · 中文 README
+⭐ 875 · Ruby · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/superiorlu/AITreasureBox) · 个人维护 · 中文 README
 
 **AI 百宝箱：自动采集并排名 AI 仓库/工具/论文/教程清单**
 

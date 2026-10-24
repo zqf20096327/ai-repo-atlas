@@ -1,6 +1,6 @@
 # miantiao-me/ssh-ai-chat
 
-⭐ 925 · TypeScript · AGPL-3.0 · 推送 2025-12-20 · [GitHub](https://github.com/miantiao-me/ssh-ai-chat) · [官网](https://chat.agi.li) · 个人维护 · 中文 README
+⭐ 924 · TypeScript · AGPL-3.0 · 推送 2025-12-20 · [GitHub](https://github.com/miantiao-me/ssh-ai-chat) · [官网](https://chat.agi.li) · 个人维护 · 中文 README
 
 **通过 SSH 终端与 AI 聊天的自托管 TUI 服务**
 

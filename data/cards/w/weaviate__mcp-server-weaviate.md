@@ -1,6 +1,6 @@
 # weaviate/mcp-server-weaviate
 
-⭐ 162 · 推送 2026-05-26 · [GitHub](https://github.com/weaviate/mcp-server-weaviate) · [官网](https://www.anthropic.com/news/model-context-protocol) · 组织维护
+⭐ 161 · 推送 2026-05-26 · [GitHub](https://github.com/weaviate/mcp-server-weaviate) · [官网](https://www.anthropic.com/news/model-context-protocol) · 组织维护
 
 **Weaviate 的 MCP 服务器（已弃用，已并入 Weaviate 主程序）**
 

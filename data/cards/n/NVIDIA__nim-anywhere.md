@@ -1,6 +1,6 @@
 # NVIDIA/nim-anywhere
 
-⭐ 284 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/NVIDIA/nim-anywhere) · [官网](https://www.nvidia.com/en-us/ai/) · 组织维护
+⭐ 283 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/NVIDIA/nim-anywhere) · [官网](https://www.nvidia.com/en-us/ai/) · 组织维护
 
 **基于 NVIDIA NIM 微服务构建 RAG 应用的项目模板**
 

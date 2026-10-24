@@ -1,6 +1,6 @@
 # stevereiner/flexible-graphrag
 
-⭐ 194 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/stevereiner/flexible-graphrag) · [官网](https://stevereiner.github.io/flexible-graphrag/) · 个人维护
+⭐ 194 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/stevereiner/flexible-graphrag) · [官网](https://stevereiner.github.io/flexible-graphrag/) · 个人维护
 
 **开源 AI 上下文平台：多数据源接入与 GraphRAG/RAG/混合检索/AI 问答**
 

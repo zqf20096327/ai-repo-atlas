@@ -1,6 +1,6 @@
 # e2b-dev/awesome-ai-agents
 
-⭐ 30,596 · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/e2b-dev/awesome-ai-agents) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents) · 组织维护
+⭐ 30,611 · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/e2b-dev/awesome-ai-agents) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents) · 组织维护
 
 **为开发者和研究者收录开源与闭源 AI 智能体项目的清单**
 

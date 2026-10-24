@@ -1,6 +1,6 @@
 # luxonis/depthai
 
-⭐ 1,069 · Python · 推送 2026-09-24 · [GitHub](https://github.com/luxonis/depthai) · [官网](https://docs.luxonis.com) · 组织维护
+⭐ 1,070 · Python · 推送 2026-09-24 · [GitHub](https://github.com/luxonis/depthai) · [官网](https://docs.luxonis.com) · 组织维护
 
 **Luxonis 平台开发入口：引导至官方文档**
 

@@ -1,6 +1,6 @@
 # wenxuanzhang1209-cyber/jkinco-listen-open
 
-⭐ 106 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wenxuanzhang1209-cyber/jkinco-listen-open) · [官网](https://wenxuanzhang1209-cyber.github.io/jkinco-listen-open/) · 个人维护 · 中文 README
+⭐ 106 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wenxuanzhang1209-cyber/jkinco-listen-open) · [官网](https://wenxuanzhang1209-cyber.github.io/jkinco-listen-open/) · 个人维护 · 中文 README
 
 **全本地运行的 AI 会议纪要工作台：录音转写到 DOCX/PDF 导出**
 

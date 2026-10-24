@@ -1,6 +1,6 @@
 # Manavarya09/design-extract
 
-⭐ 4,341 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Manavarya09/design-extract) · [官网](https://www.designlang.app) · 个人维护
+⭐ 4,358 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Manavarya09/design-extract) · [官网](https://www.designlang.app) · 个人维护
 
 **从任意网站提取完整设计系统的 CLI：DTCG tokens、保真度评分与多平台输出**
 

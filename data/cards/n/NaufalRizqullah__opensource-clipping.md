@@ -1,6 +1,6 @@
 # NaufalRizqullah/opensource-clipping
 
-⭐ 183 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/NaufalRizqullah/opensource-clipping) · [官网](https://naufalrizqullah.github.io/opensource-clipping/) · 个人维护 · 中文 README
+⭐ 185 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/NaufalRizqullah/opensource-clipping) · [官网](https://naufalrizqullah.github.io/opensource-clipping/) · 个人维护 · 中文 README
 
 **把长视频/播客自动转为短视频高光片段的 AI 剪辑流水线**
 

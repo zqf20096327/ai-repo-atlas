@@ -1,6 +1,6 @@
 # aws-samples/serverless-genai-food-analyzer-app
 
-⭐ 96 · TypeScript · MIT-0 · 推送 2026-04-06 · [GitHub](https://github.com/aws-samples/serverless-genai-food-analyzer-app) · 组织维护
+⭐ 94 · TypeScript · MIT-0 · 推送 2026-04-06 · [GitHub](https://github.com/aws-samples/serverless-genai-food-analyzer-app) · 组织维护
 
 **面向消费者的无服务器营养分析 Web 应用：扫码与拍照生成个性化食谱**
 

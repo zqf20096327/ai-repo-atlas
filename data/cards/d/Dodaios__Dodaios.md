@@ -1,6 +1,6 @@
 # Dodaios/Dodaios
 
-⭐ 249 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Dodaios/Dodaios) · [官网](https://dodaios.ai) · 个人维护 · 中文 README
+⭐ 250 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Dodaios/Dodaios) · [官网](https://dodaios.ai) · 个人维护 · 中文 README
 
 **本地开源桌面 Agent OS：语音/聊天调度编码 Agent 与应用**
 

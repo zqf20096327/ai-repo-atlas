@@ -1,6 +1,6 @@
 # a2aproject/a2a-java
 
-⭐ 506 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/a2aproject/a2a-java) · [官网](https://a2aproject.github.io/a2a-java/) · 组织维护
+⭐ 507 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/a2aproject/a2a-java) · [官网](https://a2aproject.github.io/a2a-java/) · 组织维护
 
 **Java 开发者的 A2A 协议 SDK：实现 agent 间通信客户端与服务端**
 

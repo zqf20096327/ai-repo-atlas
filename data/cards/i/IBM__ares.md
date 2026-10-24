@@ -1,6 +1,6 @@
 # IBM/ares
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/IBM/ares) · [官网](https://ibm.github.io/ares/) · 组织维护
+⭐ 73 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/IBM/ares) · [官网](https://ibm.github.io/ares/) · 组织维护
 
 **面向研究与企业安全团队的 LLM 红队/鲁棒性评测编排框架**
 

@@ -1,6 +1,6 @@
 # HenWorks/Hermes-agent-android-PC-companion-app
 
-⭐ 119 · Python · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/HenWorks/Hermes-agent-android-PC-companion-app) · 组织维护 · 中文 README
+⭐ 121 · Python · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/HenWorks/Hermes-agent-android-PC-companion-app) · 组织维护 · 中文 README
 
 **Hermes-agent 手机应用的 PC 伴侣：跨设备跑任务与会话接力**
 

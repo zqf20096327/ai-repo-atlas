@@ -1,6 +1,6 @@
 # supabase-community/chatgpt-your-files
 
-⭐ 516 · TypeScript · 推送 2026-05-12 · [GitHub](https://github.com/supabase-community/chatgpt-your-files) · [官网](https://youtu.be/ibzlEQmgPPY) · 组织维护
+⭐ 515 · TypeScript · 推送 2026-05-12 · [GitHub](https://github.com/supabase-community/chatgpt-your-files) · [官网](https://youtu.be/ibzlEQmgPPY) · 组织维护
 
 **教学工坊：用 Supabase+pgvector 搭建安全文档对话 MVP**
 

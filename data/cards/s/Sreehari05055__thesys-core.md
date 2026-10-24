@@ -1,6 +1,6 @@
 # Sreehari05055/thesys-core
 
-⭐ 177 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/Sreehari05055/thesys-core) · 个人维护
+⭐ 176 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/Sreehari05055/thesys-core) · 个人维护
 
 **本地优先的科研文献工作区：检索、RAG 问答与引文导出**
 

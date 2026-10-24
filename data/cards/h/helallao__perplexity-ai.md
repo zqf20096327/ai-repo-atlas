@@ -1,6 +1,6 @@
 # helallao/perplexity-ai
 
-⭐ 1,986 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/helallao/perplexity-ai) · [官网](https://perplexity.ai) · 个人维护
+⭐ 1,985 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/helallao/perplexity-ai) · [官网](https://perplexity.ai) · 个人维护
 
 **非官方 Perplexity.ai Python 封装：逆向网页接口免 API key 使用**
 

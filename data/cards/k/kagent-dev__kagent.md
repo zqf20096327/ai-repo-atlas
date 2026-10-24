@@ -1,6 +1,6 @@
 # kagent-dev/kagent
 
-⭐ 4,078 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kagent-dev/kagent) · [官网](https://kagent.dev) · 组织维护
+⭐ 4,087 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/kagent-dev/kagent) · [官网](https://kagent.dev) · 组织维护
 
 **Kubernetes 原生框架：在 K8s 中构建、部署、管理 AI agent**
 

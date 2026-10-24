@@ -1,6 +1,6 @@
 # EXXETA/exxperts
 
-⭐ 408 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/EXXETA/exxperts) · 组织维护
+⭐ 406 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/EXXETA/exxperts) · 组织维护
 
 **本地优先的 AI 同事应用：审批制记忆，任意模型商**
 

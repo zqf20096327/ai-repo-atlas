@@ -1,6 +1,6 @@
 # Snowflake-Labs/cocoplus
 
-⭐ 723 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Snowflake-Labs/cocoplus) · [官网](https://cocoplus.dev/) · 组织维护
+⭐ 726 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Snowflake-Labs/cocoplus) · [官网](https://cocoplus.dev/) · 组织维护
 
 **面向 Snowflake Coco 的数据工程多智能体工作流插件系统**
 

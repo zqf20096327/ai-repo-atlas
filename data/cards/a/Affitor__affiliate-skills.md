@@ -1,6 +1,6 @@
 # Affitor/affiliate-skills
 
-⭐ 740 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Affitor/affiliate-skills) · [官网](https://affitor.com) · 组织维护
+⭐ 742 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Affitor/affiliate-skills) · [官网](https://affitor.com) · 组织维护
 
 **面向联盟营销的 52 个 AI agent 技能集（8 阶段闭环）**
 

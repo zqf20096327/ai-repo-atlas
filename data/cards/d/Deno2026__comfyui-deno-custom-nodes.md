@@ -1,6 +1,6 @@
 # Deno2026/comfyui-deno-custom-nodes
 
-⭐ 196 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/Deno2026/comfyui-deno-custom-nodes) · [官网](https://github.com/Deno2026/comfyui-deno-custom-nodes#readme) · 个人维护 · 中文 README
+⭐ 196 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Deno2026/comfyui-deno-custom-nodes) · [官网](https://github.com/Deno2026/comfyui-deno-custom-nodes#readme) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点包：媒体加载/比较与生成工作流辅助工具**
 

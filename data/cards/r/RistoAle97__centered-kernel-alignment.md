@@ -1,6 +1,6 @@
 # RistoAle97/centered-kernel-alignment
 
-⭐ 83 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/RistoAle97/centered-kernel-alignment) · 个人维护
+⭐ 83 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/RistoAle97/centered-kernel-alignment) · 个人维护
 
 **给研究者的 PyTorch CKA 表示相似度计算库**
 

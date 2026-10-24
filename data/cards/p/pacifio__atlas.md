@@ -1,6 +1,6 @@
 # pacifio/atlas
 
-⭐ 9,598 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pacifio/atlas) · [官网](https://www.tryatlas.cc/) · 组织维护
+⭐ 9,536 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/pacifio/atlas) · [官网](https://www.tryatlas.cc/) · 组织维护
 
 **面向编码代理的源码控制桌面应用：追踪并查询各代理的改动**
 

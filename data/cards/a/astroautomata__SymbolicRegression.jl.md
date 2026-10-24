@@ -1,6 +1,6 @@
 # astroautomata/SymbolicRegression.jl
 
-⭐ 808 · Julia · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/astroautomata/SymbolicRegression.jl) · [官网](https://julia.pysr.ai) · 个人维护
+⭐ 809 · Julia · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/astroautomata/SymbolicRegression.jl) · [官网](https://julia.pysr.ai) · 个人维护
 
 **Julia 符号回归库：搜索优化目标的解析表达式**
 

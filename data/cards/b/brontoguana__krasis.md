@@ -1,6 +1,6 @@
 # brontoguana/krasis
 
-⭐ 522 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/brontoguana/krasis) · 组织维护
+⭐ 523 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/brontoguana/krasis) · 组织维护
 
 **在消费级 NVIDIA GPU 上运行超大 MoE 模型的 LLM 推理运行时**
 

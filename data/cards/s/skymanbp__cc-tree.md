@@ -1,6 +1,6 @@
 # skymanbp/cc-tree
 
-⭐ 95 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/skymanbp/cc-tree) · [官网](https://github.com/skymanbp/cc-tree#readme) · 个人维护 · 中文 README
+⭐ 94 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/skymanbp/cc-tree) · [官网](https://github.com/skymanbp/cc-tree#readme) · 个人维护 · 中文 README
 
 **Claude Code 插件：以可审计的径向树结构做发散与对抗式探索**
 

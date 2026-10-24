@@ -1,6 +1,6 @@
 # adriannoes/awesome-agentic-ai
 
-⭐ 72 · Jupyter Notebook · MIT · 推送 2026-10-10 · [GitHub](https://github.com/adriannoes/awesome-agentic-ai) · 个人维护
+⭐ 72 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/adriannoes/awesome-agentic-ai) · 个人维护
 
 **面向产品构建者的 AI 辅助开发资源聚合中心（技能/论文/教材）**
 

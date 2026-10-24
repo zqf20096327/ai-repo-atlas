@@ -1,6 +1,6 @@
 # xiaofeng-928/chinese-longnovel-skill
 
-⭐ 74 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/xiaofeng-928/chinese-longnovel-skill) · 个人维护 · 中文 README
+⭐ 75 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/xiaofeng-928/chinese-longnovel-skill) · 个人维护 · 中文 README
 
 **给网文作者的可安装 Skill：让 Codex/Claude Code 长篇连载不写崩**
 

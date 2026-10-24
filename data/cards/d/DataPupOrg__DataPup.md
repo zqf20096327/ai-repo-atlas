@@ -1,6 +1,6 @@
 # DataPupOrg/DataPup
 
-⭐ 309 · TypeScript · MIT · 推送 2026-02-09 · [GitHub](https://github.com/DataPupOrg/DataPup) · 组织维护
+⭐ 308 · TypeScript · MIT · 推送 2026-02-09 · [GitHub](https://github.com/DataPupOrg/DataPup) · 组织维护
 
 **带 AI 查询辅助的跨平台开源数据库客户端**
 

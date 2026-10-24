@@ -1,6 +1,6 @@
 # AutomationPanda/gherkin-guidelines-for-ai
 
-⭐ 59 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/AutomationPanda/gherkin-guidelines-for-ai) · 个人维护
+⭐ 60 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/AutomationPanda/gherkin-guidelines-for-ai) · 个人维护
 
 **供 AI 编码代理使用的 Gherkin 场景编写规范文档**
 

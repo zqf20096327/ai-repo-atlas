@@ -1,6 +1,6 @@
 # pluja/whishper
 
-⭐ 3,094 · Svelte · AGPL-3.0 · 推送 2026-07-31 · [GitHub](https://github.com/pluja/whishper) · [官网](https://whishper-docs.pages.dev/) · 个人维护
+⭐ 3,092 · Svelte · AGPL-3.0 · 推送 2026-07-31 · [GitHub](https://github.com/pluja/whishper) · [官网](https://whishper-docs.pages.dev/) · 个人维护
 
 **本地音频转写与字幕编辑的 Web 套件**
 

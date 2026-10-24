@@ -1,6 +1,6 @@
 # openai/planttalk
 
-⭐ 314 · TypeScript · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/openai/planttalk) · 组织维护
+⭐ 315 · TypeScript · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/openai/planttalk) · 组织维护
 
 **可对话的盆栽项目：用 ChatGPT 让植物开口说话**
 

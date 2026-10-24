@@ -1,6 +1,6 @@
 # huggingface/gpu-fryer
 
-⭐ 412 · Rust · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/gpu-fryer) · 组织维护
+⭐ 413 · Rust · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/gpu-fryer) · 组织维护
 
 **GPU 压力测试工具：检测热降频与性能劣化**
 

@@ -1,6 +1,6 @@
 # InternLM/WildClawBench
 
-⭐ 533 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/InternLM/WildClawBench) · [官网](https://internlm.github.io/WildClawBench/) · 组织维护 · 中文 README
+⭐ 531 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/InternLM/WildClawBench) · [官网](https://internlm.github.io/WildClawBench/) · 组织维护 · 中文 README
 
 **AI agent 端到端实战基准：60 个真实任务 + 四种 harness 对比评测**
 

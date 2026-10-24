@@ -1,6 +1,6 @@
 # sdsds222/Unitale
 
-⭐ 235 · HTML · MIT · 推送 2026-07-05 · [GitHub](https://github.com/sdsds222/Unitale) · [官网](https://www.bilibili.com/video/BV1AkzLB7E8M/?spm_id_from=333.1387.homepage.video_card.click) · 个人维护 · 中文 README
+⭐ 236 · HTML · MIT · 推送 2026-07-05 · [GitHub](https://github.com/sdsds222/Unitale) · [官网](https://www.bilibili.com/video/BV1AkzLB7E8M/?spm_id_from=333.1387.homepage.video_card.click) · 个人维护 · 中文 README
 
 **浏览器内一键生成多角色有声书的 AI 工作台**
 

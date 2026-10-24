@@ -1,6 +1,6 @@
 # swax/NAISYS
 
-⭐ 69 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/swax/NAISYS) · [官网](https://naisys.org/) · 个人维护
+⭐ 69 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/swax/NAISYS) · [官网](https://naisys.org/) · 个人维护
 
 **自托管的『人+AI agent』共享集群：汇总机器、模型账号与工作**
 

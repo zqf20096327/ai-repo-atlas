@@ -1,6 +1,6 @@
 # jiep/offensive-ai-compilation
 
-⭐ 1,442 · HTML · CC-BY-SA-4.0 · 推送 2026-10-03 · [GitHub](https://github.com/jiep/offensive-ai-compilation) · [官网](https://jiep.github.io/offensive-ai-compilation/) · 个人维护
+⭐ 1,441 · HTML · CC-BY-SA-4.0 · 推送 2026-10-03 · [GitHub](https://github.com/jiep/offensive-ai-compilation) · [官网](https://jiep.github.io/offensive-ai-compilation/) · 个人维护
 
 **Offensive AI 资源策展清单：攻击与防御论文/工具汇编**
 

@@ -1,6 +1,6 @@
 # Francis1998/agentic-career-search
 
-⭐ 101 · Python · 推送 2026-10-23 · [GitHub](https://github.com/Francis1998/agentic-career-search) · [官网](https://github.com/Francis1998/agentic-career-search#why-this-is-agentic) · 个人维护
+⭐ 101 · Python · 推送 2026-10-24 · [GitHub](https://github.com/Francis1998/agentic-career-search) · [官网](https://github.com/Francis1998/agentic-career-search#why-this-is-agentic) · 个人维护
 
 **自主求职发现的 AI agent 编排引擎：可解释决策与运行管控**
 

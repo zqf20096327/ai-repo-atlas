@@ -1,6 +1,6 @@
 # SkardiLabs/skardi
 
-⭐ 108 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/SkardiLabs/skardi) · [官网](https://skardi.ai) · 组织维护
+⭐ 108 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/SkardiLabs/skardi) · [官网](https://skardi.ai) · 组织维护
 
 **面向 AI agent 的自进化上下文框架：记录查询意图并固化为工具**
 

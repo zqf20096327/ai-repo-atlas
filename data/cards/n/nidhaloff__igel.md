@@ -1,6 +1,6 @@
 # nidhaloff/igel
 
-⭐ 3,142 · Python · MIT · 推送 2025-12-07 · [GitHub](https://github.com/nidhaloff/igel) · [官网](https://igel.readthedocs.io/en/latest/) · 个人维护
+⭐ 3,141 · Python · MIT · 推送 2025-12-07 · [GitHub](https://github.com/nidhaloff/igel) · [官网](https://igel.readthedocs.io/en/latest/) · 个人维护
 
 **无代码机器学习 CLI 工具：用配置文件训练、评估、预测模型**
 

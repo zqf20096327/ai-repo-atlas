@@ -1,6 +1,6 @@
 # TonyStef/Grov
 
-⭐ 191 · TypeScript · Apache-2.0 · 推送 2026-01-29 · [GitHub](https://github.com/TonyStef/Grov) · [官网](https://grov.dev/) · 个人维护
+⭐ 190 · TypeScript · Apache-2.0 · 推送 2026-01-29 · [GitHub](https://github.com/TonyStef/Grov) · [官网](https://grov.dev/) · 个人维护
 
 **工程团队的共享 AI 记忆工具：捕获并同步 AI 会话上下文**
 

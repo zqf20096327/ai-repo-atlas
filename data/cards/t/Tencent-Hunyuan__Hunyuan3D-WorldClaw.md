@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan3D-WorldClaw
 
-⭐ 1,410 · 推送 2026-08-13 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) · [官网](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) · 组织维护 · 中文 README
+⭐ 1,411 · 推送 2026-08-13 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) · [官网](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) · 组织维护 · 中文 README
 
 **腾讯混元的大规模 3D 开放世界智能体生成研究（论文发布）**
 

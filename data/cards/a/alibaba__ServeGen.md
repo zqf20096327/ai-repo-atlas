@@ -1,6 +1,6 @@
 # alibaba/ServeGen
 
-⭐ 184 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/alibaba/ServeGen) · 组织维护 · 中文 README
+⭐ 185 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/alibaba/ServeGen) · 组织维护 · 中文 README
 
 **面向 LLM 推理服务的真实工作负载生成框架**
 

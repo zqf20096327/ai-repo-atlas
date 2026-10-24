@@ -1,6 +1,6 @@
 # steipete/CodexBar
 
-⭐ 22,762 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/steipete/CodexBar) · [官网](https://codex.bar) · 个人维护
+⭐ 22,780 · Swift · MIT · 推送 2026-10-24 · [GitHub](https://github.com/steipete/CodexBar) · [官网](https://codex.bar) · 个人维护
 
 **macOS 菜单栏/Linux 桌面应用：集中显示 106 个 AI 编程服务的用量与限额**
 

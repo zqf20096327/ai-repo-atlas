@@ -1,6 +1,6 @@
 # jpoindexter/ableton-mcp
 
-⭐ 60 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/jpoindexter/ableton-mcp) · [官网](https://github.com/jpoindexter/ableton-mcp) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/jpoindexter/ableton-mcp) · [官网](https://github.com/jpoindexter/ableton-mcp) · 个人维护
 
 **让 LLM 通过 MCP/REST 控制 Ableton Live 的工具集成（200+ 工具）**
 

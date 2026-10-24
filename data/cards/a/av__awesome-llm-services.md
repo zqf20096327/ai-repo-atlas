@@ -1,6 +1,6 @@
 # av/awesome-llm-services
 
-⭐ 273 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/av/awesome-llm-services) · 个人维护
+⭐ 273 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/av/awesome-llm-services) · 个人维护
 
 **自托管 LLM 服务精选清单：161+ 个可本地运行的 AI 工具**
 

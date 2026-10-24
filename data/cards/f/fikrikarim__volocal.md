@@ -1,6 +1,6 @@
 # fikrikarim/volocal
 
-⭐ 101 · Swift · MIT · 推送 2026-04-02 · [GitHub](https://github.com/fikrikarim/volocal) · [官网](https://apps.apple.com/app/volocal/id6761493288) · 个人维护
+⭐ 102 · Swift · MIT · 推送 2026-04-02 · [GitHub](https://github.com/fikrikarim/volocal) · [官网](https://apps.apple.com/app/volocal/id6761493288) · 个人维护
 
 **iOS 端完全本地运行的实时语音 AI 应用**
 

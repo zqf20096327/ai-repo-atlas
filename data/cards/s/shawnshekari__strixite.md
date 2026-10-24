@@ -1,6 +1,6 @@
 # shawnshekari/strixite
 
-⭐ 76 · C++ · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/shawnshekari/strixite) · [官网](https://huggingface.co/wemoh/Qwen3.8-Flash-Next-strixw) · 个人维护
+⭐ 77 · C++ · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/shawnshekari/strixite) · [官网](https://huggingface.co/wemoh/Qwen3.8-Flash-Next-strixw) · 个人维护
 
 **面向 AMD Strix Halo 的从零手写 HIP LLM 推理引擎**
 

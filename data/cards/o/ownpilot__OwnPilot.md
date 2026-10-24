@@ -1,6 +1,6 @@
 # ownpilot/OwnPilot
 
-⭐ 429 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/ownpilot/OwnPilot) · [官网](http://ownpilot.dev/) · 组织维护
+⭐ 430 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/ownpilot/OwnPilot) · [官网](http://ownpilot.dev/) · 组织维护
 
 **自托管的隐私优先个人 AI 助手平台，含自主 agent 与工具编排**
 

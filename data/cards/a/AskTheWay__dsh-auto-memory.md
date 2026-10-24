@@ -1,6 +1,6 @@
 # AskTheWay/dsh-auto-memory
 
-⭐ 103 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AskTheWay/dsh-auto-memory) · 个人维护
+⭐ 105 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AskTheWay/dsh-auto-memory) · 个人维护
 
 **给 DeepSeek Harness 补上 Claude Code 式持久记忆的插件**
 

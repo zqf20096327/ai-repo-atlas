@@ -1,6 +1,6 @@
 # pingcap/autoflow
 
-⭐ 2,979 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pingcap/autoflow) · [官网](https://tidb.ai) · 组织维护
+⭐ 2,977 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pingcap/autoflow) · [官网](https://tidb.ai) · 组织维护
 
 **基于 Graph RAG 的对话式知识库工具，可嵌入网站**
 

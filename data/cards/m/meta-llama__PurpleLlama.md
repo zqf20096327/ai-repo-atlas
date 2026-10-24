@@ -1,6 +1,6 @@
 # meta-llama/PurpleLlama
 
-⭐ 4,443 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/meta-llama/PurpleLlama) · 组织维护
+⭐ 4,447 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/meta-llama/PurpleLlama) · 组织维护
 
 **Meta 的 LLM 安全评估与防护工具集合**
 

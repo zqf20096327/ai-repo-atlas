@@ -1,6 +1,6 @@
 # resume-llm/resume-ai
 
-⭐ 394 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/resume-llm/resume-ai) · 个人维护
+⭐ 393 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/resume-llm/resume-ai) · 个人维护
 
 **本地优先的求职管理与 AI 简历生成工具**
 

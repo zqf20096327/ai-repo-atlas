@@ -1,6 +1,6 @@
 # Beledarian/Beledarians_LM_Studio_Toolbox
 
-⭐ 127 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Beledarian/Beledarians_LM_Studio_Toolbox) · 个人维护 · 中文 README
+⭐ 128 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Beledarian/Beledarians_LM_Studio_Toolbox) · 个人维护 · 中文 README
 
 **LM Studio 插件：为本地 LLM 提供文件、代码执行与上网等工具集**
 

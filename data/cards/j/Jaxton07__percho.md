@@ -1,6 +1,6 @@
 # Jaxton07/percho
 
-⭐ 459 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Jaxton07/percho) · [官网](https://www.percho.org/) · 个人维护 · 中文 README
+⭐ 466 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Jaxton07/percho) · [官网](https://www.percho.org/) · 个人维护 · 中文 README
 
 **Pi 编码代理的桌面 GUI 客户端：多会话与可视化工具审批**
 

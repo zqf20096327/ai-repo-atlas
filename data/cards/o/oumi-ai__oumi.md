@@ -1,6 +1,6 @@
 # oumi-ai/oumi
 
-⭐ 9,409 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/oumi-ai/oumi) · [官网](https://oumi.ai) · 组织维护
+⭐ 9,410 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/oumi-ai/oumi) · [官网](https://oumi.ai) · 组织维护
 
 **开源基础模型全流程平台：微调、评测与部署 LLM/VLM**
 

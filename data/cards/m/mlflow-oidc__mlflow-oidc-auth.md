@@ -1,6 +1,6 @@
 # mlflow-oidc/mlflow-oidc-auth
 
-⭐ 132 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mlflow-oidc/mlflow-oidc-auth) · [官网](https://mlflow-oidc.github.io/mlflow-oidc-auth/) · 组织维护
+⭐ 133 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mlflow-oidc/mlflow-oidc-auth) · [官网](https://mlflow-oidc.github.io/mlflow-oidc-auth/) · 组织维护
 
 **MLflow 追踪服务器的认证与访问控制插件（SSO/SCIM/RBAC）**
 

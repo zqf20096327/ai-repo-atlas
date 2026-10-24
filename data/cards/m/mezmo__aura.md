@@ -1,6 +1,6 @@
 # mezmo/aura
 
-⭐ 404 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mezmo/aura) · [官网](https://www.mezmo.com/aura) · 组织维护
+⭐ 399 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mezmo/aura) · [官网](https://www.mezmo.com/aura) · 组织维护
 
 **面向 SRE 的生产级 agent 平台：在自有基础设施内运维排障**
 

@@ -1,6 +1,6 @@
 # ShawnPana/phone-harness
 
-⭐ 3,913 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ShawnPana/phone-harness) · 个人维护
+⭐ 3,921 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ShawnPana/phone-harness) · 个人维护
 
 **让编码 agent 直接操控真实手机（iPhone/Android）的工具**
 

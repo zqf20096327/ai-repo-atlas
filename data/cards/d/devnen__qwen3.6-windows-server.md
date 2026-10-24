@@ -1,6 +1,6 @@
 # devnen/qwen3.6-windows-server
 
-⭐ 231 · Python · 推送 2026-05-14 · [GitHub](https://github.com/devnen/qwen3.6-windows-server) · 个人维护
+⭐ 232 · Python · 推送 2026-05-14 · [GitHub](https://github.com/devnen/qwen3.6-windows-server) · 个人维护
 
 **Windows 一键本地运行 Qwen3.6-27B 的 vLLM 服务启动器**
 

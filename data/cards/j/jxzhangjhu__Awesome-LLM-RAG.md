@@ -1,6 +1,6 @@
 # jxzhangjhu/Awesome-LLM-RAG
 
-⭐ 1,369 · 推送 2026-10-21 · [GitHub](https://github.com/jxzhangjhu/Awesome-LLM-RAG) · 个人维护
+⭐ 1,369 · 推送 2026-10-24 · [GitHub](https://github.com/jxzhangjhu/Awesome-LLM-RAG) · 个人维护
 
 **LLM RAG 论文与资源策展清单，面向科研者**
 

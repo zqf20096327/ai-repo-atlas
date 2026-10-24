@@ -1,6 +1,6 @@
 # openkinome/kinoml
 
-⭐ 61 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/openkinome/kinoml) · [官网](https://openkinome.org/kinoml/) · 组织维护
+⭐ 61 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/openkinome/kinoml) · [官网](https://openkinome.org/kinoml/) · 组织维护
 
 **面向激酶的药物发现机器学习框架，覆盖数据到模型全流程**
 

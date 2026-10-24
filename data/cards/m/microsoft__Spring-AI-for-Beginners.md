@@ -1,6 +1,6 @@
 # microsoft/Spring-AI-for-Beginners
 
-⭐ 66 · Java · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/Spring-AI-for-Beginners) · 组织维护
+⭐ 67 · Java · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/Spring-AI-for-Beginners) · 组织维护
 
 **面向 Java 开发者的 Spring AI 课程：从聊天到 RAG 与 Agent**
 

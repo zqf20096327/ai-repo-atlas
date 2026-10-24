@@ -1,6 +1,6 @@
 # stoneforge-ai/stoneforge
 
-⭐ 194 · TypeScript · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/stoneforge-ai/stoneforge) · [官网](https://stoneforge.ai) · 组织维护
+⭐ 196 · TypeScript · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/stoneforge-ai/stoneforge) · [官网](https://stoneforge.ai) · 组织维护
 
 **编排多个 AI 编码 agent 的 Web 仪表盘与运行时**
 

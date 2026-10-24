@@ -1,6 +1,6 @@
 # eisbaw/cursor_api_demo
 
-⭐ 72 · JavaScript · 推送 2026-04-02 · [GitHub](https://github.com/eisbaw/cursor_api_demo) · 个人维护
+⭐ 73 · JavaScript · 推送 2026-04-02 · [GitHub](https://github.com/eisbaw/cursor_api_demo) · 个人维护
 
 **逆向 Cursor IDE 2.6.22 后端 API 的 Python 客户端**
 

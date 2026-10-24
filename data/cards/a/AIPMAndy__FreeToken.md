@@ -1,6 +1,6 @@
 # AIPMAndy/FreeToken
 
-⭐ 142 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AIPMAndy/FreeToken) · 个人维护 · 中文 README
+⭐ 143 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AIPMAndy/FreeToken) · 个人维护 · 中文 README
 
 **面向中文开发者的免费 AI API 额度导航清单**
 

@@ -1,6 +1,6 @@
 # ghorbelhamdi/buddy-android
 
-⭐ 112 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ghorbelhamdi/buddy-android) · 个人维护
+⭐ 123 · Java · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ghorbelhamdi/buddy-android) · 个人维护
 
 **让 Claude Code 等 AI agent 在安卓手机上操作应用的悬浮气泡应用**
 

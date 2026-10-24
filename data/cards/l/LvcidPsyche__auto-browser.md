@@ -1,6 +1,6 @@
 # LvcidPsyche/auto-browser
 
-⭐ 916 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LvcidPsyche/auto-browser) · [官网](https://github.com/LvcidPsyche/auto-browser) · 个人维护
+⭐ 916 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/LvcidPsyche/auto-browser) · [官网](https://github.com/LvcidPsyche/auto-browser) · 个人维护
 
 **MCP 原生浏览器控制平面：让 AI agent 带人工接管地操作真实浏览器**
 

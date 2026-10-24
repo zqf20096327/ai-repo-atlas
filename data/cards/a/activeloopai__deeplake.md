@@ -1,6 +1,6 @@
 # activeloopai/deeplake
 
-⭐ 9,258 · C++ · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/activeloopai/deeplake) · [官网](https://deeplake.ai) · 组织维护
+⭐ 9,259 · C++ · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/activeloopai/deeplake) · [官网](https://deeplake.ai) · 组织维护
 
 **面向 AI 的数据湖与向量存储数据库，存储多模态数据并支持检索训练**
 

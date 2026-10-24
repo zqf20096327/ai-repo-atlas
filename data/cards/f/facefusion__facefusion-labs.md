@@ -1,6 +1,6 @@
 # facefusion/facefusion-labs
 
-⭐ 153 · Python · 推送 2026-10-09 · [GitHub](https://github.com/facefusion/facefusion-labs) · [官网](https://facefusion.io) · 组织维护
+⭐ 154 · Python · 推送 2026-10-09 · [GitHub](https://github.com/facefusion/facefusion-labs) · [官网](https://facefusion.io) · 组织维护
 
 **人脸替换/操纵平台 FaceFusion Labs**
 

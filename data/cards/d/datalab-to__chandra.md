@@ -1,6 +1,6 @@
 # datalab-to/chandra
 
-⭐ 12,559 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datalab-to/chandra) · [官网](https://www.datalab.to) · 组织维护
+⭐ 12,564 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datalab-to/chandra) · [官网](https://www.datalab.to) · 组织维护
 
 **OCR 模型：将图像/PDF 转为保留版面的 Markdown/HTML/JSON**
 

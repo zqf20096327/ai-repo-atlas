@@ -1,6 +1,6 @@
 # TokenRhythm/NeoHorse
 
-⭐ 1,691 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/TokenRhythm/NeoHorse) · 组织维护 · 中文 README
+⭐ 1,690 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/TokenRhythm/NeoHorse) · 组织维护 · 中文 README
 
 **开源权重 agent 语言模型系列（4B/9B）及结构化决策模型**
 

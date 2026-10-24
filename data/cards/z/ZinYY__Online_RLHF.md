@@ -1,6 +1,6 @@
 # ZinYY/Online_RLHF
 
-⭐ 95 · Python · 推送 2025-12-13 · [GitHub](https://github.com/ZinYY/Online_RLHF) · [官网](https://arxiv.org/abs/2502.07193) · 个人维护
+⭐ 95 · Python · 推送 2026-10-24 · [GitHub](https://github.com/ZinYY/Online_RLHF) · [官网](https://arxiv.org/abs/2502.07193) · 个人维护
 
 **NeurIPS'25 论文的 Online RLHF 训练流程 PyTorch 实现**
 

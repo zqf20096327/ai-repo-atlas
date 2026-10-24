@@ -1,6 +1,6 @@
 # fastai/fastai
 
-⭐ 28,228 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/fastai/fastai) · [官网](http://docs.fast.ai) · 组织维护
+⭐ 28,231 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/fastai/fastai) · [官网](http://docs.fast.ai) · 组织维护
 
 **基于 PyTorch 的深度学习库：分层 API 兼顾易用与可扩展**
 

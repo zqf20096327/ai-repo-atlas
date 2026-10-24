@@ -1,6 +1,6 @@
 # nano-muse/nanoMuse
 
-⭐ 2,421 · Swift · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/nano-muse/nanoMuse) · [官网](https://nanomuse.cn/) · 组织维护 · 中文 README
+⭐ 2,504 · Swift · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/nano-muse/nanoMuse) · [官网](https://nanomuse.cn/) · 组织维护 · 中文 README
 
 **跨设备个人 agent：一个账号贯通手机/桌面/网页，代做事并跨设备协同**
 

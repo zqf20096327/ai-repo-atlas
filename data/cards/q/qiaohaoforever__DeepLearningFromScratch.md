@@ -1,6 +1,6 @@
 # qiaohaoforever/DeepLearningFromScratch
 
-⭐ 1,298 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/qiaohaoforever/DeepLearningFromScratch) · 个人维护 · 中文 README
+⭐ 1,300 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/qiaohaoforever/DeepLearningFromScratch) · 个人维护 · 中文 README
 
 **《深度学习入门》书籍配套源代码与电子版仓库**
 

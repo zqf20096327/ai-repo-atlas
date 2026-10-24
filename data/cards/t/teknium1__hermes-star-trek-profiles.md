@@ -1,6 +1,6 @@
 # teknium1/hermes-star-trek-profiles
 
-⭐ 167 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/teknium1/hermes-star-trek-profiles) · 个人维护
+⭐ 166 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/teknium1/hermes-star-trek-profiles) · 个人维护
 
 **给 Hermes Agent 用户：68 个可安装的星际迷航角色人格配置**
 

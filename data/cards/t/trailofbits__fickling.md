@@ -1,6 +1,6 @@
 # trailofbits/fickling
 
-⭐ 676 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/trailofbits/fickling) · 组织维护
+⭐ 675 · Python · LGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/trailofbits/fickling) · 组织维护
 
 **Python pickle 反编译与静态分析工具，检测恶意模型文件**
 

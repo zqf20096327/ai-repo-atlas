@@ -1,6 +1,6 @@
 # yuyuanweb/ai-picture-editor
 
-⭐ 299 · Python · 推送 2026-09-16 · [GitHub](https://github.com/yuyuanweb/ai-picture-editor) · [官网](https://www.codefather.cn/course/2099386518517915649) · 组织维护 · 中文 README
+⭐ 300 · Python · 推送 2026-09-16 · [GitHub](https://github.com/yuyuanweb/ai-picture-editor) · [官网](https://www.codefather.cn/course/2099386518517915649) · 组织维护 · 中文 README
 
 **编程导航付费教程项目：AI Agent 驱动的全栈修图应用**
 

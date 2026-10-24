@@ -1,6 +1,6 @@
 # yuxiaopeng/Github-Ranking-AI
 
-⭐ 577 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yuxiaopeng/Github-Ranking-AI) · [官网](https://yuxiaopeng.com/Github-Ranking-AI/) · 个人维护 · 中文 README
+⭐ 578 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yuxiaopeng/Github-Ranking-AI) · [官网](https://yuxiaopeng.com/Github-Ranking-AI/) · 个人维护 · 中文 README
 
 **AI 主题 GitHub 仓库星标排名清单，按主题每日自动更新**
 

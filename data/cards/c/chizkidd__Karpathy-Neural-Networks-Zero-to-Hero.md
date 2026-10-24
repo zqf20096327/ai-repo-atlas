@@ -1,6 +1,6 @@
 # chizkidd/Karpathy-Neural-Networks-Zero-to-Hero
 
-⭐ 277 · Jupyter Notebook · MIT · 推送 2026-10-03 · [GitHub](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero) · [官网](https://chizkidd.github.io/Karpathy-Neural-Networks-Zero-to-Hero/) · 个人维护
+⭐ 279 · Jupyter Notebook · MIT · 推送 2026-10-03 · [GitHub](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero) · [官网](https://chizkidd.github.io/Karpathy-Neural-Networks-Zero-to-Hero/) · 个人维护
 
 **Karpathy《Neural Networks: Zero to Hero》课程的笔记与代码实现**
 

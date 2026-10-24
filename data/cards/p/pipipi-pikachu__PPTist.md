@@ -1,6 +1,6 @@
 # pipipi-pikachu/PPTist
 
-⭐ 9,415 · Vue · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/pipipi-pikachu/PPTist) · [官网](https://pipipi-pikachu.github.io/PPTist/) · 个人维护 · 中文 README
+⭐ 9,417 · Vue · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/pipipi-pikachu/PPTist) · [官网](https://pipipi-pikachu.github.io/PPTist/) · 个人维护 · 中文 README
 
 **面向 Web 开发者的在线 PPT 编辑与演示应用，支持 AIPPT 生成**
 

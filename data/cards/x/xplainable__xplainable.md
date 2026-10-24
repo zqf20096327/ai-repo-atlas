@@ -1,6 +1,6 @@
 # xplainable/xplainable
 
-⭐ 65 · Python · AGPL-3.0 · 推送 2026-07-23 · [GitHub](https://github.com/xplainable/xplainable) · [官网](https://www.xplainable.io) · 组织维护
+⭐ 66 · Python · AGPL-3.0 · 推送 2026-07-23 · [GitHub](https://github.com/xplainable/xplainable) · [官网](https://www.xplainable.io) · 组织维护
 
 **表格机器学习库：模型自带逐特征贡献的实时可解释预测**
 

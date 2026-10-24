@@ -1,6 +1,6 @@
 # syne-tune/syne-tune
 
-⭐ 425 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/syne-tune/syne-tune) · [官网](https://syne-tune.readthedocs.io) · 组织维护
+⭐ 426 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/syne-tune/syne-tune) · [官网](https://syne-tune.readthedocs.io) · 组织维护
 
 **大规模超参数优化库：本地与 SLURM 集群上运行 HPO**
 

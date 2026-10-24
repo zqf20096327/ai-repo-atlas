@@ -1,6 +1,6 @@
 # mnardit/beetroot-releases
 
-⭐ 224 · TypeScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/mnardit/beetroot-releases) · [官网](https://max.nardit.com/beetroot) · 个人维护
+⭐ 223 · TypeScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/mnardit/beetroot-releases) · [官网](https://max.nardit.com/beetroot) · 个人维护
 
 **Windows 剪贴板管理器：AI 文本变换、OCR 与模糊搜索**
 

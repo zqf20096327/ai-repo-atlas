@@ -1,6 +1,6 @@
 # sagirimo/BioDSH
 
-⭐ 63 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sagirimo/BioDSH) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sagirimo/BioDSH) · 个人维护
 
 **面向临床医生与湿实验科学家的无代码生物信息分析 agent 桌面应用**
 

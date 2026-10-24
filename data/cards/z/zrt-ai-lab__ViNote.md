@@ -1,6 +1,6 @@
 # zrt-ai-lab/ViNote
 
-⭐ 477 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/zrt-ai-lab/ViNote) · 组织维护 · 中文 README
+⭐ 478 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/zrt-ai-lab/ViNote) · 组织维护 · 中文 README
 
 **开源视频知识 Agent：视频转笔记、问答、卡片与导图**
 

@@ -1,6 +1,6 @@
 # huangjia2019/rag-project01-framework
 
-⭐ 123 · Python · 推送 2025-10-28 · [GitHub](https://github.com/huangjia2019/rag-project01-framework) · [官网](https://u.geekbang.org/subject/airag/1009927) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **从零手写的 RAG 知识库问答系统，含前后端**
 

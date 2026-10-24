@@ -1,6 +1,6 @@
 # benjitaylor/agentation
 
-⭐ 5,032 · TypeScript · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/benjitaylor/agentation) · [官网](https://agentation.com) · 个人维护
+⭐ 5,045 · TypeScript · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/benjitaylor/agentation) · [官网](https://agentation.com) · 个人维护
 
 **让开发者在页面上标注元素并输出结构化反馈给 AI 编程代理**
 

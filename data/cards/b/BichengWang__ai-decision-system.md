@@ -1,6 +1,6 @@
 # BichengWang/ai-decision-system
 
-⭐ 250 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BichengWang/ai-decision-system) · [官网](https://bichengwang.github.io/ai-decision-system/) · 个人维护
+⭐ 262 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/BichengWang/ai-decision-system) · [官网](https://bichengwang.github.io/ai-decision-system/) · 个人维护
 
 **AI 辅助 go/no-go 决策的可重放、离线可验证记录工具集**
 

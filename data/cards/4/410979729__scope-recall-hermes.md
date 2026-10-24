@@ -1,6 +1,6 @@
 # 410979729/scope-recall-hermes
 
-⭐ 456 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/410979729/scope-recall-hermes) · 个人维护 · 中文 README
+⭐ 464 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/410979729/scope-recall-hermes) · 个人维护 · 中文 README
 
 **多 agent 共享的本地长期记忆核心：SQLite 事实库+向量检索**
 

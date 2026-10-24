@@ -1,6 +1,6 @@
 # hyperfx-ai/marketing-skills
 
-⭐ 108 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/hyperfx-ai/marketing-skills) · [官网](https://www.hyperfx.ai/mcp) · 组织维护
+⭐ 108 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hyperfx-ai/marketing-skills) · [官网](https://www.hyperfx.ai/mcp) · 组织维护
 
 **面向 AI agent 的营销技能包（24+ 个 SKILL.md，跑在 Hyper MCP 上）**
 

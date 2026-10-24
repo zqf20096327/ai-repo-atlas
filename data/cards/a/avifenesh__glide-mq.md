@@ -1,6 +1,6 @@
 # avifenesh/glide-mq
 
-⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/avifenesh/glide-mq) · [官网](https://www.glidemq.dev) · 个人维护
+⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/avifenesh/glide-mq) · [官网](https://www.glidemq.dev) · 个人维护
 
 **面向 Node.js 的高性能消息队列，内置 LLM/Agent 编排原语**
 

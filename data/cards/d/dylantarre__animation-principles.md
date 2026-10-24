@@ -1,6 +1,6 @@
 # dylantarre/animation-principles
 
-⭐ 117 · MIT · 推送 2025-12-30 · [GitHub](https://github.com/dylantarre/animation-principles) · 个人维护
+⭐ 119 · MIT · 推送 2025-12-30 · [GitHub](https://github.com/dylantarre/animation-principles) · 个人维护
 
 **面向 Claude Code 的迪士尼动画十二法则技能集合（144 条）**
 

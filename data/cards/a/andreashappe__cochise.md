@@ -1,6 +1,6 @@
 # andreashappe/cochise
 
-⭐ 149 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/andreashappe/cochise) · 个人维护
+⭐ 149 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/andreashappe/cochise) · 个人维护
 
 **LLM 驱动的自主渗透测试原型：攻陷 Active Directory 域**
 

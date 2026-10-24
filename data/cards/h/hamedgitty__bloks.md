@@ -1,6 +1,6 @@
 # hamedgitty/bloks
 
-⭐ 223 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/hamedgitty/bloks) · [官网](https://bloks.dev) · 组织维护
+⭐ 226 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/hamedgitty/bloks) · [官网](https://bloks.dev) · 组织维护
 
 **本地优先的个人 AI agent 桌面工作区（Mac/Win/Linux+iPhone）**
 

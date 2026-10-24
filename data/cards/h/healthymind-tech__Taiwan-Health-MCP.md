@@ -1,6 +1,6 @@
 # healthymind-tech/Taiwan-Health-MCP
 
-⭐ 167 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/healthymind-tech/Taiwan-Health-MCP) · [官网](https://tw-health-mcp.healthymind-tech.com) · 组织维护 · 中文 README
+⭐ 167 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/healthymind-tech/Taiwan-Health-MCP) · [官网](https://tw-health-mcp.healthymind-tech.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的台湾医疗数据 MCP 服务器（64 个工具）**
 

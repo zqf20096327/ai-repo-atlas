@@ -1,6 +1,6 @@
 # j955229/ComfyUI-MiniMax-H3-Motion-Director
 
-⭐ 135 · JavaScript · GPL-3.0 · 推送 2026-08-20 · [GitHub](https://github.com/j955229/ComfyUI-MiniMax-H3-Motion-Director) · 个人维护 · 中文 README
+⭐ 136 · JavaScript · GPL-3.0 · 推送 2026-08-20 · [GitHub](https://github.com/j955229/ComfyUI-MiniMax-H3-Motion-Director) · 个人维护 · 中文 README
 
 **ComfyUI 的 MiniMax H3 多段视频生成导演节点**
 

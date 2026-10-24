@@ -1,6 +1,6 @@
 # steven2358/awesome-generative-ai
 
-⭐ 12,752 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/steven2358/awesome-generative-ai) · 个人维护
+⭐ 12,760 · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/steven2358/awesome-generative-ai) · 个人维护
 
 **生成式 AI 项目与服务策展清单，覆盖文本、图像等多领域**
 

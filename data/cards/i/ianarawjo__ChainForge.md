@@ -1,6 +1,6 @@
 # ianarawjo/ChainForge
 
-⭐ 3,039 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ianarawjo/ChainForge) · [官网](https://chainforge.ai/docs) · 组织维护
+⭐ 3,038 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ianarawjo/ChainForge) · [官网](https://chainforge.ai/docs) · 组织维护
 
 **可视化提示词测试环境：跨模型对比与评估 LLM 响应**
 

@@ -1,6 +1,6 @@
 # meer-ai/meer
 
-⭐ 61 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/meer-ai/meer) · [官网](https://meerai.dev) · 组织维护
+⭐ 60 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/meer-ai/meer) · [官网](https://meerai.dev) · 组织维护
 
 **本地优先的开源终端 AI 编程助手，连接本地或远程模型**
 

@@ -1,6 +1,6 @@
 # NVIDIA/sports-intelligence-playbooks
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/NVIDIA/sports-intelligence-playbooks) · [官网](https://nvidia.github.io/sports-intelligence-playbooks/latest/) · 组织维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/NVIDIA/sports-intelligence-playbooks) · [官网](https://nvidia.github.io/sports-intelligence-playbooks/latest/) · 组织维护
 
 **面向体育领域的多模态 LLM 训练/推理/评测起步套件**
 

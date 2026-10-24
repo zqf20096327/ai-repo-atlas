@@ -1,6 +1,6 @@
 # Sma1lboy/rove
 
-⭐ 179 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Sma1lboy/rove) · [官网](https://rove.run) · 个人维护
+⭐ 179 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Sma1lboy/rove) · [官网](https://rove.run) · 个人维护
 
 **终端里的多 agent 并行工作区：隔离 worktree 运行多个编码 agent**
 

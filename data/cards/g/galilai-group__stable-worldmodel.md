@@ -1,6 +1,6 @@
 # galilai-group/stable-worldmodel
 
-⭐ 2,272 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/galilai-group/stable-worldmodel) · [官网](https://galilai-group.github.io/stable-worldmodel/) · 组织维护
+⭐ 2,271 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/galilai-group/stable-worldmodel) · [官网](https://galilai-group.github.io/stable-worldmodel/) · 组织维护
 
 **统一接口的世界模型研究评测平台：采集、训练、MPC 评估**
 

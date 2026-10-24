@@ -1,6 +1,6 @@
 # jmaczan/tiny-vllm
 
-⭐ 1,163 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jmaczan/tiny-vllm) · 个人维护
+⭐ 1,166 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jmaczan/tiny-vllm) · 个人维护
 
 **用 C++/CUDA 从零实现 LLM 推理引擎的教学课程与源码**
 

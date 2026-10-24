@@ -1,6 +1,6 @@
 # erickjtorres/app-use
 
-⭐ 69 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/erickjtorres/app-use) · 个人维护
+⭐ 69 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/erickjtorres/app-use) · 个人维护
 
 **让 AI agent 通过 Appium 控制移动应用的 Python 框架**
 

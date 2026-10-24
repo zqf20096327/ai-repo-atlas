@@ -1,6 +1,6 @@
 # Future-House/paper-qa
 
-⭐ 9,458 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Future-House/paper-qa) · [官网](https://futurehouse.gitbook.io/futurehouse-cookbook) · 组织维护
+⭐ 9,461 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Future-House/paper-qa) · [官网](https://futurehouse.gitbook.io/futurehouse-cookbook) · 组织维护
 
 **面向科学文献的高精度 RAG 问答工具，带引用溯源**
 

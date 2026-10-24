@@ -1,6 +1,6 @@
 # everruns/everruns
 
-⭐ 61 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/everruns/everruns) · [官网](https://everruns.com/) · 组织维护
+⭐ 61 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/everruns/everruns) · [官网](https://everruns.com/) · 组织维护
 
 **Rust 构建与运行 AI agent 的框架及自托管平台**
 

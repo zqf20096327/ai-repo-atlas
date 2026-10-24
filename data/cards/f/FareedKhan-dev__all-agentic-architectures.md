@@ -1,6 +1,6 @@
 # FareedKhan-dev/all-agentic-architectures
 
-⭐ 4,632 · Jupyter Notebook · MIT · 推送 2026-06-22 · [GitHub](https://github.com/FareedKhan-dev/all-agentic-architectures) · [官网](https://fareedkhan-dev.github.io/all-agentic-architectures/) · 个人维护
+⭐ 4,631 · Jupyter Notebook · MIT · 推送 2026-06-22 · [GitHub](https://github.com/FareedKhan-dev/all-agentic-architectures) · [官网](https://fareedkhan-dev.github.io/all-agentic-architectures/) · 个人维护
 
 **35 种 agentic AI 架构的可运行 Python 库与教科书**
 

@@ -1,6 +1,6 @@
 # sammcj/gollama
 
-⭐ 1,843 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sammcj/gollama) · [官网](https://smcleod.net) · 个人维护
+⭐ 1,842 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sammcj/gollama) · [官网](https://smcleod.net) · 个人维护
 
 **管理 Ollama 模型的 macOS/Linux TUI 工具**
 

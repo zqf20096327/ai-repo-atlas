@@ -1,6 +1,6 @@
 # cvs-health/uqlm
 
-⭐ 1,212 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/cvs-health/uqlm) · [官网](https://cvs-health.github.io/uqlm/latest/index.html) · 组织维护
+⭐ 1,213 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/cvs-health/uqlm) · [官网](https://cvs-health.github.io/uqlm/latest/index.html) · 组织维护
 
 **检测 LLM 输出幻觉的 Python 不确定性量化库**
 

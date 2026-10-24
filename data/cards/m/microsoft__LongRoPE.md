@@ -1,6 +1,6 @@
 # microsoft/LongRoPE
 
-⭐ 291 · Python · MIT · 推送 2025-10-28 · [GitHub](https://github.com/microsoft/LongRoPE) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **将预训练 LLM 上下文窗口扩展至 2048k 的 RoPE 重缩放方法**
 
@@ -11,7 +11,7 @@ ICML 2024 论文的官方代码，出自微软研究院：通过进化搜索寻�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

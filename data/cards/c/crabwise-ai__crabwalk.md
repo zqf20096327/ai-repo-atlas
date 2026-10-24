@@ -1,6 +1,6 @@
 # crabwise-ai/crabwalk
 
-⭐ 875 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/crabwise-ai/crabwalk) · [官网](https://crabwalk.app) · 个人维护
+⭐ 873 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/crabwise-ai/crabwalk) · [官网](https://crabwalk.app) · 个人维护
 
 **OpenClaw AI agent 的实时监控面板：节点图查看活动**
 

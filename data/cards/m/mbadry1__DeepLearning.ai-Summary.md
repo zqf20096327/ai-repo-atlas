@@ -1,6 +1,6 @@
 # mbadry1/DeepLearning.ai-Summary
 
-⭐ 5,353 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/mbadry1/DeepLearning.ai-Summary) · 个人维护
+⭐ 5,354 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/mbadry1/DeepLearning.ai-Summary) · 个人维护
 
 **DeepLearning.ai 五门深度学习课程的个人学习笔记汇总**
 

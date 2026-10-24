@@ -1,6 +1,6 @@
 # THUDM/AgentBench
 
-⭐ 3,789 · Python · Apache-2.0 · 推送 2026-02-08 · [GitHub](https://github.com/THUDM/AgentBench) · 组织维护 · 中文 README
+⭐ 3,790 · Python · Apache-2.0 · 推送 2026-02-08 · [GitHub](https://github.com/THUDM/AgentBench) · 组织维护 · 中文 README
 
 **评测 LLM 作为 Agent 能力的多环境基准（ICLR'24）**
 

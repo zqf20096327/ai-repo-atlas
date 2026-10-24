@@ -1,6 +1,6 @@
 # JingbiaoMei/ATM-Bench
 
-⭐ 70 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/JingbiaoMei/ATM-Bench) · 组织维护 · 中文 README
+⭐ 71 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/JingbiaoMei/ATM-Bench) · 组织维护 · 中文 README
 
 **长期个性化记忆问答基准：约 4 年多模态数据的指代性问答评测**
 

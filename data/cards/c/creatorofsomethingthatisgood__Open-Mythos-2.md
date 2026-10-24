@@ -1,6 +1,6 @@
 # creatorofsomethingthatisgood/Open-Mythos-2
 
-⭐ 76 · Python · Apache-2.0 · 推送 2026-07-19 · [GitHub](https://github.com/creatorofsomethingthatisgood/Open-Mythos-2) · [官网](https://bold-lynx-68.fylo.live/) · 个人维护
+⭐ 73 · Python · Apache-2.0 · 推送 2026-07-19 · [GitHub](https://github.com/creatorofsomethingthatisgood/Open-Mythos-2) · [官网](https://bold-lynx-68.fylo.live/) · 个人维护
 
 **本地离线终端 AI 聊天工具：无 API key，含自学习与安全扫描**
 

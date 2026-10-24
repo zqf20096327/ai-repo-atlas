@@ -1,6 +1,6 @@
 # langgenius/graphon
 
-⭐ 85 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/langgenius/graphon) · 组织维护
+⭐ 85 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/langgenius/graphon) · 组织维护
 
 **面向 agentic AI 工作流的 Python 图执行引擎**
 

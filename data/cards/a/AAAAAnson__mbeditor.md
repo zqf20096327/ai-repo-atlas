@@ -1,6 +1,6 @@
 # AAAAAnson/mbeditor
 
-⭐ 79 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/AAAAAnson/mbeditor) · 个人维护 · 中文 README
+⭐ 80 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/AAAAAnson/mbeditor) · 个人维护 · 中文 README
 
 **自托管 AI 微信公众号编辑器：一句话生成排版好的推文**
 

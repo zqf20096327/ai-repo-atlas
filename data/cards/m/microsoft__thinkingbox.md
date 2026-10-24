@@ -1,6 +1,6 @@
 # microsoft/thinkingbox
 
-⭐ 108 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/thinkingbox) · 组织维护
+⭐ 109 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/thinkingbox) · 组织维护
 
 **微软的 MCP 工具 agent 评测框架，用于离线训练数据生成与 RL 训练**
 

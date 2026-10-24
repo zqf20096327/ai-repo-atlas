@@ -1,6 +1,6 @@
 # vectordbz/vectordbz
 
-⭐ 270 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/vectordbz/vectordbz) · [官网](http://vectordbz.com/) · 组织维护
+⭐ 271 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/vectordbz/vectordbz) · [官网](http://vectordbz.com/) · 组织维护
 
 **开源向量数据库桌面管理客户端：连接、浏览、搜索与可视化**
 

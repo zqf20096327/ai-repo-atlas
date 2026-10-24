@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/MMLU-Pro
 
-⭐ 432 · Python · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/TIGER-AI-Lab/MMLU-Pro) · 组织维护
+⭐ 433 · Python · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/TIGER-AI-Lab/MMLU-Pro) · 组织维护
 
 **更难更稳的 LLM 多任务理解评测基准（12k+ 题，14 领域）**
 

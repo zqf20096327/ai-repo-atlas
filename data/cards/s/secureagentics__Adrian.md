@@ -1,6 +1,6 @@
 # secureagentics/Adrian
 
-⭐ 587 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/secureagentics/Adrian) · [官网](https://secureagentics.ai) · 组织维护
+⭐ 586 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/secureagentics/Adrian) · [官网](https://secureagentics.ai) · 组织维护
 
 **AI agent 运行时安全监控引擎：检测并拦截恶意工具调用与提示注入**
 

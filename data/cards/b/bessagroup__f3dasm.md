@@ -1,6 +1,6 @@
 # bessagroup/f3dasm
 
-⭐ 128 · Python · BSD-3-Clause · 推送 2026-09-01 · [GitHub](https://github.com/bessagroup/f3dasm) · [官网](https://f3dasm.readthedocs.io/) · 组织维护
+⭐ 129 · Python · BSD-3-Clause · 推送 2026-09-01 · [GitHub](https://github.com/bessagroup/f3dasm) · [官网](https://f3dasm.readthedocs.io/) · 组织维护
 
 **结构与材料数据驱动设计和分析的 Python 框架**
 

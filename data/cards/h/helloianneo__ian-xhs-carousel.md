@@ -1,6 +1,6 @@
 # helloianneo/ian-xhs-carousel
 
-⭐ 243 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/helloianneo/ian-xhs-carousel) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
+⭐ 254 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/helloianneo/ian-xhs-carousel) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
 
 **把文章/笔记排成小红书轮播图的 Claude Code Skill**
 

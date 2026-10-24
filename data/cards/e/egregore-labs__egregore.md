@@ -1,6 +1,6 @@
 # egregore-labs/egregore
 
-⭐ 292 · Shell · MIT · 推送 2026-10-16 · [GitHub](https://github.com/egregore-labs/egregore) · [官网](https://egregore.xyz/) · 组织维护
+⭐ 293 · Shell · MIT · 推送 2026-10-16 · [GitHub](https://github.com/egregore-labs/egregore) · [官网](https://egregore.xyz/) · 组织维护
 
 **给团队与其 AI 编码 agent 的共享组织记忆层**
 

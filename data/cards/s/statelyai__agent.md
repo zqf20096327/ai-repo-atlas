@@ -1,6 +1,6 @@
 # statelyai/agent
 
-⭐ 484 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/statelyai/agent) · [官网](https://stately.ai/docs/agents) · 组织维护
+⭐ 484 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/statelyai/agent) · [官网](https://stately.ai/docs/agents) · 组织维护
 
 **基于 XState 状态机构建 LLM agent 的 TypeScript 框架**
 

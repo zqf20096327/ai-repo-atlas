@@ -1,6 +1,6 @@
 # zj-unicom-ai/UniEmployee
 
-⭐ 456 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zj-unicom-ai/UniEmployee) · 组织维护 · 中文 README
+⭐ 488 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zj-unicom-ai/UniEmployee) · 组织维护 · 中文 README
 
 **企业数字员工构建与运行平台：把员工经验固化为可上岗 AI 员工**
 

@@ -1,6 +1,6 @@
 # Charlie85270/Dorothy
 
-⭐ 352 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Charlie85270/Dorothy) · [官网](https://dorothyai.app) · 个人维护
+⭐ 353 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Charlie85270/Dorothy) · [官网](https://dorothyai.app) · 个人维护
 
 **编排 Claude Code/Codex/Gemini/Grok 等 AI CLI 代理的桌面应用**
 

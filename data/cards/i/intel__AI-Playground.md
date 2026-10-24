@@ -1,6 +1,6 @@
 # intel/AI-Playground
 
-⭐ 1,019 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/intel/AI-Playground) · 组织维护
+⭐ 1,018 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/intel/AI-Playground) · 组织维护
 
 **Intel AI PC 上的本地生成式 AI 套件：聊天、图像与视频生成**
 

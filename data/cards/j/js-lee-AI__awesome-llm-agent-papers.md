@@ -1,6 +1,6 @@
 # js-lee-AI/awesome-llm-agent-papers
 
-⭐ 101 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/js-lee-AI/awesome-llm-agent-papers) · 个人维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/js-lee-AI/awesome-llm-agent-papers) · 个人维护 · 中文 README
 
 **面向 LLM Agent 研究者的 curated 论文清单（228+ 篇）**
 

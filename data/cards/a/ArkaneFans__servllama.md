@@ -1,6 +1,6 @@
 # ArkaneFans/servllama
 
-⭐ 98 · Dart · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ArkaneFans/servllama) · 个人维护 · 中文 README
+⭐ 98 · Dart · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ArkaneFans/servllama) · 个人维护 · 中文 README
 
 **安卓手机一键本地 LLM 服务器：无需 Termux，OpenAI 兼容 API**
 

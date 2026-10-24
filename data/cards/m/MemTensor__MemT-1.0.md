@@ -1,6 +1,6 @@
 # MemTensor/MemT-1.0
 
-⭐ 370 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/MemTensor/MemT-1.0) · 组织维护 · 中文 README
+⭐ 387 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/MemTensor/MemT-1.0) · 组织维护 · 中文 README
 
 **持久原生记忆基础模型：让 LLM 具备固定大小的演化记忆**
 

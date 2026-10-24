@@ -1,6 +1,6 @@
 # 11273/mooc-work-answer
 
-⭐ 392 · Python · 推送 2026-09-15 · [GitHub](https://github.com/11273/mooc-work-answer) · 个人维护 · 中文 README
+⭐ 391 · Python · 推送 2026-09-15 · [GitHub](https://github.com/11273/mooc-work-answer) · 个人维护 · 中文 README
 
 **智慧职教 MOOC 平台学习管理与 AI 答题辅助工具**
 

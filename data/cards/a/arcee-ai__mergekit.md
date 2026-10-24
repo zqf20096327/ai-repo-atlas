@@ -1,6 +1,6 @@
 # arcee-ai/mergekit
 
-⭐ 7,415 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/arcee-ai/mergekit) · 组织维护
+⭐ 7,414 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/arcee-ai/mergekit) · 组织维护
 
 **合并多个预训练语言模型权重的 Python 工具包**
 

@@ -1,6 +1,6 @@
 # aws-samples/bedrock-chat
 
-⭐ 1,325 · TypeScript · MIT-0 · 推送 2026-10-21 · [GitHub](https://github.com/aws-samples/bedrock-chat) · 组织维护 · 中文 README
+⭐ 1,324 · TypeScript · MIT-0 · 推送 2026-10-21 · [GitHub](https://github.com/aws-samples/bedrock-chat) · 组织维护 · 中文 README
 
 **基于 Amazon Bedrock 的多语言生成式 AI 对话平台**
 

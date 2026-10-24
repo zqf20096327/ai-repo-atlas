@@ -1,6 +1,6 @@
 # zuisong/gemini-openai-proxy
 
-⭐ 435 · TypeScript · MIT · 推送 2026-04-02 · [GitHub](https://github.com/zuisong/gemini-openai-proxy) · [官网](https://gemini-openai-proxy.zuisong.workers.dev) · 个人维护
+⭐ 434 · TypeScript · MIT · 推送 2026-04-02 · [GitHub](https://github.com/zuisong/gemini-openai-proxy) · [官网](https://gemini-openai-proxy.zuisong.workers.dev) · 个人维护
 
 **把 OpenAI API 协议调用转换为 Google Gemini 协议的代理**
 

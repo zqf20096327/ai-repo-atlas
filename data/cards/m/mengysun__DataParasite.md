@@ -1,6 +1,6 @@
 # mengysun/DataParasite
 
-⭐ 102 · JavaScript · BSD-3-Clause · 推送 2026-09-24 · [GitHub](https://github.com/mengysun/DataParasite) · 个人维护
+⭐ 102 · JavaScript · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/mengysun/DataParasite) · 个人维护
 
 **面向科研的批量实体信息采集流水线：LLM 并行网页搜索+结构化输出**
 

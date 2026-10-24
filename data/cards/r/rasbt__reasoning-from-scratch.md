@@ -1,6 +1,6 @@
 # rasbt/reasoning-from-scratch
 
-⭐ 5,448 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/rasbt/reasoning-from-scratch) · [官网](https://mng.bz/lZ5B) · 个人维护
+⭐ 5,453 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/rasbt/reasoning-from-scratch) · [官网](https://mng.bz/lZ5B) · 个人维护
 
 **从零构建推理 LLM 的图书配套代码（PyTorch）**
 

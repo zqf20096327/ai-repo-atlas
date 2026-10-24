@@ -1,6 +1,6 @@
 # nitrictech/nitric
 
-⭐ 2,018 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/nitrictech/nitric) · [官网](https://nitric.io) · 组织维护
+⭐ 2,018 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/nitrictech/nitric) · [官网](https://nitric.io) · 组织维护
 
 **多语言云端应用框架：从代码推断并自动部署基础设施**
 

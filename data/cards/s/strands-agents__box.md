@@ -1,6 +1,6 @@
 # strands-agents/box
 
-⭐ 462 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/strands-agents/box) · [官网](https://strandsagents.com) · 组织维护
+⭐ 468 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/strands-agents/box) · [官网](https://strandsagents.com) · 组织维护
 
 **Rust 编写的 AI agent 沙箱引擎：限制 agent 的执行/读写/网络访问**
 

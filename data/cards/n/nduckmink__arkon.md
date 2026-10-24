@@ -1,6 +1,6 @@
 # nduckmink/arkon
 
-⭐ 1,497 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/nduckmink/arkon) · 组织维护
+⭐ 1,498 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/nduckmink/arkon) · 组织维护
 
 **面向团队的自托管企业知识库与 MCP 服务器，向 LLM 供给受控上下文**
 

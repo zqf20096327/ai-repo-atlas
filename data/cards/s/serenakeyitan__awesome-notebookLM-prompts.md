@@ -1,6 +1,6 @@
 # serenakeyitan/awesome-notebookLM-prompts
 
-⭐ 4,700 · MIT · 推送 2026-06-19 · [GitHub](https://github.com/serenakeyitan/awesome-notebookLM-prompts) · 个人维护
+⭐ 4,702 · MIT · 推送 2026-06-19 · [GitHub](https://github.com/serenakeyitan/awesome-notebookLM-prompts) · 个人维护
 
 **NotebookLM 幻灯片提示词策展清单，按风格分类**
 

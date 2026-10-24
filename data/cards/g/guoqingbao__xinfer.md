@@ -1,6 +1,6 @@
 # guoqingbao/xinfer
 
-⭐ 341 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/guoqingbao/xinfer) · [官网](http://guoqingbao.github.io/xinfer/) · 个人维护 · 中文 README
+⭐ 341 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/guoqingbao/xinfer) · [官网](http://guoqingbao.github.io/xinfer/) · 个人维护 · 中文 README
 
 **纯 Rust 实现的 LLM 推理运行时：无 Python/PyTorch 依赖**
 

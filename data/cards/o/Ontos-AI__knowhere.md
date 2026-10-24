@@ -1,6 +1,6 @@
 # Ontos-AI/knowhere
 
-⭐ 3,750 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Ontos-AI/knowhere) · [官网](https://knowhereto.ai) · 组织维护
+⭐ 3,763 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Ontos-AI/knowhere) · [官网](https://knowhereto.ai) · 组织维护
 
 **把非结构化文档转成 AI agent 可导航检索的记忆系统**
 

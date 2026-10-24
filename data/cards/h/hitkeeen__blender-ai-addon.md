@@ -1,6 +1,6 @@
 # hitkeeen/blender-ai-addon
 
-⭐ 218 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/hitkeeen/blender-ai-addon) · 个人维护
+⭐ 68 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/hitkeeen/blender-ai-addon) · 个人维护
 
 **通过聊天/图片让 AI 生成 bpy 代码直接改 3D 场景的 Blender 插件**
 

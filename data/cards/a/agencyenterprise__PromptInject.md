@@ -1,6 +1,6 @@
 # agencyenterprise/PromptInject
 
-⭐ 527 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/agencyenterprise/PromptInject) · 组织维护
+⭐ 526 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/agencyenterprise/PromptInject) · 组织维护
 
 **模块化组装对抗性提示、量化评估 LLM 鲁棒性的框架**
 

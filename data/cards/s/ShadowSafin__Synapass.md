@@ -1,6 +1,6 @@
 # ShadowSafin/Synapass
 
-⭐ 105 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ShadowSafin/Synapass) · [官网](synapass.com) · 个人维护
+⭐ 101 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ShadowSafin/Synapass) · [官网](synapass.com) · 个人维护
 
 **OpenAI 兼容的多供应商 AI 推理网关与控制平面**
 

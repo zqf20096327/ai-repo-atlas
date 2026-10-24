@@ -1,6 +1,6 @@
 # DreambigOu/ELI5
 
-⭐ 1,834 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/DreambigOu/ELI5) · [官网](https://andrewou.pages.dev/posts/building-an-eli5-skill-for-claude/) · 个人维护
+⭐ 1,837 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/DreambigOu/ELI5) · [官网](https://andrewou.pages.dev/posts/building-an-eli5-skill-for-claude/) · 个人维护
 
 **Claude Code 技能：让 Claude 按受众调整解释风格**
 

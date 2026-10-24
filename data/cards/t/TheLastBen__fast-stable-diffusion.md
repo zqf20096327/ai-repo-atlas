@@ -1,6 +1,6 @@
 # TheLastBen/fast-stable-diffusion
 
-⭐ 7,913 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/TheLastBen/fast-stable-diffusion) · 个人维护
+⭐ 7,911 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/TheLastBen/fast-stable-diffusion) · 个人维护
 
 **Colab 上的 Stable Diffusion / DreamBooth 训练笔记本集合**
 

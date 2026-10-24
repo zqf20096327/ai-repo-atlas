@@ -1,6 +1,6 @@
 # skyzh/tiny-llm
 
-⭐ 4,787 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/skyzh/tiny-llm) · [官网](https://skyzh.github.io/tiny-llm/) · 个人维护
+⭐ 4,788 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/skyzh/tiny-llm) · [官网](https://skyzh.github.io/tiny-llm/) · 个人维护
 
 **面向系统工程师的 LLM 推理系统动手课程（Apple Silicon 上构建 mini vLLM）**
 

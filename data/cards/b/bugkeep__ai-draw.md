@@ -1,6 +1,6 @@
 # bugkeep/ai-draw
 
-⭐ 141 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bugkeep/ai-draw) · 个人维护 · 中文 README
+⭐ 199 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bugkeep/ai-draw) · 个人维护 · 中文 README
 
 **通过对话生成和编辑草图、插图与流程图的自托管绘图应用**
 

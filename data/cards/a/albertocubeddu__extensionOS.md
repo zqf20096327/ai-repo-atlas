@@ -1,6 +1,6 @@
 # albertocubeddu/extensionOS
 
-⭐ 137 · TypeScript · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/albertocubeddu/extensionOS) · 个人维护
+⭐ 136 · TypeScript · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/albertocubeddu/extensionOS) · 个人维护
 
 **浏览器扩展：右键对选中文本调用各 LLM 执行自定义提示词**
 

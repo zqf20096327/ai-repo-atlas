@@ -1,6 +1,6 @@
 # slive777/OpenAver
 
-⭐ 310 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/slive777/OpenAver) · 个人维护 · 中文 README
+⭐ 313 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/slive777/OpenAver) · 个人维护 · 中文 README
 
 **给影视收藏者的本地刮削与封面墙浏览桌面应用**
 

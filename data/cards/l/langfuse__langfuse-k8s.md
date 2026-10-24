@@ -1,6 +1,6 @@
 # langfuse/langfuse-k8s
 
-⭐ 282 · Go Template · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langfuse/langfuse-k8s) · [官网](https://langfuse.com/self-hosting/deployment/kubernetes-helm) · 组织维护
+⭐ 280 · Go Template · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langfuse/langfuse-k8s) · [官网](https://langfuse.com/self-hosting/deployment/kubernetes-helm) · 组织维护
 
 **社区维护的 Langfuse Kubernetes 部署 Helm chart**
 

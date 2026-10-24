@@ -1,6 +1,6 @@
 # safe-graph/graph-fraud-detection-papers
 
-⭐ 1,900 · 推送 2026-09-13 · [GitHub](https://github.com/safe-graph/graph-fraud-detection-papers) · [官网](https://safe-graph.github.io/paper_dashboard/) · 组织维护
+⭐ 1,899 · 推送 2026-09-13 · [GitHub](https://github.com/safe-graph/graph-fraud-detection-papers) · [官网](https://safe-graph.github.io/paper_dashboard/) · 组织维护
 
 **图/Transformer 欺诈与异常检测论文的策展清单**
 

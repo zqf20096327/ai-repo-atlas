@@ -1,6 +1,6 @@
 # liliu-z/stashbase
 
-⭐ 1,136 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/liliu-z/stashbase) · [官网](https://stashbase.ai) · 个人维护
+⭐ 1,141 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/liliu-z/stashbase) · [官网](https://stashbase.ai) · 个人维护
 
 **本地优先的写作工作区：用自己的资料与 AI agent 共同写作**
 

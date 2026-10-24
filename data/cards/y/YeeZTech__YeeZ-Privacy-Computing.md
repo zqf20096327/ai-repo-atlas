@@ -1,6 +1,6 @@
 # YeeZTech/YeeZ-Privacy-Computing
 
-⭐ 1,060 · C · GPL-3.0 · 推送 2026-09-02 · [GitHub](https://github.com/YeeZTech/YeeZ-Privacy-Computing) · [官网](http://yeez.tech) · 组织维护 · 中文 README
+⭐ 1,061 · C · GPL-3.0 · 推送 2026-09-02 · [GitHub](https://github.com/YeeZTech/YeeZ-Privacy-Computing) · [官网](http://yeez.tech) · 组织维护 · 中文 README
 
 **基于 Intel SGX 可信执行环境的隐私计算中间件**
 

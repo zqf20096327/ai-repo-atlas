@@ -1,6 +1,6 @@
 # aaronnat23/disp8ch
 
-⭐ 100 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/aaronnat23/disp8ch) · 个人维护
+⭐ 99 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/aaronnat23/disp8ch) · 个人维护
 
 **本地优先的自托管 AI 工作区：对话驱动工作流与多智能体**
 

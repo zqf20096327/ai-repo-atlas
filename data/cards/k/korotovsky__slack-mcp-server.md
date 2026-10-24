@@ -1,6 +1,6 @@
 # korotovsky/slack-mcp-server
 
-⭐ 1,873 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/korotovsky/slack-mcp-server) · 个人维护
+⭐ 1,871 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/korotovsky/slack-mcp-server) · 个人维护
 
 **让 MCP 客户端读写 Slack 工作区的 MCP 服务器**
 

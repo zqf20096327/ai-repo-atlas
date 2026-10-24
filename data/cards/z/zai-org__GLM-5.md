@@ -1,6 +1,6 @@
 # zai-org/GLM-5
 
-⭐ 7,376 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/zai-org/GLM-5) · [官网](https://z.ai/blog/glm-5.2) · 组织维护 · 中文 README
+⭐ 7,383 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/zai-org/GLM-5) · [官网](https://z.ai/blog/glm-5.2) · 组织维护 · 中文 README
 
 **面向 agentic 工程与长程任务的开源大模型系列（GLM-5.x）**
 

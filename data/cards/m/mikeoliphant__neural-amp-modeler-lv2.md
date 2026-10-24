@@ -1,6 +1,6 @@
 # mikeoliphant/neural-amp-modeler-lv2
 
-⭐ 548 · C++ · GPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/mikeoliphant/neural-amp-modeler-lv2) · 个人维护
+⭐ 550 · C++ · GPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/mikeoliphant/neural-amp-modeler-lv2) · 个人维护
 
 **吉他音箱神经网络模型的 LV2 播放插件**
 

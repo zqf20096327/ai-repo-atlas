@@ -1,6 +1,6 @@
 # cvg/Hierarchical-Localization
 
-⭐ 4,248 · Python · Apache-2.0 · 推送 2025-12-10 · [GitHub](https://github.com/cvg/Hierarchical-Localization) · 组织维护
+⭐ 4,250 · Python · Apache-2.0 · 推送 2025-12-10 · [GitHub](https://github.com/cvg/Hierarchical-Localization) · 组织维护
 
 **分层视觉定位工具箱：结合图像检索与特征匹配的 6-DoF 定位**
 

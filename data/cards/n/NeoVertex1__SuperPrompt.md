@@ -1,6 +1,6 @@
 # NeoVertex1/SuperPrompt
 
-⭐ 6,425 · 推送 2026-04-26 · [GitHub](https://github.com/NeoVertex1/SuperPrompt) · 个人维护
+⭐ 6,424 · 推送 2026-04-26 · [GitHub](https://github.com/NeoVertex1/SuperPrompt) · 个人维护
 
 **引导 LLM 深度推理的提示词模板，配 Claude 使用**
 

@@ -1,6 +1,6 @@
 # genieincodebottle/generative-ai
 
-⭐ 2,651 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/genieincodebottle/generative-ai) · [官网](https://aimlcompanion.ai/) · 个人维护
+⭐ 2,653 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/genieincodebottle/generative-ai) · [官网](https://aimlcompanion.ai/) · 个人维护
 
 **生成式 AI 学习资源与项目合集（路线图、面试题、实战项目）**
 

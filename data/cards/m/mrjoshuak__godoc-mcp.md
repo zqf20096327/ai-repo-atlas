@@ -1,6 +1,6 @@
 # mrjoshuak/godoc-mcp
 
-⭐ 125 · Go · MIT · 推送 2026-03-06 · [GitHub](https://github.com/mrjoshuak/godoc-mcp) · [官网](https://github.com/mrjoshuak) · 个人维护
+⭐ 126 · Go · MIT · 推送 2026-03-06 · [GitHub](https://github.com/mrjoshuak/godoc-mcp) · [官网](https://github.com/mrjoshuak) · 个人维护
 
 **为 AI 编程 agent 提供 Go 文档的 MCP 服务器，降低 token 消耗**
 

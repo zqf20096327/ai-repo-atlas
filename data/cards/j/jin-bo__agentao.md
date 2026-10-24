@@ -1,6 +1,6 @@
 # jin-bo/agentao
 
-⭐ 310 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jin-bo/agentao) · [官网](https://agentao.cn) · 个人维护 · 中文 README
+⭐ 310 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jin-bo/agentao) · [官网](https://agentao.cn) · 个人维护 · 中文 README
 
 **面向 Python 开发者的本地优先受治理 AI agent 运行时**
 

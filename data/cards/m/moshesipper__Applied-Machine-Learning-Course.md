@@ -1,6 +1,6 @@
 # moshesipper/Applied-Machine-Learning-Course
 
-⭐ 57 · Python · 推送 2026-09-16 · [GitHub](https://github.com/moshesipper/Applied-Machine-Learning-Course) · 个人维护
+⭐ 58 · Python · 推送 2026-09-16 · [GitHub](https://github.com/moshesipper/Applied-Machine-Learning-Course) · 个人维护
 
 **应用机器学习课程的配套资源清单（含深度学习与演化算法）**
 

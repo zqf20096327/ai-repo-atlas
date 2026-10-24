@@ -1,6 +1,6 @@
 # somastllc/sep-ds-ml-bootcamp-2025
 
-⭐ 75 · Jupyter Notebook · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/somastllc/sep-ds-ml-bootcamp-2025) · [官网](https://www.goobolabs.so) · 组织维护
+⭐ 76 · Jupyter Notebook · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/somastllc/sep-ds-ml-bootcamp-2025) · [官网](https://www.goobolabs.so) · 组织维护
 
 **一个月期数据科学与机器学习训练营课程资料库**
 

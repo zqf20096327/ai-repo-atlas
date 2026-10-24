@@ -1,6 +1,6 @@
 # grayhatdevelopers/vidxp
 
-⭐ 59 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/grayhatdevelopers/vidxp) · 组织维护
+⭐ 59 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/grayhatdevelopers/vidxp) · 组织维护
 
 **本地优先的视频语义搜索引擎：按语音、画面、人脸搜索视频**
 

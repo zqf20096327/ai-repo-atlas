@@ -1,6 +1,6 @@
 # LinearBoost/linearboost-classifier
 
-⭐ 230 · Jupyter Notebook · MIT · 推送 2026-10-07 · [GitHub](https://github.com/LinearBoost/linearboost-classifier) · 组织维护
+⭐ 230 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/LinearBoost/linearboost-classifier) · 组织维护
 
 **基于线性分类器 SEFR 的 boosting 分类算法库**
 

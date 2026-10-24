@@ -1,6 +1,6 @@
 # aryn-ai/sycamore
 
-⭐ 607 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/aryn-ai/sycamore) · [官网](https://sycamore.readthedocs.io) · 组织维护
+⭐ 606 · Python · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/aryn-ai/sycamore) · [官网](https://sycamore.readthedocs.io) · 组织维护
 
 **面向非结构化数据的 LLM 文档处理引擎，服务 ETL/RAG 与分析**
 

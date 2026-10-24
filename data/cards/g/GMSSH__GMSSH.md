@@ -1,6 +1,6 @@
 # GMSSH/GMSSH
 
-⭐ 815 · Go · 推送 2026-10-15 · [GitHub](https://github.com/GMSSH/GMSSH) · [官网](https://www.gmssh.com/) · 组织维护 · 中文 README
+⭐ 816 · Go · 推送 2026-10-15 · [GitHub](https://github.com/GMSSH/GMSSH) · [官网](https://www.gmssh.com/) · 组织维护 · 中文 README
 
 **基于 SSH 的 Linux 服务器桌面工作区，带 GMAI 辅助运维**
 

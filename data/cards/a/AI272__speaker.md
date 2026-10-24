@@ -1,6 +1,6 @@
 # AI272/speaker
 
-⭐ 468 · Python · 推送 2026-06-23 · [GitHub](https://github.com/AI272/speaker) · 个人维护 · 中文 README
+⭐ 469 · Python · 推送 2026-06-23 · [GitHub](https://github.com/AI272/speaker) · 个人维护 · 中文 README
 
 **面向学术演讲的 Codex/Claude Code 技能：从真实 PPTX 生成逐页讲稿**
 

@@ -1,6 +1,6 @@
 # oracle/tribuo
 
-⭐ 1,418 · Java · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/oracle/tribuo) · [官网](https://tribuo.org) · 组织维护
+⭐ 1,416 · Java · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/oracle/tribuo) · [官网](https://tribuo.org) · 组织维护
 
 **Java 机器学习库：分类/回归/聚类等预测任务统一框架**
 

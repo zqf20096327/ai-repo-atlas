@@ -1,6 +1,6 @@
 # yempik-ai/cowork-os
 
-⭐ 56 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/yempik-ai/cowork-os) · [官网](https://www.yempik.com/cowork-os) · 组织维护
+⭐ 55 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/yempik-ai/cowork-os) · [官网](https://www.yempik.com/cowork-os) · 组织维护
 
 **面向 Claude Cowork 的 Markdown 团队工作区结构：决策、上下文与例行任务**
 

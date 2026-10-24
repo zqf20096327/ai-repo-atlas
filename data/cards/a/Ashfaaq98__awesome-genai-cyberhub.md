@@ -1,6 +1,6 @@
 # Ashfaaq98/awesome-genai-cyberhub
 
-⭐ 59 · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Ashfaaq98/awesome-genai-cyberhub) · 个人维护
+⭐ 59 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Ashfaaq98/awesome-genai-cyberhub) · 个人维护
 
 **面向网络安全从业者的 LLM 安全资源策展清单**
 

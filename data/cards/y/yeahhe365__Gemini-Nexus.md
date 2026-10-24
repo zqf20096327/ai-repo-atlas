@@ -1,6 +1,6 @@
 # yeahhe365/Gemini-Nexus
 
-⭐ 1,125 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/yeahhe365/Gemini-Nexus) · 个人维护 · 中文 README
+⭐ 1,124 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/yeahhe365/Gemini-Nexus) · 个人维护 · 中文 README
 
 **浏览器 AI 助手扩展：多模型对话与浏览器自动化控制**
 

@@ -1,6 +1,6 @@
 # richawo/minimal-llm-ui
 
-⭐ 359 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/richawo/minimal-llm-ui) · 个人维护
+⭐ 358 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/richawo/minimal-llm-ui) · 个人维护
 
 **本地 LLM 聊天界面：通过网页 UI 使用 Ollama 模型**
 

@@ -1,6 +1,6 @@
 # dagoSte/squadra
 
-⭐ 373 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dagoSte/squadra) · 个人维护
+⭐ 452 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dagoSte/squadra) · 个人维护
 
 **协调 Claude Code/Codex/Cursor 多窗口协作的本地团队技能工具**
 

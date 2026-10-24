@@ -1,6 +1,6 @@
 # enoch3712/ExtractThinker
 
-⭐ 1,604 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/enoch3712/ExtractThinker) · [官网](https://enoch3712.github.io/ExtractThinker) · 个人维护
+⭐ 1,603 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/enoch3712/ExtractThinker) · [官网](https://enoch3712.github.io/ExtractThinker) · 个人维护
 
 **Python 文档智能库：用 Pydantic 契约把文档转为校验过的类型化数据**
 

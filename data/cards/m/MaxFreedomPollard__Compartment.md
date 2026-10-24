@@ -1,6 +1,6 @@
 # MaxFreedomPollard/Compartment
 
-⭐ 584 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/MaxFreedomPollard/Compartment) · [官网](https://maxfreedompollard.github.io/Compartment/) · 个人维护
+⭐ 577 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/MaxFreedomPollard/Compartment) · [官网](https://maxfreedompollard.github.io/Compartment/) · 个人维护
 
 **给 AI agent 的本地加密持久记忆库（MCP server）**
 

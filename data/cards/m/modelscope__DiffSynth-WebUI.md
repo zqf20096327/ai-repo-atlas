@@ -1,6 +1,6 @@
 # modelscope/DiffSynth-WebUI
 
-⭐ 56 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/modelscope/DiffSynth-WebUI) · 组织维护 · 中文 README
+⭐ 57 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/modelscope/DiffSynth-WebUI) · 组织维护 · 中文 README
 
 **浏览器中完成扩散模型 LoRA 微调全流程的可视化训练工作台**
 

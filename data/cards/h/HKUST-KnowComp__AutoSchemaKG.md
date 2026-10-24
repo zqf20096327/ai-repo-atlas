@@ -1,6 +1,6 @@
 # HKUST-KnowComp/AutoSchemaKG
 
-⭐ 843 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/HKUST-KnowComp/AutoSchemaKG) · [官网](https://hkust-knowcomp.github.io/AutoSchemaKG/) · 组织维护
+⭐ 842 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/HKUST-KnowComp/AutoSchemaKG) · [官网](https://hkust-knowcomp.github.io/AutoSchemaKG/) · 组织维护
 
 **面向开发者的自动知识图谱构建框架：LLM 抽取三元组并归纳 schema**
 

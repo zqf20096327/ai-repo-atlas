@@ -1,6 +1,6 @@
 # liyupi/ai-guide
 
-⭐ 21,541 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/liyupi/ai-guide) · [官网](https://ai.codefather.cn) · 个人维护 · 中文 README
+⭐ 21,572 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/liyupi/ai-guide) · [官网](https://ai.codefather.cn) · 个人维护 · 中文 README
 
 **面向零基础者的 Vibe Coding 教程与 AI 资源知识库**
 

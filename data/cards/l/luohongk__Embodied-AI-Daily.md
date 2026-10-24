@@ -1,6 +1,6 @@
 # luohongk/Embodied-AI-Daily
 
-⭐ 485 · HTML · 推送 2026-10-21 · [GitHub](https://github.com/luohongk/Embodied-AI-Daily) · [官网](http://luohongkun.top/Embodied-AI-Daily/) · 个人维护 · 中文 README
+⭐ 484 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/luohongk/Embodied-AI-Daily) · [官网](http://luohongkun.top/Embodied-AI-Daily/) · 个人维护 · 中文 README
 
 **每日自动抓取具身智能/arXiv 论文的追踪清单**
 

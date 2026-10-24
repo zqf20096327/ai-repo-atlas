@@ -1,6 +1,6 @@
 # JSv4/Docxodus
 
-⭐ 103 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/JSv4/Docxodus) · [官网](https://jsv4.github.io/Docxodus/) · 个人维护
+⭐ 103 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/JSv4/Docxodus) · [官网](https://jsv4.github.io/Docxodus/) · 个人维护
 
 **面向 LLM agent 的 DOCX 工具箱：渲染/编辑/对比/锚定 markdown 投影**
 

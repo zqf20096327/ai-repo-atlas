@@ -1,6 +1,6 @@
 # RubixML/ML
 
-⭐ 2,215 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/RubixML/ML) · [官网](https://rubixml.org) · 组织维护
+⭐ 2,214 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/RubixML/ML) · [官网](https://rubixml.org) · 组织维护
 
 **PHP 机器学习/深度学习库，覆盖完整 ML 生命周期**
 

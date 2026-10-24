@@ -1,6 +1,6 @@
 # AmrDab/clawdcursor
 
-⭐ 406 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AmrDab/clawdcursor) · [官网](https://clawdcursor.com) · 个人维护
+⭐ 406 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AmrDab/clawdcursor) · [官网](https://clawdcursor.com) · 个人维护
 
 **本地 MCP 服务器：让任意 AI agent 安全控制桌面 GUI**
 

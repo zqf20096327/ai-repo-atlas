@@ -1,6 +1,6 @@
 # seesee75-commits/ComfyUI-MiniMaxH3-Director
 
-⭐ 324 · JavaScript · GPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director) · 个人维护
+⭐ 326 · JavaScript · GPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director) · 个人维护
 
 **ComfyUI 内的 MiniMax H3 视频时间线编辑器节点集**
 

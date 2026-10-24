@@ -1,6 +1,6 @@
 # ashutoshsinghpr7/wikiskill
 
-⭐ 281 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/ashutoshsinghpr7/wikiskill) · [官网](https://ashutoshsinghpr7.github.io/wikiskill/) · 个人维护
+⭐ 283 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/ashutoshsinghpr7/wikiskill) · [官网](https://ashutoshsinghpr7.github.io/wikiskill/) · 个人维护
 
 **论文 WikiSkill 的实现：Agent 经验编译为持久 wiki 驱动技能自进化**
 

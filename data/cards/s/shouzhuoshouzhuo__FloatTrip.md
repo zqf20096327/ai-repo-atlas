@@ -1,6 +1,6 @@
 # shouzhuoshouzhuo/FloatTrip
 
-⭐ 72 · Python · 推送 2026-09-26 · [GitHub](https://github.com/shouzhuoshouzhuo/FloatTrip) · 个人维护 · 中文 README
+⭐ 71 · Python · 推送 2026-09-26 · [GitHub](https://github.com/shouzhuoshouzhuo/FloatTrip) · 个人维护 · 中文 README
 
 **对话式旅行规划 Agent：POI 数据+约束求解生成逐日行程**
 

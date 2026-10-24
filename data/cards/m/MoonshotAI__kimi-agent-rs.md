@@ -1,6 +1,6 @@
 # MoonshotAI/kimi-agent-rs
 
-⭐ 73 · Rust · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/MoonshotAI/kimi-agent-rs) · 组织维护
+⭐ 74 · Rust · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/MoonshotAI/kimi-agent-rs) · 组织维护
 
 **Kimi Code CLI 的 Rust 实现：基于 JSON-RPC 的 wire-only agent 服务器**
 

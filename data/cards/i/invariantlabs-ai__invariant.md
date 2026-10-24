@@ -1,6 +1,6 @@
 # invariantlabs-ai/invariant
 
-⭐ 473 · Python · Apache-2.0 · 推送 2026-01-12 · [GitHub](https://github.com/invariantlabs-ai/invariant) · [官网](https://invariantlabs.ai) · 组织维护
+⭐ 474 · Python · Apache-2.0 · 推送 2026-01-12 · [GitHub](https://github.com/invariantlabs-ai/invariant) · [官网](https://invariantlabs.ai) · 组织维护
 
 **为 LLM/MCP 智能体应用提供规则式安全护栏层**
 

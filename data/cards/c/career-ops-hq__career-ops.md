@@ -1,6 +1,6 @@
 # career-ops-hq/career-ops
 
-⭐ 76,799 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/career-ops-hq/career-ops) · [官网](https://career-ops.org) · 个人维护
+⭐ 76,972 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/career-ops-hq/career-ops) · [官网](https://career-ops.org) · 个人维护
 
 **给求职者的本地 AI 求职 agent：评分匹配并代拟申请材料**
 

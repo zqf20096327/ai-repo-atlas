@@ -1,6 +1,6 @@
 # tridz-dev/huf
 
-⭐ 124 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/tridz-dev/huf) · [官网](https://huf.ai/) · 组织维护
+⭐ 124 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/tridz-dev/huf) · [官网](https://huf.ai/) · 组织维护
 
 **自托管多 agent AI 基础设施：为团队与产品提供编排、执行与网关**
 

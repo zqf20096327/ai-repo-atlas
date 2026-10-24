@@ -1,6 +1,6 @@
 # saurav-z/free-image-generation-api
 
-⭐ 307 · HTML · 推送 2026-03-13 · [GitHub](https://github.com/saurav-z/free-image-generation-api) · [官网](https://youtu.be/VliEpQl06pE) · 个人维护
+⭐ 309 · HTML · 推送 2026-03-13 · [GitHub](https://github.com/saurav-z/free-image-generation-api) · [官网](https://youtu.be/VliEpQl06pE) · 个人维护
 
 **部署在 Cloudflare Workers 上的免费文生图 API 模板**
 

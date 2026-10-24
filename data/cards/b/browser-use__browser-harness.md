@@ -1,6 +1,6 @@
 # browser-use/browser-harness
 
-⭐ 18,585 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/browser-use/browser-harness) · [官网](https://browser-harness.com) · 组织维护
+⭐ 18,588 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/browser-use/browser-harness) · [官网](https://browser-harness.com) · 组织维护
 
 **让 Claude Code/Codex/Cursor 驱动你已登录的真实 Chrome 的工具**
 

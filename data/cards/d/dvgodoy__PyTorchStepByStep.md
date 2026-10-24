@@ -1,6 +1,6 @@
 # dvgodoy/PyTorchStepByStep
 
-⭐ 1,502 · Jupyter Notebook · MIT · 推送 2026-02-19 · [GitHub](https://github.com/dvgodoy/PyTorchStepByStep) · [官网](https://pytorchstepbystep.com) · 个人维护
+⭐ 1,503 · Jupyter Notebook · MIT · 推送 2026-02-19 · [GitHub](https://github.com/dvgodoy/PyTorchStepByStep) · [官网](https://pytorchstepbystep.com) · 个人维护
 
 **《Deep Learning with PyTorch Step-by-Step》书的配套代码仓库**
 

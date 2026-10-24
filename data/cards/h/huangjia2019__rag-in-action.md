@@ -1,6 +1,6 @@
 # huangjia2019/rag-in-action
 
-⭐ 852 · Jupyter Notebook · 推送 2026-08-25 · [GitHub](https://github.com/huangjia2019/rag-in-action) · [官网](https://u.geekbang.org/subject/airag/1009927) · 个人维护 · 中文 README
+⭐ 854 · Jupyter Notebook · 推送 2026-08-25 · [GitHub](https://github.com/huangjia2019/rag-in-action) · [官网](https://u.geekbang.org/subject/airag/1009927) · 个人维护 · 中文 README
 
 **RAG 系统实战课程代码库：10 大组件模块化拆解与实操**
 

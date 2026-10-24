@@ -1,6 +1,6 @@
 # FlorianBruniaux/cc-copilot-bridge
 
-⭐ 61 · Shell · MIT · 推送 2026-04-04 · [GitHub](https://github.com/FlorianBruniaux/cc-copilot-bridge) · [官网](https://ccbridge.bruniaux.com/) · 个人维护
+⭐ 61 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/FlorianBruniaux/cc-copilot-bridge) · [官网](https://ccbridge.bruniaux.com/) · 个人维护
 
 **给 Claude Code 用户的 Bash 多后端切换路由器**
 

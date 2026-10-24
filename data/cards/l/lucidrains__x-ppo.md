@@ -1,6 +1,6 @@
 # lucidrains/x-ppo
 
-⭐ 130 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lucidrains/x-ppo) · 个人维护
+⭐ 130 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lucidrains/x-ppo) · 个人维护
 
 **PyTorch 的 PPO 强化学习算法实现库，供 RL 研究与训练使用**
 

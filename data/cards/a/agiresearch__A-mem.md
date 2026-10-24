@@ -1,6 +1,6 @@
 # agiresearch/A-mem
 
-⭐ 1,206 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/agiresearch/A-mem) · 组织维护
+⭐ 1,207 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/agiresearch/A-mem) · 组织维护
 
 **LLM Agent 的智能体记忆系统，动态组织与演化记忆**
 

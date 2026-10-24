@@ -1,6 +1,6 @@
 # MatheusBomtempo/JornAI
 
-⭐ 117 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/MatheusBomtempo/JornAI) · [官网](https://jorn-ia.vercel.app/about) · 个人维护
+⭐ 119 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/MatheusBomtempo/JornAI) · [官网](https://jorn-ia.vercel.app/about) · 个人维护
 
 **新闻编辑室的 AI 辅助 Instagram 发文工具，人工终审**
 

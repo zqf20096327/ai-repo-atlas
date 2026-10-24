@@ -1,6 +1,6 @@
 # openai/openai-cua-sample-app
 
-⭐ 1,907 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openai/openai-cua-sample-app) · 组织维护
+⭐ 1,909 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openai/openai-cua-sample-app) · 组织维护
 
 **OpenAI 计算机使用代理（CUA）示例应用集，含浏览器与桌面两种**
 

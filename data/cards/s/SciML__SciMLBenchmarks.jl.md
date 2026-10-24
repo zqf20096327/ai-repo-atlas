@@ -1,6 +1,6 @@
 # SciML/SciMLBenchmarks.jl
 
-⭐ 347 · Julia · MIT · 推送 2026-10-21 · [GitHub](https://github.com/SciML/SciMLBenchmarks.jl) · [官网](https://docs.sciml.ai/SciMLBenchmarksOutput/stable/) · 组织维护
+⭐ 347 · Julia · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SciML/SciMLBenchmarks.jl) · [官网](https://docs.sciml.ai/SciMLBenchmarksOutput/stable/) · 组织维护
 
 **SciML 生态的科学机器学习与微分方程求解器基准集合**
 

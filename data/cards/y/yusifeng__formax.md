@@ -1,6 +1,6 @@
 # yusifeng/formax
 
-⭐ 194 · TypeScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/yusifeng/formax) · [官网](https://github.com/yusifeng/formax) · 个人维护 · 中文 README
+⭐ 192 · TypeScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/yusifeng/formax) · [官网](https://github.com/yusifeng/formax) · 个人维护 · 中文 README
 
 **终端优先的软件工程 AI 助手，复刻 Claude Code 工作流**
 

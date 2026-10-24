@@ -1,6 +1,6 @@
 # meilisearch/meilisearch-dotnet
 
-⭐ 346 · C# · MIT · 推送 2026-10-14 · [GitHub](https://github.com/meilisearch/meilisearch-dotnet) · [官网](https://meilisearch.com) · 组织维护
+⭐ 347 · C# · MIT · 推送 2026-10-14 · [GitHub](https://github.com/meilisearch/meilisearch-dotnet) · [官网](https://meilisearch.com) · 组织维护
 
 **Meilisearch 搜索引擎的官方 .NET/C# 客户端 SDK**
 

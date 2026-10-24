@@ -1,6 +1,6 @@
 # hijkzzz/Awesome-LLM-Strawberry
 
-⭐ 6,902 · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/hijkzzz/Awesome-LLM-Strawberry) · 个人维护 · 中文 README
+⭐ 6,903 · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/hijkzzz/Awesome-LLM-Strawberry) · 个人维护 · 中文 README
 
 **LLM 推理研究论文/博客/开源项目策展清单（聚焦 OpenAI o1）**
 

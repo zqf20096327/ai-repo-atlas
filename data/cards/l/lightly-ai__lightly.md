@@ -1,6 +1,6 @@
 # lightly-ai/lightly
 
-⭐ 3,822 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lightly-ai/lightly) · [官网](https://docs.lightly.ai/self-supervised-learning/) · 组织维护
+⭐ 3,822 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lightly-ai/lightly) · [官网](https://docs.lightly.ai/self-supervised-learning/) · 组织维护
 
 **图像自监督学习框架：在自有数据上预训练视觉模型**
 

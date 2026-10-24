@@ -1,6 +1,6 @@
 # imkofty/Hermuse
 
-⭐ 128 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/imkofty/Hermuse) · 个人维护
+⭐ 133 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/imkofty/Hermuse) · 个人维护
 
 **自托管部署 Hermes agent + Telegram AI 机器人的运维脚本栈**
 

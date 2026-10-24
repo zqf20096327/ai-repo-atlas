@@ -1,6 +1,6 @@
 # liliang-cn/cortexdb
 
-⭐ 467 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/liliang-cn/cortexdb) · [官网](https://liliang-cn.github.io/cortexdb/) · 个人维护 · 中文 README
+⭐ 468 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/liliang-cn/cortexdb) · [官网](https://liliang-cn.github.io/cortexdb/) · 个人维护 · 中文 README
 
 **单 SQLite 文件内的 AI 记忆与知识图库，供 agent 接入**
 

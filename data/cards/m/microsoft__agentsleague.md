@@ -1,6 +1,6 @@
 # microsoft/agentsleague
 
-⭐ 286 · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/agentsleague) · 组织维护
+⭐ 285 · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/agentsleague) · 组织维护
 
 **微软主办的两周 AI agent 开发者竞赛（已结束）**
 

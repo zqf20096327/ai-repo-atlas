@@ -1,6 +1,6 @@
 # openai/frontier-evals
 
-⭐ 1,322 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/openai/frontier-evals) · 组织维护
+⭐ 1,321 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/openai/frontier-evals) · 组织维护
 
 **OpenAI 前沿模型能力评测代码集（PaperBench/SWE-Lancer 等）**
 

@@ -1,6 +1,6 @@
 # manjunathshiva/turboquant-mlx
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/manjunathshiva/turboquant-mlx) · [官网](https://pypi.org/project/turboquant-mlx-full/) · 个人维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/manjunathshiva/turboquant-mlx) · [官网](https://pypi.org/project/turboquant-mlx-full/) · 个人维护
 
 **面向 Apple Silicon 的 LLM 权重与 KV cache 极限压缩工具（TurboQuant 的 MLX 实现）**
 

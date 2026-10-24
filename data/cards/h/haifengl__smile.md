@@ -1,6 +1,6 @@
 # haifengl/smile
 
-⭐ 6,424 · Java · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/haifengl/smile) · [官网](https://haifengl.github.io) · 个人维护
+⭐ 6,424 · Java · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/haifengl/smile) · [官网](https://haifengl.github.io) · 个人维护
 
 **面向 JVM 的机器学习框架，覆盖经典 ML、深度学习与 LLM 推理**
 

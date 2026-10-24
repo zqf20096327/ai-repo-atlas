@@ -1,6 +1,6 @@
 # Robinson-AI-Lab/FridayOS1.0
 
-⭐ 877 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Robinson-AI-Lab/FridayOS1.0) · [官网](https://github.com/Robinson-AI-Lab/FridayOS1.0/blob/main/docs/DEPLOYMENT.md) · 组织维护 · 中文 README
+⭐ 878 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Robinson-AI-Lab/FridayOS1.0) · [官网](https://github.com/Robinson-AI-Lab/FridayOS1.0/blob/main/docs/DEPLOYMENT.md) · 组织维护 · 中文 README
 
 **AI 第二大脑实践项目：用 Obsidian+Claude Code 管理个人知识**
 

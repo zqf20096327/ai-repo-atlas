@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Nemotron
 
-⭐ 2,201 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA-NeMo/Nemotron) · [官网](https://docs.nvidia.com/nemotron/latest/index.html) · 组织维护
+⭐ 2,203 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA-NeMo/Nemotron) · [官网](https://docs.nvidia.com/nemotron/latest/index.html) · 组织维护
 
 **NVIDIA Nemotron 模型开发者资源库：训练配方、步骤与用例集**
 

@@ -1,6 +1,6 @@
 # YuzeHao2023/Awesome-MCP-Servers
 
-⭐ 1,077 · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/YuzeHao2023/Awesome-MCP-Servers) · 个人维护 · 中文 README
+⭐ 1,079 · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/YuzeHao2023/Awesome-MCP-Servers) · 个人维护 · 中文 README
 
 **MCP 服务器与工具的社区策展清单**
 

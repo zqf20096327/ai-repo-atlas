@@ -1,6 +1,6 @@
 # oracle-samples/oci-data-science-ai-samples
 
-⭐ 302 · Jupyter Notebook · UPL-1.0 · 推送 2026-10-08 · [GitHub](https://github.com/oracle-samples/oci-data-science-ai-samples) · 组织维护
+⭐ 303 · Jupyter Notebook · UPL-1.0 · 推送 2026-10-08 · [GitHub](https://github.com/oracle-samples/oci-data-science-ai-samples) · 组织维护
 
 **OCI 数据科学与 AI 服务的教程与代码示例集**
 

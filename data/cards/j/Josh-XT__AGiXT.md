@@ -1,6 +1,6 @@
 # Josh-XT/AGiXT
 
-⭐ 3,217 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/Josh-XT/AGiXT) · [官网](https://AGiXT.com) · 个人维护
+⭐ 3,216 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/Josh-XT/AGiXT) · [官网](https://AGiXT.com) · 个人维护
 
 **AI Agent 自动化平台：多提供商编排任务执行与工作流**
 

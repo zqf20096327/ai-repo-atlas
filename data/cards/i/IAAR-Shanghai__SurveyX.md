@@ -1,6 +1,6 @@
 # IAAR-Shanghai/SurveyX
 
-⭐ 994 · TeX · 推送 2026-01-12 · [GitHub](https://github.com/IAAR-Shanghai/SurveyX) · [官网](http://www.surveyx.cn) · 组织维护 · 中文 README
+⭐ 995 · TeX · 推送 2026-01-12 · [GitHub](https://github.com/IAAR-Shanghai/SurveyX) · [官网](http://www.surveyx.cn) · 组织维护 · 中文 README
 
 **给科研人员：输入标题与关键词，基于本地文献生成学术综述**
 

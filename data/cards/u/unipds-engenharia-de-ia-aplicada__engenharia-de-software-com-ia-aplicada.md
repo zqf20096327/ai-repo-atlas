@@ -1,6 +1,6 @@
 # unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada
 
-⭐ 1,281 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada) · [官网](https://unipds.com.br/org-erick-wendel/?utm_source=github&utm_medium=bio&utm_campaign=bolsa_47&utm_term=&utm_content=perfil_erick) · 组织维护
+⭐ 1,282 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada) · [官网](https://unipds.com.br/org-erick-wendel/?utm_source=github&utm_medium=bio&utm_campaign=bolsa_47&utm_term=&utm_content=perfil_erick) · 组织维护
 
 **软件工程与应用 AI 研究生课程的参考资料与示例代码清单**
 

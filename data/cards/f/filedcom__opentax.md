@@ -1,6 +1,6 @@
 # filedcom/opentax
 
-⭐ 123 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/filedcom/opentax) · [官网](https://opentax.filed.com) · 组织维护
+⭐ 123 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/filedcom/opentax) · [官网](https://opentax.filed.com) · 组织维护
 
 **供 AI 代理与开发者调用的开源美国联邦税计算引擎**
 

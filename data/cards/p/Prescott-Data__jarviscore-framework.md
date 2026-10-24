@@ -1,6 +1,6 @@
 # Prescott-Data/jarviscore-framework
 
-⭐ 201 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Prescott-Data/jarviscore-framework) · [官网](https://jarviscore.developers.prescottdata.io/) · 组织维护
+⭐ 172 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Prescott-Data/jarviscore-framework) · [官网](https://jarviscore.developers.prescottdata.io/) · 组织维护
 
 **多智能体对等网络运行时框架，含零信任凭证与故障恢复**
 

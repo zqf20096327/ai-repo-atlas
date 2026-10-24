@@ -1,6 +1,6 @@
 # JuliusBrussee/cavegemma
 
-⭐ 119 · Python · 推送 2026-07-09 · [GitHub](https://github.com/JuliusBrussee/cavegemma) · [官网](https://huggingface.co/JBrussee/gemma-4-31B-caveman) · 个人维护
+⭐ 120 · Python · 推送 2026-07-09 · [GitHub](https://github.com/JuliusBrussee/cavegemma) · [官网](https://huggingface.co/JBrussee/gemma-4-31B-caveman) · 个人维护
 
 **把“穴居人式”极简输出风格微调进 Gemma 4 31B 权重的 LoRA 模型**
 

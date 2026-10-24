@@ -1,6 +1,6 @@
 # zai-org/RealVideo
 
-⭐ 347 · Python · Apache-2.0 · 推送 2025-12-15 · [GitHub](https://github.com/zai-org/RealVideo) · [官网](https://z.ai/blog/realvideo) · 组织维护 · 中文 README
+⭐ 348 · Python · Apache-2.0 · 推送 2025-12-15 · [GitHub](https://github.com/zai-org/RealVideo) · [官网](https://z.ai/blog/realvideo) · 组织维护 · 中文 README
 
 **实时流式对话视频系统：文本输入生成语音与口型同步视频**
 

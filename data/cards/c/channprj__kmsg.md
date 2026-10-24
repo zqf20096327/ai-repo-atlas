@@ -1,6 +1,6 @@
 # channprj/kmsg
 
-⭐ 278 · Swift · MIT · 推送 2026-09-21 · [GitHub](https://github.com/channprj/kmsg) · [官网](https://channprj.github.io/kmsg/) · 个人维护
+⭐ 279 · Swift · MIT · 推送 2026-09-21 · [GitHub](https://github.com/channprj/kmsg) · [官网](https://channprj.github.io/kmsg/) · 个人维护
 
 **macOS 非官方 KakaoTalk CLI 与原生 MCP 服务器**
 

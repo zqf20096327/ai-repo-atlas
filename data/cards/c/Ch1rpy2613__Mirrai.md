@@ -1,6 +1,6 @@
 # Ch1rpy2613/Mirrai
 
-⭐ 1,266 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Ch1rpy2613/Mirrai) · 个人维护 · 中文 README
+⭐ 1,266 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Ch1rpy2613/Mirrai) · 个人维护 · 中文 README
 
 **上传真实聊天记录重建数字分身的开源自托管 AI 陪伴应用**
 

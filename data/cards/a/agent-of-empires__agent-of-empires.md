@@ -1,6 +1,6 @@
 # agent-of-empires/agent-of-empires
 
-⭐ 3,380 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/agent-of-empires/agent-of-empires) · [官网](http://www.agent-of-empires.com/) · 组织维护
+⭐ 3,380 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/agent-of-empires/agent-of-empires) · [官网](http://www.agent-of-empires.com/) · 组织维护
 
 **AI 编码代理的会话管理器：TUI/Web 并行管理多个 agent**
 

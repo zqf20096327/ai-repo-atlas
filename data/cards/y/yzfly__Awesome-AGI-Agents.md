@@ -1,6 +1,6 @@
 # yzfly/Awesome-AGI-Agents
 
-⭐ 566 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/yzfly/Awesome-AGI-Agents) · [官网](https://agents.art) · 个人维护 · 中文 README
+⭐ 567 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/yzfly/Awesome-AGI-Agents) · [官网](https://agents.art) · 个人维护 · 中文 README
 
 **AGI/AI Agents 精选资源合集：文章、论文、项目与平台导航**
 

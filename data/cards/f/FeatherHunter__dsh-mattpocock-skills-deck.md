@@ -1,6 +1,6 @@
 # FeatherHunter/dsh-mattpocock-skills-deck
 
-⭐ 215 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) · [官网](https://featherhunter.github.io/dsh-mattpocock-skills-deck/architecture/MattSkills-architecture.html) · 个人维护 · 中文 README
+⭐ 224 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) · [官网](https://featherhunter.github.io/dsh-mattpocock-skills-deck/architecture/MattSkills-architecture.html) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：把 mattpocock/skills 任务化为可视任务板**
 

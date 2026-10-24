@@ -1,6 +1,6 @@
 # pytorch/TensorRT
 
-⭐ 3,016 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/pytorch/TensorRT) · [官网](https://pytorch.org/TensorRT) · 组织维护
+⭐ 3,017 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/pytorch/TensorRT) · [官网](https://pytorch.org/TensorRT) · 组织维护
 
 **面向 NVIDIA GPU 的 PyTorch 编译器，加速模型推理**
 

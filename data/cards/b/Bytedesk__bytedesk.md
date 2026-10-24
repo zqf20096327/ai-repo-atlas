@@ -1,6 +1,6 @@
 # Bytedesk/bytedesk
 
-⭐ 512 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Bytedesk/bytedesk) · [官网](https://www.bytedesk.com/en/) · 组织维护 · 中文 README
+⭐ 512 · JavaScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Bytedesk/bytedesk) · [官网](https://www.bytedesk.com/en/) · 组织维护 · 中文 README
 
 **面向企业的全渠道客服与团队 IM 开源系统，含 AI Agent**
 

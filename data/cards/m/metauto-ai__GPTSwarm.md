@@ -1,6 +1,6 @@
 # metauto-ai/GPTSwarm
 
-⭐ 1,057 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/metauto-ai/GPTSwarm) · [官网](https://gptswarm.org) · 组织维护 · 中文 README
+⭐ 1,062 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/metauto-ai/GPTSwarm) · [官网](https://gptswarm.org) · 组织维护 · 中文 README
 
 **图结构构建与优化 LLM agent 群的开源框架**
 

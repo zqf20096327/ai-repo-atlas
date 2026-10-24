@@ -1,6 +1,6 @@
 # lewis-hui1202/WPS-AI
 
-⭐ 77 · JavaScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/lewis-hui1202/WPS-AI) · [官网](https://wps-ai.llteac.cn/) · 个人维护 · 中文 README
+⭐ 78 · JavaScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/lewis-hui1202/WPS-AI) · [官网](https://wps-ai.llteac.cn/) · 个人维护 · 中文 README
 
 **WPS Office 四端（文字/表格/演示/PDF）统一 AI 助手插件**
 

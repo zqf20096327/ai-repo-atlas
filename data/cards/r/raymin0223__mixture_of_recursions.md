@@ -1,6 +1,6 @@
 # raymin0223/mixture_of_recursions
 
-⭐ 642 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/raymin0223/mixture_of_recursions) · [官网](https://arxiv.org/abs/2507.10524) · 组织维护
+⭐ 643 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/raymin0223/mixture_of_recursions) · [官网](https://arxiv.org/abs/2507.10524) · 组织维护
 
 **NeurIPS 2025 论文 MoR 官方代码：为 LLM 学习逐 token 的动态递归深度**
 

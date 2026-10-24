@@ -1,6 +1,6 @@
 # xcisxc29/dsh-wechat
 
-⭐ 307 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/xcisxc29/dsh-wechat) · 个人维护 · 中文 README
+⭐ 312 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/xcisxc29/dsh-wechat) · 个人维护 · 中文 README
 
 **用微信远程操控电脑上 DeepSeek Harness agent 的插件**
 

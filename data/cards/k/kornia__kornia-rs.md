@@ -1,6 +1,6 @@
 # kornia/kornia-rs
 
-⭐ 740 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kornia/kornia-rs) · [官网](https://docs.rs/kornia) · 组织维护 · 中文 README
+⭐ 740 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/kornia/kornia-rs) · [官网](https://docs.rs/kornia) · 组织维护 · 中文 README
 
 **Rust 底层计算机视觉库：快速图像 I/O 与 CPU/GPU 图像处理**
 

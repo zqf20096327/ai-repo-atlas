@@ -1,6 +1,6 @@
 # INRIA/scikit-learn-mooc
 
-⭐ 1,437 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-10-13 · [GitHub](https://github.com/INRIA/scikit-learn-mooc) · [官网](https://inria.github.io/scikit-learn-mooc) · 组织维护
+⭐ 1,438 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-10-13 · [GitHub](https://github.com/INRIA/scikit-learn-mooc) · [官网](https://inria.github.io/scikit-learn-mooc) · 组织维护
 
 **scikit-learn 机器学习公开课（MOOC）的课程源码仓库**
 

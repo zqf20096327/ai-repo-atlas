@@ -1,6 +1,6 @@
 # lisphilar/covid19-sir
 
-⭐ 113 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/lisphilar/covid19-sir) · [官网](https://lisphilar.github.io/covid19-sir/) · 组织维护
+⭐ 113 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/lisphilar/covid19-sir) · [官网](https://lisphilar.github.io/covid19-sir/) · 组织维护
 
 **用相位依赖 SIR 系模型分析 COVID-19 等疫情数据的 Python 库**
 

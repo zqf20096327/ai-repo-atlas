@@ -1,6 +1,6 @@
 # krantikumara/-kranti-sip-pcap-analyzer
 
-⭐ 131 · Python · 推送 2026-04-18 · [GitHub](https://github.com/krantikumara/-kranti-sip-pcap-analyzer) · 个人维护
+⭐ 132 · Python · 推送 2026-04-18 · [GitHub](https://github.com/krantikumara/-kranti-sip-pcap-analyzer) · 个人维护
 
 **面向 Wireshark 抓包的 SIP 协议分析器，带 GPT-4o 对话**
 

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HiLS-Attention
 
-⭐ 151 · Python · 推送 2026-08-13 · [GitHub](https://github.com/Tencent-Hunyuan/HiLS-Attention) · 组织维护 · 中文 README
+⭐ 152 · Python · 推送 2026-08-13 · [GitHub](https://github.com/Tencent-Hunyuan/HiLS-Attention) · 组织维护 · 中文 README
 
 **论文官方代码：可端到端学习的层级稀疏注意力机制**
 

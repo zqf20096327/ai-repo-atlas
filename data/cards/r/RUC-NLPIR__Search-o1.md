@@ -1,6 +1,6 @@
 # RUC-NLPIR/Search-o1
 
-⭐ 1,250 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/RUC-NLPIR/Search-o1) · 组织维护 · 中文 README
+⭐ 1,251 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/RUC-NLPIR/Search-o1) · 组织维护 · 中文 README
 
 **为大型推理模型增加 agentic 检索增强的开源框架**
 

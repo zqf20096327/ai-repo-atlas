@@ -1,6 +1,6 @@
 # microsoft/agenticai-design-patterns
 
-⭐ 692 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/agenticai-design-patterns) · 组织维护
+⭐ 691 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/agenticai-design-patterns) · 组织维护
 
 **面向 Azure/Microsoft Foundry 的 Agentic AI 设计模式与参考架构清单**
 

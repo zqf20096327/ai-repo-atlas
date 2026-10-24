@@ -1,6 +1,6 @@
 # shu223/iOS-GenAI-Sampler
 
-⭐ 180 · Swift · MIT · 推送 2025-10-28 · [GitHub](https://github.com/shu223/iOS-GenAI-Sampler) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **iOS 生成式 AI 示例集合：OpenAI/本地 LLM/翻译/绘图/语音**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

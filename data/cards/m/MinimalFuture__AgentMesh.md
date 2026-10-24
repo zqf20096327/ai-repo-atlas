@@ -1,6 +1,6 @@
 # MinimalFuture/AgentMesh
 
-⭐ 344 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/MinimalFuture/AgentMesh) · 个人维护 · 中文 README
+⭐ 345 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/MinimalFuture/AgentMesh) · 个人维护 · 中文 README
 
 **面向开发者的多智能体协作框架，快速组建 Agent 团队**
 

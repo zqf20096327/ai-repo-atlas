@@ -1,6 +1,6 @@
 # yym68686/ChatGPT-Telegram-Bot
 
-⭐ 1,290 · Python · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/yym68686/ChatGPT-Telegram-Bot) · 个人维护 · 中文 README
+⭐ 1,289 · Python · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/yym68686/ChatGPT-Telegram-Bot) · 个人维护 · 中文 README
 
 **Telegram AI 聊天机器人：接入 OpenAI 兼容 API 对话与联网搜索**
 

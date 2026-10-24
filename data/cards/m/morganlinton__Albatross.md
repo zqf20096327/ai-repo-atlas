@@ -1,6 +1,6 @@
 # morganlinton/Albatross
 
-⭐ 237 · Rust · MIT · 推送 2026-10-05 · [GitHub](https://github.com/morganlinton/Albatross) · [官网](https://albatross.sh) · 个人维护
+⭐ 236 · Rust · MIT · 推送 2026-10-05 · [GitHub](https://github.com/morganlinton/Albatross) · [官网](https://albatross.sh) · 个人维护
 
 **终端优先的 AI 编码代理：自带密钥接入本地或云端模型**
 

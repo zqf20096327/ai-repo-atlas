@@ -1,6 +1,6 @@
 # lucidrains/alphafold3-pytorch
 
-⭐ 1,699 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/lucidrains/alphafold3-pytorch) · 个人维护
+⭐ 1,700 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/lucidrains/alphafold3-pytorch) · 个人维护
 
 **Google DeepMind AlphaFold 3 的 PyTorch 复现，供科研复现与训练**
 

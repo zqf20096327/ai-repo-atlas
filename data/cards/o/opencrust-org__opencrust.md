@@ -1,6 +1,6 @@
 # opencrust-org/opencrust
 
-⭐ 146 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/opencrust-org/opencrust) · 组织维护
+⭐ 147 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/opencrust-org/opencrust) · 组织维护
 
 **Rust 编写的个人多 agent AI 助手平台，覆盖多聊天渠道**
 

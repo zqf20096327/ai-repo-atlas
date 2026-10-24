@@ -1,6 +1,6 @@
 # xlang-ai/OSWorld-V2
 
-⭐ 382 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xlang-ai/OSWorld-V2) · [官网](https://osworld-v2.xlang.ai) · 组织维护
+⭐ 383 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xlang-ai/OSWorld-V2) · [官网](https://osworld-v2.xlang.ai) · 组织维护
 
 **计算机使用智能体（CUA）长程真实任务评测基准**
 

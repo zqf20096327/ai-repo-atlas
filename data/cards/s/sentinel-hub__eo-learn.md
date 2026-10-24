@@ -1,6 +1,6 @@
 # sentinel-hub/eo-learn
 
-⭐ 1,254 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/sentinel-hub/eo-learn) · [官网](https://eo-learn.readthedocs.io/en/latest/) · 组织维护
+⭐ 1,255 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/sentinel-hub/eo-learn) · [官网](https://eo-learn.readthedocs.io/en/latest/) · 组织维护
 
 **面向遥感卫星影像与机器学习的 Python 地球观测处理框架**
 

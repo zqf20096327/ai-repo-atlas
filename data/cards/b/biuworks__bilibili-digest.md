@@ -1,6 +1,6 @@
 # biuworks/bilibili-digest
 
-⭐ 174 · JavaScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/biuworks/bilibili-digest) · 个人维护 · 中文 README
+⭐ 173 · JavaScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/biuworks/bilibili-digest) · 个人维护 · 中文 README
 
 **把 B 站视频变成学习资源的浏览器扩展**
 

@@ -1,6 +1,6 @@
 # acerbilab/pyvbmc
 
-⭐ 136 · Python · BSD-3-Clause · 推送 2026-10-16 · [GitHub](https://github.com/acerbilab/pyvbmc) · [官网](https://acerbilab.github.io/pyvbmc/) · 组织维护
+⭐ 136 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/acerbilab/pyvbmc) · [官网](https://acerbilab.github.io/pyvbmc/) · 组织维护
 
 **变分贝叶斯蒙特卡洛算法的 Python 实现，用于后验与模型推断**
 

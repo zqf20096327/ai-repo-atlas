@@ -1,6 +1,6 @@
 # starling-build/starling
 
-⭐ 408 · Swift · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/starling-build/starling) · [官网](https://starling.build) · 组织维护
+⭐ 408 · Swift · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/starling-build/starling) · [官网](https://starling.build) · 组织维护
 
 **Swift 编写的 Linux 桌面环境：自带 Wayland 合成器与终端/办公套件**
 

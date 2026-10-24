@@ -1,6 +1,6 @@
 # cloudflare/sandbox-sdk
 
-⭐ 1,155 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/cloudflare/sandbox-sdk) · [官网](https://sandbox.cloudflare.com/) · 组织维护
+⭐ 1,154 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/cloudflare/sandbox-sdk) · [官网](https://sandbox.cloudflare.com/) · 组织维护
 
 **在 Cloudflare 边缘网络运行 Linux 沙箱容器执行不可信代码**
 

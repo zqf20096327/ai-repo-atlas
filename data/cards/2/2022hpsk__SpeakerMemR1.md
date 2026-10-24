@@ -1,6 +1,6 @@
 # 2022hpsk/SpeakerMemR1
 
-⭐ 114 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/2022hpsk/SpeakerMemR1) · [官网](https://2022hpsk.github.io/SpeakerMemR1/) · 组织维护
+⭐ 103 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/2022hpsk/SpeakerMemR1) · [官网](https://2022hpsk.github.io/SpeakerMemR1/) · 组织维护
 
 **多方对话的以说话者为中心双轨记忆研究框架**
 

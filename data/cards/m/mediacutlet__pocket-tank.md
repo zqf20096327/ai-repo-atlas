@@ -1,6 +1,6 @@
 # mediacutlet/pocket-tank
 
-⭐ 249 · C · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mediacutlet/pocket-tank) · [官网](https://pocketank.com) · 个人维护
+⭐ 253 · C · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mediacutlet/pocket-tank) · [官网](https://pocketank.com) · 个人维护
 
 **在 ESP32-S3 上用 14M 参数微型 LLM 驱动的虚拟水族箱固件**
 

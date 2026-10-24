@@ -1,6 +1,6 @@
 # GitHamza0206/simba
 
-⭐ 1,546 · TypeScript · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/GitHamza0206/simba) · [官网](https://simba.mintlify.app) · 个人维护
+⭐ 1,545 · TypeScript · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/GitHamza0206/simba) · [官网](https://simba.mintlify.app) · 个人维护
 
 **开源自托管 AI 客服助手，内置评估与监控**
 

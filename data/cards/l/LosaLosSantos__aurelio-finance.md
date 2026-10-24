@@ -1,6 +1,6 @@
 # LosaLosSantos/aurelio-finance
 
-⭐ 305 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LosaLosSantos/aurelio-finance) · 个人维护
+⭐ 307 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LosaLosSantos/aurelio-finance) · 个人维护
 
 **本地运行的个人财富管理应用，带可对话的 AI 财务顾问**
 

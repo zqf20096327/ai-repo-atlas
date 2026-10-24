@@ -1,6 +1,6 @@
 # Blaizzy/mlx-audio
 
-⭐ 8,095 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Blaizzy/mlx-audio) · [官网](https://blaizzy.github.io/mlx-audio/) · 个人维护
+⭐ 8,097 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Blaizzy/mlx-audio) · [官网](https://blaizzy.github.io/mlx-audio/) · 个人维护
 
 **Apple Silicon 上的 TTS/STT/STS 语音处理库，服务开发者**
 

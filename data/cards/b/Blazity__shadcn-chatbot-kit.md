@@ -1,6 +1,6 @@
 # Blazity/shadcn-chatbot-kit
 
-⭐ 806 · TypeScript · MIT · 推送 2026-02-26 · [GitHub](https://github.com/Blazity/shadcn-chatbot-kit) · [官网](https://shadcn-chatbot-kit.vercel.app) · 组织维护
+⭐ 805 · TypeScript · MIT · 推送 2026-02-26 · [GitHub](https://github.com/Blazity/shadcn-chatbot-kit) · [官网](https://shadcn-chatbot-kit.vercel.app) · 组织维护
 
 **给前端开发者：基于 shadcn/ui 的聊天机器人组件套件**
 

@@ -1,6 +1,6 @@
 # rowboatlabs/rowboat
 
-⭐ 18,060 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rowboatlabs/rowboat) · [官网](https://www.rowboatlabs.com) · 组织维护
+⭐ 18,064 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rowboatlabs/rowboat) · [官网](https://www.rowboatlabs.com) · 组织维护
 
 **本地优先的个人 AI 助手，带知识图谱与团队 Spaces 协作**
 

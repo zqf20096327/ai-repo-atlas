@@ -1,6 +1,6 @@
 # tensorflow/tflite-micro
 
-⭐ 3,128 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tensorflow/tflite-micro) · 组织维护
+⭐ 3,130 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tensorflow/tflite-micro) · 组织维护
 
 **在微控制器等低功耗嵌入式设备上运行深度学习模型的推理框架**
 

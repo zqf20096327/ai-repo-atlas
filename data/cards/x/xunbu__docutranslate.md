@@ -1,6 +1,6 @@
 # xunbu/docutranslate
 
-⭐ 1,345 · Python · MPL-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/xunbu/docutranslate) · 个人维护 · 中文 README
+⭐ 1,346 · Python · MPL-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/xunbu/docutranslate) · 个人维护 · 中文 README
 
 **基于 LLM 的本地文档翻译工具：pdf/word/excel/字幕等格式**
 

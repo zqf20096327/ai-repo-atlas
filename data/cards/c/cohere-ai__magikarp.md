@@ -1,6 +1,6 @@
 # cohere-ai/magikarp
 
-⭐ 192 · Python · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/cohere-ai/magikarp) · [官网](https://arxiv.org/abs/2405.05417) · 组织维护
+⭐ 191 · Python · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/cohere-ai/magikarp) · [官网](https://arxiv.org/abs/2405.05417) · 组织维护
 
 **检测大模型中欠训练 token 的论文代码与结果集**
 

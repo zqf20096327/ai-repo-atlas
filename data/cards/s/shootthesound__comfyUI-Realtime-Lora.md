@@ -1,6 +1,6 @@
 # shootthesound/comfyUI-Realtime-Lora
 
-⭐ 573 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/shootthesound/comfyUI-Realtime-Lora) · 个人维护
+⭐ 574 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/shootthesound/comfyUI-Realtime-Lora) · 个人维护
 
 **ComfyUI 内实时 LoRA 训练/分析/分块加载节点集**
 

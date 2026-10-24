@@ -1,6 +1,6 @@
 # Mindrally/skills
 
-⭐ 285 · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Mindrally/skills) · [官网](https://mindrally.com) · 组织维护
+⭐ 286 · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Mindrally/skills) · [官网](https://mindrally.com) · 组织维护
 
 **给 Claude Code 用户的 265+ 编码技能合集（Cursor 规则转换）**
 

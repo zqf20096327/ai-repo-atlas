@@ -1,6 +1,6 @@
 # SYuan03/Skill-Anything
 
-⭐ 343 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/SYuan03/Skill-Anything) · [官网](https://SYuan03.github.io/Skill-Anything/) · 个人维护
+⭐ 344 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/SYuan03/Skill-Anything) · [官网](https://SYuan03.github.io/Skill-Anything/) · 个人维护
 
 **把任意来源（PDF/视频/网页/音频/文本/仓库）转成学习包与 Agent 技能的 CLI 工具**
 

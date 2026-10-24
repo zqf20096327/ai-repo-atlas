@@ -1,6 +1,6 @@
 # shinbunbun/llama-cpp-p100-patches
 
-⭐ 55 · Nix · MIT · 推送 2026-10-07 · [GitHub](https://github.com/shinbunbun/llama-cpp-p100-patches) · 个人维护 · 中文 README
+⭐ 54 · Nix · MIT · 推送 2026-10-07 · [GitHub](https://github.com/shinbunbun/llama-cpp-p100-patches) · 个人维护 · 中文 README
 
 **针对 llama.cpp 的 45 个性能补丁集，在 Tesla P100 上开发并测量**
 

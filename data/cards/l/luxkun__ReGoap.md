@@ -1,6 +1,6 @@
 # luxkun/ReGoap
 
-⭐ 1,120 · C# · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/luxkun/ReGoap) · 个人维护
+⭐ 1,121 · C# · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/luxkun/ReGoap) · 个人维护
 
 **给游戏开发者的通用 C# GOAP 规划库（Unity/Godot 适配）**
 

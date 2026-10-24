@@ -1,6 +1,6 @@
 # lfai/lfai-landscape
 
-⭐ 387 · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/lfai/lfai-landscape) · [官网](https://l.lfai.foundation/) · 组织维护
+⭐ 387 · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/lfai/lfai-landscape) · [官网](https://l.lfai.foundation/) · 组织维护
 
 **开源 AI 与数据生态项目全景图（LF AI 基金会官方景观图）**
 

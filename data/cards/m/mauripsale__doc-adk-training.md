@@ -1,6 +1,6 @@
 # mauripsale/doc-adk-training
 
-⭐ 78 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/mauripsale/doc-adk-training) · 个人维护
+⭐ 78 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/mauripsale/doc-adk-training) · 个人维护
 
 **Google ADK 从入门到生产的 40 模块 AI agent 训练课程**
 

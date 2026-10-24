@@ -1,6 +1,6 @@
 # sizhe-li/neural-jacobian-field
 
-⭐ 241 · Jupyter Notebook · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/sizhe-li/neural-jacobian-field) · [官网](https://sizhe-li.github.io/publication/neural_jacobian_field/) · 组织维护
+⭐ 242 · Jupyter Notebook · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/sizhe-li/neural-jacobian-field) · [官网](https://sizhe-li.github.io/publication/neural_jacobian_field/) · 组织维护
 
 **科研者的神经雅可比场：从感知学习机器人系统表示以控制机器人**
 

@@ -1,6 +1,6 @@
 # timothy-agent/timothy
 
-⭐ 61 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/timothy-agent/timothy) · [官网](https://timothy-agent.github.io/docs/) · 组织维护
+⭐ 61 · Go · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/timothy-agent/timothy) · [官网](https://timothy-agent.github.io/docs/) · 组织维护
 
 **自托管的个人 AI agent 控制平面，私域运行多模型智能体**
 

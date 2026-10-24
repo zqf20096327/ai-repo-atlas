@@ -1,6 +1,6 @@
 # KittenCN/stock_prediction
 
-⭐ 386 · Python · GPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/KittenCN/stock_prediction) · [官网](https://www.coderfan.com) · 个人维护 · 中文 README
+⭐ 388 · Python · GPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/KittenCN/stock_prediction) · [官网](https://www.coderfan.com) · 个人维护 · 中文 README
 
 **基于 PyTorch 的股票时间序列预测实验项目**
 

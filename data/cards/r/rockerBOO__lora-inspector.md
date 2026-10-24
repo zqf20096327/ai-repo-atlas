@@ -1,6 +1,6 @@
 # rockerBOO/lora-inspector
 
-⭐ 101 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/rockerBOO/lora-inspector) · 个人维护
+⭐ 101 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rockerBOO/lora-inspector) · 个人维护
 
 **Stable Diffusion LoRA 文件元数据与权重检查工具**
 

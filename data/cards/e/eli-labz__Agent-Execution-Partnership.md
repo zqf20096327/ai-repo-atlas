@@ -1,6 +1,6 @@
 # eli-labz/Agent-Execution-Partnership
 
-⭐ 144 · Python · NOASSERTION · 推送 2026-07-22 · [GitHub](https://github.com/eli-labz/Agent-Execution-Partnership) · [官网](https://aee.eli-labz.com/) · 个人维护
+⭐ 141 · Python · NOASSERTION · 推送 2026-07-22 · [GitHub](https://github.com/eli-labz/Agent-Execution-Partnership) · [官网](https://aee.eli-labz.com/) · 个人维护
 
 **AI agent 行动的控制平面：执行前授权、执行中可观测、执行后可验证**
 

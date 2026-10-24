@@ -1,6 +1,6 @@
 # milanglacier/minuet-ai.nvim
 
-⭐ 1,435 · Lua · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/milanglacier/minuet-ai.nvim) · 个人维护
+⭐ 1,436 · Lua · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/milanglacier/minuet-ai.nvim) · 个人维护
 
 **Neovim 插件：边打字边从多种 LLM 获取代码补全**
 

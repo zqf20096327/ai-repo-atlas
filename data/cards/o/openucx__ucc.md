@@ -1,6 +1,6 @@
 # openucx/ucc
 
-⭐ 317 · C · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/openucx/ucc) · [官网](https://openucx.github.io/ucc/) · 组织维护
+⭐ 318 · C · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/openucx/ucc) · [官网](https://openucx.github.io/ucc/) · 组织维护
 
 **面向 HPC/AI/ML 负载的集合通信操作 API 与库**
 

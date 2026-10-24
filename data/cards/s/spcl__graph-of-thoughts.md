@@ -1,6 +1,6 @@
 # spcl/graph-of-thoughts
 
-⭐ 2,845 · Python · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/spcl/graph-of-thoughts) · [官网](https://arxiv.org/pdf/2308.09687.pdf) · 组织维护
+⭐ 2,846 · Python · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/spcl/graph-of-thoughts) · [官网](https://arxiv.org/pdf/2308.09687.pdf) · 组织维护
 
 **把问题建模为操作图并用 LLM 自动执行的提示工程框架**
 

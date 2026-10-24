@@ -1,6 +1,6 @@
 # BioTender-max/awesome-bio-agent-skills
 
-⭐ 204 · Python · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/BioTender-max/awesome-bio-agent-skills) · [官网](https://biotender-max.github.io/awesome-bio-agent-skills/) · 组织维护 · 中文 README
+⭐ 206 · Python · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/BioTender-max/awesome-bio-agent-skills) · [官网](https://biotender-max.github.io/awesome-bio-agent-skills/) · 组织维护 · 中文 README
 
 **生物医学 AI agent 技能策展清单（1,722 条，16 类）**
 

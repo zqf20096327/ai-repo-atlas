@@ -1,6 +1,6 @@
 # yologdev/yoagent
 
-⭐ 365 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/yologdev/yoagent) · [官网](https://yologdev.github.io/yoagent/) · 组织维护 · 中文 README
+⭐ 365 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yologdev/yoagent) · [官网](https://yologdev.github.io/yoagent/) · 组织维护 · 中文 README
 
 **Rust agent 循环库：接入 7 种 LLM 协议，运行工具直至完成**
 

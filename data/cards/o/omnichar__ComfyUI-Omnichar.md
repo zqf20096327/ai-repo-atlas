@@ -1,6 +1,6 @@
 # omnichar/ComfyUI-Omnichar
 
-⭐ 95 · Python · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/omnichar/ComfyUI-Omnichar) · [官网](https://omnichar.org) · 组织维护
+⭐ 96 · Python · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/omnichar/ComfyUI-Omnichar) · [官网](https://omnichar.org) · 组织维护
 
 **ComfyUI 节点包：用 .char 格式跨模型保持角色一致性**
 

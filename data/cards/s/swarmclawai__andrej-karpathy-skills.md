@@ -1,6 +1,6 @@
 # swarmclawai/andrej-karpathy-skills
 
-⭐ 55 · JavaScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/swarmclawai/andrej-karpathy-skills) · 组织维护 · 中文 README
+⭐ 56 · JavaScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/swarmclawai/andrej-karpathy-skills) · 组织维护 · 中文 README
 
 **打包给各类编程 Agent 的 Karpathy 编码准则技能包**
 

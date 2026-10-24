@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-ASR
 
-⭐ 3,761 · Python · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/QwenLM/Qwen3-ASR) · 组织维护 · 中文 README
+⭐ 3,766 · Python · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/QwenLM/Qwen3-ASR) · 组织维护 · 中文 README
 
 **阿里 Qwen 团队的开源多语言语音识别模型系列（ASR + 强制对齐）**
 

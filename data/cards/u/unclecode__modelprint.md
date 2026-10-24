@@ -1,6 +1,6 @@
 # unclecode/modelprint
 
-⭐ 131 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/unclecode/modelprint) · 个人维护
+⭐ 132 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/unclecode/modelprint) · 个人维护
 
 **在浏览器中对 OpenAI 兼容端点做指纹探测，核验 API 背后模型**
 

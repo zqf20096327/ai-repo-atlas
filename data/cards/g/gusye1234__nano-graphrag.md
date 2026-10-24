@@ -1,6 +1,6 @@
 # gusye1234/nano-graphrag
 
-⭐ 4,007 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/gusye1234/nano-graphrag) · 个人维护
+⭐ 4,004 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/gusye1234/nano-graphrag) · 个人维护
 
 **约 1100 行代码的轻量 GraphRAG 实现，供阅读与改造**
 

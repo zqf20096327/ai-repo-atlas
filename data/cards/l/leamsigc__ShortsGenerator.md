@@ -1,6 +1,6 @@
 # leamsigc/ShortsGenerator
 
-⭐ 360 · Vue · MIT · 推送 2026-10-11 · [GitHub](https://github.com/leamsigc/ShortsGenerator) · 个人维护
+⭐ 359 · Vue · MIT · 推送 2026-10-11 · [GitHub](https://github.com/leamsigc/ShortsGenerator) · 个人维护
 
 **本地自动化生成 YouTube Shorts 视频的自托管工具**
 

@@ -1,6 +1,6 @@
 # superagent-ai/vibekit
 
-⭐ 1,866 · TypeScript · MIT · 推送 2026-01-13 · [GitHub](https://github.com/superagent-ai/vibekit) · [官网](https://vibekit.sh) · 组织维护
+⭐ 1,865 · TypeScript · MIT · 推送 2026-01-13 · [GitHub](https://github.com/superagent-ai/vibekit) · [官网](https://vibekit.sh) · 组织维护
 
 **在隔离沙箱中安全运行编码代理的 CLI 工具**
 

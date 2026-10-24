@@ -1,6 +1,6 @@
 # gridaco/grida
 
-⭐ 2,688 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/gridaco/grida) · [官网](https://grida.co) · 组织维护
+⭐ 2,686 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/gridaco/grida) · [官网](https://grida.co) · 组织维护
 
 **开源设计画布工具，AI 辅助创作图形与图像**
 

@@ -1,6 +1,6 @@
 # Leihb/learn-agent-the-hard-way
 
-⭐ 63 · Go · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/Leihb/learn-agent-the-hard-way) · [官网](https://leihb.com/learn-agent-the-hard-way/) · 个人维护 · 中文 README
+⭐ 64 · Go · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/Leihb/learn-agent-the-hard-way) · [官网](https://leihb.com/learn-agent-the-hard-way/) · 个人维护 · 中文 README
 
 **中文教程电子书：32 个练习亲手写出一个 agent harness**
 

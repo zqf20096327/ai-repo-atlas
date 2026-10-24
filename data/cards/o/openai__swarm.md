@@ -1,6 +1,6 @@
 # openai/swarm
 
-⭐ 22,073 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/swarm) · 组织维护
+⭐ 22,074 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/swarm) · 组织维护
 
 **面向开发者的轻量多 Agent 编排教学框架**
 

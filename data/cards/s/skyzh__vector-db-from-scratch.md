@@ -1,6 +1,6 @@
 # skyzh/vector-db-from-scratch
 
-⭐ 809 · Rust · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/skyzh/vector-db-from-scratch) · [官网](https://skyzh.github.io/vector-db-from-scratch/) · 个人维护
+⭐ 810 · Rust · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/skyzh/vector-db-from-scratch) · [官网](https://skyzh.github.io/vector-db-from-scratch/) · 个人维护
 
 **Rust 实战课程：从零构建内存向量数据库并接入 SQL**
 

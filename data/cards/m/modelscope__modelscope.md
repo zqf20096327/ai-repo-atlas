@@ -1,6 +1,6 @@
 # modelscope/modelscope
 
-⭐ 9,185 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelscope/modelscope) · [官网](https://www.modelscope.cn/) · 组织维护 · 中文 README
+⭐ 9,187 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelscope/modelscope) · [官网](https://www.modelscope.cn/) · 组织维护 · 中文 README
 
 **Model-as-a-Service 框架库：统一接口做模型推理/训练/评估**
 

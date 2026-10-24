@@ -1,6 +1,6 @@
 # ncounterspecialist/twick
 
-⭐ 542 · TypeScript · NOASSERTION · 推送 2026-06-04 · [GitHub](https://github.com/ncounterspecialist/twick) · [官网](https://ncounterspecialist.github.io/twick/) · 组织维护
+⭐ 543 · TypeScript · NOASSERTION · 推送 2026-06-04 · [GitHub](https://github.com/ncounterspecialist/twick) · [官网](https://ncounterspecialist.github.io/twick/) · 组织维护
 
 **面向开发者的 React 视频编辑器 SDK，含 AI 字幕与 MP4 导出**
 

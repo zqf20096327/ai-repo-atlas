@@ -1,6 +1,6 @@
 # shanraisshan/claude-code-hooks
 
-⭐ 561 · HTML · MIT · 推送 2026-06-04 · [GitHub](https://github.com/shanraisshan/claude-code-hooks) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
+⭐ 563 · HTML · MIT · 推送 2026-06-04 · [GitHub](https://github.com/shanraisshan/claude-code-hooks) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
 
 **为 Claude Code 各钩子事件添加提示音的 hooks 集合**
 

@@ -1,6 +1,6 @@
 # deepseek-ai/DeepJIT
 
-⭐ 425 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/deepseek-ai/DeepJIT) · 组织维护 · 中文 README
+⭐ 428 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/deepseek-ai/DeepJIT) · 组织维护 · 中文 README
 
 **面向 C++/Python 扩展作者的 CUDA/昇腾内核 JIT 编译运行时**
 

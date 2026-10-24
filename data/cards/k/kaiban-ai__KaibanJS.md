@@ -1,6 +1,6 @@
 # kaiban-ai/KaibanJS
 
-⭐ 1,483 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/kaiban-ai/KaibanJS) · [官网](https://www.kaibanjs.com/) · 组织维护
+⭐ 1,482 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/kaiban-ai/KaibanJS) · [官网](https://www.kaibanjs.com/) · 组织维护
 
 **JavaScript 原生多智能体系统构建框架，Kanban 式任务编排**
 

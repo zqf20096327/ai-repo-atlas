@@ -1,6 +1,6 @@
 # oracle/ai-optimizer
 
-⭐ 102 · Python · UPL-1.0 · 推送 2026-10-14 · [GitHub](https://github.com/oracle/ai-optimizer) · [官网](https://www.oracle.com/database/ai-optimizer-toolkit/?source=:ex:tb:::::Githubrepo&SC=:ex:tb:::::Githubrepo&pcode=) · 组织维护
+⭐ 102 · Python · UPL-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/oracle/ai-optimizer) · [官网](https://www.oracle.com/database/ai-optimizer-toolkit/?source=:ex:tb:::::Githubrepo&SC=:ex:tb:::::Githubrepo&pcode=) · 组织维护
 
 **面向开发者的 GenAI 实验工具：在 Oracle AI 数据库上做 RAG 与 NL2SQL**
 

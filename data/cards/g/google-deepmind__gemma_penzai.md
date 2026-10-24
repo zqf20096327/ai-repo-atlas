@@ -1,6 +1,6 @@
 # google-deepmind/gemma_penzai
 
-⭐ 100 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/google-deepmind/gemma_penzai) · 组织维护
+⭐ 101 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/google-deepmind/gemma_penzai) · 组织维护
 
 **基于 Penzai 的 Gemma 模型可视化与研究工具包**
 

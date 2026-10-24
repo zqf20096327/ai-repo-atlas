@@ -1,6 +1,6 @@
 # KOKOSde/localmod
 
-⭐ 128 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/KOKOSde/localmod) · 个人维护
+⭐ 123 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/KOKOSde/localmod) · 个人维护
 
 **自托管离线内容审核 API：文本与图像的毒性/PII/NSFW 检测**
 

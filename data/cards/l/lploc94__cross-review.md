@@ -1,6 +1,6 @@
 # lploc94/cross-review
 
-⭐ 153 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lploc94/cross-review) · [官网](https://cross-review.tlelabs.com) · 个人维护
+⭐ 153 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lploc94/cross-review) · [官网](https://cross-review.tlelabs.com) · 个人维护
 
 **跨模型代码审查技能包：一个 agent 编排、另一模型审查方案与代码**
 

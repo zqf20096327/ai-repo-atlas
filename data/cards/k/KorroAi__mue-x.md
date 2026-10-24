@@ -1,6 +1,6 @@
 # KorroAi/mue-x
 
-⭐ 280 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/KorroAi/mue-x) · [官网](https://korrocorp.com) · 组织维护
+⭐ 279 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/KorroAi/mue-x) · [官网](https://korrocorp.com) · 组织维护
 
 **自我改写源码的自进化 AI agent，跨平台 CLI 运行**
 

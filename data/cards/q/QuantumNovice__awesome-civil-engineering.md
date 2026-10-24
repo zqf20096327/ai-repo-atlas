@@ -1,6 +1,6 @@
 # QuantumNovice/awesome-civil-engineering
 
-⭐ 105 · Python · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/QuantumNovice/awesome-civil-engineering) · 个人维护
+⭐ 105 · Python · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/QuantumNovice/awesome-civil-engineering) · 个人维护
 
 **土木工程软件与编程资源策展清单，覆盖多工程子领域**
 

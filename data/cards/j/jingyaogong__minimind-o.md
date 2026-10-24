@@ -1,6 +1,6 @@
 # jingyaogong/minimind-o
 
-⭐ 2,672 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind-o) · [官网](https://jingyaogong.github.io/minimind-o) · 个人维护 · 中文 README
+⭐ 2,676 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind-o) · [官网](https://jingyaogong.github.io/minimind-o) · 个人维护 · 中文 README
 
 **从 0 训练的 0.1B 级端到端 Omni 模型：能听、能看、能说**
 

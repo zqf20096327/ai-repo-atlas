@@ -1,6 +1,6 @@
 # charlie947/ai-second-brain
 
-⭐ 205 · MIT · 推送 2026-04-17 · [GitHub](https://github.com/charlie947/ai-second-brain) · 个人维护
+⭐ 205 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/charlie947/ai-second-brain) · 个人维护
 
 **引导用户在 Claude Code 中搭建个人 AI 知识库的技能**
 

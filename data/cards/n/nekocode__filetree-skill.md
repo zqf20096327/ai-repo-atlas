@@ -1,6 +1,6 @@
 # nekocode/filetree-skill
 
-⭐ 162 · Python · 推送 2026-07-20 · [GitHub](https://github.com/nekocode/filetree-skill) · [官网](https://nekocode.github.io/filetree-skill/) · 个人维护 · 中文 README
+⭐ 163 · Python · 推送 2026-07-20 · [GitHub](https://github.com/nekocode/filetree-skill) · [官网](https://nekocode.github.io/filetree-skill/) · 个人维护 · 中文 README
 
 **Claude Code 插件：用 FILETREE.md 维护文件级索引供 LLM 快速理解仓库**
 

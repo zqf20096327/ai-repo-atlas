@@ -1,6 +1,6 @@
 # ROCm/hipBLASLt
 
-⭐ 116 · Assembly · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ROCm/hipBLASLt) · [官网](https://github.com/ROCm/rocm-libraries) · 组织维护
+⭐ 116 · Assembly · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ROCm/hipBLASLt) · [官网](https://github.com/ROCm/rocm-libraries) · 组织维护
 
 **AMD GPU 上的 GEMM 矩阵运算库（HIP 后端），已弃用迁库**
 

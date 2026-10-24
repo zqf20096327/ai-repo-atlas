@@ -1,6 +1,6 @@
 # praveen-ks-2001/hermes-agent-template
 
-⭐ 324 · Python · 推送 2026-10-21 · [GitHub](https://github.com/praveen-ks-2001/hermes-agent-template) · [官网](https://railway.com/deploy/hermes-agent-ai?referralCode=QXdhdr) · 个人维护
+⭐ 323 · Python · 推送 2026-10-21 · [GitHub](https://github.com/praveen-ks-2001/hermes-agent-template) · [官网](https://railway.com/deploy/hermes-agent-ai?referralCode=QXdhdr) · 个人维护
 
 **在 Railway 一键部署 Hermes Agent 并通过 Web 管理面板运维**
 

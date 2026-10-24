@@ -1,6 +1,6 @@
 # lucidrains/BS-RoFormer
 
-⭐ 996 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/lucidrains/BS-RoFormer) · 个人维护
+⭐ 998 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/lucidrains/BS-RoFormer) · 个人维护
 
 **Band Split RoFormer 音乐源分离模型的 PyTorch 实现**
 

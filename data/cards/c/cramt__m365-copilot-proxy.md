@@ -1,6 +1,6 @@
 # cramt/m365-copilot-proxy
 
-⭐ 153 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cramt/m365-copilot-proxy) · 个人维护
+⭐ 154 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cramt/m365-copilot-proxy) · 个人维护
 
 **把 M365 Copilot 许可证封装成 OpenAI 兼容 API 的代理**
 

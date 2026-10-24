@@ -1,6 +1,6 @@
 # jtlicardo/bpmn-assistant
 
-⭐ 171 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/jtlicardo/bpmn-assistant) · [官网](https://bpmn-frontend.onrender.com) · 个人维护
+⭐ 172 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/jtlicardo/bpmn-assistant) · [官网](https://bpmn-frontend.onrender.com) · 个人维护
 
 **LLM 助手：把自然语言流程描述转成可编辑 BPMN 图**
 

@@ -1,6 +1,6 @@
 # sfrangulov/minirag-mcp
 
-⭐ 68 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sfrangulov/minirag-mcp) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sfrangulov/minirag-mcp) · 个人维护
 
 **本地优先的 RAG MCP 服务器：为 MCP 客户端提供文档混合检索**
 

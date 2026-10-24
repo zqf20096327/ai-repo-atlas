@@ -1,6 +1,6 @@
 # YanWenKun/ComfyUI-Docker
 
-⭐ 1,679 · Dockerfile · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/YanWenKun/ComfyUI-Docker) · [官网](https://hub.docker.com/r/yanwk/comfyui-boot) · 个人维护 · 中文 README
+⭐ 1,680 · Dockerfile · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/YanWenKun/ComfyUI-Docker) · [官网](https://hub.docker.com/r/yanwk/comfyui-boot) · 个人维护 · 中文 README
 
 **ComfyUI 的 Docker 镜像集：覆盖 CUDA/ROCm/XPU/CPU 多后端**
 

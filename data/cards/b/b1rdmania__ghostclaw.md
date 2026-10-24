@@ -1,6 +1,6 @@
 # b1rdmania/ghostclaw
 
-⭐ 84 · TypeScript · MIT · 推送 2026-05-03 · [GitHub](https://github.com/b1rdmania/ghostclaw) · [官网](https://ghostclaw.io) · 个人维护
+⭐ 78 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/b1rdmania/ghostclaw) · [官网](https://ghostclaw.io) · 个人维护
 
 **运行在自有电脑上的 Telegram 个人 AI agent（NanoClaw 裸机分支）**
 

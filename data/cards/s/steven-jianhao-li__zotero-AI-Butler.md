@@ -1,6 +1,6 @@
 # steven-jianhao-li/zotero-AI-Butler
 
-⭐ 1,829 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/steven-jianhao-li/zotero-AI-Butler) · [官网](https://github.com/steven-jianhao-li/zotero-AI-Butler/releases) · 个人维护 · 中文 README
+⭐ 1,829 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/steven-jianhao-li/zotero-AI-Butler) · [官网](https://github.com/steven-jianhao-li/zotero-AI-Butler/releases) · 个人维护 · 中文 README
 
 **Zotero 插件：自动精读论文并生成总结笔记**
 

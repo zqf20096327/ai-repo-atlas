@@ -1,6 +1,6 @@
 # agarwalvishal/claude-chat-exporter
 
-⭐ 730 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/agarwalvishal/claude-chat-exporter) · [官网](https://agarwalvishal.github.io/claude-chat-exporter/) · 个人维护
+⭐ 731 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/agarwalvishal/claude-chat-exporter) · [官网](https://agarwalvishal.github.io/claude-chat-exporter/) · 个人维护
 
 **浏览器端一键导出 Claude.ai 对话为 Markdown 的书签工具**
 

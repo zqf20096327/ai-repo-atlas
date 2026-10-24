@@ -1,6 +1,6 @@
 # elevenyellow/handcrafted-persona-engine
 
-⭐ 1,385 · C# · 推送 2026-05-20 · [GitHub](https://github.com/elevenyellow/handcrafted-persona-engine) · 个人维护
+⭐ 1,387 · C# · 推送 2026-05-20 · [GitHub](https://github.com/elevenyellow/handcrafted-persona-engine) · 个人维护
 
 **语音驱动的 Live2D 桌面虚拟角色引擎，面向 VTuber 与虚拟助手**
 

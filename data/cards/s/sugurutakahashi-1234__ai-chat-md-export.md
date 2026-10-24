@@ -1,6 +1,6 @@
 # sugurutakahashi-1234/ai-chat-md-export
 
-⭐ 62 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/sugurutakahashi-1234/ai-chat-md-export) · [官网](https://www.npmjs.com/package/ai-chat-md-export) · 个人维护 · 中文 README
+⭐ 62 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sugurutakahashi-1234/ai-chat-md-export) · [官网](https://www.npmjs.com/package/ai-chat-md-export) · 个人维护 · 中文 README
 
 **将 ChatGPT/Claude 聊天记录离线转为 Markdown 的 CLI 工具**
 

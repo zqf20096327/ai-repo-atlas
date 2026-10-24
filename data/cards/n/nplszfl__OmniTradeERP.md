@@ -1,6 +1,6 @@
 # nplszfl/OmniTradeERP
 
-⭐ 99 · Java · 推送 2026-09-24 · [GitHub](https://github.com/nplszfl/OmniTradeERP) · 个人维护 · 中文 README
+⭐ 100 · Java · 推送 2026-09-24 · [GitHub](https://github.com/nplszfl/OmniTradeERP) · 个人维护 · 中文 README
 
 **跨境电商 ERP：多平台订单/库存/客服管理并带 AI 定价与预测**
 

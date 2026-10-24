@@ -1,6 +1,6 @@
 # Tencent/LoopForge
 
-⭐ 61 · Go · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Tencent/LoopForge) · [官网](https://loopforge.cn) · 组织维护 · 中文 README
+⭐ 63 · Go · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Tencent/LoopForge) · [官网](https://loopforge.cn) · 组织维护 · 中文 README
 
 **自托管平台：将编码 Agent、脚本与人工审批编排为交付工作流**
 

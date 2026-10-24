@@ -1,6 +1,6 @@
 # michaelthwan/searchGPT
 
-⭐ 711 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/michaelthwan/searchGPT) · 个人维护
+⭐ 710 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/michaelthwan/searchGPT) · 个人维护
 
 **基于 LLM 的有出处搜索引擎，支持网页与文件内容搜索**
 

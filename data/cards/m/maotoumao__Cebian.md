@@ -1,6 +1,6 @@
 # maotoumao/Cebian
 
-⭐ 176 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/maotoumao/Cebian) · [官网](https://cebian.catcat.work) · 个人维护 · 中文 README
+⭐ 177 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/maotoumao/Cebian) · [官网](https://cebian.catcat.work) · 个人维护 · 中文 README
 
 **浏览器侧边栏 AI 助手扩展：自带 API Key 即装即用**
 

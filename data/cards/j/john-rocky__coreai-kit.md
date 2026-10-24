@@ -1,6 +1,6 @@
 # john-rocky/coreai-kit
 
-⭐ 120 · Swift · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/john-rocky/coreai-kit) · [官网](https://john-rocky.github.io/coreai-kit/) · 个人维护
+⭐ 120 · Swift · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/john-rocky/coreai-kit) · [官网](https://john-rocky.github.io/coreai-kit/) · 个人维护
 
 **在 iPhone/Mac 上运行 Apple Core AI 模型的 Swift SDK**
 

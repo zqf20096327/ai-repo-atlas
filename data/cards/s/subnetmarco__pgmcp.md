@@ -1,6 +1,6 @@
 # subnetmarco/pgmcp
 
-⭐ 541 · Go · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/subnetmarco/pgmcp) · 个人维护
+⭐ 540 · Go · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/subnetmarco/pgmcp) · 个人维护
 
 **用自然语言查询任意 PostgreSQL 数据库的 MCP 服务器**
 

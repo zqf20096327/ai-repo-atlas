@@ -1,6 +1,6 @@
 # BalanceBalls/nekot
 
-⭐ 198 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/BalanceBalls/nekot) · 个人维护
+⭐ 199 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/BalanceBalls/nekot) · 个人维护
 
 **终端 TUI 中与本地及云端 LLM 对话的便携客户端**
 

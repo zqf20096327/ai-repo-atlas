@@ -1,6 +1,6 @@
 # NitroRCr/AIaW
 
-⭐ 1,839 · TypeScript · BSD-3-Clause · 推送 2026-05-18 · [GitHub](https://github.com/NitroRCr/AIaW) · [官网](https://aiaw.app) · 个人维护 · 中文 README
+⭐ 1,838 · TypeScript · BSD-3-Clause · 推送 2026-05-18 · [GitHub](https://github.com/NitroRCr/AIaW) · [官网](https://aiaw.app) · 个人维护 · 中文 README
 
 **跨平台 AI 聊天客户端：多工作区、插件与本地优先同步**
 

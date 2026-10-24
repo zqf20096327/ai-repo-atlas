@@ -1,6 +1,6 @@
 # op7418/Claude-to-IM
 
-⭐ 472 · TypeScript · MIT · 推送 2026-03-23 · [GitHub](https://github.com/op7418/Claude-to-IM) · 个人维护 · 中文 README
+⭐ 471 · TypeScript · MIT · 推送 2026-03-23 · [GitHub](https://github.com/op7418/Claude-to-IM) · 个人维护 · 中文 README
 
 **把 Claude Code SDK 接入 Telegram/Discord/飞书的桥接库**
 

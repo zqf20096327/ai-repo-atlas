@@ -1,6 +1,6 @@
 # video-db/Director
 
-⭐ 1,561 · Python · MIT · 推送 2026-01-23 · [GitHub](https://github.com/video-db/Director) · [官网](https://chat.videodb.io) · 组织维护
+⭐ 1,560 · Python · MIT · 推送 2026-01-23 · [GitHub](https://github.com/video-db/Director) · [官网](https://chat.videodb.io) · 组织维护
 
 **构建视频智能体的框架：用自然语言编排搜索、剪辑、生成等视频任务**
 

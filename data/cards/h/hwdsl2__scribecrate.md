@@ -1,6 +1,6 @@
 # hwdsl2/scribecrate
 
-⭐ 116 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/hwdsl2/scribecrate) · [官网](https://scribecrate.com) · 个人维护 · 中文 README
+⭐ 117 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/hwdsl2/scribecrate) · [官网](https://scribecrate.com) · 个人维护 · 中文 README
 
 **自托管的 Whisper 语音转文字 API 服务器（OpenAI 兼容）**
 

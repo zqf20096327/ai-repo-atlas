@@ -1,6 +1,6 @@
 # review-bench/ReviewBench
 
-⭐ 74 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/review-bench/ReviewBench) · [官网](https://review-bench.ai) · 组织维护
+⭐ 73 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/review-bench/ReviewBench) · [官网](https://review-bench.ai) · 组织维护
 
 **评测 AI 代码审查系统的开放基准（219 个真实 PR 与金标发现）**
 

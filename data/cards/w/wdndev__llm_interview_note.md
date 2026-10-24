@@ -1,6 +1,6 @@
 # wdndev/llm_interview_note
 
-⭐ 15,288 · HTML · 推送 2026-06-14 · [GitHub](https://github.com/wdndev/llm_interview_note) · [官网](https://wdndev.github.io/llm_interview_note) · 个人维护 · 中文 README
+⭐ 15,292 · HTML · 推送 2026-06-14 · [GitHub](https://github.com/wdndev/llm_interview_note) · [官网](https://wdndev.github.io/llm_interview_note) · 个人维护 · 中文 README
 
 **大模型算法工程师的知识整理与面试题笔记**
 

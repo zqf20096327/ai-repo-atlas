@@ -1,6 +1,6 @@
 # webfuse-com/awesome-webmcp
 
-⭐ 175 · 推送 2026-10-09 · [GitHub](https://github.com/webfuse-com/awesome-webmcp) · [官网](https://www.reddit.com/r/WebMCP_Developers/) · 个人维护
+⭐ 174 · 推送 2026-10-09 · [GitHub](https://github.com/webfuse-com/awesome-webmcp) · [官网](https://www.reddit.com/r/WebMCP_Developers/) · 个人维护
 
 **WebMCP（W3C 浏览器标准）资源策展清单：规范、库、工具与示例**
 

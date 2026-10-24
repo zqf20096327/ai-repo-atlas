@@ -1,6 +1,6 @@
 # cltk/cltk
 
-⭐ 925 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/cltk/cltk) · [官网](http://cltk.org) · 组织维护
+⭐ 926 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/cltk/cltk) · [官网](http://cltk.org) · 组织维护
 
 **面向古典语言的 Python NLP 库（拉丁语、古希腊语等）**
 

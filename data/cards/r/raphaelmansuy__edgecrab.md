@@ -1,6 +1,6 @@
 # raphaelmansuy/edgecrab
 
-⭐ 91 · Rust · 推送 2026-07-24 · [GitHub](https://github.com/raphaelmansuy/edgecrab) · [官网](https://www.edgecrab.com) · 个人维护
+⭐ 92 · Rust · 推送 2026-07-24 · [GitHub](https://github.com/raphaelmansuy/edgecrab) · [官网](https://www.edgecrab.com) · 个人维护
 
 **Rust 编写的终端个人助理与编码 Agent**
 

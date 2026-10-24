@@ -1,6 +1,6 @@
 # mixelpixx/Konnect
 
-⭐ 1,381 · Rust · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/mixelpixx/Konnect) · 个人维护
+⭐ 1,390 · Rust · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/mixelpixx/Konnect) · 个人维护
 
 **让 Claude 等 AI 通过 MCP 直接设计 KiCAD 原理图与 PCB 的插件**
 

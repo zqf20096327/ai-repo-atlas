@@ -1,6 +1,6 @@
 # akkie76/code-review-skills
 
-⭐ 86 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/akkie76/code-review-skills) · [官网](https://gihyo.jp/book/2026/978-4-297-15768-5) · 个人维护
+⭐ 87 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/akkie76/code-review-skills) · [官网](https://gihyo.jp/book/2026/978-4-297-15768-5) · 个人维护
 
 **面向 Codex 与 Claude Code 的证据驱动代码审查 Skill**
 

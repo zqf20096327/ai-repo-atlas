@@ -1,6 +1,6 @@
 # mongodb-developer/GenAI-Showcase
 
-⭐ 4,266 · Jupyter Notebook · MIT · 推送 2026-10-13 · [GitHub](https://github.com/mongodb-developer/GenAI-Showcase) · [官网](https://www.mongodb.com/cloud/atlas/register) · 组织维护
+⭐ 4,264 · Jupyter Notebook · MIT · 推送 2026-10-13 · [GitHub](https://github.com/mongodb-developer/GenAI-Showcase) · [官网](https://www.mongodb.com/cloud/atlas/register) · 组织维护
 
 **MongoDB 官方 GenAI 示例与应用合集：RAG、AI Agents 等用例**
 

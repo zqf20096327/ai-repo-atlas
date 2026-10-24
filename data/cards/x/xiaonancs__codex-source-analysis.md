@@ -1,6 +1,6 @@
 # xiaonancs/codex-source-analysis
 
-⭐ 131 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/xiaonancs/codex-source-analysis) · 个人维护 · 中文 README
+⭐ 132 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/xiaonancs/codex-source-analysis) · 个人维护 · 中文 README
 
 **OpenAI Codex 源码深度研究文档集（30 篇 / 约 51 万字）**
 

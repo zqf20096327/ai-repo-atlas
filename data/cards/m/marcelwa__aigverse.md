@@ -1,6 +1,6 @@
 # marcelwa/aigverse
 
-⭐ 90 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/marcelwa/aigverse) · [官网](https://aigverse.readthedocs.io/) · 个人维护
+⭐ 90 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/marcelwa/aigverse) · [官网](https://aigverse.readthedocs.io/) · 个人维护
 
 **Python 逻辑综合库：AIG 构造、优化与 ML 工作流互操作**
 

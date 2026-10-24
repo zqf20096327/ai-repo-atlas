@@ -1,6 +1,6 @@
 # anthropics/claude-agent-sdk-typescript
 
-⭐ 1,830 · Shell · 推送 2026-10-22 · [GitHub](https://github.com/anthropics/claude-agent-sdk-typescript) · 组织维护
+⭐ 1,831 · Shell · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/claude-agent-sdk-typescript) · 组织维护
 
 **Anthropic 官方 TypeScript SDK：编程构建具备 Claude Code 能力的 AI agent**
 

@@ -1,6 +1,6 @@
 # shubzkothekar/antigravity-acp
 
-⭐ 83 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/shubzkothekar/antigravity-acp) · 个人维护
+⭐ 82 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/shubzkothekar/antigravity-acp) · 个人维护
 
 **让 ACP 兼容编辑器驱动 Google Antigravity `agy` CLI 的协议服务器**
 

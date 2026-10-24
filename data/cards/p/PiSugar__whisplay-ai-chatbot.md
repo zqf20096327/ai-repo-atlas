@@ -1,6 +1,6 @@
 # PiSugar/whisplay-ai-chatbot
 
-⭐ 526 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/PiSugar/whisplay-ai-chatbot) · 组织维护 · 中文 README
+⭐ 528 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/PiSugar/whisplay-ai-chatbot) · 组织维护 · 中文 README
 
 **树莓派口袋 AI 语音聊天机器人（按键说话、语音应答）**
 

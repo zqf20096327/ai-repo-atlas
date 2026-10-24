@@ -1,6 +1,6 @@
 # jakobhoeg/browser-ai
 
-⭐ 205 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/jakobhoeg/browser-ai) · [官网](https://browser-ai.dev) · 个人维护
+⭐ 204 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/jakobhoeg/browser-ai) · [官网](https://browser-ai.dev) · 个人维护
 
 **为 Vercel AI SDK 提供浏览器内 AI 模型接入的 TypeScript 库**
 

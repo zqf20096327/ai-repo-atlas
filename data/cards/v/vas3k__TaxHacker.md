@@ -1,6 +1,6 @@
 # vas3k/TaxHacker
 
-⭐ 6,757 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/vas3k/TaxHacker) · [官网](https://taxhacker.app) · 个人维护
+⭐ 6,758 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/vas3k/TaxHacker) · [官网](https://taxhacker.app) · 个人维护
 
 **自托管 AI 记账应用：自动识别收据发票并提取结构化数据**
 

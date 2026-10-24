@@ -1,6 +1,6 @@
 # SciSharp/BotSharp
 
-⭐ 3,114 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/SciSharp/BotSharp) · [官网](https://botsharp.readthedocs.io) · 组织维护 · 中文 README
+⭐ 3,115 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/SciSharp/BotSharp) · [官网](https://botsharp.readthedocs.io) · 组织维护 · 中文 README
 
 **.NET 多智能体 AI 应用开发框架，面向企业业务系统集成**
 

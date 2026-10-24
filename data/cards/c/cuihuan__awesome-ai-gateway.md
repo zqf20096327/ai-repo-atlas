@@ -1,6 +1,6 @@
 # cuihuan/awesome-ai-gateway
 
-⭐ 136 · HTML · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/cuihuan/awesome-ai-gateway) · [官网](https://cuihuan.github.io/awesome-ai-gateway/) · 个人维护 · 中文 README
+⭐ 136 · HTML · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/cuihuan/awesome-ai-gateway) · [官网](https://cuihuan.github.io/awesome-ai-gateway/) · 个人维护 · 中文 README
 
 **180+ AI 网关选型清单：决策树+手册+可复现成本基准**
 

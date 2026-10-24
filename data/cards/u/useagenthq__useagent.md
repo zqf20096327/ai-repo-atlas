@@ -1,6 +1,6 @@
 # useagenthq/useagent
 
-⭐ 380 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/useagenthq/useagent) · [官网](https://app.useagent.org) · 组织维护
+⭐ 366 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/useagenthq/useagent) · [官网](https://app.useagent.org) · 组织维护
 
 **开源 Devin 替代：在可自托管的隔离工作区运行 Claude Code 等编码代理**
 

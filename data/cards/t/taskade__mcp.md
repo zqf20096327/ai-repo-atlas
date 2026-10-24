@@ -1,6 +1,6 @@
 # taskade/mcp
 
-⭐ 169 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/taskade/mcp) · [官网](https://taskade.com/blog/mcp) · 组织维护
+⭐ 170 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/taskade/mcp) · [官网](https://taskade.com/blog/mcp) · 组织维护
 
 **Taskade 官方 MCP 服务器与 OpenAPI 转 MCP 代码生成器**
 

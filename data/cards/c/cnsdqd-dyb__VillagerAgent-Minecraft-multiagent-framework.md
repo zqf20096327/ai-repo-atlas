@@ -1,6 +1,6 @@
 # cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework
 
-⭐ 188 · Python · 推送 2026-10-07 · [GitHub](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) · [官网](https://cnsdqd-dyb.github.io/VillagerAgent.github.io/2024/04/01/VillagerAgent.html) · 组织维护 · 中文 README
+⭐ 187 · Python · 推送 2026-10-07 · [GitHub](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) · [官网](https://cnsdqd-dyb.github.io/VillagerAgent.github.io/2024/04/01/VillagerAgent.html) · 组织维护 · 中文 README
 
 **Minecraft 多智能体协作框架与基准（ACL 2024 论文）**
 

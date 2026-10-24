@@ -1,6 +1,6 @@
 # valqore/valqore
 
-⭐ 1,886 · Python · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/valqore/valqore) · [官网](https://www.valqore.io) · 组织维护
+⭐ 1,873 · Python · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/valqore/valqore) · [官网](https://www.valqore.io) · 组织维护
 
 **面向 Kubernetes 与云资源的基础设施治理引擎，输出评分与准入裁决**
 

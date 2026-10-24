@@ -1,6 +1,6 @@
 # cmusatyalab/openface
 
-⭐ 15,443 · Lua · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/cmusatyalab/openface) · [官网](http://cmusatyalab.github.io/openface/) · 组织维护
+⭐ 15,444 · Lua · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/cmusatyalab/openface) · [官网](http://cmusatyalab.github.io/openface/) · 组织维护
 
 **基于深度神经网络的开源人脸识别库（CMU）**
 

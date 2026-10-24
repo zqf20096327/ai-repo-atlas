@@ -1,6 +1,6 @@
 # FareedKhan-dev/agentic-knowledge-graph
 
-⭐ 65 · Jupyter Notebook · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/FareedKhan-dev/agentic-knowledge-graph) · 个人维护
+⭐ 66 · Jupyter Notebook · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/FareedKhan-dev/agentic-knowledge-graph) · 个人维护
 
 **基于结构化元数据的知识图谱 RAG：在 PubMedQA 上做可溯源问答研究**
 

@@ -1,6 +1,6 @@
 # Nawaf-Rayhan585/YOLO_Projects
 
-⭐ 237 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Nawaf-Rayhan585/YOLO_Projects) · 个人维护
+⭐ 239 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Nawaf-Rayhan585/YOLO_Projects) · 个人维护
 
 **19 个可运行的 YOLO 计算机视觉项目合集：检测/跟踪/姿态/OCR**
 

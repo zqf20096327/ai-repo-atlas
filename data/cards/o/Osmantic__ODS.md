@@ -1,6 +1,6 @@
 # Osmantic/ODS
 
-⭐ 7,665 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Osmantic/ODS) · [官网](https://discord.gg/qGVygYada3) · 组织维护
+⭐ 7,671 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Osmantic/ODS) · [官网](https://discord.gg/qGVygYada3) · 组织维护
 
 **一键把 PC/Mac/Linux 变成私有 AI 服务器的本地部署栈**
 

@@ -1,6 +1,6 @@
 # HeyWillow/willow
 
-⭐ 3,128 · C · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/HeyWillow/willow) · [官网](https://heywillow.org/) · 组织维护
+⭐ 3,129 · C · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/HeyWillow/willow) · [官网](https://heywillow.org/) · 组织维护
 
 **开源自托管的本地语音助手，Amazon Echo/Google Home 替代**
 

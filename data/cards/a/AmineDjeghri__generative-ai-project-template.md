@@ -1,6 +1,6 @@
 # AmineDjeghri/generative-ai-project-template
 
-⭐ 118 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AmineDjeghri/generative-ai-project-template) · [官网](http://aminedjeghri.com/generative-ai-project-template/) · 个人维护
+⭐ 118 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AmineDjeghri/generative-ai-project-template) · [官网](http://aminedjeghri.com/generative-ai-project-template/) · 个人维护
 
 **生成式 AI 项目脚手架模板：快速搭建带 LLM、RAG 与评测的工程**
 

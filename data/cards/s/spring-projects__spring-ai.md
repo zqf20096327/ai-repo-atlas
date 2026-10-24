@@ -1,6 +1,6 @@
 # spring-projects/spring-ai
 
-⭐ 9,573 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/spring-projects/spring-ai) · [官网](https://spring.io/projects/spring-ai ) · 组织维护
+⭐ 9,578 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/spring-projects/spring-ai) · [官网](https://spring.io/projects/spring-ai ) · 组织维护
 
 **面向 Java/Spring 开发者的 AI 应用开发框架**
 

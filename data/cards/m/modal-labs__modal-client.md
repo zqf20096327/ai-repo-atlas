@@ -1,6 +1,6 @@
 # modal-labs/modal-client
 
-⭐ 527 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modal-labs/modal-client) · [官网](https://modal.com/docs) · 组织维护
+⭐ 528 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/modal-labs/modal-client) · [官网](https://modal.com/docs) · 组织维护
 
 **Modal 官方 SDK 仓库：部署无服务器应用并操作 Modal 平台**
 

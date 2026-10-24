@@ -1,6 +1,6 @@
 # joshuaswarren/remnic
 
-⭐ 228 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/joshuaswarren/remnic) · [官网](https://remnic.ai) · 个人维护
+⭐ 229 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/joshuaswarren/remnic) · [官网](https://remnic.ai) · 个人维护
 
 **本地优先的 AI agent 共享记忆与上下文存储**
 

@@ -1,6 +1,6 @@
 # QData/TextAttack
 
-⭐ 3,475 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/QData/TextAttack) · [官网](https://textattack.readthedocs.io/en/master/) · 组织维护
+⭐ 3,476 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/QData/TextAttack) · [官网](https://textattack.readthedocs.io/en/master/) · 组织维护
 
 **NLP 对抗攻击、数据增强与模型训练的 Python 框架**
 

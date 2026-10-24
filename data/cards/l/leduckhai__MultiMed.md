@@ -1,6 +1,6 @@
 # leduckhai/MultiMed
 
-⭐ 380 · Python · 推送 2026-10-19 · [GitHub](https://github.com/leduckhai/MultiMed) · 个人维护
+⭐ 378 · Python · 推送 2026-10-19 · [GitHub](https://github.com/leduckhai/MultiMed) · 个人维护
 
 **医学领域多语言多任务语音处理系列论文的代码与数据集合集**
 

@@ -1,6 +1,6 @@
 # drobins25/craft
 
-⭐ 70 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/drobins25/craft) · [官网](https://darinbuilds.com/projects/craft-platform) · 个人维护
+⭐ 69 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/drobins25/craft) · [官网](https://darinbuilds.com/projects/craft-platform) · 个人维护
 
 **Claude Code 插件：受控写入门禁+品味记忆的开发工作流框架**
 

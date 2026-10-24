@@ -1,6 +1,6 @@
 # DataBassGit/AgentForge
 
-⭐ 861 · Python · GPL-3.0 · 推送 2026-08-10 · [GitHub](https://github.com/DataBassGit/AgentForge) · 组织维护
+⭐ 860 · Python · GPL-3.0 · 推送 2026-08-10 · [GitHub](https://github.com/DataBassGit/AgentForge) · 组织维护
 
 **低代码 AI Agent 与认知架构开发框架**
 

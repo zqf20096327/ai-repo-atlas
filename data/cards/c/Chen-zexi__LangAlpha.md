@@ -1,6 +1,6 @@
 # Chen-zexi/LangAlpha
 
-⭐ 250 · Jupyter Notebook · 推送 2026-10-05 · [GitHub](https://github.com/Chen-zexi/LangAlpha) · [官网](https://langalpha.ai) · 个人维护
+⭐ 249 · Jupyter Notebook · 推送 2026-10-05 · [GitHub](https://github.com/Chen-zexi/LangAlpha) · [官网](https://langalpha.ai) · 个人维护
 
 **面向美股研究的多智能体金融分析系统，生成 Markdown 研究报告**
 

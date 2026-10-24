@@ -1,6 +1,6 @@
 # pinecone-io/python-sdk
 
-⭐ 453 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pinecone-io/python-sdk) · [官网](https://pinecone-io.github.io/python-sdk/) · 组织维护
+⭐ 454 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pinecone-io/python-sdk) · [官网](https://pinecone-io.github.io/python-sdk/) · 组织维护
 
 **Pinecone 向量数据库的官方 Python SDK**
 

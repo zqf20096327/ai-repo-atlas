@@ -1,6 +1,6 @@
 # openai/whisper
 
-⭐ 111,136 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/openai/whisper) · 组织维护
+⭐ 111,190 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/openai/whisper) · 组织维护
 
 **为开发者提供多语言语音识别与翻译的开源模型**
 

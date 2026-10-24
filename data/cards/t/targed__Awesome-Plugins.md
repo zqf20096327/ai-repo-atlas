@@ -1,6 +1,6 @@
 # targed/Awesome-Plugins
 
-⭐ 153 · JSON · MIT · 推送 2026-10-23 · [GitHub](https://github.com/targed/Awesome-Plugins) · 个人维护
+⭐ 153 · JSON · MIT · 推送 2026-10-24 · [GitHub](https://github.com/targed/Awesome-Plugins) · 个人维护
 
 **ChatGPT 及 GPT 兼容模型插件清单，附插件可用性状态页**
 

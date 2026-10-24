@@ -1,6 +1,6 @@
 # modu-ai/moai-adk
 
-⭐ 1,236 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modu-ai/moai-adk) · [官网](https://adk.mo.ai.kr) · 组织维护
+⭐ 1,235 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/modu-ai/moai-adk) · [官网](https://adk.mo.ai.kr) · 组织维护
 
 **Claude Code 的验证驱动 agent 编排 harness，多会话并行开发**
 

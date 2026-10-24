@@ -1,6 +1,6 @@
 # ollama/ollama-vscode
 
-⭐ 69 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ollama/ollama-vscode) · 组织维护
+⭐ 70 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ollama/ollama-vscode) · 组织维护
 
 **把运行中的 Ollama 模型接入 VS Code Chat 的官方扩展**
 

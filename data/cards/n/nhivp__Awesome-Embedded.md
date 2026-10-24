@@ -1,6 +1,6 @@
 # nhivp/Awesome-Embedded
 
-⭐ 9,251 · Unlicense · 推送 2026-10-10 · [GitHub](https://github.com/nhivp/Awesome-Embedded) · [官网](https://nhivp.github.io/Awesome-Embedded/) · 个人维护
+⭐ 9,254 · Unlicense · 推送 2026-10-10 · [GitHub](https://github.com/nhivp/Awesome-Embedded) · [官网](https://nhivp.github.io/Awesome-Embedded/) · 个人维护
 
 **嵌入式编程资源策展清单：链接教程、RTOS、裸机开发资料**
 

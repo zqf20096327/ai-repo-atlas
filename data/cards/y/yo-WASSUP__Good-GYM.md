@@ -1,6 +1,6 @@
 # yo-WASSUP/Good-GYM
 
-⭐ 434 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/yo-WASSUP/Good-GYM) · 个人维护 · 中文 README
+⭐ 435 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/yo-WASSUP/Good-GYM) · 个人维护 · 中文 README
 
 **面向健身者的实时姿态估计与动作计数应用**
 

@@ -1,6 +1,6 @@
 # Zaki-1052/GPTPortal
 
-⭐ 397 · JavaScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/Zaki-1052/GPTPortal) · [官网](http://localhost:3000/portal) · 个人维护
+⭐ 396 · JavaScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/Zaki-1052/GPTPortal) · [官网](http://localhost:3000/portal) · 个人维护
 
 **自托管的统一 LLM 聊天门户：一个界面接入多家模型 API**
 

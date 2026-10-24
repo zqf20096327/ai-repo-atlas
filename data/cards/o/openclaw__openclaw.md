@@ -1,6 +1,6 @@
 # openclaw/openclaw
 
-⭐ 392,864 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/openclaw/openclaw) · [官网](https://openclaw.ai) · 组织维护
+⭐ 392,935 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/openclaw/openclaw) · [官网](https://openclaw.ai) · 组织维护
 
 **运行在自有设备上的开源 AI 助手，接入聊天渠道**
 

@@ -1,6 +1,6 @@
 # Seldom-SE/seldom_state
 
-⭐ 320 · Rust · Apache-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/Seldom-SE/seldom_state) · 个人维护
+⭐ 321 · Rust · Apache-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/Seldom-SE/seldom_state) · 个人维护
 
 **Bevy 引擎的组件式有限状态机插件，用于游戏实体状态管理**
 

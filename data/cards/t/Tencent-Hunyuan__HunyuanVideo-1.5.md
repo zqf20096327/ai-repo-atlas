@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanVideo-1.5
 
-⭐ 4,577 · Python · NOASSERTION · 推送 2026-04-10 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) · [官网](https://hunyuan.tencent.com/video/zh?tabIndex=0) · 组织维护 · 中文 README
+⭐ 4,578 · Python · NOASSERTION · 推送 2026-04-10 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) · [官网](https://hunyuan.tencent.com/video/zh?tabIndex=0) · 组织维护 · 中文 README
 
 **腾讯混元开源的 8.3B 参数轻量视频生成模型（文生视频/图生视频）**
 

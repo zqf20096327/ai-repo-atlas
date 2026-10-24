@@ -1,6 +1,6 @@
 # csr1010/wappy-kit
 
-⭐ 131 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/csr1010/wappy-kit) · [官网](https://github.com/csr1010/wappy-kit#readme) · 个人维护
+⭐ 140 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/csr1010/wappy-kit) · [官网](https://github.com/csr1010/wappy-kit#readme) · 个人维护
 
 **本地优先的开源 WhatsApp AI agent SDK，自带模型与号码**
 

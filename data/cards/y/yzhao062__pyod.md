@@ -1,6 +1,6 @@
 # yzhao062/pyod
 
-⭐ 10,053 · Python · BSD-2-Clause · 推送 2026-10-12 · [GitHub](https://github.com/yzhao062/pyod) · [官网](https://pyod.dev/) · 个人维护
+⭐ 10,054 · Python · BSD-2-Clause · 推送 2026-10-12 · [GitHub](https://github.com/yzhao062/pyod) · [官网](https://pyod.dev/) · 个人维护
 
 **面向开发者的多模态异常检测 Python 库，60+ 检测器统一 API**
 

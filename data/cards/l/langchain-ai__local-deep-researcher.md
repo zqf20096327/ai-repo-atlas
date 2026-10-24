@@ -1,6 +1,6 @@
 # langchain-ai/local-deep-researcher
 
-⭐ 9,386 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/langchain-ai/local-deep-researcher) · 组织维护
+⭐ 9,388 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/langchain-ai/local-deep-researcher) · 组织维护
 
 **全本地化网络深度研究助手：给定主题自动多轮搜索并生成报告**
 

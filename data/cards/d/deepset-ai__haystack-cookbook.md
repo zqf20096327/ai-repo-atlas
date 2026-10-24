@@ -1,6 +1,6 @@
 # deepset-ai/haystack-cookbook
 
-⭐ 547 · Jupyter Notebook · 推送 2026-10-08 · [GitHub](https://github.com/deepset-ai/haystack-cookbook) · [官网](https://haystack.deepset.ai/cookbook) · 组织维护
+⭐ 548 · Jupyter Notebook · 推送 2026-10-08 · [GitHub](https://github.com/deepset-ai/haystack-cookbook) · [官网](https://haystack.deepset.ai/cookbook) · 组织维护
 
 **Haystack 框架的示例 notebook 集合：演示模型接入与检索用法**
 

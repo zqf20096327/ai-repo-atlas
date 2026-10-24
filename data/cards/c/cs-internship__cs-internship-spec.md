@@ -1,6 +1,6 @@
 # cs-internship/cs-internship-spec
 
-⭐ 87 · 推送 2026-10-21 · [GitHub](https://github.com/cs-internship/cs-internship-spec) · 组织维护
+⭐ 87 · 推送 2026-10-24 · [GitHub](https://github.com/cs-internship/cs-internship-spec) · 组织维护
 
 **软件工程实习项目的章程与课程规范文档**
 

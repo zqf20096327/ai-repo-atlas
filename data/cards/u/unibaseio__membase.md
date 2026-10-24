@@ -1,6 +1,6 @@
 # unibaseio/membase
 
-⭐ 70 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/unibaseio/membase) · [官网](https://membase.ai) · 组织维护
+⭐ 80 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/unibaseio/membase) · [官网](https://membase.ai) · 组织维护
 
 **AI agent 记忆层：统一记忆供多 AI 应用读写**
 

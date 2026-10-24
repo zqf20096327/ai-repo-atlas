@@ -1,6 +1,6 @@
 # bpwhelan/GameSentenceMiner
 
-⭐ 881 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/bpwhelan/GameSentenceMiner) · [官网](https://docs.gamesentenceminer.com) · 个人维护 · 中文 README
+⭐ 885 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/bpwhelan/GameSentenceMiner) · [官网](https://docs.gamesentenceminer.com) · 个人维护 · 中文 README
 
 **游戏中自动挖句制 Anki 卡的语言沉浸工具**
 

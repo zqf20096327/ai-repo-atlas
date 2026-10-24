@@ -1,6 +1,6 @@
 # ethiack/ai4eh
 
-⭐ 298 · Python · MIT · 推送 2025-11-28 · [GitHub](https://github.com/ethiack/ai4eh) · [官网](https://ethiack.com) · 组织维护
+⭐ 297 · Python · MIT · 推送 2025-11-28 · [GitHub](https://github.com/ethiack/ai4eh) · [官网](https://ethiack.com) · 组织维护
 
 **面向学习者的 AI 应用安全（道德黑客）研讨课与实践工具集**
 

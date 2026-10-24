@@ -1,6 +1,6 @@
 # MrGray17/opentoken
 
-⭐ 166 · TypeScript · MIT · 推送 2026-05-29 · [GitHub](https://github.com/MrGray17/opentoken) · [官网](https://www.npmjs.com/package/@mrgray17/opentoken) · 个人维护
+⭐ 165 · TypeScript · MIT · 推送 2026-05-29 · [GitHub](https://github.com/MrGray17/opentoken) · [官网](https://www.npmjs.com/package/@mrgray17/opentoken) · 个人维护
 
 **AI 编程 agent 的工具输出压缩引擎，降低 LLM 输入 token 消耗**
 

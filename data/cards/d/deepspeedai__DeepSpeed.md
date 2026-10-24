@@ -1,6 +1,6 @@
 # deepspeedai/DeepSpeed
 
-⭐ 43,259 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护 · 中文 README
+⭐ 43,263 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护 · 中文 README
 
 **大规模深度学习分布式训练与推理优化库**
 

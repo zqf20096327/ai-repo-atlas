@@ -1,6 +1,6 @@
 # huggingface/ml-for-3d-course
 
-⭐ 185 · MDX · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/ml-for-3d-course) · 组织维护
+⭐ 186 · MDX · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/ml-for-3d-course) · 组织维护
 
 **Hugging Face 官方 3D 机器学习课程文件仓库**
 

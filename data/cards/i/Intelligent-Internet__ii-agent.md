@@ -1,6 +1,6 @@
 # Intelligent-Internet/ii-agent
 
-⭐ 3,390 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/Intelligent-Internet/ii-agent) · [官网](https://ii.inc/web/blog/post/ii-agent) · 组织维护
+⭐ 3,391 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/Intelligent-Internet/ii-agent) · [官网](https://ii.inc/web/blog/post/ii-agent) · 组织维护
 
 **开源 AI agent 框架：构建、部署并直接使用多模型智能体**
 

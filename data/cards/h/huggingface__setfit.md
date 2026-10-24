@@ -1,6 +1,6 @@
 # huggingface/setfit
 
-⭐ 2,851 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/setfit) · [官网](https://hf.co/docs/setfit) · 组织维护
+⭐ 2,853 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/setfit) · [官网](https://hf.co/docs/setfit) · 组织维护
 
 **Sentence Transformers 少样本微调框架，无需提示词**
 

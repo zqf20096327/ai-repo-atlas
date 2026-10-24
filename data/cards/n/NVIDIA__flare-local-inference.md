@@ -1,6 +1,6 @@
 # NVIDIA/flare-local-inference
 
-⭐ 624 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/flare-local-inference) · 组织维护
+⭐ 638 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/flare-local-inference) · 组织维护
 
 **面向 NVIDIA SM120/121 GPU 的本地推理服务器，服务编码 Agent 长会话**
 

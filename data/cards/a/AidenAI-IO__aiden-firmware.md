@@ -1,6 +1,6 @@
 # AidenAI-IO/aiden-firmware
 
-⭐ 65 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AidenAI-IO/aiden-firmware) · [官网](https://aidenai.io) · 组织维护
+⭐ 65 · Go · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/AidenAI-IO/aiden-firmware) · [官网](https://aidenai.io) · 组织维护
 
 **移动设备 AI Agent 开发板固件：HDMI 观测 + USB HID 控制手机**
 

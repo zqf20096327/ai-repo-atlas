@@ -1,6 +1,6 @@
 # opensearch-project/flow-framework
 
-⭐ 63 · Java · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/opensearch-project/flow-framework) · 组织维护
+⭐ 63 · Java · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/opensearch-project/flow-framework) · 组织维护
 
 **OpenSearch 插件：低代码构建 AI 增强的查询与摄取工作流**
 

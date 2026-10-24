@@ -1,6 +1,6 @@
 # raphaelvallat/antropy
 
-⭐ 381 · Python · BSD-3-Clause · 推送 2026-10-17 · [GitHub](https://github.com/raphaelvallat/antropy) · [官网](https://raphaelvallat.com/antropy/) · 个人维护
+⭐ 381 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/raphaelvallat/antropy) · [官网](https://raphaelvallat.com/antropy/) · 个人维护
 
 **计算时间序列熵与分形维度的 Python 特征提取库**
 

@@ -1,6 +1,6 @@
 # tomasz-tomczyk/crit
 
-⭐ 1,241 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tomasz-tomczyk/crit) · [官网](https://crit.md) · 个人维护
+⭐ 1,242 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tomasz-tomczyk/crit) · [官网](https://crit.md) · 个人维护
 
 **在浏览器中审阅 AI 编码 agent 的计划、diff 与运行中应用的工具**
 

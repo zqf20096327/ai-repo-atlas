@@ -1,6 +1,6 @@
 # southleft/figma-console-mcp
 
-⭐ 2,593 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/southleft/figma-console-mcp) · [官网](https://southleft.com) · 个人维护
+⭐ 2,594 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/southleft/figma-console-mcp) · [官网](https://southleft.com) · 个人维护
 
 **连接 AI 与 Figma 的双向设计系统 MCP 服务器**
 

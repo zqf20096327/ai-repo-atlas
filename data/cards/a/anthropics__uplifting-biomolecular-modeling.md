@@ -1,6 +1,6 @@
 # anthropics/uplifting-biomolecular-modeling
 
-⭐ 366 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/uplifting-biomolecular-modeling) · 组织维护
+⭐ 367 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/anthropics/uplifting-biomolecular-modeling) · 组织维护
 
 **36 个蛋白质/基因组学 ML 工具的推理加速套件（Anthropic）**
 

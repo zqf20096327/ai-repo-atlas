@@ -1,6 +1,6 @@
 # shep-ai/shep
 
-⭐ 267 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shep-ai/shep) · [官网](https://shep.bot) · 组织维护
+⭐ 267 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/shep-ai/shep) · [官网](https://shep.bot) · 组织维护
 
 **并行编排多个 AI 编码 agent、自动产出 PR 的开源编排器**
 

@@ -1,6 +1,6 @@
 # scikit-activeml/scikit-activeml
 
-⭐ 205 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/scikit-activeml/scikit-activeml) · [官网](https://scikit-activeml.github.io) · 组织维护
+⭐ 205 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/scikit-activeml/scikit-activeml) · [官网](https://scikit-activeml.github.io) · 组织维护
 
 **给研究者的 Python 主动学习库：用更少标注达到高性能**
 

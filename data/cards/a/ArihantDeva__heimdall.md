@@ -1,6 +1,6 @@
 # ArihantDeva/heimdall
 
-⭐ 137 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ArihantDeva/heimdall) · [官网](https://www.npmjs.com/package/@arihantdeva/heimdall) · 个人维护
+⭐ 136 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ArihantDeva/heimdall) · [官网](https://www.npmjs.com/package/@arihantdeva/heimdall) · 个人维护
 
 **给 AI 编码代理的跨仓库持久记忆与已验证检索工具**
 

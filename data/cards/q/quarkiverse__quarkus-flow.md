@@ -1,6 +1,6 @@
 # quarkiverse/quarkus-flow
 
-⭐ 121 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/quarkiverse/quarkus-flow) · [官网](https://docs.quarkiverse.io/quarkus-flow/dev) · 组织维护
+⭐ 122 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/quarkiverse/quarkus-flow) · [官网](https://docs.quarkiverse.io/quarkus-flow/dev) · 组织维护
 
 **面向 Quarkus 的 Agentic AI 工作流运行时引擎**
 

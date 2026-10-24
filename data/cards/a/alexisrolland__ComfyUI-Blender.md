@@ -1,6 +1,6 @@
 # alexisrolland/ComfyUI-Blender
 
-⭐ 212 · Python · GPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/alexisrolland/ComfyUI-Blender) · 个人维护
+⭐ 213 · Python · GPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/alexisrolland/ComfyUI-Blender) · 个人维护
 
 **Blender 插件+ComfyUI 自定义节点：在 Blender 内运行 ComfyUI 工作流**
 

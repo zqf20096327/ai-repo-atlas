@@ -1,6 +1,6 @@
 # microsoft/iq-series
 
-⭐ 394 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/iq-series) · [官网](https://aka.ms/iq-series) · 组织维护
+⭐ 397 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/iq-series) · [官网](https://aka.ms/iq-series) · 组织维护
 
 **Microsoft IQ 企业智能层的学习教程系列：视频+Notebook 实操**
 

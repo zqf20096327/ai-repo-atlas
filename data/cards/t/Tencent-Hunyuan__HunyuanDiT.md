@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanDiT
 
-⭐ 4,289 · Jupyter Notebook · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanDiT) · [官网](https://dit.hunyuan.tencent.com/) · 组织维护 · 中文 README
+⭐ 4,290 · Jupyter Notebook · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanDiT) · [官网](https://dit.hunyuan.tencent.com/) · 组织维护 · 中文 README
 
 **腾讯开源的中英双语文生图扩散 Transformer 模型及训练推理代码**
 

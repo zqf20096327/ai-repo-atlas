@@ -1,6 +1,6 @@
 # bytebase/dbhub
 
-⭐ 3,715 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bytebase/dbhub) · [官网](https://dbhub.ai) · 组织维护
+⭐ 3,716 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bytebase/dbhub) · [官网](https://dbhub.ai) · 组织维护
 
 **连接多种数据库的轻量 MCP 服务器，供 MCP 客户端使用**
 

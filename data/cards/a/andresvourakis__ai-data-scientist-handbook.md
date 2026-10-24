@@ -1,6 +1,6 @@
 # andresvourakis/ai-data-scientist-handbook
 
-⭐ 133 · 推送 2025-12-16 · [GitHub](https://github.com/andresvourakis/ai-data-scientist-handbook) · [官网](https://www.linkedin.com/in/andresvourakis) · 个人维护
+⭐ 134 · 推送 2025-12-16 · [GitHub](https://github.com/andresvourakis/ai-data-scientist-handbook) · [官网](https://www.linkedin.com/in/andresvourakis) · 个人维护
 
 **面向数据科学家的 AI 工具与资源策展手册**
 

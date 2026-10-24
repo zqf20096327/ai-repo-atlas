@@ -1,6 +1,6 @@
 # codersauce/red
 
-⭐ 237 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/codersauce/red) · [官网](https://rededitor.app) · 个人维护
+⭐ 238 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/codersauce/red) · [官网](https://rededitor.app) · 个人维护
 
 **Rust 编写的 Vim 风格终端编辑器，可接入 Codex 编码代理**
 

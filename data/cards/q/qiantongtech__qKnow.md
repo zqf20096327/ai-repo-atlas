@@ -1,6 +1,6 @@
 # qiantongtech/qKnow
 
-⭐ 286 · Java · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/qiantongtech/qKnow) · [官网](https://community.qknow.ai/) · 组织维护 · 中文 README
+⭐ 287 · Java · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/qiantongtech/qKnow) · [官网](https://community.qknow.ai/) · 组织维护 · 中文 README
 
 **企业知识智能与行业 AI 应用构建平台**
 

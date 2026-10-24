@@ -1,6 +1,6 @@
 # lightly-ai/lightly-train
 
-⭐ 1,717 · Python · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/lightly-ai/lightly-train) · [官网](https://docs.lightly.ai/train) · 组织维护
+⭐ 1,716 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/lightly-ai/lightly-train) · [官网](https://docs.lightly.ai/train) · 组织维护
 
 **面向视觉模型的预训练、微调与蒸馏一体化训练框架**
 

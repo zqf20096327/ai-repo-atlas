@@ -1,6 +1,6 @@
 # murataslan1/cursor-ai-tips
 
-⭐ 244 · 推送 2026-03-12 · [GitHub](https://github.com/murataslan1/cursor-ai-tips) · 个人维护
+⭐ 245 · 推送 2026-03-12 · [GitHub](https://github.com/murataslan1/cursor-ai-tips) · 个人维护
 
 **Cursor AI IDE 使用技巧与最佳实践清单（英文维护）**
 

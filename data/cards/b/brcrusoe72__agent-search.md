@@ -1,6 +1,6 @@
 # brcrusoe72/agent-search
 
-⭐ 87 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/brcrusoe72/agent-search) · [官网](https://pypi.org/project/agentsearch-client/) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/brcrusoe72/agent-search) · [官网](https://pypi.org/project/agentsearch-client/) · 个人维护
 
 **面向 AI agent 的自托管搜索 API，捆绑 SearXNG，无需第三方 API key**
 

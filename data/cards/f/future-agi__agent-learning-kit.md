@@ -1,6 +1,6 @@
 # future-agi/agent-learning-kit
 
-⭐ 127 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/future-agi/agent-learning-kit) · [官网](https://futureagi.com) · 组织维护
+⭐ 128 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/future-agi/agent-learning-kit) · [官网](https://futureagi.com) · 组织维护
 
 **AI agent 本地优先的测试/仿真/红队/优化 SDK 与 CLI**
 

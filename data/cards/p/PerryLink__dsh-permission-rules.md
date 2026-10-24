@@ -1,6 +1,6 @@
 # PerryLink/dsh-permission-rules
 
-⭐ 121 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/PerryLink/dsh-permission-rules) · [官网](https://perrylink.github.io/plugins/dsh-permission-rules/) · 个人维护 · 中文 README
+⭐ 125 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/PerryLink/dsh-permission-rules) · [官网](https://perrylink.github.io/plugins/dsh-permission-rules/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的声明式权限规则插件：工具调用前 allow/deny/ask 把关**
 

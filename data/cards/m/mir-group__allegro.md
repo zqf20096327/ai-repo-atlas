@@ -1,6 +1,6 @@
 # mir-group/allegro
 
-⭐ 505 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/mir-group/allegro) · [官网](https://nequip.readthedocs.io/projects/allegro) · 组织维护
+⭐ 506 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/mir-group/allegro) · [官网](https://nequip.readthedocs.io/projects/allegro) · 组织维护
 
 **面向计算化学的 E(3) 等变机器学习原子间势模型包**
 

@@ -1,6 +1,6 @@
 # shaxiu/XianyuAutoAgent
 
-⭐ 9,481 · Python · GPL-3.0 · 推送 2026-06-10 · [GitHub](https://github.com/shaxiu/XianyuAutoAgent) · 个人维护 · 中文 README
+⭐ 9,491 · Python · GPL-3.0 · 推送 2026-06-10 · [GitHub](https://github.com/shaxiu/XianyuAutoAgent) · 个人维护 · 中文 README
 
 **面向闲鱼卖家的 LLM 自动客服值守机器人**
 

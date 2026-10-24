@@ -1,6 +1,6 @@
 # neuml/rag
 
-⭐ 465 · Python · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/neuml/rag) · 个人维护
+⭐ 466 · Python · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/neuml/rag) · 个人维护
 
 **基于 txtai 的 RAG 问答应用：向量与图检索生成回答**
 

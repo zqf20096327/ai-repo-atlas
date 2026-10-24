@@ -1,6 +1,6 @@
 # zjhellofss/KuiperLLama
 
-⭐ 581 · C++ · 推送 2025-10-28 · [GitHub](https://github.com/zjhellofss/KuiperLLama) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **C++/CUDA 自制大模型推理框架教学项目，支持 Llama/Qwen**
 

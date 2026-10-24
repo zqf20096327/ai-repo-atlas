@@ -1,6 +1,6 @@
 # The-AI-Alliance/semiont
 
-⭐ 93 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/The-AI-Alliance/semiont) · [官网](https://the-ai-alliance.github.io/semiont/) · 组织维护
+⭐ 93 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/The-AI-Alliance/semiont) · [官网](https://the-ai-alliance.github.io/semiont/) · 组织维护
 
 **人类与 AI 共用的语义知识库平台：标注、连接与治理领域知识**
 

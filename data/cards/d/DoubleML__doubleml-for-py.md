@@ -1,6 +1,6 @@
 # DoubleML/doubleml-for-py
 
-⭐ 794 · Python · BSD-3-Clause · 推送 2026-09-23 · [GitHub](https://github.com/DoubleML/doubleml-for-py) · [官网](https://docs.doubleml.org) · 组织维护
+⭐ 795 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/DoubleML/doubleml-for-py) · [官网](https://docs.doubleml.org) · 组织维护
 
 **Python 双重/去偏机器学习因果推断库：估计处理效应并做统计推断**
 

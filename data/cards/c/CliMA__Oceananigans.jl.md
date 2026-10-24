@@ -1,6 +1,6 @@
 # CliMA/Oceananigans.jl
 
-⭐ 1,442 · Julia · MIT · 推送 2026-10-23 · [GitHub](https://github.com/CliMA/Oceananigans.jl) · [官网](https://clima.github.io/OceananigansDocumentation/stable) · 组织维护
+⭐ 1,442 · Julia · MIT · 推送 2026-10-24 · [GitHub](https://github.com/CliMA/Oceananigans.jl) · [官网](https://clima.github.io/OceananigansDocumentation/stable) · 组织维护
 
 **Julia 写的海洋流体动力学有限体积模拟库（CPU/GPU）**
 

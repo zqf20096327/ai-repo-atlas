@@ -1,6 +1,6 @@
 # open-compass/GTA
 
-⭐ 153 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/open-compass/GTA) · 组织维护 · 中文 README
+⭐ 153 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/open-compass/GTA) · 组织维护 · 中文 README
 
 **通用工具型 Agent 的分层评测基准与评测套件**
 

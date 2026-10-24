@@ -1,6 +1,6 @@
 # TalEliyahu/Awesome-AI-Security
 
-⭐ 882 · MIT · 推送 2026-07-18 · [GitHub](https://github.com/TalEliyahu/Awesome-AI-Security) · [官网](https://www.awesomeaisecurity.com/) · 组织维护
+⭐ 883 · MIT · 推送 2026-07-18 · [GitHub](https://github.com/TalEliyahu/Awesome-AI-Security) · [官网](https://www.awesomeaisecurity.com/) · 组织维护
 
 **AI 安全资源策展清单：框架、指南与工具的聚合目录**
 

@@ -1,6 +1,6 @@
 # magnitudedev/browser-agent
 
-⭐ 4,134 · TypeScript · Apache-2.0 · 推送 2026-02-08 · [GitHub](https://github.com/magnitudedev/browser-agent) · [官网](https://magnitude.run) · 组织维护
+⭐ 4,135 · TypeScript · Apache-2.0 · 推送 2026-02-08 · [GitHub](https://github.com/magnitudedev/browser-agent) · [官网](https://magnitude.run) · 组织维护
 
 **视觉优先的开源浏览器自动化 agent 框架**
 

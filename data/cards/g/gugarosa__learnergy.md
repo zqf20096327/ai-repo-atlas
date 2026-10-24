@@ -1,6 +1,6 @@
 # gugarosa/learnergy
 
-⭐ 74 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/gugarosa/learnergy) · [官网](https://learnergy.readthedocs.io) · 个人维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/gugarosa/learnergy) · [官网](https://learnergy.readthedocs.io) · 个人维护
 
 **基于 PyTorch 的 RBM/DBN 能量基模型 Python 库**
 

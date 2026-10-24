@@ -1,6 +1,6 @@
 # lss233/kirara-ai
 
-⭐ 19,157 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/lss233/kirara-ai) · [官网](https://kirara-docs.app.lss233.com/) · 个人维护 · 中文 README
+⭐ 19,170 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/lss233/kirara-ai) · [官网](https://kirara-docs.app.lss233.com/) · 个人维护 · 中文 README
 
 **接入多平台多模型的可 DIY 聊天机器人**
 

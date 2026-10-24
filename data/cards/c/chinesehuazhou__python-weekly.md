@@ -1,6 +1,6 @@
 # chinesehuazhou/python-weekly
 
-⭐ 1,902 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/chinesehuazhou/python-weekly) · [官网](https://weekly.pythoncat.top) · 组织维护 · 中文 README
+⭐ 1,903 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/chinesehuazhou/python-weekly) · [官网](https://weekly.pythoncat.top) · 组织维护 · 中文 README
 
 **Python 生态中英文内容策展周刊（付费订阅制）**
 

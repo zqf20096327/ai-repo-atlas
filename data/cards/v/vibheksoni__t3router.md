@@ -1,6 +1,6 @@
 # vibheksoni/t3router
 
-⭐ 75 · Rust · MIT · 推送 2026-07-25 · [GitHub](https://github.com/vibheksoni/t3router) · 个人维护
+⭐ 76 · Rust · MIT · 推送 2026-07-25 · [GitHub](https://github.com/vibheksoni/t3router) · 个人维护
 
 **在终端调用 t3.chat 上 51+ 模型的 Rust 客户端库**
 

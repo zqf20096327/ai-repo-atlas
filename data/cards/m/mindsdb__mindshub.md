@@ -1,6 +1,6 @@
 # mindsdb/mindshub
 
-⭐ 39,810 · Makefile · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mindsdb/mindshub) · [官网](https://mindshub.ai) · 组织维护 · 中文 README
+⭐ 39,811 · Makefile · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mindsdb/mindshub) · [官网](https://mindshub.ai) · 组织维护 · 中文 README
 
 **面向知识工作者的开源 Agent 工作台：可自选模型完成研究与开发任务**
 

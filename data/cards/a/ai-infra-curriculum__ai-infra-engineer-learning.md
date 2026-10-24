@@ -1,6 +1,6 @@
 # ai-infra-curriculum/ai-infra-engineer-learning
 
-⭐ 1,810 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) · 组织维护
+⭐ 1,812 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) · 组织维护
 
 **面向工程师的 AI 基础设施生产级学习路径（10 模块+3 项目）**
 

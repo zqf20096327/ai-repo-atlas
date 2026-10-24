@@ -1,6 +1,6 @@
 # 2430816465/campus-knowledge-agent
 
-⭐ 83 · Python · 推送 2026-10-14 · [GitHub](https://github.com/2430816465/campus-knowledge-agent) · [官网](https://zlyb.cloud) · 个人维护 · 中文 README
+⭐ 86 · Python · 推送 2026-10-14 · [GitHub](https://github.com/2430816465/campus-knowledge-agent) · [官网](https://zlyb.cloud) · 个人维护 · 中文 README
 
 **校园通知与办事资料的 RAG 问答平台，含证据溯源与人工审核**
 

@@ -1,6 +1,6 @@
 # OleksandrChekhovskyi/hax
 
-⭐ 934 · C · MIT · 推送 2026-10-21 · [GitHub](https://github.com/OleksandrChekhovskyi/hax) · [官网](https://usehax.dev) · 个人维护
+⭐ 936 · C · MIT · 推送 2026-10-24 · [GitHub](https://github.com/OleksandrChekhovskyi/hax) · [官网](https://usehax.dev) · 个人维护
 
 **C 编写的极简终端编码 agent，支持本地与云端模型**
 

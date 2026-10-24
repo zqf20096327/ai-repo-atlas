@@ -1,6 +1,6 @@
 # openai/openai-go
 
-⭐ 3,504 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-go) · 组织维护
+⭐ 3,505 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-go) · 组织维护
 
 **OpenAI API 的官方 Go 客户端库，供 Go 应用调用模型**
 

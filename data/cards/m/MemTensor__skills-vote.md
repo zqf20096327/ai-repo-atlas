@@ -1,6 +1,6 @@
 # MemTensor/skills-vote
 
-⭐ 305 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/MemTensor/skills-vote) · [官网](https://skills.vote) · 组织维护 · 中文 README
+⭐ 306 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/MemTensor/skills-vote) · [官网](https://skills.vote) · 组织维护 · 中文 README
 
 **Agent 技能全生命周期治理系统：采集、推荐到进化**
 

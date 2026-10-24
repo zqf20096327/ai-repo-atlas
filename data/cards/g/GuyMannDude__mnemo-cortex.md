@@ -1,6 +1,6 @@
 # GuyMannDude/mnemo-cortex
 
-⭐ 159 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/GuyMannDude/mnemo-cortex) · [官网](https://projectsparks.ai) · 个人维护
+⭐ 159 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/GuyMannDude/mnemo-cortex) · [官网](https://projectsparks.ai) · 个人维护
 
 **给 AI agent 的本地持久记忆 MCP 服务器：语义检索与跨 agent 共享**
 

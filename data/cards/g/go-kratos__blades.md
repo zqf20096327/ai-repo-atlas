@@ -1,6 +1,6 @@
 # go-kratos/blades
 
-⭐ 818 · Go · MIT · 推送 2026-08-14 · [GitHub](https://github.com/go-kratos/blades) · [官网](https://go-kratos.dev/blades/) · 组织维护 · 中文 README
+⭐ 819 · Go · MIT · 推送 2026-08-14 · [GitHub](https://github.com/go-kratos/blades) · [官网](https://go-kratos.dev/blades/) · 组织维护 · 中文 README
 
 **Go 语言多模态 AI Agent 框架：构建可组合的智能体**
 

@@ -1,6 +1,6 @@
 # sagents-ai/sagents
 
-⭐ 278 · Elixir · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/sagents-ai/sagents) · 组织维护
+⭐ 278 · Elixir · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/sagents-ai/sagents) · 组织维护
 
 **面向 Elixir 开发者的交互式 AI Agent 编排框架**
 

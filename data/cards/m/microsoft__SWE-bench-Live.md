@@ -1,6 +1,6 @@
 # microsoft/SWE-bench-Live
 
-⭐ 258 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/microsoft/SWE-bench-Live) · [官网](https://swe-bench-live.github.io/) · 组织维护
+⭐ 259 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/microsoft/SWE-bench-Live) · [官网](https://swe-bench-live.github.io/) · 组织维护
 
 **自动更新的多语言 SWE 基准数据集与评测脚本**
 

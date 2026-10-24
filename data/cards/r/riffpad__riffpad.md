@@ -1,6 +1,6 @@
 # riffpad/riffpad
 
-⭐ 126 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/riffpad/riffpad) · [官网](https://riffpad.ai) · 组织维护 · 中文 README
+⭐ 117 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/riffpad/riffpad) · [官网](https://riffpad.ai) · 组织维护 · 中文 README
 
 **从手机远程监控与批准 AI 编程 CLI 会话的工具**
 

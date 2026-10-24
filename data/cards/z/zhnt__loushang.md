@@ -1,6 +1,6 @@
 # zhnt/loushang
 
-⭐ 1,849 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/zhnt/loushang) · 个人维护 · 中文 README
+⭐ 1,859 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/zhnt/loushang) · 个人维护 · 中文 README
 
 **Python 编写的 AI-native 编码工作流 agent harness（CLI 终端工作台）**
 

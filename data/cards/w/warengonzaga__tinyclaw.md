@@ -1,6 +1,6 @@
 # warengonzaga/tinyclaw
 
-⭐ 297 · TypeScript · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/warengonzaga/tinyclaw) · [官网](https://tinyclaw.ai) · 个人维护
+⭐ 298 · TypeScript · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/warengonzaga/tinyclaw) · [官网](https://tinyclaw.ai) · 个人维护
 
 **个人自主 AI 伴侣框架，微小核心+插件架构**
 

@@ -1,6 +1,6 @@
 # jameslemon2002/research-idea-explorer
 
-⭐ 136 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/jameslemon2002/research-idea-explorer) · 个人维护 · 中文 README
+⭐ 137 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/jameslemon2002/research-idea-explorer) · 个人维护 · 中文 README
 
 **文献驱动的研究选题探索工具：供 Codex CLI / Claude Code 生成研究 idea**
 

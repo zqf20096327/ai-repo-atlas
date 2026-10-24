@@ -1,6 +1,6 @@
 # jeffstric/ZJT
 
-⭐ 236 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/jeffstric/ZJT) · [官网](http://ailive.perseids.cn) · 个人维护 · 中文 README
+⭐ 238 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/jeffstric/ZJT) · [官网](http://ailive.perseids.cn) · 个人维护 · 中文 README
 
 **面向零基础创作者的 AI 短剧一站式制作平台**
 

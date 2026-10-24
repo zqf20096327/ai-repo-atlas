@@ -1,6 +1,6 @@
 # yuna0x0/hackmd-mcp
 
-⭐ 68 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/yuna0x0/hackmd-mcp) · [官网](https://www.npmjs.com/package/hackmd-mcp) · 个人维护
+⭐ 67 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/yuna0x0/hackmd-mcp) · [官网](https://www.npmjs.com/package/hackmd-mcp) · 个人维护
 
 **连接 HackMD 笔记平台的 MCP 服务器，供 LLM 客户端操作笔记**
 

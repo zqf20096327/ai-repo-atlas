@@ -1,6 +1,6 @@
 # assaio/assaio
 
-⭐ 59 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/assaio/assaio) · [官网](https://assaio.dev) · 组织维护
+⭐ 58 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/assaio/assaio) · [官网](https://assaio.dev) · 组织维护
 
 **离线 CLI：分析 AI 编码工具使用情况与成本估算**
 

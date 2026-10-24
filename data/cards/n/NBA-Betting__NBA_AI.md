@@ -1,6 +1,6 @@
 # NBA-Betting/NBA_AI
 
-⭐ 125 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/NBA-Betting/NBA_AI) · [官网](https://nba-ai.us) · 个人维护
+⭐ 126 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/NBA-Betting/NBA_AI) · [官网](https://nba-ai.us) · 个人维护
 
 **用深度学习与传统 ML 预测 NBA 比赛让分与胜负的系统**
 

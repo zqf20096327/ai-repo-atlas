@@ -1,6 +1,6 @@
 # understudy-ai/understudy
 
-⭐ 463 · TypeScript · MIT · 推送 2026-06-19 · [GitHub](https://github.com/understudy-ai/understudy) · [官网](https://understudy-ai.github.io/understudy/) · 组织维护 · 中文 README
+⭐ 464 · TypeScript · MIT · 推送 2026-06-19 · [GitHub](https://github.com/understudy-ai/understudy) · [官网](https://understudy-ai.github.io/understudy/) · 组织维护 · 中文 README
 
 **开源本地 AI agent：一条指令操控整台电脑，可教学复用**
 

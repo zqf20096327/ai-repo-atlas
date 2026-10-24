@@ -1,6 +1,6 @@
 # CursorTouch/Windows-MCP
 
-⭐ 10,132 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/CursorTouch/Windows-MCP) · 组织维护
+⭐ 10,225 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/CursorTouch/Windows-MCP) · 组织维护
 
 **让 AI agent 通过 MCP 操控 Windows 桌面的 MCP 服务器**
 

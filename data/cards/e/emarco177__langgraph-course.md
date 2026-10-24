@@ -1,6 +1,6 @@
 # emarco177/langgraph-course
 
-⭐ 741 · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/emarco177/langgraph-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
+⭐ 743 · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/emarco177/langgraph-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
 
 **LangGraph 实操课程仓库：分分支分提交学习 LLM agent 开发**
 

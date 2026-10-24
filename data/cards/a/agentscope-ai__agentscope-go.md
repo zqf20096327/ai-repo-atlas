@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope-go
 
-⭐ 65 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/agentscope-ai/agentscope-go) · 组织维护 · 中文 README
+⭐ 66 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/agentscope-ai/agentscope-go) · 组织维护 · 中文 README
 
 **Go 语言多智能体应用构建框架，面向 LLM agent 开发**
 

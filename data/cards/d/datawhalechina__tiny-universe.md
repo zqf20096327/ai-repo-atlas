@@ -1,6 +1,6 @@
 # datawhalechina/tiny-universe
 
-⭐ 5,120 · Jupyter Notebook · 推送 2026-02-12 · [GitHub](https://github.com/datawhalechina/tiny-universe) · 组织维护 · 中文 README
+⭐ 5,121 · Jupyter Notebook · 推送 2026-02-12 · [GitHub](https://github.com/datawhalechina/tiny-universe) · 组织维护 · 中文 README
 
 **手搓大模型全链路教程：从零实现 LLM/RAG/Agent/评估**
 

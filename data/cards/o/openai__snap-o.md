@@ -1,6 +1,6 @@
 # openai/snap-o
 
-⭐ 117 · Swift · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openai/snap-o) · [官网](https://openai.github.io/snap-o/) · 组织维护
+⭐ 117 · Swift · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/openai/snap-o) · [官网](https://openai.github.io/snap-o/) · 组织维护
 
 **macOS 上的 Android 应用检查与调试工具（截屏/抓包/改值）**
 

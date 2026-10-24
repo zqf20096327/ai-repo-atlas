@@ -1,6 +1,6 @@
 # mljs/matrix
 
-⭐ 400 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mljs/matrix) · [官网](https://mljs.github.io/matrix/) · 组织维护
+⭐ 401 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mljs/matrix) · [官网](https://mljs.github.io/matrix/) · 组织维护
 
 **面向 JavaScript/Node.js 的矩阵运算与线性代数库**
 

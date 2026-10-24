@@ -1,6 +1,6 @@
 # metorial/metorial-platform
 
-⭐ 221 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/metorial/metorial-platform) · [官网](https://metorial.com/) · 组织维护
+⭐ 221 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/metorial/metorial-platform) · [官网](https://metorial.com/) · 组织维护
 
 **面向开发者的开源 MCP 集成平台，一次函数调用接入数千工具**
 

@@ -1,6 +1,6 @@
 # mflux-community/mflux
 
-⭐ 2,533 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mflux-community/mflux) · 组织维护
+⭐ 2,535 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mflux-community/mflux) · 组织维护
 
 **Mac 本地 MLX 原生运行多种文生图/图生图模型**
 

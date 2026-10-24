@@ -1,6 +1,6 @@
 # VictoriaMetrics/mcp-victoriametrics
 
-⭐ 239 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/VictoriaMetrics/mcp-victoriametrics) · [官网](https://victoriametrics.com/) · 组织维护
+⭐ 240 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/VictoriaMetrics/mcp-victoriametrics) · [官网](https://victoriametrics.com/) · 组织维护
 
 **VictoriaMetrics 官方 MCP 服务器：让 AI 客户端查询监控数据**
 

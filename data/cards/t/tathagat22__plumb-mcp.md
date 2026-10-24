@@ -1,6 +1,6 @@
 # tathagat22/plumb-mcp
 
-⭐ 83 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/tathagat22/plumb-mcp) · [官网](https://tathagat22.github.io/plumb-mcp/) · 个人维护
+⭐ 81 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/tathagat22/plumb-mcp) · [官网](https://tathagat22.github.io/plumb-mcp/) · 个人维护
 
 **面向编码代理的 Figma/网页→代码 MCP 服务器，含验证回路**
 

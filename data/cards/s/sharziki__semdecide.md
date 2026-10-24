@@ -1,6 +1,6 @@
 # sharziki/semdecide
 
-⭐ 82 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/sharziki/semdecide) · 个人维护
+⭐ 81 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/sharziki/semdecide) · 个人维护
 
 **Unix 管道用的语义判定 CLI：文本进、谓词/路由/评分/过滤出**
 

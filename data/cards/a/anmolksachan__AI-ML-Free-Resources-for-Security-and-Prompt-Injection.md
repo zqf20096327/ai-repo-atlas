@@ -1,6 +1,6 @@
 # anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection
 
-⭐ 816 · 推送 2026-10-22 · [GitHub](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection) · [官网](https://anmolksachan.github.io/LLMPenTestHub/ai-ml-roadmap-for-pentester.html) · 个人维护
+⭐ 815 · 推送 2026-10-22 · [GitHub](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection) · [官网](https://anmolksachan.github.io/LLMPenTestHub/ai-ml-roadmap-for-pentester.html) · 个人维护
 
 **AI/ML 安全与渗透测试学习路线图与资源清单**
 

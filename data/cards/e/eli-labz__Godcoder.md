@@ -1,6 +1,6 @@
 # eli-labz/Godcoder
 
-⭐ 178 · Rust · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/eli-labz/Godcoder) · 个人维护
+⭐ 177 · Rust · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/eli-labz/Godcoder) · 个人维护
 
 **本地优先的开源桌面 AI 编程 Agent，自带密钥**
 

@@ -1,6 +1,6 @@
 # metarank/metarank
 
-⭐ 2,454 · Scala · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/metarank/metarank) · [官网](https://metarank.ai) · 组织维护
+⭐ 2,455 · Scala · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/metarank/metarank) · [官网](https://metarank.ai) · 组织维护
 
 **开源实时个性化排序服务：为搜索与推荐做 Learning-to-Rank 重排**
 

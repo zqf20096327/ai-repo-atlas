@@ -1,6 +1,6 @@
 # LingyiChen-AI/JadeAI
 
-⭐ 1,999 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/LingyiChen-AI/JadeAI) · [官网](https://jadeai.cturing.cn/en) · 个人维护 · 中文 README
+⭐ 1,998 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/LingyiChen-AI/JadeAI) · [官网](https://jadeai.cturing.cn/en) · 个人维护 · 中文 README
 
 **面向求职者的 AI 简历构建器：AI 生成/优化/JD 匹配/模拟面试**
 

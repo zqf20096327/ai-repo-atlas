@@ -1,6 +1,6 @@
 # vladmandic/sdnext
 
-⭐ 7,359 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vladmandic/sdnext) · [官网](https://vladmandic.github.io/sdnext/) · 个人维护
+⭐ 7,359 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vladmandic/sdnext) · [官网](https://vladmandic.github.io/sdnext/) · 个人维护
 
 **面向用户的扩散模型图像/视频生成与编辑 WebUI**
 

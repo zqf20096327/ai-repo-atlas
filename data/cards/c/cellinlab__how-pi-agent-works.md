@@ -1,6 +1,6 @@
 # cellinlab/how-pi-agent-works
 
-⭐ 971 · MIT · 推送 2026-05-26 · [GitHub](https://github.com/cellinlab/how-pi-agent-works) · [官网](https://how-pi-agent-works.vercel.app) · 个人维护 · 中文 README
+⭐ 972 · MIT · 推送 2026-05-26 · [GitHub](https://github.com/cellinlab/how-pi-agent-works) · [官网](https://how-pi-agent-works.vercel.app) · 个人维护 · 中文 README
 
 **从零实现 AI Agent 的中文 VitePress 教程项目**
 

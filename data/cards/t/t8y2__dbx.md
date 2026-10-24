@@ -1,6 +1,6 @@
 # t8y2/dbx
 
-⭐ 27,642 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/t8y2/dbx) · [官网](https://dbxio.com) · 组织维护 · 中文 README
+⭐ 27,670 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/t8y2/dbx) · [官网](https://dbxio.com) · 组织维护 · 中文 README
 
 **给开发者的 25MB 跨平台数据库管理客户端，支持 100+ 数据库**
 

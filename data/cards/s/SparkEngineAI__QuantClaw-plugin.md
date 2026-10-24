@@ -1,6 +1,6 @@
 # SparkEngineAI/QuantClaw-plugin
 
-⭐ 116 · TypeScript · MIT · 推送 2026-04-27 · [GitHub](https://github.com/SparkEngineAI/QuantClaw-plugin) · [官网](https://sparkengineai.github.io/QuantClaw/) · 组织维护 · 中文 README
+⭐ 115 · TypeScript · MIT · 推送 2026-04-27 · [GitHub](https://github.com/SparkEngineAI/QuantClaw-plugin) · [官网](https://sparkengineai.github.io/QuantClaw/) · 组织维护 · 中文 README
 
 **OpenClaw 的任务类型路由量化插件：按请求分级调度精度**
 

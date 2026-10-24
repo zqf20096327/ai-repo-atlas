@@ -1,6 +1,6 @@
 # advai-x/helix-work
 
-⭐ 133 · 推送 2026-09-30 · [GitHub](https://github.com/advai-x/helix-work) · [官网](https://helixwork.net) · 组织维护 · 中文 README
+⭐ 136 · 推送 2026-09-30 · [GitHub](https://github.com/advai-x/helix-work) · [官网](https://helixwork.net) · 组织维护 · 中文 README
 
 **macOS 通用 AI 工作台：多模型驱动任务执行与产物审阅**
 

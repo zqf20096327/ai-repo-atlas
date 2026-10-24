@@ -1,6 +1,6 @@
 # bloodworks-io/phlox
 
-⭐ 109 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bloodworks-io/phlox) · [官网](https://phlox.bloodworks.io) · 组织维护
+⭐ 109 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/bloodworks-io/phlox) · [官网](https://phlox.bloodworks.io) · 组织维护
 
 **面向临床医生的本地优先 AI 医疗速记与患者管理系统**
 

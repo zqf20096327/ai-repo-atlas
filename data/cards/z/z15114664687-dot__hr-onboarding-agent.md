@@ -1,6 +1,6 @@
 # z15114664687-dot/hr-onboarding-agent
 
-⭐ 101 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/z15114664687-dot/hr-onboarding-agent) · 个人维护 · 中文 README
+⭐ 101 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/z15114664687-dot/hr-onboarding-agent) · 个人维护 · 中文 README
 
 **Feishu/Lark 人力入职管理应用：AI 辅助文档提取与人工审核**
 

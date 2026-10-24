@@ -1,6 +1,6 @@
 # Psyyke/A.C.A.S
 
-⭐ 181 · JavaScript · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Psyyke/A.C.A.S) · [官网](https://psyyke.github.io) · 个人维护
+⭐ 181 · JavaScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Psyyke/A.C.A.S) · [官网](https://psyyke.github.io) · 个人维护
 
 **浏览器国际象棋辅助系统：多引擎实时给出走子建议**
 

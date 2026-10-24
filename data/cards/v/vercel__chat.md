@@ -1,6 +1,6 @@
 # vercel/chat
 
-⭐ 2,420 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vercel/chat) · [官网](https://chat-sdk.dev/) · 组织维护
+⭐ 2,419 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vercel/chat) · [官网](https://chat-sdk.dev/) · 组织维护
 
 **统一 TypeScript SDK：一套代码构建多平台聊天机器人与 agent**
 

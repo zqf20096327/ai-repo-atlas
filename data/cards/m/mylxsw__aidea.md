@@ -1,6 +1,6 @@
 # mylxsw/aidea
 
-⭐ 6,940 · Dart · MIT · 推送 2026-03-04 · [GitHub](https://github.com/mylxsw/aidea) · [官网](https://ai.aicode.cc) · 个人维护 · 中文 README
+⭐ 6,939 · Dart · MIT · 推送 2026-03-04 · [GitHub](https://github.com/mylxsw/aidea) · [官网](https://ai.aicode.cc) · 个人维护 · 中文 README
 
 **集成主流大模型与图像生成模型的开源聊天应用**
 

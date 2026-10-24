@@ -1,6 +1,6 @@
 # wemux-ai/wemux
 
-⭐ 165 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/wemux-ai/wemux) · [官网](https://wemux.ai) · 组织维护 · 中文 README
+⭐ 166 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/wemux-ai/wemux) · [官网](https://wemux.ai) · 组织维护 · 中文 README
 
 **自托管 AI agent 协作平台：人在环中编排 agent 执行真实编码工作**
 

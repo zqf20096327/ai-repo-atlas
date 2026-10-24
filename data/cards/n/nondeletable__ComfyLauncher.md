@@ -1,6 +1,6 @@
 # nondeletable/ComfyLauncher
 
-⭐ 57 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nondeletable/ComfyLauncher) · 个人维护 · 中文 README
+⭐ 58 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nondeletable/ComfyLauncher) · 个人维护 · 中文 README
 
 **便携版 ComfyUI 的桌面启动器与轻量浏览器**
 

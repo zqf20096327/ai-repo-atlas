@@ -1,6 +1,6 @@
 # psinetron/echoes-vault-codex
 
-⭐ 132 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/psinetron/echoes-vault-codex) · 个人维护
+⭐ 131 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/psinetron/echoes-vault-codex) · 个人维护
 
 **给编码 agent 的仓库本地持久记忆插件与可移植协议**
 

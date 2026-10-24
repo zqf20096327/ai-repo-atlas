@@ -1,6 +1,6 @@
 # eegdash/EEGDash
 
-⭐ 89 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/eegdash/EEGDash) · [官网](http://eegdash.org/) · 组织维护
+⭐ 89 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/eegdash/EEGDash) · [官网](http://eegdash.org/) · 组织维护
 
 **面向机器学习的 EEG/MEG 数据目录与 PyTorch 数据集库（700+ 数据集）**
 

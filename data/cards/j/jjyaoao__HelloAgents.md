@@ -1,6 +1,6 @@
 # jjyaoao/HelloAgents
 
-⭐ 3,287 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/jjyaoao/HelloAgents) · 个人维护 · 中文 README
+⭐ 3,290 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/jjyaoao/HelloAgents) · 个人维护 · 中文 README
 
 **面向智能体开发的组件化多智能体框架（Python）**
 

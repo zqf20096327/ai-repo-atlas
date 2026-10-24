@@ -1,6 +1,6 @@
 # the-open-engine/zeroshot
 
-⭐ 2,032 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/the-open-engine/zeroshot) · [官网](https://zeroshot.sh) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **开源编码 agent 编排引擎：自定义工作流、评审与修复循环**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # mikehasa/agentacct
 
-⭐ 771 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/mikehasa/agentacct) · [官网](https://trytofu.ai) · 个人维护
+⭐ 756 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/mikehasa/agentacct) · [官网](https://trytofu.ai) · 个人维护
 
 **本地优先的编码 Agent 工作记录与用量成本看板**
 

@@ -1,6 +1,6 @@
 # freestylefly/WeChatBridge
 
-⭐ 1,631 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/freestylefly/WeChatBridge) · [官网](https://render.qmuse.pub/p/muse/2413870555736078/index.html) · 个人维护 · 中文 README
+⭐ 1,651 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/freestylefly/WeChatBridge) · [官网](https://render.qmuse.pub/p/muse/2413870555736078/index.html) · 个人维护 · 中文 README
 
 **把微信聊天记录一键转发到 AI Agent 与 Obsidian 的 macOS 工具**
 

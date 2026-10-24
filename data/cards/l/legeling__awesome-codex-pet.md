@@ -1,6 +1,6 @@
 # legeling/awesome-codex-pet
 
-⭐ 1,171 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/legeling/awesome-codex-pet) · [官网](https://codexpet.top) · 个人维护 · 中文 README
+⭐ 1,177 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/legeling/awesome-codex-pet) · [官网](https://codexpet.top) · 个人维护 · 中文 README
 
 **社区 Codex 桌宠策展目录：351 个像素宠物包，一键安装**
 

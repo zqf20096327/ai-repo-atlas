@@ -1,6 +1,6 @@
 # whitelonng/mancode
 
-⭐ 359 · TypeScript · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/whitelonng/mancode) · [官网](https://whitelonng.github.io/mancode/) · 个人维护 · 中文 README
+⭐ 359 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/whitelonng/mancode) · [官网](https://whitelonng.github.io/mancode/) · 个人维护 · 中文 README
 
 **AI 编码代理的工作流调度框架：约束过度设计、跨会话上下文与脱敏**
 

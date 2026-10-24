@@ -1,6 +1,6 @@
 # Skythinker616/gpt-assistant-android
 
-⭐ 907 · Java · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/Skythinker616/gpt-assistant-android) · 个人维护 · 中文 README
+⭐ 908 · Java · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/Skythinker616/gpt-assistant-android) · 个人维护 · 中文 README
 
 **安卓全场景 GPT 助手：音量键唤起语音对话，支持联网与智能体操控手机**
 

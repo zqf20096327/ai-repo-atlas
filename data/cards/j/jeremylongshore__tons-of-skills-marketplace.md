@@ -1,6 +1,6 @@
 # jeremylongshore/tons-of-skills-marketplace
 
-⭐ 2,868 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jeremylongshore/tons-of-skills-marketplace) · [官网](https://tonsofskills.com) · 组织维护
+⭐ 2,868 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jeremylongshore/tons-of-skills-marketplace) · [官网](https://tonsofskills.com) · 组织维护
 
 **模型无关的 agent 技能市场平台：含包管理器与适配层**
 

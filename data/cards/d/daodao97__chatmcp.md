@@ -1,6 +1,6 @@
 # daodao97/chatmcp
 
-⭐ 2,227 · Dart · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/daodao97/chatmcp) · [官网](https://daodao97.github.io/chatmcp/) · 个人维护 · 中文 README
+⭐ 2,226 · Dart · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/daodao97/chatmcp) · [官网](https://daodao97.github.io/chatmcp/) · 个人维护 · 中文 README
 
 **跨平台 MCP 协议 AI 聊天客户端**
 

@@ -1,6 +1,6 @@
 # coreply/coreply
 
-⭐ 475 · TypeScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/coreply/coreply) · [官网](https://coreply.app) · 组织维护
+⭐ 474 · TypeScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/coreply/coreply) · [官网](https://coreply.app) · 组织维护
 
 **在聊天应用中边打字边给出 AI 续写建议的 Android 应用**
 

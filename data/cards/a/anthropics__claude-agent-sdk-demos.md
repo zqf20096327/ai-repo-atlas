@@ -1,6 +1,6 @@
 # anthropics/claude-agent-sdk-demos
 
-⭐ 2,788 · TypeScript · 推送 2026-08-27 · [GitHub](https://github.com/anthropics/claude-agent-sdk-demos) · [官网](https://docs.claude.com/en/docs/claude-code/sdk/sdk-typescript) · 组织维护
+⭐ 2,789 · TypeScript · 推送 2026-08-27 · [GitHub](https://github.com/anthropics/claude-agent-sdk-demos) · [官网](https://docs.claude.com/en/docs/claude-code/sdk/sdk-typescript) · 组织维护
 
 **Anthropic 官方的 Claude Agent SDK 示例应用合集**
 

@@ -1,6 +1,6 @@
 # likyoo/open-cd
 
-⭐ 896 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/likyoo/open-cd) · [官网](https://arxiv.org/abs/2407.15317) · 组织维护
+⭐ 897 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/likyoo/open-cd) · [官网](https://arxiv.org/abs/2407.15317) · 组织维护
 
 **遥感变化检测开源工具箱：训练/测试/推理多模型**
 

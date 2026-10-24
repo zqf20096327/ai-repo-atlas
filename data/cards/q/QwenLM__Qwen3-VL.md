@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-VL
 
-⭐ 20,113 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/QwenLM/Qwen3-VL) · 组织维护 · 中文 README
+⭐ 20,115 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/QwenLM/Qwen3-VL) · 组织维护 · 中文 README
 
 **面向开发者的开源多模态视觉语言模型系列及使用代码**
 

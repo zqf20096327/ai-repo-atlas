@@ -1,6 +1,6 @@
 # filliptm/ComfyUI-FL-YuE2
 
-⭐ 221 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/filliptm/ComfyUI-FL-YuE2) · 个人维护
+⭐ 222 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/filliptm/ComfyUI-FL-YuE2) · 个人维护
 
 **ComfyUI 的 YuE2 音乐生成节点包，带可编辑钢琴卷帘**
 

@@ -1,6 +1,6 @@
 # ojuschugh1/sqz
 
-⭐ 660 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ojuschugh1/sqz) · [官网](https://ojuschugh1.github.io/sqz/) · 个人维护 · 中文 README
+⭐ 662 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ojuschugh1/sqz) · [官网](https://ojuschugh1.github.io/sqz/) · 个人维护 · 中文 README
 
 **压缩 AI 编程 agent 工具输出的上下文压缩工具**
 

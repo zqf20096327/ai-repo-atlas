@@ -1,6 +1,6 @@
 # sno-ai/llmix
 
-⭐ 132 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/sno-ai/llmix) · [官网](https://github.com/sno-ai/llmix) · 组织维护
+⭐ 132 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/sno-ai/llmix) · [官网](https://github.com/sno-ai/llmix) · 组织维护
 
 **给 AI agent 开发者的 LLM 调用治理层：缓存/重试/密钥池/热切换**
 

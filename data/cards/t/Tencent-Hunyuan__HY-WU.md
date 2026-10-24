@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-WU
 
-⭐ 851 · Python · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/Tencent-Hunyuan/HY-WU) · 组织维护 · 中文 README
+⭐ 862 · Python · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/Tencent-Hunyuan/HY-WU) · 组织维护 · 中文 README
 
 **为文本引导图像编辑即时生成 LoRA 适配器的神经记忆框架**
 

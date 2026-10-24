@@ -1,6 +1,6 @@
 # AditthyaSS/iloveAgents
 
-⭐ 148 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AditthyaSS/iloveAgents) · [官网](https://iloveagents.vercel.app/) · 个人维护
+⭐ 148 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AditthyaSS/iloveAgents) · [官网](https://iloveagents.vercel.app/) · 个人维护
 
 **浏览器直接运行 160+ 开源 AI agent 的 BYOK Web 平台**
 

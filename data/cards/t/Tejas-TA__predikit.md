@@ -1,6 +1,6 @@
 # Tejas-TA/predikit
 
-⭐ 391 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Tejas-TA/predikit) · [官网](https://pypi.org/project/predikit/) · 个人维护
+⭐ 385 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Tejas-TA/predikit) · [官网](https://pypi.org/project/predikit/) · 个人维护
 
 **把 sklearn/XGBoost 模型封装为 LLM 可调用工具的 Python 库**
 

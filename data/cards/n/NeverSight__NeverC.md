@@ -1,6 +1,6 @@
 # NeverSight/NeverC
 
-⭐ 95 · C · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/NeverSight/NeverC) · 组织维护 · 中文 README
+⭐ 96 · C · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/NeverSight/NeverC) · 组织维护 · 中文 README
 
 **面向安全研究的 AI 友好 C23 编译器，基于 LLVM**
 

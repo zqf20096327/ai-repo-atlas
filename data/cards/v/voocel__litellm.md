@@ -1,6 +1,6 @@
 # voocel/litellm
 
-⭐ 65 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/voocel/litellm) · 个人维护 · 中文 README
+⭐ 67 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/voocel/litellm) · 个人维护 · 中文 README
 
 **Go 语言多供应商 LLM 调用 SDK 与自托管网关**
 

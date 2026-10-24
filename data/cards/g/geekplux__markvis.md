@@ -1,6 +1,6 @@
 # geekplux/markvis
 
-⭐ 1,598 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/geekplux/markvis) · [官网](https://markvis.js.org/) · 个人维护
+⭐ 1,599 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/geekplux/markvis) · [官网](https://markvis.js.org/) · 个人维护
 
 **在 Markdown 中以文本块绘制图表的渲染库**
 

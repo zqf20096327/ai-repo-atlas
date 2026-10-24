@@ -1,6 +1,6 @@
 # endink/Mediapipe4u-plugin
 
-⭐ 510 · 推送 2026-09-04 · [GitHub](https://github.com/endink/Mediapipe4u-plugin) · 个人维护 · 中文 README
+⭐ 511 · 推送 2026-09-04 · [GitHub](https://github.com/endink/Mediapipe4u-plugin) · 个人维护 · 中文 README
 
 **给 UE 开发者的 AI 能力插件：动作/表情捕捉、TTS、ASR、LLM 集成**
 

@@ -1,6 +1,6 @@
 # proxy-intell/facebook-ads-library-mcp
 
-⭐ 317 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/proxy-intell/facebook-ads-library-mcp) · [官网](https://useproxy.dev/) · 组织维护
+⭐ 318 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/proxy-intell/facebook-ads-library-mcp) · [官网](https://useproxy.dev/) · 组织维护
 
 **查询分析 Facebook 广告库的 MCP 服务器，供营销人员使用**
 

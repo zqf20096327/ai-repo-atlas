@@ -1,6 +1,6 @@
 # nitrosend/mcp
 
-⭐ 89 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/nitrosend/mcp) · [官网](https://nitrosend.com) · 组织维护
+⭐ 107 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/nitrosend/mcp) · [官网](https://nitrosend.com) · 组织维护
 
 **Nitrosend 远程 MCP 服务器的 stdio 桥接包：让仅支持 stdio 的客户端接入**
 

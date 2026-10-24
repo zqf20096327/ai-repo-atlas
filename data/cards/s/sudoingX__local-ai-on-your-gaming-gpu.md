@@ -1,6 +1,6 @@
 # sudoingX/local-ai-on-your-gaming-gpu
 
-⭐ 165 · Python · 推送 2026-10-17 · [GitHub](https://github.com/sudoingX/local-ai-on-your-gaming-gpu) · 个人维护
+⭐ 167 · Python · 推送 2026-10-17 · [GitHub](https://github.com/sudoingX/local-ai-on-your-gaming-gpu) · 个人维护
 
 **一行命令在游戏显卡上本地运行 27B 模型的一体化安装器**
 

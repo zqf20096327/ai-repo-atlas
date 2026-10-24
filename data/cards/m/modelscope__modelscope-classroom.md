@@ -1,6 +1,6 @@
 # modelscope/modelscope-classroom
 
-⭐ 1,500 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/modelscope/modelscope-classroom) · 组织维护 · 中文 README
+⭐ 1,501 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/modelscope/modelscope-classroom) · 组织维护 · 中文 README
 
 **魔搭社区深度学习与大模型教程合集（LLM/AIGC/RL/Agent）**
 

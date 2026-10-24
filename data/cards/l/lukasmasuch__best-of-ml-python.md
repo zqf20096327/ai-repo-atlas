@@ -1,6 +1,6 @@
 # lukasmasuch/best-of-ml-python
 
-⭐ 23,848 · CC-BY-SA-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/lukasmasuch/best-of-ml-python) · [官网](https://ml-python.best-of.org) · 个人维护
+⭐ 23,844 · CC-BY-SA-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/lukasmasuch/best-of-ml-python) · [官网](https://ml-python.best-of.org) · 个人维护
 
 **给 ML 开发者的 Python 库排名清单，每周更新**
 

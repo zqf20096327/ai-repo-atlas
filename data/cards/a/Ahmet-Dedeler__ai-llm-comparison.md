@@ -1,6 +1,6 @@
 # Ahmet-Dedeler/ai-llm-comparison
 
-⭐ 426 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Ahmet-Dedeler/ai-llm-comparison) · [官网](https://llmarena.ai) · 个人维护
+⭐ 425 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Ahmet-Dedeler/ai-llm-comparison) · [官网](https://llmarena.ai) · 个人维护
 
 **对比各 AI 模型价格与能力的免费开源网站**
 

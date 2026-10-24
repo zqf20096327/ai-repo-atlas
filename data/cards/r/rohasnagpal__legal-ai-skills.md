@@ -1,6 +1,6 @@
 # rohasnagpal/legal-ai-skills
 
-⭐ 188 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rohasnagpal/legal-ai-skills) · 个人维护 · 中文 README
+⭐ 190 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rohasnagpal/legal-ai-skills) · 个人维护 · 中文 README
 
 **面向 Claude Code/Codex 的律所 AI 技能包：17 名律师+226 项法律技能**
 

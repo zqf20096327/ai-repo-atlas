@@ -1,6 +1,6 @@
 # iishyfishyy/operator-oss
 
-⭐ 208 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/iishyfishyy/operator-oss) · [官网](https://getoperator.dev) · 个人维护
+⭐ 207 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/iishyfishyy/operator-oss) · [官网](https://getoperator.dev) · 个人维护
 
 **网页端并行编排 Claude Code/Codex 会话的控制台**
 

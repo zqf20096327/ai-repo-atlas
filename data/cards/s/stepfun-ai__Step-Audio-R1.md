@@ -1,6 +1,6 @@
 # stepfun-ai/Step-Audio-R1
 
-⭐ 703 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/stepfun-ai/Step-Audio-R1) · 组织维护 · 中文 README
+⭐ 704 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/stepfun-ai/Step-Audio-R1) · 组织维护 · 中文 README
 
 **阶跃开源的音频推理语言模型：语音理解与推理生成**
 

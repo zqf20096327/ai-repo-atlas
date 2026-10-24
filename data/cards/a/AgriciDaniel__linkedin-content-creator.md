@@ -1,6 +1,6 @@
 # AgriciDaniel/linkedin-content-creator
 
-⭐ 99 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/linkedin-content-creator) · [官网](https://www.skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 100 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/linkedin-content-creator) · [官网](https://www.skool.com/ai-marketing-hub-pro) · 个人维护
 
 **面向营销人员的 LinkedIn 帖子 AI 生成与排期工具**
 

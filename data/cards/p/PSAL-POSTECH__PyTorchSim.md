@@ -1,6 +1,6 @@
 # PSAL-POSTECH/PyTorchSim
 
-⭐ 144 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/PSAL-POSTECH/PyTorchSim) · 组织维护
+⭐ 144 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/PSAL-POSTECH/PyTorchSim) · 组织维护
 
 **给架构研究者的 NPU 仿真框架：在 PyTorch 上跑模型并测硬件性能**
 

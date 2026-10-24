@@ -1,6 +1,6 @@
 # makecindy/cindy
 
-⭐ 3,400 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/makecindy/cindy) · [官网](https://cindy.app) · 组织维护 · 中文 README
+⭐ 3,920 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/makecindy/cindy) · [官网](https://cindy.app) · 组织维护 · 中文 README
 
 **开箱即用的开源 AI Agent 客户端，在本地完成实际工作**
 

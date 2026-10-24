@@ -1,6 +1,6 @@
 # PteroLabsAI/PteroSim-UAV-Simulator
 
-⭐ 126 · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/PteroLabsAI/PteroSim-UAV-Simulator) · [官网](https://pterolabs.ai/) · 组织维护
+⭐ 125 · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/PteroLabsAI/PteroSim-UAV-Simulator) · [官网](https://pterolabs.ai/) · 组织维护
 
 **面向开发测试与科研的无人机仿真平台**
 

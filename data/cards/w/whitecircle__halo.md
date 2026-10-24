@@ -1,6 +1,6 @@
 # whitecircle/halo
 
-⭐ 834 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/whitecircle/halo) · [官网](https://whitecircle.com/halo) · 组织维护
+⭐ 834 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/whitecircle/halo) · [官网](https://whitecircle.com/halo) · 组织维护
 
 **训练 LLM 与多模态模型的开源框架**
 

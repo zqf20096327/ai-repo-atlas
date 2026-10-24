@@ -1,6 +1,6 @@
 # iFurySt/open-computer-use
 
-⭐ 2,650 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/iFurySt/open-computer-use) · 个人维护 · 中文 README
+⭐ 2,666 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/iFurySt/open-computer-use) · 个人维护 · 中文 README
 
 **封装为 MCP 的开源 Computer Use 服务，供 AI agent 调用**
 

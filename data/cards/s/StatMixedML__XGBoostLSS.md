@@ -1,6 +1,6 @@
 # StatMixedML/XGBoostLSS
 
-⭐ 733 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/StatMixedML/XGBoostLSS) · [官网](https://statmixedml.github.io/XGBoostLSS/) · 个人维护
+⭐ 734 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/StatMixedML/XGBoostLSS) · [官网](https://statmixedml.github.io/XGBoostLSS/) · 个人维护
 
 **XGBoost 的概率建模扩展：预测完整条件分布**
 

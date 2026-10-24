@@ -1,6 +1,6 @@
 # aryanbrite/openrabbit
 
-⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/aryanbrite/openrabbit) · [官网](http://aryan.my/posts/open-rabbit) · 个人维护
+⭐ 59 · TypeScript · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/aryanbrite/openrabbit) · [官网](http://aryan.my/posts/open-rabbit) · 个人维护
 
 **在 GitHub Actions 内自托管的 AI PR 审查工具，免服务器**
 

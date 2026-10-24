@@ -1,6 +1,6 @@
 # huggingface/grout
 
-⭐ 104 · Rust · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/huggingface/grout) · 组织维护
+⭐ 105 · Rust · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/huggingface/grout) · 组织维护
 
 **基于 cuTile Rust 的 Qwen3 GPU 推理引擎与基准测试床**
 

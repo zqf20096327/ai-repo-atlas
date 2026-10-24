@@ -1,6 +1,6 @@
 # langchain-ai/langchain-weaviate
 
-⭐ 70 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/langchain-weaviate) · [官网](https://docs.langchain.com/oss/python/integrations/providers/weaviate) · 组织维护
+⭐ 69 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/langchain-weaviate) · [官网](https://docs.langchain.com/oss/python/integrations/providers/weaviate) · 组织维护
 
 **LangChain 与 Weaviate 向量数据库的集成接口包**
 

@@ -1,6 +1,6 @@
 # heymi/aldus-palace
 
-⭐ 93 · TypeScript · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/heymi/aldus-palace) · 个人维护 · 中文 README
+⭐ 94 · TypeScript · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/heymi/aldus-palace) · 个人维护 · 中文 README
 
 **面向 AI 助手的本地上下文层：自由文本变带证据的类型化承诺与记忆**
 

@@ -1,6 +1,6 @@
 # Magic-Resume/Magic-Resume
 
-⭐ 102 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Magic-Resume/Magic-Resume) · [官网](https://www.magic-resume.cn) · 组织维护 · 中文 README
+⭐ 102 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Magic-Resume/Magic-Resume) · [官网](https://www.magic-resume.cn) · 组织维护 · 中文 README
 
 **开源 AI 简历工作台：AI 逐条提出修改，用户逐条采纳**
 

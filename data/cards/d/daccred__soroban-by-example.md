@@ -1,6 +1,6 @@
 # daccred/soroban-by-example
 
-⭐ 127 · Rust · MIT · 推送 2026-08-28 · [GitHub](https://github.com/daccred/soroban-by-example) · [官网](https://sorobanexamples.xyz) · 组织维护
+⭐ 117 · Rust · MIT · 推送 2026-08-28 · [GitHub](https://github.com/daccred/soroban-by-example) · [官网](https://sorobanexamples.xyz) · 组织维护
 
 **Soroban 智能合约入门模板集，含 AI 助手生成合约模板**
 

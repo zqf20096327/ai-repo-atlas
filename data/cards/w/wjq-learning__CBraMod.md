@@ -1,6 +1,6 @@
 # wjq-learning/CBraMod
 
-⭐ 365 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/wjq-learning/CBraMod) · [官网](https://openreview.net/forum?id=NPNUHgHF2w) · 组织维护
+⭐ 366 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/wjq-learning/CBraMod) · [官网](https://openreview.net/forum?id=NPNUHgHF2w) · 组织维护
 
 **面向 EEG 解码的脑电基础模型（ICLR 2025），含预训练权重**
 

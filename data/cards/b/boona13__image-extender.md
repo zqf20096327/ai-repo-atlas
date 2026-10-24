@@ -1,6 +1,6 @@
 # boona13/image-extender
 
-⭐ 1,119 · TypeScript · MIT · 推送 2026-05-31 · [GitHub](https://github.com/boona13/image-extender) · [官网](https://github.com/boona13/image-extender) · 个人维护
+⭐ 1,120 · TypeScript · MIT · 推送 2026-05-31 · [GitHub](https://github.com/boona13/image-extender) · [官网](https://github.com/boona13/image-extender) · 个人维护
 
 **AI 图像外扩与 2D 游戏美术生成的开源 Web 应用**
 

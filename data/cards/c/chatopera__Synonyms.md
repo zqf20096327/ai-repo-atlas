@@ -1,6 +1,6 @@
 # chatopera/Synonyms
 
-⭐ 5,106 · Python · NOASSERTION · 推送 2026-02-01 · [GitHub](https://github.com/chatopera/Synonyms) · [官网](https://bot.chatopera.com/) · 组织维护 · 中文 README
+⭐ 5,105 · Python · NOASSERTION · 推送 2026-02-01 · [GitHub](https://github.com/chatopera/Synonyms) · [官网](https://bot.chatopera.com/) · 组织维护 · 中文 README
 
 **中文近义词与相似度计算工具包，供 NLP 任务使用**
 

@@ -1,6 +1,6 @@
 # Ebony-Vinyl/EAC-Desktop
 
-⭐ 2,230 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) · 组织维护 · 中文 README
+⭐ 2,238 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) · 组织维护 · 中文 README
 
 **基于 DeepSeek Harness 的桌面 Agent 工作台，聚合数百个 DSH 插件**
 

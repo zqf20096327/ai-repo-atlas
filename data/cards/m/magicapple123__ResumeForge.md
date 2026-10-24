@@ -1,6 +1,6 @@
 # magicapple123/ResumeForge
 
-⭐ 348 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/magicapple123/ResumeForge) · [官网](https://github.com/magicapple123/ResumeForge#readme) · 个人维护 · 中文 README
+⭐ 348 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/magicapple123/ResumeForge) · [官网](https://github.com/magicapple123/ResumeForge#readme) · 个人维护 · 中文 README
 
 **本地优先的 AI 简历工作台：求职全流程资料管理**
 

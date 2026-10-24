@@ -1,6 +1,6 @@
 # tenstorrent/tt-metal
 
-⭐ 1,719 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tenstorrent/tt-metal) · [官网](https://docs.tenstorrent.com/tt-metal/latest/ttnn/) · 组织维护
+⭐ 1,718 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/tenstorrent/tt-metal) · [官网](https://docs.tenstorrent.com/tt-metal/latest/ttnn/) · 组织维护
 
 **Tenstorrent AI 加速卡的神级算子库与内核编程模型**
 

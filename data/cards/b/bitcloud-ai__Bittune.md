@@ -1,6 +1,6 @@
 # bitcloud-ai/Bittune
 
-⭐ 67 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/bitcloud-ai/Bittune) · 组织维护 · 中文 README
+⭐ 77 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/bitcloud-ai/Bittune) · 组织维护 · 中文 README
 
 **本地推理工程智能体：自然语言驱动 vLLM/SGLang 部署压测调优**
 

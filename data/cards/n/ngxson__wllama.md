@@ -1,6 +1,6 @@
 # ngxson/wllama
 
-⭐ 1,350 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ngxson/wllama) · [官网](https://huggingface.co/spaces/ngxson/wllama) · 个人维护
+⭐ 1,351 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ngxson/wllama) · [官网](https://huggingface.co/spaces/ngxson/wllama) · 个人维护
 
 **llama.cpp 的 WebAssembly 绑定，在浏览器内直接运行 LLM 推理**
 

@@ -1,6 +1,6 @@
 # yaojingang/GEOFlow
 
-⭐ 3,887 · PHP · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/yaojingang/GEOFlow) · [官网](https://www.geoflow.me) · 个人维护 · 中文 README
+⭐ 3,895 · PHP · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/yaojingang/GEOFlow) · [官网](https://www.geoflow.me) · 个人维护 · 中文 README
 
 **面向企业官网 GEO 运营的开源内容工程与多站点分发平台**
 

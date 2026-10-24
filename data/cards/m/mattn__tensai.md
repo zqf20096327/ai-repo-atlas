@@ -1,6 +1,6 @@
 # mattn/tensai
 
-⭐ 116 · Go · MIT · 推送 2026-10-09 · [GitHub](https://github.com/mattn/tensai) · [官网](https://mattn.github.io/tensai/) · 个人维护
+⭐ 117 · Go · MIT · 推送 2026-10-09 · [GitHub](https://github.com/mattn/tensai) · [官网](https://mattn.github.io/tensai/) · 个人维护
 
 **纯 Go 实现的轻量机器学习框架：张量/自动微分/量化与模型运行**
 

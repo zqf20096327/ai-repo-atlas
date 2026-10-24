@@ -1,6 +1,6 @@
 # helixml/helix
 
-⭐ 822 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/helixml/helix) · [官网](https://helix.ml) · 组织维护
+⭐ 823 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/helixml/helix) · [官网](https://helix.ml) · 组织维护
 
 **私有部署的编码 Agent 舰队平台：每 Agent 独立 GPU 桌面**
 

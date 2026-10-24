@@ -1,6 +1,6 @@
 # pju-hoge/a-letter-to-junior-agents
 
-⭐ 66 · MIT · 推送 2026-10-10 · [GitHub](https://github.com/pju-hoge/a-letter-to-junior-agents) · 个人维护
+⭐ 79 · MIT · 推送 2026-10-10 · [GitHub](https://github.com/pju-hoge/a-letter-to-junior-agents) · 个人维护
 
 **给 Hermes 个人 agent 用的长期记忆/人设/共享工作区引导文档包**
 

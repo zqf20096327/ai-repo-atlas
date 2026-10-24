@@ -1,6 +1,6 @@
 # kasturibuilds/generative-loaders
 
-⭐ 212 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/kasturibuilds/generative-loaders) · [官网](https://generativeloaders.com) · 个人维护
+⭐ 212 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kasturibuilds/generative-loaders) · [官网](https://generativeloaders.com) · 个人维护
 
 **React 加载态组件库：面向生成式界面的流式文本/占位动画**
 

@@ -1,6 +1,6 @@
 # runtypelabs/persona
 
-⭐ 253 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/runtypelabs/persona) · [官网](https://persona-chat.dev) · 组织维护
+⭐ 253 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/runtypelabs/persona) · [官网](https://persona-chat.dev) · 组织维护
 
 **零框架依赖的网站 AI 聊天组件（TypeScript 小组件库）**
 

@@ -1,6 +1,6 @@
 # agno-agi/agno
 
-⭐ 42,874 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/agno-agi/agno) · [官网](https://docs.agno.com) · 组织维护
+⭐ 42,878 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/agno-agi/agno) · [官网](https://docs.agno.com) · 组织维护
 
 **供开发者构建、运行并管理 agent 平台的框架与运行时**
 

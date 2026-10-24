@@ -1,6 +1,6 @@
 # zephyr4123/speakmore
 
-⭐ 144 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zephyr4123/speakmore) · [官网](https://speakmore.zephyrxiang.com) · 个人维护 · 中文 README
+⭐ 151 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zephyr4123/speakmore) · [官网](https://speakmore.zephyrxiang.com) · 个人维护 · 中文 README
 
 **面向普通用户的语音输入与划词翻译桌面工具（Mac/Windows）**
 

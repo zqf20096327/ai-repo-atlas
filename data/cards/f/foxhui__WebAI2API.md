@@ -1,6 +1,6 @@
 # foxhui/WebAI2API
 
-⭐ 1,404 · JavaScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/foxhui/WebAI2API) · [官网](https://foxhui.github.io/WebAI2API/) · 个人维护 · 中文 README
+⭐ 1,406 · JavaScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/foxhui/WebAI2API) · [官网](https://foxhui.github.io/WebAI2API/) · 个人维护 · 中文 README
 
 **把 LMArena/Gemini 等网页 AI 转成 OpenAI 兼容 API 的工具**
 

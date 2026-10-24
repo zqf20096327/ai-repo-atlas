@@ -1,6 +1,6 @@
 # QwenLM/Qwen-VLA
 
-⭐ 778 · 推送 2026-05-29 · [GitHub](https://github.com/QwenLM/Qwen-VLA) · 组织维护
+⭐ 779 · 推送 2026-05-29 · [GitHub](https://github.com/QwenLM/Qwen-VLA) · 组织维护
 
 **统一视觉-语言-动作机器人通用模型，跨任务/环境/本体**
 

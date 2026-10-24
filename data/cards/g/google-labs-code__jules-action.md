@@ -1,6 +1,6 @@
 # google-labs-code/jules-action
 
-⭐ 261 · MIT · 推送 2025-12-15 · [GitHub](https://github.com/google-labs-code/jules-action) · [官网](https://jules.google) · 组织维护
+⭐ 260 · MIT · 推送 2025-12-15 · [GitHub](https://github.com/google-labs-code/jules-action) · [官网](https://jules.google) · 组织维护
 
 **在 GitHub 工作流中调用 Jules 云端编码 Agent 的 Action**
 

@@ -1,6 +1,6 @@
 # DEmodoriGatsuO/sharepoint-mcp
 
-⭐ 92 · Python · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/DEmodoriGatsuO/sharepoint-mcp) · 个人维护
+⭐ 93 · Python · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/DEmodoriGatsuO/sharepoint-mcp) · 个人维护
 
 **让 LLM 应用通过 MCP 访问 SharePoint 文档与列表的连接器**
 

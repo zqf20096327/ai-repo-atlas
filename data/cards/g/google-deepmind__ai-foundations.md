@@ -1,6 +1,6 @@
 # google-deepmind/ai-foundations
 
-⭐ 321 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-deepmind/ai-foundations) · 组织维护
+⭐ 323 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-deepmind/ai-foundations) · 组织维护
 
 **现代 AI 八门课程配套实验代码库：面向教学**
 

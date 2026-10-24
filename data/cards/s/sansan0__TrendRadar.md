@@ -1,6 +1,6 @@
 # sansan0/TrendRadar
 
-⭐ 63,137 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/sansan0/TrendRadar) · [官网](https://trendradar.sandev.cc) · 个人维护 · 中文 README
+⭐ 63,156 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/sansan0/TrendRadar) · [官网](https://trendradar.sandev.cc) · 个人维护 · 中文 README
 
 **面向个人用户的多平台热点聚合监控与 AI 舆情筛选推送工具**
 

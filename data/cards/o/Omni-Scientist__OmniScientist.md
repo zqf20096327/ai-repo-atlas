@@ -1,6 +1,6 @@
 # Omni-Scientist/OmniScientist
 
-⭐ 171 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Omni-Scientist/OmniScientist) · [官网](https://omni-scientist.github.io/) · 组织维护 · 中文 README
+⭐ 172 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Omni-Scientist/OmniScientist) · [官网](https://omni-scientist.github.io/) · 组织维护 · 中文 README
 
 **本地运行的全模态 AI 科学家：自动完成科研并产出论文**
 

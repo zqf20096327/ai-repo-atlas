@@ -1,6 +1,6 @@
 # uiuing/browser-agent
 
-⭐ 56 · TypeScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/uiuing/browser-agent) · 个人维护 · 中文 README
+⭐ 55 · TypeScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/uiuing/browser-agent) · 个人维护 · 中文 README
 
 **开源浏览器 AI Agent 运行时：自带模型执行并核验网页操作**
 

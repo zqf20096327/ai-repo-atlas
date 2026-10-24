@@ -1,6 +1,6 @@
 # mistralai/cookbook
 
-⭐ 2,348 · Jupyter Notebook · MIT · 推送 2026-10-14 · [GitHub](https://github.com/mistralai/cookbook) · 组织维护
+⭐ 2,349 · Jupyter Notebook · MIT · 推送 2026-10-14 · [GitHub](https://github.com/mistralai/cookbook) · 组织维护
 
 **Mistral 官方示例集：API、RAG、Agent 等 notebook 教程**
 

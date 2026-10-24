@@ -1,6 +1,6 @@
 # smixs/humanizer-ru
 
-⭐ 193 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/smixs/humanizer-ru) · 个人维护
+⭐ 195 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/smixs/humanizer-ru) · 个人维护
 
 **俄语文本 AI 痕迹去除与检测的 agent 技能（SKILL.md）**
 

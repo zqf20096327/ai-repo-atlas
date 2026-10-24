@@ -1,6 +1,6 @@
 # dair-ai/AI-Papers-of-the-Week
 
-⭐ 13,294 · 推送 2026-10-19 · [GitHub](https://github.com/dair-ai/AI-Papers-of-the-Week) · 组织维护
+⭐ 13,295 · 推送 2026-10-19 · [GitHub](https://github.com/dair-ai/AI-Papers-of-the-Week) · 组织维护
 
 **DAIR.AI 维护的每周顶会 AI 论文周报清单**
 

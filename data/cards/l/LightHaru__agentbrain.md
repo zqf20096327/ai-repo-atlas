@@ -1,6 +1,6 @@
 # LightHaru/agentbrain
 
-⭐ 106 · TypeScript · 推送 2026-08-13 · [GitHub](https://github.com/LightHaru/agentbrain) · [官网](https://openclaw.ai) · 个人维护
+⭐ 107 · TypeScript · 推送 2026-08-13 · [GitHub](https://github.com/LightHaru/agentbrain) · [官网](https://openclaw.ai) · 个人维护
 
 **为 OpenClaw AI agent 提供持久记忆与人格/情绪演化的插件**
 

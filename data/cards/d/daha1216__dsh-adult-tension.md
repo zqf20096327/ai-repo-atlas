@@ -1,6 +1,6 @@
 # daha1216/dsh-adult-tension
 
-⭐ 325 · Python · 推送 2026-10-23 · [GitHub](https://github.com/daha1216/dsh-adult-tension) · 个人维护 · 中文 README
+⭐ 337 · Python · 推送 2026-10-23 · [GitHub](https://github.com/daha1216/dsh-adult-tension) · 个人维护 · 中文 README
 
 **18+ 高张力成人互动叙事引擎：活人感 NPC 与 211 个世界**
 

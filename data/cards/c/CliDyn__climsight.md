@@ -1,6 +1,6 @@
 # CliDyn/climsight
 
-⭐ 65 · Python · BSD-3-Clause · 推送 2026-03-27 · [GitHub](https://github.com/CliDyn/climsight) · 组织维护
+⭐ 66 · Python · BSD-3-Clause · 推送 2026-03-27 · [GitHub](https://github.com/CliDyn/climsight) · 组织维护
 
 **AI 气候决策支持系统：LLM 结合多源气候数据生成局地评估**
 

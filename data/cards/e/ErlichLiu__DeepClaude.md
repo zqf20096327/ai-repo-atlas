@@ -1,6 +1,6 @@
 # ErlichLiu/DeepClaude
 
-⭐ 2,931 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/ErlichLiu/DeepClaude) · [官网](https://erlich.fun/deepclaude-pricing) · 个人维护 · 中文 README
+⭐ 2,930 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/ErlichLiu/DeepClaude) · [官网](https://erlich.fun/deepclaude-pricing) · 个人维护 · 中文 README
 
 **组合推理与生成模型、提供 OpenAI 兼容 API 的转发服务**
 

@@ -1,6 +1,6 @@
 # yiheng8023/antigravity-chinese
 
-⭐ 114 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/yiheng8023/antigravity-chinese) · 个人维护 · 中文 README
+⭐ 115 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yiheng8023/antigravity-chinese) · 个人维护 · 中文 README
 
 **Google Antigravity 全生态客户端与扩展的中文本地化套件**
 

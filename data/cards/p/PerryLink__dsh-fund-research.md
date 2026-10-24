@@ -1,6 +1,6 @@
 # PerryLink/dsh-fund-research
 
-⭐ 66 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/PerryLink/dsh-fund-research) · [官网](https://perrylink.github.io/plugins/dsh-fund-research/) · 个人维护 · 中文 README
+⭐ 66 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PerryLink/dsh-fund-research) · [官网](https://perrylink.github.io/plugins/dsh-fund-research/) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 生成中国公募基金确定性研究报告的插件**
 

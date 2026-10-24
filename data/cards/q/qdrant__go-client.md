@@ -1,6 +1,6 @@
 # qdrant/go-client
 
-⭐ 349 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/go-client) · 组织维护
+⭐ 348 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/qdrant/go-client) · 组织维护
 
 **Qdrant 向量搜索引擎的官方 Go 客户端库**
 

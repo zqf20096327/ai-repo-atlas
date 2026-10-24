@@ -1,6 +1,6 @@
 # openai/openai-chatkit-starter-app
 
-⭐ 886 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/openai/openai-chatkit-starter-app) · [官网](https://platform.openai.com/docs/guides/chatkit) · 组织维护
+⭐ 887 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/openai/openai-chatkit-starter-app) · [官网](https://platform.openai.com/docs/guides/chatkit) · 组织维护
 
 **OpenAI ChatKit 集成的入门示例应用模板**
 

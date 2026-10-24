@@ -1,6 +1,6 @@
 # AI4Finance-Foundation/FinGPT
 
-⭐ 21,447 · Jupyter Notebook · MIT · 推送 2026-09-23 · [GitHub](https://github.com/AI4Finance-Foundation/FinGPT) · [官网](https://fingpt.io) · 组织维护 · 中文 README
+⭐ 21,456 · Jupyter Notebook · MIT · 推送 2026-09-23 · [GitHub](https://github.com/AI4Finance-Foundation/FinGPT) · [官网](https://fingpt.io) · 组织维护 · 中文 README
 
 **面向金融场景的开源大语言模型项目与微调框架**
 

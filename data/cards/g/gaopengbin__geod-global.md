@@ -1,6 +1,6 @@
 # gaopengbin/geod-global
 
-⭐ 67 · Rust · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/gaopengbin/geod-global) · [官网](https://geod-global.laogao.xyz) · 个人维护 · 中文 README
+⭐ 68 · Rust · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/gaopengbin/geod-global) · [官网](https://geod-global.laogao.xyz) · 个人维护 · 中文 README
 
 **Windows 桌面遥感与地理空间数据聚合下载工具**
 

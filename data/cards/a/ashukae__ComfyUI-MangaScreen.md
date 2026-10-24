@@ -1,6 +1,6 @@
 # ashukae/ComfyUI-MangaScreen
 
-⭐ 157 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ashukae/ComfyUI-MangaScreen) · 个人维护
+⭐ 158 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ashukae/ComfyUI-MangaScreen) · 个人维护
 
 **ComfyUI 漫画/黑白漫画滤镜节点包，含网目调与分格处理**
 

@@ -1,6 +1,6 @@
 # xianshang33/llm-paper-daily
 
-⭐ 1,337 · Python · 推送 2026-10-23 · [GitHub](https://github.com/xianshang33/llm-paper-daily) · 个人维护 · 中文 README
+⭐ 1,337 · Python · 推送 2026-10-24 · [GitHub](https://github.com/xianshang33/llm-paper-daily) · 个人维护 · 中文 README
 
 **每日更新的 LLM/Agent 论文精选清单（附 arXiv 链接与摘要）**
 

@@ -1,6 +1,6 @@
 # EliFuzz/awesome-system-prompts
 
-⭐ 280 · JavaScript · GPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/EliFuzz/awesome-system-prompts) · [官网](https://elifuzz.github.io/awesome-system-prompts/) · 个人维护
+⭐ 281 · JavaScript · GPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/EliFuzz/awesome-system-prompts) · [官网](https://elifuzz.github.io/awesome-system-prompts/) · 个人维护
 
 **各 AI 编码助手与 LLM 产品系统提示词的收集清单**
 

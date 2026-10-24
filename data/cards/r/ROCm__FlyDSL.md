@@ -1,6 +1,6 @@
 # ROCm/FlyDSL
 
-⭐ 301 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ROCm/FlyDSL) · 组织维护
+⭐ 302 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/ROCm/FlyDSL) · 组织维护
 
 **面向 AMD GPU 的 Python DSL + MLIR 编译栈，用于编写高性能内核**
 

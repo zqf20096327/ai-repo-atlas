@@ -1,6 +1,6 @@
 # tecmie/rettiwt
 
-⭐ 82 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/tecmie/rettiwt) · [官网](https://www.tecmie.xyz/research#rettiwt) · 个人维护
+⭐ 75 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/tecmie/rettiwt) · [官网](https://www.tecmie.xyz/research#rettiwt) · 个人维护
 
 **AI 驱动的 Twitter 社交媒体模拟沙盒：模拟可信人类代理互动**
 

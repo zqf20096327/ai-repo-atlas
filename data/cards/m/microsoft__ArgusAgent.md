@@ -1,6 +1,6 @@
 # microsoft/ArgusAgent
 
-⭐ 142 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/ArgusAgent) · [官网](https://argusbot.cn) · 组织维护 · 中文 README
+⭐ 142 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/ArgusAgent) · [官网](https://argusbot.cn) · 组织维护 · 中文 README
 
 **面向长周期研究与工程的多智能体持久运行时**
 

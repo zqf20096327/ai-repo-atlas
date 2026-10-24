@@ -1,6 +1,6 @@
 # virtengine/bosun
 
-⭐ 285 · JavaScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/virtengine/bosun) · [官网](https://bosun.engineer) · 组织维护
+⭐ 284 · JavaScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/virtengine/bosun) · [官网](https://bosun.engineer) · 组织维护
 
 **自主软件工程师的控制平面：调度多个 AI 执行器完成交付**
 

@@ -1,6 +1,6 @@
 # janhq/server
 
-⭐ 75 · Go · 推送 2026-06-21 · [GitHub](https://github.com/janhq/server) · [官网](https://chat.jan.ai) · 组织维护
+⭐ 76 · Go · 推送 2026-06-21 · [GitHub](https://github.com/janhq/server) · [官网](https://chat.jan.ai) · 组织维护
 
 **自托管微服务 LLM API 平台，带 MCP 工具集成**
 

@@ -1,6 +1,6 @@
 # srclight/srclight
 
-⭐ 58 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/srclight/srclight) · [官网](https://srclight.dev) · 组织维护
+⭐ 59 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/srclight/srclight) · [官网](https://srclight.dev) · 组织维护
 
 **供 AI 编码代理查询的本地代码索引 MCP 服务器**
 

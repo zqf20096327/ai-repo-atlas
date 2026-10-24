@@ -1,6 +1,6 @@
 # openai/gpt-5-coding-examples
 
-⭐ 1,911 · HTML · MIT · 推送 2025-12-11 · [GitHub](https://github.com/openai/gpt-5-coding-examples) · [官网](https://gpt5-coding-examples.vercel.app/) · 组织维护
+⭐ 1,912 · HTML · MIT · 推送 2025-12-11 · [GitHub](https://github.com/openai/gpt-5-coding-examples) · [官网](https://gpt5-coding-examples.vercel.app/) · 组织维护
 
 **GPT-5 单提示生成的编码示例合集，供参考与二次创作**
 

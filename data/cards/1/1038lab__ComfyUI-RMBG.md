@@ -1,6 +1,6 @@
 # 1038lab/ComfyUI-RMBG
 
-⭐ 2,197 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/1038lab/ComfyUI-RMBG) · [官网](https://1038lab.github.io/ComfyUI-RMBG/) · 个人维护
+⭐ 2,200 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/1038lab/ComfyUI-RMBG) · [官网](https://1038lab.github.io/ComfyUI-RMBG/) · 个人维护
 
 **ComfyUI 图像抠图与分割节点集，覆盖背景移除和人脸/服装分割**
 

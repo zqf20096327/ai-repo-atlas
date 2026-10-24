@@ -1,6 +1,6 @@
 # cossistantcom/cossistant
 
-⭐ 737 · TypeScript · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/cossistantcom/cossistant) · [官网](https://cossistant.com) · 组织维护
+⭐ 736 · TypeScript · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/cossistantcom/cossistant) · [官网](https://cossistant.com) · 组织维护
 
 **开源 React 客服聊天组件：可定制 AI 客服 agent**
 

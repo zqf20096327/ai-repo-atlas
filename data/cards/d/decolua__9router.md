@@ -1,6 +1,6 @@
 # decolua/9router
 
-⭐ 31,290 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/decolua/9router) · [官网](https://9router.com) · 个人维护
+⭐ 31,338 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/decolua/9router) · [官网](https://9router.com) · 个人维护
 
 **为 AI 编码 CLI 工具聚合 40+ 模型提供商的本地路由网关**
 

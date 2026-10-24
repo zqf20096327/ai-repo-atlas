@@ -1,6 +1,6 @@
 # squidKid-deluxe/QTradeX-Algo-Trading-SDK
 
-⭐ 88 · Python · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) · [官网](https://qtradex.litepresence.com) · 个人维护
+⭐ 89 · Python · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) · [官网](https://qtradex.litepresence.com) · 个人维护
 
 **加密货币量化交易框架：设计、回测与优化交易机器人**
 

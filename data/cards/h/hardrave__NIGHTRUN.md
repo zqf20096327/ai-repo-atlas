@@ -1,6 +1,6 @@
 # hardrave/NIGHTRUN
 
-⭐ 301 · Rust · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/hardrave/NIGHTRUN) · [官网](https://nightrun.io) · 个人维护
+⭐ 302 · Rust · NOASSERTION · 推送 2026-07-27 · [GitHub](https://github.com/hardrave/NIGHTRUN) · [官网](https://nightrun.io) · 个人维护
 
 **无操作系统、直接从 UEFI 启动的本地 LLM 对话运行时**
 

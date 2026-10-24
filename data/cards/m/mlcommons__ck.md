@@ -1,6 +1,6 @@
 # mlcommons/ck
 
-⭐ 649 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mlcommons/ck) · [官网](https://cTuning.ai/project/cmeta) · 组织维护
+⭐ 649 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/mlcommons/ck) · [官网](https://cTuning.ai/project/cmeta) · 组织维护
 
 **MLCommons 维护的 ML/MLOps 自动化框架，自动化运行与基准测试**
 

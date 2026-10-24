@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Automodel
 
-⭐ 1,046 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA-NeMo/Automodel) · [官网](https://docs.nvidia.com/nemo/automodel/nightly) · 组织维护
+⭐ 1,047 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA-NeMo/Automodel) · [官网](https://docs.nvidia.com/nemo/automodel/nightly) · 组织维护
 
 **面向 LLM/VLM 等的 PyTorch 分布式训练与微调库**
 

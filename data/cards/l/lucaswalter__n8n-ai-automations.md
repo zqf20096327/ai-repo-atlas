@@ -1,6 +1,6 @@
 # lucaswalter/n8n-ai-automations
 
-⭐ 1,670 · 推送 2026-03-02 · [GitHub](https://github.com/lucaswalter/n8n-ai-automations) · [官网](https://www.skool.com/ai-automation-mastery-group) · 组织维护
+⭐ 1,671 · 推送 2026-03-02 · [GitHub](https://github.com/lucaswalter/n8n-ai-automations) · [官网](https://www.skool.com/ai-automation-mastery-group) · 组织维护
 
 **n8n AI 工作流与 Agent 模板合集，面向 AI 自动化学习者**
 

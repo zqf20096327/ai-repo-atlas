@@ -1,6 +1,6 @@
 # miantiao-me/hacker-podcast
 
-⭐ 2,597 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/miantiao-me/hacker-podcast) · [官网](https://hacker-podcast.agi.li) · 个人维护 · 中文 README
+⭐ 2,599 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/miantiao-me/hacker-podcast) · [官网](https://hacker-podcast.agi.li) · 个人维护 · 中文 README
 
 **AI 自动生成的 Hacker News 中文播客站，每日更新**
 

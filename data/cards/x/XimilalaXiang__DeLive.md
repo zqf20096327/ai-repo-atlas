@@ -1,6 +1,6 @@
 # XimilalaXiang/DeLive
 
-⭐ 272 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/XimilalaXiang/DeLive) · [官网](https://delive.me) · 个人维护 · 中文 README
+⭐ 267 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/XimilalaXiang/DeLive) · [官网](https://delive.me) · 个人维护 · 中文 README
 
 **桌面系统音频转录工作台：实时字幕 + 14 种 ASR 后端 + AI 审阅**
 

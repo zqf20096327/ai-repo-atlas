@@ -1,6 +1,6 @@
 # orcasound/orcahello
 
-⭐ 62 · C# · MIT · 推送 2026-10-17 · [GitHub](https://github.com/orcasound/orcahello) · [官网](http://ai4orcas.net/orcahello) · 组织维护
+⭐ 62 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/orcasound/orcahello) · [官网](http://ai4orcas.net/orcahello) · 组织维护
 
 **实时虎鲸叫声 AI 检测与通知系统（模型+审核门户）**
 

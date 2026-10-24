@@ -1,6 +1,6 @@
 # lmstudio-ai/lmstudio-js
 
-⭐ 1,800 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lmstudio-ai/lmstudio-js) · [官网](https://www.npmjs.com/package/@lmstudio/sdk) · 组织维护
+⭐ 1,801 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lmstudio-ai/lmstudio-js) · [官网](https://www.npmjs.com/package/@lmstudio/sdk) · 组织维护
 
 **LM Studio 官方 TypeScript SDK：在 TS 中调用本地 LLM**
 

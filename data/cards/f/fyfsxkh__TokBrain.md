@@ -1,6 +1,6 @@
 # fyfsxkh/TokBrain
 
-⭐ 92 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/fyfsxkh/TokBrain) · 个人维护 · 中文 README
+⭐ 93 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/fyfsxkh/TokBrain) · 个人维护 · 中文 README
 
 **把抖音公开作品整理成本地多模态知识库并支持 RAG 问答**
 

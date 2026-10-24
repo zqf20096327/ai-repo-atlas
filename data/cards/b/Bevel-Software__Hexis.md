@@ -1,6 +1,6 @@
 # Bevel-Software/Hexis
 
-⭐ 119 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Bevel-Software/Hexis) · [官网](https://demo.bevel.software/) · 组织维护
+⭐ 120 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Bevel-Software/Hexis) · [官网](https://demo.bevel.software/) · 组织维护
 
 **自托管、Git 存储的 AI agent 技能/工具/上下文管理平台**
 

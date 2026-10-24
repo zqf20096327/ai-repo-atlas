@@ -1,6 +1,6 @@
 # musnows/scriverse
 
-⭐ 225 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/musnows/scriverse) · [官网](https://scriverse.top) · 个人维护 · 中文 README
+⭐ 226 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/musnows/scriverse) · [官网](https://scriverse.top) · 个人维护 · 中文 README
 
 **面向长篇小说的本地 AI 创作工作台（自部署 Web 应用）**
 

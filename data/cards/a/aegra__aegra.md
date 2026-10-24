@@ -1,6 +1,6 @@
 # aegra/aegra
 
-⭐ 1,277 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aegra/aegra) · [官网](https://aegra.dev) · 组织维护
+⭐ 1,278 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/aegra/aegra) · [官网](https://aegra.dev) · 组织维护
 
 **LangSmith Deployments 的自托管开源替代：运行 LangGraph agent 后端**
 

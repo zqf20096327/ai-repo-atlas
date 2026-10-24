@@ -1,6 +1,6 @@
 # control-theory/gonzo
 
-⭐ 2,788 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/control-theory/gonzo) · [官网](https://www.controltheory.com/gonzo/) · 组织维护
+⭐ 2,789 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/control-theory/gonzo) · [官网](https://www.controltheory.com/gonzo/) · 组织维护
 
 **Go 编写的终端日志分析 TUI，支持 AI 洞察与 OTLP 接收**
 

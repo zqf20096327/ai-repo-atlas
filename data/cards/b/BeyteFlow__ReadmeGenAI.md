@@ -1,6 +1,6 @@
 # BeyteFlow/ReadmeGenAI
 
-⭐ 115 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/BeyteFlow/ReadmeGenAI) · [官网](https://readmegen-ai.vercel.app/) · 组织维护
+⭐ 115 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/BeyteFlow/ReadmeGenAI) · [官网](https://readmegen-ai.vercel.app/) · 组织维护
 
 **为 GitHub 仓库用 AI 生成 README.md 的 Web 应用**
 

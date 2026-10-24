@@ -1,6 +1,6 @@
 # aws-samples/sample-mobile-ai-assistant
 
-⭐ 862 · TypeScript · MIT-0 · 推送 2026-10-19 · [GitHub](https://github.com/aws-samples/sample-mobile-ai-assistant) · 组织维护 · 中文 README
+⭐ 863 · TypeScript · MIT-0 · 推送 2026-10-19 · [GitHub](https://github.com/aws-samples/sample-mobile-ai-assistant) · 组织维护 · 中文 README
 
 **AWS 出品的跨平台移动 AI 助手应用（聊天/生图/建应用）**
 

@@ -1,6 +1,6 @@
 # denven/mediascribe
 
-⭐ 60 · Python · MIT · 推送 2026-04-16 · [GitHub](https://github.com/denven/mediascribe) · 个人维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-04-16 · [GitHub](https://github.com/denven/mediascribe) · 个人维护 · 中文 README
 
 **音视频与文本转录+摘要的 CLI 工具，支持本地/云端后端**
 

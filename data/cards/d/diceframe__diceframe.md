@@ -1,6 +1,6 @@
 # diceframe/diceframe
 
-⭐ 132 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/diceframe/diceframe) · [官网](https://diceframe.com) · 组织维护 · 中文 README
+⭐ 132 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/diceframe/diceframe) · [官网](https://diceframe.com) · 组织维护 · 中文 README
 
 **自部署 AI 跑团（TRPG）引擎：多人 WebUI 跑 D&D/COC 等规则**
 

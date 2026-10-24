@@ -1,6 +1,6 @@
 # zai-org/GLM-4.5
 
-⭐ 4,423 · Python · Apache-2.0 · 推送 2026-02-01 · [GitHub](https://github.com/zai-org/GLM-4.5) · [官网](https://z.ai/blog/glm-4.5) · 组织维护 · 中文 README
+⭐ 4,424 · Python · Apache-2.0 · 推送 2026-02-01 · [GitHub](https://github.com/zai-org/GLM-4.5) · [官网](https://z.ai/blog/glm-4.5) · 组织维护 · 中文 README
 
 **智谱开源的 Agentic/推理/编码基础模型（GLM-4.5/4.6/4.7 系列）**
 

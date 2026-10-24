@@ -1,6 +1,6 @@
 # braedonsaunders/bidwright
 
-⭐ 74 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/braedonsaunders/bidwright) · [官网](https://demo.bidwright.app) · 个人维护
+⭐ 74 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/braedonsaunders/bidwright) · [官网](https://demo.bidwright.app) · 个人维护
 
 **面向建筑投标的 AI 代理估价平台：从标书接收到报价交付**
 

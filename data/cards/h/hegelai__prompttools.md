@@ -1,6 +1,6 @@
 # hegelai/prompttools
 
-⭐ 3,059 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/hegelai/prompttools) · [官网](http://prompttools.readthedocs.io) · 组织维护
+⭐ 3,060 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/hegelai/prompttools) · [官网](http://prompttools.readthedocs.io) · 组织维护
 
 **给开发者的 LLM 与向量数据库提示词测试评测工具集**
 

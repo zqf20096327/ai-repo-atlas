@@ -1,6 +1,6 @@
 # ArgoHA/D-FINE-seg
 
-⭐ 220 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ArgoHA/D-FINE-seg) · [官网](https://arxiv.org/abs/2602.23043) · 个人维护
+⭐ 219 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ArgoHA/D-FINE-seg) · [官网](https://arxiv.org/abs/2602.23043) · 个人维护
 
 **实时目标检测与实例/语义分割训练推理框架，面向开发者**
 

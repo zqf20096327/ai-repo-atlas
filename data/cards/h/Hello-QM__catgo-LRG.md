@@ -1,6 +1,6 @@
 # Hello-QM/catgo-LRG
 
-⭐ 209 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Hello-QM/catgo-LRG) · 组织维护 · 中文 README
+⭐ 208 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Hello-QM/catgo-LRG) · 组织维护 · 中文 README
 
 **面向计算材料科学研究者的 AI 工作台：建模、工作流与 HPC 一体化**
 

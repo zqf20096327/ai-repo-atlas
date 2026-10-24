@@ -1,6 +1,6 @@
 # RamiKrispin/ai-dev-2024-ml-workshop
 
-⭐ 93 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/RamiKrispin/ai-dev-2024-ml-workshop) · [官网](https://ramikrispin.github.io/ai-dev-2024-ml-workshop/) · 个人维护
+⭐ 93 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/RamiKrispin/ai-dev-2024-ml-workshop) · [官网](https://ramikrispin.github.io/ai-dev-2024-ml-workshop/) · 个人维护
 
 **AI Dev 2024 会议工作坊材料：用开源工具部署与监控 ML 流水线**
 

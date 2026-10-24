@@ -1,6 +1,6 @@
 # suhaibbinyounis/github-copilot-api-vscode
 
-⭐ 128 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/suhaibbinyounis/github-copilot-api-vscode) · [官网](https://copilot-api.suhaib.in) · 个人维护
+⭐ 128 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/suhaibbinyounis/github-copilot-api-vscode) · [官网](https://copilot-api.suhaib.in) · 个人维护
 
 **把 GitHub Copilot 等 VS Code AI 变成本地 OpenAI 兼容 API 网关**
 

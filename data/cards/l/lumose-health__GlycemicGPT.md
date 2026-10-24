@@ -1,6 +1,6 @@
 # lumose-health/GlycemicGPT
 
-⭐ 142 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/lumose-health/GlycemicGPT) · [官网](https://glycemicgpt.org) · 组织维护
+⭐ 142 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/lumose-health/GlycemicGPT) · [官网](https://glycemicgpt.org) · 组织维护
 
 **糖尿病自管理平台：直连 CGM 与胰岛素泵并提供 AI 分析**
 

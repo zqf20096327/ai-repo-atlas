@@ -1,6 +1,6 @@
 # MoonshotAI/MoonEP
 
-⭐ 1,190 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/MoonshotAI/MoonEP) · 组织维护
+⭐ 1,192 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/MoonshotAI/MoonEP) · 组织维护
 
 **MoE 专家并行通信库：通过动态冗余专家保持 token 负载均衡**
 

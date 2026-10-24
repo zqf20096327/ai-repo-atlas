@@ -1,6 +1,6 @@
 # coder/boo
 
-⭐ 791 · Zig · MIT · 推送 2026-07-05 · [GitHub](https://github.com/coder/boo) · 组织维护
+⭐ 790 · Zig · MIT · 推送 2026-07-05 · [GitHub](https://github.com/coder/boo) · 组织维护
 
 **GNU screen 风格的终端复用器，供脚本与 AI agent 驱动终端**
 

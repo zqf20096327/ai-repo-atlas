@@ -1,6 +1,6 @@
 # EthanYoQ/AI-Novel-Writer
 
-⭐ 1,747 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/EthanYoQ/AI-Novel-Writer) · [官网](https://github.com/EthanYoQ/AI-Novel-Writer/releases/latest) · 个人维护 · 中文 README
+⭐ 1,772 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/EthanYoQ/AI-Novel-Writer) · [官网](https://github.com/EthanYoQ/AI-Novel-Writer/releases/latest) · 个人维护 · 中文 README
 
 **面向长篇小说与网文连载的 AI 写作桌面软件**
 

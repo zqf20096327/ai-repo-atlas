@@ -1,6 +1,6 @@
 # Epistates/turbovault
 
-⭐ 155 · Rust · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Epistates/turbovault) · 个人维护
+⭐ 155 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Epistates/turbovault) · 个人维护
 
 **让 AI agent 安全读写 Obsidian 笔记库的 MCP 服务器与 Rust crate**
 

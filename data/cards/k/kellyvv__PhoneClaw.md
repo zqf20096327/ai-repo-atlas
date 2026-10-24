@@ -1,6 +1,6 @@
 # kellyvv/PhoneClaw
 
-⭐ 1,280 · Swift · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/kellyvv/PhoneClaw) · [官网](https://kellyvv.github.io/PhoneClaw/) · 个人维护 · 中文 README
+⭐ 1,279 · Swift · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/kellyvv/PhoneClaw) · [官网](https://kellyvv.github.io/PhoneClaw/) · 个人维护 · 中文 README
 
 **把 iPhone 变成本地 AI agent 运行时的 iOS 应用**
 

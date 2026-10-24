@@ -1,6 +1,6 @@
 # robotology/yarp
 
-⭐ 606 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/robotology/yarp) · [官网](http://www.yarp.it) · 组织维护
+⭐ 605 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/robotology/yarp) · [官网](http://www.yarp.it) · 组织维护
 
 **机器人进程间通信与设备接口的中间件库和工具集**
 

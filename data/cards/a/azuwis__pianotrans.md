@@ -1,6 +1,6 @@
 # azuwis/pianotrans
 
-⭐ 1,536 · Nix · 推送 2026-09-14 · [GitHub](https://github.com/azuwis/pianotrans) · 个人维护
+⭐ 1,535 · Nix · 推送 2026-09-14 · [GitHub](https://github.com/azuwis/pianotrans) · 个人维护
 
 **钢琴转录模型 ByteDance Piano Transcription 的 GUI 封装，音频转 MIDI**
 

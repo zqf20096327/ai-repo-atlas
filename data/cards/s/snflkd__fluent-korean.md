@@ -1,6 +1,6 @@
 # snflkd/fluent-korean
 
-⭐ 1,450 · MIT · 推送 2026-08-23 · [GitHub](https://github.com/snflkd/fluent-korean) · 个人维护
+⭐ 1,451 · MIT · 推送 2026-08-23 · [GitHub](https://github.com/snflkd/fluent-korean) · 个人维护
 
 **让 Claude Code 输出清晰韩语的 output-style 插件**
 

@@ -1,6 +1,6 @@
 # huggingface/transformers.js
 
-⭐ 16,369 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/transformers.js) · [官网](https://huggingface.co/docs/transformers.js) · 组织维护
+⭐ 16,370 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/transformers.js) · [官网](https://huggingface.co/docs/transformers.js) · 组织维护
 
 **Web 开发者在浏览器中运行 Transformer 预训练模型的 JS 库**
 

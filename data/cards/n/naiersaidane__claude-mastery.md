@@ -1,6 +1,6 @@
 # naiersaidane/claude-mastery
 
-⭐ 61 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/naiersaidane/claude-mastery) · 组织维护
+⭐ 62 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/naiersaidane/claude-mastery) · 组织维护
 
 **面向 Claude Code 的 8 个开发流程技能（问答/规划/设计/交付）**
 

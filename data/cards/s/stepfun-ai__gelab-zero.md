@@ -1,6 +1,6 @@
 # stepfun-ai/gelab-zero
 
-⭐ 2,290 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/stepfun-ai/gelab-zero) · [官网](https://opengelab.github.io/) · 组织维护 · 中文 README
+⭐ 2,289 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/stepfun-ai/gelab-zero) · [官网](https://opengelab.github.io/) · 组织维护 · 中文 README
 
 **开源 GUI Agent：4B 手机操作模型加本地推理工程设施**
 

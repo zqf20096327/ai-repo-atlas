@@ -1,6 +1,6 @@
 # fangqian616/consensus-pipeline
 
-⭐ 130 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/fangqian616/consensus-pipeline) · [官网](https://consensus-pipeline.streamlit.app/) · 个人维护 · 中文 README
+⭐ 120 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/fangqian616/consensus-pipeline) · [官网](https://consensus-pipeline.streamlit.app/) · 个人维护 · 中文 README
 
 **多智能体辩论式文献综述生成管线，附引用核验与置信标注**
 

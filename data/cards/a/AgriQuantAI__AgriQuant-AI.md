@@ -1,6 +1,6 @@
 # AgriQuantAI/AgriQuant-AI
 
-⭐ 646 · Python · 推送 2026-05-26 · [GitHub](https://github.com/AgriQuantAI/AgriQuant-AI) · [官网](https://agriquant.ai) · 组织维护
+⭐ 644 · Python · 推送 2026-05-26 · [GitHub](https://github.com/AgriQuantAI/AgriQuant-AI) · [官网](https://agriquant.ai) · 组织维护
 
 **预测六大农产品期货价格波动的 AI 天气情报系统**
 

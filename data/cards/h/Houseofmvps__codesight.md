@@ -1,6 +1,6 @@
 # Houseofmvps/codesight
 
-⭐ 1,420 · TypeScript · MIT · 推送 2026-07-27 · [GitHub](https://github.com/Houseofmvps/codesight) · [官网](https://github.com/Houseofmvps/codesight) · 个人维护
+⭐ 1,417 · TypeScript · MIT · 推送 2026-07-27 · [GitHub](https://github.com/Houseofmvps/codesight) · [官网](https://github.com/Houseofmvps/codesight) · 个人维护
 
 **为 AI 编程助手生成代码库上下文地图的 CLI 工具**
 

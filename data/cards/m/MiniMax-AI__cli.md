@@ -1,6 +1,6 @@
 # MiniMax-AI/cli
 
-⭐ 2,203 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/MiniMax-AI/cli) · [官网](https://platform.minimax.io/subscribe/token-plan) · 组织维护 · 中文 README
+⭐ 2,206 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/MiniMax-AI/cli) · [官网](https://platform.minimax.io/subscribe/token-plan) · 组织维护 · 中文 README
 
 **MiniMax 官方 CLI：在终端/Agent 中调用文本、图像、视频、语音生成**
 

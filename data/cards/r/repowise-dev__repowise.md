@@ -1,6 +1,6 @@
 # repowise-dev/repowise
 
-⭐ 7,892 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/repowise-dev/repowise) · [官网](https://repowise.dev) · 组织维护
+⭐ 7,893 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/repowise-dev/repowise) · [官网](https://repowise.dev) · 组织维护
 
 **本地代码库索引工具：为开发者与编码代理提供代码健康、调用图与变更风险**
 

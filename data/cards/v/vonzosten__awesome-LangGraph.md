@@ -1,6 +1,6 @@
 # vonzosten/awesome-LangGraph
 
-⭐ 2,029 · JavaScript · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/vonzosten/awesome-LangGraph) · 个人维护
+⭐ 2,030 · JavaScript · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/vonzosten/awesome-LangGraph) · 个人维护
 
 **LangChain/LangGraph 生态的索引清单：框架、模板与项目导航**
 

@@ -1,6 +1,6 @@
 # SapienXai/AgentOS
 
-⭐ 128 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SapienXai/AgentOS) · [官网](https://agentos.sapienx.app/) · 组织维护
+⭐ 129 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SapienXai/AgentOS) · [官网](https://agentos.sapienx.app/) · 组织维护
 
 **运行数字员工团队的操作层：基于 OpenClaw 管理 agent、任务与审批**
 

@@ -1,6 +1,6 @@
 # thekevinscott/UpscalerJS
 
-⭐ 903 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/thekevinscott/UpscalerJS) · [官网](https://upscalerjs.com) · 个人维护
+⭐ 904 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/thekevinscott/UpscalerJS) · [官网](https://upscalerjs.com) · 个人维护
 
 **JavaScript 图像超分辨率与增强库，浏览器/Node 均可用**
 

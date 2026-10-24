@@ -1,6 +1,6 @@
 # intelligentnode/Intelli
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/intelligentnode/Intelli) · [官网](https://intellinode.ai) · 组织维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/intelligentnode/Intelli) · [官网](https://intellinode.ai) · 组织维护
 
 **构建聊天机器人与 AI agent 工作流的 Python 框架**
 

@@ -1,6 +1,6 @@
 # ActiveCampaign/postmark-mcp
 
-⭐ 59 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ActiveCampaign/postmark-mcp) · [官网](https://postmarkapp.com/lp/mcp) · 组织维护
+⭐ 60 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ActiveCampaign/postmark-mcp) · [官网](https://postmarkapp.com/lp/mcp) · 组织维护
 
 **官方 Postmark MCP 服务器：让 AI 助手发送与诊断邮件**
 

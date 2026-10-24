@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-canvas
 
-⭐ 301 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-canvas) · [官网](https://agricidaniel.com/blog/claude-canvas-ai-visual-production) · 个人维护
+⭐ 300 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-canvas) · [官网](https://agricidaniel.com/blog/claude-canvas-ai-visual-production) · 个人维护
 
 **Claude Code 驱动的 Obsidian Canvas 可视化生产技能插件**
 

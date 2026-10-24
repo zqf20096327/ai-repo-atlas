@@ -1,6 +1,6 @@
 # wkentaro/imgviz
 
-⭐ 268 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/wkentaro/imgviz) · 个人维护
+⭐ 268 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wkentaro/imgviz) · 个人维护
 
 **轻量图像可视化库：为深度学习/视觉任务提供低依赖绘图**
 

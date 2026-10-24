@@ -1,6 +1,6 @@
 # notoriouslab/vault-curate
 
-⭐ 159 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/notoriouslab/vault-curate) · [官网](https://community.obsidian.md/plugins/vault-curate) · 个人维护 · 中文 README
+⭐ 160 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/notoriouslab/vault-curate) · [官网](https://community.obsidian.md/plugins/vault-curate) · 个人维护 · 中文 README
 
 **Obsidian 笔记的本地语义搜索与关联发现插件**
 

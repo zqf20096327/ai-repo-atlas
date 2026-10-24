@@ -1,6 +1,6 @@
 # kunickiaj/codemem
 
-⭐ 73 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kunickiaj/codemem) · [官网](https://codemem.sh) · 个人维护
+⭐ 73 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kunickiaj/codemem) · [官网](https://codemem.sh) · 个人维护
 
 **为 OpenCode/Claude Code 等编码代理提供跨会话持久记忆**
 

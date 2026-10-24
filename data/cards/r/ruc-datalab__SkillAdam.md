@@ -1,6 +1,6 @@
 # ruc-datalab/SkillAdam
 
-⭐ 101 · Python · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/ruc-datalab/SkillAdam) · 组织维护 · 中文 README
+⭐ 100 · Python · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/ruc-datalab/SkillAdam) · 组织维护 · 中文 README
 
 **自动测试并改进 AI agent 的 SKILL.md 技能文件的工具**
 

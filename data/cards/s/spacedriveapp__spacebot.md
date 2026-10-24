@@ -1,6 +1,6 @@
 # spacedriveapp/spacebot
 
-⭐ 2,422 · Rust · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/spacedriveapp/spacebot) · [官网](https://spacebot.sh) · 组织维护
+⭐ 2,421 · Rust · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/spacedriveapp/spacebot) · [官网](https://spacebot.sh) · 组织维护
 
 **面向团队与社区的多线程 AI agent 编排基础设施**
 

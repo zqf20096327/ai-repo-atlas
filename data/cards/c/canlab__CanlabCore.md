@@ -1,6 +1,6 @@
 # canlab/CanlabCore
 
-⭐ 171 · MATLAB · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/canlab/CanlabCore) · [官网](https://canlab.github.io/CanlabCore/) · 组织维护
+⭐ 171 · MATLAB · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/canlab/CanlabCore) · [官网](https://canlab.github.io/CanlabCore/) · 组织维护
 
 **MATLAB 神经影像（fMRI/PET）分析核心工具箱**
 

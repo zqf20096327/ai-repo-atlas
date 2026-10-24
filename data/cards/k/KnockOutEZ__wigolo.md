@@ -1,6 +1,6 @@
 # KnockOutEZ/wigolo
 
-⭐ 5,502 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/KnockOutEZ/wigolo) · [官网](https://wigolo.app) · 个人维护
+⭐ 5,500 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/KnockOutEZ/wigolo) · [官网](https://wigolo.app) · 个人维护
 
 **面向 AI 编程代理的本地优先网络搜索/抓取/爬取 MCP 工具服务器**
 

@@ -1,6 +1,6 @@
 # tinyhumansai/tinyagents
 
-⭐ 125 · Rust · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/tinyhumansai/tinyagents) · [官网](https://github.com/tinyhumansai/tinyagents/wiki) · 组织维护
+⭐ 125 · Rust · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/tinyhumansai/tinyagents) · [官网](https://github.com/tinyhumansai/tinyagents/wiki) · 组织维护
 
 **面向 Rust 的供应商中立 agent 框架与持久化状态图运行时**
 

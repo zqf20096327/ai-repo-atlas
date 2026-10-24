@@ -1,6 +1,6 @@
 # oliver-kriska/scribe
 
-⭐ 66 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/oliver-kriska/scribe) · [官网](https://getscribe.dev/) · 个人维护
+⭐ 67 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/oliver-kriska/scribe) · [官网](https://getscribe.dev/) · 个人维护
 
 **自动构建跨项目个人知识库的单二进制 CLI，供编码 agent 检索**
 

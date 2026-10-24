@@ -1,6 +1,6 @@
 # agentic-box/memora
 
-⭐ 744 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/agentic-box/memora) · 组织维护
+⭐ 744 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/agentic-box/memora) · 组织维护
 
 **给 AI agent 提供持久共享记忆的 MCP 记忆层服务**
 

@@ -1,6 +1,6 @@
 # expectedparrot/edsl
 
-⭐ 508 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/expectedparrot/edsl) · [官网](https://docs.expectedparrot.com) · 组织维护
+⭐ 508 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/expectedparrot/edsl) · [官网](https://docs.expectedparrot.com) · 组织维护
 
 **用 AI agent 和 LLM 设计、运行和分析调查与实验的 DSL 框架**
 

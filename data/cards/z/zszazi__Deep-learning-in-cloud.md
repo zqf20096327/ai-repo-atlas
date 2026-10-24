@@ -1,6 +1,6 @@
 # zszazi/Deep-learning-in-cloud
 
-⭐ 826 · MIT · 推送 2026-10-16 · [GitHub](https://github.com/zszazi/Deep-learning-in-cloud) · 个人维护
+⭐ 826 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zszazi/Deep-learning-in-cloud) · 个人维护
 
 **深度学习云 GPU/MLOps 平台策展清单：比价与免费额度**
 

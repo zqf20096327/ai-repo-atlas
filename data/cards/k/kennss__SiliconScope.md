@@ -1,6 +1,6 @@
 # kennss/SiliconScope
 
-⭐ 1,004 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kennss/SiliconScope) · [官网](https://siliconscope.calidalab.ai/) · 个人维护 · 中文 README
+⭐ 1,003 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kennss/SiliconScope) · [官网](https://siliconscope.calidalab.ai/) · 个人维护 · 中文 README
 
 **Apple Silicon 系统监视器：显示 ANE/显存带宽等 AI 加速器指标**
 

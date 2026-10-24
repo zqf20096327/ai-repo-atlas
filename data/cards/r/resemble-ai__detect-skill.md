@@ -1,6 +1,6 @@
 # resemble-ai/detect-skill
 
-⭐ 93 · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/resemble-ai/detect-skill) · [官网](https://resemble.ai) · 组织维护
+⭐ 94 · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/resemble-ai/detect-skill) · [官网](https://resemble.ai) · 组织维护
 
 **教 AI agent 调用 Resemble API 做 deepfake 检测的技能文件**
 

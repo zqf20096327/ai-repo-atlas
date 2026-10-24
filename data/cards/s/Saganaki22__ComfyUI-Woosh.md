@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Woosh
 
-⭐ 134 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/Saganaki22/ComfyUI-Woosh) · [官网](https://huggingface.co/drbaph/Woosh) · 个人维护 · 中文 README
+⭐ 133 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/Saganaki22/ComfyUI-Woosh) · [官网](https://huggingface.co/drbaph/Woosh) · 个人维护 · 中文 README
 
 **ComfyUI 音效生成节点：用 Woosh 模型做文本/视频转音频**
 

@@ -1,6 +1,6 @@
 # initial-d/ml-quant-trading
 
-⭐ 96 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/initial-d/ml-quant-trading) · [官网](https://initial-d.github.io/ml-quant-trading/) · 个人维护 · 中文 README
+⭐ 97 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/initial-d/ml-quant-trading) · [官网](https://initial-d.github.io/ml-quant-trading/) · 个人维护 · 中文 README
 
 **PyTorch 横截面多因子量化研究库：213 因子到成本感知回测**
 

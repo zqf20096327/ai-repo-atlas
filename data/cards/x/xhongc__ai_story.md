@@ -1,6 +1,6 @@
 # xhongc/ai_story
 
-⭐ 1,901 · Python · 推送 2026-10-13 · [GitHub](https://github.com/xhongc/ai_story) · 个人维护 · 中文 README
+⭐ 1,904 · Python · 推送 2026-10-13 · [GitHub](https://github.com/xhongc/ai_story) · 个人维护 · 中文 README
 
 **输入故事主题自动生成视频的平台：文案→分镜→图片→成片**
 

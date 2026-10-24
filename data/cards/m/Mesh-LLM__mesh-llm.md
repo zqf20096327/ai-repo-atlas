@@ -1,6 +1,6 @@
 # Mesh-LLM/mesh-llm
 
-⭐ 3,546 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Mesh-LLM/mesh-llm) · [官网](http://meshllm.cloud/) · 组织维护
+⭐ 3,551 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Mesh-LLM/mesh-llm) · [官网](http://meshllm.cloud/) · 组织维护
 
 **跨机汇聚 GPU/内存的分布式 LLM 推理网格，暴露 OpenAI 兼容 API**
 

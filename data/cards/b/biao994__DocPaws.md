@@ -1,6 +1,6 @@
 # biao994/DocPaws
 
-⭐ 185 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/biao994/DocPaws) · 个人维护 · 中文 README
+⭐ 182 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/biao994/DocPaws) · 个人维护 · 中文 README
 
 **工程化 RAG 文档助手：知识库、PDF 索引与引用溯源拒答**
 

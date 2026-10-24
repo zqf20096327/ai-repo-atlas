@@ -1,6 +1,6 @@
 # anthropics/claude-code
 
-⭐ 153,152 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/claude-code) · [官网](https://code.claude.com/docs/en/overview) · 组织维护
+⭐ 153,263 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/anthropics/claude-code) · [官网](https://code.claude.com/docs/en/overview) · 组织维护
 
 **终端里的 agentic 编码工具，用自然语言操作代码库**
 

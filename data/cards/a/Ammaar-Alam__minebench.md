@@ -1,6 +1,6 @@
 # Ammaar-Alam/minebench
 
-⭐ 341 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Ammaar-Alam/minebench) · [官网](https://minebench.ai) · 个人维护
+⭐ 341 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Ammaar-Alam/minebench) · [官网](https://minebench.ai) · 个人维护
 
 **Minecraft 体素构建风格的 AI 空间推理评测竞技场**
 

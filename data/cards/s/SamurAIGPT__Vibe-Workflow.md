@@ -1,6 +1,6 @@
 # SamurAIGPT/Vibe-Workflow
 
-⭐ 631 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SamurAIGPT/Vibe-Workflow) · [官网](https://muapi.ai/workflow) · 组织维护
+⭐ 632 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SamurAIGPT/Vibe-Workflow) · [官网](https://muapi.ai/workflow) · 组织维护
 
 **自托管的可视化节点式 AI 图像/视频工作流构建器**
 

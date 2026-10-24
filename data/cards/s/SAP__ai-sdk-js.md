@@ -1,6 +1,6 @@
 # SAP/ai-sdk-js
 
-⭐ 127 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/SAP/ai-sdk-js) · 组织维护
+⭐ 128 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/SAP/ai-sdk-js) · 组织维护
 
 **SAP 官方 AI SDK：接入 SAP AI Core 与生成式 AI Hub 的 JS/TS 工具包**
 

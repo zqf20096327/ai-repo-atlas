@@ -1,6 +1,6 @@
 # dmMaze/BallonsTranslator
 
-⭐ 5,227 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/dmMaze/BallonsTranslator) · 个人维护 · 中文 README
+⭐ 5,230 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/dmMaze/BallonsTranslator) · 个人维护 · 中文 README
 
 **深度学习辅助的漫画机翻与图像/文本编辑桌面工具**
 

@@ -1,6 +1,6 @@
 # ciembor/agent-rules-books
 
-⭐ 3,104 · MIT · 推送 2026-09-10 · [GitHub](https://github.com/ciembor/agent-rules-books) · [官网](https://ciembor.github.io/agent-rules-books/) · 个人维护
+⭐ 3,110 · MIT · 推送 2026-09-10 · [GitHub](https://github.com/ciembor/agent-rules-books) · [官网](https://ciembor.github.io/agent-rules-books/) · 个人维护
 
 **从 14 本软件工程书籍提炼的 AI 编程 agent 规则/技能集**
 

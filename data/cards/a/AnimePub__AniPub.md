@@ -1,6 +1,6 @@
 # AnimePub/AniPub
 
-⭐ 105 · JavaScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/AnimePub/AniPub) · [官网](https://anipub.org) · 组织维护
+⭐ 103 · JavaScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/AnimePub/AniPub) · [官网](https://anipub.org) · 组织维护
 
 **面向动漫观众的开源无广告流媒体网站，含 AI 助手**
 

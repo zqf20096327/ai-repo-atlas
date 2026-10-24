@@ -1,6 +1,6 @@
 # ScrapingBee/chatgpt-scraper-api
 
-⭐ 1,296 · 推送 2026-07-15 · [GitHub](https://github.com/ScrapingBee/chatgpt-scraper-api) · [官网](https://www.scrapingbee.com/features/chatgpt/) · 组织维护
+⭐ 1,295 · 推送 2026-07-15 · [GitHub](https://github.com/ScrapingBee/chatgpt-scraper-api) · [官网](https://www.scrapingbee.com/features/chatgpt/) · 组织维护
 
 **ScrapingBee ChatGPT 抓取 API 的示例与接入指南仓库**
 

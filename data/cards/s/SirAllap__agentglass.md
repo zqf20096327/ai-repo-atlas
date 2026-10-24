@@ -1,6 +1,6 @@
 # SirAllap/agentglass
 
-⭐ 340 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SirAllap/agentglass) · [官网](https://sirallap.github.io/agentglass/) · 个人维护
+⭐ 340 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SirAllap/agentglass) · [官网](https://sirallap.github.io/agentglass/) · 个人维护
 
 **本地桌面工作台：集中查看与审批多个 AI 编码 agent**
 

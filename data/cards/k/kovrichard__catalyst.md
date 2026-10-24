@@ -1,6 +1,6 @@
 # kovrichard/catalyst
 
-⭐ 470 · TypeScript · 推送 2026-09-29 · [GitHub](https://github.com/kovrichard/catalyst) · [官网](https://catalyst.konvert7.com) · 个人维护
+⭐ 469 · TypeScript · 推送 2026-09-29 · [GitHub](https://github.com/kovrichard/catalyst) · [官网](https://catalyst.konvert7.com) · 个人维护
 
 **面向 AI agent 的 Next.js 全栈启动模板：自检 agent 输出并内置 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # anovruzov/NeuralGraph
 
-⭐ 152 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/anovruzov/NeuralGraph) · [官网](myceliclabs.com) · 个人维护
+⭐ 151 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/anovruzov/NeuralGraph) · [官网](myceliclabs.com) · 个人维护
 
 **给 Claude 等 MCP agent 的本地持久化图记忆服务**
 

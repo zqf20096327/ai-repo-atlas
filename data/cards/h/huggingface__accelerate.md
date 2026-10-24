@@ -1,6 +1,6 @@
 # huggingface/accelerate
 
-⭐ 9,922 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/accelerate) · [官网](https://huggingface.co/docs/accelerate) · 组织维护
+⭐ 9,921 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/accelerate) · [官网](https://huggingface.co/docs/accelerate) · 组织维护
 
 **让原生 PyTorch 训练脚本在任意设备/分布式配置上运行的轻量封装库**
 

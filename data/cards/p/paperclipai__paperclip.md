@@ -1,6 +1,6 @@
 # paperclipai/paperclip
 
-⭐ 106,511 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/paperclipai/paperclip) · [官网](https://paperclip.ing) · 组织维护
+⭐ 106,832 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/paperclipai/paperclip) · [官网](https://paperclip.ing) · 组织维护
 
 **开源的团队级 AI agent 编排与治理平台**
 

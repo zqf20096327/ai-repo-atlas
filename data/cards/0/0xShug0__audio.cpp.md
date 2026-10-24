@@ -1,6 +1,6 @@
 # 0xShug0/audio.cpp
 
-⭐ 3,716 · C++ · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/0xShug0/audio.cpp) · 个人维护
+⭐ 3,741 · C++ · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/0xShug0/audio.cpp) · 个人维护
 
 **纯 C++ 音频模型推理引擎：本地运行 TTS/ASR/音乐生成等 110+ 模型**
 

@@ -1,6 +1,6 @@
 # UNfukashigi/Anima-LoRA-Factory
 
-⭐ 82 · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/UNfukashigi/Anima-LoRA-Factory) · 个人维护 · 中文 README
+⭐ 84 · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/UNfukashigi/Anima-LoRA-Factory) · 个人维护 · 中文 README
 
 **无需编程知识、训练 Anima 扩散模型 LoRA 的 GUI 工具**
 

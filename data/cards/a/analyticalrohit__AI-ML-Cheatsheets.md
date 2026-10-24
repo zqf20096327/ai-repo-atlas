@@ -1,6 +1,6 @@
 # analyticalrohit/AI-ML-Cheatsheets
 
-⭐ 1,008 · MIT · 推送 2026-01-06 · [GitHub](https://github.com/analyticalrohit/AI-ML-Cheatsheets) · [官网](https://awesomeneuron.substack.com) · 个人维护
+⭐ 1,009 · MIT · 推送 2026-01-06 · [GitHub](https://github.com/analyticalrohit/AI-ML-Cheatsheets) · [官网](https://awesomeneuron.substack.com) · 个人维护
 
 **斯坦福 AI/ML 速查表合集：学生与开发者快速查阅概念公式**
 

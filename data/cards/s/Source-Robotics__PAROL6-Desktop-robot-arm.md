@@ -1,6 +1,6 @@
 # Source-Robotics/PAROL6-Desktop-robot-arm
 
-⭐ 3,393 · HTML · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) · [官网](https://source-robotics.com/) · 组织维护
+⭐ 3,399 · HTML · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) · [官网](https://source-robotics.com/) · 组织维护
 
 **3D 打印桌面机械臂的开源硬件项目：BOM/STL/文档**
 

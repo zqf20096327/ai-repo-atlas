@@ -1,6 +1,6 @@
 # 1038lab/ComfyUI-QwenVL
 
-⭐ 917 · Python · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/1038lab/ComfyUI-QwenVL) · 个人维护 · 中文 README
+⭐ 918 · Python · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/1038lab/ComfyUI-QwenVL) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点：在 ComfyUI 中运行 Qwen-VL 视觉语言模型**
 

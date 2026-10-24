@@ -1,6 +1,6 @@
 # scarce/axel
 
-⭐ 209 · Swift · 推送 2026-04-28 · [GitHub](https://github.com/scarce/axel) · [官网](https://axel.build) · 个人维护
+⭐ 207 · Swift · 推送 2026-04-28 · [GitHub](https://github.com/scarce/axel) · [官网](https://axel.build) · 个人维护
 
 **macOS 原生任务列表 + AI agent 编排工作台**
 

@@ -1,6 +1,6 @@
 # sosoj92/jarvis-assistant-vocal
 
-⭐ 493 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/sosoj92/jarvis-assistant-vocal) · 个人维护 · 中文 README
+⭐ 501 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/sosoj92/jarvis-assistant-vocal) · 个人维护 · 中文 README
 
 **法语本地语音助手：语音唤起、LLM 推理、控制家庭与 PC**
 

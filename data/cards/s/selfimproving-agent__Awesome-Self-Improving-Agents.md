@@ -1,6 +1,6 @@
 # selfimproving-agent/Awesome-Self-Improving-Agents
 
-⭐ 586 · TeX · MIT · 推送 2026-10-19 · [GitHub](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents) · [官网](https://selfimproving-agent.github.io/) · 组织维护
+⭐ 589 · TeX · MIT · 推送 2026-10-19 · [GitHub](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents) · [官网](https://selfimproving-agent.github.io/) · 组织维护
 
 **自我改进智能体系统论文与资源的策展清单**
 

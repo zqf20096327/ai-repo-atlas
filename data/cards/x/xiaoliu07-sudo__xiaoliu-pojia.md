@@ -1,6 +1,6 @@
 # xiaoliu07-sudo/xiaoliu-pojia
 
-⭐ 59 · Python · 推送 2026-08-04 · [GitHub](https://github.com/xiaoliu07-sudo/xiaoliu-pojia) · 个人维护 · 中文 README
+⭐ 60 · Python · 推送 2026-08-04 · [GitHub](https://github.com/xiaoliu07-sudo/xiaoliu-pojia) · 个人维护 · 中文 README
 
 **Codex CLI 破甲提示词与一键部署工具，解除安全拒绝**
 

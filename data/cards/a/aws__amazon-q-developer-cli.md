@@ -1,6 +1,6 @@
 # aws/amazon-q-developer-cli
 
-⭐ 1,983 · Rust · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/aws/amazon-q-developer-cli) · [官网](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html) · 组织维护
+⭐ 1,984 · Rust · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/aws/amazon-q-developer-cli) · [官网](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html) · 组织维护
 
 **AWS 出品的终端 AI 聊天 CLI（已停止积极维护）**
 

@@ -1,6 +1,6 @@
 # junminhong/awsui
 
-⭐ 126 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/junminhong/awsui) · [官网](https://junminhong.github.io/awsui/) · 个人维护 · 中文 README
+⭐ 124 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/junminhong/awsui) · [官网](https://junminhong.github.io/awsui/) · 个人维护 · 中文 README
 
 **为 CLI 与 AI 编码代理提供经校验的 AWS 上下文启动器**
 

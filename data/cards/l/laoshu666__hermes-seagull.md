@@ -1,6 +1,6 @@
 # laoshu666/hermes-seagull
 
-⭐ 90 · PowerShell · MIT · 推送 2026-09-12 · [GitHub](https://github.com/laoshu666/hermes-seagull) · [官网](https://hermes-agent.nousresearch.com) · 个人维护 · 中文 README
+⭐ 94 · PowerShell · MIT · 推送 2026-09-12 · [GitHub](https://github.com/laoshu666/hermes-seagull) · [官网](https://hermes-agent.nousresearch.com) · 个人维护 · 中文 README
 
 **面向 Hermes Agent 的 CTF/红队 AI 人格插件**
 

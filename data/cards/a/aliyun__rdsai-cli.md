@@ -1,6 +1,6 @@
 # aliyun/rdsai-cli
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-05-02 · [GitHub](https://github.com/aliyun/rdsai-cli) · 组织维护 · 中文 README
+⭐ 64 · Python · Apache-2.0 · 推送 2026-05-02 · [GitHub](https://github.com/aliyun/rdsai-cli) · 组织维护 · 中文 README
 
 **阿里云出品的 AI 数据库命令行工具，自然语言查询与 SQL 优化**
 

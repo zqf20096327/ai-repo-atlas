@@ -1,6 +1,6 @@
 # sitor-ai/frametell
 
-⭐ 390 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/sitor-ai/frametell) · [官网](https://frametell.ai) · 组织维护 · 中文 README
+⭐ 395 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/sitor-ai/frametell) · [官网](https://frametell.ai) · 组织维护 · 中文 README
 
 **面向知识创作者的 AI 解说视频生成桌面应用**
 

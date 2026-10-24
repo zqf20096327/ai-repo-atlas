@@ -1,6 +1,6 @@
 # bwapi/bwapi
 
-⭐ 1,714 · C++ · LGPL-3.0 · 推送 2026-06-10 · [GitHub](https://github.com/bwapi/bwapi) · [官网](http://bwapi.github.io/) · 组织维护
+⭐ 1,713 · C++ · LGPL-3.0 · 推送 2026-06-10 · [GitHub](https://github.com/bwapi/bwapi) · [官网](http://bwapi.github.io/) · 组织维护
 
 **面向星际争霸的 C++ 框架：让学生和研究者开发游戏 AI**
 

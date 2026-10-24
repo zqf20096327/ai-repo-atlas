@@ -1,6 +1,6 @@
 # uoftcprg/pokerkit
 
-⭐ 509 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/uoftcprg/pokerkit) · [官网](https://pokerkit.readthedocs.io/) · 组织维护
+⭐ 510 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/uoftcprg/pokerkit) · [官网](https://pokerkit.readthedocs.io/) · 组织维护
 
 **纯 Python 扑克游戏模拟与牌力评估库，供扑克 AI 开发使用**
 

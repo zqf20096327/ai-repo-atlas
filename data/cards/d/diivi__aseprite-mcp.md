@@ -1,6 +1,6 @@
 # diivi/aseprite-mcp
 
-⭐ 803 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/diivi/aseprite-mcp) · 个人维护
+⭐ 813 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/diivi/aseprite-mcp) · 个人维护
 
 **让 AI 助手通过 MCP 操控 Aseprite 绘制像素画的服务器**
 

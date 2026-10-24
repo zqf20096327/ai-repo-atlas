@@ -1,6 +1,6 @@
 # omroy07/AgriTech
 
-⭐ 126 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/omroy07/AgriTech) · [官网](https://agri-tech-6rs5.vercel.app/) · 组织维护 · 中文 README
+⭐ 128 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/omroy07/AgriTech) · [官网](https://agri-tech-6rs5.vercel.app/) · 组织维护 · 中文 README
 
 **面向农民的 AI 农业平台：作物推荐、产量预测、病害检测**
 

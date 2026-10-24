@@ -1,6 +1,6 @@
 # OSCC-Project/AiEDA
 
-⭐ 90 · Python · MulanPSL-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/OSCC-Project/AiEDA) · 组织维护
+⭐ 89 · Python · MulanPSL-2.0 · 推送 2026-04-02 · [GitHub](https://github.com/OSCC-Project/AiEDA) · 组织维护
 
 **面向芯片设计者的 AI 原生 EDA 库：设计流程执行与设计数据向量化**
 

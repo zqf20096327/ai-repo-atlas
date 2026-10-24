@@ -1,6 +1,6 @@
 # danyuchn/pii-guard
 
-⭐ 251 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/danyuchn/pii-guard) · 个人维护 · 中文 README
+⭐ 252 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/danyuchn/pii-guard) · 个人维护 · 中文 README
 
 **繁中（台湾）个资去识别化工具：文件遮蔽后送 AI、可逐字还原**
 

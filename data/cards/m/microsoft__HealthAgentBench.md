@@ -1,6 +1,6 @@
 # microsoft/HealthAgentBench
 
-⭐ 61 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/HealthAgentBench) · 组织维护
+⭐ 61 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/HealthAgentBench) · 组织维护
 
 **评测健康医疗 agent 的终端基准套件（54 任务，7 类）**
 

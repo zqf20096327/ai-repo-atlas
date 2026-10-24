@@ -1,6 +1,6 @@
 # e2b-dev/ai-analyst
 
-⭐ 385 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/e2b-dev/ai-analyst) · [官网](https://ai-analyst.e2b.dev) · 组织维护
+⭐ 383 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/e2b-dev/ai-analyst) · [官网](https://ai-analyst.e2b.dev) · 组织维护
 
 **基于 E2B 沙箱的 AI 数据分析工具：用 Llama 3.1 分析 CSV 并生成交互图表**
 

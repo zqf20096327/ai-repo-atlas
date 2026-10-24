@@ -1,6 +1,6 @@
 # MedChaouch/Puzld.ai
 
-⭐ 272 · TypeScript · AGPL-3.0 · 推送 2026-01-01 · [GitHub](https://github.com/MedChaouch/Puzld.ai) · [官网](https://docs.puzld.cc) · 个人维护
+⭐ 271 · TypeScript · AGPL-3.0 · 推送 2026-01-01 · [GitHub](https://github.com/MedChaouch/Puzld.ai) · [官网](https://docs.puzld.cc) · 个人维护
 
 **终端多 LLM 编排框架：路由、协作、代理执行与训练数据生成**
 

@@ -1,6 +1,6 @@
 # thedaviddias/souls-directory
 
-⭐ 167 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/thedaviddias/souls-directory) · [官网](https://souls.directory) · 个人维护
+⭐ 168 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/thedaviddias/souls-directory) · [官网](https://souls.directory) · 个人维护
 
 **OpenClaw 智能体 SOUL.md 人格模板策展目录**
 

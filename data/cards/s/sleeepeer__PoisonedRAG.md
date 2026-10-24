@@ -1,6 +1,6 @@
 # sleeepeer/PoisonedRAG
 
-⭐ 305 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/sleeepeer/PoisonedRAG) · [官网](https://arxiv.org/abs/2402.07867) · 个人维护
+⭐ 306 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/sleeepeer/PoisonedRAG) · [官网](https://arxiv.org/abs/2402.07867) · 个人维护
 
 **面向科研：针对 RAG 系统的知识库投毒攻击复现代码**
 

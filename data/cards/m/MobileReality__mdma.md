@@ -1,6 +1,6 @@
 # MobileReality/mdma
 
-⭐ 71 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/MobileReality/mdma) · 组织维护
+⭐ 71 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MobileReality/mdma) · 组织维护
 
 **让 LLM 输出可交互组件的 Markdown 扩展规范与工具链**
 

@@ -1,6 +1,6 @@
 # raullenchai/esp32-thinks
 
-⭐ 251 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/raullenchai/esp32-thinks) · 个人维护
+⭐ 253 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/raullenchai/esp32-thinks) · 个人维护
 
 **ESP32 个人 AI 语音助手固件：可自选任意 OpenAI 兼容模型**
 

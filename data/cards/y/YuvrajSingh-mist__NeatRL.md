@@ -1,6 +1,6 @@
 # YuvrajSingh-mist/NeatRL
 
-⭐ 232 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/YuvrajSingh-mist/NeatRL) · [官网](https://www.smolhub.com/rl) · 个人维护
+⭐ 232 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/YuvrajSingh-mist/NeatRL) · [官网](https://www.smolhub.com/rl) · 个人维护
 
 **单文件 PyTorch 深度强化学习算法库，供研究与实验**
 

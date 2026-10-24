@@ -1,6 +1,6 @@
 # Mirascope/mirascope
 
-⭐ 1,537 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Mirascope/mirascope) · [官网](https://mirascope.com) · 组织维护
+⭐ 1,535 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Mirascope/mirascope) · [官网](https://mirascope.com) · 组织维护
 
 **统一接口调用各类前沿 LLM 的 Python/TS 库**
 

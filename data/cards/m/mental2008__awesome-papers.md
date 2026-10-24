@@ -1,6 +1,6 @@
 # mental2008/awesome-papers
 
-⭐ 232 · JavaScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/mental2008/awesome-papers) · [官网](https://paper.lingyunyang.com/) · 个人维护 · 中文 README
+⭐ 233 · JavaScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/mental2008/awesome-papers) · [官网](https://paper.lingyunyang.com/) · 个人维护 · 中文 README
 
 **个人学术论文阅读笔记库：ML 系统与 AI 基础设施**
 

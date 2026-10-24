@@ -1,6 +1,6 @@
 # Ojhaharsh/30u30
 
-⭐ 1,599 · Python · NOASSERTION · 推送 2026-02-19 · [GitHub](https://github.com/Ojhaharsh/30u30) · [官网](https://ojhaharsh.github.io/30u30/) · 个人维护
+⭐ 1,628 · Python · NOASSERTION · 推送 2026-02-19 · [GitHub](https://github.com/Ojhaharsh/30u30) · [官网](https://ojhaharsh.github.io/30u30/) · 个人维护
 
 **30 天精读 Ilya 推荐的 30 篇 AI 奠基论文的学习指南**
 

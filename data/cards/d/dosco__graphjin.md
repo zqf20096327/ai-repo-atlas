@@ -1,6 +1,6 @@
 # dosco/graphjin
 
-⭐ 3,221 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/dosco/graphjin) · [官网](https://graphjin.com) · 个人维护
+⭐ 3,222 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/dosco/graphjin) · [官网](https://graphjin.com) · 个人维护
 
 **面向 AI agent 的统一受治数据图：GraphQL+MCP 接入数据库与代码**
 

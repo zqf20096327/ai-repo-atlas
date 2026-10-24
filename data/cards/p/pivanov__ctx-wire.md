@@ -1,6 +1,6 @@
 # pivanov/ctx-wire
 
-⭐ 88 · Go · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pivanov/ctx-wire) · [官网](https://www.ctx-wire.dev/) · 组织维护
+⭐ 90 · Go · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pivanov/ctx-wire) · [官网](https://www.ctx-wire.dev/) · 组织维护
 
 **压缩 AI 编程 agent 命令输出的 CLI 工具：省 token、防泄密**
 

@@ -1,6 +1,6 @@
 # tryAGI/LangChain
 
-⭐ 1,079 · C# · MIT · 推送 2026-10-20 · [GitHub](https://github.com/tryAGI/LangChain) · [官网](https://tryagi.github.io/LangChain/) · 组织维护
+⭐ 1,080 · C# · MIT · 推送 2026-10-20 · [GitHub](https://github.com/tryAGI/LangChain) · [官网](https://tryagi.github.io/LangChain/) · 组织维护
 
 **LangChain 的 C#/.NET 实现：可组合构建 LLM 应用**
 

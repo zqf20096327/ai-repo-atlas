@@ -1,6 +1,6 @@
 # PRQELT/Autonomix
 
-⭐ 216 · C++ · MIT · 推送 2026-05-08 · [GitHub](https://github.com/PRQELT/Autonomix) · 组织维护
+⭐ 215 · C++ · MIT · 推送 2026-05-08 · [GitHub](https://github.com/PRQELT/Autonomix) · 组织维护
 
 **UE5 编辑器内自主开发项目的 AI agent 插件**
 

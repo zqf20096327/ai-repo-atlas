@@ -1,6 +1,6 @@
 # PsProsen-Dev/OpenClawOnAndroid
 
-⭐ 63 · Java · MIT · 推送 2026-06-03 · [GitHub](https://github.com/PsProsen-Dev/OpenClawOnAndroid) · [官网](https://openclawonandroid.mintlify.app/) · 个人维护
+⭐ 62 · Java · MIT · 推送 2026-06-03 · [GitHub](https://github.com/PsProsen-Dev/OpenClawOnAndroid) · [官网](https://openclawonandroid.mintlify.app/) · 个人维护
 
 **一条命令把 Android 手机变成运行 OpenClaw 的 AI 服务器**
 

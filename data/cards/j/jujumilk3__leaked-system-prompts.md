@@ -1,6 +1,6 @@
 # jujumilk3/leaked-system-prompts
 
-⭐ 14,975 · 推送 2026-09-23 · [GitHub](https://github.com/jujumilk3/leaked-system-prompts) · 个人维护
+⭐ 14,974 · 推送 2026-09-23 · [GitHub](https://github.com/jujumilk3/leaked-system-prompts) · 个人维护
 
 **收录主流 LLM 服务泄露系统提示词的文档集合**
 

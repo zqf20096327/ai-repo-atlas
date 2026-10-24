@@ -1,6 +1,6 @@
 # YGYOOO/WorldX
 
-⭐ 1,578 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/YGYOOO/WorldX) · 个人维护 · 中文 README
+⭐ 1,580 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/YGYOOO/WorldX) · 个人维护 · 中文 README
 
 **一句话生成 LLM 驱动的 AI 自主世界模拟应用**
 

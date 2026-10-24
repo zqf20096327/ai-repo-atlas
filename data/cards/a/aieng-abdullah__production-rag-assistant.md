@@ -1,6 +1,6 @@
 # aieng-abdullah/production-rag-assistant
 
-⭐ 71 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/aieng-abdullah/production-rag-assistant) · [官网](https://groundedai-frontend.onrender.com) · 个人维护
+⭐ 65 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/aieng-abdullah/production-rag-assistant) · [官网](https://groundedai-frontend.onrender.com) · 个人维护
 
 **面向法律/学术的引用强制核验 RAG 研究助手**
 

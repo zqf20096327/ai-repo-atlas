@@ -1,6 +1,6 @@
 # awslabs/generative-ai-cdk-constructs
 
-⭐ 544 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/awslabs/generative-ai-cdk-constructs) · [官网](https://awslabs.github.io/generative-ai-cdk-constructs/) · 组织维护
+⭐ 544 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/awslabs/generative-ai-cdk-constructs) · [官网](https://awslabs.github.io/generative-ai-cdk-constructs/) · 组织维护
 
 **AWS CDK 的生成式 AI 基础设施模式库：用代码定义可复用架构**
 

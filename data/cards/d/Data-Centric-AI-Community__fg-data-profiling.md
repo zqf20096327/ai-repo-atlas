@@ -1,6 +1,6 @@
 # Data-Centric-AI-Community/fg-data-profiling
 
-⭐ 13,736 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-profiling) · [官网](https://docs.sdk.ydata.ai) · 组织维护
+⭐ 13,737 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-profiling) · [官网](https://docs.sdk.ydata.ai) · 组织维护
 
 **一行代码生成 DataFrame 数据质量剖析与 EDA 报告**
 

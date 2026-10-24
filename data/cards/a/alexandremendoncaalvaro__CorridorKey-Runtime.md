@@ -1,6 +1,6 @@
 # alexandremendoncaalvaro/CorridorKey-Runtime
 
-⭐ 771 · C++ · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) · [官网](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/releases/latest) · 个人维护
+⭐ 774 · C++ · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) · [官网](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/releases/latest) · 个人维护
 
 **AI 抠像/Keying 运行时与 OFX 插件，面向 DaVinci Resolve/Nuke 用户**
 

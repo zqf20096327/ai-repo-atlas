@@ -1,6 +1,6 @@
 # QingYunA/agent-html
 
-⭐ 58 · HTML · 推送 2026-09-29 · [GitHub](https://github.com/QingYunA/agent-html) · [官网](https://agent-html-bice.vercel.app) · 个人维护 · 中文 README
+⭐ 59 · HTML · 推送 2026-09-29 · [GitHub](https://github.com/QingYunA/agent-html) · [官网](https://agent-html-bice.vercel.app) · 个人维护 · 中文 README
 
 **零依赖单文件 HTML 设计系统，作为编码 agent 技能供 LLM 使用**
 

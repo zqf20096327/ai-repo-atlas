@@ -1,6 +1,6 @@
 # FrancescoStabile/numasec
 
-⭐ 820 · TypeScript · AGPL-3.0 · 推送 2026-05-08 · [GitHub](https://github.com/FrancescoStabile/numasec) · 个人维护
+⭐ 819 · TypeScript · AGPL-3.0 · 推送 2026-05-08 · [GitHub](https://github.com/FrancescoStabile/numasec) · 个人维护
 
 **终端内的 AI 网络安全 agent：用本地工具跑安全工作流**
 

@@ -1,6 +1,6 @@
 # sir1st/hermes-desktop
 
-⭐ 73 · JavaScript · 推送 2026-06-01 · [GitHub](https://github.com/sir1st/hermes-desktop) · [官网](https://github.com/EKKOLearnAI/hermes-web-ui) · 个人维护 · 中文 README
+⭐ 72 · JavaScript · 推送 2026-06-01 · [GitHub](https://github.com/sir1st/hermes-desktop) · [官网](https://github.com/EKKOLearnAI/hermes-web-ui) · 个人维护 · 中文 README
 
 **Hermes Agent 的跨平台一体化桌面打包应用**
 

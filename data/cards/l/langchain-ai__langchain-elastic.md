@@ -1,6 +1,6 @@
 # langchain-ai/langchain-elastic
 
-⭐ 79 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langchain-elastic) · 组织维护
+⭐ 78 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langchain-elastic) · 组织维护
 
 **LangChain 的 Elasticsearch 集成包：检索、向量存储、缓存等**
 

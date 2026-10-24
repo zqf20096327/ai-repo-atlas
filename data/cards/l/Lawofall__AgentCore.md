@@ -1,6 +1,6 @@
 # Lawofall/AgentCore
 
-⭐ 90 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Lawofall/AgentCore) · [官网](https://fashitianxia.xyz) · 个人维护 · 中文 README
+⭐ 90 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Lawofall/AgentCore) · [官网](https://fashitianxia.xyz) · 个人维护 · 中文 README
 
 **面向大众的多 Agent AI 桌面工作台，支持 Agent 团队协作**
 

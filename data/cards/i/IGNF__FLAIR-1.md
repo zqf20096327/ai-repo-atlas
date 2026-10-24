@@ -1,6 +1,6 @@
 # IGNF/FLAIR-1
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/IGNF/FLAIR-1) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/IGNF/FLAIR-1) · 组织维护
 
 **法国 IGN 航空影像土地覆盖语义分割基线库**
 

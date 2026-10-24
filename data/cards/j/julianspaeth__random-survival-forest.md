@@ -1,6 +1,6 @@
 # julianspaeth/random-survival-forest
 
-⭐ 66 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/julianspaeth/random-survival-forest) · 个人维护
+⭐ 66 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/julianspaeth/random-survival-forest) · 个人维护
 
 **Python 随机生存森林实现：生存预测与风险分析**
 

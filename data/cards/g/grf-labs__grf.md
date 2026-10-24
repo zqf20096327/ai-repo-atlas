@@ -1,6 +1,6 @@
 # grf-labs/grf
 
-⭐ 1,117 · C++ · GPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/grf-labs/grf) · [官网](https://grf-labs.github.io/grf/) · 组织维护
+⭐ 1,118 · C++ · GPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/grf-labs/grf) · [官网](https://grf-labs.github.io/grf/) · 组织维护
 
 **R 包：森林方法做异质处理效应估计与统计推断**
 

@@ -1,6 +1,6 @@
 # qifan777/data-agent-tutorial
 
-⭐ 112 · Kotlin · 推送 2026-07-15 · [GitHub](https://github.com/qifan777/data-agent-tutorial) · [官网](https://www.jarcheng.top/data-agent/) · 个人维护 · 中文 README
+⭐ 113 · Kotlin · 推送 2026-07-15 · [GitHub](https://github.com/qifan777/data-agent-tutorial) · [官网](https://www.jarcheng.top/data-agent/) · 个人维护 · 中文 README
 
 **从 0 到 1 构建 Text2SQL 智能体的实战教程项目**
 

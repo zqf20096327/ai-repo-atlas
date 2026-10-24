@@ -1,6 +1,6 @@
 # rubenmarcus/ralph-starter
 
-⭐ 108 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/rubenmarcus/ralph-starter) · [官网](https://ralphstarter.ai) · 个人维护
+⭐ 107 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/rubenmarcus/ralph-starter) · [官网](https://ralphstarter.ai) · 个人维护
 
 **编排自主 AI 编程循环的 CLI：从 GitHub/Linear/Notion/Figma 拉取需求驱动编码 agent**
 

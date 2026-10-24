@@ -1,6 +1,6 @@
 # tomnio/rubric
 
-⭐ 85 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/tomnio/rubric) · 个人维护
+⭐ 84 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/tomnio/rubric) · 个人维护
 
 **给 TypeScript 开发者：从 LLM 单次调用或长文档提取经 Zod 校验的 JSON**
 

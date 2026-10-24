@@ -1,1 +1,75 @@
-{"fn": "war851/AI-Governance-Architecture", "sha": "e51c29b969d6", "source": "readme", "identity": {"one_liner": "数据库治理的 LLM 应用架构模式与 Claude Code 配置工作区", "review": "将 Claude Code 的配置模型（CLAUDE.md 级联、Skills、Hooks 等）转化为数据库治理应用模式的参考仓库：数据库持有步骤、函数、技能与审计日志，LLM 作为无状态语义引擎。含 6 条架构原则、4 个设计技能（价值链映射、数据演化、TDD 黄金样例、治理架构，共 17 种制品类型）、JD 解析实现示例、可运行的 Governed Agent，以及可克隆复用的 Claude Code/Cursor 配置。方法论以 CC BY-NC 4.0 提供，商用需另行许可。", "highlights": ["Claude Code 概念到 DB 治理应用的映射表（12 项对应关系）", "6 条治理原则：DB 拥有流程、LLM-agnostic、全量存储可审计", "4 个设计技能产出 17 种带 YAML 信封与生命周期的制品", "含 JD Parsing 示例与可运行的 Governed Agent"], "use_cases": ["设计可审计、GDPR/EU AI Act 合规的 LLM 应用架构", "复用 Claude Code + Cursor 的工程配置与规范", "按技能化流程从需求访谈推进到治理架构设计"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI治理", "参考架构", "LLM编排", "Claude Code配置", "合规/GDPR"], "domain": "AI 架构/治理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L33: 1. **DB owns the process, LLM is the semantic engine.** The database defines every step, message, function, and skill. T", "L66: For the same primitives in a small runnable agent (steps, orchestration, a constrained LLM, hash-chained logs) applied t"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "war851/AI-Governance-Architecture",
+ "sha": "e51c29b969d6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数据库治理的 LLM 应用架构模式与 Claude Code 配置工作区",
+  "review": "将 Claude Code 的配置模型（CLAUDE.md 级联、Skills、Hooks 等）转化为数据库治理应用模式的参考仓库：数据库持有步骤、函数、技能与审计日志，LLM 作为无状态语义引擎。含 6 条架构原则、4 个设计技能（价值链映射、数据演化、TDD 黄金样例、治理架构，共 17 种制品类型）、JD 解析实现示例、可运行的 Governed Agent，以及可克隆复用的 Claude Code/Cursor 配置。方法论以 CC BY-NC 4.0 提供，商用需另行许可。",
+  "highlights": [
+   "Claude Code 概念到 DB 治理应用的映射表（12 项对应关系）",
+   "6 条治理原则：DB 拥有流程、LLM-agnostic、全量存储可审计",
+   "4 个设计技能产出 17 种带 YAML 信封与生命周期的制品",
+   "含 JD Parsing 示例与可运行的 Governed Agent"
+  ],
+  "use_cases": [
+   "设计可审计、GDPR/EU AI Act 合规的 LLM 应用架构",
+   "复用 Claude Code + Cursor 的工程配置与规范",
+   "按技能化流程从需求访谈推进到治理架构设计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI治理",
+   "参考架构",
+   "LLM编排",
+   "Claude Code配置",
+   "合规/GDPR"
+  ],
+  "domain": "AI 架构/治理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L33: 1. **DB owns the process, LLM is the semantic engine.** The database defines every step, message, function, and skill. T",
+   "L66: For the same primitives in a small runnable agent (steps, orchestration, a constrained LLM, hash-chained logs) applied t"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

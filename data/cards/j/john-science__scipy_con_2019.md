@@ -1,6 +1,6 @@
 # john-science/scipy_con_2019
 
-⭐ 276 · Jupyter Notebook · MIT · 推送 2026-10-06 · [GitHub](https://github.com/john-science/scipy_con_2019) · 个人维护
+⭐ 276 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/john-science/scipy_con_2019) · 个人维护
 
 **SciPy 2019 会议教程的代码/链接收藏清单**
 

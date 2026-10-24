@@ -1,6 +1,6 @@
 # google-deepmind/alphageometry
 
-⭐ 4,900 · Python · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/google-deepmind/alphageometry) · 组织维护
+⭐ 4,901 · Python · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/google-deepmind/alphageometry) · 组织维护
 
 **DeepMind 的奥林匹克几何定理证明器（DDAR+AlphaGeometry）官方复现代码**
 

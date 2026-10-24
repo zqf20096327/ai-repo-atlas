@@ -1,6 +1,6 @@
 # MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio
 
-⭐ 355 · Jupyter Notebook · 推送 2026-10-03 · [GitHub](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio) · 个人维护
+⭐ 354 · Jupyter Notebook · 推送 2026-10-03 · [GitHub](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio) · 个人维护
 
 **个人数据科学与 AI 项目合集：ML/DL/数据工程/教程策展**
 

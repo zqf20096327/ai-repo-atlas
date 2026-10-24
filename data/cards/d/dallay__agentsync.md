@@ -1,6 +1,6 @@
 # dallay/agentsync
 
-⭐ 70 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dallay/agentsync) · [官网](https://dallay.github.io/agentsync/) · 个人维护
+⭐ 71 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/dallay/agentsync) · [官网](https://dallay.github.io/agentsync/) · 个人维护
 
 **CLI 工具：用符号链接把 AI agent 配置同步到多个编码助手**
 

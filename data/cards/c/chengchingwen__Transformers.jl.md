@@ -1,6 +1,6 @@
 # chengchingwen/Transformers.jl
 
-⭐ 573 · Julia · MIT · 推送 2026-07-31 · [GitHub](https://github.com/chengchingwen/Transformers.jl) · 个人维护
+⭐ 573 · Julia · MIT · 推送 2026-10-24 · [GitHub](https://github.com/chengchingwen/Transformers.jl) · 个人维护
 
 **Julia 语言基于 Flux.jl 的 Transformer 模型实现库**
 

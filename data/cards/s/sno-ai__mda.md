@@ -1,6 +1,6 @@
 # sno-ai/mda
 
-⭐ 621 · TypeScript · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/sno-ai/mda) · [官网](https://mda.sno.dev) · 个人维护 · 中文 README
+⭐ 622 · TypeScript · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/sno-ai/mda) · [官网](https://mda.sno.dev) · 个人维护 · 中文 README
 
 **给 agent 文档作者：一份 .mda 源编译为多运行时可加载的 .md 工件**
 

@@ -1,6 +1,6 @@
 # MacPaw/OpenAI
 
-⭐ 2,953 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MacPaw/OpenAI) · 组织维护
+⭐ 2,953 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MacPaw/OpenAI) · 组织维护
 
 **Swift 社区维护的 OpenAI API 客户端 SDK，供 iOS/macOS 开发者调用**
 

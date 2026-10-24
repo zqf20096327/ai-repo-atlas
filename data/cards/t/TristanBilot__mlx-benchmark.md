@@ -1,6 +1,6 @@
 # TristanBilot/mlx-benchmark
 
-⭐ 240 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/TristanBilot/mlx-benchmark) · 个人维护
+⭐ 241 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/TristanBilot/mlx-benchmark) · 个人维护
 
 **Apple MLX 算子性能基准测试集合：覆盖全系 Apple Silicon**
 

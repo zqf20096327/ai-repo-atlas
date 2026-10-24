@@ -1,6 +1,6 @@
 # BlockRunAI/ClawRouter
 
-⭐ 6,632 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/BlockRunAI/ClawRouter) · [官网](https://www.npmjs.com/package/@blockrun/clawrouter) · 组织维护
+⭐ 6,633 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/BlockRunAI/ClawRouter) · [官网](https://www.npmjs.com/package/@blockrun/clawrouter) · 组织维护
 
 **面向自主 agent 的开源 LLM 路由器：本地路由+USDC 微支付**
 

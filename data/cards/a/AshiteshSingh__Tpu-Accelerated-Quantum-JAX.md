@@ -1,6 +1,6 @@
 # AshiteshSingh/Tpu-Accelerated-Quantum-JAX
 
-⭐ 126 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX) · [官网](https://ashitesh.me) · 个人维护
+⭐ 118 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX) · [官网](https://ashitesh.me) · 个人维护
 
 **纯 JAX 实现的量子电路模拟器，支持 GPU 与 Cloud TPU 集群加速**
 

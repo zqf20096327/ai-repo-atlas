@@ -1,6 +1,6 @@
 # iMoonLab/DeepHypergraph
 
-⭐ 893 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/iMoonLab/DeepHypergraph) · [官网](https://deephypergraph.com/) · 组织维护 · 中文 README
+⭐ 893 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/iMoonLab/DeepHypergraph) · [官网](https://deephypergraph.com/) · 组织维护 · 中文 README
 
 **基于 PyTorch 的图与超图神经网络计算库**
 

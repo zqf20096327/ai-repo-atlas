@@ -1,6 +1,6 @@
 # TaewoooPark/Motifcode
 
-⭐ 78 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/TaewoooPark/Motifcode) · 个人维护 · 中文 README
+⭐ 77 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/TaewoooPark/Motifcode) · 个人维护 · 中文 README
 
 **专为 Motif-3 模型构建的终端编码 agent**
 

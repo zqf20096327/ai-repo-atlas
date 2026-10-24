@@ -1,6 +1,6 @@
 # zai-org/Open-AutoGLM
 
-⭐ 26,465 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/zai-org/Open-AutoGLM) · [官网](https://autoglm.z.ai/blog) · 组织维护 · 中文 README
+⭐ 26,470 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/zai-org/Open-AutoGLM) · [官网](https://autoglm.z.ai/blog) · 组织维护 · 中文 README
 
 **基于视觉语言模型控制手机完成任务的 Phone Agent 框架**
 

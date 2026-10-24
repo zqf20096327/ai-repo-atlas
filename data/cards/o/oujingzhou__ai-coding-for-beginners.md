@@ -1,6 +1,6 @@
 # oujingzhou/ai-coding-for-beginners
 
-⭐ 158 · 推送 2026-03-02 · [GitHub](https://github.com/oujingzhou/ai-coding-for-beginners) · 个人维护 · 中文 README
+⭐ 160 · 推送 2026-03-02 · [GitHub](https://github.com/oujingzhou/ai-coding-for-beginners) · 个人维护 · 中文 README
 
 **Stanford CS146S 现代 AI 软件开发中文教程**
 

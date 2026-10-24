@@ -1,6 +1,6 @@
 # Open-LLM-VTuber/Open-LLM-VTuber
 
-⭐ 14,344 · Python · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) · [官网](https://open-llm-vtuber.github.io/) · 组织维护 · 中文 README
+⭐ 14,356 · Python · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) · [官网](https://open-llm-vtuber.github.io/) · 组织维护 · 中文 README
 
 **本地运行的语音交互 AI 陪伴：Live2D 形象+免手操作对话**
 

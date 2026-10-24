@@ -1,6 +1,6 @@
 # microsoft/agentrc
 
-⭐ 1,107 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/agentrc) · 组织维护
+⭐ 1,110 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/agentrc) · 组织维护
 
 **为 AI 编码 agent 生成并维护仓库上下文配置的工具**
 

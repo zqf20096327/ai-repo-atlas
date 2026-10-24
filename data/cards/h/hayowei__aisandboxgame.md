@@ -1,6 +1,6 @@
 # hayowei/aisandboxgame
 
-⭐ 80 · JavaScript · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/hayowei/aisandboxgame) · [官网](https://aisandboxgame.com) · 个人维护 · 中文 README
+⭐ 81 · JavaScript · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/hayowei/aisandboxgame) · [官网](https://aisandboxgame.com) · 个人维护 · 中文 README
 
 **本地优先的浏览器端 LLM 文字 RPG 框架，自带世界卡创作**
 

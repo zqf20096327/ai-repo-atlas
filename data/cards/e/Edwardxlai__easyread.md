@@ -1,6 +1,6 @@
 # Edwardxlai/easyread
 
-⭐ 1,011 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Edwardxlai/easyread) · [官网](https://edwardxlai.github.io/easyread/) · 个人维护 · 中文 README
+⭐ 1,019 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Edwardxlai/easyread) · [官网](https://edwardxlai.github.io/easyread/) · 个人维护 · 中文 README
 
 **本地 PDF 论文翻译阅读器：中文对照、划线笔记、边读边问 AI**
 

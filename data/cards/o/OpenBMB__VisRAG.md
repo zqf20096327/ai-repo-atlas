@@ -1,6 +1,6 @@
 # OpenBMB/VisRAG
 
-⭐ 986 · Python · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/OpenBMB/VisRAG) · 组织维护 · 中文 README
+⭐ 985 · Python · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/OpenBMB/VisRAG) · 组织维护 · 中文 README
 
 **免解析的视觉 RAG：VLM 直接嵌入文档图像做检索与生成**
 

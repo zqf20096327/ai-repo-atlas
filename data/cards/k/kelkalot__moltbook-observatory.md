@@ -1,6 +1,6 @@
 # kelkalot/moltbook-observatory
 
-⭐ 56 · HTML · 推送 2026-05-15 · [GitHub](https://github.com/kelkalot/moltbook-observatory) · 组织维护
+⭐ 55 · HTML · 推送 2026-05-15 · [GitHub](https://github.com/kelkalot/moltbook-observatory) · 组织维护
 
 **AI agent 社交网络 Moltbook 的被动监测与数据采集面板**
 

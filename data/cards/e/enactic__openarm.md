@@ -1,6 +1,6 @@
 # enactic/openarm
 
-⭐ 3,636 · MDX · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/enactic/openarm) · [官网](https://openarm.dev) · 组织维护
+⭐ 3,638 · MDX · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/enactic/openarm) · [官网](https://openarm.dev) · 组织维护
 
 **开源 7DOF 人形机械臂，用于物理 AI 研究与部署**
 

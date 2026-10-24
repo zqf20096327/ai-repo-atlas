@@ -1,6 +1,6 @@
 # sauravpanda/BrowserAI
 
-⭐ 1,452 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/sauravpanda/BrowserAI) · [官网](https://browserai.dev) · 个人维护
+⭐ 1,450 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/sauravpanda/BrowserAI) · [官网](https://browserai.dev) · 个人维护
 
 **在浏览器内本地运行 LLM、语音识别与 TTS 的 JS SDK**
 

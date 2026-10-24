@@ -1,6 +1,6 @@
 # zinja-coder/apktool-mcp-server
 
-⭐ 679 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/zinja-coder/apktool-mcp-server) · 个人维护
+⭐ 678 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/zinja-coder/apktool-mcp-server) · 个人维护
 
 **把 apktool 接入 LLM 的 MCP 服务器：对话式逆向分析 Android APK**
 

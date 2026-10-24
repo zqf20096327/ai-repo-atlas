@@ -1,6 +1,6 @@
 # smg-project/smg
 
-⭐ 665 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/smg-project/smg) · [官网](https://lightseek.org/smg) · 组织维护
+⭐ 669 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/smg-project/smg) · [官网](https://lightseek.org/smg) · 组织维护
 
 **Rust 编写的引擎无关 LLM 网关：统一接入多种推理后端**
 

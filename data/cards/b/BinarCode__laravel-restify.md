@@ -1,6 +1,6 @@
 # BinarCode/laravel-restify
 
-⭐ 683 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/BinarCode/laravel-restify) · [官网](https://laravel-restify.com) · 组织维护
+⭐ 682 · PHP · MIT · 推送 2026-10-24 · [GitHub](https://github.com/BinarCode/laravel-restify) · [官网](https://laravel-restify.com) · 组织维护
 
 **Laravel API 框架：一套代码同时输出 JSON:API 与 MCP 接口**
 

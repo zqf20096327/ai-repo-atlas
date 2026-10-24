@@ -1,6 +1,6 @@
 # amitshekhariitbhu/build-your-own-x-machine-learning
 
-⭐ 751 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning) · [官网](https://outcomeschool.com) · 个人维护
+⭐ 752 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning) · [官网](https://outcomeschool.com) · 个人维护
 
 **机器学习从零实现教程清单：覆盖算法到 LLM 的项目列表**
 

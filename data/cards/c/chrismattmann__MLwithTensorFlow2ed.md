@@ -1,6 +1,6 @@
 # chrismattmann/MLwithTensorFlow2ed
 
-⭐ 137 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/chrismattmann/MLwithTensorFlow2ed) · [官网](http://github.com/chrismattmann/MLwithTensorFlow2ed) · 个人维护
+⭐ 137 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/chrismattmann/MLwithTensorFlow2ed) · [官网](http://github.com/chrismattmann/MLwithTensorFlow2ed) · 个人维护
 
 **《Machine Learning with TensorFlow》第二版随书代码仓库**
 

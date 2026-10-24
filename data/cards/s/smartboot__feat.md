@@ -1,6 +1,6 @@
 # smartboot/feat
 
-⭐ 67 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/smartboot/feat) · [官网](https://smartboot.tech/feat/) · 个人维护 · 中文 README
+⭐ 67 · Java · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/smartboot/feat) · [官网](https://smartboot.tech/feat/) · 个人维护 · 中文 README
 
 **Java Web 服务开发框架，含 Cloud/Core/AI 模块**
 

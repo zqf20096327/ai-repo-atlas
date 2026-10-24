@@ -1,6 +1,6 @@
 # NeoLabHQ/context-engineering-kit
 
-⭐ 1,783 · TypeScript · GPL-3.0 · 推送 2026-08-26 · [GitHub](https://github.com/NeoLabHQ/context-engineering-kit) · [官网](https://neolab.gitbook.io/cek) · 组织维护
+⭐ 1,782 · TypeScript · GPL-3.0 · 推送 2026-08-26 · [GitHub](https://github.com/NeoLabHQ/context-engineering-kit) · [官网](https://neolab.gitbook.io/cek) · 组织维护
 
 **面向 Claude Code 等编程 agent 的上下文工程插件集，提升 agent 输出质量**
 

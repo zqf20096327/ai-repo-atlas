@@ -1,6 +1,6 @@
 # CJackHwang/AIstudioProxyAPI
 
-⭐ 2,518 · Python · AGPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/CJackHwang/AIstudioProxyAPI) · [官网](https://linux.do/u/cjackhwang) · 个人维护 · 中文 README
+⭐ 2,517 · Python · AGPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/CJackHwang/AIstudioProxyAPI) · [官网](https://linux.do/u/cjackhwang) · 个人维护 · 中文 README
 
 **将 Google AI Studio 网页转换为 OpenAI 兼容 API 的代理服务**
 

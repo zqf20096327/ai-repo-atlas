@@ -1,6 +1,6 @@
 # ViTAE-Transformer/ViTPose
 
-⭐ 2,200 · Python · Apache-2.0 · 推送 2025-12-25 · [GitHub](https://github.com/ViTAE-Transformer/ViTPose) · 组织维护
+⭐ 2,199 · Python · Apache-2.0 · 推送 2025-12-25 · [GitHub](https://github.com/ViTAE-Transformer/ViTPose) · 组织维护
 
 **ViT 人体/动物姿态估计模型库：训练评测与预训练权重**
 

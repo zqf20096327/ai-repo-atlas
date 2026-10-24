@@ -1,6 +1,6 @@
 # zarazhangrui/personalized-podcast
 
-⭐ 439 · Python · 推送 2026-04-08 · [GitHub](https://github.com/zarazhangrui/personalized-podcast) · [官网](https://x.com/zarazhangrui) · 个人维护
+⭐ 440 · Python · 推送 2026-04-08 · [GitHub](https://github.com/zarazhangrui/personalized-podcast) · [官网](https://x.com/zarazhangrui) · 个人维护
 
 **把任意内容生成为双主播 AI 播客的编码代理技能**
 

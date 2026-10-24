@@ -1,6 +1,6 @@
 # Bitterbot-AI/bitterbot-desktop
 
-⭐ 2,477 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Bitterbot-AI/bitterbot-desktop) · [官网](https://bitterbot.ai) · 组织维护
+⭐ 2,478 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Bitterbot-AI/bitterbot-desktop) · [官网](https://bitterbot.ai) · 组织维护
 
 **本地优先的个人 AI agent：持久记忆+技能学习+多渠道对话**
 

@@ -1,6 +1,6 @@
 # j5onrf/dots
 
-⭐ 121 · CSS · 推送 2026-08-25 · [GitHub](https://github.com/j5onrf/dots) · 个人维护
+⭐ 121 · CSS · 推送 2026-10-23 · [GitHub](https://github.com/j5onrf/dots) · 个人维护
 
 **Hyprland 桌面配置集：含 Waybar/Quickshell 主题与本地 AI 集成**
 

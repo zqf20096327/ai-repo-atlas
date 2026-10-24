@@ -1,6 +1,6 @@
 # lencx/opsail
 
-⭐ 63 · Rust · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/lencx/opsail) · 个人维护 · 中文 README
+⭐ 64 · Rust · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/lencx/opsail) · 个人维护 · 中文 README
 
 **给软件 agent 用的 Rust 原生工具集：网页读取与 Codex 界面改造**
 

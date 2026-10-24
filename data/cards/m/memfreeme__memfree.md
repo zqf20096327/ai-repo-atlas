@@ -1,6 +1,6 @@
 # memfreeme/memfree
 
-⭐ 1,514 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/memfreeme/memfree) · [官网](https://www.memfree.me?ref=github.com) · 组织维护 · 中文 README
+⭐ 1,513 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/memfreeme/memfree) · [官网](https://www.memfree.me?ref=github.com) · 组织维护 · 中文 README
 
 **混合 AI 搜索引擎与 AI 页面生成器，面向个人用户**
 

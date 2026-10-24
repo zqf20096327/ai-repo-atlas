@@ -1,6 +1,6 @@
 # ALucek/ppt2desc
 
-⭐ 111 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/ALucek/ppt2desc) · [官网](https://lucek.ai) · 个人维护
+⭐ 110 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/ALucek/ppt2desc) · [官网](https://lucek.ai) · 个人维护
 
 **用视觉语言模型把 PPT 转成语义丰富文本的命令行工具**
 

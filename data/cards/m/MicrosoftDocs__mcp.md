@@ -1,6 +1,6 @@
 # MicrosoftDocs/mcp
 
-⭐ 1,951 · TypeScript · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/MicrosoftDocs/mcp) · [官网](https://learn.microsoft.com) · 组织维护
+⭐ 1,953 · TypeScript · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/MicrosoftDocs/mcp) · [官网](https://learn.microsoft.com) · 组织维护
 
 **为 AI 助手/Agent 接入微软官方文档检索的 MCP 服务与 CLI**
 

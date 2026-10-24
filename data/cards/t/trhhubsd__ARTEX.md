@@ -1,6 +1,6 @@
 # trhhubsd/ARTEX
 
-⭐ 1,803 · Go · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/trhhubsd/ARTEX) · [官网](https://artex-demo.vercel.app/) · 组织维护 · 中文 README
+⭐ 1,864 · Go · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/trhhubsd/ARTEX) · [官网](https://artex-demo.vercel.app/) · 组织维护 · 中文 README
 
 **面向隔离靶场的多 agent LLM 自主渗透测试系统**
 

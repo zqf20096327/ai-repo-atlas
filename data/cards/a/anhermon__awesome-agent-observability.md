@@ -1,6 +1,6 @@
 # anhermon/awesome-agent-observability
 
-⭐ 63 · Python · CC0-1.0 · 推送 2026-10-18 · [GitHub](https://github.com/anhermon/awesome-agent-observability) · [官网](https://anhermon.dev) · 个人维护
+⭐ 62 · Python · CC0-1.0 · 推送 2026-10-18 · [GitHub](https://github.com/anhermon/awesome-agent-observability) · [官网](https://anhermon.dev) · 个人维护
 
 **Agent 可观测性工具策展清单：追踪/评测/护栏/MCP**
 

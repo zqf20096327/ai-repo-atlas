@@ -1,6 +1,6 @@
 # louisfb01/start-machine-learning
 
-⭐ 5,306 · MIT · 推送 2026-01-23 · [GitHub](https://github.com/louisfb01/start-machine-learning) · [官网](https://www.louisbouchard.ai/learnai/) · 个人维护
+⭐ 5,309 · MIT · 推送 2026-01-23 · [GitHub](https://github.com/louisfb01/start-machine-learning) · [官网](https://www.louisbouchard.ai/learnai/) · 个人维护
 
 **面向零基础者的机器学习/AI 自学资源导航清单**
 

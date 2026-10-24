@@ -1,6 +1,6 @@
 # MiniMax-AI/minimax-code
 
-⭐ 2,074 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MiniMax-AI/minimax-code) · [官网](https://agent.minimax.io/download) · 组织维护 · 中文 README
+⭐ 2,085 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MiniMax-AI/minimax-code) · [官网](https://agent.minimax.io/download) · 组织维护 · 中文 README
 
 **终端编码 Agent CLI：用 MiniMax 或自有模型把提示词变成可运行代码**
 

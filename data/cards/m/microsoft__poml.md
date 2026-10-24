@@ -1,6 +1,6 @@
 # microsoft/poml
 
-⭐ 4,964 · TypeScript · MIT · 推送 2026-01-14 · [GitHub](https://github.com/microsoft/poml) · [官网](https://microsoft.github.io/poml/) · 组织维护
+⭐ 4,963 · TypeScript · MIT · 推送 2026-01-14 · [GitHub](https://github.com/microsoft/poml) · [官网](https://microsoft.github.io/poml/) · 组织维护
 
 **面向 LLM 提示词工程的标记语言与配套工具链**
 

@@ -1,6 +1,6 @@
 # vladzima/kodeck
 
-⭐ 68 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/vladzima/kodeck) · [官网](https://kodeck.dev) · 个人维护
+⭐ 60 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/vladzima/kodeck) · [官网](https://kodeck.dev) · 个人维护
 
 **浏览器端开源 IDE：为 Claude Code 提供多项目工作区**
 

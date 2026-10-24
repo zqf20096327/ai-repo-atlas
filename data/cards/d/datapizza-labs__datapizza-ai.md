@@ -1,6 +1,6 @@
 # datapizza-labs/datapizza-ai
 
-⭐ 2,243 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/datapizza-labs/datapizza-ai) · [官网](http://docs.datapizza.ai/) · 组织维护
+⭐ 2,242 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/datapizza-labs/datapizza-ai) · [官网](http://docs.datapizza.ai/) · 组织维护
 
 **面向开发者的 Python GenAI Agent/RAG 应用框架**
 

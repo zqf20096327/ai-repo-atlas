@@ -1,6 +1,6 @@
 # kiyoakii/is-gpt-nerfed
 
-⭐ 255 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/kiyoakii/is-gpt-nerfed) · 个人维护 · 中文 README
+⭐ 256 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/kiyoakii/is-gpt-nerfed) · 个人维护 · 中文 README
 
 **检测 Codex 实际应答模型是否被偷换的 macOS 工具**
 

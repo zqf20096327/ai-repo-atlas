@@ -1,6 +1,6 @@
 # Rheosoph/flow-like
 
-⭐ 965 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Rheosoph/flow-like) · [官网](https://flow-like.com) · 组织维护
+⭐ 967 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Rheosoph/flow-like) · [官网](https://flow-like.com) · 组织维护
 
 **面向开发者团队的自托管低代码应用/自动化/AI 开发平台**
 

@@ -1,6 +1,6 @@
 # openairymax/agentrt
 
-⭐ 1,247 · C · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/openairymax/agentrt) · [官网](https://atomgit.com/openairymax) · 个人维护 · 中文 README
+⭐ 1,246 · C · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/openairymax/agentrt) · [官网](https://atomgit.com/openairymax) · 个人维护 · 中文 README
 
 **AI Agent 多智能体运行时平台，含跨平台构建与发布自动化**
 

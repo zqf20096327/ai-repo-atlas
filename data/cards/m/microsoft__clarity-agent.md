@@ -1,6 +1,6 @@
 # microsoft/clarity-agent
 
-⭐ 273 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/clarity-agent) · 组织维护
+⭐ 275 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/clarity-agent) · 组织维护
 
 **微软出品的 AI 思考伙伴：通过追问澄清意图并沉淀决策文档**
 

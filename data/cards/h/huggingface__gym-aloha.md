@@ -1,6 +1,6 @@
 # huggingface/gym-aloha
 
-⭐ 222 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/huggingface/gym-aloha) · 组织维护
+⭐ 223 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/huggingface/gym-aloha) · 组织维护
 
 **ALOHA 双臂机器人操作的 Gymnasium 仿真环境**
 

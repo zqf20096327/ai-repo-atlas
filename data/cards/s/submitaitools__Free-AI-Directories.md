@@ -1,6 +1,6 @@
 # submitaitools/Free-AI-Directories
 
-⭐ 79 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/submitaitools/Free-AI-Directories) · [官网](https://submitaitools.org) · 组织维护
+⭐ 80 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/submitaitools/Free-AI-Directories) · [官网](https://submitaitools.org) · 组织维护
 
 **免费 AI 工具目录站清单：附 DA 分数与提交链接**
 

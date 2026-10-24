@@ -1,6 +1,6 @@
 # Murrough-Foley/rs-trafilatura
 
-⭐ 66 · Rust · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/Murrough-Foley/rs-trafilatura) · 个人维护
+⭐ 67 · Rust · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/Murrough-Foley/rs-trafilatura) · 个人维护
 
 **Rust 网页正文抽取库：分类页面类型并输出净内容与置信度**
 

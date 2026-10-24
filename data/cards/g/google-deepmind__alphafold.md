@@ -1,6 +1,6 @@
 # google-deepmind/alphafold
 
-⭐ 14,907 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/google-deepmind/alphafold) · 组织维护
+⭐ 14,908 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/google-deepmind/alphafold) · 组织维护
 
 **为科研人员提供蛋白质结构预测 AlphaFold2 推理代码**
 

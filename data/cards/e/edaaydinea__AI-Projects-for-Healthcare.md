@@ -1,6 +1,6 @@
 # edaaydinea/AI-Projects-for-Healthcare
 
-⭐ 275 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-05 · [GitHub](https://github.com/edaaydinea/AI-Projects-for-Healthcare) · 个人维护
+⭐ 274 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-05 · [GitHub](https://github.com/edaaydinea/AI-Projects-for-Healthcare) · 个人维护
 
 **医疗健康领域 AI/ML 项目合集：教学与研究实现策展**
 

@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleSpeech
 
-⭐ 12,698 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/PaddlePaddle/PaddleSpeech) · [官网](https://paddlespeech.readthedocs.io) · 组织维护 · 中文 README
+⭐ 12,697 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/PaddlePaddle/PaddleSpeech) · [官网](https://paddlespeech.readthedocs.io) · 组织维护 · 中文 README
 
 **飞桨平台的语音工具包：ASR/TTS/声纹/翻译/标点等全栈语音任务**
 

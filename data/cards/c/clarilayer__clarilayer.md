@@ -1,6 +1,6 @@
 # clarilayer/clarilayer
 
-⭐ 77 · TypeScript · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/clarilayer/clarilayer) · [官网](https://clarilayer.com) · 组织维护
+⭐ 76 · TypeScript · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/clarilayer/clarilayer) · [官网](https://clarilayer.com) · 组织维护
 
 **跨项目跨会话的 AI 记忆服务：经 MCP 保存并召回决策与规则**
 

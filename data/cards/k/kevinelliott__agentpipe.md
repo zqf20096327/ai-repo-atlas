@@ -1,6 +1,6 @@
 # kevinelliott/agentpipe
 
-⭐ 153 · Go · MIT · 推送 2026-06-27 · [GitHub](https://github.com/kevinelliott/agentpipe) · [官网](https://agentpipe.ai) · 个人维护
+⭐ 152 · Go · MIT · 推送 2026-06-27 · [GitHub](https://github.com/kevinelliott/agentpipe) · [官网](https://agentpipe.ai) · 个人维护
 
 **让多个 AI CLI 工具在共享房间对话的多智能体编排 CLI**
 

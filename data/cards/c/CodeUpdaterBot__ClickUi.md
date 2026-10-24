@@ -1,6 +1,6 @@
 # CodeUpdaterBot/ClickUi
 
-⭐ 428 · Python · AGPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/CodeUpdaterBot/ClickUi) · [官网](https://clickui.app) · 个人维护
+⭐ 429 · Python · AGPL-3.0 · 推送 2026-09-07 · [GitHub](https://github.com/CodeUpdaterBot/ClickUi) · [官网](https://clickui.app) · 个人维护
 
 **桌面 AI 助手应用：语音/文字对话，接入多种模型**
 

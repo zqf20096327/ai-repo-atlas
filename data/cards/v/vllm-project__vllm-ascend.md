@@ -1,6 +1,6 @@
 # vllm-project/vllm-ascend
 
-⭐ 3,004 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vllm-project/vllm-ascend) · [官网](https://docs.vllm.ai/projects/ascend) · 组织维护 · 中文 README
+⭐ 3,006 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vllm-project/vllm-ascend) · [官网](https://docs.vllm.ai/projects/ascend) · 组织维护 · 中文 README
 
 **让 vLLM 在华为昇腾 NPU 上运行的社区维护硬件插件**
 

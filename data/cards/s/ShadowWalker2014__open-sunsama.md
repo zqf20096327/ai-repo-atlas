@@ -1,6 +1,6 @@
 # ShadowWalker2014/open-sunsama
 
-⭐ 113 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/ShadowWalker2014/open-sunsama) · [官网](https://opensunsama.com) · 个人维护
+⭐ 115 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/ShadowWalker2014/open-sunsama) · [官网](https://opensunsama.com) · 个人维护
 
 **开源每日计划器：看板、时间块、专注模式，可被 Claude/ChatGPT 通过 MCP 操控**
 

@@ -1,6 +1,6 @@
 # gudaochangsheng/WaDi
 
-⭐ 153 · Python · 推送 2026-05-26 · [GitHub](https://github.com/gudaochangsheng/WaDi) · [官网](https://gudaochangsheng.github.io/WaDi-Page/) · 组织维护 · 中文 README
+⭐ 144 · Python · 推送 2026-05-26 · [GitHub](https://github.com/gudaochangsheng/WaDi) · [官网](https://gudaochangsheng.github.io/WaDi-Page/) · 组织维护 · 中文 README
 
 **给科研/开发者：一步图像生成的扩散蒸馏训练框架**
 

@@ -1,6 +1,6 @@
 # xorbitsai/inference
 
-⭐ 9,625 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xorbitsai/inference) · [官网](https://inference.readthedocs.io) · 组织维护 · 中文 README
+⭐ 9,625 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/xorbitsai/inference) · [官网](https://inference.readthedocs.io) · 组织维护 · 中文 README
 
 **统一推理平台：一行命令部署语言/语音/多模态模型**
 

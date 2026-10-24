@@ -1,6 +1,6 @@
 # zongmin-yu/semantic-scholar-fastmcp-mcp-server
 
-⭐ 165 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server) · 个人维护
+⭐ 166 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server) · 个人维护
 
 **为 MCP 客户端接入 Semantic Scholar 学术数据的 FastMCP 服务器**
 

@@ -1,6 +1,6 @@
 # mlabonne/llm-course
 
-⭐ 84,635 · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/mlabonne/llm-course) · [官网](https://mlabonne.github.io/blog/) · 个人维护
+⭐ 84,658 · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/mlabonne/llm-course) · [官网](https://mlabonne.github.io/blog/) · 个人维护
 
 **面向 LLM 学习者的三阶段课程：路线图与 Colab 笔记本**
 

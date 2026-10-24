@@ -1,6 +1,6 @@
 # dimthink/PriceAI
 
-⭐ 4,444 · TypeScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/dimthink/PriceAI) · [官网](https://priceai.cc) · 个人维护 · 中文 README
+⭐ 4,468 · TypeScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/dimthink/PriceAI) · [官网](https://priceai.cc) · 个人维护 · 中文 README
 
 **AI 订阅卡网与中转 API 比价工具：聚合 200+ 渠道报价**
 

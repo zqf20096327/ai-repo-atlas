@@ -1,6 +1,6 @@
 # Canner/WrenAI
 
-⭐ 17,957 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Canner/WrenAI) · [官网](https://www.getwren.ai/en/open-core) · 组织维护 · 中文 README
+⭐ 17,961 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Canner/WrenAI) · [官网](https://www.getwren.ai/en/open-core) · 组织维护 · 中文 README
 
 **给 AI agent 提供受治理 text-to-SQL 与语义层的开源 GenBI 引擎**
 

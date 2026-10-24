@@ -1,6 +1,6 @@
 # nnethercott/hannoy
 
-⭐ 87 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nnethercott/hannoy) · [官网](https://docs.rs/hannoy) · 个人维护
+⭐ 88 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nnethercott/hannoy) · [官网](https://docs.rs/hannoy) · 个人维护
 
 **LMDB 磁盘存储后端的 HNSW 近似最近邻库（Rust/Python）**
 

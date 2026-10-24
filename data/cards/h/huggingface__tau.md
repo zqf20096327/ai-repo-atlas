@@ -1,6 +1,6 @@
 # huggingface/tau
 
-⭐ 2,986 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/tau) · [官网](http://twotimespi.dev/) · 组织维护
+⭐ 2,987 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/huggingface/tau) · [官网](http://twotimespi.dev/) · 组织维护
 
 **终端里的 Python 编码 agent：读代码、改文件、跑命令**
 

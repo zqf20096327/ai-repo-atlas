@@ -1,6 +1,6 @@
 # Arindam200/awesome-ai-apps
 
-⭐ 16,624 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Arindam200/awesome-ai-apps) · [官网](https://dub.sh/nebius) · 个人维护
+⭐ 16,628 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Arindam200/awesome-ai-apps) · [官网](https://dub.sh/nebius) · 个人维护
 
 **面向开发者的 132 个 LLM 应用示例合集（agent/RAG/MCP/语音）**
 

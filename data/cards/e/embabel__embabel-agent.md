@@ -1,6 +1,6 @@
 # embabel/embabel-agent
 
-⭐ 4,532 · Kotlin · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/embabel/embabel-agent) · [官网](https://hub.embabel.com) · 组织维护
+⭐ 4,532 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/embabel/embabel-agent) · [官网](https://hub.embabel.com) · 组织维护
 
 **JVM/Kotlin 上的 agentic 流程编排框架，由 Spring 创始人发起**
 

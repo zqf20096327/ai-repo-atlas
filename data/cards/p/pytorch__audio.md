@@ -1,6 +1,6 @@
 # pytorch/audio
 
-⭐ 2,958 · Python · BSD-2-Clause · 推送 2026-10-23 · [GitHub](https://github.com/pytorch/audio) · [官网](https://pytorch.org/audio) · 组织维护
+⭐ 2,959 · Python · BSD-2-Clause · 推送 2026-10-24 · [GitHub](https://github.com/pytorch/audio) · [官网](https://pytorch.org/audio) · 组织维护
 
 **PyTorch 生态的音频与语音处理库，供 ML 开发者使用**
 

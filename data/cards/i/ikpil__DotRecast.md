@@ -1,6 +1,6 @@
 # ikpil/DotRecast
 
-⭐ 956 · C# · Zlib · 推送 2026-10-03 · [GitHub](https://github.com/ikpil/DotRecast) · 个人维护
+⭐ 957 · C# · Zlib · 推送 2026-10-03 · [GitHub](https://github.com/ikpil/DotRecast) · 个人维护
 
 **Recast & Detour 的 C# 移植：游戏导航网格生成与寻路库**
 

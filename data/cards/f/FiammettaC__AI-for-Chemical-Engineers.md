@@ -1,6 +1,6 @@
 # FiammettaC/AI-for-Chemical-Engineers
 
-⭐ 95 · Jupyter Notebook · NOASSERTION · 推送 2026-04-30 · [GitHub](https://github.com/FiammettaC/AI-for-Chemical-Engineers) · 组织维护
+⭐ 96 · Jupyter Notebook · NOASSERTION · 推送 2026-04-30 · [GitHub](https://github.com/FiammettaC/AI-for-Chemical-Engineers) · 组织维护
 
 **面向化学工程师的 7 周 Python 与 AI 实践课程**
 

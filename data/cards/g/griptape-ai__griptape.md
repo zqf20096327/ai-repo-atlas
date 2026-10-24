@@ -1,6 +1,6 @@
 # griptape-ai/griptape
 
-⭐ 2,582 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/griptape-ai/griptape) · [官网](https://www.griptape.ai) · 组织维护
+⭐ 2,580 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/griptape-ai/griptape) · [官网](https://www.griptape.ai) · 组织维护
 
 **构建 AI agent 与工作流的模块化 Python 框架**
 

@@ -1,6 +1,6 @@
 # Cloudgeni-ai/opengeni
 
-⭐ 206 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Cloudgeni-ai/opengeni) · [官网](https://opengeni.ai/) · 组织维护
+⭐ 207 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Cloudgeni-ai/opengeni) · [官网](https://opengeni.ai/) · 组织维护
 
 **面向组织的可自托管 agentic 服务：持久会话与人工审批**
 

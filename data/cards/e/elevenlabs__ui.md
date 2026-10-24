@@ -1,6 +1,6 @@
 # elevenlabs/ui
 
-⭐ 2,428 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/elevenlabs/ui) · [官网](https://ui.elevenlabs.io) · 组织维护
+⭐ 2,429 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/elevenlabs/ui) · [官网](https://ui.elevenlabs.io) · 组织维护
 
 **面向语音/Agent 应用的 React 组件库，基于 shadcn/ui**
 

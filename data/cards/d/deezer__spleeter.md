@@ -1,6 +1,6 @@
 # deezer/spleeter
 
-⭐ 28,495 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/deezer/spleeter) · [官网](https://research.deezer.com/projects/spleeter.html) · 组织维护
+⭐ 28,494 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/deezer/spleeter) · [官网](https://research.deezer.com/projects/spleeter.html) · 组织维护
 
 **为开发者提供音频音轨分离库与预训练模型**
 

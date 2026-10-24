@@ -1,6 +1,6 @@
 # instructa/ai-prompts
 
-⭐ 1,103 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/instructa/ai-prompts) · [官网](http://instructa.ai/ai-prompts) · 组织维护
+⭐ 1,102 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/instructa/ai-prompts) · [官网](http://instructa.ai/ai-prompts) · 组织维护
 
 **面向开发者的 AI 编码提示词与规则策展仓库**
 

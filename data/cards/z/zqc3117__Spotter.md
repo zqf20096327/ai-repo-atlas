@@ -1,6 +1,6 @@
 # zqc3117/Spotter
 
-⭐ 159 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zqc3117/Spotter) · [官网](https://zqc3117.github.io/Spotter/) · 组织维护 · 中文 README
+⭐ 161 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zqc3117/Spotter) · [官网](https://zqc3117.github.io/Spotter/) · 组织维护 · 中文 README
 
 **具身机器人执行监控框架：VLM 仅在确认出错时介入修复**
 

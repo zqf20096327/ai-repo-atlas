@@ -1,6 +1,6 @@
 # ARUNAGIRINATHAN-K/awesome-ai-agents-2026
 
-⭐ 353 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) · [官网](https://ai-agent-registry-kappa.vercel.app) · 个人维护
+⭐ 352 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) · [官网](https://ai-agent-registry-kappa.vercel.app) · 个人维护
 
 **AI agent 框架与工具的策展清单，附带可搜索 Web 注册表**
 

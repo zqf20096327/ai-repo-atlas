@@ -1,6 +1,6 @@
 # ttlequals0/MinusPod
 
-⭐ 494 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ttlequals0/MinusPod) · 个人维护
+⭐ 497 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ttlequals0/MinusPod) · 个人维护
 
 **自托管播客服务器：本地转录+LLM 在播放前去广告**
 

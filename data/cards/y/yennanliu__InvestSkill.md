@@ -1,6 +1,6 @@
 # yennanliu/InvestSkill
 
-⭐ 255 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yennanliu/InvestSkill) · [官网](http://yennj12.js.org/InvestSkill/) · 个人维护 · 中文 README
+⭐ 256 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yennanliu/InvestSkill) · [官网](http://yennj12.js.org/InvestSkill/) · 个人维护 · 中文 README
 
 **30 个美股分析提示词框架，接入任意 AI 助手产出机构级投资分析**
 

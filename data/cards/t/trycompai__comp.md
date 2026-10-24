@@ -1,6 +1,6 @@
 # trycompai/comp
 
-⭐ 2,055 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/trycompai/comp) · [官网](https://trycomp.ai) · 组织维护
+⭐ 2,055 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/trycompai/comp) · [官网](https://trycomp.ai) · 组织维护
 
 **开源合规平台：AI 协助企业完成 SOC 2/ISO 27001 等合规**
 

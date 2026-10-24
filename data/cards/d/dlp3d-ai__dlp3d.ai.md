@@ -1,6 +1,6 @@
 # dlp3d-ai/dlp3d.ai
 
-⭐ 371 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/dlp3d-ai/dlp3d.ai) · [官网](https://dlp3d.readthedocs.io) · 组织维护 · 中文 README
+⭐ 372 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/dlp3d-ai/dlp3d.ai) · [官网](https://dlp3d.readthedocs.io) · 组织维护 · 中文 README
 
 **开源实时框架：通过3D数字人形象与LLM进行语音对话**
 

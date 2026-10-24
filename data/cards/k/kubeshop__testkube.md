@@ -1,6 +1,6 @@
 # kubeshop/testkube
 
-⭐ 1,674 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/kubeshop/testkube) · [官网](https://testkube.io) · 组织维护
+⭐ 1,673 · Go · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/kubeshop/testkube) · [官网](https://testkube.io) · 组织维护
 
 **面向工程团队的 Kubernetes 开源测试平台**
 

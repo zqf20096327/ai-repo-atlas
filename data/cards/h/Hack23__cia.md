@@ -1,6 +1,6 @@
 # Hack23/cia
 
-⭐ 242 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Hack23/cia) · [官网](https://hack23.com/cia-docs.html) · 组织维护
+⭐ 242 · Java · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Hack23/cia) · [官网](https://hack23.com/cia-docs.html) · 组织维护
 
 **瑞典政治OSINT分析平台：追踪议会、政府与公共机构数据**
 

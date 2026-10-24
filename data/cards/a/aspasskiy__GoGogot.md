@@ -1,6 +1,6 @@
 # aspasskiy/GoGogot
 
-⭐ 262 · Go · MIT · 推送 2026-08-26 · [GitHub](https://github.com/aspasskiy/GoGogot) · [官网](https://go-go-got.com/) · 个人维护
+⭐ 261 · Go · MIT · 推送 2026-08-26 · [GitHub](https://github.com/aspasskiy/GoGogot) · [官网](https://go-go-got.com/) · 个人维护
 
 **Go 编写的自托管 AI agent，经 Telegram 对话执行任务**
 

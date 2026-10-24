@@ -1,6 +1,6 @@
 # mindsdb/anton
 
-⭐ 757 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mindsdb/anton) · [官网](https://mindsdb.github.io/anton/) · 组织维护
+⭐ 757 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mindsdb/anton) · [官网](https://mindsdb.github.io/anton/) · 组织维护
 
 **自我改进的通用任务 agent，替用户完成发邮件、报表、自动化等实际工作**
 

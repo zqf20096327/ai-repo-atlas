@@ -1,6 +1,6 @@
 # dotnet/machinelearning
 
-⭐ 9,361 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dotnet/machinelearning) · [官网](https://dot.net/ml) · 组织维护
+⭐ 9,362 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dotnet/machinelearning) · [官网](https://dot.net/ml) · 组织维护
 
 **面向 .NET 的跨平台开源机器学习框架**
 

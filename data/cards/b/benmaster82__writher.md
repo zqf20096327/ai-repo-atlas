@@ -1,6 +1,6 @@
 # benmaster82/writher
 
-⭐ 88 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/benmaster82/writher) · [官网](https://getwrither.com/) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/benmaster82/writher) · [官网](https://getwrither.com/) · 个人维护
 
 **Windows 离线语音听写与语音助手：全本地运行，无云无遥测**
 

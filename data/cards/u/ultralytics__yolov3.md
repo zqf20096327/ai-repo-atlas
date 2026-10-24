@@ -1,6 +1,6 @@
 # ultralytics/yolov3
 
-⭐ 10,622 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ultralytics/yolov3) · [官网](https://docs.ultralytics.com/models/yolov3/) · 组织维护
+⭐ 10,623 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ultralytics/yolov3) · [官网](https://docs.ultralytics.com/models/yolov3/) · 组织维护
 
 **给开发者的 YOLOv3 目标检测 PyTorch 实现（训练/推理/导出）**
 

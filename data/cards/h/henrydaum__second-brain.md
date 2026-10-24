@@ -1,6 +1,6 @@
 # henrydaum/second-brain
 
-⭐ 673 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/henrydaum/second-brain) · 个人维护
+⭐ 672 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/henrydaum/second-brain) · 个人维护
 
 **本地运行的 agent 操作系统：用 LLM 与文件智能完成个人任务**
 

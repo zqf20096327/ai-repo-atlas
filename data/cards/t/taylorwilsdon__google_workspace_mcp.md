@@ -1,6 +1,6 @@
 # taylorwilsdon/google_workspace_mcp
 
-⭐ 3,404 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) · [官网](https://workspacemcp.com) · 个人维护
+⭐ 3,407 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) · [官网](https://workspacemcp.com) · 个人维护
 
 **让 AI 助手通过 MCP 操控 12 项 Google Workspace 服务的服务器**
 

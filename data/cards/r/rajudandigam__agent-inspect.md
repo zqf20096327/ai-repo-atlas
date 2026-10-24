@@ -1,6 +1,6 @@
 # rajudandigam/agent-inspect
 
-⭐ 165 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/rajudandigam/agent-inspect) · [官网](https://agentinspect.vercel.app) · 个人维护
+⭐ 166 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/rajudandigam/agent-inspect) · [官网](https://agentinspect.vercel.app) · 个人维护
 
 **TypeScript AI agent 的本地轨迹调试与 CI 轨迹断言工具包**
 

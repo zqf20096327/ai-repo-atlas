@@ -1,6 +1,6 @@
 # QwenLM/Qwen-AgentWorld
 
-⭐ 1,030 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/QwenLM/Qwen-AgentWorld) · [官网](https://arxiv.org/abs/2606.24597) · 组织维护 · 中文 README
+⭐ 1,032 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/QwenLM/Qwen-AgentWorld) · [官网](https://arxiv.org/abs/2606.24597) · 组织维护 · 中文 README
 
 **面向通用 Agent 的语言世界模型（模拟环境）与配套评测基准**
 

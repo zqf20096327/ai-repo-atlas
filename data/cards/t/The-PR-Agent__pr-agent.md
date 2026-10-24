@@ -1,6 +1,6 @@
 # The-PR-Agent/pr-agent
 
-⭐ 13,569 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/The-PR-Agent/pr-agent) · [官网](https://www.pr-agent.ai)
+⭐ 13,588 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/The-PR-Agent/pr-agent) · [官网](https://www.pr-agent.ai)
 
 **面向开发团队的 AI 代码审查 agent，自动审查 PR**
 

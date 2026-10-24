@@ -1,6 +1,6 @@
 # betalgo/openai
 
-⭐ 3,027 · C# · MIT · 推送 2026-03-21 · [GitHub](https://github.com/betalgo/openai) · [官网](https://ranultinga.com/) · 个人维护
+⭐ 3,026 · C# · MIT · 推送 2026-03-21 · [GitHub](https://github.com/betalgo/openai) · [官网](https://ranultinga.com/) · 个人维护
 
 **.NET 社区库：在 .NET 应用中接入 OpenAI API**
 

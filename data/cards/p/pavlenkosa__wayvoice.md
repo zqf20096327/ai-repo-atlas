@@ -1,6 +1,6 @@
 # pavlenkosa/wayvoice
 
-⭐ 80 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/pavlenkosa/wayvoice) · 个人维护 · 中文 README
+⭐ 34 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/pavlenkosa/wayvoice) · 个人维护 · 中文 README
 
 **Linux/Wayland 离线语音输入工具：按键说话即出文字**
 

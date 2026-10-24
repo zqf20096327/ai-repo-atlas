@@ -1,6 +1,6 @@
 # no1msd/seance
 
-⭐ 137 · Zig · MIT · 推送 2026-09-11 · [GitHub](https://github.com/no1msd/seance) · [官网](https://no1msd.github.io/seance) · 个人维护
+⭐ 136 · Zig · MIT · 推送 2026-09-11 · [GitHub](https://github.com/no1msd/seance) · [官网](https://no1msd.github.io/seance) · 个人维护
 
 **追踪 AI 编码 agent 状态的 GTK4 Linux 终端复用器**
 

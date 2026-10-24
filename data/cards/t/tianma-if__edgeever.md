@@ -1,6 +1,6 @@
 # tianma-if/edgeever
 
-⭐ 2,525 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/tianma-if/edgeever) · [官网](https://edgeever.org) · 个人维护 · 中文 README
+⭐ 2,539 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/tianma-if/edgeever) · [官网](https://edgeever.org) · 个人维护 · 中文 README
 
 **自托管/Serverless 知识库笔记，可接 AI Agent 与多端同步**
 

@@ -1,6 +1,6 @@
 # AdrianBesleaga/AIFA
 
-⭐ 89 · 推送 2026-10-20 · [GitHub](https://github.com/AdrianBesleaga/AIFA) · [官网](https://adrianbesleaga.github.io/AIFA/) · 个人维护
+⭐ 87 · 推送 2026-10-20 · [GitHub](https://github.com/AdrianBesleaga/AIFA) · [官网](https://adrianbesleaga.github.io/AIFA/) · 个人维护
 
 **AI 原生全栈应用架构方法论：以可执行功能契约为核心组织人与 AI 协作开发**
 

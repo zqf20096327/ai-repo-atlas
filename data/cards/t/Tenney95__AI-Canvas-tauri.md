@@ -1,6 +1,6 @@
 # Tenney95/AI-Canvas-tauri
 
-⭐ 265 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Tenney95/AI-Canvas-tauri) · [官网](https://tenney95.github.io/AI-Canvas-tauri/) · 个人维护 · 中文 README
+⭐ 267 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Tenney95/AI-Canvas-tauri) · [官网](https://tenney95.github.io/AI-Canvas-tauri/) · 个人维护 · 中文 README
 
 **面向 AI 短剧与分镜创作的本地优先多模态画布桌面应用**
 

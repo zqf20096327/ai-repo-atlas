@@ -1,6 +1,6 @@
 # UCSC-REAL/TokenCleaning
 
-⭐ 56 · Python · 推送 2026-02-14 · [GitHub](https://github.com/UCSC-REAL/TokenCleaning) · [官网](https://arxiv.org/pdf/2502.01968) · 组织维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/UCSC-REAL/TokenCleaning) · [官网](https://arxiv.org/pdf/2502.01968) · 组织维护
 
 **ICML 2025 论文实现：面向 LLM SFT 的 token 级数据选择方法**
 
@@ -11,7 +11,7 @@ UC Santa Cruz 团队发表的 ICML 2025 论文官方代码实现。提出从噪�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

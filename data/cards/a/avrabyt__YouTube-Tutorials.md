@@ -1,6 +1,6 @@
 # avrabyt/YouTube-Tutorials
 
-⭐ 122 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/avrabyt/YouTube-Tutorials) · [官网](https://www.youtube.com/c/Avra_b) · 个人维护
+⭐ 122 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/avrabyt/YouTube-Tutorials) · [官网](https://www.youtube.com/c/Avra_b) · 个人维护
 
 **YouTube 教程视频合集仓库：Python/ML/bioinformatics/OpenAI 主题**
 

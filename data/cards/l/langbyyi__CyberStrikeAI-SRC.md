@@ -1,6 +1,6 @@
 # langbyyi/CyberStrikeAI-SRC
 
-⭐ 132 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/langbyyi/CyberStrikeAI-SRC) · 个人维护 · 中文 README
+⭐ 131 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/langbyyi/CyberStrikeAI-SRC) · 个人维护 · 中文 README
 
 **面向授权 SRC 漏洞挖掘的 AI 原生安全测试平台（Go）**
 

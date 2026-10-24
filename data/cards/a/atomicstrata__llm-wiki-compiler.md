@@ -1,6 +1,6 @@
 # atomicstrata/llm-wiki-compiler
 
-⭐ 2,214 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/atomicstrata/llm-wiki-compiler) · [官网](https://llmwiki.atomicstrata.ai) · 个人维护
+⭐ 2,217 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/atomicstrata/llm-wiki-compiler) · [官网](https://llmwiki.atomicstrata.ai) · 个人维护
 
 **将原始资料编译为带引用的互联 wiki 的知识编译器**
 

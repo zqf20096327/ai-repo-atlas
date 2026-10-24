@@ -1,6 +1,6 @@
 # Aryan-Pardeshi/CiteProof-AI-MCP
 
-⭐ 89 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Aryan-Pardeshi/CiteProof-AI-MCP) · [官网](https://deep-research-ai-xi.vercel.app/) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Aryan-Pardeshi/CiteProof-AI-MCP) · [官网](https://citeproof.top/) · 个人维护
 
 **系统综述审计工具集：MCP 审计服务器 + 证据落地研究应用**
 

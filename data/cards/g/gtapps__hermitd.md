@@ -1,6 +1,6 @@
 # gtapps/hermitd
 
-⭐ 82 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gtapps/hermitd) · [官网](https://hermitd.dev) · 组织维护
+⭐ 82 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/gtapps/hermitd) · [官网](https://hermitd.dev) · 组织维护
 
 **本地常驻 Claude Code agent 插件：从聊天渠道启动并托管会话**
 

@@ -1,6 +1,6 @@
 # GeminiLight/SocialCoach
 
-⭐ 424 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/GeminiLight/SocialCoach) · [官网](https://tianfu.wang/SocialCoach/) · 组织维护 · 中文 README
+⭐ 428 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/GeminiLight/SocialCoach) · [官网](https://tianfu.wang/SocialCoach/) · 组织维护 · 中文 README
 
 **个人社交技能练习工具：情境对练、复盘反馈与 3D 实景演练**
 

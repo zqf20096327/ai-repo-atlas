@@ -1,6 +1,6 @@
 # taylorsatula/mira
 
-⭐ 482 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/taylorsatula/mira) · [官网](https://www.miraos.org) · 个人维护
+⭐ 481 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/taylorsatula/mira) · [官网](https://www.miraos.org) · 个人维护
 
 **持续在线的个人 AI 助手，带长期记忆与自我行为调适**
 

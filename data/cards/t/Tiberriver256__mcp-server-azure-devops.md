@@ -1,6 +1,6 @@
 # Tiberriver256/mcp-server-azure-devops
 
-⭐ 397 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Tiberriver256/mcp-server-azure-devops) · 个人维护
+⭐ 397 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Tiberriver256/mcp-server-azure-devops) · 个人维护
 
 **让 AI 助手通过 MCP 协议操作 Azure DevOps 的社区服务器**
 

@@ -1,6 +1,6 @@
 # Mubelotix/SimRepo
 
-⭐ 439 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Mubelotix/SimRepo) · [官网](https://star-history.dera.page) · 个人维护
+⭐ 443 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Mubelotix/SimRepo) · [官网](https://star-history.dera.page) · 个人维护
 
 **无需 Token 的 GitHub 星图与相似仓库推荐工具（含浏览器扩展）**
 

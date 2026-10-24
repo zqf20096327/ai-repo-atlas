@@ -1,6 +1,6 @@
 # BUPT-GAMMA/MASFactory
 
-⭐ 565 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/BUPT-GAMMA/MASFactory) · [官网](https://masfactory.dev) · 组织维护 · 中文 README
+⭐ 558 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/BUPT-GAMMA/MASFactory) · [官网](https://masfactory.dev) · 组织维护 · 中文 README
 
 **面向多智能体系统的图编排框架：意图生成可执行工作流**
 

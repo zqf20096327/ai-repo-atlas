@@ -1,6 +1,6 @@
 # kyegomez/awesome-multi-agent-papers
 
-⭐ 1,702 · TeX · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/kyegomez/awesome-multi-agent-papers) · [官网](https://discord.gg/3keGBK9Pvr) · 组织维护
+⭐ 1,702 · TeX · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/kyegomez/awesome-multi-agent-papers) · [官网](https://discord.gg/3keGBK9Pvr) · 组织维护
 
 **多智能体（Multi-Agent）研究论文策展清单**
 

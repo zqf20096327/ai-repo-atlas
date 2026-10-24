@@ -1,6 +1,6 @@
 # microsoft/generative-ai-for-beginners
 
-⭐ 122,002 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/generative-ai-for-beginners) · 组织维护
+⭐ 122,075 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/generative-ai-for-beginners) · 组织维护
 
 **面向初学者的生成式 AI 应用开发入门课程（21 课）**
 

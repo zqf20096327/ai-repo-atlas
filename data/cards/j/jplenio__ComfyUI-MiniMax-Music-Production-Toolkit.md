@@ -1,6 +1,6 @@
 # jplenio/ComfyUI-MiniMax-Music-Production-Toolkit
 
-⭐ 89 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/jplenio/ComfyUI-MiniMax-Music-Production-Toolkit) · 个人维护
+⭐ 90 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/jplenio/ComfyUI-MiniMax-Music-Production-Toolkit) · 个人维护
 
 **ComfyUI 本地音乐生产工具集：写歌、翻唱、修复、母带与封面**
 

@@ -1,6 +1,6 @@
 # goccy/go-llama
 
-⭐ 170 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/goccy/go-llama) · 个人维护
+⭐ 171 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/goccy/go-llama) · 个人维护
 
 **纯 Go 实现的 llama.cpp 推理引擎，运行 GGUF 模型**
 

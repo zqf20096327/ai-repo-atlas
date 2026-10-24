@@ -1,6 +1,6 @@
 # microsoft/dstoolkit-text2sql-and-imageprocessing
 
-⭐ 106 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/dstoolkit-text2sql-and-imageprocessing) · [官网](https://www.ds-toolkit.com/) · 组织维护
+⭐ 106 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/dstoolkit-text2sql-and-imageprocessing) · [官网](https://www.ds-toolkit.com/) · 组织维护
 
 **给 RAG 开发者的示例代码库：Text2SQL 与文档图像处理插件**
 

@@ -1,6 +1,6 @@
 # Thysrael/Horizon
 
-⭐ 10,966 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Thysrael/Horizon) · [官网](https://www.horizon1123.top) · 个人维护 · 中文 README
+⭐ 10,991 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Thysrael/Horizon) · [官网](https://www.horizon1123.top) · 个人维护 · 中文 README
 
 **AI 驱动的个人新闻雷达：多源聚合并生成中英日报**
 

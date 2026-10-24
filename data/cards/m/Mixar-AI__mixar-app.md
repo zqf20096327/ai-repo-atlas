@@ -1,6 +1,6 @@
 # Mixar-AI/mixar-app
 
-⭐ 552 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Mixar-AI/mixar-app) · [官网](https://www.mixar.app) · 组织维护
+⭐ 555 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Mixar-AI/mixar-app) · [官网](https://www.mixar.app) · 组织维护
 
 **带 AI 助手与生成工具的 Blender 定制桌面应用（3D 创作套件）**
 

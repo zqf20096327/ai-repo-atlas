@@ -1,6 +1,6 @@
 # nuwa-skills/montessori-skill
 
-⭐ 75 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/nuwa-skills/montessori-skill) · 组织维护 · 中文 README
+⭐ 77 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/nuwa-skills/montessori-skill) · 组织维护 · 中文 README
 
 **让 AI 以蒙特梭利教育视角回应育儿问题的 agent 技能包**
 

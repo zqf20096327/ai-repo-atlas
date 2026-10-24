@@ -1,6 +1,6 @@
 # xiaodou-official/xiaodou-open-platform
 
-⭐ 319 · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/xiaodou-official/xiaodou-open-platform) · [官网](https://xdfair.cn/) · 组织维护 · 中文 README
+⭐ 323 · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/xiaodou-official/xiaodou-open-platform) · [官网](https://xdfair.cn/) · 组织维护 · 中文 README
 
 **支付宝+微信聚合支付接口接入资料，面向个人开发者与个人网站**
 

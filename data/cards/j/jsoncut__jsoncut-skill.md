@@ -1,6 +1,6 @@
 # jsoncut/jsoncut-skill
 
-⭐ 62 · 推送 2026-04-10 · [GitHub](https://github.com/jsoncut/jsoncut-skill) · 组织维护
+⭐ 63 · 推送 2026-04-10 · [GitHub](https://github.com/jsoncut/jsoncut-skill) · 组织维护
 
 **教 AI agent 调用 JsonCut API 生成图片和视频的技能文档包**
 

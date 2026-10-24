@@ -1,6 +1,6 @@
 # nobodywho-ooo/nobodywho
 
-⭐ 1,638 · Rust · EUPL-1.2 · 推送 2026-10-22 · [GitHub](https://github.com/nobodywho-ooo/nobodywho) · [官网](https://nobodywho.ai) · 组织维护
+⭐ 1,643 · Rust · EUPL-1.2 · 推送 2026-10-24 · [GitHub](https://github.com/nobodywho-ooo/nobodywho) · [官网](https://nobodywho.ai) · 组织维护
 
 **多平台本地 LLM 推理引擎，提供六种语言绑定**
 

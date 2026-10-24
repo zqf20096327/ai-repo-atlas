@@ -1,6 +1,6 @@
 # dataelement/bisheng
 
-⭐ 12,073 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/dataelement/bisheng) · [官网](http://www.bisheng.ai) · 组织维护 · 中文 README
+⭐ 12,075 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/dataelement/bisheng) · [官网](http://www.bisheng.ai) · 组织维护 · 中文 README
 
 **企业级开源 LLM 应用 DevOps 平台：工作流、RAG、Agent 一体化**
 

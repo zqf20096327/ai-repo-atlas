@@ -1,6 +1,6 @@
 # qf-studio/navigator
 
-⭐ 354 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/qf-studio/navigator) · [官网](https://quantflow.studio) · 组织维护
+⭐ 355 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/qf-studio/navigator) · [官网](https://quantflow.studio) · 组织维护
 
 **给 Claude Code 用户的上下文工程插件：按需加载文档延长会话**
 

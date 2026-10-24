@@ -1,6 +1,6 @@
 # wangzhishou/OneBox
 
-⭐ 870 · Kotlin · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/wangzhishou/OneBox) · [官网](https://www.oneboxable.com) · 个人维护 · 中文 README
+⭐ 882 · Kotlin · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/wangzhishou/OneBox) · [官网](https://www.oneboxable.com) · 个人维护 · 中文 README
 
 **安卓一站式 AI 智能体与工具箱应用（104 个功能模块）**
 

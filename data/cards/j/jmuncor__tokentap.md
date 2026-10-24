@@ -1,6 +1,6 @@
 # jmuncor/tokentap
 
-⭐ 811 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/jmuncor/tokentap) · [官网](https://github.com/jmuncor/tokentap) · 个人维护
+⭐ 810 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/jmuncor/tokentap) · [官网](https://github.com/jmuncor/tokentap) · 个人维护
 
 **LLM CLI 工具的 token 用量拦截监控代理与终端仪表盘**
 

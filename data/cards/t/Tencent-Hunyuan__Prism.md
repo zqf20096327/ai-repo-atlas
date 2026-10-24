@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Prism
 
-⭐ 835 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Tencent-Hunyuan/Prism) · [官网](https://francis-rings.github.io/Prism) · 组织维护 · 中文 README
+⭐ 980 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Tencent-Hunyuan/Prism) · [官网](https://francis-rings.github.io/Prism) · 组织维护 · 中文 README
 
 **面向研究者的动态稀疏注意力联合视频-音频生成训练框架**
 

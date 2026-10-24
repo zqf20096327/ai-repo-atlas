@@ -1,6 +1,6 @@
 # NVIDIA/boro
 
-⭐ 66 · Rust · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/NVIDIA/boro) · 组织维护
+⭐ 67 · Rust · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/NVIDIA/boro) · 组织维护
 
 **面向 Linux 内核开发者的 AI 补丁审查与测试 CLI**
 

@@ -1,6 +1,6 @@
 # mindee/doctr
 
-⭐ 6,392 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mindee/doctr) · [官网](https://mindee.github.io/doctr/) · 组织维护
+⭐ 6,393 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mindee/doctr) · [官网](https://mindee.github.io/doctr/) · 组织维护
 
 **深度学习 OCR 库：从 PDF/图像中定位并识别文档文字**
 

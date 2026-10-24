@@ -1,6 +1,6 @@
 # FareedKhan-dev/agentic-loop-engineering-course
 
-⭐ 60 · Jupyter Notebook · MIT · 推送 2026-06-29 · [GitHub](https://github.com/FareedKhan-dev/agentic-loop-engineering-course) · [官网](https://medium.com/@fareedkhandev/optimizing-agentic-system-using-loop-engineering-7966adad5835) · 个人维护
+⭐ 61 · Jupyter Notebook · MIT · 推送 2026-06-29 · [GitHub](https://github.com/FareedKhan-dev/agentic-loop-engineering-course) · [官网](https://medium.com/@fareedkhandev/optimizing-agentic-system-using-loop-engineering-7966adad5835) · 个人维护
 
 **18 个 notebook 的 agentic 循环工程课程：逐组件实测**
 

@@ -1,6 +1,6 @@
 # moazbuilds/CodeMachine-CLI
 
-⭐ 2,515 · TypeScript · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/moazbuilds/CodeMachine-CLI) · [官网](https://codemachine.co/) · 个人维护
+⭐ 2,514 · TypeScript · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/moazbuilds/CodeMachine-CLI) · [官网](https://codemachine.co/) · 个人维护
 
 **将 AI 编码代理编排为可复用长时工作流的 CLI 工具**
 

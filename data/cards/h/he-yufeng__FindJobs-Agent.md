@@ -1,6 +1,6 @@
 # he-yufeng/FindJobs-Agent
 
-⭐ 242 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/FindJobs-Agent) · 个人维护 · 中文 README
+⭐ 243 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/FindJobs-Agent) · 个人维护 · 中文 README
 
 **求职者用的全栈求职助手：爬岗位、LLM 分析、简历匹配与 AI 模拟面试**
 

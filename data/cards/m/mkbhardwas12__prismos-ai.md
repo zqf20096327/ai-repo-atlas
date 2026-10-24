@@ -1,6 +1,6 @@
 # mkbhardwas12/prismos-ai
 
-⭐ 378 · Rust · MIT · 推送 2026-10-06 · [GitHub](https://github.com/mkbhardwas12/prismos-ai) · [官网](https://github.com/mkbhardwas12/prismos-ai) · 个人维护
+⭐ 377 · Rust · MIT · 推送 2026-10-06 · [GitHub](https://github.com/mkbhardwas12/prismos-ai) · [官网](https://github.com/mkbhardwas12/prismos-ai) · 个人维护
 
 **本地优先的桌面 AI：离线聊天读文件、生成 3D 场景、查日志加固配置**
 

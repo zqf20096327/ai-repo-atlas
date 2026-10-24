@@ -1,6 +1,6 @@
 # ItsJazii/pane
 
-⭐ 81 · Rust · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/ItsJazii/pane) · [官网](https://trypane.xyz) · 个人维护 · 中文 README
+⭐ 81 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ItsJazii/pane) · [官网](https://trypane.xyz) · 个人维护 · 中文 README
 
 **Windows 托盘应用：统一查看 25+ AI 订阅的额度与花费**
 

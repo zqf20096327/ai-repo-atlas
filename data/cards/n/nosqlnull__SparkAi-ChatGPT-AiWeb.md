@@ -1,6 +1,6 @@
 # nosqlnull/SparkAi-ChatGPT-AiWeb
 
-⭐ 75 · JavaScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/nosqlnull/SparkAi-ChatGPT-AiWeb) · [官网](https://docs.sparkaigc.com) · 个人维护 · 中文 README
+⭐ 76 · JavaScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/nosqlnull/SparkAi-ChatGPT-AiWeb) · [官网](https://docs.sparkaigc.com) · 个人维护 · 中文 README
 
 **可私有部署的 AIGC 商业网站系统：AI 对话/绘画/视频+会员支付**
 

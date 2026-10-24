@@ -1,6 +1,6 @@
 # webbrain-one/webbrain
 
-⭐ 1,527 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/webbrain-one/webbrain) · [官网](https://webbrain.one) · 组织维护 · 中文 README
+⭐ 1,531 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/webbrain-one/webbrain) · [官网](https://webbrain.one) · 组织维护 · 中文 README
 
 **浏览器侧边栏 AI agent 扩展：对话操作网页与多步任务**
 

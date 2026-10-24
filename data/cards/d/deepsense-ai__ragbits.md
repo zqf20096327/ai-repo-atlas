@@ -1,6 +1,6 @@
 # deepsense-ai/ragbits
 
-⭐ 1,678 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/deepsense-ai/ragbits) · [官网](https://ragbits.deepsense.ai) · 组织维护
+⭐ 1,677 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/deepsense-ai/ragbits) · [官网](https://ragbits.deepsense.ai) · 组织维护
 
 **面向开发者的 GenAI 应用构建模块库（LLM/RAG/Agent/评测）**
 

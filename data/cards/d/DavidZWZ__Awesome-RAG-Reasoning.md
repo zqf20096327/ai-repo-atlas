@@ -1,6 +1,6 @@
 # DavidZWZ/Awesome-RAG-Reasoning
 
-⭐ 461 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) · [官网](https://arxiv.org/abs/2507.09477) · 组织维护
+⭐ 460 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) · [官网](https://arxiv.org/abs/2507.09477) · 组织维护
 
 **RAG 与推理交叉领域的论文与资源策展清单**
 

@@ -1,6 +1,6 @@
 # ruashots/open-h3-ir
 
-⭐ 116 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/ruashots/open-h3-ir) · 个人维护
+⭐ 120 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/ruashots/open-h3-ir) · 个人维护
 
 **把自然语言提示编译为 MiniMax H3 结构化视频简报的本地工具**
 

@@ -1,6 +1,6 @@
 # openai/math
 
-⭐ 15,429 · Lean · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/openai/math) · 组织维护
+⭐ 15,473 · Lean · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/openai/math) · 组织维护
 
 **面向数学研究者的 OpenAI 模型生成数学论文集与证明工件**
 

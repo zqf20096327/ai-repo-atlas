@@ -1,6 +1,6 @@
 # Aseiel/VideoHighlighter
 
-⭐ 294 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Aseiel/VideoHighlighter) · 个人维护
+⭐ 300 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Aseiel/VideoHighlighter) · 个人维护
 
 **本地离线 AI 视频分析桌面应用：检测/高光/字幕一体**
 

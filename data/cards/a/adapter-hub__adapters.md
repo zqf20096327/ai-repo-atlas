@@ -1,6 +1,6 @@
 # adapter-hub/adapters
 
-⭐ 2,830 · Python · Apache-2.0 · 推送 2026-04-26 · [GitHub](https://github.com/adapter-hub/adapters) · [官网](https://docs.adapterhub.ml) · 组织维护
+⭐ 2,831 · Python · Apache-2.0 · 推送 2026-04-26 · [GitHub](https://github.com/adapter-hub/adapters) · [官网](https://docs.adapterhub.ml) · 组织维护
 
 **为 NLP 研究者提供的参数高效微调统一库（适配器/LoRA 等）**
 

@@ -1,6 +1,6 @@
 # materialyzeai/maml
 
-⭐ 467 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/materialyzeai/maml) · 组织维护
+⭐ 467 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/materialyzeai/maml) · 组织维护
 
 **材料科学机器学习 Python 库：材料特征、力场与性质预测**
 

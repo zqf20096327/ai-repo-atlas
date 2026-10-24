@@ -1,6 +1,6 @@
 # xRiskLab/xBooster
 
-⭐ 58 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/xRiskLab/xBooster) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/xRiskLab/xBooster) · 组织维护
 
 **把 XGBoost/LightGBM/CatBoost 转成可解释信用评分卡的 Python 库**
 

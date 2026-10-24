@@ -1,6 +1,6 @@
 # xpert-ai/xpert
 
-⭐ 466 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/xpert-ai/xpert) · [官网](https://xpertai.cn/en/) · 组织维护 · 中文 README
+⭐ 466 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/xpert-ai/xpert) · [官网](https://xpertai.cn/en/) · 组织维护 · 中文 README
 
 **构建与治理 AI Agent 团队的开源平台及桌面端 Bosi**
 

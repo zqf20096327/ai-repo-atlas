@@ -1,6 +1,6 @@
 # langchain-ai/intro-to-langsmith
 
-⭐ 168 · Jupyter Notebook · MIT · 推送 2026-09-25 · [GitHub](https://github.com/langchain-ai/intro-to-langsmith) · 组织维护
+⭐ 169 · Jupyter Notebook · MIT · 推送 2026-09-25 · [GitHub](https://github.com/langchain-ai/intro-to-langsmith) · 组织维护
 
 **LangSmith 入门课程配套代码仓库（教程资源）**
 

@@ -1,6 +1,6 @@
 # nbonamy/multi-llm-ts
 
-⭐ 84 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/nbonamy/multi-llm-ts) · [官网](https://nbonamy.github.io/multi-llm-ts) · 个人维护
+⭐ 85 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/nbonamy/multi-llm-ts) · [官网](https://nbonamy.github.io/multi-llm-ts) · 个人维护
 
 **统一调用多家 LLM 提供商 API 的 TypeScript 库**
 

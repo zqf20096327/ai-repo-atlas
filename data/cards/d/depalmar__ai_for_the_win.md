@@ -1,6 +1,6 @@
 # depalmar/ai_for_the_win
 
-⭐ 166 · Python · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/depalmar/ai_for_the_win) · [官网](https://depalmar.github.io/ai_for_the_win/) · 个人维护
+⭐ 167 · Python · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/depalmar/ai_for_the_win) · [官网](https://depalmar.github.io/ai_for_the_win/) · 个人维护
 
 **面向安全从业者的 AI 安全实战训练课程：50+ 实验、4 个毕业项目、18 个 CTF 题**
 

@@ -1,6 +1,6 @@
 # georgevibing/conch-agent
 
-⭐ 109 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/georgevibing/conch-agent) · [官网](https://conchagent.com) · 个人维护
+⭐ 108 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/georgevibing/conch-agent) · [官网](https://conchagent.com) · 个人维护
 
 **自托管的统一 AI 助手客户端：把已付费的各家模型聚合在一个应用里**
 

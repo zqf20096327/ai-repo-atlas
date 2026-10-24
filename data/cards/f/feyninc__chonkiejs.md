@@ -1,6 +1,6 @@
 # feyninc/chonkiejs
 
-⭐ 368 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/feyninc/chonkiejs) · [官网](https://chonkie.ai) · 组织维护
+⭐ 367 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/feyninc/chonkiejs) · [官网](https://chonkie.ai) · 组织维护
 
 **TypeScript 文本分块库：为 RAG 应用提供轻量分块能力**
 

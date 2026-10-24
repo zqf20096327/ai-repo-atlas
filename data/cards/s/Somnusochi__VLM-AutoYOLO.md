@@ -1,6 +1,6 @@
 # Somnusochi/VLM-AutoYOLO
 
-⭐ 267 · Python · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/Somnusochi/VLM-AutoYOLO) · 个人维护 · 中文 README
+⭐ 268 · Python · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/Somnusochi/VLM-AutoYOLO) · 个人维护 · 中文 README
 
 **VLM 自动标注与 YOLO 训练一体化平台**
 

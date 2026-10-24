@@ -1,6 +1,6 @@
 # ystemsrx/mini-nanoGPT
 
-⭐ 383 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ystemsrx/mini-nanoGPT) · [官网](https://b23.tv/Ia9mqPS) · 个人维护 · 中文 README
+⭐ 384 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ystemsrx/mini-nanoGPT) · [官网](https://b23.tv/Ia9mqPS) · 个人维护 · 中文 README
 
 **面向初学者的可视化 GPT 训练平台：一键预训练与 SFT**
 

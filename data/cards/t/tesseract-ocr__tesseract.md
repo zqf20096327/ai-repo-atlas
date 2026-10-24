@@ -1,6 +1,6 @@
 # tesseract-ocr/tesseract
 
-⭐ 77,137 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tesseract-ocr/tesseract) · [官网](https://tesseract-ocr.github.io/) · 组织维护
+⭐ 77,151 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/tesseract-ocr/tesseract) · [官网](https://tesseract-ocr.github.io/) · 组织维护
 
 **OCR 引擎：为开发者提供图片文字识别库与命令行工具**
 

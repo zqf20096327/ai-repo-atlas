@@ -1,6 +1,6 @@
 # langchain-ai/helm
 
-⭐ 97 · Shell · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/helm) · 组织维护
+⭐ 97 · Shell · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/langchain-ai/helm) · 组织维护
 
 **Kubernetes 上部署 LangChain 应用的 Helm chart 仓库**
 

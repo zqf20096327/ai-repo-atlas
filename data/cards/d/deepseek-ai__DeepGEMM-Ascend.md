@@ -1,6 +1,6 @@
 # deepseek-ai/DeepGEMM-Ascend
 
-⭐ 610 · C++ · MIT · 推送 2026-10-14 · [GitHub](https://github.com/deepseek-ai/DeepGEMM-Ascend) · 组织维护 · 中文 README
+⭐ 611 · C++ · MIT · 推送 2026-10-14 · [GitHub](https://github.com/deepseek-ai/DeepGEMM-Ascend) · 组织维护 · 中文 README
 
 **华为昇腾 NPU 上的 DeepGEMM 矩阵乘 kernel 库移植**
 

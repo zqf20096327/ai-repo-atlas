@@ -1,6 +1,6 @@
 # smixs/agent-second-brain
 
-⭐ 410 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/smixs/agent-second-brain) · [官网](https://t.me/aimastersme) · 个人维护
+⭐ 411 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/smixs/agent-second-brain) · [官网](https://t.me/aimastersme) · 个人维护
 
 **常驻 Telegram 语音助手：把语音/消息整理进 Obsidian 知识库**
 

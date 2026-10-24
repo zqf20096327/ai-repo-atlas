@@ -1,6 +1,6 @@
 # iscyy/ultralyticsPro
 
-⭐ 2,954 · Python · 推送 2025-12-15 · [GitHub](https://github.com/iscyy/ultralyticsPro) · [官网](https://github.com/iscyy/ultralyticsPro) · 个人维护 · 中文 README
+⭐ 2,953 · Python · 推送 2025-12-15 · [GitHub](https://github.com/iscyy/ultralyticsPro) · [官网](https://github.com/iscyy/ultralyticsPro) · 个人维护 · 中文 README
 
 **YOLO 系列目标检测模型的改进版集合与模块库**
 

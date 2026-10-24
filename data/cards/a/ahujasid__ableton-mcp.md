@@ -1,6 +1,6 @@
 # ahujasid/ableton-mcp
 
-⭐ 3,227 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/ahujasid/ableton-mcp) · 个人维护
+⭐ 3,237 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/ahujasid/ableton-mcp) · 个人维护
 
 **让 LLM 通过 MCP 控制 Ableton Live 做音乐制作的服务器**
 

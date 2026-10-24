@@ -1,6 +1,6 @@
 # mensfeld/craftdesk
 
-⭐ 67 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/mensfeld/craftdesk) · [官网](http://craftdesk.ai/) · 个人维护
+⭐ 67 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/mensfeld/craftdesk) · [官网](http://craftdesk.ai/) · 个人维护
 
 **面向 Claude Code 的 AI 技能/Agent 包管理器**
 

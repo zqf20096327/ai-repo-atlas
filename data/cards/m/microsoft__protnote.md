@@ -1,6 +1,6 @@
 # microsoft/protnote
 
-⭐ 64 · Jupyter Notebook · MIT · 推送 2026-09-14 · [GitHub](https://github.com/microsoft/protnote) · 组织维护
+⭐ 65 · Jupyter Notebook · MIT · 推送 2026-09-14 · [GitHub](https://github.com/microsoft/protnote) · 组织维护
 
 **科研者用自由文本做蛋白质功能预测的多模态深度学习模型**
 

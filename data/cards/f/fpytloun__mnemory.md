@@ -1,6 +1,6 @@
 # fpytloun/mnemory
 
-⭐ 280 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/fpytloun/mnemory) · 个人维护
+⭐ 279 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/fpytloun/mnemory) · 个人维护
 
 **给 AI agent 提供自托管长期记忆的 MCP 服务器**
 

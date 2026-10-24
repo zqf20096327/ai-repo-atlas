@@ -1,6 +1,6 @@
 # sakeven/Selected
 
-⭐ 115 · Swift · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/sakeven/Selected) · [官网](https://plus.anynotes.app/) · 个人维护 · 中文 README
+⭐ 116 · Swift · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/sakeven/Selected) · [官网](https://plus.anynotes.app/) · 个人维护 · 中文 README
 
 **macOS 划词操作菜单栏工具：搜索/翻译/朗读/AI 处理选中文本**
 

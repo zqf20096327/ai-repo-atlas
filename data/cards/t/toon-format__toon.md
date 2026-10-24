@@ -1,6 +1,6 @@
 # toon-format/toon
 
-⭐ 25,550 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/toon-format/toon) · [官网](https://toonformat.dev) · 组织维护
+⭐ 25,552 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/toon-format/toon) · [官网](https://toonformat.dev) · 组织维护
 
 **为 LLM 提示词设计的紧凑 JSON 序列化格式，降低 token 消耗**
 

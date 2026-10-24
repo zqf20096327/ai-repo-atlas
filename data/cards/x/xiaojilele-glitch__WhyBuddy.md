@@ -1,6 +1,6 @@
 # xiaojilele-glitch/WhyBuddy
 
-⭐ 373 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/xiaojilele-glitch/WhyBuddy) · [官网](http://www.miantuan.ai/) · 个人维护 · 中文 README
+⭐ 376 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/xiaojilele-glitch/WhyBuddy) · [官网](http://www.miantuan.ai/) · 个人维护 · 中文 README
 
 **一句话需求推演出可运行产品的门控推演引擎**
 

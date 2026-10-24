@@ -1,6 +1,6 @@
 # 14790897/tg-voice-ai
 
-⭐ 251 · TypeScript · 推送 2026-06-14 · [GitHub](https://github.com/14790897/tg-voice-ai) · [官网](https://t.me/tg_voice_ai_bot) · 个人维护 · 中文 README
+⭐ 250 · TypeScript · 推送 2026-06-14 · [GitHub](https://github.com/14790897/tg-voice-ai) · [官网](https://t.me/tg_voice_ai_bot) · 个人维护 · 中文 README
 
 **Telegram 语音对话机器人：语音/文字进，语音+文字回复**
 

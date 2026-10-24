@@ -1,6 +1,6 @@
 # mlr-org/mlr3
 
-⭐ 1,082 · R · LGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/mlr-org/mlr3) · [官网](https://mlr3.mlr-org.com) · 组织维护
+⭐ 1,083 · R · LGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/mlr-org/mlr3) · [官网](https://mlr3.mlr-org.com) · 组织维护
 
 **R 语言面向对象机器学习框架，mlr 的继任者**
 

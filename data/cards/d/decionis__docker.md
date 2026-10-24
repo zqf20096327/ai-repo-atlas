@@ -1,6 +1,6 @@
 # decionis/docker
 
-⭐ 165 · Go · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/decionis/docker) · [官网](https://www.decionis.com) · 组织维护
+⭐ 148 · Go · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/decionis/docker) · [官网](https://www.decionis.com) · 组织维护
 
 **在 Docker 中治理 AI agent 敏感操作的执行授权层**
 

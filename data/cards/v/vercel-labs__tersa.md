@@ -1,6 +1,6 @@
 # vercel-labs/tersa
 
-⭐ 1,044 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/vercel-labs/tersa) · [官网](https://tersa-phi.vercel.app) · 组织维护
+⭐ 1,043 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/vercel-labs/tersa) · [官网](https://tersa-phi.vercel.app) · 组织维护
 
 **可视化拖拽画布，用于搭建和运行 AI 工作流**
 

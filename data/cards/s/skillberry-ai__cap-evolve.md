@@ -1,6 +1,6 @@
 # skillberry-ai/cap-evolve
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/skillberry-ai/cap-evolve) · [官网](https://skillberry-ai.github.io/cap-evolve/) · 组织维护
+⭐ 66 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/skillberry-ai/cap-evolve) · [官网](https://skillberry-ai.github.io/cap-evolve/) · 组织维护
 
 **AI agent 优化工具：基于评测轨迹迭代优化提示词、工具与技能**
 

@@ -1,6 +1,6 @@
 # thalesgroup-cert/Watcher
 
-⭐ 1,435 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/thalesgroup-cert/Watcher) · [官网](https://thalesgroup-cert.github.io/Watcher/) · 组织维护
+⭐ 1,434 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/thalesgroup-cert/Watcher) · [官网](https://thalesgroup-cert.github.io/Watcher/) · 组织维护
 
 **面向安全运营的 AI 威胁情报与监测平台**
 

@@ -1,6 +1,6 @@
 # ThinkInAIXYZ/deepchat
 
-⭐ 6,372 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [官网](https://deepchat.thinkinai.xyz/) · 组织维护 · 中文 README
+⭐ 6,371 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [官网](https://deepchat.thinkinai.xyz/) · 组织维护 · 中文 README
 
 **开源本地优先的 AI Agent 桌面客户端，聚合多云与本地模型**
 

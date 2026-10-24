@@ -1,6 +1,6 @@
 # hhyqhh/inno-agent
 
-⭐ 1,306 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/hhyqhh/inno-agent) · [官网](https://hhyqhh.github.io/inno-agent-website) · 个人维护 · 中文 README
+⭐ 1,306 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hhyqhh/inno-agent) · [官网](https://hhyqhh.github.io/inno-agent-website) · 个人维护 · 中文 README
 
 **单人学习伴侣 agent：三层记忆+主动调度+个人 IM 通道**
 

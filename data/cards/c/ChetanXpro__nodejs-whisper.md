@@ -1,6 +1,6 @@
 # ChetanXpro/nodejs-whisper
 
-⭐ 212 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ChetanXpro/nodejs-whisper) · [官网](https://npmjs.com/nodejs-whisper) · 个人维护
+⭐ 213 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ChetanXpro/nodejs-whisper) · [官网](https://npmjs.com/nodejs-whisper) · 个人维护
 
 **Whisper 语音转文字的 Node.js 绑定库，CPU 运行**
 

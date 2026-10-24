@@ -1,6 +1,6 @@
 # zilliztech/deep-searcher
 
-⭐ 8,350 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/zilliztech/deep-searcher) · [官网](https://zilliztech.github.io/deep-searcher/) · 组织维护
+⭐ 8,348 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/zilliztech/deep-searcher) · [官网](https://zilliztech.github.io/deep-searcher/) · 组织维护
 
 **面向私有数据的深度搜索 RAG 框架，产出回答与报告**
 

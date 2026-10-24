@@ -1,6 +1,6 @@
 # zhu1090093659/spec_driven_develop
 
-⭐ 992 · Shell · MIT · 推送 2026-07-26 · [GitHub](https://github.com/zhu1090093659/spec_driven_develop) · 个人维护 · 中文 README
+⭐ 991 · Shell · MIT · 推送 2026-07-26 · [GitHub](https://github.com/zhu1090093659/spec_driven_develop) · 个人维护 · 中文 README
 
 **给 AI 编程 agent 的规格驱动开发工作流插件（纯 Markdown）**
 

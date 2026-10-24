@@ -1,6 +1,6 @@
 # rilldata/rill
 
-⭐ 2,961 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rilldata/rill) · [官网](https://www.rilldata.com) · 组织维护
+⭐ 2,964 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/rilldata/rill) · [官网](https://www.rilldata.com) · 组织维护
 
 **面向人与 AI agent 的 BI 工具：以代码定义数据模型、指标与看板**
 

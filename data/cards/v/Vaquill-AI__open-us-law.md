@@ -1,6 +1,6 @@
 # Vaquill-AI/open-us-law
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Vaquill-AI/open-us-law) · [官网](https://huggingface.co/datasets/vaquill/open-us-law) · 组织维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Vaquill-AI/open-us-law) · [官网](https://huggingface.co/datasets/vaquill/open-us-law) · 组织维护
 
 **美国成文法结构化开放语料库：509万条法条及采集管线**
 

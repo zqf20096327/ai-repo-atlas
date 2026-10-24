@@ -1,6 +1,6 @@
 # plmbr/notebook-intelligence
 
-⭐ 348 · Python · GPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/plmbr/notebook-intelligence) · [官网](https://nbi.plmbr.dev) · 组织维护
+⭐ 348 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/plmbr/notebook-intelligence) · [官网](https://nbi.plmbr.dev) · 组织维护
 
 **JupyterLab 的 AI 编码助手扩展与可扩展 AI 框架**
 

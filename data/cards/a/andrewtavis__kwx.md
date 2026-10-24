@@ -1,6 +1,6 @@
 # andrewtavis/kwx
 
-⭐ 79 · Python · BSD-3-Clause · 推送 2026-09-19 · [GitHub](https://github.com/andrewtavis/kwx) · 个人维护
+⭐ 79 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/andrewtavis/kwx) · 个人维护
 
 **面向多语言文本的关键词提取 Python 工具包（BERT/LDA/TFIDF）**
 

@@ -1,6 +1,6 @@
 # qdrant/landing_page
 
-⭐ 62 · SCSS · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/landing_page) · 组织维护
+⭐ 62 · SCSS · 推送 2026-10-24 · [GitHub](https://github.com/qdrant/landing_page) · 组织维护
 
 **qdrant.tech 官网的 Hugo 源码仓库与内容维护指南**
 

@@ -1,6 +1,6 @@
 # microsoft/best-route-llm
 
-⭐ 69 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/best-route-llm) · 组织维护
+⭐ 70 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/best-route-llm) · 组织维护
 
 **面向研究者的 LLM 查询路由训练代码：按难度选模型与采样数**
 

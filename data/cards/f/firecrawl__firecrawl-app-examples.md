@@ -1,6 +1,6 @@
 # firecrawl/firecrawl-app-examples
 
-⭐ 832 · Jupyter Notebook · 推送 2026-01-13 · [GitHub](https://github.com/firecrawl/firecrawl-app-examples) · [官网](https://www.firecrawl.dev/) · 组织维护
+⭐ 830 · Jupyter Notebook · 推送 2026-01-13 · [GitHub](https://github.com/firecrawl/firecrawl-app-examples) · [官网](https://www.firecrawl.dev/) · 组织维护
 
 **Firecrawl 构建的完整应用示例集合**
 

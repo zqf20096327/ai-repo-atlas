@@ -1,6 +1,6 @@
 # QuinnDamerell/OctoPrint-OctoEverywhere
 
-⭐ 306 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/QuinnDamerell/OctoPrint-OctoEverywhere) · [官网](https://octoeverywhere.com) · 组织维护
+⭐ 306 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/QuinnDamerell/OctoPrint-OctoEverywhere) · [官网](https://octoeverywhere.com) · 组织维护
 
 **3D 打印机远程访问云插件，含 AI 打印失败检测**
 

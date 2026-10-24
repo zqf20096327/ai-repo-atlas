@@ -1,6 +1,6 @@
 # stefandevo/glm-acp-agent
 
-⭐ 68 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/stefandevo/glm-acp-agent) · [官网](https://www.npmjs.com/package/glm-acp-agent) · 个人维护 · 中文 README
+⭐ 69 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/stefandevo/glm-acp-agent) · [官网](https://www.npmjs.com/package/glm-acp-agent) · 个人维护 · 中文 README
 
 **接入智谱 GLM 编程套餐模型的 ACP 编程 agent（TypeScript）**
 

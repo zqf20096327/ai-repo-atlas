@@ -1,6 +1,6 @@
 # tonykipkemboi/ollama_pdf_rag
 
-⭐ 549 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/tonykipkemboi/ollama_pdf_rag) · [官网](https://tonykipkemboi.github.io/ollama_pdf_rag/) · 个人维护
+⭐ 550 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/tonykipkemboi/ollama_pdf_rag) · [官网](https://tonykipkemboi.github.io/ollama_pdf_rag/) · 个人维护
 
 **本地 PDF 问答 RAG 全栈演示：用 Ollama 与 LangChain 对话文档**
 

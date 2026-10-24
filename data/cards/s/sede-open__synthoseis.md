@@ -1,6 +1,6 @@
 # sede-open/synthoseis
 
-⭐ 132 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/sede-open/synthoseis) · 组织维护
+⭐ 132 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sede-open/synthoseis) · 组织维护
 
 **为深度学习生成带标签的合成地震训练数据的 Python 工具**
 

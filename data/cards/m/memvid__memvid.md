@@ -1,6 +1,6 @@
 # memvid/memvid
 
-⭐ 16,608 · Rust · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/memvid/memvid) · [官网](https://www.memvid.com) · 组织维护
+⭐ 16,605 · Rust · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/memvid/memvid) · [官网](https://www.memvid.com) · 组织维护
 
 **为 AI Agent 提供单文件、免数据库的持久记忆层**
 

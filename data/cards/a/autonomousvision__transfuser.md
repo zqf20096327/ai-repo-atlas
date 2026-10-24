@@ -1,6 +1,6 @@
 # autonomousvision/transfuser
 
-⭐ 1,608 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/autonomousvision/transfuser) · 组织维护
+⭐ 1,609 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/autonomousvision/transfuser) · 组织维护
 
 **基于 Transformer 传感器融合的端到端自动驾驶模仿学习模型**
 

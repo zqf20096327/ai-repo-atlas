@@ -1,6 +1,6 @@
 # Kyros-494/kyros-ai
 
-⭐ 79 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/Kyros-494/kyros-ai) · [官网](https://kyros-494.github.io/kyros-ai/) · 个人维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/Kyros-494/kyros-ai) · [官网](https://kyros-494.github.io/kyros-ai/) · 个人维护
 
 **AI Agent 持久化记忆系统：三类记忆+遗忘曲线+防篡改**
 

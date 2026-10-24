@@ -1,6 +1,6 @@
 # Cellium-Project/Cellium-Agent
 
-⭐ 226 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Cellium-Project/Cellium-Agent) · [官网](https://agent.cellium.top) · 组织维护 · 中文 README
+⭐ 221 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Cellium-Project/Cellium-Agent) · [官网](https://agent.cellium.top) · 组织维护 · 中文 README
 
 **自进化 AI Agent 助手：决策环驱动、失败中学习、多平台接入**
 

@@ -1,6 +1,6 @@
 # Scale3-Labs/langtrace
 
-⭐ 1,234 · TypeScript · AGPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/Scale3-Labs/langtrace) · [官网](https://langtrace.ai) · 组织维护
+⭐ 1,233 · TypeScript · AGPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/Scale3-Labs/langtrace) · [官网](https://langtrace.ai) · 组织维护
 
 **面向 LLM 应用的开源可观测性工具：捕获追踪、指标与调试数据**
 

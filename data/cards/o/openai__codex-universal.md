@@ -1,6 +1,6 @@
 # openai/codex-universal
 
-⭐ 1,099 · Dockerfile · 推送 2026-05-02 · [GitHub](https://github.com/openai/codex-universal) · 组织维护
+⭐ 1,100 · Dockerfile · 推送 2026-05-02 · [GitHub](https://github.com/openai/codex-universal) · 组织维护
 
 **OpenAI Codex 环境基础 Docker 镜像的参考实现**
 

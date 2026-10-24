@@ -1,6 +1,6 @@
 # MemoriLabs/Memori
 
-⭐ 17,149 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/MemoriLabs/Memori) · [官网](https://memorilabs.ai) · 组织维护
+⭐ 17,143 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/MemoriLabs/Memori) · [官网](https://memorilabs.ai) · 组织维护
 
 **面向 agent 的记忆基础设施：把执行与对话转为持久化结构化记忆**
 

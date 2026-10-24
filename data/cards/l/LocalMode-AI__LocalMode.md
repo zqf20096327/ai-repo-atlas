@@ -1,6 +1,6 @@
 # LocalMode-AI/LocalMode
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/LocalMode-AI/LocalMode) · [官网](https://localmode.ai) · 组织维护
+⭐ 64 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/LocalMode-AI/LocalMode) · [官网](https://localmode.ai) · 组织维护
 
 **面向前端的浏览器本地 AI 工具包：离线运行模型构建隐私优先应用**
 

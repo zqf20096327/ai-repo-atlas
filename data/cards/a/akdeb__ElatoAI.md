@@ -1,6 +1,6 @@
 # akdeb/ElatoAI
 
-⭐ 2,074 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/akdeb/ElatoAI) · [官网](https://www.elatoai.com) · 个人维护
+⭐ 2,077 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/akdeb/ElatoAI) · [官网](https://www.elatoai.com) · 个人维护
 
 **在 ESP32 上搭建实时语音 AI 的开源全栈方案**
 

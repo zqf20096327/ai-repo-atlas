@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleDetection
 
-⭐ 14,442 · Python · Apache-2.0 · 推送 2026-05-28 · [GitHub](https://github.com/PaddlePaddle/PaddleDetection) · 组织维护 · 中文 README
+⭐ 14,444 · Python · Apache-2.0 · 推送 2026-05-28 · [GitHub](https://github.com/PaddlePaddle/PaddleDetection) · 组织维护 · 中文 README
 
 **给开发者的目标检测端到端开发套件**
 

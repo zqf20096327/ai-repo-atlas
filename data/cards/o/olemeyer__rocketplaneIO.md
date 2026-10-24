@@ -1,6 +1,6 @@
 # olemeyer/rocketplaneIO
 
-⭐ 121 · Go · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/olemeyer/rocketplaneIO) · 个人维护
+⭐ 120 · Go · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/olemeyer/rocketplaneIO) · 个人维护
 
 **自托管的 Kubernetes 全栈可观测平台，为 AI agent 提供带防护的 MCP 操作接口**
 

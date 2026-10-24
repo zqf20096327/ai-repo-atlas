@@ -1,6 +1,6 @@
 # cmunch1/nba-prediction
 
-⭐ 312 · Jupyter Notebook · 推送 2026-04-01 · [GitHub](https://github.com/cmunch1/nba-prediction) · [官网](https://cmunch1.github.io/nba-prediction/) · 个人维护
+⭐ 313 · Jupyter Notebook · 推送 2026-04-01 · [GitHub](https://github.com/cmunch1/nba-prediction) · [官网](https://cmunch1.github.io/nba-prediction/) · 个人维护
 
 **预测 NBA 每日比赛主队胜率的端到端机器学习项目**
 

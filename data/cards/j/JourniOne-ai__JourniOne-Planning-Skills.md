@@ -1,6 +1,6 @@
 # JourniOne-ai/JourniOne-Planning-Skills
 
-⭐ 1,119 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/JourniOne-ai/JourniOne-Planning-Skills) · [官网](https://journione.ai/) · 组织维护 · 中文 README
+⭐ 1,150 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/JourniOne-ai/JourniOne-Planning-Skills) · [官网](https://journione.ai/) · 组织维护 · 中文 README
 
 **给 AI 客户端的旅行规划 Skill：生成逐日路线与可分享 Travel Journal**
 

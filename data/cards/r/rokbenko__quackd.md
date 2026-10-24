@@ -1,6 +1,6 @@
 # rokbenko/quackd
 
-⭐ 271 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rokbenko/quackd) · [官网](https://www.quackd.org) · 个人维护
+⭐ 276 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/rokbenko/quackd) · [官网](https://www.quackd.org) · 个人维护
 
 **多机器人统一 CLI：为每台机器人接 LLM 大脑并发目标指令**
 

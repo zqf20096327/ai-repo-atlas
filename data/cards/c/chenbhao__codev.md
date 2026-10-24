@@ -1,6 +1,6 @@
 # chenbhao/codev
 
-⭐ 57 · TypeScript · 推送 2026-07-18 · [GitHub](https://github.com/chenbhao/codev) · [官网](https://x.com/chenbhao) · 个人维护 · 中文 README
+⭐ 55 · TypeScript · 推送 2026-07-18 · [GitHub](https://github.com/chenbhao/codev) · [官网](https://x.com/chenbhao) · 个人维护 · 中文 README
 
 **终端里的多 Agent 协作编程工作区 CLI（TypeScript）**
 

@@ -1,6 +1,6 @@
 # microsoft/fabric-rti-mcp
 
-⭐ 133 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/fabric-rti-mcp) · 组织维护
+⭐ 133 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/fabric-rti-mcp) · 组织维护
 
 **让 AI agent 通过 MCP 操作 Fabric 实时智能服务的服务器**
 

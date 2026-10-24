@@ -1,6 +1,6 @@
 # modelscope/FunClip
 
-⭐ 6,443 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/modelscope/FunClip) · [官网](https://huggingface.co/spaces/FunAudioLLM/FunClip) · 组织维护 · 中文 README
+⭐ 6,448 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/modelscope/FunClip) · [官网](https://huggingface.co/spaces/FunAudioLLM/FunClip) · 组织维护 · 中文 README
 
 **本地部署的视频转写、字幕与 LLM 剪辑工具（Gradio UI）**
 

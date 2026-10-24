@@ -1,6 +1,6 @@
 # deepchem/deepchem
 
-⭐ 7,081 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/deepchem/deepchem) · [官网](https://deepchem.io/) · 组织维护
+⭐ 7,082 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/deepchem/deepchem) · [官网](https://deepchem.io/) · 组织维护
 
 **面向药物发现、材料、量子化学与生物学的深度学习开源库**
 

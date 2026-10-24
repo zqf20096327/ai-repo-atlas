@@ -1,6 +1,6 @@
 # MidraLab/uDesktopMascot
 
-⭐ 357 · C# · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/MidraLab/uDesktopMascot) · 组织维护
+⭐ 358 · C# · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/MidraLab/uDesktopMascot) · 组织维护
 
 **Unity 桌面宠物应用：VRM 模型显示与离线语音 AI 聊天**
 

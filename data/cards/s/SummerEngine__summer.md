@@ -1,6 +1,6 @@
 # SummerEngine/summer
 
-⭐ 88 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SummerEngine/summer) · [官网](https://summerengine.com/) · 组织维护
+⭐ 88 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SummerEngine/summer) · [官网](https://summerengine.com/) · 组织维护
 
 **让 AI 编程 agent 构建、测试并发布完整游戏的 MCP 服务器与 CLI**
 

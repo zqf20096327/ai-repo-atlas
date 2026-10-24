@@ -1,6 +1,6 @@
 # dhr2333/Beancount-Trans
 
-⭐ 82 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dhr2333/Beancount-Trans) · [官网](https://trans.dhr2333.cn/) · 个人维护 · 中文 README
+⭐ 83 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dhr2333/Beancount-Trans) · [官网](https://trans.dhr2333.cn/) · 个人维护 · 中文 README
 
 **上传账单自动转为可审计 Beancount 记账数据并出报表**
 

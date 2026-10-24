@@ -1,6 +1,6 @@
 # Quantco/polarify
 
-⭐ 145 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/Quantco/polarify) · 组织维护
+⭐ 147 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/Quantco/polarify) · 组织维护
 
 **把 Python if/elif/else 转写为 Polars 表达式的装饰器库**
 

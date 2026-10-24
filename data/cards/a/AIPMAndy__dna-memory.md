@@ -1,6 +1,6 @@
 # AIPMAndy/dna-memory
 
-⭐ 96 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/AIPMAndy/dna-memory) · 个人维护 · 中文 README
+⭐ 97 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/AIPMAndy/dna-memory) · 个人维护 · 中文 README
 
 **给多 AI 客户端共用的本地优先长期记忆 MCP 服务**
 

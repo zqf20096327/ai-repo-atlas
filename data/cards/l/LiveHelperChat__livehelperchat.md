@@ -1,6 +1,6 @@
 # LiveHelperChat/livehelperchat
 
-⭐ 2,249 · PHP · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/LiveHelperChat/livehelperchat) · [官网](http://livehelperchat.com) · 组织维护
+⭐ 2,248 · PHP · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/LiveHelperChat/livehelperchat) · [官网](http://livehelperchat.com) · 组织维护
 
 **面向网站的在线客服聊天系统，支持 AI 机器人与多渠道接入**
 

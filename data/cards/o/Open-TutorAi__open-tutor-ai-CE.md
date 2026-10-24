@@ -1,6 +1,6 @@
 # Open-TutorAi/open-tutor-ai-CE
 
-⭐ 112 · JavaScript · BSD-3-Clause · 推送 2026-06-26 · [GitHub](https://github.com/Open-TutorAi/open-tutor-ai-CE) · [官网](https://opentutorai.com) · 组织维护
+⭐ 114 · JavaScript · BSD-3-Clause · 推送 2026-06-26 · [GitHub](https://github.com/Open-TutorAi/open-tutor-ai-CE) · [官网](https://opentutorai.com) · 组织维护
 
 **面向教育的开源 AI 辅导平台（社区版）**
 

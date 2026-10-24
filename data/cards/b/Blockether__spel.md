@@ -1,6 +1,6 @@
 # Blockether/spel
 
-⭐ 71 · Clojure · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Blockether/spel) · [官网](https://blockether.github.io/spel/) · 组织维护
+⭐ 71 · Clojure · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Blockether/spel) · [官网](https://blockether.github.io/spel/) · 组织维护
 
 **终端控制真实浏览器的 CLI 工具：自动化、抓取与 E2E 测试**
 

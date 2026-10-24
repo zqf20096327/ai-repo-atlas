@@ -1,6 +1,6 @@
 # apache/hertzbeat
 
-⭐ 7,437 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/hertzbeat) · [官网](https://hertzbeat.apache.org/) · 组织维护 · 中文 README
+⭐ 7,437 · Java · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/apache/hertzbeat) · [官网](https://hertzbeat.apache.org/) · 组织维护 · 中文 README
 
 **Apache 开源实时可观测系统：指标日志采集、告警与状态页**
 

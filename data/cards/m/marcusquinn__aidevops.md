@@ -1,6 +1,6 @@
 # marcusquinn/aidevops
 
-⭐ 422 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/marcusquinn/aidevops) · [官网](https://www.aidevops.sh) · 个人维护
+⭐ 421 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/marcusquinn/aidevops) · [官网](https://www.aidevops.sh) · 个人维护
 
 **OpenCode 插件式 AI DevOps 框架：agent 团队自动交付软件工作**
 

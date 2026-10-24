@@ -1,6 +1,6 @@
 # motherduckdb/motherduck-cookbook
 
-⭐ 72 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/motherduckdb/motherduck-cookbook) · [官网](http://motherduck.com/docs/cookbook) · 组织维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/motherduckdb/motherduck-cookbook) · [官网](http://motherduck.com/docs/cookbook) · 组织维护
 
 **MotherDuck 官方示例项目集：dbt/接入/边缘集成等可复用代码模板**
 

@@ -1,6 +1,6 @@
 # explorium-ai/vibeprospecting-mcp
 
-⭐ 243 · JavaScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/explorium-ai/vibeprospecting-mcp) · [官网](https://vibeprospecting.ai) · 组织维护
+⭐ 249 · JavaScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/explorium-ai/vibeprospecting-mcp) · [官网](https://vibeprospecting.ai) · 组织维护
 
 **接入 AI 助手的 B2B 数据 MCP 服务器：建线索名单、查企业、丰富联系人**
 

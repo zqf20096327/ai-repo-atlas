@@ -1,6 +1,6 @@
 # huggingface/making-games-with-ai-course
 
-⭐ 115 · MDX · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/making-games-with-ai-course) · 组织维护
+⭐ 117 · MDX · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/making-games-with-ai-course) · 组织维护
 
 **Hugging Face 的机器学习游戏课程内容仓库（mdx 与 notebooks）**
 

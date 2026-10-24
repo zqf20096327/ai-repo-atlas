@@ -1,6 +1,6 @@
 # gammahazard/locate-anything
 
-⭐ 166 · TypeScript · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/gammahazard/locate-anything) · 个人维护
+⭐ 167 · TypeScript · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/gammahazard/locate-anything) · 个人维护
 
 **NVIDIA LocateAnything-3B 的网页 UI：自然语言查图并返回检测框**
 

@@ -1,6 +1,6 @@
 # doocs/md
 
-⭐ 13,455 · TypeScript · WTFPL · 推送 2026-10-21 · [GitHub](https://github.com/doocs/md) · [官网](https://md.doocs.org) · 组织维护 · 中文 README
+⭐ 13,458 · TypeScript · WTFPL · 推送 2026-10-21 · [GitHub](https://github.com/doocs/md) · [官网](https://md.doocs.org) · 组织维护 · 中文 README
 
 **给公众号创作者的微信 Markdown 排版编辑器**
 

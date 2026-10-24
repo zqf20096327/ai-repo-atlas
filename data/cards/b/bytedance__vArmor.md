@@ -1,6 +1,6 @@
 # bytedance/vArmor
 
-⭐ 511 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bytedance/vArmor) · [官网](https://varmor.org) · 组织维护 · 中文 README
+⭐ 512 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bytedance/vArmor) · [官网](https://varmor.org) · 组织维护 · 中文 README
 
 **云原生容器加固系统：为 K8s 工作负载（含 AI Agent）实施强制访问控制**
 

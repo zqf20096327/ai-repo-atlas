@@ -1,6 +1,6 @@
 # katanaml/sparrow
 
-⭐ 5,227 · Python · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/katanaml/sparrow) · [官网](https://sparrow.katanaml.io) · 组织维护
+⭐ 5,226 · Python · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/katanaml/sparrow) · [官网](https://sparrow.katanaml.io) · 组织维护
 
 **面向企业的文档结构化数据提取与 agent 工作流 API 平台**
 

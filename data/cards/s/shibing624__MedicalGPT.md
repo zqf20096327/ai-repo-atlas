@@ -1,6 +1,6 @@
 # shibing624/MedicalGPT
 
-⭐ 5,866 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/shibing624/MedicalGPT) · 个人维护 · 中文 README
+⭐ 5,867 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/shibing624/MedicalGPT) · 个人维护 · 中文 README
 
 **医疗大模型训练框架：复现 ChatGPT 四阶段训练全流程**
 

@@ -1,6 +1,6 @@
 # NeuralInverse/neuralinverse
 
-⭐ 237 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NeuralInverse/neuralinverse) · [官网](https://cloud.neuralinverse.com) · 组织维护
+⭐ 232 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NeuralInverse/neuralinverse) · [官网](https://cloud.neuralinverse.com) · 组织维护
 
 **面向固件与遗留系统现代化的开源 AI 原生 IDE（VS Code 分发版）**
 

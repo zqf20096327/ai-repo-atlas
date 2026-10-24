@@ -1,6 +1,6 @@
 # abduznik/portfolio-dumper
 
-⭐ 111 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/abduznik/portfolio-dumper) · [官网](https://abduznik.github.io/portfolio-dumper/) · 个人维护
+⭐ 108 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/abduznik/portfolio-dumper) · [官网](https://abduznik.github.io/portfolio-dumper/) · 个人维护
 
 **将 GitHub 个人主页与仓库转换为 LLM 友好的 Markdown 的静态网页应用**
 

@@ -1,6 +1,6 @@
 # pgEdge/pgedge-postgres-mcp
 
-⭐ 239 · Go · PostgreSQL · 推送 2026-10-23 · [GitHub](https://github.com/pgEdge/pgedge-postgres-mcp) · [官网](https://docs.pgedge.com/pgedge-postgres-mcp-server) · 组织维护
+⭐ 241 · Go · PostgreSQL · 推送 2026-10-23 · [GitHub](https://github.com/pgEdge/pgedge-postgres-mcp) · [官网](https://docs.pgedge.com/pgedge-postgres-mcp-server) · 组织维护
 
 **PostgreSQL MCP 服务器：让 LLM 客户端用自然语言查库**
 

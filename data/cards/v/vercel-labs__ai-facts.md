@@ -1,6 +1,6 @@
 # vercel-labs/ai-facts
 
-⭐ 168 · TypeScript · 推送 2026-04-25 · [GitHub](https://github.com/vercel-labs/ai-facts) · [官网](https://ai-facts.vercel.app) · 组织维护
+⭐ 167 · TypeScript · 推送 2026-04-25 · [GitHub](https://github.com/vercel-labs/ai-facts) · [官网](https://ai-facts.vercel.app) · 组织维护
 
 **实时核验口语陈述真伪的 Next.js 应用**
 

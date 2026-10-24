@@ -1,6 +1,6 @@
 # zexadev/dsh-tether
 
-⭐ 69 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/zexadev/dsh-tether) · [官网](https://dsh-tether.zexa.cc/) · 个人维护 · 中文 README
+⭐ 76 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zexadev/dsh-tether) · [官网](https://dsh-tether.zexa.cc/) · 个人维护 · 中文 README
 
 **手机远程使用 DeepSeek Harness 的 P2P 客户端（dsh 插件）**
 

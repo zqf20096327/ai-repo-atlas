@@ -1,6 +1,6 @@
 # NVIDIA/OpenShell
 
-⭐ 18,614 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/OpenShell) · [官网](https://docs.nvidia.com/openshell/latest/) · 组织维护
+⭐ 19,295 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/OpenShell) · [官网](https://docs.nvidia.com/openshell/latest/) · 组织维护
 
 **为自主 AI agent 提供安全隔离运行时与策略管控**
 

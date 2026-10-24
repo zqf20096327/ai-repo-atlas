@@ -1,6 +1,6 @@
 # lycohana/BiliSum
 
-⭐ 643 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/lycohana/BiliSum) · 个人维护 · 中文 README
+⭐ 646 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/lycohana/BiliSum) · 个人维护 · 中文 README
 
 **面向 B 站/YouTube/本地视频的 AI 转写、摘要与知识库工具**
 

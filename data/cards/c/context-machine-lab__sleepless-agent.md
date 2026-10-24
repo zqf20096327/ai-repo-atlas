@@ -1,6 +1,6 @@
 # context-machine-lab/sleepless-agent
 
-⭐ 834 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/context-machine-lab/sleepless-agent) · [官网](https://context-machine-lab.github.io/sleepless-agent/) · 组织维护 · 中文 README
+⭐ 833 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/context-machine-lab/sleepless-agent) · [官网](https://context-machine-lab.github.io/sleepless-agent/) · 组织维护 · 中文 README
 
 **让 Claude Code Pro 24/7 后台处理任务的 Slack/CLI 守护进程**
 

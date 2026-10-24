@@ -1,6 +1,6 @@
 # ag2ai/Agents_Failure_Attribution
 
-⭐ 398 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/ag2ai/Agents_Failure_Attribution) · [官网](https://ag2ai.github.io/Agents_Failure_Attribution/) · 组织维护 · 中文 README
+⭐ 397 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/ag2ai/Agents_Failure_Attribution) · [官网](https://ag2ai.github.io/Agents_Failure_Attribution/) · 组织维护 · 中文 README
 
 **多智能体系统失败归因的评测基准（ICML 2025）**
 

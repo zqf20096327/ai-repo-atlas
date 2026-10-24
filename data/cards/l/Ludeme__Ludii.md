@@ -1,6 +1,6 @@
 # Ludeme/Ludii
 
-⭐ 169 · Java · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Ludeme/Ludii) · [官网](https://ludii.games/) · 组织维护
+⭐ 170 · Java · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Ludeme/Ludii) · [官网](https://ludii.games/) · 组织维护
 
 **通用博弈游戏系统：用博弈描述语言定义并运行上千种棋类游戏供 AI 研究**
 

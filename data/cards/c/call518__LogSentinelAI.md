@@ -1,6 +1,6 @@
 # call518/LogSentinelAI
 
-⭐ 67 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/call518/LogSentinelAI) · [官网](https://deepwiki.com/call518/LogSentinelAI) · 个人维护
+⭐ 67 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/call518/LogSentinelAI) · [官网](https://deepwiki.com/call518/LogSentinelAI) · 个人维护
 
 **用 Pydantic 声明式 Schema 让 LLM 分析安全日志的 DevSecOps 工具**
 

@@ -1,6 +1,6 @@
 # NVIDIA/earth2studio
 
-⭐ 1,212 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/earth2studio) · [官网](https://nvidia.github.io/earth2studio/) · 组织维护
+⭐ 1,213 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/earth2studio) · [官网](https://nvidia.github.io/earth2studio/) · 组织维护
 
 **构建与部署 AI 天气气候工作流的 Python 推理工具包**
 

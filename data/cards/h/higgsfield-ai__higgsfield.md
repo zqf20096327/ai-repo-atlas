@@ -1,6 +1,6 @@
 # higgsfield-ai/higgsfield
 
-⭐ 6,148 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/higgsfield-ai/higgsfield) · 组织维护
+⭐ 6,159 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/higgsfield-ai/higgsfield) · 组织维护
 
 **面向十亿至万亿参数模型训练的容错 GPU 编排与训练框架**
 

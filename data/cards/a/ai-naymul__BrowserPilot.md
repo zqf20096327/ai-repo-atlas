@@ -1,6 +1,6 @@
 # ai-naymul/BrowserPilot
 
-⭐ 180 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ai-naymul/BrowserPilot) · [官网](https://pilotbrowser.vercel.app/) · 个人维护
+⭐ 179 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ai-naymul/BrowserPilot) · [官网](https://pilotbrowser.vercel.app/) · 个人维护
 
 **自然语言驱动的浏览器抓取 agent，绕过反爬并输出结构化数据**
 

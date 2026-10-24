@@ -1,6 +1,6 @@
 # siqiwang0712-commits/financial-risk-agent
 
-⭐ 77 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/siqiwang0712-commits/financial-risk-agent) · [官网](https://financial-risk-agent.vercel.app) · 个人维护 · 中文 README
+⭐ 76 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/siqiwang0712-commits/financial-risk-agent) · [官网](https://financial-risk-agent.vercel.app) · 个人维护 · 中文 README
 
 **面向企业财报的证据溯源金融风险分析与决策保证研究系统**
 

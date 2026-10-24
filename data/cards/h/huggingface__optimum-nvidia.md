@@ -1,6 +1,6 @@
 # huggingface/optimum-nvidia
 
-⭐ 1,038 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/optimum-nvidia) · 组织维护
+⭐ 1,039 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/optimum-nvidia) · 组织维护
 
 **面向 NVIDIA GPU 的 Hugging Face transformers 推理加速库**
 

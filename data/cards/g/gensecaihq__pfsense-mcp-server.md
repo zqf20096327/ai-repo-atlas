@@ -1,6 +1,6 @@
 # gensecaihq/pfsense-mcp-server
 
-⭐ 112 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/gensecaihq/pfsense-mcp-server) · 组织维护
+⭐ 111 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/gensecaihq/pfsense-mcp-server) · 组织维护
 
 **通过自然语言管理 pfSense 防火墙的 MCP 服务器（332 工具）**
 

@@ -1,6 +1,6 @@
 # mrwogu/promptscript
 
-⭐ 380 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mrwogu/promptscript) · [官网](https://getpromptscript.dev/) · 个人维护
+⭐ 378 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mrwogu/promptscript) · [官网](https://getpromptscript.dev/) · 个人维护
 
 **面向企业的 Prompt-as-Code 编译器：一份 AI 规则编译给 50 个工具**
 

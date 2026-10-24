@@ -1,6 +1,6 @@
 # LayerNorm/overlay-web
 
-⭐ 186 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/LayerNorm/overlay-web) · [官网](https://getoverlay.io/) · 组织维护
+⭐ 187 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/LayerNorm/overlay-web) · [官网](https://getoverlay.io/) · 组织维护
 
 **人与 AI agent 共享上下位的开源协作工作区**
 

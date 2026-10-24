@@ -1,6 +1,6 @@
 # perpetual-ml/perpetual
 
-⭐ 714 · Rust · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/perpetual-ml/perpetual) · [官网](https://perpetual-ml.com) · 组织维护
+⭐ 714 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/perpetual-ml/perpetual) · [官网](https://perpetual-ml.com) · 组织维护
 
 **免调参的梯度提升库：单次训练即可用的 Rust 核心 GBM**
 

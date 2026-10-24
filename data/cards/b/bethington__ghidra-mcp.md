@@ -1,6 +1,6 @@
 # bethington/ghidra-mcp
 
-⭐ 5,877 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bethington/ghidra-mcp) · 个人维护
+⭐ 5,888 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bethington/ghidra-mcp) · 个人维护
 
 **连接 Ghidra 逆向工程与 AI 工具的 MCP 服务器（209 个工具）**
 

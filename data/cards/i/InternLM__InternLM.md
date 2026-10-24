@@ -1,6 +1,6 @@
 # InternLM/InternLM
 
-⭐ 7,277 · Python · Apache-2.0 · 推送 2025-10-30 · [GitHub](https://github.com/InternLM/InternLM) · [官网](https://internlm.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 7,278 · Python · Apache-2.0 · 推送 2025-10-30 · [GitHub](https://github.com/InternLM/InternLM) · [官网](https://internlm.readthedocs.io/) · 组织维护 · 中文 README
 
 **InternLM 系列开源大模型权重发布库（1.8B-20B 多代）**
 

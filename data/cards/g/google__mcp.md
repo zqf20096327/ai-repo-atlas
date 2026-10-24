@@ -1,6 +1,6 @@
 # google/mcp
 
-⭐ 4,659 · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/google/mcp) · 组织维护
+⭐ 4,662 · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/google/mcp) · 组织维护
 
 **Google 官方 MCP 服务器清单与部署指南集合**
 

@@ -1,6 +1,6 @@
 # makcedward/nlpaug
 
-⭐ 4,664 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/makcedward/nlpaug) · [官网](https://makcedward.github.io/) · 个人维护
+⭐ 4,664 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/makcedward/nlpaug) · [官网](https://makcedward.github.io/) · 个人维护
 
 **NLP/音频/频谱数据增强的 Python 库**
 

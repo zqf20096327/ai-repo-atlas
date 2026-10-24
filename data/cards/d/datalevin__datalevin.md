@@ -1,6 +1,6 @@
 # datalevin/datalevin
 
-⭐ 1,488 · Clojure · EPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datalevin/datalevin) · [官网](https://datalevin.org) · 组织维护
+⭐ 1,488 · Clojure · EPL-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/datalevin/datalevin) · [官网](https://datalevin.org) · 组织维护
 
 **给开发者的多范式 Datalog 数据库，内嵌向量搜索与本地 LLM**
 

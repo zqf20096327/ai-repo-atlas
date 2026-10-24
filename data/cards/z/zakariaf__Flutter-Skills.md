@@ -1,6 +1,6 @@
 # zakariaf/Flutter-Skills
 
-⭐ 61 · Dart · MIT · 推送 2026-09-23 · [GitHub](https://github.com/zakariaf/Flutter-Skills) · [官网](https://zakaria.dev/Flutter-Skills/) · 个人维护
+⭐ 62 · Dart · MIT · 推送 2026-09-23 · [GitHub](https://github.com/zakariaf/Flutter-Skills) · [官网](https://zakaria.dev/Flutter-Skills/) · 个人维护
 
 **面向 AI 编码代理的 Flutter 工程技能集（40 个 SKILL.md）**
 

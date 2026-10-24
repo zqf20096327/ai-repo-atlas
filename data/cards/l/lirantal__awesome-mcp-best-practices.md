@@ -1,6 +1,6 @@
 # lirantal/awesome-mcp-best-practices
 
-⭐ 84 · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/lirantal/awesome-mcp-best-practices) · 个人维护
+⭐ 85 · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/lirantal/awesome-mcp-best-practices) · 个人维护
 
 **MCP 服务器/客户端构建最佳实践策展清单**
 

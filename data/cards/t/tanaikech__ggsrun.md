@@ -1,6 +1,6 @@
 # tanaikech/ggsrun
 
-⭐ 173 · Go · MIT · 推送 2026-08-26 · [GitHub](https://github.com/tanaikech/ggsrun) · 个人维护
+⭐ 172 · Go · MIT · 推送 2026-08-26 · [GitHub](https://github.com/tanaikech/ggsrun) · 个人维护
 
 **Google Drive CLI 与 MCP 服务器：本地执行 Google Apps Script 并管理 Drive 文件**
 

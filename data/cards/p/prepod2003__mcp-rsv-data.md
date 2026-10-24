@@ -1,6 +1,6 @@
 # prepod2003/mcp-rsv-data
 
-⭐ 64 · Go · MIT · 推送 2026-09-07 · [GitHub](https://github.com/prepod2003/mcp-rsv-data) · [官网](https://prepod2003.github.io/rsv-data-pro/) · 个人维护
+⭐ 65 · Go · MIT · 推送 2026-09-07 · [GitHub](https://github.com/prepod2003/mcp-rsv-data) · [官网](https://prepod2003.github.io/rsv-data-pro/) · 个人维护
 
 **免费 MCP 服务器：让 AI 代理用自然语言只读访问 1C 数据库与元数据**
 

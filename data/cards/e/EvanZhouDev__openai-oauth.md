@@ -1,6 +1,6 @@
 # EvanZhouDev/openai-oauth
 
-⭐ 1,409 · TypeScript · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/EvanZhouDev/openai-oauth) · [官网](https://openai-oauth.vercel.app) · 个人维护
+⭐ 1,410 · TypeScript · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/EvanZhouDev/openai-oauth) · [官网](https://openai-oauth.vercel.app) · 个人维护
 
 **把 ChatGPT 账号变成 OpenAI 兼容 API 的 OAuth 接入工具**
 

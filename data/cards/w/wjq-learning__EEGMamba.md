@@ -1,6 +1,6 @@
 # wjq-learning/EEGMamba
 
-⭐ 100 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/wjq-learning/EEGMamba) · [官网](https://www.sciencedirect.com/science/article/pii/S0893608025006963) · 组织维护
+⭐ 101 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/wjq-learning/EEGMamba) · [官网](https://www.sciencedirect.com/science/article/pii/S0893608025006963) · 组织维护
 
 **面向临床与 BCI 的 EEG 基础模型（Mamba 架构）及预训练/微调代码**
 

@@ -1,6 +1,6 @@
 # shitianfang/jev-use
 
-⭐ 64 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/shitianfang/jev-use) · [官网](https://www.npmjs.com/package/jev-use) · 个人维护 · 中文 README
+⭐ 65 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/shitianfang/jev-use) · [官网](https://www.npmjs.com/package/jev-use) · 个人维护 · 中文 README
 
 **让 Claude Code/Codex/pi 把无需文本输出的步骤交给 Jev 判决模型的插件**
 

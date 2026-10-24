@@ -1,6 +1,6 @@
 # DarioFT/ComfyUI-Qwen3-TTS
 
-⭐ 313 · Python · 推送 2026-02-09 · [GitHub](https://github.com/DarioFT/ComfyUI-Qwen3-TTS) · [官网](https://github.com/QwenLM/Qwen3-TTS) · 个人维护
+⭐ 315 · Python · 推送 2026-02-09 · [GitHub](https://github.com/DarioFT/ComfyUI-Qwen3-TTS) · [官网](https://github.com/QwenLM/Qwen3-TTS) · 个人维护
 
 **ComfyUI 的 Qwen3-TTS 语音合成节点套件，支持音色克隆与微调**
 

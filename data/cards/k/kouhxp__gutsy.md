@@ -1,6 +1,6 @@
 # kouhxp/gutsy
 
-⭐ 96 · HTML · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/kouhxp/gutsy) · 个人维护
+⭐ 81 · HTML · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/kouhxp/gutsy) · 个人维护
 
 **本地决策模型：发状态与问题，返回各选项的校准概率**
 

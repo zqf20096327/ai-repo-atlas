@@ -1,6 +1,6 @@
 # Remi-Coulom/gogui
 
-⭐ 96 · Java · NOASSERTION · 推送 2025-12-03 · [GitHub](https://github.com/Remi-Coulom/gogui) · 个人维护
+⭐ 97 · Java · NOASSERTION · 推送 2025-12-03 · [GitHub](https://github.com/Remi-Coulom/gogui) · 个人维护
 
 **围棋等棋类 AI 引擎的图形界面，基于 GTP 协议**
 

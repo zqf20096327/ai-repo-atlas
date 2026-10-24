@@ -1,6 +1,6 @@
 # Agions/kineo
 
-⭐ 129 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Agions/kineo) · [官网](https://agions.github.io/kineo/) · 个人维护 · 中文 README
+⭐ 131 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Agions/kineo) · [官网](https://agions.github.io/kineo/) · 个人维护 · 中文 README
 
 **桌面端 Multi-Agent 平台：把剧本/小说自动制作为 4K 漫剧视频**
 

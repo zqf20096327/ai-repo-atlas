@@ -1,6 +1,6 @@
 # Niketkumardheeryan/ML-CaPsule
 
-⭐ 685 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Niketkumardheeryan/ML-CaPsule) · 组织维护
+⭐ 684 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Niketkumardheeryan/ML-CaPsule) · 组织维护
 
 **面向自学者的机器学习实践项目合集与学习资源库**
 

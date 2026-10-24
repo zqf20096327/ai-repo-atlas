@@ -1,6 +1,6 @@
 # TencentEdgeOne/awesome-website-prompts-and-skills
 
-⭐ 190 · HTML · MIT · 推送 2026-06-04 · [GitHub](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) · [官网](https://edgeone.ai/awesome-website-prompts-and-skills?from=github) · 组织维护 · 中文 README
+⭐ 191 · HTML · MIT · 推送 2026-06-04 · [GitHub](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) · [官网](https://edgeone.ai/awesome-website-prompts-and-skills?from=github) · 组织维护 · 中文 README
 
 **腾讯 EdgeOne 维护的 AI 建站 Prompt 与 Skill 作品合集**
 

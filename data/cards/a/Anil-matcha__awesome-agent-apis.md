@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-agent-apis
 
-⭐ 1,061 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Anil-matcha/awesome-agent-apis) · [官网](https://muapi.ai/agent-skills) · 组织维护
+⭐ 1,063 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Anil-matcha/awesome-agent-apis) · [官网](https://muapi.ai/agent-skills) · 组织维护
 
 **面向 agent 的 API 工具目录：660+ 生成媒体模型与第三方工具**
 

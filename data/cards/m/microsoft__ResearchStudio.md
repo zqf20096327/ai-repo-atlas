@@ -1,6 +1,6 @@
 # microsoft/ResearchStudio
 
-⭐ 3,355 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/ResearchStudio) · [官网](https://aka.ms/ResearchStudio) · 组织维护
+⭐ 3,365 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/ResearchStudio) · [官网](https://aka.ms/ResearchStudio) · 组织维护
 
 **覆盖科研全流程的 AI 协作技能集：从选题到论文产出物**
 

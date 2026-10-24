@@ -1,6 +1,6 @@
 # jenkinsci/mcp-server-plugin
 
-⭐ 118 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jenkinsci/mcp-server-plugin) · [官网](https://plugins.jenkins.io/mcp-server/) · 组织维护
+⭐ 118 · Java · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jenkinsci/mcp-server-plugin) · [官网](https://plugins.jenkins.io/mcp-server/) · 组织维护
 
 **让 Jenkins 作为 MCP 服务器向 AI 客户端提供工具与上下文的插件**
 

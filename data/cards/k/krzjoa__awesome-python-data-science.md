@@ -1,6 +1,6 @@
 # krzjoa/awesome-python-data-science
 
-⭐ 3,620 · CC-BY-4.0 · 推送 2026-04-13 · [GitHub](https://github.com/krzjoa/awesome-python-data-science) · [官网](https://krzjoa.github.io/awesome-python-data-science) · 个人维护
+⭐ 3,621 · CC-BY-4.0 · 推送 2026-04-13 · [GitHub](https://github.com/krzjoa/awesome-python-data-science) · [官网](https://krzjoa.github.io/awesome-python-data-science) · 个人维护
 
 **Python 数据科学软件策展清单：机器学习/深度学习等库收录**
 

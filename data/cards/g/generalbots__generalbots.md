@@ -1,6 +1,6 @@
 # generalbots/generalbots
 
-⭐ 96 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/generalbots/generalbots) · [官网](https://generalbots.org) · 组织维护
+⭐ 96 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/generalbots/generalbots) · [官网](https://generalbots.org) · 组织维护
 
 **Rust 自托管多 agent AI 平台：编排 LLM 与 80 个业务应用**
 

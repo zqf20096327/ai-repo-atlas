@@ -1,6 +1,6 @@
 # HUANGCHIHHUNGLeo/claude-real-video
 
-⭐ 2,255 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) · [官网](https://leoaido.com/crv-pro/) · 个人维护 · 中文 README
+⭐ 2,259 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) · [官网](https://leoaido.com/crv-pro/) · 个人维护 · 中文 README
 
 **本地视频转关键帧+字幕转录工具，让 LLM 能"看"视频**
 

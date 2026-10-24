@@ -1,6 +1,6 @@
 # BetterForAll/self-improving-agents
 
-⭐ 160 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/BetterForAll/self-improving-agents) · 个人维护
+⭐ 159 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/BetterForAll/self-improving-agents) · 个人维护
 
 **四级自我改进代码 agent 研究框架：从简单循环到对抗演化**
 

@@ -1,6 +1,6 @@
 # mybigday/llama.rn
 
-⭐ 1,061 · C · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mybigday/llama.rn) · 个人维护
+⭐ 1,061 · C · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mybigday/llama.rn) · 个人维护
 
 **在 React Native 应用中运行 llama.cpp 本地 LLM 推理的绑定库**
 

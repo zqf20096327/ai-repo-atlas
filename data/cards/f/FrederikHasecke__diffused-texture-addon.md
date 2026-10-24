@@ -1,6 +1,6 @@
 # FrederikHasecke/diffused-texture-addon
 
-⭐ 261 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/FrederikHasecke/diffused-texture-addon) · 个人维护
+⭐ 261 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/FrederikHasecke/diffused-texture-addon) · 个人维护
 
 **Blender 插件：用 Stable Diffusion 在 3D 网格上直接生成并烘焙贴图**
 

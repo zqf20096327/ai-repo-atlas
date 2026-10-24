@@ -1,6 +1,6 @@
 # argonne-lcf/ChemGraph
 
-⭐ 167 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/argonne-lcf/ChemGraph) · [官网](https://argonne-lcf.github.io/ChemGraph/) · 组织维护
+⭐ 167 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/argonne-lcf/ChemGraph) · [官网](https://argonne-lcf.github.io/ChemGraph/) · 组织维护
 
 **计算化学与材料科学的 Agent 框架：自然语言驱动分子构建、模拟与分析**
 

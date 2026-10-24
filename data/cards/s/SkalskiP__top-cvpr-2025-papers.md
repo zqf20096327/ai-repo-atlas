@@ -1,6 +1,6 @@
 # SkalskiP/top-cvpr-2025-papers
 
-⭐ 896 · Python · CC0-1.0 · 推送 2026-04-15 · [GitHub](https://github.com/SkalskiP/top-cvpr-2025-papers) · 个人维护
+⭐ 897 · Python · CC0-1.0 · 推送 2026-04-15 · [GitHub](https://github.com/SkalskiP/top-cvpr-2025-papers) · 个人维护
 
 **CVPR 2025 精选论文清单：按主题组织并附代码/演示链接**
 

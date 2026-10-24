@@ -1,6 +1,6 @@
 # microsoft/graphrag
 
-⭐ 36,426 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/graphrag) · [官网](https://microsoft.github.io/graphrag/) · 组织维护
+⭐ 36,432 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/graphrag) · [官网](https://microsoft.github.io/graphrag/) · 组织维护
 
 **面向私有数据的图谱化 RAG 数据管线与研究系统**
 

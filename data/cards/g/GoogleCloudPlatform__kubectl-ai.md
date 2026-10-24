@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/kubectl-ai
 
-⭐ 7,594 · Go · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/GoogleCloudPlatform/kubectl-ai) · 组织维护
+⭐ 7,592 · Go · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/GoogleCloudPlatform/kubectl-ai) · 组织维护
 
 **AI 驱动的 Kubernetes 命令行助手：自然语言转 kubectl 操作**
 

@@ -1,6 +1,6 @@
 # imedslab/solt
 
-⭐ 268 · Jupyter Notebook · MIT · 推送 2026-07-17 · [GitHub](https://github.com/imedslab/solt) · [官网](https://imedslab.github.io/solt/) · 组织维护
+⭐ 269 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/imedslab/solt) · [官网](https://imedslab.github.io/solt/) · 组织维护
 
 **面向深度学习的数据增强库，支持图像、掩码与关键点**
 

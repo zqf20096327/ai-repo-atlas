@@ -1,6 +1,6 @@
 # AtomicBot-ai/Atomic-Chat
 
-⭐ 1,832 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AtomicBot-ai/Atomic-Chat) · [官网](https://atomic.chat) · 组织维护
+⭐ 1,843 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AtomicBot-ai/Atomic-Chat) · [官网](https://atomic.chat) · 组织维护
 
 **本地运行开源大模型的桌面/移动聊天应用与推理引擎**
 

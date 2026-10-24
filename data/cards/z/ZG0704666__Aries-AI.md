@@ -1,6 +1,6 @@
 # ZG0704666/Aries-AI
 
-⭐ 125 · Kotlin · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ZG0704666/Aries-AI) · [官网](https://aries-agent.com) · 个人维护 · 中文 README
+⭐ 126 · Kotlin · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ZG0704666/Aries-AI) · [官网](https://aries-agent.com) · 个人维护 · 中文 README
 
 **开源 Android AI Agent：自然语言驱动自动操控手机跨应用完成任务**
 

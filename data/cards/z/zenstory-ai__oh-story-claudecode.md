@@ -1,6 +1,6 @@
 # zenstory-ai/oh-story-claudecode
 
-⭐ 7,933 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zenstory-ai/oh-story-claudecode) · [官网](https://zenstory.ai/oh-story) · 组织维护 · 中文 README
+⭐ 7,963 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zenstory-ai/oh-story-claudecode) · [官网](https://zenstory.ai/oh-story) · 组织维护 · 中文 README
 
 **装进编程 Agent 的中文网文写作 skill 包（13 个技能）**
 

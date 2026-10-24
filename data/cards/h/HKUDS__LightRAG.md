@@ -1,6 +1,6 @@
 # HKUDS/LightRAG
 
-⭐ 40,295 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/HKUDS/LightRAG) · [官网](https://arxiv.org/abs/2410.05779) · 组织维护
+⭐ 40,310 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/HKUDS/LightRAG) · [官网](https://arxiv.org/abs/2410.05779) · 组织维护
 
 **面向开发者的轻量知识图谱 RAG 框架**
 

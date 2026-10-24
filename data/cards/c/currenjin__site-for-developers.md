@@ -1,6 +1,6 @@
 # currenjin/site-for-developers
 
-⭐ 1,179 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/currenjin/site-for-developers) · 个人维护 · 中文 README
+⭐ 1,179 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/currenjin/site-for-developers) · 个人维护 · 中文 README
 
 **面向开发者的资源书签清单：AI 工具、文档、社区聚合**
 

@@ -1,6 +1,6 @@
 # thousandbrainsproject/tbp.monty
 
-⭐ 602 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/thousandbrainsproject/tbp.monty) · [官网](https://thousandbrainsproject.readme.io) · 组织维护
+⭐ 602 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/thousandbrainsproject/tbp.monty) · [官网](https://thousandbrainsproject.readme.io) · 组织维护
 
 **基于千脑理论的感知运动学习框架，供研究者实验**
 

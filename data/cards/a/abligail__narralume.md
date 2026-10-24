@@ -1,6 +1,6 @@
 # abligail/narralume
 
-⭐ 123 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/abligail/narralume) · [官网](https://app.narralume.me) · 个人维护 · 中文 README
+⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/abligail/narralume) · [官网](https://app.narralume.me) · 个人维护 · 中文 README
 
 **长篇小说写作工作台：故事设定、AI 协作与审稿交付一体化**
 

@@ -1,6 +1,6 @@
 # TokenHungryMash/personalized-travel-guide-skill
 
-⭐ 77 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/TokenHungryMash/personalized-travel-guide-skill) · 个人维护 · 中文 README
+⭐ 78 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/TokenHungryMash/personalized-travel-guide-skill) · 个人维护 · 中文 README
 
 **为 AI Agent 生成个性化移动端旅行攻略网页手册的技能**
 

@@ -1,6 +1,6 @@
 # actonos/actonos
 
-⭐ 78 · Go · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/actonos/actonos) · [官网](https://actonos.github.io/docs/) · 组织维护
+⭐ 77 · Go · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/actonos/actonos) · [官网](https://actonos.github.io/docs/) · 组织维护
 
 **面向 MiniPC 的可扩展 AI Agent 操作系统内核，7x24 运行**
 

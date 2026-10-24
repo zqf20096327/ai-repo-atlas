@@ -1,6 +1,6 @@
 # filipecalegario/awesome-generative-ai
 
-⭐ 3,562 · CC0-1.0 · 推送 2025-12-18 · [GitHub](https://github.com/filipecalegario/awesome-generative-ai) · 个人维护
+⭐ 3,561 · CC0-1.0 · 推送 2025-12-18 · [GitHub](https://github.com/filipecalegario/awesome-generative-ai) · 个人维护
 
 **生成式 AI 资源策展清单：论文、工具、模型与教程聚合**
 

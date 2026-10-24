@@ -1,6 +1,6 @@
 # WATonomous/wato_monorepo
 
-⭐ 128 · C · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/WATonomous/wato_monorepo) · [官网](https://www.watonomous.ca/) · 组织维护
+⭐ 128 · C · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/WATonomous/wato_monorepo) · [官网](https://www.watonomous.ca/) · 组织维护
 
 **WATonomous 自动驾驶软件全栈的 Docker 化 ROS2 单体仓库**
 

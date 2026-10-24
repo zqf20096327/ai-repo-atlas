@@ -1,6 +1,6 @@
 # myna-recorder/Myna-Macro-Recorder-Auto-Clicker
 
-⭐ 73 · 推送 2026-10-18 · [GitHub](https://github.com/myna-recorder/Myna-Macro-Recorder-Auto-Clicker) · [官网](https://mynarecorder.com) · 组织维护
+⭐ 61 · 推送 2026-10-18 · [GitHub](https://github.com/myna-recorder/Myna-Macro-Recorder-Auto-Clicker) · [官网](https://mynarecorder.com) · 组织维护
 
 **可读可编辑的 Windows 宏录制器，附带 AI 写宏助手与自动连点器**
 

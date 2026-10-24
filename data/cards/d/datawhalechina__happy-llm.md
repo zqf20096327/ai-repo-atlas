@@ -1,6 +1,6 @@
 # datawhalechina/happy-llm
 
-⭐ 34,528 · Jupyter Notebook · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/datawhalechina/happy-llm) · [官网](https://datawhalechina.github.io/happy-llm/) · 组织维护 · 中文 README
+⭐ 34,542 · Jupyter Notebook · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/datawhalechina/happy-llm) · [官网](https://datawhalechina.github.io/happy-llm/) · 组织维护 · 中文 README
 
 **面向 LLM 学习者的大模型原理与训练系统教程**
 

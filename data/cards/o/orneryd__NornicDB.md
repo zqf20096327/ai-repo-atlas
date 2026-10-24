@@ -1,6 +1,6 @@
 # orneryd/NornicDB
 
-⭐ 917 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/orneryd/NornicDB) · 个人维护
+⭐ 916 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/orneryd/NornicDB) · 个人维护
 
 **Neo4j 兼容的图+向量+时序 MVCC 数据库，面向 Agent 记忆与 Graph-RAG**
 

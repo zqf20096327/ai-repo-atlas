@@ -1,6 +1,6 @@
 # Bria-AI/RMBG-2.0
 
-⭐ 342 · Python · NOASSERTION · 推送 2025-12-11 · [GitHub](https://github.com/Bria-AI/RMBG-2.0) · [官网](https://bria.ai/) · 组织维护
+⭐ 341 · Python · NOASSERTION · 推送 2025-12-11 · [GitHub](https://github.com/Bria-AI/RMBG-2.0) · [官网](https://bria.ai/) · 组织维护
 
 **面向商用的图像背景去除分割模型，输出灰度 alpha 蒙版**
 

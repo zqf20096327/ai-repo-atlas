@@ -1,6 +1,6 @@
 # pytorch/torchtitan
 
-⭐ 5,844 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/pytorch/torchtitan) · 组织维护
+⭐ 5,850 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/pytorch/torchtitan) · 组织维护
 
 **PyTorch 原生的大模型预训练/后训练/RL 平台**
 

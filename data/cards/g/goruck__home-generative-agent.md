@@ -1,6 +1,6 @@
 # goruck/home-generative-agent
 
-⭐ 360 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/goruck/home-generative-agent) · [官网](https://community.home-assistant.io/t/a-generative-agent-integration-based-on-langchain-and-langgraph/864923) · 个人维护
+⭐ 363 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/goruck/home-generative-agent) · [官网](https://community.home-assistant.io/t/a-generative-agent-integration-based-on-langchain-and-langgraph/864923) · 个人维护
 
 **面向 Home Assistant 的生成式 AI agent 集成，用自然语言控制智能家居**
 

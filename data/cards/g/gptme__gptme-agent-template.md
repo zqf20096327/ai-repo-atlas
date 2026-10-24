@@ -1,6 +1,6 @@
 # gptme/gptme-agent-template
 
-⭐ 56 · Shell · 推送 2026-10-21 · [GitHub](https://github.com/gptme/gptme-agent-template) · [官网](https://gptme.org) · 组织维护
+⭐ 57 · Shell · 推送 2026-10-21 · [GitHub](https://github.com/gptme/gptme-agent-template) · [官网](https://gptme.org) · 组织维护
 
 **gptme 持久自治 agent 的 git 工作区模板**
 

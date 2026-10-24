@@ -1,6 +1,6 @@
 # formetaohy/Neura
 
-⭐ 72 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/formetaohy/Neura) · 个人维护
+⭐ 86 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/formetaohy/Neura) · 个人维护
 
 **面向游戏的 Rust AI 框架：用图形 API 本地训练运行模型，无需 CUDA**
 

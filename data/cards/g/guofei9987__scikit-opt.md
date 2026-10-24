@@ -1,6 +1,6 @@
 # guofei9987/scikit-opt
 
-⭐ 6,723 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/guofei9987/scikit-opt) · [官网](https://scikit-opt.github.io/scikit-opt/#/en/) · 个人维护 · 中文 README
+⭐ 6,724 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/guofei9987/scikit-opt) · [官网](https://scikit-opt.github.io/scikit-opt/#/en/) · 个人维护 · 中文 README
 
 **Python 群体智能优化算法库：提供遗传算法、PSO、模拟退火等求解器**
 

@@ -1,6 +1,6 @@
 # lmstudio-ai/lms
 
-⭐ 5,376 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lmstudio-ai/lms) · [官网](https://lms.dev) · 组织维护
+⭐ 5,377 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lmstudio-ai/lms) · [官网](https://lms.dev) · 组织维护
 
 **LM Studio 官方命令行工具：管理本地模型与 API 服务器**
 

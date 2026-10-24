@@ -1,6 +1,6 @@
 # Aryan-0001/Jarvis-AI
 
-⭐ 128 · Dart · MIT · 推送 2026-01-27 · [GitHub](https://github.com/Aryan-0001/Jarvis-AI) · [官网](https://aryan-0001.github.io/Jarvis-AI/) · 个人维护
+⭐ 130 · Dart · MIT · 推送 2026-01-27 · [GitHub](https://github.com/Aryan-0001/Jarvis-AI) · [官网](https://aryan-0001.github.io/Jarvis-AI/) · 个人维护
 
 **语音激活的个人 AI 助手应用：Flutter Android 版与 Windows Python 版**
 

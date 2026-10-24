@@ -1,6 +1,6 @@
 # arkorlab/fine-tuning
 
-⭐ 146 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/arkorlab/fine-tuning) · [官网](https://www.arkor.ai) · 组织维护 · 中文 README
+⭐ 146 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/arkorlab/fine-tuning) · [官网](https://www.arkor.ai) · 组织维护 · 中文 README
 
 **面向 TypeScript 开发者的开源 LLM 微调框架（已停止维护）**
 

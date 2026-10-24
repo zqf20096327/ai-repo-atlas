@@ -1,6 +1,6 @@
 # lstein/PhotoMapAI
 
-⭐ 89 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lstein/PhotoMapAI) · [官网](https://lstein.github.io/PhotoMapAI/) · 个人维护 · 中文 README
+⭐ 89 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lstein/PhotoMapAI) · [官网](https://lstein.github.io/PhotoMapAI/) · 个人维护 · 中文 README
 
 **用 CLIP 生成照片集"语义地图"的本地图片浏览与搜索工具**
 

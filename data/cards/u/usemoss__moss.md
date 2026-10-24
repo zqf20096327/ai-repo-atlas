@@ -1,6 +1,6 @@
 # usemoss/moss
 
-⭐ 797 · Python · BSD-2-Clause · 推送 2026-10-23 · [GitHub](https://github.com/usemoss/moss) · [官网](https://moss.dev) · 组织维护
+⭐ 798 · Python · BSD-2-Clause · 推送 2026-10-23 · [GitHub](https://github.com/usemoss/moss) · [官网](https://moss.dev) · 组织维护
 
 **面向 AI agent 的嵌入式语义检索运行时，亚 10ms 混合搜索**
 

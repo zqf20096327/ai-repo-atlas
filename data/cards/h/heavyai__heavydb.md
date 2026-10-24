@@ -1,6 +1,6 @@
 # heavyai/heavydb
 
-⭐ 3,068 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/heavyai/heavydb) · [官网](https://heavy.ai) · 组织维护
+⭐ 3,068 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/heavyai/heavydb) · [官网](https://heavy.ai) · 组织维护
 
 **面向 GPU 的内存列式 SQL 数据库及 HeavyAI 分析平台**
 

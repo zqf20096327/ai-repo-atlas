@@ -1,6 +1,6 @@
 # EndoluminalSurgicalVision-IMR/ATM-22-Related-Work
 
-⭐ 174 · Python · MIT · 推送 2026-01-15 · [GitHub](https://github.com/EndoluminalSurgicalVision-IMR/ATM-22-Related-Work) · [官网](https://atm22.grand-challenge.org/) · 组织维护 · 中文 README
+⭐ 175 · Python · MIT · 推送 2026-01-15 · [GitHub](https://github.com/EndoluminalSurgicalVision-IMR/ATM-22-Related-Work) · [官网](https://atm22.grand-challenge.org/) · 组织维护 · 中文 README
 
 **气道树建模(ATM'22)挑战赛基准与气道分割论文合集**
 

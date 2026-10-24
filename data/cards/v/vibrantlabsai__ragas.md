@@ -1,6 +1,6 @@
 # vibrantlabsai/ragas
 
-⭐ 16,134 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/vibrantlabsai/ragas) · [官网](https://docs.ragas.io) · 组织维护
+⭐ 16,139 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/vibrantlabsai/ragas) · [官网](https://docs.ragas.io) · 组织维护
 
 **为 LLM 应用提供评估指标与测试集生成的工具包**
 

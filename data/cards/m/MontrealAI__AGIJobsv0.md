@@ -1,6 +1,6 @@
 # MontrealAI/AGIJobsv0
 
-⭐ 68 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MontrealAI/AGIJobsv0) · [官网](https://montrealai.github.io/AGIJobsv0/) · 组织维护
+⭐ 68 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MontrealAI/AGIJobsv0) · [官网](https://montrealai.github.io/AGIJobsv0/) · 组织维护
 
 **链上可验证 AI 代理任务工作流系统：任务合约、验证与结算**
 

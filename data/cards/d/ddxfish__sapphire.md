@@ -1,6 +1,6 @@
 # ddxfish/sapphire
 
-⭐ 319 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/ddxfish/sapphire) · [官网](https://sapphireblue.dev/) · 个人维护
+⭐ 320 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ddxfish/sapphire) · [官网](https://sapphireblue.dev/) · 个人维护
 
 **自托管的语音 AI 伴侣/agent 框架，可定制人格与长期记忆**
 

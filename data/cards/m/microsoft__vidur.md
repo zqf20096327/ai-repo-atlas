@@ -1,6 +1,6 @@
 # microsoft/vidur
 
-⭐ 707 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/vidur) · 组织维护
+⭐ 708 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/vidur) · 组织维护
 
 **面向 LLM 推理系统的性能模拟器，用于容量规划与配置搜索**
 

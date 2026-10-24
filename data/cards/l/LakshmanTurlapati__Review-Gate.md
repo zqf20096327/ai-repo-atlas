@@ -1,6 +1,6 @@
 # LakshmanTurlapati/Review-Gate
 
-⭐ 1,526 · JavaScript · 推送 2026-04-02 · [GitHub](https://github.com/LakshmanTurlapati/Review-Gate) · [官网](https://www.youtube.com/watch?v=mZmNM-AIf4M) · 个人维护
+⭐ 1,525 · JavaScript · 推送 2026-04-02 · [GitHub](https://github.com/LakshmanTurlapati/Review-Gate) · [官网](https://www.youtube.com/watch?v=mZmNM-AIf4M) · 个人维护
 
 **Cursor IDE 的交互式审查规则与 MCP 工具，让 Agent 在单次请求内循环待命**
 

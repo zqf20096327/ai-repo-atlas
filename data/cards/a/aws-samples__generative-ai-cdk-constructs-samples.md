@@ -1,6 +1,6 @@
 # aws-samples/generative-ai-cdk-constructs-samples
 
-⭐ 176 · Apache-2.0 · 推送 2026-05-11 · [GitHub](https://github.com/aws-samples/generative-ai-cdk-constructs-samples) · [官网](https://github.com/awslabs/generative-ai-cdk-constructs) · 组织维护
+⭐ 175 · Apache-2.0 · 推送 2026-05-11 · [GitHub](https://github.com/aws-samples/generative-ai-cdk-constructs-samples) · [官网](https://github.com/awslabs/generative-ai-cdk-constructs) · 组织维护
 
 **基于 AWS GenAI CDK Constructs 的生成式 AI 示例应用合集**
 

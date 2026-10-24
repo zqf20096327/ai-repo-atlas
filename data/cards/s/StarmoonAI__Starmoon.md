@@ -1,6 +1,6 @@
 # StarmoonAI/Starmoon
 
-⭐ 548 · TypeScript · GPL-3.0 · 推送 2026-03-27 · [GitHub](https://github.com/StarmoonAI/Starmoon) · [官网](https://www.elatoai.com) · 组织维护
+⭐ 547 · TypeScript · GPL-3.0 · 推送 2026-03-27 · [GitHub](https://github.com/StarmoonAI/Starmoon) · [官网](https://www.elatoai.com) · 组织维护
 
 **开源 ESP32 对话 AI 伴侣设备的软硬件框架**
 

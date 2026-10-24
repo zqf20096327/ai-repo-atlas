@@ -1,6 +1,6 @@
 # an2tha/onerep
 
-⭐ 73 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/an2tha/onerep) · [官网](https://www.onerep.life) · 个人维护
+⭐ 74 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/an2tha/onerep) · [官网](https://www.onerep.life) · 个人维护
 
 **开源自托管健身追踪应用：饮食/训练/日记与 AI 教练一体**
 

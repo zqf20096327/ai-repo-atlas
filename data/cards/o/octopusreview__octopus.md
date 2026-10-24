@@ -1,6 +1,6 @@
 # octopusreview/octopus
 
-⭐ 112 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/octopusreview/octopus) · [官网](https://octopus-review.ai) · 组织维护
+⭐ 113 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/octopusreview/octopus) · [官网](https://octopus-review.ai) · 组织维护
 
 **面向 PR 的 AI 代码审查工具，产出摘要、分级问题与修复建议**
 

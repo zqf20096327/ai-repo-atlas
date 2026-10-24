@@ -1,6 +1,6 @@
 # apoorvdarshan/fud-ai
 
-⭐ 489 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/apoorvdarshan/fud-ai) · [官网](https://fud-ai.app) · 个人维护
+⭐ 490 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/apoorvdarshan/fud-ai) · [官网](https://fud-ai.app) · 个人维护
 
 **面向消费者的开源 AI 卡路里与运动追踪 App（iOS/Android）**
 

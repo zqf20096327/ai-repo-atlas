@@ -1,6 +1,6 @@
 # amitshekhariitbhu/llm-internals
 
-⭐ 1,767 · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/amitshekhariitbhu/llm-internals) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 1,768 · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/amitshekhariitbhu/llm-internals) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **LLM 内部原理的分步学习资源清单（博客+视频）**
 

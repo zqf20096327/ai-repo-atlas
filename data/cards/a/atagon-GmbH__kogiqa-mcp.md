@@ -1,6 +1,6 @@
 # atagon-GmbH/kogiqa-mcp
 
-⭐ 93 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/atagon-GmbH/kogiqa-mcp) · [官网](https://www.npmjs.com/package/kogiqa-mcp) · 组织维护
+⭐ 91 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/atagon-GmbH/kogiqa-mcp) · [官网](https://www.npmjs.com/package/kogiqa-mcp) · 组织维护
 
 **供 LLM agent 使用的无选择器浏览器自动化 MCP 服务器**
 

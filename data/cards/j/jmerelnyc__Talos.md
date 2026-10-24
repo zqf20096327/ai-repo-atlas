@@ -1,6 +1,6 @@
 # jmerelnyc/Talos
 
-⭐ 673 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/jmerelnyc/Talos) · [官网](https://usetalos.xyz) · 组织维护
+⭐ 669 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/jmerelnyc/Talos) · [官网](https://usetalos.xyz) · 组织维护
 
 **Talos 网络 GPU worker 客户端：共享本机 GPU 服务推理任务并赚取收益**
 

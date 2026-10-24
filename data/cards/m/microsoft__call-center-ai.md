@@ -1,6 +1,6 @@
 # microsoft/call-center-ai
 
-⭐ 6,684 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/microsoft/call-center-ai) · 组织维护
+⭐ 6,686 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/microsoft/call-center-ai) · 组织维护
 
 **微软的 AI 电话客服方案：Azure 语音加 GPT 处理呼入呼出电话**
 

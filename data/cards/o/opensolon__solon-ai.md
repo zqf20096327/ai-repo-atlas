@@ -1,6 +1,6 @@
 # opensolon/solon-ai
 
-⭐ 466 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/opensolon/solon-ai) · [官网](https://solon.noear.org) · 组织维护 · 中文 README
+⭐ 467 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/opensolon/solon-ai) · [官网](https://solon.noear.org) · 组织维护 · 中文 README
 
 **面向 Java 开发者的 LLM/RAG/MCP/Agent 应用开发框架**
 

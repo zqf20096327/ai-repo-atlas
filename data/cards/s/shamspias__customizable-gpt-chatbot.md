@@ -1,6 +1,6 @@
 # shamspias/customizable-gpt-chatbot
 
-⭐ 408 · Python · 推送 2026-06-18 · [GitHub](https://github.com/shamspias/customizable-gpt-chatbot) · 个人维护
+⭐ 407 · Python · 推送 2026-06-18 · [GitHub](https://github.com/shamspias/customizable-gpt-chatbot) · 个人维护
 
 **本地优先的可自托管 agent 平台：自然语言构建并运行智能体**
 

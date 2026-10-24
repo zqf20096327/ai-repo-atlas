@@ -1,6 +1,6 @@
 # anthropics/claude-plugins-community
 
-⭐ 4,754 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/claude-plugins-community) · 组织维护
+⭐ 4,760 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/anthropics/claude-plugins-community) · 组织维护
 
 **Claude Cowork 与 Claude Code 的社区插件市场镜像清单**
 

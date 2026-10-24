@@ -1,6 +1,6 @@
 # milvus-io/milvus-lite
 
-⭐ 465 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/milvus-io/milvus-lite) · 组织维护
+⭐ 464 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/milvus-io/milvus-lite) · 组织维护
 
 **本地开发测试用的轻量级 Milvus 向量数据库（纯 Python）**
 

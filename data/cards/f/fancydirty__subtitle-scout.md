@@ -1,6 +1,6 @@
 # fancydirty/subtitle-scout
 
-⭐ 126 · TypeScript · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/fancydirty/subtitle-scout) · [官网](https://subtitlescout.com) · 个人维护 · 中文 README
+⭐ 131 · TypeScript · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/fancydirty/subtitle-scout) · [官网](https://subtitlescout.com) · 个人维护 · 中文 README
 
 **自托管字幕自动化系统：LLM agent 为媒体库匹配并安装字幕**
 

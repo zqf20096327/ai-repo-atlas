@@ -1,6 +1,6 @@
 # koaning/scikit-lego
 
-⭐ 1,413 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/koaning/scikit-lego) · [官网](https://koaning.github.io/scikit-lego/) · 组织维护
+⭐ 1,413 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/koaning/scikit-lego) · [官网](https://koaning.github.io/scikit-lego/) · 组织维护
 
 **为 scikit-learn 流水线提供额外转换器、模型与指标的库**
 

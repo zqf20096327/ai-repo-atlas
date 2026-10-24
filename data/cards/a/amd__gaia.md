@@ -1,6 +1,6 @@
 # amd/gaia
 
-⭐ 1,597 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/amd/gaia) · [官网](https://github.com/amd/gaia) · 组织维护
+⭐ 1,597 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/amd/gaia) · [官网](https://github.com/amd/gaia) · 组织维护
 
 **AMD 开源本地 Agent 工厂：在 Ryzen AI 硬件上构建/运行本地智能体**
 

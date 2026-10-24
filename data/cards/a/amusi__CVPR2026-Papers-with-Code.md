@@ -1,6 +1,6 @@
 # amusi/CVPR2026-Papers-with-Code
 
-⭐ 22,914 · 推送 2026-03-08 · [GitHub](https://github.com/amusi/CVPR2026-Papers-with-Code) · 个人维护 · 中文 README
+⭐ 22,916 · 推送 2026-03-08 · [GitHub](https://github.com/amusi/CVPR2026-Papers-with-Code) · 个人维护 · 中文 README
 
 **面向计算机视觉研究者的 CVPR 2026 论文与开源项目目录**
 

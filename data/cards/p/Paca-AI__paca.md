@@ -1,6 +1,6 @@
 # Paca-AI/paca
 
-⭐ 1,973 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Paca-AI/paca) · [官网](https://paca-ai.org) · 组织维护
+⭐ 1,976 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Paca-AI/paca) · [官网](https://paca-ai.org) · 组织维护
 
 **自托管项目管理平台，AI agent 与人类同队协作 Scrum**
 

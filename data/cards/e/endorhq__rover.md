@@ -1,6 +1,6 @@
 # endorhq/rover
 
-⭐ 272 · TypeScript · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/endorhq/rover) · [官网](https://endor.dev/rover) · 组织维护
+⭐ 271 · TypeScript · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/endorhq/rover) · [官网](https://endor.dev/rover) · 组织维护
 
 **AI 编码 agent 管理器：让多个 agent 并行隔离地处理编码任务**
 

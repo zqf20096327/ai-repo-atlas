@@ -1,6 +1,6 @@
 # codeplea/genann
 
-⭐ 2,296 · C · Zlib · 推送 2026-08-08 · [GitHub](https://github.com/codeplea/genann) · [官网](https://codeplea.com/genann) · 个人维护
+⭐ 2,297 · C · Zlib · 推送 2026-08-08 · [GitHub](https://github.com/codeplea/genann) · [官网](https://codeplea.com/genann) · 个人维护
 
 **面向 C 开发者的单文件前馈神经网络库**
 

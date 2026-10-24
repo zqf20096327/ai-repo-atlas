@@ -1,6 +1,6 @@
 # PromptPartner/agentsmith
 
-⭐ 173 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/PromptPartner/agentsmith) · [官网](https://agentsmith.diy) · 组织维护 · 中文 README
+⭐ 172 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/PromptPartner/agentsmith) · [官网](https://agentsmith.diy) · 组织维护 · 中文 README
 
 **面向编码 Agent 的项目规则与验证脚手架配置工具**
 

@@ -1,6 +1,6 @@
 # ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time
 
-⭐ 282 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time) · 个人维护
+⭐ 281 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time) · 个人维护
 
 **Titans 论文的多 agent 交互演示桌面平台**
 

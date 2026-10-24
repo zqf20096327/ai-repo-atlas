@@ -1,6 +1,6 @@
 # elevenlabs/elevenlabs-js
 
-⭐ 447 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/elevenlabs/elevenlabs-js) · [官网](https://elevenlabs.io) · 组织维护
+⭐ 446 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/elevenlabs/elevenlabs-js) · [官网](https://elevenlabs.io) · 组织维护
 
 **ElevenLabs 官方 Node.js SDK：接入其文本转语音与语音 Agent API**
 

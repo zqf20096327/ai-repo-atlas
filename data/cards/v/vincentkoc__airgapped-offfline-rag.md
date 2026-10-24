@@ -1,6 +1,6 @@
 # vincentkoc/airgapped-offfline-rag
 
-⭐ 88 · Python · GPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/vincentkoc/airgapped-offfline-rag) · 个人维护
+⭐ 87 · Python · GPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/vincentkoc/airgapped-offfline-rag) · 个人维护
 
 **离线本地运行的文档问答 RAG 系统，供隐私敏感用户使用**
 

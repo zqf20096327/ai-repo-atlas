@@ -1,6 +1,6 @@
 # MLOps-Courses/mlops-coding-course
 
-⭐ 743 · CC-BY-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/MLOps-Courses/mlops-coding-course) · [官网](https://mlops-coding-course.fmind.dev/) · 组织维护
+⭐ 743 · CC-BY-4.0 · 推送 2026-10-24 · [GitHub](https://github.com/MLOps-Courses/mlops-coding-course) · [官网](https://mlops-coding-course.fmind.dev/) · 组织维护
 
 **教你构建与维护 MLOps 代码库的实践课程（教程）**
 

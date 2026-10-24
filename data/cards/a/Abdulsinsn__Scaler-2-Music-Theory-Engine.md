@@ -1,6 +1,6 @@
 # Abdulsinsn/Scaler-2-Music-Theory-Engine
 
-⭐ 70 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/Abdulsinsn/Scaler-2-Music-Theory-Engine) · 个人维护
+⭐ 70 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/Abdulsinsn/Scaler-2-Music-Theory-Engine) · 个人维护
 
 **第三方分发商业音乐理论插件 Scaler 2 的安装与文档仓库**
 

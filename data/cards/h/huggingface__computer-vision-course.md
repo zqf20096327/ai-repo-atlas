@@ -1,6 +1,6 @@
 # huggingface/computer-vision-course
 
-⭐ 897 · Jupyter Notebook · MIT · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/computer-vision-course) · 组织维护
+⭐ 898 · Jupyter Notebook · MIT · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/computer-vision-course) · 组织维护
 
 **社区共创的计算机视觉课程，覆盖 CNN 到视觉 Transformer**
 

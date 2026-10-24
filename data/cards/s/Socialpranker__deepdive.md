@@ -1,6 +1,6 @@
 # Socialpranker/deepdive
 
-⭐ 373 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Socialpranker/deepdive) · [官网](https://socialpranker.github.io/deepdive/) · 个人维护
+⭐ 368 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Socialpranker/deepdive) · [官网](https://socialpranker.github.io/deepdive/) · 个人维护
 
 **给 Claude Code 用户的结构化深度研究技能：13 阶段调研流水线**
 

@@ -1,6 +1,6 @@
 # laolaoshiren/ai-hot
 
-⭐ 87 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/laolaoshiren/ai-hot) · [官网](https://aihot.bt199.com) · 个人维护 · 中文 README
+⭐ 86 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/laolaoshiren/ai-hot) · [官网](https://aihot.bt199.com) · 个人维护 · 中文 README
 
 **面向中文用户的 AI 工具/模型/新闻导航站，GitHub 与网站双向同步**
 

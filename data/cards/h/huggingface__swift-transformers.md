@@ -1,6 +1,6 @@
 # huggingface/swift-transformers
 
-⭐ 1,360 · Swift · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/swift-transformers) · 组织维护
+⭐ 1,361 · Swift · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/swift-transformers) · 组织维护
 
 **在 Swift 应用中接入语言模型的工具库**
 

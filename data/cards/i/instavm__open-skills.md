@@ -1,6 +1,6 @@
 # instavm/open-skills
 
-⭐ 453 · Python · Apache-2.0 · 推送 2026-01-23 · [GitHub](https://github.com/instavm/open-skills) · 组织维护
+⭐ 452 · Python · Apache-2.0 · 推送 2026-01-23 · [GitHub](https://github.com/instavm/open-skills) · 组织维护
 
 **在 Mac 本地沙箱中运行 Claude Skills 的 MCP 服务器**
 

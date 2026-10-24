@@ -1,6 +1,6 @@
 # adbar/trafilatura
 
-⭐ 7,011 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/adbar/trafilatura) · [官网](https://trafilatura.readthedocs.io) · 个人维护
+⭐ 7,018 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/adbar/trafilatura) · [官网](https://trafilatura.readthedocs.io) · 个人维护
 
 **Python/命令行网页正文与元数据抽取工具**
 

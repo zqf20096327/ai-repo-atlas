@@ -1,6 +1,6 @@
 # aramis-lab/clinicadl
 
-⭐ 191 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/aramis-lab/clinicadl) · [官网](https://clinicadl.readthedocs.io/en/stable/) · 组织维护
+⭐ 191 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/aramis-lab/clinicadl) · [官网](https://clinicadl.readthedocs.io/en/stable/) · 组织维护
 
 **神经影像可复现深度学习 Python 库，面向临床研究**
 

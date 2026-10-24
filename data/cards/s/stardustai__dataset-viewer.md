@@ -1,6 +1,6 @@
 # stardustai/dataset-viewer
 
-⭐ 1,103 · TypeScript · 推送 2026-03-28 · [GitHub](https://github.com/stardustai/dataset-viewer) · [官网](https://stardustai.github.io/dataset-viewer) · 个人维护 · 中文 README
+⭐ 1,102 · TypeScript · 推送 2026-03-28 · [GitHub](https://github.com/stardustai/dataset-viewer) · [官网](https://stardustai.github.io/dataset-viewer) · 个人维护 · 中文 README
 
 **跨协议大数据集桌面查看器：流式打开 100GB+ 文件与归档**
 

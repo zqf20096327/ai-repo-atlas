@@ -1,6 +1,6 @@
 # jeecgboot/skills
 
-⭐ 242 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/skills) · [官网](https://jeecg.com) · 组织维护 · 中文 README
+⭐ 243 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/skills) · [官网](https://jeecg.com) · 组织维护 · 中文 README
 
 **给 JeecgBoot 开发者的 Claude Code 技能集：一句话生成全套低代码工件**
 

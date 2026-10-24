@@ -1,6 +1,6 @@
 # Bodhi42/Occular-ocr
 
-⭐ 98 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/Bodhi42/Occular-ocr) · 个人维护
+⭐ 96 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/Bodhi42/Occular-ocr) · 个人维护
 
 **面向俄语文档的 OCR 库：pip 安装、CPU 开箱即用**
 

@@ -1,6 +1,6 @@
 # SunOner/sunone_aimbot
 
-⭐ 1,046 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/SunOner/sunone_aimbot) · [官网](https://discord.gg/37WVp6sNEh) · 个人维护
+⭐ 1,047 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/SunOner/sunone_aimbot) · [官网](https://discord.gg/37WVp6sNEh) · 个人维护
 
 **面向 FPS 游戏的 AI 自瞄工具（YOLO 检测自动瞄准）**
 

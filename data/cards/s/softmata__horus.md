@@ -1,6 +1,6 @@
 # softmata/horus
 
-⭐ 444 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/softmata/horus) · [官网](https://docs.horusrobotics.dev/) · 组织维护 · 中文 README
+⭐ 445 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/softmata/horus) · [官网](https://docs.horusrobotics.dev/) · 组织维护 · 中文 README
 
 **面向机器人与实时系统的分布式中间件，替代 DDS/ROS2**
 

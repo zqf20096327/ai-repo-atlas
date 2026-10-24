@@ -1,6 +1,6 @@
 # callstackincubator/cali
 
-⭐ 991 · TypeScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/callstackincubator/cali) · 组织维护
+⭐ 990 · TypeScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/callstackincubator/cali) · 组织维护
 
 **面向 React Native 团队的 AI agent CLI：QA、代码审查与实现流程**
 

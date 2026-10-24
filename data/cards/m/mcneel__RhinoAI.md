@@ -1,6 +1,6 @@
 # mcneel/RhinoAI
 
-⭐ 377 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mcneel/RhinoAI) · [官网](https://mcneel.github.io/RhinoAI/) · 组织维护
+⭐ 378 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mcneel/RhinoAI) · [官网](https://mcneel.github.io/RhinoAI/) · 组织维护
 
 **为 Rhino3D 提供 MCP 集成，接入 AI 助手操控建模**
 

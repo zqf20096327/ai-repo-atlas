@@ -1,6 +1,6 @@
 # Sven233333/geoguessr-cheats
 
-⭐ 71 · JavaScript · 推送 2026-10-13 · [GitHub](https://github.com/Sven233333/geoguessr-cheats) · [官网](https://geoguessrcheats.com) · 个人维护
+⭐ 68 · JavaScript · 推送 2026-10-13 · [GitHub](https://github.com/Sven233333/geoguessr-cheats) · [官网](https://geoguessrcheats.com) · 个人维护
 
 **读取屏幕街景并在约三秒内预测地点的 GeoGuessr 作弊机器人**
 

@@ -1,6 +1,6 @@
 # TwillAI/agentbox-sdk
 
-⭐ 165 · TypeScript · 推送 2026-10-14 · [GitHub](https://github.com/TwillAI/agentbox-sdk) · [官网](https://twill.ai) · 组织维护
+⭐ 166 · TypeScript · 推送 2026-10-14 · [GitHub](https://github.com/TwillAI/agentbox-sdk) · [官网](https://twill.ai) · 组织维护
 
 **在沙箱中运行 AI 编码代理的 TypeScript SDK，统一 API 切换代理与沙箱**
 

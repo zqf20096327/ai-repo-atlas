@@ -1,6 +1,6 @@
 # Lexus2016/claude-code-studio
 
-⭐ 143 · JavaScript · 推送 2026-10-22 · [GitHub](https://github.com/Lexus2016/claude-code-studio) · 个人维护
+⭐ 143 · JavaScript · 推送 2026-10-23 · [GitHub](https://github.com/Lexus2016/claude-code-studio) · 个人维护
 
 **Claude Code CLI 的浏览器工作台：聊天、看板、调度与多 agent 编排**
 

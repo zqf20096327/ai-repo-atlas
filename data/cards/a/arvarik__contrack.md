@@ -1,6 +1,6 @@
 # arvarik/contrack
 
-⭐ 82 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/arvarik/contrack) · [官网](https://arvarik.com/contrack) · 个人维护
+⭐ 83 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/arvarik/contrack) · [官网](https://arvarik.com/contrack) · 个人维护
 
 **自托管的个人/团队联系人管理与追踪应用，含可选 AI 增强**
 

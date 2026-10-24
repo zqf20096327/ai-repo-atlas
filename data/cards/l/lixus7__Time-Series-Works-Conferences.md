@@ -1,6 +1,6 @@
 # lixus7/Time-Series-Works-Conferences
 
-⭐ 1,041 · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lixus7/Time-Series-Works-Conferences) · 个人维护
+⭐ 1,042 · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lixus7/Time-Series-Works-Conferences) · 个人维护
 
 **顶会时间序列论文追踪清单，供研究者跟进最新工作**
 

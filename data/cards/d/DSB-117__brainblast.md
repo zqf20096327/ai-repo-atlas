@@ -1,6 +1,6 @@
 # DSB-117/brainblast
 
-⭐ 92 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/DSB-117/brainblast) · [官网](https://www.npmjs.com/package/brainblast) · 个人维护
+⭐ 91 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/DSB-117/brainblast) · [官网](https://www.npmjs.com/package/brainblast) · 个人维护
 
 **为 AI 编码 agent 做外部 API/SDK 前置研究与 CI 静态审计的工具**
 

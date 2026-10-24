@@ -1,6 +1,6 @@
 # lirantal/tokenu
 
-⭐ 66 · TypeScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/lirantal/tokenu) · 个人维护
+⭐ 66 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/lirantal/tokenu) · 个人维护
 
 **统计文件与目录 token 占用的类 du 命令行工具**
 

@@ -1,6 +1,6 @@
 # jeankassio/ComfyUI-AceStep_SFT
 
-⭐ 62 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/jeankassio/ComfyUI-AceStep_SFT) · [官网](https://somora.media) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jeankassio/ComfyUI-AceStep_SFT) · [官网](https://somora.media) · 个人维护
 
 **ComfyUI 节点套件：运行 AceStep 1.5 SFT 音乐生成模型**
 

@@ -1,6 +1,6 @@
 # LeoYeAI/openclaw-guardian
 
-⭐ 568 · Shell · MIT · 推送 2026-07-14 · [GitHub](https://github.com/LeoYeAI/openclaw-guardian) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
+⭐ 567 · Shell · MIT · 推送 2026-07-14 · [GitHub](https://github.com/LeoYeAI/openclaw-guardian) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
 
 **OpenClaw Gateway 的看护脚本：监控健康并自愈回滚**
 

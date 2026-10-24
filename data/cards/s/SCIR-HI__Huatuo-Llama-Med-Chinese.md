@@ -1,6 +1,6 @@
 # SCIR-HI/Huatuo-Llama-Med-Chinese
 
-⭐ 5,001 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) · 组织维护 · 中文 README
+⭐ 5,003 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) · 组织维护 · 中文 README
 
 **中文医学指令微调大模型集（本草/华驼），供医学问答研究**
 

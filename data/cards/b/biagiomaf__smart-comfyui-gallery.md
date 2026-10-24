@@ -1,6 +1,6 @@
 # biagiomaf/smart-comfyui-gallery
 
-⭐ 395 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/biagiomaf/smart-comfyui-gallery) · [官网](https://smartgallerydam.com) · 个人维护
+⭐ 396 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/biagiomaf/smart-comfyui-gallery) · [官网](https://smartgallerydam.com) · 个人维护
 
 **面向 ComfyUI 用户的本地数字资产管理器：浏览、检索、管理与生成 AI 产出**
 

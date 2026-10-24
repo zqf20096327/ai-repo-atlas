@@ -1,6 +1,6 @@
 # Morrowmake/glm53-flash-cmp170hx-recipe
 
-⭐ 84 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Morrowmake/glm53-flash-cmp170hx-recipe) · 个人维护
+⭐ 85 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Morrowmake/glm53-flash-cmp170hx-recipe) · 个人维护
 
 **在 4× CMP 170HX 上以 vLLM fork 运行 GLM-5.3-Flash 的部署方案**
 

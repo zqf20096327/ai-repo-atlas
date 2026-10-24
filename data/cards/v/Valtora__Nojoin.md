@@ -1,6 +1,6 @@
 # Valtora/Nojoin
 
-⭐ 85 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Valtora/Nojoin) · [官网](https://www.nojoin.co.uk) · 个人维护
+⭐ 85 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Valtora/Nojoin) · [官网](https://www.nojoin.co.uk) · 个人维护
 
 **自托管会议记录工具：浏览器录音、本地转写、AI 客户端经 MCP 读写笔记库**
 

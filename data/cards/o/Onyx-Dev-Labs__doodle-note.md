@@ -1,6 +1,6 @@
 # Onyx-Dev-Labs/doodle-note
 
-⭐ 182 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Onyx-Dev-Labs/doodle-note) · [官网](https://www.doodlenote.ai) · 组织维护
+⭐ 182 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Onyx-Dev-Labs/doodle-note) · [官网](https://www.doodlenote.ai) · 组织维护
 
 **本地优先的会议录音转写与 AI 笔记桌面应用**
 

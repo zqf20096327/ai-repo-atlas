@@ -1,6 +1,6 @@
 # supabase-community/database-build
 
-⭐ 2,950 · TypeScript · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/supabase-community/database-build) · [官网](https://database.build) · 组织维护
+⭐ 2,949 · TypeScript · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/supabase-community/database-build) · [官网](https://database.build) · 组织维护
 
 **浏览器内 Postgres 沙箱，配 LLM 辅助建库与生成报表**
 

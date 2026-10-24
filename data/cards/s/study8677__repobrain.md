@@ -1,6 +1,6 @@
 # study8677/repobrain
 
-⭐ 1,351 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/study8677/repobrain) · [官网](https://deepwiki.com/study8677/antigravity-workspace-template) · 个人维护 · 中文 README
+⭐ 1,354 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/study8677/repobrain) · [官网](https://deepwiki.com/study8677/antigravity-workspace-template) · 个人维护 · 中文 README
 
 **跨 IDE 仓库知识引擎：为代码问答提供带出处上下文**
 

@@ -1,6 +1,6 @@
 # stenolabs/stenoai
 
-⭐ 1,347 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/stenolabs/stenoai) · [官网](https://stenoai.co/) · 组织维护
+⭐ 1,348 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/stenolabs/stenoai) · [官网](https://stenoai.co/) · 组织维护
 
 **隐私优先的本地 AI 会议记录应用，供保密场合录音转写与摘要**
 
