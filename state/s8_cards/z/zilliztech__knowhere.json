@@ -1,1 +1,77 @@
-{"fn": "zilliztech/knowhere", "sha": "8dde90ac9644", "source": "readme", "identity": {"one_liner": "Milvus 内部向量检索引擎核心库，集成多种索引算法", "review": "C++ 编写的独立向量检索引擎，作为 Milvus 的内部核心，集成 FAISS、HNSW、DiskANN 等索引算法，提供最近邻搜索能力。可随 Milvus 主项目隐式构建，也可独立从源码编译；通过 scripts/install_deps.sh 安装依赖，顶层 Makefile 统一构建 CPU/GPU 版本与单元测试。支持构建 manylinux Python wheel（需 swig 与 python3-dev）。验证平台覆盖 Ubuntu 20.04/22.04（x86_64/Aarch64）与 macOS（x86_64/Apple Silicon）。面向需要在 Milvus 之外使用或修改其检索核心的开发者。", "highlights": ["C++ 向量检索引擎，作为 Milvus 内部核心独立成库", "集成 FAISS、HNSW、DiskANN 等索引算法", "Makefile 统一构建接口，支持 CPU/GPU 与单元测试", "可构建 manylinux Python wheel 并以 pip 安装"], "use_cases": ["为向量数据库 Milvus 贡献或修改底层检索核心", "脱离 Milvus 单独编译使用向量检索能力", "通过 Python wheel 在 Python 环境中使用该检索库"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["向量检索", "向量数据库", "C++库", "RAG基础设施", "数据库内核"], "domain": "向量数据库/检索基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Knowhere is written in C++. It is an independent project that act as Milvus's internal core.", "L11: If you wish to only use Knowhere within Milvus without changing any of the Knowhere source code, we suggest that you mov"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zilliztech/knowhere",
+ "sha": "8dde90ac9644",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Milvus 内部向量检索引擎核心库，集成多种索引算法",
+  "review": "C++ 编写的独立向量检索引擎，作为 Milvus 的内部核心，集成 FAISS、HNSW、DiskANN 等索引算法，提供最近邻搜索能力。可随 Milvus 主项目隐式构建，也可独立从源码编译；通过 scripts/install_deps.sh 安装依赖，顶层 Makefile 统一构建 CPU/GPU 版本与单元测试。支持构建 manylinux Python wheel（需 swig 与 python3-dev）。验证平台覆盖 Ubuntu 20.04/22.04（x86_64/Aarch64）与 macOS（x86_64/Apple Silicon）。面向需要在 Milvus 之外使用或修改其检索核心的开发者。",
+  "highlights": [
+   "C++ 向量检索引擎，作为 Milvus 内部核心独立成库",
+   "集成 FAISS、HNSW、DiskANN 等索引算法",
+   "Makefile 统一构建接口，支持 CPU/GPU 与单元测试",
+   "可构建 manylinux Python wheel 并以 pip 安装"
+  ],
+  "use_cases": [
+   "为向量数据库 Milvus 贡献或修改底层检索核心",
+   "脱离 Milvus 单独编译使用向量检索能力",
+   "通过 Python wheel 在 Python 环境中使用该检索库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量检索",
+   "向量数据库",
+   "C++库",
+   "RAG基础设施",
+   "数据库内核"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Knowhere is written in C++. It is an independent project that act as Milvus's internal core.",
+   "L11: If you wish to only use Knowhere within Milvus without changing any of the Knowhere source code, we suggest that you mov"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

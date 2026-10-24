@@ -1,1 +1,85 @@
-{"fn": "spranab/brainstorm-mcp", "sha": "7b0a2fce1432", "source": "readme", "identity": {"one_liner": "多模型多轮辩论的 MCP 服务器，输出结构化综合结论", "review": "面向在编辑器/Claude Code 中工作的开发者的 MCP 服务器：让 GPT、Gemini、DeepSeek、Claude、Groq 及本地 Ollama 模型就同一问题进行多轮辩论（互相查看并批评对方回答），最终由综合模型输出 3 条要点的结论（建议、关键权衡、最大分歧）。提供托管模式（零 API key，由宿主 Claude Code 生成子代理执行）、API 模式与 CLI 模式（复用已有 agent CLI 订阅而非 API 计费），另含快速多模型对比、带严重度评级的多模型代码评审、红队/苏格拉底辩论风格。单模型失败不中断辩论，macOS/Windows/Linux 跨平台，本地运行不收集数据。", "highlights": ["多轮辩论：模型跨轮互相批评对方回答后输出 3 要点综合结论", "托管模式零 API key，由宿主 Claude Code 子代理执行提示词", "CLI 模式自动检测 PATH 上的 agent CLI，用订阅代替 API 计费", "brainstorm_review 多模型代码评审：严重度、结论与模型一致性分析"], "use_cases": ["让多个模型辩论技术选型（如 GraphQL vs REST）并给出结构化结论", "对 diff 做多模型安全/正确性代码评审", "10 秒内获取多模型对同一问题的并行对比观点"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "多模型辩论", "LLM编排", "代码评审", "Claude生态"], "domain": "LLM 工具/MCP 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "deepseek", "ollama", "groq", "xai"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L13: brainstorm-mcp runs multi-round debates between GPT, Gemini, DeepSeek, Claude", "L43: - **Hosted mode** — No API keys needed. Uses models in your environment (Claude Opus/Sonnet/Haiku) via sub-agents", "L230: |`brainstorm`|Multi-round debate between AI models (API or hosted mode)|readOnly|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "spranab/brainstorm-mcp",
+ "sha": "7b0a2fce1432",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多模型多轮辩论的 MCP 服务器，输出结构化综合结论",
+  "review": "面向在编辑器/Claude Code 中工作的开发者的 MCP 服务器：让 GPT、Gemini、DeepSeek、Claude、Groq 及本地 Ollama 模型就同一问题进行多轮辩论（互相查看并批评对方回答），最终由综合模型输出 3 条要点的结论（建议、关键权衡、最大分歧）。提供托管模式（零 API key，由宿主 Claude Code 生成子代理执行）、API 模式与 CLI 模式（复用已有 agent CLI 订阅而非 API 计费），另含快速多模型对比、带严重度评级的多模型代码评审、红队/苏格拉底辩论风格。单模型失败不中断辩论，macOS/Windows/Linux 跨平台，本地运行不收集数据。",
+  "highlights": [
+   "多轮辩论：模型跨轮互相批评对方回答后输出 3 要点综合结论",
+   "托管模式零 API key，由宿主 Claude Code 子代理执行提示词",
+   "CLI 模式自动检测 PATH 上的 agent CLI，用订阅代替 API 计费",
+   "brainstorm_review 多模型代码评审：严重度、结论与模型一致性分析"
+  ],
+  "use_cases": [
+   "让多个模型辩论技术选型（如 GraphQL vs REST）并给出结构化结论",
+   "对 diff 做多模型安全/正确性代码评审",
+   "10 秒内获取多模型对同一问题的并行对比观点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "多模型辩论",
+   "LLM编排",
+   "代码评审",
+   "Claude生态"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "ollama",
+   "groq",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "code-review",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: brainstorm-mcp runs multi-round debates between GPT, Gemini, DeepSeek, Claude",
+   "L43: - **Hosted mode** — No API keys needed. Uses models in your environment (Claude Opus/Sonnet/Haiku) via sub-agents",
+   "L230: |`brainstorm`|Multi-round debate between AI models (API or hosted mode)|readOnly|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

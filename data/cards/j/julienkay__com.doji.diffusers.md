@@ -33,7 +33,7 @@ Doji 维护的 Unity 包，将 Hugging Face diffusers 库移植到 Unity Sentis 
 
 ## 场景标签
 
- · 领域:游戏/实时3D · 生成式图像
+`图像生成` `推理引擎` · 领域:内容生成
 
 ## 证据(README 行号)
 
