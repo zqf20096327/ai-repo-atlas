@@ -32,7 +32,7 @@ Andrew White 编写的 Deep Learning for Molecules and Materials 在线书籍（
 
 ## 场景标签
 
- · 领域:科学教育/知识内容
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

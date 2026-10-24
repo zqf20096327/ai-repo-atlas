@@ -1,1 +1,75 @@
-{"fn": "windreamer/flash-attention3-wheels", "sha": "eabcebe291b4", "source": "readme", "identity": {"one_liner": "Flash Attention 3 预编译 wheel 下载源，免去本地编译", "review": "为 Dao-AILab flash-attention 3 提供预构建 Python wheel 与 GitHub Pages 索引：覆盖 Linux、Windows 及 Arm CUDA SBSA 平台（如 GH200），按 CUDA 12.8/13.0/13.2 与 PyTorch 版本组合分发。用户通过 pip --find-links 选择匹配索引直接安装，无需本地编译。构建脚本从上游仓库克隆源码，每两周（第 2、4 个周日）及按需手动触发更新，release 以构建日期标记。Windows 兼容性修复已提交上游 PR #2047。", "highlights": ["覆盖 Windows、Linux 与 Arm CUDA SBSA（GH200）平台的预编译 wheel", "按 CUDA 12.8/13.0/13.2 与 PyTorch 版本组合提供索引", "双周定期构建并支持手动触发，release 以构建日期标记", "Windows 兼容性修复已提交上游 PR #2047"], "use_cases": ["免去 Flash Attention 3 源码编译，直接 pip 安装", "在 Windows 或 GH200 等 Arm 平台上使用 Flash Attention 3", "按 CUDA/PyTorch 版本组合快速匹配可用 wheel"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["预编译wheel分发", "Flash Attention", "CUDA", "LLM基础设施", "构建工具"], "domain": "AI 基础设施/软件分发", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: **Pre-built wheels that erase Flash Attention 3 installation headaches — now with Windows & Arm support! 🎉**", "L31:   --find-links https://windreamer.github.io/flash-attention3-wheels/cu128_torch280"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "windreamer/flash-attention3-wheels",
+ "sha": "eabcebe291b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Flash Attention 3 预编译 wheel 下载源，免去本地编译",
+  "review": "为 Dao-AILab flash-attention 3 提供预构建 Python wheel 与 GitHub Pages 索引：覆盖 Linux、Windows 及 Arm CUDA SBSA 平台（如 GH200），按 CUDA 12.8/13.0/13.2 与 PyTorch 版本组合分发。用户通过 pip --find-links 选择匹配索引直接安装，无需本地编译。构建脚本从上游仓库克隆源码，每两周（第 2、4 个周日）及按需手动触发更新，release 以构建日期标记。Windows 兼容性修复已提交上游 PR #2047。",
+  "highlights": [
+   "覆盖 Windows、Linux 与 Arm CUDA SBSA（GH200）平台的预编译 wheel",
+   "按 CUDA 12.8/13.0/13.2 与 PyTorch 版本组合提供索引",
+   "双周定期构建并支持手动触发，release 以构建日期标记",
+   "Windows 兼容性修复已提交上游 PR #2047"
+  ],
+  "use_cases": [
+   "免去 Flash Attention 3 源码编译，直接 pip 安装",
+   "在 Windows 或 GH200 等 Arm 平台上使用 Flash Attention 3",
+   "按 CUDA/PyTorch 版本组合快速匹配可用 wheel"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "预编译wheel分发",
+   "Flash Attention",
+   "CUDA",
+   "LLM基础设施",
+   "构建工具"
+  ],
+  "domain": "AI 基础设施/软件分发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Pre-built wheels that erase Flash Attention 3 installation headaches — now with Windows & Arm support! 🎉**",
+   "L31:   --find-links https://windreamer.github.io/flash-attention3-wheels/cu128_torch280"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

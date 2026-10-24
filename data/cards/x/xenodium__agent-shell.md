@@ -33,7 +33,7 @@ Emacs Lisp 包，通过 ACP（Agent Client Protocol）将 Claude Agent、Codex�
 
 ## 场景标签
 
- · 领域:开发者工具/AI agent 客户端
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

@@ -30,7 +30,7 @@ Weaviate 官方维护的 JavaScript/TypeScript 客户端库，用于在 JS/TS �
 
 ## 场景标签
 
- · 领域:向量数据库/开发工具
+`向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 

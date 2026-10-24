@@ -1,1 +1,91 @@
-{"fn": "xiaotonng/pikiloom", "sha": "e151e235de83", "source": "readme", "identity": {"one_liner": "开源多 Agent 编排器：从 IM/Web/CLI 并行驱动多个 AI Agent", "review": "面向创作者与开发者的 Agent 编排运行时：内置 Claude Code、Codex、Gemini、Hermes 等 Agent 驱动，通过统一 AgentDriver 契约接入 CLI/ACP Agent；模型路由支持 Claude/GPT/Gemini、DeepSeek/豆包/Qwen 等国产模型、OpenRouter 及本地 Ollama/mlx-lm。入口层覆盖 Telegram、飞书、微信、Slack、Discord 等七个 IM 通道与 Web Dashboard/CLI，可在多面板并行运行 N 个 Agent 会话并中途切换 Agent。工具层合并 Skills、MCP 服务器与 CLI 工具注入会话。要求 Node 20+ 且至少安装一个官方 Agent CLI；提供 npx 启动与 Docker 镜像。", "highlights": ["内置 Claude Code/Codex/Gemini/Hermes 四种 Agent 驱动，支持 ACP 协议接入", "N 个 Agent 会话并行运行，可中途切换 Agent 且上下文延续", "模型路由支持国产模型、OpenRouter 与本地 Ollama/mlx-lm", "七个原生 IM 通道与 Web Dashboard、CLI 均为一等入口"], "use_cases": ["从手机 Telegram 上监控并接管本地运行的编码任务", "在多面板中同时让不同 Agent 分别写码、测试与审查", "将一个团队群变成共享的 Agent 编排工作台"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Agent编排", "多Agent并行", "IM机器人", "模型路由", "开发工具"], "domain": "AI Agent 编排/开发工具", "alternative_to": [], "competitors_mentioned": ["Cursor", "Windsurf"], "ecosystem_compat": ["anthropic", "deepseek", "openrouter", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本（L21）", "支持飞书/微信/钉钉/企业微信等国内 IM 通道（L41,176）", "模型路由含豆包/MiMo/Qwen/DeepSeek 等国产模型（L43）"]}, "trust": {"confidence": "high", "evidence": ["L7: *Plug in any agent (Claude · Codex · Gemini · Hermes · …), any model (Claude · GPT · Gemini · DeepSeek · Doubao · MiMo ·", "L42: - **Pluggable Agents** — Claude Code, Codex, Gemini, and Hermes ship as built-in drivers. Hermes speaks ACP (Agent Clien", "L43: - **Model Routing** — Frontier (Claude · GPT · Gemini), Chinese domestic (DeepSeek · Doubao · MiMo · MiniMax · Qwen), lo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xiaotonng/pikiloom",
+ "sha": "e151e235de83",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源多 Agent 编排器：从 IM/Web/CLI 并行驱动多个 AI Agent",
+  "review": "面向创作者与开发者的 Agent 编排运行时：内置 Claude Code、Codex、Gemini、Hermes 等 Agent 驱动，通过统一 AgentDriver 契约接入 CLI/ACP Agent；模型路由支持 Claude/GPT/Gemini、DeepSeek/豆包/Qwen 等国产模型、OpenRouter 及本地 Ollama/mlx-lm。入口层覆盖 Telegram、飞书、微信、Slack、Discord 等七个 IM 通道与 Web Dashboard/CLI，可在多面板并行运行 N 个 Agent 会话并中途切换 Agent。工具层合并 Skills、MCP 服务器与 CLI 工具注入会话。要求 Node 20+ 且至少安装一个官方 Agent CLI；提供 npx 启动与 Docker 镜像。",
+  "highlights": [
+   "内置 Claude Code/Codex/Gemini/Hermes 四种 Agent 驱动，支持 ACP 协议接入",
+   "N 个 Agent 会话并行运行，可中途切换 Agent 且上下文延续",
+   "模型路由支持国产模型、OpenRouter 与本地 Ollama/mlx-lm",
+   "七个原生 IM 通道与 Web Dashboard、CLI 均为一等入口"
+  ],
+  "use_cases": [
+   "从手机 Telegram 上监控并接管本地运行的编码任务",
+   "在多面板中同时让不同 Agent 分别写码、测试与审查",
+   "将一个团队群变成共享的 Agent 编排工作台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent编排",
+   "多Agent并行",
+   "IM机器人",
+   "模型路由",
+   "开发工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Cursor",
+   "Windsurf"
+  ],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本（L21）",
+   "支持飞书/微信/钉钉/企业微信等国内 IM 通道（L41,176）",
+   "模型路由含豆包/MiMo/Qwen/DeepSeek 等国产模型（L43）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: *Plug in any agent (Claude · Codex · Gemini · Hermes · …), any model (Claude · GPT · Gemini · DeepSeek · Doubao · MiMo ·",
+   "L42: - **Pluggable Agents** — Claude Code, Codex, Gemini, and Hermes ship as built-in drivers. Hermes speaks ACP (Agent Clien",
+   "L43: - **Model Routing** — Frontier (Claude · GPT · Gemini), Chinese domestic (DeepSeek · Doubao · MiMo · MiniMax · Qwen), lo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

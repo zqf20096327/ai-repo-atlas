@@ -34,7 +34,7 @@ mancode 是套在 Claude Code、Cursor、Codex、GitHub Copilot、Kimi Code 等�
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编码代理工作流
+`多智能体` `工作流自动化` `代码审查` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,76 @@
-{"fn": "voxel51/papers-with-data", "sha": "da83f16927f7", "source": "readme", "identity": {"one_liner": "随论文发布数据集的策展清单（NeurIPS/CVPR 等）", "review": "Voxel51 维护的论文策展清单：从 NeurIPS 2023（2384 篇）、CVPR 2023（2359 篇）等会议接收论文中筛选随工作发布数据集的论文，并延伸覆盖 WACV 2024、ICCV 2023、2022 年论文与经典数据集。条目以表格列出标题、标签、论文链接（arXiv）、数据集（FiftyOne 格式）与代码链接，接受社区通过 issue/PR 补充。", "highlights": ["筛选 NeurIPS 2023 2384 篇、CVPR 2023 2359 篇中发布数据集的论文", "按会议/年份分节：WACV 2024、ICCV 2023、2022、经典数据集", "条目含标签、arXiv 链接、FiftyOne 数据集链接与代码链接"], "use_cases": ["为机器学习项目查找高质量公开数据集", "了解顶会中发布数据集的论文", "按标签定位特定领域（医疗影像、遥感、跟踪等）的数据集"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["论文清单", "数据集", "计算机视觉", "机器学习", "策展"], "domain": "机器学习/数据集策展", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L22: We've combed through the **2384** papers accepted to NeurIPS in 2023 and compiled", "L25: |**Title**|**Tags**|**Paper**|**Dataset**|**Code**|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "voxel51/papers-with-data",
+ "sha": "da83f16927f7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "随论文发布数据集的策展清单（NeurIPS/CVPR 等）",
+  "review": "Voxel51 维护的论文策展清单：从 NeurIPS 2023（2384 篇）、CVPR 2023（2359 篇）等会议接收论文中筛选随工作发布数据集的论文，并延伸覆盖 WACV 2024、ICCV 2023、2022 年论文与经典数据集。条目以表格列出标题、标签、论文链接（arXiv）、数据集（FiftyOne 格式）与代码链接，接受社区通过 issue/PR 补充。",
+  "highlights": [
+   "筛选 NeurIPS 2023 2384 篇、CVPR 2023 2359 篇中发布数据集的论文",
+   "按会议/年份分节：WACV 2024、ICCV 2023、2022、经典数据集",
+   "条目含标签、arXiv 链接、FiftyOne 数据集链接与代码链接"
+  ],
+  "use_cases": [
+   "为机器学习项目查找高质量公开数据集",
+   "了解顶会中发布数据集的论文",
+   "按标签定位特定领域（医疗影像、遥感、跟踪等）的数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "数据集",
+   "计算机视觉",
+   "机器学习",
+   "策展"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: We've combed through the **2384** papers accepted to NeurIPS in 2023 and compiled",
+   "L25: |**Title**|**Tags**|**Paper**|**Dataset**|**Code**|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

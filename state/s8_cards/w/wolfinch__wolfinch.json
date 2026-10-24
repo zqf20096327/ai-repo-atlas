@@ -1,1 +1,76 @@
-{"fn": "wolfinch/wolfinch", "sha": "c204f52ffcca", "source": "readme", "identity": {"one_liner": "Python 算法交易机器人：支持股票与加密货币交易所", "review": "用 Python 实现的交易机器人，面向算法交易用户，支持股票市场与多家加密货币交易所（Coinbase Pro、Binance、Robinhood 等）。采用模块化设计，可插拔扩展策略、指标与交易所。功能包括自动/手动交易、回测、纸面交易模拟、遗传优化器调参，以及可选的机器学习模式（训练与使用 ML 决策引擎）。多交易所多交易对可并行，支持跨所跨对交易信号。可本地或 VPS 以原生 Python 进程运行，也可用 Docker 容器运行，自带 UI（默认端口 8080）。项目声明仅供研究与教育用途。", "highlights": ["可插拔的策略、指标与交易所架构", "回测、纸面交易与遗传优化器调参", "机器学习模式：训练并使用 ML 决策引擎", "多交易所/多交易对并行与跨所跨对交易"], "use_cases": ["在加密货币或股票交易所运行自动算法交易", "用历史数据回测和遗传优化器调参交易策略", "通过纸面交易模式在不投入资金的情况下验证策略"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["量化交易", "加密货币", "算法交易", "回测"], "domain": "金融/量化交易", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L46: * Machine Learning mode - supports training and using trained models and ML decision engines", "L5: Wolfinch is a trading bot implemented in Python. It supports algorithmic trading for equity market and cryptocurrency ex"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wolfinch/wolfinch",
+ "sha": "c204f52ffcca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 算法交易机器人：支持股票与加密货币交易所",
+  "review": "用 Python 实现的交易机器人，面向算法交易用户，支持股票市场与多家加密货币交易所（Coinbase Pro、Binance、Robinhood 等）。采用模块化设计，可插拔扩展策略、指标与交易所。功能包括自动/手动交易、回测、纸面交易模拟、遗传优化器调参，以及可选的机器学习模式（训练与使用 ML 决策引擎）。多交易所多交易对可并行，支持跨所跨对交易信号。可本地或 VPS 以原生 Python 进程运行，也可用 Docker 容器运行，自带 UI（默认端口 8080）。项目声明仅供研究与教育用途。",
+  "highlights": [
+   "可插拔的策略、指标与交易所架构",
+   "回测、纸面交易与遗传优化器调参",
+   "机器学习模式：训练并使用 ML 决策引擎",
+   "多交易所/多交易对并行与跨所跨对交易"
+  ],
+  "use_cases": [
+   "在加密货币或股票交易所运行自动算法交易",
+   "用历史数据回测和遗传优化器调参交易策略",
+   "通过纸面交易模式在不投入资金的情况下验证策略"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化交易",
+   "加密货币",
+   "算法交易",
+   "回测"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L46: * Machine Learning mode - supports training and using trained models and ML decision engines",
+   "L5: Wolfinch is a trading bot implemented in Python. It supports algorithmic trading for equity market and cryptocurrency ex"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

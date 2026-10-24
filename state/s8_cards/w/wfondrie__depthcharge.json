@@ -1,1 +1,76 @@
-{"fn": "wfondrie/depthcharge", "sha": "84597bbeafa7", "source": "readme", "identity": {"one_liner": "质谱数据深度学习工具包：PyTorch 组件快速搭建 Transformer 模型", "review": "面向质谱（及肽段、小分子等分析物）数据的深度学习工具包：以 PyTorch 模块形式提供可组装的构建块（如质谱解析为数据集、Transformer 编码器），供研究者快速搭建面向质谱任务的自定义模型。要求 Python 3.10-3.13，从 PyPI 以 pip install depthcharge-ms 安装。定位为灵活且有固定主张的框架，目的是避免各工具重复造轮子，配套文档供进一步学习。", "highlights": ["以 PyTorch 模块形式提供质谱深度学习构建块", "将质谱解析为 PyTorch 数据集并用 Transformer 编码", "面向肽段与小分子等质谱分析物的建模任务"], "use_cases": ["为质谱数据快速原型化自定义深度学习模型", "蛋白质组学/代谢组学研究中构建 Transformer 模型", "在现有 PyTorch 流程中加载和编码质谱数据"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["质谱", "深度学习框架", "蛋白质组学", "代谢组学", "PyTorch"], "domain": "计算质谱/蛋白质组学与代谢组学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Depthcharge is a deep learning toolkit for building Transformer models to analyze mass spectrometry data.", "L10: Depthcharge aims to provide a flexible, but opinionated, framework for rapidly prototyping deep learning models for mass"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wfondrie/depthcharge",
+ "sha": "84597bbeafa7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "质谱数据深度学习工具包：PyTorch 组件快速搭建 Transformer 模型",
+  "review": "面向质谱（及肽段、小分子等分析物）数据的深度学习工具包：以 PyTorch 模块形式提供可组装的构建块（如质谱解析为数据集、Transformer 编码器），供研究者快速搭建面向质谱任务的自定义模型。要求 Python 3.10-3.13，从 PyPI 以 pip install depthcharge-ms 安装。定位为灵活且有固定主张的框架，目的是避免各工具重复造轮子，配套文档供进一步学习。",
+  "highlights": [
+   "以 PyTorch 模块形式提供质谱深度学习构建块",
+   "将质谱解析为 PyTorch 数据集并用 Transformer 编码",
+   "面向肽段与小分子等质谱分析物的建模任务"
+  ],
+  "use_cases": [
+   "为质谱数据快速原型化自定义深度学习模型",
+   "蛋白质组学/代谢组学研究中构建 Transformer 模型",
+   "在现有 PyTorch 流程中加载和编码质谱数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "质谱",
+   "深度学习框架",
+   "蛋白质组学",
+   "代谢组学",
+   "PyTorch"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Depthcharge is a deep learning toolkit for building Transformer models to analyze mass spectrometry data.",
+   "L10: Depthcharge aims to provide a flexible, but opinionated, framework for rapidly prototyping deep learning models for mass"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

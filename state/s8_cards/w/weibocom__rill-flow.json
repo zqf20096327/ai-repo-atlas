@@ -1,1 +1,80 @@
-{"fn": "weibocom/rill-flow", "sha": "d9f69bae8312", "source": "readme", "identity": {"one_liner": "面向分布式工作负载与 LLM 的流程编排引擎", "review": "由微博团队开源的分布式工作流编排服务：以 DAG 方式编排与调度异构分布式系统任务，声称支持每天千万级任务执行、任务执行延迟低于 100ms；提供可视化流程编排界面与插件接入，支持云原生容器部署与云原生函数编排，并支持接入 LLM 模型服务。通过 git clone 源码后用 Docker-Compose 一键启动，默认部署 MySQL 等依赖服务，经 http://localhost 管理后台以 YAML 导入流程定义并提交执行。", "highlights": ["DAG 工作流编排与分布式任务调度", "可视化流程编排与插件式接入", "支持接入 LLM 模型服务", "Docker-Compose 一键部署，自带管理后台"], "use_cases": ["编排与调度分布式系统中的批量任务", "以可视化方式定义并执行 DAG 流程", "将 LLM 服务作为流程节点接入任务编排"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "sandbox（README L16 处 Live Demo 链接）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["工作流编排", "任务调度", "分布式系统", "LLM编排", "云原生"], "domain": "后端/工作流编排基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["维护方为微博（weibocom）", "README 提供中文文档链接"]}, "trust": {"confidence": "high", "evidence": ["L13: - AIGC: supports rapid integration of LLM model services", "L7: Rill Flow is a high-performance, scalable distributed workflow orchestration service with the following core features:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "weibocom/rill-flow",
+ "sha": "d9f69bae8312",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向分布式工作负载与 LLM 的流程编排引擎",
+  "review": "由微博团队开源的分布式工作流编排服务：以 DAG 方式编排与调度异构分布式系统任务，声称支持每天千万级任务执行、任务执行延迟低于 100ms；提供可视化流程编排界面与插件接入，支持云原生容器部署与云原生函数编排，并支持接入 LLM 模型服务。通过 git clone 源码后用 Docker-Compose 一键启动，默认部署 MySQL 等依赖服务，经 http://localhost 管理后台以 YAML 导入流程定义并提交执行。",
+  "highlights": [
+   "DAG 工作流编排与分布式任务调度",
+   "可视化流程编排与插件式接入",
+   "支持接入 LLM 模型服务",
+   "Docker-Compose 一键部署，自带管理后台"
+  ],
+  "use_cases": [
+   "编排与调度分布式系统中的批量任务",
+   "以可视化方式定义并执行 DAG 流程",
+   "将 LLM 服务作为流程节点接入任务编排"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "sandbox（README L16 处 Live Demo 链接）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作流编排",
+   "任务调度",
+   "分布式系统",
+   "LLM编排",
+   "云原生"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护方为微博（weibocom）",
+   "README 提供中文文档链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: - AIGC: supports rapid integration of LLM model services",
+   "L7: Rill Flow is a high-performance, scalable distributed workflow orchestration service with the following core features:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

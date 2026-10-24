@@ -1,1 +1,75 @@
-{"fn": "vstorm-co/awesome-pydantic-ai", "sha": "d29bf06f3d2b", "source": "readme", "identity": {"one_liner": "Pydantic AI 生态资源策展清单：框架、库、教程与案例", "review": "围绕 Python agent 框架 Pydantic AI 的 awesome 清单，收录官方资源、第三方框架与库（如 pai-agent-sdk、pydantic-deep、pydantic-ai-shields、pydantic-collab 等）、项目模板、示例教程、可观测性工具（Logfire、OrcaReplay）、文章与案例研究。条目按类别组织，每条附一句功能描述。面向使用 Pydantic AI 构建生产级生成式 AI 应用的开发者，用于发现扩展库与学习资源。内容采用 CC BY 4.0 许可。", "highlights": ["收录 20+ 个 Pydantic AI 扩展框架与库（编排、护栏、记忆、沙箱、审计等）", "包含官方文档/仓库与 Logfire 可观测性工具条目", "提供示例教程与文章条目（含 Ollama 本地模型示例、RealPython 教程）"], "use_cases": ["为 Pydantic AI 项目寻找多智能体编排、护栏或沙箱等扩展库", "学习 Pydantic AI 的类型安全 agent 开发模式", "了解 Pydantic AI 生态中的模板与可观测性方案"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "agent框架", "LLM", "Python生态"], "domain": "LLM/Agent 生态知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: > An opinionated list of awesome Pydantic AI frameworks, libraries, software and resources.", "L5: Pydantic AI is a Python agent framework designed to make it easier to build production-grade applications with Generativ"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vstorm-co/awesome-pydantic-ai",
+ "sha": "d29bf06f3d2b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Pydantic AI 生态资源策展清单：框架、库、教程与案例",
+  "review": "围绕 Python agent 框架 Pydantic AI 的 awesome 清单，收录官方资源、第三方框架与库（如 pai-agent-sdk、pydantic-deep、pydantic-ai-shields、pydantic-collab 等）、项目模板、示例教程、可观测性工具（Logfire、OrcaReplay）、文章与案例研究。条目按类别组织，每条附一句功能描述。面向使用 Pydantic AI 构建生产级生成式 AI 应用的开发者，用于发现扩展库与学习资源。内容采用 CC BY 4.0 许可。",
+  "highlights": [
+   "收录 20+ 个 Pydantic AI 扩展框架与库（编排、护栏、记忆、沙箱、审计等）",
+   "包含官方文档/仓库与 Logfire 可观测性工具条目",
+   "提供示例教程与文章条目（含 Ollama 本地模型示例、RealPython 教程）"
+  ],
+  "use_cases": [
+   "为 Pydantic AI 项目寻找多智能体编排、护栏或沙箱等扩展库",
+   "学习 Pydantic AI 的类型安全 agent 开发模式",
+   "了解 Pydantic AI 生态中的模板与可观测性方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "agent框架",
+   "LLM",
+   "Python生态"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > An opinionated list of awesome Pydantic AI frameworks, libraries, software and resources.",
+   "L5: Pydantic AI is a Python agent framework designed to make it easier to build production-grade applications with Generativ"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

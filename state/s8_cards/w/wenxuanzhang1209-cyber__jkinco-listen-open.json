@@ -1,1 +1,89 @@
-{"fn": "wenxuanzhang1209-cyber/jkinco-listen-open", "sha": "b30e5f2ae807", "source": "readme", "identity": {"one_liner": "全本地运行的 AI 会议纪要工作台：录音转写到 DOCX/PDF 导出", "review": "本地优先的会议纪要应用：FastAPI 后端 + React 前端，流程为录音→FunASR paraformer-zh 中文转写→场景识别→结构化纪要→DOCX/PDF 导出，全程无 API key、无云端调用。LLM 部分通过 Ollama 或任意 OpenAI 兼容端点运行本地模型（默认 qwen2.5:7b-instruct），场景识别采用规则门控优先、模型在后的机制，共五种会议类型。面向不能上传录音的受监管行业（工程例会、面试、客户拜访）。docker compose 一键部署，首次启动自动下载 ASR 模型（约 1-2 GB）；16 GB 内存推荐，CPU 可运行。限制：ASR 与领域词表面向中文会议调优；实时字幕为实验性且默认关闭。", "highlights": ["FunASR paraformer-zh 本地中文转写（VAD、标点恢复、领域词纠错）", "证据门控的场景识别：五种会议类型，规则门优先于模型", "DOCX/PDF 导出保留企业原始模板版式，六种模板", "本地知识库：跨历史会议全文检索与问答，数据存于本地 SQLite"], "use_cases": ["不能上传录音的行业在本地完成会议纪要整理", "工程例会、面试、客户拜访等场景自动套用对应纪要模板", "会前零配置试用：Demo 模式免模型体验导出与检索"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": "cpu-ok", "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [307, 308], "note": "实时字幕功能自述为实验性、默认关闭"}}, "links": {"scenario_tags": ["会议纪要", "语音转写", "本地优先", "中文ASR", "隐私合规"], "domain": "办公效率/语音处理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "领域词表与基准面向中文会议（工程/HR/商务词汇）", "可选钉钉机器人推送"]}, "trust": {"confidence": "mid", "evidence": ["L5: **A local-first AI workbench that turns meeting recordings into finished minutes.**", "L7: Recording → transcript → scene detection → structured minutes → DOCX/PDF, running **entirely on your own machine**.", "L31: - **Local speech recognition** — Chinese meeting-grade ASR with voice-activity detection,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wenxuanzhang1209-cyber/jkinco-listen-open",
+ "sha": "b30e5f2ae807",
+ "source": "readme",
+ "identity": {
+  "one_liner": "全本地运行的 AI 会议纪要工作台：录音转写到 DOCX/PDF 导出",
+  "review": "本地优先的会议纪要应用：FastAPI 后端 + React 前端，流程为录音→FunASR paraformer-zh 中文转写→场景识别→结构化纪要→DOCX/PDF 导出，全程无 API key、无云端调用。LLM 部分通过 Ollama 或任意 OpenAI 兼容端点运行本地模型（默认 qwen2.5:7b-instruct），场景识别采用规则门控优先、模型在后的机制，共五种会议类型。面向不能上传录音的受监管行业（工程例会、面试、客户拜访）。docker compose 一键部署，首次启动自动下载 ASR 模型（约 1-2 GB）；16 GB 内存推荐，CPU 可运行。限制：ASR 与领域词表面向中文会议调优；实时字幕为实验性且默认关闭。",
+  "highlights": [
+   "FunASR paraformer-zh 本地中文转写（VAD、标点恢复、领域词纠错）",
+   "证据门控的场景识别：五种会议类型，规则门优先于模型",
+   "DOCX/PDF 导出保留企业原始模板版式，六种模板",
+   "本地知识库：跨历史会议全文检索与问答，数据存于本地 SQLite"
+  ],
+  "use_cases": [
+   "不能上传录音的行业在本地完成会议纪要整理",
+   "工程例会、面试、客户拜访等场景自动套用对应纪要模板",
+   "会前零配置试用：Demo 模式免模型体验导出与检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    307,
+    308
+   ],
+   "note": "实时字幕功能自述为实验性、默认关闭"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "会议纪要",
+   "语音转写",
+   "本地优先",
+   "中文ASR",
+   "隐私合规"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "asr",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "领域词表与基准面向中文会议（工程/HR/商务词汇）",
+   "可选钉钉机器人推送"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **A local-first AI workbench that turns meeting recordings into finished minutes.**",
+   "L7: Recording → transcript → scene detection → structured minutes → DOCX/PDF, running **entirely on your own machine**.",
+   "L31: - **Local speech recognition** — Chinese meeting-grade ASR with voice-activity detection,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,78 @@
-{"fn": "xop01/ai_goodpractice", "sha": "4f46d9efb229", "source": "readme", "identity": {"one_liner": "手写 AI 编码工作流经验指南：教人用 agentic 方式开发", "review": "个人长期使用经验总结的 agentic coding 指南文档，面向初学者与有经验的开发者，主张让 AI 代写代码、用户转任管理者角色。内容分三步：环境搭建（IDE 选型、rules/skills/MCP 配置与提示词写法）、避免低质 AI 输出（自建规则与技能而非套用网上的）、以及作者自制的 project progress MCP（Zig 编写，用于记录项目进度路线图防 AI 漂移）。README 声明全文手工撰写。", "highlights": ["以 rules/skills/MCP 为核心的 agentic 工作流配置方法与提示词示例", "主张自建规则与技能以适配自身工作流", "介绍自制 project progress MCP：记录项目进度与路线图，防止 AI 开发漂移", "作者声明指南全文手工撰写、无 AI 参与"], "use_cases": ["从传统编码转向 agentic 编码工作流", "学习如何编写 rules、skills 与选用 MCP", "了解用文档和进度记录约束 AI 开发行为"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["指南/教程", "agentic coding", "提示词工程", "MCP"], "domain": "AI 开发实践/知识指南", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: To keep it short i have been using AI 8h+ per working day (without exaggerating) for a lot of months now, before i start", "L46: ## Step 1 (Setup)", "L109: On that note, i will share an MCP that i made (coded in Zig to be compilable on every OS, coded strictly with a full age"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xop01/ai_goodpractice",
+ "sha": "4f46d9efb229",
+ "source": "readme",
+ "identity": {
+  "one_liner": "手写 AI 编码工作流经验指南：教人用 agentic 方式开发",
+  "review": "个人长期使用经验总结的 agentic coding 指南文档，面向初学者与有经验的开发者，主张让 AI 代写代码、用户转任管理者角色。内容分三步：环境搭建（IDE 选型、rules/skills/MCP 配置与提示词写法）、避免低质 AI 输出（自建规则与技能而非套用网上的）、以及作者自制的 project progress MCP（Zig 编写，用于记录项目进度路线图防 AI 漂移）。README 声明全文手工撰写。",
+  "highlights": [
+   "以 rules/skills/MCP 为核心的 agentic 工作流配置方法与提示词示例",
+   "主张自建规则与技能以适配自身工作流",
+   "介绍自制 project progress MCP：记录项目进度与路线图，防止 AI 开发漂移",
+   "作者声明指南全文手工撰写、无 AI 参与"
+  ],
+  "use_cases": [
+   "从传统编码转向 agentic 编码工作流",
+   "学习如何编写 rules、skills 与选用 MCP",
+   "了解用文档和进度记录约束 AI 开发行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "指南/教程",
+   "agentic coding",
+   "提示词工程",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: To keep it short i have been using AI 8h+ per working day (without exaggerating) for a lot of months now, before i start",
+   "L46: ## Step 1 (Setup)",
+   "L109: On that note, i will share an MCP that i made (coded in Zig to be compilable on every OS, coded strictly with a full age"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

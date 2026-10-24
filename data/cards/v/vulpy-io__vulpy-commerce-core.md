@@ -33,7 +33,7 @@ Medusa v2 后端、Next.js 店面、Payload CMS 与自托管 Matomo 分析组成
 
 ## 场景标签
 
- · 领域:电商/全栈应用
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 

@@ -1,1 +1,83 @@
-{"fn": "xgwangdl/AI-Interview", "sha": "1c12be03773d", "source": "readme", "identity": {"one_liner": "AI 模拟面试训练系统：数字人面试官逐题提问、追问与评分", "review": "面向求职者的开源 AI 面试训练 Web 应用：输入岗位、JD 与简历后，由 AI 生成并自检题目，真人形象数字人面试官语音提问，浏览器逐题录制回答并转写，报告按相关性、完整度、STAR、语速等维度打分；支持回答 AI 改写、重录对比、错题本与每日训练计划。另含 Docker 隔离沙箱笔试（五种题型、五语言判题）与 AI 简历生成优化。技术栈为 Java 21 + Spring AI Alibaba + Vue 3 + PostgreSQL/pgvector + Redis。口型为音量驱动而非音素同步。", "highlights": ["AI 按岗位/JD/简历生成题目并先用沙箱自检参考解", "数字人面试官提问、追问、逐题录制与多维度评分报告", "一次性 Docker 容器判题：禁网、只读、限 CPU/内存/进程/时间", "错题本、每日 3 题计划、周报与回答改写重录对比"], "use_cases": ["准备校招/社招/转岗的技术面试，练习开口回答", "进行限时禁网的编程/SQL 笔试训练", "复盘录像定位低分回答并对照改写重练", "按 JD 优化简历并导出 Markdown/Word/PDF"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["模拟面试", "AI Agent 应用", "数字人", "代码判题沙箱", "求职准备"], "domain": "AI 求职训练应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "基于阿里云百炼 API Key 与 Spring AI Alibaba"]}, "trust": {"confidence": "high", "evidence": ["L7: Light-Interview 是一个开源 AI 面试训练系统：输入目标岗位、JD 和简历，完成一次可录制、可回放、可评分、可重练的模拟面试。", "L67: - AI 根据目标岗位、JD 和简历生成题目，支持技术面、行为面、不同难度与面试官风格。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xgwangdl/AI-Interview",
+ "sha": "1c12be03773d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 模拟面试训练系统：数字人面试官逐题提问、追问与评分",
+  "review": "面向求职者的开源 AI 面试训练 Web 应用：输入岗位、JD 与简历后，由 AI 生成并自检题目，真人形象数字人面试官语音提问，浏览器逐题录制回答并转写，报告按相关性、完整度、STAR、语速等维度打分；支持回答 AI 改写、重录对比、错题本与每日训练计划。另含 Docker 隔离沙箱笔试（五种题型、五语言判题）与 AI 简历生成优化。技术栈为 Java 21 + Spring AI Alibaba + Vue 3 + PostgreSQL/pgvector + Redis。口型为音量驱动而非音素同步。",
+  "highlights": [
+   "AI 按岗位/JD/简历生成题目并先用沙箱自检参考解",
+   "数字人面试官提问、追问、逐题录制与多维度评分报告",
+   "一次性 Docker 容器判题：禁网、只读、限 CPU/内存/进程/时间",
+   "错题本、每日 3 题计划、周报与回答改写重录对比"
+  ],
+  "use_cases": [
+   "准备校招/社招/转岗的技术面试，练习开口回答",
+   "进行限时禁网的编程/SQL 笔试训练",
+   "复盘录像定位低分回答并对照改写重练",
+   "按 JD 优化简历并导出 Markdown/Word/PDF"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模拟面试",
+   "AI Agent 应用",
+   "数字人",
+   "代码判题沙箱",
+   "求职准备"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts",
+   "asr",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "基于阿里云百炼 API Key 与 Spring AI Alibaba"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Light-Interview 是一个开源 AI 面试训练系统：输入目标岗位、JD 和简历，完成一次可录制、可回放、可评分、可重练的模拟面试。",
+   "L67: - AI 根据目标岗位、JD 和简历生成题目，支持技术面、行为面、不同难度与面试官风格。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,74 @@
-{"fn": "xaviviro/python-toon", "sha": "505dbff88f04", "source": "readme", "identity": {"one_liner": "TOON 格式的 Python 编解码库，降低 LLM 传输 token 量", "review": "TOON（Token-Oriented Object Notation）的非官方 Python 实现，提供 encode/decode API 与命令行工具，在 JSON 与 TOON 间转换。格式用缩进表示嵌套、CSV 式表格表示同构数据行，在均匀数据上比 JSON 减少 30-60% token。解码默认严格校验（计数、语法、缩进、结构），纯 Python 无依赖，支持 3.8+，通过官方规范 4.1 的语言无关测试套件。README 提示 token 节省随分词器与数据形态波动，深层嵌套非均匀数据可能不省甚至更费。", "highlights": ["encode/decode 双向转换，解码默认严格校验", "官方规范 toon-spec 4.1 全量 fixture 测试通过", "纯 Python、零依赖、支持 Python 3.8+", "提供 JSON↔TOON 命令行转换工具"], "use_cases": ["把结构化数据编码成 TOON 喂给 LLM 以降低 token 成本", "要求模型以 TOON 格式输出并用严格模式解码校验", "在 JSON 管道中引入更紧凑的中间表示"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据序列化", "token优化", "LLM上下文工程", "Python库"], "domain": "数据格式/LLM 工具链", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: A compact data format optimized for transmitting structured information to Large Language Models (LLMs) with 30-60% fewe", "L266: ## LLM Integration Best Practices"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xaviviro/python-toon",
+ "sha": "505dbff88f04",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TOON 格式的 Python 编解码库，降低 LLM 传输 token 量",
+  "review": "TOON（Token-Oriented Object Notation）的非官方 Python 实现，提供 encode/decode API 与命令行工具，在 JSON 与 TOON 间转换。格式用缩进表示嵌套、CSV 式表格表示同构数据行，在均匀数据上比 JSON 减少 30-60% token。解码默认严格校验（计数、语法、缩进、结构），纯 Python 无依赖，支持 3.8+，通过官方规范 4.1 的语言无关测试套件。README 提示 token 节省随分词器与数据形态波动，深层嵌套非均匀数据可能不省甚至更费。",
+  "highlights": [
+   "encode/decode 双向转换，解码默认严格校验",
+   "官方规范 toon-spec 4.1 全量 fixture 测试通过",
+   "纯 Python、零依赖、支持 Python 3.8+",
+   "提供 JSON↔TOON 命令行转换工具"
+  ],
+  "use_cases": [
+   "把结构化数据编码成 TOON 喂给 LLM 以降低 token 成本",
+   "要求模型以 TOON 格式输出并用严格模式解码校验",
+   "在 JSON 管道中引入更紧凑的中间表示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据序列化",
+   "token优化",
+   "LLM上下文工程",
+   "Python库"
+  ],
+  "domain": "数据格式/LLM 工具链",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A compact data format optimized for transmitting structured information to Large Language Models (LLMs) with 30-60% fewe",
+   "L266: ## LLM Integration Best Practices"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

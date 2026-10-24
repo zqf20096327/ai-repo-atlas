@@ -1,1 +1,81 @@
-{"fn": "xiaoranlingfeng/ppt-master-zit", "sha": "e5792e9e5ab1", "source": "readme", "identity": {"one_liner": "ppt-master 的本机分支：AI 配图改走本地 ComfyUI 生成可编辑 PPTX", "review": "基于官方 ppt-master v6.7.0（MIT, Hugo He）的个人定制分支，整套可编辑 PPTX 生成工作流与上游一致，差异是图片后端新增本地 comfyui 并默认启用：通过 ComfyUI HTTP API 运行 Qwen-Image-2.1 文生图工作流（默认），可选 MOSS-Image SFT 与 Z-Image Turbo，无需 API key、提示词不出本机。保留上游云端后端；新增逐页访谈门禁 D0–D9、导出后逐页校验门禁、图片清单断点续跑等。以 agent 技能目录形式安装，需自备 ComfyUI 与本地 GPU；Qwen/MOSS 权重为非商业许可，不可商用。", "highlights": ["本地 ComfyUI 图片后端，COMFY_MODEL=qwen|moss|zit 三档可切", "Qwen-Image-2.1 默认工作流，原生 RGBA 透明图输出", "ComfyUI 未启动时后端自动拉起整合包并打开 Web UI", "每 deck 一次的模型选择访谈门禁（D5）与导出后逐页校验"], "use_cases": ["在无 API key、要求提示词不出本机的环境下生成带 AI 配图的 PPT", "用本地 GPU 按 deck 切换不同文生图模型做幻灯片配图", "只想改一条提示词重渲染单张配图而不重跑整套 deck"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["PPT 生成", "ComfyUI", "本地 AI", "文生图", "agent 技能"], "domain": "办公文档/演示生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "旧工作流名「zit基础」", "提示词无文字条款含中文版文案"]}, "trust": {"confidence": "high", "evidence": ["L11: **PPT Master + local ComfyUI image backend.** This is a personal-machine fork of ppt-master (v6.7.0, MIT, Copyright © 20", "L26: - `templates/comfyui/qwen_image_2_1_t2i_api.json` — API-format export of the `image_qwen_image_2_1_t2i` workflow (Qwen-I"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xiaoranlingfeng/ppt-master-zit",
+ "sha": "e5792e9e5ab1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ppt-master 的本机分支：AI 配图改走本地 ComfyUI 生成可编辑 PPTX",
+  "review": "基于官方 ppt-master v6.7.0（MIT, Hugo He）的个人定制分支，整套可编辑 PPTX 生成工作流与上游一致，差异是图片后端新增本地 comfyui 并默认启用：通过 ComfyUI HTTP API 运行 Qwen-Image-2.1 文生图工作流（默认），可选 MOSS-Image SFT 与 Z-Image Turbo，无需 API key、提示词不出本机。保留上游云端后端；新增逐页访谈门禁 D0–D9、导出后逐页校验门禁、图片清单断点续跑等。以 agent 技能目录形式安装，需自备 ComfyUI 与本地 GPU；Qwen/MOSS 权重为非商业许可，不可商用。",
+  "highlights": [
+   "本地 ComfyUI 图片后端，COMFY_MODEL=qwen|moss|zit 三档可切",
+   "Qwen-Image-2.1 默认工作流，原生 RGBA 透明图输出",
+   "ComfyUI 未启动时后端自动拉起整合包并打开 Web UI",
+   "每 deck 一次的模型选择访谈门禁（D5）与导出后逐页校验"
+  ],
+  "use_cases": [
+   "在无 API key、要求提示词不出本机的环境下生成带 AI 配图的 PPT",
+   "用本地 GPU 按 deck 切换不同文生图模型做幻灯片配图",
+   "只想改一条提示词重渲染单张配图而不重跑整套 deck"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "PPT 生成",
+   "ComfyUI",
+   "本地 AI",
+   "文生图",
+   "agent 技能"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "旧工作流名「zit基础」",
+   "提示词无文字条款含中文版文案"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **PPT Master + local ComfyUI image backend.** This is a personal-machine fork of ppt-master (v6.7.0, MIT, Copyright © 20",
+   "L26: - `templates/comfyui/qwen_image_2_1_t2i_api.json` — API-format export of the `image_qwen_image_2_1_t2i` workflow (Qwen-I"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

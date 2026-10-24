@@ -1,1 +1,81 @@
-{"fn": "xllm-go/bypass", "sha": "de492911e3cb", "source": "readme", "identity": {"one_liner": "将多款 AI 聊天逆向接口适配为 OpenAI 标准接口的服务端", "review": "用 Go 编写、自部署的 API 适配服务端：把 coze 国际版、new bing copilot、cursor、windsurf、qodo、deepseek、LMSYS Chatbot Arena、you、grok、huggingface 绘图等多款 AI 的聊天逆向接口统一转换为 OpenAI v1 兼容接口，支持高速流式输出与多轮对话，供已有 OpenAI 客户端调用。通过 go install/make 构建运行，或用 Docker 镜像与 systemctl 启动。README 声明仅用于测试和学习研究、禁止商业用途，并要求下载后 24 小时内删除。", "highlights": ["十余款 AI 聊天接口统一转为 OpenAI v1 兼容格式", "支持高速流式输出与多轮对话", "提供 Docker 镜像（ghcr.io）与 systemctl 自启动配置"], "use_cases": ["让仅支持 OpenAI API 的客户端调用其他 AI 服务", "在本机或 VPS 统一代理多家 AI 聊天接口"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["API适配/网关", "逆向接口", "OpenAI兼容", "自部署服务"], "domain": "LLM 基础设施/API 网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "xai"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "字节 coze 中文表述"]}, "trust": {"confidence": "high", "evidence": ["L3: 该服务集成了openai-api、coze、deepseek、cursor、windsurf、blackbox、you、grok、bing 绘画 多款AI的聊天逆向接口适配到 OpenAI API 标准接口服务端。", "L9: 支持高速流式输出、支持多轮对话，与ChatGPT接口完全兼容。", "L11: 使用本项目，可享用以下内容转v1接口："], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xllm-go/bypass",
+ "sha": "de492911e3cb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将多款 AI 聊天逆向接口适配为 OpenAI 标准接口的服务端",
+  "review": "用 Go 编写、自部署的 API 适配服务端：把 coze 国际版、new bing copilot、cursor、windsurf、qodo、deepseek、LMSYS Chatbot Arena、you、grok、huggingface 绘图等多款 AI 的聊天逆向接口统一转换为 OpenAI v1 兼容接口，支持高速流式输出与多轮对话，供已有 OpenAI 客户端调用。通过 go install/make 构建运行，或用 Docker 镜像与 systemctl 启动。README 声明仅用于测试和学习研究、禁止商业用途，并要求下载后 24 小时内删除。",
+  "highlights": [
+   "十余款 AI 聊天接口统一转为 OpenAI v1 兼容格式",
+   "支持高速流式输出与多轮对话",
+   "提供 Docker 镜像（ghcr.io）与 systemctl 自启动配置"
+  ],
+  "use_cases": [
+   "让仅支持 OpenAI API 的客户端调用其他 AI 服务",
+   "在本机或 VPS 统一代理多家 AI 聊天接口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API适配/网关",
+   "逆向接口",
+   "OpenAI兼容",
+   "自部署服务"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "字节 coze 中文表述"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 该服务集成了openai-api、coze、deepseek、cursor、windsurf、blackbox、you、grok、bing 绘画 多款AI的聊天逆向接口适配到 OpenAI API 标准接口服务端。",
+   "L9: 支持高速流式输出、支持多轮对话，与ChatGPT接口完全兼容。",
+   "L11: 使用本项目，可享用以下内容转v1接口："
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

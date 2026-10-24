@@ -33,7 +33,7 @@ Claude Code marketplace 插件，通过 shell 调用真实 `grok` CLI，将 Grok
 
 ## 场景标签
 
- · 领域:开发工具/AI 代理集成
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

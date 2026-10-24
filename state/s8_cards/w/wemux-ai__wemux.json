@@ -1,1 +1,83 @@
-{"fn": "wemux-ai/wemux", "sha": "08d78459e5e7", "source": "readme", "identity": {"one_liner": "自托管 AI agent 协作平台：人在环中编排 agent 执行真实编码工作", "review": "Apache-2.0 开源的 agent 协作平台社区版：控制平面负责需求理解、任务规划、路由与审核，实际编码工作始终在用户自有 worker 机器上以隔离 Git worktree 执行，代码不离开本机。支持看板任务、工作区实时协作、群聊、飞书/Slack/钉钉/企微/微信/WhatsApp 渠道接入、多机组网与 Electron/移动端原生客户端。模型采用 BYOK，编排 OpenCode/Claude Code/Codex 运行时，推理发生在用户所选模型提供方。托管模型网关、计费等为独立商业服务，不在此仓库内。", "highlights": ["Worker 优先执行：代码在自有机器的隔离 Git worktree 中运行，控制平面不执行代码", "BYOK 模型配置，编排 OpenCode / Claude Code / Codex 运行时", "飞书/Slack/钉钉/企微/微信/WhatsApp 多渠道接入与多节点组网", "提供 Electron 桌面端与 React Native Android/iOS 客户端"], "use_cases": ["自建 agent 团队承担编码任务并保留人工 diff 审核环节", "通过 IM 渠道用自然语言创建并分发任务给 agent", "让代码在自有机器与凭证上执行，满足数据不出本机的要求"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent编排", "编码agent", "自托管", "人机协作", "多agent平台"], "domain": "AI agent 协作/DevOps 平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["提供中文 README（README.zh-CN.md）", "支持飞书/钉钉/企业微信/微信渠道"]}, "trust": {"confidence": "high", "evidence": ["L15: Wemux is an open-source agent collaboration platform. It orchestrates AI agents that execute real coding work on **worke", "L31: - **BYOK model config** — agents run on your own model keys via OpenCode/Claude Code/Codex runtimes on the worker."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wemux-ai/wemux",
+ "sha": "08d78459e5e7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI agent 协作平台：人在环中编排 agent 执行真实编码工作",
+  "review": "Apache-2.0 开源的 agent 协作平台社区版：控制平面负责需求理解、任务规划、路由与审核，实际编码工作始终在用户自有 worker 机器上以隔离 Git worktree 执行，代码不离开本机。支持看板任务、工作区实时协作、群聊、飞书/Slack/钉钉/企微/微信/WhatsApp 渠道接入、多机组网与 Electron/移动端原生客户端。模型采用 BYOK，编排 OpenCode/Claude Code/Codex 运行时，推理发生在用户所选模型提供方。托管模型网关、计费等为独立商业服务，不在此仓库内。",
+  "highlights": [
+   "Worker 优先执行：代码在自有机器的隔离 Git worktree 中运行，控制平面不执行代码",
+   "BYOK 模型配置，编排 OpenCode / Claude Code / Codex 运行时",
+   "飞书/Slack/钉钉/企微/微信/WhatsApp 多渠道接入与多节点组网",
+   "提供 Electron 桌面端与 React Native Android/iOS 客户端"
+  ],
+  "use_cases": [
+   "自建 agent 团队承担编码任务并保留人工 diff 审核环节",
+   "通过 IM 渠道用自然语言创建并分发任务给 agent",
+   "让代码在自有机器与凭证上执行，满足数据不出本机的要求"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "编码agent",
+   "自托管",
+   "人机协作",
+   "多agent平台"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文 README（README.zh-CN.md）",
+   "支持飞书/钉钉/企业微信/微信渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Wemux is an open-source agent collaboration platform. It orchestrates AI agents that execute real coding work on **worke",
+   "L31: - **BYOK model config** — agents run on your own model keys via OpenCode/Claude Code/Codex runtimes on the worker."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

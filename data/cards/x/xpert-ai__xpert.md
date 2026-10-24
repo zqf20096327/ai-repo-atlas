@@ -33,7 +33,7 @@ Xpert 是基于 NestJS 的插件式平台，提供 Agent + Workflow 运行时（
 
 ## 场景标签
 
- · 领域:LLM 基础设施/Agent 平台
+`Agent 框架` `多智能体` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

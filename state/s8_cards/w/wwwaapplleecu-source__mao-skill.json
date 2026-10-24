@@ -1,1 +1,79 @@
-{"fn": "wwwaapplleecu-source/mao-skill", "sha": "034b94a0c5ee", "source": "readme", "identity": {"one_liner": "面向 Claude Code/OpenClaw 的毛泽东方法论分析技能包", "review": "以整个仓库形式提供的 Agent Skill：安装到 OpenClaw 或 Claude Code 的技能目录后，通过 /mao 命令体系提供 6 种分析方法（矛盾分析、实践论、调查研究、战略思维、群众路线、综合分析）、四级渐进学习路径（15 分钟至 10 小时）与 674 个概念的概念查询库。方法论基于《实践论》《矛盾论》《论持久战》《毛泽东选集》等原著构建，需 Python 3.8+ 并安装 requirements.txt 依赖；其他 Agent 平台需自行适配。README 声明保持学术中立，不讨论敏感历史事件。", "highlights": ["6 种分析方法自动推荐与指定调用（/mao analyze）", "四级渐进学习路径：入门/基础/进阶/专业", "674 个毛泽东核心概念库，支持查询与搜索", "原生支持 OpenClaw，兼容 Claude Code"], "use_cases": ["在 Claude Code/OpenClaw 中用 /mao 命令对问题做矛盾分析或战略分析", "按渐进路径学习毛泽东方法论体系", "查询矛盾、群众路线等概念的解释与应用示例"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Agent技能", "Claude Code", "方法论分析", "概念知识库", "中文内容"], "domain": "AI 技能/方法论知识工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文主 README", "以中文原著（《毛泽东选集》等）为内容来源"]}, "trust": {"confidence": "mid", "evidence": ["L27: |**中文**|毛泽东方法论AI助手 - 基于六层认知架构的智能分析系统，提供矛盾分析、实践指导、调查研究等6种核心方法，支持674个概念查询和四级渐进学习。|📦 安装 • 🚀 使用 • 📚 学习|", "L54: |**渐进学习**|四级渐进学习路径：入门(15分钟)→基础(1小时)→进阶(3小时)→专业(10小时)|`/mao learn --path=入门`|", "L55: |**概念查询**|674个毛泽东核心概念库，支持概念查询和关系探索|`/mao concepts 矛盾`|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wwwaapplleecu-source/mao-skill",
+ "sha": "034b94a0c5ee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Claude Code/OpenClaw 的毛泽东方法论分析技能包",
+  "review": "以整个仓库形式提供的 Agent Skill：安装到 OpenClaw 或 Claude Code 的技能目录后，通过 /mao 命令体系提供 6 种分析方法（矛盾分析、实践论、调查研究、战略思维、群众路线、综合分析）、四级渐进学习路径（15 分钟至 10 小时）与 674 个概念的概念查询库。方法论基于《实践论》《矛盾论》《论持久战》《毛泽东选集》等原著构建，需 Python 3.8+ 并安装 requirements.txt 依赖；其他 Agent 平台需自行适配。README 声明保持学术中立，不讨论敏感历史事件。",
+  "highlights": [
+   "6 种分析方法自动推荐与指定调用（/mao analyze）",
+   "四级渐进学习路径：入门/基础/进阶/专业",
+   "674 个毛泽东核心概念库，支持查询与搜索",
+   "原生支持 OpenClaw，兼容 Claude Code"
+  ],
+  "use_cases": [
+   "在 Claude Code/OpenClaw 中用 /mao 命令对问题做矛盾分析或战略分析",
+   "按渐进路径学习毛泽东方法论体系",
+   "查询矛盾、群众路线等概念的解释与应用示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent技能",
+   "Claude Code",
+   "方法论分析",
+   "概念知识库",
+   "中文内容"
+  ],
+  "domain": "AI 技能/方法论知识工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文主 README",
+   "以中文原著（《毛泽东选集》等）为内容来源"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L27: |**中文**|毛泽东方法论AI助手 - 基于六层认知架构的智能分析系统，提供矛盾分析、实践指导、调查研究等6种核心方法，支持674个概念查询和四级渐进学习。|📦 安装 • 🚀 使用 • 📚 学习|",
+   "L54: |**渐进学习**|四级渐进学习路径：入门(15分钟)→基础(1小时)→进阶(3小时)→专业(10小时)|`/mao learn --path=入门`|",
+   "L55: |**概念查询**|674个毛泽东核心概念库，支持概念查询和关系探索|`/mao concepts 矛盾`|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

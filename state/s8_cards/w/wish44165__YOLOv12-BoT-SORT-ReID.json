@@ -1,1 +1,79 @@
-{"fn": "wish44165/YOLOv12-BoT-SORT-ReID", "sha": "312617efabb9", "source": "readme", "identity": {"one_liner": "热红外视频中多无人机检测与跟踪的基线框架（YOLOv12+BoT-SORT-ReID）", "review": "CVPR 2025 第 4 届 Anti-UAV Workshop & Challenge Track 3 季军方案：以 YOLOv12 做检测、BoT-SORT 加 ReID 做多目标跟踪，面向热红外视频中的多无人机（UAV）跟踪，并提供跟踪竞赛与 200 段视频数据集。支持对图像文件夹与视频文件推理、接入自定义训练模型扩展到非 UAV 场景；提供训练与推理脚本、conda 安装流程和 Colab/Kaggle notebook。macOS 上仅 CPU 推理，不支持 ReID 与初始位置。", "highlights": ["YOLOv12 检测 + BoT-SORT-ReID 多目标跟踪流水线", "支持自定义训练模型推理，可扩展至非 UAV 场景与多类别检测", "提供训练脚本、ReID 训练配置与竞赛结果复现命令", "公开 200 段视频（151,384 帧）数据集与在线竞赛"], "use_cases": ["热红外视频中的多无人机检测与跟踪", "Anti-UAV 竞赛参赛或结果复现", "用自定义检测模型替换 YOLOv12 做通用 MOT 推理"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2504.10457", "demo_url": "https://huggingface.co/spaces/wish44165/YOLOv12-BoT-SORT-ReID", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多目标跟踪", "无人机探测", "红外视频", "目标检测", "CV竞赛方案"], "domain": "计算机视觉/多目标跟踪", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["数据集提供百度网盘下载渠道"]}, "trust": {"confidence": "mid", "evidence": ["L3: > Strong Baseline: Multi-UAV Tracking via YOLOv12 with BoT-SORT-ReID", "L36: This repository provides a strong baseline for multi-UAV tracking in thermal infrared videos by leveraging YOLOv12 and B"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wish44165/YOLOv12-BoT-SORT-ReID",
+ "sha": "312617efabb9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "热红外视频中多无人机检测与跟踪的基线框架（YOLOv12+BoT-SORT-ReID）",
+  "review": "CVPR 2025 第 4 届 Anti-UAV Workshop & Challenge Track 3 季军方案：以 YOLOv12 做检测、BoT-SORT 加 ReID 做多目标跟踪，面向热红外视频中的多无人机（UAV）跟踪，并提供跟踪竞赛与 200 段视频数据集。支持对图像文件夹与视频文件推理、接入自定义训练模型扩展到非 UAV 场景；提供训练与推理脚本、conda 安装流程和 Colab/Kaggle notebook。macOS 上仅 CPU 推理，不支持 ReID 与初始位置。",
+  "highlights": [
+   "YOLOv12 检测 + BoT-SORT-ReID 多目标跟踪流水线",
+   "支持自定义训练模型推理，可扩展至非 UAV 场景与多类别检测",
+   "提供训练脚本、ReID 训练配置与竞赛结果复现命令",
+   "公开 200 段视频（151,384 帧）数据集与在线竞赛"
+  ],
+  "use_cases": [
+   "热红外视频中的多无人机检测与跟踪",
+   "Anti-UAV 竞赛参赛或结果复现",
+   "用自定义检测模型替换 YOLOv12 做通用 MOT 推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2504.10457",
+  "demo_url": "https://huggingface.co/spaces/wish44165/YOLOv12-BoT-SORT-ReID",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多目标跟踪",
+   "无人机探测",
+   "红外视频",
+   "目标检测",
+   "CV竞赛方案"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "数据集提供百度网盘下载渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > Strong Baseline: Multi-UAV Tracking via YOLOv12 with BoT-SORT-ReID",
+   "L36: This repository provides a strong baseline for multi-UAV tracking in thermal infrared videos by leveraging YOLOv12 and B"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

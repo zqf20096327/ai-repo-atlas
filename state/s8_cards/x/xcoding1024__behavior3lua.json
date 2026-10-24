@@ -1,1 +1,81 @@
-{"fn": "xcoding1024/behavior3lua", "sha": "18ebf04a2a39", "source": "readme", "identity": {"one_liner": "面向游戏策划的 Lua 行为树框架", "review": "用 Lua 实现的行为树框架，将节点改造成函数式执行：节点通过 input 声明从黑板取参、执行结果写回变量，让策划通过编辑行为树组合逻辑。提供 Parallel/Sequence/Selector 复合节点、装饰节点、行为节点，支持 RUNNING 状态（调用栈压栈恢复）、节点级调试日志方案，作者称已在动作、卡牌、MOBA、MMO 项目中使用，另有基于 G6+Electron 的配套行为树编辑器 behavior3editor。", "highlights": ["节点函数化：input 取参、结果写回黑板变量", "支持 RUNNING 状态，通过调用栈压栈在下次 tick 恢复", "提供 Parallel/Sequence/Selector 复合节点与装饰节点", "配套 G6+Electron 行为树编辑器 behavior3editor"], "use_cases": ["游戏策划通过编辑行为树配置怪物/角色 AI 逻辑", "动作、卡牌、MOBA、MMO 类项目的 AI 行为编排", "需要直观逻辑表现的技能系统搭建"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [69]}}, "links": {"scenario_tags": ["游戏AI", "行为树", "Lua", "游戏开发框架"], "domain": "游戏开发/AI 行为编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "交流 QQ 群（Q群:644761605）"]}, "trust": {"confidence": "high", "evidence": ["L1: # 行为树框架 for Lua", "L2: 机缘巧合，近几年的工作一直有涉及到游戏AI这块，网上常见的行为树+黑板似乎不太能满足复杂策划需求，也不太可能让策划自己去配置这种行为树。因此，我对行为树的黑板进行了小改造，让行为树更像一个代码编辑器，我们程序提供为数不多的行为节点，让策划通"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xcoding1024/behavior3lua",
+ "sha": "18ebf04a2a39",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向游戏策划的 Lua 行为树框架",
+  "review": "用 Lua 实现的行为树框架，将节点改造成函数式执行：节点通过 input 声明从黑板取参、执行结果写回变量，让策划通过编辑行为树组合逻辑。提供 Parallel/Sequence/Selector 复合节点、装饰节点、行为节点，支持 RUNNING 状态（调用栈压栈恢复）、节点级调试日志方案，作者称已在动作、卡牌、MOBA、MMO 项目中使用，另有基于 G6+Electron 的配套行为树编辑器 behavior3editor。",
+  "highlights": [
+   "节点函数化：input 取参、结果写回黑板变量",
+   "支持 RUNNING 状态，通过调用栈压栈在下次 tick 恢复",
+   "提供 Parallel/Sequence/Selector 复合节点与装饰节点",
+   "配套 G6+Electron 行为树编辑器 behavior3editor"
+  ],
+  "use_cases": [
+   "游戏策划通过编辑行为树配置怪物/角色 AI 逻辑",
+   "动作、卡牌、MOBA、MMO 类项目的 AI 行为编排",
+   "需要直观逻辑表现的技能系统搭建"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    69
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏AI",
+   "行为树",
+   "Lua",
+   "游戏开发框架"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "交流 QQ 群（Q群:644761605）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # 行为树框架 for Lua",
+   "L2: 机缘巧合，近几年的工作一直有涉及到游戏AI这块，网上常见的行为树+黑板似乎不太能满足复杂策划需求，也不太可能让策划自己去配置这种行为树。因此，我对行为树的黑板进行了小改造，让行为树更像一个代码编辑器，我们程序提供为数不多的行为节点，让策划通"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

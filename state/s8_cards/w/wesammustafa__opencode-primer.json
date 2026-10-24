@@ -1,1 +1,77 @@
-{"fn": "wesammustafa/opencode-primer", "sha": "02dbe9e9f0b9", "source": "readme", "identity": {"one_liner": "社区维护的 OpenCode（开源 AI 编程 agent）使用指南", "review": "面向正在使用或准备使用 OpenCode 的开发者编写的教程仓库，覆盖安装认证、Plan/Build 双 agent 工作流、自定义命令、技能、插件、MCP 集成、模型与供应商接入（直连 API / Zen 网关 / Go 订阅 / 本地模型）及 headless CI 用法。声明非官方、社区维护，所有内容对照 OpenCode v1.17.13 版本核验。仓库自身的 .opencode/ 目录提供可运行的配置示例。指南性质仓库，无独立安装产物。", "highlights": ["按新手/进阶/运维三类路径组织的学习路线", "覆盖供应商接入的四种方式（直连/Zen/Go/本地模型）及定价表", "明确列出 OpenCode 的 8 项局限与不适配场景", "仓库自带 .opencode/ 目录作为可参考的真实配置示例"], "use_cases": ["初次上手 OpenCode 时按路径学习安装与提示词技巧", "配置自定义 agent、插件、MCP 与 headless CI", "比较 Zen/Go/直连 API 等模型接入方式的成本与取舍"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程/指南", "AI编程助手", "开发者文档", "agent"], "domain": "开发者工具/AI 编程文档", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: Everything you need to know about OpenCode — from your first prompt to custom agents, skills, plugins, and MCP integrati", "L17: **Who this is for:** Developers using (or about to use) OpenCode. Beginners get a guided path; power users get depth on ", "L19: > ⚖️ **Not affiliated with the OpenCode team.** This is a community-maintained guide. For canonical sources, check openc"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wesammustafa/opencode-primer",
+ "sha": "02dbe9e9f0b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "社区维护的 OpenCode（开源 AI 编程 agent）使用指南",
+  "review": "面向正在使用或准备使用 OpenCode 的开发者编写的教程仓库，覆盖安装认证、Plan/Build 双 agent 工作流、自定义命令、技能、插件、MCP 集成、模型与供应商接入（直连 API / Zen 网关 / Go 订阅 / 本地模型）及 headless CI 用法。声明非官方、社区维护，所有内容对照 OpenCode v1.17.13 版本核验。仓库自身的 .opencode/ 目录提供可运行的配置示例。指南性质仓库，无独立安装产物。",
+  "highlights": [
+   "按新手/进阶/运维三类路径组织的学习路线",
+   "覆盖供应商接入的四种方式（直连/Zen/Go/本地模型）及定价表",
+   "明确列出 OpenCode 的 8 项局限与不适配场景",
+   "仓库自带 .opencode/ 目录作为可参考的真实配置示例"
+  ],
+  "use_cases": [
+   "初次上手 OpenCode 时按路径学习安装与提示词技巧",
+   "配置自定义 agent、插件、MCP 与 headless CI",
+   "比较 Zen/Go/直连 API 等模型接入方式的成本与取舍"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/指南",
+   "AI编程助手",
+   "开发者文档",
+   "agent"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Everything you need to know about OpenCode — from your first prompt to custom agents, skills, plugins, and MCP integrati",
+   "L17: **Who this is for:** Developers using (or about to use) OpenCode. Beginners get a guided path; power users get depth on ",
+   "L19: > ⚖️ **Not affiliated with the OpenCode team.** This is a community-maintained guide. For canonical sources, check openc"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

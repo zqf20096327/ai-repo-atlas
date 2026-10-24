@@ -33,7 +33,7 @@ CVPR 2025 第 4 届 Anti-UAV Workshop & Challenge Track 3 季军方案：以 YOL
 
 ## 场景标签
 
- · 领域:计算机视觉/多目标跟踪
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

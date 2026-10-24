@@ -30,7 +30,7 @@ Weaviate 组织维护的代码集合，提供用 DSPy 框架与 Weaviate 向量�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/检索
+`RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 

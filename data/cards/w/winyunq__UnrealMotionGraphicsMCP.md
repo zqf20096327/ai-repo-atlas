@@ -33,7 +33,7 @@ Unreal Engine 5.8 Win64 的编辑器插件，通过 MCP 工具与 Python 服务�
 
 ## 场景标签
 
- · 领域:游戏开发/UE 编辑器工具
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

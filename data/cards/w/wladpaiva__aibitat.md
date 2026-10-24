@@ -33,7 +33,7 @@ AIbitat 是用 TypeScript 编写的多智能体对话框架，自称 AutoGen 的
 
 ## 场景标签
 
- · 领域:LLM 基础设施/Agent 框架
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

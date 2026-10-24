@@ -1,1 +1,74 @@
-{"fn": "woheller69/huggingassist", "sha": "2408158386d8", "source": "readme", "identity": {"one_liner": "Android 上访问 HuggingChat 的 WebView 封装应用", "review": "以 WebView 封装方式在 Android 上加载 HuggingChat 网页，并屏蔽非功能必需的 URL；初始注册需使用外部浏览器完成。通过 F-Droid 分发，采用 GPLv3 许可证，由个人开发者维护。README 声明因 Google 将于 2026/2027 起要求开发者提交个人身份信息，该应用届时将无法在认证 Android 设备上继续使用。", "highlights": ["WebView 封装 HuggingChat 并屏蔽非必需 URL", "通过 F-Droid 分发，GPLv3 许可证", "README 声明 2026/2027 后不再支持认证 Android 设备"], "use_cases": ["在 Android 设备上使用 HuggingChat 对话", "通过 F-Droid 获取开源 Android AI 聊天客户端"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Android 应用", "AI 聊天客户端", "WebView 封装", "F-Droid"], "domain": "移动应用/AI 客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16: huggingAssist is a simple WebView wrapper for huggingChat.", "L17: It blocks all URLs that are not essential for functioning."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "woheller69/huggingassist",
+ "sha": "2408158386d8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 上访问 HuggingChat 的 WebView 封装应用",
+  "review": "以 WebView 封装方式在 Android 上加载 HuggingChat 网页，并屏蔽非功能必需的 URL；初始注册需使用外部浏览器完成。通过 F-Droid 分发，采用 GPLv3 许可证，由个人开发者维护。README 声明因 Google 将于 2026/2027 起要求开发者提交个人身份信息，该应用届时将无法在认证 Android 设备上继续使用。",
+  "highlights": [
+   "WebView 封装 HuggingChat 并屏蔽非必需 URL",
+   "通过 F-Droid 分发，GPLv3 许可证",
+   "README 声明 2026/2027 后不再支持认证 Android 设备"
+  ],
+  "use_cases": [
+   "在 Android 设备上使用 HuggingChat 对话",
+   "通过 F-Droid 获取开源 Android AI 聊天客户端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Android 应用",
+   "AI 聊天客户端",
+   "WebView 封装",
+   "F-Droid"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: huggingAssist is a simple WebView wrapper for huggingChat.",
+   "L17: It blocks all URLs that are not essential for functioning."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,80 @@
-{"fn": "william-murray1204/stable-diffusion-cpp-python", "sha": "7d5e2a6495f9", "source": "readme", "identity": {"one_liner": "stable-diffusion.cpp 的 Python 绑定：本地生成图像/视频", "review": "为 leejet 的 stable-diffusion.cpp 库提供 Python 绑定：低层 ctypes 接口访问 C API，高层 StableDiffusion 类接口支持 Stable Diffusion、FLUX（含 Kontext/Chroma/Klein）、Wan 的 txt2img/img2img/视频生成。pip 安装时从源码编译 stable-diffusion.cpp，可通过 CMAKE_ARGS 启用 CUDA/HIPBLAS/Metal/Vulkan/SYCL/OpenCL 等后端。支持 LoRA 加载（量化模型下不可用）与 flash attention。面向需要在 Python 中本地运行扩散模型的开发者。", "highlights": ["ctypes 低层 C API 接口 + 高层 StableDiffusion 类接口", "支持 Stable Diffusion / FLUX.1 / FLUX.2 / Kontext / Chroma / Klein / Wan", "多硬件加速后端：CUDA、ROCm、Metal、Vulkan、SYCL、OpenBLAS、MUSA、OpenCL(Adreno/Android)", "支持 LoRA 与 flash attention（部分模型/后端）"], "use_cases": ["在 Python 项目中本地运行 Stable Diffusion 或 FLUX 生成图像", "用 gguf 量化权重在消费级 GPU 上跑 FLUX 模型", "通过 LoRA 定制生成风格", "在 Android/Apple Silicon 等非桌面平台上构建运行"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "high", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文生图", "Python绑定", "本地推理", "ggml/gguf", "扩散模型"], "domain": "图像生成/机器学习库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Simple Python bindings for **@leejet's** `stable-diffusion.cpp` library.", "L11: - Low-level access to C API via `ctypes` interface.", "L12: - High-level Python API for Stable Diffusion, FLUX and Wan image/video generation."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "william-murray1204/stable-diffusion-cpp-python",
+ "sha": "7d5e2a6495f9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "stable-diffusion.cpp 的 Python 绑定：本地生成图像/视频",
+  "review": "为 leejet 的 stable-diffusion.cpp 库提供 Python 绑定：低层 ctypes 接口访问 C API，高层 StableDiffusion 类接口支持 Stable Diffusion、FLUX（含 Kontext/Chroma/Klein）、Wan 的 txt2img/img2img/视频生成。pip 安装时从源码编译 stable-diffusion.cpp，可通过 CMAKE_ARGS 启用 CUDA/HIPBLAS/Metal/Vulkan/SYCL/OpenCL 等后端。支持 LoRA 加载（量化模型下不可用）与 flash attention。面向需要在 Python 中本地运行扩散模型的开发者。",
+  "highlights": [
+   "ctypes 低层 C API 接口 + 高层 StableDiffusion 类接口",
+   "支持 Stable Diffusion / FLUX.1 / FLUX.2 / Kontext / Chroma / Klein / Wan",
+   "多硬件加速后端：CUDA、ROCm、Metal、Vulkan、SYCL、OpenBLAS、MUSA、OpenCL(Adreno/Android)",
+   "支持 LoRA 与 flash attention（部分模型/后端）"
+  ],
+  "use_cases": [
+   "在 Python 项目中本地运行 Stable Diffusion 或 FLUX 生成图像",
+   "用 gguf 量化权重在消费级 GPU 上跑 FLUX 模型",
+   "通过 LoRA 定制生成风格",
+   "在 Android/Apple Silicon 等非桌面平台上构建运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生图",
+   "Python绑定",
+   "本地推理",
+   "ggml/gguf",
+   "扩散模型"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Simple Python bindings for **@leejet's** `stable-diffusion.cpp` library.",
+   "L11: - Low-level access to C API via `ctypes` interface.",
+   "L12: - High-level Python API for Stable Diffusion, FLUX and Wan image/video generation."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

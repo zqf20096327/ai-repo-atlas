@@ -1,1 +1,80 @@
-{"fn": "wandb/wandbot", "sha": "ce1a018453be", "source": "readme", "identity": {"one_liner": "Weights & Biases 官方的 RAG 技术支持问答机器人", "review": "面向 W&B Experiment Tracking 与 Weave 文档的技术支持助手：从 W&B 仓库摄取代码与 Markdown 存入托管 ChromaDB 向量库，用 OpenAI v3 embeddings、Gemini flash-2.0 查询增强、GPT-4o（部分版本 Claude Sonnet-3.7）做回答合成、Cohere 重排，构成 RAG 管线；通过 FastAPI 服务与 Discord/Slack bot 交付，支持 Modal 无服务器部署与本地 uvicorn 运行。README 附英文/日文评测表与 Weave 评测流水线、数据摄取模块。需设置 OpenAI/Cohere/W&B 等 API key，回答耗时 30-90 秒。", "highlights": ["ChromaDB 向量库 + OpenAI embeddings + Cohere 重排的 RAG 管线", "Discord/Slack 集成与 FastAPI chat/query 端点", "支持 Modal 无服务器部署与本地 uvicorn 运行", "内置 Weave 评测流水线（英文/日文数据集）与数据摄取模块"], "use_cases": ["在 Slack/Discord 中向团队回答 W&B 使用问题", "作为技术文档 RAG 支持机器人的参考实现", "运行文档摄取与评测流水线持续改进回答正确率"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RAG", "技术支持机器人", "Slack/Discord集成", "LLM应用"], "domain": "开发者工具/LLM 支持机器人", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "cohere"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: WandBot is a support assistant designed for Weights & Biases' Experiment Tracking and Weave.", "L38: - WandBot uses:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wandb/wandbot",
+ "sha": "ce1a018453be",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Weights & Biases 官方的 RAG 技术支持问答机器人",
+  "review": "面向 W&B Experiment Tracking 与 Weave 文档的技术支持助手：从 W&B 仓库摄取代码与 Markdown 存入托管 ChromaDB 向量库，用 OpenAI v3 embeddings、Gemini flash-2.0 查询增强、GPT-4o（部分版本 Claude Sonnet-3.7）做回答合成、Cohere 重排，构成 RAG 管线；通过 FastAPI 服务与 Discord/Slack bot 交付，支持 Modal 无服务器部署与本地 uvicorn 运行。README 附英文/日文评测表与 Weave 评测流水线、数据摄取模块。需设置 OpenAI/Cohere/W&B 等 API key，回答耗时 30-90 秒。",
+  "highlights": [
+   "ChromaDB 向量库 + OpenAI embeddings + Cohere 重排的 RAG 管线",
+   "Discord/Slack 集成与 FastAPI chat/query 端点",
+   "支持 Modal 无服务器部署与本地 uvicorn 运行",
+   "内置 Weave 评测流水线（英文/日文数据集）与数据摄取模块"
+  ],
+  "use_cases": [
+   "在 Slack/Discord 中向团队回答 W&B 使用问题",
+   "作为技术文档 RAG 支持机器人的参考实现",
+   "运行文档摄取与评测流水线持续改进回答正确率"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "技术支持机器人",
+   "Slack/Discord集成",
+   "LLM应用"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "cohere"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: WandBot is a support assistant designed for Weights & Biases' Experiment Tracking and Weave.",
+   "L38: - WandBot uses:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

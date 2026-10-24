@@ -1,1 +1,82 @@
-{"fn": "wuwangzhang1216/abliterix", "sha": "fabdac3d1902", "source": "readme", "identity": {"one_liner": "LLM 拒绝行为消除的自动调参工具：Optuna 搜索最优 abliteration 参数", "review": "面向 LLM 模型编辑的 Python 库与 CLI：提取良性/目标提示的激活差分得到拒绝方向，通过直接投影、LoRA 或 MoE 专家级编辑修改权重，用 Optuna TPE 多目标搜索在降低拒绝率与 KL 散度之间求 Pareto 前沿，支持 Dense/MoE/SSM/视觉语言 4 类架构与 150+ 预置配置。附可复现基准 HonestAbliterationBench 与双语评测数据集。README 明确声明为实验性研究软件，修改会削弱模型安全防护，使用者需自行承担合规与部署责任。", "highlights": ["Optuna TPE 多目标搜索自动寻找 abliteration 参数（拒绝率 vs KL 散度）", "支持 Dense、MoE（专家/路由级编辑）、SSM/混合、视觉语言四类架构，150+ 预置配置", "可复现清单（commit 固定 + SHA256 权重校验）与 --replay 精确复现实验", "4/8-bit 量化与 FP4 原生重打包以降低显存占用"], "use_cases": ["自动化调整开源模型的对齐/拒绝行为并导出修改后权重", "研究模型内部拒绝机制与反制手段的科研实验", "以固定契约评测 abliterated 模型的拒绝率与漂移"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [21]}}, "links": {"scenario_tags": ["模型编辑", "abliteration", "对齐调整", "LLM工具链", "可复现实验"], "domain": "LLM 模型编辑/研究工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: **Abliterix** finds the optimal abliteration parameters for any transformer model using Optuna TPE optimization. It co-m", "L86: 3. **Apply candidate edits** — modify attention, MLP, and, where applicable, MoE expert/router components using reversib", "L88: 5. **Optimize automatically** — use Optuna TPE to search layer locations, component strengths, decay profiles, vector sc"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wuwangzhang1216/abliterix",
+ "sha": "fabdac3d1902",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 拒绝行为消除的自动调参工具：Optuna 搜索最优 abliteration 参数",
+  "review": "面向 LLM 模型编辑的 Python 库与 CLI：提取良性/目标提示的激活差分得到拒绝方向，通过直接投影、LoRA 或 MoE 专家级编辑修改权重，用 Optuna TPE 多目标搜索在降低拒绝率与 KL 散度之间求 Pareto 前沿，支持 Dense/MoE/SSM/视觉语言 4 类架构与 150+ 预置配置。附可复现基准 HonestAbliterationBench 与双语评测数据集。README 明确声明为实验性研究软件，修改会削弱模型安全防护，使用者需自行承担合规与部署责任。",
+  "highlights": [
+   "Optuna TPE 多目标搜索自动寻找 abliteration 参数（拒绝率 vs KL 散度）",
+   "支持 Dense、MoE（专家/路由级编辑）、SSM/混合、视觉语言四类架构，150+ 预置配置",
+   "可复现清单（commit 固定 + SHA256 权重校验）与 --replay 精确复现实验",
+   "4/8-bit 量化与 FP4 原生重打包以降低显存占用"
+  ],
+  "use_cases": [
+   "自动化调整开源模型的对齐/拒绝行为并导出修改后权重",
+   "研究模型内部拒绝机制与反制手段的科研实验",
+   "以固定契约评测 abliterated 模型的拒绝率与漂移"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    21
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型编辑",
+   "abliteration",
+   "对齐调整",
+   "LLM工具链",
+   "可复现实验"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **Abliterix** finds the optimal abliteration parameters for any transformer model using Optuna TPE optimization. It co-m",
+   "L86: 3. **Apply candidate edits** — modify attention, MLP, and, where applicable, MoE expert/router components using reversib",
+   "L88: 5. **Optimize automatically** — use Optuna TPE to search layer locations, component strengths, decay profiles, vector sc"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

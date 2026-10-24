@@ -1,1 +1,81 @@
-{"fn": "wb-hwang/AIAnswerer-Android", "sha": "451f674ba245", "source": "readme", "identity": {"one_liner": "安卓悬浮窗截图答题应用：OCR 识别题目并调用大模型生成答案", "review": "Android 端答题工具：通过悬浮窗一键截屏，使用 ML Kit OCR 识别题目文字（支持中英文、可手动校正），再调用 DeepSeek 等兼容 OpenAI 接口的模型生成解析，答案自动复制。覆盖选择题、填空题、问答题三类题型。API Key 由用户自行配置，可随时关闭网络请求；识别文字会上传至所选 AI 服务。安装方式为 APK，要求 Android 11 及以上，需授予悬浮窗、截屏、通知权限。", "highlights": ["悬浮窗一键截屏，无需切换应用即可完成截屏、预览、提交", "OCR 识别中英文题目，提交前可手动编辑校正", "支持选择题/填空题/问答题三类题型的解析生成，答案自动复制", "自定义 API Key 与网络请求启停，识别文字发送至所选 AI 服务"], "use_cases": ["练习或自测时快速获取题目解析", "对截图题目做 OCR 识别并查缺补漏", "不切换应用的情况下连续刷新并解答多道题目"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["移动应用", "OCR", "LLM问答", "悬浮窗工具"], "domain": "教育/移动应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README 为主（附英文）", "微信读书作为国内应用被提及"]}, "trust": {"confidence": "high", "evidence": ["L8: AI答题助手是一款基于 OCR 与大语言模型的安卓答题工具。通过悬浮窗截图识别题目，并调用 DeepSeek AI 等兼容 OpenAI 接口的模型为你快速给出答案，适用于练习、查缺补漏或自测场景。", "L13: - 🤖 AI 实时答题：根据题型生成解析，并自动复制答案"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wb-hwang/AIAnswerer-Android",
+ "sha": "451f674ba245",
+ "source": "readme",
+ "identity": {
+  "one_liner": "安卓悬浮窗截图答题应用：OCR 识别题目并调用大模型生成答案",
+  "review": "Android 端答题工具：通过悬浮窗一键截屏，使用 ML Kit OCR 识别题目文字（支持中英文、可手动校正），再调用 DeepSeek 等兼容 OpenAI 接口的模型生成解析，答案自动复制。覆盖选择题、填空题、问答题三类题型。API Key 由用户自行配置，可随时关闭网络请求；识别文字会上传至所选 AI 服务。安装方式为 APK，要求 Android 11 及以上，需授予悬浮窗、截屏、通知权限。",
+  "highlights": [
+   "悬浮窗一键截屏，无需切换应用即可完成截屏、预览、提交",
+   "OCR 识别中英文题目，提交前可手动编辑校正",
+   "支持选择题/填空题/问答题三类题型的解析生成，答案自动复制",
+   "自定义 API Key 与网络请求启停，识别文字发送至所选 AI 服务"
+  ],
+  "use_cases": [
+   "练习或自测时快速获取题目解析",
+   "对截图题目做 OCR 识别并查缺补漏",
+   "不切换应用的情况下连续刷新并解答多道题目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动应用",
+   "OCR",
+   "LLM问答",
+   "悬浮窗工具"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "ocr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 为主（附英文）",
+   "微信读书作为国内应用被提及"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: AI答题助手是一款基于 OCR 与大语言模型的安卓答题工具。通过悬浮窗截图识别题目，并调用 DeepSeek AI 等兼容 OpenAI 接口的模型为你快速给出答案，适用于练习、查缺补漏或自测场景。",
+   "L13: - 🤖 AI 实时答题：根据题型生成解析，并自动复制答案"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

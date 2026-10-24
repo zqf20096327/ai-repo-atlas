@@ -1,1 +1,76 @@
-{"fn": "vuepont/elevenlabs-ui-vue", "sha": "fb29f530fe86", "source": "readme", "identity": {"one_liner": "构建多模态语音 agent 的 Vue UI 组件库", "review": "基于 shadcn-vue 的 Vue 组件库与自定义注册表，为 agent 与音频应用提供预构建可定制组件，包括 orb、波形、语音 agent、音频播放器等。配套 CLI 支持通过 npx 一键安装全部组件或按需添加单个组件，也兼容 shadcn-vue CLI 从注册表安装。面向使用 Vue/Nuxt 并已配置 shadcn-vue 与 Tailwind CSS 的开发者，要求 Node.js 18 及以上。MIT 许可。", "highlights": ["面向 agent 与音频应用的 Vue 组件（orb、波形、语音 agent、音频播放器等）", "CLI 支持一键安装全部或按需添加单个组件", "提供 shadcn-vue 注册表，兼容 shadcn-vue CLI 安装", "支持 Vue 与 Nuxt 项目"], "use_cases": ["为语音 agent 前端快速搭建 UI 组件", "在已有 shadcn-vue 项目中按需添加 orb、波形等组件", "Vue/Nuxt 项目中构建多模态 agent 界面"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["UI组件库", "语音agent", "Vue生态", "shadcn-vue"], "domain": "前端/UI 组件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L15: ElevenLabs UI Vue provides pre-built, customizable Vue components specifically designed for agent & audio applications, ", "L16: The CLI makes it easy to add these components to your Vue and Nuxt project."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vuepont/elevenlabs-ui-vue",
+ "sha": "fb29f530fe86",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建多模态语音 agent 的 Vue UI 组件库",
+  "review": "基于 shadcn-vue 的 Vue 组件库与自定义注册表，为 agent 与音频应用提供预构建可定制组件，包括 orb、波形、语音 agent、音频播放器等。配套 CLI 支持通过 npx 一键安装全部组件或按需添加单个组件，也兼容 shadcn-vue CLI 从注册表安装。面向使用 Vue/Nuxt 并已配置 shadcn-vue 与 Tailwind CSS 的开发者，要求 Node.js 18 及以上。MIT 许可。",
+  "highlights": [
+   "面向 agent 与音频应用的 Vue 组件（orb、波形、语音 agent、音频播放器等）",
+   "CLI 支持一键安装全部或按需添加单个组件",
+   "提供 shadcn-vue 注册表，兼容 shadcn-vue CLI 安装",
+   "支持 Vue 与 Nuxt 项目"
+  ],
+  "use_cases": [
+   "为语音 agent 前端快速搭建 UI 组件",
+   "在已有 shadcn-vue 项目中按需添加 orb、波形等组件",
+   "Vue/Nuxt 项目中构建多模态 agent 界面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "UI组件库",
+   "语音agent",
+   "Vue生态",
+   "shadcn-vue"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: ElevenLabs UI Vue provides pre-built, customizable Vue components specifically designed for agent & audio applications, ",
+   "L16: The CLI makes it easy to add these components to your Vue and Nuxt project."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

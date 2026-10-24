@@ -1,1 +1,90 @@
-{"fn": "xark-argo/argo", "sha": "351469612fe7", "source": "readme", "identity": {"one_liner": "本地优先的开源 AI Agent 桌面客户端，支持私有部署与离线 RAG", "review": "跨平台（Windows/macOS/Linux，另有 Web 版）的 AI Agent 客户端：内置 Multi-Agent 任务引擎做意图识别、任务规划、工具调用与自反思，支持 DeepResearch 工作流；通过 Ollama 一键下载运行开源模型（含 HuggingFace GGUF），或接入 OpenAI/Claude/DeepSeek 等 API；提供本地 RAG 知识库（多格式解析、答案溯源、文件夹动态同步）、MCP 工具接入与可视化 Agent Factory。数据全部本地存储，支持离线运行。项目自述仍处早期开发阶段。", "highlights": ["Multi-Agent 任务引擎：规划-执行-工具调用-自反思闭环", "一键集成 Ollama 与 HuggingFace GGUF 模型下载，对话中可切换本地/API 模型", "本地 RAG 知识库：多格式解析、答案溯源、文件夹动态同步", "MCP 协议工具接入（STDIO/SSE）与可视化场景 Agent 定制"], "use_cases": ["在本机离线运行 AI 助手处理复杂任务与研究，数据不出本地", "把文档、文件夹、网站建成可溯源的本地知识库问答", "定制法律顾问、行业分析等场景化 Agent 并分享配置"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [35, 175]}}, "links": {"scenario_tags": ["AI Agent 桌面客户端", "本地化/隐私优先", "DeepResearch", "RAG 知识库", "MCP"], "domain": "AI Agent 桌面应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "官方网站与文档含中文版", "微信群社区"]}, "trust": {"confidence": "high", "evidence": ["L20: ARGO is an open-source AI Agent client that makes it easy to **build & use** AI-powered assistants capable of autonomous", "L26: * 🚀 **Task Execution Engine That Delivers Results** — The Multi-Agent task engine autonomously plans steps, calls tools,", "L86: - 🤖 **Chat Conversations**:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xark-argo/argo",
+ "sha": "351469612fe7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的开源 AI Agent 桌面客户端，支持私有部署与离线 RAG",
+  "review": "跨平台（Windows/macOS/Linux，另有 Web 版）的 AI Agent 客户端：内置 Multi-Agent 任务引擎做意图识别、任务规划、工具调用与自反思，支持 DeepResearch 工作流；通过 Ollama 一键下载运行开源模型（含 HuggingFace GGUF），或接入 OpenAI/Claude/DeepSeek 等 API；提供本地 RAG 知识库（多格式解析、答案溯源、文件夹动态同步）、MCP 工具接入与可视化 Agent Factory。数据全部本地存储，支持离线运行。项目自述仍处早期开发阶段。",
+  "highlights": [
+   "Multi-Agent 任务引擎：规划-执行-工具调用-自反思闭环",
+   "一键集成 Ollama 与 HuggingFace GGUF 模型下载，对话中可切换本地/API 模型",
+   "本地 RAG 知识库：多格式解析、答案溯源、文件夹动态同步",
+   "MCP 协议工具接入（STDIO/SSE）与可视化场景 Agent 定制"
+  ],
+  "use_cases": [
+   "在本机离线运行 AI 助手处理复杂任务与研究，数据不出本地",
+   "把文档、文件夹、网站建成可溯源的本地知识库问答",
+   "定制法律顾问、行业分析等场景化 Agent 并分享配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    35,
+    175
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 桌面客户端",
+   "本地化/隐私优先",
+   "DeepResearch",
+   "RAG 知识库",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "chatbot",
+   "multi-agent",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "官方网站与文档含中文版",
+   "微信群社区"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: ARGO is an open-source AI Agent client that makes it easy to **build & use** AI-powered assistants capable of autonomous",
+   "L26: * 🚀 **Task Execution Engine That Delivers Results** — The Multi-Agent task engine autonomously plans steps, calls tools,",
+   "L86: - 🤖 **Chat Conversations**:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

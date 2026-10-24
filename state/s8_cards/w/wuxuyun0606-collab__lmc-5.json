@@ -1,1 +1,81 @@
-{"fn": "wuxuyun0606-collab/lmc-5", "sha": "1822445cfb09", "source": "readme", "identity": {"one_liner": "为长期运行 LLM agent 提供五轴记忆架构与可恢复记忆层", "review": "面向 Claude Code、Codex 类编码 agent 与个人助手 agent 的离线优先记忆层：将记忆组织为 X 时间线、Y 关系、Z 事实演化、E 经验信号、M 代谢五轴，底层保留原始事件日志，通过 surface() 输出脱敏上下文。提供两套参考实现：SQLite 最小版（FTS5+余弦检索、零依赖）与 PostgreSQL/pgvector 生产版（三级级联回忆、LLM 海马体、Claude Code hooks、cron 夜间任务）。核心不做网络调用、不绑定模型厂商，以本地 CLI 与 Python API 形式提供。", "highlights": ["X/Y/Z/E/M 五轴记忆模型，区分原始事件与精选记忆", "SQLite 零依赖最小版 + PostgreSQL/pgvector 生产版双实现", "两跳类型化关系扩展、事实键更替与 Z 轴冲突审计", "核心无网络调用、厂商无关，支持 Claude Code hooks / MCP sidecar / shell 包装集成"], "use_cases": ["让编码 agent 跨会话恢复项目上下文", "VPS 7×24 部署个人 agent 的常驻记忆服务", "研究原型中对比普通 RAG、向量检索与结构化记忆", "在记忆注入 prompt 前做脱敏与事实演化管理"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent记忆", "LLM基础设施", "RAG", "长期连续性", "本地优先"], "domain": "LLM 基础设施/agent 记忆", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 含简体中文版本"]}, "trust": {"confidence": "high", "evidence": ["L7: > A recoverable memory layer for Claude Code, Codex, and other coding agents:", "L22: LMC-5 is a small, offline-first memory architecture for **LLM agents** built", "L202: The core is provider-free. You can use it with OpenAI models, Gemini, Voyage"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wuxuyun0606-collab/lmc-5",
+ "sha": "1822445cfb09",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为长期运行 LLM agent 提供五轴记忆架构与可恢复记忆层",
+  "review": "面向 Claude Code、Codex 类编码 agent 与个人助手 agent 的离线优先记忆层：将记忆组织为 X 时间线、Y 关系、Z 事实演化、E 经验信号、M 代谢五轴，底层保留原始事件日志，通过 surface() 输出脱敏上下文。提供两套参考实现：SQLite 最小版（FTS5+余弦检索、零依赖）与 PostgreSQL/pgvector 生产版（三级级联回忆、LLM 海马体、Claude Code hooks、cron 夜间任务）。核心不做网络调用、不绑定模型厂商，以本地 CLI 与 Python API 形式提供。",
+  "highlights": [
+   "X/Y/Z/E/M 五轴记忆模型，区分原始事件与精选记忆",
+   "SQLite 零依赖最小版 + PostgreSQL/pgvector 生产版双实现",
+   "两跳类型化关系扩展、事实键更替与 Z 轴冲突审计",
+   "核心无网络调用、厂商无关，支持 Claude Code hooks / MCP sidecar / shell 包装集成"
+  ],
+  "use_cases": [
+   "让编码 agent 跨会话恢复项目上下文",
+   "VPS 7×24 部署个人 agent 的常驻记忆服务",
+   "研究原型中对比普通 RAG、向量检索与结构化记忆",
+   "在记忆注入 prompt 前做脱敏与事实演化管理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "LLM基础设施",
+   "RAG",
+   "长期连续性",
+   "本地优先"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > A recoverable memory layer for Claude Code, Codex, and other coding agents:",
+   "L22: LMC-5 is a small, offline-first memory architecture for **LLM agents** built",
+   "L202: The core is provider-free. You can use it with OpenAI models, Gemini, Voyage"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

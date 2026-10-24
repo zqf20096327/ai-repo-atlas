@@ -31,7 +31,7 @@ Chrome 浏览器扩展，将 Microsoft Edge 内置的 AI Bing 侧边栏通过逆
 
 ## 场景标签
 
- · 领域:浏览器扩展/AI 助手
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ AutoGPT 是一个用 Rust 编写的 AI agent 创建与管理框架，面向希�
 
 ## 场景标签
 
- · 领域:AI agent 框架/LLM 基础设施
+`Agent 框架` `多智能体` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

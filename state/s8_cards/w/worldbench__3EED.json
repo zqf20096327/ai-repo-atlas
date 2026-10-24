@@ -1,1 +1,76 @@
-{"fn": "worldbench/3EED", "sha": "5e6d42c0a3a1", "source": "readme", "identity": {"one_liner": "跨车辆/无人机/四足平台的 3D 视觉定位数据集与基线", "review": "NeurIPS 2025 Dataset & Benchmark Track 论文 3EED 的官方仓库：发布首个跨越车辆、无人机、四足三类平台的大规模 3D grounding 数据集，含同步 RGB、LiDAR 与语言标注，数据集与基线模型放在 HuggingFace。仓库同时提供基于 BUTD-DETR/WildRefer 思路的基线训练、评估与可视化代码，支持 CUDA 11.1 与 CUDA 12.4 两种环境，需编译自定义 CUDA 算子，语言编码器使用 RoBERTa-base。数据来源为 Waymo Open Dataset 与 M3ED。Apache 2.0 许可。", "highlights": ["覆盖车辆/无人机/四足三类平台的大规模 3D grounding 数据集", "RGB、LiDAR 与语言多模态同步标注", "提供统一评测协议与基线训练/评估/可视化代码", "基线模型与预测结果托管于 HuggingFace"], "use_cases": ["在多平台真实场景上评测 3D 视觉定位方法", "训练基于语言指代的 3D 定位基线模型", "复现论文结果并可视化点云上的 3D 检测框"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["3D视觉定位", "数据集/基准", "多模态", "机器人/自动驾驶"], "domain": "3D 视觉/空间智能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L24: - **Cross-Platform**: First 3D grounding dataset spanning **vehicle**, **drone**, and **quadruped** platforms", "L50: - **[2025.09]** 3EED has been accepted to **NeurIPS 2025 Dataset and Benchmark Track**! 🎉"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "worldbench/3EED",
+ "sha": "5e6d42c0a3a1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨车辆/无人机/四足平台的 3D 视觉定位数据集与基线",
+  "review": "NeurIPS 2025 Dataset & Benchmark Track 论文 3EED 的官方仓库：发布首个跨越车辆、无人机、四足三类平台的大规模 3D grounding 数据集，含同步 RGB、LiDAR 与语言标注，数据集与基线模型放在 HuggingFace。仓库同时提供基于 BUTD-DETR/WildRefer 思路的基线训练、评估与可视化代码，支持 CUDA 11.1 与 CUDA 12.4 两种环境，需编译自定义 CUDA 算子，语言编码器使用 RoBERTa-base。数据来源为 Waymo Open Dataset 与 M3ED。Apache 2.0 许可。",
+  "highlights": [
+   "覆盖车辆/无人机/四足三类平台的大规模 3D grounding 数据集",
+   "RGB、LiDAR 与语言多模态同步标注",
+   "提供统一评测协议与基线训练/评估/可视化代码",
+   "基线模型与预测结果托管于 HuggingFace"
+  ],
+  "use_cases": [
+   "在多平台真实场景上评测 3D 视觉定位方法",
+   "训练基于语言指代的 3D 定位基线模型",
+   "复现论文结果并可视化点云上的 3D 检测框"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "3D视觉定位",
+   "数据集/基准",
+   "多模态",
+   "机器人/自动驾驶"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: - **Cross-Platform**: First 3D grounding dataset spanning **vehicle**, **drone**, and **quadruped** platforms",
+   "L50: - **[2025.09]** 3EED has been accepted to **NeurIPS 2025 Dataset and Benchmark Track**! 🎉"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

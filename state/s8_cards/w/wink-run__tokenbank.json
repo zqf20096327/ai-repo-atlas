@@ -1,1 +1,87 @@
-{"fn": "wink-run/tokenbank", "sha": "1fbceb2d8eaf", "source": "readme", "identity": {"one_liner": "本地 LLM 网关：统一接入各 AI agent 的 token 用量与智能路由", "review": "面向个人开发者的本地 AI 资源中心：将 Claude Code、Codex、Cursor、Kimi Code 等 agent 通过本地网关统一接入，支持用量统计（实时代理 + 会话导入）、跨设备账单聚合、第三方模型透明切换（保留原生模型名，协议自动转换）、按场景/任务类型的智能路由，以及通过 P2P 算力共享网络出租闲置额度换取积分。API key 不离开本机。提供 Electron 桌面端、CLI 与 Docker Web UI 三种形态。", "highlights": ["一键接入主流 agent（CLI env 注入 / 配置热补丁），可随时还原官方配置", "Anthropic Messages / OpenAI Chat / Codex Responses 协议透明转换", "全链路用量追踪与多设备云端合并统计", "本地优先 + 免费额度优先的智能路由与故障切换"], "use_cases": ["把多个 AI 编程工具接到一个本地地址统一管理", "看清每个应用每个模型的 token 消耗与成本", "把 Claude Code 等客户端路由到本地 Ollama 或免费 Groq 额度", "出租闲置的模型与 agent 额度换取积分"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM网关", "代理/路由", "用量审计", "agent管理", "P2P共享"], "domain": "LLM 基础设施/网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "groq", "deepseek"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 含中文文档链接", "支持 Kimi / 通义千问等国内模型"]}, "trust": {"confidence": "mid", "evidence": ["L13: **Token Bank is a next-generation personal AI resource hub** that enables one-click onboarding and intelligent orchestra", "L91: Token Bank is more than an API proxy — it brings **Claude Code, Codex, Cursor, WorkBuddy, Kimi Code, OpenClaw**, and oth", "L75: │  Desktop (Electron · Mac / Windows) or CLI / Docker Web UI      │"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wink-run/tokenbank",
+ "sha": "1fbceb2d8eaf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 LLM 网关：统一接入各 AI agent 的 token 用量与智能路由",
+  "review": "面向个人开发者的本地 AI 资源中心：将 Claude Code、Codex、Cursor、Kimi Code 等 agent 通过本地网关统一接入，支持用量统计（实时代理 + 会话导入）、跨设备账单聚合、第三方模型透明切换（保留原生模型名，协议自动转换）、按场景/任务类型的智能路由，以及通过 P2P 算力共享网络出租闲置额度换取积分。API key 不离开本机。提供 Electron 桌面端、CLI 与 Docker Web UI 三种形态。",
+  "highlights": [
+   "一键接入主流 agent（CLI env 注入 / 配置热补丁），可随时还原官方配置",
+   "Anthropic Messages / OpenAI Chat / Codex Responses 协议透明转换",
+   "全链路用量追踪与多设备云端合并统计",
+   "本地优先 + 免费额度优先的智能路由与故障切换"
+  ],
+  "use_cases": [
+   "把多个 AI 编程工具接到一个本地地址统一管理",
+   "看清每个应用每个模型的 token 消耗与成本",
+   "把 Claude Code 等客户端路由到本地 Ollama 或免费 Groq 额度",
+   "出租闲置的模型与 agent 额度换取积分"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM网关",
+   "代理/路由",
+   "用量审计",
+   "agent管理",
+   "P2P共享"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "groq",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文文档链接",
+   "支持 Kimi / 通义千问等国内模型"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: **Token Bank is a next-generation personal AI resource hub** that enables one-click onboarding and intelligent orchestra",
+   "L91: Token Bank is more than an API proxy — it brings **Claude Code, Codex, Cursor, WorkBuddy, Kimi Code, OpenClaw**, and oth",
+   "L75: │  Desktop (Electron · Mac / Windows) or CLI / Docker Web UI      │"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

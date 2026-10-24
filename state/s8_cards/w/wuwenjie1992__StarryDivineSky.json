@@ -1,1 +1,79 @@
-{"fn": "wuwenjie1992/StarryDivineSky", "sha": "266e75508807", "source": "readme", "identity": {"one_liner": "10K+ 开源项目精选清单：机器学习、NLP、生物医药等分类导航", "review": "个人维护的 awesome 类项目聚合清单，收录 10K+ 个开源项目，按机器学习与深度学习、NLP、GNN、推荐系统、生物医药、机器视觉、前后端开发等大类及细分子类组织。README 仅展示近两个月新增的前 256 个项目，完整内容建议 clone 到本地后阅读或搜索。条目附带项目简介与链接，设有 Discord 社区，持续更新。使用者通过目录浏览或本地检索发现项目。", "highlights": ["收录 10K+ 项目，覆盖机器学习、NLP、GNN、推荐系统、生物医药、机器视觉等", "多级目录分类组织，条目附简介与链接", "README 仅展示近两月新增的 256 个项目，完整内容需 clone 后查看"], "use_cases": ["按领域分类查找机器学习/AI 相关开源项目", "跟踪近期新增的开源项目动态", "为选型或学习收集候选项目清单"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "项目导航", "机器学习", "NLP", "知识聚合"], "domain": "AI/开源项目知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "大量中文条目简介"]}, "trust": {"confidence": "high", "evidence": ["L16:  精选了10K+项目，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉等内容。", "L38: # A01_机器学习与深度学习"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wuwenjie1992/StarryDivineSky",
+ "sha": "266e75508807",
+ "source": "readme",
+ "identity": {
+  "one_liner": "10K+ 开源项目精选清单：机器学习、NLP、生物医药等分类导航",
+  "review": "个人维护的 awesome 类项目聚合清单，收录 10K+ 个开源项目，按机器学习与深度学习、NLP、GNN、推荐系统、生物医药、机器视觉、前后端开发等大类及细分子类组织。README 仅展示近两个月新增的前 256 个项目，完整内容建议 clone 到本地后阅读或搜索。条目附带项目简介与链接，设有 Discord 社区，持续更新。使用者通过目录浏览或本地检索发现项目。",
+  "highlights": [
+   "收录 10K+ 项目，覆盖机器学习、NLP、GNN、推荐系统、生物医药、机器视觉等",
+   "多级目录分类组织，条目附简介与链接",
+   "README 仅展示近两月新增的 256 个项目，完整内容需 clone 后查看"
+  ],
+  "use_cases": [
+   "按领域分类查找机器学习/AI 相关开源项目",
+   "跟踪近期新增的开源项目动态",
+   "为选型或学习收集候选项目清单"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "项目导航",
+   "机器学习",
+   "NLP",
+   "知识聚合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "大量中文条目简介"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16:  精选了10K+项目，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉等内容。",
+   "L38: # A01_机器学习与深度学习"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

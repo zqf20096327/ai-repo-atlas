@@ -1,1 +1,84 @@
-{"fn": "xiaojilele-glitch/WhyBuddy", "sha": "38591c55c75c", "source": "readme", "identity": {"one_liner": "一句话需求推演出可运行产品的门控推演引擎", "review": "SlideRule（中文名面团 AI）是一个产品推演引擎：输入一句话，经 spec→pages→structure→bind→closure 的门控流水线生成包含页面、RBAC、工作流、数据与 AIGC 的五系统 JSON，并在浏览器中作为可操作应用运行，预览无需后端和数据库。每步产物须通过确定性门控，缺失证据则发布闭包失败（fail-closed）。Python FastAPI 引擎为权威，Node 做薄代理。提供 Docker 部署、源码运行与可装入 Trae/Claude 等宿主的 Skill 包；无 LLM key 时回退到确定性模板。", "highlights": ["一句话输入经五跳门控流水线推演出产品结构与规格包", "推演出的模型在浏览器中作为可运行应用执行，预览零后端零数据库", "fail-closed 发布闭包：证据缺失不给绿灯，checks_ledger 记录每次脚本执行", "支持 BYOK（OpenAI 兼容 key 留存浏览器）与无 key 确定性模板回退"], "use_cases": ["产品立项前用一次推演替代长期 PRD 对齐来验证方向", "从一句话生成带 RBAC 与审批流的可运行业务应用原型", "为 Trae/Claude 等 Agent 宿主安装 Skill 包，输入一句话产出可审查的规格包"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://2686521696.github.io/WhyBuddy/agent-loop/sliderule", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI应用生成", "产品推演/规格", "Agent编排", "低代码原型", "浏览器运行时"], "domain": "AI 应用开发/产品工程", "alternative_to": [], "competitors_mentioned": ["Dify"], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文宣传语与中文名「面团 AI」", "示例含剧本杀门店排期等中文场景", "TRAE SOLO 先锋 Skill 奖（国内平台）"]}, "trust": {"confidence": "mid", "evidence": ["L31: **SlideRule** (Chinese product name 面团 AI) is a **product rehearsal engine**. You type one sentence. It rehearses a gate", "L40: 4. **The model runs as an app in the browser.** Five-system JSON is the schema: pages, RBAC, workflow, data, AIGC — zero", "L55: Watch a captured end-to-end rehearsal, open finished examples and **run the generated app**, or BYOK (OpenAI-compatible "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xiaojilele-glitch/WhyBuddy",
+ "sha": "38591c55c75c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一句话需求推演出可运行产品的门控推演引擎",
+  "review": "SlideRule（中文名面团 AI）是一个产品推演引擎：输入一句话，经 spec→pages→structure→bind→closure 的门控流水线生成包含页面、RBAC、工作流、数据与 AIGC 的五系统 JSON，并在浏览器中作为可操作应用运行，预览无需后端和数据库。每步产物须通过确定性门控，缺失证据则发布闭包失败（fail-closed）。Python FastAPI 引擎为权威，Node 做薄代理。提供 Docker 部署、源码运行与可装入 Trae/Claude 等宿主的 Skill 包；无 LLM key 时回退到确定性模板。",
+  "highlights": [
+   "一句话输入经五跳门控流水线推演出产品结构与规格包",
+   "推演出的模型在浏览器中作为可运行应用执行，预览零后端零数据库",
+   "fail-closed 发布闭包：证据缺失不给绿灯，checks_ledger 记录每次脚本执行",
+   "支持 BYOK（OpenAI 兼容 key 留存浏览器）与无 key 确定性模板回退"
+  ],
+  "use_cases": [
+   "产品立项前用一次推演替代长期 PRD 对齐来验证方向",
+   "从一句话生成带 RBAC 与审批流的可运行业务应用原型",
+   "为 Trae/Claude 等 Agent 宿主安装 Skill 包，输入一句话产出可审查的规格包"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://2686521696.github.io/WhyBuddy/agent-loop/sliderule",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI应用生成",
+   "产品推演/规格",
+   "Agent编排",
+   "低代码原型",
+   "浏览器运行时"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Dify"
+  ],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文宣传语与中文名「面团 AI」",
+   "示例含剧本杀门店排期等中文场景",
+   "TRAE SOLO 先锋 Skill 奖（国内平台）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L31: **SlideRule** (Chinese product name 面团 AI) is a **product rehearsal engine**. You type one sentence. It rehearses a gate",
+   "L40: 4. **The model runs as an app in the browser.** Five-system JSON is the schema: pages, RBAC, workflow, data, AIGC — zero",
+   "L55: Watch a captured end-to-end rehearsal, open finished examples and **run the generated app**, or BYOK (OpenAI-compatible "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

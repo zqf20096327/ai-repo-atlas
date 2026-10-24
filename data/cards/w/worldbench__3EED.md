@@ -33,7 +33,7 @@ NeurIPS 2025 Dataset & Benchmark Track 论文 3EED 的官方仓库：发布首�
 
 ## 场景标签
 
- · 领域:3D 视觉/空间智能
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

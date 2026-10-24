@@ -1,1 +1,82 @@
-{"fn": "wasintoh/toh-framework", "sha": "3ca64b8b3004", "source": "readme", "identity": {"one_liner": "向项目安装 AI 多 agent 构建体系的 npm 框架，一次批准自动完成应用", "review": "通过 npx 安装的 AI 编排开发框架：向项目注入 14 个斜杠命令、8 个专职 agent 与 23 个技能，支持 Claude Code、Cursor、Antigravity、Codex、ZCode 五种 IDE/CLI。用户用自然语言下达一句指令并批准一次后，编排器生成 .toh/plan.md 复选框式计划，由各 agent 构建、测试、修复直到检查点验证通过；技术栈固定为 Next.js 16 + React 19 + Supabase + Playwright。面向独立开发者与小团队，提供安装/卸载/更新命令及跨 IDE 的计划恢复。", "highlights": ["14 个命令、8 个 agent、23 个技能一次安装，覆盖 5 种 IDE/CLI", "计划以 .toh/plan.md 文件存在，跨会话与跨 IDE 自动恢复", "TOH LOOP：构建-测试-修复循环，检查点以命令退出码验证", "按角色分层路由模型（haiku 测试 / sonnet 构建 / opus 规划）"], "use_cases": ["独立开发者用一句话从零搭建完整应用", "在多个 AI IDE 之间切换时延续同一份构建计划", "自动执行测试与修复循环直到应用验证完成"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多agent编排", "AI辅助开发", "vibe coding", "CLI工具", "工作流框架"], "domain": "AI 开发工具/agent 编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["泰文文档（Thai Documentation）"]}, "trust": {"confidence": "high", "evidence": ["L12: **Toh Framework** installs an AI \"build department\" into your project: **14 slash commands, 8 specialist agents, and 23 ", "L20: **If you do write code:** it's a plan-as-file loop your agent cannot fake its way out of. The backlog lives in `.toh/pla", "L63: - 🤖 **AI handles everything** - Breaks down tasks, calls agents, executes until done"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wasintoh/toh-framework",
+ "sha": "3ca64b8b3004",
+ "source": "readme",
+ "identity": {
+  "one_liner": "向项目安装 AI 多 agent 构建体系的 npm 框架，一次批准自动完成应用",
+  "review": "通过 npx 安装的 AI 编排开发框架：向项目注入 14 个斜杠命令、8 个专职 agent 与 23 个技能，支持 Claude Code、Cursor、Antigravity、Codex、ZCode 五种 IDE/CLI。用户用自然语言下达一句指令并批准一次后，编排器生成 .toh/plan.md 复选框式计划，由各 agent 构建、测试、修复直到检查点验证通过；技术栈固定为 Next.js 16 + React 19 + Supabase + Playwright。面向独立开发者与小团队，提供安装/卸载/更新命令及跨 IDE 的计划恢复。",
+  "highlights": [
+   "14 个命令、8 个 agent、23 个技能一次安装，覆盖 5 种 IDE/CLI",
+   "计划以 .toh/plan.md 文件存在，跨会话与跨 IDE 自动恢复",
+   "TOH LOOP：构建-测试-修复循环，检查点以命令退出码验证",
+   "按角色分层路由模型（haiku 测试 / sonnet 构建 / opus 规划）"
+  ],
+  "use_cases": [
+   "独立开发者用一句话从零搭建完整应用",
+   "在多个 AI IDE 之间切换时延续同一份构建计划",
+   "自动执行测试与修复循环直到应用验证完成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "AI辅助开发",
+   "vibe coding",
+   "CLI工具",
+   "工作流框架"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "coding-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "泰文文档（Thai Documentation）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **Toh Framework** installs an AI \"build department\" into your project: **14 slash commands, 8 specialist agents, and 23 ",
+   "L20: **If you do write code:** it's a plan-as-file loop your agent cannot fake its way out of. The backlog lives in `.toh/pla",
+   "L63: - 🤖 **AI handles everything** - Breaks down tasks, calls agents, executes until done"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

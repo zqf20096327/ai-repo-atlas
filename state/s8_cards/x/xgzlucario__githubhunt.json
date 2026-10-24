@@ -1,1 +1,82 @@
-{"fn": "xgzlucario/githubhunt", "sha": "1d7f0bb0f84d", "source": "readme", "identity": {"one_liner": "AI Agent 驱动的自然语言 GitHub 仓库搜索工具", "review": "用户用自然语言描述需求，AI Agent（DeepSeek API）识别意图，调用内置搜索工具迭代调整查询，结合本地 MeiliSearch 索引（frequency 匹配策略）实现 GitHub 仓库检索。还支持视觉理解模型分析仓库流程图（需 Steel Browser 与 QWEN API）、从用户 starred 列表搜索、总结仓库功能。需先通过 fetch_repos.py 同步仓库构建索引，用 uv 管理依赖，系统依赖含 MeiliSearch、Python 3.13、DeepSeek API。", "highlights": ["自然语言驱动的 Agent 迭代式仓库搜索", "本地 MeiliSearch 索引（frequency 匹配策略）提升召回率", "视觉理解模型分析仓库流程图（Steel Browser + QWEN）", "支持从用户 starred 列表中搜索"], "use_cases": ["用一句话描述需求精准查找 GitHub 仓库", "让 AI 解释某个仓库的流程图或功能", "在自己关注的仓库列表里做语义搜索"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent", "代码搜索", "开发者工具", "GitHub生态"], "domain": "开发者工具/代码搜索", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "QWEN API 支持"]}, "trust": {"confidence": "high", "evidence": ["L3: githubhunt 是一个基于 AI Agent 的自然语言 Github 仓库搜索工具, 用户通过使用自然语言描述需求, 例如: \"查找 golang 实现的 redis 服务器, 基于 AELoop\", AI Agent 会识别用户的", "L13: - 使用视觉理解模型分析仓库, 例如: \"解释 xgzlucario/rotom 的流程图\""], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xgzlucario/githubhunt",
+ "sha": "1d7f0bb0f84d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Agent 驱动的自然语言 GitHub 仓库搜索工具",
+  "review": "用户用自然语言描述需求，AI Agent（DeepSeek API）识别意图，调用内置搜索工具迭代调整查询，结合本地 MeiliSearch 索引（frequency 匹配策略）实现 GitHub 仓库检索。还支持视觉理解模型分析仓库流程图（需 Steel Browser 与 QWEN API）、从用户 starred 列表搜索、总结仓库功能。需先通过 fetch_repos.py 同步仓库构建索引，用 uv 管理依赖，系统依赖含 MeiliSearch、Python 3.13、DeepSeek API。",
+  "highlights": [
+   "自然语言驱动的 Agent 迭代式仓库搜索",
+   "本地 MeiliSearch 索引（frequency 匹配策略）提升召回率",
+   "视觉理解模型分析仓库流程图（Steel Browser + QWEN）",
+   "支持从用户 starred 列表中搜索"
+  ],
+  "use_cases": [
+   "用一句话描述需求精准查找 GitHub 仓库",
+   "让 AI 解释某个仓库的流程图或功能",
+   "在自己关注的仓库列表里做语义搜索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "代码搜索",
+   "开发者工具",
+   "GitHub生态"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "semantic-search",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QWEN API 支持"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: githubhunt 是一个基于 AI Agent 的自然语言 Github 仓库搜索工具, 用户通过使用自然语言描述需求, 例如: \"查找 golang 实现的 redis 服务器, 基于 AELoop\", AI Agent 会识别用户的",
+   "L13: - 使用视觉理解模型分析仓库, 例如: \"解释 xgzlucario/rotom 的流程图\""
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

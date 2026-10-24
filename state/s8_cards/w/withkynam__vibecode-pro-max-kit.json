@@ -1,1 +1,77 @@
-{"fn": "withkynam/vibecode-pro-max-kit", "sha": "e164f19bf611", "source": "readme", "identity": {"one_liner": "给 AI 编程 agent 装上计划优先流程与记忆的开发套件", "review": "面向使用 Claude Code、Codex、Cursor 等 AI 编程工具的开发者与产品负责人的 agent 装具（harness）：通过一条 curl 命令安装到项目，注入 15 个专用 agent、33 个技能、10 个钩子与 22 个协议，以 RIPER-5 七阶段门控流程（研究→规格→计划→执行等）约束 agent 先规划后编码；提供 /goal 免手值守运行块、PVL/EVL 自修复检查循环、按阶段写盘的进度记忆与自更新项目知识。安装为 bash 脚本，需 Node.js≥22、git、bash 环境，Windows 需经 Git Bash 或 WSL 运行。", "highlights": ["RIPER-5 七阶段门控工作流，抑制 agent 直接写代码", "/goal 块跨会话恢复免手自动运行", "15 agents + 33 skills + 10 hooks + 36 validators 随装即用", "进度与项目知识写盘，会话重置后可续跑"], "use_cases": ["让 AI 编程 agent 按规格与计划流程交付功能", "长任务跨会话免手执行且不丢失上下文", "产品负责人在写代码前审阅书面计划"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编程", "agent工作流", "Claude Code生态", "spec-driven开发"], "domain": "AI 编程工具/开发流程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L26: *Drop this into any project. Your AI agent gets a complete plan-first dev process — 7 gated phases, self-healing check l", "L29:  🌐 Works everywhere Any tech stack, any language, and any AI coding agent — Claude Code, Codex, Cursor, Windsurf, Copilo", "L173:  🔧 7 Tools Claude Code · Codex · Cursor · Windsurf · Antigravity · OpenCode · Copilot"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "withkynam/vibecode-pro-max-kit",
+ "sha": "e164f19bf611",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 编程 agent 装上计划优先流程与记忆的开发套件",
+  "review": "面向使用 Claude Code、Codex、Cursor 等 AI 编程工具的开发者与产品负责人的 agent 装具（harness）：通过一条 curl 命令安装到项目，注入 15 个专用 agent、33 个技能、10 个钩子与 22 个协议，以 RIPER-5 七阶段门控流程（研究→规格→计划→执行等）约束 agent 先规划后编码；提供 /goal 免手值守运行块、PVL/EVL 自修复检查循环、按阶段写盘的进度记忆与自更新项目知识。安装为 bash 脚本，需 Node.js≥22、git、bash 环境，Windows 需经 Git Bash 或 WSL 运行。",
+  "highlights": [
+   "RIPER-5 七阶段门控工作流，抑制 agent 直接写代码",
+   "/goal 块跨会话恢复免手自动运行",
+   "15 agents + 33 skills + 10 hooks + 36 validators 随装即用",
+   "进度与项目知识写盘，会话重置后可续跑"
+  ],
+  "use_cases": [
+   "让 AI 编程 agent 按规格与计划流程交付功能",
+   "长任务跨会话免手执行且不丢失上下文",
+   "产品负责人在写代码前审阅书面计划"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程",
+   "agent工作流",
+   "Claude Code生态",
+   "spec-driven开发"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L26: *Drop this into any project. Your AI agent gets a complete plan-first dev process — 7 gated phases, self-healing check l",
+   "L29:  🌐 Works everywhere Any tech stack, any language, and any AI coding agent — Claude Code, Codex, Cursor, Windsurf, Copilo",
+   "L173:  🔧 7 Tools Claude Code · Codex · Cursor · Windsurf · Antigravity · OpenCode · Copilot"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

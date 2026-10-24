@@ -1,1 +1,74 @@
-{"fn": "x-tabdeveloping/turftopic", "sha": "b2d910032f98", "source": "readme", "identity": {"one_liner": "基于 Transformer 表征的主题建模 Python 库，供文本分析者提取与解读主题", "review": "Turftopic 是一个主题建模库，使用 sentence-transformers 产生的上下文表征训练多种主题模型（S³、KeyNMF、GMM、聚类模型 BERTopic/Top2Vec、FASTopic 等），支持动态、在线、种子、层级与多模态场景。模型遵循 scikit-learn API 约定，提供 pretty printing、可视化与 topicwizard 集成；可用 LLM 或 n-gram 检索自动命名主题。以 Python 包从 PyPI 安装，多个功能（Pyro、UMAP、OpenAI、spaCy）为可选依赖。", "highlights": ["多种上下文主题模型实现（S³、KeyNMF、GMM、聚类与自编码类）", "支持动态/在线/种子/层级/多模态主题建模", "LLM 或 n-gram 检索自动生成主题名称", "遵循 scikit-learn API，集成 topicwizard 可视化"], "use_cases": ["对文档语料做主题建模并解读主题", "追踪主题随时间的变化（动态主题建模）", "用 LLM 为聚类出的主题自动命名与描述"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/2406.09556", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["NLP", "主题建模", "文本挖掘", "无监督学习"], "domain": "自然语言处理/文本挖掘", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: Topic modeling is your turf too. Contextual topic models with representations from transformers.", "L8: |SOTA Transformer-based Topic Models|:compass: S³, :key: KeyNMF, :gem: GMM, 🗻 Topeax, 🌀 SensTopic, Clustering Models (BE"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "x-tabdeveloping/turftopic",
+ "sha": "b2d910032f98",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Transformer 表征的主题建模 Python 库，供文本分析者提取与解读主题",
+  "review": "Turftopic 是一个主题建模库，使用 sentence-transformers 产生的上下文表征训练多种主题模型（S³、KeyNMF、GMM、聚类模型 BERTopic/Top2Vec、FASTopic 等），支持动态、在线、种子、层级与多模态场景。模型遵循 scikit-learn API 约定，提供 pretty printing、可视化与 topicwizard 集成；可用 LLM 或 n-gram 检索自动命名主题。以 Python 包从 PyPI 安装，多个功能（Pyro、UMAP、OpenAI、spaCy）为可选依赖。",
+  "highlights": [
+   "多种上下文主题模型实现（S³、KeyNMF、GMM、聚类与自编码类）",
+   "支持动态/在线/种子/层级/多模态主题建模",
+   "LLM 或 n-gram 检索自动生成主题名称",
+   "遵循 scikit-learn API，集成 topicwizard 可视化"
+  ],
+  "use_cases": [
+   "对文档语料做主题建模并解读主题",
+   "追踪主题随时间的变化（动态主题建模）",
+   "用 LLM 为聚类出的主题自动命名与描述"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2406.09556",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "NLP",
+   "主题建模",
+   "文本挖掘",
+   "无监督学习"
+  ],
+  "domain": "自然语言处理/文本挖掘",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: Topic modeling is your turf too. Contextual topic models with representations from transformers.",
+   "L8: |SOTA Transformer-based Topic Models|:compass: S³, :key: KeyNMF, :gem: GMM, 🗻 Topeax, 🌀 SensTopic, Clustering Models (BE"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

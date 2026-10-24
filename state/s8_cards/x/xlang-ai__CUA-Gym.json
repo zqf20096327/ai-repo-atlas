@@ -1,1 +1,78 @@
-{"fn": "xlang-ai/CUA-Gym", "sha": "bab19cecc4a7", "source": "readme", "identity": {"one_liner": "为计算机使用代理合成可验证 RLVR 训练数据的流水线与数据集", "review": "面向计算机使用代理（CUA）的 RLVR 训练数据合成流水线：对给定主题，由 Generator、Discriminator、Orchestrator 三个代理协同生成任务指令、环境状态与奖励函数，经对抗式协同循环验证（reward(golden)=1.0、reward(initial)=0.0），再用 LLM 多数投票过滤器与教师 rollout 过滤。覆盖 110 个环境（16 个桌面应用 + 94 个合成 mock Web 应用），产出 32,112 条已验证训练元组，附带 CUA-Gym-Hub mock 环境套件与 Hugging Face 数据集下载。需配置 OPENAI_API_KEY 等凭据；Web 任务需自行部署 CUA-Gym-Hub 端点。训练模型尚未发布。", "highlights": ["三代理对抗协同循环产出经验证的任务-环境-奖励三元组", "110 个环境（16 桌面应用 + 94 合成 mock Web 应用）", "32,112 条已验证 RLVR 训练元组，Hugging Face 公开下载", "CUA-Gym-Hub 提供统一状态 API 的 mock Web 应用，支持状态注入与会话隔离"], "use_cases": ["为计算机使用代理构建可验证的强化学习训练任务", "自行部署 mock Web 环境进行 CUA 训练与评测", "下载现成 RLVR 数据集训练自己的 CUA 模型"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["computer-use agent", "RLVR/强化学习", "数据合成", "训练环境", "数据集"], "domain": "LLM 训练基础设施/数据合成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L16: CUA-Gym is a scalable pipeline for synthesizing verifiable RLVR training data for computer-use agents (CUAs). Given a to", "L27: Training computer-use agents with reinforcement learning requires a consistent triple of **(task instruction, executable", "L39: **Dataset.** The resulting CUA-Gym dataset contains **32,112** verified RLVR training tuples."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xlang-ai/CUA-Gym",
+ "sha": "bab19cecc4a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为计算机使用代理合成可验证 RLVR 训练数据的流水线与数据集",
+  "review": "面向计算机使用代理（CUA）的 RLVR 训练数据合成流水线：对给定主题，由 Generator、Discriminator、Orchestrator 三个代理协同生成任务指令、环境状态与奖励函数，经对抗式协同循环验证（reward(golden)=1.0、reward(initial)=0.0），再用 LLM 多数投票过滤器与教师 rollout 过滤。覆盖 110 个环境（16 个桌面应用 + 94 个合成 mock Web 应用），产出 32,112 条已验证训练元组，附带 CUA-Gym-Hub mock 环境套件与 Hugging Face 数据集下载。需配置 OPENAI_API_KEY 等凭据；Web 任务需自行部署 CUA-Gym-Hub 端点。训练模型尚未发布。",
+  "highlights": [
+   "三代理对抗协同循环产出经验证的任务-环境-奖励三元组",
+   "110 个环境（16 桌面应用 + 94 合成 mock Web 应用）",
+   "32,112 条已验证 RLVR 训练元组，Hugging Face 公开下载",
+   "CUA-Gym-Hub 提供统一状态 API 的 mock Web 应用，支持状态注入与会话隔离"
+  ],
+  "use_cases": [
+   "为计算机使用代理构建可验证的强化学习训练任务",
+   "自行部署 mock Web 环境进行 CUA 训练与评测",
+   "下载现成 RLVR 数据集训练自己的 CUA 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "computer-use agent",
+   "RLVR/强化学习",
+   "数据合成",
+   "训练环境",
+   "数据集"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L16: CUA-Gym is a scalable pipeline for synthesizing verifiable RLVR training data for computer-use agents (CUAs). Given a to",
+   "L27: Training computer-use agents with reinforcement learning requires a consistent triple of **(task instruction, executable",
+   "L39: **Dataset.** The resulting CUA-Gym dataset contains **32,112** verified RLVR training tuples."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

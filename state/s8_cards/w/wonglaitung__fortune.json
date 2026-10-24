@@ -1,1 +1,83 @@
-{"fn": "wonglaitung/fortune", "sha": "55587538f31c", "source": "readme", "identity": {"one_liner": "港股/A股金融量化分析框架：ML 预测与大模型分析，附假设验证体系", "review": "面向个人/小团队的金融量化研究框架，覆盖港股（32 只自选股，恒指三周期/个股预测/异常检测）与 A股（53 只股票池，三周期/买卖建议/板块分析），另有加密货币与黄金的外围监控。核心模型为 CatBoost（Walk-forward PIT/embargo），大模型经 OpenAI 兼容端点（opencode zen，deepseek-v4-flash）做解释与上下文，不作 alpha；数据来自 yfinance、腾讯财经与 AKShare。项目声明经严格验证未发现可交易 edge，自定位为工程化、展示与风控/研究框架，价值集中于假设验证体系（三道闸、决策台账、复现基线）。通过 git clone 从源码安装，GitHub Actions 定时调度，邮件推送报告。", "highlights": ["CatBoost 三周期预测（5/10/20d）+ 异常检测（Z-Score + Isolation Forest）", "A/B/C 三道闸假设验证体系（泄漏/过拟合/净IR）与 70+ 条决策台账", "GitHub Actions 定时调度全流程自动化（数据采集→预测→邮件推送）", "大模型经 OpenAI 兼容端点做解释分析，明确定位不作 alpha"], "use_cases": ["跑每日港股/A股分析报告作为研究参考", "用三道闸与 Walk-forward 流程验证自己的量化策略假设", "复用假设验证框架检验日频横截面策略的证据链"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["量化研究", "港股/A股分析", "假设验证", "自动化调度", "LLM分析"], "domain": "金融/量化研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "A股/北向资金支持", "中文文档（docs/量化交易误解-正式文档.md）"]}, "trust": {"confidence": "high", "evidence": ["L5: 实践**人机混合智能**理念的**金融量化研究框架**：整合**大模型分析**与**机器学习预测**，覆盖**港股 / A股 两大市场**。", "L118: |①|🇭🇰 **港股预测系统**|恒指三周期 + 个股预测 + 异常检测|能跑的系统；**alpha 未发现**（不显著）|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wonglaitung/fortune",
+ "sha": "55587538f31c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "港股/A股金融量化分析框架：ML 预测与大模型分析，附假设验证体系",
+  "review": "面向个人/小团队的金融量化研究框架，覆盖港股（32 只自选股，恒指三周期/个股预测/异常检测）与 A股（53 只股票池，三周期/买卖建议/板块分析），另有加密货币与黄金的外围监控。核心模型为 CatBoost（Walk-forward PIT/embargo），大模型经 OpenAI 兼容端点（opencode zen，deepseek-v4-flash）做解释与上下文，不作 alpha；数据来自 yfinance、腾讯财经与 AKShare。项目声明经严格验证未发现可交易 edge，自定位为工程化、展示与风控/研究框架，价值集中于假设验证体系（三道闸、决策台账、复现基线）。通过 git clone 从源码安装，GitHub Actions 定时调度，邮件推送报告。",
+  "highlights": [
+   "CatBoost 三周期预测（5/10/20d）+ 异常检测（Z-Score + Isolation Forest）",
+   "A/B/C 三道闸假设验证体系（泄漏/过拟合/净IR）与 70+ 条决策台账",
+   "GitHub Actions 定时调度全流程自动化（数据采集→预测→邮件推送）",
+   "大模型经 OpenAI 兼容端点做解释分析，明确定位不作 alpha"
+  ],
+  "use_cases": [
+   "跑每日港股/A股分析报告作为研究参考",
+   "用三道闸与 Walk-forward 流程验证自己的量化策略假设",
+   "复用假设验证框架检验日频横截面策略的证据链"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化研究",
+   "港股/A股分析",
+   "假设验证",
+   "自动化调度",
+   "LLM分析"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "A股/北向资金支持",
+   "中文文档（docs/量化交易误解-正式文档.md）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 实践**人机混合智能**理念的**金融量化研究框架**：整合**大模型分析**与**机器学习预测**，覆盖**港股 / A股 两大市场**。",
+   "L118: |①|🇭🇰 **港股预测系统**|恒指三周期 + 个股预测 + 异常检测|能跑的系统；**alpha 未发现**（不显著）|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

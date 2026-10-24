@@ -33,7 +33,7 @@ Vuetify 官方维护的 Model Context Protocol 服务器，把 Vuetify 组件库
 
 ## 场景标签
 
- · 领域:前端开发/AI 工具集成
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 

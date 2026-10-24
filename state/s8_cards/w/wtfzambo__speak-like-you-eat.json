@@ -1,1 +1,77 @@
-{"fn": "wtfzambo/speak-like-you-eat", "sha": "94fce2a53c65", "source": "readme", "identity": {"one_liner": "Pi/OMP 插件：把 AI 回答改写成平实语言（≤30字：给 Pi/OMP 用户把 AI 回答重写为平实语言）", "review": "面向 Pi 与 Oh My Pi（OMP）终端使用者的扩展包：在一条回答完成后，通过 /slye 命令或自动模式调用所选模型，在原回答下方追加一张平实语言改写卡片，原文保持不变且卡片不进入 LLM 上下文。Pi 上每张卡片含 ELI5 与 Light 两个版本（两次并行请求，成本约为单版本两倍），OMP 仅显示 Light 版。支持自定义 Light 系统提示、模型与范围选择；自动改写要求回答含至少 200 个非空白正文字符。README 基于小规模人工试用给出模型排序观察（非保证）。", "highlights": ["按需 /slye 或自动模式改写最近完成的助手回答，原文保持不变", "Pi 提供 ELI5 与 Light 双版本卡片（ctrl+\\ 切换），OMP 仅 Light", "可用 slye-prompt.md 自定义 Light 系统提示", "改写发送隔离负载，不加载项目文件、技能或完整会话历史"], "use_cases": ["把冗长或充满行话的 AI 回答转成易读的平实语言", "在 Pi/OMP 中自动为符合条件（≥200 字符正文）的回答追加通俗版", "用自选便宜快速模型生成保留结论、行动与代码示例的摘要版回答"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["写作辅助", "LLM客户端插件", "文本改写", "可读性"], "domain": "AI 客户端扩展/写作辅助", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: SLYE is a Pi and Oh My Pi (OMP) package that adds a plain-language rewrite after a completed response.", "L35: 1. After Pi or OMP finishes an answer, run `/slye` for an eligible target. It rewrites the latest completed assistant re", "L50: - **ELI5** (active by default): rebuilds the answer for a reader who wants the point fast. It starts with the conclusion"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wtfzambo/speak-like-you-eat",
+ "sha": "94fce2a53c65",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Pi/OMP 插件：把 AI 回答改写成平实语言（≤30字：给 Pi/OMP 用户把 AI 回答重写为平实语言）",
+  "review": "面向 Pi 与 Oh My Pi（OMP）终端使用者的扩展包：在一条回答完成后，通过 /slye 命令或自动模式调用所选模型，在原回答下方追加一张平实语言改写卡片，原文保持不变且卡片不进入 LLM 上下文。Pi 上每张卡片含 ELI5 与 Light 两个版本（两次并行请求，成本约为单版本两倍），OMP 仅显示 Light 版。支持自定义 Light 系统提示、模型与范围选择；自动改写要求回答含至少 200 个非空白正文字符。README 基于小规模人工试用给出模型排序观察（非保证）。",
+  "highlights": [
+   "按需 /slye 或自动模式改写最近完成的助手回答，原文保持不变",
+   "Pi 提供 ELI5 与 Light 双版本卡片（ctrl+\\ 切换），OMP 仅 Light",
+   "可用 slye-prompt.md 自定义 Light 系统提示",
+   "改写发送隔离负载，不加载项目文件、技能或完整会话历史"
+  ],
+  "use_cases": [
+   "把冗长或充满行话的 AI 回答转成易读的平实语言",
+   "在 Pi/OMP 中自动为符合条件（≥200 字符正文）的回答追加通俗版",
+   "用自选便宜快速模型生成保留结论、行动与代码示例的摘要版回答"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "写作辅助",
+   "LLM客户端插件",
+   "文本改写",
+   "可读性"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: SLYE is a Pi and Oh My Pi (OMP) package that adds a plain-language rewrite after a completed response.",
+   "L35: 1. After Pi or OMP finishes an answer, run `/slye` for an eligible target. It rewrites the latest completed assistant re",
+   "L50: - **ELI5** (active by default): rebuilds the answer for a reader who wants the point fast. It starts with the conclusion"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

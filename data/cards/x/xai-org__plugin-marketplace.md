@@ -33,7 +33,7 @@ xAI 维护的 Grok Build 插件官方目录仓库：以 .grok-plugin/marketplace
 
 ## 场景标签
 
- · 领域:AI 开发工具/插件分发
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

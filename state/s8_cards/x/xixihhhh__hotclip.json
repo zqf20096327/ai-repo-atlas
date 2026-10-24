@@ -1,1 +1,88 @@
-{"fn": "xixihhhh/hotclip", "sha": "04db75303484", "source": "readme", "identity": {"one_liner": "本地运行的 AI 长视频/直播回放切片工具，一键生成竖屏短视频", "review": "面向主播、切片手、带货团队、播客主的桌面端（Electron）视频剪辑工具：导入长视频或直播回放，本地逐字转写（SenseVoice/Paraformer/FireRedASR 三档）后由 LLM 挑选高光片段，切点由转写反向对齐，附爆款分与推荐理由；结合弹幕热度、响度、表情等多路信号，自动生成 9:16 竖屏成片、动态字幕、封面与发布文案。全程本地处理、无水印不上传，Windows/macOS 提供安装包，Linux 为实验性 AppImage；提供 CLI 与 MCP 工具，可选本机 Ollama 视觉模型参与画面研判。", "highlights": ["本地三档转写引擎 + LLM 找爆点，切点逐字对齐并附爆款分/推荐理由", "弹幕（B站录播姬/抖音）互动热度进入爆点判断", "9:16 竖屏重构、逐字动态字幕、发布文案与平台发布包一次出齐", "AGPL-3.0 开源、全程本地运行、无需注册，提供 CLI/MCP 与录播 7×24 监听自动出片"], "use_cases": ["下播后把几小时直播回放自动切成高光短视频", "播客纯音频自动合成波形动画竖屏视频", "带货直播按转化逻辑批量出切片并整理各平台发布包"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": [84], "note": "仅 Linux 构建标注实验性"}}, "links": {"scenario_tags": ["视频剪辑", "直播切片", "本地优先", "桌面应用", "自动字幕"], "domain": "视频剪辑/内容创作", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["简体中文为主 README", "抖音/快手/B站/视频号/小红书平台适配", "B站录播姬弹幕格式支持", "AIGC 标识按国内办法内建"]}, "trust": {"confidence": "mid", "evidence": ["L58: 2. **AI 找爆点**:本地逐字转写 → AI 通读全文挑出金句、冲突、高能片段,每条附**爆款分、开场钩子和推荐理由**,切点精确到词;看不顺眼的取消勾选即可", "L123: 快速 SenseVoice(五语种,170MB)/ 均衡 Paraformer(中文更准)/ 最准 FireRedASR2(普通话/方言/中英混说)——全部本地运行、普通 CPU 就能跑,首次自动下载(国内镜像优先、断点续传);另有云端档 "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xixihhhh/hotclip",
+ "sha": "04db75303484",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的 AI 长视频/直播回放切片工具，一键生成竖屏短视频",
+  "review": "面向主播、切片手、带货团队、播客主的桌面端（Electron）视频剪辑工具：导入长视频或直播回放，本地逐字转写（SenseVoice/Paraformer/FireRedASR 三档）后由 LLM 挑选高光片段，切点由转写反向对齐，附爆款分与推荐理由；结合弹幕热度、响度、表情等多路信号，自动生成 9:16 竖屏成片、动态字幕、封面与发布文案。全程本地处理、无水印不上传，Windows/macOS 提供安装包，Linux 为实验性 AppImage；提供 CLI 与 MCP 工具，可选本机 Ollama 视觉模型参与画面研判。",
+  "highlights": [
+   "本地三档转写引擎 + LLM 找爆点，切点逐字对齐并附爆款分/推荐理由",
+   "弹幕（B站录播姬/抖音）互动热度进入爆点判断",
+   "9:16 竖屏重构、逐字动态字幕、发布文案与平台发布包一次出齐",
+   "AGPL-3.0 开源、全程本地运行、无需注册，提供 CLI/MCP 与录播 7×24 监听自动出片"
+  ],
+  "use_cases": [
+   "下播后把几小时直播回放自动切成高光短视频",
+   "播客纯音频自动合成波形动画竖屏视频",
+   "带货直播按转化逻辑批量出切片并整理各平台发布包"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    84
+   ],
+   "note": "仅 Linux 构建标注实验性"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频剪辑",
+   "直播切片",
+   "本地优先",
+   "桌面应用",
+   "自动字幕"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文为主 README",
+   "抖音/快手/B站/视频号/小红书平台适配",
+   "B站录播姬弹幕格式支持",
+   "AIGC 标识按国内办法内建"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L58: 2. **AI 找爆点**:本地逐字转写 → AI 通读全文挑出金句、冲突、高能片段,每条附**爆款分、开场钩子和推荐理由**,切点精确到词;看不顺眼的取消勾选即可",
+   "L123: 快速 SenseVoice(五语种,170MB)/ 均衡 Paraformer(中文更准)/ 最准 FireRedASR2(普通话/方言/中英混说)——全部本地运行、普通 CPU 就能跑,首次自动下载(国内镜像优先、断点续传);另有云端档 "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

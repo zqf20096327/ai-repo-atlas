@@ -33,7 +33,7 @@ ICCV 2025 Oral 论文官方代码库，实现 Token Activation Map（TAM）方�
 
 ## 场景标签
 
- · 领域:可解释 AI/多模态 LLM
+`模型评测` `多模态` · 领域:评测与运维
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ Apache-2.0 开源的 agent 协作平台社区版：控制平面负责需求理�
 
 ## 场景标签
 
- · 领域:AI agent 协作/DevOps 平台
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

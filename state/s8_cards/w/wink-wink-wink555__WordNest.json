@@ -1,1 +1,84 @@
-{"fn": "wink-wink-wink555/WordNest", "sha": "f7253d1da901", "source": "readme", "identity": {"one_liner": "基于 Flask 的个人生词本 Web 应用，配 AI 例句与词汇知识图谱", "review": "面向英语学习者的本地部署 Flask Web 应用：仅收录用户手动添加的生词，提供随机抽查、多词性释义编辑、星标重点、快捷键刷词、多单词列表与 CSV 导出。AI 为可选功能：通过 Ollama 本地运行 Qwen 模型生成例句与记忆技巧，通过 DeepSeek API 绘制词汇关联知识图谱并给出学习路径建议；未配置 API 时基础词库功能仍可使用。默认 SQLite，支持切换 PostgreSQL/MySQL，可用 Gunicorn 部署。", "highlights": ["只收录用户手动添加的生词，支持多列表与星标管理", "Ollama + Qwen 本地生成例句与记忆技巧", "DeepSeek API 绘制词汇关联知识图谱（Beta）", "三层架构（路由/服务/数据），支持 SQLite/PostgreSQL/MySQL"], "use_cases": ["把自己总记不住的生词集中收录并反复抽查", "让 AI 为生词生成例句和记忆方法", "通过知识图谱查看单词间关联和学习路径"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["英语学习", "背单词", "Web应用/Flask", "知识图谱可视化", "本地部署"], "domain": "教育/语言学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "作者含 Bilibili 账号（L389）"]}, "trust": {"confidence": "high", "evidence": ["L35: - **专属词汇库**：只收录你自己添加的生词，告别无用功！(๑•̀ㅂ•́)و✧", "L40: - **智能例句生成**：Ollama + Qwen本地大模型，秒出地道例句 ٩(◕‿◕)۶", "L52: - **离线使用**：没网也能背单词，地铁上的学习时光不浪费"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wink-wink-wink555/WordNest",
+ "sha": "f7253d1da901",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Flask 的个人生词本 Web 应用，配 AI 例句与词汇知识图谱",
+  "review": "面向英语学习者的本地部署 Flask Web 应用：仅收录用户手动添加的生词，提供随机抽查、多词性释义编辑、星标重点、快捷键刷词、多单词列表与 CSV 导出。AI 为可选功能：通过 Ollama 本地运行 Qwen 模型生成例句与记忆技巧，通过 DeepSeek API 绘制词汇关联知识图谱并给出学习路径建议；未配置 API 时基础词库功能仍可使用。默认 SQLite，支持切换 PostgreSQL/MySQL，可用 Gunicorn 部署。",
+  "highlights": [
+   "只收录用户手动添加的生词，支持多列表与星标管理",
+   "Ollama + Qwen 本地生成例句与记忆技巧",
+   "DeepSeek API 绘制词汇关联知识图谱（Beta）",
+   "三层架构（路由/服务/数据），支持 SQLite/PostgreSQL/MySQL"
+  ],
+  "use_cases": [
+   "把自己总记不住的生词集中收录并反复抽查",
+   "让 AI 为生词生成例句和记忆方法",
+   "通过知识图谱查看单词间关联和学习路径"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "英语学习",
+   "背单词",
+   "Web应用/Flask",
+   "知识图谱可视化",
+   "本地部署"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "作者含 Bilibili 账号（L389）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: - **专属词汇库**：只收录你自己添加的生词，告别无用功！(๑•̀ㅂ•́)و✧",
+   "L40: - **智能例句生成**：Ollama + Qwen本地大模型，秒出地道例句 ٩(◕‿◕)۶",
+   "L52: - **离线使用**：没网也能背单词，地铁上的学习时光不浪费"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

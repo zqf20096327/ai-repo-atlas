@@ -1,1 +1,77 @@
-{"fn": "wjq-learning/CBraMod", "sha": "319163642308", "source": "readme", "identity": {"one_liner": "面向 EEG 解码的脑电基础模型（ICLR 2025），含预训练权重", "review": "CBraMod 是发表于 ICLR 2025 的 EEG 基础模型论文官方代码库，面向临床与 BCI 应用场景的脑电解码研究。提供预训练脚本 pretrain_main.py、微调脚本 finetune_main.py，并在 Hugging Face 上发布预训练 checkpoint。安装需先装 Python 与 PyTorch，再 pip install -r requirements.txt；可通过 Quick Start 示例代码加载模型在自定义下游数据集上微调。README 声明代码仍在持续改进以形成标准化流程。", "highlights": ["Criss-Cross 结构的 EEG 基础模型，覆盖临床与 BCI 应用", "提供预训练与微调脚本", "在 Hugging Face 发布预训练 checkpoint", "支持在自定义下游数据集上微调的示例代码"], "use_cases": ["在自有 EEG 数据集上微调做下游解码任务", "复现论文的预训练与微调流程", "基于公开 checkpoint 开展脑电研究"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["EEG", "基础模型", "脑机接口", "预训练模型"], "domain": "脑电解码/神经计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L22: We propose **CBraMod**, a novel EEG foundation model, for EEG decoding on various clinical and BCI application.", "L19: 🔥 NEWS: The paper \"_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_\" has been accepted by ICLR 2025!"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wjq-learning/CBraMod",
+ "sha": "319163642308",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 EEG 解码的脑电基础模型（ICLR 2025），含预训练权重",
+  "review": "CBraMod 是发表于 ICLR 2025 的 EEG 基础模型论文官方代码库，面向临床与 BCI 应用场景的脑电解码研究。提供预训练脚本 pretrain_main.py、微调脚本 finetune_main.py，并在 Hugging Face 上发布预训练 checkpoint。安装需先装 Python 与 PyTorch，再 pip install -r requirements.txt；可通过 Quick Start 示例代码加载模型在自定义下游数据集上微调。README 声明代码仍在持续改进以形成标准化流程。",
+  "highlights": [
+   "Criss-Cross 结构的 EEG 基础模型，覆盖临床与 BCI 应用",
+   "提供预训练与微调脚本",
+   "在 Hugging Face 发布预训练 checkpoint",
+   "支持在自定义下游数据集上微调的示例代码"
+  ],
+  "use_cases": [
+   "在自有 EEG 数据集上微调做下游解码任务",
+   "复现论文的预训练与微调流程",
+   "基于公开 checkpoint 开展脑电研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "EEG",
+   "基础模型",
+   "脑机接口",
+   "预训练模型"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L22: We propose **CBraMod**, a novel EEG foundation model, for EEG decoding on various clinical and BCI application.",
+   "L19: 🔥 NEWS: The paper \"_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_\" has been accepted by ICLR 2025!"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

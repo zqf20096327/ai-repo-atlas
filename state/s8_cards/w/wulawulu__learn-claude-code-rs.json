@@ -1,1 +1,83 @@
-{"fn": "wulawulu/learn-claude-code-rs", "sha": "4af962d026b9", "source": "readme", "identity": {"one_liner": "Rust 编写的渐进式 AI Agent Harness 教程（21 章 + 完整版）", "review": "面向想理解 coding agent 内部实现的开发者，用 Rust 逐步构建 agent harness：从最小 agent loop 出发，逐章加入工具、规划、子 agent、技能加载、上下文压缩、权限、hooks、记忆、多 agent 团队、worktree 隔离、MCP 插件与类型化工具路由，最终整合为 sfull 完整版。每章是独立可运行的 crate，通过环境变量配置 Anthropic 兼容 SDK 接口的模型 API。项目受 shareAI-lab/learn-claude-code 启发，为面向 Rust 生态的重组织教程，MIT 许可。", "highlights": ["21 个独立可运行章节 + 完整整合版 sfull", "覆盖子 agent、记忆、多 agent 团队、worktree 隔离、MCP 插件、工具路由", "示例使用 Anthropic 兼容 SDK 接口，通过 .env 配置 API", "含 agent evaluation 章（eval 用例、确定性断言、LLM-as-a-Judge）"], "use_cases": ["我想学习 Claude Code 类 coding agent 的内部运行机制", "用 Rust 从零构建自己的 AI agent 或 CLI 自动化工具", "理解工具分发、权限、上下文压缩等 agent 工程结构"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent", "教程", "Rust", "coding agent", "MCP"], "domain": "AI 工程/教程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本（English | 中文）", "源自 shareAI-lab/learn-claude-code 的中文社区项目再实现"]}, "trust": {"confidence": "high", "evidence": ["L6: A progressive AI Agent Harness tutorial written in Rust.", "L8: This repository is a Rust-oriented learning path for building an agent harness. It starts with the smallest agent loop a", "L12: Each chapter is an independent runnable Rust crate. You can read them in order or jump directly into a topic to see how "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wulawulu/learn-claude-code-rs",
+ "sha": "4af962d026b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的渐进式 AI Agent Harness 教程（21 章 + 完整版）",
+  "review": "面向想理解 coding agent 内部实现的开发者，用 Rust 逐步构建 agent harness：从最小 agent loop 出发，逐章加入工具、规划、子 agent、技能加载、上下文压缩、权限、hooks、记忆、多 agent 团队、worktree 隔离、MCP 插件与类型化工具路由，最终整合为 sfull 完整版。每章是独立可运行的 crate，通过环境变量配置 Anthropic 兼容 SDK 接口的模型 API。项目受 shareAI-lab/learn-claude-code 启发，为面向 Rust 生态的重组织教程，MIT 许可。",
+  "highlights": [
+   "21 个独立可运行章节 + 完整整合版 sfull",
+   "覆盖子 agent、记忆、多 agent 团队、worktree 隔离、MCP 插件、工具路由",
+   "示例使用 Anthropic 兼容 SDK 接口，通过 .env 配置 API",
+   "含 agent evaluation 章（eval 用例、确定性断言、LLM-as-a-Judge）"
+  ],
+  "use_cases": [
+   "我想学习 Claude Code 类 coding agent 的内部运行机制",
+   "用 Rust 从零构建自己的 AI agent 或 CLI 自动化工具",
+   "理解工具分发、权限、上下文压缩等 agent 工程结构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "教程",
+   "Rust",
+   "coding agent",
+   "MCP"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本（English | 中文）",
+   "源自 shareAI-lab/learn-claude-code 的中文社区项目再实现"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: A progressive AI Agent Harness tutorial written in Rust.",
+   "L8: This repository is a Rust-oriented learning path for building an agent harness. It starts with the smallest agent loop a",
+   "L12: Each chapter is an independent runnable Rust crate. You can read them in order or jump directly into a topic to see how "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

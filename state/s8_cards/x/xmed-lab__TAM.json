@@ -1,1 +1,78 @@
-{"fn": "xmed-lab/TAM", "sha": "4ec029ce808a", "source": "readme", "identity": {"one_liner": "ICCV25 论文方法：可视化解释多模态 LLM 的 Token 激活图", "review": "ICCV 2025 Oral 论文官方代码库，实现 Token Activation Map（TAM）方法：针对多模态 LLM 生成文本的每个 token，计算其依赖的视觉证据并输出可视化结果，含因果推断估计模块与秩高斯滤波模块。提供 demo 脚本（支持图像与视频输入）、在 COCO14/GranDf/OpenPSG 数据集上的定量评测脚本，以及接入自定义 transformers 模型的四步流程。安装依赖 pip requirements 与 texlive-xetex（文本可视化用）。", "highlights": ["按生成 token 计算视觉证据激活图并可视化", "demo 脚本支持图像与视频输入", "提供 COCO14+GranDf+OpenPSG 定量评测", "四步接入自定义 transformers 多模态模型"], "use_cases": ["可视化检查多模态 LLM 回答所依据的图像区域", "论文结果的定量复现与评测", "为自有 MLLM 添加 token 级视觉归因分析"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["可解释AI", "多模态LLM", "视觉归因", "论文代码"], "domain": "可解释 AI/多模态 LLM", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # Token Activation Map to Visually Explain Multimodal LLMs", "L2: [ICCV 2025 Oral] We introduce the Token Activation Map (TAM), a groundbreaking method that cuts through the contextual n", "L53: * Step4: run TAM() to vis each token"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xmed-lab/TAM",
+ "sha": "4ec029ce808a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ICCV25 论文方法：可视化解释多模态 LLM 的 Token 激活图",
+  "review": "ICCV 2025 Oral 论文官方代码库，实现 Token Activation Map（TAM）方法：针对多模态 LLM 生成文本的每个 token，计算其依赖的视觉证据并输出可视化结果，含因果推断估计模块与秩高斯滤波模块。提供 demo 脚本（支持图像与视频输入）、在 COCO14/GranDf/OpenPSG 数据集上的定量评测脚本，以及接入自定义 transformers 模型的四步流程。安装依赖 pip requirements 与 texlive-xetex（文本可视化用）。",
+  "highlights": [
+   "按生成 token 计算视觉证据激活图并可视化",
+   "demo 脚本支持图像与视频输入",
+   "提供 COCO14+GranDf+OpenPSG 定量评测",
+   "四步接入自定义 transformers 多模态模型"
+  ],
+  "use_cases": [
+   "可视化检查多模态 LLM 回答所依据的图像区域",
+   "论文结果的定量复现与评测",
+   "为自有 MLLM 添加 token 级视觉归因分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可解释AI",
+   "多模态LLM",
+   "视觉归因",
+   "论文代码"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Token Activation Map to Visually Explain Multimodal LLMs",
+   "L2: [ICCV 2025 Oral] We introduce the Token Activation Map (TAM), a groundbreaking method that cuts through the contextual n",
+   "L53: * Step4: run TAM() to vis each token"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

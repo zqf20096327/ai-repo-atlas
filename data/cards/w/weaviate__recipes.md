@@ -33,7 +33,7 @@ Weaviate 维护的示例仓库，以 Jupyter notebook 形式提供端到端用�
 
 ## 场景标签
 
- · 领域:向量数据库/LLM 集成示例
+`RAG` `向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 

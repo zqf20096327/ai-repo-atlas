@@ -33,7 +33,7 @@ Apache-2.0 开源、自托管的 agent 平台，由 Vstorm 维护：团队在浏
 
 ## 场景标签
 
- · 领域:企业 AI 基础设施/Agent 平台
+`Agent 框架` `RAG` `浏览器自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

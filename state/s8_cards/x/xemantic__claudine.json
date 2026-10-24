@@ -1,1 +1,82 @@
-{"fn": "xemantic/claudine", "sha": "a5c59ae5f996", "source": "readme", "identity": {"one_liner": "基于 Claude API 的自主 CLI AI 代理，用于学习 harness 工程", "review": "以 Kotlin 编写的命令行 AI 代理，通过 Anthropic API 调用 Claude 模型，配备 5 个工具（读写文件、执行 Shell 命令、打开 URL），结合 Unix 命令行与互联网数据实现自主推理与行动，可编写并执行新工具扩展自身功能。作为 Xemantic agent AI 研究的一部分，同时用于教授 harness 工程的付费工作坊。需设置 ANTHROPIC_API_KEY，通过 Gradle 构建 JVM uberjar 运行，或在 Mac/Linux 上编译为原生二进制（Windows 原生构建暂缺）。GPL-3.0 许可，底层组件为 Apache 2.0。", "highlights": ["5 个基础工具（文件读写、Shell 执行、打开 URL）驱动自主代理行为", "可自行编写并执行新工具、修改自身提示词（元认知）", "支持编译为 Linux/macOS 四平台原生二进制", "基于 anthropic-kotlin-sdk 构建"], "use_cases": ["在自己的机器上通过对话完成文件分析、代码实现与系统管理", "作为实现自主代理的蓝图，扩展 SQL 等领域专用工具", "学习 harness 工程与代理系统设计"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [45]}}, "links": {"scenario_tags": ["AI代理/Agent", "命令行工具", "harness工程", "Anthropic API"], "domain": "AI 代理/CLI 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Claudine reasons and acts autonomously while being Unix-omnipotent and having access to the internet, therefore it might", "L92: Claudine can _reason_, as much as Claude LLM can reason, so you can have any typical interaction like with a conversatio", "L94: * ReadFiles"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xemantic/claudine",
+ "sha": "a5c59ae5f996",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Claude API 的自主 CLI AI 代理，用于学习 harness 工程",
+  "review": "以 Kotlin 编写的命令行 AI 代理，通过 Anthropic API 调用 Claude 模型，配备 5 个工具（读写文件、执行 Shell 命令、打开 URL），结合 Unix 命令行与互联网数据实现自主推理与行动，可编写并执行新工具扩展自身功能。作为 Xemantic agent AI 研究的一部分，同时用于教授 harness 工程的付费工作坊。需设置 ANTHROPIC_API_KEY，通过 Gradle 构建 JVM uberjar 运行，或在 Mac/Linux 上编译为原生二进制（Windows 原生构建暂缺）。GPL-3.0 许可，底层组件为 Apache 2.0。",
+  "highlights": [
+   "5 个基础工具（文件读写、Shell 执行、打开 URL）驱动自主代理行为",
+   "可自行编写并执行新工具、修改自身提示词（元认知）",
+   "支持编译为 Linux/macOS 四平台原生二进制",
+   "基于 anthropic-kotlin-sdk 构建"
+  ],
+  "use_cases": [
+   "在自己的机器上通过对话完成文件分析、代码实现与系统管理",
+   "作为实现自主代理的蓝图，扩展 SQL 等领域专用工具",
+   "学习 harness 工程与代理系统设计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    45
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI代理/Agent",
+   "命令行工具",
+   "harness工程",
+   "Anthropic API"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Claudine reasons and acts autonomously while being Unix-omnipotent and having access to the internet, therefore it might",
+   "L92: Claudine can _reason_, as much as Claude LLM can reason, so you can have any typical interaction like with a conversatio",
+   "L94: * ReadFiles"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ OSWorld 2.0/2.1 是面向 computer use agent 的基准环境：在真实操作�
 
 ## 场景标签
 
- · 领域:AI agent 评测/基准
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

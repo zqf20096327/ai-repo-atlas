@@ -1,1 +1,82 @@
-{"fn": "winyunq/UnrealMotionGraphicsMCP", "sha": "59a7f2a9b00e", "source": "readme", "identity": {"one_liner": "面向 UE5 UMG 界面的 MCP 插件：AI agent 读写界面结构与蓝图", "review": "Unreal Engine 5.8 Win64 的编辑器插件，通过 MCP 工具与 Python 服务器让外部 AI agent 操作 UMG：创建/重构 widget 树并以 JSON 往返导入导出，经 BlueCode 命令创建蓝图节点与连线，编辑材质参数与 HLSL，驱动 UMG 动画轨道与关键帧。多编辑器实例通过发现注册表选择端口。提供 Fab Marketplace 打包版与源码版两种安装路径，模型提供商支持 Gemini API、Google OAuth、ZhipuAI 及 OpenAI 兼容端点。蓝图 API 处于过渡状态，嵌套分支/循环等完整结构化编辑列为 v2 工作。", "highlights": ["UMG widget 树可导出/打补丁/重应用为结构化 JSON", "BlueCode 命令直接创建蓝图节点、引脚与连线，支持干运行与失败回滚", "材质参数与 HLSL 片段编辑、UMG 动画轨道与关键帧操作", "多编辑器实例经发现注册表按端口选择连接"], "use_cases": ["让 AI agent 按自然语言指令搭建 UE5 登录面板等 UMG 界面", "把 UMG 界面文件转为 JSON 做 diff 与版本管理", "通过 MCP 客户端在编辑器外自动化界面与蓝图修改"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [39]}}, "links": {"scenario_tags": ["MCP", "游戏开发", "Unreal Engine", "UI自动化", "AI Agent工具"], "domain": "游戏开发/UE 编辑器工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文版文档入口", "中文文档 Document/index_zh.html"]}, "trust": {"confidence": "mid", "evidence": ["L18: UMG MCP turns Unreal Editor UMG work into explicit, reviewable tool calls. An AI agent can create widgets, update layout", "L70: External MCP clients use the Python server under `Resources/Python`. Each Unreal Editor instance binds an OS-assigned lo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "winyunq/UnrealMotionGraphicsMCP",
+ "sha": "59a7f2a9b00e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 UE5 UMG 界面的 MCP 插件：AI agent 读写界面结构与蓝图",
+  "review": "Unreal Engine 5.8 Win64 的编辑器插件，通过 MCP 工具与 Python 服务器让外部 AI agent 操作 UMG：创建/重构 widget 树并以 JSON 往返导入导出，经 BlueCode 命令创建蓝图节点与连线，编辑材质参数与 HLSL，驱动 UMG 动画轨道与关键帧。多编辑器实例通过发现注册表选择端口。提供 Fab Marketplace 打包版与源码版两种安装路径，模型提供商支持 Gemini API、Google OAuth、ZhipuAI 及 OpenAI 兼容端点。蓝图 API 处于过渡状态，嵌套分支/循环等完整结构化编辑列为 v2 工作。",
+  "highlights": [
+   "UMG widget 树可导出/打补丁/重应用为结构化 JSON",
+   "BlueCode 命令直接创建蓝图节点、引脚与连线，支持干运行与失败回滚",
+   "材质参数与 HLSL 片段编辑、UMG 动画轨道与关键帧操作",
+   "多编辑器实例经发现注册表按端口选择连接"
+  ],
+  "use_cases": [
+   "让 AI agent 按自然语言指令搭建 UE5 登录面板等 UMG 界面",
+   "把 UMG 界面文件转为 JSON 做 diff 与版本管理",
+   "通过 MCP 客户端在编辑器外自动化界面与蓝图修改"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    39
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "游戏开发",
+   "Unreal Engine",
+   "UI自动化",
+   "AI Agent工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文版文档入口",
+   "中文文档 Document/index_zh.html"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: UMG MCP turns Unreal Editor UMG work into explicit, reviewable tool calls. An AI agent can create widgets, update layout",
+   "L70: External MCP clients use the Python server under `Resources/Python`. Each Unreal Editor instance binds an OS-assigned lo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

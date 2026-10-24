@@ -1,1 +1,79 @@
-{"fn": "wladpaiva/aibitat", "sha": "769c22447ed2", "source": "readme", "identity": {"one_liner": "TypeScript 多智能体对话框架，支持人类参与", "review": "AIbitat 是用 TypeScript 编写的多智能体对话框架，自称 AutoGen 的 TypeScript 分叉。以无状态、可扩展方式组织多个 agent 在频道中对话，允许人类作为可交互 agent 加入；默认使用 OpenAI GPT-3.5-Turbo 生成对话、GPT-4 预测下一个发言者。提供函数调用、插件机制（cli、fileHistory、实验性 web 浏览）与生命周期事件（start/error/message/terminate/interrupt）。通过 npm/bun 安装，面向 TypeScript 开发者。", "highlights": ["agent/channel 频道式组织多智能体对话，允许人类参与", "函数调用与 AIbitatPlugin 插件接口扩展", "生命周期事件与 interrupt/terminate/continue 控制机制", "默认 OpenAI GPT-3.5-Turbo 对话、GPT-4 预测下一发言者"], "use_cases": ["搭建多个 AI agent 互相协作对话的应用", "在 agent 对话中加入人类实时参与和干预", "通过插件为 agent 添加 CLI、历史保存、网页浏览等能力"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [145]}}, "links": {"scenario_tags": ["多智能体框架", "LLM Agent", "对话编排", "TypeScript"], "domain": "LLM 基础设施/Agent 框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: AIbitat is a stateless & extensible framework designed to enable interaction", "L9: Think of it as Slack but for AI agents. Create agents, add them to channels and"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wladpaiva/aibitat",
+ "sha": "769c22447ed2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TypeScript 多智能体对话框架，支持人类参与",
+  "review": "AIbitat 是用 TypeScript 编写的多智能体对话框架，自称 AutoGen 的 TypeScript 分叉。以无状态、可扩展方式组织多个 agent 在频道中对话，允许人类作为可交互 agent 加入；默认使用 OpenAI GPT-3.5-Turbo 生成对话、GPT-4 预测下一个发言者。提供函数调用、插件机制（cli、fileHistory、实验性 web 浏览）与生命周期事件（start/error/message/terminate/interrupt）。通过 npm/bun 安装，面向 TypeScript 开发者。",
+  "highlights": [
+   "agent/channel 频道式组织多智能体对话，允许人类参与",
+   "函数调用与 AIbitatPlugin 插件接口扩展",
+   "生命周期事件与 interrupt/terminate/continue 控制机制",
+   "默认 OpenAI GPT-3.5-Turbo 对话、GPT-4 预测下一发言者"
+  ],
+  "use_cases": [
+   "搭建多个 AI agent 互相协作对话的应用",
+   "在 agent 对话中加入人类实时参与和干预",
+   "通过插件为 agent 添加 CLI、历史保存、网页浏览等能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    145
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体框架",
+   "LLM Agent",
+   "对话编排",
+   "TypeScript"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: AIbitat is a stateless & extensible framework designed to enable interaction",
+   "L9: Think of it as Slack but for AI agents. Create agents, add them to channels and"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

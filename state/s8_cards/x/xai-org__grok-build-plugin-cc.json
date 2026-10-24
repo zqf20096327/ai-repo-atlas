@@ -1,1 +1,79 @@
-{"fn": "xai-org/grok-build-plugin-cc", "sha": "37495f771b5a", "source": "readme", "identity": {"one_liner": "把 Grok CLI 桥接进 Claude Code 的插件：委派审查与导入会话", "review": "Claude Code marketplace 插件，通过 shell 调用真实 `grok` CLI，将 Grok Build 接入 Claude Code。提供斜杠命令：只读 git 状态审查（review）、设计/风险批判（critique）、经子代理委派调查与实现（delegate）、导入 Claude 会话到 Grok（import）、以及 runs/show/stop 运行管理（记录 agentPid 与 bridgePid 并终止进程树）。写权限分层：默认只读（plan 模式 + read-only 沙箱），委派代理按策略加 --write。需 Node>=18.18 与已登录的 grok CLI，无 app-server broker。", "highlights": ["shell 调用真实 grok CLI，运行状态由插件以 PID+日志文件管理", "写权限分层：桥接默认只读，委派代理按策略可写", "会话导入（grok import）与 --resume 续接 Grok 会话", "stop 以锁定 CAS 终止 agent 与 bridge 两棵进程树"], "use_cases": ["在 Claude Code 中让 Grok 审查本地 git 改动或做设计批判", "把调查或修复任务委派给 Grok 子代理执行", "把当前 Claude 会话导入 Grok 继续处理"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Claude Code 插件", "多代理协作", "代码审查", "CLI 桥接"], "domain": "开发工具/AI 代理集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "xai"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Bridge Grok Build into Claude Code for review, critique, delegation, and session import.", "L5: This repository is a Claude Code marketplace plugin that shells out to the real `grok` CLI. Run status, results, and sto"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xai-org/grok-build-plugin-cc",
+ "sha": "37495f771b5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Grok CLI 桥接进 Claude Code 的插件：委派审查与导入会话",
+  "review": "Claude Code marketplace 插件，通过 shell 调用真实 `grok` CLI，将 Grok Build 接入 Claude Code。提供斜杠命令：只读 git 状态审查（review）、设计/风险批判（critique）、经子代理委派调查与实现（delegate）、导入 Claude 会话到 Grok（import）、以及 runs/show/stop 运行管理（记录 agentPid 与 bridgePid 并终止进程树）。写权限分层：默认只读（plan 模式 + read-only 沙箱），委派代理按策略加 --write。需 Node>=18.18 与已登录的 grok CLI，无 app-server broker。",
+  "highlights": [
+   "shell 调用真实 grok CLI，运行状态由插件以 PID+日志文件管理",
+   "写权限分层：桥接默认只读，委派代理按策略可写",
+   "会话导入（grok import）与 --resume 续接 Grok 会话",
+   "stop 以锁定 CAS 终止 agent 与 bridge 两棵进程树"
+  ],
+  "use_cases": [
+   "在 Claude Code 中让 Grok 审查本地 git 改动或做设计批判",
+   "把调查或修复任务委派给 Grok 子代理执行",
+   "把当前 Claude 会话导入 Grok 继续处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 插件",
+   "多代理协作",
+   "代码审查",
+   "CLI 桥接"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Bridge Grok Build into Claude Code for review, critique, delegation, and session import.",
+   "L5: This repository is a Claude Code marketplace plugin that shells out to the real `grok` CLI. Run status, results, and sto"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

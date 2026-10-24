@@ -32,7 +32,7 @@ xAI 官方维护的 cookbook，收录基于 SpaceXSI（xAI）TypeScript SDK 与 
 
 ## 场景标签
 
- · 领域:LLM API 开发者教程
+`教程课程` `语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 

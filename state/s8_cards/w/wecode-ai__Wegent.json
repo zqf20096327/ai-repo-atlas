@@ -1,1 +1,82 @@
-{"fn": "wecode-ai/Wegent", "sha": "5366259b5f62", "source": "readme", "identity": {"one_liner": "面向开发团队的自托管 AI 编码工作台（桌面+Web）", "review": "开源的 AI 编码工作系统，含 Electron 桌面工作台（Wework）、浏览器端 Wegent Web 与可自托管的 Backend。桌面端按项目/任务组织本地编码工作：会话、工具活动、测试、变更文件与 diff 集中在一个视图；架构上由 Electron 承载窗口与系统层，DeepSeek Harness 作为插件运行时，Executor 管理任务并驱动 Codex 执行实际编码工作。支持项目空间共享任务板、远程设备执行、自动化队列与知识服务，通过安装包或 Docker 脚本部署，开发构建需 Node.js 20+ 与 pnpm。", "highlights": ["桌面工作台聚合会话、工具活动、测试、变更文件与 diff", "任务可在本地、远程工作机或服务器管理的执行器上运行", "自托管 Web 与 Backend 提供项目空间、权限、调度与知识服务", "插件化运行时（DSH），产品 UI 由一组 DSH 插件组成"], "use_cases": ["在本地项目里让编码 agent 执行任务并审查代码变更", "团队共享任务板、文件与执行设备推进项目", "把重复性项目工作配置为自动化与执行队列"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编码/Agent工作台", "自托管", "桌面应用", "团队协作", "知识库/自动化"], "domain": "开发者工具/AI 编码", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版", "linux.do 社区徽章", "DingTalk 工作区 SDK"]}, "trust": {"confidence": "low", "evidence": ["L14: Wegent includes a desktop workbench and a self-hostable web platform. Wegent Desktop works with local projects, files, c", "L40: **The local coding experience built on Codex is the foundation of Wegent Desktop.** It works directly with the code, fil", "L59: Wework is the Wegent desktop workbench. Electron owns desktop windows, system capabilities, and process management. Deep"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wecode-ai/Wegent",
+ "sha": "5366259b5f62",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发团队的自托管 AI 编码工作台（桌面+Web）",
+  "review": "开源的 AI 编码工作系统，含 Electron 桌面工作台（Wework）、浏览器端 Wegent Web 与可自托管的 Backend。桌面端按项目/任务组织本地编码工作：会话、工具活动、测试、变更文件与 diff 集中在一个视图；架构上由 Electron 承载窗口与系统层，DeepSeek Harness 作为插件运行时，Executor 管理任务并驱动 Codex 执行实际编码工作。支持项目空间共享任务板、远程设备执行、自动化队列与知识服务，通过安装包或 Docker 脚本部署，开发构建需 Node.js 20+ 与 pnpm。",
+  "highlights": [
+   "桌面工作台聚合会话、工具活动、测试、变更文件与 diff",
+   "任务可在本地、远程工作机或服务器管理的执行器上运行",
+   "自托管 Web 与 Backend 提供项目空间、权限、调度与知识服务",
+   "插件化运行时（DSH），产品 UI 由一组 DSH 插件组成"
+  ],
+  "use_cases": [
+   "在本地项目里让编码 agent 执行任务并审查代码变更",
+   "团队共享任务板、文件与执行设备推进项目",
+   "把重复性项目工作配置为自动化与执行队列"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码/Agent工作台",
+   "自托管",
+   "桌面应用",
+   "团队协作",
+   "知识库/自动化"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版",
+   "linux.do 社区徽章",
+   "DingTalk 工作区 SDK"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L14: Wegent includes a desktop workbench and a self-hostable web platform. Wegent Desktop works with local projects, files, c",
+   "L40: **The local coding experience built on Codex is the foundation of Wegent Desktop.** It works directly with the code, fil",
+   "L59: Wework is the Wegent desktop workbench. Electron owns desktop windows, system capabilities, and process management. Deep"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

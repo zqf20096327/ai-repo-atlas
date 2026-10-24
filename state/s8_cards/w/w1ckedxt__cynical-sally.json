@@ -1,1 +1,79 @@
-{"fn": "w1ckedxt/cynical-sally", "sha": "37948971ed7c", "source": "readme", "identity": {"one_liner": "给开发者的终端/AI 编辑器代码审查 CLI 与 MCP 工具", "review": "以 CLI 与 MCP server 两种形式提供的 AI 代码审查工具，可接入 Claude Code、Cursor、Windsurf。核心功能 roast 对文件、目录或 git 变更给出 0-10 评分、带证据的问题与可用的修复；另有 explain、refactor、review-pr、brainstorm、frontend、marketing 等命令，以及仓库评分与 README 徽章、CI 集成（--fail-under/--json）。通过 npm 全局安装，要求 Node.js 18+。代码经 HTTPS 上传实时分析（走 Anthropic API），提供 --dry-run 打印确切载荷与 SHA-256 回执，本地跳过密钥文件；免费额度为每月 90 次 roast，其余工具各含 1 次免费试用，付费解锁 Full Suite。", "highlights": ["roast 输出 0-10 评分、证据化问题与修复建议，支持 staged/diff 模式", "CLI 与 MCP server 双形态，接入 Claude Code、Cursor、Windsurf，暴露 8 个 MCP 工具", "--dry-run 展示将上传的完整载荷并生成 SHA-256 回执，密钥文件上传前本地跳过", "CI 集成（--ci/--fail-under/--json）与仓库评分徽章"], "use_cases": ["在终端或 AI 编辑器里对代码改动做评分式审查", "在 CI 流水线中按分数阈值拦截低质量代码", "让 AI 编辑器内的 agent 通过 MCP 调用审查、解释、重构工具"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码审查", "开发者工具", "CLI", "MCP", "AI编程辅助"], "domain": "开发者工具/代码审查", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L28: She's the senior engineer your code hoped it'd never meet. Scores from 0 to 10, real issues backed by evidence, and fixe", "L319: - **Never trained on, sold, or shared.** Analysis runs through Anthropic's API, which doesn't train on submitted content"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "w1ckedxt/cynical-sally",
+ "sha": "37948971ed7c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的终端/AI 编辑器代码审查 CLI 与 MCP 工具",
+  "review": "以 CLI 与 MCP server 两种形式提供的 AI 代码审查工具，可接入 Claude Code、Cursor、Windsurf。核心功能 roast 对文件、目录或 git 变更给出 0-10 评分、带证据的问题与可用的修复；另有 explain、refactor、review-pr、brainstorm、frontend、marketing 等命令，以及仓库评分与 README 徽章、CI 集成（--fail-under/--json）。通过 npm 全局安装，要求 Node.js 18+。代码经 HTTPS 上传实时分析（走 Anthropic API），提供 --dry-run 打印确切载荷与 SHA-256 回执，本地跳过密钥文件；免费额度为每月 90 次 roast，其余工具各含 1 次免费试用，付费解锁 Full Suite。",
+  "highlights": [
+   "roast 输出 0-10 评分、证据化问题与修复建议，支持 staged/diff 模式",
+   "CLI 与 MCP server 双形态，接入 Claude Code、Cursor、Windsurf，暴露 8 个 MCP 工具",
+   "--dry-run 展示将上传的完整载荷并生成 SHA-256 回执，密钥文件上传前本地跳过",
+   "CI 集成（--ci/--fail-under/--json）与仓库评分徽章"
+  ],
+  "use_cases": [
+   "在终端或 AI 编辑器里对代码改动做评分式审查",
+   "在 CI 流水线中按分数阈值拦截低质量代码",
+   "让 AI 编辑器内的 agent 通过 MCP 调用审查、解释、重构工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码审查",
+   "开发者工具",
+   "CLI",
+   "MCP",
+   "AI编程辅助"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: She's the senior engineer your code hoped it'd never meet. Scores from 0 to 10, real issues backed by evidence, and fixe",
+   "L319: - **Never trained on, sold, or shared.** Analysis runs through Anthropic's API, which doesn't train on submitted content"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

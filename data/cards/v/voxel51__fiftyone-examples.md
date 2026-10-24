@@ -32,7 +32,7 @@ Voxel51 维护的 FiftyOne 官方示例仓库：以 Jupyter Notebook 形式提�
 
 ## 场景标签
 
- · 领域:计算机视觉/机器学习工具
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

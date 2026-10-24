@@ -1,1 +1,83 @@
-{"fn": "weicanie/prisma-ai", "sha": "ec0ad9bab2e3", "source": "readme", "identity": {"one_liner": "求职AI co-pilot：简历优化、岗位匹配、面试备战一体平台", "review": "面向求职者的全流程 Web 应用（提供在线免费站点与 Docker 自部署）：基于 Planer-Executor + CRAG + Human-in-the-loop 架构的 AI 核心，深挖项目经历产出可落地亮点并由 Agent 协助实现；实时抓取岗位后经本地向量检索重排做人岗匹配，支持按岗位定制简历与 PDF 导出；另含前后端题库、思维导图、Anki 联动与万篇面经库。技术栈为 React/Vue + Nest.js/FastAPI，依赖 MySQL、MongoDB、Redis、Minio 等服务。岗位爬取匹配与 Anki 集成仅限本地部署使用。", "highlights": ["Planer-Executor + CRAG + Human-in-the-loop 架构的 AI 核心与项目亮点实现 Agent", "岗位抓取 + 本地向量检索重排的人岗匹配与岗位定制简历", "题库 + 思维导图 + Anki 联动学习，万篇面经自动补全与结构化", "Docker 一键部署，主项目 AGPL-3.0"], "use_cases": ["让 AI 深挖项目经历并生成、落地简历亮点", "抓取岗位并按匹配度筛选，针对性定制简历投递", "用题库、思维导图与 Anki 备战技术面试", "自部署后共建和使用面经题库"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://ai.pinkprisma.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["求职", "简历优化", "RAG/Agent", "面试准备", "SaaS"], "domain": "求职/职业发展工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README 优先", "声明遵守中华人民共和国法律法规（L198）"]}, "trust": {"confidence": "mid", "evidence": ["L3: # PrismaAI：你的求职AI co-pilot", "L5: 开源免费，从简历到 offer，优化你的项目，定制你的简历，为你匹配工作，并帮助你做好面试准备。", "L38: |**🤖 AI 核心**|基于 `Planer-Executor` + `CRAG` + `Human-in-the-loop` 架构，能把“想法”变成“可执行计划”|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "weicanie/prisma-ai",
+ "sha": "ec0ad9bab2e3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "求职AI co-pilot：简历优化、岗位匹配、面试备战一体平台",
+  "review": "面向求职者的全流程 Web 应用（提供在线免费站点与 Docker 自部署）：基于 Planer-Executor + CRAG + Human-in-the-loop 架构的 AI 核心，深挖项目经历产出可落地亮点并由 Agent 协助实现；实时抓取岗位后经本地向量检索重排做人岗匹配，支持按岗位定制简历与 PDF 导出；另含前后端题库、思维导图、Anki 联动与万篇面经库。技术栈为 React/Vue + Nest.js/FastAPI，依赖 MySQL、MongoDB、Redis、Minio 等服务。岗位爬取匹配与 Anki 集成仅限本地部署使用。",
+  "highlights": [
+   "Planer-Executor + CRAG + Human-in-the-loop 架构的 AI 核心与项目亮点实现 Agent",
+   "岗位抓取 + 本地向量检索重排的人岗匹配与岗位定制简历",
+   "题库 + 思维导图 + Anki 联动学习，万篇面经自动补全与结构化",
+   "Docker 一键部署，主项目 AGPL-3.0"
+  ],
+  "use_cases": [
+   "让 AI 深挖项目经历并生成、落地简历亮点",
+   "抓取岗位并按匹配度筛选，针对性定制简历投递",
+   "用题库、思维导图与 Anki 备战技术面试",
+   "自部署后共建和使用面经题库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://ai.pinkprisma.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职",
+   "简历优化",
+   "RAG/Agent",
+   "面试准备",
+   "SaaS"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 优先",
+   "声明遵守中华人民共和国法律法规（L198）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: # PrismaAI：你的求职AI co-pilot",
+   "L5: 开源免费，从简历到 offer，优化你的项目，定制你的简历，为你匹配工作，并帮助你做好面试准备。",
+   "L38: |**🤖 AI 核心**|基于 `Planer-Executor` + `CRAG` + `Human-in-the-loop` 架构，能把“想法”变成“可执行计划”|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,79 @@
-{"fn": "xiaohang007/SLICES", "sha": "3c42b2cdabf0", "source": "readme", "identity": {"one_liner": "晶体结构可逆字符串表示工具：编码/重构晶体并生成新材料", "review": "SLICES 提供晶体结构的可逆、不变字符串表示：可将晶体编码为 SLICES 字符串、由字符串重构原晶体结构（Text2Crystal），并基于 MatterGPT / SLICES-PLUS 生成具有目标性质的固态材料。提供 Hugging Face 在线转换器与 MatterGPT 在线 Demo，本地支持 Ubuntu/WSL 安装与 Docker 镜像，图形界面需 slices>=2.0.8。相关成果发表于 Nature Communications（2023），示例基于 pymatgen 结构对象。50 系显卡需将 PyTorch 调整为 cu128 版本。", "highlights": ["晶体结构与 SLICES 字符串的双向转换（编码/重构）", "基于 MatterGPT / SLICES-PLUS 的固态材料逆向设计", "提供 Hugging Face 在线转换器与在线 Demo", "支持本地 Conda 安装、Docker 镜像与图形界面"], "use_cases": ["将 CIF 晶体结构编码为字符串用于机器学习", "用生成模型逆向设计具有目标性质的新材料", "在 Materials Project 全库中做新颖性检查"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": "https://huggingface.co/spaces/xiaohang07/MatterGPT_CPU", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["材料信息学", "晶体表示", "生成式AI", "逆向设计"], "domain": "材料科学/晶体学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英混排 README", "Bilibili 教程视频", "清华 pip 镜像源配置说明"]}, "trust": {"confidence": "high", "evidence": ["L3: The **Simplified Line-Input Crystal-Encoding System (SLICES)** is the first invertible and invariant crystal representat", "L19: 1. **Encode crystal structures into SLICES strings**", "L21: 3. **Inverse design of solid-state materials with desired properties using MatterGPT**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xiaohang007/SLICES",
+ "sha": "3c42b2cdabf0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "晶体结构可逆字符串表示工具：编码/重构晶体并生成新材料",
+  "review": "SLICES 提供晶体结构的可逆、不变字符串表示：可将晶体编码为 SLICES 字符串、由字符串重构原晶体结构（Text2Crystal），并基于 MatterGPT / SLICES-PLUS 生成具有目标性质的固态材料。提供 Hugging Face 在线转换器与 MatterGPT 在线 Demo，本地支持 Ubuntu/WSL 安装与 Docker 镜像，图形界面需 slices>=2.0.8。相关成果发表于 Nature Communications（2023），示例基于 pymatgen 结构对象。50 系显卡需将 PyTorch 调整为 cu128 版本。",
+  "highlights": [
+   "晶体结构与 SLICES 字符串的双向转换（编码/重构）",
+   "基于 MatterGPT / SLICES-PLUS 的固态材料逆向设计",
+   "提供 Hugging Face 在线转换器与在线 Demo",
+   "支持本地 Conda 安装、Docker 镜像与图形界面"
+  ],
+  "use_cases": [
+   "将 CIF 晶体结构编码为字符串用于机器学习",
+   "用生成模型逆向设计具有目标性质的新材料",
+   "在 Materials Project 全库中做新颖性检查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://huggingface.co/spaces/xiaohang07/MatterGPT_CPU",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "材料信息学",
+   "晶体表示",
+   "生成式AI",
+   "逆向设计"
+  ],
+  "domain": "材料科学/晶体学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英混排 README",
+   "Bilibili 教程视频",
+   "清华 pip 镜像源配置说明"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The **Simplified Line-Input Crystal-Encoding System (SLICES)** is the first invertible and invariant crystal representat",
+   "L19: 1. **Encode crystal structures into SLICES strings**",
+   "L21: 3. **Inverse design of solid-state materials with desired properties using MatterGPT**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

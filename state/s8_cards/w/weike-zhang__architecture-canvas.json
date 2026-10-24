@@ -1,1 +1,83 @@
-{"fn": "weike-zhang/architecture-canvas", "sha": "2f253f3fdbe8", "source": "readme", "identity": {"one_liner": "AI 对话生成与修改可编辑架构图的本机工具", "review": "本地运行的架构图助手：上传文档、表格、PDF 或图片，通过多轮对话生成和调整 Excalidraw 画布上的架构图，修改方案先确认再应用，可保留手动位置与样式。模型调用经 DeepSeek Harness 执行，接口兼容 Chat Completions，不绑定特定模型。支持离线手动编辑与导出，对话生成需自配模型服务；联网搜索需自填 Tavily 密钥。需 Python 3.10+ 与 Node.js 22.12+，克隆仓库以脚本启动。当前为 Alpha 版本，仅监听本机，不含多用户与生产部署。", "highlights": ["多轮对话生成与修改架构图，变更先列出待确认", "支持上传 TXT/DOCX/XLSX/PPTX/PDF/图片等并本机解析", "MCP stdio 接入与无状态 Python SDK（render/read_document）", "Tavily 搜索模块可运行中启停、独立打包"], "use_cases": ["把需求文档、PDF 或表格转成可编辑的架构图初稿", "围绕同一张图持续对话调整架构，同时保留手动排版", "离线手动整理画布并导出 SVG/PNG"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [15]}}, "links": {"scenario_tags": ["架构图生成", "Excalidraw", "本地优先", "AI助手", "文档理解"], "domain": "开发工具/架构设计", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "知了平台适配说明（L96）"]}, "trust": {"confidence": "high", "evidence": ["L3: 通过 AI 对话生成和修改可编辑架构图。上传需求文档、表格、PDF 或图片，让助手阅读资料，再围绕同一张图持续讨论和调整。", "L11: 自有对话工作区与 Excalidraw 画布，使用 DeepSeek Harness 执行模型调用、工具循环和长会话压缩。模型通过兼容 Chat Completions 的接口配置，不绑定 DeepSeek 模型。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "weike-zhang/architecture-canvas",
+ "sha": "2f253f3fdbe8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 对话生成与修改可编辑架构图的本机工具",
+  "review": "本地运行的架构图助手：上传文档、表格、PDF 或图片，通过多轮对话生成和调整 Excalidraw 画布上的架构图，修改方案先确认再应用，可保留手动位置与样式。模型调用经 DeepSeek Harness 执行，接口兼容 Chat Completions，不绑定特定模型。支持离线手动编辑与导出，对话生成需自配模型服务；联网搜索需自填 Tavily 密钥。需 Python 3.10+ 与 Node.js 22.12+，克隆仓库以脚本启动。当前为 Alpha 版本，仅监听本机，不含多用户与生产部署。",
+  "highlights": [
+   "多轮对话生成与修改架构图，变更先列出待确认",
+   "支持上传 TXT/DOCX/XLSX/PPTX/PDF/图片等并本机解析",
+   "MCP stdio 接入与无状态 Python SDK（render/read_document）",
+   "Tavily 搜索模块可运行中启停、独立打包"
+  ],
+  "use_cases": [
+   "把需求文档、PDF 或表格转成可编辑的架构图初稿",
+   "围绕同一张图持续对话调整架构，同时保留手动排版",
+   "离线手动整理画布并导出 SVG/PNG"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "架构图生成",
+   "Excalidraw",
+   "本地优先",
+   "AI助手",
+   "文档理解"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "知了平台适配说明（L96）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 通过 AI 对话生成和修改可编辑架构图。上传需求文档、表格、PDF 或图片，让助手阅读资料，再围绕同一张图持续讨论和调整。",
+   "L11: 自有对话工作区与 Excalidraw 画布，使用 DeepSeek Harness 执行模型调用、工具循环和长会话压缩。模型通过兼容 Chat Completions 的接口配置，不绑定 DeepSeek 模型。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,81 @@
-{"fn": "wyg5208/nct", "sha": "68688faf3216", "source": "readme", "identity": {"one_liner": "融合神经科学理论的意识建模研究框架，面向科研", "review": "基于 PyTorch 的神经形态意识建模框架：以多头注意力实现全局工作空间、Transformer-STDP 混合学习、预测编码作为解码目标、注意力流实时计算整合信息 Φ，并含 MCS 多约束满足框架与 CATS-NCT 概念抽象扩展。附 Streamlit 可视化仪表盘（Φ/自由能/注意力监控）、实验脚本与 EEG 教育场景研究（EEGNet 特征使 Φ 显著）。两篇论文在投 IEEE Trans. Affective Computing，代码供科研复现。", "highlights": ["注意力全局工作空间、Transformer-STDP、预测编码、Φ 计算四类机制实现", "MCS 多约束满足意识建模框架与 CATS-NCT 概念抽象扩展", "Streamlit 实时可视化仪表盘，支持中英双语与 CSV 导出", "提供实验复现脚本（run_all_experiments）与统计显著性分析"], "use_cases": ["复现意识理论（GWT/IIT/预测编码）的计算模型与实验", "教育场景下用 EEG 深度学习特征做认知状态监测研究", "在自定义数据集上运行 Φ 值与自由能等指标的量化实验"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["神经科学", "意识建模", "科研框架", "可解释AI", "EEG/认知监测"], "domain": "神经科学/AI 研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["中英双语 README（提供中文文档链接）", "中文命名的框架目录（MCS-NCT框架理论/）"]}, "trust": {"confidence": "mid", "evidence": ["L19: NeuroConscious Transformer (NCT) is a **next-generation neuromorphic consciousness architecture** that reconstructs clas", "L22: 2. **Transformer-STDP Hybrid Learning** - Globally modulated synaptic plasticity", "L26: 6. **Φ Calculator from Attention Flow** - Real-time integrated information computation"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wyg5208/nct",
+ "sha": "68688faf3216",
+ "source": "readme",
+ "identity": {
+  "one_liner": "融合神经科学理论的意识建模研究框架，面向科研",
+  "review": "基于 PyTorch 的神经形态意识建模框架：以多头注意力实现全局工作空间、Transformer-STDP 混合学习、预测编码作为解码目标、注意力流实时计算整合信息 Φ，并含 MCS 多约束满足框架与 CATS-NCT 概念抽象扩展。附 Streamlit 可视化仪表盘（Φ/自由能/注意力监控）、实验脚本与 EEG 教育场景研究（EEGNet 特征使 Φ 显著）。两篇论文在投 IEEE Trans. Affective Computing，代码供科研复现。",
+  "highlights": [
+   "注意力全局工作空间、Transformer-STDP、预测编码、Φ 计算四类机制实现",
+   "MCS 多约束满足意识建模框架与 CATS-NCT 概念抽象扩展",
+   "Streamlit 实时可视化仪表盘，支持中英双语与 CSV 导出",
+   "提供实验复现脚本（run_all_experiments）与统计显著性分析"
+  ],
+  "use_cases": [
+   "复现意识理论（GWT/IIT/预测编码）的计算模型与实验",
+   "教育场景下用 EEG 深度学习特征做认知状态监测研究",
+   "在自定义数据集上运行 Φ 值与自由能等指标的量化实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经科学",
+   "意识建模",
+   "科研框架",
+   "可解释AI",
+   "EEG/认知监测"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README（提供中文文档链接）",
+   "中文命名的框架目录（MCS-NCT框架理论/）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L19: NeuroConscious Transformer (NCT) is a **next-generation neuromorphic consciousness architecture** that reconstructs clas",
+   "L22: 2. **Transformer-STDP Hybrid Learning** - Globally modulated synaptic plasticity",
+   "L26: 6. **Φ Calculator from Attention Flow** - Real-time integrated information computation"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

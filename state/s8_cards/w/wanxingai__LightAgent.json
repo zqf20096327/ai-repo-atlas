@@ -1,1 +1,88 @@
-{"fn": "wanxingai/LightAgent", "sha": "e0e32de2421d", "source": "readme", "identity": {"one_liner": "轻量级 Python Agent 框架：工具、记忆、护栏、多智能体与工作流", "review": "面向开发者的开源 Agentic 框架，核心 API 为 LightAgent 单智能体运行时，支持工具调用（含 MCP over stdio/SSE）、mem0 长期记忆、思维树推理、护栏模板、运行时钩子与 trace 观测。多智能体层面提供 LightSwarm 意图路由与任务委托、LightFlow 确定性 DAG 工作流（重试、检查点、审批节点）、LightDAG 动态验证 DAG。兼容 OpenAI 风格的多种模型端点（OpenAI、DeepSeek、Qwen、vLLM、llama.cpp 等），可输出 OpenAI 兼容流式 API。不依赖 LangChain/LlamaIndex，以 pip 安装的 Python 库形式提供。", "highlights": ["LightSwarm 多智能体协作与 LightFlow/LightDAG 确定性与动态工作流编排", "运行时钩子、trace 观测、LightEvaluator 评估与 HumanApprovalHook 人工审批", "护栏模板（隐私阻断、敏感工具确认、输出脱敏）与 MemoryPolicy 记忆边界", "任意 Python 执行工具默认不注册，v0.10.1 起安全默认"], "use_cases": ["快速搭建带工具与长期记忆的单智能体应用", "编排多智能体协作与多步骤确定性工作流", "对高影响操作接入人工审批并做回归评估", "通过 OpenAI 兼容流式 API 对接现有聊天界面"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Agent框架", "多智能体", "工作流编排", "工具调用/MCP", "LLM基础设施"], "domain": "LLM/Agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "openrouter", "vllm", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["提供简体中文/繁体中文 README"]}, "trust": {"confidence": "high", "evidence": ["L26:  LightAgent🚀 – small footprint, big potential. 🌟(Open-source Agentic framework)", "L58: - **Multi-Model Support** 🔄: Compatible with OpenAI-style providers such as OpenAI, OpenRouter, Zhipu ChatGLM, Baichuan,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wanxingai/LightAgent",
+ "sha": "e0e32de2421d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "轻量级 Python Agent 框架：工具、记忆、护栏、多智能体与工作流",
+  "review": "面向开发者的开源 Agentic 框架，核心 API 为 LightAgent 单智能体运行时，支持工具调用（含 MCP over stdio/SSE）、mem0 长期记忆、思维树推理、护栏模板、运行时钩子与 trace 观测。多智能体层面提供 LightSwarm 意图路由与任务委托、LightFlow 确定性 DAG 工作流（重试、检查点、审批节点）、LightDAG 动态验证 DAG。兼容 OpenAI 风格的多种模型端点（OpenAI、DeepSeek、Qwen、vLLM、llama.cpp 等），可输出 OpenAI 兼容流式 API。不依赖 LangChain/LlamaIndex，以 pip 安装的 Python 库形式提供。",
+  "highlights": [
+   "LightSwarm 多智能体协作与 LightFlow/LightDAG 确定性与动态工作流编排",
+   "运行时钩子、trace 观测、LightEvaluator 评估与 HumanApprovalHook 人工审批",
+   "护栏模板（隐私阻断、敏感工具确认、输出脱敏）与 MemoryPolicy 记忆边界",
+   "任意 Python 执行工具默认不注册，v0.10.1 起安全默认"
+  ],
+  "use_cases": [
+   "快速搭建带工具与长期记忆的单智能体应用",
+   "编排多智能体协作与多步骤确定性工作流",
+   "对高影响操作接入人工审批并做回归评估",
+   "通过 OpenAI 兼容流式 API 对接现有聊天界面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent框架",
+   "多智能体",
+   "工作流编排",
+   "工具调用/MCP",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openrouter",
+   "vllm",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent",
+   "workflow-automation",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文/繁体中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26:  LightAgent🚀 – small footprint, big potential. 🌟(Open-source Agentic framework)",
+   "L58: - **Multi-Model Support** 🔄: Compatible with OpenAI-style providers such as OpenAI, OpenRouter, Zhipu ChatGLM, Baichuan,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

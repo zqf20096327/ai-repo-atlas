@@ -1,1 +1,75 @@
-{"fn": "vuepont/ai-elements-vue", "sha": "6a56291444ba", "source": "readme", "identity": {"one_liner": "面向 Vue/Nuxt 的 AI 应用 UI 组件库（基于 shadcn-vue）", "review": "构建在 shadcn-vue 之上的 Vue 组件库，为 AI 应用提供预制可定制组件，覆盖 Chatbot（对话、消息、推理展示、工具可视化、来源引用等）、Workflow（VueFlow 画布与节点连线）、Vibe-Coding（artifact、web 预览）、文档与工具类共 30 余个。通过 CLI（npx ai-elements-vue）或 shadcn-vue CLI 从组件 registry 安装，组件落入用户代码库可完全定制。要求 Node.js 18+、已装 AI SDK 并初始化 shadcn-vue 与 Tailwind CSS（仅支持 CSS Variables 模式）。", "highlights": ["30+ AI 场景组件：对话、推理展示、工具调用可视化、来源引用等", "CLI 自动检测包管理器（npm/pnpm/yarn/bun）并经 shadcn-vue CLI 安装组件", "Workflow 组件基于 VueFlow 提供画布/节点/连线", "组件安装进用户代码库，可完全定制"], "use_cases": ["为 Vue/Nuxt AI 应用快速搭建聊天与对话界面", "构建带推理过程、工具调用可视化的 agent 界面", "搭建工作流可视化编辑画布"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["UI组件库", "Vue", "shadcn-vue", "AI应用前端", "chatbot"], "domain": "前端/UI 组件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17: AI Elements Vue provides pre-built, customizable Vue components specifically designed for AI applications, including con", "L36: - **Vue.js, Nuxt.js** project with AI SDK installed"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vuepont/ai-elements-vue",
+ "sha": "6a56291444ba",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Vue/Nuxt 的 AI 应用 UI 组件库（基于 shadcn-vue）",
+  "review": "构建在 shadcn-vue 之上的 Vue 组件库，为 AI 应用提供预制可定制组件，覆盖 Chatbot（对话、消息、推理展示、工具可视化、来源引用等）、Workflow（VueFlow 画布与节点连线）、Vibe-Coding（artifact、web 预览）、文档与工具类共 30 余个。通过 CLI（npx ai-elements-vue）或 shadcn-vue CLI 从组件 registry 安装，组件落入用户代码库可完全定制。要求 Node.js 18+、已装 AI SDK 并初始化 shadcn-vue 与 Tailwind CSS（仅支持 CSS Variables 模式）。",
+  "highlights": [
+   "30+ AI 场景组件：对话、推理展示、工具调用可视化、来源引用等",
+   "CLI 自动检测包管理器（npm/pnpm/yarn/bun）并经 shadcn-vue CLI 安装组件",
+   "Workflow 组件基于 VueFlow 提供画布/节点/连线",
+   "组件安装进用户代码库，可完全定制"
+  ],
+  "use_cases": [
+   "为 Vue/Nuxt AI 应用快速搭建聊天与对话界面",
+   "构建带推理过程、工具调用可视化的 agent 界面",
+   "搭建工作流可视化编辑画布"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "UI组件库",
+   "Vue",
+   "shadcn-vue",
+   "AI应用前端",
+   "chatbot"
+  ],
+  "domain": "前端/UI 组件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: AI Elements Vue provides pre-built, customizable Vue components specifically designed for AI applications, including con",
+   "L36: - **Vue.js, Nuxt.js** project with AI SDK installed"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

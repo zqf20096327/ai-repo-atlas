@@ -1,1 +1,78 @@
-{"fn": "voygr-tech/placecall", "sha": "ca3b04ab4a39", "source": "readme", "identity": {"one_liner": "让 AI agent 电话致电美国商户的 API/MCP 服务，含通话结果与转录", "review": "由 Voygr（前 Google Maps/Search 开发者）提供的电话呼叫服务：给定美国号码或场所描述与英文任务简报，系统自动拨号、应对 IVR 与等待、与商户对话，完成预订、询价、信息核实等任务，返回 17 种验证结果之一及完整转录与录音。接入方式包括 REST API（API key）、Claude Code/Codex/Cursor 插件、claude.ai 与 ChatGPT 连接器、Gemini CLI 扩展及任意 MCP 客户端，多为浏览器 OAuth 登录，首 250 次通话免费，此后按量计费。", "highlights": ["自动拨号并应对 IVR、等待与真人对话，处理预订/询价/核实等任务", "每次通话返回 17 种验证结果之一，附完整转录与录音", "无号码时可按场所描述查找候选并自动撰写通话简报", "提供 Claude Code/Codex 插件、MCP 服务器、ChatGPT/claude.ai 连接器等多种接入途径"], "use_cases": ["让我的 agent 打电话给餐厅订位或改约", "批量致电商户核实信息、跟进订单或询价", "在 Claude Code 或 ChatGPT 里直接发起并追踪通话"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://api.voygr.tech/mcp", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["电话外呼", "AI Agent 工具", "MCP 服务器", "语音代理", "商业预订"], "domain": "AI Agent 工具/语音通信服务", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: PlaceCall lets your agent call US businesses to handle reservations, gather", "L48: The Claude Code, Codex and Cursor plugins carry the skill and the PlaceCall", "L163: Point the client at `https://api.voygr.tech/mcp` (streamable HTTP transport)."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "voygr-tech/placecall",
+ "sha": "ca3b04ab4a39",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 电话致电美国商户的 API/MCP 服务，含通话结果与转录",
+  "review": "由 Voygr（前 Google Maps/Search 开发者）提供的电话呼叫服务：给定美国号码或场所描述与英文任务简报，系统自动拨号、应对 IVR 与等待、与商户对话，完成预订、询价、信息核实等任务，返回 17 种验证结果之一及完整转录与录音。接入方式包括 REST API（API key）、Claude Code/Codex/Cursor 插件、claude.ai 与 ChatGPT 连接器、Gemini CLI 扩展及任意 MCP 客户端，多为浏览器 OAuth 登录，首 250 次通话免费，此后按量计费。",
+  "highlights": [
+   "自动拨号并应对 IVR、等待与真人对话，处理预订/询价/核实等任务",
+   "每次通话返回 17 种验证结果之一，附完整转录与录音",
+   "无号码时可按场所描述查找候选并自动撰写通话简报",
+   "提供 Claude Code/Codex 插件、MCP 服务器、ChatGPT/claude.ai 连接器等多种接入途径"
+  ],
+  "use_cases": [
+   "让我的 agent 打电话给餐厅订位或改约",
+   "批量致电商户核实信息、跟进订单或询价",
+   "在 Claude Code 或 ChatGPT 里直接发起并追踪通话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://api.voygr.tech/mcp",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "电话外呼",
+   "AI Agent 工具",
+   "MCP 服务器",
+   "语音代理",
+   "商业预订"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: PlaceCall lets your agent call US businesses to handle reservations, gather",
+   "L48: The Claude Code, Codex and Cursor plugins carry the skill and the PlaceCall",
+   "L163: Point the client at `https://api.voygr.tech/mcp` (streamable HTTP transport)."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

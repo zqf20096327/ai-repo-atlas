@@ -1,1 +1,79 @@
-{"fn": "wshobson/maverick-mcp", "sha": "fc1d1e765ed4", "source": "readme", "identity": {"one_liner": "本地运行的股票市场 MCP 服务器：行情、技术分析、组合与回测", "review": "开源 MCP 服务器，把 Yahoo Finance 数据（经 yfinance）接入 AI 助手：38 个核心工具覆盖行情报价、历史价格、基本面、RSI/MACD、支撑阻力与选股筛选；另有 12 个可选回测工具（含 ML 策略与蒙特卡洛模拟）和 3 个可选研究工具（需配置 LLM 与网络搜索）。支持投资组合记录、观察列表与交易日志，数据存于本地 SQLite。核心工具无需 API key。仅教育与信息用途，不下单、不提供投资建议；历史数据支持美股及 .L/.T/.TO/.AX/.HK/.DE 后缀。", "highlights": ["38 个核心工具：行情、基本面、RSI/MACD、支撑阻力与三类选股筛选", "12 个可选回测工具（含随机森林 ML 策略、蒙特卡洛、市场状态检测）", "投资组合、观察列表与交易日志存储于本地 SQLite/可选 PostgreSQL", "核心工具无需 API key，HTTP 端点默认仅绑定 127.0.0.1"], "use_cases": ["在 Claude Desktop、Cursor 等 MCP 客户端中查询股票行情与技术指标", "跟踪投资组合、观察列表并记录交易日志", "用历史数据回测并比较多组交易策略"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "金融数据", "量化回测", "投资组合跟踪", "技术分析"], "domain": "金融/LLM 工具生态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L13: MCP means Model Context Protocol, the standard that lets an AI assistant call", "L67: uv run --directory /absolute/path/to/maverick-mcp maverick-mcp --transport stdio"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wshobson/maverick-mcp",
+ "sha": "fc1d1e765ed4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的股票市场 MCP 服务器：行情、技术分析、组合与回测",
+  "review": "开源 MCP 服务器，把 Yahoo Finance 数据（经 yfinance）接入 AI 助手：38 个核心工具覆盖行情报价、历史价格、基本面、RSI/MACD、支撑阻力与选股筛选；另有 12 个可选回测工具（含 ML 策略与蒙特卡洛模拟）和 3 个可选研究工具（需配置 LLM 与网络搜索）。支持投资组合记录、观察列表与交易日志，数据存于本地 SQLite。核心工具无需 API key。仅教育与信息用途，不下单、不提供投资建议；历史数据支持美股及 .L/.T/.TO/.AX/.HK/.DE 后缀。",
+  "highlights": [
+   "38 个核心工具：行情、基本面、RSI/MACD、支撑阻力与三类选股筛选",
+   "12 个可选回测工具（含随机森林 ML 策略、蒙特卡洛、市场状态检测）",
+   "投资组合、观察列表与交易日志存储于本地 SQLite/可选 PostgreSQL",
+   "核心工具无需 API key，HTTP 端点默认仅绑定 127.0.0.1"
+  ],
+  "use_cases": [
+   "在 Claude Desktop、Cursor 等 MCP 客户端中查询股票行情与技术指标",
+   "跟踪投资组合、观察列表并记录交易日志",
+   "用历史数据回测并比较多组交易策略"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "金融数据",
+   "量化回测",
+   "投资组合跟踪",
+   "技术分析"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: MCP means Model Context Protocol, the standard that lets an AI assistant call",
+   "L67: uv run --directory /absolute/path/to/maverick-mcp maverick-mcp --transport stdio"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
