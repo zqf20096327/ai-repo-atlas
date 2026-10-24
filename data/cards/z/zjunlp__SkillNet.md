@@ -33,7 +33,7 @@ SkillNet 提供 agent 技能全生命周期工具：从 50 万+ GitHub 技能索
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 技能管理
+`Agent 框架` `语义搜索` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

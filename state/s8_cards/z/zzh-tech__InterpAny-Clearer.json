@@ -1,1 +1,81 @@
-{"fn": "zzh-tech/InterpAny-Clearer", "sha": "f75ed139de53", "source": "readme", "identity": {"one_liner": "任意时刻清晰视频帧插值研究代码：距离索引解决速度歧义", "review": "ECCV2024 Oral / TPAMI 论文的官方实现：针对视频帧插值中的速度歧义问题，提出距离索引（Distance Indexing）与基于参考的迭代估计策略，可对任意时刻插值出更清晰的中间帧，并支持对指定对象的操控式插值。提供 RIFE、IFRNet、AMT-S、EMA-VFI 四种模型的检查点，含两图/视频推理脚本、Vimeo90K 数据集处理、训练与测试命令，另带基于 Segment Anything 的本地 Web 应用。由上海AI Lab、Snap Inc. 等机构研究者维护，曾用于 CCTV5 慢动作演示。", "highlights": ["距离索引与迭代参考估计解决速度歧义，支持任意时刻插值", "提供 RIFE/IFRNet/AMT-S/EMA-VFI 四种模型检查点", "集成 Segment Anything 的对象级操控插值 Web 应用", "提供数据集处理、训练与测试完整流程脚本"], "use_cases": ["给视频生成更清晰的高倍率慢动作帧", "研究者在 Vimeo90K 上复现或训练插值模型", "对视频中指定对象做操控式插值实验"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["视频帧插值", "慢动作生成", "计算机视觉研究", "视频编辑", "时间超分"], "domain": "计算机视觉/视频帧插值", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["上海AI Lab、上海交通大学参与", "技术被 CCTV5/CCTV5+ 用于赛事慢动作"]}, "trust": {"confidence": "mid", "evidence": ["L58: We addressed velocity ambiguity in video frame interpolation through innovative distance indexing and iterative", "L109: python inference_img.py --img0 [IMG_0] --img1 [IMG_1] --output_dir [OUTPUT_DIR] --model [MODEL_NAME] --variant [VARIANT]"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zzh-tech/InterpAny-Clearer",
+ "sha": "f75ed139de53",
+ "source": "readme",
+ "identity": {
+  "one_liner": "任意时刻清晰视频帧插值研究代码：距离索引解决速度歧义",
+  "review": "ECCV2024 Oral / TPAMI 论文的官方实现：针对视频帧插值中的速度歧义问题，提出距离索引（Distance Indexing）与基于参考的迭代估计策略，可对任意时刻插值出更清晰的中间帧，并支持对指定对象的操控式插值。提供 RIFE、IFRNet、AMT-S、EMA-VFI 四种模型的检查点，含两图/视频推理脚本、Vimeo90K 数据集处理、训练与测试命令，另带基于 Segment Anything 的本地 Web 应用。由上海AI Lab、Snap Inc. 等机构研究者维护，曾用于 CCTV5 慢动作演示。",
+  "highlights": [
+   "距离索引与迭代参考估计解决速度歧义，支持任意时刻插值",
+   "提供 RIFE/IFRNet/AMT-S/EMA-VFI 四种模型检查点",
+   "集成 Segment Anything 的对象级操控插值 Web 应用",
+   "提供数据集处理、训练与测试完整流程脚本"
+  ],
+  "use_cases": [
+   "给视频生成更清晰的高倍率慢动作帧",
+   "研究者在 Vimeo90K 上复现或训练插值模型",
+   "对视频中指定对象做操控式插值实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频帧插值",
+   "慢动作生成",
+   "计算机视觉研究",
+   "视频编辑",
+   "时间超分"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "上海AI Lab、上海交通大学参与",
+   "技术被 CCTV5/CCTV5+ 用于赛事慢动作"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L58: We addressed velocity ambiguity in video frame interpolation through innovative distance indexing and iterative",
+   "L109: python inference_img.py --img0 [IMG_0] --img1 [IMG_1] --output_dir [OUTPUT_DIR] --model [MODEL_NAME] --variant [VARIANT]"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

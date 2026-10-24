@@ -1,1 +1,80 @@
-{"fn": "znxzsy/AlignLedger", "sha": "e6aaf245103f", "source": "readme", "identity": {"one_liner": "面向 RLHF/SFT/DPO 的可审计人工反馈标注与审核系统", "review": "基于 Python 标准库与 SQLite 的小型标注与质检系统，服务于 RLHF、SFT、DPO/KTO 及多模态评估等人工反馈工作流。将模型输出、人工修正、二审、标注者身份与导出决策保存在同一条可审计记录中；每次写入带版本号与幂等键，支持草稿自动保存、随机/批量复核、终审裁定与带 SHA256 清单的冻结导出。提供一条命令启动的本地演示（生成合成数据）与 Docker 部署，可导入自有 details_*.json 数据；共享部署使用会话密钥与一次性邀请码绑定身份。", "highlights": ["每条写入带版本号与幂等键，编辑保留历史、二审不覆盖原标注", "冻结导出附带清单、SHA256 与 FROZEN_OK 标记，未决修正不入导出", "接受/修正/未决记录分池管理，含标注者与审核者的工作量与准确率表", "导入器校验结构、哈希源文件并拒绝不安全的本地图片路径"], "use_cases": ["多人协作标注 RLHF/DPO 训练数据并追溯每条标签的修改者", "对标注结果做二审与终审裁定，导出可审计的冻结训练集", "多模态模型输出的评估与质检工作流"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据标注", "RLHF", "人工反馈", "质量控制", "训练数据导出"], "domain": "LLM 训练数据/标注工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "通过微信联系作者"]}, "trust": {"confidence": "high", "evidence": ["L10: AlignLedger is a small annotation and quality-control system for RLHF, SFT, DPO/KTO, multimodal evaluation, and other hu", "L24: The server separates initial annotation, review, and final adjudication. Reviewers can sample records at random or selec"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "znxzsy/AlignLedger",
+ "sha": "e6aaf245103f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 RLHF/SFT/DPO 的可审计人工反馈标注与审核系统",
+  "review": "基于 Python 标准库与 SQLite 的小型标注与质检系统，服务于 RLHF、SFT、DPO/KTO 及多模态评估等人工反馈工作流。将模型输出、人工修正、二审、标注者身份与导出决策保存在同一条可审计记录中；每次写入带版本号与幂等键，支持草稿自动保存、随机/批量复核、终审裁定与带 SHA256 清单的冻结导出。提供一条命令启动的本地演示（生成合成数据）与 Docker 部署，可导入自有 details_*.json 数据；共享部署使用会话密钥与一次性邀请码绑定身份。",
+  "highlights": [
+   "每条写入带版本号与幂等键，编辑保留历史、二审不覆盖原标注",
+   "冻结导出附带清单、SHA256 与 FROZEN_OK 标记，未决修正不入导出",
+   "接受/修正/未决记录分池管理，含标注者与审核者的工作量与准确率表",
+   "导入器校验结构、哈希源文件并拒绝不安全的本地图片路径"
+  ],
+  "use_cases": [
+   "多人协作标注 RLHF/DPO 训练数据并追溯每条标签的修改者",
+   "对标注结果做二审与终审裁定，导出可审计的冻结训练集",
+   "多模态模型输出的评估与质检工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据标注",
+   "RLHF",
+   "人工反馈",
+   "质量控制",
+   "训练数据导出"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "通过微信联系作者"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: AlignLedger is a small annotation and quality-control system for RLHF, SFT, DPO/KTO, multimodal evaluation, and other hu",
+   "L24: The server separates initial annotation, review, and final adjudication. Reviewers can sample records at random or selec"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

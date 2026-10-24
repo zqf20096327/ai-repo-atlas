@@ -1,1 +1,87 @@
-{"fn": "zjunlp/LightMem-Ego", "sha": "beb3155315b0", "source": "readme", "identity": {"one_liner": "面向智能眼镜与手机的自我中心多模态 AI 记忆系统", "review": "开源、可自托管的多模态记忆系统：从 Rokid AI 眼镜或手机持续采集第一视角视频帧与音频，按对齐时间线组织为三层记忆（当前场景 M_cur、短期微事件 M_st、长期事件记忆 M_lt），长期层由 EM²Mem 引擎（EMNLP 2026 Findings）以事件为检索单元构建情景与语义图。用户可在眼镜 HUD 或网页同一会话中提问，回答附带时间戳的视觉与转录证据。标准部署为 docker compose 自托管，需外部 OpenAI 兼容 LLM 端点与讯飞 ASR 凭证；视觉检索与本地 Qwen（vLLM）为可选附加，需 GPU。评测基于 27 个查询的小规模原型数据集，测量结果而非公开榜单。", "highlights": ["眼镜/手机第一视角流式采集与统一会话时间线（帧、音频、ASR 转录）", "三层记忆架构：M_cur / M_st / M_lt，长期层由 EM²Mem 事件中心记忆引擎驱动", "回答附带时间戳视觉与转录证据（memory-grounded answers）", "docker compose 一键自托管全栈，眼镜端提供 APK"], "use_cases": ["戴着眼镜问『我的工牌放哪了』，找回看过位置的带证据回答", "回溯当天对话与行程，生成生活摘要", "长期积累后询问习惯性日常与偏好", "无眼镜时用手机浏览器摄像头/麦克风体验完整流程"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "消费者", "paper_url": "arXiv:2609.00551（EM²Mem）；LightMem-Ego arXiv 见 L5/L35", "demo_url": "README L11 提供浏览器在线演示入口", "self_declared_early": {"flag": false, "lines": [], "note": "声明测量的是当前原型而非公开榜单"}}, "links": {"scenario_tags": ["agent-memory", "自我中心视觉", "生活记录/lifelogging", "智能眼镜", "多模态检索问答"], "domain": "多模态 AI 记忆/可穿戴计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["Bilibili 演示视频链接", "Rokid（国内 AR 眼镜厂商）设备适配", "ZJUNLP（浙大 NLP 实验室）组织"]}, "trust": {"confidence": "high", "evidence": ["L68: - 🎥 **Always-on egocentric capture** — streams first-person camera frames and microphone audio from Rokid AI Glasses or ", "L71: - 🔍 **Memory-grounded answers** — every answer ships with the timestamped visual and transcript evidence behind it.", "L207:                   ├─► Stream API ─► M_cur ─► M_st ─► M_lt ─► Retrieval ─► Answer + Evidence"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zjunlp/LightMem-Ego",
+ "sha": "beb3155315b0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向智能眼镜与手机的自我中心多模态 AI 记忆系统",
+  "review": "开源、可自托管的多模态记忆系统：从 Rokid AI 眼镜或手机持续采集第一视角视频帧与音频，按对齐时间线组织为三层记忆（当前场景 M_cur、短期微事件 M_st、长期事件记忆 M_lt），长期层由 EM²Mem 引擎（EMNLP 2026 Findings）以事件为检索单元构建情景与语义图。用户可在眼镜 HUD 或网页同一会话中提问，回答附带时间戳的视觉与转录证据。标准部署为 docker compose 自托管，需外部 OpenAI 兼容 LLM 端点与讯飞 ASR 凭证；视觉检索与本地 Qwen（vLLM）为可选附加，需 GPU。评测基于 27 个查询的小规模原型数据集，测量结果而非公开榜单。",
+  "highlights": [
+   "眼镜/手机第一视角流式采集与统一会话时间线（帧、音频、ASR 转录）",
+   "三层记忆架构：M_cur / M_st / M_lt，长期层由 EM²Mem 事件中心记忆引擎驱动",
+   "回答附带时间戳视觉与转录证据（memory-grounded answers）",
+   "docker compose 一键自托管全栈，眼镜端提供 APK"
+  ],
+  "use_cases": [
+   "戴着眼镜问『我的工牌放哪了』，找回看过位置的带证据回答",
+   "回溯当天对话与行程，生成生活摘要",
+   "长期积累后询问习惯性日常与偏好",
+   "无眼镜时用手机浏览器摄像头/麦克风体验完整流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": "arXiv:2609.00551（EM²Mem）；LightMem-Ego arXiv 见 L5/L35",
+  "demo_url": "README L11 提供浏览器在线演示入口",
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "声明测量的是当前原型而非公开榜单"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent-memory",
+   "自我中心视觉",
+   "生活记录/lifelogging",
+   "智能眼镜",
+   "多模态检索问答"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Bilibili 演示视频链接",
+   "Rokid（国内 AR 眼镜厂商）设备适配",
+   "ZJUNLP（浙大 NLP 实验室）组织"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L68: - 🎥 **Always-on egocentric capture** — streams first-person camera frames and microphone audio from Rokid AI Glasses or ",
+   "L71: - 🔍 **Memory-grounded answers** — every answer ships with the timestamped visual and transcript evidence behind it.",
+   "L207:                   ├─► Stream API ─► M_cur ─► M_st ─► M_lt ─► Retrieval ─► Answer + Evidence"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

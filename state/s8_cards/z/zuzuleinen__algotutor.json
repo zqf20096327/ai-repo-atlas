@@ -1,1 +1,74 @@
-{"fn": "zuzuleinen/algotutor", "sha": "45a04d3c69ee", "source": "readme", "identity": {"one_liner": "面向 Go 开发者的 AI 辅导训练工具：Agent 生成递进算法题", "review": "配合 AI 编码 Agent 使用的训练工具（agent-agnostic）：用户选择自己的 agent 作为私人导师，系统生成难度递进的题目，追踪各概念的技能水平并据此选题；提供 train/check/review 工作流，支持间隔复习（每日 review TUI）与提交评分、错误记录。当前课程含算法与数据结构、并发两门。通过 git clone + make 命令本地运行，要求已配置支持的 AI 编码 agent 与 Go ≥ 1.26。", "highlights": ["Agent 无关设计，用户自带 AI 编码 agent 作为导师", "按技能水平生成递进难度题目并追踪进度", "间隔复习：每日 review TUI 跨课程复习", "聊天命令：check 评分、'I don't know' 换简单题"], "use_cases": ["我想系统训练 Go 的算法与数据结构", "我想通过 AI 导师逐步攻克并发编程", "我想每日做间隔复习巩固已学概念"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["算法训练", "间隔复习", "AI辅导/教育", "Go"], "domain": "开发者教育/训练工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: Your agent acts as your personal tutor, generating progressively harder problems. It tracks your skill level on each con", "L73: - An AI coding agent — see docs/agents.md for the supported list and setup"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zuzuleinen/algotutor",
+ "sha": "45a04d3c69ee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Go 开发者的 AI 辅导训练工具：Agent 生成递进算法题",
+  "review": "配合 AI 编码 Agent 使用的训练工具（agent-agnostic）：用户选择自己的 agent 作为私人导师，系统生成难度递进的题目，追踪各概念的技能水平并据此选题；提供 train/check/review 工作流，支持间隔复习（每日 review TUI）与提交评分、错误记录。当前课程含算法与数据结构、并发两门。通过 git clone + make 命令本地运行，要求已配置支持的 AI 编码 agent 与 Go ≥ 1.26。",
+  "highlights": [
+   "Agent 无关设计，用户自带 AI 编码 agent 作为导师",
+   "按技能水平生成递进难度题目并追踪进度",
+   "间隔复习：每日 review TUI 跨课程复习",
+   "聊天命令：check 评分、'I don't know' 换简单题"
+  ],
+  "use_cases": [
+   "我想系统训练 Go 的算法与数据结构",
+   "我想通过 AI 导师逐步攻克并发编程",
+   "我想每日做间隔复习巩固已学概念"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "算法训练",
+   "间隔复习",
+   "AI辅导/教育",
+   "Go"
+  ],
+  "domain": "开发者教育/训练工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Your agent acts as your personal tutor, generating progressively harder problems. It tracks your skill level on each con",
+   "L73: - An AI coding agent — see docs/agents.md for the supported list and setup"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

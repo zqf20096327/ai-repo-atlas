@@ -1,1 +1,76 @@
-{"fn": "zzsza/Boostcamp-AI-Tech-Product-Serving", "sha": "39b485c9874f", "source": "readme", "identity": {"one_liner": "AI Tech 课程产品服务教学配套代码仓库（韩语）", "review": "Boostcamp AI Tech 'Product Serving' 课程的配套实践代码仓库，含四个模块：Airflow 批量服务、FastAPI 在线服务、Docker 以及 MLflow 模型管理。README 以韩语撰写，内容为学习建议（自行编写而非复制代码、记录报错原因）、通过 Slack 频道答疑、以及贡献者协作规则（conventional commit、PR 审查、Squash & Merge）。仓库本身不含产品的安装运行命令。", "highlights": ["四个模块：Airflow 批量服务、FastAPI 在线服务、Docker、MLflow 模型管理", "面向课程学员的实践学习建议与报错记录方法", "列出 8 名贡献者，遵循 all-contributors 规范"], "use_cases": ["学习模型产品服务化的批量/在线部署实践", "跟随课程练习 Airflow、FastAPI、MLflow 的使用", "参考 MLOps 服务化课程的代码组织方式"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MLOps", "课程资料", "模型服务化", "教学代码"], "domain": "AI 工程/教学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: - 부스트캠프 AI Tech - Product Serving 자료 중 코드가 필요한 내용을 저장한 Repo입니다", "L9: ├── 01-batch-serving(airflow)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zzsza/Boostcamp-AI-Tech-Product-Serving",
+ "sha": "39b485c9874f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Tech 课程产品服务教学配套代码仓库（韩语）",
+  "review": "Boostcamp AI Tech 'Product Serving' 课程的配套实践代码仓库，含四个模块：Airflow 批量服务、FastAPI 在线服务、Docker 以及 MLflow 模型管理。README 以韩语撰写，内容为学习建议（自行编写而非复制代码、记录报错原因）、通过 Slack 频道答疑、以及贡献者协作规则（conventional commit、PR 审查、Squash & Merge）。仓库本身不含产品的安装运行命令。",
+  "highlights": [
+   "四个模块：Airflow 批量服务、FastAPI 在线服务、Docker、MLflow 模型管理",
+   "面向课程学员的实践学习建议与报错记录方法",
+   "列出 8 名贡献者，遵循 all-contributors 规范"
+  ],
+  "use_cases": [
+   "学习模型产品服务化的批量/在线部署实践",
+   "跟随课程练习 Airflow、FastAPI、MLflow 的使用",
+   "参考 MLOps 服务化课程的代码组织方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "课程资料",
+   "模型服务化",
+   "教学代码"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: - 부스트캠프 AI Tech - Product Serving 자료 중 코드가 필요한 내용을 저장한 Repo입니다",
+   "L9: ├── 01-batch-serving(airflow)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

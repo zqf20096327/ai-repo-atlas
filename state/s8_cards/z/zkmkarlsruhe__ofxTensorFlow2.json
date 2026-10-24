@@ -1,1 +1,77 @@
-{"fn": "zkmkarlsruhe/ofxTensorFlow2", "sha": "15a65942ee9c", "source": "readme", "identity": {"one_liner": "在 openFrameworks 中加载运行 TensorFlow 2 模型的 C++ 插件", "review": "由 ZKM | Hertz-Lab 开发的 openFrameworks 插件（addon），通过 cppflow 封装 TensorFlow 2 C API，提供加载与运行模型的封装类，并附带图像、像素、音频样本等 openFrameworks 常用类型与张量之间的转换工具函数。面向用 C++ 做创意编码的开发者，示例涵盖风格迁移、目标识别、姿态估计、Pix2Pix、关键词 spotting 与视频抠像。以源码形式克隆到 openFrameworks addons 目录安装，需运行脚本下载预编译 libtensorflow，GPU 支持为可选项，Windows 未测试。", "highlights": ["基于 cppflow 封装 TensorFlow 2 C API，无需 Bazel 或完整 TensorFlow 安装", "提供 openFrameworks 类型（图像/像素/音频样本）与张量的转换工具", "脚本自动下载预编译 libtensorflow，可选 GPU 构建与指定版本", "示例覆盖风格迁移、目标识别、姿态估计、视频抠像等"], "use_cases": ["在 openFrameworks 创意编码项目中加载并运行 TensorFlow 2 模型", "构建实时视觉/音频推理的互动装置或应用", "复用官方示例快速上手模型集成"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["创意编程", "模型推理集成", "C++插件", "新媒体艺术"], "domain": "创意编程/机器学习集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L30: ofxTensorFlow2 is an openFrameworks addon for loading and running ML models trained with the TensorFlow 2 ML (Machine Le", "L36: The addon utilizes the TensorFlow 2 C library wrapped by the open source cppflow C++ interface:", "L42: Additional classes wrap the process of loading & running a model and utility functions are provided for conversion betwe"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zkmkarlsruhe/ofxTensorFlow2",
+ "sha": "15a65942ee9c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 openFrameworks 中加载运行 TensorFlow 2 模型的 C++ 插件",
+  "review": "由 ZKM | Hertz-Lab 开发的 openFrameworks 插件（addon），通过 cppflow 封装 TensorFlow 2 C API，提供加载与运行模型的封装类，并附带图像、像素、音频样本等 openFrameworks 常用类型与张量之间的转换工具函数。面向用 C++ 做创意编码的开发者，示例涵盖风格迁移、目标识别、姿态估计、Pix2Pix、关键词 spotting 与视频抠像。以源码形式克隆到 openFrameworks addons 目录安装，需运行脚本下载预编译 libtensorflow，GPU 支持为可选项，Windows 未测试。",
+  "highlights": [
+   "基于 cppflow 封装 TensorFlow 2 C API，无需 Bazel 或完整 TensorFlow 安装",
+   "提供 openFrameworks 类型（图像/像素/音频样本）与张量的转换工具",
+   "脚本自动下载预编译 libtensorflow，可选 GPU 构建与指定版本",
+   "示例覆盖风格迁移、目标识别、姿态估计、视频抠像等"
+  ],
+  "use_cases": [
+   "在 openFrameworks 创意编码项目中加载并运行 TensorFlow 2 模型",
+   "构建实时视觉/音频推理的互动装置或应用",
+   "复用官方示例快速上手模型集成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "创意编程",
+   "模型推理集成",
+   "C++插件",
+   "新媒体艺术"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L30: ofxTensorFlow2 is an openFrameworks addon for loading and running ML models trained with the TensorFlow 2 ML (Machine Le",
+   "L36: The addon utilizes the TensorFlow 2 C library wrapped by the open source cppflow C++ interface:",
+   "L42: Additional classes wrap the process of loading & running a model and utility functions are provided for conversion betwe"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,80 @@
-{"fn": "zqc3117/Spotter", "sha": "f113c22d3031", "source": "readme", "identity": {"one_liner": "具身机器人执行监控框架：VLM 仅在确认出错时介入修复", "review": "论文官方代码库。在冻结的具身模型（System 1）与 VLM（System 2）之间加入轻量干预层：具身模型持续执行，本地快速 VLM 并行筛查每个动作块，前沿 VLM 仅在确认错误后介入判定与修复，无需特权信息（如任务成功信号）。支持 RoboCasa 与 RoboTwin 2.0 两个仿真环境，策略模型支持 π0.5 与 Cosmos Policy，判定模型使用本地 vLLM 部署的 Qwen（可选 GPT API）。安装涉及多个 Python 环境、模型 checkpoint 下载与 NVIDIA GPU。", "highlights": ["具身模型主导执行，VLM 仅在确认错误时介入修复", "配合本地部署的开源 Qwen，无需特权信息", "成功回合平均仅增加 13–16 秒，判定器平均调用不足一次", "支持 RoboCasa 与 RoboTwin 2.0，π0.5 / Cosmos Policy 策略"], "use_cases": ["在仿真环境中监控具身策略执行并自动修复失败动作", "复现论文中的 RoboCasa / RoboTwin 2.0 评测结果", "接入自己的具身模型做运行时错误监测"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": "zqc3117.github.io/Spotter", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["具身智能", "机器人操作", "运行时监控", "VLM", "论文代码"], "domain": "机器人/具身智能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本（L7-8）"]}, "trust": {"confidence": "high", "evidence": ["L22: **Spotter** adds a lightweight intervention layer between a frozen embodied model (System 1) and a VLM (System 2).", "L24: watches in parallel and the VLM steps in only to confirm and repair an error. The VLM's job becomes much simpler,", "L35: - **A lightweight intervention layer.** Like a person who keeps a little attention on a task and focuses only when"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zqc3117/Spotter",
+ "sha": "f113c22d3031",
+ "source": "readme",
+ "identity": {
+  "one_liner": "具身机器人执行监控框架：VLM 仅在确认出错时介入修复",
+  "review": "论文官方代码库。在冻结的具身模型（System 1）与 VLM（System 2）之间加入轻量干预层：具身模型持续执行，本地快速 VLM 并行筛查每个动作块，前沿 VLM 仅在确认错误后介入判定与修复，无需特权信息（如任务成功信号）。支持 RoboCasa 与 RoboTwin 2.0 两个仿真环境，策略模型支持 π0.5 与 Cosmos Policy，判定模型使用本地 vLLM 部署的 Qwen（可选 GPT API）。安装涉及多个 Python 环境、模型 checkpoint 下载与 NVIDIA GPU。",
+  "highlights": [
+   "具身模型主导执行，VLM 仅在确认错误时介入修复",
+   "配合本地部署的开源 Qwen，无需特权信息",
+   "成功回合平均仅增加 13–16 秒，判定器平均调用不足一次",
+   "支持 RoboCasa 与 RoboTwin 2.0，π0.5 / Cosmos Policy 策略"
+  ],
+  "use_cases": [
+   "在仿真环境中监控具身策略执行并自动修复失败动作",
+   "复现论文中的 RoboCasa / RoboTwin 2.0 评测结果",
+   "接入自己的具身模型做运行时错误监测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "zqc3117.github.io/Spotter",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "具身智能",
+   "机器人操作",
+   "运行时监控",
+   "VLM",
+   "论文代码"
+  ],
+  "domain": "机器人/具身智能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本（L7-8）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: **Spotter** adds a lightweight intervention layer between a frozen embodied model (System 1) and a VLM (System 2).",
+   "L24: watches in parallel and the VLM steps in only to confirm and repair an error. The VLM's job becomes much simpler,",
+   "L35: - **A lightweight intervention layer.** Like a person who keeps a little attention on a task and focuses only when"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,81 @@
-{"fn": "zylc369/OpenSecurity", "sha": "7f4b8eb87a91", "source": "readme", "identity": {"one_liner": "AI 驱动的多领域安全分析 Agent 平台，让 LLM 端到端完成逆向与安全审计", "review": "构建于 OpenCode Agent 框架之上的安全分析平台，由 6 个 Agent 组成：一个复合任务协调器、二进制逆向、移动端逆向、Web 安全、AI 应用安全（提示注入/越狱）四个领域 Agent，以及从实战复盘中沉淀脚本与知识库的自我进化 Agent。LLM 编排 Python/Bash 工具脚本与 Markdown 知识库三层分离；IDA 操作走 idat headless + IDAPython 而非 GUI，保证过程可复现。运行依赖 OpenCode、Python 3.8+、IDA Pro（仅逆向类 Agent 需要）及 Frida、apktool 等外部工具，通过 git clone 安装。", "highlights": ["6 个 Agent：协调器 + 二进制/移动/Web/AI 安全四领域 + 自我进化引擎", "三层分离：Agent prompt 编排层、Python/Bash 工具层、按需加载知识库层", "IDA 走 headless 模式 + IDAPython，分析过程可稳定复现", "中间产物（反编译输出、报告等）持久化到任务目录"], "use_cases": ["让 LLM 端到端逆向 crackme 等二进制并产出可验证报告", "对 APK/IPA 做反编译与 Native/Java 分析", "审计 Web 应用漏洞并构造攻击链", "测试 LLM 应用的提示注入与越狱风险"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["安全分析", "逆向工程", "AI Agent", "漏洞研究", "二进制分析"], "domain": "安全/逆向工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README（含中文/English 切换）"]}, "trust": {"confidence": "high", "evidence": ["L11: OpenSecurity 让 LLM 端到端地完成一次安全分析：拿到目标文件，自己编排工具链（IDA Pro、Frida、apktool……），一步步推进，最后产出一份可验证的报告。不是问一句答一句，不是停在\"我建议你用 IDA 看看\"，而", "L34: - **AI 编排层** — Agent prompt（何时调用什么工具、如何推理），由 LLM 执行"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zylc369/OpenSecurity",
+ "sha": "7f4b8eb87a91",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 驱动的多领域安全分析 Agent 平台，让 LLM 端到端完成逆向与安全审计",
+  "review": "构建于 OpenCode Agent 框架之上的安全分析平台，由 6 个 Agent 组成：一个复合任务协调器、二进制逆向、移动端逆向、Web 安全、AI 应用安全（提示注入/越狱）四个领域 Agent，以及从实战复盘中沉淀脚本与知识库的自我进化 Agent。LLM 编排 Python/Bash 工具脚本与 Markdown 知识库三层分离；IDA 操作走 idat headless + IDAPython 而非 GUI，保证过程可复现。运行依赖 OpenCode、Python 3.8+、IDA Pro（仅逆向类 Agent 需要）及 Frida、apktool 等外部工具，通过 git clone 安装。",
+  "highlights": [
+   "6 个 Agent：协调器 + 二进制/移动/Web/AI 安全四领域 + 自我进化引擎",
+   "三层分离：Agent prompt 编排层、Python/Bash 工具层、按需加载知识库层",
+   "IDA 走 headless 模式 + IDAPython，分析过程可稳定复现",
+   "中间产物（反编译输出、报告等）持久化到任务目录"
+  ],
+  "use_cases": [
+   "让 LLM 端到端逆向 crackme 等二进制并产出可验证报告",
+   "对 APK/IPA 做反编译与 Native/Java 分析",
+   "审计 Web 应用漏洞并构造攻击链",
+   "测试 LLM 应用的提示注入与越狱风险"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "安全分析",
+   "逆向工程",
+   "AI Agent",
+   "漏洞研究",
+   "二进制分析"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（含中文/English 切换）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: OpenSecurity 让 LLM 端到端地完成一次安全分析：拿到目标文件，自己编排工具链（IDA Pro、Frida、apktool……），一步步推进，最后产出一份可验证的报告。不是问一句答一句，不是停在\"我建议你用 IDA 看看\"，而",
+   "L34: - **AI 编排层** — Agent prompt（何时调用什么工具、如何推理），由 LLM 执行"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

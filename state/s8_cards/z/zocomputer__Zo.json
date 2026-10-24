@@ -1,1 +1,77 @@
-{"fn": "zocomputer/Zo", "sha": "e065af0789f4", "source": "readme", "identity": {"one_liner": "带 AI 能力的个人云端电脑：存储文件、连接工具并构建项目", "review": "由 zocomputer.com 运营的智能云电脑服务：以服务器形式提供文件存储（免费 100GB）、工具连接与项目托管，可自行部署 Plex 媒体服务器、自托管 n8n 等；内置前沿 AI 模型访问，支持通过短信或邮件与云电脑交互，作为个人助手使用。访问方式包括任意网页浏览器、Mac/Windows 桌面客户端，iOS 应用标注为即将推出。README 未提供本地安装或自部署步骤，指向官网获取服务。", "highlights": ["以服务器形式托管任意项目（如 Plex、自托管 n8n）", "通过短信或邮件与云电脑交互作为个人助手", "免费 100GB 存储与内置前沿 AI 模型访问", "支持浏览器、Mac/Windows 桌面端访问，iOS 应用标注即将推出"], "use_cases": ["在云端搭建并长期运行个人项目与自托管服务", "通过对话方式让云电脑代为研究与构建内容", "把云电脑当作随身个人助手收发邮件短信"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://zocomputer.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["云电脑", "个人助手", "自托管服务", "AI工作空间"], "domain": "云计算/个人生产力工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Zo is an intelligent cloud computer that lets you turn your ideas into reality fast. You can store your files, connect y", "L5: Because Zo is a server, you can host anything – your projects, a Plex media server, self-hosted n8n, you name it. You ca"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zocomputer/Zo",
+ "sha": "e065af0789f4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 能力的个人云端电脑：存储文件、连接工具并构建项目",
+  "review": "由 zocomputer.com 运营的智能云电脑服务：以服务器形式提供文件存储（免费 100GB）、工具连接与项目托管，可自行部署 Plex 媒体服务器、自托管 n8n 等；内置前沿 AI 模型访问，支持通过短信或邮件与云电脑交互，作为个人助手使用。访问方式包括任意网页浏览器、Mac/Windows 桌面客户端，iOS 应用标注为即将推出。README 未提供本地安装或自部署步骤，指向官网获取服务。",
+  "highlights": [
+   "以服务器形式托管任意项目（如 Plex、自托管 n8n）",
+   "通过短信或邮件与云电脑交互作为个人助手",
+   "免费 100GB 存储与内置前沿 AI 模型访问",
+   "支持浏览器、Mac/Windows 桌面端访问，iOS 应用标注即将推出"
+  ],
+  "use_cases": [
+   "在云端搭建并长期运行个人项目与自托管服务",
+   "通过对话方式让云电脑代为研究与构建内容",
+   "把云电脑当作随身个人助手收发邮件短信"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://zocomputer.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "云电脑",
+   "个人助手",
+   "自托管服务",
+   "AI工作空间"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Zo is an intelligent cloud computer that lets you turn your ideas into reality fast. You can store your files, connect y",
+   "L5: Because Zo is a server, you can host anything – your projects, a Plex media server, self-hosted n8n, you name it. You ca"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

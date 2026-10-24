@@ -1,1 +1,82 @@
-{"fn": "zjunlp/Low-resource-KEPapers", "sha": "1d4505fca799", "source": "readme", "identity": {"one_liner": "低资源信息抽取论文清单：NER/RE/EE 方法、工具与数据集", "review": "由 zjunlp 维护的低资源信息抽取（IE）论文汇编，覆盖命名实体识别（NER）、关系抽取（RE）与事件抽取（EE），按传统方法与 LLM-based 方法两大范式组织：传统方法分为利用高资源数据、构建数据高效模型、数据与模型协同优化；LLM 方法分为免调优直接推断与微调模型特化。另收录 IE 工具包（DeepKE、OpenUE 等）、低资源数据集（Few-NERD、FewRel 等）及相关综述，接受社区 PR 更新。", "highlights": ["按传统/LLM-based 两大范式组织论文条目", "收录传统与 LLM-based 两类 IE 工具包", "收录 NER/RE/EE 低资源数据集（Few-NERD、FewRel、FewEvent 等）", "附相关综述与教程 slides（CCKS/AACL-IJCNLP/IJCAI）"], "use_cases": ["低资源信息抽取方向的文献调研", "寻找可用的 IE 工具包与基准数据集", "了解传统与 LLM-based 低资源 IE 方法的分类脉络"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["论文清单", "信息抽取", "低资源学习", "知识图谱", "NLP"], "domain": "NLP/信息抽取", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["维护方 zjunlp（浙大 NLP 实验室）", "含中文标题教程（高效知识图谱构建， CCKS 2022）"]}, "trust": {"confidence": "high", "evidence": ["L3: 🍎 The repository is a paper set on low-resource information extraction (IE), mainly including NER, RE and EE, which is g", "L15: 📖 **Survey Paper**: Information Extraction in Low-Resource Scenarios: Survey and Perspective (ICKG 2024) \\[paper\\]"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zjunlp/Low-resource-KEPapers",
+ "sha": "1d4505fca799",
+ "source": "readme",
+ "identity": {
+  "one_liner": "低资源信息抽取论文清单：NER/RE/EE 方法、工具与数据集",
+  "review": "由 zjunlp 维护的低资源信息抽取（IE）论文汇编，覆盖命名实体识别（NER）、关系抽取（RE）与事件抽取（EE），按传统方法与 LLM-based 方法两大范式组织：传统方法分为利用高资源数据、构建数据高效模型、数据与模型协同优化；LLM 方法分为免调优直接推断与微调模型特化。另收录 IE 工具包（DeepKE、OpenUE 等）、低资源数据集（Few-NERD、FewRel 等）及相关综述，接受社区 PR 更新。",
+  "highlights": [
+   "按传统/LLM-based 两大范式组织论文条目",
+   "收录传统与 LLM-based 两类 IE 工具包",
+   "收录 NER/RE/EE 低资源数据集（Few-NERD、FewRel、FewEvent 等）",
+   "附相关综述与教程 slides（CCKS/AACL-IJCNLP/IJCAI）"
+  ],
+  "use_cases": [
+   "低资源信息抽取方向的文献调研",
+   "寻找可用的 IE 工具包与基准数据集",
+   "了解传统与 LLM-based 低资源 IE 方法的分类脉络"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "信息抽取",
+   "低资源学习",
+   "知识图谱",
+   "NLP"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "curated-list",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护方 zjunlp（浙大 NLP 实验室）",
+   "含中文标题教程（高效知识图谱构建， CCKS 2022）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 🍎 The repository is a paper set on low-resource information extraction (IE), mainly including NER, RE and EE, which is g",
+   "L15: 📖 **Survey Paper**: Information Extraction in Low-Resource Scenarios: Survey and Perspective (ICKG 2024) \\[paper\\]"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

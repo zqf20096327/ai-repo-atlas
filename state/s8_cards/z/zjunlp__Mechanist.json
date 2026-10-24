@@ -1,1 +1,84 @@
-{"fn": "zjunlp/Mechanist", "sha": "76473dc842ef", "source": "readme", "identity": {"one_liner": "LLM 机制可解释性自主研究 agent：从问题到证据支撑的研究结论", "review": "以 Claude Code 插件形式交付的自主研究流水线：面向大模型内部机制的研究问题，协调文献检索（14k 篇可解释性语料与 157M 节点引文图）、假设提出、实验代码生成与执行、稳健性验证和最多 6 轮迭代修正，产出按 claim 组织的研究报告与 CLAIMS_LEDGER。需在用户本机与 GPU 上运行实验，要求 Claude Code + uv + 外部评审模型 API key（推荐非 Claude 系列模型）。", "highlights": ["claim→experiment→verify→iterate 四阶段流水线，各阶段产物落盘可审计", "文献检索覆盖 14k 篇可解释性语料与 157M 节点跨学科引文图", "外部独立模型逐阶段交叉评审，避免同模型自评", "以 Claude Code 插件分发，无需克隆仓库"], "use_cases": ["让 agent 自主定位某个模型行为的内部机制成因", "按原规模复现可解释性论文的发现与方法", "在文献库中检索某主题或梳理领域发展时间线", "对已有假设做多种模型/数据集/方法轴上的稳健性验证"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2608.12036", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI科学家", "机制可解释性", "自主研究agent", "Claude Code插件", "LLM研究"], "domain": "LLM 可解释性/科研自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "deepseek"]}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["中文版 README 链接", "zjunlp（浙大 NLP 实验室）组织"]}, "trust": {"confidence": "mid", "evidence": ["L27: **Mechanist** converts a research question about the internal mechanisms of large language models into **evidence-backed", "L29: **Mechanist ships as a Claude Code plugin** — no repository clone required. Install it in minutes, hand it a research qu"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zjunlp/Mechanist",
+ "sha": "76473dc842ef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 机制可解释性自主研究 agent：从问题到证据支撑的研究结论",
+  "review": "以 Claude Code 插件形式交付的自主研究流水线：面向大模型内部机制的研究问题，协调文献检索（14k 篇可解释性语料与 157M 节点引文图）、假设提出、实验代码生成与执行、稳健性验证和最多 6 轮迭代修正，产出按 claim 组织的研究报告与 CLAIMS_LEDGER。需在用户本机与 GPU 上运行实验，要求 Claude Code + uv + 外部评审模型 API key（推荐非 Claude 系列模型）。",
+  "highlights": [
+   "claim→experiment→verify→iterate 四阶段流水线，各阶段产物落盘可审计",
+   "文献检索覆盖 14k 篇可解释性语料与 157M 节点跨学科引文图",
+   "外部独立模型逐阶段交叉评审，避免同模型自评",
+   "以 Claude Code 插件分发，无需克隆仓库"
+  ],
+  "use_cases": [
+   "让 agent 自主定位某个模型行为的内部机制成因",
+   "按原规模复现可解释性论文的发现与方法",
+   "在文献库中检索某主题或梳理领域发展时间线",
+   "对已有假设做多种模型/数据集/方法轴上的稳健性验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2608.12036",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI科学家",
+   "机制可解释性",
+   "自主研究agent",
+   "Claude Code插件",
+   "LLM研究"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文版 README 链接",
+   "zjunlp（浙大 NLP 实验室）组织"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L27: **Mechanist** converts a research question about the internal mechanisms of large language models into **evidence-backed",
+   "L29: **Mechanist ships as a Claude Code plugin** — no repository clone required. Install it in minutes, hand it a research qu"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

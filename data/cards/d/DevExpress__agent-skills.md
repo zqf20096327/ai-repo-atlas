@@ -33,7 +33,7 @@ DevExpress 官方维护的 AI agent 技能仓库，面向 GitHub Copilot、Claud
 
 ## 场景标签
 
- · 领域:软件开发/编码助手知识包
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

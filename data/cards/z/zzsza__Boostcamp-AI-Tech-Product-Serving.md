@@ -32,7 +32,7 @@ Boostcamp AI Tech 'Product Serving' 课程的配套实践代码仓库，含四�
 
 ## 场景标签
 
- · 领域:AI 工程/教学
+`教程课程` `MLOps` · 领域:学习与行业
 
 ## 证据(README 行号)
 

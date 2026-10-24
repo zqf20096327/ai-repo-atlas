@@ -1,1 +1,82 @@
-{"fn": "znc15/FlowVision", "sha": "c4894f4084cb", "source": "readme", "identity": {"one_liner": "AI 驱动的流程图设计工具：分析代码并生成架构图", "review": "基于 React + Electron 的流程图设计应用：用户用自然语言描述需求，AI 生成完整流程图，支持 OpenAI / Anthropic / DeepSeek / Ollama 多模型切换；可导入本地或 GitHub / Gitee 项目分析代码结构并生成可视化架构图。画布提供 39 种节点类型、8 种图表类型的可视化编辑与自动布局。内置 MCP 服务器暴露 23 个工具，供 Claude Desktop、Cursor、VS Code 等客户端实时操作流程图，也可接入外部 MCP 服务器（如 GrokSearch 联网搜索）。Web 模式需从源码运行，桌面端提供 Windows / macOS / Linux 安装包。", "highlights": ["自然语言生成流程图，支持 OpenAI / Anthropic / DeepSeek / Ollama 多模型", "导入本地或 GitHub / Gitee 项目，AI 分析代码结构生成架构图", "内置 MCP 服务器暴露 23 个工具，外部 AI 客户端可实时操作流程图", "39 种节点类型覆盖 8 种图表，支持拖拽编辑、自动布局与多格式导出"], "use_cases": ["用自然语言快速生成流程图、ER 图、时序图等", "导入项目代码自动生成可视化架构图", "在 Claude Desktop / Cursor 中通过 MCP 直接操作画布上的流程图"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["流程图/图表工具", "代码分析", "MCP", "桌面应用", "AI绘图"], "domain": "开发工具/图表可视化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "ollama", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "Gitee 仓库文件 API 支持"]}, "trust": {"confidence": "mid", "evidence": ["L15: 用自然语言描述需求，AI 自动生成完整流程图。", "L24: 导入本地或 GitHub 项目，AI 深度分析代码结构、"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "znc15/FlowVision",
+ "sha": "c4894f4084cb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 驱动的流程图设计工具：分析代码并生成架构图",
+  "review": "基于 React + Electron 的流程图设计应用：用户用自然语言描述需求，AI 生成完整流程图，支持 OpenAI / Anthropic / DeepSeek / Ollama 多模型切换；可导入本地或 GitHub / Gitee 项目分析代码结构并生成可视化架构图。画布提供 39 种节点类型、8 种图表类型的可视化编辑与自动布局。内置 MCP 服务器暴露 23 个工具，供 Claude Desktop、Cursor、VS Code 等客户端实时操作流程图，也可接入外部 MCP 服务器（如 GrokSearch 联网搜索）。Web 模式需从源码运行，桌面端提供 Windows / macOS / Linux 安装包。",
+  "highlights": [
+   "自然语言生成流程图，支持 OpenAI / Anthropic / DeepSeek / Ollama 多模型",
+   "导入本地或 GitHub / Gitee 项目，AI 分析代码结构生成架构图",
+   "内置 MCP 服务器暴露 23 个工具，外部 AI 客户端可实时操作流程图",
+   "39 种节点类型覆盖 8 种图表，支持拖拽编辑、自动布局与多格式导出"
+  ],
+  "use_cases": [
+   "用自然语言快速生成流程图、ER 图、时序图等",
+   "导入项目代码自动生成可视化架构图",
+   "在 Claude Desktop / Cursor 中通过 MCP 直接操作画布上的流程图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "流程图/图表工具",
+   "代码分析",
+   "MCP",
+   "桌面应用",
+   "AI绘图"
+  ],
+  "domain": "开发工具/图表可视化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 仓库文件 API 支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: 用自然语言描述需求，AI 自动生成完整流程图。",
+   "L24: 导入本地或 GitHub 项目，AI 深度分析代码结构、"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

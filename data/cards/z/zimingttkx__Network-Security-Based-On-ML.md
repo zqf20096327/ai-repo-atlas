@@ -33,7 +33,7 @@ NIPS 是服务端 IPS：在 Linux 上经 NFQUEUE/iptables 拦截流量，由确�
 
 ## 场景标签
 
- · 领域:网络安全/入侵防御
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

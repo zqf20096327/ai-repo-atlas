@@ -1,1 +1,87 @@
-{"fn": "zylos-ai/zylos-core", "sha": "6a651ff48dcb", "source": "readme", "identity": {"one_liner": "开源 AI agent 基础设施：为 Claude Code/Codex 提供持久运行与协作", "review": "自托管的 agent 运行与管理基础设施：将 Claude Code（Anthropic）与 Codex（OpenAI）作为可互换的 AI 运行时托管在 Linux/macOS 服务器上，提供跨重启持久化的五层记忆（Inside Out）、基于 Cron 的自主任务调度、通过 Telegram/Lark/Web 控制台的统一通信桥（C4，SQLite 持久化）、崩溃恢复与心跳监控（PM2）、Caddy 反向代理与自动 HTTPS。通过安装脚本或 npm 安装，支持 Docker 部署，需 Node.js 20+ 与 Claude 订阅或 OpenAI API key。", "highlights": ["Claude Code 与 Codex 作为可互换运行时，切换时保留记忆与技能", "五层 Inside Out 记忆架构，上下文压缩前自动保存", "C4 通信桥统一 Telegram/Lark/Web 控制台消息为单一会话与记忆", "内置崩溃恢复、心跳探活、健康监控与自动升级（PM2）"], "use_cases": ["在自有服务器上 7x24 运行我的 AI agent 并保留长期记忆", "让 AI 在我离开时按调度自主执行任务", "通过 Telegram、飞书或网页控制台与同一个 AI 对话", "用 Claude 订阅而非按 token 计费运行常驻 agent"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent", "自托管", "持久记忆", "消息通道集成", "个人AI助手"], "domain": "AI Agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 提供中文版", "支持 Lark/飞书通道", "时区示例使用 Asia/Shanghai"]}, "trust": {"confidence": "high", "evidence": ["L19: Zylos gives it a life. Memory that survives restarts. A scheduler that works while you sleep. Communication through Tele", "L21: Supports Claude Code (Anthropic) and Codex (OpenAI). Fully compatible with the OpenClaw ecosystem.", "L221: Zylos supports Claude Code (Anthropic) and Codex (OpenAI) as interchangeable AI runtimes. Start with one, switch to the "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zylos-ai/zylos-core",
+ "sha": "6a651ff48dcb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI agent 基础设施：为 Claude Code/Codex 提供持久运行与协作",
+  "review": "自托管的 agent 运行与管理基础设施：将 Claude Code（Anthropic）与 Codex（OpenAI）作为可互换的 AI 运行时托管在 Linux/macOS 服务器上，提供跨重启持久化的五层记忆（Inside Out）、基于 Cron 的自主任务调度、通过 Telegram/Lark/Web 控制台的统一通信桥（C4，SQLite 持久化）、崩溃恢复与心跳监控（PM2）、Caddy 反向代理与自动 HTTPS。通过安装脚本或 npm 安装，支持 Docker 部署，需 Node.js 20+ 与 Claude 订阅或 OpenAI API key。",
+  "highlights": [
+   "Claude Code 与 Codex 作为可互换运行时，切换时保留记忆与技能",
+   "五层 Inside Out 记忆架构，上下文压缩前自动保存",
+   "C4 通信桥统一 Telegram/Lark/Web 控制台消息为单一会话与记忆",
+   "内置崩溃恢复、心跳探活、健康监控与自动升级（PM2）"
+  ],
+  "use_cases": [
+   "在自有服务器上 7x24 运行我的 AI agent 并保留长期记忆",
+   "让 AI 在我离开时按调度自主执行任务",
+   "通过 Telegram、飞书或网页控制台与同一个 AI 对话",
+   "用 Claude 订阅而非按 token 计费运行常驻 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "自托管",
+   "持久记忆",
+   "消息通道集成",
+   "个人AI助手"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "ai-assistant",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版",
+   "支持 Lark/飞书通道",
+   "时区示例使用 Asia/Shanghai"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: Zylos gives it a life. Memory that survives restarts. A scheduler that works while you sleep. Communication through Tele",
+   "L21: Supports Claude Code (Anthropic) and Codex (OpenAI). Fully compatible with the OpenClaw ecosystem.",
+   "L221: Zylos supports Claude Code (Anthropic) and Codex (OpenAI) as interchangeable AI runtimes. Start with one, switch to the "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

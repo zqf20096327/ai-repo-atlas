@@ -33,7 +33,7 @@ MIT 许可的 work-focused AI agent 平台，供个人、小团队与企业在�
 
 ## 场景标签
 
- · 领域:AI agent 平台/开发者工具
+`编码 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

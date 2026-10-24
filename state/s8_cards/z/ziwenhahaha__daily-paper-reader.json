@@ -1,1 +1,84 @@
-{"fn": "ziwenhahaha/daily-paper-reader", "sha": "3127b9da0c55", "source": "readme", "identity": {"one_liner": "每日 arXiv/OpenReview 论文推荐与 AI 阅读的自部署平台", "review": "面向个人研究者与实验室的论文发现、阅读与问答平台：通过 GitHub Actions 每日抓取 arXiv/OpenReview 等多源论文，基于关键词与研究方向生成个性化推荐流，支持摘要/原文/总结串联阅读与 AI 论文问答；另接入 9 大会议论文检索（NeurIPS/ICML/ACL 等）。部署方式为 Fork 仓库后开启 Actions 与 Pages，无需服务器，LLM 环节以 DeepSeek API 为默认配置；亦提供本地调试后端脚本。", "highlights": ["GitHub Actions + Pages 零服务器部署，Fork 后少量配置即可上线", "每日自动抓取 arXiv / OpenReview 并生成个性化推荐流", "AI 论文问答与摘要、原文、长总结同页阅读", "接入 NeurIPS/ICML/ACL 等 9 大会议论文检索"], "use_cases": ["持续追踪自己研究方向的新论文", "搭建实验室公共论文面板", "边读论文边 AI 问答并沉淀讨论记录"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": "https://ziwenhahaha.github.io/daily-paper-reader", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["论文推荐", "arXiv", "文献阅读", "LLM应用", "GitHub Pages部署"], "domain": "科研工具/学术信息获取", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文 README", "QQ 交流群", "接入公益 embedding/rerank 服务 zwwen.online"]}, "trust": {"confidence": "high", "evidence": ["L107: - **🔎 Daily Paper Radar**：每日自动抓取 arXiv / OpenReview 新论文，持续追踪研究前沿。", "L110: - **💬 Ask While Reading**：支持 AI 论文问答，边读边问，沉淀私人讨论记录。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ziwenhahaha/daily-paper-reader",
+ "sha": "3127b9da0c55",
+ "source": "readme",
+ "identity": {
+  "one_liner": "每日 arXiv/OpenReview 论文推荐与 AI 阅读的自部署平台",
+  "review": "面向个人研究者与实验室的论文发现、阅读与问答平台：通过 GitHub Actions 每日抓取 arXiv/OpenReview 等多源论文，基于关键词与研究方向生成个性化推荐流，支持摘要/原文/总结串联阅读与 AI 论文问答；另接入 9 大会议论文检索（NeurIPS/ICML/ACL 等）。部署方式为 Fork 仓库后开启 Actions 与 Pages，无需服务器，LLM 环节以 DeepSeek API 为默认配置；亦提供本地调试后端脚本。",
+  "highlights": [
+   "GitHub Actions + Pages 零服务器部署，Fork 后少量配置即可上线",
+   "每日自动抓取 arXiv / OpenReview 并生成个性化推荐流",
+   "AI 论文问答与摘要、原文、长总结同页阅读",
+   "接入 NeurIPS/ICML/ACL 等 9 大会议论文检索"
+  ],
+  "use_cases": [
+   "持续追踪自己研究方向的新论文",
+   "搭建实验室公共论文面板",
+   "边读论文边 AI 问答并沉淀讨论记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://ziwenhahaha.github.io/daily-paper-reader",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文推荐",
+   "arXiv",
+   "文献阅读",
+   "LLM应用",
+   "GitHub Pages部署"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "research-tools",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README",
+   "QQ 交流群",
+   "接入公益 embedding/rerank 服务 zwwen.online"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L107: - **🔎 Daily Paper Radar**：每日自动抓取 arXiv / OpenReview 新论文，持续追踪研究前沿。",
+   "L110: - **💬 Ask While Reading**：支持 AI 论文问答，边读边问，沉淀私人讨论记录。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

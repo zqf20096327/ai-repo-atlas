@@ -1,1 +1,77 @@
-{"fn": "zmyybc/AlphaNet", "sha": "22dad08416fa", "source": "readme", "identity": {"one_liner": "局域标架等变机器学习原子间势，用于原子体系模拟", "review": "面向计算材料与催化模拟研究者的神经网络原子间势模型：通过构建等变局域标架与可学习标架变换利用原子环境几何结构，以矩阵_product_state_缩并实现多体消息传递，预测能量、力与应力。基于 PyTorch Lightning 提供训练、checkpoint 转换与评估三套命令行工具，另有 JAX 实现与 ASE calculator，支持 torch→JAX checkpoint 转换、ZBL 势叠加及 LAMMPS 集成分支（triton 加速版）。提供 MPtrj/OMAT24/MATPES/AQCAT25 等预训练模型。限制：训练需开启梯度裁剪并将 weight decay 设为 0，LAMMPS 分支持续合并中，损失权重需按数据能量涨落手动调整。", "highlights": ["等变局域标架与可学习标架变换的多体消息传递模型", "训练/转换/评估三套命令行工具，基于 PyTorch Lightning", "JAX 实现与 ASE calculator，torch→JAX checkpoint 转换，作者实测 2.5-3 倍加速", "提供材料与催化领域的多个预训练模型及 LAMMPS 分支"], "use_cases": ["为分子动力学模拟训练机器学习力场", "直接使用预训练通用势预测材料或催化体系的能量、力与应力", "通过 ASE calculator 接入现有原子模拟工作流"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器学习力场", "计算材料", "分子动力学", "科学计算", "预训练势模型"], "domain": "计算化学/材料模拟", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: We present **AlphaNet**, a local frame-based equivariant model designed to tackle the challenges of achieving both accur", "L192:  The output (energy forces stress) difference from torch model would below 0.001. I ran speed tests on a 4090 GPU, syste"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zmyybc/AlphaNet",
+ "sha": "22dad08416fa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "局域标架等变机器学习原子间势，用于原子体系模拟",
+  "review": "面向计算材料与催化模拟研究者的神经网络原子间势模型：通过构建等变局域标架与可学习标架变换利用原子环境几何结构，以矩阵_product_state_缩并实现多体消息传递，预测能量、力与应力。基于 PyTorch Lightning 提供训练、checkpoint 转换与评估三套命令行工具，另有 JAX 实现与 ASE calculator，支持 torch→JAX checkpoint 转换、ZBL 势叠加及 LAMMPS 集成分支（triton 加速版）。提供 MPtrj/OMAT24/MATPES/AQCAT25 等预训练模型。限制：训练需开启梯度裁剪并将 weight decay 设为 0，LAMMPS 分支持续合并中，损失权重需按数据能量涨落手动调整。",
+  "highlights": [
+   "等变局域标架与可学习标架变换的多体消息传递模型",
+   "训练/转换/评估三套命令行工具，基于 PyTorch Lightning",
+   "JAX 实现与 ASE calculator，torch→JAX checkpoint 转换，作者实测 2.5-3 倍加速",
+   "提供材料与催化领域的多个预训练模型及 LAMMPS 分支"
+  ],
+  "use_cases": [
+   "为分子动力学模拟训练机器学习力场",
+   "直接使用预训练通用势预测材料或催化体系的能量、力与应力",
+   "通过 ASE calculator 接入现有原子模拟工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习力场",
+   "计算材料",
+   "分子动力学",
+   "科学计算",
+   "预训练势模型"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: We present **AlphaNet**, a local frame-based equivariant model designed to tackle the challenges of achieving both accur",
+   "L192:  The output (energy forces stress) difference from torch model would below 0.001. I ran speed tests on a 4090 GPU, syste"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

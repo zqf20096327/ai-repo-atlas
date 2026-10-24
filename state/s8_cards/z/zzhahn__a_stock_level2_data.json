@@ -1,1 +1,81 @@
-{"fn": "zzhahn/a_stock_level2_data", "sha": "29808e6590bb", "source": "readme", "identity": {"one_liner": "A股 Level-2 实时行情数据客户端：免开户取逐笔与十档盘口数据", "review": "达塔接口是面向 A股市场的实时行情数据客户端：在本机运行数据服务，程序通过标准 HTTP 与 WebSocket 接口读取逐笔成交、逐笔委托、十档盘口、K线、资金流向、龙虎榜等 203 个字段的数据，支持全市场一次订阅、游标增量与断线续传。面向量化研究者、个人开发者与 AI Agent 自动化取数场景，提供 Windows/macOS/Linux 安装包及无界面服务器版本。需在官网注册登录并授权激活，可访问外网；不含交易下单功能。", "highlights": ["本机 HTTP/WebSocket 接口提供 203 个字段，含逐笔成交、逐笔委托、十档盘口", "单条命令订阅 A股全市场约 6000 只，游标增量下发与断线续传", "无界面服务器版本支持环境变量注入自动登录、激活与取数", "示例脚本仅依赖 Python 标准库，支持任意可发请求的编程语言"], "use_cases": ["把逐笔、盘口、资金数据接入自己的回测或因子流水线", "给盯盘工具、选股脚本接一个行情数据源", "让 AI Agent 在服务器上自动登录、启动客户端并取数"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://datas.lovestoblog.com/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["行情数据接口", "量化数据", "Level-2 逐笔", "无界面服务器", "金融数据API"], "domain": "金融行情数据", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向 A股市场", "国内手机号注册"]}, "trust": {"confidence": "high", "evidence": ["L3: > **达塔接口是一个面向 A股市场的实时行情数据客户端**，提供 A股实时行情接口、", "L35: |AI Agent / 自动化|让程序自动登录、启动、取数，不需要人工点界面|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zzhahn/a_stock_level2_data",
+ "sha": "29808e6590bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "A股 Level-2 实时行情数据客户端：免开户取逐笔与十档盘口数据",
+  "review": "达塔接口是面向 A股市场的实时行情数据客户端：在本机运行数据服务，程序通过标准 HTTP 与 WebSocket 接口读取逐笔成交、逐笔委托、十档盘口、K线、资金流向、龙虎榜等 203 个字段的数据，支持全市场一次订阅、游标增量与断线续传。面向量化研究者、个人开发者与 AI Agent 自动化取数场景，提供 Windows/macOS/Linux 安装包及无界面服务器版本。需在官网注册登录并授权激活，可访问外网；不含交易下单功能。",
+  "highlights": [
+   "本机 HTTP/WebSocket 接口提供 203 个字段，含逐笔成交、逐笔委托、十档盘口",
+   "单条命令订阅 A股全市场约 6000 只，游标增量下发与断线续传",
+   "无界面服务器版本支持环境变量注入自动登录、激活与取数",
+   "示例脚本仅依赖 Python 标准库，支持任意可发请求的编程语言"
+  ],
+  "use_cases": [
+   "把逐笔、盘口、资金数据接入自己的回测或因子流水线",
+   "给盯盘工具、选股脚本接一个行情数据源",
+   "让 AI Agent 在服务器上自动登录、启动客户端并取数"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://datas.lovestoblog.com/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "行情数据接口",
+   "量化数据",
+   "Level-2 逐笔",
+   "无界面服务器",
+   "金融数据API"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向 A股市场",
+   "国内手机号注册"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **达塔接口是一个面向 A股市场的实时行情数据客户端**，提供 A股实时行情接口、",
+   "L35: |AI Agent / 自动化|让程序自动登录、启动、取数，不需要人工点界面|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

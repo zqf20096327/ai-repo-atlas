@@ -1,1 +1,88 @@
-{"fn": "zwl698/claude-code-go", "sha": "cc18c84f05cc", "source": "readme", "identity": {"one_liner": "Claude Code 的非官方 Go 语言重实现（AI 编程 CLI）", "review": "从 @anthropic-ai/claude-code npm 包 v2.1.88 的 Source Map 还原出 TypeScript 源码（4756 个文件）后翻译为 Go 的非官方实现，仅供研究使用。功能包括 OAuth 认证、多云供应商接入（AWS Bedrock/Google Vertex/Azure Foundry）、MCP 协议（stdio/SSE/WebSocket）、Bash 安全解析、LSP 服务、工具/权限/Hooks 系统、Vim 模式、语音交互与 Bubble Tea UI。编译为单二进制运行，需 Go 1.26+ 与 Anthropic API 密钥或 OAuth 认证。源码版权归 Anthropic 所有，禁止商业使用。", "highlights": ["基于 Source Map 还原 4756 个文件并翻译为 Go 单二进制", "支持 Anthropic API 及 AWS Bedrock / Google Vertex / Azure Foundry 多云认证", "MCP 协议（stdio/SSE/WebSocket）、LSP、权限系统、Hooks、Vim 模式、语音交互等模块已完成", "编译后单可执行文件，无 Node.js 运行时依赖"], "use_cases": ["在命令行中使用 AI 助手进行代码审查、重构、调试与测试生成", "以单二进制形式在 Linux/macOS/Windows 部署 AI 编程 CLI", "研究 Claude Code 的内部实现结构（含还原的 TypeScript 源码）", "通过 AWS Bedrock / Vertex / Azure 等企业渠道接入模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://nangongwentian-fe.github.io/learn-claude-source/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编程助手", "CLI工具", "Claude Code生态", "逆向工程/源码还原", "Go实现"], "domain": "AI 编程工具/开发者工具", "alternative_to": ["Claude Code"], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "bedrock"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "中文声明与免责条款"]}, "trust": {"confidence": "high", "evidence": ["L14: Claude Code 是 Anthropic 官方推出的 AI 编程助手命令行工具，可以帮助开发者：", "L23: 本项目通过 `@anthropic-ai/claude-code` npm 发布包内附带的 Source Map（`cli.js.map`）还原了 TypeScript 源码（版本 2.1.88），并将其翻译为 Go 语言实现。", "L31: - **单二进制分发**：无需 Node.js 运行时，编译后单个可执行文件即可运行"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zwl698/claude-code-go",
+ "sha": "cc18c84f05cc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 的非官方 Go 语言重实现（AI 编程 CLI）",
+  "review": "从 @anthropic-ai/claude-code npm 包 v2.1.88 的 Source Map 还原出 TypeScript 源码（4756 个文件）后翻译为 Go 的非官方实现，仅供研究使用。功能包括 OAuth 认证、多云供应商接入（AWS Bedrock/Google Vertex/Azure Foundry）、MCP 协议（stdio/SSE/WebSocket）、Bash 安全解析、LSP 服务、工具/权限/Hooks 系统、Vim 模式、语音交互与 Bubble Tea UI。编译为单二进制运行，需 Go 1.26+ 与 Anthropic API 密钥或 OAuth 认证。源码版权归 Anthropic 所有，禁止商业使用。",
+  "highlights": [
+   "基于 Source Map 还原 4756 个文件并翻译为 Go 单二进制",
+   "支持 Anthropic API 及 AWS Bedrock / Google Vertex / Azure Foundry 多云认证",
+   "MCP 协议（stdio/SSE/WebSocket）、LSP、权限系统、Hooks、Vim 模式、语音交互等模块已完成",
+   "编译后单可执行文件，无 Node.js 运行时依赖"
+  ],
+  "use_cases": [
+   "在命令行中使用 AI 助手进行代码审查、重构、调试与测试生成",
+   "以单二进制形式在 Linux/macOS/Windows 部署 AI 编程 CLI",
+   "研究 Claude Code 的内部实现结构（含还原的 TypeScript 源码）",
+   "通过 AWS Bedrock / Vertex / Azure 等企业渠道接入模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://nangongwentian-fe.github.io/learn-claude-source/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程助手",
+   "CLI工具",
+   "Claude Code生态",
+   "逆向工程/源码还原",
+   "Go实现"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [
+   "Claude Code"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文声明与免责条款"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: Claude Code 是 Anthropic 官方推出的 AI 编程助手命令行工具，可以帮助开发者：",
+   "L23: 本项目通过 `@anthropic-ai/claude-code` npm 发布包内附带的 Source Map（`cli.js.map`）还原了 TypeScript 源码（版本 2.1.88），并将其翻译为 Go 语言实现。",
+   "L31: - **单二进制分发**：无需 Node.js 运行时，编译后单个可执行文件即可运行"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,82 @@
-{"fn": "zouyee/dmlx", "sha": "fc811714423e", "source": "readme", "identity": {"one_liner": "Apple Silicon 本地 LLM 推理引擎：48GB Mac 运行 284B MoE 模型", "review": "用 Zig 编写、基于 MLX（mlx-c）的 Apple Silicon 本地推理引擎，通过 C/Metal 原生路径、MoE 专家 SSD 流式加载与有界热缓存（SMELT）在 48GB 内存的 Mac 上运行 DeepSeek V4 Flash 4-bit 等前沿 MoE 模型；README 报告 M4 Pro 48GB 上 1.236 tok/s 短跑中位吞吐。支持 9 种架构、6 种 KV 缓存策略、OpenAI/Anthropic 兼容 HTTP 服务、投机解码、QLoRA 微调与视觉模型。需 macOS Apple Silicon、Zig 0.16.0 与 mlx-c，从源码 make 构建。", "highlights": ["MoE 专家流式加载 + 有界 SMELT 热缓存：284B 模型在 48GB 内存内运行", "9 种模型架构、6 种运行时可切换 KV 缓存策略（最长 128K+ 上下文）", "OpenAI + Anthropic API 兼容 HTTP 服务（SSE 流式）", "投机解码（PLD+EAGLE）、JSON Schema/Regex 引导解码、QLoRA 微调、LLaVA 视觉"], "use_cases": ["在无云无 GPU 集群的前提下于 MacBook 本地运行前沿 MoE 模型", "Mac mini 作为团队自建推理服务器（OpenAI API 兼容接入）", "满足 HIPAA/GDPR 场景的离线数据不出机推理", "研究者修改 MoE 路由、切换 KV 策略、测试量化格式"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地推理", "Apple Silicon", "MoE", "LLM", "MLX"], "domain": "LLM 推理基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: dmlx runs frontier Mixture-of-Experts models on Apple Silicon through a native C/Metal inference path with packed expert", "L117: - OpenAI + Anthropic API compatible HTTP server (SSE streaming)", "L129: **Requirements**: macOS Apple Silicon (M1-M4) + Zig 0.16.0 + mlx-c"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zouyee/dmlx",
+ "sha": "fc811714423e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apple Silicon 本地 LLM 推理引擎：48GB Mac 运行 284B MoE 模型",
+  "review": "用 Zig 编写、基于 MLX（mlx-c）的 Apple Silicon 本地推理引擎，通过 C/Metal 原生路径、MoE 专家 SSD 流式加载与有界热缓存（SMELT）在 48GB 内存的 Mac 上运行 DeepSeek V4 Flash 4-bit 等前沿 MoE 模型；README 报告 M4 Pro 48GB 上 1.236 tok/s 短跑中位吞吐。支持 9 种架构、6 种 KV 缓存策略、OpenAI/Anthropic 兼容 HTTP 服务、投机解码、QLoRA 微调与视觉模型。需 macOS Apple Silicon、Zig 0.16.0 与 mlx-c，从源码 make 构建。",
+  "highlights": [
+   "MoE 专家流式加载 + 有界 SMELT 热缓存：284B 模型在 48GB 内存内运行",
+   "9 种模型架构、6 种运行时可切换 KV 缓存策略（最长 128K+ 上下文）",
+   "OpenAI + Anthropic API 兼容 HTTP 服务（SSE 流式）",
+   "投机解码（PLD+EAGLE）、JSON Schema/Regex 引导解码、QLoRA 微调、LLaVA 视觉"
+  ],
+  "use_cases": [
+   "在无云无 GPU 集群的前提下于 MacBook 本地运行前沿 MoE 模型",
+   "Mac mini 作为团队自建推理服务器（OpenAI API 兼容接入）",
+   "满足 HIPAA/GDPR 场景的离线数据不出机推理",
+   "研究者修改 MoE 路由、切换 KV 策略、测试量化格式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "Apple Silicon",
+   "MoE",
+   "LLM",
+   "MLX"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: dmlx runs frontier Mixture-of-Experts models on Apple Silicon through a native C/Metal inference path with packed expert",
+   "L117: - OpenAI + Anthropic API compatible HTTP server (SSE streaming)",
+   "L129: **Requirements**: macOS Apple Silicon (M1-M4) + Zig 0.16.0 + mlx-c"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

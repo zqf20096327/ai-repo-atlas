@@ -1,1 +1,75 @@
-{"fn": "zyxue/sutton-barto-rl-exercises", "sha": "427227619540", "source": "readme", "identity": {"one_liner": "Sutton & Barto 强化学习教材习题解答与个人笔记仓库", "review": "个人学习仓库，最初用于存放《Reinforcement Learning: An Introduction》（Sutton & Barto 著，含免费 PDF 链接）的习题答案，现扩展为 ML/统计学相关的个人笔记集合，以 Jupyter notebook 形式呈现。README 提示含大量公式的 notebook 在 GitHub 上显示不佳时，可通过 nbviewer 在线查看。仓库无安装运行流程，面向教材学习者提供参考实现与笔记。", "highlights": ["Sutton & Barto《强化学习导论》习题答案", "内容扩展为 ML/统计相关的个人笔记", "notebook 可通过 nbviewer 在线查看"], "use_cases": ["学习 Sutton & Barto 教材时参考习题解答", "查找强化学习与 ML 相关的个人笔记实现"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["强化学习", "教材习题", "学习笔记", "Jupyter notebook"], "domain": "机器学习/学习资源", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L1: This repo originally intended to host my answers to the exercies for the", "L2: book by Sutton & Barton, Reinforcement Learning: An Introduction", "L7: But now it has become more like a place for my own notes on anything related to ML/stats."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zyxue/sutton-barto-rl-exercises",
+ "sha": "427227619540",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Sutton & Barto 强化学习教材习题解答与个人笔记仓库",
+  "review": "个人学习仓库，最初用于存放《Reinforcement Learning: An Introduction》（Sutton & Barto 著，含免费 PDF 链接）的习题答案，现扩展为 ML/统计学相关的个人笔记集合，以 Jupyter notebook 形式呈现。README 提示含大量公式的 notebook 在 GitHub 上显示不佳时，可通过 nbviewer 在线查看。仓库无安装运行流程，面向教材学习者提供参考实现与笔记。",
+  "highlights": [
+   "Sutton & Barto《强化学习导论》习题答案",
+   "内容扩展为 ML/统计相关的个人笔记",
+   "notebook 可通过 nbviewer 在线查看"
+  ],
+  "use_cases": [
+   "学习 Sutton & Barto 教材时参考习题解答",
+   "查找强化学习与 ML 相关的个人笔记实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "教材习题",
+   "学习笔记",
+   "Jupyter notebook"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: This repo originally intended to host my answers to the exercies for the",
+   "L2: book by Sutton & Barton, Reinforcement Learning: An Introduction",
+   "L7: But now it has become more like a place for my own notes on anything related to ML/stats."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

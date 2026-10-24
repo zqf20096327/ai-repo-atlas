@@ -33,7 +33,7 @@ Chrome/Firefox 浏览器扩展，在 LeetCode 题目页注入功能：Python/Jav
 
 ## 场景标签
 
- · 领域:开发者工具/编程学习
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 

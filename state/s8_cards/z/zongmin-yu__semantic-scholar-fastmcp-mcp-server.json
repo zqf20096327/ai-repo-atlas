@@ -1,1 +1,76 @@
-{"fn": "zongmin-yu/semantic-scholar-fastmcp-mcp-server", "sha": "6a47010c0308", "source": "readme", "identity": {"one_liner": "为 MCP 客户端接入 Semantic Scholar 学术数据的 FastMCP 服务器", "review": "基于 FastMCP 实现的 Semantic Scholar API 服务器，向 MCP 客户端暴露 16 个工具，覆盖论文检索、引文与参考文献追踪、作者信息（含 h-index 等指标）、批量查询（单次最多 1000 个 ID）与论文推荐。支持认证与无认证两种访问模式并自动适配速率限制，API key 为可选项。另内置一个 HTTP 桥（默认 8000 端口）提供 REST 端点，供 MCP 之外的工作流直接调用。通过 pip/uvx/Smithery 安装。", "highlights": ["16 个 MCP 工具：论文检索、引文网络、作者信息、推荐", "单次批量查询支持最多 1000 个论文/作者 ID", "内置 HTTP 桥暴露 REST 端点，复用统一限速与连接池", "支持认证/无认证双模式并自动适配速率限制"], "use_cases": ["在 Claude 等 MCP 客户端中检索和追踪学术论文", "通过 REST 接口批量获取论文与作者元数据", "基于引用关系做文献综述与引文溯源"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "学术检索", "文献计量", "API网关/服务器"], "domain": "学术数据/LLM 工具生态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, aut", "L195: The server currently exposes 16 MCP tools."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zongmin-yu/semantic-scholar-fastmcp-mcp-server",
+ "sha": "6a47010c0308",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 MCP 客户端接入 Semantic Scholar 学术数据的 FastMCP 服务器",
+  "review": "基于 FastMCP 实现的 Semantic Scholar API 服务器，向 MCP 客户端暴露 16 个工具，覆盖论文检索、引文与参考文献追踪、作者信息（含 h-index 等指标）、批量查询（单次最多 1000 个 ID）与论文推荐。支持认证与无认证两种访问模式并自动适配速率限制，API key 为可选项。另内置一个 HTTP 桥（默认 8000 端口）提供 REST 端点，供 MCP 之外的工作流直接调用。通过 pip/uvx/Smithery 安装。",
+  "highlights": [
+   "16 个 MCP 工具：论文检索、引文网络、作者信息、推荐",
+   "单次批量查询支持最多 1000 个论文/作者 ID",
+   "内置 HTTP 桥暴露 REST 端点，复用统一限速与连接池",
+   "支持认证/无认证双模式并自动适配速率限制"
+  ],
+  "use_cases": [
+   "在 Claude 等 MCP 客户端中检索和追踪学术论文",
+   "通过 REST 接口批量获取论文与作者元数据",
+   "基于引用关系做文献综述与引文溯源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "学术检索",
+   "文献计量",
+   "API网关/服务器"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, aut",
+   "L195: The server currently exposes 16 MCP tools."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

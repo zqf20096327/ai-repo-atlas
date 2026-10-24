@@ -1,1 +1,83 @@
-{"fn": "zjunlp/MemTrace", "sha": "8bbae8bb243b", "source": "readme", "identity": {"one_liner": "LLM 记忆系统错误溯源工具：定位错误引入的操作步骤", "review": "面向开发者的 LLM 记忆系统调试研究项目：将记忆系统（提取、更新、检索、生成等）的执行过程记录为操作-变量执行图，对失败案例反向追踪，自动定位最可能引入错误的具体操作并预测错误类型。包含 smartcomment 追踪工具包、人工标注的 MemTraceBench 基准（覆盖 Long-Context/RAG/Mem0/EverMemOS）以及诊断报告与基于归因反馈的提示词自动优化流程。需 Python>=3.12，通过 git clone 源码安装，依赖 OpenAI 兼容 API 与 vLLM 服务的嵌入模型。", "highlights": ["将记忆系统执行过程记录为操作-变量执行图", "图上自动归因：定位致错操作并预测错误类型", "MemTraceBench 人工标注失败案例基准（RAG/Mem0/EverMemOS/Long-Context）", "归因结果转化为诊断报告与提示词自动优化"], "use_cases": ["调试 LLM 记忆系统回答错误时定位出错环节", "在基准数据上评测错误归因方法", "基于归因反馈自动优化 Mem0 的提示词"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2605.28732", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM记忆系统", "错误归因/调试", "agent追踪", "benchmark", "NLP研究"], "domain": "LLM 基础设施/调试评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["zjunlp 为浙江大学 NLP 团队组织"]}, "trust": {"confidence": "mid", "evidence": ["L29: **MemTrace** helps developers understand why an LLM memory system gives a wrong answer. A memory system may read many us", "L31: MemTrace records this whole process as an **operation-variable execution graph**. Variables are the concrete things prod", "L37: - **Graph-based automatic attribution**, which inspects operation subgraphs to locate the decisive faulty operation and "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zjunlp/MemTrace",
+ "sha": "8bbae8bb243b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 记忆系统错误溯源工具：定位错误引入的操作步骤",
+  "review": "面向开发者的 LLM 记忆系统调试研究项目：将记忆系统（提取、更新、检索、生成等）的执行过程记录为操作-变量执行图，对失败案例反向追踪，自动定位最可能引入错误的具体操作并预测错误类型。包含 smartcomment 追踪工具包、人工标注的 MemTraceBench 基准（覆盖 Long-Context/RAG/Mem0/EverMemOS）以及诊断报告与基于归因反馈的提示词自动优化流程。需 Python>=3.12，通过 git clone 源码安装，依赖 OpenAI 兼容 API 与 vLLM 服务的嵌入模型。",
+  "highlights": [
+   "将记忆系统执行过程记录为操作-变量执行图",
+   "图上自动归因：定位致错操作并预测错误类型",
+   "MemTraceBench 人工标注失败案例基准（RAG/Mem0/EverMemOS/Long-Context）",
+   "归因结果转化为诊断报告与提示词自动优化"
+  ],
+  "use_cases": [
+   "调试 LLM 记忆系统回答错误时定位出错环节",
+   "在基准数据上评测错误归因方法",
+   "基于归因反馈自动优化 Mem0 的提示词"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2605.28732",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM记忆系统",
+   "错误归因/调试",
+   "agent追踪",
+   "benchmark",
+   "NLP研究"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "llm-observability",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "zjunlp 为浙江大学 NLP 团队组织"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L29: **MemTrace** helps developers understand why an LLM memory system gives a wrong answer. A memory system may read many us",
+   "L31: MemTrace records this whole process as an **operation-variable execution graph**. Variables are the concrete things prod",
+   "L37: - **Graph-based automatic attribution**, which inspects operation subgraphs to locate the decisive faulty operation and "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

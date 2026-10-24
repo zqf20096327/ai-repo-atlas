@@ -1,1 +1,81 @@
-{"fn": "zjunlp/DataMind", "sha": "1d717d782682", "source": "readme", "identity": {"one_liner": "面向研究者：开源 LLM 数据分析 agent 的多项目研究合集", "review": "由 zjunlp（浙江大学团队）维护的研究型仓库，聚合多个 LLM 数据分析 agent 相关项目：开源 LLM 数据分析能力的实证诊断（AAAI 2026）、通用数据分析 agent 的可扩展数据合成与训练配方（ICLR 2026）、环境感知的过程奖励模型 DataPRM（KDD 2026）、长程多轮数据分析评测基准 LongDS-Bench（EMNLP 2026）、无监督验证器引导的技能发现框架 DataCOPE（arXiv）。各项目以子文档形式组织并附论文链接，README 主体为项目导航与论文列表，具体安装运行方式在各子项目文档中。", "highlights": ["收录 5 个子项目，均配套论文（AAAI/ICLR/KDD/EMNLP 2026 等）", "覆盖训练配方、过程奖励模型、长程评测基准、技能发现框架", "提供在 Claude Code 与 Codex 中使用数据分析技能的教程与技能生成框架"], "use_cases": ["跟进 LLM 数据分析 agent 的研究进展与论文", "查找数据分析 agent 的训练数据合成与训练方法", "使用 LongDS-Bench 评测多轮长程数据分析能力"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "arXiv（README L3 徽章链接，具体 URL 未在可见行展开）", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM Agent", "数据分析", "科研论文集", "评测基准", "过程奖励模型"], "domain": "LLM/数据分析 agent 研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["维护方 zjunlp 为浙江大学 NLP 团队"]}, "trust": {"confidence": "mid", "evidence": ["L38: ## 🧭 Project Navigation", "L39: This repository hosts multiple data analysis projects. The table below provides an overview and links to each project's ", "L41: |Project|Description|Paper|Documentation|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zjunlp/DataMind",
+ "sha": "1d717d782682",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者：开源 LLM 数据分析 agent 的多项目研究合集",
+  "review": "由 zjunlp（浙江大学团队）维护的研究型仓库，聚合多个 LLM 数据分析 agent 相关项目：开源 LLM 数据分析能力的实证诊断（AAAI 2026）、通用数据分析 agent 的可扩展数据合成与训练配方（ICLR 2026）、环境感知的过程奖励模型 DataPRM（KDD 2026）、长程多轮数据分析评测基准 LongDS-Bench（EMNLP 2026）、无监督验证器引导的技能发现框架 DataCOPE（arXiv）。各项目以子文档形式组织并附论文链接，README 主体为项目导航与论文列表，具体安装运行方式在各子项目文档中。",
+  "highlights": [
+   "收录 5 个子项目，均配套论文（AAAI/ICLR/KDD/EMNLP 2026 等）",
+   "覆盖训练配方、过程奖励模型、长程评测基准、技能发现框架",
+   "提供在 Claude Code 与 Codex 中使用数据分析技能的教程与技能生成框架"
+  ],
+  "use_cases": [
+   "跟进 LLM 数据分析 agent 的研究进展与论文",
+   "查找数据分析 agent 的训练数据合成与训练方法",
+   "使用 LongDS-Bench 评测多轮长程数据分析能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv（README L3 徽章链接，具体 URL 未在可见行展开）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM Agent",
+   "数据分析",
+   "科研论文集",
+   "评测基准",
+   "过程奖励模型"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis",
+   "model-evaluation",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护方 zjunlp 为浙江大学 NLP 团队"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L38: ## 🧭 Project Navigation",
+   "L39: This repository hosts multiple data analysis projects. The table below provides an overview and links to each project's ",
+   "L41: |Project|Description|Paper|Documentation|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

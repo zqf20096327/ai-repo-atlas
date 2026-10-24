@@ -1,1 +1,77 @@
-{"fn": "zqiao11/TSCIL", "sha": "8ab7c19a99a6", "source": "readme", "identity": {"one_liner": "时间序列类增量学习的基准与评测框架（KDD 2024）", "review": "基于 PyTorch 的统一实验框架，用于时间序列类增量学习（TSCIL）的基准构建与算法评测。收录 UCI-HAR、UWAVE、WISDM、GrabMyo 等 5 个真实数据集，内置 16 种持续学习算法（正则化与回放两类），支持自定义数据集、任务流与算法扩展。超参搜索基于 Ray Tune，多次运行随机化类序并取平均。提供 Google Drive 下载的预处理数据与论文复现脚本，需在 Conda 环境与 GPU 配置下运行。", "highlights": ["5 个真实世界时间序列数据集的类增量基准", "内置 LwF/EWC/ER/DER 等 16 种持续学习算法", "基于 Ray Tune 的超参搜索与多次运行平均评估", "支持自定义数据集、任务流与新算法（继承 BaseLearner）"], "use_cases": ["时间序列类增量学习算法的统一评测与对比", "复现 KDD 2024 论文实验结果", "在自己的时间序列数据上定制持续学习实验设置"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["持续学习", "时间序列分类", "基准评测", "科研工具"], "domain": "机器学习研究/时间序列", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A unified experimental framework for Time Series Class-Incremental Learning (TSCIL) based on Pytorch. The paper has been", "L46: ## Continual Learning Algorithms", "L109:  We run the experiment for multiple runs to compute the average performance. In each run, we randomize the class order a"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zqiao11/TSCIL",
+ "sha": "8ab7c19a99a6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "时间序列类增量学习的基准与评测框架（KDD 2024）",
+  "review": "基于 PyTorch 的统一实验框架，用于时间序列类增量学习（TSCIL）的基准构建与算法评测。收录 UCI-HAR、UWAVE、WISDM、GrabMyo 等 5 个真实数据集，内置 16 种持续学习算法（正则化与回放两类），支持自定义数据集、任务流与算法扩展。超参搜索基于 Ray Tune，多次运行随机化类序并取平均。提供 Google Drive 下载的预处理数据与论文复现脚本，需在 Conda 环境与 GPU 配置下运行。",
+  "highlights": [
+   "5 个真实世界时间序列数据集的类增量基准",
+   "内置 LwF/EWC/ER/DER 等 16 种持续学习算法",
+   "基于 Ray Tune 的超参搜索与多次运行平均评估",
+   "支持自定义数据集、任务流与新算法（继承 BaseLearner）"
+  ],
+  "use_cases": [
+   "时间序列类增量学习算法的统一评测与对比",
+   "复现 KDD 2024 论文实验结果",
+   "在自己的时间序列数据上定制持续学习实验设置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "持续学习",
+   "时间序列分类",
+   "基准评测",
+   "科研工具"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A unified experimental framework for Time Series Class-Incremental Learning (TSCIL) based on Pytorch. The paper has been",
+   "L46: ## Continual Learning Algorithms",
+   "L109:  We run the experiment for multiple runs to compute the average performance. In each run, we randomize the class order a"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
