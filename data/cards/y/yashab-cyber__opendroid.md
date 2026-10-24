@@ -33,7 +33,7 @@ OpenDroid 是一个 Android 原生应用（Kotlin/Jetpack Compose，Dagger-Hilt 
 
 ## 场景标签
 
- · 领域:移动端 AI 代理/自动化
+`GUI 自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

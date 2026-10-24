@@ -1,1 +1,76 @@
-{"fn": "yetalit/Mojmelo", "sha": "a354d226e837", "source": "readme", "identity": {"one_liner": "纯 Mojo 实现的机器学习算法库，供 Mojo 项目训练与预测", "review": "用纯 Mojo 从零实现的机器学习算法库，覆盖线性/多项式/逻辑回归、KNN、KMeans、DBSCAN、HDBSCAN、SVM、朴素贝叶斯、决策树、随机森林、GBDT 与 PCA，并提供 normalize、MinMaxScaler、StandardScaler、KFold、GridSearchCV 等预处理与工具模块，附带自有 Matrix 线性代数实现。面向使用 Mojo 语言的开发者，需要 mojo-compiler 1.2.0+；支持 Pixi、PyPI（pip install mojmelo 后运行 mojmelo-setup）与源码三种安装方式，安装后需运行基准测试完成 setup。README 列出与 sklearn 等在 AMD Zen 4 上的耗时对比数据。", "highlights": ["纯 Mojo 从零实现 15 类机器学习算法", "含预处理与调参工具（GridSearchCV/KFold/LabelEncoder 等）", "附带自有 linalg.Matrix 矩阵实现", "README 提供 KMeans/SVM/KNN 等与 sklearn 的基准测试数据"], "use_cases": ["在 Mojo 项目中直接训练回归、分类与聚类模型", "用纯 Mojo 生态完成数据预处理与网格搜索调参", "对比 Mojo 与 sklearn 实现的运行性能"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器学习库", "Mojo 语言", "算法实现", "数据科学", "基准测试"], "domain": "机器学习/算法库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16: The name `Mojmelo` is derived from the \"Mojo Machine Learning\" expression. It includes the implementation of Machine Lea", "L18: * Linear Regression", "L51: * mojo-compiler 1.2.0 or later"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yetalit/Mojmelo",
+ "sha": "a354d226e837",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 Mojo 实现的机器学习算法库，供 Mojo 项目训练与预测",
+  "review": "用纯 Mojo 从零实现的机器学习算法库，覆盖线性/多项式/逻辑回归、KNN、KMeans、DBSCAN、HDBSCAN、SVM、朴素贝叶斯、决策树、随机森林、GBDT 与 PCA，并提供 normalize、MinMaxScaler、StandardScaler、KFold、GridSearchCV 等预处理与工具模块，附带自有 Matrix 线性代数实现。面向使用 Mojo 语言的开发者，需要 mojo-compiler 1.2.0+；支持 Pixi、PyPI（pip install mojmelo 后运行 mojmelo-setup）与源码三种安装方式，安装后需运行基准测试完成 setup。README 列出与 sklearn 等在 AMD Zen 4 上的耗时对比数据。",
+  "highlights": [
+   "纯 Mojo 从零实现 15 类机器学习算法",
+   "含预处理与调参工具（GridSearchCV/KFold/LabelEncoder 等）",
+   "附带自有 linalg.Matrix 矩阵实现",
+   "README 提供 KMeans/SVM/KNN 等与 sklearn 的基准测试数据"
+  ],
+  "use_cases": [
+   "在 Mojo 项目中直接训练回归、分类与聚类模型",
+   "用纯 Mojo 生态完成数据预处理与网格搜索调参",
+   "对比 Mojo 与 sklearn 实现的运行性能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习库",
+   "Mojo 语言",
+   "算法实现",
+   "数据科学",
+   "基准测试"
+  ],
+  "domain": "机器学习/算法库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: The name `Mojmelo` is derived from the \"Mojo Machine Learning\" expression. It includes the implementation of Machine Lea",
+   "L18: * Linear Regression",
+   "L51: * mojo-compiler 1.2.0 or later"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

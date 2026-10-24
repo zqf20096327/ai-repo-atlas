@@ -1,1 +1,86 @@
-{"fn": "xuwei95/ezdata", "sha": "d36f2b0a8311", "source": "readme", "identity": {"one_liner": "AI 原生数据平台：数据集成调度 + 每源 RAG 知识库 + Agent 查询分析", "review": "基于 RuoYi-Vue3-FastAPI 脚手架构建的数据平台：60+ 数据源连接器、dlt 驱动的 ETL、Celery/APScheduler 定时与 DAG 任务编排，支持 RBAC 与多租户。知识库模块（RAG）按数据源独立建库，文档解析分块后存入 ES8（稠密向量 + kNN + BM25 混合检索）。AI 模块统一管理模型密钥，提供 Agno Agent 对话查询、图表生成、Agent Skills、AI 应用封装与跨会话长期记忆；沙箱内执行查询与计算。快速启动走 Docker Compose，另附带 AKShare 财经演示数据集，并提供不依赖平台的轻量查询 UI。", "highlights": ["60+ 连接器 + dlt ETL + DAG 任务编排（AntV X6 画布）", "每数据源独立 RAG 知识库，ES8 混合检索", "Agno Agent 在沙箱中查询数据并生成图表/结论", "指标层 + 任务级血缘，Agent 优先按指标名取数"], "use_cases": ["统一接入异构数据源并做 ETL 与定时调度", "为各数据源建 RAG 知识库并用对话查询分析数据", "把提示词/工具/知识库打包成对外 API 的 AI 应用"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": "http://124.220.57.72/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据平台", "ETL/调度", "RAG知识库", "Text2SQL", "多租户"], "domain": "数据工程/数据分析平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["简体中文 README（L10）", "RuoYi 脚手架（L14）", "演示数据按北京时间调度（L59）"]}, "trust": {"confidence": "mid", "evidence": ["L14: > ezdata is an AI-native data platform: unify heterogeneous data sources, run ETL integration and task orchestration, bu", "L18: - **Data management** `module_data`: 60+ connectors (RDBMS / Elasticsearch / MongoDB / Kafka / vector stores / object st", "L21: - **AI** `module_ai` / `module_dashboard`: unified AI model management (keys AES-encrypted, **reasoning/thinking** model"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xuwei95/ezdata",
+ "sha": "d36f2b0a8311",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 原生数据平台：数据集成调度 + 每源 RAG 知识库 + Agent 查询分析",
+  "review": "基于 RuoYi-Vue3-FastAPI 脚手架构建的数据平台：60+ 数据源连接器、dlt 驱动的 ETL、Celery/APScheduler 定时与 DAG 任务编排，支持 RBAC 与多租户。知识库模块（RAG）按数据源独立建库，文档解析分块后存入 ES8（稠密向量 + kNN + BM25 混合检索）。AI 模块统一管理模型密钥，提供 Agno Agent 对话查询、图表生成、Agent Skills、AI 应用封装与跨会话长期记忆；沙箱内执行查询与计算。快速启动走 Docker Compose，另附带 AKShare 财经演示数据集，并提供不依赖平台的轻量查询 UI。",
+  "highlights": [
+   "60+ 连接器 + dlt ETL + DAG 任务编排（AntV X6 画布）",
+   "每数据源独立 RAG 知识库，ES8 混合检索",
+   "Agno Agent 在沙箱中查询数据并生成图表/结论",
+   "指标层 + 任务级血缘，Agent 优先按指标名取数"
+  ],
+  "use_cases": [
+   "统一接入异构数据源并做 ETL 与定时调度",
+   "为各数据源建 RAG 知识库并用对话查询分析数据",
+   "把提示词/工具/知识库打包成对外 API 的 AI 应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "http://124.220.57.72/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据平台",
+   "ETL/调度",
+   "RAG知识库",
+   "Text2SQL",
+   "多租户"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "data-analysis",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README（L10）",
+   "RuoYi 脚手架（L14）",
+   "演示数据按北京时间调度（L59）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: > ezdata is an AI-native data platform: unify heterogeneous data sources, run ETL integration and task orchestration, bu",
+   "L18: - **Data management** `module_data`: 60+ connectors (RDBMS / Elasticsearch / MongoDB / Kafka / vector stores / object st",
+   "L21: - **AI** `module_ai` / `module_dashboard`: unified AI model management (keys AES-encrypted, **reasoning/thinking** model"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

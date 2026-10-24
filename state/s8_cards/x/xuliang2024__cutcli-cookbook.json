@@ -1,1 +1,81 @@
-{"fn": "xuliang2024/cutcli-cookbook", "sha": "101ed304533e", "source": "readme", "identity": {"one_liner": "cutcli 的官方食谱库：示例、JSON 模板与 AI 提示词，用于代码生成剪映草稿", "review": "为 cutcli（把 shell 命令或 JSON 转成剪映/CapCut 可直接打开的桌面草稿文件夹的单二进制 CLI）配套的 cookbook 仓库：收录 5 个一键运行示例、可复用字幕/动画/滤镜 JSON 模板、面向 Cursor/Claude Code/ChatGPT/MCP agent 的系统提示词，以及 docs.cutcli.com 的 VitePress 文档源码与 Cloudflare Worker。cutcli v1.3.9 起支持上传本地草稿 zip 提交云端渲染，草稿格式同时兼容国际版 CapCut 与国内剪映。安装方式为 curl 脚本。", "highlights": ["5 个可运行示例（字幕、图片轮播+BGM、关键词高亮、音频自适应、关键帧缩放）", "提供驱动 cutcli 的 Cursor / Claude Code / ChatGPT 系统提示词", "cutcli v1.3.9 起支持云端渲染（上传草稿 zip 提交渲染并查询结果）", "草稿格式同时兼容 CapCut 国际版与剪映国内版"], "use_cases": ["用脚本或 AI agent 生成可在剪映/CapCut 中继续编辑的草稿", "复制 JSON 模板快速加字幕、动画、转场和滤镜", "定时把草稿提交云端渲染做自动化检查或预览"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://cutcli.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["视频剪辑自动化", "cookbook/模板", "AI agent 集成", "CLI 工具", "剪映/CapCut 生态"], "domain": "视频创作/开发者工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "支持剪映（国内版剪映）"]}, "trust": {"confidence": "high", "evidence": ["L3: > Open-source cookbook, JSON templates, AI prompts, and docs for cutcli — the CapCut / Jianying (剪映) draft CLI. Generate", "L46: |Directory|Purpose|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xuliang2024/cutcli-cookbook",
+ "sha": "101ed304533e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "cutcli 的官方食谱库：示例、JSON 模板与 AI 提示词，用于代码生成剪映草稿",
+  "review": "为 cutcli（把 shell 命令或 JSON 转成剪映/CapCut 可直接打开的桌面草稿文件夹的单二进制 CLI）配套的 cookbook 仓库：收录 5 个一键运行示例、可复用字幕/动画/滤镜 JSON 模板、面向 Cursor/Claude Code/ChatGPT/MCP agent 的系统提示词，以及 docs.cutcli.com 的 VitePress 文档源码与 Cloudflare Worker。cutcli v1.3.9 起支持上传本地草稿 zip 提交云端渲染，草稿格式同时兼容国际版 CapCut 与国内剪映。安装方式为 curl 脚本。",
+  "highlights": [
+   "5 个可运行示例（字幕、图片轮播+BGM、关键词高亮、音频自适应、关键帧缩放）",
+   "提供驱动 cutcli 的 Cursor / Claude Code / ChatGPT 系统提示词",
+   "cutcli v1.3.9 起支持云端渲染（上传草稿 zip 提交渲染并查询结果）",
+   "草稿格式同时兼容 CapCut 国际版与剪映国内版"
+  ],
+  "use_cases": [
+   "用脚本或 AI agent 生成可在剪映/CapCut 中继续编辑的草稿",
+   "复制 JSON 模板快速加字幕、动画、转场和滤镜",
+   "定时把草稿提交云端渲染做自动化检查或预览"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://cutcli.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频剪辑自动化",
+   "cookbook/模板",
+   "AI agent 集成",
+   "CLI 工具",
+   "剪映/CapCut 生态"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "支持剪映（国内版剪映）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > Open-source cookbook, JSON templates, AI prompts, and docs for cutcli — the CapCut / Jianying (剪映) draft CLI. Generate",
+   "L46: |Directory|Purpose|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

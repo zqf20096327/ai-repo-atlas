@@ -1,1 +1,80 @@
-{"fn": "yahskapar/MA-rPPG-Video-Toolbox", "sha": "cdc70a576f81", "source": "readme", "identity": {"one_liner": "rPPG 研究用的神经运动迁移数据增强视频工具箱", "review": "WACV 2024 论文 Motion Matters 的源码与预训练模型仓库：将运动迁移用作数据增强手段，从驾驶视频中迁移人体运动到 rPPG 视频数据集（UBFC-rPPG、PURE、SCAMPS），在保留生理信号的同时引入运动变化，用于提升摄像头生理测量模型的泛化。基于 NVIDIA One-Shot Free-View Neural Talking-Head Synthesis 的非官方 PyTorch 实现，通过 augment_videos.py 生成增强数据集，另提供用于 rPPG-Toolbox 的预训练模型。需 conda 环境、指定版本 PyTorch 与 GPU。", "highlights": ["运动迁移增强 UBFC-rPPG / PURE / SCAMPS 三个 rPPG 数据集", "提供 Vox-256-Beta / Vox-256-New 等预训练模型下载", "支持多进程与多 GPU（CUDA_VISIBLE_DEVICES）加速数据集生成", "附带可在 rPPG-Toolbox 中使用的预训练模型"], "use_cases": ["为 rPPG 模型训练生成运动增强的视频数据集", "复现论文中的跨数据集实验", "研究运动幅度与类型对生理测量的影响"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["rPPG", "数据增强", "视频生成", "健康感知", "计算机视觉"], "domain": "计算机视觉/健康感知", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["预训练模型提供百度网盘下载链接"]}, "trust": {"confidence": "high", "evidence": ["L15: Machine learning models for camera-based physiological measurement can have weak generalization due to a lack of represe", "L36: This motion-augmentation pipeline supports three rPPG video datasets - UBFC-rPPG, PURE, and SCAMPS. The pipeline utilize"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yahskapar/MA-rPPG-Video-Toolbox",
+ "sha": "cdc70a576f81",
+ "source": "readme",
+ "identity": {
+  "one_liner": "rPPG 研究用的神经运动迁移数据增强视频工具箱",
+  "review": "WACV 2024 论文 Motion Matters 的源码与预训练模型仓库：将运动迁移用作数据增强手段，从驾驶视频中迁移人体运动到 rPPG 视频数据集（UBFC-rPPG、PURE、SCAMPS），在保留生理信号的同时引入运动变化，用于提升摄像头生理测量模型的泛化。基于 NVIDIA One-Shot Free-View Neural Talking-Head Synthesis 的非官方 PyTorch 实现，通过 augment_videos.py 生成增强数据集，另提供用于 rPPG-Toolbox 的预训练模型。需 conda 环境、指定版本 PyTorch 与 GPU。",
+  "highlights": [
+   "运动迁移增强 UBFC-rPPG / PURE / SCAMPS 三个 rPPG 数据集",
+   "提供 Vox-256-Beta / Vox-256-New 等预训练模型下载",
+   "支持多进程与多 GPU（CUDA_VISIBLE_DEVICES）加速数据集生成",
+   "附带可在 rPPG-Toolbox 中使用的预训练模型"
+  ],
+  "use_cases": [
+   "为 rPPG 模型训练生成运动增强的视频数据集",
+   "复现论文中的跨数据集实验",
+   "研究运动幅度与类型对生理测量的影响"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "rPPG",
+   "数据增强",
+   "视频生成",
+   "健康感知",
+   "计算机视觉"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "预训练模型提供百度网盘下载链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Machine learning models for camera-based physiological measurement can have weak generalization due to a lack of represe",
+   "L36: This motion-augmentation pipeline supports three rPPG video datasets - UBFC-rPPG, PURE, and SCAMPS. The pipeline utilize"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

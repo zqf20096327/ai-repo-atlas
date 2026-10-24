@@ -1,1 +1,81 @@
-{"fn": "yeasy/ai_security_guide", "sha": "ca2ed3466636", "source": "readme", "identity": {"one_liner": "面向工程师的大模型与智能体安全攻防图书（含配套实验）", "review": "系统讲解大语言模型与智能体的攻击原理、防御机制和验证方法的技术书籍，共 15 章，覆盖攻击分析、防御实现、智能体系统设计与治理交付；配套三个 Python 实验仓库根目录可运行，实验仅用 Python 标准库与固定合成数据，不测真实模型攻击成功率或生产系统。阅读需要 Python、HTTP、身份权限与日志基础，训练相关章节另需概率统计与线性代数。提供 GitBook 在线版与 PDF（GitHub Releases）两种阅读方式。", "highlights": ["15 章覆盖攻击分析、防御验证、智能体设计与治理", "邮件助手、支付预算、RAG 轨迹三个配套实验（Python 标准库+合成数据）", "GitBook 在线阅读与 PDF 下载两种获取方式", "给出按学习任务划分的阅读路径与练习"], "use_cases": ["开发 LLM/智能体应用前学习安全设计与防御验证方法", "通过配套实验观察读取授权、发送判定、并发预留等内部行为", "按章节自查系统中的越权读取、发送与执行风险"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM安全", "提示注入", "智能体安全", "技术书籍", "RAG安全"], "domain": "AI 安全/技术知识", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文书稿与中文书名", "中文技术丛书（AI 技术丛书）"]}, "trust": {"confidence": "high", "evidence": ["L20: 本书讲解大语言模型与智能体的攻击原理、防御机制和验证方法。以邮件助手为例：模型读取来信，选择文档并请求发送；安全设计要查清来信能影响哪些参数、文档允许谁读取、谁批准发送，以及失败重试会不会重复执行。", "L22: 阅读时始终区分两个问题：模型产生危险输出的概率能否降低；即使模型输出错误，系统是否仍能阻止越权读取、发送或执行。前者涉及对齐与检测，后者依赖模型之外的授权、隔离和执行检查。每种控制都须说明适用条件与未覆盖的路径。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yeasy/ai_security_guide",
+ "sha": "ca2ed3466636",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向工程师的大模型与智能体安全攻防图书（含配套实验）",
+  "review": "系统讲解大语言模型与智能体的攻击原理、防御机制和验证方法的技术书籍，共 15 章，覆盖攻击分析、防御实现、智能体系统设计与治理交付；配套三个 Python 实验仓库根目录可运行，实验仅用 Python 标准库与固定合成数据，不测真实模型攻击成功率或生产系统。阅读需要 Python、HTTP、身份权限与日志基础，训练相关章节另需概率统计与线性代数。提供 GitBook 在线版与 PDF（GitHub Releases）两种阅读方式。",
+  "highlights": [
+   "15 章覆盖攻击分析、防御验证、智能体设计与治理",
+   "邮件助手、支付预算、RAG 轨迹三个配套实验（Python 标准库+合成数据）",
+   "GitBook 在线阅读与 PDF 下载两种获取方式",
+   "给出按学习任务划分的阅读路径与练习"
+  ],
+  "use_cases": [
+   "开发 LLM/智能体应用前学习安全设计与防御验证方法",
+   "通过配套实验观察读取授权、发送判定、并发预留等内部行为",
+   "按章节自查系统中的越权读取、发送与执行风险"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM安全",
+   "提示注入",
+   "智能体安全",
+   "技术书籍",
+   "RAG安全"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文书稿与中文书名",
+   "中文技术丛书（AI 技术丛书）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: 本书讲解大语言模型与智能体的攻击原理、防御机制和验证方法。以邮件助手为例：模型读取来信，选择文档并请求发送；安全设计要查清来信能影响哪些参数、文档允许谁读取、谁批准发送，以及失败重试会不会重复执行。",
+   "L22: 阅读时始终区分两个问题：模型产生危险输出的概率能否降低；即使模型输出错误，系统是否仍能阻止越权读取、发送或执行。前者涉及对齐与检测，后者依赖模型之外的授权、隔离和执行检查。每种控制都须说明适用条件与未覆盖的路径。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

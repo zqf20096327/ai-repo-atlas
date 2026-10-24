@@ -33,7 +33,7 @@ Rust 编写的记忆数据库，以 Python/Rust 嵌入库、单二进制 HTTP �
 
 ## 场景标签
 
- · 领域:AI 基础设施/agent 记忆
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

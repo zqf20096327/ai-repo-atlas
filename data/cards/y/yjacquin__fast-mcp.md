@@ -33,7 +33,7 @@ Model Context Protocol 的 Ruby 语言实现库，以 Gem 形式提供：通过 
 
 ## 场景标签
 
- · 领域:LLM 基础设施/MCP 协议
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

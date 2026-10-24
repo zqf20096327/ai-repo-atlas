@@ -1,1 +1,88 @@
-{"fn": "yologdev/yoagent", "sha": "9adc3070274a", "source": "readme", "identity": {"one_liner": "Rust agent 循环库：接入 7 种 LLM 协议，运行工具直至完成", "review": "面向 Rust 开发者的 agent loop 库（crate），提供 prompt→LLM 流→工具调用（经策略门控）→完成检查的循环，支持 Anthropic Messages、OpenAI Completions/Responses、Azure、Gemini、Vertex、Bedrock 共 7 种原生协议。通过单一 Extension 插件契约扩展工具策略、输入检查、脱敏、预算与审计；支持会话树分支、子 agent、MCP（stdio/HTTP）、OpenAPI 工具、结构化输出与离线 MockProvider 测试。可编译到 wasm32 并运行于 Cloudflare Workers；不包含向量存储、嵌入或任务图编排层，明确将 RAG/编排类需求指向 rig、swiftide 等项目。MSRV 1.86。", "highlights": ["7 种原生 LLM 线协议实现，保留各 provider 特有特性", "单一 Extension 契约覆盖工具策略、输入检查、脱敏、审计等环节", "会话以树结构组织，支持分支、检查点与回放", "同一代码可原生构建并编译到 wasm32 运行于 Cloudflare Workers"], "use_cases": ["在 Rust 项目中自建带工具调用的 agent 而不引入整套框架", "为工具调用加策略门控、脱敏与审计日志", "在 Cloudflare Workers 等边缘环境运行 agent loop", "用 MockProvider 离线测试 agent 的中断与转向路径"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent框架", "Rust", "LLM应用开发", "工具调用", "边缘计算/wasm"], "domain": "LLM/Agent 开发框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "groq", "vllm", "bedrock", "deepseek", "anthropic"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 提供中文入口（L3）"]}, "trust": {"confidence": "high", "evidence": ["L12: **The agent loop for Rust.** Stream from any of 7 LLM protocols, run tools, loop until done.", "L14: A loop library, not an agent: it powers yoyo, a coding agent evolving its own source since March 2026, and runs from a l", "L101: - **7 native wire protocols**, not one OpenAI-compat shim with adapters bolted on. Anthropic"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yologdev/yoagent",
+ "sha": "9adc3070274a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust agent 循环库：接入 7 种 LLM 协议，运行工具直至完成",
+  "review": "面向 Rust 开发者的 agent loop 库（crate），提供 prompt→LLM 流→工具调用（经策略门控）→完成检查的循环，支持 Anthropic Messages、OpenAI Completions/Responses、Azure、Gemini、Vertex、Bedrock 共 7 种原生协议。通过单一 Extension 插件契约扩展工具策略、输入检查、脱敏、预算与审计；支持会话树分支、子 agent、MCP（stdio/HTTP）、OpenAPI 工具、结构化输出与离线 MockProvider 测试。可编译到 wasm32 并运行于 Cloudflare Workers；不包含向量存储、嵌入或任务图编排层，明确将 RAG/编排类需求指向 rig、swiftide 等项目。MSRV 1.86。",
+  "highlights": [
+   "7 种原生 LLM 线协议实现，保留各 provider 特有特性",
+   "单一 Extension 契约覆盖工具策略、输入检查、脱敏、审计等环节",
+   "会话以树结构组织，支持分支、检查点与回放",
+   "同一代码可原生构建并编译到 wasm32 运行于 Cloudflare Workers"
+  ],
+  "use_cases": [
+   "在 Rust 项目中自建带工具调用的 agent 而不引入整套框架",
+   "为工具调用加策略门控、脱敏与审计日志",
+   "在 Cloudflare Workers 等边缘环境运行 agent loop",
+   "用 MockProvider 离线测试 agent 的中断与转向路径"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "Rust",
+   "LLM应用开发",
+   "工具调用",
+   "边缘计算/wasm"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "groq",
+   "vllm",
+   "bedrock",
+   "deepseek",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文入口（L3）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **The agent loop for Rust.** Stream from any of 7 LLM protocols, run tools, loop until done.",
+   "L14: A loop library, not an agent: it powers yoyo, a coding agent evolving its own source since March 2026, and runs from a l",
+   "L101: - **7 native wire protocols**, not one OpenAI-compat shim with adapters bolted on. Anthropic"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,86 @@
-{"fn": "ymcui/Chinese-LLaMA-Alpaca-3", "sha": "cc955abcff51", "source": "readme", "identity": {"one_liner": "基于 Meta Llama-3 的中文增量预训练与指令精调开源大模型", "review": "Chinese-LLaMA-Alpaca 系列第三期项目，开源 Llama-3-Chinese-8B 基座模型与三个版本的 Instruct 指令模型：在原版 Llama-3 上用约 120GB 中文语料增量预训练（LoRA + 全量 emb/lm-head），再用约 500 万条指令数据精调；v3 由多个指令模型融合并少量精调得到。词表沿用原版 128K BPE，上下文 8K。同时开源预训练/精调脚本、指令数据集，并提供 llama.cpp、transformers、vLLM、Ollama、text-generation-webui、LM Studio 等量化部署教程，GGUF 量化格式适配本地推理工具。模型权重托管于 Hugging Face、ModelScope、wisemodel。", "highlights": ["开源 Llama-3-Chinese-8B 基座模型与 Instruct v1/v2/v3 指令模型（完整版/LoRA/GGUF）", "提供预训练脚本、指令精调脚本及 alpaca_zh_51k 等指令数据", "支持 llama.cpp、transformers、vLLM、Ollama、text-generation-webui 等部署方式", "提供 C-Eval、CMMLU、MMLU、LongBench 等基准评测结果与在线模型竞技场"], "use_cases": ["需要中文问答、写作、聊天能力的本地大模型部署", "在开源中文模型基础上做进一步训练或微调", "对比评测中文 Llama-3 系列各版本在 C-Eval/LongBench 等基准的表现"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "http://llm-arena.ymcui.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["开源大模型", "中文LLM", "LLaMA生态", "指令微调", "本地部署"], "domain": "自然语言处理/大语言模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "vllm", "llama.cpp"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "ModelScope/wisemodel 国内模型托管", "机器之心SOTA!模型平台入驻", "项目名 Chinese-LLaMA-Alpaca"]}, "trust": {"confidence": "high", "evidence": ["L13: 本项目基于Meta最新发布的新一代开源大模型Llama-3开发，是Chinese-LLaMA-Alpaca开源大模型相关系列项目（一期、二期）的第三期。本项目开源了**中文Llama-3基座模型和中文Llama-3-Instruct指令精调", "L17: - 🚀 开源Llama-3-Chinese基座模型和Llama-3-Chinese-Instruct指令模型（v1, v2, v3）"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ymcui/Chinese-LLaMA-Alpaca-3",
+ "sha": "cc955abcff51",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Meta Llama-3 的中文增量预训练与指令精调开源大模型",
+  "review": "Chinese-LLaMA-Alpaca 系列第三期项目，开源 Llama-3-Chinese-8B 基座模型与三个版本的 Instruct 指令模型：在原版 Llama-3 上用约 120GB 中文语料增量预训练（LoRA + 全量 emb/lm-head），再用约 500 万条指令数据精调；v3 由多个指令模型融合并少量精调得到。词表沿用原版 128K BPE，上下文 8K。同时开源预训练/精调脚本、指令数据集，并提供 llama.cpp、transformers、vLLM、Ollama、text-generation-webui、LM Studio 等量化部署教程，GGUF 量化格式适配本地推理工具。模型权重托管于 Hugging Face、ModelScope、wisemodel。",
+  "highlights": [
+   "开源 Llama-3-Chinese-8B 基座模型与 Instruct v1/v2/v3 指令模型（完整版/LoRA/GGUF）",
+   "提供预训练脚本、指令精调脚本及 alpaca_zh_51k 等指令数据",
+   "支持 llama.cpp、transformers、vLLM、Ollama、text-generation-webui 等部署方式",
+   "提供 C-Eval、CMMLU、MMLU、LongBench 等基准评测结果与在线模型竞技场"
+  ],
+  "use_cases": [
+   "需要中文问答、写作、聊天能力的本地大模型部署",
+   "在开源中文模型基础上做进一步训练或微调",
+   "对比评测中文 Llama-3 系列各版本在 C-Eval/LongBench 等基准的表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "http://llm-arena.ymcui.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开源大模型",
+   "中文LLM",
+   "LLaMA生态",
+   "指令微调",
+   "本地部署"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "ModelScope/wisemodel 国内模型托管",
+   "机器之心SOTA!模型平台入驻",
+   "项目名 Chinese-LLaMA-Alpaca"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: 本项目基于Meta最新发布的新一代开源大模型Llama-3开发，是Chinese-LLaMA-Alpaca开源大模型相关系列项目（一期、二期）的第三期。本项目开源了**中文Llama-3基座模型和中文Llama-3-Instruct指令精调",
+   "L17: - 🚀 开源Llama-3-Chinese基座模型和Llama-3-Chinese-Instruct指令模型（v1, v2, v3）"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

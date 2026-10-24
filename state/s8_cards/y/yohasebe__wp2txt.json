@@ -1,1 +1,82 @@
-{"fn": "yohasebe/wp2txt", "sha": "8f4b6d74bf54", "source": "readme", "identity": {"one_liner": "从 Wikipedia dump 提取纯文本与分类数据的命令行工具", "review": "Ruby 编写的 CLI 工具：读取 bz2 压缩的 Wikipedia XML dump，去除 MediaWiki 标记，输出适合语料库语言学与文本挖掘的纯文本或 JSONL，并保留 page_id/revision_id 等元数据。支持按语言码自动下载、按标题或分类抽取文章、350+ 语言的分类与重定向检测、模板展开、引用抽取，以及基于 SQLite 的离线索引与全文查询。另含 MCP 服务器，可将本地 dump 以版本固定方式暴露给 LLM agent。面向语料/NLP 研究者与数据工程师。", "highlights": ["按标题或分类抽取文章，无需处理全量 dump", "JSONL 输出含 page_id/revision_id，可回溯文章版本", "SQLite 离线索引：分类/章节/全文/跨语言链接查询", "MCP 服务器将本地 dump 暴露给 LLM agent，结果可复现"], "use_cases": ["构建领域语料库，如抽取所有电影条目的剧情章节", "生成版本固定的 RAG 知识库或 LLM 评测数据集", "对某 Wikipedia 版本做穷尽式断言（某分类中无文章提及 X）", "跨语言比较研究（利用平行分类结构与跨语言链接）"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [207], "note": "Ractor JSON 路径标注为 experimental"}}, "links": {"scenario_tags": ["语料构建", "Wikipedia 数据处理", "NLP 数据工程", "MCP", "文本挖掘"], "domain": "NLP/语料工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供日语版"]}, "trust": {"confidence": "high", "evidence": ["L16: WP2TXT extracts plain text and category information from Wikipedia dump files. It processes XML dumps (compressed with b", "L29: - **MCP server** - Expose a local dump to LLM agents (Claude, ChatGPT, Gemini, local models) for grounded, reproducible ", "L293: Beyond text extraction, wp2txt can turn a dump into a **local, version-pinned database**:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yohasebe/wp2txt",
+ "sha": "8f4b6d74bf54",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从 Wikipedia dump 提取纯文本与分类数据的命令行工具",
+  "review": "Ruby 编写的 CLI 工具：读取 bz2 压缩的 Wikipedia XML dump，去除 MediaWiki 标记，输出适合语料库语言学与文本挖掘的纯文本或 JSONL，并保留 page_id/revision_id 等元数据。支持按语言码自动下载、按标题或分类抽取文章、350+ 语言的分类与重定向检测、模板展开、引用抽取，以及基于 SQLite 的离线索引与全文查询。另含 MCP 服务器，可将本地 dump 以版本固定方式暴露给 LLM agent。面向语料/NLP 研究者与数据工程师。",
+  "highlights": [
+   "按标题或分类抽取文章，无需处理全量 dump",
+   "JSONL 输出含 page_id/revision_id，可回溯文章版本",
+   "SQLite 离线索引：分类/章节/全文/跨语言链接查询",
+   "MCP 服务器将本地 dump 暴露给 LLM agent，结果可复现"
+  ],
+  "use_cases": [
+   "构建领域语料库，如抽取所有电影条目的剧情章节",
+   "生成版本固定的 RAG 知识库或 LLM 评测数据集",
+   "对某 Wikipedia 版本做穷尽式断言（某分类中无文章提及 X）",
+   "跨语言比较研究（利用平行分类结构与跨语言链接）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    207
+   ],
+   "note": "Ractor JSON 路径标注为 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语料构建",
+   "Wikipedia 数据处理",
+   "NLP 数据工程",
+   "MCP",
+   "文本挖掘"
+  ],
+  "domain": "NLP/语料工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供日语版"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: WP2TXT extracts plain text and category information from Wikipedia dump files. It processes XML dumps (compressed with b",
+   "L29: - **MCP server** - Expose a local dump to LLM agents (Claude, ChatGPT, Gemini, local models) for grounded, reproducible ",
+   "L293: Beyond text extraction, wp2txt can turn a dump into a **local, version-pinned database**:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

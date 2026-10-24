@@ -1,1 +1,79 @@
-{"fn": "yfedoseev/office_oxide", "sha": "dc42a4cc430c", "source": "readme", "identity": {"one_liner": "多语言 Office 文档解析库：6 种格式提取文本/Markdown", "review": "以 Rust 为核心的 Office 文档处理库，提供 Python、Go、C#/.NET、Node.js（原生与 WASM）、C FFI 绑定及 CLI。支持 DOCX/XLSX/PPTX 读写编辑，DOC/XLS/PPT 旧格式可读取并转换为 OOXML，输出纯文本、Markdown、HTML 及格式无关中间表示。基准测试基于 6,062 个真实文档，对有效文件通过率 100%（97 个未通过文件均为无效输入）。渲染器对不可信输入设有每文档文本预算（默认 256 Mi 字符）并截断标注。另提供 MCP server 二进制，供 Claude、Cursor 等 AI 助手本地读取 Office 文档。MIT/Apache-2.0 双开源许可。", "highlights": ["6 种格式支持：DOCX/XLSX/PPTX 读写，DOC/XLS/PPT 读取并可转换为 OOXML", "多语言绑定：Python/Go/C#/Node.js/WASM/C FFI，附 CLI 与 MCP server", "对不可信输入设 256 Mi 字符文本预算并截断标注", "基于 6,062 个真实文档的基准测试，有效文件通过率 100%"], "use_cases": ["RAG/LLM 流水线中从 Office 文档提取干净文本或 Markdown", "批量解析数千份文档做数据提取", "将旧版 DOC/XLS/PPT 转换为现代 OOXML 格式", "让 Claude/Cursor 等 AI 助手通过 MCP 本地读取 Office 文档"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "high", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档处理", "文本提取", "RAG 前处理", "格式转换", "MCP"], "domain": "文档处理/开发库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # Office Oxide — The Fastest Native Office Document Library", "L335: `office-oxide-mcp` lets AI assistants (Claude, Cursor, etc.) read Office documents locally via the Model Context Protoco", "L373: - **RAG / LLM pipelines** — Extract clean text or Markdown from Office documents for retrieval-augmented generation"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yfedoseev/office_oxide",
+ "sha": "dc42a4cc430c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多语言 Office 文档解析库：6 种格式提取文本/Markdown",
+  "review": "以 Rust 为核心的 Office 文档处理库，提供 Python、Go、C#/.NET、Node.js（原生与 WASM）、C FFI 绑定及 CLI。支持 DOCX/XLSX/PPTX 读写编辑，DOC/XLS/PPT 旧格式可读取并转换为 OOXML，输出纯文本、Markdown、HTML 及格式无关中间表示。基准测试基于 6,062 个真实文档，对有效文件通过率 100%（97 个未通过文件均为无效输入）。渲染器对不可信输入设有每文档文本预算（默认 256 Mi 字符）并截断标注。另提供 MCP server 二进制，供 Claude、Cursor 等 AI 助手本地读取 Office 文档。MIT/Apache-2.0 双开源许可。",
+  "highlights": [
+   "6 种格式支持：DOCX/XLSX/PPTX 读写，DOC/XLS/PPT 读取并可转换为 OOXML",
+   "多语言绑定：Python/Go/C#/Node.js/WASM/C FFI，附 CLI 与 MCP server",
+   "对不可信输入设 256 Mi 字符文本预算并截断标注",
+   "基于 6,062 个真实文档的基准测试，有效文件通过率 100%"
+  ],
+  "use_cases": [
+   "RAG/LLM 流水线中从 Office 文档提取干净文本或 Markdown",
+   "批量解析数千份文档做数据提取",
+   "将旧版 DOC/XLS/PPT 转换为现代 OOXML 格式",
+   "让 Claude/Cursor 等 AI 助手通过 MCP 本地读取 Office 文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档处理",
+   "文本提取",
+   "RAG 前处理",
+   "格式转换",
+   "MCP"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Office Oxide — The Fastest Native Office Document Library",
+   "L335: `office-oxide-mcp` lets AI assistants (Claude, Cursor, etc.) read Office documents locally via the Model Context Protoco",
+   "L373: - **RAG / LLM pipelines** — Extract clean text or Markdown from Office documents for retrieval-augmented generation"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:LLM Agent 记忆基础设施
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

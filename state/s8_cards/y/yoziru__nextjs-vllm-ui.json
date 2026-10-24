@@ -1,1 +1,80 @@
-{"fn": "yoziru/nextjs-vllm-ui", "sha": "3ba4d5213634", "source": "readme", "identity": {"one_liner": "面向 vLLM 与 Ollama 的自托管本地聊天 Web 界面", "review": "基于 NextJS 构建的 Web 聊天界面，fork 自 nextjs-ollama-llm-ui，通过 OpenAI 兼容接口对接 vLLM 推理服务端，也可经 VLLM_URL 指向 Ollama。聊天记录存于浏览器 localstorage，无需数据库。提供预构建 Docker 镜像一键运行，也支持源码开发（Node.js 18+、mise、Aube 包管理）。UI 风格参照 ChatGPT，支持响应式、代码高亮与明暗模式。限制：需用户自行先运行 vLLM 或 Ollama 服务。", "highlights": ["通过 VLLM_URL 环境变量对接 vLLM 或 Ollama 服务", "预构建 Docker 镜像单命令运行", "聊天记录存 localstorage，无需数据库", "响应式界面、代码高亮、明暗模式"], "use_cases": ["为自建的 vLLM 推理服务配一个网页聊天前端", "本地/离线环境浏览和对话 LLM", "手机等移动设备访问本地模型对话"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM WebUI", "自托管", "vLLM", "聊天界面"], "domain": "LLM 前端/WebUI", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5:  Fully-featured & beautiful web interface for vLLM & Ollama", "L29: 1. Download vLLM and have it running. Or run it in a Docker container.", "L37: docker run --rm -d -p 3000:3000 -e VLLM_URL=http://host.docker.internal:8000 ghcr.io/yoziru/nextjs-vllm-ui:latest"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yoziru/nextjs-vllm-ui",
+ "sha": "3ba4d5213634",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 vLLM 与 Ollama 的自托管本地聊天 Web 界面",
+  "review": "基于 NextJS 构建的 Web 聊天界面，fork 自 nextjs-ollama-llm-ui，通过 OpenAI 兼容接口对接 vLLM 推理服务端，也可经 VLLM_URL 指向 Ollama。聊天记录存于浏览器 localstorage，无需数据库。提供预构建 Docker 镜像一键运行，也支持源码开发（Node.js 18+、mise、Aube 包管理）。UI 风格参照 ChatGPT，支持响应式、代码高亮与明暗模式。限制：需用户自行先运行 vLLM 或 Ollama 服务。",
+  "highlights": [
+   "通过 VLLM_URL 环境变量对接 vLLM 或 Ollama 服务",
+   "预构建 Docker 镜像单命令运行",
+   "聊天记录存 localstorage，无需数据库",
+   "响应式界面、代码高亮、明暗模式"
+  ],
+  "use_cases": [
+   "为自建的 vLLM 推理服务配一个网页聊天前端",
+   "本地/离线环境浏览和对话 LLM",
+   "手机等移动设备访问本地模型对话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM WebUI",
+   "自托管",
+   "vLLM",
+   "聊天界面"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Fully-featured & beautiful web interface for vLLM & Ollama",
+   "L29: 1. Download vLLM and have it running. Or run it in a Docker container.",
+   "L37: docker run --rm -d -p 3000:3000 -e VLLM_URL=http://host.docker.internal:8000 ghcr.io/yoziru/nextjs-vllm-ui:latest"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

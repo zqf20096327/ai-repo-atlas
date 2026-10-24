@@ -1,1 +1,82 @@
-{"fn": "yanliudesign/product-teardown-skill", "sha": "b96b1bf82a11", "source": "readme", "identity": {"one_liner": "面向产品经理的产品拆解提示词技能：生成双语 HTML 拆解报告", "review": "以可移植提示词（SKILL/prompt 文件）形式提供的产品拆解技能，运行于 Claude Code、Codex、OpenCode 等 agent 工具中。用户以一句话指定任意产品，技能按固定的 11 段结构（快照、用户与 JTBD、核心循环、架构、商业模式、增长、AI 就绪度等）产出聊天回复，并自动生成中英双语、可打印的单文件 HTML 报告（存至桌面目录），内嵌取自产品 og:image 营销素材的 6 图截图廊。报告模板使用大写占位符填充，页脚含品牌标记且不可移除。", "highlights": ["固定 11 段拆解结构（Snapshot → Final PM Verdict）", "同一次运行生成中英双语、互链、可打印的单文件 HTML 报告", "截图从产品自身 og:image 资产抓取（curl + grep）", "可移植：提示词文件可粘贴到任意工具或作为 VS Code 斜杠命令"], "use_cases": ["让 AI 帮我系统拆解一个竞品或研究对象", "快速产出结构化的双语产品分析报告用于汇报", "学习 Principal PM 视角的产品拆解框架"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["提示词/技能", "产品管理", "报告生成", "agent技能", "双语输出"], "domain": "产品管理/提示词工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["双语（EN+ZH）默认输出", "页脚含小红书链接"]}, "trust": {"confidence": "mid", "evidence": ["L17: A Principal-PM-level product-teardown skill. Point it at any product (Linear, Notion, Cursor, Perplexity…) and it revers", "L71: ├── product-teardown-prompt.md              # Portable skill prompt (paste into any tool)", "L84: Copy product-teardown-prompt.md into your VS Code prompts folder as `product-teardown.prompt.md` and invoke via `/produc"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yanliudesign/product-teardown-skill",
+ "sha": "b96b1bf82a11",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向产品经理的产品拆解提示词技能：生成双语 HTML 拆解报告",
+  "review": "以可移植提示词（SKILL/prompt 文件）形式提供的产品拆解技能，运行于 Claude Code、Codex、OpenCode 等 agent 工具中。用户以一句话指定任意产品，技能按固定的 11 段结构（快照、用户与 JTBD、核心循环、架构、商业模式、增长、AI 就绪度等）产出聊天回复，并自动生成中英双语、可打印的单文件 HTML 报告（存至桌面目录），内嵌取自产品 og:image 营销素材的 6 图截图廊。报告模板使用大写占位符填充，页脚含品牌标记且不可移除。",
+  "highlights": [
+   "固定 11 段拆解结构（Snapshot → Final PM Verdict）",
+   "同一次运行生成中英双语、互链、可打印的单文件 HTML 报告",
+   "截图从产品自身 og:image 资产抓取（curl + grep）",
+   "可移植：提示词文件可粘贴到任意工具或作为 VS Code 斜杠命令"
+  ],
+  "use_cases": [
+   "让 AI 帮我系统拆解一个竞品或研究对象",
+   "快速产出结构化的双语产品分析报告用于汇报",
+   "学习 Principal PM 视角的产品拆解框架"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词/技能",
+   "产品管理",
+   "报告生成",
+   "agent技能",
+   "双语输出"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语（EN+ZH）默认输出",
+   "页脚含小红书链接"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: A Principal-PM-level product-teardown skill. Point it at any product (Linear, Notion, Cursor, Perplexity…) and it revers",
+   "L71: ├── product-teardown-prompt.md              # Portable skill prompt (paste into any tool)",
+   "L84: Copy product-teardown-prompt.md into your VS Code prompts folder as `product-teardown.prompt.md` and invoke via `/produc"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

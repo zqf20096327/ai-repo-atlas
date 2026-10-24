@@ -1,1 +1,81 @@
-{"fn": "xrdevrob/QuestCameraKit", "sha": "922ddd8cd6b3", "source": "readme", "identity": {"one_liner": "Meta Quest 摄像头 API 的 Unity 示例集：取色/检测/QR/着色器/语音问答/串流", "review": "面向 Unity 开发者的 Quest 3/3S Passthrough Camera API 模板与参考工程合集，含六个头显示例：环境取色、YOLO 物体检测（Unity Inference Engine 推理并将检测框投影到 3D 空间）、Meta MRUK 原生 QR 跟踪、立体相机着色器（磨砂玻璃/传送门）、录音转写后连 OpenAI 的图像语音问答，以及 WebRTC 视频串流。需 Unity 6000.3.12f1 与 Android 构建支持，编辑器内无法预览相机行为，须真机构建；维护记录显示设备端验收尚未完成。", "highlights": ["内置 YOLO 模型经 Unity Inference Engine 运行物体检测并投影到房间空间", "Meta MRUK 原生 QR 跟踪，解码 payload 并显示空间边界", "ImageLLM 示例：录音转写+相机帧发送 OpenAI 并播回答案", "Unity WebRTC 将头显相机视频串流到接收端"], "use_cases": ["学习如何在 Quest 应用中接入 Passthrough Camera API", "在混合现实场景中做物体检测与 QR 码空间定位", "开发语音问答式视觉助手或相机画面远程串流"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["XR/AR开发", "计算机视觉", "Unity示例", "空间计算", "物体检测"], "domain": "AR/VR 应用开发", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Unity samples for Meta Quest 3 and Quest 3S: sample real-world colors, detect objects, track QR codes, create camera-bas", "L52: |Object detection|Run inference and place detection markers in 3D|`ObjectDetection`|", "L55: |Image + voice AI|Ask a spoken question about a camera image|`ImageLLM`|", "L68: Run the bundled YOLO model with Unity Inference Engine and project its detections into the room. Detection runs automati"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xrdevrob/QuestCameraKit",
+ "sha": "922ddd8cd6b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Meta Quest 摄像头 API 的 Unity 示例集：取色/检测/QR/着色器/语音问答/串流",
+  "review": "面向 Unity 开发者的 Quest 3/3S Passthrough Camera API 模板与参考工程合集，含六个头显示例：环境取色、YOLO 物体检测（Unity Inference Engine 推理并将检测框投影到 3D 空间）、Meta MRUK 原生 QR 跟踪、立体相机着色器（磨砂玻璃/传送门）、录音转写后连 OpenAI 的图像语音问答，以及 WebRTC 视频串流。需 Unity 6000.3.12f1 与 Android 构建支持，编辑器内无法预览相机行为，须真机构建；维护记录显示设备端验收尚未完成。",
+  "highlights": [
+   "内置 YOLO 模型经 Unity Inference Engine 运行物体检测并投影到房间空间",
+   "Meta MRUK 原生 QR 跟踪，解码 payload 并显示空间边界",
+   "ImageLLM 示例：录音转写+相机帧发送 OpenAI 并播回答案",
+   "Unity WebRTC 将头显相机视频串流到接收端"
+  ],
+  "use_cases": [
+   "学习如何在 Quest 应用中接入 Passthrough Camera API",
+   "在混合现实场景中做物体检测与 QR 码空间定位",
+   "开发语音问答式视觉助手或相机画面远程串流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "XR/AR开发",
+   "计算机视觉",
+   "Unity示例",
+   "空间计算",
+   "物体检测"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "asr",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Unity samples for Meta Quest 3 and Quest 3S: sample real-world colors, detect objects, track QR codes, create camera-bas",
+   "L52: |Object detection|Run inference and place detection markers in 3D|`ObjectDetection`|",
+   "L55: |Image + voice AI|Ask a spoken question about a camera image|`ImageLLM`|",
+   "L68: Run the bundled YOLO model with Unity Inference Engine and project its detections into the room. Detection runs automati"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

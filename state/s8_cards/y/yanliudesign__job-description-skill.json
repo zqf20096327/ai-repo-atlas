@@ -1,1 +1,78 @@
-{"fn": "yanliudesign/job-description-skill", "sha": "e8f9cf4c0965", "source": "readme", "identity": {"one_liner": "解析职位描述并生成求职策略报告的 Claude 技能", "review": "一个以 SKILL.md 格式提供的 Claude skill：用户粘贴 JD 与简历，技能经解码、匹配、简历定制、面试预测、是否申请判定 5 个内部流程，在桌面生成单文件 HTML 的 Offer Strategy 报告，含 10 个固定章节（公司背景、逐条匹配矩阵、差距卡、薪资核验、Top 10 面试题、6 周行动计划等），支持页内导出 PDF/Markdown。面向使用 Claude Code 等 agent 客户端的求职者，属于 offer-toolkit 三件套之一，需在 Claude 环境中调用，报告依赖简历提供的真实证据，缺失即标记。", "highlights": ["5 个内部流程（Decode/Match/Tailor/Predict/Should I Apply）汇总为单文件 HTML 报告", "固定 10 章节框架：匹配矩阵、差距卡、薪资核验、Top 10 面试题、6 周行动计划", "支持 CJK 字体嵌入的 PDF 导出与 Markdown 导出", "三项规则约束：先解码、不虚构经历、单一任务"], "use_cases": ["投递前判断某个岗位是否值得申请", "逐条比对 JD 要求与自己简历的匹配度与差距", "提前准备该岗位可能被问到的面试问题", "获得从投递到面试的逐周行动清单"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "docs/en/demo.mp4", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["求职工具", "Claude技能", "agent-skill", "职业发展"], "domain": "职业发展/求职工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README（中文 · English）", "报告支持 CJK 字体嵌入的 PDF 导出"]}, "trust": {"confidence": "high", "evidence": ["L20: A Claude skill for reading job descriptions. Give it a JD and your resume, and it hands back an HTML report telling you:", "L31: 3. **HTML report auto-opens** — a single-file Offer Strategy Report is generated to `~/Desktop/Claude skills/offer-strat"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yanliudesign/job-description-skill",
+ "sha": "e8f9cf4c0965",
+ "source": "readme",
+ "identity": {
+  "one_liner": "解析职位描述并生成求职策略报告的 Claude 技能",
+  "review": "一个以 SKILL.md 格式提供的 Claude skill：用户粘贴 JD 与简历，技能经解码、匹配、简历定制、面试预测、是否申请判定 5 个内部流程，在桌面生成单文件 HTML 的 Offer Strategy 报告，含 10 个固定章节（公司背景、逐条匹配矩阵、差距卡、薪资核验、Top 10 面试题、6 周行动计划等），支持页内导出 PDF/Markdown。面向使用 Claude Code 等 agent 客户端的求职者，属于 offer-toolkit 三件套之一，需在 Claude 环境中调用，报告依赖简历提供的真实证据，缺失即标记。",
+  "highlights": [
+   "5 个内部流程（Decode/Match/Tailor/Predict/Should I Apply）汇总为单文件 HTML 报告",
+   "固定 10 章节框架：匹配矩阵、差距卡、薪资核验、Top 10 面试题、6 周行动计划",
+   "支持 CJK 字体嵌入的 PDF 导出与 Markdown 导出",
+   "三项规则约束：先解码、不虚构经历、单一任务"
+  ],
+  "use_cases": [
+   "投递前判断某个岗位是否值得申请",
+   "逐条比对 JD 要求与自己简历的匹配度与差距",
+   "提前准备该岗位可能被问到的面试问题",
+   "获得从投递到面试的逐周行动清单"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "docs/en/demo.mp4",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职工具",
+   "Claude技能",
+   "agent-skill",
+   "职业发展"
+  ],
+  "domain": "职业发展/求职工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README（中文 · English）",
+   "报告支持 CJK 字体嵌入的 PDF 导出"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: A Claude skill for reading job descriptions. Give it a JD and your resume, and it hands back an HTML report telling you:",
+   "L31: 3. **HTML report auto-opens** — a single-file Offer Strategy Report is generated to `~/Desktop/Claude skills/offer-strat"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

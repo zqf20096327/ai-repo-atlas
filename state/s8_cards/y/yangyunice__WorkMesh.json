@@ -1,1 +1,86 @@
-{"fn": "yangyunice/WorkMesh", "sha": "cb6cccc1ac53", "source": "readme", "identity": {"one_liner": "开源 AI 时代就业平台原型：连接个人、企业、治理与 AI 助手", "review": "可本地运行的多门户就业协作系统原型，包含个人门户（AI 工作台、技能画像、任务与收入看板）、企业门户（招聘、供需协作、履约配额）、治理门户（就业分析、风险监控、闭环处置）与移动注册门户，共享一套 NestJS + Prisma API 和 PostgreSQL 数据库。已实现基于技能标签/地区/经验的匹配打分、关键词 RAG、Skills 路由与调用审计；向量检索、模型编排、地理半径搜索等列为未来方向。README 自述为原型，作者非职业工程师，代码大量借助 AI 完成，现实落地需政府或大型组织背书。通过 ./deploy.sh 或 ./start-local-demo.sh 本地启动。", "highlights": ["四门户 + 共享 API + PostgreSQL 的多端架构，注册一次生成唯一关联画像", "已实现技能标签匹配打分、关键词 RAG、Agent Skills 路由与调用审计", "治理端提供国家/省/市/区分层视角与风险、任务视图", "AI 助手可调用平台业务 API 而非孤立聊天窗口，推荐结合用户当前状态"], "use_cases": ["探索 AI 转型期失业人群的就业支持与技能学习路径系统", "企业发布岗位后按技能标签获得候选人匹配", "治理团队监控就业运行指标、风险事件并走闭环处置流程"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [7, 77, 81]}}, "links": {"scenario_tags": ["就业平台", "AI助手/Agent", "RAG", "公共治理", "全栈原型"], "domain": "就业/公共服务平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本", "治理端命名为 Bodao AI（博导）"]}, "trust": {"confidence": "mid", "evidence": ["L31: 5. AI assistants can retrieve platform knowledge and invoke role-aware business capabilities.", "L75: - **AI is more than a chat window.** Assistants can retrieve knowledge and route requests to business Skills.", "L118: |AI assistants|Keyword RAG, Skills routing, and invocation audits implemented|Add model orchestration, vector retrieval,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yangyunice/WorkMesh",
+ "sha": "cb6cccc1ac53",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 时代就业平台原型：连接个人、企业、治理与 AI 助手",
+  "review": "可本地运行的多门户就业协作系统原型，包含个人门户（AI 工作台、技能画像、任务与收入看板）、企业门户（招聘、供需协作、履约配额）、治理门户（就业分析、风险监控、闭环处置）与移动注册门户，共享一套 NestJS + Prisma API 和 PostgreSQL 数据库。已实现基于技能标签/地区/经验的匹配打分、关键词 RAG、Skills 路由与调用审计；向量检索、模型编排、地理半径搜索等列为未来方向。README 自述为原型，作者非职业工程师，代码大量借助 AI 完成，现实落地需政府或大型组织背书。通过 ./deploy.sh 或 ./start-local-demo.sh 本地启动。",
+  "highlights": [
+   "四门户 + 共享 API + PostgreSQL 的多端架构，注册一次生成唯一关联画像",
+   "已实现技能标签匹配打分、关键词 RAG、Agent Skills 路由与调用审计",
+   "治理端提供国家/省/市/区分层视角与风险、任务视图",
+   "AI 助手可调用平台业务 API 而非孤立聊天窗口，推荐结合用户当前状态"
+  ],
+  "use_cases": [
+   "探索 AI 转型期失业人群的就业支持与技能学习路径系统",
+   "企业发布岗位后按技能标签获得候选人匹配",
+   "治理团队监控就业运行指标、风险事件并走闭环处置流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7,
+    77,
+    81
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "就业平台",
+   "AI助手/Agent",
+   "RAG",
+   "公共治理",
+   "全栈原型"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "治理端命名为 Bodao AI（博导）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L31: 5. AI assistants can retrieve platform knowledge and invoke role-aware business capabilities.",
+   "L75: - **AI is more than a chat window.** Assistants can retrieve knowledge and route requests to business Skills.",
+   "L118: |AI assistants|Keyword RAG, Skills routing, and invocation audits implemented|Add model orchestration, vector retrieval,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

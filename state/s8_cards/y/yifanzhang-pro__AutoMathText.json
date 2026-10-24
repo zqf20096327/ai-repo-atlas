@@ -1,1 +1,75 @@
-{"fn": "yifanzhang-pro/AutoMathText", "sha": "4177cbfaa6c9", "source": "readme", "identity": {"one_liner": "约 200GB 数学文本数据集，Qwen-72B 打分筛选", "review": "ACL 2025 Findings 论文 Autonomous Data Selection 的官方实现，同时发布约 200 GB 的数学文本数据集 AutoMathText。数据汇集自 OpenWebMath、RedPajama、Algebraic Stack 等来源（网站、arXiv、GitHub），由 Qwen-72B 以零样本生成式分类器方式自主打分，每条文本附带 [0,1] 区间的 lm_q1q2_score 分数。README 给出按分数区间划分的加载配置，并通过 Huggingface datasets API（load_dataset）使用，另附论文的三段 Meta Prompt 示例。定位是面向数学-AI 交叉研究的预训练/微调数据资源。", "highlights": ["约 200 GB 数学文本，来源含 OpenWebMath、RedPajama、Algebraic Stack", "每条文本由 Qwen-72B 零样本打分（lm_q1q2_score ∈ [0,1]）", "提供按分数区间（如 web-0.50-to-1.00）划分的数据集配置", "附论文三段数据选择 Meta Prompt 示例"], "use_cases": ["为面向数学推理的 LLM 预训练/微调提供筛选过的语料", "研究数学与 AI 交叉领域的数据选择方法", "按质量分数阈值取用不同规模的数据子集"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2402.07625", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据集", "数学语料", "预训练数据", "数据选择/打分", "LLM"], "domain": "数学/LLM 预训练数据", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: **AutoMathText** is an extensive and carefully curated dataset encompassing around **200 GB** of mathematical texts. It'", "L85: - **Volume**: Approximately 200 GB of text data (in natural language and programming language)."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yifanzhang-pro/AutoMathText",
+ "sha": "4177cbfaa6c9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "约 200GB 数学文本数据集，Qwen-72B 打分筛选",
+  "review": "ACL 2025 Findings 论文 Autonomous Data Selection 的官方实现，同时发布约 200 GB 的数学文本数据集 AutoMathText。数据汇集自 OpenWebMath、RedPajama、Algebraic Stack 等来源（网站、arXiv、GitHub），由 Qwen-72B 以零样本生成式分类器方式自主打分，每条文本附带 [0,1] 区间的 lm_q1q2_score 分数。README 给出按分数区间划分的加载配置，并通过 Huggingface datasets API（load_dataset）使用，另附论文的三段 Meta Prompt 示例。定位是面向数学-AI 交叉研究的预训练/微调数据资源。",
+  "highlights": [
+   "约 200 GB 数学文本，来源含 OpenWebMath、RedPajama、Algebraic Stack",
+   "每条文本由 Qwen-72B 零样本打分（lm_q1q2_score ∈ [0,1]）",
+   "提供按分数区间（如 web-0.50-to-1.00）划分的数据集配置",
+   "附论文三段数据选择 Meta Prompt 示例"
+  ],
+  "use_cases": [
+   "为面向数学推理的 LLM 预训练/微调提供筛选过的语料",
+   "研究数学与 AI 交叉领域的数据选择方法",
+   "按质量分数阈值取用不同规模的数据子集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2402.07625",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集",
+   "数学语料",
+   "预训练数据",
+   "数据选择/打分",
+   "LLM"
+  ],
+  "domain": "数学/LLM 预训练数据",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: **AutoMathText** is an extensive and carefully curated dataset encompassing around **200 GB** of mathematical texts. It'",
+   "L85: - **Volume**: Approximately 200 GB of text data (in natural language and programming language)."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

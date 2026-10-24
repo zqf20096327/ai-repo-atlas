@@ -1,1 +1,80 @@
-{"fn": "yb2460/harness-anything-mac", "sha": "f0b4e4d14c90", "source": "readme", "identity": {"one_liner": "供 AI Agent 调用的办公/设计软件 COM 操控 CLI 工具集", "review": "包含五个子项目：cli-anything-wps 通过 COM 接口以 47 个 CLI 命令操控 WPS/Microsoft Office 的文字、表格与演示文稿并支持多格式导出；cli-anything-zotero 集成 Zotero 文献管理与 27 个学术 Skill；Illustrator Harness 与 Photoshop Harness 分别通过 Windows COM 操控 Adobe Illustrator/Photoshop 进行矢量与位图创建编辑；另有 5 个 JSON 数据驱动的 WPS PPT 自动生成项目。以 Python CLI 形式提供，主要依赖 Windows 环境与对应宿主软件（WPS/Office/Adobe/Zotero）。", "highlights": ["47 个 CLI 命令操控 WPS/MS Office 文档并导出多种格式", "COM Bridge 操控 Adobe Illustrator/Photoshop 的图层、形状、文字与导出", "Zotero 集成 27 个学术 Skill，覆盖检索/写作/审稿/分析等 7 类", "JSON 数据驱动全自动生成 PPT（5 校招生数据示例）"], "use_cases": ["让 AI Agent 通过命令批量操作 Word/Excel/PPT 文档", "让 AI Agent 在 Illustrator/Photoshop 中创建与编辑图形", "结合 Zotero 自动化文献检索与论文写作流程"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["办公自动化", "AI Agent 工具", "CLI", "COM 自动化"], "domain": "办公/设计自动化工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文示例与中文高校招生 PPT 项目", "WPS Office 作为主要操控对象"]}, "trust": {"confidence": "mid", "evidence": ["L3:  AI Agent 工具集 —— 办公 + 设计 + 学术 全栈操控", "L48: ### 3. Illustrator Harness — Adobe Illustrator AI Agent"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yb2460/harness-anything-mac",
+ "sha": "f0b4e4d14c90",
+ "source": "readme",
+ "identity": {
+  "one_liner": "供 AI Agent 调用的办公/设计软件 COM 操控 CLI 工具集",
+  "review": "包含五个子项目：cli-anything-wps 通过 COM 接口以 47 个 CLI 命令操控 WPS/Microsoft Office 的文字、表格与演示文稿并支持多格式导出；cli-anything-zotero 集成 Zotero 文献管理与 27 个学术 Skill；Illustrator Harness 与 Photoshop Harness 分别通过 Windows COM 操控 Adobe Illustrator/Photoshop 进行矢量与位图创建编辑；另有 5 个 JSON 数据驱动的 WPS PPT 自动生成项目。以 Python CLI 形式提供，主要依赖 Windows 环境与对应宿主软件（WPS/Office/Adobe/Zotero）。",
+  "highlights": [
+   "47 个 CLI 命令操控 WPS/MS Office 文档并导出多种格式",
+   "COM Bridge 操控 Adobe Illustrator/Photoshop 的图层、形状、文字与导出",
+   "Zotero 集成 27 个学术 Skill，覆盖检索/写作/审稿/分析等 7 类",
+   "JSON 数据驱动全自动生成 PPT（5 校招生数据示例）"
+  ],
+  "use_cases": [
+   "让 AI Agent 通过命令批量操作 Word/Excel/PPT 文档",
+   "让 AI Agent 在 Illustrator/Photoshop 中创建与编辑图形",
+   "结合 Zotero 自动化文献检索与论文写作流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "办公自动化",
+   "AI Agent 工具",
+   "CLI",
+   "COM 自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "gui-automation",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文示例与中文高校招生 PPT 项目",
+   "WPS Office 作为主要操控对象"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  AI Agent 工具集 —— 办公 + 设计 + 学术 全栈操控",
+   "L48: ### 3. Illustrator Harness — Adobe Illustrator AI Agent"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

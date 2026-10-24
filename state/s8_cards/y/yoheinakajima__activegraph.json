@@ -1,1 +1,79 @@
-{"fn": "yoheinakajima/activegraph", "sha": "42fd7977cb01", "source": "readme", "identity": {"one_liner": "事件溯源图运行时：为长时运行、可审计的 agent 提供框架", "review": "Python 编写的反应式图运行时与 agent 构建框架：以对象+类型化关系构成共享图，所有变更记入 append-only 事件日志；行为（函数/类/LLM 支撑/关系行为）订阅事件并产出事件，支持 fork-and-diff 分支对比、重放、策略审批与事件导出。以 pack 组织领域本体，内置 Diligence 参考 pack 可无 API key 运行于录制 fixtures。pip 安装，Python 3.11+，核心仅两个硬依赖，LLM provider 集成为可选 extras（Anthropic/OpenAI 同一 Protocol 接口）。", "highlights": ["append-only 事件日志，每次运行可恢复、可 fork、可 diff", "关系行为原语：协调逻辑挂在类型化边上而非端点", "fork-and-diff 借助 LLM 重放缓存使共享前缀不重执行", "pack 机制打包对象类型、行为、工具、提示词与策略"], "use_cases": ["构建需要完整审计轨迹的长时运行 agent 系统", "对 agent 运行做分支实验并结构化对比结果", "按领域组织本体与行为，搭多 pack 无中心编排的助手"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "arXiv:2605.21997", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent框架", "事件溯源", "图运行时", "可审计性", "LLM基础设施"], "domain": "LLM 基础设施/Agent 框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: An event-sourced reactive graph runtime for long-running, auditable,", "L93: - **Reactive behaviors as first-class.** Function, class, LLM-backed,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yoheinakajima/activegraph",
+ "sha": "42fd7977cb01",
+ "source": "readme",
+ "identity": {
+  "one_liner": "事件溯源图运行时：为长时运行、可审计的 agent 提供框架",
+  "review": "Python 编写的反应式图运行时与 agent 构建框架：以对象+类型化关系构成共享图，所有变更记入 append-only 事件日志；行为（函数/类/LLM 支撑/关系行为）订阅事件并产出事件，支持 fork-and-diff 分支对比、重放、策略审批与事件导出。以 pack 组织领域本体，内置 Diligence 参考 pack 可无 API key 运行于录制 fixtures。pip 安装，Python 3.11+，核心仅两个硬依赖，LLM provider 集成为可选 extras（Anthropic/OpenAI 同一 Protocol 接口）。",
+  "highlights": [
+   "append-only 事件日志，每次运行可恢复、可 fork、可 diff",
+   "关系行为原语：协调逻辑挂在类型化边上而非端点",
+   "fork-and-diff 借助 LLM 重放缓存使共享前缀不重执行",
+   "pack 机制打包对象类型、行为、工具、提示词与策略"
+  ],
+  "use_cases": [
+   "构建需要完整审计轨迹的长时运行 agent 系统",
+   "对 agent 运行做分支实验并结构化对比结果",
+   "按领域组织本体与行为，搭多 pack 无中心编排的助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "arXiv:2605.21997",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "事件溯源",
+   "图运行时",
+   "可审计性",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: An event-sourced reactive graph runtime for long-running, auditable,",
+   "L93: - **Reactive behaviors as first-class.** Function, class, LLM-backed,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,80 @@
-{"fn": "yanun0323/Whallm", "sha": "3083d1cecb96", "source": "readme", "identity": {"one_liner": "在 Apple Silicon Mac 上本地运行超大 MoE 模型的推理应用", "review": "面向 Apple Silicon Mac 的本地 LLM 运行应用：通过专家缓存与 SSD 按需流式读取，使显存有限的 Mac 运行远超内存容量的模型（如 DeepSeek V4/V4.1、Qwen3.8、Swift1.5、MiMo 预览）。自带聊天窗口和 OpenAI 兼容 API（默认 127.0.0.1:11434），引擎以 C++ 和 Metal 编写。要求 macOS 15+、64 GiB 内存推荐、快速内置/雷雳/USB4 SSD；单模型加载、单请求串行处理，DeepSeek V4.1 模型文件约 458 GiB。", "highlights": ["专家缓存 + SSD 按需读取，运行超过内存容量的 MoE 模型", "自带聊天窗口与 OpenAI 兼容 API 服务器", "自研 C++/Metal Native 引擎，支持 MTP/DSpark 投机解码、图像输入（PNG/JPEG/WebP）", "提供 M2 Max / M5 Pro 的 prefill/decode 与峰值内存基准数据"], "use_cases": ["在 MacBook 上本地运行 DeepSeek V4.1、Qwen3.8 等超大模型聊天", "把 Whallm 当本地推理服务端，接入 OpenAI 兼容的 API 客户端", "内存不足以装下整个模型时，用 SSD 流式读取继续本地推理"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地LLM推理", "MoE/专家模型", "Apple Silicon", "SSD流式加载", "OpenAI兼容API"], "domain": "本地 LLM 推理/桌面应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文/繁体中文版本"]}, "trust": {"confidence": "high", "evidence": ["L11: Whallm runs large language models on your Apple Silicon Mac. These models are split into many small parts called experts", "L34: 3. Open **Server** and select **Start Server**."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yanun0323/Whallm",
+ "sha": "3083d1cecb96",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Apple Silicon Mac 上本地运行超大 MoE 模型的推理应用",
+  "review": "面向 Apple Silicon Mac 的本地 LLM 运行应用：通过专家缓存与 SSD 按需流式读取，使显存有限的 Mac 运行远超内存容量的模型（如 DeepSeek V4/V4.1、Qwen3.8、Swift1.5、MiMo 预览）。自带聊天窗口和 OpenAI 兼容 API（默认 127.0.0.1:11434），引擎以 C++ 和 Metal 编写。要求 macOS 15+、64 GiB 内存推荐、快速内置/雷雳/USB4 SSD；单模型加载、单请求串行处理，DeepSeek V4.1 模型文件约 458 GiB。",
+  "highlights": [
+   "专家缓存 + SSD 按需读取，运行超过内存容量的 MoE 模型",
+   "自带聊天窗口与 OpenAI 兼容 API 服务器",
+   "自研 C++/Metal Native 引擎，支持 MTP/DSpark 投机解码、图像输入（PNG/JPEG/WebP）",
+   "提供 M2 Max / M5 Pro 的 prefill/decode 与峰值内存基准数据"
+  ],
+  "use_cases": [
+   "在 MacBook 上本地运行 DeepSeek V4.1、Qwen3.8 等超大模型聊天",
+   "把 Whallm 当本地推理服务端，接入 OpenAI 兼容的 API 客户端",
+   "内存不足以装下整个模型时，用 SSD 流式读取继续本地推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM推理",
+   "MoE/专家模型",
+   "Apple Silicon",
+   "SSD流式加载",
+   "OpenAI兼容API"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文/繁体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Whallm runs large language models on your Apple Silicon Mac. These models are split into many small parts called experts",
+   "L34: 3. Open **Server** and select **Start Server**."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

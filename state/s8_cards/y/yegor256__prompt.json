@@ -1,1 +1,77 @@
-{"fn": "yegor256/prompt", "sha": "0e5bb16efb1f", "source": "readme", "identity": {"one_liner": "纯文本系统提示词：教 LLM 遵循优雅编码与测试规范", "review": "一份以 Markdown 纯文本写成的 LLM 系统提示词文件，内容为面向编码任务的指令集合，覆盖工具使用（GNU 工具、Git 提交/PR/issue 技能）、工作流（TDD、分支命名）、代码与对象设计规则（Elegant Objects、SOLID、DDD）、测试与测试夹具规范（一断言一测试、偏好 fake/stub 而非 mock）以及运行时约束（测试中禁用日志、假设无网络）。安装方式为将文件保存到 ~/.claude/CLAUDE.md 供 Claude 类 agent 加载。限制：无代码逻辑，仅为文本配置，规则绑定作者个人方法论（如 Angry Tests、Puzzle Driven Development）。", "highlights": ["覆盖工具、工作流、代码、对象、测试、夹具、运行时七大类编码规则指令", "引用 Elegant Objects / SOLID / DDD / TDD 等方法论并转为具体约束", "以纯文本 Markdown 提供，保存为 ~/.claude/CLAUDE.md 即可生效"], "use_cases": ["给 Claude 类编码 agent 配置统一的代码风格与测试纪律", "让 LLM 助手在编码会话中遵循 TDD 与最小变更原则", "个人或团队沉淀编码规范为可复用的系统提示词"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["系统提示词", "编码规范", "TDD", "prompt工程", "agent配置"], "domain": "软件工程/LLM 提示工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L25: Always practice TDD (test-driven development), reproducing bugs before fixing.", "L74: Follow \"Angry Tests\".", "L55: Honor Elegant Objects and SOLID (single, open, Liskov, interface, dependency)."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yegor256/prompt",
+ "sha": "0e5bb16efb1f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯文本系统提示词：教 LLM 遵循优雅编码与测试规范",
+  "review": "一份以 Markdown 纯文本写成的 LLM 系统提示词文件，内容为面向编码任务的指令集合，覆盖工具使用（GNU 工具、Git 提交/PR/issue 技能）、工作流（TDD、分支命名）、代码与对象设计规则（Elegant Objects、SOLID、DDD）、测试与测试夹具规范（一断言一测试、偏好 fake/stub 而非 mock）以及运行时约束（测试中禁用日志、假设无网络）。安装方式为将文件保存到 ~/.claude/CLAUDE.md 供 Claude 类 agent 加载。限制：无代码逻辑，仅为文本配置，规则绑定作者个人方法论（如 Angry Tests、Puzzle Driven Development）。",
+  "highlights": [
+   "覆盖工具、工作流、代码、对象、测试、夹具、运行时七大类编码规则指令",
+   "引用 Elegant Objects / SOLID / DDD / TDD 等方法论并转为具体约束",
+   "以纯文本 Markdown 提供，保存为 ~/.claude/CLAUDE.md 即可生效"
+  ],
+  "use_cases": [
+   "给 Claude 类编码 agent 配置统一的代码风格与测试纪律",
+   "让 LLM 助手在编码会话中遵循 TDD 与最小变更原则",
+   "个人或团队沉淀编码规范为可复用的系统提示词"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "系统提示词",
+   "编码规范",
+   "TDD",
+   "prompt工程",
+   "agent配置"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: Always practice TDD (test-driven development), reproducing bugs before fixing.",
+   "L74: Follow \"Angry Tests\".",
+   "L55: Honor Elegant Objects and SOLID (single, open, Liskov, interface, dependency)."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

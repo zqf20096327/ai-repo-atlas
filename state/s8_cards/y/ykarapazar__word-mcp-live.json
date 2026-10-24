@@ -1,1 +1,79 @@
-{"fn": "ykarapazar/word-mcp-live", "sha": "7b411b958c82", "source": "readme", "identity": {"one_liner": "让 AI 助手直接编辑打开中 Word 文档的 MCP 服务器", "review": "基于 Python 的 MCP 服务器，向支持 MCP 的 AI 客户端（Claude Desktop/Claude Code、Cursor、VS Code/Copilot、Windsurf）暴露 124 个 Word 操作工具：跨平台模式用 python-docx 读写 .docx；Live 模式通过 Windows COM 或 macOS JXA 在文档处于打开状态时实时编辑，支持原生修订（tracked changes）、逐操作撤销、线程化批注、公式与交叉引用等。Docker 模式仅支持跨平台工具。需 Python 3.11+，Live 模式需本机安装 Microsoft Word。", "highlights": ["124 个工具：80 个跨平台（python-docx）+ 44 个 Windows Live（COM）+ 40 个 macOS Live（JXA）", "文档打开状态下实时编辑，无需保存-关闭-重开循环", "原生 tracked changes（署名作者）与逐操作 Ctrl+Z 撤销", "支持 stdio/sse/streamable-http 三种传输方式，可远程部署"], "use_cases": ["让 Claude/Cursor 等 AI 客户端直接代我格式化、修订 Word 文档", "用自然语言起草带修订标记的合同供同事审阅", "批量为保存的 .docx 文件做文档处理（跨平台模式）", "让 AI 在指定段落添加批注提出问题"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://github.com/user-attachments/assets/fbb09af4-1e25-4e49-94d0-45b363278860", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "文档处理", "Office自动化", "AI客户端工具"], "domain": "文档编辑/MCP 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: word-mcp-live gives any AI assistant that supports MCP full control of Microsoft Word. Open a document, tell the AI what", "L62: Add to your `claude_desktop_config.json`:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ykarapazar/word-mcp-live",
+ "sha": "7b411b958c82",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 助手直接编辑打开中 Word 文档的 MCP 服务器",
+  "review": "基于 Python 的 MCP 服务器，向支持 MCP 的 AI 客户端（Claude Desktop/Claude Code、Cursor、VS Code/Copilot、Windsurf）暴露 124 个 Word 操作工具：跨平台模式用 python-docx 读写 .docx；Live 模式通过 Windows COM 或 macOS JXA 在文档处于打开状态时实时编辑，支持原生修订（tracked changes）、逐操作撤销、线程化批注、公式与交叉引用等。Docker 模式仅支持跨平台工具。需 Python 3.11+，Live 模式需本机安装 Microsoft Word。",
+  "highlights": [
+   "124 个工具：80 个跨平台（python-docx）+ 44 个 Windows Live（COM）+ 40 个 macOS Live（JXA）",
+   "文档打开状态下实时编辑，无需保存-关闭-重开循环",
+   "原生 tracked changes（署名作者）与逐操作 Ctrl+Z 撤销",
+   "支持 stdio/sse/streamable-http 三种传输方式，可远程部署"
+  ],
+  "use_cases": [
+   "让 Claude/Cursor 等 AI 客户端直接代我格式化、修订 Word 文档",
+   "用自然语言起草带修订标记的合同供同事审阅",
+   "批量为保存的 .docx 文件做文档处理（跨平台模式）",
+   "让 AI 在指定段落添加批注提出问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/fbb09af4-1e25-4e49-94d0-45b363278860",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "文档处理",
+   "Office自动化",
+   "AI客户端工具"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: word-mcp-live gives any AI assistant that supports MCP full control of Microsoft Word. Open a document, tell the AI what",
+   "L62: Add to your `claude_desktop_config.json`:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

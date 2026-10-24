@@ -1,1 +1,73 @@
-{"fn": "yifanzhang-pro/HLA", "sha": "13c534830f06", "source": "readme", "identity": {"one_liner": "论文项目页：高阶线性注意力机制的论文介绍", "review": "HLA（Higher-order Linear Attention）的研究项目页面，介绍一种因果、流式线性注意力机制：通过紧凑前缀充分统计量实现高阶交互，二阶情形保持常数大小状态、逐 token 线性时间计算；给出闭式流式恒等式、严格因果掩码变体与基于 associative scan 的分块并行训练方案，并概述三阶及以上扩展。README 仅含摘要、作者与引用信息，未提供代码、安装或运行说明，许可为 CC-BY。", "highlights": ["二阶情形常数状态、逐 token 线性时间计算，不构造 n×n 矩阵", "分块并行训练方案基于 associative scan，精确复现串行递归的激活", "给出严格因果掩码变体并概述三阶及以上扩展"], "use_cases": ["了解线性注意力高阶交互的建模方法", "引用该论文用于长上下文注意力机制研究", "追踪 State Space Models 与线性注意力方向的进展"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2510.27258", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["注意力机制", "模型架构", "长上下文", "论文项目页"], "domain": "深度学习/模型架构研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: A causal, streaming linear attention mechanism that realizes higher‑order interactions via compact prefix statistics, wi", "L17: The quadratic cost of scaled dot-product attention is a central obstacle to scaling autoregressive language models to lo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yifanzhang-pro/HLA",
+ "sha": "13c534830f06",
+ "source": "readme",
+ "identity": {
+  "one_liner": "论文项目页：高阶线性注意力机制的论文介绍",
+  "review": "HLA（Higher-order Linear Attention）的研究项目页面，介绍一种因果、流式线性注意力机制：通过紧凑前缀充分统计量实现高阶交互，二阶情形保持常数大小状态、逐 token 线性时间计算；给出闭式流式恒等式、严格因果掩码变体与基于 associative scan 的分块并行训练方案，并概述三阶及以上扩展。README 仅含摘要、作者与引用信息，未提供代码、安装或运行说明，许可为 CC-BY。",
+  "highlights": [
+   "二阶情形常数状态、逐 token 线性时间计算，不构造 n×n 矩阵",
+   "分块并行训练方案基于 associative scan，精确复现串行递归的激活",
+   "给出严格因果掩码变体并概述三阶及以上扩展"
+  ],
+  "use_cases": [
+   "了解线性注意力高阶交互的建模方法",
+   "引用该论文用于长上下文注意力机制研究",
+   "追踪 State Space Models 与线性注意力方向的进展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2510.27258",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "注意力机制",
+   "模型架构",
+   "长上下文",
+   "论文项目页"
+  ],
+  "domain": "深度学习/模型架构研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: A causal, streaming linear attention mechanism that realizes higher‑order interactions via compact prefix statistics, wi",
+   "L17: The quadratic cost of scaled dot-product attention is a central obstacle to scaling autoregressive language models to lo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

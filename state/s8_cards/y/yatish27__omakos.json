@@ -1,1 +1,76 @@
-{"fn": "yatish27/omakos", "sha": "1014c3f07090", "source": "readme", "identity": {"one_liner": "macOS 开发环境一键初始化脚本", "review": "受 Omakub 启发的 shell 脚本，单条命令将新 macOS 笔记本配置为开发环境：通过 Homebrew 与 Brewfile 安装命令行工具（Git/ZSH/fzf 等）、开发环境（Cursor、Neovim、Docker、PostgreSQL、Redis、Ollama、Mise 管理多语言运行时）、生产力应用与字体，并应用开发者导向的系统设置。脚本幂等可重复运行、模块化可单独执行，支持修改 Brewfile 与配置文件自定义。面向 macOS 开发者的新机初始化场景。", "highlights": ["单条 curl 命令完成整套开发环境安装", "所有包通过 Homebrew/Brewfile 统一管理", "脚本幂等，可重复运行，按需安装或跳过", "scripts/ 目录各脚本可独立运行与自定义"], "use_cases": ["新 Mac 到手后一条命令装好开发环境", "只需配置系统设置或 Git 时单独运行对应脚本", "按自己需求改 Brewfile 定制装机清单"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["开发环境配置", "装机脚本", "macOS", "Homebrew", "新机初始化"], "domain": "开发工具/系统配置", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: > Omakos turns your macOS laptop into a fully functional development machine in a single command.", "L74: - Cursor - AI-powered code editor", "L84: - Ollama for local AI models"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yatish27/omakos",
+ "sha": "1014c3f07090",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 开发环境一键初始化脚本",
+  "review": "受 Omakub 启发的 shell 脚本，单条命令将新 macOS 笔记本配置为开发环境：通过 Homebrew 与 Brewfile 安装命令行工具（Git/ZSH/fzf 等）、开发环境（Cursor、Neovim、Docker、PostgreSQL、Redis、Ollama、Mise 管理多语言运行时）、生产力应用与字体，并应用开发者导向的系统设置。脚本幂等可重复运行、模块化可单独执行，支持修改 Brewfile 与配置文件自定义。面向 macOS 开发者的新机初始化场景。",
+  "highlights": [
+   "单条 curl 命令完成整套开发环境安装",
+   "所有包通过 Homebrew/Brewfile 统一管理",
+   "脚本幂等，可重复运行，按需安装或跳过",
+   "scripts/ 目录各脚本可独立运行与自定义"
+  ],
+  "use_cases": [
+   "新 Mac 到手后一条命令装好开发环境",
+   "只需配置系统设置或 Git 时单独运行对应脚本",
+   "按自己需求改 Brewfile 定制装机清单"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发环境配置",
+   "装机脚本",
+   "macOS",
+   "Homebrew",
+   "新机初始化"
+  ],
+  "domain": "开发工具/系统配置",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: > Omakos turns your macOS laptop into a fully functional development machine in a single command.",
+   "L74: - Cursor - AI-powered code editor",
+   "L84: - Ollama for local AI models"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

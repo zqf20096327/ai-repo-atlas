@@ -1,1 +1,76 @@
-{"fn": "yfzhang114/OneNet", "sha": "254a55c1d938", "source": "readme", "identity": {"one_liner": "面向概念漂移的在线时间序列预测模型（NeurIPS 2023 官方实现）", "review": "OneNet 论文的 PyTorch 官方实现，同时包含 Detect-then-Adapt（D3A）框架代码。OneNet 通过在线集成两个分别建模时间维度依赖与跨变量依赖的分支模型，并借助强化学习方法在在线凸规划框架内动态调整组合权重，以应对流数据下的概念漂移。D3A 先监测损失分布漂移、检测后再对模型进行激进适配。支持 ETT/ECL/Traffic/WTH 数据集与多种骨干及训练策略复现实验，依赖固定版本 Python/PyTorch 环境，通过 shell 脚本运行。", "highlights": ["在线集成双分支模型并以强化学习动态调整组合权重", "Detect-then-Adapt 框架：先检测概念漂移再快速适配", "支持 PatchTST/FedFormer/DLinear/Crossformer 等多种骨干与训练策略", "支持 ETT/ECL/Traffic/WHL 等数据集基准复现"], "use_cases": ["复现 NeurIPS 2023 论文的在线时间序列预测实验", "研究流数据概念漂移下的预测模型与适配方法", "比较在线学习训练策略（OGD/经验回放/DER++ 等）"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["时间序列预测", "概念漂移", "在线学习", "论文官方实现"], "domain": "机器学习/时间序列预测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # (NeurIPS 2023) OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling", "L12: Online updating of time series forecasting models aims to address the **concept drifting problem** by efficiently updati"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yfzhang114/OneNet",
+ "sha": "254a55c1d938",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向概念漂移的在线时间序列预测模型（NeurIPS 2023 官方实现）",
+  "review": "OneNet 论文的 PyTorch 官方实现，同时包含 Detect-then-Adapt（D3A）框架代码。OneNet 通过在线集成两个分别建模时间维度依赖与跨变量依赖的分支模型，并借助强化学习方法在在线凸规划框架内动态调整组合权重，以应对流数据下的概念漂移。D3A 先监测损失分布漂移、检测后再对模型进行激进适配。支持 ETT/ECL/Traffic/WTH 数据集与多种骨干及训练策略复现实验，依赖固定版本 Python/PyTorch 环境，通过 shell 脚本运行。",
+  "highlights": [
+   "在线集成双分支模型并以强化学习动态调整组合权重",
+   "Detect-then-Adapt 框架：先检测概念漂移再快速适配",
+   "支持 PatchTST/FedFormer/DLinear/Crossformer 等多种骨干与训练策略",
+   "支持 ETT/ECL/Traffic/WHL 等数据集基准复现"
+  ],
+  "use_cases": [
+   "复现 NeurIPS 2023 论文的在线时间序列预测实验",
+   "研究流数据概念漂移下的预测模型与适配方法",
+   "比较在线学习训练策略（OGD/经验回放/DER++ 等）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列预测",
+   "概念漂移",
+   "在线学习",
+   "论文官方实现"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # (NeurIPS 2023) OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling",
+   "L12: Online updating of time series forecasting models aims to address the **concept drifting problem** by efficiently updati"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

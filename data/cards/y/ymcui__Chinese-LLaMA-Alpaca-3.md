@@ -33,7 +33,7 @@ Chinese-LLaMA-Alpaca 系列第三期项目，开源 Llama-3-Chinese-8B 基座模
 
 ## 场景标签
 
- · 领域:自然语言处理/大语言模型
+`微调` · 领域:训练与推理
 
 ## 证据(README 行号)
 

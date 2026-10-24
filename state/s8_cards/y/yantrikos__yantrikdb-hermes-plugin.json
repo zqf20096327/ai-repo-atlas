@@ -1,1 +1,79 @@
-{"fn": "yantrikos/yantrikdb-hermes-plugin", "sha": "f569157f05a3", "source": "readme", "identity": {"one_liner": "为 Hermes Agent 提供自维护记忆的 YantrikDB 记忆插件", "review": "以 pip 安装的 Hermes Agent 记忆提供者插件：默认 v0.2.0 起为进程内后端，无需单独服务器、token 或 GPU。通过 yantrikdb_recall/remember 等工具实现记忆存储与召回，附带 why_retrieved 召回解释、conflicts() 矛盾追踪与 resolve_conflict()、重复条目规范化、自调排序（reinforce 强化）与主动记忆卫生（yantrikdb_hygiene）。v0.8 起默认开启自导向循环：发现知识空白→排队任务→向 agent 提供议程。另支持所有者隔离、多 agent 舰队、可挂载的签名知识包（knowledge packs）与工具档案控制（core 7 工具约 1.7k tokens）。非 Hermes 用户可经 MCP 服务器或 Python 导入使用同一引擎。", "highlights": ["进程内后端默认：pip 安装即用，无服务器/token/GPU（约 23 MB，无 torch）", "矛盾追踪（conflicts/resolve_conflict）与每次召回附带 why_retrieved 解释", "自导向循环（v0.8 起默认开启）：记忆空白→任务→议程并闭合", "可挂载的签名知识包与 CI 守护的可复现召回基准（recall@k/MRR）"], "use_cases": ["长会话 coding agent 保留约束不因压缩丢失", "多平台 Hermes（Telegram/WhatsApp/Discord）按所有者隔离记忆", "共享 group bot 中让每个用户拥有独立记忆命名空间", "多 agent 部署共享语料或查看舰队记忆状态"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent记忆", "Hermes插件", "知识图谱", "LLM Agent", "MCP"], "domain": "LLM Agent 记忆基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L14: > **YantrikDB as a memory provider for Hermes Agent.** Self-maintaining memory — canonicalizes duplicates, surfaces cont", "L25: hermes memory setup                   # → select \"yantrikdb\"", "L30: Not using Hermes? The same engine ships as an MCP server (yantrikdb-mcp) for Claude Code, Cursor, and other MCP-capable "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yantrikos/yantrikdb-hermes-plugin",
+ "sha": "f569157f05a3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 Hermes Agent 提供自维护记忆的 YantrikDB 记忆插件",
+  "review": "以 pip 安装的 Hermes Agent 记忆提供者插件：默认 v0.2.0 起为进程内后端，无需单独服务器、token 或 GPU。通过 yantrikdb_recall/remember 等工具实现记忆存储与召回，附带 why_retrieved 召回解释、conflicts() 矛盾追踪与 resolve_conflict()、重复条目规范化、自调排序（reinforce 强化）与主动记忆卫生（yantrikdb_hygiene）。v0.8 起默认开启自导向循环：发现知识空白→排队任务→向 agent 提供议程。另支持所有者隔离、多 agent 舰队、可挂载的签名知识包（knowledge packs）与工具档案控制（core 7 工具约 1.7k tokens）。非 Hermes 用户可经 MCP 服务器或 Python 导入使用同一引擎。",
+  "highlights": [
+   "进程内后端默认：pip 安装即用，无服务器/token/GPU（约 23 MB，无 torch）",
+   "矛盾追踪（conflicts/resolve_conflict）与每次召回附带 why_retrieved 解释",
+   "自导向循环（v0.8 起默认开启）：记忆空白→任务→议程并闭合",
+   "可挂载的签名知识包与 CI 守护的可复现召回基准（recall@k/MRR）"
+  ],
+  "use_cases": [
+   "长会话 coding agent 保留约束不因压缩丢失",
+   "多平台 Hermes（Telegram/WhatsApp/Discord）按所有者隔离记忆",
+   "共享 group bot 中让每个用户拥有独立记忆命名空间",
+   "多 agent 部署共享语料或查看舰队记忆状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "Hermes插件",
+   "知识图谱",
+   "LLM Agent",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: > **YantrikDB as a memory provider for Hermes Agent.** Self-maintaining memory — canonicalizes duplicates, surfaces cont",
+   "L25: hermes memory setup                   # → select \"yantrikdb\"",
+   "L30: Not using Hermes? The same engine ships as an MCP server (yantrikdb-mcp) for Claude Code, Cursor, and other MCP-capable "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

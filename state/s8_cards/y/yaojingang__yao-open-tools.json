@@ -1,1 +1,83 @@
-{"fn": "yaojingang/yao-open-tools", "sha": "f4e5a3fa7974", "source": "readme", "identity": {"one_liner": "开发者小工具集合：本地优先的 AI 用量统计、截图、翻译、转写与诊断", "review": "面向开发者的开源工具箱，含 11 个可独立安装的小工具：TokKit 统计 Codex、Claude Code、Cursor 等多种 AI 编码工具的 token 与成本（写入本地 SQLite，区分 exact/partial/estimated 精度）；tokscr/toktra 为 Chrome MV3 扩展，分别做网页截图与英译中辅助阅读；TokDoc/TokURL/TokChat 为可自托管 Web 应用；vidbrief 做视频转写与 AI 报告；mem 与 Scai 做本机内存和磁盘诊断。默认本地优先，不依赖远程服务，整体 MIT 许可。各工具安装方式互不相同（pip/npm/Docker/源码）。", "highlights": ["TokKit 从本地日志统计多 AI 编码工具的 token、成本与客户端覆盖率", "tokscr 本地完成截图拼接裁剪，不上传服务器；toktra 支持本地缓存译文与 PDF 双栏阅读", "多个 Web 工具提供 Docker Compose 自托管部署", "mem/Scai 提供本机内存与磁盘空间的诊断和清理建议"], "use_cases": ["统计多个 AI 编码工具的 token 和成本花在哪里", "长网页截图留档或英文网页/PDF 辅助阅读", "自托管短链接、文档管理和 AI 对话应用", "视频转写整理或本机内存、磁盘问题排查"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["开发者工具集", "token/成本统计", "浏览器扩展", "自托管", "系统诊断"], "domain": "开发者工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "英译中阅读插件（toktra）"]}, "trust": {"confidence": "mid", "evidence": ["L28: |TokKit|Python CLI|`tok` / `tokkit`|AI 编码工具使用量台账，统计 token、成本、模型、终端、客户端和来源覆盖率。|", "L36: |vidbrief|Python CLI/TUI|`vb`|视频下载、字幕或音频转写、Transcript 整理和 AI 报告生成。|", "L223: 它适合在 Mac 或 Linux 机器出现卡顿、内存压力、进程异常占用时快速定位问题。工具会聚合软件级别的资源占用，并提供下一步引导，例如 AI 建议、优化指令和持续观察。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yaojingang/yao-open-tools",
+ "sha": "f4e5a3fa7974",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开发者小工具集合：本地优先的 AI 用量统计、截图、翻译、转写与诊断",
+  "review": "面向开发者的开源工具箱，含 11 个可独立安装的小工具：TokKit 统计 Codex、Claude Code、Cursor 等多种 AI 编码工具的 token 与成本（写入本地 SQLite，区分 exact/partial/estimated 精度）；tokscr/toktra 为 Chrome MV3 扩展，分别做网页截图与英译中辅助阅读；TokDoc/TokURL/TokChat 为可自托管 Web 应用；vidbrief 做视频转写与 AI 报告；mem 与 Scai 做本机内存和磁盘诊断。默认本地优先，不依赖远程服务，整体 MIT 许可。各工具安装方式互不相同（pip/npm/Docker/源码）。",
+  "highlights": [
+   "TokKit 从本地日志统计多 AI 编码工具的 token、成本与客户端覆盖率",
+   "tokscr 本地完成截图拼接裁剪，不上传服务器；toktra 支持本地缓存译文与 PDF 双栏阅读",
+   "多个 Web 工具提供 Docker Compose 自托管部署",
+   "mem/Scai 提供本机内存与磁盘空间的诊断和清理建议"
+  ],
+  "use_cases": [
+   "统计多个 AI 编码工具的 token 和成本花在哪里",
+   "长网页截图留档或英文网页/PDF 辅助阅读",
+   "自托管短链接、文档管理和 AI 对话应用",
+   "视频转写整理或本机内存、磁盘问题排查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者工具集",
+   "token/成本统计",
+   "浏览器扩展",
+   "自托管",
+   "系统诊断"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr",
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "英译中阅读插件（toktra）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L28: |TokKit|Python CLI|`tok` / `tokkit`|AI 编码工具使用量台账，统计 token、成本、模型、终端、客户端和来源覆盖率。|",
+   "L36: |vidbrief|Python CLI/TUI|`vb`|视频下载、字幕或音频转写、Transcript 整理和 AI 报告生成。|",
+   "L223: 它适合在 Mac 或 Linux 机器出现卡顿、内存压力、进程异常占用时快速定位问题。工具会聚合软件级别的资源占用，并提供下一步引导，例如 AI 建议、优化指令和持续观察。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

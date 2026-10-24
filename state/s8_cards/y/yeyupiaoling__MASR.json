@@ -1,1 +1,83 @@
-{"fn": "yeyupiaoling/MASR", "sha": "4f549aa393a9", "source": "readme", "identity": {"one_liner": "PyTorch 语音识别框架：流式/非流式 ASR 训练与部署", "review": "基于 PyTorch 的自动语音识别框架（V3），支持 Conformer、Squeezeformer、DeepSpeech2、Efficient Conformer 等模型，每个模型可通过配置切换流式/非流式识别。提供 CTC 贪心、前缀束搜索、注意力重打分等多种解码器，以及 fbank/mfcc 预处理和噪声、混响、语速等多种数据增强。可部署在服务器与 Nvidia Jetson 设备，未来计划支持 Android。预训练模型（WenetSpeech/AIShell/Librispeech/粤语/中英混合/维吾尔语等）通过作者知识星球获取；提供文档教程覆盖安装、训练、评估、导出、Web 部署与 GUI 预测。", "highlights": ["多模型支持（Conformer/Squeezeformer/DeepSpeech2/Efficient Conformer），流式与非流式可配置切换", "多种解码器（ctc_greedy_search/ctc_prefix_beam_search/attention_rescoring/ctc_beam_search）", "多种数据增强（噪声/混响/语速/SpecAugmentor 等）与说话人分离推理", "V3 使用 kaldi_native_fbank 预处理与 sentencepiece 制作 token，支持中英文混合训练"], "use_cases": ["训练或微调中英文、粤语、维吾尔语等语音识别模型", "在服务器或 Jetson 设备上部署流式/非流式 ASR 服务", "对长音频、短音频做识别并使用标点符号模型后处理"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "在线试用（网页版/微信小程序，README 未给出直链）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ASR", "语音识别", "PyTorch", "流式识别", "中文语音"], "domain": "语音识别/深度学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "WenetSpeech/AIShell 中文数据集预训练模型", "知识星球与 QQ 群分发模型", "粤语（含港式粤语）模型"]}, "trust": {"confidence": "high", "evidence": ["L9: MASR是一款基于Pytorch实现的自动语音识别框架，MASR全称是神奇的自动语音识别框架（Magical Automatic Speech Recognition），当前为V3版本，与V2版本不兼容，如果想使用V2版本，请在这个分支V2", "L31: 1. 支持多个语音识别模型，包含`deepspeech2`、`conformer`、`squeezeformer`、`efficient_conformer`等，每个模型都支持流式识别和非流式识别，在配置文件中`streaming`参数设置"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yeyupiaoling/MASR",
+ "sha": "4f549aa393a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 语音识别框架：流式/非流式 ASR 训练与部署",
+  "review": "基于 PyTorch 的自动语音识别框架（V3），支持 Conformer、Squeezeformer、DeepSpeech2、Efficient Conformer 等模型，每个模型可通过配置切换流式/非流式识别。提供 CTC 贪心、前缀束搜索、注意力重打分等多种解码器，以及 fbank/mfcc 预处理和噪声、混响、语速等多种数据增强。可部署在服务器与 Nvidia Jetson 设备，未来计划支持 Android。预训练模型（WenetSpeech/AIShell/Librispeech/粤语/中英混合/维吾尔语等）通过作者知识星球获取；提供文档教程覆盖安装、训练、评估、导出、Web 部署与 GUI 预测。",
+  "highlights": [
+   "多模型支持（Conformer/Squeezeformer/DeepSpeech2/Efficient Conformer），流式与非流式可配置切换",
+   "多种解码器（ctc_greedy_search/ctc_prefix_beam_search/attention_rescoring/ctc_beam_search）",
+   "多种数据增强（噪声/混响/语速/SpecAugmentor 等）与说话人分离推理",
+   "V3 使用 kaldi_native_fbank 预处理与 sentencepiece 制作 token，支持中英文混合训练"
+  ],
+  "use_cases": [
+   "训练或微调中英文、粤语、维吾尔语等语音识别模型",
+   "在服务器或 Jetson 设备上部署流式/非流式 ASR 服务",
+   "对长音频、短音频做识别并使用标点符号模型后处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "在线试用（网页版/微信小程序，README 未给出直链）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ASR",
+   "语音识别",
+   "PyTorch",
+   "流式识别",
+   "中文语音"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "WenetSpeech/AIShell 中文数据集预训练模型",
+   "知识星球与 QQ 群分发模型",
+   "粤语（含港式粤语）模型"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: MASR是一款基于Pytorch实现的自动语音识别框架，MASR全称是神奇的自动语音识别框架（Magical Automatic Speech Recognition），当前为V3版本，与V2版本不兼容，如果想使用V2版本，请在这个分支V2",
+   "L31: 1. 支持多个语音识别模型，包含`deepspeech2`、`conformer`、`squeezeformer`、`efficient_conformer`等，每个模型都支持流式识别和非流式识别，在配置文件中`streaming`参数设置"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

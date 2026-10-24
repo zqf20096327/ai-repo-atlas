@@ -1,1 +1,80 @@
-{"fn": "yorkeccak/bio", "sha": "5264c304340f", "source": "readme", "identity": {"one_liner": "生物医药深度研究助手：对话式生成带引用的调研报告", "review": "基于 Next.js 的生物医学研究 Web 应用：用户选择生命科学工作流（竞争格局、临床读出、监管先例、BD 扫描），填写变量后由 Valyu DeepResearch 检索 PubMed、ClinicalTrials.gov、FDA 药品标签、专利与开放网络，生成带内联引用的报告、结构化交付物与 PDF 导出。支持三种研究深度模式、实时活动流与报告历史。自托管模式用本地 SQLite、免登录、无速率限制，需自备 Valyu API key；可选检测本机 Ollama/LM Studio 作为本地模型服务。", "highlights": ["预置生命科学工作流（Pipeline/临床/监管/BD 四类视角）生成带内联引用的报告", "经 Valyu 统一 API 检索 PubMed、ClinicalTrials.gov、FDA 药品标签、专利等数据源", "fast/standard/heavy 三种研究模式，附实时活动流与报告历史", "自托管模式：本地 SQLite、免认证、无速率限制"], "use_cases": ["调研某靶点类别的竞争格局与管线资产", "汇总某适应症的临床试验与读出分析", "梳理监管审批路径与先例", "自助托管并私有保存研究数据"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["生物医学研究", "深度研究/报告生成", "文献检索", "药物研发情报", "自托管Web应用"], "domain": "生物医学/生命科学研究工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L12: > **Enterprise-grade biomedical deep research** - Pick a life sciences workflow, fill in a few variables, and get back a", "L21: - **Comprehensive biomedical data** - PubMed articles, ClinicalTrials.gov records, FDA drug labels, patents, and more th"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yorkeccak/bio",
+ "sha": "5264c304340f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "生物医药深度研究助手：对话式生成带引用的调研报告",
+  "review": "基于 Next.js 的生物医学研究 Web 应用：用户选择生命科学工作流（竞争格局、临床读出、监管先例、BD 扫描），填写变量后由 Valyu DeepResearch 检索 PubMed、ClinicalTrials.gov、FDA 药品标签、专利与开放网络，生成带内联引用的报告、结构化交付物与 PDF 导出。支持三种研究深度模式、实时活动流与报告历史。自托管模式用本地 SQLite、免登录、无速率限制，需自备 Valyu API key；可选检测本机 Ollama/LM Studio 作为本地模型服务。",
+  "highlights": [
+   "预置生命科学工作流（Pipeline/临床/监管/BD 四类视角）生成带内联引用的报告",
+   "经 Valyu 统一 API 检索 PubMed、ClinicalTrials.gov、FDA 药品标签、专利等数据源",
+   "fast/standard/heavy 三种研究模式，附实时活动流与报告历史",
+   "自托管模式：本地 SQLite、免认证、无速率限制"
+  ],
+  "use_cases": [
+   "调研某靶点类别的竞争格局与管线资产",
+   "汇总某适应症的临床试验与读出分析",
+   "梳理监管审批路径与先例",
+   "自助托管并私有保存研究数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "生物医学研究",
+   "深度研究/报告生成",
+   "文献检索",
+   "药物研发情报",
+   "自托管Web应用"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: > **Enterprise-grade biomedical deep research** - Pick a life sciences workflow, fill in a few variables, and get back a",
+   "L21: - **Comprehensive biomedical data** - PubMed articles, ClinicalTrials.gov records, FDA drug labels, patents, and more th"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

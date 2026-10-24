@@ -1,1 +1,80 @@
-{"fn": "yeasy/ai_beginner_guide", "sha": "8728b241c974", "source": "readme", "identity": {"one_liner": "面向零基础读者的 AI 入门书籍（16 章，含实验与学习路线）", "review": "一本 CC BY-NC-SA 4.0 许可的中文 AI 入门图书，主体 16 章分四部分：基础概念、核心技术解析、主流工具与提示词实战、智能体与安全伦理展望。设 A/B 双轨学习路线：A 轨面向无编程基础的使用者，B 轨要求 Python 3.11+ 与命令行，可在不使用在线 API 的情况下完成 labs/ 目录中的五个实验。支持 GitBook 在线阅读与 GitHub Releases 下载 PDF，本地预览需安装 mdPress。", "highlights": ["16 章四部分结构，覆盖概念、原理、工具实战与前沿", "A/B 双轨学习路线，含可交付物与验收标准", "B 轨五个实验可离线完成（不依赖在线 API 与密钥）", "按角色（文科生/职场人士/管理者等）给出差异化章节路线与时数建议"], "use_cases": ["零基础读者系统学习 AI 概念与工具使用", "职场人士快速掌握提示词工程提升工作效率", "有编程基础者通过五个实验理解技术原理"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程/图书", "AI入门", "提示词工程", "学习路径"], "domain": "AI 教育/科普", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README 与中文图书", "作者 yeasy（《Docker——从入门到实践》作者）"]}, "trust": {"confidence": "high", "evidence": ["L9: > 普通人看的 AI 入门。从零开始，掌握人工智能的核心知识与实践技能", "L19: 这本书试图用最朴素的语言回答这些问题。它面向完全零基础的读者，从 AI 的基本概念出发，逐步走向核心技术原理，最后落到实际应用技能。无论你是好奇 AI 世界的普通用户，还是希望将 AI 技术应用于工作的职场人士，都能在这里找到一条清晰的学习", "L116: 本书主体内容共分为四个部分："], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yeasy/ai_beginner_guide",
+ "sha": "8728b241c974",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向零基础读者的 AI 入门书籍（16 章，含实验与学习路线）",
+  "review": "一本 CC BY-NC-SA 4.0 许可的中文 AI 入门图书，主体 16 章分四部分：基础概念、核心技术解析、主流工具与提示词实战、智能体与安全伦理展望。设 A/B 双轨学习路线：A 轨面向无编程基础的使用者，B 轨要求 Python 3.11+ 与命令行，可在不使用在线 API 的情况下完成 labs/ 目录中的五个实验。支持 GitBook 在线阅读与 GitHub Releases 下载 PDF，本地预览需安装 mdPress。",
+  "highlights": [
+   "16 章四部分结构，覆盖概念、原理、工具实战与前沿",
+   "A/B 双轨学习路线，含可交付物与验收标准",
+   "B 轨五个实验可离线完成（不依赖在线 API 与密钥）",
+   "按角色（文科生/职场人士/管理者等）给出差异化章节路线与时数建议"
+  ],
+  "use_cases": [
+   "零基础读者系统学习 AI 概念与工具使用",
+   "职场人士快速掌握提示词工程提升工作效率",
+   "有编程基础者通过五个实验理解技术原理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/图书",
+   "AI入门",
+   "提示词工程",
+   "学习路径"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与中文图书",
+   "作者 yeasy（《Docker——从入门到实践》作者）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: > 普通人看的 AI 入门。从零开始，掌握人工智能的核心知识与实践技能",
+   "L19: 这本书试图用最朴素的语言回答这些问题。它面向完全零基础的读者，从 AI 的基本概念出发，逐步走向核心技术原理，最后落到实际应用技能。无论你是好奇 AI 世界的普通用户，还是希望将 AI 技术应用于工作的职场人士，都能在这里找到一条清晰的学习",
+   "L116: 本书主体内容共分为四个部分："
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

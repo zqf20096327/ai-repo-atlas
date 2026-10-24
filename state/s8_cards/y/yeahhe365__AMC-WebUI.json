@@ -1,1 +1,83 @@
-{"fn": "yeahhe365/AMC-WebUI", "sha": "d8ea94f21a4a", "source": "readme", "identity": {"one_liner": "主打 Gemini 原生能力的 Local-First 多模态聊天 WebUI", "review": "基于 React 18 + Vite 的单页应用，面向自带 API Key 的个人用户，提供多模态聊天、思维链可视化、Live API 实时音视频、文件处理、深度搜索、Pyodide 本地 Python 沙箱、TTS/语音转录与图片生成等 Gemini 专属能力，另附 OpenAI 兼容标准聊天模式（独立 Key/Base URL/模型列表）。聊天数据默认存浏览器 IndexedDB，支持 Vite 本地开发、Docker 双容器部署与 Pages 静态部署三种形态。限制：web+api 代理定位为可信自托管环境，公网开放需自行加鉴权与限流。", "highlights": ["Gemini 原生模式覆盖 Thinking、Live API、Deep Search、代码执行与图片生成", "OpenAI 兼容模式支持独立 Key、Base URL、模型列表与多 Key 轮询", "聊天数据本地存 IndexedDB，支持 MCP 三种传输协议与人在回路授权", "提供 Vite 开发、Docker Compose 与 Cloudflare Pages + 独立 API 三种部署方式"], "use_cases": ["用 Gemini API Key 自建多模态聊天界面并本地保存聊天记录", "通过 OpenAI 兼容接口接入 DeepSeek、OpenRouter 等第三方模型聊天", "在浏览器内做带实时音视频与本地 Python 沙箱的 AI 对话"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://all-model-chat.pages.dev/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["聊天 WebUI", "Gemini", "Local-First", "自托管", "多模态"], "domain": "AI 应用/聊天界面", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "维护者 yeahhe365（中文社区开发者）"]}, "trust": {"confidence": "mid", "evidence": ["L33: **AMC WebUI** 是一款基于 React 18 的 All-in-one Model Console WebUI，主打 Google Gemini 原生能力，并提供额外的 **OpenAI 兼容标准聊天模式**。项目坚持 **Lo", "L49: - 项目的主能力路径，适用于 Thinking、Live API、Gemini Files API、Deep Search、Google Search、代码执行、图片生成等 Gemini 专属能力"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yeahhe365/AMC-WebUI",
+ "sha": "d8ea94f21a4a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "主打 Gemini 原生能力的 Local-First 多模态聊天 WebUI",
+  "review": "基于 React 18 + Vite 的单页应用，面向自带 API Key 的个人用户，提供多模态聊天、思维链可视化、Live API 实时音视频、文件处理、深度搜索、Pyodide 本地 Python 沙箱、TTS/语音转录与图片生成等 Gemini 专属能力，另附 OpenAI 兼容标准聊天模式（独立 Key/Base URL/模型列表）。聊天数据默认存浏览器 IndexedDB，支持 Vite 本地开发、Docker 双容器部署与 Pages 静态部署三种形态。限制：web+api 代理定位为可信自托管环境，公网开放需自行加鉴权与限流。",
+  "highlights": [
+   "Gemini 原生模式覆盖 Thinking、Live API、Deep Search、代码执行与图片生成",
+   "OpenAI 兼容模式支持独立 Key、Base URL、模型列表与多 Key 轮询",
+   "聊天数据本地存 IndexedDB，支持 MCP 三种传输协议与人在回路授权",
+   "提供 Vite 开发、Docker Compose 与 Cloudflare Pages + 独立 API 三种部署方式"
+  ],
+  "use_cases": [
+   "用 Gemini API Key 自建多模态聊天界面并本地保存聊天记录",
+   "通过 OpenAI 兼容接口接入 DeepSeek、OpenRouter 等第三方模型聊天",
+   "在浏览器内做带实时音视频与本地 Python 沙箱的 AI 对话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://all-model-chat.pages.dev/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天 WebUI",
+   "Gemini",
+   "Local-First",
+   "自托管",
+   "多模态"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "image-generation",
+   "tts",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "维护者 yeahhe365（中文社区开发者）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L33: **AMC WebUI** 是一款基于 React 18 的 All-in-one Model Console WebUI，主打 Google Gemini 原生能力，并提供额外的 **OpenAI 兼容标准聊天模式**。项目坚持 **Lo",
+   "L49: - 项目的主能力路径，适用于 Thinking、Live API、Gemini Files API、Deep Search、Google Search、代码执行、图片生成等 Gemini 专属能力"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

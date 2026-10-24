@@ -1,1 +1,74 @@
-{"fn": "yromano/cqr", "sha": "f45d8d2c8f38", "source": "readme", "identity": {"one_liner": "Python 实现的保形化分位数回归预测区间构建库", "review": "实现 Conformalized Quantile Regression（CQR）方法的 Python 包：结合分位数回归与保形预测，构建有限样本下分布无关的预测区间，可包裹任意分位数回归算法（随机森林、深度神经网络）。同时实现 Equalized Coverage 框架，在各受保护群体间强制相等的区间覆盖率。面向需要不确定性量化的预测建模研究场景，通过 git clone 源码运行，提供 Jupyter notebook 示例与论文实验复现代码及多个公开数据集。", "highlights": ["CQR：有限样本、分布无关的预测区间，包裹任意分位数回归算法", "Equalized Coverage：各受保护群体间覆盖率相等的区间构建", "提供论文 [1][2] 实验复现代码与多个公开数据集（Blog/Bike/MEPS 等）"], "use_cases": ["为回归预测结果构造带覆盖率保证的预测区间", "检测预测在不同群体间的偏差并构建公平的区间", "复现保形预测相关论文实验"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["保形预测", "不确定性量化", "预测区间", "算法公平性", "机器学习方法库"], "domain": "机器学习/统计推断", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: This package contains a Python implementation of Conformalized quantile regression (CQR) [1] methodology for constructin", "L9: CQR is a technique for constructing prediction intervals that attain valid coverage in finite samples, without making di"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yromano/cqr",
+ "sha": "f45d8d2c8f38",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 实现的保形化分位数回归预测区间构建库",
+  "review": "实现 Conformalized Quantile Regression（CQR）方法的 Python 包：结合分位数回归与保形预测，构建有限样本下分布无关的预测区间，可包裹任意分位数回归算法（随机森林、深度神经网络）。同时实现 Equalized Coverage 框架，在各受保护群体间强制相等的区间覆盖率。面向需要不确定性量化的预测建模研究场景，通过 git clone 源码运行，提供 Jupyter notebook 示例与论文实验复现代码及多个公开数据集。",
+  "highlights": [
+   "CQR：有限样本、分布无关的预测区间，包裹任意分位数回归算法",
+   "Equalized Coverage：各受保护群体间覆盖率相等的区间构建",
+   "提供论文 [1][2] 实验复现代码与多个公开数据集（Blog/Bike/MEPS 等）"
+  ],
+  "use_cases": [
+   "为回归预测结果构造带覆盖率保证的预测区间",
+   "检测预测在不同群体间的偏差并构建公平的区间",
+   "复现保形预测相关论文实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "保形预测",
+   "不确定性量化",
+   "预测区间",
+   "算法公平性",
+   "机器学习方法库"
+  ],
+  "domain": "机器学习/统计推断",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This package contains a Python implementation of Conformalized quantile regression (CQR) [1] methodology for constructin",
+   "L9: CQR is a technique for constructing prediction intervals that attain valid coverage in finite samples, without making di"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ OneNet 论文的 PyTorch 官方实现，同时包含 Detect-then-Adapt（D3A）�
 
 ## 场景标签
 
- · 领域:机器学习/时间序列预测
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

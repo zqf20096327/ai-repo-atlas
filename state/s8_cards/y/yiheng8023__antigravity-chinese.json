@@ -1,1 +1,78 @@
-{"fn": "yiheng8023/antigravity-chinese", "sha": "a637f5070f36", "source": "readme", "identity": {"one_liner": "Google Antigravity 全生态客户端与扩展的中文本地化套件", "review": "为 Google Antigravity 桌面客户端 2.0、VS Code 官方扩展、独立 IDE 与插件/技能生态提供可逆式中文化：通过 Electron ASAR 注入、CDP 免解包热挂载、IPC 菜单拦截与 Webview 本地反向代理实现界面汉化，CLI 保持原生英文。内置双重备份、原子回滚、防降级熔断与官方中文让位机制。要求 Node.js ≥18 与已安装的 Antigravity 组件，安装器按弹性探测只对已装部分注入。提供 Windows/macOS/Linux 安装脚本与 CLI 管理器。", "highlights": ["ASAR 深度注入 + CDP 免解包热挂载双模式汉化桌面客户端", "VS Code 扩展 Webview 本地反向代理实现设置面板与聊天界面汉化", "双重备份、两阶段原子回滚与版本防降级熔断", "390+ 项自动化回归测试与跨平台 CI 矩阵"], "use_cases": ["把 Antigravity 桌面客户端与 VS Code 扩展界面切换为中文", "在上游版本更新后自动检测词典漂移并回滚/重注入", "需要还原官方英文原版时一键无损卸载"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["汉化/本地化", "Electron 补丁", "AI IDE 工具", "开发者工具"], "domain": "开发工具/本地化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "产品本身为中文本地化套件"]}, "trust": {"confidence": "low", "evidence": ["L14: 专为 **Google Antigravity** 全生态（桌面客户端 2.0、独立 IDE 与第三方 IDE 扩展、CLI 命令行工具）打造的高性能、可逆式中文本地化套件与生命周期管理器（当前版本 **v3.3.24**，全面深度适配 A", "L20: |🖥️ **桌面客户端 (Desktop App 2.0)**|独立 Electron 客户端，包含全局看板、白板与 Aux Pane|ASAR 深度注入 / CDP 免解包热挂载 + IPC 上下文菜单拦截|🟢 **100% 满血就绪**", "L31: - 🧩 **VS Code 官方扩展全景汉化与 Webview 深度注入闭环 (VS Code Extension Full Localization & Webview Proxy)**："], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yiheng8023/antigravity-chinese",
+ "sha": "a637f5070f36",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Google Antigravity 全生态客户端与扩展的中文本地化套件",
+  "review": "为 Google Antigravity 桌面客户端 2.0、VS Code 官方扩展、独立 IDE 与插件/技能生态提供可逆式中文化：通过 Electron ASAR 注入、CDP 免解包热挂载、IPC 菜单拦截与 Webview 本地反向代理实现界面汉化，CLI 保持原生英文。内置双重备份、原子回滚、防降级熔断与官方中文让位机制。要求 Node.js ≥18 与已安装的 Antigravity 组件，安装器按弹性探测只对已装部分注入。提供 Windows/macOS/Linux 安装脚本与 CLI 管理器。",
+  "highlights": [
+   "ASAR 深度注入 + CDP 免解包热挂载双模式汉化桌面客户端",
+   "VS Code 扩展 Webview 本地反向代理实现设置面板与聊天界面汉化",
+   "双重备份、两阶段原子回滚与版本防降级熔断",
+   "390+ 项自动化回归测试与跨平台 CI 矩阵"
+  ],
+  "use_cases": [
+   "把 Antigravity 桌面客户端与 VS Code 扩展界面切换为中文",
+   "在上游版本更新后自动检测词典漂移并回滚/重注入",
+   "需要还原官方英文原版时一键无损卸载"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "汉化/本地化",
+   "Electron 补丁",
+   "AI IDE 工具",
+   "开发者工具"
+  ],
+  "domain": "开发工具/本地化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "产品本身为中文本地化套件"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L14: 专为 **Google Antigravity** 全生态（桌面客户端 2.0、独立 IDE 与第三方 IDE 扩展、CLI 命令行工具）打造的高性能、可逆式中文本地化套件与生命周期管理器（当前版本 **v3.3.24**，全面深度适配 A",
+   "L20: |🖥️ **桌面客户端 (Desktop App 2.0)**|独立 Electron 客户端，包含全局看板、白板与 Aux Pane|ASAR 深度注入 / CDP 免解包热挂载 + IPC 上下文菜单拦截|🟢 **100% 满血就绪**",
+   "L31: - 🧩 **VS Code 官方扩展全景汉化与 Webview 深度注入闭环 (VS Code Extension Full Localization & Webview Proxy)**："
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,85 @@
-{"fn": "yeahhe365/Gemini-Nexus", "sha": "8f77b88b8e4d", "source": "readme", "identity": {"one_liner": "浏览器 AI 助手扩展：多模型对话与浏览器自动化控制", "review": "Chrome 扩展（Manifest V3、TypeScript/Vite），把 Gemini Web（逆向 RPC 接入）、Gemini API、OpenAI 兼容接口及 DeepSeek、OpenRouter、Qwen/DashScope、Anthropic、智谱等 provider 汇集在侧边栏，支持网页上下文、图像/截图/OCR 输入、划词工具栏。内置基于 Chrome DevTools Protocol 与 Accessibility Tree 的浏览器控制工具循环，可接入 SSE/HTTP/WebSocket 的外部 MCP 服务器（stdio 需本地代理）。README 明确披露 Gemini Web 逆向与去水印可能违反 Google ToS。面向普通用户，通过 Releases 加载或 npm 打包构建。", "highlights": ["9 类 provider 可切换（含无需 API Key 的 Gemini Web 逆向通道）", "基于 Chrome DevTools Protocol 的 agent 式浏览器控制（导航/点击/表单/脚本执行）", "外部 MCP 工具接入（SSE/streamable HTTP/WebSocket，stdio 需本地代理）", "图像/截图 OCR、划词翻译摘要、Markdown/LaTeX 沙箱渲染"], "use_cases": ["在浏览器侧边栏直接与多家模型对话并处理网页内容", "让 AI 通过浏览器控制工具自动完成网页操作任务", "划词翻译/摘要/解释与截图翻译", "为扩展接入本地 MCP 工具服务器扩展能力"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["浏览器扩展", "AI助手", "浏览器自动化", "MCP", "多模型接入"], "domain": "浏览器/AI 助手工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "openrouter", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["提供中文 README（L1、L19）"]}, "trust": {"confidence": "high", "evidence": ["L23: **Gemini Nexus** gives your browser a native AI layer by combining Gemini Web, the Google Gemini API, OpenAI-compatible ", "L39: - Switch among **Gemini Web**, **Gemini API**, **OpenAI Compatible API**, **OpenAI Official API**, **DeepSeek API**, **O"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yeahhe365/Gemini-Nexus",
+ "sha": "8f77b88b8e4d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器 AI 助手扩展：多模型对话与浏览器自动化控制",
+  "review": "Chrome 扩展（Manifest V3、TypeScript/Vite），把 Gemini Web（逆向 RPC 接入）、Gemini API、OpenAI 兼容接口及 DeepSeek、OpenRouter、Qwen/DashScope、Anthropic、智谱等 provider 汇集在侧边栏，支持网页上下文、图像/截图/OCR 输入、划词工具栏。内置基于 Chrome DevTools Protocol 与 Accessibility Tree 的浏览器控制工具循环，可接入 SSE/HTTP/WebSocket 的外部 MCP 服务器（stdio 需本地代理）。README 明确披露 Gemini Web 逆向与去水印可能违反 Google ToS。面向普通用户，通过 Releases 加载或 npm 打包构建。",
+  "highlights": [
+   "9 类 provider 可切换（含无需 API Key 的 Gemini Web 逆向通道）",
+   "基于 Chrome DevTools Protocol 的 agent 式浏览器控制（导航/点击/表单/脚本执行）",
+   "外部 MCP 工具接入（SSE/streamable HTTP/WebSocket，stdio 需本地代理）",
+   "图像/截图 OCR、划词翻译摘要、Markdown/LaTeX 沙箱渲染"
+  ],
+  "use_cases": [
+   "在浏览器侧边栏直接与多家模型对话并处理网页内容",
+   "让 AI 通过浏览器控制工具自动完成网页操作任务",
+   "划词翻译/摘要/解释与截图翻译",
+   "为扩展接入本地 MCP 工具服务器扩展能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "AI助手",
+   "浏览器自动化",
+   "MCP",
+   "多模型接入"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openrouter",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文 README（L1、L19）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: **Gemini Nexus** gives your browser a native AI layer by combining Gemini Web, the Google Gemini API, OpenAI-compatible ",
+   "L39: - Switch among **Gemini Web**, **Gemini API**, **OpenAI Compatible API**, **OpenAI Official API**, **DeepSeek API**, **O"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

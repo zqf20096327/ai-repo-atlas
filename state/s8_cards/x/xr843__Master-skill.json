@@ -1,1 +1,87 @@
-{"fn": "xr843/Master-skill", "sha": "845fd07706e2", "source": "readme", "identity": {"one_liner": "佛教 AI 祖师人格框架：16 位祖师对话，回答附原典出处", "review": "由 FoJin 平台驱动的佛教 AI 祖师人格框架，预置印度/汉传/藏传/南传四大传统 16 位祖师及 4 个教学模式（多祖师对比、辩论、学修路径）。每位祖师声明 CBETA/BDRC/Toh/SuttaCentral/PTS 等来源 ID，教义断言强制附原典引证并有离线引文审计；240 条保真度夹具做关键词与引用覆盖检查。普通用户可经 fojin.app/chat 浏览器对话，开发者可经 npx 以 AgentSkills 形式装入 Claude Code、Cursor、Codex CLI、OpenCode、Gemini CLI。评测显示 v1.0 门禁尚未达标。", "highlights": ["16 位四大传统祖师人格 + 4 个教学模式（对比/辩论/学修路径）", "教义断言强制附原典出处，附离线引文审计与 240 条保真度夹具", "接入 FoJin 的 10K+ 文本、678K+ 语义向量与 110K+ 实体知识图谱", "npx 一键安装到 Claude Code / Cursor / Codex CLI / OpenCode / Gemini CLI 五端"], "use_cases": ["以某位祖师的视角提问佛学问题并获得带经号出处的回答", "跨汉传/藏传/南传比较多位祖师对同一问题的回答", "按传统获取学修路径或让 AI 推荐该问哪位祖师"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://fojin.app/chat", "self_declared_early": {"flag": true, "lines": [131, 133], "note": "自述 v1.0 门禁尚未达标、教理通过率低于门禁"}}, "links": {"scenario_tags": ["AI人格/角色", "佛教/数字人文", "RAG溯源", "agent技能", "文化传承"], "domain": "宗教/数字人文（佛教 AI 应用）", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "以中文佛典（CBETA）为主要来源体系", "中国大陆心理危机热线 12356"]}, "trust": {"confidence": "high", "evidence": ["L20:  FoJin 驱动的佛教 AI 祖师人格框架", "L81: Master-skill 是由 FoJin 驱动的佛教 AI 祖师人格框架：以真实原典为来源，以伦理边界为约束，以保真度评测为质量门槛，并以 AgentSkills 运行协议交付给 Claude Code、Cursor、Codex CLI、"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xr843/Master-skill",
+ "sha": "845fd07706e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "佛教 AI 祖师人格框架：16 位祖师对话，回答附原典出处",
+  "review": "由 FoJin 平台驱动的佛教 AI 祖师人格框架，预置印度/汉传/藏传/南传四大传统 16 位祖师及 4 个教学模式（多祖师对比、辩论、学修路径）。每位祖师声明 CBETA/BDRC/Toh/SuttaCentral/PTS 等来源 ID，教义断言强制附原典引证并有离线引文审计；240 条保真度夹具做关键词与引用覆盖检查。普通用户可经 fojin.app/chat 浏览器对话，开发者可经 npx 以 AgentSkills 形式装入 Claude Code、Cursor、Codex CLI、OpenCode、Gemini CLI。评测显示 v1.0 门禁尚未达标。",
+  "highlights": [
+   "16 位四大传统祖师人格 + 4 个教学模式（对比/辩论/学修路径）",
+   "教义断言强制附原典出处，附离线引文审计与 240 条保真度夹具",
+   "接入 FoJin 的 10K+ 文本、678K+ 语义向量与 110K+ 实体知识图谱",
+   "npx 一键安装到 Claude Code / Cursor / Codex CLI / OpenCode / Gemini CLI 五端"
+  ],
+  "use_cases": [
+   "以某位祖师的视角提问佛学问题并获得带经号出处的回答",
+   "跨汉传/藏传/南传比较多位祖师对同一问题的回答",
+   "按传统获取学修路径或让 AI 推荐该问哪位祖师"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://fojin.app/chat",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    131,
+    133
+   ],
+   "note": "自述 v1.0 门禁尚未达标、教理通过率低于门禁"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI人格/角色",
+   "佛教/数字人文",
+   "RAG溯源",
+   "agent技能",
+   "文化传承"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "chatbot",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "以中文佛典（CBETA）为主要来源体系",
+   "中国大陆心理危机热线 12356"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20:  FoJin 驱动的佛教 AI 祖师人格框架",
+   "L81: Master-skill 是由 FoJin 驱动的佛教 AI 祖师人格框架：以真实原典为来源，以伦理边界为约束，以保真度评测为质量门槛，并以 AgentSkills 运行协议交付给 Claude Code、Cursor、Codex CLI、"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

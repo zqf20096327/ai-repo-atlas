@@ -34,7 +34,7 @@ Chrome 扩展（Manifest V3、TypeScript/Vite），把 Gemini Web（逆向 RPC �
 
 ## 场景标签
 
- · 领域:浏览器/AI 助手工具
+`浏览器自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

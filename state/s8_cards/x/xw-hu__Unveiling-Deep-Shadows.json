@@ -1,1 +1,80 @@
-{"fn": "xw-hu/Unveiling-Deep-Shadows", "sha": "03508368d8e5", "source": "readme", "identity": {"one_liner": "图像/视频阴影检测、去除与生成的综述与基准仓库", "review": "配套 IJCV 2026 论文的综述与基准仓库：汇集近十年深度学习阴影分析的任务、模型、数据集与评测指标，在统一平台上对 DSC、BDRAR、DSDNet 等多种阴影检测方法进行公平比较（含 BER 指标、参数量与速度），并开展跨数据集泛化实验；提供各方法在 SBU-Refine、CUHK-Shadow 上的训练权重下载链接、修正标签后的数据集、BER 评测代码及论文列表。面向阴影分析方向的研究人员。", "highlights": ["统一平台下多种阴影检测方法的 BER/参数量/速度对比", "跨数据集泛化评测（SBU-Refine 训练、SRD 测试）", "提供各方法 256x256 与 512x512 输入的训练权重与代码仓库链接", "汇总 28 篇以上阴影检测方法论文与 SBU-Refine 等修正数据集"], "use_cases": ["查找阴影检测/去除/生成方向的论文与数据集", "获取各方法的预训练权重与评测代码用于复现或对比", "了解模型规模、速度与性能关系及跨数据集泛化表现"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2409.02108v3", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["综述", "基准评测", "阴影检测", "计算机视觉", "论文集"], "domain": "计算机视觉/阴影分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["中文解读链接"]}, "trust": {"confidence": "high", "evidence": ["L11: This repository contains the results and trained models for deep-learning methods used in shadow detection, removal, and", "L14: + A Comprehensive Survey and Benchmark of Shadow Analysis in the Deep Learning Era."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xw-hu/Unveiling-Deep-Shadows",
+ "sha": "03508368d8e5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "图像/视频阴影检测、去除与生成的综述与基准仓库",
+  "review": "配套 IJCV 2026 论文的综述与基准仓库：汇集近十年深度学习阴影分析的任务、模型、数据集与评测指标，在统一平台上对 DSC、BDRAR、DSDNet 等多种阴影检测方法进行公平比较（含 BER 指标、参数量与速度），并开展跨数据集泛化实验；提供各方法在 SBU-Refine、CUHK-Shadow 上的训练权重下载链接、修正标签后的数据集、BER 评测代码及论文列表。面向阴影分析方向的研究人员。",
+  "highlights": [
+   "统一平台下多种阴影检测方法的 BER/参数量/速度对比",
+   "跨数据集泛化评测（SBU-Refine 训练、SRD 测试）",
+   "提供各方法 256x256 与 512x512 输入的训练权重与代码仓库链接",
+   "汇总 28 篇以上阴影检测方法论文与 SBU-Refine 等修正数据集"
+  ],
+  "use_cases": [
+   "查找阴影检测/去除/生成方向的论文与数据集",
+   "获取各方法的预训练权重与评测代码用于复现或对比",
+   "了解模型规模、速度与性能关系及跨数据集泛化表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2409.02108v3",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "综述",
+   "基准评测",
+   "阴影检测",
+   "计算机视觉",
+   "论文集"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文解读链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: This repository contains the results and trained models for deep-learning methods used in shadow detection, removal, and",
+   "L14: + A Comprehensive Survey and Benchmark of Shadow Analysis in the Deep Learning Era."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

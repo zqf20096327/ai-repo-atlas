@@ -32,7 +32,7 @@ ICLR 2026 论文 Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detect
 
 ## 场景标签
 
- · 领域:计算机视觉/异常检测
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

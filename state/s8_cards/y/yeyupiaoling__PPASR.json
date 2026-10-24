@@ -1,1 +1,83 @@
-{"fn": "yeyupiaoling/PPASR", "sha": "6fc3514114a8", "source": "readme", "identity": {"one_liner": "基于 PaddlePaddle 的中文语音识别训练与部署框架", "review": "PPASR 是基于 PaddlePaddle 实现的自动语音识别框架（V3 版本，与 V2 不兼容），支持 DeepSpeech2、Conformer、Squeezeformer、Efficient Conformer 等模型，每个模型均可通过配置切换流式/非流式识别。提供多种解码器（CTC 贪心、前缀束搜索、注意力重打分等）、预处理（fbank/mfcc）与数据增强方法，支持短音频、长音频、流式及说话人分离推理。预训练模型覆盖 WenetSpeech、AIShell、Librispeech 及粤语、中英混合、维吾尔语等数据集，模型文件通过知识星球分发。可部署于服务器与 Nvidia Jetson 设备。", "highlights": ["支持 deepspeech2/conformer/squeezeformer/efficient_conformer，均可切换流式与非流式", "多种解码器与数据增强方法", "覆盖普通话、英语、粤语、中英混合、维吾尔语等多语言预训练模型", "支持说话人分离推理与 Web/GUI 部署"], "use_cases": ["训练自己的中文或中英混合语音识别模型", "部署流式/非流式语音识别服务", "用预训练模型做长音频转写或说话人分离识别"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ASR", "语音识别", "流式识别", "PaddlePaddle", "深度学习训练"], "domain": "语音识别/深度学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "中文名称 PaddlePaddle 中文语音识别", "知识星球/QQ群运营", "哔哩哔哩视频讲解", "微信小程序"]}, "trust": {"confidence": "high", "evidence": ["L9: PPASR是一款基于PaddlePaddle实现的自动语音识别框架，PPASR中文名称PaddlePaddle中文语音识别（PaddlePaddle Automatic Speech Recognition），当前为V3版本，与V2版本不兼", "L31: 1. 支持多个语音识别模型，包含`deepspeech2`、`conformer`、`squeezeformer`、`efficient_conformer`等，每个模型都支持流式识别和非流式识别，在配置文件中`streaming`参数设置"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yeyupiaoling/PPASR",
+ "sha": "6fc3514114a8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 PaddlePaddle 的中文语音识别训练与部署框架",
+  "review": "PPASR 是基于 PaddlePaddle 实现的自动语音识别框架（V3 版本，与 V2 不兼容），支持 DeepSpeech2、Conformer、Squeezeformer、Efficient Conformer 等模型，每个模型均可通过配置切换流式/非流式识别。提供多种解码器（CTC 贪心、前缀束搜索、注意力重打分等）、预处理（fbank/mfcc）与数据增强方法，支持短音频、长音频、流式及说话人分离推理。预训练模型覆盖 WenetSpeech、AIShell、Librispeech 及粤语、中英混合、维吾尔语等数据集，模型文件通过知识星球分发。可部署于服务器与 Nvidia Jetson 设备。",
+  "highlights": [
+   "支持 deepspeech2/conformer/squeezeformer/efficient_conformer，均可切换流式与非流式",
+   "多种解码器与数据增强方法",
+   "覆盖普通话、英语、粤语、中英混合、维吾尔语等多语言预训练模型",
+   "支持说话人分离推理与 Web/GUI 部署"
+  ],
+  "use_cases": [
+   "训练自己的中文或中英混合语音识别模型",
+   "部署流式/非流式语音识别服务",
+   "用预训练模型做长音频转写或说话人分离识别"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ASR",
+   "语音识别",
+   "流式识别",
+   "PaddlePaddle",
+   "深度学习训练"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文名称 PaddlePaddle 中文语音识别",
+   "知识星球/QQ群运营",
+   "哔哩哔哩视频讲解",
+   "微信小程序"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: PPASR是一款基于PaddlePaddle实现的自动语音识别框架，PPASR中文名称PaddlePaddle中文语音识别（PaddlePaddle Automatic Speech Recognition），当前为V3版本，与V2版本不兼",
+   "L31: 1. 支持多个语音识别模型，包含`deepspeech2`、`conformer`、`squeezeformer`、`efficient_conformer`等，每个模型都支持流式识别和非流式识别，在配置文件中`streaming`参数设置"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

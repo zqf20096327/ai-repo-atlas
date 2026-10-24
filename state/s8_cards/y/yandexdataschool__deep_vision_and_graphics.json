@@ -1,1 +1,76 @@
-{"fn": "yandexdataschool/deep_vision_and_graphics", "sha": "855454706775", "source": "readme", "identity": {"one_liner": "YSDA 深度学习计算机视觉与图形学课程资料库", "review": "由 YSDA 与 Skoltech 合作开设的“Deep Vision and Graphics”课程配套仓库，包含 12 周的讲义、研讨材料与作业，主题覆盖卷积网络、transformer、目标检测、分割、生成模型（GAN、扩散模型、CLIP/DALL-E）、神经辐射场与神经渲染等。材料按 week* 与 homework* 文件夹组织，供学生与自学者使用；课程管理事项在 YSDA LMS 内部，仅限 YSDA 学生访问。", "highlights": ["12 周课程大纲，覆盖 CV 与图形学深度学习主题", "讲义、研讨材料与作业按文件夹组织", "由多位讲师分工维护的课程材料"], "use_cases": ["系统学习计算机视觉与图形学的深度学习课程", "查找分割、检测、生成模型、NeRF 等专题的讲义与作业", "作为课程教学参考材料"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["课程资料", "计算机视觉", "深度学习", "图形学", "PyTorch"], "domain": "计算机视觉/图形学教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This repo supplements course \"Deep Vision and Graphics\" taught at YSDA @fall'25.", "L6: Lecture and seminar materials for each week are in ./week* folders. Homeworks are in ./homework* folders."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yandexdataschool/deep_vision_and_graphics",
+ "sha": "855454706775",
+ "source": "readme",
+ "identity": {
+  "one_liner": "YSDA 深度学习计算机视觉与图形学课程资料库",
+  "review": "由 YSDA 与 Skoltech 合作开设的“Deep Vision and Graphics”课程配套仓库，包含 12 周的讲义、研讨材料与作业，主题覆盖卷积网络、transformer、目标检测、分割、生成模型（GAN、扩散模型、CLIP/DALL-E）、神经辐射场与神经渲染等。材料按 week* 与 homework* 文件夹组织，供学生与自学者使用；课程管理事项在 YSDA LMS 内部，仅限 YSDA 学生访问。",
+  "highlights": [
+   "12 周课程大纲，覆盖 CV 与图形学深度学习主题",
+   "讲义、研讨材料与作业按文件夹组织",
+   "由多位讲师分工维护的课程材料"
+  ],
+  "use_cases": [
+   "系统学习计算机视觉与图形学的深度学习课程",
+   "查找分割、检测、生成模型、NeRF 等专题的讲义与作业",
+   "作为课程教学参考材料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程资料",
+   "计算机视觉",
+   "深度学习",
+   "图形学",
+   "PyTorch"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repo supplements course \"Deep Vision and Graphics\" taught at YSDA @fall'25.",
+   "L6: Lecture and seminar materials for each week are in ./week* folders. Homeworks are in ./homework* folders."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,85 @@
-{"fn": "yaoleifly/ai-stock-pool", "sha": "f17b42800c5a", "source": "readme", "identity": {"one_liner": "AI 产业链美股/A股股票池研究工作台：图谱、发现与政策压力", "review": "面向投资研究的美股/A股产业链信息组织工具：提供关系图谱、特征矩阵、股票列表、主动发现（官方信号/新闻/arXiv 论文联合评分）与政策压力指数（六项指标加权）。发现引擎只生成 observe/already_in_pool/reject 等研究建议，不自动改写正式股票池，需人工核实。前端无框架依赖、直读静态 CSV/JSON 与同域 API，支持 Vercel 与 Cloudflare Workers 一键部署（无需 API Key，可选配置 DeepSeek 用于移动端分析接口）。README 明确声明非自动交易系统、不构成投资建议。", "highlights": ["官方信号/新闻/arXiv/行情位置联合评分的主动发现引擎", "六项指标加权的政策压力指数与机构拥挤度反向风险提示", "Vercel 与 Cloudflare Workers 双部署路径，均无需 API Key", "数据文件与评分来源透明，正式入池须人工核实"], "use_cases": ["梳理 AI 产业链上中下游布局与美股/A股映射关系", "跟踪 arXiv 论文与新闻信号形成的研究候选队列", "查看政策压力、机构预期修正与财报反应时间线"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["投资研究", "股票池管理", "产业链映射", "数据工作台"], "domain": "金融/投资研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "默认中文源表文件名（美股股票池.csv / A股映射股票池.csv）", "腾讯财经作为行情源"]}, "trust": {"confidence": "mid", "evidence": ["L3: 面向投资研究的美股 / A 股产业链工作台：关系图谱、主动发现、arXiv 信号、行情位置与政策压力。", "L36: |主动发现|官方信号、新闻、arXiv、股票池与行情位置联合评分|4 份 discovery CSV + 日报|", "L43: - arXiv 上与 AI 推理、存储、网络、机器人、先进封装等相关的论文；", "L105: - `/api/mobile/analyze` 需要通过 `npx wrangler secret put DEEPSEEK_API_KEY` 配置密钥；未配置时返回明确的 503 状态。可选 `DEEPSEEK_MODEL`，不要将密钥写"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-23", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yaoleifly/ai-stock-pool",
+ "sha": "f17b42800c5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 产业链美股/A股股票池研究工作台：图谱、发现与政策压力",
+  "review": "面向投资研究的美股/A股产业链信息组织工具：提供关系图谱、特征矩阵、股票列表、主动发现（官方信号/新闻/arXiv 论文联合评分）与政策压力指数（六项指标加权）。发现引擎只生成 observe/already_in_pool/reject 等研究建议，不自动改写正式股票池，需人工核实。前端无框架依赖、直读静态 CSV/JSON 与同域 API，支持 Vercel 与 Cloudflare Workers 一键部署（无需 API Key，可选配置 DeepSeek 用于移动端分析接口）。README 明确声明非自动交易系统、不构成投资建议。",
+  "highlights": [
+   "官方信号/新闻/arXiv/行情位置联合评分的主动发现引擎",
+   "六项指标加权的政策压力指数与机构拥挤度反向风险提示",
+   "Vercel 与 Cloudflare Workers 双部署路径，均无需 API Key",
+   "数据文件与评分来源透明，正式入池须人工核实"
+  ],
+  "use_cases": [
+   "梳理 AI 产业链上中下游布局与美股/A股映射关系",
+   "跟踪 arXiv 论文与新闻信号形成的研究候选队列",
+   "查看政策压力、机构预期修正与财报反应时间线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "投资研究",
+   "股票池管理",
+   "产业链映射",
+   "数据工作台"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "quant-finance",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "默认中文源表文件名（美股股票池.csv / A股映射股票池.csv）",
+   "腾讯财经作为行情源"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 面向投资研究的美股 / A 股产业链工作台：关系图谱、主动发现、arXiv 信号、行情位置与政策压力。",
+   "L36: |主动发现|官方信号、新闻、arXiv、股票池与行情位置联合评分|4 份 discovery CSV + 日报|",
+   "L43: - arXiv 上与 AI 推理、存储、网络、机器人、先进封装等相关的论文；",
+   "L105: - `/api/mobile/analyze` 需要通过 `npx wrangler secret put DEEPSEEK_API_KEY` 配置密钥；未配置时返回明确的 503 状态。可选 `DEEPSEEK_MODEL`，不要将密钥写"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-23",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
