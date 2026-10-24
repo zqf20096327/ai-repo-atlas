@@ -1,1 +1,82 @@
-{"fn": "ythx-101/x-tweet-fetcher", "sha": "acaefddf9a92", "source": "readme", "identity": {"one_liner": "给 AI agent 用的 X/Twitter 内容抓取工具，免登录免 API key", "review": "面向 AI agent 的 X/Twitter 数据获取工具（Python/CLI）：支持抓取单条推文、回复、用户时间线、搜索、列表与 X 文章，无需登录或 API key。核心机制是三后端智能路由——FxTwitter（零依赖，单推）、Nitter（直接 HTTP，时间线/搜索）、浏览器驱动（Camofox 或 Playwright，覆盖列表与文章），后端间自动回退。所有后端归一化为统一的 Tweet/Reply/Profile/Article schema，错误以机器可读的 error_code 返回。可选 --ledger 将结果去重归档进 SQLite 并支持离线查询。需 Python 3.10+；时间线/搜索依赖自建或可用的 Nitter 实例。", "highlights": ["三后端智能路由（FxTwitter/Nitter/浏览器）自动回退", "统一 JSON schema（Tweet/Reply/Profile/Article）", "机器可读错误码（rate_limited/all_backends_failed 等），便于 agent 分支处理", "--ledger SQLite 去重归档与离线查询，兼容 OpenClaw tweets 表"], "use_cases": ["让 AI agent 在对话中直接读取推文、时间线或 X 文章", "用 cron 增量监控提及（mentions）并归档到本地推文库", "无 X API 付费订阅的情况下做时间线/搜索数据采集"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent工具", "爬虫/数据获取", "X/Twitter", "OSINT", "自动化"], "domain": "数据获取/agent 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["推文库中文标题（L78）", "默认消息语言 zh（L115）", "提及 China 相关 v1 脚本迁移（L149）"]}, "trust": {"confidence": "mid", "evidence": ["L24: **x-tweet-fetcher** solves this with **smart backend routing**: FxTwitter for single tweets (zero deps), Nitter for time", "L167: - **OpenClaw** — AI agent framework this tool grew up in", "L3: **Fetch X/Twitter tweets, replies, timelines, lists, and articles — no login, no API keys.**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ythx-101/x-tweet-fetcher",
+ "sha": "acaefddf9a92",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 用的 X/Twitter 内容抓取工具，免登录免 API key",
+  "review": "面向 AI agent 的 X/Twitter 数据获取工具（Python/CLI）：支持抓取单条推文、回复、用户时间线、搜索、列表与 X 文章，无需登录或 API key。核心机制是三后端智能路由——FxTwitter（零依赖，单推）、Nitter（直接 HTTP，时间线/搜索）、浏览器驱动（Camofox 或 Playwright，覆盖列表与文章），后端间自动回退。所有后端归一化为统一的 Tweet/Reply/Profile/Article schema，错误以机器可读的 error_code 返回。可选 --ledger 将结果去重归档进 SQLite 并支持离线查询。需 Python 3.10+；时间线/搜索依赖自建或可用的 Nitter 实例。",
+  "highlights": [
+   "三后端智能路由（FxTwitter/Nitter/浏览器）自动回退",
+   "统一 JSON schema（Tweet/Reply/Profile/Article）",
+   "机器可读错误码（rate_limited/all_backends_failed 等），便于 agent 分支处理",
+   "--ledger SQLite 去重归档与离线查询，兼容 OpenClaw tweets 表"
+  ],
+  "use_cases": [
+   "让 AI agent 在对话中直接读取推文、时间线或 X 文章",
+   "用 cron 增量监控提及（mentions）并归档到本地推文库",
+   "无 X API 付费订阅的情况下做时间线/搜索数据采集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent工具",
+   "爬虫/数据获取",
+   "X/Twitter",
+   "OSINT",
+   "自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "推文库中文标题（L78）",
+   "默认消息语言 zh（L115）",
+   "提及 China 相关 v1 脚本迁移（L149）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L24: **x-tweet-fetcher** solves this with **smart backend routing**: FxTwitter for single tweets (zero deps), Nitter for time",
+   "L167: - **OpenClaw** — AI agent framework this tool grew up in",
+   "L3: **Fetch X/Twitter tweets, replies, timelines, lists, and articles — no login, no API keys.**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

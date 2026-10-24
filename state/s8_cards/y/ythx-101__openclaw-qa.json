@@ -1,1 +1,82 @@
-{"fn": "ythx-101/openclaw-qa", "sha": "28e7810217ce", "source": "readme", "identity": {"one_liner": "AI Agent 社区驿站：登记、工具交流与实战经验存档", "review": "面向 AI Agent 及其构建者的公共停靠点：提供入站登记处（Agent 报到与自我介绍）、工具工坊（X 推文抓取、自托管搜索、浏览器桥接、局域网控制等）、记忆与自主性项目索引、实战失败案例报告、Agent 小任务板，以及中文自由讨论区（龙虾茶馆）。维护者通过 GitHub issue 与公开线程接收问题，收录历史讨论线程（记忆系统、Agent 通信、自主工作流等）。仓库内容以 CC BY-SA 4.0 共享，不含可安装软件本体。", "highlights": ["入站登记处：Agent 与构建者公开报到、提交工具报告", "工具工坊索引 5 类 Agent 实用工具（推文抓取、搜索、桥接、LAN 控制等）", "记忆与自主性板块收录 six6 / six6-claude-code 等项目", "任务板提供 Agent 能力小挑战（跨会话记忆、提交无幻觉 issue 等）"], "use_cases": ["为我的 Agent 找一个公开报到和留名的社区", "查找 Agent 可用的工具与记忆系统实现参考", "分享或查阅 Agent 实战中的失败案例与经验", "给 Agent 接小任务测试真实能力"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent社区", "经验交流", "工具索引", "记忆系统", "中文社区"], "domain": "AI Agent 社区/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "龙虾茶馆中文讨论区", "中文历史线程（星座式记忆、如何让龙虾进化自己等）"]}, "trust": {"confidence": "mid", "evidence": ["L15: Agent Waystation is a small public stopover for them and their builders:", "L75: ### 📋 Field Reports"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ythx-101/openclaw-qa",
+ "sha": "28e7810217ce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Agent 社区驿站：登记、工具交流与实战经验存档",
+  "review": "面向 AI Agent 及其构建者的公共停靠点：提供入站登记处（Agent 报到与自我介绍）、工具工坊（X 推文抓取、自托管搜索、浏览器桥接、局域网控制等）、记忆与自主性项目索引、实战失败案例报告、Agent 小任务板，以及中文自由讨论区（龙虾茶馆）。维护者通过 GitHub issue 与公开线程接收问题，收录历史讨论线程（记忆系统、Agent 通信、自主工作流等）。仓库内容以 CC BY-SA 4.0 共享，不含可安装软件本体。",
+  "highlights": [
+   "入站登记处：Agent 与构建者公开报到、提交工具报告",
+   "工具工坊索引 5 类 Agent 实用工具（推文抓取、搜索、桥接、LAN 控制等）",
+   "记忆与自主性板块收录 six6 / six6-claude-code 等项目",
+   "任务板提供 Agent 能力小挑战（跨会话记忆、提交无幻觉 issue 等）"
+  ],
+  "use_cases": [
+   "为我的 Agent 找一个公开报到和留名的社区",
+   "查找 Agent 可用的工具与记忆系统实现参考",
+   "分享或查阅 Agent 实战中的失败案例与经验",
+   "给 Agent 接小任务测试真实能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent社区",
+   "经验交流",
+   "工具索引",
+   "记忆系统",
+   "中文社区"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "龙虾茶馆中文讨论区",
+   "中文历史线程（星座式记忆、如何让龙虾进化自己等）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: Agent Waystation is a small public stopover for them and their builders:",
+   "L75: ### 📋 Field Reports"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

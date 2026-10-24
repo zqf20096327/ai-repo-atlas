@@ -1,0 +1,58 @@
+# SebastianElvis/clawpier
+
+⭐ 70 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/SebastianElvis/clawpier) · 个人维护
+
+**桌面应用：用 Docker 沙箱管理 OpenClaw/Hermes AI agent 实例**
+
+基于 Tauri v2（Rust 后端 + React 前端）的原生桌面应用，用于在 Docker 容器中创建和管理 OpenClaw 与 Hermes AI agent 实例。容器默认以 --network none 启动，网络访问按 bot 选择开启；支持 CPU/内存限额、一键停止、健康检查与自动重启。提供 GUI 聊天、配置、终端、日志、文件浏览与资源监控，内置 ClawHub 技能浏览器（50+ 技能）与社区技能搜索安装。运行需本机安装 Docker，首次启动会提示拉取 agent 镜像。提供 macOS/Linux/Windows 构建，macOS 构建已签名并公证。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 容器默认 --network none 沙箱，网络访问按 bot 开启
+- GUI 管理 CPU/内存限额、健康检查与一键停止
+- 交互式 PTY 终端、实时日志、文件浏览与资源监控
+- ClawHub 技能浏览器：50+ 内置技能与社区技能安装
+
+## 适用场景
+
+- 在不暴露宿主机的前提下运行有 OS 级访问权限的 AI agent
+- 从桌面 GUI 统一管理多个 AI agent 实例与其配置
+- 浏览并安装 agent 技能，监控每个容器的资源占用
+
+## 场景标签
+
+`聊天机器人` · 领域:对话与助手
+
+## 证据(README 行号)
+
+> L10: A native desktop app for managing OpenClaw and Hermes AI agent instances inside Docker containers — sandboxed from 
+> L18: AI agent runtimes like OpenClaw and Hermes have OS-level access to your email, calendars, files, and messaging plat
+> L20: ClawPier fixes this by running every agent inside a Docker container:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SebastianElvis/clawpier 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-24"]
+    y-axis "stars" 69 --> 71
+    line [70, 70]
+```
+
+2026-10-18 70 → 2026-10-24 70（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `d77c260d4fe6` · [字段定义](../../DATASET.md)*

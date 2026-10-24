@@ -32,7 +32,7 @@ TMLR 2026 综述论文 Beyond Single-Turn 的配套 GitHub 仓库，按任务类
 
 ## 场景标签
 
- · 领域:LLM 研究/知识聚合
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

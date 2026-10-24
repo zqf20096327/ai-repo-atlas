@@ -5,4 +5,4 @@
 {"product": "GitHub Copilot", "repos": ["Natively-AI-assistant/natively-cluely-ai-assistant", "TabbyML/tabby", "anjerodev/commitollama", "ianustec/neura-office", "timwuhaotian/the-pair", "zhikunqingtao/zhikuncode"], "n": 6}
 {"product": "Hugging Face", "repos": ["NLPOptimize/flash-tokenizer", "OpenCSGs/csghub", "marcelroed/gigatoken"], "n": 3}
 {"product": "LangChain", "repos": ["Mangaba-ai/mangaba_ai", "ModelEngine-Group/fit-framework", "OoriData/OgbujiPT", "nMaroulis/protolink", "swarmclawai/swarmclaw"], "n": 5}
-{"product": "Lovable", "repos": ["OpenCoworkAI/open-codesign", "buildingopen/openpage", "dyad-sh/dyad", "polterguy/magic", "sa4hnd/vibra-code", "tinykit-studio/tinykit"], "n": 6}
+{"product": "Lovable", "repos": ["OpenCoworkAI/open-codesign", "buildingopen/openpage", "dyad-sh/dyad", "polterguy/magic", "sa4hnd/vibra-code", "sammwyy/singulary", "tinykit-studio/tinykit"], "n": 7}

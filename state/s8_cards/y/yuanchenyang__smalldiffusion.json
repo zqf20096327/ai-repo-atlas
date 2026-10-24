@@ -1,1 +1,77 @@
-{"fn": "yuanchenyang/smalldiffusion", "sha": "35e9a3189465", "source": "readme", "identity": {"one_liner": "轻量扩散/流模型训练与采样库，面向实验与快速上手", "review": "以 Python 库形式提供的扩散与流模型（flow matching）训练与采样工具：核心训练与采样代码少于 100 行，支持 MLP、U-Net、DiT 三类模型，支持 score/v/data 多种预测目标参数化，内置 7 种噪声调度与 classifier-free guidance 条件训练。提供 2D 玩具数据集及 FashionMNIST、CIFAR-10、ImageNet 训练示例，附 diffusers 封装可对预训练潜扩散模型采样；多 GPU 训练经由 Hugging Face Accelerate。要求 Python 3.10+，pip 安装。", "highlights": ["核心训练与采样代码少于 100 行，面向实验扩展", "支持 MLP/U-Net/DiT 模型与 score/flow/data 多种参数化", "DDPM/DDIM/加速采样统一在 gam、mu 两参数下", "提供 Hugging Face diffusers 预训练潜扩散模型采样封装"], "use_cases": ["快速实验新的扩散模型结构或采样算法", "在玩具数据集或 FashionMNIST/CIFAR-10 上训练扩散模型", "对预训练 Stable Diffusion 类模型调试采样参数"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2306.04848", "demo_url": "https://colab.research.google.com/drive/1So1lb9fG-AnDeSXNbosCnDbxbzf5xbor?usp=sharing", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["扩散模型", "生成模型", "机器学习库", "图像生成", "科研工具"], "domain": "机器学习/生成模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: A lightweight diffusion library for training and sampling from diffusion and", "L13:  - Example training code (with close to SOTA FID): FashionMNIST, CIFAR10, Imagenet"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yuanchenyang/smalldiffusion",
+ "sha": "35e9a3189465",
+ "source": "readme",
+ "identity": {
+  "one_liner": "轻量扩散/流模型训练与采样库，面向实验与快速上手",
+  "review": "以 Python 库形式提供的扩散与流模型（flow matching）训练与采样工具：核心训练与采样代码少于 100 行，支持 MLP、U-Net、DiT 三类模型，支持 score/v/data 多种预测目标参数化，内置 7 种噪声调度与 classifier-free guidance 条件训练。提供 2D 玩具数据集及 FashionMNIST、CIFAR-10、ImageNet 训练示例，附 diffusers 封装可对预训练潜扩散模型采样；多 GPU 训练经由 Hugging Face Accelerate。要求 Python 3.10+，pip 安装。",
+  "highlights": [
+   "核心训练与采样代码少于 100 行，面向实验扩展",
+   "支持 MLP/U-Net/DiT 模型与 score/flow/data 多种参数化",
+   "DDPM/DDIM/加速采样统一在 gam、mu 两参数下",
+   "提供 Hugging Face diffusers 预训练潜扩散模型采样封装"
+  ],
+  "use_cases": [
+   "快速实验新的扩散模型结构或采样算法",
+   "在玩具数据集或 FashionMNIST/CIFAR-10 上训练扩散模型",
+   "对预训练 Stable Diffusion 类模型调试采样参数"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2306.04848",
+  "demo_url": "https://colab.research.google.com/drive/1So1lb9fG-AnDeSXNbosCnDbxbzf5xbor?usp=sharing",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "扩散模型",
+   "生成模型",
+   "机器学习库",
+   "图像生成",
+   "科研工具"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: A lightweight diffusion library for training and sampling from diffusion and",
+   "L13:  - Example training code (with close to SOTA FID): FashionMNIST, CIFAR10, Imagenet"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
