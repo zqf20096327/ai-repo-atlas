@@ -46,12 +46,12 @@ Windows 优先的本地优先桌面应用：前端 React/TypeScript/Vite，桌�
 ```mermaid
 xychart-beta
     title "2722039978-source/Noosphere 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-19", "2026-10-25"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-19 52 → 2026-10-24 52（+0）
+2026-10-19 52 → 2026-10-25 52（+0）
 
 
 ---

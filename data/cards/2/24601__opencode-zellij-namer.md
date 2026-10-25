@@ -46,12 +46,12 @@ OpenCode 插件，监听 session.idle、file.edited、command.executed、todo.up
 ```mermaid
 xychart-beta
     title "24601/opencode-zellij-namer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-10-24 65（+0）
+2026-10-18 65 → 2026-10-25 65（+0）
 
 
 ---

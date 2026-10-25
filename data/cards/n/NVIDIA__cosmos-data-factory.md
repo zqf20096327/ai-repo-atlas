@@ -45,13 +45,13 @@ NVIDIA Cosmos Data Factory 提供一组 agent 驱动的蓝图与可组合技能�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cosmos-data-factory 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 44 --> 50
-    line [45, 47, 49]
+    title "NVIDIA/cosmos-data-factory 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 44 --> 52
+    line [45, 47, 49, 51]
 ```
 
-2026-10-22 45 → 2026-10-24 49（+4）
+2026-10-22 45 → 2026-10-25 51（+6）
 
 
 ---

@@ -45,13 +45,13 @@ vercel-labs 提供的营销 Agent 团队模板：一个 lead 负责理解任务�
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/marketing-team-eve-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "vercel-labs/marketing-team-eve-template 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 452 --> 456
-    line [453, 455, 453, 455]
+    line [453, 455, 453, 455, 455]
 ```
 
-2026-10-18 453 → 2026-10-24 455（+2）
+2026-10-18 453 → 2026-10-25 455（+2）
 
 
 ---

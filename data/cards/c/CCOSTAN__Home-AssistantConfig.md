@@ -44,13 +44,13 @@ Bear Stone Smart Home 是博主公开维护的个人 Home Assistant 配置仓库
 
 ```mermaid
 xychart-beta
-    title "CCOSTAN/Home-AssistantConfig 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 5301 --> 5310
-    line [5302, 5304, 5307, 5309]
+    title "CCOSTAN/Home-AssistantConfig 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 5301 --> 5312
+    line [5302, 5304, 5307, 5309, 5311]
 ```
 
-2026-10-18 5,302 → 2026-10-24 5,309（+7）
+2026-10-18 5,302 → 2026-10-25 5,311（+9）
 
 
 ---

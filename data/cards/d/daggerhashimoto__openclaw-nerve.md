@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "daggerhashimoto/openclaw-nerve 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "daggerhashimoto/openclaw-nerve 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 868 --> 874
-    line [869, 871, 873]
+    line [869, 871, 873, 873]
 ```
 
-2026-10-18 869 → 2026-10-24 873（+4）
+2026-10-18 869 → 2026-10-25 873（+4）
 
 
 ---

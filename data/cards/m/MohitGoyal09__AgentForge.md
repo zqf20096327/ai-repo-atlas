@@ -47,12 +47,12 @@ Python 编写的终端 AI coding-agent harness，定位为学习现代编码 age
 ```mermaid
 xychart-beta
     title "MohitGoyal09/AgentForge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-24 62（+0）
+2026-10-18 62 → 2026-10-25 62（+0）
 
 
 ---

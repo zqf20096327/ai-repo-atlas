@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "retentioneering/retentioneering-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 933 --> 938
-    line [934, 935, 936, 937]
+    title "retentioneering/retentioneering-tools 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 933 --> 939
+    line [934, 935, 936, 937, 938]
 ```
 
-2026-10-18 934 → 2026-10-24 937（+3）
+2026-10-18 934 → 2026-10-25 938（+4）
 
 
 ---

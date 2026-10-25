@@ -40,6 +40,18 @@
 > L11: **PPT Master + local ComfyUI image backend.** This is a personal-machine fork of ppt-master (v6.7.0, MIT, Copyright
 > L26: - `templates/comfyui/qwen_image_2_1_t2i_api.json` — API-format export of the `image_qwen_image_2_1_t2i` workflow (Q
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xiaoranlingfeng/ppt-master-zit 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 130 --> 133
+    line [131, 132]
+```
+
+2026-10-24 131 → 2026-10-25 132（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `e5792e9e5ab1` · [字段定义](../../DATASET.md)*

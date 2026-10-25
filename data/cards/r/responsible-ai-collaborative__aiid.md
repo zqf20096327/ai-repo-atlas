@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "responsible-ai-collaborative/aiid 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 272 --> 274
-    line [273, 273]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 272 --> 275
+    line [273, 274]
 ```
 
-2026-10-18 273 → 2026-10-24 273（+0）
+2026-10-18 273 → 2026-10-25 274（+1）
 
 
 ---

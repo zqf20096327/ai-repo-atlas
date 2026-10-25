@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SDLLL/claude-for-safari 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 94 --> 97
-    line [95, 96]
+    title "SDLLL/claude-for-safari 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 94 --> 98
+    line [95, 96, 97]
 ```
 
-2026-10-18 95 → 2026-10-24 96（+1）
+2026-10-18 95 → 2026-10-25 97（+2）
 
 
 ---

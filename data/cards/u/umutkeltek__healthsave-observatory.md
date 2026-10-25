@@ -46,13 +46,13 @@ HealthSave iOS 应用的自托管后端：通过 HealthSave iOS 同步 Apple Hea
 
 ```mermaid
 xychart-beta
-    title "umutkeltek/healthsave-observatory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "umutkeltek/healthsave-observatory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 100 --> 103
-    line [101, 102]
+    line [101, 102, 102]
 ```
 
-2026-10-18 101 → 2026-10-24 102（+1）
+2026-10-18 101 → 2026-10-25 102（+1）
 
 
 ---

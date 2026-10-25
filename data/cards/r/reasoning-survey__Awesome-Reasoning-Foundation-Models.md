@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "reasoning-survey/Awesome-Reasoning-Foundation-Models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 659 --> 661
-    line [660, 660]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 658 --> 661
+    line [660, 659]
 ```
 
-2026-10-18 660 → 2026-10-24 660（+0）
+2026-10-18 660 → 2026-10-25 659（-1）
 
 
 ---

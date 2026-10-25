@@ -45,12 +45,12 @@ Robotec AI 维护的具身智能演示：在 ROS 2 + O3DE 仿真的小型仓库�
 ```mermaid
 xychart-beta
     title "RobotecAI/agentic-mobile-manipulator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-24 50（+0）
+2026-10-18 50 → 2026-10-25 50（+0）
 
 
 ---

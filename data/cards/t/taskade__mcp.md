@@ -46,12 +46,12 @@ Taskade 官方仓库，含两个包：本地 stdio 服务器 @taskade/mcp-server
 ```mermaid
 xychart-beta
     title "taskade/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 168 --> 170
-    line [169, 169]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 168 --> 171
+    line [169, 170]
 ```
 
-2026-10-18 169 → 2026-10-24 169（+0）
+2026-10-18 169 → 2026-10-25 170（+1）
 
 
 ---

@@ -46,13 +46,13 @@ SAM 是一个自托管（AGPL-3.0）的编码 agent 编排平台：每个任务�
 
 ```mermaid
 xychart-beta
-    title "raphaeltm/simple-agent-manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 62 --> 67
-    line [63, 65, 66]
+    title "raphaeltm/simple-agent-manager 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 62 --> 68
+    line [63, 65, 66, 67]
 ```
 
-2026-10-18 63 → 2026-10-24 66（+3）
+2026-10-18 63 → 2026-10-25 67（+4）
 
 
 ---

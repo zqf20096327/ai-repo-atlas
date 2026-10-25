@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    title "jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1692 --> 1696
-    line [1693, 1694, 1695]
+    line [1693, 1694, 1695, 1695]
 ```
 
-2026-10-18 1,693 → 2026-10-24 1,695（+2）
+2026-10-18 1,693 → 2026-10-25 1,695（+2）
 
 
 ---

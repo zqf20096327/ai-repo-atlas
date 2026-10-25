@@ -44,13 +44,13 @@ Hugging Face 维护的 Jinja2 模板引擎 Swift 实现，聚焦生成 LLM 聊�
 
 ```mermaid
 xychart-beta
-    title "huggingface/swift-jinja 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "huggingface/swift-jinja 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 134 --> 138
-    line [135, 136, 137]
+    line [135, 136, 137, 137]
 ```
 
-2026-10-18 135 → 2026-10-24 137（+2）
+2026-10-18 135 → 2026-10-25 137（+2）
 
 
 ---

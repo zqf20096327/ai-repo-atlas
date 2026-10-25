@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "trekhleb/links-detector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "trekhleb/links-detector 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 183 --> 186
-    line [184, 185]
+    line [184, 185, 185]
 ```
 
-2026-10-18 184 → 2026-10-24 185（+1）
+2026-10-18 184 → 2026-10-25 185（+1）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hashgraph-online/standards-sdk-go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 319 --> 321
-    line [320, 320]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 319 --> 322
+    line [320, 321]
 ```
 
-2026-10-18 320 → 2026-10-24 320（+0）
+2026-10-18 320 → 2026-10-25 321（+1）
 
 
 ---

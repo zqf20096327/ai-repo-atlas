@@ -46,12 +46,12 @@ Calfkit 提供一个 Python SDK，用于构建多 agent 系统：各 agent 作�
 ```mermaid
 xychart-beta
     title "calf-ai/calfkit-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 148 --> 150
     line [149, 149]
 ```
 
-2026-10-18 149 → 2026-10-24 149（+0）
+2026-10-18 149 → 2026-10-25 149（+0）
 
 
 ---

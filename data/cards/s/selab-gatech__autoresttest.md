@@ -46,13 +46,13 @@ AutoRestTest 解析 OpenAPI 3.0 规范，结合图论、LLM 与多智能体强�
 
 ```mermaid
 xychart-beta
-    title "selab-gatech/autoresttest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "selab-gatech/autoresttest 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 52 --> 55
-    line [53, 54]
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-10-24 54（+1）
+2026-10-18 53 → 2026-10-25 54（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyberofficial/Synthalingua 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "cyberofficial/Synthalingua 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 417 --> 420
-    line [418, 419]
+    line [418, 419, 419]
 ```
 
-2026-10-18 418 → 2026-10-24 419（+1）
+2026-10-18 418 → 2026-10-25 419（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 887 --> 893
-    line [888, 890, 891, 892]
+    line [888, 890, 891, 892, 892]
 ```
 
-2026-10-18 888 → 2026-10-24 892（+4）
+2026-10-18 888 → 2026-10-25 892（+4）
 
 
 ---

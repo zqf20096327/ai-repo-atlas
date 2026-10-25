@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "pmprompt/claude-plugin-product-management 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "pmprompt/claude-plugin-product-management 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 51 --> 54
-    line [53, 52, 53]
+    line [53, 52, 53, 53]
 ```
 
-2026-10-18 53 → 2026-10-24 53（+0）
+2026-10-18 53 → 2026-10-25 53（+0）
 
 
 ---

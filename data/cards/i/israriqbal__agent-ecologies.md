@@ -46,12 +46,12 @@ Agent-Worlds 是一个基于 FastAPI 与 Model Context Protocol (MCP) 的多智�
 ```mermaid
 xychart-beta
     title "israriqbal/agent-ecologies 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
     y-axis "stars" 120 --> 123
     line [121, 122, 122]
 ```
 
-2026-10-18 121 → 2026-10-24 122（+1）
+2026-10-18 121 → 2026-10-25 122（+1）
 
 
 ---

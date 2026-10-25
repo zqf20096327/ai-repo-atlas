@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "verygoodplugins/automem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "verygoodplugins/automem 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 821 --> 824
-    line [822, 823]
+    line [822, 823, 823]
 ```
 
-2026-10-18 822 → 2026-10-24 823（+1）
+2026-10-18 822 → 2026-10-25 823（+1）
 
 
 ---

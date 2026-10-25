@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stared/interactive-machine-learning-list 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 455 --> 457
     line [456, 456]
 ```
 
-2026-10-18 456 → 2026-10-24 456（+0）
+2026-10-18 456 → 2026-10-25 456（+0）
 
 
 ---

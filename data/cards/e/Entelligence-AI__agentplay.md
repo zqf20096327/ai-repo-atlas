@@ -40,6 +40,18 @@
 > L10: **See what your coding agent actually did. Replay every session as a map and a timeline: what it read, what it edit
 > L103: |Agent|Reads from (defaults)|Subagent lanes|Tokens|Notes|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Entelligence-AI/agentplay 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 295 --> 304
+    line [296, 303]
+```
+
+2026-10-24 296 → 2026-10-25 303（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `4395f28c8015` · [字段定义](../../DATASET.md)*

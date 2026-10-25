@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaofeng-928/chinese-longnovel-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 69 --> 75
-    line [70, 73, 74]
+    title "xiaofeng-928/chinese-longnovel-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 69 --> 76
+    line [70, 73, 74, 75]
 ```
 
-2026-10-18 70 → 2026-10-24 74（+4）
+2026-10-18 70 → 2026-10-25 75（+5）
 
 
 ---

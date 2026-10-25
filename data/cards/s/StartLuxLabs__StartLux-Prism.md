@@ -41,6 +41,18 @@
 > L91: python -m startlux_prism.server --gguf $G --model-dir $M --port 8092    # ready when it prints "Ready"
 > L211: The 27B on one H200 per server, against the official engine (Startlux-decide-inference on vLLM 0.31) on the same
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "StartLuxLabs/StartLux-Prism 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 54 --> 63
+    line [55, 62]
+```
+
+2026-10-24 55 → 2026-10-25 62（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `ff74c31a4ed5` · [字段定义](../../DATASET.md)*

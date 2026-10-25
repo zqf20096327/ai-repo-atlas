@@ -40,6 +40,18 @@
 > L3: A feed-forward neural network that classifies Instagram accounts as **fake** or **genuine** using profile-level meta
 > L34: 1. **Exploratory analysis:** class balance, missing values, feature distributions, and a correlation heatmap.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DURGESH716/Fake-Instagram-Profile-Detection 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 52 --> 54
+    line [53, 53]
+```
+
+2026-10-24 53 → 2026-10-25 53（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `039094312f12` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ OpenAI 官方维护的 NextJS 示例应用，构建于 Sora Video API 与 OpenAI
 ```mermaid
 xychart-beta
     title "openai/openai-sora-sample-app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
     y-axis "stars" 81 --> 84
     line [82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-10-24 83（+1）
+2026-10-18 82 → 2026-10-25 83（+1）
 
 
 ---

@@ -45,13 +45,13 @@ RunAnywhere 提供覆盖 Swift/Kotlin/Flutter/React Native/Web/Electron/Python/C
 
 ```mermaid
 xychart-beta
-    title "RunanywhereAI/runanywhere-sdks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "RunanywhereAI/runanywhere-sdks 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 10326 --> 10334
-    line [10327, 10331, 10332, 10333, 10331]
+    line [10327, 10331, 10332, 10333, 10331, 10330]
 ```
 
-2026-10-18 10,327 → 2026-10-24 10,331（+4）
+2026-10-18 10,327 → 2026-10-25 10,330（+3）
 
 
 ---

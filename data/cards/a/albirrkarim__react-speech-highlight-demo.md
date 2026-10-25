@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "albirrkarim/react-speech-highlight-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 188 --> 190
-    line [189, 189]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 188 --> 191
+    line [189, 190]
 ```
 
-2026-10-18 189 → 2026-10-24 189（+0）
+2026-10-18 189 → 2026-10-25 190（+1）
 
 
 ---

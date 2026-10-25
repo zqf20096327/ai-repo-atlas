@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/rag-experiment-accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 312 --> 314
     line [313, 313]
 ```
 
-2026-10-18 313 → 2026-10-24 313（+0）
+2026-10-18 313 → 2026-10-25 313（+0）
 
 
 ---

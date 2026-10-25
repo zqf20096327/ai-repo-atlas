@@ -45,12 +45,12 @@ FastAPI + React 的全栈求职工作流平台：从 LinkedIn、Indeed、Glassdo
 ```mermaid
 xychart-beta
     title "Rayyan9477/AutoApply-AI-Agentic-Browser-Automation-for-Job-Search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
     y-axis "stars" 73 --> 76
     line [74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-10-24 75（+1）
+2026-10-18 74 → 2026-10-25 75（+1）
 
 
 ---

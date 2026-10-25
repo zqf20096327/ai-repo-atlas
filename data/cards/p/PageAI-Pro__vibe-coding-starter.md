@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "PageAI-Pro/vibe-coding-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "PageAI-Pro/vibe-coding-starter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 366 --> 369
-    line [367, 368]
+    line [367, 368, 368]
 ```
 
-2026-10-18 367 → 2026-10-24 368（+1）
+2026-10-18 367 → 2026-10-25 368（+1）
 
 
 ---

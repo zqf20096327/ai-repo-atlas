@@ -44,12 +44,12 @@ vLLM 官方项目下的树外量化插件：在 vLLM 移除树内 GGUF 支持后
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-gguf-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 53 --> 56
+    line [54, 55]
 ```
 
-2026-10-18 54 → 2026-10-24 54（+0）
+2026-10-18 54 → 2026-10-25 55（+1）
 
 
 ---

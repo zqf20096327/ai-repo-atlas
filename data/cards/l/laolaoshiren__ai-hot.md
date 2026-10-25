@@ -44,12 +44,12 @@ AI 热榜是一个 AI 信息导航站（https://aihot.bt199.com/）的 GitHub �
 ```mermaid
 xychart-beta
     title "laolaoshiren/ai-hot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 85 --> 88
+    line [87, 86]
 ```
 
-2026-10-18 87 → 2026-10-24 87（+0）
+2026-10-18 87 → 2026-10-25 86（-1）
 
 
 ---

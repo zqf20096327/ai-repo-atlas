@@ -46,12 +46,12 @@ VS Code 扩展：在本地 3030 端口启动 OpenAI 兼容 API 服务器，通�
 ```mermaid
 xychart-beta
     title "suhaibbinyounis/github-copilot-api-vscode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 127 --> 129
     line [128, 128]
 ```
 
-2026-10-18 128 → 2026-10-24 128（+0）
+2026-10-18 128 → 2026-10-25 128（+0）
 
 
 ---

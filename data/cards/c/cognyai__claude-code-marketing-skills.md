@@ -44,13 +44,13 @@ Cogny 公司维护的营销类 agent 技能集合，安装到 Claude Code、Curs
 
 ```mermaid
 xychart-beta
-    title "cognyai/claude-code-marketing-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 106 --> 109
-    line [107, 108]
+    title "cognyai/claude-code-marketing-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 106 --> 111
+    line [107, 108, 110]
 ```
 
-2026-10-18 107 → 2026-10-24 108（+1）
+2026-10-18 107 → 2026-10-25 110（+3）
 
 
 ---

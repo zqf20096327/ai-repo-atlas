@@ -46,12 +46,12 @@ SillyTavern 扩展，把世界书（lorebook）存放在 Obsidian vault 中，�
 ```mermaid
 xychart-beta
     title "pixelnull/sillytavern-DeepLore 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
     y-axis "stars" 88 --> 92
     line [89, 90, 91, 91]
 ```
 
-2026-10-18 89 → 2026-10-24 91（+2）
+2026-10-18 89 → 2026-10-25 91（+2）
 
 
 ---

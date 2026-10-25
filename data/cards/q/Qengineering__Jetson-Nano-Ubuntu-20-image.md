@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Qengineering/Jetson-Nano-Ubuntu-20-image 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "Qengineering/Jetson-Nano-Ubuntu-20-image 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 985 --> 989
-    line [986, 987, 988]
+    line [986, 987, 988, 988]
 ```
 
-2026-10-18 986 → 2026-10-24 988（+2）
+2026-10-18 986 → 2026-10-25 988（+2）
 
 
 ---

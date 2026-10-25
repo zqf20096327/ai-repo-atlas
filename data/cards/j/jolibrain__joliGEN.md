@@ -46,12 +46,12 @@ Jolibrain 维护的生成式 AI 图像与视频工具集：集成 GAN、Diffusio
 ```mermaid
 xychart-beta
     title "jolibrain/joliGEN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 289 --> 291
     line [290, 290]
 ```
 
-2026-10-18 290 → 2026-10-24 290（+0）
+2026-10-18 290 → 2026-10-25 290（+0）
 
 
 ---

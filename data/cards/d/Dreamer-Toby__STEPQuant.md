@@ -45,12 +45,12 @@ STEPQuant 是针对 Delta-rule 线性注意力模型（Qwen、Kimi-Linear 等）
 ```mermaid
 xychart-beta
     title "Dreamer-Toby/STEPQuant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
     y-axis "stars" 94 --> 102
-    line [101, 95, 95]
+    line [101, 95, 97]
 ```
 
-2026-10-18 101 → 2026-10-24 95（-6）
+2026-10-18 101 → 2026-10-25 97（-4）
 
 
 ---

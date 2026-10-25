@@ -44,13 +44,13 @@ GROWI 是基于 Node.js/React/TypeScript 的团队协作 wiki 软件：以 Markd
 
 ```mermaid
 xychart-beta
-    title "growilabs/growi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "growilabs/growi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1470 --> 1474
-    line [1471, 1473]
+    line [1471, 1473, 1473]
 ```
 
-2026-10-18 1,471 → 2026-10-24 1,473（+2）
+2026-10-18 1,471 → 2026-10-25 1,473（+2）
 
 
 ---

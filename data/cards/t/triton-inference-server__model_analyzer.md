@@ -45,12 +45,12 @@ NVIDIA Triton 生态的命令行工具，面向在 Triton Inference Server 上�
 ```mermaid
 xychart-beta
     title "triton-inference-server/model_analyzer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 529 --> 531
     line [530, 530]
 ```
 
-2026-10-18 530 → 2026-10-24 530（+0）
+2026-10-18 530 → 2026-10-25 530（+0）
 
 
 ---

@@ -46,12 +46,12 @@ homelab-core 插件的 monorepo，以 Claude Code 插件形式（并镜像到 Co
 ```mermaid
 xychart-beta
     title "jmagar/claude-homelab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
     y-axis "stars" 83 --> 87
     line [84, 86, 86]
 ```
 
-2026-10-18 84 → 2026-10-24 86（+2）
+2026-10-18 84 → 2026-10-25 86（+2）
 
 
 ---

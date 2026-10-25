@@ -43,13 +43,13 @@ Desktop Commander 的官方远程 MCP 服务器（托管服务，非开源），
 
 ```mermaid
 xychart-beta
-    title "desktop-commander/remote-desktop-commander 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 174 --> 191
-    line [175, 181, 187, 189, 190]
+    title "desktop-commander/remote-desktop-commander 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 174 --> 192
+    line [175, 181, 187, 189, 190, 191]
 ```
 
-2026-10-18 175 → 2026-10-24 190（+15）
+2026-10-18 175 → 2026-10-25 191（+16）
 
 
 ---

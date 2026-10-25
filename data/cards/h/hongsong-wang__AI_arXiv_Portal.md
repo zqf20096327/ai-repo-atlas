@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hongsong-wang/AI_arXiv_Portal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "hongsong-wang/AI_arXiv_Portal 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 61 --> 65
-    line [62, 63, 64]
+    line [62, 63, 64, 64]
 ```
 
-2026-10-18 62 → 2026-10-24 64（+2）
+2026-10-18 62 → 2026-10-25 64（+2）
 
 
 ---

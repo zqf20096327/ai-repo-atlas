@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jasonkang14/inflearn-langgraph-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 50 --> 53
+    line [51, 52]
 ```
 
-2026-10-18 51 → 2026-10-24 51（+0）
+2026-10-18 51 → 2026-10-25 52（+1）
 
 
 ---

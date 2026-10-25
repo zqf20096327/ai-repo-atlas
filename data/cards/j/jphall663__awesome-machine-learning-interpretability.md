@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "jphall663/awesome-machine-learning-interpretability 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    title "jphall663/awesome-machine-learning-interpretability 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 4073 --> 4077
-    line [4074, 4075, 4076]
+    line [4074, 4075, 4076, 4076]
 ```
 
-2026-10-18 4,074 → 2026-10-24 4,076（+2）
+2026-10-18 4,074 → 2026-10-25 4,076（+2）
 
 
 ---

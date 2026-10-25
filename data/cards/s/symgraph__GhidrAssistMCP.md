@@ -45,13 +45,13 @@ Ghidra 扩展，内嵌 Model Context Protocol 服务器（官方 SDK 实现，SS
 
 ```mermaid
 xychart-beta
-    title "symgraph/GhidrAssistMCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "symgraph/GhidrAssistMCP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 775 --> 781
-    line [776, 777, 779, 780]
+    line [776, 777, 779, 780, 780]
 ```
 
-2026-10-18 776 → 2026-10-24 780（+4）
+2026-10-18 776 → 2026-10-25 780（+4）
 
 
 ---

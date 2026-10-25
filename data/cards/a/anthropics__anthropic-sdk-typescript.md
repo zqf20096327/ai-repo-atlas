@@ -44,13 +44,13 @@ Anthropic 官方维护的 TypeScript/JavaScript SDK，供服务端应用访问 C
 
 ```mermaid
 xychart-beta
-    title "anthropics/anthropic-sdk-typescript 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 2143 --> 2151
-    line [2144, 2145, 2148, 2149, 2150]
+    title "anthropics/anthropic-sdk-typescript 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 2143 --> 2154
+    line [2144, 2145, 2148, 2149, 2150, 2153]
 ```
 
-2026-10-18 2,144 → 2026-10-24 2,150（+6）
+2026-10-18 2,144 → 2026-10-25 2,153（+9）
 
 
 ---

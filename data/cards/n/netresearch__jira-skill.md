@@ -46,12 +46,12 @@ Netresearch 维护的 Agent Skills 插件，含两个技能：jira-communication
 ```mermaid
 xychart-beta
     title "netresearch/jira-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
     y-axis "stars" 87 --> 90
-    line [89, 88, 88]
+    line [89, 88, 89]
 ```
 
-2026-10-18 89 → 2026-10-24 88（-1）
+2026-10-18 89 → 2026-10-25 89（+0）
 
 
 ---

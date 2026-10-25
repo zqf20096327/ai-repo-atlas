@@ -45,12 +45,12 @@ Flyte 2 SDK 用 async/await 语法在纯 Python 中定义和运行类型安全�
 ```mermaid
 xychart-beta
     title "flyteorg/flyte-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 128 --> 130
     line [129, 129]
 ```
 
-2026-10-18 129 → 2026-10-24 129（+0）
+2026-10-18 129 → 2026-10-25 129（+0）
 
 
 ---

@@ -45,13 +45,13 @@ llama.cpp 的 fork，新增 llama-abliterate 运行时：对每个被判定为�
 
 ```mermaid
 xychart-beta
-    title "heterodoxin/AbliteratedOutTheBox 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 22 --> 46
-    line [24, 44]
+    title "heterodoxin/AbliteratedOutTheBox 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 20 --> 69
+    line [24, 44, 65]
 ```
 
-2026-10-23 24 → 2026-10-24 44（+20）
+2026-10-23 24 → 2026-10-25 65（+41）
 
 
 ---

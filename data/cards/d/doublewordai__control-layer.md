@@ -45,12 +45,12 @@ Doubleword 维护的开源 AI 模型网关（dwctl），为跨模型提供商（
 ```mermaid
 xychart-beta
     title "doublewordai/control-layer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-18 96 → 2026-10-24 96（+0）
+2026-10-18 96 → 2026-10-25 96（+0）
 
 
 ---

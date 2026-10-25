@@ -45,13 +45,13 @@ LayerFS 为每个 agent 提供挂载于共享提交历史之上的完整可写 W
 
 ```mermaid
 xychart-beta
-    title "Ephemeral-AI-Lab/layerfs 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 1900 --> 2000
-    line [1908, 1992]
+    title "Ephemeral-AI-Lab/layerfs 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 1896 --> 2046
+    line [1908, 1992, 2034]
 ```
 
-2026-10-23 1,908 → 2026-10-24 1,992（+84）
+2026-10-23 1,908 → 2026-10-25 2,034（+126）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tiramisu-Compiler/tiramisu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "Tiramisu-Compiler/tiramisu 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 961 --> 964
-    line [962, 963]
+    line [962, 963, 963]
 ```
 
-2026-10-18 962 → 2026-10-24 963（+1）
+2026-10-18 962 → 2026-10-25 963（+1）
 
 
 ---

@@ -38,6 +38,18 @@
 
 > L1: Xcode/SwiftUI projects and smple Swift files for my YouTube tutorials and Medium posts.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "amosgyamfi/agent_built_swiftui_apps 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 62 --> 64
+    line [63, 63]
+```
+
+2026-10-24 63 → 2026-10-25 63（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 low · 依据 README sha `0be5d6f04a6d` · [字段定义](../../DATASET.md)*

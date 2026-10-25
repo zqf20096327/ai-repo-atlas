@@ -46,13 +46,13 @@ Rust/Electron 桌面应用，含内置 Fuigo 引擎：以单一命令中心驱�
 
 ```mermaid
 xychart-beta
-    title "FerroxLabs/wayland 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "FerroxLabs/wayland 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 612 --> 615
-    line [613, 614]
+    line [613, 614, 614]
 ```
 
-2026-10-18 613 → 2026-10-24 614（+1）
+2026-10-18 613 → 2026-10-25 614（+1）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/knowledge-agent-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "vercel-labs/knowledge-agent-template 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1068 --> 1073
-    line [1069, 1071, 1072]
+    line [1069, 1071, 1072, 1072]
 ```
 
-2026-10-18 1,069 → 2026-10-24 1,072（+3）
+2026-10-18 1,069 → 2026-10-25 1,072（+3）
 
 
 ---

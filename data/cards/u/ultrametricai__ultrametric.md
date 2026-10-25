@@ -42,6 +42,18 @@
 > L16: ├── open-lore/ founder advice and stories, who said it, the reading library
 > L33: We've looked at all the tools and vendors needed for founders to start and operate their company. Vendors are then 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ultrametricai/ultrametric 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 46 --> 55
+    line [47, 54]
+```
+
+2026-10-24 47 → 2026-10-25 54（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `59759faf3c73` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "UditAkhourii/neuroarxiv 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "UditAkhourii/neuroarxiv 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 435 --> 438
-    line [436, 437]
+    line [436, 437, 437]
 ```
 
-2026-10-18 436 → 2026-10-24 437（+1）
+2026-10-18 436 → 2026-10-25 437（+1）
 
 
 ---

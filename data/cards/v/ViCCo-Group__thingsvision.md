@@ -46,12 +46,12 @@ Python 包 thingsvision，提供从多种计算机视觉模型（torchvision、K
 ```mermaid
 xychart-beta
     title "ViCCo-Group/thingsvision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 179 --> 181
     line [180, 180]
 ```
 
-2026-10-18 180 → 2026-10-24 180（+0）
+2026-10-18 180 → 2026-10-25 180（+0）
 
 
 ---

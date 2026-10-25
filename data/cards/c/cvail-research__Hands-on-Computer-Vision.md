@@ -45,12 +45,12 @@ Hands-on Computer Vision 是一个由学生研究小组（semillero）维护的�
 ```mermaid
 xychart-beta
     title "cvail-research/Hands-on-Computer-Vision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-24 60（+0）
+2026-10-18 60 → 2026-10-25 60（+0）
 
 
 ---

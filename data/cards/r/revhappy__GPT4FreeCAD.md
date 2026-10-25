@@ -47,12 +47,12 @@ FreeCAD 插件，把英文描述经 LLM（Gemini/OpenAI/Claude/Grok/OpenRouter �
 ```mermaid
 xychart-beta
     title "revhappy/GPT4FreeCAD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    y-axis "stars" 66 --> 70
+    line [67, 68, 69]
 ```
 
-2026-10-18 67 → 2026-10-24 68（+1）
+2026-10-18 67 → 2026-10-25 69（+2）
 
 
 ---

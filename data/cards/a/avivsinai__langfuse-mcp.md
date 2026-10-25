@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "avivsinai/langfuse-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "avivsinai/langfuse-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 111 --> 114
-    line [113, 112]
+    line [113, 112, 112]
 ```
 
-2026-10-18 113 → 2026-10-24 112（-1）
+2026-10-18 113 → 2026-10-25 112（-1）
 
 
 ---

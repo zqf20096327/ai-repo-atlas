@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnubhavChaturvedi-GitHub/jarvis-ai-assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 362 --> 369
-    line [363, 365, 367, 368]
+    title "AnubhavChaturvedi-GitHub/jarvis-ai-assistant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 362 --> 370
+    line [363, 365, 367, 368, 369]
 ```
 
-2026-10-18 363 → 2026-10-24 368（+5）
+2026-10-18 363 → 2026-10-25 369（+6）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pju-hoge/a-letter-to-junior-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 47 --> 67
-    line [48, 49, 66]
+    title "pju-hoge/a-letter-to-junior-agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 45 --> 82
+    line [48, 49, 66, 79]
 ```
 
-2026-10-18 48 → 2026-10-24 66（+18）
+2026-10-18 48 → 2026-10-25 79（+31）
 
 
 ---

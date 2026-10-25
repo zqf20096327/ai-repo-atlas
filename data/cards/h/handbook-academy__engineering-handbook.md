@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "handbook-academy/engineering-handbook 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 829 --> 844
-    line [830, 833, 843]
+    title "handbook-academy/engineering-handbook 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 829 --> 847
+    line [830, 833, 843, 846]
 ```
 
-2026-10-22 830 → 2026-10-24 843（+13）
+2026-10-22 830 → 2026-10-25 846（+16）
 
 
 ---

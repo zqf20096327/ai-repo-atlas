@@ -44,13 +44,13 @@ ICCV 2023 论文 Anti-DreamBooth 的官方 PyTorch 实现：在用户发布照�
 
 ```mermaid
 xychart-beta
-    title "VinAIResearch/Anti-DreamBooth 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 310 --> 313
-    line [311, 312]
+    title "VinAIResearch/Anti-DreamBooth 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 310 --> 314
+    line [311, 312, 313]
 ```
 
-2026-10-18 311 → 2026-10-24 312（+1）
+2026-10-18 311 → 2026-10-25 313（+2）
 
 
 ---

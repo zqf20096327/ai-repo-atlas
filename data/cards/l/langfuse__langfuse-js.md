@@ -44,13 +44,13 @@ Langfuse 的 JS/TS 客户端库 monorepo，含 7 个 npm 包：通用 API 客户
 
 ```mermaid
 xychart-beta
-    title "langfuse/langfuse-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 173 --> 176
-    line [175, 174]
+    title "langfuse/langfuse-js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 172 --> 176
+    line [175, 174, 173]
 ```
 
-2026-10-18 175 → 2026-10-24 174（-1）
+2026-10-18 175 → 2026-10-25 173（-2）
 
 
 ---

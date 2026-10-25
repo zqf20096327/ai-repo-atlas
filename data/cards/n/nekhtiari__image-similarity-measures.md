@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nekhtiari/image-similarity-measures 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    title "nekhtiari/image-similarity-measures 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 646 --> 650
-    line [647, 648, 649]
+    line [647, 648, 649, 649]
 ```
 
-2026-10-18 647 → 2026-10-24 649（+2）
+2026-10-18 647 → 2026-10-25 649（+2）
 
 
 ---

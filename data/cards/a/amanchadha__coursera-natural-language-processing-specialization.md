@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "amanchadha/coursera-natural-language-processing-specialization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 375 --> 377
     line [376, 376]
 ```
 
-2026-10-18 376 → 2026-10-24 376（+0）
+2026-10-18 376 → 2026-10-25 376（+0）
 
 
 ---

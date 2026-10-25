@@ -45,12 +45,12 @@ LangChain 官方维护的 Claude Code 插件：把每轮对话、工具调用输
 ```mermaid
 xychart-beta
     title "langchain-ai/langsmith-claude-code-plugins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
     y-axis "stars" 71 --> 74
     line [73, 72, 72]
 ```
 
-2026-10-18 73 → 2026-10-24 72（-1）
+2026-10-18 73 → 2026-10-25 72（-1）
 
 
 ---

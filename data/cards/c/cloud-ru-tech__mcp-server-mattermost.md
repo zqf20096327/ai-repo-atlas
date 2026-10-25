@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cloud-ru-tech/mcp-server-mattermost 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "cloud-ru-tech/mcp-server-mattermost 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 47 --> 50
-    line [48, 49]
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-10-24 49（+1）
+2026-10-18 48 → 2026-10-25 49（+1）
 
 
 ---

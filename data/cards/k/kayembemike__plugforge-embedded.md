@@ -46,12 +46,12 @@ Plumb-Link 是一个面向嵌入式 Linux 开发的可插拔 AI 技能集框架�
 ```mermaid
 xychart-beta
     title "kayembemike/plugforge-embedded 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-24 53（+0）
+2026-10-18 53 → 2026-10-25 53（+0）
 
 
 ---

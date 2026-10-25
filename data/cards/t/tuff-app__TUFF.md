@@ -42,6 +42,18 @@ SwiftUI 桌面应用加自研 Swift/Metal 推理引擎，在 Apple Silicon Mac �
 > L20: Air.** TUFF keeps a mixture-of-experts model's experts on the SSD and reads
 > L51: - **Chat** with reasoning, Markdown, math, and image and file attachments.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tuff-app/TUFF 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 59 --> 62
+    line [61, 60]
+```
+
+2026-10-24 61 → 2026-10-25 60（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `5deda4a12275` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ Supermodel CLI 将仓库上传至 Supermodel API 构建完整调用图，在每�
 ```mermaid
 xychart-beta
     title "supermodeltools/cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 93 --> 95
     line [94, 94]
 ```
 
-2026-10-18 94 → 2026-10-24 94（+0）
+2026-10-18 94 → 2026-10-25 94（+0）
 
 
 ---

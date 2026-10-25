@@ -44,13 +44,13 @@ Mongoku 是一个用 TypeScript/Node.js/SvelteKit 构建的 MongoDB Web 客户�
 
 ```mermaid
 xychart-beta
-    title "huggingface/Mongoku 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "huggingface/Mongoku 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1426 --> 1429
-    line [1428, 1427]
+    line [1428, 1427, 1427]
 ```
 
-2026-10-18 1,428 → 2026-10-24 1,427（-1）
+2026-10-18 1,428 → 2026-10-25 1,427（-1）
 
 
 ---

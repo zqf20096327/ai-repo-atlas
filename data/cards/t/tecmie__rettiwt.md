@@ -45,12 +45,12 @@ XIMS（X-Interactive Media Simulation）是一个基于 Next.js 的 Twitter 模�
 ```mermaid
 xychart-beta
     title "tecmie/rettiwt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 81 --> 84
-    line [83, 82, 82]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    y-axis "stars" 74 --> 84
+    line [83, 82, 75]
 ```
 
-2026-10-18 83 → 2026-10-24 82（-1）
+2026-10-18 83 → 2026-10-25 75（-8）
 
 
 ---

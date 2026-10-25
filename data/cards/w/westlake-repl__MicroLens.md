@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "westlake-repl/MicroLens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 308 --> 311
-    line [309, 310]
+    title "westlake-repl/MicroLens 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 308 --> 312
+    line [309, 310, 311]
 ```
 
-2026-10-18 309 → 2026-10-24 310（+1）
+2026-10-18 309 → 2026-10-25 311（+2）
 
 
 ---

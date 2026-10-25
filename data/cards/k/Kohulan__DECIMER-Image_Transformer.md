@@ -45,13 +45,13 @@ DECIMER Image Transformer 面向光学化学结构识别（OCSR）任务：使�
 
 ```mermaid
 xychart-beta
-    title "Kohulan/DECIMER-Image_Transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "Kohulan/DECIMER-Image_Transformer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 412 --> 415
-    line [413, 414]
+    line [413, 414, 414]
 ```
 
-2026-10-18 413 → 2026-10-24 414（+1）
+2026-10-18 413 → 2026-10-25 414（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guy-hartstein/company-research-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "guy-hartstein/company-research-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 2301 --> 2304
-    line [2302, 2303]
+    line [2302, 2303, 2303]
 ```
 
-2026-10-18 2,302 → 2026-10-24 2,303（+1）
+2026-10-18 2,302 → 2026-10-25 2,303（+1）
 
 
 ---

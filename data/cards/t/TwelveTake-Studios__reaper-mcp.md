@@ -45,13 +45,13 @@ Model Context Protocol 服务器，供 MCP 兼容的 AI 助手操作 REAPER 数�
 
 ```mermaid
 xychart-beta
-    title "TwelveTake-Studios/reaper-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 81 --> 93
-    line [82, 83, 84, 88, 92]
+    title "TwelveTake-Studios/reaper-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 81 --> 95
+    line [82, 83, 84, 88, 92, 94]
 ```
 
-2026-10-18 82 → 2026-10-24 92（+10）
+2026-10-18 82 → 2026-10-25 94（+12）
 
 
 ---

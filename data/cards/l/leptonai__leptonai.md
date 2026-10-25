@@ -44,13 +44,13 @@ LeptonAI 官方的 Python SDK 与命令行工具，用于从 Python 和终端管
 
 ```mermaid
 xychart-beta
-    title "leptonai/leptonai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "leptonai/leptonai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 2823 --> 2826
-    line [2824, 2825]
+    line [2824, 2825, 2825]
 ```
 
-2026-10-18 2,824 → 2026-10-24 2,825（+1）
+2026-10-18 2,824 → 2026-10-25 2,825（+1）
 
 
 ---

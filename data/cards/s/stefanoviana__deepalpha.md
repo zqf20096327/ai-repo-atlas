@@ -46,12 +46,12 @@ Python 编写的加密货币量化交易系统，通过 ccxt 接入 Bybit、Bina
 ```mermaid
 xychart-beta
     title "stefanoviana/deepalpha 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-24 50（+0）
+2026-10-18 50 → 2026-10-25 50（+0）
 
 
 ---

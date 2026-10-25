@@ -1,1 +1,75 @@
-{"fn": "video-db/agent-toolkit", "sha": "c2202b36508d", "source": "readme", "identity": {"one_liner": "为 LLM/Agent 提供 VideoDB 上下文的工具包（llms.txt + MCP）", "review": "VideoDB 官方的 Agent 工具包，将 VideoDB 的 SDK 结构、文档摘要与示例打包为 LLM 上下文文件（llms.txt 轻量元数据、llms-full.txt 完整上下文）与 MCP Server，供 Cursor、Claude Code 等 AI IDE 与对话 Agent 接入。上下文由 GitHub Actions 自动生成与更新（Sphinx 生成 SDK 文档、FireCrawl 抓取并 LLM 摘要、Notebook 转示例），通过 config.yaml 集中配置包含/排除模式与自定义摘要 prompt。MCP Server 经 uvx 运行，需提供 VIDEODB API key。", "highlights": ["llms.txt / llms-full.txt 两级 LLM 上下文文件", "MCP Server 经 uvx 运行（videodb-director-mcp）", "GitHub Actions 自动同步 SDK 版本、文档与示例", "config.yaml 支持包含/排除模式与自定义 LLM 摘要 prompt"], "use_cases": ["在 Cursor/Claude Code 等 AI IDE 中接入 VideoDB 能力", "为基于 VideoDB 的 Agent 提供最新 SDK 上下文", "按 llms.txt 规范暴露产品元数据供 LLM 发现"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "llms.txt", "上下文工程", "视频数据/AI视频", "开发者工具"], "domain": "LLM 基础设施/上下文工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L20: The VideoDB Agent Toolkit exposes VideoDB context to LLMs and agents. It enables integration to AI-driven IDEs like Curs", "L60: The VideoDB MCP Server connects with the Director backend framework, providing a single tool for many workflows. For dev"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-24", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "video-db/agent-toolkit",
+ "sha": "c2202b36508d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 LLM/Agent 提供 VideoDB 上下文的工具包（llms.txt + MCP）",
+  "review": "VideoDB 官方的 Agent 工具包，将 VideoDB 的 SDK 结构、文档摘要与示例打包为 LLM 上下文文件（llms.txt 轻量元数据、llms-full.txt 完整上下文）与 MCP Server，供 Cursor、Claude Code 等 AI IDE 与对话 Agent 接入。上下文由 GitHub Actions 自动生成与更新（Sphinx 生成 SDK 文档、FireCrawl 抓取并 LLM 摘要、Notebook 转示例），通过 config.yaml 集中配置包含/排除模式与自定义摘要 prompt。MCP Server 经 uvx 运行，需提供 VIDEODB API key。",
+  "highlights": [
+   "llms.txt / llms-full.txt 两级 LLM 上下文文件",
+   "MCP Server 经 uvx 运行（videodb-director-mcp）",
+   "GitHub Actions 自动同步 SDK 版本、文档与示例",
+   "config.yaml 支持包含/排除模式与自定义 LLM 摘要 prompt"
+  ],
+  "use_cases": [
+   "在 Cursor/Claude Code 等 AI IDE 中接入 VideoDB 能力",
+   "为基于 VideoDB 的 Agent 提供最新 SDK 上下文",
+   "按 llms.txt 规范暴露产品元数据供 LLM 发现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "llms.txt",
+   "上下文工程",
+   "视频数据/AI视频",
+   "开发者工具"
+  ],
+  "domain": "LLM 基础设施/上下文工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: The VideoDB Agent Toolkit exposes VideoDB context to LLMs and agents. It enables integration to AI-driven IDEs like Curs",
+   "L60: The VideoDB MCP Server connects with the Director backend framework, providing a single tool for many workflows. For dev"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

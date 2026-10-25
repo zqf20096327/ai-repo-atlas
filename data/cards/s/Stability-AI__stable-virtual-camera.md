@@ -43,13 +43,13 @@ Stability AI 与牛津、UC Berkeley 合作发布的通用扩散模型 Stable Vi
 
 ```mermaid
 xychart-beta
-    title "Stability-AI/stable-virtual-camera 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "Stability-AI/stable-virtual-camera 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1668 --> 1671
-    line [1669, 1670, 1669, 1670]
+    line [1669, 1670, 1669, 1670, 1670]
 ```
 
-2026-10-18 1,669 → 2026-10-24 1,670（+1）
+2026-10-18 1,669 → 2026-10-25 1,670（+1）
 
 
 ---

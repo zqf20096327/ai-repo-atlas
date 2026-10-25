@@ -45,12 +45,12 @@ Weaviate 维护的示例仓库，以 Jupyter notebook 形式提供端到端用�
 ```mermaid
 xychart-beta
     title "weaviate/recipes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 949 --> 951
     line [950, 950]
 ```
 
-2026-10-18 950 → 2026-10-24 950（+0）
+2026-10-18 950 → 2026-10-25 950（+0）
 
 
 ---

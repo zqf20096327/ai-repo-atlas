@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aaronsb/obsidian-mcp-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "aaronsb/obsidian-mcp-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 465 --> 468
-    line [466, 467]
+    line [466, 467, 467]
 ```
 
-2026-10-18 466 → 2026-10-24 467（+1）
+2026-10-18 466 → 2026-10-25 467（+1）
 
 
 ---

@@ -44,13 +44,13 @@ Isaac ROS Pose Estimation 提供 isaac_ros_foundationpose、isaac_ros_dope、isa
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 509 --> 516
-    line [510, 511, 514, 515]
+    line [510, 511, 514, 515, 515]
 ```
 
-2026-10-18 510 → 2026-10-24 515（+5）
+2026-10-18 510 → 2026-10-25 515（+5）
 
 
 ---

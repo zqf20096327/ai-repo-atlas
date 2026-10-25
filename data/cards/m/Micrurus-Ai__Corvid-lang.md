@@ -47,12 +47,12 @@ Corvid 是一门通用编程语言，将 agent、tool、prompt、approve、模�
 ```mermaid
 xychart-beta
     title "Micrurus-Ai/Corvid-lang 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 257 --> 259
     line [258, 258]
 ```
 
-2026-10-18 258 → 2026-10-24 258（+0）
+2026-10-18 258 → 2026-10-25 258（+0）
 
 
 ---

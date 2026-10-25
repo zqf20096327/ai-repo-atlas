@@ -45,12 +45,12 @@ Torch Spatiotemporal（tsl）是基于 PyTorch、PyG 与 PyTorch Lightning 构�
 ```mermaid
 xychart-beta
     title "TorchSpatiotemporal/tsl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 387 --> 389
     line [388, 388]
 ```
 
-2026-10-18 388 → 2026-10-24 388（+0）
+2026-10-18 388 → 2026-10-25 388（+0）
 
 
 ---

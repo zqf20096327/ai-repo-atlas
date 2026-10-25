@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "javifalces/HFTFramework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "javifalces/HFTFramework 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 307 --> 310
-    line [308, 309]
+    line [308, 309, 309]
 ```
 
-2026-10-18 308 → 2026-10-24 309（+1）
+2026-10-18 308 → 2026-10-25 309（+1）
 
 
 ---

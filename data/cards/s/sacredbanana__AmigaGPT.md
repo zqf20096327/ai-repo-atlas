@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sacredbanana/AmigaGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "sacredbanana/AmigaGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 78 --> 81
-    line [79, 80]
+    line [79, 80, 80]
 ```
 
-2026-10-18 79 → 2026-10-24 80（+1）
+2026-10-18 79 → 2026-10-25 80（+1）
 
 
 ---

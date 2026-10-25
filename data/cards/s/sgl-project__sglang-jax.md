@@ -45,13 +45,13 @@ sgl-project 维护的 LLM 推理引擎，基于 JAX 并针对 Google TPU 优化�
 
 ```mermaid
 xychart-beta
-    title "sgl-project/sglang-jax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "sgl-project/sglang-jax 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 365 --> 368
-    line [366, 367]
+    line [366, 367, 367]
 ```
 
-2026-10-18 366 → 2026-10-24 367（+1）
+2026-10-18 366 → 2026-10-25 367（+1）
 
 
 ---

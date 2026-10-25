@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aliyun/alibaba-cloud-ops-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "aliyun/alibaba-cloud-ops-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 131 --> 134
-    line [132, 133]
+    line [132, 133, 133]
 ```
 
-2026-10-18 132 → 2026-10-24 133（+1）
+2026-10-18 132 → 2026-10-25 133（+1）
 
 
 ---

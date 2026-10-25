@@ -45,13 +45,13 @@ Nous Research 维护的 Hermes Agent 第一方插件仓库，覆盖 Home Assista
 
 ```mermaid
 xychart-beta
-    title "NousResearch/hermes-official-plugins 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 305 --> 397
-    line [312, 325, 354, 376, 390]
+    title "NousResearch/hermes-official-plugins 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 298 --> 475
+    line [312, 325, 354, 376, 390, 461]
 ```
 
-2026-10-18 312 → 2026-10-24 390（+78）
+2026-10-18 312 → 2026-10-25 461（+149）
 
 
 ---

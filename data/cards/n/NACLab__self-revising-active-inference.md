@@ -45,12 +45,12 @@ ICRA 2025 论文 SR-AIF 的官方实现：在部分可观测、连续动作、�
 ```mermaid
 xychart-beta
     title "NACLab/self-revising-active-inference 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-10-24 65（+0）
+2026-10-18 65 → 2026-10-25 65（+0）
 
 
 ---

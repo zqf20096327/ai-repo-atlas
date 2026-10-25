@@ -46,12 +46,12 @@ FormForge 是一个 Python + OpenCV 的实时姿态分析引擎：在普通 CPU 
 ```mermaid
 xychart-beta
     title "vbszbdrup/Pose-Angle-Coach 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-24 56（+0）
+2026-10-18 56 → 2026-10-25 56（+0）
 
 
 ---

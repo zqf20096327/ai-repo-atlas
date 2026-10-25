@@ -45,12 +45,12 @@ pyclustertend 是专注聚类倾向评估的 Python 包：判断对给定数据�
 ```mermaid
 xychart-beta
     title "lachhebo/pyclustertend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-24 50（+0）
+2026-10-18 50 → 2026-10-25 50（+0）
 
 
 ---

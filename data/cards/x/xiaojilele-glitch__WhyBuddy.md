@@ -45,13 +45,13 @@ SlideRule（中文名面团 AI）是一个产品推演引擎：输入一句话�
 
 ```mermaid
 xychart-beta
-    title "xiaojilele-glitch/WhyBuddy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 371 --> 374
-    line [372, 373]
+    title "xiaojilele-glitch/WhyBuddy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 371 --> 377
+    line [372, 373, 376]
 ```
 
-2026-10-18 372 → 2026-10-24 373（+1）
+2026-10-18 372 → 2026-10-25 376（+4）
 
 
 ---

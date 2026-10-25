@@ -44,13 +44,13 @@ Alteryx 维护的 Python 库，通过 Deep Feature Synthesis（DFS）算法从�
 
 ```mermaid
 xychart-beta
-    title "alteryx/featuretools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "alteryx/featuretools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 7686 --> 7689
-    line [7688, 7687]
+    line [7688, 7687, 7687]
 ```
 
-2026-10-18 7,688 → 2026-10-24 7,687（-1）
+2026-10-18 7,688 → 2026-10-25 7,687（-1）
 
 
 ---

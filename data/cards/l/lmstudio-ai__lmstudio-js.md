@@ -44,13 +44,13 @@ LM Studio 官方维护的 JavaScript/TypeScript 客户端 SDK，通过 LM Studio
 
 ```mermaid
 xychart-beta
-    title "lmstudio-ai/lmstudio-js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 1794 --> 1801
-    line [1795, 1798, 1800]
+    title "lmstudio-ai/lmstudio-js 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 1794 --> 1802
+    line [1795, 1798, 1800, 1801]
 ```
 
-2026-10-18 1,795 → 2026-10-24 1,800（+5）
+2026-10-18 1,795 → 2026-10-25 1,801（+6）
 
 
 ---

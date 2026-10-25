@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/hf_transfer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "huggingface/hf_transfer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 581 --> 584
-    line [582, 583]
+    line [582, 583, 582]
 ```
 
-2026-10-18 582 → 2026-10-24 583（+1）
+2026-10-18 582 → 2026-10-25 582（+0）
 
 
 ---

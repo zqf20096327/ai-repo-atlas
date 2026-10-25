@@ -45,12 +45,12 @@ Awesome 风格的论文聚合清单，收录从社会科学视角评测与对齐
 ```mermaid
 xychart-beta
     title "ValueByte-AI/Awesome-LLM-in-Social-Science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 651 --> 653
     line [652, 652]
 ```
 
-2026-10-18 652 → 2026-10-24 652（+0）
+2026-10-18 652 → 2026-10-25 652（+0）
 
 
 ---

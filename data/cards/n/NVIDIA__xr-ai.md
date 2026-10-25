@@ -45,13 +45,13 @@ NVIDIA 维护的 XR AI 框架：将 Web、Android、iOS/visionOS 与原生客户
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/xr-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 96 --> 99
-    line [97, 98]
+    title "NVIDIA/xr-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 96 --> 100
+    line [97, 98, 99]
 ```
 
-2026-10-18 97 → 2026-10-24 98（+1）
+2026-10-18 97 → 2026-10-25 99（+2）
 
 
 ---

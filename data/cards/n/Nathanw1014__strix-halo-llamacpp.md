@@ -44,13 +44,13 @@ llama.cpp 的下游分叉，为 AMD Strix Halo（Ryzen AI Max+ 395 / gfx1151）�
 
 ```mermaid
 xychart-beta
-    title "Nathanw1014/strix-halo-llamacpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "Nathanw1014/strix-halo-llamacpp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 215 --> 219
-    line [216, 217, 218]
+    line [216, 217, 218, 218]
 ```
 
-2026-10-18 216 → 2026-10-24 218（+2）
+2026-10-18 216 → 2026-10-25 218（+2）
 
 
 ---

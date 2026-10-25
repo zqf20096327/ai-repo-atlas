@@ -44,12 +44,12 @@ npm 包 prompt-lists，内容为按类别组织的名词列表（如 animal.mamm
 ```mermaid
 xychart-beta
     title "ai-prompts/prompt-lists 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-18 82 → 2026-10-24 82（+0）
+2026-10-18 82 → 2026-10-25 82（+0）
 
 
 ---

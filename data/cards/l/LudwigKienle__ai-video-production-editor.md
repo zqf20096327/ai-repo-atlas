@@ -45,13 +45,13 @@ Electron + React 构建的桌面应用（GPL-3.0），把 AI 视频制作流程�
 
 ```mermaid
 xychart-beta
-    title "LudwigKienle/ai-video-production-editor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "LudwigKienle/ai-video-production-editor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 58 --> 149
-    line [65, 68, 140, 142]
+    line [65, 68, 140, 142, 142]
 ```
 
-2026-10-18 65 → 2026-10-24 142（+77）
+2026-10-18 65 → 2026-10-25 142（+77）
 
 
 ---

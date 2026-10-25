@@ -46,13 +46,13 @@ Ludic Dynamics 开发的多 agent 角色扮演模拟引擎：世界由 world-age
 
 ```mermaid
 xychart-beta
-    title "LudicDynamics/WorldLines 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 96 --> 102
-    line [97, 98, 99, 101]
+    title "LudicDynamics/WorldLines 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 96 --> 103
+    line [97, 98, 99, 101, 102]
 ```
 
-2026-10-18 97 → 2026-10-24 101（+4）
+2026-10-18 97 → 2026-10-25 102（+5）
 
 
 ---

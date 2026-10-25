@@ -42,6 +42,18 @@
 > L12: memory, storage, and latency budgets. Download and run models in **MFQ Studio**,
 > L13: or connect applications and agents through OpenAI- and Anthropic-compatible APIs.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Tylogi/TyloQuant 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 91 --> 93
+    line [92, 92]
+```
+
+2026-10-24 92 → 2026-10-25 92（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `2cc217445056` · [字段定义](../../DATASET.md)*

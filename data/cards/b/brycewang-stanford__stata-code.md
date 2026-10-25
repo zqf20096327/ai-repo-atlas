@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brycewang-stanford/stata-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "brycewang-stanford/stata-code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 49 --> 53
-    line [50, 51, 52]
+    line [50, 51, 52, 52]
 ```
 
-2026-10-18 50 → 2026-10-24 52（+2）
+2026-10-18 50 → 2026-10-25 52（+2）
 
 
 ---

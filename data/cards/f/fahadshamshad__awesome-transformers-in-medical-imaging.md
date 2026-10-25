@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "fahadshamshad/awesome-transformers-in-medical-imaging 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "fahadshamshad/awesome-transformers-in-medical-imaging 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1296 --> 1299
-    line [1298, 1297]
+    line [1298, 1297, 1297]
 ```
 
-2026-10-18 1,298 → 2026-10-24 1,297（-1）
+2026-10-18 1,298 → 2026-10-25 1,297（-1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent/LoopForge 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-24"]
-    y-axis "stars" 56 --> 62
-    line [57, 61]
+    title "Tencent/LoopForge 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 56 --> 64
+    line [57, 61, 63]
 ```
 
-2026-10-19 57 → 2026-10-24 61（+4）
+2026-10-19 57 → 2026-10-25 63（+6）
 
 
 ---

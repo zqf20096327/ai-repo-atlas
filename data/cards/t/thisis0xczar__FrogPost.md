@@ -46,12 +46,12 @@ Chrome 扩展，面向 Web 安全测试人员：实时捕获 iframe 间 postMess
 ```mermaid
 xychart-beta
     title "thisis0xczar/FrogPost 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 107 --> 109
     line [108, 108]
 ```
 
-2026-10-18 108 → 2026-10-24 108（+0）
+2026-10-18 108 → 2026-10-25 108（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ModelEngine-Group/unified-cache-management 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "ModelEngine-Group/unified-cache-management 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 343 --> 350
-    line [344, 348, 349]
+    line [344, 348, 349, 349]
 ```
 
-2026-10-18 344 → 2026-10-24 349（+5）
+2026-10-18 344 → 2026-10-25 349（+5）
 
 
 ---

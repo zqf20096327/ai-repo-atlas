@@ -46,12 +46,12 @@ TubeCLI 是基于 Python 3.10+/FastAPI 的自托管多 agent 系统：用户通�
 ```mermaid
 xychart-beta
     title "tubecreate/tubecli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 173 --> 175
     line [174, 174]
 ```
 
-2026-10-18 174 → 2026-10-24 174（+0）
+2026-10-18 174 → 2026-10-25 174（+0）
 
 
 ---

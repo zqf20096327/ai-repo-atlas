@@ -45,13 +45,13 @@ USENIX Security 2025 论文《Password Guessing Using Large Language Models》�
 
 ```mermaid
 xychart-beta
-    title "Tzohar/PassLLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "Tzohar/PassLLM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 124 --> 128
-    line [125, 126, 127]
+    line [125, 126, 127, 127]
 ```
 
-2026-10-18 125 → 2026-10-24 127（+2）
+2026-10-18 125 → 2026-10-25 127（+2）
 
 
 ---

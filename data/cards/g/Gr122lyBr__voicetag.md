@@ -46,12 +46,12 @@ Python 库，结合 pyannote.audio 做说话人分离、resemblyzer 计算语音
 ```mermaid
 xychart-beta
     title "Gr122lyBr/voicetag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-24 55（+0）
+2026-10-18 55 → 2026-10-25 55（+0）
 
 
 ---

@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 37293 --> 37415
-    line [37303, 37323, 37350, 37365, 37405]
+    title "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 37289 --> 37459
+    line [37303, 37323, 37350, 37365, 37405, 37445]
 ```
 
-2026-10-18 37,303 → 2026-10-24 37,405（+102）
+2026-10-18 37,303 → 2026-10-25 37,445（+142）
 
 
 ---

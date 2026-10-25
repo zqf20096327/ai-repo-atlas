@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hajimides/SD-Anima-Prompt-Studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "Hajimides/SD-Anima-Prompt-Studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 110 --> 115
-    line [111, 113, 114]
+    line [111, 113, 114, 114]
 ```
 
-2026-10-18 111 → 2026-10-24 114（+3）
+2026-10-18 111 → 2026-10-25 114（+3）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "packing-box/docker-packing-box 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "packing-box/docker-packing-box 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 66 --> 69
-    line [67, 68]
+    line [67, 68, 68]
 ```
 
-2026-10-18 67 → 2026-10-24 68（+1）
+2026-10-18 67 → 2026-10-25 68（+1）
 
 
 ---

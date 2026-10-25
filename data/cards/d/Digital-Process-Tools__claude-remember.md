@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Digital-Process-Tools/claude-remember 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "Digital-Process-Tools/claude-remember 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 199 --> 203
-    line [200, 201, 202]
+    line [200, 201, 202, 202]
 ```
 
-2026-10-18 200 → 2026-10-24 202（+2）
+2026-10-18 200 → 2026-10-25 202（+2）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "snwfdhmp/awesome-gpt-prompt-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    title "snwfdhmp/awesome-gpt-prompt-engineering 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1636 --> 1640
-    line [1637, 1638, 1639]
+    line [1637, 1638, 1639, 1639]
 ```
 
-2026-10-18 1,637 → 2026-10-24 1,639（+2）
+2026-10-18 1,637 → 2026-10-25 1,639（+2）
 
 
 ---

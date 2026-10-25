@@ -46,12 +46,12 @@ Nori Skillsets Client 是一个 npm 安装的全局 CLI，连接 noriskillsets.d
 ```mermaid
 xychart-beta
     title "tilework-tech/nori-skillsets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 169 --> 171
     line [170, 170]
 ```
 
-2026-10-18 170 → 2026-10-24 170（+0）
+2026-10-18 170 → 2026-10-25 170（+0）
 
 
 ---

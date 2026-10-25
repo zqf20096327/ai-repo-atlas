@@ -46,12 +46,12 @@ DFloat11 是面向 LLM 与扩散模型（FLUX.1、Qwen-Image、Wan2.1 等）的�
 ```mermaid
 xychart-beta
     title "LeanModels/DFloat11 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 661 --> 663
     line [662, 662]
 ```
 
-2026-10-18 662 → 2026-10-24 662（+0）
+2026-10-18 662 → 2026-10-25 662（+0）
 
 
 ---

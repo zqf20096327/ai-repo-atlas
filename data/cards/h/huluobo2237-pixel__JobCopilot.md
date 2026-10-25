@@ -44,13 +44,13 @@ Edge/Chrome 浏览器扩展（Manifest V3，原生 JavaScript），面向 BOSS �
 
 ```mermaid
 xychart-beta
-    title "huluobo2237-pixel/JobCopilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 136 --> 141
-    line [137, 138, 139, 140]
+    title "huluobo2237-pixel/JobCopilot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 136 --> 142
+    line [137, 138, 139, 140, 141]
 ```
 
-2026-10-18 137 → 2026-10-24 140（+3）
+2026-10-18 137 → 2026-10-25 141（+4）
 
 
 ---

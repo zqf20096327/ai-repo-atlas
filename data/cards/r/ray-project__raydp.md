@@ -45,12 +45,12 @@ RayDP 提供 API 将 Spark 运行于 Ray 之上（Ray 作为 Spark 资源管理�
 ```mermaid
 xychart-beta
     title "ray-project/raydp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 378 --> 380
     line [379, 379]
 ```
 
-2026-10-18 379 → 2026-10-24 379（+0）
+2026-10-18 379 → 2026-10-25 379（+0）
 
 
 ---

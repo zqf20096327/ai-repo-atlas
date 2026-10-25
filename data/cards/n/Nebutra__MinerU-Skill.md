@@ -44,13 +44,13 @@ MinerU 云端 API 之上的零配置、零依赖封装层：单个约 54KB 的�
 
 ```mermaid
 xychart-beta
-    title "Nebutra/MinerU-Skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 124 --> 127
-    line [125, 126]
+    title "Nebutra/MinerU-Skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 124 --> 128
+    line [125, 126, 127]
 ```
 
-2026-10-18 125 → 2026-10-24 126（+1）
+2026-10-18 125 → 2026-10-25 127（+2）
 
 
 ---

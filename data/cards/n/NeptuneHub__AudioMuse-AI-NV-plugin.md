@@ -44,13 +44,13 @@ Navidrome 音乐服务器插件：把 AudioMuse-AI 核心容器提供的声音�
 
 ```mermaid
 xychart-beta
-    title "NeptuneHub/AudioMuse-AI-NV-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 524 --> 536
-    line [525, 530, 534, 535]
+    title "NeptuneHub/AudioMuse-AI-NV-plugin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 524 --> 538
+    line [525, 530, 534, 535, 537]
 ```
 
-2026-10-18 525 → 2026-10-24 535（+10）
+2026-10-18 525 → 2026-10-25 537（+12）
 
 
 ---

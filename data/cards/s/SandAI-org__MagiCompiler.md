@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SandAI-org/MagiCompiler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "SandAI-org/MagiCompiler 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 333 --> 336
-    line [334, 335]
+    line [334, 335, 335]
 ```
 
-2026-10-18 334 → 2026-10-24 335（+1）
+2026-10-18 334 → 2026-10-25 335（+1）
 
 
 ---

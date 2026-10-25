@@ -44,12 +44,12 @@ Python 库，逐章实现 Marcos López de Prado《Machine Learning for Asset Ma
 ```mermaid
 xychart-beta
     title "emoen/Machine-Learning-for-Asset-Managers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
     y-axis "stars" 672 --> 675
     line [673, 674, 674]
 ```
 
-2026-10-18 673 → 2026-10-24 674（+1）
+2026-10-18 673 → 2026-10-25 674（+1）
 
 
 ---

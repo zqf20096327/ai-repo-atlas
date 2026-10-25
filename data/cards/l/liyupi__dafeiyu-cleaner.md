@@ -40,6 +40,18 @@
 > L16: **大肥鱼消除计划（dafeiyu-cleaner）**是一个免费开源的 Chrome / Edge / Firefox 浏览器插件，专门识别 B 站（Bilibili）上由 DeepSeek 等大模型、AI Agent 驱动的机
 > L144: 默认完全离线，不联网。每个账号按下面这些维度打分（0–99），默认 60 分以上判为大肥鱼，35 分以上算可疑，严格度可以在设置里调。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "liyupi/dafeiyu-cleaner 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 35 --> 68
+    line [37, 66]
+```
+
+2026-10-24 37 → 2026-10-25 66（+29）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `2f5b97763765` · [字段定义](../../DATASET.md)*

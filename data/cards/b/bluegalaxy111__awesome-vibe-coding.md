@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bluegalaxy111/awesome-vibe-coding 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 53]
+    title "bluegalaxy111/awesome-vibe-coding 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 50 --> 55
+    line [51, 52, 53, 54]
 ```
 
-2026-10-18 51 → 2026-10-24 53（+2）
+2026-10-18 51 → 2026-10-25 54（+3）
 
 
 ---

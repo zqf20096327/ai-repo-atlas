@@ -45,13 +45,13 @@ OpenAI 兼容的本地 API 网关：聚合 Google Antigravity、Ollama Cloud、O
 
 ```mermaid
 xychart-beta
-    title "tuxevil/tuxevil-rotator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 74 --> 79
-    line [75, 77, 78]
+    title "tuxevil/tuxevil-rotator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 74 --> 80
+    line [75, 77, 78, 79]
 ```
 
-2026-10-18 75 → 2026-10-24 78（+3）
+2026-10-18 75 → 2026-10-25 79（+4）
 
 
 ---

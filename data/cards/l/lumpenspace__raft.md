@@ -46,12 +46,12 @@ RAFT（Retrieval-Augmented Fine-Tuning）提供从公开写作构建对话人格
 ```mermaid
 xychart-beta
     title "lumpenspace/raft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 175 --> 177
-    line [176, 176]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 175 --> 178
+    line [176, 177]
 ```
 
-2026-10-18 176 → 2026-10-24 176（+0）
+2026-10-18 176 → 2026-10-25 177（+1）
 
 
 ---

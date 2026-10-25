@@ -45,13 +45,13 @@ ABI（Agentic Brain Infrastructure）以模块化方式组织 agent、集成连�
 
 ```mermaid
 xychart-beta
-    title "jupyter-naas/abi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "jupyter-naas/abi 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 171 --> 175
-    line [172, 173, 174]
+    line [172, 173, 174, 174]
 ```
 
-2026-10-18 172 → 2026-10-24 174（+2）
+2026-10-18 172 → 2026-10-25 174（+2）
 
 
 ---

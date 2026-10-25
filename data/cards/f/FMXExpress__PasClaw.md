@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FMXExpress/PasClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "FMXExpress/PasClaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 62 --> 65
-    line [63, 64]
+    line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-10-24 64（+1）
+2026-10-18 63 → 2026-10-25 64（+1）
 
 
 ---

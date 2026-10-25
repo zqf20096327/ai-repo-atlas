@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TheDecipherist/claude-code-mastery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 554 --> 556
-    line [555, 555]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 554 --> 557
+    line [555, 556]
 ```
 
-2026-10-18 555 → 2026-10-24 555（+0）
+2026-10-18 555 → 2026-10-25 556（+1）
 
 
 ---

@@ -44,13 +44,13 @@ Invariant Guardrails 是部署在应用与 MCP 服务器或 LLM 提供方之间�
 
 ```mermaid
 xychart-beta
-    title "invariantlabs-ai/invariant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 471 --> 474
-    line [472, 473]
+    title "invariantlabs-ai/invariant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 471 --> 475
+    line [472, 473, 474]
 ```
 
-2026-10-18 472 → 2026-10-24 473（+1）
+2026-10-18 472 → 2026-10-25 474（+2）
 
 
 ---

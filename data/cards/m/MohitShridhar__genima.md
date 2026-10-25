@@ -44,12 +44,12 @@ CoRL 2024 论文 Generative Image as Action Models 的官方复现代码：在 R
 ```mermaid
 xychart-beta
     title "MohitShridhar/genima 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-24 77（+0）
+2026-10-18 77 → 2026-10-25 77（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gotonote/Autopilot-Notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "gotonote/Autopilot-Notes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 839 --> 843
-    line [840, 842]
+    line [840, 842, 842]
 ```
 
-2026-10-18 840 → 2026-10-24 842（+2）
+2026-10-18 840 → 2026-10-25 842（+2）
 
 
 ---

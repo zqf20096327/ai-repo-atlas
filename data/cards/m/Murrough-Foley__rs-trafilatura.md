@@ -44,13 +44,13 @@ trafilatura 的 Rust 移植，从网页 HTML 中去除样板、导航与广告�
 
 ```mermaid
 xychart-beta
-    title "Murrough-Foley/rs-trafilatura 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 62 --> 67
-    line [63, 65, 66]
+    title "Murrough-Foley/rs-trafilatura 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 62 --> 68
+    line [63, 65, 66, 67]
 ```
 
-2026-10-18 63 → 2026-10-24 66（+3）
+2026-10-18 63 → 2026-10-25 67（+4）
 
 
 ---

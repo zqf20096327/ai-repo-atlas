@@ -41,6 +41,18 @@
 > L8: 36 unofficial, open-source Persian-web MCP servers for Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh2
 > L96: Every server is a small Python package on PyPI, run with `uvx`, except
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sepehr071/iran-mcp 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 146 --> 154
+    line [147, 153]
+```
+
+2026-10-24 147 → 2026-10-25 153（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `cfac18900d99` · [字段定义](../../DATASET.md)*

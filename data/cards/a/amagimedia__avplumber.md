@@ -46,13 +46,13 @@ C++ 实现的图式实时音视频处理框架，节点基于 libavcodec/libavfo
 
 ```mermaid
 xychart-beta
-    title "amagimedia/avplumber 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "amagimedia/avplumber 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 48 --> 51
-    line [49, 50]
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-10-24 50（+1）
+2026-10-18 49 → 2026-10-25 50（+1）
 
 
 ---

@@ -44,13 +44,13 @@ OpenAI 提供的 Sign in with ChatGPT 开发套件：包含本地 Node.js SDK（
 
 ```mermaid
 xychart-beta
-    title "openai/sign-in-with-chatgpt-devkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "openai/sign-in-with-chatgpt-devkit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 50 --> 62
-    line [51, 53, 56, 58, 61]
+    line [51, 53, 56, 58, 61, 61]
 ```
 
-2026-10-18 51 → 2026-10-24 61（+10）
+2026-10-18 51 → 2026-10-25 61（+10）
 
 
 ---

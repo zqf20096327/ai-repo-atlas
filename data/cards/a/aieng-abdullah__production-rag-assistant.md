@@ -46,12 +46,12 @@ GroundedAI 是一个引用核验型 RAG 问答应用：上传 PDF 后提问，�
 ```mermaid
 xychart-beta
     title "aieng-abdullah/production-rag-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 70 --> 73
-    line [72, 71, 71]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    y-axis "stars" 64 --> 73
+    line [72, 71, 65]
 ```
 
-2026-10-18 72 → 2026-10-24 71（-1）
+2026-10-18 72 → 2026-10-25 65（-7）
 
 
 ---

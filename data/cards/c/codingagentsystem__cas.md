@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "codingagentsystem/cas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 176 --> 179
-    line [178, 177]
+    title "codingagentsystem/cas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 175 --> 179
+    line [178, 177, 176]
 ```
 
-2026-10-18 178 → 2026-10-24 177（-1）
+2026-10-18 178 → 2026-10-25 176（-2）
 
 
 ---

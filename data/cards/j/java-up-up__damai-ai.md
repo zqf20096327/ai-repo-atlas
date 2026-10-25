@@ -46,12 +46,12 @@ Java 教学项目，演示 SpringAI 与 SpringBoot3 集成，支持 Ollama、Ope
 ```mermaid
 xychart-beta
     title "java-up-up/damai-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-24 66（+0）
+2026-10-18 66 → 2026-10-25 66（+0）
 
 
 ---

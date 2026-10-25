@@ -46,12 +46,12 @@ AutoMLOps 是 Google Cloud Platform 组织下的 MLOps 流水线生成与运维�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/automlops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
     y-axis "stars" 256 --> 259
     line [257, 258, 258]
 ```
 
-2026-10-18 257 → 2026-10-24 258（+1）
+2026-10-18 257 → 2026-10-25 258（+1）
 
 
 ---

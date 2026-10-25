@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pythongosssss/ComfyUI-Custom-Scripts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 3216 --> 3223
-    line [3217, 3221, 3222]
+    title "pythongosssss/ComfyUI-Custom-Scripts 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 3216 --> 3226
+    line [3217, 3221, 3222, 3225]
 ```
 
-2026-10-18 3,217 → 2026-10-24 3,222（+5）
+2026-10-18 3,217 → 2026-10-25 3,225（+8）
 
 
 ---

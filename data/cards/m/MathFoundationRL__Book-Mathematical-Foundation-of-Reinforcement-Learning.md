@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 18184 --> 18292
-    line [18193, 18230, 18262, 18270, 18283]
+    title "MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 18183 --> 18307
+    line [18193, 18230, 18262, 18270, 18283, 18297]
 ```
 
-2026-10-18 18,193 → 2026-10-24 18,283（+90）
+2026-10-18 18,193 → 2026-10-25 18,297（+104）
 
 
 ---

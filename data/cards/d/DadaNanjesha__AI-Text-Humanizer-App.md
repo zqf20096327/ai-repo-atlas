@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DadaNanjesha/AI-Text-Humanizer-App 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    title "DadaNanjesha/AI-Text-Humanizer-App 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 435 --> 439
-    line [436, 437, 438]
+    line [436, 437, 438, 438]
 ```
 
-2026-10-18 436 → 2026-10-24 438（+2）
+2026-10-18 436 → 2026-10-25 438（+2）
 
 
 ---

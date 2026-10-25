@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "luochang212/dive-into-langgraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "luochang212/dive-into-langgraph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 460 --> 465
-    line [461, 464]
+    line [461, 464, 464]
 ```
 
-2026-10-18 461 → 2026-10-24 464（+3）
+2026-10-18 461 → 2026-10-25 464（+3）
 
 
 ---

@@ -45,12 +45,12 @@ EchoesVault 的 OpenCode 适配器：将架构决策、验证过的修复、每�
 ```mermaid
 xychart-beta
     title "psinetron/echoes-vault-opencode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 157 --> 159
     line [158, 158]
 ```
 
-2026-10-18 158 → 2026-10-24 158（+0）
+2026-10-18 158 → 2026-10-25 158（+0）
 
 
 ---

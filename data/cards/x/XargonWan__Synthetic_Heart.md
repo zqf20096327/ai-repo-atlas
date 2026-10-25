@@ -45,13 +45,13 @@ FOSS 应用与框架，用于创建并会面持久化 AI 人格“Synth”：其
 
 ```mermaid
 xychart-beta
-    title "XargonWan/Synthetic_Heart 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 73 --> 78
-    line [74, 76, 77]
+    title "XargonWan/Synthetic_Heart 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 72 --> 100
+    line [74, 76, 77, 98]
 ```
 
-2026-10-18 74 → 2026-10-24 77（+3）
+2026-10-18 74 → 2026-10-25 98（+24）
 
 
 ---

@@ -46,12 +46,12 @@ NVIDIA Halos for Robotics 的一部分，为构建物理 AI 安全 agent 提供�
 ```mermaid
 xychart-beta
     title "NVIDIA/halos-outside-in-safety 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 77 --> 80
+    line [78, 79]
 ```
 
-2026-10-18 78 → 2026-10-24 78（+0）
+2026-10-18 78 → 2026-10-25 79（+1）
 
 
 ---

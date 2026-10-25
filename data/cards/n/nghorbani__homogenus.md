@@ -44,12 +44,12 @@ CVPR 2019 论文 Expressive Body Capture 的官方推理代码：输入全身人
 ```mermaid
 xychart-beta
     title "nghorbani/homogenus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 132 --> 134
     line [133, 133]
 ```
 
-2026-10-18 133 → 2026-10-24 133（+0）
+2026-10-18 133 → 2026-10-25 133（+0）
 
 
 ---

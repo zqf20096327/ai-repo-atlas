@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Emory-Melody/awesome-graph-reduction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "Emory-Melody/awesome-graph-reduction 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 188 --> 191
-    line [189, 190]
+    line [189, 190, 190]
 ```
 
-2026-10-18 189 → 2026-10-24 190（+1）
+2026-10-18 189 → 2026-10-25 190（+1）
 
 
 ---

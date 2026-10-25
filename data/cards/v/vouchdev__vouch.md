@@ -45,12 +45,12 @@ vouch 以 MCP server、JSONL tool server 与 CLI 形式提供 LLM agent 的持�
 ```mermaid
 xychart-beta
     title "vouchdev/vouch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 66 --> 73
-    line [72, 67, 67]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    y-axis "stars" 63 --> 73
+    line [72, 67, 64]
 ```
 
-2026-10-18 72 → 2026-10-24 67（-5）
+2026-10-18 72 → 2026-10-25 64（-8）
 
 
 ---

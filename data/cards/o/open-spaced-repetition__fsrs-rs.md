@@ -44,13 +44,13 @@ FSRS（Free Spaced Repetition Scheduler，源自 MaiMemo DHP 模型，DSR 模型
 
 ```mermaid
 xychart-beta
-    title "open-spaced-repetition/fsrs-rs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 444 --> 452
-    line [445, 447, 448, 450, 451]
+    title "open-spaced-repetition/fsrs-rs 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 444 --> 453
+    line [445, 447, 448, 450, 451, 452]
 ```
 
-2026-10-18 445 → 2026-10-24 451（+6）
+2026-10-18 445 → 2026-10-25 452（+7）
 
 
 ---

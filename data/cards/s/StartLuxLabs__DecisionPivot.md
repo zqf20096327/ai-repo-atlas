@@ -45,13 +45,13 @@ DecisionPivot（原名 DecideBench）是评测 LLM 系统控制点上决策模�
 
 ```mermaid
 xychart-beta
-    title "StartLuxLabs/DecisionPivot 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 0 --> 158
-    line [4, 21, 26, 144]
+    title "StartLuxLabs/DecisionPivot 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 0 --> 159
+    line [4, 21, 26, 144, 145]
 ```
 
-2026-10-19 4 → 2026-10-24 144（+140）
+2026-10-19 4 → 2026-10-25 145（+141）
 
 
 ---

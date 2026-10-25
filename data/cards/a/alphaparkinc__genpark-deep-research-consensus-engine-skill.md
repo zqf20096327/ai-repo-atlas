@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "alphaparkinc/genpark-deep-research-consensus-engine-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 7 --> 9
     line [8, 8]
 ```
 
-2026-10-18 8 → 2026-10-24 8（+0）
+2026-10-18 8 → 2026-10-25 8（+0）
 
 
 ---

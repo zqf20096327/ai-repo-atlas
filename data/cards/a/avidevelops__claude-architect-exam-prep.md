@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "avidevelops/claude-architect-exam-prep 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 585 --> 590
-    line [586, 587, 588, 589]
+    title "avidevelops/claude-architect-exam-prep 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 585 --> 591
+    line [586, 587, 588, 589, 590]
 ```
 
-2026-10-18 586 → 2026-10-24 589（+3）
+2026-10-18 586 → 2026-10-25 590（+4）
 
 
 ---

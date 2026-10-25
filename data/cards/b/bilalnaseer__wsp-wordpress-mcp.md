@@ -44,13 +44,13 @@ WordPress 的 MCP 服务端插件：安装启用后，Claude、ChatGPT、Cursor 
 
 ```mermaid
 xychart-beta
-    title "bilalnaseer/wsp-wordpress-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 63 --> 69
-    line [64, 66, 67, 68]
+    title "bilalnaseer/wsp-wordpress-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 63 --> 70
+    line [64, 66, 67, 68, 69]
 ```
 
-2026-10-18 64 → 2026-10-24 68（+4）
+2026-10-18 64 → 2026-10-25 69（+5）
 
 
 ---

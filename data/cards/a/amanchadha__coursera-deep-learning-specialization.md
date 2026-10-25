@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amanchadha/coursera-deep-learning-specialization 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 4401 --> 4407
-    line [4402, 4403, 4404, 4406]
+    title "amanchadha/coursera-deep-learning-specialization 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 4401 --> 4408
+    line [4402, 4403, 4404, 4406, 4407]
 ```
 
-2026-10-18 4,402 → 2026-10-24 4,406（+4）
+2026-10-18 4,402 → 2026-10-25 4,407（+5）
 
 
 ---

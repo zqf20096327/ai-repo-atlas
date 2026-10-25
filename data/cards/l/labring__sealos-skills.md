@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "labring/sealos-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "labring/sealos-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 81 --> 84
-    line [82, 83]
+    line [82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-10-24 83（+1）
+2026-10-18 82 → 2026-10-25 83（+1）
 
 
 ---

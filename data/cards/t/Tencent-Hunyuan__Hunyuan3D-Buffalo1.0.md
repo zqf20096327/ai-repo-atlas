@@ -44,12 +44,12 @@ Tencent Hunyuan3D 团队发布的 Hunyuan3D-Buffalo 1.0 技术报告仓库：定
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/Hunyuan3D-Buffalo1.0 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
     y-axis "stars" 258 --> 261
     line [259, 260, 260]
 ```
 
-2026-10-18 259 → 2026-10-24 260（+1）
+2026-10-18 259 → 2026-10-25 260（+1）
 
 
 ---

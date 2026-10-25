@@ -44,13 +44,13 @@ Unsloth 维护的微调与 RL Notebook 仓库：按模型（Gemma、Qwen、Llama
 
 ```mermaid
 xychart-beta
-    title "unslothai/notebooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 5742 --> 5750
-    line [5743, 5748, 5749]
+    title "unslothai/notebooks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 5742 --> 5751
+    line [5743, 5748, 5749, 5750]
 ```
 
-2026-10-18 5,743 → 2026-10-24 5,749（+6）
+2026-10-18 5,743 → 2026-10-25 5,750（+7）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "theaiautomators/claude-code-agentic-rag-masterclass 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 192 --> 194
-    line [193, 193]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 192 --> 195
+    line [193, 194]
 ```
 
-2026-10-18 193 → 2026-10-24 193（+0）
+2026-10-18 193 → 2026-10-25 194（+1）
 
 
 ---

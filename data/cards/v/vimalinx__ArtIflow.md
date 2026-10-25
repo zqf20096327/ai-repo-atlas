@@ -46,12 +46,12 @@ Kotlin + Jetpack Compose 编写的 Android 学习应用：拍照/相册上传题
 ```mermaid
 xychart-beta
     title "vimalinx/ArtIflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-24 50（+0）
+2026-10-18 50 → 2026-10-25 50（+0）
 
 
 ---

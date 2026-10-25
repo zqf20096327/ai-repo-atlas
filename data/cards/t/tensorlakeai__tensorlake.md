@@ -45,13 +45,13 @@ Tensorlake 是构建 agentic 应用的计算基础设施平台：通过 Sandbox 
 
 ```mermaid
 xychart-beta
-    title "tensorlakeai/tensorlake 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "tensorlakeai/tensorlake 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1022 --> 1026
-    line [1023, 1024, 1025]
+    line [1023, 1024, 1025, 1025]
 ```
 
-2026-10-18 1,023 → 2026-10-24 1,025（+2）
+2026-10-18 1,023 → 2026-10-25 1,025（+2）
 
 
 ---

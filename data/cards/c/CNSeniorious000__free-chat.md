@@ -44,12 +44,12 @@ Fork 自 anse-app/chatgpt-demo 的 LLM 聊天界面，提供线上站点 free-ch
 ```mermaid
 xychart-beta
     title "CNSeniorious000/free-chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 194 --> 197
-    line [196, 195, 195]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    y-axis "stars" 193 --> 197
+    line [196, 195, 194]
 ```
 
-2026-10-18 196 → 2026-10-24 195（-1）
+2026-10-18 196 → 2026-10-25 194（-2）
 
 
 ---

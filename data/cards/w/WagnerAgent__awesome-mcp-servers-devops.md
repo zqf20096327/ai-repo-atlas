@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "WagnerAgent/awesome-mcp-servers-devops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-10-24 97（+0）
+2026-10-18 97 → 2026-10-25 97（+0）
 
 
 ---

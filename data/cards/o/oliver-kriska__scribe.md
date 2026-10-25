@@ -47,12 +47,12 @@ scribe 是 Go 编写的单二进制 CLI：从 git 仓库、ccrider 索引的编�
 ```mermaid
 xychart-beta
     title "oliver-kriska/scribe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-18 66 → 2026-10-24 66（+0）
+2026-10-18 66 → 2026-10-25 67（+1）
 
 
 ---

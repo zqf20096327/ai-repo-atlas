@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BlockRunAI/blockrun-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "BlockRunAI/blockrun-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 390 --> 393
-    line [391, 392]
+    line [391, 392, 392]
 ```
 
-2026-10-18 391 → 2026-10-24 392（+1）
+2026-10-18 391 → 2026-10-25 392（+1）
 
 
 ---

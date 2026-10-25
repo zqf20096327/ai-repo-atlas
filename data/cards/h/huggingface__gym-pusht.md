@@ -45,13 +45,13 @@ Hugging Face 维护的 Gymnasium 环境，实现 PushT 推块任务：圆形 age
 
 ```mermaid
 xychart-beta
-    title "huggingface/gym-pusht 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "huggingface/gym-pusht 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 203 --> 207
-    line [204, 205, 206]
+    line [204, 205, 206, 206]
 ```
 
-2026-10-18 204 → 2026-10-24 206（+2）
+2026-10-18 204 → 2026-10-25 206（+2）
 
 
 ---

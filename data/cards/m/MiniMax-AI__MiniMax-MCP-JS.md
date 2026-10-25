@@ -44,13 +44,13 @@ MiniMax-AI 官方维护的 Model Context Protocol JavaScript/TypeScript 实现�
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/MiniMax-MCP-JS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "MiniMax-AI/MiniMax-MCP-JS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 128 --> 131
-    line [130, 129]
+    line [130, 129, 129]
 ```
 
-2026-10-18 130 → 2026-10-24 129（-1）
+2026-10-18 130 → 2026-10-25 129（-1）
 
 
 ---

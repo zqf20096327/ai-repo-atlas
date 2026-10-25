@@ -44,13 +44,13 @@ PAMI 2023 论文 TransFuser 的官方代码库，为 CVPR 2021 多模态融合 T
 
 ```mermaid
 xychart-beta
-    title "autonomousvision/transfuser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    title "autonomousvision/transfuser 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1606 --> 1610
-    line [1607, 1609, 1608]
+    line [1607, 1609, 1608, 1609]
 ```
 
-2026-10-18 1,607 → 2026-10-24 1,608（+1）
+2026-10-18 1,607 → 2026-10-25 1,609（+2）
 
 
 ---

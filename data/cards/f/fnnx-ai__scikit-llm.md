@@ -42,13 +42,13 @@ Scikit-LLM 是一个把 ChatGPT 等语言模型接入 scikit-learn 流水线的 
 
 ```mermaid
 xychart-beta
-    title "fnnx-ai/scikit-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "fnnx-ai/scikit-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 3532 --> 3535
-    line [3533, 3534]
+    line [3533, 3534, 3534]
 ```
 
-2026-10-18 3,533 → 2026-10-24 3,534（+1）
+2026-10-18 3,533 → 2026-10-25 3,534（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Georgia Tech 团队的研究项目（ISWC 2023 Best Paper Honorable Mention、IM
 ```mermaid
 xychart-beta
     title "ZikangLeng/IMUGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51]
 ```
 
-2026-10-18 49 → 2026-10-24 50（+1）
+2026-10-18 49 → 2026-10-25 51（+2）
 
 
 ---

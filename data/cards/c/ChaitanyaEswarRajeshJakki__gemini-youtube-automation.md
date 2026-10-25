@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChaitanyaEswarRajeshJakki/gemini-youtube-automation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
     y-axis "stars" 364 --> 369
-    line [365, 368, 368]
+    line [365, 368, 367]
 ```
 
-2026-10-18 365 → 2026-10-24 368（+3）
+2026-10-18 365 → 2026-10-25 367（+2）
 
 
 ---

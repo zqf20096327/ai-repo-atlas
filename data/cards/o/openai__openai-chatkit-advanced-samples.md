@@ -45,12 +45,12 @@ OpenAI 官方维护的 ChatKit 示例仓库，含 Cat Lounge 虚拟宠物、Cust
 ```mermaid
 xychart-beta
     title "openai/openai-chatkit-advanced-samples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
     y-axis "stars" 661 --> 665
     line [662, 664, 664]
 ```
 
-2026-10-18 662 → 2026-10-24 664（+2）
+2026-10-18 662 → 2026-10-25 664（+2）
 
 
 ---

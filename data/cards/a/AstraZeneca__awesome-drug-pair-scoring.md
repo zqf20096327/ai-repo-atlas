@@ -43,12 +43,12 @@ AstraZeneca 团队维护的 awesome 清单，作为 IJCAI 2022 综述论文《A 
 ```mermaid
 xychart-beta
     title "AstraZeneca/awesome-drug-pair-scoring 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-18 101 → 2026-10-24 101（+0）
+2026-10-18 101 → 2026-10-25 101（+0）
 
 
 ---

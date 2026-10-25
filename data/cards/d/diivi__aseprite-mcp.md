@@ -44,13 +44,13 @@ Python 实现的 MCP 服务器，通过 Aseprite API 向 AI 助手暴露 123 个
 
 ```mermaid
 xychart-beta
-    title "diivi/aseprite-mcp 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 778 --> 805
-    line [780, 803]
+    title "diivi/aseprite-mcp 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 777 --> 816
+    line [780, 803, 813]
 ```
 
-2026-10-23 780 → 2026-10-24 803（+23）
+2026-10-23 780 → 2026-10-25 813（+33）
 
 
 ---

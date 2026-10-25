@@ -45,12 +45,12 @@ Pinecone 官方 Python 客户端库，用于创建与管理向量索引、upsert
 ```mermaid
 xychart-beta
     title "pinecone-io/python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 452 --> 454
-    line [453, 453]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 452 --> 455
+    line [453, 454]
 ```
 
-2026-10-18 453 → 2026-10-24 453（+0）
+2026-10-18 453 → 2026-10-25 454（+1）
 
 
 ---

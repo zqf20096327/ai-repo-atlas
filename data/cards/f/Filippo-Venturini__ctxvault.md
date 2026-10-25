@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Filippo-Venturini/ctxvault 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "Filippo-Venturini/ctxvault 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 61 --> 64
-    line [63, 62]
+    line [63, 62, 62]
 ```
 
-2026-10-18 63 → 2026-10-24 62（-1）
+2026-10-18 63 → 2026-10-25 62（-1）
 
 
 ---

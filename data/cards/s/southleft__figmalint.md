@@ -46,12 +46,12 @@ Figma 社区插件，用多种 AI 提供商（Anthropic/OpenAI/Google/OpenRouter
 ```mermaid
 xychart-beta
     title "southleft/figmalint 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 77 --> 80
-    line [78, 79, 79]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    y-axis "stars" 77 --> 81
+    line [78, 79, 80]
 ```
 
-2026-10-18 78 → 2026-10-24 79（+1）
+2026-10-18 78 → 2026-10-25 80（+2）
 
 
 ---

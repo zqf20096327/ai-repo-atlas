@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HeshamFS/materials-simulation-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "HeshamFS/materials-simulation-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 73 --> 84
-    line [74, 75, 81, 83]
+    line [74, 75, 81, 83, 83]
 ```
 
-2026-10-18 74 → 2026-10-24 83（+9）
+2026-10-18 74 → 2026-10-25 83（+9）
 
 
 ---

@@ -41,13 +41,13 @@ Ghost Security Reaper 是一个用于应用安全测试的中间人（MITM）HTT
 
 ```mermaid
 xychart-beta
-    title "ghostsecurity/reaper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "ghostsecurity/reaper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 880 --> 883
-    line [882, 881]
+    line [882, 881, 881]
 ```
 
-2026-10-18 882 → 2026-10-24 881（-1）
+2026-10-18 882 → 2026-10-25 881（-1）
 
 
 ---

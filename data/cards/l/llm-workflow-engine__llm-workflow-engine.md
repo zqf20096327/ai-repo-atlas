@@ -46,12 +46,12 @@ LLM Workflow Engine（LWE）是从 ChatGPT Wrapper 项目延续而来的 Power C
 ```mermaid
 xychart-beta
     title "llm-workflow-engine/llm-workflow-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 3714 --> 3716
-    line [3715, 3715]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 3713 --> 3716
+    line [3715, 3714]
 ```
 
-2026-10-18 3,715 → 2026-10-24 3,715（+0）
+2026-10-18 3,715 → 2026-10-25 3,714（-1）
 
 
 ---

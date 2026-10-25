@@ -45,12 +45,12 @@ Claude Code 插件，监测会话状态并利用 Electron 电源管理在 Claude
 ```mermaid
 xychart-beta
     title "samber/cc-caffeine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-24 73（+0）
+2026-10-18 73 → 2026-10-25 73（+0）
 
 
 ---

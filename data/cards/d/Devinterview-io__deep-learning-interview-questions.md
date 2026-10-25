@@ -44,12 +44,12 @@ Devinterview.io 维护的深度学习面试准备资料仓库，收录 80 道面
 ```mermaid
 xychart-beta
     title "Devinterview-io/deep-learning-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-18 82 → 2026-10-24 82（+0）
+2026-10-18 82 → 2026-10-25 82（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "uxlfoundation/scikit-learn-intelex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "uxlfoundation/scikit-learn-intelex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1354 --> 1357
-    line [1355, 1356]
+    line [1355, 1356, 1356]
 ```
 
-2026-10-18 1,355 → 2026-10-24 1,356（+1）
+2026-10-18 1,355 → 2026-10-25 1,356（+1）
 
 
 ---

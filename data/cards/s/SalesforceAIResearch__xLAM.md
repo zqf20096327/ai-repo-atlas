@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SalesforceAIResearch/xLAM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "SalesforceAIResearch/xLAM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 638 --> 641
-    line [639, 640]
+    line [639, 640, 640]
 ```
 
-2026-10-18 639 → 2026-10-24 640（+1）
+2026-10-18 639 → 2026-10-25 640（+1）
 
 
 ---

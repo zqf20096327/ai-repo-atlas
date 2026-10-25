@@ -45,13 +45,13 @@ AgentScope 的 Go 实现，以 Go 接口、contexts 与 channels 实现 agent �
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai/agentscope-go 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 59 --> 66
-    line [60, 62, 64, 65]
+    title "agentscope-ai/agentscope-go 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 59 --> 67
+    line [60, 62, 64, 65, 66]
 ```
 
-2026-10-18 60 → 2026-10-24 65（+5）
+2026-10-18 60 → 2026-10-25 66（+6）
 
 
 ---

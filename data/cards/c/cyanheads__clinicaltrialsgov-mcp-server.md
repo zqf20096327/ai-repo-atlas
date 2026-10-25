@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyanheads/clinicaltrialsgov-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "cyanheads/clinicaltrialsgov-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 97 --> 100
-    line [99, 98]
+    line [99, 98, 98]
 ```
 
-2026-10-18 99 → 2026-10-24 98（-1）
+2026-10-18 99 → 2026-10-25 98（-1）
 
 
 ---

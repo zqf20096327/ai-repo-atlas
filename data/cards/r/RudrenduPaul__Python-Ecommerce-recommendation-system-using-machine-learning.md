@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "RudrenduPaul/Python-Ecommerce-recommendation-system-using-machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-18 96 → 2026-10-24 96（+0）
+2026-10-18 96 → 2026-10-25 96（+0）
 
 
 ---

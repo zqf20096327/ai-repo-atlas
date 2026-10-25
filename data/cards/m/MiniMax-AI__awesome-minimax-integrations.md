@@ -44,12 +44,12 @@ MiniMax 维护的第三方应用集成清单：罗列接入 MiniMax 多模态 AP
 ```mermaid
 xychart-beta
     title "MiniMax-AI/awesome-minimax-integrations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 79 --> 81
     line [80, 80]
 ```
 
-2026-10-18 80 → 2026-10-24 80（+0）
+2026-10-18 80 → 2026-10-25 80（+0）
 
 
 ---

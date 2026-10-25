@@ -45,13 +45,13 @@ NAGI STUDIO 维护的 LLM 测评数据仓库：以「模型 × Harness × 思考
 
 ```mermaid
 xychart-beta
-    title "nagi-studio/nagi-bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 68 --> 72
-    line [69, 70, 71]
+    title "nagi-studio/nagi-bench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 68 --> 73
+    line [69, 70, 71, 72]
 ```
 
-2026-10-18 69 → 2026-10-24 71（+2）
+2026-10-18 69 → 2026-10-25 72（+3）
 
 
 ---

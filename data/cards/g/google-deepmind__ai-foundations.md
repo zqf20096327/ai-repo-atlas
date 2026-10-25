@@ -44,12 +44,12 @@ Google DeepMind 发布的 AI Research Foundations 八门在线课程配套代码
 ```mermaid
 xychart-beta
     title "google-deepmind/ai-foundations 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 319 --> 322
-    line [320, 321, 321]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    y-axis "stars" 319 --> 324
+    line [320, 321, 323]
 ```
 
-2026-10-18 320 → 2026-10-24 321（+1）
+2026-10-18 320 → 2026-10-25 323（+3）
 
 
 ---

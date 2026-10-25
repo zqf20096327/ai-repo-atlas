@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LLM-Coding/Semantic-Anchors 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 519 --> 522
-    line [520, 521]
+    title "LLM-Coding/Semantic-Anchors 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 519 --> 523
+    line [520, 521, 522]
 ```
 
-2026-10-23 520 → 2026-10-24 521（+1）
+2026-10-23 520 → 2026-10-25 522（+2）
 
 
 ---

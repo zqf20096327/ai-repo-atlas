@@ -46,12 +46,12 @@ Google DeepMind 维护的 Python/Kotlin 平台，通过 WebSocket 连接设备�
 ```mermaid
 xychart-beta
     title "google-deepmind/android_env 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
     y-axis "stars" 1247 --> 1250
     line [1248, 1249, 1249]
 ```
 
-2026-10-18 1,248 → 2026-10-24 1,249（+1）
+2026-10-18 1,248 → 2026-10-25 1,249（+1）
 
 
 ---

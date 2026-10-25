@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "plmbr/notebook-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "plmbr/notebook-intelligence 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 346 --> 349
-    line [347, 348]
+    line [347, 348, 348]
 ```
 
-2026-10-18 347 → 2026-10-24 348（+1）
+2026-10-18 347 → 2026-10-25 348（+1）
 
 
 ---

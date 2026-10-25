@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SearchSavior/OpenArc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 539 --> 544
-    line [540, 543]
+    title "SearchSavior/OpenArc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 539 --> 545
+    line [540, 543, 544]
 ```
 
-2026-10-18 540 → 2026-10-24 543（+3）
+2026-10-18 540 → 2026-10-25 544（+4）
 
 
 ---

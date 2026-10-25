@@ -46,12 +46,12 @@ dbt Labs 官方维护的 Model Context Protocol 服务器，向 Claude、Cursor 
 ```mermaid
 xychart-beta
     title "dbt-labs/dbt-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
     y-axis "stars" 608 --> 613
     line [609, 612, 612]
 ```
 
-2026-10-18 609 → 2026-10-24 612（+3）
+2026-10-18 609 → 2026-10-25 612（+3）
 
 
 ---

@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "galdawave/pickle-rick-extension 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 452 --> 454
-    line [453, 453]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 451 --> 454
+    line [453, 452]
 ```
 
-2026-10-18 453 → 2026-10-24 453（+0）
+2026-10-18 453 → 2026-10-25 452（-1）
 
 
 ---

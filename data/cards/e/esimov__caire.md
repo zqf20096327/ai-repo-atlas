@@ -40,6 +40,18 @@
 > L10: **Caire** is a content aware image resize library based on *Seam Carving for Content-Aware Image Resizing* paper.
 > L94: The library is capable of detecting human faces prior resizing the images by using the lightweight Pigo (https://gi
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "esimov/caire 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 10827 --> 10834
+    line [10828, 10833]
+```
+
+2026-10-24 10,828 → 2026-10-25 10,833（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `41dbf8c18234` · [字段定义](../../DATASET.md)*

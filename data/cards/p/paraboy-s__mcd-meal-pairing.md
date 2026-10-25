@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "paraboy-s/mcd-meal-pairing 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-24"]
-    y-axis "stars" 1 --> 27
-    line [3, 25]
+    title "paraboy-s/mcd-meal-pairing 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 0 --> 61
+    line [3, 25, 56]
 ```
 
-2026-10-22 3 → 2026-10-24 25（+22）
+2026-10-22 3 → 2026-10-25 56（+53）
 
 
 ---

@@ -46,12 +46,12 @@ Windows 桌面自动化工具：录制键盘鼠标操作并回放，宏以步骤
 ```mermaid
 xychart-beta
     title "myna-recorder/Myna-Macro-Recorder-Auto-Clicker 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    x-axis ["2026-10-23", "2026-10-25"]
+    y-axis "stars" 60 --> 74
+    line [73, 61]
 ```
 
-2026-10-23 73 → 2026-10-24 73（+0）
+2026-10-23 73 → 2026-10-25 61（-12）
 
 
 ---

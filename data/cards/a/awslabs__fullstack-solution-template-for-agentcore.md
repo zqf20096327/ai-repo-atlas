@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "awslabs/fullstack-solution-template-for-agentcore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "awslabs/fullstack-solution-template-for-agentcore 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 598 --> 601
-    line [599, 600]
+    line [599, 600, 600]
 ```
 
-2026-10-18 599 → 2026-10-24 600（+1）
+2026-10-18 599 → 2026-10-25 600（+1）
 
 
 ---

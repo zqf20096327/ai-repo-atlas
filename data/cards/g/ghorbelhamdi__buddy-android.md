@@ -45,13 +45,13 @@ Android 悬浮聊天气泡应用，让 Claude Code、Codex、OpenCode 或 Antigr
 
 ```mermaid
 xychart-beta
-    title "ghorbelhamdi/buddy-android 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 73 --> 115
-    line [76, 92, 102, 107, 112]
+    title "ghorbelhamdi/buddy-android 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 72 --> 127
+    line [76, 92, 102, 107, 112, 123]
 ```
 
-2026-10-18 76 → 2026-10-24 112（+36）
+2026-10-18 76 → 2026-10-25 123（+47）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SysAdminDoc/VideoSubtitleRemover 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "SysAdminDoc/VideoSubtitleRemover 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 97 --> 102
-    line [98, 100, 101]
+    line [98, 100, 101, 101]
 ```
 
-2026-10-18 98 → 2026-10-24 101（+3）
+2026-10-18 98 → 2026-10-25 101（+3）
 
 
 ---

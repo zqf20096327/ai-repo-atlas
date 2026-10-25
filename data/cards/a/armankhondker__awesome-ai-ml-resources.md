@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "armankhondker/awesome-ai-ml-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 4663 --> 4671
-    line [4664, 4667, 4670]
+    title "armankhondker/awesome-ai-ml-resources 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 4663 --> 4672
+    line [4664, 4667, 4670, 4671]
 ```
 
-2026-10-18 4,664 → 2026-10-24 4,670（+6）
+2026-10-18 4,664 → 2026-10-25 4,671（+7）
 
 
 ---

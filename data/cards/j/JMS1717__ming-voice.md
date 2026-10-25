@@ -42,6 +42,18 @@
 > L14: speech-to-speech model, into an assistant you can leave running at home. It hears you, decides when you've
 > L74: |Thinker (audio LLM, 9.3B MoE / 2.7B active)|~115 tokens/s; first token ~80 ms after a short spoken turn|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JMS1717/ming-voice 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 155 --> 229
+    line [161, 223]
+```
+
+2026-10-24 161 → 2026-10-25 223（+62）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `f99f7c14eb21` · [字段定义](../../DATASET.md)*

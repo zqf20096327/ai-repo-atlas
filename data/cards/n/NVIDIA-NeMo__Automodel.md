@@ -44,13 +44,13 @@ NVIDIA NeMo 框架下的开源训练库，基于 PyTorch DTensor 原生 SPMD 模
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-NeMo/Automodel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 1026 --> 1047
-    line [1027, 1039, 1046]
+    title "NVIDIA-NeMo/Automodel 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 1025 --> 1049
+    line [1027, 1039, 1046, 1047]
 ```
 
-2026-10-18 1,027 → 2026-10-24 1,046（+19）
+2026-10-18 1,027 → 2026-10-25 1,047（+20）
 
 
 ---

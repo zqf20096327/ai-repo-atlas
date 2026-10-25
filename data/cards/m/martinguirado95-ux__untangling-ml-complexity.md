@@ -46,12 +46,12 @@ Python 机器学习框架 MLForge，以声明式 DAG 管道组织预处理、模
 ```mermaid
 xychart-beta
     title "martinguirado95-ux/untangling-ml-complexity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-24 56（+0）
+2026-10-18 56 → 2026-10-25 56（+0）
 
 
 ---

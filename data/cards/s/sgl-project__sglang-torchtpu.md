@@ -44,13 +44,13 @@ sgl-project 维护的 SGLang 生态组件：通过 torch_tpu 与 Pallas 内核�
 
 ```mermaid
 xychart-beta
-    title "sgl-project/sglang-torchtpu 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 40 --> 66
-    line [42, 59, 64]
+    title "sgl-project/sglang-torchtpu 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 40 --> 68
+    line [42, 59, 64, 66]
 ```
 
-2026-10-22 42 → 2026-10-24 64（+22）
+2026-10-22 42 → 2026-10-25 66（+24）
 
 
 ---

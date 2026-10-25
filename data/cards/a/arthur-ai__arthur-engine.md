@@ -46,12 +46,12 @@ Arthur Engine 提供面向 LLM 应用与生成式 AI 工作流的完整服务：
 ```mermaid
 xychart-beta
     title "arthur-ai/arthur-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-10-24 92（+0）
+2026-10-18 92 → 2026-10-25 92（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aws-samples/sample-genai-on-eks-starter-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 94 --> 97
-    line [96, 95]
+    title "aws-samples/sample-genai-on-eks-starter-kit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 94 --> 99
+    line [96, 95, 98]
 ```
 
-2026-10-18 96 → 2026-10-24 95（-1）
+2026-10-18 96 → 2026-10-25 98（+2）
 
 
 ---

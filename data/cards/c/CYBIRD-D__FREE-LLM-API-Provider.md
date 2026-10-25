@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CYBIRD-D/FREE-LLM-API-Provider 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 111 --> 115
-    line [112, 114]
+    title "CYBIRD-D/FREE-LLM-API-Provider 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 111 --> 116
+    line [112, 114, 115]
 ```
 
-2026-10-18 112 → 2026-10-24 114（+2）
+2026-10-18 112 → 2026-10-25 115（+3）
 
 
 ---

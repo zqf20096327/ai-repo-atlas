@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modern-fortran/neural-fortran 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "modern-fortran/neural-fortran 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 476 --> 479
-    line [477, 478]
+    line [477, 478, 478]
 ```
 
-2026-10-18 477 → 2026-10-24 478（+1）
+2026-10-18 477 → 2026-10-25 478（+1）
 
 
 ---

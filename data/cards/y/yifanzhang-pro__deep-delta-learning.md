@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yifanzhang-pro/deep-delta-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "yifanzhang-pro/deep-delta-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 363 --> 366
-    line [364, 365]
+    line [364, 365, 365]
 ```
 
-2026-10-18 364 → 2026-10-24 365（+1）
+2026-10-18 364 → 2026-10-25 365（+1）
 
 
 ---

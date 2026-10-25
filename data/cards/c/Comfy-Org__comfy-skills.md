@@ -44,13 +44,13 @@ Comfy 官方维护的 Claude Code 插件仓库：comfy-cloud 插件一步捆绑�
 
 ```mermaid
 xychart-beta
-    title "Comfy-Org/comfy-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 231 --> 236
-    line [232, 233, 235]
+    title "Comfy-Org/comfy-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 231 --> 237
+    line [232, 233, 235, 236]
 ```
 
-2026-10-18 232 → 2026-10-24 235（+3）
+2026-10-18 232 → 2026-10-25 236（+4）
 
 
 ---

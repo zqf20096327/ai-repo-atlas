@@ -46,12 +46,12 @@ Google DeepMind 维护的 JAX 研究代码库，覆盖 LLM 及自回归模型的
 ```mermaid
 xychart-beta
     title "google-deepmind/simply 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 584 --> 586
     line [585, 585]
 ```
 
-2026-10-18 585 → 2026-10-24 585（+0）
+2026-10-18 585 → 2026-10-25 585（+0）
 
 
 ---

@@ -46,13 +46,13 @@ Gen-Verse 维护的仓库，聚合三项研究工作并开源训练代码：RLAn
 
 ```mermaid
 xychart-beta
-    title "Gen-Verse/Open-AgentRL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "Gen-Verse/Open-AgentRL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 654 --> 658
-    line [655, 657]
+    line [655, 657, 657]
 ```
 
-2026-10-18 655 → 2026-10-24 657（+2）
+2026-10-18 655 → 2026-10-25 657（+2）
 
 
 ---

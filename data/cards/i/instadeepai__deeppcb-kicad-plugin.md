@@ -45,12 +45,12 @@ KiCad PCB 编辑器的外部插件：将当前 PCB 上传至 DeepPCB 云端布�
 ```mermaid
 xychart-beta
     title "instadeepai/deeppcb-kicad-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-24 66（+0）
+2026-10-18 66 → 2026-10-25 66（+0）
 
 
 ---

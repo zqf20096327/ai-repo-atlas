@@ -46,12 +46,12 @@ LangChain 团队提供的命令行工具，用于脚本化访问 LangSmith 的�
 ```mermaid
 xychart-beta
     title "langchain-ai/langsmith-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 79 --> 81
     line [80, 80]
 ```
 
-2026-10-18 80 → 2026-10-24 80（+0）
+2026-10-18 80 → 2026-10-25 80（+0）
 
 
 ---

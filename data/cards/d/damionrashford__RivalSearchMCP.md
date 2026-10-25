@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "damionrashford/RivalSearchMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "damionrashford/RivalSearchMCP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 131 --> 135
-    line [132, 133, 134]
+    line [132, 133, 134, 134]
 ```
 
-2026-10-18 132 → 2026-10-24 134（+2）
+2026-10-18 132 → 2026-10-25 134（+2）
 
 
 ---

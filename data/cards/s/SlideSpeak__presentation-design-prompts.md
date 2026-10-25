@@ -45,13 +45,13 @@ SlideSpeak 维护的演示文稿设计提示词集合：每套主题是一个完
 
 ```mermaid
 xychart-beta
-    title "SlideSpeak/presentation-design-prompts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "SlideSpeak/presentation-design-prompts 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 179 --> 188
-    line [180, 182, 183, 187]
+    line [180, 182, 183, 187, 187]
 ```
 
-2026-10-18 180 → 2026-10-24 187（+7）
+2026-10-18 180 → 2026-10-25 187（+7）
 
 
 ---

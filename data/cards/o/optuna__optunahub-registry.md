@@ -45,12 +45,12 @@ Optuna 官方组织的注册表仓库：为用户自定义 Optuna 包（采样�
 ```mermaid
 xychart-beta
     title "optuna/optunahub-registry 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-18 58 → 2026-10-24 58（+0）
+2026-10-18 58 → 2026-10-25 59（+1）
 
 
 ---

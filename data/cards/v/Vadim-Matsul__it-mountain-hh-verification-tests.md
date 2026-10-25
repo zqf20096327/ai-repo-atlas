@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vadim-Matsul/it-mountain-hh-verification-tests 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "Vadim-Matsul/it-mountain-hh-verification-tests 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 93 --> 98
-    line [94, 95, 96, 97]
+    line [94, 95, 96, 97, 97]
 ```
 
-2026-10-18 94 → 2026-10-24 97（+3）
+2026-10-18 94 → 2026-10-25 97（+3）
 
 
 ---

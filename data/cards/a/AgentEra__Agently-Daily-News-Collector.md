@@ -44,13 +44,13 @@ Agently 团队的应用示例项目：输入一个主题，自动执行大纲生
 
 ```mermaid
 xychart-beta
-    title "AgentEra/Agently-Daily-News-Collector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "AgentEra/Agently-Daily-News-Collector 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 642 --> 645
-    line [643, 644]
+    line [643, 644, 644]
 ```
 
-2026-10-18 643 → 2026-10-24 644（+1）
+2026-10-18 643 → 2026-10-25 644（+1）
 
 
 ---

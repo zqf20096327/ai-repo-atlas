@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kestrel-Foundry/KestrelAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "Kestrel-Foundry/KestrelAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 51 --> 54
-    line [53, 52]
+    line [53, 52, 52]
 ```
 
-2026-10-18 53 → 2026-10-24 52（-1）
+2026-10-18 53 → 2026-10-25 52（-1）
 
 
 ---

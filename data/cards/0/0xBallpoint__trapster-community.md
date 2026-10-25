@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xBallpoint/trapster-community 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "0xBallpoint/trapster-community 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 164 --> 167
-    line [165, 166]
+    line [165, 166, 166]
 ```
 
-2026-10-18 165 → 2026-10-24 166（+1）
+2026-10-18 165 → 2026-10-25 166（+1）
 
 
 ---

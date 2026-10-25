@@ -45,13 +45,13 @@ NVIDIA 发布的 VSS 蓝图，提供一整套用于构建视频 AI agent 的参�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-AI-Blueprints/video-search-and-summarization 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "NVIDIA-AI-Blueprints/video-search-and-summarization 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1930 --> 1944
-    line [1931, 1933, 1936, 1941, 1943]
+    line [1931, 1933, 1936, 1941, 1943, 1942]
 ```
 
-2026-10-18 1,931 → 2026-10-24 1,943（+12）
+2026-10-18 1,931 → 2026-10-25 1,942（+11）
 
 
 ---

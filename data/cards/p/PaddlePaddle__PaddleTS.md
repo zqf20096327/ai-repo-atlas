@@ -45,12 +45,12 @@ PaddleTS 是基于 PaddlePaddle 的 Python 时序建模库，面向领域专家�
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 544 --> 546
     line [545, 545]
 ```
 
-2026-10-18 545 → 2026-10-24 545（+0）
+2026-10-18 545 → 2026-10-25 545（+0）
 
 
 ---

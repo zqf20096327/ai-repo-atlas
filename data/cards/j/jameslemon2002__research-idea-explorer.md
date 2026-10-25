@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jameslemon2002/research-idea-explorer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 135 --> 137
-    line [136, 136]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 135 --> 138
+    line [136, 137]
 ```
 
-2026-10-18 136 → 2026-10-24 136（+0）
+2026-10-18 136 → 2026-10-25 137（+1）
 
 
 ---

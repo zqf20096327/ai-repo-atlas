@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BEN020406/maimen-order-manager 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 38 --> 107
-    line [43, 102]
+    title "BEN020406/maimen-order-manager 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 37 --> 115
+    line [43, 102, 109]
 ```
 
-2026-10-23 43 → 2026-10-24 102（+59）
+2026-10-23 43 → 2026-10-25 109（+66）
 
 
 ---

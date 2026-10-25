@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "truecourse-ai/truecourse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "truecourse-ai/truecourse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 536 --> 539
-    line [537, 538]
+    line [537, 538, 538]
 ```
 
-2026-10-18 537 → 2026-10-24 538（+1）
+2026-10-18 537 → 2026-10-25 538（+1）
 
 
 ---

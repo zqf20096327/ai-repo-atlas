@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "saurav-z/free-image-generation-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 300 --> 308
-    line [301, 306, 307]
+    title "saurav-z/free-image-generation-api 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 300 --> 310
+    line [301, 306, 307, 309]
 ```
 
-2026-10-18 301 → 2026-10-24 307（+6）
+2026-10-18 301 → 2026-10-25 309（+8）
 
 
 ---

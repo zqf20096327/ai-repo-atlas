@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vitoplantamura/OnnxStream 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "vitoplantamura/OnnxStream 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 2087 --> 2090
-    line [2088, 2089]
+    line [2088, 2089, 2089]
 ```
 
-2026-10-18 2,088 → 2026-10-24 2,089（+1）
+2026-10-18 2,088 → 2026-10-25 2,089（+1）
 
 
 ---

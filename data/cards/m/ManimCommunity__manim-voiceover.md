@@ -45,12 +45,12 @@ Manim Community 维护的 Manim 插件：在 Python 中直接为 Manim 视频添
 ```mermaid
 xychart-beta
     title "ManimCommunity/manim-voiceover 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
     y-axis "stars" 319 --> 322
     line [320, 321, 321]
 ```
 
-2026-10-18 320 → 2026-10-24 321（+1）
+2026-10-18 320 → 2026-10-25 321（+1）
 
 
 ---

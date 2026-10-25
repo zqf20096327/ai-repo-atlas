@@ -41,6 +41,18 @@
 > L15: Production-grade Go runtime for agents that plan, act, recover, and remain auditable.
 > L21: Zhizhi is a model-agnostic execution layer for real applications. It turns ordinary Go functions into validated too
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cocoyes/zhizhi-agent-runtime 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 179 --> 192
+    line [191, 180]
+```
+
+2026-10-24 191 → 2026-10-25 180（-11）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `7e20068badb1` · [字段定义](../../DATASET.md)*

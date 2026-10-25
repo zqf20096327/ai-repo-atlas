@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JosephHampton/awesome-gemini-cli-subagents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 54 --> 65
-    line [55, 57, 58, 59, 64]
+    title "JosephHampton/awesome-gemini-cli-subagents 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 54 --> 66
+    line [55, 57, 58, 59, 64, 65]
 ```
 
-2026-10-18 55 → 2026-10-24 64（+9）
+2026-10-18 55 → 2026-10-25 65（+10）
 
 
 ---

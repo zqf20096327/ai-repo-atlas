@@ -45,12 +45,12 @@ markitdown Python 库的 Rust 实现，将 xlsx、docx、PowerPoint、PDF、图�
 ```mermaid
 xychart-beta
     title "uhobnil/markitdown-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-10-24 76（+0）
+2026-10-18 76 → 2026-10-25 76（+0）
 
 
 ---

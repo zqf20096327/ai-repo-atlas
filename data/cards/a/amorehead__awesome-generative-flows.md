@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "amorehead/awesome-generative-flows 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-24 51（+0）
+2026-10-18 51 → 2026-10-25 51（+0）
 
 
 ---

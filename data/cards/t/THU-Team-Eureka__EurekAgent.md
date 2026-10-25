@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "THU-Team-Eureka/EurekAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "THU-Team-Eureka/EurekAgent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 83 --> 86
-    line [84, 85]
+    line [84, 85, 85]
 ```
 
-2026-10-18 84 → 2026-10-24 85（+1）
+2026-10-18 84 → 2026-10-25 85（+1）
 
 
 ---

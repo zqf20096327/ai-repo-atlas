@@ -44,12 +44,12 @@ VS Code 扩展，为 GitHub Copilot 的 @data 代理提供代码执行工具：�
 ```mermaid
 xychart-beta
     title "microsoft/vscode-data-analysis-for-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-24 56（+0）
+2026-10-18 56 → 2026-10-25 56（+0）
 
 
 ---

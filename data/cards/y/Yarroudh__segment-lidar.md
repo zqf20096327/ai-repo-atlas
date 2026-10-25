@@ -40,6 +40,18 @@
 > L11: *Python package for instance segmentation of aerial LiDAR data using the
 > L14: `segment-lidar` projects a 3D point cloud into an image, uses SAM 3 to find
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Yarroudh/segment-lidar 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 365 --> 368
+    line [366, 367]
+```
+
+2026-10-24 366 → 2026-10-25 367（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `155896b060af` · [字段定义](../../DATASET.md)*

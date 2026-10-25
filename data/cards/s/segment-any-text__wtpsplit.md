@@ -46,12 +46,12 @@ Python 库 wtpsplit，实现 SaT（Segment any Text）与 WtP 两种预训练模
 ```mermaid
 xychart-beta
     title "segment-any-text/wtpsplit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
     y-axis "stars" 1372 --> 1375
     line [1373, 1374, 1374]
 ```
 
-2026-10-18 1,373 → 2026-10-24 1,374（+1）
+2026-10-18 1,373 → 2026-10-25 1,374（+1）
 
 
 ---

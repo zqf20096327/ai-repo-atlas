@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "brycewang-stanford/Auto-Research-Skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 208 --> 222
-    line [209, 215, 218, 221]
+    title "brycewang-stanford/Auto-Research-Skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 208 --> 224
+    line [209, 215, 218, 221, 223]
 ```
 
-2026-10-18 209 → 2026-10-24 221（+12）
+2026-10-18 209 → 2026-10-25 223（+14）
 
 
 ---

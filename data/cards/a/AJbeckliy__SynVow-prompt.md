@@ -45,13 +45,13 @@ ComfyUI 自定义节点集，围绕电商视觉生产提供多类节点：产品
 
 ```mermaid
 xychart-beta
-    title "AJbeckliy/SynVow-prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "AJbeckliy/SynVow-prompt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 72 --> 75
-    line [73, 74]
+    line [73, 74, 74]
 ```
 
-2026-10-18 73 → 2026-10-24 74（+1）
+2026-10-18 73 → 2026-10-25 74（+1）
 
 
 ---

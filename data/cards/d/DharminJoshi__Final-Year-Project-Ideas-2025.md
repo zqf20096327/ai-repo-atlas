@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "DharminJoshi/Final-Year-Project-Ideas-2025 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 369 --> 373
-    line [370, 371, 372]
+    title "DharminJoshi/Final-Year-Project-Ideas-2025 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 369 --> 375
+    line [370, 371, 372, 374]
 ```
 
-2026-10-18 370 → 2026-10-24 372（+2）
+2026-10-18 370 → 2026-10-25 374（+4）
 
 
 ---

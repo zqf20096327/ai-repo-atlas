@@ -41,6 +41,18 @@
 > L17: Explore a codebase, plan a change, and work across files with explicit approval for writes
 > L18: and commands. Start read-only in Plan mode, then switch to Agent when you are ready to build.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "meysamhadeli/codai 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 373 --> 375
+    line [374, 374]
+```
+
+2026-10-24 374 → 2026-10-25 374（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `62d717846758` · [字段定义](../../DATASET.md)*

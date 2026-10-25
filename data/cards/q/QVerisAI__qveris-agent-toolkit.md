@@ -46,12 +46,12 @@ QVeris 是面向 AI 助手与 agent 的专业数据/工具访问平台的开源�
 ```mermaid
 xychart-beta
     title "QVerisAI/qveris-agent-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 261 --> 263
-    line [262, 262]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 261 --> 264
+    line [262, 263]
 ```
 
-2026-10-18 262 → 2026-10-24 262（+0）
+2026-10-18 262 → 2026-10-25 263（+1）
 
 
 ---

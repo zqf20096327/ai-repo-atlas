@@ -44,13 +44,13 @@ Flare 是运行于 NVIDIA SM120/SM121 GPU（如 DGX Spark）的本地推理服�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/flare-local-inference 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 365 --> 647
-    line [388, 602, 624]
+    title "NVIDIA/flare-local-inference 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 363 --> 663
+    line [388, 602, 624, 638]
 ```
 
-2026-10-22 388 → 2026-10-24 624（+236）
+2026-10-22 388 → 2026-10-25 638（+250）
 
 
 ---

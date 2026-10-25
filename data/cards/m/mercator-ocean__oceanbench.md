@@ -44,12 +44,12 @@ Mercator Ocean International 维护的海洋预报基准评测工具：以 GLORY
 ```mermaid
 xychart-beta
     title "mercator-ocean/oceanbench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-24 49（+0）
+2026-10-18 49 → 2026-10-25 49（+0）
 
 
 ---

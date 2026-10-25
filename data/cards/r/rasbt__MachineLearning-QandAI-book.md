@@ -45,12 +45,12 @@ Sebastian Raschka 所著《Machine Learning Q and AI Beyond the Basics》一书�
 ```mermaid
 xychart-beta
     title "rasbt/MachineLearning-QandAI-book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 972 --> 974
-    line [973, 973]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 971 --> 974
+    line [973, 972]
 ```
 
-2026-10-18 973 → 2026-10-24 973（+0）
+2026-10-18 973 → 2026-10-25 972（-1）
 
 
 ---

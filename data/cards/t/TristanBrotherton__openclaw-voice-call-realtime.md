@@ -46,12 +46,12 @@ OpenClaw 插件，在网关内运行 HTTP 服务器，将 Twilio 媒体流的音
 ```mermaid
 xychart-beta
     title "TristanBrotherton/openclaw-voice-call-realtime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-18 105 → 2026-10-24 105（+0）
+2026-10-18 105 → 2026-10-25 105（+0）
 
 
 ---

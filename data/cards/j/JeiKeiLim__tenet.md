@@ -45,13 +45,13 @@ Tenet 是包裹在 AI 编码 agent（Claude Code、OpenCode、Codex）外层的 
 
 ```mermaid
 xychart-beta
-    title "JeiKeiLim/tenet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "JeiKeiLim/tenet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 93 --> 96
-    line [95, 94]
+    line [95, 94, 94]
 ```
 
-2026-10-18 95 → 2026-10-24 94（-1）
+2026-10-18 95 → 2026-10-25 94（-1）
 
 
 ---

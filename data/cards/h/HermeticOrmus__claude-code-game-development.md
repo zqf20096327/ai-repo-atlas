@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HermeticOrmus/claude-code-game-development 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "HermeticOrmus/claude-code-game-development 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 70 --> 74
-    line [71, 72, 73]
+    line [71, 72, 73, 73]
 ```
 
-2026-10-18 71 → 2026-10-24 73（+2）
+2026-10-18 71 → 2026-10-25 73（+2）
 
 
 ---

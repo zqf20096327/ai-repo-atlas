@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "8enSmith/mcp-open-library 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 95 --> 98
-    line [96, 97]
+    title "8enSmith/mcp-open-library 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 95 --> 100
+    line [96, 97, 99]
 ```
 
-2026-10-18 96 → 2026-10-24 97（+1）
+2026-10-18 96 → 2026-10-25 99（+3）
 
 
 ---

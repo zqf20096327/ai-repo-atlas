@@ -45,12 +45,12 @@ MCP-X 的 Web 前端（React 18 + TypeScript + Vite），对接 mcp-x.com 后端
 ```mermaid
 xychart-beta
     title "TimeCyber/MCP-X-web 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
     y-axis "stars" 95 --> 98
     line [96, 97, 97]
 ```
 
-2026-10-18 96 → 2026-10-24 97（+1）
+2026-10-18 96 → 2026-10-25 97（+1）
 
 
 ---

@@ -45,13 +45,13 @@ Python 包 `open-alternative-jev`（导入名 so1），实现 TypeSafe Jev 所�
 
 ```mermaid
 xychart-beta
-    title "ikermoel/open-alternative-jev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 67 --> 72
-    line [68, 69, 70, 71]
+    title "ikermoel/open-alternative-jev 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 67 --> 73
+    line [68, 69, 70, 71, 72]
 ```
 
-2026-10-18 68 → 2026-10-24 71（+3）
+2026-10-18 68 → 2026-10-25 72（+4）
 
 
 ---

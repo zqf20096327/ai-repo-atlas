@@ -44,13 +44,13 @@ RHO（Retrospective Harness Optimization）研究代码库：利用 agent 自身
 
 ```mermaid
 xychart-beta
-    title "wbopan/retro-harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 60 --> 66
-    line [61, 62, 64, 65]
+    title "wbopan/retro-harness 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 60 --> 68
+    line [61, 62, 64, 65, 67]
 ```
 
-2026-10-18 61 → 2026-10-24 65（+4）
+2026-10-18 61 → 2026-10-25 67（+6）
 
 
 ---

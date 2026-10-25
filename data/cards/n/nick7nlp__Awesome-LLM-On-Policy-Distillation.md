@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nick7nlp/Awesome-LLM-On-Policy-Distillation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "nick7nlp/Awesome-LLM-On-Policy-Distillation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 579 --> 588
-    line [580, 583, 584, 587]
+    line [580, 583, 584, 587, 587]
 ```
 
-2026-10-18 580 → 2026-10-24 587（+7）
+2026-10-18 580 → 2026-10-25 587（+7）
 
 
 ---

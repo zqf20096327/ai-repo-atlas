@@ -45,13 +45,13 @@ LangChain Academy《Introduction to LangChain》课程的配套代码库：以 J
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/lca-lc-foundations 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "langchain-ai/lca-lc-foundations 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 681 --> 689
-    line [682, 684, 686, 687, 688]
+    line [682, 684, 686, 687, 688, 688]
 ```
 
-2026-10-18 682 → 2026-10-24 688（+6）
+2026-10-18 682 → 2026-10-25 688（+6）
 
 
 ---

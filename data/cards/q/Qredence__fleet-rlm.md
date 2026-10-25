@@ -46,12 +46,12 @@ Fleet-RLM（又称 Fleet RLM Lite）是用 Python 编写的 agent 运行时，�
 ```mermaid
 xychart-beta
     title "Qredence/fleet-rlm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-24 53（+0）
+2026-10-18 53 → 2026-10-25 53（+0）
 
 
 ---

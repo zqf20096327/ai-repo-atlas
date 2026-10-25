@@ -44,13 +44,13 @@ TypeScript 无头框架，用于在 React 与 Angular 应用中构建 AI 聊天�
 
 ```mermaid
 xychart-beta
-    title "liveloveapp/hashbrown 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 727 --> 730
-    line [728, 729, 728]
+    title "liveloveapp/hashbrown 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 726 --> 730
+    line [728, 729, 728, 727]
 ```
 
-2026-10-18 728 → 2026-10-24 728（+0）
+2026-10-18 728 → 2026-10-25 727（-1）
 
 
 ---

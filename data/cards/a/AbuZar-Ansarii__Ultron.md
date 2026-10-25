@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbuZar-Ansarii/Ultron 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 13 --> 44
-    line [15, 42]
+    title "AbuZar-Ansarii/Ultron 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 8 --> 99
+    line [15, 42, 92]
 ```
 
-2026-10-23 15 → 2026-10-24 42（+27）
+2026-10-23 15 → 2026-10-25 92（+77）
 
 
 ---

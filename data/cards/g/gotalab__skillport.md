@@ -45,13 +45,13 @@ SkillPort 是一个 Python 编写的 SkillOps 工具包，用于按 Agent Skills
 
 ```mermaid
 xychart-beta
-    title "gotalab/skillport 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "gotalab/skillport 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 413 --> 418
-    line [414, 415, 417]
+    line [414, 415, 417, 417]
 ```
 
-2026-10-18 414 → 2026-10-24 417（+3）
+2026-10-18 414 → 2026-10-25 417（+3）
 
 
 ---

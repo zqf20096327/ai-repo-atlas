@@ -45,12 +45,12 @@ Rise of Machine 是一个 AI 工具目录网站，其收录由自主 AI agent �
 ```mermaid
 xychart-beta
     title "planetabhi/riseofmachine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 113 --> 115
     line [114, 114]
 ```
 
-2026-10-18 114 → 2026-10-24 114（+0）
+2026-10-18 114 → 2026-10-25 114（+0）
 
 
 ---

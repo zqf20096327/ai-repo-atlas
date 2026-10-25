@@ -44,13 +44,13 @@ MMMU 及其加强版 MMMU-Pro 的官方评测代码仓库，配套 Hugging Face 
 
 ```mermaid
 xychart-beta
-    title "MMMU-Benchmark/MMMU 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "MMMU-Benchmark/MMMU 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 597 --> 600
-    line [598, 599]
+    line [598, 599, 599]
 ```
 
-2026-10-18 598 → 2026-10-24 599（+1）
+2026-10-18 598 → 2026-10-25 599（+1）
 
 
 ---

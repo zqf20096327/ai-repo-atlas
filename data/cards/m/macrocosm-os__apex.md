@@ -46,13 +46,13 @@ Apex 是运行在 Bittensor 网络 Subnet 1 上的去中心化智能外包平台
 
 ```mermaid
 xychart-beta
-    title "macrocosm-os/apex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "macrocosm-os/apex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 138 --> 141
-    line [139, 140]
+    line [139, 140, 140]
 ```
 
-2026-10-18 139 → 2026-10-24 140（+1）
+2026-10-18 139 → 2026-10-25 140（+1）
 
 
 ---

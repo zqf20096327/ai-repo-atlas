@@ -45,13 +45,13 @@ EchoKit Server 是 EchoKit 设备与 AI 服务之间的中心组件，通过 Web
 
 ```mermaid
 xychart-beta
-    title "second-state/echokit_server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "second-state/echokit_server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 591 --> 594
-    line [592, 593]
+    line [592, 593, 593]
 ```
 
-2026-10-18 592 → 2026-10-24 593（+1）
+2026-10-18 592 → 2026-10-25 593（+1）
 
 
 ---

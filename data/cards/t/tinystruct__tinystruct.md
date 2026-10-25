@@ -44,13 +44,13 @@ tinystruct 是一个 Java 应用框架（要求 JDK 17+、Maven），统一 CLI 
 
 ```mermaid
 xychart-beta
-    title "tinystruct/tinystruct 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "tinystruct/tinystruct 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 361 --> 364
-    line [362, 363]
+    line [362, 363, 363]
 ```
 
-2026-10-18 362 → 2026-10-24 363（+1）
+2026-10-18 362 → 2026-10-25 363（+1）
 
 
 ---

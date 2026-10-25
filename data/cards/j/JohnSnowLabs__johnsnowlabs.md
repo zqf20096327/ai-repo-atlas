@@ -47,12 +47,12 @@ John Snow Labs 的入口库，提供统一 Python API 访问其 NLP 生态：一
 ```mermaid
 xychart-beta
     title "JohnSnowLabs/johnsnowlabs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-10-24 78（+0）
+2026-10-18 78 → 2026-10-25 78（+0）
 
 
 ---

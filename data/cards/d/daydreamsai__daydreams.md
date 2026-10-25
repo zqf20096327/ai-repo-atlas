@@ -46,13 +46,13 @@ TypeScript 优先的 agent 框架，核心机制是可组合上下文架构：�
 
 ```mermaid
 xychart-beta
-    title "daydreamsai/daydreams 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "daydreamsai/daydreams 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 620 --> 623
-    line [621, 622]
+    line [621, 622, 622]
 ```
 
-2026-10-18 621 → 2026-10-24 622（+1）
+2026-10-18 621 → 2026-10-25 622（+1）
 
 
 ---

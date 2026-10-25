@@ -46,12 +46,12 @@ Puppetmaster 是一个监督者与作业存储层：通过 Cursor、Claude Code�
 ```mermaid
 xychart-beta
     title "professorpalmer/Puppetmaster 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 467 --> 471
-    line [468, 470, 470]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    y-axis "stars" 467 --> 472
+    line [468, 470, 471]
 ```
 
-2026-10-18 468 → 2026-10-24 470（+2）
+2026-10-18 468 → 2026-10-25 471（+3）
 
 
 ---

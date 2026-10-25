@@ -44,13 +44,13 @@ FacePlugin 公司的 Android 人脸识别 SDK 示例仓库：运行时为需从 
 
 ```mermaid
 xychart-beta
-    title "Faceplugin-ltd/FaceRecognition-Android 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    title "Faceplugin-ltd/FaceRecognition-Android 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 463 --> 469
-    line [464, 465, 468]
+    line [464, 465, 468, 468]
 ```
 
-2026-10-18 464 → 2026-10-24 468（+4）
+2026-10-18 464 → 2026-10-25 468（+4）
 
 
 ---

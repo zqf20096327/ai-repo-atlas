@@ -45,13 +45,13 @@ GroundAnything 是 4B 参数的视觉定位（visual grounding）模型：给定
 
 ```mermaid
 xychart-beta
-    title "groundingpi/GroundAnything 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 47 --> 92
-    line [50, 73, 82, 83, 89]
+    title "groundingpi/GroundAnything 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 46 --> 95
+    line [50, 73, 82, 83, 89, 91]
 ```
 
-2026-10-18 50 → 2026-10-24 89（+39）
+2026-10-18 50 → 2026-10-25 91（+41）
 
 
 ---

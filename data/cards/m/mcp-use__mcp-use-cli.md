@@ -45,12 +45,12 @@ mcp-use monorepo 中 CLI 包的只读镜像仓库。提供预构建 CLI：mcp-us
 ```mermaid
 xychart-beta
     title "mcp-use/mcp-use-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-24 52（+0）
+2026-10-18 52 → 2026-10-25 52（+0）
 
 
 ---

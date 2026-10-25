@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ddickmann/vllm-factory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "ddickmann/vllm-factory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 85 --> 88
-    line [86, 87]
+    line [86, 87, 87]
 ```
 
-2026-10-18 86 → 2026-10-24 87（+1）
+2026-10-18 86 → 2026-10-25 87（+1）
 
 
 ---

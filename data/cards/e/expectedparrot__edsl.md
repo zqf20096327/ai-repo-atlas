@@ -44,13 +44,13 @@ Expected Parrot 的 Python 领域特定语言（EDSL），面向计算社会科�
 
 ```mermaid
 xychart-beta
-    title "expectedparrot/edsl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "expectedparrot/edsl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 506 --> 509
-    line [507, 508]
+    line [507, 508, 508]
 ```
 
-2026-10-18 507 → 2026-10-24 508（+1）
+2026-10-18 507 → 2026-10-25 508（+1）
 
 
 ---

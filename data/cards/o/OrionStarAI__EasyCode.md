@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OrionStarAI/EasyCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 420 --> 423
-    line [422, 421]
+    title "OrionStarAI/EasyCode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 419 --> 423
+    line [422, 421, 420]
 ```
 
-2026-10-18 422 → 2026-10-24 421（-1）
+2026-10-18 422 → 2026-10-25 420（-2）
 
 
 ---

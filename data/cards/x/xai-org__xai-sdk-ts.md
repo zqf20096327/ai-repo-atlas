@@ -44,13 +44,13 @@ xAI 官方维护的 TypeScript SDK，封装 SpaceXAI REST API，提供类型化�
 
 ```mermaid
 xychart-beta
-    title "xai-org/xai-sdk-ts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    title "xai-org/xai-sdk-ts 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 65 --> 69
-    line [66, 67, 68]
+    line [66, 67, 68, 68]
 ```
 
-2026-10-18 66 → 2026-10-24 68（+2）
+2026-10-18 66 → 2026-10-25 68（+2）
 
 
 ---

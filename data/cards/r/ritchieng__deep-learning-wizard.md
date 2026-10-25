@@ -44,13 +44,13 @@ Deep Learning Wizard 网站的开源教程材料仓库，收录 notebooks 与 mk
 
 ```mermaid
 xychart-beta
-    title "ritchieng/deep-learning-wizard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 877 --> 880
-    line [878, 879]
+    title "ritchieng/deep-learning-wizard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 877 --> 881
+    line [878, 879, 880]
 ```
 
-2026-10-18 878 → 2026-10-24 879（+1）
+2026-10-18 878 → 2026-10-25 880（+2）
 
 
 ---

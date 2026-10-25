@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChenHongruixuan/AnyDisasterMapping 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "ChenHongruixuan/AnyDisasterMapping 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 73 --> 76
-    line [74, 75]
+    line [74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-10-24 75（+1）
+2026-10-18 74 → 2026-10-25 75（+1）
 
 
 ---

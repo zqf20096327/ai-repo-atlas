@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "massimodeluisa/recursive-decomposition-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "massimodeluisa/recursive-decomposition-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 51 --> 54
-    line [52, 53]
+    line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-10-24 53（+1）
+2026-10-18 52 → 2026-10-25 53（+1）
 
 
 ---

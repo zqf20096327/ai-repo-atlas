@@ -41,6 +41,18 @@
 > L32: - **GPT Integration** - Natural language instruction processing
 > L63:     A[Natural Language Instructions] --> B[GPT Analysis Layer]
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "adeelahmad/MacPilot 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 97 --> 99
+    line [98, 98]
+```
+
+2026-10-24 98 → 2026-10-25 98（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `5533d5c3b953` · [字段定义](../../DATASET.md)*

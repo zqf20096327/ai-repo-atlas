@@ -45,12 +45,12 @@ Karpathy microgpt.py 的 C# 移植：零依赖实现标量自动微分引擎（V
 ```mermaid
 xychart-beta
     title "milanm/AutoGrad-Engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 400 --> 402
-    line [401, 401]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 400 --> 403
+    line [401, 402]
 ```
 
-2026-10-18 401 → 2026-10-24 401（+0）
+2026-10-18 401 → 2026-10-25 402（+1）
 
 
 ---

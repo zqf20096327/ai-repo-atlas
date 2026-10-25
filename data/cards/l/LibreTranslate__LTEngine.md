@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LibreTranslate/LTEngine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "LibreTranslate/LTEngine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 208 --> 211
-    line [210, 209]
+    line [210, 209, 210]
 ```
 
-2026-10-18 210 → 2026-10-24 209（-1）
+2026-10-18 210 → 2026-10-25 210（+0）
 
 
 ---

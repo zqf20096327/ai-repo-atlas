@@ -45,12 +45,12 @@ Polyaxon 平台的组成服务 Haupt，提供谱系元数据 API、artifacts/met
 ```mermaid
 xychart-beta
     title "polyaxon/haupt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 450 --> 452
     line [451, 451]
 ```
 
-2026-10-18 451 → 2026-10-24 451（+0）
+2026-10-18 451 → 2026-10-25 451（+0）
 
 
 ---

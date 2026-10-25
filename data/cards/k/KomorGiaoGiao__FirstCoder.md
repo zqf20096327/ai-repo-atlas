@@ -44,13 +44,13 @@ FirstCoder 是一个本地运行的 Python 编码 Agent，提供 Textual TUI、�
 
 ```mermaid
 xychart-beta
-    title "KomorGiaoGiao/FirstCoder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 224 --> 229
-    line [225, 226, 227, 228]
+    title "KomorGiaoGiao/FirstCoder 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 224 --> 230
+    line [225, 226, 227, 228, 229]
 ```
 
-2026-10-18 225 → 2026-10-24 228（+3）
+2026-10-18 225 → 2026-10-25 229（+4）
 
 
 ---

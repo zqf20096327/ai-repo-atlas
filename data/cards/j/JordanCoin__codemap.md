@@ -44,13 +44,13 @@ Go 编写的单个静态二进制 CLI，为 Claude Code、Codex 等编码代理�
 
 ```mermaid
 xychart-beta
-    title "JordanCoin/codemap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "JordanCoin/codemap 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 700 --> 703
-    line [701, 702]
+    line [701, 702, 702]
 ```
 
-2026-10-18 701 → 2026-10-24 702（+1）
+2026-10-18 701 → 2026-10-25 702（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "codebytemirza/XAUUSD_TRADING_ASISTENT_AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "codebytemirza/XAUUSD_TRADING_ASISTENT_AI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 145 --> 150
-    line [146, 148, 149]
+    line [146, 148, 149, 149]
 ```
 
-2026-10-18 146 → 2026-10-24 149（+3）
+2026-10-18 146 → 2026-10-25 149（+3）
 
 
 ---

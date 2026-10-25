@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Decodo/decodo-openclaw-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "Decodo/decodo-openclaw-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 151 --> 154
-    line [153, 152]
+    line [153, 152, 152]
 ```
 
-2026-10-18 153 → 2026-10-24 152（-1）
+2026-10-18 153 → 2026-10-25 152（-1）
 
 
 ---

@@ -46,12 +46,12 @@ InternLM 维护的 agent 评测基准：将 agent 放入真实运行的 OpenClaw
 ```mermaid
 xychart-beta
     title "InternLM/WildClawBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 532 --> 534
-    line [533, 533]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 530 --> 534
+    line [533, 531]
 ```
 
-2026-10-18 533 → 2026-10-24 533（+0）
+2026-10-18 533 → 2026-10-25 531（-2）
 
 
 ---

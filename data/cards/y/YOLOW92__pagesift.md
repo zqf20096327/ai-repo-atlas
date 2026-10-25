@@ -40,6 +40,18 @@
 > L5: **High-performance, memory-bounded web scraping and extraction engine built for AI agents and LLM pipelines.**
 > L66: - 🌐 **Dual-Protocol Firecrawl v1 & v2 Architecture**: Drop-in compatibility with official Firecrawl Python and Node
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "YOLOW92/pagesift 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 42 --> 58
+    line [43, 57]
+```
+
+2026-10-24 43 → 2026-10-25 57（+14）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `29ce179ec9ea` · [字段定义](../../DATASET.md)*

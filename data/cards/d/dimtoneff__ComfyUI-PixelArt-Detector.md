@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dimtoneff/ComfyUI-PixelArt-Detector 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    title "dimtoneff/ComfyUI-PixelArt-Detector 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 449 --> 453
-    line [450, 451, 452]
+    line [450, 451, 452, 452]
 ```
 
-2026-10-18 450 → 2026-10-24 452（+2）
+2026-10-18 450 → 2026-10-25 452（+2）
 
 
 ---

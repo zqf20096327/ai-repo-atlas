@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "krantikumara/-kranti-sip-pcap-analyzer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 130 --> 133
+    line [131, 132]
 ```
 
-2026-10-18 131 → 2026-10-24 131（+0）
+2026-10-18 131 → 2026-10-25 132（+1）
 
 
 ---

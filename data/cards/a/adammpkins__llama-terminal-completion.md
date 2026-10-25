@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adammpkins/llama-terminal-completion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 193 --> 195
     line [194, 194]
 ```
 
-2026-10-18 194 → 2026-10-24 194（+0）
+2026-10-18 194 → 2026-10-25 194（+0）
 
 
 ---

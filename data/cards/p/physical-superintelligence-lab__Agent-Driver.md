@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "physical-superintelligence-lab/Agent-Driver 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 300 --> 302
-    line [301, 301]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 300 --> 303
+    line [301, 302]
 ```
 
-2026-10-18 301 → 2026-10-24 301（+0）
+2026-10-18 301 → 2026-10-25 302（+1）
 
 
 ---

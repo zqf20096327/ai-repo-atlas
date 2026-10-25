@@ -45,13 +45,13 @@ DeepSeek Harness（dsh）插件，面向中国公募基金研究：输入基金�
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-fund-research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    title "PerryLink/dsh-fund-research 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 64 --> 68
-    line [67, 65, 66]
+    line [67, 65, 66, 66]
 ```
 
-2026-10-18 67 → 2026-10-24 66（-1）
+2026-10-18 67 → 2026-10-25 66（-1）
 
 
 ---

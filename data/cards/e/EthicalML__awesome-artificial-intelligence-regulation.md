@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "EthicalML/awesome-artificial-intelligence-regulation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "EthicalML/awesome-artificial-intelligence-regulation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1474 --> 1481
-    line [1475, 1476, 1477, 1480]
+    line [1475, 1476, 1477, 1480, 1480]
 ```
 
-2026-10-18 1,475 → 2026-10-24 1,480（+5）
+2026-10-18 1,475 → 2026-10-25 1,480（+5）
 
 
 ---

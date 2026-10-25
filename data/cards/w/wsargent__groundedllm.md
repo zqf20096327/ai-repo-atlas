@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wsargent/groundedllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "wsargent/groundedllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 80 --> 83
-    line [82, 81]
+    line [82, 81, 81]
 ```
 
-2026-10-18 82 → 2026-10-24 81（-1）
+2026-10-18 82 → 2026-10-25 81（-1）
 
 
 ---

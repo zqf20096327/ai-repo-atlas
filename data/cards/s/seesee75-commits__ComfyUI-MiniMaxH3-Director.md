@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "seesee75-commits/ComfyUI-MiniMaxH3-Director 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 319 --> 325
-    line [320, 321, 324]
+    title "seesee75-commits/ComfyUI-MiniMaxH3-Director 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 319 --> 327
+    line [320, 321, 324, 326]
 ```
 
-2026-10-18 320 → 2026-10-24 324（+4）
+2026-10-18 320 → 2026-10-25 326（+6）
 
 
 ---

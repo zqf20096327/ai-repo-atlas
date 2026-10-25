@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bioacoustic-ai/bacpipe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "bioacoustic-ai/bacpipe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 75 --> 78
-    line [76, 77]
+    line [76, 77, 77]
 ```
 
-2026-10-18 76 → 2026-10-24 77（+1）
+2026-10-18 76 → 2026-10-25 77（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Swarm-Corporation/Open-MAI-Dx-Orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 65 --> 71
-    line [66, 70]
+    title "The-Swarm-Corporation/Open-MAI-Dx-Orchestrator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 65 --> 72
+    line [66, 70, 71]
 ```
 
-2026-10-18 66 → 2026-10-24 70（+4）
+2026-10-18 66 → 2026-10-25 71（+5）
 
 
 ---

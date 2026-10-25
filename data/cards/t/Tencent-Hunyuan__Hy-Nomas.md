@@ -40,6 +40,18 @@
 > L25: **Hy-Nomas** is a free-form interactive video world generation model. It supports free-form multi-turn text prompt 
 > L29: - **Segment-based generation:** Autoregressive segment-wise world generation controlled by either segment level pro
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Tencent-Hunyuan/Hy-Nomas 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 12 --> 115
+    line [20, 107]
+```
+
+2026-10-24 20 → 2026-10-25 107（+87）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `bcc7fca8220a` · [字段定义](../../DATASET.md)*

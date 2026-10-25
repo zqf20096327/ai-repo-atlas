@@ -50,13 +50,13 @@ Stefan Jansen《Machine Learning for Trading》第三版的全书代码：27 章
 
 ```mermaid
 xychart-beta
-    title "stefan-jansen/machine-learning-for-trading 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 21384 --> 21536
-    line [21396, 21463, 21487, 21514, 21524]
+    title "stefan-jansen/machine-learning-for-trading 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 21383 --> 21547
+    line [21396, 21463, 21487, 21514, 21524, 21534]
 ```
 
-2026-10-18 21,396 → 2026-10-24 21,524（+128）
+2026-10-18 21,396 → 2026-10-25 21,534（+138）
 
 
 ---

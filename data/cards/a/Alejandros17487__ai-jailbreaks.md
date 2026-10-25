@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alejandros17487/ai-jailbreaks 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 320 --> 449
-    line [330, 439]
+    title "Alejandros17487/ai-jailbreaks 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 311 --> 539
+    line [330, 439, 520]
 ```
 
-2026-10-23 330 → 2026-10-24 439（+109）
+2026-10-23 330 → 2026-10-25 520（+190）
 
 
 ---

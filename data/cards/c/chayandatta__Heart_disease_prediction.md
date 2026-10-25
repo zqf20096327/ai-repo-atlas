@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chayandatta/Heart_disease_prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 134 --> 136
-    line [135, 135]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 134 --> 137
+    line [135, 136]
 ```
 
-2026-10-18 135 → 2026-10-24 135（+0）
+2026-10-18 135 → 2026-10-25 136（+1）
 
 
 ---

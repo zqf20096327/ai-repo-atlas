@@ -46,13 +46,13 @@ Adobe Lightroom Classic 插件加 Rust 后端服务（geniusai-server），功�
 
 ```mermaid
 xychart-beta
-    title "LrGenius/LrGeniusAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 49 --> 53
-    line [50, 51, 52]
+    title "LrGenius/LrGeniusAI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 49 --> 54
+    line [50, 51, 52, 53]
 ```
 
-2026-10-18 50 → 2026-10-24 52（+2）
+2026-10-18 50 → 2026-10-25 53（+3）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "adityaprasad-sudo/ExploreSingapore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 71 --> 74
-    line [73, 72]
+    title "adityaprasad-sudo/ExploreSingapore 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 71 --> 75
+    line [73, 72, 74]
 ```
 
-2026-10-18 73 → 2026-10-24 72（-1）
+2026-10-18 73 → 2026-10-25 74（+1）
 
 
 ---

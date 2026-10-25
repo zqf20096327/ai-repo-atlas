@@ -46,12 +46,12 @@ Medula 是一套 headless 开发者工具，通过 devframe hub 与 MCP 协议�
 ```mermaid
 xychart-beta
     title "posva/medula 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 123 --> 125
-    line [124, 124]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 123 --> 126
+    line [124, 125]
 ```
 
-2026-10-18 124 → 2026-10-24 124（+0）
+2026-10-18 124 → 2026-10-25 125（+1）
 
 
 ---

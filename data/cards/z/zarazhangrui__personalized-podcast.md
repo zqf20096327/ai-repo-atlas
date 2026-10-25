@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zarazhangrui/personalized-podcast 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 437 --> 440
-    line [438, 439]
+    title "zarazhangrui/personalized-podcast 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 437 --> 441
+    line [438, 439, 440]
 ```
 
-2026-10-18 438 → 2026-10-24 439（+1）
+2026-10-18 438 → 2026-10-25 440（+2）
 
 
 ---

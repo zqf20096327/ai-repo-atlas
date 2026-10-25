@@ -47,12 +47,12 @@ awslabs 维护的基础设施即代码模块集合，配合 SeedFarmer CLI 使�
 ```mermaid
 xychart-beta
     title "awslabs/aiops-modules 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 102 --> 105
+    line [104, 103]
 ```
 
-2026-10-18 104 → 2026-10-24 104（+0）
+2026-10-18 104 → 2026-10-25 103（-1）
 
 
 ---

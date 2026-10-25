@@ -45,12 +45,12 @@ Unreal Engine 5.8 的 TensorFlow/Keras 插件：用户用 Python 编写模型脚
 ```mermaid
 xychart-beta
     title "getnamo/TensorFlow-Unreal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 1219 --> 1221
     line [1220, 1220]
 ```
 
-2026-10-18 1,220 → 2026-10-24 1,220（+0）
+2026-10-18 1,220 → 2026-10-25 1,220（+0）
 
 
 ---

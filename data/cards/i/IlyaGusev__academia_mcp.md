@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IlyaGusev/academia_mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "IlyaGusev/academia_mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 92 --> 95
-    line [93, 94]
+    line [93, 94, 94]
 ```
 
-2026-10-18 93 → 2026-10-24 94（+1）
+2026-10-18 93 → 2026-10-25 94（+1）
 
 
 ---

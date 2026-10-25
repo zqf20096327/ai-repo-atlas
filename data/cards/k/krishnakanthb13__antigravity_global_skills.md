@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "krishnakanthb13/antigravity_global_skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "krishnakanthb13/antigravity_global_skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 62 --> 67
-    line [63, 64, 65, 66]
+    line [63, 64, 65, 66, 66]
 ```
 
-2026-10-18 63 → 2026-10-24 66（+3）
+2026-10-18 63 → 2026-10-25 66（+3）
 
 
 ---

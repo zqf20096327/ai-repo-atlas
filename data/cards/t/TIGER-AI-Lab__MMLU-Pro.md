@@ -45,13 +45,13 @@ NeurIPS 2024 论文的代码与数据仓库：在 MMLU 基础上构建 MMLU-Pro�
 
 ```mermaid
 xychart-beta
-    title "TIGER-AI-Lab/MMLU-Pro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 430 --> 433
-    line [431, 432]
+    title "TIGER-AI-Lab/MMLU-Pro 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 430 --> 434
+    line [431, 432, 433]
 ```
 
-2026-10-18 431 → 2026-10-24 432（+1）
+2026-10-18 431 → 2026-10-25 433（+2）
 
 
 ---

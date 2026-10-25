@@ -40,6 +40,18 @@ Mitsu 是一个以 chibi 角色呈现的红队助手 CLI/TUI 工具，用于授�
 > L20: Mitsu is your chibi red-team companion for authorized penetration tests, built to help carry an engagement from the
 > L28: - **Model providers:** OpenAI, Anthropic, OpenRouter, Ollama, DeepSeek, Moonshot (Kimi), NVIDIA NIM, and Cloudflare
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ARCANGEL0/Mitsu 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 534 --> 536
+    line [535, 535]
+```
+
+2026-10-24 535 → 2026-10-25 535（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `e81d4e246572` · [字段定义](../../DATASET.md)*

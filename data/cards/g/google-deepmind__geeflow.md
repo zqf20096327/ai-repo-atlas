@@ -46,12 +46,12 @@ GeeFlow 是 Python 库，使用 Google Earth Engine 读取卫星与遥感数据�
 ```mermaid
 xychart-beta
     title "google-deepmind/geeflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
     y-axis "stars" 131 --> 136
     line [132, 135, 135]
 ```
 
-2026-10-18 132 → 2026-10-24 135（+3）
+2026-10-18 132 → 2026-10-25 135（+3）
 
 
 ---

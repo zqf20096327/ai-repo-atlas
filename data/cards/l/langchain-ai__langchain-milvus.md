@@ -45,12 +45,12 @@ langchain-ai 维护的集成包，将 Milvus 向量数据库接入 LangChain：�
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-milvus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-24 59（+0）
+2026-10-18 59 → 2026-10-25 59（+0）
 
 
 ---

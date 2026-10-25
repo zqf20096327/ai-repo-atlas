@@ -45,12 +45,12 @@ Goobo Labs 主办的一个月密集型 DS/ML 训练营配套仓库，收录课�
 ```mermaid
 xychart-beta
     title "somastllc/sep-ds-ml-bootcamp-2025 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 74 --> 77
+    line [75, 76]
 ```
 
-2026-10-18 75 → 2026-10-24 75（+0）
+2026-10-18 75 → 2026-10-25 76（+1）
 
 
 ---

@@ -46,12 +46,12 @@ QwkSearch 是一个以“自组织思维导图”为定位的 AI 研究搜索平
 ```mermaid
 xychart-beta
     title "OpenSourceAGI/qwksearch-research-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-24 77（+0）
+2026-10-18 77 → 2026-10-25 77（+0）
 
 
 ---

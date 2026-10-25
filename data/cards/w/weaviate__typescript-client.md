@@ -41,12 +41,12 @@ Weaviate 官方维护的 JavaScript/TypeScript 客户端库，用于在 JS/TS �
 ```mermaid
 xychart-beta
     title "weaviate/typescript-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-18 101 → 2026-10-24 101（+0）
+2026-10-18 101 → 2026-10-25 101（+0）
 
 
 ---

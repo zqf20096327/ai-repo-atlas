@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "cloudstreet-dev/Emacs-for-Goodness-Sake 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "cloudstreet-dev/Emacs-for-Goodness-Sake 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 49 --> 52
-    line [50, 51]
+    line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-10-24 51（+1）
+2026-10-18 50 → 2026-10-25 51（+1）
 
 
 ---

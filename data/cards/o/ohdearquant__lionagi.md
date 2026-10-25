@@ -46,12 +46,12 @@ lionagi 是一个多智能体编排框架，提供 Python API 与 `li` CLI 两�
 ```mermaid
 xychart-beta
     title "ohdearquant/lionagi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 411 --> 413
     line [412, 412]
 ```
 
-2026-10-18 412 → 2026-10-24 412（+0）
+2026-10-18 412 → 2026-10-25 412（+0）
 
 
 ---

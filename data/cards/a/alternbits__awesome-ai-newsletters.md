@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "alternbits/awesome-ai-newsletters 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    title "alternbits/awesome-ai-newsletters 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 399 --> 403
-    line [400, 401, 402]
+    line [400, 401, 402, 402]
 ```
 
-2026-10-18 400 → 2026-10-24 402（+2）
+2026-10-18 400 → 2026-10-25 402（+2）
 
 
 ---

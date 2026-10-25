@@ -45,12 +45,12 @@ fastDP 是 awslabs 维护的 Python 库，通过创建 PrivacyEngine 接入标�
 ```mermaid
 xychart-beta
     title "awslabs/fast-differential-privacy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 143 --> 145
     line [144, 144]
 ```
 
-2026-10-18 144 → 2026-10-24 144（+0）
+2026-10-18 144 → 2026-10-25 144（+0）
 
 
 ---

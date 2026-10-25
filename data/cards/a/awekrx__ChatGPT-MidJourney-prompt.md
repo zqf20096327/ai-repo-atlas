@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "awekrx/ChatGPT-MidJourney-prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 343 --> 345
-    line [344, 344]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 343 --> 346
+    line [344, 345]
 ```
 
-2026-10-18 344 → 2026-10-24 344（+0）
+2026-10-18 344 → 2026-10-25 345（+1）
 
 
 ---

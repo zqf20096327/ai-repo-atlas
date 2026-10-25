@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 75 --> 114
-    line [78, 99, 105, 108, 111]
+    title "AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 75 --> 115
+    line [78, 99, 105, 108, 111, 112]
 ```
 
-2026-10-18 78 → 2026-10-24 111（+33）
+2026-10-18 78 → 2026-10-25 112（+34）
 
 
 ---

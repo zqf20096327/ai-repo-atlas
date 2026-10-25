@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sebastienrousseau/dotfiles 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "sebastienrousseau/dotfiles 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 80 --> 83
-    line [81, 82]
+    line [81, 82, 82]
 ```
 
-2026-10-18 81 → 2026-10-24 82（+1）
+2026-10-18 81 → 2026-10-25 82（+1）
 
 
 ---

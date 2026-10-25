@@ -45,12 +45,12 @@ Pensar 开源的攻防安全评测基准套件：71 个自包含 Docker 化渗�
 ```mermaid
 xychart-beta
     title "pensarai/argus-validation-benchmarks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-24 66（+0）
+2026-10-18 66 → 2026-10-25 66（+0）
 
 
 ---

@@ -44,13 +44,13 @@ Awesome 风格的策展清单，汇编针对自主 AI agent 的真实安全事�
 
 ```mermaid
 xychart-beta
-    title "h5i-dev/awesome-ai-agent-incidents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    title "h5i-dev/awesome-ai-agent-incidents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 56 --> 60
-    line [57, 58, 59]
+    line [57, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-10-24 59（+2）
+2026-10-18 57 → 2026-10-25 59（+2）
 
 
 ---

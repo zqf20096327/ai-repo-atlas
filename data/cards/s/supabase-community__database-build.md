@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "supabase-community/database-build 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 2949 --> 2953
-    line [2952, 2950]
+    title "supabase-community/database-build 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 2948 --> 2953
+    line [2952, 2950, 2949]
 ```
 
-2026-10-18 2,952 → 2026-10-24 2,950（-2）
+2026-10-18 2,952 → 2026-10-25 2,949（-3）
 
 
 ---

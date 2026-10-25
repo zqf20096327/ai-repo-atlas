@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fraisasghar/Machine-Learning-Classification-using-Python 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "fraisasghar/Machine-Learning-Classification-using-Python 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 122 --> 143
-    line [124, 123, 134, 137, 142]
+    line [124, 123, 134, 137, 142, 141]
 ```
 
-2026-10-18 124 → 2026-10-24 142（+18）
+2026-10-18 124 → 2026-10-25 141（+17）
 
 
 ---

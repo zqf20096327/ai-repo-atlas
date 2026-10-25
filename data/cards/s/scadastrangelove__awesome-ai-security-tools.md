@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "scadastrangelove/awesome-ai-security-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 1661 --> 1679
-    line [1662, 1668, 1676, 1678]
+    title "scadastrangelove/awesome-ai-security-tools 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 1661 --> 1682
+    line [1662, 1668, 1676, 1678, 1681]
 ```
 
-2026-10-18 1,662 → 2026-10-24 1,678（+16）
+2026-10-18 1,662 → 2026-10-25 1,681（+19）
 
 
 ---

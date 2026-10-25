@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "airesearch-official/Z-Image-Turbo-Windows 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "airesearch-official/Z-Image-Turbo-Windows 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 119 --> 123
-    line [120, 121, 122]
+    line [120, 121, 122, 122]
 ```
 
-2026-10-18 120 → 2026-10-24 122（+2）
+2026-10-18 120 → 2026-10-25 122（+2）
 
 
 ---

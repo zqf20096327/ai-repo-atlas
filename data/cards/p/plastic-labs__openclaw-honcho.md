@@ -45,12 +45,12 @@ OpenClaw 平台的记忆插件：将对话消息持久化到 Honcho 服务，为
 ```mermaid
 xychart-beta
     title "plastic-labs/openclaw-honcho 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 86 --> 88
     line [87, 87]
 ```
 
-2026-10-18 87 → 2026-10-24 87（+0）
+2026-10-18 87 → 2026-10-25 87（+0）
 
 
 ---

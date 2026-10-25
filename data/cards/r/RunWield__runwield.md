@@ -45,13 +45,13 @@ RunWield 是一个 MIT 开源的本地 AI 编码代理框架（harness），核�
 
 ```mermaid
 xychart-beta
-    title "RunWield/runwield 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
+    title "RunWield/runwield 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 48 --> 53
-    line [49, 52]
+    line [49, 52, 51]
 ```
 
-2026-10-23 49 → 2026-10-24 52（+3）
+2026-10-23 49 → 2026-10-25 51（+2）
 
 
 ---

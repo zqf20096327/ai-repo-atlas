@@ -45,12 +45,12 @@ Qdrant 官方维护的数据迁移 CLI：从 Chroma、Pinecone、Milvus、Weavia
 ```mermaid
 xychart-beta
     title "qdrant/migration 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-18 85 → 2026-10-24 85（+0）
+2026-10-18 85 → 2026-10-25 85（+0）
 
 
 ---

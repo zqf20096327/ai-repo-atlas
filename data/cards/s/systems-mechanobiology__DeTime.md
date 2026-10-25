@@ -46,12 +46,12 @@ DeTime 是一个开源 Python 时序分解工具包，以单一 decompose() 入�
 ```mermaid
 xychart-beta
     title "systems-mechanobiology/DeTime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-24 54（+0）
+2026-10-18 54 → 2026-10-25 54（+0）
 
 
 ---

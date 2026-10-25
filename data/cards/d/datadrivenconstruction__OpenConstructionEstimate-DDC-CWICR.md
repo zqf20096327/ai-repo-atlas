@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 250 --> 256
-    line [251, 252, 253, 255]
+    title "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 250 --> 258
+    line [251, 252, 253, 255, 257]
 ```
 
-2026-10-18 251 → 2026-10-24 255（+4）
+2026-10-18 251 → 2026-10-25 257（+6）
 
 
 ---

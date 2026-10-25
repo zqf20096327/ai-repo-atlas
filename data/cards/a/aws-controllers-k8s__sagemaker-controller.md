@@ -46,12 +46,12 @@ AWS Controllers for Kubernetes（ACK）项目中针对 Amazon SageMaker 的服�
 ```mermaid
 xychart-beta
     title "aws-controllers-k8s/sagemaker-controller 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-24 53（+0）
+2026-10-18 53 → 2026-10-25 53（+0）
 
 
 ---

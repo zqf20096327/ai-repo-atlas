@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "devoxx/DevoxxGenieIDEAPlugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "devoxx/DevoxxGenieIDEAPlugin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 684 --> 688
-    line [685, 686, 687]
+    line [685, 686, 687, 686]
 ```
 
-2026-10-18 685 → 2026-10-24 687（+2）
+2026-10-18 685 → 2026-10-25 686（+1）
 
 
 ---

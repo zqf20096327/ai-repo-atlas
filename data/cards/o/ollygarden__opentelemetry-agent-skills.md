@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ollygarden/opentelemetry-agent-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 110 --> 116
-    line [111, 112, 114, 115]
+    title "ollygarden/opentelemetry-agent-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 110 --> 117
+    line [111, 112, 114, 115, 116]
 ```
 
-2026-10-18 111 → 2026-10-24 115（+4）
+2026-10-18 111 → 2026-10-25 116（+5）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "elevanaltd/octave-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "elevanaltd/octave-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 53 --> 56
-    line [55, 54]
+    line [55, 54, 54]
 ```
 
-2026-10-18 55 → 2026-10-24 54（-1）
+2026-10-18 55 → 2026-10-25 54（-1）
 
 
 ---

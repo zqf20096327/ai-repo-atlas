@@ -41,6 +41,18 @@
 > L7:  For Claude Code, Codex, OpenCode, GitHub Copilot, Gemini CLI, Cursor and many more.
 > L42: - **Less code to review.** It reuses what your project already has.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rextail-ai/lessloc 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 100 --> 102
+    line [101, 101]
+```
+
+2026-10-24 101 → 2026-10-25 101（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `10f66f995f37` · [字段定义](../../DATASET.md)*

@@ -44,12 +44,12 @@ Google DeepMind 维护的 JAX 研究工具包，基于 Penzai 扩展对 Gemma 3 
 ```mermaid
 xychart-beta
     title "google-deepmind/gemma_penzai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 97 --> 101
-    line [98, 100, 100]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    y-axis "stars" 97 --> 102
+    line [98, 100, 101]
 ```
 
-2026-10-18 98 → 2026-10-24 100（+2）
+2026-10-18 98 → 2026-10-25 101（+3）
 
 
 ---

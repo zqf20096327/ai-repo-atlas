@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rgoerwit/ai-investment-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "rgoerwit/ai-investment-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 69 --> 72
-    line [71, 70]
+    line [71, 70, 70]
 ```
 
-2026-10-18 71 → 2026-10-24 70（-1）
+2026-10-18 71 → 2026-10-25 70（-1）
 
 
 ---

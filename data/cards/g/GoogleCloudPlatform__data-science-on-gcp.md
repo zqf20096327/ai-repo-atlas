@@ -44,12 +44,12 @@ O'Reilly《Data Science on the Google Cloud Platform》（第2版，2022）的�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/data-science-on-gcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
     y-axis "stars" 1431 --> 1434
     line [1432, 1433, 1433]
 ```
 
-2026-10-18 1,432 → 2026-10-24 1,433（+1）
+2026-10-18 1,432 → 2026-10-25 1,433（+1）
 
 
 ---

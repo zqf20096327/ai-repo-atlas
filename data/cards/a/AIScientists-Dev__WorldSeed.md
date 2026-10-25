@@ -46,13 +46,13 @@ WorldSeed 是一个多智能体世界引擎：用单个 YAML 文件声明实体�
 
 ```mermaid
 xychart-beta
-    title "AIScientists-Dev/WorldSeed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "AIScientists-Dev/WorldSeed 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 820 --> 823
-    line [821, 822]
+    line [821, 822, 821]
 ```
 
-2026-10-18 821 → 2026-10-24 822（+1）
+2026-10-18 821 → 2026-10-25 821（+0）
 
 
 ---

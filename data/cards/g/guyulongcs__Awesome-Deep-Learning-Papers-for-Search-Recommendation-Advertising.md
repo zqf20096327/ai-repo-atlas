@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 2618 --> 2625
-    line [2619, 2622, 2623, 2624]
+    line [2619, 2622, 2623, 2624, 2624]
 ```
 
-2026-10-18 2,619 → 2026-10-24 2,624（+5）
+2026-10-18 2,619 → 2026-10-25 2,624（+5）
 
 
 ---

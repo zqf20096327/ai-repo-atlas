@@ -40,6 +40,18 @@
 > L15: **887 Papers · 12 Categories · 39 Subcategories**
 > L77: **Paper types:** `Attack` · `Defense` · `Analysis` · `Application` · `Survey` · `Benchmark` · `Dataset`
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zihao-ai/Awesome-Backdoor-Research 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 243 --> 245
+    line [244, 244]
+```
+
+2026-10-24 244 → 2026-10-25 244（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `e981bcf46b03` · [字段定义](../../DATASET.md)*

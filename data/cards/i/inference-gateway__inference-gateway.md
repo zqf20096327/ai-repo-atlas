@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "inference-gateway/inference-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 214 --> 216
-    line [215, 215]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 214 --> 217
+    line [215, 216]
 ```
 
-2026-10-18 215 → 2026-10-24 215（+0）
+2026-10-18 215 → 2026-10-25 216（+1）
 
 
 ---

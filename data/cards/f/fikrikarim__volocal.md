@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fikrikarim/volocal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 99 --> 102
-    line [100, 101]
+    title "fikrikarim/volocal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 99 --> 103
+    line [100, 101, 102]
 ```
 
-2026-10-18 100 → 2026-10-24 101（+1）
+2026-10-18 100 → 2026-10-25 102（+2）
 
 
 ---

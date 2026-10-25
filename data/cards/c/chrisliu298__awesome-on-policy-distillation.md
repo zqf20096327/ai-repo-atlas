@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chrisliu298/awesome-on-policy-distillation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 885 --> 896
-    line [886, 889, 891, 895]
+    title "chrisliu298/awesome-on-policy-distillation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 885 --> 897
+    line [886, 889, 891, 895, 896]
 ```
 
-2026-10-18 886 → 2026-10-24 895（+9）
+2026-10-18 886 → 2026-10-25 896（+10）
 
 
 ---

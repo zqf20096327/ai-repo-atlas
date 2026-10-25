@@ -46,12 +46,12 @@ QGIS 插件，封装 SamGeo Python 包，基于 Meta Segment Anything Model 对�
 ```mermaid
 xychart-beta
     title "opengeos/qgis-samgeo-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 128 --> 130
     line [129, 129]
 ```
 
-2026-10-18 129 → 2026-10-24 129（+0）
+2026-10-18 129 → 2026-10-25 129（+0）
 
 
 ---

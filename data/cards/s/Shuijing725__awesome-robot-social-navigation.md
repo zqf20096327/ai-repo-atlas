@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Shuijing725/awesome-robot-social-navigation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 468 --> 470
     line [469, 469]
 ```
 
-2026-10-18 469 → 2026-10-24 469（+0）
+2026-10-18 469 → 2026-10-25 469（+0）
 
 
 ---

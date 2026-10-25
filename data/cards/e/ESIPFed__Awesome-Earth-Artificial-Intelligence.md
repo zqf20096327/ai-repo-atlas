@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ESIPFed/Awesome-Earth-Artificial-Intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 251 --> 253
     line [252, 252]
 ```
 
-2026-10-18 252 → 2026-10-24 252（+0）
+2026-10-18 252 → 2026-10-25 252（+0）
 
 
 ---

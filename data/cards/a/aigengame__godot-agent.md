@@ -46,13 +46,13 @@ gda 是一个 Python 编写的 Godot 引擎自动化工具链，供 AI 编码 ag
 
 ```mermaid
 xychart-beta
-    title "aigengame/godot-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "aigengame/godot-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 50 --> 55
-    line [51, 53, 54]
+    line [51, 53, 54, 54]
 ```
 
-2026-10-18 51 → 2026-10-24 54（+3）
+2026-10-18 51 → 2026-10-25 54（+3）
 
 
 ---

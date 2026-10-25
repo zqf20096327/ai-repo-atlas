@@ -45,12 +45,12 @@ Chandan Singh（Microsoft Research 研究员）基于 Jekyll/GitHub Pages 维护
 ```mermaid
 xychart-beta
     title "csinva/csinva.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 623 --> 625
     line [624, 624]
 ```
 
-2026-10-18 624 → 2026-10-24 624（+0）
+2026-10-18 624 → 2026-10-25 624（+0）
 
 
 ---

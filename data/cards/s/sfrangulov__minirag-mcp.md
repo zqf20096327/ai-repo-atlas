@@ -40,6 +40,18 @@
 > L8: A local-first RAG (retrieval-augmented generation) MCP server. Point it at a
 > L20: built on fastmcp,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sfrangulov/minirag-mcp 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 57 --> 69
+    line [68, 58]
+```
+
+2026-10-24 68 → 2026-10-25 58（-10）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `8b8e07ec18be` · [字段定义](../../DATASET.md)*

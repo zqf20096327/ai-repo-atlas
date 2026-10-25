@@ -45,13 +45,13 @@ Google DeepMind 材料科学项目：发布通过图网络（GNoME）发现的 3
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/materials_discovery 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "google-deepmind/materials_discovery 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1244 --> 1248
-    line [1245, 1246, 1247]
+    line [1245, 1246, 1247, 1247]
 ```
 
-2026-10-18 1,245 → 2026-10-24 1,247（+2）
+2026-10-18 1,245 → 2026-10-25 1,247（+2）
 
 
 ---

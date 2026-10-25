@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pierrad/obsidian-github-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "Pierrad/obsidian-github-copilot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 497 --> 500
-    line [498, 499]
+    line [498, 499, 499]
 ```
 
-2026-10-18 498 → 2026-10-24 499（+1）
+2026-10-18 498 → 2026-10-25 499（+1）
 
 
 ---

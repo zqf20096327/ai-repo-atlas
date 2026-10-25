@@ -45,13 +45,13 @@ CodinIT.dev 是开源的 AI 全栈开发平台，帮助开发者从浏览器或�
 
 ```mermaid
 xychart-beta
-    title "codinit-dev/codinit-dev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "codinit-dev/codinit-dev 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 269 --> 272
-    line [270, 271]
+    line [270, 271, 271]
 ```
 
-2026-10-18 270 → 2026-10-24 271（+1）
+2026-10-18 270 → 2026-10-25 271（+1）
 
 
 ---

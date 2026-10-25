@@ -46,12 +46,12 @@ LangChain 官方维护的企业工作坊系列：围绕虚构电商 TechHub 的�
 ```mermaid
 xychart-beta
     title "langchain-ai/langsmith-agent-lifecycle-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-24 53（+0）
+2026-10-18 53 → 2026-10-25 53（+0）
 
 
 ---

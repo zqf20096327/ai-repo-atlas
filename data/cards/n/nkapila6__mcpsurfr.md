@@ -40,6 +40,18 @@
 > L3: Local web search for your LLM over MCP. No API keys, and results are ranked on your machine. _Formerly `mcp-local-ra
 > L17: - **Ranked locally.** A small MobileBERT model on plain numpy re-ranks results, so only the best pages get fetched.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nkapila6/mcpsurfr 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 133 --> 136
+    line [134, 135]
+```
+
+2026-10-24 134 → 2026-10-25 135（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `aa51dc7ee6c8` · [字段定义](../../DATASET.md)*

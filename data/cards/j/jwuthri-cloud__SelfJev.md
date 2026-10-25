@@ -44,13 +44,13 @@ SelfJev 是一个自托管的决策模型（selfjev-4b，基于 Qwen3.5-4B 加 r
 
 ```mermaid
 xychart-beta
-    title "jwuthri-cloud/SelfJev 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 37 --> 46
-    line [38, 45]
+    title "jwuthri-cloud/SelfJev 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 37 --> 51
+    line [38, 45, 50]
 ```
 
-2026-10-23 38 → 2026-10-24 45（+7）
+2026-10-23 38 → 2026-10-25 50（+12）
 
 
 ---

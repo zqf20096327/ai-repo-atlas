@@ -46,12 +46,12 @@ Angles Code CLI 是编译为单一静态 Rust 二进制（约 1.6 MB）的终端
 ```mermaid
 xychart-beta
     title "angleschina/angles-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 55 --> 58
+    line [57, 56]
 ```
 
-2026-10-18 57 → 2026-10-24 57（+0）
+2026-10-18 57 → 2026-10-25 56（-1）
 
 
 ---

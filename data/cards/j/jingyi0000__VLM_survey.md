@@ -44,13 +44,13 @@ TPAMI 2024 论文《Vision-Language Models for Vision Tasks: A Survey》的配�
 
 ```mermaid
 xychart-beta
-    title "jingyi0000/VLM_survey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "jingyi0000/VLM_survey 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 3127 --> 3130
-    line [3128, 3129]
+    line [3128, 3129, 3129]
 ```
 
-2026-10-18 3,128 → 2026-10-24 3,129（+1）
+2026-10-18 3,128 → 2026-10-25 3,129（+1）
 
 
 ---

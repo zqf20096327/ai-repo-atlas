@@ -45,12 +45,12 @@ ClusterVision 开源的 HPC、AI 与云集群部署平台，基于 Ansible playb
 ```mermaid
 xychart-beta
     title "clustervision/trinityX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
     y-axis "stars" 127 --> 130
     line [128, 129, 129]
 ```
 
-2026-10-18 128 → 2026-10-24 129（+1）
+2026-10-18 128 → 2026-10-25 129（+1）
 
 
 ---

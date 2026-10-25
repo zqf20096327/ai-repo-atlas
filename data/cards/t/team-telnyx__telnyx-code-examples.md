@@ -45,13 +45,13 @@ Telnyx 官方维护的生产级代码示例仓库，每个示例为独立项目�
 
 ```mermaid
 xychart-beta
-    title "team-telnyx/telnyx-code-examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "team-telnyx/telnyx-code-examples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 161 --> 164
-    line [162, 163]
+    line [162, 163, 163]
 ```
 
-2026-10-18 162 → 2026-10-24 163（+1）
+2026-10-18 162 → 2026-10-25 163（+1）
 
 
 ---

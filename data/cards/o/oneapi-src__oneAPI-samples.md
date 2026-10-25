@@ -46,12 +46,12 @@ Intel 官方维护的 oneAPI Toolkits 示例仓库：按 DirectProgramming（C++
 ```mermaid
 xychart-beta
     title "oneapi-src/oneAPI-samples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 1166 --> 1169
-    line [1167, 1168, 1168]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    y-axis "stars" 1166 --> 1170
+    line [1167, 1168, 1169]
 ```
 
-2026-10-18 1,167 → 2026-10-24 1,168（+1）
+2026-10-18 1,167 → 2026-10-25 1,169（+2）
 
 
 ---

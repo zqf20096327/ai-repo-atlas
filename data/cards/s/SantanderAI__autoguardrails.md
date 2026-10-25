@@ -45,12 +45,12 @@ Santander AI Lab 开源的护栏研究库/评测框架，借鉴 autoresearch 思
 ```mermaid
 xychart-beta
     title "SantanderAI/autoguardrails 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 128 --> 130
     line [129, 129]
 ```
 
-2026-10-18 129 → 2026-10-24 129（+0）
+2026-10-18 129 → 2026-10-25 129（+0）
 
 
 ---

@@ -45,12 +45,12 @@ vecstack 是实现 stacking（stacked generalization）集成技术的 Python �
 ```mermaid
 xychart-beta
     title "vecxoz/vecstack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 696 --> 698
     line [697, 697]
 ```
 
-2026-10-18 697 → 2026-10-24 697（+0）
+2026-10-18 697 → 2026-10-25 697（+0）
 
 
 ---

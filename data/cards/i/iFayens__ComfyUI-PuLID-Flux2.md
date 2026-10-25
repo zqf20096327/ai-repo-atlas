@@ -45,13 +45,13 @@ PuLID 方法在 FLUX.2（Klein 4B/9B 与 Dev）上的 ComfyUI 自定义节点实
 
 ```mermaid
 xychart-beta
-    title "iFayens/ComfyUI-PuLID-Flux2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    title "iFayens/ComfyUI-PuLID-Flux2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 125 --> 129
-    line [126, 127, 128]
+    line [126, 127, 128, 128]
 ```
 
-2026-10-18 126 → 2026-10-24 128（+2）
+2026-10-18 126 → 2026-10-25 128（+2）
 
 
 ---

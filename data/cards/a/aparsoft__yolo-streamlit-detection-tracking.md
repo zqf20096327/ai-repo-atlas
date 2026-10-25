@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aparsoft/yolo-streamlit-detection-tracking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 429 --> 431
     line [430, 430]
 ```
 
-2026-10-18 430 → 2026-10-24 430（+0）
+2026-10-18 430 → 2026-10-25 430（+0）
 
 
 ---

@@ -38,6 +38,18 @@
 > L4: A curated collection of atomistic machine-learning models and methods for computational chemistry.
 > L7: This list covers neural-network and machine-learning models used in quantum chemistry, atomistic force fields, semi-
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Eipgen/Atomistic-Machine-Learning-for-Computational-Chemistry 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 204 --> 206
+    line [205, 205]
+```
+
+2026-10-24 205 → 2026-10-25 205（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `8f1ccb1d87d7` · [字段定义](../../DATASET.md)*

@@ -43,13 +43,13 @@ TorchIO 是基于 PyTorch 的 Python 库，为深度学习应用提供 3D 医学
 
 ```mermaid
 xychart-beta
-    title "TorchIO-project/torchio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "TorchIO-project/torchio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 2449 --> 2452
-    line [2451, 2450]
+    line [2451, 2450, 2450]
 ```
 
-2026-10-18 2,451 → 2026-10-24 2,450（-1）
+2026-10-18 2,451 → 2026-10-25 2,450（-1）
 
 
 ---

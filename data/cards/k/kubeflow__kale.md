@@ -44,13 +44,13 @@ KALE（Kubeflow Automated pipeLines Engine）简化 Kubeflow Pipelines 工作流
 
 ```mermaid
 xychart-beta
-    title "kubeflow/kale 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "kubeflow/kale 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 704 --> 708
-    line [705, 706, 707]
+    line [705, 706, 707, 707]
 ```
 
-2026-10-18 705 → 2026-10-24 707（+2）
+2026-10-18 705 → 2026-10-25 707（+2）
 
 
 ---

@@ -44,13 +44,13 @@ vLLM 的 out-of-tree 平台插件，打包为 vllm-torchtpu，通过 TorchTPU（
 
 ```mermaid
 xychart-beta
-    title "vllm-project/vllm-torchtpu 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 58 --> 111
-    line [62, 83, 99, 107]
+    title "vllm-project/vllm-torchtpu 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 57 --> 117
+    line [62, 83, 99, 107, 112]
 ```
 
-2026-10-19 62 → 2026-10-24 107（+45）
+2026-10-19 62 → 2026-10-25 112（+50）
 
 
 ---

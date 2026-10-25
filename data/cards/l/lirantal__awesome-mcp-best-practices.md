@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lirantal/awesome-mcp-best-practices 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 83 --> 86
+    line [84, 85]
 ```
 
-2026-10-18 84 → 2026-10-24 84（+0）
+2026-10-18 84 → 2026-10-25 85（+1）
 
 
 ---

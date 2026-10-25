@@ -46,12 +46,12 @@ SmartiAI 是运行于 Windows 的桌面 AI agent：通过规划-执行-验证的
 ```mermaid
 xychart-beta
     title "menachem-dadon/SmartiAI-Agent-for-Windows 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 117 --> 120
+    line [119, 118]
 ```
 
-2026-10-18 119 → 2026-10-24 119（+0）
+2026-10-18 119 → 2026-10-25 118（-1）
 
 
 ---

@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-elastic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 77 --> 80
+    line [79, 78]
 ```
 
-2026-10-18 79 → 2026-10-24 79（+0）
+2026-10-18 79 → 2026-10-25 78（-1）
 
 
 ---

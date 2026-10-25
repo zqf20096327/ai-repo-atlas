@@ -46,12 +46,12 @@ AutoZyme 提供两条路径：一是安装 AutoZyme-Library，获得 Seurat、Sc
 ```mermaid
 xychart-beta
     title "ElliotXie/autozyme 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 52 --> 55
+    line [53, 54]
 ```
 
-2026-10-18 53 → 2026-10-24 53（+0）
+2026-10-18 53 → 2026-10-25 54（+1）
 
 
 ---

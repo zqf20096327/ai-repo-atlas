@@ -45,12 +45,12 @@ DeepEye 是面向投资者的股票情绪分析 Web 服务：通过 Yahoo Financ
 ```mermaid
 xychart-beta
     title "lee-sihun/stock-sentiment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 51 --> 55
+    line [54, 52]
 ```
 
-2026-10-18 54 → 2026-10-24 54（+0）
+2026-10-18 54 → 2026-10-25 52（-2）
 
 
 ---

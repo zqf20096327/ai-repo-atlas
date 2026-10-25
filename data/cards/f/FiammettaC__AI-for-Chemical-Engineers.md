@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FiammettaC/AI-for-Chemical-Engineers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 94 --> 97
+    line [95, 96]
 ```
 
-2026-10-18 95 → 2026-10-24 95（+0）
+2026-10-18 95 → 2026-10-25 96（+1）
 
 
 ---

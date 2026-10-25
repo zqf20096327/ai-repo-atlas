@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThinkOffApp/ClawWatch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "ThinkOffApp/ClawWatch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 67 --> 70
-    line [68, 69]
+    line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-10-24 69（+1）
+2026-10-18 68 → 2026-10-25 69（+1）
 
 
 ---

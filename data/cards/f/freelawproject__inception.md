@@ -46,12 +46,12 @@ FreeLaw Project 维护的 FastAPI 微服务，基于 SentenceTransformers 模型
 ```mermaid
 xychart-beta
     title "freelawproject/inception 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
     y-axis "stars" 61 --> 65
     line [62, 64, 64]
 ```
 
-2026-10-18 62 → 2026-10-24 64（+2）
+2026-10-18 62 → 2026-10-25 64（+2）
 
 
 ---

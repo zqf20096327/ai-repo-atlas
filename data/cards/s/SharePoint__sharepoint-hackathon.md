@@ -46,12 +46,12 @@ Microsoft SharePoint 团组发布的黑客松落地页：活动于 2026 年 3 �
 ```mermaid
 xychart-beta
     title "SharePoint/sharepoint-hackathon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 150 --> 152
     line [151, 151]
 ```
 
-2026-10-18 151 → 2026-10-24 151（+0）
+2026-10-18 151 → 2026-10-25 151（+0）
 
 
 ---

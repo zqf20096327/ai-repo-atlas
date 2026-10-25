@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nim444/mcp-android-server-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "nim444/mcp-android-server-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 57 --> 60
-    line [58, 59]
+    line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-10-24 59（+1）
+2026-10-18 58 → 2026-10-25 59（+1）
 
 
 ---

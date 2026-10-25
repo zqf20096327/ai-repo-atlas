@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mirrowel/LLM-API-Key-Proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "Mirrowel/LLM-API-Key-Proxy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 556 --> 559
-    line [558, 557]
+    line [558, 557, 557]
 ```
 
-2026-10-18 558 → 2026-10-24 557（-1）
+2026-10-18 558 → 2026-10-25 557（-1）
 
 
 ---

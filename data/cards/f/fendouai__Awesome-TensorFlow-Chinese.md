@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fendouai/Awesome-TensorFlow-Chinese 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "fendouai/Awesome-TensorFlow-Chinese 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1383 --> 1386
-    line [1384, 1385, 1384]
+    line [1384, 1385, 1384, 1384]
 ```
 
-2026-10-18 1,384 → 2026-10-24 1,384（+0）
+2026-10-18 1,384 → 2026-10-25 1,384（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WaterTian/wechat-devtools-mcp 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-24"]
+    title "WaterTian/wechat-devtools-mcp 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 153 --> 156
-    line [154, 155]
+    line [154, 155, 155]
 ```
 
-2026-10-22 154 → 2026-10-24 155（+1）
+2026-10-22 154 → 2026-10-25 155（+1）
 
 
 ---

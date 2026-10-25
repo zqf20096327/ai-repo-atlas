@@ -39,6 +39,18 @@
 
 > L3: 中文 AI Agent / LLM 应用工程师的一站式手册：先建立 **Prompt → Context → Agent → Harness** 四层工程坐标，再落到真实 JD 与面试题库。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "harrisliangsu/ai-agent-engineer-handbook 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 67 --> 69
+    line [68, 68]
+```
+
+2026-10-24 68 → 2026-10-25 68（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `69d6798c5563` · [字段定义](../../DATASET.md)*

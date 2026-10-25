@@ -45,12 +45,12 @@ MLH Fellowship 2020 黑客松项目：Flask + HTML/CSS/JS 的 Web 应用，读�
 ```mermaid
 xychart-beta
     title "PragatiVerma18/MLH-Quizzet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-10-24 97（+0）
+2026-10-18 97 → 2026-10-25 97（+0）
 
 
 ---

@@ -45,13 +45,13 @@ Agent Package Manager（APM）生态的可视化层：从 GitHub 导入 agents�
 
 ```mermaid
 xychart-beta
-    title "apm-studio/apm-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "apm-studio/apm-studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 435 --> 438
-    line [437, 436, 437]
+    line [437, 436, 437, 437]
 ```
 
-2026-10-18 437 → 2026-10-24 437（+0）
+2026-10-18 437 → 2026-10-25 437（+0）
 
 
 ---

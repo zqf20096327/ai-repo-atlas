@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Frankcastleauditor/safe-solana-builder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    title "Frankcastleauditor/safe-solana-builder 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 144 --> 147
-    line [145, 146, 145]
+    line [145, 146, 145, 145]
 ```
 
-2026-10-18 145 → 2026-10-24 145（+0）
+2026-10-18 145 → 2026-10-25 145（+0）
 
 
 ---

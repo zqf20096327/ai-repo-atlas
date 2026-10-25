@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaryamBoneh/Vehicle-Detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "MaryamBoneh/Vehicle-Detection 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 283 --> 286
-    line [284, 285]
+    line [284, 285, 285]
 ```
 
-2026-10-18 284 → 2026-10-24 285（+1）
+2026-10-18 284 → 2026-10-25 285（+1）
 
 
 ---

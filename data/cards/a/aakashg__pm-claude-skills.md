@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aakashg/pm-claude-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "aakashg/pm-claude-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 111 --> 114
-    line [112, 113]
+    line [112, 113, 113]
 ```
 
-2026-10-18 112 → 2026-10-24 113（+1）
+2026-10-18 112 → 2026-10-25 113（+1）
 
 
 ---

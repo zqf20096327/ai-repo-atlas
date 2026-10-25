@@ -44,13 +44,13 @@ Festival 是一套 vibe engineering 框架，由 camp、fest、festival 三个 C
 
 ```mermaid
 xychart-beta
-    title "Obedience-Corp/festival 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "Obedience-Corp/festival 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 72 --> 85
-    line [73, 76, 79, 83, 84]
+    line [73, 76, 79, 83, 84, 84]
 ```
 
-2026-10-18 73 → 2026-10-24 84（+11）
+2026-10-18 73 → 2026-10-25 84（+11）
 
 
 ---

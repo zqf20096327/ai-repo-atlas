@@ -46,12 +46,12 @@ Google for Games 开源的游戏毒性语音与文本检测框架，供多人在
 ```mermaid
 xychart-beta
     title "googleforgames/clean-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-24 55（+0）
+2026-10-18 55 → 2026-10-25 55（+0）
 
 
 ---

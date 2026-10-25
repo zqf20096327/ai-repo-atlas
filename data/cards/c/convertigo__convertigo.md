@@ -44,13 +44,13 @@ Convertigo Community Edition 是全栈低代码/无代码平台，用于构建�
 
 ```mermaid
 xychart-beta
-    title "convertigo/convertigo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "convertigo/convertigo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 385 --> 388
-    line [387, 386, 387]
+    line [387, 386, 387, 387]
 ```
 
-2026-10-18 387 → 2026-10-24 387（+0）
+2026-10-18 387 → 2026-10-25 387（+0）
 
 
 ---

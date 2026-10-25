@@ -45,12 +45,12 @@ AWS 官方示例仓库出品的原生桌面应用：通过 Amazon Bedrock 模型
 ```mermaid
 xychart-beta
     title "aws-samples/bedrock-engineer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 483 --> 485
-    line [484, 484]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 482 --> 485
+    line [484, 483]
 ```
 
-2026-10-18 484 → 2026-10-24 484（+0）
+2026-10-18 484 → 2026-10-25 483（-1）
 
 
 ---

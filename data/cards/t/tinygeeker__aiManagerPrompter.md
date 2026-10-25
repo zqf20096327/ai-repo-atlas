@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinygeeker/aiManagerPrompter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "tinygeeker/aiManagerPrompter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 316 --> 319
-    line [317, 318]
+    line [317, 318, 318]
 ```
 
-2026-10-18 317 → 2026-10-24 318（+1）
+2026-10-18 317 → 2026-10-25 318（+1）
 
 
 ---

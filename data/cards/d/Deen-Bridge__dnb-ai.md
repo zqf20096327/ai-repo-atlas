@@ -41,6 +41,18 @@ Deen Bridge 伊斯兰教育平台三个服务中的 AI 后端：以 Google Gemin
 > L39: - 🕵️ **Hadith Research Agent** — retrieval, isnad chain analysis, rijal (narrator) cross-referencing, grading justi
 > L49: |`POST`|`/chat`|Start or continue a chat session|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Deen-Bridge/dnb-ai 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 162 --> 164
+    line [163, 163]
+```
+
+2026-10-24 163 → 2026-10-25 163（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `b924bdf9d991` · [字段定义](../../DATASET.md)*

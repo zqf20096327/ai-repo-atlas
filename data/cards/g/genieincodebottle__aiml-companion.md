@@ -46,12 +46,12 @@ AI-ML Companion 是通过实时动画可视化和浏览器内可运行 Python �
 ```mermaid
 xychart-beta
     title "genieincodebottle/aiml-companion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-10-24 72（+0）
+2026-10-18 72 → 2026-10-25 72（+0）
 
 
 ---

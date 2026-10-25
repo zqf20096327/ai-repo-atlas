@@ -45,12 +45,12 @@ BrainIAK（Brain Imaging Analysis Kit）是用于神经科学、以功能磁共�
 ```mermaid
 xychart-beta
     title "brainiak/brainiak 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 372 --> 374
     line [373, 373]
 ```
 
-2026-10-18 373 → 2026-10-24 373（+0）
+2026-10-18 373 → 2026-10-25 373（+0）
 
 
 ---

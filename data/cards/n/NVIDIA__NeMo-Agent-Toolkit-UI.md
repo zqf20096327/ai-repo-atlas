@@ -45,12 +45,12 @@ NVIDIA 维护的开源 Web UI，作为 NeMo Agent Toolkit（构建 AI agent 与�
 ```mermaid
 xychart-beta
     title "NVIDIA/NeMo-Agent-Toolkit-UI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 109 --> 111
     line [110, 110]
 ```
 
-2026-10-18 110 → 2026-10-24 110（+0）
+2026-10-18 110 → 2026-10-25 110（+0）
 
 
 ---

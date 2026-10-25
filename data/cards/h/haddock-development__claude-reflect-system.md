@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "haddock-development/claude-reflect-system 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 382 --> 384
     line [383, 383]
 ```
 
-2026-10-18 383 → 2026-10-24 383（+0）
+2026-10-18 383 → 2026-10-25 383（+0）
 
 
 ---

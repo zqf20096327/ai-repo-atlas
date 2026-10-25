@@ -46,12 +46,12 @@ AgentOS 是运行在 iii 引擎之上的 agent 系统：65 个窄域 worker（64
 ```mermaid
 xychart-beta
     title "iii-experimental/agentos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 161 --> 163
     line [162, 162]
 ```
 
-2026-10-18 162 → 2026-10-24 162（+0）
+2026-10-18 162 → 2026-10-25 162（+0）
 
 
 ---

@@ -45,12 +45,12 @@ AIOZ AI 发布的 MICCAI 2019 论文《Overcoming Data Limitation in Medical Vis
 ```mermaid
 xychart-beta
     title "aioz-ai/MICCAI19-MedVQA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
     y-axis "stars" 69 --> 72
     line [71, 70, 70]
 ```
 
-2026-10-18 71 → 2026-10-24 70（-1）
+2026-10-18 71 → 2026-10-25 70（-1）
 
 
 ---

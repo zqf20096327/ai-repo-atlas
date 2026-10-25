@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sovit-123/fasterrcnn-pytorch-training-pipeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 274 --> 276
     line [275, 275]
 ```
 
-2026-10-18 275 → 2026-10-24 275（+0）
+2026-10-18 275 → 2026-10-25 275（+0）
 
 
 ---

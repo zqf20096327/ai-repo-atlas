@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "luckrnx09/python-guide-for-javascript-engineers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "luckrnx09/python-guide-for-javascript-engineers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 362 --> 365
-    line [364, 363]
+    line [364, 363, 363]
 ```
 
-2026-10-18 364 → 2026-10-24 363（-1）
+2026-10-18 364 → 2026-10-25 363（-1）
 
 
 ---

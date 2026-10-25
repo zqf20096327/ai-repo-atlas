@@ -46,12 +46,12 @@ EchoLingua 是一个开源的多语言 token 效率基准框架：基于 10,000+
 ```mermaid
 xychart-beta
     title "Apil-Shrestha/token-efficiency-lex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 115 --> 117
     line [116, 116]
 ```
 
-2026-10-18 116 → 2026-10-24 116（+0）
+2026-10-18 116 → 2026-10-25 116（+0）
 
 
 ---

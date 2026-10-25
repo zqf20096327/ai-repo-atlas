@@ -45,12 +45,12 @@ Fluent 通过技能（skill）形式嵌入 Codex、Claude Code、Pi 等编码 ag
 ```mermaid
 xychart-beta
     title "mrinalwadhwa/fluent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 119 --> 122
-    line [120, 121, 121]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    y-axis "stars" 119 --> 123
+    line [120, 121, 122]
 ```
 
-2026-10-18 120 → 2026-10-24 121（+1）
+2026-10-18 120 → 2026-10-25 122（+2）
 
 
 ---

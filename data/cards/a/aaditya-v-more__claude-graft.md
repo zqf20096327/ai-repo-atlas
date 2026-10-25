@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aaditya-v-more/claude-graft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "aaditya-v-more/claude-graft 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 59 --> 62
-    line [60, 61]
+    line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-10-24 61（+1）
+2026-10-18 60 → 2026-10-25 61（+1）
 
 
 ---

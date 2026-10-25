@@ -38,6 +38,18 @@
 > L1: # ComfyUI - Text Overlay Plugin
 > L6: The ComfyUI Text Overlay Plugin provides functionalities for superimposing text on images. Users can select differen
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mikkel/ComfyUI-text-overlay 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 64 --> 66
+    line [65, 65]
+```
+
+2026-10-24 65 → 2026-10-25 65（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `6312be51ce14` · [字段定义](../../DATASET.md)*

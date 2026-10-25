@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "LongxingTan/Machine-learning-interview 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 342 --> 347
-    line [343, 345, 346]
+    title "LongxingTan/Machine-learning-interview 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 342 --> 348
+    line [343, 345, 346, 347]
 ```
 
-2026-10-18 343 → 2026-10-24 346（+3）
+2026-10-18 343 → 2026-10-25 347（+4）
 
 
 ---

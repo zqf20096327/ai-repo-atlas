@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlorianBruniaux/claude-code-ultimate-guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 6185 --> 6234
-    line [6189, 6202, 6223, 6230]
+    title "FlorianBruniaux/claude-code-ultimate-guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 6185 --> 6242
+    line [6189, 6202, 6223, 6230, 6238]
 ```
 
-2026-10-18 6,189 → 2026-10-24 6,230（+41）
+2026-10-18 6,189 → 2026-10-25 6,238（+49）
 
 
 ---

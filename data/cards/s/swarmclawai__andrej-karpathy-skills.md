@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "swarmclawai/andrej-karpathy-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 51 --> 56
-    line [52, 53, 54, 55]
+    title "swarmclawai/andrej-karpathy-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 51 --> 57
+    line [52, 53, 54, 55, 56]
 ```
 
-2026-10-18 52 → 2026-10-24 55（+3）
+2026-10-18 52 → 2026-10-25 56（+4）
 
 
 ---

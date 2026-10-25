@@ -44,13 +44,13 @@ OpenADMET 项目的模型实现库，提供用于 ADMET（吸收、分布、代�
 
 ```mermaid
 xychart-beta
-    title "OpenADMET/openadmet-models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    title "OpenADMET/openadmet-models 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 58 --> 62
-    line [59, 60, 61]
+    line [59, 60, 61, 61]
 ```
 
-2026-10-18 59 → 2026-10-24 61（+2）
+2026-10-18 59 → 2026-10-25 61（+2）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "boxabirds/awesome-local-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 55 --> 59
-    line [56, 57, 58]
+    title "boxabirds/awesome-local-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 55 --> 60
+    line [56, 57, 58, 59]
 ```
 
-2026-10-18 56 → 2026-10-24 58（+2）
+2026-10-18 56 → 2026-10-25 59（+3）
 
 
 ---

@@ -45,13 +45,13 @@ fenic 是一个 Python 语义 DataFrame 查询引擎：在 PySpark/SQL 风格操
 
 ```mermaid
 xychart-beta
-    title "typedef-ai/fenic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "typedef-ai/fenic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 672 --> 675
-    line [673, 674]
+    line [673, 674, 674]
 ```
 
-2026-10-18 673 → 2026-10-24 674（+1）
+2026-10-18 673 → 2026-10-25 674（+1）
 
 
 ---

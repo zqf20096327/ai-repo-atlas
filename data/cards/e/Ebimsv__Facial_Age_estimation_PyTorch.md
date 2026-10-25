@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ebimsv/Facial_Age_estimation_PyTorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-24 88（+0）
+2026-10-18 88 → 2026-10-25 88（+0）
 
 
 ---

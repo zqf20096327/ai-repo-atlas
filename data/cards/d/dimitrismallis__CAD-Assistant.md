@@ -45,12 +45,12 @@ CAD-Assistant 的官方代码库，是面向 AI 辅助 CAD 的工具增强视觉
 ```mermaid
 xychart-beta
     title "dimitrismallis/CAD-Assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-18 85 → 2026-10-24 85（+0）
+2026-10-18 85 → 2026-10-25 85（+0）
 
 
 ---

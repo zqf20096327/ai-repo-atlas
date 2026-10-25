@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rmcmillan34/algorithmic-trading-learning-roadmap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 252 --> 256
-    line [253, 254, 255]
+    title "rmcmillan34/algorithmic-trading-learning-roadmap 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 252 --> 257
+    line [253, 254, 255, 256]
 ```
 
-2026-10-18 253 → 2026-10-24 255（+2）
+2026-10-18 253 → 2026-10-25 256（+3）
 
 
 ---

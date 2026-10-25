@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "aniketpotabatti/Data-Science-EBooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "aniketpotabatti/Data-Science-EBooks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 978 --> 982
-    line [979, 980, 981]
+    line [979, 980, 981, 981]
 ```
 
-2026-10-18 979 → 2026-10-24 981（+2）
+2026-10-18 979 → 2026-10-25 981（+2）
 
 
 ---

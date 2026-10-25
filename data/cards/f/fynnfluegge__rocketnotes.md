@@ -45,13 +45,13 @@ Web 端与 Electron 桌面端的 Markdown 笔记应用，面向个人知识管�
 
 ```mermaid
 xychart-beta
-    title "fynnfluegge/rocketnotes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "fynnfluegge/rocketnotes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1495 --> 1498
-    line [1496, 1497]
+    line [1496, 1497, 1496]
 ```
 
-2026-10-18 1,496 → 2026-10-24 1,497（+1）
+2026-10-18 1,496 → 2026-10-25 1,496（+0）
 
 
 ---

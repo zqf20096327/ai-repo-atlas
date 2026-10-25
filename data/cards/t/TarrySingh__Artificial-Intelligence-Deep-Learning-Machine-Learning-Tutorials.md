@@ -44,13 +44,13 @@ Synapsa 团队维护的实践型 AI 课程仓库，共 77 节通过 14 项质量
 
 ```mermaid
 xychart-beta
-    title "TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    title "TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 4011 --> 4018
-    line [4013, 4012, 4016, 4017]
+    line [4013, 4012, 4016, 4017, 4017]
 ```
 
-2026-10-18 4,013 → 2026-10-24 4,017（+4）
+2026-10-18 4,013 → 2026-10-25 4,017（+4）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "frmoretto/stream-coding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "frmoretto/stream-coding 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 95 --> 98
-    line [96, 97]
+    line [96, 97, 97]
 ```
 
-2026-10-18 96 → 2026-10-24 97（+1）
+2026-10-18 96 → 2026-10-25 97（+1）
 
 
 ---

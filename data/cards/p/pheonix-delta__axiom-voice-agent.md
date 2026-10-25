@@ -46,12 +46,12 @@ AXIOM 是为机器人与边缘环境构建的语音代理：通过 WebSocket 实
 ```mermaid
 xychart-beta
     title "pheonix-delta/axiom-voice-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 145 --> 147
     line [146, 146]
 ```
 
-2026-10-18 146 → 2026-10-24 146（+0）
+2026-10-18 146 → 2026-10-25 146（+0）
 
 
 ---

@@ -45,12 +45,12 @@ NVIDIA Ising 项目下的量子器件校准 agent 蓝图：通过自然语言或
 ```mermaid
 xychart-beta
     title "NVIDIA/Quantum-Calibration-Agent-Blueprint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-24 73（+0）
+2026-10-18 73 → 2026-10-25 73（+0）
 
 
 ---

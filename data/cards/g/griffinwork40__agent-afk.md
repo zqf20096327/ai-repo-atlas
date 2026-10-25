@@ -47,12 +47,12 @@ Apache-2.0 的开源编码 agent harness，npm 全局安装本地运行，支持
 ```mermaid
 xychart-beta
     title "griffinwork40/agent-afk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-24 61（+0）
+2026-10-18 61 → 2026-10-25 61（+0）
 
 
 ---

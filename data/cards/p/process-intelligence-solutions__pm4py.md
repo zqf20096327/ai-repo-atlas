@@ -45,13 +45,13 @@ PM4Py 是由 PIS（Fraunhofer FIT 衍生公司）维护的开源 Python 过程�
 
 ```mermaid
 xychart-beta
-    title "process-intelligence-solutions/pm4py 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24"]
+    title "process-intelligence-solutions/pm4py 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1058 --> 1069
-    line [1059, 1064, 1067, 1068]
+    line [1059, 1064, 1067, 1068, 1068]
 ```
 
-2026-10-18 1,059 → 2026-10-24 1,068（+9）
+2026-10-18 1,059 → 2026-10-25 1,068（+9）
 
 
 ---

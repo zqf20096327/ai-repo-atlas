@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanraisshan/claude-code-hooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 557 --> 562
-    line [558, 560, 561]
+    title "shanraisshan/claude-code-hooks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 557 --> 564
+    line [558, 560, 561, 563]
 ```
 
-2026-10-18 558 → 2026-10-24 561（+3）
+2026-10-18 558 → 2026-10-25 563（+5）
 
 
 ---

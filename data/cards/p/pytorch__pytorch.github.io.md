@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "pytorch/pytorch.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 285 --> 288
-    line [286, 287]
+    title "pytorch/pytorch.github.io 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 285 --> 289
+    line [286, 287, 288]
 ```
 
-2026-10-18 286 → 2026-10-24 287（+1）
+2026-10-18 286 → 2026-10-25 288（+2）
 
 
 ---

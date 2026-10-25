@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Generative-AI-for-beginners-java 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "microsoft/Generative-AI-for-beginners-java 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 566 --> 574
-    line [567, 570, 573]
+    line [567, 570, 573, 573]
 ```
 
-2026-10-18 567 → 2026-10-24 573（+6）
+2026-10-18 567 → 2026-10-25 573（+6）
 
 
 ---

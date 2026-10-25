@@ -46,12 +46,12 @@ CertiSwap 将 PDF、图片等文档计算 Merkle 哈希并写入 Ethereum/Polygo
 ```mermaid
 xychart-beta
     title "Sujal-142/ai-image-clean-eraser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 119 --> 121
     line [120, 120]
 ```
 
-2026-10-18 120 → 2026-10-24 120（+0）
+2026-10-18 120 → 2026-10-25 120（+0）
 
 
 ---

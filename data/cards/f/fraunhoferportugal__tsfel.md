@@ -44,13 +44,13 @@ TSFEL 是 Fraunhofer Portugal 维护的开源 Python 库，面向时间序列分
 
 ```mermaid
 xychart-beta
-    title "fraunhoferportugal/tsfel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "fraunhoferportugal/tsfel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 1106 --> 1110
-    line [1107, 1109]
+    line [1107, 1109, 1109]
 ```
 
-2026-10-18 1,107 → 2026-10-24 1,109（+2）
+2026-10-18 1,107 → 2026-10-25 1,109（+2）
 
 
 ---

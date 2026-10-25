@@ -45,13 +45,13 @@ VS Code 扩展，将 Calva 的 Clojure 工具暴露给 VS Code AI agent 框架�
 
 ```mermaid
 xychart-beta
-    title "BetterThanTomorrow/calva-backseat-driver 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "BetterThanTomorrow/calva-backseat-driver 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 62 --> 65
-    line [64, 63]
+    line [64, 63, 63]
 ```
 
-2026-10-18 64 → 2026-10-24 63（-1）
+2026-10-18 64 → 2026-10-25 63（-1）
 
 
 ---

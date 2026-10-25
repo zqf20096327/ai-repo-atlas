@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "omega-memory/omega-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "omega-memory/omega-memory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 223 --> 226
-    line [225, 224]
+    line [225, 224, 224]
 ```
 
-2026-10-18 225 → 2026-10-24 224（-1）
+2026-10-18 225 → 2026-10-25 224（-1）
 
 
 ---

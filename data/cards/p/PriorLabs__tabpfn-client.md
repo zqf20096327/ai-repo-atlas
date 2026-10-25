@@ -45,12 +45,12 @@ PriorLabs 官方的 tabpfn-client：以 scikit-learn 兼容的 TabPFNClassifier/
 ```mermaid
 xychart-beta
     title "PriorLabs/tabpfn-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 251 --> 253
     line [252, 252]
 ```
 
-2026-10-18 252 → 2026-10-24 252（+0）
+2026-10-18 252 → 2026-10-25 252（+0）
 
 
 ---

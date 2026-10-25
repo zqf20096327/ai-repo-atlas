@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AdaptInfer/CompBioDatasetsForMachineLearning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 208 --> 210
     line [209, 209]
 ```
 
-2026-10-18 209 → 2026-10-24 209（+0）
+2026-10-18 209 → 2026-10-25 209（+0）
 
 
 ---

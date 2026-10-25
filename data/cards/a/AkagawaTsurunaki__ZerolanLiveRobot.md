@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AkagawaTsurunaki/ZerolanLiveRobot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 814 --> 819
-    line [815, 816, 817, 818]
+    title "AkagawaTsurunaki/ZerolanLiveRobot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 814 --> 820
+    line [815, 816, 817, 818, 819]
 ```
 
-2026-10-18 815 → 2026-10-24 818（+3）
+2026-10-18 815 → 2026-10-25 819（+4）
 
 
 ---

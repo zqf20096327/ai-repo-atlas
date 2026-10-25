@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zenml-io/awesome-open-data-annotation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "zenml-io/awesome-open-data-annotation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 731 --> 734
-    line [732, 733]
+    line [732, 733, 733]
 ```
 
-2026-10-18 732 → 2026-10-24 733（+1）
+2026-10-18 732 → 2026-10-25 733（+1）
 
 
 ---

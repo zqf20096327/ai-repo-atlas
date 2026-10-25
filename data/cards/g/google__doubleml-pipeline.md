@@ -45,13 +45,13 @@ Google APAC 营销效果工作组维护的 Python 库，基于 DoubleML 与 FLAM
 
 ```mermaid
 xychart-beta
-    title "google/doubleml-pipeline 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "google/doubleml-pipeline 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 70 --> 79
-    line [71, 72, 73, 78]
+    line [71, 72, 73, 78, 78]
 ```
 
-2026-10-18 71 → 2026-10-24 78（+7）
+2026-10-18 71 → 2026-10-25 78（+7）
 
 
 ---

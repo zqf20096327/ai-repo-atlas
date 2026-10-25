@@ -44,12 +44,12 @@ FIIT STU（斯洛伐克理工大学）IAU_B 课程 'Intelligent Data Analysis' �
 ```mermaid
 xychart-beta
     title "FIIT-IAU/IAU-course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    y-axis "stars" 53 --> 57
+    line [54, 55, 56]
 ```
 
-2026-10-18 54 → 2026-10-24 55（+1）
+2026-10-18 54 → 2026-10-25 56（+2）
 
 
 ---

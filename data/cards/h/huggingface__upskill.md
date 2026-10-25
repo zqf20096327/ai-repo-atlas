@@ -45,13 +45,13 @@ Hugging Face 维护的 Python CLI：从任务描述或既有 agent 轨迹生成 
 
 ```mermaid
 xychart-beta
-    title "huggingface/upskill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "huggingface/upskill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 760 --> 765
-    line [762, 764, 761]
+    line [762, 764, 761, 761]
 ```
 
-2026-10-18 762 → 2026-10-24 761（-1）
+2026-10-18 762 → 2026-10-25 761（-1）
 
 
 ---

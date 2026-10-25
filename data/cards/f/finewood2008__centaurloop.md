@@ -46,12 +46,12 @@ TypeScript/React 实现的开源框架与本地工作台 MVP，把岗位拆解�
 ```mermaid
 xychart-beta
     title "finewood2008/centaurloop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 65 --> 74
+    line [73, 66]
 ```
 
-2026-10-18 73 → 2026-10-24 73（+0）
+2026-10-18 73 → 2026-10-25 66（-7）
 
 
 ---

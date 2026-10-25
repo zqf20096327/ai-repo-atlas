@@ -44,13 +44,13 @@ CorridorKey 2.0 是由 Zachary Harris 与 Corridor Digital 合作设计训练的
 
 ```mermaid
 xychart-beta
-    title "nikopueringer/CorridorKey2.0 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 0 --> 1275
-    line [47, 872, 1164]
+    title "nikopueringer/CorridorKey2.0 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 0 --> 1456
+    line [47, 872, 1164, 1328]
 ```
 
-2026-10-22 47 → 2026-10-24 1,164（+1,117）
+2026-10-22 47 → 2026-10-25 1,328（+1,281）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SXP-Simon/astrbot_plugin_qq_group_daily_analysis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "SXP-Simon/astrbot_plugin_qq_group_daily_analysis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 514 --> 525
-    line [515, 520, 521, 524]
+    line [515, 520, 521, 524, 524]
 ```
 
-2026-10-18 515 → 2026-10-24 524（+9）
+2026-10-18 515 → 2026-10-25 524（+9）
 
 
 ---

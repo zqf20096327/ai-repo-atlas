@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KegangWangCCNU/FacePhys-Demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "KegangWangCCNU/FacePhys-Demo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 62 --> 65
-    line [64, 63]
+    line [64, 63, 63]
 ```
 
-2026-10-18 64 → 2026-10-24 63（-1）
+2026-10-18 64 → 2026-10-25 63（-1）
 
 
 ---

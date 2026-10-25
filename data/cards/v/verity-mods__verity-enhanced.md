@@ -40,6 +40,18 @@
 > L44: - 🧠 **Advanced AI & Patience System:** The "patience" mechanic has been completely overhauled. Verity now reacts dy
 > L61: No, it's a standard Java modification. Because we use custom AI libraries to improve Verity's behavior, some antivi
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "verity-mods/verity-enhanced 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 99 --> 101
+    line [100, 100]
+```
+
+2026-10-24 100 → 2026-10-25 100（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `ed1cd707f157` · [字段定义](../../DATASET.md)*

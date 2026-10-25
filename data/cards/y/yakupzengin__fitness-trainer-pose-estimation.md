@@ -44,13 +44,13 @@ Flask + OpenCV + MediaPipe 实现的 Web 健身追踪应用：通过摄像头实
 
 ```mermaid
 xychart-beta
-    title "yakupzengin/fitness-trainer-pose-estimation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "yakupzengin/fitness-trainer-pose-estimation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 105 --> 111
-    line [106, 108, 109, 110]
+    line [106, 108, 109, 110, 110]
 ```
 
-2026-10-18 106 → 2026-10-24 110（+4）
+2026-10-18 106 → 2026-10-25 110（+4）
 
 
 ---

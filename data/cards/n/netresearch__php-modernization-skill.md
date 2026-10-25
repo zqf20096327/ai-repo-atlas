@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "netresearch/php-modernization-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-24 54（+0）
+2026-10-18 54 → 2026-10-25 54（+0）
 
 
 ---

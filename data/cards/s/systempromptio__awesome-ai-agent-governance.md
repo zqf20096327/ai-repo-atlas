@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "systempromptio/awesome-ai-agent-governance 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 54]
 ```
 
-2026-10-18 52 → 2026-10-24 53（+1）
+2026-10-18 52 → 2026-10-25 54（+2）
 
 
 ---

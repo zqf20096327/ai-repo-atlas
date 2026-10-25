@@ -44,13 +44,13 @@ Loopcut 是 Blender 5.2.2 的 GPL 分支，在其中加入一个 AI agent 面板
 
 ```mermaid
 xychart-beta
-    title "Samffprice/loopcut 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 88 --> 148
-    line [93, 125, 143]
+    title "Samffprice/loopcut 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 87 --> 159
+    line [93, 125, 143, 153]
 ```
 
-2026-10-22 93 → 2026-10-24 143（+50）
+2026-10-22 93 → 2026-10-25 153（+60）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "bilalonur/awesome-llm-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "bilalonur/awesome-llm-os 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 165 --> 168
-    line [166, 167]
+    line [166, 167, 167]
 ```
 
-2026-10-18 166 → 2026-10-24 167（+1）
+2026-10-18 166 → 2026-10-25 167（+1）
 
 
 ---

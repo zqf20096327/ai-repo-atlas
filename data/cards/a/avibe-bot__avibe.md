@@ -45,13 +45,13 @@ Avibe 在用户本机运行官方 Claude Code、Codex、OpenCode CLI 及内置 a
 
 ```mermaid
 xychart-beta
-    title "avibe-bot/avibe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 625 --> 632
-    line [626, 630, 631]
+    title "avibe-bot/avibe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 625 --> 633
+    line [626, 630, 631, 632]
 ```
 
-2026-10-18 626 → 2026-10-24 631（+5）
+2026-10-18 626 → 2026-10-25 632（+6）
 
 
 ---

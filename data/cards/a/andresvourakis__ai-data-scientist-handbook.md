@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "andresvourakis/ai-data-scientist-handbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 132 --> 134
-    line [133, 133]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 132 --> 135
+    line [133, 134]
 ```
 
-2026-10-18 133 → 2026-10-24 133（+0）
+2026-10-18 133 → 2026-10-25 134（+1）
 
 
 ---

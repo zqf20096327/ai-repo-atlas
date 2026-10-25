@@ -45,13 +45,13 @@ Hugging Face 维护的动手课程：教 ML 工程师、研究者与爱好者使
 
 ```mermaid
 xychart-beta
-    title "huggingface/openenv-course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "huggingface/openenv-course 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 87 --> 91
-    line [88, 89, 90]
+    line [88, 89, 90, 90]
 ```
 
-2026-10-18 88 → 2026-10-24 90（+2）
+2026-10-18 88 → 2026-10-25 90（+2）
 
 
 ---

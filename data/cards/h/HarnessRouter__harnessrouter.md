@@ -44,13 +44,13 @@ Apache-2.0 的基础设施层：将 Codex、Claude Code、DeepSeek Harness 等 2
 
 ```mermaid
 xychart-beta
-    title "HarnessRouter/harnessrouter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 3067 --> 3286
-    line [3085, 3141, 3227, 3268]
+    title "HarnessRouter/harnessrouter 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 3058 --> 3383
+    line [3085, 3141, 3227, 3268, 3356]
 ```
 
-2026-10-18 3,085 → 2026-10-24 3,268（+183）
+2026-10-18 3,085 → 2026-10-25 3,356（+271）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zlatko-minev/zlatko-minev-quantum-repository 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 103 --> 113
-    line [104, 105, 107, 112]
+    title "zlatko-minev/zlatko-minev-quantum-repository 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 103 --> 114
+    line [104, 105, 107, 112, 113]
 ```
 
-2026-10-18 104 → 2026-10-24 112（+8）
+2026-10-18 104 → 2026-10-25 113（+9）
 
 
 ---

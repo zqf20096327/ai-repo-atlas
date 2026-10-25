@@ -47,12 +47,12 @@ ISMIR 2024 论文 Audio Prompt Adapter 的官方实现：在文本生成音乐�
 ```mermaid
 xychart-beta
     title "fundwotsai2001/AP-adapter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-24 57（+0）
+2026-10-18 57 → 2026-10-25 57（+0）
 
 
 ---

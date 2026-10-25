@@ -45,12 +45,12 @@ EEG-DaSh 是 MEEG（EEG、MEG） recordings 的数据共享归档与 Python 库�
 ```mermaid
 xychart-beta
     title "eegdash/EEGDash 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 88 --> 90
     line [89, 89]
 ```
 
-2026-10-18 89 → 2026-10-24 89（+0）
+2026-10-18 89 → 2026-10-25 89（+0）
 
 
 ---

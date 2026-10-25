@@ -45,12 +45,12 @@ Adobe Photoshop 的 UXP 原生扩展（CC 2024+），用机器学习算法自动
 ```mermaid
 xychart-beta
     title "FuelMagistrateLead/photoshop-ai-smart-enhance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 111 --> 113
     line [112, 112]
 ```
 
-2026-10-18 112 → 2026-10-24 112（+0）
+2026-10-18 112 → 2026-10-25 112（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "estebanstifli/LocalText2Voice 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
+    title "estebanstifli/LocalText2Voice 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
     y-axis "stars" 393 --> 399
-    line [394, 397, 398]
+    line [394, 397, 398, 398]
 ```
 
-2026-10-18 394 → 2026-10-24 398（+4）
+2026-10-18 394 → 2026-10-25 398（+4）
 
 
 ---

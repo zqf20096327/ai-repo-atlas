@@ -44,13 +44,13 @@ Microsoft 365 Agent SDK 的 C#/.NET 实现，用于构建覆盖 M365、Teams、C
 
 ```mermaid
 xychart-beta
-    title "microsoft/Agents-for-net 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    title "microsoft/Agents-for-net 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 181 --> 185
-    line [182, 183, 184]
+    line [182, 183, 184, 184]
 ```
 
-2026-10-18 182 → 2026-10-24 184（+2）
+2026-10-18 182 → 2026-10-25 184（+2）
 
 
 ---

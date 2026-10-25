@@ -45,12 +45,12 @@ ComfyUI 自定义节点，以 TensorRT 引擎运行 RIFE 模型做视频帧插�
 ```mermaid
 xychart-beta
     title "yuvraj108c/ComfyUI-Rife-Tensorrt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 120 --> 123
+    line [121, 122]
 ```
 
-2026-10-18 121 → 2026-10-24 121（+0）
+2026-10-18 121 → 2026-10-25 122（+1）
 
 
 ---

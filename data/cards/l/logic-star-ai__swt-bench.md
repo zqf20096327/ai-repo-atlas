@@ -45,13 +45,13 @@ NeurIPS 2024 论文的基准与评测框架：给定代码库与 GitHub issue，
 
 ```mermaid
 xychart-beta
-    title "logic-star-ai/swt-bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "logic-star-ai/swt-bench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 90 --> 93
-    line [91, 92]
+    line [91, 92, 92]
 ```
 
-2026-10-18 91 → 2026-10-24 92（+1）
+2026-10-18 91 → 2026-10-25 92（+1）
 
 
 ---

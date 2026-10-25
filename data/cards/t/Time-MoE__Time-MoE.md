@@ -46,12 +46,12 @@ ICLR 2025 Spotlight 论文 Time-MoE 的官方代码：提供 decoder-only、混�
 ```mermaid
 xychart-beta
     title "Time-MoE/Time-MoE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 1005 --> 1007
     line [1006, 1006]
 ```
 
-2026-10-18 1,006 → 2026-10-24 1,006（+0）
+2026-10-18 1,006 → 2026-10-25 1,006（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24"]
-    y-axis "stars" 327 --> 629
-    line [352, 429, 484, 524, 604]
+    title "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 325 --> 650
+    line [352, 429, 484, 524, 604, 623]
 ```
 
-2026-10-18 352 → 2026-10-24 604（+252）
+2026-10-18 352 → 2026-10-25 623（+271）
 
 
 ---

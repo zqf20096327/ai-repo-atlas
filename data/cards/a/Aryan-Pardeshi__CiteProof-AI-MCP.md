@@ -41,6 +41,18 @@
 > L29: CiteProof MCP keeps the records a systematic review needs and checks them: a protocol, a PRISMA record, a screening
 > L31: The server has no language model inside. The agent searches, reads, decides and writes. The server stores each deci
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aryan-Pardeshi/CiteProof-AI-MCP 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 87 --> 90
+    line [89, 88]
+```
+
+2026-10-24 89 → 2026-10-25 88（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `8d34a9986286` · [字段定义](../../DATASET.md)*

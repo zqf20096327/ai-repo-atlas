@@ -41,6 +41,18 @@
 > L53: 2. Open Claude Code in your agent repo and say: `Run the single-agent-loop skill.`
 > L92: The steps hand off to these Claude Code commands instead of rebuilding them:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anthropics/single-agent-loop-kit 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 12 --> 75
+    line [17, 70]
+```
+
+2026-10-24 17 → 2026-10-25 70（+53）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `8ec43039ba06` · [字段定义](../../DATASET.md)*

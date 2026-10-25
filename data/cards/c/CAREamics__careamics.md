@@ -44,13 +44,13 @@ CAREamics 是一个 PyTorch 库，将 Noise2Void 及其变体和相关方法（C
 
 ```mermaid
 xychart-beta
-    title "CAREamics/careamics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
+    title "CAREamics/careamics 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
     y-axis "stars" 153 --> 158
-    line [154, 156, 157]
+    line [154, 156, 157, 157]
 ```
 
-2026-10-18 154 → 2026-10-24 157（+3）
+2026-10-18 154 → 2026-10-25 157（+3）
 
 
 ---

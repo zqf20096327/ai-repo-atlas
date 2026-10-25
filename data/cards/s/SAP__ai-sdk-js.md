@@ -46,12 +46,12 @@ SAP 官方维护的 JavaScript/TypeScript SDK，面向在业务应用中集成 S
 ```mermaid
 xychart-beta
     title "SAP/ai-sdk-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 126 --> 128
-    line [127, 127]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 126 --> 129
+    line [127, 128]
 ```
 
-2026-10-18 127 → 2026-10-24 127（+0）
+2026-10-18 127 → 2026-10-25 128（+1）
 
 
 ---

@@ -45,13 +45,13 @@ MCP 服务器，将 Claude Code、Cursor、Windsurf 等 AI 客户端连接到 Un
 
 ```mermaid
 xychart-beta
-    title "Glade-tool/glade-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 213 --> 218
-    line [214, 217]
+    title "Glade-tool/glade-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 211 --> 218
+    line [214, 217, 212]
 ```
 
-2026-10-18 214 → 2026-10-24 217（+3）
+2026-10-18 214 → 2026-10-25 212（-2）
 
 
 ---

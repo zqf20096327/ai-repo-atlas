@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/php2shell-checker 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 746 --> 1120
-    line [777, 1089]
+    title "openai/php2shell-checker 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 718 --> 1432
+    line [777, 1089, 1373]
 ```
 
-2026-10-23 777 → 2026-10-24 1,089（+312）
+2026-10-23 777 → 2026-10-25 1,373（+596）
 
 
 ---

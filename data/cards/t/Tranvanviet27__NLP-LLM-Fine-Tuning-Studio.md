@@ -45,12 +45,12 @@ PolyglotMind 提供模块化的 LLM 有监督微调编排层：包含训练调�
 ```mermaid
 xychart-beta
     title "Tranvanviet27/NLP-LLM-Fine-Tuning-Studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-24 57（+0）
+2026-10-18 57 → 2026-10-25 57（+0）
 
 
 ---

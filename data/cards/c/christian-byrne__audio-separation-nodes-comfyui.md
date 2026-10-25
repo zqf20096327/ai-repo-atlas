@@ -44,13 +44,13 @@ ComfyUI 自定义节点集合，核心的 Audio Separation 节点使用 Hybrid D
 
 ```mermaid
 xychart-beta
-    title "christian-byrne/audio-separation-nodes-comfyui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 644 --> 649
-    line [645, 647, 648]
+    title "christian-byrne/audio-separation-nodes-comfyui 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 644 --> 650
+    line [645, 647, 648, 649]
 ```
 
-2026-10-18 645 → 2026-10-24 648（+3）
+2026-10-18 645 → 2026-10-25 649（+4）
 
 
 ---

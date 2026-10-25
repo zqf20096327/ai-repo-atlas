@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yelinyuan798-commits/UniversalECommerceBot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24"]
+    title "yelinyuan798-commits/UniversalECommerceBot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 46 --> 50
-    line [47, 48, 49]
+    line [47, 48, 49, 49]
 ```
 
-2026-10-18 47 → 2026-10-24 49（+2）
+2026-10-18 47 → 2026-10-25 49（+2）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jinzcdev/leetcode-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "jinzcdev/leetcode-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 153 --> 156
-    line [154, 155]
+    line [154, 155, 155]
 ```
 
-2026-10-18 154 → 2026-10-24 155（+1）
+2026-10-18 154 → 2026-10-25 155（+1）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Fly143/ultimate-novel-creation-skill 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-24"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-23", "2026-10-25"]
+    y-axis "stars" 49 --> 52
+    line [51, 50]
 ```
 
-2026-10-23 51 → 2026-10-24 51（+0）
+2026-10-23 51 → 2026-10-25 50（-1）
 
 
 ---

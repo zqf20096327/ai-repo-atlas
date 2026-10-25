@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BAMresearch/automatic-sem-image-segmentation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-18 82 → 2026-10-24 82（+0）
+2026-10-18 82 → 2026-10-25 82（+0）
 
 
 ---

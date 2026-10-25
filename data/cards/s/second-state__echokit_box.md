@@ -44,12 +44,12 @@ Second State 维护的 EchoKit 语音设备固件，面向 ESP32-S3（xtensa-esp
 ```mermaid
 xychart-beta
     title "second-state/echokit_box 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 216 --> 218
     line [217, 217]
 ```
 
-2026-10-18 217 → 2026-10-24 217（+0）
+2026-10-18 217 → 2026-10-25 217（+0）
 
 
 ---

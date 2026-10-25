@@ -47,12 +47,12 @@ Google 开源的 Python DataFrame 库，将 pandas 风格代码转译为 SQL 在
 ```mermaid
 xychart-beta
     title "google/bigframes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 296 --> 298
     line [297, 297]
 ```
 
-2026-10-18 297 → 2026-10-24 297（+0）
+2026-10-18 297 → 2026-10-25 297（+0）
 
 
 ---

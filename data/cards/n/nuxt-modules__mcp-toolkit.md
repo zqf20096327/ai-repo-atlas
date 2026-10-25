@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nuxt-modules/mcp-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 178 --> 181
-    line [179, 180]
+    title "nuxt-modules/mcp-toolkit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 178 --> 182
+    line [179, 180, 181]
 ```
 
-2026-10-18 179 → 2026-10-24 180（+1）
+2026-10-18 179 → 2026-10-25 181（+2）
 
 
 ---

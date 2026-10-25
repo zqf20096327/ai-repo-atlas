@@ -45,12 +45,12 @@ PyTorch 生态下的 Python 机器学习库，采用 pipeline 式统一 API（lo
 ```mermaid
 xychart-beta
     title "pykale/pykale 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 489 --> 491
     line [490, 490]
 ```
 
-2026-10-18 490 → 2026-10-24 490（+0）
+2026-10-18 490 → 2026-10-25 490（+0）
 
 
 ---

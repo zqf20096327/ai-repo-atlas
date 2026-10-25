@@ -45,13 +45,13 @@ ETH Zurich SRI Lab 的研究代码，实现基于上下文无关文法（CFG）�
 
 ```mermaid
 xychart-beta
-    title "eth-sri/constrained-diffusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "eth-sri/constrained-diffusion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 56 --> 59
-    line [57, 58]
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-10-24 58（+1）
+2026-10-18 57 → 2026-10-25 58（+1）
 
 
 ---

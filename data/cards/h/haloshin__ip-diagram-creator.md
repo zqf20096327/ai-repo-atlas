@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "haloshin/ip-diagram-creator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "haloshin/ip-diagram-creator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 261 --> 264
-    line [262, 263]
+    line [262, 263, 263]
 ```
 
-2026-10-18 262 → 2026-10-24 263（+1）
+2026-10-18 262 → 2026-10-25 263（+1）
 
 
 ---

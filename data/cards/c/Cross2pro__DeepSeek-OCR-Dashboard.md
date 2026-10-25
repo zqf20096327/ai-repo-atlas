@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cross2pro/DeepSeek-OCR-Dashboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 120 --> 123
-    line [121, 122]
+    title "Cross2pro/DeepSeek-OCR-Dashboard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 119 --> 123
+    line [121, 122, 120]
 ```
 
-2026-10-18 121 → 2026-10-24 122（+1）
+2026-10-18 121 → 2026-10-25 120（-1）
 
 
 ---

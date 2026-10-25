@@ -38,6 +38,18 @@ Sloth 是一个网关与服务发现注册中心，面向 AI agent、API 和 MCP
 
 > L15: Sloth is a gateway and service discovery registry for AI agents, APIs and MCP servers. Register your AI agent, let 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Clivern/Sloth 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 196 --> 198
+    line [197, 197]
+```
+
+2026-10-24 197 → 2026-10-25 197（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `1af3974dcf80` · [字段定义](../../DATASET.md)*

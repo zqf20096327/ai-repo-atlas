@@ -45,12 +45,12 @@ eQuill Labs 维护的 Node.js 分块库：将文本拆分为句子，用本地 O
 ```mermaid
 xychart-beta
     title "jparkerweb/semantic-chunking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 143 --> 145
     line [144, 144]
 ```
 
-2026-10-18 144 → 2026-10-24 144（+0）
+2026-10-18 144 → 2026-10-25 144（+0）
 
 
 ---

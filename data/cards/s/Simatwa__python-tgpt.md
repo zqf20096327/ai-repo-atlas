@@ -49,12 +49,12 @@ tgpt（Golang 版）的 Python 适配：封装 phind、leo、koboldai、opengpt�
 ```mermaid
 xychart-beta
     title "Simatwa/python-tgpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 176 --> 178
-    line [177, 177]
+    x-axis ["2026-10-18", "2026-10-25"]
+    y-axis "stars" 175 --> 178
+    line [177, 176]
 ```
 
-2026-10-18 177 → 2026-10-24 177（+0）
+2026-10-18 177 → 2026-10-25 176（-1）
 
 
 ---

@@ -44,13 +44,13 @@ ECCV 2024 Oral 论文的官方代码。基于 ACE 场景坐标回归模型（MLP
 
 ```mermaid
 xychart-beta
-    title "nianticlabs/acezero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "nianticlabs/acezero 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 807 --> 810
-    line [808, 809]
+    line [808, 809, 809]
 ```
 
-2026-10-18 808 → 2026-10-24 809（+1）
+2026-10-18 808 → 2026-10-25 809（+1）
 
 
 ---

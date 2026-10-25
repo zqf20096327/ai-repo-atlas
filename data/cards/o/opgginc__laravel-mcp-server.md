@@ -45,12 +45,12 @@ OP.GG 维护的 Laravel/Lumen Composer 包，以路由优先方式注册 MCP 端
 ```mermaid
 xychart-beta
     title "opgginc/laravel-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 329 --> 331
     line [330, 330]
 ```
 
-2026-10-18 330 → 2026-10-24 330（+0）
+2026-10-18 330 → 2026-10-25 330（+0）
 
 
 ---

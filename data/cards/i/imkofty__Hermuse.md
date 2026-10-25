@@ -41,6 +41,18 @@
 > L20: agent from Nous Research) + 9Router + a Telegram gateway on your own server —
 > L36: 1. `bash scripts/install.sh` — installs everything (dependencies, Hermes, 9Router)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "imkofty/Hermuse 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-10-25"]
+    y-axis "stars" 127 --> 134
+    line [128, 133]
+```
+
+2026-10-24 128 → 2026-10-25 133（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `93c0b3b67980` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Neph0s/awesome-llm-role-playing-with-persona 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
-    y-axis "stars" 1077 --> 1080
-    line [1078, 1079]
+    title "Neph0s/awesome-llm-role-playing-with-persona 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 1077 --> 1081
+    line [1078, 1079, 1080]
 ```
 
-2026-10-18 1,078 → 2026-10-24 1,079（+1）
+2026-10-18 1,078 → 2026-10-25 1,080（+2）
 
 
 ---

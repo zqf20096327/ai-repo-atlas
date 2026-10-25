@@ -45,12 +45,12 @@ OpenCode 的 Rust 实现，提供 CLI、TUI 与 HTTP server 三种形态，统�
 ```mermaid
 xychart-beta
     title "vakandi/opencode-rust 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 71 --> 74
-    line [72, 73, 73]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    y-axis "stars" 50 --> 75
+    line [72, 73, 52]
 ```
 
-2026-10-18 72 → 2026-10-24 73（+1）
+2026-10-18 72 → 2026-10-25 52（-20）
 
 
 ---

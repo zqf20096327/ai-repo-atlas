@@ -45,12 +45,12 @@ Microsoft AI for Good Lab 开源的相机陷阱图像检测模型 MegaDetector V
 ```mermaid
 xychart-beta
     title "microsoft/MegaDetector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-24 55（+0）
+2026-10-18 55 → 2026-10-25 55（+0）
 
 
 ---

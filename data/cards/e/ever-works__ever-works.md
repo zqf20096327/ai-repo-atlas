@@ -45,13 +45,13 @@ Ever Co. LTD 维护的 TypeScript monorepo 平台（Turborepo + pnpm，NestJS AP
 
 ```mermaid
 xychart-beta
-    title "ever-works/ever-works 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24"]
-    y-axis "stars" 169 --> 180
-    line [170, 171, 179]
+    title "ever-works/ever-works 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 169 --> 181
+    line [170, 171, 179, 180]
 ```
 
-2026-10-18 170 → 2026-10-24 179（+9）
+2026-10-18 170 → 2026-10-25 180（+10）
 
 
 ---

@@ -45,13 +45,13 @@ StepFun 开发的分布式通信库，服务于 Attention-FFN 解耦（分离式
 
 ```mermaid
 xychart-beta
-    title "stepfun-ai/StepMesh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "stepfun-ai/StepMesh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 388 --> 391
-    line [389, 390]
+    line [389, 390, 390]
 ```
 
-2026-10-18 389 → 2026-10-24 390（+1）
+2026-10-18 389 → 2026-10-25 390（+1）
 
 
 ---

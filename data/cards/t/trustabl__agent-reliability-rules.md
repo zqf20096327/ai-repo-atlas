@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "trustabl/agent-reliability-rules 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24"]
-    y-axis "stars" 57 --> 61
-    line [58, 59, 60]
+    title "trustabl/agent-reliability-rules 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
+    y-axis "stars" 57 --> 62
+    line [58, 59, 60, 61]
 ```
 
-2026-10-18 58 → 2026-10-24 60（+2）
+2026-10-18 58 → 2026-10-25 61（+3）
 
 
 ---

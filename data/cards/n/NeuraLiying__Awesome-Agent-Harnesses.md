@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeuraLiying/Awesome-Agent-Harnesses 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24"]
+    title "NeuraLiying/Awesome-Agent-Harnesses 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 25 --> 53
-    line [27, 34, 45, 51]
+    line [27, 34, 45, 51, 51]
 ```
 
-2026-10-18 27 → 2026-10-24 51（+24）
+2026-10-18 27 → 2026-10-25 51（+24）
 
 
 ---

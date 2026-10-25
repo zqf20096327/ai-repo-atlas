@@ -45,13 +45,13 @@ Neovim 插件，将 LLM API 集成到文本编辑工作流中，功能为按需�
 
 ```mermaid
 xychart-beta
-    title "frankroeder/parrot.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    title "frankroeder/parrot.nvim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
     y-axis "stars" 791 --> 794
-    line [792, 793]
+    line [792, 793, 793]
 ```
 
-2026-10-18 792 → 2026-10-24 793（+1）
+2026-10-18 792 → 2026-10-25 793（+1）
 
 
 ---

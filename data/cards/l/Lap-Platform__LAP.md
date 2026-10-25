@@ -46,12 +46,12 @@ Lean API Platform 提供 lapsh 命令行工具与注册表：将 OpenAPI、Graph
 ```mermaid
 xychart-beta
     title "Lap-Platform/LAP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-24"]
+    x-axis ["2026-10-18", "2026-10-25"]
     y-axis "stars" 345 --> 347
     line [346, 346]
 ```
 
-2026-10-18 346 → 2026-10-24 346（+0）
+2026-10-18 346 → 2026-10-25 346（+0）
 
 
 ---

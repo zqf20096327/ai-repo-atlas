@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DogInfantry/claude-skill-management-consultant-B1 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24"]
+    title "DogInfantry/claude-skill-management-consultant-B1 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     y-axis "stars" 143 --> 148
-    line [145, 144, 145, 147]
+    line [145, 144, 145, 147, 147]
 ```
 
-2026-10-18 145 → 2026-10-24 147（+2）
+2026-10-18 145 → 2026-10-25 147（+2）
 
 
 ---
