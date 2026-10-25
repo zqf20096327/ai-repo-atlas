@@ -33,7 +33,7 @@ pi coding agent 的记忆扩展，忠实复现论文 Zero-Mem（arXiv:2607.29377
 
 ## 场景标签
 
- · 领域:LLM 记忆/Agent 基础设施
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

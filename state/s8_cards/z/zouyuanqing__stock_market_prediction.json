@@ -1,1 +1,83 @@
-{"fn": "zouyuanqing/stock_market_prediction", "sha": "86fc3d7b316b", "source": "readme", "identity": {"one_liner": "桌面股票预测工具：ARIMA/LSTM 预测行情并用 LLM 生成分析", "review": "基于 Tauri 2.0 + React 18 + TypeScript 的股票市场预测桌面应用：从 Yahoo Finance、Stooq 获取股票数据，计算 MA/RSI/MACD 等技术指标并生成交易信号；预测部分通过 Python Sidecar 运行 ARIMA（pmdarima 自动定阶）与 2 层 PyTorch LSTM（未来 5 日滚动预测）。AI 深度分析支持 DeepSeek、OpenAI 及兼容 API，填入 Key 后自动拉取模型列表，不填则跳过 AI 分析仅显示技术指标。网页版为模拟数据演示模式。面向需要进行股票行情分析与预测的个人用户。", "highlights": ["ARIMA + PyTorch LSTM（2 层）双模型预测，未来 5 日多步滚动", "Rust 通过 Python Sidecar 以 stdin/stdout JSON 调用预测脚本", "兼容 OpenAI API 格式的多家服务（DeepSeek/月之暗面/智谱等），自动发现模型", "Yahoo Finance 与 Stooq 双数据源一键切换"], "use_cases": ["查询股票并查看技术指标、交易信号与价格图表", "运行 ARIMA/LSTM 模型获取未来 5 日预测", "配置 API Key 后生成 AI 深度分析报告"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://zouyuanqing.github.io/stock_market_prediction/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["股票预测", "量化金融", "时间序列预测", "桌面应用", "LLM分析"], "domain": "金融/量化分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "月之暗面/智谱 AI/零一万物等国内 API 列表"]}, "trust": {"confidence": "high", "evidence": ["L3: 基于 **Tauri 2.0 + React 18 + TypeScript** 构建的现代化股票市场预测工具，集成 AI 智能分析。", "L68: ARIMA 和 LSTM 预测使用 Python Sidecar 模式：", "L72: - PyTorch LSTM 模型（2 层），支持未来 5 日多步滚动预测"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zouyuanqing/stock_market_prediction",
+ "sha": "86fc3d7b316b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面股票预测工具：ARIMA/LSTM 预测行情并用 LLM 生成分析",
+  "review": "基于 Tauri 2.0 + React 18 + TypeScript 的股票市场预测桌面应用：从 Yahoo Finance、Stooq 获取股票数据，计算 MA/RSI/MACD 等技术指标并生成交易信号；预测部分通过 Python Sidecar 运行 ARIMA（pmdarima 自动定阶）与 2 层 PyTorch LSTM（未来 5 日滚动预测）。AI 深度分析支持 DeepSeek、OpenAI 及兼容 API，填入 Key 后自动拉取模型列表，不填则跳过 AI 分析仅显示技术指标。网页版为模拟数据演示模式。面向需要进行股票行情分析与预测的个人用户。",
+  "highlights": [
+   "ARIMA + PyTorch LSTM（2 层）双模型预测，未来 5 日多步滚动",
+   "Rust 通过 Python Sidecar 以 stdin/stdout JSON 调用预测脚本",
+   "兼容 OpenAI API 格式的多家服务（DeepSeek/月之暗面/智谱等），自动发现模型",
+   "Yahoo Finance 与 Stooq 双数据源一键切换"
+  ],
+  "use_cases": [
+   "查询股票并查看技术指标、交易信号与价格图表",
+   "运行 ARIMA/LSTM 模型获取未来 5 日预测",
+   "配置 API Key 后生成 AI 深度分析报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://zouyuanqing.github.io/stock_market_prediction/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "股票预测",
+   "量化金融",
+   "时间序列预测",
+   "桌面应用",
+   "LLM分析"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "月之暗面/智谱 AI/零一万物等国内 API 列表"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 基于 **Tauri 2.0 + React 18 + TypeScript** 构建的现代化股票市场预测工具，集成 AI 智能分析。",
+   "L68: ARIMA 和 LSTM 预测使用 Python Sidecar 模式：",
+   "L72: - PyTorch LSTM 模型（2 层），支持未来 5 日多步滚动预测"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,83 @@
-{"fn": "xcisxc29/dsh-qq-plugin", "sha": "90ca9e5a9baa", "source": "readme", "identity": {"one_liner": "在 QQ 中远程驱动本机 DeepSeek Harness agent 的插件", "review": "面向 DSH 桌面应用（@deepseek-ai/dsh-desktop 0.2.0-rc.2+）的插件，通过腾讯官方 QQ 机器人平台（api.bot.qq.com，扫码绑定）把 QQ 消息转发为本机 DSH agent 的提示词并将回复送回手机，无需公网 IP、反向代理或第三方协议客户端。支持文本/图片/文件/语音双向传输、多会话切换（/new、/list、/switch 等）、手机端选择模型与推理等级、远程应答权限确认、notify_qq 主动推送与定时任务通道。凭据存于 DSH 凭据存储，插件状态文件只记录 AppID。", "highlights": ["经腾讯官方 QQ 机器人平台扫码绑定，无需公网 IP 或第三方协议客户端", "文本/图片/文件/语音双向传输，超长回复自动转 .md 文件发送", "手机端管理多个 DSH 会话、切换模型与推理等级、应答权限确认", "notify_qq 主动推送与 DSH 原生定时任务通道"], "use_cases": ["离开电脑后在手机 QQ 上继续指挥本机 agent 干活", "让 agent 把电脑上的文件直接发到手机", "任务完成或闹钟到点时收到 QQ 主动推送"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["QQ机器人", "远程控制", "agent通道/插件", "消息桥接", "个人自动化"], "domain": "AI agent 通道/桌面自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["对接腾讯 QQ 机器人平台", "中文界面文案（添加插件/立即启用/开始扫码）"]}, "trust": {"confidence": "high", "evidence": ["L7: Drive the DeepSeek Harness agent on this computer from your phone, in QQ.", "L55: **For the DSH desktop app** on a machine that stays on. It needs DSH's workspace, tool and UI", "L60: |DSH desktop|`@deepseek-ai/dsh-desktop` `0.2.0-rc.2` or newer|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xcisxc29/dsh-qq-plugin",
+ "sha": "90ca9e5a9baa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 QQ 中远程驱动本机 DeepSeek Harness agent 的插件",
+  "review": "面向 DSH 桌面应用（@deepseek-ai/dsh-desktop 0.2.0-rc.2+）的插件，通过腾讯官方 QQ 机器人平台（api.bot.qq.com，扫码绑定）把 QQ 消息转发为本机 DSH agent 的提示词并将回复送回手机，无需公网 IP、反向代理或第三方协议客户端。支持文本/图片/文件/语音双向传输、多会话切换（/new、/list、/switch 等）、手机端选择模型与推理等级、远程应答权限确认、notify_qq 主动推送与定时任务通道。凭据存于 DSH 凭据存储，插件状态文件只记录 AppID。",
+  "highlights": [
+   "经腾讯官方 QQ 机器人平台扫码绑定，无需公网 IP 或第三方协议客户端",
+   "文本/图片/文件/语音双向传输，超长回复自动转 .md 文件发送",
+   "手机端管理多个 DSH 会话、切换模型与推理等级、应答权限确认",
+   "notify_qq 主动推送与 DSH 原生定时任务通道"
+  ],
+  "use_cases": [
+   "离开电脑后在手机 QQ 上继续指挥本机 agent 干活",
+   "让 agent 把电脑上的文件直接发到手机",
+   "任务完成或闹钟到点时收到 QQ 主动推送"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "QQ机器人",
+   "远程控制",
+   "agent通道/插件",
+   "消息桥接",
+   "个人自动化"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "对接腾讯 QQ 机器人平台",
+   "中文界面文案（添加插件/立即启用/开始扫码）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Drive the DeepSeek Harness agent on this computer from your phone, in QQ.",
+   "L55: **For the DSH desktop app** on a machine that stays on. It needs DSH's workspace, tool and UI",
+   "L60: |DSH desktop|`@deepseek-ai/dsh-desktop` `0.2.0-rc.2` or newer|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

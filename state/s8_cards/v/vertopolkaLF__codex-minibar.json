@@ -1,1 +1,80 @@
-{"fn": "vertopolkaLF/codex-minibar", "sha": "74ce65836e49", "source": "readme", "identity": {"one_liner": "Windows 托盘工具：免登录监控 ChatGPT/Codex 等 AI 订阅额度", "review": "用 Rust 编写的原生 Windows 托盘应用，读取本地已认证的 provider 会话，在通知区显示订阅额度、重置倒计时与用量速率，覆盖 Codex、Claude、Cursor、OpenRouter、Grok、Kiro 等十个 provider，支持多账户、任务栏组件、通知、成本/Token 图表（数据本地保存）、九种语言与主题。凭据通过 Windows DPAPI 加密存储，不使用浏览器会话。提供 NSIS 安装器与便携版，无需管理员权限。", "highlights": ["读取本地已认证会话展示十个 provider 的额度与重置倒计时，无需登录网页", "多账户管理、任务栏内嵌组件与可配置托盘图标", "本地扫描历史生成成本/Token 图表，数据全部留在本机", "凭据以 Windows 用户级 DPAPI 加密存储"], "use_cases": ["在托盘随时查看 Codex/Claude 等 AI 订阅剩余额度与重置时间", "多账户、多 provider 统一监控用量与花费", "额度重置或用量告急时收到桌面通知"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["桌面托盘工具", "额度监控", "AI订阅管理", "用量分析"], "domain": "AI 工具/桌面监控", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "xai", "openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["简体中文与繁体中文界面支持"]}, "trust": {"confidence": "mid", "evidence": ["L5:  Free, open-source Windows tray companion for AI subscription usage limits with configurable tray widgets, a compact usa", "L20: Codex Minibar reads quota data from locally authenticated provider sessions and keeps subscription limits and reset time"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vertopolkaLF/codex-minibar",
+ "sha": "74ce65836e49",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 托盘工具：免登录监控 ChatGPT/Codex 等 AI 订阅额度",
+  "review": "用 Rust 编写的原生 Windows 托盘应用，读取本地已认证的 provider 会话，在通知区显示订阅额度、重置倒计时与用量速率，覆盖 Codex、Claude、Cursor、OpenRouter、Grok、Kiro 等十个 provider，支持多账户、任务栏组件、通知、成本/Token 图表（数据本地保存）、九种语言与主题。凭据通过 Windows DPAPI 加密存储，不使用浏览器会话。提供 NSIS 安装器与便携版，无需管理员权限。",
+  "highlights": [
+   "读取本地已认证会话展示十个 provider 的额度与重置倒计时，无需登录网页",
+   "多账户管理、任务栏内嵌组件与可配置托盘图标",
+   "本地扫描历史生成成本/Token 图表，数据全部留在本机",
+   "凭据以 Windows 用户级 DPAPI 加密存储"
+  ],
+  "use_cases": [
+   "在托盘随时查看 Codex/Claude 等 AI 订阅剩余额度与重置时间",
+   "多账户、多 provider 统一监控用量与花费",
+   "额度重置或用量告急时收到桌面通知"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面托盘工具",
+   "额度监控",
+   "AI订阅管理",
+   "用量分析"
+  ],
+  "domain": "AI 工具/桌面监控",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai",
+   "openrouter"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文与繁体中文界面支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5:  Free, open-source Windows tray companion for AI subscription usage limits with configurable tray widgets, a compact usa",
+   "L20: Codex Minibar reads quota data from locally authenticated provider sessions and keeps subscription limits and reset time"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

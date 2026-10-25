@@ -1,1 +1,82 @@
-{"fn": "zjunlp/OneDayAgent", "sha": "1cce5efcc82e", "source": "readme", "identity": {"one_liner": "长时程自主 agent harness：分解多小时任务并验证修复产出", "review": "面向开放式日常请求（如调研主题、制作幻灯片、交付报告）的长时程 agent 执行框架。核心机制为三项：将过载请求拆分为有界子任务、LLM 验证器对交付物做全局校验与定向修复、把工具观察压缩为可复用的执行记忆并做子任务检查点。可运行于任意 OpenAI 兼容 LLM 后端，在 AgentIF-OneDay 基准（104 任务）上跨 3 个模型家族的 5 个后端进行了评测。官方推荐以预构建 Docker 镜像运行，手动搭建需大量系统依赖（Playwright、LibreOffice、ffmpeg 等），并需在 .env 配置各模型与工具 API key。", "highlights": ["任务分解：将多小时的过载请求拆为有界子任务，保留全局意图", "全局验证与修复：LLM 验证器核对交付物并触发定向修复循环", "执行记忆：即时摘要压缩工具观察并检查点化子任务状态", "同一 harness 跨 5 个模型（GLM/Gemini/DeepSeek）运行，无需改架构"], "use_cases": ["让 agent 执行跨环境、多模态的数小时长时程任务", "在 AgentIF-OneDay 基准上评测长时程 agent 表现", "研究上下文压力下子任务分解与验证修复机制"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent框架", "长时程任务", "任务分解", "评测/benchmark", "LLM应用"], "domain": "LLM/自主 Agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["zjunlp 组织（浙大 NLP 团队）", "README 含小红书链接"]}, "trust": {"confidence": "high", "evidence": ["L10: **OneDayAgent** is a long-horizon agent harness that turns open-ended everyday requests into a managed execution process", "L38:  OneDayAgent uses a long-horizon harness that decomposes an everyday task, executes subtasks through environment-grounde", "L42: ## Main Results"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zjunlp/OneDayAgent",
+ "sha": "1cce5efcc82e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "长时程自主 agent harness：分解多小时任务并验证修复产出",
+  "review": "面向开放式日常请求（如调研主题、制作幻灯片、交付报告）的长时程 agent 执行框架。核心机制为三项：将过载请求拆分为有界子任务、LLM 验证器对交付物做全局校验与定向修复、把工具观察压缩为可复用的执行记忆并做子任务检查点。可运行于任意 OpenAI 兼容 LLM 后端，在 AgentIF-OneDay 基准（104 任务）上跨 3 个模型家族的 5 个后端进行了评测。官方推荐以预构建 Docker 镜像运行，手动搭建需大量系统依赖（Playwright、LibreOffice、ffmpeg 等），并需在 .env 配置各模型与工具 API key。",
+  "highlights": [
+   "任务分解：将多小时的过载请求拆为有界子任务，保留全局意图",
+   "全局验证与修复：LLM 验证器核对交付物并触发定向修复循环",
+   "执行记忆：即时摘要压缩工具观察并检查点化子任务状态",
+   "同一 harness 跨 5 个模型（GLM/Gemini/DeepSeek）运行，无需改架构"
+  ],
+  "use_cases": [
+   "让 agent 执行跨环境、多模态的数小时长时程任务",
+   "在 AgentIF-OneDay 基准上评测长时程 agent 表现",
+   "研究上下文压力下子任务分解与验证修复机制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "长时程任务",
+   "任务分解",
+   "评测/benchmark",
+   "LLM应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "zjunlp 组织（浙大 NLP 团队）",
+   "README 含小红书链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **OneDayAgent** is a long-horizon agent harness that turns open-ended everyday requests into a managed execution process",
+   "L38:  OneDayAgent uses a long-horizon harness that decomposes an everyday task, executes subtasks through environment-grounde",
+   "L42: ## Main Results"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

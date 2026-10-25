@@ -33,7 +33,7 @@ Magic Commit 是一个 npm 分发的命令行工具：运行 magicc 后自动按
 
 ## 场景标签
 
- · 领域:开发者工具/git
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 

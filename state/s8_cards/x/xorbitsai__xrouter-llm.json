@@ -1,1 +1,80 @@
-{"fn": "xorbitsai/xrouter-llm", "sha": "b1db9f91a27c", "source": "readme", "identity": {"one_liner": "提示感知的 LLM 路由决策服务：预测并选出最便宜可完成的模型", "review": "由 Xorbits 维护的 LLM 路由决策服务：基于 IRT 式模型，用多语言嵌入（Qwen3-Embedding-0.6B）回归提示难度、结合模型公开基准分数估计完成概率，再按策略选择通过完成阈值的最便宜模型。它只输出路由决策并记录到 SQLite，不调用底层 LLM。以 pip 包形式发布，内置训练好的路由器、模型注册表（YAML，含价格/上下文/基准）与命名 auto configs，提供 HTTP API 与单页 Web UI；也支持自选 Xinference 或 sentence-transformers 嵌入后端重训。限制：难度模型主要在编码/终端任务数据上训练，其他任务类型需自补数据。", "highlights": ["IRT 式分解：P(complete)=sigmoid(a·capability+b·difficulty+c)，难度用 Ridge 回归嵌入向量", "仅做路由决策不调用 LLM，每次决策记录到 SQLite", "包内捆绑训练好的路由器、模型能力注册表（34+ profiles）与 auto configs，装好即用", "支持 Xinference /v1/embeddings 端点与运行时后端重绑"], "use_cases": ["在调用 LLM 前决定把请求发给哪个模型以降低成本", "用自己的流量数据重训路由器并诊断成本/完成率前沿", "按输入模态偏好过滤候选模型集"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM路由", "成本优化", "LLMOps", "推理服务"], "domain": "LLM 基础设施/模型路由", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["Xorbits 公司（国内团队）", "多语言嵌入支持中文"]}, "trust": {"confidence": "high", "evidence": ["L9: `xrouter-llm` is a prompt-aware LLM **routing-decision** service: it predicts", "L14: It answers \"which model should serve this prompt?\" and records the choice — it", "L226: - `serving.py` / `server.py`: HTTP routing-decision API + single-page web UI."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xorbitsai/xrouter-llm",
+ "sha": "b1db9f91a27c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "提示感知的 LLM 路由决策服务：预测并选出最便宜可完成的模型",
+  "review": "由 Xorbits 维护的 LLM 路由决策服务：基于 IRT 式模型，用多语言嵌入（Qwen3-Embedding-0.6B）回归提示难度、结合模型公开基准分数估计完成概率，再按策略选择通过完成阈值的最便宜模型。它只输出路由决策并记录到 SQLite，不调用底层 LLM。以 pip 包形式发布，内置训练好的路由器、模型注册表（YAML，含价格/上下文/基准）与命名 auto configs，提供 HTTP API 与单页 Web UI；也支持自选 Xinference 或 sentence-transformers 嵌入后端重训。限制：难度模型主要在编码/终端任务数据上训练，其他任务类型需自补数据。",
+  "highlights": [
+   "IRT 式分解：P(complete)=sigmoid(a·capability+b·difficulty+c)，难度用 Ridge 回归嵌入向量",
+   "仅做路由决策不调用 LLM，每次决策记录到 SQLite",
+   "包内捆绑训练好的路由器、模型能力注册表（34+ profiles）与 auto configs，装好即用",
+   "支持 Xinference /v1/embeddings 端点与运行时后端重绑"
+  ],
+  "use_cases": [
+   "在调用 LLM 前决定把请求发给哪个模型以降低成本",
+   "用自己的流量数据重训路由器并诊断成本/完成率前沿",
+   "按输入模态偏好过滤候选模型集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM路由",
+   "成本优化",
+   "LLMOps",
+   "推理服务"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Xorbits 公司（国内团队）",
+   "多语言嵌入支持中文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: `xrouter-llm` is a prompt-aware LLM **routing-decision** service: it predicts",
+   "L14: It answers \"which model should serve this prompt?\" and records the choice — it",
+   "L226: - `serving.py` / `server.py`: HTTP routing-decision API + single-page web UI."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

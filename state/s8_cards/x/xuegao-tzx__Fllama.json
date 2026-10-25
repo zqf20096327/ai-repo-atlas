@@ -1,1 +1,82 @@
-{"fn": "xuegao-tzx/Fllama", "sha": "34a6afb833b9", "source": "readme", "identity": {"one_liner": "llama.cpp 的 Flutter/鸿蒙 绑定库：移动端本地跑 LLaMA 模型", "review": "通过 platform channel 将 llama.cpp 封装为 Flutter 插件（pub 包 fcllama），并提供 OpenHarmonyOS/HarmonyOS 的 HLlama 包（ohpm 安装）。支持初始化模型上下文、设备端模型测速（bench）、tokenize/detokenize、流式 token 监听、停止与释放上下文等 API。支持 Android（min SDK 23，arm64-v8a/x86_64/armeabi-v7a）、iOS（min 14，支持 Metal，Apple7 GPU 为最低要求）、HarmonyOS（API 12）。Android 尚未集成 GPU 后端，iOS 模拟器不支持 Metal 路径。模型需自行从 HuggingFace 获取 GGUF 格式。", "highlights": ["Flutter platform channel 绑定 llama.cpp，pub 包 fcllama", "提供 initContext/bench/tokenize/onTokenStream/release 等 Dart API", "覆盖 Android、iOS、OpenHarmonyOS/HarmonyOS 三端", "iOS 支持 Metal 加速（Apple7 GPU 最低要求）"], "use_cases": ["Flutter 应用中集成本地 LLM 推理", "鸿蒙应用内运行 GGUF 模型", "在移动设备上对模型做推理性能测试"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Flutter插件", "本地LLM推理", "移动端AI", "鸿蒙", "llama.cpp绑定"], "domain": "移动端 LLM 推理/跨平台绑定", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["llama.cpp"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["OpenHarmonyOS/HarmonyOS 适配", "ohpm 鸿蒙包发布"]}, "trust": {"confidence": "high", "evidence": ["L6: Flutter binding of llama.cpp , which use platform channel .", "L15: flutter pub add fcllama"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xuegao-tzx/Fllama",
+ "sha": "34a6afb833b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "llama.cpp 的 Flutter/鸿蒙 绑定库：移动端本地跑 LLaMA 模型",
+  "review": "通过 platform channel 将 llama.cpp 封装为 Flutter 插件（pub 包 fcllama），并提供 OpenHarmonyOS/HarmonyOS 的 HLlama 包（ohpm 安装）。支持初始化模型上下文、设备端模型测速（bench）、tokenize/detokenize、流式 token 监听、停止与释放上下文等 API。支持 Android（min SDK 23，arm64-v8a/x86_64/armeabi-v7a）、iOS（min 14，支持 Metal，Apple7 GPU 为最低要求）、HarmonyOS（API 12）。Android 尚未集成 GPU 后端，iOS 模拟器不支持 Metal 路径。模型需自行从 HuggingFace 获取 GGUF 格式。",
+  "highlights": [
+   "Flutter platform channel 绑定 llama.cpp，pub 包 fcllama",
+   "提供 initContext/bench/tokenize/onTokenStream/release 等 Dart API",
+   "覆盖 Android、iOS、OpenHarmonyOS/HarmonyOS 三端",
+   "iOS 支持 Metal 加速（Apple7 GPU 最低要求）"
+  ],
+  "use_cases": [
+   "Flutter 应用中集成本地 LLM 推理",
+   "鸿蒙应用内运行 GGUF 模型",
+   "在移动设备上对模型做推理性能测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Flutter插件",
+   "本地LLM推理",
+   "移动端AI",
+   "鸿蒙",
+   "llama.cpp绑定"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "OpenHarmonyOS/HarmonyOS 适配",
+   "ohpm 鸿蒙包发布"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Flutter binding of llama.cpp , which use platform channel .",
+   "L15: flutter pub add fcllama"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

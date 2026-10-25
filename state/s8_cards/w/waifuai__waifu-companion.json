@@ -1,1 +1,80 @@
-{"fn": "waifuai/waifu-companion", "sha": "d9a8bb8a3c14", "source": "readme", "identity": {"one_liner": "浏览器端 Live2D 桌面 AI 伴侣：语音聊天与长期记忆", "review": "纯客户端 Web 应用，用 Live2D Cubism 模型渲染 50+ 内置角色（支持自定义加载与多角色同屏），配合 LLM 对话形成桌面伴侣体验。LLM 接入 OpenRouter 与 Groq，支持流式输出、自动模型回退及离线本地启发式引擎；对话记忆带可配置深度与自动摘要。语音侧提供 Kokoro 本地 ONNX TTS（WebGPU/WASM）、TikTok TTS、浏览器合成回退及 Web Speech API 语音输入。通过 git clone 后以任意静态服务器运行，MIT-0 许可。", "highlights": ["OpenRouter/Groq 双供应商接入，含自动回退与离线本地引擎", "Live2D 50+ 内置模型、自定义加载与多角色同屏", "Kokoro 本地 ONNX TTS、TikTok TTS 与 Web Speech STT", "对话记忆深度可配置，自动摘要保留长会话上下文"], "use_cases": ["在浏览器里养一个可自定义性格的 Live2D 角色伴侣", "用语音与角色对话并获得口型同步的语音回复", "离线时也能与本地回退引擎继续基础交互"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI陪伴/虚拟角色", "Live2D/桌面宠物", "语音交互", "浏览器应用"], "domain": "消费级 AI 伴侣/虚拟角色", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "groq"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: **Waifu Companion** is a fully customizable, browser-based intelligent assistant that brings your favorite characters to", "L12: - **OpenRouter Support**: Use custom LLM models via OpenRouter API with up to 2 fallback models"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "waifuai/waifu-companion",
+ "sha": "d9a8bb8a3c14",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器端 Live2D 桌面 AI 伴侣：语音聊天与长期记忆",
+  "review": "纯客户端 Web 应用，用 Live2D Cubism 模型渲染 50+ 内置角色（支持自定义加载与多角色同屏），配合 LLM 对话形成桌面伴侣体验。LLM 接入 OpenRouter 与 Groq，支持流式输出、自动模型回退及离线本地启发式引擎；对话记忆带可配置深度与自动摘要。语音侧提供 Kokoro 本地 ONNX TTS（WebGPU/WASM）、TikTok TTS、浏览器合成回退及 Web Speech API 语音输入。通过 git clone 后以任意静态服务器运行，MIT-0 许可。",
+  "highlights": [
+   "OpenRouter/Groq 双供应商接入，含自动回退与离线本地引擎",
+   "Live2D 50+ 内置模型、自定义加载与多角色同屏",
+   "Kokoro 本地 ONNX TTS、TikTok TTS 与 Web Speech STT",
+   "对话记忆深度可配置，自动摘要保留长会话上下文"
+  ],
+  "use_cases": [
+   "在浏览器里养一个可自定义性格的 Live2D 角色伴侣",
+   "用语音与角色对话并获得口型同步的语音回复",
+   "离线时也能与本地回退引擎继续基础交互"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI陪伴/虚拟角色",
+   "Live2D/桌面宠物",
+   "语音交互",
+   "浏览器应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: **Waifu Companion** is a fully customizable, browser-based intelligent assistant that brings your favorite characters to",
+   "L12: - **OpenRouter Support**: Use custom LLM models via OpenRouter API with up to 2 fallback models"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

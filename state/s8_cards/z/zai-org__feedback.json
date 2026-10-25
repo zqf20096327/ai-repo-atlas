@@ -1,1 +1,78 @@
-{"fn": "zai-org/feedback", "sha": "520b360c21ae", "source": "readme", "identity": {"one_liner": "ZCode 官方用户反馈收集仓库，处理状态全程公开", "review": "Z.ai 官方维护的 ZCode 反馈中心：通过 GitHub Issues 与 Discussions 收集功能建议、Bug 报告与使用问题。每个 issue 带 status 标签（待评估/已采纳/开发中/已上线/已拒绝），可在项目看板跟踪进度，被拒绝的建议会在评论区给出书面理由。标签体系覆盖类型、严重度、优先级、产品类别（对话、工具/MCP、模型、计费等）与 Agent 框架来源。仓库还含 ROADMAP、CHANGELOG、贡献指南与安全报告等文档，内容以 CC BY 4.0 授权。", "highlights": ["五级 status 标签 + 项目看板实现处理状态公开跟踪", "拒绝建议附书面理由", "标签覆盖类别、严重度、优先级与 Agent 框架来源", "附 ROADMAP / CHANGELOG / SECURITY 等配套文档"], "use_cases": ["向 ZCode 提交功能建议或 Bug 报告", "查询自己反馈的处理进度", "了解 ZCode 的路线图与近期更新"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["社区反馈", "issue跟踪", "AI编程工具", "透明度"], "domain": "AI 编程工具/社区管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中文 status/type 标签（待评估/已采纳/开发中）", "双语 README（简体中文）", "Z.ai 官方维护"]}, "trust": {"confidence": "mid", "evidence": ["L5: **The official ZCode feedback hub for suggestions, bug reports, usage questions, and transparent progress tracking.**", "L69: `fw: ZCode Agent` · `fw: Claude Code` · `fw: Codex` · `fw: opencode` · `fw: Gemini CLI`"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zai-org/feedback",
+ "sha": "520b360c21ae",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ZCode 官方用户反馈收集仓库，处理状态全程公开",
+  "review": "Z.ai 官方维护的 ZCode 反馈中心：通过 GitHub Issues 与 Discussions 收集功能建议、Bug 报告与使用问题。每个 issue 带 status 标签（待评估/已采纳/开发中/已上线/已拒绝），可在项目看板跟踪进度，被拒绝的建议会在评论区给出书面理由。标签体系覆盖类型、严重度、优先级、产品类别（对话、工具/MCP、模型、计费等）与 Agent 框架来源。仓库还含 ROADMAP、CHANGELOG、贡献指南与安全报告等文档，内容以 CC BY 4.0 授权。",
+  "highlights": [
+   "五级 status 标签 + 项目看板实现处理状态公开跟踪",
+   "拒绝建议附书面理由",
+   "标签覆盖类别、严重度、优先级与 Agent 框架来源",
+   "附 ROADMAP / CHANGELOG / SECURITY 等配套文档"
+  ],
+  "use_cases": [
+   "向 ZCode 提交功能建议或 Bug 报告",
+   "查询自己反馈的处理进度",
+   "了解 ZCode 的路线图与近期更新"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "社区反馈",
+   "issue跟踪",
+   "AI编程工具",
+   "透明度"
+  ],
+  "domain": "AI 编程工具/社区管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 status/type 标签（待评估/已采纳/开发中）",
+   "双语 README（简体中文）",
+   "Z.ai 官方维护"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **The official ZCode feedback hub for suggestions, bug reports, usage questions, and transparent progress tracking.**",
+   "L69: `fw: ZCode Agent` · `fw: Claude Code` · `fw: Codex` · `fw: opencode` · `fw: Gemini CLI`"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

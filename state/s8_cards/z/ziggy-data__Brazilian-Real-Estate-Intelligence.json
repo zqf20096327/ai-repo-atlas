@@ -1,1 +1,79 @@
-{"fn": "ziggy-data/Brazilian-Real-Estate-Intelligence", "sha": "4236ba5c2cf1", "source": "readme", "identity": {"one_liner": "巴西 Zap 房产网站爬取、ETL 与房价线性回归分析项目", "review": "个人数据科学项目：以 Jupyter notebook 对巴西 Zap-Imoveis 房产网站做 web scraping（400 页、含 URL 异常处理、RegEx 从描述提取信息），产出 4 个 CSV 数据集（共约 3.2 万条房产记录，数据采集于 2022-02-12），并用 scikit-learn 线性回归在里约房屋数据集上建模，模型报告 43% 的价格预测准确率；另提供两个 Power BI 嵌入式仪表盘链接，展示每平方米价格等指标。面向学习与展示用途，无安装命令或打包交付。", "highlights": ["爬取 400 页并含 URL/站点不可达的异常处理，3 种备用链接", "4 个 CSV 数据集：巴西全国房屋/公寓、里约房屋等样本", "RegEx 从房源描述中提取信息", "线性回归模型报告 43% 价格预测准确率"], "use_cases": ["获取巴西房产市场的结构化数据样本做分析", "学习 web scraping、ETL 与线性回归建模的组合流程", "在 Power BI 仪表盘中查看里约房产每平米价格等指标"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://app.powerbi.com/reportEmbed?reportId=cd532ea4-be16-4822-8477-f18724660c65", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["web scraping", "ETL", "房价预测", "数据可视化", "个人数据科学项目"], "domain": "房地产数据分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L24: Neste notebook estou aplicando tecnicas de regressão linear com o dataset: `dataset-casas-rj.csv`", "L26: O modelo apresentou um acerto de 43% em relação ao preços dos imóveis considerando todas as variáveis numéricas presente"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ziggy-data/Brazilian-Real-Estate-Intelligence",
+ "sha": "4236ba5c2cf1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "巴西 Zap 房产网站爬取、ETL 与房价线性回归分析项目",
+  "review": "个人数据科学项目：以 Jupyter notebook 对巴西 Zap-Imoveis 房产网站做 web scraping（400 页、含 URL 异常处理、RegEx 从描述提取信息），产出 4 个 CSV 数据集（共约 3.2 万条房产记录，数据采集于 2022-02-12），并用 scikit-learn 线性回归在里约房屋数据集上建模，模型报告 43% 的价格预测准确率；另提供两个 Power BI 嵌入式仪表盘链接，展示每平方米价格等指标。面向学习与展示用途，无安装命令或打包交付。",
+  "highlights": [
+   "爬取 400 页并含 URL/站点不可达的异常处理，3 种备用链接",
+   "4 个 CSV 数据集：巴西全国房屋/公寓、里约房屋等样本",
+   "RegEx 从房源描述中提取信息",
+   "线性回归模型报告 43% 价格预测准确率"
+  ],
+  "use_cases": [
+   "获取巴西房产市场的结构化数据样本做分析",
+   "学习 web scraping、ETL 与线性回归建模的组合流程",
+   "在 Power BI 仪表盘中查看里约房产每平米价格等指标"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://app.powerbi.com/reportEmbed?reportId=cd532ea4-be16-4822-8477-f18724660c65",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "web scraping",
+   "ETL",
+   "房价预测",
+   "数据可视化",
+   "个人数据科学项目"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "data-analysis",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: Neste notebook estou aplicando tecnicas de regressão linear com o dataset: `dataset-casas-rj.csv`",
+   "L26: O modelo apresentou um acerto de 43% em relação ao preços dos imóveis considerando todas as variáveis numéricas presente"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

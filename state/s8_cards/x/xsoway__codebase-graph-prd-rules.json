@@ -1,1 +1,82 @@
-{"fn": "xsoway/codebase-graph-prd-rules", "sha": "04a13e319897", "source": "readme", "identity": {"one_liner": "把代码库转成可溯源业务规则文档的两个 AI-agent 技能", "review": "面向产品、运营与 QA 等非开发者的两个 AI-agent 技能包：先用 Graphify 构建代码图谱定位入口与调用链，再逐条对照源码、SQL/XML 与配置确认业务规则，输出含来源（src/…:line）、Mermaid 图与 P0/P1 测试矩阵的 Markdown 文档。`codebase-graph-business-rules` 覆盖全项目扫描，`codebase-graph-module-rules` 做单模块深挖。证据分级区分 EXTRACTED/INFERRED/已验证；仅分析不修改系统，LLM 凭据可选，缺失时回退到结构图+源码审阅。每个技能含 3 个 eval 用例与 Python 3.9+（仅标准库）校验脚本。", "highlights": ["每条规则携带 src/…:line 来源，可审计可追溯", "证据分级：EXTRACTED / INFERRED / 源码验证分开报告", "图谱仅用于导航，规则以源码确认为准", "每技能附 3 个 eval 用例与包结构校验脚本"], "use_cases": ["为产品/运营/QA 输出可读的业务规则文档", "为全项目建立 PRD 基线或模块级规则梳理", "从关键规则生成可执行的 P0/P1 测试断言矩阵"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI-agent技能", "代码理解/文档生成", "业务规则提取", "软件工程", "知识工程"], "domain": "软件开发/代码文档化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["提供 README.zh-CN.md 中文说明", "示例请求为中文", "维护者中文姓名"]}, "trust": {"confidence": "high", "evidence": ["L18: `codebase-graph-prd-rules` is a set of two complementary AI-agent **skills** that turn project source code into detailed", "L20: Both skills share the same methodology and evidence boundary — build a **Graphify** code graph first, use it to locate e"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xsoway/codebase-graph-prd-rules",
+ "sha": "04a13e319897",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把代码库转成可溯源业务规则文档的两个 AI-agent 技能",
+  "review": "面向产品、运营与 QA 等非开发者的两个 AI-agent 技能包：先用 Graphify 构建代码图谱定位入口与调用链，再逐条对照源码、SQL/XML 与配置确认业务规则，输出含来源（src/…:line）、Mermaid 图与 P0/P1 测试矩阵的 Markdown 文档。`codebase-graph-business-rules` 覆盖全项目扫描，`codebase-graph-module-rules` 做单模块深挖。证据分级区分 EXTRACTED/INFERRED/已验证；仅分析不修改系统，LLM 凭据可选，缺失时回退到结构图+源码审阅。每个技能含 3 个 eval 用例与 Python 3.9+（仅标准库）校验脚本。",
+  "highlights": [
+   "每条规则携带 src/…:line 来源，可审计可追溯",
+   "证据分级：EXTRACTED / INFERRED / 源码验证分开报告",
+   "图谱仅用于导航，规则以源码确认为准",
+   "每技能附 3 个 eval 用例与包结构校验脚本"
+  ],
+  "use_cases": [
+   "为产品/运营/QA 输出可读的业务规则文档",
+   "为全项目建立 PRD 基线或模块级规则梳理",
+   "从关键规则生成可执行的 P0/P1 测试断言矩阵"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI-agent技能",
+   "代码理解/文档生成",
+   "业务规则提取",
+   "软件工程",
+   "知识工程"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-review",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供 README.zh-CN.md 中文说明",
+   "示例请求为中文",
+   "维护者中文姓名"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: `codebase-graph-prd-rules` is a set of two complementary AI-agent **skills** that turn project source code into detailed",
+   "L20: Both skills share the same methodology and evidence boundary — build a **Graphify** code graph first, use it to locate e"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

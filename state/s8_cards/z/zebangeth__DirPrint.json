@@ -1,1 +1,75 @@
-{"fn": "zebangeth/DirPrint", "sha": "f33d4be0fcd0", "source": "readme", "identity": {"one_liner": "导出项目目录结构与文件内容的命令行工具，便于分享给 LLM", "review": "DirPrint 是一个 Python 命令行工具，将项目目录以树状结构输出，文件内容以 markdown 代码块嵌入，可导出为文件，用途是为 LLM（ChatGPT、Claude 等）提供代码库上下文以辅助调试开发。支持 ignore/omit 两种过滤模式、glob 匹配、自动遵循 .gitignore、尖号包裹的严格精确匹配，以及可选的逐文件行数统计。通过 pip 或源码安装，MIT 许可。", "highlights": ["目录树 + 文件内容（markdown 代码块）一体化输出并可导出文件", "ignore/omit 双模式 + glob + 严格匹配（^pattern^）", "自动遵循 .gitignore 规则（可关闭）", "可选的文件/目录行数与占比统计"], "use_cases": ["把整个代码库打包成文本贴给 ChatGPT/Claude 做调试", "过滤敏感或无关文件后分享项目结构", "统计项目各文件的行数分布"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["开发者工具", "命令行工具", "LLM上下文准备", "代码分享"], "domain": "开发工具/命令行工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: DirPrint is a command-line tool that streamlines sharing your project's directory structure and file contents with LLMs ", "L13: - **Visual Directory Tree:** Get a clear, hierarchical representation of your project's structure.", "L14: - **File Contents Display:** View file contents within the tree, formatted in markdown code blocks."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zebangeth/DirPrint",
+ "sha": "f33d4be0fcd0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "导出项目目录结构与文件内容的命令行工具，便于分享给 LLM",
+  "review": "DirPrint 是一个 Python 命令行工具，将项目目录以树状结构输出，文件内容以 markdown 代码块嵌入，可导出为文件，用途是为 LLM（ChatGPT、Claude 等）提供代码库上下文以辅助调试开发。支持 ignore/omit 两种过滤模式、glob 匹配、自动遵循 .gitignore、尖号包裹的严格精确匹配，以及可选的逐文件行数统计。通过 pip 或源码安装，MIT 许可。",
+  "highlights": [
+   "目录树 + 文件内容（markdown 代码块）一体化输出并可导出文件",
+   "ignore/omit 双模式 + glob + 严格匹配（^pattern^）",
+   "自动遵循 .gitignore 规则（可关闭）",
+   "可选的文件/目录行数与占比统计"
+  ],
+  "use_cases": [
+   "把整个代码库打包成文本贴给 ChatGPT/Claude 做调试",
+   "过滤敏感或无关文件后分享项目结构",
+   "统计项目各文件的行数分布"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者工具",
+   "命令行工具",
+   "LLM上下文准备",
+   "代码分享"
+  ],
+  "domain": "开发工具/命令行工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: DirPrint is a command-line tool that streamlines sharing your project's directory structure and file contents with LLMs ",
+   "L13: - **Visual Directory Tree:** Get a clear, hierarchical representation of your project's structure.",
+   "L14: - **File Contents Display:** View file contents within the tree, formatted in markdown code blocks."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

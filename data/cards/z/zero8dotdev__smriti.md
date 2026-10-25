@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 开发者工具/agent 记忆
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

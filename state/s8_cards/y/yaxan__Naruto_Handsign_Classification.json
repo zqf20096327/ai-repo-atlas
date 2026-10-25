@@ -1,1 +1,79 @@
-{"fn": "yaxan/Naruto_Handsign_Classification", "sha": "aba0b8744b86", "source": "readme", "identity": {"one_liner": "识别火影忍者结印手势的迁移学习图像分类项目", "review": "基于深度学习与计算机视觉的手势识别项目：用网络摄像头经 OpenCV 手工采集并增强数据，在 MobileNetV2、ResNet50、VGG16、InceptionV3 四种架构上做迁移学习训练，其中 VGG16 在静态测试集达到 93.60% 准确率，实时演示最低 83.33%；Dog 与 Serpent 两类识别稳定性较低。README 列出 Python 3.7.7、TensorFlow 2.8.0 等依赖版本，未给出安装或运行命令。作者自述此项目为其大学早期作品，并称如今 LLM 可轻易完成同类任务。", "highlights": ["对 12 类火影结印手势做图像分类", "四种 CNN 架构迁移学习对比，VGG16 静态测试准确率 93.60%", "OpenCV 网络摄像头采集数据并做翻转/旋转增强", "支持网络摄像头实时分类演示"], "use_cases": ["想复现或学习迁移学习手势分类的学生与爱好者", "用摄像头实时识别动漫风格结印手势做演示", "比较常见 CNN 架构在小数据集上的表现"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://user-images.githubusercontent.com/41130598/174506955-9ea1c002-effd-4982-9365-2dba0703b6a7.mp4", "self_declared_early": {"flag": true, "lines": [1]}}, "links": {"scenario_tags": ["计算机视觉", "手势识别", "迁移学习", "动漫趣味项目", "课程/学习项目"], "domain": "计算机视觉/手势识别", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: This is a project based on the anime Naruto by Masashi Kishimoto. In the show, the ninjas weave various hand-signs combi", "L15: We experimented on MobileNetV2, ResNet50, VGG16, and InceptionV3 architectures due to their prominence in image classifi"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yaxan/Naruto_Handsign_Classification",
+ "sha": "aba0b8744b86",
+ "source": "readme",
+ "identity": {
+  "one_liner": "识别火影忍者结印手势的迁移学习图像分类项目",
+  "review": "基于深度学习与计算机视觉的手势识别项目：用网络摄像头经 OpenCV 手工采集并增强数据，在 MobileNetV2、ResNet50、VGG16、InceptionV3 四种架构上做迁移学习训练，其中 VGG16 在静态测试集达到 93.60% 准确率，实时演示最低 83.33%；Dog 与 Serpent 两类识别稳定性较低。README 列出 Python 3.7.7、TensorFlow 2.8.0 等依赖版本，未给出安装或运行命令。作者自述此项目为其大学早期作品，并称如今 LLM 可轻易完成同类任务。",
+  "highlights": [
+   "对 12 类火影结印手势做图像分类",
+   "四种 CNN 架构迁移学习对比，VGG16 静态测试准确率 93.60%",
+   "OpenCV 网络摄像头采集数据并做翻转/旋转增强",
+   "支持网络摄像头实时分类演示"
+  ],
+  "use_cases": [
+   "想复现或学习迁移学习手势分类的学生与爱好者",
+   "用摄像头实时识别动漫风格结印手势做演示",
+   "比较常见 CNN 架构在小数据集上的表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://user-images.githubusercontent.com/41130598/174506955-9ea1c002-effd-4982-9365-2dba0703b6a7.mp4",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    1
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "手势识别",
+   "迁移学习",
+   "动漫趣味项目",
+   "课程/学习项目"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This is a project based on the anime Naruto by Masashi Kishimoto. In the show, the ninjas weave various hand-signs combi",
+   "L15: We experimented on MobileNetV2, ResNet50, VGG16, and InceptionV3 architectures due to their prominence in image classifi"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,79 @@
-{"fn": "xu-xiang/awesome-top-skills", "sha": "79377da8ec7d", "source": "readme", "identity": {"one_liner": "AI agent 技能自动策展清单：11,870 条技能按标签分类索引", "review": "从 GitHub 生态自动收集 AI Agent Skills 并按热度与增长趋势筛选，使用 LLM 对技能进行分类与打标，收录 11,870 个技能、2,372 个标签、13 个类别（ai-llm、dev、web、devops、research、security 等），另设 pending 类容纳 2,205 条待分类条目。README 以类别表与热门标签表形式呈现，供开发者浏览检索 agent 技能。清单标注自动更新（页面显示更新日期）。", "highlights": ["收录 11,870 个 AI agent 技能、2,372 个标签", "13 个类别组织，含 ai-llm、dev、research、security 等", "使用 LLM 自动分类与打标，按热度与增长趋势筛选", "清单自动更新并标注更新日期"], "use_cases": ["为我的 agent 项目查找特定领域的技能", "了解 GitHub 上 agent 技能生态的标签分布", "按类别浏览热门 agent 技能"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["技能清单", "agent技能", "自动策展", "awesome-list"], "domain": "AI agent 技能/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 含中文标题链接（L9）", "仓库描述中英双语"]}, "trust": {"confidence": "high", "evidence": ["L7: The definitive collection of AI Agent Skills, automatically curated from across the GitHub ecosystem. We filter by popul", "L3: skills: 11,870 tags: 2,372 categories: 13 updated: 2026-03-07"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xu-xiang/awesome-top-skills",
+ "sha": "79377da8ec7d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 技能自动策展清单：11,870 条技能按标签分类索引",
+  "review": "从 GitHub 生态自动收集 AI Agent Skills 并按热度与增长趋势筛选，使用 LLM 对技能进行分类与打标，收录 11,870 个技能、2,372 个标签、13 个类别（ai-llm、dev、web、devops、research、security 等），另设 pending 类容纳 2,205 条待分类条目。README 以类别表与热门标签表形式呈现，供开发者浏览检索 agent 技能。清单标注自动更新（页面显示更新日期）。",
+  "highlights": [
+   "收录 11,870 个 AI agent 技能、2,372 个标签",
+   "13 个类别组织，含 ai-llm、dev、research、security 等",
+   "使用 LLM 自动分类与打标，按热度与增长趋势筛选",
+   "清单自动更新并标注更新日期"
+  ],
+  "use_cases": [
+   "为我的 agent 项目查找特定领域的技能",
+   "了解 GitHub 上 agent 技能生态的标签分布",
+   "按类别浏览热门 agent 技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "技能清单",
+   "agent技能",
+   "自动策展",
+   "awesome-list"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文标题链接（L9）",
+   "仓库描述中英双语"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: The definitive collection of AI Agent Skills, automatically curated from across the GitHub ecosystem. We filter by popul",
+   "L3: skills: 11,870 tags: 2,372 categories: 13 updated: 2026-03-07"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

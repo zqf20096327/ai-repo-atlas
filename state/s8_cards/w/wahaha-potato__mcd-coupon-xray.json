@@ -1,1 +1,82 @@
-{"fn": "wahaha-potato/mcd-coupon-xray", "sha": "62672a6a6229", "source": "readme", "identity": {"one_liner": "麦当劳优惠券核销校验 Skill：逐店验哪张券真能用", "review": "面向麦当劳消费者的 MCP Skill（SKILL.md + 自检脚本）：先一键领取麦麦省全部可领券，再逐家门店调用 query-store-coupons 与 calculate-price 校验哪张券在该店能核销、券后实付多少，输出门店对比表、跨店可用性矩阵与一句可执行的省钱结论。README 记录了五个实测事实（如按 couponId 而非券名去重、卡包为空则按店查必为空）。需自备麦当劳 MCP Token，在 WorkBuddy 等支持 MCP 的客户端中使用；结论仅对调用当时有效。", "highlights": ["一键领取后逐门店校验券的真实可核销性与券后实付", "区分 query-my-coupons 与 query-store-coupons 两接口语义，先领券再查店", "以 couponId 为唯一标识去重，避免同券名不同活动被合并", "提供自检脚本与测试（scripts/xray.py --selftest、pytest）"], "use_cases": ["搞清卡包里一堆券今天在楼下哪家店真的能用", "在多家门店间比较券后实付选最省的一家", "查同一张券在哪些门店可核销"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://wahaha-potato.github.io/mcd-coupon-xray/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["优惠券", "MCP Skill", "agent技能", "消费决策", "麦当劳"], "domain": "生活消费/Agent 技能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向麦当劳中国（open.mcd.cn/mcp）", "WorkBuddy 客户端配置说明"]}, "trust": {"confidence": "high", "evidence": ["L58: 在 WorkBuddy（或任何支持 MCP 的客户端）里配好麦当劳 MCP，然后直接说：", "L68: Skill 会走完整条链：", "L117: 把 `SKILL.md` 放到 `~/.workbuddy/skills/mcd-coupon-xray/` 下，重启会话即可。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wahaha-potato/mcd-coupon-xray",
+ "sha": "62672a6a6229",
+ "source": "readme",
+ "identity": {
+  "one_liner": "麦当劳优惠券核销校验 Skill：逐店验哪张券真能用",
+  "review": "面向麦当劳消费者的 MCP Skill（SKILL.md + 自检脚本）：先一键领取麦麦省全部可领券，再逐家门店调用 query-store-coupons 与 calculate-price 校验哪张券在该店能核销、券后实付多少，输出门店对比表、跨店可用性矩阵与一句可执行的省钱结论。README 记录了五个实测事实（如按 couponId 而非券名去重、卡包为空则按店查必为空）。需自备麦当劳 MCP Token，在 WorkBuddy 等支持 MCP 的客户端中使用；结论仅对调用当时有效。",
+  "highlights": [
+   "一键领取后逐门店校验券的真实可核销性与券后实付",
+   "区分 query-my-coupons 与 query-store-coupons 两接口语义，先领券再查店",
+   "以 couponId 为唯一标识去重，避免同券名不同活动被合并",
+   "提供自检脚本与测试（scripts/xray.py --selftest、pytest）"
+  ],
+  "use_cases": [
+   "搞清卡包里一堆券今天在楼下哪家店真的能用",
+   "在多家门店间比较券后实付选最省的一家",
+   "查同一张券在哪些门店可核销"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://wahaha-potato.github.io/mcd-coupon-xray/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "优惠券",
+   "MCP Skill",
+   "agent技能",
+   "消费决策",
+   "麦当劳"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向麦当劳中国（open.mcd.cn/mcp）",
+   "WorkBuddy 客户端配置说明"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L58: 在 WorkBuddy（或任何支持 MCP 的客户端）里配好麦当劳 MCP，然后直接说：",
+   "L68: Skill 会走完整条链：",
+   "L117: 把 `SKILL.md` 放到 `~/.workbuddy/skills/mcd-coupon-xray/` 下，重启会话即可。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

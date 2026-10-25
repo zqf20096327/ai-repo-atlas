@@ -1,1 +1,78 @@
-{"fn": "warengonzaga/magic-commit", "sha": "0bac713373f3", "source": "readme", "identity": {"one_liner": "用 AI 逐文件生成提交信息的 git 提交 CLI 工具", "review": "Magic Commit 是一个 npm 分发的命令行工具：运行 magicc 后自动按文件暂存改动并逐个提交，提交信息由 OpenAI 模型（默认 gpt-4o-mini）生成，用户逐条确认。使用前需通过 magicc -s=<api-key> 配置 OpenAI API key。作者声明项目处于早期阶段，可能存在 bug；README 提及 aicommits、ai-commit、opencommit 等同类型项目作为灵感来源。GPL-3.0 许可。", "highlights": ["按文件自动暂存并逐个提交改动", "调用 OpenAI gpt-4o-mini 生成提交信息", "通过 magicc -s=<api-key> 配置 API key", "npm/yarn 全局安装"], "use_cases": ["懒得写提交信息时自动生成", "按文件拆分提交并逐条确认提交信息", "保持统一的 git 提交信息格式"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [14]}}, "links": {"scenario_tags": ["开发者工具", "git", "CLI", "AI提交信息"], "domain": "开发者工具/git", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: **Magic Commit** is a simple and easy-to-use tool that helps you to automatically stage your changes by file and commit ", "L33: > To be able to make it work it requires API key from OpenAI to use the GPT-3 model. You can get your API key by signing"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "warengonzaga/magic-commit",
+ "sha": "0bac713373f3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 AI 逐文件生成提交信息的 git 提交 CLI 工具",
+  "review": "Magic Commit 是一个 npm 分发的命令行工具：运行 magicc 后自动按文件暂存改动并逐个提交，提交信息由 OpenAI 模型（默认 gpt-4o-mini）生成，用户逐条确认。使用前需通过 magicc -s=<api-key> 配置 OpenAI API key。作者声明项目处于早期阶段，可能存在 bug；README 提及 aicommits、ai-commit、opencommit 等同类型项目作为灵感来源。GPL-3.0 许可。",
+  "highlights": [
+   "按文件自动暂存并逐个提交改动",
+   "调用 OpenAI gpt-4o-mini 生成提交信息",
+   "通过 magicc -s=<api-key> 配置 API key",
+   "npm/yarn 全局安装"
+  ],
+  "use_cases": [
+   "懒得写提交信息时自动生成",
+   "按文件拆分提交并逐条确认提交信息",
+   "保持统一的 git 提交信息格式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    14
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者工具",
+   "git",
+   "CLI",
+   "AI提交信息"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **Magic Commit** is a simple and easy-to-use tool that helps you to automatically stage your changes by file and commit ",
+   "L33: > To be able to make it work it requires API key from OpenAI to use the GPT-3 model. You can get your API key by signing"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

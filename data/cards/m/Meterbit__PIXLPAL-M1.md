@@ -33,7 +33,7 @@ Meterbit Cybernetics 的 Pixlpal-M1 固件，运行于 ESP32-S3（N16R8）之上
 
 ## 场景标签
 
- · 领域:嵌入式/IoT 硬件
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 

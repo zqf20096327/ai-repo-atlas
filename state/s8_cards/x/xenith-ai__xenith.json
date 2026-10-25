@@ -1,1 +1,78 @@
-{"fn": "xenith-ai/xenith", "sha": "dbe33746622f", "source": "readme", "identity": {"one_liner": "浏览器内本地运行的 LLM 语音助手，数据不出设备", "review": "基于 WebAssembly 的全客户端 LLM 语音助手：在浏览器内运行大语言模型推理，提供自定义唤醒词检测、可选合成语音与灵活的模型支持；语音识别使用 Whisper 的 C++/WebAssembly 移植，语音活动检测用 Silero VAD，语音合成经 vits-web，LLM 推理依赖 WebLLM 引擎。所有推理在本地浏览器完成，可离线使用；要求配备专用 GPU 与支持 WebGPU 的浏览器，否则运行极慢。", "highlights": ["WebAssembly 驱动的全浏览器内 LLM 语音助手推理", "自定义唤醒词检测与可选合成语音", "组合 Whisper（whisper.cpp 移植）、Silero VAD、vits-web、WebLLM 等组件", "数据不出设备，支持离线运行"], "use_cases": ["在浏览器中本地运行语音助手，避免数据上传", "需要离线可用的 LLM 语音交互", "在自有设备 GPU 上体验私有化 AI 助手"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["浏览器AI", "语音助手", "本地推理", "隐私优先", "WebAssembly"], "domain": "语音助手/本地 AI 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Powered by Web Assembly, Xenith enables fully client-side execution of LLM-based voice assistants with custom wake-word ", "L15: - **Dedicated GPU** - This runs AI models directly on your machine via WebAssembly, meaning you'll need a GPU or it will"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xenith-ai/xenith",
+ "sha": "dbe33746622f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器内本地运行的 LLM 语音助手，数据不出设备",
+  "review": "基于 WebAssembly 的全客户端 LLM 语音助手：在浏览器内运行大语言模型推理，提供自定义唤醒词检测、可选合成语音与灵活的模型支持；语音识别使用 Whisper 的 C++/WebAssembly 移植，语音活动检测用 Silero VAD，语音合成经 vits-web，LLM 推理依赖 WebLLM 引擎。所有推理在本地浏览器完成，可离线使用；要求配备专用 GPU 与支持 WebGPU 的浏览器，否则运行极慢。",
+  "highlights": [
+   "WebAssembly 驱动的全浏览器内 LLM 语音助手推理",
+   "自定义唤醒词检测与可选合成语音",
+   "组合 Whisper（whisper.cpp 移植）、Silero VAD、vits-web、WebLLM 等组件",
+   "数据不出设备，支持离线运行"
+  ],
+  "use_cases": [
+   "在浏览器中本地运行语音助手，避免数据上传",
+   "需要离线可用的 LLM 语音交互",
+   "在自有设备 GPU 上体验私有化 AI 助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器AI",
+   "语音助手",
+   "本地推理",
+   "隐私优先",
+   "WebAssembly"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Powered by Web Assembly, Xenith enables fully client-side execution of LLM-based voice assistants with custom wake-word ",
+   "L15: - **Dedicated GPU** - This runs AI models directly on your machine via WebAssembly, meaning you'll need a GPU or it will"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

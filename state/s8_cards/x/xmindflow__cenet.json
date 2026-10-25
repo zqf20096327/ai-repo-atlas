@@ -1,1 +1,76 @@
-{"fn": "xmindflow/cenet", "sha": "7e57b398ab2f", "source": "readme", "identity": {"one_liner": "医学图像多域分割网络（MICCAI 2025）的 PyTorch 实现", "review": "MICCAI 2025 论文 CENet 的官方 PyTorch 实现，面向医学图像分割研究者：通过跳跃连接中的双选择性增强块（DSEB）与解码器中的多尺度上下文特征注意力模块（CFAM），在心脏 MRI（ACDC）、腹部 CT（Synapse）、皮肤镜（HAM10000/PH2）等多域数据上训练与评估分割模型。提供 PyTorch Hub 预训练模型加载、Hugging Face/Mega.nz 权重下载、各数据集预处理说明与训练/评估脚本；声明模型仅供研究、不可临床使用。测试环境为 Python 3.10.16 与 CUDA 12.9。", "highlights": ["DSEB 融入跳跃连接、CFAM 多尺度上下文注意力的分割网络实现", "PyTorch Hub 免克隆加载预训练模型并直接输出分割掩码", "覆盖 ACDC/Synapse/HAM10000/PH2 四个数据集的训练与评估脚本", "预训练权重托管于 Hugging Face 与 Mega.nz"], "use_cases": ["在心脏 MRI、腹部 CT 或皮肤镜数据上训练/评估分割模型", "通过 PyTorch Hub 直接推理获得医学图像分割掩码", "复现 MICCAI 2025 论文的多域分割实验结果"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2505.18423", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["医学图像分割", "深度学习", "论文官方实现", "PyTorch"], "domain": "医学影像/深度学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: A unified PyTorch implementation of **CENet**, our Context Enhancement Network for robust, high-resolution segmentation ", "L20: Medical image segmentation, particularly in multi-domain scenarios, requires precise preservation of anatomical structur"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xmindflow/cenet",
+ "sha": "7e57b398ab2f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "医学图像多域分割网络（MICCAI 2025）的 PyTorch 实现",
+  "review": "MICCAI 2025 论文 CENet 的官方 PyTorch 实现，面向医学图像分割研究者：通过跳跃连接中的双选择性增强块（DSEB）与解码器中的多尺度上下文特征注意力模块（CFAM），在心脏 MRI（ACDC）、腹部 CT（Synapse）、皮肤镜（HAM10000/PH2）等多域数据上训练与评估分割模型。提供 PyTorch Hub 预训练模型加载、Hugging Face/Mega.nz 权重下载、各数据集预处理说明与训练/评估脚本；声明模型仅供研究、不可临床使用。测试环境为 Python 3.10.16 与 CUDA 12.9。",
+  "highlights": [
+   "DSEB 融入跳跃连接、CFAM 多尺度上下文注意力的分割网络实现",
+   "PyTorch Hub 免克隆加载预训练模型并直接输出分割掩码",
+   "覆盖 ACDC/Synapse/HAM10000/PH2 四个数据集的训练与评估脚本",
+   "预训练权重托管于 Hugging Face 与 Mega.nz"
+  ],
+  "use_cases": [
+   "在心脏 MRI、腹部 CT 或皮肤镜数据上训练/评估分割模型",
+   "通过 PyTorch Hub 直接推理获得医学图像分割掩码",
+   "复现 MICCAI 2025 论文的多域分割实验结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2505.18423",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学图像分割",
+   "深度学习",
+   "论文官方实现",
+   "PyTorch"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: A unified PyTorch implementation of **CENet**, our Context Enhancement Network for robust, high-resolution segmentation ",
+   "L20: Medical image segmentation, particularly in multi-domain scenarios, requires precise preservation of anatomical structur"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

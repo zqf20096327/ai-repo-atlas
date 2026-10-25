@@ -1,1 +1,76 @@
-{"fn": "vinhowe/piston", "sha": "64eda5c0f83c", "source": "readme", "identity": {"one_liner": "浏览器内训练序列模型：WebGPU 自动微分库与网页试验场", "review": "包含两个相关项目：Piston 是概念验证的 WebGPU 自动微分库，从 Ratchet 分叉并加入反向传播；Sequence Toy 是基于 Piston 的网页试验场，支持在浏览器中训练 Transformer、LSTM、GRU 与 vanilla RNN 等序列模型。反向传播实现参考 Candle，惰性执行模型来自 LazyTensor，另含 Muon 优化器参考、简化版 BPE 分词器与基于 minGPT 的 GPT-2 实现。README 仅列出致谢与出处，未给出安装运行步骤。", "highlights": ["WebGPU 自动微分库 Piston（Ratchet 分叉）", "浏览器内训练 Transformer/LSTM/GRU/RNN 的网页试验场", "含 Muon 优化器参考与 GPT-2 模型实现"], "use_cases": ["在浏览器中直接训练小型序列模型做实验", "了解 WebGPU 上的自动微分与惰性执行实现"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://sequence.toys", "self_declared_early": {"flag": true, "lines": [9]}}, "links": {"scenario_tags": ["模型训练", "WebGPU", "自动微分", "浏览器实验场"], "domain": "深度学习/浏览器计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: Train language models in your browser with WebGPU-powered autodiff.", "L9: Sequence Toy is a web playground for training sequence models (Transformers, LSTMs, GRUs, and vanilla RNNs) using Piston"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vinhowe/piston",
+ "sha": "64eda5c0f83c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器内训练序列模型：WebGPU 自动微分库与网页试验场",
+  "review": "包含两个相关项目：Piston 是概念验证的 WebGPU 自动微分库，从 Ratchet 分叉并加入反向传播；Sequence Toy 是基于 Piston 的网页试验场，支持在浏览器中训练 Transformer、LSTM、GRU 与 vanilla RNN 等序列模型。反向传播实现参考 Candle，惰性执行模型来自 LazyTensor，另含 Muon 优化器参考、简化版 BPE 分词器与基于 minGPT 的 GPT-2 实现。README 仅列出致谢与出处，未给出安装运行步骤。",
+  "highlights": [
+   "WebGPU 自动微分库 Piston（Ratchet 分叉）",
+   "浏览器内训练 Transformer/LSTM/GRU/RNN 的网页试验场",
+   "含 Muon 优化器参考与 GPT-2 模型实现"
+  ],
+  "use_cases": [
+   "在浏览器中直接训练小型序列模型做实验",
+   "了解 WebGPU 上的自动微分与惰性执行实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://sequence.toys",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型训练",
+   "WebGPU",
+   "自动微分",
+   "浏览器实验场"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Train language models in your browser with WebGPU-powered autodiff.",
+   "L9: Sequence Toy is a web playground for training sequence models (Transformers, LSTMs, GRUs, and vanilla RNNs) using Piston"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

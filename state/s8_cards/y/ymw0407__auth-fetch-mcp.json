@@ -1,1 +1,79 @@
-{"fn": "ymw0407/auth-fetch-mcp", "sha": "2c8c25aa1de0", "source": "readme", "identity": {"one_liner": "让 AI 助手经用户登录后抓取受保护网页的 MCP server", "review": "基于 Playwright/Chromium 的本地 MCP server，通过 stdio 运行：用户在本地浏览器自行完成登录（含 SSO/双因素）、展开内容后点击 Capture page，AI 获得页面快照（默认可读文本，含来源元数据、链接、媒体与截断警告）。附 download_media 工具用已存会话下载附件，保存的 cookie 便于后续访问。内置本地代理防 DNS 重绑定并默认阻断私网地址，捕获内容会传给 AI 宿主而非仅留在本地。需要 Node.js 20+ 与带显示的桌面环境。", "highlights": ["人工登录确认后捕获已加载 DOM，支持 SSO/双因素", "auth_fetch 返回文本/HTML、来源 URL、链接媒体清单与截断警告", "download_media 基于保存 cookie 批量下载附件（限 50 个/50MiB）", "本地代理防 DNS 重绑定，默认阻断私网/环回等地址段"], "use_cases": ["让 AI 读取我登录后的项目页、工单或文档并总结", "抓取需认证页面的附件供 AI 分析", "在受限内容场景下以本地浏览器+人工确认方式给 AI 提供上下文"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "网页抓取", "AI工具接入", "浏览器自动化", "安全沙箱"], "domain": "AI 工具/浏览器接入", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: Let your AI read a login-protected page through a local browser and **your approval**. Sign in yourself, scroll or expan", "L14: Requires Node.js 20 or later and a local desktop with a display. Chromium is installed automatically on first browser la", "L77: ### `auth_fetch`"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ymw0407/auth-fetch-mcp",
+ "sha": "2c8c25aa1de0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 助手经用户登录后抓取受保护网页的 MCP server",
+  "review": "基于 Playwright/Chromium 的本地 MCP server，通过 stdio 运行：用户在本地浏览器自行完成登录（含 SSO/双因素）、展开内容后点击 Capture page，AI 获得页面快照（默认可读文本，含来源元数据、链接、媒体与截断警告）。附 download_media 工具用已存会话下载附件，保存的 cookie 便于后续访问。内置本地代理防 DNS 重绑定并默认阻断私网地址，捕获内容会传给 AI 宿主而非仅留在本地。需要 Node.js 20+ 与带显示的桌面环境。",
+  "highlights": [
+   "人工登录确认后捕获已加载 DOM，支持 SSO/双因素",
+   "auth_fetch 返回文本/HTML、来源 URL、链接媒体清单与截断警告",
+   "download_media 基于保存 cookie 批量下载附件（限 50 个/50MiB）",
+   "本地代理防 DNS 重绑定，默认阻断私网/环回等地址段"
+  ],
+  "use_cases": [
+   "让 AI 读取我登录后的项目页、工单或文档并总结",
+   "抓取需认证页面的附件供 AI 分析",
+   "在受限内容场景下以本地浏览器+人工确认方式给 AI 提供上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "网页抓取",
+   "AI工具接入",
+   "浏览器自动化",
+   "安全沙箱"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Let your AI read a login-protected page through a local browser and **your approval**. Sign in yourself, scroll or expan",
+   "L14: Requires Node.js 20 or later and a local desktop with a display. Chromium is installed automatically on first browser la",
+   "L77: ### `auth_fetch`"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

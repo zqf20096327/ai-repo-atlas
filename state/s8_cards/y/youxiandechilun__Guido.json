@@ -1,1 +1,83 @@
-{"fn": "youxiandechilun/Guido", "sha": "f92f287eed9f", "source": "readme", "identity": {"one_liner": "景区导览 AI 数字人系统：多模态问答、本地 RAG 与路线推荐", "review": "面向景区游客与运营人员的一体化智能导览系统，含 Spring Boot 后端、Vue 3 管理后台与 UniApp 游客端。为游客提供文本/语音问答、拍照识景（VLM）、引用溯源的本地 RAG 问答、兴趣标签路线推荐与 Canvas 数字导游 TTS 播报；为运营人员提供景区/知识库/AI 服务配置管理与情绪、命中率等数据看板。LLM/VLM 通过 OpenAI 或 Anthropic Compatible 适配器路由，凭据 AES-GCM 加密，Embedding 不可用时降级关键词检索。需 JDK 17、MySQL 8、Node.js 环境从源码启动，语音依赖阿里云 ASR/TTS。", "highlights": ["本地 RAG：文档分片、向量化入 MySQL、余弦 Top-3 召回与关键词降级兜底", "SSE 流式链路：ASR/检索/LLM/TTS 分阶段事件与耗时记录", "LLM/VLM/Embedding/ASR/TTS 服务适配层，协议路由与连通性测试", "兴趣标签路线推荐与四类情绪识别的运营分析看板"], "use_cases": ["游客在景区通过文字、语音或拍照获取带引用来源的导览讲解", "运营人员维护景区知识库并查看热门问题、情绪与命中率趋势", "按兴趣标签获取含推荐理由和预计时长的游览路线"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数字人", "RAG", "智能导览", "多模态问答", "全栈项目"], "domain": "旅游/智能导览", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向国内景区业务场景"]}, "trust": {"confidence": "mid", "evidence": ["L3: 面向景区游客与运营人员的一体化智能导览系统。项目将文本问答、语音交互、拍照识景、本地 RAG、个性化路线推荐和游客行为分析整合到同一业务中，并提供 UniApp 游客端、Vue 3 管理后台与 Spring Boot 后端服务。", "L20: - 设计“文本/语音输入 -> 本地 RAG 检索 -> 大模型生成 -> 语音合成 -> Canvas 数字导游播报”的交互链路，并接入图片识别能力。", "L30: |多模态导览|文本问答、语音问答、拍照识景、上下文会话与资料引用|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "youxiandechilun/Guido",
+ "sha": "f92f287eed9f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "景区导览 AI 数字人系统：多模态问答、本地 RAG 与路线推荐",
+  "review": "面向景区游客与运营人员的一体化智能导览系统，含 Spring Boot 后端、Vue 3 管理后台与 UniApp 游客端。为游客提供文本/语音问答、拍照识景（VLM）、引用溯源的本地 RAG 问答、兴趣标签路线推荐与 Canvas 数字导游 TTS 播报；为运营人员提供景区/知识库/AI 服务配置管理与情绪、命中率等数据看板。LLM/VLM 通过 OpenAI 或 Anthropic Compatible 适配器路由，凭据 AES-GCM 加密，Embedding 不可用时降级关键词检索。需 JDK 17、MySQL 8、Node.js 环境从源码启动，语音依赖阿里云 ASR/TTS。",
+  "highlights": [
+   "本地 RAG：文档分片、向量化入 MySQL、余弦 Top-3 召回与关键词降级兜底",
+   "SSE 流式链路：ASR/检索/LLM/TTS 分阶段事件与耗时记录",
+   "LLM/VLM/Embedding/ASR/TTS 服务适配层，协议路由与连通性测试",
+   "兴趣标签路线推荐与四类情绪识别的运营分析看板"
+  ],
+  "use_cases": [
+   "游客在景区通过文字、语音或拍照获取带引用来源的导览讲解",
+   "运营人员维护景区知识库并查看热门问题、情绪与命中率趋势",
+   "按兴趣标签获取含推荐理由和预计时长的游览路线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数字人",
+   "RAG",
+   "智能导览",
+   "多模态问答",
+   "全栈项目"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "ai-assistant",
+   "recommender-system"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向国内景区业务场景"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 面向景区游客与运营人员的一体化智能导览系统。项目将文本问答、语音交互、拍照识景、本地 RAG、个性化路线推荐和游客行为分析整合到同一业务中，并提供 UniApp 游客端、Vue 3 管理后台与 Spring Boot 后端服务。",
+   "L20: - 设计“文本/语音输入 -> 本地 RAG 检索 -> 大模型生成 -> 语音合成 -> Canvas 数字导游播报”的交互链路，并接入图片识别能力。",
+   "L30: |多模态导览|文本问答、语音问答、拍照识景、上下文会话与资料引用|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

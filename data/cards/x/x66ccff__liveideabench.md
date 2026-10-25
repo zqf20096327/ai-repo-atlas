@@ -33,7 +33,7 @@ LiveIdeaBench 是以极简上下文（关键词）评测 LLM 科学发散思维�
 
 ## 场景标签
 
- · 领域:AI4Science/LLM 评测
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

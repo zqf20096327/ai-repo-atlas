@@ -1,1 +1,80 @@
-{"fn": "yoy123/lmstudio-copilot-provider", "sha": "3e36621be7c1", "source": "readme", "identity": {"one_liner": "在 VS Code Copilot Chat 中接入本地 LM Studio 模型的扩展", "review": "VS Code 扩展，将 LM Studio 本地或远程服务器上的模型加入 Copilot Chat 的模型选择器，支持流式响应、工具调用、实验性行内补全（ghost text），以及通过 DALL-E 兼容或 A1111 端点生成图片。本地安装时可自动启动 LM Studio 并懒加载所选模型，自动探测随 LM Studio 附带的 CLI（lms）；远程服务器场景（含 SSH 隧道）可跳过本地 CLI 操作。从 VS Code Marketplace 或 Open VSX 安装。", "highlights": ["将 LM Studio 模型加入 Copilot Chat 模型选择器并流式输出", "本地自动启动 LM Studio 服务器与懒加载模型", "支持远程 LM Studio 服务器与 SSH 隧道场景（treatAsRemote）", "可选工具调用、行内补全（实验性）与 DALL-E/A1111 图像生成"], "use_cases": ["在 VS Code Copilot Chat 中使用本地模型，减少对云端服务的依赖", "连接部署在专用服务器或容器中的 LM Studio 实例", "为支持工具调用的本地模型启用终端/文件类工具"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [96, 118], "note": "行内补全标注为实验性"}}, "links": {"scenario_tags": ["VS Code 扩展", "本地 LLM 接入", "Copilot Chat", "图像生成"], "domain": "开发工具/LLM 客户端接入", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L14: - Adds LM Studio models to the Copilot Chat model picker", "L31: 3. Pick an LM Studio model."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yoy123/lmstudio-copilot-provider",
+ "sha": "3e36621be7c1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 VS Code Copilot Chat 中接入本地 LM Studio 模型的扩展",
+  "review": "VS Code 扩展，将 LM Studio 本地或远程服务器上的模型加入 Copilot Chat 的模型选择器，支持流式响应、工具调用、实验性行内补全（ghost text），以及通过 DALL-E 兼容或 A1111 端点生成图片。本地安装时可自动启动 LM Studio 并懒加载所选模型，自动探测随 LM Studio 附带的 CLI（lms）；远程服务器场景（含 SSH 隧道）可跳过本地 CLI 操作。从 VS Code Marketplace 或 Open VSX 安装。",
+  "highlights": [
+   "将 LM Studio 模型加入 Copilot Chat 模型选择器并流式输出",
+   "本地自动启动 LM Studio 服务器与懒加载模型",
+   "支持远程 LM Studio 服务器与 SSH 隧道场景（treatAsRemote）",
+   "可选工具调用、行内补全（实验性）与 DALL-E/A1111 图像生成"
+  ],
+  "use_cases": [
+   "在 VS Code Copilot Chat 中使用本地模型，减少对云端服务的依赖",
+   "连接部署在专用服务器或容器中的 LM Studio 实例",
+   "为支持工具调用的本地模型启用终端/文件类工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    96,
+    118
+   ],
+   "note": "行内补全标注为实验性"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "VS Code 扩展",
+   "本地 LLM 接入",
+   "Copilot Chat",
+   "图像生成"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: - Adds LM Studio models to the Copilot Chat model picker",
+   "L31: 3. Pick an LM Studio model."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

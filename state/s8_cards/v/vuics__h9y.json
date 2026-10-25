@@ -1,1 +1,83 @@
-{"fn": "vuics/h9y", "sha": "8d615504ca25", "source": "readme", "identity": {"one_liner": "联邦式自主 Agent 操作系统网络，含多层记忆与分布式运行时", "review": "面向组织与多用户部署的开源 Agent 基础设施，由多用户操作系统、多层记忆架构（结构/交互/运行时/区块链等 9 层，分别落在 MongoDB、PostgreSQL、Redis、Hyperledger 等技术）和分布式 Agent 运行时三层组成。Agent 以容器内临时执行单元运行，采用 Redis 租约+心跳的执行模型，实例间通过 XMPP S2S 联邦互通，消息仅存于收发双方实例。声明模型无关，支持云端或本地容器化部署。", "highlights": ["9 层专用记忆架构（MongoDB/PostgreSQL/Redis/OpenSearch/Ollama 等）", "基于 Redis 租约、心跳与分布式锁的 Agent 执行模型，可迁移、可恢复", "XMPP S2S 联邦：实例间用户与 Agent 跨组织安全通信，无全局共享会话库", "Agent 生命周期管理、cron/事件驱动调度、MCP/CLI/API 外部工具运行时"], "use_cases": ["组织内部署多用户、多 Agent 的自主工作流平台", "多个组织间建立联邦化的 Agent 协作网络并保留数据主权", "运行需要长期记忆与分布式执行的有状态 Agent 系统"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多Agent系统", "Agent运行时/OS", "联邦/去中心化", "企业自托管", "记忆架构"], "domain": "AI Agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L12: > **HyperAgency** is a sovereign, federated, and distributed Agentic AI Operating System Network composed of three core ", "L143: HyperAgency is not only a messaging and memory system — it is a **distributed execution runtime for autonomous agents**.", "L240: |Model & Capability Memory|Runtime AI models and multimodal capabilities (LLM, VLM, STT, TTS, RAG)|Ollama, Speaches, Chr"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vuics/h9y",
+ "sha": "8d615504ca25",
+ "source": "readme",
+ "identity": {
+  "one_liner": "联邦式自主 Agent 操作系统网络，含多层记忆与分布式运行时",
+  "review": "面向组织与多用户部署的开源 Agent 基础设施，由多用户操作系统、多层记忆架构（结构/交互/运行时/区块链等 9 层，分别落在 MongoDB、PostgreSQL、Redis、Hyperledger 等技术）和分布式 Agent 运行时三层组成。Agent 以容器内临时执行单元运行，采用 Redis 租约+心跳的执行模型，实例间通过 XMPP S2S 联邦互通，消息仅存于收发双方实例。声明模型无关，支持云端或本地容器化部署。",
+  "highlights": [
+   "9 层专用记忆架构（MongoDB/PostgreSQL/Redis/OpenSearch/Ollama 等）",
+   "基于 Redis 租约、心跳与分布式锁的 Agent 执行模型，可迁移、可恢复",
+   "XMPP S2S 联邦：实例间用户与 Agent 跨组织安全通信，无全局共享会话库",
+   "Agent 生命周期管理、cron/事件驱动调度、MCP/CLI/API 外部工具运行时"
+  ],
+  "use_cases": [
+   "组织内部署多用户、多 Agent 的自主工作流平台",
+   "多个组织间建立联邦化的 Agent 协作网络并保留数据主权",
+   "运行需要长期记忆与分布式执行的有状态 Agent 系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多Agent系统",
+   "Agent运行时/OS",
+   "联邦/去中心化",
+   "企业自托管",
+   "记忆架构"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "multi-agent",
+   "workflow-automation",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: > **HyperAgency** is a sovereign, federated, and distributed Agentic AI Operating System Network composed of three core ",
+   "L143: HyperAgency is not only a messaging and memory system — it is a **distributed execution runtime for autonomous agents**.",
+   "L240: |Model & Capability Memory|Runtime AI models and multimodal capabilities (LLM, VLM, STT, TTS, RAG)|Ollama, Speaches, Chr"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,81 @@
-{"fn": "vmlinuzx/llmc", "sha": "2fbbceabb45a", "source": "readme", "identity": {"one_liner": "面向代码库的本地优先 RAG 引擎与 LLM 智能路由器", "review": "面向开发者在使用 LLM 处理代码库场景的工具：本地建立 SQLite 索引，用 TreeSitter 解析多种语言的代码与文档，按查询检索相关片段（函数/类/文档）并发送所需上下文而非整个代码库；支持 GraphRAG 代码结构分析、小模型本地富化标注、MCP server（可接入 Claude Desktop）、本地→廉价云→高端模型的级联路由与预算控制。安全上提供受信客户端 Hybrid Mode 与不受信输入的 Docker/nsjail 容器隔离。通过 curl 安装脚本或 pip（自 git 仓库）安装，附带 CLI 与 TUI 仪表盘（官方标注仍在开发中）。", "highlights": ["本地 SQLite 索引 + TreeSitter 多语言代码解析的 RAG 检索", "MCP server 支持，可接入 Claude Desktop", "Local → Cheap Cloud → Premium 的级联路由与预算上限/限流", "Docker/nsjail 容器隔离与 Hybrid Mode 两种安全模式"], "use_cases": ["在代码项目中本地检索相关片段，减少发给 LLM 的 token 量", "通过 MCP 让 Claude Desktop 等客户端访问本地代码索引", "对不受信的 LLM 输出做沙箱化远程代码执行"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [60]}}, "links": {"scenario_tags": ["RAG", "代码检索", "MCP", "LLM基础设施", "本地优先"], "domain": "开发者工具/LLM 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L13: LLMC is a **local-first RAG (Retrieval Augmented Generation) engine** and intelligent router designed to drastically red", "L61: |**🔌 MCP Support**|Full Model Context Protocol server to integrate seamlessly with Claude Desktop.|", "L80: * **Intelligent Failover:** Cascades from Local → Cheap Cloud → Premium Models."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vmlinuzx/llmc",
+ "sha": "2fbbceabb45a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向代码库的本地优先 RAG 引擎与 LLM 智能路由器",
+  "review": "面向开发者在使用 LLM 处理代码库场景的工具：本地建立 SQLite 索引，用 TreeSitter 解析多种语言的代码与文档，按查询检索相关片段（函数/类/文档）并发送所需上下文而非整个代码库；支持 GraphRAG 代码结构分析、小模型本地富化标注、MCP server（可接入 Claude Desktop）、本地→廉价云→高端模型的级联路由与预算控制。安全上提供受信客户端 Hybrid Mode 与不受信输入的 Docker/nsjail 容器隔离。通过 curl 安装脚本或 pip（自 git 仓库）安装，附带 CLI 与 TUI 仪表盘（官方标注仍在开发中）。",
+  "highlights": [
+   "本地 SQLite 索引 + TreeSitter 多语言代码解析的 RAG 检索",
+   "MCP server 支持，可接入 Claude Desktop",
+   "Local → Cheap Cloud → Premium 的级联路由与预算上限/限流",
+   "Docker/nsjail 容器隔离与 Hybrid Mode 两种安全模式"
+  ],
+  "use_cases": [
+   "在代码项目中本地检索相关片段，减少发给 LLM 的 token 量",
+   "通过 MCP 让 Claude Desktop 等客户端访问本地代码索引",
+   "对不受信的 LLM 输出做沙箱化远程代码执行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    60
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "代码检索",
+   "MCP",
+   "LLM基础设施",
+   "本地优先"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: LLMC is a **local-first RAG (Retrieval Augmented Generation) engine** and intelligent router designed to drastically red",
+   "L61: |**🔌 MCP Support**|Full Model Context Protocol server to integrate seamlessly with Claude Desktop.|",
+   "L80: * **Intelligent Failover:** Cascades from Local → Cheap Cloud → Premium Models."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

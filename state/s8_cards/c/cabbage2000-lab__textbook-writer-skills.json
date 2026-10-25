@@ -1,1 +1,82 @@
-{"fn": "cabbage2000-lab/textbook-writer-skills", "sha": "c14ec9389e28", "source": "readme", "identity": {"one_liner": "装进编程智能体的教材写作 skill 组合，覆盖设计到定稿五阶段", "review": "由 5 个 skill 组成的教材写作流水线，安装到 Claude Code / Codex / WorkBuddy 等编程智能体宿主中使用。按 UbD 逆向设计组织流程：教学定位 → UbD 五件套 gate → 章节树 gate → 四段式逐章写作 → 审核定稿，关键决策由作者在两处 gate 确认。学科差异通过可插拔学科档案实现（stem 真算复核 / humanities 核对来源 / economics 混合），验证不了的结论标注「需作者确认」；进度写入 .progress.json 支持断点续写。提供提示词粘贴安装、插件市场命令与 SkillHub 国内源三种安装途径。", "highlights": ["5 个 skill 覆盖从工作目录规划到审核定稿的五阶段流水线", "可插拔学科档案：stem 真算复核、humanities 核对引文来源、economics 混合验证", "两处 gate 停点要求作者确认 UbD 五件套与章节树，关键决策不由 AI 拍板", "进度落盘 .progress.json，中断后从断点续写，已完成的章不重写"], "use_cases": ["把自己懂的课程知识写成有主线、有梯度、题目答案可信的成体系教材", "基于已有讲义或 Word 素材规划整本教材或修订指定章节", "按学科档案逐题验证答案，避免编造引文与算错例题"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "教材编写", "教学设计", "Claude Code技能", "知识工程"], "domain": "教育/教学内容生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "支持国内 WorkBuddy 宿主", "SkillHub 国内源安装（skillhub.cn）"]}, "trust": {"confidence": "high", "evidence": ["L11: Textbook-Writer-Skills 是一套装进编程智能体（Claude Code / Codex / 国内 WorkBuddy）的教材写作 skill 组合。它把成熟的教学设计方法装进 AI 的工作流：先想清楚「学生学完该带走什么", "L107: |**0 · 起步**（可选）|`textbook-init`|一轮提问弄清写一本还是多本、放在哪里、要不要版本管理|工作目录骨架（可选 git 与 README 工作说明）|—|eval 6|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "cabbage2000-lab/textbook-writer-skills",
+ "sha": "c14ec9389e28",
+ "source": "readme",
+ "identity": {
+  "one_liner": "装进编程智能体的教材写作 skill 组合，覆盖设计到定稿五阶段",
+  "review": "由 5 个 skill 组成的教材写作流水线，安装到 Claude Code / Codex / WorkBuddy 等编程智能体宿主中使用。按 UbD 逆向设计组织流程：教学定位 → UbD 五件套 gate → 章节树 gate → 四段式逐章写作 → 审核定稿，关键决策由作者在两处 gate 确认。学科差异通过可插拔学科档案实现（stem 真算复核 / humanities 核对来源 / economics 混合），验证不了的结论标注「需作者确认」；进度写入 .progress.json 支持断点续写。提供提示词粘贴安装、插件市场命令与 SkillHub 国内源三种安装途径。",
+  "highlights": [
+   "5 个 skill 覆盖从工作目录规划到审核定稿的五阶段流水线",
+   "可插拔学科档案：stem 真算复核、humanities 核对引文来源、economics 混合验证",
+   "两处 gate 停点要求作者确认 UbD 五件套与章节树，关键决策不由 AI 拍板",
+   "进度落盘 .progress.json，中断后从断点续写，已完成的章不重写"
+  ],
+  "use_cases": [
+   "把自己懂的课程知识写成有主线、有梯度、题目答案可信的成体系教材",
+   "基于已有讲义或 Word 素材规划整本教材或修订指定章节",
+   "按学科档案逐题验证答案，避免编造引文与算错例题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "教材编写",
+   "教学设计",
+   "Claude Code技能",
+   "知识工程"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "支持国内 WorkBuddy 宿主",
+   "SkillHub 国内源安装（skillhub.cn）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Textbook-Writer-Skills 是一套装进编程智能体（Claude Code / Codex / 国内 WorkBuddy）的教材写作 skill 组合。它把成熟的教学设计方法装进 AI 的工作流：先想清楚「学生学完该带走什么",
+   "L107: |**0 · 起步**（可选）|`textbook-init`|一轮提问弄清写一本还是多本、放在哪里、要不要版本管理|工作目录骨架（可选 git 与 README 工作说明）|—|eval 6|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

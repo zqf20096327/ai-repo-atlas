@@ -1,1 +1,74 @@
-{"fn": "xcsf-dev/xcsf", "sha": "4484aad0d787", "source": "readme", "identity": {"one_liner": "XCSF 学习分类器系统实现：基于规则的在线进化机器学习", "review": "XCSF 学习分类器系统的实现，可构建为独立二进制程序或 Python 库（PyPI 提供）。XCSF 是基于准确率的在线进化机器学习系统，用局部逼近函数直接从输入状态计算分类器的收益预测，可视为预测为标量值的 XCS 泛化。系统在全局输入空间中寻找准确且最大泛化的解，并可将输入空间自适应细分为更简单的局部逼近。具体功能、构建与使用方法见项目 wiki。", "highlights": ["可构建为独立二进制程序或 Python 库", "基于准确率的在线进化机器学习，局部逼近函数计算收益预测", "支持自适应细分输入空间为更简单的局部逼近", "在 PyPI 发布，多平台构建徽章（Linux/macOS/Windows）"], "use_cases": ["以 Python 库形式在项目中使用在线进化学习", "研究学习分类器系统与神经进化方法", "需要规则化可解释局部逼近的回归/强化学习任务"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["进化计算", "学习分类器系统", "在线学习", "强化学习", "机器学习库"], "domain": "机器学习/进化计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: An implementation of the XCSF learning classifier system that can be built as a stand-alone binary or as a Python librar"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xcsf-dev/xcsf",
+ "sha": "4484aad0d787",
+ "source": "readme",
+ "identity": {
+  "one_liner": "XCSF 学习分类器系统实现：基于规则的在线进化机器学习",
+  "review": "XCSF 学习分类器系统的实现，可构建为独立二进制程序或 Python 库（PyPI 提供）。XCSF 是基于准确率的在线进化机器学习系统，用局部逼近函数直接从输入状态计算分类器的收益预测，可视为预测为标量值的 XCS 泛化。系统在全局输入空间中寻找准确且最大泛化的解，并可将输入空间自适应细分为更简单的局部逼近。具体功能、构建与使用方法见项目 wiki。",
+  "highlights": [
+   "可构建为独立二进制程序或 Python 库",
+   "基于准确率的在线进化机器学习，局部逼近函数计算收益预测",
+   "支持自适应细分输入空间为更简单的局部逼近",
+   "在 PyPI 发布，多平台构建徽章（Linux/macOS/Windows）"
+  ],
+  "use_cases": [
+   "以 Python 库形式在项目中使用在线进化学习",
+   "研究学习分类器系统与神经进化方法",
+   "需要规则化可解释局部逼近的回归/强化学习任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "进化计算",
+   "学习分类器系统",
+   "在线学习",
+   "强化学习",
+   "机器学习库"
+  ],
+  "domain": "机器学习/进化计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: An implementation of the XCSF learning classifier system that can be built as a stand-alone binary or as a Python librar"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
