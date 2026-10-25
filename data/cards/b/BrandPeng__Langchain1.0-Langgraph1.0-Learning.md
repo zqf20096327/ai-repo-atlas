@@ -1,6 +1,6 @@
 # BrandPeng/Langchain1.0-Langgraph1.0-Learning
 
-⭐ 688 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) · 个人维护 · 中文 README
+⭐ 690 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) · 个人维护 · 中文 README
 
 **LangChain 1.0 与 LangGraph 1.0 的中文学习教程仓库**
 

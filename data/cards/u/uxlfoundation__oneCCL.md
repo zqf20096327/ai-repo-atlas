@@ -1,6 +1,6 @@
 # uxlfoundation/oneCCL
 
-⭐ 271 · C++ · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/uxlfoundation/oneCCL) · [官网](https://oneapi-src.github.io/oneCCL) · 组织维护
+⭐ 272 · C++ · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/uxlfoundation/oneCCL) · [官网](https://oneapi-src.github.io/oneCCL) · 组织维护
 
 **面向深度学习的集合通信库，实现高效通信模式**
 

@@ -1,6 +1,6 @@
 # prasanjit101/whishpy
 
-⭐ 98 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/prasanjit101/whishpy) · 个人维护
+⭐ 99 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/prasanjit101/whishpy) · 个人维护
 
 **macOS 菜单栏语音转文字听写工具（Wispr Flow 替代）**
 

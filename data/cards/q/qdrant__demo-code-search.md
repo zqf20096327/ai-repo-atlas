@@ -1,6 +1,6 @@
 # qdrant/demo-code-search
 
-⭐ 62 · Python · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/demo-code-search) · 组织维护
+⭐ 63 · Python · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/demo-code-search) · 组织维护
 
 **Qdrant 官方代码语义搜索演示：混合检索 Qdrant 源码**
 

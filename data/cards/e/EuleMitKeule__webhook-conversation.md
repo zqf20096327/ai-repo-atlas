@@ -1,6 +1,6 @@
 # EuleMitKeule/webhook-conversation
 
-⭐ 55 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/EuleMitKeule/webhook-conversation) · 个人维护
+⭐ 56 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/EuleMitKeule/webhook-conversation) · 个人维护
 
 **Home Assistant 集成：把 n8n 等 webhook 系统接入为对话代理与语音助手**
 

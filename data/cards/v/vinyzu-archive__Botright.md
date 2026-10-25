@@ -1,6 +1,6 @@
 # vinyzu-archive/Botright
 
-⭐ 1,040 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/vinyzu-archive/Botright) · 个人维护
+⭐ 1,041 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/vinyzu-archive/Botright) · 个人维护
 
 **基于 Playwright 的浏览器隐身自动化框架，附带 AI 验证码求解**
 

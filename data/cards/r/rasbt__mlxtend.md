@@ -1,6 +1,6 @@
 # rasbt/mlxtend
 
-⭐ 5,188 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/rasbt/mlxtend) · [官网](https://rasbt.github.io/mlxtend/) · 个人维护
+⭐ 5,189 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/rasbt/mlxtend) · [官网](https://rasbt.github.io/mlxtend/) · 个人维护
 
 **Python 数据科学与机器学习任务的扩展工具库**
 

@@ -1,6 +1,6 @@
 # LuoDi-Nate/financial-management
 
-⭐ 369 · Java · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/LuoDi-Nate/financial-management) · [官网](https://beta.dixi-token.top) · 个人维护 · 中文 README
+⭐ 370 · Java · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/LuoDi-Nate/financial-management) · [官网](https://beta.dixi-token.top) · 个人维护 · 中文 README
 
 **自托管家庭资产管理应用：月度快照 + XIRR/TWR + AI 体检**
 

@@ -1,6 +1,6 @@
 # TejasQ/basically-ai-harness
 
-⭐ 190 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/TejasQ/basically-ai-harness) · [官网](https://tej.as/blog/what-is-an-agent-harness) · 个人维护
+⭐ 191 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/TejasQ/basically-ai-harness) · [官网](https://tej.as/blog/what-is-an-agent-harness) · 个人维护
 
 **教学用 TypeScript 最小实现：评测 harness 与 agent harness 各一套**
 

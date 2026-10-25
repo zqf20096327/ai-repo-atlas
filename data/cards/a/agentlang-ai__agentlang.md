@@ -1,6 +1,6 @@
 # agentlang-ai/agentlang
 
-⭐ 59 · JavaScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/agentlang-ai/agentlang) · [官网](https://fractl.io/agentlang) · 组织维护 · 中文 README
+⭐ 59 · JavaScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/agentlang-ai/agentlang) · [官网](https://fractl.io/agentlang) · 组织维护 · 中文 README
 
 **构建企业级 AI Agent 的声明式 DSL 与全栈框架**
 

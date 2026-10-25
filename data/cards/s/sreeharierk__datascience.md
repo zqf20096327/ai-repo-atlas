@@ -1,6 +1,6 @@
 # sreeharierk/datascience
 
-⭐ 5,148 · GPL-3.0 · 推送 2026-02-01 · [GitHub](https://github.com/sreeharierk/datascience) · [官网](https://twitter.com/sreeharierk) · 个人维护
+⭐ 5,149 · GPL-3.0 · 推送 2026-02-01 · [GitHub](https://github.com/sreeharierk/datascience) · [官网](https://twitter.com/sreeharierk) · 个人维护
 
 **数据科学学习路线图：免费资源与概念讲解合集**
 

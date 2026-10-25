@@ -1,6 +1,6 @@
 # zerowand01/markplane
 
-⭐ 191 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/zerowand01/markplane) · 个人维护
+⭐ 191 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/zerowand01/markplane) · 个人维护
 
 **仓库内 Markdown 项目管理工具，为 AI 编程助手提供项目上下文**
 

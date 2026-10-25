@@ -1,6 +1,6 @@
 # MochiDiffusion/MochiDiffusion
 
-⭐ 7,972 · Swift · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) · 个人维护 · 中文 README
+⭐ 7,975 · Swift · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) · 个人维护 · 中文 README
 
 **在 Mac 上本地运行 Stable Diffusion / FLUX.2 Klein 生图的原生应用**
 

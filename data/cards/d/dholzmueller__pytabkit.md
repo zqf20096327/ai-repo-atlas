@@ -1,6 +1,6 @@
 # dholzmueller/pytabkit
 
-⭐ 400 · Python · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/dholzmueller/pytabkit) · 个人维护
+⭐ 402 · Python · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/dholzmueller/pytabkit) · 个人维护
 
 **表格数据分类/回归的 scikit-learn 接口模型库与基准代码**
 

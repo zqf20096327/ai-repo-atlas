@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-cua-py
 
-⭐ 217 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/langgraph-cua-py) · 组织维护
+⭐ 217 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langgraph-cua-py) · 组织维护
 
 **基于 LangGraph 的计算机使用代理（CUA）Python 库**
 

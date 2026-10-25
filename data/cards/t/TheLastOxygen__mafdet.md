@@ -1,6 +1,6 @@
 # TheLastOxygen/mafdet
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/TheLastOxygen/mafdet) · 个人维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/TheLastOxygen/mafdet) · 个人维护
 
 **边打字边预读预思考的本地 LLM 聊天应用**
 

@@ -1,6 +1,6 @@
 # andromanpro/1c-ai-connector
 
-⭐ 106 · 1C Enterprise · MIT · 推送 2026-10-23 · [GitHub](https://github.com/andromanpro/1c-ai-connector) · [官网](https://androman.pro) · 个人维护 · 中文 README
+⭐ 106 · 1C Enterprise · MIT · 推送 2026-10-24 · [GitHub](https://github.com/andromanpro/1c-ai-connector) · [官网](https://androman.pro) · 个人维护 · 中文 README
 
 **1С:Предприятие 8.3 的 LLM 集成扩展：连接器、Agent、RAG、MCP**
 

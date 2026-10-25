@@ -1,6 +1,6 @@
 # lobehub/lobehub
 
-⭐ 83,466 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/lobehub/lobehub) · [官网](https://lobehub.com) · 组织维护 · 中文 README
+⭐ 83,486 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/lobehub/lobehub) · [官网](https://lobehub.com) · 组织维护 · 中文 README
 
 **多智能体协作平台：像团队一样雇佣、调度、汇报 AI 代理**
 

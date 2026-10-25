@@ -1,6 +1,6 @@
 # Gitruck/cli
 
-⭐ 892 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Gitruck/cli) · [官网](https://ai-mcn.tv/gtrk) · 组织维护 · 中文 README
+⭐ 932 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Gitruck/cli) · [官网](https://ai-mcn.tv/gtrk) · 组织维护 · 中文 README
 
 **给 AI Agent 用的视频创作 CLI：口播毛片变可精修剪辑工程**
 

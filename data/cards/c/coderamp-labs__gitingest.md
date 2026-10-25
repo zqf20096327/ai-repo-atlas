@@ -1,6 +1,6 @@
 # coderamp-labs/gitingest
 
-⭐ 15,996 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/coderamp-labs/gitingest) · [官网](https://gitingest.com) · 组织维护 · 中文 README
+⭐ 16,009 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/coderamp-labs/gitingest) · [官网](https://gitingest.com) · 组织维护 · 中文 README
 
 **把 Git 仓库转成 LLM 可用文本摘要的开发者工具**
 

@@ -1,6 +1,6 @@
 # SanMuzZzZz/LuaN1aoAgent
 
-⭐ 1,437 · TypeScript · AGPL-3.0 · 推送 2026-09-15 · [GitHub](https://github.com/SanMuzZzZz/LuaN1aoAgent) · 个人维护 · 中文 README
+⭐ 1,441 · TypeScript · AGPL-3.0 · 推送 2026-09-15 · [GitHub](https://github.com/SanMuzZzZz/LuaN1aoAgent) · 个人维护 · 中文 README
 
 **面向授权安全测试的认知驱动自主 Agent（TypeScript 重写版）**
 

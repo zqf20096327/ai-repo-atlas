@@ -1,6 +1,6 @@
 # escapeboy/agent-fleet-o
 
-⭐ 76 · PHP · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/escapeboy/agent-fleet-o) · [官网](https://fleetq.net) · 个人维护
+⭐ 76 · PHP · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/escapeboy/agent-fleet-o) · [官网](https://fleetq.net) · 个人维护
 
 **自托管多 AI agent 编排平台：可视化 DAG 工作流与治理**
 

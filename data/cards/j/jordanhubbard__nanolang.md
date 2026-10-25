@@ -1,6 +1,6 @@
 # jordanhubbard/nanolang
 
-⭐ 630 · C · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jordanhubbard/nanolang) · 个人维护
+⭐ 630 · C · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jordanhubbard/nanolang) · 个人维护
 
 **面向编码 LLM 设计的实验编程语言与安全运行时**
 

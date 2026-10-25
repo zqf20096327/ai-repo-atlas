@@ -1,6 +1,6 @@
 # averatec0773/offeros
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/averatec0773/offeros) · [官网](https://github.com/averatec0773/offeros#readme) · 个人维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/averatec0773/offeros) · [官网](https://github.com/averatec0773/offeros#readme) · 个人维护
 
 **本地优先的求职申请 AI 代理：跟踪投递状态并代填 ATS 表单**
 

@@ -1,6 +1,6 @@
 # omarfarouk228/togolm
 
-⭐ 39 · Python · 推送 2026-10-15 · [GitHub](https://github.com/omarfarouk228/togolm) · [官网](https://togolm.com) · 个人维护
+⭐ 39 · Python · 推送 2026-10-25 · [GitHub](https://github.com/omarfarouk228/togolm) · [官网](https://togolm.com) · 个人维护
 
 **面向多哥的开源 AI 知识层：6.2万文档语料+RAG API+微调模型**
 

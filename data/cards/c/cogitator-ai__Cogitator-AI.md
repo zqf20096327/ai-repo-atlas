@@ -1,6 +1,6 @@
 # cogitator-ai/Cogitator-AI
 
-⭐ 43 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/cogitator-ai/Cogitator-AI) · [官网](https://cogitator.app) · 组织维护
+⭐ 43 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cogitator-ai/Cogitator-AI) · [官网](https://cogitator.app) · 组织维护
 
 **面向工程团队的自托管 TypeScript LLM Agent 运行时**
 

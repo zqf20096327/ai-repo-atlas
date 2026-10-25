@@ -1,6 +1,6 @@
 # atlas-php/atlas
 
-⭐ 55 · PHP · MIT · 推送 2026-07-21 · [GitHub](https://github.com/atlas-php/atlas) · [官网](http://atlasphp.org/) · 组织维护
+⭐ 54 · PHP · MIT · 推送 2026-07-21 · [GitHub](https://github.com/atlas-php/atlas) · [官网](http://atlasphp.org/) · 组织维护
 
 **面向 Laravel 的统一 AI SDK：构建 agent、工具并接入多家模型服务商**
 

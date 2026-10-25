@@ -1,6 +1,6 @@
 # moeru-ai/xsai
 
-⭐ 664 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/moeru-ai/xsai) · [官网](https://xsai.js.org) · 组织维护
+⭐ 664 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/moeru-ai/xsai) · [官网](https://xsai.js.org) · 组织维护
 
 **面向 Web 标准的极小型 TypeScript AI SDK**
 

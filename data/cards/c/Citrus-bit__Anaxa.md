@@ -1,6 +1,6 @@
 # Citrus-bit/Anaxa
 
-⭐ 122 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/Citrus-bit/Anaxa) · 个人维护 · 中文 README
+⭐ 123 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/Citrus-bit/Anaxa) · 个人维护 · 中文 README
 
 **科研智能体工作台：文献检索到论文成稿的可追踪研究生命周期**
 

@@ -1,6 +1,6 @@
 # khanlab/hippunfold
 
-⭐ 70 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/khanlab/hippunfold) · [官网](https://hippunfold.readthedocs.io) · 组织维护
+⭐ 70 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/khanlab/hippunfold) · [官网](https://hippunfold.readthedocs.io) · 组织维护
 
 **海马体 MRI 自动展开与亚区分割的神经影像工具**
 

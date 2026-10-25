@@ -1,6 +1,6 @@
 # HexmosTech/git-lrc
 
-⭐ 1,473 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/HexmosTech/git-lrc) · [官网](https://hexmos.com/livereview/git-lrc/) · 组织维护
+⭐ 1,475 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/HexmosTech/git-lrc) · [官网](https://hexmos.com/livereview/git-lrc/) · 组织维护
 
 **挂在 git commit 上的 AI 代码审查工具：提交前自动审查 diff**
 

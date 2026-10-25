@@ -1,6 +1,6 @@
 # matt1398/claude-devtools
 
-⭐ 3,993 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/matt1398/claude-devtools) · [官网](https://claude-dev.tools) · 个人维护
+⭐ 3,994 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/matt1398/claude-devtools) · [官网](https://claude-dev.tools) · 个人维护
 
 **Claude Code 会话日志的可视化调试工具，查看工具调用与 token 用量**
 

@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-Flutter
 
-⭐ 40 · Dart · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Flutter) · [官网](https://www.xmaxai.com) · 组织维护 · 中文 README
+⭐ 40 · Dart · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Flutter) · [官网](https://www.xmaxai.com) · 组织维护 · 中文 README
 
 **接入 Xmax 实时交互式视频生成云服务的 Flutter SDK**
 

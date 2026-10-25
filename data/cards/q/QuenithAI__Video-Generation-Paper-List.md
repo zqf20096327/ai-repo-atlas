@@ -1,6 +1,6 @@
 # QuenithAI/Video-Generation-Paper-List
 
-⭐ 171 · 推送 2026-03-28 · [GitHub](https://github.com/QuenithAI/Video-Generation-Paper-List) · 组织维护 · 中文 README
+⭐ 171 · 推送 2026-10-25 · [GitHub](https://github.com/QuenithAI/Video-Generation-Paper-List) · 组织维护 · 中文 README
 
 **视频生成领域论文与模型策展清单（ Awesome List）**
 

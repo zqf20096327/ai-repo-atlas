@@ -1,6 +1,6 @@
 # startino/aitino
 
-⭐ 92 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/startino/aitino) · [官网](https://aiti.no/) · 组织维护
+⭐ 92 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/startino/aitino) · [官网](https://aiti.no/) · 组织维护
 
 **构建 AI Agent 团队以自动化高层任务的开源平台**
 

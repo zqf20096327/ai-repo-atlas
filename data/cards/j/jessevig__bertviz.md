@@ -1,6 +1,6 @@
 # jessevig/bertviz
 
-⭐ 8,201 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/jessevig/bertviz) · 个人维护
+⭐ 8,202 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/jessevig/bertviz) · 个人维护
 
 **可视化 Transformer 模型注意力机制的 Jupyter 交互工具**
 

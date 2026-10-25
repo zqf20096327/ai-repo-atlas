@@ -1,6 +1,6 @@
 # smart-mcp-proxy/mcpproxy-go
 
-⭐ 398 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/smart-mcp-proxy/mcpproxy-go) · [官网](https://mcpproxy.app) · 组织维护
+⭐ 398 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/smart-mcp-proxy/mcpproxy-go) · [官网](https://mcpproxy.app) · 组织维护
 
 **MCP 服务器聚合代理：统一端点+隔离审查+按需工具发现**
 

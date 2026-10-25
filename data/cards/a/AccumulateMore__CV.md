@@ -1,6 +1,6 @@
 # AccumulateMore/CV
 
-⭐ 24,105 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/AccumulateMore/CV) · 个人维护 · 中文 README
+⭐ 24,115 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/AccumulateMore/CV) · 个人维护 · 中文 README
 
 **中文自学者的深度学习与大模型课程笔记合集**
 

@@ -1,6 +1,6 @@
 # LINJIANG12/video2book-courses
 
-⭐ 203 · 推送 2026-10-20 · [GitHub](https://github.com/LINJIANG12/video2book-courses) · 个人维护 · 中文 README
+⭐ 211 · 推送 2026-10-20 · [GitHub](https://github.com/LINJIANG12/video2book-courses) · 个人维护 · 中文 README
 
 **AI 生成的网课精读教材/笔记/逐字稿合集，供学习复习**
 

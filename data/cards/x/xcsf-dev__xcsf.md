@@ -1,6 +1,6 @@
 # xcsf-dev/xcsf
 
-⭐ 37 · C · GPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/xcsf-dev/xcsf) · 组织维护
+⭐ 37 · C · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/xcsf-dev/xcsf) · 组织维护
 
 **XCSF 学习分类器系统实现：基于规则的在线进化机器学习**
 

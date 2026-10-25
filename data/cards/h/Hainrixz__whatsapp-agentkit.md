@@ -1,6 +1,6 @@
 # Hainrixz/whatsapp-agentkit
 
-⭐ 546 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Hainrixz/whatsapp-agentkit) · [官网](https://hainrixz.github.io/whatsapp-agentkit/) · 个人维护
+⭐ 546 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/whatsapp-agentkit) · [官网](https://hainrixz.github.io/whatsapp-agentkit/) · 个人维护
 
 **用 Claude Code 访谈式生成 WhatsApp AI 客服 agent 的工具包**
 

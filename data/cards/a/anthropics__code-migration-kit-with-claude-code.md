@@ -1,6 +1,6 @@
 # anthropics/code-migration-kit-with-claude-code
 
-⭐ 770 · Python · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/anthropics/code-migration-kit-with-claude-code) · 组织维护
+⭐ 771 · Python · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/anthropics/code-migration-kit-with-claude-code) · 组织维护
 
 **用 Claude Code 执行大规模语言迁移的提示词/模板/脚本套件**
 

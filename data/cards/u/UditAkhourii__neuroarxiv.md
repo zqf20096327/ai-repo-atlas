@@ -1,6 +1,6 @@
 # UditAkhourii/neuroarxiv
 
-⭐ 437 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/UditAkhourii/neuroarxiv) · [官网](https://www.divergent.sh/blog/neuroarxiv-never-build-from-scratch) · 个人维护
+⭐ 438 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/UditAkhourii/neuroarxiv) · [官网](https://www.divergent.sh/blog/neuroarxiv-never-build-from-scratch) · 个人维护
 
 **Claude Code/Codex 技能：设计架构前先检索 arXiv 先行工作并收敛出单一建议**
 

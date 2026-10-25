@@ -1,6 +1,6 @@
 # IBM/iac-spec-kit
 
-⭐ 88 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/IBM/iac-spec-kit) · 组织维护
+⭐ 89 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/IBM/iac-spec-kit) · 组织维护
 
 **面向基础设施即代码的规格驱动开发工具包：用 AI 助手把需求转为 IaC 代码**
 

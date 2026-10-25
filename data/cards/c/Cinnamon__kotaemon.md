@@ -1,6 +1,6 @@
 # Cinnamon/kotaemon
 
-⭐ 25,828 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/Cinnamon/kotaemon) · [官网](https://cinnamon.github.io/kotaemon/) · 组织维护
+⭐ 25,829 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/Cinnamon/kotaemon) · [官网](https://cinnamon.github.io/kotaemon/) · 组织维护
 
 **面向终端用户与开发者的开源 RAG 文档问答 UI**
 

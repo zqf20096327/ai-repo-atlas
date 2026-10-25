@@ -1,6 +1,6 @@
 # lewiswigmore/open-wire
 
-⭐ 42 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/lewiswigmore/open-wire) · [官网](https://marketplace.visualstudio.com/items?itemName=lewiswigmore.open-wire) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lewiswigmore/open-wire) · [官网](https://marketplace.visualstudio.com/items?itemName=lewiswigmore.open-wire) · 个人维护
 
 **把 VS Code 内可见的语言模型暴露为 OpenAI 兼容 REST API 的扩展**
 

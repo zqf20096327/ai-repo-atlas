@@ -1,6 +1,6 @@
 # IBM/vLLM-Hook
 
-⭐ 167 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/IBM/vLLM-Hook) · [官网](https://arxiv.org/abs/2603.06588) · 组织维护
+⭐ 168 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/IBM/vLLM-Hook) · [官网](https://arxiv.org/abs/2603.06588) · 组织维护
 
 **面向 vLLM 的插件库：检查、捕获并干预模型内部状态**
 

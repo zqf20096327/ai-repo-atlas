@@ -1,6 +1,6 @@
 # PlanExeOrg/PlanExe
 
-⭐ 402 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/PlanExeOrg/PlanExe) · [官网](https://planexe.org) · 组织维护
+⭐ 402 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/PlanExeOrg/PlanExe) · [官网](https://planexe.org) · 组织维护
 
 **把项目简述转化为可编辑项目计划基线的本地规划工具**
 

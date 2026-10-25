@@ -1,6 +1,6 @@
 # isLinXu/paper-list
 
-⭐ 166 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/isLinXu/paper-list) · [官网](https://islinxu.github.io/paper-list/) · 个人维护
+⭐ 165 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/isLinXu/paper-list) · [官网](https://islinxu.github.io/paper-list/) · 个人维护
 
 **自动追踪 arXiv 最新论文的每日聚合清单（20+ 主题）**
 

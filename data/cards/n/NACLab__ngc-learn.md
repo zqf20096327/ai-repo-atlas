@@ -1,6 +1,6 @@
 # NACLab/ngc-learn
 
-⭐ 211 · Python · BSD-3-Clause · 推送 2026-10-05 · [GitHub](https://github.com/NACLab/ngc-learn) · [官网](https://ngc-learn.readthedocs.io/en/latest/#) · 组织维护
+⭐ 212 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/NACLab/ngc-learn) · [官网](https://ngc-learn.readthedocs.io/en/latest/#) · 组织维护
 
 **计算神经科学研究库：构建与仿真生物合理的神经网络与智能体**
 

@@ -1,6 +1,6 @@
 # diodiogod/TTS-Audio-Suite
 
-⭐ 1,241 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/diodiogod/TTS-Audio-Suite) · 个人维护
+⭐ 1,244 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/diodiogod/TTS-Audio-Suite) · 个人维护
 
 **ComfyUI 多引擎本地 TTS 与语音转换节点套件**
 

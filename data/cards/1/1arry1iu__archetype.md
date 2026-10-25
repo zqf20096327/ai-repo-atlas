@@ -1,6 +1,6 @@
 # 1arry1iu/archetype
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/1arry1iu/archetype) · 个人维护 · 中文 README
+⭐ 57 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/1arry1iu/archetype) · 个人维护 · 中文 README
 
 **面向领域专家与创作的可复用 LLM 提示词规范库**
 

@@ -1,6 +1,6 @@
 # SciSharp/LLamaSharp
 
-⭐ 3,818 · C# · MIT · 推送 2026-10-17 · [GitHub](https://github.com/SciSharp/LLamaSharp) · [官网](https://scisharp.github.io/LLamaSharp) · 组织维护 · 中文 README
+⭐ 3,819 · C# · MIT · 推送 2026-10-17 · [GitHub](https://github.com/SciSharp/LLamaSharp) · [官网](https://scisharp.github.io/LLamaSharp) · 组织维护 · 中文 README
 
 **C#/.NET 本地运行 LLM 的推理库，基于 llama.cpp**
 

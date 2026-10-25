@@ -1,6 +1,6 @@
 # JohnSnowLabs/spark-nlp
 
-⭐ 4,160 · Scala · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/JohnSnowLabs/spark-nlp) · [官网](https://sparknlp.org/) · 组织维护
+⭐ 4,160 · Scala · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/JohnSnowLabs/spark-nlp) · [官网](https://sparknlp.org/) · 组织维护
 
 **基于 Apache Spark 的 NLP 与 LLM 库：给 Python/JVM 开发者**
 

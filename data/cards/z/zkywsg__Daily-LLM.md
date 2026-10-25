@@ -1,6 +1,6 @@
 # zkywsg/Daily-LLM
 
-⭐ 866 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/zkywsg/Daily-LLM) · 个人维护 · 中文 README
+⭐ 867 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/zkywsg/Daily-LLM) · 个人维护 · 中文 README
 
 **深度学习与大模型学习路线仓库：19 个架构家族的系统教程**
 

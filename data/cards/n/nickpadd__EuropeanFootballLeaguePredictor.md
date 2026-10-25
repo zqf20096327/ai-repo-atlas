@@ -1,6 +1,6 @@
 # nickpadd/EuropeanFootballLeaguePredictor
 
-⭐ 75 · Python · MIT · 推送 2026-02-17 · [GitHub](https://github.com/nickpadd/EuropeanFootballLeaguePredictor) · [官网](https://nickpadd.github.io/EuropeanFootballLeaguePredictor/Home.html) · 个人维护
+⭐ 74 · Python · MIT · 推送 2026-02-17 · [GitHub](https://github.com/nickpadd/EuropeanFootballLeaguePredictor) · [官网](https://nickpadd.github.io/EuropeanFootballLeaguePredictor/Home.html) · 个人维护
 
 **欧洲五大联赛足球比赛结果预测的机器学习/统计模型**
 

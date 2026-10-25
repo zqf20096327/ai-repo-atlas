@@ -1,6 +1,6 @@
 # NameetP/pdfmux
 
-⭐ 84 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/NameetP/pdfmux) · [官网](https://pdfmux.com) · 个人维护
+⭐ 85 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/NameetP/pdfmux) · [官网](https://pdfmux.com) · 个人维护
 
 **带自审计的 PDF 提取与校验工具，检出静默丢页**
 

@@ -1,6 +1,6 @@
 # MCP-UI-Org/mcp-ui
 
-⭐ 5,230 · TypeScript · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/MCP-UI-Org/mcp-ui) · [官网](https://mcpui.dev) · 个人维护
+⭐ 5,232 · TypeScript · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/MCP-UI-Org/mcp-ui) · [官网](https://mcpui.dev) · 个人维护
 
 **实现 MCP Apps 标准的 UI SDK：让 MCP 工具返回可交互 Web 界面**
 

@@ -1,6 +1,6 @@
 # tuirk/Kompl
 
-⭐ 79 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/tuirk/Kompl) · [官网](https://github.com/tuirk/Kompl) · 个人维护
+⭐ 79 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/tuirk/Kompl) · [官网](https://github.com/tuirk/Kompl) · 个人维护
 
 **自我更新式 LLM 个人维基：存入资料即自动整理成知识库**
 

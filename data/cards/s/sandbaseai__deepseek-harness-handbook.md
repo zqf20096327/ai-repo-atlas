@@ -1,6 +1,6 @@
 # sandbaseai/deepseek-harness-handbook
 
-⭐ 235 · HTML · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/sandbaseai/deepseek-harness-handbook) · [官网](https://sandbaseai.github.io/deepseek-harness-handbook/) · 组织维护 · 中文 README
+⭐ 234 · HTML · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/sandbaseai/deepseek-harness-handbook) · [官网](https://sandbaseai.github.io/deepseek-harness-handbook/) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的运维手册与资源索引（173 篇指南）**
 

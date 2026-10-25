@@ -1,6 +1,6 @@
 # patchorbit/domscribe
 
-⭐ 195 · TypeScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/patchorbit/domscribe) · [官网](https://domscribe.com) · 组织维护
+⭐ 195 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/patchorbit/domscribe) · [官网](https://domscribe.com) · 组织维护
 
 **让 AI 编程 agent 看见运行中前端并定位源码的 MCP 工具**
 

@@ -1,6 +1,6 @@
 # ekzhang/jax-js
 
-⭐ 946 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ekzhang/jax-js) · [官网](https://jax-js.com) · 个人维护
+⭐ 948 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ekzhang/jax-js) · [官网](https://jax-js.com) · 个人维护
 
 **面向开发者的浏览器端 JAX 风格机器学习框架（WebGPU/Wasm）**
 

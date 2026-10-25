@@ -1,6 +1,6 @@
 # VectorInstitute/vector-inference
 
-⭐ 110 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/VectorInstitute/vector-inference) · [官网](https://vectorinstitute.github.io/vector-inference/) · 组织维护
+⭐ 110 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/VectorInstitute/vector-inference) · [官网](https://vectorinstitute.github.io/vector-inference/) · 组织维护
 
 **在 Slurm 集群上部署 LLM 推理服务的工具**
 

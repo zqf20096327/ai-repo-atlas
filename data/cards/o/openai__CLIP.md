@@ -1,6 +1,6 @@
 # openai/CLIP
 
-⭐ 34,520 · Jupyter Notebook · MIT · 推送 2026-03-25 · [GitHub](https://github.com/openai/CLIP) · 组织维护
+⭐ 34,522 · Jupyter Notebook · MIT · 推送 2026-03-25 · [GitHub](https://github.com/openai/CLIP) · 组织维护
 
 **研究者的图像-文本对比预训练模型库**
 

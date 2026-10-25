@@ -1,6 +1,6 @@
 # LibreYOLO/libreyolo
 
-⭐ 918 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/LibreYOLO/libreyolo) · [官网](https://www.libreyolo.com/) · 组织维护 · 中文 README
+⭐ 919 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/LibreYOLO/libreyolo) · [官网](https://www.libreyolo.com/) · 组织维护 · 中文 README
 
 **MIT 许可的计算机视觉库：统一 API 跑检测/分割/姿态等二十余类任务**
 

@@ -1,6 +1,6 @@
 # huggingface/deep-rl-class
 
-⭐ 5,070 · MDX · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/deep-rl-class) · 组织维护
+⭐ 5,071 · MDX · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/deep-rl-class) · 组织维护
 
 **Hugging Face 深度强化学习课程（讲义与实战 Notebook）**
 

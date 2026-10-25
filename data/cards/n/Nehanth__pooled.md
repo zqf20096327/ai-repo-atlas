@@ -1,6 +1,6 @@
 # Nehanth/pooled
 
-⭐ 606 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Nehanth/pooled) · [官网](https://pooled.run) · 个人维护
+⭐ 610 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Nehanth/pooled) · [官网](https://pooled.run) · 个人维护
 
 **浏览器内多设备 P2P 联合推理运行大模型**
 

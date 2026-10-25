@@ -1,6 +1,6 @@
 # jwadow/mcp-excel
 
-⭐ 47 · Python · AGPL-3.0 · 推送 2026-02-28 · [GitHub](https://github.com/jwadow/mcp-excel) · 个人维护 · 中文 README
+⭐ 46 · Python · AGPL-3.0 · 推送 2026-02-28 · [GitHub](https://github.com/jwadow/mcp-excel) · 个人维护 · 中文 README
 
 **供 AI agent 分析 Excel 的 MCP 服务器，以原子操作代替灌入上下文**
 

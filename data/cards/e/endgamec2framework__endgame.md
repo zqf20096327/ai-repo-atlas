@@ -1,6 +1,6 @@
 # endgamec2framework/endgame
 
-⭐ 36 · C · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/endgamec2framework/endgame) · [官网](https://endgamec2framework.com) · 组织维护
+⭐ 37 · C · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/endgamec2framework/endgame) · [官网](https://endgamec2framework.com) · 组织维护
 
 **带 AI 控制台的红队 C2 框架：自然语言转 C2 命令**
 

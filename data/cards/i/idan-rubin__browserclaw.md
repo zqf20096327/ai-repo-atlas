@@ -1,6 +1,6 @@
 # idan-rubin/browserclaw
 
-⭐ 82 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/idan-rubin/browserclaw) · 个人维护
+⭐ 82 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/idan-rubin/browserclaw) · 个人维护
 
 **面向 AI agent 的浏览器自动化库：快照+编号 ref 精准定位**
 

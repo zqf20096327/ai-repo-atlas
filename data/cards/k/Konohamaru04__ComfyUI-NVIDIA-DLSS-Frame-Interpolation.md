@@ -1,6 +1,6 @@
 # Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation
 
-⭐ 138 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation) · 个人维护
+⭐ 139 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation) · 个人维护
 
 **ComfyUI 自定义节点：DLSS 5 视频/图像超分与插帧**
 

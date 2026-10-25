@@ -1,6 +1,6 @@
 # zai-org/ImageReward
 
-⭐ 1,706 · Python · Apache-2.0 · 推送 2025-10-29 · [GitHub](https://github.com/zai-org/ImageReward) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **文生图人类偏好奖励模型，为生成图像打分并支持 ReFL 微调**
 
@@ -11,7 +11,7 @@ NeurIPS 2023 论文的官方实现：基于 137k 专家比较对训练的文本�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # IlhamriSKY/TEDI
 
-⭐ 168 · TypeScript · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/IlhamriSKY/TEDI) · [官网](https://tedi.ilhamriski.com) · 个人维护
+⭐ 168 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/IlhamriSKY/TEDI) · [官网](https://tedi.ilhamriski.com) · 个人维护
 
 **八合一开发者工作台桌面应用：终端/SSH/编辑器/API 客户端/Git 加 AI agent**
 

@@ -1,6 +1,6 @@
 # WordPress/ai
 
-⭐ 366 · PHP · GPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/WordPress/ai) · [官网](https://wordpress.org/plugins/ai/) · 组织维护
+⭐ 368 · PHP · GPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/WordPress/ai) · [官网](https://wordpress.org/plugins/ai/) · 组织维护
 
 **WordPress 官方 AI 插件：为编辑与管理员提供一系列可选 AI 功能**
 

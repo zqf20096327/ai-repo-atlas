@@ -1,6 +1,6 @@
 # MuhammadUsmanGM/claude-code-best-practices
 
-⭐ 98 · Shell · MIT · 推送 2026-09-15 · [GitHub](https://github.com/MuhammadUsmanGM/claude-code-best-practices) · [官网](https://muhammadusmangm.github.io/claude-code-best-practices/) · 个人维护
+⭐ 98 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MuhammadUsmanGM/claude-code-best-practices) · [官网](https://muhammadusmangm.github.io/claude-code-best-practices/) · 个人维护
 
 **Claude Code 使用最佳实践知识库：指南、模板与启动套件**
 

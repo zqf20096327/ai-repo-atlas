@@ -1,6 +1,6 @@
 # google/elephant-goldfish-model
 
-⭐ 466 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google/elephant-goldfish-model) · [官网](https://egm.dev) · 组织维护
+⭐ 772 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/google/elephant-goldfish-model) · [官网](https://egm.dev) · 组织维护
 
 **Google 出品的规格驱动开发框架：多智能体对抗评审设计规范**
 

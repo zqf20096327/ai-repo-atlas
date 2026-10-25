@@ -1,6 +1,6 @@
 # CoderLuii/HolyClaude
 
-⭐ 2,589 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/CoderLuii/HolyClaude) · [官网](https://holyclaude.coderluii.dev) · 个人维护
+⭐ 2,590 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/CoderLuii/HolyClaude) · [官网](https://holyclaude.coderluii.dev) · 个人维护
 
 **容器化 AI 编码工作站：一条命令运行 Claude Code 与 8 个 AI CLI**
 

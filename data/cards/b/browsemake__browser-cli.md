@@ -1,6 +1,6 @@
 # browsemake/browser-cli
 
-⭐ 49 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/browsemake/browser-cli) · 组织维护
+⭐ 49 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/browsemake/browser-cli) · 组织维护
 
 **供 LLM agent 调用的浏览器自动化命令行工具**
 

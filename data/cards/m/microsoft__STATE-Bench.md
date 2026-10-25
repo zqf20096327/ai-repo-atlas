@@ -1,6 +1,6 @@
 # microsoft/STATE-Bench
 
-⭐ 101 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/microsoft/STATE-Bench) · [官网](https://microsoft.github.io/STATE-Bench/leaderboard/) · 组织维护
+⭐ 102 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/microsoft/STATE-Bench) · [官网](https://microsoft.github.io/STATE-Bench/leaderboard/) · 组织维护
 
 **评测 AI agent 在企业多步工作流任务上的基准（450 任务）**
 

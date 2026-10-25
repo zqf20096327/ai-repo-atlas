@@ -1,6 +1,6 @@
 # kirodotdev/Kiro
 
-⭐ 4,394 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/kirodotdev/Kiro) · [官网](https://kiro.dev) · 组织维护
+⭐ 4,397 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/kirodotdev/Kiro) · [官网](https://kiro.dev) · 组织维护
 
 **Kiro 的公开 issue 与反馈跟踪仓库（产品本体不在此托管）**
 

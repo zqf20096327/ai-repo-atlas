@@ -1,6 +1,6 @@
 # RyanCodrai/turbovec
 
-⭐ 17,418 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/RyanCodrai/turbovec) · [官网](https://pypi.org/project/turbovec/) · 个人维护
+⭐ 17,422 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/RyanCodrai/turbovec) · [官网](https://pypi.org/project/turbovec/) · 个人维护
 
 **面向 Python/Rust 开发者的 2-4 比特量化内存向量索引库**
 

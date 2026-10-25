@@ -1,6 +1,6 @@
 # yzhao062/anomaly-detection-resources
 
-⭐ 9,424 · Python · AGPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/yzhao062/anomaly-detection-resources) · 个人维护
+⭐ 9,427 · Python · AGPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/yzhao062/anomaly-detection-resources) · 个人维护
 
 **异常检测领域学习资源清单：书籍、论文、教程与工具箱聚合**
 

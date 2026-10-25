@@ -1,6 +1,6 @@
 # sirusdas/gtasks-terminal
 
-⭐ 37 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sirusdas/gtasks-terminal) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sirusdas/gtasks-terminal) · 个人维护
 
 **终端中管理 Google Tasks 的 CLI：过滤、去重、同步、报表与多账号**
 

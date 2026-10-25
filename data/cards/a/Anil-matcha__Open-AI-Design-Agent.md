@@ -1,6 +1,6 @@
 # Anil-matcha/Open-AI-Design-Agent
 
-⭐ 467 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Anil-matcha/Open-AI-Design-Agent) · [官网](https://muapi.ai/assistant?utm_source=github&utm_medium=about&utm_campaign=open-ai-design-agent) · 组织维护
+⭐ 468 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Anil-matcha/Open-AI-Design-Agent) · [官网](https://muapi.ai/assistant?utm_source=github&utm_medium=about&utm_campaign=open-ai-design-agent) · 组织维护
 
 **开源 AI 设计 Agent：自然语言生成海报、品牌套件与视频**
 

@@ -1,6 +1,6 @@
 # pguso/ai-agents-from-scratch
 
-⭐ 4,878 · JavaScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/pguso/ai-agents-from-scratch) · 个人维护
+⭐ 4,879 · JavaScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/pguso/ai-agents-from-scratch) · 个人维护
 
 **教学仓库：用本地 LLM 从零构建 AI agent，不依赖框架**
 

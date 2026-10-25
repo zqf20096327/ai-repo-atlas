@@ -1,6 +1,6 @@
 # ubopod/ubo_app
 
-⭐ 93 · Python · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/ubopod/ubo_app) · [官网](https://getubo.com) · 组织维护
+⭐ 94 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ubopod/ubo_app) · [官网](https://getubo.com) · 组织维护
 
 **树莓派等嵌入式设备上开发运行硬件集成 AI 交互体验的应用平台**
 

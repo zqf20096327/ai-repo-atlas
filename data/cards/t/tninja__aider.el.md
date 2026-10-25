@@ -1,6 +1,6 @@
 # tninja/aider.el
 
-⭐ 682 · Emacs Lisp · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/tninja/aider.el) · 个人维护 · 中文 README
+⭐ 683 · Emacs Lisp · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/tninja/aider.el) · 个人维护 · 中文 README
 
 **在 Emacs 中使用 Aider 进行 AI 辅助编程的界面**
 

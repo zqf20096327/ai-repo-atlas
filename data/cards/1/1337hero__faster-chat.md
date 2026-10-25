@@ -1,6 +1,6 @@
 # 1337hero/faster-chat
 
-⭐ 175 · JavaScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/1337hero/faster-chat) · [官网](https://www.fasterchat.ai) · 个人维护
+⭐ 175 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/1337hero/faster-chat) · [官网](https://www.fasterchat.ai) · 个人维护
 
 **自托管多供应商 AI 聊天界面，支持云端与本地离线模型**
 

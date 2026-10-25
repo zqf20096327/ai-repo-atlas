@@ -1,6 +1,6 @@
 # philipbrembeck/pi-advisor
 
-⭐ 54 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/philipbrembeck/pi-advisor) · [官网](https://www.npmjs.com/package/pi-advisor-flow) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/philipbrembeck/pi-advisor) · [官网](https://www.npmjs.com/package/pi-advisor-flow) · 个人维护
 
 **Pi 编程 Agent 的第二意见工作流插件：执行/顾问双模型分工**
 

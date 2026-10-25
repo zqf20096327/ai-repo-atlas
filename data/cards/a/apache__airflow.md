@@ -1,6 +1,6 @@
 # apache/airflow
 
-⭐ 47,269 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/apache/airflow) · [官网](https://airflow.apache.org/) · 组织维护
+⭐ 47,274 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/apache/airflow) · [官网](https://airflow.apache.org/) · 组织维护
 
 **数据与 AI 工作流的编排平台：用代码编写、调度和监控**
 

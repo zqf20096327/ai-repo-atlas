@@ -1,6 +1,6 @@
 # anthropics/financial-services
 
-⭐ 40,750 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/anthropics/financial-services) · 组织维护
+⭐ 40,773 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/anthropics/financial-services) · 组织维护
 
 **面向金融从业者的 Claude 参考智能体、技能与数据连接器合集**
 

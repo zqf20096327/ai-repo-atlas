@@ -1,6 +1,6 @@
 # thinkwee/HiMe
 
-⭐ 71 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/thinkwee/HiMe) · [官网](https://thinkwee.top/hime/) · 组织维护 · 中文 README
+⭐ 71 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/thinkwee/HiMe) · [官网](https://thinkwee.top/hime/) · 组织维护 · 中文 README
 
 **自托管本地个人健康 AI Agent 平台，接入可穿戴设备数据**
 

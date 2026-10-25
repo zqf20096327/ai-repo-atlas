@@ -1,6 +1,6 @@
 # cnblogs/dashscope-sdk
 
-⭐ 119 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cnblogs/dashscope-sdk) · [官网](https://www.nuget.org/packages/Cnblogs.DashScope.AspNetCore) · 组织维护 · 中文 README
+⭐ 119 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cnblogs/dashscope-sdk) · [官网](https://www.nuget.org/packages/Cnblogs.DashScope.AspNetCore) · 组织维护 · 中文 README
 
 **面向 .NET 的非官方 DashScope（百炼）服务 SDK**
 

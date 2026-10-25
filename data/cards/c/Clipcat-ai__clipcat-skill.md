@@ -1,6 +1,6 @@
 # Clipcat-ai/clipcat-skill
 
-⭐ 320 · 推送 2026-10-24 · [GitHub](https://github.com/Clipcat-ai/clipcat-skill) · [官网](https://clipcat.ai) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **让 AI agent 生成/复制/发布 TikTok 带货视频的 CLI 技能**
 

@@ -1,6 +1,6 @@
 # hnaymyh123-henry/claude-dev-skill
 
-⭐ 105 · MIT · 推送 2026-05-27 · [GitHub](https://github.com/hnaymyh123-henry/claude-dev-skill) · [官网](https://github.com/hnaymyh123-henry/claude-dev-skill) · 个人维护 · 中文 README
+⭐ 104 · MIT · 推送 2026-05-27 · [GitHub](https://github.com/hnaymyh123-henry/claude-dev-skill) · [官网](https://github.com/hnaymyh123-henry/claude-dev-skill) · 个人维护 · 中文 README
 
 **让 Claude Code 扮演 Tech Lead 的多 Agent 开发 SOP 技能**
 

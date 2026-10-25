@@ -1,6 +1,6 @@
 # Hkshoonya/nvidia-broadcast-linux
 
-⭐ 200 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Hkshoonya/nvidia-broadcast-linux) · [官网](https://nvbroadcast.com) · 个人维护
+⭐ 202 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Hkshoonya/nvidia-broadcast-linux) · [官网](https://nvbroadcast.com) · 个人维护
 
 **Linux/macOS 的开源 AI 摄像头与麦克风特效应用**
 

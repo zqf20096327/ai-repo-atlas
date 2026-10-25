@@ -1,6 +1,6 @@
 # vllm-project/afd-plugin
 
-⭐ 241 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vllm-project/afd-plugin) · 组织维护 · 中文 README
+⭐ 241 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/afd-plugin) · 组织维护 · 中文 README
 
 **vLLM 注意力-FFN 分离部署插件（GPU 与昇腾 NPU）**
 

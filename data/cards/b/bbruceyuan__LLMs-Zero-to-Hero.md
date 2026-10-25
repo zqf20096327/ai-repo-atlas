@@ -1,6 +1,6 @@
 # bbruceyuan/LLMs-Zero-to-Hero
 
-⭐ 2,312 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) · [官网](https://yuanchaofa.com/llms-zero-to-hero/) · 个人维护 · 中文 README
+⭐ 2,313 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) · [官网](https://yuanchaofa.com/llms-zero-to-hero/) · 个人维护 · 中文 README
 
 **从零手写 LLM 的中文教程仓库（笔记+Notebook+视频）**
 

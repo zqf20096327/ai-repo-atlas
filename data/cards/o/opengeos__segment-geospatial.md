@@ -1,6 +1,6 @@
 # opengeos/segment-geospatial
 
-⭐ 4,175 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/opengeos/segment-geospatial) · [官网](https://samgeo.gishub.org) · 个人维护
+⭐ 4,177 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/opengeos/segment-geospatial) · [官网](https://samgeo.gishub.org) · 个人维护
 
 **用 SAM 系列模型对遥感影像做地理空间分割的 Python 库**
 

@@ -1,6 +1,6 @@
 # antvis/mcp-server-chart
 
-⭐ 4,402 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/antvis/mcp-server-chart) · [官网](https://github.com/antvis/mcp-server-chart) · 组织维护 · 中文 README
+⭐ 4,403 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/antvis/mcp-server-chart) · [官网](https://github.com/antvis/mcp-server-chart) · 组织维护 · 中文 README
 
 **给 LLM/MCP 客户端的图表生成服务器：26+ 种可视化**
 

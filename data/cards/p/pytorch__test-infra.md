@@ -1,6 +1,6 @@
 # pytorch/test-infra
 
-⭐ 114 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/pytorch/test-infra) · [官网](https://hud.pytorch.org/) · 组织维护
+⭐ 114 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/pytorch/test-infra) · [官网](https://hud.pytorch.org/) · 组织维护
 
 **支撑 PyTorch CI/CD 系统的测试基础设施代码集合**
 

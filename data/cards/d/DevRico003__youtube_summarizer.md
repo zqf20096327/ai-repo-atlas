@@ -1,6 +1,6 @@
 # DevRico003/youtube_summarizer
 
-⭐ 218 · TypeScript · MIT · 推送 2026-01-29 · [GitHub](https://github.com/DevRico003/youtube_summarizer) · [官网](https://www.atmos-code.io) · 个人维护
+⭐ 217 · TypeScript · MIT · 推送 2026-01-29 · [GitHub](https://github.com/DevRico003/youtube_summarizer) · [官网](https://www.atmos-code.io) · 个人维护
 
 **自托管的 YouTube 视频 AI 摘要 Web 应用（章节检测+多语言）**
 

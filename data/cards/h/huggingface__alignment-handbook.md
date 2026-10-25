@@ -1,6 +1,6 @@
 # huggingface/alignment-handbook
 
-⭐ 5,700 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/alignment-handbook) · [官网](https://huggingface.co/HuggingFaceH4) · 组织维护
+⭐ 5,701 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/alignment-handbook) · [官网](https://huggingface.co/HuggingFaceH4) · 组织维护
 
 **HF 官方的大模型对齐训练配方库：SFT/DPO/ORPO 全流程复现**
 

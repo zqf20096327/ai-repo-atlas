@@ -1,6 +1,6 @@
 # yogeshhk/TeachingDataScience
 
-⭐ 303 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yogeshhk/TeachingDataScience) · 个人维护
+⭐ 303 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/yogeshhk/TeachingDataScience) · 个人维护
 
 **AI 与数据科学开源课程讲义与配套代码集（LaTeX）**
 

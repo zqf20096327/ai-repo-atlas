@@ -1,6 +1,6 @@
 # zkwi/VoxType
 
-⭐ 91 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zkwi/VoxType) · [官网](https://github.com/zkwi/VoxType/releases/latest) · 个人维护 · 中文 README
+⭐ 91 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zkwi/VoxType) · [官网](https://github.com/zkwi/VoxType/releases/latest) · 个人维护 · 中文 README
 
 **Windows 隐私敏感型开源 AI 语音输入工具**
 

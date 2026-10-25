@@ -1,6 +1,6 @@
 # ayagmar/llm-usage-metrics
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ayagmar/llm-usage-metrics) · [官网](https://ayagmar.github.io/llm-usage-metrics/) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ayagmar/llm-usage-metrics) · [官网](https://ayagmar.github.io/llm-usage-metrics/) · 个人维护
 
 **17 种 AI 编码工具的 token 与成本用量报告 CLI**
 

@@ -1,6 +1,6 @@
 # fy-agent/fyagent
 
-⭐ 219 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/fy-agent/fyagent) · [官网](https://github.com/fy-agent/fyagent/releases/latest) · 组织维护 · 中文 README
+⭐ 219 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/fy-agent/fyagent) · [官网](https://github.com/fy-agent/fyagent/releases/latest) · 组织维护 · 中文 README
 
 **本地桌面应用：集中管理各 AI 编码工具的模型、账号与配置**
 

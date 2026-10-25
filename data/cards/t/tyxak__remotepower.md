@@ -1,6 +1,6 @@
 # tyxak/remotepower
 
-⭐ 75 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tyxak/remotepower) · [官网](https://remotepower.tvipper.com) · 个人维护
+⭐ 76 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tyxak/remotepower) · [官网](https://remotepower.tvipper.com) · 个人维护
 
 **自托管 Linux/Windows/macOS 服务器与服务器群监控运维平台**
 

@@ -1,6 +1,6 @@
 # chopratejas/headroom-zed
 
-⭐ 68 · Rust · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/chopratejas/headroom-zed) · [官网](https://github.com/chopratejas/headroom) · 个人维护
+⭐ 69 · Rust · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/chopratejas/headroom-zed) · [官网](https://github.com/chopratejas/headroom) · 个人维护
 
 **Zed 编辑器扩展：为 AI agent 接入 Headroom 上下文压缩 MCP 工具**
 

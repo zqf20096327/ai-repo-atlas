@@ -1,6 +1,6 @@
 # aleximmer/Laplace
 
-⭐ 550 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/aleximmer/Laplace) · [官网](https://aleximmer.github.io/Laplace) · 组织维护
+⭐ 550 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/aleximmer/Laplace) · [官网](https://aleximmer.github.io/Laplace) · 组织维护
 
 **PyTorch 神经网络拉普拉斯近似库：贝叶斯后验与不确定性量化**
 

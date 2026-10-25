@@ -1,6 +1,6 @@
 # FulAppiOS/Agent-Quest
 
-⭐ 163 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/FulAppiOS/Agent-Quest) · [官网](https://www.fulvioscichilone.it/agent-quest/) · 个人维护
+⭐ 165 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/FulAppiOS/Agent-Quest) · [官网](https://www.fulvioscichilone.it/agent-quest/) · 个人维护
 
 **把 Claude Code/Codex 会话可视化为中世纪村庄英雄的实时监控面板**
 

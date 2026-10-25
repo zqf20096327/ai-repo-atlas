@@ -1,6 +1,6 @@
 # bytedance/web-bench
 
-⭐ 294 · JavaScript · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/bytedance/web-bench) · [官网](https://huggingface.co/spaces/bytedance-research/Web-Bench-Leaderboard) · 组织维护 · 中文 README
+⭐ 295 · JavaScript · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/bytedance/web-bench) · [官网](https://huggingface.co/spaces/bytedance-research/Web-Bench-Leaderboard) · 组织维护 · 中文 README
 
 **评测 LLM 真实 Web 开发能力的基准：50 项目×20 顺序任务**
 

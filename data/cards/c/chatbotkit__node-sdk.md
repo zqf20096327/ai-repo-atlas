@@ -1,6 +1,6 @@
 # chatbotkit/node-sdk
 
-⭐ 76 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/chatbotkit/node-sdk) · [官网](https://chatbotkit.com) · 组织维护
+⭐ 76 · JavaScript · 推送 2026-10-25 · [GitHub](https://github.com/chatbotkit/node-sdk) · [官网](https://chatbotkit.com) · 组织维护
 
 **ChatBotKit 官方 JS/TS SDK 套件：构建会话 AI 应用**
 

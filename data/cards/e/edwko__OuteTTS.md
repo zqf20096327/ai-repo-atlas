@@ -1,6 +1,6 @@
 # edwko/OuteTTS
 
-⭐ 1,438 · Python · Apache-2.0 · 推送 2026-03-23 · [GitHub](https://github.com/edwko/OuteTTS) · [官网](https://outeai.com) · 组织维护
+⭐ 1,441 · Python · Apache-2.0 · 推送 2026-03-23 · [GitHub](https://github.com/edwko/OuteTTS) · [官网](https://outeai.com) · 组织维护
 
 **OuteTTS 语音合成模型的 Python 接口库，统一多后端调用**
 

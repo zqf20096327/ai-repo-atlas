@@ -1,6 +1,6 @@
 # EfeDursun125/CS-EBOT
 
-⭐ 73 · C++ · MPL-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/EfeDursun125/CS-EBOT) · [官网](https://ebots-for-cs.blogspot.com/) · 个人维护
+⭐ 74 · C++ · MPL-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/EfeDursun125/CS-EBOT) · [官网](https://ebots-for-cs.blogspot.com/) · 个人维护
 
 **CS 1.6 僵尸模式专用 AI 机器人插件**
 

@@ -1,6 +1,6 @@
 # jaylfc/taosmd
 
-⭐ 82 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/jaylfc/taosmd) · 个人维护
+⭐ 82 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/jaylfc/taosmd) · 个人维护
 
 **离线本地优先的框架无关 AI agent 记忆系统**
 

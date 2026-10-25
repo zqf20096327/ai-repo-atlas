@@ -1,6 +1,6 @@
 # promacanthus/awesome-golang-ai
 
-⭐ 122 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/promacanthus/awesome-golang-ai) · [官网](https://promacanthus.github.io/awesome-golang-ai/) · 个人维护 · 中文 README
+⭐ 123 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/promacanthus/awesome-golang-ai) · [官网](https://promacanthus.github.io/awesome-golang-ai/) · 个人维护 · 中文 README
 
 **Go 语言 AI/ML 资源策展清单：工具、库、基准与教程聚合**
 

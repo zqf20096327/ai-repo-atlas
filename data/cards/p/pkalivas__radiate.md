@@ -1,6 +1,6 @@
 # pkalivas/radiate
 
-⭐ 256 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pkalivas/radiate) · [官网](https://radiate.rs) · 个人维护
+⭐ 256 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/pkalivas/radiate) · [官网](https://radiate.rs) · 个人维护
 
 **面向开发者的遗传算法与神经进化引擎（Rust 核心 + Python 绑定）**
 

@@ -1,6 +1,6 @@
 # tensorflow/serving
 
-⭐ 6,364 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/tensorflow/serving) · [官网](https://www.tensorflow.org/serving) · 组织维护
+⭐ 6,365 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/tensorflow/serving) · [官网](https://www.tensorflow.org/serving) · 组织维护
 
 **面向生产环境的机器学习模型推理服务系统**
 

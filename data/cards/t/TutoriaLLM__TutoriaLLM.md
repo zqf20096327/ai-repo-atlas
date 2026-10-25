@@ -1,6 +1,6 @@
 # TutoriaLLM/TutoriaLLM
 
-⭐ 303 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/TutoriaLLM/TutoriaLLM) · [官网](https://tutoriallm.com) · 组织维护
+⭐ 303 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/TutoriaLLM/TutoriaLLM) · [官网](https://tutoriallm.com) · 组织维护
 
 **面向 K-12 的自托管 LLM 编程学习平台**
 

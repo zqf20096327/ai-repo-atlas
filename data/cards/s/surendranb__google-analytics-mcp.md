@@ -1,6 +1,6 @@
 # surendranb/google-analytics-mcp
 
-⭐ 243 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/surendranb/google-analytics-mcp) · [官网](https://ga4mcp.com) · 个人维护
+⭐ 243 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/surendranb/google-analytics-mcp) · [官网](https://ga4mcp.com) · 个人维护
 
 **让 AI agent 查询 Google Analytics 4 数据的 MCP 服务器**
 

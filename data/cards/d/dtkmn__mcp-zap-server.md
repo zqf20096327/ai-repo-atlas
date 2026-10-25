@@ -1,6 +1,6 @@
 # dtkmn/mcp-zap-server
 
-⭐ 67 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/dtkmn/mcp-zap-server) · [官网](https://danieltse.org/mcp-zap-server/) · 个人维护
+⭐ 67 · Java · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/dtkmn/mcp-zap-server) · [官网](https://danieltse.org/mcp-zap-server/) · 个人维护
 
 **让 AI agent 安全操作 ZAP 扫描器的自托管 MCP 服务器**
 

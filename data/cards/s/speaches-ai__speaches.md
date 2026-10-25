@@ -1,6 +1,6 @@
 # speaches-ai/speaches
 
-⭐ 3,734 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/speaches-ai/speaches) · [官网](https://speaches.ai/) · 组织维护
+⭐ 3,735 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/speaches-ai/speaches) · [官网](https://speaches.ai/) · 组织维护
 
 **OpenAI API 兼容的语音转录/翻译/TTS 推理服务器**
 

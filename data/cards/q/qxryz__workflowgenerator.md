@@ -1,6 +1,6 @@
 # qxryz/workflowgenerator
 
-⭐ 48 · TypeScript · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/qxryz/workflowgenerator) · [官网](https://workflow.zhouzhou.dev) · 个人维护 · 中文 README
+⭐ 48 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/qxryz/workflowgenerator) · [官网](https://workflow.zhouzhou.dev) · 个人维护 · 中文 README
 
 **无限画布上的多模态 AI 创作 Agent 工作台（BYOK）**
 

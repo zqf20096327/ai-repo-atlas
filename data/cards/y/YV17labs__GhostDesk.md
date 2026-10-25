@@ -1,6 +1,6 @@
 # YV17labs/GhostDesk
 
-⭐ 155 · Rust · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/YV17labs/GhostDesk) · [官网](https://www.yv17labs.com) · 组织维护
+⭐ 154 · Rust · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/YV17labs/GhostDesk) · [官网](https://www.yv17labs.com) · 组织维护
 
 **给 AI agent 提供完整桌面控制的 MCP 服务器：看屏幕、点击、打字、跑应用**
 

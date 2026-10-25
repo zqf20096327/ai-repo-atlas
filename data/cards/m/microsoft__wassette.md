@@ -1,6 +1,6 @@
 # microsoft/wassette
 
-⭐ 970 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/wassette) · [官网](https://microsoft.github.io/wassette/) · 组织维护
+⭐ 971 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/wassette) · [官网](https://microsoft.github.io/wassette/) · 组织维护
 
 **通过 MCP 安全运行 WebAssembly 组件的工具运行时**
 

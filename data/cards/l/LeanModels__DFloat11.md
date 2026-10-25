@@ -1,6 +1,6 @@
 # LeanModels/DFloat11
 
-⭐ 662 · Python · Apache-2.0 · 推送 2025-11-24 · [GitHub](https://github.com/LeanModels/DFloat11) · 组织维护
+⭐ 663 · Python · Apache-2.0 · 推送 2025-11-24 · [GitHub](https://github.com/LeanModels/DFloat11) · 组织维护
 
 **LLM 与扩散模型的无损压缩推理框架，省约30%显存**
 

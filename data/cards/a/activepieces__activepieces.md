@@ -1,6 +1,6 @@
 # activepieces/activepieces
 
-⭐ 25,202 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/activepieces/activepieces) · [官网](https://www.activepieces.com) · 组织维护
+⭐ 25,219 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/activepieces/activepieces) · [官网](https://www.activepieces.com) · 组织维护
 
 **开源 AI 工作流自动化平台：为 AI 代理提供 MCP 工具集**
 

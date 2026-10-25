@@ -1,6 +1,6 @@
 # mozilla-ai/any-llm
 
-⭐ 2,228 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mozilla-ai/any-llm) · [官网](https://docs.mozilla.ai/any-llm) · 组织维护
+⭐ 2,230 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mozilla-ai/any-llm) · [官网](https://docs.mozilla.ai/any-llm) · 组织维护
 
 **统一接口调用多家 LLM 提供商的 Python SDK**
 

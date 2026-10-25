@@ -1,6 +1,6 @@
 # headpiece747/ninfer-5090-windows
 
-⭐ 73 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/headpiece747/ninfer-5090-windows) · 个人维护
+⭐ 74 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/headpiece747/ninfer-5090-windows) · 个人维护
 
 **NInfer 推理引擎的 Windows 原生移植版，面向 RTX 5090**
 

@@ -1,6 +1,6 @@
 # WenyuChiou/research-hub
 
-⭐ 66 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/WenyuChiou/research-hub) · [官网](https://pypi.org/project/research-hub-pipeline/) · 个人维护 · 中文 README
+⭐ 66 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/WenyuChiou/research-hub) · [官网](https://pypi.org/project/research-hub-pipeline/) · 个人维护 · 中文 README
 
 **面向研究者的本地科研工作区，供人与 AI 助手协作管理文献到手稿**
 

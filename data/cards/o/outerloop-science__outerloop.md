@@ -1,6 +1,6 @@
 # outerloop-science/outerloop
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/outerloop-science/outerloop) · [官网](https://outerloop.science) · 组织维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/outerloop-science/outerloop) · [官网](https://outerloop.science) · 组织维护
 
 **在自有代码库上自动跑实验、仅在基准真实提升时开 PR 的自动研究 agent 系统**
 

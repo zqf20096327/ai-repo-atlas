@@ -1,6 +1,6 @@
 # SourceWeft/SourceWeft
 
-⭐ 315 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/SourceWeft/SourceWeft) · [官网](https://SourceWeft.com/) · 组织维护 · 中文 README
+⭐ 321 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/SourceWeft/SourceWeft) · [官网](https://SourceWeft.com/) · 组织维护 · 中文 README
 
 **可自托管的开源 AI 工作站：多 agent、知识与引用一体化**
 

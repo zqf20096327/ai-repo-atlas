@@ -1,6 +1,6 @@
 # imoling/iml-markdown-editor
 
-⭐ 47 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/imoling/iml-markdown-editor) · [官网](https://github.com/imoling/iml-markdown-editor/releases/latest) · 个人维护 · 中文 README
+⭐ 49 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/imoling/iml-markdown-editor) · [官网](https://github.com/imoling/iml-markdown-editor/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的 Markdown 笔记编辑器：AI 写作/转写/生图全在本机跑**
 

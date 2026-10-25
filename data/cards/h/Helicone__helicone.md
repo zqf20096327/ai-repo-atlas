@@ -1,6 +1,6 @@
 # Helicone/helicone
 
-⭐ 6,236 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Helicone/helicone) · [官网](https://www.helicone.ai) · 组织维护
+⭐ 6,238 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Helicone/helicone) · [官网](https://www.helicone.ai) · 组织维护
 
 **开源 LLM 可观测性与 AI 网关平台，一行代码接入**
 

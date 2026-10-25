@@ -1,6 +1,6 @@
 # gebruder/wirken
 
-⭐ 192 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gebruder/wirken) · [官网](https://wirken.ai) · 组织维护
+⭐ 193 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gebruder/wirken) · [官网](https://wirken.ai) · 组织维护
 
 **企业级自主 agent 网关：通道隔离、凭据金库与审计日志**
 

@@ -1,6 +1,6 @@
 # blrchen/chatgpt-lite
 
-⭐ 273 · TypeScript · MIT · 推送 2026-04-19 · [GitHub](https://github.com/blrchen/chatgpt-lite) · [官网](https://gptlite.vercel.app) · 个人维护 · 中文 README
+⭐ 272 · TypeScript · MIT · 推送 2026-04-19 · [GitHub](https://github.com/blrchen/chatgpt-lite) · [官网](https://gptlite.vercel.app) · 个人维护 · 中文 README
 
 **可私有部署的 ChatGPT 网页应用（Next.js）**
 

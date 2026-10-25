@@ -1,6 +1,6 @@
 # Ramakm/AI-ML-Book-References
 
-⭐ 543 · MIT · 推送 2026-01-16 · [GitHub](https://github.com/Ramakm/AI-ML-Book-References) · [官网](https://growtechie.substack.com/) · 个人维护
+⭐ 544 · MIT · 推送 2026-01-16 · [GitHub](https://github.com/Ramakm/AI-ML-Book-References) · [官网](https://growtechie.substack.com/) · 个人维护
 
 **面向各阶段学习者的 AI/ML 书籍参考清单（33 条）**
 

@@ -1,6 +1,6 @@
 # code-forge-temple/local-llm-npc
 
-⭐ 51 · C# · CC-BY-4.0 · 推送 2026-02-26 · [GitHub](https://github.com/code-forge-temple/local-llm-npc) · 个人维护
+⭐ 52 · C# · CC-BY-4.0 · 推送 2026-02-26 · [GitHub](https://github.com/code-forge-temple/local-llm-npc) · 个人维护
 
 **本地 LLM 驱动的离线教育游戏：花园中与 Gemma 3n NPC 对话学习农业**
 

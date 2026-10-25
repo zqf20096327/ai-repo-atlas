@@ -1,6 +1,6 @@
 # 2noise/ChatTTS
 
-⭐ 39,933 · Python · AGPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/2noise/ChatTTS) · [官网](https://2noise.com) · 组织维护 · 中文 README
+⭐ 39,938 · Python · AGPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/2noise/ChatTTS) · [官网](https://2noise.com) · 组织维护 · 中文 README
 
 **面向对话场景的文本转语音生成模型，支持中英文**
 

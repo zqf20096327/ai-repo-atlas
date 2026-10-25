@@ -1,6 +1,6 @@
 # AbductiveLearning/ABLkit
 
-⭐ 102 · Python · NOASSERTION · 推送 2026-05-25 · [GitHub](https://github.com/AbductiveLearning/ABLkit) · [官网](https://ablkit.readthedocs.io/) · 组织维护
+⭐ 102 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/AbductiveLearning/ABLkit) · [官网](https://ablkit.readthedocs.io/) · 组织维护
 
 **反绎学习（ABL）Python 工具包：统一框架下结合机器学习与逻辑推理**
 

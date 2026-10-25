@@ -1,6 +1,6 @@
 # fufufukakaka/pokemon_champions_battle_logger
 
-⭐ 49 · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/fufufukakaka/pokemon_champions_battle_logger) · [官网](https://fufufukakaka.github.io/pokemon_champions_battle_logger/) · 个人维护
+⭐ 49 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/fufufukakaka/pokemon_champions_battle_logger) · [官网](https://fufufukakaka.github.io/pokemon_champions_battle_logger/) · 个人维护
 
 **宝可梦对战自动记录分析工具：直播/录像识别对战数据**
 

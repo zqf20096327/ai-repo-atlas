@@ -1,6 +1,6 @@
 # hung-yueh/react-native-litert-lm
 
-⭐ 63 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/hung-yueh/react-native-litert-lm) · [官网](https://litert.dev) · 个人维护
+⭐ 63 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hung-yueh/react-native-litert-lm) · [官网](https://litert.dev) · 个人维护
 
 **React Native 端侧 LLM 推理库：手机上运行 Gemma 等模型**
 

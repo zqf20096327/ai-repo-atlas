@@ -1,6 +1,6 @@
 # learning-at-home/hivemind
 
-⭐ 2,543 · Python · MIT · 推送 2026-01-11 · [GitHub](https://github.com/learning-at-home/hivemind) · 组织维护
+⭐ 2,545 · Python · MIT · 推送 2026-01-11 · [GitHub](https://github.com/learning-at-home/hivemind) · 组织维护
 
 **PyTorch 去中心化分布式训练库：跨互联网协同训练大模型**
 

@@ -1,6 +1,6 @@
 # emonney/QuickApp
 
-⭐ 1,353 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/emonney/QuickApp) · [官网](https://www.ebenmonney.com/quickapp) · 个人维护
+⭐ 1,352 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/emonney/QuickApp) · [官网](https://www.ebenmonney.com/quickapp) · 个人维护
 
 **面向 AI 扩展的 Angular/ASP.NET Core 全栈参考架构模板**
 

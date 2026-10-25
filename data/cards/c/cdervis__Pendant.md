@@ -1,6 +1,6 @@
 # cdervis/Pendant
 
-⭐ 212 · 推送 2026-09-20 · [GitHub](https://github.com/cdervis/Pendant) · [官网](https://pendant.sh) · 个人维护
+⭐ 213 · 推送 2026-09-20 · [GitHub](https://github.com/cdervis/Pendant) · [官网](https://pendant.sh) · 个人维护
 
 **把 Pi 编码 agent 嵌入 VS Code 的侧边栏扩展**
 

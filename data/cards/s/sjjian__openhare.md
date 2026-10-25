@@ -1,6 +1,6 @@
 # sjjian/openhare
 
-⭐ 816 · Dart · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/sjjian/openhare) · [官网](https://sjjian.github.io/openhare/) · 个人维护 · 中文 README
+⭐ 815 · Dart · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/sjjian/openhare) · [官网](https://sjjian.github.io/openhare/) · 个人维护 · 中文 README
 
 **带 AI 辅助的跨平台开源桌面 SQL 客户端**
 

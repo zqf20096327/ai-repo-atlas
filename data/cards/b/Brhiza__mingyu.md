@@ -1,6 +1,6 @@
 # Brhiza/mingyu
 
-⭐ 513 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/Brhiza/mingyu) · [官网](https://aov.cc) · 个人维护 · 中文 README
+⭐ 514 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/Brhiza/mingyu) · [官网](https://aov.cc) · 个人维护 · 中文 README
 
 **面向 AI 的玄学排盘工具包：输出结构化命盘与解读提示词**
 

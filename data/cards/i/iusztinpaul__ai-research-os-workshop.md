@@ -1,6 +1,6 @@
 # iusztinpaul/ai-research-os-workshop
 
-⭐ 181 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/iusztinpaul/ai-research-os-workshop) · [官网](https://academy.towardsai.net/courses/agent-engineering?utm_source=github&utm_medium=aieng&utm_campaign=2026_aieng_sf_online) · 个人维护
+⭐ 182 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/iusztinpaul/ai-research-os-workshop) · [官网](https://academy.towardsai.net/courses/agent-engineering?utm_source=github&utm_medium=aieng&utm_campaign=2026_aieng_sf_online) · 个人维护
 
 **给研究者的 Claude Code/Codex 技能包：把第二大脑变成可复用研究记忆**
 

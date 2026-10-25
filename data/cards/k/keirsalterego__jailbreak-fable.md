@@ -1,6 +1,6 @@
 # keirsalterego/jailbreak-fable
 
-⭐ 43 · JavaScript · 推送 2026-07-17 · [GitHub](https://github.com/keirsalterego/jailbreak-fable) · 个人维护
+⭐ 44 · JavaScript · 推送 2026-07-17 · [GitHub](https://github.com/keirsalterego/jailbreak-fable) · 个人维护
 
 **针对 Claude 的多 agent 越狱研究实验室与环境模拟器**
 

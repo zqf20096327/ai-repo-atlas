@@ -1,6 +1,6 @@
 # google-deepmind/rlax
 
-⭐ 1,448 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/google-deepmind/rlax) · [官网](https://rlax.readthedocs.io) · 组织维护
+⭐ 1,449 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/google-deepmind/rlax) · [官网](https://rlax.readthedocs.io) · 组织维护
 
 **给研究者的 JAX 强化学习算子库，供构建学习型 agent**
 

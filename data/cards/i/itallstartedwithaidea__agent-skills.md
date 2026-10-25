@@ -1,6 +1,6 @@
 # itallstartedwithaidea/agent-skills
 
-⭐ 43 · Shell · MIT · 推送 2026-04-12 · [GitHub](https://github.com/itallstartedwithaidea/agent-skills) · [官网](https://googleadsagent.ai) · 组织维护 · 中文 README
+⭐ 44 · Shell · MIT · 推送 2026-04-12 · [GitHub](https://github.com/itallstartedwithaidea/agent-skills) · [官网](https://googleadsagent.ai) · 组织维护 · 中文 README
 
 **面向 Google Ads 管理的 AI agent 技能库（73 个 SKILL.md）**
 

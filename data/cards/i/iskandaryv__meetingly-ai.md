@@ -1,6 +1,6 @@
 # iskandaryv/meetingly-ai
 
-⭐ 321 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/iskandaryv/meetingly-ai) · [官网](https://meetinglyai.com) · 个人维护 · 中文 README
+⭐ 325 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/iskandaryv/meetingly-ai) · [官网](https://meetinglyai.com) · 个人维护 · 中文 README
 
 **开源 AI 面试与会议助手：通话中实时转写并给出答案**
 

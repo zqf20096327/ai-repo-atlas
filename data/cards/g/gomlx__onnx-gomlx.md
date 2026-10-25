@@ -1,6 +1,6 @@
 # gomlx/onnx-gomlx
 
-⭐ 70 · Go · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/gomlx/onnx-gomlx) · 组织维护
+⭐ 70 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gomlx/onnx-gomlx) · 组织维护
 
 **将 ONNX 模型转换为 GoMLX 以便用 Go 推理与微调的库**
 

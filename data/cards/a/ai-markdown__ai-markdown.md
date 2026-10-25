@@ -1,6 +1,6 @@
 # ai-markdown/ai-markdown
 
-⭐ 169 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ai-markdown/ai-markdown) · [官网](https://ai-markdown.github.io/) · 组织维护
+⭐ 169 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ai-markdown/ai-markdown) · [官网](https://ai-markdown.github.io/) · 组织维护
 
 **面向 AI 聊天应用的流式 Markdown 渲染库（React/Vue）**
 

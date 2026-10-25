@@ -1,6 +1,6 @@
 # keros68/metrik
 
-⭐ 106 · Rust · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/keros68/metrik) · 个人维护 · 中文 README
+⭐ 106 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/keros68/metrik) · 个人维护 · 中文 README
 
 **桌面组件：集中查看多个 AI 编程 Agent 的配额余量与 Token 用量**
 

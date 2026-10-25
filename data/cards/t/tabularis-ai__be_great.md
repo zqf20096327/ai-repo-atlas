@@ -1,6 +1,6 @@
 # tabularis-ai/be_great
 
-⭐ 371 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/tabularis-ai/be_great) · 组织维护
+⭐ 372 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/tabularis-ai/be_great) · 组织维护
 
 **用预训练 LLM 生成合成表格数据的 Python 框架**
 

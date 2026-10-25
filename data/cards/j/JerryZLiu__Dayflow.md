@@ -1,6 +1,6 @@
 # JerryZLiu/Dayflow
 
-⭐ 7,313 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JerryZLiu/Dayflow) · [官网](https://www.dayflow.so/) · 个人维护
+⭐ 7,321 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JerryZLiu/Dayflow) · [官网](https://www.dayflow.so/) · 个人维护
 
 **Mac 上的自动化工作日志：用 AI 把屏幕活动变成时间线**
 

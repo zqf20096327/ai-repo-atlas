@@ -1,6 +1,6 @@
 # motedb/motedb
 
-⭐ 49 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/motedb/motedb) · [官网](https://motedb.github.io) · 组织维护 · 中文 README
+⭐ 49 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/motedb/motedb) · [官网](https://motedb.github.io) · 组织维护 · 中文 README
 
 **面向具身智能与机器人的 AI 原生嵌入式多模态数据库**
 

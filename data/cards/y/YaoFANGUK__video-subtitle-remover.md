@@ -1,6 +1,6 @@
 # YaoFANGUK/video-subtitle-remover
 
-⭐ 13,423 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/YaoFANGUK/video-subtitle-remover) · 个人维护 · 中文 README
+⭐ 13,435 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/YaoFANGUK/video-subtitle-remover) · 个人维护 · 中文 README
 
 **给需要去除视频硬字幕/文本水印的用户，本地AI修复填充**
 

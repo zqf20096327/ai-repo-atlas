@@ -1,6 +1,6 @@
 # agent-labs-dev/fastbrowse
 
-⭐ 120 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/agent-labs-dev/fastbrowse) · 组织维护
+⭐ 120 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/agent-labs-dev/fastbrowse) · 组织维护
 
 **浏览器 Agent：选择模型 Jev 逐步操作页面，LLM 规划并输出带引文引用的回答**
 

@@ -1,6 +1,6 @@
 # datawhalechina/base-llm
 
-⭐ 1,106 · Jupyter Notebook · 推送 2026-09-30 · [GitHub](https://github.com/datawhalechina/base-llm) · [官网](https://datawhalechina.github.io/base-llm/) · 组织维护 · 中文 README
+⭐ 1,107 · Jupyter Notebook · 推送 2026-09-30 · [GitHub](https://github.com/datawhalechina/base-llm) · [官网](https://datawhalechina.github.io/base-llm/) · 组织维护 · 中文 README
 
 **面向开发者的 NLP 到 LLM 全栈中文学习教程**
 

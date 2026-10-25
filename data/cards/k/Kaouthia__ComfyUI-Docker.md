@@ -1,6 +1,6 @@
 # Kaouthia/ComfyUI-Docker
 
-⭐ 129 · Shell · 推送 2026-05-17 · [GitHub](https://github.com/Kaouthia/ComfyUI-Docker) · [官网](https://www.johnaldred.com/running-comfyui-in-docker-on-windows-or-linux/) · 个人维护
+⭐ 130 · Shell · 推送 2026-05-17 · [GitHub](https://github.com/Kaouthia/ComfyUI-Docker) · [官网](https://www.johnaldred.com/running-comfyui-in-docker-on-windows-or-linux/) · 个人维护
 
 **用 Docker Compose 运行 ComfyUI 的自托管部署配置**
 

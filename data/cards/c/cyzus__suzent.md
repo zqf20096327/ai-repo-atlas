@@ -1,6 +1,6 @@
 # cyzus/suzent
 
-⭐ 67 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/cyzus/suzent) · [官网](https://suzent.com/) · 个人维护 · 中文 README
+⭐ 67 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/cyzus/suzent) · [官网](https://suzent.com/) · 个人维护 · 中文 README
 
 **本地优先的个人 AI agent：自持记忆、权限与模型选择**
 

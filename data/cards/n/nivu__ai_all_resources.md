@@ -1,6 +1,6 @@
 # nivu/ai_all_resources
 
-⭐ 1,537 · Jupyter Notebook · 推送 2026-09-19 · [GitHub](https://github.com/nivu/ai_all_resources) · 个人维护
+⭐ 1,538 · Jupyter Notebook · 推送 2026-09-19 · [GitHub](https://github.com/nivu/ai_all_resources) · 个人维护
 
 **面向学习者的数学/机器学习/深度学习资源教程策展清单**
 

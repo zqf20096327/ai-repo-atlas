@@ -1,6 +1,6 @@
 # Aimee51819/FileFlipper
 
-⭐ 44 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Aimee51819/FileFlipper) · [官网](https://fileflipper.app) · 个人维护 · 中文 README
+⭐ 45 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Aimee51819/FileFlipper) · [官网](https://fileflipper.app) · 个人维护 · 中文 README
 
 **Mac/Windows 菜单栏文件转换工具：拖拽转格式与 Markdown**
 

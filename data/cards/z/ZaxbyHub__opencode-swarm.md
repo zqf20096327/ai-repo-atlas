@@ -1,6 +1,6 @@
 # ZaxbyHub/opencode-swarm
 
-⭐ 511 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ZaxbyHub/opencode-swarm) · 组织维护
+⭐ 510 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ZaxbyHub/opencode-swarm) · 组织维护
 
 **OpenCode 的多 agent 群体编码插件：架构师主导、门禁式流水线**
 

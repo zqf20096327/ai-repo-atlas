@@ -1,6 +1,6 @@
 # sdsrss/claude-mem-lite
 
-⭐ 67 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sdsrss/claude-mem-lite) · 个人维护 · 中文 README
+⭐ 68 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sdsrss/claude-mem-lite) · 个人维护 · 中文 README
 
 **Claude Code 的持久化记忆插件：跨会话捕获决策与修复并检索召回**
 

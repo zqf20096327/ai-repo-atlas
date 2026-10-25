@@ -1,6 +1,6 @@
 # heilcheng/awesome-agent-skills
 
-⭐ 6,304 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/heilcheng/awesome-agent-skills) · [官网](http://agent-skill.co) · 个人维护 · 中文 README
+⭐ 6,308 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/heilcheng/awesome-agent-skills) · [官网](http://agent-skill.co) · 个人维护 · 中文 README
 
 **社区策展的 AI agent 技能清单：教你为 Claude/Copilot 等加载技能**
 

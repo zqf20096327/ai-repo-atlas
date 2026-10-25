@@ -1,6 +1,6 @@
 # curiousily/AI-Bootcamp
 
-⭐ 955 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/curiousily/AI-Bootcamp) · [官网](https://mlexpert.io) · 个人维护
+⭐ 954 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/curiousily/AI-Bootcamp) · [官网](https://mlexpert.io) · 个人维护
 
 **生成式 AI 自学训练营：从 ML 基础到 RAG 与 Agent 的教程合集**
 

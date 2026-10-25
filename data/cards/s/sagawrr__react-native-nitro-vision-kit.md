@@ -1,6 +1,6 @@
 # sagawrr/react-native-nitro-vision-kit
 
-⭐ 58 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sagawrr/react-native-nitro-vision-kit) · 个人维护
+⭐ 58 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sagawrr/react-native-nitro-vision-kit) · 个人维护
 
 **React Native 端侧视觉库：主体抠图、图像标签与 OCR**
 

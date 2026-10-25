@@ -1,6 +1,6 @@
 # Past-da-king/agent
 
-⭐ 49 · Kotlin · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Past-da-king/agent) · [官网](https://past-da-king.github.io/agent/) · 个人维护
+⭐ 52 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Past-da-king/agent) · [官网](https://past-da-king.github.io/agent/) · 个人维护
 
 **Android 常驻自主 agent 应用：自带浏览器与 wiki 记忆**
 

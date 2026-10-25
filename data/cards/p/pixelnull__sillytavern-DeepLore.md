@@ -1,6 +1,6 @@
 # pixelnull/sillytavern-DeepLore
 
-⭐ 91 · JavaScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/pixelnull/sillytavern-DeepLore) · [官网](https://pixelnull.github.io/sillytavern-DeepLore/) · 个人维护
+⭐ 90 · JavaScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/pixelnull/sillytavern-DeepLore) · [官网](https://pixelnull.github.io/sillytavern-DeepLore/) · 个人维护
 
 **SillyTavern 的 Obsidian 世界书引擎：关键词+AI 检索并自动注入上下文**
 

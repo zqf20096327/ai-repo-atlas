@@ -1,6 +1,6 @@
 # Zhengyuuuui/qoder2api
 
-⭐ 96 · Go · 推送 2026-10-23 · [GitHub](https://github.com/Zhengyuuuui/qoder2api) · 个人维护 · 中文 README
+⭐ 98 · Go · 推送 2026-10-23 · [GitHub](https://github.com/Zhengyuuuui/qoder2api) · 个人维护 · 中文 README
 
 **将 Qoder AI 服务转为 OpenAI/Claude/Codex 兼容 API 的网关**
 

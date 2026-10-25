@@ -1,6 +1,6 @@
 # modelscope/DiffSynth-Studio
 
-⭐ 13,299 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelscope/DiffSynth-Studio) · 组织维护 · 中文 README
+⭐ 13,302 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelscope/DiffSynth-Studio) · 组织维护 · 中文 README
 
 **开源 Diffusion 模型引擎：统一推理与训练图像/视频/音频生成模型**
 

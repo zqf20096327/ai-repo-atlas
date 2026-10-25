@@ -1,6 +1,6 @@
 # naveedharri/baalda
 
-⭐ 216 · HTML · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/naveedharri/baalda) · [官网](https://baalda.com) · 组织维护
+⭐ 223 · HTML · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/naveedharri/baalda) · [官网](https://baalda.com) · 组织维护
 
 **本地 Markdown 团队笔记应用：AI 可像队友一样读写笔记**
 

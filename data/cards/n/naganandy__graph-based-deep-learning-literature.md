@@ -1,6 +1,6 @@
 # naganandy/graph-based-deep-learning-literature
 
-⭐ 5,106 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/naganandy/graph-based-deep-learning-literature) · 个人维护
+⭐ 5,107 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/naganandy/graph-based-deep-learning-literature) · 个人维护
 
 **图深度学习会议论文链接汇编，覆盖 ML/DM/AI/CV/NLP 会议**
 

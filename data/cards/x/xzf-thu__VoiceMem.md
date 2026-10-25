@@ -1,6 +1,6 @@
 # xzf-thu/VoiceMem
 
-⭐ 2,680 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/xzf-thu/VoiceMem) · 组织维护 · 中文 README
+⭐ 2,693 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/xzf-thu/VoiceMem) · 组织维护 · 中文 README
 
 **面向实时语音智能体的长期记忆系统（流式双脑架构）**
 

@@ -1,6 +1,6 @@
 # orziz/odai
 
-⭐ 119 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/orziz/odai) · 个人维护 · 中文 README
+⭐ 119 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/orziz/odai) · 个人维护 · 中文 README
 
 **AI agent 通用任务治理框架：对齐目标、规划调度、验收交付**
 

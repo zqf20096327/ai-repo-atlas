@@ -1,6 +1,6 @@
 # CodeAlta/CodeAlta
 
-⭐ 287 · C# · BSD-2-Clause · 推送 2026-10-24 · [GitHub](https://github.com/CodeAlta/CodeAlta) · [官网](https://codealta.github.io) · 个人维护
+⭐ 289 · C# · BSD-2-Clause · 推送 2026-10-25 · [GitHub](https://github.com/CodeAlta/CodeAlta) · [官网](https://codealta.github.io) · 个人维护
 
 **AI 编码 agent 的桌面/TUI 工作区：会话、Git 与多模型接入**
 

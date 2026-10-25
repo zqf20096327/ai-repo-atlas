@@ -1,6 +1,6 @@
 # Notchly/Notchly
 
-⭐ 55 · Swift · MIT · 推送 2026-08-11 · [GitHub](https://github.com/Notchly/Notchly) · [官网](https://notchly.xyz) · 组织维护
+⭐ 56 · Swift · MIT · 推送 2026-08-11 · [GitHub](https://github.com/Notchly/Notchly) · [官网](https://notchly.xyz) · 组织维护
 
 **将 MacBook 刘海变为控制面的 macOS 应用，含 Codex AI 提醒**
 

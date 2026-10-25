@@ -1,6 +1,6 @@
 # ATH-MaaS/Pixelle-Video
 
-⭐ 29,351 · Python · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/ATH-MaaS/Pixelle-Video) · [官网](https://aidc-ai.github.io/Pixelle-Video/zh) · 组织维护 · 中文 README
+⭐ 29,373 · Python · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/ATH-MaaS/Pixelle-Video) · [官网](https://aidc-ai.github.io/Pixelle-Video/zh) · 组织维护 · 中文 README
 
 **输入主题即自动生成配图、配音、字幕短视频的引擎**
 

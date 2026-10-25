@@ -1,6 +1,6 @@
 # JEen-wang/Adaptive-rag
 
-⭐ 150 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JEen-wang/Adaptive-rag) · 个人维护 · 中文 README
+⭐ 159 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JEen-wang/Adaptive-rag) · 个人维护 · 中文 README
 
 **按问题复杂度分流的电商客服多智能体 RAG 示例工程**
 

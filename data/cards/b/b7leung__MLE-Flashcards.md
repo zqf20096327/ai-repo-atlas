@@ -1,6 +1,6 @@
 # b7leung/MLE-Flashcards
 
-⭐ 2,517 · GPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/b7leung/MLE-Flashcards) · 个人维护
+⭐ 2,516 · GPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/b7leung/MLE-Flashcards) · 个人维护
 
 **250+ 机器学习主题复习用闪卡集**
 

@@ -1,6 +1,6 @@
 # codinit-dev/codinit-dev
 
-⭐ 271 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/codinit-dev/codinit-dev) · [官网](https://codinit.dev/download) · 组织维护
+⭐ 272 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/codinit-dev/codinit-dev) · [官网](https://codinit.dev/download) · 组织维护
 
 **开源本地优先的 AI 全栈应用构建平台，面向开发者**
 

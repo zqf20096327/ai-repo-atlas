@@ -1,6 +1,6 @@
 # Ike-li/claude-chat-mobile
 
-⭐ 46 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Ike-li/claude-chat-mobile) · [官网](https://ike-li.github.io/claude-chat-mobile/) · 个人维护 · 中文 README
+⭐ 46 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Ike-li/claude-chat-mobile) · [官网](https://ike-li.github.io/claude-chat-mobile/) · 个人维护 · 中文 README
 
 **自托管手机 Web UI：远程驾驶本机的 Claude Code CLI**
 

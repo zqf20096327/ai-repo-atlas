@@ -1,6 +1,6 @@
 # SakurajimaMaiii/TSD
 
-⭐ 49 · Python · MIT · 推送 2025-11-23 · [GitHub](https://github.com/SakurajimaMaiii/TSD) · [官网](https://arxiv.org/abs/2303.10902) · 个人维护
+⭐ 50 · Python · MIT · 推送 2025-11-23 · [GitHub](https://github.com/SakurajimaMaiii/TSD) · [官网](https://arxiv.org/abs/2303.10902) · 个人维护
 
 **CVPR 2023 测试时自适应方法 TSD 的官方 PyTorch 实现**
 

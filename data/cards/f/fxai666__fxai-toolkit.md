@@ -1,6 +1,6 @@
 # fxai666/fxai-toolkit
 
-⭐ 44 · Python · 推送 2026-10-23 · [GitHub](https://github.com/fxai666/fxai-toolkit) · [官网](http://www.fxai.site) · 个人维护 · 中文 README
+⭐ 44 · Python · 推送 2026-10-25 · [GitHub](https://github.com/fxai666/fxai-toolkit) · [官网](http://www.fxai.site) · 个人维护 · 中文 README
 
 **面向低配设备的 ComfyUI AI 长视频全流程节点包**
 

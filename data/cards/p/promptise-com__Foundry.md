@@ -1,6 +1,6 @@
 # promptise-com/Foundry
 
-⭐ 892 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/promptise-com/Foundry) · [官网](https://www.promptise.com/) · 组织维护
+⭐ 892 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/promptise-com/Foundry) · [官网](https://www.promptise.com/) · 组织维护
 
 **构建、运行与治理 AI agent 的全栈 Python 框架**
 

@@ -1,6 +1,6 @@
 # flashlight/wav2letter
 
-⭐ 6,441 · C++ · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/flashlight/wav2letter) · [官网](https://github.com/facebookresearch/wav2letter/wiki) · 组织维护
+⭐ 6,442 · C++ · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/flashlight/wav2letter) · [官网](https://github.com/facebookresearch/wav2letter/wiki) · 组织维护
 
 **Facebook AI 的端到端语音识别工具包，已并入 Flashlight**
 

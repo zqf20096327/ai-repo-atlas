@@ -1,6 +1,6 @@
 # kstevica/captain-claw
 
-⭐ 176 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kstevica/captain-claw) · [官网](https://captain-claw.com) · 个人维护
+⭐ 178 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kstevica/captain-claw) · [官网](https://captain-claw.com) · 个人维护
 
 **自托管多 AI agent 编排框架：多模式协同与完整编码流水线**
 

@@ -1,6 +1,6 @@
 # MacPaw/macapptree
 
-⭐ 69 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/MacPaw/macapptree) · 组织维护
+⭐ 70 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/MacPaw/macapptree) · 组织维护
 
 **提取 macOS 应用无障碍树为 JSON 的 Python 库，供 UI 自动化使用**
 

@@ -1,6 +1,6 @@
 # markusbegerow/local-llm-chat-vs
 
-⭐ 34 · C# · GPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/markusbegerow/local-llm-chat-vs) · [官网](https://marketplace.visualstudio.com/items?itemName=MarkusBegerow.local-llm-chat-vs) · 个人维护
+⭐ 33 · C# · GPL-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/markusbegerow/local-llm-chat-vs) · [官网](https://marketplace.visualstudio.com/items?itemName=MarkusBegerow.local-llm-chat-vs) · 个人维护
 
 **Visual Studio 扩展：IDE 内与本地 LLM 私密聊天与编码辅助**
 

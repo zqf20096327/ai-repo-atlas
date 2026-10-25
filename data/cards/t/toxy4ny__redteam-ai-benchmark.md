@@ -1,6 +1,6 @@
 # toxy4ny/redteam-ai-benchmark
 
-⭐ 57 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/toxy4ny/redteam-ai-benchmark) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/toxy4ny/redteam-ai-benchmark) · 个人维护
 
 **面向授权红队/攻防场景的 LLM 基座选型 CLI 评测基准**
 

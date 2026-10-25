@@ -1,6 +1,6 @@
 # pivotlake/pivot
 
-⭐ 60 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/pivotlake/pivot) · [官网](https://pivotlake.io) · 组织维护
+⭐ 60 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/pivotlake/pivot) · [官网](https://pivotlake.io) · 组织维护
 
 **基于开放数据格式的高性能分析型数据库**
 

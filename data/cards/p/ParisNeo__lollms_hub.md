@@ -1,6 +1,6 @@
 # ParisNeo/lollms_hub
 
-⭐ 650 · Python · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/ParisNeo/lollms_hub) · 个人维护
+⭐ 649 · Python · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/ParisNeo/lollms_hub) · 个人维护
 
 **多 AI 后端统一代理网关：安全、路由与负载均衡**
 

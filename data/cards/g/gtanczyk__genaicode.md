@@ -1,6 +1,6 @@
 # gtanczyk/genaicode
 
-⭐ 47 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/gtanczyk/genaicode) · 个人维护
+⭐ 51 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gtanczyk/genaicode) · 个人维护
 
 **TypeScript 后端调用 LLM 的轻量工具包：可移植提示词与多供应商适配器**
 

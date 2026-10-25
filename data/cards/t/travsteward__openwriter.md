@@ -1,6 +1,6 @@
 # travsteward/openwriter
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/travsteward/openwriter) · [官网](https://openwriter.io) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/travsteward/openwriter) · [官网](https://openwriter.io) · 个人维护
 
 **面向 AI agent 协作的 Markdown 编辑器，人工审批 agent 改动**
 

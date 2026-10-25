@@ -1,6 +1,6 @@
 # feuersteiner/contextrie
 
-⭐ 60 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/feuersteiner/contextrie) · [官网](https://discord.gg/2xS7TEzGvc) · 个人维护
+⭐ 61 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/feuersteiner/contextrie) · [官网](https://discord.gg/2xS7TEzGvc) · 个人维护
 
 **为长程 agent 工作流动态筛选与组装上下文的工具包**
 

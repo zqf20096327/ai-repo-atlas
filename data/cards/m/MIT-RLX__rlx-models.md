@@ -1,6 +1,6 @@
 # MIT-RLX/rlx-models
 
-⭐ 38 · Rust · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/MIT-RLX/rlx-models) · [官网](https://crates.io/crates/rlx-models) · 组织维护
+⭐ 39 · Rust · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/MIT-RLX/rlx-models) · [官网](https://crates.io/crates/rlx-models) · 组织维护
 
 **RLX 编译器/运行时上的 184 个模型移植库（LLM/视觉/语音）**
 

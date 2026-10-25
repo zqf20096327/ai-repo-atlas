@@ -1,6 +1,6 @@
 # huggingface/nfsserve
 
-⭐ 769 · Rust · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/huggingface/nfsserve) · 组织维护
+⭐ 770 · Rust · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/huggingface/nfsserve) · 组织维护
 
 **给开发者：Rust 用户态 NFSv3 服务器库，实现跨平台挂载**
 

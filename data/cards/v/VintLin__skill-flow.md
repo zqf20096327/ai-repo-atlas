@@ -1,6 +1,6 @@
 # VintLin/skill-flow
 
-⭐ 264 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/VintLin/skill-flow) · 个人维护
+⭐ 263 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/VintLin/skill-flow) · 个人维护
 
 **跨编码 Agent 的技能安装与管理工具（CLI + macOS 桌面端）**
 

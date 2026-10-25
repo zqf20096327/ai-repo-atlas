@@ -1,6 +1,6 @@
 # apimarthu2fpeug/ollama-alternatives
 
-⭐ 52 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/apimarthu2fpeug/ollama-alternatives) · [官网](https://go.apimart.ai/k-b317c6) · 组织维护
+⭐ 52 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/apimarthu2fpeug/ollama-alternatives) · [官网](https://go.apimart.ai/k-b317c6) · 组织维护
 
 **APIMart 商业 API 网关的 Nano Banana Pro 接入文档与价格页**
 

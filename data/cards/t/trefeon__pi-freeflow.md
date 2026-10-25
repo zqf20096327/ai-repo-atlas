@@ -1,6 +1,6 @@
 # trefeon/pi-freeflow
 
-⭐ 99 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/trefeon/pi-freeflow) · [官网](https://pi.dev/packages/pi-freeflow) · 个人维护
+⭐ 101 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/trefeon/pi-freeflow) · [官网](https://pi.dev/packages/pi-freeflow) · 个人维护
 
 **为 Pi/Oh My Pi 提供 37 个免费模型与中继代理的插件**
 

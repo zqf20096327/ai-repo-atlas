@@ -1,6 +1,6 @@
 # EmbraceAGI/awesome-chatgpt-zh
 
-⭐ 11,778 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/EmbraceAGI/awesome-chatgpt-zh) · 个人维护 · 中文 README
+⭐ 11,783 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/EmbraceAGI/awesome-chatgpt-zh) · 个人维护 · 中文 README
 
 **中文用户的 ChatGPT 与前沿 AI 资源精选清单**
 

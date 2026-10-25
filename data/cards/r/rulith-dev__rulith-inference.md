@@ -1,6 +1,6 @@
 # rulith-dev/rulith-inference
 
-⭐ 42 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rulith-dev/rulith-inference) · 个人维护 · 中文 README
+⭐ 43 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rulith-dev/rulith-inference) · 个人维护 · 中文 README
 
 **在单台 AMD Strix Halo Windows 机器上快速服务 125B MoE 模型的推理套件**
 

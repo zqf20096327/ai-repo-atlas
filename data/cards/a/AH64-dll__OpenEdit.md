@@ -1,6 +1,6 @@
 # AH64-dll/OpenEdit
 
-⭐ 52 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/AH64-dll/OpenEdit) · [官网](https://ah64-dll.github.io/OpenEdit/) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/AH64-dll/OpenEdit) · [官网](https://ah64-dll.github.io/OpenEdit/) · 个人维护
 
 **AI 原生本地视频编辑器，通过 MCP 供 agent 驱动剪辑**
 

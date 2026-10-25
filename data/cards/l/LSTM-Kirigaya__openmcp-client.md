@@ -1,6 +1,6 @@
 # LSTM-Kirigaya/openmcp-client
 
-⭐ 751 · TypeScript · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/LSTM-Kirigaya/openmcp-client) · [官网](https://kirigaya.cn/openmcp) · 个人维护 · 中文 README
+⭐ 750 · TypeScript · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/LSTM-Kirigaya/openmcp-client) · [官网](https://kirigaya.cn/openmcp) · 个人维护 · 中文 README
 
 **VSCode/Trae/Cursor 的 MCP 开发调试一体化插件**
 

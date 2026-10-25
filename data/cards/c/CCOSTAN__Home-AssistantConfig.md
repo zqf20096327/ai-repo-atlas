@@ -1,6 +1,6 @@
 # CCOSTAN/Home-AssistantConfig
 
-⭐ 5,311 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/CCOSTAN/Home-AssistantConfig) · [官网](https://www.vCloudInfo.com) · 个人维护
+⭐ 5,315 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/CCOSTAN/Home-AssistantConfig) · [官网](https://www.vCloudInfo.com) · 个人维护
 
 **个人智能家居 Home Assistant 配置公开仓库：供浏览借鉴的实例与文档**
 

@@ -1,6 +1,6 @@
 # unicity-sphere/sphere-sdk
 
-⭐ 5,386 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/unicity-sphere/sphere-sdk) · [官网](https://unicity.ai) · 组织维护
+⭐ 5,387 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/unicity-sphere/sphere-sdk) · [官网](https://unicity.ai) · 组织维护
 
 **给自主经济 Agent 提供钱包、支付与协商能力的 TypeScript SDK**
 

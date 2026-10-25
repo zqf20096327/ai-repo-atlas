@@ -1,6 +1,6 @@
 # nirholas/universal-crypto-mcp
 
-⭐ 44 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/nirholas/universal-crypto-mcp) · [官网](https://mcp.giving) · 个人维护
+⭐ 44 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/nirholas/universal-crypto-mcp) · [官网](https://mcp.giving) · 个人维护
 
 **让 AI agent 通过自然语言操作区块链的通用 MCP 服务器**
 

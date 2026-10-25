@@ -1,6 +1,6 @@
 # siddhant-kishore-28/logfire-transformers-bridge
 
-⭐ 56 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/siddhant-kishore-28/logfire-transformers-bridge) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/siddhant-kishore-28/logfire-transformers-bridge) · 个人维护
 
 **把 Transformers 训练日志转为富化事件并接入 Logfire 的观测桥接层**
 

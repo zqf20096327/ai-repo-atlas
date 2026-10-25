@@ -1,6 +1,6 @@
 # neatlogs/neatroots
 
-⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/neatlogs/neatroots) · 组织维护
+⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/neatlogs/neatroots) · 组织维护
 
 **本地优先的 AI agent 运行观测工具：查看、检查并重放 agent 运行**
 

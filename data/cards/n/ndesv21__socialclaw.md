@@ -1,6 +1,6 @@
 # ndesv21/socialclaw
 
-⭐ 98 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ndesv21/socialclaw) · [官网](https://getsocialclaw.com) · 个人维护
+⭐ 101 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ndesv21/socialclaw) · [官网](https://getsocialclaw.com) · 个人维护
 
 **供 AI agent 调度的社媒发布 CLI 与技能包**
 

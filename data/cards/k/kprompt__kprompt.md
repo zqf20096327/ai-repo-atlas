@@ -1,6 +1,6 @@
 # kprompt/kprompt
 
-⭐ 43 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kprompt/kprompt) · [官网](https://kprompt.ai) · 组织维护
+⭐ 43 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/kprompt/kprompt) · [官网](https://kprompt.ai) · 组织维护
 
 **Kubernetes 的自然语言运维 CLI：把指令变成可审批的安全计划**
 

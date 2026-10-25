@@ -1,6 +1,6 @@
 # Qredence/fleet-rlm
 
-⭐ 53 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Qredence/fleet-rlm) · [官网](https://docs.qredence.ai/) · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Qredence/fleet-rlm) · [官网](https://docs.qredence.ai/) · 组织维护
 
 **Python agent 运行时：文件分析、代码执行与任务委派**
 

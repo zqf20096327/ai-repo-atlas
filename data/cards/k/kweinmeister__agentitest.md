@@ -1,6 +1,6 @@
 # kweinmeister/agentitest
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/kweinmeister/agentitest) · 个人维护
+⭐ 48 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/kweinmeister/agentitest) · 个人维护
 
 **用自然语言编写浏览器测试的 LLM 测试框架**
 

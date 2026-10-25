@@ -1,6 +1,6 @@
 # azrtydxb/Fastllm-proxy
 
-⭐ 107 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/azrtydxb/Fastllm-proxy) · [官网](https://fastllm.azrty.com/) · 个人维护
+⭐ 107 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/azrtydxb/Fastllm-proxy) · [官网](https://fastllm.azrty.com/) · 个人维护
 
 **Rust 编写的低开销 LLM 网关：统一 OpenAI 兼容端点路由 81 家提供商**
 

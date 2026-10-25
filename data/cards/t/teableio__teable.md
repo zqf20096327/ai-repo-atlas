@@ -1,6 +1,6 @@
 # teableio/teable
 
-⭐ 21,922 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/teableio/teable) · [官网](https://teable.ai) · 组织维护
+⭐ 21,925 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/teableio/teable) · [官网](https://teable.ai) · 组织维护
 
 **面向企业的 AI 电子表格：数据管理、AI 工作流与应用构建一体**
 

@@ -1,6 +1,6 @@
 # samestrin/llm-interface
 
-⭐ 124 · JavaScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/samestrin/llm-interface) · [官网](https://www.npmjs.com/package/llm-interface) · 个人维护
+⭐ 124 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/samestrin/llm-interface) · [官网](https://www.npmjs.com/package/llm-interface) · 个人维护
 
 **Node.js 统一 LLM 接口库：一个 API 调用 36 家模型服务商**
 

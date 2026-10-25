@@ -1,6 +1,6 @@
 # devswha/patina
 
-⭐ 378 · JavaScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/devswha/patina) · [官网](https://patina.vibetip.help/) · 组织维护
+⭐ 380 · JavaScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/devswha/patina) · [官网](https://patina.vibetip.help/) · 组织维护
 
 **面向 KO/EN/ZH/JA 的模式化文本改写工具，去除 AI 腔调**
 

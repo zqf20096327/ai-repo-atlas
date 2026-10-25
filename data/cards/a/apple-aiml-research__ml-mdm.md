@@ -1,6 +1,6 @@
 # apple-aiml-research/ml-mdm
 
-⭐ 515 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-mdm) · [官网](https://machinelearning.apple.com/research/matryoshka-diffusion-models) · 组织维护
+⭐ 516 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-mdm) · [官网](https://machinelearning.apple.com/research/matryoshka-diffusion-models) · 组织维护
 
 **训练高分辨率文生图扩散模型的研究框架（Matryoshka）**
 

@@ -1,6 +1,6 @@
 # somastllc/somali-language-standard
 
-⭐ 108 · Rust · MIT · 推送 2026-09-04 · [GitHub](https://github.com/somastllc/somali-language-standard) · [官网](https://www.goobolabs.so) · 组织维护
+⭐ 108 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/somali-language-standard) · [官网](https://www.goobolabs.so) · 组织维护
 
 **索马里语的开放机器可读语言标准（RFC 式规范目录）**
 

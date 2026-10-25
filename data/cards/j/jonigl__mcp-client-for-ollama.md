@@ -1,6 +1,6 @@
 # jonigl/mcp-client-for-ollama
 
-⭐ 833 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/jonigl/mcp-client-for-ollama) · 个人维护 · 中文 README
+⭐ 832 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/jonigl/mcp-client-for-ollama) · 个人维护 · 中文 README
 
 **连接本地 Ollama 与 MCP 服务器的终端客户端**
 

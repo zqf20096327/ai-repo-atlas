@@ -1,6 +1,6 @@
 # CAREamics/careamics
 
-⭐ 157 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/CAREamics/careamics) · [官网](https://careamics.github.io/) · 组织维护
+⭐ 157 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/CAREamics/careamics) · [官网](https://careamics.github.io/) · 组织维护
 
 **面向显微图像去噪的 PyTorch 深度学习库：统一 Noise2Void 及变体**
 

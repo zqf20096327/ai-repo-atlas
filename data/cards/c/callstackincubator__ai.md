@@ -1,6 +1,6 @@
 # callstackincubator/ai
 
-⭐ 1,419 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/callstackincubator/ai) · [官网](https://react-native-ai.dev) · 组织维护
+⭐ 1,420 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/callstackincubator/ai) · [官网](https://react-native-ai.dev) · 组织维护
 
 **React Native 端侧 LLM 开发库，兼容 Vercel AI SDK**
 

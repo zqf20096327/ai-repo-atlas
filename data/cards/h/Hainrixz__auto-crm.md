@@ -1,6 +1,6 @@
 # Hainrixz/auto-crm
 
-⭐ 81 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/Hainrixz/auto-crm) · [官网](https://www.tododeia.com/) · 个人维护
+⭐ 81 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/auto-crm) · [官网](https://www.tododeia.com/) · 个人维护
 
 **本地自托管的 AI CRM：通过 Claude Code 自动适配业务**
 

@@ -1,6 +1,6 @@
 # daniel3303/Equibles
 
-⭐ 238 · C# · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/daniel3303/Equibles) · [官网](https://equibles.com) · 个人维护
+⭐ 239 · C# · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/daniel3303/Equibles) · [官网](https://equibles.com) · 个人维护
 
 **自托管金融数据 MCP 服务器：让 AI agent 直接查询 SEC/FRED 等数据**
 

@@ -1,6 +1,6 @@
 # mitmath/JuliaComputation
 
-⭐ 111 · HTML · 推送 2026-10-22 · [GitHub](https://github.com/mitmath/JuliaComputation) · [官网](https://computationalthinking.mit.edu) · 组织维护
+⭐ 111 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/mitmath/JuliaComputation) · [官网](https://computationalthinking.mit.edu) · 组织维护
 
 **MIT 计算课程仓库：Julia 交互笔记与作业讲义集合**
 

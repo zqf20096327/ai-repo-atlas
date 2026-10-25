@@ -1,6 +1,6 @@
 # model-architectures/GRAPE
 
-⭐ 121 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/model-architectures/GRAPE) · [官网](https://model-architectures.github.io/GRAPE/) · 组织维护
+⭐ 122 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/model-architectures/GRAPE) · [官网](https://model-architectures.github.io/GRAPE/) · 组织维护
 
 **统一群论位置编码框架的预训练研究代码（ICLR 2026）**
 

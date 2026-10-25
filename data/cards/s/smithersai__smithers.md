@@ -1,6 +1,6 @@
 # smithersai/smithers
 
-⭐ 440 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/smithersai/smithers) · [官网](https://smithers.sh) · 组织维护
+⭐ 440 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/smithersai/smithers) · [官网](https://smithers.sh) · 组织维护
 
 **用 TypeScript 配置定义并可靠执行代码维护 Agent 工作流的框架**
 

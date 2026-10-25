@@ -1,6 +1,6 @@
 # wiresage/mikrotik-mcp
 
-⭐ 305 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wiresage/mikrotik-mcp) · [官网](https://mikrotik-mcp.com) · 组织维护
+⭐ 306 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wiresage/mikrotik-mcp) · [官网](https://mikrotik-mcp.com) · 组织维护
 
 **让 AI 助手通过自然语言管理 MikroTik 路由器的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # SpeedHQ/RaceIQ
 
-⭐ 39 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/SpeedHQ/RaceIQ) · 个人维护
+⭐ 39 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/SpeedHQ/RaceIQ) · 个人维护
 
 **模拟赛车遥测与单圈分析桌面应用（含可选 AI 教练）**
 

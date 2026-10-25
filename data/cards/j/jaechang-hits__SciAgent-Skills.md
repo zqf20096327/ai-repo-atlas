@@ -1,6 +1,6 @@
 # jaechang-hits/SciAgent-Skills
 
-⭐ 382 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/jaechang-hits/SciAgent-Skills) · [官网](https://omicshorizon.ai/en/) · 个人维护
+⭐ 383 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/jaechang-hits/SciAgent-Skills) · [官网](https://omicshorizon.ai/en/) · 个人维护
 
 **面向 AI 编码 agent 的 199 个生物信息学技能库**
 

@@ -1,6 +1,6 @@
 # zoonk/zoonk
 
-⭐ 158 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/zoonk/zoonk) · [官网](https://zoonk.com) · 组织维护
+⭐ 158 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zoonk/zoonk) · [官网](https://zoonk.com) · 组织维护
 
 **把个人目标转成每日学习计划的学习平台**
 

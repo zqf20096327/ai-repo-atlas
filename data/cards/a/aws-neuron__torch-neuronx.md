@@ -1,6 +1,6 @@
 # aws-neuron/torch-neuronx
 
-⭐ 121 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/aws-neuron/torch-neuronx) · [官网](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/torch/index.html) · 组织维护
+⭐ 123 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/aws-neuron/torch-neuronx) · [官网](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/torch/index.html) · 组织维护
 
 **面向 AWS Trainium 的 PyTorch 原生后端（neuron 设备）**
 

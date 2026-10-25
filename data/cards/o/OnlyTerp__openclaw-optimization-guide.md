@@ -1,6 +1,6 @@
 # OnlyTerp/openclaw-optimization-guide
 
-⭐ 389 · JavaScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/OnlyTerp/openclaw-optimization-guide) · [官网](https://x.com/OnlyTerp) · 个人维护
+⭐ 388 · JavaScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/OnlyTerp/openclaw-optimization-guide) · [官网](https://x.com/OnlyTerp) · 个人维护
 
 **OpenClaw AI agent 的生产优化指南（33 部分）**
 

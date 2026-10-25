@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanOCR
 
-⭐ 2,053 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanOCR) · 组织维护 · 中文 README
+⭐ 2,057 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanOCR) · 组织维护 · 中文 README
 
 **轻量端到端 OCR 视觉语言模型，覆盖文档解析/文本检测/抽取/图文翻译**
 

@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-101
 
-⭐ 696 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langgraph-101) · 组织维护
+⭐ 695 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langgraph-101) · 组织维护
 
 **LangGraph 官方入门教程库：用 notebook 学习构建 agent**
 

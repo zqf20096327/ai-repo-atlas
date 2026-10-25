@@ -1,6 +1,6 @@
 # melocream/awesome-llm-study
 
-⭐ 80 · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/melocream/awesome-llm-study) · [官网](https://marblo.app) · 个人维护
+⭐ 81 · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/melocream/awesome-llm-study) · [官网](https://marblo.app) · 个人维护
 
 **韩语 LLM 学习资源策展清单：验证过的课程·论文·文档链接**
 

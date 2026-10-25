@@ -1,6 +1,6 @@
 # Heman10x-NGU/openJev-verdict-2.0
 
-⭐ 302 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Heman10x-NGU/openJev-verdict-2.0) · [官网](https://heman10x-ngu.github.io/openJev-verdict-2.0/) · 个人维护
+⭐ 304 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Heman10x-NGU/openJev-verdict-2.0) · [官网](https://heman10x-ngu.github.io/openJev-verdict-2.0/) · 个人维护
 
 **149.6M 非自回归类型化决策模型：给确定性代码提供分类判定**
 

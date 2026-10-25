@@ -1,6 +1,6 @@
 # krukah/robopoker
 
-⭐ 226 · Rust · MIT · 推送 2026-09-10 · [GitHub](https://github.com/krukah/robopoker) · [官网](https://robopoker.io) · 个人维护
+⭐ 226 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/krukah/robopoker) · [官网](https://robopoker.io) · 个人维护
 
 **Rust 从零实现超人类级扑克 AI：CFR 求解、抽象与对战引擎**
 

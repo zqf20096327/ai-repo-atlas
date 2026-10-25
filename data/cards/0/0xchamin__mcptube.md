@@ -1,6 +1,6 @@
 # 0xchamin/mcptube
 
-⭐ 163 · Python · 推送 2026-04-13 · [GitHub](https://github.com/0xchamin/mcptube) · [官网](https://0xchamin.github.io/mcptube/) · 个人维护
+⭐ 162 · Python · 推送 2026-04-13 · [GitHub](https://github.com/0xchamin/mcptube) · [官网](https://0xchamin.github.io/mcptube/) · 个人维护
 
 **将 YouTube 视频转为可复利积累的知识库的 MCP 服务器**
 

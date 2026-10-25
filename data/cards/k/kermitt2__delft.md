@@ -1,6 +1,6 @@
 # kermitt2/delft
 
-⭐ 417 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kermitt2/delft) · 个人维护
+⭐ 418 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kermitt2/delft) · 个人维护
 
 **面向文本的深度学习框架：序列标注与文本分类**
 

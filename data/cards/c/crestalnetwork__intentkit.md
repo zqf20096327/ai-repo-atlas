@@ -1,6 +1,6 @@
 # crestalnetwork/intentkit
 
-⭐ 6,522 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/crestalnetwork/intentkit) · [官网](https://intentcat.com/docs) · 组织维护
+⭐ 6,521 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/crestalnetwork/intentkit) · [官网](https://intentcat.com/docs) · 组织维护
 
 **自托管云原生 AI agent 集群：多 agent 协作管理框架**
 

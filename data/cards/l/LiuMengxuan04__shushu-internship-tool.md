@@ -1,6 +1,6 @@
 # LiuMengxuan04/shushu-internship-tool
 
-⭐ 2,122 · Python · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/LiuMengxuan04/shushu-internship-tool) · 个人维护 · 中文 README
+⭐ 2,126 · Python · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/LiuMengxuan04/shushu-internship-tool) · 个人维护 · 中文 README
 
 **帮低经验求职者把 JD 转成可面试项目的 AI 技能包**
 

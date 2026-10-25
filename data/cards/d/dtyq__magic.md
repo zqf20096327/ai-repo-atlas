@@ -1,6 +1,6 @@
 # dtyq/magic
 
-⭐ 5,055 · TypeScript · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/dtyq/magic) · [官网](https://www.magicrew.ai/) · 组织维护 · 中文 README
+⭐ 5,057 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/dtyq/magic) · [官网](https://www.magicrew.ai/) · 组织维护 · 中文 README
 
 **面向企业的开源 AI Agent 平台：数字员工+工作流+协作**
 

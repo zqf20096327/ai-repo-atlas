@@ -1,6 +1,6 @@
 # codedogQBY/ReadAny
 
-⭐ 2,875 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/codedogQBY/ReadAny) · [官网](https://codedogqby.github.io/ReadAny/) · 个人维护 · 中文 README
+⭐ 2,880 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/codedogQBY/ReadAny) · [官网](https://codedogqby.github.io/ReadAny/) · 个人维护 · 中文 README
 
 **本地优先的跨平台 AI 电子书阅读器，支持语义搜索与 RAG 对话**
 

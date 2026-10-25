@@ -1,6 +1,6 @@
 # winedarksea/AutoTS
 
-⭐ 1,434 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/winedarksea/AutoTS) · 个人维护
+⭐ 1,434 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/winedarksea/AutoTS) · 个人维护
 
 **面向 Python 的自动化时间序列预测库，AutoML 搜索最优模型**
 

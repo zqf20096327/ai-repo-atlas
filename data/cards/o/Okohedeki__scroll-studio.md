@@ -1,6 +1,6 @@
 # Okohedeki/scroll-studio
 
-⭐ 49 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Okohedeki/scroll-studio) · [官网](https://okohedeki.github.io/scroll-studio-showcase/) · 个人维护
+⭐ 50 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Okohedeki/scroll-studio) · [官网](https://okohedeki.github.io/scroll-studio-showcase/) · 个人维护
 
 **从单个 YAML 文件生成交互式滚动叙事网站的开源设计工具**
 

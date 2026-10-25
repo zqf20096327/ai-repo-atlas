@@ -1,6 +1,6 @@
 # mni-ml/framework
 
-⭐ 1,020 · Rust · MIT · 推送 2026-04-20 · [GitHub](https://github.com/mni-ml/framework) · [官网](http://mni.ml) · 个人维护
+⭐ 1,021 · Rust · MIT · 推送 2026-04-20 · [GitHub](https://github.com/mni-ml/framework) · [官网](http://mni.ml) · 个人维护
 
 **TypeScript 机器学习框架：Rust 后端支持 CPU/CUDA/WebGPU**
 

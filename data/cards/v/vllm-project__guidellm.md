@@ -1,6 +1,6 @@
 # vllm-project/guidellm
 
-⭐ 1,720 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vllm-project/guidellm) · [官网](https://vllm-project.github.io/guidellm/) · 组织维护
+⭐ 1,723 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/guidellm) · [官网](https://vllm-project.github.io/guidellm/) · 组织维护
 
 **面向 SLO 的 LLM 推理服务基准测试与评估平台**
 

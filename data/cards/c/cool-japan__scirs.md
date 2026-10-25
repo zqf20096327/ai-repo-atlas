@@ -1,6 +1,6 @@
 # cool-japan/scirs
 
-⭐ 301 · Rust · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/cool-japan/scirs) · [官网](https://github.com/cool-japan/scirs) · 组织维护
+⭐ 302 · Rust · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/cool-japan/scirs) · [官网](https://github.com/cool-japan/scirs) · 组织维护
 
 **纯 Rust 科学计算与 AI/ML 基础设施库，提供 SciPy 兼容 API**
 

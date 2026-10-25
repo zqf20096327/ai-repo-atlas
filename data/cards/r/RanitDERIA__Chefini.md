@@ -1,6 +1,6 @@
 # RanitDERIA/Chefini
 
-⭐ 37 · TypeScript · MIT · 推送 2025-12-17 · [GitHub](https://github.com/RanitDERIA/Chefini) · [官网](https://chefini.vercel.app) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2025-12-17 · [GitHub](https://github.com/RanitDERIA/Chefini) · [官网](https://chefini.vercel.app) · 个人维护
 
 **面向家庭厨师的 AI 烹饪应用：用剩余食材生成菜谱**
 

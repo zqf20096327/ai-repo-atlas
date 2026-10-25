@@ -1,6 +1,6 @@
 # Avazbek22/DevProjex
 
-⭐ 37 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Avazbek22/DevProjex) · [官网](https://apps.microsoft.com/detail/9ndq3nq5m354) · 个人维护
+⭐ 37 · C# · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Avazbek22/DevProjex) · [官网](https://apps.microsoft.com/detail/9ndq3nq5m354) · 个人维护
 
 **把文件夹/Git 仓库变成脱敏、省 token 的 AI 上下文的桌面/TUI/CLI/MCP 工具**
 

@@ -1,6 +1,6 @@
 # gugarosa/opfython
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/gugarosa/opfython) · [官网](https://opfython.readthedocs.io) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gugarosa/opfython) · [官网](https://opfython.readthedocs.io) · 个人维护
 
 **最优路径森林（OPF）分类器的 Python 实现库**
 

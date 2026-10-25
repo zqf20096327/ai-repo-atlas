@@ -1,6 +1,6 @@
 # fal-ai-community/video-starter-kit
 
-⭐ 2,408 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fal-ai-community/video-starter-kit) · [官网](https://fal-video-studio.vercel.app) · 组织维护
+⭐ 2,409 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fal-ai-community/video-starter-kit) · [官网](https://fal-video-studio.vercel.app) · 组织维护
 
 **浏览器端 AI 视频应用开发脚手架（Next.js+Remotion+fal.ai）**
 

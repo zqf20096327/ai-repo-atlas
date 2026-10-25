@@ -1,6 +1,6 @@
 # Shangjin-Xiao/ThoughtEcho
 
-⭐ 49 · Dart · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Shangjin-Xiao/ThoughtEcho) · [官网](https://note.shangjinyun.cn) · 个人维护 · 中文 README
+⭐ 49 · Dart · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Shangjin-Xiao/ThoughtEcho) · [官网](https://note.shangjinyun.cn) · 个人维护 · 中文 README
 
 **本地优先的跨平台 AI 灵感笔记与摘录应用**
 

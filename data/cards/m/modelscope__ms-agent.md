@@ -1,6 +1,6 @@
 # modelscope/ms-agent
 
-⭐ 4,417 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/modelscope/ms-agent) · [官网](https://ms-agent-en.readthedocs.io) · 组织维护 · 中文 README
+⭐ 4,419 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/modelscope/ms-agent) · [官网](https://ms-agent-en.readthedocs.io) · 组织维护 · 中文 README
 
 **面向复杂长时任务的模块化开源 agent 框架**
 

@@ -1,6 +1,6 @@
 # letuswerss/werss
 
-⭐ 75 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/letuswerss/werss) · [官网](https://letuswerss.github.io/werss/) · 组织维护 · 中文 README
+⭐ 76 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/letuswerss/werss) · [官网](https://letuswerss.github.io/werss/) · 组织维护 · 中文 README
 
 **自托管微信公众号聚合与 AI 分析系统，输出 RSS 与热点**
 

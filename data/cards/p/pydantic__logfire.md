@@ -1,6 +1,6 @@
 # pydantic/logfire
 
-⭐ 4,522 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/pydantic/logfire) · [官网](https://pydantic.dev/logfire/) · 组织维护
+⭐ 4,522 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/pydantic/logfire) · [官网](https://pydantic.dev/logfire/) · 组织维护
 
 **面向 Python/LLM 应用的可观测性平台：日志、追踪、指标与评测**
 

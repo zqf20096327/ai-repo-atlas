@@ -1,6 +1,6 @@
 # jwuthri-cloud/SelfJev
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/jwuthri-cloud/SelfJev) · [官网](https://www.selfjev.dev) · 个人维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/jwuthri-cloud/SelfJev) · [官网](https://www.selfjev.dev) · 个人维护
 
 **自托管 4B 决策模型：把文本与问题转为结构化决策输出**
 

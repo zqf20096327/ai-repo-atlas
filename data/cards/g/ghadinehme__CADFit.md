@@ -1,6 +1,6 @@
 # ghadinehme/CADFit
 
-⭐ 68 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/ghadinehme/CADFit) · [官网](https://ghadinehme.github.io/cadfit.github.io/) · 组织维护
+⭐ 69 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/ghadinehme/CADFit) · [官网](https://ghadinehme.github.io/cadfit.github.io/) · 组织维护
 
 **从水密网格恢复可编辑 CAD 程序的混合优化框架（ICML 2026 论文官方代码）**
 

@@ -1,6 +1,6 @@
 # whchien/ai-trader
 
-⭐ 1,117 · Python · GPL-3.0 · 推送 2026-03-28 · [GitHub](https://github.com/whchien/ai-trader) · 个人维护 · 中文 README
+⭐ 1,119 · Python · GPL-3.0 · 推送 2026-03-28 · [GitHub](https://github.com/whchien/ai-trader) · 个人维护 · 中文 README
 
 **面向专业交易者的 Backtrader 回测框架，含 MCP 服务集成**
 

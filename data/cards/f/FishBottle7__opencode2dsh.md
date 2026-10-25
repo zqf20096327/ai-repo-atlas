@@ -1,6 +1,6 @@
 # FishBottle7/opencode2dsh
 
-⭐ 342 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/FishBottle7/opencode2dsh) · [官网](https://www.npmjs.com/package/@opencode2dsh/dsh-plugin) · 个人维护 · 中文 README
+⭐ 352 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/FishBottle7/opencode2dsh) · [官网](https://www.npmjs.com/package/@opencode2dsh/dsh-plugin) · 个人维护 · 中文 README
 
 **DSH 插件：将 OpenCode Zen 免费模型接入 DeepSeek Harness**
 

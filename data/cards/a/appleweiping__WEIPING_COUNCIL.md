@@ -1,6 +1,6 @@
 # appleweiping/WEIPING_COUNCIL
 
-⭐ 131 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/appleweiping/WEIPING_COUNCIL) · 个人维护
+⭐ 131 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/appleweiping/WEIPING_COUNCIL) · 个人维护
 
 **多 LLM 议会问答应用：匿名互评后由主席合成答案**
 

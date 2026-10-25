@@ -1,6 +1,6 @@
 # shap/shap
 
-⭐ 25,829 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/shap/shap) · [官网](https://shap.readthedocs.io) · 组织维护
+⭐ 25,832 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/shap/shap) · [官网](https://shap.readthedocs.io) · 组织维护
 
 **给机器学习模型输出提供 Shapley 值解释的 Python 库**
 

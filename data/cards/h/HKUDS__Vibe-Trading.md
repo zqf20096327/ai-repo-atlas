@@ -1,6 +1,6 @@
 # HKUDS/Vibe-Trading
 
-⭐ 36,512 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HKUDS/Vibe-Trading) · [官网](https://vibetrading.wiki/) · 组织维护 · 中文 README
+⭐ 36,667 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/HKUDS/Vibe-Trading) · [官网](https://vibetrading.wiki/) · 组织维护 · 中文 README
 
 **个人交易 AI Agent：一句话驱动投研、回测与实盘交易**
 

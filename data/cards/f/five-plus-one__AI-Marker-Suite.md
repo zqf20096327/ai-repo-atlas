@@ -1,6 +1,6 @@
 # five-plus-one/AI-Marker-Suite
 
-⭐ 103 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/five-plus-one/AI-Marker-Suite) · [官网](https://aimarking.five-plus-one.com/) · 个人维护 · 中文 README
+⭐ 104 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/five-plus-one/AI-Marker-Suite) · [官网](https://aimarking.five-plus-one.com/) · 个人维护 · 中文 README
 
 **给教师的多平台 AI 阅卷油猴脚本：自动识别手写答案并打分填分**
 

@@ -1,6 +1,6 @@
 # speedyk-005/yasbd-lib
 
-⭐ 34 · Python · MPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/speedyk-005/yasbd-lib) · [官网](https://deepwiki.com/speedyk-005/yasbd-lib) · 个人维护
+⭐ 34 · Python · MPL-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/speedyk-005/yasbd-lib) · [官网](https://deepwiki.com/speedyk-005/yasbd-lib) · 个人维护
 
 **面向生产 NLP 管线的多语言规则式句子边界检测库**
 

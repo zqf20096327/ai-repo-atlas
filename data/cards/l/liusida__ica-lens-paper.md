@@ -1,6 +1,6 @@
 # liusida/ica-lens-paper
 
-⭐ 55 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/liusida/ica-lens-paper) · [官网](https://liusida.github.io/ica-lens-paper/) · 组织维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/liusida/ica-lens-paper) · [官网](https://liusida.github.io/ica-lens-paper/) · 组织维护 · 中文 README
 
 **用 ICA 解释语言模型激活的可解释性工具库**
 

@@ -1,6 +1,6 @@
 # langchain-ai/agent-protocol
 
-⭐ 690 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/agent-protocol) · [官网](https://langchain-ai.github.io/agent-protocol/api.html) · 组织维护
+⭐ 692 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/agent-protocol) · [官网](https://langchain-ai.github.io/agent-protocol/api.html) · 组织维护
 
 **框架无关的 LLM agent 生产服务 API 协议规范**
 

@@ -1,6 +1,6 @@
 # amitshekhariitbhu/machine-learning-interview-questions
 
-⭐ 446 · Markdown · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 448 · Markdown · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **机器学习面试题与答案的备考清单**
 

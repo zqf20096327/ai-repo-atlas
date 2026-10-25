@@ -1,6 +1,6 @@
 # Mats2208/MCP-Packet-Tracer
 
-⭐ 284 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Mats2208/MCP-Packet-Tracer) · [官网](https://www.mcpnetwork.top/) · 个人维护
+⭐ 287 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Mats2208/MCP-Packet-Tracer) · [官网](https://www.mcpnetwork.top/) · 个人维护
 
 **让 LLM 通过自然语言自动构建和部署 Packet Tracer 网络拓扑的 MCP 服务器**
 

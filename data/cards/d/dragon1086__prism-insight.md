@@ -1,6 +1,6 @@
 # dragon1086/prism-insight
 
-⭐ 785 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/dragon1086/prism-insight) · [官网](https://prism-insight-landing.vercel.app/) · 个人维护 · 中文 README
+⭐ 785 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/dragon1086/prism-insight) · [官网](https://prism-insight-landing.vercel.app/) · 个人维护 · 中文 README
 
 **面向个人投资者的多 Agent 股票分析与自动交易系统**
 

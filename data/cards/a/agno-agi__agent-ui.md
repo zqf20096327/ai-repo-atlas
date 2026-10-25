@@ -1,6 +1,6 @@
 # agno-agi/agent-ui
 
-⭐ 1,858 · TypeScript · MIT · 推送 2026-05-08 · [GitHub](https://github.com/agno-agi/agent-ui) · [官网](https://agno-agent-ui.vercel.app) · 组织维护
+⭐ 1,859 · TypeScript · MIT · 推送 2026-05-08 · [GitHub](https://github.com/agno-agi/agent-ui) · [官网](https://agno-agent-ui.vercel.app) · 组织维护
 
 **连接 AgentOS 的 Next.js 聊天界面模板**
 

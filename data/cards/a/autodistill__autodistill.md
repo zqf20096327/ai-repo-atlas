@@ -1,6 +1,6 @@
 # autodistill/autodistill
 
-⭐ 2,794 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/autodistill/autodistill) · [官网](https://docs.autodistill.com) · 组织维护
+⭐ 2,796 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/autodistill/autodistill) · [官网](https://docs.autodistill.com) · 组织维护
 
 **用基础模型自动标注图像并蒸馏训练小模型的开源框架**
 

@@ -1,6 +1,6 @@
 # agrumery/aGrUM
 
-⭐ 60 · Jupyter Notebook · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/agrumery/aGrUM) · [官网](https://agrum.org) · 组织维护
+⭐ 60 · Jupyter Notebook · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/agrumery/aGrUM) · [官网](https://agrum.org) · 组织维护
 
 **C++/Python 图模型库：贝叶斯网络学习、推断与因果分析**
 

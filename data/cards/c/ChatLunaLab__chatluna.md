@@ -1,6 +1,6 @@
 # ChatLunaLab/chatluna
 
-⭐ 445 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/ChatLunaLab/chatluna) · [官网](https://chatluna.chat) · 组织维护 · 中文 README
+⭐ 446 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ChatLunaLab/chatluna) · [官网](https://chatluna.chat) · 组织维护 · 中文 README
 
 **Koishi 聊天机器人 LLM 对话插件，多平台模型接入**
 

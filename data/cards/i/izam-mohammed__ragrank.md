@@ -1,6 +1,6 @@
 # izam-mohammed/ragrank
 
-⭐ 47 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/izam-mohammed/ragrank) · [官网](https://ragrank.readthedocs.io/) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/izam-mohammed/ragrank) · [官网](https://ragrank.readthedocs.io/) · 组织维护
 
 **给 LLM/RAG 开发者的评测工具包：对流水线输出打分**
 

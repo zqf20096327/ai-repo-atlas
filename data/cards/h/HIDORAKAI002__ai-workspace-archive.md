@@ -1,6 +1,6 @@
 # HIDORAKAI002/ai-workspace-archive
 
-⭐ 37 · 推送 2026-10-24 · [GitHub](https://github.com/HIDORAKAI002/ai-workspace-archive) · 个人维护
+⭐ 37 · 推送 2026-10-25 · [GitHub](https://github.com/HIDORAKAI002/ai-workspace-archive) · 个人维护
 
 **本地离线 AI 工具归档仓库：聚合技能、MCP、规则与提示词**
 

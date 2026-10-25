@@ -1,6 +1,6 @@
 # wananing/Smart-Health-Assistant
 
-⭐ 35 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/wananing/Smart-Health-Assistant) · 个人维护 · 中文 README
+⭐ 37 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/wananing/Smart-Health-Assistant) · 个人维护 · 中文 README
 
 **开源大健康 AI 助手全栈参考实现：多智能体问诊+实时语音**
 

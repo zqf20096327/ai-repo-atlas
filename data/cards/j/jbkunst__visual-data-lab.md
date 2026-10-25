@@ -1,6 +1,6 @@
 # jbkunst/visual-data-lab
 
-⭐ 56 · HTML · 推送 2026-10-18 · [GitHub](https://github.com/jbkunst/visual-data-lab) · [官网](https://jkunst.com/visual-data-lab/) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/jbkunst/visual-data-lab) · [官网](https://jkunst.com/visual-data-lab/) · 个人维护
 
 **个人数据/统计/机器学习交互实验应用的 Shiny 画廊**
 

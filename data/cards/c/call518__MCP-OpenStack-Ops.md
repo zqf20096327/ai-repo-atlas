@@ -1,6 +1,6 @@
 # call518/MCP-OpenStack-Ops
 
-⭐ 45 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/call518/MCP-OpenStack-Ops) · [官网](https://deepwiki.com/call518/MCP-OpenStack-Ops) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/call518/MCP-OpenStack-Ops) · [官网](https://deepwiki.com/call518/MCP-OpenStack-Ops) · 个人维护
 
 **面向 AI agent 的 OpenStack 运维 MCP 服务器（90+ 只读优先工具）**
 

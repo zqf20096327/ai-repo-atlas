@@ -1,6 +1,6 @@
 # BerriAI/litellm-docs
 
-⭐ 42 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/BerriAI/litellm-docs) · [官网](https://litellm.vercel.app) · 组织维护
+⭐ 42 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BerriAI/litellm-docs) · [官网](https://litellm.vercel.app) · 组织维护
 
 **LiteLLM 官方文档站点的文档源码仓库**
 

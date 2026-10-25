@@ -1,6 +1,6 @@
 # amitness/learning
 
-⭐ 6,984 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/amitness/learning) · [官网](https://twitter.com/amitness) · 个人维护
+⭐ 6,986 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/amitness/learning) · [官网](https://twitter.com/amitness) · 个人维护
 
 **个人学习记录：按技能领域整理的课程与书籍清单**
 

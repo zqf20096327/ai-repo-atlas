@@ -1,6 +1,6 @@
 # wdhdev/free-for-life
 
-⭐ 1,771 · HTML · MIT · 推送 2026-10-10 · [GitHub](https://github.com/wdhdev/free-for-life) · [官网](https://free.hrsn.dev/) · 个人维护
+⭐ 1,777 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/wdhdev/free-for-life) · [官网](https://free.hrsn.dev/) · 个人维护
 
 **免费 SaaS/API/AI 等互联网服务与工具的策展清单**
 

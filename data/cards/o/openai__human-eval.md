@@ -1,6 +1,6 @@
 # openai/human-eval
 
-⭐ 3,413 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/openai/human-eval) · 组织维护
+⭐ 3,416 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/openai/human-eval) · 组织维护
 
 **代码生成模型的函数正确性评测基准与评测工具**
 

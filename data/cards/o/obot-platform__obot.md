@@ -1,6 +1,6 @@
 # obot-platform/obot
 
-⭐ 1,121 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/obot-platform/obot) · [官网](https://obot.ai) · 组织维护
+⭐ 1,123 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/obot-platform/obot) · [官网](https://obot.ai) · 组织维护
 
 **面向组织的企业级 AI 治理平台：统一接入、管控与审计 AI 生态**
 

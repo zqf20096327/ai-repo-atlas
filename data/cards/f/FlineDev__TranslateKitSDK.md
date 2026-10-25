@@ -1,6 +1,6 @@
 # FlineDev/TranslateKitSDK
 
-⭐ 216 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/FlineDev/TranslateKitSDK) · [官网](https://translatekit.app) · 个人维护
+⭐ 217 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/FlineDev/TranslateKitSDK) · [官网](https://translatekit.app) · 个人维护
 
 **Swift 应用预置本地化字符串 SDK：2000+ 条 40 语言**
 

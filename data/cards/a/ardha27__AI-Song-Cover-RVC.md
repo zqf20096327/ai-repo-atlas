@@ -1,6 +1,6 @@
 # ardha27/AI-Song-Cover-RVC
 
-⭐ 1,227 · Jupyter Notebook · MIT · 推送 2026-05-31 · [GitHub](https://github.com/ardha27/AI-Song-Cover-RVC) · [官网](https://ko-fi.com/ardhach) · 个人维护
+⭐ 1,228 · Jupyter Notebook · MIT · 推送 2026-05-31 · [GitHub](https://github.com/ardha27/AI-Song-Cover-RVC) · [官网](https://ko-fi.com/ardhach) · 个人维护
 
 **在 Colab/Kaggle 上制作 RVC 歌曲翻唱的一体化工具包**
 

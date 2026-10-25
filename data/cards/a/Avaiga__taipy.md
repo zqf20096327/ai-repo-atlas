@@ -1,6 +1,6 @@
 # Avaiga/taipy
 
-⭐ 19,444 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/Avaiga/taipy) · [官网](https://www.taipy.io) · 组织维护
+⭐ 19,446 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/Avaiga/taipy) · [官网](https://www.taipy.io) · 组织维护
 
 **给数据科学家/ML工程师：把数据和AI算法快速变成Web应用**
 

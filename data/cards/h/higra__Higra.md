@@ -1,6 +1,6 @@
 # higra/Higra
 
-⭐ 118 · C++ · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/higra/Higra) · [官网](https://higra.readthedocs.io/) · 组织维护
+⭐ 118 · C++ · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/higra/Higra) · [官网](https://higra.readthedocs.io/) · 组织维护
 
 **C++/Python 层次图分析库：高效层次聚类与图像分析**
 

@@ -1,6 +1,6 @@
 # stubbi/openclaw-operator
 
-⭐ 403 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/stubbi/openclaw-operator) · [官网](https://paperclip.inc/openclaw) · 组织维护 · 中文 README
+⭐ 403 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/stubbi/openclaw-operator) · [官网](https://paperclip.inc/openclaw) · 组织维护 · 中文 README
 
 **在 Kubernetes 上自托管 OpenClaw AI agent 的运维 operator**
 

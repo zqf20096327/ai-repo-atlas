@@ -1,6 +1,6 @@
 # TwelveTake-Studios/reaper-mcp
 
-⭐ 94 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/TwelveTake-Studios/reaper-mcp) · [官网](https://twelvetake.com) · 组织维护
+⭐ 95 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/TwelveTake-Studios/reaper-mcp) · [官网](https://twelvetake.com) · 组织维护
 
 **让 AI 助手通过 MCP 控制 REAPER 音乐制作的服务器**
 

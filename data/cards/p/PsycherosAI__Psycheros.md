@@ -1,6 +1,6 @@
 # PsycherosAI/Psycheros
 
-⭐ 41 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/PsycherosAI/Psycheros) · [官网](https://psycherosai.github.io/Psycheros/) · 个人维护
+⭐ 42 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/PsycherosAI/Psycheros) · [官网](https://psycherosai.github.io/Psycheros/) · 个人维护
 
 **开源 agentic AI 伴侣框架：持久身份与多层记忆的实体系统**
 

@@ -1,6 +1,6 @@
 # AnubhavChaturvedi-GitHub/jarvis-ai-assistant
 
-⭐ 369 · Python · GPL-3.0 · 推送 2026-08-12 · [GitHub](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) · [官网](https://www.youtube.com/@NetHyTech) · 个人维护
+⭐ 371 · Python · GPL-3.0 · 推送 2026-08-12 · [GitHub](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) · [官网](https://www.youtube.com/@NetHyTech) · 个人维护
 
 **语音控制的 Python 桌面 AI 助手：听说、联网、控电脑**
 

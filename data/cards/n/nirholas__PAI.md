@@ -1,6 +1,6 @@
 # nirholas/PAI
 
-⭐ 115 · Shell · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/nirholas/PAI) · [官网](https://pai.direct) · 个人维护
+⭐ 115 · Shell · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/nirholas/PAI) · [官网](https://pai.direct) · 个人维护
 
 **可启动 U 盘上的隐私优先本地 AI 工作站操作系统**
 

@@ -1,6 +1,6 @@
 # junhoyeo/tokscale
 
-⭐ 5,730 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/junhoyeo/tokscale) · [官网](https://tokscale.ai) · 个人维护 · 中文 README
+⭐ 5,739 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/junhoyeo/tokscale) · [官网](https://tokscale.ai) · 个人维护 · 中文 README
 
 **终端追踪多种 AI 编程 agent 的 token 用量与成本的 CLI**
 

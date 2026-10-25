@@ -1,6 +1,6 @@
 # anthropics/single-agent-loop-kit
 
-⭐ 70 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/single-agent-loop-kit) · 组织维护
+⭐ 129 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/single-agent-loop-kit) · 组织维护
 
 **把多 agent 系统收敛为单循环的 Claude Code 技能工具包**
 

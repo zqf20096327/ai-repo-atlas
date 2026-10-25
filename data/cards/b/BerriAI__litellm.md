@@ -1,6 +1,6 @@
 # BerriAI/litellm
 
-⭐ 61,966 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/BerriAI/litellm) · [官网](https://docs.litellm.ai/docs/) · 组织维护
+⭐ 62,019 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/BerriAI/litellm) · [官网](https://docs.litellm.ai/docs/) · 组织维护
 
 **统一的 LLM 网关：一份接口调用 100+ 模型供应商**
 

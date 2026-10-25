@@ -1,6 +1,6 @@
 # caipe-io/ai-platform-engineering
 
-⭐ 430 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/caipe-io/ai-platform-engineering) · [官网](https://caipe.io) · 组织维护
+⭐ 431 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/caipe-io/ai-platform-engineering) · [官网](https://caipe.io) · 组织维护
 
 **构建、治理与运行 AI agent 及工作流的开源平台**
 

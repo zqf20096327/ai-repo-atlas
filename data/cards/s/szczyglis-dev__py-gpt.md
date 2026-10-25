@@ -1,6 +1,6 @@
 # szczyglis-dev/py-gpt
 
-⭐ 2,002 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/szczyglis-dev/py-gpt) · [官网](https://pygpt.net) · 个人维护
+⭐ 2,003 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/szczyglis-dev/py-gpt) · [官网](https://pygpt.net) · 个人维护
 
 **跨平台桌面 AI 助手：聚合多厂商模型，聊天/Agent/RAG/语音一体**
 

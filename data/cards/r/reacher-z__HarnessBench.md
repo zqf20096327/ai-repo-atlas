@@ -1,6 +1,6 @@
 # reacher-z/HarnessBench
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/reacher-z/HarnessBench) · [官网](https://pypi.org/project/harness-bench/) · 组织维护 · 中文 README
+⭐ 63 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/reacher-z/HarnessBench) · [官网](https://pypi.org/project/harness-bench/) · 组织维护 · 中文 README
 
 **固定基座模型、对比 6 种 agent harness 的评测基准**
 

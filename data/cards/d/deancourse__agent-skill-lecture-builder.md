@@ -1,6 +1,6 @@
 # deancourse/agent-skill-lecture-builder
 
-⭐ 70 · HTML · 推送 2026-04-12 · [GitHub](https://github.com/deancourse/agent-skill-lecture-builder) · [官网](https://youtu.be/0pZri5f_tfk) · 个人维护 · 中文 README
+⭐ 72 · HTML · 推送 2026-04-12 · [GitHub](https://github.com/deancourse/agent-skill-lecture-builder) · [官网](https://youtu.be/0pZri5f_tfk) · 个人维护 · 中文 README
 
 **講者/教師用的 Agent Skill：把主題或 Markdown 講稿生成單一 HTML 課程頁面**
 

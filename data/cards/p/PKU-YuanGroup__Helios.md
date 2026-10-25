@@ -1,6 +1,6 @@
 # PKU-YuanGroup/Helios
 
-⭐ 2,224 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/PKU-YuanGroup/Helios) · [官网](https://pku-yuangroup.github.io/Helios-Page) · 组织维护 · 中文 README
+⭐ 2,225 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/PKU-YuanGroup/Helios) · [官网](https://pku-yuangroup.github.io/Helios-Page) · 组织维护 · 中文 README
 
 **北大团队开源的 14B 实时长视频生成模型**
 

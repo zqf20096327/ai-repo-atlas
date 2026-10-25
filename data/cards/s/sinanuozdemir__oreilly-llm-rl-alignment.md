@@ -1,6 +1,6 @@
 # sinanuozdemir/oreilly-llm-rl-alignment
 
-⭐ 69 · Jupyter Notebook · 推送 2026-03-09 · [GitHub](https://github.com/sinanuozdemir/oreilly-llm-rl-alignment) · [官网](https://www.oreilly.com/live-events/reinforcement-learning-with-large-language-models/0636920095685) · 个人维护
+⭐ 70 · Jupyter Notebook · 推送 2026-03-09 · [GitHub](https://github.com/sinanuozdemir/oreilly-llm-rl-alignment) · [官网](https://www.oreilly.com/live-events/reinforcement-learning-with-large-language-models/0636920095685) · 个人维护
 
 **O'Reilly/Pearson LLM 对齐与强化学习课程的配套笔记本集**
 

@@ -1,6 +1,6 @@
 # tanrikuluozlem/burn
 
-⭐ 94 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/tanrikuluozlem/burn) · 个人维护
+⭐ 94 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/tanrikuluozlem/burn) · 个人维护
 
 **Kubernetes 成本分析与账单核对的 CLI 工具**
 

@@ -1,6 +1,6 @@
 # sandraschi/calibremcp
 
-⭐ 49 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sandraschi/calibremcp) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sandraschi/calibremcp) · 个人维护
 
 **给 Calibre 电子书库的 FastMCP 服务器：AI 搜索、RAG 与库管理**
 

@@ -1,6 +1,6 @@
 # beltromatti/get-it
 
-⭐ 1,132 · JavaScript · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/beltromatti/get-it) · [官网](https://getit.noesisai.it) · 组织维护
+⭐ 1,134 · JavaScript · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/beltromatti/get-it) · [官网](https://getit.noesisai.it) · 组织维护
 
 **把 PDF 变成掌握度地图的桌面学习伴侣应用**
 

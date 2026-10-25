@@ -1,6 +1,6 @@
 # fukuball/jieba-php
 
-⭐ 1,379 · PHP · MIT · 推送 2025-12-16 · [GitHub](https://github.com/fukuball/jieba-php) · 个人维护 · 中文 README
+⭐ 1,378 · PHP · MIT · 推送 2025-12-16 · [GitHub](https://github.com/fukuball/jieba-php) · 个人维护 · 中文 README
 
 **PHP 中文/CJK 分词组件，提供分词、关键词提取与词性标注**
 

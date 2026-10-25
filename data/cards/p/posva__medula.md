@@ -1,6 +1,6 @@
 # posva/medula
 
-⭐ 125 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/posva/medula) · 个人维护
+⭐ 126 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/posva/medula) · 个人维护
 
 **让编码 agent 通过 MCP 检查和修改运行中 Web 应用状态的 devtools**
 

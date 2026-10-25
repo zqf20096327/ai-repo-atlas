@@ -1,6 +1,6 @@
 # weaviate/weaviate-go-client
 
-⭐ 61 · Go · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/weaviate/weaviate-go-client) · 组织维护
+⭐ 61 · Go · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/weaviate/weaviate-go-client) · 组织维护
 
 **Weaviate 数据库的官方 Go 客户端库**
 

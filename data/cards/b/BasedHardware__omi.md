@@ -1,6 +1,6 @@
 # BasedHardware/omi
 
-⭐ 13,806 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/BasedHardware/omi) · [官网](https://omi.me) · 组织维护
+⭐ 13,814 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BasedHardware/omi) · [官网](https://omi.me) · 组织维护
 
 **记录屏幕与对话并生成摘要行动项的 AI 可穿戴伴侣应用**
 

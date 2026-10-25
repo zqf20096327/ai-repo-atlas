@@ -1,6 +1,6 @@
 # fikrikarim/parlor
 
-⭐ 2,100 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/fikrikarim/parlor) · 个人维护
+⭐ 2,104 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/fikrikarim/parlor) · 个人维护
 
 **本地全离线实时多模态语音 AI 应用（类 GPT-Live）**
 

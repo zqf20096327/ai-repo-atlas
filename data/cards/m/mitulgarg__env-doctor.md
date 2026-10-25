@@ -1,6 +1,6 @@
 # mitulgarg/env-doctor
 
-⭐ 172 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/mitulgarg/env-doctor) · [官网](https://mitulgarg.github.io/env-doctor/) · 个人维护
+⭐ 173 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/mitulgarg/env-doctor) · [官网](https://mitulgarg.github.io/env-doctor/) · 个人维护
 
 **诊断并修复 CUDA/GPU 环境兼容性问题的 CLI 与 MCP 工具**
 

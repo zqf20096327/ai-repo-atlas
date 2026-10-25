@@ -1,6 +1,6 @@
 # ShishirPatil/gorilla
 
-⭐ 13,058 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/ShishirPatil/gorilla) · [官网](https://gorilla.cs.berkeley.edu/) · 组织维护
+⭐ 13,059 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/ShishirPatil/gorilla) · [官网](https://gorilla.cs.berkeley.edu/) · 组织维护
 
 **让 LLM 输出正确 API 调用的模型与评测基准项目**
 

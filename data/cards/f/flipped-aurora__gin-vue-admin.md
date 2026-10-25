@@ -1,6 +1,6 @@
 # flipped-aurora/gin-vue-admin
 
-⭐ 25,090 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/flipped-aurora/gin-vue-admin) · [官网](http://demo.gin-vue-admin.com/) · 组织维护 · 中文 README
+⭐ 25,095 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/flipped-aurora/gin-vue-admin) · [官网](http://demo.gin-vue-admin.com/) · 组织维护 · 中文 README
 
 **为 Go+Vue 全栈开发者提供带 AI 辅助的后台开发基础平台**
 

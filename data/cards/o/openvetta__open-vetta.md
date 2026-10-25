@@ -1,6 +1,6 @@
 # openvetta/open-vetta
 
-⭐ 298 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openvetta/open-vetta) · [官网](https://www.openvetta.com) · 组织维护 · 中文 README
+⭐ 300 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openvetta/open-vetta) · [官网](https://www.openvetta.com) · 组织维护 · 中文 README
 
 **本地优先的开源桌面 AI agent，用于编码与实际工作**
 

@@ -1,6 +1,6 @@
 # ai-freer/fortune-skill
 
-⭐ 35 · JavaScript · NOASSERTION · 推送 2026-05-07 · [GitHub](https://github.com/ai-freer/fortune-skill) · 个人维护 · 中文 README
+⭐ 37 · JavaScript · NOASSERTION · 推送 2026-05-07 · [GitHub](https://github.com/ai-freer/fortune-skill) · 个人维护 · 中文 README
 
 **给 agent 平台的中国传统命理分析技能（八字+紫微斗数）**
 

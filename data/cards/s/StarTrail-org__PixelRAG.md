@@ -1,6 +1,6 @@
 # StarTrail-org/PixelRAG
 
-⭐ 10,347 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/StarTrail-org/PixelRAG) · [官网](https://arxiv.org/pdf/2606.28344) · 组织维护
+⭐ 10,349 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/StarTrail-org/PixelRAG) · [官网](https://arxiv.org/pdf/2606.28344) · 组织维护
 
 **把网页/PDF渲染成截图做视觉检索的 RAG 管线**
 

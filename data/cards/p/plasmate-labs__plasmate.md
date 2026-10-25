@@ -1,6 +1,6 @@
 # plasmate-labs/plasmate
 
-⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/plasmate-labs/plasmate) · [官网](https://docs.plasmate.app) · 组织维护
+⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/plasmate-labs/plasmate) · [官网](https://docs.plasmate.app) · 组织维护
 
 **面向 AI agent 的浏览器引擎：输入 HTML，输出结构化语义对象模型**
 

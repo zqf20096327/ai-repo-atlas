@@ -1,6 +1,6 @@
 # brycewang-stanford/many-ppt-skills
 
-⭐ 65 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/brycewang-stanford/many-ppt-skills) · 个人维护 · 中文 README
+⭐ 65 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/brycewang-stanford/many-ppt-skills) · 个人维护 · 中文 README
 
 **227 个 AI 幻灯片 Skill 的对比选型清单，HTML/PPTX 双路线**
 

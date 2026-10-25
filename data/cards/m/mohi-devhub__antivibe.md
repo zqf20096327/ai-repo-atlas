@@ -1,6 +1,6 @@
 # mohi-devhub/antivibe
 
-⭐ 1,129 · Shell · MIT · 推送 2026-07-31 · [GitHub](https://github.com/mohi-devhub/antivibe) · 个人维护
+⭐ 1,128 · Shell · MIT · 推送 2026-07-31 · [GitHub](https://github.com/mohi-devhub/antivibe) · 个人维护
 
 **把 AI 生成的代码转成教学式深度解读的 Claude Code 技能**
 

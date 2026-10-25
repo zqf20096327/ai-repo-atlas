@@ -1,6 +1,6 @@
 # blackhillsinfosec/WifiForge
 
-⭐ 1,226 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/blackhillsinfosec/WifiForge) · 组织维护
+⭐ 1,225 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/blackhillsinfosec/WifiForge) · 组织维护
 
 **给渗透测试学习者的全虚拟 WiFi 攻击训练沙盒**
 

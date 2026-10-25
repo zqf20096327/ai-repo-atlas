@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/FlashVDM
 
-⭐ 336 · Python · NOASSERTION · 推送 2026-03-13 · [GitHub](https://github.com/Tencent-Hunyuan/FlashVDM) · 组织维护 · 中文 README
+⭐ 337 · Python · NOASSERTION · 推送 2026-03-13 · [GitHub](https://github.com/Tencent-Hunyuan/FlashVDM) · 组织维护 · 中文 README
 
 **加速 Vecset 扩散模型 3D 形状生成的通用框架**
 

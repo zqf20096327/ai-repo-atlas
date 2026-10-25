@@ -1,6 +1,6 @@
 # Darthflute/social-calendar-skill
 
-⭐ 36 · Python · 推送 2026-04-24 · [GitHub](https://github.com/Darthflute/social-calendar-skill) · 个人维护
+⭐ 37 · Python · 推送 2026-04-24 · [GitHub](https://github.com/Darthflute/social-calendar-skill) · 个人维护
 
 **给营销人员的 Claude Code 社媒内容技能：一键生成月度日历与审计报告**
 

@@ -1,6 +1,6 @@
 # benedekrozemberczki/pytorch_geometric_temporal
 
-⭐ 2,992 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) · 个人维护
+⭐ 2,993 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) · 个人维护
 
 **面向研究者的时序图神经网络模型库：动态图深度学习扩展**
 

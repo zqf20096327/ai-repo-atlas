@@ -1,6 +1,6 @@
 # thu-nics/FrameFusion
 
-⭐ 80 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/thu-nics/FrameFusion) · [官网](https://fuvty.github.io/thinking_yard_project_page/projects/framefusion/) · 组织维护
+⭐ 81 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/thu-nics/FrameFusion) · [官网](https://fuvty.github.io/thinking_yard_project_page/projects/framefusion/) · 组织维护
 
 **大型视觉语言模型的视频 token 压缩方法（ICCV'25 官方代码）**
 

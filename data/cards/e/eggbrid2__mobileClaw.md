@@ -1,6 +1,6 @@
 # eggbrid2/mobileClaw
 
-⭐ 377 · Kotlin · NOASSERTION · 推送 2026-07-11 · [GitHub](https://github.com/eggbrid2/mobileClaw) · 个人维护 · 中文 README
+⭐ 378 · Kotlin · NOASSERTION · 推送 2026-07-11 · [GitHub](https://github.com/eggbrid2/mobileClaw) · 个人维护 · 中文 README
 
 **把安卓手机变成多 AI 角色竞技场的 agent 运行时应用**
 

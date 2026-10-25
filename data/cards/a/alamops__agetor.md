@@ -1,6 +1,6 @@
 # alamops/agetor
 
-⭐ 96 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/alamops/agetor) · [官网](https://agetor.dev) · 个人维护
+⭐ 97 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/alamops/agetor) · [官网](https://agetor.dev) · 个人维护
 
 **本地优先看板：并行运行多个 CLI 编码 agent 的编排器**
 

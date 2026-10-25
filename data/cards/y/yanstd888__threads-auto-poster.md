@@ -1,6 +1,6 @@
 # yanstd888/threads-auto-poster
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/yanstd888/threads-auto-poster) · [官网](https://threads.aiclub.ai.id/) · 个人维护
+⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/yanstd888/threads-auto-poster) · [官网](https://threads.aiclub.ai.id/) · 个人维护
 
 **自托管 Threads 发帖调度工作台，含可选 AI 起草与人工审批**
 

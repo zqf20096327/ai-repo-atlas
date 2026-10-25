@@ -1,6 +1,6 @@
 # AMAP-ML/Tree-GRPO
 
-⭐ 407 · Python · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/AMAP-ML/Tree-GRPO) · 组织维护 · 中文 README
+⭐ 408 · Python · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/AMAP-ML/Tree-GRPO) · 组织维护 · 中文 README
 
 **ICLR 2026 论文代码：树搜索策略强化学习训练 LLM agent**
 

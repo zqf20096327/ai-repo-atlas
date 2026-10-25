@@ -1,6 +1,6 @@
 # 1adrianb/face-alignment
 
-⭐ 7,547 · Python · BSD-3-Clause · 推送 2026-04-06 · [GitHub](https://github.com/1adrianb/face-alignment) · [官网](https://www.adrianbulat.com) · 个人维护
+⭐ 7,548 · Python · BSD-3-Clause · 推送 2026-04-06 · [GitHub](https://github.com/1adrianb/face-alignment) · [官网](https://www.adrianbulat.com) · 个人维护
 
 **PyTorch 实现的 2D/3D 人脸关键点检测库**
 

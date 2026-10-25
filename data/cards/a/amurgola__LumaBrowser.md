@@ -1,6 +1,6 @@
 # amurgola/LumaBrowser
 
-⭐ 125 · JavaScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/amurgola/LumaBrowser) · [官网](https://lumabyte.com) · 个人维护
+⭐ 126 · JavaScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/amurgola/LumaBrowser) · [官网](https://lumabyte.com) · 个人维护
 
 **集成 LLM 运行时与 AI 工具链的本地 Chromium 浏览器桌面应用**
 

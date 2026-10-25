@@ -1,6 +1,6 @@
 # 0xmariowu/Autosearch
 
-⭐ 51 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/0xmariowu/Autosearch) · [官网](https://www.autosearch.dev) · 个人维护 · 中文 README
+⭐ 52 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/0xmariowu/Autosearch) · [官网](https://www.autosearch.dev) · 个人维护 · 中文 README
 
 **给 AI agent 的 MCP 原生深度搜索工具：接入 40 个信息渠道**
 

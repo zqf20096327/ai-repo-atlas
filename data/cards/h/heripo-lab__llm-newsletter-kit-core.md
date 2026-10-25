@@ -1,6 +1,6 @@
 # heripo-lab/llm-newsletter-kit-core
 
-⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/heripo-lab/llm-newsletter-kit-core) · 个人维护
+⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/heripo-lab/llm-newsletter-kit-core) · 个人维护
 
 **TypeScript 工具包：自动化 LLM 驱动的领域新闻信生成流水线**
 

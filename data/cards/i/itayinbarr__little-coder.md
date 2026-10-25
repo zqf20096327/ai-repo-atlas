@@ -1,6 +1,6 @@
 # itayinbarr/little-coder
 
-⭐ 2,701 · TypeScript · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/itayinbarr/little-coder) · [官网](https://itayinbarr.github.io/little-coder/) · 个人维护
+⭐ 2,700 · TypeScript · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/itayinbarr/little-coder) · [官网](https://itayinbarr.github.io/little-coder/) · 个人维护
 
 **面向小型本地模型的终端编程代理（基于 pi 构建）**
 

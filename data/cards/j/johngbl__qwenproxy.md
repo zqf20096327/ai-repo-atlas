@@ -1,6 +1,6 @@
 # johngbl/qwenproxy
 
-⭐ 36 · TypeScript · ISC · 推送 2026-10-22 · [GitHub](https://github.com/johngbl/qwenproxy) · [官网](https://www.npmjs.com/package/qwenproxy-cli) · 个人维护
+⭐ 36 · TypeScript · ISC · 推送 2026-10-24 · [GitHub](https://github.com/johngbl/qwenproxy) · [官网](https://www.npmjs.com/package/qwenproxy-cli) · 个人维护
 
 **将 Qwen 网页版封装为 OpenAI/Anthropic 兼容 API 的本地网关**
 

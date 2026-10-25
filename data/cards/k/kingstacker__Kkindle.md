@@ -1,6 +1,6 @@
 # kingstacker/Kkindle
 
-⭐ 62 · C# · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/kingstacker/Kkindle) · [官网](https://kkindle.stacker.beauty/) · 个人维护 · 中文 README
+⭐ 65 · C# · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/kingstacker/Kkindle) · [官网](https://kkindle.stacker.beauty/) · 个人维护 · 中文 README
 
 **跨平台电子书与 Kindle 管理桌面应用，带 AI 助手**
 

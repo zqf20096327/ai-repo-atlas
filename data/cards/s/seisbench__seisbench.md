@@ -1,6 +1,6 @@
 # seisbench/seisbench
 
-⭐ 427 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/seisbench/seisbench) · 组织维护
+⭐ 428 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/seisbench/seisbench) · 组织维护
 
 **地震学机器学习工具箱：统一 API 加载数据集、训练与应用模型**
 

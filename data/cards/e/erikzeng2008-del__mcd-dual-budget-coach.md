@@ -1,6 +1,6 @@
 # erikzeng2008-del/mcd-dual-budget-coach
 
-⭐ 111 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/erikzeng2008-del/mcd-dual-budget-coach) · [官网](https://erikzeng2008-del.github.io/mcd-dual-budget-coach/) · 个人维护 · 中文 README
+⭐ 111 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/erikzeng2008-del/mcd-dual-budget-coach) · [官网](https://erikzeng2008-del.github.io/mcd-dual-budget-coach/) · 个人维护 · 中文 README
 
 **麦当劳中国双预算配餐 Agent 技能：钱和热量双闸门配餐**
 

@@ -1,6 +1,6 @@
 # Trusera/ai-bom
 
-⭐ 347 · Python · Apache-2.0 · 推送 2026-05-24 · [GitHub](https://github.com/Trusera/ai-bom) · [官网](https://trusera.dev) · 组织维护
+⭐ 348 · Python · Apache-2.0 · 推送 2026-05-24 · [GitHub](https://github.com/Trusera/ai-bom) · [官网](https://trusera.dev) · 组织维护
 
 **扫描代码库发现 AI 组件并生成合规 AI-BOM 的 CLI 工具**
 

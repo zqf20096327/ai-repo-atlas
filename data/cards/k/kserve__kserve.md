@@ -1,6 +1,6 @@
 # kserve/kserve
 
-⭐ 6,152 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kserve/kserve) · [官网](https://kserve.github.io/website/) · 组织维护
+⭐ 6,155 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/kserve/kserve) · [官网](https://kserve.github.io/website/) · 组织维护
 
 **Kubernetes 上的标准化 AI 推理服务平台（生成式+预测式）**
 

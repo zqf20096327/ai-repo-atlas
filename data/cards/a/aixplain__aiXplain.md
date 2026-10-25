@@ -1,6 +1,6 @@
 # aixplain/aiXplain
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aixplain/aiXplain) · 组织维护
+⭐ 59 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/aixplain/aiXplain) · 组织维护
 
 **Python SDK：将 AI agent 定义为代码并部署为 API**
 

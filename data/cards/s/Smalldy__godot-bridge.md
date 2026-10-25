@@ -1,6 +1,6 @@
 # Smalldy/godot-bridge
 
-⭐ 41 · GDScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Smalldy/godot-bridge) · 个人维护 · 中文 README
+⭐ 42 · GDScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Smalldy/godot-bridge) · 个人维护 · 中文 README
 
 **DSH 插件：让 DeepSeek agent 原生驱动 Godot 4.x 游戏开发**
 

@@ -1,6 +1,6 @@
 # intel/ros2_openvino_toolkit
 
-⭐ 187 · C++ · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/intel/ros2_openvino_toolkit) · 组织维护
+⭐ 188 · C++ · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/intel/ros2_openvino_toolkit) · 组织维护
 
 **将 Intel OpenVINO 集成到 ROS 2 的深度学习视觉推理运行时框架**
 

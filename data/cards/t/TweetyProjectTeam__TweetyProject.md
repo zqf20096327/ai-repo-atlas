@@ -1,6 +1,6 @@
 # TweetyProjectTeam/TweetyProject
 
-⭐ 44 · Java · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/TweetyProjectTeam/TweetyProject) · [官网](http://tweetyproject.org/) · 组织维护
+⭐ 44 · Java · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/TweetyProjectTeam/TweetyProject) · [官网](http://tweetyproject.org/) · 组织维护
 
 **符号 AI 与知识表示的 Java 库集合，面向科研与开发**
 

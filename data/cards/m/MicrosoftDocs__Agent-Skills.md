@@ -1,6 +1,6 @@
 # MicrosoftDocs/Agent-Skills
 
-⭐ 791 · CC-BY-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/MicrosoftDocs/Agent-Skills) · [官网](https://learn.microsoft.com/) · 组织维护
+⭐ 792 · CC-BY-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/MicrosoftDocs/Agent-Skills) · [官网](https://learn.microsoft.com/) · 组织维护
 
 **面向 Azure 开发的策展 Agent 技能库：193 个 SKILL.md 技能**
 

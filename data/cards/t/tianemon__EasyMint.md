@@ -1,6 +1,6 @@
 # tianemon/EasyMint
 
-⭐ 82 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/tianemon/EasyMint) · 个人维护 · 中文 README
+⭐ 83 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tianemon/EasyMint) · 个人维护 · 中文 README
 
 **桌面 AI 编程平台：内置 Pi Agent，让非技术用户对话式完成软件开发全流程**
 

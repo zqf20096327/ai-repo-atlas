@@ -1,6 +1,6 @@
 # 0xheycat/isometric-game-skills
 
-⭐ 40 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/0xheycat/isometric-game-skills) · [官网](https://0xheycat.github.io/isometric-game-skills/demo/) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/0xheycat/isometric-game-skills) · [官网](https://0xheycat.github.io/isometric-game-skills/demo/) · 个人维护
 
 **等距游戏开发 AI agent 技能集（21 个 SKILL.md，覆盖美术到引擎）**
 

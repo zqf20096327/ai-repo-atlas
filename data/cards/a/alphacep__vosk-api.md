@@ -1,6 +1,6 @@
 # alphacep/vosk-api
 
-⭐ 15,198 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/alphacep/vosk-api) · 组织维护
+⭐ 15,200 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/alphacep/vosk-api) · 组织维护
 
 **离线语音识别工具包：面向 20+ 语言的开发者 API**
 

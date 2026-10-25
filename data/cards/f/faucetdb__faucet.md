@@ -1,6 +1,6 @@
 # faucetdb/faucet
 
-⭐ 165 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/faucetdb/faucet) · [官网](https://www.faucetdb.ai) · 组织维护
+⭐ 166 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/faucetdb/faucet) · [官网](https://www.faucetdb.ai) · 组织维护
 
 **把任意 SQL 数据库变成带 RBAC 的 REST API 和 MCP 服务器**
 

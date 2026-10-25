@@ -1,6 +1,6 @@
 # aws-samples/sagemaker-custom-project-templates
 
-⭐ 239 · Python · MIT-0 · 推送 2026-04-21 · [GitHub](https://github.com/aws-samples/sagemaker-custom-project-templates) · [官网](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-whatis.html) · 组织维护
+⭐ 240 · Python · MIT-0 · 推送 2026-04-21 · [GitHub](https://github.com/aws-samples/sagemaker-custom-project-templates) · [官网](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-whatis.html) · 组织维护
 
 **为 SageMaker AI Projects 提供自定义 MLOps 项目模板集合**
 

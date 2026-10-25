@@ -1,6 +1,6 @@
 # FranciscoMoretti/chat-js
 
-⭐ 1,201 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/FranciscoMoretti/chat-js) · [官网](https://chatjs.dev) · 个人维护
+⭐ 1,201 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/FranciscoMoretti/chat-js) · [官网](https://chatjs.dev) · 个人维护
 
 **生产就绪的多模型 AI 聊天应用脚手架，供开发者自建聊天产品**
 

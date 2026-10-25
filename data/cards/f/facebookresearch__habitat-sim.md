@@ -1,6 +1,6 @@
 # facebookresearch/habitat-sim
 
-⭐ 3,849 · C++ · MIT · 推送 2026-07-21 · [GitHub](https://github.com/facebookresearch/habitat-sim) · [官网](https://aihabitat.org/) · 组织维护
+⭐ 3,850 · C++ · MIT · 推送 2026-07-21 · [GitHub](https://github.com/facebookresearch/habitat-sim) · [官网](https://aihabitat.org/) · 组织维护
 
 **面向具身智能研究的 3D 物理仿真平台**
 

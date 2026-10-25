@@ -1,6 +1,6 @@
 # run-llama/llama_index
 
-⭐ 52,641 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/run-llama/llama_index) · [官网](https://developers.llamaindex.ai) · 组织维护
+⭐ 52,661 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/run-llama/llama_index) · [官网](https://developers.llamaindex.ai) · 组织维护
 
 **构建 LLM/Agent 应用的开源数据框架（RAG 工具集）**
 

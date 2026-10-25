@@ -1,6 +1,6 @@
 # CHATS-lab/verbalized-sampling
 
-⭐ 814 · Python · NOASSERTION · 推送 2026-01-03 · [GitHub](https://github.com/CHATS-lab/verbalized-sampling) · [官网](https://www.verbalized-sampling.com/) · 组织维护
+⭐ 813 · Python · NOASSERTION · 推送 2026-01-03 · [GitHub](https://github.com/CHATS-lab/verbalized-sampling) · [官网](https://www.verbalized-sampling.com/) · 组织维护
 
 **缓解 LLM 模式坍缩的免训练提示策略库：让输出多样性提升 2-3 倍**
 

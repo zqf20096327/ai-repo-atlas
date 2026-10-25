@@ -1,6 +1,6 @@
 # zackchewa/awesome-china-mcp
 
-⭐ 43 · CC0-1.0 · 推送 2026-10-11 · [GitHub](https://github.com/zackchewa/awesome-china-mcp) · 个人维护 · 中文 README
+⭐ 46 · CC0-1.0 · 推送 2026-10-11 · [GitHub](https://github.com/zackchewa/awesome-china-mcp) · 个人维护 · 中文 README
 
 **面向中国应用与服务的 MCP Server 策展索引（官方优先）**
 

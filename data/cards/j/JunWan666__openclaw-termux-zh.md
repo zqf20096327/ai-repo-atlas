@@ -1,6 +1,6 @@
 # JunWan666/openclaw-termux-zh
 
-⭐ 208 · Dart · MIT · 推送 2026-09-01 · [GitHub](https://github.com/JunWan666/openclaw-termux-zh) · [官网](https://github.com/mithun50/openclaw-termux) · 个人维护 · 中文 README
+⭐ 209 · Dart · MIT · 推送 2026-09-01 · [GitHub](https://github.com/JunWan666/openclaw-termux-zh) · [官网](https://github.com/mithun50/openclaw-termux) · 个人维护 · 中文 README
 
 **OpenClaw 的 Android 中文整合客户端：手机上安装并管理 OpenClaw**
 

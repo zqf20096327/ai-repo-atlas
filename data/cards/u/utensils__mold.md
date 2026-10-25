@@ -1,6 +1,6 @@
 # utensils/mold
 
-⭐ 54 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/utensils/mold) · [官网](https://utensils.io/mold/) · 组织维护
+⭐ 54 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/utensils/mold) · [官网](https://utensils.io/mold/) · 组织维护
 
 **本地 AI 图像/视频生成引擎：CLI、桌面、移动端与 API 一体**
 

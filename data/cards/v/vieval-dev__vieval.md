@@ -1,6 +1,6 @@
 # vieval-dev/vieval
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vieval-dev/vieval) · [官网](https://vieval.dev/en/) · 组织维护
+⭐ 65 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vieval-dev/vieval) · [官网](https://vieval.dev/en/) · 组织维护
 
 **Vitest 风格的 agent/模型评测框架**
 

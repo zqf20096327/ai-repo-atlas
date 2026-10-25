@@ -1,6 +1,6 @@
 # dali-benothmen/woml
 
-⭐ 132 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/dali-benothmen/woml) · [官网](https://woml.org) · 个人维护
+⭐ 133 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/dali-benothmen/woml) · [官网](https://woml.org) · 个人维护
 
 **用 HTML 风格标记语言编写可持久化自动化工作流的运行时**
 

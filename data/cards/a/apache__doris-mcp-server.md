@@ -1,6 +1,6 @@
 # apache/doris-mcp-server
 
-⭐ 353 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/apache/doris-mcp-server) · [官网](https://doris.apache.org) · 组织维护
+⭐ 354 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/apache/doris-mcp-server) · [官网](https://doris.apache.org) · 组织维护
 
 **向 AI agent 只读暴露 Apache Doris 能力的 MCP 服务器**
 

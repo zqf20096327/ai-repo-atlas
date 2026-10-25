@@ -1,6 +1,6 @@
 # yuxinlaile/McD-saver
 
-⭐ 114 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/yuxinlaile/McD-saver) · [官网](https://yuxinlaile.github.io/McD-saver/demo.html) · 个人维护 · 中文 README
+⭐ 113 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/yuxinlaile/McD-saver) · [官网](https://yuxinlaile.github.io/McD-saver/demo.html) · 个人维护 · 中文 README
 
 **麦当劳中国省钱点餐 Agent Skill 与独立 CLI**
 

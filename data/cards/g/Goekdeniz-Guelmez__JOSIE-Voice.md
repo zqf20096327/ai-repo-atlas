@@ -1,6 +1,6 @@
 # Goekdeniz-Guelmez/JOSIE-Voice
 
-⭐ 50 · 推送 2026-10-21 · [GitHub](https://github.com/Goekdeniz-Guelmez/JOSIE-Voice) · [官网](https://goekdeniz-guelmez.github.io/JOSIE-Voice/) · 个人维护
+⭐ 51 · 推送 2026-10-21 · [GitHub](https://github.com/Goekdeniz-Guelmez/JOSIE-Voice) · [官网](https://goekdeniz-guelmez.github.io/JOSIE-Voice/) · 个人维护
 
 **Apple Silicon 上的本地语音助手：对话并操作 Mac 原生应用**
 

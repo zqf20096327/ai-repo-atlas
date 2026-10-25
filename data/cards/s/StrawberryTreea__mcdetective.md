@@ -1,6 +1,6 @@
 # StrawberryTreea/mcdetective
 
-⭐ 45 · HTML · 推送 2026-10-14 · [GitHub](https://github.com/StrawberryTreea/mcdetective) · [官网](https://mcdetective.app.workbuddy.host) · 个人维护 · 中文 README
+⭐ 76 · HTML · 推送 2026-10-14 · [GitHub](https://github.com/StrawberryTreea/mcdetective) · [官网](https://mcdetective.app.workbuddy.host) · 个人维护 · 中文 README
 
 **调麦当劳 MCP 只读查价比货的 AI 侦探工具**
 

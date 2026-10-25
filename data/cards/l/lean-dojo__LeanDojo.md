@@ -1,6 +1,6 @@
 # lean-dojo/LeanDojo
 
-⭐ 849 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/lean-dojo/LeanDojo) · [官网](https://leandojo.org/leandojo.html) · 组织维护
+⭐ 850 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/lean-dojo/LeanDojo) · [官网](https://leandojo.org/leandojo.html) · 组织维护
 
 **从 Lean 代码库抽取证明数据并以编程方式交互的 Python 库**
 

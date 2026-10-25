@@ -1,6 +1,6 @@
 # off-grid-ai/OGAD
 
-⭐ 132 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/off-grid-ai/OGAD) · [官网](https://getoffgridai.co/pro/) · 组织维护
+⭐ 132 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/off-grid-ai/OGAD) · [官网](https://getoffgridai.co/pro/) · 组织维护
 
 **桌面端本地私有 AI 助手：聊天/图像/语音 + OpenAI 兼容网关**
 

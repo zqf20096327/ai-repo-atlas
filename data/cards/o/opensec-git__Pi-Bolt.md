@@ -1,6 +1,6 @@
 # opensec-git/Pi-Bolt
 
-⭐ 532 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/opensec-git/Pi-Bolt) · [官网](https://pi-bolt.opensec.in) · 组织维护
+⭐ 568 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/opensec-git/Pi-Bolt) · [官网](https://pi-bolt.opensec.in) · 组织维护
 
 **Pi 编程代理的 AOT 原生编译分发版，单可执行文件启动**
 

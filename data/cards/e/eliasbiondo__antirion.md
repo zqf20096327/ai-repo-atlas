@@ -1,6 +1,6 @@
 # eliasbiondo/antirion
 
-⭐ 210 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/eliasbiondo/antirion) · [官网](https://antirion.ai) · 个人维护
+⭐ 278 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/eliasbiondo/antirion) · [官网](https://antirion.ai) · 个人维护
 
 **单二进制 Rust LLM 网关：统一接入多家模型商并路由计费**
 

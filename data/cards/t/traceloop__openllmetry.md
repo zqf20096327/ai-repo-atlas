@@ -1,6 +1,6 @@
 # traceloop/openllmetry
 
-⭐ 7,504 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/traceloop/openllmetry) · [官网](https://www.traceloop.com/openllmetry) · 组织维护
+⭐ 7,506 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/traceloop/openllmetry) · [官网](https://www.traceloop.com/openllmetry) · 组织维护
 
 **基于 OpenTelemetry 的 LLM 应用可观测性插桩集**
 

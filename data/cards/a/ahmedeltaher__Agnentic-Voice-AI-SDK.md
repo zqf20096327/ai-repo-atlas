@@ -1,6 +1,6 @@
 # ahmedeltaher/Agnentic-Voice-AI-SDK
 
-⭐ 2,581 · Kotlin · 推送 2026-06-01 · [GitHub](https://github.com/ahmedeltaher/Agnentic-Voice-AI-SDK) · [官网](https://ahmedeltaher.github.io/Android-MVVM-Architecture-Voice-AI/) · 个人维护
+⭐ 2,582 · Kotlin · 推送 2026-06-01 · [GitHub](https://github.com/ahmedeltaher/Agnentic-Voice-AI-SDK) · [官网](https://ahmedeltaher.github.io/Android-MVVM-Architecture-Voice-AI/) · 个人维护
 
 **Android 语音 AI 对话 SDK：为应用提供 STT-Claude-TTS 全链路**
 

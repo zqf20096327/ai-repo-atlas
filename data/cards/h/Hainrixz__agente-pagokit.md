@@ -1,6 +1,6 @@
 # Hainrixz/agente-pagokit
 
-⭐ 67 · JavaScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/Hainrixz/agente-pagokit) · [官网](https://tododeia.com) · 个人维护
+⭐ 67 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/agente-pagokit) · [官网](https://tododeia.com) · 个人维护
 
 **Claude Code 支付集成插件：选型并生成支付代码，带安全校验器**
 

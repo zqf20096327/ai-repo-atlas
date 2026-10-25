@@ -1,6 +1,6 @@
 # myunwang/LLMPET
 
-⭐ 124 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/myunwang/LLMPET) · 个人维护 · 中文 README
+⭐ 125 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/myunwang/LLMPET) · 个人维护 · 中文 README
 
 **监控 Claude Code/Codex/dsh 的桌宠工作台：状态表情、会话管理与交接**
 

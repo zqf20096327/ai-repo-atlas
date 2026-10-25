@@ -1,6 +1,6 @@
 # langchain-ai/agents-from-scratch-ts
 
-⭐ 54 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/agents-from-scratch-ts) · 组织维护
+⭐ 53 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/agents-from-scratch-ts) · 组织维护
 
 **LangGraph.js 邮件助手教程仓库：HITL 与记忆的渐进实现**
 

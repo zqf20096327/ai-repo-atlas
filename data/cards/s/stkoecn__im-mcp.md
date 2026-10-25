@@ -1,6 +1,6 @@
 # stkoecn/im-mcp
 
-⭐ 64 · Python · 推送 2026-10-22 · [GitHub](https://github.com/stkoecn/im-mcp) · [官网](https://github.com/stkoecn/im-mcp) · 个人维护 · 中文 README
+⭐ 69 · Python · 推送 2026-10-22 · [GitHub](https://github.com/stkoecn/im-mcp) · [官网](https://github.com/stkoecn/im-mcp) · 个人维护 · 中文 README
 
 **本地只读 MCP Server：让 AI Agent 检索微信与钉钉聊天记录**
 

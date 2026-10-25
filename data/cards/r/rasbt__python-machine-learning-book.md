@@ -1,6 +1,6 @@
 # rasbt/python-machine-learning-book
 
-⭐ 12,663 · Jupyter Notebook · MIT · 推送 2026-07-18 · [GitHub](https://github.com/rasbt/python-machine-learning-book) · 个人维护
+⭐ 12,664 · Jupyter Notebook · MIT · 推送 2026-07-18 · [GitHub](https://github.com/rasbt/python-machine-learning-book) · 个人维护
 
 **《Python Machine Learning》(第1版)一书的配套代码与资料仓库**
 

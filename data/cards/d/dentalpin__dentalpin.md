@@ -1,6 +1,6 @@
 # dentalpin/dentalpin
 
-⭐ 102 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/dentalpin/dentalpin) · [官网](https://www.dentalpin.com) · 组织维护
+⭐ 106 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/dentalpin/dentalpin) · [官网](https://www.dentalpin.com) · 组织维护
 
 **面向牙科诊所的开源可自托管管理系统，内置 AI Copilot**
 

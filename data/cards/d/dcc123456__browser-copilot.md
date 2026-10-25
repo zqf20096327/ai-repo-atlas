@@ -1,6 +1,6 @@
 # dcc123456/browser-copilot
 
-⭐ 36 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/dcc123456/browser-copilot) · [官网](https://dcc123456.github.io/browser-copilot/) · 个人维护 · 中文 README
+⭐ 37 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/dcc123456/browser-copilot) · [官网](https://dcc123456.github.io/browser-copilot/) · 个人维护 · 中文 README
 
 **Chrome 侧栏 AI 助手：读取当前页面并代你点击、填表、执行流程**
 

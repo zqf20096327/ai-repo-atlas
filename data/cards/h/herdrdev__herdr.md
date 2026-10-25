@@ -1,6 +1,6 @@
 # herdrdev/herdr
 
-⭐ 45,649 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/herdrdev/herdr) · [官网](https://herdr.dev) · 组织维护
+⭐ 45,815 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/herdrdev/herdr) · [官网](https://herdr.dev) · 组织维护
 
 **给编码 Agent 提供后台会话复用与多机终端管理的运行时**
 

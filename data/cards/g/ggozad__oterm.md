@@ -1,6 +1,6 @@
 # ggozad/oterm
 
-⭐ 2,445 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ggozad/oterm) · [官网](https://ggozad.github.io/oterm/) · 个人维护
+⭐ 2,447 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ggozad/oterm) · [官网](https://ggozad.github.io/oterm/) · 个人维护
 
 **终端里的 LLM 聊天客户端，接入多家模型服务**
 

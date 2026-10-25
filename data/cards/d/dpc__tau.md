@@ -1,6 +1,6 @@
 # dpc/tau
 
-⭐ 106 · Rust · MPL-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/dpc/tau) · [官网](https://tau-agent.dev/) · 个人维护
+⭐ 106 · Rust · MPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/dpc/tau) · [官网](https://tau-agent.dev/) · 个人维护
 
 **面向 Unix 命令行用户的极简本地 coding agent**
 

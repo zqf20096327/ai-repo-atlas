@@ -1,6 +1,6 @@
 # trustabl/agent-reliability-analyzer
 
-⭐ 79 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/trustabl/agent-reliability-analyzer) · 组织维护
+⭐ 79 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/trustabl/agent-reliability-analyzer) · 组织维护
 
 **AI agent 代码的本地静态扫描器：检出可靠性缺陷并自动生成修复**
 

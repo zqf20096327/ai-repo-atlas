@@ -1,6 +1,6 @@
 # Future-House/aviary
 
-⭐ 284 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Future-House/aviary) · [官网](https://futurehouse.gitbook.io/futurehouse-cookbook/aviary) · 组织维护
+⭐ 285 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Future-House/aviary) · [官网](https://futurehouse.gitbook.io/futurehouse-cookbook/aviary) · 组织维护
 
 **语言智能体强化学习环境库：科学任务的 gymnasium**
 

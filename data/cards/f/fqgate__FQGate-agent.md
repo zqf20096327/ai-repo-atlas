@@ -1,6 +1,6 @@
 # fqgate/FQGate-agent
 
-⭐ 265 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/fqgate/FQGate-agent) · 个人维护 · 中文 README
+⭐ 266 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/fqgate/FQGate-agent) · 个人维护 · 中文 README
 
 **让 Codex/Claude Code 等 AI 工具接入本机 A 股行情的插件层**
 

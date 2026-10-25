@@ -1,6 +1,6 @@
 # SvReenen/Deskdrop
 
-⭐ 58 · Kotlin · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/SvReenen/Deskdrop) · [官网](https://svreenen.github.io/Deskdrop/) · 个人维护
+⭐ 58 · Kotlin · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/SvReenen/Deskdrop) · [官网](https://svreenen.github.io/Deskdrop/) · 个人维护
 
 **带本地/云端 AI 的 Android 隐私键盘（HeliBoard 分支）**
 

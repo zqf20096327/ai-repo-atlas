@@ -1,6 +1,6 @@
 # agentshield-dev/agentshield
 
-⭐ 49 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/agentshield-dev/agentshield) · [官网](https://agent-shield.dev) · 组织维护
+⭐ 51 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/agentshield-dev/agentshield) · [官网](https://agent-shield.dev) · 组织维护
 
 **给 K8s/AWS 平台安全工程师的横向移动检测与修复建议工具**
 

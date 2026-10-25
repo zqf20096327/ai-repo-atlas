@@ -1,6 +1,6 @@
 # THU-SI/Spatial-MLLM
 
-⭐ 496 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/THU-SI/Spatial-MLLM) · [官网](https://diankun-wu.github.io/Spatial-MLLM/) · 组织维护 · 中文 README
+⭐ 497 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/THU-SI/Spatial-MLLM) · [官网](https://diankun-wu.github.io/Spatial-MLLM/) · 组织维护 · 中文 README
 
 **视频多模态大模型：提升视觉空间理解与推理能力**
 

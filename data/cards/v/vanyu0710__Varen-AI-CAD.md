@@ -1,6 +1,6 @@
 # vanyu0710/Varen-AI-CAD
 
-⭐ 59 · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/vanyu0710/Varen-AI-CAD) · [官网](https://vanyu0710.github.io/Varen-AI-CAD/) · 个人维护 · 中文 README
+⭐ 60 · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/vanyu0710/Varen-AI-CAD) · [官网](https://vanyu0710.github.io/Varen-AI-CAD/) · 个人维护 · 中文 README
 
 **AI CAD 建模 Agent：一句话需求产出可复核的参数化装配**
 

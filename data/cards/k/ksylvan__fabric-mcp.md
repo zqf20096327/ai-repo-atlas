@@ -1,6 +1,6 @@
 # ksylvan/fabric-mcp
 
-⭐ 89 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ksylvan/fabric-mcp) · 个人维护
+⭐ 89 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ksylvan/fabric-mcp) · 个人维护
 
 **把 Fabric AI 框架能力接入 MCP 客户端的 MCP 服务器**
 

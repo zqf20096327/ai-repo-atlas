@@ -1,6 +1,6 @@
 # xlnfinance/xln
 
-⭐ 102 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/xlnfinance/xln) · [官网](https://xln.finance) · 个人维护
+⭐ 102 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/xlnfinance/xln) · [官网](https://xln.finance) · 个人维护
 
 **信用+抵押双边账户的 L2 网络：让金融账户状态可验证**
 

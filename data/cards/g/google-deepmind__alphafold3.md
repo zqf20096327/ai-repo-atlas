@@ -1,6 +1,6 @@
 # google-deepmind/alphafold3
 
-⭐ 8,674 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/alphafold3) · 组织维护
+⭐ 8,679 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/alphafold3) · 组织维护
 
 **给结构生物学研究者：预测蛋白质及生物分子相互作用的推断管线**
 

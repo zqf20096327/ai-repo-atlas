@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-Android
 
-⭐ 75 · Kotlin · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Android) · [官网](https://www.xmaxai.com) · 组织维护 · 中文 README
+⭐ 76 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Android) · [官网](https://www.xmaxai.com) · 组织维护 · 中文 README
 
 **面向 Android 开发者的 Xmax 实时交互式视频生成 SDK**
 

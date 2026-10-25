@@ -1,6 +1,6 @@
 # jieapi/AiCode
 
-⭐ 315 · Kotlin · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/jieapi/AiCode) · [官网](https://aicode.murk.top) · 个人维护 · 中文 README
+⭐ 323 · Kotlin · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/jieapi/AiCode) · [官网](https://aicode.murk.top) · 个人维护 · 中文 README
 
 **Android 上的 AI 编程 Agent，内置 Linux 容器与代码编辑器**
 

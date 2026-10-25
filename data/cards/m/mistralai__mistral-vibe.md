@@ -1,6 +1,6 @@
 # mistralai/mistral-vibe
 
-⭐ 5,190 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mistralai/mistral-vibe) · 组织维护
+⭐ 5,198 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mistralai/mistral-vibe) · 组织维护
 
 **Mistral 官方的命令行 AI 编程助手**
 

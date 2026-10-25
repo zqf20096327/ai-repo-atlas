@@ -1,6 +1,6 @@
 # titanwings/ex-skill
 
-⭐ 1,090 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/titanwings/ex-skill) · 个人维护 · 中文 README
+⭐ 1,091 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/titanwings/ex-skill) · 个人维护 · 中文 README
 
 **用聊天记录生成前任数字人格 Skill，可对话的复刻**
 

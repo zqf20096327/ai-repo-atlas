@@ -1,6 +1,6 @@
 # crewAIInc/crewAI-quickstarts
 
-⭐ 68 · Jupyter Notebook · MIT · 推送 2026-05-20 · [GitHub](https://github.com/crewAIInc/crewAI-quickstarts) · [官网](https://docs.crewai.com) · 组织维护
+⭐ 69 · Jupyter Notebook · MIT · 推送 2026-05-20 · [GitHub](https://github.com/crewAIInc/crewAI-quickstarts) · [官网](https://docs.crewai.com) · 组织维护
 
 **CrewAI 框架的快速上手与功能示例集合**
 

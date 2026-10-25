@@ -1,6 +1,6 @@
 # DasterProkio/awesome-ai-companion
 
-⭐ 1,057 · HTML · CC-BY-4.0 · 推送 2026-10-24 · [GitHub](https://github.com/DasterProkio/awesome-ai-companion) · [官网](https://lutopia.app/companion/) · 个人维护 · 中文 README
+⭐ 1,068 · HTML · CC-BY-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/DasterProkio/awesome-ai-companion) · [官网](https://lutopia.app/companion/) · 个人维护 · 中文 README
 
 **长期 AI 伴侣开源项目清单：客户端、虚拟手机、社区与基础设施**
 

@@ -1,6 +1,6 @@
 # MoonshotAI/kimi-agent-sdk
 
-⭐ 579 · TypeScript · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/MoonshotAI/kimi-agent-sdk) · 组织维护
+⭐ 580 · TypeScript · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/MoonshotAI/kimi-agent-sdk) · 组织维护
 
 **在应用中接入 Kimi CLI agent 运行时的多语言 SDK**
 

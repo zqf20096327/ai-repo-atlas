@@ -1,6 +1,6 @@
 # monster-echo/CortexTerminal2
 
-⭐ 35 · C# · 推送 2026-10-24 · [GitHub](https://github.com/monster-echo/CortexTerminal2) · [官网](https://corterm.rwecho.top) · 个人维护 · 中文 README
+⭐ 35 · C# · 推送 2026-10-25 · [GitHub](https://github.com/monster-echo/CortexTerminal2) · [官网](https://corterm.rwecho.top) · 个人维护 · 中文 README
 
 **手机/浏览器远程连接服务器终端、追踪 AI Agent 的终端平台**
 

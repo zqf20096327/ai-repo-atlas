@@ -1,6 +1,6 @@
 # BBC6BAE9/a2ui-swift
 
-⭐ 65 · Swift · MIT · 推送 2026-09-24 · [GitHub](https://github.com/BBC6BAE9/a2ui-swift) · [官网](https://bbc6bae9.github.io/a2ui-swift/documentation/) · 个人维护
+⭐ 66 · Swift · MIT · 推送 2026-09-24 · [GitHub](https://github.com/BBC6BAE9/a2ui-swift) · [官网](https://bbc6bae9.github.io/a2ui-swift/documentation/) · 个人维护
 
 **把 AI 生成的 A2UI JSON 渲染为 Apple 原生 UI 的 Swift SDK**
 

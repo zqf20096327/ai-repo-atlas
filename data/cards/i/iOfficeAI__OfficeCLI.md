@@ -1,6 +1,6 @@
 # iOfficeAI/OfficeCLI
 
-⭐ 32,391 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/iOfficeAI/OfficeCLI) · [官网](https://officecli.ai) · 组织维护 · 中文 README
+⭐ 32,452 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/iOfficeAI/OfficeCLI) · [官网](https://officecli.ai) · 组织维护 · 中文 README
 
 **让 AI Agent 读写并自动化 Word/Excel/PPT 的 CLI 套件**
 

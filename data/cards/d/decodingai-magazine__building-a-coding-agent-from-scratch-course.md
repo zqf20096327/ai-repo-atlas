@@ -1,6 +1,6 @@
 # decodingai-magazine/building-a-coding-agent-from-scratch-course
 
-⭐ 729 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) · 组织维护
+⭐ 778 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) · 组织维护
 
 **面向工程师的开源课程：从零构建编程 Agent 学 harness 工程**
 

@@ -1,6 +1,6 @@
 # flyxl/datazen
 
-⭐ 117 · Rust · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/flyxl/datazen) · [官网](https://flyxl.github.io/datazen/) · 个人维护 · 中文 README
+⭐ 117 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/flyxl/datazen) · [官网](https://flyxl.github.io/datazen/) · 个人维护 · 中文 README
 
 **开源跨平台数据库桌面客户端，支持 AI 与 MCP agent 接入**
 

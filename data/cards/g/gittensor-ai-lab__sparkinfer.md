@@ -1,6 +1,6 @@
 # gittensor-ai-lab/sparkinfer
 
-⭐ 88 · C++ · MIT · 推送 2026-10-11 · [GitHub](https://github.com/gittensor-ai-lab/sparkinfer) · [官网](https://sparkinfer.com/) · 组织维护
+⭐ 90 · C++ · MIT · 推送 2026-10-11 · [GitHub](https://github.com/gittensor-ai-lab/sparkinfer) · [官网](https://sparkinfer.com/) · 组织维护
 
 **面向消费级/边缘 Blackwell GPU 的 C++/CUDA MoE/LLM 推理运行时**
 

@@ -1,6 +1,6 @@
 # RICHQAQ/PasteMD
 
-⭐ 5,395 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/RICHQAQ/PasteMD) · [官网](https://pastemd.richqaq.cn/) · 个人维护 · 中文 README
+⭐ 5,396 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/RICHQAQ/PasteMD) · [官网](https://pastemd.richqaq.cn/) · 个人维护 · 中文 README
 
 **常驻托盘工具：一键把 Markdown/AI 网页回复粘贴进 Word/WPS/Excel**
 

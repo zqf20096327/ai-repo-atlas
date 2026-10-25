@@ -1,6 +1,6 @@
 # databrickslabs/ontobricks
 
-⭐ 441 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/databrickslabs/ontobricks) · 组织维护
+⭐ 442 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/databrickslabs/ontobricks) · 组织维护
 
 **把 Databricks 表转成知识图谱并通过 MCP 发布给 AI agent 的应用**
 

@@ -1,6 +1,6 @@
 # henrique-coder/perplexity-webui-scraper
 
-⭐ 137 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/henrique-coder/perplexity-webui-scraper) · [官网](https://perplexity-webui-scraper.readthedocs.io) · 个人维护
+⭐ 138 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/henrique-coder/perplexity-webui-scraper) · [官网](https://perplexity-webui-scraper.readthedocs.io) · 个人维护
 
 **通过逆向 Perplexity WebUI 接口获取 AI 回答的 Python 库与 API/MCP 服务**
 

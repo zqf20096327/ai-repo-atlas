@@ -1,6 +1,6 @@
 # Staks-sor/ai-free
 
-⭐ 220 · JavaScript · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/Staks-sor/ai-free) · [官网](https://github.com/Staks-sor/ai-free#readme) · 个人维护
+⭐ 221 · JavaScript · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/Staks-sor/ai-free) · [官网](https://github.com/Staks-sor/ai-free#readme) · 个人维护
 
 **把 DeepSeek/Qwen/ChatGPT 网页聊天变为本地 AI 客户端与代码代理**
 

@@ -1,6 +1,6 @@
 # spences10/my-pi
 
-⭐ 137 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/spences10/my-pi) · [官网](https://my-pi.dev) · 个人维护
+⭐ 137 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/spences10/my-pi) · [官网](https://my-pi.dev) · 个人维护
 
 **基于 Pi SDK 的编码 agent CLI 发行版，预置 MCP/LSP/技能/遥测**
 

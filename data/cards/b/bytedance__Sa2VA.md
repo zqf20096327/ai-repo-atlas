@@ -1,6 +1,6 @@
 # bytedance/Sa2VA
 
-⭐ 1,690 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/bytedance/Sa2VA) · 组织维护
+⭐ 1,691 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/bytedance/Sa2VA) · 组织维护
 
 **像素级接地多模态大模型家族：SAM-2 与 MLLM 结合的图像视频分割理解**
 

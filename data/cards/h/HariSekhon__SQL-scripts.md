@@ -1,6 +1,6 @@
 # HariSekhon/SQL-scripts
 
-⭐ 491 · Shell · MIT · 推送 2026-02-03 · [GitHub](https://github.com/HariSekhon/SQL-scripts) · 个人维护
+⭐ 492 · Shell · MIT · 推送 2026-02-03 · [GitHub](https://github.com/HariSekhon/SQL-scripts) · 个人维护
 
 **100+ 数据库 SQL 脚本集：面向 DBA 与分析的即用查询**
 

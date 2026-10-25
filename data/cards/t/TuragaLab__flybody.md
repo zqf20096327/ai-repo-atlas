@@ -1,6 +1,6 @@
 # TuragaLab/flybody
 
-⭐ 973 · Python · Apache-2.0 · 推送 2026-02-07 · [GitHub](https://github.com/TuragaLab/flybody) · 组织维护
+⭐ 975 · Python · Apache-2.0 · 推送 2026-02-07 · [GitHub](https://github.com/TuragaLab/flybody) · 组织维护
 
 **果蝇解剖级 MuJoCo 身体模型与运动 RL 任务集**
 

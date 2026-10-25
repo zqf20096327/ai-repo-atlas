@@ -1,6 +1,6 @@
 # open-webui/open-webui
 
-⭐ 156,644 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护
+⭐ 156,726 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护
 
 **自托管 AI 交互界面，接入本地与云端多模型**
 

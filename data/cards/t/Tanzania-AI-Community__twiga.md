@@ -1,6 +1,6 @@
 # Tanzania-AI-Community/twiga
 
-⭐ 54 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Tanzania-AI-Community/twiga) · [官网](https://ai.or.tz/) · 组织维护
+⭐ 54 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Tanzania-AI-Community/twiga) · [官网](https://ai.or.tz/) · 组织维护
 
 **面向坦桑尼亚教师的 WhatsApp 教育 AI 聊天机器人**
 

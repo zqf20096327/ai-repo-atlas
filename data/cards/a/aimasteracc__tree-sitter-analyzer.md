@@ -1,6 +1,6 @@
 # aimasteracc/tree-sitter-analyzer
 
-⭐ 61 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/aimasteracc/tree-sitter-analyzer) · 个人维护 · 中文 README
+⭐ 61 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/aimasteracc/tree-sitter-analyzer) · 个人维护 · 中文 README
 
 **本地代码智能 MCP 服务器：为 AI agent 提供跨语言调用图与结构化查询**
 

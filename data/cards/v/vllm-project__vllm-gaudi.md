@@ -1,6 +1,6 @@
 # vllm-project/vllm-gaudi
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vllm-project/vllm-gaudi) · 组织维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/vllm-gaudi) · 组织维护
 
 **让 vLLM 在 Intel Gaudi 加速器上运行推理的硬件插件**
 

@@ -1,6 +1,6 @@
 # movieclaw/MovieClaw
 
-⭐ 182 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/movieclaw/MovieClaw) · [官网](https://movieclaw.io) · 组织维护 · 中文 README
+⭐ 184 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/movieclaw/MovieClaw) · [官网](https://movieclaw.io) · 组织维护 · 中文 README
 
 **一体化家庭媒体服务器，内置 AI 代理替代 *arr 全家桶**
 

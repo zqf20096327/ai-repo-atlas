@@ -1,6 +1,6 @@
 # ucbepic/docetl
 
-⭐ 4,140 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ucbepic/docetl) · [官网](https://docetl.org) · 组织维护
+⭐ 4,142 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ucbepic/docetl) · [官网](https://docetl.org) · 组织维护
 
 **LLM 驱动的声明式数据处理与 ETL 系统**
 

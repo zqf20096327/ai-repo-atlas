@@ -1,6 +1,6 @@
 # sb2702/websr
 
-⭐ 189 · Jupyter Notebook · MIT · 推送 2026-09-18 · [GitHub](https://github.com/sb2702/websr) · [官网](https://websr.dev) · 个人维护
+⭐ 190 · Jupyter Notebook · MIT · 推送 2026-09-18 · [GitHub](https://github.com/sb2702/websr) · [官网](https://websr.dev) · 个人维护
 
 **浏览器内实时 AI 超分辨率 JS 库，用 WebGPU 放大视频/图像**
 

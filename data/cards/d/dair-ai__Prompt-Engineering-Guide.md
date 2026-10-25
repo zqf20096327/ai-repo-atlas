@@ -1,6 +1,6 @@
 # dair-ai/Prompt-Engineering-Guide
 
-⭐ 79,491 · MDX · MIT · 推送 2026-03-11 · [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide) · [官网](https://www.promptingguide.ai/) · 组织维护
+⭐ 79,518 · MDX · MIT · 推送 2026-03-11 · [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide) · [官网](https://www.promptingguide.ai/) · 组织维护
 
 **面向研究者与开发者的提示工程指南：论文、课程、笔记本与资源合集**
 

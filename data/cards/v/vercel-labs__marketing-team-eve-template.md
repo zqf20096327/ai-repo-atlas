@@ -1,6 +1,6 @@
 # vercel-labs/marketing-team-eve-template
 
-⭐ 455 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vercel-labs/marketing-team-eve-template) · [官网](https://vercel.com/templates/eve/eve-marketing-team) · 组织维护
+⭐ 456 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vercel-labs/marketing-team-eve-template) · [官网](https://vercel.com/templates/eve/eve-marketing-team) · 组织维护
 
 **基于 eve 的营销 Agent 团队模板，产出博客/社媒/邮件内容**
 

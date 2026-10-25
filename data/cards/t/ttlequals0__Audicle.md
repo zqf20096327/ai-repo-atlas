@@ -1,6 +1,6 @@
 # ttlequals0/Audicle
 
-⭐ 99 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ttlequals0/Audicle) · 个人维护
+⭐ 99 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/ttlequals0/Audicle) · 个人维护
 
 **把收藏文章转成自托管播客的自建服务**
 

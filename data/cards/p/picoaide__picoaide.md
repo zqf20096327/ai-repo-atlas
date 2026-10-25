@@ -1,6 +1,6 @@
 # picoaide/picoaide
 
-⭐ 60 · Go · MIT · 推送 2026-07-28 · [GitHub](https://github.com/picoaide/picoaide) · [官网](https://www.picoaide.com) · 组织维护 · 中文 README
+⭐ 59 · Go · MIT · 推送 2026-07-28 · [GitHub](https://github.com/picoaide/picoaide) · [官网](https://www.picoaide.com) · 组织维护 · 中文 README
 
 **私有化部署的企业 AI 代理管理平台：沙箱隔离、统一认证**
 

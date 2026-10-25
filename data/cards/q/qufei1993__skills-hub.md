@@ -1,6 +1,6 @@
 # qufei1993/skills-hub
 
-⭐ 1,822 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/qufei1993/skills-hub) · [官网](https://aiskillshub.link) · 个人维护 · 中文 README
+⭐ 1,824 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/qufei1993/skills-hub) · [官网](https://aiskillshub.link) · 个人维护 · 中文 README
 
 **跨平台桌面应用：统一管理 Agent Skills 并同步到 48 种 AI 编码工具**
 

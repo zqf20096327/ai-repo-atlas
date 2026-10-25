@@ -1,6 +1,6 @@
 # promptfoo/promptfoo
 
-⭐ 26,377 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/promptfoo/promptfoo) · [官网](https://promptfoo.dev) · 组织维护
+⭐ 26,414 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/promptfoo/promptfoo) · [官网](https://promptfoo.dev) · 组织维护
 
 **为开发者提供 LLM 应用评估与红队扫描的 CLI/库**
 

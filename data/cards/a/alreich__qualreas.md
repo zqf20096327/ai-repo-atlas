@@ -1,6 +1,6 @@
 # alreich/qualreas
 
-⭐ 44 · Jupyter Notebook · MIT · 推送 2026-10-05 · [GitHub](https://github.com/alreich/qualreas) · [官网](https://qualreas.readthedocs.io/en/latest/) · 个人维护
+⭐ 44 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alreich/qualreas) · [官网](https://qualreas.readthedocs.io/en/latest/) · 个人维护
 
 **时空定性推理库：用关系代数与约束网络做一致性推理**
 

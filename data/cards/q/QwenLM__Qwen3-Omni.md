@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-Omni
 
-⭐ 4,073 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/QwenLM/Qwen3-Omni) · 组织维护 · 中文 README
+⭐ 4,075 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/QwenLM/Qwen3-Omni) · 组织维护 · 中文 README
 
 **阿里 Qwen 团队的端到端全模态模型，理解文/图/音/视频并流式生成语音**
 

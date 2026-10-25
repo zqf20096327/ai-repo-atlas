@@ -1,6 +1,6 @@
 # vectara/hallucination-leaderboard
 
-⭐ 3,322 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vectara/hallucination-leaderboard) · [官网](https://vectara.com) · 组织维护
+⭐ 3,323 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vectara/hallucination-leaderboard) · [官网](https://vectara.com) · 组织维护
 
 **公开 LLM 幻觉率排行榜：基于 HHEM 评测摘要忠实度**
 

@@ -1,6 +1,6 @@
 # karanb192/awesome-claude-skills
 
-⭐ 561 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/karanb192/awesome-claude-skills) · 个人维护 · 中文 README
+⭐ 563 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/karanb192/awesome-claude-skills) · 个人维护 · 中文 README
 
 **社区维护的 Claude 技能（Skills）目录清单，按任务分类**
 

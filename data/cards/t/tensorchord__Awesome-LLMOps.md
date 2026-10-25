@@ -1,6 +1,6 @@
 # tensorchord/Awesome-LLMOps
 
-⭐ 5,965 · Shell · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/tensorchord/Awesome-LLMOps) · 组织维护
+⭐ 5,967 · Shell · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/tensorchord/Awesome-LLMOps) · 组织维护
 
 **面向开发者的 LLMOps 工具策展清单**
 

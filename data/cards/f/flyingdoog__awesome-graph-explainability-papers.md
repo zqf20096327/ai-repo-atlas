@@ -1,6 +1,6 @@
 # flyingdoog/awesome-graph-explainability-papers
 
-⭐ 819 · 推送 2026-06-03 · [GitHub](https://github.com/flyingdoog/awesome-graph-explainability-papers) · 个人维护
+⭐ 818 · 推送 2026-06-03 · [GitHub](https://github.com/flyingdoog/awesome-graph-explainability-papers) · 个人维护
 
 **GNN 可解释性论文清单：收录综述、平台与近年会议/期刊论文**
 

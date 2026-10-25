@@ -1,6 +1,6 @@
 # chatchat-space/Langchain-Chatchat
 
-⭐ 38,702 · Python · Apache-2.0 · 推送 2025-11-10 · [GitHub](https://github.com/chatchat-space/Langchain-Chatchat) · 组织维护 · 中文 README
+⭐ 38,704 · Python · Apache-2.0 · 推送 2025-11-10 · [GitHub](https://github.com/chatchat-space/Langchain-Chatchat) · 组织维护 · 中文 README
 
 **给开发者的可离线部署本地知识库 RAG 与 Agent 应用**
 

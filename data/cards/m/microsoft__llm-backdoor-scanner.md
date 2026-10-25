@@ -1,6 +1,6 @@
 # microsoft/llm-backdoor-scanner
 
-⭐ 43 · Jupyter Notebook · MIT · 推送 2026-03-26 · [GitHub](https://github.com/microsoft/llm-backdoor-scanner) · 组织维护
+⭐ 45 · Jupyter Notebook · MIT · 推送 2026-03-26 · [GitHub](https://github.com/microsoft/llm-backdoor-scanner) · 组织维护
 
 **检测并重建微调 LLM 中隐藏后门触发词的研究框架**
 

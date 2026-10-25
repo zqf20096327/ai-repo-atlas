@@ -1,6 +1,6 @@
 # SwaggyMacro/EasyChat
 
-⭐ 52 · C# · MIT · 推送 2026-09-19 · [GitHub](https://github.com/SwaggyMacro/EasyChat) · [官网](https://easychat.ncii.cn) · 个人维护 · 中文 README
+⭐ 53 · C# · MIT · 推送 2026-09-19 · [GitHub](https://github.com/SwaggyMacro/EasyChat) · [官网](https://easychat.ncii.cn) · 个人维护 · 中文 README
 
 **桌面即时翻译与语言辅助工具：截图/划词/语音翻译**
 

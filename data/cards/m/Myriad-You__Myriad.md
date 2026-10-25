@@ -1,6 +1,6 @@
 # Myriad-You/Myriad
 
-⭐ 92 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Myriad-You/Myriad) · [官网](https://myriad.you) · 组织维护 · 中文 README
+⭐ 94 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Myriad-You/Myriad) · [官网](https://myriad.you) · 组织维护 · 中文 README
 
 **自托管个人主页与创作工作台：聚合平台数据并运行站点级 AI 角色**
 

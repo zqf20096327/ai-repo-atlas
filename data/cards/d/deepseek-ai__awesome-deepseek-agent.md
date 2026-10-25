@@ -1,6 +1,6 @@
 # deepseek-ai/awesome-deepseek-agent
 
-⭐ 6,294 · 推送 2026-09-17 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-agent) · 组织维护 · 中文 README
+⭐ 6,299 · 推送 2026-09-17 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-agent) · 组织维护 · 中文 README
 
 **将 DeepSeek 模型接入 AI agent 与编码助手工具的指南清单**
 

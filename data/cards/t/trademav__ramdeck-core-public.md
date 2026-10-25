@@ -1,6 +1,6 @@
 # trademav/ramdeck-core-public
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/trademav/ramdeck-core-public) · [官网](https://ramdeck.com) · 组织维护
+⭐ 63 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/trademav/ramdeck-core-public) · [官网](https://ramdeck.com) · 组织维护
 
 **把多台旧设备的 RAM 池化，分布式跑更大 LLM 的节点引擎**
 

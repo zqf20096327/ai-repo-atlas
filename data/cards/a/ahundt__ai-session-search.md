@@ -1,6 +1,6 @@
 # ahundt/ai-session-search
 
-⭐ 49 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ahundt/ai-session-search) · [官网](https://github.com/ahundt/ai-session-search) · 个人维护
+⭐ 49 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ahundt/ai-session-search) · [官网](https://github.com/ahundt/ai-session-search) · 个人维护
 
 **本地 AI 编程会话的统一搜索与分析工具（Rust）**
 

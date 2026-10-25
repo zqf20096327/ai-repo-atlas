@@ -1,6 +1,6 @@
 # airmang/python-hwpx-automation
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/airmang/python-hwpx-automation) · [官网](https://pypi.org/project/hwpx-mcp-server/) · 个人维护 · 中文 README
+⭐ 68 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/airmang/python-hwpx-automation) · [官网](https://pypi.org/project/hwpx-mcp-server/) · 个人维护 · 中文 README
 
 **供 AI agent 读写编辑 HWPX 韩文文档的 Python 层与 MCP 服务器**
 

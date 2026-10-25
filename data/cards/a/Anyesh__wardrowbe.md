@@ -1,6 +1,6 @@
 # Anyesh/wardrowbe
 
-⭐ 798 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Anyesh/wardrowbe) · [官网](https://wardrowbe.com) · 个人维护 · 中文 README
+⭐ 803 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Anyesh/wardrowbe) · [官网](https://wardrowbe.com) · 个人维护 · 中文 README
 
 **自托管 AI 衣柜管理应用：拍照建档并推荐每日穿搭**
 

@@ -1,6 +1,6 @@
 # arturict/tagvico-ai
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/arturict/tagvico-ai) · [官网](https://tagvico.arturf.ch/) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/arturict/tagvico-ai) · [官网](https://tagvico.arturf.ch/) · 个人维护
 
 **Paperless-ngx 的自托管行动中心与审批门控 AI 伴侣**
 

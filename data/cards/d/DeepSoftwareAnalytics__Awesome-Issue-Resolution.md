@@ -1,6 +1,6 @@
 # DeepSoftwareAnalytics/Awesome-Issue-Resolution
 
-⭐ 88 · Python · 推送 2026-09-23 · [GitHub](https://github.com/DeepSoftwareAnalytics/Awesome-Issue-Resolution) · [官网](https://deepsoftwareanalytics.github.io/Awesome-Issue-Resolution/) · 组织维护
+⭐ 89 · Python · 推送 2026-09-23 · [GitHub](https://github.com/DeepSoftwareAnalytics/Awesome-Issue-Resolution) · [官网](https://deepsoftwareanalytics.github.io/Awesome-Issue-Resolution/) · 组织维护
 
 **LLM 驱动的软件 issue 自动解决综述与论文清单（286 篇，14 类）**
 

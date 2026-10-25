@@ -1,6 +1,6 @@
 # agnaistic/agnai
 
-⭐ 788 · TypeScript · AGPL-3.0 · 推送 2026-06-15 · [GitHub](https://github.com/agnaistic/agnai) · [官网](https://agnai.chat) · 组织维护
+⭐ 789 · TypeScript · AGPL-3.0 · 推送 2026-06-15 · [GitHub](https://github.com/agnaistic/agnai) · [官网](https://agnai.chat) · 组织维护
 
 **多用户多角色的 AI 角色扮演聊天自托管平台**
 

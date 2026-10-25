@@ -1,6 +1,6 @@
 # tomehq/tome
 
-⭐ 379 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/tomehq/tome) · [官网](https://tome.center) · 组织维护
+⭐ 378 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/tomehq/tome) · [官网](https://tome.center) · 组织维护
 
 **面向开发者的开源自托管文档站生成平台，写 Markdown 即得文档站点**
 

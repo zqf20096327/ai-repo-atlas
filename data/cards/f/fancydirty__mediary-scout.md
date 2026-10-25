@@ -1,6 +1,6 @@
 # fancydirty/mediary-scout
 
-⭐ 1,568 · TypeScript · 0BSD · 推送 2026-10-23 · [GitHub](https://github.com/fancydirty/mediary-scout) · [官网](https://mediaryscout.app) · 个人维护 · 中文 README
+⭐ 1,583 · TypeScript · 0BSD · 推送 2026-10-23 · [GitHub](https://github.com/fancydirty/mediary-scout) · [官网](https://mediaryscout.app) · 个人维护 · 中文 README
 
 **给自部署用户的 agent 驱动网盘媒体库，自动搜片转存补缺**
 

@@ -1,6 +1,6 @@
 # mtrnix/metronix-memory
 
-⭐ 107 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mtrnix/metronix-memory) · [官网](https://mtrnix.com) · 组织维护
+⭐ 106 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mtrnix/metronix-memory) · [官网](https://mtrnix.com) · 组织维护
 
 **自托管的 AI agent 记忆服务器：MCP 接入、混合检索、持久记忆**
 

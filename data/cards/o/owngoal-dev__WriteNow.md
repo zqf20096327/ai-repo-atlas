@@ -1,6 +1,6 @@
 # owngoal-dev/WriteNow
 
-⭐ 124 · Swift · MIT · 推送 2026-10-15 · [GitHub](https://github.com/owngoal-dev/WriteNow) · [官网](https://havoc.app/package/writenow) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **iOS 越狱文本编辑菜单的 AI 写作助手**
 
@@ -11,7 +11,7 @@ iOS 平台的 AI 写作助手：以越狱 tweak 形式集成到系统文本编�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

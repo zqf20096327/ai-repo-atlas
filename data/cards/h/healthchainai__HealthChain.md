@@ -1,6 +1,6 @@
 # healthchainai/HealthChain
 
-⭐ 229 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/healthchainai/HealthChain) · [官网](https://healthchainai.github.io/HealthChain/) · 组织维护
+⭐ 230 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/healthchainai/HealthChain) · [官网](https://healthchainai.github.io/HealthChain/) · 组织维护
 
 **面向医疗 AI 的 Python SDK：连接真实 FHIR API 并构建校验 FHIR 输出**
 

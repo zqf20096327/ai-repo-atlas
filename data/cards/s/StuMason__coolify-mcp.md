@@ -1,6 +1,6 @@
 # StuMason/coolify-mcp
 
-⭐ 615 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/StuMason/coolify-mcp) · [官网](https://coolify-mcp.stumason.dev) · 个人维护
+⭐ 616 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/StuMason/coolify-mcp) · [官网](https://coolify-mcp.stumason.dev) · 个人维护
 
 **MCP server：通过 AI 客户端用自然语言管理 Coolify 自托管 PaaS**
 

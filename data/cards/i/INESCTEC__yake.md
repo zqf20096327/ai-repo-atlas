@@ -1,6 +1,6 @@
 # INESCTEC/yake
 
-⭐ 1,891 · Jupyter Notebook · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/INESCTEC/yake) · [官网](https://inesctec.github.io/yake) · 组织维护
+⭐ 1,892 · Jupyter Notebook · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/INESCTEC/yake) · [官网](https://inesctec.github.io/yake) · 组织维护
 
 **无监督单文档关键词抽取库，免训练免语料**
 

@@ -1,6 +1,6 @@
 # pycaret/pycaret
 
-⭐ 9,859 · Python · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/pycaret/pycaret) · [官网](https://pycaret.org) · 组织维护
+⭐ 9,860 · Python · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/pycaret/pycaret) · [官网](https://pycaret.org) · 组织维护
 
 **自托管开源 AutoML 平台：训练、注册、部署模型一体化**
 

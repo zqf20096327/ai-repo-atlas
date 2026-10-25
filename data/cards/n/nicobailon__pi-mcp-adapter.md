@@ -1,6 +1,6 @@
 # nicobailon/pi-mcp-adapter
 
-⭐ 1,614 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nicobailon/pi-mcp-adapter) · 个人维护
+⭐ 1,615 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nicobailon/pi-mcp-adapter) · 个人维护
 
 **让 Pi coding agent 以低 token 开销接入 MCP 服务器的适配器**
 

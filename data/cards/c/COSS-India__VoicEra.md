@@ -1,6 +1,6 @@
 # COSS-India/VoicEra
 
-⭐ 318 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/COSS-India/VoicEra) · [官网](https://voicera.mintlify.app/docs/guides) · 组织维护
+⭐ 317 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/COSS-India/VoicEra) · [官网](https://voicera.mintlify.app/docs/guides) · 组织维护
 
 **自托管实时语音 AI 电话代理平台，可自选模型与运营商**
 

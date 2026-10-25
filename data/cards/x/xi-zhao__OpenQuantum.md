@@ -1,6 +1,6 @@
 # xi-zhao/OpenQuantum
 
-⭐ 71 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/xi-zhao/OpenQuantum) · [官网](https://xi-zhao.github.io/OpenQuantum/) · 个人维护 · 中文 README
+⭐ 71 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/xi-zhao/OpenQuantum) · [官网](https://xi-zhao.github.io/OpenQuantum/) · 个人维护 · 中文 README
 
 **面向量子科研的开源 AI Agent 平台：桌面端+Codex 插件**
 

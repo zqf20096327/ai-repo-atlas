@@ -1,6 +1,6 @@
 # leonzzz435/garmin-ai-coach
 
-⭐ 153 · Python · MIT · 推送 2026-01-31 · [GitHub](https://github.com/leonzzz435/garmin-ai-coach) · 个人维护
+⭐ 154 · Python · MIT · 推送 2026-01-31 · [GitHub](https://github.com/leonzzz435/garmin-ai-coach) · 个人维护
 
 **把 Garmin Connect 数据变成 AI 训练分析与赛季计划报告的 CLI 工具**
 

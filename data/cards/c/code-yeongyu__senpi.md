@@ -1,6 +1,6 @@
 # code-yeongyu/senpi
 
-⭐ 489 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/code-yeongyu/senpi) · 个人维护
+⭐ 495 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/code-yeongyu/senpi) · 个人维护
 
 **pi-mono 的分叉：TypeScript 编码 agent 运行时，内置扩展集**
 

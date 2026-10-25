@@ -1,6 +1,6 @@
 # google-deepmind/meltingpot
 
-⭐ 897 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/google-deepmind/meltingpot) · 组织维护
+⭐ 899 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/google-deepmind/meltingpot) · 组织维护
 
 **多智能体强化学习评测基准：50+ substrates、256+ 测试场景**
 

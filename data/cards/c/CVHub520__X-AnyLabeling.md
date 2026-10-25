@@ -1,6 +1,6 @@
 # CVHub520/X-AnyLabeling
 
-⭐ 10,786 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/CVHub520/X-AnyLabeling) · [官网](https://xanylabeling.com) · 个人维护 · 中文 README
+⭐ 10,794 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/CVHub520/X-AnyLabeling) · [官网](https://xanylabeling.com) · 个人维护 · 中文 README
 
 **AI 辅助数据标注桌面应用：文本/图像/视频/点云/多模态**
 

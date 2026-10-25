@@ -1,6 +1,6 @@
 # IGNF/FLAIR-HUB
 
-⭐ 54 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/IGNF/FLAIR-HUB) · [官网](https://ignf.github.io/FLAIR/FLAIR-HUB/flairhub.html) · 组织维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/IGNF/FLAIR-HUB) · [官网](https://ignf.github.io/FLAIR/FLAIR-HUB/flairhub.html) · 组织维护
 
 **FLAIR-HUB 遥感数据集的多模态语义分割训练与推理代码**
 

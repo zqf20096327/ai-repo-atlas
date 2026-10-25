@@ -1,6 +1,6 @@
 # open-webui/docs
 
-⭐ 902 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/open-webui/docs) · [官网](https://docs.openwebui.com) · 组织维护
+⭐ 904 · JavaScript · 推送 2026-10-25 · [GitHub](https://github.com/open-webui/docs) · [官网](https://docs.openwebui.com) · 组织维护
 
 **Open WebUI 官方文档站：部署、插件、API 与 RAG 使用指南**
 

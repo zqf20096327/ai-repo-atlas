@@ -1,6 +1,6 @@
 # Treasure-hub-agent/interactive-fiction-skill
 
-⭐ 37 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Treasure-hub-agent/interactive-fiction-skill) · [官网](https://github.com/Treasure-hub-agent/interactive-fiction-skill) · 组织维护 · 中文 README
+⭐ 38 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Treasure-hub-agent/interactive-fiction-skill) · [官网](https://github.com/Treasure-hub-agent/interactive-fiction-skill) · 组织维护 · 中文 README
 
 **装进 AI 助手的中文互动小说创作技能：你选，它写**
 

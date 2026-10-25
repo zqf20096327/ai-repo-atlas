@@ -1,6 +1,6 @@
 # LeDat98/NexusRAG
 
-⭐ 529 · Python · 推送 2026-04-20 · [GitHub](https://github.com/LeDat98/NexusRAG) · 个人维护
+⭐ 528 · Python · 推送 2026-04-20 · [GitHub](https://github.com/LeDat98/NexusRAG) · 个人维护
 
 **带引用与知识图谱的混合 RAG 知识库问答系统**
 

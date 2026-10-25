@@ -1,6 +1,6 @@
 # qijun1900/MiaowTest
 
-⭐ 78 · Vue · MIT · 推送 2026-08-01 · [GitHub](https://github.com/qijun1900/MiaowTest) · [官网](https://github.com/qijun1900/MiaoTest) · 个人维护 · 中文 README
+⭐ 79 · Vue · MIT · 推送 2026-08-01 · [GitHub](https://github.com/qijun1900/MiaowTest) · [官网](https://github.com/qijun1900/MiaoTest) · 个人维护 · 中文 README
 
 **跨平台智能刷题系统：多题型练习+AI 对话与学习工具**
 

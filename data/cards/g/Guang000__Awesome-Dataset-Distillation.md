@@ -1,6 +1,6 @@
 # Guang000/Awesome-Dataset-Distillation
 
-⭐ 1,979 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Guang000/Awesome-Dataset-Distillation) · [官网](https://guang000.github.io/Awesome-Dataset-Distillation/) · 组织维护
+⭐ 1,980 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Guang000/Awesome-Dataset-Distillation) · [官网](https://guang000.github.io/Awesome-Dataset-Distillation/) · 组织维护
 
 **数据集蒸馏领域论文策展清单，按方法类别组织**
 

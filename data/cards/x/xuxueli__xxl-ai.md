@@ -1,6 +1,6 @@
 # xuxueli/xxl-ai
 
-⭐ 51 · Vue · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/xuxueli/xxl-ai) · [官网](http://www.xuxueli.com/xxl-ai/) · 个人维护 · 中文 README
+⭐ 51 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/xuxueli/xxl-ai) · [官网](http://www.xuxueli.com/xxl-ai/) · 个人维护 · 中文 README
 
 **云本结合的 AI Agent 开发平台：云版编排发布 + 本地桌面工作台**
 

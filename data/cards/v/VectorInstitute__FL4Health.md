@@ -1,6 +1,6 @@
 # VectorInstitute/FL4Health
 
-⭐ 57 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/VectorInstitute/FL4Health) · [官网](https://vectorinstitute.github.io/FL4Health/) · 组织维护
+⭐ 57 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/VectorInstitute/FL4Health) · [官网](https://vectorinstitute.github.io/FL4Health/) · 组织维护
 
 **面向医疗场景的联邦学习研究框架，基于 Flower 扩展**
 

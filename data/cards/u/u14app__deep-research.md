@@ -1,6 +1,6 @@
 # u14app/deep-research
 
-⭐ 4,691 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/u14app/deep-research) · [官网](https://research.u14.app) · 个人维护 · 中文 README
+⭐ 4,687 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/u14app/deep-research) · [官网](https://research.u14.app) · 个人维护 · 中文 README
 
 **多模型深度研究工具：数分钟生成带引用的研究报告**
 

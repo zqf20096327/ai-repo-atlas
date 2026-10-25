@@ -1,6 +1,6 @@
 # paraboy-s/mcd-meal-pairing
 
-⭐ 56 · Python · 推送 2026-10-22 · [GitHub](https://github.com/paraboy-s/mcd-meal-pairing) · [官网](https://paraboy-s.github.io/mcd-meal-pairing/preview.html) · 个人维护 · 中文 README
+⭐ 130 · Python · 推送 2026-10-22 · [GitHub](https://github.com/paraboy-s/mcd-meal-pairing) · [官网](https://paraboy-s.github.io/mcd-meal-pairing/preview.html) · 个人维护 · 中文 README
 
 **给点麦当劳的人算最优配餐的 Agent Skill：确定性求解、可追溯**
 

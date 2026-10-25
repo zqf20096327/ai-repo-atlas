@@ -1,6 +1,6 @@
 # mmschlk/shapiq
 
-⭐ 790 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mmschlk/shapiq) · [官网](https://shapiq.readthedocs.io) · 组织维护
+⭐ 790 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mmschlk/shapiq) · [官网](https://shapiq.readthedocs.io) · 组织维护
 
 **Python 库：计算任意阶 Shapley 交互以解释模型预测**
 

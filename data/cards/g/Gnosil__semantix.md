@@ -1,6 +1,6 @@
 # Gnosil/semantix
 
-⭐ 811 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Gnosil/semantix) · [官网](https://semantix.ensureok.ai) · 组织维护 · 中文 README
+⭐ 812 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Gnosil/semantix) · [官网](https://semantix.ensureok.ai) · 组织维护 · 中文 README
 
 **AI 编码代理的跨会话记忆内核与语义缓存层，降低调用成本**
 

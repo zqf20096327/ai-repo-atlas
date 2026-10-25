@@ -1,6 +1,6 @@
 # moe-mizrak/laravel-openrouter
 
-⭐ 159 · PHP · MIT · 推送 2026-06-11 · [GitHub](https://github.com/moe-mizrak/laravel-openrouter) · [官网](https://moe-mizrak.gitbook.io/laravel-openrouter/) · 个人维护
+⭐ 158 · PHP · MIT · 推送 2026-06-11 · [GitHub](https://github.com/moe-mizrak/laravel-openrouter) · [官网](https://moe-mizrak.gitbook.io/laravel-openrouter/) · 个人维护
 
 **Laravel 包：将 OpenRouter 统一 LLM API 接入 Laravel 应用**
 

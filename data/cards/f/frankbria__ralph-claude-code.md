@@ -1,6 +1,6 @@
 # frankbria/ralph-claude-code
 
-⭐ 9,713 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/frankbria/ralph-claude-code) · 个人维护
+⭐ 9,717 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/frankbria/ralph-claude-code) · 个人维护
 
 **让 Claude Code 持续自主迭代的开发循环驱动器**
 

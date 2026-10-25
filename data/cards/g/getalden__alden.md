@@ -1,6 +1,6 @@
 # getalden/alden
 
-⭐ 98 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/getalden/alden) · [官网](https://getalden.dev) · 个人维护
+⭐ 98 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/getalden/alden) · [官网](https://getalden.dev) · 个人维护
 
 **本地运行的 PR 审查助手：排序待审 PR 并定位需关注代码**
 

@@ -1,6 +1,6 @@
 # fancyboi999/open-tag
 
-⭐ 212 · TypeScript · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/fancyboi999/open-tag) · [官网](https://getopentag.com) · 个人维护 · 中文 README
+⭐ 213 · TypeScript · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/fancyboi999/open-tag) · [官网](https://getopentag.com) · 个人维护 · 中文 README
 
 **自托管的人机 AI agent 协作工作区，Claude Tag 开源替代**
 

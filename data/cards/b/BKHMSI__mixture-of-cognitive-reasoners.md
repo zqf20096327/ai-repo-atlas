@@ -1,6 +1,6 @@
 # BKHMSI/mixture-of-cognitive-reasoners
 
-⭐ 46 · Python · 推送 2026-02-07 · [GitHub](https://github.com/BKHMSI/mixture-of-cognitive-reasoners) · [官网](https://cognitive-reasoners.epfl.ch) · 组织维护
+⭐ 47 · Python · 推送 2026-02-07 · [GitHub](https://github.com/BKHMSI/mixture-of-cognitive-reasoners) · [官网](https://cognitive-reasoners.epfl.ch) · 组织维护
 
 **脑功能特化专家模块的模块化推理模型（论文代码）**
 

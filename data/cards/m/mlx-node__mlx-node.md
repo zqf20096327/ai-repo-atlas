@@ -1,6 +1,6 @@
 # mlx-node/mlx-node
 
-⭐ 166 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mlx-node/mlx-node) · [官网](https://mlx.void.app) · 组织维护
+⭐ 166 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mlx-node/mlx-node) · [官网](https://mlx.void.app) · 组织维护
 
 **Node.js 运行 MLX 模型的推理/训练工具链**
 

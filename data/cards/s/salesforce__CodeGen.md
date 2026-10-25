@@ -1,6 +1,6 @@
 # salesforce/CodeGen
 
-⭐ 5,185 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/CodeGen) · 组织维护
+⭐ 5,186 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/CodeGen) · 组织维护
 
 **Salesforce 开源程序合成代码模型（CodeGen1/2/2.5）**
 

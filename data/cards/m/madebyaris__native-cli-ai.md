@@ -1,6 +1,6 @@
 # madebyaris/native-cli-ai
 
-⭐ 199 · Rust · 推送 2026-07-12 · [GitHub](https://github.com/madebyaris/native-cli-ai) · [官网](https://nca-cli.com) · 个人维护
+⭐ 200 · Rust · 推送 2026-10-25 · [GitHub](https://github.com/madebyaris/native-cli-ai) · [官网](https://nca-cli.com) · 个人维护
 
 **Rust 单二进制终端编码 agent：会话、子 agent 与编排一体**
 

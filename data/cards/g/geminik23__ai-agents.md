@@ -1,6 +1,6 @@
 # geminik23/ai-agents
 
-⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/geminik23/ai-agents) · [官网](https://ai-agents.rs) · 个人维护
+⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/geminik23/ai-agents) · [官网](https://ai-agents.rs) · 个人维护
 
 **Rust 声明式 AI agent 框架：一份 YAML 定义并运行 agent**
 

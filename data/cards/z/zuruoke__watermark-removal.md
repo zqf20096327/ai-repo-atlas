@@ -1,6 +1,6 @@
 # zuruoke/watermark-removal
 
-⭐ 5,193 · Python · 推送 2026-08-14 · [GitHub](https://github.com/zuruoke/watermark-removal) · 个人维护
+⭐ 5,196 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zuruoke/watermark-removal) · 个人维护
 
 **机器学习图像修复：从图片中移除水印的深度学习工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

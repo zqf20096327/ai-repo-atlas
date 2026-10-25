@@ -1,6 +1,6 @@
 # jgravelle/jdocmunch-mcp
 
-⭐ 206 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/jgravelle/jdocmunch-mcp) · [官网](https://j.gravelle.us/jDocMunch) · 个人维护
+⭐ 207 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/jgravelle/jdocmunch-mcp) · [官网](https://j.gravelle.us/jDocMunch) · 个人维护
 
 **面向编码 agent 的 MCP 文档检索服务器：按章节索引精确取用**
 

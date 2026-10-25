@@ -1,6 +1,6 @@
 # DataFog/datafog-python
 
-⭐ 80 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/DataFog/datafog-python) · [官网](https://datafog.ai) · 组织维护
+⭐ 80 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/DataFog/datafog-python) · [官网](https://datafog.ai) · 组织维护
 
 **面向 AI 应用的离线 PII 检测与脱敏 Python 库**
 

@@ -1,6 +1,6 @@
 # openreelio/openreelio
 
-⭐ 87 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openreelio/openreelio) · [官网](https://openreelio.com) · 组织维护
+⭐ 88 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openreelio/openreelio) · [官网](https://openreelio.com) · 组织维护
 
 **面向内容创作者的 AI 桌面视频剪辑器，支持自然语言剪辑指令**
 

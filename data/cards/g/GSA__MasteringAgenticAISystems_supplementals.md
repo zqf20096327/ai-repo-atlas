@@ -1,6 +1,6 @@
 # GSA/MasteringAgenticAISystems_supplementals
 
-⭐ 48 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/GSA/MasteringAgenticAISystems_supplementals) · [官网](https://gsa.github.io/MasteringAgenticAISystems_supplementals/) · 组织维护
+⭐ 48 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/GSA/MasteringAgenticAISystems_supplementals) · [官网](https://gsa.github.io/MasteringAgenticAISystems_supplementals/) · 组织维护
 
 **面向多厂商 Agentic AI 认证考试的公开学习指南与配套资料库**
 

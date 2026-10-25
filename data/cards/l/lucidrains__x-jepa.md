@@ -1,6 +1,6 @@
 # lucidrains/x-jepa
 
-⭐ 131 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/lucidrains/x-jepa) · 个人维护
+⭐ 131 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lucidrains/x-jepa) · 个人维护
 
 **JEPA 类自监督世界模型架构的探索性代码库**
 

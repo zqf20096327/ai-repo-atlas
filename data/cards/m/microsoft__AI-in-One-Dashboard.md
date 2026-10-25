@@ -1,6 +1,6 @@
 # microsoft/AI-in-One-Dashboard
 
-⭐ 95 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/AI-in-One-Dashboard) · [官网](https://aka.ms/Analytics-Hub) · 组织维护
+⭐ 95 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/AI-in-One-Dashboard) · [官网](https://aka.ms/Analytics-Hub) · 组织维护
 
 **面向企业 AI 决策者的 M365 Copilot/Agent 采用度 Power BI 看板**
 

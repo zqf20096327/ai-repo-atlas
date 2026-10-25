@@ -1,6 +1,6 @@
 # naimkatiman/tradeclaw
 
-⭐ 43 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/naimkatiman/tradeclaw) · [官网](https://tradeclaw.win) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/naimkatiman/tradeclaw) · [官网](https://tradeclaw.win) · 个人维护 · 中文 README
 
 **自托管的加密交易信号研究终端：生成信号并公开可审计账本**
 

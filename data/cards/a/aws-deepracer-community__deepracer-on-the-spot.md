@@ -1,6 +1,6 @@
 # aws-deepracer-community/deepracer-on-the-spot
 
-⭐ 55 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/aws-deepracer-community/deepracer-on-the-spot) · 组织维护
+⭐ 55 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/aws-deepracer-community/deepracer-on-the-spot) · 组织维护
 
 **用 EC2/Spot 实例运行 DeepRacer 训练的 CloudFormation 模板集**
 

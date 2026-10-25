@@ -1,6 +1,6 @@
 # zmy15/DeepSeek-for-VisualStudio
 
-⭐ 127 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zmy15/DeepSeek-for-VisualStudio) · [官网](https://marketplace.visualstudio.com/items?itemName=zmy15.DS4-VS) · 个人维护 · 中文 README
+⭐ 129 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zmy15/DeepSeek-for-VisualStudio) · [官网](https://marketplace.visualstudio.com/items?itemName=zmy15.DS4-VS) · 个人维护 · 中文 README
 
 **Visual Studio 的 AI 编程助手扩展：对话、行内补全与五个自主 agent**
 

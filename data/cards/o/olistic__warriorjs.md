@@ -1,6 +1,6 @@
 # olistic/warriorjs
 
-⭐ 9,544 · TypeScript · MIT · 推送 2026-03-27 · [GitHub](https://github.com/olistic/warriorjs) · [官网](https://warriorjs.com) · 个人维护
+⭐ 9,545 · TypeScript · MIT · 推送 2026-03-27 · [GitHub](https://github.com/olistic/warriorjs) · [官网](https://warriorjs.com) · 个人维护
 
 **通过写代码操控战士闯塔来学习 JavaScript/TypeScript 的编程游戏**
 

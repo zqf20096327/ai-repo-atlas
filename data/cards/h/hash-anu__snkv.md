@@ -1,6 +1,6 @@
 # hash-anu/snkv
 
-⭐ 78 · C · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/hash-anu/snkv) · [官网](https://hash-anu.github.io/snkv/) · 个人维护
+⭐ 79 · C · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/hash-anu/snkv) · [官网](https://hash-anu.github.io/snkv/) · 个人维护
 
 **C 编写的嵌入式 ACID 键值存储，可选 HNSW 向量检索**
 

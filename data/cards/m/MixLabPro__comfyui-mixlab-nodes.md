@@ -1,6 +1,6 @@
 # MixLabPro/comfyui-mixlab-nodes
 
-⭐ 1,867 · JavaScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/MixLabPro/comfyui-mixlab-nodes) · [官网](https://mixlabnodes.com) · 个人维护 · 中文 README
+⭐ 1,869 · JavaScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/MixLabPro/comfyui-mixlab-nodes) · [官网](https://mixlabnodes.com) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：工作流转 Web App、GPT/语音/3D 等多类节点**
 

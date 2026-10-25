@@ -1,6 +1,6 @@
 # helixml/kodit
 
-⭐ 125 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/helixml/kodit) · [官网](https://docs.helix.ml/kodit/) · 组织维护
+⭐ 125 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/helixml/kodit) · [官网](https://docs.helix.ml/kodit/) · 组织维护
 
 **索引 Git 仓库与文档、供 AI 助手检索的 MCP/REST 服务器**
 

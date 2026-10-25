@@ -1,6 +1,6 @@
 # huiliyi37/Tianshu-harness
 
-⭐ 1,154 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/huiliyi37/Tianshu-harness) · [官网](https://tianshuharness.com/) · 个人维护 · 中文 README
+⭐ 1,153 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/huiliyi37/Tianshu-harness) · [官网](https://tianshuharness.com/) · 个人维护 · 中文 README
 
 **面向开发者的终端/桌面编程 agent 认知运行时，证据驱动交付**
 

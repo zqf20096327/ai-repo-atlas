@@ -1,6 +1,6 @@
 # yejiming/MuseAI
 
-⭐ 672 · TypeScript · 推送 2026-08-14 · [GitHub](https://github.com/yejiming/MuseAI) · 个人维护 · 中文 README
+⭐ 674 · TypeScript · 推送 2026-08-14 · [GitHub](https://github.com/yejiming/MuseAI) · 个人维护 · 中文 README
 
 **本地 AI 伴侣、文字冒险与穿书互动桌面应用**
 

@@ -1,6 +1,6 @@
 # microsoft/semantic-kernel-java
 
-⭐ 276 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/semantic-kernel-java) · 组织维护
+⭐ 277 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/semantic-kernel-java) · 组织维护
 
 **面向 Java 开发者的 LLM 编排 SDK：插件链式调用与 AI 规划**
 

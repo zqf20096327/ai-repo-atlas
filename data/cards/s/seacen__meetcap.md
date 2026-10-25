@@ -1,6 +1,6 @@
 # seacen/meetcap
 
-⭐ 244 · Shell · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/seacen/meetcap) · [官网](https://meetcap.seacen.dev) · 个人维护 · 中文 README
+⭐ 279 · Shell · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/seacen/meetcap) · [官网](https://meetcap.seacen.dev) · 个人维护 · 中文 README
 
 **Mac 端本地转录会议并生成纪要的会议助手**
 

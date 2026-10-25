@@ -1,6 +1,6 @@
 # datawhalechina/handy-ollama
 
-⭐ 2,542 · Jupyter Notebook · NOASSERTION · 推送 2026-01-15 · [GitHub](https://github.com/datawhalechina/handy-ollama) · [官网](https://datawhalechina.github.io/handy-ollama/) · 组织维护 · 中文 README
+⭐ 2,543 · Jupyter Notebook · NOASSERTION · 推送 2026-01-15 · [GitHub](https://github.com/datawhalechina/handy-ollama) · [官网](https://datawhalechina.github.io/handy-ollama/) · 组织维护 · 中文 README
 
 **动手学 Ollama 教程：CPU 部署本地大模型的中文开源教程**
 

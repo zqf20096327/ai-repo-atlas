@@ -1,6 +1,6 @@
 # liyupi/github-global
 
-⭐ 130 · TypeScript · 推送 2026-03-03 · [GitHub](https://github.com/liyupi/github-global) · [官网](https://www.codefather.cn/course/2014303010343092226) · 个人维护 · 中文 README
+⭐ 129 · TypeScript · 推送 2026-03-03 · [GitHub](https://github.com/liyupi/github-global) · [官网](https://www.codefather.cn/course/2014303010343092226) · 个人维护 · 中文 README
 
 **教学项目：GitHub 仓库文档 AI 多语言翻译 SaaS 平台**
 

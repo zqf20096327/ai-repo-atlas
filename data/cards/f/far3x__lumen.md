@@ -1,6 +1,6 @@
 # far3x/lumen
 
-⭐ 71 · Python · MIT · 推送 2025-10-29 · [GitHub](https://github.com/far3x/lumen) · [官网](https://lumen.onl/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Lumen Protocol 官方 CLI：代码转 LLM 提示词并向网络提交**
 
@@ -11,7 +11,7 @@ Lumen Protocol 的官方命令行客户端，包含两类命令：网络命令�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

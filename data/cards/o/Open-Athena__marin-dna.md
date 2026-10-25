@@ -1,6 +1,6 @@
 # Open-Athena/marin-dna
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/Open-Athena/marin-dna) · [官网](http://openathena.ai/marin-dna/) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/Open-Athena/marin-dna) · [官网](http://openathena.ai/marin-dna/) · 组织维护
 
 **基因组语言模型的开放研发项目：数据、建模与评估**
 

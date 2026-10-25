@@ -1,6 +1,6 @@
 # taxueseek/argo
 
-⭐ 205 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/taxueseek/argo) · 个人维护 · 中文 README
+⭐ 206 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/taxueseek/argo) · 个人维护 · 中文 README
 
 **给 Agent 用的搜索与深度研究工具，聚合 264 个搜索源**
 

@@ -1,6 +1,6 @@
 # EmilianoMJ11/transformers-training-recipes
 
-⭐ 53 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/EmilianoMJ11/transformers-training-recipes) · 个人维护
+⭐ 53 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/EmilianoMJ11/transformers-training-recipes) · 个人维护
 
 **Hugging Face Trainer 训练示例与微调配方参考合集**
 

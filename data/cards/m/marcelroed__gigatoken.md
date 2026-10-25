@@ -1,6 +1,6 @@
 # marcelroed/gigatoken
 
-⭐ 4,133 · Rust · MIT · 推送 2026-09-02 · [GitHub](https://github.com/marcelroed/gigatoken) · 个人维护
+⭐ 4,136 · Rust · MIT · 推送 2026-09-02 · [GitHub](https://github.com/marcelroed/gigatoken) · 个人维护
 
 **面向语言建模的高速分词库，宣称 GB/s 级编码吞吐**
 

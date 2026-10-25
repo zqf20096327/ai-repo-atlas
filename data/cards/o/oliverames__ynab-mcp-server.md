@@ -1,6 +1,6 @@
 # oliverames/ynab-mcp-server
 
-⭐ 40 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/oliverames/ynab-mcp-server) · [官网](https://www.npmjs.com/package/@oliverames/mcp-server-for-ynab) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/oliverames/ynab-mcp-server) · [官网](https://www.npmjs.com/package/@oliverames/mcp-server-for-ynab) · 个人维护
 
 **YNAB 的本地 MCP 服务器：让 AI 助手安全读写预算数据**
 

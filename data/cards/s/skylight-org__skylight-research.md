@@ -1,6 +1,6 @@
 # skylight-org/skylight-research
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/skylight-org/skylight-research) · [官网](https://sky-light.eecs.berkeley.edu) · 组织维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/skylight-org/skylight-research) · [官网](https://sky-light.eecs.berkeley.edu) · 组织维护
 
 **研究者的稀疏注意力框架：实现、组合与长文本评测**
 

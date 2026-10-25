@@ -1,6 +1,6 @@
 # WindyLab/LLM-RL-Papers
 
-⭐ 561 · 推送 2025-11-17 · [GitHub](https://github.com/WindyLab/LLM-RL-Papers) · 组织维护
+⭐ 560 · 推送 2025-11-17 · [GitHub](https://github.com/WindyLab/LLM-RL-Papers) · 组织维护
 
 **追踪 LLM×强化学习交叉研究的论文清单，聚焦控制方向**
 

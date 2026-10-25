@@ -1,6 +1,6 @@
 # programming-pupil/aos
 
-⭐ 38 · Rust · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/programming-pupil/aos) · 个人维护 · 中文 README
+⭐ 38 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/programming-pupil/aos) · 个人维护 · 中文 README
 
 **Web 优先的多租户 Agent 操作系统，构建可恢复的 Agent 工作流**
 

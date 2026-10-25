@@ -1,6 +1,6 @@
 # ai4co/reevo
 
-⭐ 305 · Python · MIT · 推送 2026-01-24 · [GitHub](https://github.com/ai4co/reevo) · [官网](https://ai4co.github.io/reevo/) · 组织维护 · 中文 README
+⭐ 306 · Python · MIT · 推送 2026-01-24 · [GitHub](https://github.com/ai4co/reevo) · [官网](https://ai4co.github.io/reevo/) · 组织维护 · 中文 README
 
 **用 LLM 反思进化自动生成组合优化启发式算法的研究框架**
 

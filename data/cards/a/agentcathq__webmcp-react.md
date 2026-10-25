@@ -1,6 +1,6 @@
 # agentcathq/webmcp-react
 
-⭐ 91 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/agentcathq/webmcp-react) · 组织维护
+⭐ 92 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/agentcathq/webmcp-react) · 组织维护
 
 **让 React 应用把功能暴露为 WebMCP 工具供 AI agent 调用的 hooks 库**
 

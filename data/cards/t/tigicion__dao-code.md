@@ -1,6 +1,6 @@
 # tigicion/dao-code
 
-⭐ 787 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tigicion/dao-code) · [官网](https://www.npmjs.com/package/dao-code) · 个人维护 · 中文 README
+⭐ 788 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tigicion/dao-code) · [官网](https://www.npmjs.com/package/dao-code) · 个人维护 · 中文 README
 
 **面向 DeepSeek V4 的终端 AI 编程助手（命令 dao）**
 

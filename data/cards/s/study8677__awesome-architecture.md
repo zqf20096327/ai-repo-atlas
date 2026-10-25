@@ -1,6 +1,6 @@
 # study8677/awesome-architecture
 
-⭐ 2,467 · Vue · MIT · 推送 2026-09-21 · [GitHub](https://github.com/study8677/awesome-architecture) · [官网](https://study8677.github.io/awesome-architecture/) · 个人维护 · 中文 README
+⭐ 2,468 · Vue · MIT · 推送 2026-09-21 · [GitHub](https://github.com/study8677/awesome-architecture) · [官网](https://study8677.github.io/awesome-architecture/) · 个人维护 · 中文 README
 
 **架构知识库：教程、系统模板与端到端案例，面向架构学习者**
 

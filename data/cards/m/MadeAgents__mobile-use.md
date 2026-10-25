@@ -1,6 +1,6 @@
 # MadeAgents/mobile-use
 
-⭐ 243 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/MadeAgents/mobile-use) · [官网](https://arxiv.org/abs/2507.16853) · 组织维护 · 中文 README
+⭐ 244 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/MadeAgents/mobile-use) · [官网](https://arxiv.org/abs/2507.16853) · 组织维护 · 中文 README
 
 **安卓真机自动化 GUI agent：用多模态大模型完成长程手机任务**
 

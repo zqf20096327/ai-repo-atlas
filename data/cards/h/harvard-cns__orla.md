@@ -1,6 +1,6 @@
 # harvard-cns/orla
 
-⭐ 261 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/harvard-cns/orla) · [官网](https://orlaserver.github.io/) · 组织维护
+⭐ 261 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/harvard-cns/orla) · [官网](https://orlaserver.github.io/) · 组织维护
 
 **面向 agentic 工作流的运行时自适应执行层**
 

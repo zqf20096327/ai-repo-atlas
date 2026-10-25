@@ -1,6 +1,6 @@
 # dirge-code/dirge
 
-⭐ 375 · Rust · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/dirge-code/dirge) · 组织维护
+⭐ 376 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/dirge-code/dirge) · 组织维护
 
 **Rust 编写的轻量终端编码 agent，带跨会话记忆**
 

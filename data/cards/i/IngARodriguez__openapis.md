@@ -1,6 +1,6 @@
 # IngARodriguez/openapis
 
-⭐ 87 · MIT · 推送 2026-06-02 · [GitHub](https://github.com/IngARodriguez/openapis) · [官网](https://openapis.online/) · 个人维护
+⭐ 88 · MIT · 推送 2026-06-02 · [GitHub](https://github.com/IngARodriguez/openapis) · [官网](https://openapis.online/) · 个人维护
 
 **统一代理：免费转发 OpenAI 与 Anthropic API（托管服务）**
 

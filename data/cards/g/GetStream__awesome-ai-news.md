@@ -1,6 +1,6 @@
 # GetStream/awesome-ai-news
 
-⭐ 101 · 推送 2026-10-23 · [GitHub](https://github.com/GetStream/awesome-ai-news) · 组织维护
+⭐ 102 · 推送 2026-10-23 · [GitHub](https://github.com/GetStream/awesome-ai-news) · 组织维护
 
 **面向开发者的 AI 新闻月度清单，按月汇总模型与工具动态**
 

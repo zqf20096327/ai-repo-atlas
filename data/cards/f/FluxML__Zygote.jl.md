@@ -1,6 +1,6 @@
 # FluxML/Zygote.jl
 
-⭐ 1,576 · Julia · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/FluxML/Zygote.jl) · [官网](https://fluxml.ai/Zygote.jl/) · 组织维护
+⭐ 1,577 · Julia · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/FluxML/Zygote.jl) · [官网](https://fluxml.ai/Zygote.jl/) · 组织维护
 
 **Julia 语言的源到源自动微分库**
 

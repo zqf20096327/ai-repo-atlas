@@ -1,6 +1,6 @@
 # supernovae-st/nika
 
-⭐ 95 · Rust · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/supernovae-st/nika) · [官网](https://nika.sh) · 组织维护
+⭐ 95 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/supernovae-st/nika) · [官网](https://nika.sh) · 组织维护
 
 **把重复 AI 工作写成可检查工作流文件的 Rust CLI 工具**
 

@@ -1,6 +1,6 @@
 # wannabespace/tamery
 
-⭐ 1,458 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/wannabespace/tamery) · [官网](https://tamery.app) · 组织维护
+⭐ 1,458 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/wannabespace/tamery) · [官网](https://tamery.app) · 组织维护
 
 **面向用户与 AI agent 的桌面/网页数据库客户端**
 

@@ -1,6 +1,6 @@
 # RoshanGH/mixed_cut
 
-⭐ 48 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/RoshanGH/mixed_cut) · [官网](https://github.com/RoshanGH/mixed_cut/releases) · 个人维护 · 中文 README
+⭐ 49 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/RoshanGH/mixed_cut) · [官网](https://github.com/RoshanGH/mixed_cut/releases) · 个人维护 · 中文 README
 
 **给广告投放团队的 macOS 混剪工具：AI 切分镜批量出广告**
 

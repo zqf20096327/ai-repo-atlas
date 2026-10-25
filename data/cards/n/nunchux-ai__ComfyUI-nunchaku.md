@@ -1,6 +1,6 @@
 # nunchux-ai/ComfyUI-nunchaku
 
-⭐ 2,932 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/nunchux-ai/ComfyUI-nunchaku) · [官网](https://nunchaku.tech/docs/ComfyUI-nunchaku/) · 组织维护 · 中文 README
+⭐ 2,931 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/nunchux-ai/ComfyUI-nunchaku) · [官网](https://nunchaku.tech/docs/ComfyUI-nunchaku/) · 组织维护 · 中文 README
 
 **Nunchaku 4-bit 推理引擎的 ComfyUI 插件，低显存跑图**
 

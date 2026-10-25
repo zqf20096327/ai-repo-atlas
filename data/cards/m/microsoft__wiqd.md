@@ -1,6 +1,6 @@
 # microsoft/wiqd
 
-⭐ 38 · PowerShell · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/wiqd) · 组织维护
+⭐ 39 · PowerShell · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/wiqd) · 组织维护
 
 **微软 365 Copilot 声明式智能体的全生命周期开发工具集**
 

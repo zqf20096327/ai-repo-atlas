@@ -1,6 +1,6 @@
 # dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge
 
-⭐ 53 · JavaScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge) · [官网](https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge) · 个人维护 · 中文 README
+⭐ 54 · JavaScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge) · [官网](https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge) · 个人维护 · 中文 README
 
 **给 ComfyUI 的 WebUI 式提示词工作台节点：中文翻译、Tag 补全、LoRA 管理与区域控制**
 

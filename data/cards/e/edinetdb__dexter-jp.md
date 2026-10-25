@@ -1,6 +1,6 @@
 # edinetdb/dexter-jp
 
-⭐ 314 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/edinetdb/dexter-jp) · [官网](https://edinetdb.jp) · 组织维护
+⭐ 315 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/edinetdb/dexter-jp) · [官网](https://edinetdb.jp) · 组织维护
 
 **日本上市公司的自律型金融研究 AI 代理，自动规划并生成报告**
 

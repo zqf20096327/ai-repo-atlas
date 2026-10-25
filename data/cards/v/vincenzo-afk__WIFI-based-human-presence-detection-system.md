@@ -1,6 +1,6 @@
 # vincenzo-afk/WIFI-based-human-presence-detection-system
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 个人维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 个人维护
 
 **基于 WiFi CSI 的人体存在/区域/活动检测实时仪表盘**
 

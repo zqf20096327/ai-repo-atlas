@@ -1,6 +1,6 @@
 # 1EchA/how-to-vibecoding
 
-⭐ 930 · MIT · 推送 2026-04-27 · [GitHub](https://github.com/1EchA/how-to-vibecoding) · 个人维护 · 中文 README
+⭐ 931 · MIT · 推送 2026-04-27 · [GitHub](https://github.com/1EchA/how-to-vibecoding) · 个人维护 · 中文 README
 
 **Vibecoding 中文系列教程：环境搭建到多智能体协作**
 

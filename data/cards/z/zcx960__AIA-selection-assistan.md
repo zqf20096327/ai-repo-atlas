@@ -1,6 +1,6 @@
 # zcx960/AIA-selection-assistan
 
-⭐ 54 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zcx960/AIA-selection-assistan) · 个人维护 · 中文 README
+⭐ 53 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zcx960/AIA-selection-assistan) · 个人维护 · 中文 README
 
 **macOS/Windows 全局划词 AI 助手：翻译润色解释、截图识图**
 

@@ -1,6 +1,6 @@
 # Goldziher/uncomment
 
-⭐ 139 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Goldziher/uncomment) · 个人维护
+⭐ 140 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Goldziher/uncomment) · 个人维护
 
 **基于 tree-sitter AST 移除代码注释并做 TODO 类注释 lint 的 CLI**
 

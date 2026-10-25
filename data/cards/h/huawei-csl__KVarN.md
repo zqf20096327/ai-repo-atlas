@@ -1,6 +1,6 @@
 # huawei-csl/KVarN
 
-⭐ 512 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/huawei-csl/KVarN) · [官网](https://arxiv.org/abs/2606.03458) · 组织维护
+⭐ 513 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/huawei-csl/KVarN) · [官网](https://arxiv.org/abs/2606.03458) · 组织维护
 
 **vLLM 原生 KV-cache 量化后端：免校准提升上下文容量**
 

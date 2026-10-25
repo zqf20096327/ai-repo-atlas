@@ -1,6 +1,6 @@
 # PetroIvaniuk/llms-tools
 
-⭐ 329 · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/PetroIvaniuk/llms-tools) · 个人维护
+⭐ 329 · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/PetroIvaniuk/llms-tools) · 个人维护
 
 **LLM 与 AI 研究项目/模型/课程资料聚合清单**
 

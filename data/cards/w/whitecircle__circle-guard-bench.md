@@ -1,6 +1,6 @@
 # whitecircle/circle-guard-bench
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-03-07 · [GitHub](https://github.com/whitecircle/circle-guard-bench) · [官网](https://whitecircle.ai) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-03-07 · [GitHub](https://github.com/whitecircle/circle-guard-bench) · [官网](https://whitecircle.ai) · 组织维护
 
 **评估 LLM 护栏模型防护能力的基准测试框架**
 

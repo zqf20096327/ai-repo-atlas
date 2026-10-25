@@ -1,6 +1,6 @@
 # onuralpszr/trackforge
 
-⭐ 35 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/onuralpszr/trackforge) · [官网](https://onuralpszr.github.io/trackforge/) · 个人维护
+⭐ 35 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/onuralpszr/trackforge) · [官网](https://onuralpszr.github.io/trackforge/) · 个人维护
 
 **Rust 实现的多目标跟踪库：统一 API 供 Python/Rust 调用**
 

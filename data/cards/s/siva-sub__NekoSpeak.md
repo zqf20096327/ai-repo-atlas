@@ -1,6 +1,6 @@
 # siva-sub/NekoSpeak
 
-⭐ 186 · Kotlin · MIT · 推送 2026-05-19 · [GitHub](https://github.com/siva-sub/NekoSpeak) · 个人维护
+⭐ 189 · Kotlin · MIT · 推送 2026-05-19 · [GitHub](https://github.com/siva-sub/NekoSpeak) · 个人维护
 
 **安卓离线 AI 文字转语音应用，多 TTS 引擎本地运行**
 

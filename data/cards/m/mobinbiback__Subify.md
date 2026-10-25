@@ -1,6 +1,6 @@
 # mobinbiback/Subify
 
-⭐ 44 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/mobinbiback/Subify) · [官网](http://sub-ify.site/) · 个人维护 · 中文 README
+⭐ 45 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/mobinbiback/Subify) · [官网](http://sub-ify.site/) · 个人维护 · 中文 README
 
 **浏览器扩展：网页/视频的 AI 翻译、双语字幕、AI 配音与语言学习**
 

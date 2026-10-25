@@ -1,6 +1,6 @@
 # kimtth/azure-openai-llm-notes
 
-⭐ 409 · Python · 推送 2026-10-21 · [GitHub](https://github.com/kimtth/azure-openai-llm-notes) · [官网](https://github.com/kimtth/awesome-azure-openai-copilot) · 个人维护
+⭐ 412 · Python · 推送 2026-10-21 · [GitHub](https://github.com/kimtth/azure-openai-llm-notes) · [官网](https://github.com/kimtth/awesome-azure-openai-copilot) · 个人维护
 
 **Azure OpenAI 与 LLM 应用资源的策展清单（月度更新）**
 

@@ -1,6 +1,6 @@
 # multimindlab/multimind-sdk
 
-⭐ 97 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/multimindlab/multimind-sdk) · [官网](https://www.multimind.dev) · 组织维护
+⭐ 97 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/multimindlab/multimind-sdk) · [官网](https://www.multimind.dev) · 组织维护
 
 **面向开发者的合规优先 AI agent 框架：统一接入多模型并内置治理**
 

@@ -1,6 +1,6 @@
 # PySpur-Dev/pyspur
 
-⭐ 5,792 · TypeScript · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/PySpur-Dev/pyspur) · [官网](https://pyspur.dev) · 组织维护 · 中文 README
+⭐ 5,793 · TypeScript · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/PySpur-Dev/pyspur) · [官网](https://pyspur.dev) · 组织维护 · 中文 README
 
 **面向 AI 工程师的可视化 agent 工作流构建与迭代平台**
 

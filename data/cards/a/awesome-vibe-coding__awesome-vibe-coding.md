@@ -1,6 +1,6 @@
 # awesome-vibe-coding/awesome-vibe-coding
 
-⭐ 878 · HTML · CC0-1.0 · 推送 2026-08-13 · [GitHub](https://github.com/awesome-vibe-coding/awesome-vibe-coding) · [官网](https://vibecoding.rest/) · 组织维护
+⭐ 879 · HTML · CC0-1.0 · 推送 2026-08-13 · [GitHub](https://github.com/awesome-vibe-coding/awesome-vibe-coding) · [官网](https://vibecoding.rest/) · 组织维护
 
 **Vibe Coding 工具与资源精选清单**
 

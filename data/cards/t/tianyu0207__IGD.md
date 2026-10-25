@@ -1,6 +1,6 @@
 # tianyu0207/IGD
 
-⭐ 69 · Python · 推送 2025-10-29 · [GitHub](https://github.com/tianyu0207/IGD) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AAAI 2022 论文 IGD 的 PyTorch 官方实现：单类异常检测**
 

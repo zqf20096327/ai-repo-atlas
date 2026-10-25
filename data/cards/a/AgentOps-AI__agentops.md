@@ -1,6 +1,6 @@
 # AgentOps-AI/agentops
 
-⭐ 5,912 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/AgentOps-AI/agentops) · [官网](https://agentops.ai) · 组织维护
+⭐ 5,914 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/AgentOps-AI/agentops) · [官网](https://agentops.ai) · 组织维护
 
 **AI Agent 可观测性与监控平台：会话回放、成本追踪、评测**
 

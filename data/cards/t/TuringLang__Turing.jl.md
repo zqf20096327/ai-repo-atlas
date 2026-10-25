@@ -1,6 +1,6 @@
 # TuringLang/Turing.jl
 
-⭐ 2,262 · Julia · MIT · 推送 2026-10-19 · [GitHub](https://github.com/TuringLang/Turing.jl) · [官网](https://turinglang.org) · 组织维护
+⭐ 2,262 · Julia · MIT · 推送 2026-10-25 · [GitHub](https://github.com/TuringLang/Turing.jl) · [官网](https://turinglang.org) · 组织维护
 
 **Julia 概率编程包，做贝叶斯与似然推断**
 

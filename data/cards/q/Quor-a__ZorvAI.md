@@ -1,6 +1,6 @@
 # Quor-a/ZorvAI
 
-⭐ 98 · Kotlin · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Quor-a/ZorvAI) · [官网](https://github.com/Quor-a/ZorvAI/releases) · 个人维护 · 中文 README
+⭐ 99 · Kotlin · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Quor-a/ZorvAI) · [官网](https://github.com/Quor-a/ZorvAI/releases) · 个人维护 · 中文 README
 
 **Android 设备端 AI Agent 助手：离线推理、235 工具操控手机**
 

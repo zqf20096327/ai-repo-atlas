@@ -1,6 +1,6 @@
 # tankvn/awesome-ai-tools
 
-⭐ 352 · 推送 2026-09-12 · [GitHub](https://github.com/tankvn/awesome-ai-tools) · 个人维护
+⭐ 353 · 推送 2026-09-12 · [GitHub](https://github.com/tankvn/awesome-ai-tools) · 个人维护
 
 **收录 7766 个 AI 工具的策展清单**
 

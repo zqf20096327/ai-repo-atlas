@@ -1,6 +1,6 @@
 # CES-Ltd/Lumi
 
-⭐ 39 · Rust · MIT · 推送 2026-05-11 · [GitHub](https://github.com/CES-Ltd/Lumi) · 组织维护
+⭐ 40 · Rust · MIT · 推送 2026-05-11 · [GitHub](https://github.com/CES-Ltd/Lumi) · 组织维护
 
 **Rust 桌面 AI agent 平台：统一运行 Claude Code 等多 agent**
 

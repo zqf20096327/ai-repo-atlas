@@ -1,6 +1,6 @@
 # qodo-ai/qodo-cover
 
-⭐ 5,671 · Python · AGPL-3.0 · 推送 2026-04-05 · [GitHub](https://github.com/qodo-ai/qodo-cover) · [官网](https://qodo.ai/) · 组织维护
+⭐ 5,674 · Python · AGPL-3.0 · 推送 2026-04-05 · [GitHub](https://github.com/qodo-ai/qodo-cover) · [官网](https://qodo.ai/) · 组织维护
 
 **自动生成单元测试以提升代码覆盖率的 AI CLI/CI 工具**
 

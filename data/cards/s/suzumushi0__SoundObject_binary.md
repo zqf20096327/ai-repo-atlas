@@ -1,6 +1,6 @@
 # suzumushi0/SoundObject_binary
 
-⭐ 62 · 推送 2026-08-13 · [GitHub](https://github.com/suzumushi0/SoundObject_binary) · [官网](https://suzumushi0.hatenablog.com/entry/SOv1/SO_EN) · 个人维护
+⭐ 63 · 推送 2026-08-13 · [GitHub](https://github.com/suzumushi0/SoundObject_binary) · [官网](https://suzumushi0.hatenablog.com/entry/SOv1/SO_EN) · 个人维护
 
 **VST 3 插件：单声道源生成 3D 定位双耳声**
 

@@ -1,6 +1,6 @@
 # liaokongVFX/LangChain-Chinese-Getting-Started-Guide
 
-⭐ 9,147 · 推送 2026-04-22 · [GitHub](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) · 个人维护 · 中文 README
+⭐ 9,149 · 推送 2026-04-22 · [GitHub](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) · 个人维护 · 中文 README
 
 **LangChain 中文入门教程：带实战代码的 LLM 应用开发指南**
 

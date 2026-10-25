@@ -1,6 +1,6 @@
 # microsoft/renderformer
 
-⭐ 981 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/microsoft/renderformer) · [官网](https://microsoft.github.io/renderformer/) · 组织维护
+⭐ 982 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/microsoft/renderformer) · [官网](https://microsoft.github.io/renderformer/) · 组织维护
 
 **从三角网格直接生成含全局光照渲染图像的神经渲染管线**
 

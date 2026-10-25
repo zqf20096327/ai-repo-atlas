@@ -1,6 +1,6 @@
 # kinzaaliakbar18u-netizen/flux-lora-forge
 
-⭐ 53 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/kinzaaliakbar18u-netizen/flux-lora-forge) · 个人维护 · 中文 README
+⭐ 53 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/kinzaaliakbar18u-netizen/flux-lora-forge) · 个人维护 · 中文 README
 
 **面向 Flux1 的 LoRA 微调训练工具包，强调可复现与可观测**
 

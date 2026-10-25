@@ -1,6 +1,6 @@
 # vcaesar/codg
 
-⭐ 42 · Go · 推送 2026-10-24 · [GitHub](https://github.com/vcaesar/codg) · [官网](https://atomai.cc) · 个人维护 · 中文 README
+⭐ 42 · Go · 推送 2026-10-25 · [GitHub](https://github.com/vcaesar/codg) · [官网](https://atomai.cc) · 个人维护 · 中文 README
 
 **终端 AI 编码/工作 Agent 运行时（CLI/TUI/Web/桌面）**
 

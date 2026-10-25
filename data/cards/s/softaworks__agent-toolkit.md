@@ -1,6 +1,6 @@
 # softaworks/agent-toolkit
 
-⭐ 2,590 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/softaworks/agent-toolkit) · 个人维护
+⭐ 2,591 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/softaworks/agent-toolkit) · 个人维护
 
 **面向 Claude Code 的 AI 编程 agent 技能合集（40+ 技能/插件）**
 

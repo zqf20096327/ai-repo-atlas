@@ -1,6 +1,6 @@
 # intel/llm-scaler
 
-⭐ 576 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/intel/llm-scaler) · 组织维护
+⭐ 578 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/intel/llm-scaler) · 组织维护
 
 **面向 Intel Arc Pro B60/B70 GPU 的 GenAI 推理与生成服务方案**
 

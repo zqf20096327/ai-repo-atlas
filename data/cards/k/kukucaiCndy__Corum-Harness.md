@@ -1,6 +1,6 @@
 # kukucaiCndy/Corum-Harness
 
-⭐ 89 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/kukucaiCndy/Corum-Harness) · 个人维护 · 中文 README
+⭐ 91 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/kukucaiCndy/Corum-Harness) · 个人维护 · 中文 README
 
 **基于 DeepSeek Harness 的桌面 Agent 产品，含编程工作台**
 

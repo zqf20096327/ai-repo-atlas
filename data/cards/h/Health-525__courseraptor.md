@@ -1,6 +1,6 @@
 # Health-525/courseraptor
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Health-525/courseraptor) · [官网](https://health-525.github.io/courseraptor/) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Health-525/courseraptor) · [官网](https://health-525.github.io/courseraptor/) · 个人维护 · 中文 README
 
 **面向大学生的本地优先 AI 学习工作台：课表、待办与知识库一处管理**
 

@@ -1,6 +1,6 @@
 # zgsm-ai/costrict
 
-⭐ 4,453 · TypeScript · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/zgsm-ai/costrict) · [官网](https://costrict.ai) · 组织维护 · 中文 README
+⭐ 4,455 · TypeScript · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/zgsm-ai/costrict) · [官网](https://costrict.ai) · 组织维护 · 中文 README
 
 **面向企业的 AI 编码助手：严格模式、代码审查与补全**
 

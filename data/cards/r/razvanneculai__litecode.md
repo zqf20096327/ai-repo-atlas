@@ -1,6 +1,6 @@
 # razvanneculai/litecode
 
-⭐ 119 · TypeScript · ISC · 推送 2026-04-28 · [GitHub](https://github.com/razvanneculai/litecode) · 个人维护
+⭐ 120 · TypeScript · ISC · 推送 2026-04-28 · [GitHub](https://github.com/razvanneculai/litecode) · 个人维护
 
 **面向 8k 上下文模型的 CLI AI 编码代理**
 

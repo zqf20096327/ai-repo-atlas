@@ -1,6 +1,6 @@
 # kividbio/kividb
 
-⭐ 547 · Rust · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/kividbio/kividb) · [官网](https://kividb.io) · 组织维护
+⭐ 606 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/kividbio/kividb) · [官网](https://kividb.io) · 组织维护
 
 **Rust 编写的多线程 Redis/Valkey 兼容内存数据库，内置全文与向量检索**
 

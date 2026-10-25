@@ -1,6 +1,6 @@
 # Lniosy/coolapk-mcp
 
-⭐ 37 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Lniosy/coolapk-mcp) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Lniosy/coolapk-mcp) · 个人维护 · 中文 README
 
 **酷安社区的 MCP Server + CLI，供 AI 助手检索社区内容**
 

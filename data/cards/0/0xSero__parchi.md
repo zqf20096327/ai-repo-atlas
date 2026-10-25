@@ -1,6 +1,6 @@
 # 0xSero/parchi
 
-⭐ 549 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/0xSero/parchi) · [官网](https://parchi.ai) · 个人维护
+⭐ 548 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/0xSero/parchi) · [官网](https://parchi.ai) · 个人维护
 
 **浏览器侧边栏 AI 助手扩展：对话驱动网页自动化**
 

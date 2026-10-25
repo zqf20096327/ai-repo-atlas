@@ -1,6 +1,6 @@
 # travisvn/chatterbox-tts-api
 
-⭐ 691 · Python · AGPL-3.0 · 推送 2025-12-23 · [GitHub](https://github.com/travisvn/chatterbox-tts-api) · [官网](https://chatterboxtts.com) · 个人维护
+⭐ 692 · Python · AGPL-3.0 · 推送 2025-12-23 · [GitHub](https://github.com/travisvn/chatterbox-tts-api) · [官网](https://chatterboxtts.com) · 个人维护
 
 **给开发者的本地 Chatterbox TTS API：OpenAI 兼容接口加语音克隆**
 

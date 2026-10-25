@@ -1,6 +1,6 @@
 # pmndrs/prai
 
-⭐ 85 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/pmndrs/prai) · [官网](https://pmndrs.github.io/prai/) · 组织维护
+⭐ 86 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/pmndrs/prai) · [官网](https://pmndrs.github.io/prai/) · 组织维护
 
 **用 TypeScript 代码构建分步 LLM 指令的 JS 框架**
 

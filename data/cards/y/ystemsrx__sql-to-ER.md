@@ -1,6 +1,6 @@
 # ystemsrx/sql-to-ER
 
-⭐ 193 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ystemsrx/sql-to-ER) · [官网](https://ystemsrx.github.io/sql-to-ER/) · 个人维护 · 中文 README
+⭐ 192 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ystemsrx/sql-to-ER) · [官网](https://ystemsrx.github.io/sql-to-ER/) · 个人维护 · 中文 README
 
 **在线 SQL/DBML 转 Chen 模型 ER 图的纯前端工具**
 

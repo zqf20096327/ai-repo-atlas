@@ -1,6 +1,6 @@
 # GoekeLab/xpore
 
-⭐ 171 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/GoekeLab/xpore) · [官网](https://xpore.readthedocs.io/) · 组织维护
+⭐ 173 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/GoekeLab/xpore) · [官网](https://xpore.readthedocs.io/) · 组织维护
 
 **从纳米孔直接 RNA 测序数据识别差异 RNA 修饰的 Python 包**
 

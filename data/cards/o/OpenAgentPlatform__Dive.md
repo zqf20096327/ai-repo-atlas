@@ -1,6 +1,6 @@
 # OpenAgentPlatform/Dive
 
-⭐ 1,823 · TypeScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/OpenAgentPlatform/Dive) · 组织维护 · 中文 README
+⭐ 1,821 · TypeScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/OpenAgentPlatform/Dive) · 组织维护 · 中文 README
 
 **桌面端 MCP Host 应用：通过 MCP 工具与任意函数调用 LLM 对话**
 

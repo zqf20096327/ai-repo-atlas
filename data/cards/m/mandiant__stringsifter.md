@@ -1,6 +1,6 @@
 # mandiant/stringsifter
 
-⭐ 767 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/mandiant/stringsifter) · 组织维护
+⭐ 766 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/mandiant/stringsifter) · 组织维护
 
 **按恶意软件分析相关性对字符串排序的机器学习工具**
 

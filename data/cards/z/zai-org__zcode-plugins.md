@@ -1,6 +1,6 @@
 # zai-org/zcode-plugins
 
-⭐ 124 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/zai-org/zcode-plugins) · 组织维护 · 中文 README
+⭐ 125 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/zai-org/zcode-plugins) · 组织维护 · 中文 README
 
 **ZCode 官方插件市场：浏览、安装与共建 ZCode 插件**
 

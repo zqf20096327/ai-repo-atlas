@@ -1,6 +1,6 @@
 # keivalya/mini-vla
 
-⭐ 408 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/keivalya/mini-vla) · 个人维护
+⭐ 409 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/keivalya/mini-vla) · 个人维护
 
 **面向初学者的最小 VLA 模型：融合图像/文本/状态生成机器人动作**
 

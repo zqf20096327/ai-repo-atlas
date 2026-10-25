@@ -1,6 +1,6 @@
 # imohitmayank/a_lazy_data_science_guide
 
-⭐ 141 · 推送 2026-10-11 · [GitHub](https://github.com/imohitmayank/a_lazy_data_science_guide) · [官网](https://mohitmayank.com/a_lazy_data_science_guide/) · 个人维护
+⭐ 141 · 推送 2026-10-25 · [GitHub](https://github.com/imohitmayank/a_lazy_data_science_guide) · [官网](https://mohitmayank.com/a_lazy_data_science_guide/) · 个人维护
 
 **面向数据科学家的知识整合指南书（代码片段与主题速查）**
 

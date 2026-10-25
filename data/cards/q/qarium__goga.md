@@ -1,6 +1,6 @@
 # qarium/goga
 
-⭐ 44 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/qarium/goga) · 个人维护
+⭐ 43 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/qarium/goga) · 个人维护
 
 **面向开发者的 AI-SDLC 平台：以流水线编排 CLI 编码 agent**
 

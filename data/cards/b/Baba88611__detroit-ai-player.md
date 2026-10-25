@@ -1,6 +1,6 @@
 # Baba88611/detroit-ai-player
 
-⭐ 71 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Baba88611/detroit-ai-player) · [官网](https://github.com/Baba88611/detroit-ai-player) · 个人维护 · 中文 README
+⭐ 72 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Baba88611/detroit-ai-player) · [官网](https://github.com/Baba88611/detroit-ai-player) · 个人维护 · 中文 README
 
 **让 LLM 自主游玩《底特律：变人》剧情决策树的实验框架**
 

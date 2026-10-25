@@ -1,6 +1,6 @@
 # heterodoxin/AbliteratedOutTheBox
 
-⭐ 65 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/heterodoxin/AbliteratedOutTheBox) · 个人维护
+⭐ 121 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/heterodoxin/AbliteratedOutTheBox) · 个人维护
 
 **llama.cpp fork：推理时消除模型拒答，不改权重文件**
 

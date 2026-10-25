@@ -1,6 +1,6 @@
 # kv-chiu/mcd-desktop-pet
 
-⭐ 73 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kv-chiu/mcd-desktop-pet) · [官网](https://www.bilibili.com/video/BV1DuJR6WE17) · 个人维护 · 中文 README
+⭐ 144 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kv-chiu/mcd-desktop-pet) · [官网](https://www.bilibili.com/video/BV1DuJR6WE17) · 个人维护 · 中文 README
 
 **麦当劳 MCP 桌面宠物「薯条小宝」：领券、营养查询与午休提醒**
 

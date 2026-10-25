@@ -1,6 +1,6 @@
 # GeekyWizKid/writing-helper
 
-⭐ 646 · TypeScript · MIT · 推送 2026-02-06 · [GitHub](https://github.com/GeekyWizKid/writing-helper) · [官网](https://writing.chixitown.com/) · 个人维护 · 中文 README
+⭐ 645 · TypeScript · MIT · 推送 2026-02-06 · [GitHub](https://github.com/GeekyWizKid/writing-helper) · [官网](https://writing.chixitown.com/) · 个人维护 · 中文 README
 
 **基于 Next.js 的 AI 写作助手与 AI 文本风格优化器**
 

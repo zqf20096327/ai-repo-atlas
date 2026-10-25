@@ -1,6 +1,6 @@
 # Eventual-Inc/Daft
 
-⭐ 5,811 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Eventual-Inc/Daft) · [官网](https://daft.ai) · 组织维护
+⭐ 5,812 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Eventual-Inc/Daft) · [官网](https://daft.ai) · 组织维护
 
 **面向 AI 与多模态工作负载的高性能分布式数据引擎**
 

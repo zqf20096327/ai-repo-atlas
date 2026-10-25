@@ -1,6 +1,6 @@
 # Danielskry/Awesome-RAG
 
-⭐ 1,413 · CC0-1.0 · 推送 2026-10-06 · [GitHub](https://github.com/Danielskry/Awesome-RAG) · 个人维护
+⭐ 1,414 · CC0-1.0 · 推送 2026-10-06 · [GitHub](https://github.com/Danielskry/Awesome-RAG) · 个人维护
 
 **RAG 生态策展清单：工具、框架、技术与学习资源导航**
 

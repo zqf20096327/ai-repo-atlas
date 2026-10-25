@@ -1,6 +1,6 @@
 # egeominotti/bunqueue
 
-⭐ 588 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/egeominotti/bunqueue) · [官网](https://bunqueue.dev) · 个人维护
+⭐ 588 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/egeominotti/bunqueue) · [官网](https://bunqueue.dev) · 个人维护
 
 **面向 Bun 的任务队列：默认内存/SQLite，可扩到 PostgreSQL**
 

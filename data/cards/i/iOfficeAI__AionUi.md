@@ -1,6 +1,6 @@
 # iOfficeAI/AionUi
 
-⭐ 33,743 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/iOfficeAI/AionUi) · [官网](https://www.aionui.com) · 组织维护 · 中文 README
+⭐ 33,761 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/iOfficeAI/AionUi) · [官网](https://www.aionui.com) · 组织维护 · 中文 README
 
 **桌面 AI Agent 协作应用：内置 Agent 并接入 20+ CLI Agent**
 

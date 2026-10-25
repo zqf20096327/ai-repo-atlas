@@ -1,6 +1,6 @@
 # foxminchan/BookWorm
 
-⭐ 507 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/foxminchan/BookWorm) · [官网](https://foxminchan.github.io/BookWorm/) · 个人维护
+⭐ 507 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/foxminchan/BookWorm) · [官网](https://foxminchan.github.io/BookWorm/) · 个人维护
 
 **展示 Aspire 云原生微服务与多 Agent AI 集成的参考架构项目**
 

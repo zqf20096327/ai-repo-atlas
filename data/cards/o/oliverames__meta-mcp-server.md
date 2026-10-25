@@ -1,6 +1,6 @@
 # oliverames/meta-mcp-server
 
-⭐ 60 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/oliverames/meta-mcp-server) · [官网](https://www.npmjs.com/package/meta-mcp-server) · 个人维护
+⭐ 60 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/oliverames/meta-mcp-server) · [官网](https://www.npmjs.com/package/meta-mcp-server) · 个人维护
 
 **连接 AI 助手与 Meta 商业平台的 MCP 服务器（199 工具）**
 

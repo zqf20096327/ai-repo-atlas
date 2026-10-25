@@ -1,6 +1,6 @@
 # InterDigitalInc/CompressAI
 
-⭐ 1,651 · Python · BSD-3-Clause-Clear · 推送 2026-10-08 · [GitHub](https://github.com/InterDigitalInc/CompressAI) · [官网](https://interdigitalinc.github.io/CompressAI/) · 组织维护
+⭐ 1,652 · Python · BSD-3-Clause-Clear · 推送 2026-10-08 · [GitHub](https://github.com/InterDigitalInc/CompressAI) · [官网](https://interdigitalinc.github.io/CompressAI/) · 组织维护
 
 **基于 PyTorch 的端到端压缩研究库与评测平台**
 

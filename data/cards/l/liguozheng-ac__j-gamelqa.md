@@ -1,6 +1,6 @@
 # liguozheng-ac/j-gamelqa
 
-⭐ 55 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/liguozheng-ac/j-gamelqa) · 个人维护 · 中文 README
+⭐ 53 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/liguozheng-ac/j-gamelqa) · 个人维护 · 中文 README
 
 **中→日游戏本地化 QA 系统：规则检查混合上下文感知 LLM 评估**
 

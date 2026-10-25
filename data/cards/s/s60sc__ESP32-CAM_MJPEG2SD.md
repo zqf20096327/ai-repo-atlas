@@ -1,6 +1,6 @@
 # s60sc/ESP32-CAM_MJPEG2SD
 
-⭐ 1,765 · C++ · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) · 个人维护
+⭐ 1,766 · C++ · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) · 个人维护
 
 **ESP32 摄像头应用：运动检测录像存 SD 卡并串流到浏览器**
 

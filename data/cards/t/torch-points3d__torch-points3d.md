@@ -1,6 +1,6 @@
 # torch-points3d/torch-points3d
 
-⭐ 2,714 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/torch-points3d/torch-points3d) · [官网](https://torch-points3d.readthedocs.io/en/latest/) · 组织维护
+⭐ 2,713 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/torch-points3d/torch-points3d) · [官网](https://torch-points3d.readthedocs.io/en/latest/) · 组织维护
 
 **面向研究者的点云深度学习 PyTorch 框架**
 

@@ -1,6 +1,6 @@
 # ry-ops/proxmox-mcp-server
 
-⭐ 41 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ry-ops/proxmox-mcp-server) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ry-ops/proxmox-mcp-server) · 个人维护
 
 **通过 MCP 让 AI 客户端管理 Proxmox 虚拟化集群的服务器**
 

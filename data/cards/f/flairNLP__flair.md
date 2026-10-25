@@ -1,6 +1,6 @@
 # flairNLP/flair
 
-⭐ 14,395 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/flairNLP/flair) · [官网](https://flairnlp.github.io/flair/) · 组织维护
+⭐ 14,396 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/flairNLP/flair) · [官网](https://flairnlp.github.io/flair/) · 组织维护
 
 **面向开发者的 NLP 任务库：NER、情感分析、词性标注与文本嵌入**
 

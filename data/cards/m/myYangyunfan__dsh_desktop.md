@@ -1,6 +1,6 @@
 # myYangyunfan/dsh_desktop
 
-⭐ 728 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/myYangyunfan/dsh_desktop) · [官网](https://github.com/myYangyunfan/dsh_desktop/releases) · 个人维护 · 中文 README
+⭐ 727 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/myYangyunfan/dsh_desktop) · [官网](https://github.com/myYangyunfan/dsh_desktop/releases) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 装进桌面的开箱即用客户端**
 

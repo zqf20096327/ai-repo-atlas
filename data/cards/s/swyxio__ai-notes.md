@@ -1,6 +1,6 @@
 # swyxio/ai-notes
 
-⭐ 6,250 · HTML · MIT · 推送 2026-02-16 · [GitHub](https://github.com/swyxio/ai-notes) · [官网](https://latent.space/) · 个人维护
+⭐ 6,252 · HTML · MIT · 推送 2026-02-16 · [GitHub](https://github.com/swyxio/ai-notes) · [官网](https://latent.space/) · 个人维护
 
 **软件工程师跟进 AI 进展的笔记与资源知识库**
 

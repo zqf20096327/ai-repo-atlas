@@ -1,6 +1,6 @@
 # microsoft/mcp-interactiveUI-samples
 
-⭐ 83 · HTML · MIT · 推送 2026-09-02 · [GitHub](https://github.com/microsoft/mcp-interactiveUI-samples) · 组织维护
+⭐ 84 · HTML · MIT · 推送 2026-09-02 · [GitHub](https://github.com/microsoft/mcp-interactiveUI-samples) · 组织维护
 
 **面向 Microsoft 365 Copilot 的 MCP 交互式 UI 示例集合**
 

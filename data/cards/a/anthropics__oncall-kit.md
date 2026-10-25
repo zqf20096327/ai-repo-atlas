@@ -1,6 +1,6 @@
 # anthropics/oncall-kit
 
-⭐ 248 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/anthropics/oncall-kit) · 组织维护
+⭐ 250 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/anthropics/oncall-kit) · 组织维护
 
 **Claude 辅助值班应急响应的入门套件：从事件历史生成排障手册**
 

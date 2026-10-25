@@ -1,6 +1,6 @@
 # nexu-io/motion-anything
 
-⭐ 976 · JavaScript · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/nexu-io/motion-anything) · 组织维护 · 中文 README
+⭐ 981 · JavaScript · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/nexu-io/motion-anything) · 组织维护 · 中文 README
 
 **本地优先的对话式动效引擎：一句话生成动画页面并逐组件编辑**
 

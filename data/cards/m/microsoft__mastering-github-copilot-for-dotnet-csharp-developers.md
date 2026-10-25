@@ -1,6 +1,6 @@
 # microsoft/mastering-github-copilot-for-dotnet-csharp-developers
 
-⭐ 392 · C# · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers) · 组织维护
+⭐ 393 · C# · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers) · 组织维护
 
 **面向 C#/.NET 开发者的 GitHub Copilot 六课教学课程**
 

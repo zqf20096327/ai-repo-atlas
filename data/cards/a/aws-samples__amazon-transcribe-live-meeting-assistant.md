@@ -1,6 +1,6 @@
 # aws-samples/amazon-transcribe-live-meeting-assistant
 
-⭐ 169 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/aws-samples/amazon-transcribe-live-meeting-assistant) · [官网](https://aws-samples.github.io/amazon-transcribe-live-meeting-assistant/) · 组织维护
+⭐ 169 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/aws-samples/amazon-transcribe-live-meeting-assistant) · [官网](https://aws-samples.github.io/amazon-transcribe-live-meeting-assistant/) · 组织维护
 
 **实时会议转录/翻译/摘要与 AI 助手的 AWS 解决方案**
 

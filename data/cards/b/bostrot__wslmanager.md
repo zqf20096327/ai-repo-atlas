@@ -1,6 +1,6 @@
 # bostrot/wslmanager
 
-⭐ 4,032 · Dart · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/bostrot/wslmanager) · [官网](https://wslmanager.com) · 个人维护 · 中文 README
+⭐ 4,033 · Dart · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/bostrot/wslmanager) · [官网](https://wslmanager.com) · 个人维护 · 中文 README
 
 **WSL 与 macOS 虚拟机的图形化管理器，AI 层为付费功能**
 

@@ -1,6 +1,6 @@
 # designcomputer/mysql_mcp_server
 
-⭐ 1,403 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/designcomputer/mysql_mcp_server) · [官网](https://designcomputer.com) · 个人维护
+⭐ 1,402 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/designcomputer/mysql_mcp_server) · [官网](https://designcomputer.com) · 个人维护
 
 **让 AI 应用安全访问 MySQL 的 MCP 服务器**
 

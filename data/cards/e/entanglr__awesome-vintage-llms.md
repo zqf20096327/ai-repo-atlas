@@ -1,6 +1,6 @@
 # entanglr/awesome-vintage-llms
 
-⭐ 42 · 推送 2026-05-09 · [GitHub](https://github.com/entanglr/awesome-vintage-llms) · [官网](https://github.com/entanglr/awesome-vintage-llms) · 个人维护
+⭐ 43 · 推送 2026-05-09 · [GitHub](https://github.com/entanglr/awesome-vintage-llms) · [官网](https://github.com/entanglr/awesome-vintage-llms) · 个人维护
 
 **历史时段限定语料训练的 vintage LLM 策展清单**
 

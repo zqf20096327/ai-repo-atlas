@@ -1,6 +1,6 @@
 # KylinMountain/TradingAgents-AShare
 
-⭐ 875 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/KylinMountain/TradingAgents-AShare) · [官网](https://app.510168.xyz) · 个人维护 · 中文 README
+⭐ 879 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/KylinMountain/TradingAgents-AShare) · [官网](https://app.510168.xyz) · 个人维护 · 中文 README
 
 **A股多智能体投研系统：14个AI Agent辩论生成结构化交易建议**
 

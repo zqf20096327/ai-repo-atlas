@@ -1,6 +1,6 @@
 # gatsby-sec/llm-sec-range
 
-⭐ 36 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/gatsby-sec/llm-sec-range) · 组织维护 · 中文 README
+⭐ 37 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/gatsby-sec/llm-sec-range) · 组织维护 · 中文 README
 
 **本地大模型攻防渗透测试靶场：提示注入CTF/OWASP/脆弱Agent**
 

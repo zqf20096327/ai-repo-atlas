@@ -1,6 +1,6 @@
 # zjp1997720/zhijian-ai-bluebook-workbuddy-harness
 
-⭐ 243 · 推送 2026-08-16 · [GitHub](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) · [官网](https://zjp1997720.github.io/zhijian-ai-bluebook-workbuddy-harness/) · 个人维护 · 中文 README
+⭐ 244 · 推送 2026-08-16 · [GitHub](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) · [官网](https://zjp1997720.github.io/zhijian-ai-bluebook-workbuddy-harness/) · 个人维护 · 中文 README
 
 **拆解 WorkBuddy 提示词/记忆/插件/安全边界的蓝皮书（60页）**
 

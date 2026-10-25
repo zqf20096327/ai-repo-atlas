@@ -1,6 +1,6 @@
 # tinyhumansai/tinyflows
 
-⭐ 86 · Rust · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/tinyhumansai/tinyflows) · [官网](https://crates.io/crates/tinyflows) · 组织维护
+⭐ 86 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/tinyhumansai/tinyflows) · [官网](https://crates.io/crates/tinyflows) · 组织维护
 
 **Rust 工作流自动化引擎库：供宿主应用构建运行 agentic 工作流**
 

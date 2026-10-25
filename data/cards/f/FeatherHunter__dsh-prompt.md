@@ -1,6 +1,6 @@
 # FeatherHunter/dsh-prompt
 
-⭐ 57 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/FeatherHunter/dsh-prompt) · [官网](https://www.npmjs.com/package/dsh-prompt) · 个人维护 · 中文 README
+⭐ 62 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/FeatherHunter/dsh-prompt) · [官网](https://www.npmjs.com/package/dsh-prompt) · 个人维护 · 中文 README
 
 **DSH 客户端的 Prompt 模板插件：保存常用提示词一键注入对话框**
 

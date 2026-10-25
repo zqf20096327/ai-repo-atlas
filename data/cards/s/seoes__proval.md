@@ -1,6 +1,6 @@
 # seoes/proval
 
-⭐ 117 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/seoes/proval) · [官网](https://proval.app) · 个人维护
+⭐ 118 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/seoes/proval) · [官网](https://proval.app) · 个人维护
 
 **自托管 LLM 代码审查 agent：接入 Git 平台自动审查 PR 与 issue**
 

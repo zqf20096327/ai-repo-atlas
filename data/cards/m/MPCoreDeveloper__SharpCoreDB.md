@@ -1,6 +1,6 @@
 # MPCoreDeveloper/SharpCoreDB
 
-⭐ 43 · C# · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MPCoreDeveloper/SharpCoreDB) · [官网](https://github.com/MPCoreDeveloper/SharpCoreDB) · 组织维护
+⭐ 43 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/MPCoreDeveloper/SharpCoreDB) · [官网](https://github.com/MPCoreDeveloper/SharpCoreDB) · 组织维护
 
 **面向 .NET 团队的加密嵌入式数据库：单文件加密 + gRPC 服务模式**
 

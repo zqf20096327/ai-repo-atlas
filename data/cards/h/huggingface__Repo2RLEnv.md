@@ -1,6 +1,6 @@
 # huggingface/Repo2RLEnv
 
-⭐ 739 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/Repo2RLEnv) · [官网](https://huggingface.github.io/Repo2RLEnv/) · 组织维护
+⭐ 742 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/Repo2RLEnv) · [官网](https://huggingface.github.io/Repo2RLEnv/) · 组织维护
 
 **把任意代码仓库转成可验证 RL 环境的生成工具**
 

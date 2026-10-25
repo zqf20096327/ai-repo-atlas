@@ -1,6 +1,6 @@
 # doobidoo/mcp-memory-service
 
-⭐ 2,038 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/doobidoo/mcp-memory-service) · 个人维护
+⭐ 2,043 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/doobidoo/mcp-memory-service) · 个人维护
 
 **AI agent 流水线的自托管持久共享记忆后端**
 

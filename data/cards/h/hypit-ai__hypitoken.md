@@ -1,6 +1,6 @@
 # hypit-ai/hypitoken
 
-⭐ 65 · Go · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/hypit-ai/hypitoken) · [官网](https://github.com/cashdiffusion/hypitoken) · 组织维护 · 中文 README
+⭐ 66 · Go · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/hypit-ai/hypitoken) · [官网](https://github.com/cashdiffusion/hypitoken) · 组织维护 · 中文 README
 
 **自托管多租户 LLM API 网关：Claude/Codex 凭据池与美元钱包计费**
 

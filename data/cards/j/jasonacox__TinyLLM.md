@@ -1,6 +1,6 @@
 # jasonacox/TinyLLM
 
-⭐ 352 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jasonacox/TinyLLM) · 个人维护
+⭐ 353 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jasonacox/TinyLLM) · 个人维护
 
 **在消费级硬件上搭建本地 LLM 与类 ChatGPT 聊天界面的指南项目**
 

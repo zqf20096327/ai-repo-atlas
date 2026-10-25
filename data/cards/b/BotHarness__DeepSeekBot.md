@@ -1,6 +1,6 @@
 # BotHarness/DeepSeekBot
 
-⭐ 283 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/BotHarness/DeepSeekBot) · [官网](https://deepseekbot.app) · 组织维护 · 中文 README
+⭐ 309 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BotHarness/DeepSeekBot) · [官网](https://deepseekbot.app) · 组织维护 · 中文 README
 
 **运行在 DeepSeek Harness 上的个人 AI Bot 团队插件（GrokBot 平替）**
 

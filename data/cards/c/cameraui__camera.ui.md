@@ -1,6 +1,6 @@
 # cameraui/camera.ui
 
-⭐ 1,139 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/cameraui/camera.ui) · [官网](https://cameraui.com) · 个人维护
+⭐ 1,139 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cameraui/camera.ui) · [官网](https://cameraui.com) · 个人维护
 
 **自托管视频监控平台：直播、录像与本地 AI 检测**
 

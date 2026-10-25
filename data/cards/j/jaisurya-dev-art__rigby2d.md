@@ -1,6 +1,6 @@
 # jaisurya-dev-art/rigby2d
 
-⭐ 35 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jaisurya-dev-art/rigby2d) · [官网](https://github.com/jaisurya-dev-art/rigby2d#readme) · 组织维护
+⭐ 41 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jaisurya-dev-art/rigby2d) · [官网](https://github.com/jaisurya-dev-art/rigby2d#readme) · 组织维护
 
 **开源 2D 骨骼动画编辑器：绑定 PSD/PNG、制作动画、导出运行时，内置 MCP 供 AI 助手操作**
 

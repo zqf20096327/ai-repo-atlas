@@ -1,6 +1,6 @@
 # brunoamaral/gregory-ai
 
-⭐ 58 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/brunoamaral/gregory-ai) · [官网](https://gregory-ai.com/) · 个人维护
+⭐ 58 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/brunoamaral/gregory-ai) · [官网](https://gregory-ai.com/) · 个人维护
 
 **用机器学习追踪临床研究并筛选相关论文的系统**
 

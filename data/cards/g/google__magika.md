@@ -1,6 +1,6 @@
 # google/magika
 
-⭐ 18,741 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/magika) · [官网](https://securityresearch.google/magika/) · 组织维护
+⭐ 18,743 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/magika) · [官网](https://securityresearch.google/magika/) · 组织维护
 
 **给开发者与安全场景用的 AI 文件类型检测工具**
 

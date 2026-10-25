@@ -1,6 +1,6 @@
 # AIAnytime/Awesome-MCP-Servers
 
-⭐ 79 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AIAnytime/Awesome-MCP-Servers) · [官网](https://mcp.aianytime.net) · 组织维护
+⭐ 79 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AIAnytime/Awesome-MCP-Servers) · [官网](https://mcp.aianytime.net) · 组织维护
 
 **MCP 服务器策展目录＋Python 参考实现教学仓库**
 

@@ -1,6 +1,6 @@
 # Veloresearch/velocity-local-services
 
-⭐ 34 · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Veloresearch/velocity-local-services) · [官网](https://veloresearch.com/vls) · 组织维护
+⭐ 34 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Veloresearch/velocity-local-services) · [官网](https://veloresearch.com/vls) · 组织维护
 
 **本地运行 GGUF 模型的桌面应用：聊天、语音、电脑操作与 OpenAI 兼容 API**
 

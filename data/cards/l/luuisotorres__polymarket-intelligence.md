@@ -1,6 +1,6 @@
 # luuisotorres/polymarket-intelligence
 
-⭐ 38 · Python · 推送 2026-02-10 · [GitHub](https://github.com/luuisotorres/polymarket-intelligence) · 个人维护
+⭐ 39 · Python · 推送 2026-02-10 · [GitHub](https://github.com/luuisotorres/polymarket-intelligence) · 个人维护
 
 **Polymarket 实时追踪面板：行情、新闻、鲸鱼订单与多智能体辩论分析**
 

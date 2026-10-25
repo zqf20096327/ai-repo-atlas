@@ -1,6 +1,6 @@
 # google-github-actions/run-gemini-cli
 
-⭐ 2,112 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/google-github-actions/run-gemini-cli) · [官网](https://github.com/google-gemini/gemini-cli) · 组织维护
+⭐ 2,113 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/google-github-actions/run-gemini-cli) · [官网](https://github.com/google-gemini/gemini-cli) · 组织维护
 
 **在 GitHub 仓库中调用 Gemini CLI 的 GitHub Action**
 

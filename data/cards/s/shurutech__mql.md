@@ -1,6 +1,6 @@
 # shurutech/mql
 
-⭐ 213 · Python · MIT · 推送 2026-02-25 · [GitHub](https://github.com/shurutech/mql) · [官网](https://shurutech.com/mql-sql-from-natural-language-with-85-accuracy/) · 组织维护
+⭐ 214 · Python · MIT · 推送 2026-02-25 · [GitHub](https://github.com/shurutech/mql) · [官网](https://shurutech.com/mql-sql-from-natural-language-with-85-accuracy/) · 组织维护
 
 **自然语言转 SQL 查询工具，面向不会写 SQL 的用户**
 

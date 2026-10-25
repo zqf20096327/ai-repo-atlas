@@ -1,6 +1,6 @@
 # evilayman/opencode-raven
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/evilayman/opencode-raven) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/evilayman/opencode-raven) · 个人维护
 
 **OpenCode 插件：把搜索与 MCP 检索委托给子代理，返回紧凑结果**
 

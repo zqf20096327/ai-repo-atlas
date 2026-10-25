@@ -1,6 +1,6 @@
 # somastllc/feb-ds-ml-bootcamp-2026
 
-⭐ 99 · Jupyter Notebook · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/somastllc/feb-ds-ml-bootcamp-2026) · [官网](https://www.goobolabs.so) · 组织维护
+⭐ 99 · Jupyter Notebook · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/feb-ds-ml-bootcamp-2026) · [官网](https://www.goobolabs.so) · 组织维护
 
 **一个月 DS/ML 训练营课程仓库：课程视频与作业资源**
 

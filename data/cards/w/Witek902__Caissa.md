@@ -1,6 +1,6 @@
 # Witek902/Caissa
 
-⭐ 118 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Witek902/Caissa) · 个人维护
+⭐ 118 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Witek902/Caissa) · 个人维护
 
 **C++ 编写的 UCI 国际象棋引擎，NNUE 神经网络评估**
 

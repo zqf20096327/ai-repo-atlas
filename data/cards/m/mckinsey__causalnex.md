@@ -1,6 +1,6 @@
 # mckinsey/causalnex
 
-⭐ 2,490 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/mckinsey/causalnex) · [官网](http://causalnex.readthedocs.io/) · 组织维护
+⭐ 2,491 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/mckinsey/causalnex) · [官网](http://causalnex.readthedocs.io/) · 组织维护
 
 **基于贝叶斯网络的因果推断与反事实分析 Python 库（已停止维护）**
 

@@ -1,6 +1,6 @@
 # Madhan230205/token-reducer
 
-⭐ 51 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/Madhan230205/token-reducer) · [官网](https://github.com/Madhan230205/token-reducer) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/Madhan230205/token-reducer) · [官网](https://github.com/Madhan230205/token-reducer) · 个人维护
 
 **Claude Code 插件：本地压缩代码库上下文以降低 token 消耗**
 

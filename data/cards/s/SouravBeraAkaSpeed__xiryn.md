@@ -1,6 +1,6 @@
 # SouravBeraAkaSpeed/xiryn
 
-⭐ 309 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SouravBeraAkaSpeed/xiryn) · [官网](https://xiryn.com) · 个人维护
+⭐ 339 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SouravBeraAkaSpeed/xiryn) · [官网](https://xiryn.com) · 个人维护
 
 **本地运行的开源个人 agent：每个 agent 有独立 Docker Linux 桌面**
 

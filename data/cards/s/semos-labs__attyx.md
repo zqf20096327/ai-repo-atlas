@@ -1,6 +1,6 @@
 # semos-labs/attyx
 
-⭐ 244 · Zig · MIT · 推送 2026-08-11 · [GitHub](https://github.com/semos-labs/attyx) · [官网](https://attyx.sh) · 组织维护
+⭐ 245 · Zig · MIT · 推送 2026-08-11 · [GitHub](https://github.com/semos-labs/attyx) · [官网](https://attyx.sh) · 组织维护
 
 **面向 AI agent 工作流的 GPU 加速终端模拟器**
 

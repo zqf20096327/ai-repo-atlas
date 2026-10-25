@@ -1,6 +1,6 @@
 # AIScientists-Dev/Flowtrace
 
-⭐ 484 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/AIScientists-Dev/Flowtrace) · [官网](https://morphmind.ai) · 组织维护 · 中文 README
+⭐ 483 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/AIScientists-Dev/Flowtrace) · [官网](https://morphmind.ai) · 组织维护 · 中文 README
 
 **把 agent 的工作流转为可留存、可复用、可逐步验证的 trace 工具**
 

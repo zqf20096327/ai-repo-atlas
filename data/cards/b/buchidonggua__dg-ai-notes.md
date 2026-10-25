@@ -1,6 +1,6 @@
 # buchidonggua/dg-ai-notes
 
-⭐ 3,471 · MDX · MIT · 推送 2026-08-23 · [GitHub](https://github.com/buchidonggua/dg-ai-notes) · [官网](https://dg-ai-notes.pages.dev/) · 个人维护 · 中文 README
+⭐ 3,475 · MDX · MIT · 推送 2026-08-23 · [GitHub](https://github.com/buchidonggua/dg-ai-notes) · [官网](https://dg-ai-notes.pages.dev/) · 个人维护 · 中文 README
 
 **Pi-Agent 源码解读与二次开发实战教程（电子书+skill）**
 

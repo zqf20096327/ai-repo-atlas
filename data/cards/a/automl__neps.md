@@ -1,6 +1,6 @@
 # automl/neps
 
-⭐ 89 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/automl/neps) · [官网](https://automl.github.io/neps/) · 组织维护
+⭐ 89 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/automl/neps) · [官网](https://automl.github.io/neps/) · 组织维护
 
 **面向深度学习专家的神经管线与超参数搜索工具**
 

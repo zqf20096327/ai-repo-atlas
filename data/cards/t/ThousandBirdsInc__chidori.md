@@ -1,6 +1,6 @@
 # ThousandBirdsInc/chidori
 
-⭐ 1,368 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ThousandBirdsInc/chidori) · [官网](https://thousandbirdsinc.github.io/chidori/) · 组织维护
+⭐ 1,369 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ThousandBirdsInc/chidori) · [官网](https://thousandbirdsinc.github.io/chidori/) · 组织维护
 
 **默认可持久化、可重放、可恢复的 TypeScript agent 运行时框架**
 

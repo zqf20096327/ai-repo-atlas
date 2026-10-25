@@ -1,6 +1,6 @@
 # paberr/ownscribe
 
-⭐ 112 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/paberr/ownscribe) · 个人维护
+⭐ 111 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/paberr/ownscribe) · 个人维护
 
 **本地优先的会议录音转录与摘要命令行工具**
 

@@ -1,6 +1,6 @@
 # UncleK/dsh-think-translate
 
-⭐ 51 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/UncleK/dsh-think-translate) · 个人维护
+⭐ 52 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/UncleK/dsh-think-translate) · 个人维护
 
 **DeepSeek Harness 网页端的思维链实时翻译插件**
 

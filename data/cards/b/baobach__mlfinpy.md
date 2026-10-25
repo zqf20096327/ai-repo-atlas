@@ -1,6 +1,6 @@
 # baobach/mlfinpy
 
-⭐ 89 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/baobach/mlfinpy) · [官网](https://mlfinpy.readthedocs.io/) · 个人维护
+⭐ 90 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/baobach/mlfinpy) · [官网](https://mlfinpy.readthedocs.io/) · 个人维护
 
 **面向金融机器学习的 Python 工具箱：数据变换、标注与特征工程**
 

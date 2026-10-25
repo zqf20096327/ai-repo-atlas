@@ -1,6 +1,6 @@
 # yashab-cyber/hacktheweb
 
-⭐ 40 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/yashab-cyber/hacktheweb) · [官网](https://yashab-cyber.github.io/hacktheweb/) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/yashab-cyber/hacktheweb) · [官网](https://yashab-cyber.github.io/hacktheweb/) · 个人维护
 
 **面向安全专业人员的 Web 应用渗透测试工具，含规则式 AI 扫描**
 

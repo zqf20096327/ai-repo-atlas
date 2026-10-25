@@ -1,6 +1,6 @@
 # elbruno/elbruno.localembeddings
 
-⭐ 42 · C# · MIT · 推送 2026-10-07 · [GitHub](https://github.com/elbruno/elbruno.localembeddings) · 个人维护
+⭐ 42 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/elbruno/elbruno.localembeddings) · 个人维护
 
 **.NET 本地文本嵌入生成库，基于 ONNX Runtime 离线运行**
 

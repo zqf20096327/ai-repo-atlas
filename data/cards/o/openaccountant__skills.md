@@ -1,6 +1,6 @@
 # openaccountant/skills
 
-⭐ 97 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/openaccountant/skills) · 组织维护
+⭐ 98 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/openaccountant/skills) · 组织维护
 
 **44 个面向 AI agent 的开源财务技能集合（SKILL.md 格式）**
 

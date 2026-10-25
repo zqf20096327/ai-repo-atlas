@@ -1,6 +1,6 @@
 # Eric-Terminal/ETOS-LLM-Studio
 
-⭐ 211 · Swift · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Eric-Terminal/ETOS-LLM-Studio) · 个人维护 · 中文 README
+⭐ 210 · Swift · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Eric-Terminal/ETOS-LLM-Studio) · 个人维护 · 中文 README
 
 **iOS/Apple Watch 原生 LLM 客户端：云端模型+本地 GGUF 推理与 Agent 工具**
 

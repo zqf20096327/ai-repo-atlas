@@ -1,6 +1,6 @@
 # nathanskill/niubiskill
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-08-02 · [GitHub](https://github.com/nathanskill/niubiskill) · 个人维护 · 中文 README
+⭐ 43 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/nathanskill/niubiskill) · 个人维护 · 中文 README
 
 **面向开发者的变现决策 Skill：先判断是否接近收入再投入**
 

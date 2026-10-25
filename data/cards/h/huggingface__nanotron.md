@@ -1,6 +1,6 @@
 # huggingface/nanotron
 
-⭐ 2,846 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/huggingface/nanotron) · 组织维护
+⭐ 2,847 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/huggingface/nanotron) · 组织维护
 
 **面向研究者的极简 LLM 3D 并行预训练库**
 

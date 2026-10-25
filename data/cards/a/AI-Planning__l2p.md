@@ -1,6 +1,6 @@
 # AI-Planning/l2p
 
-⭐ 65 · Python · MIT · 推送 2026-06-28 · [GitHub](https://github.com/AI-Planning/l2p) · 组织维护
+⭐ 66 · Python · MIT · 推送 2026-06-28 · [GitHub](https://github.com/AI-Planning/l2p) · 组织维护
 
 **用 LLM 从自然语言生成 PDDL 规划模型的 Python 库**
 

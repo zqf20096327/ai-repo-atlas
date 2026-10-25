@@ -1,6 +1,6 @@
 # ZSeven-W/openpencil
 
-⭐ 6,539 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ZSeven-W/openpencil) · [官网](https://op.zseven.tech) · 个人维护 · 中文 README
+⭐ 6,655 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ZSeven-W/openpencil) · [官网](https://op.zseven.tech) · 个人维护 · 中文 README
 
 **开源 AI 原生矢量设计工具：自然语言生成 UI 并并发多 Agent 协作**
 

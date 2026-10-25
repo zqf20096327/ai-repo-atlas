@@ -1,6 +1,6 @@
 # jofizcd/Soul-of-Waifu
 
-⭐ 1,419 · Python · GPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/jofizcd/Soul-of-Waifu) · [官网](https://jofizcd.github.io/soul-of-waifu-site/) · 个人维护
+⭐ 1,424 · Python · GPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/jofizcd/Soul-of-Waifu) · [官网](https://jofizcd.github.io/soul-of-waifu-site/) · 个人维护
 
 **本地优先的桌面 AI 角色陪伴应用：角色跨聊天、RPG 与桌面代理**
 

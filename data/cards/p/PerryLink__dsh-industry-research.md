@@ -1,6 +1,6 @@
 # PerryLink/dsh-industry-research
 
-⭐ 213 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PerryLink/dsh-industry-research) · [官网](https://perrylink.github.io/plugins/dsh-industry-research/) · 个人维护 · 中文 README
+⭐ 214 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PerryLink/dsh-industry-research) · [官网](https://perrylink.github.io/plugins/dsh-industry-research/) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 用户的行业/公司研究插件：带溯源的可审计研究报告**
 

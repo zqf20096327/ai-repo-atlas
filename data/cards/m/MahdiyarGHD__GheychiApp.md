@@ -1,6 +1,6 @@
 # MahdiyarGHD/GheychiApp
 
-⭐ 84 · C# · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/MahdiyarGHD/GheychiApp) · 个人维护
+⭐ 84 · C# · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/MahdiyarGHD/GheychiApp) · 个人维护
 
 **安卓短信应用：本地 AI 识别并隔离垃圾短信**
 

@@ -1,6 +1,6 @@
 # bee-san/Ciphey
 
-⭐ 21,696 · Rust · MIT · 推送 2026-10-13 · [GitHub](https://github.com/bee-san/Ciphey) · 个人维护
+⭐ 21,700 · Rust · MIT · 推送 2026-10-13 · [GitHub](https://github.com/bee-san/Ciphey) · 个人维护
 
 **无需密钥自动解密/解码文本的 Rust CLI 工具**
 

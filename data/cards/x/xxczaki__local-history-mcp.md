@@ -1,6 +1,6 @@
 # xxczaki/local-history-mcp
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/xxczaki/local-history-mcp) · [官网](https://www.npmjs.com/package/local-history-mcp) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/xxczaki/local-history-mcp) · [官网](https://www.npmjs.com/package/local-history-mcp) · 个人维护
 
 **让 AI 助手读取 VS Code/Cursor 本地历史的 MCP 服务器**
 

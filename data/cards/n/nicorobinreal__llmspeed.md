@@ -1,6 +1,6 @@
 # nicorobinreal/llmspeed
 
-⭐ 155 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nicorobinreal/llmspeed) · [官网](https://llmspeed.dev) · 个人维护
+⭐ 156 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nicorobinreal/llmspeed) · [官网](https://llmspeed.dev) · 个人维护
 
 **本地 LLM 硬件速度预估网站：购卡前看真实流式速度**
 

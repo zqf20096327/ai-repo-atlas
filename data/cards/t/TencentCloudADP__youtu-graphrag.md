@@ -1,6 +1,6 @@
 # TencentCloudADP/youtu-graphrag
 
-⭐ 1,270 · Python · NOASSERTION · 推送 2026-02-26 · [GitHub](https://github.com/TencentCloudADP/youtu-graphrag) · [官网](https://arxiv.org/abs/2508.19855) · 组织维护 · 中文 README
+⭐ 1,271 · Python · NOASSERTION · 推送 2026-02-26 · [GitHub](https://github.com/TencentCloudADP/youtu-graphrag) · [官网](https://arxiv.org/abs/2508.19855) · 组织维护 · 中文 README
 
 **腾讯优图的 GraphRAG 框架：图谱构建+多智能体检索的复杂推理问答**
 

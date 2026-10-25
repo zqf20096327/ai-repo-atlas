@@ -1,6 +1,6 @@
 # lonePatient/awesome-pretrained-chinese-nlp-models
 
-⭐ 5,611 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) · 个人维护 · 中文 README
+⭐ 5,612 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) · 个人维护 · 中文 README
 
 **中文预训练模型与大模型策展清单：收录模型条目与配套资源**
 

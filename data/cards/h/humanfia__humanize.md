@@ -1,6 +1,6 @@
 # humanfia/humanize
 
-⭐ 347 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/humanfia/humanize) · [官网](https://docs.humanfia.ai/humanize/) · 组织维护
+⭐ 349 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/humanfia/humanize) · [官网](https://docs.humanfia.ai/humanize/) · 组织维护
 
 **让多 CLI 编码 agent 按流程编排运行的系统**
 

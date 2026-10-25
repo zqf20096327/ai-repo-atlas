@@ -1,6 +1,6 @@
 # mnfst/awesome-free-llm-apis
 
-⭐ 11,163 · JavaScript · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/mnfst/awesome-free-llm-apis) · 组织维护
+⭐ 11,252 · JavaScript · CC0-1.0 · 推送 2026-10-25 · [GitHub](https://github.com/mnfst/awesome-free-llm-apis) · 组织维护
 
 **永久免费 LLM API 清单：按提供商列出可用模型与限额**
 

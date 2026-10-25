@@ -1,6 +1,6 @@
 # xiaour/yolo-data
 
-⭐ 45 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xiaour/yolo-data) · [官网](https://xiaour.github.io/yolo-data/) · 组织维护 · 中文 README
+⭐ 46 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xiaour/yolo-data) · [官网](https://xiaour.github.io/yolo-data/) · 组织维护 · 中文 README
 
 **面向业务团队的自然语言问数与治理分析平台**
 

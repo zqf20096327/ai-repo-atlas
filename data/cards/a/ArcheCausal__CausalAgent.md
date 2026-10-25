@@ -1,6 +1,6 @@
 # ArcheCausal/CausalAgent
 
-⭐ 36 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ArcheCausal/CausalAgent) · 组织维护 · 中文 README
+⭐ 36 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/ArcheCausal/CausalAgent) · 组织维护 · 中文 README
 
 **面向表格数据的因果分析多智能体应用，产出报告与因果图**
 

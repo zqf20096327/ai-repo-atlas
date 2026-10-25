@@ -1,6 +1,6 @@
 # yuvraj108c/ComfyUI-Upscaler-Tensorrt
 
-⭐ 251 · Python · NOASSERTION · 推送 2026-06-07 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Upscaler-Tensorrt) · 个人维护
+⭐ 252 · Python · NOASSERTION · 推送 2026-06-07 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Upscaler-Tensorrt) · 个人维护
 
 **ComfyUI 节点：用 TensorRT 加速 ESRGAN 图像超分（2-4x）**
 

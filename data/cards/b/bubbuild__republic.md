@@ -1,6 +1,6 @@
 # bubbuild/republic
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/bubbuild/republic) · [官网](https://getrepublic.org) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/bubbuild/republic) · [官网](https://getrepublic.org) · 组织维护
 
 **跨 AI 提供商的统一 Python SDK：聊天/流式/工具调用/结构化输出**
 

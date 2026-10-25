@@ -1,6 +1,6 @@
 # ryanontheinside/ComfyUI_RyanOnTheInside
 
-⭐ 866 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/ryanontheinside/ComfyUI_RyanOnTheInside) · 个人维护
+⭐ 867 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/ryanontheinside/ComfyUI_RyanOnTheInside) · 个人维护
 
 **ComfyUI 反应性节点包：用音频/MIDI/运动等驱动图像与视频创作**
 

@@ -1,6 +1,6 @@
 # OpenGVLab/SDLM
 
-⭐ 99 · Python · MIT · 推送 2025-12-27 · [GitHub](https://github.com/OpenGVLab/SDLM) · [官网](https://internvl.github.io/blog/2025-09-29-SDLM/) · 组织维护 · 中文 README
+⭐ 100 · Python · MIT · 推送 2025-12-27 · [GitHub](https://github.com/OpenGVLab/SDLM) · [官网](https://internvl.github.io/blog/2025-09-29-SDLM/) · 组织维护 · 中文 README
 
 **顺序扩散语言模型：在自回归模型上实现多 token 并行解码加速**
 

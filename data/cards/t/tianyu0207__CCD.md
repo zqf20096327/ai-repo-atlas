@@ -1,6 +1,6 @@
 # tianyu0207/CCD
 
-⭐ 48 · Python · 推送 2025-10-29 · [GitHub](https://github.com/tianyu0207/CCD) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **MICCAI 2021 论文官方实现：医学图像无监督异常检测**
 

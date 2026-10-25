@@ -1,6 +1,6 @@
 # praxis-proxy/ai
 
-⭐ 34 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/praxis-proxy/ai) · 组织维护
+⭐ 36 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/praxis-proxy/ai) · 组织维护
 
 **面向开发者的 AI 网关：路由、协议转换与策略代理**
 

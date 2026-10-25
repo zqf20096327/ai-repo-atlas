@@ -1,6 +1,6 @@
 # sourcery-ai/sourcery
 
-⭐ 1,877 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sourcery-ai/sourcery) · [官网](https://sourcery.ai) · 组织维护
+⭐ 1,878 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sourcery-ai/sourcery) · [官网](https://sourcery.ai) · 组织维护
 
 **面向 GitHub 仓库的 AI 自动代码审查服务，另含 IDE 助手**
 

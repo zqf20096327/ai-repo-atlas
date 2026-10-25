@@ -1,6 +1,6 @@
 # QwenLM/Qwen3.8
 
-⭐ 4,321 · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/QwenLM/Qwen3.8) · [官网](https://qwen.ai) · 组织维护 · 中文 README
+⭐ 4,326 · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/QwenLM/Qwen3.8) · [官网](https://qwen.ai) · 组织维护 · 中文 README
 
 **阿里 Qwen 团队的开源大模型系列仓库（Qwen3.5/3.6/3.8）**
 

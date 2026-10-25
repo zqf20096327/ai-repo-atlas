@@ -1,6 +1,6 @@
 # nirholas/cryptocurrency.cv
 
-⭐ 323 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/nirholas/cryptocurrency.cv) · [官网](https://cryptocurrency.cv) · 个人维护
+⭐ 323 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/nirholas/cryptocurrency.cv) · [官网](https://cryptocurrency.cv) · 个人维护
 
 **免费加密货币新闻聚合 API：450+ 端点，无需 API key**
 

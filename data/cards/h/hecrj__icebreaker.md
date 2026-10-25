@@ -1,6 +1,6 @@
 # hecrj/icebreaker
 
-⭐ 468 · Rust · MIT · 推送 2026-08-28 · [GitHub](https://github.com/hecrj/icebreaker) · 个人维护
+⭐ 467 · Rust · MIT · 推送 2026-08-28 · [GitHub](https://github.com/hecrj/icebreaker) · 个人维护
 
 **本地运行的桌面 AI 聊天应用，基于 Rust 与 llama.cpp**
 

@@ -1,6 +1,6 @@
 # d-kuro/gwq
 
-⭐ 476 · Go · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/d-kuro/gwq) · 个人维护
+⭐ 477 · Go · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/d-kuro/gwq) · 个人维护
 
 **带模糊查找的 Git worktree 管理 CLI，支持并行 AI 编码工作流**
 

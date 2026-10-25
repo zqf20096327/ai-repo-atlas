@@ -1,6 +1,6 @@
 # Miasyster/QuantGPT
 
-⭐ 494 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/Miasyster/QuantGPT) · 个人维护 · 中文 README
+⭐ 495 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/Miasyster/QuantGPT) · 个人维护 · 中文 README
 
 **给量化研究者的 Agent 驱动因子挖掘引擎，自动回测并提交 WorldQuant BRAIN**
 

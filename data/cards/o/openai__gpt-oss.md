@@ -1,6 +1,6 @@
 # openai/gpt-oss
 
-⭐ 20,491 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/openai/gpt-oss) · [官网](https://openai.com/open-models) · 组织维护
+⭐ 20,494 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/openai/gpt-oss) · [官网](https://openai.com/open-models) · 组织维护
 
 **OpenAI 开放权重的两个开源语言模型（120B/20B）**
 

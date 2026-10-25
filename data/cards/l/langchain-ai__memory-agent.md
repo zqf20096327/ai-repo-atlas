@@ -1,6 +1,6 @@
 # langchain-ai/memory-agent
 
-⭐ 483 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/memory-agent) · 组织维护
+⭐ 483 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/memory-agent) · 组织维护
 
 **LangGraph ReAct 记忆代理示例：带记忆保存工具的对话 agent**
 

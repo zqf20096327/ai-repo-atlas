@@ -1,6 +1,6 @@
 # ShunL12324/comfy-portal
 
-⭐ 82 · TypeScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/ShunL12324/comfy-portal) · [官网](https://shunl12324.github.io/comfy-portal) · 个人维护
+⭐ 83 · TypeScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/ShunL12324/comfy-portal) · [官网](https://shunl12324.github.io/comfy-portal) · 个人维护
 
 **手机上连接并运行 ComfyUI 工作流的原生 iOS/Android 客户端**
 

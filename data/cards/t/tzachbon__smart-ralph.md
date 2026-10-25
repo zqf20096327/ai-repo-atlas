@@ -1,6 +1,6 @@
 # tzachbon/smart-ralph
 
-⭐ 562 · Shell · MIT · 推送 2026-09-16 · [GitHub](https://github.com/tzachbon/smart-ralph) · 个人维护
+⭐ 563 · Shell · MIT · 推送 2026-09-16 · [GitHub](https://github.com/tzachbon/smart-ralph) · 个人维护
 
 **面向 Claude Code/Codex 的规格驱动开发插件，逐任务执行特性**
 

@@ -1,6 +1,6 @@
 # UppuluriKalyani/ML-Nexus
 
-⭐ 86 · Jupyter Notebook · MIT · 推送 2026-04-30 · [GitHub](https://github.com/UppuluriKalyani/ML-Nexus) · [官网](https://ml-nexus.vercel.app/) · 个人维护
+⭐ 87 · Jupyter Notebook · MIT · 推送 2026-04-30 · [GitHub](https://github.com/UppuluriKalyani/ML-Nexus) · [官网](https://ml-nexus.vercel.app/) · 个人维护
 
 **机器学习项目合集与学习资源库，供开源贡献者参与**
 

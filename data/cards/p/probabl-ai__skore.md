@@ -1,6 +1,6 @@
 # probabl-ai/skore
 
-⭐ 675 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/probabl-ai/skore) · [官网](https://docs.skore.probabl.ai) · 组织维护
+⭐ 675 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/probabl-ai/skore) · [官网](https://docs.skore.probabl.ai) · 组织维护
 
 **加速 ML 模型开发的 Python 库：结构化实验与自动评估报告**
 

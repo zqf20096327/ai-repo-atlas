@@ -1,6 +1,6 @@
 # sohaibt/product-mode
 
-⭐ 220 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/sohaibt/product-mode) · [官网](https://sohaibthiab.me/product-mode/) · 个人维护
+⭐ 221 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/sohaibt/product-mode) · [官网](https://sohaibthiab.me/product-mode/) · 个人维护
 
 **给编码 Agent 注入产品思维的 CLAUDE.md/AGENTS.md 指令文件**
 

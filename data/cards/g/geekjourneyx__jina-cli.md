@@ -1,6 +1,6 @@
 # geekjourneyx/jina-cli
 
-⭐ 310 · Go · MIT · 推送 2026-03-01 · [GitHub](https://github.com/geekjourneyx/jina-cli) · 个人维护 · 中文 README
+⭐ 311 · Go · MIT · 推送 2026-03-01 · [GitHub](https://github.com/geekjourneyx/jina-cli) · 个人维护 · 中文 README
 
 **封装 Jina AI Reader API 的网页转 Markdown CLI，供 AI Agent 调用**
 

@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/ai-virtual-assistant
 
-⭐ 280 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) · [官网](https://build.nvidia.com/nvidia/ai-virtual-assistant-for-customer-service) · 组织维护
+⭐ 281 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/ai-virtual-assistant) · [官网](https://build.nvidia.com/nvidia/ai-virtual-assistant-for-customer-service) · 组织维护
 
 **面向客服的 AI 虚拟助手参考蓝图（NVIDIA NIM + RAG）**
 

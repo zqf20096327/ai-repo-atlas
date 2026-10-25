@@ -1,6 +1,6 @@
 # ccq1/cn-financial-mcp
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/ccq1/cn-financial-mcp) · 个人维护 · 中文 README
+⭐ 46 · Python · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/ccq1/cn-financial-mcp) · 个人维护 · 中文 README
 
 **面向 MCP AI Agent 的中国 A 股金融数据工具服务器**
 

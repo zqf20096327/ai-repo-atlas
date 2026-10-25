@@ -1,6 +1,6 @@
 # blueberrycongee/Lumina-Note
 
-⭐ 918 · TypeScript · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/blueberrycongee/Lumina-Note) · 个人维护 · 中文 README
+⭐ 916 · TypeScript · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/blueberrycongee/Lumina-Note) · 个人维护 · 中文 README
 
 **带 AI agent 的本地优先 Markdown 笔记应用**
 

@@ -1,6 +1,6 @@
 # jaurakunal/isitsecure
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/jaurakunal/isitsecure) · [官网](https://isitsecure.ai) · 个人维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jaurakunal/isitsecure) · [官网](https://jaurakunal.github.io/isitsecure/) · 个人维护
 
 **面向非安全专家的 Web 应用安全扫描器：SAST+DAST+LLM 审查一条命令**
 

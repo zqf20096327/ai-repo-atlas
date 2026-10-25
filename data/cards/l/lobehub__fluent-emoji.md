@@ -1,6 +1,6 @@
 # lobehub/fluent-emoji
 
-⭐ 84 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lobehub/fluent-emoji) · [官网](https://fluent-emoji.lobehub.com) · 组织维护
+⭐ 84 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lobehub/fluent-emoji) · [官网](https://fluent-emoji.lobehub.com) · 组织维护
 
 **渲染微软 Fluent Emoji 的 React 组件，CDN 按需加载**
 

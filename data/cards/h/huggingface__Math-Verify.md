@@ -1,6 +1,6 @@
 # huggingface/Math-Verify
 
-⭐ 1,197 · Python · Apache-2.0 · 推送 2026-01-10 · [GitHub](https://github.com/huggingface/Math-Verify) · 组织维护
+⭐ 1,198 · Python · Apache-2.0 · 推送 2026-01-10 · [GitHub](https://github.com/huggingface/Math-Verify) · 组织维护
 
 **面向 LLM 数学任务的答案评测校验库，判定输出与标准答案等价**
 

@@ -1,6 +1,6 @@
 # ViewComfy/ViewComfy
 
-⭐ 673 · TypeScript · AGPL-3.0 · 推送 2026-03-19 · [GitHub](https://github.com/ViewComfy/ViewComfy) · [官网](https://www.viewcomfy.com) · 组织维护
+⭐ 672 · TypeScript · AGPL-3.0 · 推送 2026-03-19 · [GitHub](https://github.com/ViewComfy/ViewComfy) · [官网](https://www.viewcomfy.com) · 组织维护
 
 **把 ComfyUI 工作流转成可分享 Web 应用的开源工具**
 

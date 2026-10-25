@@ -1,6 +1,6 @@
 # pkill37/gitshaman.com
 
-⭐ 77 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/pkill37/gitshaman.com) · [官网](https://gitshaman.com) · 个人维护
+⭐ 77 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/pkill37/gitshaman.com) · [官网](https://gitshaman.com) · 个人维护
 
 **语义代码智能工具：静态源码浏览与本地代码分析 CLI**
 

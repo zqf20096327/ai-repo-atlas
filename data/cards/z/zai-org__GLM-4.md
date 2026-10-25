@@ -1,6 +1,6 @@
 # zai-org/GLM-4
 
-⭐ 7,071 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/zai-org/GLM-4) · 组织维护 · 中文 README
+⭐ 7,070 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/zai-org/GLM-4) · 组织维护 · 中文 README
 
 **智谱开源的 GLM-4 系列多语言多模态对话模型**
 

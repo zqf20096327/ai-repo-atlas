@@ -1,6 +1,6 @@
 # momozi1996/awesome-ai-persona-skills
 
-⭐ 1,019 · Shell · MIT · 推送 2026-09-02 · [GitHub](https://github.com/momozi1996/awesome-ai-persona-skills) · 个人维护 · 中文 README
+⭐ 1,029 · Shell · MIT · 推送 2026-09-02 · [GitHub](https://github.com/momozi1996/awesome-ai-persona-skills) · 个人维护 · 中文 README
 
 **100+ AI 人格蒸馏 Skills 合集：名人/作家/古籍等多品类 agent skill**
 

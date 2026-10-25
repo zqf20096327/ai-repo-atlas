@@ -1,6 +1,6 @@
 # synapseorch-ai/synapse-ai
 
-⭐ 332 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/synapseorch-ai/synapse-ai) · [官网](https://synapseorch.com) · 组织维护
+⭐ 333 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/synapseorch-ai/synapse-ai) · [官网](https://synapseorch.com) · 组织维护
 
 **开源多智能体编排平台：将 Agent、工具与任意 LLM 接成 DAG 工作流**
 

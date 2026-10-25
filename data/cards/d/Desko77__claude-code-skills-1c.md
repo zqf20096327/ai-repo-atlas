@@ -1,6 +1,6 @@
 # Desko77/claude-code-skills-1c
 
-⭐ 84 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Desko77/claude-code-skills-1c) · 个人维护 · 中文 README
+⭐ 85 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Desko77/claude-code-skills-1c) · 个人维护 · 中文 README
 
 **给 Claude Code 的 1С 开发技能包：121 技能+40 规则，无 Configurator 操作源码**
 

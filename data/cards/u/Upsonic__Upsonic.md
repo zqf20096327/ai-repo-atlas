@@ -1,6 +1,6 @@
 # Upsonic/Upsonic
 
-⭐ 7,962 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Upsonic/Upsonic) · [官网](https://docs.upsonic.ai) · 组织维护
+⭐ 7,964 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Upsonic/Upsonic) · [官网](https://docs.upsonic.ai) · 组织维护
 
 **Python 自主 Agent 构建框架，含 OCR 与预置 Agent**
 

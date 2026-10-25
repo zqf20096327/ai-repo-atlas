@@ -1,6 +1,6 @@
 # kubeflow/kale
 
-⭐ 707 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/kubeflow/kale) · [官网](https://kale.kubeflow.org/) · 组织维护
+⭐ 706 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/kubeflow/kale) · [官网](https://kale.kubeflow.org/) · 组织维护
 
 **给数据科学家：一键将 Jupyter Notebook 转为 Kubeflow 流水线**
 

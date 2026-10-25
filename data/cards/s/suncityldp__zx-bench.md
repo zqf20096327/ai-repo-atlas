@@ -1,6 +1,6 @@
 # suncityldp/zx-bench
 
-⭐ 174 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/suncityldp/zx-bench) · 组织维护 · 中文 README
+⭐ 176 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/suncityldp/zx-bench) · 组织维护 · 中文 README
 
 **本地部署的大模型评测平台：版本化题库、确定性评分与可审计报告**
 

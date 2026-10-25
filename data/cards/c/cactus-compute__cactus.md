@@ -1,6 +1,6 @@
 # cactus-compute/cactus
 
-⭐ 6,152 · C++ · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/cactus-compute/cactus) · [官网](https://cactuscompute.com) · 组织维护
+⭐ 6,158 · C++ · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/cactus-compute/cactus) · [官网](https://cactuscompute.com) · 组织维护
 
 **面向手机与可穿戴设备的本地 LLM/VLM 推理引擎**
 

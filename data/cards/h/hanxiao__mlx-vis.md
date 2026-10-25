@@ -1,6 +1,6 @@
 # hanxiao/mlx-vis
 
-⭐ 95 · Python · 推送 2026-03-20 · [GitHub](https://github.com/hanxiao/mlx-vis) · [官网](https://arxiv.org/abs/2603.04035) · 个人维护
+⭐ 96 · Python · 推送 2026-03-20 · [GitHub](https://github.com/hanxiao/mlx-vis) · [官网](https://arxiv.org/abs/2603.04035) · 个人维护
 
 **面向 Apple Silicon 的 MLX 降维与可视化库，Metal GPU 加速**
 

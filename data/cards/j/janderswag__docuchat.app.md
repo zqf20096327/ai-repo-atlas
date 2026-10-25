@@ -1,6 +1,6 @@
 # janderswag/docuchat.app
 
-⭐ 35 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/janderswag/docuchat.app) · [官网](https://docuchat.app/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/janderswag/docuchat.app) · [官网](https://docuchat.app/) · 个人维护
 
 **面向律师的私有本地法律文档问答桌面应用，答案带页码引证**
 

@@ -1,6 +1,6 @@
 # mytechnotalent/rea
 
-⭐ 85 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mytechnotalent/rea) · 个人维护
+⭐ 87 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mytechnotalent/rea) · 个人维护
 
 **纯 Rust 逆向工程框架：一条命令生成二进制分析报告**
 

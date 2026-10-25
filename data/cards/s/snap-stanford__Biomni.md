@@ -1,6 +1,6 @@
 # snap-stanford/Biomni
 
-⭐ 4,006 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/snap-stanford/Biomni) · [官网](https://biomni.stanford.edu) · 组织维护
+⭐ 4,009 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/snap-stanford/Biomni) · [官网](https://biomni.stanford.edu) · 组织维护
 
 **斯坦福的生物医学 AI agent，自主执行科研任务**
 

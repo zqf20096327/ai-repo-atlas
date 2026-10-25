@@ -1,6 +1,6 @@
 # theaiautomators/claude-code-agentic-rag-masterclass
 
-⭐ 194 · 推送 2026-01-29 · [GitHub](https://github.com/theaiautomators/claude-code-agentic-rag-masterclass) · [官网](https://www.theaiautomators.com/) · 组织维护
+⭐ 195 · 推送 2026-01-29 · [GitHub](https://github.com/theaiautomators/claude-code-agentic-rag-masterclass) · [官网](https://www.theaiautomators.com/) · 组织维护
 
 **与 Claude Code 协作从零构建 RAG 应用的 8 模块视频课程**
 

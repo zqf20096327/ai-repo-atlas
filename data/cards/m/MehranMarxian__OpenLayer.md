@@ -1,6 +1,6 @@
 # MehranMarxian/OpenLayer
 
-⭐ 43 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MehranMarxian/OpenLayer) · [官网](https://mehran-ahmadi.com/OpenLayer/) · 个人维护
+⭐ 44 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MehranMarxian/OpenLayer) · [官网](https://mehran-ahmadi.com/OpenLayer/) · 个人维护
 
 **面向 Photoshop 的 ComfyUI 插件：本地生成 AI 图层并返回可编辑图层**
 

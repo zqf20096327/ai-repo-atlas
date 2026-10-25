@@ -1,6 +1,6 @@
 # antoninoLorenzo/AI-OPS
 
-⭐ 167 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/antoninoLorenzo/AI-OPS) · [官网](https://antoninolorenzo.github.io/AI-OPS/) · 个人维护
+⭐ 168 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/antoninoLorenzo/AI-OPS) · [官网](https://antoninolorenzo.github.io/AI-OPS/) · 个人维护
 
 **自带 LLM 的渗透测试 AI agent，API+CLI 驱动**
 

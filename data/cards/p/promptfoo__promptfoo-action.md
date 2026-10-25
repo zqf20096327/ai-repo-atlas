@@ -1,6 +1,6 @@
 # promptfoo/promptfoo-action
 
-⭐ 77 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/promptfoo/promptfoo-action) · 组织维护
+⭐ 77 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/promptfoo/promptfoo-action) · 组织维护
 
 **在 GitHub Actions 中运行 Promptfoo 提示词评测的官方 Action**
 

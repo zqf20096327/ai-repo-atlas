@@ -1,6 +1,6 @@
 # lobehub/lobe-charts
 
-⭐ 120 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lobehub/lobe-charts) · [官网](https://charts.lobehub.com) · 组织维护
+⭐ 121 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lobehub/lobe-charts) · [官网](https://charts.lobehub.com) · 组织维护
 
 **面向仪表盘与 AI 榜单的 React 图表组件库，基于 recharts**
 

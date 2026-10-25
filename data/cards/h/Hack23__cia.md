@@ -1,6 +1,6 @@
 # Hack23/cia
 
-⭐ 242 · Java · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Hack23/cia) · [官网](https://hack23.com/cia-docs.html) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **瑞典政治OSINT分析平台：追踪议会、政府与公共机构数据**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

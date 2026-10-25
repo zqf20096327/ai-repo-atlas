@@ -1,6 +1,6 @@
 # KeithZ117/Comfyui-anima-sampler
 
-⭐ 62 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/KeithZ117/Comfyui-anima-sampler) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/KeithZ117/Comfyui-anima-sampler) · 个人维护
 
 **面向 Anima 模型的 ComfyUI 自定义采样器节点集**
 

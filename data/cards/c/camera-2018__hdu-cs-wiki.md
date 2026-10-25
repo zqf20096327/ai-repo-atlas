@@ -1,6 +1,6 @@
 # camera-2018/hdu-cs-wiki
 
-⭐ 265 · Vue · MIT · 推送 2026-06-07 · [GitHub](https://github.com/camera-2018/hdu-cs-wiki) · [官网](https://hdu-cs.wiki) · 组织维护 · 中文 README
+⭐ 266 · Vue · MIT · 推送 2026-06-07 · [GitHub](https://github.com/camera-2018/hdu-cs-wiki) · [官网](https://hdu-cs.wiki) · 组织维护 · 中文 README
 
 **杭州电子科技大学计算机科学学习讲义 Wiki**
 

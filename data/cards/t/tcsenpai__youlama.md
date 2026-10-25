@@ -1,6 +1,6 @@
 # tcsenpai/youlama
 
-⭐ 75 · Python · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/youlama) · 个人维护
+⭐ 74 · Python · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/youlama) · 个人维护
 
 **用 Whisper+Ollama 转录并摘要 YouTube 视频的 Web 应用**
 

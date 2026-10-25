@@ -1,6 +1,6 @@
 # K-Dense-AI/scientific-agents
 
-⭐ 226 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/K-Dense-AI/scientific-agents) · [官网](https://arxiv.org/abs/2610.00084) · 组织维护
+⭐ 227 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/K-Dense-AI/scientific-agents) · [官网](https://arxiv.org/abs/2610.00084) · 组织维护
 
 **科研/工程专家思维 AGENTS.md 提示词档案合集，供 AI agent 加载**
 

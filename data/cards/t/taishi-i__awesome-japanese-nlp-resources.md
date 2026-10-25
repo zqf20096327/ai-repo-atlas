@@ -1,6 +1,6 @@
 # taishi-i/awesome-japanese-nlp-resources
 
-⭐ 1,023 · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/taishi-i/awesome-japanese-nlp-resources) · [官网](https://taishi-i.github.io/awesome-japanese-nlp-resources/) · 个人维护 · 中文 README
+⭐ 1,023 · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/taishi-i/awesome-japanese-nlp-resources) · [官网](https://taishi-i.github.io/awesome-japanese-nlp-resources/) · 个人维护 · 中文 README
 
 **日语 NLP 资源策展清单（898 GitHub + 454 Hugging Face 仓库）**
 

@@ -1,6 +1,6 @@
 # b-data/jupyterlab-r-docker-stack
 
-⭐ 36 · Dockerfile · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/b-data/jupyterlab-r-docker-stack) · [官网](https://gitlab.com/b-data/jupyterlab/r-project/docker-stack) · 组织维护
+⭐ 36 · Dockerfile · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/b-data/jupyterlab-r-docker-stack) · [官网](https://gitlab.com/b-data/jupyterlab/r-project/docker-stack) · 组织维护
 
 **多架构 JupyterLab R 语言 Docker 镜像栈，面向数据科学开发**
 

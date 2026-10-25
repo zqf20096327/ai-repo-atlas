@@ -1,6 +1,6 @@
 # jsgrrchg/NeverWrite
 
-⭐ 791 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/jsgrrchg/NeverWrite) · [官网](https://neverwrite.app/) · 个人维护
+⭐ 792 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jsgrrchg/NeverWrite) · [官网](https://neverwrite.app/) · 个人维护
 
 **本地优先的 agentic Markdown 工作区：写作+多 Agent+变更审查**
 

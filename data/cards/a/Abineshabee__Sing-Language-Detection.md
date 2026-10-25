@@ -1,6 +1,6 @@
 # Abineshabee/Sing-Language-Detection
 
-⭐ 41 · Python · 推送 2026-03-08 · [GitHub](https://github.com/Abineshabee/Sing-Language-Detection) · 个人维护
+⭐ 44 · Python · 推送 2026-03-08 · [GitHub](https://github.com/Abineshabee/Sing-Language-Detection) · 个人维护
 
 **基于 CNN 与 OpenCV 的 ASL 字母手势实时识别系统**
 

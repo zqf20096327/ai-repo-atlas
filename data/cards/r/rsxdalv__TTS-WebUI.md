@@ -1,6 +1,6 @@
 # rsxdalv/TTS-WebUI
 
-⭐ 3,294 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/rsxdalv/TTS-WebUI) · [官网](http://TTSWebUI.com/) · 个人维护
+⭐ 3,295 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/rsxdalv/TTS-WebUI) · [官网](http://TTSWebUI.com/) · 个人维护
 
 **聚合数十种 TTS/音频生成模型的本地 WebUI**
 

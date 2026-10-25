@@ -1,6 +1,6 @@
 # spxrogers/agentsync
 
-⭐ 37 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/spxrogers/agentsync) · [官网](https://agentsync.cc) · 个人维护
+⭐ 38 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/spxrogers/agentsync) · [官网](https://agentsync.cc) · 个人维护
 
 **AI 编码代理配置同步 CLI：一处定义，32 个代理生效**
 

@@ -1,6 +1,6 @@
 # aidenybai/react-grab
 
-⭐ 7,680 · TypeScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/aidenybai/react-grab) · [官网](https://react-grab.com) · 个人维护
+⭐ 7,682 · TypeScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/aidenybai/react-grab) · [官网](https://react-grab.com) · 个人维护
 
 **把浏览器选中的 UI 元素复制为带源码位置的上下文供 agent 使用**
 

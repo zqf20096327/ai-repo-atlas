@@ -1,6 +1,6 @@
 # Hyacehila/humanizer-zh-next
 
-⭐ 206 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Hyacehila/humanizer-zh-next) · 个人维护 · 中文 README
+⭐ 212 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hyacehila/humanizer-zh-next) · 个人维护 · 中文 README
 
 **去除中文文本 AI 写作痕迹的 Agent 编辑技能包**
 

@@ -1,6 +1,6 @@
 # agents-squads/squads-cli
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/agents-squads/squads-cli) · [官网](https://agents-squads.com) · 组织维护
+⭐ 55 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/agents-squads/squads-cli) · [官网](https://agents-squads.com) · 组织维护
 
 **终端里管理 AI agent 小队的 CLI，markdown 定义、git 跟踪**
 

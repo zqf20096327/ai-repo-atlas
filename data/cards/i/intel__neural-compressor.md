@@ -1,6 +1,6 @@
 # intel/neural-compressor
 
-⭐ 2,723 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/intel/neural-compressor) · [官网](https://intel.github.io/neural-compressor/) · 组织维护
+⭐ 2,724 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/intel/neural-compressor) · [官网](https://intel.github.io/neural-compressor/) · 组织维护
 
 **Intel 开源的深度学习模型压缩库：量化/剪枝/蒸馏**
 

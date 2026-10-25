@@ -1,6 +1,6 @@
 # MalganisWu/red-bean-qing-tuan
 
-⭐ 94 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/MalganisWu/red-bean-qing-tuan) · 个人维护 · 中文 README
+⭐ 95 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/MalganisWu/red-bean-qing-tuan) · 个人维护 · 中文 README
 
 **可嵌入的 TypeScript Agent Runtime：model→tool 循环与 checkpoint**
 

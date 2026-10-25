@@ -1,6 +1,6 @@
 # zoompilot/jetlink
 
-⭐ 40 · Swift · MIT · 推送 2026-10-18 · [GitHub](https://github.com/zoompilot/jetlink) · [官网](https://zoompilot.ai/jetlink) · 个人维护
+⭐ 41 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zoompilot/jetlink) · [官网](https://zoompilot.ai/jetlink) · 个人维护
 
 **在电脑上运行 openpilot 大型驾驶模型的工具**
 

@@ -1,6 +1,6 @@
 # hotchpotch/openai-api-server-via-codex
 
-⭐ 84 · Go · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/hotchpotch/openai-api-server-via-codex) · [官网]( ) · 个人维护
+⭐ 85 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/hotchpotch/openai-api-server-via-codex) · [官网]( ) · 个人维护
 
 **将 ChatGPT/Codex 登录封装为本地 OpenAI 兼容 API 的 Go 代理服务器**
 

@@ -1,6 +1,6 @@
 # scouzi1966/maclocal-api
 
-⭐ 348 · Swift · MIT · 推送 2026-10-11 · [GitHub](https://github.com/scouzi1966/maclocal-api) · 个人维护
+⭐ 349 · Swift · MIT · 推送 2026-10-11 · [GitHub](https://github.com/scouzi1966/maclocal-api) · 个人维护
 
 **把 Apple Silicon Mac 变成本地 OpenAI 兼容 AI 服务器的 CLI**
 

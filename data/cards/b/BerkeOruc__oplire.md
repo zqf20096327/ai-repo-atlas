@@ -1,6 +1,6 @@
 # BerkeOruc/oplire
 
-⭐ 52 · Rust · MIT · 推送 2026-10-10 · [GitHub](https://github.com/BerkeOruc/oplire) · [官网](https://berkeai.com) · 个人维护
+⭐ 55 · Rust · MIT · 推送 2026-10-10 · [GitHub](https://github.com/BerkeOruc/oplire) · [官网](https://berkeai.com) · 个人维护
 
 **轮换 WARP IP 重置 OpenCode 限额并代理 Claude Code 接入免费模型**
 

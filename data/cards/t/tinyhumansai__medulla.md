@@ -1,6 +1,6 @@
 # tinyhumansai/medulla
 
-⭐ 51 · Rust · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/tinyhumansai/medulla) · [官网](https://tinyhumans.ai/medulla) · 组织维护
+⭐ 51 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/tinyhumansai/medulla) · [官网](https://tinyhumans.ai/medulla) · 组织维护
 
 **单终端并行管理多机器上多个编码 agent 的终端**
 

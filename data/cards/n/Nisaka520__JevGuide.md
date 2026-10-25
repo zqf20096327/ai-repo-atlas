@@ -1,6 +1,6 @@
 # Nisaka520/JevGuide
 
-⭐ 46 · Kotlin · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Nisaka520/JevGuide) · [官网](https://nisaka520.github.io/JevGuide/) · 个人维护 · 中文 README
+⭐ 47 · Kotlin · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Nisaka520/JevGuide) · [官网](https://nisaka520.github.io/JevGuide/) · 个人维护 · 中文 README
 
 **微信聊天关系进展助手：读屏判读+攻略度+3条候选回复**
 

@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleOCR
 
-⭐ 91,615 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/PaddlePaddle/PaddleOCR) · [官网](https://www.paddleocr.com) · 组织维护 · 中文 README
+⭐ 91,655 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/PaddlePaddle/PaddleOCR) · [官网](https://www.paddleocr.com) · 组织维护 · 中文 README
 
 **将 PDF/图片文档转为结构化数据的 OCR 与文档解析工具包**
 

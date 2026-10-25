@@ -1,6 +1,6 @@
 # R0650N/spirit-flux-refiner
 
-⭐ 55 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/R0650N/spirit-flux-refiner) · 个人维护
+⭐ 55 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/R0650N/spirit-flux-refiner) · 个人维护
 
 **面向 Flux1 等模型的 LoRA 训练工作台，供 AI 创作者微调模型**
 

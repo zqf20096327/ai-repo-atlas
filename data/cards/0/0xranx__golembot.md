@@ -1,6 +1,6 @@
 # 0xranx/golembot
 
-⭐ 323 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/0xranx/golembot) · [官网](https://0xranx.github.io/golembot/) · 个人维护 · 中文 README
+⭐ 323 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/0xranx/golembot) · [官网](https://0xranx.github.io/golembot/) · 个人维护 · 中文 README
 
 **把 Coding Agent 接入 IM 渠道的网关与嵌入框架**
 

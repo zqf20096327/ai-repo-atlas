@@ -1,6 +1,6 @@
 # ericgandrade/claude-superskills
 
-⭐ 83 · JavaScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/ericgandrade/claude-superskills) · 个人维护
+⭐ 84 · JavaScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/ericgandrade/claude-superskills) · 个人维护
 
 **跨 8 个 AI 编码助手的 18 个通用技能包平台**
 

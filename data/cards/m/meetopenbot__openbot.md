@@ -1,6 +1,6 @@
 # meetopenbot/openbot
 
-⭐ 344 · TypeScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/meetopenbot/openbot) · [官网](https://www.getopenbot.com/) · 个人维护
+⭐ 345 · TypeScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/meetopenbot/openbot) · [官网](https://www.getopenbot.com/) · 个人维护
 
 **本地优先的 AI agent 运行环境，含事件 API 与本地存储**
 

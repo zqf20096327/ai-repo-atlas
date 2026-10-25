@@ -1,6 +1,6 @@
 # pleasedodisturb/awesome-llm-token-optimization
 
-⭐ 103 · Shell · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/pleasedodisturb/awesome-llm-token-optimization) · 个人维护
+⭐ 103 · Shell · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/pleasedodisturb/awesome-llm-token-optimization) · 个人维护
 
 **降低 LLM token 成本的策略/工具/论文策展清单**
 

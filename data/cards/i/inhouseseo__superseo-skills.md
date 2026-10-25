@@ -1,6 +1,6 @@
 # inhouseseo/superseo-skills
 
-⭐ 366 · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/inhouseseo/superseo-skills) · [官网](https://inhouseseo.ai) · 组织维护
+⭐ 368 · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/inhouseseo/superseo-skills) · [官网](https://inhouseseo.ai) · 组织维护
 
 **给 SEO 从业者的 11 个 Claude 技能包：页面审计到文章生成**
 

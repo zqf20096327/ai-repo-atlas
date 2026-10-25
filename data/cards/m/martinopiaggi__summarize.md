@@ -1,6 +1,6 @@
 # martinopiaggi/summarize
 
-⭐ 230 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/martinopiaggi/summarize) · [官网](https://summarize.martino.im) · 个人维护
+⭐ 231 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/martinopiaggi/summarize) · [官网](https://summarize.martino.im) · 个人维护
 
 **多来源视频转 Markdown 摘要工具（YouTube/TikTok 等 11+ 来源）**
 

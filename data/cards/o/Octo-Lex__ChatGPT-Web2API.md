@@ -1,6 +1,6 @@
 # Octo-Lex/ChatGPT-Web2API
 
-⭐ 85 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Octo-Lex/ChatGPT-Web2API) · 个人维护
+⭐ 87 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Octo-Lex/ChatGPT-Web2API) · 个人维护
 
 **把 ChatGPT 网页版封装成 OpenAI 兼容 API 与 MCP 服务的代理**
 

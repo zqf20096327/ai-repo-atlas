@@ -1,6 +1,6 @@
 # archestra-ai/archestra
 
-⭐ 4,399 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/archestra-ai/archestra) · [官网](https://Archestra.AI) · 组织维护
+⭐ 4,402 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/archestra-ai/archestra) · [官网](https://Archestra.AI) · 组织维护
 
 **企业级一体化 AI 平台：LLM/MCP 网关、注册表与编排器**
 

@@ -1,6 +1,6 @@
 # kibotu/karpathy-microgpt
 
-⭐ 58 · Python · 推送 2026-02-12 · [GitHub](https://github.com/kibotu/karpathy-microgpt) · 个人维护
+⭐ 59 · Python · 推送 2026-02-12 · [GitHub](https://github.com/kibotu/karpathy-microgpt) · 个人维护
 
 **243 行无依赖 Python 从零实现并训练 GPT 的教学项目**
 

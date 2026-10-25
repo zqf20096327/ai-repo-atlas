@@ -1,6 +1,6 @@
 # swarm-ai-research/swarm
 
-⭐ 48 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/swarm-ai-research/swarm) · [官网](https://www.swarm-ai.org/) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/swarm-ai-research/swarm) · [官网](https://www.swarm-ai.org/) · 组织维护
 
 **多智能体系统涌现风险评测框架：测量交互层面的安全性**
 

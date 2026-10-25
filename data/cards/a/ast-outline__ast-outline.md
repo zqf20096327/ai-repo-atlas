@@ -1,6 +1,6 @@
 # ast-outline/ast-outline
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/ast-outline/ast-outline) · [官网](https://ast-outline.github.io/) · 个人维护 · 中文 README
+⭐ 60 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/ast-outline/ast-outline) · [官网](https://ast-outline.github.io/) · 个人维护 · 中文 README
 
 **给 AI 编程代理按需提取代码上下文的 tree-sitter CLI**
 

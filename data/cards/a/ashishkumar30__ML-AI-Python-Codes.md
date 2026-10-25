@@ -1,6 +1,6 @@
 # ashishkumar30/ML-AI-Python-Codes
 
-⭐ 35 · Jupyter Notebook · 推送 2025-10-29 · [GitHub](https://github.com/ashishkumar30/ML-AI-Python-Codes) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **ML/NLP/密码学等 Python 示例代码合集，供学习研究**
 

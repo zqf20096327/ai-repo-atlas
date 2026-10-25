@@ -1,6 +1,6 @@
 # xalgorix/xalgorix
 
-⭐ 1,233 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/xalgorix/xalgorix) · [官网](https://www.xalgorix.com) · 组织维护
+⭐ 1,251 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/xalgorix/xalgorix) · [官网](https://www.xalgorix.com) · 组织维护
 
 **自托管的自主 AI 渗透测试平台，产出经复验的漏洞证据**
 

@@ -1,6 +1,6 @@
 # benman1/generative_ai_with_langchain
 
-⭐ 1,445 · Jupyter Notebook · MIT · 推送 2026-09-26 · [GitHub](https://github.com/benman1/generative_ai_with_langchain) · [官网](https://amzn.to/4dErkya) · 个人维护
+⭐ 1,446 · Jupyter Notebook · MIT · 推送 2026-09-26 · [GitHub](https://github.com/benman1/generative_ai_with_langchain) · [官网](https://amzn.to/4dErkya) · 个人维护
 
 **《Generative AI with LangChain》第二版书籍配套代码仓库**
 

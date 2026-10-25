@@ -1,6 +1,6 @@
 # HilbertraumAI/HilbertRaum
 
-⭐ 145 · TypeScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/HilbertraumAI/HilbertRaum) · [官网](https://hilbertraum.ai/) · 组织维护
+⭐ 146 · TypeScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/HilbertraumAI/HilbertRaum) · [官网](https://hilbertraum.ai/) · 组织维护
 
 **完全离线运行的私有 AI 工作区：本地对话、文档问答与离线维基**
 

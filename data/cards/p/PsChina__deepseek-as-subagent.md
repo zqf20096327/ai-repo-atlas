@@ -1,6 +1,6 @@
 # PsChina/deepseek-as-subagent
 
-⭐ 51 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/PsChina/deepseek-as-subagent) · 个人维护 · 中文 README
+⭐ 52 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/PsChina/deepseek-as-subagent) · 个人维护 · 中文 README
 
 **把 DeepSeek 作为子代理运行在 Claude Code/Codex 内的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # a-Fig/Accordion
 
-⭐ 246 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/a-Fig/Accordion) · [官网](https://get-accordion.dev) · 个人维护
+⭐ 247 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/a-Fig/Accordion) · [官网](https://get-accordion.dev) · 个人维护
 
 **pi 编码 agent 的上下文窗口可视化与折叠管理扩展**
 

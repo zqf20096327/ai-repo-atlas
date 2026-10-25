@@ -1,6 +1,6 @@
 # martin-rizzo/AmazingZImageWorkflow
 
-⭐ 508 · Python · Unlicense · 推送 2026-01-15 · [GitHub](https://github.com/martin-rizzo/AmazingZImageWorkflow) · [官网](https://civitai.com/models/2181458/amazing-z-image-workflow) · 个人维护
+⭐ 507 · Python · Unlicense · 推送 2026-01-15 · [GitHub](https://github.com/martin-rizzo/AmazingZImageWorkflow) · [官网](https://civitai.com/models/2181458/amazing-z-image-workflow) · 个人维护
 
 **ComfyUI 的 Z-Image-Turbo 出图工作流：18 种预设样式+精修放大**
 

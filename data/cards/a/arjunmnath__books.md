@@ -1,6 +1,6 @@
 # arjunmnath/books
 
-⭐ 155 · Unlicense · 推送 2026-07-22 · [GitHub](https://github.com/arjunmnath/books) · 个人维护
+⭐ 156 · Unlicense · 推送 2026-07-22 · [GitHub](https://github.com/arjunmnath/books) · 个人维护
 
 **计算机/AI/神经科学等领域教材与参考书 PDF 汇总清单**
 

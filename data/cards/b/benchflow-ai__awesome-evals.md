@@ -1,6 +1,6 @@
 # benchflow-ai/awesome-evals
 
-⭐ 1,006 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/benchflow-ai/awesome-evals) · 组织维护
+⭐ 1,010 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/benchflow-ai/awesome-evals) · 组织维护
 
 **面向 AI agent 评测与构建的资源策展清单，含论文/博客/工具/基准**
 

@@ -1,6 +1,6 @@
 # KhazP/vibe-coding-prompt-template
 
-⭐ 3,179 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/KhazP/vibe-coding-prompt-template) · [官网](https://vibeworkflow.app/) · 个人维护
+⭐ 3,185 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/KhazP/vibe-coding-prompt-template) · [官网](https://vibeworkflow.app/) · 个人维护
 
 **用四步提示词模板把想法转为 PRD/技术设计并用 AI 编码助手构建**
 

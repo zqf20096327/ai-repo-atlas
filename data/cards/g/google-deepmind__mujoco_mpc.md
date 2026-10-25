@@ -1,6 +1,6 @@
 # google-deepmind/mujoco_mpc
 
-⭐ 1,750 · C++ · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-deepmind/mujoco_mpc) · [官网](https://github.com/deepmind/mujoco_mpc) · 组织维护
+⭐ 1,751 · C++ · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-deepmind/mujoco_mpc) · [官网](https://github.com/deepmind/mujoco_mpc) · 组织维护
 
 **基于 MuJoCo 的实时预测控制（MPC）交互应用与框架**
 

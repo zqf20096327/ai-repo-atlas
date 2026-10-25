@@ -1,6 +1,6 @@
 # TimeCyber/MCP-X-web
 
-⭐ 97 · TypeScript · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/TimeCyber/MCP-X-web) · [官网](https://www.mcp-x.com) · 组织维护 · 中文 README
+⭐ 96 · TypeScript · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/TimeCyber/MCP-X-web) · [官网](https://www.mcp-x.com) · 组织维护 · 中文 README
 
 **企业级 AIGC 工作台前端：对话/生图/生视频/应用构建/MCP市场**
 

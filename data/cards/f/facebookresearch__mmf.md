@@ -1,6 +1,6 @@
 # facebookresearch/mmf
 
-⭐ 5,636 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/facebookresearch/mmf) · [官网](https://mmf.sh/) · 组织维护
+⭐ 5,637 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/facebookresearch/mmf) · [官网](https://mmf.sh/) · 组织维护
 
 **视觉-语言多模态研究的模块化 PyTorch 框架**
 

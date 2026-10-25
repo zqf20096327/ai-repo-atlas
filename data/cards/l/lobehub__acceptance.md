@@ -1,6 +1,6 @@
 # lobehub/acceptance
 
-⭐ 36 · JavaScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/acceptance) · [官网](https://lobehub.com/acceptance) · 组织维护
+⭐ 37 · JavaScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/acceptance) · [官网](https://lobehub.com/acceptance) · 组织维护
 
 **面向 Coding Agent 的开源验收测试工具：把需求变成可核验检查**
 

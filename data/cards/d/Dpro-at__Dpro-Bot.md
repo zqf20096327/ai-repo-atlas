@@ -1,6 +1,6 @@
 # Dpro-at/Dpro-Bot
 
-⭐ 70 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Dpro-at/Dpro-Bot) · [官网](https://agent-player.com) · 个人维护
+⭐ 71 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Dpro-at/Dpro-Bot) · [官网](https://agent-player.com) · 个人维护
 
 **给个人与企业的 AI 员工桌面助手：请求路由到专属 agent 执行**
 

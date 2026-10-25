@@ -1,6 +1,6 @@
 # telekinesis-ai/telekinesis-examples
 
-⭐ 86 · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/telekinesis-ai/telekinesis-examples) · [官网](https://docs.telekinesis.ai/) · 组织维护
+⭐ 86 · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/telekinesis-ai/telekinesis-examples) · [官网](https://docs.telekinesis.ai/) · 组织维护
 
 **面向机器人的 Agentic OS 技能示例库：CV、机器人与物理 AI 应用**
 

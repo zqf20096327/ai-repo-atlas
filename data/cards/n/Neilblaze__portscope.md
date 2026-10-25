@@ -1,6 +1,6 @@
 # Neilblaze/portscope
 
-⭐ 41 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Neilblaze/portscope) · [官网](https://portscope.apps.neilblaze.live) · 个人维护
+⭐ 41 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Neilblaze/portscope) · [官网](https://portscope.apps.neilblaze.live) · 个人维护
 
 **查看与管理本机端口进程的 CLI，附自然语言 AI 助手**
 

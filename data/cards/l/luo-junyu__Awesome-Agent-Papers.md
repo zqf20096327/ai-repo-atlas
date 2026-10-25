@@ -1,6 +1,6 @@
 # luo-junyu/Awesome-Agent-Papers
 
-⭐ 2,867 · 推送 2025-11-07 · [GitHub](https://github.com/luo-junyu/Awesome-Agent-Papers) · [官网](https://arxiv.org/abs/2503.21460) · 个人维护
+⭐ 2,868 · 推送 2025-11-07 · [GitHub](https://github.com/luo-junyu/Awesome-Agent-Papers) · [官网](https://arxiv.org/abs/2503.21460) · 个人维护
 
 **LLM Agent 研究论文清单：构建、协作、演化、工具、安全、评测与应用**
 

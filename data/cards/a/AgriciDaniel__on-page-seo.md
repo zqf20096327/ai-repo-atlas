@@ -1,6 +1,6 @@
 # AgriciDaniel/on-page-seo
 
-⭐ 271 · TypeScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/AgriciDaniel/on-page-seo) · [官网](https://agricidaniel.com/blog/free-seo-audit-tools) · 个人维护
+⭐ 273 · TypeScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/AgriciDaniel/on-page-seo) · [官网](https://agricidaniel.com/blog/free-seo-audit-tools) · 个人维护
 
 **网站页面 SEO 审计工具：批量分析最多 500 页的 74 项指标**
 

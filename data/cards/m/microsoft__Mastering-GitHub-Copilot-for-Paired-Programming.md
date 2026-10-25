@@ -1,6 +1,6 @@
 # microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
 
-⭐ 8,165 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) · 组织维护
+⭐ 8,164 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) · 组织维护
 
 **微软出品的 GitHub Copilot AI 结对编程多模块课程**
 

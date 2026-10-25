@@ -1,6 +1,6 @@
 # mozilla-ai/llamafile
 
-⭐ 26,480 · C++ · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/mozilla-ai/llamafile) · [官网](https://docs.mozilla.ai/llamafile) · 组织维护
+⭐ 26,485 · C++ · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/mozilla-ai/llamafile) · [官网](https://docs.mozilla.ai/llamafile) · 组织维护
 
 **把 LLM 打包成单文件分发与本地运行的开发者工具**
 

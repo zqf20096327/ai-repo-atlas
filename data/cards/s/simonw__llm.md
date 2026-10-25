@@ -1,6 +1,6 @@
 # simonw/llm
 
-⭐ 12,662 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/simonw/llm) · [官网](https://llm.datasette.io) · 个人维护
+⭐ 12,669 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/simonw/llm) · [官网](https://llm.datasette.io) · 个人维护
 
 **命令行调用各类大模型的 CLI 工具与 Python 库**
 

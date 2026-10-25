@@ -1,6 +1,6 @@
 # logisky/LogiSheets
 
-⭐ 272 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/logisky/LogiSheets) · [官网](https://www.logisheets.com/) · 个人维护 · 中文 README
+⭐ 272 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/logisky/LogiSheets) · [官网](https://www.logisheets.com/) · 个人维护 · 中文 README
 
 **面向人与 AI 协作的 Excel 兼容电子表格引擎与应用**
 

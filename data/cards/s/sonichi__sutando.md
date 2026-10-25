@@ -1,6 +1,6 @@
 # sonichi/sutando
 
-⭐ 400 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sonichi/sutando) · [官网](https://sutando.ai) · 个人维护
+⭐ 400 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sonichi/sutando) · [官网](https://sutando.ai) · 个人维护
 
 **自托管的个人 AI 代理：语音/电话/会议替你干活并自我改进**
 

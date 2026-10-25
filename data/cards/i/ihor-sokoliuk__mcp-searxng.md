@@ -1,6 +1,6 @@
 # ihor-sokoliuk/mcp-searxng
 
-⭐ 1,329 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ihor-sokoliuk/mcp-searxng) · [官网](https://www.npmjs.com/package/mcp-searxng) · 个人维护
+⭐ 1,329 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ihor-sokoliuk/mcp-searxng) · [官网](https://www.npmjs.com/package/mcp-searxng) · 个人维护
 
 **为 AI 助手接入 SearXNG 隐私搜索的 MCP 服务器**
 

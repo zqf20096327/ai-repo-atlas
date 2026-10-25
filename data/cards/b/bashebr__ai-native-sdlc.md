@@ -1,6 +1,6 @@
 # bashebr/ai-native-sdlc
 
-⭐ 87 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/bashebr/ai-native-sdlc) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/bashebr/ai-native-sdlc) · 个人维护
 
 **给编码 Agent 的 AI-Native SDLC 工作流技能与插件**
 

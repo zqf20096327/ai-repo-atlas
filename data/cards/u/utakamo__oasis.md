@@ -1,6 +1,6 @@
 # utakamo/oasis
 
-⭐ 40 · Lua · MIT · 推送 2026-10-24 · [GitHub](https://github.com/utakamo/oasis) · [官网](https://utakamo.com/article/openwrt/myapp/oasis/intro.html) · 个人维护 · 中文 README
+⭐ 40 · Lua · MIT · 推送 2026-10-25 · [GitHub](https://github.com/utakamo/oasis) · [官网](https://utakamo.com/article/openwrt/myapp/oasis/intro.html) · 个人维护 · 中文 README
 
 **OpenWrt 路由器上的 AI 聊天助手，用 AI 生成并校验路由器配置**
 

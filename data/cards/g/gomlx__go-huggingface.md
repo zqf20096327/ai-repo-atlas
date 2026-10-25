@@ -1,6 +1,6 @@
 # gomlx/go-huggingface
 
-⭐ 92 · Go · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/gomlx/go-huggingface) · 组织维护
+⭐ 92 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gomlx/go-huggingface) · 组织维护
 
 **Go 语言库：从 HuggingFace Hub 下载模型/分词器/数据集并导入 GoMLX**
 

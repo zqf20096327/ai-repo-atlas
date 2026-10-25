@@ -1,6 +1,6 @@
 # pht88888888/DSHAPP
 
-⭐ 50 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/pht88888888/DSHAPP) · 个人维护 · 中文 README
+⭐ 53 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/pht88888888/DSHAPP) · 个人维护 · 中文 README
 
 **在 Android 手机上运行 DSH 编码 Agent 的宿主应用**
 

@@ -1,6 +1,6 @@
 # ljleb/sd-mecha
 
-⭐ 81 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/ljleb/sd-mecha) · 个人维护
+⭐ 82 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/ljleb/sd-mecha) · 个人维护
 
 **通用模型合并库：内存高效地合并扩散模型与 LLM 等权重**
 

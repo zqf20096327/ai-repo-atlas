@@ -1,6 +1,6 @@
 # keon/browser-control
 
-⭐ 3,152 · Rust · MIT · 推送 2026-08-27 · [GitHub](https://github.com/keon/browser-control) · 个人维护
+⭐ 3,153 · Rust · MIT · 推送 2026-08-27 · [GitHub](https://github.com/keon/browser-control) · 个人维护
 
 **Rust 编写的浏览器控制 CLI，供 coding agent 通过 CDP 驱动真实浏览器**
 

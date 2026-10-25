@@ -1,6 +1,6 @@
 # netket/netket
 
-⭐ 703 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/netket/netket) · [官网](https://www.netket.org) · 组织维护
+⭐ 704 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/netket/netket) · [官网](https://www.netket.org) · 组织维护
 
 **基于 JAX 的多体量子系统机器学习 Python 库**
 

@@ -1,6 +1,6 @@
 # melgarafael/DeskcommCRM
 
-⭐ 4,833 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/melgarafael/DeskcommCRM) · [官网](https://deskcomm.com.br) · 个人维护 · 中文 README
+⭐ 4,848 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/melgarafael/DeskcommCRM) · [官网](https://deskcomm.com.br) · 个人维护 · 中文 README
 
 **自托管的开源 AI 销售 CRM，AI 代理通过 WhatsApp 接待与成交**
 

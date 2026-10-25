@@ -1,6 +1,6 @@
 # AnotiaWang/awesome-decision-models
 
-⭐ 662 · Python · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/AnotiaWang/awesome-decision-models) · [官网](https://anotiawang.github.io/awesome-decision-models/) · 个人维护 · 中文 README
+⭐ 665 · Python · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/AnotiaWang/awesome-decision-models) · [官网](https://anotiawang.github.io/awesome-decision-models/) · 个人维护 · 中文 README
 
 **决策模型（System One）生态策展清单：API、模型、运行时与论文**
 

@@ -1,6 +1,6 @@
 # ouka-lab/untodo
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ouka-lab/untodo) · [官网](https://ouka-lab.github.io/untodo/) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ouka-lab/untodo) · [官网](https://ouka-lab.github.io/untodo/) · 个人维护 · 中文 README
 
 **给开发者与 AI 编程助手的类型安全 TODO 函数库**
 

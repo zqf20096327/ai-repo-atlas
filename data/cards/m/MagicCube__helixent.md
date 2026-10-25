@@ -1,6 +1,6 @@
 # MagicCube/helixent
 
-⭐ 684 · TypeScript · 推送 2026-05-21 · [GitHub](https://github.com/MagicCube/helixent) · 个人维护 · 中文 README
+⭐ 685 · TypeScript · 推送 2026-05-21 · [GitHub](https://github.com/MagicCube/helixent) · 个人维护 · 中文 README
 
 **基于 Bun 的 ReAct 式 agent 循环库与编码 agent CLI**
 

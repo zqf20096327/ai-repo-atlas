@@ -1,6 +1,6 @@
 # alvinreal/awesome-opensource-ai
 
-⭐ 4,929 · Python · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/alvinreal/awesome-opensource-ai) · [官网](https://awesomeosai.com) · 个人维护
+⭐ 4,936 · Python · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/alvinreal/awesome-opensource-ai) · [官网](https://awesomeosai.com) · 个人维护
 
 **开源 AI 项目精选清单：覆盖模型、框架与基础设施**
 

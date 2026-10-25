@@ -1,6 +1,6 @@
 # midcodehub/miaoCut
 
-⭐ 46 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/midcodehub/miaoCut) · [官网](https://miaocut.app) · 个人维护 · 中文 README
+⭐ 46 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/midcodehub/miaoCut) · [官网](https://miaocut.app) · 个人维护 · 中文 README
 
 **免注册的在线 AI 图像工具箱：一键抠图、去水印、老照片修复**
 

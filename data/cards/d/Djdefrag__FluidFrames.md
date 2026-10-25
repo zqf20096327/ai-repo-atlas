@@ -1,6 +1,6 @@
 # Djdefrag/FluidFrames
 
-⭐ 281 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Djdefrag/FluidFrames) · 个人维护
+⭐ 280 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Djdefrag/FluidFrames) · 个人维护
 
 **Windows 视频补帧与慢动作 AI 应用（RIFE）**
 

@@ -1,6 +1,6 @@
 # Zzz1phyrf/ComfyUI-H3-LongVideo
 
-⭐ 168 · Python · 推送 2026-10-07 · [GitHub](https://github.com/Zzz1phyrf/ComfyUI-H3-LongVideo) · 个人维护 · 中文 README
+⭐ 169 · Python · 推送 2026-10-07 · [GitHub](https://github.com/Zzz1phyrf/ComfyUI-H3-LongVideo) · 个人维护 · 中文 README
 
 **ComfyUI 长音频分段生成插件：驱动 MiniMax H3 制作唱歌/口播数字人长视频**
 

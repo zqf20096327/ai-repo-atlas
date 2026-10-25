@@ -1,6 +1,6 @@
 # MerkyorLynn/Lynn
 
-⭐ 62 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/MerkyorLynn/Lynn) · [官网](https://download.merkyorlynn.com/download.html) · 个人维护 · 中文 README
+⭐ 63 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/MerkyorLynn/Lynn) · [官网](https://download.merkyorlynn.com/download.html) · 个人维护 · 中文 README
 
 **开源桌面 AI Agent 与 CLI：对话任务、实时语音、本地模型**
 

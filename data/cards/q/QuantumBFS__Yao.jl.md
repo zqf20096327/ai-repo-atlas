@@ -1,6 +1,6 @@
 # QuantumBFS/Yao.jl
 
-⭐ 1,045 · Julia · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/QuantumBFS/Yao.jl) · [官网](https://yaoquantum.org) · 组织维护 · 中文 README
+⭐ 1,046 · Julia · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/QuantumBFS/Yao.jl) · [官网](https://yaoquantum.org) · 组织维护 · 中文 README
 
 **Julia 量子算法设计框架，服务量子信息科研与教学**
 

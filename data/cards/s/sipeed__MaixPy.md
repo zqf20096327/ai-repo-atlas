@@ -1,6 +1,6 @@
 # sipeed/MaixPy
 
-⭐ 864 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/sipeed/MaixPy) · [官网](https://wiki.sipeed.com/maixpy/) · 组织维护 · 中文 README
+⭐ 865 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/sipeed/MaixPy) · [官网](https://wiki.sipeed.com/maixpy/) · 组织维护 · 中文 README
 
 **边缘设备上用 Python 开发 AI 视觉项目的 SDK，配 MaixCAM 硬件**
 

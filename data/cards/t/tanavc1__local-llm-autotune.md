@@ -1,6 +1,6 @@
 # tanavc1/local-llm-autotune
 
-⭐ 37 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/tanavc1/local-llm-autotune) · [官网](https://www.autotunellm.com/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tanavc1/local-llm-autotune) · [官网](https://www.autotunellm.com/) · 个人维护
 
 **本地 LLM 推理优化中间件：降低 TTFT 与 KV 缓存内存**
 

@@ -1,6 +1,6 @@
 # assafkip/kipi
 
-⭐ 99 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/assafkip/kipi) · 个人维护
+⭐ 101 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/assafkip/kipi) · 个人维护
 
 **自托管 OSINT 调查平台：文档转实体图谱并由 agent 自主调查**
 

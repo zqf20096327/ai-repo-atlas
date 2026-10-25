@@ -1,6 +1,6 @@
 # imoonkey/closepaw
 
-⭐ 56 · Kotlin · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/imoonkey/closepaw) · 个人维护
+⭐ 57 · Kotlin · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/imoonkey/closepaw) · 个人维护
 
 **开源 Android 手机使用 agent：用自然语言让手机自动执行任务**
 

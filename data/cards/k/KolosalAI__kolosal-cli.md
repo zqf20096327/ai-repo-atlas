@@ -1,6 +1,6 @@
 # KolosalAI/kolosal-cli
 
-⭐ 465 · TypeScript · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/KolosalAI/kolosal-cli) · [官网](https://kolosal.ai) · 组织维护
+⭐ 464 · TypeScript · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/KolosalAI/kolosal-cli) · [官网](https://kolosal.ai) · 组织维护
 
 **面向开发者的命令行 AI 编码工作流工具**
 

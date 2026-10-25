@@ -1,6 +1,6 @@
 # cvg/glue-factory
 
-⭐ 1,159 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/cvg/glue-factory) · 组织维护
+⭐ 1,160 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/cvg/glue-factory) · 组织维护
 
 **局部特征检测与匹配模型的训练和评测库**
 

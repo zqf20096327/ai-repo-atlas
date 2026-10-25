@@ -1,6 +1,6 @@
 # smallchristy123/mcmeal-compass
 
-⭐ 61 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/smallchristy123/mcmeal-compass) · 个人维护 · 中文 README
+⭐ 117 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/smallchristy123/mcmeal-compass) · 个人维护 · 中文 README
 
 **基于麦当劳中国官方 MCP 的营养搭配与官方计价 CLI 工具**
 

@@ -1,6 +1,6 @@
 # tinyhumansai/openhuman
 
-⭐ 42,298 · Rust · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/tinyhumansai/openhuman) · [官网](https://tinyhumans.ai/openhuman) · 个人维护 · 中文 README
+⭐ 42,331 · Rust · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/tinyhumansai/openhuman) · [官网](https://tinyhumans.ai/openhuman) · 个人维护 · 中文 README
 
 **Rust 编写的 agent 运行时：单机运行数百个 agent 的桌面应用与库**
 

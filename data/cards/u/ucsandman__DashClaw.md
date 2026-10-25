@@ -1,6 +1,6 @@
 # ucsandman/DashClaw
 
-⭐ 313 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ucsandman/DashClaw) · [官网](https://www.dashclaw.io/) · 个人维护
+⭐ 313 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ucsandman/DashClaw) · [官网](https://www.dashclaw.io/) · 个人维护
 
 **无人值守 AI agent 的远程审批与执行治理层**
 

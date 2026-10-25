@@ -1,6 +1,6 @@
 # huggingface/transformers-research-projects
 
-⭐ 133 · Python · Apache-2.0 · 推送 2026-04-15 · [GitHub](https://github.com/huggingface/transformers-research-projects) · 组织维护
+⭐ 134 · Python · Apache-2.0 · 推送 2026-04-15 · [GitHub](https://github.com/huggingface/transformers-research-projects) · 组织维护
 
 **基于 Transformers 的研究项目合集，按文件夹各自安装**
 

@@ -1,6 +1,6 @@
 # buynao/aipath
 
-⭐ 516 · JavaScript · 推送 2026-07-02 · [GitHub](https://github.com/buynao/aipath) · [官网](https://aipath.buynao.com) · 个人维护 · 中文 README
+⭐ 517 · JavaScript · 推送 2026-07-02 · [GitHub](https://github.com/buynao/aipath) · [官网](https://aipath.buynao.com) · 个人维护 · 中文 README
 
 **零数学起点的 AI 通识互动课程：6 阶段 30 课，双语**
 

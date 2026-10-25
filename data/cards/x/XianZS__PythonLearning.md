@@ -1,6 +1,6 @@
 # XianZS/PythonLearning
 
-⭐ 116 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/XianZS/PythonLearning) · [官网](https://xianzs.github.io/) · 个人维护 · 中文 README
+⭐ 117 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/XianZS/PythonLearning) · [官网](https://xianzs.github.io/) · 个人维护 · 中文 README
 
 **面向初学者的 Python 分阶段学习文档与代码仓库**
 

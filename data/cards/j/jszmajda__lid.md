@@ -1,6 +1,6 @@
 # jszmajda/lid
 
-⭐ 114 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jszmajda/lid) · [官网](https://linked-intent.dev) · 个人维护
+⭐ 115 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jszmajda/lid) · [官网](https://linked-intent.dev) · 个人维护
 
 **面向 agentic coding 的先设计后编码方法论与 Claude Code 插件**
 

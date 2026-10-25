@@ -1,6 +1,6 @@
 # benfred/implicit
 
-⭐ 3,831 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/benfred/implicit) · [官网](https://benfred.github.io/implicit/) · 个人维护
+⭐ 3,832 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/benfred/implicit) · [官网](https://benfred.github.io/implicit/) · 个人维护
 
 **隐式反馈数据集的 Python 协同过滤推荐算法库**
 

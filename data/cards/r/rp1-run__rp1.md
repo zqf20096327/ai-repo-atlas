@@ -1,6 +1,6 @@
 # rp1-run/rp1
 
-⭐ 38 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/rp1-run/rp1) · [官网](https://rp1.run) · 组织维护
+⭐ 38 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/rp1-run/rp1) · [官网](https://rp1.run) · 组织维护
 
 **为 AI 编程助手提供结构化命令与专业 agent 的工作流工具**
 

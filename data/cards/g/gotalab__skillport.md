@@ -1,6 +1,6 @@
 # gotalab/skillport
 
-⭐ 417 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/gotalab/skillport) · 组织维护
+⭐ 418 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gotalab/skillport) · 组织维护
 
 **面向 AI/coding agent 的技能管理工具：校验、分发、MCP 托管**
 

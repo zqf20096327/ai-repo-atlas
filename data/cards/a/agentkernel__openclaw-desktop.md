@@ -1,6 +1,6 @@
 # agentkernel/openclaw-desktop
 
-⭐ 109 · TypeScript · NOASSERTION · 推送 2026-04-03 · [GitHub](https://github.com/agentkernel/openclaw-desktop) · [官网](https://github.com/agentkernel/openclaw-desktop/releases/latest) · 组织维护 · 中文 README
+⭐ 110 · TypeScript · NOASSERTION · 推送 2026-04-03 · [GitHub](https://github.com/agentkernel/openclaw-desktop) · [官网](https://github.com/agentkernel/openclaw-desktop/releases/latest) · 组织维护 · 中文 README
 
 **OpenClaw AI 智能体的 Windows 一键安装器与原生桌面壳**
 

@@ -1,6 +1,6 @@
 # PascalCorpsman/fpc_atomic
 
-⭐ 60 · Pascal · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/PascalCorpsman/fpc_atomic) · 个人维护
+⭐ 60 · Pascal · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/PascalCorpsman/fpc_atomic) · 个人维护
 
 **Atomic Bomberman 的可玩克隆：TCP 联网对战加机器人对手**
 

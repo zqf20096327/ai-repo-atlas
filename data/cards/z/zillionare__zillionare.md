@@ -1,6 +1,6 @@
 # zillionare/zillionare
 
-⭐ 326 · Python · 推送 2026-10-18 · [GitHub](https://github.com/zillionare/zillionare) · [官网](http://ke.quantide.cn) · 组织维护 · 中文 README
+⭐ 326 · Python · 推送 2026-10-25 · [GitHub](https://github.com/zillionare/zillionare) · [官网](http://ke.quantide.cn) · 组织维护 · 中文 README
 
 **量化投资研究与 Python 量化实战的博客文章聚合站**
 

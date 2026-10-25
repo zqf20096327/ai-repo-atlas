@@ -1,6 +1,6 @@
 # alibaba/pipcook
 
-⭐ 2,593 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/alibaba/pipcook) · [官网](https://alibaba.github.io/pipcook/) · 组织维护 · 中文 README
+⭐ 2,593 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/alibaba/pipcook) · [官网](https://alibaba.github.io/pipcook/) · 组织维护 · 中文 README
 
 **面向 Web 工程师的 JavaScript 机器学习应用框架**
 

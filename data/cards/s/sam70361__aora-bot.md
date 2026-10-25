@@ -1,6 +1,6 @@
 # sam70361/aora-bot
 
-⭐ 566 · JavaScript · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/sam70361/aora-bot) · [官网](https://emotion-balls.vercel.app/) · 个人维护 · 中文 README
+⭐ 576 · JavaScript · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/sam70361/aora-bot) · [官网](https://emotion-balls.vercel.app/) · 个人维护 · 中文 README
 
 **给 AI 助手的 SVG 表情引擎：32 种表情按 emotionId 切换**
 

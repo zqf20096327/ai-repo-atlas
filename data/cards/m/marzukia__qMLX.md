@@ -1,6 +1,6 @@
 # marzukia/qMLX
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/marzukia/qMLX) · [官网](https://qmlx.mrzk.io) · 个人维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/marzukia/qMLX) · [官网](https://qmlx.mrzk.io) · 个人维护
 
 **面向 Apple Silicon 的 Qwen3.5-122B 专用推理引擎，磁盘 KV 缓存复用**
 

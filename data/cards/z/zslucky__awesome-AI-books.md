@@ -1,6 +1,6 @@
 # zslucky/awesome-AI-books
 
-⭐ 1,831 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/zslucky/awesome-AI-books) · 个人维护 · 中文 README
+⭐ 1,832 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/zslucky/awesome-AI-books) · 个人维护 · 中文 README
 
 **AI 学习书籍与 PDF 清单：按领域分类并附训练环境**
 

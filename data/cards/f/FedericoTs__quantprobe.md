@@ -1,6 +1,6 @@
 # FedericoTs/quantprobe
 
-⭐ 90 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/FedericoTs/quantprobe) · [官网](https://federicots.github.io/quantprobe/) · 个人维护
+⭐ 91 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/FedericoTs/quantprobe) · [官网](https://federicots.github.io/quantprobe/) · 个人维护
 
 **本地大模型量化与部署规划工具：下载前预测 tok/s 与显存内存匹配**
 

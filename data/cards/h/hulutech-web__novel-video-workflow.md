@@ -1,6 +1,6 @@
 # hulutech-web/novel-video-workflow
 
-⭐ 338 · Go · 推送 2026-04-12 · [GitHub](https://github.com/hulutech-web/novel-video-workflow) · [官网](https://yadou.net) · 组织维护 · 中文 README
+⭐ 339 · Go · 推送 2026-04-12 · [GitHub](https://github.com/hulutech-web/novel-video-workflow) · [官网](https://yadou.net) · 组织维护 · 中文 README
 
 **本地 AI 小说转视频工作流：章节分割、配音字幕图像到剪映草稿**
 

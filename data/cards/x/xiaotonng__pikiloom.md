@@ -1,6 +1,6 @@
 # xiaotonng/pikiloom
 
-⭐ 294 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/xiaotonng/pikiloom) · [官网](https://xiaotonng.github.io/pikiloom/) · 个人维护 · 中文 README
+⭐ 295 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/xiaotonng/pikiloom) · [官网](https://xiaotonng.github.io/pikiloom/) · 个人维护 · 中文 README
 
 **开源多 Agent 编排器：从 IM/Web/CLI 并行驱动多个 AI Agent**
 

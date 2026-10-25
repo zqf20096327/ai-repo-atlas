@@ -1,6 +1,6 @@
 # DataDog/datadog-saist
 
-⭐ 109 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/DataDog/datadog-saist) · [官网](https://docs.datadoghq.com/security/code_security/) · 组织维护
+⭐ 110 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/DataDog/datadog-saist) · [官网](https://docs.datadoghq.com/security/code_security/) · 组织维护
 
 **用 LLM 检测代码漏洞的静态安全测试工具**
 

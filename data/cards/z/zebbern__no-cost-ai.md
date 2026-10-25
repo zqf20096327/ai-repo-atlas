@@ -1,6 +1,6 @@
 # zebbern/no-cost-ai
 
-⭐ 2,366 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/zebbern/no-cost-ai) · [官网](https://nocostai.vercel.app) · 个人维护 · 中文 README
+⭐ 2,365 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/zebbern/no-cost-ai) · [官网](https://nocostai.vercel.app) · 个人维护 · 中文 README
 
 **免费 AI 服务策展清单：80+ 项聊天/图像/语音/免费 API 入口**
 

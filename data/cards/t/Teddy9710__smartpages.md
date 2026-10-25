@@ -1,6 +1,6 @@
 # Teddy9710/smartpages
 
-⭐ 69 · JavaScript · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/Teddy9710/smartpages) · 个人维护 · 中文 README
+⭐ 69 · JavaScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Teddy9710/smartpages) · 个人维护 · 中文 README
 
 **把浏览器操作录制并生成文档的 Chrome 扩展**
 

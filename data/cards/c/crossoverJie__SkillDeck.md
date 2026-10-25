@@ -1,6 +1,6 @@
 # crossoverJie/SkillDeck
 
-⭐ 587 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/crossoverJie/SkillDeck) · [官网](http://crossoverjie.top/SkillDeck/) · 个人维护 · 中文 README
+⭐ 589 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/crossoverJie/SkillDeck) · [官网](http://crossoverjie.top/SkillDeck/) · 个人维护 · 中文 README
 
 **macOS 桌面 GUI：统一管理多个 AI 编码代理的技能**
 

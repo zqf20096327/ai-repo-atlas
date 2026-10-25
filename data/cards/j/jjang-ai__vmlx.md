@@ -1,6 +1,6 @@
 # jjang-ai/vmlx
 
-⭐ 899 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/jjang-ai/vmlx) · [官网](https://vmlx.net) · 个人维护
+⭐ 902 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jjang-ai/vmlx) · [官网](https://vmlx.net) · 个人维护
 
 **Apple Silicon 本地推理服务器：运行 MLX 模型并兼容多 API**
 

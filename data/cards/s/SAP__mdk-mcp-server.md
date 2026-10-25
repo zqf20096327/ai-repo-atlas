@@ -1,6 +1,6 @@
 # SAP/mdk-mcp-server
 
-⭐ 38 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/SAP/mdk-mcp-server) · 组织维护
+⭐ 38 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/SAP/mdk-mcp-server) · 组织维护
 
 **面向 SAP MDK 开发的 MCP 服务器：让 AI 代理成为 MDK 开发专家**
 

@@ -1,6 +1,6 @@
 # tyang816/Awesome-TCM-LLM
 
-⭐ 128 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tyang816/Awesome-TCM-LLM) · 个人维护 · 中文 README
+⭐ 128 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tyang816/Awesome-TCM-LLM) · 个人维护 · 中文 README
 
 **开源中医大模型/数据集/论文/专利的策展清单**
 

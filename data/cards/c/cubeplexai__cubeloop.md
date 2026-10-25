@@ -1,6 +1,6 @@
 # cubeplexai/cubeloop
 
-⭐ 68 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cubeplexai/cubeloop) · [官网](https://cubeloop.dev) · 组织维护
+⭐ 70 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cubeplexai/cubeloop) · [官网](https://cubeloop.dev) · 组织维护
 
 **异步原生 Python agent 框架：以 while 循环建模 agent 逻辑**
 

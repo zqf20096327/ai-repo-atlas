@@ -1,6 +1,6 @@
 # social-media-skills/skills
 
-⭐ 194 · Shell · MIT · 推送 2026-10-15 · [GitHub](https://github.com/social-media-skills/skills) · [官网](https://social-media-skills.com) · 组织维护
+⭐ 196 · Shell · MIT · 推送 2026-10-15 · [GitHub](https://github.com/social-media-skills/skills) · [官网](https://social-media-skills.com) · 组织维护
 
 **面向 AI agent 的 106 个社交媒体运营技能集（SKILL.md 格式）**
 

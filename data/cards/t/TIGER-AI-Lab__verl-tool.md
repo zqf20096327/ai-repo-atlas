@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/verl-tool
 
-⭐ 1,051 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/TIGER-AI-Lab/verl-tool) · [官网](https://arxiv.org/pdf/2509.01055) · 组织维护 · 中文 README
+⭐ 1,050 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/TIGER-AI-Lab/verl-tool) · [官网](https://arxiv.org/pdf/2509.01055) · 组织维护 · 中文 README
 
 **基于 verl 的工具调用 agent 强化学习训练框架**
 

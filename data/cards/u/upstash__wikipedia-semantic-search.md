@@ -1,6 +1,6 @@
 # upstash/wikipedia-semantic-search
 
-⭐ 472 · TypeScript · MIT · 推送 2025-12-12 · [GitHub](https://github.com/upstash/wikipedia-semantic-search) · [官网](https://wikipedia-semantic-search.vercel.app/) · 组织维护
+⭐ 471 · TypeScript · MIT · 推送 2025-12-12 · [GitHub](https://github.com/upstash/wikipedia-semantic-search) · [官网](https://wikipedia-semantic-search.vercel.app/) · 组织维护
 
 **用 Upstash Vector 索引维基百科的语义搜索与 RAG 聊天示例项目**
 

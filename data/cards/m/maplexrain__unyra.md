@@ -1,6 +1,6 @@
 # maplexrain/unyra
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/maplexrain/unyra) · 个人维护 · 中文 README
+⭐ 54 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/maplexrain/unyra) · 个人维护 · 中文 README
 
 **本地优先的 AI 探索式学习桌面应用：知识拆成节点由导师教学**
 

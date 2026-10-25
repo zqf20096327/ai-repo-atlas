@@ -1,6 +1,6 @@
 # Hamster-Prime/Smart_Group_Bot
 
-⭐ 103 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Hamster-Prime/Smart_Group_Bot) · 个人维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Hamster-Prime/Smart_Group_Bot) · 个人维护 · 中文 README
 
 **LLM 驱动的 Telegram 群聊管理与陪伴机器人**
 

@@ -1,6 +1,6 @@
 # eyaltoledano/claude-task-master
 
-⭐ 28,270 · JavaScript · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/eyaltoledano/claude-task-master) · [官网](https://tryhamster.com) · 个人维护
+⭐ 28,276 · JavaScript · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/eyaltoledano/claude-task-master) · [官网](https://tryhamster.com) · 个人维护
 
 **AI 驱动的开发任务管理系统，可接入多款 AI 编辑器**
 

@@ -1,6 +1,6 @@
 # microsoft/Accera
 
-⭐ 119 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/Accera) · [官网](https://microsoft.github.io/Accera) · 组织维护
+⭐ 119 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/Accera) · [官网](https://microsoft.github.io/Accera) · 组织维护
 
 **面向计算密集循环的跨平台优化编译器（Python 库）**
 

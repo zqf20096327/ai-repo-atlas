@@ -1,6 +1,6 @@
 # intel/openvino-ai-plugins-gimp
 
-⭐ 808 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/intel/openvino-ai-plugins-gimp) · 组织维护
+⭐ 807 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/intel/openvino-ai-plugins-gimp) · 组织维护
 
 **给 GIMP 用户的 OpenVINO AI 插件集：图像生成/超分/语义分割**
 

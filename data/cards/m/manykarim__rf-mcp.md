@@ -1,6 +1,6 @@
 # manykarim/rf-mcp
 
-⭐ 117 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/manykarim/rf-mcp) · 个人维护
+⭐ 117 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/manykarim/rf-mcp) · 个人维护
 
 **让编码代理通过 MCP 实时执行并生成 Robot Framework 测试**
 

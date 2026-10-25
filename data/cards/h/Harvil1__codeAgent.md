@@ -1,6 +1,6 @@
 # Harvil1/codeAgent
 
-⭐ 1,026 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Harvil1/codeAgent) · 个人维护 · 中文 README
+⭐ 1,022 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Harvil1/codeAgent) · 个人维护 · 中文 README
 
 **终端里的中文自学习 AI 编程助手，读码改文件跑命令**
 

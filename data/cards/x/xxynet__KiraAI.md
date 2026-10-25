@@ -1,6 +1,6 @@
 # xxynet/KiraAI
 
-⭐ 77 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/xxynet/KiraAI) · [官网](https://docs.kira-ai.top/) · 组织维护 · 中文 README
+⭐ 77 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/xxynet/KiraAI) · [官网](https://docs.kira-ai.top/) · 组织维护 · 中文 README
 
 **多平台 AI 数字生命框架：连接 LLM 与 QQ/Telegram 等聊天平台**
 

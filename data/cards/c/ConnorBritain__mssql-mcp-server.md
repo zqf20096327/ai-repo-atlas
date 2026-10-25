@@ -1,6 +1,6 @@
 # ConnorBritain/mssql-mcp-server
 
-⭐ 35 · C# · MIT · 推送 2026-08-04 · [GitHub](https://github.com/ConnorBritain/mssql-mcp-server) · 个人维护
+⭐ 36 · C# · MIT · 推送 2026-08-04 · [GitHub](https://github.com/ConnorBritain/mssql-mcp-server) · 个人维护
 
 **面向 DBA 的 SQL Server MCP 服务器，20 个工具覆盖探查与管理**
 

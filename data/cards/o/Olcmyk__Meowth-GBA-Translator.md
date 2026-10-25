@@ -1,6 +1,6 @@
 # Olcmyk/Meowth-GBA-Translator
 
-⭐ 45 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/Olcmyk/Meowth-GBA-Translator) · 个人维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/Olcmyk/Meowth-GBA-Translator) · 个人维护 · 中文 README
 
 **用 LLM 全自动翻译宝可梦 GBA ROM 的工具**
 

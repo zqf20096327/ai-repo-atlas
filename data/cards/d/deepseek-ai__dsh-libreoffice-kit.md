@@ -1,6 +1,6 @@
 # deepseek-ai/dsh-libreoffice-kit
 
-⭐ 196 · JavaScript · MPL-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/deepseek-ai/dsh-libreoffice-kit) · [官网](https://deepseek.com/harness/) · 组织维护 · 中文 README
+⭐ 199 · JavaScript · MPL-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/deepseek-ai/dsh-libreoffice-kit) · [官网](https://deepseek.com/harness/) · 组织维护 · 中文 README
 
 **给 Node.js 开发者的 Office→PDF/PNG 转换库（预编译 LibreOffice 引擎）**
 

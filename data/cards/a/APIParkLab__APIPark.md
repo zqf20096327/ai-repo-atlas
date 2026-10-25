@@ -1,6 +1,6 @@
 # APIParkLab/APIPark
 
-⭐ 1,820 · TypeScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/APIParkLab/APIPark) · [官网](https://apipark.com) · 组织维护 · 中文 README
+⭐ 1,819 · TypeScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/APIParkLab/APIPark) · [官网](https://apipark.com) · 组织维护 · 中文 README
 
 **面向开发者的 AI 网关与 API 开发者门户，统一接入 100+ 模型**
 

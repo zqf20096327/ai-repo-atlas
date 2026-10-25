@@ -1,6 +1,6 @@
 # PotionUI/PotionUI
 
-⭐ 47 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/PotionUI/PotionUI) · [官网](https://potionui.com) · 组织维护
+⭐ 48 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/PotionUI/PotionUI) · [官网](https://potionui.com) · 组织维护
 
 **自托管多用户生成工作室：一台 GPU 跑图像/视频/音频扩散模型**
 

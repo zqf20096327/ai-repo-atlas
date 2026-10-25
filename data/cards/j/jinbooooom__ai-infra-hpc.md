@@ -1,6 +1,6 @@
 # jinbooooom/ai-infra-hpc
 
-⭐ 769 · Cuda · MIT · 推送 2026-04-27 · [GitHub](https://github.com/jinbooooom/ai-infra-hpc) · [官网](https://github.com/jinbooooom/ai-infra-hpc) · 个人维护 · 中文 README
+⭐ 770 · Cuda · MIT · 推送 2026-04-27 · [GitHub](https://github.com/jinbooooom/ai-infra-hpc) · [官网](https://github.com/jinbooooom/ai-infra-hpc) · 个人维护 · 中文 README
 
 **AI-Infra/HPC 底层技术学习笔记：CUDA、NCCL、RDMA、并行训练**
 

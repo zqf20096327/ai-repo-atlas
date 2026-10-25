@@ -1,6 +1,6 @@
 # mannefedov/compling_nlp_hse_course
 
-⭐ 190 · Jupyter Notebook · 推送 2026-10-20 · [GitHub](https://github.com/mannefedov/compling_nlp_hse_course) · 组织维护
+⭐ 190 · Jupyter Notebook · 推送 2026-10-25 · [GitHub](https://github.com/mannefedov/compling_nlp_hse_course) · 组织维护
 
 **HSE 计算语言学课程的教学材料合集（Jupyter 笔记本）**
 

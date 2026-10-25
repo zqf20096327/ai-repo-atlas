@@ -1,6 +1,6 @@
 # openai/openai-realtime-meeting-assistant
 
-⭐ 275 · Go · MIT · 推送 2026-05-11 · [GitHub](https://github.com/openai/openai-realtime-meeting-assistant) · 组织维护
+⭐ 276 · Go · MIT · 推送 2026-05-11 · [GitHub](https://github.com/openai/openai-realtime-meeting-assistant) · 组织维护
 
 **用语音操作共享 Kanban 看板的 OpenAI Realtime API 演示应用**
 

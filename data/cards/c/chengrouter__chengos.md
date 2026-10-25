@@ -1,6 +1,6 @@
 # chengrouter/chengos
 
-⭐ 342 · Shell · 推送 2026-10-17 · [GitHub](https://github.com/chengrouter/chengos) · [官网](https://chengos.dev) · 组织维护 · 中文 README
+⭐ 343 · Shell · 推送 2026-10-24 · [GitHub](https://github.com/chengrouter/chengos) · [官网](https://chengos.dev) · 组织维护 · 中文 README
 
 **可视化 AI 工作流与智能体构建/运行/发布平台**
 

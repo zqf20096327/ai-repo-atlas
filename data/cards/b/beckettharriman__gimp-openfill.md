@@ -1,6 +1,6 @@
 # beckettharriman/gimp-openfill
 
-⭐ 38 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/beckettharriman/gimp-openfill) · [官网](https://github.com/beckettharriman/gimp-openfill/releases/latest) · 个人维护
+⭐ 39 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/beckettharriman/gimp-openfill) · [官网](https://github.com/beckettharriman/gimp-openfill/releases/latest) · 个人维护
 
 **GIMP 3 的本地生成式填充/扩图/物体移除插件**
 

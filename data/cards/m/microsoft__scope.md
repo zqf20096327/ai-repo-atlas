@@ -1,6 +1,6 @@
 # microsoft/scope
 
-⭐ 53 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/scope) · [官网](https://microsoft.github.io/scope/) · 组织维护
+⭐ 54 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/scope) · [官网](https://microsoft.github.io/scope/) · 组织维护
 
 **微软开源的 AI agent 体验评估平台（研究预览）**
 

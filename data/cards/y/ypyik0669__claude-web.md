@@ -1,6 +1,6 @@
 # ypyik0669/claude-web
 
-⭐ 49 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ypyik0669/claude-web) · [官网](https://psycioxyxs.my) · 个人维护 · 中文 README
+⭐ 51 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ypyik0669/claude-web) · [官网](https://psycioxyxs.my) · 个人维护 · 中文 README
 
 **Claude Code 等 CLI agent 的可视化工作台（桌面+网页）**
 

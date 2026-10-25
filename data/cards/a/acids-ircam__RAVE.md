@@ -1,6 +1,6 @@
 # acids-ircam/RAVE
 
-⭐ 1,817 · Python · NOASSERTION · 推送 2026-03-07 · [GitHub](https://github.com/acids-ircam/RAVE) · 组织维护
+⭐ 1,818 · Python · NOASSERTION · 推送 2026-03-07 · [GitHub](https://github.com/acids-ircam/RAVE) · 组织维护
 
 **实时神经音频变分自编码器：训练/导出自定义音频生成模型**
 

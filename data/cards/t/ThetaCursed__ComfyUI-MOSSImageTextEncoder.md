@@ -1,6 +1,6 @@
 # ThetaCursed/ComfyUI-MOSSImageTextEncoder
 
-⭐ 42 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ThetaCursed/ComfyUI-MOSSImageTextEncoder) · [官网](https://workflow.thetacursed.com) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ThetaCursed/ComfyUI-MOSSImageTextEncoder) · [官网](https://workflow.thetacursed.com) · 个人维护
 
 **ComfyUI 节点：将参考图经 Qwen3.5-9B 视觉塔注入文本提示词**
 

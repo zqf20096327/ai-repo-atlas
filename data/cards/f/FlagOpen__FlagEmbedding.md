@@ -1,6 +1,6 @@
 # FlagOpen/FlagEmbedding
 
-⭐ 12,271 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/FlagOpen/FlagEmbedding) · [官网](http://www.bge-model.com/) · 组织维护 · 中文 README
+⭐ 12,274 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/FlagOpen/FlagEmbedding) · [官网](http://www.bge-model.com/) · 组织维护 · 中文 README
 
 **面向搜索与 RAG 的嵌入/重排序模型工具箱**
 

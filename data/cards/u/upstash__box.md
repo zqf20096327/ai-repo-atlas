@@ -1,6 +1,6 @@
 # upstash/box
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/upstash/box) · [官网](https://upstash.com/docs/box) · 组织维护
+⭐ 42 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/upstash/box) · [官网](https://upstash.com/docs/box) · 组织维护
 
 **Upstash Box 的 TypeScript/Python SDK 与 CLI：沙箱化 AI 编程 agent**
 

@@ -1,6 +1,6 @@
 # eugenepyvovarov/CodeAgentsMobile
 
-⭐ 157 · Swift · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/eugenepyvovarov/CodeAgentsMobile) · [官网](https://x.com/code_agents) · 个人维护
+⭐ 158 · Swift · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/eugenepyvovarov/CodeAgentsMobile) · [官网](https://x.com/code_agents) · 个人维护
 
 **iOS 客户端：通过 SSH 连接服务器使用 OpenCode 编码 agent**
 

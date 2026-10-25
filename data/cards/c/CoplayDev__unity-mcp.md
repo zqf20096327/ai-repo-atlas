@@ -1,6 +1,6 @@
 # CoplayDev/unity-mcp
 
-⭐ 15,376 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/CoplayDev/unity-mcp) · [官网](https://coplaydev.github.io/unity-mcp/) · 组织维护
+⭐ 15,405 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/CoplayDev/unity-mcp) · [官网](https://coplaydev.github.io/unity-mcp/) · 组织维护
 
 **给 Unity 开发者的 MCP 桥：让 AI 助手控制编辑器**
 

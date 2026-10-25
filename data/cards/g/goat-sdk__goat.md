@@ -1,6 +1,6 @@
 # goat-sdk/goat
 
-⭐ 1,010 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/goat-sdk/goat) · 组织维护
+⭐ 1,011 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/goat-sdk/goat) · 组织维护
 
 **面向 AI agent 的链上金融工具包：200+ 区块链支付/交易/投资工具**
 

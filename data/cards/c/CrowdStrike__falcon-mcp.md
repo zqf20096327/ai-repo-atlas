@@ -1,6 +1,6 @@
 # CrowdStrike/falcon-mcp
 
-⭐ 273 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/CrowdStrike/falcon-mcp) · [官网](https://developer.crowdstrike.com/falcon-mcp/overview/) · 组织维护
+⭐ 273 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/CrowdStrike/falcon-mcp) · [官网](https://developer.crowdstrike.com/falcon-mcp/overview/) · 组织维护
 
 **连接 AI agent 与 CrowdStrike Falcon 平台的 MCP 服务器**
 

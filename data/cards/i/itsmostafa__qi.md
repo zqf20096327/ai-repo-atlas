@@ -1,6 +1,6 @@
 # itsmostafa/qi
 
-⭐ 44 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/itsmostafa/qi) · 个人维护
+⭐ 44 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/itsmostafa/qi) · 个人维护
 
 **本地混合检索 CLI：为 AI agent 与人类提供低 token 消耗的查询引擎**
 

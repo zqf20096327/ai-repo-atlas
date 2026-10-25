@@ -1,6 +1,6 @@
 # AMD-AGI/GEAK
 
-⭐ 193 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/AMD-AGI/GEAK) · 组织维护
+⭐ 193 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AMD-AGI/GEAK) · 组织维护
 
 **面向 AMD GPU 的自动内核优化 agent，提升 vLLM/sglang 推理吞吐**
 

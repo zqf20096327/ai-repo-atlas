@@ -1,6 +1,6 @@
 # EnzymeAD/Enzyme
 
-⭐ 1,721 · LLVM · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/EnzymeAD/Enzyme) · [官网](https://enzyme.mit.edu) · 组织维护
+⭐ 1,723 · LLVM · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/EnzymeAD/Enzyme) · [官网](https://enzyme.mit.edu) · 组织维护
 
 **LLVM/MLIR 编译器自动微分插件，为 C/C++/Fortran 等生成梯度**
 

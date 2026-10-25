@@ -1,6 +1,6 @@
 # yuseferi/opencode-litellm
 
-⭐ 95 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/yuseferi/opencode-litellm) · [官网](https://www.npmjs.com/package/opencode-plugin-litellm) · 个人维护
+⭐ 97 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/yuseferi/opencode-litellm) · [官网](https://www.npmjs.com/package/opencode-plugin-litellm) · 个人维护
 
 **让 OpenCode CLI/Desktop 自动发现 LiteLLM 代理模型的插件**
 

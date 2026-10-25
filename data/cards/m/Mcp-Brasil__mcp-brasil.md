@@ -1,6 +1,6 @@
 # Mcp-Brasil/mcp-brasil
 
-⭐ 1,826 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Mcp-Brasil/mcp-brasil) · 组织维护
+⭐ 1,827 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Mcp-Brasil/mcp-brasil) · 组织维护
 
 **连接 AI agent 与巴西 70 个公共数据 API 的 MCP 服务器**
 

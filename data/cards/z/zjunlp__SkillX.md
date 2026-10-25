@@ -1,6 +1,6 @@
 # zjunlp/SkillX
 
-⭐ 293 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/zjunlp/SkillX) · 组织维护 · 中文 README
+⭐ 294 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/zjunlp/SkillX) · 组织维护 · 中文 README
 
 **从智能体经验中自动构建可复用技能知识库的框架**
 

@@ -1,6 +1,6 @@
 # chenmingtang830/jevgraph
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/chenmingtang830/jevgraph) · [官网](https://github.com/chenmingtang830/jevgraph) · 个人维护
+⭐ 46 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/chenmingtang830/jevgraph) · [官网](https://github.com/chenmingtang830/jevgraph) · 个人维护
 
 **文档到证据可溯候选知识图谱的 schema 引导构建流水线**
 

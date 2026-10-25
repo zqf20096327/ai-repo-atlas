@@ -1,6 +1,6 @@
 # Shaitrish/37studio
 
-⭐ 41 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Shaitrish/37studio) · [官网](https://studio.shaitrish.com) · 组织维护
+⭐ 65 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Shaitrish/37studio) · [官网](https://studio.shaitrish.com) · 组织维护
 
 **自托管的 AI 视频制作与社交媒体发布台，面向中小企业**
 

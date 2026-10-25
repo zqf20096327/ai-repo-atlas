@@ -1,6 +1,6 @@
 # langgenius/dify
 
-⭐ 159,424 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/langgenius/dify) · [官网](https://dify.ai) · 组织维护
+⭐ 159,505 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/langgenius/dify) · [官网](https://dify.ai) · 组织维护
 
 **给团队的 LLM 应用开发平台：可视化构建工作流、RAG 与 Agent**
 

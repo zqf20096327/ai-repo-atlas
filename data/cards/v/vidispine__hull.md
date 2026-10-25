@@ -1,6 +1,6 @@
 # vidispine/hull
 
-⭐ 295 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vidispine/hull) · [官网](https://hull.readthedocs.io/en/latest/) · 组织维护
+⭐ 295 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vidispine/hull) · [官网](https://hull.readthedocs.io/en/latest/) · 组织维护
 
 **Helm 库图表：在 values.yaml 中直接定义 Kubernetes 对象**
 

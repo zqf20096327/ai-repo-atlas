@@ -1,6 +1,6 @@
 # maximem-ai/maximem_synap_sdk
 
-⭐ 77 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/maximem-ai/maximem_synap_sdk) · [官网](https://www.maximem.ai/synap) · 组织维护
+⭐ 77 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/maximem-ai/maximem_synap_sdk) · [官网](https://www.maximem.ai/synap) · 组织维护
 
 **为生产 AI agent 提供跨会话持久记忆的 SDK 与托管服务**
 

@@ -1,6 +1,6 @@
 # modelscope/ms-swift
 
-⭐ 15,929 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelscope/ms-swift) · [官网](https://swift.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
+⭐ 15,931 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/modelscope/ms-swift) · [官网](https://swift.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
 
 **面向开发者的 LLM/MLLM 微调、推理、评测与部署训练框架**
 

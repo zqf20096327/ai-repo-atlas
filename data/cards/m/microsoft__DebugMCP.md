@@ -1,6 +1,6 @@
 # microsoft/DebugMCP
 
-⭐ 573 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/DebugMCP) · 组织维护
+⭐ 573 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/DebugMCP) · 组织维护
 
 **让 AI 编程代理在 VS Code 中操作调试器的 MCP 服务器**
 

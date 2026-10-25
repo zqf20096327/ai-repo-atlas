@@ -1,6 +1,6 @@
 # MohitShridhar/genima
 
-⭐ 77 · Python · Apache-2.0 · 推送 2025-10-29 · [GitHub](https://github.com/MohitShridhar/genima) · [官网](https://genima-robot.github.io/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **微调 Stable Diffusion 生成机器人操作动作的研究代码库**
 
@@ -11,7 +11,7 @@ CoRL 2024 论文 Generative Image as Action Models 的官方复现代码：在 R
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-24g` | |

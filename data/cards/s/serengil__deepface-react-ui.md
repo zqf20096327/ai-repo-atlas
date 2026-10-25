@@ -1,6 +1,6 @@
 # serengil/deepface-react-ui
 
-⭐ 175 · JavaScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/serengil/deepface-react-ui) · [官网](https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E&index=1) · 个人维护
+⭐ 174 · JavaScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/serengil/deepface-react-ui) · [官网](https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E&index=1) · 个人维护
 
 **基于 ReactJS 的人脸识别与属性分析 Web 界面**
 

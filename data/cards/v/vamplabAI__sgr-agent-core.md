@@ -1,6 +1,6 @@
 # vamplabAI/sgr-agent-core
 
-⭐ 1,126 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/vamplabAI/sgr-agent-core) · [官网](https://vamplabai.github.io/sgr-agent-core/) · 组织维护
+⭐ 1,127 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/vamplabAI/sgr-agent-core) · [官网](https://vamplabai.github.io/sgr-agent-core/) · 组织维护
 
 **构建 Schema-Guided Reasoning 研究 agent 的开源框架**
 

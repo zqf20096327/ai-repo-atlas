@@ -1,6 +1,6 @@
 # gigioneggiando/argo
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/gigioneggiando/argo) · [官网](https://gigioneggiando.github.io/argo/) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gigioneggiando/argo) · [官网](https://gigioneggiando.github.io/argo/) · 个人维护
 
 **面向开发者的 LLM 驱动静态漏洞检测工具，产出可复核漏洞报告**
 

@@ -1,6 +1,6 @@
 # AlonzoLeeeooo/awesome-text-to-image-studies
 
-⭐ 762 · TeX · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies) · 个人维护
+⭐ 762 · TeX · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies) · 个人维护
 
 **文本生成图像（T2I）研究论文与产品资源汇编清单**
 

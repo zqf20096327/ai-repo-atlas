@@ -1,6 +1,6 @@
 # feritzcan2/termloop
 
-⭐ 41 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/feritzcan2/termloop) · [官网](https://termloop.ai) · 个人维护
+⭐ 41 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/feritzcan2/termloop) · [官网](https://termloop.ai) · 个人维护
 
 **在本地与远程统一运行多个编码 agent 的 AI 终端**
 

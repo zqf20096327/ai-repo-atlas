@@ -1,6 +1,6 @@
 # MorDavid/BruteForceAI
 
-⭐ 1,903 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/MorDavid/BruteForceAI) · [官网](https://www.MORDAVID.com) · 个人维护
+⭐ 1,906 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/MorDavid/BruteForceAI) · [官网](https://www.MORDAVID.com) · 个人维护
 
 **LLM 辅助分析登录表单的渗透测试爆破工具**
 

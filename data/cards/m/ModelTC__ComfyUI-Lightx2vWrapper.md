@@ -1,6 +1,6 @@
 # ModelTC/ComfyUI-Lightx2vWrapper
 
-⭐ 95 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ModelTC/ComfyUI-Lightx2vWrapper) · 组织维护 · 中文 README
+⭐ 95 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ModelTC/ComfyUI-Lightx2vWrapper) · 组织维护 · 中文 README
 
 **ComfyUI 自定义节点：封装 LightX2V 做视频生成**
 

@@ -1,6 +1,6 @@
 # k4yt3x/video2x
 
-⭐ 22,386 · C++ · AGPL-3.0 · 推送 2026-03-07 · [GitHub](https://github.com/k4yt3x/video2x) · [官网](https://docs.video2x.org) · 个人维护 · 中文 README
+⭐ 22,406 · C++ · AGPL-3.0 · 推送 2026-03-07 · [GitHub](https://github.com/k4yt3x/video2x) · [官网](https://docs.video2x.org) · 个人维护 · 中文 README
 
 **基于机器学习的视频超分辨率与插帧框架**
 

@@ -1,6 +1,6 @@
 # juinwei7/Shiyin
 
-⭐ 110 · C# · MIT · 推送 2026-10-22 · [GitHub](https://github.com/juinwei7/Shiyin) · [官网](https://shiyin.weibuilds.com) · 个人维护 · 中文 README
+⭐ 112 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/juinwei7/Shiyin) · [官网](https://shiyin.weibuilds.com) · 个人维护 · 中文 README
 
 **macOS/Windows 本地会议转录与笔记应用（拾音）**
 

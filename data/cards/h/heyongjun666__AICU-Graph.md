@@ -1,6 +1,6 @@
 # heyongjun666/AICU-Graph
 
-⭐ 145 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/heyongjun666/AICU-Graph) · 个人维护 · 中文 README
+⭐ 149 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/heyongjun666/AICU-Graph) · 个人维护 · 中文 README
 
 **多 Agent 协作平台：自动分解任务、动态组建 AI 团队并协同执行**
 

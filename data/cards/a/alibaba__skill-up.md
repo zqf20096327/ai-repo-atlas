@@ -1,6 +1,6 @@
 # alibaba/skill-up
 
-⭐ 1,312 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaba/skill-up) · [官网](https://alibaba.github.io/skill-up/) · 组织维护 · 中文 README
+⭐ 1,347 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaba/skill-up) · [官网](https://alibaba.github.io/skill-up/) · 组织维护 · 中文 README
 
 **Agent Skills / Agent / 工作区的评测与进化 CLI 工具**
 

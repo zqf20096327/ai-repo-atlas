@@ -1,6 +1,6 @@
 # Xia-Ataraxia/obsidian-metadata-auto-classifier
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier) · 个人维护
+⭐ 58 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier) · 个人维护
 
 **Obsidian 插件：用 AI 为笔记生成标签与 frontmatter 元数据**
 

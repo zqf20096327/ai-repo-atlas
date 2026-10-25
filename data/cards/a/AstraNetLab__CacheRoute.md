@@ -1,6 +1,6 @@
 # AstraNetLab/CacheRoute
 
-⭐ 246 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/AstraNetLab/CacheRoute) · 组织维护
+⭐ 248 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/AstraNetLab/CacheRoute) · 组织维护
 
 **面向知识密集型 LLM 服务的 KV 缓存复用调度框架**
 

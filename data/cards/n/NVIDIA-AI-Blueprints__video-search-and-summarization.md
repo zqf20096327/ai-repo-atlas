@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/video-search-and-summarization
 
-⭐ 1,942 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) · [官网](https://build.nvidia.com/nvidia/video-search-and-summarization) · 组织维护
+⭐ 1,945 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) · [官网](https://build.nvidia.com/nvidia/video-search-and-summarization) · 组织维护
 
 **GPU 加速的视频分析与摘要 AI Agent 参考架构**
 

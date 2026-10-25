@@ -1,6 +1,6 @@
 # EmilianoMusso/EntwineLLM
 
-⭐ 37 · C# · MIT · 推送 2025-12-09 · [GitHub](https://github.com/EmilianoMusso/EntwineLLM) · 个人维护
+⭐ 36 · C# · MIT · 推送 2025-12-09 · [GitHub](https://github.com/EmilianoMusso/EntwineLLM) · 个人维护
 
 **Visual Studio 本地 LLM 编码助手扩展**
 

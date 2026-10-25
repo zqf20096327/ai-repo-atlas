@@ -1,6 +1,6 @@
 # lalaland-ai/lala-companion
 
-⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-03-12 · [GitHub](https://github.com/lalaland-ai/lala-companion) · [官网](https://lalaland.chat/) · 组织维护
+⭐ 44 · TypeScript · AGPL-3.0 · 推送 2026-03-12 · [GitHub](https://github.com/lalaland-ai/lala-companion) · [官网](https://lalaland.chat/) · 组织维护
 
 **带 AI 视觉与语音的 3D VRM 桌面助手应用**
 

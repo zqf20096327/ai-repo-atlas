@@ -1,6 +1,6 @@
 # Octane0411/opencode-plugin-openspec
 
-⭐ 166 · TypeScript · MIT · 推送 2026-03-24 · [GitHub](https://github.com/Octane0411/opencode-plugin-openspec) · 个人维护
+⭐ 167 · TypeScript · MIT · 推送 2026-03-24 · [GitHub](https://github.com/Octane0411/opencode-plugin-openspec) · 个人维护
 
 **OpenCode 插件：新增 openspec-plan 模式专用于规格规划**
 

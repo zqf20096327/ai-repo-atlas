@@ -1,6 +1,6 @@
 # TommyLemon/APIAuto
 
-⭐ 2,222 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/TommyLemon/APIAuto) · [官网](http://apijson.cn/api) · 个人维护 · 中文 README
+⭐ 2,222 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/TommyLemon/APIAuto) · [官网](http://apijson.cn/api) · 个人维护 · 中文 README
 
 **带 AI 问答与机器学习测试的 HTTP 接口开发测试工具**
 

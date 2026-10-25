@@ -1,6 +1,6 @@
 # VersusControl/devops-vn-blog
 
-⭐ 66 · HCL · 推送 2026-10-01 · [GitHub](https://github.com/VersusControl/devops-vn-blog) · [官网](https://devopsvn.tech) · 组织维护
+⭐ 69 · HCL · 推送 2026-10-01 · [GitHub](https://github.com/VersusControl/devops-vn-blog) · [官网](https://devopsvn.tech) · 组织维护
 
 **分享 DevOps 与云计算知识的博客网站（Jekyll）**
 

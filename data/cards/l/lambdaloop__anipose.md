@@ -1,6 +1,6 @@
 # lambdaloop/anipose
 
-⭐ 471 · JavaScript · BSD-2-Clause · 推送 2026-06-02 · [GitHub](https://github.com/lambdaloop/anipose) · [官网](http://anipose.org) · 个人维护
+⭐ 472 · JavaScript · BSD-2-Clause · 推送 2026-06-02 · [GitHub](https://github.com/lambdaloop/anipose) · [官网](http://anipose.org) · 个人维护
 
 **多相机动物行为的无标记 3D 姿态估计工具箱**
 

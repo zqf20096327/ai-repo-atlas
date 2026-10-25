@@ -1,6 +1,6 @@
 # runpod/containers
 
-⭐ 239 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/runpod/containers) · [官网](https://hub.docker.com/u/runpod) · 组织维护
+⭐ 240 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/runpod/containers) · [官网](https://hub.docker.com/u/runpod) · 组织维护
 
 **Runpod 官方模板容器镜像的 Dockerfile 集合**
 

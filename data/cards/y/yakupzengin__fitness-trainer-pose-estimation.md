@@ -1,6 +1,6 @@
 # yakupzengin/fitness-trainer-pose-estimation
 
-⭐ 110 · Python · MIT · 推送 2026-02-19 · [GitHub](https://github.com/yakupzengin/fitness-trainer-pose-estimation) · 个人维护
+⭐ 111 · Python · MIT · 推送 2026-02-19 · [GitHub](https://github.com/yakupzengin/fitness-trainer-pose-estimation) · 个人维护
 
 **基于姿态估计的健身训练 Web 应用：计数、评分、实时纠正**
 

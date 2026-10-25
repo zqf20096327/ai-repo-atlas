@@ -1,6 +1,6 @@
 # owainlewis/awesome-artificial-intelligence
 
-⭐ 16,715 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/owainlewis/awesome-artificial-intelligence) · [官网](https://aiengineer.co) · 个人维护
+⭐ 16,725 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/owainlewis/awesome-artificial-intelligence) · [官网](https://aiengineer.co) · 个人维护
 
 **面向开发者学习构建生成式与 Agent 系统的 AI 资源清单**
 

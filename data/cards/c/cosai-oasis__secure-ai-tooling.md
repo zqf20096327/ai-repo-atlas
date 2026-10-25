@@ -1,6 +1,6 @@
 # cosai-oasis/secure-ai-tooling
 
-⭐ 101 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/cosai-oasis/secure-ai-tooling) · 组织维护
+⭐ 101 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/cosai-oasis/secure-ai-tooling) · 组织维护
 
 **AI 系统安全风险地图：风险、控制措施与角色的结构化框架**
 

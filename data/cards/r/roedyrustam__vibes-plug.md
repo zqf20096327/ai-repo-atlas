@@ -1,6 +1,6 @@
 # roedyrustam/vibes-plug
 
-⭐ 113 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/roedyrustam/vibes-plug) · [官网](https://www.npmjs.com/package/vibes-plug) · 个人维护
+⭐ 113 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/roedyrustam/vibes-plug) · [官网](https://www.npmjs.com/package/vibes-plug) · 个人维护
 
 **跨 IDE 的 161 技能 AI agent 集合与编排工具**
 

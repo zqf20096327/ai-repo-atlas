@@ -1,6 +1,6 @@
 # OpenMind/OM1
 
-⭐ 2,956 · Go · MIT · 推送 2026-10-13 · [GitHub](https://github.com/OpenMind/OM1) · [官网](https://openmind.com) · 组织维护
+⭐ 2,957 · Go · MIT · 推送 2026-10-13 · [GitHub](https://github.com/OpenMind/OM1) · [官网](https://openmind.com) · 组织维护
 
 **面向机器人与物理设备的模块化多模态 AI agent 运行时**
 

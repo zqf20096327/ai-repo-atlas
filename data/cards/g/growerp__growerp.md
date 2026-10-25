@@ -1,6 +1,6 @@
 # growerp/growerp
 
-⭐ 115 · Dart · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/growerp/growerp) · [官网](https://www.growerp.com) · 组织维护
+⭐ 115 · Dart · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/growerp/growerp) · [官网](https://www.growerp.com) · 组织维护
 
 **Flutter+Moqui 的模块化开源 ERP，含 AI 助手/Agent 治理**
 

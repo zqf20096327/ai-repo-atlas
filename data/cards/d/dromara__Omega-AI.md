@@ -1,6 +1,6 @@
 # dromara/Omega-AI
 
-⭐ 835 · Java · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/dromara/Omega-AI) · 个人维护 · 中文 README
+⭐ 834 · Java · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/dromara/Omega-AI) · 个人维护 · 中文 README
 
 **Java 深度学习框架：从零搭建神经网络训练与推理**
 

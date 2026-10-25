@@ -1,6 +1,6 @@
 # KohakuBlueleaf/LyCORIS
 
-⭐ 2,535 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/KohakuBlueleaf/LyCORIS) · 个人维护
+⭐ 2,536 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/KohakuBlueleaf/LyCORIS) · 个人维护
 
 **Stable Diffusion 参数高效微调算法库（LoRA/LoHa/LoKr 等）**
 

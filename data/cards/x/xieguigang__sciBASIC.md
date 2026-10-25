@@ -1,6 +1,6 @@
 # xieguigang/sciBASIC
 
-⭐ 79 · Visual Basic .NET · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/xieguigang/sciBASIC) · [官网](http://sciBASIC.NET/) · 个人维护
+⭐ 79 · Visual Basic .NET · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/xieguigang/sciBASIC) · [官网](http://sciBASIC.NET/) · 个人维护
 
 **VB.NET 科学计算语言内核与运行时，含深度学习与 LLM 推理**
 

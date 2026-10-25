@@ -1,6 +1,6 @@
 # TaoCosmo-Dev/STM32_AutoDebug_Universal_Kit
 
-⭐ 48 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/TaoCosmo-Dev/STM32_AutoDebug_Universal_Kit) · 组织维护 · 中文 README
+⭐ 49 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/TaoCosmo-Dev/STM32_AutoDebug_Universal_Kit) · 组织维护 · 中文 README
 
 **让 AI 代理闭环开发 STM32：编译、烧录、上板验证、崩溃定位到源码行**
 

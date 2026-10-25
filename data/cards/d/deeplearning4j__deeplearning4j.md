@@ -1,6 +1,6 @@
 # deeplearning4j/deeplearning4j
 
-⭐ 14,272 · Java · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/deeplearning4j/deeplearning4j) · [官网](http://deeplearning4j.konduit.ai) · 组织维护
+⭐ 14,273 · Java · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/deeplearning4j/deeplearning4j) · [官网](http://deeplearning4j.konduit.ai) · 组织维护
 
 **JVM 平台的深度学习训练与部署工具套件**
 

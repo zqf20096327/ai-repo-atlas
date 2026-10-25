@@ -1,6 +1,6 @@
 # Brain0-ai/brain0
 
-⭐ 313 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Brain0-ai/brain0) · 组织维护
+⭐ 314 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Brain0-ai/brain0) · 组织维护
 
 **AI 编码的黑盒审计工具：把每个 commit 关联到背后的 agent 意图**
 

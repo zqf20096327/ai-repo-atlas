@@ -1,6 +1,6 @@
 # idosal/git-mcp
 
-⭐ 8,486 · TypeScript · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/idosal/git-mcp) · [官网](https://gitmcp.io) · 个人维护
+⭐ 8,491 · TypeScript · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/idosal/git-mcp) · [官网](https://gitmcp.io) · 个人维护
 
 **把任意 GitHub 仓库变成文档 MCP 服务器的远程服务**
 

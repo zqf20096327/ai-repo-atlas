@@ -1,6 +1,6 @@
 # KazKozDev/book-translator
 
-⭐ 124 · Python · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/KazKozDev/book-translator) · 个人维护
+⭐ 125 · Python · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/KazKozDev/book-translator) · 个人维护
 
 **本地整书 AI 翻译应用：用 Ollama 把 EPUB/PDF/DOCX 译成完整书**
 

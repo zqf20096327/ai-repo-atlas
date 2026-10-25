@@ -1,6 +1,6 @@
 # yf-hao/haomd
 
-⭐ 55 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/yf-hao/haomd) · 个人维护 · 中文 README
+⭐ 55 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/yf-hao/haomd) · 个人维护 · 中文 README
 
 **带 AI 助手的跨平台 Markdown 桌面编辑器**
 

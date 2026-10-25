@@ -1,6 +1,6 @@
 # anthropics/claude-code-security-review
 
-⭐ 6,529 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/anthropics/claude-code-security-review) · 组织维护
+⭐ 6,539 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/anthropics/claude-code-security-review) · 组织维护
 
 **用 Claude 分析 PR 代码变更安全漏洞的 GitHub Action**
 

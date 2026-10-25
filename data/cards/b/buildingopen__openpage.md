@@ -1,6 +1,6 @@
 # buildingopen/openpage
 
-⭐ 104 · TypeScript · MIT · 推送 2026-03-07 · [GitHub](https://github.com/buildingopen/openpage) · [官网](https://openpage-phi.vercel.app) · 组织维护
+⭐ 105 · TypeScript · MIT · 推送 2026-03-07 · [GitHub](https://github.com/buildingopen/openpage) · [官网](https://openpage-phi.vercel.app) · 组织维护
 
 **开源可视化建站工具：拖拽编辑 + AI 生成，JSON 为唯一事实源**
 

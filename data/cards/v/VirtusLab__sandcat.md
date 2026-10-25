@@ -1,6 +1,6 @@
 # VirtusLab/sandcat
 
-⭐ 200 · Shell · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/VirtusLab/sandcat) · 组织维护
+⭐ 200 · Shell · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/VirtusLab/sandcat) · 组织维护
 
 **安全运行 AI 编码 agent 的 Docker 沙箱容器方案**
 

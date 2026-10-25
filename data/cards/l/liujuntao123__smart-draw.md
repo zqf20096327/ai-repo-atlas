@@ -1,6 +1,6 @@
 # liujuntao123/smart-draw
 
-⭐ 432 · JavaScript · NOASSERTION · 推送 2025-12-29 · [GitHub](https://github.com/liujuntao123/smart-draw) · [官网](https://ai-draw-nexus.aizhi.site) · 个人维护 · 中文 README
+⭐ 431 · JavaScript · NOASSERTION · 推送 2025-12-29 · [GitHub](https://github.com/liujuntao123/smart-draw) · [官网](https://ai-draw-nexus.aizhi.site) · 个人维护 · 中文 README
 
 **自然语言生成图表的 Web 应用，支持 Draw.io 与 Excalidraw**
 

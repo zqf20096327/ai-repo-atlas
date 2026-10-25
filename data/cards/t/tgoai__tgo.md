@@ -1,6 +1,6 @@
 # tgoai/tgo
 
-⭐ 640 · TypeScript · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/tgoai/tgo) · [官网](https://tgo.ai) · 组织维护 · 中文 README
+⭐ 642 · TypeScript · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/tgoai/tgo) · [官网](https://tgo.ai) · 组织维护 · 中文 README
 
 **开源 AI Agent 客服平台：构建多渠道智能客服团队**
 

@@ -1,6 +1,6 @@
 # saifyxpro/ui-ux-design-pro-skill
 
-⭐ 89 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/saifyxpro/ui-ux-design-pro-skill) · 个人维护
+⭐ 91 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/saifyxpro/ui-ux-design-pro-skill) · 个人维护
 
 **给 AI 编程助手的 UI/UX 设计技能包：设计数据+CLI+规则库**
 

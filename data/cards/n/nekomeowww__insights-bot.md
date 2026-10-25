@@ -1,6 +1,6 @@
 # nekomeowww/insights-bot
 
-⭐ 288 · Go · MIT · 推送 2026-02-11 · [GitHub](https://github.com/nekomeowww/insights-bot) · 个人维护 · 中文 README
+⭐ 287 · Go · MIT · 推送 2026-02-11 · [GitHub](https://github.com/nekomeowww/insights-bot) · 个人维护 · 中文 README
 
 **接入 GPT 的信息流摘要机器人，面向 Telegram/Slack/Discord 用户**
 

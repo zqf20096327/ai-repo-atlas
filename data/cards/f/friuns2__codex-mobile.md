@@ -1,6 +1,6 @@
 # friuns2/codex-mobile
 
-⭐ 975 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/friuns2/codex-mobile) · [官网](https://friuns2.github.io/codex-mobile/) · 个人维护
+⭐ 974 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/friuns2/codex-mobile) · [官网](https://friuns2.github.io/codex-mobile/) · 个人维护
 
 **把 Codex 桌面端体验通过浏览器跨平台运行的桥接工具**
 

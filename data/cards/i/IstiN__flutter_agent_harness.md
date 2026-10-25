@@ -1,6 +1,6 @@
 # IstiN/flutter_agent_harness
 
-⭐ 84 · Dart · MIT · 推送 2026-10-24 · [GitHub](https://github.com/IstiN/flutter_agent_harness) · [官网](https://fa1.dev) · 个人维护
+⭐ 84 · Dart · MIT · 推送 2026-10-25 · [GitHub](https://github.com/IstiN/flutter_agent_harness) · [官网](https://fa1.dev) · 个人维护
 
 **Dart/Flutter 跨平台 AI agent 框架与终端编码代理 fa**
 

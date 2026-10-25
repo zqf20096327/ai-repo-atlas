@@ -1,6 +1,6 @@
 # realmyang/MLView
 
-⭐ 335 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/realmyang/MLView) · [官网](https://github.com/realmyang/MLView#readme) · 个人维护
+⭐ 354 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/realmyang/MLView) · [官网](https://github.com/realmyang/MLView#readme) · 个人维护
 
 **让编码助手生成源码链接的 ML 工作流交互图的 VS Code 工具**
 

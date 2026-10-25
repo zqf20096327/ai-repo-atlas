@@ -1,6 +1,6 @@
 # RManLuo/gfm-rag
 
-⭐ 307 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/RManLuo/gfm-rag) · [官网](https://rmanluo.github.io/gfm-rag/) · 个人维护 · 中文 README
+⭐ 308 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/RManLuo/gfm-rag) · [官网](https://rmanluo.github.io/gfm-rag/) · 个人维护 · 中文 README
 
 **面向开发者的图基础模型 RAG 检索框架，图上多跳推理检索文档**
 

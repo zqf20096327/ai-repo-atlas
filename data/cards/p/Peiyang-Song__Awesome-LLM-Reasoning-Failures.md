@@ -1,6 +1,6 @@
 # Peiyang-Song/Awesome-LLM-Reasoning-Failures
 
-⭐ 224 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) · 个人维护
+⭐ 224 · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) · 个人维护
 
 **LLM 推理失败研究论文策展清单**
 

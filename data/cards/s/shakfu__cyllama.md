@@ -1,6 +1,6 @@
 # shakfu/cyllama
 
-⭐ 35 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/shakfu/cyllama) · [官网](https://shakfu.github.io/cyllama/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/shakfu/cyllama) · [官网](https://shakfu.github.io/cyllama/) · 个人维护
 
 **封装 llama.cpp/whisper.cpp/stable-diffusion.cpp 的本地跨模态推理 Python 库**
 

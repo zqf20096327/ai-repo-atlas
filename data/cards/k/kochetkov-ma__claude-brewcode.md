@@ -1,6 +1,6 @@
 # kochetkov-ma/claude-brewcode
 
-⭐ 38 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kochetkov-ma/claude-brewcode) · [官网](https://doc-claude.brewcode.app/) · 个人维护
+⭐ 38 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kochetkov-ma/claude-brewcode) · [官网](https://doc-claude.brewcode.app/) · 个人维护
 
 **Claude Code 插件套件：技能/代理编写、评审、文档同步与工具集**
 

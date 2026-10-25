@@ -1,6 +1,6 @@
 # RasaHQ/rasa-community-resources
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/RasaHQ/rasa-community-resources) · [官网](https://rasa.community/) · 组织维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/RasaHQ/rasa-community-resources) · [官网](https://rasa.community/) · 组织维护
 
 **Rasa agent 开发者的教程、示例项目与参考代码合集**
 

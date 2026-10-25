@@ -1,6 +1,6 @@
 # Littlesheepxy/zhigeng
 
-⭐ 506 · TypeScript · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/Littlesheepxy/zhigeng) · [官网](https://zhigeng.app) · 个人维护 · 中文 README
+⭐ 524 · TypeScript · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/Littlesheepxy/zhigeng) · [官网](https://zhigeng.app) · 个人维护 · 中文 README
 
 **Mac 本地优先的语音输入与个人记忆 Agent，BYOK 调度本机 Agent**
 

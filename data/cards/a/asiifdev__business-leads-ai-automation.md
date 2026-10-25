@@ -1,6 +1,6 @@
 # asiifdev/business-leads-ai-automation
 
-⭐ 220 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/asiifdev/business-leads-ai-automation) · [官网](https://alatpintar.id) · 个人维护
+⭐ 220 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/asiifdev/business-leads-ai-automation) · [官网](https://alatpintar.id) · 个人维护
 
 **面向本地商家的开源 AI 销售外联系统：找线索、拟稿、人工审批后发送**
 

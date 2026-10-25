@@ -1,6 +1,6 @@
 # openai/openai-security-bots
 
-⭐ 401 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/openai-security-bots) · 组织维护
+⭐ 402 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/openai-security-bots) · 组织维护
 
 **OpenAI 官方的 Slack 安全团队机器人集合**
 

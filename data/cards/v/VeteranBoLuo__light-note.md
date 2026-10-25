@@ -1,6 +1,6 @@
 # VeteranBoLuo/light-note
 
-⭐ 83 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/VeteranBoLuo/light-note) · [官网](https://boluo66.top) · 个人维护 · 中文 README
+⭐ 83 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/VeteranBoLuo/light-note) · [官网](https://boluo66.top) · 个人维护 · 中文 README
 
 **免费在线书签/笔记/待办/云文件管理平台，内置模块 AI**
 

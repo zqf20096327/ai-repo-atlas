@@ -1,6 +1,6 @@
 # Merit-Systems/OpenInstinct
 
-⭐ 472 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Merit-Systems/OpenInstinct) · [官网](https://openinstinct.sh) · 组织维护
+⭐ 473 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Merit-Systems/OpenInstinct) · [官网](https://openinstinct.sh) · 组织维护
 
 **自托管的 iMessage 个人助理：代用户浏览网页办理事务**
 

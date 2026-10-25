@@ -1,6 +1,6 @@
 # microsoft/TypeChat
 
-⭐ 8,691 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/TypeChat) · [官网](https://microsoft.github.io/TypeChat/) · 组织维护
+⭐ 8,691 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/TypeChat) · [官网](https://microsoft.github.io/TypeChat/) · 组织维护
 
 **用类型 schema 构建自然语言接口的库**
 

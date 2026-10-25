@@ -1,6 +1,6 @@
 # rextail-ai/lessloc
 
-⭐ 101 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rextail-ai/lessloc) · [官网](https://lessloc.org) · 组织维护
+⭐ 102 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/rextail-ai/lessloc) · [官网](https://lessloc.org) · 组织维护
 
 **约束 AI 编码代理少写代码的钩子插件**
 

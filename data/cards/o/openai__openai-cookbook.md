@@ -1,6 +1,6 @@
 # openai/openai-cookbook
 
-⭐ 76,793 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-cookbook) · [官网](https://cookbook.openai.com) · 组织维护
+⭐ 76,810 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-cookbook) · [官网](https://cookbook.openai.com) · 组织维护
 
 **为 OpenAI API 使用者提供示例代码与任务指南**
 

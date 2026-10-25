@@ -1,6 +1,6 @@
 # amscotti/local-LLM-with-RAG
 
-⭐ 288 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/amscotti/local-LLM-with-RAG) · 个人维护
+⭐ 289 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/amscotti/local-LLM-with-RAG) · 个人维护
 
 **本地 LLM 驱动的 agentic RAG 文档问答应用**
 

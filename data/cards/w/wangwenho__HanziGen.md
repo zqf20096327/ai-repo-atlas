@@ -1,6 +1,6 @@
 # wangwenho/HanziGen
 
-⭐ 166 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/wangwenho/HanziGen) · [官网](https://deepwiki.com/wangwenho/HanziGen) · 个人维护 · 中文 README
+⭐ 165 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/wangwenho/HanziGen) · [官网](https://deepwiki.com/wangwenho/HanziGen) · 个人维护 · 中文 README
 
 **漢字字型生成與補全系統：為缺字字型生成風格一致字形**
 

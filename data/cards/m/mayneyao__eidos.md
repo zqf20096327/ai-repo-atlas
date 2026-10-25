@@ -1,6 +1,6 @@
 # mayneyao/eidos
 
-⭐ 3,197 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/mayneyao/eidos) · [官网](https://eidos.space) · 个人维护
+⭐ 3,198 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/mayneyao/eidos) · [官网](https://eidos.space) · 个人维护
 
 **面向用户与 AI agent 的单文件关系型电子表格**
 

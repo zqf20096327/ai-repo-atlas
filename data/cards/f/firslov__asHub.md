@@ -1,6 +1,6 @@
 # firslov/asHub
 
-⭐ 139 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/firslov/asHub) · 个人维护 · 中文 README
+⭐ 139 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/firslov/asHub) · 个人维护 · 中文 README
 
 **开源桌面 Agent 工作区：多会话并行对话与可审查执行轨迹**
 

@@ -1,6 +1,6 @@
 # SpringSunYY/LZ-litchi
 
-⭐ 195 · Java · MIT · 推送 2026-09-23 · [GitHub](https://github.com/SpringSunYY/LZ-litchi) · [官网](https://www.litchi.work) · 个人维护 · 中文 README
+⭐ 202 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/SpringSunYY/LZ-litchi) · [官网](https://www.litchi.work) · 个人维护 · 中文 README
 
 **基于芋道二次开发的企业级低代码平台，含 AI 模块与以图搜图**
 

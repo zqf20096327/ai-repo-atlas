@@ -1,6 +1,6 @@
 # openai/codex-security
 
-⭐ 11,192 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/openai/codex-security) · [官网](https://developers.openai.com/codex/security) · 组织维护
+⭐ 11,199 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/openai/codex-security) · [官网](https://developers.openai.com/codex/security) · 组织维护
 
 **OpenAI 的代码安全漏洞扫描、验证与修复 CLI/SDK**
 

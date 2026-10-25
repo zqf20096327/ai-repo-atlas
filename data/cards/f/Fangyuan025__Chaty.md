@@ -1,6 +1,6 @@
 # Fangyuan025/Chaty
 
-⭐ 54 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Fangyuan025/Chaty) · [官网](https://chaty.ca) · 个人维护 · 中文 README
+⭐ 55 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Fangyuan025/Chaty) · [官网](https://chaty.ca) · 个人维护 · 中文 README
 
 **本地开源模型桌面应用：聊天/编码代理/文生图/文生音乐/文档问答/语音**
 

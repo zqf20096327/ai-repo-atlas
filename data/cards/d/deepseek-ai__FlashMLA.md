@@ -1,6 +1,6 @@
 # deepseek-ai/FlashMLA
 
-⭐ 13,178 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/deepseek-ai/FlashMLA) · 组织维护 · 中文 README
+⭐ 13,186 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/deepseek-ai/FlashMLA) · 组织维护 · 中文 README
 
 **DeepSeek 的高性能注意力算子库，支撑模型在 GPU/NPU 上推理**
 

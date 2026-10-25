@@ -1,6 +1,6 @@
 # yaoleifly/ai-stock-pool
 
-⭐ 112 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yaoleifly/ai-stock-pool) · [官网](https://stocks.mastersgo.cc) · 个人维护 · 中文 README
+⭐ 112 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/yaoleifly/ai-stock-pool) · [官网](https://stocks.mastersgo.cc) · 个人维护 · 中文 README
 
 **AI 产业链美股/A股股票池研究工作台：图谱、发现与政策压力**
 

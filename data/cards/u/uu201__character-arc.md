@@ -1,6 +1,6 @@
 # uu201/character-arc
 
-⭐ 592 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/uu201/character-arc) · 个人维护 · 中文 README
+⭐ 591 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/uu201/character-arc) · 个人维护 · 中文 README
 
 **面向小说创作者的本地优先 AI 写作桌面工作台**
 

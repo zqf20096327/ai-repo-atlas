@@ -1,6 +1,6 @@
 # microsoft/typeagent-py
 
-⭐ 894 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/typeagent-py) · 组织维护
+⭐ 893 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/typeagent-py) · 组织维护
 
 **微软的结构化 RAG 原型库：数据摄取、索引与查询**
 

@@ -1,6 +1,6 @@
 # TOM88812/xiaozhi-android-client
 
-⭐ 1,637 · Dart · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/TOM88812/xiaozhi-android-client) · [官网](https://jtai.lhht.cc) · 个人维护 · 中文 README
+⭐ 1,639 · Dart · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/TOM88812/xiaozhi-android-client) · [官网](https://jtai.lhht.cc) · 个人维护 · 中文 README
 
 **基于小智 AI 的跨平台实时语音对话客户端，覆盖手机与 PC**
 

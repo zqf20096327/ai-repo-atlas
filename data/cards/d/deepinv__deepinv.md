@@ -1,6 +1,6 @@
 # deepinv/deepinv
 
-⭐ 835 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/deepinv/deepinv) · [官网](http://deepinv.org/) · 组织维护
+⭐ 836 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/deepinv/deepinv) · [官网](http://deepinv.org/) · 组织维护
 
 **PyTorch 成像逆问题求解库：深度学习重建/去噪/去模糊**
 

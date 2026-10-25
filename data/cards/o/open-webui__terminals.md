@@ -1,6 +1,6 @@
 # open-webui/terminals
 
-⭐ 123 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/open-webui/terminals) · [官网](https://docs.openwebui.com/ecosystem/open-terminal) · 组织维护
+⭐ 124 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/open-webui/terminals) · [官网](https://docs.openwebui.com/ecosystem/open-terminal) · 组织维护
 
 **为 Open WebUI 用户编排隔离终端容器的服务层**
 

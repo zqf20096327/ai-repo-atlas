@@ -1,6 +1,6 @@
 # Shanyin-ai/shanyin-screenwriting-master
 
-⭐ 1,382 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/Shanyin-ai/shanyin-screenwriting-master) · 个人维护 · 中文 README
+⭐ 1,388 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/Shanyin-ai/shanyin-screenwriting-master) · 个人维护 · 中文 README
 
 **面向 Claude 等 AI 工具的全格式影视编剧 Skill**
 

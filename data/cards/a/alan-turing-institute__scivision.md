@@ -1,6 +1,6 @@
 # alan-turing-institute/scivision
 
-⭐ 110 · JavaScript · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/alan-turing-institute/scivision) · [官网](https://alan-turing-institute.github.io/scivision/) · 组织维护
+⭐ 110 · JavaScript · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/alan-turing-institute/scivision) · [官网](https://alan-turing-institute.github.io/scivision/) · 组织维护
 
 **科研图像计算机视觉模型与数据集目录及 Python 加载框架**
 

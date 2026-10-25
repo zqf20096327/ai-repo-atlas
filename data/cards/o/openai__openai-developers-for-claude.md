@@ -1,6 +1,6 @@
 # openai/openai-developers-for-claude
 
-⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/openai/openai-developers-for-claude) · 组织维护
+⭐ 35 · JavaScript · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/openai/openai-developers-for-claude) · 组织维护
 
 **面向 Claude Code 的 OpenAI 开发者工作流插件包**
 

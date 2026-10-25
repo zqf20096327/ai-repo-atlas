@@ -1,6 +1,6 @@
 # ScrapeGraphAI/just-scrape
 
-⭐ 72 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ScrapeGraphAI/just-scrape) · [官网](https://scrapegraphai.com) · 组织维护
+⭐ 73 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ScrapeGraphAI/just-scrape) · [官网](https://scrapegraphai.com) · 组织维护
 
 **ScrapeGraphAI 的 CLI：网页抓取、结构化提取与监控**
 

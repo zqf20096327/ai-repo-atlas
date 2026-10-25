@@ -1,6 +1,6 @@
 # nikmcfly/MiroFish-Offline
 
-⭐ 2,654 · Python · AGPL-3.0 · 推送 2026-03-24 · [GitHub](https://github.com/nikmcfly/MiroFish-Offline) · [官网](https://x.com/nikmcfly69/status/2033147482331390328) · 个人维护 · 中文 README
+⭐ 2,657 · Python · AGPL-3.0 · 推送 2026-03-24 · [GitHub](https://github.com/nikmcfly/MiroFish-Offline) · [官网](https://x.com/nikmcfly69/status/2033147482331390328) · 个人维护 · 中文 README
 
 **本地多智能体社会模拟引擎：用 AI agent 仿真舆论与市场反应**
 

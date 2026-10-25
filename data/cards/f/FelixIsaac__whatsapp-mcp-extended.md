@@ -1,6 +1,6 @@
 # FelixIsaac/whatsapp-mcp-extended
 
-⭐ 41 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/FelixIsaac/whatsapp-mcp-extended) · 个人维护
+⭐ 43 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/FelixIsaac/whatsapp-mcp-extended) · 个人维护
 
 **WhatsApp 的 MCP 服务器扩展版：为 AI agent 提供消息、群组与媒体工具**
 

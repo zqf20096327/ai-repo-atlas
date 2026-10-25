@@ -1,6 +1,6 @@
 # yogeshhk/MidcurveNN
 
-⭐ 43 · TeX · MIT · 推送 2026-08-15 · [GitHub](https://github.com/yogeshhk/MidcurveNN) · 个人维护
+⭐ 44 · TeX · MIT · 推送 2026-08-15 · [GitHub](https://github.com/yogeshhk/MidcurveNN) · 个人维护
 
 **用神经网络计算 2D 闭合多边形中曲线的研究项目**
 

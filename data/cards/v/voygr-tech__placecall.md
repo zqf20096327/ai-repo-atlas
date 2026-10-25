@@ -1,6 +1,6 @@
 # voygr-tech/placecall
 
-⭐ 105 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/voygr-tech/placecall) · [官网](https://voygr.tech/placecall/) · 组织维护
+⭐ 107 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/voygr-tech/placecall) · [官网](https://voygr.tech/placecall/) · 组织维护
 
 **让 AI agent 电话致电美国商户的 API/MCP 服务，含通话结果与转录**
 

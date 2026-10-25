@@ -1,6 +1,6 @@
 # AKzar1el/mcp-geo
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AKzar1el/mcp-geo) · [官网](https://geo-mcp.digestseo.com/audit) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AKzar1el/mcp-geo) · [官网](https://geo-mcp.digestseo.com/audit) · 个人维护
 
 **追踪品牌在七个 AI 搜索平台被引用情况的可自托管 MCP 服务器**
 

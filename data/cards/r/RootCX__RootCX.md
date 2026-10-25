@@ -1,6 +1,6 @@
 # RootCX/RootCX
 
-⭐ 49 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/RootCX/RootCX) · [官网](https://rootcx.com) · 组织维护
+⭐ 49 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/RootCX/RootCX) · [官网](https://rootcx.com) · 组织维护
 
 **给 AI 编写的内部工具提供治理化部署运行的自托管平台**
 

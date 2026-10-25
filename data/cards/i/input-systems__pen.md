@@ -1,6 +1,6 @@
 # input-systems/pen
 
-⭐ 46 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/input-systems/pen) · [官网](https://www.npmjs.com/package/@input/pen) · 组织维护
+⭐ 46 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/input-systems/pen) · [官网](https://www.npmjs.com/package/@input/pen) · 组织维护
 
 **面向人类与 AI 协同写作的无头富文本编辑器 SDK**
 

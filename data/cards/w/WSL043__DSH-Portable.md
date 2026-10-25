@@ -1,6 +1,6 @@
 # WSL043/DSH-Portable
 
-⭐ 77 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/WSL043/DSH-Portable) · [官网](https://wsl043.github.io/DSH-Portable/) · 个人维护 · 中文 README
+⭐ 78 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/WSL043/DSH-Portable) · [官网](https://wsl043.github.io/DSH-Portable/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 便携版：一个文件夹携带会话与设置的桌面客户端**
 

@@ -1,6 +1,6 @@
 # stormzhang/token-tracker
 
-⭐ 533 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/stormzhang/token-tracker) · 个人维护 · 中文 README
+⭐ 534 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/stormzhang/token-tracker) · 个人维护 · 中文 README
 
 **追踪 Claude Code/Codex/Kimi Code 本地 token 用量的 CLI 工具**
 

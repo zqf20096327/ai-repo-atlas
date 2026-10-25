@@ -1,6 +1,6 @@
 # FalkorDB/falkordb-ts
 
-⭐ 54 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/FalkorDB/falkordb-ts) · [官网](https://www.falkordb.com/) · 组织维护
+⭐ 54 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/FalkorDB/falkordb-ts) · [官网](https://www.falkordb.com/) · 组织维护
 
 **FalkorDB 图数据库的 Node.js/TypeScript 客户端库**
 

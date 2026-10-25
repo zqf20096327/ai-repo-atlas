@@ -1,6 +1,6 @@
 # VedAstro/VedAstro
 
-⭐ 665 · C# · MIT · 推送 2026-10-04 · [GitHub](https://github.com/VedAstro/VedAstro) · [官网](https://vedastro.org) · 组织维护
+⭐ 666 · C# · MIT · 推送 2026-10-04 · [GitHub](https://github.com/VedAstro/VedAstro) · [官网](https://vedastro.org) · 组织维护
 
 **开源印度占星平台：面向普通用户的算命/合婚工具与 API**
 

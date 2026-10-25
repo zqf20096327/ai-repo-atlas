@@ -1,6 +1,6 @@
 # jnMetaCode/agency-agents-zh
 
-⭐ 21,556 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-zh) · [官网](https://ao.aiolaola.com/experts) · 个人维护 · 中文 README
+⭐ 21,585 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-zh) · [官网](https://ao.aiolaola.com/experts) · 个人维护 · 中文 README
 
 **328 个即插即用 AI 专家角色库，覆盖 22 个部门、支持 20 种工具**
 

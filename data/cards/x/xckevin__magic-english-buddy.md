@@ -1,6 +1,6 @@
 # xckevin/magic-english-buddy
 
-⭐ 315 · TypeScript · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/xckevin/magic-english-buddy) · [官网](https://xckevin.github.io/magic-english-buddy/) · 个人维护 · 中文 README
+⭐ 316 · TypeScript · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/xckevin/magic-english-buddy) · [官网](https://xckevin.github.io/magic-english-buddy/) · 个人维护 · 中文 README
 
 **离线优先的儿童英语阅读学习 PWA，含课程、词典与音频**
 

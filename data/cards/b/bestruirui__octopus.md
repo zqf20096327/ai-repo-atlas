@@ -1,6 +1,6 @@
 # bestruirui/octopus
 
-⭐ 2,727 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/bestruirui/octopus) · 个人维护 · 中文 README
+⭐ 2,726 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/bestruirui/octopus) · 个人维护 · 中文 README
 
 **面向个人的 LLM API 聚合网关：多渠道统一接入与管理**
 

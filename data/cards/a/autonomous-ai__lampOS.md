@@ -1,6 +1,6 @@
 # autonomous-ai/lampOS
 
-⭐ 493 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/autonomous-ai/lampOS) · [官网](www.autonomous.ai/lamp) · 组织维护
+⭐ 496 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/autonomous-ai/lampOS) · [官网](www.autonomous.ai/lamp) · 组织维护
 
 **让 AI agent 控制实体机器人的开源操作系统**
 

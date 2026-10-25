@@ -1,6 +1,6 @@
 # jgouviergmail/LIA-Assistant
 
-⭐ 75 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/jgouviergmail/LIA-Assistant) · [官网](https://lia.jeyswork.com/) · 个人维护
+⭐ 76 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/jgouviergmail/LIA-Assistant) · [官网](https://lia.jeyswork.com/) · 个人维护
 
 **可自托管的多用户个人 AI 助手 Web 应用**
 

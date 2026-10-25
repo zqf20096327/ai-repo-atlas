@@ -1,6 +1,6 @@
 # floneum/kalosm
 
-⭐ 2,228 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/floneum/kalosm) · [官网](http://floneum.com/kalosm) · 个人维护
+⭐ 2,228 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/floneum/kalosm) · [官网](http://floneum.com/kalosm) · 个人维护
 
 **Rust 本地/远程预训练模型接口与推理运行时生态**
 

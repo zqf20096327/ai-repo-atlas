@@ -1,6 +1,6 @@
 # meangrinch/MangaTranslator
 
-⭐ 357 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/meangrinch/MangaTranslator) · 个人维护
+⭐ 358 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/meangrinch/MangaTranslator) · 个人维护
 
 **一键翻译漫画/韩漫/国漫页面的桌面应用，支持 60+ 语言**
 

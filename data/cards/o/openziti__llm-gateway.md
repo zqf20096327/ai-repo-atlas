@@ -1,6 +1,6 @@
 # openziti/llm-gateway
 
-⭐ 100 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/openziti/llm-gateway) · 组织维护
+⭐ 101 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/openziti/llm-gateway) · 组织维护
 
 **零信任 LLM 网关：OpenAI 兼容代理，跨多后端语义路由与负载均衡**
 

@@ -1,6 +1,6 @@
 # BESSER-PEARL/BESSER
 
-⭐ 196 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BESSER-PEARL/BESSER) · [官网](https://besser.readthedocs.io/en/latest/) · 组织维护
+⭐ 197 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BESSER-PEARL/BESSER) · [官网](https://besser.readthedocs.io/en/latest/) · 组织维护
 
 **画 UML 模型即生成全栈应用的低代码平台**
 

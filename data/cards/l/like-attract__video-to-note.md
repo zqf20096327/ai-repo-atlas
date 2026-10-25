@@ -1,6 +1,6 @@
 # like-attract/video-to-note
 
-⭐ 152 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/like-attract/video-to-note) · 个人维护 · 中文 README
+⭐ 153 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/like-attract/video-to-note) · 个人维护 · 中文 README
 
 **本地优先的视频转 Markdown 笔记工具，支持 B站/抖音/本地视频**
 

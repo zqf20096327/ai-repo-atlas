@@ -1,6 +1,6 @@
 # H-Freax/ThinkGrasp
 
-⭐ 121 · Python · MIT · 推送 2026-03-31 · [GitHub](https://github.com/H-Freax/ThinkGrasp) · [官网](https://h-freax.github.io/thinkgrasp_page/) · 组织维护
+⭐ 121 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/H-Freax/ThinkGrasp) · [官网](https://h-freax.github.io/thinkgrasp_page/) · 组织维护
 
 **视觉语言系统：杂乱场景中按语言指令抓取目标部件**
 

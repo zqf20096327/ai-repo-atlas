@@ -1,6 +1,6 @@
 # lucidrains/denoising-diffusion-pytorch
 
-⭐ 10,715 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lucidrains/denoising-diffusion-pytorch) · 个人维护
+⭐ 10,716 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lucidrains/denoising-diffusion-pytorch) · 个人维护
 
 **PyTorch 版去噪扩散概率模型（DDPM）实现库**
 

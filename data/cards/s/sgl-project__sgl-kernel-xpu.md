@@ -1,6 +1,6 @@
 # sgl-project/sgl-kernel-xpu
 
-⭐ 36 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sgl-project/sgl-kernel-xpu) · 组织维护
+⭐ 37 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sgl-project/sgl-kernel-xpu) · 组织维护
 
 **SGLang 框架面向 Intel XPU 的官方 kernel 库**
 

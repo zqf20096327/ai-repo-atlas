@@ -1,6 +1,6 @@
 # CrawlScript/MMClaw
 
-⭐ 151 · Python · GPL-3.0 · 推送 2026-07-11 · [GitHub](https://github.com/CrawlScript/MMClaw) · 组织维护 · 中文 README
+⭐ 151 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/CrawlScript/MMClaw) · 组织维护 · 中文 README
 
 **纯 Python 极简多模态自主 agent 内核，多渠道接入**
 

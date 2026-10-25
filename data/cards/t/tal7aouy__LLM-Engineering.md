@@ -1,6 +1,6 @@
 # tal7aouy/LLM-Engineering
 
-⭐ 55 · Jupyter Notebook · MIT · 推送 2026-09-05 · [GitHub](https://github.com/tal7aouy/LLM-Engineering) · 个人维护
+⭐ 54 · Jupyter Notebook · MIT · 推送 2026-09-05 · [GitHub](https://github.com/tal7aouy/LLM-Engineering) · 个人维护
 
 **24 周 LLM 工程师学习路线图：从基础到生产级**
 

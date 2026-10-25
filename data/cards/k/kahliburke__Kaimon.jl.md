@@ -1,6 +1,6 @@
 # kahliburke/Kaimon.jl
 
-⭐ 58 · Julia · MIT · 推送 2026-10-07 · [GitHub](https://github.com/kahliburke/Kaimon.jl) · [官网](https://kahliburke.github.io/Kaimon.jl/dev/) · 个人维护
+⭐ 59 · Julia · MIT · 推送 2026-10-07 · [GitHub](https://github.com/kahliburke/Kaimon.jl) · [官网](https://kahliburke.github.io/Kaimon.jl/dev/) · 个人维护
 
 **让 AI agent 通过 MCP 全面操作 Julia 运行时的服务器**
 

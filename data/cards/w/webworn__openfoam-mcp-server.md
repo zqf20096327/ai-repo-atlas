@@ -1,6 +1,6 @@
 # webworn/openfoam-mcp-server
 
-⭐ 124 · C++ · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/webworn/openfoam-mcp-server) · 个人维护
+⭐ 125 · C++ · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/webworn/openfoam-mcp-server) · 个人维护
 
 **面向 CFD 教学的 OpenFOAM MCP 服务器，提供苏格拉底式提问与错误诊断**
 

@@ -1,6 +1,6 @@
 # CortexFoundation/CortexTheseus
 
-⭐ 154 · Go · LGPL-3.0 · 推送 2026-07-31 · [GitHub](https://github.com/CortexFoundation/CortexTheseus) · [官网](https://www.cortexlabs.ai) · 组织维护
+⭐ 155 · Go · LGPL-3.0 · 推送 2026-07-31 · [GitHub](https://github.com/CortexFoundation/CortexTheseus) · [官网](https://www.cortexlabs.ai) · 组织维护
 
 **Cortex 区块链全节点官方 Golang 实现，链上跑 AI 推理**
 

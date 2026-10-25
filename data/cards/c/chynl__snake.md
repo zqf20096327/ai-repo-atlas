@@ -1,6 +1,6 @@
 # chynl/snake
 
-⭐ 1,796 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/chynl/snake) · 个人维护
+⭐ 1,797 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/chynl/snake) · 个人维护
 
 **用图搜索与深度强化学习两种算法自动玩贪吃蛇**
 

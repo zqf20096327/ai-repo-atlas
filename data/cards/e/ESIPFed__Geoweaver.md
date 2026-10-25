@@ -1,6 +1,6 @@
 # ESIPFed/Geoweaver
 
-⭐ 95 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ESIPFed/Geoweaver) · [官网](https://geoweaver.dev) · 组织维护
+⭐ 95 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ESIPFed/Geoweaver) · [官网](https://geoweaver.dev) · 组织维护
 
 **科研数据流水线的工作流编排与管理工具，面向地学等研究场景**
 

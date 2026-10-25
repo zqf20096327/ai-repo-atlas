@@ -1,6 +1,6 @@
 # excalimate/excalimate
 
-⭐ 96 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/excalimate/excalimate) · [官网](https://excalimate.com) · 组织维护
+⭐ 97 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/excalimate/excalimate) · [官网](https://excalimate.com) · 组织维护
 
 **把 Excalidraw 手绘图变成关键帧动画的 Web 编辑器，附 MCP 服务器**
 

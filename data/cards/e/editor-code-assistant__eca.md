@@ -1,6 +1,6 @@
 # editor-code-assistant/eca
 
-⭐ 1,041 · Clojure · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/editor-code-assistant/eca) · [官网](http://eca.dev) · 组织维护
+⭐ 1,042 · Clojure · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/editor-code-assistant/eca) · [官网](http://eca.dev) · 组织维护
 
 **编辑器无关的 AI 结对编程服务器：为任意编辑器接入 LLM**
 

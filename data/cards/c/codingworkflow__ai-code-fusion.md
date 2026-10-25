@@ -1,6 +1,6 @@
 # codingworkflow/ai-code-fusion
 
-⭐ 88 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/codingworkflow/ai-code-fusion) · [官网](https://www.codingworkflow.com/) · 个人维护
+⭐ 88 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/codingworkflow/ai-code-fusion) · [官网](https://www.codingworkflow.com/) · 个人维护
 
 **桌面应用：把代码仓库内容合并为单个文件供 AI 工具使用**
 

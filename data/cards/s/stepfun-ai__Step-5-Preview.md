@@ -1,6 +1,6 @@
 # stepfun-ai/Step-5-Preview
 
-⭐ 72 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/stepfun-ai/Step-5-Preview) · 组织维护 · 中文 README
+⭐ 74 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/stepfun-ai/Step-5-Preview) · 组织维护 · 中文 README
 
 **StepFun 面向 agentic 任务的旗舰大模型（600B MoE）**
 

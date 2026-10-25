@@ -1,6 +1,6 @@
 # nilava/TabType
 
-⭐ 48 · Swift · MIT · 推送 2026-10-09 · [GitHub](https://github.com/nilava/TabType) · [官网](https://github.com/nilava/TabType/releases) · 个人维护
+⭐ 49 · Swift · MIT · 推送 2026-10-09 · [GitHub](https://github.com/nilava/TabType) · [官网](https://github.com/nilava/TabType/releases) · 个人维护
 
 **macOS 全局 AI 文本补全：本地 LLM 逐词 ghost-text 预测**
 

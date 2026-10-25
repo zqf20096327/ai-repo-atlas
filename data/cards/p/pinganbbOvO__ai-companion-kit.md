@@ -1,6 +1,6 @@
 # pinganbbOvO/ai-companion-kit
 
-⭐ 423 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pinganbbOvO/ai-companion-kit) · 个人维护 · 中文 README
+⭐ 467 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pinganbbOvO/ai-companion-kit) · 个人维护 · 中文 README
 
 **给个人用户的 QQ 陪聊 AI 与安卓手机控制 MCP 工具包**
 

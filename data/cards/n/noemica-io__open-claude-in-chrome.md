@@ -1,6 +1,6 @@
 # noemica-io/open-claude-in-chrome
 
-⭐ 256 · HTML · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/noemica-io/open-claude-in-chrome) · 组织维护
+⭐ 257 · HTML · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/noemica-io/open-claude-in-chrome) · 组织维护
 
 **开源版 Claude 浏览器扩展：无域名封锁的 Claude Code 浏览器自动化**
 

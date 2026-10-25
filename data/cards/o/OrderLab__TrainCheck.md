@@ -1,6 +1,6 @@
 # OrderLab/TrainCheck
 
-⭐ 75 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/OrderLab/TrainCheck) · [官网](http://orderlab.io/TrainCheck/) · 组织维护
+⭐ 75 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/OrderLab/TrainCheck) · [官网](http://orderlab.io/TrainCheck/) · 组织维护
 
 **AI 训练可观测性框架：学习健康运行的不变量并检测静默错误**
 

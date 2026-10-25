@@ -1,6 +1,6 @@
 # alexlenail/NN-SVG
 
-⭐ 5,690 · JavaScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/alexlenail/NN-SVG) · [官网](http://alexlenail.me/NN-SVG/) · 个人维护
+⭐ 5,692 · JavaScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/alexlenail/NN-SVG) · [官网](http://alexlenail.me/NN-SVG/) · 个人维护
 
 **参数化生成神经网络结构图的绘图工具，可导出 SVG**
 

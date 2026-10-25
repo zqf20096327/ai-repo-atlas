@@ -1,6 +1,6 @@
 # agentgg-dev/agentgg
 
-⭐ 441 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/agentgg-dev/agentgg) · [官网](https://agentgg.dev/) · 组织维护
+⭐ 442 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/agentgg-dev/agentgg) · [官网](https://agentgg.dev/) · 组织维护
 
 **给安全工程师的 agentic SAST 扫描器：AI agent 读代码做白盒审计**
 

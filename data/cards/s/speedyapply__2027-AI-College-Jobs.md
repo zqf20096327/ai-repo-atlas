@@ -1,6 +1,6 @@
 # speedyapply/2027-AI-College-Jobs
 
-⭐ 6,592 · 推送 2026-10-24 · [GitHub](https://github.com/speedyapply/2027-AI-College-Jobs) · [官网](https://speedyapply.com/discord) · 组织维护
+⭐ 6,596 · 推送 2026-10-25 · [GitHub](https://github.com/speedyapply/2027-AI-College-Jobs) · [官网](https://speedyapply.com/discord) · 组织维护
 
 **面向大学生的 2027 届 AI/ML 实习与新毕业生职位清单**
 

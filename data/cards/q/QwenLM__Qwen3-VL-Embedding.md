@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-VL-Embedding
 
-⭐ 1,409 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/QwenLM/Qwen3-VL-Embedding) · 组织维护 · 中文 README
+⭐ 1,408 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/QwenLM/Qwen3-VL-Embedding) · 组织维护 · 中文 README
 
 **基于 Qwen3-VL 的多模态嵌入与重排序模型系列（2B/8B）**
 

@@ -1,6 +1,6 @@
 # ahrefs/ocannl
 
-⭐ 118 · OCaml · BSD-2-Clause · 推送 2026-10-23 · [GitHub](https://github.com/ahrefs/ocannl) · [官网](https://ahrefs.github.io/ocannl/docs/) · 组织维护
+⭐ 118 · OCaml · BSD-2-Clause · 推送 2026-10-25 · [GitHub](https://github.com/ahrefs/ocannl) · [官网](https://ahrefs.github.io/ocannl/docs/) · 组织维护
 
 **从零实现的 OCaml 编译型深度学习框架**
 

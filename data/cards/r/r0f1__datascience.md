@@ -1,6 +1,6 @@
 # r0f1/datascience
 
-⭐ 4,683 · CC0-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/r0f1/datascience) · 个人维护
+⭐ 4,685 · CC0-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/r0f1/datascience) · 个人维护
 
 **Python 数据科学资源策展清单：库、教程、书籍与数据集链接**
 

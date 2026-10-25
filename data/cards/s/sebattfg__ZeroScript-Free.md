@@ -1,6 +1,6 @@
 # sebattfg/ZeroScript-Free
 
-⭐ 366 · JavaScript · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/sebattfg/ZeroScript-Free) · [官网](https://discord.gg/D5G2HAzX8z) · 个人维护
+⭐ 369 · JavaScript · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/sebattfg/ZeroScript-Free) · [官网](https://discord.gg/D5G2HAzX8z) · 个人维护
 
 **把网页版 AI 聊天变成 Roblox Studio 代理的浏览器扩展**
 

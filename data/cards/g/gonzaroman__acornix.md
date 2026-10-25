@@ -1,6 +1,6 @@
 # gonzaroman/acornix
 
-⭐ 150 · Kotlin · MIT · 推送 2026-10-18 · [GitHub](https://github.com/gonzaroman/acornix) · [官网](https://github.com/gonzaroman/acornix/releases/latest) · 个人维护
+⭐ 150 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gonzaroman/acornix) · [官网](https://github.com/gonzaroman/acornix/releases/latest) · 个人维护
 
 **安卓端 AI 应用生成器与手机助手：用文字/语音/照片创建应用**
 

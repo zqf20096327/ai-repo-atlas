@@ -1,6 +1,6 @@
 # spotify/basic-pitch
 
-⭐ 5,960 · Python · Apache-2.0 · 推送 2025-11-13 · [GitHub](https://github.com/spotify/basic-pitch) · [官网](https://basicpitch.io) · 组织维护
+⭐ 5,968 · Python · Apache-2.0 · 推送 2025-11-13 · [GitHub](https://github.com/spotify/basic-pitch) · [官网](https://basicpitch.io) · 组织维护
 
 **Spotify 的轻量音频转 MIDI 自动音乐转录库**
 

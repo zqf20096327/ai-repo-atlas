@@ -1,6 +1,6 @@
 # ilindaniel/ponytail-lite
 
-⭐ 223 · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ilindaniel/ponytail-lite) · 个人维护
+⭐ 225 · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ilindaniel/ponytail-lite) · 个人维护
 
 **单文件 AGENTS.md 规则：约束 AI agent 避免过度设计**
 

@@ -1,6 +1,6 @@
 # babarot/oksskolten
 
-⭐ 495 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/babarot/oksskolten) · [官网](https://oksskolten.com) · 个人维护
+⭐ 497 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/babarot/oksskolten) · [官网](https://oksskolten.com) · 个人维护
 
 **AI 原生自托管 RSS 阅读器：默认抓取全文并做摘要与翻译**
 

@@ -1,6 +1,6 @@
 # 1runeberg/confichat
 
-⭐ 164 · Dart · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/1runeberg/confichat) · [官网](https://codersfollies.com/app/confichat) · 个人维护
+⭐ 164 · Dart · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/1runeberg/confichat) · [官网](https://codersfollies.com/app/confichat) · 个人维护
 
 **隐私优先的多平台本地 LLM 聊天界面，支持聊天记录加密**
 

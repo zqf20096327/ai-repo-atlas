@@ -1,6 +1,6 @@
 # Pratiyush/llm-wiki
 
-⭐ 398 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Pratiyush/llm-wiki) · 个人维护
+⭐ 399 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Pratiyush/llm-wiki) · 个人维护
 
 **把 AI 编码会话记录转成可检索知识库的本地 CLI 工具**
 

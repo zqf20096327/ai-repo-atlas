@@ -1,6 +1,6 @@
 # moonlight-lupin/agent-skills
 
-⭐ 111 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/moonlight-lupin/agent-skills) · [官网](https://hermes-agent.nousresearch.com) · 个人维护
+⭐ 112 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/moonlight-lupin/agent-skills) · [官网](https://hermes-agent.nousresearch.com) · 个人维护
 
 **面向 Hermes Agent 的技能与插件集合，按领域组织**
 

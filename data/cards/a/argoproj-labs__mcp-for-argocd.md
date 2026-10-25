@@ -1,6 +1,6 @@
 # argoproj-labs/mcp-for-argocd
 
-⭐ 595 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/argoproj-labs/mcp-for-argocd) · [官网](https://www.npmjs.com/package/argocd-mcp) · 组织维护
+⭐ 596 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/argoproj-labs/mcp-for-argocd) · [官网](https://www.npmjs.com/package/argocd-mcp) · 组织维护
 
 **面向 Argo CD 的 MCP 服务器，让 AI 助手用自然语言管理 Argo CD**
 

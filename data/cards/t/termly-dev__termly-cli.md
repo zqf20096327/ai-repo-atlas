@@ -1,6 +1,6 @@
 # termly-dev/termly-cli
 
-⭐ 316 · JavaScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/termly-dev/termly-cli) · [官网](https://termly.dev) · 组织维护
+⭐ 317 · JavaScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/termly-dev/termly-cli) · [官网](https://termly.dev) · 组织维护
 
 **从手机远程访问终端 AI 编码助手的 CLI 通道，端到端加密**
 

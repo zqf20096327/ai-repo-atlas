@@ -1,6 +1,6 @@
 # zhaoxinyi02/ClawPanel
 
-⭐ 855 · Go · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/zhaoxinyi02/ClawPanel) · [官网](https://clawpanel.cc) · 个人维护 · 中文 README
+⭐ 853 · Go · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/zhaoxinyi02/ClawPanel) · [官网](https://clawpanel.cc) · 个人维护 · 中文 README
 
 **OpenClaw AI 助手的可视化管理面板：单二进制管理多通道运行时**
 

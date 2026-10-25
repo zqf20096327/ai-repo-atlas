@@ -1,6 +1,6 @@
 # ismailsaoulaj/reddit-mcp-server
 
-⭐ 38 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/ismailsaoulaj/reddit-mcp-server) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/ismailsaoulaj/reddit-mcp-server) · 个人维护
 
 **让 AI 助手实时检索与分析 Reddit 讨论的 MCP 服务器**
 

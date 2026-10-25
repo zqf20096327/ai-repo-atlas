@@ -1,6 +1,6 @@
 # ssitu/ComfyUI_UltimateSDUpscale
 
-⭐ 1,579 · Python · GPL-3.0 · 推送 2026-06-22 · [GitHub](https://github.com/ssitu/ComfyUI_UltimateSDUpscale) · 个人维护
+⭐ 1,581 · Python · GPL-3.0 · 推送 2026-06-22 · [GitHub](https://github.com/ssitu/ComfyUI_UltimateSDUpscale) · 个人维护
 
 **ComfyUI 节点：以分块 img2img 方式放大图像**
 

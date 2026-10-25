@@ -1,6 +1,6 @@
 # shafisma/cookcam
 
-⭐ 48 · JavaScript · 推送 2026-03-09 · [GitHub](https://github.com/shafisma/cookcam) · 个人维护
+⭐ 49 · JavaScript · 推送 2026-03-09 · [GitHub](https://github.com/shafisma/cookcam) · 个人维护
 
 **实时 AI 烹饪助手：摄像头看厨房，语音逐步指导做菜**
 

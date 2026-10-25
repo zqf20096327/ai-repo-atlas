@@ -1,6 +1,6 @@
 # Aatricks/llmedge
 
-⭐ 71 · Kotlin · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/Aatricks/llmedge) · [官网](https://aatricks.github.io/llmedge/) · 个人维护
+⭐ 72 · Kotlin · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/Aatricks/llmedge) · [官网](https://aatricks.github.io/llmedge/) · 个人维护
 
 **Android 端侧多模态推理库：在设备上运行 LLM/STT/TTS/图像视频生成**
 

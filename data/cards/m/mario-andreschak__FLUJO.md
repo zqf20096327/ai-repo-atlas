@@ -1,6 +1,6 @@
 # mario-andreschak/FLUJO
 
-⭐ 665 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mario-andreschak/FLUJO) · [官网](https://try.flujo.com.co) · 个人维护
+⭐ 665 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mario-andreschak/FLUJO) · [官网](https://try.flujo.com.co) · 个人维护
 
 **可视化构建并本地运行私有 AI agent 的开源工作台**
 

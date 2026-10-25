@@ -1,6 +1,6 @@
 # edmozley/freeitsm
 
-⭐ 112 · PHP · MIT · 推送 2026-10-24 · [GitHub](https://github.com/edmozley/freeitsm) · [官网](https://freeitsm.co.uk) · 个人维护
+⭐ 112 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/edmozley/freeitsm) · [官网](https://freeitsm.co.uk) · 个人维护
 
 **免费自托管、内置 AI 的开源 ITSM 服务平台**
 

@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-K2.5
 
-⭐ 2,317 · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/MoonshotAI/Kimi-K2.5) · 组织维护 · 中文 README
+⭐ 2,316 · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/MoonshotAI/Kimi-K2.5) · 组织维护 · 中文 README
 
 **开源多模态 agentic 基础模型：视觉-语言理解与工具编排**
 

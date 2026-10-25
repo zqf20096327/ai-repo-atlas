@@ -1,6 +1,6 @@
 # christos-antono/NPCTalk
 
-⭐ 207 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/christos-antono/NPCTalk) · 个人维护
+⭐ 209 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/christos-antono/NPCTalk) · 个人维护
 
 **让 AI 编程 agent 为任意游戏接入可对话 NPC 的技能与语音服务工具包**
 

@@ -1,6 +1,6 @@
 # Omni-Scientist/Awesome-AI-Scientist
 
-⭐ 99 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Omni-Scientist/Awesome-AI-Scientist) · [官网](https://omni-scientist.github.io/Awesome-AI-Scientist/) · 组织维护
+⭐ 101 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Omni-Scientist/Awesome-AI-Scientist) · [官网](https://omni-scientist.github.io/Awesome-AI-Scientist/) · 组织维护
 
 **AI 科学家论文/系统/基准/数据集的策展清单**
 

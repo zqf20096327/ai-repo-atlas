@@ -1,6 +1,6 @@
 # jtydhr88/screenwriting-skills
 
-⭐ 1,775 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/jtydhr88/screenwriting-skills) · 个人维护 · 中文 README
+⭐ 1,798 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/jtydhr88/screenwriting-skills) · 个人维护 · 中文 README
 
 **面向影视编剧与戏剧创作的 26 个 agent 技能库**
 

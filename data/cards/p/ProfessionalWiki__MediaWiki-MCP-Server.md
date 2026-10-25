@@ -1,6 +1,6 @@
 # ProfessionalWiki/MediaWiki-MCP-Server
 
-⭐ 140 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ProfessionalWiki/MediaWiki-MCP-Server) · [官网](https://professional.wiki/en/mediawiki-mcp-server) · 组织维护
+⭐ 141 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ProfessionalWiki/MediaWiki-MCP-Server) · [官网](https://professional.wiki/en/mediawiki-mcp-server) · 组织维护
 
 **让 LLM 客户端通过 MCP 读写任意 MediaWiki 的服务器**
 

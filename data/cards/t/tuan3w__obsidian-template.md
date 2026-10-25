@@ -1,6 +1,6 @@
 # tuan3w/obsidian-template
 
-⭐ 1,133 · Python · MIT · 推送 2026-03-21 · [GitHub](https://github.com/tuan3w/obsidian-template) · 个人维护
+⭐ 1,135 · Python · MIT · 推送 2026-03-21 · [GitHub](https://github.com/tuan3w/obsidian-template) · 个人维护
 
 **Obsidian 第二大脑起步模板：笔记模板+插件+Zettelkasten 工作流**
 

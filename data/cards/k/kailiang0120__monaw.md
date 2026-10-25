@@ -1,6 +1,6 @@
 # kailiang0120/monaw
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/kailiang0120/monaw) · 个人维护
+⭐ 82 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/kailiang0120/monaw) · 个人维护
 
 **Windows 开源 AI 桌面助手：聊天驱动文件、命令与浏览器自动化**
 

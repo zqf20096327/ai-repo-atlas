@@ -1,6 +1,6 @@
 # KunAgent/Kun
 
-⭐ 6,315 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/KunAgent/Kun) · [官网](https://www.kun-agent.com) · 组织维护 · 中文 README
+⭐ 6,319 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/KunAgent/Kun) · [官网](https://www.kun-agent.com) · 组织维护 · 中文 README
 
 **本地优先的桌面 AI 工作台：写代码、做文档、跑 Agent**
 

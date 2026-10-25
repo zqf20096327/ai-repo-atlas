@@ -1,6 +1,6 @@
 # huggingface/funes
 
-⭐ 577 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/funes) · 组织维护
+⭐ 579 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/funes) · 组织维护
 
 **AI 编码代理的持久会话记忆：跨代理索引并可发布到 Hub**
 

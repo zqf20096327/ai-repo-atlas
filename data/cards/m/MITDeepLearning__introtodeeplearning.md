@@ -1,6 +1,6 @@
 # MITDeepLearning/introtodeeplearning
 
-⭐ 8,847 · Jupyter Notebook · MIT · 推送 2026-01-04 · [GitHub](https://github.com/MITDeepLearning/introtodeeplearning) · 组织维护
+⭐ 8,850 · Jupyter Notebook · MIT · 推送 2026-01-04 · [GitHub](https://github.com/MITDeepLearning/introtodeeplearning) · 组织维护
 
 **MIT 深度学习入门课程（6.S191）的实验代码与软件 Lab 集合**
 

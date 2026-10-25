@@ -1,6 +1,6 @@
 # Muvon/octocode
 
-⭐ 513 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Muvon/octocode) · [官网](https://octomind.run/product/octocode) · 个人维护
+⭐ 515 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Muvon/octocode) · [官网](https://octomind.run/product/octocode) · 个人维护
 
 **给 AI agent 的代码库结构化检索工具：MCP 服务器+知识图谱+语义搜索**
 

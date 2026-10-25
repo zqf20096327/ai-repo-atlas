@@ -1,6 +1,6 @@
 # foldl/chatllm.cpp
 
-⭐ 935 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/foldl/chatllm.cpp) · 个人维护 · 中文 README
+⭐ 935 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/foldl/chatllm.cpp) · 个人维护 · 中文 README
 
 **纯 C++ 的本地 LLM 推理与实时对话框架（CPU/GPU）**
 

@@ -1,6 +1,6 @@
 # wheelry/deep-skill-finder
 
-⭐ 536 · Python · 推送 2026-10-12 · [GitHub](https://github.com/wheelry/deep-skill-finder) · [官网](https://www.deepskill.market?ref=github) · 个人维护 · 中文 README
+⭐ 555 · Python · 推送 2026-10-12 · [GitHub](https://github.com/wheelry/deep-skill-finder) · [官网](https://www.deepskill.market?ref=github) · 个人维护 · 中文 README
 
 **给 AI Agent 用的技能发现引擎：从 20 万技能中检索并按实测反馈排序**
 

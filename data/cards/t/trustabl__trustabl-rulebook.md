@@ -1,6 +1,6 @@
 # trustabl/trustabl-rulebook
 
-⭐ 41 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/trustabl/trustabl-rulebook) · 组织维护
+⭐ 41 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/trustabl/trustabl-rulebook) · 组织维护
 
 **Agent 可靠性静态分析规则的索引与威胁模型说明文档库**
 

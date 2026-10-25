@@ -1,6 +1,6 @@
 # stimm-ai/stimm
 
-⭐ 52 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/stimm-ai/stimm) · [官网](https://stimm.ai/) · 组织维护
+⭐ 52 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/stimm-ai/stimm) · [官网](https://stimm.ai/) · 组织维护
 
 **基于 LiveKit 的低延迟语音 agent 运行时（双 agent 协作）**
 

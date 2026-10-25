@@ -1,6 +1,6 @@
 # teolex2020/aura-memory
 
-⭐ 85 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/teolex2020/aura-memory) · [官网](https://aurasdk.dev) · 组织维护
+⭐ 85 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/teolex2020/aura-memory) · [官网](https://aurasdk.dev) · 组织维护
 
 **给 AI agent 的本地认知记忆运行时：持久召回与可审计记忆**
 

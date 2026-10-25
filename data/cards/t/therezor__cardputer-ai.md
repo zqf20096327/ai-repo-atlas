@@ -1,6 +1,6 @@
 # therezor/cardputer-ai
 
-⭐ 121 · C++ · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/therezor/cardputer-ai) · 个人维护
+⭐ 122 · C++ · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/therezor/cardputer-ai) · 个人维护
 
 **跑在 ESP32-S3 微控制器上的完全离线 8M 参数小型聊天模型固件**
 

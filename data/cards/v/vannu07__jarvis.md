@@ -1,6 +1,6 @@
 # vannu07/jarvis
 
-⭐ 70 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/vannu07/jarvis) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/vannu07/jarvis) · 个人维护
 
 **带人脸识别认证的语音 AI 助手，语音控制电脑与通讯**
 

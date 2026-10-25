@@ -1,6 +1,6 @@
 # Dreamer-Toby/STEPQuant
 
-⭐ 97 · Python · 推送 2026-10-23 · [GitHub](https://github.com/Dreamer-Toby/STEPQuant) · [官网](https://arxiv.org/abs/2609.38169) · 组织维护
+⭐ 98 · Python · 推送 2026-10-23 · [GitHub](https://github.com/Dreamer-Toby/STEPQuant) · [官网](https://arxiv.org/abs/2609.38169) · 组织维护
 
 **Delta-rule 模型循环状态的后训练量化压缩方法（论文官方代码）**
 

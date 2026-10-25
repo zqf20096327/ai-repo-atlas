@@ -1,6 +1,6 @@
 # anthropics/devcontainer-features
 
-⭐ 315 · Shell · MIT · 推送 2025-12-16 · [GitHub](https://github.com/anthropics/devcontainer-features) · 组织维护
+⭐ 314 · Shell · MIT · 推送 2025-12-16 · [GitHub](https://github.com/anthropics/devcontainer-features) · 组织维护
 
 **开发者用：在 Dev Container 中安装 Claude Code CLI 的功能包**
 

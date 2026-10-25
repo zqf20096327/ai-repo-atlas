@@ -1,6 +1,6 @@
 # undreamai/LlamaLib
 
-⭐ 71 · C++ · Apache-2.0 · 推送 2026-03-08 · [GitHub](https://github.com/undreamai/LlamaLib) · [官网](https://undream.ai) · 组织维护
+⭐ 72 · C++ · Apache-2.0 · 推送 2026-03-08 · [GitHub](https://github.com/undreamai/LlamaLib) · [官网](https://undream.ai) · 组织维护
 
 **跨平台高级 C++/C# LLM 运行库：PC、移动与 VR 头显上本地运行大模型**
 

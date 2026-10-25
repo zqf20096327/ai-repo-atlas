@@ -1,6 +1,6 @@
 # Kodezi/Chronos
 
-⭐ 4,971 · Java · NOASSERTION · 推送 2025-11-12 · [GitHub](https://github.com/Kodezi/Chronos) · [官网](https://chronos.so/) · 组织维护
+⭐ 4,974 · Java · NOASSERTION · 推送 2025-11-12 · [GitHub](https://github.com/Kodezi/Chronos) · [官网](https://chronos.so/) · 组织维护
 
 **调试优先语言模型的研究与基准仓库，模型本体未开源**
 

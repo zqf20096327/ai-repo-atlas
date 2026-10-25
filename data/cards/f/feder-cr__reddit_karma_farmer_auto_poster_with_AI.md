@@ -1,6 +1,6 @@
 # feder-cr/reddit_karma_farmer_auto_poster_with_AI
 
-⭐ 38 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/feder-cr/reddit_karma_farmer_auto_poster_with_AI) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/feder-cr/reddit_karma_farmer_auto_poster_with_AI) · 个人维护
 
 **自动生成并发布 Reddit 帖子的 Python 脚本（GPT+LangChain）**
 

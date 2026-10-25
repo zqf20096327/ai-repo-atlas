@@ -1,6 +1,6 @@
 # careerhackeralex/visualize
 
-⭐ 246 · JavaScript · MIT · 推送 2026-03-06 · [GitHub](https://github.com/careerhackeralex/visualize) · 个人维护
+⭐ 247 · JavaScript · MIT · 推送 2026-03-06 · [GitHub](https://github.com/careerhackeralex/visualize) · 个人维护
 
 **用一句话生成自包含 HTML 可视化（幻灯片/仪表盘/信息图）的 Claude Code 插件**
 

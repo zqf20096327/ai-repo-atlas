@@ -1,6 +1,6 @@
 # frank-luongt/faos-skills-marketplace
 
-⭐ 35 · TeX · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/frank-luongt/faos-skills-marketplace) · [官网](https://faosx.ai/skills) · 组织维护
+⭐ 37 · TeX · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/frank-luongt/faos-skills-marketplace) · [官网](https://faosx.ai/skills) · 组织维护
 
 **面向多 AI 编码平台的 930+ 技能与 31 个 agent 插件库**
 

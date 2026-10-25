@@ -1,6 +1,6 @@
 # SalesforceAIResearch/enterprise-deep-research
 
-⭐ 1,219 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/SalesforceAIResearch/enterprise-deep-research) · 组织维护
+⭐ 1,221 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/SalesforceAIResearch/enterprise-deep-research) · 组织维护
 
 **企业级多智能体深度研究系统：自动生成研究报告**
 

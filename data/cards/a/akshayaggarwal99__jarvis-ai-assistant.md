@@ -1,6 +1,6 @@
 # akshayaggarwal99/jarvis-ai-assistant
 
-⭐ 659 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/akshayaggarwal99/jarvis-ai-assistant) · [官网](https://jarvis.ceo) · 个人维护
+⭐ 662 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/akshayaggarwal99/jarvis-ai-assistant) · [官网](https://jarvis.ceo) · 个人维护
 
 **Mac 语音听写助手：按住 Fn 说话，文本出现在任意应用**
 

@@ -1,6 +1,6 @@
 # ZJU-REAL/Awesome-GUI-Agents
 
-⭐ 463 · 推送 2026-07-28 · [GitHub](https://github.com/ZJU-REAL/Awesome-GUI-Agents) · [官网](https://arxiv.org/abs/2504.13865) · 组织维护 · 中文 README
+⭐ 464 · 推送 2026-07-28 · [GitHub](https://github.com/ZJU-REAL/Awesome-GUI-Agents) · [官网](https://arxiv.org/abs/2504.13865) · 组织维护 · 中文 README
 
 **GUI Agent 研究论文与资源策展清单（浙大团队维护）**
 

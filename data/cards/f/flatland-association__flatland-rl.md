@@ -1,6 +1,6 @@
 # flatland-association/flatland-rl
 
-⭐ 74 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/flatland-association/flatland-rl) · [官网](https://flatland-association.github.io/flatland-book/) · 组织维护
+⭐ 74 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/flatland-association/flatland-rl) · [官网](https://flatland-association.github.io/flatland-book/) · 组织维护
 
 **多智能体强化学习算法开发与比较的网格世界环境工具包**
 

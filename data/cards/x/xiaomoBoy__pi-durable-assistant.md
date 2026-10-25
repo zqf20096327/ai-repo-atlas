@@ -1,6 +1,6 @@
 # xiaomoBoy/pi-durable-assistant
 
-⭐ 39 · JavaScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/xiaomoBoy/pi-durable-assistant) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/xiaomoBoy/pi-durable-assistant) · 个人维护 · 中文 README
 
 **可自托管的持久化个人 AI Agent，进程重启后恢复任务**
 

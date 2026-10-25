@@ -1,6 +1,6 @@
 # hoolulu/deep-research
 
-⭐ 605 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/hoolulu/deep-research) · [官网](https://www.h33.top) · 个人维护 · 中文 README
+⭐ 604 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/hoolulu/deep-research) · [官网](https://www.h33.top) · 个人维护 · 中文 README
 
 **面向 AI 编程工具的深度调研报告生成 Skill，一条命令产出报告**
 

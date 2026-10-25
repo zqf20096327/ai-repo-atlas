@@ -1,6 +1,6 @@
 # Clawdlinux/agentic-operator-core
 
-⭐ 51 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Clawdlinux/agentic-operator-core) · [官网](https://clawdlinux.org) · 组织维护
+⭐ 52 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Clawdlinux/agentic-operator-core) · [官网](https://clawdlinux.org) · 组织维护
 
 **Kubernetes 上 AI agent 的治理 operator：隔离、egress 策略、成本与审计**
 

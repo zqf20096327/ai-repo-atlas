@@ -1,6 +1,6 @@
 # janishar/mit-deep-learning-book-pdf
 
-⭐ 14,280 · Java · 推送 2026-02-03 · [GitHub](https://github.com/janishar/mit-deep-learning-book-pdf) · 个人维护
+⭐ 14,285 · Java · 推送 2026-02-03 · [GitHub](https://github.com/janishar/mit-deep-learning-book-pdf) · 个人维护
 
 **为学习者提供 MIT 深度学习教材的 PDF 版本**
 

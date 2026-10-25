@@ -1,6 +1,6 @@
 # xiaoshe1337-star/Xsdsh-purge
 
-⭐ 69 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/xiaoshe1337-star/Xsdsh-purge) · [官网](https://官方q群：1109345306) · 个人维护 · 中文 README
+⭐ 74 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/xiaoshe1337-star/Xsdsh-purge) · [官网](https://官方q群：1109345306) · 个人维护 · 中文 README
 
 **DeepSeek Harness 官方客户端的红队安全评估插件**
 

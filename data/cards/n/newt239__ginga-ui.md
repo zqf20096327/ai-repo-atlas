@@ -1,6 +1,6 @@
 # newt239/ginga-ui
 
-⭐ 39 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/newt239/ginga-ui) · [官网](https://ginga-ui.vercel.app) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/newt239/ginga-ui) · [官网](https://ginga-ui.vercel.app) · 个人维护
 
 **React UI 组件库：以 LLM 依据网站内容或提示生成组件样式主题**
 

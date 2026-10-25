@@ -1,6 +1,6 @@
 # YanWenKun/ComfyUI-Windows-Portable
 
-⭐ 621 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/YanWenKun/ComfyUI-Windows-Portable) · 个人维护 · 中文 README
+⭐ 622 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/YanWenKun/ComfyUI-Windows-Portable) · 个人维护 · 中文 README
 
 **ComfyUI 的 Windows 便携整合包：预装 40+ 自定义节点**
 

@@ -1,6 +1,6 @@
 # QwenLM/E-CommerceBench
 
-⭐ 117 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/QwenLM/E-CommerceBench) · [官网](https://ecbench.github.io/) · 组织维护 · 中文 README
+⭐ 118 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/QwenLM/E-CommerceBench) · [官网](https://ecbench.github.io/) · 组织维护 · 中文 README
 
 **评测 LLM Agent 长周期自主经营电商业务的基准**
 

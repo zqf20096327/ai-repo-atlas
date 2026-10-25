@@ -1,6 +1,6 @@
 # santifer/cv-santiago
 
-⭐ 856 · HTML · 推送 2026-10-17 · [GitHub](https://github.com/santifer/cv-santiago) · [官网](https://santifer.io) · 个人维护
+⭐ 857 · HTML · 推送 2026-10-17 · [GitHub](https://github.com/santifer/cv-santiago) · [官网](https://santifer.io) · 个人维护
 
 **带文本+语音 AI 聊天机器人的交互式个人作品集网站**
 

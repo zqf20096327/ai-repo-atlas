@@ -1,6 +1,6 @@
 # dmlc/xgboost
 
-⭐ 28,904 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/dmlc/xgboost) · [官网](https://xgboost.readthedocs.io/) · 组织维护
+⭐ 28,909 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/dmlc/xgboost) · [官网](https://xgboost.readthedocs.io/) · 组织维护
 
 **面向数据科学者的分布式梯度提升树库**
 

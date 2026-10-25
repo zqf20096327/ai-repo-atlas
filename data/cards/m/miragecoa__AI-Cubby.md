@@ -1,6 +1,6 @@
 # miragecoa/AI-Cubby
 
-⭐ 376 · Vue · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/miragecoa/AI-Cubby) · 个人维护 · 中文 README
+⭐ 377 · Vue · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/miragecoa/AI-Cubby) · 个人维护 · 中文 README
 
 **本地优先的文件/程序使用记录与资源管理器，AI 打标签**
 

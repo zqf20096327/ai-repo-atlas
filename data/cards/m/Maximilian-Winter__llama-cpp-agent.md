@@ -1,6 +1,6 @@
 # Maximilian-Winter/llama-cpp-agent
 
-⭐ 659 · Python · NOASSERTION · 推送 2026-03-09 · [GitHub](https://github.com/Maximilian-Winter/llama-cpp-agent) · 个人维护
+⭐ 660 · Python · NOASSERTION · 推送 2026-03-09 · [GitHub](https://github.com/Maximilian-Winter/llama-cpp-agent) · 个人维护
 
 **给开发者的 LLM Agent 框架：聊天、函数调用与结构化输出**
 

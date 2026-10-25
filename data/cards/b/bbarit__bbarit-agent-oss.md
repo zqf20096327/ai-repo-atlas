@@ -1,6 +1,6 @@
 # bbarit/bbarit-agent-oss
 
-⭐ 148 · Rust · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/bbarit/bbarit-agent-oss) · [官网](https://bbarit.com) · 组织维护 · 中文 README
+⭐ 149 · Rust · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/bbarit/bbarit-agent-oss) · [官网](https://bbarit.com) · 组织维护 · 中文 README
 
 **终端里的开源 AI 编程 agent，单一 Rust 二进制，多模型接入**
 

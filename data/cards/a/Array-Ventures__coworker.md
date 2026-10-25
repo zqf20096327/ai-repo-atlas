@@ -1,6 +1,6 @@
 # Array-Ventures/coworker
 
-⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/Array-Ventures/coworker) · [官网](https://railway.com/deploy/coworker) · 组织维护
+⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/Array-Ventures/coworker) · [官网](https://railway.com/deploy/coworker) · 组织维护
 
 **开源 AI agent 桌面应用：聊天助手、MCP 管理与应用构建**
 

@@ -1,6 +1,6 @@
 # bradeGithub/DSH-Plugins-Marketplace
 
-⭐ 191 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/bradeGithub/DSH-Plugins-Marketplace) · 组织维护 · 中文 README
+⭐ 190 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bradeGithub/DSH-Plugins-Marketplace) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的插件市场插件：GUI 内浏览/安装/更新 GitHub dsh-plugin 插件**
 

@@ -1,6 +1,6 @@
 # google/artemis
 
-⭐ 14,342 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/google/artemis) · 组织维护 · 中文 README
+⭐ 14,743 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/google/artemis) · 组织维护 · 中文 README
 
 **让 AI 助手与测试套件用自然语言驱动真机 Android 自动化**
 

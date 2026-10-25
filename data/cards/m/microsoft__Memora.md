@@ -1,6 +1,6 @@
 # microsoft/Memora
 
-⭐ 259 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/microsoft/Memora) · 组织维护
+⭐ 260 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/microsoft/Memora) · 组织维护
 
 **给 AI agent 的记忆管理框架：统一存储、组织与检索记忆**
 

@@ -1,6 +1,6 @@
 # nihui/ncnn-android-styletransfer
 
-⭐ 109 · C · 推送 2026-10-23 · [GitHub](https://github.com/nihui/ncnn-android-styletransfer) · 个人维护
+⭐ 110 · C · 推送 2026-10-23 · [GitHub](https://github.com/nihui/ncnn-android-styletransfer) · 个人维护
 
 **在 Android 上运行风格迁移的 ncnn 示例应用**
 

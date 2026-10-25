@@ -1,6 +1,6 @@
 # FireRedTeam/FireRedASR
 
-⭐ 2,008 · Python · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/FireRedTeam/FireRedASR) · 组织维护 · 中文 README
+⭐ 2,009 · Python · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/FireRedTeam/FireRedASR) · 组织维护 · 中文 README
 
 **开源工业级中英及方言语音识别模型（AED 与 LLM 两版本）**
 

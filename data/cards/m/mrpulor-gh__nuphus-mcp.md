@@ -1,6 +1,6 @@
 # mrpulor-gh/nuphus-mcp
 
-⭐ 328 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mrpulor-gh/nuphus-mcp) · [官网](https://github.com/mrpulor-gh/nuphus-mcp) · 个人维护 · 中文 README
+⭐ 329 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mrpulor-gh/nuphus-mcp) · [官网](https://github.com/mrpulor-gh/nuphus-mcp) · 个人维护 · 中文 README
 
 **给 AI agent 用的桌面自动化 MCP 服务器：屏幕/窗口/键鼠/Chrome 控制**
 

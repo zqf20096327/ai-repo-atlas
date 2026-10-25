@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI-OpenClaw
 
-⭐ 558 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/rookiestar28/ComfyUI-OpenClaw) · 个人维护 · 中文 README
+⭐ 559 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/rookiestar28/ComfyUI-OpenClaw) · 个人维护 · 中文 README
 
 **ComfyUI 的安全优先编排层：加固自动化 API 与远程管理控制台**
 

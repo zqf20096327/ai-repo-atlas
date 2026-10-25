@@ -1,6 +1,6 @@
 # ishandutta2007/Video-Generation-Landscape
 
-⭐ 36 · MIT · 推送 2026-09-07 · [GitHub](https://github.com/ishandutta2007/Video-Generation-Landscape) · 个人维护
+⭐ 37 · MIT · 推送 2026-09-07 · [GitHub](https://github.com/ishandutta2007/Video-Generation-Landscape) · 个人维护
 
 **AI 视频生成模型/论文/数据集的策展清单**
 

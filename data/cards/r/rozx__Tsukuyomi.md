@@ -1,6 +1,6 @@
 # rozx/Tsukuyomi
 
-⭐ 40 · HTML · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/rozx/Tsukuyomi) · [官网](https://tsukuyomi.rozx.moe/) · 个人维护 · 中文 README
+⭐ 40 · HTML · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/rozx/Tsukuyomi) · [官网](https://tsukuyomi.rozx.moe/) · 个人维护 · 中文 README
 
 **面向小说的 AI 导入、双语阅读与翻译工具**
 

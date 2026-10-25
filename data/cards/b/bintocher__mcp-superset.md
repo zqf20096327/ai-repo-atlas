@@ -1,6 +1,6 @@
 # bintocher/mcp-superset
 
-⭐ 59 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/bintocher/mcp-superset) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/bintocher/mcp-superset) · 个人维护
 
 **管理 Apache Superset 的 MCP server，提供 137 个工具**
 

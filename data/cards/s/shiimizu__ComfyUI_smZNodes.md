@@ -1,6 +1,6 @@
 # shiimizu/ComfyUI_smZNodes
 
-⭐ 334 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/shiimizu/ComfyUI_smZNodes) · 个人维护
+⭐ 335 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/shiimizu/ComfyUI_smZNodes) · 个人维护
 
 **ComfyUI 自定义节点：复现 stable-diffusion-webui 的提示词编码**
 

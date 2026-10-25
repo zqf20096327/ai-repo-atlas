@@ -1,6 +1,6 @@
 # yb2460/harness-anything
 
-⭐ 2,420 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yb2460/harness-anything) · 个人维护 · 中文 README
+⭐ 2,476 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yb2460/harness-anything) · 个人维护 · 中文 README
 
 **让 AI Agent 操控办公/设计/学术软件的 Windows COM 工具集**
 

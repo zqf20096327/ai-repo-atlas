@@ -1,6 +1,6 @@
 # tkalevra/SuperPowersWUI
 
-⭐ 65 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/tkalevra/SuperPowersWUI) · 个人维护
+⭐ 64 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/tkalevra/SuperPowersWUI) · 个人维护
 
 **Open WebUI 工具：将 Superpowers 开发工作流移植到本地/远程 LLM**
 

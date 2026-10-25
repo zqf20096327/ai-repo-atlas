@@ -1,6 +1,6 @@
 # NikoDemon80/ComfyUI-H3-Motion-Context
 
-⭐ 1,297 · Python · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context) · 个人维护
+⭐ 1,298 · Python · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context) · 个人维护
 
 **ComfyUI 节点包：让 MiniMax H3 视频片段的运动与音频跨剪辑连续**
 

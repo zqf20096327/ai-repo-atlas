@@ -1,6 +1,6 @@
 # jsksxs360/How-to-use-Transformers
 
-⭐ 1,896 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/jsksxs360/How-to-use-Transformers) · [官网](https://transformers.run/) · 个人维护 · 中文 README
+⭐ 1,895 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/jsksxs360/How-to-use-Transformers) · [官网](https://transformers.run/) · 个人维护 · 中文 README
 
 **《Transformers 库快速入门》教程配套代码仓库**
 

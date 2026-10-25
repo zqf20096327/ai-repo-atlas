@@ -1,6 +1,6 @@
 # richardgill/llm-ui
 
-⭐ 1,749 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/richardgill/llm-ui) · [官网](https://llm-ui.com) · 个人维护
+⭐ 1,748 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/richardgill/llm-ui) · [官网](https://llm-ui.com) · 个人维护
 
 **渲染 LLM 流式输出的 React 组件库**
 

@@ -1,6 +1,6 @@
 # holtwood/awesome-cursorrules-zh
 
-⭐ 239 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/holtwood/awesome-cursorrules-zh) · [官网](https://holtwood.github.io/awesome-cursorrules-zh/) · 个人维护 · 中文 README
+⭐ 240 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/holtwood/awesome-cursorrules-zh) · [官网](https://holtwood.github.io/awesome-cursorrules-zh/) · 个人维护 · 中文 README
 
 **中文开发者的 Cursor AI 编程规则精选集（132 条）**
 

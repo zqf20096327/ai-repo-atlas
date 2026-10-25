@@ -1,6 +1,6 @@
 # AndPuQing/gflow
 
-⭐ 101 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AndPuQing/gflow) · [官网](https://runqd.com) · 个人维护 · 中文 README
+⭐ 101 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AndPuQing/gflow) · [官网](https://runqd.com) · 个人维护 · 中文 README
 
 **单机 GPU 作业调度器：给共享工作站带来类 Slurm 工作流**
 

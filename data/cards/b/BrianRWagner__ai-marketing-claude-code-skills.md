@@ -1,6 +1,6 @@
 # BrianRWagner/ai-marketing-claude-code-skills
 
-⭐ 445 · Shell · 推送 2026-03-19 · [GitHub](https://github.com/BrianRWagner/ai-marketing-claude-code-skills) · [官网](https://www.brianrwagner.com/) · 个人维护
+⭐ 447 · Shell · 推送 2026-03-19 · [GitHub](https://github.com/BrianRWagner/ai-marketing-claude-code-skills) · [官网](https://www.brianrwagner.com/) · 个人维护
 
 **面向 Claude Code 的营销技能包：定位/内容/外联等 19 个免费技能**
 

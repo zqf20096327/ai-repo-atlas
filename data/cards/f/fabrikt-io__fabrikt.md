@@ -1,6 +1,6 @@
 # fabrikt-io/fabrikt
 
-⭐ 294 · Kotlin · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/fabrikt-io/fabrikt) · [官网](https://try.fabrikt.io) · 组织维护
+⭐ 294 · Kotlin · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/fabrikt-io/fabrikt) · [官网](https://try.fabrikt.io) · 组织维护
 
 **从 OpenAPI 3 规范生成 Kotlin 代码的库与 CLI 工具**
 

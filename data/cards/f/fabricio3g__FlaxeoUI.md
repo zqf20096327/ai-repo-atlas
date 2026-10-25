@@ -1,6 +1,6 @@
 # fabricio3g/FlaxeoUI
 
-⭐ 52 · Vue · MIT · 推送 2026-08-21 · [GitHub](https://github.com/fabricio3g/FlaxeoUI) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/fabricio3g/FlaxeoUI) · 个人维护
 
 **给本地用户的 stable-diffusion.cpp 桌面图像生成工作台**
 

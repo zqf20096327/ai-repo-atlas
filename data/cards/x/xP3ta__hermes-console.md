@@ -1,6 +1,6 @@
 # xP3ta/hermes-console
 
-⭐ 110 · Dart · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/xP3ta/hermes-console) · [官网](https://hermes.xpetalab.dev) · 个人维护
+⭐ 110 · Dart · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/xP3ta/hermes-console) · [官网](https://hermes.xpetalab.dev) · 个人维护
 
 **连接自托管 Hermes Agent 的原生 Android 客户端**
 

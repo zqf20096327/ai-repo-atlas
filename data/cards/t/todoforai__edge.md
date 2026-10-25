@@ -1,6 +1,6 @@
 # todoforai/edge
 
-⭐ 87 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/todoforai/edge) · [官网](https://todofor.ai) · 组织维护
+⭐ 87 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/todoforai/edge) · [官网](https://todofor.ai) · 组织维护
 
 **把本机接入 TODO for AI 服务器的连接器，赋予 agent 本地操作能力**
 

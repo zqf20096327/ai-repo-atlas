@@ -1,6 +1,6 @@
 # Glaube-TY/siyuan-homepage
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Glaube-TY/siyuan-homepage) · [官网](https://glaube-ty.top/sites/siyuan-homepage/index.html) · 个人维护 · 中文 README
+⭐ 42 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Glaube-TY/siyuan-homepage) · [官网](https://glaube-ty.top/sites/siyuan-homepage/index.html) · 个人维护 · 中文 README
 
 **思源笔记的可定制信息聚合主页插件，含 AI Agent 与机器人**
 

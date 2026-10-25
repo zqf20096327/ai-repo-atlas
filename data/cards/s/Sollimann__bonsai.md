@@ -1,6 +1,6 @@
 # Sollimann/bonsai
 
-⭐ 1,087 · Rust · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Sollimann/bonsai) · 个人维护
+⭐ 1,088 · Rust · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Sollimann/bonsai) · 个人维护
 
 **Rust 行为树库：为游戏与机器人构建模块化确定性 AI**
 

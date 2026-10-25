@@ -1,6 +1,6 @@
 # sergey-homenko/llm_cost_tracker
 
-⭐ 45 · Ruby · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/sergey-homenko/llm_cost_tracker) · [官网](https://rubygems.org/gems/llm_cost_tracker) · 个人维护
+⭐ 45 · Ruby · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/sergey-homenko/llm_cost_tracker) · [官网](https://rubygems.org/gems/llm_cost_tracker) · 个人维护
 
 **Rails 应用的 LLM 支出记账与预算控制 gem**
 

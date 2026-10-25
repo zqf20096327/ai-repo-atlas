@@ -1,6 +1,6 @@
 # hi-godot/godot-ai
 
-⭐ 3,181 · GDScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hi-godot/godot-ai) · 个人维护
+⭐ 3,199 · GDScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/hi-godot/godot-ai) · 个人维护
 
 **把 MCP 客户端接入 Godot 编辑器的 MCP 服务器与工具集**
 

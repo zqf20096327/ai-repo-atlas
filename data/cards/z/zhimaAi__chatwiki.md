@@ -1,6 +1,6 @@
 # zhimaAi/chatwiki
 
-⭐ 2,092 · Vue · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/zhimaAi/chatwiki) · [官网](https://chatwiki.ai) · 组织维护 · 中文 README
+⭐ 2,094 · Vue · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/zhimaAi/chatwiki) · [官网](https://chatwiki.ai) · 组织维护 · 中文 README
 
 **面向微信生态的 AI 知识库与工作流 Agent 平台**
 

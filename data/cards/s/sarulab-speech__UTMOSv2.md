@@ -1,6 +1,6 @@
 # sarulab-speech/UTMOSv2
 
-⭐ 375 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/sarulab-speech/UTMOSv2) · 组织维护
+⭐ 376 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/sarulab-speech/UTMOSv2) · 组织维护
 
 **预测合成语音自然度 MOS 的模型与 Python 库**
 

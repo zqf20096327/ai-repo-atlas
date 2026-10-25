@@ -1,6 +1,6 @@
 # affaan-m/Behavioral_RL
 
-⭐ 52 · HTML · 推送 2026-06-04 · [GitHub](https://github.com/affaan-m/Behavioral_RL) · 个人维护
+⭐ 53 · HTML · 推送 2026-06-04 · [GitHub](https://github.com/affaan-m/Behavioral_RL) · 个人维护
 
 **风险敏感强化学习建模 Iowa 赌博任务中的人类决策**
 

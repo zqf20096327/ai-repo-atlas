@@ -1,6 +1,6 @@
 # RMA-MUN/RAGNotebook
 
-⭐ 477 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/RMA-MUN/RAGNotebook) · 组织维护 · 中文 README
+⭐ 478 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/RMA-MUN/RAGNotebook) · 组织维护 · 中文 README
 
 **个人知识管理工具：笔记+知识图谱+GraphRAG+AI写作辅助**
 

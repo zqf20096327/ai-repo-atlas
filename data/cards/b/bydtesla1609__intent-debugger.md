@@ -1,6 +1,6 @@
 # bydtesla1609/intent-debugger
 
-⭐ 123 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/bydtesla1609/intent-debugger) · 个人维护 · 中文 README
+⭐ 123 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bydtesla1609/intent-debugger) · 个人维护 · 中文 README
 
 **需求澄清 Skill：把模糊想法整理成可核对的需求清单**
 

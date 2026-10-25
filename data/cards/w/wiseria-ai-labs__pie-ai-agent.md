@@ -1,6 +1,6 @@
 # wiseria-ai-labs/pie-ai-agent
 
-⭐ 87 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/wiseria-ai-labs/pie-ai-agent) · [官网](https://pie.chat) · 组织维护 · 中文 README
+⭐ 88 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/wiseria-ai-labs/pie-ai-agent) · [官网](https://pie.chat) · 组织维护 · 中文 README
 
 **Chrome 侧边栏 AI 浏览器代理：读页面、填表单、自动化任务**
 

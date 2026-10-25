@@ -1,6 +1,6 @@
 # zhikunqingtao/zhikuncode
 
-⭐ 528 · Java · MIT · 推送 2026-10-19 · [GitHub](https://github.com/zhikunqingtao/zhikuncode) · [官网](https://zhikunqingtao.github.io/zhikuncode/) · 个人维护 · 中文 README
+⭐ 528 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zhikunqingtao/zhikuncode) · [官网](https://zhikunqingtao.github.io/zhikuncode/) · 个人维护 · 中文 README
 
 **自托管开源 AI 编程助手：浏览器/CLI 双入口完成长程任务**
 

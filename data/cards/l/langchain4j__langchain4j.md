@@ -1,6 +1,6 @@
 # langchain4j/langchain4j
 
-⭐ 13,289 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/langchain4j/langchain4j) · [官网](https://docs.langchain4j.dev) · 组织维护
+⭐ 13,295 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/langchain4j/langchain4j) · [官网](https://docs.langchain4j.dev) · 组织维护
 
 **给 JVM/Java 开发者的 LLM 应用开发库**
 

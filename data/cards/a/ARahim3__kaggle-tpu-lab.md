@@ -1,6 +1,6 @@
 # ARahim3/kaggle-tpu-lab
 
-⭐ 714 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ARahim3/kaggle-tpu-lab) · 个人维护
+⭐ 721 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ARahim3/kaggle-tpu-lab) · 个人维护
 
 **在 Kaggle 免费 TPU 上运行开源模型并暴露 API 端点的方案集**
 

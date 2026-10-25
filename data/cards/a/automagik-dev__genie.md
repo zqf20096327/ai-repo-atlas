@@ -1,6 +1,6 @@
 # automagik-dev/genie
 
-⭐ 345 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/automagik-dev/genie) · [官网](https://docs.automagik.dev/genie) · 组织维护
+⭐ 345 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/automagik-dev/genie) · [官网](https://docs.automagik.dev/genie) · 组织维护
 
 **给开发者的编码 agent 工作流 CLI：一个任务进，一个 PR 出**
 

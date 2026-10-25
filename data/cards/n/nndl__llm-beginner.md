@@ -1,6 +1,6 @@
 # nndl/llm-beginner
 
-⭐ 6,836 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/nndl/llm-beginner) · [官网](https://nndl.ai/llm-agent/) · 组织维护 · 中文 README
+⭐ 6,838 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/nndl/llm-beginner) · [官网](https://nndl.ai/llm-agent/) · 组织维护 · 中文 README
 
 **面向学习者的《大模型与智能体》电子书与 6 项编程任务教程**
 

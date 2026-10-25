@@ -1,6 +1,6 @@
 # trailhq/Trail-Code
 
-⭐ 10,716 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/trailhq/Trail-Code) · [官网](https://trailhq.com/graft) · 组织维护
+⭐ 10,745 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/trailhq/Trail-Code) · [官网](https://trailhq.com/graft) · 组织维护
 
 **给编码 agent 的代码地图与团队经验学习层**
 

@@ -1,6 +1,6 @@
 # yolinc02-star/learn-by-teaching-lab
 
-⭐ 53 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/yolinc02-star/learn-by-teaching-lab) · 个人维护
+⭐ 53 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/yolinc02-star/learn-by-teaching-lab) · 个人维护
 
 **面向 IT 学习者的实践教学内容库：多轨道课程、实验与测验**
 

@@ -1,6 +1,6 @@
 # somta/Juggle
 
-⭐ 1,160 · Java · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/somta/Juggle) · [官网](https://www.juggle.plus) · 组织维护 · 中文 README
+⭐ 1,161 · Java · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/somta/Juggle) · [官网](https://www.juggle.plus) · 组织维护 · 中文 README
 
 **零代码/低代码的微服务接口编排与系统集成平台**
 

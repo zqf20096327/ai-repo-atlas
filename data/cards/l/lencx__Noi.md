@@ -1,6 +1,6 @@
 # lencx/Noi
 
-⭐ 9,063 · TypeScript · 推送 2026-08-21 · [GitHub](https://github.com/lencx/Noi) · [官网](https://noib.app) · 个人维护 · 中文 README
+⭐ 9,067 · TypeScript · 推送 2026-08-21 · [GitHub](https://github.com/lencx/Noi) · [官网](https://noib.app) · 个人维护 · 中文 README
 
 **面向多个 AI 站点的桌面浏览器，统一管理与提示词工作流**
 

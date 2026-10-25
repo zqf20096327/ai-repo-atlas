@@ -1,6 +1,6 @@
 # RobotecAI/rai
 
-⭐ 609 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/RobotecAI/rai) · 组织维护
+⭐ 610 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/RobotecAI/rai) · 组织维护
 
 **面向物理机器人/具身 AI 的厂商无关 agentic 框架（ROS 2）**
 

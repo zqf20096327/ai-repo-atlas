@@ -1,6 +1,6 @@
 # czyt1988/data-workbench
 
-⭐ 104 · C++ · LGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/czyt1988/data-workbench) · 个人维护 · 中文 README
+⭐ 104 · C++ · LGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/czyt1988/data-workbench) · 个人维护 · 中文 README
 
 **AI Agent 驱动的 C++/Qt 数据分析工作台，含工作流与高性能绘图**
 

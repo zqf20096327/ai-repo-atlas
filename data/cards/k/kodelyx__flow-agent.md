@@ -1,6 +1,6 @@
 # kodelyx/flow-agent
 
-⭐ 237 · JavaScript · 推送 2026-09-25 · [GitHub](https://github.com/kodelyx/flow-agent) · [官网](https://github.com/kodelyx/flow-agent) · 个人维护
+⭐ 240 · JavaScript · 推送 2026-09-25 · [GitHub](https://github.com/kodelyx/flow-agent) · [官网](https://github.com/kodelyx/flow-agent) · 个人维护
 
 **通过 CLI/REST/MCP 调用 Google Flow 生成 AI 图片与视频的本地服务**
 

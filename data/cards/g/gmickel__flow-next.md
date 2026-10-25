@@ -1,6 +1,6 @@
 # gmickel/flow-next
 
-⭐ 711 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/gmickel/flow-next) · [官网](https://flow-next.dev) · 个人维护
+⭐ 712 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gmickel/flow-next) · [官网](https://flow-next.dev) · 个人维护
 
 **编码 agent 的工作流插件：从 bug/想法/工单直达经验证的 PR**
 

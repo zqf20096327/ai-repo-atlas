@@ -1,6 +1,6 @@
 # lintsinghua/paint-mv-skills
 
-⭐ 44 · JavaScript · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/lintsinghua/paint-mv-skills) · [官网](https://github.com/user-attachments/assets/8e291eb1-0761-4abd-b2c0-7ef165dc343a) · 个人维护 · 中文 README
+⭐ 45 · JavaScript · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/lintsinghua/paint-mv-skills) · [官网](https://github.com/user-attachments/assets/8e291eb1-0761-4abd-b2c0-7ef165dc343a) · 个人维护 · 中文 README
 
 **给 AI Agent 的 MV 制作 skills：歌曲+歌词生成手绘水彩动画 MV**
 

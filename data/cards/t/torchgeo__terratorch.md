@@ -1,6 +1,6 @@
 # torchgeo/terratorch
 
-⭐ 877 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/torchgeo/terratorch) · [官网](https://torchgeo.github.io/terratorch/) · 组织维护
+⭐ 878 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/torchgeo/terratorch) · [官网](https://torchgeo.github.io/terratorch/) · 组织维护
 
 **地理空间基础模型（GFM）微调框架，面向遥感/地球观测开发者**
 

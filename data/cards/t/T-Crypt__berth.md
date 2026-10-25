@@ -1,6 +1,6 @@
 # T-Crypt/berth
 
-⭐ 153 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/T-Crypt/berth) · [官网](https://t-crypt.github.io/berth/) · 个人维护
+⭐ 169 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/T-Crypt/berth) · [官网](https://t-crypt.github.io/berth/) · 个人维护
 
 **单卡 GPU 租约调度器：让本地推理引擎排队轮流用卡、避免 OOM 互撞**
 

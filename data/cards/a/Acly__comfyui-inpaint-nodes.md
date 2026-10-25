@@ -1,6 +1,6 @@
 # Acly/comfyui-inpaint-nodes
 
-⭐ 1,250 · Python · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Acly/comfyui-inpaint-nodes) · 个人维护
+⭐ 1,251 · Python · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Acly/comfyui-inpaint-nodes) · 个人维护
 
 **ComfyUI 图像重绘节点集：Fooocus 重绘模型、LaMa/MAT 与遮罩预处理**
 

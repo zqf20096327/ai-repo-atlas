@@ -1,6 +1,6 @@
 # anthropics/buffa
 
-⭐ 926 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/anthropics/buffa) · 组织维护
+⭐ 925 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/anthropics/buffa) · 组织维护
 
 **纯 Rust 的 Protocol Buffers 实现，支持 editions 与零拷贝视图**
 

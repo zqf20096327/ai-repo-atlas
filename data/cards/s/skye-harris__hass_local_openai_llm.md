@@ -1,6 +1,6 @@
 # skye-harris/hass_local_openai_llm
 
-⭐ 302 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/skye-harris/hass_local_openai_llm) · 个人维护
+⭐ 303 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/skye-harris/hass_local_openai_llm) · 个人维护
 
 **让 Home Assistant 接入本地 OpenAI 兼容 LLM 服务的自定义集成**
 

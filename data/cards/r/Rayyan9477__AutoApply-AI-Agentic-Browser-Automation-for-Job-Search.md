@@ -1,6 +1,6 @@
 # Rayyan9477/AutoApply-AI-Agentic-Browser-Automation-for-Job-Search
 
-⭐ 75 · Python · 推送 2026-08-04 · [GitHub](https://github.com/Rayyan9477/AutoApply-AI-Agentic-Browser-Automation-for-Job-Search) · 个人维护
+⭐ 76 · Python · 推送 2026-08-04 · [GitHub](https://github.com/Rayyan9477/AutoApply-AI-Agentic-Browser-Automation-for-Job-Search) · 个人维护
 
 **求职自动化全栈平台：AI 定制简历并跟踪投递**
 

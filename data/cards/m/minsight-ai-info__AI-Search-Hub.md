@@ -1,6 +1,6 @@
 # minsight-ai-info/AI-Search-Hub
 
-⭐ 1,307 · Python · 推送 2026-04-27 · [GitHub](https://github.com/minsight-ai-info/AI-Search-Hub) · 组织维护 · 中文 README
+⭐ 1,308 · Python · 推送 2026-04-27 · [GitHub](https://github.com/minsight-ai-info/AI-Search-Hub) · 组织维护 · 中文 README
 
 **聚合多平台 AI 搜索能力的开源 Skill，供 Agent 统一调用**
 

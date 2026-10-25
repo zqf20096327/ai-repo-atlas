@@ -1,6 +1,6 @@
 # qixing-jk/all-api-hub
 
-⭐ 4,972 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/qixing-jk/all-api-hub) · [官网](https://all-api-hub.qixing1217.top/) · 个人维护 · 中文 README
+⭐ 4,973 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/qixing-jk/all-api-hub) · [官网](https://all-api-hub.qixing1217.top/) · 个人维护 · 中文 README
 
 **浏览器扩展：一站式管理 New API 等中转站账号与密钥资产**
 

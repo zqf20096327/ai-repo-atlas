@@ -1,6 +1,6 @@
 # Gentleman-Programming/gentle-ai
 
-⭐ 7,985 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Gentleman-Programming/gentle-ai) · [官网](https://gentlemanprogramming.com/) · 组织维护
+⭐ 8,006 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Gentleman-Programming/gentle-ai) · [官网](https://gentlemanprogramming.com/) · 组织维护
 
 **为已有 AI 编程 agent 配置记忆、工作流与审查的开源环境**
 

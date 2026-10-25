@@ -1,6 +1,6 @@
 # DareDev256/fcp-mcp-server
 
-⭐ 131 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/DareDev256/fcp-mcp-server) · [官网](https://pypi.org/project/fcp-mcp-server/) · 个人维护
+⭐ 130 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/DareDev256/fcp-mcp-server) · [官网](https://pypi.org/project/fcp-mcp-server/) · 个人维护
 
 **让 Claude 读写 Final Cut Pro XML 时间线的 MCP 服务器**
 

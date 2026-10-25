@@ -1,6 +1,6 @@
 # 122-syf-wcy/PhysicsOS
 
-⭐ 254 · TypeScript · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/122-syf-wcy/PhysicsOS) · [官网](https://physics.dongsiwei.com) · 个人维护 · 中文 README
+⭐ 255 · TypeScript · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/122-syf-wcy/PhysicsOS) · [官网](https://physics.dongsiwei.com) · 个人维护 · 中文 README
 
 **面向初高中物理学习的公益可视化 AI 智能体：AI 解题+物理引擎仿真**
 

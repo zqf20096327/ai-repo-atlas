@@ -1,6 +1,6 @@
 # mfwarren/entrepreneur-claude-skills
 
-⭐ 79 · HTML · MIT · 推送 2026-02-08 · [GitHub](https://github.com/mfwarren/entrepreneur-claude-skills) · [官网](https://mattwarren.co) · 个人维护
+⭐ 81 · HTML · MIT · 推送 2026-02-08 · [GitHub](https://github.com/mfwarren/entrepreneur-claude-skills) · [官网](https://mattwarren.co) · 个人维护
 
 **面向创始人的 Claude Code 创业技能包（24 个技能，6 类）**
 

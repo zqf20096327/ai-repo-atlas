@@ -1,6 +1,6 @@
 # louzkk/Ghost-Optimizer
 
-⭐ 49 · Batchfile · MIT · 推送 2026-08-24 · [GitHub](https://github.com/louzkk/Ghost-Optimizer) · [官网](https://github.com/louzkk/Ghost-Optimizer) · 个人维护
+⭐ 50 · Batchfile · MIT · 推送 2026-08-24 · [GitHub](https://github.com/louzkk/Ghost-Optimizer) · [官网](https://github.com/louzkk/Ghost-Optimizer) · 个人维护
 
 **Windows 批处理优化脚本：提升性能延迟，移除预装软件与内置 AI 功能**
 

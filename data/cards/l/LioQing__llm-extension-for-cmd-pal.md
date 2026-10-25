@@ -1,6 +1,6 @@
 # LioQing/llm-extension-for-cmd-pal
 
-⭐ 79 · C# · MIT · 推送 2026-07-20 · [GitHub](https://github.com/LioQing/llm-extension-for-cmd-pal) · [官网](http://lioqing.com/llm-extension-for-cmd-pal/) · 个人维护
+⭐ 80 · C# · MIT · 推送 2026-07-20 · [GitHub](https://github.com/LioQing/llm-extension-for-cmd-pal) · [官网](http://lioqing.com/llm-extension-for-cmd-pal/) · 个人维护
 
 **在 PowerToys 命令面板中直接对话 LLM 的扩展**
 

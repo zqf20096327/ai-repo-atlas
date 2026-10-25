@@ -1,6 +1,6 @@
 # GeminiLight/awesome-ai-llm4education
 
-⭐ 220 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/GeminiLight/awesome-ai-llm4education) · [官网](https://tianfu.wang/awesome-ai-llm4education/) · 组织维护
+⭐ 221 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/GeminiLight/awesome-ai-llm4education) · [官网](https://tianfu.wang/awesome-ai-llm4education/) · 组织维护
 
 **AI/LLM 教育应用论文策展清单（334 篇，2001–2026）**
 

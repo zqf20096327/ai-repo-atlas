@@ -1,6 +1,6 @@
 # Teriks/dgenerate
 
-⭐ 45 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/Teriks/dgenerate) · [官网](https://dgenerate.readthedocs.io) · 个人维护
+⭐ 45 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/Teriks/dgenerate) · [官网](https://dgenerate.readthedocs.io) · 个人维护
 
 **脚本化命令行图像/视频生成与编辑工具（Stable Diffusion 生态）**
 

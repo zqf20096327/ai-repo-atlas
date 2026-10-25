@@ -1,6 +1,6 @@
 # amarisaster/StardewValley-MCP
 
-⭐ 37 · C# · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/amarisaster/StardewValley-MCP) · 个人维护
+⭐ 38 · C# · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/amarisaster/StardewValley-MCP) · 个人维护
 
 **让 AI 陪伴角色通过 MCP 操作星露谷物语的模组+服务端**
 

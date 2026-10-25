@@ -1,6 +1,6 @@
 # KorroAi/claude-creativity
 
-⭐ 34 · TeX · MIT · 推送 2026-10-10 · [GitHub](https://github.com/KorroAi/claude-creativity) · [官网](https://korrocorp.com) · 个人维护
+⭐ 37 · TeX · MIT · 推送 2026-10-10 · [GitHub](https://github.com/KorroAi/claude-creativity) · [官网](https://korrocorp.com) · 个人维护
 
 **给 Claude Code 加 15 种创意技法的头脑风暴技能包**
 

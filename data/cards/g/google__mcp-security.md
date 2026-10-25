@@ -1,6 +1,6 @@
 # google/mcp-security
 
-⭐ 534 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/google/mcp-security) · 组织维护
+⭐ 535 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/google/mcp-security) · 组织维护
 
 **让 MCP 客户端接入 Google 安全产品（SecOps/GTI/SOAR/SCC）的服务器**
 

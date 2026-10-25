@@ -1,6 +1,6 @@
 # lthoangg/OpenAgentd
 
-⭐ 212 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/lthoangg/OpenAgentd) · [官网](https://openagentd.dev) · 个人维护
+⭐ 212 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/lthoangg/OpenAgentd) · [官网](https://openagentd.dev) · 个人维护
 
 **本地优先的桌面端编码 agent：透明展示每步工具调用**
 

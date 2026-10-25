@@ -1,6 +1,6 @@
 # harshpreet931/harshpreet-hand
 
-⭐ 52 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/harshpreet931/harshpreet-hand) · [官网](https://harshpreet931.github.io/harshpreet-hand/) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/harshpreet931/harshpreet-hand) · [官网](https://harshpreet931.github.io/harshpreet-hand/) · 个人维护
 
 **把120页手写笔记转成真实手写字体并开源流水线**
 

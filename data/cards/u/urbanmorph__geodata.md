@@ -1,6 +1,6 @@
 # urbanmorph/geodata
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/urbanmorph/geodata) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/urbanmorph/geodata) · 组织维护
 
 **印度行政边界开放地理数据目录，含 REST API 与 MCP 服务器**
 

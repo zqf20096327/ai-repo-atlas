@@ -1,6 +1,6 @@
 # decisionintelligence/DUET
 
-⭐ 298 · Shell · MIT · 推送 2026-05-12 · [GitHub](https://github.com/decisionintelligence/DUET) · [官网](https://arxiv.org/pdf/2412.10859) · 组织维护 · 中文 README
+⭐ 299 · Shell · MIT · 推送 2026-05-12 · [GitHub](https://github.com/decisionintelligence/DUET) · [官网](https://arxiv.org/pdf/2412.10859) · 组织维护 · 中文 README
 
 **KDD'25 论文 DUET 的官方 PyTorch 实现：多变量时序预测模型**
 

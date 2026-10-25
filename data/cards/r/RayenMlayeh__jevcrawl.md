@@ -1,6 +1,6 @@
 # RayenMlayeh/jevcrawl
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/RayenMlayeh/jevcrawl) · 个人维护
+⭐ 82 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/RayenMlayeh/jevcrawl) · 个人维护
 
 **面向 AI agent 的 MCP 网页爬取服务器与 CLI：定位答案页**
 

@@ -1,6 +1,6 @@
 # arorarishi/Prompt-Engineering-Jumpstart
 
-⭐ 219 · MIT · 推送 2025-12-23 · [GitHub](https://github.com/arorarishi/Prompt-Engineering-Jumpstart) · 个人维护
+⭐ 220 · MIT · 推送 2025-12-23 · [GitHub](https://github.com/arorarishi/Prompt-Engineering-Jumpstart) · 个人维护
 
 **面向初学者的提示工程开源电子书（14 章）**
 

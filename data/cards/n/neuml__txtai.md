@@ -1,6 +1,6 @@
 # neuml/txtai
 
-⭐ 13,032 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/neuml/txtai) · [官网](https://neuml.github.io/txtai) · 组织维护
+⭐ 13,034 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/neuml/txtai) · [官网](https://neuml.github.io/txtai) · 组织维护
 
 **Python 全栈 AI 框架：语义搜索、LLM 编排与语言模型工作流**
 

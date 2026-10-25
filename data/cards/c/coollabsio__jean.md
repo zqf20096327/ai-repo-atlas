@@ -1,6 +1,6 @@
 # coollabsio/jean
 
-⭐ 1,358 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/coollabsio/jean) · [官网](https://jean.build) · 个人维护
+⭐ 1,362 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/coollabsio/jean) · [官网](https://jean.build) · 个人维护
 
 **AI agent 开发环境：并行运行多家 CLI agent 于独立 worktree**
 

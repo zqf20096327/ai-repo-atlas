@@ -1,6 +1,6 @@
 # PaddlePaddle/FlashMask
 
-⭐ 53 · Python · BSD-3-Clause · 推送 2026-10-16 · [GitHub](https://github.com/PaddlePaddle/FlashMask) · 组织维护 · 中文 README
+⭐ 54 · Python · BSD-3-Clause · 推送 2026-10-16 · [GitHub](https://github.com/PaddlePaddle/FlashMask) · 组织维护 · 中文 README
 
 **面向稀疏掩码的高效注意力算子库，服务长上下文训练**
 

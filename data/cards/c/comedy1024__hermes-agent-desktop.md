@@ -1,6 +1,6 @@
 # comedy1024/hermes-agent-desktop
 
-⭐ 13 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/comedy1024/hermes-agent-desktop) · 个人维护 · 中文 README
+⭐ 13 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/comedy1024/hermes-agent-desktop) · 个人维护 · 中文 README
 
 **将 Hermes Agent 与 WebUI 打包进浏览器可访问的 Linux KDE 桌面 Docker 镜像**
 

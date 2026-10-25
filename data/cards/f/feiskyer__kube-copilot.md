@@ -1,6 +1,6 @@
 # feiskyer/kube-copilot
 
-⭐ 235 · Go · Apache-2.0 · 推送 2025-11-21 · [GitHub](https://github.com/feiskyer/kube-copilot) · 个人维护
+⭐ 234 · Go · Apache-2.0 · 推送 2025-11-21 · [GitHub](https://github.com/feiskyer/kube-copilot) · 个人维护
 
 **面向运维的 Kubernetes AI 助手 CLI：诊断、审计与生成清单**
 

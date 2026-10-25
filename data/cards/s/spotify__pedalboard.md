@@ -1,6 +1,6 @@
 # spotify/pedalboard
 
-⭐ 6,377 · C++ · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/spotify/pedalboard) · [官网](https://spotify.github.io/pedalboard) · 组织维护
+⭐ 6,381 · C++ · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/spotify/pedalboard) · [官网](https://spotify.github.io/pedalboard) · 组织维护
 
 **Python 音频处理库：读写/加效果/加载 VST3 插件**
 

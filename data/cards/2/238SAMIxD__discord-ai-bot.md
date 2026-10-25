@@ -1,6 +1,6 @@
 # 238SAMIxD/discord-ai-bot
 
-⭐ 293 · JavaScript · 推送 2026-06-17 · [GitHub](https://github.com/238SAMIxD/discord-ai-bot) · [官网](https://github.com/ollama/ollama) · 个人维护
+⭐ 294 · JavaScript · 推送 2026-06-17 · [GitHub](https://github.com/238SAMIxD/discord-ai-bot) · [官网](https://github.com/ollama/ollama) · 个人维护
 
 **接入 Ollama 与 Stable Diffusion 的 Discord AI 聊天机器人**
 

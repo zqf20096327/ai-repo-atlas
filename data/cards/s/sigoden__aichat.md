@@ -1,6 +1,6 @@
 # sigoden/aichat
 
-⭐ 10,516 · Rust · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/sigoden/aichat) · 个人维护
+⭐ 10,517 · Rust · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/sigoden/aichat) · 个人维护
 
 **一体化 LLM 命令行工具：聊天、Shell 助手、RAG、工具与 Agent**
 

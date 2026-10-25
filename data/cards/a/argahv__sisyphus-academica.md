@@ -1,6 +1,6 @@
 # argahv/sisyphus-academica
 
-⭐ 73 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/argahv/sisyphus-academica) · [官网](https://argahv.github.io/sisyphus-academica/) · 个人维护
+⭐ 74 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/argahv/sisyphus-academica) · [官网](https://argahv.github.io/sisyphus-academica/) · 个人维护
 
 **多 agent 科研论文生成管道：文献综述、新颖性生成与引用验证**
 

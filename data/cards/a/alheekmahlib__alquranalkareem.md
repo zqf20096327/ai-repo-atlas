@@ -1,6 +1,6 @@
 # alheekmahlib/alquranalkareem
 
-⭐ 153 · Dart · 推送 2026-10-20 · [GitHub](https://github.com/alheekmahlib/alquranalkareem) · [官网](https://alhikmah.vexaltech.dev/download/quran) · 组织维护
+⭐ 153 · Dart · 推送 2026-10-25 · [GitHub](https://github.com/alheekmahlib/alquranalkareem) · [官网](https://alhikmah.vexaltech.dev/download/quran) · 组织维护
 
 **Flutter 跨平台古兰经阅读与背诵应用，含 AI 背诵核验与助手**
 

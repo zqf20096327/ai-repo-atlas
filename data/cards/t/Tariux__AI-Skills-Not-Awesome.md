@@ -1,6 +1,6 @@
 # Tariux/AI-Skills-Not-Awesome
 
-⭐ 48 · 推送 2026-08-12 · [GitHub](https://github.com/Tariux/AI-Skills-Not-Awesome) · 个人维护
+⭐ 49 · 推送 2026-08-12 · [GitHub](https://github.com/Tariux/AI-Skills-Not-Awesome) · 个人维护
 
 **面向 skills.sh 生态的系统提示词/技能集合（13 个）**
 

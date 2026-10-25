@@ -1,6 +1,6 @@
 # ToolkitlyAI/awesome-ai-tools
 
-⭐ 35 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ToolkitlyAI/awesome-ai-tools) · [官网](https://www.toolkitly.com) · 组织维护
+⭐ 36 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ToolkitlyAI/awesome-ai-tools) · [官网](https://www.toolkitly.com) · 组织维护
 
 **650+ AI 工具分类目录，按类别浏览与社区投稿**
 

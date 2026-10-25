@@ -1,6 +1,6 @@
 # SlavaSexton/ComfyUI-OCIO
 
-⭐ 113 · Python · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/SlavaSexton/ComfyUI-OCIO) · [官网](https://aivfxnews.com/) · 组织维护
+⭐ 114 · Python · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/SlavaSexton/ComfyUI-OCIO) · [官网](https://aivfxnews.com/) · 组织维护
 
 **ComfyUI 的 Nuke 风格 OpenColorIO 色彩管理节点包**
 

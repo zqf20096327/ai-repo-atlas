@@ -1,6 +1,6 @@
 # bowang-lab/ecg-fm
 
-⭐ 322 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/bowang-lab/ecg-fm) · 组织维护
+⭐ 323 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/bowang-lab/ecg-fm) · 组织维护
 
 **心电图（ECG）分析基础模型，供研究者做推理与微调**
 

@@ -1,6 +1,6 @@
 # Azure-Samples/Legacy-Modernization-Agents
 
-⭐ 227 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Azure-Samples/Legacy-Modernization-Agents) · 组织维护
+⭐ 227 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Azure-Samples/Legacy-Modernization-Agents) · 组织维护
 
 **AI agent 框架：将 COBOL 大机代码自动迁移到 Java Quarkus 或 C#**
 

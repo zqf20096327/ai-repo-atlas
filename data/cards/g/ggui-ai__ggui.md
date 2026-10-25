@@ -1,6 +1,6 @@
 # ggui-ai/ggui
 
-⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ggui-ai/ggui) · [官网](https://ggui.ai) · 组织维护
+⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ggui-ai/ggui) · [官网](https://ggui.ai) · 组织维护
 
 **MCP-UI 协议与参考运行时：让 AI agent 按需生成可交互界面**
 

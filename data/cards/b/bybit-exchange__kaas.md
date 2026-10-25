@@ -1,6 +1,6 @@
 # bybit-exchange/kaas
 
-⭐ 151 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/bybit-exchange/kaas) · [官网](https://bybit-exchange.github.io/kaas-doc/) · 组织维护 · 中文 README
+⭐ 152 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/bybit-exchange/kaas) · [官网](https://bybit-exchange.github.io/kaas-doc/) · 组织维护 · 中文 README
 
 **自托管个人知识库编译器：把散落笔记文档编译成可问答的 Markdown wiki**
 

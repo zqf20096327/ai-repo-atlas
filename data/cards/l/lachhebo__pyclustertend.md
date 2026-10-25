@@ -1,6 +1,6 @@
 # lachhebo/pyclustertend
 
-⭐ 50 · Python · BSD-3-Clause · 推送 2026-10-17 · [GitHub](https://github.com/lachhebo/pyclustertend) · [官网](https://pyclustertend.readthedocs.io/en/master/index.html) · 个人维护
+⭐ 50 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/lachhebo/pyclustertend) · [官网](https://pyclustertend.readthedocs.io/en/master/index.html) · 个人维护
 
 **评估数据集聚类倾向的 Python 统计库**
 

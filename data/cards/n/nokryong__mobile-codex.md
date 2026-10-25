@@ -1,6 +1,6 @@
 # nokryong/mobile-codex
 
-⭐ 51 · Java · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/nokryong/mobile-codex) · 个人维护
+⭐ 52 · Java · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/nokryong/mobile-codex) · 个人维护
 
 **Android 上的 Codex 独立客户端，可语音对话并邀请 Claude/Gemini 协作**
 

@@ -1,6 +1,6 @@
 # yi1108/printfilm
 
-⭐ 6,358 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yi1108/printfilm) · [官网](https://www.printfilm.com) · 个人维护 · 中文 README
+⭐ 6,813 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yi1108/printfilm) · [官网](https://www.printfilm.com) · 个人维护 · 中文 README
 
 **自托管的 AI 短视频与 AI 漫剧创作平台，从文案到成片**
 

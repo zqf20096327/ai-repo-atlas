@@ -1,6 +1,6 @@
 # fabio-rovai/brain-in-the-fish
 
-⭐ 94 · Rust · MIT · 推送 2026-08-11 · [GitHub](https://github.com/fabio-rovai/brain-in-the-fish) · 个人维护
+⭐ 95 · Rust · MIT · 推送 2026-08-11 · [GitHub](https://github.com/fabio-rovai/brain-in-the-fish) · 个人维护
 
 **文档评分与声明核验工具：LLM 评分 + 本体证据校验**
 

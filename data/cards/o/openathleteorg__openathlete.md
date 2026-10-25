@@ -1,6 +1,6 @@
 # openathleteorg/openathlete
 
-⭐ 119 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/openathleteorg/openathlete) · [官网](https://openathlete.org) · 个人维护
+⭐ 121 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/openathleteorg/openathlete) · [官网](https://openathlete.org) · 个人维护
 
 **可自托管的耐力训练平台：数据自主、开源替代 TrainingPeaks**
 

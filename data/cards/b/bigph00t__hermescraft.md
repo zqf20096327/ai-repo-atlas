@@ -1,6 +1,6 @@
 # bigph00t/hermescraft
 
-⭐ 73 · JavaScript · MIT · 推送 2026-03-25 · [GitHub](https://github.com/bigph00t/hermescraft) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护
+⭐ 74 · JavaScript · MIT · 推送 2026-03-25 · [GitHub](https://github.com/bigph00t/hermescraft) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护
 
 **Minecraft 中的具身 Hermes AI 伴侣与多智能体世界**
 

@@ -1,6 +1,6 @@
 # edouard-claude/snip
 
-⭐ 470 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/edouard-claude/snip) · [官网](https://edouard-claude.github.io/snip/) · 个人维护
+⭐ 472 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/edouard-claude/snip) · [官网](https://edouard-claude.github.io/snip/) · 个人维护
 
 **过滤 shell 输出以减少 AI 编码助手 token 消耗的 CLI 代理**
 

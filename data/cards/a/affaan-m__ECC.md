@@ -1,6 +1,6 @@
 # affaan-m/ECC
 
-⭐ 287,847 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/affaan-m/ECC) · [官网](https://ecc.tools) · 个人维护
+⭐ 288,626 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/affaan-m/ECC) · [官网](https://ecc.tools) · 个人维护
 
 **为 Claude Code 等 AI 编码 harness 安装 agent 工程系统的插件**
 

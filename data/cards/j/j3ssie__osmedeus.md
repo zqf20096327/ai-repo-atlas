@@ -1,6 +1,6 @@
 # j3ssie/osmedeus
 
-⭐ 6,619 · Go · MIT · 推送 2026-10-04 · [GitHub](https://github.com/j3ssie/osmedeus) · [官网](https://www.osmedeus.org/) · 个人维护
+⭐ 6,621 · Go · MIT · 推送 2026-10-04 · [GitHub](https://github.com/j3ssie/osmedeus) · [官网](https://www.osmedeus.org/) · 个人维护
 
 **安全工作流编排引擎：以 YAML 声明式自动化侦察与扫描**
 

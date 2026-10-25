@@ -1,6 +1,6 @@
 # d-ouyang/mcd-worth-it
 
-⭐ 44 · HTML · MIT · 推送 2026-10-13 · [GitHub](https://github.com/d-ouyang/mcd-worth-it) · [官网](https://github.com/d-ouyang/mcd-worth-it/) · 个人维护 · 中文 README
+⭐ 107 · HTML · MIT · 推送 2026-10-13 · [GitHub](https://github.com/d-ouyang/mcd-worth-it) · [官网](https://github.com/d-ouyang/mcd-worth-it/) · 个人维护 · 中文 README
 
 **麦当劳 MCP 权益精算 Skill：按档口与账户权益实时核价点单**
 

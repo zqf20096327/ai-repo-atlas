@@ -1,6 +1,6 @@
 # ARPAHLS/skillware
 
-⭐ 168 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ARPAHLS/skillware) · [官网](http://skillware.site) · 组织维护
+⭐ 169 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ARPAHLS/skillware) · [官网](http://skillware.site) · 组织维护
 
 **给 AI agent 安装模块化技能包的 Python 框架与注册表**
 

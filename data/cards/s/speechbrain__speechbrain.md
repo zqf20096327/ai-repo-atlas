@@ -1,6 +1,6 @@
 # speechbrain/speechbrain
 
-⭐ 11,900 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/speechbrain/speechbrain) · [官网](http://speechbrain.github.io) · 组织维护
+⭐ 11,902 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/speechbrain/speechbrain) · [官网](http://speechbrain.github.io) · 组织维护
 
 **面向对话式 AI 的 PyTorch 语音/文本工具包**
 

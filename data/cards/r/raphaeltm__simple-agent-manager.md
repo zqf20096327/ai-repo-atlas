@@ -1,6 +1,6 @@
 # raphaeltm/simple-agent-manager
 
-⭐ 67 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/raphaeltm/simple-agent-manager) · [官网](https://www.simple-agent-manager.org/) · 个人维护
+⭐ 68 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/raphaeltm/simple-agent-manager) · [官网](https://www.simple-agent-manager.org/) · 个人维护
 
 **在自有云 VM 上并行编排多个编码 agent 的管理系统**
 

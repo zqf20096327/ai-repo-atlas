@@ -1,6 +1,6 @@
 # lnxpy/hey
 
-⭐ 235 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lnxpy/hey) · [官网](https://pypi.org/project/hey-mindsdb/) · 个人维护
+⭐ 236 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lnxpy/hey) · [官网](https://pypi.org/project/hey-mindsdb/) · 个人维护
 
 **开发者用 CLI AI 助手：连 LLM 服务做结对问答**
 

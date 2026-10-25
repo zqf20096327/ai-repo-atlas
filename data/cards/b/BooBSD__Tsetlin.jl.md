@@ -1,6 +1,6 @@
 # BooBSD/Tsetlin.jl
 
-⭐ 87 · Julia · MIT · 推送 2026-10-21 · [GitHub](https://github.com/BooBSD/Tsetlin.jl) · [官网](https://arxiv.org/pdf/2508.08350) · 个人维护
+⭐ 87 · Julia · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BooBSD/Tsetlin.jl) · [官网](https://arxiv.org/pdf/2508.08350) · 个人维护
 
 **Julia 实现的 Fuzzy-Pattern Tsetlin Machine 机器学习库**
 

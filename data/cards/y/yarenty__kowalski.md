@@ -1,6 +1,6 @@
 # yarenty/kowalski
 
-⭐ 66 · Rust · MIT · 推送 2026-10-14 · [GitHub](https://github.com/yarenty/kowalski) · 个人维护
+⭐ 66 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/yarenty/kowalski) · 个人维护
 
 **Rust 单二进制多智能体框架：本地 Ollama/OpenAI 端点上跑带 MCP 工具的 agent 流水线**
 

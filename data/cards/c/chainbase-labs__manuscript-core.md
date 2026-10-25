@@ -1,6 +1,6 @@
 # chainbase-labs/manuscript-core
 
-⭐ 691 · Rust · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/chainbase-labs/manuscript-core) · [官网](https://chainbase.com) · 组织维护
+⭐ 692 · Rust · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/chainbase-labs/manuscript-core) · [官网](https://chainbase.com) · 组织维护
 
 **面向 Chainbase 网络的区块链数据流处理框架，支持链上/链下数据入仓查询**
 

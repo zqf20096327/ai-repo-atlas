@@ -1,6 +1,6 @@
 # vEduardovich/dodari
 
-⭐ 243 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/vEduardovich/dodari) · [官网](https://finpin.himion.com/dodari) · 个人维护 · 中文 README
+⭐ 244 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/vEduardovich/dodari) · [官网](https://finpin.himion.com/dodari) · 个人维护 · 中文 README
 
 **面向读者的多语言 AI 整书翻译工具：翻译 EPUB/PDF/TXT**
 

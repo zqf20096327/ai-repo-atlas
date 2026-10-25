@@ -1,6 +1,6 @@
 # ai4s-research/ai4s-skills
 
-⭐ 250 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/ai4s-research/ai4s-skills) · 组织维护 · 中文 README
+⭐ 251 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/ai4s-research/ai4s-skills) · 组织维护 · 中文 README
 
 **面向 AI for Science 的 7 个编码 agent 技能：综述、实验、论文与审计**
 

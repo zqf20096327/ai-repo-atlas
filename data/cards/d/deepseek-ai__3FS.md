@@ -1,6 +1,6 @@
 # deepseek-ai/3FS
 
-⭐ 10,360 · C++ · MIT · 推送 2026-05-07 · [GitHub](https://github.com/deepseek-ai/3FS) · 组织维护 · 中文 README
+⭐ 10,368 · C++ · MIT · 推送 2026-05-07 · [GitHub](https://github.com/deepseek-ai/3FS) · 组织维护 · 中文 README
 
 **面向 AI 训练/推理工作负载的高性能分布式文件系统**
 

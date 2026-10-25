@@ -1,6 +1,6 @@
 # recranvvi5c/ContextCrucible
 
-⭐ 212 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/recranvvi5c/ContextCrucible) · [官网](https://pablog-7.github.io/ecommerce-kushi/) · 个人维护
+⭐ 213 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/recranvvi5c/ContextCrucible) · [官网](https://pablog-7.github.io/ecommerce-kushi/) · 个人维护
 
 **给编码 agent 的硬预算上下文编译器：扫描、打分、产出打包**
 

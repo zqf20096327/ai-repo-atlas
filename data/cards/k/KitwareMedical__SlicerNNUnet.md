@@ -1,6 +1,6 @@
 # KitwareMedical/SlicerNNUnet
 
-⭐ 76 · Python · BSD-3-Clause · 推送 2026-10-02 · [GitHub](https://github.com/KitwareMedical/SlicerNNUnet) · 组织维护
+⭐ 76 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/KitwareMedical/SlicerNNUnet) · 组织维护
 
 **3D Slicer 扩展：仅凭训练文件夹即可运行 nnUNet 模型做医学图像分割**
 

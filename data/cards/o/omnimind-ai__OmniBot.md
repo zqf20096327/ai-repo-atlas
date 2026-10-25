@@ -1,6 +1,6 @@
 # omnimind-ai/OmniBot
 
-⭐ 2,058 · Kotlin · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/omnimind-ai/OmniBot) · [官网](https://omnibot.omnimind.com.cn) · 组织维护 · 中文 README
+⭐ 2,061 · Kotlin · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/omnimind-ai/OmniBot) · [官网](https://omnibot.omnimind.com.cn) · 组织维护 · 中文 README
 
 **运行在 Android 设备上的本地 AI 代理应用：聊天加系统级任务执行**
 

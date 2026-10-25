@@ -1,6 +1,6 @@
 # gobuildwp/wordpress-mcp-ai-gobuildwp
 
-⭐ 62 · PHP · GPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/gobuildwp/wordpress-mcp-ai-gobuildwp) · [官网](https://gobuildwp.com) · 组织维护
+⭐ 62 · PHP · GPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gobuildwp/wordpress-mcp-ai-gobuildwp) · [官网](https://gobuildwp.com) · 组织维护
 
 **把 WordPress 站点变成 MCP 服务器，供 AI 客户端建站改站**
 

@@ -1,6 +1,6 @@
 # aaronrussell/ollama-ex
 
-⭐ 138 · Elixir · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/aaronrussell/ollama-ex) · [官网](https://hexdocs.pm/ollama) · 个人维护
+⭐ 137 · Elixir · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/aaronrussell/ollama-ex) · [官网](https://hexdocs.pm/ollama) · 个人维护
 
 **Elixir 语言调用 Ollama API 的客户端库**
 

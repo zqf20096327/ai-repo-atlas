@@ -1,6 +1,6 @@
 # CreativeMindstorms/AI-LEGO-PixelArt-Robot
 
-⭐ 59 · Python · GPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/CreativeMindstorms/AI-LEGO-PixelArt-Robot) · [官网](https://youtu.be/ec_BtS97IR8) · 个人维护
+⭐ 60 · Python · GPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/CreativeMindstorms/AI-LEGO-PixelArt-Robot) · [官网](https://youtu.be/ec_BtS97IR8) · 个人维护
 
 **用 DALL·E 3 生成像素图并控制乐高 Mindstorms 拼装机器**
 

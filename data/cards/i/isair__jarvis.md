@@ -1,6 +1,6 @@
 # isair/jarvis
 
-⭐ 2,132 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/isair/jarvis) · [官网](https://barissencan.com/jarvis/) · 个人维护
+⭐ 2,136 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/isair/jarvis) · [官网](https://barissencan.com/jarvis/) · 个人维护
 
 **桌面端私有本地 AI 语音/文字助手，带个人记忆与 MCP 工具**
 

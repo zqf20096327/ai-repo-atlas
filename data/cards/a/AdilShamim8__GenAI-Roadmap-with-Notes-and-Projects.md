@@ -1,6 +1,6 @@
 # AdilShamim8/GenAI-Roadmap-with-Notes-and-Projects
 
-⭐ 98 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-and-Projects) · 个人维护
+⭐ 99 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-and-Projects) · 个人维护
 
 **面向生产级 GenAI 工程师的 12 级学习路线图与项目集**
 

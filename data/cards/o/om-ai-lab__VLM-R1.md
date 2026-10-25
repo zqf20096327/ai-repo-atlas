@@ -1,6 +1,6 @@
 # om-ai-lab/VLM-R1
 
-⭐ 6,041 · Python · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/om-ai-lab/VLM-R1) · 组织维护
+⭐ 6,042 · Python · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/om-ai-lab/VLM-R1) · 组织维护
 
 **R1 式强化学习训练的视觉语言模型及 GRPO 训练代码库**
 

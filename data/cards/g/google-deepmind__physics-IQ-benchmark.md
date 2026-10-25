@@ -1,6 +1,6 @@
 # google-deepmind/physics-IQ-benchmark
 
-⭐ 381 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/physics-IQ-benchmark) · [官网](https://physics-iq.github.io/) · 组织维护
+⭐ 382 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/physics-IQ-benchmark) · [官网](https://physics-iq.github.io/) · 组织维护
 
 **评测生成式视频模型物理理解能力的基准数据集与工作流**
 

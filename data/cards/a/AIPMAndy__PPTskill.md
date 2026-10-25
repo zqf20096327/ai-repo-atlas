@@ -1,6 +1,6 @@
 # AIPMAndy/PPTskill
 
-⭐ 40 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/AIPMAndy/PPTskill) · 个人维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AIPMAndy/PPTskill) · 个人维护 · 中文 README
 
 **基于 ppt-master 的 AI 生成原生可编辑 PPTX 技能工具**
 

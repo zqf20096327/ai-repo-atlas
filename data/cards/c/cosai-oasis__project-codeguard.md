@@ -1,6 +1,6 @@
 # cosai-oasis/project-codeguard
 
-⭐ 355 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/cosai-oasis/project-codeguard) · [官网](https://project-codeguard.org/) · 组织维护
+⭐ 356 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/cosai-oasis/project-codeguard) · [官网](https://project-codeguard.org/) · 组织维护
 
 **面向 AI 编程 agent 的模型无关安全规则与技能框架**
 

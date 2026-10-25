@@ -1,6 +1,6 @@
 # asher/gmlx
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/asher/gmlx) · [官网](https://asher.github.io/gmlx/) · 个人维护
+⭐ 43 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/asher/gmlx) · [官网](https://asher.github.io/gmlx/) · 个人维护
 
 **Apple Silicon 上运行 GGUF 模型的本地推理平台**
 

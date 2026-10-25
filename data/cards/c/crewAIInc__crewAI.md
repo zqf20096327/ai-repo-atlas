@@ -1,6 +1,6 @@
 # crewAIInc/crewAI
 
-⭐ 60,064 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/crewAIInc/crewAI) · [官网](https://crewai.com) · 组织维护
+⭐ 60,089 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/crewAIInc/crewAI) · [官网](https://crewai.com) · 组织维护
 
 **面向开发者的多 Agent 协作编排 Python 框架**
 

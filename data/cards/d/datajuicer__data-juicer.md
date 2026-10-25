@@ -1,6 +1,6 @@
 # datajuicer/data-juicer
 
-⭐ 7,182 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/datajuicer/data-juicer) · [官网](https://datajuicer.github.io/data-juicer/) · 组织维护 · 中文 README
+⭐ 7,183 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/datajuicer/data-juicer) · [官网](https://datajuicer.github.io/data-juicer/) · 组织维护 · 中文 README
 
 **面向基础模型的数据处理系统：清洗/合成/分析训练数据**
 

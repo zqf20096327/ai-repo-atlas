@@ -1,6 +1,6 @@
 # TauricResearch/TradingAgents
 
-⭐ 113,583 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://arxiv.org/pdf/2412.20138) · 组织维护
+⭐ 114,247 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://arxiv.org/pdf/2412.20138) · 组织维护
 
 **多智能体 LLM 金融交易研究框架：模拟交易公司角色分工**
 

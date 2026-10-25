@@ -1,6 +1,6 @@
 # arakoodev/EdgeChains
 
-⭐ 430 · JavaScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/arakoodev/EdgeChains) · [官网](https://www.arakoo.ai/) · 组织维护
+⭐ 432 · JavaScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/arakoodev/EdgeChains) · [官网](https://www.arakoo.ai/) · 组织维护
 
 **基于 jsonnet 声明式管理提示词与链的全栈 GenAI 框架**
 

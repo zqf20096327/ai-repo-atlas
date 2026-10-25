@@ -1,6 +1,6 @@
 # voska/hass-mcp
 
-⭐ 349 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/voska/hass-mcp) · 个人维护
+⭐ 350 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/voska/hass-mcp) · 个人维护
 
 **让 Claude 等 LLM 控制 Home Assistant 的 MCP 服务器**
 

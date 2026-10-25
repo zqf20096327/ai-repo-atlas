@@ -1,6 +1,6 @@
 # FareedKhan-dev/glm-5.2-in-c
 
-⭐ 75 · C · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/FareedKhan-dev/glm-5.2-in-c) · [官网](https://medium.com/@fareedkhandev/77a3df56e7b4) · 个人维护
+⭐ 76 · C · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/FareedKhan-dev/glm-5.2-in-c) · [官网](https://medium.com/@fareedkhandev/77a3df56e7b4) · 个人维护
 
 **纯 C 推理引擎：让 744B GLM-5.2 在消费级硬件上运行**
 

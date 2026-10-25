@@ -1,6 +1,6 @@
 # featrs/featrs
 
-⭐ 67 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/featrs/featrs) · [官网](https://crates.io/crates/featrs) · 个人维护
+⭐ 67 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/featrs/featrs) · [官网](https://crates.io/crates/featrs) · 个人维护
 
 **面向 Rust 开发者的 Polars 原生特征工程库**
 

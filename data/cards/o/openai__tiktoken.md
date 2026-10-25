@@ -1,6 +1,6 @@
 # openai/tiktoken
 
-⭐ 19,518 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/openai/tiktoken) · 组织维护
+⭐ 19,524 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/openai/tiktoken) · 组织维护
 
 **面向 OpenAI 模型的快速 BPE 分词器库**
 

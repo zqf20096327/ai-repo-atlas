@@ -1,6 +1,6 @@
 # locuslab/EqR
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/locuslab/EqR) · [官网](https://x.com/huskydogewoof/status/2057641657580064941?s=20) · 组织维护
+⭐ 60 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/locuslab/EqR) · [官网](https://x.com/huskydogewoof/status/2057641657580064941?s=20) · 组织维护
 
 **ICML 2026 论文代码：用吸引子动力学训练均衡推理模型解 Sudoku 与 Maze**
 

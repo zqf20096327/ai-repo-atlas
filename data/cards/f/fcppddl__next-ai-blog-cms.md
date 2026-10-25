@@ -1,6 +1,6 @@
 # fcppddl/next-ai-blog-cms
 
-⭐ 84 · TypeScript · 推送 2026-06-22 · [GitHub](https://github.com/fcppddl/next-ai-blog-cms) · [官网](https://fcppddl.top) · 个人维护 · 中文 README
+⭐ 85 · TypeScript · 推送 2026-06-22 · [GitHub](https://github.com/fcppddl/next-ai-blog-cms) · [官网](https://fcppddl.top) · 个人维护 · 中文 README
 
 **带 AI 写作助手与 RAG 站内问答的 Next.js 博客 CMS**
 

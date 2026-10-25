@@ -1,6 +1,6 @@
 # oomol-lab/epub-translator
 
-⭐ 873 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/oomol-lab/epub-translator) · [官网](https://pdfcraft.ai/epub-translator) · 组织维护 · 中文 README
+⭐ 875 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/oomol-lab/epub-translator) · [官网](https://pdfcraft.ai/epub-translator) · 组织维护 · 中文 README
 
 **用 LLM 把 EPUB 转为原文对照双语书的 Python 库**
 

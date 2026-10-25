@@ -1,6 +1,6 @@
 # ahkamboh/agent-caption
 
-⭐ 34 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ahkamboh/agent-caption) · [官网](https://ahkamboh.github.io/agent-caption/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ahkamboh/agent-caption) · [官网](https://ahkamboh.github.io/agent-caption/) · 个人维护
 
 **本地离线给视频/歌曲加字幕的 Python CLI，支持 99 种语言**
 

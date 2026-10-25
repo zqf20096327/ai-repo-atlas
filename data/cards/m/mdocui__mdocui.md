@@ -1,6 +1,6 @@
 # mdocui/mdocui
 
-⭐ 44 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mdocui/mdocui) · [官网](https://mdocui.github.io) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mdocui/mdocui) · [官网](https://mdocui.github.io) · 个人维护
 
 **面向 LLM 流式输出的生成式 UI 库，基于 Markdoc 标签语法**
 

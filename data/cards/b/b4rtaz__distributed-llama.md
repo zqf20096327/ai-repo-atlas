@@ -1,6 +1,6 @@
 # b4rtaz/distributed-llama
 
-⭐ 3,115 · C++ · MIT · 推送 2026-10-14 · [GitHub](https://github.com/b4rtaz/distributed-llama) · 个人维护
+⭐ 3,115 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/b4rtaz/distributed-llama) · 个人维护
 
 **分布式 LLM 推理引擎：多台家用设备组集群加速推理**
 

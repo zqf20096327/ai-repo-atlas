@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-claude-code-plugins
 
-⭐ 72 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langsmith-claude-code-plugins) · [官网](https://langchain.com) · 组织维护
+⭐ 72 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/langchain-ai/langsmith-claude-code-plugins) · [官网](https://langchain.com) · 组织维护
 
 **将 Claude Code 会话追踪上报 LangSmith 的插件**
 

@@ -1,6 +1,6 @@
 # formetaohy/bevy-neura
 
-⭐ 52 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/formetaohy/bevy-neura) · 个人维护
+⭐ 53 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/formetaohy/bevy-neura) · 个人维护
 
 **Bevy 游戏引擎的 AI 原生训练与推理库**
 

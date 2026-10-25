@@ -1,6 +1,6 @@
 # Surajkumar5050/zyron-assistant
 
-⭐ 122 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/Surajkumar5050/zyron-assistant) · 个人维护
+⭐ 121 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/Surajkumar5050/zyron-assistant) · 个人维护
 
 **Windows 本地 AI 桌面助手：语音/Telegram 远程控制电脑**
 

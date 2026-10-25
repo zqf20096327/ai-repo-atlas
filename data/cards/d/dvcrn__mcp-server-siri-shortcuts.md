@@ -1,6 +1,6 @@
 # dvcrn/mcp-server-siri-shortcuts
 
-⭐ 195 · TypeScript · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/dvcrn/mcp-server-siri-shortcuts) · 个人维护
+⭐ 195 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/dvcrn/mcp-server-siri-shortcuts) · 个人维护
 
 **让 LLM 通过 MCP 调用 macOS Siri 快捷指令的服务器**
 

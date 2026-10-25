@@ -1,6 +1,6 @@
 # worldbench/awesome-ai-auto-research
 
-⭐ 564 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/worldbench/awesome-ai-auto-research) · [官网](https://worldbench.github.io/awesome-ai-auto-research) · 组织维护
+⭐ 565 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/worldbench/awesome-ai-auto-research) · [官网](https://worldbench.github.io/awesome-ai-auto-research) · 组织维护
 
 **AI 自动科研综述配套论文清单：覆盖科研全生命周期**
 

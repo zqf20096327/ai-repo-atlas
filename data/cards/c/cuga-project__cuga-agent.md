@@ -1,6 +1,6 @@
 # cuga-project/cuga-agent
 
-⭐ 1,049 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/cuga-project/cuga-agent) · [官网](https://cuga.dev) · 组织维护
+⭐ 1,049 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/cuga-project/cuga-agent) · [官网](https://cuga.dev) · 组织维护
 
 **面向企业的通用 agent 运行框架：策略管控地执行业务任务**
 

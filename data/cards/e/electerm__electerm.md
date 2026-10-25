@@ -1,6 +1,6 @@
 # electerm/electerm
 
-⭐ 15,448 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/electerm/electerm) · [官网](https://electerm.org) · 个人维护 · 中文 README
+⭐ 15,454 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/electerm/electerm) · [官网](https://electerm.org) · 个人维护 · 中文 README
 
 **跨平台终端/SSH/SFTP/RDP/VNC 客户端，带 AI 助手**
 

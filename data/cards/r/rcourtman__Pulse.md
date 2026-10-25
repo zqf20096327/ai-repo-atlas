@@ -1,6 +1,6 @@
 # rcourtman/Pulse
 
-⭐ 6,929 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rcourtman/Pulse) · [官网](https://pulserelay.pro) · 个人维护
+⭐ 6,937 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rcourtman/Pulse) · [官网](https://pulserelay.pro) · 个人维护
 
 **自托管基础设施监控面板：覆盖 Proxmox/Docker/K8s/TrueNAS 等**
 

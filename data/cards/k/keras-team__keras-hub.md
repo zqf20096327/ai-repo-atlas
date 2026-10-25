@@ -1,6 +1,6 @@
 # keras-team/keras-hub
 
-⭐ 995 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/keras-team/keras-hub) · [官网](https://keras.io/keras_hub/) · 组织维护
+⭐ 995 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/keras-team/keras-hub) · [官网](https://keras.io/keras_hub/) · 组织维护
 
 **Keras 3 多框架预训练模型库：文本/图像/音频开箱即用**
 

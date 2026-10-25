@@ -1,6 +1,6 @@
 # jakemanger/whatmodel
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jakemanger/whatmodel) · [官网](https://whatmodel.sh) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jakemanger/whatmodel) · [官网](https://whatmodel.sh) · 个人维护
 
 **开放 AI 模型排行榜：按硬件与预算筛出可运行的模型**
 

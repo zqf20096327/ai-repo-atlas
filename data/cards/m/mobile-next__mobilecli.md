@@ -1,6 +1,6 @@
 # mobile-next/mobilecli
 
-⭐ 305 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/mobile-next/mobilecli) · [官网](https://mobilenext.ai) · 组织维护 · 中文 README
+⭐ 306 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/mobile-next/mobilecli) · [官网](https://mobilenext.ai) · 组织维护 · 中文 README
 
 **iOS/Android 设备与模拟器统一管理 CLI，支持 AI agent 驱动**
 

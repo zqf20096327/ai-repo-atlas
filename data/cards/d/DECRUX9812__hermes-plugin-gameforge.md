@@ -1,6 +1,6 @@
 # DECRUX9812/hermes-plugin-gameforge
 
-⭐ 40 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/DECRUX9812/hermes-plugin-gameforge) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/DECRUX9812/hermes-plugin-gameforge) · 个人维护
 
 **Hermes Agent 的游戏开发插件：生成素材、构建与自动化试玩**
 

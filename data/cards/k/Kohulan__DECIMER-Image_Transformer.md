@@ -1,6 +1,6 @@
 # Kohulan/DECIMER-Image_Transformer
 
-⭐ 414 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/Kohulan/DECIMER-Image_Transformer) · 组织维护
+⭐ 414 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Kohulan/DECIMER-Image_Transformer) · 组织维护
 
 **深度学习 OCSR 工具：把化学结构图像转为 SMILES 字符串**
 

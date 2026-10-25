@@ -1,6 +1,6 @@
 # lkimuk/Wuwe
 
-⭐ 86 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lkimuk/Wuwe) · 个人维护
+⭐ 87 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lkimuk/Wuwe) · 个人维护
 
 **C++20 原生应用构建工具调用型 AI agent 的框架**
 

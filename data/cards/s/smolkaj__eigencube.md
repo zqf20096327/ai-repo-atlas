@@ -1,6 +1,6 @@
 # smolkaj/eigencube
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/smolkaj/eigencube) · [官网](https://youtu.be/kRrK4VJBf2s) · 个人维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/smolkaj/eigencube) · [官网](https://youtu.be/kRrK4VJBf2s) · 个人维护
 
 **用线性代数求解魔方的 Python 求解器与可视化工具**
 

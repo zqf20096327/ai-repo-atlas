@@ -1,6 +1,6 @@
 # isjiamu/gzh-design-skill
 
-⭐ 4,141 · HTML · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/isjiamu/gzh-design-skill) · [官网](https://github.com/AlephMuYe) · 个人维护 · 中文 README
+⭐ 4,154 · HTML · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/isjiamu/gzh-design-skill) · [官网](https://github.com/AlephMuYe) · 个人维护 · 中文 README
 
 **给 AI Agent 用的公众号排版技能：Markdown 一键转可粘贴 HTML**
 

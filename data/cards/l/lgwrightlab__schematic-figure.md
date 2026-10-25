@@ -1,6 +1,6 @@
 # lgwrightlab/schematic-figure
 
-⭐ 56 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lgwrightlab/schematic-figure) · [官网](https://lgwrightlab.github.io/schematic-figure/) · 组织维护
+⭐ 58 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lgwrightlab/schematic-figure) · [官网](https://lgwrightlab.github.io/schematic-figure/) · 组织维护
 
 **AI agent 技能：为科研论文绘制可编辑的矢量示意图**
 

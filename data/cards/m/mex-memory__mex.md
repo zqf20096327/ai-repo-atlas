@@ -1,6 +1,6 @@
 # mex-memory/mex
 
-⭐ 1,778 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mex-memory/mex) · [官网](https://mexmemory.com) · 组织维护 · 中文 README
+⭐ 1,778 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mex-memory/mex) · [官网](https://mexmemory.com) · 组织维护 · 中文 README
 
 **存于代码仓库、经 Git 共享的工程团队与编码 agent 共享记忆工具**
 

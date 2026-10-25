@@ -1,6 +1,6 @@
 # Nuo27/Potplayer-Ollama-Translate
 
-⭐ 51 · AngelScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Nuo27/Potplayer-Ollama-Translate) · 个人维护 · 中文 README
+⭐ 52 · AngelScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Nuo27/Potplayer-Ollama-Translate) · 个人维护 · 中文 README
 
 **PotPlayer 字幕实时翻译插件，接 Ollama/自定义 API**
 

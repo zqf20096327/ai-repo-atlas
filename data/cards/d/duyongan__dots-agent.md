@@ -1,6 +1,6 @@
 # duyongan/dots-agent
 
-⭐ 79 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/duyongan/dots-agent) · 个人维护 · 中文 README
+⭐ 87 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/duyongan/dots-agent) · 个人维护 · 中文 README
 
 **主动发现任务并积累技能的自主智能体，配命令行与桌面界面**
 

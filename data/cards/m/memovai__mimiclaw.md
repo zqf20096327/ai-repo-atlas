@@ -1,6 +1,6 @@
 # memovai/mimiclaw
 
-⭐ 5,803 · C · MIT · 推送 2026-10-04 · [GitHub](https://github.com/memovai/mimiclaw) · [官网](https://mimiclaw.io) · 组织维护 · 中文 README
+⭐ 5,805 · C · MIT · 推送 2026-10-04 · [GitHub](https://github.com/memovai/mimiclaw) · [官网](https://mimiclaw.io) · 组织维护 · 中文 README
 
 **跑在 5 美元 ESP32-S3 芯片上的 Telegram 个人 AI 助手**
 

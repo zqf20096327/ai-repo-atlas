@@ -1,6 +1,6 @@
 # SillyTavern/SillyTavern
 
-⭐ 34,895 · JavaScript · AGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/SillyTavern/SillyTavern) · [官网](https://sillytavern.app) · 组织维护
+⭐ 34,934 · JavaScript · AGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/SillyTavern/SillyTavern) · [官网](https://sillytavern.app) · 组织维护
 
 **面向高级用户的本地 LLM 聊天前端界面**
 

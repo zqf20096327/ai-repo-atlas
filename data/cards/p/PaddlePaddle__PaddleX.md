@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleX
 
-⭐ 6,281 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/PaddlePaddle/PaddleX) · [官网](https://paddlepaddle.github.io/PaddleX/) · 组织维护 · 中文 README
+⭐ 6,282 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/PaddlePaddle/PaddleX) · [官网](https://paddlepaddle.github.io/PaddleX/) · 组织维护 · 中文 README
 
 **面向AI开发者的飞桨低代码全流程开发工具，覆盖训练到部署**
 

@@ -1,6 +1,6 @@
 # elie222/rakazo
 
-⭐ 5,572 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/elie222/rakazo) · [官网](https://rakazo.com) · 个人维护 · 中文 README
+⭐ 5,747 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/elie222/rakazo) · [官网](https://rakazo.com) · 个人维护 · 中文 README
 
 **自托管的持久 AI teammate/助手，可自选模型与沙箱**
 

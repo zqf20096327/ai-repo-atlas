@@ -1,6 +1,6 @@
 # jackwener/OpenCLI
 
-⭐ 30,610 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jackwener/OpenCLI) · [官网](https://opencli.info/) · 个人维护 · 中文 README
+⭐ 30,630 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jackwener/OpenCLI) · [官网](https://opencli.info/) · 个人维护 · 中文 README
 
 **把任意网站变成 CLI 命令、供 AI agent 操作登录态浏览器的工具**
 

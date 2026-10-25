@@ -1,6 +1,6 @@
 # inkeep/open-knowledge
 
-⭐ 4,680 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/inkeep/open-knowledge) · [官网](https://openknowledge.ai) · 组织维护
+⭐ 4,686 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/inkeep/open-knowledge) · [官网](https://openknowledge.ai) · 组织维护
 
 **面向知识库与 LLM wiki 的本地 markdown IDE，集成多家 AI 编辑器**
 

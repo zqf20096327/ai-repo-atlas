@@ -1,6 +1,6 @@
 # agentlas-ai/Agentlas-OS
 
-⭐ 1,582 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/agentlas-ai/Agentlas-OS) · [官网](https://agentlas.cloud) · 组织维护 · 中文 README
+⭐ 1,584 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/agentlas-ai/Agentlas-OS) · [官网](https://agentlas.cloud) · 组织维护 · 中文 README
 
 **在 Claude Code/Codex/Cursor 等宿主内组建专家 agent 团队的开源路由引擎**
 

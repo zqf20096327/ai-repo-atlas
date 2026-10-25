@@ -1,6 +1,6 @@
 # alexshpunt/explicit-edit-benchmark
 
-⭐ 40 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/alexshpunt/explicit-edit-benchmark) · [官网](https://huggingface.co/spaces/alexshpunt/benchmark-explorer) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alexshpunt/explicit-edit-benchmark) · [官网](https://huggingface.co/spaces/alexshpunt/benchmark-explorer) · 个人维护
 
 **评测编码代理文件编辑精度的开源基准（226 项字节级任务）**
 

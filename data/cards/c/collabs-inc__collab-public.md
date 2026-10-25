@@ -1,6 +1,6 @@
 # collabs-inc/collab-public
 
-⭐ 3,076 · TypeScript · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/collabs-inc/collab-public) · [官网](https://collaborator.bot/) · 组织维护
+⭐ 3,074 · TypeScript · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/collabs-inc/collab-public) · [官网](https://collaborator.bot/) · 组织维护
 
 **在无限画布上与 AI agent 并行开发的桌面环境**
 

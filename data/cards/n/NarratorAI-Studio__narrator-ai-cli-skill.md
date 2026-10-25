@@ -1,6 +1,6 @@
 # NarratorAI-Studio/narrator-ai-cli-skill
 
-⭐ 3,067 · MIT · 推送 2026-07-05 · [GitHub](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) · 组织维护 · 中文 README
+⭐ 3,070 · MIT · 推送 2026-07-05 · [GitHub](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) · 组织维护 · 中文 README
 
 **教 AI Agent 调用 narrator-ai-cli 自动生成电影解说视频的技能文件**
 

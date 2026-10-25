@@ -1,6 +1,6 @@
 # NVIDIA/aicr
 
-⭐ 446 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/aicr) · [官网](https://docs.nvidia.com/aicr/) · 组织维护
+⭐ 447 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/aicr) · [官网](https://docs.nvidia.com/aicr/) · 组织维护
 
 **为运维/平台团队生成并验证 GPU K8s 集群的版本锁定运行时配置**
 

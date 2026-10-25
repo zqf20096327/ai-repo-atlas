@@ -1,6 +1,6 @@
 # takeshy/obsidian-local-llm-hub
 
-⭐ 89 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/takeshy/obsidian-local-llm-hub) · 个人维护
+⭐ 90 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/takeshy/obsidian-local-llm-hub) · 个人维护
 
 **Obsidian 全本地 AI 枢纽：LLM 对话、RAG、工作流自动化与 MCP 集成**
 

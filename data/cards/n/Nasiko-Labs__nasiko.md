@@ -1,6 +1,6 @@
 # Nasiko-Labs/nasiko
 
-⭐ 9,454 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Nasiko-Labs/nasiko) · [官网](https://www.nasiko.com) · 组织维护
+⭐ 9,452 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Nasiko-Labs/nasiko) · [官网](https://www.nasiko.com) · 组织维护
 
 **AI 编码代理的开放运行时：发现、计费归因与模型路由**
 

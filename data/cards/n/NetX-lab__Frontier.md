@@ -1,6 +1,6 @@
 # NetX-lab/Frontier
 
-⭐ 167 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/NetX-lab/Frontier) · 组织维护
+⭐ 167 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/NetX-lab/Frontier) · 组织维护
 
 **面向现代 LLM 服务的离散事件仿真器，无需 GPU 集群即可做配置研究**
 

@@ -1,6 +1,6 @@
 # ModelEngine-Group/app-platform
 
-⭐ 1,459 · Java · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ModelEngine-Group/app-platform) · [官网](https://modelengine-ai.net) · 组织维护 · 中文 README
+⭐ 1,458 · Java · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ModelEngine-Group/app-platform) · [官网](https://modelengine-ai.net) · 组织维护 · 中文 README
 
 **面向工程师与产品经理的低代码 AI 应用开发与编排平台**
 

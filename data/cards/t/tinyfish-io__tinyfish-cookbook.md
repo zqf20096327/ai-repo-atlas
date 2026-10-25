@@ -1,6 +1,6 @@
 # tinyfish-io/tinyfish-cookbook
 
-⭐ 2,273 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tinyfish-io/tinyfish-cookbook) · [官网](https://tinyfish.ai) · 组织维护
+⭐ 2,274 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tinyfish-io/tinyfish-cookbook) · [官网](https://tinyfish.ai) · 组织维护
 
 **TinyFish web agent 的示例应用与配方集合**
 

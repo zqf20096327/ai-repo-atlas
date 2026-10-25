@@ -1,6 +1,6 @@
 # VeriTeknik/pluggedin-app
 
-⭐ 103 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/VeriTeknik/pluggedin-app) · [官网](https://plugged.in) · 组织维护
+⭐ 103 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/VeriTeknik/pluggedin-app) · [官网](https://plugged.in) · 组织维护
 
 **自托管 MCP 服务器管理与 AI 内容平台，统一发现、配置与聚合多源 AI 工具**
 

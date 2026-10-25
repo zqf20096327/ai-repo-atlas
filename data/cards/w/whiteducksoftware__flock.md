@@ -1,6 +1,6 @@
 # whiteducksoftware/flock
 
-⭐ 122 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/whiteducksoftware/flock) · [官网](https://whiteducksoftware.github.io/flock/) · 组织维护
+⭐ 122 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/whiteducksoftware/flock) · [官网](https://whiteducksoftware.github.io/flock/) · 组织维护
 
 **面向开发者的声明式黑板架构多智能体编排框架**
 

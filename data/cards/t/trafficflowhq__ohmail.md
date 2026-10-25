@@ -1,6 +1,6 @@
 # trafficflowhq/ohmail
 
-⭐ 88 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/trafficflowhq/ohmail) · [官网](https://ohmail.app) · 组织维护
+⭐ 88 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/trafficflowhq/ohmail) · [官网](https://ohmail.app) · 组织维护
 
 **连接现有 IMAP 邮箱的同意优先邮件客户端，带可选 AI 筛选**
 

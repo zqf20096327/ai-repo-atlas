@@ -1,6 +1,6 @@
 # BIGPPWONG/EdgeBox
 
-⭐ 212 · TypeScript · GPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/BIGPPWONG/EdgeBox) · 个人维护 · 中文 README
+⭐ 211 · TypeScript · GPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/BIGPPWONG/EdgeBox) · 个人维护 · 中文 README
 
 **本地运行的 LLM Agent 桌面沙箱：GUI+CLI，MCP 协议全支持**
 

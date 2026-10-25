@@ -1,6 +1,6 @@
 # openai/mle-bench
 
-⭐ 1,782 · Python · NOASSERTION · 推送 2026-04-24 · [GitHub](https://github.com/openai/mle-bench) · [官网](https://openai.com/index/mle-bench/) · 组织维护
+⭐ 1,783 · Python · NOASSERTION · 推送 2026-04-24 · [GitHub](https://github.com/openai/mle-bench) · [官网](https://openai.com/index/mle-bench/) · 组织维护
 
 **评测 AI agent 机器学习工程能力的基准（75 个 Kaggle 竞赛）**
 

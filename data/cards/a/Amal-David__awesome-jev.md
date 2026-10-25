@@ -1,6 +1,6 @@
 # Amal-David/awesome-jev
 
-⭐ 242 · Python · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/Amal-David/awesome-jev) · 个人维护
+⭐ 242 · Python · CC0-1.0 · 推送 2026-10-25 · [GitHub](https://github.com/Amal-David/awesome-jev) · 个人维护
 
 **Jev 生态策展清单：模型演示、SDK、技能与项目聚合**
 

@@ -1,6 +1,6 @@
 # Helias/Crash-Bandicoot-Resources
 
-⭐ 43 · 推送 2026-09-29 · [GitHub](https://github.com/Helias/Crash-Bandicoot-Resources) · 个人维护
+⭐ 43 · 推送 2026-10-25 · [GitHub](https://github.com/Helias/Crash-Bandicoot-Resources) · 个人维护
 
 **古惑狼系列文件格式与逆向工程资源清单**
 

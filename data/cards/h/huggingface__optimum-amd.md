@@ -1,6 +1,6 @@
 # huggingface/optimum-amd
 
-⭐ 101 · Jupyter Notebook · MIT · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/optimum-amd) · [官网](https://huggingface.co/docs/optimum/amd/index) · 组织维护
+⭐ 102 · Jupyter Notebook · MIT · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/optimum-amd) · [官网](https://huggingface.co/docs/optimum/amd/index) · 组织维护
 
 **AMD 硬件上的 Transformers 模型优化扩展库（ROCm GPU/Ryzen AI NPU）**
 

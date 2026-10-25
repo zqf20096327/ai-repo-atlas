@@ -1,6 +1,6 @@
 # nikserg/skim
 
-⭐ 68 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nikserg/skim) · [官网](https://skim-tech.com/) · 个人维护
+⭐ 67 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nikserg/skim) · [官网](https://skim-tech.com/) · 个人维护
 
 **Windows 原生 AI 邮件客户端，BYOK 助手起草与总结邮件**
 

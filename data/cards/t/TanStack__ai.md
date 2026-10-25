@@ -1,6 +1,6 @@
 # TanStack/ai
 
-⭐ 3,241 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/TanStack/ai) · [官网](https://tanstack.com/ai/latest) · 组织维护
+⭐ 3,246 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/TanStack/ai) · [官网](https://tanstack.com/ai/latest) · 组织维护
 
 **TypeScript AI SDK：类型安全、多提供商地构建流式聊天/Agent/多模态应用**
 

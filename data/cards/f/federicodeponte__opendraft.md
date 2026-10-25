@@ -1,6 +1,6 @@
 # federicodeponte/opendraft
 
-⭐ 517 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/federicodeponte/opendraft) · [官网](https://openpaper.dev/) · 个人维护
+⭐ 518 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/federicodeponte/opendraft) · [官网](https://openpaper.dev/) · 个人维护
 
 **开源 Python 引擎：生成带 DOI 多库核验引文的研究论文草稿**
 

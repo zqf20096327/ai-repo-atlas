@@ -1,6 +1,6 @@
 # anomixer/openclaw-news
 
-⭐ 41 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/anomixer/openclaw-news) · [官网](https://anomixer.github.io/openclaw-news/) · 个人维护 · 中文 README
+⭐ 41 · JavaScript · 推送 2026-10-25 · [GitHub](https://github.com/anomixer/openclaw-news) · [官网](https://anomixer.github.io/openclaw-news/) · 个人维护 · 中文 README
 
 **OpenClaw 生态每日新闻日志兼 Windows/WSL2 安装指南**
 

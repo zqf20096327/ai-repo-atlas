@@ -1,6 +1,6 @@
 # Jueze-2019/dsh-redteam-mode
 
-⭐ 126 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Jueze-2019/dsh-redteam-mode) · 个人维护 · 中文 README
+⭐ 127 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Jueze-2019/dsh-redteam-mode) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 变成红队指挥台的智能体编排插件（仅限授权测试）**
 

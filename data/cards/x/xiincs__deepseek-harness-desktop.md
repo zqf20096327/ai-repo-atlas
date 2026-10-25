@@ -1,6 +1,6 @@
 # xiincs/deepseek-harness-desktop
 
-⭐ 60 · Rust · MIT · 推送 2026-09-21 · [GitHub](https://github.com/xiincs/deepseek-harness-desktop) · 组织维护 · 中文 README
+⭐ 61 · Rust · MIT · 推送 2026-09-21 · [GitHub](https://github.com/xiincs/deepseek-harness-desktop) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的社区桌面壳：托盘常驻、免命令行、带文件面板与插件市场**
 

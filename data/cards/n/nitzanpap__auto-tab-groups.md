@@ -1,6 +1,6 @@
 # nitzanpap/auto-tab-groups
 
-⭐ 55 · TypeScript · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/nitzanpap/auto-tab-groups) · [官网](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-groups/) · 个人维护
+⭐ 57 · TypeScript · GPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/nitzanpap/auto-tab-groups) · [官网](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-groups/) · 个人维护
 
 **按域名/规则自动分组浏览器标签页的跨浏览器扩展，含端侧 AI 建议**
 

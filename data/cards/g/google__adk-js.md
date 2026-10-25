@@ -1,6 +1,6 @@
 # google/adk-js
 
-⭐ 1,448 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/adk-js) · [官网](https://adk.dev) · 组织维护
+⭐ 1,450 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/adk-js) · [官网](https://adk.dev) · 组织维护
 
 **Google 的 TypeScript AI agent 开发框架，构建/调试/部署多 agent 系统**
 

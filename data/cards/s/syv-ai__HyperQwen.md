@@ -1,6 +1,6 @@
 # syv-ai/HyperQwen
 
-⭐ 2,207 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/syv-ai/HyperQwen) · 组织维护
+⭐ 2,227 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/syv-ai/HyperQwen) · 组织维护
 
 **在单张消费级 GPU 上高速部署大尺寸 Qwen 模型的 vLLM 补丁与部署套件**
 

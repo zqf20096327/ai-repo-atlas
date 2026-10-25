@@ -1,6 +1,6 @@
 # modular/modular
 
-⭐ 30,025 · Mojo · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/modular/modular) · [官网](https://docs.modular.com/) · 组织维护
+⭐ 30,038 · Mojo · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/modular/modular) · [官网](https://docs.modular.com/) · 组织维护
 
 **面向 AI 开发与部署的平台：MAX 框架 + Mojo 语言**
 

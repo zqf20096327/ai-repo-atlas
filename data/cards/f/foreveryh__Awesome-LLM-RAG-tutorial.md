@@ -1,6 +1,6 @@
 # foreveryh/Awesome-LLM-RAG-tutorial
 
-⭐ 110 · MDX · 推送 2025-10-29 · [GitHub](https://github.com/foreveryh/Awesome-LLM-RAG-tutorial) · [官网](https://rag.deeptoai.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **RAG 系列教程文档站：基于 Fumadocs 的教学内容**
 

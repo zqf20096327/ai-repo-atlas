@@ -1,6 +1,6 @@
 # last9/gpu-telemetry
 
-⭐ 76 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/last9/gpu-telemetry) · [官网](https://last9.io/gpu-observability/) · 组织维护
+⭐ 76 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/last9/gpu-telemetry) · [官网](https://last9.io/gpu-observability/) · 组织维护
 
 **带工作负载归因的 GPU 遥测代理：把 GPU 指标关联到 K8s pod 或 Slurm 作业**
 

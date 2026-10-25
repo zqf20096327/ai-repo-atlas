@@ -1,6 +1,6 @@
 # ChatLab/ChatLab
 
-⭐ 7,568 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ChatLab/ChatLab) · [官网](https://chatlab.fun) · 组织维护 · 中文 README
+⭐ 7,576 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ChatLab/ChatLab) · [官网](https://chatlab.fun) · 组织维护 · 中文 README
 
 **本地优先的桌面聊天记录分析工具，AI 助手辅助挖掘聊天数据**
 

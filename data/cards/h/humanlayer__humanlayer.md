@@ -1,6 +1,6 @@
 # humanlayer/humanlayer
 
-⭐ 12,319 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/humanlayer/humanlayer) · [官网](https://humanlayer.dev/code) · 组织维护
+⭐ 12,471 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/humanlayer/humanlayer) · [官网](https://humanlayer.dev/code) · 组织维护
 
 **HumanLayer 的公开 issues 仓库，主体代码已弃用**
 

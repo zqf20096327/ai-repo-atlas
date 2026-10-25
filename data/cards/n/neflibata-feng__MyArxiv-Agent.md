@@ -1,6 +1,6 @@
 # neflibata-feng/MyArxiv-Agent
 
-⭐ 125 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/neflibata-feng/MyArxiv-Agent) · [官网](https://neflibata-feng.github.io/MyArxiv-Agent/) · 个人维护 · 中文 README
+⭐ 125 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/neflibata-feng/MyArxiv-Agent) · [官网](https://neflibata-feng.github.io/MyArxiv-Agent/) · 个人维护 · 中文 README
 
 **个人 arXiv 论文自动化知识空间模板：抓取、筛选、归档与笔记**
 

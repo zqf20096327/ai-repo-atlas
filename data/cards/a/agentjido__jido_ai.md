@@ -1,6 +1,6 @@
 # agentjido/jido_ai
 
-⭐ 211 · Elixir · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/agentjido/jido_ai) · [官网](https://jido.run/ecosystem/jido_ai) · 组织维护
+⭐ 211 · Elixir · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/agentjido/jido_ai) · [官网](https://jido.run/ecosystem/jido_ai) · 组织维护
 
 **给 Elixir 开发者：为 Jido agent 提供 LLM 编排与推理策略的 AI 运行时层**
 

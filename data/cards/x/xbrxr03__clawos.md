@@ -1,6 +1,6 @@
 # xbrxr03/clawos
 
-⭐ 58 · Python · AGPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/xbrxr03/clawos) · [官网](https://github.com/xbrxr03/clawos) · 个人维护
+⭐ 59 · Python · AGPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/xbrxr03/clawos) · [官网](https://github.com/xbrxr03/clawos) · 个人维护
 
 **本地运行的开源个人 AI agent 系统：语音激活、多步工具执行与记忆**
 

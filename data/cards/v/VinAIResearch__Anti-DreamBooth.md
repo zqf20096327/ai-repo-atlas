@@ -1,6 +1,6 @@
 # VinAIResearch/Anti-DreamBooth
 
-⭐ 313 · Python · AGPL-3.0 · 推送 2026-03-27 · [GitHub](https://github.com/VinAIResearch/Anti-DreamBooth) · [官网](https://vinairesearch.github.io/Anti-DreamBooth/) · 组织维护
+⭐ 315 · Python · AGPL-3.0 · 推送 2026-03-27 · [GitHub](https://github.com/VinAIResearch/Anti-DreamBooth) · [官网](https://vinairesearch.github.io/Anti-DreamBooth/) · 组织维护
 
 **给用户与研究者：在人像上加对抗扰动以阻止 DreamBooth 个性化生成**
 

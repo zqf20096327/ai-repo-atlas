@@ -1,6 +1,6 @@
 # PromptPasture/llama.ui
 
-⭐ 220 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/PromptPasture/llama.ui) · [官网](https://llama-ui.js.org/) · 组织维护
+⭐ 220 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/PromptPasture/llama.ui) · [官网](https://llama-ui.js.org/) · 组织维护
 
 **浏览器内运行的本地 LLM 聊天 WebUI，对接多种推理后端**
 

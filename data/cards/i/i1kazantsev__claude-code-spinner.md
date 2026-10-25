@@ -1,6 +1,6 @@
 # i1kazantsev/claude-code-spinner
 
-⭐ 321 · 推送 2026-05-06 · [GitHub](https://github.com/i1kazantsev/claude-code-spinner) · 个人维护
+⭐ 320 · 推送 2026-05-06 · [GitHub](https://github.com/i1kazantsev/claude-code-spinner) · 个人维护
 
 **替换 Claude Code 等待动画短语的个性化配置集（90+ 俄语短语）**
 

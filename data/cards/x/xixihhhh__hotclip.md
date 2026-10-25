@@ -1,6 +1,6 @@
 # xixihhhh/hotclip
 
-⭐ 366 · TypeScript · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/xixihhhh/hotclip) · [官网](https://xixihhhh.github.io/hotclip/) · 个人维护 · 中文 README
+⭐ 371 · TypeScript · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/xixihhhh/hotclip) · [官网](https://xixihhhh.github.io/hotclip/) · 个人维护 · 中文 README
 
 **本地运行的 AI 长视频/直播回放切片工具，一键生成竖屏短视频**
 

@@ -1,6 +1,6 @@
 # api7/aisix
 
-⭐ 204 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/api7/aisix) · [官网](https://api7.ai/ai-gateway) · 组织维护 · 中文 README
+⭐ 205 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/api7/aisix) · [官网](https://api7.ai/ai-gateway) · 组织维护 · 中文 README
 
 **Rust 编写的开源 AI 网关：统一 OpenAI 兼容 API 接入多家模型**
 

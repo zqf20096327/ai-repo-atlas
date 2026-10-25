@@ -1,6 +1,6 @@
 # weisser-dev/awesome-opencode
 
-⭐ 41 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/weisser-dev/awesome-opencode) · [官网](https://www.npmjs.com/package/@weisser-dev/awesome-opencode) · 个人维护
+⭐ 43 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/weisser-dev/awesome-opencode) · [官网](https://www.npmjs.com/package/@weisser-dev/awesome-opencode) · 个人维护
 
 **面向 OpenCode 的 agent/技能策展集与交互式配置 CLI**
 

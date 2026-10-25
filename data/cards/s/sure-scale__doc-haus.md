@@ -1,6 +1,6 @@
 # sure-scale/doc-haus
 
-⭐ 79 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/sure-scale/doc-haus) · [官网](https://doc.haus) · 组织维护
+⭐ 80 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/sure-scale/doc-haus) · [官网](https://doc.haus) · 组织维护
 
 **本地自托管的法律文档 AI 助手：文档留在本地、红线稿输出为 Word 修订**
 

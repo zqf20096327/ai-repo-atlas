@@ -1,6 +1,6 @@
 # neej4/ScholarScout
 
-⭐ 41 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/neej4/ScholarScout) · [官网](https://scholarscout.pages.dev/) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/neej4/ScholarScout) · [官网](https://scholarscout.pages.dev/) · 个人维护
 
 **从 2.5 亿+ 论文中生成研究/产品/功能创意的工具**
 

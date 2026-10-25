@@ -1,6 +1,6 @@
 # als-apg/osprey
 
-⭐ 75 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/als-apg/osprey) · [官网](https://als-apg.github.io/osprey/) · 组织维护
+⭐ 75 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/als-apg/osprey) · [官网](https://als-apg.github.io/osprey/) · 组织维护
 
 **面向科学装置控制系统的 agentic 接口与安全护栏**
 

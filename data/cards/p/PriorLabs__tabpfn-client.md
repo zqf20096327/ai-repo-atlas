@@ -1,6 +1,6 @@
 # PriorLabs/tabpfn-client
 
-⭐ 252 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/PriorLabs/tabpfn-client) · [官网](https://www.priorlabs.ai) · 组织维护
+⭐ 252 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/PriorLabs/tabpfn-client) · [官网](https://www.priorlabs.ai) · 组织维护
 
 **表格基础模型 TabPFN 云端推理 API 的 Python 客户端**
 

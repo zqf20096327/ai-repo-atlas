@@ -1,6 +1,6 @@
 # liangdabiao/AI-generated-English-podcast-videos
 
-⭐ 182 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/liangdabiao/AI-generated-English-podcast-videos) · [官网](https://skillhub.cn/skills/user_8bb4b4f5/story-handdrawn-remotion) · 个人维护 · 中文 README
+⭐ 183 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/liangdabiao/AI-generated-English-podcast-videos) · [官网](https://skillhub.cn/skills/user_8bb4b4f5/story-handdrawn-remotion) · 个人维护 · 中文 README
 
 **把文章一键生成英语双人播客教学短视频的工具**
 

@@ -1,6 +1,6 @@
 # doccano/doccano
 
-⭐ 10,802 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/doccano/doccano) · 组织维护
+⭐ 10,804 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/doccano/doccano) · 组织维护
 
 **给机器学习从业者的开源文本标注工具：制作训练数据集**
 

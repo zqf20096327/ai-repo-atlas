@@ -1,6 +1,6 @@
 # Vivswan/litellm-vscode-chat
 
-⭐ 69 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Vivswan/litellm-vscode-chat) · [官网](https://marketplace.visualstudio.com/items?itemName=vivswan.litellm-vscode-chat) · 个人维护
+⭐ 69 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Vivswan/litellm-vscode-chat) · [官网](https://marketplace.visualstudio.com/items?itemName=vivswan.litellm-vscode-chat) · 个人维护
 
 **让 GitHub Copilot Chat 通过 LiteLLM 使用 100+ LLM 的 VS Code 扩展**
 

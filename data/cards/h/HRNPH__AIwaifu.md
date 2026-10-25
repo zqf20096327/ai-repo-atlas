@@ -1,6 +1,6 @@
 # HRNPH/AIwaifu
 
-⭐ 519 · Python · GPL-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/HRNPH/AIwaifu) · 个人维护
+⭐ 518 · Python · GPL-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/HRNPH/AIwaifu) · 个人维护
 
 **自托管可定制的 AI 虚拟伴侣（waifu）平台，可对话/直播**
 

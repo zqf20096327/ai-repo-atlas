@@ -1,6 +1,6 @@
 # eko24ive/pi-ask
 
-⭐ 53 · TypeScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/eko24ive/pi-ask) · [官网](https://www.npmjs.com/package/@eko24ive/pi-ask) · 个人维护
+⭐ 54 · TypeScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/eko24ive/pi-ask) · [官网](https://www.npmjs.com/package/@eko24ive/pi-ask) · 个人维护
 
 **Pi 编码代理的澄清提问扩展：终端 UI 中提问并回传规范化答案**
 

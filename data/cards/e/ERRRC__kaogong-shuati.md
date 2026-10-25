@@ -1,6 +1,6 @@
 # ERRRC/kaogong-shuati
 
-⭐ 108 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ERRRC/kaogong-shuati) · 个人维护 · 中文 README
+⭐ 114 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ERRRC/kaogong-shuati) · 个人维护 · 中文 README
 
 **考公刷题应用：本地题库刷题+错题本+AI解析批改**
 

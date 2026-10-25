@@ -1,6 +1,6 @@
 # Nolan0722/TRAE-Ollama-Bridge
 
-⭐ 221 · JavaScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Nolan0722/TRAE-Ollama-Bridge) · 个人维护 · 中文 README
+⭐ 220 · JavaScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Nolan0722/TRAE-Ollama-Bridge) · 个人维护 · 中文 README
 
 **将本地 Ollama 包装为 OpenAI 兼容接口的桥接代理**
 

@@ -1,6 +1,6 @@
 # facefusion/facefusion-assets
 
-⭐ 295 · 推送 2026-09-01 · [GitHub](https://github.com/facefusion/facefusion-assets) · [官网](https://facefusion.io) · 组织维护
+⭐ 296 · 推送 2026-09-01 · [GitHub](https://github.com/facefusion/facefusion-assets) · [官网](https://facefusion.io) · 组织维护
 
 **FaceFusion 平台的资产仓库**
 

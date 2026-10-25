@@ -1,6 +1,6 @@
 # langchain-ai/langgraph
 
-⭐ 43,830 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/langchain-ai/langgraph) · [官网](https://docs.langchain.com/oss/python/langgraph/) · 组织维护
+⭐ 43,879 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langgraph) · [官网](https://docs.langchain.com/oss/python/langgraph/) · 组织维护
 
 **面向构建有状态长期运行 agent 的低层编排框架**
 

@@ -1,6 +1,6 @@
 # Megum1/CO-SPY
 
-⭐ 53 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/Megum1/CO-SPY) · [官网](https://www.cs.purdue.edu/homes/cheng535/) · 组织维护
+⭐ 54 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/Megum1/CO-SPY) · [官网](https://www.cs.purdue.edu/homes/cheng535/) · 组织维护
 
 **CVPR'25 论文官方实现：结合语义与像素特征检测 AI 生成图像**
 

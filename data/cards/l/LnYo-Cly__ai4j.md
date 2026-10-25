@@ -1,6 +1,6 @@
 # LnYo-Cly/ai4j
 
-⭐ 436 · Java · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/LnYo-Cly/ai4j) · [官网](https://lnyo-cly.github.io/ai4j/) · 个人维护 · 中文 README
+⭐ 435 · Java · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/LnYo-Cly/ai4j) · [官网](https://lnyo-cly.github.io/ai4j/) · 个人维护 · 中文 README
 
 **面向 JDK 8+ 的 Java AI Agentic 开发套件**
 

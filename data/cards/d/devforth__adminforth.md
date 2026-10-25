@@ -1,6 +1,6 @@
 # devforth/adminforth
 
-⭐ 392 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/devforth/adminforth) · [官网](https://adminforth.dev) · 组织维护
+⭐ 392 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/devforth/adminforth) · [官网](https://adminforth.dev) · 组织维护
 
 **TypeScript/Vue 的 Agent 优先管理后台框架**
 

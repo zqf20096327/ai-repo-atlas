@@ -1,6 +1,6 @@
 # jananthan30/Resume-Builder
 
-⭐ 89 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/jananthan30/Resume-Builder) · 个人维护 · 中文 README
+⭐ 91 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/jananthan30/Resume-Builder) · 个人维护 · 中文 README
 
 **面向求职者的简历/求职信生成工具：拒绝编造经历**
 

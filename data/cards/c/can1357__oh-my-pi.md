@@ -1,6 +1,6 @@
 # can1357/oh-my-pi
 
-⭐ 36,450 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/can1357/oh-my-pi) · [官网](https://omp.sh) · 组织维护
+⭐ 36,565 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/can1357/oh-my-pi) · [官网](https://omp.sh) · 组织维护
 
 **面向开发者的 IDE 级编码 agent CLI，60+ 模型接入**
 

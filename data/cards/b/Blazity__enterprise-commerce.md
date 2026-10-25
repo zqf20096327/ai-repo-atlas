@@ -1,6 +1,6 @@
 # Blazity/enterprise-commerce
 
-⭐ 706 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Blazity/enterprise-commerce) · [官网](https://next-enterprise-commerce.vercel.app) · 组织维护
+⭐ 705 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Blazity/enterprise-commerce) · [官网](https://next-enterprise-commerce.vercel.app) · 组织维护
 
 **面向企业的 Next.js 电商店面模板：Shopify 后端 + Algolia 中间层**
 

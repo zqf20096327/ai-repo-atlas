@@ -1,6 +1,6 @@
 # boxabirds/awesome-local-ai
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/boxabirds/awesome-local-ai) · [官网](https://ailocal.substack.com) · 个人维护
+⭐ 60 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/boxabirds/awesome-local-ai) · [官网](https://ailocal.substack.com) · 个人维护
 
 **本地 AI 一键安装器集合：按硬件匹配模型+推理栈组合**
 

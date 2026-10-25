@@ -1,6 +1,6 @@
 # sophgo/LLM-TPU
 
-⭐ 318 · C++ · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/sophgo/LLM-TPU) · 组织维护 · 中文 README
+⭐ 319 · C++ · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/sophgo/LLM-TPU) · 组织维护 · 中文 README
 
 **在 SOPHGO TPU 芯片上一键部署主流 LLM/VLM 的开源工程**
 

@@ -1,6 +1,6 @@
 # hkcanan/katmer-code
 
-⭐ 476 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/hkcanan/katmer-code) · 个人维护
+⭐ 475 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/hkcanan/katmer-code) · 个人维护
 
 **Obsidian 多供应商 AI 侧边栏插件：四家 AI 助手同栏对话与学术研究技能**
 

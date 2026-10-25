@@ -1,6 +1,6 @@
 # context-hub/generator
 
-⭐ 342 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/context-hub/generator) · [官网](https://docs.ctxllm.com) · 组织维护
+⭐ 341 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/context-hub/generator) · [官网](https://docs.ctxllm.com) · 组织维护
 
 **给 AI 编程助手的 MCP 工具：让 AI 直接读写代码库**
 

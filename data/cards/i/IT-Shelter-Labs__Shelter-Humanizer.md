@@ -1,6 +1,6 @@
 # IT-Shelter-Labs/Shelter-Humanizer
 
-⭐ 57 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IT-Shelter-Labs/Shelter-Humanizer) · [官网](https://t.me/+ihTcvubt-_BhZTQ6) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IT-Shelter-Labs/Shelter-Humanizer) · [官网](https://t.me/+ihTcvubt-_BhZTQ6) · 组织维护
 
 **面向俄语文本改写的 Windows 桌面编辑器，支持本地 LLM**
 

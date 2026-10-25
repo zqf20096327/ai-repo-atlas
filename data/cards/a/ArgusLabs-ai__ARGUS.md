@@ -1,6 +1,6 @@
 # ArgusLabs-ai/ARGUS
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/ArgusLabs-ai/ARGUS) · [官网](https://www.arguslabs.in/) · 组织维护
+⭐ 35 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/ArgusLabs-ai/ARGUS) · [官网](https://www.arguslabs.in/) · 组织维护
 
 **LangGraph 管道静默失败检测工具：定位问题真正发生的节点**
 

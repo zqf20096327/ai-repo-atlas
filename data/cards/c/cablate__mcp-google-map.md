@@ -1,6 +1,6 @@
 # cablate/mcp-google-map
 
-⭐ 479 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cablate/mcp-google-map) · [官网](https://www.npmjs.com/package/@cablate/mcp-google-map) · 个人维护 · 中文 README
+⭐ 483 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cablate/mcp-google-map) · [官网](https://www.npmjs.com/package/@cablate/mcp-google-map) · 个人维护 · 中文 README
 
 **面向 AI agent 的 Google Maps 工具集：18 个只读工具+3 个技能**
 

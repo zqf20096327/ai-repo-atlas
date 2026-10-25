@@ -1,6 +1,6 @@
 # simoncorry/foundry
 
-⭐ 41 · JavaScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/simoncorry/foundry) · [官网](https://simoncorry.com/blog/2026/07/15/design-process-meet-agent-process) · 个人维护
+⭐ 44 · JavaScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/simoncorry/foundry) · [官网](https://simoncorry.com/blog/2026/07/15/design-process-meet-agent-process) · 个人维护
 
 **在现有编码 Agent 工具内运行的软件开发流程命令集**
 

@@ -1,6 +1,6 @@
 # yashab-cyber/hackbot
 
-⭐ 60 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/yashab-cyber/hackbot) · [官网](https://hackbot.co.in) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/yashab-cyber/hackbot) · [官网](https://hackbot.co.in) · 个人维护
 
 **AI 渗透测试助手：Agent/聊天/规划三模式驱动安全测试**
 

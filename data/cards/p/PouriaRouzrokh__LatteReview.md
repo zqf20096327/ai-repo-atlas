@@ -1,6 +1,6 @@
 # PouriaRouzrokh/LatteReview
 
-⭐ 124 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/PouriaRouzrokh/LatteReview) · [官网](https://pouriarouzrokh.github.io/LatteReview) · 个人维护
+⭐ 125 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/PouriaRouzrokh/LatteReview) · [官网](https://pouriarouzrokh.github.io/LatteReview) · 个人维护
 
 **用多 AI agent 自动化系统性文献综述的 Python 库**
 

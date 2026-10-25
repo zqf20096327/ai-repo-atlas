@@ -1,6 +1,6 @@
 # deskmind-ai/deskmind
 
-⭐ 120 · Swift · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/deskmind-ai/deskmind) · [官网](https://deskmind.dev) · 组织维护 · 中文 README
+⭐ 121 · Swift · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/deskmind-ai/deskmind) · [官网](https://deskmind.dev) · 组织维护 · 中文 README
 
 **macOS 本地计算机使用 agent：读屏、决策、操作**
 

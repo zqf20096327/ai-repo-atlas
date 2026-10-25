@@ -1,6 +1,6 @@
 # ChinaYiqun/java-rag
 
-⭐ 161 · Java · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/ChinaYiqun/java-rag) · 个人维护 · 中文 README
+⭐ 162 · Java · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/ChinaYiqun/java-rag) · 个人维护 · 中文 README
 
 **纯 Java 实现的 RAG 工具包与可视化 Playground**
 

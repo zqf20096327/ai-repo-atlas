@@ -1,6 +1,6 @@
 # Vinix24/vnx-orchestration
 
-⭐ 62 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Vinix24/vnx-orchestration) · [官网](https://vincentvandeth.nl/blog/glass-box-governance-multi-agent-ai) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Vinix24/vnx-orchestration) · [官网](https://vincentvandeth.nl/blog/glass-box-governance-multi-agent-ai) · 个人维护
 
 **面向治理的 AI 编码 CLI 编排运行时：并行 worker、审计回执、质量门**
 

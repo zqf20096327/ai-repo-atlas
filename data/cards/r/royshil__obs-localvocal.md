@@ -1,6 +1,6 @@
 # royshil/obs-localvocal
 
-⭐ 1,647 · C++ · GPL-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/royshil/obs-localvocal) · [官网](https://obsproject.com/forum/resources/localvocal-live-stream-ai-assistant.1769/) · 个人维护
+⭐ 1,648 · C++ · GPL-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/royshil/obs-localvocal) · [官网](https://obsproject.com/forum/resources/localvocal-live-stream-ai-assistant.1769/) · 个人维护
 
 **OBS 本地语音转写与实时字幕/翻译插件**
 

@@ -1,6 +1,6 @@
 # monarch-initiative/ontogpt
 
-⭐ 1,071 · Jupyter Notebook · BSD-3-Clause · 推送 2026-09-10 · [GitHub](https://github.com/monarch-initiative/ontogpt) · [官网](https://monarch-initiative.github.io/ontogpt/) · 组织维护
+⭐ 1,072 · Jupyter Notebook · BSD-3-Clause · 推送 2026-09-10 · [GitHub](https://github.com/monarch-initiative/ontogpt) · [官网](https://monarch-initiative.github.io/ontogpt/) · 组织维护
 
 **用 LLM 与本体从文本抽取结构化信息的 Python 工具（SPIRES）**
 

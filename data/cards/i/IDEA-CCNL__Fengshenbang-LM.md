@@ -1,6 +1,6 @@
 # IDEA-CCNL/Fengshenbang-LM
 
-⭐ 4,120 · Python · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/IDEA-CCNL/Fengshenbang-LM) · 组织维护 · 中文 README
+⭐ 4,119 · Python · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/IDEA-CCNL/Fengshenbang-LM) · 组织维护 · 中文 README
 
 **中文大模型开源体系：预训练模型系列与训练微调框架**
 

@@ -1,6 +1,6 @@
 # techiescamp/mlops-for-devops
 
-⭐ 548 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/techiescamp/mlops-for-devops) · [官网](https://devopscube.com/devops-to-mlops/) · 组织维护
+⭐ 549 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/techiescamp/mlops-for-devops) · [官网](https://devopscube.com/devops-to-mlops/) · 组织维护
 
 **面向 DevOps 工程师的 MLOps 实操教程仓库**
 

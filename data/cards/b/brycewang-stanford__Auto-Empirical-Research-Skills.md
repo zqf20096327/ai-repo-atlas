@@ -1,6 +1,6 @@
 # brycewang-stanford/Auto-Empirical-Research-Skills
 
-⭐ 4,757 · Stata · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) · [官网](https://copaper.ai) · 组织维护 · 中文 README
+⭐ 4,775 · Stata · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) · [官网](https://copaper.ai) · 组织维护 · 中文 README
 
 **社科实证研究 Agent 技能策展库：77 合集 1,107 个 skill**
 

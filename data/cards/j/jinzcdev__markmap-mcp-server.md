@@ -1,6 +1,6 @@
 # jinzcdev/markmap-mcp-server
 
-⭐ 289 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/jinzcdev/markmap-mcp-server) · [官网](https://www.npmjs.com/package/@jinzcdev/markmap-mcp-server) · 个人维护 · 中文 README
+⭐ 290 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/jinzcdev/markmap-mcp-server) · [官网](https://www.npmjs.com/package/@jinzcdev/markmap-mcp-server) · 个人维护 · 中文 README
 
 **MCP 服务器：把 Markdown 转成可交互思维导图并导出图片**
 

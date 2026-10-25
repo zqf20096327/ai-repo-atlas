@@ -1,6 +1,6 @@
 # ltmoerdani/opencode-copilot-chat
 
-⭐ 211 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ltmoerdani/opencode-copilot-chat) · [官网](https://opencode.ai) · 个人维护
+⭐ 210 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ltmoerdani/opencode-copilot-chat) · [官网](https://opencode.ai) · 个人维护
 
 **在 GitHub Copilot Chat 中接入 30+ AI 模型的 VS Code 扩展**
 

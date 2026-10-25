@@ -1,6 +1,6 @@
 # rabuckley/GeminiDotnet
 
-⭐ 39 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/rabuckley/GeminiDotnet) · 个人维护
+⭐ 39 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rabuckley/GeminiDotnet) · 个人维护
 
 **C#/.NET 调用 Google Gemini API 的轻量客户端库**
 

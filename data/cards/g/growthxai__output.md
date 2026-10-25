@@ -1,6 +1,6 @@
 # growthxai/output
 
-⭐ 443 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/growthxai/output) · [官网](https://output.ai) · 组织维护
+⭐ 445 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/growthxai/output) · [官网](https://output.ai) · 组织维护
 
 **TypeScript AI 工作流与 Agent 开发框架，面向 Claude Code 协作**
 

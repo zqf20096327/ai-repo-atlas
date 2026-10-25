@@ -1,6 +1,6 @@
 # arumwu/design-md-skill
 
-⭐ 45 · MIT · 推送 2026-07-12 · [GitHub](https://github.com/arumwu/design-md-skill) · 个人维护 · 中文 README
+⭐ 46 · MIT · 推送 2026-07-12 · [GitHub](https://github.com/arumwu/design-md-skill) · 个人维护 · 中文 README
 
 **Claude/agent 技能：把 74 个品牌设计系统变成可挑选的参考索引**
 

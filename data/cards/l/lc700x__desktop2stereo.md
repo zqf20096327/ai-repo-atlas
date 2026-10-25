@@ -1,6 +1,6 @@
 # lc700x/desktop2stereo
 
-⭐ 167 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lc700x/desktop2stereo) · 个人维护 · 中文 README
+⭐ 169 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lc700x/desktop2stereo) · 个人维护 · 中文 README
 
 **实时把 2D 桌面画面转为 3D 立体显示的 AI 深度应用**
 

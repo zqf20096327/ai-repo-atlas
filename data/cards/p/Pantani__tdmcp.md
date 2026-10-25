@@ -1,6 +1,6 @@
 # Pantani/tdmcp
 
-⭐ 54 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Pantani/tdmcp) · [官网](https://pantani.github.io/tdmcp/) · 个人维护
+⭐ 55 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Pantani/tdmcp) · [官网](https://pantani.github.io/tdmcp/) · 个人维护
 
 **TouchDesigner 的 MCP server：用自然语言让 AI 搭建可运行的节点网络**
 

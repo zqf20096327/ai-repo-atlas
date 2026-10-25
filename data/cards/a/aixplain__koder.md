@@ -1,6 +1,6 @@
 # aixplain/koder
 
-⭐ 34 · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/aixplain/koder) · [官网](https://koder.aixplain.com) · 组织维护
+⭐ 34 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/aixplain/koder) · [官网](https://koder.aixplain.com) · 组织维护
 
 **桌面与终端 AI 编程代理，带权限检查与可审查改动**
 

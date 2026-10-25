@@ -1,6 +1,6 @@
 # AgentsKit-io/agentskit
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AgentsKit-io/agentskit) · [官网](https://www.agentskit.io/) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AgentsKit-io/agentskit) · [官网](https://www.agentskit.io/) · 个人维护
 
 **给 JS 开发者的 AI agent 构建工具包：24 个可组合包，从聊天 UI 到自主 agent**
 

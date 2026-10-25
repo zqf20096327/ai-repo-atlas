@@ -1,6 +1,6 @@
 # RikyZ90/ShibaClaw
 
-⭐ 84 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/RikyZ90/ShibaClaw) · [官网](https://rikyz90.github.io/ShibaClaw/) · 个人维护 · 中文 README
+⭐ 84 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/RikyZ90/ShibaClaw) · [官网](https://rikyz90.github.io/ShibaClaw/) · 个人维护 · 中文 README
 
 **自托管安全优先的 AI agent：自带 WebUI 与 28 个模型接入**
 

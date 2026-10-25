@@ -1,6 +1,6 @@
 # antgroup/Agentar-Scale-SQL
 
-⭐ 479 · Python · Apache-2.0 · 推送 2026-05-09 · [GitHub](https://github.com/antgroup/Agentar-Scale-SQL) · 组织维护 · 中文 README
+⭐ 480 · Python · Apache-2.0 · 推送 2026-05-09 · [GitHub](https://github.com/antgroup/Agentar-Scale-SQL) · 组织维护 · 中文 README
 
 **蚂蚁集团的 Text-to-SQL 测试时扩展框架，在 BIRD 榜单达 81.67%**
 

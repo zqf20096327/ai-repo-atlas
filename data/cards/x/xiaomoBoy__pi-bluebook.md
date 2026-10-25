@@ -1,6 +1,6 @@
 # xiaomoBoy/pi-bluebook
 
-⭐ 326 · Markdown · MIT · 推送 2026-10-11 · [GitHub](https://github.com/xiaomoBoy/pi-bluebook) · [官网](https://pi.xiaomovps.com) · 个人维护 · 中文 README
+⭐ 327 · Markdown · MIT · 推送 2026-10-11 · [GitHub](https://github.com/xiaomoBoy/pi-bluebook) · [官网](https://pi.xiaomovps.com) · 个人维护 · 中文 README
 
 **Pi Coding Agent 中文学习手册：从安装到长期工作流**
 

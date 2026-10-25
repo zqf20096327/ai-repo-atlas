@@ -1,6 +1,6 @@
 # nubenetes/awesome-kubernetes
 
-⭐ 674 · HTML · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/nubenetes/awesome-kubernetes) · [官网](https://nubenetes.com) · 个人维护
+⭐ 674 · HTML · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/nubenetes/awesome-kubernetes) · [官网](https://nubenetes.com) · 个人维护
 
 **Kubernetes/云原生/Agentic AI 技术资源策展档案（18,600+ 链接）**
 

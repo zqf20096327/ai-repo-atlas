@@ -1,6 +1,6 @@
 # sebp/scikit-survival
 
-⭐ 1,327 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/sebp/scikit-survival) · 个人维护
+⭐ 1,327 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/sebp/scikit-survival) · 个人维护
 
 **基于 scikit-learn 的生存分析 Python 库**
 

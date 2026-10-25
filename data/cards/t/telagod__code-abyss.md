@@ -1,6 +1,6 @@
 # telagod/code-abyss
 
-⭐ 242 · JavaScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/telagod/code-abyss) · [官网](https://www.npmjs.com/package/code-abyss) · 个人维护 · 中文 README
+⭐ 244 · JavaScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/telagod/code-abyss) · [官网](https://www.npmjs.com/package/code-abyss) · 个人维护 · 中文 README
 
 **给 AI 编程 agent 安装可组合人设、工程判断内核与技能的配置框架**
 

@@ -1,6 +1,6 @@
 # JCodesMore/youtube-for-ai-agents
 
-⭐ 58 · TypeScript · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/JCodesMore/youtube-for-ai-agents) · [官网](https://dsc.gg/jcodesmore) · 个人维护
+⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/JCodesMore/youtube-for-ai-agents) · [官网](https://dsc.gg/jcodesmore) · 个人维护
 
 **让 Claude 在聊天中搜索、观看、剪辑 YouTube 视频的 Claude Code 插件**
 

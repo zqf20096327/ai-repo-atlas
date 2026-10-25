@@ -1,6 +1,6 @@
 # mahirgul/AiPBX
 
-⭐ 34 · PHP · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/mahirgul/AiPBX) · [官网](https://aipbx.bid) · 个人维护
+⭐ 34 · PHP · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/mahirgul/AiPBX) · [官网](https://aipbx.bid) · 个人维护
 
 **开源 IP PBX 管理门户：Asterisk 22 电话/聊天/传真/呼叫中心一体化**
 

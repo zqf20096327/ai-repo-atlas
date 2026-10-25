@@ -1,6 +1,6 @@
 # liyedanpdx/reddit-ai-trends
 
-⭐ 871 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/liyedanpdx/reddit-ai-trends) · 个人维护 · 中文 README
+⭐ 871 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/liyedanpdx/reddit-ai-trends) · 个人维护 · 中文 README
 
 **自动扫描 Reddit AI 社区并用 LLM 生成双语趋势日报**
 

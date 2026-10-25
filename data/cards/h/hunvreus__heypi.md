@@ -1,6 +1,6 @@
 # hunvreus/heypi
 
-⭐ 160 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/hunvreus/heypi) · [官网](https://heypi.dev) · 个人维护
+⭐ 161 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/hunvreus/heypi) · [官网](https://heypi.dev) · 个人维护
 
 **给团队把 Pi agent 接入 Slack/Discord/Telegram 的宿主框架**
 

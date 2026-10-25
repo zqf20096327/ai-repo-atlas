@@ -1,6 +1,6 @@
 # freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy
 
-⭐ 282 · PowerShell · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) · [官网](http://JAMBOREE.rmccurdy.com) · 个人维护
+⭐ 282 · PowerShell · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) · [官网](http://JAMBOREE.rmccurdy.com) · 个人维护
 
 **给渗透测试者的免管理员 Windows 便携安全工具安装器**
 

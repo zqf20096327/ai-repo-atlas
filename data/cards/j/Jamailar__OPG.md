@@ -1,6 +1,6 @@
 # Jamailar/OPG
 
-⭐ 169 · TypeScript · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/Jamailar/OPG) · [官网](https://opg.ceo/) · 个人维护 · 中文 README
+⭐ 168 · TypeScript · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/Jamailar/OPG) · [官网](https://opg.ceo/) · 个人维护 · 中文 README
 
 **面向一人公司的多 app 后端控制平面，统一 AI 网关与运营能力**
 

@@ -1,6 +1,6 @@
 # alexey-max-fedorov/gaia-ai
 
-⭐ 53 · Markdown · 推送 2026-10-22 · [GitHub](https://github.com/alexey-max-fedorov/gaia-ai) · [官网](https://gaiacode.pro) · 个人维护
+⭐ 53 · Markdown · 推送 2026-10-25 · [GitHub](https://github.com/alexey-max-fedorov/gaia-ai) · [官网](https://gaiacode.pro) · 个人维护
 
 **运行在 Perplexity Spaces 上的 Claude Code 式 agent 提示词系统**
 

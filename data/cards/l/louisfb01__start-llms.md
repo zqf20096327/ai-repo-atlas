@@ -1,6 +1,6 @@
 # louisfb01/start-llms
 
-⭐ 984 · MIT · 推送 2026-01-23 · [GitHub](https://github.com/louisfb01/start-llms) · [官网](https://www.louisbouchard.ai/from-zero-to-hero-with-llms/) · 个人维护
+⭐ 985 · MIT · 推送 2026-01-23 · [GitHub](https://github.com/louisfb01/start-llms) · [官网](https://www.louisbouchard.ai/from-zero-to-hero-with-llms/) · 个人维护
 
 **面向初学者的免费 LLM 学习路线资源清单**
 

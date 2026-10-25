@@ -1,6 +1,6 @@
 # xaboy/form-create-designer
 
-⭐ 2,372 · Vue · MIT · 推送 2026-09-16 · [GitHub](https://github.com/xaboy/form-create-designer) · [官网](https://view.form-create.com/) · 个人维护 · 中文 README
+⭐ 2,371 · Vue · MIT · 推送 2026-09-16 · [GitHub](https://github.com/xaboy/form-create-designer) · [官网](https://view.form-create.com/) · 个人维护 · 中文 README
 
 **Vue 低代码可视化表单设计器组件，含 AI 表单助理**
 

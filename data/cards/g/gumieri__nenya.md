@@ -1,6 +1,6 @@
 # gumieri/nenya
 
-⭐ 35 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/gumieri/nenya) · 个人维护
+⭐ 36 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gumieri/nenya) · 个人维护
 
 **Go 编写的零依赖 AI API 网关：密钥脱敏、多提供商路由与防注入**
 

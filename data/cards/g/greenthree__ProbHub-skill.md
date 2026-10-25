@@ -1,6 +1,6 @@
 # greenthree/ProbHub-skill
 
-⭐ 12 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/greenthree/ProbHub-skill) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/greenthree/ProbHub-skill) · 个人维护 · 中文 README
 
 **算法竞赛出题工作流：题面、数据、验证到 DOMjudge 打包一站式完成**
 

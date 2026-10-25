@@ -1,6 +1,6 @@
 # DaoSword/Time-Series-Forecasting-and-Deep-Learning
 
-⭐ 808 · Python · 推送 2026-10-19 · [GitHub](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning) · 个人维护
+⭐ 807 · Python · 推送 2026-10-19 · [GitHub](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning) · 个人维护
 
 **时间序列预测与深度学习研究论文及资源清单**
 

@@ -1,6 +1,6 @@
 # hazel-js/hazeljs
 
-⭐ 50 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/hazel-js/hazeljs) · [官网](https://hazeljs.ai) · 组织维护
+⭐ 50 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hazel-js/hazeljs) · [官网](https://hazeljs.ai) · 组织维护
 
 **TypeScript 后端中运行治理型 Agent 的 Agent OS 框架**
 

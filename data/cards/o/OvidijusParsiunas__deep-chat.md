@@ -1,6 +1,6 @@
 # OvidijusParsiunas/deep-chat
 
-⭐ 3,738 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/OvidijusParsiunas/deep-chat) · [官网](https://deepchat.dev) · 个人维护
+⭐ 3,739 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/OvidijusParsiunas/deep-chat) · [官网](https://deepchat.dev) · 个人维护
 
 **可嵌入网站的可定制 AI 聊天组件，一行代码接入**
 

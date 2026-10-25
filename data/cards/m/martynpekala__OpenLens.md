@@ -1,6 +1,6 @@
 # martynpekala/OpenLens
 
-⭐ 81 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/martynpekala/OpenLens) · [官网](https://tryopenlens.site) · 个人维护
+⭐ 83 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/martynpekala/OpenLens) · [官网](https://tryopenlens.site) · 个人维护
 
 **在 iPhone/iPad 上连接 OpenCode 服务器的 iOS 客户端应用**
 

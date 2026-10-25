@@ -1,6 +1,6 @@
 # mlcommons/inference
 
-⭐ 1,652 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/mlcommons/inference) · [官网](https://mlcommons.org/en/groups/inference) · 组织维护
+⭐ 1,653 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/mlcommons/inference) · [官网](https://mlcommons.org/en/groups/inference) · 组织维护
 
 **MLPerf 推理基准套件参考实现：测量系统运行模型的速度**
 

@@ -1,6 +1,6 @@
 # z91772524-ai/dsh-pojia-mode
 
-⭐ 110 · PowerShell · MIT · 推送 2026-09-25 · [GitHub](https://github.com/z91772524-ai/dsh-pojia-mode) · 个人维护 · 中文 README
+⭐ 113 · PowerShell · MIT · 推送 2026-09-25 · [GitHub](https://github.com/z91772524-ai/dsh-pojia-mode) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 一键安装「破甲模式」Agent Preset 的 PowerShell 安装器**
 

@@ -1,6 +1,6 @@
 # SimonSchubert/Kai
 
-⭐ 1,319 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/SimonSchubert/Kai) · [官网](https://kai9000.com/) · 个人维护
+⭐ 1,322 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/SimonSchubert/Kai) · [官网](https://kai9000.com/) · 个人维护
 
 **跨平台开源 AI 助手应用，带持久记忆与设备端推理**
 

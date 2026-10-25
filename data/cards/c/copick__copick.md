@@ -1,6 +1,6 @@
 # copick/copick
 
-⭐ 35 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/copick/copick) · [官网](https://copick.github.io/) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/copick/copick) · [官网](https://copick.github.io/) · 组织维护
 
 **冷冻电子断层扫描(cryoET)数据集的存储无关 Python API 库**
 

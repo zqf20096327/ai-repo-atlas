@@ -1,6 +1,6 @@
 # netease-youdao/Confucius4-TTS
 
-⭐ 847 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/netease-youdao/Confucius4-TTS) · 组织维护 · 中文 README
+⭐ 848 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/netease-youdao/Confucius4-TTS) · 组织维护 · 中文 README
 
 **多语言跨语言零样本语音克隆 TTS 引擎**
 

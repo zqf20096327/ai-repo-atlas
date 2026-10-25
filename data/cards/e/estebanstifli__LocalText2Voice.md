@@ -1,6 +1,6 @@
 # estebanstifli/LocalText2Voice
 
-⭐ 398 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/estebanstifli/LocalText2Voice) · [官网](https://andromedanova.com/localtext2voice.html) · 个人维护
+⭐ 399 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/estebanstifli/LocalText2Voice) · [官网](https://andromedanova.com/localtext2voice.html) · 个人维护
 
 **桌面应用：把文本制作为有声书、播客与视频，支持本地离线运行**
 

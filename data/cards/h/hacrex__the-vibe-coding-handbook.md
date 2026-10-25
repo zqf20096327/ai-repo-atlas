@@ -1,6 +1,6 @@
 # hacrex/the-vibe-coding-handbook
 
-⭐ 86 · HTML · NOASSERTION · 推送 2026-07-26 · [GitHub](https://github.com/hacrex/the-vibe-coding-handbook) · [官网](https://vibingcode.vercel.app/) · 个人维护
+⭐ 87 · HTML · NOASSERTION · 推送 2026-07-26 · [GitHub](https://github.com/hacrex/the-vibe-coding-handbook) · [官网](https://vibingcode.vercel.app/) · 个人维护
 
 **AI 辅助软件开发（Vibe Coding）从入门到部署的开源知识手册**
 

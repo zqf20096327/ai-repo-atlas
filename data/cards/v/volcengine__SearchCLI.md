@@ -1,6 +1,6 @@
 # volcengine/SearchCLI
 
-⭐ 1,189 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/volcengine/SearchCLI) · 组织维护 · 中文 README
+⭐ 1,190 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/volcengine/SearchCLI) · 组织维护 · 中文 README
 
 **接入火山引擎 AI Search 的命令行工具：搜索/推荐/对话式检索集成**
 

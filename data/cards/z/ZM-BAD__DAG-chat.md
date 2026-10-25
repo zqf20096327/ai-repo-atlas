@@ -1,6 +1,6 @@
 # ZM-BAD/DAG-chat
 
-⭐ 74 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ZM-BAD/DAG-chat) · 个人维护 · 中文 README
+⭐ 74 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ZM-BAD/DAG-chat) · 个人维护 · 中文 README
 
 **以有向无环图组织对话的网页版 LLM 聊天应用**
 

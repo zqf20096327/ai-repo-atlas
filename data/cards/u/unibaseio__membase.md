@@ -1,6 +1,6 @@
 # unibaseio/membase
 
-⭐ 80 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/unibaseio/membase) · [官网](https://membase.ai) · 组织维护
+⭐ 84 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/unibaseio/membase) · [官网](https://membase.ai) · 组织维护
 
 **AI agent 记忆层：统一记忆供多 AI 应用读写**
 
@@ -11,7 +11,7 @@ Unibase 公司开发的 AI agent 记忆基础设施：将事实、文档、网�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

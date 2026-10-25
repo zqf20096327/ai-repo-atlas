@@ -1,6 +1,6 @@
 # joenorton/comfyui-mcp-server
 
-⭐ 411 · Python · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/joenorton/comfyui-mcp-server) · 个人维护
+⭐ 410 · Python · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/joenorton/comfyui-mcp-server) · 个人维护
 
 **让 AI agent 通过 MCP 调用本地 ComfyUI 生成图像音频视频的服务器**
 

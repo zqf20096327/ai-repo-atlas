@@ -1,6 +1,6 @@
 # scverse/anndata
 
-⭐ 781 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/scverse/anndata) · [官网](http://anndata.scverse.org) · 组织维护
+⭐ 782 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/scverse/anndata) · [官网](http://anndata.scverse.org) · 组织维护
 
 **处理带标注数据矩阵的 Python 包，面向单细胞组学分析**
 

@@ -1,6 +1,6 @@
 # SailingLoong/LoongPort
 
-⭐ 139 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SailingLoong/LoongPort) · [官网](https://loongport.dev) · 个人维护 · 中文 README
+⭐ 138 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/SailingLoong/LoongPort) · [官网](https://loongport.dev) · 个人维护 · 中文 README
 
 **中转站专用的 AI CLI 配置客户端：填域名登录即用 Codex/Claude Code**
 

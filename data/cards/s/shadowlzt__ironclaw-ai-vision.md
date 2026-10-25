@@ -1,6 +1,6 @@
 # shadowlzt/ironclaw-ai-vision
 
-⭐ 117 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/shadowlzt/ironclaw-ai-vision) · 个人维护
+⭐ 117 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/shadowlzt/ironclaw-ai-vision) · 个人维护
 
 **离线优先的认知训练 PWA：导入内容并用 AI 生成对抗式思维训练**
 

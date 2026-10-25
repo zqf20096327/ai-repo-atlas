@@ -1,6 +1,6 @@
 # KKingZero/Zypheron-CLI
 
-⭐ 176 · Python · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/KKingZero/Zypheron-CLI) · [官网](https://zypheron.net/cli) · 个人维护
+⭐ 176 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/KKingZero/Zypheron-CLI) · [官网](https://zypheron.net/cli) · 个人维护
 
 **面向授权测试的本地优先安全 CLI，集成 AI 辅助侦察与扫描**
 

@@ -1,6 +1,6 @@
 # getzep/zep
 
-⭐ 4,969 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/getzep/zep) · [官网](https://help.getzep.com) · 组织维护
+⭐ 4,971 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/getzep/zep) · [官网](https://help.getzep.com) · 组织维护
 
 **Zep Cloud（托管 agent 记忆平台）的示例与框架集成代码库**
 

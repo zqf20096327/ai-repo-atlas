@@ -1,6 +1,6 @@
 # IchimaruGin728/Gins-Blog
 
-⭐ 40 · Astro · MIT · 推送 2026-05-17 · [GitHub](https://github.com/IchimaruGin728/Gins-Blog) · [官网](https://blog.ichimarugin728.com) · 个人维护 · 中文 README
+⭐ 41 · Astro · MIT · 推送 2026-05-17 · [GitHub](https://github.com/IchimaruGin728/Gins-Blog) · [官网](https://blog.ichimarugin728.com) · 个人维护 · 中文 README
 
 **部署在 Cloudflare 边缘的博客平台，含 AI 语义搜索与 MCP 接口**
 

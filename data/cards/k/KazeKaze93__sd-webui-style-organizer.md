@@ -1,6 +1,6 @@
 # KazeKaze93/sd-webui-style-organizer
 
-⭐ 40 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/KazeKaze93/sd-webui-style-organizer) · 个人维护
+⭐ 40 · JavaScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/KazeKaze93/sd-webui-style-organizer) · 个人维护
 
 **Stable Diffusion WebUI 的可视化样式选择器扩展**
 

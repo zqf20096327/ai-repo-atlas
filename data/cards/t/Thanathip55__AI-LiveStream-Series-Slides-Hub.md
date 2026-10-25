@@ -1,6 +1,6 @@
 # Thanathip55/AI-LiveStream-Series-Slides-Hub
 
-⭐ 56 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/Thanathip55/AI-LiveStream-Series-Slides-Hub) · 组织维护
+⭐ 56 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/Thanathip55/AI-LiveStream-Series-Slides-Hub) · 组织维护
 
 **Microsoft AI LiveStream 系列课程的社区伴学资源库（幻灯片/转录/实验）**
 

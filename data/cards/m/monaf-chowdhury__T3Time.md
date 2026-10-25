@@ -1,6 +1,6 @@
 # monaf-chowdhury/T3Time
 
-⭐ 65 · Python · MIT · 推送 2025-12-06 · [GitHub](https://github.com/monaf-chowdhury/T3Time) · [官网](https://arxiv.org/abs/2508.04251) · 组织维护
+⭐ 66 · Python · MIT · 推送 2025-12-06 · [GitHub](https://github.com/monaf-chowdhury/T3Time) · [官网](https://arxiv.org/abs/2508.04251) · 组织维护
 
 **AAAI'26 论文实现：三模态多变量时间序列预测框架**
 

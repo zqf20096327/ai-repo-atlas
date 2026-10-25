@@ -1,6 +1,6 @@
 # qorm/platform
 
-⭐ 39 · Go · MIT · 推送 2026-08-21 · [GitHub](https://github.com/qorm/platform) · [官网](https://qorm.com) · 组织维护 · 中文 README
+⭐ 38 · Go · MIT · 推送 2026-08-21 · [GitHub](https://github.com/qorm/platform) · [官网](https://qorm.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的声明式 JSON UI 跨平台应用运行时**
 

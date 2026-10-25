@@ -1,6 +1,6 @@
 # epoko77-ai/im-not-ai
 
-⭐ 6,216 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/epoko77-ai/im-not-ai) · [官网](https://imnotai.kr) · 组织维护
+⭐ 6,245 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/epoko77-ai/im-not-ai) · [官网](https://imnotai.kr) · 组织维护
 
 **将 AI 生成的韩文改写为自然韩文的 Claude/CLI 技能**
 

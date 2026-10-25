@@ -1,6 +1,6 @@
 # castacks/AirStack
 
-⭐ 94 · C++ · BSD-3-Clause-Clear · 推送 2026-10-24 · [GitHub](https://github.com/castacks/AirStack) · [官网](http://docs.theairlab.org/) · 组织维护
+⭐ 94 · C++ · BSD-3-Clause-Clear · 推送 2026-10-25 · [GitHub](https://github.com/castacks/AirStack) · [官网](http://docs.theairlab.org/) · 组织维护
 
 **面向无人机自主飞行的 ROS 2 开源栈，sim-to-real 一体部署**
 

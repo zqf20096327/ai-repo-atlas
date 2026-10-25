@@ -1,6 +1,6 @@
 # leonardomso/rust-skills
 
-⭐ 628 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/leonardomso/rust-skills) · 个人维护
+⭐ 632 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/leonardomso/rust-skills) · 个人维护
 
 **给 AI 编码 agent 用的 265 条 Rust 规范规则集（26 类）**
 

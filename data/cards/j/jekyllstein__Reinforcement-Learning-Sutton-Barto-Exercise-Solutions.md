@@ -1,6 +1,6 @@
 # jekyllstein/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions
 
-⭐ 69 · Julia · Unlicense · 推送 2026-10-02 · [GitHub](https://github.com/jekyllstein/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions) · [官网](https://jekyllstein.github.io/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions/) · 个人维护
+⭐ 70 · Julia · Unlicense · 推送 2026-10-02 · [GitHub](https://github.com/jekyllstein/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions) · [官网](https://jekyllstein.github.io/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions/) · 个人维护
 
 **Sutton & Barto《强化学习导论》第二版的章节笔记与习题解答集**
 

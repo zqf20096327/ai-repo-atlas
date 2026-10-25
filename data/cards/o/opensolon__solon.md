@@ -1,6 +1,6 @@
 # opensolon/solon
 
-⭐ 2,795 · Java · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/opensolon/solon) · [官网](https://solon.noear.org) · 组织维护 · 中文 README
+⭐ 2,796 · Java · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/opensolon/solon) · [官网](https://solon.noear.org) · 组织维护 · 中文 README
 
 **Java 企业应用开发框架，含 AI 与 MCP 相关子生态**
 

@@ -1,6 +1,6 @@
 # langchain-ai/langchain-litellm
 
-⭐ 60 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langchain-litellm) · [官网](https://docs.langchain.com/oss/python/integrations/providers/litellm) · 组织维护
+⭐ 60 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-litellm) · [官网](https://docs.langchain.com/oss/python/integrations/providers/litellm) · 组织维护
 
 **LangChain 与 LiteLLM 的模型调用集成包**
 

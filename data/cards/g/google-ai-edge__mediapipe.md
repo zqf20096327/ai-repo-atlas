@@ -1,6 +1,6 @@
 # google-ai-edge/mediapipe
 
-⭐ 37,390 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google-ai-edge/mediapipe) · [官网](https://ai.google.dev/edge/mediapipe) · 组织维护
+⭐ 37,399 · C++ · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/google-ai-edge/mediapipe) · [官网](https://ai.google.dev/edge/mediapipe) · 组织维护
 
 **面向开发者的跨端设备机器学习方案库**
 

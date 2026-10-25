@@ -1,6 +1,6 @@
 # LiteSuggarDEV/nonebot_plugin_suggarchat
 
-⭐ 44 · Python · GPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/LiteSuggarDEV/nonebot_plugin_suggarchat) · 组织维护 · 中文 README
+⭐ 43 · Python · GPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/LiteSuggarDEV/nonebot_plugin_suggarchat) · 组织维护 · 中文 README
 
 **NoneBot2 平台的 QQ 聊天智能体插件**
 

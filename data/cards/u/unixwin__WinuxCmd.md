@@ -1,6 +1,6 @@
 # unixwin/WinuxCmd
 
-⭐ 275 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/unixwin/WinuxCmd) · [官网](https://dl.caomengxuan666.com/) · 个人维护 · 中文 README
+⭐ 274 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/unixwin/WinuxCmd) · [官网](https://unixwin.dev/products/winuxcmd/) · 个人维护 · 中文 README
 
 **Windows 原生 Unix 命令行工具集：单个 3MB 二进制提供 176 个 GNU 命令**
 

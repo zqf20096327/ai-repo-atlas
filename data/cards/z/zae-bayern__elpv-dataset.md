@@ -1,6 +1,6 @@
 # zae-bayern/elpv-dataset
 
-⭐ 312 · Python · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/zae-bayern/elpv-dataset) · 组织维护
+⭐ 313 · Python · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/zae-bayern/elpv-dataset) · 组织维护
 
 **太阳能电池 EL 图像缺陷基准数据集（2,624 张带标注）**
 

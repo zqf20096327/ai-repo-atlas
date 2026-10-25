@@ -1,6 +1,6 @@
 # lyogavin/airllm
 
-⭐ 40,542 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护
+⭐ 40,650 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护
 
 **让单张 4GB 显卡运行超大 LLM 的推理库**
 

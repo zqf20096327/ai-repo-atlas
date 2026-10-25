@@ -1,6 +1,6 @@
 # ythx-101/x-tweet-fetcher
 
-⭐ 992 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ythx-101/x-tweet-fetcher) · [官网](https://github.com/ythx-101/openclaw-qa) · 个人维护 · 中文 README
+⭐ 993 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ythx-101/x-tweet-fetcher) · [官网](https://github.com/ythx-101/openclaw-qa) · 个人维护 · 中文 README
 
 **给 AI agent 用的 X/Twitter 内容抓取工具，免登录免 API key**
 

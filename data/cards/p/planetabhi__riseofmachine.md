@@ -1,6 +1,6 @@
 # planetabhi/riseofmachine
 
-⭐ 114 · Astro · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/planetabhi/riseofmachine) · [官网](https://riseofmachine.com) · 个人维护
+⭐ 114 · Astro · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/planetabhi/riseofmachine) · [官网](https://riseofmachine.com) · 个人维护
 
 **AI agent 策展的工具目录站：面向开发者与中小企业**
 

@@ -1,6 +1,6 @@
 # datawhalechina/key-book
 
-⭐ 1,734 · Jupyter Notebook · NOASSERTION · 推送 2026-09-09 · [GitHub](https://github.com/datawhalechina/key-book) · [官网](https://datawhalechina.github.io/key-book/) · 组织维护 · 中文 README
+⭐ 1,736 · Jupyter Notebook · NOASSERTION · 推送 2026-09-09 · [GitHub](https://github.com/datawhalechina/key-book) · [官网](https://datawhalechina.github.io/key-book/) · 组织维护 · 中文 README
 
 **《机器学习理论导引》伴读笔记：概念、证明与案例补充**
 

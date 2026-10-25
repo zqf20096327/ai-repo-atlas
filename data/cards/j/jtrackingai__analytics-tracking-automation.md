@@ -1,6 +1,6 @@
 # jtrackingai/analytics-tracking-automation
 
-⭐ 144 · TypeScript · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/jtrackingai/analytics-tracking-automation) · [官网](https://www.jtracking.ai/skills) · 组织维护
+⭐ 145 · TypeScript · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/jtrackingai/analytics-tracking-automation) · [官网](https://www.jtracking.ai/skills) · 组织维护
 
 **让 AI agent 规划并交付 GA4+GTM 埋点方案的技能包**
 

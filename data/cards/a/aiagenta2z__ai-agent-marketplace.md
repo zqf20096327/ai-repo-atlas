@@ -1,6 +1,6 @@
 # aiagenta2z/ai-agent-marketplace
 
-⭐ 58 · Python · 推送 2026-10-21 · [GitHub](https://github.com/aiagenta2z/ai-agent-marketplace) · [官网](https://www.deepnlp.org/store/ai-agent) · 组织维护 · 中文 README
+⭐ 58 · Python · 推送 2026-10-25 · [GitHub](https://github.com/aiagenta2z/ai-agent-marketplace) · [官网](https://www.deepnlp.org/store/ai-agent) · 组织维护 · 中文 README
 
 **面向开发者的 AI Agent 目录与注册平台：收录、部署与变现**
 

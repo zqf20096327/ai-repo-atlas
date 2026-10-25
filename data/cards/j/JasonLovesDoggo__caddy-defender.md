@@ -1,6 +1,6 @@
 # JasonLovesDoggo/caddy-defender
 
-⭐ 586 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/JasonLovesDoggo/caddy-defender) · [官网](http://defender.jsn.cam/) · 个人维护
+⭐ 586 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/JasonLovesDoggo/caddy-defender) · [官网](http://defender.jsn.cam/) · 个人维护
 
 **Caddy 中间件：按 IP 段拦截或污染 AI 爬虫请求**
 

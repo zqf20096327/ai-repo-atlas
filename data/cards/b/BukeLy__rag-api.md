@@ -1,6 +1,6 @@
 # BukeLy/rag-api
 
-⭐ 65 · Python · 推送 2025-12-15 · [GitHub](https://github.com/BukeLy/rag-api) · 个人维护 · 中文 README
+⭐ 66 · Python · 推送 2025-12-15 · [GitHub](https://github.com/BukeLy/rag-api) · 个人维护 · 中文 README
 
 **多租户多模态文档 RAG 服务，自动选择文档解析引擎**
 

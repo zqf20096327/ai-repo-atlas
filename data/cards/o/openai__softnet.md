@@ -1,6 +1,6 @@
 # openai/softnet
 
-⭐ 97 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/openai/softnet) · 组织维护
+⭐ 98 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/openai/softnet) · 组织维护
 
 **macOS 虚拟机网络隔离与 DHCP 缓解工具（Tart 配套）**
 

@@ -1,6 +1,6 @@
 # LucivHuang/heimdallr-sdk
 
-⭐ 685 · TypeScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/LucivHuang/heimdallr-sdk) · [官网](https://lucivhuang.github.io/heimdallr-sdk/) · 个人维护 · 中文 README
+⭐ 686 · TypeScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/LucivHuang/heimdallr-sdk) · [官网](https://lucivhuang.github.io/heimdallr-sdk/) · 个人维护 · 中文 README
 
 **插件化的前端埋点监控 SDK（错误/性能/行为采集）**
 

@@ -1,6 +1,6 @@
 # chmouel/liseur
 
-⭐ 147 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/chmouel/liseur) · [官网](https://f-droid.org/en/packages/com.chmouel.liseur/) · 个人维护
+⭐ 153 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/chmouel/liseur) · [官网](https://f-droid.org/en/packages/com.chmouel.liseur/) · 个人维护
 
 **Android 开源 EPUB 阅读器，支持远程书库与 AI 阅读伴侣**
 

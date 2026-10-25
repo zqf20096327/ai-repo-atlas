@@ -1,6 +1,6 @@
 # gojargo/jargo
 
-⭐ 103 · Go · BSD-2-Clause · 推送 2026-10-22 · [GitHub](https://github.com/gojargo/jargo) · 组织维护
+⭐ 104 · Go · BSD-2-Clause · 推送 2026-10-22 · [GitHub](https://github.com/gojargo/jargo) · 组织维护
 
 **Go 语言的 WebRTC 实时语音 Agent 框架**
 

@@ -1,6 +1,6 @@
 # liquidos-ai/AutoAgents
 
-⭐ 765 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/liquidos-ai/AutoAgents) · [官网](https://liquidos-ai.github.io/AutoAgents/) · 组织维护
+⭐ 766 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/liquidos-ai/AutoAgents) · [官网](https://liquidos-ai.github.io/AutoAgents/) · 组织维护
 
 **Rust 多智能体框架：构建、编排与运行多个 AI agent**
 

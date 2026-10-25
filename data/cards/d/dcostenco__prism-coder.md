@@ -1,6 +1,6 @@
 # dcostenco/prism-coder
 
-⭐ 156 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/dcostenco/prism-coder) · [官网](https://synalux.ai/prism-mcp) · 个人维护
+⭐ 156 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/dcostenco/prism-coder) · [官网](https://synalux.ai/prism-mcp) · 个人维护
 
 **给 AI 编程 agent 提供本地优先的持久会话记忆 MCP 服务器**
 

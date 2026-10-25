@@ -1,6 +1,6 @@
 # mito-ds/mito
 
-⭐ 2,652 · Jupyter Notebook · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/mito-ds/mito) · [官网](https://trymito.io) · 组织维护
+⭐ 2,651 · Jupyter Notebook · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/mito-ds/mito) · [官网](https://trymito.io) · 组织维护
 
 **Jupyter 扩展套件：AI 聊天补全 + 生成代码的电子表格**
 

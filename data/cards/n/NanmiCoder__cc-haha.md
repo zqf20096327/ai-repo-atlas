@@ -1,6 +1,6 @@
 # NanmiCoder/cc-haha
 
-⭐ 15,150 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/NanmiCoder/cc-haha) · [官网](https://cchaha.ai) · 个人维护 · 中文 README
+⭐ 15,164 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/NanmiCoder/cc-haha) · [官网](https://cchaha.ai) · 个人维护 · 中文 README
 
 **给 Claude Code 用户的跨平台桌面工作台：多 Agent 协作与可视化管理**
 

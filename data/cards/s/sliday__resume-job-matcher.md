@@ -1,6 +1,6 @@
 # sliday/resume-job-matcher
 
-⭐ 273 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/sliday/resume-job-matcher) · 个人维护
+⭐ 274 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/sliday/resume-job-matcher) · 个人维护
 
 **AI 简历筛选 CLI：硬性门槛先淘汰，每项评分引用简历原文**
 

@@ -1,6 +1,6 @@
 # posecode-dev/posecode
 
-⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/posecode-dev/posecode) · [官网](https://www.posecode.org/) · 组织维护
+⭐ 125 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/posecode-dev/posecode) · [官网](https://www.posecode.org/) · 组织维护
 
 **描述人体运动的文本 DSL：解析、校验并用 Three.js 渲染 3D 动作**
 

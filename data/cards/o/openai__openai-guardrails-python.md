@@ -1,6 +1,6 @@
 # openai/openai-guardrails-python
 
-⭐ 264 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openai/openai-guardrails-python) · [官网](https://guardrails.openai.com) · 组织维护
+⭐ 265 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openai/openai-guardrails-python) · [官网](https://guardrails.openai.com) · 组织维护
 
 **给 LLM 应用加可配置安全与合规检查的 Python 护栏库**
 

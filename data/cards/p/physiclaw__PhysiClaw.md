@@ -1,6 +1,6 @@
 # physiclaw/PhysiClaw
 
-⭐ 397 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/physiclaw/PhysiClaw) · [官网](https://physiclaw.ai) · 组织维护 · 中文 README
+⭐ 398 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/physiclaw/PhysiClaw) · [官网](https://physiclaw.ai) · 组织维护 · 中文 README
 
 **用机械臂+摄像头实体操控手机的具身 AI 代理**
 

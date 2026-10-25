@@ -1,6 +1,6 @@
 # ScrapeGraphAI/toonify
 
-⭐ 364 · Python · 推送 2026-02-06 · [GitHub](https://github.com/ScrapeGraphAI/toonify) · [官网](https://docs.scrapegraphai.com/services/toonify) · 组织维护
+⭐ 366 · Python · 推送 2026-02-06 · [GitHub](https://github.com/ScrapeGraphAI/toonify) · [官网](https://docs.scrapegraphai.com/services/toonify) · 组织维护
 
 **面向 LLM 的紧凑序列化格式，降低 token 用量**
 

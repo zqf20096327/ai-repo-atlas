@@ -1,6 +1,6 @@
 # kstenerud/yoloai
 
-⭐ 220 · Go · MIT · 推送 2026-10-12 · [GitHub](https://github.com/kstenerud/yoloai) · [官网](https://yoloai.dev) · 个人维护
+⭐ 221 · Go · MIT · 推送 2026-10-12 · [GitHub](https://github.com/kstenerud/yoloai) · [官网](https://yoloai.dev) · 个人维护
 
 **AI 编程 agent 的沙箱运行器：隔离文件/凭据/网络**
 

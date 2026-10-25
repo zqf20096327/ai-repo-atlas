@@ -1,6 +1,6 @@
 # huggingface/evaluate
 
-⭐ 2,493 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/evaluate) · [官网](https://huggingface.co/docs/evaluate) · 组织维护
+⭐ 2,492 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/evaluate) · [官网](https://huggingface.co/docs/evaluate) · 组织维护
 
 **机器学习模型与数据集的评测指标库**
 

@@ -1,6 +1,6 @@
 # oracle-samples/oracle-aidp-samples
 
-⭐ 56 · Python · UPL-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/oracle-samples/oracle-aidp-samples) · [官网](https://docs.oracle.com/en/cloud/paas/ai-data-platform/index.html) · 组织维护
+⭐ 56 · Python · UPL-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/oracle-samples/oracle-aidp-samples) · [官网](https://docs.oracle.com/en/cloud/paas/ai-data-platform/index.html) · 组织维护
 
 **Oracle AI 数据平台工作台示例笔记本集（数据工程/ML/AI）**
 

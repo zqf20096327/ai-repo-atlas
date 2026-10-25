@@ -1,6 +1,6 @@
 # ForeverToAI/AiPC
 
-⭐ 45 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/ForeverToAI/AiPC) · [官网](https://aipc.sysik.mom) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/ForeverToAI/AiPC) · [官网](https://aipc.sysik.mom) · 个人维护
 
 **让 AI agent 通过 MCP 获得真实 PC 控制能力的本地服务**
 

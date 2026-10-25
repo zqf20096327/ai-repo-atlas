@@ -1,6 +1,6 @@
 # kahliburke/KaimonSlate.jl
 
-⭐ 35 · Julia · MIT · 推送 2026-10-21 · [GitHub](https://github.com/kahliburke/KaimonSlate.jl) · [官网](https://kahliburke.github.io/KaimonSlate.jl/dev/) · 个人维护
+⭐ 35 · Julia · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kahliburke/KaimonSlate.jl) · [官网](https://kahliburke.github.io/KaimonSlate.jl/dev/) · 个人维护
 
 **响应式 Julia notebook：单元格 DAG、跨机执行与 AI 助手**
 

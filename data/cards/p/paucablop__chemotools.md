@@ -1,6 +1,6 @@
 # paucablop/chemotools
 
-⭐ 87 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/paucablop/chemotools) · [官网](https://chemotools.org/) · 个人维护
+⭐ 87 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/paucablop/chemotools) · [官网](https://chemotools.org/) · 个人维护
 
 **scikit-learn 生态的光谱化学计量学预处理库**
 

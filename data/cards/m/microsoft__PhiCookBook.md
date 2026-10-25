@@ -1,6 +1,6 @@
 # microsoft/PhiCookBook
 
-⭐ 3,901 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/PhiCookBook) · 组织维护
+⭐ 3,902 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/PhiCookBook) · 组织维护
 
 **微软 Phi 系列小语言模型的上手示例与教程合集**
 

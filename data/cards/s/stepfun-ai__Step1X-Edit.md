@@ -1,6 +1,6 @@
 # stepfun-ai/Step1X-Edit
 
-⭐ 2,265 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/stepfun-ai/Step1X-Edit) · [官网](https://step1x-edit.github.io) · 组织维护 · 中文 README
+⭐ 2,266 · Python · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/stepfun-ai/Step1X-Edit) · [官网](https://step1x-edit.github.io) · 组织维护 · 中文 README
 
 **阶跃开源图像编辑模型：指令驱动的图像编辑与生成**
 

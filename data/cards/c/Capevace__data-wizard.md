@@ -1,6 +1,6 @@
 # Capevace/data-wizard
 
-⭐ 74 · JavaScript · AGPL-3.0 · 推送 2025-10-29 · [GitHub](https://github.com/Capevace/data-wizard) · [官网](https://docs.data-wizard.ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 LLM 从 PDF/Word/图片提取结构化 JSON 的自托管工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

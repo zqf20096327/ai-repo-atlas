@@ -1,6 +1,6 @@
 # nl8590687/lemonclaw
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/nl8590687/lemonclaw) · 个人维护 · 中文 README
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/nl8590687/lemonclaw) · 个人维护 · 中文 README
 
 **开源通用 AI 数字员工 Agent 框架，多渠道接入任意 LLM**
 

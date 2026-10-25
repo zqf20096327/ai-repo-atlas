@@ -1,6 +1,6 @@
 # OpenAutoCoder/live-swe-agent
 
-⭐ 467 · MIT · 推送 2026-01-19 · [GitHub](https://github.com/OpenAutoCoder/live-swe-agent) · 组织维护
+⭐ 468 · MIT · 推送 2026-01-19 · [GitHub](https://github.com/OpenAutoCoder/live-swe-agent) · 组织维护
 
 **运行时自我演化的软件工程 agent 脚手架，供 LLM 评测**
 

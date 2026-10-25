@@ -1,6 +1,6 @@
 # Goekdeniz-Guelmez/mlx-lm-lora
 
-⭐ 462 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora) · [官网](https://goekdeniz-guelmez.github.io/mlx-lm-lora/) · 个人维护
+⭐ 465 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora) · [官网](https://goekdeniz-guelmez.github.io/mlx-lm-lora/) · 个人维护
 
 **在 Apple Silicon 上用 MLX 本地微调大语言模型的训练库**
 

@@ -1,6 +1,6 @@
 # YoKONCy/infOS
 
-⭐ 159 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/YoKONCy/infOS) · [官网](http://www.perofamily.top/) · 组织维护 · 中文 README
+⭐ 161 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/YoKONCy/infOS) · 组织维护 · 中文 README
 
 **AI 伙伴运行时内核：长记忆引擎加桌面陪伴应用**
 

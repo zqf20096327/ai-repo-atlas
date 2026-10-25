@@ -1,6 +1,6 @@
 # kelvins/awesome-mlops
 
-⭐ 5,290 · Python · 推送 2026-08-17 · [GitHub](https://github.com/kelvins/awesome-mlops) · 个人维护
+⭐ 5,293 · Python · 推送 2026-08-17 · [GitHub](https://github.com/kelvins/awesome-mlops) · 个人维护
 
 **MLOps 工具策展清单：按类别收录机器学习工程工具**
 

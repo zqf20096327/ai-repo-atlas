@@ -1,6 +1,6 @@
 # MajoorWaldi/ComfyUI-Majoor-OmniCam
 
-⭐ 90 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MajoorWaldi/ComfyUI-Majoor-OmniCam) · 个人维护
+⭐ 91 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MajoorWaldi/ComfyUI-Majoor-OmniCam) · 个人维护
 
 **给 ComfyUI 用户的摄像机布局与动画自定义节点集**
 

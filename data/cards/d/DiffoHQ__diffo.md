@@ -1,6 +1,6 @@
 # DiffoHQ/diffo
 
-⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/DiffoHQ/diffo) · [官网](https://diffo.io) · 组织维护
+⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/DiffoHQ/diffo) · [官网](https://diffo.io) · 组织维护
 
 **本地运行的代码审查工具：阅读 agent 代码并让 agent 在行内回应**
 

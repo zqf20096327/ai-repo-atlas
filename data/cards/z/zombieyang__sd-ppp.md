@@ -1,6 +1,6 @@
 # zombieyang/sd-ppp
 
-⭐ 2,190 · JavaScript · BSD-3-Clause · 推送 2026-02-05 · [GitHub](https://github.com/zombieyang/sd-ppp) · [官网](https://sdppp.zombee.tech/) · 个人维护 · 中文 README
+⭐ 2,191 · JavaScript · BSD-3-Clause · 推送 2026-02-05 · [GitHub](https://github.com/zombieyang/sd-ppp) · [官网](https://sdppp.zombee.tech/) · 个人维护 · 中文 README
 
 **Photoshop 非官方 AI 插件：在 PS 内调用 ComfyUI 等生成图像**
 

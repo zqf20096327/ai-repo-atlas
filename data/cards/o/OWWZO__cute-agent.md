@@ -1,6 +1,6 @@
 # OWWZO/cute-agent
 
-⭐ 206 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/OWWZO/cute-agent) · 组织维护 · 中文 README
+⭐ 207 · Java · 推送 2026-10-24 · [GitHub](https://github.com/OWWZO/cute-agent) · 组织维护 · 中文 README
 
 **云端多智能体研究与分析平台：全网采集情报并生成报告**
 

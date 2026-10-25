@@ -1,6 +1,6 @@
 # travisjneuman/.claude
 
-⭐ 106 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/travisjneuman/.claude) · [官网](https://claude.travisjneuman.com) · 个人维护
+⭐ 106 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/travisjneuman/.claude) · [官网](https://claude.travisjneuman.com) · 个人维护
 
 **Claude Code 的即插式配置工具包：180 技能+10 agents+81 市场**
 

@@ -1,6 +1,6 @@
 # ShawnPi233/HQ-SVC
 
-⭐ 125 · Python · 推送 2026-06-17 · [GitHub](https://github.com/ShawnPi233/HQ-SVC) · 组织维护 · 中文 README
+⭐ 126 · Python · 推送 2026-06-17 · [GitHub](https://github.com/ShawnPi233/HQ-SVC) · 组织维护 · 中文 README
 
 **零样本歌声转换与语音超分框架（AAAI 2026 论文）**
 

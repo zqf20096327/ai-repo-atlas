@@ -1,6 +1,6 @@
 # tjqscott/dory
 
-⭐ 67 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/tjqscott/dory) · 个人维护
+⭐ 69 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/tjqscott/dory) · 个人维护
 
 **把会话记忆存到本地的 LLM 上下文管理工具**
 

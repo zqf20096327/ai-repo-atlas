@@ -1,6 +1,6 @@
 # rubycatco/claude-agent-sdk-ruby
 
-⭐ 50 · Ruby · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rubycatco/claude-agent-sdk-ruby) · [官网](https://rubydoc.info/gems/claude-agent-sdk) · 组织维护
+⭐ 50 · Ruby · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rubycatco/claude-agent-sdk-ruby) · [官网](https://rubydoc.info/gems/claude-agent-sdk) · 组织维护
 
 **面向 Ruby/Rails 的 Claude Code agent 运行时非官方 SDK**
 

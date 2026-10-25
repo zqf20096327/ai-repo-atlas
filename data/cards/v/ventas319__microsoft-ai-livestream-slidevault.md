@@ -1,6 +1,6 @@
 # ventas319/microsoft-ai-livestream-slidevault
 
-⭐ 56 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/ventas319/microsoft-ai-livestream-slidevault) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/ventas319/microsoft-ai-livestream-slidevault) · 个人维护
 
 **AI 直播课程幻灯片与资源的社区归档知识库**
 

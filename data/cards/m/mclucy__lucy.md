@@ -1,6 +1,6 @@
 # mclucy/lucy
 
-⭐ 50 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/mclucy/lucy) · [官网](https://lucy.lc/docs) · 个人维护 · 中文 README
+⭐ 51 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/mclucy/lucy) · [官网](https://lucy.lc/docs) · 个人维护 · 中文 README
 
 **Minecraft 服务器的包管理器：声明式定义并复现服务端**
 

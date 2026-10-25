@@ -1,6 +1,6 @@
 # goosehouse-llc/redde
 
-⭐ 87 · Swift · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/goosehouse-llc/redde) · [官网](https://redde.goosehouse.org) · 组织维护
+⭐ 90 · Swift · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/goosehouse-llc/redde) · [官网](https://redde.goosehouse.org) · 组织维护
 
 **iPhone/iPad/CarPlay 客户端：连接自托管 Hermes AI agent 或任意 OpenAI 兼容模型**
 

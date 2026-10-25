@@ -1,6 +1,6 @@
 # xqbase/eleeye
 
-⭐ 405 · C++ · LGPL-2.1 · 推送 2026-10-23 · [GitHub](https://github.com/xqbase/eleeye) · [官网](http://www.xqbase.com/) · 个人维护 · 中文 README
+⭐ 406 · C++ · LGPL-2.1 · 推送 2026-10-23 · [GitHub](https://github.com/xqbase/eleeye) · [官网](http://www.xqbase.com/) · 个人维护 · 中文 README
 
 **中国象棋对弈引擎（象眼），供 UCCI 界面调用下棋与分析**
 

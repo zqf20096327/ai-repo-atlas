@@ -1,6 +1,6 @@
 # DengPingFan/PraNet
 
-⭐ 558 · Python · 推送 2025-12-11 · [GitHub](https://github.com/DengPingFan/PraNet) · [官网](http://dpfan.net/PraNet) · 组织维护 · 中文 README
+⭐ 557 · Python · 推送 2025-12-11 · [GitHub](https://github.com/DengPingFan/PraNet) · [官网](http://dpfan.net/PraNet) · 组织维护 · 中文 README
 
 **结肠镜息肉分割模型：并行反向注意力网络（MICCAI 2020）**
 

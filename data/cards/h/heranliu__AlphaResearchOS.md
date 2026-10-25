@@ -1,6 +1,6 @@
 # heranliu/AlphaResearchOS
 
-⭐ 113 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/heranliu/AlphaResearchOS) · 个人维护 · 中文 README
+⭐ 114 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/heranliu/AlphaResearchOS) · 个人维护 · 中文 README
 
 **本地量化研究工作台：接入模型 API 从 CSV 生成可审计策略**
 

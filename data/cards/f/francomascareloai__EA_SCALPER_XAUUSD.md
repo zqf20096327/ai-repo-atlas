@@ -1,6 +1,6 @@
 # francomascareloai/EA_SCALPER_XAUUSD
 
-⭐ 267 · MQL5 · NOASSERTION · 推送 2026-06-21 · [GitHub](https://github.com/francomascareloai/EA_SCALPER_XAUUSD) · 个人维护
+⭐ 268 · MQL5 · NOASSERTION · 推送 2026-06-21 · [GitHub](https://github.com/francomascareloai/EA_SCALPER_XAUUSD) · 个人维护
 
 **XAUUSD 黄金自动交易研究项目：公开 MQL5 代码供学习协作**
 

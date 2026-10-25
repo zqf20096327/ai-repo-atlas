@@ -1,6 +1,6 @@
 # cpt13-g/build-research-evidence
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/cpt13-g/build-research-evidence) · 个人维护 · 中文 README
+⭐ 46 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/cpt13-g/build-research-evidence) · 个人维护 · 中文 README
 
 **面向 AI/CS 科研的长线实验智能体：把 Idea 转成可追溯证据**
 

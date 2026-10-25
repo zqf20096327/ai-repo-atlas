@@ -1,6 +1,6 @@
 # winstonkoh87/Athena-Public
 
-⭐ 619 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/winstonkoh87/Athena-Public) · [官网](https://winstonkoh87.com/athena/) · 个人维护
+⭐ 619 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/winstonkoh87/Athena-Public) · [官网](https://winstonkoh87.com/athena/) · 个人维护
 
 **本地优先的 AI agent 记忆/决策/治理框架，跨 IDE 便携**
 

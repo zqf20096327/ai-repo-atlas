@@ -1,6 +1,6 @@
 # crewAIInc/skills
 
-⭐ 47 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/crewAIInc/skills) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/crewAIInc/skills) · 组织维护
 
 **面向 AI 编程代理的 CrewAI 开发技能集（10 项，Agent Skills 格式）**
 

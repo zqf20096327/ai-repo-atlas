@@ -1,6 +1,6 @@
 # attalla1/photopea-mcp-server
 
-⭐ 44 · TypeScript · MIT · 推送 2026-04-05 · [GitHub](https://github.com/attalla1/photopea-mcp-server) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-04-05 · [GitHub](https://github.com/attalla1/photopea-mcp-server) · 个人维护
 
 **让 AI agent 通过 MCP 操控 Photopea 编辑图片的 TypeScript 服务器**
 

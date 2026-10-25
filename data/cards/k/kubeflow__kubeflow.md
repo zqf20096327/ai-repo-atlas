@@ -1,6 +1,6 @@
 # kubeflow/kubeflow
 
-⭐ 15,921 · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/kubeflow/kubeflow) · [官网](https://www.kubeflow.org/) · 组织维护
+⭐ 15,924 · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/kubeflow/kubeflow) · [官网](https://www.kubeflow.org/) · 组织维护
 
 **面向 AI 从业者与管理员的云原生 AI 平台**
 

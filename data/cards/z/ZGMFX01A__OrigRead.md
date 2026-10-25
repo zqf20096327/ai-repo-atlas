@@ -1,6 +1,6 @@
 # ZGMFX01A/OrigRead
 
-⭐ 42 · Kotlin · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/ZGMFX01A/OrigRead) · 个人维护 · 中文 README
+⭐ 43 · Kotlin · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/ZGMFX01A/OrigRead) · 个人维护 · 中文 README
 
 **带 AI 引用溯源的 Android RSS 全文阅读器**
 

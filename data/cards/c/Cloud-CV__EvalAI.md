@@ -1,6 +1,6 @@
 # Cloud-CV/EvalAI
 
-⭐ 2,048 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Cloud-CV/EvalAI) · [官网](https://eval.ai) · 组织维护
+⭐ 2,048 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Cloud-CV/EvalAI) · [官网](https://eval.ai) · 组织维护
 
 **面向研究者的 AI 算法评测与竞赛平台**
 

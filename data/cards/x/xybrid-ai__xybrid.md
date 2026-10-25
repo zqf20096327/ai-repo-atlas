@@ -1,6 +1,6 @@
 # xybrid-ai/xybrid
 
-⭐ 494 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/xybrid-ai/xybrid) · [官网](https://xybrid.ai) · 组织维护 · 中文 README
+⭐ 502 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/xybrid-ai/xybrid) · [官网](https://xybrid.ai) · 组织维护 · 中文 README
 
 **跨平台端侧 AI 推理 SDK：在应用与游戏内本地运行 LLM/ASR/TTS**
 

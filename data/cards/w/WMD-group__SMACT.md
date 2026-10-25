@@ -1,6 +1,6 @@
 # WMD-group/SMACT
 
-⭐ 148 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/WMD-group/SMACT) · [官网](https://smact.readthedocs.io) · 组织维护
+⭐ 148 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/WMD-group/SMACT) · [官网](https://smact.readthedocs.io) · 组织维护
 
 **面向材料设计的快速筛选与信息学 Python 库**
 

@@ -1,6 +1,6 @@
 # opengeos/geoai
 
-⭐ 3,438 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/opengeos/geoai) · [官网](https://opengeoai.org) · 个人维护
+⭐ 3,441 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/opengeos/geoai) · [官网](https://opengeoai.org) · 个人维护
 
 **将深度学习应用于地理空间数据的 Python 工具包**
 

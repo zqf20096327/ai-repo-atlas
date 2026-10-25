@@ -1,6 +1,6 @@
 # ZeroLu/awesome-seedance
 
-⭐ 2,780 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ZeroLu/awesome-seedance) · [官网](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance) · 个人维护 · 中文 README
+⭐ 2,783 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ZeroLu/awesome-seedance) · [官网](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance) · 个人维护 · 中文 README
 
 **Seedance 2.0 视频生成提示词与资源策展清单**
 

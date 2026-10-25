@@ -1,6 +1,6 @@
 # alisaitteke/photoshop-mcp
 
-⭐ 726 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/alisaitteke/photoshop-mcp) · [官网](https://photoshop-mcp.com) · 个人维护 · 中文 README
+⭐ 732 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/alisaitteke/photoshop-mcp) · [官网](https://photoshop-mcp.com) · 个人维护 · 中文 README
 
 **MCP 服务器：让 Cursor/Claude 等 AI 通过自然语言操控 Photoshop**
 

@@ -1,6 +1,6 @@
 # joeyism/opencode-history-search
 
-⭐ 129 · TypeScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/joeyism/opencode-history-search) · [官网](https://www.npmjs.com/package/opencode-history-search) · 个人维护
+⭐ 130 · TypeScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/joeyism/opencode-history-search) · [官网](https://www.npmjs.com/package/opencode-history-search) · 个人维护
 
 **OpenCode 插件：按关键词/正则/模糊检索历史会话**
 

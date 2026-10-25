@@ -1,6 +1,6 @@
 # ritchieng/deep-learning-wizard
 
-⭐ 880 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/ritchieng/deep-learning-wizard) · [官网](https://www.deeplearningwizard.com/) · 个人维护
+⭐ 880 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ritchieng/deep-learning-wizard) · [官网](https://www.deeplearningwizard.com/) · 个人维护
 
 **深度学习教程仓库：PyTorch/RAG/HPC 容器等课程笔记与代码**
 

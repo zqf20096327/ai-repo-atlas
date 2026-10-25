@@ -1,6 +1,6 @@
 # Praveenkottari/BD3-Dataset
 
-⭐ 39 · Jupyter Notebook · 推送 2026-02-13 · [GitHub](https://github.com/Praveenkottari/BD3-Dataset) · 组织维护
+⭐ 39 · Jupyter Notebook · 推送 2026-10-25 · [GitHub](https://github.com/Praveenkottari/BD3-Dataset) · 组织维护
 
 **建筑缺陷检测数据集：3,965 张标注 RGB 图像供计算机视觉评测**
 

@@ -1,6 +1,6 @@
 # geekatron/jerry
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/geekatron/jerry) · [官网](https://jerry.geekatron.org) · 个人维护
+⭐ 37 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/geekatron/jerry) · [官网](https://jerry.geekatron.org) · 个人维护
 
 **Claude Code 插件：为编码会话提供行为守则与知识沉淀**
 

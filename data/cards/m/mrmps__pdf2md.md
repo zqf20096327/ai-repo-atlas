@@ -1,6 +1,6 @@
 # mrmps/pdf2md
 
-⭐ 382 · TypeScript · 推送 2026-07-04 · [GitHub](https://github.com/mrmps/pdf2md) · [官网](https://www.pdftomarkdown.co) · 个人维护
+⭐ 383 · TypeScript · 推送 2026-07-04 · [GitHub](https://github.com/mrmps/pdf2md) · [官网](https://www.pdftomarkdown.co) · 个人维护
 
 **浏览器本地运行的 PDF 转 Markdown 工具，无文件上传**
 

@@ -1,6 +1,6 @@
 # RWKV-APP/RWKV_APP
 
-⭐ 132 · Dart · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/RWKV-APP/RWKV_APP) · [官网](https://rwkv.halowang.cloud) · 组织维护 · 中文 README
+⭐ 132 · Dart · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/RWKV-APP/RWKV_APP) · [官网](https://rwkv.halowang.cloud) · 组织维护 · 中文 README
 
 **跨平台本地 RWKV 聊天应用：手机/桌面端离线推理**
 

@@ -1,6 +1,6 @@
 # datawhalechina/self-llm
 
-⭐ 32,571 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/datawhalechina/self-llm) · 组织维护 · 中文 README
+⭐ 32,577 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/datawhalechina/self-llm) · 组织维护 · 中文 README
 
 **面向国内初学者的开源大模型配置、部署与微调中文教程**
 

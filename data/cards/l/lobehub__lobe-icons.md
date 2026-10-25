@@ -1,6 +1,6 @@
 # lobehub/lobe-icons
 
-⭐ 2,640 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lobehub/lobe-icons) · [官网](https://icons.lobehub.com) · 组织维护 · 中文 README
+⭐ 2,643 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lobehub/lobe-icons) · [官网](https://icons.lobehub.com) · 组织维护 · 中文 README
 
 **AI/LLM 品牌图标库：为 React 应用提供静态 SVG/PNG/WebP 图标**
 

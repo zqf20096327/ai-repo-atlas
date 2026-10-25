@@ -1,6 +1,6 @@
 # ahwurm/localharness
 
-⭐ 52 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ahwurm/localharness) · [官网](https://localharness.dev) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ahwurm/localharness) · [官网](https://localharness.dev) · 个人维护
 
 **面向本地 LLM 的自托管 agent harness，含工具/权限门/插件**
 

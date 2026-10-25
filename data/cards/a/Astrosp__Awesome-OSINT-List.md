@@ -1,6 +1,6 @@
 # Astrosp/Awesome-OSINT-List
 
-⭐ 4,579 · Shell · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Astrosp/Awesome-OSINT-List) · [官网](https://astrosp.github.io/osint-web/) · 个人维护
+⭐ 4,587 · Shell · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Astrosp/Awesome-OSINT-List) · [官网](https://astrosp.github.io/osint-web/) · 个人维护
 
 **面向安全与情报人员的 OSINT 工具与网站清单**
 

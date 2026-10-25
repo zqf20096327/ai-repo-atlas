@@ -1,6 +1,6 @@
 # Hainrixz/claude-banana
 
-⭐ 107 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/Hainrixz/claude-banana) · [官网](https://www.tododeia.com) · 个人维护
+⭐ 107 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/claude-banana) · [官网](https://www.tododeia.com) · 个人维护
 
 **Claude Code agent：把口语想法转成图像生成提示词**
 

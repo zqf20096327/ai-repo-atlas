@@ -1,6 +1,6 @@
 # somastllc/somali-nlp-corpus
 
-⭐ 108 · Rust · 推送 2026-10-19 · [GitHub](https://github.com/somastllc/somali-nlp-corpus) · [官网](https://www.somast.so/en/datasets/somali-nlp-corpus) · 组织维护
+⭐ 109 · Rust · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/somali-nlp-corpus) · [官网](https://www.somast.so/en/datasets/somali-nlp-corpus) · 组织维护
 
 **索马里语 NLP 语料库与 Rust 数据处理管线，产出训练用 JSONL**
 

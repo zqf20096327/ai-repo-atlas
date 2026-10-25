@@ -1,6 +1,6 @@
 # idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning
 
-⭐ 564 · Python · MIT · 推送 2025-11-13 · [GitHub](https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning) · 个人维护
+⭐ 566 · Python · MIT · 推送 2025-11-13 · [GitHub](https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning) · 个人维护
 
 **在 CARLA 仿真环境用 PPO 训练自动驾驶智能体的研究项目**
 

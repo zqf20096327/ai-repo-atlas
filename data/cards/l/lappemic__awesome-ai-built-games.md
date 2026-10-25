@@ -1,6 +1,6 @@
 # lappemic/awesome-ai-built-games
 
-⭐ 99 · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/lappemic/awesome-ai-built-games) · 个人维护
+⭐ 103 · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/lappemic/awesome-ai-built-games) · 个人维护
 
 **AI 编程代理制作的可玩游戏策展清单**
 

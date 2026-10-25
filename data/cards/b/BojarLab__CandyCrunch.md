@@ -1,6 +1,6 @@
 # BojarLab/CandyCrunch
 
-⭐ 37 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/BojarLab/CandyCrunch) · 组织维护
+⭐ 37 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BojarLab/CandyCrunch) · 组织维护
 
 **从 LC-MS/MS 数据预测聚糖结构的深度学习工具包**
 

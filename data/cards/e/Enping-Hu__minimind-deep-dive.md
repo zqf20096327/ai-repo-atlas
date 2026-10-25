@@ -1,6 +1,6 @@
 # Enping-Hu/minimind-deep-dive
 
-⭐ 214 · Python · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/Enping-Hu/minimind-deep-dive) · 个人维护 · 中文 README
+⭐ 216 · Python · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/Enping-Hu/minimind-deep-dive) · 个人维护 · 中文 README
 
 **逐行精读 MiniMind 源码并延伸到大模型技术体系的中文学习笔记**
 

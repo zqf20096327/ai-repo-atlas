@@ -1,6 +1,6 @@
 # mintesnot-teshome/llm-verify
 
-⭐ 44 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mintesnot-teshome/llm-verify) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/mintesnot-teshome/llm-verify) · 个人维护
 
 **检测虚假 LLM API：通过行为指纹验证接口是否真在供宣称的模型**
 

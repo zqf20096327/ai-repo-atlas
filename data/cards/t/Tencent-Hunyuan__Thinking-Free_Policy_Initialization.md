@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Thinking-Free_Policy_Initialization
 
-⭐ 103 · Python · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/Tencent-Hunyuan/Thinking-Free_Policy_Initialization) · 组织维护 · 中文 README
+⭐ 104 · Python · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/Tencent-Hunyuan/Thinking-Free_Policy_Initialization) · 组织维护 · 中文 README
 
 **面向研究者的 RLVR 训练方法代码：跳过思考阶段的策略初始化**
 

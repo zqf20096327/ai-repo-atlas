@@ -1,6 +1,6 @@
 # light-and-ray/Minimalistic-Comfy-Wrapper-WebUI
 
-⭐ 145 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI) · [官网](https://registry.comfy.org/publishers/light-and-ray/nodes/mcww-webui) · 个人维护
+⭐ 145 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI) · [官网](https://registry.comfy.org/publishers/light-and-ray/nodes/mcww-webui) · 个人维护
 
 **为 ComfyUI 附加的轻量推理 UI，可独立运行**
 

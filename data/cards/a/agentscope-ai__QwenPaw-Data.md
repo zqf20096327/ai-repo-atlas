@@ -1,6 +1,6 @@
 # agentscope-ai/QwenPaw-Data
 
-⭐ 172 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agentscope-ai/QwenPaw-Data) · 组织维护 · 中文 README
+⭐ 173 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agentscope-ai/QwenPaw-Data) · 组织维护 · 中文 README
 
 **面向企业数据分析的 agentic 数据系统：事实治理+方法复用+可控执行**
 

@@ -1,6 +1,6 @@
 # mrwadams/attackgen
 
-⭐ 1,254 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/mrwadams/attackgen) · 个人维护
+⭐ 1,255 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/mrwadams/attackgen) · 个人维护
 
 **用 LLM 生成网络安全事件响应演练场景的工具**
 

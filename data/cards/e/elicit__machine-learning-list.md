@@ -1,6 +1,6 @@
 # elicit/machine-learning-list
 
-⭐ 1,473 · 推送 2025-11-27 · [GitHub](https://github.com/elicit/machine-learning-list) · [官网](https://elicit.com/careers) · 组织维护
+⭐ 1,474 · 推送 2025-11-27 · [GitHub](https://github.com/elicit/machine-learning-list) · [官网](https://elicit.com/careers) · 组织维护
 
 **面向新员工的基础模型论文与教程分级阅读清单**
 

@@ -1,6 +1,6 @@
 # devsy-org/devsy
 
-⭐ 124 · Go · MPL-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/devsy-org/devsy) · [官网](https://devsy.sh) · 组织维护
+⭐ 124 · Go · MPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/devsy-org/devsy) · [官网](https://devsy.sh) · 组织维护
 
 **为团队与 AI 编程代理部署标准化隔离开发工作区**
 

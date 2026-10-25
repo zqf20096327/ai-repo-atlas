@@ -1,6 +1,6 @@
 # Ahren09/AgentReview
 
-⭐ 635 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/Ahren09/AgentReview) · [官网](https://agentreview.github.io/) · 组织维护
+⭐ 642 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/Ahren09/AgentReview) · [官网](https://agentreview.github.io/) · 组织维护
 
 **用 LLM Agent 模拟学术同行评审的研究框架**
 

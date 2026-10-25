@@ -1,6 +1,6 @@
 # montanaflynn/stats
 
-⭐ 3,031 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/montanaflynn/stats) · 个人维护
+⭐ 3,031 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/montanaflynn/stats) · [官网](https://pkg.go.dev/github.com/montanaflynn/stats) · 个人维护
 
 **无依赖的 Go 语言统计学函数库**
 

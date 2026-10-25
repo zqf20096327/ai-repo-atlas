@@ -1,6 +1,6 @@
 # a1exsun/dsh-council
 
-⭐ 153 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/a1exsun/dsh-council) · 个人维护 · 中文 README
+⭐ 154 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/a1exsun/dsh-council) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的多模型评议会插件：独立作答、匿名互评、合并决策**
 

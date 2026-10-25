@@ -1,6 +1,6 @@
 # imbutus/ComfyUI-MiniMaxDirector
 
-⭐ 67 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/imbutus/ComfyUI-MiniMaxDirector) · 个人维护 · 中文 README
+⭐ 68 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/imbutus/ComfyUI-MiniMaxDirector) · 个人维护 · 中文 README
 
 **ComfyUI 时间轴导演插件：为 MiniMax H3 视频模型编排镜头并编译结构化提示词**
 

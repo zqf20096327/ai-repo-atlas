@@ -1,6 +1,6 @@
 # oomol-lab/wiki-graph
 
-⭐ 402 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/oomol-lab/wiki-graph) · [官网](https://pdfcraft.ai/download/sdpub) · 组织维护 · 中文 README
+⭐ 403 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/oomol-lab/wiki-graph) · [官网](https://pdfcraft.ai/download/sdpub) · 组织维护 · 中文 README
 
 **长文本知识库 CLI：把书和文档提炼为可溯源知识图谱**
 

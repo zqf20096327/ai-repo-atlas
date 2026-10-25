@@ -1,6 +1,6 @@
 # cefege/seo-chat-bot
 
-⭐ 79 · Python · 推送 2026-04-13 · [GitHub](https://github.com/cefege/seo-chat-bot) · 个人维护
+⭐ 80 · Python · 推送 2026-04-13 · [GitHub](https://github.com/cefege/seo-chat-bot) · 个人维护
 
 **基于 RAG 的语义 SEO 问答聊天机器人，回答带内联引用**
 

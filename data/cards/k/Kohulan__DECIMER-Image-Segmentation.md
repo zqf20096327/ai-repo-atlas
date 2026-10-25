@@ -1,6 +1,6 @@
 # Kohulan/DECIMER-Image-Segmentation
 
-⭐ 156 · Jupyter Notebook · MIT · 推送 2026-02-25 · [GitHub](https://github.com/Kohulan/DECIMER-Image-Segmentation) · [官网](https://decimer.ai) · 组织维护
+⭐ 156 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Kohulan/DECIMER-Image-Segmentation) · [官网](https://decimer.ai) · 组织维护
 
 **从科学文献中检测并切分化学结构图的深度学习工具**
 

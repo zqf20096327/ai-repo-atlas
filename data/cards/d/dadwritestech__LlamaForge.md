@@ -1,6 +1,6 @@
 # dadwritestech/LlamaForge
 
-⭐ 113 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dadwritestech/LlamaForge) · [官网](https://dadwritestech.github.io/LlamaForge/) · 个人维护
+⭐ 113 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/dadwritestech/LlamaForge) · [官网](https://dadwritestech.github.io/LlamaForge/) · 个人维护
 
 **浏览器中驱动官方 llama.cpp 的本地模型控制面板**
 

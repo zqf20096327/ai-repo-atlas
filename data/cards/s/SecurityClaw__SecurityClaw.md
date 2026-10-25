@@ -1,6 +1,6 @@
 # SecurityClaw/SecurityClaw
 
-⭐ 277 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SecurityClaw/SecurityClaw) · 组织维护
+⭐ 278 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SecurityClaw/SecurityClaw) · 组织维护
 
 **自主 SOC Agent：监控 OpenSearch/ES 日志并用 LLM 验证异常**
 

@@ -1,6 +1,6 @@
 # GGZ14/BetterBench
 
-⭐ 75 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/GGZ14/BetterBench) · [官网](https://discord.gg/launch80) · 个人维护
+⭐ 76 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/GGZ14/BetterBench) · [官网](https://discord.gg/launch80) · 个人维护
 
 **面向 LLM 推理服务的百分位基准测试工具，支持 1% 级 A/B 判定**
 

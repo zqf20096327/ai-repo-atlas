@@ -1,6 +1,6 @@
 # FelixNg1022/JobMatch-AI
 
-⭐ 214 · TypeScript · 推送 2025-12-01 · [GitHub](https://github.com/FelixNg1022/JobMatch-AI) · 个人维护
+⭐ 216 · TypeScript · 推送 2025-12-01 · [GitHub](https://github.com/FelixNg1022/JobMatch-AI) · 个人维护
 
 **求职者的简历-JD 匹配分析 agent，含求职信生成**
 

@@ -1,6 +1,6 @@
 # ahtx/kindi
 
-⭐ 40 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ahtx/kindi) · [官网](https://amirhusain.com/kindi/) · 个人维护
+⭐ 55 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ahtx/kindi) · [官网](https://amirhusain.com/kindi/) · 个人维护
 
 **面向老旧/低价 NVIDIA 卡的自研 LLM 推理引擎，带 OpenAI 兼容服务**
 

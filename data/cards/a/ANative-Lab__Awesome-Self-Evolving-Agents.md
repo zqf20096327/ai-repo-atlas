@@ -1,6 +1,6 @@
 # ANative-Lab/Awesome-Self-Evolving-Agents
 
-⭐ 2,510 · MIT · 推送 2026-05-16 · [GitHub](https://github.com/ANative-Lab/Awesome-Self-Evolving-Agents) · [官网](https://arxiv.org/pdf/2508.07407) · 组织维护
+⭐ 2,512 · MIT · 推送 2026-05-16 · [GitHub](https://github.com/ANative-Lab/Awesome-Self-Evolving-Agents) · [官网](https://arxiv.org/pdf/2508.07407) · 组织维护
 
 **自进化 AI Agent 研究论文策展清单（配综述与分类框架）**
 

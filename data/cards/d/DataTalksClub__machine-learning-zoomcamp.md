@@ -1,6 +1,6 @@
 # DataTalksClub/machine-learning-zoomcamp
 
-⭐ 14,829 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp) · [官网](https://courses.datatalks.club/register/ml-zoomcamp/) · 组织维护
+⭐ 14,841 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp) · [官网](https://courses.datatalks.club/register/ml-zoomcamp/) · 组织维护
 
 **面向工程师的免费 4 个月机器学习工程实战课程**
 

@@ -1,6 +1,6 @@
 # jina-ai/reader
 
-⭐ 12,189 · TypeScript · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/jina-ai/reader) · [官网](https://jina.ai/reader) · 组织维护
+⭐ 12,192 · TypeScript · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/jina-ai/reader) · [官网](https://jina.ai/reader) · 组织维护
 
 **把任意 URL/文件转为 LLM 友好输入，并提供网页搜索服务**
 

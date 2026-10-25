@@ -1,6 +1,6 @@
 # microsoft/Olive
 
-⭐ 2,402 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/Olive) · [官网](https://microsoft.github.io/Olive/) · 组织维护
+⭐ 2,403 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/Olive) · [官网](https://microsoft.github.io/Olive/) · 组织维护
 
 **微软的 ONNX 模型优化工具链：量化/转换/微调适配多硬件**
 

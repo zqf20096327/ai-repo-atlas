@@ -1,6 +1,6 @@
 # prism-php/prism
 
-⭐ 2,427 · PHP · MIT · 推送 2026-10-16 · [GitHub](https://github.com/prism-php/prism) · [官网](https://prismphp.com) · 个人维护
+⭐ 2,426 · PHP · MIT · 推送 2026-10-16 · [GitHub](https://github.com/prism-php/prism) · [官网](https://prismphp.com) · 个人维护
 
 **Laravel 应用接入 LLM 的统一接口包**
 

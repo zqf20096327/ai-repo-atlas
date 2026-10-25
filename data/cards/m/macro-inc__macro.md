@@ -1,6 +1,6 @@
 # macro-inc/macro
 
-⭐ 4,894 · Rust · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/macro-inc/macro) · [官网](https://macro.com) · 组织维护
+⭐ 4,915 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/macro-inc/macro) · [官网](https://macro.com) · 组织维护
 
 **团队一体化工作区：邮件/聊天/文档/任务/CRM 与共享 AI 记忆**
 

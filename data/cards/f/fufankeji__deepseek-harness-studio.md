@@ -1,6 +1,6 @@
 # fufankeji/deepseek-harness-studio
 
-⭐ 695 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/fufankeji/deepseek-harness-studio) · [官网](https://www.beyondata.com/) · 组织维护 · 中文 README
+⭐ 694 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/fufankeji/deepseek-harness-studio) · [官网](https://www.beyondata.com/) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的零代码 Electron 桌面客户端，含插件/Preset/应用市场**
 

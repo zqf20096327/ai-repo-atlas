@@ -1,6 +1,6 @@
 # swiss-ai-center/a-guide-to-mlops
 
-⭐ 62 · Dockerfile · CC-BY-SA-4.0 · 推送 2026-09-29 · [GitHub](https://github.com/swiss-ai-center/a-guide-to-mlops) · [官网](https://mlops.swiss-ai-center.ch) · 组织维护
+⭐ 63 · Dockerfile · CC-BY-SA-4.0 · 推送 2026-09-29 · [GitHub](https://github.com/swiss-ai-center/a-guide-to-mlops) · [官网](https://mlops.swiss-ai-center.ch) · 组织维护
 
 **MLOps 工具与实践指南：面向 ML 项目的教程站点源码**
 

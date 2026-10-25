@@ -1,6 +1,6 @@
 # Zafer-Liu/Data-Analysis-Agent
 
-⭐ 2,615 · JavaScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Zafer-Liu/Data-Analysis-Agent) · [官网](sage-agent.online) · 个人维护 · 中文 README
+⭐ 2,617 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Zafer-Liu/Data-Analysis-Agent) · [官网](sage-agent.online) · 个人维护 · 中文 README
 
 **对话式商业数据分析 Agent：自然语言生成 SQL、图表与洞察**
 

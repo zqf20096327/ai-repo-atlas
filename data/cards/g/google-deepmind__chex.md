@@ -1,6 +1,6 @@
 # google-deepmind/chex
 
-⭐ 957 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-deepmind/chex) · [官网](https://chex.readthedocs.io) · 组织维护
+⭐ 958 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-deepmind/chex) · [官网](https://chex.readthedocs.io) · 组织维护
 
 **JAX 代码的测试与调试工具库：断言、变体测试、调试变换**
 

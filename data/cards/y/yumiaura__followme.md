@@ -1,6 +1,6 @@
 # yumiaura/followme
 
-⭐ 119 · Python · 推送 2026-07-20 · [GitHub](https://github.com/yumiaura/followme) · 个人维护
+⭐ 121 · Python · 推送 2026-07-20 · [GitHub](https://github.com/yumiaura/followme) · 个人维护
 
 **CLI 脚本集：本地 Ollama 模型给 GitHub 仓库打分并自动关注/加星**
 

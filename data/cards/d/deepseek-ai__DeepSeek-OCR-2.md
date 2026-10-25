@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-OCR-2
 
-⭐ 3,492 · Python · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR-2) · 组织维护 · 中文 README
+⭐ 3,494 · Python · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR-2) · 组织维护 · 中文 README
 
 **DeepSeek 开源 OCR 模型：文档图像转 Markdown 的视觉编码**
 

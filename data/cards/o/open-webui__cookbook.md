@@ -1,6 +1,6 @@
 # open-webui/cookbook
 
-⭐ 55 · Jupyter Notebook · 推送 2026-05-04 · [GitHub](https://github.com/open-webui/cookbook) · 组织维护
+⭐ 54 · Jupyter Notebook · 推送 2026-05-04 · [GitHub](https://github.com/open-webui/cookbook) · 组织维护
 
 **Open WebUI 官方示例集：提供用法食谱与集成示例**
 

@@ -1,6 +1,6 @@
 # wellingfeng/UltraGameStudio
 
-⭐ 326 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/wellingfeng/UltraGameStudio) · 个人维护 · 中文 README
+⭐ 326 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/wellingfeng/UltraGameStudio) · 个人维护 · 中文 README
 
 **面向游戏开发的 AI 编程 agent，含全类游戏资产生成**
 

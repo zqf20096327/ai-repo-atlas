@@ -1,6 +1,6 @@
 # h4ckf0r0day/awesome-ai-web-scraping
 
-⭐ 116 · CC0-1.0 · 推送 2026-05-18 · [GitHub](https://github.com/h4ckf0r0day/awesome-ai-web-scraping) · 个人维护
+⭐ 117 · CC0-1.0 · 推送 2026-05-18 · [GitHub](https://github.com/h4ckf0r0day/awesome-ai-web-scraping) · 个人维护
 
 **AI 网页抓取工具策展清单：框架、API、MCP 服务与数据集**
 

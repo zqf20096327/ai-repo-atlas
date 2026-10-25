@@ -1,6 +1,6 @@
 # vertopolkaLF/codex-minibar
 
-⭐ 40 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vertopolkaLF/codex-minibar) · [官网](https://vertopolkalf.ru/codex-minibar/) · 个人维护 · 中文 README
+⭐ 41 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vertopolkaLF/codex-minibar) · [官网](https://vertopolkalf.ru/codex-minibar/) · 个人维护 · 中文 README
 
 **Windows 托盘工具：免登录监控 ChatGPT/Codex 等 AI 订阅额度**
 

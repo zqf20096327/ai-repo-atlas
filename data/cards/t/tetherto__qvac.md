@@ -1,6 +1,6 @@
 # tetherto/qvac
 
-⭐ 709 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/tetherto/qvac) · [官网](https://qvac.tether.io) · 组织维护
+⭐ 711 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/tetherto/qvac) · [官网](https://qvac.tether.io) · 组织维护
 
 **跨平台本地 AI SDK：在五类系统上离线运行 LLM 等多种 AI 工作负载**
 

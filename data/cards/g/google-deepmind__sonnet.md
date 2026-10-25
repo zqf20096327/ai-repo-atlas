@@ -1,6 +1,6 @@
 # google-deepmind/sonnet
 
-⭐ 9,976 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/sonnet) · [官网](https://sonnet.dev/) · 组织维护
+⭐ 9,977 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/sonnet) · [官网](https://sonnet.dev/) · 组织维护
 
 **DeepMind 研究者构建神经网络的 TensorFlow 2 库**
 

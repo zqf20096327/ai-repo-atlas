@@ -1,6 +1,6 @@
 # liyupi/codefather
 
-⭐ 8,924 · TypeScript · 推送 2026-07-11 · [GitHub](https://github.com/liyupi/codefather) · [官网](https://codefather.cn) · 个人维护 · 中文 README
+⭐ 8,927 · TypeScript · 推送 2026-07-11 · [GitHub](https://github.com/liyupi/codefather) · [官网](https://codefather.cn) · 个人维护 · 中文 README
 
 **面向编程学习者的知识百科与学习路线站（codefather.cn）**
 

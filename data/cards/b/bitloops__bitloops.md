@@ -1,6 +1,6 @@
 # bitloops/bitloops
 
-⭐ 244 · Rust · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/bitloops/bitloops) · [官网](https://bitloops.com) · 组织维护
+⭐ 243 · Rust · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/bitloops/bitloops) · [官网](https://bitloops.com) · 组织维护
 
 **为 AI 编程 agent 提供持久化代码库上下文的本地运行时**
 

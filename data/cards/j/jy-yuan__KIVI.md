@@ -1,6 +1,6 @@
 # jy-yuan/KIVI
 
-⭐ 436 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/jy-yuan/KIVI) · [官网](https://arxiv.org/abs/2402.02750) · 组织维护
+⭐ 437 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/jy-yuan/KIVI) · [官网](https://arxiv.org/abs/2402.02750) · 组织维护
 
 **免调参的 KV Cache 2bit 非对称量化算法实现，降显存提吞吐**
 

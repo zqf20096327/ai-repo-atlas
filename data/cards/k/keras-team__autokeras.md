@@ -1,6 +1,6 @@
 # keras-team/autokeras
 
-⭐ 9,337 · Python · Apache-2.0 · 推送 2025-11-25 · [GitHub](https://github.com/keras-team/autokeras) · [官网](http://autokeras.com/) · 组织维护
+⭐ 9,338 · Python · Apache-2.0 · 推送 2025-11-25 · [GitHub](https://github.com/keras-team/autokeras) · [官网](http://autokeras.com/) · 组织维护
 
 **基于 Keras 的深度学习 AutoML 库，自动搜索模型结构**
 

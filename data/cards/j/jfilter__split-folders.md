@@ -1,6 +1,6 @@
 # jfilter/split-folders
 
-⭐ 424 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/jfilter/split-folders) · 个人维护
+⭐ 424 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jfilter/split-folders) · 个人维护
 
 **把含文件的文件夹按比例切分为训练/验证/测试集的 Python 工具**
 

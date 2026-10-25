@@ -1,6 +1,6 @@
 # ethanplusai/jarvis
 
-⭐ 912 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/ethanplusai/jarvis) · [官网](https://github.com/ethanplusai/jarvis/releases/tag/v2.0.0) · 个人维护
+⭐ 915 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/ethanplusai/jarvis) · [官网](https://github.com/ethanplusai/jarvis/releases/tag/v2.0.0) · 个人维护
 
 **macOS 语音助手：语音驱动 Claude Code 完成项目设计与构建**
 

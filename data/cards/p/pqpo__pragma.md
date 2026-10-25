@@ -1,6 +1,6 @@
 # pqpo/pragma
 
-⭐ 248 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/pqpo/pragma) · [官网](https://www.pqpo.me/2026/08/16/agent-team-builder-multi-harness-runtime/) · 个人维护 · 中文 README
+⭐ 249 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/pqpo/pragma) · [官网](https://www.pqpo.me/2026/08/16/agent-team-builder-multi-harness-runtime/) · 个人维护 · 中文 README
 
 **跨模型跨 harness 的可移植 Agent Team 构建运行平台**
 

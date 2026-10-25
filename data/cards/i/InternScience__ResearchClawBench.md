@@ -1,6 +1,6 @@
 # InternScience/ResearchClawBench
 
-⭐ 272 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/InternScience/ResearchClawBench) · [官网](https://internscience.github.io/ResearchClawBench-Home/) · 组织维护 · 中文 README
+⭐ 274 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/InternScience/ResearchClawBench) · [官网](https://internscience.github.io/ResearchClawBench-Home/) · 组织维护 · 中文 README
 
 **评测 AI 编码 agent 自主科研能力的基准（40 任务/10 学科）**
 

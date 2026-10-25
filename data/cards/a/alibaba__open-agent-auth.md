@@ -1,6 +1,6 @@
 # alibaba/open-agent-auth
 
-⭐ 82 · Java · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/alibaba/open-agent-auth) · [官网](https://alibaba.github.io/open-agent-auth/) · 组织维护 · 中文 README
+⭐ 83 · Java · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/alibaba/open-agent-auth) · [官网](https://alibaba.github.io/open-agent-auth/) · 组织维护 · 中文 README
 
 **企业级 AI Agent 操作授权框架，实现身份绑定与细粒度鉴权**
 

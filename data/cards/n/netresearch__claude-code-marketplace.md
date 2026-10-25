@@ -1,6 +1,6 @@
 # netresearch/claude-code-marketplace
 
-⭐ 65 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/netresearch/claude-code-marketplace) · [官网](https://netresearch.github.io/claude-code-marketplace/) · 组织维护
+⭐ 76 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/netresearch/claude-code-marketplace) · [官网](https://netresearch.github.io/claude-code-marketplace/) · 组织维护
 
 **面向 AI 编程 agent 的技能市场：39 个可移植 Agent Skills 目录**
 

@@ -1,6 +1,6 @@
 # xLLM-AI/xllm
 
-⭐ 1,604 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/xLLM-AI/xllm) · [官网](https://xllm-ai.com/) · 组织维护 · 中文 README
+⭐ 1,604 · C++ · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/xLLM-AI/xllm) · [官网](https://xllm-ai.com/) · 组织维护 · 中文 README
 
 **面向国产 AI 加速器优化的 LLM/VLM/DiT/REC 推理引擎**
 

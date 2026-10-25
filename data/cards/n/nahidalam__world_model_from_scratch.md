@@ -1,6 +1,6 @@
 # nahidalam/world_model_from_scratch
 
-⭐ 40 · Python · 推送 2026-10-01 · [GitHub](https://github.com/nahidalam/world_model_from_scratch) · [官网](https://world-models-from-scratch.gitbook.io) · 个人维护
+⭐ 40 · Python · 推送 2026-10-24 · [GitHub](https://github.com/nahidalam/world_model_from_scratch) · [官网](https://world-models-from-scratch.gitbook.io) · 个人维护
 
 **《World Models from Scratch》书籍配套代码库**
 

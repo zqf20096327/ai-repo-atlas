@@ -1,6 +1,6 @@
 # ofershap/real-browser-mcp
 
-⭐ 57 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ofershap/real-browser-mcp) · 个人维护
+⭐ 57 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ofershap/real-browser-mcp) · 个人维护
 
 **让 AI 代理控制你已登录的真实 Chrome 的 MCP 服务器**
 

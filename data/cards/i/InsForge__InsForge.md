@@ -1,6 +1,6 @@
 # InsForge/InsForge
 
-⭐ 13,179 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/InsForge/InsForge) · [官网](https://insforge.dev) · 组织维护
+⭐ 13,197 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/InsForge/InsForge) · [官网](https://insforge.dev) · 组织维护
 
 **为编码 Agent 提供数据库/认证/存储/托管的一体化后端平台**
 

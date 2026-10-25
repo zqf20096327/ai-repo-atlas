@@ -1,6 +1,6 @@
 # op7418/guizang-ppt-skill
 
-⭐ 28,576 · HTML · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/op7418/guizang-ppt-skill) · 个人维护 · 中文 README
+⭐ 28,630 · HTML · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/op7418/guizang-ppt-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 用的网页 PPT 生成技能：产出单文件 HTML 演示**
 

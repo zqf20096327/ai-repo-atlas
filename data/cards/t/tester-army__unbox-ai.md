@@ -1,6 +1,6 @@
 # tester-army/unbox-ai
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tester-army/unbox-ai) · [官网](https://tester.army) · 个人维护
+⭐ 55 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tester-army/unbox-ai) · [官网](https://tester.army) · 个人维护
 
 **AI agent 追踪可视化工具：token、延迟与成本一目了然**
 

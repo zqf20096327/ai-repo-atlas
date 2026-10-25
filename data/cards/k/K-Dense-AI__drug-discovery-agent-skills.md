@@ -1,6 +1,6 @@
 # K-Dense-AI/drug-discovery-agent-skills
 
-⭐ 47 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/K-Dense-AI/drug-discovery-agent-skills) · [官网](www.k-dense.ai) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/K-Dense-AI/drug-discovery-agent-skills) · [官网](www.k-dense.ai) · 组织维护
 
 **药物研发 agent 技能包：37 个技能教编码代理使用计算化学与生物学工具**
 

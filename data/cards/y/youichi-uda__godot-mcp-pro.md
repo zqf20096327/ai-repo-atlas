@@ -1,6 +1,6 @@
 # youichi-uda/godot-mcp-pro
 
-⭐ 633 · GDScript · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/youichi-uda/godot-mcp-pro) · [官网](https://godot-mcp.abyo.net/) · 个人维护
+⭐ 634 · GDScript · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/youichi-uda/godot-mcp-pro) · [官网](https://godot-mcp.abyo.net/) · 个人维护
 
 **连接 AI 助手与 Godot 编辑器的 MCP 服务器（187 工具）**
 

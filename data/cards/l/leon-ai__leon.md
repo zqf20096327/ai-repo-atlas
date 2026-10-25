@@ -1,6 +1,6 @@
 # leon-ai/leon
 
-⭐ 17,600 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/leon-ai/leon) · [官网](https://getleon.ai) · 个人维护
+⭐ 17,605 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/leon-ai/leon) · [官网](https://getleon.ai) · 个人维护
 
 **开源个人 AI 助手：以工具、上下文、记忆与 agent 执行完成任务**
 

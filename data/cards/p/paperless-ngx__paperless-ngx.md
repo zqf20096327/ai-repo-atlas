@@ -1,6 +1,6 @@
 # paperless-ngx/paperless-ngx
 
-⭐ 47,057 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/paperless-ngx/paperless-ngx) · [官网](http://docs.paperless-ngx.com/) · 组织维护
+⭐ 47,085 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/paperless-ngx/paperless-ngx) · [官网](http://docs.paperless-ngx.com/) · 组织维护
 
 **将纸质文档扫描、索引并归档为可搜索在线档案的文档管理系统**
 

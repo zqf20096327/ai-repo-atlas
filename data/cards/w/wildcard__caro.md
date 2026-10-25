@@ -1,6 +1,6 @@
 # wildcard/caro
 
-⭐ 40 · Rust · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/wildcard/caro) · [官网](https://caro.sh/) · 个人维护
+⭐ 40 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/wildcard/caro) · [官网](https://caro.sh/) · 个人维护
 
 **自然语言生成安全 POSIX 命令的 Rust CLI（本地 LLM）**
 

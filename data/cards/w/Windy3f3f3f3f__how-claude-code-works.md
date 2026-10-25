@@ -1,6 +1,6 @@
 # Windy3f3f3f3f/how-claude-code-works
 
-⭐ 3,774 · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Windy3f3f3f3f/how-claude-code-works) · [官网](https://windy3f3f3f3f.github.io/how-claude-code-works/#/) · 组织维护 · 中文 README
+⭐ 3,780 · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Windy3f3f3f3f/how-claude-code-works) · [官网](https://windy3f3f3f3f.github.io/how-claude-code-works/#/) · 组织维护 · 中文 README
 
 **Claude Code 内部架构的逆向分析文档库（21 篇专题）**
 

@@ -1,6 +1,6 @@
 # Canvixel-Eloweny/ai-bot-groupmate
 
-⭐ 94 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Canvixel-Eloweny/ai-bot-groupmate) · [官网](https://github.com/Canvixel-Eloweny/ai-bot-groupmate) · 个人维护 · 中文 README
+⭐ 95 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Canvixel-Eloweny/ai-bot-groupmate) · [官网](https://github.com/Canvixel-Eloweny/ai-bot-groupmate) · 个人维护 · 中文 README
 
 **把 QQ 小号接给大模型、让 AI 像群友一样聊天的机器人**
 

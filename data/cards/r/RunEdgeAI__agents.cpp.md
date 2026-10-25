@@ -1,6 +1,6 @@
 # RunEdgeAI/agents.cpp
 
-⭐ 111 · C++ · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/RunEdgeAI/agents.cpp) · [官网](https://www.runedge.ai/) · 组织维护
+⭐ 112 · C++ · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/RunEdgeAI/agents.cpp) · [官网](https://www.runedge.ai/) · 组织维护
 
 **面向边缘设备的 C++ AI Agent 构建框架**
 

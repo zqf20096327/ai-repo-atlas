@@ -1,6 +1,6 @@
 # Ansarimajid/Construction-PPE-Detection
 
-⭐ 50 · Jupyter Notebook · MIT · 推送 2026-04-03 · [GitHub](https://github.com/Ansarimajid/Construction-PPE-Detection) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **工地安全帽/反光衣/口罩实时检测系统，带 API 与告警**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

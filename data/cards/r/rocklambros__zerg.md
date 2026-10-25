@@ -33,7 +33,7 @@ ZERG 是 Python CLI 工具，用于编排多个 Claude Code 实例（zergling）
 
 ## 场景标签
 
- · 领域:AI 编程/开发工具
+`编码 Agent` `多智能体` `代码审查` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

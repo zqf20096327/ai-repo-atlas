@@ -1,6 +1,6 @@
 # Demonbane18/relmio
 
-⭐ 60 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Demonbane18/relmio) · [官网](https://relmio.jpfusin.tech/) · 个人维护
+⭐ 59 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Demonbane18/relmio) · [官网](https://relmio.jpfusin.tech/) · 个人维护
 
 **本地浏览器向导：为自托管 n8n 安装 ChatGPT/SuperGrok 等 OAuth 接入**
 

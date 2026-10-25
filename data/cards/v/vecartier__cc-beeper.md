@@ -1,6 +1,6 @@
 # vecartier/cc-beeper
 
-⭐ 176 · Swift · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/vecartier/cc-beeper) · 个人维护
+⭐ 175 · Swift · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/vecartier/cc-beeper) · 个人维护
 
 **macOS 桌面挂件：实时查看 Claude Code 状态并语音应答权限请求**
 

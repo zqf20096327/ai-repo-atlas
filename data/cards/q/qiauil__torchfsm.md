@@ -1,6 +1,6 @@
 # qiauil/torchfsm
 
-⭐ 61 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/qiauil/torchfsm) · [官网](https://qiauil.github.io/torchfsm/) · 组织维护
+⭐ 62 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/qiauil/torchfsm) · [官网](https://qiauil.github.io/torchfsm/) · 组织维护
 
 **基于 PyTorch 的傅里叶谱方法 PDE 求解库**
 

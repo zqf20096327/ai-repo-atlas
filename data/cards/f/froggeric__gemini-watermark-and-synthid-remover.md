@@ -1,6 +1,6 @@
 # froggeric/gemini-watermark-and-synthid-remover
 
-⭐ 99 · C++ · MIT · 推送 2026-09-25 · [GitHub](https://github.com/froggeric/gemini-watermark-and-synthid-remover) · 个人维护
+⭐ 101 · C++ · MIT · 推送 2026-09-25 · [GitHub](https://github.com/froggeric/gemini-watermark-and-synthid-remover) · 个人维护
 
 **移除 Gemini/Veo/NotebookLM 水印与 SynthID 的跨平台 CLI 工具**
 

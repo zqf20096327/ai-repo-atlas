@@ -1,6 +1,6 @@
 # Open-Curiosity/gini-agent
 
-⭐ 2,142 · TypeScript · MIT · 推送 2026-07-18 · [GitHub](https://github.com/Open-Curiosity/gini-agent) · 组织维护
+⭐ 2,160 · TypeScript · MIT · 推送 2026-07-18 · [GitHub](https://github.com/Open-Curiosity/gini-agent) · 组织维护
 
 **个人 AI agent 运行时：带记忆与技能学习的本地网关**
 

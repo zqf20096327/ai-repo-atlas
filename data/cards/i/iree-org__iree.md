@@ -1,6 +1,6 @@
 # iree-org/iree
 
-⭐ 3,992 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/iree-org/iree) · [官网](http://iree.dev/) · 组织维护
+⭐ 3,993 · C++ · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/iree-org/iree) · [官网](http://iree.dev/) · 组织维护
 
 **MLIR 编译器与运行时：将 ML 模型编译到多类硬件部署**
 

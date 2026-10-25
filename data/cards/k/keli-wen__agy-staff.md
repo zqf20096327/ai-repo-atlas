@@ -1,6 +1,6 @@
 # keli-wen/agy-staff
 
-⭐ 776 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/keli-wen/agy-staff) · 个人维护 · 中文 README
+⭐ 788 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/keli-wen/agy-staff) · 个人维护 · 中文 README
 
 **让 Claude Code/Codex 等编码代理把任务委派给 Antigravity CLI 的插件**
 

@@ -1,6 +1,6 @@
 # openai/imagegencam
 
-⭐ 481 · Python · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/openai/imagegencam) · 组织维护
+⭐ 482 · Python · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/openai/imagegencam) · 组织维护
 
 **用 Codex 协助自制的拍照+图像生成数码相机套件**
 

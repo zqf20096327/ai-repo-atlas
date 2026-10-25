@@ -1,6 +1,6 @@
 # Runfusion/Fusion
 
-⭐ 1,289 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Runfusion/Fusion) · [官网](http://runfusion.ai) · 组织维护 · 中文 README
+⭐ 1,292 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Runfusion/Fusion) · [官网](http://runfusion.ai) · 组织维护 · 中文 README
 
 **多 agent 编排软件工厂：用 AI agent 团队自动规划、编写、评审并交付代码**
 

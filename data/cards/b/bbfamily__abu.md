@@ -1,6 +1,6 @@
 # bbfamily/abu
 
-⭐ 19,014 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/bbfamily/abu) · [官网](http://www.abuquant.com/) · 个人维护 · 中文 README
+⭐ 19,023 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/bbfamily/abu) · [官网](http://www.abuquant.com/) · 个人维护 · 中文 README
 
 **给量化投资者的Python回测与策略开发框架**
 

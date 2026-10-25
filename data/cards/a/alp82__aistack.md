@@ -1,6 +1,6 @@
 # alp82/aistack
 
-⭐ 50 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/alp82/aistack) · [官网](https://aistack.to) · 个人维护
+⭐ 50 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alp82/aistack) · [官网](https://aistack.to) · 个人维护
 
 **AI 技术栈的发现、对比与分享平台（Web + CLI）**
 

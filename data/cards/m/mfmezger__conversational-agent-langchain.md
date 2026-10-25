@@ -1,6 +1,6 @@
 # mfmezger/conversational-agent-langchain
 
-⭐ 256 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mfmezger/conversational-agent-langchain) · 个人维护
+⭐ 257 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mfmezger/conversational-agent-langchain) · 个人维护
 
 **对话式 RAG Agent 的 FastAPI 后端：文档嵌入、语义检索与问答**
 

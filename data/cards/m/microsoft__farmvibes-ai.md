@@ -1,6 +1,6 @@
 # microsoft/farmvibes-ai
 
-⭐ 905 · Jupyter Notebook · MIT · 推送 2026-09-09 · [GitHub](https://github.com/microsoft/farmvibes-ai) · [官网](https://microsoft.github.io/farmvibes-ai/) · 组织维护
+⭐ 904 · Jupyter Notebook · MIT · 推送 2026-09-09 · [GitHub](https://github.com/microsoft/farmvibes-ai) · [官网](https://microsoft.github.io/farmvibes-ai/) · 组织维护
 
 **面向农业与可持续性的多模态地理空间 ML 平台**
 

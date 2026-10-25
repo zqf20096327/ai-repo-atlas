@@ -1,6 +1,6 @@
 # nashtech-garage/ntg-agent
 
-⭐ 98 · C# · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/nashtech-garage/ntg-agent) · 组织维护
+⭐ 98 · C# · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/nashtech-garage/ntg-agent) · 组织维护
 
 **C# 多代理 RAG 聊天机器人示例工程（NashTech 出品）**
 

@@ -1,6 +1,6 @@
 # dg/ai-access
 
-⭐ 66 · PHP · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/dg/ai-access) · [官网](https://ai-access.deegee.dev) · 个人维护
+⭐ 66 · PHP · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/dg/ai-access) · [官网](https://ai-access.deegee.dev) · 个人维护
 
 **PHP 统一 AI 接口库：一套代码接入 OpenAI/Claude/Gemini/DeepSeek/Grok**
 

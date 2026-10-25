@@ -1,6 +1,6 @@
 # rohitaryal/imageFX-api
 
-⭐ 133 · TypeScript · MIT · 推送 2025-12-20 · [GitHub](https://github.com/rohitaryal/imageFX-api) · [官网](https://imagefx.rohitsharma.com.np/) · 个人维护
+⭐ 134 · TypeScript · MIT · 推送 2025-12-20 · [GitHub](https://github.com/rohitaryal/imageFX-api) · [官网](https://imagefx.rohitsharma.com.np/) · 个人维护
 
 **非官方逆向的 Google ImageFX (Imagen) 图像生成 API 封装**
 

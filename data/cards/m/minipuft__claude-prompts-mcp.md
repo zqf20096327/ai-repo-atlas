@@ -1,6 +1,6 @@
 # minipuft/claude-prompts-mcp
 
-⭐ 189 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/minipuft/claude-prompts-mcp) · [官网](https://github.com/minipuft/claude-prompts-mcp/tree/main/docs) · 个人维护
+⭐ 190 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/minipuft/claude-prompts-mcp) · [官网](https://github.com/minipuft/claude-prompts-mcp/tree/main/docs) · 个人维护
 
 **给 AI 编码客户端加可复用提示词模板与工作流的 MCP 服务器**
 

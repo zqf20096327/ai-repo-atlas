@@ -1,6 +1,6 @@
 # data-goblin/power-bi-agentic-development
 
-⭐ 1,065 · C# · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/data-goblin/power-bi-agentic-development) · [官网](https://data-goblins.com) · 个人维护
+⭐ 1,066 · C# · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/data-goblin/power-bi-agentic-development) · [官网](https://data-goblins.com) · 个人维护
 
 **Power BI/Fabric 的 Claude Code 与 Copilot 插件市场：技能、子代理与钩子**
 

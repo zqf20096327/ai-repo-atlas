@@ -1,6 +1,6 @@
 # qubvel-org/segmentation_models.pytorch
 
-⭐ 11,779 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/qubvel-org/segmentation_models.pytorch) · [官网](https://smp.readthedocs.io/) · 组织维护
+⭐ 11,780 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/qubvel-org/segmentation_models.pytorch) · [官网](https://smp.readthedocs.io/) · 组织维护
 
 **PyTorch 图像语义分割模型库：12 种架构与 800+ 预训练编码器**
 

@@ -1,6 +1,6 @@
 # dean9703111/ai-agent-skill-for-video-workflow
 
-⭐ 219 · Python · 推送 2026-01-28 · [GitHub](https://github.com/dean9703111/ai-agent-skill-for-video-workflow) · [官网](https://youtu.be/xe00zJEtuMo) · 个人维护 · 中文 README
+⭐ 220 · Python · 推送 2026-01-28 · [GitHub](https://github.com/dean9703111/ai-agent-skill-for-video-workflow) · [官网](https://youtu.be/xe00zJEtuMo) · 个人维护 · 中文 README
 
 **影片字幕处理 AI Agent Skills 集合：转字幕、优化、字卡、社群摘要**
 

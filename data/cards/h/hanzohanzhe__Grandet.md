@@ -1,6 +1,6 @@
 # hanzohanzhe/Grandet
 
-⭐ 712 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/hanzohanzhe/Grandet) · [官网](https://grandet.ai) · 组织维护 · 中文 README
+⭐ 769 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/hanzohanzhe/Grandet) · [官网](https://grandet.ai) · 组织维护 · 中文 README
 
 **为 AI agent 查找并接入各渠道最低价模型 API 的技能与 MCP 服务**
 

@@ -1,6 +1,6 @@
 # nwtgck/naidan
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nwtgck/naidan) · [官网](https://naidan.pages.dev/) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nwtgck/naidan) · [官网](https://naidan.pages.dev/) · 个人维护
 
 **浏览器内本地优先 AI 应用：隐私对话与端上模型运行**
 

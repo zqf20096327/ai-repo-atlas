@@ -1,6 +1,6 @@
 # genesisinteractive/LiveTalk-Unity
 
-⭐ 53 · C# · MIT · 推送 2026-10-04 · [GitHub](https://github.com/genesisinteractive/LiveTalk-Unity) · 组织维护
+⭐ 53 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/genesisinteractive/LiveTalk-Unity) · 组织维护
 
 **Unity 端侧数字人库：输入肖像与文本生成本地语音与口型视频**
 

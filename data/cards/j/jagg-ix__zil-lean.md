@@ -1,6 +1,6 @@
 # jagg-ix/zil-lean
 
-⭐ 34 · Lean · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/jagg-ix/zil-lean) · 个人维护
+⭐ 34 · Lean · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jagg-ix/zil-lean) · 个人维护
 
 **基于 Lean 4 的关系型 DSL：描述对象关系与派生规则供多方查询**
 

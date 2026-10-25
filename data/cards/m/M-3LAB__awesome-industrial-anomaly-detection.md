@@ -1,6 +1,6 @@
 # M-3LAB/awesome-industrial-anomaly-detection
 
-⭐ 3,835 · 推送 2026-10-23 · [GitHub](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) · [官网](https://link.springer.com/content/pdf/10.1007/s11633-023-1459-z.pdf) · 组织维护 · 中文 README
+⭐ 3,836 · 推送 2026-10-23 · [GitHub](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) · [官网](https://link.springer.com/content/pdf/10.1007/s11633-023-1459-z.pdf) · 组织维护 · 中文 README
 
 **工业图像异常/瑕疵检测论文与数据集的策展清单（持续更新）**
 

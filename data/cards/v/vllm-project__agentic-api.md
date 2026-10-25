@@ -1,6 +1,6 @@
 # vllm-project/agentic-api
 
-⭐ 333 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vllm-project/agentic-api) · [官网](https://vllm-project.github.io/agentic-api/) · 组织维护
+⭐ 333 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/agentic-api) · [官网](https://vllm-project.github.io/agentic-api/) · 组织维护
 
 **为 vLLM 等推理后端提供有状态 agentic API 的 Rust 网关**
 

@@ -1,6 +1,6 @@
 # elgorro/aiquila
 
-⭐ 39 · PHP · MIT · 推送 2026-10-24 · [GitHub](https://github.com/elgorro/aiquila) · 个人维护
+⭐ 39 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/elgorro/aiquila) · 个人维护
 
 **自托管 Nextcloud 的私有 AI 套件：MCP 服务、原生应用与一键部署**
 

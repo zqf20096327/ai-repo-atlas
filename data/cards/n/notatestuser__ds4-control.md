@@ -1,6 +1,6 @@
 # notatestuser/ds4-control
 
-⭐ 888 · Swift · MIT · 推送 2026-09-19 · [GitHub](https://github.com/notatestuser/ds4-control) · [官网](https://github.com/antirez/ds4) · 个人维护
+⭐ 889 · Swift · MIT · 推送 2026-09-19 · [GitHub](https://github.com/notatestuser/ds4-control) · [官网](https://github.com/antirez/ds4) · 个人维护
 
 **macOS 菜单栏应用：启动并监管本地 DeepSeek V4 系列模型服务**
 

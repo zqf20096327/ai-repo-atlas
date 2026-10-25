@@ -1,6 +1,6 @@
 # linghungegeg/Linghun
 
-⭐ 459 · TypeScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/linghungegeg/Linghun) · 个人维护 · 中文 README
+⭐ 463 · TypeScript · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/linghungegeg/Linghun) · 个人维护 · 中文 README
 
 **本地优先、证据优先的 AI 编程终端，供开发者用自然语言驱动真实工程闭环**
 

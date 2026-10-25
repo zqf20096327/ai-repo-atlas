@@ -1,6 +1,6 @@
 # Arthur-Ficial/apfel
 
-⭐ 6,521 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Arthur-Ficial/apfel) · [官网](https://apfel.franzai.com) · 个人维护
+⭐ 6,524 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Arthur-Ficial/apfel) · [官网](https://apfel.franzai.com) · 个人维护
 
 **把 Apple Intelligence 内置模型暴露为 CLI 与本机 OpenAI 兼容服务器**
 

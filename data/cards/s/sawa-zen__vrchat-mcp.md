@@ -1,6 +1,6 @@
 # sawa-zen/vrchat-mcp
 
-⭐ 68 · TypeScript · MIT · 推送 2026-02-03 · [GitHub](https://github.com/sawa-zen/vrchat-mcp) · 个人维护
+⭐ 69 · TypeScript · MIT · 推送 2026-02-03 · [GitHub](https://github.com/sawa-zen/vrchat-mcp) · 个人维护
 
 **让 AI 客户端通过 MCP 访问 VRChat API 的服务器**
 

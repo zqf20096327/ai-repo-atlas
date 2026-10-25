@@ -1,6 +1,6 @@
 # Realistic-Farming/FS25_NPCFavor
 
-⭐ 34 · Lua · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Realistic-Farming/FS25_NPCFavor) · [官网](https://discord.gg/sJyKJCJh) · 组织维护
+⭐ 34 · Lua · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Realistic-Farming/FS25_NPCFavor) · [官网](https://discord.gg/sJyKJCJh) · 组织维护
 
 **Farming Simulator 25 生活化 NPC 邻居模组：AI 日程与好感系统**
 

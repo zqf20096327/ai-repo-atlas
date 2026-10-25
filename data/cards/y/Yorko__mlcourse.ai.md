@@ -1,6 +1,6 @@
 # Yorko/mlcourse.ai
 
-⭐ 10,767 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/Yorko/mlcourse.ai) · [官网](https://mlcourse.ai) · 个人维护 · 中文 README
+⭐ 10,768 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/Yorko/mlcourse.ai) · [官网](https://mlcourse.ai) · 个人维护 · 中文 README
 
 **自学模式的开源机器学习课程：讲义、视频与作业**
 

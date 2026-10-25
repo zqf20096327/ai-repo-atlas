@@ -1,6 +1,6 @@
 # apoorwa-induwara/code-and-carousel
 
-⭐ 56 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/apoorwa-induwara/code-and-carousel) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/apoorwa-induwara/code-and-carousel) · 个人维护
 
 **面向 IT 从业者的实践技能学习平台，含 AI 虚拟学员陪练**
 

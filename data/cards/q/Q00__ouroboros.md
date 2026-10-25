@@ -1,6 +1,6 @@
 # Q00/ouroboros
 
-⭐ 6,268 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Q00/ouroboros) · [官网](https://ouroboros.page/) · 个人维护 · 中文 README
+⭐ 6,274 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Q00/ouroboros) · [官网](https://ouroboros.page/) · 个人维护 · 中文 README
 
 **面向 AI 编程 agent 的本地工作流运行时（Agent OS）**
 

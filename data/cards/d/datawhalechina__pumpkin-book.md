@@ -1,6 +1,6 @@
 # datawhalechina/pumpkin-book
 
-⭐ 26,138 · NOASSERTION · 推送 2026-04-22 · [GitHub](https://github.com/datawhalechina/pumpkin-book) · 组织维护 · 中文 README
+⭐ 26,139 · NOASSERTION · 推送 2026-04-22 · [GitHub](https://github.com/datawhalechina/pumpkin-book) · 组织维护 · 中文 README
 
 **机器学习学习者的西瓜书公式推导详解笔记**
 

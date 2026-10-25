@@ -1,6 +1,6 @@
 # zi-yue-1129/ai-discord-bot-PigPig
 
-⭐ 50 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zi-yue-1129/ai-discord-bot-PigPig) · [官网](https://zi-yue-1129.github.io/ai-discord-bot-PigPig/) · 个人维护 · 中文 README
+⭐ 50 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zi-yue-1129/ai-discord-bot-PigPig) · [官网](https://zi-yue-1129.github.io/ai-discord-bot-PigPig/) · 个人维护 · 中文 README
 
 **基于多模态 LLM 的 Discord 对话机器人：自然语言交互与社区功能**
 

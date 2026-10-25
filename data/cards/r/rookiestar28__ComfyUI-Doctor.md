@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI-Doctor
 
-⭐ 76 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/rookiestar28/ComfyUI-Doctor) · 个人维护
+⭐ 76 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rookiestar28/ComfyUI-Doctor) · 个人维护
 
 **ComfyUI 实时诊断调试助手：捕获错误并给出修复建议**
 

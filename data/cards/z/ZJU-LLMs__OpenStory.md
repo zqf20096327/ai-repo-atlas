@@ -1,6 +1,6 @@
 # ZJU-LLMs/OpenStory
 
-⭐ 433 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/ZJU-LLMs/OpenStory) · 组织维护 · 中文 README
+⭐ 434 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/ZJU-LLMs/OpenStory) · 组织维护 · 中文 README
 
 **LLM 多智能体框架：模拟可交互、可演化的故事世界**
 

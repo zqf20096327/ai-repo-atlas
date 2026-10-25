@@ -1,6 +1,6 @@
 # gemron/Termexo
 
-⭐ 50 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/gemron/Termexo) · [官网](https://www.termexo.com) · 个人维护 · 中文 README
+⭐ 50 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gemron/Termexo) · [官网](https://www.termexo.com) · 个人维护 · 中文 README
 
 **Windows 工作台：统一运行并远程接管多个 AI 编码代理终端**
 

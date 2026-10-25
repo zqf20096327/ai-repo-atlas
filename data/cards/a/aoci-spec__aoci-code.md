@@ -1,6 +1,6 @@
 # aoci-spec/aoci-code
 
-⭐ 1,731 · Go · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/aoci-spec/aoci-code) · [官网](www.aoci.ai) · 组织维护 · 中文 README
+⭐ 1,740 · Go · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/aoci-spec/aoci-code) · [官网](www.aoci.ai) · 组织维护 · 中文 README
 
 **为编码 agent 提供代码库持久索引的本地 MCP 服务器与 CLI**
 

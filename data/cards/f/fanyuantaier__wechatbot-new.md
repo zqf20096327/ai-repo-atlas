@@ -1,6 +1,6 @@
 # fanyuantaier/wechatbot-new
 
-⭐ 99 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/fanyuantaier/wechatbot-new) · [官网](https://pypi.org/project/wechatbot-new/) · 个人维护 · 中文 README
+⭐ 101 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/fanyuantaier/wechatbot-new) · [官网](https://pypi.org/project/wechatbot-new/) · 个人维护 · 中文 README
 
 **调用 LLM 自动回复的微信聊天机器人，兼容微信 4.1.12+**
 

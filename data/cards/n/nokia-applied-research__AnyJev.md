@@ -1,6 +1,6 @@
 # nokia-applied-research/AnyJev
 
-⭐ 1,474 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/nokia-applied-research/AnyJev) · [官网](https://pypi.org/project/anyjev/) · 组织维护 · 中文 README
+⭐ 1,480 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/nokia-applied-research/AnyJev) · [官网](https://pypi.org/project/anyjev/) · 组织维护 · 中文 README
 
 **把任意 LLM 变成带概率的类型化决策模型（免训练/自蒸馏）**
 

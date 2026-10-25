@@ -1,6 +1,6 @@
 # llm-jp/awesome-japanese-llm
 
-⭐ 1,442 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/llm-jp/awesome-japanese-llm) · [官网](https://llm-jp.github.io/awesome-japanese-llm) · 组织维护
+⭐ 1,442 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/llm-jp/awesome-japanese-llm) · [官网](https://llm-jp.github.io/awesome-japanese-llm) · 组织维护
 
 **日本語 LLM 模型与评测基准的策展清单**
 

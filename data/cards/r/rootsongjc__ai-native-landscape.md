@@ -1,6 +1,6 @@
 # rootsongjc/ai-native-landscape
 
-⭐ 38 · Astro · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/rootsongjc/ai-native-landscape) · [官网](https://landscape.jimmysong.io) · 个人维护 · 中文 README
+⭐ 38 · Astro · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/rootsongjc/ai-native-landscape) · [官网](https://landscape.jimmysong.io) · 个人维护 · 中文 README
 
 **手工策展的开源 AI Native 项目清单站（600+ 项目）**
 

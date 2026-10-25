@@ -1,6 +1,6 @@
 # luqman-v1/9router-go
 
-⭐ 230 · Go · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/luqman-v1/9router-go) · [官网](https://luqman-v1.github.io/9router-go/) · 个人维护
+⭐ 232 · Go · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/luqman-v1/9router-go) · [官网](https://luqman-v1.github.io/9router-go/) · 个人维护
 
 **单二进制 Go 版 LLM 代理网关：路由 40+ 提供商并压缩 token**
 

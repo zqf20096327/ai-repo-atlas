@@ -1,6 +1,6 @@
 # e2b-dev/runtime
 
-⭐ 1,765 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/e2b-dev/runtime) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=runtime) · 组织维护
+⭐ 1,768 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/e2b-dev/runtime) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=runtime) · 组织维护
 
 **AI agent 沙箱运行时：Firecracker microVM 运行不受信代码**
 

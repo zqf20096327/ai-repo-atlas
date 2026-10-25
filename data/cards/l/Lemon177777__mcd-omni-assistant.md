@@ -1,6 +1,6 @@
 # Lemon177777/mcd-omni-assistant
 
-⭐ 84 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Lemon177777/mcd-omni-assistant) · 个人维护 · 中文 README
+⭐ 100 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Lemon177777/mcd-omni-assistant) · 个人维护 · 中文 README
 
 **基于麦当劳中国 MCP 的点餐 Agent Skill 与 CLI 通道**
 

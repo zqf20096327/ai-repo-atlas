@@ -1,6 +1,6 @@
 # bilibili/carocut
 
-⭐ 131 · TypeScript · NOASSERTION · 推送 2026-04-20 · [GitHub](https://github.com/bilibili/carocut) · 组织维护 · 中文 README
+⭐ 132 · TypeScript · NOASSERTION · 推送 2026-04-20 · [GitHub](https://github.com/bilibili/carocut) · 组织维护 · 中文 README
 
 **多 Agent 协作的端到端自动化视频生产平台**
 

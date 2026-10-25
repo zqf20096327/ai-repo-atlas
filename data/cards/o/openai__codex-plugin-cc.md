@@ -1,6 +1,6 @@
 # openai/codex-plugin-cc
 
-⭐ 34,536 · JavaScript · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/openai/codex-plugin-cc) · 组织维护
+⭐ 34,564 · JavaScript · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/openai/codex-plugin-cc) · 组织维护
 
 **让 Claude Code 用户调用 Codex 做代码审查与任务委派的插件**
 

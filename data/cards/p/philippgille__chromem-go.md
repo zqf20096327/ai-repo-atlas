@@ -1,6 +1,6 @@
 # philippgille/chromem-go
 
-⭐ 1,071 · Go · MPL-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/philippgille/chromem-go) · 个人维护
+⭐ 1,072 · Go · MPL-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/philippgille/chromem-go) · 个人维护
 
 **可嵌入 Go 应用的向量数据库，零第三方依赖，支持 RAG**
 

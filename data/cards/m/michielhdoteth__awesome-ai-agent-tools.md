@@ -1,6 +1,6 @@
 # michielhdoteth/awesome-ai-agent-tools
 
-⭐ 44 · JavaScript · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/michielhdoteth/awesome-ai-agent-tools) · [官网](https://awesome-ai-agent-tools.vercel.app) · 个人维护
+⭐ 47 · JavaScript · CC0-1.0 · 推送 2026-10-25 · [GitHub](https://github.com/michielhdoteth/awesome-ai-agent-tools) · [官网](https://awesome-ai-agent-tools.vercel.app) · 个人维护
 
 **AI 编程助手可安装组件的策展清单（644 项，8 类）**
 

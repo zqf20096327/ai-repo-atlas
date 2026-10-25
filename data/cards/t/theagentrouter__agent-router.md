@@ -1,6 +1,6 @@
 # theagentrouter/agent-router
 
-⭐ 2,284 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/theagentrouter/agent-router) · [官网](https://theagentrouter.ai/) · 组织维护
+⭐ 2,289 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/theagentrouter/agent-router) · [官网](https://theagentrouter.ai/) · 组织维护
 
 **基于 Envoy 的 AI 网关：统一接入各家模型与自托管推理**
 

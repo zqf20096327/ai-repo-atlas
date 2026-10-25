@@ -1,6 +1,6 @@
 # openai/openai-mcpkit
 
-⭐ 85 · Python · 推送 2026-08-07 · [GitHub](https://github.com/openai/openai-mcpkit) · 组织维护
+⭐ 86 · Python · 推送 2026-08-07 · [GitHub](https://github.com/openai/openai-mcpkit) · 组织维护
 
 **企业级带认证 MCP 服务器脚手架，向 ChatGPT 接入专有数据**
 

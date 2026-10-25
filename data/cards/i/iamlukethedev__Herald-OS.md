@@ -1,6 +1,6 @@
 # iamlukethedev/Herald-OS
 
-⭐ 552 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/iamlukethedev/Herald-OS) · 个人维护
+⭐ 560 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/iamlukethedev/Herald-OS) · 个人维护
 
 **以 AI agent 为交互界面的操作系统（macOS/Linux）**
 

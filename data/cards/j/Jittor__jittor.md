@@ -1,6 +1,6 @@
 # Jittor/jittor
 
-⭐ 3,240 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Jittor/jittor) · [官网](https://cg.cs.tsinghua.edu.cn/jittor/) · 组织维护 · 中文 README
+⭐ 3,241 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Jittor/jittor) · [官网](https://cg.cs.tsinghua.edu.cn/jittor/) · 组织维护 · 中文 README
 
 **基于 JIT 编译与元算子的深度学习框架，面向研究者与开发者**
 

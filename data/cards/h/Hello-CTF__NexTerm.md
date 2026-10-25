@@ -1,6 +1,6 @@
 # Hello-CTF/NexTerm
 
-⭐ 63 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Hello-CTF/NexTerm) · [官网](https://nexterm.work) · 组织维护 · 中文 README
+⭐ 63 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hello-CTF/NexTerm) · [官网](https://nexterm.work) · 组织维护 · 中文 README
 
 **自托管的多协议终端工作台，内置 AI 运维助手**
 

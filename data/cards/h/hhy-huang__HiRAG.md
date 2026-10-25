@@ -1,6 +1,6 @@
 # hhy-huang/HiRAG
 
-⭐ 556 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/hhy-huang/HiRAG) · [官网](https://arxiv.org/pdf/2503.10150) · 组织维护
+⭐ 555 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/hhy-huang/HiRAG) · [官网](https://arxiv.org/pdf/2503.10150) · 组织维护
 
 **基于分层知识的 Graph RAG 系统，EMNLP 2025 Findings 论文**
 

@@ -1,6 +1,6 @@
 # samugit83/redamon
 
-⭐ 3,205 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/samugit83/redamon) · [官网](https://www.redamon.org) · 个人维护
+⭐ 3,212 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/samugit83/redamon) · [官网](https://www.redamon.org) · 个人维护
 
 **自主 AI 渗透测试框架：侦察→利用→修复→开 PR 全流水线**
 

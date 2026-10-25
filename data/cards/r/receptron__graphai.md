@@ -1,6 +1,6 @@
 # receptron/graphai
 
-⭐ 373 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/receptron/graphai) · [官网](https://graphai.info) · 组织维护
+⭐ 373 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/receptron/graphai) · [官网](https://graphai.info) · 组织维护
 
 **异步数据流执行引擎：用 YAML/JSON 声明式构建 agent 应用**
 

@@ -1,6 +1,6 @@
 # r14dd/patent
 
-⭐ 553 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/r14dd/patent) · [官网](https://crates.io/crates/patent) · 个人维护
+⭐ 557 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/r14dd/patent) · [官网](https://crates.io/crates/patent) · 个人维护
 
 **开发工具创意的现有技术检索 CLI：查想法是否已被实现**
 

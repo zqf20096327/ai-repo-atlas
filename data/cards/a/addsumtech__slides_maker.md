@@ -1,6 +1,6 @@
 # addsumtech/slides_maker
 
-⭐ 618 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/addsumtech/slides_maker) · [官网](https://slides.addsum.top) · 组织维护 · 中文 README
+⭐ 623 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/addsumtech/slides_maker) · [官网](https://slides.addsum.top) · 组织维护 · 中文 README
 
 **在 Codex/Claude Code 中把论文/代码/文档生成为可编辑 PPTX**
 

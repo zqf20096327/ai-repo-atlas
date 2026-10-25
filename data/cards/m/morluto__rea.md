@@ -1,6 +1,6 @@
 # morluto/rea
 
-⭐ 377,057 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/morluto/rea) · [官网](https://rea.tools) · 组织维护
+⭐ 383,201 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/morluto/rea) · [官网](https://rea.tools) · 组织维护
 
 **面向 AI agent 的逆向工程 MCP 工具集：分析二进制、应用与运行时行为**
 

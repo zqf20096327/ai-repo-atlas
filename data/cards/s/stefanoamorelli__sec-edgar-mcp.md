@@ -1,6 +1,6 @@
 # stefanoamorelli/sec-edgar-mcp
 
-⭐ 374 · Python · AGPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/stefanoamorelli/sec-edgar-mcp) · [官网](https://sec-edgar-mcp.amorelli.tech/) · 个人维护
+⭐ 377 · Python · AGPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/stefanoamorelli/sec-edgar-mcp) · [官网](https://sec-edgar-mcp.amorelli.tech/) · 个人维护
 
 **供 AI 助手访问 SEC EDGAR 财务数据的 MCP 服务器**
 

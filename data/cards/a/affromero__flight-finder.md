@@ -1,6 +1,6 @@
 # affromero/flight-finder
 
-⭐ 175 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/affromero/flight-finder) · [官网](https://flight-finder.org) · 个人维护
+⭐ 176 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/affromero/flight-finder) · [官网](https://flight-finder.org) · 个人维护
 
 **自托管机票/酒店/租车价格追踪应用，支持自然语言搜索**
 

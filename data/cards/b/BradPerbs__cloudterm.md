@@ -1,6 +1,6 @@
 # BradPerbs/cloudterm
 
-⭐ 66 · JavaScript · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/BradPerbs/cloudterm) · [官网](https://cloudblast.io/terminal) · 组织维护 · 中文 README
+⭐ 68 · JavaScript · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/BradPerbs/cloudterm) · [官网](https://cloudblast.io/terminal) · 组织维护 · 中文 README
 
 **集成 AI agent 的多协议终端：SSH/SFTP/Telnet/RDP 同窗**
 

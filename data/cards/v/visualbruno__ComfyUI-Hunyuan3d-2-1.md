@@ -1,6 +1,6 @@
 # visualbruno/ComfyUI-Hunyuan3d-2-1
 
-⭐ 389 · Python · NOASSERTION · 推送 2026-09-08 · [GitHub](https://github.com/visualbruno/ComfyUI-Hunyuan3d-2-1) · 个人维护
+⭐ 390 · Python · NOASSERTION · 推送 2026-09-08 · [GitHub](https://github.com/visualbruno/ComfyUI-Hunyuan3d-2-1) · 个人维护
 
 **ComfyUI 中运行腾讯 Hunyuan3D-2.1 的图生 3D 自定义节点封装**
 

@@ -1,6 +1,6 @@
 # tuya/TuyaOpen
 
-⭐ 1,893 · C · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/tuya/TuyaOpen) · [官网](https://tuyaopen.ai) · 组织维护 · 中文 README
+⭐ 1,897 · C · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/tuya/TuyaOpen) · [官网](https://tuyaopen.ai) · 组织维护 · 中文 README
 
 **面向 IoT 硬件开发者的 AI+IoT 嵌入式 C/C++ SDK**
 

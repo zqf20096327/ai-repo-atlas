@@ -1,6 +1,6 @@
 # agenticfabriq/mnemiq
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/agenticfabriq/mnemiq) · [官网](https://www.agenticfabriq.com/mnemiq) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/agenticfabriq/mnemiq) · [官网](https://www.agenticfabriq.com/mnemiq) · 组织维护
 
 **可在自有数据库上调参与评测的开源 text-to-SQL 引擎**
 

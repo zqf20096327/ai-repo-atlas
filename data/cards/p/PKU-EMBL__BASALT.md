@@ -1,6 +1,6 @@
 # PKU-EMBL/BASALT
 
-⭐ 225 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/PKU-EMBL/BASALT) · [官网](https://basalt-guide.readthedocs.io/en/latest/) · 组织维护 · 中文 README
+⭐ 226 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/PKU-EMBL/BASALT) · [官网](https://basalt-guide.readthedocs.io/en/latest/) · 组织维护 · 中文 README
 
 **宏基因组分箱工具包：从组装与测序数据恢复并精修 MAGs**
 

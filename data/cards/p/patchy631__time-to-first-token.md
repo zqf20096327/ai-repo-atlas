@@ -1,6 +1,6 @@
 # patchy631/time-to-first-token
 
-⭐ 1,004 · HTML · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/patchy631/time-to-first-token) · 个人维护
+⭐ 1,008 · HTML · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/patchy631/time-to-first-token) · 个人维护
 
 **10 周 LLM 推理服务与优化实操学习路线图**
 

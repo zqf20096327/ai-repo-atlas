@@ -1,6 +1,6 @@
 # s-nagaev/chibi
 
-⭐ 55 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/s-nagaev/chibi) · [官网](https://chibi.bot) · 个人维护 · 中文 README
+⭐ 55 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/s-nagaev/chibi) · [官网](https://chibi.bot) · 个人维护 · 中文 README
 
 **自托管的 Telegram AI 伴侣机器人，编排多家模型提供商与工具**
 

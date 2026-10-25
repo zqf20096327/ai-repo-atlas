@@ -1,6 +1,6 @@
 # open-webui/desktop
 
-⭐ 3,012 · Svelte · AGPL-3.0 · 推送 2026-05-06 · [GitHub](https://github.com/open-webui/desktop) · [官网](https://openwebui.com) · 组织维护
+⭐ 3,016 · Svelte · AGPL-3.0 · 推送 2026-05-06 · [GitHub](https://github.com/open-webui/desktop) · [官网](https://openwebui.com) · 组织维护
 
 **Open WebUI 桌面原生应用：本地跑模型或连接远程服务器聊天**
 

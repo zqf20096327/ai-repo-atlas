@@ -1,6 +1,6 @@
 # groundingpi/GroundAnything
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/groundingpi/GroundAnything) · [官网](https://groundingpi.github.io/groundanything/) · 组织维护 · 中文 README
+⭐ 96 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/groundingpi/GroundAnything) · [官网](https://groundingpi.github.io/groundanything/) · 组织维护 · 中文 README
 
 **4B 扩散视觉定位基础模型：统一多类 grounding 任务并并行解码加速**
 

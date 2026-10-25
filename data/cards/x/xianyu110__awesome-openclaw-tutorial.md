@@ -1,6 +1,6 @@
 # xianyu110/awesome-openclaw-tutorial
 
-⭐ 4,572 · Shell · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/xianyu110/awesome-openclaw-tutorial) · [官网](https://awesome.tryopenclaw.asia/) · 个人维护 · 中文 README
+⭐ 4,573 · Shell · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/xianyu110/awesome-openclaw-tutorial) · [官网](https://awesome.tryopenclaw.asia/) · 个人维护 · 中文 README
 
 **OpenClaw 中文教程仓库：408,000字教程+避坑指南**
 

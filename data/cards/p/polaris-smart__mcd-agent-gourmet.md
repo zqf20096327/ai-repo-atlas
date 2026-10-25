@@ -1,6 +1,6 @@
 # polaris-smart/mcd-agent-gourmet
 
-⭐ 90 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/polaris-smart/mcd-agent-gourmet) · [官网](https://polaris-smart.github.io/mcd-agent-gourmet/) · 个人维护 · 中文 README
+⭐ 150 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/polaris-smart/mcd-agent-gourmet) · [官网](https://polaris-smart.github.io/mcd-agent-gourmet/) · 个人维护 · 中文 README
 
 **麦当劳点餐决策工具：用官方核价算清这一餐怎么点最划算**
 

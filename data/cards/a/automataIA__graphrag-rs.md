@@ -1,6 +1,6 @@
 # automataIA/graphrag-rs
 
-⭐ 534 · Rust · MIT · 推送 2026-06-02 · [GitHub](https://github.com/automataIA/graphrag-rs) · [官网](https://automataia.github.io/graphrag-rs/) · 个人维护
+⭐ 535 · Rust · MIT · 推送 2026-06-02 · [GitHub](https://github.com/automataIA/graphrag-rs) · [官网](https://automataia.github.io/graphrag-rs/) · 个人维护
 
 **Rust 实现的 GraphRAG 框架：从文档构建知识图谱并用自然语言查询**
 

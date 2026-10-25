@@ -1,6 +1,6 @@
 # dalisoft/awesome-ai-coding
 
-⭐ 43 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/dalisoft/awesome-ai-coding) · 个人维护
+⭐ 43 · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dalisoft/awesome-ai-coding) · 个人维护
 
 **AI 编程工具价格对比清单：按最低套餐价排序编目**
 

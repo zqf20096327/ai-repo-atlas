@@ -1,6 +1,6 @@
 # Obedience-Corp/festival
 
-⭐ 84 · Shell · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Obedience-Corp/festival) · [官网](https://fest.build) · 组织维护 · 中文 README
+⭐ 88 · Shell · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Obedience-Corp/festival) · [官网](https://fest.build) · 组织维护 · 中文 README
 
 **面向 AI 编码 agent 的工作流编排框架，用文件系统与 Git 组织意图与任务循环**
 

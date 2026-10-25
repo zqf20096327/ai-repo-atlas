@@ -1,6 +1,6 @@
 # waybarrios/vllm-mlx
 
-⭐ 1,637 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/waybarrios/vllm-mlx) · [官网](https://vllm-mlx.is-a.dev/) · 个人维护 · 中文 README
+⭐ 1,638 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/waybarrios/vllm-mlx) · [官网](https://vllm-mlx.is-a.dev/) · 个人维护 · 中文 README
 
 **Apple Silicon 上的本地 LLM 推理服务器：OpenAI/Anthropic 双协议**
 

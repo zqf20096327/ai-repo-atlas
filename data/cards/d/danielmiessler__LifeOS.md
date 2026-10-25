@@ -1,6 +1,6 @@
 # danielmiessler/LifeOS
 
-⭐ 19,569 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/danielmiessler/LifeOS) · [官网](https://ourlifeos.ai) · 个人维护
+⭐ 19,579 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/danielmiessler/LifeOS) · [官网](https://ourlifeos.ai) · 个人维护
 
 **个人 AI 操作系统：让 AI 基于你的上下文推动你达成目标**
 

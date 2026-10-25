@@ -1,6 +1,6 @@
 # pnegahdar/nano
 
-⭐ 181 · Python · 推送 2026-05-17 · [GitHub](https://github.com/pnegahdar/nano) · 个人维护
+⭐ 180 · Python · 推送 2026-05-17 · [GitHub](https://github.com/pnegahdar/nano) · 个人维护
 
 **单文件零依赖的命令行编码 Agent：读仓库、执行命令、修复任务**
 

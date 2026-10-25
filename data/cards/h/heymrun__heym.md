@@ -1,6 +1,6 @@
 # heymrun/heym
 
-⭐ 1,258 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/heymrun/heym) · [官网](https://heym.run) · 组织维护
+⭐ 1,262 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/heymrun/heym) · [官网](https://heym.run) · 组织维护
 
 **自托管的 agent 系统构建与运行平台，覆盖编排/评测/人审**
 

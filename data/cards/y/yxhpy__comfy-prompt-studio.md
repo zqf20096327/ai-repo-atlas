@@ -1,6 +1,6 @@
 # yxhpy/comfy-prompt-studio
 
-⭐ 85 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/yxhpy/comfy-prompt-studio) · 个人维护 · 中文 README
+⭐ 84 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/yxhpy/comfy-prompt-studio) · 个人维护 · 中文 README
 
 **AI图像生成Web应用：LLM提示词增强+ComfyUI工作流+实时推送**
 

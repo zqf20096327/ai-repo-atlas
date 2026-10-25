@@ -1,6 +1,6 @@
 # oliexe/paseo-bots
 
-⭐ 47 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/oliexe/paseo-bots) · [官网](https://www.npmjs.com/package/@oliexe/paseo-bots) · 个人维护
+⭐ 50 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/oliexe/paseo-bots) · [官网](https://www.npmjs.com/package/@oliexe/paseo-bots) · 个人维护
 
 **Paseo 的个人 AI bot 插件：创建带记忆与技能的像素 bot**
 

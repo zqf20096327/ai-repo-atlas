@@ -1,6 +1,6 @@
 # hollobit/ai-native
 
-⭐ 36 · HTML · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/hollobit/ai-native) · 个人维护
+⭐ 40 · HTML · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hollobit/ai-native) · 个人维护
 
 **韩文电子书《AI 原生手册 2026》：以电力比喻讲解 AI 原生时代**
 

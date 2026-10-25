@@ -1,6 +1,6 @@
 # bilibili/Index-1.9B
 
-⭐ 1,036 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bilibili/Index-1.9B) · 组织维护 · 中文 README
+⭐ 1,037 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bilibili/Index-1.9B) · 组织维护 · 中文 README
 
 **B 站开源的 1.9B 轻量多语言对话与角色扮演模型系列**
 

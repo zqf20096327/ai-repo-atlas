@@ -1,6 +1,6 @@
 # prasenjeet-symon/ogcode
 
-⭐ 143 · Go · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/prasenjeet-symon/ogcode) · [官网](https://ogcode.in) · 组织维护
+⭐ 143 · Go · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/prasenjeet-symon/ogcode) · [官网](https://ogcode.in) · 组织维护
 
 **自托管的 AI 编程 Agent：理解代码库并完成开发工作**
 

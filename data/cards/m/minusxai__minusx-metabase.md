@@ -1,6 +1,6 @@
 # minusxai/minusx-metabase
 
-⭐ 351 · TypeScript · MIT · 推送 2026-06-12 · [GitHub](https://github.com/minusxai/minusx-metabase) · [官网](https://minusx.ai) · 组织维护
+⭐ 351 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/minusxai/minusx-metabase) · [官网](https://minusx.ai) · 组织维护
 
 **嵌入 Metabase 的 AI 数据分析师浏览器扩展**
 

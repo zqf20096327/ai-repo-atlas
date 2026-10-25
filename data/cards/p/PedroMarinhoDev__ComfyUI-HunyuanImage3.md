@@ -1,6 +1,6 @@
 # PedroMarinhoDev/ComfyUI-HunyuanImage3
 
-⭐ 43 · Python · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-HunyuanImage3) · 个人维护
+⭐ 44 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-HunyuanImage3) · 个人维护
 
 **在 ComfyUI 中单卡 24GB 原生运行腾讯 HunyuanImage-3.0 的节点包**
 

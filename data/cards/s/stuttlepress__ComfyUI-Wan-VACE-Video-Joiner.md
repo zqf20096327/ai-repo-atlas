@@ -1,6 +1,6 @@
 # stuttlepress/ComfyUI-Wan-VACE-Video-Joiner
 
-⭐ 107 · MIT · 推送 2026-04-11 · [GitHub](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Video-Joiner) · 个人维护
+⭐ 109 · MIT · 推送 2026-04-11 · [GitHub](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Video-Joiner) · 个人维护
 
 **用 Wan VACE 生成转场帧、自动拼接视频片段的 ComfyUI 工作流**
 

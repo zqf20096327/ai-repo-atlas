@@ -1,6 +1,6 @@
 # SudoJacky/tinybot
 
-⭐ 153 · Rust · MIT · 推送 2026-10-09 · [GitHub](https://github.com/SudoJacky/tinybot) · [官网](https://sudojacky.github.io/tinybot/) · 个人维护 · 中文 README
+⭐ 154 · Rust · MIT · 推送 2026-10-09 · [GitHub](https://github.com/SudoJacky/tinybot) · [官网](https://sudojacky.github.io/tinybot/) · 个人维护 · 中文 README
 
 **桌面端个人 AI 助手：对话+原生工具+插件+Agent Graph**
 

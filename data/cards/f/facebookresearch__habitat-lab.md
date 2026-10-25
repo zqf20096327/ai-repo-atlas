@@ -1,6 +1,6 @@
 # facebookresearch/habitat-lab
 
-⭐ 3,167 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/facebookresearch/habitat-lab) · [官网](https://aihabitat.org/) · 组织维护
+⭐ 3,168 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/facebookresearch/habitat-lab) · [官网](https://aihabitat.org/) · 组织维护
 
 **训练具身智能体的模块化高层库：室内仿真任务端到端开发**
 

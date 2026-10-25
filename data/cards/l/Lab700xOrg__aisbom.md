@@ -1,6 +1,6 @@
 # Lab700xOrg/aisbom
 
-⭐ 83 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Lab700xOrg/aisbom) · [官网](https://www.aisbom.io/) · 组织维护
+⭐ 83 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Lab700xOrg/aisbom) · [官网](https://www.aisbom.io/) · 组织维护
 
 **ML 模型文件静态安全扫描器，生成 AIBOM 合规证据**
 

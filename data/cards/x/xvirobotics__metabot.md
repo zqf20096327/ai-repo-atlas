@@ -1,6 +1,6 @@
 # xvirobotics/metabot
 
-⭐ 997 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/xvirobotics/metabot) · [官网](https://xvirobotics.com/metabot/) · 组织维护 · 中文 README
+⭐ 997 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/xvirobotics/metabot) · [官网](https://xvirobotics.com/metabot/) · 组织维护 · 中文 README
 
 **自托管个人 Agent 工作台：从飞书/Telegram 等聊天端驱动编码 Agent**
 

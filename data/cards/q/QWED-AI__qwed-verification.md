@@ -1,6 +1,6 @@
 # QWED-AI/qwed-verification
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/QWED-AI/qwed-verification) · [官网](https://docs.qwedai.tech) · 个人维护
+⭐ 61 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/QWED-AI/qwed-verification) · [官网](https://docs.qwedai.tech) · 个人维护
 
 **LLM/AI 输出的确定性验证层：生产执行前判定可否放行**
 

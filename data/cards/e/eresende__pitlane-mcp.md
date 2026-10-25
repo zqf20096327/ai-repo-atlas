@@ -1,6 +1,6 @@
 # eresende/pitlane-mcp
 
-⭐ 76 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/eresende/pitlane-mcp) · 个人维护
+⭐ 76 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/eresende/pitlane-mcp) · 个人维护
 
 **面向 AI 编程代理的代码索引与符号级检索 MCP 服务器**
 

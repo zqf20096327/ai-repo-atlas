@@ -1,6 +1,6 @@
 # grpcer/tokpet
 
-⭐ 105 · C · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/grpcer/tokpet) · [官网](https://www.npmjs.com/package/tokpet) · 组织维护 · 中文 README
+⭐ 106 · C · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/grpcer/tokpet) · [官网](https://www.npmjs.com/package/tokpet) · 组织维护 · 中文 README
 
 **把各 AI 服务用量/余额聚合成一个本地桌面宠物显示**
 

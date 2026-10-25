@@ -1,6 +1,6 @@
 # xerj-org/xerj
 
-⭐ 15,221 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/xerj-org/xerj) · [官网](https://xerj.org) · 组织维护
+⭐ 15,485 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/xerj-org/xerj) · [官网](https://xerj.org) · 组织维护
 
 **本地 AI 搜索引擎：一条命令索引任意文件夹供 agent 检索**
 

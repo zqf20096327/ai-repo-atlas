@@ -1,6 +1,6 @@
 # ZenHG/ComfyUI-H3-Latent-Relay
 
-⭐ 38 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ZenHG/ComfyUI-H3-Latent-Relay) · [官网](https://registry.comfy.org/nodes/h3-latent-relay) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ZenHG/ComfyUI-H3-Latent-Relay) · [官网](https://registry.comfy.org/nodes/h3-latent-relay) · 个人维护 · 中文 README
 
 **MiniMax-H3 多段视频续接的 ComfyUI 节点包：latent 桥零重编码**
 

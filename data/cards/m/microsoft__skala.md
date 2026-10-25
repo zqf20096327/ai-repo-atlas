@@ -1,6 +1,6 @@
 # microsoft/skala
 
-⭐ 266 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/skala) · [官网](https://aka.ms/dft) · 组织维护
+⭐ 266 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/skala) · [官网](https://aka.ms/dft) · 组织维护
 
 **深度学习 DFT 交换相关泛函，供量子化学计算使用**
 

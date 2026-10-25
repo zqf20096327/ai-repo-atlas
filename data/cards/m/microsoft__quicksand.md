@@ -1,6 +1,6 @@
 # microsoft/quicksand
 
-⭐ 358 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/quicksand) · [官网](https://microsoft.github.io/quicksand/) · 组织维护
+⭐ 359 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/quicksand) · [官网](https://microsoft.github.io/quicksand/) · 组织维护
 
 **面向 AI agent 沙箱化的 QEMU 虚拟机异步 Python API**
 

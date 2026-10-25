@@ -1,6 +1,6 @@
 # pytorch/executorch
 
-⭐ 5,120 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/pytorch/executorch) · [官网](https://executorch.ai) · 组织维护
+⭐ 5,122 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/pytorch/executorch) · [官网](https://executorch.ai) · 组织维护
 
 **PyTorch 官方端侧 AI 推理栈：在手机、嵌入式与边缘设备本地运行模型**
 

@@ -1,6 +1,6 @@
 # GionaGranchelli/tramAI
 
-⭐ 35 · Kotlin · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/GionaGranchelli/tramAI) · [官网](https://tramai.dev) · 个人维护
+⭐ 35 · Kotlin · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/GionaGranchelli/tramAI) · [官网](https://tramai.dev) · 个人维护
 
 **Kotlin 优先的 JVM 治理型 AI 工作流运行时**
 

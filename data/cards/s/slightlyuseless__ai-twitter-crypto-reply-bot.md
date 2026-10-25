@@ -1,6 +1,6 @@
 # slightlyuseless/ai-twitter-crypto-reply-bot
 
-⭐ 37 · JavaScript · MIT · 推送 2026-06-25 · [GitHub](https://github.com/slightlyuseless/ai-twitter-crypto-reply-bot) · 个人维护
+⭐ 38 · JavaScript · MIT · 推送 2026-06-25 · [GitHub](https://github.com/slightlyuseless/ai-twitter-crypto-reply-bot) · 个人维护
 
 **自动回复 Crypto Twitter 的 AI 回复机器人（Claude/OpenAI）**
 

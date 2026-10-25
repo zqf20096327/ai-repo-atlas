@@ -1,6 +1,6 @@
 # codelibs/fess
 
-⭐ 1,142 · Java · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/codelibs/fess) · [官网](https://fess.codelibs.org) · 组织维护
+⭐ 1,142 · Java · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/codelibs/fess) · [官网](https://fess.codelibs.org) · 组织维护
 
 **自托管企业/站内搜索服务器：爬取多源文档并提供全文检索**
 

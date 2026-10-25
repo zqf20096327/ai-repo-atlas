@@ -1,6 +1,6 @@
 # DreamDonghao/insoulforge
 
-⭐ 51 · C++ · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/DreamDonghao/insoulforge) · 个人维护 · 中文 README
+⭐ 51 · C++ · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/DreamDonghao/insoulforge) · 个人维护 · 中文 README
 
 **QQ 群聊 AI 机器人后端：智能回复、记忆与好感度**
 

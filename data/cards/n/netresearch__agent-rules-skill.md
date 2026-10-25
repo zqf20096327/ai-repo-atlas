@@ -1,6 +1,6 @@
 # netresearch/agent-rules-skill
 
-⭐ 88 · Shell · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/netresearch/agent-rules-skill) · 组织维护
+⭐ 88 · Shell · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/netresearch/agent-rules-skill) · 组织维护
 
 **为 AI 编码 agent 生成 AGENTS.md 规范文件的 Agent Skill**
 

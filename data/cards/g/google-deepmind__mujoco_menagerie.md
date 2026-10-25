@@ -1,6 +1,6 @@
 # google-deepmind/mujoco_menagerie
 
-⭐ 4,259 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/mujoco_menagerie) · 组织维护
+⭐ 4,265 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/mujoco_menagerie) · 组织维护
 
 **Google DeepMind 维护的 MuJoCo 机器人仿真模型库**
 

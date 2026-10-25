@@ -1,6 +1,6 @@
 # manticore-projects/aurscan
 
-⭐ 159 · Go · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/manticore-projects/aurscan) · [官网](https://manticore-projects.com/aurscan/README.html) · 组织维护
+⭐ 161 · Go · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/manticore-projects/aurscan) · [官网](https://manticore-projects.com/aurscan/README.html) · 组织维护
 
 **Arch 用户：构建前自动扫描 AUR 包是否含恶意代码的 LLM 安全门**
 

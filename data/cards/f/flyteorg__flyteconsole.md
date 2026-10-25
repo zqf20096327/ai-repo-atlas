@@ -1,6 +1,6 @@
 # flyteorg/flyteconsole
 
-⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/flyteorg/flyteconsole) · [官网](https://github.com/flyteorg/flyte) · 组织维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/flyteorg/flyteconsole) · [官网](https://github.com/flyteorg/flyte) · 组织维护
 
 **Flyte 机器学习工作流平台的 Web 管理界面**
 

@@ -1,6 +1,6 @@
 # PNGTRID/AnvilWiki
 
-⭐ 206 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/PNGTRID/AnvilWiki) · [官网](http://anvil.wiki/zh/landing/) · 个人维护 · 中文 README
+⭐ 206 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/PNGTRID/AnvilWiki) · [官网](http://anvil.wiki/zh/landing/) · 个人维护 · 中文 README
 
 **面向零基础用户的开源游戏 wiki 站模板，带 AI 产页工作流**
 

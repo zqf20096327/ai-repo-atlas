@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-csharp
 
-⭐ 340 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-csharp) · 组织维护
+⭐ 339 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-csharp) · 组织维护
 
 **C# 官方 Claude API SDK，供 .NET 应用接入 Claude 模型**
 

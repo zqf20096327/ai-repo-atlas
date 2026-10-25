@@ -1,6 +1,6 @@
 # Panniantong/Agent-Reach
 
-⭐ 101,635 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Panniantong/Agent-Reach) · 个人维护 · 中文 README
+⭐ 102,375 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Panniantong/Agent-Reach) · 个人维护 · 中文 README
 
 **给 AI Agent 一键配置读取与搜索互联网渠道的 CLI 能力层**
 

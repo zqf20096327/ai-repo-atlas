@@ -1,6 +1,6 @@
 # stanford-oval/WikiChat
 
-⭐ 1,623 · Python · Apache-2.0 · 推送 2026-01-31 · [GitHub](https://github.com/stanford-oval/WikiChat) · [官网](https://wikichat.genie.stanford.edu) · 组织维护
+⭐ 1,622 · Python · Apache-2.0 · 推送 2026-01-31 · [GitHub](https://github.com/stanford-oval/WikiChat) · [官网](https://wikichat.genie.stanford.edu) · 组织维护
 
 **基于 Wikipedia 检索的减少 LLM 幻觉对话系统**
 

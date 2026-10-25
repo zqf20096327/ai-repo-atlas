@@ -1,6 +1,6 @@
 # rq0066622-lang/Neuro-Sprint
 
-⭐ 55 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/rq0066622-lang/Neuro-Sprint) · 个人维护
+⭐ 55 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/rq0066622-lang/Neuro-Sprint) · 个人维护
 
 **纯前端 HTML/CSS/JS 脑力训练网页应用，含 5 个认知训练模块**
 

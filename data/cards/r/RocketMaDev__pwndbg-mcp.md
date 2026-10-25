@@ -1,6 +1,6 @@
 # RocketMaDev/pwndbg-mcp
 
-⭐ 38 · Python · MIT · 推送 2026-04-07 · [GitHub](https://github.com/RocketMaDev/pwndbg-mcp) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-04-07 · [GitHub](https://github.com/RocketMaDev/pwndbg-mcp) · 个人维护 · 中文 README
 
 **让 AI agent 通过 MCP 调用 pwndbg 调试 ELF 的工具**
 

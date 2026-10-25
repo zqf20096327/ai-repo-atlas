@@ -1,6 +1,6 @@
 # swedishembedded/brain
 
-⭐ 45 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/swedishembedded/brain) · [官网](https://swedishembedded.com/products/brain) · 组织维护
+⭐ 45 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/swedishembedded/brain) · [官网](https://swedishembedded.com/products/brain) · 组织维护
 
 **Rust 单程序实现模型训练与推理，服务 OpenAI 兼容 API**
 

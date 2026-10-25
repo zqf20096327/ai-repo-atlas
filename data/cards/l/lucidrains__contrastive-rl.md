@@ -1,6 +1,6 @@
 # lucidrains/contrastive-rl
 
-⭐ 73 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lucidrains/contrastive-rl) · 个人维护
+⭐ 73 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lucidrains/contrastive-rl) · 个人维护
 
 **对比强化学习（Contrastive RL）PyTorch 实现库，供研究跟进**
 

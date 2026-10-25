@@ -1,6 +1,6 @@
 # chris-short/devopsish.com
 
-⭐ 43 · HTML · MIT · 推送 2026-10-17 · [GitHub](https://github.com/chris-short/devopsish.com) · [官网](https://devopsish.com) · 个人维护
+⭐ 43 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/chris-short/devopsish.com) · [官网](https://devopsish.com) · 个人维护
 
 **Chris Short 维护的 Cloud Native/DevOps/AI 技术新闻通讯**
 

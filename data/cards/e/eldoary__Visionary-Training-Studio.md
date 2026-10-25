@@ -1,6 +1,6 @@
 # eldoary/Visionary-Training-Studio
 
-⭐ 55 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/eldoary/Visionary-Training-Studio) · 个人维护 · 中文 README
+⭐ 55 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/eldoary/Visionary-Training-Studio) · 个人维护 · 中文 README
 
 **容器化的无代码深度学习模型训练工作台（Streamlit 界面）**
 

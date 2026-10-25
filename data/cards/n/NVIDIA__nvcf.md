@@ -1,6 +1,6 @@
 # NVIDIA/nvcf
 
-⭐ 248 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/nvcf) · [官网](https://docs.nvidia.com/nvcf/overview) · 组织维护
+⭐ 249 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/NVIDIA/nvcf) · [官网](https://docs.nvidia.com/nvcf/overview) · 组织维护
 
 **部署与路由 GPU 加速推理/流式/批处理工作负载的云函数平台**
 

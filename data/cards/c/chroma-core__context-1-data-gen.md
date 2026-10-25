@@ -1,6 +1,6 @@
 # chroma-core/context-1-data-gen
 
-⭐ 440 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/chroma-core/context-1-data-gen) · 组织维护
+⭐ 439 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/chroma-core/context-1-data-gen) · 组织维护
 
 **Chroma 技术报告配套的合成多跳搜索任务数据生成流水线**
 

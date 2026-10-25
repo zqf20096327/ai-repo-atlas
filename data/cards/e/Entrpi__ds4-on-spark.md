@@ -1,6 +1,6 @@
 # Entrpi/ds4-on-spark
 
-⭐ 410 · Shell · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Entrpi/ds4-on-spark) · 组织维护
+⭐ 411 · Shell · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Entrpi/ds4-on-spark) · 组织维护
 
 **在 DGX Spark 上一键部署 DeepSeek-V4-Flash 推理服务的安装器**
 

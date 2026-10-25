@@ -1,6 +1,6 @@
 # GeiserX/whisper-subs
 
-⭐ 115 · C# · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/GeiserX/whisper-subs) · [官网](https://geiserx.github.io/whisper-subs/) · 个人维护
+⭐ 115 · C# · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/GeiserX/whisper-subs) · [官网](https://geiserx.github.io/whisper-subs/) · 个人维护
 
 **Jellyfin 插件：用本地 Whisper 为媒体库生成字幕**
 

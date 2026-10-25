@@ -1,6 +1,6 @@
 # anwerj/youtube-uploader-mcp
 
-⭐ 61 · Go · MIT · 推送 2026-09-20 · [GitHub](https://github.com/anwerj/youtube-uploader-mcp) · 个人维护
+⭐ 62 · Go · MIT · 推送 2026-09-20 · [GitHub](https://github.com/anwerj/youtube-uploader-mcp) · 个人维护
 
 **通过 MCP 客户端上传/更新/排期 YouTube 视频的服务器**
 

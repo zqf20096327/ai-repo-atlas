@@ -1,6 +1,6 @@
 # mobile-next/mobilewright
 
-⭐ 452 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mobile-next/mobilewright) · [官网](https://mobilewright.dev) · 组织维护
+⭐ 454 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/mobile-next/mobilewright) · [官网](https://mobilewright.dev) · 组织维护
 
 **iOS/Android 真机与模拟器自动化测试框架，单一 API 跨平台**
 

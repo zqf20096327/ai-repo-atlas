@@ -1,6 +1,6 @@
 # MichengAI/dsh-pua
 
-⭐ 38 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/MichengAI/dsh-pua) · [官网](dsh-codex-desktop.micheng.dev) · 个人维护 · 中文 README
+⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/MichengAI/dsh-pua) · [官网](dsh-codex-desktop.micheng.dev) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：用 PUA 提示与验收循环推进 agent 任务**
 

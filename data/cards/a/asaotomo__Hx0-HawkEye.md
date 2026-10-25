@@ -1,6 +1,6 @@
 # asaotomo/Hx0-HawkEye
 
-⭐ 99 · 推送 2026-10-14 · [GitHub](https://github.com/asaotomo/Hx0-HawkEye) · [官网](https://www.hx0.store/products/hawkeye) · 个人维护 · 中文 README
+⭐ 100 · 推送 2026-10-14 · [GitHub](https://github.com/asaotomo/Hx0-HawkEye) · [官网](https://www.hx0.store/products/hawkeye) · 个人维护 · 中文 README
 
 **浏览器安全工作台扩展：抓包/拦截/重放/Fuzz 集成 AI 与 MCP**
 

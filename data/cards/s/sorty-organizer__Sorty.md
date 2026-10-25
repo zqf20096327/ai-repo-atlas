@@ -1,6 +1,6 @@
 # sorty-organizer/Sorty
 
-⭐ 51 · Swift · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/sorty-organizer/Sorty) · [官网](https://sorty-organizer.github.io/Sorty/) · 组织维护
+⭐ 52 · Swift · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/sorty-organizer/Sorty) · [官网](https://sorty-organizer.github.io/Sorty/) · 组织维护
 
 **用 AI 自动整理 macOS 文件夹的原生 SwiftUI 应用**
 

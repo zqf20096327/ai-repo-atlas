@@ -1,6 +1,6 @@
 # openai/php2shell-checker
 
-⭐ 1,373 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/php2shell-checker) · 组织维护
+⭐ 1,392 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/php2shell-checker) · 组织维护
 
 **检测网站或本地 PHP 是否暴露 php2shell 可利用版本的检查工具**
 

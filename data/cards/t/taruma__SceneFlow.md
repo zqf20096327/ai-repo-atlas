@@ -1,6 +1,6 @@
 # taruma/SceneFlow
 
-⭐ 375 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/taruma/SceneFlow) · [官网](https://sceneflow.taruma.my.id) · 个人维护
+⭐ 376 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/taruma/SceneFlow) · [官网](https://sceneflow.taruma.my.id) · 个人维护
 
 **为 AI 影像创作者做剧本-视频同步与提示词遵循度分析的工具**
 

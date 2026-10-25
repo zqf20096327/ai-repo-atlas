@@ -1,6 +1,6 @@
 # hexabot-ai/Hexabot
 
-⭐ 1,147 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/hexabot-ai/Hexabot) · [官网](https://docs.hexabot.ai) · 组织维护
+⭐ 1,149 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/hexabot-ai/Hexabot) · [官网](https://docs.hexabot.ai) · 组织维护
 
 **给开发者的 AI 工作流自动化平台：跨渠道构建与运行 agent 工作流**
 

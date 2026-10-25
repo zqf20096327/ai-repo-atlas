@@ -1,6 +1,6 @@
 # lightseekorg/TorchSpec
 
-⭐ 266 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/lightseekorg/TorchSpec) · [官网](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) · 组织维护
+⭐ 265 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/lightseekorg/TorchSpec) · [官网](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) · 组织维护
 
 **PyTorch 原生的投机解码草稿模型训练框架**
 

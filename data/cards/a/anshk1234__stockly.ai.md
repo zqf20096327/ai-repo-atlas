@@ -1,6 +1,6 @@
 # anshk1234/stockly.ai
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/anshk1234/stockly.ai) · [官网](https://stockly-ai.streamlit.app) · 个人维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/anshk1234/stockly.ai) · [官网](https://stockly-ai.streamlit.app) · 个人维护
 
 **面向散户的对话式股票分析 Web 应用**
 

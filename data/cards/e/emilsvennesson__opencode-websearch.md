@@ -1,6 +1,6 @@
 # emilsvennesson/opencode-websearch
 
-⭐ 70 · TypeScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/emilsvennesson/opencode-websearch) · 个人维护
+⭐ 70 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/emilsvennesson/opencode-websearch) · 个人维护
 
 **为 OpenCode 提供原生网页搜索的插件，复用模型自带搜索能力**
 

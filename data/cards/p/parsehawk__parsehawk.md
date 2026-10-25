@@ -1,6 +1,6 @@
 # parsehawk/parsehawk
 
-⭐ 72 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/parsehawk/parsehawk) · [官网](https://docs.parsehawk.com/) · 组织维护
+⭐ 73 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/parsehawk/parsehawk) · [官网](https://docs.parsehawk.com/) · 组织维护
 
 **本地优先的文档 AI：将 PDF/图像转为 Markdown 或校验后的 JSON**
 

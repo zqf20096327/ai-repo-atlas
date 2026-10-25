@@ -1,6 +1,6 @@
 # robertknight/ocrs
 
-⭐ 1,906 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/robertknight/ocrs) · 个人维护
+⭐ 1,907 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/robertknight/ocrs) · 个人维护
 
 **Rust 编写的 OCR 库与 CLI：从图像中提取文本**
 

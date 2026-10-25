@@ -1,6 +1,6 @@
 # crp4222/PrivAiTe
 
-⭐ 54 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/crp4222/PrivAiTe) · [官网](https://crp4222.github.io/PrivAiTe/) · 个人维护
+⭐ 55 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/crp4222/PrivAiTe) · [官网](https://crp4222.github.io/PrivAiTe/) · 个人维护
 
 **自托管 PII 脱敏代理：在请求离开本机前清洗 LLM 流量并在回复中还原**
 

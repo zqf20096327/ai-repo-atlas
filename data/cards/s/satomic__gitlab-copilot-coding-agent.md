@@ -1,6 +1,6 @@
 # satomic/gitlab-copilot-coding-agent
 
-⭐ 43 · Shell · 推送 2025-12-11 · [GitHub](https://github.com/satomic/gitlab-copilot-coding-agent) · 个人维护 · 中文 README
+⭐ 44 · Shell · 推送 2025-12-11 · [GitHub](https://github.com/satomic/gitlab-copilot-coding-agent) · 个人维护 · 中文 README
 
 **把 GitHub Copilot CLI 接入 GitLab CI/CD 的全自动编码代理**
 

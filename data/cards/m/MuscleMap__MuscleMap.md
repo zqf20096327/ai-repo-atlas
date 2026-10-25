@@ -1,6 +1,6 @@
 # MuscleMap/MuscleMap
 
-⭐ 146 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MuscleMap/MuscleMap) · [官网](https://musclemap.github.io/MuscleMap/) · 组织维护
+⭐ 147 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/MuscleMap/MuscleMap) · [官网](https://musclemap.github.io/MuscleMap/) · 组织维护
 
 **全身肌肉 MRI/CT 分割与定量分析的开源工具箱，面向科研用户**
 

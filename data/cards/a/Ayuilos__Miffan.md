@@ -1,6 +1,6 @@
 # Ayuilos/Miffan
 
-⭐ 306 · Kotlin · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Ayuilos/Miffan) · [官网](https://miffan.ayuilos.me) · 个人维护 · 中文 README
+⭐ 307 · Kotlin · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Ayuilos/Miffan) · [官网](https://miffan.ayuilos.me) · 个人维护 · 中文 README
 
 **Android AI 对话客户端：伙伴式聊天与远程控制你的电脑**
 

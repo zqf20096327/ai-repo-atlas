@@ -1,6 +1,6 @@
 # fendouai/OpenCVTutorials
 
-⭐ 1,437 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/fendouai/OpenCVTutorials) · [官网](http://woshicver.com/) · 个人维护 · 中文 README
+⭐ 1,438 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/fendouai/OpenCVTutorials) · [官网](http://woshicver.com/) · 个人维护 · 中文 README
 
 **OpenCV-Python 4.1 官方教程的中文翻译文档**
 

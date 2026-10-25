@@ -1,6 +1,6 @@
 # ArtificialAnalysis/aa-agentperf-local
 
-⭐ 108 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/ArtificialAnalysis/aa-agentperf-local) · [官网](https://artificialanalysis.ai) · 组织维护
+⭐ 109 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/ArtificialAnalysis/aa-agentperf-local) · [官网](https://artificialanalysis.ai) · 组织维护
 
 **本地 LLM 推理性能基准工具：回放真实 agent 轨迹测吞吐与延迟**
 

@@ -1,6 +1,6 @@
 # RioShiina47/comfy-webui
 
-⭐ 115 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/RioShiina47/comfy-webui) · [官网](https://huggingface.co/spaces/RioShiina/ImageGen) · 个人维护
+⭐ 116 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/RioShiina47/comfy-webui) · [官网](https://huggingface.co/spaces/RioShiina/ImageGen) · 个人维护
 
 **把 ComfyUI 工作流封装为 Gradio UI、语义 API 与 MCP 工具的平台**
 

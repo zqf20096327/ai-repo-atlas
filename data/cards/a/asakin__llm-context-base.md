@@ -1,6 +1,6 @@
 # asakin/llm-context-base
 
-⭐ 74 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/asakin/llm-context-base) · 个人维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/asakin/llm-context-base) · 个人维护
 
 **构建个人 LLM Wiki 的 Git 模板：捕获、整理、查询笔记**
 

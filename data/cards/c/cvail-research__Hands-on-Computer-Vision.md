@@ -1,6 +1,6 @@
 # cvail-research/Hands-on-Computer-Vision
 
-⭐ 60 · Jupyter Notebook · 推送 2026-09-08 · [GitHub](https://github.com/cvail-research/Hands-on-Computer-Vision) · [官网](https://semillerocv.github.io/) · 组织维护
+⭐ 61 · Jupyter Notebook · 推送 2026-09-08 · [GitHub](https://github.com/cvail-research/Hands-on-Computer-Vision) · [官网](https://semillerocv.github.io/) · 组织维护
 
 **西班牙语计算机视觉实践教学课程仓库（12 个主题）**
 

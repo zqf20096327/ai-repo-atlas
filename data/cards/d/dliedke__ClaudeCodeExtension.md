@@ -1,6 +1,6 @@
 # dliedke/ClaudeCodeExtension
 
-⭐ 77 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/dliedke/ClaudeCodeExtension) · [官网](https://marketplace.visualstudio.com/items?itemName=dliedke.ClaudeCodeExtension) · 个人维护
+⭐ 77 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dliedke/ClaudeCodeExtension) · [官网](https://marketplace.visualstudio.com/items?itemName=dliedke.ClaudeCodeExtension) · 个人维护
 
 **Visual Studio 扩展：在 IDE 内承载多种 AI 编程代理的统一界面**
 

@@ -1,6 +1,6 @@
 # Hainrixz/whatsapp-closer-agentkit
 
-⭐ 38 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Hainrixz/whatsapp-closer-agentkit) · [官网](https://hainrixz.github.io/whatsapp-closer-agentkit/) · 个人维护 · 中文 README
+⭐ 38 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/whatsapp-closer-agentkit) · [官网](https://hainrixz.github.io/whatsapp-closer-agentkit/) · 个人维护 · 中文 README
 
 **WhatsApp 销售闭环 Agent 的 Claude Code 构建蓝图（非可运行应用）**
 

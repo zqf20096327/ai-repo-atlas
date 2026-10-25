@@ -1,6 +1,6 @@
 # SamurAIGPT/AI-Influencer-Generator
 
-⭐ 335 · Jupyter Notebook · MIT · 推送 2026-08-02 · [GitHub](https://github.com/SamurAIGPT/AI-Influencer-Generator) · [官网](https://vadoo.tv/ai-influencer-generator) · 个人维护
+⭐ 336 · Jupyter Notebook · MIT · 推送 2026-08-02 · [GitHub](https://github.com/SamurAIGPT/AI-Influencer-Generator) · [官网](https://vadoo.tv/ai-influencer-generator) · 个人维护
 
 **生成虚拟 AI 网红内容：人物图像、语音、口型视频**
 

@@ -1,6 +1,6 @@
 # shengjidaguai-china/goutoujunshi
 
-⭐ 8,501 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/shengjidaguai-china/goutoujunshi) · 组织维护 · 中文 README
+⭐ 8,584 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/shengjidaguai-china/goutoujunshi) · 组织维护 · 中文 README
 
 **面向个人用户的 AI 恋爱军师 Codex Skill：情绪支持加关系分析与行动策略**
 

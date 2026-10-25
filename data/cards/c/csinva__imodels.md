@@ -1,6 +1,6 @@
 # csinva/imodels
 
-⭐ 1,629 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/csinva/imodels) · [官网](https://csinva.io/imodels) · 组织维护
+⭐ 1,630 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/csinva/imodels) · [官网](https://csinva.io/imodels) · 组织维护
 
 **可解释机器学习 Python 库：20+ 种透明预测模型，兼容 sklearn**
 

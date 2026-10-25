@@ -1,6 +1,6 @@
 # hjxwz123/Aivory
 
-⭐ 115 · Go · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/hjxwz123/Aivory) · [官网](https://docs.aivorygo.com) · 个人维护 · 中文 README
+⭐ 115 · Go · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hjxwz123/Aivory) · [官网](https://docs.aivorygo.com) · 个人维护 · 中文 README
 
 **自托管多模型 AI 对话工作台：工具链调用、Python 沙箱与 RAG**
 

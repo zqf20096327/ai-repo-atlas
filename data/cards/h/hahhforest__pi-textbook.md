@@ -1,6 +1,6 @@
 # hahhforest/pi-textbook
 
-⭐ 1,413 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/hahhforest/pi-textbook) · [官网](https://build-your-own-pi-cn.enochzhang.chatgpt.site) · 个人维护 · 中文 README
+⭐ 1,412 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/hahhforest/pi-textbook) · [官网](https://build-your-own-pi-cn.enochzhang.chatgpt.site) · 个人维护 · 中文 README
 
 **中文教材：沿 15 个 checkpoint 从零实现 Pi-style coding agent**
 

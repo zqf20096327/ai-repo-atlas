@@ -1,6 +1,6 @@
 # jordanlyall/wc26-mcp
 
-⭐ 34 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jordanlyall/wc26-mcp) · [官网](https://wc26.ai) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jordanlyall/wc26-mcp) · [官网](https://wc26.ai) · 个人维护
 
 **2026 世界杯数据的 MCP 服务器：18 个查询工具供 AI 客户端调用**
 

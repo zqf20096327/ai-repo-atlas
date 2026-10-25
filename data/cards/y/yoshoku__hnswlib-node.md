@@ -1,6 +1,6 @@
 # yoshoku/hnswlib-node
 
-⭐ 138 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/yoshoku/hnswlib-node) · [官网](https://www.npmjs.com/package/hnswlib-node) · 个人维护
+⭐ 139 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/yoshoku/hnswlib-node) · [官网](https://www.npmjs.com/package/hnswlib-node) · 个人维护
 
 **为 Node.js/TypeScript 提供 Hnswlib 近似最近邻搜索绑定**
 

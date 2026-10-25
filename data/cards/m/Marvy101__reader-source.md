@@ -1,6 +1,6 @@
 # Marvy101/reader-source
 
-⭐ 58 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Marvy101/reader-source) · [官网](https://reader.marvy101.com) · 个人维护
+⭐ 58 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Marvy101/reader-source) · [官网](https://reader.marvy101.com) · 个人维护
 
 **macOS 原生 AI 阅读工作台：读书、笔记与全书对话**
 

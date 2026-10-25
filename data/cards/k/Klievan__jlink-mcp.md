@@ -1,6 +1,6 @@
 # Klievan/jlink-mcp
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Klievan/jlink-mcp) · [官网](https://marketplace.visualstudio.com/items?itemName=Klievan.jlink-mcp) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Klievan/jlink-mcp) · [官网](https://marketplace.visualstudio.com/items?itemName=Klievan.jlink-mcp) · 个人维护
 
 **让 LLM 通过 MCP 直接操作 J-Link 等调试探针调试嵌入式设备**
 

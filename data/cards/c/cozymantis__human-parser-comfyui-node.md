@@ -1,6 +1,6 @@
 # cozymantis/human-parser-comfyui-node
 
-⭐ 138 · Python · GPL-3.0 · 推送 2026-04-13 · [GitHub](https://github.com/cozymantis/human-parser-comfyui-node) · [官网](https://cozymantis.gumroad.com) · 组织维护
+⭐ 139 · Python · GPL-3.0 · 推送 2026-04-13 · [GitHub](https://github.com/cozymantis/human-parser-comfyui-node) · [官网](https://cozymantis.gumroad.com) · 组织维护
 
 **ComfyUI 人体解析节点：为身体部位与服装生成分割掩码**
 

@@ -1,6 +1,6 @@
 # sosadly/blockbench-mcp
 
-⭐ 40 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/sosadly/blockbench-mcp) · 个人维护
+⭐ 43 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/sosadly/blockbench-mcp) · 个人维护
 
 **让 AI 助手直接操作 Blockbench 制作 Minecraft 模型的 MCP server**
 

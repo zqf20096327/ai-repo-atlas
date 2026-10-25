@@ -1,6 +1,6 @@
 # microsoft/FoundryLocalAndroid
 
-⭐ 53 · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/microsoft/FoundryLocalAndroid) · 组织维护
+⭐ 54 · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/microsoft/FoundryLocalAndroid) · 组织维护
 
 **面向 Android 开发者的端侧生成式 AI 推理 SDK**
 

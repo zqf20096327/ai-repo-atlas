@@ -1,6 +1,6 @@
 # jundizhou/easy-stock
 
-⭐ 1,605 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/jundizhou/easy-stock) · [官网](https://github.com/jundizhou/easy-stock/blob/main/docs/user-guide.md) · 个人维护 · 中文 README
+⭐ 1,640 · Go · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/jundizhou/easy-stock) · [官网](https://github.com/jundizhou/easy-stock/blob/main/docs/user-guide.md) · 个人维护 · 中文 README
 
 **A股 AI 智能投研桌面工作台：行情分析、复盘与持仓巡检**
 

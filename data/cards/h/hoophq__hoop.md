@@ -1,6 +1,6 @@
 # hoophq/hoop
 
-⭐ 836 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hoophq/hoop) · [官网](https://hoop.dev) · 组织维护
+⭐ 837 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hoophq/hoop) · [官网](https://hoop.dev) · 组织维护
 
 **代理数据库流量的开源 sidecar：为 AI agent 做数据脱敏与拦截危险 SQL**
 

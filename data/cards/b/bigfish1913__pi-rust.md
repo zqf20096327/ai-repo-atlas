@@ -1,6 +1,6 @@
 # bigfish1913/pi-rust
 
-⭐ 147 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/bigfish1913/pi-rust) · [官网](https://rpi.bigfisharc.cn/) · 个人维护
+⭐ 148 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bigfish1913/pi-rust) · [官网](https://rpi.bigfisharc.cn/) · 个人维护
 
 **Rust 编写的库优先 coding-agent 运行时与终端 CLI**
 

@@ -1,6 +1,6 @@
 # YosefLab/scib-metrics
 
-⭐ 98 · Python · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/YosefLab/scib-metrics) · [官网](https://scib-metrics.readthedocs.io/) · 组织维护
+⭐ 98 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/YosefLab/scib-metrics) · [官网](https://scib-metrics.readthedocs.io/) · 组织维护
 
 **单细胞数据整合方法的基准评测指标库**
 

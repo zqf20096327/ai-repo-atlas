@@ -1,6 +1,6 @@
 # open-webui/helm-charts
 
-⭐ 291 · Go Template · 推送 2026-10-24 · [GitHub](https://github.com/open-webui/helm-charts) · 组织维护
+⭐ 292 · Go Template · 推送 2026-10-25 · [GitHub](https://github.com/open-webui/helm-charts) · 组织维护
 
 **Open WebUI 的 Helm Chart，用于 Kubernetes 部署**
 

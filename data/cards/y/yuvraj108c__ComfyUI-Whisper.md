@@ -1,6 +1,6 @@
 # yuvraj108c/ComfyUI-Whisper
 
-⭐ 278 · Python · NOASSERTION · 推送 2026-06-07 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Whisper) · 个人维护
+⭐ 279 · Python · NOASSERTION · 推送 2026-06-07 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Whisper) · 个人维护
 
 **ComfyUI 的 Whisper 节点：转录音频并为视频生成字幕**
 

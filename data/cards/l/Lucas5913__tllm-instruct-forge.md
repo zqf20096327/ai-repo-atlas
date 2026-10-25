@@ -1,6 +1,6 @@
 # Lucas5913/tllm-instruct-forge
 
-⭐ 53 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/Lucas5913/tllm-instruct-forge) · 个人维护
+⭐ 53 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/Lucas5913/tllm-instruct-forge) · 个人维护
 
 **面向团队的 LLM 指令微调训练库，含数据治理与评估**
 

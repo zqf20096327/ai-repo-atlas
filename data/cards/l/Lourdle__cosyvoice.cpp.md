@@ -1,6 +1,6 @@
 # Lourdle/cosyvoice.cpp
 
-⭐ 56 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Lourdle/cosyvoice.cpp) · 个人维护 · 中文 README
+⭐ 57 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Lourdle/cosyvoice.cpp) · 个人维护 · 中文 README
 
 **CosyVoice3 语音合成的 C++/GGML 本地推理工具链**
 

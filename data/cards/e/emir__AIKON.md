@@ -1,6 +1,6 @@
 # emir/AIKON
 
-⭐ 354 · Java · MIT · 推送 2026-10-04 · [GitHub](https://github.com/emir/AIKON) · [官网](https://aikonchat.com/) · 个人维护
+⭐ 356 · Java · MIT · 推送 2026-10-04 · [GitHub](https://github.com/emir/AIKON) · [官网](https://aikonchat.com/) · 个人维护
 
 **让 2007 年诺基亚功能机用上 Claude/ChatGPT 等 AI 聊天**
 

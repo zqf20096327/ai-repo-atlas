@@ -1,6 +1,6 @@
 # avivsinai/jenkins-cli
 
-⭐ 95 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/avivsinai/jenkins-cli) · [官网](https://github.com/avivsinai/jenkins-cli) · 个人维护
+⭐ 95 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/avivsinai/jenkins-cli) · [官网](https://github.com/avivsinai/jenkins-cli) · 个人维护
 
 **面向 Jenkins 运维者的 GitHub CLI 风格终端工具（Go 单二进制）**
 

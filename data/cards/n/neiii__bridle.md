@@ -1,6 +1,6 @@
 # neiii/bridle
 
-⭐ 439 · Rust · MIT · 推送 2026-10-17 · [GitHub](https://github.com/neiii/bridle) · 个人维护
+⭐ 440 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/neiii/bridle) · 个人维护
 
 **多 AI 编码助手的统一配置管理器（TUI/CLI）**
 

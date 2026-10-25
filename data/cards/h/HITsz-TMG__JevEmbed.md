@@ -1,6 +1,6 @@
 # HITsz-TMG/JevEmbed
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/HITsz-TMG/JevEmbed) · [官网](https://github.com/HITsz-TMG/JevEmbed) · 组织维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/HITsz-TMG/JevEmbed) · [官网](https://github.com/HITsz-TMG/JevEmbed) · 组织维护
 
 **嵌入模型决策工具包：训练、推理与评测 Choice/Score/Noul 决策**
 

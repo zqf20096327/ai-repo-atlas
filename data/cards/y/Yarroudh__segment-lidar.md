@@ -1,6 +1,6 @@
 # Yarroudh/segment-lidar
 
-⭐ 367 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/Yarroudh/segment-lidar) · [官网](https://yarroudh.github.io/segment-lidar/) · 组织维护
+⭐ 367 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/Yarroudh/segment-lidar) · [官网](https://yarroudh.github.io/segment-lidar/) · 组织维护
 
 **用 Meta SAM 3 对航空 LiDAR 点云做实例分割的 Python 库**
 

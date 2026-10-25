@@ -1,6 +1,6 @@
 # kodustech/awesome-ai-code-review
 
-⭐ 50 · 推送 2026-06-28 · [GitHub](https://github.com/kodustech/awesome-ai-code-review) · [官网](https://aicodereviews.io) · 组织维护
+⭐ 51 · 推送 2026-06-28 · [GitHub](https://github.com/kodustech/awesome-ai-code-review) · [官网](https://aicodereviews.io) · 组织维护
 
 **AI 代码评审工具与论文策展清单（Kodus 团队维护）**
 

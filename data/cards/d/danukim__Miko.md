@@ -1,6 +1,6 @@
 # danukim/Miko
 
-⭐ 285 · C# · GPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/danukim/Miko) · [官网](https://www.youtube.com/@0neReality) · 个人维护
+⭐ 286 · C# · GPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/danukim/Miko) · [官网](https://www.youtube.com/@0neReality) · 个人维护
 
 **Windows 桌面 3D AI 伙伴：Ollama 本地大模型 + 双语音合成**
 

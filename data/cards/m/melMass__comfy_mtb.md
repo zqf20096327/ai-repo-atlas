@@ -1,6 +1,6 @@
 # melMass/comfy_mtb
 
-⭐ 731 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/melMass/comfy_mtb) · 个人维护
+⭐ 732 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/melMass/comfy_mtb) · 个人维护
 
 **面向动画的 ComfyUI 节点包（插值、换脸等）**
 

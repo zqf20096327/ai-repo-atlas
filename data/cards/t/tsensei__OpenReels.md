@@ -1,6 +1,6 @@
 # tsensei/OpenReels
 
-⭐ 221 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/tsensei/OpenReels) · [官网](http://openreels.tsensei.dev/) · 个人维护
+⭐ 223 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/tsensei/OpenReels) · [官网](http://openreels.tsensei.dev/) · 个人维护
 
 **一条命令把任意主题生成为可发布的竖屏短视频的 AI 流水线**
 

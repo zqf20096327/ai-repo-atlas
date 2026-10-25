@@ -1,6 +1,6 @@
 # CDDLeiden/DrugEx
 
-⭐ 190 · Jupyter Notebook · MIT · 推送 2026-10-15 · [GitHub](https://github.com/CDDLeiden/DrugEx) · [官网](https://cddleiden.github.io/DrugEx/docs/) · 组织维护
+⭐ 191 · Jupyter Notebook · MIT · 推送 2026-10-15 · [GitHub](https://github.com/CDDLeiden/DrugEx) · [官网](https://cddleiden.github.io/DrugEx/docs/) · 组织维护
 
 **深度学习多目标强化学习的小分子从头设计库，面向药物发现研究者**
 

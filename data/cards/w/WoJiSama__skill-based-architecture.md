@@ -1,6 +1,6 @@
 # WoJiSama/skill-based-architecture
 
-⭐ 619 · Shell · MIT · 推送 2026-09-20 · [GitHub](https://github.com/WoJiSama/skill-based-architecture) · 个人维护 · 中文 README
+⭐ 620 · Shell · MIT · 推送 2026-09-20 · [GitHub](https://github.com/WoJiSama/skill-based-architecture) · 个人维护 · 中文 README
 
 **把项目规则蒸馏成可路由 Skill 的元技能，供各编码 Agent 遵循**
 

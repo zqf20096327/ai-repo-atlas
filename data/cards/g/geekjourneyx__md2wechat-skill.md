@@ -1,6 +1,6 @@
 # geekjourneyx/md2wechat-skill
 
-⭐ 3,757 · Go · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/geekjourneyx/md2wechat-skill) · [官网](https://md2wechat.cn) · 个人维护 · 中文 README
+⭐ 3,760 · Go · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/geekjourneyx/md2wechat-skill) · [官网](https://md2wechat.cn) · 个人维护 · 中文 README
 
 **面向 AI Agent 的微信公众号排版与发布 CLI**
 

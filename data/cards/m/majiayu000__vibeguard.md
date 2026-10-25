@@ -1,6 +1,6 @@
 # majiayu000/vibeguard
 
-⭐ 43 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/majiayu000/vibeguard) · [官网](https://majiayu000.github.io/vibeguard/) · 个人维护 · 中文 README
+⭐ 44 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/majiayu000/vibeguard) · [官网](https://majiayu000.github.io/vibeguard/) · 个人维护 · 中文 README
 
 **Rust CLI：为编码 agent 提供规则库与 Bash/Git 防护钩子**
 

@@ -1,6 +1,6 @@
 # georgezouq/awesome-ai-in-finance
 
-⭐ 6,694 · CC0-1.0 · 推送 2026-09-08 · [GitHub](https://github.com/georgezouq/awesome-ai-in-finance) · [官网](https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4) · 个人维护 · 中文 README
+⭐ 6,697 · CC0-1.0 · 推送 2026-09-08 · [GitHub](https://github.com/georgezouq/awesome-ai-in-finance) · [官网](https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4) · 个人维护 · 中文 README
 
 **金融市场 AI 应用与研究的策展清单（Agent/LLM/MCP/论文）**
 

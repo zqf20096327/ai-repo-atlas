@@ -1,6 +1,6 @@
 # bitbrain/beehave
 
-⭐ 3,310 · GDScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/bitbrain/beehave) · [官网](https://bitbra.in/beehave) · 个人维护
+⭐ 3,311 · GDScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/bitbrain/beehave) · [官网](https://bitbra.in/beehave) · 个人维护
 
 **Godot 引擎的行为树 AI 插件：用节点搭建游戏 NPC 行为逻辑**
 

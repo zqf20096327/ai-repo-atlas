@@ -1,6 +1,6 @@
 # keenableai/needle
 
-⭐ 39 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/keenableai/needle) · [官网](https://keenableai.github.io/needle/) · 组织维护
+⭐ 39 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/keenableai/needle) · [官网](https://keenableai.github.io/needle/) · 组织维护
 
 **面向搜索引擎的实时检索评测基准套件（5 个基准）**
 

@@ -1,6 +1,6 @@
 # Mintplex-Labs/anythingllm-mobile
 
-⭐ 164 · TypeScript · GPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-mobile) · [官网](https://anythingllm.com/mobile) · 组织维护
+⭐ 168 · TypeScript · GPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-mobile) · [官网](https://anythingllm.com/mobile) · 组织维护
 
 **手机端本地优先的 AI Agent 应用：隐私优先的随身助手**
 

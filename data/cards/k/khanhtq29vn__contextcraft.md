@@ -1,6 +1,6 @@
 # khanhtq29vn/contextcraft
 
-⭐ 39 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/khanhtq29vn/contextcraft) · [官网](https://khanhtq29vn.github.io/contextcraft/) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/khanhtq29vn/contextcraft) · [官网](https://khanhtq29vn.github.io/contextcraft/) · 个人维护
 
 **面向 LLM 的 AST 感知、token 预算约束的代码库压缩工具**
 

@@ -1,6 +1,6 @@
 # delibae/claude-prism
 
-⭐ 1,827 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/delibae/claude-prism) · [官网](https://claudeprism.delibae.dev) · 个人维护 · 中文 README
+⭐ 1,828 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/delibae/claude-prism) · [官网](https://claudeprism.delibae.dev) · 个人维护 · 中文 README
 
 **本地优先的科研写作桌面工作台：LaTeX+Python+Claude 助手**
 

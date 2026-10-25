@@ -1,6 +1,6 @@
 # godtiza/nebula-forge-studio
 
-⭐ 56 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/godtiza/nebula-forge-studio) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/godtiza/nebula-forge-studio) · 个人维护
 
 **面向独立研究者的模型训练与图像生成 WebUI 平台**
 

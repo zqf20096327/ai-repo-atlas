@@ -1,6 +1,6 @@
 # scanaislop/aislop
 
-⭐ 700 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/scanaislop/aislop) · [官网](https://scanaislop.com) · 组织维护
+⭐ 702 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/scanaislop/aislop) · [官网](https://scanaislop.com) · 组织维护
 
 **检测并修复 AI 编码代理遗留代码质量问题的 CLI 代码扫描器**
 

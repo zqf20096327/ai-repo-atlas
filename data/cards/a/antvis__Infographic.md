@@ -1,6 +1,6 @@
 # antvis/Infographic
 
-⭐ 7,036 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/antvis/Infographic) · [官网](https://infographic.antv.vision) · 组织维护 · 中文 README
+⭐ 7,038 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/antvis/Infographic) · [官网](https://infographic.antv.vision) · 组织维护 · 中文 README
 
 **面向 AI 生成的声明式信息图渲染引擎，含 200 模板**
 

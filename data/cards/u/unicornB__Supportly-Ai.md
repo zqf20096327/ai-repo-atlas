@@ -1,6 +1,6 @@
 # unicornB/Supportly-Ai
 
-⭐ 35 · TypeScript · 推送 2026-05-23 · [GitHub](https://github.com/unicornB/Supportly-Ai) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · 推送 2026-05-23 · [GitHub](https://github.com/unicornB/Supportly-Ai) · 个人维护 · 中文 README
 
 **给小团队自部署的 Cloudflare 原生 AI 智能客服后端**
 

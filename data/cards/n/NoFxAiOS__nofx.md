@@ -1,6 +1,6 @@
 # NoFxAiOS/nofx
 
-⭐ 13,141 · Go · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/NoFxAiOS/nofx) · [官网](https://vergex.trade/explore) · 组织维护 · 中文 README
+⭐ 13,149 · Go · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/NoFxAiOS/nofx) · [官网](https://vergex.trade/explore) · 组织维护 · 中文 README
 
 **自托管 AI 交易系统：人审下单与连续策略执行**
 

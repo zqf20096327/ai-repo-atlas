@@ -1,6 +1,6 @@
 # hitz-zentroa/latxa
 
-⭐ 37 · Shell · MIT · 推送 2025-12-15 · [GitHub](https://github.com/hitz-zentroa/latxa) · 组织维护
+⭐ 38 · Shell · MIT · 推送 2025-12-15 · [GitHub](https://github.com/hitz-zentroa/latxa) · 组织维护
 
 **面向巴斯克语的开放大语言模型与评测套件（7B-70B）**
 

@@ -1,6 +1,6 @@
 # Intelligent-Internet/opencode-a2a
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Intelligent-Internet/opencode-a2a) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Intelligent-Internet/opencode-a2a) · 组织维护
 
 **将 OpenCode 接入 A2A 协议的适配服务**
 

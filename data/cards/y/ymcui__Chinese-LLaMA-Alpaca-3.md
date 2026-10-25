@@ -1,6 +1,6 @@
 # ymcui/Chinese-LLaMA-Alpaca-3
 
-⭐ 1,978 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3) · 个人维护 · 中文 README
+⭐ 1,977 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3) · 个人维护 · 中文 README
 
 **基于 Meta Llama-3 的中文增量预训练与指令精调开源大模型**
 

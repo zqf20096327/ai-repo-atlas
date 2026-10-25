@@ -1,6 +1,6 @@
 # mrexodia/ida-pro-mcp
 
-⭐ 13,126 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/mrexodia/ida-pro-mcp) · [官网](https://plugins.hex-rays.com/mrexodia/ida-pro-mcp) · 个人维护
+⭐ 13,149 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/mrexodia/ida-pro-mcp) · [官网](https://plugins.hex-rays.com/mrexodia/ida-pro-mcp) · 个人维护
 
 **连接 IDA Pro 与 LLM 的 MCP 服务器，辅助逆向分析**
 

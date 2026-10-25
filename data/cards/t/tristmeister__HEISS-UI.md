@@ -1,6 +1,6 @@
 # tristmeister/HEISS-UI
 
-⭐ 68 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tristmeister/HEISS-UI) · [官网](https://heiss-ui.vercel.app/) · 个人维护
+⭐ 69 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tristmeister/HEISS-UI) · [官网](https://heiss-ui.vercel.app/) · 个人维护
 
 **ComfyUI 的本地简洁前端：免节点图写提示词生成图像/视频**
 

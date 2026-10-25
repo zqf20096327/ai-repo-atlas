@@ -1,6 +1,6 @@
 # tiwe0/GeoChat
 
-⭐ 122 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tiwe0/GeoChat) · [官网](https://chat-with-geogebra.com) · 个人维护 · 中文 README
+⭐ 123 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tiwe0/GeoChat) · [官网](https://chat-with-geogebra.com) · 个人维护 · 中文 README
 
 **让 AI 对话融入 GeoGebra 画板的数学学习桌面应用**
 

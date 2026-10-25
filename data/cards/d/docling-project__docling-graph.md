@@ -1,6 +1,6 @@
 # docling-project/docling-graph
 
-⭐ 936 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/docling-project/docling-graph) · 组织维护
+⭐ 937 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/docling-project/docling-graph) · 组织维护
 
 **把非结构化文档转成可查询知识图谱的抽取工具链**
 

@@ -1,6 +1,6 @@
 # handsomeZR-netizen/cn-patent-drafter
 
-⭐ 62 · TeX · MIT · 推送 2026-05-06 · [GitHub](https://github.com/handsomeZR-netizen/cn-patent-drafter) · 个人维护 · 中文 README
+⭐ 63 · TeX · MIT · 推送 2026-05-06 · [GitHub](https://github.com/handsomeZR-netizen/cn-patent-drafter) · 个人维护 · 中文 README
 
 **面向 Claude Code 的中国发明专利起草 Skill：按 CNIPA 规范出 PDF**
 

@@ -1,6 +1,6 @@
 # Xyntopia/taskyon
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Xyntopia/taskyon) · [官网](https://taskyon.space) · 组织维护
+⭐ 56 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xyntopia/taskyon) · [官网](https://taskyon.space) · 组织维护
 
 **本地优先的浏览器端 AI 聊天/任务树设计自动化工具**
 

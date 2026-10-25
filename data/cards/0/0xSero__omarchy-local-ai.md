@@ -1,6 +1,6 @@
 # 0xSero/omarchy-local-ai
 
-⭐ 155 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/0xSero/omarchy-local-ai) · [官网](https://local.sybilsolutions.ai) · 个人维护
+⭐ 158 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/0xSero/omarchy-local-ai) · [官网](https://local.sybilsolutions.ai) · 个人维护
 
 **Omarchy 桌面的本地模型运行面板：按显卡选模型并服务编码 agent**
 

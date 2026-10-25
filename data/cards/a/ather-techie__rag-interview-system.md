@@ -1,6 +1,6 @@
 # ather-techie/rag-interview-system
 
-⭐ 170 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/ather-techie/rag-interview-system) · [官网](https://ather-techie.github.io/rag-interview-system/) · 个人维护
+⭐ 174 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/ather-techie/rag-interview-system) · [官网](https://ather-techie.github.io/rag-interview-system/) · 个人维护
 
 **1509 道 RAG 面试问答合集，覆盖 52 种架构与生产故障**
 

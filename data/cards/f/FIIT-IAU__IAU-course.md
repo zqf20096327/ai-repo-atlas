@@ -1,6 +1,6 @@
 # FIIT-IAU/IAU-course
 
-⭐ 56 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/FIIT-IAU/IAU-course) · 组织维护
+⭐ 56 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/FIIT-IAU/IAU-course) · 组织维护
 
 **布拉迪斯拉发理工大学的数据科学导论课程仓库**
 

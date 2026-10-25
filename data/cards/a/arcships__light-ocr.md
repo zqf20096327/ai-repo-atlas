@@ -1,6 +1,6 @@
 # arcships/light-ocr
 
-⭐ 643 · C++ · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/arcships/light-ocr) · 组织维护 · 中文 README
+⭐ 646 · C++ · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/arcships/light-ocr) · 组织维护 · 中文 README
 
 **Node.js/C++ 本地离线 OCR 库，识别图片与 PDF 文本**
 

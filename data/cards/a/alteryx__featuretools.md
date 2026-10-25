@@ -1,6 +1,6 @@
 # alteryx/featuretools
 
-⭐ 7,687 · Python · BSD-3-Clause · 推送 2026-09-11 · [GitHub](https://github.com/alteryx/featuretools) · [官网](https://www.featuretools.com) · 组织维护
+⭐ 7,688 · Python · BSD-3-Clause · 推送 2026-09-11 · [GitHub](https://github.com/alteryx/featuretools) · [官网](https://www.featuretools.com) · 组织维护
 
 **面向数据科学家的 Python 自动特征工程库**
 

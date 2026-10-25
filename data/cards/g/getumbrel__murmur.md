@@ -1,6 +1,6 @@
 # getumbrel/murmur
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/getumbrel/murmur) · 组织维护
+⭐ 46 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/getumbrel/murmur) · 组织维护
 
 **自托管 Hermes AI agent 的多端聊天界面与客户端**
 

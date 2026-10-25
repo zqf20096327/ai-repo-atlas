@@ -1,6 +1,6 @@
 # Razee4315/Paperling
 
-⭐ 587 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Razee4315/Paperling) · [官网](https://razee4315.github.io/Paperling/) · 个人维护
+⭐ 588 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Razee4315/Paperling) · [官网](https://razee4315.github.io/Paperling/) · 个人维护
 
 **免配置的 Markdown 阅读编辑器，内置可选 AI 改稿助手**
 

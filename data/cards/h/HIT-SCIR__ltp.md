@@ -1,6 +1,6 @@
 # HIT-SCIR/ltp
 
-⭐ 5,265 · Python · 推送 2026-03-11 · [GitHub](https://github.com/HIT-SCIR/ltp) · [官网](http://ltp.ai) · 组织维护 · 中文 README
+⭐ 5,266 · Python · 推送 2026-03-11 · [GitHub](https://github.com/HIT-SCIR/ltp) · [官网](http://ltp.ai) · 组织维护 · 中文 README
 
 **面向中文 NLP 的开源工具平台：分词、词性、句法等六大任务**
 

@@ -1,6 +1,6 @@
 # FavioVazquez/learnship
 
-⭐ 61 · Shell · MIT · 推送 2026-05-28 · [GitHub](https://github.com/FavioVazquez/learnship) · [官网](https://faviovazquez.github.io/learnship/) · 个人维护
+⭐ 62 · Shell · MIT · 推送 2026-05-28 · [GitHub](https://github.com/FavioVazquez/learnship) · [官网](https://faviovazquez.github.io/learnship/) · 个人维护
 
 **给 AI 编程 agent 用户的上下文工程与规范驱动开发脚手架**
 

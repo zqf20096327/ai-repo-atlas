@@ -1,6 +1,6 @@
 # it-at-m/mucgpt
 
-⭐ 65 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/it-at-m/mucgpt) · [官网](https://ki.muenchen.de/ki-systeme/mucgpt) · 组织维护
+⭐ 65 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/it-at-m/mucgpt) · [官网](https://ki.muenchen.de/ki-systeme/mucgpt) · 组织维护
 
 **面向公共管理部门的 LLM 网页助手系统，可创建共享个人助手**
 

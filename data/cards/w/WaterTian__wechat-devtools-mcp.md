@@ -1,6 +1,6 @@
 # WaterTian/wechat-devtools-mcp
 
-⭐ 155 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/WaterTian/wechat-devtools-mcp) · 个人维护 · 中文 README
+⭐ 156 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/WaterTian/wechat-devtools-mcp) · 个人维护 · 中文 README
 
 **封装微信开发者工具为 MCP 服务，让编辑器 AI 编译调试小程序**
 

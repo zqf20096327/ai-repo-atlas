@@ -1,6 +1,6 @@
 # securade/hub
 
-⭐ 293 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/securade/hub) · [官网](https://securadeai.com) · 组织维护
+⭐ 295 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/securade/hub) · [官网](https://securadeai.com) · 组织维护
 
 **接驳现有 CCTV 的边缘计算机视觉平台，做安全事件检测**
 

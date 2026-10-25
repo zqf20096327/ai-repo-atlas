@@ -1,6 +1,6 @@
 # brandononchain/opentrade
 
-⭐ 47 · JavaScript · 推送 2026-05-17 · [GitHub](https://github.com/brandononchain/opentrade) · [官网](https://github.com/brandononchain/opentrade#readme) · 个人维护
+⭐ 48 · JavaScript · 推送 2026-05-17 · [GitHub](https://github.com/brandononchain/opentrade) · [官网](https://github.com/brandononchain/opentrade#readme) · 个人维护
 
 **对话式 TradingView AI 代理：读写图表、生成回测 Pine 策略**
 

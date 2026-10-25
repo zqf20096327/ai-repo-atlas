@@ -1,6 +1,6 @@
 # mingchen666/DocTranslator
 
-⭐ 286 · Python · 推送 2026-09-30 · [GitHub](https://github.com/mingchen666/DocTranslator) · [官网](https://www.doctranslator.cn) · 个人维护 · 中文 README
+⭐ 285 · Python · 推送 2026-09-30 · [GitHub](https://github.com/mingchen666/DocTranslator) · [官网](https://www.doctranslator.cn) · 个人维护 · 中文 README
 
 **面向个人与团队的文档 AI 翻译 Web 应用，支持批量与多线程**
 

@@ -1,6 +1,6 @@
 # surrealdb/docs.surrealdb.com
 
-⭐ 121 · HTML · 推送 2026-10-23 · [GitHub](https://github.com/surrealdb/docs.surrealdb.com) · [官网](https://surrealdb.com/docs/surrealdb) · 组织维护
+⭐ 121 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/surrealdb/docs.surrealdb.com) · [官网](https://surrealdb.com/docs/surrealdb) · 组织维护
 
 **SurrealDB 官方文档站源码仓库，供贡献与本地开发**
 

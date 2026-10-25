@@ -1,6 +1,6 @@
 # crisnahine/rails-ai-context
 
-⭐ 164 · Ruby · MIT · 推送 2026-10-23 · [GitHub](https://github.com/crisnahine/rails-ai-context) · [官网](https://crisnahine.github.io/rails-ai-context) · 个人维护
+⭐ 165 · Ruby · MIT · 推送 2026-10-24 · [GitHub](https://github.com/crisnahine/rails-ai-context) · [官网](https://crisnahine.github.io/rails-ai-context) · 个人维护
 
 **给 Rails 开发者：35 个只读 MCP/CLI 工具让 AI 编码助手读取真实应用结构**
 

@@ -1,6 +1,6 @@
 # peterdsharpe/NeuralFoil
 
-⭐ 496 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/peterdsharpe/NeuralFoil) · 个人维护
+⭐ 497 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/peterdsharpe/NeuralFoil) · 个人维护
 
 **给飞机设计者的翼型气动快速分析工具，机器学习替代 XFoil**
 

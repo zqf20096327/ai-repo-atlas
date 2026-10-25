@@ -1,6 +1,6 @@
 # FunnyWolf/Viper
 
-⭐ 5,325 · 推送 2026-05-31 · [GitHub](https://github.com/FunnyWolf/Viper) · [官网](https://www.viperrtp.com) · 个人维护 · 中文 README
+⭐ 5,332 · 推送 2026-05-31 · [GitHub](https://github.com/FunnyWolf/Viper) · [官网](https://www.viperrtp.com) · 个人维护 · 中文 README
 
 **面向红队的对抗模拟平台，集成100+后渗透模块与LLM Agent**
 

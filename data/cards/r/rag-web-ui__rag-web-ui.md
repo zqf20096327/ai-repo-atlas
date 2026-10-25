@@ -1,6 +1,6 @@
 # rag-web-ui/rag-web-ui
 
-⭐ 3,300 · TypeScript · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/rag-web-ui/rag-web-ui) · 组织维护 · 中文 README
+⭐ 3,301 · TypeScript · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/rag-web-ui/rag-web-ui) · 组织维护 · 中文 README
 
 **基于 RAG 的私有知识库问答 Web 系统**
 

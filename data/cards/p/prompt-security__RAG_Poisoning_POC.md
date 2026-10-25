@@ -1,6 +1,6 @@
 # prompt-security/RAG_Poisoning_POC
 
-⭐ 36 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/prompt-security/RAG_Poisoning_POC) · [官网](https://prompt.security) · 组织维护
+⭐ 36 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/prompt-security/RAG_Poisoning_POC) · [官网](https://prompt.security) · 组织维护
 
 **RAG 语料投毒（间接提示注入）的可复现教学演示 POC**
 

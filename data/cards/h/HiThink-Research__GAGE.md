@@ -1,6 +1,6 @@
 # HiThink-Research/GAGE
 
-⭐ 52 · Python · 推送 2026-06-02 · [GitHub](https://github.com/HiThink-Research/GAGE) · 组织维护 · 中文 README
+⭐ 53 · Python · 推送 2026-06-02 · [GitHub](https://github.com/HiThink-Research/GAGE) · 组织维护 · 中文 README
 
 **统一评测引擎：LLM/多模态/音频/扩散模型与游戏竞技场评测**
 

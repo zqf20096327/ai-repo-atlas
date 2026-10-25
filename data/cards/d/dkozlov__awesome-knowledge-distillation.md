@@ -1,6 +1,6 @@
 # dkozlov/awesome-knowledge-distillation
 
-⭐ 3,915 · Apache-2.0 · 推送 2026-05-25 · [GitHub](https://github.com/dkozlov/awesome-knowledge-distillation) · 个人维护
+⭐ 3,916 · Apache-2.0 · 推送 2026-05-25 · [GitHub](https://github.com/dkozlov/awesome-knowledge-distillation) · 个人维护
 
 **知识蒸馏论文清单：收录 1990-2019 相关研究文献**
 

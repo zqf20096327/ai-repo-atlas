@@ -1,6 +1,6 @@
 # undertheseanlp/underthesea
 
-⭐ 1,811 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/undertheseanlp/underthesea) · [官网](http://undertheseanlp.com) · 组织维护
+⭐ 1,810 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/undertheseanlp/underthesea) · [官网](http://undertheseanlp.com) · 组织维护
 
 **越南语 NLP 工具集 + 多供应商 AI Agent 工具包（Python 库）**
 

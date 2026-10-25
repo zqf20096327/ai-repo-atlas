@@ -1,6 +1,6 @@
 # LLPhant/LLPhant
 
-⭐ 1,722 · PHP · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LLPhant/LLPhant) · 组织维护
+⭐ 1,721 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/LLPhant/LLPhant) · 组织维护
 
 **PHP 生成式 AI 应用开发框架，接入多种 LLM 与向量数据库**
 

@@ -1,6 +1,6 @@
 # opral/lix
 
-⭐ 771 · Rust · MIT · 推送 2026-10-14 · [GitHub](https://github.com/opral/lix) · [官网](https://lix.dev) · 组织维护
+⭐ 773 · Rust · MIT · 推送 2026-10-14 · [GitHub](https://github.com/opral/lix) · [官网](https://lix.dev) · 组织维护
 
 **可嵌入的文件与 SQL 表版本控制系统，支持人与 agent 协作**
 

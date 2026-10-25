@@ -1,6 +1,6 @@
 # aieng-abdullah/production-rag-assistant
 
-⭐ 65 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/aieng-abdullah/production-rag-assistant) · [官网](https://groundedai-frontend.onrender.com) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/aieng-abdullah/production-rag-assistant) · [官网](https://groundedai-frontend.onrender.com) · 个人维护
 
 **面向法律/学术的引用强制核验 RAG 研究助手**
 
@@ -11,7 +11,7 @@ GroundedAI 是一个引用核验型 RAG 问答应用：上传 PDF 后提问，�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

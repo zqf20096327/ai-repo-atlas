@@ -1,6 +1,6 @@
 # airmang/hwpx-plugins
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/airmang/hwpx-plugins) · [官网](https://airmang.github.io/python-hwpx/) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/airmang/hwpx-plugins) · [官网](https://airmang.github.io/python-hwpx/) · 个人维护
 
 **让 AI 代理用自然语言处理韩文 HWPX 文档的技能插件包**
 

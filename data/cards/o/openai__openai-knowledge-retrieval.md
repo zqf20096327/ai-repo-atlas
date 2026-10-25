@@ -1,6 +1,6 @@
 # openai/openai-knowledge-retrieval
 
-⭐ 104 · Python · MIT · 推送 2026-01-13 · [GitHub](https://github.com/openai/openai-knowledge-retrieval) · 组织维护
+⭐ 105 · Python · MIT · 推送 2026-01-13 · [GitHub](https://github.com/openai/openai-knowledge-retrieval) · 组织维护
 
 **OpenAI 官方知识检索 RAG 起步套件：几条命令搭起问答应用**
 

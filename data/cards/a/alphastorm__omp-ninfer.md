@@ -1,6 +1,6 @@
 # alphastorm/omp-ninfer
 
-⭐ 46 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/alphastorm/omp-ninfer) · [官网](https://alphastorm.github.io/omp-ninfer/) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alphastorm/omp-ninfer) · [官网](https://alphastorm.github.io/omp-ninfer/) · 个人维护
 
 **把 Oh My Pi 编码代理接入本地 Qwen3.8 27B 的可复现推理套件**
 

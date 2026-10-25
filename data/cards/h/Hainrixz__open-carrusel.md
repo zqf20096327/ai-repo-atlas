@@ -1,6 +1,6 @@
 # Hainrixz/open-carrusel
 
-⭐ 492 · TypeScript · MIT · 推送 2026-04-15 · [GitHub](https://github.com/Hainrixz/open-carrusel) · 个人维护
+⭐ 494 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/open-carrusel) · 个人维护
 
 **通过与 Claude 对话生成 Instagram 轮播图并导出 PNG 的本地应用**
 

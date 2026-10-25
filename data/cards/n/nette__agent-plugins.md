@@ -1,6 +1,6 @@
 # nette/agent-plugins
 
-⭐ 46 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nette/agent-plugins) · [官网](https://ai.nette.org/en/agent-plugins) · 组织维护
+⭐ 46 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nette/agent-plugins) · [官网](https://ai.nette.org/en/agent-plugins) · 组织维护
 
 **面向 Claude Code 与 Codex 的 Nette 框架开发插件集**
 

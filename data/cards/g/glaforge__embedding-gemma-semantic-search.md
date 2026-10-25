@@ -1,6 +1,6 @@
 # glaforge/embedding-gemma-semantic-search
 
-⭐ 38 · TypeScript · Apache-2.0 · 推送 2026-06-13 · [GitHub](https://github.com/glaforge/embedding-gemma-semantic-search) · 个人维护
+⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-06-13 · [GitHub](https://github.com/glaforge/embedding-gemma-semantic-search) · 个人维护
 
 **浏览器内语义搜索演示：EmbeddingGemma+Transformers.js 无服务器**
 

@@ -1,6 +1,6 @@
 # enmanuelmag/agent-harness-kit
 
-⭐ 183 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/enmanuelmag/agent-harness-kit) · [官网](https://stack.cardor.dev/ahk) · 个人维护
+⭐ 183 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/enmanuelmag/agent-harness-kit) · [官网](https://stack.cardor.dev/ahk) · 个人维护
 
 **给 AI 编码工具的多 agent 工作流脚手架与任务记录工具**
 

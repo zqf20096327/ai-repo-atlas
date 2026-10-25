@@ -1,6 +1,6 @@
 # PlagueKind/ComfyUI-PlagueKind-Nodes
 
-⭐ 209 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes) · 个人维护
+⭐ 210 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes) · 个人维护
 
 **ComfyUI 自定义节点集：图像/遮罩统一缩放、可视裁剪、LoRA 堆叠与 H3 补丁**
 

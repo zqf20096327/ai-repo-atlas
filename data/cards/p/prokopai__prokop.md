@@ -1,6 +1,6 @@
 # prokopai/prokop
 
-⭐ 34 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/prokopai/prokop) · [官网](https://prokopai.dev/) · 个人维护
+⭐ 34 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/prokopai/prokop) · [官网](https://prokopai.dev/) · 个人维护
 
 **自托管编码 agent 工作台：让多个编码 agent 跨项目保留记忆与技能**
 

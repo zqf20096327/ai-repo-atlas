@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI-LongCat-Avatar
 
-⭐ 42 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/rookiestar28/ComfyUI-LongCat-Avatar) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/rookiestar28/ComfyUI-LongCat-Avatar) · 个人维护
 
 **在 ComfyUI 中运行 LongCat Avatar 1.5 音频驱动数字人视频生成的自定义节点**
 

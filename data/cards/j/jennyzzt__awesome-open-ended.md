@@ -1,6 +1,6 @@
 # jennyzzt/awesome-open-ended
 
-⭐ 478 · 推送 2026-10-21 · [GitHub](https://github.com/jennyzzt/awesome-open-ended) · 个人维护
+⭐ 479 · 推送 2026-10-21 · [GitHub](https://github.com/jennyzzt/awesome-open-ended) · 个人维护
 
 **开放式学习（open-ended）AI 研究论文与资源策展清单**
 

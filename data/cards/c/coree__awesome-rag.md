@@ -1,6 +1,6 @@
 # coree/awesome-rag
 
-⭐ 454 · CC0-1.0 · 推送 2025-12-01 · [GitHub](https://github.com/coree/awesome-rag) · 个人维护
+⭐ 455 · CC0-1.0 · 推送 2025-12-01 · [GitHub](https://github.com/coree/awesome-rag) · 个人维护
 
 **RAG 论文与工具的策展清单：面向 LLM 检索增强生成研究者**
 

@@ -1,6 +1,6 @@
 # shoumikchow/bbox-visualizer
 
-⭐ 412 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/shoumikchow/bbox-visualizer) · [官网](https://bbox-visualizer.readthedocs.io) · 个人维护
+⭐ 411 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/shoumikchow/bbox-visualizer) · [官网](https://bbox-visualizer.readthedocs.io) · 个人维护
 
 **在图像上绘制并标注边界框的 Python 可视化库**
 

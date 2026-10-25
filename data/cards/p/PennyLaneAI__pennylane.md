@@ -1,6 +1,6 @@
 # PennyLaneAI/pennylane
 
-⭐ 3,507 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PennyLaneAI/pennylane) · [官网](https://pennylane.ai) · 组织维护
+⭐ 3,509 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PennyLaneAI/pennylane) · [官网](https://pennylane.ai) · 组织维护
 
 **量子计算/量子机器学习/量子化学的开源软件平台**
 

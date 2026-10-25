@@ -1,6 +1,6 @@
 # aveproject/ave
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/aveproject/ave) · [官网](https://aveproject.org/) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/aveproject/ave) · [官网](https://aveproject.org/) · 组织维护
 
 **智能体 AI 组件行为漏洞的开放分类标准（87 条记录）**
 

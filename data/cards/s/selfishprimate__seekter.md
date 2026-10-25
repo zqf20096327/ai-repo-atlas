@@ -1,6 +1,6 @@
 # selfishprimate/seekter
 
-⭐ 76 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/selfishprimate/seekter) · [官网](seekter.dev) · 个人维护
+⭐ 78 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/selfishprimate/seekter) · [官网](seekter.dev) · 个人维护
 
 **求职者用的 Claude Code 求职代理：搜索、过滤、代填申请**
 

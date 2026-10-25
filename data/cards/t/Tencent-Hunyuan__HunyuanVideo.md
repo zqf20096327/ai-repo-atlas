@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanVideo
 
-⭐ 12,662 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo) · [官网](https://aivideo.hunyuan.tencent.com) · 组织维护 · 中文 README
+⭐ 12,666 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo) · [官网](https://aivideo.hunyuan.tencent.com) · 组织维护 · 中文 README
 
 **腾讯开源的 13B 参数文生视频基础模型及推理代码**
 

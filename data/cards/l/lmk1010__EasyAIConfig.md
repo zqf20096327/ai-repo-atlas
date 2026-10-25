@@ -1,6 +1,6 @@
 # lmk1010/EasyAIConfig
 
-⭐ 75 · JavaScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lmk1010/EasyAIConfig) · 个人维护 · 中文 README
+⭐ 74 · JavaScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lmk1010/EasyAIConfig) · 个人维护 · 中文 README
 
 **本地桌面应用：集中配置与管理 AI 编程工具的 Provider、密钥与用量**
 

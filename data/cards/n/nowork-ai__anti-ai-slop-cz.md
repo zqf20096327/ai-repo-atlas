@@ -1,6 +1,6 @@
 # nowork-ai/anti-ai-slop-cz
 
-⭐ 34 · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/nowork-ai/anti-ai-slop-cz) · 个人维护
+⭐ 35 · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/nowork-ai/anti-ai-slop-cz) · 个人维护
 
 **让 AI 用捷克语写出像人写的文本的规则包与 agent 技能**
 

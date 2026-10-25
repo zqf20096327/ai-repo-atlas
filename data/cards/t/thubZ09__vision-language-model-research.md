@@ -1,6 +1,6 @@
 # thubZ09/vision-language-model-research
 
-⭐ 66 · MIT · 推送 2026-03-24 · [GitHub](https://github.com/thubZ09/vision-language-model-research) · 个人维护
+⭐ 67 · MIT · 推送 2026-03-24 · [GitHub](https://github.com/thubZ09/vision-language-model-research) · 个人维护
 
 **视觉-语言模型研究资源清单：模型、数据集、基准与工具聚合**
 

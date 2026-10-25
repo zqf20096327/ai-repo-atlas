@@ -1,6 +1,6 @@
 # oceanbase/oceanbase
 
-⭐ 10,352 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/oceanbase/oceanbase) · [官网](https://en.oceanbase.com) · 组织维护 · 中文 README
+⭐ 10,354 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/oceanbase/oceanbase) · [官网](https://en.oceanbase.com) · 组织维护 · 中文 README
 
 **蚂蚁集团开发的分布式关系型数据库（HTAP，兼容 MySQL）**
 

@@ -1,6 +1,6 @@
 # arcships/aimux
 
-⭐ 204 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/arcships/aimux) · 组织维护 · 中文 README
+⭐ 204 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/arcships/aimux) · 组织维护 · 中文 README
 
 **Rust 统一 LLM 接入层：一套 API 访问 327 家服务商**
 

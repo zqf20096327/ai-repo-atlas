@@ -1,6 +1,6 @@
 # symfony/ai-agent
 
-⭐ 35 · PHP · MIT · 推送 2026-10-23 · [GitHub](https://github.com/symfony/ai-agent) · [官网](https://symfony.com/packages/ai-agent) · 组织维护
+⭐ 35 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/symfony/ai-agent) · [官网](https://symfony.com/packages/ai-agent) · 组织维护
 
 **Symfony 生态的 PHP AI Agent 构建框架组件**
 

@@ -1,6 +1,6 @@
 # only-cli/oc
 
-⭐ 544 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/only-cli/oc) · [官网](https://only-cli.com) · 组织维护
+⭐ 546 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/only-cli/oc) · [官网](https://only-cli.com) · 组织维护
 
 **把网页变成紧凑 CLI 供 AI agent 低价浏览的命令行工具**
 

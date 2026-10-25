@@ -1,6 +1,6 @@
 # MnemosyneOS/mnemosyne
 
-⭐ 38 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MnemosyneOS/mnemosyne) · [官网](https://ai-memory.net) · 组织维护 · 中文 README
+⭐ 38 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/MnemosyneOS/mnemosyne) · [官网](https://ai-memory.net) · 组织维护 · 中文 README
 
 **本地优先的 MCP 记忆服务器，供 AI agent 存取长期记忆**
 

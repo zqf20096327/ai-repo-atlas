@@ -1,6 +1,6 @@
 # mastra-ai/mastra
 
-⭐ 29,049 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/mastra-ai/mastra) · [官网](https://mastra.ai) · 组织维护
+⭐ 29,067 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/mastra-ai/mastra) · [官网](https://mastra.ai) · 组织维护
 
 **面向开发者的 TypeScript AI 应用与 Agent 框架**
 

@@ -1,6 +1,6 @@
 # greyhatguy007/Machine-Learning-Specialization-Coursera
 
-⭐ 8,082 · Jupyter Notebook · MIT · 推送 2025-12-28 · [GitHub](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) · 个人维护
+⭐ 8,090 · Jupyter Notebook · MIT · 推送 2025-12-28 · [GitHub](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) · 个人维护
 
 **吴恩达 Coursera 机器学习专项课程的作业解答与笔记汇编**
 

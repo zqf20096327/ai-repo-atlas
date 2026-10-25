@@ -1,6 +1,6 @@
 # crow-hq/llm-wiki-v2
 
-⭐ 246 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/crow-hq/llm-wiki-v2) · [官网](https://pypi.org/project/llmwiki2/) · 组织维护
+⭐ 247 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/crow-hq/llm-wiki-v2) · [官网](https://pypi.org/project/llmwiki2/) · 组织维护
 
 **把文档整理成带引用回答的本地 Markdown 百科（LLM Wiki v2）**
 

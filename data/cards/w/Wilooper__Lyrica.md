@@ -1,6 +1,6 @@
 # Wilooper/Lyrica
 
-⭐ 69 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Wilooper/Lyrica) · [官网](https://test-0k.onrender.com) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Wilooper/Lyrica) · [官网](https://test-0k.onrender.com) · 个人维护
 
 **自托管歌词 REST API：聚合 8 源并支持 AI 翻译与多级同步**
 

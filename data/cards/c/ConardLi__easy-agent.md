@@ -1,6 +1,6 @@
 # ConardLi/easy-agent
 
-⭐ 1,016 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ConardLi/easy-agent) · 个人维护 · 中文 README
+⭐ 1,015 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ConardLi/easy-agent) · 个人维护 · 中文 README
 
 **终端编程 agent：读改代码、跑命令，受权限与沙箱约束**
 

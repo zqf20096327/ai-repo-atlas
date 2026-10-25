@@ -1,6 +1,6 @@
 # ecwilsonaz/mediasage
 
-⭐ 135 · Python · MIT · 推送 2026-02-20 · [GitHub](https://github.com/ecwilsonaz/mediasage) · 个人维护
+⭐ 136 · Python · MIT · 推送 2026-02-20 · [GitHub](https://github.com/ecwilsonaz/mediasage) · 个人维护
 
 **自托管 Web 应用：用 LLM 从 Plex 音乐库生成歌单与专辑推荐**
 

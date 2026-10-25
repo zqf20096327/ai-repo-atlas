@@ -1,6 +1,6 @@
 # wildminder/ComfyUI-KEEP
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/wildminder/ComfyUI-KEEP) · 个人维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/wildminder/ComfyUI-KEEP) · 个人维护
 
 **ComfyUI 上的 KEEP 视频人脸超分辨率自定义节点**
 

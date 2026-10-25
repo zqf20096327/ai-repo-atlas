@@ -1,6 +1,6 @@
 # psu-efd/pyHMT2D
 
-⭐ 133 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/psu-efd/pyHMT2D) · 组织维护
+⭐ 134 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/psu-efd/pyHMT2D) · 组织维护
 
 **Python 2D 水力建模控制与前后处理工具，支持 AI Agent 调用**
 

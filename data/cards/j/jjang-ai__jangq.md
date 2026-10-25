@@ -1,6 +1,6 @@
 # jjang-ai/jangq
 
-⭐ 231 · Python · 推送 2026-10-18 · [GitHub](https://github.com/jjang-ai/jangq) · [官网](https://jangq.ai/) · 个人维护
+⭐ 231 · Python · 推送 2026-10-25 · [GitHub](https://github.com/jjang-ai/jangq) · [官网](https://jangq.ai/) · 个人维护
 
 **面向 Apple Silicon 的 MLX 混合精度量化格式与推理运行时**
 

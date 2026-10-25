@@ -1,6 +1,6 @@
 # wahaha-potato/mcd-coupon-xray
 
-⭐ 36 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wahaha-potato/mcd-coupon-xray) · 个人维护 · 中文 README
+⭐ 123 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wahaha-potato/mcd-coupon-xray) · 个人维护 · 中文 README
 
 **麦当劳优惠券核销校验 Skill：逐店验哪张券真能用**
 

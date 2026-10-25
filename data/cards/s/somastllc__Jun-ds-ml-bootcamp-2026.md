@@ -1,6 +1,6 @@
 # somastllc/Jun-ds-ml-bootcamp-2026
 
-⭐ 206 · Jupyter Notebook · NOASSERTION · 推送 2026-08-11 · [GitHub](https://github.com/somastllc/Jun-ds-ml-bootcamp-2026) · [官网](https://youtu.be/Ln9f16vI67U) · 组织维护
+⭐ 208 · Jupyter Notebook · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/Jun-ds-ml-bootcamp-2026) · [官网](https://youtu.be/Ln9f16vI67U) · 组织维护
 
 **一个月数据科学与机器学习训练营的课程代码与视频资源仓库**
 

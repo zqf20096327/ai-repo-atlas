@@ -1,6 +1,6 @@
 # agentenatalie/get-job.skill
 
-⭐ 680 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/agentenatalie/get-job.skill) · 个人维护 · 中文 README
+⭐ 682 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/agentenatalie/get-job.skill) · 个人维护 · 中文 README
 
 **求职全流程 agent skill：岗位调研、简历改写、面试准备**
 

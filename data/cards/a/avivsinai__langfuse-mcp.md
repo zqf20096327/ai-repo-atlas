@@ -1,6 +1,6 @@
 # avivsinai/langfuse-mcp
 
-⭐ 112 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/avivsinai/langfuse-mcp) · [官网](https://github.com/avivsinai/langfuse-mcp) · 个人维护
+⭐ 112 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/avivsinai/langfuse-mcp) · [官网](https://github.com/avivsinai/langfuse-mcp) · 个人维护
 
 **让 AI agent 查询 Langfuse 追踪数据的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # lucidrains/PaLM-rlhf-pytorch
 
-⭐ 7,863 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/lucidrains/PaLM-rlhf-pytorch) · 个人维护
+⭐ 7,864 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/lucidrains/PaLM-rlhf-pytorch) · 个人维护
 
 **PyTorch 实现的 PaLM+RLHF 训练库，供研究者复现**
 

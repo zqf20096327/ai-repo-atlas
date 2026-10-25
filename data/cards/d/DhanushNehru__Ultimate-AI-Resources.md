@@ -1,6 +1,6 @@
 # DhanushNehru/Ultimate-AI-Resources
 
-⭐ 41 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/DhanushNehru/Ultimate-AI-Resources) · [官网](https://dhanushnehru.github.io/Ultimate-AI-Resources) · 个人维护
+⭐ 41 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/DhanushNehru/Ultimate-AI-Resources) · [官网](https://dhanushnehru.github.io/Ultimate-AI-Resources) · 个人维护
 
 **500+ 条 AI 工具与学习资源策展清单（awesome list）**
 

@@ -1,6 +1,6 @@
 # GraflowAI/graflow
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/GraflowAI/graflow) · [官网](https://graflow.ai) · 组织维护
+⭐ 41 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/GraflowAI/graflow) · [官网](https://graflow.ai) · 组织维护
 
 **面向开发者的 Pythonic LLM agent 工作流编排框架**
 

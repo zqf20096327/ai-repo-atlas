@@ -1,6 +1,6 @@
 # Zaious/Antigravity-Skills-Chronicle
 
-⭐ 37 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/Zaious/Antigravity-Skills-Chronicle) · [官网](https://open-vsx.org/extension/ChronicleCore/antigravity-skills-chronicle) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/Zaious/Antigravity-Skills-Chronicle) · [官网](https://open-vsx.org/extension/ChronicleCore/antigravity-skills-chronicle) · 个人维护
 
 **管理 AI Agent 技能、工作流与规则的 VS Code 扩展**
 

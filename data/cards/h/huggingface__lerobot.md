@@ -1,6 +1,6 @@
 # huggingface/lerobot
 
-⭐ 28,442 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/huggingface/lerobot) · [官网](https://huggingface.co/docs/lerobot) · 组织维护 · 中文 README
+⭐ 28,463 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/huggingface/lerobot) · [官网](https://huggingface.co/docs/lerobot) · 组织维护 · 中文 README
 
 **为机器人提供模型、数据集与工具的开源库**
 

@@ -1,6 +1,6 @@
 # volcengine/ark-cli
 
-⭐ 148 · jq · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/volcengine/ark-cli) · [官网](https://console.volcengine.com/ark/region:cn-beijing/arkcli) · 组织维护 · 中文 README
+⭐ 149 · jq · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/volcengine/ark-cli) · [官网](https://console.volcengine.com/ark/region:cn-beijing/arkcli) · 组织维护 · 中文 README
 
 **把火山方舟能力接入终端与 AI Agent 的官方 CLI**
 

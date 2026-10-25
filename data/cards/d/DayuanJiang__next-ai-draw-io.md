@@ -1,6 +1,6 @@
 # DayuanJiang/next-ai-draw-io
 
-⭐ 36,399 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/DayuanJiang/next-ai-draw-io) · [官网](https://next-ai-drawio.jiang.jp/) · 个人维护
+⭐ 36,405 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/DayuanJiang/next-ai-draw-io) · [官网](https://next-ai-drawio.jiang.jp/) · 个人维护
 
 **通过对话生成与编辑 draw.io 图表的 AI 工具**
 

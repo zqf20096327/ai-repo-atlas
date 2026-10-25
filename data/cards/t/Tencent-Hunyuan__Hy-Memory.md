@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-Memory
 
-⭐ 1,263 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Memory) · 组织维护 · 中文 README
+⭐ 1,275 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Memory) · 组织维护 · 中文 README
 
 **面向自进化 LLM agent 的双系统认知记忆引擎与 Python SDK**
 

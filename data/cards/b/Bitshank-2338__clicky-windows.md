@@ -1,6 +1,6 @@
 # Bitshank-2338/clicky-windows
 
-⭐ 275 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Bitshank-2338/clicky-windows) · 个人维护
+⭐ 278 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Bitshank-2338/clicky-windows) · 个人维护
 
 **常驻光标旁的 Windows 离线 AI 屏幕教学助手**
 

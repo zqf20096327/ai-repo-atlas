@@ -1,6 +1,6 @@
 # triggerdotdev/trigger.dev
 
-⭐ 16,608 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/triggerdotdev/trigger.dev) · [官网](https://trigger.dev/changelog) · 组织维护
+⭐ 16,616 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/triggerdotdev/trigger.dev) · [官网](https://trigger.dev/changelog) · 组织维护
 
 **为开发者提供 TypeScript 平台构建部署持久化 AI 工作流**
 

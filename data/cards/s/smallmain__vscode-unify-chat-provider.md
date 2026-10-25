@@ -1,6 +1,6 @@
 # smallmain/vscode-unify-chat-provider
 
-⭐ 719 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/smallmain/vscode-unify-chat-provider) · 个人维护 · 中文 README
+⭐ 718 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/smallmain/vscode-unify-chat-provider) · 个人维护 · 中文 README
 
 **把多家 LLM API 接入 VS Code Copilot Chat 的扩展**
 

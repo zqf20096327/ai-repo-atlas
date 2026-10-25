@@ -1,6 +1,6 @@
 # ipa-lab/hackingBuddyGPT
 
-⭐ 1,284 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ipa-lab/hackingBuddyGPT) · [官网](https://hackingbuddy.ai/) · 组织维护
+⭐ 1,288 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ipa-lab/hackingBuddyGPT) · [官网](https://hackingbuddy.ai/) · 组织维护
 
 **构建 LLM 驱动安全测试 agent 的框架（约 50 行代码起步）**
 

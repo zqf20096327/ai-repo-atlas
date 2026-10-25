@@ -1,6 +1,6 @@
 # shifulegend/project-zero
 
-⭐ 50 · C · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shifulegend/project-zero) · [官网](https://github.com/shifulegend/project-zero/discussions) · 个人维护
+⭐ 52 · C · MIT · 推送 2026-10-25 · [GitHub](https://github.com/shifulegend/project-zero) · [官网](https://github.com/shifulegend/project-zero/discussions) · 个人维护
 
 **纯 C 实现的 CPU LLM 推理引擎，单二进制运行多族模型**
 

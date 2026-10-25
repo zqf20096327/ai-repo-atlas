@@ -1,6 +1,6 @@
 # pavankumar-8586/Pose-Form-Rep-Coach
 
-⭐ 57 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/pavankumar-8586/Pose-Form-Rep-Coach) · 个人维护
+⭐ 57 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/pavankumar-8586/Pose-Form-Rep-Coach) · 个人维护
 
 **用摄像头做实时动作识别的居家健身计数与姿势纠错应用**
 

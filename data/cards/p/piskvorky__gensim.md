@@ -1,6 +1,6 @@
 # piskvorky/gensim
 
-⭐ 16,504 · Python · LGPL-2.1 · 推送 2025-11-01 · [GitHub](https://github.com/piskvorky/gensim) · [官网](https://radimrehurek.com/gensim) · 个人维护
+⭐ 16,506 · Python · LGPL-2.1 · 推送 2025-11-01 · [GitHub](https://github.com/piskvorky/gensim) · [官网](https://radimrehurek.com/gensim) · 个人维护
 
 **面向 NLP/IR 社区的 Python 主题建模与相似度检索库**
 

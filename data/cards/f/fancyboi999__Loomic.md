@@ -1,6 +1,6 @@
 # fancyboi999/Loomic
 
-⭐ 292 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/fancyboi999/Loomic) · [官网](https://loomic-one.vercel.app) · 个人维护 · 中文 README
+⭐ 293 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/fancyboi999/Loomic) · [官网](https://loomic-one.vercel.app) · 个人维护 · 中文 README
 
 **开源 AI 画布设计 Agent：对话生成图片与视频**
 

@@ -1,6 +1,6 @@
 # tinystruct/tinystruct
 
-⭐ 363 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tinystruct/tinystruct) · [官网](https://tinystruct.org) · 组织维护
+⭐ 363 · Java · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/tinystruct/tinystruct) · [官网](https://tinystruct.org) · 组织维护
 
 **面向 Java 开发者的轻量模块化 Web/CLI 应用框架，支持 AI 集成**
 

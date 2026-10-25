@@ -1,6 +1,6 @@
 # 0xdea/oneiromancer
 
-⭐ 146 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/0xdea/oneiromancer) · [官网](https://ollama.com) · 个人维护
+⭐ 146 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/0xdea/oneiromancer) · [官网](https://ollama.com) · 个人维护
 
 **逆向工程助手：本地 LLM 辅助分析 Hex-Rays 伪代码**
 

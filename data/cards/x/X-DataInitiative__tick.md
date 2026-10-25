@@ -1,6 +1,6 @@
 # X-DataInitiative/tick
 
-⭐ 588 · Python · BSD-3-Clause · 推送 2026-06-15 · [GitHub](https://github.com/X-DataInitiative/tick) · [官网](https://x-datainitiative.github.io/tick/) · 组织维护
+⭐ 595 · Python · BSD-3-Clause · 推送 2026-06-15 · [GitHub](https://github.com/X-DataInitiative/tick) · [官网](https://x-datainitiative.github.io/tick/) · 组织维护
 
 **面向时序/点过程的 Python 3 统计学习库**
 

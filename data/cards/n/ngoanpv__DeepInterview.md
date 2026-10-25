@@ -1,6 +1,6 @@
 # ngoanpv/DeepInterview
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/ngoanpv/DeepInterview) · [官网](https://deepinterview) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/ngoanpv/DeepInterview) · [官网](https://deepinterview) · 个人维护
 
 **开源自托管的语音 AI 模拟面试官：练口语并评分辅导**
 

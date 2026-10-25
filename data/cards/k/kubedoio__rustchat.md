@@ -1,6 +1,6 @@
 # kubedoio/rustchat
 
-⭐ 46 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kubedoio/rustchat) · [官网](https://rustchat.io) · 组织维护
+⭐ 47 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kubedoio/rustchat) · [官网](https://rustchat.io) · 组织维护
 
 **自托管团队聊天与协作基础设施（含 AI Agent 功能）**
 

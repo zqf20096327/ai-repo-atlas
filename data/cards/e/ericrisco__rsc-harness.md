@@ -1,6 +1,6 @@
 # ericrisco/rsc-harness
 
-⭐ 261 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ericrisco/rsc-harness) · [官网](https://ericrisco.github.io/rsc-harness/) · 个人维护
+⭐ 276 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ericrisco/rsc-harness) · [官网](https://ericrisco.github.io/rsc-harness/) · 个人维护
 
 **为 AI 编码助手装配记忆/工具/技能/hook 的元 harness**
 

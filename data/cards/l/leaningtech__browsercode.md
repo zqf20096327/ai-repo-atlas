@@ -1,6 +1,6 @@
 # leaningtech/browsercode
 
-⭐ 144 · Svelte · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/leaningtech/browsercode) · [官网](https://browsercode.io) · 组织维护
+⭐ 145 · Svelte · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/leaningtech/browsercode) · [官网](https://browsercode.io) · 组织维护
 
 **在浏览器沙箱中运行 AI 编程 CLI 与全栈框架原型的 Web IDE**
 

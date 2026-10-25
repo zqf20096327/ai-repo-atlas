@@ -1,6 +1,6 @@
 # penecho/penecho
 
-⭐ 2,498 · JavaScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/penecho/penecho) · [官网](https://penecho.ai) · 组织维护
+⭐ 2,499 · JavaScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/penecho/penecho) · [官网](https://penecho.ai) · 组织维护
 
 **给学习/思考者的 AI 画布：手写、公式、图表与交互组件共处一屏**
 

@@ -1,6 +1,6 @@
 # HojoAI/Hojo-ASR
 
-⭐ 456 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/HojoAI/Hojo-ASR) · 组织维护
+⭐ 470 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/HojoAI/Hojo-ASR) · 组织维护
 
 **基于 Qwen3 LLM 解码器的中英粤川对话语音识别模型**
 

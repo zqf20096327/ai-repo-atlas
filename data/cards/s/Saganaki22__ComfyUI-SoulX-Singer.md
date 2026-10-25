@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-SoulX-Singer
 
-⭐ 93 · Python · Apache-2.0 · 推送 2026-02-18 · [GitHub](https://github.com/Saganaki22/ComfyUI-SoulX-Singer) · [官网](https://huggingface.co/drbaph/SoulX-Singer) · 个人维护
+⭐ 94 · Python · Apache-2.0 · 推送 2026-02-18 · [GitHub](https://github.com/Saganaki22/ComfyUI-SoulX-Singer) · [官网](https://huggingface.co/drbaph/SoulX-Singer) · 个人维护
 
 **ComfyUI 节点封装：零样本歌声合成模型 SoulX-Singer**
 

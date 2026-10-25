@@ -1,6 +1,6 @@
 # mbrg/genai-attacks
 
-⭐ 149 · Python · 推送 2025-12-22 · [GitHub](https://github.com/mbrg/genai-attacks) · [官网](https://ttps.ai) · 个人维护
+⭐ 150 · Python · 推送 2025-12-22 · [GitHub](https://github.com/mbrg/genai-attacks) · [官网](https://ttps.ai) · 个人维护
 
 **面向 GenAI 智能体与 Copilot 的攻击技术（TTP）知识库**
 

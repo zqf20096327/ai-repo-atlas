@@ -1,6 +1,6 @@
 # mehmetbulutaktas458-dev/Aozora-Forge
 
-⭐ 57 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/mehmetbulutaktas458-dev/Aozora-Forge) · 个人维护
+⭐ 57 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/mehmetbulutaktas458-dev/Aozora-Forge) · 个人维护
 
 **低显存扩散模型微调工具包：12GB 显卡上微调 SDXL/ANIMA**
 

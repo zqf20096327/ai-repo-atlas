@@ -1,6 +1,6 @@
 # Priyanshu-byte-coder/contextrot
 
-⭐ 77 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Priyanshu-byte-coder/contextrot) · [官网](https://priyanshu-byte-coder.github.io/contextrot/) · 个人维护
+⭐ 81 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Priyanshu-byte-coder/contextrot) · [官网](https://priyanshu-byte-coder.github.io/contextrot/) · 个人维护
 
 **本地分析 coding agent 会话日志，检测上下文退化趋势**
 

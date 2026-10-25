@@ -1,6 +1,6 @@
 # microsoft/win-dev-skills
 
-⭐ 480 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/win-dev-skills) · 组织维护
+⭐ 481 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/win-dev-skills) · 组织维护
 
 **微软维护的 Windows 开发 AI agent 插件/技能目录**
 

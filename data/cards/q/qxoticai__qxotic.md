@@ -1,6 +1,6 @@
 # qxoticai/qxotic
 
-⭐ 178 · Java · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/qxoticai/qxotic) · [官网](https://qxotic.ai) · 组织维护
+⭐ 181 · Java · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/qxoticai/qxotic) · [官网](https://qxotic.ai) · 组织维护
 
 **JVM 上的纯 Java 本地 AI 推理栈：聊天/语音/嵌入一 jar 搞定**
 

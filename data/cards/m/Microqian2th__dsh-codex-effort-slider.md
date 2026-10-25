@@ -1,6 +1,6 @@
 # Microqian2th/dsh-codex-effort-slider
 
-⭐ 201 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Microqian2th/dsh-codex-effort-slider) · 个人维护 · 中文 README
+⭐ 210 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Microqian2th/dsh-codex-effort-slider) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的推理等级滑条插件：可拖动连续调档带渐变特效**
 

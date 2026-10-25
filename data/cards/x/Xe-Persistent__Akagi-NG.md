@@ -1,6 +1,6 @@
 # Xe-Persistent/Akagi-NG
 
-⭐ 82 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Xe-Persistent/Akagi-NG) · 组织维护 · 中文 README
+⭐ 81 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Xe-Persistent/Akagi-NG) · 组织维护 · 中文 README
 
 **日本麻将 AI 助手：为雀魂对局提供实时分析与切牌建议**
 

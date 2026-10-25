@@ -1,6 +1,6 @@
 # bentoml/BentoML
 
-⭐ 8,919 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bentoml/BentoML) · [官网](https://bentoml.com) · 组织维护
+⭐ 8,920 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bentoml/BentoML) · [官网](https://bentoml.com) · 组织维护
 
 **Python 模型服务框架：把 AI 模型推理脚本构建为 API 服务**
 

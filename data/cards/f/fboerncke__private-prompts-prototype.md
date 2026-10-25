@@ -1,6 +1,6 @@
 # fboerncke/private-prompts-prototype
 
-⭐ 38 · TypeScript · AGPL-3.0 · 推送 2025-10-29 · [GitHub](https://github.com/fboerncke/private-prompts-prototype) · [官网](https://www.privateprompts.org) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地桌面端 AI 提示词管理器：发送前自动假名化敏感数据**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

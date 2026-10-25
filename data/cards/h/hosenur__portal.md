@@ -1,6 +1,6 @@
 # hosenur/portal
 
-⭐ 813 · TypeScript · MIT · 推送 2026-05-12 · [GitHub](https://github.com/hosenur/portal) · [官网](https://openportal.space) · 个人维护
+⭐ 814 · TypeScript · MIT · 推送 2026-05-12 · [GitHub](https://github.com/hosenur/portal) · [官网](https://openportal.space) · 个人维护
 
 **面向移动端的 OpenCode AI 编码代理 Web UI，支持远程会话管理**
 

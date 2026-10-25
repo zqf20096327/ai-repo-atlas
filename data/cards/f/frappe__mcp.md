@@ -1,6 +1,6 @@
 # frappe/mcp
 
-⭐ 169 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/frappe/mcp) · 组织维护
+⭐ 170 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/frappe/mcp) · 组织维护
 
 **让 Frappe 应用作为 MCP 服务器的库，供 LLM 调用工具**
 

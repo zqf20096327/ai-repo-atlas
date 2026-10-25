@@ -1,6 +1,6 @@
 # crucible-security/crucible
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-07-25 · [GitHub](https://github.com/crucible-security/crucible) · [官网](https://crucible-security.github.io/crucible-website/) · 组织维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/crucible-security/crucible) · [官网](https://crucible-security.github.io/crucible-website/) · 组织维护
 
 **面向 LLM 智能体的自动化红队与安全测试 CLI 工具**
 

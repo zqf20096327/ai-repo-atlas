@@ -1,6 +1,6 @@
 # jube-home/aml-fraud-transaction-monitoring
 
-⭐ 115 · C# · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/jube-home/aml-fraud-transaction-monitoring) · [官网](https://www.jube.io) · 组织维护
+⭐ 114 · C# · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/jube-home/aml-fraud-transaction-monitoring) · [官网](https://www.jube.io) · 组织维护
 
 **开源实时反洗钱与欺诈交易监控平台，带 AI 代理问答**
 

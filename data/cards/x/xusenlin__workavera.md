@@ -1,6 +1,6 @@
 # xusenlin/workavera
 
-⭐ 63 · TypeScript · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/xusenlin/workavera) · [官网](https://workavera.com) · 个人维护 · 中文 README
+⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/xusenlin/workavera) · [官网](https://workavera.com) · 个人维护 · 中文 README
 
 **面向自由职业者与小团队的自托管 AI 协作工作区**
 

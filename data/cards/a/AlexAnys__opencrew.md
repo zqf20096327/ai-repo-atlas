@@ -1,6 +1,6 @@
 # AlexAnys/opencrew
 
-⭐ 496 · Shell · MIT · 推送 2026-04-05 · [GitHub](https://github.com/AlexAnys/opencrew) · 个人维护 · 中文 README
+⭐ 495 · Shell · MIT · 推送 2026-04-05 · [GitHub](https://github.com/AlexAnys/opencrew) · 个人维护 · 中文 README
 
 **把 OpenClaw 组织成多 Agent 团队的配置与协作系统**
 

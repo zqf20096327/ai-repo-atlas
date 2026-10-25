@@ -1,6 +1,6 @@
 # facex-engine/facex
 
-⭐ 348 · C · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/facex-engine/facex) · [官网](https://facex-engine.github.io/facex/demo/) · 组织维护
+⭐ 349 · C · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/facex-engine/facex) · [官网](https://facex-engine.github.io/facex/demo/) · 组织维护
 
 **纯 WebAssembly/C99 浏览器端人脸全流程库：检测、3D 网格、识别、防伪**
 

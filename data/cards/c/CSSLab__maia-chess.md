@@ -1,6 +1,6 @@
 # CSSLab/maia-chess
 
-⭐ 1,260 · Python · GPL-3.0 · 推送 2026-05-24 · [GitHub](https://github.com/CSSLab/maia-chess) · [官网](https://maiachess.com) · 组织维护
+⭐ 1,262 · Python · GPL-3.0 · 推送 2026-05-24 · [GitHub](https://github.com/CSSLab/maia-chess) · [官网](https://maiachess.com) · 组织维护
 
 **模仿人类棋风的神经网络国际象棋引擎（1100-1900 ELO）**
 

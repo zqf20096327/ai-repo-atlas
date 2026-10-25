@@ -1,6 +1,6 @@
 # agent-sh/agent-workspace-linux
 
-⭐ 195 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/agent-sh/agent-workspace-linux) · 个人维护
+⭐ 195 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/agent-sh/agent-workspace-linux) · 个人维护
 
 **给 AI agent 的隔离 Linux 桌面与浏览器 MCP 工作区**
 

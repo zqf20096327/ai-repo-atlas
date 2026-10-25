@@ -1,6 +1,6 @@
 # deeplethe/solid-glass
 
-⭐ 2,195 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/deeplethe/solid-glass) · [官网](https://deeplethe.github.io/solid-glass) · 个人维护
+⭐ 2,219 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/deeplethe/solid-glass) · [官网](https://deeplethe.github.io/solid-glass) · 个人维护
 
 **面向 AI 应用的玻璃质感 shadcn/ui 设计系统**
 

@@ -1,6 +1,6 @@
 # future-agi/futureagi-sdk
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/future-agi/futureagi-sdk) · [官网](https://app.futureagi.com) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/future-agi/futureagi-sdk) · [官网](https://app.futureagi.com) · 组织维护
 
 **面向开发者的 AI 评测、护栏与提示词管理 SDK**
 

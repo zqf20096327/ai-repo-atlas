@@ -1,6 +1,6 @@
 # xlabs-club/xlabs-club.github.io
 
-⭐ 34 · HTML · 推送 2026-10-08 · [GitHub](https://github.com/xlabs-club/xlabs-club.github.io) · [官网](https://www.xlabs.club) · 组织维护 · 中文 README
+⭐ 34 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/xlabs-club/xlabs-club.github.io) · [官网](https://www.xlabs.club) · 组织维护 · 中文 README
 
 **卫星实验室主页源码：平台工程与云原生实践博客**
 

@@ -1,6 +1,6 @@
 # jingyaogong/minimind-v
 
-⭐ 8,785 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind-v) · [官网](https://jingyaogong.github.io/minimind-v) · 个人维护 · 中文 README
+⭐ 8,789 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind-v) · [官网](https://jingyaogong.github.io/minimind-v) · 个人维护 · 中文 README
 
 **从0训练65M参数超小视觉语言模型的教程与全流程代码**
 

@@ -1,6 +1,6 @@
 # deeplethe/utopia
 
-⭐ 8,511 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/deeplethe/utopia) · 组织维护 · 中文 README
+⭐ 8,532 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/deeplethe/utopia) · 组织维护 · 中文 README
 
 **自托管企业级双时序知识图谱平台，供 agent 可信决策**
 

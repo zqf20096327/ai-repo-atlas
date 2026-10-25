@@ -1,6 +1,6 @@
 # Wolfe-Jam/faf-cli
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Wolfe-Jam/faf-cli) · [官网](https://faf.one) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Wolfe-Jam/faf-cli) · [官网](https://faf.one) · 个人维护
 
 **为 AI 编码代理生成并版本化项目上下文文件的 CLI**
 

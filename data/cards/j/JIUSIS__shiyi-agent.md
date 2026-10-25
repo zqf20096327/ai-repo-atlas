@@ -1,6 +1,6 @@
 # JIUSIS/shiyi-agent
 
-⭐ 43 · Dart · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/JIUSIS/shiyi-agent) · [官网](https://github.com/JIUSIS/shiyi-agent/releases) · 个人维护 · 中文 README
+⭐ 45 · Dart · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/JIUSIS/shiyi-agent) · [官网](https://github.com/JIUSIS/shiyi-agent/releases) · 个人维护 · 中文 README
 
 **Android/Windows 个人 AI 工作台：读写文件、跑命令、多 Agent 协作**
 

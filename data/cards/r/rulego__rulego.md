@@ -1,6 +1,6 @@
 # rulego/rulego
 
-⭐ 1,628 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rulego/rulego) · [官网](https://rulego.cc) · 组织维护 · 中文 README
+⭐ 1,629 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rulego/rulego) · [官网](https://rulego.cc) · 组织维护 · 中文 README
 
 **Go 轻量级组件化规则引擎，用于业务编排与数据集成**
 

@@ -1,6 +1,6 @@
 # decodingai-magazine/llm-twin-course
 
-⭐ 4,395 · Python · MIT · 推送 2026-04-20 · [GitHub](https://github.com/decodingai-magazine/llm-twin-course) · 组织维护
+⭐ 4,396 · Python · MIT · 推送 2026-04-20 · [GitHub](https://github.com/decodingai-magazine/llm-twin-course) · 组织维护
 
 **免费开源课程：教你端到端构建生产级 LLM 与 RAG 系统**
 

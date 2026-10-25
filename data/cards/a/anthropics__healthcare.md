@@ -1,6 +1,6 @@
 # anthropics/healthcare
 
-⭐ 430 · JavaScript · 推送 2026-08-27 · [GitHub](https://github.com/anthropics/healthcare) · 组织维护
+⭐ 431 · JavaScript · 推送 2026-08-27 · [GitHub](https://github.com/anthropics/healthcare) · 组织维护
 
 **面向医疗健康工作的 Claude 技能插件包，含托管 MCP 服务**
 

@@ -1,6 +1,6 @@
 # aviaryan/awesome-ai-games
 
-⭐ 39 · 推送 2026-10-14 · [GitHub](https://github.com/aviaryan/awesome-ai-games) · 个人维护
+⭐ 40 · 推送 2026-10-14 · [GitHub](https://github.com/aviaryan/awesome-ai-games) · 个人维护
 
 **AI 制作的浏览器可玩游戏策展清单**
 

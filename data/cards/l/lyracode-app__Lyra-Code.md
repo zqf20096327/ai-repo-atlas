@@ -1,6 +1,6 @@
 # lyracode-app/Lyra-Code
 
-⭐ 49 · Kotlin · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/lyracode-app/Lyra-Code) · [官网](https://lyracode.app) · 组织维护 · 中文 README
+⭐ 49 · Kotlin · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/lyracode-app/Lyra-Code) · [官网](https://lyracode.app) · 组织维护 · 中文 README
 
 **Android 上的 AI 全栈开发环境：PRoot Linux + Termux + 编程 Agent**
 

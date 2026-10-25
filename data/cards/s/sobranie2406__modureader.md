@@ -1,6 +1,6 @@
 # sobranie2406/modureader
 
-⭐ 213 · Dart · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/sobranie2406/modureader) · [官网](https://github.com/sobranie2406/modureader/releases/latest) · 个人维护 · 中文 README
+⭐ 214 · Dart · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/sobranie2406/modureader) · [官网](https://github.com/sobranie2406/modureader/releases/latest) · 个人维护 · 中文 README
 
 **跨平台开源电子书/PDF 阅读器，含 OCR、AI 阅读与听书**
 

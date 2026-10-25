@@ -1,6 +1,6 @@
 # Aegis-plus/SillyTavern-Android
 
-⭐ 54 · Java · ISC · 推送 2026-02-03 · [GitHub](https://github.com/Aegis-plus/SillyTavern-Android) · 个人维护
+⭐ 55 · Java · ISC · 推送 2026-02-03 · [GitHub](https://github.com/Aegis-plus/SillyTavern-Android) · 个人维护
 
 **自托管 SillyTavern 的 Android WebView 启动器**
 

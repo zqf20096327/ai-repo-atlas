@@ -1,6 +1,6 @@
 # wanshuiyin/Anti-Autoresearch
 
-⭐ 168 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wanshuiyin/Anti-Autoresearch) · 个人维护 · 中文 README
+⭐ 169 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wanshuiyin/Anti-Autoresearch) · 个人维护 · 中文 README
 
 **审稿人侧的论文诚信取证工具：审计自洽性与编造并出确定性裁决**
 

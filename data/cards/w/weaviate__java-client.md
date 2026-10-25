@@ -1,6 +1,6 @@
 # weaviate/java-client
 
-⭐ 34 · Java · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/weaviate/java-client) · 组织维护
+⭐ 34 · Java · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/weaviate/java-client) · 组织维护
 
 **Weaviate 向量数据库的官方 Java 客户端库**
 

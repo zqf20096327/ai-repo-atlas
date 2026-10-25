@@ -1,6 +1,6 @@
 # canvas-org/meta-agent
 
-⭐ 79 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/canvas-org/meta-agent) · 个人维护
+⭐ 80 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/canvas-org/meta-agent) · 个人维护
 
 **研究原型：不更新权重、持续优化 agent 外围 harness 的框架**
 

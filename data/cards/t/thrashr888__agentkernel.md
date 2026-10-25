@@ -1,6 +1,6 @@
 # thrashr888/agentkernel
 
-⭐ 59 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/thrashr888/agentkernel) · [官网](https://thrashr888.github.io/agentkernel/) · 个人维护
+⭐ 59 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/thrashr888/agentkernel) · [官网](https://thrashr888.github.io/agentkernel/) · 个人维护
 
 **在隔离 microVM/沙箱中运行 AI 编程 agent 的安全执行框架**
 

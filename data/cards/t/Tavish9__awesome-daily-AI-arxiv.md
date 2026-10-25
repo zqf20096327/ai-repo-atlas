@@ -1,6 +1,6 @@
 # Tavish9/awesome-daily-AI-arxiv
 
-⭐ 122 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Tavish9/awesome-daily-AI-arxiv) · 个人维护 · 中文 README
+⭐ 122 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Tavish9/awesome-daily-AI-arxiv) · 个人维护 · 中文 README
 
 **AI/NLP/CV/机器人领域 arXiv 论文每日摘要清单**
 

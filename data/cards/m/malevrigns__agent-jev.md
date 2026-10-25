@@ -1,6 +1,6 @@
 # malevrigns/agent-jev
 
-⭐ 395 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/malevrigns/agent-jev) · 个人维护 · 中文 README
+⭐ 396 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/malevrigns/agent-jev) · 个人维护 · 中文 README
 
 **面向 Agent 决策门的 0.6B 分布输出模型，一次前向返回概率**
 

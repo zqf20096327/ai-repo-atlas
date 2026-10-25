@@ -1,6 +1,6 @@
 # ohdearquant/lattice
 
-⭐ 46 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ohdearquant/lattice) · [官网](https://khive.ai) · 个人维护
+⭐ 46 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ohdearquant/lattice) · [官网](https://khive.ai) · 个人维护
 
 **纯 Rust 的 Apple Silicon 本地 LLM/嵌入推理引擎与 macOS 工作台**
 

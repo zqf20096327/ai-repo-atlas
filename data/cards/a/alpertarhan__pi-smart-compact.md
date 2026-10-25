@@ -1,6 +1,6 @@
 # alpertarhan/pi-smart-compact
 
-⭐ 36 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/alpertarhan/pi-smart-compact) · [官网](https://www.npmjs.com/package/pi-smart-compact) · 个人维护
+⭐ 36 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/alpertarhan/pi-smart-compact) · [官网](https://www.npmjs.com/package/pi-smart-compact) · 个人维护
 
 **Pi Coding Agent 的上下文治理与会话延续扩展**
 

@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript
 
-⭐ 118 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript) · [官网](https://faceplugin.com/) · 组织维护
+⭐ 117 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript) · [官网](https://faceplugin.com/) · 组织维护
 
 **浏览器端人脸识别与活体检测 JavaScript SDK**
 

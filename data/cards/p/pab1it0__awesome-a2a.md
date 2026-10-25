@@ -1,6 +1,6 @@
 # pab1it0/awesome-a2a
 
-⭐ 190 · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pab1it0/awesome-a2a) · [官网](https://github.com/pab1it0/awesome-a2a) · 个人维护
+⭐ 190 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/pab1it0/awesome-a2a) · [官网](https://github.com/pab1it0/awesome-a2a) · 个人维护
 
 **A2A 协议服务器与客户端的策展清单**
 

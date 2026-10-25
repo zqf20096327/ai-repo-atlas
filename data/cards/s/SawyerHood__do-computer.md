@@ -1,6 +1,6 @@
 # SawyerHood/do-computer
 
-⭐ 51 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SawyerHood/do-computer) · [官网](https://do.computer) · 个人维护
+⭐ 53 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/SawyerHood/do-computer) · [官网](https://do.computer) · 个人维护
 
 **可自托管的常驻个人 AI agent，每个 agent 拥有自己的电脑**
 

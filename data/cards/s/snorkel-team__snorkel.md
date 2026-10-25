@@ -1,6 +1,6 @@
 # snorkel-team/snorkel
 
-⭐ 6,026 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/snorkel-team/snorkel) · [官网](https://snorkel.org) · 组织维护
+⭐ 6,027 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/snorkel-team/snorkel) · [官网](https://snorkel.org) · 组织维护
 
 **弱监督编程式构建训练数据的 Python 框架**
 

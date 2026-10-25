@@ -1,6 +1,6 @@
 # tirth8205/code-review-graph
 
-⭐ 32,370 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/tirth8205/code-review-graph) · [官网](https://code-review-graph.com) · 个人维护
+⭐ 32,380 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/tirth8205/code-review-graph) · [官网](https://code-review-graph.com) · 个人维护
 
 **给 AI 编码工具的本地代码知识图谱：MCP 提供精准审查上下文**
 

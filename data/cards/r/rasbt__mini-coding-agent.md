@@ -1,6 +1,6 @@
 # rasbt/mini-coding-agent
 
-⭐ 1,210 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/rasbt/mini-coding-agent) · [官网](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent) · 个人维护
+⭐ 1,211 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/rasbt/mini-coding-agent) · [官网](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent) · 个人维护
 
 **教学用极简编码代理实现，解释 coding agent 核心组件**
 

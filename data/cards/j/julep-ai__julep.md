@@ -1,6 +1,6 @@
 # julep-ai/julep
 
-⭐ 6,575 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/julep-ai/julep) · [官网](https://docs.julep.ai) · 组织维护
+⭐ 6,574 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/julep-ai/julep) · [官网](https://docs.julep.ai) · 组织维护
 
 **面向开发者的持久化可组合 AI agent 工作流框架**
 

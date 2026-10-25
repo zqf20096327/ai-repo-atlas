@@ -1,6 +1,6 @@
 # 1129Aliasgar/OpenBrowser
 
-⭐ 35 · TypeScript · MIT · 推送 2026-08-02 · [GitHub](https://github.com/1129Aliasgar/OpenBrowser) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-08-02 · [GitHub](https://github.com/1129Aliasgar/OpenBrowser) · 个人维护
 
 **把浏览器 AI 订阅桥接为终端本地编码代理的 CLI 工具**
 

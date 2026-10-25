@@ -1,6 +1,6 @@
 # serversathome/homelabhero
 
-⭐ 102 · Shell · 推送 2026-10-23 · [GitHub](https://github.com/serversathome/homelabhero) · 组织维护
+⭐ 103 · Shell · 推送 2026-10-23 · [GitHub](https://github.com/serversathome/homelabhero) · 组织维护
 
 **把 LXC 装成 AI 家庭实验室控制中心：装 Claude Code 并代理凭据**
 

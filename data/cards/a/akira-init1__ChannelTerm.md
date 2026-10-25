@@ -1,6 +1,6 @@
 # akira-init1/ChannelTerm
 
-⭐ 76 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/akira-init1/ChannelTerm) · 个人维护
+⭐ 90 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/akira-init1/ChannelTerm) · 个人维护
 
 **人与 AI 共享串口/SSH 终端会话的硬件调试工具**
 

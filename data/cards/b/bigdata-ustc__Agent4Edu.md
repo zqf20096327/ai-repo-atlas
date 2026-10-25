@@ -1,6 +1,6 @@
 # bigdata-ustc/Agent4Edu
 
-⭐ 99 · Python · 推送 2026-09-29 · [GitHub](https://github.com/bigdata-ustc/Agent4Edu) · 组织维护 · 中文 README
+⭐ 100 · Python · 推送 2026-09-29 · [GitHub](https://github.com/bigdata-ustc/Agent4Edu) · 组织维护 · 中文 README
 
 **用 LLM 智能体生成学习者答题行为模拟数据的教育研究代码库**
 

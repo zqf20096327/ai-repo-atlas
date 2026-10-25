@@ -1,6 +1,6 @@
 # Extremesarova/data-science-resources
 
-⭐ 168 · 推送 2026-10-05 · [GitHub](https://github.com/Extremesarova/data-science-resources) · [官网](https://t.me/data_science_weekly) · 个人维护 · 中文 README
+⭐ 168 · 推送 2026-10-25 · [GitHub](https://github.com/Extremesarova/data-science-resources) · [官网](https://t.me/data_science_weekly) · 个人维护 · 中文 README
 
 **数据科学面试与学习资源策展清单**
 

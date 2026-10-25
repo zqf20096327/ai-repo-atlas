@@ -1,6 +1,6 @@
 # Vincentwei1021/kronos-guide-cn
 
-⭐ 65 · MIT · 推送 2026-04-17 · [GitHub](https://github.com/Vincentwei1021/kronos-guide-cn) · [官网](https://github.com/shiyu-coder/Kronos) · 个人维护 · 中文 README
+⭐ 66 · MIT · 推送 2026-04-17 · [GitHub](https://github.com/Vincentwei1021/kronos-guide-cn) · [官网](https://github.com/shiyu-coder/Kronos) · 个人维护 · 中文 README
 
 **面向中文用户的 Kronos 金融 K 线基础模型实战指南**
 

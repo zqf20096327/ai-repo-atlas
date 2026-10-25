@@ -1,6 +1,6 @@
 # softwaremill/chimp
 
-⭐ 103 · Scala · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/softwaremill/chimp) · [官网](https://chimp.softwaremill.com) · 组织维护
+⭐ 103 · Scala · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/softwaremill/chimp) · [官网](https://chimp.softwaremill.com) · 组织维护
 
 **Scala 3 构建 MCP 服务器与客户端的 SDK**
 

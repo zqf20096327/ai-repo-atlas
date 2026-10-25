@@ -1,6 +1,6 @@
 # likith012/mulEEG
 
-⭐ 35 · Python · Apache-2.0 · 推送 2025-10-29 · [GitHub](https://github.com/likith012/mulEEG) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 EEG 睡眠分期的多视角自监督表征学习官方实现**
 
@@ -11,7 +11,7 @@ MICCAI 2022 论文 mulEEG 的官方代码库：提出多视角自监督方法，
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

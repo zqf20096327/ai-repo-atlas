@@ -1,6 +1,6 @@
 # supermemoryai/memorybench
 
-⭐ 331 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/supermemoryai/memorybench) · [官网](https://supermemory.ai/docs/memorybench/overview) · 组织维护
+⭐ 331 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/supermemoryai/memorybench) · [官网](https://supermemory.ai/docs/memorybench/overview) · 组织维护
 
 **可插拔评测框架：横向评测记忆/上下文系统与 RAG 表现**
 

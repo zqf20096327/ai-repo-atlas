@@ -1,6 +1,6 @@
 # EricTechPro/super-board
 
-⭐ 478 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/EricTechPro/super-board) · [官网](https://erictechpro.github.io/super-board/) · 个人维护
+⭐ 494 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/EricTechPro/super-board) · [官网](https://erictechpro.github.io/super-board/) · 个人维护
 
 **Claude Code 的自主看板流水线：任务卡自动构建→QA→审查→合并 PR**
 

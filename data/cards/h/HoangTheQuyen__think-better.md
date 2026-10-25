@@ -1,6 +1,6 @@
 # HoangTheQuyen/think-better
 
-⭐ 123 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/HoangTheQuyen/think-better) · [官网](https://thinkbetter.dev) · 个人维护
+⭐ 125 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/HoangTheQuyen/think-better) · [官网](https://thinkbetter.dev) · 个人维护
 
 **给 AI 编码助手装结构化思维技能的 CLI（3 技能 20 命令）**
 

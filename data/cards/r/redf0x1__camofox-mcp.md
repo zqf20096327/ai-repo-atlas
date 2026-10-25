@@ -1,6 +1,6 @@
 # redf0x1/camofox-mcp
 
-⭐ 118 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/redf0x1/camofox-mcp) · 个人维护
+⭐ 118 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/redf0x1/camofox-mcp) · 个人维护
 
 **为 MCP AI 代理提供反检测浏览器自动化工具的服务端**
 

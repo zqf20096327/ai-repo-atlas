@@ -1,6 +1,6 @@
 # AI-Hypercomputer/maxtext
 
-⭐ 2,449 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/AI-Hypercomputer/maxtext) · [官网](https://maxtext.readthedocs.io) · 组织维护
+⭐ 2,449 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AI-Hypercomputer/maxtext) · [官网](https://maxtext.readthedocs.io) · 组织维护
 
 **面向 TPU/GPU 的 JAX LLM 训练库：预训练与后训练多种开源模型**
 

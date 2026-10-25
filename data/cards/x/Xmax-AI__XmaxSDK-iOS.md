@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-iOS
 
-⭐ 67 · Swift · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-iOS) · [官网](https://platform.xmaxai.com/docs) · 组织维护 · 中文 README
+⭐ 66 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-iOS) · [官网](https://platform.xmaxai.com/docs) · 组织维护 · 中文 README
 
 **面向 iOS 开发者的实时交互式视频生成 SDK（Xmax 模型客户端）**
 

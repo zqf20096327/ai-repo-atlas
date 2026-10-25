@@ -1,6 +1,6 @@
 # ChinmayKaitade/N8N-AI-Agents-Masterclass
 
-⭐ 99 · HTML · MIT · 推送 2025-11-09 · [GitHub](https://github.com/ChinmayKaitade/N8N-AI-Agents-Masterclass) · [官网](https://docs.n8n.io/) · 个人维护 · 中文 README
+⭐ 98 · HTML · MIT · 推送 2025-11-09 · [GitHub](https://github.com/ChinmayKaitade/N8N-AI-Agents-Masterclass) · [官网](https://docs.n8n.io/) · 个人维护 · 中文 README
 
 **30 天学习 n8n 与 AI Agent 的教程仓库（含工作流 JSON 示例）**
 

@@ -1,6 +1,6 @@
 # yeahhe365/AMC-WebUI
 
-⭐ 932 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/yeahhe365/AMC-WebUI) · [官网](https://all-model-chat.pages.dev/) · 个人维护 · 中文 README
+⭐ 930 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/yeahhe365/AMC-WebUI) · [官网](https://all-model-chat.pages.dev/) · 个人维护 · 中文 README
 
 **主打 Gemini 原生能力的 Local-First 多模态聊天 WebUI**
 

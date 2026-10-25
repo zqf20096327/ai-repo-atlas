@@ -1,6 +1,6 @@
 # autonomous-ai/autonomous-grid
 
-⭐ 269 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/autonomous-ai/autonomous-grid) · [官网](https://www.autonomous.ai/grid) · 组织维护
+⭐ 269 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/autonomous-ai/autonomous-grid) · [官网](https://www.autonomous.ai/grid) · 组织维护
 
 **把多台自有电脑组成一个 OpenAI 兼容端点的本地推理与训练网格**
 

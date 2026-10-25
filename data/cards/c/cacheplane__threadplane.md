@@ -1,6 +1,6 @@
 # cacheplane/threadplane
 
-⭐ 284 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/cacheplane/threadplane) · [官网](https://threadplane.ai) · 组织维护
+⭐ 285 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cacheplane/threadplane) · [官网](https://threadplane.ai) · 组织维护
 
 **面向 Angular 的开源 agent 线程层：聊天、持久线程与生成式 UI**
 

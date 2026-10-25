@@ -1,6 +1,6 @@
 # arn-c0de/Crawllama
 
-⭐ 106 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/arn-c0de/Crawllama) · 个人维护
+⭐ 106 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/arn-c0de/Crawllama) · 个人维护
 
 **本地 OSINT 研究代理：经 Ollama 联网检索与 RAG 回答问题**
 

@@ -1,6 +1,6 @@
 # humanlaya/OneMillion-Bench
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/humanlaya/OneMillion-Bench) · [官网](https://openreview.net/forum?id=2gAr3pMVHH) · 组织维护 · 中文 README
+⭐ 56 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/humanlaya/OneMillion-Bench) · [官网](https://openreview.net/forum?id=2gAr3pMVHH) · 组织维护 · 中文 README
 
 **语言 Agent 专业领域能力评测基准：数据集+CLI 工具+自动评分**
 

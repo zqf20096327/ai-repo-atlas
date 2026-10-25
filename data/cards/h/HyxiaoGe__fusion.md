@@ -1,6 +1,6 @@
 # HyxiaoGe/fusion
 
-⭐ 98 · Python · 推送 2026-10-24 · [GitHub](https://github.com/HyxiaoGe/fusion) · [官网](https://fusion.seanfield.org/) · 个人维护 · 中文 README
+⭐ 98 · Python · 推送 2026-10-25 · [GitHub](https://github.com/HyxiaoGe/fusion) · [官网](https://fusion.seanfield.org/) · 个人维护 · 中文 README
 
 **面向任务执行的 AI 聊天工作台：单 Agent 循环、有据可查**
 

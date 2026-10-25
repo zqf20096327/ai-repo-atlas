@@ -1,6 +1,6 @@
 # sligter/LandPPT
 
-⭐ 3,634 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/sligter/LandPPT) · [官网](https://landppt.com) · 个人维护 · 中文 README
+⭐ 3,632 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/sligter/LandPPT) · [官网](https://landppt.com) · 个人维护 · 中文 README
 
 **基于 LLM 的 PPT 自动生成平台：主题或文档一键变演示文稿**
 

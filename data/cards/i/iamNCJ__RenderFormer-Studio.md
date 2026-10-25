@@ -1,6 +1,6 @@
 # iamNCJ/RenderFormer-Studio
 
-⭐ 39 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/iamNCJ/RenderFormer-Studio) · [官网](https://renderformer.github.io/v2/) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/iamNCJ/RenderFormer-Studio) · [官网](https://renderformer.github.io/v2/) · 组织维护
 
 **RenderFormer/V2 神经渲染官方实现：数据生成、训练与推理一体化**
 

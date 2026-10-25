@@ -1,6 +1,6 @@
 # MiniMax-AI/Mini-Agent
 
-⭐ 3,061 · Python · MIT · 推送 2026-02-14 · [GitHub](https://github.com/MiniMax-AI/Mini-Agent) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
+⭐ 3,064 · Python · MIT · 推送 2026-02-14 · [GitHub](https://github.com/MiniMax-AI/Mini-Agent) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
 
 **基于 MiniMax M2.5 的单 Agent CLI 示例项目，展示 Agent 执行管线**
 

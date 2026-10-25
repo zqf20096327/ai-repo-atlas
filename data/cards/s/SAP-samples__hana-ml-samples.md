@@ -1,6 +1,6 @@
 # SAP-samples/hana-ml-samples
 
-⭐ 115 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/SAP-samples/hana-ml-samples) · 组织维护
+⭐ 115 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/SAP-samples/hana-ml-samples) · 组织维护
 
 **SAP HANA 预测与机器学习场景的示例代码集（教学用）**
 

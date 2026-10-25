@@ -1,6 +1,6 @@
 # qdrant/qdrant-spark
 
-⭐ 50 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/qdrant/qdrant-spark) · [官网](https://qdrant.tech/documentation/frameworks/spark/) · 组织维护
+⭐ 50 · Java · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/qdrant/qdrant-spark) · [官网](https://qdrant.tech/documentation/frameworks/spark/) · 组织维护
 
 **将 Spark DataFrame 批量写入 Qdrant 向量库的连接器**
 

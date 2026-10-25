@@ -1,6 +1,6 @@
 # Tunnello/ChatBI
 
-⭐ 42 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/Tunnello/ChatBI) · 组织维护 · 中文 README
+⭐ 43 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/Tunnello/ChatBI) · 组织维护 · 中文 README
 
 **自然语言查询本地 SQLite 的对话式 BI Agent，自动生成 SQL 与图表**
 

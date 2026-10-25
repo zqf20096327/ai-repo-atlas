@@ -1,6 +1,6 @@
 # lucidrains/x-transformers
 
-⭐ 5,960 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lucidrains/x-transformers) · 个人维护
+⭐ 5,961 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lucidrains/x-transformers) · 个人维护
 
 **为研究者提供的全功能 PyTorch transformer 实验库**
 

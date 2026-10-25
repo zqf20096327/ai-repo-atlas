@@ -1,6 +1,6 @@
 # agentrhq/authsome
 
-⭐ 98 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/agentrhq/authsome) · [官网](https://authsome.ai/docs) · 组织维护
+⭐ 99 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/agentrhq/authsome) · [官网](https://authsome.ai/docs) · 组织维护
 
 **AI agent 的凭证网关：一次登录，代理注入凭证**
 

@@ -1,6 +1,6 @@
 # guy-hartstein/company-research-agent
 
-⭐ 2,303 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/guy-hartstein/company-research-agent) · [官网](https://companyresearcher.tavily.com) · 个人维护
+⭐ 2,303 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/guy-hartstein/company-research-agent) · [官网](https://companyresearcher.tavily.com) · 个人维护
 
 **输入公司名生成有出处尽调简报的多 agent 研究工具**
 

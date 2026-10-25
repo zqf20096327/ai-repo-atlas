@@ -1,6 +1,6 @@
 # langchain-ai/langgraphjs
 
-⭐ 3,370 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/langchain-ai/langgraphjs) · [官网](https://docs.langchain.com/oss/javascript/langgraph/) · 组织维护
+⭐ 3,371 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langgraphjs) · [官网](https://docs.langchain.com/oss/javascript/langgraph/) · 组织维护
 
 **构建有状态智能体的低层编排框架（TypeScript）**
 

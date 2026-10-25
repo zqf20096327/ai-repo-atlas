@@ -1,6 +1,6 @@
 # CompOmics/DeepLC
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/CompOmics/DeepLC) · [官网](https://iomics.ugent.be/deeplc) · 组织维护
+⭐ 80 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/CompOmics/DeepLC) · [官网](https://iomics.ugent.be/deeplc) · 组织维护
 
 **蛋白质组学工具：预测携带任意修饰肽段的液相保留时间**
 

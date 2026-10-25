@@ -1,6 +1,6 @@
 # Xwh630/ai-agent-handbook
 
-⭐ 61 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Xwh630/ai-agent-handbook) · [官网](https://xwh630.github.io/ai-agent-handbook/) · 个人维护 · 中文 README
+⭐ 62 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xwh630/ai-agent-handbook) · [官网](https://xwh630.github.io/ai-agent-handbook/) · 个人维护 · 中文 README
 
 **中文 AI Agent 系统学习手册：29 章教程+CLI 工具+Skill 包**
 

@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/Pixel-Reasoner
 
-⭐ 308 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) · [官网](https://tiger-ai-lab.github.io/Pixel-Reasoner/) · 组织维护 · 中文 README
+⭐ 309 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) · [官网](https://tiger-ai-lab.github.io/Pixel-Reasoner/) · 组织维护 · 中文 README
 
 **像素空间推理的视觉语言模型及 RL 训练框架**
 

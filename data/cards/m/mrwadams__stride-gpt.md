@@ -1,6 +1,6 @@
 # mrwadams/stride-gpt
 
-⭐ 1,145 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mrwadams/stride-gpt) · [官网](https://stridegpt.streamlit.app) · 个人维护
+⭐ 1,144 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mrwadams/stride-gpt) · [官网](https://stridegpt.streamlit.app) · 个人维护
 
 **用 LLM 按 STRIDE 方法生成威胁模型与攻击树的工具**
 

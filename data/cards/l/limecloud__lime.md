@@ -1,6 +1,6 @@
 # limecloud/lime
 
-⭐ 1,488 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/limecloud/lime) · [官网](https://limeai.run) · 组织维护 · 中文 README
+⭐ 1,488 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/limecloud/lime) · [官网](https://limeai.run) · 组织维护 · 中文 README
 
 **开源全栈 AI Agent：桌面与 CLI/TUI 中完成编码、研究与内容交付**
 

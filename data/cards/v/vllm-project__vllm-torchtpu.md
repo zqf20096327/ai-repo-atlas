@@ -1,6 +1,6 @@
 # vllm-project/vllm-torchtpu
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vllm-project/vllm-torchtpu) · [官网](https://vllm-torchtpu.readthedocs.io/) · 组织维护
+⭐ 113 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/vllm-torchtpu) · [官网](https://vllm-torchtpu.readthedocs.io/) · 组织维护
 
 **vLLM 的 PyTorch 原生 TPU 后端插件**
 

@@ -1,6 +1,6 @@
 # awslabs/unified-kg-rag-on-aws
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/awslabs/unified-kg-rag-on-aws) · 组织维护 · 中文 README
+⭐ 36 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/awslabs/unified-kg-rag-on-aws) · 组织维护 · 中文 README
 
 **AWS 原生知识图谱 RAG 框架，统一 GraphRAG 与 LightRAG 两种检索方法**
 

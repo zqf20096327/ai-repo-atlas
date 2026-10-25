@@ -1,6 +1,6 @@
 # vllm-project/router
 
-⭐ 483 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vllm-project/router) · 组织维护 · 中文 README
+⭐ 483 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/router) · 组织维护 · 中文 README
 
 **面向 vLLM 大规模部署的请求路由与负载均衡系统**
 

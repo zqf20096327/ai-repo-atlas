@@ -1,6 +1,6 @@
 # alibaba/spring-ai-alibaba
 
-⭐ 11,060 · Java · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/alibaba/spring-ai-alibaba) · [官网](https://java2ai.com) · 组织维护 · 中文 README
+⭐ 11,059 · Java · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/alibaba/spring-ai-alibaba) · [官网](https://java2ai.com) · 组织维护 · 中文 README
 
 **面向 Java 开发者的 Agentic AI 应用开发框架**
 

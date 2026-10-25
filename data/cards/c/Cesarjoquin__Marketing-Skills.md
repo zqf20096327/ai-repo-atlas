@@ -1,6 +1,6 @@
 # Cesarjoquin/Marketing-Skills
 
-⭐ 207 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Cesarjoquin/Marketing-Skills) · 个人维护
+⭐ 210 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Cesarjoquin/Marketing-Skills) · 个人维护
 
 **面向 AI agent 的 51+ 营销技能包与 TypeScript CLI 平台**
 

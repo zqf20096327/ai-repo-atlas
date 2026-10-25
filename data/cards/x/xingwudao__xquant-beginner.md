@@ -1,6 +1,6 @@
 # xingwudao/xquant-beginner
 
-⭐ 826 · TypeScript · NOASSERTION · 推送 2026-09-02 · [GitHub](https://github.com/xingwudao/xquant-beginner) · [官网](https://xingwudao.github.io/xquant-beginner/) · 个人维护 · 中文 README
+⭐ 828 · TypeScript · NOASSERTION · 推送 2026-09-02 · [GitHub](https://github.com/xingwudao/xquant-beginner) · [官网](https://xingwudao.github.io/xquant-beginner/) · 个人维护 · 中文 README
 
 **面向零基础读者的量化交易 AI+Python 自学开源书**
 

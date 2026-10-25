@@ -1,6 +1,6 @@
 # amitray007/headroom
 
-⭐ 77 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/amitray007/headroom) · [官网](https://headroom.theblank.club) · 个人维护
+⭐ 77 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/amitray007/headroom) · [官网](https://headroom.theblank.club) · 个人维护
 
 **自托管仪表盘：统一追踪多个 AI 订阅的额度与花费**
 

@@ -1,6 +1,6 @@
 # Oneflow-Inc/oneflow
 
-⭐ 9,436 · C++ · Apache-2.0 · 推送 2025-12-04 · [GitHub](https://github.com/Oneflow-Inc/oneflow) · [官网](http://www.oneflow.org) · 组织维护 · 中文 README
+⭐ 9,438 · C++ · Apache-2.0 · 推送 2025-12-04 · [GitHub](https://github.com/Oneflow-Inc/oneflow) · [官网](http://www.oneflow.org) · 组织维护 · 中文 README
 
 **分布式深度学习框架，提供类 PyTorch API 与编译加速**
 

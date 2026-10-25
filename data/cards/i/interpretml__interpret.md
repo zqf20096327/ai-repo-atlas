@@ -1,6 +1,6 @@
 # interpretml/interpret
 
-⭐ 6,968 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/interpretml/interpret) · [官网](https://interpret.ml/docs) · 组织维护
+⭐ 6,969 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/interpretml/interpret) · [官网](https://interpret.ml/docs) · 组织维护
 
 **机器学习可解释性工具包：训练玻璃盒模型并解释黑盒模型**
 

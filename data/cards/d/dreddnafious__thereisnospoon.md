@@ -1,6 +1,6 @@
 # dreddnafious/thereisnospoon
 
-⭐ 1,247 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/dreddnafious/thereisnospoon) · 个人维护
+⭐ 1,246 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/dreddnafious/thereisnospoon) · 个人维护
 
 **面向工程师的机器学习第一性原理入门读物**
 

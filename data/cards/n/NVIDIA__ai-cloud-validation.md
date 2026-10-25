@@ -1,6 +1,6 @@
 # NVIDIA/ai-cloud-validation
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/ai-cloud-validation) · [官网](https://www.nvidia.com/en-us/data-center/isv-validation-program/) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/NVIDIA/ai-cloud-validation) · [官网](https://www.nvidia.com/en-us/data-center/isv-validation-program/) · 组织维护
 
 **面向 NVIDIA 硬件云环境的 AI 负载验证测试框架**
 

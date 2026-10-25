@@ -1,6 +1,6 @@
 # vastsa/PI-Desktop
 
-⭐ 7,219 · TypeScript · LGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/vastsa/PI-Desktop) · [官网](https://pi-docs.aiuo.net) · 个人维护 · 中文 README
+⭐ 7,256 · TypeScript · LGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/vastsa/PI-Desktop) · [官网](https://pi-docs.aiuo.net) · 个人维护 · 中文 README
 
 **面向 AI 编码代理的本地优先模块化桌面工作区**
 

@@ -1,6 +1,6 @@
 # tom1030507/OpenNotebookLM
 
-⭐ 68 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tom1030507/OpenNotebookLM) · 个人维护
+⭐ 69 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tom1030507/OpenNotebookLM) · 个人维护
 
 **自托管的 NotebookLM 替代：导入文档问答并带引用溯源**
 

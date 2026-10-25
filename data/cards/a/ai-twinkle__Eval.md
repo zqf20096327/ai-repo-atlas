@@ -1,6 +1,6 @@
 # ai-twinkle/Eval
 
-⭐ 118 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/ai-twinkle/Eval) · [官网](https://twinkleai.tw) · 组织维护 · 中文 README
+⭐ 117 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/ai-twinkle/Eval) · [官网](https://twinkleai.tw) · 组织维护 · 中文 README
 
 **并行 API 请求的 LLM 评测框架，单机跑完整评测流程**
 

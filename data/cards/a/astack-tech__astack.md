@@ -1,6 +1,6 @@
 # astack-tech/astack
 
-⭐ 35 · TypeScript · MIT · 推送 2026-04-08 · [GitHub](https://github.com/astack-tech/astack) · [官网](https://astack.tech) · 组织维护 · 中文 README
+⭐ 35 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/astack-tech/astack) · [官网](https://astack.tech) · 组织维护 · 中文 README
 
 **TypeScript 可组合式 AI 应用构建框架，基于流式编程范式**
 

@@ -1,6 +1,6 @@
 # kernel/kernel-images
 
-⭐ 1,112 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/kernel/kernel-images) · [官网](https://www.kernel.sh) · 组织维护
+⭐ 1,114 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/kernel/kernel-images) · [官网](https://www.kernel.sh) · 组织维护
 
 **面向自动化与 Web Agent 的沙箱化 Chrome 浏览器运行环境**
 

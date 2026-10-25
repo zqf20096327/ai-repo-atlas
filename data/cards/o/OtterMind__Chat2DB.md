@@ -1,6 +1,6 @@
 # OtterMind/Chat2DB
 
-⭐ 28,331 · Java · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/OtterMind/Chat2DB) · [官网](https://chat2db.ai) · 组织维护 · 中文 README
+⭐ 28,334 · Java · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/OtterMind/Chat2DB) · [官网](https://chat2db.ai) · 组织维护 · 中文 README
 
 **连接 40+ 数据库的本地优先 SQL 客户端，支持自带 AI 模型**
 

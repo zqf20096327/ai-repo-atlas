@@ -1,6 +1,6 @@
 # genlab-1c/prism
 
-⭐ 51 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/genlab-1c/prism) · [官网](http://prism.genlab-1c.ru/) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/genlab-1c/prism) · [官网](http://prism.genlab-1c.ru/) · 组织维护
 
 **LLM 生成 1С:Предприyme (BSL) 代码的可执行基准测试与排行榜**
 

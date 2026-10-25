@@ -1,6 +1,6 @@
 # zenml-io/awesome-open-data-annotation
 
-⭐ 733 · MIT · 推送 2026-07-06 · [GitHub](https://github.com/zenml-io/awesome-open-data-annotation) · 组织维护
+⭐ 734 · MIT · 推送 2026-07-06 · [GitHub](https://github.com/zenml-io/awesome-open-data-annotation) · 组织维护
 
 **开源数据标注与打标工具策展清单（ZenML 维护）**
 

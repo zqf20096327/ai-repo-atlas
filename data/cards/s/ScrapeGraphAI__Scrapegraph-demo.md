@@ -1,6 +1,6 @@
 # ScrapeGraphAI/Scrapegraph-demo
 
-⭐ 116 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-demo) · [官网](https://scrapegraph-ai-demo.streamlit.app/) · 组织维护
+⭐ 117 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-demo) · [官网](https://scrapegraph-ai-demo.streamlit.app/) · 组织维护
 
 **ScrapeGraphAI 官方 SDK 的 Streamlit 演示应用**
 

@@ -1,6 +1,6 @@
 # vezlin1/antigravity-bypass-russia
 
-⭐ 117 · Rust · MIT · 推送 2026-10-09 · [GitHub](https://github.com/vezlin1/antigravity-bypass-russia) · 个人维护 · 中文 README
+⭐ 120 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/vezlin1/antigravity-bypass-russia) · 个人维护 · 中文 README
 
 **在俄罗斯解除 Google Antigravity/Gemini 区域限制的本地工具**
 

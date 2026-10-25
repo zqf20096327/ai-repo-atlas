@@ -1,6 +1,6 @@
 # kbrdn1/gwm-cli
 
-⭐ 148 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/kbrdn1/gwm-cli) · [官网](https://gwm.kbrdn.dev) · 个人维护
+⭐ 149 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/kbrdn1/gwm-cli) · [官网](https://gwm.kbrdn.dev) · 个人维护
 
 **给开发者的 git worktree 管理 CLI/TUI，检测 AI agent 会话归属**
 

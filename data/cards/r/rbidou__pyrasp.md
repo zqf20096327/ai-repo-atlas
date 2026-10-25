@@ -1,6 +1,6 @@
 # rbidou/pyrasp
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/rbidou/pyrasp) · [官网](https://pyrasp.paracyberbellum.io) · 个人维护
+⭐ 39 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/rbidou/pyrasp) · [官网](https://pyrasp.paracyberbellum.io) · 个人维护
 
 **Python Web 与 MCP 服务器的运行时自防护（RASP）安全包**
 

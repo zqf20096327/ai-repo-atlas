@@ -1,6 +1,6 @@
 # mxyhi/token_proxy
 
-⭐ 94 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mxyhi/token_proxy) · 个人维护 · 中文 README
+⭐ 94 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/mxyhi/token_proxy) · 个人维护 · 中文 README
 
 **本地 AI API 网关：聚合多家上游并计量 token**
 

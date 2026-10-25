@@ -1,6 +1,6 @@
 # SunOner/sunone_aimbot_2
 
-⭐ 718 · C++ · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/SunOner/sunone_aimbot_2) · 个人维护
+⭐ 719 · C++ · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/SunOner/sunone_aimbot_2) · 个人维护
 
 **面向 FPS/TPS 游戏的 AI 自瞄工具（C++，YOLO 模型）**
 

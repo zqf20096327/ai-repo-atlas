@@ -1,6 +1,6 @@
 # oramasearch/orama
 
-⭐ 10,584 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/oramasearch/orama) · [官网](https://docs.orama.com/docs/orama-js) · 组织维护
+⭐ 10,585 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/oramasearch/orama) · [官网](https://docs.orama.com/docs/orama-js) · 组织维护
 
 **在浏览器/服务器/边缘运行的轻量全文+向量+混合搜索引擎库**
 

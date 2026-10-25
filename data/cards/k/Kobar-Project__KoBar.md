@@ -1,6 +1,6 @@
 # Kobar-Project/KoBar
 
-⭐ 95 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Kobar-Project/KoBar) · [官网](https://kobar.org) · 个人维护
+⭐ 95 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Kobar-Project/KoBar) · [官网](https://kobar.org) · 个人维护
 
 **桌面常驻侧边栏工具条：笔记+插件化的效率工具集合**
 

@@ -1,6 +1,6 @@
 # heizaheiza/Charles-mcp
 
-⭐ 329 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/heizaheiza/Charles-mcp) · [官网](https://pypi.org/project/charles-mcp/) · 个人维护 · 中文 README
+⭐ 330 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/heizaheiza/Charles-mcp) · [官网](https://pypi.org/project/charles-mcp/) · 个人维护 · 中文 README
 
 **把 Charles Proxy 抓包接入 MCP 客户端的流量分析服务器**
 

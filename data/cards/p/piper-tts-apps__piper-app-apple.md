@@ -1,6 +1,6 @@
 # piper-tts-apps/piper-app-apple
 
-⭐ 66 · Swift · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/piper-tts-apps/piper-app-apple) · 组织维护
+⭐ 67 · Swift · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/piper-tts-apps/piper-app-apple) · 组织维护
 
 **Piper 神经 TTS 的 iOS/macOS 官方应用移植**
 

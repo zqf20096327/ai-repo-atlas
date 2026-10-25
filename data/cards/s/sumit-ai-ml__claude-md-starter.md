@@ -1,6 +1,6 @@
 # sumit-ai-ml/claude-md-starter
 
-⭐ 130 · MIT · 推送 2026-06-16 · [GitHub](https://github.com/sumit-ai-ml/claude-md-starter) · 个人维护
+⭐ 131 · MIT · 推送 2026-06-16 · [GitHub](https://github.com/sumit-ai-ml/claude-md-starter) · 个人维护
 
 **给 Claude Code 用的 CLAUDE.md 行为规则模板，含验证与自治规则**
 

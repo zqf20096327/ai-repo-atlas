@@ -1,6 +1,6 @@
 # mediar-ai/terminator
 
-⭐ 1,659 · Rust · MIT · 推送 2026-06-02 · [GitHub](https://github.com/mediar-ai/terminator) · [官网](https://t8r.tech/) · 组织维护
+⭐ 1,661 · Rust · MIT · 推送 2026-06-02 · [GitHub](https://github.com/mediar-ai/terminator) · [官网](https://t8r.tech/) · 组织维护
 
 **让 AI 助手通过 MCP 控制整个 Windows 桌面的自动化框架**
 

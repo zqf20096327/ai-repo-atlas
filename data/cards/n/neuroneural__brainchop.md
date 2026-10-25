@@ -1,6 +1,6 @@
 # neuroneural/brainchop
 
-⭐ 562 · JavaScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/neuroneural/brainchop) · [官网](https://neuroneural.github.io/brainchop/) · 组织维护
+⭐ 570 · JavaScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/neuroneural/brainchop) · [官网](https://neuroneural.github.io/brainchop/) · 组织维护
 
 **浏览器内 3D MRI 体积分割与渲染的纯前端工具**
 

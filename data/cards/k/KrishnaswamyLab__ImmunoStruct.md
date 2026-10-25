@@ -1,6 +1,6 @@
 # KrishnaswamyLab/ImmunoStruct
 
-⭐ 52 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/KrishnaswamyLab/ImmunoStruct) · [官网](https://www.nature.com/articles/s42256-025-01163-y) · 组织维护
+⭐ 53 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/KrishnaswamyLab/ImmunoStruct) · [官网](https://www.nature.com/articles/s42256-025-01163-y) · 组织维护
 
 **多模态深度学习框架：预测多等位基因 class-I pMHC 免疫原性**
 

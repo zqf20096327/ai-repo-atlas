@@ -1,6 +1,6 @@
 # ankushthakur2007/miyami_websearch_tool
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ankushthakur2007/miyami_websearch_tool) · 个人维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ankushthakur2007/miyami_websearch_tool) · 个人维护
 
 **面向 LLM 的 SearXNG 搜索与网页内容提取 FastAPI 封装**
 

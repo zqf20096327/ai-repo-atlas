@@ -1,6 +1,6 @@
 # JordiCorbilla/stock-prediction-deep-neural-learning
 
-⭐ 688 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning) · [官网](https://jordicorbilla.github.io/stock-prediction-deep-neural-learning/) · 个人维护
+⭐ 688 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning) · [官网](https://jordicorbilla.github.io/stock-prediction-deep-neural-learning/) · 个人维护
 
 **给量化研究者的 TensorFlow LSTM 股价预测与评测实验环境**
 

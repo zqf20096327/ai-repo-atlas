@@ -1,6 +1,6 @@
 # SemiAnalysisAI/InferenceX-app
 
-⭐ 47 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX-app) · [官网](https://inferencex.com) · 组织维护 · 中文 README
+⭐ 48 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX-app) · [官网](https://inferencex.com) · 组织维护 · 中文 README
 
 **LLM 推理基准数据的可视化仪表板（Next.js）**
 

@@ -1,6 +1,6 @@
 # opendatalab/MinerU-HTML
 
-⭐ 297 · Python · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/opendatalab/MinerU-HTML) · [官网](https://opendatalab.com/ai-ready/AICC#playground) · 组织维护 · 中文 README
+⭐ 298 · Python · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/opendatalab/MinerU-HTML) · [官网](https://opendatalab.com/ai-ready/AICC#playground) · 组织维护 · 中文 README
 
 **基于 LLM 的 HTML 主体内容抽取工具，输出干净 HTML 正文**
 

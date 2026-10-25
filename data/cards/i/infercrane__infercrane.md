@@ -1,6 +1,6 @@
 # infercrane/infercrane
 
-⭐ 53 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/infercrane/infercrane) · [官网](https://infercrane.com/) · 组织维护
+⭐ 53 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/infercrane/infercrane) · [官网](https://infercrane.com/) · 组织维护
 
 **自托管模型推理的部署/观测/优化与证据门控发布系统**
 

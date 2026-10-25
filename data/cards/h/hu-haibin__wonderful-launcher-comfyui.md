@@ -1,6 +1,6 @@
 # hu-haibin/wonderful-launcher-comfyui
 
-⭐ 42 · 推送 2026-10-24 · [GitHub](https://github.com/hu-haibin/wonderful-launcher-comfyui) · [官网](https://wonderfullauncher.com/) · 个人维护 · 中文 README
+⭐ 42 · 推送 2026-10-25 · [GitHub](https://github.com/hu-haibin/wonderful-launcher-comfyui) · [官网](https://wonderfullauncher.com/) · 个人维护 · 中文 README
 
 **Windows 平台的 ComfyUI 启动器：导入/部署、缺件修复、AI 诊断**
 

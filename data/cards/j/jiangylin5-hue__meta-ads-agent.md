@@ -1,6 +1,6 @@
 # jiangylin5-hue/meta-ads-agent
 
-⭐ 37 · Python · 推送 2026-10-19 · [GitHub](https://github.com/jiangylin5-hue/meta-ads-agent) · 个人维护
+⭐ 48 · Python · 推送 2026-10-19 · [GitHub](https://github.com/jiangylin5-hue/meta-ads-agent) · 个人维护
 
 **面向 Meta 广告运营的有界 AI 副驾驶，带审批式草稿工作流**
 

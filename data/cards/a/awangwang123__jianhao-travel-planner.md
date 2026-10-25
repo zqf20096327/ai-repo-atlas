@@ -1,6 +1,6 @@
 # awangwang123/jianhao-travel-planner
 
-⭐ 409 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/awangwang123/jianhao-travel-planner) · 个人维护 · 中文 README
+⭐ 414 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/awangwang123/jianhao-travel-planner) · 个人维护 · 中文 README
 
 **旅行路书生成 Skill：联网实查产出可核验的单文件 HTML 攻略**
 

@@ -1,6 +1,6 @@
 # RubricLab/maige
 
-⭐ 104 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/RubricLab/maige) · [官网](https://maige.app) · 组织维护
+⭐ 105 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/RubricLab/maige) · [官网](https://maige.app) · 组织维护
 
 **AI 管理 GitHub 仓库议题与标签的自然语言工作流工具**
 

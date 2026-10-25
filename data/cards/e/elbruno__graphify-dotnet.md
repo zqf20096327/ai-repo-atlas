@@ -1,6 +1,6 @@
 # elbruno/graphify-dotnet
 
-⭐ 96 · C# · MIT · 推送 2026-07-01 · [GitHub](https://github.com/elbruno/graphify-dotnet) · 个人维护
+⭐ 95 · C# · MIT · 推送 2026-07-01 · [GitHub](https://github.com/elbruno/graphify-dotnet) · 个人维护
 
 **为开发者从代码库构建 AI 知识图谱的 .NET 工具**
 

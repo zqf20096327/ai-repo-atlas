@@ -1,6 +1,6 @@
 # Azornes/Comfyui-Model-Resolver
 
-⭐ 46 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Azornes/Comfyui-Model-Resolver) · 个人维护
+⭐ 47 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Azornes/Comfyui-Model-Resolver) · 个人维护
 
 **ComfyUI 扩展：自动定位工作流缺失模型并下载更新路径**
 

@@ -1,6 +1,6 @@
 # ndpvt-web/latex-document-skill
 
-⭐ 795 · TeX · 推送 2026-10-23 · [GitHub](https://github.com/ndpvt-web/latex-document-skill) · [官网](https://happycapy.ai/?via=gh) · 组织维护
+⭐ 798 · TeX · 推送 2026-10-25 · [GitHub](https://github.com/ndpvt-web/latex-document-skill) · [官网](https://happycapy.ai/?via=gh) · 组织维护
 
 **Claude Code 的 LaTeX 文档技能：自然语言生成排版 PDF**
 

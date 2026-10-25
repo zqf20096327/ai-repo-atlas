@@ -1,6 +1,6 @@
 # huggingface/kernels
 
-⭐ 776 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/huggingface/kernels) · [官网](https://huggingface.co/docs/kernels/) · 组织维护
+⭐ 780 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/huggingface/kernels) · [官网](https://huggingface.co/docs/kernels/) · 组织维护
 
 **从 Hugging Face Hub 动态加载计算内核的 Python 库与构建工具**
 

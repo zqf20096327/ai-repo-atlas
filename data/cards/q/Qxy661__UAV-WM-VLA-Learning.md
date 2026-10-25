@@ -1,6 +1,6 @@
 # Qxy661/UAV-WM-VLA-Learning
 
-⭐ 51 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Qxy661/UAV-WM-VLA-Learning) · [官网](https://qxy661.github.io/UAV-WM-VLA-Learning/) · 个人维护 · 中文 README
+⭐ 51 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Qxy661/UAV-WM-VLA-Learning) · [官网](https://qxy661.github.io/UAV-WM-VLA-Learning/) · 个人维护 · 中文 README
 
 **无人机视角的世界模型/VLA/VLM 学习库：59 篇文档+195 篇论文精读**
 

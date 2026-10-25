@@ -1,6 +1,6 @@
 # LLM-Coding/Semantic-Anchors
 
-⭐ 522 · HTML · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/LLM-Coding/Semantic-Anchors) · [官网](https://llm-coding.github.io/Semantic-Anchors/) · 组织维护
+⭐ 524 · HTML · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/LLM-Coding/Semantic-Anchors) · [官网](https://llm-coding.github.io/Semantic-Anchors/) · 组织维护
 
 **230+ 语义锚点策展清单：用术语激活 LLM 深层知识**
 

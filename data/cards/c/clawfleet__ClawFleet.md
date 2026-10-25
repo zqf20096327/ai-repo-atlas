@@ -1,6 +1,6 @@
 # clawfleet/ClawFleet
 
-⭐ 177 · Go · MIT · 推送 2026-04-27 · [GitHub](https://github.com/clawfleet/ClawFleet) · [官网](https://clawfleet.io) · 组织维护 · 中文 README
+⭐ 178 · Go · MIT · 推送 2026-04-27 · [GitHub](https://github.com/clawfleet/ClawFleet) · [官网](https://clawfleet.io) · 组织维护 · 中文 README
 
 **本机 Docker 容器中编排 OpenClaw/Hermes 多 AI agent 的机群管理器**
 

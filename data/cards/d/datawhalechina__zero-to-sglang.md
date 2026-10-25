@@ -1,6 +1,6 @@
 # datawhalechina/zero-to-sglang
 
-⭐ 1,586 · Python · 推送 2026-10-24 · [GitHub](https://github.com/datawhalechina/zero-to-sglang) · [官网](https://datawhalechina.github.io/zero-to-sglang/) · 组织维护 · 中文 README
+⭐ 1,605 · Python · 推送 2026-10-25 · [GitHub](https://github.com/datawhalechina/zero-to-sglang) · [官网](https://datawhalechina.github.io/zero-to-sglang/) · 组织维护 · 中文 README
 
 **从零构建 LLM 推理引擎的 SGLang 实战教程课程**
 

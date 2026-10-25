@@ -1,6 +1,6 @@
 # MoonshotAI/K2-Vendor-Verifier
 
-⭐ 594 · Python · 推送 2026-02-14 · [GitHub](https://github.com/MoonshotAI/K2-Vendor-Verifier) · 组织维护 · 中文 README
+⭐ 596 · Python · 推送 2026-02-14 · [GitHub](https://github.com/MoonshotAI/K2-Vendor-Verifier) · 组织维护 · 中文 README
 
 **Kimi K2 各 API 供应商 toolcall 精度评测工具与榜单**
 

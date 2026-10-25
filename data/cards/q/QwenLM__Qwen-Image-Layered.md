@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Image-Layered
 
-⭐ 2,148 · Python · Apache-2.0 · 推送 2025-12-31 · [GitHub](https://github.com/QwenLM/Qwen-Image-Layered) · 组织维护 · 中文 README
+⭐ 2,149 · Python · Apache-2.0 · 推送 2025-12-31 · [GitHub](https://github.com/QwenLM/Qwen-Image-Layered) · 组织维护 · 中文 README
 
 **将图像分解为多个 RGBA 图层的生成模型，实现图层级编辑**
 

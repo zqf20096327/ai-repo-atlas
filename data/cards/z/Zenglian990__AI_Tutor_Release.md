@@ -1,6 +1,6 @@
 # Zenglian990/AI_Tutor_Release
 
-⭐ 68 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Zenglian990/AI_Tutor_Release) · 个人维护 · 中文 README
+⭐ 69 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Zenglian990/AI_Tutor_Release) · 个人维护 · 中文 README
 
 **面向1-9年级学生的开源 RAG AI 教辅私教（移动/Web 应用）**
 

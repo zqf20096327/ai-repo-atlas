@@ -1,6 +1,6 @@
 # rollingSirius/equity-research-skill
 
-⭐ 465 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/rollingSirius/equity-research-skill) · [官网](https://x.com/rollingSirius) · 个人维护 · 中文 README
+⭐ 467 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/rollingSirius/equity-research-skill) · [官网](https://x.com/rollingSirius) · 个人维护 · 中文 README
 
 **供 AI 工具使用的个股深度研究技能包，产出可溯源估值报告**
 

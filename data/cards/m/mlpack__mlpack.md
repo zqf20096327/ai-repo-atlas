@@ -1,6 +1,6 @@
 # mlpack/mlpack
 
-⭐ 5,717 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/mlpack/mlpack) · [官网](https://www.mlpack.org/) · 组织维护
+⭐ 5,718 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/mlpack/mlpack) · [官网](https://www.mlpack.org/) · 组织维护
 
 **C++ 机器学习库：面向研究与生产部署的多语言绑定 ML 工具集**
 

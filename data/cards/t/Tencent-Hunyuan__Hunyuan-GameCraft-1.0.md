@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan-GameCraft-1.0
 
-⭐ 761 · Python · NOASSERTION · 推送 2025-11-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0) · [官网](https://hunyuan-gamecraft.github.io/) · 组织维护 · 中文 README
+⭐ 762 · Python · NOASSERTION · 推送 2025-11-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0) · [官网](https://hunyuan-gamecraft.github.io/) · 组织维护 · 中文 README
 
 **腾讯混元游戏视频生成模型：键盘鼠标交互式生成游戏画面**
 

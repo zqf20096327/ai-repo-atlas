@@ -1,6 +1,6 @@
 # lucid-kv/lucid
 
-⭐ 392 · Rust · MIT · 推送 2026-04-22 · [GitHub](https://github.com/lucid-kv/lucid) · [官网](https://lucid-kv.dev) · 组织维护
+⭐ 393 · Rust · MIT · 推送 2026-04-22 · [GitHub](https://github.com/lucid-kv/lucid) · [官网](https://lucid-kv.dev) · 组织维护
 
 **带 REST API 的分布式高性能键值存储，供后端/云原生使用**
 

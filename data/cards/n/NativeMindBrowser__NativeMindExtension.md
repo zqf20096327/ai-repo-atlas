@@ -1,6 +1,6 @@
 # NativeMindBrowser/NativeMindExtension
 
-⭐ 1,134 · TypeScript · AGPL-3.0 · 推送 2026-03-23 · [GitHub](https://github.com/NativeMindBrowser/NativeMindExtension) · [官网](https://nativemind.app) · 组织维护
+⭐ 1,135 · TypeScript · AGPL-3.0 · 推送 2026-03-23 · [GitHub](https://github.com/NativeMindBrowser/NativeMindExtension) · [官网](https://nativemind.app) · 组织维护
 
 **在浏览器本地运行 LLM 的隐私优先 AI 助手扩展**
 

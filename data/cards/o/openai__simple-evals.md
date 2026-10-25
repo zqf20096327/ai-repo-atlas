@@ -1,6 +1,6 @@
 # openai/simple-evals
 
-⭐ 4,673 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/openai/simple-evals) · 组织维护
+⭐ 4,674 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/openai/simple-evals) · 组织维护
 
 **OpenAI 的轻量级语言模型评测库：跑 MMLU/MATH 等基准**
 

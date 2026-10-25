@@ -1,6 +1,6 @@
 # marktoda/zj-radar
 
-⭐ 66 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/marktoda/zj-radar) · [官网](https://crates.io/crates/zj-radar) · 个人维护
+⭐ 67 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/marktoda/zj-radar) · [官网](https://crates.io/crates/zj-radar) · 个人维护
 
 **Zellij 侧栏插件：集中显示多标签页内各 AI agent 的实时状态**
 

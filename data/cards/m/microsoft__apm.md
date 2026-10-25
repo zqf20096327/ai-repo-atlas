@@ -1,6 +1,6 @@
 # microsoft/apm
 
-⭐ 4,116 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/apm) · [官网](https://microsoft.github.io/apm/) · 组织维护
+⭐ 4,121 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/apm) · [官网](https://microsoft.github.io/apm/) · 组织维护
 
 **AI 编程代理的依赖管理器：一份清单配置所有 agent**
 

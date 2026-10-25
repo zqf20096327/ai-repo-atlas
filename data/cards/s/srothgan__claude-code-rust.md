@@ -1,6 +1,6 @@
 # srothgan/claude-code-rust
 
-⭐ 270 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/srothgan/claude-code-rust) · [官网](https://srothgan.github.io/claude-code-rust/) · 个人维护
+⭐ 271 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/srothgan/claude-code-rust) · [官网](https://srothgan.github.io/claude-code-rust/) · 个人维护
 
 **Claude Code 的 Rust 原生终端界面替代前端**
 

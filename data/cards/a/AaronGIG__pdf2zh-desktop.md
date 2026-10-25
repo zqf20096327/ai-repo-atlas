@@ -1,6 +1,6 @@
 # AaronGIG/pdf2zh-desktop
 
-⭐ 505 · Python · 推送 2026-10-23 · [GitHub](https://github.com/AaronGIG/pdf2zh-desktop) · [官网](https://aarongig.github.io/pdf2zh-desktop/) · 个人维护 · 中文 README
+⭐ 504 · Python · 推送 2026-10-23 · [GitHub](https://github.com/AaronGIG/pdf2zh-desktop) · [官网](https://aarongig.github.io/pdf2zh-desktop/) · 个人维护 · 中文 README
 
 **开箱即用的 PDF 学术翻译桌面应用，保留公式排版并联动 Zotero**
 

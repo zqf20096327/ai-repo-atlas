@@ -1,6 +1,6 @@
 # xiaozhangup/Oh-My-McDonald
 
-⭐ 51 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/xiaozhangup/Oh-My-McDonald) · 个人维护 · 中文 README
+⭐ 119 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/xiaozhangup/Oh-My-McDonald) · 个人维护 · 中文 README
 
 **基于麦当劳官方 MCP 的对话式点餐决策 AI Skill**
 

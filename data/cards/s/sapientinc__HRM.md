@@ -1,6 +1,6 @@
 # sapientinc/HRM
 
-⭐ 12,660 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/sapientinc/HRM) · [官网](https://sapient.inc) · 组织维护
+⭐ 12,662 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/sapientinc/HRM) · [官网](https://sapient.inc) · 组织维护
 
 **27M 参数的两层级联循环推理模型官方实现**
 

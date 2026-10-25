@@ -1,6 +1,6 @@
 # symfony/ai-demo
 
-⭐ 48 · PHP · MIT · 推送 2026-10-23 · [GitHub](https://github.com/symfony/ai-demo) · [官网](https://symfony.com/packages/ai-demo) · 组织维护
+⭐ 48 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/symfony/ai-demo) · [官网](https://symfony.com/packages/ai-demo) · 组织维护
 
 **Symfony AI 组件的官方演示应用：聊天机器人等 11 个示例**
 

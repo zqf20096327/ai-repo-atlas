@@ -1,6 +1,6 @@
 # Qwen-Applications/STAR
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/Qwen-Applications/STAR) · 组织维护 · 中文 README
+⭐ 66 · Python · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/Qwen-Applications/STAR) · 组织维护 · 中文 README
 
 **把 LLM 函数调用能力蒸馏到超小模型的训练框架**
 

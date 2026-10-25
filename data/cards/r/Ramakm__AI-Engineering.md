@@ -1,6 +1,6 @@
 # Ramakm/AI-Engineering
 
-⭐ 1,463 · Jupyter Notebook · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Ramakm/AI-Engineering) · [官网](https://growtechie.substack.com/) · 个人维护
+⭐ 1,464 · Jupyter Notebook · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Ramakm/AI-Engineering) · [官网](https://growtechie.substack.com/) · 个人维护
 
 **AI 工程动手学习仓库：从数学到 RAG/OCR 的成套教程**
 

@@ -1,6 +1,6 @@
 # onyx-dot-app/EnterpriseRAG-Bench
 
-⭐ 604 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) · [官网](https://www.onyx.app/) · 组织维护
+⭐ 607 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) · [官网](https://www.onyx.app/) · 组织维护
 
 **企业内部文档 RAG 基准：50 万文档 + 500 题数据集**
 

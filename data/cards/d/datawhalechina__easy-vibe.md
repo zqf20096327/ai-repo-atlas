@@ -1,6 +1,6 @@
 # datawhalechina/easy-vibe
 
-⭐ 20,144 · JavaScript · 推送 2026-10-22 · [GitHub](https://github.com/datawhalechina/easy-vibe) · [官网](https://datawhalechina.github.io/easy-vibe/) · 组织维护 · 中文 README
+⭐ 20,166 · JavaScript · 推送 2026-10-22 · [GitHub](https://github.com/datawhalechina/easy-vibe) · [官网](https://datawhalechina.github.io/easy-vibe/) · 组织维护 · 中文 README
 
 **面向零基础学习者的 Vibe Coding 产品实战教程**
 

@@ -1,6 +1,6 @@
 # THUSI-Lab/Awesome-LFMs-Play-Games
 
-⭐ 46 · Python · 推送 2026-10-24 · [GitHub](https://github.com/THUSI-Lab/Awesome-LFMs-Play-Games) · [官网](https://thusi-lab.github.io/Awesome-LFMs-Play-Games/) · 组织维护 · 中文 README
+⭐ 47 · Python · 推送 2026-10-24 · [GitHub](https://github.com/THUSI-Lab/Awesome-LFMs-Play-Games) · [官网](https://thusi-lab.github.io/Awesome-LFMs-Play-Games/) · 组织维护 · 中文 README
 
 **基础模型玩游戏综述的论文清单：数据集/模型/框架/基准四类资源**
 

@@ -1,6 +1,6 @@
 # lobehub/lobe-midjourney-webui
 
-⭐ 202 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lobehub/lobe-midjourney-webui) · [官网](https://midjourney-webui.lobehub.com) · 组织维护 · 中文 README
+⭐ 202 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lobehub/lobe-midjourney-webui) · [官网](https://midjourney-webui.lobehub.com) · 组织维护 · 中文 README
 
 **LobeChat 的 Midjourney 绘图插件：自然语言生成图片**
 

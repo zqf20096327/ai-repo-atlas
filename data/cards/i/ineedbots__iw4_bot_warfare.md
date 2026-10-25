@@ -1,6 +1,6 @@
 # ineedbots/iw4_bot_warfare
 
-⭐ 183 · GSC · 推送 2026-06-16 · [GitHub](https://github.com/ineedbots/iw4_bot_warfare) · [官网](https://www.moddb.com/mods/bot-warfare) · 个人维护
+⭐ 184 · GSC · 推送 2026-06-16 · [GitHub](https://github.com/ineedbots/iw4_bot_warfare) · [官网](https://www.moddb.com/mods/bot-warfare) · 个人维护
 
 **MW2（IW4x）多人游戏加 AI 机器人的 GSC 模组**
 

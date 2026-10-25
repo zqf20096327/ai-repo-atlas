@@ -1,6 +1,6 @@
 # FlorianBruniaux/claude-code-ultimate-guide
 
-⭐ 6,238 · Python · CC-BY-SA-4.0 · 推送 2026-10-24 · [GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) · [官网](https://cc.bruniaux.com/) · 个人维护
+⭐ 6,250 · Python · CC-BY-SA-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) · [官网](https://cc.bruniaux.com/) · 个人维护
 
 **Claude Code 工程实践指南：教开发者构建与规模化 agent 使用**
 

@@ -1,6 +1,6 @@
 # dailydotdev/daily
 
-⭐ 20,112 · JavaScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/dailydotdev/daily) · [官网](https://daily.dev) · 组织维护
+⭐ 20,114 · JavaScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/dailydotdev/daily) · [官网](https://daily.dev) · 组织维护
 
 **开发者的个性化新闻聚合 feed 与社区：浏览器新标签页/移动端获取技术内容**
 

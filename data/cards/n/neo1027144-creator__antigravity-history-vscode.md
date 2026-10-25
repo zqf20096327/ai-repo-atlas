@@ -1,6 +1,6 @@
 # neo1027144-creator/antigravity-history-vscode
 
-⭐ 49 · JavaScript · Apache-2.0 · 推送 2026-03-30 · [GitHub](https://github.com/neo1027144-creator/antigravity-history-vscode) · [官网](https://open-vsx.org/extension/neo1027144/antigravity-history) · 个人维护 · 中文 README
+⭐ 48 · JavaScript · Apache-2.0 · 推送 2026-03-30 · [GitHub](https://github.com/neo1027144-creator/antigravity-history-vscode) · [官网](https://open-vsx.org/extension/neo1027144/antigravity-history) · 个人维护 · 中文 README
 
 **VS Code 扩展：浏览、搜索、导出 Antigravity AI 对话记录**
 

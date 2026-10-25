@@ -1,6 +1,6 @@
 # shenyangs/Guanlan
 
-⭐ 55 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/shenyangs/Guanlan) · [官网](https://Guanlan.xin) · 个人维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/shenyangs/Guanlan) · [官网](https://Guanlan.xin) · 个人维护 · 中文 README
 
 **给 AI Agent 的中文互联网研究与信源路由 CLI 工具**
 

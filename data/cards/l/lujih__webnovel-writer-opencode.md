@@ -1,6 +1,6 @@
 # lujih/webnovel-writer-opencode
 
-⭐ 222 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/lujih/webnovel-writer-opencode) · [官网](https://wnw.cszxorx.dpdns.org) · 个人维护 · 中文 README
+⭐ 223 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/lujih/webnovel-writer-opencode) · [官网](https://wnw.cszxorx.dpdns.org) · 个人维护 · 中文 README
 
 **面向中文网文作者的 AI 长篇连载创作系统（OpenCode 插件）**
 

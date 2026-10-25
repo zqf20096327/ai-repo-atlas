@@ -1,6 +1,6 @@
 # epicsagas/Velith
 
-⭐ 38 · JavaScript · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/epicsagas/Velith) · [官网](https://epicsagas.github.io/Velith/) · 个人维护 · 中文 README
+⭐ 39 · JavaScript · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/epicsagas/Velith) · [官网](https://epicsagas.github.io/Velith/) · 个人维护 · 中文 README
 
 **面向写作者的 6 阶段 AI 出书流水线（Claude Code 插件），产出 EPUB/PDF**
 

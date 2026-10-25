@@ -1,6 +1,6 @@
 # ypollak2/llm-router
 
-⭐ 119 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ypollak2/llm-router) · 个人维护
+⭐ 119 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ypollak2/llm-router) · 个人维护
 
 **为 AI 编程工具跨免费/付费模型分层路由的本地路由器**
 

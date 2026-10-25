@@ -1,6 +1,6 @@
 # PDFMathTranslate/PDFMathReader
 
-⭐ 52 · JavaScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/PDFMathTranslate/PDFMathReader) · [官网](https://pdfmathtranslate.github.io/PDFMathReader/) · 组织维护 · 中文 README
+⭐ 53 · JavaScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PDFMathTranslate/PDFMathReader) · [官网](https://pdfmathtranslate.github.io/PDFMathReader/) · 组织维护 · 中文 README
 
 **跨平台科学文献实时翻译阅读器，保留公式与排版**
 

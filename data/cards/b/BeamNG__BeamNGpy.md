@@ -1,6 +1,6 @@
 # BeamNG/BeamNGpy
 
-⭐ 395 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/BeamNG/BeamNGpy) · [官网](https://beamng.tech) · 组织维护
+⭐ 396 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/BeamNG/BeamNGpy) · [官网](https://beamng.tech) · 组织维护
 
 **远程控制 BeamNG.tech 驾驶模拟器的 Python API 库**
 

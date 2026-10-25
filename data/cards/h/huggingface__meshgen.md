@@ -1,6 +1,6 @@
 # huggingface/meshgen
 
-⭐ 936 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/meshgen) · 组织维护
+⭐ 937 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/meshgen) · 组织维护
 
 **Blender 插件：用自然语言让 AI Agent 操作 Blender 建模**
 

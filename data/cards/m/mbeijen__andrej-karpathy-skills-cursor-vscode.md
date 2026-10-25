@@ -1,6 +1,6 @@
 # mbeijen/andrej-karpathy-skills-cursor-vscode
 
-⭐ 275 · TypeScript · 推送 2026-02-11 · [GitHub](https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode) · [官网](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html) · 个人维护
+⭐ 274 · TypeScript · 推送 2026-02-11 · [GitHub](https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode) · [官网](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html) · 个人维护
 
 **将 Karpathy 编码准则转为 Cursor/VS Code 规则文件的扩展**
 

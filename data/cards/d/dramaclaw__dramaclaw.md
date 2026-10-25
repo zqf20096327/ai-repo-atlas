@@ -1,6 +1,6 @@
 # dramaclaw/dramaclaw
 
-⭐ 6,430 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/dramaclaw/dramaclaw) · [官网](https://dramaclaw.ai) · 组织维护 · 中文 README
+⭐ 6,449 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/dramaclaw/dramaclaw) · [官网](https://dramaclaw.ai) · 组织维护 · 中文 README
 
 **开源可自部署的 AIGC 视频生产引擎：从剧本到成片**
 

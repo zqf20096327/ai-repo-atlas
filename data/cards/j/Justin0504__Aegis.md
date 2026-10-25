@@ -1,6 +1,6 @@
 # Justin0504/Aegis
 
-⭐ 523 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Justin0504/Aegis) · [官网](https://aegistraces.com) · 个人维护
+⭐ 523 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Justin0504/Aegis) · [官网](https://aegistraces.com) · 个人维护
 
 **AI agent 的预执行防火墙：拦截、审计并管控每个工具调用**
 

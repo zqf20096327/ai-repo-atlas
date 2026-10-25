@@ -1,6 +1,6 @@
 # migsilva89/MarkMind
 
-⭐ 103 · TypeScript · 推送 2026-09-19 · [GitHub](https://github.com/migsilva89/MarkMind) · [官网](https://www.markmind.xyz/) · 个人维护
+⭐ 105 · TypeScript · 推送 2026-09-19 · [GitHub](https://github.com/migsilva89/MarkMind) · [官网](https://www.markmind.xyz/) · 个人维护
 
 **用 AI 自动整理浏览器书签的 Chrome 扩展**
 

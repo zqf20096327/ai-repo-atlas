@@ -1,6 +1,6 @@
 # Metabuilder-Labs/tokenjam
 
-⭐ 124 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Metabuilder-Labs/tokenjam) · [官网](https://tokenjam.dev/oss) · 组织维护
+⭐ 124 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Metabuilder-Labs/tokenjam) · [官网](https://tokenjam.dev/oss) · 组织维护
 
 **读取 AI agent 遥测数据、定位 token 超额使用并给出修复建议的本地工具**
 

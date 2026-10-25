@@ -1,6 +1,6 @@
 # hkchengrex/MMAudio
 
-⭐ 2,292 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/hkchengrex/MMAudio) · [官网](https://hkchengrex.com/MMAudio/) · 组织维护
+⭐ 2,294 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/hkchengrex/MMAudio) · [官网](https://hkchengrex.com/MMAudio/) · 组织维护
 
 **给开发者的视频/文本生成同步音频的模型（CVPR 2025）**
 

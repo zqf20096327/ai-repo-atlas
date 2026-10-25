@@ -1,6 +1,6 @@
 # finchtoys/finch-releases
 
-⭐ 58 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/finchtoys/finch-releases) · [官网](https://www.finchwork.app) · 组织维护 · 中文 README
+⭐ 58 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/finchtoys/finch-releases) · [官网](https://www.finchwork.app) · 组织维护 · 中文 README
 
 **Finch Agent 桌面 AI 应用的发布中心：版本资产与扩展社区注册表**
 

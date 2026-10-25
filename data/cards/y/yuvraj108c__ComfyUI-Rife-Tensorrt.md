@@ -1,6 +1,6 @@
 # yuvraj108c/ComfyUI-Rife-Tensorrt
 
-⭐ 122 · Python · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Rife-Tensorrt) · 个人维护
+⭐ 121 · Python · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Rife-Tensorrt) · 个人维护
 
 **ComfyUI 的 RIFE TensorRT 帧插值节点，加速视频补帧**
 

@@ -1,6 +1,6 @@
 # nihui/ncnn-android-squeezenet
 
-⭐ 188 · C++ · 推送 2026-10-23 · [GitHub](https://github.com/nihui/ncnn-android-squeezenet) · 个人维护
+⭐ 189 · C++ · 推送 2026-10-23 · [GitHub](https://github.com/nihui/ncnn-android-squeezenet) · 个人维护
 
 **基于 ncnn 的 SqueezeNet 图像分类 Android 示例应用**
 

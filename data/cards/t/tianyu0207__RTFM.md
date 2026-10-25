@@ -1,6 +1,6 @@
 # tianyu0207/RTFM
 
-⭐ 351 · Python · 推送 2025-10-29 · [GitHub](https://github.com/tianyu0207/RTFM) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **ICCV 2021 论文官方代码：弱监督视频异常检测方法 RTFM**
 

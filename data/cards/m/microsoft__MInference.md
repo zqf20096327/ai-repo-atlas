@@ -1,6 +1,6 @@
 # microsoft/MInference
 
-⭐ 1,229 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/microsoft/MInference) · [官网](https://aka.ms/MInference) · 组织维护
+⭐ 1,230 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/microsoft/MInference) · [官网](https://aka.ms/MInference) · 组织维护
 
 **长上下文 LLM 预填充加速库：动态稀疏注意力降低推理延迟**
 

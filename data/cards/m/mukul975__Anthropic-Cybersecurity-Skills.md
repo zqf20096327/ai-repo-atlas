@@ -1,6 +1,6 @@
 # mukul975/Anthropic-Cybersecurity-Skills
 
-⭐ 34,938 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) · [官网](https://mahipal.engineer/Anthropic-Cybersecurity-Skills/) · 个人维护
+⭐ 34,994 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) · [官网](https://mahipal.engineer/Anthropic-Cybersecurity-Skills/) · 个人维护
 
 **为 AI 代理提供网络安全技能库：818 条技能，映射 6 大框架**
 

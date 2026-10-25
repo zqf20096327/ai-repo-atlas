@@ -1,6 +1,6 @@
 # OpenMOSS/MOSS-TTS
 
-⭐ 4,244 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/OpenMOSS/MOSS-TTS) · [官网](https://mosi.cn/models/moss-tts) · 组织维护 · 中文 README
+⭐ 4,248 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/OpenMOSS/MOSS-TTS) · [官网](https://mosi.cn/models/moss-tts) · 组织维护 · 中文 README
 
 **开源语音/音效生成模型家族：长语音、对话、音色设计与流式 TTS**
 

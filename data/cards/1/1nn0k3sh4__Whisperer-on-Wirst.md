@@ -1,6 +1,6 @@
 # 1nn0k3sh4/Whisperer-on-Wirst
 
-⭐ 49 · C++ · MIT · 推送 2026-01-14 · [GitHub](https://github.com/1nn0k3sh4/Whisperer-on-Wirst) · 个人维护
+⭐ 50 · C++ · MIT · 推送 2026-01-14 · [GitHub](https://github.com/1nn0k3sh4/Whisperer-on-Wirst) · 个人维护
 
 **戴在手腕上的本地 AI 伴侣：M5 设备经 WiFi 连本地 LLM**
 

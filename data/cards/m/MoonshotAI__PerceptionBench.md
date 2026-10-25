@@ -1,6 +1,6 @@
 # MoonshotAI/PerceptionBench
 
-⭐ 216 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/MoonshotAI/PerceptionBench) · 组织维护 · 中文 README
+⭐ 217 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/MoonshotAI/PerceptionBench) · 组织维护 · 中文 README
 
 **评测多模态大模型原子视觉感知能力的基准（3,000 题）**
 

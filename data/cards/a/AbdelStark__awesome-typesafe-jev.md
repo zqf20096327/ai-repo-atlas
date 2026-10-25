@@ -1,6 +1,6 @@
 # AbdelStark/awesome-typesafe-jev
 
-⭐ 605 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AbdelStark/awesome-typesafe-jev) · [官网](https://abdelstark.github.io/awesome-typesafe-jev/) · 个人维护
+⭐ 606 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AbdelStark/awesome-typesafe-jev) · [官网](https://abdelstark.github.io/awesome-typesafe-jev/) · 个人维护
 
 **TypeSafe Jev 模型的社区策展指南：接入路径与独立评测**
 

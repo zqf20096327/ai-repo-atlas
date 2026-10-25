@@ -1,6 +1,6 @@
 # AgriciDaniel/wp-mcp-ultimate
 
-⭐ 168 · PHP · GPL-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/AgriciDaniel/wp-mcp-ultimate) · [官网](https://agricidaniel.com/blog/wp-mcp-ultimate-wordpress-ai-plugin) · 个人维护
+⭐ 169 · PHP · GPL-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/AgriciDaniel/wp-mcp-ultimate) · [官网](https://agricidaniel.com/blog/wp-mcp-ultimate-wordpress-ai-plugin) · 个人维护
 
 **WordPress 的 MCP 服务器插件：让 AI 客户端直接管理站点内容**
 

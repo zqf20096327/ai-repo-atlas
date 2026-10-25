@@ -1,6 +1,6 @@
 # Netflix/metaflow
 
-⭐ 10,311 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Netflix/metaflow) · [官网](https://metaflow.org) · 组织维护
+⭐ 10,314 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Netflix/metaflow) · [官网](https://metaflow.org) · 组织维护
 
 **Netflix 开源的 AI/ML 系统构建与管理 Python 框架**
 

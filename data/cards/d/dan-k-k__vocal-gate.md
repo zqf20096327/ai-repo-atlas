@@ -1,6 +1,6 @@
 # dan-k-k/vocal-gate
 
-⭐ 63 · C++ · GPL-3.0 · 推送 2026-04-05 · [GitHub](https://github.com/dan-k-k/vocal-gate) · 个人维护
+⭐ 64 · C++ · GPL-3.0 · 推送 2026-04-05 · [GitHub](https://github.com/dan-k-k/vocal-gate) · 个人维护
 
 **面向创作者的 AI 噪声门 VST3/AU 插件，实时去除咳嗽喷嚏**
 

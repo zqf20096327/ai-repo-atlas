@@ -1,6 +1,6 @@
 # selimfirat/pysad
 
-⭐ 314 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护
+⭐ 314 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护
 
 **Python 流式异常检测库：逐点打分并校准告警**
 

@@ -1,6 +1,6 @@
 # payloadcms/skills
 
-⭐ 169 · 推送 2026-08-10 · [GitHub](https://github.com/payloadcms/skills) · 组织维护
+⭐ 170 · 推送 2026-08-10 · [GitHub](https://github.com/payloadcms/skills) · 组织维护
 
 **面向 AI 编码 agent 的 Payload CMS 开发技能包**
 

@@ -1,6 +1,6 @@
 # stepfun-ai/Step-Code
 
-⭐ 1,015 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/stepfun-ai/Step-Code) · 组织维护 · 中文 README
+⭐ 1,019 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/stepfun-ai/Step-Code) · 组织维护 · 中文 README
 
 **终端 AI 编程代理：连接 Step 模型完成读码、改码与测试**
 

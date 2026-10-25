@@ -1,6 +1,6 @@
 # AVADSA25/codec
 
-⭐ 109 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AVADSA25/codec) · [官网](https://opencodec.org/) · 组织维护
+⭐ 109 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AVADSA25/codec) · [官网](https://opencodec.org/) · 组织维护
 
 **macOS 语音控制的开源 AI 工作站，本地运行 7 个子产品**
 

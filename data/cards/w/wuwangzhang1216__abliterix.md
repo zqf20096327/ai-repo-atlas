@@ -1,6 +1,6 @@
 # wuwangzhang1216/abliterix
 
-⭐ 262 · Python · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/wuwangzhang1216/abliterix) · 个人维护
+⭐ 263 · Python · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/wuwangzhang1216/abliterix) · 个人维护
 
 **LLM 拒绝行为消除的自动调参工具：Optuna 搜索最优 abliteration 参数**
 

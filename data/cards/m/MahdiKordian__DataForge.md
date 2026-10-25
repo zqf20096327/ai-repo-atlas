@@ -1,6 +1,6 @@
 # MahdiKordian/DataForge
 
-⭐ 47 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/MahdiKordian/DataForge) · [官网](https://dataforge-prep.streamlit.app/) · 个人维护
+⭐ 48 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/MahdiKordian/DataForge) · [官网](https://dataforge-prep.streamlit.app/) · 个人维护
 
 **面向 ML 的引导式数据预处理 Web 应用：脏数据进、可建模数据出**
 

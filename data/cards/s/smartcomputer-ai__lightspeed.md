@@ -1,6 +1,6 @@
 # smartcomputer-ai/lightspeed
 
-⭐ 267 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/smartcomputer-ai/lightspeed) · [官网](https://ls.bot/) · 组织维护
+⭐ 267 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/smartcomputer-ai/lightspeed) · [官网](https://ls.bot/) · 组织维护
 
 **Rust 编写的托管 agent 舰队基础设施，基于 Temporal 持久工作流**
 

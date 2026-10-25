@@ -1,6 +1,6 @@
 # pguso/rag-from-scratch
 
-⭐ 1,647 · JavaScript · MIT · 推送 2026-03-11 · [GitHub](https://github.com/pguso/rag-from-scratch) · 个人维护
+⭐ 1,646 · JavaScript · MIT · 推送 2026-03-11 · [GitHub](https://github.com/pguso/rag-from-scratch) · 个人维护
 
 **面向开发者的 RAG 从零实现教程：本地 LLM、逐步代码讲解**
 

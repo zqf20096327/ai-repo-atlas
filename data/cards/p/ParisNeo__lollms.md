@@ -1,6 +1,6 @@
 # ParisNeo/lollms
 
-⭐ 102 · Vue · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ParisNeo/lollms) · [官网](https://lollms.com) · 个人维护
+⭐ 103 · Vue · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ParisNeo/lollms) · [官网](https://lollms.com) · 个人维护
 
 **多用户 Web 聊天应用：通过 lollms_client 接入多种 LLM 后端**
 

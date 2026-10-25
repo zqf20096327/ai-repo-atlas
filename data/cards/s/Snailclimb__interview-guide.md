@@ -1,6 +1,6 @@
 # Snailclimb/interview-guide
 
-⭐ 3,413 · Java · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/Snailclimb/interview-guide) · [官网](https://javaguide.cn/zhuanlan/interview-guide.html) · 个人维护 · 中文 README
+⭐ 3,416 · Java · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/Snailclimb/interview-guide) · [官网](https://javaguide.cn/zhuanlan/interview-guide.html) · 个人维护 · 中文 README
 
 **面向求职者/HR/培训机构的开源 AI 面试平台**
 

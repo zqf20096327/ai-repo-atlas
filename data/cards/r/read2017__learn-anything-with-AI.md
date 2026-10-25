@@ -1,6 +1,6 @@
 # read2017/learn-anything-with-AI
 
-⭐ 202 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/read2017/learn-anything-with-AI) · [官网](https://xhslink.cn/o/5pRBmwGVkJe) · 个人维护 · 中文 README
+⭐ 203 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/read2017/learn-anything-with-AI) · [官网](https://xhslink.cn/o/5pRBmwGVkJe) · 个人维护 · 中文 README
 
 **可移植的 SKILL.md 学习工作流包：让 AI 带用户系统学会任意主题**
 

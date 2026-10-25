@@ -1,6 +1,6 @@
 # Tanu-N-Prabhu/Python
 
-⭐ 2,310 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/Tanu-N-Prabhu/Python) · [官网](https://github.com/Tanu-N-Prabhu) · 个人维护
+⭐ 2,309 · Jupyter Notebook · 推送 2026-10-25 · [GitHub](https://github.com/Tanu-N-Prabhu/Python) · [官网](https://github.com/Tanu-N-Prabhu) · 个人维护
 
 **从零学习 Python、数据科学与机器学习的教程仓库**
 

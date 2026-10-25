@@ -1,6 +1,6 @@
 # worldbank/REaLTabFormer
 
-⭐ 246 · Jupyter Notebook · MIT · 推送 2026-01-04 · [GitHub](https://github.com/worldbank/REaLTabFormer) · [官网](https://worldbank.github.io/REaLTabFormer/) · 组织维护
+⭐ 247 · Jupyter Notebook · MIT · 推送 2026-01-04 · [GitHub](https://github.com/worldbank/REaLTabFormer) · [官网](https://worldbank.github.io/REaLTabFormer/) · 组织维护
 
 **用 Transformer 生成表格与关系型合成数据的模型套件**
 

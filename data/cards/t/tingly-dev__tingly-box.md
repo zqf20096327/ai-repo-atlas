@@ -1,6 +1,6 @@
 # tingly-dev/tingly-box
 
-⭐ 356 · Go · MPL-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/tingly-dev/tingly-box) · [官网](https://tingly-dev.github.io/tingly-box/) · 组织维护 · 中文 README
+⭐ 359 · Go · MPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/tingly-dev/tingly-box) · [官网](https://tingly-dev.github.io/tingly-box/) · 组织维护 · 中文 README
 
 **自托管 LLM 网关：任意 Agent 接任意模型，含团队管理与远程控制**
 

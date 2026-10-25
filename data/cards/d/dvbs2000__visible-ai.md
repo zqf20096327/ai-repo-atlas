@@ -1,6 +1,6 @@
 # dvbs2000/visible-ai
 
-⭐ 48 · HTML · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/dvbs2000/visible-ai) · [官网](https://dvbs2000.github.io/visible-ai/) · 个人维护 · 中文 README
+⭐ 49 · HTML · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/dvbs2000/visible-ai) · [官网](https://dvbs2000.github.io/visible-ai/) · 个人维护 · 中文 README
 
 **零基础 AI 通识图解电子书：30 章带普通人从神经元学到搭应用**
 

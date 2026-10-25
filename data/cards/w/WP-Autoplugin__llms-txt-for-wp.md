@@ -1,6 +1,6 @@
 # WP-Autoplugin/llms-txt-for-wp
 
-⭐ 50 · PHP · 推送 2026-03-09 · [GitHub](https://github.com/WP-Autoplugin/llms-txt-for-wp) · 个人维护
+⭐ 51 · PHP · 推送 2026-03-09 · [GitHub](https://github.com/WP-Autoplugin/llms-txt-for-wp) · 个人维护
 
 **WordPress 插件：为站点生成 llms.txt 与文章 Markdown 版本**
 

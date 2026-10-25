@@ -1,6 +1,6 @@
 # cybaea/obsidian-vault-intelligence
 
-⭐ 79 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/cybaea/obsidian-vault-intelligence) · [官网](https://cybaea.github.io/obsidian-vault-intelligence/) · 组织维护
+⭐ 79 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cybaea/obsidian-vault-intelligence) · [官网](https://cybaea.github.io/obsidian-vault-intelligence/) · 组织维护
 
 **Obsidian 知识库维护插件：用 AI agent 检索、更新与整理笔记**
 

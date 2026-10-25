@@ -1,6 +1,6 @@
 # viperrcrypto/Siftly
 
-⭐ 3,078 · TypeScript · MIT · 推送 2026-04-08 · [GitHub](https://github.com/viperrcrypto/Siftly) · 个人维护
+⭐ 3,079 · TypeScript · MIT · 推送 2026-04-08 · [GitHub](https://github.com/viperrcrypto/Siftly) · 个人维护
 
 **本地自托管的 Twitter/X 书签管理器，AI 分类与思维导图**
 

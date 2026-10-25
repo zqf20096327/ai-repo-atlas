@@ -1,6 +1,6 @@
 # ollama/ollama
 
-⭐ 184,634 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ollama/ollama) · [官网](https://ollama.com) · 组织维护
+⭐ 184,757 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ollama/ollama) · [官网](https://ollama.com) · 组织维护
 
 **本地与云端运行开源大模型的工具：下载即用多款开放模型**
 

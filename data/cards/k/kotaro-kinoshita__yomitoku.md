@@ -1,6 +1,6 @@
 # kotaro-kinoshita/yomitoku
 
-⭐ 1,654 · Python · 推送 2026-10-22 · [GitHub](https://github.com/kotaro-kinoshita/yomitoku) · [官网](https://kotaro-kinoshita.github.io/yomitoku/) · 组织维护
+⭐ 1,655 · Python · 推送 2026-10-22 · [GitHub](https://github.com/kotaro-kinoshita/yomitoku) · [官网](https://kotaro-kinoshita.github.io/yomitoku/) · 组织维护
 
 **日本語特化の文書画像 AI 解析引擎：OCR 与布局/表格解析**
 

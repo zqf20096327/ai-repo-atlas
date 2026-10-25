@@ -1,6 +1,6 @@
 # RanitManik/Gemini-Clone
 
-⭐ 38 · JavaScript · MIT · 推送 2025-11-07 · [GitHub](https://github.com/RanitManik/Gemini-Clone) · [官网](https://gemini-clone-v0.netlify.app) · 个人维护
+⭐ 39 · JavaScript · MIT · 推送 2025-11-07 · [GitHub](https://github.com/RanitManik/Gemini-Clone) · [官网](https://gemini-clone-v0.netlify.app) · 个人维护
 
 **调用 Gemini API 的 React 聊天机器人网页克隆项目**
 

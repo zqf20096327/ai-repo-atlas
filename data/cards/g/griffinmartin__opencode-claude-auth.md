@@ -1,6 +1,6 @@
 # griffinmartin/opencode-claude-auth
 
-⭐ 1,310 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/griffinmartin/opencode-claude-auth) · 个人维护
+⭐ 1,311 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/griffinmartin/opencode-claude-auth) · 个人维护
 
 **OpenCode 2 插件：复用 Claude Code 订阅凭据登录 Anthropic**
 

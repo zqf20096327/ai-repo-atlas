@@ -1,6 +1,6 @@
 # BaizeAI/kcover
 
-⭐ 35 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/BaizeAI/kcover) · [官网](https://baizeai.github.io/talks/2024-08-21-kubecon-hk/#/1) · 组织维护
+⭐ 35 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/BaizeAI/kcover) · [官网](https://baizeai.github.io/talks/2024-08-21-kubecon-hk/#/1) · 组织维护
 
 **K8s 大规模 AI 训练负载的故障感知与快速恢复组件**
 

@@ -1,6 +1,6 @@
 # vivoCameraResearch/MagicBokeh
 
-⭐ 59 · Python · 推送 2026-06-17 · [GitHub](https://github.com/vivoCameraResearch/MagicBokeh) · 组织维护
+⭐ 60 · Python · 推送 2026-06-17 · [GitHub](https://github.com/vivoCameraResearch/MagicBokeh) · 组织维护
 
 **基于扩散的高倍变焦散景渲染框架（CVPR 2026 论文代码）**
 

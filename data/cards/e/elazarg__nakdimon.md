@@ -1,6 +1,6 @@
 # elazarg/nakdimon
 
-⭐ 51 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/elazarg/nakdimon) · [官网](https://nakdimon.org) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/elazarg/nakdimon) · [官网](https://nakdimon.org) · 个人维护
 
 **希伯来文元音符号自动恢复模型（论文配套实现）**
 

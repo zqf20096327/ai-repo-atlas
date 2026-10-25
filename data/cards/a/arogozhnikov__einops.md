@@ -1,6 +1,6 @@
 # arogozhnikov/einops
 
-⭐ 9,622 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/arogozhnikov/einops) · [官网](https://einops.rocks) · 个人维护
+⭐ 9,623 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/arogozhnikov/einops) · [官网](https://einops.rocks) · 个人维护
 
 **跨深度学习框架的张量操作库，用爱因斯坦式记号重排张量**
 

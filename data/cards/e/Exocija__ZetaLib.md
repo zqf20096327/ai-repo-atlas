@@ -1,6 +1,6 @@
 # Exocija/ZetaLib
 
-⭐ 908 · 推送 2026-09-01 · [GitHub](https://github.com/Exocija/ZetaLib) · [官网](https://zetalib.neocities.org) · 个人维护
+⭐ 909 · 推送 2026-09-01 · [GitHub](https://github.com/Exocija/ZetaLib) · [官网](https://zetalib.neocities.org) · 个人维护
 
 **按类目组织 AI 内容的发现库/导航清单**
 

@@ -1,6 +1,6 @@
 # MontrealAI/AGI-Alpha-Agent-v0
 
-⭐ 304 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/MontrealAI/AGI-Alpha-Agent-v0) · [官网](https://montrealai.github.io/AGI-Alpha-Agent-v0/) · 组织维护
+⭐ 304 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/MontrealAI/AGI-Alpha-Agent-v0) · [官网](https://montrealai.github.io/AGI-Alpha-Agent-v0/) · 组织维护
 
 **面向开发者的 agentic 工作框架：机会发现到执行与留痕**
 

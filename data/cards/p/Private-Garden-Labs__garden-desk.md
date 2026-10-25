@@ -1,6 +1,6 @@
 # Private-Garden-Labs/garden-desk
 
-⭐ 247 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Private-Garden-Labs/garden-desk) · [官网](https://gardendesk.ai) · 组织维护
+⭐ 248 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Private-Garden-Labs/garden-desk) · [官网](https://gardendesk.ai) · 组织维护
 
 **本地运行的桌面 AI agent：用本地模型处理私人文件工作**
 

@@ -1,6 +1,6 @@
 # gpustack/gpustack
 
-⭐ 5,885 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/gpustack/gpustack) · [官网](https://gpustack.ai) · 组织维护 · 中文 README
+⭐ 5,889 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/gpustack/gpustack) · [官网](https://gpustack.ai) · 组织维护 · 中文 README
 
 **开源 GPU 集群管理器：统一调度与部署 AI 模型推理服务**
 

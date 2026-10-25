@@ -1,6 +1,6 @@
 # helloxz/zacp
 
-⭐ 121 · Go · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/helloxz/zacp) · [官网](https://note.xiaoz.top/doc/zacp) · 个人维护 · 中文 README
+⭐ 122 · Go · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/helloxz/zacp) · [官网](https://note.xiaoz.top/doc/zacp) · 个人维护 · 中文 README
 
 **基于 ACP 协议的多 Agent Web 网关，浏览器使用 CLI Agent**
 

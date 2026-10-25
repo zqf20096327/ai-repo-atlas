@@ -1,6 +1,6 @@
 # bergside/design-md-chrome
 
-⭐ 3,064 · JavaScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/bergside/design-md-chrome) · [官网](https://chromewebstore.google.com/detail/designmd-style-extractor/ogpdnchdjiibhobphelbbkemnnemkfma) · 个人维护
+⭐ 3,071 · JavaScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/bergside/design-md-chrome) · [官网](https://chromewebstore.google.com/detail/designmd-style-extractor/ogpdnchdjiibhobphelbbkemnnemkfma) · 个人维护
 
 **从任意网站提取设计风格并生成 DESIGN.md/SKILL.md 的 Chrome 扩展**
 

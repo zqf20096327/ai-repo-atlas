@@ -1,6 +1,6 @@
 # nidhi-singh02/agent-router
 
-⭐ 117 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/nidhi-singh02/agent-router) · 个人维护
+⭐ 118 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/nidhi-singh02/agent-router) · 个人维护
 
 **配额感知的 CLI：为任务挑选 AI 编码 agent 与模型并启动**
 

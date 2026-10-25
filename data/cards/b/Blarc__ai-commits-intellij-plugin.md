@@ -1,6 +1,6 @@
 # Blarc/ai-commits-intellij-plugin
 
-⭐ 868 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Blarc/ai-commits-intellij-plugin) · [官网](https://plugins.jetbrains.com/plugin/21335-ai-commits) · 个人维护
+⭐ 869 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Blarc/ai-commits-intellij-plugin) · [官网](https://plugins.jetbrains.com/plugin/21335-ai-commits) · 个人维护
 
 **JetBrains IDE 插件：用 LLM 从 git diff 生成提交信息**
 

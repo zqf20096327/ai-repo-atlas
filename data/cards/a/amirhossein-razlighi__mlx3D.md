@@ -1,6 +1,6 @@
 # amirhossein-razlighi/mlx3D
 
-⭐ 43 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/amirhossein-razlighi/mlx3D) · [官网](https://amirhossein-razlighi.github.io/mlx3D/) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/amirhossein-razlighi/mlx3D) · [官网](https://amirhossein-razlighi.github.io/mlx3D/) · 个人维护
 
 **面向 Apple Silicon 的可微 3D 视觉库：网格、NeRF、3D 高斯泼溅**
 

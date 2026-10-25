@@ -1,6 +1,6 @@
 # ericc-ch/copilot-api
 
-⭐ 4,147 · TypeScript · MIT · 推送 2025-11-10 · [GitHub](https://github.com/ericc-ch/copilot-api) · [官网](https://ericc-ch.github.io/copilot-api/?endpoint=http://localhost:4141/usage) · 个人维护
+⭐ 4,146 · TypeScript · MIT · 推送 2025-11-10 · [GitHub](https://github.com/ericc-ch/copilot-api) · [官网](https://ericc-ch.github.io/copilot-api/?endpoint=http://localhost:4141/usage) · 个人维护
 
 **把 GitHub Copilot 变成 OpenAI/Anthropic 兼容 API 的代理服务器**
 

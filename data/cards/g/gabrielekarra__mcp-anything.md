@@ -1,6 +1,6 @@
 # gabrielekarra/mcp-anything
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/gabrielekarra/mcp-anything) · 个人维护
+⭐ 55 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/gabrielekarra/mcp-anything) · 个人维护
 
 **把代码库/API 规格一句话生成为可用 MCP 服务器**
 

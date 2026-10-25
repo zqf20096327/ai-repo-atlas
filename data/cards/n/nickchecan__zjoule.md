@@ -1,6 +1,6 @@
 # nickchecan/zjoule
 
-⭐ 57 · Java · MIT · 推送 2026-10-18 · [GitHub](https://github.com/nickchecan/zjoule) · 个人维护
+⭐ 57 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nickchecan/zjoule) · 个人维护
 
 **给 ABAP 开发者的 Eclipse AI 助手插件，接入 Ollama/SAP AI Core**
 

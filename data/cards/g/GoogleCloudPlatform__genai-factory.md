@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/genai-factory
 
-⭐ 175 · HCL · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/GoogleCloudPlatform/genai-factory) · 组织维护
+⭐ 175 · HCL · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/GoogleCloudPlatform/genai-factory) · 组织维护
 
 **面向 GCP 的生成式 AI 基础设施端到端 Terraform 蓝图集**
 

@@ -1,6 +1,6 @@
 # Ravaelles/Atlantis
 
-⭐ 61 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Ravaelles/Atlantis) · 个人维护
+⭐ 61 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Ravaelles/Atlantis) · 个人维护
 
 **星际争霸母巢之战 AI 机器人开发 Java 框架**
 

@@ -1,6 +1,6 @@
 # chelinho139/wow-ai
 
-⭐ 148 · JavaScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/chelinho139/wow-ai) · 个人维护
+⭐ 150 · JavaScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/chelinho139/wow-ai) · 个人维护
 
 **在魔兽世界内聊天驱动本地编程 Agent 的插件**
 

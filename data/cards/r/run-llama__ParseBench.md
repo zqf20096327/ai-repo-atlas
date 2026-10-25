@@ -1,6 +1,6 @@
 # run-llama/ParseBench
 
-⭐ 613 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/run-llama/ParseBench) · [官网](https://arxiv.org/abs/2604.08538) · 组织维护
+⭐ 616 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/run-llama/ParseBench) · [官网](https://arxiv.org/abs/2604.08538) · 组织维护
 
 **面向 AI Agent 的文档解析基准：评测 PDF 转结构化输出的可靠性**
 

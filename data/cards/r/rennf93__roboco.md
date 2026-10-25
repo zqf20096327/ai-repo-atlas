@@ -1,6 +1,6 @@
 # rennf93/roboco
 
-⭐ 189 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/rennf93/roboco) · [官网](http://roboco.tech/) · 个人维护
+⭐ 187 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/rennf93/roboco) · [官网](http://roboco.tech/) · 个人维护
 
 **面向独立开发者的 26 个 AI agent 虚拟软件公司**
 

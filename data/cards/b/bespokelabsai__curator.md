@@ -1,6 +1,6 @@
 # bespokelabsai/curator
 
-⭐ 1,750 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bespokelabsai/curator) · [官网](https://docs.bespokelabs.ai/bespoke-curator) · 组织维护 · 中文 README
+⭐ 1,751 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/bespokelabsai/curator) · [官网](https://docs.bespokelabs.ai/bespoke-curator) · 组织维护 · 中文 README
 
 **面向后训练的合成数据生成与批量推理 Python 库**
 

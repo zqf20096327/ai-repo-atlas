@@ -1,6 +1,6 @@
 # TypeLLM/TypeLLM
 
-⭐ 972 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/TypeLLM/TypeLLM) · [官网](https://typellm.ai) · 组织维护
+⭐ 972 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/TypeLLM/TypeLLM) · [官网](https://typellm.ai) · 组织维护
 
 **让现有 LLM 输出类型安全结构化结果的生成框架**
 

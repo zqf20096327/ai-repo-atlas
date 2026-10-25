@@ -1,6 +1,6 @@
 # flatplanet/CenterOS
 
-⭐ 59 · HTML · MIT · 推送 2026-09-01 · [GitHub](https://github.com/flatplanet/CenterOS) · [官网](https://CenterOS.ai) · 个人维护
+⭐ 60 · HTML · MIT · 推送 2026-09-01 · [GitHub](https://github.com/flatplanet/CenterOS) · [官网](https://CenterOS.ai) · 个人维护
 
 **给个人/小团队的可克隆 AI 工作系统：让 AI 有持久记忆与工作流**
 

@@ -1,6 +1,6 @@
 # drpwchen/textbook-to-note
 
-⭐ 107 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/drpwchen/textbook-to-note) · [官网](https://drpwchen.com/posts/textbook-to-note/) · 个人维护 · 中文 README
+⭐ 108 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/drpwchen/textbook-to-note) · [官网](https://drpwchen.com/posts/textbook-to-note/) · 个人维护 · 中文 README
 
 **把 PDF 教材转成可检索知识库并生成带引用笔记的本地流水线**
 

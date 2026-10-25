@@ -1,6 +1,6 @@
 # aws-samples/bedrock-engineer
 
-⭐ 483 · TypeScript · MIT-0 · 推送 2026-10-23 · [GitHub](https://github.com/aws-samples/bedrock-engineer) · [官网](https://speakerdeck.com/gawa/introducing-bedrock-engineer-en) · 组织维护
+⭐ 484 · TypeScript · MIT-0 · 推送 2026-10-23 · [GitHub](https://github.com/aws-samples/bedrock-engineer) · [官网](https://speakerdeck.com/gawa/introducing-bedrock-engineer-en) · 组织维护
 
 **基于 Amazon Bedrock 的桌面自主软件开发 Agent 应用**
 

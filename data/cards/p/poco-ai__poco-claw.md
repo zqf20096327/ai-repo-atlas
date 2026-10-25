@@ -1,6 +1,6 @@
 # poco-ai/poco-claw
 
-⭐ 1,357 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/poco-ai/poco-claw) · [官网](https://poco-docs.vercel.app/) · 组织维护 · 中文 README
+⭐ 1,356 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/poco-ai/poco-claw) · [官网](https://poco-docs.vercel.app/) · 组织维护 · 中文 README
 
 **面向团队协作的自托管 AI agent 应用，OpenClaw 替代品**
 

@@ -1,6 +1,6 @@
 # papercomputeco/stereOS
 
-⭐ 497 · Nix · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/papercomputeco/stereOS) · [官网](https://stereos.ai) · 组织维护
+⭐ 498 · Nix · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/papercomputeco/stereOS) · [官网](https://stereos.ai) · 组织维护
 
 **为 AI agent 定制加固的 Linux 操作系统（NixOS 构建）**
 

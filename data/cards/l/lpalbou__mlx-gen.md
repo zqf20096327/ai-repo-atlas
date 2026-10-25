@@ -1,6 +1,6 @@
 # lpalbou/mlx-gen
 
-⭐ 42 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/lpalbou/mlx-gen) · [官网](http://www.lpalbou.info/mlx-gen/) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/lpalbou/mlx-gen) · [官网](http://www.lpalbou.info/mlx-gen/) · 个人维护
 
 **Apple Silicon 本地图像/视频生成运行时（MLX）**
 

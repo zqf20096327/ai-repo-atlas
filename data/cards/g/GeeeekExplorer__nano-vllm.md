@@ -1,6 +1,6 @@
 # GeeeekExplorer/nano-vllm
 
-⭐ 16,108 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/GeeeekExplorer/nano-vllm) · 个人维护
+⭐ 16,122 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/GeeeekExplorer/nano-vllm) · 个人维护
 
 **面向开发者的轻量级 LLM 离线推理引擎，从零实现 vLLM 接口**
 

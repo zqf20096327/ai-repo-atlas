@@ -1,6 +1,6 @@
 # 849879772/recruitops-agent
 
-⭐ 145 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/849879772/recruitops-agent) · 个人维护 · 中文 README
+⭐ 144 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/849879772/recruitops-agent) · 个人维护 · 中文 README
 
 **面向校园招聘的 Windows 桌面求职助手：发现岗位、匹配评分、辅助投递**
 

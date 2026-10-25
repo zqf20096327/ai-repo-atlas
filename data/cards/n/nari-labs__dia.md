@@ -1,6 +1,6 @@
 # nari-labs/dia
 
-⭐ 19,407 · Python · Apache-2.0 · 推送 2025-11-19 · [GitHub](https://github.com/nari-labs/dia) · 组织维护
+⭐ 19,405 · Python · Apache-2.0 · 推送 2025-11-19 · [GitHub](https://github.com/nari-labs/dia) · 组织维护
 
 **单次生成超真实对话的 1.6B 文本转语音模型**
 

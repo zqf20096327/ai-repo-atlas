@@ -1,6 +1,6 @@
 # Sylinko/Everywhere
 
-⭐ 6,330 · C# · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Sylinko/Everywhere) · [官网](https://everywhere.sylinko.com) · 组织维护 · 中文 README
+⭐ 6,331 · C# · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Sylinko/Everywhere) · [官网](https://everywhere.sylinko.com) · 组织维护 · 中文 README
 
 **屏幕感知的桌面 AI 助手：随时唤起，跨应用读取上下文辅助操作**
 

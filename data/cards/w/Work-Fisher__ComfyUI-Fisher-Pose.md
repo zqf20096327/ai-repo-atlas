@@ -1,6 +1,6 @@
 # Work-Fisher/ComfyUI-Fisher-Pose
 
-⭐ 244 · JavaScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/Work-Fisher/ComfyUI-Fisher-Pose) · 个人维护 · 中文 README
+⭐ 248 · JavaScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/Work-Fisher/ComfyUI-Fisher-Pose) · 个人维护 · 中文 README
 
 **ComfyUI 姿势与机位编辑插件，配合 Qwen Image 生成**
 

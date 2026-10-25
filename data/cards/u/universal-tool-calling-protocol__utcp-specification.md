@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/utcp-specification
 
-⭐ 314 · TypeScript · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/universal-tool-calling-protocol/utcp-specification) · [官网](https://www.utcp.io/) · 组织维护
+⭐ 315 · TypeScript · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/universal-tool-calling-protocol/utcp-specification) · [官网](https://www.utcp.io/) · 组织维护
 
 **通用工具调用协议（UTCP）的官方规范文档仓库**
 

@@ -1,6 +1,6 @@
 # isuzu-shiranui/UnityMCP
 
-⭐ 335 · C# · MIT · 推送 2026-10-08 · [GitHub](https://github.com/isuzu-shiranui/UnityMCP) · [官网](https://unity-mcp.shiranui-isuzu.dev/en/) · 个人维护
+⭐ 336 · C# · MIT · 推送 2026-10-08 · [GitHub](https://github.com/isuzu-shiranui/UnityMCP) · [官网](https://unity-mcp.shiranui-isuzu.dev/en/) · 个人维护
 
 **让 AI agent 与命令行直接操控 Unity Editor 的 MCP 框架**
 

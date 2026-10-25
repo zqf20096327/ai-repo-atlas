@@ -1,6 +1,6 @@
 # alphadl/AgentHER
 
-⭐ 95 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/alphadl/AgentHER) · 个人维护
+⭐ 96 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/alphadl/AgentHER) · 个人维护
 
 **将失败的 LLM Agent 轨迹重标注为可用训练数据的 Python 工具**
 

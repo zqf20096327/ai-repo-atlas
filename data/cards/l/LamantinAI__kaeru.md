@@ -1,6 +1,6 @@
 # LamantinAI/kaeru
 
-⭐ 48 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/LamantinAI/kaeru) · 组织维护
+⭐ 49 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/LamantinAI/kaeru) · 组织维护
 
 **面向 LLM agent 的跨 agent 认知记忆引擎，本地优先可云共享**
 

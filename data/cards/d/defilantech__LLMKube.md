@@ -1,6 +1,6 @@
 # defilantech/LLMKube
 
-⭐ 244 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/defilantech/LLMKube) · [官网](https://llmkube.com) · 组织维护
+⭐ 245 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/defilantech/LLMKube) · [官网](https://llmkube.com) · 组织维护
 
 **面向异构 GPU 集群的自托管 LLM 推理 Kubernetes operator**
 

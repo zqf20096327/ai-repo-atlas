@@ -1,6 +1,6 @@
 # tradertanmay/ai-agents-zero-to-hero
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/tradertanmay/ai-agents-zero-to-hero) · 个人维护
+⭐ 36 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/tradertanmay/ai-agents-zero-to-hero) · 个人维护
 
 **零依赖的 AI agent 从原理到生产教学课程库**
 

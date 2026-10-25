@@ -1,6 +1,6 @@
 # google-deepmind/open_x_embodiment
 
-⭐ 2,083 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-05 · [GitHub](https://github.com/google-deepmind/open_x_embodiment) · 组织维护
+⭐ 2,084 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-05 · [GitHub](https://github.com/google-deepmind/open_x_embodiment) · 组织维护
 
 **机器人操作数据集统一格式集合与 RT-1-X 模型检查点发布**
 

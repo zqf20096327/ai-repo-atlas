@@ -1,6 +1,6 @@
 # ctu-vras/monoforce
 
-⭐ 93 · Jupyter Notebook · BSD-3-Clause · 推送 2026-04-11 · [GitHub](https://github.com/ctu-vras/monoforce) · 组织维护
+⭐ 94 · Jupyter Notebook · BSD-3-Clause · 推送 2026-04-11 · [GitHub](https://github.com/ctu-vras/monoforce) · 组织维护
 
 **从 RGB 图像学习机器人-地形交互的可微物理引擎（科研代码）**
 

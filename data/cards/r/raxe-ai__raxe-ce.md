@@ -1,6 +1,6 @@
 # raxe-ai/raxe-ce
 
-⭐ 121 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/raxe-ai/raxe-ce) · [官网](https://www.raxe.ai) · 组织维护
+⭐ 121 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/raxe-ai/raxe-ce) · [官网](https://www.raxe.ai) · 组织维护
 
 **本地运行时安全层：检测 AI agent 的提示注入与工具攻击**
 

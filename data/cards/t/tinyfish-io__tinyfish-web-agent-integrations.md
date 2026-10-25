@@ -1,6 +1,6 @@
 # tinyfish-io/tinyfish-web-agent-integrations
 
-⭐ 45 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tinyfish-io/tinyfish-web-agent-integrations) · [官网](https://docs.tinyfish.ai) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tinyfish-io/tinyfish-web-agent-integrations) · [官网](https://docs.tinyfish.ai) · 组织维护
 
 **将 TinyFish 网页工具接入 AI agent 与工作流平台的集成集合**
 

@@ -1,6 +1,6 @@
 # caura-ai/caura
 
-⭐ 504 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/caura-ai/caura) · [官网](https://caura.ai) · 组织维护
+⭐ 504 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/caura-ai/caura) · [官网](https://caura.ai) · 组织维护
 
 **面向多智能体舰队的管理式共享记忆层**
 

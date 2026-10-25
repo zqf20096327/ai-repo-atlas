@@ -1,6 +1,6 @@
 # alpkeskin/locus
 
-⭐ 35 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/alpkeskin/locus) · [官网](https://www.youtube.com/watch?v=djmkbBOoho0) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/alpkeskin/locus) · [官网](https://www.youtube.com/watch?v=djmkbBOoho0) · 个人维护
 
 **从街景照片推断 GPS 坐标的开源 AI 地理定位系统**
 

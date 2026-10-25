@@ -1,6 +1,6 @@
 # hailo-ai/hailort-drivers
 
-⭐ 100 · C · GPL-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/hailo-ai/hailort-drivers) · [官网](https://hailo.ai/) · 组织维护
+⭐ 100 · C · GPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/hailo-ai/hailort-drivers) · [官网](https://hailo.ai/) · 组织维护
 
 **供开发者通过 PCIe 接口与 Hailo AI 加速设备通信的内核驱动**
 

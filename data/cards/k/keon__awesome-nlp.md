@@ -1,6 +1,6 @@
 # keon/awesome-nlp
 
-⭐ 19,099 · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/keon/awesome-nlp) · 个人维护
+⭐ 19,101 · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/keon/awesome-nlp) · 个人维护
 
 **面向 NLP 学习者与研究者精选资源清单**
 

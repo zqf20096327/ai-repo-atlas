@@ -1,6 +1,6 @@
 # AgustiPuigserver/opus-prompt-architect
 
-⭐ 126 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/AgustiPuigserver/opus-prompt-architect) · 个人维护
+⭐ 126 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/AgustiPuigserver/opus-prompt-architect) · 个人维护
 
 **面向 LLM 的提示词架构设计工具，浏览器本地构建与导出提示词**
 

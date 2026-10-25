@@ -1,6 +1,6 @@
 # freddy-schuetz/n8n-claw
 
-⭐ 560 · Shell · 推送 2026-10-24 · [GitHub](https://github.com/freddy-schuetz/n8n-claw) · [官网](https://n8n-claw.com) · 个人维护
+⭐ 560 · Shell · 推送 2026-10-25 · [GitHub](https://github.com/freddy-schuetz/n8n-claw) · [官网](https://n8n-claw.com) · 个人维护
 
 **自托管个人 AI agent：n8n 上运行，经 Telegram/HTTP 对话**
 

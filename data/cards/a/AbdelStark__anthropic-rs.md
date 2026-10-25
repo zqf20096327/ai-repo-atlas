@@ -1,6 +1,6 @@
 # AbdelStark/anthropic-rs
 
-⭐ 81 · Rust · MIT · 推送 2026-04-08 · [GitHub](https://github.com/AbdelStark/anthropic-rs) · [官网](https://docs.rs/anthropic) · 个人维护
+⭐ 82 · Rust · MIT · 推送 2026-04-08 · [GitHub](https://github.com/AbdelStark/anthropic-rs) · [官网](https://docs.rs/anthropic) · 个人维护
 
 **面向 Rust 开发者的 Anthropic Messages API 异步 SDK**
 

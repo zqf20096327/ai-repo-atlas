@@ -1,6 +1,6 @@
 # qingchencloud/openclaw-standalone
 
-⭐ 38 · Shell · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/qingchencloud/openclaw-standalone) · [官网](https://github.com/qingchencloud/openclaw-standalone/releases) · 组织维护 · 中文 README
+⭐ 37 · Shell · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/qingchencloud/openclaw-standalone) · [官网](https://github.com/qingchencloud/openclaw-standalone/releases) · 组织维护 · 中文 README
 
 **OpenClaw 零依赖跨平台预编译安装包分发器**
 

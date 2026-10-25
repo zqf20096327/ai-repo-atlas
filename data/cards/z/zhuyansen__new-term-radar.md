@@ -1,6 +1,6 @@
 # zhuyansen/new-term-radar
 
-⭐ 1,766 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zhuyansen/new-term-radar) · 个人维护 · 中文 README
+⭐ 1,788 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zhuyansen/new-term-radar) · 个人维护 · 中文 README
 
 **AI 新词日报雷达：新模型/产品/仓库名出现当天即捕获并产出关键词表**
 

@@ -1,6 +1,6 @@
 # dmae97/omk
 
-⭐ 148 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/dmae97/omk) · 个人维护
+⭐ 149 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dmae97/omk) · 个人维护
 
 **终端编码 agent CLI：同一会话切换模型，目标以测试通过为准**
 

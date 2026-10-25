@@ -1,6 +1,6 @@
 # withkynam/vibecode-pro-max-kit
 
-⭐ 1,157 · JavaScript · MIT · 推送 2026-06-21 · [GitHub](https://github.com/withkynam/vibecode-pro-max-kit) · 组织维护
+⭐ 1,162 · JavaScript · MIT · 推送 2026-06-21 · [GitHub](https://github.com/withkynam/vibecode-pro-max-kit) · 组织维护
 
 **给 AI 编程 agent 装上计划优先流程与记忆的开发套件**
 

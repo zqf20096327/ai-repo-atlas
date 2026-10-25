@@ -1,6 +1,6 @@
 # k8sgpt-ai/k8sgpt
 
-⭐ 8,276 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/k8sgpt-ai/k8sgpt) · [官网](http://k8sgpt.ai) · 组织维护
+⭐ 8,275 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/k8sgpt-ai/k8sgpt) · [官网](http://k8sgpt.ai) · 组织维护
 
 **用内置 SRE 分析器扫描 Kubernetes 集群并用 AI 解释问题**
 

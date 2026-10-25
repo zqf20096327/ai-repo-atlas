@@ -1,6 +1,6 @@
 # YogurtJ/pivane
 
-⭐ 45 · JavaScript · ISC · 推送 2026-10-24 · [GitHub](https://github.com/YogurtJ/pivane) · [官网](https://github.com/YogurtJ/pivane#readme) · 个人维护 · 中文 README
+⭐ 49 · JavaScript · ISC · 推送 2026-10-24 · [GitHub](https://github.com/YogurtJ/pivane) · [官网](https://github.com/YogurtJ/pivane#readme) · 个人维护 · 中文 README
 
 **Pi 编程 Agent 的自托管网页工作台，多端续用**
 

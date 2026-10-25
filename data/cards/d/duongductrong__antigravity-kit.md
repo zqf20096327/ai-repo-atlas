@@ -1,6 +1,6 @@
 # duongductrong/antigravity-kit
 
-⭐ 50 · TypeScript · MIT · 推送 2026-03-01 · [GitHub](https://github.com/duongductrong/antigravity-kit) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-03-01 · [GitHub](https://github.com/duongductrong/antigravity-kit) · 个人维护
 
 **管理 Google Antigravity IDE 多账号认证的 CLI 工具**
 

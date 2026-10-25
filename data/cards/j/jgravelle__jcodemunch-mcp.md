@@ -1,6 +1,6 @@
 # jgravelle/jcodemunch-mcp
 
-⭐ 2,804 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [官网](https://jcodemunch.com/) · 个人维护
+⭐ 2,806 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [官网](https://jcodemunch.com/) · 个人维护
 
 **给 AI 编程代理的 MCP 代码检索服务器：按符号精确取码省 token**
 

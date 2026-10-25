@@ -1,6 +1,6 @@
 # Sujal-142/ai-image-clean-eraser
 
-⭐ 120 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/Sujal-142/ai-image-clean-eraser) · 个人维护
+⭐ 120 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/Sujal-142/ai-image-clean-eraser) · 个人维护
 
 **文档真伪核验平台：哈希+区块链存证+AI 篡改检测**
 

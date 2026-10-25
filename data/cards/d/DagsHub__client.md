@@ -1,6 +1,6 @@
 # DagsHub/client
 
-⭐ 105 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/DagsHub/client) · [官网](https://dagshub.com/docs/client/) · 组织维护
+⭐ 105 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/DagsHub/client) · [官网](https://dagshub.com/docs/client/) · 组织维护
 
 **DagsHub 平台的 Python 客户端库：实验追踪与数据流式上传**
 

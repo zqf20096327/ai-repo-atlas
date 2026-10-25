@@ -1,6 +1,6 @@
 # janetom645-coder/mcd-buddy
 
-⭐ 116 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/janetom645-coder/mcd-buddy) · [官网](https://github.com/janetom645-coder/mcd-buddy) · 个人维护 · 中文 README
+⭐ 134 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/janetom645-coder/mcd-buddy) · [官网](https://github.com/janetom645-coder/mcd-buddy) · 个人维护 · 中文 README
 
 **麦当劳中国 MCP 的命令行客户端：点餐记录/团餐/改配/运势四玩法**
 

@@ -1,6 +1,6 @@
 # d4ichi/PassGAN
 
-⭐ 152 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/d4ichi/PassGAN) · 个人维护
+⭐ 152 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/d4ichi/PassGAN) · 个人维护
 
 **基于 GAN 的密码猜测模型：生成/训练密码样本（Python3/TF2 更新版）**
 

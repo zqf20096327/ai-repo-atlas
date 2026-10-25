@@ -1,6 +1,6 @@
 # lllyasviel/Fooocus
 
-⭐ 53,674 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/lllyasviel/Fooocus) · 个人维护
+⭐ 53,686 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/lllyasviel/Fooocus) · 个人维护
 
 **面向普通用户的离线文生图软件：专注提示词即可出图**
 

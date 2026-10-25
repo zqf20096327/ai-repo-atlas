@@ -1,6 +1,6 @@
 # zdk/lowfat
 
-⭐ 582 · Rust · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/zdk/lowfat) · 个人维护
+⭐ 583 · Rust · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/zdk/lowfat) · 个人维护
 
 **缩减 AI agent 上下文体积的 CLI 输出过滤器**
 

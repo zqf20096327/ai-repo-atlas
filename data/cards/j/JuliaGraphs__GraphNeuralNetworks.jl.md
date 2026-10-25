@@ -1,6 +1,6 @@
 # JuliaGraphs/GraphNeuralNetworks.jl
 
-⭐ 310 · Julia · MIT · 推送 2026-10-11 · [GitHub](https://github.com/JuliaGraphs/GraphNeuralNetworks.jl) · [官网](https://juliagraphs.org/GraphNeuralNetworks.jl) · 组织维护
+⭐ 310 · Julia · MIT · 推送 2026-10-25 · [GitHub](https://github.com/JuliaGraphs/GraphNeuralNetworks.jl) · [官网](https://juliagraphs.org/GraphNeuralNetworks.jl) · 组织维护
 
 **Julia 图神经网络库：提供图卷积层与消息传递框架**
 

@@ -1,6 +1,6 @@
 # aofp/yume
 
-⭐ 150 · HTML · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/aofp/yume) · [官网](https://aofp.github.io/yume/) · 个人维护
+⭐ 151 · HTML · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/aofp/yume) · [官网](https://aofp.github.io/yume/) · 个人维护
 
 **Claude Code 的原生桌面 GUI，含编排流程与多后端模型**
 

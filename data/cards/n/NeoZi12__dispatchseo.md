@@ -1,6 +1,6 @@
 # NeoZi12/dispatchseo
 
-⭐ 90 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/NeoZi12/dispatchseo) · [官网](https://dispatchseo.com) · 个人维护
+⭐ 91 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/NeoZi12/dispatchseo) · [官网](https://dispatchseo.com) · 个人维护
 
 **让 AI 编码代理接管 SEO 的自托管系统（关键词、内容、排名）**
 

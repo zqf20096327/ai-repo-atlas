@@ -1,6 +1,6 @@
 # zyx0814/FilePress
 
-⭐ 1,123 · PHP · 推送 2026-10-23 · [GitHub](https://github.com/zyx0814/FilePress) · [官网](https://filepress.cn) · 个人维护 · 中文 README
+⭐ 1,123 · PHP · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/zyx0814/FilePress) · [官网](https://filepress.cn) · 个人维护 · 中文 README
 
 **文件驱动型建站系统：网盘管理与文件发布网站，带 AI 标注**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

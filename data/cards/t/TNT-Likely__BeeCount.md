@@ -1,6 +1,6 @@
 # TNT-Likely/BeeCount
 
-⭐ 2,637 · Dart · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/TNT-Likely/BeeCount) · [官网](https://count.beejz.com) · 个人维护 · 中文 README
+⭐ 2,650 · Dart · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/TNT-Likely/BeeCount) · [官网](https://count.beejz.com) · 个人维护 · 中文 README
 
 **本地优先的跨端开源记账应用，支持 AI 记账与自建云同步**
 

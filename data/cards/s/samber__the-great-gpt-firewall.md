@@ -1,6 +1,6 @@
 # samber/the-great-gpt-firewall
 
-⭐ 101 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/samber/the-great-gpt-firewall) · 个人维护
+⭐ 101 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/samber/the-great-gpt-firewall) · 个人维护
 
 **记录各网站通过 robots.txt 屏蔽 AI 爬虫的扫描清单**
 

@@ -1,6 +1,6 @@
 # lyonzin/knowledge-rag
 
-⭐ 300 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lyonzin/knowledge-rag) · [官网](https://pypi.org/project/knowledge-rag/) · 个人维护
+⭐ 300 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lyonzin/knowledge-rag) · [官网](https://pypi.org/project/knowledge-rag/) · 个人维护
 
 **本地混合检索 RAG MCP 服务器：给 AI 编码代理提供知识库搜索**
 

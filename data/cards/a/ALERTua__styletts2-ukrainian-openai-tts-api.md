@@ -1,6 +1,6 @@
 # ALERTua/styletts2-ukrainian-openai-tts-api
 
-⭐ 45 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ALERTua/styletts2-ukrainian-openai-tts-api) · 个人维护 · 中文 README
+⭐ 45 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/ALERTua/styletts2-ukrainian-openai-tts-api) · 个人维护 · 中文 README
 
 **为乌克兰语 StyleTTS2 提供 OpenAI 兼容 TTS API 的自托管网关**
 

@@ -1,6 +1,6 @@
 # bytedance/SALMONN
 
-⭐ 1,554 · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bytedance/SALMONN) · [官网](https://bytedance.github.io/SALMONN/) · 组织维护 · 中文 README
+⭐ 1,555 · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bytedance/SALMONN) · [官网](https://bytedance.github.io/SALMONN/) · 组织维护 · 中文 README
 
 **多模态大语言模型家族：语音/音频/视频理解与生成**
 

@@ -1,6 +1,6 @@
 # Metacreation-Lab/MIDI-GPT
 
-⭐ 112 · C++ · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Metacreation-Lab/MIDI-GPT) · [官网](https://metacreation-lab.github.io/MIDI-GPT/) · 组织维护
+⭐ 113 · C++ · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Metacreation-Lab/MIDI-GPT) · [官网](https://metacreation-lab.github.io/MIDI-GPT/) · 组织维护
 
 **多轨符号音乐生成的 GPT-2 transformer 库，支持属性可控补全**
 

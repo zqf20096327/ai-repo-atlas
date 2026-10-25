@@ -1,6 +1,6 @@
 # phcp-tech/toolmaker-agent
 
-⭐ 92 · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/phcp-tech/toolmaker-agent) · [官网](https://toolmaker.io) · 组织维护 · 中文 README
+⭐ 92 · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/phcp-tech/toolmaker-agent) · [官网](https://toolmaker.io) · 组织维护 · 中文 README
 
 **人类与 AI agent 协作的 SDLC 结构化数据平台**
 

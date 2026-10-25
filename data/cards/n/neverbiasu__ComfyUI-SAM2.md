@@ -1,6 +1,6 @@
 # neverbiasu/ComfyUI-SAM2
 
-⭐ 264 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/neverbiasu/ComfyUI-SAM2) · 个人维护
+⭐ 265 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/neverbiasu/ComfyUI-SAM2) · 个人维护
 
 **将 Segment Anything 2 接入 ComfyUI 的图像分割扩展节点**
 

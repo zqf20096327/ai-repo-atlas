@@ -1,6 +1,6 @@
 # NanoNets/docstrange
 
-⭐ 1,577 · Python · MIT · 推送 2025-10-31 · [GitHub](https://github.com/NanoNets/docstrange) · [官网](https://docstrange.nanonets.com/) · 组织维护
+⭐ 1,578 · Python · MIT · 推送 2025-10-31 · [GitHub](https://github.com/NanoNets/docstrange) · [官网](https://docstrange.nanonets.com/) · 组织维护
 
 **文档解析库：将 PDF/图片/Office/URL 转为 Markdown、JSON、CSV 等结构化数据**
 

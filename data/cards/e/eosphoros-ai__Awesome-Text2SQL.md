@@ -1,6 +1,6 @@
 # eosphoros-ai/Awesome-Text2SQL
 
-⭐ 3,776 · MIT · 推送 2026-01-26 · [GitHub](https://github.com/eosphoros-ai/Awesome-Text2SQL) · 组织维护 · 中文 README
+⭐ 3,777 · MIT · 推送 2026-01-26 · [GitHub](https://github.com/eosphoros-ai/Awesome-Text2SQL) · 组织维护 · 中文 README
 
 **LLM+Text2SQL 论文与资源策展清单，含评测榜单**
 

@@ -1,6 +1,6 @@
 # yasir-mo/AI-watermark-remover-GUI
 
-⭐ 91 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/yasir-mo/AI-watermark-remover-GUI) · [官网](https://yasir-mo.github.io/AI-watermark-remover-GUI/) · 个人维护
+⭐ 92 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/yasir-mo/AI-watermark-remover-GUI) · [官网](https://yasir-mo.github.io/AI-watermark-remover-GUI/) · 个人维护
 
 **检测并清除 AI 文本水印与文档元数据的研究工具**
 

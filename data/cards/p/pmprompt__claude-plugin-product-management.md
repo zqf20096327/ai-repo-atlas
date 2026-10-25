@@ -1,6 +1,6 @@
 # pmprompt/claude-plugin-product-management
 
-⭐ 53 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pmprompt/claude-plugin-product-management) · [官网](https://pmprompt.com/claude-product-management-plugin) · 组织维护
+⭐ 54 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pmprompt/claude-plugin-product-management) · [官网](https://pmprompt.com/claude-product-management-plugin) · 组织维护
 
 **面向产品经理的 Claude 插件：30 个 PM 技能/命令包**
 

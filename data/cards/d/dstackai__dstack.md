@@ -1,6 +1,6 @@
 # dstackai/dstack
 
-⭐ 2,288 · Python · MPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/dstackai/dstack) · [官网](https://dstack.ai/docs) · 组织维护
+⭐ 2,289 · Python · MPL-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/dstackai/dstack) · [官网](https://dstack.ai/docs) · 组织维护
 
 **面向异构 AI 算力的统一编排控制平面：管理 GPU 并运行训练与推理**
 

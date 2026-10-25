@@ -1,6 +1,6 @@
 # modelstudioai/cli
 
-⭐ 363 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelstudioai/cli) · [官网](https://bailian.console.aliyun.com/cli) · 组织维护 · 中文 README
+⭐ 364 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelstudioai/cli) · [官网](https://bailian.console.aliyun.com/cli) · 组织维护 · 中文 README
 
 **阿里云百炼官方 CLI：为 AI Agent 提供百炼模型能力的命令行工具**
 

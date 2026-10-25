@@ -1,6 +1,6 @@
 # CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN
 
-⭐ 190 · HTML · CC0-1.0 · 推送 2026-09-25 · [GitHub](https://github.com/CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN) · [官网](https://prompts.chat) · 个人维护 · 中文 README
+⭐ 192 · HTML · CC0-1.0 · 推送 2026-09-25 · [GitHub](https://github.com/CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN) · [官网](https://prompts.chat) · 个人维护 · 中文 README
 
 **ChatGPT 提示词中文翻译合集：2169 条全译 + AIPRM 快照**
 

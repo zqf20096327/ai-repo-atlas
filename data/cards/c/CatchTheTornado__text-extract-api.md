@@ -1,6 +1,6 @@
 # CatchTheTornado/text-extract-api
 
-⭐ 3,181 · Python · MIT · 推送 2025-12-08 · [GitHub](https://github.com/CatchTheTornado/text-extract-api) · [官网](https://demo.doctractor.com) · 组织维护
+⭐ 3,182 · Python · MIT · 推送 2025-12-08 · [GitHub](https://github.com/CatchTheTornado/text-extract-api) · [官网](https://demo.doctractor.com) · 组织维护
 
 **文档转 Markdown/JSON 的 OCR 提取 API，支持 PII 去除**
 

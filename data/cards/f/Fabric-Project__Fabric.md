@@ -1,6 +1,6 @@
 # Fabric-Project/Fabric
 
-⭐ 604 · Swift · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/Fabric-Project/Fabric) · [官网](https://fabric.graphics) · 个人维护
+⭐ 604 · Swift · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/Fabric-Project/Fabric) · [官网](https://fabric.graphics) · 个人维护
 
 **macOS 节点式创意编程环境，用于交互视觉与 3D 创作**
 

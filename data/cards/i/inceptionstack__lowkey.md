@@ -1,6 +1,6 @@
 # inceptionstack/lowkey
 
-⭐ 73 · Shell · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/inceptionstack/lowkey) · 组织维护
+⭐ 74 · Shell · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/inceptionstack/lowkey) · 组织维护
 
 **把多种自托管 AI 编程 Agent 一键部署到 AWS 的安装器**
 

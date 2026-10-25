@@ -1,6 +1,6 @@
 # yuce/pyswip
 
-⭐ 548 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/yuce/pyswip) · [官网](https://pyswip.org) · 组织维护
+⭐ 549 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/yuce/pyswip) · [官网](https://pyswip.org) · 组织维护
 
 **Python 调用 SWI-Prolog 的接口库，用于在 Python 中查询 Prolog**
 

@@ -1,6 +1,6 @@
 # Manho/Panelize
 
-⭐ 47 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Manho/Panelize) · [官网](https://panelize.dev) · 个人维护 · 中文 README
+⭐ 48 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Manho/Panelize) · [官网](https://panelize.dev) · 个人维护 · 中文 README
 
 **浏览器扩展：一条提示词同时发给多个 AI 聊天网站并排对比**
 

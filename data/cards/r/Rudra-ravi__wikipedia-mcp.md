@@ -1,6 +1,6 @@
 # Rudra-ravi/wikipedia-mcp
 
-⭐ 301 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/Rudra-ravi/wikipedia-mcp) · [官网](https://pypi.org/project/wikipedia-mcp/) · 个人维护
+⭐ 302 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/Rudra-ravi/wikipedia-mcp) · [官网](https://pypi.org/project/wikipedia-mcp/) · 个人维护
 
 **MCP 服务器：让 LLM 检索维基百科内容作上下文**
 

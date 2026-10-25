@@ -1,6 +1,6 @@
 # steventsvik/Tellurion
 
-⭐ 118 · Zig · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/steventsvik/Tellurion) · [官网](https://steventsvik.github.io/Tellurion/) · 个人维护
+⭐ 120 · Zig · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/steventsvik/Tellurion) · [官网](https://steventsvik.github.io/Tellurion/) · 个人维护
 
 **面向多 AI 编码 agent 的 macOS 终端：实时观测、审查与撤销**
 

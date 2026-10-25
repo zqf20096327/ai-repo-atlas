@@ -1,6 +1,6 @@
 # obris-dev/openmagpie
 
-⭐ 73 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/obris-dev/openmagpie) · [官网](https://www.openmagpie.ai) · 组织维护
+⭐ 75 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/obris-dev/openmagpie) · [官网](https://www.openmagpie.ai) · 组织维护
 
 **自托管社交监听工具：用本地 LLM 对社区帖子做相关性筛选**
 

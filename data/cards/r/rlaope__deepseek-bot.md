@@ -1,6 +1,6 @@
 # rlaope/deepseek-bot
 
-⭐ 77 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rlaope/deepseek-bot) · 个人维护
+⭐ 76 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rlaope/deepseek-bot) · 个人维护
 
 **自托管个人 AI 队友：常驻 Slack/Discord/Telegram 与终端**
 

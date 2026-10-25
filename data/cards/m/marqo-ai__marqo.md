@@ -1,6 +1,6 @@
 # marqo-ai/marqo
 
-⭐ 5,029 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/marqo-ai/marqo) · [官网](https://www.marqo.ai/) · 组织维护
+⭐ 5,030 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/marqo-ai/marqo) · [官网](https://www.marqo.ai/) · 组织维护
 
 **面向电商品牌的 AI 原生搜索与商品发现平台（开源版已停更）**
 

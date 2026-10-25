@@ -1,6 +1,6 @@
 # braindecode/braindecode
 
-⭐ 1,336 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/braindecode/braindecode) · [官网](https://braindecode.org/) · 组织维护
+⭐ 1,337 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/braindecode/braindecode) · [官网](https://braindecode.org/) · 组织维护
 
 **用深度学习解码 EEG/ECoG/MEG 脑电信号的 Python 工具箱**
 

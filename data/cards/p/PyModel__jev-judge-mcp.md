@@ -1,6 +1,6 @@
 # PyModel/jev-judge-mcp
 
-⭐ 48 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/PyModel/jev-judge-mcp) · 组织维护
+⭐ 49 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/PyModel/jev-judge-mcp) · 组织维护
 
 **给编码 agent 提供 15 个类型化判断工具的 MCP 服务器**
 

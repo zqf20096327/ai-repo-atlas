@@ -1,6 +1,6 @@
 # liuxingqitd/skills-hub
 
-⭐ 81 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/liuxingqitd/skills-hub) · [官网](https://skills-hub.dev) · 个人维护 · 中文 README
+⭐ 82 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/liuxingqitd/skills-hub) · [官网](https://skills-hub.dev) · 个人维护 · 中文 README
 
 **本地桌面面板：统一管理多个 AI 编程 agent 的技能**
 

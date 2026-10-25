@@ -1,6 +1,6 @@
 # i-dot-ai/lex
 
-⭐ 76 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/i-dot-ai/lex) · [官网](https://lex.lab.i.ai.gov.uk/) · 组织维护
+⭐ 76 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/i-dot-ai/lex) · [官网](https://lex.lab.i.ai.gov.uk/) · 组织维护
 
 **英国立法数据 API：面向 AI agent 与法律研究者提供语义检索**
 

@@ -1,6 +1,6 @@
 # skillhub-club/skillhub-desktop
 
-⭐ 599 · TypeScript · 推送 2026-03-07 · [GitHub](https://github.com/skillhub-club/skillhub-desktop) · 组织维护 · 中文 README
+⭐ 600 · TypeScript · 推送 2026-03-07 · [GitHub](https://github.com/skillhub-club/skillhub-desktop) · 组织维护 · 中文 README
 
 **管理 AI 编程工具技能的桌面应用：浏览、安装与多工具同步**
 

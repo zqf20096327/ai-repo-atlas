@@ -1,6 +1,6 @@
 # xingjian-bai/opal
 
-⭐ 189 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xingjian-bai/opal) · [官网](https://xingjianbai.com/reactive-optimizers/) · 个人维护
+⭐ 200 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/xingjian-bai/opal) · [官网](https://xingjianbai.com/reactive-optimizers/) · 个人维护
 
 **PyTorch 优化器包装器：让编程 agent 在训练中改写优化器**
 

@@ -1,6 +1,6 @@
 # mogurt/ComfyDownloader
 
-⭐ 37 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/mogurt/ComfyDownloader) · 个人维护 · 中文 README
+⭐ 38 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/mogurt/ComfyDownloader) · 个人维护 · 中文 README
 
 **为 ComfyUI 用户下载与管理 AI 模型的跨平台桌面应用**
 

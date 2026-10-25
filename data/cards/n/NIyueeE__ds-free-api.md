@@ -1,6 +1,6 @@
 # NIyueeE/ds-free-api
 
-⭐ 835 · Rust · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/NIyueeE/ds-free-api) · 个人维护 · 中文 README
+⭐ 840 · Rust · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/NIyueeE/ds-free-api) · 个人维护 · 中文 README
 
 **把 DeepSeek 免费网页端反代为 OpenAI/Anthropic 兼容 API 的 Rust 代理**
 

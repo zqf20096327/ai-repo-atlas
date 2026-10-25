@@ -1,6 +1,6 @@
 # namkoong-lab/dro
 
-⭐ 163 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/namkoong-lab/dro) · [官网](https://python-dro.org/) · 组织维护
+⭐ 163 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/namkoong-lab/dro) · [官网](https://python-dro.org/) · 组织维护
 
 **分布鲁棒优化（DRO）机器学习方法的 Python 库，供研究者与开发者使用**
 

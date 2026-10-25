@@ -1,6 +1,6 @@
 # microsoft/multi-agent-marketplace
 
-⭐ 192 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/multi-agent-marketplace) · [官网](https://microsoft.github.io/multi-agent-marketplace/) · 组织维护
+⭐ 193 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/multi-agent-marketplace) · [官网](https://microsoft.github.io/multi-agent-marketplace/) · 组织维护
 
 **模拟 LLM 买家/卖家 agent 市场的 Python 框架**
 

@@ -1,6 +1,6 @@
 # leomaurodesenv/game-datasets
 
-⭐ 1,138 · CC-BY-4.0 · 推送 2026-10-17 · [GitHub](https://github.com/leomaurodesenv/game-datasets) · 个人维护
+⭐ 1,139 · CC-BY-4.0 · 推送 2026-10-17 · [GitHub](https://github.com/leomaurodesenv/game-datasets) · 个人维护
 
 **游戏领域 AI 与数据挖掘的数据集/工具/资料策展清单**
 

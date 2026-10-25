@@ -1,6 +1,6 @@
 # DollhouseMCP/mcp-server
 
-⭐ 46 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/DollhouseMCP/mcp-server) · [官网](https://www.npmjs.com/package/@dollhousemcp/mcp-server) · 组织维护
+⭐ 46 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/DollhouseMCP/mcp-server) · [官网](https://www.npmjs.com/package/@dollhousemcp/mcp-server) · 组织维护
 
 **面向 MCP 客户端的 AI 人格/技能模块管理与权限控制服务器**
 

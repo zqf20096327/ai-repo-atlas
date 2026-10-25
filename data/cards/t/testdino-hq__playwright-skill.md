@@ -1,6 +1,6 @@
 # testdino-hq/playwright-skill
 
-⭐ 401 · MIT · 推送 2026-10-12 · [GitHub](https://github.com/testdino-hq/playwright-skill) · [官网](https://www.testdino.com) · 组织维护
+⭐ 402 · MIT · 推送 2026-10-12 · [GitHub](https://github.com/testdino-hq/playwright-skill) · [官网](https://www.testdino.com) · 组织维护
 
 **面向 AI 编程 agent 的 Playwright 测试技能指南包（79 篇）**
 

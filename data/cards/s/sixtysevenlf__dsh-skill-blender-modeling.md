@@ -1,6 +1,6 @@
 # sixtysevenlf/dsh-skill-blender-modeling
 
-⭐ 61 · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/sixtysevenlf/dsh-skill-blender-modeling) · 个人维护 · 中文 README
+⭐ 64 · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/sixtysevenlf/dsh-skill-blender-modeling) · 个人维护 · 中文 README
 
 **给 AI agent 读的 Blender 建模流程技能文档（SKILL.md）**
 

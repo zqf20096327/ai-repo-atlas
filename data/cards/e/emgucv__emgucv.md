@@ -1,6 +1,6 @@
 # emgucv/emgucv
 
-⭐ 2,300 · C# · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/emgucv/emgucv) · [官网](https://www.emgu.com/) · 组织维护
+⭐ 2,298 · C# · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/emgucv/emgucv) · [官网](https://www.emgu.com/) · 组织维护
 
 **OpenCV 的跨平台 .NET 绑定封装库**
 

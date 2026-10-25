@@ -1,6 +1,6 @@
 # fitchmultz/pi-cursor-sdk
 
-⭐ 346 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/fitchmultz/pi-cursor-sdk) · 个人维护
+⭐ 345 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/fitchmultz/pi-cursor-sdk) · 个人维护
 
 **在 Pi 终端编码代理中接入 Cursor SDK 模型的提供方扩展**
 

@@ -1,6 +1,6 @@
 # cambrian-mllm/cambrian-s
 
-⭐ 571 · Python · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/cambrian-mllm/cambrian-s) · [官网](https://cambrian-mllm.github.io/) · 组织维护
+⭐ 572 · Python · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/cambrian-mllm/cambrian-s) · [官网](https://cambrian-mllm.github.io/) · 组织维护
 
 **面向视频空间理解的多模态大模型，含数据集与训练评测代码**
 

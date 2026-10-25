@@ -1,6 +1,6 @@
 # future-agi/traceAI
 
-⭐ 250 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/future-agi/traceAI) · [官网](https://app.futureagi.com) · 组织维护
+⭐ 260 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/future-agi/traceAI) · [官网](https://app.futureagi.com) · 组织维护
 
 **面向 AI 应用的 OpenTelemetry 埋点追踪框架**
 

@@ -1,6 +1,6 @@
 # PicartaAI/Picarta-API
 
-⭐ 98 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/PicartaAI/Picarta-API) · [官网](https://picarta.ai/api) · 组织维护
+⭐ 99 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/PicartaAI/Picarta-API) · [官网](https://picarta.ai/api) · 组织维护
 
 **图像地理定位 API 客户端：预测照片拍摄地点**
 

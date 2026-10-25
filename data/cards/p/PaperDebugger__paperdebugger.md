@@ -1,6 +1,6 @@
 # PaperDebugger/paperdebugger
 
-⭐ 1,546 · TypeScript · AGPL-3.0 · 推送 2026-07-03 · [GitHub](https://github.com/PaperDebugger/paperdebugger) · [官网](https://www.paperdebugger.com/) · 组织维护
+⭐ 1,549 · TypeScript · AGPL-3.0 · 推送 2026-07-03 · [GitHub](https://github.com/PaperDebugger/paperdebugger) · [官网](https://www.paperdebugger.com/) · 组织维护
 
 **给科研人员的 Overleaf 论文写作 AI 助手（Chrome 扩展）**
 

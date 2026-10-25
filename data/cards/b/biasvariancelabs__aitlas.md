@@ -1,6 +1,6 @@
 # biasvariancelabs/aitlas
 
-⭐ 235 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/biasvariancelabs/aitlas) · [官网](https://aitlas.readthedocs.io/) · 组织维护
+⭐ 234 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/biasvariancelabs/aitlas) · [官网](https://aitlas.readthedocs.io/) · 组织维护
 
 **面向遥感卫星影像分析的机器学习工具箱，含AI就绪数据集仓库**
 

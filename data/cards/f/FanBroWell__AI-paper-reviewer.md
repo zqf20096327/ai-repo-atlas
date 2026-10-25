@@ -1,6 +1,6 @@
 # FanBroWell/AI-paper-reviewer
 
-⭐ 47 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/FanBroWell/AI-paper-reviewer) · 个人维护 · 中文 README
+⭐ 47 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/FanBroWell/AI-paper-reviewer) · 个人维护 · 中文 README
 
 **顶会论文投稿前自审的 prompt 工具箱（Claude/ChatGPT 可用）**
 

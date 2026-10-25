@@ -1,6 +1,6 @@
 # alvinreal/awesome-openclaw
 
-⭐ 744 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/alvinreal/awesome-openclaw) · [官网](https://clawisthelaw.com) · 个人维护 · 中文 README
+⭐ 745 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/alvinreal/awesome-openclaw) · [官网](https://clawisthelaw.com) · 个人维护 · 中文 README
 
 **OpenClaw 生态资源策展清单：官方项目、技能、面板与部署工具**
 

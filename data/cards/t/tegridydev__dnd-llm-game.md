@@ -1,6 +1,6 @@
 # tegridydev/dnd-llm-game
 
-⭐ 125 · Python · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/tegridydev/dnd-llm-game) · 个人维护
+⭐ 126 · Python · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/tegridydev/dnd-llm-game) · 个人维护
 
 **本地 LLM 驱动的单人 D&D 地下城主应用**
 

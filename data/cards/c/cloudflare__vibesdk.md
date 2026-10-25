@@ -1,6 +1,6 @@
 # cloudflare/vibesdk
 
-⭐ 5,420 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cloudflare/vibesdk) · [官网](https://build.cloudflare.dev) · 组织维护
+⭐ 5,428 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cloudflare/vibesdk) · [官网](https://build.cloudflare.dev) · 组织维护
 
 **开源 vibe coding 平台：用 AI 编码代理在 Cloudflare 上构建全栈应用**
 

@@ -1,6 +1,6 @@
 # padmarajnidagundi/Playwright-AI-Agent-POM-MCP-Server
 
-⭐ 39 · TypeScript · 推送 2026-09-27 · [GitHub](https://github.com/padmarajnidagundi/Playwright-AI-Agent-POM-MCP-Server) · 个人维护
+⭐ 39 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/padmarajnidagundi/Playwright-AI-Agent-POM-MCP-Server) · 个人维护
 
 **Playwright 测试框架 + MCP 服务器：让 AI 客户端运行与读取测试**
 

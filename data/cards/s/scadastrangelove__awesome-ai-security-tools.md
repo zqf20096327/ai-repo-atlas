@@ -1,6 +1,6 @@
 # scadastrangelove/awesome-ai-security-tools
 
-⭐ 1,681 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/scadastrangelove/awesome-ai-security-tools) · 个人维护
+⭐ 1,684 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/scadastrangelove/awesome-ai-security-tools) · 个人维护
 
 **AI 安全工具策展清单：收录 AI/agent 安全与 AI 辅助安全工具**
 

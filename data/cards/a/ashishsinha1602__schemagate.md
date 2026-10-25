@@ -1,6 +1,6 @@
 # ashishsinha1602/schemagate
 
-⭐ 154 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ashishsinha1602/schemagate) · [官网](https://ashishsinha1602.github.io/schemagate/) · 个人维护
+⭐ 170 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ashishsinha1602/schemagate) · [官网](https://ashishsinha1602.github.io/schemagate/) · 个人维护
 
 **给 text-to-SQL agent 的权限感知表筛选库，按调用者授权裁剪 schema**
 

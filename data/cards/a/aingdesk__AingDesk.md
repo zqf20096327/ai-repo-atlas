@@ -1,6 +1,6 @@
 # aingdesk/AingDesk
 
-⭐ 2,541 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/aingdesk/AingDesk) · [官网](https://www.aingdesk.com) · 组织维护 · 中文 README
+⭐ 2,539 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/aingdesk/AingDesk) · [官网](https://www.aingdesk.com) · 组织维护 · 中文 README
 
 **面向普通用户的 AI 助手：本地模型/知识库/智能体/联网搜索**
 

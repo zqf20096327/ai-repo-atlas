@@ -1,6 +1,6 @@
 # darrylschaefer/fthr
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/darrylschaefer/fthr) · [官网](https://fthr.vercel.app/) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/darrylschaefer/fthr) · [官网](https://fthr.vercel.app/) · 个人维护
 
 **浏览器端可定制写作工作区，集成 AI 助手、宏与语义搜索**
 

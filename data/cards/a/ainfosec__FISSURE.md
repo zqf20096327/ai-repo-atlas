@@ -1,6 +1,6 @@
 # ainfosec/FISSURE
 
-⭐ 2,074 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ainfosec/FISSURE) · [官网](https://twitter.com/FissureRF) · 组织维护
+⭐ 2,074 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ainfosec/FISSURE) · [官网](https://twitter.com/FissureRF) · 组织维护
 
 **面向射频分析与逆向工程的开源 SDR 框架（含分布式节点）**
 

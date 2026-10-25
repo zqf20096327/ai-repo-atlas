@@ -1,6 +1,6 @@
 # YuyaoGe/doc2harness
 
-⭐ 113 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/YuyaoGe/doc2harness) · [官网](https://geyuyao.com/doc2harness/) · 个人维护
+⭐ 115 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/YuyaoGe/doc2harness) · [官网](https://geyuyao.com/doc2harness/) · 个人维护
 
 **评测 LLM 能否构建编码 agent 框架（harness）的基准**
 

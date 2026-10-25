@@ -1,6 +1,6 @@
 # hanlulong/econ-writing-skill
 
-⭐ 677 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/hanlulong/econ-writing-skill) · [官网](https://openecon.ai) · 个人维护
+⭐ 679 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/hanlulong/econ-writing-skill) · [官网](https://openecon.ai) · 个人维护
 
 **把 AI 助手变为经济学论文写作专家的 Agent Skill**
 

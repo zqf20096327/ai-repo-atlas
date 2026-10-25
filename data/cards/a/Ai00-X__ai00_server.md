@@ -1,6 +1,6 @@
 # Ai00-X/ai00_server
 
-⭐ 621 · Rust · MIT · 推送 2026-06-09 · [GitHub](https://github.com/Ai00-X/ai00_server) · [官网](https://ai00-x.github.io/ai00_server/) · 组织维护 · 中文 README
+⭐ 622 · Rust · MIT · 推送 2026-06-09 · [GitHub](https://github.com/Ai00-X/ai00_server) · [官网](https://ai00-x.github.io/ai00_server/) · 组织维护 · 中文 README
 
 **基于 Vulkan 的 RWKV 推理 API 服务器，兼容 OpenAI 接口**
 

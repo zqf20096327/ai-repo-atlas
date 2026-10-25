@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-M2.7
 
-⭐ 364 · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.7) · 组织维护 · 中文 README
+⭐ 365 · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.7) · 组织维护 · 中文 README
 
 **MiniMax 开源的 M2.7 大语言模型权重，面向 agent 与工程任务**
 

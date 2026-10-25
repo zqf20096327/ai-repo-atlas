@@ -1,6 +1,6 @@
 # joelhooks/swarm-tools
 
-⭐ 748 · TypeScript · 推送 2026-07-30 · [GitHub](https://github.com/joelhooks/swarm-tools) · [官网](https://swarmtools.ai) · 个人维护
+⭐ 747 · TypeScript · 推送 2026-07-30 · [GitHub](https://github.com/joelhooks/swarm-tools) · [官网](https://swarmtools.ai) · 个人维护
 
 **面向 OpenCode/Claude Code 的多 agent 协调插件：任务分解、并行执行与经验学习**
 

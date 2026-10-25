@@ -1,6 +1,6 @@
 # carloslfu/slotstream
 
-⭐ 483 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/carloslfu/slotstream) · 个人维护
+⭐ 482 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/carloslfu/slotstream) · 个人维护
 
 **在内存装不下 105GB 模型的 Mac 上流式运行本地大模型**
 

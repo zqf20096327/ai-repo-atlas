@@ -1,6 +1,6 @@
 # InternLM/HuixiangDou
 
-⭐ 2,502 · Python · BSD-3-Clause · 推送 2025-11-24 · [GitHub](https://github.com/InternLM/HuixiangDou) · [官网](https://openxlab.org.cn/apps/detail/tpoisonooo/huixiangdou-web) · 组织维护 · 中文 README
+⭐ 2,501 · Python · BSD-3-Clause · 推送 2025-11-24 · [GitHub](https://github.com/InternLM/HuixiangDou) · [官网](https://openxlab.org.cn/apps/detail/tpoisonooo/huixiangdou-web) · 组织维护 · 中文 README
 
 **面向群聊场景的 LLM 专业知识问答助手（RAG 管线）**
 

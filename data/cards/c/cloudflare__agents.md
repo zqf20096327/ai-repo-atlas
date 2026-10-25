@@ -1,6 +1,6 @@
 # cloudflare/agents
 
-⭐ 5,880 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/cloudflare/agents) · [官网](https://developers.cloudflare.com/agents/) · 组织维护
+⭐ 5,885 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cloudflare/agents) · [官网](https://developers.cloudflare.com/agents/) · 组织维护
 
 **在 Cloudflare 上构建有状态 AI Agent 的 TypeScript SDK**
 

@@ -1,6 +1,6 @@
 # JdeRobot/BehaviorMetrics
 
-⭐ 65 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/JdeRobot/BehaviorMetrics) · [官网](https://jderobot.github.io/BehaviorMetrics/) · 组织维护
+⭐ 65 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/JdeRobot/BehaviorMetrics) · [官网](https://jderobot.github.io/BehaviorMetrics/) · 组织维护
 
 **自动驾驶方案的仿真评测工具：量化对比各控制器表现**
 
