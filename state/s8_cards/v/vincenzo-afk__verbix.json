@@ -1,1 +1,77 @@
-{"fn": "vincenzo-afk/verbix", "sha": "38cce5056818", "source": "readme", "identity": {"one_liner": "全栈 AI 提示词工作台：发现、编写、共享与运行可复用提示词", "review": "基于 React + Express + tRPC + Drizzle/MySQL 的提示词平台：访客可按分类、标签、模型兼容性浏览公共提示词；认证用户可编写含 {{variable}} 变量的提示词并保留版本，通过服务端 AI 适配器（free-chatbot）改进提示词且不覆盖原稿，还可将自有提示词部署为可分享的 agent；管理员负责审核、举报、分类与导入源策略管理。导入功能仅处理经管理员批准域名的公开 URL，遵循 robots.txt 并保留署名。本地运行需配置数据库、OAuth 等环境变量。", "highlights": ["提示词编写含 {{variable}} 类型化变量、实时预览与版本历史", "服务端 AI 适配器改进提示词，原稿与改进稿并行保存", "将自有提示词部署为可分享 agent，含按小时访客限流", "管理员审核体系与遵循 robots.txt 的权利感知导入流程"], "use_cases": ["团队沉淀、发现和复用结构化提示词", "把常用提示词发布为带变量表单的 agent 供他人调用", "对公共提示词库做审核与版权合规管理"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["提示词工程", "提示词管理", "AI平台", "内容审核", "全栈Web应用"], "domain": "AI 提示词管理/平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: > A full-stack workspace for discovering, structuring, versioning, sharing, and running reusable AI prompts.", "L13: Verbix makes reusable prompt work discoverable and manageable. Visitors can browse public prompts by category, tag, mode"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vincenzo-afk/verbix",
+ "sha": "38cce5056818",
+ "source": "readme",
+ "identity": {
+  "one_liner": "全栈 AI 提示词工作台：发现、编写、共享与运行可复用提示词",
+  "review": "基于 React + Express + tRPC + Drizzle/MySQL 的提示词平台：访客可按分类、标签、模型兼容性浏览公共提示词；认证用户可编写含 {{variable}} 变量的提示词并保留版本，通过服务端 AI 适配器（free-chatbot）改进提示词且不覆盖原稿，还可将自有提示词部署为可分享的 agent；管理员负责审核、举报、分类与导入源策略管理。导入功能仅处理经管理员批准域名的公开 URL，遵循 robots.txt 并保留署名。本地运行需配置数据库、OAuth 等环境变量。",
+  "highlights": [
+   "提示词编写含 {{variable}} 类型化变量、实时预览与版本历史",
+   "服务端 AI 适配器改进提示词，原稿与改进稿并行保存",
+   "将自有提示词部署为可分享 agent，含按小时访客限流",
+   "管理员审核体系与遵循 robots.txt 的权利感知导入流程"
+  ],
+  "use_cases": [
+   "团队沉淀、发现和复用结构化提示词",
+   "把常用提示词发布为带变量表单的 agent 供他人调用",
+   "对公共提示词库做审核与版权合规管理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词工程",
+   "提示词管理",
+   "AI平台",
+   "内容审核",
+   "全栈Web应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > A full-stack workspace for discovering, structuring, versioning, sharing, and running reusable AI prompts.",
+   "L13: Verbix makes reusable prompt work discoverable and manageable. Visitors can browse public prompts by category, tag, mode"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

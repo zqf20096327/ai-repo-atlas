@@ -1,1 +1,81 @@
-{"fn": "tripolskypetr/agent-swarm-kit", "sha": "cee74c243f76", "source": "readme", "identity": {"one_liner": "构建多智能体编排系统的 TypeScript 库，面向开发者", "review": "TypeScript 多智能体编排库，不绑定特定框架：通过 addAgent/addSwarm/session 等 API 组合多个 LLM agent，支持单一聊天中混用多种模型（如 OpenAI、Grok、Claude），agent 间通过工具调用切换并共享 25 条轮换消息历史。提供单元测试框架（可覆盖工具与 agent）、MCP 远程服务器连接、Redis 状态与 RAG 存储集成、类 POSIX fork 的后台会话、结构化 JSON 输出校验及无效输出的自动重试。以 npm 包分发，附约 10 个演示工程。", "highlights": ["agent 间工具调用导航与共享轮换消息历史", "含工具/agent 覆盖能力的单元测试框架", "Redis 持久化状态、RAG 向量检索与聊天历史", "结构化 JSON 输出 schema 校验与自动重试"], "use_cases": ["搭建客服分诊→销售/退款的多角色 agent 工作流", "在同一聊天中编排多个不同模型的 agent 协作", "为多智能体系统编写可隔离运行的单元测试"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多智能体编排", "agent框架", "TypeScript", "LLM基础设施", "RAG"], "domain": "LLM 基础设施/多智能体框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: > **A lightweight TypeScript library for building orchestrated, framework-agnostic multi-agent AI systems.**", "L59: The feature of this library is dependency inversion for agents injection. The agents are being lazy loaded during runtim", "L70: - 🤝 **Agent Orchestration**: Seamlessly switch between agents (e.g., triage → sales) with a single tool call. 🔄"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tripolskypetr/agent-swarm-kit",
+ "sha": "cee74c243f76",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建多智能体编排系统的 TypeScript 库，面向开发者",
+  "review": "TypeScript 多智能体编排库，不绑定特定框架：通过 addAgent/addSwarm/session 等 API 组合多个 LLM agent，支持单一聊天中混用多种模型（如 OpenAI、Grok、Claude），agent 间通过工具调用切换并共享 25 条轮换消息历史。提供单元测试框架（可覆盖工具与 agent）、MCP 远程服务器连接、Redis 状态与 RAG 存储集成、类 POSIX fork 的后台会话、结构化 JSON 输出校验及无效输出的自动重试。以 npm 包分发，附约 10 个演示工程。",
+  "highlights": [
+   "agent 间工具调用导航与共享轮换消息历史",
+   "含工具/agent 覆盖能力的单元测试框架",
+   "Redis 持久化状态、RAG 向量检索与聊天历史",
+   "结构化 JSON 输出 schema 校验与自动重试"
+  ],
+  "use_cases": [
+   "搭建客服分诊→销售/退款的多角色 agent 工作流",
+   "在同一聊天中编排多个不同模型的 agent 协作",
+   "为多智能体系统编写可隔离运行的单元测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体编排",
+   "agent框架",
+   "TypeScript",
+   "LLM基础设施",
+   "RAG"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **A lightweight TypeScript library for building orchestrated, framework-agnostic multi-agent AI systems.**",
+   "L59: The feature of this library is dependency inversion for agents injection. The agents are being lazy loaded during runtim",
+   "L70: - 🤝 **Agent Orchestration**: Seamlessly switch between agents (e.g., triage → sales) with a single tool call. 🔄"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

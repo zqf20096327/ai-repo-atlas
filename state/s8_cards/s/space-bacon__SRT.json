@@ -1,1 +1,78 @@
-{"fn": "space-bacon/SRT", "sha": "483d4cc30caf", "source": "readme", "identity": {"one_liner": "读取冻结 LLM 隐状态的可移植适配器与探针架构", "review": "SRT-Adapter 是一个约 12-14.6M 参数的轻量模块，附着在完全冻结的因果语言模型上：在 3 个层读取残差流（MAH），经 GRU 模块（RRM）整合后以 FiLM 形式在 2 个层注入修正，并输出逐 token 的 semiotic 信号（divergence、reflexivity r̂、regime）与话语/嵌入向量。背骨不可知，兼容任意 HuggingFace AutoModelForCausalLM。另含 TruthfulQA-MC2 冻结探针（LightGBM）、srt_select（无训练地从 K 个候选回复中选一）与跨模型/精度/硬件的可移植性测量。适配器侧信道未验证为幻觉检测器，README 明确标注其超范围。", "highlights": ["约 14.6M 参数适配器，背骨完全冻结，零交叉熵退化，数小时可训练", "逐 token 输出 divergence、reflexivity r̂ 与 regime 信号，FiLM 注入修正", "线性头读出结构在模型规模 3B→235B、bf16→4bit、数据中心 GPU→Apple Silicon 间保持不变", "srt_select 无训练、无参考答案地从 K 个模型回复中按输出分组选取（HumanEval 0.3762 / MBPP 0.8094）"], "use_cases": ["在冻结 LLM 上做可解释性研究与隐状态探测", "用小模型配合 K 采样提升代码生成选择质量", "研究跨厂商嵌入空间与跨模态检索的可移植性"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["可解释性", "LLM适配器", "探针", "表示学习", "采样选择"], "domain": "LLM 可解释性/表示学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L14: SRT-Adapter is the instrument: a lightweight module that bolts semiotic", "L23: > - **What:** a ~12 M-parameter adapter that observes a frozen LLM at 3 layers and injects a FiLM correction at 2 of the", "L37: The base LLM stays fully frozen. SRT taps the residual stream at three"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "space-bacon/SRT",
+ "sha": "483d4cc30caf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "读取冻结 LLM 隐状态的可移植适配器与探针架构",
+  "review": "SRT-Adapter 是一个约 12-14.6M 参数的轻量模块，附着在完全冻结的因果语言模型上：在 3 个层读取残差流（MAH），经 GRU 模块（RRM）整合后以 FiLM 形式在 2 个层注入修正，并输出逐 token 的 semiotic 信号（divergence、reflexivity r̂、regime）与话语/嵌入向量。背骨不可知，兼容任意 HuggingFace AutoModelForCausalLM。另含 TruthfulQA-MC2 冻结探针（LightGBM）、srt_select（无训练地从 K 个候选回复中选一）与跨模型/精度/硬件的可移植性测量。适配器侧信道未验证为幻觉检测器，README 明确标注其超范围。",
+  "highlights": [
+   "约 14.6M 参数适配器，背骨完全冻结，零交叉熵退化，数小时可训练",
+   "逐 token 输出 divergence、reflexivity r̂ 与 regime 信号，FiLM 注入修正",
+   "线性头读出结构在模型规模 3B→235B、bf16→4bit、数据中心 GPU→Apple Silicon 间保持不变",
+   "srt_select 无训练、无参考答案地从 K 个模型回复中按输出分组选取（HumanEval 0.3762 / MBPP 0.8094）"
+  ],
+  "use_cases": [
+   "在冻结 LLM 上做可解释性研究与隐状态探测",
+   "用小模型配合 K 采样提升代码生成选择质量",
+   "研究跨厂商嵌入空间与跨模态检索的可移植性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可解释性",
+   "LLM适配器",
+   "探针",
+   "表示学习",
+   "采样选择"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: SRT-Adapter is the instrument: a lightweight module that bolts semiotic",
+   "L23: > - **What:** a ~12 M-parameter adapter that observes a frozen LLM at 3 layers and injects a FiLM correction at 2 of the",
+   "L37: The base LLM stays fully frozen. SRT taps the residual stream at three"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

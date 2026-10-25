@@ -1,1 +1,79 @@
-{"fn": "vincenzo-afk/roastmycode", "sha": "22f9af56787b", "source": "readme", "identity": {"one_liner": "AI 代码吐槽与重构工具：粘贴代码获得趣味点评和重构", "review": "基于浏览器的开发者工具：用户粘贴代码片段，经服务端 Groq 代理（llama-3.3-70b-versatile）生成结构化吐槽反馈，包含人格化点评、代码质量指标、十项 pain_score、最差诊断、commit 建议与最终判定；另提供紧急重构流程，返回重构后代码、损伤评估与修复清单。支持 8 种吐槽人格与 10 种语言，本地 localStorage 记录 Hall of Shame。限制：无许可证文件、无自动化浏览器测试，静态托管无法运行 API 函数。", "highlights": ["8 种吐槽人格（Funny/Gordon Ramsay/Shakespeare 等）流式输出结构化结果", "紧急重构流程返回重构代码与损伤评估", "服务端 Groq 代理使 API key 不进入浏览器代码", "10 种编程语言支持与自动语言检测"], "use_cases": ["以趣味方式获得代码反馈并生成可分享的吐槽卡片", "快速获得代码重构建议与修复清单", "为 commit 生成有记忆点的提交信息建议"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://roastmycode-lemon.vercel.app", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码审查", "开发者工具", "LLM应用", "代码重构", "Web应用"], "domain": "开发者工具/代码审查", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["groq"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L21: ROASTMYCODE is a browser-based developer tool that turns a submitted code sample into a structured AI code roast. It is ", "L148: |`POST`|`/api/roast`|Generate a structured roast using the selected persona|Proxied `text/event-stream` response|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vincenzo-afk/roastmycode",
+ "sha": "22f9af56787b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 代码吐槽与重构工具：粘贴代码获得趣味点评和重构",
+  "review": "基于浏览器的开发者工具：用户粘贴代码片段，经服务端 Groq 代理（llama-3.3-70b-versatile）生成结构化吐槽反馈，包含人格化点评、代码质量指标、十项 pain_score、最差诊断、commit 建议与最终判定；另提供紧急重构流程，返回重构后代码、损伤评估与修复清单。支持 8 种吐槽人格与 10 种语言，本地 localStorage 记录 Hall of Shame。限制：无许可证文件、无自动化浏览器测试，静态托管无法运行 API 函数。",
+  "highlights": [
+   "8 种吐槽人格（Funny/Gordon Ramsay/Shakespeare 等）流式输出结构化结果",
+   "紧急重构流程返回重构代码与损伤评估",
+   "服务端 Groq 代理使 API key 不进入浏览器代码",
+   "10 种编程语言支持与自动语言检测"
+  ],
+  "use_cases": [
+   "以趣味方式获得代码反馈并生成可分享的吐槽卡片",
+   "快速获得代码重构建议与修复清单",
+   "为 commit 生成有记忆点的提交信息建议"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://roastmycode-lemon.vercel.app",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码审查",
+   "开发者工具",
+   "LLM应用",
+   "代码重构",
+   "Web应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L21: ROASTMYCODE is a browser-based developer tool that turns a submitted code sample into a structured AI code roast. It is ",
+   "L148: |`POST`|`/api/roast`|Generate a structured roast using the selected persona|Proxied `text/event-stream` response|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

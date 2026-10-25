@@ -1,1 +1,76 @@
-{"fn": "urbanmorph/geodata", "sha": "304c12700580", "source": "readme", "identity": {"one_liner": "印度行政边界开放地理数据目录，含 REST API 与 MCP 服务器", "review": "bharatlas 是面向印度地理数据的可视化目录与平台：收录国家、邦、县、区、村（LGD）等行政边界及选区、生态区、6.3 万邮编多边形等图层，支持按图层筛选并以 Parquet/PMTiles/GeoJSON/KML/Shapefile 五种格式下载。提供无密钥的 REST API（list/query/locate/nearby）、移动端众包采集工具 collect、匿名提交流程，以及供 LLM 使用的 MCP 服务器（17 个工具，npm 分发，兼作 Claude Code 插件）。数据存于 Cloudflare R2，提交需策展人审核，各图层携带各自开放许可，法律用途建议回溯上游源。", "highlights": ["邦到村五级 LGD 行政边界，跨源备选（SOI/Bhuvan/geoBoundaries/PMGSY）", "REST API：list/query/filter/group_by/point-in-polygon locate/nearby", "MCP 服务器 17 个工具（读取 + collect 创作），npm 与 Claude Code 插件分发", "collect 移动众包采集：表单链接、无账号打点、token 权限分级"], "use_cases": ["查找并下载印度各级行政边界的开放地理数据", "让 Claude/GPT/Cursor 等 LLM 通过 MCP 查询印度地理图层", "用手机链接发起众包地图采集并审核发布到目录"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://bharatlas.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["地理数据目录", "印度开放数据", "MCP", "众包地图", "GIS"], "domain": "地理空间/开放数据", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: A visual catalog, REST API, MCP server, drag-drop verifier, anonymous contribution flow, and a mobile crowd map-capture ", "L24: - **MCP** (`npx bharatlas-mcp@latest`) – 17 tools for LLMs. Read (list, schema, query, locate, nearby, categories, submi", "L52: - **MCP server** – `bharatlas-mcp`, 17 tools (read + collect authoring) for Claude, GPT, Gemini, Cursor, etc.; also a Cl"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "urbanmorph/geodata",
+ "sha": "304c12700580",
+ "source": "readme",
+ "identity": {
+  "one_liner": "印度行政边界开放地理数据目录，含 REST API 与 MCP 服务器",
+  "review": "bharatlas 是面向印度地理数据的可视化目录与平台：收录国家、邦、县、区、村（LGD）等行政边界及选区、生态区、6.3 万邮编多边形等图层，支持按图层筛选并以 Parquet/PMTiles/GeoJSON/KML/Shapefile 五种格式下载。提供无密钥的 REST API（list/query/locate/nearby）、移动端众包采集工具 collect、匿名提交流程，以及供 LLM 使用的 MCP 服务器（17 个工具，npm 分发，兼作 Claude Code 插件）。数据存于 Cloudflare R2，提交需策展人审核，各图层携带各自开放许可，法律用途建议回溯上游源。",
+  "highlights": [
+   "邦到村五级 LGD 行政边界，跨源备选（SOI/Bhuvan/geoBoundaries/PMGSY）",
+   "REST API：list/query/filter/group_by/point-in-polygon locate/nearby",
+   "MCP 服务器 17 个工具（读取 + collect 创作），npm 与 Claude Code 插件分发",
+   "collect 移动众包采集：表单链接、无账号打点、token 权限分级"
+  ],
+  "use_cases": [
+   "查找并下载印度各级行政边界的开放地理数据",
+   "让 Claude/GPT/Cursor 等 LLM 通过 MCP 查询印度地理图层",
+   "用手机链接发起众包地图采集并审核发布到目录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://bharatlas.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "地理数据目录",
+   "印度开放数据",
+   "MCP",
+   "众包地图",
+   "GIS"
+  ],
+  "domain": "地理空间/开放数据",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: A visual catalog, REST API, MCP server, drag-drop verifier, anonymous contribution flow, and a mobile crowd map-capture ",
+   "L24: - **MCP** (`npx bharatlas-mcp@latest`) – 17 tools for LLMs. Read (list, schema, query, locate, nearby, categories, submi",
+   "L52: - **MCP server** – `bharatlas-mcp`, 17 tools (read + collect authoring) for Claude, GPT, Gemini, Cursor, etc.; also a Cl"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

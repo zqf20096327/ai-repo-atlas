@@ -1,1 +1,82 @@
-{"fn": "vincenzo-afk/NOVA", "sha": "eadb5b70db68", "source": "readme", "identity": {"one_liner": "本地优先的 Python 个人 AI 助手：推理、记忆、语音、视觉与设备控制", "review": "Python 编写的桌面个人助手：以单一编排层整合 LLM 路由（云端厂商与 Ollama 本地回退、多密钥轮换）、mem0/ChromaDB 持久记忆、唤醒词与离线/在线语音、屏幕理解（Gemini Vision、OmniParser）、浏览器与桌面控制、PDF/DOCX 文档摄取检索、ADB 安卓工具与定时任务。面向需要对话窗口之外能力的个人用户，通过 CLI/GUI/Telegram/语音交互。提供风险评分、确认门与紧急停止等安全层。裸机安装需 FFmpeg、mpg123 等系统依赖；Docker 部署默认禁用多项主机交互，非桌面控制替代。", "highlights": ["统一 LLM 编排：云端厂商 + Ollama 本地回退、多密钥轮换", "mem0 集成与 ChromaDB 本地向量存储、混合检索", "语音（唤醒词/VAD/离线 STT）与视觉/桌面/浏览器/ADB 控制一体化", "风险评分、确认门、紧急停止等安全护栏层"], "use_cases": ["通过语音或 Telegram 与本地助手对话并让它操作桌面与浏览器", "让助手摄取本地 PDF/DOCX 文档并跨会话记忆检索", "设定定时任务与目标让助手自主执行（带步数限制与循环检测）", "通过 ADB 控制安卓设备并监控手机状态"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["个人AI助手", "本地优先", "语音交互", "桌面自动化", "LLM编排"], "domain": "个人AI助手/桌面自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L27: NOVA is a Python desktop assistant that places a single orchestration layer over language models, persistent memory, voi", "L29: NOVA is designed for workflows that need more than a chat window. It can route requests across configured cloud provider"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vincenzo-afk/NOVA",
+ "sha": "eadb5b70db68",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 Python 个人 AI 助手：推理、记忆、语音、视觉与设备控制",
+  "review": "Python 编写的桌面个人助手：以单一编排层整合 LLM 路由（云端厂商与 Ollama 本地回退、多密钥轮换）、mem0/ChromaDB 持久记忆、唤醒词与离线/在线语音、屏幕理解（Gemini Vision、OmniParser）、浏览器与桌面控制、PDF/DOCX 文档摄取检索、ADB 安卓工具与定时任务。面向需要对话窗口之外能力的个人用户，通过 CLI/GUI/Telegram/语音交互。提供风险评分、确认门与紧急停止等安全层。裸机安装需 FFmpeg、mpg123 等系统依赖；Docker 部署默认禁用多项主机交互，非桌面控制替代。",
+  "highlights": [
+   "统一 LLM 编排：云端厂商 + Ollama 本地回退、多密钥轮换",
+   "mem0 集成与 ChromaDB 本地向量存储、混合检索",
+   "语音（唤醒词/VAD/离线 STT）与视觉/桌面/浏览器/ADB 控制一体化",
+   "风险评分、确认门、紧急停止等安全护栏层"
+  ],
+  "use_cases": [
+   "通过语音或 Telegram 与本地助手对话并让它操作桌面与浏览器",
+   "让助手摄取本地 PDF/DOCX 文档并跨会话记忆检索",
+   "设定定时任务与目标让助手自主执行（带步数限制与循环检测）",
+   "通过 ADB 控制安卓设备并监控手机状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI助手",
+   "本地优先",
+   "语音交互",
+   "桌面自动化",
+   "LLM编排"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "browser-automation",
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L27: NOVA is a Python desktop assistant that places a single orchestration layer over language models, persistent memory, voi",
+   "L29: NOVA is designed for workflows that need more than a chat window. It can route requests across configured cloud provider"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

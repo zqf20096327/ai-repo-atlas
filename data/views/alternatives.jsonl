@@ -5,5 +5,5 @@
 {"product": "GitHub Copilot", "repos": ["Natively-AI-assistant/natively-cluely-ai-assistant", "TabbyML/tabby", "anjerodev/commitollama", "ianustec/neura-office", "maruakshay/miii-cli", "meeehdi-dev/bropilot.nvim", "timwuhaotian/the-pair", "zhikunqingtao/zhikuncode"], "n": 8}
 {"product": "Hugging Face", "repos": ["NLPOptimize/flash-tokenizer", "OpenCSGs/csghub", "marcelroed/gigatoken"], "n": 3}
 {"product": "LangChain", "repos": ["Mangaba-ai/mangaba_ai", "ModelEngine-Group/fit-framework", "OoriData/OgbujiPT", "nMaroulis/protolink", "stanford-mast/a1", "swarmclawai/swarmclaw"], "n": 6}
-{"product": "Lovable", "repos": ["OpenCoworkAI/open-codesign", "buildingopen/openpage", "davidmonterocrespo24/DaveLovable", "dyad-sh/dyad", "polterguy/magic", "sa4hnd/vibra-code", "sammwyy/singulary", "tinykit-studio/tinykit"], "n": 8}
+{"product": "Lovable", "repos": ["OpenCoworkAI/open-codesign", "SimaDevelopment/opsiforce", "buildingopen/openpage", "davidmonterocrespo24/DaveLovable", "dyad-sh/dyad", "polterguy/magic", "sa4hnd/vibra-code", "sammwyy/singulary", "tinykit-studio/tinykit"], "n": 9}
 {"product": "Perplexity", "repos": ["edoigtrd/ubiquite", "xprivo/ai-chat"], "n": 2}

@@ -1,1 +1,76 @@
-{"fn": "someben/treebank", "sha": "e9cbba7c5458", "source": "readme", "identity": {"one_liner": "Ruby 加载 SST 情感树库与 word2vec 索引的科研工具库", "review": "Ruby 工具库，读取斯坦福情感树库（SST）的五个管道分隔文件与父指针编码，重建每句的句法分析树并输出短语到情感分数的映射，可将树渲染为按情感灰度着色的 SVG。另含一个脚本，读取二进制 word2vec 模型并生成字词字节偏移加 10 位局部敏感哈希的 JSON 索引，支持不加载整个模型即可查询单词向量或近邻。面向 NLP/机器学习科研用户，需自行下载 SST 数据并安装 ruby-graphviz、gsl 等 gem。项目写于 2013 年。", "highlights": ["重建 SST 解析树并输出短语情感映射（11,855 句影评）", "树渲染为按情感灰度着色的 SVG", "word2vec 二进制模型的 10 位 LSH 索引，可不载入内存查询向量与近邻"], "use_cases": ["加载 SST 数据做情感分析研究", "对大规模 word2vec 模型做低内存的向量查找"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["NLP", "情感分析", "数据集工具", "word2vec", "科研工具"], "domain": "NLP/机器学习数据工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Ruby tools for the Stanford Sentiment Treebank", "L16: |`src/_stanford_sentiment_treebank.rb`|Loads the SST, rebuilds each sentence's parse tree, and yields phrase-to-sentimen", "L17: |`src/build_word2vec_index.rb`|Reads a binary word2vec `.bin` file and writes a JSON index of each word's byte offset an"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "someben/treebank",
+ "sha": "e9cbba7c5458",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Ruby 加载 SST 情感树库与 word2vec 索引的科研工具库",
+  "review": "Ruby 工具库，读取斯坦福情感树库（SST）的五个管道分隔文件与父指针编码，重建每句的句法分析树并输出短语到情感分数的映射，可将树渲染为按情感灰度着色的 SVG。另含一个脚本，读取二进制 word2vec 模型并生成字词字节偏移加 10 位局部敏感哈希的 JSON 索引，支持不加载整个模型即可查询单词向量或近邻。面向 NLP/机器学习科研用户，需自行下载 SST 数据并安装 ruby-graphviz、gsl 等 gem。项目写于 2013 年。",
+  "highlights": [
+   "重建 SST 解析树并输出短语情感映射（11,855 句影评）",
+   "树渲染为按情感灰度着色的 SVG",
+   "word2vec 二进制模型的 10 位 LSH 索引，可不载入内存查询向量与近邻"
+  ],
+  "use_cases": [
+   "加载 SST 数据做情感分析研究",
+   "对大规模 word2vec 模型做低内存的向量查找"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "NLP",
+   "情感分析",
+   "数据集工具",
+   "word2vec",
+   "科研工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Ruby tools for the Stanford Sentiment Treebank",
+   "L16: |`src/_stanford_sentiment_treebank.rb`|Loads the SST, rebuilds each sentence's parse tree, and yields phrase-to-sentimen",
+   "L17: |`src/build_word2vec_index.rb`|Reads a binary word2vec `.bin` file and writes a JSON index of each word's byte offset an"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,72 @@
-{"fn": "Wangmerlyn/KeepGPU", "sha": "51e4aa952cc7", "source": "readme", "identity": {"one_liner": "保持共享 GPU 占用的 CLI 工具：按需申请轻量显存占用", "review": "面向共享机器用户的命令行工具，通过周期性申请指定量的显存（如 1GiB、间隔 60 秒）维持 GPU 处于被占用状态，仅在利用率回退允许时分配，Ctrl+C 即释放。后端依赖 PyTorch 能识别目标设备，支持 CUDA、ROCm/HIP 与 Apple Silicon MPS。以 pip 安装的 Python 包形式提供，发布于 PyPI，文档含安装选项与硬件检查指引。", "highlights": ["按 GPU ID 与显存额度周期性申请占用的 CLI", "仅在利用率回退允许时分配，显存信号轻量", "支持 CUDA、ROCm/HIP、Apple Silicon MPS（经 PyTorch）"], "use_cases": ["在共享集群上防止空闲 GPU 被他人抢占", "需要保持 GPU 分配状态的调试或占位场景"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": "gpu-8g", "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["GPU管理", "HPC", "CLI工具", "集群共享"], "domain": "HPC/系统工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: KeepGPU is a small, polite GPU keeper for shared machines. It allocates only", "L18: Press `Ctrl+C` to release. CUDA, ROCm/HIP, and Apple Silicon MPS are supported"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Wangmerlyn/KeepGPU",
+ "sha": "51e4aa952cc7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "保持共享 GPU 占用的 CLI 工具：按需申请轻量显存占用",
+  "review": "面向共享机器用户的命令行工具，通过周期性申请指定量的显存（如 1GiB、间隔 60 秒）维持 GPU 处于被占用状态，仅在利用率回退允许时分配，Ctrl+C 即释放。后端依赖 PyTorch 能识别目标设备，支持 CUDA、ROCm/HIP 与 Apple Silicon MPS。以 pip 安装的 Python 包形式提供，发布于 PyPI，文档含安装选项与硬件检查指引。",
+  "highlights": [
+   "按 GPU ID 与显存额度周期性申请占用的 CLI",
+   "仅在利用率回退允许时分配，显存信号轻量",
+   "支持 CUDA、ROCm/HIP、Apple Silicon MPS（经 PyTorch）"
+  ],
+  "use_cases": [
+   "在共享集群上防止空闲 GPU 被他人抢占",
+   "需要保持 GPU 分配状态的调试或占位场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GPU管理",
+   "HPC",
+   "CLI工具",
+   "集群共享"
+  ],
+  "domain": "HPC/系统工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: KeepGPU is a small, polite GPU keeper for shared machines. It allocates only",
+   "L18: Press `Ctrl+C` to release. CUDA, ROCm/HIP, and Apple Silicon MPS are supported"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

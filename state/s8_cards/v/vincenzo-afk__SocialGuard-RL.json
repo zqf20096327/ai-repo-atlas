@@ -1,1 +1,78 @@
-{"fn": "vincenzo-afk/SocialGuard-RL", "sha": "8cf38d995284", "source": "readme", "identity": {"one_liner": "社媒内容审核策略的强化学习训练与评测环境", "review": "提供三个合成、可设种子的 Gymnasium 兼容强化学习环境（垃圾账号、错误信息扩散、协调性虚假行为集群），代理观察 68 维状态、从五种审核动作中选择，按 YAML 配置的奖励模型获得结构化回报。同时通过 FastAPI 暴露 OpenEnv 风格 HTTP 端点，附 Stable-Baselines3 PPO 训练管线、确定性基线评分器与 Streamlit 看板。面向研究与基准测试，明确声明非生产审核系统。", "highlights": ["三个任务轨道共享 Discrete(5) 动作空间与 68 维观测", "奖励模型含正确性、误报成本、附带损害、速度、上报惩罚的结构化分解", "Gymnasium Python 接口与 OpenEnv 风格 FastAPI 服务双通道", "PPO 训练管线、规则基线评分器与 Streamlit 实验看板"], "use_cases": ["在受控环境中训练和比较内容审核策略", "跨垃圾账号、错误信息、协同虚假行为三类场景做基准评测", "研究干预精度与附带损害等指标的权衡"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["强化学习", "内容审核", "ai-safety", "基准评测", "Gymnasium环境"], "domain": "AI 安全/内容审核", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L11: SocialGuard-RL provides synthetic, seeded environments for training and evaluating moderation policies as **sequential d", "L33: |PPO training|Stable-Baselines3 PPO pipeline with optional curriculum|`training/train_ppo.py`|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vincenzo-afk/SocialGuard-RL",
+ "sha": "8cf38d995284",
+ "source": "readme",
+ "identity": {
+  "one_liner": "社媒内容审核策略的强化学习训练与评测环境",
+  "review": "提供三个合成、可设种子的 Gymnasium 兼容强化学习环境（垃圾账号、错误信息扩散、协调性虚假行为集群），代理观察 68 维状态、从五种审核动作中选择，按 YAML 配置的奖励模型获得结构化回报。同时通过 FastAPI 暴露 OpenEnv 风格 HTTP 端点，附 Stable-Baselines3 PPO 训练管线、确定性基线评分器与 Streamlit 看板。面向研究与基准测试，明确声明非生产审核系统。",
+  "highlights": [
+   "三个任务轨道共享 Discrete(5) 动作空间与 68 维观测",
+   "奖励模型含正确性、误报成本、附带损害、速度、上报惩罚的结构化分解",
+   "Gymnasium Python 接口与 OpenEnv 风格 FastAPI 服务双通道",
+   "PPO 训练管线、规则基线评分器与 Streamlit 实验看板"
+  ],
+  "use_cases": [
+   "在受控环境中训练和比较内容审核策略",
+   "跨垃圾账号、错误信息、协同虚假行为三类场景做基准评测",
+   "研究干预精度与附带损害等指标的权衡"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "内容审核",
+   "ai-safety",
+   "基准评测",
+   "Gymnasium环境"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: SocialGuard-RL provides synthetic, seeded environments for training and evaluating moderation policies as **sequential d",
+   "L33: |PPO training|Stable-Baselines3 PPO pipeline with optional curriculum|`training/train_ppo.py`|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

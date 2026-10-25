@@ -1,1 +1,83 @@
-{"fn": "tianji-qingtian/AI-Native-Code", "sha": "0697bda278f1", "source": "readme", "identity": {"one_liner": "面向 Claude Code 用户的 AI-native 开发工作流方法论文档集", "review": "一套以文档为主的开发方法论仓库：核心为 4-Phase 框架（意图凝练→契约骨架→机器可读契约网络→意图驱动多 Agent），区分空项目与已有源码两种接入场景，并附反模式速查表与按场景标注的加速数据（30-50% / 10-30%）。面向以 Claude Code 或同类 AI agent CLI 为主力工具的工程师与 tech lead。附带可执行的 Claude Code skill（复制到 ~/.claude/skills 后自动加载并引导流程）。声明为 v0.1 初版，将随试点结果更新。", "highlights": ["4-Phase 框架：意图凝练→契约骨架→契约网络→意图驱动多 Agent", "空项目（前瞻）与已有源码（考古）两种接入场景", "反模式速查表与机器可读契约（pytest/mypy/linter）作为真相源", "提供可复制安装的 Claude Code skill 自动引导流程"], "use_cases": ["用 Claude Code 开新项目时按 4-Phase 流程组织多 Agent 协作", "在已有代码库上以考古模式接入该工作流并建立契约网络", "查阅反模式清单避免 AI 协作开发中的常见坑"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [71]}}, "links": {"scenario_tags": ["开发方法论", "multi-agent 工作流", "Claude Code skill", "软件工程", "文档型仓库"], "domain": "软件开发方法论/AI 辅助工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "中文方法论正文文档命名"]}, "trust": {"confidence": "high", "evidence": ["L3: > AI-native 开发的工程方法论——核心不是\"让 AI 自主\"，是让多 Agent 在共享契约下并行干活。", "L22: |`AI-Native-开发工作流方法论.md`|方法论本体：4-Phase 框架 + 空项目 / 已有源码两种场景 + 反模式速查|", "L23: |`skills/ai-native-code/`|Claude Code skill：方法论的可执行版本，Claude 自动加载并引导 4-Phase 流程|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tianji-qingtian/AI-Native-Code",
+ "sha": "0697bda278f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Claude Code 用户的 AI-native 开发工作流方法论文档集",
+  "review": "一套以文档为主的开发方法论仓库：核心为 4-Phase 框架（意图凝练→契约骨架→机器可读契约网络→意图驱动多 Agent），区分空项目与已有源码两种接入场景，并附反模式速查表与按场景标注的加速数据（30-50% / 10-30%）。面向以 Claude Code 或同类 AI agent CLI 为主力工具的工程师与 tech lead。附带可执行的 Claude Code skill（复制到 ~/.claude/skills 后自动加载并引导流程）。声明为 v0.1 初版，将随试点结果更新。",
+  "highlights": [
+   "4-Phase 框架：意图凝练→契约骨架→契约网络→意图驱动多 Agent",
+   "空项目（前瞻）与已有源码（考古）两种接入场景",
+   "反模式速查表与机器可读契约（pytest/mypy/linter）作为真相源",
+   "提供可复制安装的 Claude Code skill 自动引导流程"
+  ],
+  "use_cases": [
+   "用 Claude Code 开新项目时按 4-Phase 流程组织多 Agent 协作",
+   "在已有代码库上以考古模式接入该工作流并建立契约网络",
+   "查阅反模式清单避免 AI 协作开发中的常见坑"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    71
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发方法论",
+   "multi-agent 工作流",
+   "Claude Code skill",
+   "软件工程",
+   "文档型仓库"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文方法论正文文档命名"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > AI-native 开发的工程方法论——核心不是\"让 AI 自主\"，是让多 Agent 在共享契约下并行干活。",
+   "L22: |`AI-Native-开发工作流方法论.md`|方法论本体：4-Phase 框架 + 空项目 / 已有源码两种场景 + 反模式速查|",
+   "L23: |`skills/ai-native-code/`|Claude Code skill：方法论的可执行版本，Claude 自动加载并引导 4-Phase 流程|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

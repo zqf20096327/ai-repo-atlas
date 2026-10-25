@@ -1,1 +1,77 @@
-{"fn": "tersekmatija/eWaSR", "sha": "1472469abda0", "source": "readme", "identity": {"one_liner": "面向嵌入式计算的海上障碍物检测网络 PyTorch 实现", "review": "eWaSR 的官方 PyTorch 实现：WaSR 的嵌入式计算变体，基于轻量 transformer 设计，用于无人水面艇（USV）的海面障碍物检测与语义分割。仓库提供 MaSTr1325 数据集上的预训练权重（ResNet-18 骨干，可选 IMU 输入）、训练脚本、推理脚本，并可导出 ONNX 与兼容 OAK-D 设备的 blob。训练依赖 PyTorch Lightning，日志经 TensorBoard 查看，代码与权重以 Apache-2.0 发布。", "highlights": ["WaSR 嵌入式变体，推理时间相比 WaSR 降低 10 倍以上", "提供 MaSTr1325 预训练权重（含 IMU 启用版本）", "可导出 ONNX 及 OAK-D 兼容 blob", "支持训练 WaSR 官方架构与 DeepLab 等多种骨干"], "use_cases": ["无人水面艇的实时海上障碍物检测", "在 OAK-D 等嵌入式设备上部署分割模型", "在 MaSTr1325 数据集上复现或训练检测模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": "cpu-ok", "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语义分割", "目标检测", "机器人感知", "嵌入式部署", " maritime/USV"], "domain": "机器人视觉/海事感知", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L9: The official PyTorch implementation of the **e**mbedded-compute **WaSR (eWaSR)** network [1]. Repository contains script", "L40: You can export the pre-trained model to ONNX and blob compatible with OAK-D device."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tersekmatija/eWaSR",
+ "sha": "1472469abda0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向嵌入式计算的海上障碍物检测网络 PyTorch 实现",
+  "review": "eWaSR 的官方 PyTorch 实现：WaSR 的嵌入式计算变体，基于轻量 transformer 设计，用于无人水面艇（USV）的海面障碍物检测与语义分割。仓库提供 MaSTr1325 数据集上的预训练权重（ResNet-18 骨干，可选 IMU 输入）、训练脚本、推理脚本，并可导出 ONNX 与兼容 OAK-D 设备的 blob。训练依赖 PyTorch Lightning，日志经 TensorBoard 查看，代码与权重以 Apache-2.0 发布。",
+  "highlights": [
+   "WaSR 嵌入式变体，推理时间相比 WaSR 降低 10 倍以上",
+   "提供 MaSTr1325 预训练权重（含 IMU 启用版本）",
+   "可导出 ONNX 及 OAK-D 兼容 blob",
+   "支持训练 WaSR 官方架构与 DeepLab 等多种骨干"
+  ],
+  "use_cases": [
+   "无人水面艇的实时海上障碍物检测",
+   "在 OAK-D 等嵌入式设备上部署分割模型",
+   "在 MaSTr1325 数据集上复现或训练检测模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语义分割",
+   "目标检测",
+   "机器人感知",
+   "嵌入式部署",
+   " maritime/USV"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: The official PyTorch implementation of the **e**mbedded-compute **WaSR (eWaSR)** network [1]. Repository contains script",
+   "L40: You can export the pre-trained model to ONNX and blob compatible with OAK-D device."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

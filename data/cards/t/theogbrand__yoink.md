@@ -33,7 +33,7 @@ YOINK 是一个 Claude Code 插件，以 AI agent 形式将第三方 Python 依�
 
 ## 场景标签
 
- · 领域:开发工具/AI Agent
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

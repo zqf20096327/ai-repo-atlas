@@ -1,1 +1,83 @@
-{"fn": "starhunt/star-cliproxy", "sha": "5216fc0193a9", "source": "readme", "identity": {"one_liner": "把已订阅的 AI 编程 CLI 封装成本地 OpenAI/Anthropic 兼容 API 的代理网关", "review": "面向已持有 Claude Max、ChatGPT Pro 等订阅的开发者：将本地安装的 6 种 AI 编程 CLI（Claude Code、Codex、Copilot、Antigravity、Grok、Kimi）以子进程方式运行，统一暴露为本地 OpenAI 兼容端点（/v1/chat/completions、/v1/messages 等）及 Anthropic Messages API，按订阅计费而非按 token。支持任意 OpenAI 兼容 HTTP 服务器（vLLM、Ollama 等）与自定义插件作后端，提供别名模型映射、优先级回退、四种执行模式、原生 SSE 流式输出与带 Playground 的 Web 仪表盘。限制：需 Node.js 20+ 与至少一个完成登录的 CLI；订阅使用仍受各提供商服务条款约束。", "highlights": ["6 种内置 CLI 后端 + OpenAI 兼容 HTTP 服务器 + 自定义插件", "同时提供 OpenAI 兼容与 Anthropic Messages API 端点", "别名模型映射、优先级回退链与 4 种执行模式（cli/sdk/app-server/channel-worker）", "带 Playground、请求追踪与密钥管理的 Web 仪表盘"], "use_cases": ["用已有的 Claude Max / ChatGPT Pro 订阅替代按 token 计费的 API 调用", "让现有 OpenAI SDK 代码仅改 base_url 即接入多家 CLI 模型", "在本地统一监控和管理多个 AI CLI 后端的请求与密钥"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["API网关/代理", "LLM基础设施", "CLI工具", "订阅复用"], "domain": "LLM 基础设施/API 网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "xai", "ollama", "vllm"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 提供韩语（한국어）版本"]}, "trust": {"confidence": "high", "evidence": ["L11: star-cliproxy runs your installed AI CLIs as subprocesses and exposes them behind a single local **OpenAI-compatible** e", "L25: - 🔌 **One endpoint, many backends** — 6 active built-in CLIs (Claude, Codex, Copilot, Antigravity, Grok, Kimi) **+** any"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "starhunt/star-cliproxy",
+ "sha": "5216fc0193a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把已订阅的 AI 编程 CLI 封装成本地 OpenAI/Anthropic 兼容 API 的代理网关",
+  "review": "面向已持有 Claude Max、ChatGPT Pro 等订阅的开发者：将本地安装的 6 种 AI 编程 CLI（Claude Code、Codex、Copilot、Antigravity、Grok、Kimi）以子进程方式运行，统一暴露为本地 OpenAI 兼容端点（/v1/chat/completions、/v1/messages 等）及 Anthropic Messages API，按订阅计费而非按 token。支持任意 OpenAI 兼容 HTTP 服务器（vLLM、Ollama 等）与自定义插件作后端，提供别名模型映射、优先级回退、四种执行模式、原生 SSE 流式输出与带 Playground 的 Web 仪表盘。限制：需 Node.js 20+ 与至少一个完成登录的 CLI；订阅使用仍受各提供商服务条款约束。",
+  "highlights": [
+   "6 种内置 CLI 后端 + OpenAI 兼容 HTTP 服务器 + 自定义插件",
+   "同时提供 OpenAI 兼容与 Anthropic Messages API 端点",
+   "别名模型映射、优先级回退链与 4 种执行模式（cli/sdk/app-server/channel-worker）",
+   "带 Playground、请求追踪与密钥管理的 Web 仪表盘"
+  ],
+  "use_cases": [
+   "用已有的 Claude Max / ChatGPT Pro 订阅替代按 token 计费的 API 调用",
+   "让现有 OpenAI SDK 代码仅改 base_url 即接入多家 CLI 模型",
+   "在本地统一监控和管理多个 AI CLI 后端的请求与密钥"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关/代理",
+   "LLM基础设施",
+   "CLI工具",
+   "订阅复用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供韩语（한국어）版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: star-cliproxy runs your installed AI CLIs as subprocesses and exposes them behind a single local **OpenAI-compatible** e",
+   "L25: - 🔌 **One endpoint, many backends** — 6 active built-in CLIs (Claude, Codex, Copilot, Antigravity, Grok, Kimi) **+** any"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,77 @@
-{"fn": "velane-sh/velane", "sha": "9326e77d0400", "source": "readme", "identity": {"one_liner": "面向 agent 与小型应用的云部署平台：沙箱执行+800+集成", "review": "自托管的 agentic 云基础设施：通过 git push-to-deploy 部署 agent、API 与小型软件，提供 dev/staging/prod 三环境、版本回滚、金丝雀分流、AES-256-GCM 加密的 secrets 管理、每次调用的日志指标与重放。代码以 TypeScript/Bun 或 Python 片段形式发布，运行于零冷启动安全沙箱，可选 Firecracker VM 隔离（需 KVM）。内置 800+ OAuth 集成，令牌自动注入；提供 MCP server、CLI 与可嵌入仪表盘。开发者需自行 clone 仓库并以 docker compose 启动。", "highlights": ["git push-to-deploy 与 dev/staging/prod 三环境、即时回滚、金丝雀分流", "800+ OAuth 集成，令牌自动注入，代码不接触凭据", "沙箱化 Bun/Python 执行，可选 Firecracker VM 隔离与出站策略管控", "MCP server 接入 Cursor/Claude Code，AI 助手可在编辑器内创建、发布、调用 snippet"], "use_cases": ["自托管部署 agent、API 与小型工作流并管理多环境", "让 AI 编码助手通过 MCP 直接构建和发布服务", "为 agent 集成 SaaS 凭据而不在代码中暴露 secrets"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent部署", "iPaaS", "工作流编排", "沙箱执行", "自托管云"], "domain": "云计算/agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L4:  Deploy agents, APIs, and small software with version control, dev, staging, and production environments, secrets manage", "L59: - **MCP server:** connect Cursor or Claude Code directly to generate and deploy snippets"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "velane-sh/velane",
+ "sha": "9326e77d0400",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 agent 与小型应用的云部署平台：沙箱执行+800+集成",
+  "review": "自托管的 agentic 云基础设施：通过 git push-to-deploy 部署 agent、API 与小型软件，提供 dev/staging/prod 三环境、版本回滚、金丝雀分流、AES-256-GCM 加密的 secrets 管理、每次调用的日志指标与重放。代码以 TypeScript/Bun 或 Python 片段形式发布，运行于零冷启动安全沙箱，可选 Firecracker VM 隔离（需 KVM）。内置 800+ OAuth 集成，令牌自动注入；提供 MCP server、CLI 与可嵌入仪表盘。开发者需自行 clone 仓库并以 docker compose 启动。",
+  "highlights": [
+   "git push-to-deploy 与 dev/staging/prod 三环境、即时回滚、金丝雀分流",
+   "800+ OAuth 集成，令牌自动注入，代码不接触凭据",
+   "沙箱化 Bun/Python 执行，可选 Firecracker VM 隔离与出站策略管控",
+   "MCP server 接入 Cursor/Claude Code，AI 助手可在编辑器内创建、发布、调用 snippet"
+  ],
+  "use_cases": [
+   "自托管部署 agent、API 与小型工作流并管理多环境",
+   "让 AI 编码助手通过 MCP 直接构建和发布服务",
+   "为 agent 集成 SaaS 凭据而不在代码中暴露 secrets"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent部署",
+   "iPaaS",
+   "工作流编排",
+   "沙箱执行",
+   "自托管云"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4:  Deploy agents, APIs, and small software with version control, dev, staging, and production environments, secrets manage",
+   "L59: - **MCP server:** connect Cursor or Claude Code directly to generate and deploy snippets"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

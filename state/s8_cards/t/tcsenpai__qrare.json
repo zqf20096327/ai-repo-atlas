@@ -1,1 +1,75 @@
-{"fn": "tcsenpai/qrare", "sha": "6b50d33ec845", "source": "readme", "identity": {"one_liner": "把二进制文件转成 QR 码图片并可还原的 Python CLI 工具", "review": "用于在任意二进制文件与 QR 码图片之间双向转换的 Python 命令行工具：编码时读取文件、zlib 压缩、按可配置大小分块，每块附带索引/总数/文件名/哈希元数据生成 QR 码 PNG；解码时扫描校验、按序重组、解压并用 SHA-256 验证完整性。提供 fast/compact/robust 预设、analyze 与估算命令，也支持以 Python 库形式调用。README 未出现 AI/LLM 相关功能，主题标签中的 ai/llm 在正文无对应内容。运行需安装 ZBar 系统库用于 QR 读取。", "highlights": ["文件↔QR 码双向转换，含 zlib 压缩与 SHA-256 完整性校验", "可配置分块大小、QR 版本(1-40)、压缩级别与纠错级别", "fast/compact/robust 三种预设及 analyze 分析/估算命令", "提供 CLI 与程序化 API（BinaryQRConverter 等模块化类）"], "use_cases": ["把文件以 QR 码图片形式离线传递或归档", "扫描后无损还原原始二进制文件并校验完整性", "批量处理多个文件的编码转换"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["QR码", "文件编码/传输", "CLI工具", "离线数据搬运"], "domain": "文件转换/命令行工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: A powerful and modular Python CLI tool for converting binary files to QR codes and reconstructing them back to the origi", "L211: 1. **📁 File Reading**: Binary file is read into memory", "L223: 5. **🔒 Verification**: SHA-256 hash confirms file integrity"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tcsenpai/qrare",
+ "sha": "6b50d33ec845",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把二进制文件转成 QR 码图片并可还原的 Python CLI 工具",
+  "review": "用于在任意二进制文件与 QR 码图片之间双向转换的 Python 命令行工具：编码时读取文件、zlib 压缩、按可配置大小分块，每块附带索引/总数/文件名/哈希元数据生成 QR 码 PNG；解码时扫描校验、按序重组、解压并用 SHA-256 验证完整性。提供 fast/compact/robust 预设、analyze 与估算命令，也支持以 Python 库形式调用。README 未出现 AI/LLM 相关功能，主题标签中的 ai/llm 在正文无对应内容。运行需安装 ZBar 系统库用于 QR 读取。",
+  "highlights": [
+   "文件↔QR 码双向转换，含 zlib 压缩与 SHA-256 完整性校验",
+   "可配置分块大小、QR 版本(1-40)、压缩级别与纠错级别",
+   "fast/compact/robust 三种预设及 analyze 分析/估算命令",
+   "提供 CLI 与程序化 API（BinaryQRConverter 等模块化类）"
+  ],
+  "use_cases": [
+   "把文件以 QR 码图片形式离线传递或归档",
+   "扫描后无损还原原始二进制文件并校验完整性",
+   "批量处理多个文件的编码转换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "QR码",
+   "文件编码/传输",
+   "CLI工具",
+   "离线数据搬运"
+  ],
+  "domain": "文件转换/命令行工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A powerful and modular Python CLI tool for converting binary files to QR codes and reconstructing them back to the origi",
+   "L211: 1. **📁 File Reading**: Binary file is read into memory",
+   "L223: 5. **🔒 Verification**: SHA-256 hash confirms file integrity"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

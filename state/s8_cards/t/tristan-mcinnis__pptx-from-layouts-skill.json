@@ -1,1 +1,76 @@
-{"fn": "tristan-mcinnis/pptx-from-layouts-skill", "sha": "0e4ba28a4a86", "source": "readme", "identity": {"one_liner": "按模板母版布局从 Markdown 生成 PPT 的 Claude Code 技能", "review": "面向 Claude Code 等 coding agent 的技能包，分三步生成演示文稿：pptx-profile 解析 .pptx 模板的母版布局生成布局目录，pptx-author 将内容标记为 [HINT: layout] 的大纲，pptx-from-layouts 填充到实际占位符输出 deck.pptx。内容放入模板既有占位符而非叠加文本框，附三个子代理（大纲架构/模板接入/QA）与编辑、重排、校验脚本，捆绑 Inner Chapter 演示模板，可一次性接入自有企业模板复用。需 Python 3.10+、python-pptx、pydantic。", "highlights": ["三步流水线：模板画像→大纲标注→按母版布局渲染", "通过 [HINT: layout_name] 将语义内容映射到模板真实布局", "附 pptx-outline-architect / template-onboarder / deck-qas 三个子代理", "edit.py 支持对既有文稿的局部修改与幻灯片重排"], "use_cases": ["用自有企业模板从 Markdown 大纲生成符合品牌规范的 PPT", "让 Claude Code 等 coding agent 代为撰写和渲染演示文稿", "对已生成的 deck 做小范围修改或幻灯片重排"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Claude Code 技能", "文档生成", "PPT/演示文稿", "agent技能", "办公自动化"], "domain": "办公文档生成/agent 技能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L51: Paste this into Claude Code, Codex, OpenCode, or any other coding agent and it'll", "L147: The skill ships three subagents (in `.claude/skills/pptx-from-layouts/agents/`,", "L24: Decks are built in three mapped steps — each is its own skill, so you can run"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tristan-mcinnis/pptx-from-layouts-skill",
+ "sha": "0e4ba28a4a86",
+ "source": "readme",
+ "identity": {
+  "one_liner": "按模板母版布局从 Markdown 生成 PPT 的 Claude Code 技能",
+  "review": "面向 Claude Code 等 coding agent 的技能包，分三步生成演示文稿：pptx-profile 解析 .pptx 模板的母版布局生成布局目录，pptx-author 将内容标记为 [HINT: layout] 的大纲，pptx-from-layouts 填充到实际占位符输出 deck.pptx。内容放入模板既有占位符而非叠加文本框，附三个子代理（大纲架构/模板接入/QA）与编辑、重排、校验脚本，捆绑 Inner Chapter 演示模板，可一次性接入自有企业模板复用。需 Python 3.10+、python-pptx、pydantic。",
+  "highlights": [
+   "三步流水线：模板画像→大纲标注→按母版布局渲染",
+   "通过 [HINT: layout_name] 将语义内容映射到模板真实布局",
+   "附 pptx-outline-architect / template-onboarder / deck-qas 三个子代理",
+   "edit.py 支持对既有文稿的局部修改与幻灯片重排"
+  ],
+  "use_cases": [
+   "用自有企业模板从 Markdown 大纲生成符合品牌规范的 PPT",
+   "让 Claude Code 等 coding agent 代为撰写和渲染演示文稿",
+   "对已生成的 deck 做小范围修改或幻灯片重排"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 技能",
+   "文档生成",
+   "PPT/演示文稿",
+   "agent技能",
+   "办公自动化"
+  ],
+  "domain": "办公文档生成/agent 技能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L51: Paste this into Claude Code, Codex, OpenCode, or any other coding agent and it'll",
+   "L147: The skill ships three subagents (in `.claude/skills/pptx-from-layouts/agents/`,",
+   "L24: Decks are built in three mapped steps — each is its own skill, so you can run"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

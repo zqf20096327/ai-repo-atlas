@@ -1,1 +1,81 @@
-{"fn": "typex-ink/Typex", "sha": "15a9766f23c4", "source": "readme", "identity": {"one_liner": "开源桌面 AI 语音输入工具：说话即转文字到任意应用", "review": "基于 Tauri 2 与 Rust 构建的桌面语音输入工具：按住全局快捷键说话，Typex 将清理后的文本（去填充词、修标点）直接注入当前光标位置。支持语音翻译、选中文本后用语音指令改写/翻译/总结的上下文助手。BYOK 模式，可接入 OpenAI 兼容 API、火山引擎/豆包 STT、Ollama 或自托管端点，也支持下载 SenseVoice、Qwen3-ASR、Whisper large-v3、Qwen GGUF 等本地模型离线使用。GPL-3.0 许可，无遥测。Windows/macOS 提供安装包。", "highlights": ["按住全局快捷键说话，文本清理后注入任意应用光标处", "BYOK：支持 OpenAI 兼容 API、Ollama、自托管端点等", "本地离线模型：SenseVoice、Qwen3-ASR、Whisper large-v3、Qwen GGUF", "选中文本后语音指令改写/翻译/总结，答案以只读弹窗展示"], "use_cases": ["在任意应用中用语音输入整理好的文字", "说一种语言输出另一种语言的文字", "完全本地离线完成语音转文字与指令处理"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["语音输入", "语音转文字", "桌面工具", "BYOK", "本地离线推理"], "domain": "桌面语音输入工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["双语 README（简体中文）", "支持火山引擎/豆包 STT", "中英双向翻译示例"]}, "trust": {"confidence": "high", "evidence": ["L11: Typex is an open-source, desktop AI voice input tool. Hold a shortcut and speak — Typex types the cleaned-up text direct", "L15: - **Native-grade performance**: Built on Tauri 2 and Rust. Recording, global shortcuts, provider calls, local inference,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "typex-ink/Typex",
+ "sha": "15a9766f23c4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源桌面 AI 语音输入工具：说话即转文字到任意应用",
+  "review": "基于 Tauri 2 与 Rust 构建的桌面语音输入工具：按住全局快捷键说话，Typex 将清理后的文本（去填充词、修标点）直接注入当前光标位置。支持语音翻译、选中文本后用语音指令改写/翻译/总结的上下文助手。BYOK 模式，可接入 OpenAI 兼容 API、火山引擎/豆包 STT、Ollama 或自托管端点，也支持下载 SenseVoice、Qwen3-ASR、Whisper large-v3、Qwen GGUF 等本地模型离线使用。GPL-3.0 许可，无遥测。Windows/macOS 提供安装包。",
+  "highlights": [
+   "按住全局快捷键说话，文本清理后注入任意应用光标处",
+   "BYOK：支持 OpenAI 兼容 API、Ollama、自托管端点等",
+   "本地离线模型：SenseVoice、Qwen3-ASR、Whisper large-v3、Qwen GGUF",
+   "选中文本后语音指令改写/翻译/总结，答案以只读弹窗展示"
+  ],
+  "use_cases": [
+   "在任意应用中用语音输入整理好的文字",
+   "说一种语言输出另一种语言的文字",
+   "完全本地离线完成语音转文字与指令处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "语音输入",
+   "语音转文字",
+   "桌面工具",
+   "BYOK",
+   "本地离线推理"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "asr",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README（简体中文）",
+   "支持火山引擎/豆包 STT",
+   "中英双向翻译示例"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Typex is an open-source, desktop AI voice input tool. Hold a shortcut and speak — Typex types the cleaned-up text direct",
+   "L15: - **Native-grade performance**: Built on Tauri 2 and Rust. Recording, global shortcuts, provider calls, local inference,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

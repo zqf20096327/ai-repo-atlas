@@ -1,1 +1,78 @@
-{"fn": "swiss-ai/apertus-finetuning-recipes", "sha": "b01006368b8e", "source": "readme", "identity": {"one_liner": "Apertus 系列模型的全参数与 LoRA 微调配方仓库", "review": "由 Swiss AI Initiative 维护的微调脚本与配置集合，面向 Apertus 系列开源模型（1.5/1.1 Mini/1.0）。基于 TRL 框架构建，支持 LoRA 单 GPU 训练、全参数 4 GPU（DeepSpeed zero3）训练及多节点训练；通过 YAML 配置切换模型规模、数据集与超参，训练产物包含 LoRA 适配器权重与完整模型，可用 transformers/peft 加载。限制：1.5 版权重需额外配置才有完整支持；70B 全参数训练需多 GPU 与较长时间。", "highlights": ["覆盖 LoRA、全参数与多节点（3 节点 x 4 GPU）训练路径", "基于 TRL 框架，配置 YAML 可切换模型与数据集", "输出 LoRA 适配器或完整模型，可用 transformers/peft 加载", "兼容 Apertus 全版本模型家族"], "use_cases": ["在自己的数据集上对 Apertus 模型做 SFT 微调", "用单 GPU 对小模型做 LoRA 训练", "多节点集群上做 70B 级全参数训练"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [15]}}, "links": {"scenario_tags": ["LLM微调", "训练配方", "TRL", "开源模型"], "domain": "LLM 训练/微调", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This repository provides fine-tuning recipes for the Apertus models from the Swiss AI Initiative, supporting both full-p", "L19: Based on the TRL framework (we may add others in the future), these recipes are optimized for efficient training on mode"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "swiss-ai/apertus-finetuning-recipes",
+ "sha": "b01006368b8e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apertus 系列模型的全参数与 LoRA 微调配方仓库",
+  "review": "由 Swiss AI Initiative 维护的微调脚本与配置集合，面向 Apertus 系列开源模型（1.5/1.1 Mini/1.0）。基于 TRL 框架构建，支持 LoRA 单 GPU 训练、全参数 4 GPU（DeepSpeed zero3）训练及多节点训练；通过 YAML 配置切换模型规模、数据集与超参，训练产物包含 LoRA 适配器权重与完整模型，可用 transformers/peft 加载。限制：1.5 版权重需额外配置才有完整支持；70B 全参数训练需多 GPU 与较长时间。",
+  "highlights": [
+   "覆盖 LoRA、全参数与多节点（3 节点 x 4 GPU）训练路径",
+   "基于 TRL 框架，配置 YAML 可切换模型与数据集",
+   "输出 LoRA 适配器或完整模型，可用 transformers/peft 加载",
+   "兼容 Apertus 全版本模型家族"
+  ],
+  "use_cases": [
+   "在自己的数据集上对 Apertus 模型做 SFT 微调",
+   "用单 GPU 对小模型做 LoRA 训练",
+   "多节点集群上做 70B 级全参数训练"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM微调",
+   "训练配方",
+   "TRL",
+   "开源模型"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository provides fine-tuning recipes for the Apertus models from the Swiss AI Initiative, supporting both full-p",
+   "L19: Based on the TRL framework (we may add others in the future), these recipes are optimized for efficient training on mode"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

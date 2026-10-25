@@ -1,1 +1,76 @@
-{"fn": "vincenzo-afk/CraftUI", "sha": "86426c5c0f9a", "source": "readme", "identity": {"one_liner": "浏览器端 UI 组件试验场：实时调参预览并导出 HTML/CSS", "review": "无需构建系统的自包含静态网页应用：提供按钮、卡片、弹窗、加载器、阴影、渐变六类组件的实时控制与预览，生成可复制的 HTML/CSS 代码并支持导出独立 HTML 文件。可选接入 Cloudflare Workers AI（@cf/moonshotai/kimi-k2.6 模型），由用户在浏览器面板输入 Cloudflare 凭据后按提示词生成组件代码；凭据存于 localStorage，无服务端代理。核心功能不依赖 API key，运行与部署均为纯静态文件。", "highlights": ["六类 UI 组件的实时控件与代码生成", "可选 Cloudflare Workers AI 生成组件代码（kimi-k2.6）", "明暗主题切换并持久化到 localStorage", "复制到剪贴板与导出独立 HTML 文件"], "use_cases": ["快速试验并微调常用 UI 组件样式后取用代码", "让 AI 按提示词生成组件 HTML/CSS 作为起点", "在任意静态主机上部署使用，无需构建工具"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["前端工具", "代码生成", "UI组件试验场", "静态网页应用"], "domain": "前端开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L26: CraftUI is a self-contained static web application for experimenting with common user-interface patterns without a build", "L28: The playground also includes an optional client-side integration with Cloudflare Workers AI using the `@cf/moonshotai/ki"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vincenzo-afk/CraftUI",
+ "sha": "86426c5c0f9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器端 UI 组件试验场：实时调参预览并导出 HTML/CSS",
+  "review": "无需构建系统的自包含静态网页应用：提供按钮、卡片、弹窗、加载器、阴影、渐变六类组件的实时控制与预览，生成可复制的 HTML/CSS 代码并支持导出独立 HTML 文件。可选接入 Cloudflare Workers AI（@cf/moonshotai/kimi-k2.6 模型），由用户在浏览器面板输入 Cloudflare 凭据后按提示词生成组件代码；凭据存于 localStorage，无服务端代理。核心功能不依赖 API key，运行与部署均为纯静态文件。",
+  "highlights": [
+   "六类 UI 组件的实时控件与代码生成",
+   "可选 Cloudflare Workers AI 生成组件代码（kimi-k2.6）",
+   "明暗主题切换并持久化到 localStorage",
+   "复制到剪贴板与导出独立 HTML 文件"
+  ],
+  "use_cases": [
+   "快速试验并微调常用 UI 组件样式后取用代码",
+   "让 AI 按提示词生成组件 HTML/CSS 作为起点",
+   "在任意静态主机上部署使用，无需构建工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "前端工具",
+   "代码生成",
+   "UI组件试验场",
+   "静态网页应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: CraftUI is a self-contained static web application for experimenting with common user-interface patterns without a build",
+   "L28: The playground also includes an optional client-side integration with Cloudflare Workers AI using the `@cf/moonshotai/ki"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

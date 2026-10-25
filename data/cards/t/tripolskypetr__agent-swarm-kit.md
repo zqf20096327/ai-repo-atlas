@@ -33,7 +33,7 @@ TypeScript 多智能体编排库，不绑定特定框架：通过 addAgent/addSw
 
 ## 场景标签
 
- · 领域:LLM 基础设施/多智能体框架
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

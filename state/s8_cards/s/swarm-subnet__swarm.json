@@ -1,1 +1,78 @@
-{"fn": "swarm-subnet/swarm", "sha": "7f4b14e6d256", "source": "readme", "identity": {"one_liner": "开放无人机自主飞行竞技场：训练模型参赛并排名", "review": "Bittensor Subnet 124 上的无人机导航基准与竞赛网络：参与者在仿真中训练以深度相机与飞行状态为输入、输出飞行指令的模型，提交后由验证者在每个 14 天周期生成的 1,000 个全新世界中评分，按成功(45%)、速度(45%)、安全(10%)计算 0-1 分并登上公开排行榜。设 5 个任务，奖励按 King of the Hill 机制由网络自动发放。提供 swarm CLI 本地打包、基准测试与可视化命令，本地使用与验证者相同的仿真器和评分路径；附开源实机 Langostino 的搭建指南，支持训练成果迁移到真实硬件。", "highlights": ["每 epoch 1,000 个新鲜世界，5 个任务，60 秒飞行，公开排行榜", "深度相机+飞行状态输入，模型 50Hz 输出飞行指令，无地图无 GPS", "King of the Hill 奖励机制，奖励前五任冠军，由 Bittensor 网络自动发放", "swarm CLI 提供本地打包、基准评分与可视化，与验证者同一路径"], "use_cases": ["训练无人机导航模型并在公开排行榜上与其他模型竞技", "在本地仿真环境中迭代对比模型表现后再提交", "运行验证者节点参与网络评分", "按开源指南搭建 Langostino 实机，把仿真训练的模型飞到真实硬件上"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器人仿真", "强化学习竞赛", "Bittensor子网", "无人机导航", "基准评测"], "domain": "机器人/具身智能竞赛平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L21: **Swarm is the open arena that settles it.** Anyone can train a drone pilot, submit it, and watch it compete on a public", "L127: Everything happens from the terminal, with no dashboards to wrangle. Train, package, and score your model with a handful"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "swarm-subnet/swarm",
+ "sha": "7f4b14e6d256",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开放无人机自主飞行竞技场：训练模型参赛并排名",
+  "review": "Bittensor Subnet 124 上的无人机导航基准与竞赛网络：参与者在仿真中训练以深度相机与飞行状态为输入、输出飞行指令的模型，提交后由验证者在每个 14 天周期生成的 1,000 个全新世界中评分，按成功(45%)、速度(45%)、安全(10%)计算 0-1 分并登上公开排行榜。设 5 个任务，奖励按 King of the Hill 机制由网络自动发放。提供 swarm CLI 本地打包、基准测试与可视化命令，本地使用与验证者相同的仿真器和评分路径；附开源实机 Langostino 的搭建指南，支持训练成果迁移到真实硬件。",
+  "highlights": [
+   "每 epoch 1,000 个新鲜世界，5 个任务，60 秒飞行，公开排行榜",
+   "深度相机+飞行状态输入，模型 50Hz 输出飞行指令，无地图无 GPS",
+   "King of the Hill 奖励机制，奖励前五任冠军，由 Bittensor 网络自动发放",
+   "swarm CLI 提供本地打包、基准评分与可视化，与验证者同一路径"
+  ],
+  "use_cases": [
+   "训练无人机导航模型并在公开排行榜上与其他模型竞技",
+   "在本地仿真环境中迭代对比模型表现后再提交",
+   "运行验证者节点参与网络评分",
+   "按开源指南搭建 Langostino 实机，把仿真训练的模型飞到真实硬件上"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人仿真",
+   "强化学习竞赛",
+   "Bittensor子网",
+   "无人机导航",
+   "基准评测"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: **Swarm is the open arena that settles it.** Anyone can train a drone pilot, submit it, and watch it compete on a public",
+   "L127: Everything happens from the terminal, with no dashboards to wrangle. Train, package, and score your model with a handful"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

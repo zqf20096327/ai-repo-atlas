@@ -1,1 +1,75 @@
-{"fn": "vincenzo-afk/ReconGPT", "sha": "a9f273eef0b4", "source": "readme", "identity": {"one_liner": "给安全分析师的证据优先被动 OSINT 案卷工具，含 AI 助手", "review": "面向授权范围内的攻击面调查：接受域名、IP、URL、邮箱、用户名、组织、电话或 ASN 作为目标，按目标类型选择适用的被动采集器（共 40 个模块，如证书透明、DNS、WHOIS、Shodan、VirusTotal 等），通过 SSE 实时流式展示采集进度。产出带证据质量标签（direct/corroborated/context/lead）、来源计数、时效与限制的发现，配实体图谱与 JSON/Markdown/HTML 报告导出。含 AI 聊天助手，需自建 MySQL 数据库与 OAuth 配置。", "highlights": ["40 个被动采集模块，按目标类型自动选择", "发现携带证据质量标签（direct/corroborated/context/lead）与来源出处", "SSE 实时流式呈现长时间采集运行进度", "实体图谱、历史差量对比与 JSON/Markdown/HTML 案卷报告导出"], "use_cases": ["对授权目标做被动侦察并保留证据与缺口记录", "梳理域名/IP/用户名等公开信息之间的实体关联", "生成带证据账本与限制说明的可交付调查报告"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["OSINT", "网络安全/侦察", "证据溯源", "AI助手", "Web应用"], "domain": "网络安全/OSINT 侦察", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: ReconGPT is built for the first practical question in an investigation: **what can be corroborated from public informati", "L22: ReconGPT does not present a source snippet as proof. Findings carry evidence-quality and lead-status labels, source coun", "L120: The registry contains **40 passive modules**. Selectors are target-aware: a phone module will not run for a domain. The "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vincenzo-afk/ReconGPT",
+ "sha": "a9f273eef0b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给安全分析师的证据优先被动 OSINT 案卷工具，含 AI 助手",
+  "review": "面向授权范围内的攻击面调查：接受域名、IP、URL、邮箱、用户名、组织、电话或 ASN 作为目标，按目标类型选择适用的被动采集器（共 40 个模块，如证书透明、DNS、WHOIS、Shodan、VirusTotal 等），通过 SSE 实时流式展示采集进度。产出带证据质量标签（direct/corroborated/context/lead）、来源计数、时效与限制的发现，配实体图谱与 JSON/Markdown/HTML 报告导出。含 AI 聊天助手，需自建 MySQL 数据库与 OAuth 配置。",
+  "highlights": [
+   "40 个被动采集模块，按目标类型自动选择",
+   "发现携带证据质量标签（direct/corroborated/context/lead）与来源出处",
+   "SSE 实时流式呈现长时间采集运行进度",
+   "实体图谱、历史差量对比与 JSON/Markdown/HTML 案卷报告导出"
+  ],
+  "use_cases": [
+   "对授权目标做被动侦察并保留证据与缺口记录",
+   "梳理域名/IP/用户名等公开信息之间的实体关联",
+   "生成带证据账本与限制说明的可交付调查报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "OSINT",
+   "网络安全/侦察",
+   "证据溯源",
+   "AI助手",
+   "Web应用"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: ReconGPT is built for the first practical question in an investigation: **what can be corroborated from public informati",
+   "L22: ReconGPT does not present a source snippet as proof. Findings carry evidence-quality and lead-status labels, source coun",
+   "L120: The registry contains **40 passive modules**. Selectors are target-aware: a phone module will not run for a domain. The "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

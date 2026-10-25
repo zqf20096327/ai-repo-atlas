@@ -1,1 +1,77 @@
-{"fn": "talhaanwarch/awesome-llmops-platforms", "sha": "9b806cb2f474", "source": "readme", "identity": {"one_liner": "开源 LLMOps 工具策展清单：144 个可自托管工具按周刷新", "review": "收录 144 个可自行运行的开源 LLMOps 工具的 awesome 清单，按追踪、评测、网关、护栏与提示管理分类组织，各表按 GitHub 星数降序排列，由 GitHub Action 每周刷新星数、许可证与最后推送日期。明确排除论文、课程、模型基准与 agent 框架。标注归档/失活项目状态，面向为生产环境 LLM 应用选型的开发与运维人员。", "highlights": ["收录 144 个可自托管 LLMOps 工具", "GitHub Action 每周自动刷新星数、许可证与日期", "按 All-in-one 平台、可观测性、评测、红队、护栏、网关等类别组织", "标注 archived / inactive 项目状态与许可证信息"], "use_cases": ["为 LLM 应用挑选追踪与可观测性工具", "比较评测框架与红队/安全测试工具", "查找自托管 LLM 网关与护栏方案"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "LLMOps", "可观测性", "评测", "AI网关"], "domain": "LLM 基础设施/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A curated list of **144 open-source tools for running LLM applications in production**: tracing, evaluation, gateways, g", "L7: This list covers tools you can run yourself. It leaves out papers, courses, model benchmarks and agent frameworks. Other"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "talhaanwarch/awesome-llmops-platforms",
+ "sha": "9b806cb2f474",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 LLMOps 工具策展清单：144 个可自托管工具按周刷新",
+  "review": "收录 144 个可自行运行的开源 LLMOps 工具的 awesome 清单，按追踪、评测、网关、护栏与提示管理分类组织，各表按 GitHub 星数降序排列，由 GitHub Action 每周刷新星数、许可证与最后推送日期。明确排除论文、课程、模型基准与 agent 框架。标注归档/失活项目状态，面向为生产环境 LLM 应用选型的开发与运维人员。",
+  "highlights": [
+   "收录 144 个可自托管 LLMOps 工具",
+   "GitHub Action 每周自动刷新星数、许可证与日期",
+   "按 All-in-one 平台、可观测性、评测、红队、护栏、网关等类别组织",
+   "标注 archived / inactive 项目状态与许可证信息"
+  ],
+  "use_cases": [
+   "为 LLM 应用挑选追踪与可观测性工具",
+   "比较评测框架与红队/安全测试工具",
+   "查找自托管 LLM 网关与护栏方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "LLMOps",
+   "可观测性",
+   "评测",
+   "AI网关"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A curated list of **144 open-source tools for running LLM applications in production**: tracing, evaluation, gateways, g",
+   "L7: This list covers tools you can run yourself. It leaves out papers, courses, model benchmarks and agent frameworks. Other"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
