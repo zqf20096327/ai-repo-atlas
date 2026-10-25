@@ -1,1 +1,81 @@
-{"fn": "ALERTua/styletts2-ukrainian-openai-tts-api", "sha": "ca76dc452e96", "source": "readme", "identity": {"one_liner": "为乌克兰语 StyleTTS2 提供 OpenAI 兼容 TTS API 的自托管网关", "review": "基于 FastAPI 的 Docker 服务，将 patriotyk/styletts2-ukrainian Gradio 应用包装为 OpenAI TTS 兼容端点（POST /v1/audio/speech、GET /v1/audio/voices），输出 wav/mp3 音频。面向 Home Assistant（经 sfortis/openai_tts 集成）与 Music Assistant 等 OpenAI TTS 客户端用户，自托管部署。作者自述为临时过渡方案，待出现 Piper 兼容格式的同质量模型后可被替代。语音列表从 Gradio 应用描述读取，新增语音需重启；verbalizer 关闭时模型不处理数字，verbalization 结果可能不符合预期。", "highlights": ["OpenAI TTS 兼容端点 /v1/audio/speech 与 /v1/audio/voices", "以 docker-compose 部署，通过 GRADIO_URL 指向 StyleTTS2 Gradio 应用", "内置数字转词的 verbalizer（AUTO_USE_VERBALIZER，默认开启）", "API key 留空即可，端点不做鉴权"], "use_cases": ["在 Home Assistant 中接入乌克兰语 TTS 语音播报", "在 Music Assistant 中作为 OpenAI TTS 提供方使用", "为任意 OpenAI TTS 客户端提供自托管乌克兰语语音合成服务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [14]}}, "links": {"scenario_tags": ["TTS", "语音合成", "API网关", "自托管", "Home Assistant"], "domain": "语音合成/API 适配", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["Made in Ukraine 信号（非中文）"]}, "trust": {"confidence": "mid", "evidence": ["L12: Provides OpenAI TTS API endpoints for the patriotyk/styletts2-ukrainian Gradio app, based on the Docker image ALERTua/pa", "L81: **Endpoint:** `POST /v1/audio/speech`"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ALERTua/styletts2-ukrainian-openai-tts-api",
+ "sha": "ca76dc452e96",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为乌克兰语 StyleTTS2 提供 OpenAI 兼容 TTS API 的自托管网关",
+  "review": "基于 FastAPI 的 Docker 服务，将 patriotyk/styletts2-ukrainian Gradio 应用包装为 OpenAI TTS 兼容端点（POST /v1/audio/speech、GET /v1/audio/voices），输出 wav/mp3 音频。面向 Home Assistant（经 sfortis/openai_tts 集成）与 Music Assistant 等 OpenAI TTS 客户端用户，自托管部署。作者自述为临时过渡方案，待出现 Piper 兼容格式的同质量模型后可被替代。语音列表从 Gradio 应用描述读取，新增语音需重启；verbalizer 关闭时模型不处理数字，verbalization 结果可能不符合预期。",
+  "highlights": [
+   "OpenAI TTS 兼容端点 /v1/audio/speech 与 /v1/audio/voices",
+   "以 docker-compose 部署，通过 GRADIO_URL 指向 StyleTTS2 Gradio 应用",
+   "内置数字转词的 verbalizer（AUTO_USE_VERBALIZER，默认开启）",
+   "API key 留空即可，端点不做鉴权"
+  ],
+  "use_cases": [
+   "在 Home Assistant 中接入乌克兰语 TTS 语音播报",
+   "在 Music Assistant 中作为 OpenAI TTS 提供方使用",
+   "为任意 OpenAI TTS 客户端提供自托管乌克兰语语音合成服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    14
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TTS",
+   "语音合成",
+   "API网关",
+   "自托管",
+   "Home Assistant"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Made in Ukraine 信号（非中文）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: Provides OpenAI TTS API endpoints for the patriotyk/styletts2-ukrainian Gradio app, based on the Docker image ALERTua/pa",
+   "L81: **Endpoint:** `POST /v1/audio/speech`"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

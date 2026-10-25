@@ -1,0 +1,57 @@
+# trekhleb/claude-pod
+
+⭐ 41 · Shell · MIT · 推送 2026-06-23 · [GitHub](https://github.com/trekhleb/claude-pod) · 个人维护
+
+**Claude Code CLI 的 Docker 沙箱：隔离宿主环境运行单项目**
+
+非官方工具，由四个文件组成（Dockerfile、claude-pod 脚本、install.sh、uninstall.sh），在 Docker 容器内运行 Claude Code CLI，仅挂载当前项目目录与登录状态目录，使宿主的 home 目录、SSH 密钥、其他项目对容器不可见。支持 --dangerously-skip-permissions 下的自动批准模式，限制爆炸半径至单个文件夹。明确声明非完全隔离：项目内文件完全暴露、默认出站网络不受限（可用 NET=none 切断）。主机仅需 Docker，Claude Code 在容器内运行，可用 CLAUDE_CODE_VERSION 固定版本。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | locked-api |  |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 仅挂载当前项目目录，宿主 home/SSH 密钥/其他项目不可见
+- 支持 --dangerously-skip-permissions 而不暴露整机
+- NET=none 完全断网、PORTS 端口映射、--pids-limit 进程上限等环境变量控制
+- 主机仅需 Docker，无需安装 Node.js/npm/claude CLI
+
+## 适用场景
+
+- 以自动批准模式运行 Claude Code 而不暴露整台机器
+- 在不可信代码上运行编码 agent 时限制影响范围
+- 离线检查或构建不可信代码（NET=none）
+
+## 场景标签
+
+ · 领域:开发者工具/容器安全
+
+## 证据(README 行号)
+
+> L9: `claude-pod` runs Claude Code inside a Docker container that mounts the project folder you launch it from. Claude ca
+> L137: - **`Dockerfile`** — `node:24-slim` + `git` + `curl` + `less` + `jq` + `gh` + `@anthropic-ai/claude-code`.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "trekhleb/claude-pod 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    y-axis "stars" 39 --> 42
+    line [40, 41, 41]
+```
+
+2026-10-18 40 → 2026-10-25 41（+1）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 mid · 依据 README sha `02ce08639b70` · [字段定义](../../DATASET.md)*
