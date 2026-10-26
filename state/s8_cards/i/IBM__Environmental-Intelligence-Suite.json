@@ -1,1 +1,76 @@
-{"fn": "IBM/Environmental-Intelligence-Suite", "sha": "8a785e825bc0", "source": "readme", "identity": {"one_liner": "IBM 环境智能套件的示例应用与教程集合", "review": "IBM 官方仓库，收录 IBM Environmental Intelligence Suite 平台的示例应用与用例文档。该平台面向数据科学家与应用开发者，提供环境数据与洞察。仓库覆盖三块内容：Geospatial APIs（含 ibmpairs SDK 文档与教程、数据层说明、行业用例）、Historical Weather On Demand（历史天气按需查询用例）、GHG Emissions（温室气体排放示例）。README 仅作导览，具体教程在各子目录 README 中，需查阅官方文档与 SDK 配合使用。", "highlights": ["Geospatial APIs 的 ibmpairs SDK 文档与教程导览", "Historical Weather On Demand 行业用例集", "GHG Emissions 温室气体排放核心示例"], "use_cases": ["学习调用 IBM 地理空间 API 获取环境数据", "查找历史天气与温室气体排放的行业用例", "基于 ibmpairs SDK 开发环境数据分析应用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["环境数据", "地理空间分析", "示例/教程", "天气/气候", "碳排放"], "domain": "环境科学/地理空间数据服务", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: This repository contains sample applications of IBM Environmental Intelligence Suite - a platform designed to empower da", "L11: For documentation and tutorials regarding how to use the `ibmpairs` SDK for Geospatial APIs, please consult the official"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "IBM/Environmental-Intelligence-Suite",
+ "sha": "8a785e825bc0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "IBM 环境智能套件的示例应用与教程集合",
+  "review": "IBM 官方仓库，收录 IBM Environmental Intelligence Suite 平台的示例应用与用例文档。该平台面向数据科学家与应用开发者，提供环境数据与洞察。仓库覆盖三块内容：Geospatial APIs（含 ibmpairs SDK 文档与教程、数据层说明、行业用例）、Historical Weather On Demand（历史天气按需查询用例）、GHG Emissions（温室气体排放示例）。README 仅作导览，具体教程在各子目录 README 中，需查阅官方文档与 SDK 配合使用。",
+  "highlights": [
+   "Geospatial APIs 的 ibmpairs SDK 文档与教程导览",
+   "Historical Weather On Demand 行业用例集",
+   "GHG Emissions 温室气体排放核心示例"
+  ],
+  "use_cases": [
+   "学习调用 IBM 地理空间 API 获取环境数据",
+   "查找历史天气与温室气体排放的行业用例",
+   "基于 ibmpairs SDK 开发环境数据分析应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "环境数据",
+   "地理空间分析",
+   "示例/教程",
+   "天气/气候",
+   "碳排放"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This repository contains sample applications of IBM Environmental Intelligence Suite - a platform designed to empower da",
+   "L11: For documentation and tutorials regarding how to use the `ibmpairs` SDK for Geospatial APIs, please consult the official"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

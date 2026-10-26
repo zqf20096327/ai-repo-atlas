@@ -32,7 +32,7 @@ IBM 官方仓库，收录 IBM Environmental Intelligence Suite 平台的示例�
 
 ## 场景标签
 
- · 领域:环境科学/地理空间数据服务
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
