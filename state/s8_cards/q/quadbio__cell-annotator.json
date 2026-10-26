@@ -1,1 +1,81 @@
-{"fn": "quadbio/cell-annotator", "sha": "fe87ef18bd79", "source": "readme", "identity": {"one_liner": "用 LLM 基于标记基因自动注释单细胞数据细胞类型", "review": "scverse 生态的 Python 包：读取 scRNA-seq 数据（AnnData），基于聚类标记基因调用大语言模型，为各聚类生成细胞类型、状态与置信度注释，并可跨样本协调注释结果。支持 OpenAI、Google Gemini、Anthropic Claude 与 OpenRouter 四类提供方，仅需设置 provider 与 API key。仅发送标记基因与物种/组织信息，不发送基因表达值。README 提示基于 LLM 输出可能出错，建议作为注释工作流的第一步粗标注。", "highlights": ["基于聚类标记基因生成细胞类型、状态与置信度注释", "跨样本协调一致注释，支持单样本模式", "LLM 无关后端：OpenAI/Gemini/Claude/OpenRouter 开箱可用", "仅发送标记基因列表，不发送基因表达数据"], "use_cases": ["为 scRNA-seq 聚类结果生成初步细胞类型标注", "多样本研究中获得一致的细胞类型注释", "生成整合前粗标签用于引导或评估整合（如 scIB、scANVI）"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [23]}}, "links": {"scenario_tags": ["单细胞测序", "细胞类型注释", "生物信息学", "LLM应用", "scRNA-seq"], "domain": "生物信息学/单细胞组学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: 🧬 CellAnnotator is an scverse ecosystem package, designed to annotate cell types in scRNA-seq data based on marker genes", "L16: - 🧬 **Automatically annotate cells** including type, state, and confidence fields.", "L63: By default, this will store annotations in `adata.obs['cell_type_predicted']`. Head over to our 📚 tutorials to see more "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "quadbio/cell-annotator",
+ "sha": "fe87ef18bd79",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 LLM 基于标记基因自动注释单细胞数据细胞类型",
+  "review": "scverse 生态的 Python 包：读取 scRNA-seq 数据（AnnData），基于聚类标记基因调用大语言模型，为各聚类生成细胞类型、状态与置信度注释，并可跨样本协调注释结果。支持 OpenAI、Google Gemini、Anthropic Claude 与 OpenRouter 四类提供方，仅需设置 provider 与 API key。仅发送标记基因与物种/组织信息，不发送基因表达值。README 提示基于 LLM 输出可能出错，建议作为注释工作流的第一步粗标注。",
+  "highlights": [
+   "基于聚类标记基因生成细胞类型、状态与置信度注释",
+   "跨样本协调一致注释，支持单样本模式",
+   "LLM 无关后端：OpenAI/Gemini/Claude/OpenRouter 开箱可用",
+   "仅发送标记基因列表，不发送基因表达数据"
+  ],
+  "use_cases": [
+   "为 scRNA-seq 聚类结果生成初步细胞类型标注",
+   "多样本研究中获得一致的细胞类型注释",
+   "生成整合前粗标签用于引导或评估整合（如 scIB、scANVI）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    23
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "单细胞测序",
+   "细胞类型注释",
+   "生物信息学",
+   "LLM应用",
+   "scRNA-seq"
+  ],
+  "domain": "生物信息学/单细胞组学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: 🧬 CellAnnotator is an scverse ecosystem package, designed to annotate cell types in scRNA-seq data based on marker genes",
+   "L16: - 🧬 **Automatically annotate cells** including type, state, and confidence fields.",
+   "L63: By default, this will store annotations in `adata.obs['cell_type_predicted']`. Head over to our 📚 tutorials to see more "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

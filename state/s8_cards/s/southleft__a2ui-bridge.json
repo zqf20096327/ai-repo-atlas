@@ -1,1 +1,79 @@
-{"fn": "southleft/a2ui-bridge", "sha": "c03e2568e4df", "source": "readme", "identity": {"one_liner": "让 AI agent 用任意组件库生成真实 UI 的 A2UI 协议 React 适配框架", "review": "实现 Google A2UI (Agent-to-UI) 协议的 React 框架：AI agent 输出声明式 JSON 描述 UI 结构，A2UI Bridge 通过适配器将其渲染为 Mantine、ShadCN 或自定义组件库的真实组件，同一 JSON 可跨库渲染。提供协议处理/状态管理/数据绑定的 core 包、React hooks 与 Surface 组件，以及 Mantine（77 个适配器）和 ShadCN（76 个适配器）两套设计系统适配包。支持 70+ 组件类型、数据模型绑定、流式渐进渲染，JSON 非可执行代码。附可本地运行的 demo，支持切换 Claude/GPT/Gemini 多模型。", "highlights": ["同一份 A2UI JSON 可渲染到 Mantine、ShadCN 或自定义组件库", "提供 70+ 组件类型适配器（Mantine 77 个、ShadCN 76 个）", "声明式 JSON 而非可执行代码，UI 随 AI 生成渐进构建", "组件支持数据模型绑定与 action 上下文携带"], "use_cases": ["让 Claude/GPT/Gemini 等 agent 在我的应用里动态生成界面", "同一 AI 输出在不同设计系统间复用而无需改 prompt", "为聊天类产品添加由 agent 实时构建的表单与卡片 UI"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://github.com/southleft/a2ui-bridge (apps/demo，README L185-193)", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI生成UI", "Agent-to-UI协议", "React组件库", "前端框架", "MCP/Agent生态"], "domain": "前端开发/AI Agent 集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: A2UI Bridge implements Google's A2UI Protocol for React, enabling AI-generated UIs that render with your existing design", "L177: AI Agent (Claude, GPT, Gemini, etc.)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "southleft/a2ui-bridge",
+ "sha": "c03e2568e4df",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 用任意组件库生成真实 UI 的 A2UI 协议 React 适配框架",
+  "review": "实现 Google A2UI (Agent-to-UI) 协议的 React 框架：AI agent 输出声明式 JSON 描述 UI 结构，A2UI Bridge 通过适配器将其渲染为 Mantine、ShadCN 或自定义组件库的真实组件，同一 JSON 可跨库渲染。提供协议处理/状态管理/数据绑定的 core 包、React hooks 与 Surface 组件，以及 Mantine（77 个适配器）和 ShadCN（76 个适配器）两套设计系统适配包。支持 70+ 组件类型、数据模型绑定、流式渐进渲染，JSON 非可执行代码。附可本地运行的 demo，支持切换 Claude/GPT/Gemini 多模型。",
+  "highlights": [
+   "同一份 A2UI JSON 可渲染到 Mantine、ShadCN 或自定义组件库",
+   "提供 70+ 组件类型适配器（Mantine 77 个、ShadCN 76 个）",
+   "声明式 JSON 而非可执行代码，UI 随 AI 生成渐进构建",
+   "组件支持数据模型绑定与 action 上下文携带"
+  ],
+  "use_cases": [
+   "让 Claude/GPT/Gemini 等 agent 在我的应用里动态生成界面",
+   "同一 AI 输出在不同设计系统间复用而无需改 prompt",
+   "为聊天类产品添加由 agent 实时构建的表单与卡片 UI"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/southleft/a2ui-bridge (apps/demo，README L185-193)",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI生成UI",
+   "Agent-to-UI协议",
+   "React组件库",
+   "前端框架",
+   "MCP/Agent生态"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A2UI Bridge implements Google's A2UI Protocol for React, enabling AI-generated UIs that render with your existing design",
+   "L177: AI Agent (Claude, GPT, Gemini, etc.)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

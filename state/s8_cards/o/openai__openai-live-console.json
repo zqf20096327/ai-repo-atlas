@@ -1,1 +1,78 @@
-{"fn": "openai/openai-live-console", "sha": "72a207842ed2", "source": "readme", "identity": {"one_liner": "面向 gpt-live-1 的本地语音控制台示例，含只读工具与后端委托", "review": "OpenAI 官方提供的本地语音控制台教学示例：用户通过浏览器麦克风与 gpt-live-1（Live WebRTC）对话，围绕一个虚构背包目录提问，应用在校验后执行只读工具调用并展示委托与事件流；支持 Live 托管与应用托管两种委托模式，均不可执行 shell 命令或下单。后端模型默认 gpt-5.4-mini（Responses），使用官方 OpenAI Node SDK 7.9.0。限制：仅 127.0.0.1 本地运行、单会话、API 计费另算，明确声明不是生产级服务。", "highlights": ["Live WebRTC 语音对话，服务端持有密钥并执行只读工具调用", "两种委托模式：Managed by Live / Managed by app（含有界工具循环）", "会话时长守卫、请求频次与工具调用数量限制（单会话、每分钟 6 次启动等）", "loopback 绑定、Host/Origin 校验、CSRF 验证等本地安全措施"], "use_cases": ["学习 Live WebRTC 与后端委托模式的集成方式", "在本地体验带只读工具调用的语音对话流程", "参考其服务端密钥管理与本地安全实现做二次开发"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音对话", "实时API/Live", "工具调用", "示例/Demo"], "domain": "语音 AI 应用/示例项目", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A local voice console with a visible backend. Talk about a small fictional backpack catalog, see delegation and read-onl", "L5: The application targets `gpt-live-1` and requires an API project with access to Live WebRTC, sideband attachment, and th", "L35: |Mode|Live owns|This application owns|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/openai-live-console",
+ "sha": "72a207842ed2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 gpt-live-1 的本地语音控制台示例，含只读工具与后端委托",
+  "review": "OpenAI 官方提供的本地语音控制台教学示例：用户通过浏览器麦克风与 gpt-live-1（Live WebRTC）对话，围绕一个虚构背包目录提问，应用在校验后执行只读工具调用并展示委托与事件流；支持 Live 托管与应用托管两种委托模式，均不可执行 shell 命令或下单。后端模型默认 gpt-5.4-mini（Responses），使用官方 OpenAI Node SDK 7.9.0。限制：仅 127.0.0.1 本地运行、单会话、API 计费另算，明确声明不是生产级服务。",
+  "highlights": [
+   "Live WebRTC 语音对话，服务端持有密钥并执行只读工具调用",
+   "两种委托模式：Managed by Live / Managed by app（含有界工具循环）",
+   "会话时长守卫、请求频次与工具调用数量限制（单会话、每分钟 6 次启动等）",
+   "loopback 绑定、Host/Origin 校验、CSRF 验证等本地安全措施"
+  ],
+  "use_cases": [
+   "学习 Live WebRTC 与后端委托模式的集成方式",
+   "在本地体验带只读工具调用的语音对话流程",
+   "参考其服务端密钥管理与本地安全实现做二次开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音对话",
+   "实时API/Live",
+   "工具调用",
+   "示例/Demo"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A local voice console with a visible backend. Talk about a small fictional backpack catalog, see delegation and read-onl",
+   "L5: The application targets `gpt-live-1` and requires an API project with access to Live WebRTC, sideband attachment, and th",
+   "L35: |Mode|Live owns|This application owns|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

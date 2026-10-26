@@ -1,1 +1,76 @@
-{"fn": "lucidrains/Dex1B", "sha": "03a0688c86ac", "source": "readme", "identity": {"one_liner": "Dex1B 论文 DexSimple 生成模型与数据管线的 PyTorch 实现", "review": "lucidrains 对 UCSD Ye 等人 Dex1B 论文（Learning with 1B Demonstrations for Dexterous Manipulation）中 DexSimple 生成模型与数据生成管线的实现。以 Python 包形式提供，支持手部姿态采样生成、基于局部物体点特征的去偏数据生成（associate_pose_with_object_point/debias_sample），以及对采样姿态的梯度后优化（post_optimize/HandGeometry）。README 标注 wip 状态，引用 RSS 2025 论文与 Point Transformer V3。", "highlights": ["DexSimple 生成模型的手部姿态采样", "基于局部物体点特征的去偏数据生成（debias_sample）", "采样姿态的梯度后优化（post_optimize 与 HandGeometry）"], "use_cases": ["灵巧手操作研究中生成合成手部姿态数据", "复现 Dex1B 论文的数据生成管线", "对采样姿态做几何约束的后优化"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [3]}}, "links": {"scenario_tags": ["机器人学习", "灵巧操作", "生成模型", "合成数据", "PyTorch实现"], "domain": "机器人/灵巧操作研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Implementation of **DexSimple**, the generative model and data generation pipeline from Dex1B: Learning with 1B Demonstr", "L16: import torch"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lucidrains/Dex1B",
+ "sha": "03a0688c86ac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Dex1B 论文 DexSimple 生成模型与数据管线的 PyTorch 实现",
+  "review": "lucidrains 对 UCSD Ye 等人 Dex1B 论文（Learning with 1B Demonstrations for Dexterous Manipulation）中 DexSimple 生成模型与数据生成管线的实现。以 Python 包形式提供，支持手部姿态采样生成、基于局部物体点特征的去偏数据生成（associate_pose_with_object_point/debias_sample），以及对采样姿态的梯度后优化（post_optimize/HandGeometry）。README 标注 wip 状态，引用 RSS 2025 论文与 Point Transformer V3。",
+  "highlights": [
+   "DexSimple 生成模型的手部姿态采样",
+   "基于局部物体点特征的去偏数据生成（debias_sample）",
+   "采样姿态的梯度后优化（post_optimize 与 HandGeometry）"
+  ],
+  "use_cases": [
+   "灵巧手操作研究中生成合成手部姿态数据",
+   "复现 Dex1B 论文的数据生成管线",
+   "对采样姿态做几何约束的后优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人学习",
+   "灵巧操作",
+   "生成模型",
+   "合成数据",
+   "PyTorch实现"
+  ],
+  "domain": "机器人/灵巧操作研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Implementation of **DexSimple**, the generative model and data generation pipeline from Dex1B: Learning with 1B Demonstr",
+   "L16: import torch"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

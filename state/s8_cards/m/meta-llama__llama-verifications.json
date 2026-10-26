@@ -1,1 +1,76 @@
-{"fn": "meta-llama/llama-verifications", "sha": "525162cf0251", "source": "readme", "identity": {"one_liner": "验证 Llama 模型提供商的测试与基准评测库", "review": "Meta Llama 团队维护的轻量级验证库，对提供 OpenAI 兼容推理 API 的任意 Llama Provider 运行两套套件：功能测试（基础对话、图像输入、结构化 JSON 输出、工具调用）和学术评测基准（MMLU-Pro-CoT、GPQA、BFCL V3、MMMU、MTOB、IFEval 等），将结果与 Llama 模型卡数字对比并生成 Markdown 报告。通过 git clone 加 uv 工具安装，以 uvx 命令行使用，需为各 provider 设置 API key；新增 provider 通过添加 YAML 配置实现。", "highlights": ["功能测试覆盖对话、图像输入、结构化输出与工具调用，期望 100% 通过", "7 类学术基准与 Llama 模型卡数字对比", "以 uv/uvx 命令行运行，YAML 配置添加新 provider", "生成 TESTS_REPORT.md 与 BENCHMARKS_REPORT.md 报告"], "use_cases": ["部署 Llama 后核验推理服务是否正确实现", "对比不同 provider 的基准分数与模型卡数字", "以 PR 形式向社区公开 provider 验证结果"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["模型评测", "功能测试", "Llama生态", "基准报告"], "domain": "LLM 评测/验证", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This repository contains a lightweight library to verify model providers via 2 suites,", "L7: Both the suites can be run on any Llama Provider that offers an OpenAI-compliant Inference API."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "meta-llama/llama-verifications",
+ "sha": "525162cf0251",
+ "source": "readme",
+ "identity": {
+  "one_liner": "验证 Llama 模型提供商的测试与基准评测库",
+  "review": "Meta Llama 团队维护的轻量级验证库，对提供 OpenAI 兼容推理 API 的任意 Llama Provider 运行两套套件：功能测试（基础对话、图像输入、结构化 JSON 输出、工具调用）和学术评测基准（MMLU-Pro-CoT、GPQA、BFCL V3、MMMU、MTOB、IFEval 等），将结果与 Llama 模型卡数字对比并生成 Markdown 报告。通过 git clone 加 uv 工具安装，以 uvx 命令行使用，需为各 provider 设置 API key；新增 provider 通过添加 YAML 配置实现。",
+  "highlights": [
+   "功能测试覆盖对话、图像输入、结构化输出与工具调用，期望 100% 通过",
+   "7 类学术基准与 Llama 模型卡数字对比",
+   "以 uv/uvx 命令行运行，YAML 配置添加新 provider",
+   "生成 TESTS_REPORT.md 与 BENCHMARKS_REPORT.md 报告"
+  ],
+  "use_cases": [
+   "部署 Llama 后核验推理服务是否正确实现",
+   "对比不同 provider 的基准分数与模型卡数字",
+   "以 PR 形式向社区公开 provider 验证结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型评测",
+   "功能测试",
+   "Llama生态",
+   "基准报告"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains a lightweight library to verify model providers via 2 suites,",
+   "L7: Both the suites can be run on any Llama Provider that offers an OpenAI-compliant Inference API."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,84 @@
-{"fn": "phenomenoner/openclaw-mem", "sha": "a6354704d6f4", "source": "readme", "identity": {"one_liner": "面向 AI agent 的可审计记忆治理层：引用、信任策略、回滚", "review": "为 AI agent 提供本地优先的记忆治理层：以 SQLite + JSONL 存储 agent 活动，组装带边界的 ContextPack——每条纳入的记忆带引用，每条排除的记忆带书面原因，每次记忆变更附带回滚凭证；信任策略将隔离/不可信记录排除在上下文之外。以 sidecar 方式服务 OpenClaw，也支持 Claude、Codex、Gemini 等通用 agent 框架（MCP、Channel A、hooks 集成）。默认无需外部向量数据库，混合检索（FTS + 向量）本地运行。单一维护者，v2.0.0，官方自述为年轻项目，高级功能标注为 labs。", "highlights": ["每条纳入记忆带引用、每条排除记忆带书面原因的 ContextPack", "信任策略隔离不可信记录，防御记忆投毒（含可复现合成证明脚本）", "记忆变更走 plan → checkpoint → apply → receipt → rollback 流程", "SQLite + JSONL 本地存储，默认无需外部向量数据库与云服务"], "use_cases": ["为长期运行的 agent 把控进入上下文窗口的记忆并留存审计证据", "防止工具输出或网页文本等不可信内容经记忆检索注入提示词", "对错误记忆变更做带凭证的回滚", "在 OpenClaw / Claude / Codex / Gemini 等 harness 中接入治理型持久记忆"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://phenomenoner.github.io/openclaw-mem/", "self_declared_early": {"flag": true, "lines": [191]}}, "links": {"scenario_tags": ["agent记忆", "LLM基础设施", "可观测性/审计", "本地优先", "上下文工程"], "domain": "LLM 基础设施/agent 记忆", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供繁體中文版本（L11）"]}, "trust": {"confidence": "high", "evidence": ["L15: Most AI agent memory systems compete on **recall** — remember more, retrieve better. `openclaw-mem` competes on a differ", "L17: Built sidecar-first for OpenClaw, usable with Claude, Codex, Gemini, and generic agent harnesses."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "phenomenoner/openclaw-mem",
+ "sha": "a6354704d6f4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的可审计记忆治理层：引用、信任策略、回滚",
+  "review": "为 AI agent 提供本地优先的记忆治理层：以 SQLite + JSONL 存储 agent 活动，组装带边界的 ContextPack——每条纳入的记忆带引用，每条排除的记忆带书面原因，每次记忆变更附带回滚凭证；信任策略将隔离/不可信记录排除在上下文之外。以 sidecar 方式服务 OpenClaw，也支持 Claude、Codex、Gemini 等通用 agent 框架（MCP、Channel A、hooks 集成）。默认无需外部向量数据库，混合检索（FTS + 向量）本地运行。单一维护者，v2.0.0，官方自述为年轻项目，高级功能标注为 labs。",
+  "highlights": [
+   "每条纳入记忆带引用、每条排除记忆带书面原因的 ContextPack",
+   "信任策略隔离不可信记录，防御记忆投毒（含可复现合成证明脚本）",
+   "记忆变更走 plan → checkpoint → apply → receipt → rollback 流程",
+   "SQLite + JSONL 本地存储，默认无需外部向量数据库与云服务"
+  ],
+  "use_cases": [
+   "为长期运行的 agent 把控进入上下文窗口的记忆并留存审计证据",
+   "防止工具输出或网页文本等不可信内容经记忆检索注入提示词",
+   "对错误记忆变更做带凭证的回滚",
+   "在 OpenClaw / Claude / Codex / Gemini 等 harness 中接入治理型持久记忆"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://phenomenoner.github.io/openclaw-mem/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    191
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "LLM基础设施",
+   "可观测性/审计",
+   "本地优先",
+   "上下文工程"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供繁體中文版本（L11）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Most AI agent memory systems compete on **recall** — remember more, retrieve better. `openclaw-mem` competes on a differ",
+   "L17: Built sidecar-first for OpenClaw, usable with Claude, Codex, Gemini, and generic agent harnesses."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

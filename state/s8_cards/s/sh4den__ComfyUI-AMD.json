@@ -1,1 +1,75 @@
-{"fn": "sh4den/ComfyUI-AMD", "sha": "0011d9fa1495", "source": "readme", "identity": {"one_liner": "AMD RDNA GPU 上安装运行 ComfyUI 的 PowerShell 一键脚本", "review": "面向 Windows AMD 显卡（RDNA 3/3.5/4，如 RX 7900/9070 系列、Ryzen AI 核显）用户的一键安装脚本：自动安装 uv、克隆 ComfyUI 仓库、创建 Python 3.12 虚拟环境、按 GPU 型号安装对应的 ROCm PyTorch 构建与依赖，配置 HIP_VISIBLE_DEVICES 后启动 ComfyUI Web UI。首次运行交互选择 GPU 代际并保存配置，多卡系统可选择指定 GPU。限制：仅支持 Windows 10/11 64 位，需 Git 与 PowerShell 5.1+；模型文件不随脚本提供。", "highlights": ["一条 PowerShell 命令完成 ComfyUI + ROCm PyTorch 环境搭建", "支持 RDNA 3 / 3.5 / 4 三代 AMD GPU（gfx1100/gfx1151/gfx1200）", "使用 uv 管理依赖，GPU 配置在多次运行间保存", "多 GPU 系统可配置 HIP_VISIBLE_DEVICES"], "use_cases": ["AMD 显卡用户在 Windows 上快速搭建 ComfyUI", "避免手动配置 ROCm PyTorch 与虚拟环境", "多卡系统指定使用某块 AMD GPU 运行 ComfyUI"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["图像生成", "AMD GPU", "安装脚本", "ROCm", "ComfyUI"], "domain": "AI 工具链/图像生成环境配置", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: A PowerShell script that sets up ComfyUI with ROCm support for AMD RDNA GPUs on Windows. It uses uv for fast and reliabl", "L60: * Installs the correct ROCm PyTorch build for your GPU"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sh4den/ComfyUI-AMD",
+ "sha": "0011d9fa1495",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AMD RDNA GPU 上安装运行 ComfyUI 的 PowerShell 一键脚本",
+  "review": "面向 Windows AMD 显卡（RDNA 3/3.5/4，如 RX 7900/9070 系列、Ryzen AI 核显）用户的一键安装脚本：自动安装 uv、克隆 ComfyUI 仓库、创建 Python 3.12 虚拟环境、按 GPU 型号安装对应的 ROCm PyTorch 构建与依赖，配置 HIP_VISIBLE_DEVICES 后启动 ComfyUI Web UI。首次运行交互选择 GPU 代际并保存配置，多卡系统可选择指定 GPU。限制：仅支持 Windows 10/11 64 位，需 Git 与 PowerShell 5.1+；模型文件不随脚本提供。",
+  "highlights": [
+   "一条 PowerShell 命令完成 ComfyUI + ROCm PyTorch 环境搭建",
+   "支持 RDNA 3 / 3.5 / 4 三代 AMD GPU（gfx1100/gfx1151/gfx1200）",
+   "使用 uv 管理依赖，GPU 配置在多次运行间保存",
+   "多 GPU 系统可配置 HIP_VISIBLE_DEVICES"
+  ],
+  "use_cases": [
+   "AMD 显卡用户在 Windows 上快速搭建 ComfyUI",
+   "避免手动配置 ROCm PyTorch 与虚拟环境",
+   "多卡系统指定使用某块 AMD GPU 运行 ComfyUI"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像生成",
+   "AMD GPU",
+   "安装脚本",
+   "ROCm",
+   "ComfyUI"
+  ],
+  "domain": "AI 工具链/图像生成环境配置",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: A PowerShell script that sets up ComfyUI with ROCm support for AMD RDNA GPUs on Windows. It uses uv for fast and reliabl",
+   "L60: * Installs the correct ROCm PyTorch build for your GPU"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

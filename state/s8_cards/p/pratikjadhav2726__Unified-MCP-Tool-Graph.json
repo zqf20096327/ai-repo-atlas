@@ -1,1 +1,81 @@
-{"fn": "pratikjadhav2726/Unified-MCP-Tool-Graph", "sha": "7f68ea7404d0", "source": "readme", "identity": {"one_liner": "MCP 工具图谱层：用 Neo4j 图库为 LLM 检索最相关工具", "review": "将多个 MCP 服务器的工具 API 聚合并结构化为 Neo4j 图数据库，记录工具元数据与 overlaps_with、preferred_for 等关系边；LLM/Agent 执行任务时通过 Dynamic Tool Retriever MCP 查询图谱，仅返回所需工具及其 MCP 服务器配置，按需拉起服务器（闲置 10 分钟后关闭，5 个常用 MCP 常驻），避免工具过载与循环调用。提供 MCP 统一网关（端口 8000）、A2A 与 LangGraph 示例 agent；使用 mcp-proxy 将 stdio 服务器暴露为 HTTP/SSE。README 声称支持 11066 个工具、4161 个 MCP 服务器；摄取脚本、Schema 蓝图等列为 Coming Soon。MIT 许可，已集成进 SmarterMCP 预览模式。", "highlights": ["Neo4j 图数据库集中存储跨 MCP 服务器的工具元数据与关系边（overlaps_with/extends/preferred_for_task）", "按查询动态返回 3-4 个最相关工具及对应 MCP 服务器配置", "按需启动 MCP 服务器，5 个常用 MCP 常驻，闲置 10 分钟后关闭", "使用 mcp-proxy 将 stdio MCP 服务器暴露为 Streamable HTTP/SSE 端点"], "use_cases": ["Agent 面对大量 MCP 工具时只加载当前任务所需工具，避免选错或死循环", "企业自定义助手按权限/范围从图谱过滤暴露内部工具", "跨供应商（LinkedIn、Google、Notion 等）工具统一编目与链式调用推荐"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [9]}}, "links": {"scenario_tags": ["MCP", "工具检索", "agent基础设施", "知识图谱", "LLM工具调用"], "domain": "LLM 基础设施/Agent 工具编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: **Unified MCP Tool Graph** is a research-driven project that aggregates and structures tool APIs from diverse **Model Co", "L133: 2. **Dynamic Tool Retriever MCP** queries the Neo4j graph and returns the most relevant tools **plus their MCP server co", "L135: 4. **Agent** (A2A or LangGraph) loads only the retrieved tools and executes the workflow."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pratikjadhav2726/Unified-MCP-Tool-Graph",
+ "sha": "7f68ea7404d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MCP 工具图谱层：用 Neo4j 图库为 LLM 检索最相关工具",
+  "review": "将多个 MCP 服务器的工具 API 聚合并结构化为 Neo4j 图数据库，记录工具元数据与 overlaps_with、preferred_for 等关系边；LLM/Agent 执行任务时通过 Dynamic Tool Retriever MCP 查询图谱，仅返回所需工具及其 MCP 服务器配置，按需拉起服务器（闲置 10 分钟后关闭，5 个常用 MCP 常驻），避免工具过载与循环调用。提供 MCP 统一网关（端口 8000）、A2A 与 LangGraph 示例 agent；使用 mcp-proxy 将 stdio 服务器暴露为 HTTP/SSE。README 声称支持 11066 个工具、4161 个 MCP 服务器；摄取脚本、Schema 蓝图等列为 Coming Soon。MIT 许可，已集成进 SmarterMCP 预览模式。",
+  "highlights": [
+   "Neo4j 图数据库集中存储跨 MCP 服务器的工具元数据与关系边（overlaps_with/extends/preferred_for_task）",
+   "按查询动态返回 3-4 个最相关工具及对应 MCP 服务器配置",
+   "按需启动 MCP 服务器，5 个常用 MCP 常驻，闲置 10 分钟后关闭",
+   "使用 mcp-proxy 将 stdio MCP 服务器暴露为 Streamable HTTP/SSE 端点"
+  ],
+  "use_cases": [
+   "Agent 面对大量 MCP 工具时只加载当前任务所需工具，避免选错或死循环",
+   "企业自定义助手按权限/范围从图谱过滤暴露内部工具",
+   "跨供应商（LinkedIn、Google、Notion 等）工具统一编目与链式调用推荐"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "工具检索",
+   "agent基础设施",
+   "知识图谱",
+   "LLM工具调用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **Unified MCP Tool Graph** is a research-driven project that aggregates and structures tool APIs from diverse **Model Co",
+   "L133: 2. **Dynamic Tool Retriever MCP** queries the Neo4j graph and returns the most relevant tools **plus their MCP server co",
+   "L135: 4. **Agent** (A2A or LangGraph) loads only the retrieved tools and executes the workflow."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Oracle 官方提供的 MLflow 插件，将 MLflow 各功能映射到 OCI 资源�
 
 ## 场景标签
 
- · 领域:MLOps/云机器学习
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

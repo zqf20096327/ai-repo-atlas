@@ -1,1 +1,79 @@
-{"fn": "pskoett/pmx-canvas", "sha": "d13c839e4aa4", "source": "readme", "identity": {"one_liner": "人与 AI agent 共用的共享画板：收集证据、策展上下文", "review": "本地运行的无限画板应用：用户将笔记、文件、网页、图片、图表、代码 diff 等卡片并置，通过置顶卡片策展上下文，链接结论与来源；agent 经 MCP 协议接入后在同一画板上增改材料，用户可查看 agent 已读内容。支持 Claude Code、Codex、GitHub Copilot、Amp 等客户端，提供 CLI、MCP、HTTP API 与 Bun SDK。板数据自动保存在项目目录的 .pmx-canvas/canvas.db，无内置多用户账户。", "highlights": ["人与多个 agent 实时共用同一画板，经 MCP 协议连接", "置顶卡片策展上下文、结论与来源链接、变更追踪", "卡片可导出为自包含 HTML 或以导览形式演示", "提供 CLI、MCP、HTTP API、Bun SDK 与 Agent Plugins 1.0 标准插件"], "use_cases": ["把分散在聊天与文件中的研究材料集中到一块板上供 agent 使用", "跟踪 agent 读过什么、改了什么，把结果作为新材料放回画板", "为编码 agent（Claude Code/Codex/Copilot）建立项目工作看板"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent协作", "上下文工程", "画板/canvas", "MCP", "本地工具"], "domain": "开发者工具/agent 协作", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L93: PMX Canvas works with Claude Code, Codex, GitHub Copilot, Amp, and other agents", "L124: Without a plugin, add a server to your agent's MCP settings with command", "L161: PMX Canvas runs locally and has no built-in multi-user accounts. Connected"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pskoett/pmx-canvas",
+ "sha": "d13c839e4aa4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "人与 AI agent 共用的共享画板：收集证据、策展上下文",
+  "review": "本地运行的无限画板应用：用户将笔记、文件、网页、图片、图表、代码 diff 等卡片并置，通过置顶卡片策展上下文，链接结论与来源；agent 经 MCP 协议接入后在同一画板上增改材料，用户可查看 agent 已读内容。支持 Claude Code、Codex、GitHub Copilot、Amp 等客户端，提供 CLI、MCP、HTTP API 与 Bun SDK。板数据自动保存在项目目录的 .pmx-canvas/canvas.db，无内置多用户账户。",
+  "highlights": [
+   "人与多个 agent 实时共用同一画板，经 MCP 协议连接",
+   "置顶卡片策展上下文、结论与来源链接、变更追踪",
+   "卡片可导出为自包含 HTML 或以导览形式演示",
+   "提供 CLI、MCP、HTTP API、Bun SDK 与 Agent Plugins 1.0 标准插件"
+  ],
+  "use_cases": [
+   "把分散在聊天与文件中的研究材料集中到一块板上供 agent 使用",
+   "跟踪 agent 读过什么、改了什么，把结果作为新材料放回画板",
+   "为编码 agent（Claude Code/Codex/Copilot）建立项目工作看板"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent协作",
+   "上下文工程",
+   "画板/canvas",
+   "MCP",
+   "本地工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L93: PMX Canvas works with Claude Code, Codex, GitHub Copilot, Amp, and other agents",
+   "L124: Without a plugin, add a server to your agent's MCP settings with command",
+   "L161: PMX Canvas runs locally and has no built-in multi-user accounts. Connected"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

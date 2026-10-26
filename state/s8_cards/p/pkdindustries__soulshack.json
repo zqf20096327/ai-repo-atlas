@@ -1,1 +1,81 @@
-{"fn": "pkdindustries/soulshack", "sha": "137bcc933e2d", "source": "readme", "identity": {"one_liner": "LLM 驱动的 IRC 聊天机器人，多模型接入并带工具与沙箱", "review": "用 Go 编写的 IRC 聊天机器人，接入 OpenAI、Anthropic、Google Gemini 与本地 Ollama 作为 LLM 后端，在 IRC 频道中提供流式回复。工具系统支持 shell 脚本、MCP 服务器与原生 IRC 管理工具（op/kick/ban/topic 等），可经 IRC 命令在运行时增删工具与调整配置。提供可选沙箱模式，限制 shell 与 MCP 工具的文件写入和网络访问，默认关闭且依赖系统后端（macOS sandbox-exec、Linux bwrap）。安装方式为 Docker 构建或 Go 1.23+ 源码编译。", "highlights": ["支持 OpenAI/Anthropic/Gemini/Ollama 四类 LLM 后端", "统一工具系统：shell 脚本、MCP 服务器与原生 IRC 管理工具", "可选沙箱：限制写路径、出站网络与敏感凭据读取，支持按工具覆盖策略", "通过 IRC 命令运行时管理工具、管理员与配置参数"], "use_cases": ["在 IRC 频道部署一个由 LLM 驱动的聊天机器人", "让机器人经 shell/MCP 工具执行操作并管理频道（踢人、封禁、话题等）", "本地 Ollama 模型离线驱动 IRC 机器人"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["IRC", "聊天机器人", "LLM应用", "MCP", "工具调用/沙箱"], "domain": "聊天机器人/IRC 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: **Soulshack** is an advanced IRC chatbot powered by LLMs, designed to bridge traditional chat with modern AI capabilitie", "L9: - **Multi-Provider Support**: Works with OpenAI, Anthropic, Google Gemini, and Ollama.", "L10: - **Unified Tool System**: Supports shell scripts, MCP servers, and native IRC tools."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pkdindustries/soulshack",
+ "sha": "137bcc933e2d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 驱动的 IRC 聊天机器人，多模型接入并带工具与沙箱",
+  "review": "用 Go 编写的 IRC 聊天机器人，接入 OpenAI、Anthropic、Google Gemini 与本地 Ollama 作为 LLM 后端，在 IRC 频道中提供流式回复。工具系统支持 shell 脚本、MCP 服务器与原生 IRC 管理工具（op/kick/ban/topic 等），可经 IRC 命令在运行时增删工具与调整配置。提供可选沙箱模式，限制 shell 与 MCP 工具的文件写入和网络访问，默认关闭且依赖系统后端（macOS sandbox-exec、Linux bwrap）。安装方式为 Docker 构建或 Go 1.23+ 源码编译。",
+  "highlights": [
+   "支持 OpenAI/Anthropic/Gemini/Ollama 四类 LLM 后端",
+   "统一工具系统：shell 脚本、MCP 服务器与原生 IRC 管理工具",
+   "可选沙箱：限制写路径、出站网络与敏感凭据读取，支持按工具覆盖策略",
+   "通过 IRC 命令运行时管理工具、管理员与配置参数"
+  ],
+  "use_cases": [
+   "在 IRC 频道部署一个由 LLM 驱动的聊天机器人",
+   "让机器人经 shell/MCP 工具执行操作并管理频道（踢人、封禁、话题等）",
+   "本地 Ollama 模型离线驱动 IRC 机器人"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "IRC",
+   "聊天机器人",
+   "LLM应用",
+   "MCP",
+   "工具调用/沙箱"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Soulshack** is an advanced IRC chatbot powered by LLMs, designed to bridge traditional chat with modern AI capabilitie",
+   "L9: - **Multi-Provider Support**: Works with OpenAI, Anthropic, Google Gemini, and Ollama.",
+   "L10: - **Unified Tool System**: Supports shell scripts, MCP servers, and native IRC tools."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,86 @@
-{"fn": "piskie-dev/piskie", "sha": "f4579e3b94ca", "source": "readme", "identity": {"one_liner": "带指纹浏览器与持久会话的桌面 AI agent，自动化真实网页操作", "review": "桌面端 AI agent 应用：将本地工作区操作与真实网页自动化结合。核心机制包括内置指纹浏览器环境（跨重启保留 cookies、canvas/WebGL 指纹与登录态，实现多账号零重复登录）、将高频网页流程固化为可复用 Browser Skill（自主探索页面后本地生成并校验工具代码）、本地执行循环（检查代码库、改文件、跑测试、子 agent 委派），以及飞书/企业微信/QQ/微信 IM 触发任务。支持 OpenAI 或 Claude 兼容凭据、MCP 协议与本地 ComfyUI 工作流接入。数据存于本地 ~/.piskie。限制：不支持 Intel 版 macOS；计划任务需应用运行中执行。", "highlights": ["指纹浏览器环境持久保存会话与账号指纹，多账号免重复登录", "自主探索网页并将流程合成为可复用、本地校验的 Browser Skill", "原生 IM 机器人集成（飞书/企微/QQ Bot/个人微信）远程触发任务", "兼容 MCP 协议、本地 Skills 与插件，支持本地 ComfyUI 工作流"], "use_cases": ["多账号登录后台提取数据并整理为本地 CSV 报表", "把重复的网页操作流程固化为毫秒级可调用的技能", "在微信/飞书聊天中直接发起和接收 agent 任务", "让 agent 在本地代码库中检查、修补文件并跑测试"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://piskie.dev", "self_declared_early": {"flag": true, "lines": [121]}}, "links": {"scenario_tags": ["桌面 agent", "浏览器自动化", "指纹浏览器", "多账号运营", "RPA"], "domain": "桌面自动化/浏览器 agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["简体中文 README（L17）", "原生微信/飞书/企微/QQ IM 集成（L52, L58, L95）"]}, "trust": {"confidence": "high", "evidence": ["L5:  The Desktop AI Agent with Fingerprint Browsers & Persistent Sessions.", "L56: * **Full Local Execution Loop**: Outline goals in plain language. The agent inspects codebases, patches files, runs test"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "piskie-dev/piskie",
+ "sha": "f4579e3b94ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带指纹浏览器与持久会话的桌面 AI agent，自动化真实网页操作",
+  "review": "桌面端 AI agent 应用：将本地工作区操作与真实网页自动化结合。核心机制包括内置指纹浏览器环境（跨重启保留 cookies、canvas/WebGL 指纹与登录态，实现多账号零重复登录）、将高频网页流程固化为可复用 Browser Skill（自主探索页面后本地生成并校验工具代码）、本地执行循环（检查代码库、改文件、跑测试、子 agent 委派），以及飞书/企业微信/QQ/微信 IM 触发任务。支持 OpenAI 或 Claude 兼容凭据、MCP 协议与本地 ComfyUI 工作流接入。数据存于本地 ~/.piskie。限制：不支持 Intel 版 macOS；计划任务需应用运行中执行。",
+  "highlights": [
+   "指纹浏览器环境持久保存会话与账号指纹，多账号免重复登录",
+   "自主探索网页并将流程合成为可复用、本地校验的 Browser Skill",
+   "原生 IM 机器人集成（飞书/企微/QQ Bot/个人微信）远程触发任务",
+   "兼容 MCP 协议、本地 Skills 与插件，支持本地 ComfyUI 工作流"
+  ],
+  "use_cases": [
+   "多账号登录后台提取数据并整理为本地 CSV 报表",
+   "把重复的网页操作流程固化为毫秒级可调用的技能",
+   "在微信/飞书聊天中直接发起和接收 agent 任务",
+   "让 agent 在本地代码库中检查、修补文件并跑测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://piskie.dev",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    121
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面 agent",
+   "浏览器自动化",
+   "指纹浏览器",
+   "多账号运营",
+   "RPA"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README（L17）",
+   "原生微信/飞书/企微/QQ IM 集成（L52, L58, L95）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  The Desktop AI Agent with Fingerprint Browsers & Persistent Sessions.",
+   "L56: * **Full Local Execution Loop**: Outline goals in plain language. The agent inspects codebases, patches files, runs test"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:本地 AI agent/应用
+`聊天机器人` `RAG` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

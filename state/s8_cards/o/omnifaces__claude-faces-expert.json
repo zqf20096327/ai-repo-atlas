@@ -1,1 +1,78 @@
-{"fn": "omnifaces/claude-faces-expert", "sha": "1135ed652513", "source": "readme", "identity": {"one_liner": "面向编码 Agent 的 Jakarta Faces 知识库，随装随用", "review": "由 BalusC（OmniFaces）基于其 Stack Overflow 回答整理的 Jakarta Faces（原 JSF）知识库，以规则与主题文件形式注入 Claude Code 等编码 Agent 的上下文，覆盖术语、view state、生命周期、转换校验、常见错误诊断决策树，并含 PrimeFaces 与 OmniFaces 专章。另附 /faces-review 与 /faces-migrate 两个技能（仅 Claude Code 与 Cursor 支持斜杠调用）。提供 curl 安装脚本与手动安装两种方式，并为 GitHub Copilot、Cursor、Codex、OpenCode、Antigravity 提供专属安装器；Copilot 与 Codex 因不解析文件引用而将规则内联。限制：需 git 与 POSIX shell（Windows 需 Git Bash 或 WSL）。", "highlights": ["核心规则 + 8 个主题文件（配置/诊断决策树/PrimeFaces/OmniFaces/生命周期等）", "两个技能：/faces-review 代码审查与 /faces-migrate 版本迁移", "5 种第三方编码工具（Copilot/Cursor/Codex/OpenCode/Antigravity）专属安装器", "安装幂等，重跑即更新，不改写已有 CLAUDE.md"], "use_cases": ["让 Claude Code 编写 Jakarta Faces 代码时遵循最佳实践", "通过 /faces-review 审查已有 Faces 代码的常见错误", "在 Cursor/Copilot 等 IDE Agent 中引入 JSF 领域知识"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["知识库", "编码Agent", "规则注入", "Jakarta Faces/JSF", "Java Web"], "domain": "Java Web 开发/编码 Agent 知识", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Drop-in Jakarta Faces knowledge base for Claude Code, with installers for GitHub Copilot, Cursor, Codex, OpenCode and An", "L9: Curated by BalusC based on his Stack Overflow answers to frequently asked Jakarta Faces questions.", "L23: |File|Description|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "omnifaces/claude-faces-expert",
+ "sha": "1135ed652513",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向编码 Agent 的 Jakarta Faces 知识库，随装随用",
+  "review": "由 BalusC（OmniFaces）基于其 Stack Overflow 回答整理的 Jakarta Faces（原 JSF）知识库，以规则与主题文件形式注入 Claude Code 等编码 Agent 的上下文，覆盖术语、view state、生命周期、转换校验、常见错误诊断决策树，并含 PrimeFaces 与 OmniFaces 专章。另附 /faces-review 与 /faces-migrate 两个技能（仅 Claude Code 与 Cursor 支持斜杠调用）。提供 curl 安装脚本与手动安装两种方式，并为 GitHub Copilot、Cursor、Codex、OpenCode、Antigravity 提供专属安装器；Copilot 与 Codex 因不解析文件引用而将规则内联。限制：需 git 与 POSIX shell（Windows 需 Git Bash 或 WSL）。",
+  "highlights": [
+   "核心规则 + 8 个主题文件（配置/诊断决策树/PrimeFaces/OmniFaces/生命周期等）",
+   "两个技能：/faces-review 代码审查与 /faces-migrate 版本迁移",
+   "5 种第三方编码工具（Copilot/Cursor/Codex/OpenCode/Antigravity）专属安装器",
+   "安装幂等，重跑即更新，不改写已有 CLAUDE.md"
+  ],
+  "use_cases": [
+   "让 Claude Code 编写 Jakarta Faces 代码时遵循最佳实践",
+   "通过 /faces-review 审查已有 Faces 代码的常见错误",
+   "在 Cursor/Copilot 等 IDE Agent 中引入 JSF 领域知识"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识库",
+   "编码Agent",
+   "规则注入",
+   "Jakarta Faces/JSF",
+   "Java Web"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Drop-in Jakarta Faces knowledge base for Claude Code, with installers for GitHub Copilot, Cursor, Codex, OpenCode and An",
+   "L9: Curated by BalusC based on his Stack Overflow answers to frequently asked Jakarta Faces questions.",
+   "L23: |File|Description|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

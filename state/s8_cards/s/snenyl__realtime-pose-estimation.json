@@ -1,1 +1,78 @@
-{"fn": "snenyl/realtime-pose-estimation", "sha": "fead2a8204e9", "source": "readme", "identity": {"one_liner": "基于 YOLOX 与 RealSense 点云的实时托盘位姿估计系统", "review": "硕士论文配套项目：用 Intel RealSense L515 RGB-D 传感器采集 RGB 图像与点云，YOLOX-S（在 LOCO 数据集上迁移学习）检测托盘，过滤点云后经两次 RANSAC 平面拟合与向量运算输出托盘的 3D 位置与朝向；最终版本以 Intel OpenVINO 优化并用 C++ 实现。评估采用 AprilTag 做移动与静止两项测试。Pallet void 检测模型置信度低于 1%，README 在 Future Work 中列出多项待改进项，属研究原型。", "highlights": ["YOLOX-S + LOCO 数据集迁移学习的托盘检测（AP50 53.2%，推理 6.74 ms）", "两次 RANSAC 平面拟合结合相机中心向量估计托盘位姿", "Intel OpenVINO 优化并以 C++ 实现，PCL 3D 查看器输出结果", "AprilTag（25h9）移动/静止两项评估测试"], "use_cases": ["工业场景中用 RGB-D 相机实时获取托盘位姿", "机器人抓取/叉车对接前的托盘定位参考实现", "复现或扩展基于点云的位姿估计研究实验"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://www.forskningsdatabasen.no/", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["位姿估计", "点云处理", "目标检测", "工业机器人", "RGB-D"], "domain": "计算机视觉/机器人", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: By combining an RGB image and point cloud data is, the system capable of detecting the object's pose by using object det", "L19: The object detection algorithm is the YOLOX-S model from the YOLOX", "L57: The pose estimation is performed using the object detection algorithm and point cloud data."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "snenyl/realtime-pose-estimation",
+ "sha": "fead2a8204e9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 YOLOX 与 RealSense 点云的实时托盘位姿估计系统",
+  "review": "硕士论文配套项目：用 Intel RealSense L515 RGB-D 传感器采集 RGB 图像与点云，YOLOX-S（在 LOCO 数据集上迁移学习）检测托盘，过滤点云后经两次 RANSAC 平面拟合与向量运算输出托盘的 3D 位置与朝向；最终版本以 Intel OpenVINO 优化并用 C++ 实现。评估采用 AprilTag 做移动与静止两项测试。Pallet void 检测模型置信度低于 1%，README 在 Future Work 中列出多项待改进项，属研究原型。",
+  "highlights": [
+   "YOLOX-S + LOCO 数据集迁移学习的托盘检测（AP50 53.2%，推理 6.74 ms）",
+   "两次 RANSAC 平面拟合结合相机中心向量估计托盘位姿",
+   "Intel OpenVINO 优化并以 C++ 实现，PCL 3D 查看器输出结果",
+   "AprilTag（25h9）移动/静止两项评估测试"
+  ],
+  "use_cases": [
+   "工业场景中用 RGB-D 相机实时获取托盘位姿",
+   "机器人抓取/叉车对接前的托盘定位参考实现",
+   "复现或扩展基于点云的位姿估计研究实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://www.forskningsdatabasen.no/",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "位姿估计",
+   "点云处理",
+   "目标检测",
+   "工业机器人",
+   "RGB-D"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: By combining an RGB image and point cloud data is, the system capable of detecting the object's pose by using object det",
+   "L19: The object detection algorithm is the YOLOX-S model from the YOLOX",
+   "L57: The pose estimation is performed using the object detection algorithm and point cloud data."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

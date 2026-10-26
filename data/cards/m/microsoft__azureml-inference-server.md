@@ -31,7 +31,7 @@ azureml-inference-server-http Python 包封装了基于 Flask 或 Sanic 的 HTTP
 
 ## 场景标签
 
- · 领域:ML 基础设施/模型部署
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

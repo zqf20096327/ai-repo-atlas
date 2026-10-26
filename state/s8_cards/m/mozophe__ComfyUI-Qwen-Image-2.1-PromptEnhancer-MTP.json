@@ -1,1 +1,79 @@
-{"fn": "mozophe/ComfyUI-Qwen-Image-2.1-PromptEnhancer-MTP", "sha": "b6506745cf59", "source": "readme", "identity": {"one_liner": "在 ComfyUI 中运行 Qwen-Image 2.1 官方提示词增强器的节点", "review": "面向 ComfyUI 用户的自定义节点：将简短想法或编辑指令交给 Qwen-Image 2.1 官方提示词增强器（PE），输出详细提示词。支持两种后端：llama.cpp（NVIDIA GPU，独立 llama-server 进程，官方设置下文生图约 2×、编辑约 3.5× 于 ComfyUI 自带文本生成速度）与 ComfyUI 内置（任意 ComfyUI 支持的 GPU，约 1.4–1.7×）。两种后端均启用 MTP 多 token 预测；支持最多 10 张输入图像编辑、社区 abliterated 变体；模型与 llama-server 首次使用自动下载。限制：llama.cpp 后端需 NVIDIA 8 GB 以上显存、驱动 528.33/525.60.13 以上；建议 32 GB 系统内存。", "highlights": ["双后端：llama.cpp（独立 llama-server 进程）与 ComfyUI 内置，均启用 MTP 多 token 预测", "使用 Qwen 官方系统提示词与采样设置，增强结果与模型推理分离输出", "模型与 llama-server 首次使用自动下载，支持 Q8_0/Q4_K_M 量化与 kv_cache/vision_on_cpu 等显存选项", "支持最多 10 张任意尺寸输入图像的多图编辑，以及社区 abliterated 变体"], "use_cases": ["在 ComfyUI 工作流前自动把简短想法扩写为 Qwen-Image 2.1 适用的详细提示词", "用自然语言编辑指令配合多张输入图像做图像编辑", "在 NVIDIA GPU 上用 llama.cpp 后端加速提示词生成"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": "gpu-8g", "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI 自定义节点", "提示词工程", "图像生成", "文本生成加速"], "domain": "图像生成/ComfyUI 工具链", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["llama.cpp"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L23: - **llama.cpp**: for NVIDIA GPUs. It runs the PE in a separate llama-server process with MTP, at about **2×** (text-to-i", "L119: **Why use it:** it generates the enhanced prompt much faster than the ComfyUI backend: with MTP on both, 47 vs 34 tok/s "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mozophe/ComfyUI-Qwen-Image-2.1-PromptEnhancer-MTP",
+ "sha": "b6506745cf59",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 ComfyUI 中运行 Qwen-Image 2.1 官方提示词增强器的节点",
+  "review": "面向 ComfyUI 用户的自定义节点：将简短想法或编辑指令交给 Qwen-Image 2.1 官方提示词增强器（PE），输出详细提示词。支持两种后端：llama.cpp（NVIDIA GPU，独立 llama-server 进程，官方设置下文生图约 2×、编辑约 3.5× 于 ComfyUI 自带文本生成速度）与 ComfyUI 内置（任意 ComfyUI 支持的 GPU，约 1.4–1.7×）。两种后端均启用 MTP 多 token 预测；支持最多 10 张输入图像编辑、社区 abliterated 变体；模型与 llama-server 首次使用自动下载。限制：llama.cpp 后端需 NVIDIA 8 GB 以上显存、驱动 528.33/525.60.13 以上；建议 32 GB 系统内存。",
+  "highlights": [
+   "双后端：llama.cpp（独立 llama-server 进程）与 ComfyUI 内置，均启用 MTP 多 token 预测",
+   "使用 Qwen 官方系统提示词与采样设置，增强结果与模型推理分离输出",
+   "模型与 llama-server 首次使用自动下载，支持 Q8_0/Q4_K_M 量化与 kv_cache/vision_on_cpu 等显存选项",
+   "支持最多 10 张任意尺寸输入图像的多图编辑，以及社区 abliterated 变体"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流前自动把简短想法扩写为 Qwen-Image 2.1 适用的详细提示词",
+   "用自然语言编辑指令配合多张输入图像做图像编辑",
+   "在 NVIDIA GPU 上用 llama.cpp 后端加速提示词生成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI 自定义节点",
+   "提示词工程",
+   "图像生成",
+   "文本生成加速"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L23: - **llama.cpp**: for NVIDIA GPUs. It runs the PE in a separate llama-server process with MTP, at about **2×** (text-to-i",
+   "L119: **Why use it:** it generates the enhanced prompt much faster than the ComfyUI backend: with MTP on both, 47 vs 34 tok/s "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ ACL 2022 论文《Bag-of-Words vs. Graph vs. Sequence in Text Classification》�
 
 ## 场景标签
 
- · 领域:NLP/文本分类
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

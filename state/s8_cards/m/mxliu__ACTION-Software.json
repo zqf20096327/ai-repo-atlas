@@ -1,1 +1,78 @@
-{"fn": "mxliu/ACTION-Software", "sha": "a0b822eb08b2", "source": "readme", "identity": {"one_liner": "脑科研者用的 fMRI 分析工具箱：数据增强、脑网络构建与 AI 建模", "review": "面向功能磁共振成像（fMRI）研究者的开源 Python 软件工具箱，提供图形界面，功能覆盖 fMRI 数据增强（BOLD 信号与图增强）、脑网络构建（Pearson 相关、互信息、稀疏表示等 8 类方法）、网络特征提取、机器学习与深度学习模型构建。预训练部分包含 13 种图神经网络编码器（基于 3,806 例公开静息态 fMRI 自监督预训练），另附 5 种联邦学习方法用于多站点研究。深度学习模型通过 Pretrain_*.py / Finetune_*.py 脚本运行，要求输入形状为 (nsub, nlength, nroi) 的时间序列数据。由 UNC-CH 团队维护，学术用户免费使用。", "highlights": ["13 种图神经网络编码器在 3,806 例静息态 fMRI 上自监督预训练", "5 种联邦学习方法（FedAvg/FedProx/MOON/pFedMe/LGFedAvg）支持多站点研究", "BOLD 信号与图数据双通道增强、8 类脑网络构建方法", "提供图形界面与 SVM/XGBoost 等传统机器学习建模流程"], "use_cases": ["对 fMRI 数据做脑网络构建与特征提取", "微调预训练图神经网络编码器做疾病分类等下游任务", "跨站点 fMRI 研究中使用联邦学习训练模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["fMRI分析", "脑网络", "图神经网络", "联邦学习", "科学计算工具"], "domain": "神经影像/脑科学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: The Augmentation and Computation Toolbox for braIn netwOrk aNalysis (ACTION) is an open-source Python software, designed", "L73: 1. The feature encoders of ten deep learning models are pretrained on 3,806 unlabeled fMRI scans from public cohorts in "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mxliu/ACTION-Software",
+ "sha": "a0b822eb08b2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "脑科研者用的 fMRI 分析工具箱：数据增强、脑网络构建与 AI 建模",
+  "review": "面向功能磁共振成像（fMRI）研究者的开源 Python 软件工具箱，提供图形界面，功能覆盖 fMRI 数据增强（BOLD 信号与图增强）、脑网络构建（Pearson 相关、互信息、稀疏表示等 8 类方法）、网络特征提取、机器学习与深度学习模型构建。预训练部分包含 13 种图神经网络编码器（基于 3,806 例公开静息态 fMRI 自监督预训练），另附 5 种联邦学习方法用于多站点研究。深度学习模型通过 Pretrain_*.py / Finetune_*.py 脚本运行，要求输入形状为 (nsub, nlength, nroi) 的时间序列数据。由 UNC-CH 团队维护，学术用户免费使用。",
+  "highlights": [
+   "13 种图神经网络编码器在 3,806 例静息态 fMRI 上自监督预训练",
+   "5 种联邦学习方法（FedAvg/FedProx/MOON/pFedMe/LGFedAvg）支持多站点研究",
+   "BOLD 信号与图数据双通道增强、8 类脑网络构建方法",
+   "提供图形界面与 SVM/XGBoost 等传统机器学习建模流程"
+  ],
+  "use_cases": [
+   "对 fMRI 数据做脑网络构建与特征提取",
+   "微调预训练图神经网络编码器做疾病分类等下游任务",
+   "跨站点 fMRI 研究中使用联邦学习训练模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "fMRI分析",
+   "脑网络",
+   "图神经网络",
+   "联邦学习",
+   "科学计算工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: The Augmentation and Computation Toolbox for braIn netwOrk aNalysis (ACTION) is an open-source Python software, designed",
+   "L73: 1. The feature encoders of ten deep learning models are pretrained on 3,806 unlabeled fMRI scans from public cohorts in "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

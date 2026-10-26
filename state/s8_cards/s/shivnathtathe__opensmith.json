@@ -1,1 +1,78 @@
-{"fn": "shivnathtathe/opensmith", "sha": "6ac29275efe0", "source": "readme", "identity": {"one_liner": "本地优先的 LLM 追踪观测工具：LangSmith 的开源替代", "review": "面向 Python LLM 应用的本地追踪与观测库：通过 @trace 装饰器、上下文管理器或 autopatch() 零代码侵入方式追踪任意 Python LLM 流水线，支持 openai/anthropic/litellm 及 qdrant/chromadb/pinecone 等后端的自动打点。追踪数据默认存本地 SQLite（~/.opensmith/traces.db），可选 Postgres 存储；提供 opensmith ui 本地面板（localhost:7823）、CLI 过滤/统计/导出（JSON/CSV）、token 预算告警与 OpenTelemetry 可选导出。自称 LangSmith 的本地替代，不依赖云账号与 Docker。", "highlights": ["@trace / 上下文管理器 / autopatch() 三种接入方式，autopatch 可零代码改动", "追踪数据 100% 本地存储，默认 SQLite，可选 Postgres", "内置本地面板 opensmith ui 与 CLI（过滤、统计、JSON/CSV 导出）", "支持 openai/anthropic/litellm 等后端自动打点，OpenTelemetry 可选导出"], "use_cases": ["本地查看与调试 LLM/RAG 流水线的调用追踪", "不将追踪数据上传云端的前提下做 LLM 观测", "统计 trace/step/token/cost 聚合指标并导出分析"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM可观测性", "tracing", "本地优先", "MLOps", "RAG调试"], "domain": "LLM 基础设施/可观测性", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L13: The open-source, local-first alternative to LangSmith.", "L31: LangSmith is powerful, but it is built around cloud-hosted tracing and is most natural inside the LangChain ecosystem. o", "L158: ## Supported backends"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shivnathtathe/opensmith",
+ "sha": "6ac29275efe0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 LLM 追踪观测工具：LangSmith 的开源替代",
+  "review": "面向 Python LLM 应用的本地追踪与观测库：通过 @trace 装饰器、上下文管理器或 autopatch() 零代码侵入方式追踪任意 Python LLM 流水线，支持 openai/anthropic/litellm 及 qdrant/chromadb/pinecone 等后端的自动打点。追踪数据默认存本地 SQLite（~/.opensmith/traces.db），可选 Postgres 存储；提供 opensmith ui 本地面板（localhost:7823）、CLI 过滤/统计/导出（JSON/CSV）、token 预算告警与 OpenTelemetry 可选导出。自称 LangSmith 的本地替代，不依赖云账号与 Docker。",
+  "highlights": [
+   "@trace / 上下文管理器 / autopatch() 三种接入方式，autopatch 可零代码改动",
+   "追踪数据 100% 本地存储，默认 SQLite，可选 Postgres",
+   "内置本地面板 opensmith ui 与 CLI（过滤、统计、JSON/CSV 导出）",
+   "支持 openai/anthropic/litellm 等后端自动打点，OpenTelemetry 可选导出"
+  ],
+  "use_cases": [
+   "本地查看与调试 LLM/RAG 流水线的调用追踪",
+   "不将追踪数据上传云端的前提下做 LLM 观测",
+   "统计 trace/step/token/cost 聚合指标并导出分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM可观测性",
+   "tracing",
+   "本地优先",
+   "MLOps",
+   "RAG调试"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: The open-source, local-first alternative to LangSmith.",
+   "L31: LangSmith is powerful, but it is built around cloud-hosted tracing and is most natural inside the LangChain ecosystem. o",
+   "L158: ## Supported backends"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

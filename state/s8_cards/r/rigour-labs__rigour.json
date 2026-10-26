@@ -1,1 +1,79 @@
-{"fn": "rigour-labs/rigour", "sha": "e080c26597f4", "source": "readme", "identity": {"one_liner": "面向 AI 编码代理的团队规范守护与代码审查工具", "review": "面向使用编码代理（Claude Code、Cursor、Codex、Cline、Windsurf）的开发团队的 CLI 工具：在代理编辑前注入仓库规则与团队经验摘要，在每次编辑、声明完成和 git push 前运行检查（格式化、lint、类型检查、相关测试），并提供带团队上下文的模型审查器。仅在有人工修正、团队决策或跨作者复现等证据时才将审查点转为经验教训；不做模型训练或微调。检查本地运行，模型调用走代理自身登录或用户 key，本地免费；通过 npx/npm/brew 安装，提供 Studio 界面与 Claude Code 插件。", "highlights": ["编辑前摘要（briefing）注入仓库规则与经验，最多三条且带引用", "编辑/完成/push 三个时机的检查门控，push 前运行团队自己的工具链", "仅在证据（人工修正、团队决策、跨作者复现）基础上积累经验教训", "多公司 Profile 隔离：按仓库选择，数据不跨公司流动"], "use_cases": ["团队统一各编码代理的输出到本仓库规范", "在 push 前拦截秘密泄漏、风险模式与未通过测试的变更", "把资深工程师的评审意见沉淀为所有代理共享的经验", "回放历史评审（backtest）验证审查器的覆盖情况"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编码代理", "代码审查", "guardrails", "开发者工具", "团队协作"], "domain": "开发工具/代码质量", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: Works with Claude Code, Cursor, Codex, Cline and Windsurf. Free, open source, and runs on your machine.", "L19: 2. **Verify while writing and before push.** Your team's checks and rules gate any agent's work: on every edit, before t", "L51: |Before `git push`|The same, plus your formatter, linter, type check and related tests, and the reviewer that remembers|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rigour-labs/rigour",
+ "sha": "e080c26597f4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编码代理的团队规范守护与代码审查工具",
+  "review": "面向使用编码代理（Claude Code、Cursor、Codex、Cline、Windsurf）的开发团队的 CLI 工具：在代理编辑前注入仓库规则与团队经验摘要，在每次编辑、声明完成和 git push 前运行检查（格式化、lint、类型检查、相关测试），并提供带团队上下文的模型审查器。仅在有人工修正、团队决策或跨作者复现等证据时才将审查点转为经验教训；不做模型训练或微调。检查本地运行，模型调用走代理自身登录或用户 key，本地免费；通过 npx/npm/brew 安装，提供 Studio 界面与 Claude Code 插件。",
+  "highlights": [
+   "编辑前摘要（briefing）注入仓库规则与经验，最多三条且带引用",
+   "编辑/完成/push 三个时机的检查门控，push 前运行团队自己的工具链",
+   "仅在证据（人工修正、团队决策、跨作者复现）基础上积累经验教训",
+   "多公司 Profile 隔离：按仓库选择，数据不跨公司流动"
+  ],
+  "use_cases": [
+   "团队统一各编码代理的输出到本仓库规范",
+   "在 push 前拦截秘密泄漏、风险模式与未通过测试的变更",
+   "把资深工程师的评审意见沉淀为所有代理共享的经验",
+   "回放历史评审（backtest）验证审查器的覆盖情况"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码代理",
+   "代码审查",
+   "guardrails",
+   "开发者工具",
+   "团队协作"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: Works with Claude Code, Cursor, Codex, Cline and Windsurf. Free, open source, and runs on your machine.",
+   "L19: 2. **Verify while writing and before push.** Your team's checks and rules gate any agent's work: on every edit, before t",
+   "L51: |Before `git push`|The same, plus your formatter, linter, type check and related tests, and the reviewer that remembers|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

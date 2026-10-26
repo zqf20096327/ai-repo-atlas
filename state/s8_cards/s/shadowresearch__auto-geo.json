@@ -1,1 +1,82 @@
-{"fn": "shadowresearch/auto-geo", "sha": "ab01d98065ab", "source": "readme", "identity": {"one_liner": "开源 GEO 引擎：让品牌被 ChatGPT/Claude/Gemini 等 AI 搜索引用", "review": "面向希望提升 AI 搜索引擎引用率的品牌与营销团队的文件式 CLI 工具，MIT 协议。闭环流程：doctor 按七块 GEO 架构审计任意 URL 的引用就绪度并给出分数；write/fix 调用 LLM（默认 gpt-5.4 或 claude-sonnet-4-6，经 Vercel AI SDK generateObject 约束输出到 schema）生成或重写页面；check 向 Perplexity/OpenAI/Anthropic/Gemini/xAI 实测域名是否被引用；history 输出趋势。全部数据存本地文件，无服务器、无账号、无数据库，需自备各引擎 API key。", "highlights": ["doctor 审计页面引用就绪度，退出码可用于 CI 门禁（≥75% 通过）", "write/fix 通过 LLM 生成符合 GEO schema 的结构化页面 JSON，含成本估算与 dry-run", "check 实测 5 家 AI 引擎（Perplexity/OpenAI/Anthropic/Gemini/xAI）的真实引用情况", "全文件式、可提交版本库，无服务器/账号/数据库"], "use_cases": ["审计我的页面在 AI 搜索回答中被引用的就绪度", "为目标查询批量生成符合 GEO 架构的发布页", "持续跟踪域名在 ChatGPT/Perplexity 等引擎中的引用覆盖率变化"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["GEO/AEO", "AI搜索优化", "CLI工具", "内容生成", "SEO替代"], "domain": "营销/AI 搜索优化工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "xai"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L13: **The open-source GEO engine that gets your brand mentioned in ChatGPT, Claude, Gemini, Perplexity, and Grok.**", "L15: Audit, generate, fix, and track the pages large language models cite — one CLI, file-based, MIT.", "L144: The system prompt encodes the GEO SOP — TL;DR length, answer-capsule windows, banned superlatives, FAQ structure — and o", "L212: Engines: **perplexity** (default), **openai**, **anthropic**, **gemini**, **xai** (alias `grok`), or **`--engine all`** "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shadowresearch/auto-geo",
+ "sha": "ab01d98065ab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 GEO 引擎：让品牌被 ChatGPT/Claude/Gemini 等 AI 搜索引用",
+  "review": "面向希望提升 AI 搜索引擎引用率的品牌与营销团队的文件式 CLI 工具，MIT 协议。闭环流程：doctor 按七块 GEO 架构审计任意 URL 的引用就绪度并给出分数；write/fix 调用 LLM（默认 gpt-5.4 或 claude-sonnet-4-6，经 Vercel AI SDK generateObject 约束输出到 schema）生成或重写页面；check 向 Perplexity/OpenAI/Anthropic/Gemini/xAI 实测域名是否被引用；history 输出趋势。全部数据存本地文件，无服务器、无账号、无数据库，需自备各引擎 API key。",
+  "highlights": [
+   "doctor 审计页面引用就绪度，退出码可用于 CI 门禁（≥75% 通过）",
+   "write/fix 通过 LLM 生成符合 GEO schema 的结构化页面 JSON，含成本估算与 dry-run",
+   "check 实测 5 家 AI 引擎（Perplexity/OpenAI/Anthropic/Gemini/xAI）的真实引用情况",
+   "全文件式、可提交版本库，无服务器/账号/数据库"
+  ],
+  "use_cases": [
+   "审计我的页面在 AI 搜索回答中被引用的就绪度",
+   "为目标查询批量生成符合 GEO 架构的发布页",
+   "持续跟踪域名在 ChatGPT/Perplexity 等引擎中的引用覆盖率变化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GEO/AEO",
+   "AI搜索优化",
+   "CLI工具",
+   "内容生成",
+   "SEO替代"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: **The open-source GEO engine that gets your brand mentioned in ChatGPT, Claude, Gemini, Perplexity, and Grok.**",
+   "L15: Audit, generate, fix, and track the pages large language models cite — one CLI, file-based, MIT.",
+   "L144: The system prompt encodes the GEO SOP — TL;DR length, answer-capsule windows, banned superlatives, FAQ structure — and o",
+   "L212: Engines: **perplexity** (default), **openai**, **anthropic**, **gemini**, **xai** (alias `grok`), or **`--engine all`** "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

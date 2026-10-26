@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:前端开发/AI Agent 集成
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

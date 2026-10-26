@@ -1,1 +1,77 @@
-{"fn": "ntnu-ai-lab/EvoLP.jl", "sha": "6b9bf98b312d", "source": "readme", "identity": {"one_liner": "Julia 进化计算实验场：积木式构建优化算法", "review": "Julia 语言的进化计算工具库：提供随机种群生成器、父代选择算子、多种交叉与变异方法、基准测试函数、结果报告与统计日志簿等预定义积木，可组合成自定义算法，或直接使用内置的 GA、1+1EA、PSO 极小化器；支持通过 MPI.jl 扩展实现并行化与岛屿模型。面向优化任务（离散、连续、组合），主要供科研与教学使用，起源于 NTNU 博士生的内部工具箱，附有会议论文可引用。", "highlights": ["随机种群生成、选择、交叉、变异等可组合积木", "内置 GA、1+1EA、PSO 极小化器", "MPI.jl 扩展支持并行化与岛屿模型", "统计日志簿与基准测试函数"], "use_cases": ["组合积木快速搭建进化算法求解优化问题", "教学或研究中实验 GA/PSO 等算法", "基准测试函数上对比优化器表现"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["进化计算", "优化算法", "Julia", "科研工具"], "domain": "优化算法/进化计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: **EvoLP.jl** is a _playground_ for evolutionary computation in Julia. It provides a set of predefined _building blocks_ ", "L20: Combine these blocks to make your own algorithms or use some of the included minimisers: GA, 1+1EA and PSO.", "L75: EvoLP.jl started as a toolbox for internal use by PhD students of NTNU's Open AI Lab, and whose funding is provided by P"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ntnu-ai-lab/EvoLP.jl",
+ "sha": "6b9bf98b312d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Julia 进化计算实验场：积木式构建优化算法",
+  "review": "Julia 语言的进化计算工具库：提供随机种群生成器、父代选择算子、多种交叉与变异方法、基准测试函数、结果报告与统计日志簿等预定义积木，可组合成自定义算法，或直接使用内置的 GA、1+1EA、PSO 极小化器；支持通过 MPI.jl 扩展实现并行化与岛屿模型。面向优化任务（离散、连续、组合），主要供科研与教学使用，起源于 NTNU 博士生的内部工具箱，附有会议论文可引用。",
+  "highlights": [
+   "随机种群生成、选择、交叉、变异等可组合积木",
+   "内置 GA、1+1EA、PSO 极小化器",
+   "MPI.jl 扩展支持并行化与岛屿模型",
+   "统计日志簿与基准测试函数"
+  ],
+  "use_cases": [
+   "组合积木快速搭建进化算法求解优化问题",
+   "教学或研究中实验 GA/PSO 等算法",
+   "基准测试函数上对比优化器表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "进化计算",
+   "优化算法",
+   "Julia",
+   "科研工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **EvoLP.jl** is a _playground_ for evolutionary computation in Julia. It provides a set of predefined _building blocks_ ",
+   "L20: Combine these blocks to make your own algorithms or use some of the included minimisers: GA, 1+1EA and PSO.",
+   "L75: EvoLP.jl started as a toolbox for internal use by PhD students of NTNU's Open AI Lab, and whose funding is provided by P"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,76 @@
-{"fn": "rhammell/planesnet", "sha": "e644d0e38927", "source": "readme", "identity": {"one_liner": "飞机检测训练数据集：3.2 万张 Planet 卫星影像标注切片", "review": "从 Planet 卫星影像（PlanetScope 视觉场景，3 米分辨率正射校正）提取的带标注图像切片数据集，共 32000 张 20x20 RGB 图像，分为 plane（8000 张）与 no-plane（24000 张，含地物采样、部分机身、易混淆亮目标三类各三分之一）两类，用于训练飞机位置检测的机器学习算法。提供 .7z 压缩 PNG 目录与 Python 可加载的 pickle 文件（data/labels/scene_ids/locations 四个元素），文件名编码标签、场景 ID 与经纬度。影像源自 Planet Open California 数据，按 CC-BY-SA 许可发布。", "highlights": ["32000 张 20x20 RGB 切片，plane/no-plane 二分类标注", "no-plane 类含混淆样本：曾被机器学习模型误判的亮目标切片", "提供 pickle 格式，加载为含 data/labels/scene_ids/locations 的 Python 字典", "文件名编码标签、PlanetScope 场景 ID 与中心点经纬度"], "use_cases": ["训练卫星影像中的飞机检测模型", "研究遥感目标检测中的易混淆样本问题", "通过场景 ID 结合 Planet API 下载原始影像"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据集", "遥感", "目标检测", "训练数据"], "domain": "遥感/计算机视觉数据集", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L2: PlanesNet is a labeled dataset consiting of image chips extracted from Planet satellite imagery. The purpose of PlanesNe", "L4: The dataset includes 32000 20x20 RGB images labeled with either a \"plane\" or \"no-plane\" classification. Image chips were"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rhammell/planesnet",
+ "sha": "e644d0e38927",
+ "source": "readme",
+ "identity": {
+  "one_liner": "飞机检测训练数据集：3.2 万张 Planet 卫星影像标注切片",
+  "review": "从 Planet 卫星影像（PlanetScope 视觉场景，3 米分辨率正射校正）提取的带标注图像切片数据集，共 32000 张 20x20 RGB 图像，分为 plane（8000 张）与 no-plane（24000 张，含地物采样、部分机身、易混淆亮目标三类各三分之一）两类，用于训练飞机位置检测的机器学习算法。提供 .7z 压缩 PNG 目录与 Python 可加载的 pickle 文件（data/labels/scene_ids/locations 四个元素），文件名编码标签、场景 ID 与经纬度。影像源自 Planet Open California 数据，按 CC-BY-SA 许可发布。",
+  "highlights": [
+   "32000 张 20x20 RGB 切片，plane/no-plane 二分类标注",
+   "no-plane 类含混淆样本：曾被机器学习模型误判的亮目标切片",
+   "提供 pickle 格式，加载为含 data/labels/scene_ids/locations 的 Python 字典",
+   "文件名编码标签、PlanetScope 场景 ID 与中心点经纬度"
+  ],
+  "use_cases": [
+   "训练卫星影像中的飞机检测模型",
+   "研究遥感目标检测中的易混淆样本问题",
+   "通过场景 ID 结合 Planet API 下载原始影像"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集",
+   "遥感",
+   "目标检测",
+   "训练数据"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: PlanesNet is a labeled dataset consiting of image chips extracted from Planet satellite imagery. The purpose of PlanesNe",
+   "L4: The dataset includes 32000 20x20 RGB images labeled with either a \"plane\" or \"no-plane\" classification. Image chips were"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

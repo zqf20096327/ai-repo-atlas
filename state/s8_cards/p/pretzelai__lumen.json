@@ -1,1 +1,75 @@
-{"fn": "pretzelai/lumen", "sha": "8bccdd26b6f1", "source": "readme", "identity": {"one_liner": "面向 SaaS 的计费与功能授权平台，按功能而非套餐管理访问", "review": "Lumen 是面向 SaaS 开发者的计费与授权（entitlements）平台：以功能（feature）为核心组织访问控制，通过 isFeatureEntitled 等 API 判断用户是否有权使用某功能，替代散落在代码中的套餐判断逻辑。支持基于用量的计费、内置 React 定价表与用量组件，由平台处理 Stripe webhook 编排；非技术成员可通过 Dashboard 修改定价。支付集成覆盖 Stripe 与 Dodo Payments，Paddle、checkout.com、Razorpay、Adyen 为计划中。服务印度、美国与欧洲商户，提供 npm 安装与自托管开发环境（Docker 含 PostgreSQL/MinIO/pgAdmin）。", "highlights": ["feature-first 的功能授权 API（isFeatureEntitled/sendEvent）", "平台代管 Stripe webhook 编排", "内置 shadcn React 定价表与用量跟踪组件", "支持基于用量的计费与 Dashboard 免代码改价"], "use_cases": ["SaaS 应用快速接入订阅计费与功能门控", "产品/运营人员不改代码调整套餐与试用策略", "按功能使用量进行计量计费"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["计费/订阅管理", "SaaS 工具", "功能授权", "支付集成"], "domain": "SaaS 计费/支付基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: The fastest way to add billing and feature access to your SaaS. Lumen is PSP agnostic and support merchants in India, Un", "L29: Lumen is a modern billing and entitlements platform that eliminates the complexity of implementing subscription manageme", "L50:   await isFeatureEntitled({ feature: \"advanced-analytics\", userId: user.id })"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pretzelai/lumen",
+ "sha": "8bccdd26b6f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 SaaS 的计费与功能授权平台，按功能而非套餐管理访问",
+  "review": "Lumen 是面向 SaaS 开发者的计费与授权（entitlements）平台：以功能（feature）为核心组织访问控制，通过 isFeatureEntitled 等 API 判断用户是否有权使用某功能，替代散落在代码中的套餐判断逻辑。支持基于用量的计费、内置 React 定价表与用量组件，由平台处理 Stripe webhook 编排；非技术成员可通过 Dashboard 修改定价。支付集成覆盖 Stripe 与 Dodo Payments，Paddle、checkout.com、Razorpay、Adyen 为计划中。服务印度、美国与欧洲商户，提供 npm 安装与自托管开发环境（Docker 含 PostgreSQL/MinIO/pgAdmin）。",
+  "highlights": [
+   "feature-first 的功能授权 API（isFeatureEntitled/sendEvent）",
+   "平台代管 Stripe webhook 编排",
+   "内置 shadcn React 定价表与用量跟踪组件",
+   "支持基于用量的计费与 Dashboard 免代码改价"
+  ],
+  "use_cases": [
+   "SaaS 应用快速接入订阅计费与功能门控",
+   "产品/运营人员不改代码调整套餐与试用策略",
+   "按功能使用量进行计量计费"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计费/订阅管理",
+   "SaaS 工具",
+   "功能授权",
+   "支付集成"
+  ],
+  "domain": "SaaS 计费/支付基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: The fastest way to add billing and feature access to your SaaS. Lumen is PSP agnostic and support merchants in India, Un",
+   "L29: Lumen is a modern billing and entitlements platform that eliminates the complexity of implementing subscription manageme",
+   "L50:   await isFeatureEntitled({ feature: \"advanced-analytics\", userId: user.id })"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Trace-First Workflow（TFW）是一套面向人与 AI agent 协同工作的方�
 
 ## 场景标签
 
- · 领域:知识管理/工程方法论
+`知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 

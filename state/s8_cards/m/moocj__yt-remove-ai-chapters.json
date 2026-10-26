@@ -1,1 +1,73 @@
-{"fn": "moocj/yt-remove-ai-chapters", "sha": "22949fe98da4", "source": "readme", "identity": {"one_liner": "移除 YouTube AI 自动生成章节的浏览器用户脚本", "review": "一段浏览器用户脚本（userscript），用于移除 YouTube 为无章节视频自动添加的 AI 生成章节；由创作者手动添加的章节不受影响。安装方式包括从 Greasyfork 直接安装、Firefox 扩展形式安装，或经 Tampermonkey/Violentmonkey/Greasemonkey/Userscripts 等脚本管理器手动安装，安装后刷新 YouTube 生效。脚本本身不运行 AI 模型，仅对页面上的 AI 生成内容做移除处理。", "highlights": ["移除 YouTube AI 自动生成的视频章节", "保留创作者手动添加的章节", "支持 Greasyfork、Firefox 扩展及主流脚本管理器多种安装方式"], "use_cases": ["观看视频时去掉误导性或不准确的 AI 章节", "恢复更顺畅的视频进度条拖动体验", "仅保留创作者自己标注的章节"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["用户脚本", "YouTube", "浏览器扩展", "AI内容清理"], "domain": "浏览器用户脚本/视频平台工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Removes YouTube's AI-generated video chapters. Chapters added by the creator are not changed.", "L9: YouTube now add AI-generated chapters to videos that did not have any. These chapters are not only not very informative,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "moocj/yt-remove-ai-chapters",
+ "sha": "22949fe98da4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "移除 YouTube AI 自动生成章节的浏览器用户脚本",
+  "review": "一段浏览器用户脚本（userscript），用于移除 YouTube 为无章节视频自动添加的 AI 生成章节；由创作者手动添加的章节不受影响。安装方式包括从 Greasyfork 直接安装、Firefox 扩展形式安装，或经 Tampermonkey/Violentmonkey/Greasemonkey/Userscripts 等脚本管理器手动安装，安装后刷新 YouTube 生效。脚本本身不运行 AI 模型，仅对页面上的 AI 生成内容做移除处理。",
+  "highlights": [
+   "移除 YouTube AI 自动生成的视频章节",
+   "保留创作者手动添加的章节",
+   "支持 Greasyfork、Firefox 扩展及主流脚本管理器多种安装方式"
+  ],
+  "use_cases": [
+   "观看视频时去掉误导性或不准确的 AI 章节",
+   "恢复更顺畅的视频进度条拖动体验",
+   "仅保留创作者自己标注的章节"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "用户脚本",
+   "YouTube",
+   "浏览器扩展",
+   "AI内容清理"
+  ],
+  "domain": "浏览器用户脚本/视频平台工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Removes YouTube's AI-generated video chapters. Chapters added by the creator are not changed.",
+   "L9: YouTube now add AI-generated chapters to videos that did not have any. These chapters are not only not very informative,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ PULSE 是一套 AI 辅助开发的方法论与工具包，包含 pulse CLI（13 
 
 ## 场景标签
 
- · 领域:开发工具/AI 工作流管理
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

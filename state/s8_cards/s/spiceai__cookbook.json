@@ -1,1 +1,77 @@
-{"fn": "spiceai/cookbook", "sha": "2606c3ed8710", "source": "readme", "identity": {"one_liner": "Spice.ai 数据与 AI 应用的示例配方集合（教程库）", "review": "Spice.ai 官方维护的 OSS Cookbook，收录大量自包含示例配方，覆盖联邦 SQL 查询、数据加速器（DuckDB/PostgreSQL/SQLite/Arrow 等）、30 余种数据连接器（S3、Snowflake、Databricks、Kafka 等）、目录连接器、向量引擎与混合搜索、在 SQL 中调用 LLM 的 ai() 函数、对接 OpenAI/Azure OpenAI/xAI/DeepSeek/NVIDIA NIM 等模型，以及 Kubernetes/Docker 部署、TPC-H 基准与各语言 SDK 用法。面向使用 Spice.ai 构建数据与 AI 应用的开发者，按类别组织可直接运行的示例工程。", "highlights": ["覆盖联邦 SQL、数据加速器与 30 余种数据/目录连接器的示例配方", "含 LLM 接入配方：ai() SQL 函数、OpenAI/Azure/xAI/DeepSeek、本地 Llama3、LLM 评测与 MCP", "Docker、Kubernetes、Sidecar/微服务部署配方与 TPC-H 基准测试示例", "Rust/Python/Go/JS/Java 客户端 SDK 查询示例"], "use_cases": ["查找 Spice.ai 连接特定数据源的示例代码", "学习在 SQL 查询中调用 LLM 的用法", "参考 Docker/Kubernetes 部署与数据加速配置方式"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["示例代码库", "数据联邦查询", "LLM应用", "数据加速", "教程"], "domain": "数据与 AI 基础设施/示例库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # Spice.ai OSS Cookbook", "L3: Welcome to the Spice.ai OSS Cookbook—a comprehensive collection of recipes for building and deploying data & AI applicat"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "spiceai/cookbook",
+ "sha": "2606c3ed8710",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Spice.ai 数据与 AI 应用的示例配方集合（教程库）",
+  "review": "Spice.ai 官方维护的 OSS Cookbook，收录大量自包含示例配方，覆盖联邦 SQL 查询、数据加速器（DuckDB/PostgreSQL/SQLite/Arrow 等）、30 余种数据连接器（S3、Snowflake、Databricks、Kafka 等）、目录连接器、向量引擎与混合搜索、在 SQL 中调用 LLM 的 ai() 函数、对接 OpenAI/Azure OpenAI/xAI/DeepSeek/NVIDIA NIM 等模型，以及 Kubernetes/Docker 部署、TPC-H 基准与各语言 SDK 用法。面向使用 Spice.ai 构建数据与 AI 应用的开发者，按类别组织可直接运行的示例工程。",
+  "highlights": [
+   "覆盖联邦 SQL、数据加速器与 30 余种数据/目录连接器的示例配方",
+   "含 LLM 接入配方：ai() SQL 函数、OpenAI/Azure/xAI/DeepSeek、本地 Llama3、LLM 评测与 MCP",
+   "Docker、Kubernetes、Sidecar/微服务部署配方与 TPC-H 基准测试示例",
+   "Rust/Python/Go/JS/Java 客户端 SDK 查询示例"
+  ],
+  "use_cases": [
+   "查找 Spice.ai 连接特定数据源的示例代码",
+   "学习在 SQL 查询中调用 LLM 的用法",
+   "参考 Docker/Kubernetes 部署与数据加速配置方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例代码库",
+   "数据联邦查询",
+   "LLM应用",
+   "数据加速",
+   "教程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Spice.ai OSS Cookbook",
+   "L3: Welcome to the Spice.ai OSS Cookbook—a comprehensive collection of recipes for building and deploying data & AI applicat"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

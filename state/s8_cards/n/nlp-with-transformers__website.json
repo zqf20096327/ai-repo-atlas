@@ -1,1 +1,71 @@
-{"fn": "nlp-with-transformers/website", "sha": "aff6c0439577", "source": "readme", "identity": {"one_liner": "《Natural Language Processing with Transformers》图书的官方网站", "review": "O'Reilly 图书 Natural Language Processing with Transformers 的配套网站仓库，托管于 GitHub Pages，由 fastpages 驱动。内容修改方式为直接编辑 index.html；本地预览可通过 make server 命令构建（需 Docker）。不包含代码模型或运行功能，仅承载图书介绍与内容页面。", "highlights": ["托管于 GitHub Pages 的图书官方网站", "编辑 index.html 即可修改网站内容", "提供 make server 本地构建预览（依赖 Docker）"], "use_cases": ["查看图书介绍与配套内容", "为图书网站提交内容修改"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://nlp-with-transformers.github.io/website/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["图书网站", "NLP", "transformers", "文档站"], "domain": "AI 图书/文档", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: > Website for our O'Reilly book Natural Language Processing with Transformers."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nlp-with-transformers/website",
+ "sha": "aff6c0439577",
+ "source": "readme",
+ "identity": {
+  "one_liner": "《Natural Language Processing with Transformers》图书的官方网站",
+  "review": "O'Reilly 图书 Natural Language Processing with Transformers 的配套网站仓库，托管于 GitHub Pages，由 fastpages 驱动。内容修改方式为直接编辑 index.html；本地预览可通过 make server 命令构建（需 Docker）。不包含代码模型或运行功能，仅承载图书介绍与内容页面。",
+  "highlights": [
+   "托管于 GitHub Pages 的图书官方网站",
+   "编辑 index.html 即可修改网站内容",
+   "提供 make server 本地构建预览（依赖 Docker）"
+  ],
+  "use_cases": [
+   "查看图书介绍与配套内容",
+   "为图书网站提交内容修改"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://nlp-with-transformers.github.io/website/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图书网站",
+   "NLP",
+   "transformers",
+   "文档站"
+  ],
+  "domain": "AI 图书/文档",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: > Website for our O'Reilly book Natural Language Processing with Transformers."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

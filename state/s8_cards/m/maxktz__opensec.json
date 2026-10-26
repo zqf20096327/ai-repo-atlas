@@ -1,1 +1,77 @@
-{"fn": "maxktz/opensec", "sha": "f00f4354b4f9", "source": "readme", "identity": {"one_liner": "开源仓库安全审查捐赠匹配平台（MVP）", "review": "面向开源维护者与捐赠者的安全审查对接 Web 应用：维护者可为公开 GitHub 仓库申请私有报告，捐赠者用自己的 AI 算力或安全工具执行审查并提交 Markdown 报告；公开页面仅展示仓库元数据与汇总统计，报告全文仅申请者与捐赠者可见。技术栈为 Next.js + Better Auth（仅 GitHub OAuth）+ PostgreSQL/Drizzle ORM，以 Bun + Turborepo 管理工作区，从源码运行。项目自述为 MVP。", "highlights": ["维护者申请仓库安全审查、捐赠者提交 Markdown 报告的对接流程", "报告内容私有，公开页面仅展示元数据与汇总统计", "Next.js + Better Auth(GitHub OAuth) + Drizzle ORM + Bun/Turborepo 技术栈"], "use_cases": ["开源维护者为公开仓库申请安全审查报告", "有闲置 AI 算力或安全工具的用户捐赠安全审查", "查看开源仓库的安全审查状态汇总"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [3]}}, "links": {"scenario_tags": ["开源安全", "代码审计", "捐赠/协作平台", "Web应用"], "domain": "开源安全/社区平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: OpenSec is an MVP for donated security reviews of public open source GitHub repositories.", "L5: Maintainers can request a private report for a public repository. Donors can use their own AI capacity or security tooli"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "maxktz/opensec",
+ "sha": "f00f4354b4f9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源仓库安全审查捐赠匹配平台（MVP）",
+  "review": "面向开源维护者与捐赠者的安全审查对接 Web 应用：维护者可为公开 GitHub 仓库申请私有报告，捐赠者用自己的 AI 算力或安全工具执行审查并提交 Markdown 报告；公开页面仅展示仓库元数据与汇总统计，报告全文仅申请者与捐赠者可见。技术栈为 Next.js + Better Auth（仅 GitHub OAuth）+ PostgreSQL/Drizzle ORM，以 Bun + Turborepo 管理工作区，从源码运行。项目自述为 MVP。",
+  "highlights": [
+   "维护者申请仓库安全审查、捐赠者提交 Markdown 报告的对接流程",
+   "报告内容私有，公开页面仅展示元数据与汇总统计",
+   "Next.js + Better Auth(GitHub OAuth) + Drizzle ORM + Bun/Turborepo 技术栈"
+  ],
+  "use_cases": [
+   "开源维护者为公开仓库申请安全审查报告",
+   "有闲置 AI 算力或安全工具的用户捐赠安全审查",
+   "查看开源仓库的安全审查状态汇总"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开源安全",
+   "代码审计",
+   "捐赠/协作平台",
+   "Web应用"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: OpenSec is an MVP for donated security reviews of public open source GitHub repositories.",
+   "L5: Maintainers can request a private report for a public repository. Donors can use their own AI capacity or security tooli"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

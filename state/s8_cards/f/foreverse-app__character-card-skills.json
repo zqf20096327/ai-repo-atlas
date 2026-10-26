@@ -1,1 +1,82 @@
-{"fn": "foreverse-app/character-card-skills", "sha": "e91f0ac61343", "source": "readme", "identity": {"one_liner": "角色卡作者的 agent 技能包、原创角色卡与 AI 腔调检测工具", "review": "面向角色扮演卡作者的仓库：提供 4 个 SKILL.md 格式的 agent 技能（中文/英文双套创作技能、聊天质量诊断技能、语料风格模仿技能），可在 Claude Code、Cursor、Codex、Gemini CLI 及 Foreverse 应用内运行；附 18 张原创角色卡（v2 JSON + v3 PNG，可导入 SillyTavern 等前端）与一套 Python 3.9+ 无第三方依赖的确定性工具：8 维评分器、AI 腔调扫描、md 转卡转换器与盲评框架。中英文技能分别基于各自社区数据校准，规则在多处互相矛盾。", "highlights": ["中英文双套角色卡创作技能，各自基于本语言社区数据校准", "确定性 AI 腔调检测器与 8 维评分器（Python 3.9+，零第三方依赖）", "18 张原创角色卡以 v2 JSON + v3 PNG 双格式交付，兼容 chara_card_v2/v3 前端", "CI 对每张卡跑评分门槛、检测器回归与转换往返验证"], "use_cases": ["在 Claude Code / Cursor 等 agent 中按流派方法论创作角色卡", "检测自己写的卡是否存在 AI 腔调并做删改手术", "直接导入现成角色卡到 SillyTavern 或 Foreverse 使用"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "角色扮演", "角色卡创作", "提示词工程", "创作辅助"], "domain": "AI 角色play/创作工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中文原生创作技能基于中文社区数据校准", "12 张中文原创角色卡", "中文 AI 腔调样例（一丝凉意）"]}, "trust": {"confidence": "high", "evidence": ["L3: Agent skills, 18 original character cards, and calibrated AI-flavor detectors for roleplay card authors — including, as ", "L16: |`skills/character-card-author/`|The Chinese-native authoring skill: four-axis positioning → 47 genre playbooks → five o", "L21: |`tools/`|`score_card.py` (8-dimension scorer, zh calibration) · `score_card_en.py` (8-dimension scorer, English calibra"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "foreverse-app/character-card-skills",
+ "sha": "e91f0ac61343",
+ "source": "readme",
+ "identity": {
+  "one_liner": "角色卡作者的 agent 技能包、原创角色卡与 AI 腔调检测工具",
+  "review": "面向角色扮演卡作者的仓库：提供 4 个 SKILL.md 格式的 agent 技能（中文/英文双套创作技能、聊天质量诊断技能、语料风格模仿技能），可在 Claude Code、Cursor、Codex、Gemini CLI 及 Foreverse 应用内运行；附 18 张原创角色卡（v2 JSON + v3 PNG，可导入 SillyTavern 等前端）与一套 Python 3.9+ 无第三方依赖的确定性工具：8 维评分器、AI 腔调扫描、md 转卡转换器与盲评框架。中英文技能分别基于各自社区数据校准，规则在多处互相矛盾。",
+  "highlights": [
+   "中英文双套角色卡创作技能，各自基于本语言社区数据校准",
+   "确定性 AI 腔调检测器与 8 维评分器（Python 3.9+，零第三方依赖）",
+   "18 张原创角色卡以 v2 JSON + v3 PNG 双格式交付，兼容 chara_card_v2/v3 前端",
+   "CI 对每张卡跑评分门槛、检测器回归与转换往返验证"
+  ],
+  "use_cases": [
+   "在 Claude Code / Cursor 等 agent 中按流派方法论创作角色卡",
+   "检测自己写的卡是否存在 AI 腔调并做删改手术",
+   "直接导入现成角色卡到 SillyTavern 或 Foreverse 使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "角色扮演",
+   "角色卡创作",
+   "提示词工程",
+   "创作辅助"
+  ],
+  "domain": "AI 角色play/创作工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文原生创作技能基于中文社区数据校准",
+   "12 张中文原创角色卡",
+   "中文 AI 腔调样例（一丝凉意）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Agent skills, 18 original character cards, and calibrated AI-flavor detectors for roleplay card authors — including, as ",
+   "L16: |`skills/character-card-author/`|The Chinese-native authoring skill: four-axis positioning → 47 genre playbooks → five o",
+   "L21: |`tools/`|`score_card.py` (8-dimension scorer, zh calibration) · `score_card_en.py` (8-dimension scorer, English calibra"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -34,7 +34,7 @@ SLANG（Super Language for Agent Negotiation & Governance）是一种以 .slang 
 
 ## 场景标签
 
- · 领域:AI 工作流编排/agent 基础设施
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

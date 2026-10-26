@@ -1,1 +1,86 @@
-{"fn": "pur4v/p2ptokens", "sha": "3c8c534ebe8b", "source": "readme", "identity": {"one_liner": "P2P 去中心化 LLM 推理网络：节点互相共享算力与补全", "review": "用 Rust + libp2p 实现的对等网络：单个二进制既是推理服务提供方（seeder）也是消费方（leecher），接入访问以上传/下载比例（BitTorrent 式 barter ratio）计量，配合签名 co-receipts 防作弊、内容盲协调器不接触推理数据。后端可接 Ollama、任意 OpenAI 兼容端点（vLLM/llama.cpp 等）或 Claude；提供 OpenAI 兼容 /v1 端点、嵌入式聊天 UI、Tauri 桌面应用与 NAT 穿透。限制：v1 协调器状态在内存中（单实例无 DB），服务节点以明文看到 prompt，无 TEE/沙箱，README 自述仅适合非敏感负载。", "highlights": ["上传/下载比例计量 + 签名 co-receipts 反作弊，双方谎报不超一个 chunk", "内容盲协调器：只撮合不接触推理数据，数据面直连 P2P", "OpenAI 兼容 /v1 端点与嵌入式聊天 UI（流式、本地 SQLite 历史）", "single/racing/quorum/ensemble 四种 fan-out 模式与自动 seeder 故障转移"], "use_cases": ["让闲置 GPU 的 Ollama/兼容端点向其他节点供数，换取推理额度", "通过 OpenAI 兼容端点从 P2P 网络获取推理补全", "企业用一份配置 fork 自建私有、白标的推理 swarm"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [219, 251]}}, "links": {"scenario_tags": ["去中心化推理", "P2P网络", "GPU共享", "LLM基础设施", "OpenAI兼容"], "domain": "LLM 基础设施/分布式推理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic", "vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: **Distributed, decentralized LLM inference across a peer-to-peer swarm** — one", "L22: inference**. Run one app; it *seeds* completions from a model you already run", "L23: (Ollama, any OpenAI-compatible endpoint, or Claude) and *leeches* completions", "L115: drop-in **`/v1` endpoint** — point any OpenAI-compatible client at"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pur4v/p2ptokens",
+ "sha": "3c8c534ebe8b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "P2P 去中心化 LLM 推理网络：节点互相共享算力与补全",
+  "review": "用 Rust + libp2p 实现的对等网络：单个二进制既是推理服务提供方（seeder）也是消费方（leecher），接入访问以上传/下载比例（BitTorrent 式 barter ratio）计量，配合签名 co-receipts 防作弊、内容盲协调器不接触推理数据。后端可接 Ollama、任意 OpenAI 兼容端点（vLLM/llama.cpp 等）或 Claude；提供 OpenAI 兼容 /v1 端点、嵌入式聊天 UI、Tauri 桌面应用与 NAT 穿透。限制：v1 协调器状态在内存中（单实例无 DB），服务节点以明文看到 prompt，无 TEE/沙箱，README 自述仅适合非敏感负载。",
+  "highlights": [
+   "上传/下载比例计量 + 签名 co-receipts 反作弊，双方谎报不超一个 chunk",
+   "内容盲协调器：只撮合不接触推理数据，数据面直连 P2P",
+   "OpenAI 兼容 /v1 端点与嵌入式聊天 UI（流式、本地 SQLite 历史）",
+   "single/racing/quorum/ensemble 四种 fan-out 模式与自动 seeder 故障转移"
+  ],
+  "use_cases": [
+   "让闲置 GPU 的 Ollama/兼容端点向其他节点供数，换取推理额度",
+   "通过 OpenAI 兼容端点从 P2P 网络获取推理补全",
+   "企业用一份配置 fork 自建私有、白标的推理 swarm"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    219,
+    251
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "去中心化推理",
+   "P2P网络",
+   "GPU共享",
+   "LLM基础设施",
+   "OpenAI兼容"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Distributed, decentralized LLM inference across a peer-to-peer swarm** — one",
+   "L22: inference**. Run one app; it *seeds* completions from a model you already run",
+   "L23: (Ollama, any OpenAI-compatible endpoint, or Claude) and *leeches* completions",
+   "L115: drop-in **`/v1` endpoint** — point any OpenAI-compatible client at"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

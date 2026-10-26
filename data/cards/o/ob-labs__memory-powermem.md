@@ -33,7 +33,7 @@ OpenClaw 插件，将 PowerMem 长期记忆系统接入 OpenClaw agent：提供�
 
 ## 场景标签
 
- · 领域:AI agent 记忆/LLM 基础设施
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

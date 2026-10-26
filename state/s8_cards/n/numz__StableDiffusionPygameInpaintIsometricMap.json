@@ -1,1 +1,81 @@
-{"fn": "numz/StableDiffusionPygameInpaintIsometricMap", "sha": "a8ecd8103d4c", "source": "readme", "identity": {"one_liner": "用 Stable Diffusion 在 Pygame 等距地图游戏内生成自定义图形与动画的技术演示", "review": "开源技术演示：基于 Pygame 的等距地图游戏，在游戏内绘制形状（Shift+左键创建元素、Ctrl+左键创建动画）、输入 prompt 后调用本地 Automatic1111 Stable Diffusion WebUI（需以 --api 启动）的 img2img 接口，生成或替换地图上的图形元素并为水、火、岩浆、烟雾等元素生成动画帧。默认 prompt 模板与 payload 可在 Config/config.py 和 payloads/payload.json 中编辑。演示使用 v1-5-pruned-emaonly.ckpt 模型，MIT 许可，处于技术演示阶段（含待办事项如 Tile 编辑器）。", "highlights": ["游戏内绘制形状并以 prompt 调用 Stable Diffusion img2img 生成地图元素", "为水/火/岩浆/烟雾/云等元素生成动画", "通过 Automatic1111 WebUI --api 接口调用本地 Stable Diffusion", "prompt 模板与 payload 可在配置文件中编辑"], "use_cases": ["在等距地图游戏中自定义图形元素外观", "为地图中的水、火等元素生成动画", "学习 Pygame 与 Stable Diffusion API 集成的技术方案"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://youtu.be/vJml7Hf4jPs", "self_declared_early": {"flag": true, "lines": [5, 101]}}, "links": {"scenario_tags": ["游戏", "生成式艺术", "等距地图", "Stable Diffusion", "图像生成/图生图"], "domain": "游戏/生成式艺术", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: This technical demo is an open-source project that allows users to customize the appearance and design of the map in gam", "L17: - Create your own map with stable diffusion", "L37: 1. Launch Stable diffusion webui with \"--api\" flag"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "numz/StableDiffusionPygameInpaintIsometricMap",
+ "sha": "a8ecd8103d4c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 Stable Diffusion 在 Pygame 等距地图游戏内生成自定义图形与动画的技术演示",
+  "review": "开源技术演示：基于 Pygame 的等距地图游戏，在游戏内绘制形状（Shift+左键创建元素、Ctrl+左键创建动画）、输入 prompt 后调用本地 Automatic1111 Stable Diffusion WebUI（需以 --api 启动）的 img2img 接口，生成或替换地图上的图形元素并为水、火、岩浆、烟雾等元素生成动画帧。默认 prompt 模板与 payload 可在 Config/config.py 和 payloads/payload.json 中编辑。演示使用 v1-5-pruned-emaonly.ckpt 模型，MIT 许可，处于技术演示阶段（含待办事项如 Tile 编辑器）。",
+  "highlights": [
+   "游戏内绘制形状并以 prompt 调用 Stable Diffusion img2img 生成地图元素",
+   "为水/火/岩浆/烟雾/云等元素生成动画",
+   "通过 Automatic1111 WebUI --api 接口调用本地 Stable Diffusion",
+   "prompt 模板与 payload 可在配置文件中编辑"
+  ],
+  "use_cases": [
+   "在等距地图游戏中自定义图形元素外观",
+   "为地图中的水、火等元素生成动画",
+   "学习 Pygame 与 Stable Diffusion API 集成的技术方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/vJml7Hf4jPs",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5,
+    101
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏",
+   "生成式艺术",
+   "等距地图",
+   "Stable Diffusion",
+   "图像生成/图生图"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This technical demo is an open-source project that allows users to customize the appearance and design of the map in gam",
+   "L17: - Create your own map with stable diffusion",
+   "L37: 1. Launch Stable diffusion webui with \"--api\" flag"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

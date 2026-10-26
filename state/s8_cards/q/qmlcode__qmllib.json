@@ -1,1 +1,76 @@
-{"fn": "qmlcode/qmllib", "sha": "f0b79f79bb1a", "source": "readme", "identity": {"one_liner": "分子与固体机器学习的表示和核函数工具库", "review": "Python/Fortran 工具包，为分子和固体性质的机器学习提供表示（representation）与核（kernel）等基础构件，而非高层框架（无 model.train() 抽象）。实现 FCHL19/FCHL18、Coulomb Matrix、Bag of Bonds、SLATM、ACSF、AARAD 等表示，并附各方法论文引用。通过 PyPI 提供 Linux/macOS 预编译 wheel（OpenBLAS/Accelerate、OpenMP），源码安装需 Fortran 编译器与 BLAS。从原 QML 包迁移而来，接口有破坏性变更，采用自由函数设计。", "highlights": ["提供 FCHL19/FCHL18、Coulomb Matrix、Bag of Bonds、SLATM、ACSF、AARAD 等分子表示", "Python/Fortran 实现，预编译 wheel 带优化 BLAS 与 OpenMP 支持", "自由函数设计，不提供高层模型训练抽象", "附各表示方法对应的论文引用信息"], "use_cases": ["为分子/固体性质预测构建机器学习特征表示", "科研中复现或使用 FCHL 等量子机器学习方法", "从原 qml 包迁移到更新的核心库接口"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.1063/1.5126701", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["量子化学", "分子表示", "机器学习库", "材料科学"], "domain": "计算化学/机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: `qmllib` is a Python/Fortran toolkit for representation of molecules and solids for machine learning of properties of mo", "L14: `qmllib` represents the core library functionality derived from the original QML package, providing a powerful toolkit f"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "qmlcode/qmllib",
+ "sha": "f0b79f79bb1a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "分子与固体机器学习的表示和核函数工具库",
+  "review": "Python/Fortran 工具包，为分子和固体性质的机器学习提供表示（representation）与核（kernel）等基础构件，而非高层框架（无 model.train() 抽象）。实现 FCHL19/FCHL18、Coulomb Matrix、Bag of Bonds、SLATM、ACSF、AARAD 等表示，并附各方法论文引用。通过 PyPI 提供 Linux/macOS 预编译 wheel（OpenBLAS/Accelerate、OpenMP），源码安装需 Fortran 编译器与 BLAS。从原 QML 包迁移而来，接口有破坏性变更，采用自由函数设计。",
+  "highlights": [
+   "提供 FCHL19/FCHL18、Coulomb Matrix、Bag of Bonds、SLATM、ACSF、AARAD 等分子表示",
+   "Python/Fortran 实现，预编译 wheel 带优化 BLAS 与 OpenMP 支持",
+   "自由函数设计，不提供高层模型训练抽象",
+   "附各表示方法对应的论文引用信息"
+  ],
+  "use_cases": [
+   "为分子/固体性质预测构建机器学习特征表示",
+   "科研中复现或使用 FCHL 等量子机器学习方法",
+   "从原 qml 包迁移到更新的核心库接口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1063/1.5126701",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量子化学",
+   "分子表示",
+   "机器学习库",
+   "材料科学"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: `qmllib` is a Python/Fortran toolkit for representation of molecules and solids for machine learning of properties of mo",
+   "L14: `qmllib` represents the core library functionality derived from the original QML package, providing a powerful toolkit f"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

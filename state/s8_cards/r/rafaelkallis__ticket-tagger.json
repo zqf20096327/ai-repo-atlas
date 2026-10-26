@@ -1,1 +1,69 @@
-{"fn": "rafaelkallis/ticket-tagger", "sha": "0badcd3155d5", "source": "readme", "identity": {"one_liner": "基于机器学习的 GitHub issue 自动分类机器人", "review": "以 GitHub App 形式提供的 issue 分类机器人：用户将其安装到仓库后，利用 Fasttext 机器学习模型对新建 issue 自动打标签。安装途径是访问 GitHub App 页面一键安装；开发模式下需 Node.js 编译与安装依赖，从源码 git clone 运行。项目基于 AGPL 许可，衍生自 BEE 与 Github Issue Classification Evaluation 两项工作。README 较简短，未给出模型细节与部署要求。", "highlights": ["以 GitHub App 形式安装，无需本地部署即可使用", "使用 Fasttext 模型对 issue 自动分类", "开发模式提供 git clone 源码运行方式，需 Node.js"], "use_cases": ["我想让新提的 issue 自动打上分类标签，减少人工整理", "维护多个开源仓库时自动归类 issue"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["issue 分类", "GitHub App", "机器学习", "开发运维自动化"], "domain": "开发工具/机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Machine learning driven issue classification bot.", "L27: - Fasttext"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rafaelkallis/ticket-tagger",
+ "sha": "0badcd3155d5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于机器学习的 GitHub issue 自动分类机器人",
+  "review": "以 GitHub App 形式提供的 issue 分类机器人：用户将其安装到仓库后，利用 Fasttext 机器学习模型对新建 issue 自动打标签。安装途径是访问 GitHub App 页面一键安装；开发模式下需 Node.js 编译与安装依赖，从源码 git clone 运行。项目基于 AGPL 许可，衍生自 BEE 与 Github Issue Classification Evaluation 两项工作。README 较简短，未给出模型细节与部署要求。",
+  "highlights": [
+   "以 GitHub App 形式安装，无需本地部署即可使用",
+   "使用 Fasttext 模型对 issue 自动分类",
+   "开发模式提供 git clone 源码运行方式，需 Node.js"
+  ],
+  "use_cases": [
+   "我想让新提的 issue 自动打上分类标签，减少人工整理",
+   "维护多个开源仓库时自动归类 issue"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "issue 分类",
+   "GitHub App",
+   "机器学习",
+   "开发运维自动化"
+  ],
+  "domain": "开发工具/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Machine learning driven issue classification bot.",
+   "L27: - Fasttext"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

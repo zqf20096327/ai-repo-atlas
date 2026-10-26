@@ -1,0 +1,59 @@
+# inssist/mcp
+
+⭐ 27 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/inssist/mcp) · [官网](https://inssist.com/feature-guides/inssist-mcp-server-for-ai-agents) · 组织维护
+
+**让 AI agent 操作本人 Instagram 会话的 MCP 服务器**
+
+基于 stdio 的 MCP 服务器，配合 INSSIST Chrome 扩展，让 Claude Code、Codex、Cursor 等 agent 在用户已登录的浏览器会话内读写 Instagram：读取主页/帖子/快拍、收发私信、发布与排期帖子/reel/快拍（含音乐）、拉取洞察与受众报告、下载媒体，覆盖个人/创作者/商业账号。服务器仅绑定 127.0.0.1，工具调用经 loopback 交给扩展执行，不持有 Instagram 凭证。通过 npx 注册安装，Node.js 22+ 与 INSSIST 扩展为前置条件，部分工具需 PRO 订阅。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 60 个工具覆盖读取、DM、发布排期、洞察、受众扫描与下载
+- 经用户已登录浏览器操作，不代理、不持有 Instagram 凭证，服务器仅绑定 127.0.0.1
+- 多 agent 进程通过 hub/peer 机制共享同一浏览器连接
+- 长任务（扫描/洞察/下载）采用后台启动加轮询模式，大批列表可导出 CSV
+
+## 适用场景
+
+- 用 Claude Code/Cursor 等 agent 查看主页、未读私信并起草回复
+- 让 agent 排期发布带音乐的 reel 或快拍
+- 运行掉粉扫描、反机器人扫描并导出报告
+- 批量下载某账号最近的帖子到本地
+
+## 场景标签
+
+`浏览器自动化` `网页抓取` · 领域:效率与自动化
+
+## 证据(README 行号)
+
+> L7: The MCP server that lets an AI agent work inside **your own logged-in Instagram session**,
+> L16: so Claude Code, Codex, Cursor or Claude Desktop can read profiles and DMs, publish and schedule
+> L93: 60 tools, grouped the way the extension's **Tools & features** panel groups them. **PRO** marks
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "inssist/mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    y-axis "stars" 26 --> 32
+    line [31, 27, 27]
+```
+
+2026-10-18 31 → 2026-10-26 27（-4）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-26 · 置信度 high · 依据 README sha `9e8391c8d8a3` · [字段定义](../../DATASET.md)*

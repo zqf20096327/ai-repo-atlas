@@ -33,7 +33,7 @@ AESTETIK 是论文 “Representation learning for multi-modal spatially resolved
 
 ## 场景标签
 
- · 领域:生物信息学/空间生物学
+`多模态` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ OneBrain 是开源的 AI OS 层（MIT/Apache-2.0），扩展 Claude Code、Gemin
 
 ## 场景标签
 
- · 领域:AI 基础设施/agent 记忆层
+`Agent 记忆` `知识库管理` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

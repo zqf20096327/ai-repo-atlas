@@ -1,1 +1,78 @@
-{"fn": "princepal9120/ai-learning", "sha": "333f6a58296c", "source": "readme", "identity": {"one_liner": "AI/ML/GenAI/Agentic AI 学习路线资源清单", "review": "以主题大纲形式组织的学习资源仓库：从数学基础、Python、ML、深度学习、MLOps、Transformers，到 LangChain、RAG、向量数据库与 Agentic AI，共 40+ 主题。每个主题给出描述并列出免费学习资源，其中印地语资源主要来自 CampusX 与 Krish Naik，英语资源涵盖官方文档、论文与课程。另在多阶段附项目实践清单（分类应用、RAG 问答、多智能体研究助手等），标注所用数据集与技术栈。仓库不含代码实现，仅为链接索引与大纲。", "highlights": ["40+ 主题覆盖数学/ML/DL/MLOps/LLM/Agentic AI 全路径", "每主题并列提供印地语与英语免费学习资源", "6 组项目实践清单，标注数据集与技术栈（LangChain/FAISS/ChromaDB 等）"], "use_cases": ["按大纲系统自学从 ML 基础到 Agentic AI", "为各阶段寻找配套的免费视频/文档/论文资源", "参照项目清单做动手实践"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["学习路线图", "资源清单", "LLM/GenAI教育", "Agentic AI", "项目实践"], "domain": "AI/ML 教育与知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["印地语学习资源分列（CampusX/Krish Naik）"]}, "trust": {"confidence": "high", "evidence": ["L1: # 🚀 Complete AI Learning Roadmap", "L3: > _Your comprehensive guide to mastering GenAI and Agentic AI — from fundamentals to advanced deployment_"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "princepal9120/ai-learning",
+ "sha": "333f6a58296c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI/ML/GenAI/Agentic AI 学习路线资源清单",
+  "review": "以主题大纲形式组织的学习资源仓库：从数学基础、Python、ML、深度学习、MLOps、Transformers，到 LangChain、RAG、向量数据库与 Agentic AI，共 40+ 主题。每个主题给出描述并列出免费学习资源，其中印地语资源主要来自 CampusX 与 Krish Naik，英语资源涵盖官方文档、论文与课程。另在多阶段附项目实践清单（分类应用、RAG 问答、多智能体研究助手等），标注所用数据集与技术栈。仓库不含代码实现，仅为链接索引与大纲。",
+  "highlights": [
+   "40+ 主题覆盖数学/ML/DL/MLOps/LLM/Agentic AI 全路径",
+   "每主题并列提供印地语与英语免费学习资源",
+   "6 组项目实践清单，标注数据集与技术栈（LangChain/FAISS/ChromaDB 等）"
+  ],
+  "use_cases": [
+   "按大纲系统自学从 ML 基础到 Agentic AI",
+   "为各阶段寻找配套的免费视频/文档/论文资源",
+   "参照项目清单做动手实践"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习路线图",
+   "资源清单",
+   "LLM/GenAI教育",
+   "Agentic AI",
+   "项目实践"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "印地语学习资源分列（CampusX/Krish Naik）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # 🚀 Complete AI Learning Roadmap",
+   "L3: > _Your comprehensive guide to mastering GenAI and Agentic AI — from fundamentals to advanced deployment_"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

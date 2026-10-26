@@ -1,1 +1,79 @@
-{"fn": "leonlucc/tiny-agent", "sha": "849b213762fb", "source": "readme", "identity": {"one_liner": "从零手写 AI Agent 的渐进式教学项目与配套教程", "review": "轻量级 AI 智能体开源项目，同时是与源码同步演进的渐进式开发教程：从最简单的 LLM 调用开始，逐步构建具备感知、记忆、规划、行动能力的智能体，覆盖 ReAct、长记忆、多智能体等链路。零重型框架依赖，LLM、向量库、工具调用、记忆模块解耦可替换；单进程同时托管原生 HTML 前端与 FastAPI 后端，一键启动。每个 Git Tag 均为独立可运行版本。README 明确本项目侧重教学，生产场景建议选用 LangChain 等框架。", "highlights": ["零重型框架依赖的单文件模块实现，注释完整", "LLM、向量库、工具调用、记忆模块解耦，支持替换与扩展", "单进程托管前后端，无需前端打包工具一键启动", "每个 Git Tag 独立可运行，支持分版本渐进学习"], "use_cases": ["从零理解 ReAct、RAG 和工具调用的底层原理", "逐版本跟写并调试一个可运行的 Agent", "快速本地验证 Agent 相关想法，无需搭建前端环境"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Agent教程", "LLM应用", "学习项目", "ReAct", "RAG"], "domain": "AI Agent 教学/开发", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本"]}, "trust": {"confidence": "high", "evidence": ["L11: Tiny Agent 是一个轻量级的 AI 智能体开源项目，也是一本与源码同步演进的渐进式开发教程。项目遵循**由浅入深、循序渐进**的设计理念，不依赖复杂框架，从一次最简单的大模型调用开始，逐步构建出一个具备感知、记忆、规划、行动能力的智", "L59: Tiny Agent 核心目标优先服务教学与原理学习，而非商用复杂业务落地："], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "leonlucc/tiny-agent",
+ "sha": "849b213762fb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从零手写 AI Agent 的渐进式教学项目与配套教程",
+  "review": "轻量级 AI 智能体开源项目，同时是与源码同步演进的渐进式开发教程：从最简单的 LLM 调用开始，逐步构建具备感知、记忆、规划、行动能力的智能体，覆盖 ReAct、长记忆、多智能体等链路。零重型框架依赖，LLM、向量库、工具调用、记忆模块解耦可替换；单进程同时托管原生 HTML 前端与 FastAPI 后端，一键启动。每个 Git Tag 均为独立可运行版本。README 明确本项目侧重教学，生产场景建议选用 LangChain 等框架。",
+  "highlights": [
+   "零重型框架依赖的单文件模块实现，注释完整",
+   "LLM、向量库、工具调用、记忆模块解耦，支持替换与扩展",
+   "单进程托管前后端，无需前端打包工具一键启动",
+   "每个 Git Tag 独立可运行，支持分版本渐进学习"
+  ],
+  "use_cases": [
+   "从零理解 ReAct、RAG 和工具调用的底层原理",
+   "逐版本跟写并调试一个可运行的 Agent",
+   "快速本地验证 Agent 相关想法，无需搭建前端环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent教程",
+   "LLM应用",
+   "学习项目",
+   "ReAct",
+   "RAG"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Tiny Agent 是一个轻量级的 AI 智能体开源项目，也是一本与源码同步演进的渐进式开发教程。项目遵循**由浅入深、循序渐进**的设计理念，不依赖复杂框架，从一次最简单的大模型调用开始，逐步构建出一个具备感知、记忆、规划、行动能力的智",
+   "L59: Tiny Agent 核心目标优先服务教学与原理学习，而非商用复杂业务落地："
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

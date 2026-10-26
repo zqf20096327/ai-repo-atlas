@@ -1,1 +1,77 @@
-{"fn": "momenbasel/awesome-mac-mini-homeserver", "sha": "b29a75a2ab8c", "source": "readme", "identity": {"one_liner": "Mac mini 家庭服务器与本地 agentic AI 工具策展清单（260+ 条）", "review": "面向 Apple Silicon Mac mini 用户与自托管爱好者的 awesome 清单：收录 260+ 条工具、指南与项目，按 Agentic AI（本地 LLM 运行时、agent 框架、编码 agent）、媒体服务器（Jellyfin/Sonarr 等）、自托管应用（Vaultwarden/Gitea 等）组织。提供 install.sh 一键安装脚本，可非交互安装整套 stack（Agentic/Media/Selfhosted/all），并用徽章标注 Apple Silicon/Intel/Docker 等兼容性。条目本身为工具索引，需另行安装各工具。", "highlights": ["install.sh 一键安装脚本，支持 agentic/media/selfhosted/all 四种 stack", "按 Agentic AI、媒体服务器、自托管应用分类组织 260+ 条工具", "徽章体系标注 Apple Silicon/Intel/Universal、Native/Docker、Paid 兼容性", "附带 Time Machine 服务器配置脚本与 LLM 内存选型文档"], "use_cases": ["把 Mac mini 改造成 24/7 本地 AI 与自托管服务器", "查找适配 Apple Silicon 的本地 LLM 运行时与 agent 框架", "一键搭建媒体服务器或密码库等自托管服务"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "自托管/homelab", "本地LLM", "agentic AI", "Apple Silicon"], "domain": "自托管/家庭服务器/本地 AI 工具聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L12:  A curated list of tools, guides, and projects for running an Apple Silicon Mac mini as a 24/7 home server, with agentic", "L149: ## Agentic AI"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "momenbasel/awesome-mac-mini-homeserver",
+ "sha": "b29a75a2ab8c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Mac mini 家庭服务器与本地 agentic AI 工具策展清单（260+ 条）",
+  "review": "面向 Apple Silicon Mac mini 用户与自托管爱好者的 awesome 清单：收录 260+ 条工具、指南与项目，按 Agentic AI（本地 LLM 运行时、agent 框架、编码 agent）、媒体服务器（Jellyfin/Sonarr 等）、自托管应用（Vaultwarden/Gitea 等）组织。提供 install.sh 一键安装脚本，可非交互安装整套 stack（Agentic/Media/Selfhosted/all），并用徽章标注 Apple Silicon/Intel/Docker 等兼容性。条目本身为工具索引，需另行安装各工具。",
+  "highlights": [
+   "install.sh 一键安装脚本，支持 agentic/media/selfhosted/all 四种 stack",
+   "按 Agentic AI、媒体服务器、自托管应用分类组织 260+ 条工具",
+   "徽章体系标注 Apple Silicon/Intel/Universal、Native/Docker、Paid 兼容性",
+   "附带 Time Machine 服务器配置脚本与 LLM 内存选型文档"
+  ],
+  "use_cases": [
+   "把 Mac mini 改造成 24/7 本地 AI 与自托管服务器",
+   "查找适配 Apple Silicon 的本地 LLM 运行时与 agent 框架",
+   "一键搭建媒体服务器或密码库等自托管服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "自托管/homelab",
+   "本地LLM",
+   "agentic AI",
+   "Apple Silicon"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12:  A curated list of tools, guides, and projects for running an Apple Silicon Mac mini as a 24/7 home server, with agentic",
+   "L149: ## Agentic AI"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

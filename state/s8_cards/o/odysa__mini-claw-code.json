@@ -1,1 +1,82 @@
-{"fn": "odysa/mini-claw-code", "sha": "464d9631af67", "source": "readme", "identity": {"one_liner": "用 Rust 从零构建编程 agent 的教程书（18 章测试驱动）", "review": "以 Claude Code 架构为参照、用 Rust 从零构建编程 agent 的英文/中文双语教程：从消息协议、Tool trait、agentic loop 讲到流式、权限引擎、hooks、Plan 模式与配置层级，共 18 章，每章以填充 starter crate 桩代码并通过 cargo test 验证的方式推进，仓库含 book、starter、参考实现与 xtask 四个 crate。第 5 章前无需 API key，之后经 OpenRouter 接入真实 LLM（默认模型免费档）。明确警告：第 13 章前的核心 agent 具有无限制 shell 访问，勿运行不可信内容。", "highlights": ["18 章测试驱动教程，覆盖工具接口、流式、权限引擎、hooks、Plan 模式、配置层级", "工作区含 starter（填空）、参考实现与双语 book，cargo x book 本地双语言阅读", "第 5 章前无需 API key，默认模型走 OpenRouter 免费档", "核心 agent 有无限制 shell 访问的安全警告（13 章前无防护）"], "use_cases": ["系统学习 coding agent 的内部机制并亲手用 Rust 实现", "理解流式、权限、hooks、Plan 模式等 agent 架构组件", "以 Claude Code 为参照做自己的 agent 原型"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程/书籍", "coding agent", "Rust", "LLM应用开发"], "domain": "AI 开发教程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文版图书与中文 README（L8, L9）", "本地 book 中文路径 /zh/（L123, L167）"]}, "trust": {"confidence": "high", "evidence": ["L5:  Build a coding agent from scratch in Rust — guided by Claude Code's architecture.", "L28: This book builds that loop from scratch and then grows it into the full architecture of a real coding agent: streaming, ", "L130: Every hands-on chapter follows the same rhythm:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "odysa/mini-claw-code",
+ "sha": "464d9631af67",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 Rust 从零构建编程 agent 的教程书（18 章测试驱动）",
+  "review": "以 Claude Code 架构为参照、用 Rust 从零构建编程 agent 的英文/中文双语教程：从消息协议、Tool trait、agentic loop 讲到流式、权限引擎、hooks、Plan 模式与配置层级，共 18 章，每章以填充 starter crate 桩代码并通过 cargo test 验证的方式推进，仓库含 book、starter、参考实现与 xtask 四个 crate。第 5 章前无需 API key，之后经 OpenRouter 接入真实 LLM（默认模型免费档）。明确警告：第 13 章前的核心 agent 具有无限制 shell 访问，勿运行不可信内容。",
+  "highlights": [
+   "18 章测试驱动教程，覆盖工具接口、流式、权限引擎、hooks、Plan 模式、配置层级",
+   "工作区含 starter（填空）、参考实现与双语 book，cargo x book 本地双语言阅读",
+   "第 5 章前无需 API key，默认模型走 OpenRouter 免费档",
+   "核心 agent 有无限制 shell 访问的安全警告（13 章前无防护）"
+  ],
+  "use_cases": [
+   "系统学习 coding agent 的内部机制并亲手用 Rust 实现",
+   "理解流式、权限、hooks、Plan 模式等 agent 架构组件",
+   "以 Claude Code 为参照做自己的 agent 原型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/书籍",
+   "coding agent",
+   "Rust",
+   "LLM应用开发"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文版图书与中文 README（L8, L9）",
+   "本地 book 中文路径 /zh/（L123, L167）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Build a coding agent from scratch in Rust — guided by Claude Code's architecture.",
+   "L28: This book builds that loop from scratch and then grows it into the full architecture of a real coding agent: streaming, ",
+   "L130: Every hands-on chapter follows the same rhythm:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

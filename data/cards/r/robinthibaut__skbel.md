@@ -33,7 +33,7 @@ Python 库 skbel 实现 Bayesian Evidential Learning 框架：通过预测变量
 
 ## 场景标签
 
- · 领域:科学计算/水文地质（贝叶斯机器学习）
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

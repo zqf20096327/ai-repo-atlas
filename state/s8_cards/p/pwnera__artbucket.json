@@ -1,1 +1,75 @@
-{"fn": "pwnera/artbucket", "sha": "d358f3983012", "source": "readme", "identity": {"one_liner": "自托管开源品牌资产管理系统，供团队与 AI agent 统一读取", "review": "面向团队的 DAM（数字资产管理）与品牌管理平台：将资产、品牌规则、授权权利、发布版本集中在一个目录，人通过 Web 应用与门户访问，AI agent 通过 MCP 查询，代码通过 REST API、CLI 与 Git 消费同一数据。提供使用前合规检查（check_use）、按需尺寸/格式 rendition URL、资产级权限、审批流、C2PA 溯源与 Brand as code（YAML 存 Git）。自托管依赖 Node 22+、pnpm、Docker、Postgres 与 S3 兼容存储，AGPL-3.0 许可。", "highlights": ["同一数据源同时服务人（Web/门户）、agent（MCP）与代码（REST/CLI/Git）", "资产使用合规检查与授权管理（许可、渠道、地域、有效期）", "10 万资产毫秒级搜索，单一原始文件生成任意尺寸/格式 URL", "C2PA 溯源读取与 IPTC/XMP 元数据回写，Brand as code 以 YAML 存 Git"], "use_cases": ["团队统一管理品牌资产、规范与授权，避免误用过期素材", "让 AI agent 在生成内容前查询当前品牌资产并做使用合规检查", "为合作伙伴、媒体构建品牌门户与 press kit 并自动校验资产有效性"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["DAM", "品牌管理", "MCP", "自托管", "数字资产管理"], "domain": "品牌资产管理/DAM", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: Artbucket keeps a brand's assets, rules, rights and releases together, and", "L65: The whole core is here, free to self-host on Postgres and an S3-compatible"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pwnera/artbucket",
+ "sha": "d358f3983012",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管开源品牌资产管理系统，供团队与 AI agent 统一读取",
+  "review": "面向团队的 DAM（数字资产管理）与品牌管理平台：将资产、品牌规则、授权权利、发布版本集中在一个目录，人通过 Web 应用与门户访问，AI agent 通过 MCP 查询，代码通过 REST API、CLI 与 Git 消费同一数据。提供使用前合规检查（check_use）、按需尺寸/格式 rendition URL、资产级权限、审批流、C2PA 溯源与 Brand as code（YAML 存 Git）。自托管依赖 Node 22+、pnpm、Docker、Postgres 与 S3 兼容存储，AGPL-3.0 许可。",
+  "highlights": [
+   "同一数据源同时服务人（Web/门户）、agent（MCP）与代码（REST/CLI/Git）",
+   "资产使用合规检查与授权管理（许可、渠道、地域、有效期）",
+   "10 万资产毫秒级搜索，单一原始文件生成任意尺寸/格式 URL",
+   "C2PA 溯源读取与 IPTC/XMP 元数据回写，Brand as code 以 YAML 存 Git"
+  ],
+  "use_cases": [
+   "团队统一管理品牌资产、规范与授权，避免误用过期素材",
+   "让 AI agent 在生成内容前查询当前品牌资产并做使用合规检查",
+   "为合作伙伴、媒体构建品牌门户与 press kit 并自动校验资产有效性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "DAM",
+   "品牌管理",
+   "MCP",
+   "自托管",
+   "数字资产管理"
+  ],
+  "domain": "品牌资产管理/DAM",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Artbucket keeps a brand's assets, rules, rights and releases together, and",
+   "L65: The whole core is here, free to self-host on Postgres and an S3-compatible"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

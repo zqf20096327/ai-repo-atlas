@@ -1,1 +1,77 @@
-{"fn": "santifer/watermark-remover", "sha": "52728989c8d4", "source": "readme", "identity": {"one_liner": "用 YOLO 检测+LaMa 修补去除图片水印的 CLI 工具", "review": "面向需要批量处理带水印图片的用户的命令行工具：YOLO 自动检测水印位置，LaMa 模型对水印区域进行图像修补重建，并提供 OpenCV 修补作为更快备选；当 YOLO 未检测到水印时回退到图像角落处理。以 git clone 源码方式安装，需 Python 3.10+ 与约 2GB 内存，LaMa 模型（约 200MB）首次使用时自动下载到 ~/.cache/torch/。提供置信度、padding、角落参数等选项，README 含英文与西班牙文双语。", "highlights": ["YOLO 自动检测水印，无需手动配置", "LaMa inpainting 重建图像，另有 OpenCV 快速备选方法", "未检测到时回退到图像角落处理（可配置角落位置与尺寸比例）", "LaMa 模型首次使用自动下载"], "use_cases": ["批量去除 LinkedIn 头像、图库素材等图片上的水印", "对简单水印用 OpenCV 方法快速处理"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["图像处理", "水印去除", "CLI工具", "目标检测", "图像修补"], "domain": "图像处理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: > CLI tool to remove watermarks from images using artificial intelligence.", "L30: - **Automatic detection** with YOLO - detects watermarks without manual configuration", "L31: - **LaMa inpainting** - realistically reconstructs the image"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "santifer/watermark-remover",
+ "sha": "52728989c8d4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 YOLO 检测+LaMa 修补去除图片水印的 CLI 工具",
+  "review": "面向需要批量处理带水印图片的用户的命令行工具：YOLO 自动检测水印位置，LaMa 模型对水印区域进行图像修补重建，并提供 OpenCV 修补作为更快备选；当 YOLO 未检测到水印时回退到图像角落处理。以 git clone 源码方式安装，需 Python 3.10+ 与约 2GB 内存，LaMa 模型（约 200MB）首次使用时自动下载到 ~/.cache/torch/。提供置信度、padding、角落参数等选项，README 含英文与西班牙文双语。",
+  "highlights": [
+   "YOLO 自动检测水印，无需手动配置",
+   "LaMa inpainting 重建图像，另有 OpenCV 快速备选方法",
+   "未检测到时回退到图像角落处理（可配置角落位置与尺寸比例）",
+   "LaMa 模型首次使用自动下载"
+  ],
+  "use_cases": [
+   "批量去除 LinkedIn 头像、图库素材等图片上的水印",
+   "对简单水印用 OpenCV 方法快速处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像处理",
+   "水印去除",
+   "CLI工具",
+   "目标检测",
+   "图像修补"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: > CLI tool to remove watermarks from images using artificial intelligence.",
+   "L30: - **Automatic detection** with YOLO - detects watermarks without manual configuration",
+   "L31: - **LaMa inpainting** - realistically reconstructs the image"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

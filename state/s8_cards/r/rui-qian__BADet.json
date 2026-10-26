@@ -1,1 +1,76 @@
-{"fn": "rui-qian/BADet", "sha": "5b657cfe0953", "source": "readme", "identity": {"one_liner": "基于点云的边界感知 3D 目标检测研究代码（Pattern Recognition 2022）", "review": "BADet 是论文配套的 3D 目标检测 PyTorch 实现，面向自动驾驶点云检测研究者：将各 proposal 表示为图节点、在截断阈值内构建局部邻域图以利用边界相关性，并用轻量 Region Feature Aggregation Module 融合 voxel/pixel/point 级特征。在 KITTI 与 nuScenes 上验证，2021 年 4 月居 KITTI BEV 检测榜第一（ Moderate Car ），运行速度 7.1 FPS。代码基于 mmdetection 开发，需编译 C++/CUDA 模块并配置 CUDA 环境变量，提供 KITTI 数据准备脚本、预训练模型（Hugging Face/iCloud）与训练/评测命令。", "highlights": ["proposal 邻域图构建显式利用边界相关性", "Region Feature Aggregation Module 融合 voxel/pixel/point 级特征", "提供 KITTI 预训练模型与训练/评测脚本", "2021-04 居 KITTI BEV 检测榜第一（Moderate Car），运行 7.1 FPS"], "use_cases": ["在 KITTI/nuScenes 上复现论文的 3D 检测结果", "基于预训练模型做点云目标检测评测", "借鉴边界感知机制开发两阶段 3D 检测器"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "high", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2104.10330", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["3D目标检测", "点云", "自动驾驶", "科研复现"], "domain": "自动驾驶/3D 计算机视觉", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L44: In this paper, we propose BADet for 3D object detection from point clouds. Specifically, instead", "L50: We validate BADet both on widely used KITTI Dataset and highly challenging nuScenes Dataset."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rui-qian/BADet",
+ "sha": "5b657cfe0953",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于点云的边界感知 3D 目标检测研究代码（Pattern Recognition 2022）",
+  "review": "BADet 是论文配套的 3D 目标检测 PyTorch 实现，面向自动驾驶点云检测研究者：将各 proposal 表示为图节点、在截断阈值内构建局部邻域图以利用边界相关性，并用轻量 Region Feature Aggregation Module 融合 voxel/pixel/point 级特征。在 KITTI 与 nuScenes 上验证，2021 年 4 月居 KITTI BEV 检测榜第一（ Moderate Car ），运行速度 7.1 FPS。代码基于 mmdetection 开发，需编译 C++/CUDA 模块并配置 CUDA 环境变量，提供 KITTI 数据准备脚本、预训练模型（Hugging Face/iCloud）与训练/评测命令。",
+  "highlights": [
+   "proposal 邻域图构建显式利用边界相关性",
+   "Region Feature Aggregation Module 融合 voxel/pixel/point 级特征",
+   "提供 KITTI 预训练模型与训练/评测脚本",
+   "2021-04 居 KITTI BEV 检测榜第一（Moderate Car），运行 7.1 FPS"
+  ],
+  "use_cases": [
+   "在 KITTI/nuScenes 上复现论文的 3D 检测结果",
+   "基于预训练模型做点云目标检测评测",
+   "借鉴边界感知机制开发两阶段 3D 检测器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2104.10330",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "3D目标检测",
+   "点云",
+   "自动驾驶",
+   "科研复现"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L44: In this paper, we propose BADet for 3D object detection from point clouds. Specifically, instead",
+   "L50: We validate BADet both on widely used KITTI Dataset and highly challenging nuScenes Dataset."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

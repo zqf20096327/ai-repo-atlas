@@ -1,1 +1,78 @@
-{"fn": "speedydivid/TokenForge", "sha": "47b4a800f0ca", "source": "readme", "identity": {"one_liner": "优化 AI 编程代理上下文的开源引擎：压缩工具输出并持久化会话记忆", "review": "面向使用 Claude Code、Gemini CLI、VS Code Copilot、OpenCode、Codex CLI 等 AI 编程代理的开发者的上下文优化引擎。通过 hooks 与 MCP 集成拦截工具交互，在输出到达代理前过滤或压缩（支持的工作流中称最高减少 98%），将有用会话信息存入本地 SQLite 并以 FTS5 全文检索召回，支持跨 17 个平台进行工具路由。README 未给出具体安装命令，仅显示 Download Now 链接。", "highlights": ["通过 hooks 与 MCP 拦截并压缩工具输出（支持工作流中称最高减少 98%）", "SQLite + FTS5 存储与检索持久化会话记忆", "跨 17 个支持平台进行工具路由", "兼容 5 种 AI 编程代理环境"], "use_cases": ["减少 Claude Code / Gemini CLI 等代理会话中的 token 消耗", "跨会话保留项目记忆，避免重复解释", "压缩冗长工具输出保持编码会话聚焦"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["上下文工程", "token优化", "MCP", "AI编程代理", "会话记忆"], "domain": "开发工具/AI 代理基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: TokenForge is an open-source context optimization engine designed to reduce token consumption, preserve session memory, ", "L18: - **MCP Integration** — connect AI coding agents through the Model Context Protocol.", "L36: 1. Intercepts supported tool interactions through hooks and MCP integrations."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "speedydivid/TokenForge",
+ "sha": "47b4a800f0ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "优化 AI 编程代理上下文的开源引擎：压缩工具输出并持久化会话记忆",
+  "review": "面向使用 Claude Code、Gemini CLI、VS Code Copilot、OpenCode、Codex CLI 等 AI 编程代理的开发者的上下文优化引擎。通过 hooks 与 MCP 集成拦截工具交互，在输出到达代理前过滤或压缩（支持的工作流中称最高减少 98%），将有用会话信息存入本地 SQLite 并以 FTS5 全文检索召回，支持跨 17 个平台进行工具路由。README 未给出具体安装命令，仅显示 Download Now 链接。",
+  "highlights": [
+   "通过 hooks 与 MCP 拦截并压缩工具输出（支持工作流中称最高减少 98%）",
+   "SQLite + FTS5 存储与检索持久化会话记忆",
+   "跨 17 个支持平台进行工具路由",
+   "兼容 5 种 AI 编程代理环境"
+  ],
+  "use_cases": [
+   "减少 Claude Code / Gemini CLI 等代理会话中的 token 消耗",
+   "跨会话保留项目记忆，避免重复解释",
+   "压缩冗长工具输出保持编码会话聚焦"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "上下文工程",
+   "token优化",
+   "MCP",
+   "AI编程代理",
+   "会话记忆"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: TokenForge is an open-source context optimization engine designed to reduce token consumption, preserve session memory, ",
+   "L18: - **MCP Integration** — connect AI coding agents through the Model Context Protocol.",
+   "L36: 1. Intercepts supported tool interactions through hooks and MCP integrations."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

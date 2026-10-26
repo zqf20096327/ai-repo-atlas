@@ -1,1 +1,82 @@
-{"fn": "milosgajdos/bot-banter", "sha": "d90616dbb1e7", "source": "readme", "identity": {"one_liner": "演示两个机器人用 LLM+TTS 自主语音对话的 PoC", "review": "概念验证项目：Go 与 Rust 实现的两个机器人通过 NATS JetStream 路由消息，用 ollama 生成用户所选 LLM 的回复文本，经 PlayHT API 合成语音并流式播放到本机音频设备，实现机器人间自动语音对话。README 声明项目纯为教育目的构建，高度实验性、可能有缺陷。运行需预先部署 NATS、ollama，注册 PlayHT 账号并配置 API 密钥，Linux 需安装 ALSA 等音频库；通过 go run 与 cargo run 分别启动两个 bot。", "highlights": ["Go 与 Rust 双实现的机器人对话演示", "NATS JetStream 作为消息路由通道", "ollama 生成文本 + PlayHT API 语音合成并流式播放", "提供对话时序与架构的 Mermaid 图"], "use_cases": ["学习多语言服务间通过消息队列协作的架构", "了解 ollama 与 TTS API 串联构建语音 agent 的流程", "作为 LLM 对话管道的实验起点"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/", "self_declared_early": {"flag": true, "lines": [13, 14]}}, "links": {"scenario_tags": ["bot对话", "TTS/语音", "LLM应用", "Go/Rust", "NATS消息路由"], "domain": "AI 语音对话实验/开发者演示", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This is a PoC demonstrating how two bots can autonomously \"speak\" to each other using an LLM and TTS.", "L4: It uses NATS jetstream for message routing, ollama for generating text using an LLM of the user's choice and playht API "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "milosgajdos/bot-banter",
+ "sha": "d90616dbb1e7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "演示两个机器人用 LLM+TTS 自主语音对话的 PoC",
+  "review": "概念验证项目：Go 与 Rust 实现的两个机器人通过 NATS JetStream 路由消息，用 ollama 生成用户所选 LLM 的回复文本，经 PlayHT API 合成语音并流式播放到本机音频设备，实现机器人间自动语音对话。README 声明项目纯为教育目的构建，高度实验性、可能有缺陷。运行需预先部署 NATS、ollama，注册 PlayHT 账号并配置 API 密钥，Linux 需安装 ALSA 等音频库；通过 go run 与 cargo run 分别启动两个 bot。",
+  "highlights": [
+   "Go 与 Rust 双实现的机器人对话演示",
+   "NATS JetStream 作为消息路由通道",
+   "ollama 生成文本 + PlayHT API 语音合成并流式播放",
+   "提供对话时序与架构的 Mermaid 图"
+  ],
+  "use_cases": [
+   "学习多语言服务间通过消息队列协作的架构",
+   "了解 ollama 与 TTS API 串联构建语音 agent 的流程",
+   "作为 LLM 对话管道的实验起点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    13,
+    14
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "bot对话",
+   "TTS/语音",
+   "LLM应用",
+   "Go/Rust",
+   "NATS消息路由"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This is a PoC demonstrating how two bots can autonomously \"speak\" to each other using an LLM and TTS.",
+   "L4: It uses NATS jetstream for message routing, ollama for generating text using an LLM of the user's choice and playht API "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

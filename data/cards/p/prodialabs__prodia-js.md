@@ -31,7 +31,7 @@ Prodia 官方 TypeScript 库，封装其 AI 推理 API（txt2img 等），支持
 
 ## 场景标签
 
- · 领域:AI 图像生成 API 客户端
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

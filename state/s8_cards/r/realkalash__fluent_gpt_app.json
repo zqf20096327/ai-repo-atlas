@@ -1,1 +1,77 @@
-{"fn": "realkalash/fluent_gpt_app", "sha": "c33de7c2c569", "source": "readme", "identity": {"one_liner": "跨平台 GPT 桌面聊天客户端，Fluent 界面多聊天室", "review": "基于 Flutter/Dart 的多平台桌面应用，在 Windows/macOS/Linux 上通过 OpenAI token 接入 ChatGPT，也可在设置中填写自定义 GPT 模型 URL（Local AI 字段）接入自有模型。提供多聊天室（每室可绑定不同模型与自定义指令）、系统托盘、自定义快捷键、置顶、Shell 命令执行、本地 Python 代码运行、Brave API 网页搜索、快速提示词与文本选中覆盖层（macOS）等特性。安装途径为 GitHub Releases 下载；Python 为可选安装。许可证为 CC BY-NC-ND 4.0。", "highlights": ["多聊天室，每室可分配不同 GPT 模型与自定义指令", "支持经 URL 接入自定义 GPT 模型（Local AI 字段）", "GPT 可执行 Shell 命令并在本地运行 Python 代码", "Brave API 网页搜索与快速提示词（含 macOS 选中文本覆盖层）"], "use_cases": ["在桌面端通过多聊天室与不同 GPT 模型对话", "接入自有 GPT 模型 URL 使用本地/自托管模型", "借助 Shell 与 Python 执行能力让 GPT 完成本机任务"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["桌面聊天客户端", "GPT/LLM", "跨平台 (Flutter)", "AI助手"], "domain": "桌面 AI 应用/聊天客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Welcome to Fluent GPT App, an open-source, multi-platform desktop application that brings the power of GPT models to you", "L12: - **Integration with ChatGPT from OpenAI**: Use ChatGPT by obtaining a token from OpenAI."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "realkalash/fluent_gpt_app",
+ "sha": "c33de7c2c569",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨平台 GPT 桌面聊天客户端，Fluent 界面多聊天室",
+  "review": "基于 Flutter/Dart 的多平台桌面应用，在 Windows/macOS/Linux 上通过 OpenAI token 接入 ChatGPT，也可在设置中填写自定义 GPT 模型 URL（Local AI 字段）接入自有模型。提供多聊天室（每室可绑定不同模型与自定义指令）、系统托盘、自定义快捷键、置顶、Shell 命令执行、本地 Python 代码运行、Brave API 网页搜索、快速提示词与文本选中覆盖层（macOS）等特性。安装途径为 GitHub Releases 下载；Python 为可选安装。许可证为 CC BY-NC-ND 4.0。",
+  "highlights": [
+   "多聊天室，每室可分配不同 GPT 模型与自定义指令",
+   "支持经 URL 接入自定义 GPT 模型（Local AI 字段）",
+   "GPT 可执行 Shell 命令并在本地运行 Python 代码",
+   "Brave API 网页搜索与快速提示词（含 macOS 选中文本覆盖层）"
+  ],
+  "use_cases": [
+   "在桌面端通过多聊天室与不同 GPT 模型对话",
+   "接入自有 GPT 模型 URL 使用本地/自托管模型",
+   "借助 Shell 与 Python 执行能力让 GPT 完成本机任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面聊天客户端",
+   "GPT/LLM",
+   "跨平台 (Flutter)",
+   "AI助手"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Welcome to Fluent GPT App, an open-source, multi-platform desktop application that brings the power of GPT models to you",
+   "L12: - **Integration with ChatGPT from OpenAI**: Use ChatGPT by obtaining a token from OpenAI."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

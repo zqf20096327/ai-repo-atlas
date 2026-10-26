@@ -1,1 +1,76 @@
-{"fn": "respawn-llc/firefox-cli", "sha": "b52dc2a7cd6d", "source": "readme", "identity": {"one_liner": "让 AI Agent 通过 CLI 控制真实 Firefox 浏览器", "review": "npm 全局安装的 CLI 工具，配合一个 Firefox 扩展与原生宿主通信，使编码类 AI agent 能以用户真实已认证会话操作浏览器：导航、管理标签页与窗口、读取元素与浏览器状态、截图、观察日志与网络活动，并串行执行浏览器工作流。安装流程含原生宿主注册、扩展安装与连接批准三步，`doctor` 命令诊断并修复注册状态。附带 Claude Code 插件与 Codex 技能安装途径。安全上，批准扩展即授予对已登录站点、Cookie 与敏感数据的完全控制。Firefox 下存在私有窗口只读、跨域 iframe 仅诊断等限制。", "highlights": ["CLI + Firefox 扩展 + 原生宿主架构，操作真实已认证用户会话", "覆盖导航、标签/窗口管理、元素交互、截图、网络与日志观察", "提供 Claude Code 插件、Codex 技能与 skills.sh 三种 agent 技能安装途径", "`doctor --fix` 诊断并修复安装注册问题"], "use_cases": ["让编码 agent 在真实登录会话下自动化网页操作与表单填写", "Web 开发中由 agent 检查页面、观察网络与控制台日志", "跨 CLI 工作流串行执行浏览器操作并截图取证"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["浏览器自动化", "AI Agent 工具", "CLI", "Firefox 生态"], "domain": "AI Agent/浏览器自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: `firefox-cli` gives AI agents terminal-driven **control over a user's Firefox** browser.", "L33: Install the agent skill so coding agents know when `firefox-cli` is available and how to use it."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "respawn-llc/firefox-cli",
+ "sha": "b52dc2a7cd6d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI Agent 通过 CLI 控制真实 Firefox 浏览器",
+  "review": "npm 全局安装的 CLI 工具，配合一个 Firefox 扩展与原生宿主通信，使编码类 AI agent 能以用户真实已认证会话操作浏览器：导航、管理标签页与窗口、读取元素与浏览器状态、截图、观察日志与网络活动，并串行执行浏览器工作流。安装流程含原生宿主注册、扩展安装与连接批准三步，`doctor` 命令诊断并修复注册状态。附带 Claude Code 插件与 Codex 技能安装途径。安全上，批准扩展即授予对已登录站点、Cookie 与敏感数据的完全控制。Firefox 下存在私有窗口只读、跨域 iframe 仅诊断等限制。",
+  "highlights": [
+   "CLI + Firefox 扩展 + 原生宿主架构，操作真实已认证用户会话",
+   "覆盖导航、标签/窗口管理、元素交互、截图、网络与日志观察",
+   "提供 Claude Code 插件、Codex 技能与 skills.sh 三种 agent 技能安装途径",
+   "`doctor --fix` 诊断并修复安装注册问题"
+  ],
+  "use_cases": [
+   "让编码 agent 在真实登录会话下自动化网页操作与表单填写",
+   "Web 开发中由 agent 检查页面、观察网络与控制台日志",
+   "跨 CLI 工作流串行执行浏览器操作并截图取证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器自动化",
+   "AI Agent 工具",
+   "CLI",
+   "Firefox 生态"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: `firefox-cli` gives AI agents terminal-driven **control over a user's Firefox** browser.",
+   "L33: Install the agent skill so coding agents know when `firefox-cli` is available and how to use it."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

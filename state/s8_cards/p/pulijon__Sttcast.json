@@ -1,1 +1,82 @@
-{"fn": "pulijon/Sttcast", "sha": "a7fa9d6c3e26", "source": "readme", "identity": {"one_liner": "播客转写与语义检索套件：转写、说话人识别、RAG 搜索", "review": "面向播客爱好者的自动转写系统：主引擎 WhisperX（基于 OpenAI Whisper、CUDA 加速）配合 Pyannote 做说话人分离聚类，可选用 CPU-only 的 Vosk（仅西班牙语）。输出 HTML/SRT，含播放器与说话时长统计。五组件架构：FastAPI 网页管理界面、转写服务器、RAG 服务器（OpenAI embedding + GPT 回答与摘要）、SQLite+FAISS 上下文服务器、Flask 检索客户端。需 Python 3.10+、FFmpeg，GPU 为可选项；另提供 AWS EC2 GPU 云端自动化脚本。", "highlights": ["WhisperX + Pyannote 转写与说话人分离，CUDA 加速", "Vosk 备选引擎：CPU-only，仅西班牙语", "RAG 语义搜索：OpenAI embedding + FAISS + GPT 回答与自动摘要", "说话人时长统计与 CSV 导出", "AWS EC2 GPU 云端自动化（两命令创建/销毁）"], "use_cases": ["将播客音频转成可检索的 HTML 文稿", "定位某话题在哪期哪一分秒被讨论", "统计各说话人发言时长", "对转写内容做自然语言问答与自动摘要"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音转写", "说话人分离", "RAG", "播客", "自托管服务"], "domain": "语音转写/知识检索", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: **STTCast** is a comprehensive suite for automatic podcast transcription, speaker identification (diarization), and inte", "L9: - **WhisperX Transcription**: Primary transcription engine based on OpenAI Whisper with CUDA acceleration", "L47: - Embedding generation with OpenAI"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pulijon/Sttcast",
+ "sha": "a7fa9d6c3e26",
+ "source": "readme",
+ "identity": {
+  "one_liner": "播客转写与语义检索套件：转写、说话人识别、RAG 搜索",
+  "review": "面向播客爱好者的自动转写系统：主引擎 WhisperX（基于 OpenAI Whisper、CUDA 加速）配合 Pyannote 做说话人分离聚类，可选用 CPU-only 的 Vosk（仅西班牙语）。输出 HTML/SRT，含播放器与说话时长统计。五组件架构：FastAPI 网页管理界面、转写服务器、RAG 服务器（OpenAI embedding + GPT 回答与摘要）、SQLite+FAISS 上下文服务器、Flask 检索客户端。需 Python 3.10+、FFmpeg，GPU 为可选项；另提供 AWS EC2 GPU 云端自动化脚本。",
+  "highlights": [
+   "WhisperX + Pyannote 转写与说话人分离，CUDA 加速",
+   "Vosk 备选引擎：CPU-only，仅西班牙语",
+   "RAG 语义搜索：OpenAI embedding + FAISS + GPT 回答与自动摘要",
+   "说话人时长统计与 CSV 导出",
+   "AWS EC2 GPU 云端自动化（两命令创建/销毁）"
+  ],
+  "use_cases": [
+   "将播客音频转成可检索的 HTML 文稿",
+   "定位某话题在哪期哪一分秒被讨论",
+   "统计各说话人发言时长",
+   "对转写内容做自然语言问答与自动摘要"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音转写",
+   "说话人分离",
+   "RAG",
+   "播客",
+   "自托管服务"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr",
+   "rag",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **STTCast** is a comprehensive suite for automatic podcast transcription, speaker identification (diarization), and inte",
+   "L9: - **WhisperX Transcription**: Primary transcription engine based on OpenAI Whisper with CUDA acceleration",
+   "L47: - Embedding generation with OpenAI"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

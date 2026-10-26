@@ -1,1 +1,82 @@
-{"fn": "madeburo/GEO-AI-Woo", "sha": "a7474e24d946", "source": "readme", "identity": {"one_liner": "WordPress/WooCommerce 的 AI 搜索优化插件：生成 llms.txt 与爬虫规则", "review": "面向 WordPress 站点的 GEO（生成式引擎优化）插件：在站点根目录自动生成 /llms.txt 与 /llms-full.txt 静态文件（文件系统不可写时回退 rewrite 规则），为 16 种 AI 爬虫（GPTBot、ClaudeBot、PerplexityBot 等）输出 robots.txt 指令；提供 AI Meta Box 为文章/页面/商品添加 AI 描述与关键词，可调用 Claude 或 OpenAI API 一键生成描述（限流与密钥加密存储）；WooCommerce 商品自动纳入 llms.txt 并输出 Schema.org 标记。另有内容净化管道、AI 爬虫追踪面板、REST API 与 WP-CLI 命令。要求 PHP 7.4+、WordPress 6.2+，WooCommerce 可选。", "highlights": ["自动生成 /llms.txt 与 /llms-full.txt，支持按语言分文件", "为 GPTBot/ClaudeBot/PerplexityBot 等 16 种 AI 爬虫输出允许/禁止规则", "AI Meta Box 可经 Claude 或 OpenAI API 批量生成描述（单批至多 50 条）", "WooCommerce 商品含价格/库存/评分自动入 llms.txt 与 Schema.org 标记"], "use_cases": ["让我的 WordPress 站点内容被 ChatGPT、Perplexity 等 AI 搜索收录", "给 WooCommerce 商品生成面向 LLM 的结构化描述", "按爬虫粒度控制允许或禁止哪些 AI 机器人抓取"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": "geoai.run/analyze", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["GEO/AI搜索优化", "SEO", "WordPress插件", "WooCommerce", "llms.txt"], "domain": "Web/SEO 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["包含简体中文 zh_CN 完整翻译"]}, "trust": {"confidence": "high", "evidence": ["L7: Generate llms.txt, AI crawler rules and metadata to make your site visible to AI search engines.", "L66: - **Generate with AI** — One-click description generation via Claude or OpenAI", "L78: - Generate AI descriptions via **Claude (Anthropic)** or **OpenAI** APIs"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "madeburo/GEO-AI-Woo",
+ "sha": "a7474e24d946",
+ "source": "readme",
+ "identity": {
+  "one_liner": "WordPress/WooCommerce 的 AI 搜索优化插件：生成 llms.txt 与爬虫规则",
+  "review": "面向 WordPress 站点的 GEO（生成式引擎优化）插件：在站点根目录自动生成 /llms.txt 与 /llms-full.txt 静态文件（文件系统不可写时回退 rewrite 规则），为 16 种 AI 爬虫（GPTBot、ClaudeBot、PerplexityBot 等）输出 robots.txt 指令；提供 AI Meta Box 为文章/页面/商品添加 AI 描述与关键词，可调用 Claude 或 OpenAI API 一键生成描述（限流与密钥加密存储）；WooCommerce 商品自动纳入 llms.txt 并输出 Schema.org 标记。另有内容净化管道、AI 爬虫追踪面板、REST API 与 WP-CLI 命令。要求 PHP 7.4+、WordPress 6.2+，WooCommerce 可选。",
+  "highlights": [
+   "自动生成 /llms.txt 与 /llms-full.txt，支持按语言分文件",
+   "为 GPTBot/ClaudeBot/PerplexityBot 等 16 种 AI 爬虫输出允许/禁止规则",
+   "AI Meta Box 可经 Claude 或 OpenAI API 批量生成描述（单批至多 50 条）",
+   "WooCommerce 商品含价格/库存/评分自动入 llms.txt 与 Schema.org 标记"
+  ],
+  "use_cases": [
+   "让我的 WordPress 站点内容被 ChatGPT、Perplexity 等 AI 搜索收录",
+   "给 WooCommerce 商品生成面向 LLM 的结构化描述",
+   "按爬虫粒度控制允许或禁止哪些 AI 机器人抓取"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "geoai.run/analyze",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GEO/AI搜索优化",
+   "SEO",
+   "WordPress插件",
+   "WooCommerce",
+   "llms.txt"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "包含简体中文 zh_CN 完整翻译"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Generate llms.txt, AI crawler rules and metadata to make your site visible to AI search engines.",
+   "L66: - **Generate with AI** — One-click description generation via Claude or OpenAI",
+   "L78: - Generate AI descriptions via **Claude (Anthropic)** or **OpenAI** APIs"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

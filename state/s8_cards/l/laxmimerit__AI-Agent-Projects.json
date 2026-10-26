@@ -1,1 +1,78 @@
-{"fn": "laxmimerit/AI-Agent-Projects", "sha": "9f99f97d56c9", "source": "readme", "identity": {"one_liner": "面向学习者的 AI/ML 付费课程清单：LLM、Agent 与机器学习", "review": "KGP Talkie 维护的 Udemy 课程目录仓库，按 LLM 与 AI Agent 开发、机器学习与数据科学、生产部署三大板块组织 12 门课程，每门列出技术栈（LangChain、LangGraph、Ollama、MCP、FastAPI、Docker 等）与推广链接，末尾给出 AI/LLM、数据科学、生产工程等学习路径。仓库本身不含代码或可安装工具，内容以课程介绍与报名链接为主。", "highlights": ["12 门课程按 LLM/Agent、机器学习、部署三板块组织", "覆盖 LangChain、LangGraph、Ollama、MCP、RAG、微调等主题", "提供 4 条按角色划分的学习路径推荐"], "use_cases": ["我想系统学习 LangChain 与 Ollama 构建 Agent 和 RAG 应用", "我想找从机器学习入门到生产部署的成体系课程", "我想按学习路径规划 AI 开发学习顺序"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["课程清单", "LLM/Agent开发", "机器学习教育", "Udemy推广", "学习路径"], "domain": "AI/机器学习教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "media", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17:  🎯 Master OpenAI Agent Builder - Low-Code AI Projects Workflow", "L31: <a href=\"https://www.udemy.com/course/master-openai-agent-builder-low-code-ai-projects-workflow/?referralCode=B0B67D18B1", "L279: ## 🎯 Learning Path Recommendations"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "laxmimerit/AI-Agent-Projects",
+ "sha": "9f99f97d56c9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学习者的 AI/ML 付费课程清单：LLM、Agent 与机器学习",
+  "review": "KGP Talkie 维护的 Udemy 课程目录仓库，按 LLM 与 AI Agent 开发、机器学习与数据科学、生产部署三大板块组织 12 门课程，每门列出技术栈（LangChain、LangGraph、Ollama、MCP、FastAPI、Docker 等）与推广链接，末尾给出 AI/LLM、数据科学、生产工程等学习路径。仓库本身不含代码或可安装工具，内容以课程介绍与报名链接为主。",
+  "highlights": [
+   "12 门课程按 LLM/Agent、机器学习、部署三板块组织",
+   "覆盖 LangChain、LangGraph、Ollama、MCP、RAG、微调等主题",
+   "提供 4 条按角色划分的学习路径推荐"
+  ],
+  "use_cases": [
+   "我想系统学习 LangChain 与 Ollama 构建 Agent 和 RAG 应用",
+   "我想找从机器学习入门到生产部署的成体系课程",
+   "我想按学习路径规划 AI 开发学习顺序"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程清单",
+   "LLM/Agent开发",
+   "机器学习教育",
+   "Udemy推广",
+   "学习路径"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17:  🎯 Master OpenAI Agent Builder - Low-Code AI Projects Workflow",
+   "L31: <a href=\"https://www.udemy.com/course/master-openai-agent-builder-low-code-ai-projects-workflow/?referralCode=B0B67D18B1",
+   "L279: ## 🎯 Learning Path Recommendations"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ open Platform for Agentic Simulation and Optimization：一个 MCP server，把 
 
 ## 场景标签
 
- · 领域:计算力学/科学计算
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

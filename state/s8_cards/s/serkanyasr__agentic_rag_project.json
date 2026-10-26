@@ -1,1 +1,78 @@
-{"fn": "serkanyasr/agentic_rag_project", "sha": "f66aafee96ea", "source": "readme", "identity": {"one_liner": "基于 Pydantic AI/FastAPI/pgvector 的 Agentic RAG 问答系统", "review": "面向文档问答场景的检索增强生成系统：用 Docling 抽取 PDF 文本、表格与图片，经分块后以 PostgreSQL + pgvector 存储，agent 通过向量检索与混合检索工具生成回答；提供 FastAPI 后端（SSE 流式接口、会话管理）与 Streamlit 网页界面。LLM 默认调用 OpenAI gpt-4（需配置 API key），部署方式为 Docker Compose 多容器。", "highlights": ["向量检索与混合检索两种检索策略", "Docling 抽取 PDF 文本、表格与图片", "FastAPI 提供 /chat 与 SSE 流式接口，含会话历史", "Docker Compose 一键部署 PostgreSQL 17 + API + Streamlit"], "use_cases": ["上传 PDF 后直接提问获取带检索依据的回答", "作为文档类 AI 应用的基础工程搭建起点", "通过 API 将 RAG 问答嵌入自己的系统"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RAG", "文档问答", "agent", "全栈Web应用"], "domain": "LLM 应用/RAG", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: A modern Agentic RAG (Retrieval-Augmented Generation) system built with Pydantic AI, FastAPI, and PostgreSQL (pgvector).", "L10: - 🧠 Pydantic AI-based intelligent agent system", "L127: - `POST /chat/stream` - Streaming chat"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "serkanyasr/agentic_rag_project",
+ "sha": "f66aafee96ea",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Pydantic AI/FastAPI/pgvector 的 Agentic RAG 问答系统",
+  "review": "面向文档问答场景的检索增强生成系统：用 Docling 抽取 PDF 文本、表格与图片，经分块后以 PostgreSQL + pgvector 存储，agent 通过向量检索与混合检索工具生成回答；提供 FastAPI 后端（SSE 流式接口、会话管理）与 Streamlit 网页界面。LLM 默认调用 OpenAI gpt-4（需配置 API key），部署方式为 Docker Compose 多容器。",
+  "highlights": [
+   "向量检索与混合检索两种检索策略",
+   "Docling 抽取 PDF 文本、表格与图片",
+   "FastAPI 提供 /chat 与 SSE 流式接口，含会话历史",
+   "Docker Compose 一键部署 PostgreSQL 17 + API + Streamlit"
+  ],
+  "use_cases": [
+   "上传 PDF 后直接提问获取带检索依据的回答",
+   "作为文档类 AI 应用的基础工程搭建起点",
+   "通过 API 将 RAG 问答嵌入自己的系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "文档问答",
+   "agent",
+   "全栈Web应用"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-qa",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A modern Agentic RAG (Retrieval-Augmented Generation) system built with Pydantic AI, FastAPI, and PostgreSQL (pgvector).",
+   "L10: - 🧠 Pydantic AI-based intelligent agent system",
+   "L127: - `POST /chat/stream` - Streaming chat"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

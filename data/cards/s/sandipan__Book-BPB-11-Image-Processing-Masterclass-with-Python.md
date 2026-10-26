@@ -32,7 +32,7 @@ BPB 出版图书《Image Processing Masterclass with Python》的代码仓库，
 
 ## 场景标签
 
- · 领域:图像处理/计算机视觉
+`图像视频处理` `人脸识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

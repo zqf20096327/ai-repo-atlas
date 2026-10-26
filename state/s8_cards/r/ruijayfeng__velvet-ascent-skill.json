@@ -1,1 +1,78 @@
-{"fn": "ruijayfeng/velvet-ascent-skill", "sha": "5bb32352cffb", "source": "readme", "identity": {"one_liner": "给 AI Agent 装的中文成人向文字 GalGame GM 技能", "review": "Velvet Ascent 是一个安装到支持 skills 的 AI Agent 中的中文文字游戏 GM 技能包，把对话变成自由的后宫养成 GalGame。机制包括：角色 6 阶段养成、每角色 3-5 项 XP 偏好与反应序列、欲望图谱与 0-4 级 NSFW 档位双重约束、单时间线推进、8 文件工作区的文档记忆系统，游戏结束后可导出为小说草稿。通过 npx 安装到 ~/.agents/skills 目录，提供 14 个游戏内命令。内容边界限定为虚构成年角色、合意互动。", "highlights": ["后宫养成 6 阶段：路人→吸引→试探→暧昧→亲密→入后宫", "角色 XP 与反应序列、欲望图谱 + NSFW 0-4 档位双重约束", "8 文件文档记忆工作区追踪人物、关系、伏笔与时间线", "游戏结束后整理导出为完整小说草稿"], "use_cases": ["通过自然语言开局玩中文后宫养成文字游戏", "长期剧情游戏中保持人物关系与伏笔记忆", "把游戏过程整理导出为小说草稿"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "文字冒险", "互动小说", "成人向游戏", "GalGame"], "domain": "游戏/互动小说", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "中文互动小说定位"]}, "trust": {"confidence": "high", "evidence": ["L5:  AI Agent 用的中文后宫养成文字游戏 GM，结构化升温，NSFW 档位可控。", "L20: Velvet Ascent 是给支持 skills 的 AI Agent 装的一个中文文字游戏 GM。它把对话变成一场自由的后宫养成 GalGame——你可以用自然语言指定世界观、人物关系、角色 XP、剧情尺度和长期记忆，前期铺垫、人物有自"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ruijayfeng/velvet-ascent-skill",
+ "sha": "5bb32352cffb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI Agent 装的中文成人向文字 GalGame GM 技能",
+  "review": "Velvet Ascent 是一个安装到支持 skills 的 AI Agent 中的中文文字游戏 GM 技能包，把对话变成自由的后宫养成 GalGame。机制包括：角色 6 阶段养成、每角色 3-5 项 XP 偏好与反应序列、欲望图谱与 0-4 级 NSFW 档位双重约束、单时间线推进、8 文件工作区的文档记忆系统，游戏结束后可导出为小说草稿。通过 npx 安装到 ~/.agents/skills 目录，提供 14 个游戏内命令。内容边界限定为虚构成年角色、合意互动。",
+  "highlights": [
+   "后宫养成 6 阶段：路人→吸引→试探→暧昧→亲密→入后宫",
+   "角色 XP 与反应序列、欲望图谱 + NSFW 0-4 档位双重约束",
+   "8 文件文档记忆工作区追踪人物、关系、伏笔与时间线",
+   "游戏结束后整理导出为完整小说草稿"
+  ],
+  "use_cases": [
+   "通过自然语言开局玩中文后宫养成文字游戏",
+   "长期剧情游戏中保持人物关系与伏笔记忆",
+   "把游戏过程整理导出为小说草稿"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "文字冒险",
+   "互动小说",
+   "成人向游戏",
+   "GalGame"
+  ],
+  "domain": "游戏/互动小说",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文互动小说定位"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  AI Agent 用的中文后宫养成文字游戏 GM，结构化升温，NSFW 档位可控。",
+   "L20: Velvet Ascent 是给支持 skills 的 AI Agent 装的一个中文文字游戏 GM。它把对话变成一场自由的后宫养成 GalGame——你可以用自然语言指定世界观、人物关系、角色 XP、剧情尺度和长期记忆，前期铺垫、人物有自"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

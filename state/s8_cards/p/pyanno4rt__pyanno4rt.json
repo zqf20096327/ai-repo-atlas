@@ -1,1 +1,77 @@
-{"fn": "pyanno4rt/pyanno4rt", "sha": "517aa4af52f2", "source": "readme", "identity": {"one_liner": "放射治疗逆向计划优化 Python 包，含 ML 预测模型组件", "review": "面向光子与质子治疗计划的逆向优化 Python 包：支持从 DICOM/MATLAB/Python 文件导入患者数据与剂量信息，进行单/多目标（不）约束优化，涵盖字典式、加权和与 Pareto 分析方法，集成 Proxmin/Pymoo/PyPop7/SciPy 的局部与全局求解器。其中数据驱动部分提供 TCP/NTCP 结果预测模型（7 种内部模型类、27 类特征目录、SMBO 调参），支持常规（非模型）优化路径。提供 PyQt5 图形界面与 CLI 两类接口。", "highlights": ["单/多目标（不）约束治疗计划优化，默认 SciPy L-BFGS-B", "24 类剂量-体积与结果预测模型优化组件", "7 种可定制内部预测模型（决策树/神经网络/随机森林等）", "PyQt5 GUI：计划编辑、CT/剂量预览、DVH 评估"], "use_cases": ["科研中进行基于结果预测模型的治疗计划优化实验", "导入 DICOM 患者数据做剂量统计分析与 DVH 评估", "用 TG-119 等标准测试体模学习与开发计划优化流程"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["放射治疗", "医学物理", "治疗计划优化", "结果预测", "科学计算"], "domain": "医疗/放射治疗", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L20:  pyanno4rt is a Python package for conventional and outcome prediction model-based inverse photon and proton treatment p", "L67:  27-type feature catalogue for iterative (re)calculation to support model integration into optimization"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pyanno4rt/pyanno4rt",
+ "sha": "517aa4af52f2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "放射治疗逆向计划优化 Python 包，含 ML 预测模型组件",
+  "review": "面向光子与质子治疗计划的逆向优化 Python 包：支持从 DICOM/MATLAB/Python 文件导入患者数据与剂量信息，进行单/多目标（不）约束优化，涵盖字典式、加权和与 Pareto 分析方法，集成 Proxmin/Pymoo/PyPop7/SciPy 的局部与全局求解器。其中数据驱动部分提供 TCP/NTCP 结果预测模型（7 种内部模型类、27 类特征目录、SMBO 调参），支持常规（非模型）优化路径。提供 PyQt5 图形界面与 CLI 两类接口。",
+  "highlights": [
+   "单/多目标（不）约束治疗计划优化，默认 SciPy L-BFGS-B",
+   "24 类剂量-体积与结果预测模型优化组件",
+   "7 种可定制内部预测模型（决策树/神经网络/随机森林等）",
+   "PyQt5 GUI：计划编辑、CT/剂量预览、DVH 评估"
+  ],
+  "use_cases": [
+   "科研中进行基于结果预测模型的治疗计划优化实验",
+   "导入 DICOM 患者数据做剂量统计分析与 DVH 评估",
+   "用 TG-119 等标准测试体模学习与开发计划优化流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "放射治疗",
+   "医学物理",
+   "治疗计划优化",
+   "结果预测",
+   "科学计算"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20:  pyanno4rt is a Python package for conventional and outcome prediction model-based inverse photon and proton treatment p",
+   "L67:  27-type feature catalogue for iterative (re)calculation to support model integration into optimization"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

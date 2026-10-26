@@ -1,1 +1,86 @@
-{"fn": "richchang0721-boop/it-diagnostic-agent", "sha": "745abbef9913", "source": "readme", "identity": {"one_liner": "给 IT 支持团队的互动式故障排除 Runbook，可接入 AI 診斷", "review": "純靜態 HTML 的 IT 故障排除工具，涵蓋網路（CCTV/NAS/DNS）、硬體與軟體（AD/Exchange/Outlook/SQL Server）三類決策樹，逐步 YES/NO 引導排障。提供瀏覽器內表單式編輯模式與 JSON 匯入匯出，無需寫程式即可擴充診斷內容。AI 部分為可選對話面板，支援 Claude、Gemini、OpenAI 相容介面與 Ollama 本地模型，可切換純 Runbook 模式隱藏 AI。零後端依賴，GitHub Pages 部署，繁中/英文雙語。", "highlights": ["網路/硬體/軟體三模組互動式決策樹與逐步 YES/NO 引導", "瀏覽器內表單編輯診斷內容，匯出帶版本號 JSON 備份", "多模型 AI 面板：Claude、Gemini、OpenAI 相容介面、Ollama 本地", "純靜態 HTML 零後端依賴，可 Runbook 模式隱藏 AI"], "use_cases": ["IT 一線支持人員按決策樹逐步排除主機、網路、印表機故障", "企業以純 Runbook 模式做內部 SOP 展示與新人培訓", "資安要求高的環境用 Ollama 本地模型做 AI 診斷，資料不出公司", "IT 團隊自行擴充與客製化診斷流程並在團隊間分享"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企業", "paper_url": null, "demo_url": "線上試用（README 資源段連結，L250）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["IT 運維", "故障排查/SOP", "Helpdesk 工具", "靜態網頁應用", "AI 診斷助手"], "domain": "企業 IT 運維/技術支持", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "ollama", "deepseek", "groq"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["繁體中文為主的雙語 README", "Qwen3 模型列為中文優化建議", "「適合華文環境」表述"]}, "trust": {"confidence": "high", "evidence": ["L16: - **Runbook 模式** — 隱藏 AI 面板，純決策樹介面，適合企業內部 SOP 展示", "L127: 點擊右上角 📋 按鈕開啟 Runbook 模式，隱藏 AI 面板。", "L136: 使用 Ollama 在本機或內網跑模型，資料完全不離開公司。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "richchang0721-boop/it-diagnostic-agent",
+ "sha": "745abbef9913",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 IT 支持团队的互动式故障排除 Runbook，可接入 AI 診斷",
+  "review": "純靜態 HTML 的 IT 故障排除工具，涵蓋網路（CCTV/NAS/DNS）、硬體與軟體（AD/Exchange/Outlook/SQL Server）三類決策樹，逐步 YES/NO 引導排障。提供瀏覽器內表單式編輯模式與 JSON 匯入匯出，無需寫程式即可擴充診斷內容。AI 部分為可選對話面板，支援 Claude、Gemini、OpenAI 相容介面與 Ollama 本地模型，可切換純 Runbook 模式隱藏 AI。零後端依賴，GitHub Pages 部署，繁中/英文雙語。",
+  "highlights": [
+   "網路/硬體/軟體三模組互動式決策樹與逐步 YES/NO 引導",
+   "瀏覽器內表單編輯診斷內容，匯出帶版本號 JSON 備份",
+   "多模型 AI 面板：Claude、Gemini、OpenAI 相容介面、Ollama 本地",
+   "純靜態 HTML 零後端依賴，可 Runbook 模式隱藏 AI"
+  ],
+  "use_cases": [
+   "IT 一線支持人員按決策樹逐步排除主機、網路、印表機故障",
+   "企業以純 Runbook 模式做內部 SOP 展示與新人培訓",
+   "資安要求高的環境用 Ollama 本地模型做 AI 診斷，資料不出公司",
+   "IT 團隊自行擴充與客製化診斷流程並在團隊間分享"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企業",
+  "paper_url": null,
+  "demo_url": "線上試用（README 資源段連結，L250）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "IT 運維",
+   "故障排查/SOP",
+   "Helpdesk 工具",
+   "靜態網頁應用",
+   "AI 診斷助手"
+  ],
+  "domain": "企業 IT 運維/技術支持",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama",
+   "deepseek",
+   "groq"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "繁體中文為主的雙語 README",
+   "Qwen3 模型列為中文優化建議",
+   "「適合華文環境」表述"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: - **Runbook 模式** — 隱藏 AI 面板，純決策樹介面，適合企業內部 SOP 展示",
+   "L127: 點擊右上角 📋 按鈕開啟 Runbook 模式，隱藏 AI 面板。",
+   "L136: 使用 Ollama 在本機或內網跑模型，資料完全不離開公司。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
