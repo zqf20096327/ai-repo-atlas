@@ -1,1 +1,78 @@
-{"fn": "vaamonde/ai-networking", "sha": "9ab82276384e", "source": "readme", "identity": {"one_liner": "AI 应用于网络管理的实践课程仓库（葡语，含实验室与提示词）", "review": "由讲师 Robson Vaamonde 维护的教学仓库：教 IT 专业人员与学生将生成式 AI 作为辅助工具，用于网络故障排查、技术文档编写、GNU/Linux 服务器日志分析与安全加固评估。课程基于真实 Ubuntu Server 与 Docker 环境，方法论为“理论→实践→用 AI→人工验证→版本化记录”，所有 AI 回答均要求人工验证。仓库结构含 premises/、labs/、prompts/、docker/ 等目录，工具链为 Git/GitHub/VSCode 加多种生成式 AI 平台（ChatGPT、Copilot、Gemini、DeepSeek、Grok、Perplexity、Claude）。README 未给出本仓库的安装或运行命令。", "highlights": ["真实 Ubuntu Server On-Premises 与 Docker 环境承载课程实验", "方法论强制人工验证所有 AI 回答并版本化记录证据", "仓库按 premises/labs/prompts/docker 组织课程材料", "列举 7 个生成式 AI 平台作为课程工具"], "use_cases": ["网络/运维人员学习用 AI 辅助故障排查与文档编写", "练习 AI 辅助的日志分析与服务器安全加固", "获取面向网络管理场景的结构化提示词模板"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["课程/教程", "网络运维", "提示工程", "GNU/Linux 服务器", "Docker"], "domain": "网络运维/IT 教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Este curso tem como objetivo capacitar profissionais e estudantes da área de Tecnologia da Informação a utilizar Intelig", "L67: ### Indicação de Plataformas de IA (Foco no ChatGPT, Copilot e Claude)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vaamonde/ai-networking",
+ "sha": "9ab82276384e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 应用于网络管理的实践课程仓库（葡语，含实验室与提示词）",
+  "review": "由讲师 Robson Vaamonde 维护的教学仓库：教 IT 专业人员与学生将生成式 AI 作为辅助工具，用于网络故障排查、技术文档编写、GNU/Linux 服务器日志分析与安全加固评估。课程基于真实 Ubuntu Server 与 Docker 环境，方法论为“理论→实践→用 AI→人工验证→版本化记录”，所有 AI 回答均要求人工验证。仓库结构含 premises/、labs/、prompts/、docker/ 等目录，工具链为 Git/GitHub/VSCode 加多种生成式 AI 平台（ChatGPT、Copilot、Gemini、DeepSeek、Grok、Perplexity、Claude）。README 未给出本仓库的安装或运行命令。",
+  "highlights": [
+   "真实 Ubuntu Server On-Premises 与 Docker 环境承载课程实验",
+   "方法论强制人工验证所有 AI 回答并版本化记录证据",
+   "仓库按 premises/labs/prompts/docker 组织课程材料",
+   "列举 7 个生成式 AI 平台作为课程工具"
+  ],
+  "use_cases": [
+   "网络/运维人员学习用 AI 辅助故障排查与文档编写",
+   "练习 AI 辅助的日志分析与服务器安全加固",
+   "获取面向网络管理场景的结构化提示词模板"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教程",
+   "网络运维",
+   "提示工程",
+   "GNU/Linux 服务器",
+   "Docker"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Este curso tem como objetivo capacitar profissionais e estudantes da área de Tecnologia da Informação a utilizar Intelig",
+   "L67: ### Indicação de Plataformas de IA (Foco no ChatGPT, Copilot e Claude)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,77 @@
-{"fn": "the-mrinal/ML-Notebook", "sha": "19838225a84d", "source": "readme", "identity": {"one_liner": "机器学习课程笔记本集：从 NumPy 到神经网络的动手实现", "review": "以 Jupyter notebook 组织的机器学习课程仓库，覆盖基础（NumPy/绘图）、回归、分类、特征工程与降维（PCA）、深度学习（TensorFlow 3 层网络跑 MNIST）及项目实战（文本分类、二手车价格预测、CIFAR-10 图像分类等）。每个主题提供从零实现与 scikit-learn 等价实现并对照，应用于 Titanic、Iris、MNIST、CIFAR-10 等 12 个数据集。面向学习者的自学课程，git clone 后在 Jupyter 中打开 .ipynb 使用。", "highlights": ["每个算法提供从零实现与 scikit-learn 等价实现", "课程覆盖 NumPy 基础到 TensorFlow 神经网络", "12 个真实数据集的项目实战（MNIST/CIFAR-10/20 Newsgroups 等）", "按编号模块组织的 50+ notebook 结构"], "use_cases": ["系统自学机器学习从基础到深度学习", "参照从零实现理解算法内部机制", "用现成 notebook 快速复现经典数据集实验"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ML教程", "Jupyter笔记本", "从零实现", "数据集实战", "自学课程"], "domain": "机器学习教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: A comprehensive, hands-on machine learning curriculum — from NumPy basics to neural networks. Each module contains Jupyt", "L21: |Module|Topic|Notebooks|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "the-mrinal/ML-Notebook",
+ "sha": "19838225a84d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "机器学习课程笔记本集：从 NumPy 到神经网络的动手实现",
+  "review": "以 Jupyter notebook 组织的机器学习课程仓库，覆盖基础（NumPy/绘图）、回归、分类、特征工程与降维（PCA）、深度学习（TensorFlow 3 层网络跑 MNIST）及项目实战（文本分类、二手车价格预测、CIFAR-10 图像分类等）。每个主题提供从零实现与 scikit-learn 等价实现并对照，应用于 Titanic、Iris、MNIST、CIFAR-10 等 12 个数据集。面向学习者的自学课程，git clone 后在 Jupyter 中打开 .ipynb 使用。",
+  "highlights": [
+   "每个算法提供从零实现与 scikit-learn 等价实现",
+   "课程覆盖 NumPy 基础到 TensorFlow 神经网络",
+   "12 个真实数据集的项目实战（MNIST/CIFAR-10/20 Newsgroups 等）",
+   "按编号模块组织的 50+ notebook 结构"
+  ],
+  "use_cases": [
+   "系统自学机器学习从基础到深度学习",
+   "参照从零实现理解算法内部机制",
+   "用现成 notebook 快速复现经典数据集实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ML教程",
+   "Jupyter笔记本",
+   "从零实现",
+   "数据集实战",
+   "自学课程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: A comprehensive, hands-on machine learning curriculum — from NumPy basics to neural networks. Each module contains Jupyt",
+   "L21: |Module|Topic|Notebooks|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

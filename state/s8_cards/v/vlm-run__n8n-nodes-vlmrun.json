@@ -1,1 +1,78 @@
-{"fn": "vlm-run/n8n-nodes-vlmrun", "sha": "d80a72c355e6", "source": "readme", "identity": {"one_liner": "让 n8n 工作流调用 VLM Run 视觉 AI 服务的社区节点", "review": "n8n 社区节点包，将 VLM Run（面向视觉 AI 的统一网关服务）接入 n8n 工作流。提供五类操作：分析音频（转录、说话人识别、情感分析）、从文档（简历/发票/演示文稿）抽取结构化数据、图像信息抽取与描述生成、视频洞察提取与转录，以及 VLM Run 账户文件管理。使用需注册 VLM Run 账号并配置 API key（默认 base URL 为 api.vlm.run/v1），通过 npm 安装。面向使用 n8n 构建自动化流程的开发者与自动化使用者。", "highlights": ["五种操作：音频/文档/图像/视频分析与文件管理", "文档抽取覆盖简历、发票、演示文稿等", "通过 VLM Run API key 与自定义 base URL 接入"], "use_cases": ["在 n8n 工作流中从简历或发票抽取结构化数据", "批量给商品图片生成描述或编目", "在自动化流程中转录并分析音频或视频内容"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["n8n自动化", "视觉AI", "OCR/文档抽取", "API集成"], "domain": "自动化/视觉 AI 集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: This is an n8n community node. It lets you use VLM Run in your n8n workflows.", "L14: VLM Run is a unified gateway for Visual AI that enables you to extract structured data from unstructured visual content "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vlm-run/n8n-nodes-vlmrun",
+ "sha": "d80a72c355e6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 n8n 工作流调用 VLM Run 视觉 AI 服务的社区节点",
+  "review": "n8n 社区节点包，将 VLM Run（面向视觉 AI 的统一网关服务）接入 n8n 工作流。提供五类操作：分析音频（转录、说话人识别、情感分析）、从文档（简历/发票/演示文稿）抽取结构化数据、图像信息抽取与描述生成、视频洞察提取与转录，以及 VLM Run 账户文件管理。使用需注册 VLM Run 账号并配置 API key（默认 base URL 为 api.vlm.run/v1），通过 npm 安装。面向使用 n8n 构建自动化流程的开发者与自动化使用者。",
+  "highlights": [
+   "五种操作：音频/文档/图像/视频分析与文件管理",
+   "文档抽取覆盖简历、发票、演示文稿等",
+   "通过 VLM Run API key 与自定义 base URL 接入"
+  ],
+  "use_cases": [
+   "在 n8n 工作流中从简历或发票抽取结构化数据",
+   "批量给商品图片生成描述或编目",
+   "在自动化流程中转录并分析音频或视频内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "n8n自动化",
+   "视觉AI",
+   "OCR/文档抽取",
+   "API集成"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "document-parsing",
+   "image-video-processing",
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: This is an n8n community node. It lets you use VLM Run in your n8n workflows.",
+   "L14: VLM Run is a unified gateway for Visual AI that enables you to extract structured data from unstructured visual content "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

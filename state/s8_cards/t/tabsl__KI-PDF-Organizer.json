@@ -1,1 +1,84 @@
-{"fn": "tabsl/KI-PDF-Organizer", "sha": "b7a49531d829", "source": "readme", "identity": {"one_liner": "用 AI 自动重命名、拆分、排序和校验 PDF 文件的命令行工具", "review": "Python 命令行脚本集合，面向个人文档整理场景：调用 OpenAI、Anthropic 云端 API 或本地 Ollama 生成结构化文件名（日期+发件人+文档类型）、识别扫描堆叠 PDF 中的文档边界并拆分为单页命名文档、用 KI 归一化发件人与文档类型后按多种策略分文件夹排序。另含 SHA256/文件名/大小三种查重、文件校验和 JPG/PNG 转 OCR 可搜索 PDF。OCR 依赖 Tesseract；使用云端 API 会将 PDF 前 1000 字符发送给第三方，README 建议敏感数据用本地 Ollama。通过 git clone 与 setup.sh 安装，各项功能以 shell 脚本调用。", "highlights": ["KI 生成结构化文件名（日期+发件人+文档类型），支持 OpenAI/Anthropic/Ollama 本地三种 provider", "逐页 AI 判定文档边界，将堆叠扫描 PDF 拆分为命名单文档", "KI 归一化发件人与文档类型后按 sender/year/type 等策略排序，支持 custom 文件夹由 KI 选择", "OCR 回退机制：文本层不足时自动调用 Tesseract；JPG/PNG 可转为可搜索 PDF"], "use_cases": ["批量整理多年积累的扫描账单、合同等 PDF 档案", "把多份文档扫成的一个 PDF 拆回独立命名文件", "敏感文档在本地 Ollama 上完成整理，避免数据外发", "找出重复和无效 PDF，统一命名为日期前缀格式"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档整理", "PDF工具", "OCR", "本地LLM", "文件自动化"], "domain": "文档管理/文件自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["德语 README", "发件人示例为德语语境（IHK、Beitragsbescheid）"]}, "trust": {"confidence": "mid", "evidence": ["L3: Ein Python-Script zum automatischen Organisieren von PDF-Dateien. Das Tool nutzt KI (OpenAI, Anthropic oder Ollama lokal", "L11: - 🤖 **KI-basierte Dateinamensgenerierung** mit OpenAI, Anthropic oder Ollama (lokal)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tabsl/KI-PDF-Organizer",
+ "sha": "b7a49531d829",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 AI 自动重命名、拆分、排序和校验 PDF 文件的命令行工具",
+  "review": "Python 命令行脚本集合，面向个人文档整理场景：调用 OpenAI、Anthropic 云端 API 或本地 Ollama 生成结构化文件名（日期+发件人+文档类型）、识别扫描堆叠 PDF 中的文档边界并拆分为单页命名文档、用 KI 归一化发件人与文档类型后按多种策略分文件夹排序。另含 SHA256/文件名/大小三种查重、文件校验和 JPG/PNG 转 OCR 可搜索 PDF。OCR 依赖 Tesseract；使用云端 API 会将 PDF 前 1000 字符发送给第三方，README 建议敏感数据用本地 Ollama。通过 git clone 与 setup.sh 安装，各项功能以 shell 脚本调用。",
+  "highlights": [
+   "KI 生成结构化文件名（日期+发件人+文档类型），支持 OpenAI/Anthropic/Ollama 本地三种 provider",
+   "逐页 AI 判定文档边界，将堆叠扫描 PDF 拆分为命名单文档",
+   "KI 归一化发件人与文档类型后按 sender/year/type 等策略排序，支持 custom 文件夹由 KI 选择",
+   "OCR 回退机制：文本层不足时自动调用 Tesseract；JPG/PNG 可转为可搜索 PDF"
+  ],
+  "use_cases": [
+   "批量整理多年积累的扫描账单、合同等 PDF 档案",
+   "把多份文档扫成的一个 PDF 拆回独立命名文件",
+   "敏感文档在本地 Ollama 上完成整理，避免数据外发",
+   "找出重复和无效 PDF，统一命名为日期前缀格式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档整理",
+   "PDF工具",
+   "OCR",
+   "本地LLM",
+   "文件自动化"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ocr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "德语 README",
+   "发件人示例为德语语境（IHK、Beitragsbescheid）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Ein Python-Script zum automatischen Organisieren von PDF-Dateien. Das Tool nutzt KI (OpenAI, Anthropic oder Ollama lokal",
+   "L11: - 🤖 **KI-basierte Dateinamensgenerierung** mit OpenAI, Anthropic oder Ollama (lokal)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

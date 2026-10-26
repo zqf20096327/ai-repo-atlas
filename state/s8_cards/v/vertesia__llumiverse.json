@@ -1,1 +1,87 @@
-{"fn": "vertesia/llumiverse", "sha": "9171eb772828", "source": "readme", "identity": {"one_liner": "Node.js/Bun 的多 LLM 提供商统一连接驱动库", "review": "面向 Node.js、Bun 与 TypeScript 环境的 LLM 统一驱动层：以模块化、强类型接口抽象各 AI 提供商的连接与执行协议，支持 12 个提供商平台（OpenAI、Bedrock、Vertex AI、Groq 等）的补全、聊天、流式、多模态、工具调用与嵌入生成。采用分包安装（core + drivers），不含提示词模板或链编排逻辑，定位类似 LLM 的 JDBC。要求 Node.js 24.x，Bun 1.0+ 为实验性支持。", "highlights": ["12 个提供商平台的统一归一化接口（补全/流式/多模态/工具调用/嵌入）", "跨提供商归一化工具定义与 JSON Schema 结构化输出", "分包安装：@llumiverse/core 接口层 + @llumiverse/drivers 实现", "流式响应标准化为 AsyncIterable"], "use_cases": ["后端服务中切换 LLM 提供商而不改代码", "构建自定义框架或 CLI 工具时用统一 API 调用多家模型", "跨提供商复用同一套工具调用与嵌入逻辑"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [53]}}, "links": {"scenario_tags": ["LLM 驱动层", "多提供商抽象", "TypeScript", "SDK/连接库"], "domain": "LLM 基础设施/SDK", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["bedrock", "azure", "groq", "together", "xai", "anthropic", "openrouter"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: **Llumiverse** is the unified connectivity layer for the Large Language Model ecosystem. It provides a robust, modular, ", "L11: It solely focuses on **abstracting the connection and execution protocol**, letting you switch providers with zero code ", "L41: These are **application frameworks** that provide high-level abstractions for chains, memory, and RAG. Llumiverse is a *"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vertesia/llumiverse",
+ "sha": "9171eb772828",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Node.js/Bun 的多 LLM 提供商统一连接驱动库",
+  "review": "面向 Node.js、Bun 与 TypeScript 环境的 LLM 统一驱动层：以模块化、强类型接口抽象各 AI 提供商的连接与执行协议，支持 12 个提供商平台（OpenAI、Bedrock、Vertex AI、Groq 等）的补全、聊天、流式、多模态、工具调用与嵌入生成。采用分包安装（core + drivers），不含提示词模板或链编排逻辑，定位类似 LLM 的 JDBC。要求 Node.js 24.x，Bun 1.0+ 为实验性支持。",
+  "highlights": [
+   "12 个提供商平台的统一归一化接口（补全/流式/多模态/工具调用/嵌入）",
+   "跨提供商归一化工具定义与 JSON Schema 结构化输出",
+   "分包安装：@llumiverse/core 接口层 + @llumiverse/drivers 实现",
+   "流式响应标准化为 AsyncIterable"
+  ],
+  "use_cases": [
+   "后端服务中切换 LLM 提供商而不改代码",
+   "构建自定义框架或 CLI 工具时用统一 API 调用多家模型",
+   "跨提供商复用同一套工具调用与嵌入逻辑"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    53
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 驱动层",
+   "多提供商抽象",
+   "TypeScript",
+   "SDK/连接库"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock",
+   "azure",
+   "groq",
+   "together",
+   "xai",
+   "anthropic",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **Llumiverse** is the unified connectivity layer for the Large Language Model ecosystem. It provides a robust, modular, ",
+   "L11: It solely focuses on **abstracting the connection and execution protocol**, letting you switch providers with zero code ",
+   "L41: These are **application frameworks** that provide high-level abstractions for chains, memory, and RAG. Llumiverse is a *"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

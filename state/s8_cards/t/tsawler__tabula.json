@@ -1,1 +1,77 @@
-{"fn": "tsawler/tabula", "sha": "36b7596827ca", "source": "readme", "identity": {"one_liner": "Go 文本提取库：多格式文档抽取文本与 RAG 分块", "review": "纯 Go 编写的文档文本提取库，提供链式 API，支持 PDF（1.0-1.7，含加密与损坏文件恢复）、DOCX、ODT、XLSX、PPTX、HTML、EPUB 七种格式。功能包括布局分析（标题/段落/列表/表格检测）、页眉页脚识别与排除、HTML 导航过滤、Markdown 导出，以及面向 RAG 的语义分块（大小受限、自动恢复章节标题）。可选启用 Tesseract OCR 处理扫描件（需 -tags ocr 构建及额外系统库），扫描内容可透明进入分块结果。面向在 Go 项目中做文档摄取的开发者。", "highlights": ["支持 PDF/DOCX/ODT/XLSX/PPTX/HTML/EPUB 七种格式的文本与 Markdown 提取", "面向 RAG 的语义分块：大小受限、无碎片化、自动恢复章节标题", "可选 Tesseract OCR 处理扫描 PDF（JBIG2/JPEG2000 解码、整页栅格化）", "PDF 布局分析与加密（RC4/AES）、损坏交叉引用表恢复"], "use_cases": ["为 RAG 管道将 PDF/Office/EPUB 文档转换为分块或 Markdown 输入向量库", "提取扫描版 PDF 的文本（启用 OCR 构建标签）", "清洗网页内容，过滤导航、页眉、侧栏后做结构化提取"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档解析", "RAG 数据摄取", "Go 库", "PDF 处理"], "domain": "文档处理/RAG 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: A Go text extraction library with a fluent API, designed for RAG (Retrieval-Augmented Generation) workflows. Supports PD", "L18: - **RAG-Ready Chunking** - Semantic chunking with metadata: size-bounded chunks (no tiny fragments or over-max chunks) a", "L167: |`Chunks()`|`*rag.ChunkCollection`|Semantic chunks for RAG|PDF, DOCX, ODT, XLSX, PPTX, HTML, EPUB|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tsawler/tabula",
+ "sha": "36b7596827ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 文本提取库：多格式文档抽取文本与 RAG 分块",
+  "review": "纯 Go 编写的文档文本提取库，提供链式 API，支持 PDF（1.0-1.7，含加密与损坏文件恢复）、DOCX、ODT、XLSX、PPTX、HTML、EPUB 七种格式。功能包括布局分析（标题/段落/列表/表格检测）、页眉页脚识别与排除、HTML 导航过滤、Markdown 导出，以及面向 RAG 的语义分块（大小受限、自动恢复章节标题）。可选启用 Tesseract OCR 处理扫描件（需 -tags ocr 构建及额外系统库），扫描内容可透明进入分块结果。面向在 Go 项目中做文档摄取的开发者。",
+  "highlights": [
+   "支持 PDF/DOCX/ODT/XLSX/PPTX/HTML/EPUB 七种格式的文本与 Markdown 提取",
+   "面向 RAG 的语义分块：大小受限、无碎片化、自动恢复章节标题",
+   "可选 Tesseract OCR 处理扫描 PDF（JBIG2/JPEG2000 解码、整页栅格化）",
+   "PDF 布局分析与加密（RC4/AES）、损坏交叉引用表恢复"
+  ],
+  "use_cases": [
+   "为 RAG 管道将 PDF/Office/EPUB 文档转换为分块或 Markdown 输入向量库",
+   "提取扫描版 PDF 的文本（启用 OCR 构建标签）",
+   "清洗网页内容，过滤导航、页眉、侧栏后做结构化提取"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档解析",
+   "RAG 数据摄取",
+   "Go 库",
+   "PDF 处理"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: A Go text extraction library with a fluent API, designed for RAG (Retrieval-Augmented Generation) workflows. Supports PD",
+   "L18: - **RAG-Ready Chunking** - Semantic chunking with metadata: size-bounded chunks (no tiny fragments or over-max chunks) a",
+   "L167: |`Chunks()`|`*rag.ChunkCollection`|Semantic chunks for RAG|PDF, DOCX, ODT, XLSX, PPTX, HTML, EPUB|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

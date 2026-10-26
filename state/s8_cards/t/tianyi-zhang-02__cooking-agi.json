@@ -1,1 +1,81 @@
-{"fn": "tianyi-zhang-02/cooking-agi", "sha": "92f8fefa8d1e", "source": "readme", "identity": {"one_liner": "中英双语 ML/LLM 学习与面试准备笔记站", "review": "个人维护的中英双语 ML/LLM 学习笔记静态站点：内容覆盖模型原理（Transformer/BERT/CLIP）、训练与后训练（PPO/RLHF）、推理、RAG、深度强化学习、技术史与求职笔记，配分步图解、代码练习与项目走查。按新手入门、学习计划、面试速览等路线组织，阅读进度保存在浏览器本地。提供面向 Claude Code/Codex 等 agent 的面试陪练技能（npx 安装），可用 Python 3.12 从源码本地构建运行。内容采用 CC BY 4.0（笔记）与 MIT（代码）许可。", "highlights": ["中英双语对照笔记，站点内一键切换语言", "配套 AI agent 面试陪练技能，逐题反馈与弱项记录", "路线化学习：入门、学习计划、面试速览、自测", "含分步图解、代码练习与 143 条带出处的技术史里程碑"], "use_cases": ["系统学习 ML/LLM 基础与后训练等内容", "面试前按角色快速复习 ML/LLM 与算法", "让 AI agent 陪练模拟面试并追踪弱项"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [79]}}, "links": {"scenario_tags": ["学习笔记", "面试准备", "双语文档", "LLM教学", "静态站点"], "domain": "ML/LLM 知识与教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语笔记，中文版本保留英文术语"]}, "trust": {"confidence": "mid", "evidence": ["L3: **ML / LLM notes for learning, building, and interview preparation.**", "L50: - **Engineering practice** — Recommendation, RAG, and post-training systems: how data, training, serving, and evaluation"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tianyi-zhang-02/cooking-agi",
+ "sha": "92f8fefa8d1e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "中英双语 ML/LLM 学习与面试准备笔记站",
+  "review": "个人维护的中英双语 ML/LLM 学习笔记静态站点：内容覆盖模型原理（Transformer/BERT/CLIP）、训练与后训练（PPO/RLHF）、推理、RAG、深度强化学习、技术史与求职笔记，配分步图解、代码练习与项目走查。按新手入门、学习计划、面试速览等路线组织，阅读进度保存在浏览器本地。提供面向 Claude Code/Codex 等 agent 的面试陪练技能（npx 安装），可用 Python 3.12 从源码本地构建运行。内容采用 CC BY 4.0（笔记）与 MIT（代码）许可。",
+  "highlights": [
+   "中英双语对照笔记，站点内一键切换语言",
+   "配套 AI agent 面试陪练技能，逐题反馈与弱项记录",
+   "路线化学习：入门、学习计划、面试速览、自测",
+   "含分步图解、代码练习与 143 条带出处的技术史里程碑"
+  ],
+  "use_cases": [
+   "系统学习 ML/LLM 基础与后训练等内容",
+   "面试前按角色快速复习 ML/LLM 与算法",
+   "让 AI agent 陪练模拟面试并追踪弱项"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    79
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习笔记",
+   "面试准备",
+   "双语文档",
+   "LLM教学",
+   "静态站点"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语笔记，中文版本保留英文术语"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **ML / LLM notes for learning, building, and interview preparation.**",
+   "L50: - **Engineering practice** — Recommendation, RAG, and post-training systems: how data, training, serving, and evaluation"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

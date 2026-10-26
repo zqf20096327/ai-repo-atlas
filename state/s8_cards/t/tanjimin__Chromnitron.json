@@ -1,1 +1,75 @@
-{"fn": "tanjimin/Chromnitron", "sha": "6ef7beea5c6d", "source": "readme", "identity": {"one_liner": "预测人类基因组上染色质相关蛋白结合位点的多模态模型", "review": "包含 Chromnitron 模型与配套数据处理管线 Chrom2vec：前者预测染色质相关蛋白在人类基因组上的结合，后者将原始测序数据处理为模型可用格式。当前为早期发布，仅包含 Chromnitron 推理管线与 Chrom2vec 的 ATAC-seq 处理组件，完整版本后续发布。提供 Google Colab 交互环境、本地推理设置说明及自定义 ATAC-seq 数据分析路径，预印本发布于 bioRxiv。", "highlights": ["多模态模型预测染色质相关蛋白结合", "Chrom2vec 管线处理原始测序数据（ATAC-seq 组件）", "当前仅含推理管线，完整版待发布"], "use_cases": ["预测转录因子等染色质相关蛋白在基因组上的结合位点", "用自己的 ATAC-seq 数据做自定义分析", "通过 Colab 快速试用模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": "biorxiv预印本（README提及，未给出具体链接行）", "demo_url": null, "self_declared_early": {"flag": true, "lines": [5]}}, "links": {"scenario_tags": ["基因组学", "转录因子结合预测", "多模态深度学习", "生物信息学"], "domain": "计算生物学/基因组学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: This repository contains the official implementation of **Chromnitron** and its associated data-processing pipeline, **C", "L19: * **`chromnitron/`**: This directory holds the core Chromnitron model, designed for predicting chromatin-associated prot"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tanjimin/Chromnitron",
+ "sha": "6ef7beea5c6d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "预测人类基因组上染色质相关蛋白结合位点的多模态模型",
+  "review": "包含 Chromnitron 模型与配套数据处理管线 Chrom2vec：前者预测染色质相关蛋白在人类基因组上的结合，后者将原始测序数据处理为模型可用格式。当前为早期发布，仅包含 Chromnitron 推理管线与 Chrom2vec 的 ATAC-seq 处理组件，完整版本后续发布。提供 Google Colab 交互环境、本地推理设置说明及自定义 ATAC-seq 数据分析路径，预印本发布于 bioRxiv。",
+  "highlights": [
+   "多模态模型预测染色质相关蛋白结合",
+   "Chrom2vec 管线处理原始测序数据（ATAC-seq 组件）",
+   "当前仅含推理管线，完整版待发布"
+  ],
+  "use_cases": [
+   "预测转录因子等染色质相关蛋白在基因组上的结合位点",
+   "用自己的 ATAC-seq 数据做自定义分析",
+   "通过 Colab 快速试用模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "biorxiv预印本（README提及，未给出具体链接行）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基因组学",
+   "转录因子结合预测",
+   "多模态深度学习",
+   "生物信息学"
+  ],
+  "domain": "计算生物学/基因组学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: This repository contains the official implementation of **Chromnitron** and its associated data-processing pipeline, **C",
+   "L19: * **`chromnitron/`**: This directory holds the core Chromnitron model, designed for predicting chromatin-associated prot"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

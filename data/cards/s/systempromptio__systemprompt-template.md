@@ -33,7 +33,7 @@ SystemPrompt 的本地评估模板，由 Core（Rust 编译运行时）加配置
 
 ## 场景标签
 
- · 领域:AI 基础设施/治理
+`模型网关` `LLM 可观测性` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

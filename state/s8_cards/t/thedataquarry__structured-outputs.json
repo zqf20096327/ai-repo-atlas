@@ -1,1 +1,76 @@
-{"fn": "thedataquarry/structured-outputs", "sha": "7bf43dab6c84", "source": "readme", "identity": {"one_liner": "结构化输出基准：对比 DSPy 与 BAML 在多数据集上的表现", "review": "在 4 个数据集（患者临床笔记、金融实体、保险理赔、PII）上对 DSPy 与 BAML 两个框架进行结构化输出（嵌套 JSON 抽取）的基准评测，其中 3 个数据集来自 Cleanlab 发布的人工标注基准。给出各条件下的结论：小模型与深层嵌套场景 BAML 表现更好，大模型搭配 DSPy 的自定义 BAMLAdapter 表现更好。以 Python 源码仓库形式提供，使用 uv 管理依赖并同步安装，结果存放在 src/baml 与 src/dspy 目录。README 未列出具体测试所用的 LLM 型号清单。", "highlights": ["覆盖 4 个人工标注数据集的结构化输出评测", "对比 DSPy 与 BAML 在不同模型能力与 schema 深度下的表现", "引入 DSPy 自定义 BAMLAdapter 并对比默认 ChatAdapter 的 schema 格式化", "结论强调提示词优化对两框架收益的共同影响"], "use_cases": ["在 DSPy 与 BAML 之间做结构化输出选型参考", "了解嵌套 JSON schema 深度对框架表现的影响", "复用 Cleanlab 结构化输出基准数据与评测方法"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM评测", "结构化输出", "信息抽取", "基准测试"], "domain": "LLM 评测/信息抽取", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L3: Structured output benchmark that compares the results from modern tools like BAML", "L7: aims to explore some of those differences and compare their performance on multiple structured output benchmarks."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thedataquarry/structured-outputs",
+ "sha": "7bf43dab6c84",
+ "source": "readme",
+ "identity": {
+  "one_liner": "结构化输出基准：对比 DSPy 与 BAML 在多数据集上的表现",
+  "review": "在 4 个数据集（患者临床笔记、金融实体、保险理赔、PII）上对 DSPy 与 BAML 两个框架进行结构化输出（嵌套 JSON 抽取）的基准评测，其中 3 个数据集来自 Cleanlab 发布的人工标注基准。给出各条件下的结论：小模型与深层嵌套场景 BAML 表现更好，大模型搭配 DSPy 的自定义 BAMLAdapter 表现更好。以 Python 源码仓库形式提供，使用 uv 管理依赖并同步安装，结果存放在 src/baml 与 src/dspy 目录。README 未列出具体测试所用的 LLM 型号清单。",
+  "highlights": [
+   "覆盖 4 个人工标注数据集的结构化输出评测",
+   "对比 DSPy 与 BAML 在不同模型能力与 schema 深度下的表现",
+   "引入 DSPy 自定义 BAMLAdapter 并对比默认 ChatAdapter 的 schema 格式化",
+   "结论强调提示词优化对两框架收益的共同影响"
+  ],
+  "use_cases": [
+   "在 DSPy 与 BAML 之间做结构化输出选型参考",
+   "了解嵌套 JSON schema 深度对框架表现的影响",
+   "复用 Cleanlab 结构化输出基准数据与评测方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM评测",
+   "结构化输出",
+   "信息抽取",
+   "基准测试"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L3: Structured output benchmark that compares the results from modern tools like BAML",
+   "L7: aims to explore some of those differences and compare their performance on multiple structured output benchmarks."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

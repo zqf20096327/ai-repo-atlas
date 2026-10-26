@@ -1,1 +1,80 @@
-{"fn": "veeicwgy/ip-publisher", "sha": "067d73e127a0", "source": "readme", "identity": {"one_liner": "知识库驱动的多平台内容生成与审核工作流（中文 7 平台）", "review": "面向产品/SEO 内容运营的 Python 工具：以知识库、SEO 关键词、热点线索和大纲为输入，生成主稿 article.md，先过审核闸门（事实可回溯知识库 chunk、关键词命中、结构完整性、平台规则），输出 audit_report.json、publish_package.json 和微信公众号/小红书/知乎/掘金/CSDN/头条/微博 7 平台内容文件。发布默认停在审核通过后的 Wechatsync 草稿同步信息，不托管账号密码、不自动登录直发。含轻量 humanizer 阶段与 legacy 模板模式入口。", "highlights": ["知识库优先生成：主稿从文档/FAQ/版本说明中找依据，关键声明回溯到 KB chunk", "审核先于发布：grounding/keyword_fit/structure/platform_fit 等多维 audit_report.json", "默认产出 canonical 7 平台内容包（微信/小红书/知乎/掘金/CSDN/头条/微博）", "默认走 Wechatsync 草稿同步，不托管账号密码、不自动登录"], "use_cases": ["把产品知识库改造成适合 AI 检索和 SEO 分发的文章", "同一主题一次拆出 7 个中文平台可用版本", "先确保内容准确性和审核门槛，再进入草稿同步分发"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["内容生成", "多平台分发", "SEO内容", "RAG", "内容审核"], "domain": "内容营销/自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向微信公众号/小红书/知乎/掘金/CSDN/头条/微博等中文平台"]}, "trust": {"confidence": "high", "evidence": ["L12: > 把 **产品/工具知识库 + SEO 关键词 + 热点线索 + 大纲**，变成一套 **先审核、再分发** 的内容工作流：主稿、`audit_report.json`、`publish_package.json` 和 **7 平台 pa", "L49: |产品/工具知识库、主关键词、热点线索、大纲、受众|基于知识库生成主稿，审核事实准确性/关键词命中/结构完整性/平台格式，再拆成 7 平台版本|`article.md`、`audit_report.json`、`publish_packag", "L205: - 关键声明可以回溯到知识库 chunk"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "veeicwgy/ip-publisher",
+ "sha": "067d73e127a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "知识库驱动的多平台内容生成与审核工作流（中文 7 平台）",
+  "review": "面向产品/SEO 内容运营的 Python 工具：以知识库、SEO 关键词、热点线索和大纲为输入，生成主稿 article.md，先过审核闸门（事实可回溯知识库 chunk、关键词命中、结构完整性、平台规则），输出 audit_report.json、publish_package.json 和微信公众号/小红书/知乎/掘金/CSDN/头条/微博 7 平台内容文件。发布默认停在审核通过后的 Wechatsync 草稿同步信息，不托管账号密码、不自动登录直发。含轻量 humanizer 阶段与 legacy 模板模式入口。",
+  "highlights": [
+   "知识库优先生成：主稿从文档/FAQ/版本说明中找依据，关键声明回溯到 KB chunk",
+   "审核先于发布：grounding/keyword_fit/structure/platform_fit 等多维 audit_report.json",
+   "默认产出 canonical 7 平台内容包（微信/小红书/知乎/掘金/CSDN/头条/微博）",
+   "默认走 Wechatsync 草稿同步，不托管账号密码、不自动登录"
+  ],
+  "use_cases": [
+   "把产品知识库改造成适合 AI 检索和 SEO 分发的文章",
+   "同一主题一次拆出 7 个中文平台可用版本",
+   "先确保内容准确性和审核门槛，再进入草稿同步分发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "内容生成",
+   "多平台分发",
+   "SEO内容",
+   "RAG",
+   "内容审核"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "rag",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向微信公众号/小红书/知乎/掘金/CSDN/头条/微博等中文平台"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: > 把 **产品/工具知识库 + SEO 关键词 + 热点线索 + 大纲**，变成一套 **先审核、再分发** 的内容工作流：主稿、`audit_report.json`、`publish_package.json` 和 **7 平台 pa",
+   "L49: |产品/工具知识库、主关键词、热点线索、大纲、受众|基于知识库生成主稿，审核事实准确性/关键词命中/结构完整性/平台格式，再拆成 7 平台版本|`article.md`、`audit_report.json`、`publish_packag",
+   "L205: - 关键声明可以回溯到知识库 chunk"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

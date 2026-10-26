@@ -1,1 +1,78 @@
-{"fn": "troetochie-online/troetochie", "sha": "feb509ad3c2f", "source": "readme", "identity": {"one_liner": "桌面 AI 回复自动补全：任意聊天框光标即出灰色建议，Tab 插入", "review": "面向 macOS 与 Windows 的桌面应用（Tauri 构建）：将光标置于聊天应用空白输入框时，读取输入框上方可见的最近消息，以灰色文本在原输入框内生成回复建议，按 Tab 插入，由用户自行发送；个性化风格基于用户历史写法。支持 Telegram、Discord、Slack、Codex/Cursor（macOS）等应用，通过 macOS 辅助功能与屏幕录制权限实现读取与插入。截图在本地处理，仅一次回复的文本发送到服务器；对话不存储。Windows 版本 0.3.38，需 Windows 10+ x64。", "highlights": ["光标置空即读取可见消息并生成灰色回复建议，Tab 插入", "支持 Telegram/Discord/Slack/浏览器等多应用，macOS 通过辅助功能+屏幕录制权限实现", "三种风格变体、「Улучшить」改写草稿、按用户写法学到的风格设置", "截图本地处理，仅发送一次回复所需文本，不存储对话"], "use_cases": ["在 Telegram/Discord/Slack 等聊天中快速得到回复建议", "保持个人书写风格的自动补全", "改写自己写的草稿而不改变意思"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [51, 53]}}, "links": {"scenario_tags": ["桌面应用", "回复补全", "聊天效率", "Tauri"], "domain": "桌面效率工具/AI 输入", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: **Автоподсказки ответа в любом чате. Ставите курсор в пустое поле — серым", "L34: 1. **Курсор в пустое поле.** Троеточие читает видимую переписку над полем и за секунду готовит ответ.", "L35: 2. **Серый текст.** Ответ появляется прямо в поле — шрифтом и цветом самого приложения."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "troetochie-online/troetochie",
+ "sha": "feb509ad3c2f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面 AI 回复自动补全：任意聊天框光标即出灰色建议，Tab 插入",
+  "review": "面向 macOS 与 Windows 的桌面应用（Tauri 构建）：将光标置于聊天应用空白输入框时，读取输入框上方可见的最近消息，以灰色文本在原输入框内生成回复建议，按 Tab 插入，由用户自行发送；个性化风格基于用户历史写法。支持 Telegram、Discord、Slack、Codex/Cursor（macOS）等应用，通过 macOS 辅助功能与屏幕录制权限实现读取与插入。截图在本地处理，仅一次回复的文本发送到服务器；对话不存储。Windows 版本 0.3.38，需 Windows 10+ x64。",
+  "highlights": [
+   "光标置空即读取可见消息并生成灰色回复建议，Tab 插入",
+   "支持 Telegram/Discord/Slack/浏览器等多应用，macOS 通过辅助功能+屏幕录制权限实现",
+   "三种风格变体、「Улучшить」改写草稿、按用户写法学到的风格设置",
+   "截图本地处理，仅发送一次回复所需文本，不存储对话"
+  ],
+  "use_cases": [
+   "在 Telegram/Discord/Slack 等聊天中快速得到回复建议",
+   "保持个人书写风格的自动补全",
+   "改写自己写的草稿而不改变意思"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    51,
+    53
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面应用",
+   "回复补全",
+   "聊天效率",
+   "Tauri"
+  ],
+  "domain": "桌面效率工具/AI 输入",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **Автоподсказки ответа в любом чате. Ставите курсор в пустое поле — серым",
+   "L34: 1. **Курсор в пустое поле.** Троеточие читает видимую переписку над полем и за секунду готовит ответ.",
+   "L35: 2. **Серый текст.** Ответ появляется прямо в поле — шрифтом и цветом самого приложения."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

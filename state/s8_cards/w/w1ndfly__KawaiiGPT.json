@@ -1,1 +1,72 @@
-{"fn": "w1ndfly/KawaiiGPT", "sha": "77d725444adf", "source": "readme", "identity": {"one_liner": "自称无需 API Key 的 GPT 聊天工具（WormGPT 可爱版）", "review": "作者 Shoukaku07/MrSanZz 发布的 GPT 类工具，README 自称无需 API Key 即可使用，附一个 LIC 码，提供 Linux（apt 安装 python3/pip/git）与 Termux（pkg 安装）两类环境下的运行步骤，含语音功能提示（遇 ALSA lib 错误时勿启用）。代码经过混淆，作者称混淆目的是防止他人改写和转卖，并声明不含恶意代码。README 未说明模型来源、功能细节与许可条款，且明确禁止修改或出售该工具。", "highlights": ["README 声明无需 API Key", "提供 Linux 发行版与 Termux 两种运行步骤", "代码经混淆，作者称用于防止改写与转卖"], "use_cases": ["在 Linux 或 Termux 环境中运行该 GPT 聊天工具"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["聊天工具", "终端/CLI", "Termux"], "domain": "聊天应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L3: # KawaiiGPT", "L9: ## You don't need an Api Key!"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "w1ndfly/KawaiiGPT",
+ "sha": "77d725444adf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自称无需 API Key 的 GPT 聊天工具（WormGPT 可爱版）",
+  "review": "作者 Shoukaku07/MrSanZz 发布的 GPT 类工具，README 自称无需 API Key 即可使用，附一个 LIC 码，提供 Linux（apt 安装 python3/pip/git）与 Termux（pkg 安装）两类环境下的运行步骤，含语音功能提示（遇 ALSA lib 错误时勿启用）。代码经过混淆，作者称混淆目的是防止他人改写和转卖，并声明不含恶意代码。README 未说明模型来源、功能细节与许可条款，且明确禁止修改或出售该工具。",
+  "highlights": [
+   "README 声明无需 API Key",
+   "提供 Linux 发行版与 Termux 两种运行步骤",
+   "代码经混淆，作者称用于防止改写与转卖"
+  ],
+  "use_cases": [
+   "在 Linux 或 Termux 环境中运行该 GPT 聊天工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天工具",
+   "终端/CLI",
+   "Termux"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L3: # KawaiiGPT",
+   "L9: ## You don't need an Api Key!"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

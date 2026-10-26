@@ -1,1 +1,78 @@
-{"fn": "video-db/videodb-capture-quickstart", "sha": "a5a43d22c914", "source": "readme", "identity": {"one_liner": "给 AI agent 提供实时桌面感知的屏幕/音频采集 SDK", "review": "VideoDB Capture SDK 提供桌面屏幕、麦克风与系统音频的实时采集与流式传输：后端创建会话并铸造短期 token（API key 留在服务端），桌面客户端用 token 推流，VideoDB Cloud 执行 AI 处理（转录、视觉/音频索引），经 webhook 与 WebSocket 交付结构化事件（转写文本、场景描述、语义索引），延迟低于 2 秒。提供 npm 与 pip 安装，需注册 console.videodb.io 获取 API key；另附 6 个示例应用与 Node.js/Python 快速开始代码。", "highlights": ["采集屏幕、麦克风、系统音频并实时流式传输", "后端铸造短期 token，客户端不接触 API key", "webhook + WebSocket 交付带时间戳的结构化事件（转录/场景索引/音频索引）", "提供 6 个可本地运行的示例应用（Pair Programmer、Call.md 等）"], "use_cases": ["让编码 agent 获得屏幕与语音的实时上下文", "构建实时会议转录与纪要应用", "全天屏幕记录并用自然语言查询历史内容"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://docs.videodb.io", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent感知", "屏幕采集", "实时流", "SDK", "多模态输入"], "domain": "AI 基础设施/实时多模态采集", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L29: VideoDB Capture gives AI agents eyes and ears—stream screen, mic, and system audio for real-time processing, delivering ", "L34: - VideoDB Cloud runs AI processing and delivers events via webhooks + WebSocket"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "video-db/videodb-capture-quickstart",
+ "sha": "a5a43d22c914",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 提供实时桌面感知的屏幕/音频采集 SDK",
+  "review": "VideoDB Capture SDK 提供桌面屏幕、麦克风与系统音频的实时采集与流式传输：后端创建会话并铸造短期 token（API key 留在服务端），桌面客户端用 token 推流，VideoDB Cloud 执行 AI 处理（转录、视觉/音频索引），经 webhook 与 WebSocket 交付结构化事件（转写文本、场景描述、语义索引），延迟低于 2 秒。提供 npm 与 pip 安装，需注册 console.videodb.io 获取 API key；另附 6 个示例应用与 Node.js/Python 快速开始代码。",
+  "highlights": [
+   "采集屏幕、麦克风、系统音频并实时流式传输",
+   "后端铸造短期 token，客户端不接触 API key",
+   "webhook + WebSocket 交付带时间戳的结构化事件（转录/场景索引/音频索引）",
+   "提供 6 个可本地运行的示例应用（Pair Programmer、Call.md 等）"
+  ],
+  "use_cases": [
+   "让编码 agent 获得屏幕与语音的实时上下文",
+   "构建实时会议转录与纪要应用",
+   "全天屏幕记录并用自然语言查询历史内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://docs.videodb.io",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent感知",
+   "屏幕采集",
+   "实时流",
+   "SDK",
+   "多模态输入"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: VideoDB Capture gives AI agents eyes and ears—stream screen, mic, and system audio for real-time processing, delivering ",
+   "L34: - VideoDB Cloud runs AI processing and delivers events via webhooks + WebSocket"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

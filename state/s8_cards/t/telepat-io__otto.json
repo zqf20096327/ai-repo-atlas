@@ -1,1 +1,80 @@
-{"fn": "telepat-io/otto", "sha": "681b3e37926b", "source": "readme", "identity": {"one_liner": "面向开发者的真实浏览器远程自动化平台，供 agent 调用", "review": "通过 WebSocket 将 CLI/脚本命令经 relay 守护进程路由到 Chrome 扩展，在真实浏览器标签页上执行点击、输入、导航与 DOM 提取，无需自建无头浏览器集群。确定性代码处理交互，LLM/agent 仅负责决策，并支持 MCP server、--json 输出与非交互式 setup。内置 Reddit/LinkedIn/HN/Google 站点命令与 markdown/HTML 提取原语，token 认证、重放保护与节点 ACL。要求 Node.js 20+ 与 Chrome，支持 macOS/Linux/Windows。", "highlights": ["CLI/脚本经 relay 控制 Chrome 扩展在真实标签页执行命令", "MCP server、--json 输出与非交互式 setup，面向 agent 与 CI", "Reddit/LinkedIn/HN/Google 站点命令及 markdown/HTML 提取原语", "token 认证、重放保护、节点 ACL 与日志脱敏"], "use_cases": ["让 agent 或 CI 在真实浏览器上执行自动化工作流", "从 Reddit/LinkedIn 等站点提取内容用于监控或数据抽取", "在远程主机浏览器上运行测试与调试并流式查看日志"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["浏览器自动化", "AI agent 工具", "网页抓取/提取", "CLI 工具"], "domain": "浏览器自动化/Agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本"]}, "trust": {"confidence": "high", "evidence": ["L23: - **Code drives the browser. The LLM just decides what to do.** — Otto handles clicks, typing, navigation, and DOM inter", "L28: - **Agent and CI ready** — Non-interactive setup, `--json` output, MCP server, streaming test harness, and agent runtime", "L129: ## Using With AI Agents"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "telepat-io/otto",
+ "sha": "681b3e37926b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的真实浏览器远程自动化平台，供 agent 调用",
+  "review": "通过 WebSocket 将 CLI/脚本命令经 relay 守护进程路由到 Chrome 扩展，在真实浏览器标签页上执行点击、输入、导航与 DOM 提取，无需自建无头浏览器集群。确定性代码处理交互，LLM/agent 仅负责决策，并支持 MCP server、--json 输出与非交互式 setup。内置 Reddit/LinkedIn/HN/Google 站点命令与 markdown/HTML 提取原语，token 认证、重放保护与节点 ACL。要求 Node.js 20+ 与 Chrome，支持 macOS/Linux/Windows。",
+  "highlights": [
+   "CLI/脚本经 relay 控制 Chrome 扩展在真实标签页执行命令",
+   "MCP server、--json 输出与非交互式 setup，面向 agent 与 CI",
+   "Reddit/LinkedIn/HN/Google 站点命令及 markdown/HTML 提取原语",
+   "token 认证、重放保护、节点 ACL 与日志脱敏"
+  ],
+  "use_cases": [
+   "让 agent 或 CI 在真实浏览器上执行自动化工作流",
+   "从 Reddit/LinkedIn 等站点提取内容用于监控或数据抽取",
+   "在远程主机浏览器上运行测试与调试并流式查看日志"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器自动化",
+   "AI agent 工具",
+   "网页抓取/提取",
+   "CLI 工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: - **Code drives the browser. The LLM just decides what to do.** — Otto handles clicks, typing, navigation, and DOM inter",
+   "L28: - **Agent and CI ready** — Non-interactive setup, `--json` output, MCP server, streaming test harness, and agent runtime",
+   "L129: ## Using With AI Agents"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

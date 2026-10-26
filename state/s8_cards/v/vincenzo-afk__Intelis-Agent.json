@@ -1,1 +1,77 @@
-{"fn": "vincenzo-afk/Intelis-Agent", "sha": "2832d9f594f4", "source": "readme", "identity": {"one_liner": "自跑式定时网络情报研究 agent：LLM 核验并交付报告", "review": "全栈研究应用：用户用自然语言定义研究目标，选择 Web/RSS/NewsAPI 来源并配置 cron 定时，服务端采集候选材料、经 LLM 流水线分析（信号抽取、质量/相关性/可信度/新颖度评分、验证状态），生成情报报告并通过站内通知与 Resend 邮件交付。Ask Mode 基于已存 findings 回答问题并附引用（finding ID、标题、来源 URL）。前端 React 19 + Vite，后端 Express + tRPC，数据存 MySQL（Drizzle ORM），LLM 经 Groq 的 llama-3.3-70b-versatile。限制：无 Docker 配置，Manus 心跳外的宿主需自行接入调度器。", "highlights": ["自然语言研究任务 + 五/六字段 cron 定时执行", "findings 保留来源 URL、摘要与质量/相关性/可信度/新颖度评分", "Ask Mode 仅基于已存 findings 回答并返回引用", "摘要/摘要简报/告警三类报告，支持 PDF 与 CSV 导出"], "use_cases": ["定时监控特定主题的公开网络信息并收邮件简报", "追踪公司/人物/话题实体的变更事件与趋势", "对已采集的 findings 做带引用的问答检索"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["研究agent", "信息监控", "定时任务/cron", "情报报告", "全栈Web应用"], "domain": "信息监控/AI 研究自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["groq"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: > A self-running research agent that monitors the web on a schedule, verifies findings with LLM analysis, and delivers i", "L27: - LLM-backed task-signal derivation, finding analysis, report synthesis, semantic retrieval, and Ask Mode through Groq’s"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vincenzo-afk/Intelis-Agent",
+ "sha": "2832d9f594f4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自跑式定时网络情报研究 agent：LLM 核验并交付报告",
+  "review": "全栈研究应用：用户用自然语言定义研究目标，选择 Web/RSS/NewsAPI 来源并配置 cron 定时，服务端采集候选材料、经 LLM 流水线分析（信号抽取、质量/相关性/可信度/新颖度评分、验证状态），生成情报报告并通过站内通知与 Resend 邮件交付。Ask Mode 基于已存 findings 回答问题并附引用（finding ID、标题、来源 URL）。前端 React 19 + Vite，后端 Express + tRPC，数据存 MySQL（Drizzle ORM），LLM 经 Groq 的 llama-3.3-70b-versatile。限制：无 Docker 配置，Manus 心跳外的宿主需自行接入调度器。",
+  "highlights": [
+   "自然语言研究任务 + 五/六字段 cron 定时执行",
+   "findings 保留来源 URL、摘要与质量/相关性/可信度/新颖度评分",
+   "Ask Mode 仅基于已存 findings 回答并返回引用",
+   "摘要/摘要简报/告警三类报告，支持 PDF 与 CSV 导出"
+  ],
+  "use_cases": [
+   "定时监控特定主题的公开网络信息并收邮件简报",
+   "追踪公司/人物/话题实体的变更事件与趋势",
+   "对已采集的 findings 做带引用的问答检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "研究agent",
+   "信息监控",
+   "定时任务/cron",
+   "情报报告",
+   "全栈Web应用"
+  ],
+  "domain": "信息监控/AI 研究自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > A self-running research agent that monitors the web on a schedule, verifies findings with LLM analysis, and delivers i",
+   "L27: - LLM-backed task-signal derivation, finding analysis, report synthesis, semantic retrieval, and Ask Mode through Groq’s"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

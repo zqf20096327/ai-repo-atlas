@@ -1,1 +1,83 @@
-{"fn": "subhashladumor1/laravel-ai-guard", "sha": "dd5a26e5258c", "source": "readme", "identity": {"one_liner": "Laravel 应用的 AI 成本追踪与预算管控包", "review": "面向 Laravel 10.x-12.x 的 PHP 包（PHP 8.1+），围绕 AI 调用做成本治理：调用前按 token 单价估算费用，调用后从响应记录用量与花费，支持全局/用户/租户三级预算与周期重置，超预算中间件返回 402，Kill Switch 可经 .env 关停全部 AI 调用（503）。计费维度覆盖缓存读写、长上下文及音频/视频/图像/嵌入等多模态，适配 OpenAI、Anthropic、Gemini、xAI、Mistral、DeepSeek 的价目；与 Laravel AI SDK 配合使用，也可用于任意 AI API。", "highlights": ["调用前估算与调用后按响应记录 token 用量与成本", "全局/用户/租户三级预算，超支返回 402，Kill Switch 全局关停", "支持 Context Caching、长上下文与音频/视频/图像/嵌入等多模态计费维度", "提供 AIGuard Facade、中间件与 artisan 报表/预算重置命令"], "use_cases": ["给我的 SaaS 按用户或租户设 AI 花费上限", "在调用 AI 前预估成本，避免账单超支", "按天/月生成 AI 用量与成本报表", "追踪多模态（视频、音频、图像）调用的真实花费"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI成本控制", "Laravel包", "预算管理", "用量监控", "FinOps"], "domain": "Web 开发/AI 成本治理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "xai", "deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6:  It helps Laravel developers track OpenAI & LLM token usage 📊, estimate AI costs before execution ⚠️, enforce per-user o", "L49: > **TL;DR:** Laravel AI SDK does the AI. Laravel AI Guard decides _whether_ you're allowed to call and _how much_ you sp", "L330: |Condition|Response|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "subhashladumor1/laravel-ai-guard",
+ "sha": "dd5a26e5258c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Laravel 应用的 AI 成本追踪与预算管控包",
+  "review": "面向 Laravel 10.x-12.x 的 PHP 包（PHP 8.1+），围绕 AI 调用做成本治理：调用前按 token 单价估算费用，调用后从响应记录用量与花费，支持全局/用户/租户三级预算与周期重置，超预算中间件返回 402，Kill Switch 可经 .env 关停全部 AI 调用（503）。计费维度覆盖缓存读写、长上下文及音频/视频/图像/嵌入等多模态，适配 OpenAI、Anthropic、Gemini、xAI、Mistral、DeepSeek 的价目；与 Laravel AI SDK 配合使用，也可用于任意 AI API。",
+  "highlights": [
+   "调用前估算与调用后按响应记录 token 用量与成本",
+   "全局/用户/租户三级预算，超支返回 402，Kill Switch 全局关停",
+   "支持 Context Caching、长上下文与音频/视频/图像/嵌入等多模态计费维度",
+   "提供 AIGuard Facade、中间件与 artisan 报表/预算重置命令"
+  ],
+  "use_cases": [
+   "给我的 SaaS 按用户或租户设 AI 花费上限",
+   "在调用 AI 前预估成本，避免账单超支",
+   "按天/月生成 AI 用量与成本报表",
+   "追踪多模态（视频、音频、图像）调用的真实花费"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI成本控制",
+   "Laravel包",
+   "预算管理",
+   "用量监控",
+   "FinOps"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6:  It helps Laravel developers track OpenAI & LLM token usage 📊, estimate AI costs before execution ⚠️, enforce per-user o",
+   "L49: > **TL;DR:** Laravel AI SDK does the AI. Laravel AI Guard decides _whether_ you're allowed to call and _how much_ you sp",
+   "L330: |Condition|Response|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

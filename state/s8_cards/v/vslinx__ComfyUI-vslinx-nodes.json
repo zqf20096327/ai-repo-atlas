@@ -1,1 +1,78 @@
-{"fn": "vslinx/ComfyUI-vslinx-nodes", "sha": "0a12b913c4b9", "source": "readme", "identity": {"one_liner": "面向 ComfyUI 工作流的自定义节点集合：图像加载、分支控制与实用工具", "review": "ComfyUI 插件形式的节点合集：图像方面提供多选批量/列表加载、输出目录最后生成图加载（自动刷新、MaskEditor 支持）、带筛选交互的 Better Image Preview、暂停工作流人工挑选图像的 Image Filter、按任意倍率模型放大（nearest/bilinear/area/Lanczos）、复古调色板像素画转换、分批 VAE 解码以降低峰值显存；控制流方面提供布尔 AND/OR/Flip、按布尔或镜像他节点状态 bypass/mute 下游节点、五值打包 pipe、书签跳转等；另含模型/LoRA 悬停预览与 Return type mismatch 修复设置。通过 ComfyUI-Manager 或 git clone 安装。", "highlights": ["多图选择加载（batch/list）与输出目录最后生成图加载（自动刷新）", "Image Filter 暂停工作流人工筛选图像批次，支持超时策略", "布尔逻辑与 bypass/mute 状态镜像节点实现条件分支", "分批/分块 VAE 解码降低峰值显存；模型悬停预览（.safetensors/.ckpt/.pt/.gguf）"], "use_cases": ["在 ComfyUI 工作流中批量加载并人工筛选图像", "用布尔与 bypass/mute 节点组织复杂分支流程", "为模型/LoRA 下拉列表添加悬停预览图"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI", "图像生成工作流", "自定义节点", "工作流编排", "图像处理"], "domain": "图像生成/工作流工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # ComfyUI-vslinx-nodes", "L2: Custom ComfyUI nodes to streamline workflows: load multiple images via a multi-select dialog as a batch or list, or load", "L57: #### (Impact-Pack) Multiline Wildcard Text"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vslinx/ComfyUI-vslinx-nodes",
+ "sha": "0a12b913c4b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 ComfyUI 工作流的自定义节点集合：图像加载、分支控制与实用工具",
+  "review": "ComfyUI 插件形式的节点合集：图像方面提供多选批量/列表加载、输出目录最后生成图加载（自动刷新、MaskEditor 支持）、带筛选交互的 Better Image Preview、暂停工作流人工挑选图像的 Image Filter、按任意倍率模型放大（nearest/bilinear/area/Lanczos）、复古调色板像素画转换、分批 VAE 解码以降低峰值显存；控制流方面提供布尔 AND/OR/Flip、按布尔或镜像他节点状态 bypass/mute 下游节点、五值打包 pipe、书签跳转等；另含模型/LoRA 悬停预览与 Return type mismatch 修复设置。通过 ComfyUI-Manager 或 git clone 安装。",
+  "highlights": [
+   "多图选择加载（batch/list）与输出目录最后生成图加载（自动刷新）",
+   "Image Filter 暂停工作流人工筛选图像批次，支持超时策略",
+   "布尔逻辑与 bypass/mute 状态镜像节点实现条件分支",
+   "分批/分块 VAE 解码降低峰值显存；模型悬停预览（.safetensors/.ckpt/.pt/.gguf）"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中批量加载并人工筛选图像",
+   "用布尔与 bypass/mute 节点组织复杂分支流程",
+   "为模型/LoRA 下拉列表添加悬停预览图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI",
+   "图像生成工作流",
+   "自定义节点",
+   "工作流编排",
+   "图像处理"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # ComfyUI-vslinx-nodes",
+   "L2: Custom ComfyUI nodes to streamline workflows: load multiple images via a multi-select dialog as a batch or list, or load",
+   "L57: #### (Impact-Pack) Multiline Wildcard Text"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

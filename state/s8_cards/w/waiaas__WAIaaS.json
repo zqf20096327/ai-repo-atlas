@@ -1,1 +1,78 @@
-{"fn": "waiaas/WAIaaS", "sha": "34f55a645734", "source": "readme", "identity": {"one_liner": "自托管的 AI agent 链上钱包守护进程：代付交易、策略管控", "review": "本地运行的 Wallet 守护进程，位于 AI agent 与区块链之间：agent 可即时执行小额链上交易，大额交易需资金所有者批准，密钥不离开本机。提供三级认证（daemon 操作者/资金所有者/agent 会话）、按 USD 金额自动分级的 4 层策略引擎与 12 种策略类型，另有 Kill Switch、AutoStop、审计日志与 4 通道通知。支持 Solana 与 EVM 共 13 个网络，通过 MCP server、技能文件、SDK、CLI、REST 与 Admin UI 等多种接口接入 agent。", "highlights": ["三级认证与按 USD 金额分级的 4 层策略引擎（12 种策略类型）", "Solana（SPL/Token-2022）与 EVM（ERC-20）共 13 个网络", "MCP server、.skill.md 技能文件、TypeScript/Python SDK、CLI、Admin UI 多接口接入", "agent 可通过 --auto-provision 全自主完成安装配置"], "use_cases": ["让 AI agent 在限额内自动执行链上转账与 DeFi 操作", "为 agent 钱包设置支出上限、代币白名单与大额审批流程", "通过 Admin UI 或 Telegram Bot 管理多链钱包与会话"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "加密钱包", "AI agent 基础设施", "DeFi", "自托管"], "domain": "区块链/AI agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: A self-hosted wallet daemon that lets AI agents perform on-chain transactions securely -- while the owner keeps full con", "L47: - **@waiaas/mcp** — Model Context Protocol server for AI agents", "L92: The daemon runs as an MCP server. Your agent calls wallet tools directly -- send tokens, check balances, manage policies"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "waiaas/WAIaaS",
+ "sha": "34f55a645734",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 AI agent 链上钱包守护进程：代付交易、策略管控",
+  "review": "本地运行的 Wallet 守护进程，位于 AI agent 与区块链之间：agent 可即时执行小额链上交易，大额交易需资金所有者批准，密钥不离开本机。提供三级认证（daemon 操作者/资金所有者/agent 会话）、按 USD 金额自动分级的 4 层策略引擎与 12 种策略类型，另有 Kill Switch、AutoStop、审计日志与 4 通道通知。支持 Solana 与 EVM 共 13 个网络，通过 MCP server、技能文件、SDK、CLI、REST 与 Admin UI 等多种接口接入 agent。",
+  "highlights": [
+   "三级认证与按 USD 金额分级的 4 层策略引擎（12 种策略类型）",
+   "Solana（SPL/Token-2022）与 EVM（ERC-20）共 13 个网络",
+   "MCP server、.skill.md 技能文件、TypeScript/Python SDK、CLI、Admin UI 多接口接入",
+   "agent 可通过 --auto-provision 全自主完成安装配置"
+  ],
+  "use_cases": [
+   "让 AI agent 在限额内自动执行链上转账与 DeFi 操作",
+   "为 agent 钱包设置支出上限、代币白名单与大额审批流程",
+   "通过 Admin UI 或 Telegram Bot 管理多链钱包与会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "加密钱包",
+   "AI agent 基础设施",
+   "DeFi",
+   "自托管"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: A self-hosted wallet daemon that lets AI agents perform on-chain transactions securely -- while the owner keeps full con",
+   "L47: - **@waiaas/mcp** — Model Context Protocol server for AI agents",
+   "L92: The daemon runs as an MCP server. Your agent calls wallet tools directly -- send tokens, check balances, manage policies"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

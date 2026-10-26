@@ -1,1 +1,80 @@
-{"fn": "tahrirchi/uzlib", "sha": "955494c4e3d4", "source": "readme", "identity": {"one_liner": "乌兹别克语语言学基准：评测 LLM 的乌语能力", "review": "UzLiB 是面向大语言模型的多项选择题基准，用于评测模型对乌兹别克语正确形式、用法与细微差别的理解。题目取自四个乌语语言学 Telegram 频道的测验，经人工校验与标准化（含拉丁转写与选项乱序），原始与处理后数据均在 data/ 目录。评测采用统一提示模板与标准生成参数（temperature=1.0, top-p=0.95），提供评测脚本、模型输出与本地 vLLM 评测路径，支持生成排行榜并接受新模型贡献。", "highlights": ["首个综合性乌兹别克语语言学多项选择题基准", "题目来自 4 个乌语语言学 Telegram 频道并经人工校验标准化", "统一提示模板与生成参数（temperature=1.0, top-p=0.95）评测", "支持通过 vLLM 本地部署开源模型（Mistral/Llama/Gemma）评测"], "use_cases": ["评测我的模型在乌兹别克语语言学上的表现", "复现或扩展排行榜，提交新模型的评测结果", "获取已标准化的乌语语言学测试题数据集"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["基准/评测", "低资源语言", "乌兹别克语", "LLM评测", "语言学"], "domain": "NLP/LLM 评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: UzLiB is the first comprehensive multiple-choice question benchmark designed to evaluate the linguistic abilities of Lar", "L13: UzLiB questions were sourced from popular quizzes on the following Telegram channels specializing in Uzbek linguistics:", "L25: The results presented in the leaderboard were obtained using a consistent prompt template and standard generation parame"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tahrirchi/uzlib",
+ "sha": "955494c4e3d4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "乌兹别克语语言学基准：评测 LLM 的乌语能力",
+  "review": "UzLiB 是面向大语言模型的多项选择题基准，用于评测模型对乌兹别克语正确形式、用法与细微差别的理解。题目取自四个乌语语言学 Telegram 频道的测验，经人工校验与标准化（含拉丁转写与选项乱序），原始与处理后数据均在 data/ 目录。评测采用统一提示模板与标准生成参数（temperature=1.0, top-p=0.95），提供评测脚本、模型输出与本地 vLLM 评测路径，支持生成排行榜并接受新模型贡献。",
+  "highlights": [
+   "首个综合性乌兹别克语语言学多项选择题基准",
+   "题目来自 4 个乌语语言学 Telegram 频道并经人工校验标准化",
+   "统一提示模板与生成参数（temperature=1.0, top-p=0.95）评测",
+   "支持通过 vLLM 本地部署开源模型（Mistral/Llama/Gemma）评测"
+  ],
+  "use_cases": [
+   "评测我的模型在乌兹别克语语言学上的表现",
+   "复现或扩展排行榜，提交新模型的评测结果",
+   "获取已标准化的乌语语言学测试题数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准/评测",
+   "低资源语言",
+   "乌兹别克语",
+   "LLM评测",
+   "语言学"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: UzLiB is the first comprehensive multiple-choice question benchmark designed to evaluate the linguistic abilities of Lar",
+   "L13: UzLiB questions were sourced from popular quizzes on the following Telegram channels specializing in Uzbek linguistics:",
+   "L25: The results presented in the leaderboard were obtained using a consistent prompt template and standard generation parame"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

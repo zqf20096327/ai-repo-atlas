@@ -1,1 +1,80 @@
-{"fn": "weicho-wang/AI-TrainerCertificationExamPrepGuide", "sha": "2b55248f1cac", "source": "readme", "identity": {"one_liner": "人工智能训练师认证考试的开源备考教程书", "review": "面向准备人工智能训练师认证考试的新手读者，提供开源免费教程，内容分为基础概念讲解、算法原理与编程实例等部分，附配套视频教程讲解编程环境搭建，并提供全套代码便于调试。以简体中文、繁体中文、英文多语言版本维护，内容按 CC BY-NC-SA 4.0 许可发布，仍在持续更新中，接受社区贡献。", "highlights": ["覆盖基础概念、算法原理与编程实例的备考教程结构", "配套视频教程讲解编程环境搭建", "提供全套代码便于调试", "提供简体中文/繁体中文/英文多语言版本"], "use_cases": ["准备人工智能训练师认证考试的系统学习", "初学者入门人工智能基础概念与编程", "查阅配套代码与视频进行动手练习"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["备考资料", "教程/书籍", "人工智能训练师", "入门学习"], "domain": "AI 教育与认证培训", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README（简体/繁体版本）", "面向中国人工智能训练师职业认证考试", "微信联系方式"]}, "trust": {"confidence": "high", "evidence": ["L11: 本项目旨在打造一本开源免费、新手友好的**人工智能训练师**备考教程。", "L13: - 基础概念详细讲解，方便初学者快速入门，不被术语所困扰。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "weicho-wang/AI-TrainerCertificationExamPrepGuide",
+ "sha": "2b55248f1cac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "人工智能训练师认证考试的开源备考教程书",
+  "review": "面向准备人工智能训练师认证考试的新手读者，提供开源免费教程，内容分为基础概念讲解、算法原理与编程实例等部分，附配套视频教程讲解编程环境搭建，并提供全套代码便于调试。以简体中文、繁体中文、英文多语言版本维护，内容按 CC BY-NC-SA 4.0 许可发布，仍在持续更新中，接受社区贡献。",
+  "highlights": [
+   "覆盖基础概念、算法原理与编程实例的备考教程结构",
+   "配套视频教程讲解编程环境搭建",
+   "提供全套代码便于调试",
+   "提供简体中文/繁体中文/英文多语言版本"
+  ],
+  "use_cases": [
+   "准备人工智能训练师认证考试的系统学习",
+   "初学者入门人工智能基础概念与编程",
+   "查阅配套代码与视频进行动手练习"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "备考资料",
+   "教程/书籍",
+   "人工智能训练师",
+   "入门学习"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（简体/繁体版本）",
+   "面向中国人工智能训练师职业认证考试",
+   "微信联系方式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: 本项目旨在打造一本开源免费、新手友好的**人工智能训练师**备考教程。",
+   "L13: - 基础概念详细讲解，方便初学者快速入门，不被术语所困扰。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

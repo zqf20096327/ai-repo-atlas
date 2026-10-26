@@ -1,1 +1,79 @@
-{"fn": "stefanDeveloper/heiFIP", "sha": "e1d58eb3d13b", "source": "readme", "identity": {"one_liner": "将网络流量 pcap 转为图像的深度学习数据预处理工具", "review": "Heidelberg Flow Image Processor（heiFIP）以 C++ 实现，读取离线 pcap 抓包文件，将单个数据包或网络流转换为字节图像或马尔可夫转移矩阵图像，用于恶意软件流量分类等深度学习场景，目标是使网络流量图像表示可复现。支持多种图像模式（PacketImage/FlowImage/Tiled/Markov）、头部字段定制、去除负载与去重，通过 CLI 从 pcap 生成图像。仅支持离线分析，计划支持在线模式；需 C++ 编译器、CMake 与 vcpkg 从源码构建。", "highlights": ["将 pcap 数据包/流转换为字节图像与马尔可夫转移矩阵图像（6 种图像模式）", "头部字段定制与去除负载选项，用于消除偏置字段", "流级去重、最小/最大包数与图像维度控制", "CLI 从 pcap 文件批量生成图像，支持多线程"], "use_cases": ["为恶意软件流量分类的深度学习模型生成可复现的图像训练数据", "复现论文中网络流量图像表示的实验结果", "将抓包数据批量转为图像用于 ML/DL 实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.1109/CSNet59123.2023.10339761", "demo_url": null, "self_declared_early": {"flag": true, "lines": [6]}}, "links": {"scenario_tags": ["网络安全", "流量分析", "数据集生成", "图像表示", "pcap解析"], "domain": "网络安全/机器学习数据工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L4: It is a tool designed to extract essential parts of packets and convert them into images for deep learning purposes.", "L38: The idea to create heiFIP came from working with Deep Learning approaches to classify malware traffic on images. Many pa"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "stefanDeveloper/heiFIP",
+ "sha": "e1d58eb3d13b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将网络流量 pcap 转为图像的深度学习数据预处理工具",
+  "review": "Heidelberg Flow Image Processor（heiFIP）以 C++ 实现，读取离线 pcap 抓包文件，将单个数据包或网络流转换为字节图像或马尔可夫转移矩阵图像，用于恶意软件流量分类等深度学习场景，目标是使网络流量图像表示可复现。支持多种图像模式（PacketImage/FlowImage/Tiled/Markov）、头部字段定制、去除负载与去重，通过 CLI 从 pcap 生成图像。仅支持离线分析，计划支持在线模式；需 C++ 编译器、CMake 与 vcpkg 从源码构建。",
+  "highlights": [
+   "将 pcap 数据包/流转换为字节图像与马尔可夫转移矩阵图像（6 种图像模式）",
+   "头部字段定制与去除负载选项，用于消除偏置字段",
+   "流级去重、最小/最大包数与图像维度控制",
+   "CLI 从 pcap 文件批量生成图像，支持多线程"
+  ],
+  "use_cases": [
+   "为恶意软件流量分类的深度学习模型生成可复现的图像训练数据",
+   "复现论文中网络流量图像表示的实验结果",
+   "将抓包数据批量转为图像用于 ML/DL 实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1109/CSNet59123.2023.10339761",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    6
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网络安全",
+   "流量分析",
+   "数据集生成",
+   "图像表示",
+   "pcap解析"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: It is a tool designed to extract essential parts of packets and convert them into images for deep learning purposes.",
+   "L38: The idea to create heiFIP came from working with Deep Learning approaches to classify malware traffic on images. Many pa"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

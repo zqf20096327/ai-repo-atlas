@@ -1,1 +1,79 @@
-{"fn": "volt-l18/llm-redteam-pipeline", "sha": "f47effc9354b", "source": "readme", "identity": {"one_liner": "自动化多轮 LLM 红队评测管线：攻防对话评估模型安全边界", "review": "由 Attacker、Target、Evaluator 三模型组成的红队评测框架：Attacker 依据 JSON 定义的攻击策略（如 Crescendo 渐进升级）生成多轮诱导对话，Evaluator 按安全评分规则输出 Breached/Secure 判定，会话日志自动聚合为 HTML 漏洞面板。经 litellm 支持本地 Ollama 模型与云 API（Gemini/OpenAI/Anthropic）混配路由，含速率限制退避、越狱早退检测。面向防御性安全研究与授权测试，Python 3.10+ 源码安装，CLI 运行。", "highlights": ["Attacker/Target/Evaluator 三模型对抗架构", "JSON 定义攻击策略与评判规则，无需改核心代码即可扩展", "LLM-as-a-Judge 输出 Breached/Secure 判定", "litellm 路由：本地 Ollama 与云 API 模型混配"], "use_cases": ["授权测试自研 LLM 的安全边界与对齐情况", "研究多轮社会工程攻击（如 Crescendo）对模型的影响", "生成含成功指标与完整对话记录的 HTML 漏洞报告"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["红队测试", "LLM安全", "模型评测", "对抗攻击"], "domain": "LLM 安全评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: An automated, multi-turn red-teaming framework designed to evaluate the safety boundaries and alignment of Large Languag", "L22: * **LLM-as-a-Judge Evaluation:** Uses a strict, objective Evaluator model to grade Target responses against a defined se"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "volt-l18/llm-redteam-pipeline",
+ "sha": "f47effc9354b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自动化多轮 LLM 红队评测管线：攻防对话评估模型安全边界",
+  "review": "由 Attacker、Target、Evaluator 三模型组成的红队评测框架：Attacker 依据 JSON 定义的攻击策略（如 Crescendo 渐进升级）生成多轮诱导对话，Evaluator 按安全评分规则输出 Breached/Secure 判定，会话日志自动聚合为 HTML 漏洞面板。经 litellm 支持本地 Ollama 模型与云 API（Gemini/OpenAI/Anthropic）混配路由，含速率限制退避、越狱早退检测。面向防御性安全研究与授权测试，Python 3.10+ 源码安装，CLI 运行。",
+  "highlights": [
+   "Attacker/Target/Evaluator 三模型对抗架构",
+   "JSON 定义攻击策略与评判规则，无需改核心代码即可扩展",
+   "LLM-as-a-Judge 输出 Breached/Secure 判定",
+   "litellm 路由：本地 Ollama 与云 API 模型混配"
+  ],
+  "use_cases": [
+   "授权测试自研 LLM 的安全边界与对齐情况",
+   "研究多轮社会工程攻击（如 Crescendo）对模型的影响",
+   "生成含成功指标与完整对话记录的 HTML 漏洞报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "红队测试",
+   "LLM安全",
+   "模型评测",
+   "对抗攻击"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: An automated, multi-turn red-teaming framework designed to evaluate the safety boundaries and alignment of Large Languag",
+   "L22: * **LLM-as-a-Judge Evaluation:** Uses a strict, objective Evaluator model to grade Target responses against a defined se"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

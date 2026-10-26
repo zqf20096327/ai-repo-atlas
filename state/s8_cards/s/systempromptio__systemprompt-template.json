@@ -1,1 +1,77 @@
-{"fn": "systempromptio/systemprompt-template", "sha": "5ee5ba9b0ca0", "source": "readme", "identity": {"one_liner": "自托管 AI 治理评估模板：网关认证、授权、限流与审计", "review": "SystemPrompt 的本地评估模板，由 Core（Rust 编译运行时）加配置、管理 UI、扩展与可执行 demo 组成。它在 AI 客户端与模型/工具之间放置策略边界：按认证用户授予或拒绝模型访问、对受治理的 MCP 工具调用做范围/凭证模式/黑名单/限流检查，并把请求记录与工具追踪关联写入 PostgreSQL。供企业评估执行效果并作为自建部署起点；需 Docker、just、Rust 1.96+ 与 PostgreSQL 18，模板 MIT，Core 为 BSL-1.1（生产需商业许可）。", "highlights": ["单一 Rust 编译运行时，自托管、可离线（air-gap）", "按用户做模型访问控制、MCP 工具调用策略与限流", "审计数据将身份、策略决定、工具活动与推理成本关联存入 PostgreSQL", "通过编译/链接期注册的 Rust 扩展构建领域能力"], "use_cases": ["在企业内网自建 AI 网关，统一管控各客户端的模型与工具访问", "评估策略拒绝、凭证泄露拦截等治理执行效果", "保留带身份与成本关联的 AI 交互审计记录"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI网关", "治理/审计", "MCP", "自托管基础设施"], "domain": "AI 基础设施/治理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: SystemPrompt puts a policy boundary between your AI clients and the models and tools you connect. Permissions follow the", "L25: This repository is the **evaluation template**: Core plus configuration, an admin UI, extensions and executable demos. U"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "systempromptio/systemprompt-template",
+ "sha": "5ee5ba9b0ca0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI 治理评估模板：网关认证、授权、限流与审计",
+  "review": "SystemPrompt 的本地评估模板，由 Core（Rust 编译运行时）加配置、管理 UI、扩展与可执行 demo 组成。它在 AI 客户端与模型/工具之间放置策略边界：按认证用户授予或拒绝模型访问、对受治理的 MCP 工具调用做范围/凭证模式/黑名单/限流检查，并把请求记录与工具追踪关联写入 PostgreSQL。供企业评估执行效果并作为自建部署起点；需 Docker、just、Rust 1.96+ 与 PostgreSQL 18，模板 MIT，Core 为 BSL-1.1（生产需商业许可）。",
+  "highlights": [
+   "单一 Rust 编译运行时，自托管、可离线（air-gap）",
+   "按用户做模型访问控制、MCP 工具调用策略与限流",
+   "审计数据将身份、策略决定、工具活动与推理成本关联存入 PostgreSQL",
+   "通过编译/链接期注册的 Rust 扩展构建领域能力"
+  ],
+  "use_cases": [
+   "在企业内网自建 AI 网关，统一管控各客户端的模型与工具访问",
+   "评估策略拒绝、凭证泄露拦截等治理执行效果",
+   "保留带身份与成本关联的 AI 交互审计记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI网关",
+   "治理/审计",
+   "MCP",
+   "自托管基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: SystemPrompt puts a policy boundary between your AI clients and the models and tools you connect. Permissions follow the",
+   "L25: This repository is the **evaluation template**: Core plus configuration, an admin UI, extensions and executable demos. U"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

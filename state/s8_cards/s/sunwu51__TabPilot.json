@@ -1,1 +1,80 @@
-{"fn": "sunwu51/TabPilot", "sha": "f42da6ae702f", "source": "readme", "identity": {"one_liner": "带 AI Agent 的 Chrome 标签页管理侧边栏扩展", "review": "TabPilot 是一个 Chrome 侧边栏扩展，面向重度浏览器使用者：提供标签页搜索、按域名或自定义规则分组、工作区与标签暂存保存、设置导入导出及同步到 GitHub 仓库等标签管理功能。AI 部分为浏览器感知 Agent，可操作标签、窗口、历史、页面 DOM、截图与页面侧评估，支持连接 HTTP 或 Chrome 扩展形式的 MCP 工具，录制/回放宏并调度任务。从 Chrome Web Store 安装，LLM 需在设置中自行添加提供商。", "highlights": ["浏览器感知 AI Agent：操作标签/窗口/历史/DOM/截图", "支持接入 HTTP 与 Chrome 扩展形态的 MCP 工具，可经 WebSocket 暴露自身工具", "宏录制回放、会话导出与定时工具任务", "标签分组、工作区暂存与设置同步到 GitHub"], "use_cases": ["整理大量标签页并按域名/规则分组", "让 AI Agent 在当前页面上代为执行浏览器操作", "保存和恢复研究会话与工作区"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["浏览器扩展", "标签页管理", "AI Agent", "MCP", "效率工具"], "domain": "浏览器/桌面效率工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版链接"]}, "trust": {"confidence": "high", "evidence": ["L16: TabPilot is an AI-powered Chrome side panel for people who live in their browser. Put a browser-aware agent to work on t", "L18: It combines practical tab management with browser-aware AI tools — without making you leave the tab you are already in.", "L24: |✨ **Your browser-aware AI Agent**|Ask AI to work with tabs, windows, groups, history, page DOM actions, screenshots, an"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sunwu51/TabPilot",
+ "sha": "f42da6ae702f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI Agent 的 Chrome 标签页管理侧边栏扩展",
+  "review": "TabPilot 是一个 Chrome 侧边栏扩展，面向重度浏览器使用者：提供标签页搜索、按域名或自定义规则分组、工作区与标签暂存保存、设置导入导出及同步到 GitHub 仓库等标签管理功能。AI 部分为浏览器感知 Agent，可操作标签、窗口、历史、页面 DOM、截图与页面侧评估，支持连接 HTTP 或 Chrome 扩展形式的 MCP 工具，录制/回放宏并调度任务。从 Chrome Web Store 安装，LLM 需在设置中自行添加提供商。",
+  "highlights": [
+   "浏览器感知 AI Agent：操作标签/窗口/历史/DOM/截图",
+   "支持接入 HTTP 与 Chrome 扩展形态的 MCP 工具，可经 WebSocket 暴露自身工具",
+   "宏录制回放、会话导出与定时工具任务",
+   "标签分组、工作区暂存与设置同步到 GitHub"
+  ],
+  "use_cases": [
+   "整理大量标签页并按域名/规则分组",
+   "让 AI Agent 在当前页面上代为执行浏览器操作",
+   "保存和恢复研究会话与工作区"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "标签页管理",
+   "AI Agent",
+   "MCP",
+   "效率工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: TabPilot is an AI-powered Chrome side panel for people who live in their browser. Put a browser-aware agent to work on t",
+   "L18: It combines practical tab management with browser-aware AI tools — without making you leave the tab you are already in.",
+   "L24: |✨ **Your browser-aware AI Agent**|Ask AI to work with tabs, windows, groups, history, page DOM actions, screenshots, an"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

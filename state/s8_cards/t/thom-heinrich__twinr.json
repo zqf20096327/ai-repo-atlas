@@ -1,1 +1,80 @@
-{"fn": "thom-heinrich/twinr", "sha": "35d90cad1c5a", "source": "readme", "identity": {"one_liner": "面向老年人的实体 AI 语音陪伴设备（树莓派硬件项目）", "review": "开源的实体 AI Agent 项目，目标是让不熟悉数字产品的老年人通过语音和实体按钮使用 AI：包含语音问答（web 支持）、热敏打印机纸质输出、HDMI 表情界面、AI 摄像头的人/手势/在场感知、提醒与记忆栈、自动化例程、照护者仪表盘，以及 WhatsApp 原型通道。运行于 Raspberry Pi 4 及以上，需自行组装硬件（麦克风阵列、PIR、热敏打印机、可选舵机）并按接线文档配置 GPIO。README 自述处于重度 WIP 状态，需动手调试方可运行。", "highlights": ["语音优先管线 + 物理按钮 + 热敏打印机纸质输出 + HDMI 表情 UI 的多模态交互", "基于传感器融合的在场/注意力/事件提示与主动陪伴行为", "自适应记忆栈与自动化引擎（定时例程、LLM 生成周期任务）", "照护者/操作员仪表盘与 3D 打印外壳文件随仓库提供"], "use_cases": ["为不使用智能手机/电脑的长辈提供语音问答与提醒陪伴设备", "通过热敏打印机以纸质形式输出笔记与简报", "照护者通过仪表盘远程查看设备状态与记忆/自动化配置"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [4]}}, "links": {"scenario_tags": ["实体AI/具身智能", "语音助手", "适老化", "树莓派/边缘计算", "看护陪伴"], "domain": "硬件/具身 AI 陪伴设备", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: *TWINR* is an AI Agent for senior citizens; fully open-source, aiming to make AI accessible to people who would really p", "L24: Twinr is not just a voice wrapper. This repo spans embodied interaction, multimodal perception, memory, automations, int", "L27: - Transcript-first live voice pipeline with follow-up listening, spoken replies, and web-backed question answering"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thom-heinrich/twinr",
+ "sha": "35d90cad1c5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向老年人的实体 AI 语音陪伴设备（树莓派硬件项目）",
+  "review": "开源的实体 AI Agent 项目，目标是让不熟悉数字产品的老年人通过语音和实体按钮使用 AI：包含语音问答（web 支持）、热敏打印机纸质输出、HDMI 表情界面、AI 摄像头的人/手势/在场感知、提醒与记忆栈、自动化例程、照护者仪表盘，以及 WhatsApp 原型通道。运行于 Raspberry Pi 4 及以上，需自行组装硬件（麦克风阵列、PIR、热敏打印机、可选舵机）并按接线文档配置 GPIO。README 自述处于重度 WIP 状态，需动手调试方可运行。",
+  "highlights": [
+   "语音优先管线 + 物理按钮 + 热敏打印机纸质输出 + HDMI 表情 UI 的多模态交互",
+   "基于传感器融合的在场/注意力/事件提示与主动陪伴行为",
+   "自适应记忆栈与自动化引擎（定时例程、LLM 生成周期任务）",
+   "照护者/操作员仪表盘与 3D 打印外壳文件随仓库提供"
+  ],
+  "use_cases": [
+   "为不使用智能手机/电脑的长辈提供语音问答与提醒陪伴设备",
+   "通过热敏打印机以纸质形式输出笔记与简报",
+   "照护者通过仪表盘远程查看设备状态与记忆/自动化配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    4
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "实体AI/具身智能",
+   "语音助手",
+   "适老化",
+   "树莓派/边缘计算",
+   "看护陪伴"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: *TWINR* is an AI Agent for senior citizens; fully open-source, aiming to make AI accessible to people who would really p",
+   "L24: Twinr is not just a voice wrapper. This repo spans embodied interaction, multimodal perception, memory, automations, int",
+   "L27: - Transcript-first live voice pipeline with follow-up listening, spoken replies, and web-backed question answering"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

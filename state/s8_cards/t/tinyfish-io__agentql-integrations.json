@@ -1,1 +1,77 @@
-{"fn": "tinyfish-io/agentql-integrations", "sha": "64d43c24365c", "source": "readme", "identity": {"one_liner": "AgentQL 与自动化工作流和 AI agent 框架的集成集合", "review": "AgentQL 官方维护的集成仓库：AgentQL 通过 AgentQL 查询或自然语言提示从网页提取结构化数据，并借助 Playwright 与网页交互，面向自动化流程和 AI agent 场景。本仓库收集其与各类工作流自动化工具和 AI agent 框架的集成，并开放贡献（欢迎将 AgentQL 接入新生态），整体以 MIT 许可发布。README 未列出具体集成的安装与运行命令。", "highlights": ["以 AgentQL 查询或自然语言提示从网页提取结构化数据", "通过 Playwright 与网页交互（查找元素、提交表单等）", "官方开放集成贡献指南，面向自动化与 AI agent 生态"], "use_cases": ["自动化流程中在不知晓选择器的情况下定位页面元素", "抓取职位网站等页面的结构化数据", "让 AI agent 读取网页数据并执行表单等交互操作"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["网页数据提取", "自动化/RPA", "AI agent 集成", "爬虫"], "domain": "网页数据提取/自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L3: AgentQL provides structured data extraction from web pages using an AgentQL query or a Natural Language prompt and can i", "L15: Want to contribute to these integrations? We love adding AgentQL to new ecosystems! Check out our contribution guideline"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tinyfish-io/agentql-integrations",
+ "sha": "64d43c24365c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AgentQL 与自动化工作流和 AI agent 框架的集成集合",
+  "review": "AgentQL 官方维护的集成仓库：AgentQL 通过 AgentQL 查询或自然语言提示从网页提取结构化数据，并借助 Playwright 与网页交互，面向自动化流程和 AI agent 场景。本仓库收集其与各类工作流自动化工具和 AI agent 框架的集成，并开放贡献（欢迎将 AgentQL 接入新生态），整体以 MIT 许可发布。README 未列出具体集成的安装与运行命令。",
+  "highlights": [
+   "以 AgentQL 查询或自然语言提示从网页提取结构化数据",
+   "通过 Playwright 与网页交互（查找元素、提交表单等）",
+   "官方开放集成贡献指南，面向自动化与 AI agent 生态"
+  ],
+  "use_cases": [
+   "自动化流程中在不知晓选择器的情况下定位页面元素",
+   "抓取职位网站等页面的结构化数据",
+   "让 AI agent 读取网页数据并执行表单等交互操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网页数据提取",
+   "自动化/RPA",
+   "AI agent 集成",
+   "爬虫"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "web-scraping",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L3: AgentQL provides structured data extraction from web pages using an AgentQL query or a Natural Language prompt and can i",
+   "L15: Want to contribute to these integrations? We love adding AgentQL to new ecosystems! Check out our contribution guideline"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,81 @@
-{"fn": "strnad/HeartMuse", "sha": "03fb34e2aa38", "source": "readme", "identity": {"one_liner": "本地 AI 音乐生成 Web 界面：LLM 写词 + HeartMuLa 作曲", "review": "基于 Gradio 的本地音乐生成界面：用 Ollama 或 OpenAI LLM 生成/扩写歌词、标题、标签与描述（四个字段可独立控制 AI 参与，引号文本锁定不改），再由 HeartMuLa（3B RL/Base 双变体，最长 240 秒）生成音乐；支持 MuQ-MuLan 风格迁移、Whisper 系 HeartTranscriptor 音频转写、批量 1-10 变体、种子复现、历史播放列表与显存管理。install.sh 一键创建虚拟环境并自动装依赖、克隆 HeartMuLa、首次生成时从 Hugging Face 下载模型。需 NVIDIA GPU 16GB+ 显存，有 CPU 回退（更慢）。面向在本地机器上做音乐创作的用户。", "highlights": ["四字段独立控制的 LLM 文本生成（引号锁定歌词行）", "HeartMuLa 3B 双变体音乐生成，最长 240s，1-10 批量变体与种子复现", "MuQ-MuLan 参考音频风格迁移（CPU 运行）与 Whisper 系音频转写", "Ollama/OpenAI 后端一键切换，100% 本地运行"], "use_cases": ["在本地从创意描述生成完整歌曲（词曲一体）", "保留自己写的歌词让 AI 补段落、拟标题和风格标签", "用参考音频影响生成音乐的风格"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": "cpu-ok", "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [181], "note": "风格迁移标注 Experimental"}}, "links": {"scenario_tags": ["AI音乐生成", "歌词生成", "本地推理", "Gradio WebUI", "创意工具"], "domain": "AIGC/音乐生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: **HeartMuse** is an intuitive web-based interface for creating high-quality AI-generated music **completely locally** on", "L28: - **Smart Text Generation** - AI writes lyrics, titles, tags, and descriptions via Ollama (local) or OpenAI", "L29: - **HeartMuLa Music Generation** - two model variants (RL and Base), up to 240s songs"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "strnad/HeartMuse",
+ "sha": "03fb34e2aa38",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 AI 音乐生成 Web 界面：LLM 写词 + HeartMuLa 作曲",
+  "review": "基于 Gradio 的本地音乐生成界面：用 Ollama 或 OpenAI LLM 生成/扩写歌词、标题、标签与描述（四个字段可独立控制 AI 参与，引号文本锁定不改），再由 HeartMuLa（3B RL/Base 双变体，最长 240 秒）生成音乐；支持 MuQ-MuLan 风格迁移、Whisper 系 HeartTranscriptor 音频转写、批量 1-10 变体、种子复现、历史播放列表与显存管理。install.sh 一键创建虚拟环境并自动装依赖、克隆 HeartMuLa、首次生成时从 Hugging Face 下载模型。需 NVIDIA GPU 16GB+ 显存，有 CPU 回退（更慢）。面向在本地机器上做音乐创作的用户。",
+  "highlights": [
+   "四字段独立控制的 LLM 文本生成（引号锁定歌词行）",
+   "HeartMuLa 3B 双变体音乐生成，最长 240s，1-10 批量变体与种子复现",
+   "MuQ-MuLan 参考音频风格迁移（CPU 运行）与 Whisper 系音频转写",
+   "Ollama/OpenAI 后端一键切换，100% 本地运行"
+  ],
+  "use_cases": [
+   "在本地从创意描述生成完整歌曲（词曲一体）",
+   "保留自己写的歌词让 AI 补段落、拟标题和风格标签",
+   "用参考音频影响生成音乐的风格"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    181
+   ],
+   "note": "风格迁移标注 Experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI音乐生成",
+   "歌词生成",
+   "本地推理",
+   "Gradio WebUI",
+   "创意工具"
+  ],
+  "domain": "AIGC/音乐生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **HeartMuse** is an intuitive web-based interface for creating high-quality AI-generated music **completely locally** on",
+   "L28: - **Smart Text Generation** - AI writes lyrics, titles, tags, and descriptions via Ollama (local) or OpenAI",
+   "L29: - **HeartMuLa Music Generation** - two model variants (RL and Base), up to 240s songs"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

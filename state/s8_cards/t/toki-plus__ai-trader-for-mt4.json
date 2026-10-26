@@ -1,1 +1,83 @@
-{"fn": "toki-plus/ai-trader-for-mt4", "sha": "f0788d0e22b8", "source": "readme", "identity": {"one_liner": "将 LLM 接入 MetaTrader 4 的 AI 交易研究与执行框架", "review": "Python 桌面应用（PyQt5 GUI），通过 MQL4/Files 目录的 .txt 文件桥接与 MT4 EA 异步通信，让大模型按 Prepare-Scan-Act-Conclude 的 ReAct 式流程调用 30 余个结构化交易工具（扫描、止损计算、开平仓等），并以确定性规则校验仓位、止损与重复操作。支持 OpenAI / DeepSeek / Moonshot 模型切换，SQLite 记录订单与决策日志。提供 Releases 免安装包与源码运行两种方式，需 Windows + MT4 终端 + LLM API Key；文件桥接存在轮询延迟，明确声明仅供研究、建议仅用模拟账户。", "highlights": ["文件级 MT4-Python 异步桥接（生产者-消费者模式，免 DLL）", "Prepare->Scan->Act->Conclude 流程循环与 30 余个原子工具、四大工作流工具", "确定性风险规则校验与 A/B/C 信号分级、分批止盈利润阶梯", "SQLite 订单镜像与 AI 元数据继承（部分平仓后管理逻辑连续）"], "use_cases": ["在 MT4 上构建工具驱动、风险边界受控的 AI 交易机器人", "逐条复盘 AI 的思考、工具调用与观察日志做量化研究", "在模拟账户上验证 LLM 驱动的交易决策流程"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["量化交易", "AI Agent", "MT4/外汇", "桌面应用", "金融科技"], "domain": "金融/量化交易", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["双语 README（简体中文优先）", "内置 Moonshot 模型支持"]}, "trust": {"confidence": "mid", "evidence": ["L7: 项目将市场数据工具、策略配置、风险规则、信号生命周期、MT4 通信和大模型分析整合为可追踪的桌面应用。设计重点是让模型在明确工具和风险边界内工作，而不是将交易权限无约束地交给 AI。", "L41: - `src/bridge/`：MT4 通信与 AI 客户端边界"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "toki-plus/ai-trader-for-mt4",
+ "sha": "f0788d0e22b8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 LLM 接入 MetaTrader 4 的 AI 交易研究与执行框架",
+  "review": "Python 桌面应用（PyQt5 GUI），通过 MQL4/Files 目录的 .txt 文件桥接与 MT4 EA 异步通信，让大模型按 Prepare-Scan-Act-Conclude 的 ReAct 式流程调用 30 余个结构化交易工具（扫描、止损计算、开平仓等），并以确定性规则校验仓位、止损与重复操作。支持 OpenAI / DeepSeek / Moonshot 模型切换，SQLite 记录订单与决策日志。提供 Releases 免安装包与源码运行两种方式，需 Windows + MT4 终端 + LLM API Key；文件桥接存在轮询延迟，明确声明仅供研究、建议仅用模拟账户。",
+  "highlights": [
+   "文件级 MT4-Python 异步桥接（生产者-消费者模式，免 DLL）",
+   "Prepare->Scan->Act->Conclude 流程循环与 30 余个原子工具、四大工作流工具",
+   "确定性风险规则校验与 A/B/C 信号分级、分批止盈利润阶梯",
+   "SQLite 订单镜像与 AI 元数据继承（部分平仓后管理逻辑连续）"
+  ],
+  "use_cases": [
+   "在 MT4 上构建工具驱动、风险边界受控的 AI 交易机器人",
+   "逐条复盘 AI 的思考、工具调用与观察日志做量化研究",
+   "在模拟账户上验证 LLM 驱动的交易决策流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化交易",
+   "AI Agent",
+   "MT4/外汇",
+   "桌面应用",
+   "金融科技"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "quant-finance",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README（简体中文优先）",
+   "内置 Moonshot 模型支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: 项目将市场数据工具、策略配置、风险规则、信号生命周期、MT4 通信和大模型分析整合为可追踪的桌面应用。设计重点是让模型在明确工具和风险边界内工作，而不是将交易权限无约束地交给 AI。",
+   "L41: - `src/bridge/`：MT4 通信与 AI 客户端边界"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,80 @@
-{"fn": "use-brian/use-brian", "sha": "78efd373469f", "source": "readme", "identity": {"one_liner": "自托管的公司大脑：为独立创始人与小团队记录与执行工作", "review": "面向独立创始人与小团队的开源自托管工作助手：把人、交易、决策沉淀为知识图谱（Brain），通过聊天 Agent 驱动连接器执行研究、起草、发送、归档等动作，支持定时条件工作流，并内置文档/演示/表格、CRM、公开 API 与 MCP server。写操作默认先询问，破坏性操作默认关闭。模型后端支持 Gemini、Qwen/DeepSeek（DashScope）、OpenAI 兼容端点及 ChatGPT 订阅。数据存于本地内嵌数据库，源码安装需 Node 22+ 与 pnpm 10+。", "highlights": ["知识图谱式 Brain 记忆人员/交易/决策，聊天、邮件、会议录音汇入", "Agent 通过连接器（Gmail/Notion/GitHub/M365 等）执行动作，读写分级授权", "定时条件工作流与自动文档生成（PDF 导出）", "提供公开 API 与 MCP server 供其他 agent 使用"], "use_cases": ["把决策和上下文沉淀成公司记忆，避免每次重新解释", "让 Agent 起草回复、写文档并按规则执行周期性任务", "通过 Telegram/Slack/微信等多个渠道接入工作助手"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://usebrian.ai", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI助手/Agent", "知识管理", "工作流自动化", "自托管"], "domain": "生产力/AI助手", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L20: Use Brian is an open-source, self-hosted company brain for solo founders and", "L21: small teams. It learns how your work actually happens, then does the work:", "L47: |**Agent**|A chat that acts through your tools: research, draft, send, update. It can drive your own signed-in browser, "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "use-brian/use-brian",
+ "sha": "78efd373469f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的公司大脑：为独立创始人与小团队记录与执行工作",
+  "review": "面向独立创始人与小团队的开源自托管工作助手：把人、交易、决策沉淀为知识图谱（Brain），通过聊天 Agent 驱动连接器执行研究、起草、发送、归档等动作，支持定时条件工作流，并内置文档/演示/表格、CRM、公开 API 与 MCP server。写操作默认先询问，破坏性操作默认关闭。模型后端支持 Gemini、Qwen/DeepSeek（DashScope）、OpenAI 兼容端点及 ChatGPT 订阅。数据存于本地内嵌数据库，源码安装需 Node 22+ 与 pnpm 10+。",
+  "highlights": [
+   "知识图谱式 Brain 记忆人员/交易/决策，聊天、邮件、会议录音汇入",
+   "Agent 通过连接器（Gmail/Notion/GitHub/M365 等）执行动作，读写分级授权",
+   "定时条件工作流与自动文档生成（PDF 导出）",
+   "提供公开 API 与 MCP server 供其他 agent 使用"
+  ],
+  "use_cases": [
+   "把决策和上下文沉淀成公司记忆，避免每次重新解释",
+   "让 Agent 起草回复、写文档并按规则执行周期性任务",
+   "通过 Telegram/Slack/微信等多个渠道接入工作助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://usebrian.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI助手/Agent",
+   "知识管理",
+   "工作流自动化",
+   "自托管"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: Use Brian is an open-source, self-hosted company brain for solo founders and",
+   "L21: small teams. It learns how your work actually happens, then does the work:",
+   "L47: |**Agent**|A chat that acts through your tools: research, draft, send, update. It can drive your own signed-in browser, "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

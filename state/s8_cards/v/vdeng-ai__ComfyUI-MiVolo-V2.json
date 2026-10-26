@@ -1,1 +1,79 @@
-{"fn": "vdeng-ai/ComfyUI-MiVolo-V2", "sha": "81215c97b2df", "source": "readme", "identity": {"one_liner": "ComfyUI 节点：用 MiVolo V2 模型预测图像中人物的年龄与性别", "review": "对 iitolstykh/mivolo_v2 模型（Transformer、人脸+人体多输入）的 ComfyUI 封装节点：接收图像，经 YOLO 检测器（可选）定位人脸与人体后，输出年龄数值与性别字符串，支持多人（逗号分隔）。模型权重支持 Hugging Face 自动下载或手动放置，仅支持 MiVOLO v2，FaceAge ClientScan 与 MiVOLO-Next 仅为未来候选后端。限制：batch 输入只处理首张图；模型以 trust_remote_code=True 加载，需信任来源。", "highlights": ["人脸+人体多输入的年龄与性别预测，多人输出逗号分隔字符串", "MiVOLO 与 YOLO 检测模型均支持自动下载或手动离线放置", "README 附 LAGENDA 基准指标表与候选模型可用性评估", "要求 Python 3.10+，依赖版本范围有界"], "use_cases": ["在 ComfyUI 工作流中对输入图像做年龄/性别预测", "分析 AI 生成人像的年龄性别属性", "基于年龄/性别条件控制后续生成流程"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI自定义节点", "年龄/性别估计", "人脸分析", "计算机视觉"], "domain": "计算机视觉/ComfyUI 生态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文语言选项"]}, "trust": {"confidence": "mid", "evidence": ["L8: Use the advanced **MiVolo V2** model directly in ComfyUI for high-precision age and gender prediction!", "L10: This project is a ComfyUI wrapper node for the `iitolstykh/mivolo_v2` model. MiVolo is a Transformer-based, multi-input ", "L14: * **Age Estimation:** Receives an image (containing a face or body) and outputs the predicted age as a string."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vdeng-ai/ComfyUI-MiVolo-V2",
+ "sha": "81215c97b2df",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 节点：用 MiVolo V2 模型预测图像中人物的年龄与性别",
+  "review": "对 iitolstykh/mivolo_v2 模型（Transformer、人脸+人体多输入）的 ComfyUI 封装节点：接收图像，经 YOLO 检测器（可选）定位人脸与人体后，输出年龄数值与性别字符串，支持多人（逗号分隔）。模型权重支持 Hugging Face 自动下载或手动放置，仅支持 MiVOLO v2，FaceAge ClientScan 与 MiVOLO-Next 仅为未来候选后端。限制：batch 输入只处理首张图；模型以 trust_remote_code=True 加载，需信任来源。",
+  "highlights": [
+   "人脸+人体多输入的年龄与性别预测，多人输出逗号分隔字符串",
+   "MiVOLO 与 YOLO 检测模型均支持自动下载或手动离线放置",
+   "README 附 LAGENDA 基准指标表与候选模型可用性评估",
+   "要求 Python 3.10+，依赖版本范围有界"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中对输入图像做年龄/性别预测",
+   "分析 AI 生成人像的年龄性别属性",
+   "基于年龄/性别条件控制后续生成流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI自定义节点",
+   "年龄/性别估计",
+   "人脸分析",
+   "计算机视觉"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "face-recognition"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文语言选项"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: Use the advanced **MiVolo V2** model directly in ComfyUI for high-precision age and gender prediction!",
+   "L10: This project is a ComfyUI wrapper node for the `iitolstykh/mivolo_v2` model. MiVolo is a Transformer-based, multi-input ",
+   "L14: * **Age Estimation:** Receives an image (containing a face or body) and outputs the predicted age as a string."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
