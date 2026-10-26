@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/single-agent-loop-kit 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 12 --> 75
-    line [17, 70]
+    title "anthropics/single-agent-loop-kit 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 6 --> 140
+    line [17, 70, 129]
 ```
 
-2026-10-24 17 → 2026-10-25 70（+53）
+2026-10-24 17 → 2026-10-26 129（+112）
 
 
 ---

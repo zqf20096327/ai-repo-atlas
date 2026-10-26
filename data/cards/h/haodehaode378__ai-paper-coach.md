@@ -47,12 +47,12 @@ Web 应用（Vue 3 前端 + FastAPI 后端）：输入 arXiv/PDF 链接或上传
 ```mermaid
 xychart-beta
     title "haodehaode378/ai-paper-coach 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-25 43（+0）
+2026-10-18 43 → 2026-10-26 43（+0）
 
 
 ---

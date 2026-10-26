@@ -46,12 +46,12 @@ SaladTechnologies 维护的 ComfyUI API 封装服务器：接收 ComfyUI prompt 
 ```mermaid
 xychart-beta
     title "SaladTechnologies/comfyui-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
     y-axis "stars" 455 --> 458
     line [456, 457, 457]
 ```
 
-2026-10-18 456 → 2026-10-25 457（+1）
+2026-10-18 456 → 2026-10-26 457（+1）
 
 
 ---

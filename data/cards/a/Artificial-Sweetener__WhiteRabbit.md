@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Artificial-Sweetener/WhiteRabbit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 86 --> 89
+    line [87, 88]
 ```
 
-2026-10-18 87 → 2026-10-25 87（+0）
+2026-10-18 87 → 2026-10-26 88（+1）
 
 
 ---

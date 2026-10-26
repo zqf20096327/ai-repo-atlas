@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "UNfukashigi/Anima-LoRA-Factory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "UNfukashigi/Anima-LoRA-Factory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 79 --> 85
-    line [80, 82, 84]
+    line [80, 82, 84, 84]
 ```
 
-2026-10-18 80 → 2026-10-25 84（+4）
+2026-10-18 80 → 2026-10-26 84（+4）
 
 
 ---

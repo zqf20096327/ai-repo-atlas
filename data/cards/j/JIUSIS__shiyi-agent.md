@@ -46,13 +46,13 @@ Flutter 编写的跨平台（Android/Windows）个人 AI 工作台，把 LLM 对
 
 ```mermaid
 xychart-beta
-    title "JIUSIS/shiyi-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43]
+    title "JIUSIS/shiyi-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 40 --> 46
+    line [41, 42, 43, 45]
 ```
 
-2026-10-18 41 → 2026-10-25 43（+2）
+2026-10-18 41 → 2026-10-26 45（+4）
 
 
 ---

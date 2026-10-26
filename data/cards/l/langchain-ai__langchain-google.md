@@ -44,12 +44,12 @@ langchain-ai 团队维护的 monorepo，集中提供 LangChain 对 Google AI 产
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-google 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
     y-axis "stars" 403 --> 407
     line [404, 406, 406]
 ```
 
-2026-10-18 404 → 2026-10-25 406（+2）
+2026-10-18 404 → 2026-10-26 406（+2）
 
 
 ---

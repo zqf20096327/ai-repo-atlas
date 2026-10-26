@@ -45,12 +45,12 @@ PyTorch 研究项目：在递归 transformer 块上挂载 CompactController 超�
 ```mermaid
 xychart-beta
     title "RightNow-AI/ouroboros 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-25 36（+0）
+2026-10-18 36 → 2026-10-26 36（+0）
 
 
 ---

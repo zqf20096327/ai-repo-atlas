@@ -45,12 +45,12 @@ DeepEcho 是 SDV（Synthetic Data Vault）项目的组成部分，由 DataCebo �
 ```mermaid
 xychart-beta
     title "sdv-dev/DeepEcho 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-10-18 126 → 2026-10-25 126（+0）
+2026-10-18 126 → 2026-10-26 126（+0）
 
 
 ---

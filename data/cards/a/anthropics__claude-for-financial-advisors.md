@@ -44,13 +44,13 @@ Anthropic 发布的 Claude Cowork 插件，以 Markdown/JSON 指令形式提供 
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-for-financial-advisors 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 104 --> 114
-    line [105, 109, 110, 111, 112, 113]
+    title "anthropics/claude-for-financial-advisors 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 104 --> 115
+    line [105, 109, 110, 111, 112, 113, 114]
 ```
 
-2026-10-18 105 → 2026-10-25 113（+8）
+2026-10-18 105 → 2026-10-26 114（+9）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "natayadev/dataengineering-roadmap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 902 --> 904
-    line [903, 903]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 902 --> 905
+    line [903, 904]
 ```
 
-2026-10-18 903 → 2026-10-25 903（+0）
+2026-10-18 903 → 2026-10-26 904（+1）
 
 
 ---

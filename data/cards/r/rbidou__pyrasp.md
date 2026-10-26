@@ -44,13 +44,13 @@ PyRASP 是面向 Python Web 框架（Flask、FastAPI、Django）、Serverless �
 
 ```mermaid
 xychart-beta
-    title "rbidou/pyrasp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    title "rbidou/pyrasp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 37 --> 40
-    line [39, 38, 39]
+    line [39, 38, 39, 39]
 ```
 
-2026-10-18 39 → 2026-10-25 39（+0）
+2026-10-18 39 → 2026-10-26 39（+0）
 
 
 ---

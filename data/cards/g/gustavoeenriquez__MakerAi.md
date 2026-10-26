@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gustavoeenriquez/MakerAi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "gustavoeenriquez/MakerAi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 213 --> 216
-    line [214, 215]
+    line [214, 215, 215]
 ```
 
-2026-10-18 214 → 2026-10-25 215（+1）
+2026-10-18 214 → 2026-10-26 215（+1）
 
 
 ---

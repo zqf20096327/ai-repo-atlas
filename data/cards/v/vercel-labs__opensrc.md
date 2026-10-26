@@ -42,13 +42,13 @@ Vercel Labs 实验项目：CLI 工具 opensrc，从 npm、PyPI、crates.io 和 G
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/opensrc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "vercel-labs/opensrc 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 3020 --> 3025
-    line [3021, 3024, 3023]
+    line [3021, 3024, 3023, 3023]
 ```
 
-2026-10-18 3,021 → 2026-10-25 3,023（+2）
+2026-10-18 3,021 → 2026-10-26 3,023（+2）
 
 
 ---

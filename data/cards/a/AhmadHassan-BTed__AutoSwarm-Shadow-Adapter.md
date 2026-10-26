@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AhmadHassan-BTed/AutoSwarm-Shadow-Adapter 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 2675 --> 3232
-    line [2721, 2983, 3186]
+    title "AhmadHassan-BTed/AutoSwarm-Shadow-Adapter 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 2653 --> 3478
+    line [2721, 2983, 3186, 3410]
 ```
 
-2026-10-23 2,721 → 2026-10-25 3,186（+465）
+2026-10-23 2,721 → 2026-10-26 3,410（+689）
 
 
 ---

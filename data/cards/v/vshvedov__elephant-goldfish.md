@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vshvedov/elephant-goldfish 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 51 --> 55
+    line [52, 54]
 ```
 
-2026-10-18 52 → 2026-10-25 52（+0）
+2026-10-18 52 → 2026-10-26 54（+2）
 
 
 ---

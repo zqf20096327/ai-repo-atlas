@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "decodingai-magazine/building-a-coding-agent-from-scratch-course 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 661 --> 735
-    line [667, 675, 679, 681, 683, 729]
+    title "decodingai-magazine/building-a-coding-agent-from-scratch-course 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 656 --> 789
+    line [667, 675, 679, 681, 683, 729, 778]
 ```
 
-2026-10-18 667 → 2026-10-25 729（+62）
+2026-10-18 667 → 2026-10-26 778（+111）
 
 
 ---

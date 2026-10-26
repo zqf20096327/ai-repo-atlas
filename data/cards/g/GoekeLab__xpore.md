@@ -45,12 +45,12 @@ xPore 是一个 Python 包，对纳米孔直接 RNA 测序（direct RNA sequenci
 ```mermaid
 xychart-beta
     title "GoekeLab/xpore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 170 --> 172
-    line [171, 171]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 170 --> 174
+    line [171, 173]
 ```
 
-2026-10-18 171 → 2026-10-25 171（+0）
+2026-10-18 171 → 2026-10-26 173（+2）
 
 
 ---

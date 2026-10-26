@@ -44,13 +44,13 @@ Flask + Socket.IO 自托管应用：读取 Lidarr 曲库中的艺人，调用 La
 
 ```mermaid
 xychart-beta
-    title "Dodelidoo-Labs/sonobarr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "Dodelidoo-Labs/sonobarr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 382 --> 385
-    line [383, 384]
+    line [383, 384, 384]
 ```
 
-2026-10-18 383 → 2026-10-25 384（+1）
+2026-10-18 383 → 2026-10-26 384（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alisa0808/vibe-creating-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 149 --> 152
-    line [150, 151]
+    title "Alisa0808/vibe-creating-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 149 --> 153
+    line [150, 151, 152]
 ```
 
-2026-10-18 150 → 2026-10-25 151（+1）
+2026-10-18 150 → 2026-10-26 152（+2）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "caojiaolong/spaces-index 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 300 --> 303
-    line [301, 302]
+    title "caojiaolong/spaces-index 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 300 --> 304
+    line [301, 302, 303]
 ```
 
-2026-10-18 301 → 2026-10-25 302（+1）
+2026-10-18 301 → 2026-10-26 303（+2）
 
 
 ---

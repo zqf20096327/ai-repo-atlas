@@ -46,12 +46,12 @@ Outerloop 在用户自己的研究代码库上运行 AI agent 循环：agent 提
 ```mermaid
 xychart-beta
     title "outerloop-science/outerloop 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-24", "2026-10-26"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-24 37 → 2026-10-25 37（+0）
+2026-10-24 37 → 2026-10-26 37（+0）
 
 
 ---

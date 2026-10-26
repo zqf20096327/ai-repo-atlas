@@ -45,13 +45,13 @@ dsh-pilot 是 DeepSeek Harness（DSH）的桌面操控插件：提供 screen_vie
 
 ```mermaid
 xychart-beta
-    title "momasiku/dsh-pilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 11 --> 60
-    line [15, 16, 17, 56]
+    title "momasiku/dsh-pilot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 10 --> 73
+    line [15, 16, 17, 56, 68]
 ```
 
-2026-10-18 15 → 2026-10-25 56（+41）
+2026-10-18 15 → 2026-10-26 68（+53）
 
 
 ---

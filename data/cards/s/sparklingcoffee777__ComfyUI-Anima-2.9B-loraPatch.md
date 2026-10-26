@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sparklingcoffee777/ComfyUI-Anima-2.9B-loraPatch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 43 --> 47
-    line [44, 45, 46]
+    title "sparklingcoffee777/ComfyUI-Anima-2.9B-loraPatch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 43 --> 48
+    line [44, 45, 46, 47]
 ```
 
-2026-10-18 44 → 2026-10-25 46（+2）
+2026-10-18 44 → 2026-10-26 47（+3）
 
 
 ---

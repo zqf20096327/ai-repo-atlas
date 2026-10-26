@@ -40,6 +40,18 @@
 > L3: A locally hosted resume-matching application that collects job postings, analyzes them against a user’s resume, and 
 > L71: Each job description is compared against the uploaded resume using an AI analysis service.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tirthsidhpura/resume_matcher 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 49 --> 51
+    line [50, 50]
+```
+
+2026-10-25 50 → 2026-10-26 50（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `3bbd82ab9115` · [字段定义](../../DATASET.md)*

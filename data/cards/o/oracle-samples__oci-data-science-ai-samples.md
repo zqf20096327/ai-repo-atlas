@@ -44,13 +44,13 @@ Oracle 官方维护的 OCI Data Science 与 AI 服务示例仓库，按主题组
 
 ```mermaid
 xychart-beta
-    title "oracle-samples/oci-data-science-ai-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "oracle-samples/oci-data-science-ai-samples 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 301 --> 304
-    line [302, 303]
+    line [302, 303, 303]
 ```
 
-2026-10-18 302 → 2026-10-25 303（+1）
+2026-10-18 302 → 2026-10-26 303（+1）
 
 
 ---

@@ -42,6 +42,18 @@
 > L19: Agenvoy is a Taiwan-developed AI Agent Harness by Pardn Chiu, built to turn conversation into completed work on you
 > L25: - **Turns conversation into deliverable work** — Research live data, organize files, and complete multi-step tasks 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pardnchiu/Agenvoy 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 511 --> 523
+    line [512, 522]
+```
+
+2026-10-25 512 → 2026-10-26 522（+10）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `e7622388dc03` · [字段定义](../../DATASET.md)*

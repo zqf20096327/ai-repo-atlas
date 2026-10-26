@@ -46,12 +46,12 @@ AAAI-2025 论文 ChangeDiff 的官方 PyTorch 实现：基于扩散模型，通�
 ```mermaid
 xychart-beta
     title "DZhaoXd/ChangeDiff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-25 55（+0）
+2026-10-18 55 → 2026-10-26 55（+0）
 
 
 ---

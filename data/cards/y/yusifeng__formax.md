@@ -44,13 +44,13 @@ Formax 是开源的 Claude Code 风格 AI 编程助手，提供终端 TUI 与 We
 
 ```mermaid
 xychart-beta
-    title "yusifeng/formax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "yusifeng/formax 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 191 --> 195
-    line [194, 192]
+    line [194, 192, 192]
 ```
 
-2026-10-18 194 → 2026-10-25 192（-2）
+2026-10-18 194 → 2026-10-26 192（-2）
 
 
 ---

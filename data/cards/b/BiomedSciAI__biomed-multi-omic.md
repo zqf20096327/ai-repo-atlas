@@ -47,12 +47,12 @@ IBM 相关团队（BiomedSciAI）维护的生物医学基础模型包：支持 s
 ```mermaid
 xychart-beta
     title "BiomedSciAI/biomed-multi-omic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-10-25 63（+0）
+2026-10-18 63 → 2026-10-26 63（+0）
 
 
 ---

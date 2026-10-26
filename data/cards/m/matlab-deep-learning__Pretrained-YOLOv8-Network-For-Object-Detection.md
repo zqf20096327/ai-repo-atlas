@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matlab-deep-learning/Pretrained-YOLOv8-Network-For-Object-Detection 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
     y-axis "stars" 68 --> 71
     line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-10-25 70（+1）
+2026-10-18 69 → 2026-10-26 70（+1）
 
 
 ---

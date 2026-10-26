@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cellium-Project/Cellium-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "Cellium-Project/Cellium-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 220 --> 227
-    line [226, 221]
+    line [226, 221, 221]
 ```
 
-2026-10-18 226 → 2026-10-25 221（-5）
+2026-10-18 226 → 2026-10-26 221（-5）
 
 
 ---

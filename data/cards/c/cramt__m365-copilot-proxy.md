@@ -44,13 +44,13 @@ TypeScript 实现的代理服务：将 Microsoft 365 Copilot 的 WebSocket/Signa
 
 ```mermaid
 xychart-beta
-    title "cramt/m365-copilot-proxy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 148 --> 155
-    line [149, 151, 153, 154]
+    title "cramt/m365-copilot-proxy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 148 --> 157
+    line [149, 151, 153, 154, 156]
 ```
 
-2026-10-18 149 → 2026-10-25 154（+5）
+2026-10-18 149 → 2026-10-26 156（+7）
 
 
 ---

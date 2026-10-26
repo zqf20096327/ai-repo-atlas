@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lunashia/o-m_beatmap_trainer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "lunashia/o-m_beatmap_trainer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 41 --> 47
-    line [46, 42]
+    line [46, 42, 42]
 ```
 
-2026-10-18 46 → 2026-10-25 42（-4）
+2026-10-18 46 → 2026-10-26 42（-4）
 
 
 ---

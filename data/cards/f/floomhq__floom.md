@@ -47,12 +47,12 @@ Floom 是一个开源的 AI worker 运行时：以文件夹（worker.yml + run.p
 ```mermaid
 xychart-beta
     title "floomhq/floom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-10-25 46（+0）
+2026-10-18 46 → 2026-10-26 47（+1）
 
 
 ---

@@ -44,13 +44,13 @@ LiteLLM Go 是一个类型化的 Go SDK：根包提供与供应商无关的 API�
 
 ```mermaid
 xychart-beta
-    title "voocel/litellm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "voocel/litellm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 64 --> 68
-    line [65, 67]
+    line [65, 67, 67]
 ```
 
-2026-10-18 65 → 2026-10-25 67（+2）
+2026-10-18 65 → 2026-10-26 67（+2）
 
 
 ---

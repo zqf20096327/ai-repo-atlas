@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agiwhitelist/tokdiet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "agiwhitelist/tokdiet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 32 --> 35
-    line [34, 33]
+    line [34, 33, 33]
 ```
 
-2026-10-18 34 → 2026-10-25 33（-1）
+2026-10-18 34 → 2026-10-26 33（-1）
 
 
 ---

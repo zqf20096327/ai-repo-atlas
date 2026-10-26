@@ -43,12 +43,12 @@ IBM developer 与 Digital Technical Engagement 团队合作的 4 周自学习课
 ```mermaid
 xychart-beta
     title "upkarlidder/ai-developer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-25 33（+0）
+2026-10-18 33 → 2026-10-26 33（+0）
 
 
 ---

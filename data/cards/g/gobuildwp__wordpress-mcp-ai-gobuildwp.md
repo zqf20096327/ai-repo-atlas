@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gobuildwp/wordpress-mcp-ai-gobuildwp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
+    title "gobuildwp/wordpress-mcp-ai-gobuildwp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 61 --> 70
-    line [67, 68, 69, 62]
+    line [67, 68, 69, 62, 62]
 ```
 
-2026-10-18 67 → 2026-10-25 62（-5）
+2026-10-18 67 → 2026-10-26 62（-5）
 
 
 ---

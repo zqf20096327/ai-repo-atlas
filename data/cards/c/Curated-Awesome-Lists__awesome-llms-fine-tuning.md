@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Curated-Awesome-Lists/awesome-llms-fine-tuning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 532 --> 534
     line [533, 533]
 ```
 
-2026-10-18 533 → 2026-10-25 533（+0）
+2026-10-18 533 → 2026-10-26 533（+0）
 
 
 ---

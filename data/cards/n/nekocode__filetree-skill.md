@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "nekocode/filetree-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "nekocode/filetree-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 161 --> 164
-    line [162, 163]
+    line [162, 163, 163]
 ```
 
-2026-10-18 162 → 2026-10-25 163（+1）
+2026-10-18 162 → 2026-10-26 163（+1）
 
 
 ---

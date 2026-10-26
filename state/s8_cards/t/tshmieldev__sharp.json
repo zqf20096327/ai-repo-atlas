@@ -1,1 +1,77 @@
-{"fn": "tshmieldev/sharp", "sha": "45d761b30883", "source": "readme", "identity": {"one_liner": "用自选 LLM 按自然语言规则过滤 X 时间线的浏览器扩展", "review": "面向 X 用户的 Chrome/Firefox 浏览器扩展：用户用自然语言描述想看或不想看的内容，决策模型对每条帖子打分，配合滑杆将帖子折叠为隐藏行。支持按作者规则、屏蔽词预过滤、纠错示例反馈给模型；可经 OpenRouter、Vercel AI Gateway 或 TypeSafe AI 接入分类器，也可改用 OpenAI、Anthropic 或 OpenAI 兼容端点的对话模型。无账户无服务器，API key 存于浏览器直连提供商。另含 YouTube Shorts 隐藏、灰度显示等无模型功能。Firefox 需 140 或更新版本。", "highlights": ["自然语言描述过滤规则，模型对每条帖子打分并按滑杆隐藏", "支持 OpenRouter/Vercel AI Gateway/TypeSafe AI 分类器及任意对话模型（含 OpenAI 兼容端点）", "纠错反馈作为 few-shot 示例送入模型，可按作者设置规则", "无账户无服务器，API key 仅存于浏览器"], "use_cases": ["过滤 X 时间线上的加密货币宣传、钓鱼互动类内容", "只保留特定主题（如软件工程）相关的帖子", "隐藏 YouTube Shorts 与评论区、降低界面色彩干扰"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["浏览器扩展", "X/Twitter", "内容过滤", "信息流管理", "注意力/专注"], "domain": "浏览器扩展/社交媒体工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Filter your X timeline with an AI model you choose and pay for directly.", "L39: - **A classifier by default.** A decision model scores every post: fast, nearly"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tshmieldev/sharp",
+ "sha": "45d761b30883",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用自选 LLM 按自然语言规则过滤 X 时间线的浏览器扩展",
+  "review": "面向 X 用户的 Chrome/Firefox 浏览器扩展：用户用自然语言描述想看或不想看的内容，决策模型对每条帖子打分，配合滑杆将帖子折叠为隐藏行。支持按作者规则、屏蔽词预过滤、纠错示例反馈给模型；可经 OpenRouter、Vercel AI Gateway 或 TypeSafe AI 接入分类器，也可改用 OpenAI、Anthropic 或 OpenAI 兼容端点的对话模型。无账户无服务器，API key 存于浏览器直连提供商。另含 YouTube Shorts 隐藏、灰度显示等无模型功能。Firefox 需 140 或更新版本。",
+  "highlights": [
+   "自然语言描述过滤规则，模型对每条帖子打分并按滑杆隐藏",
+   "支持 OpenRouter/Vercel AI Gateway/TypeSafe AI 分类器及任意对话模型（含 OpenAI 兼容端点）",
+   "纠错反馈作为 few-shot 示例送入模型，可按作者设置规则",
+   "无账户无服务器，API key 仅存于浏览器"
+  ],
+  "use_cases": [
+   "过滤 X 时间线上的加密货币宣传、钓鱼互动类内容",
+   "只保留特定主题（如软件工程）相关的帖子",
+   "隐藏 YouTube Shorts 与评论区、降低界面色彩干扰"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "X/Twitter",
+   "内容过滤",
+   "信息流管理",
+   "注意力/专注"
+  ],
+  "domain": "浏览器扩展/社交媒体工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Filter your X timeline with an AI model you choose and pay for directly.",
+   "L39: - **A classifier by default.** A decision model scores every post: fast, nearly"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

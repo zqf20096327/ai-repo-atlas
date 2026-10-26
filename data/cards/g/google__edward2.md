@@ -45,12 +45,12 @@ Google 维护的 Python 概率编程库：用 RandomVariables 将概率模型写
 ```mermaid
 xychart-beta
     title "google/edward2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 711 --> 713
     line [712, 712]
 ```
 
-2026-10-18 712 → 2026-10-25 712（+0）
+2026-10-18 712 → 2026-10-26 712（+0）
 
 
 ---

@@ -45,13 +45,13 @@ Sebastian Raschka 所著《Python Machine Learning》第1版（Packt，2015年9�
 
 ```mermaid
 xychart-beta
-    title "rasbt/python-machine-learning-book 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 12658 --> 12664
-    line [12659, 12660, 12661, 12663]
+    title "rasbt/python-machine-learning-book 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 12658 --> 12665
+    line [12659, 12660, 12661, 12663, 12664]
 ```
 
-2026-10-18 12,659 → 2026-10-25 12,663（+4）
+2026-10-18 12,659 → 2026-10-26 12,664（+5）
 
 
 ---

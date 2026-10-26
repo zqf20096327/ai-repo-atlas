@@ -44,13 +44,13 @@ Adobe UXP 面板，嵌入 Photoshop 后连接本地 ComfyUI 服务器，提供 1
 
 ```mermaid
 xychart-beta
-    title "MehranMarxian/OpenLayer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 40 --> 44
-    line [42, 41, 42, 43]
+    title "MehranMarxian/OpenLayer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 40 --> 45
+    line [42, 41, 42, 43, 44]
 ```
 
-2026-10-18 42 → 2026-10-25 43（+1）
+2026-10-18 42 → 2026-10-26 44（+2）
 
 
 ---

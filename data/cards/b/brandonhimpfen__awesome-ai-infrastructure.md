@@ -43,13 +43,13 @@ awesome 类策展清单，收录构建 AI 基础设施所需的工具、框架�
 
 ```mermaid
 xychart-beta
-    title "brandonhimpfen/awesome-ai-infrastructure 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "brandonhimpfen/awesome-ai-infrastructure 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 76 --> 79
-    line [78, 77]
+    line [78, 77, 77]
 ```
 
-2026-10-18 78 → 2026-10-25 77（-1）
+2026-10-18 78 → 2026-10-26 77（-1）
 
 
 ---

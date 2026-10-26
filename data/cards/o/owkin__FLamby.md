@@ -46,12 +46,12 @@ Owkin 维护的 cross-silo 联邦学习（FL）基准：以 dataset suite 形式
 ```mermaid
 xychart-beta
     title "owkin/FLamby 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 245 --> 247
     line [246, 246]
 ```
 
-2026-10-18 246 → 2026-10-25 246（+0）
+2026-10-18 246 → 2026-10-26 246（+0）
 
 
 ---

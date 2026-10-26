@@ -46,12 +46,12 @@ PyTorch Geometric 的时序（动态）扩展库，收录来自已发表论文�
 ```mermaid
 xychart-beta
     title "benedekrozemberczki/pytorch_geometric_temporal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 2991 --> 2993
-    line [2992, 2992]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 2991 --> 2994
+    line [2992, 2993]
 ```
 
-2026-10-18 2,992 → 2026-10-25 2,992（+0）
+2026-10-18 2,992 → 2026-10-26 2,993（+1）
 
 
 ---

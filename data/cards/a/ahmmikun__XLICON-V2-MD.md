@@ -42,13 +42,13 @@ XLICON-V2-MD 是一个用 Node.js 编写的 WhatsApp 多设备机器人，基于
 
 ```mermaid
 xychart-beta
-    title "ahmmikun/XLICON-V2-MD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "ahmmikun/XLICON-V2-MD 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 409 --> 412
-    line [410, 411]
+    line [410, 411, 411]
 ```
 
-2026-10-18 410 → 2026-10-25 411（+1）
+2026-10-18 410 → 2026-10-26 411（+1）
 
 
 ---

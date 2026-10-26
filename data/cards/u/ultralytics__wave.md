@@ -45,12 +45,12 @@ Ultralytics WAVE（WAveform Vector Exploitation）提供用深度学习对全波
 ```mermaid
 xychart-beta
     title "ultralytics/wave 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-18 85 → 2026-10-25 85（+0）
+2026-10-18 85 → 2026-10-26 85（+0）
 
 
 ---

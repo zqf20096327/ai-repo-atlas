@@ -45,13 +45,13 @@ EgoAlpha Lab 维护的 Awesome 类资源汇编，按 Papers、Playground、Promp
 
 ```mermaid
 xychart-beta
-    title "EgoAlpha/prompt-in-context-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    title "EgoAlpha/prompt-in-context-learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
     y-axis "stars" 2245 --> 2250
-    line [2246, 2247, 2249, 2248]
+    line [2246, 2247, 2249, 2248, 2248]
 ```
 
-2026-10-18 2,246 → 2026-10-25 2,248（+2）
+2026-10-18 2,246 → 2026-10-26 2,248（+2）
 
 
 ---

@@ -46,12 +46,12 @@ Conifer 是一个 LLM API 网关，提供单一 API key 与 base URL，背后聚
 ```mermaid
 xychart-beta
     title "ConiferKit/use-conifer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-25 48（+0）
+2026-10-18 48 → 2026-10-26 48（+0）
 
 
 ---

@@ -46,12 +46,12 @@ OpusFlow 是一个包裹 Anthropic Messages API 的代理/编排层：接收标�
 ```mermaid
 xychart-beta
     title "aayushgames19-hash/claude-gateway-manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
     y-axis "stars" 117 --> 120
     line [118, 119, 119]
 ```
 
-2026-10-18 118 → 2026-10-25 119（+1）
+2026-10-18 118 → 2026-10-26 119（+1）
 
 
 ---

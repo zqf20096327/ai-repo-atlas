@@ -45,12 +45,12 @@ GenMentor 是论文 "LLM-powered Multi-agent Framework for Goal-oriented Learnin
 ```mermaid
 xychart-beta
     title "GeminiLight/gen-mentor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
     y-axis "stars" 132 --> 136
     line [135, 133, 133]
 ```
 
-2026-10-18 135 → 2026-10-25 133（-2）
+2026-10-18 135 → 2026-10-26 133（-2）
 
 
 ---

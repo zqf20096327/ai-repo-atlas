@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yasminefolo/reverse-engineering-is-over 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "yasminefolo/reverse-engineering-is-over 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 109 --> 114
-    line [110, 112, 113]
+    line [110, 112, 113, 113]
 ```
 
-2026-10-18 110 → 2026-10-25 113（+3）
+2026-10-18 110 → 2026-10-26 113（+3）
 
 
 ---

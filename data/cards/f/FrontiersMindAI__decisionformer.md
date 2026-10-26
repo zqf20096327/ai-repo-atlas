@@ -41,6 +41,18 @@ Python 库与 CLI：将 Hugging Face transformers 的各类骨干（解码器、
 > L64: decisionformer serve vllm-sr/d3-edge --port 8000
 > L104: Backbones are the architectures built into Hugging Face transformers, loaded with its `Auto` classes and saved wit
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FrontiersMindAI/decisionformer 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 26 --> 35
+    line [27, 34]
+```
+
+2026-10-25 27 → 2026-10-26 34（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `e5d977d9aeab` · [字段定义](../../DATASET.md)*

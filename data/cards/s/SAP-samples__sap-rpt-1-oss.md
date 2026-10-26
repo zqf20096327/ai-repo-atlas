@@ -46,12 +46,12 @@ SAP 发布的深度学习模型实现，即论文 ConTextTab: A Semantics-Aware 
 ```mermaid
 xychart-beta
     title "SAP-samples/sap-rpt-1-oss 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 191 --> 193
     line [192, 192]
 ```
 
-2026-10-18 192 → 2026-10-25 192（+0）
+2026-10-18 192 → 2026-10-26 192（+0）
 
 
 ---

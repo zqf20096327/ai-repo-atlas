@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/CombiBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "MoonshotAI/CombiBench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 54 --> 57
-    line [55, 56]
+    line [55, 56, 56]
 ```
 
-2026-10-18 55 → 2026-10-25 56（+1）
+2026-10-18 55 → 2026-10-26 56（+1）
 
 
 ---

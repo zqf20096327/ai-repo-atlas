@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "godelcomplete9/deepsearch-academic 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-25"]
+    title "godelcomplete9/deepsearch-academic 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 184 --> 187
-    line [186, 185]
+    line [186, 185, 185]
 ```
 
-2026-10-19 186 → 2026-10-25 185（-1）
+2026-10-19 186 → 2026-10-26 185（-1）
 
 
 ---

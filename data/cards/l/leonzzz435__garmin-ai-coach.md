@@ -46,12 +46,12 @@ Python 编写的 CLI 工具，读取 Garmin Connect 训练数据，经 LangGraph
 ```mermaid
 xychart-beta
     title "leonzzz435/garmin-ai-coach 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 151 --> 154
-    line [152, 153, 153]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    y-axis "stars" 151 --> 155
+    line [152, 153, 154]
 ```
 
-2026-10-18 152 → 2026-10-25 153（+1）
+2026-10-18 152 → 2026-10-26 154（+2）
 
 
 ---

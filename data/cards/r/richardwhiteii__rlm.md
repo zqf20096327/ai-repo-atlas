@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "richardwhiteii/rlm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "richardwhiteii/rlm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 48 --> 51
-    line [49, 50]
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-10-25 50（+1）
+2026-10-18 49 → 2026-10-26 50（+1）
 
 
 ---

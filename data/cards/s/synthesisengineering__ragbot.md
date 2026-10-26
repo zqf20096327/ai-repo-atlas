@@ -46,12 +46,12 @@ Ragbot 是合成工程方法论的对话式参考运行时，由 Rajiv Pant 开�
 ```mermaid
 xychart-beta
     title "synthesisengineering/ragbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-25 34（+0）
+2026-10-18 34 → 2026-10-26 34（+0）
 
 
 ---

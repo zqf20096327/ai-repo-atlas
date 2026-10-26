@@ -44,12 +44,12 @@ Python 脚本，用于自动在 Reddit 发帖：读取热门 subreddit 与热帖
 ```mermaid
 xychart-beta
     title "feder-cr/reddit_karma_farmer_auto_poster_with_AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 37 --> 41
+    line [38, 40]
 ```
 
-2026-10-18 38 → 2026-10-25 38（+0）
+2026-10-18 38 → 2026-10-26 40（+2）
 
 
 ---

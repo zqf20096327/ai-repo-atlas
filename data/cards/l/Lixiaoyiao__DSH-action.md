@@ -41,6 +41,18 @@
 > L14: GitHub PR / Issue / CI  →  DeepSeek Harness  →  Review / Diagnose / Fix / Issue → PR
 > L17: The Action starts a credential-isolated DSH worker, validates its structured result, and lets a trusted Controller 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lixiaoyiao/DSH-action 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 47 --> 50
+    line [48, 49]
+```
+
+2026-10-25 48 → 2026-10-26 49（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 mid · 依据 README sha `3aae1fe7c8a8` · [字段定义](../../DATASET.md)*

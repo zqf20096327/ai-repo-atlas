@@ -45,12 +45,12 @@ Kern and Schrider (2018) 论文的 diploS/HIC 实现：用深度卷积神经网�
 ```mermaid
 xychart-beta
     title "kr-colab/diploSHIC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-25 59（+0）
+2026-10-18 59 → 2026-10-26 59（+0）
 
 
 ---

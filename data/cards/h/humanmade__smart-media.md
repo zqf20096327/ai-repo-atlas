@@ -44,12 +44,12 @@ Human Made 维护的 WordPress 插件，为媒体库提供增强功能：保持�
 ```mermaid
 xychart-beta
     title "humanmade/smart-media 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-25 88（+0）
+2026-10-18 88 → 2026-10-26 88（+0）
 
 
 ---

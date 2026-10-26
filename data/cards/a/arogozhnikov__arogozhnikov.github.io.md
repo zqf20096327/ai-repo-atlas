@@ -43,12 +43,12 @@ Alex Rogozhnikov 的个人博客（'Brilliantly Wrong'），主题覆盖科学�
 ```mermaid
 xychart-beta
     title "arogozhnikov/arogozhnikov.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 132 --> 134
     line [133, 133]
 ```
 
-2026-10-18 133 → 2026-10-25 133（+0）
+2026-10-18 133 → 2026-10-26 133（+0）
 
 
 ---

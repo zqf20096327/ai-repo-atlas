@@ -45,13 +45,13 @@ AniPub 是开源（GPL-3.0）的动漫流媒体网站：EJS/Node.js/Express/Mong
 
 ```mermaid
 xychart-beta
-    title "AnimePub/AniPub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "AnimePub/AniPub 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 102 --> 106
-    line [105, 103]
+    line [105, 103, 103]
 ```
 
-2026-10-18 105 → 2026-10-25 103（-2）
+2026-10-18 105 → 2026-10-26 103（-2）
 
 
 ---

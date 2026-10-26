@@ -45,12 +45,12 @@ Team VPE 维护的开源工具包，提供多个面向生物医药研究的对�
 ```mermaid
 xychart-beta
     title "VirtualPatientEngine/AIAgents4Pharma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 105 --> 107
     line [106, 106]
 ```
 
-2026-10-18 106 → 2026-10-25 106（+0）
+2026-10-18 106 → 2026-10-26 106（+0）
 
 
 ---

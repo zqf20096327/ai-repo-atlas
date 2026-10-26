@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sinanuozdemir/oreilly-llm-rl-alignment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 68 --> 71
+    line [69, 70]
 ```
 
-2026-10-18 69 → 2026-10-25 69（+0）
+2026-10-18 69 → 2026-10-26 70（+1）
 
 
 ---

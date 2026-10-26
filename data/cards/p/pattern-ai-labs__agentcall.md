@@ -44,13 +44,13 @@ AgentCall 的 join-meeting 技能：使 Claude Code、Cursor、Codex、Gemini CL
 
 ```mermaid
 xychart-beta
-    title "pattern-ai-labs/agentcall 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 166 --> 171
-    line [167, 169, 170]
+    title "pattern-ai-labs/agentcall 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 166 --> 172
+    line [167, 169, 170, 171]
 ```
 
-2026-10-18 167 → 2026-10-25 170（+3）
+2026-10-18 167 → 2026-10-26 171（+4）
 
 
 ---

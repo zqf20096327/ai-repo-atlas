@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lobbystack/lobbystack 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 37 --> 40
-    line [38, 39]
+    title "lobbystack/lobbystack 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-10-24 38 → 2026-10-25 39（+1）
+2026-10-24 38 → 2026-10-26 40（+2）
 
 
 ---

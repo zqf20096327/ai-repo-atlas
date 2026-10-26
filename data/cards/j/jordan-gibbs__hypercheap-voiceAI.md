@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jordan-gibbs/hypercheap-voiceAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 154 --> 158
-    line [155, 156, 157]
+    title "jordan-gibbs/hypercheap-voiceAI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 154 --> 159
+    line [155, 156, 157, 158]
 ```
 
-2026-10-18 155 → 2026-10-25 157（+2）
+2026-10-18 155 → 2026-10-26 158（+3）
 
 
 ---

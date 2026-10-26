@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "EmbraceAGI/Awesome-AGI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "EmbraceAGI/Awesome-AGI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 578 --> 581
-    line [580, 579]
+    line [580, 579, 579]
 ```
 
-2026-10-18 580 → 2026-10-25 579（-1）
+2026-10-18 580 → 2026-10-26 579（-1）
 
 
 ---

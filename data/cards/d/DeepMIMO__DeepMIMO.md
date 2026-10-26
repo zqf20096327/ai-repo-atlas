@@ -46,12 +46,12 @@ DeepMIMO 提供 Python 工具链与场景数据库：将 Wireless InSite、Sionn
 ```mermaid
 xychart-beta
     title "DeepMIMO/DeepMIMO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 131 --> 135
-    line [132, 134, 134]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    y-axis "stars" 131 --> 136
+    line [132, 134, 135]
 ```
 
-2026-10-18 132 → 2026-10-25 134（+2）
+2026-10-18 132 → 2026-10-26 135（+3）
 
 
 ---

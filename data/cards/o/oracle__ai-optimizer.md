@@ -46,12 +46,12 @@ Oracle 维护的 Agentic 优化与实验工具包：集成 Oracle AI Database Ve
 ```mermaid
 xychart-beta
     title "oracle/ai-optimizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-10-25 102（+0）
+2026-10-18 102 → 2026-10-26 102（+0）
 
 
 ---

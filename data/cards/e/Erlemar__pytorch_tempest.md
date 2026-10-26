@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Erlemar/pytorch_tempest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "Erlemar/pytorch_tempest 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 223 --> 226
-    line [224, 225]
+    line [224, 225, 225]
 ```
 
-2026-10-18 224 → 2026-10-25 225（+1）
+2026-10-18 224 → 2026-10-26 225（+1）
 
 
 ---

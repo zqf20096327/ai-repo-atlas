@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaaiyun/joinquant-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "gaaiyun/joinquant-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 86 --> 89
-    line [87, 88]
+    line [87, 88, 88]
 ```
 
-2026-10-18 87 → 2026-10-25 88（+1）
+2026-10-18 87 → 2026-10-26 88（+1）
 
 
 ---

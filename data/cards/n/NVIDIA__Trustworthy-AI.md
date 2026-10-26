@@ -43,13 +43,13 @@ NVIDIA 维护的可信 AI（Trustworthy AI）文档仓库：提供 Model Card++�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/Trustworthy-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "NVIDIA/Trustworthy-AI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 66 --> 70
-    line [67, 68, 69]
+    line [67, 68, 69, 69]
 ```
 
-2026-10-18 67 → 2026-10-25 69（+2）
+2026-10-18 67 → 2026-10-26 69（+2）
 
 
 ---

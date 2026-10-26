@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hollobit/ai-native 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 30 --> 37
-    line [31, 36]
+    title "hollobit/ai-native 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 30 --> 41
+    line [31, 36, 40]
 ```
 
-2026-10-24 31 → 2026-10-25 36（+5）
+2026-10-24 31 → 2026-10-26 40（+9）
 
 
 ---

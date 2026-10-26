@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Windsander/ADI-Stable-Diffusion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "Windsander/ADI-Stable-Diffusion 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 446 --> 450
-    line [447, 448, 449]
+    line [447, 448, 449, 449]
 ```
 
-2026-10-18 447 → 2026-10-25 449（+2）
+2026-10-18 447 → 2026-10-26 449（+2）
 
 
 ---

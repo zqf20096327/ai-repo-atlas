@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 281 --> 290
-    line [282, 286, 287, 288, 289]
+    title "AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 281 --> 292
+    line [282, 286, 287, 288, 289, 291]
 ```
 
-2026-10-18 282 → 2026-10-25 289（+7）
+2026-10-18 282 → 2026-10-26 291（+9）
 
 
 ---

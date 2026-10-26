@@ -45,13 +45,13 @@ Google 官方的 Model Context Protocol 服务器集合，包含远程托管的 
 
 ```mermaid
 xychart-beta
-    title "google/mcp-security 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "google/mcp-security 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 533 --> 536
-    line [535, 534]
+    line [535, 534, 535]
 ```
 
-2026-10-18 535 → 2026-10-25 534（-1）
+2026-10-18 535 → 2026-10-26 535（+0）
 
 
 ---

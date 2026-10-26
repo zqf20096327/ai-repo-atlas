@@ -40,6 +40,18 @@ ACL 2026 论文的配套实现：将 PDF 文档解析后构建多模态知识图
 > L6: **MegaRAG** enables **global visual question answering** on documents by constructing a **Multimodal Knowledge Graph
 > L8: > This work has been accepted to **ACL 2026**.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AI-Application-and-Integration-Lab/MegaRAG 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 73 --> 75
+    line [74, 74]
+```
+
+2026-10-25 74 → 2026-10-26 74（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `e1f11663ab64` · [字段定义](../../DATASET.md)*

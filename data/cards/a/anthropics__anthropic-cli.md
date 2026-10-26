@@ -44,13 +44,13 @@ Anthropic 官方维护的 Claude Platform CLI（命令名 ant），面向使用 
 
 ```mermaid
 xychart-beta
-    title "anthropics/anthropic-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 685 --> 696
-    line [686, 690, 693, 695]
+    title "anthropics/anthropic-cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 685 --> 698
+    line [686, 690, 693, 695, 697]
 ```
 
-2026-10-18 686 → 2026-10-25 695（+9）
+2026-10-18 686 → 2026-10-26 697（+11）
 
 
 ---

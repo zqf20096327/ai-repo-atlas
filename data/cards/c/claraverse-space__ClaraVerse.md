@@ -47,12 +47,12 @@ ClaraVerse 是一个开源自托管 AI 工作区，聚合聊天、Crew 多 Agent
 ```mermaid
 xychart-beta
     title "claraverse-space/ClaraVerse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 3901 --> 3903
     line [3902, 3902]
 ```
 
-2026-10-18 3,902 → 2026-10-25 3,902（+0）
+2026-10-18 3,902 → 2026-10-26 3,902（+0）
 
 
 ---

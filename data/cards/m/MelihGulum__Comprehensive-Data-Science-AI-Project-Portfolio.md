@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 353 --> 356
-    line [355, 354]
+    line [355, 354, 354]
 ```
 
-2026-10-18 355 → 2026-10-25 354（-1）
+2026-10-18 355 → 2026-10-26 354（-1）
 
 
 ---

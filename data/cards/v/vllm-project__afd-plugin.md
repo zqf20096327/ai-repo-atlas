@@ -46,12 +46,12 @@ vLLM 官方生态的外部插件，实现 Attention-FFN Disaggregation（AFD）�
 ```mermaid
 xychart-beta
     title "vllm-project/afd-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
     y-axis "stars" 239 --> 242
     line [240, 241, 241]
 ```
 
-2026-10-18 240 → 2026-10-25 241（+1）
+2026-10-18 240 → 2026-10-26 241（+1）
 
 
 ---

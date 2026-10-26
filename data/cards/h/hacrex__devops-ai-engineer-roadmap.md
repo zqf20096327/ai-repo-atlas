@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hacrex/devops-ai-engineer-roadmap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 41 --> 45
+    line [42, 44]
 ```
 
-2026-10-18 42 → 2026-10-25 42（+0）
+2026-10-18 42 → 2026-10-26 44（+2）
 
 
 ---

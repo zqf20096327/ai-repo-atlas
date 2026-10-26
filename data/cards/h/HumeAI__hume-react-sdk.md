@@ -45,12 +45,12 @@ Hume AI 官方维护的 monorepo，提供三个 npm 包：@humeai/voice-react、
 ```mermaid
 xychart-beta
     title "HumeAI/hume-react-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-25 48（+0）
+2026-10-18 48 → 2026-10-26 48（+0）
 
 
 ---

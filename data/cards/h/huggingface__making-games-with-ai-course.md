@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/making-games-with-ai-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "huggingface/making-games-with-ai-course 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 114 --> 118
-    line [115, 117]
+    line [115, 117, 117]
 ```
 
-2026-10-18 115 → 2026-10-25 117（+2）
+2026-10-18 115 → 2026-10-26 117（+2）
 
 
 ---

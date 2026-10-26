@@ -45,13 +45,13 @@ WACV 2026 论文 Uplifting Table Tennis 的官方代码：从单目视频出发�
 
 ```mermaid
 xychart-beta
-    title "KieDani/UpliftingTableTennis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
+    title "KieDani/UpliftingTableTennis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 44 --> 50
-    line [45, 46, 48, 49]
+    line [45, 46, 48, 49, 49]
 ```
 
-2026-10-18 45 → 2026-10-25 49（+4）
+2026-10-18 45 → 2026-10-26 49（+4）
 
 
 ---

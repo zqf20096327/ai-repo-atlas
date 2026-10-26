@@ -44,13 +44,13 @@ Node.js 命令行工具，将各 AI 编码代理（Claude Code、Cursor、Windsu
 
 ```mermaid
 xychart-beta
-    title "shanliuling/skills-link 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "shanliuling/skills-link 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 196 --> 199
-    line [198, 197]
+    line [198, 197, 197]
 ```
 
-2026-10-18 198 → 2026-10-25 197（-1）
+2026-10-18 198 → 2026-10-26 197（-1）
 
 
 ---

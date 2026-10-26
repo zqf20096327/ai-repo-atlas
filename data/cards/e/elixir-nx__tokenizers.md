@@ -39,6 +39,18 @@
 > L5: Elixir bindings for Hugging Face Tokenizers.
 > L29: You can use any pre-trained tokenizer from any model repo on Hugging Face Hub, such as bert-base-cased.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "elixir-nx/tokenizers 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 100 --> 102
+    line [101, 101]
+```
+
+2026-10-25 101 → 2026-10-26 101（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `8b239733271d` · [字段定义](../../DATASET.md)*

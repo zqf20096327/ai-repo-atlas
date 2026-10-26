@@ -44,13 +44,13 @@ LangChain 官方维护的 Next.js 起步应用模板，展示如何组合 LangCh
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-nextjs-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25"]
+    title "langchain-ai/langchain-nextjs-template 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 2539 --> 2545
-    line [2540, 2541, 2544, 2543]
+    line [2540, 2541, 2544, 2543, 2543]
 ```
 
-2026-10-18 2,540 → 2026-10-25 2,543（+3）
+2026-10-18 2,540 → 2026-10-26 2,543（+3）
 
 
 ---

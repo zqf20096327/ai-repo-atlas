@@ -45,12 +45,12 @@ pgEdge 公司用 Go 编写的 RAG API 服务器：从安装了 pgvector 的 Post
 ```mermaid
 xychart-beta
     title "pgEdge/pgedge-rag-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-25 57（+0）
+2026-10-18 57 → 2026-10-26 57（+0）
 
 
 ---

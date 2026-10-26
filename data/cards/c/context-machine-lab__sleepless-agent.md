@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "context-machine-lab/sleepless-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "context-machine-lab/sleepless-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 832 --> 835
-    line [834, 833]
+    line [834, 833, 833]
 ```
 
-2026-10-18 834 → 2026-10-25 833（-1）
+2026-10-18 834 → 2026-10-26 833（-1）
 
 
 ---

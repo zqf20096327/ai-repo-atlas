@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chiphoton/DeepSeek-Harness-Video-Director 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "chiphoton/DeepSeek-Harness-Video-Director 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 64 --> 77
-    line [76, 65]
+    line [76, 65, 66]
 ```
 
-2026-10-18 76 → 2026-10-25 65（-11）
+2026-10-18 76 → 2026-10-26 66（-10）
 
 
 ---

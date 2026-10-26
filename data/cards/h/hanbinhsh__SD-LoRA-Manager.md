@@ -46,12 +46,12 @@ C++ & Qt 构建的 Windows 桌面应用，面向本地 SD 生态用户：按 SHA
 ```mermaid
 xychart-beta
     title "hanbinhsh/SD-LoRA-Manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-25 33（+0）
+2026-10-18 33 → 2026-10-26 33（+0）
 
 
 ---

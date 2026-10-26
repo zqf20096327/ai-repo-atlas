@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TristanBilot/mlx-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "TristanBilot/mlx-benchmark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 239 --> 242
-    line [240, 241]
+    line [240, 241, 241]
 ```
 
-2026-10-18 240 → 2026-10-25 241（+1）
+2026-10-18 240 → 2026-10-26 241（+1）
 
 
 ---

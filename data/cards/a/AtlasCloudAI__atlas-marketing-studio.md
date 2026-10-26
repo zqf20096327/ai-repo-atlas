@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AtlasCloudAI/atlas-marketing-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25"]
+    title "AtlasCloudAI/atlas-marketing-studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 41 --> 47
-    line [42, 44, 45, 46]
+    line [42, 44, 45, 46, 46]
 ```
 
-2026-10-18 42 → 2026-10-25 46（+4）
+2026-10-18 42 → 2026-10-26 46（+4）
 
 
 ---

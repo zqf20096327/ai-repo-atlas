@@ -45,12 +45,12 @@ VS Code 扩展，将 LM Studio 本地或远程服务器上的模型加入 Copilo
 ```mermaid
 xychart-beta
     title "yoy123/lmstudio-copilot-provider 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-25 39（+0）
+2026-10-18 39 → 2026-10-26 39（+0）
 
 
 ---

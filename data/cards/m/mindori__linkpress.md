@@ -45,12 +45,12 @@ TypeScript 编写的 CLI 工具：从用户连接的 Slack 频道与 Saved Messa
 ```mermaid
 xychart-beta
     title "mindori/linkpress 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-25 54（+0）
+2026-10-18 54 → 2026-10-26 54（+0）
 
 
 ---

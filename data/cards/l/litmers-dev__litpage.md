@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "litmers-dev/litpage 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 11 --> 32
-    line [12, 31]
+    title "litmers-dev/litpage 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 10 --> 38
+    line [12, 31, 36]
 ```
 
-2026-10-24 12 → 2026-10-25 31（+19）
+2026-10-24 12 → 2026-10-26 36（+24）
 
 
 ---

@@ -44,12 +44,12 @@ lucidrains 维护的 PyTorch 研究探索仓库：在自回归语言建模损失
 ```mermaid
 xychart-beta
     title "lucidrains/transformer-lm-gan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-25 41（+0）
+2026-10-18 41 → 2026-10-26 41（+0）
 
 
 ---

@@ -44,13 +44,13 @@ MoonshotAI/Kimi Team 的 Attention Residuals 论文官方仓库：提出用逐�
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/Attention-Residuals 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25"]
-    y-axis "stars" 3524 --> 3549
-    line [3526, 3538, 3543, 3547]
+    title "MoonshotAI/Attention-Residuals 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 3524 --> 3551
+    line [3526, 3538, 3543, 3547, 3549]
 ```
 
-2026-10-18 3,526 → 2026-10-25 3,547（+21）
+2026-10-18 3,526 → 2026-10-26 3,549（+23）
 
 
 ---

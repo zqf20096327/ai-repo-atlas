@@ -46,12 +46,12 @@ TrafficCam 是一套车牌识别（ALPR）与交通监控系统，由 FastAPI RE
 ```mermaid
 xychart-beta
     title "tungedng2710/AI-Traffic-Analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-25 37（+0）
+2026-10-18 37 → 2026-10-26 37（+0）
 
 
 ---

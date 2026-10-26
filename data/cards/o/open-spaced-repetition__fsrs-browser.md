@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "open-spaced-repetition/fsrs-browser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-25 57（+0）
+2026-10-18 57 → 2026-10-26 57（+0）
 
 
 ---

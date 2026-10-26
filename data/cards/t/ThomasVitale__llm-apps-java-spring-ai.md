@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThomasVitale/llm-apps-java-spring-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "ThomasVitale/llm-apps-java-spring-ai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 787 --> 790
-    line [789, 788, 789]
+    line [789, 788, 789, 788]
 ```
 
-2026-10-18 789 → 2026-10-25 789（+0）
+2026-10-18 789 → 2026-10-26 788（-1）
 
 
 ---

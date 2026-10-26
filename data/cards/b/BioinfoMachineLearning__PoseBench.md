@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BioinfoMachineLearning/PoseBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 249 --> 251
-    line [250, 250]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 249 --> 252
+    line [250, 251]
 ```
 
-2026-10-18 250 → 2026-10-25 250（+0）
+2026-10-18 250 → 2026-10-26 251（+1）
 
 
 ---

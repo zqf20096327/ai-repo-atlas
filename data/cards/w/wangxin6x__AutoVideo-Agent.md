@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wangxin6x/AutoVideo-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "wangxin6x/AutoVideo-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 89 --> 92
-    line [91, 90]
+    line [91, 90, 90]
 ```
 
-2026-10-18 91 → 2026-10-25 90（-1）
+2026-10-18 91 → 2026-10-26 90（-1）
 
 
 ---

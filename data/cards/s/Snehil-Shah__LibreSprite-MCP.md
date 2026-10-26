@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Snehil-Shah/LibreSprite-MCP 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-25"]
+    title "Snehil-Shah/LibreSprite-MCP 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 35 --> 38
-    line [36, 37]
+    line [36, 37, 37]
 ```
 
-2026-10-23 36 → 2026-10-25 37（+1）
+2026-10-23 36 → 2026-10-26 37（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Sipp 是用 Rust 与 C++ 构建的 AI 推理框架，核心 Sipp Engine 以 WebG
 ```mermaid
 xychart-beta
     title "noumena-labs/Sipp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 120 --> 122
     line [121, 121]
 ```
 
-2026-10-18 121 → 2026-10-25 121（+0）
+2026-10-18 121 → 2026-10-26 121（+0）
 
 
 ---

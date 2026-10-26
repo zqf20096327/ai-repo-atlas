@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fjgbue/claude-delegator-deepseek-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    title "fjgbue/claude-delegator-deepseek-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 45 --> 48
-    line [46, 47, 46]
+    line [46, 47, 46, 46]
 ```
 
-2026-10-18 46 → 2026-10-25 46（+0）
+2026-10-18 46 → 2026-10-26 46（+0）
 
 
 ---

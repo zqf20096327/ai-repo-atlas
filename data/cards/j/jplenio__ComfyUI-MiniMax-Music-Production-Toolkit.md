@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jplenio/ComfyUI-MiniMax-Music-Production-Toolkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25"]
+    title "jplenio/ComfyUI-MiniMax-Music-Production-Toolkit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 84 --> 91
-    line [85, 86, 88, 89, 90]
+    line [85, 86, 88, 89, 90, 90]
 ```
 
-2026-10-18 85 → 2026-10-25 90（+5）
+2026-10-18 85 → 2026-10-26 90（+5）
 
 
 ---

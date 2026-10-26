@@ -46,13 +46,13 @@ SwiftUI 桌面应用加自研 Swift/Metal 推理引擎，在 Apple Silicon Mac �
 
 ```mermaid
 xychart-beta
-    title "tuff-app/TUFF 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
+    title "tuff-app/TUFF 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
     y-axis "stars" 59 --> 62
-    line [61, 60]
+    line [61, 60, 61]
 ```
 
-2026-10-24 61 → 2026-10-25 60（-1）
+2026-10-24 61 → 2026-10-26 61（+0）
 
 
 ---

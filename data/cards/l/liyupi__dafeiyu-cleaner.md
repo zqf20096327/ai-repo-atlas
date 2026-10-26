@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/dafeiyu-cleaner 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 35 --> 68
-    line [37, 66]
+    title "liyupi/dafeiyu-cleaner 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 32 --> 92
+    line [37, 66, 87]
 ```
 
-2026-10-24 37 → 2026-10-25 66（+29）
+2026-10-24 37 → 2026-10-26 87（+50）
 
 
 ---

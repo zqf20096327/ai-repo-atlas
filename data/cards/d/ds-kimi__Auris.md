@@ -45,12 +45,12 @@ GMod 服务端二进制模块：通过进程内 SV_BroadcastVoiceData detour 捕
 ```mermaid
 xychart-beta
     title "ds-kimi/Auris 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-10-25 40（+0）
+2026-10-18 40 → 2026-10-26 41（+1）
 
 
 ---

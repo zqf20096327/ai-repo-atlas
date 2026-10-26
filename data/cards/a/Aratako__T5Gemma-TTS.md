@@ -46,12 +46,12 @@ T5Gemma-TTS 是基于 Encoder-Decoder LLM 架构的英文/中文/日文文本转
 ```mermaid
 xychart-beta
     title "Aratako/T5Gemma-TTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 312 --> 314
     line [313, 313]
 ```
 
-2026-10-18 313 → 2026-10-25 313（+0）
+2026-10-18 313 → 2026-10-26 313（+0）
 
 
 ---

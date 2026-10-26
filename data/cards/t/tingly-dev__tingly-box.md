@@ -45,13 +45,13 @@ Go 编写的统一 AI 网关，通过单一端点将 Claude Code、OpenCode、Co
 
 ```mermaid
 xychart-beta
-    title "tingly-dev/tingly-box 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 352 --> 357
-    line [353, 356]
+    title "tingly-dev/tingly-box 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 352 --> 360
+    line [353, 356, 359]
 ```
 
-2026-10-18 353 → 2026-10-25 356（+3）
+2026-10-18 353 → 2026-10-26 359（+6）
 
 
 ---

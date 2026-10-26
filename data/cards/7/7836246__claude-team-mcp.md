@@ -46,12 +46,12 @@ Node.js/TypeScript 实现的 MCP Server，供 Claude Code、Windsurf、Cursor �
 ```mermaid
 xychart-beta
     title "7836246/claude-team-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-25 49（+0）
+2026-10-18 49 → 2026-10-26 49（+0）
 
 
 ---

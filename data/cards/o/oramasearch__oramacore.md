@@ -46,12 +46,12 @@ OramaCore 是面向项目、回答引擎、copilot 与搜索场景的 AI 运行�
 ```mermaid
 xychart-beta
     title "oramasearch/oramacore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 262 --> 264
-    line [263, 263]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 262 --> 265
+    line [263, 264]
 ```
 
-2026-10-18 263 → 2026-10-25 263（+0）
+2026-10-18 263 → 2026-10-26 264（+1）
 
 
 ---

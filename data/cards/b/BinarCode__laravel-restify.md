@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BinarCode/laravel-restify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "BinarCode/laravel-restify 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 681 --> 684
-    line [683, 682]
+    line [683, 682, 682]
 ```
 
-2026-10-18 683 → 2026-10-25 682（-1）
+2026-10-18 683 → 2026-10-26 682（-1）
 
 
 ---

@@ -45,12 +45,12 @@ HiRAG 是论文《Retrieval-Augmented Generation with Hierarchical Knowledge》�
 ```mermaid
 xychart-beta
     title "hhy-huang/HiRAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 555 --> 557
-    line [556, 556]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 554 --> 557
+    line [556, 555]
 ```
 
-2026-10-18 556 → 2026-10-25 556（+0）
+2026-10-18 556 → 2026-10-26 555（-1）
 
 
 ---

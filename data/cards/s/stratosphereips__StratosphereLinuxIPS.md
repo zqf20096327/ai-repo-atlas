@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stratosphereips/StratosphereLinuxIPS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 893 --> 897
-    line [894, 895, 896, 895]
+    title "stratosphereips/StratosphereLinuxIPS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 893 --> 898
+    line [894, 895, 896, 895, 897]
 ```
 
-2026-10-18 894 → 2026-10-25 895（+1）
+2026-10-18 894 → 2026-10-26 897（+3）
 
 
 ---

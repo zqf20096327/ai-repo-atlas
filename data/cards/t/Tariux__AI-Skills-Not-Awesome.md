@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Tariux/AI-Skills-Not-Awesome 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 47 --> 50
+    line [48, 49]
 ```
 
-2026-10-18 48 → 2026-10-25 48（+0）
+2026-10-18 48 → 2026-10-26 49（+1）
 
 
 ---

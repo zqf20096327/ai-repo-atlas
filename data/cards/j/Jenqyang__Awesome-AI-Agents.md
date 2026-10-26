@@ -43,13 +43,13 @@ Awesome 类策展清单，收录由 LLM 驱动的自主 Agent 项目，按应用
 
 ```mermaid
 xychart-beta
-    title "Jenqyang/Awesome-AI-Agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "Jenqyang/Awesome-AI-Agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 1263 --> 1267
-    line [1264, 1266]
+    line [1264, 1266, 1265]
 ```
 
-2026-10-18 1,264 → 2026-10-25 1,266（+2）
+2026-10-18 1,264 → 2026-10-26 1,265（+1）
 
 
 ---

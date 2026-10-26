@@ -45,12 +45,12 @@ Google Marketing Solutions 下的 Python 包：读取 Google Ads 账户中已有
 ```mermaid
 xychart-beta
     title "google-marketing-solutions/copycat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
     y-axis "stars" 86 --> 89
     line [87, 88, 88]
 ```
 
-2026-10-18 87 → 2026-10-25 88（+1）
+2026-10-18 87 → 2026-10-26 88（+1）
 
 
 ---

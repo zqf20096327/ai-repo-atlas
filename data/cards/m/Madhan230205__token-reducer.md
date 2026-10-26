@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Madhan230205/token-reducer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 49 --> 52
-    line [50, 51]
+    title "Madhan230205/token-reducer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52]
 ```
 
-2026-10-18 50 → 2026-10-25 51（+1）
+2026-10-18 50 → 2026-10-26 52（+2）
 
 
 ---

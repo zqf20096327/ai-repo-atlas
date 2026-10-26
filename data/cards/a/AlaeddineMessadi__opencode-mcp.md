@@ -44,13 +44,13 @@ opencode-mcp 将 Claude Desktop、Claude Code、Cursor、VS Code、Windsurf 等 
 
 ```mermaid
 xychart-beta
-    title "AlaeddineMessadi/opencode-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25"]
+    title "AlaeddineMessadi/opencode-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 150 --> 159
-    line [151, 152, 155, 156, 158]
+    line [151, 152, 155, 156, 158, 158]
 ```
 
-2026-10-18 151 → 2026-10-25 158（+7）
+2026-10-18 151 → 2026-10-26 158（+7）
 
 
 ---

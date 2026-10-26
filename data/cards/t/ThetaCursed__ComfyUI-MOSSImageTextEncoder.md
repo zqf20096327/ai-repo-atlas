@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThetaCursed/ComfyUI-MOSSImageTextEncoder 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 0 --> 45
-    line [3, 36, 40, 42]
+    title "ThetaCursed/ComfyUI-MOSSImageTextEncoder 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 0 --> 47
+    line [3, 36, 40, 42, 43]
 ```
 
-2026-10-22 3 → 2026-10-25 42（+39）
+2026-10-22 3 → 2026-10-26 43（+40）
 
 
 ---

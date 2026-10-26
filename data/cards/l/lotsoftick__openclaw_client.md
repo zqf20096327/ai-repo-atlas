@@ -46,12 +46,12 @@ React 19 + Vite 前端与 Express + TypeORM + SQLite 单服务器组成的 Web �
 ```mermaid
 xychart-beta
     title "lotsoftick/openclaw_client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 253 --> 255
     line [254, 254]
 ```
 
-2026-10-18 254 → 2026-10-25 254（+0）
+2026-10-18 254 → 2026-10-26 254（+0）
 
 
 ---

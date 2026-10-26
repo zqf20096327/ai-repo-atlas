@@ -46,12 +46,12 @@ Home Assistant 自定义组件，扩展原生对话平台：通过任意 OpenAI 
 ```mermaid
 xychart-beta
     title "aradlein/hass-agent-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-25 48（+0）
+2026-10-18 48 → 2026-10-26 48（+0）
 
 
 ---

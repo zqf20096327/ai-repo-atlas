@@ -46,12 +46,12 @@ CraftMyProfile 是一个可自托管的职业档案精修环境：以 YAML 结�
 ```mermaid
 xychart-beta
     title "shafikhan24/aniruddhha-profile-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-25 54（+0）
+2026-10-18 54 → 2026-10-26 54（+0）
 
 
 ---

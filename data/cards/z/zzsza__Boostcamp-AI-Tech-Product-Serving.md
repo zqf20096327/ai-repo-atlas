@@ -44,12 +44,12 @@ Boostcamp AI Tech 'Product Serving' 课程的配套实践代码仓库，含四�
 ```mermaid
 xychart-beta
     title "zzsza/Boostcamp-AI-Tech-Product-Serving 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 473 --> 475
     line [474, 474]
 ```
 
-2026-10-18 474 → 2026-10-25 474（+0）
+2026-10-18 474 → 2026-10-26 474（+0）
 
 
 ---

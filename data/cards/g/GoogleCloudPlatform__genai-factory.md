@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/genai-factory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "GoogleCloudPlatform/genai-factory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 174 --> 177
-    line [175, 176, 175]
+    line [175, 176, 175, 175]
 ```
 
-2026-10-18 175 → 2026-10-25 175（+0）
+2026-10-18 175 → 2026-10-26 175（+0）
 
 
 ---

@@ -44,12 +44,12 @@ Cohere 官方维护的 TypeScript/JavaScript SDK，提供 CohereClientV2 客户�
 ```mermaid
 xychart-beta
     title "cohere-ai/cohere-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 169 --> 171
     line [170, 170]
 ```
 
-2026-10-18 170 → 2026-10-25 170（+0）
+2026-10-18 170 → 2026-10-26 170（+0）
 
 
 ---

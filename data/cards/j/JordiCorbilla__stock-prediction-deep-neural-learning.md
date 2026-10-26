@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JordiCorbilla/stock-prediction-deep-neural-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 687 --> 689
     line [688, 688]
 ```
 
-2026-10-18 688 → 2026-10-25 688（+0）
+2026-10-18 688 → 2026-10-26 688（+0）
 
 
 ---

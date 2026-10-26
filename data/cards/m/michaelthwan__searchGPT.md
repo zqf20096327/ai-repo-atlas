@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "michaelthwan/searchGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "michaelthwan/searchGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 709 --> 712
-    line [711, 710]
+    line [711, 710, 710]
 ```
 
-2026-10-18 711 → 2026-10-25 710（-1）
+2026-10-18 711 → 2026-10-26 710（-1）
 
 
 ---

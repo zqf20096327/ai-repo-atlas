@@ -44,13 +44,13 @@ DevSwarm 是一个 macOS/Windows 桌面应用：以 Git worktree 为每个工作
 
 ```mermaid
 xychart-beta
-    title "devswarm-ai/devswarm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "devswarm-ai/devswarm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 139 --> 142
-    line [140, 141]
+    line [140, 141, 141]
 ```
 
-2026-10-18 140 → 2026-10-25 141（+1）
+2026-10-18 140 → 2026-10-26 141（+1）
 
 
 ---

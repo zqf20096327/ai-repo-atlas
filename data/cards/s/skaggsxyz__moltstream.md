@@ -45,12 +45,12 @@ TypeScript monorepo（Turborepo 管理）形式的 agent-native 流媒体运行�
 ```mermaid
 xychart-beta
     title "skaggsxyz/moltstream 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
     y-axis "stars" 62 --> 65
     line [64, 63, 63]
 ```
 
-2026-10-18 64 → 2026-10-25 63（-1）
+2026-10-18 64 → 2026-10-26 63（-1）
 
 
 ---

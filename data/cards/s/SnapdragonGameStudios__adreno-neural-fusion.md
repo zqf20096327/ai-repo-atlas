@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SnapdragonGameStudios/adreno-neural-fusion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 16 --> 33
-    line [17, 25, 27, 32]
+    title "SnapdragonGameStudios/adreno-neural-fusion 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 16 --> 34
+    line [17, 25, 27, 32, 33]
 ```
 
-2026-10-18 17 → 2026-10-25 32（+15）
+2026-10-18 17 → 2026-10-26 33（+16）
 
 
 ---

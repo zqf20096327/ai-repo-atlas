@@ -45,13 +45,13 @@ AgentSmith 是一个模型无关的开源 harness，为 Claude Code、Codex 等�
 
 ```mermaid
 xychart-beta
-    title "PromptPartner/agentsmith 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    title "PromptPartner/agentsmith 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 171 --> 179
-    line [178, 173, 172]
+    line [178, 173, 172, 172]
 ```
 
-2026-10-18 178 → 2026-10-25 172（-6）
+2026-10-18 178 → 2026-10-26 172（-6）
 
 
 ---

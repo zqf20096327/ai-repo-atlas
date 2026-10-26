@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SrsBlack/ict-knowledge-library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "SrsBlack/ict-knowledge-library 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 62 --> 69
-    line [63, 67, 68]
+    line [63, 67, 68, 68]
 ```
 
-2026-10-18 63 → 2026-10-25 68（+5）
+2026-10-18 63 → 2026-10-26 68（+5）
 
 
 ---

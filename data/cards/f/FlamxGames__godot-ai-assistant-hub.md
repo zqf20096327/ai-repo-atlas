@@ -44,13 +44,13 @@ Godot 编辑器插件，作为 Godot 与 LLM 提供方（Ollama、llama.cpp、Ge
 
 ```mermaid
 xychart-beta
-    title "FlamxGames/godot-ai-assistant-hub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
+    title "FlamxGames/godot-ai-assistant-hub 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 317 --> 321
-    line [318, 319, 320, 319]
+    line [318, 319, 320, 319, 319]
 ```
 
-2026-10-18 318 → 2026-10-25 319（+1）
+2026-10-18 318 → 2026-10-26 319（+1）
 
 
 ---

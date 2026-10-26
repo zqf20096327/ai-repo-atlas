@@ -44,13 +44,13 @@ SonarSource 官方维护的 Model Context Protocol 服务器，使 Claude Code�
 
 ```mermaid
 xychart-beta
-    title "SonarSource/sonarqube-mcp-server 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 664 --> 672
-    line [665, 667, 669, 670, 671]
+    title "SonarSource/sonarqube-mcp-server 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 664 --> 674
+    line [665, 667, 669, 670, 671, 673]
 ```
 
-2026-10-18 665 → 2026-10-25 671（+6）
+2026-10-18 665 → 2026-10-26 673（+8）
 
 
 ---

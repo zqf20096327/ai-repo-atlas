@@ -47,12 +47,12 @@ NVIDIA 维护的 agent 技能（skills）仓库：6 个 SKILL.md 格式的薄协
 ```mermaid
 xychart-beta
     title "NVIDIA/nurec-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-25 48（+0）
+2026-10-18 48 → 2026-10-26 48（+0）
 
 
 ---

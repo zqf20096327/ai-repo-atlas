@@ -45,13 +45,13 @@ pi coding agent 的 provider 扩展包：在本地运行 Cursor 的 SDK agent，
 
 ```mermaid
 xychart-beta
-    title "fitchmultz/pi-cursor-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "fitchmultz/pi-cursor-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 341 --> 347
-    line [342, 346]
+    line [342, 346, 345]
 ```
 
-2026-10-18 342 → 2026-10-25 346（+4）
+2026-10-18 342 → 2026-10-26 345（+3）
 
 
 ---

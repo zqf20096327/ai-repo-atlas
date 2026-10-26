@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arthurspk/guiadomaestri 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 28 --> 33
-    line [29, 30, 32]
+    title "arthurspk/guiadomaestri 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 28 --> 34
+    line [29, 30, 32, 33]
 ```
 
-2026-10-18 29 → 2026-10-25 32（+3）
+2026-10-18 29 → 2026-10-26 33（+4）
 
 
 ---

@@ -45,12 +45,12 @@ Meta（原 Alpha 项目）开发的列式文件格式，定位为 Apache Parquet
 ```mermaid
 xychart-beta
     title "facebookincubator/nimble 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 740 --> 742
     line [741, 741]
 ```
 
-2026-10-18 741 → 2026-10-25 741（+0）
+2026-10-18 741 → 2026-10-26 741（+0）
 
 
 ---

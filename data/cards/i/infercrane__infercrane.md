@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "infercrane/infercrane 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "infercrane/infercrane 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 52 --> 55
-    line [54, 53]
+    line [54, 53, 53]
 ```
 
-2026-10-18 54 → 2026-10-25 53（-1）
+2026-10-18 54 → 2026-10-26 53（-1）
 
 
 ---

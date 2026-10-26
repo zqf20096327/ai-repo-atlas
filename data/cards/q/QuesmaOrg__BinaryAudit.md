@@ -45,12 +45,12 @@ Quesma 维护的开源基准：在 lighttpd、dnsmasq、Dropbear、Sozu、Caddy 
 ```mermaid
 xychart-beta
     title "QuesmaOrg/BinaryAudit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
     y-axis "stars" 103 --> 107
     line [104, 106, 106]
 ```
 
-2026-10-18 104 → 2026-10-25 106（+2）
+2026-10-18 104 → 2026-10-26 106（+2）
 
 
 ---

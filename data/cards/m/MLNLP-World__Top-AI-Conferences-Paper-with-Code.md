@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "MLNLP-World/Top-AI-Conferences-Paper-with-Code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 2716 --> 2721
-    line [2717, 2719, 2720]
+    title "MLNLP-World/Top-AI-Conferences-Paper-with-Code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 2716 --> 2722
+    line [2717, 2719, 2720, 2721]
 ```
 
-2026-10-18 2,717 → 2026-10-25 2,720（+3）
+2026-10-18 2,717 → 2026-10-26 2,721（+4）
 
 
 ---

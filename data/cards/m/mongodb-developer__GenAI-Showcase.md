@@ -43,13 +43,13 @@ MongoDB 维护的生成式 AI 示例仓库，收录覆盖 RAG、AI Agents 与行
 
 ```mermaid
 xychart-beta
-    title "mongodb-developer/GenAI-Showcase 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "mongodb-developer/GenAI-Showcase 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 4263 --> 4268
-    line [4267, 4266, 4264]
+    line [4267, 4266, 4264, 4264]
 ```
 
-2026-10-18 4,267 → 2026-10-25 4,264（-3）
+2026-10-18 4,267 → 2026-10-26 4,264（-3）
 
 
 ---

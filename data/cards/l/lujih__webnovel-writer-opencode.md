@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lujih/webnovel-writer-opencode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 218 --> 223
-    line [219, 221, 222]
+    title "lujih/webnovel-writer-opencode 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 218 --> 224
+    line [219, 221, 222, 223]
 ```
 
-2026-10-18 219 → 2026-10-25 222（+3）
+2026-10-18 219 → 2026-10-26 223（+4）
 
 
 ---

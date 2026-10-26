@@ -43,13 +43,13 @@ GitSense 是一个 Python CLI（pip 安装）：根据用户声明的技能构�
 
 ```mermaid
 xychart-beta
-    title "he-yufeng/GitSense 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "he-yufeng/GitSense 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 90 --> 93
-    line [92, 91]
+    line [92, 91, 91]
 ```
 
-2026-10-18 92 → 2026-10-25 91（-1）
+2026-10-18 92 → 2026-10-26 91（-1）
 
 
 ---

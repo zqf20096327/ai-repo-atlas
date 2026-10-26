@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BlueRingsLabs/no-shortcuts 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 45 --> 61
-    line [46, 55, 60]
+    title "BlueRingsLabs/no-shortcuts 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 45 --> 64
+    line [46, 55, 60, 63]
 ```
 
-2026-10-23 46 → 2026-10-25 60（+14）
+2026-10-23 46 → 2026-10-26 63（+17）
 
 
 ---

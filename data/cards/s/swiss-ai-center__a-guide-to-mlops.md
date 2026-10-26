@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "swiss-ai-center/a-guide-to-mlops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 61 --> 64
+    line [62, 63]
 ```
 
-2026-10-18 62 → 2026-10-25 62（+0）
+2026-10-18 62 → 2026-10-26 63（+1）
 
 
 ---

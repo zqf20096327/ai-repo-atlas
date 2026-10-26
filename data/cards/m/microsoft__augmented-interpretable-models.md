@@ -44,12 +44,12 @@ Aug-imodels 论文（Nature Communications, 2023）的实验复现代码库。�
 ```mermaid
 xychart-beta
     title "microsoft/augmented-interpretable-models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-25 42（+0）
+2026-10-18 42 → 2026-10-26 42（+0）
 
 
 ---

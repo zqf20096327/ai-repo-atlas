@@ -44,12 +44,12 @@ commercetools 维护的 monorepo，包含从 commercetools API 参考自动生�
 ```mermaid
 xychart-beta
     title "commercetools/commercetools-sdk-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-10-25 64（+0）
+2026-10-18 64 → 2026-10-26 64（+0）
 
 
 ---

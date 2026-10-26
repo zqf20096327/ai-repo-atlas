@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anhermon/awesome-agent-observability 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
+    title "anhermon/awesome-agent-observability 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
     y-axis "stars" 51 --> 64
-    line [52, 60, 63, 62]
+    line [52, 60, 63, 62, 62]
 ```
 
-2026-10-18 52 → 2026-10-25 62（+10）
+2026-10-18 52 → 2026-10-26 62（+10）
 
 
 ---

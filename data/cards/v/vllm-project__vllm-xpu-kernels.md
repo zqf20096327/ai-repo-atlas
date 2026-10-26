@@ -46,12 +46,12 @@ vLLM 项目的组件，用 SYCL/DPC++ 编写并基于 oneDNN 实现 Intel XPU（
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-xpu-kernels 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 75 --> 78
-    line [76, 77, 77]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    y-axis "stars" 75 --> 80
+    line [76, 77, 79]
 ```
 
-2026-10-18 76 → 2026-10-25 77（+1）
+2026-10-18 76 → 2026-10-26 79（+3）
 
 
 ---

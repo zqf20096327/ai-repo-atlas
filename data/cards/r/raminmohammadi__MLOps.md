@@ -45,12 +45,12 @@ Northeastern University DADS 7305 MLOps 课程的教学资源仓库，收录课�
 ```mermaid
 xychart-beta
     title "raminmohammadi/MLOps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 305 --> 307
     line [306, 306]
 ```
 
-2026-10-18 306 → 2026-10-25 306（+0）
+2026-10-18 306 → 2026-10-26 306（+0）
 
 
 ---

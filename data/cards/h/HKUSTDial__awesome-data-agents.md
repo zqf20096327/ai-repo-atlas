@@ -44,13 +44,13 @@ HKUSTDial 团队论文《A Survey of Data Agents: Emerging Paradigm or Overstate
 
 ```mermaid
 xychart-beta
-    title "HKUSTDial/awesome-data-agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
+    title "HKUSTDial/awesome-data-agents 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
     y-axis "stars" 778 --> 788
-    line [779, 782, 785, 786, 787]
+    line [779, 782, 785, 786, 787, 787]
 ```
 
-2026-10-18 779 → 2026-10-25 787（+8）
+2026-10-18 779 → 2026-10-26 787（+8）
 
 
 ---

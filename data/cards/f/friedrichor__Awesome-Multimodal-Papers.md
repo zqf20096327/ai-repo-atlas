@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "friedrichor/Awesome-Multimodal-Papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 345 --> 347
-    line [346, 346]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 345 --> 348
+    line [346, 347]
 ```
 
-2026-10-18 346 → 2026-10-25 346（+0）
+2026-10-18 346 → 2026-10-26 347（+1）
 
 
 ---

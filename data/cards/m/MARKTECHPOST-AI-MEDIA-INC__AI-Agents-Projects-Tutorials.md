@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25"]
-    y-axis "stars" 2926 --> 2934
-    line [2927, 2930, 2929, 2930, 2933]
+    title "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 2926 --> 2938
+    line [2927, 2930, 2929, 2930, 2933, 2937]
 ```
 
-2026-10-18 2,927 → 2026-10-25 2,933（+6）
+2026-10-18 2,927 → 2026-10-26 2,937（+10）
 
 
 ---

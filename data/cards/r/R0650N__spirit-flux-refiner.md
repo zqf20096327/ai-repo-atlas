@@ -46,12 +46,12 @@ Spirit-LoRA-Forge 是一个 LoRA 微调训练工具包，前身概念为 spirit-
 ```mermaid
 xychart-beta
     title "R0650N/spirit-flux-refiner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-25 55（+0）
+2026-10-18 55 → 2026-10-26 55（+0）
 
 
 ---

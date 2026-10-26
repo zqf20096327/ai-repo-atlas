@@ -45,12 +45,12 @@ OpenAI 维护的 Model Context Protocol 服务器构建蓝图：提供 Python �
 ```mermaid
 xychart-beta
     title "openai/openai-mcpkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 82 --> 86
-    line [83, 85, 85]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    y-axis "stars" 82 --> 87
+    line [83, 85, 86]
 ```
 
-2026-10-18 83 → 2026-10-25 85（+2）
+2026-10-18 83 → 2026-10-26 86（+3）
 
 
 ---

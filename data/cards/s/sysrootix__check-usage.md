@@ -45,13 +45,13 @@ Swift 6 原生 macOS 应用（需 macOS 14+），在菜单栏与屏幕边缘以�
 
 ```mermaid
 xychart-beta
-    title "sysrootix/check-usage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "sysrootix/check-usage 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 32 --> 51
-    line [50, 33]
+    line [50, 33, 33]
 ```
 
-2026-10-18 50 → 2026-10-25 33（-17）
+2026-10-18 50 → 2026-10-26 33（-17）
 
 
 ---

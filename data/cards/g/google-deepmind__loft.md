@@ -46,12 +46,12 @@ Google DeepMind 发布的 LOFT 长上下文基准，配套论文《Can Long-Cont
 ```mermaid
 xychart-beta
     title "google-deepmind/loft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 238 --> 240
     line [239, 239]
 ```
 
-2026-10-18 239 → 2026-10-25 239（+0）
+2026-10-18 239 → 2026-10-26 239（+0）
 
 
 ---

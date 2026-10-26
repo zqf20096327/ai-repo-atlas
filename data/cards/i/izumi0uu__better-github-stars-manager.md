@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "izumi0uu/better-github-stars-manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 239 --> 242
-    line [240, 241]
+    title "izumi0uu/better-github-stars-manager 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 239 --> 246
+    line [240, 241, 245]
 ```
 
-2026-10-18 240 → 2026-10-25 241（+1）
+2026-10-18 240 → 2026-10-26 245（+5）
 
 
 ---

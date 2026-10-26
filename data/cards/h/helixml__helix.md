@@ -45,13 +45,13 @@ Helix 是面向团队的自托管 AI 编码 Agent 编排平台：将 Claude Code
 
 ```mermaid
 xychart-beta
-    title "helixml/helix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "helixml/helix 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 821 --> 824
-    line [822, 823]
+    line [822, 823, 823]
 ```
 
-2026-10-18 822 → 2026-10-25 823（+1）
+2026-10-18 822 → 2026-10-26 823（+1）
 
 
 ---

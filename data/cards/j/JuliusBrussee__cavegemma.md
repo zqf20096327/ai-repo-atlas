@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuliusBrussee/cavegemma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "JuliusBrussee/cavegemma 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 118 --> 121
-    line [119, 120]
+    line [119, 120, 120]
 ```
 
-2026-10-18 119 → 2026-10-25 120（+1）
+2026-10-18 119 → 2026-10-26 120（+1）
 
 
 ---

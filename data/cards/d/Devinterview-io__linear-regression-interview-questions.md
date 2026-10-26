@@ -44,12 +44,12 @@ Devinterview.io 维护的线性回归主题面试问答集合：README 内列出
 ```mermaid
 xychart-beta
     title "Devinterview-io/linear-regression-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-25 52（+0）
+2026-10-18 52 → 2026-10-26 52（+0）
 
 
 ---

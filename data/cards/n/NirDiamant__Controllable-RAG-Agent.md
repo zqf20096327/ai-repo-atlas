@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NirDiamant/Controllable-RAG-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "NirDiamant/Controllable-RAG-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 1626 --> 1630
-    line [1629, 1627]
+    line [1629, 1627, 1627]
 ```
 
-2026-10-18 1,629 → 2026-10-25 1,627（-2）
+2026-10-18 1,629 → 2026-10-26 1,627（-2）
 
 
 ---

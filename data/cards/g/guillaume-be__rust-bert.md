@@ -46,12 +46,12 @@ Hugging Face Transformers 的 Rust 移植库，通过 tch-rs（Libtorch 绑定�
 ```mermaid
 xychart-beta
     title "guillaume-be/rust-bert 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
     y-axis "stars" 3083 --> 3087
     line [3084, 3086, 3086]
 ```
 
-2026-10-18 3,084 → 2026-10-25 3,086（+2）
+2026-10-18 3,084 → 2026-10-26 3,086（+2）
 
 
 ---

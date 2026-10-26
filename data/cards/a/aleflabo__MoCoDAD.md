@@ -45,12 +45,12 @@ ICCV '23 论文 Multimodal Motion Conditioned Diffusion Model for Skeleton-based
 ```mermaid
 xychart-beta
     title "aleflabo/MoCoDAD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-18 93 → 2026-10-25 93（+0）
+2026-10-18 93 → 2026-10-26 93（+0）
 
 
 ---

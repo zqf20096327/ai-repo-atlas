@@ -47,12 +47,12 @@ satellite-image-deep-learning.com 维护的软件清单仓库，收录处理卫�
 ```mermaid
 xychart-beta
     title "satellite-image-deep-learning/software 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 161 --> 163
     line [162, 162]
 ```
 
-2026-10-18 162 → 2026-10-25 162（+0）
+2026-10-18 162 → 2026-10-26 162（+0）
 
 
 ---

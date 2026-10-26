@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "warmsum/deepseek-harness-python-tutorial 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    title "warmsum/deepseek-harness-python-tutorial 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
     y-axis "stars" 135 --> 140
-    line [136, 137, 138, 139]
+    line [136, 137, 138, 139, 139]
 ```
 
-2026-10-18 136 → 2026-10-25 139（+3）
+2026-10-18 136 → 2026-10-26 139（+3）
 
 
 ---

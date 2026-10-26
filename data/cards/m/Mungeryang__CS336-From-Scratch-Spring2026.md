@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mungeryang/CS336-From-Scratch-Spring2026 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    title "Mungeryang/CS336-From-Scratch-Spring2026 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 77 --> 96
-    line [95, 78, 79]
+    line [95, 78, 79, 79]
 ```
 
-2026-10-18 95 → 2026-10-25 79（-16）
+2026-10-18 95 → 2026-10-26 79（-16）
 
 
 ---

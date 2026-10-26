@@ -45,12 +45,12 @@ GitFlow Toolkit 是用 Go 编写的 CLI 工具，按 Conventional Commits 1.0.0 
 ```mermaid
 xychart-beta
     title "mritd/gitflow-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 229 --> 231
     line [230, 230]
 ```
 
-2026-10-18 230 → 2026-10-25 230（+0）
+2026-10-18 230 → 2026-10-26 230（+0）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Doriandarko/texts-to-transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 472 --> 474
-    line [473, 473]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 472 --> 475
+    line [473, 474]
 ```
 
-2026-10-18 473 → 2026-10-25 473（+0）
+2026-10-18 473 → 2026-10-26 474（+1）
 
 
 ---

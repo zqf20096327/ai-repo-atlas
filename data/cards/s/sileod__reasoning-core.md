@@ -45,13 +45,13 @@ Reasoning Core 以 Python 库形式程序化生成一阶逻辑、符号数学、
 
 ```mermaid
 xychart-beta
-    title "sileod/reasoning-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "sileod/reasoning-core 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 50 --> 53
-    line [51, 52]
+    line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-10-25 52（+1）
+2026-10-18 51 → 2026-10-26 52（+1）
 
 
 ---

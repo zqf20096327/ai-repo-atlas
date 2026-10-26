@@ -45,12 +45,12 @@ Lab Foundation 是 LabNow 提供的容器镜像栈，通过 Quay.io 与 DockerHu
 ```mermaid
 xychart-beta
     title "LabNow-ai/lab-foundation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-25 41（+0）
+2026-10-18 41 → 2026-10-26 41（+0）
 
 
 ---

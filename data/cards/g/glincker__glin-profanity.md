@@ -45,12 +45,12 @@ MIT 许可的脏话与内容检测库，提供 npm 与 PyPI 双语言包及 MCP 
 ```mermaid
 xychart-beta
     title "glincker/glin-profanity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 64 --> 67
+    line [66, 65]
 ```
 
-2026-10-18 66 → 2026-10-25 66（+0）
+2026-10-18 66 → 2026-10-26 65（-1）
 
 
 ---

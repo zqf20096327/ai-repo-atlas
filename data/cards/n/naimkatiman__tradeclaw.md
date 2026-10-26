@@ -46,12 +46,12 @@ Next.js + PostgreSQL 单仓应用，内嵌技术指标引擎（RSI/MACD/EMA/BB/S
 ```mermaid
 xychart-beta
     title "naimkatiman/tradeclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
     y-axis "stars" 41 --> 44
     line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-10-25 43（+1）
+2026-10-18 42 → 2026-10-26 43（+1）
 
 
 ---

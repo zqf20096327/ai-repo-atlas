@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eleiton/ollama-intel-arc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "eleiton/ollama-intel-arc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 424 --> 427
-    line [425, 426]
+    line [425, 426, 426]
 ```
 
-2026-10-18 425 → 2026-10-25 426（+1）
+2026-10-18 425 → 2026-10-26 426（+1）
 
 
 ---

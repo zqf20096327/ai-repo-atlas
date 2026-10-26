@@ -44,13 +44,13 @@ ElevenLabs 官方 TypeScript/Node SDK，封装其 HTTP API：文本转语音（�
 
 ```mermaid
 xychart-beta
-    title "elevenlabs/elevenlabs-js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    title "elevenlabs/elevenlabs-js 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
     y-axis "stars" 445 --> 448
-    line [446, 447, 446]
+    line [446, 447, 446, 446]
 ```
 
-2026-10-18 446 → 2026-10-25 446（+0）
+2026-10-18 446 → 2026-10-26 446（+0）
 
 
 ---

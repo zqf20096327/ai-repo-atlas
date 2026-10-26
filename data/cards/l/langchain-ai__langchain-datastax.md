@@ -43,12 +43,12 @@ langchain-ai 组织下的集成仓库，包含 1 个包：langchain-astradb，�
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-datastax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-25 35（+0）
+2026-10-18 35 → 2026-10-26 35（+0）
 
 
 ---

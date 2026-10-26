@@ -46,12 +46,12 @@ Claude Code 插件市场中的技能集：读取 EPUB/PDF/HTML/DOCX/Markdown 等
 ```mermaid
 xychart-beta
     title "sebastianhaba/book-to-course-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
     y-axis "stars" 66 --> 72
     line [67, 69, 71, 71]
 ```
 
-2026-10-18 67 → 2026-10-25 71（+4）
+2026-10-18 67 → 2026-10-26 71（+4）
 
 
 ---

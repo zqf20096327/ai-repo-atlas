@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "niaka3dayo/agent-skills-vrc-udon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "niaka3dayo/agent-skills-vrc-udon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 335 --> 338
-    line [336, 337]
+    line [336, 337, 337]
 ```
 
-2026-10-18 336 → 2026-10-25 337（+1）
+2026-10-18 336 → 2026-10-26 337（+1）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "greatfrontend/black-friday-cyber-monday-deals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "greatfrontend/black-friday-cyber-monday-deals 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 176 --> 179
-    line [178, 177, 178]
+    line [178, 177, 178, 178]
 ```
 
-2026-10-18 178 → 2026-10-25 178（+0）
+2026-10-18 178 → 2026-10-26 178（+0）
 
 
 ---

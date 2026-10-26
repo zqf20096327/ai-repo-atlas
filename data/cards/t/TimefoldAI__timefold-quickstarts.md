@@ -44,13 +44,13 @@ TimefoldAI 维护的快速上手代码仓库，为 Timefold Solver（Java/Kotlin
 
 ```mermaid
 xychart-beta
-    title "TimefoldAI/timefold-quickstarts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
+    title "TimefoldAI/timefold-quickstarts 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 594 --> 600
-    line [595, 597, 598, 599]
+    line [595, 597, 598, 599, 598]
 ```
 
-2026-10-18 595 → 2026-10-25 599（+4）
+2026-10-18 595 → 2026-10-26 598（+3）
 
 
 ---

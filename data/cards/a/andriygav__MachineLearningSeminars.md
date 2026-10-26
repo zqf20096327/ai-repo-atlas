@@ -45,12 +45,12 @@ A. V. Grabovoy 为 K. V. Vorontsov 机器学习课程配套的研讨课材料仓
 ```mermaid
 xychart-beta
     title "andriygav/MachineLearningSeminars 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
     y-axis "stars" 409 --> 413
     line [410, 412, 412]
 ```
 
-2026-10-18 410 → 2026-10-25 412（+2）
+2026-10-18 410 → 2026-10-26 412（+2）
 
 
 ---

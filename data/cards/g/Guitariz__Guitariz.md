@@ -45,13 +45,13 @@ React/Vite 前端 + FastAPI/PyTorch 后端的全栈 Web 应用（PWA），面向
 
 ```mermaid
 xychart-beta
-    title "Guitariz/Guitariz 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "Guitariz/Guitariz 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 34 --> 38
-    line [35, 36, 37]
+    line [35, 36, 37, 37]
 ```
 
-2026-10-18 35 → 2026-10-25 37（+2）
+2026-10-18 35 → 2026-10-26 37（+2）
 
 
 ---

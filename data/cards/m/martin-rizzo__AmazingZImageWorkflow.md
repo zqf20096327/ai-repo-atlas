@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "martin-rizzo/AmazingZImageWorkflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "martin-rizzo/AmazingZImageWorkflow 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 505 --> 509
-    line [506, 507, 508]
+    line [506, 507, 508, 507]
 ```
 
-2026-10-18 506 → 2026-10-25 508（+2）
+2026-10-18 506 → 2026-10-26 507（+1）
 
 
 ---

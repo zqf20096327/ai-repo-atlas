@@ -44,13 +44,13 @@ CVPR 2020 论文的官方 PyTorch 实现：CascadePSP 是一个类别无关的�
 
 ```mermaid
 xychart-beta
-    title "hkchengrex/CascadePSP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "hkchengrex/CascadePSP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 884 --> 887
-    line [885, 886]
+    line [885, 886, 886]
 ```
 
-2026-10-18 885 → 2026-10-25 886（+1）
+2026-10-18 885 → 2026-10-26 886（+1）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "feuersteiner/contextrie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 59 --> 62
+    line [60, 61]
 ```
 
-2026-10-18 60 → 2026-10-25 60（+0）
+2026-10-18 60 → 2026-10-26 61（+1）
 
 
 ---

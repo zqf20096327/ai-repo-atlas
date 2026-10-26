@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Narwhal-Lab/MagicSkills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "Narwhal-Lab/MagicSkills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 315 --> 318
-    line [316, 317]
+    line [316, 317, 317]
 ```
 
-2026-10-18 316 → 2026-10-25 317（+1）
+2026-10-18 316 → 2026-10-26 317（+1）
 
 
 ---

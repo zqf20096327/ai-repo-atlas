@@ -42,6 +42,18 @@
 > L45: 项目通过麦当劳官方 MCP 获取餐品、门店、价格、优惠和营养信息，由 AI 理解用户的自然语言需求，再交给 Python 脚本完成查询辅助、数据处理、记录保存和图片渲染。
 > L326: 本项目不要求使用特定的 AI 模型，也不依赖 OpenAI API。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xiaozhangup/Oh-My-McDonald 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 45 --> 125
+    line [51, 119]
+```
+
+2026-10-25 51 → 2026-10-26 119（+68）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `b966f763a7ae` · [字段定义](../../DATASET.md)*

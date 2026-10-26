@@ -41,6 +41,18 @@
 > L24: You bring your own keys (a Claude plan or an Anthropic API key; Gemini and ElevenLabs optional) and pay the provide
 > L29: - **An editor agent.** Claude Opus 5.5 builds each video as an animated HyperFrames composition, checks its own fra
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Shaitrish/37studio 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 39 --> 67
+    line [41, 65]
+```
+
+2026-10-25 41 → 2026-10-26 65（+24）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 mid · 依据 README sha `b4e38e831e19` · [字段定义](../../DATASET.md)*

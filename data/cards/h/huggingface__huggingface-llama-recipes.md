@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/huggingface-llama-recipes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 710 --> 712
     line [711, 711]
 ```
 
-2026-10-18 711 → 2026-10-25 711（+0）
+2026-10-18 711 → 2026-10-26 711（+0）
 
 
 ---

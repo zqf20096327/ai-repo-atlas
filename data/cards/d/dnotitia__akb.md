@@ -46,12 +46,12 @@ PostgreSQL 原生的知识库服务，通过 Model Context Protocol（MCP Stream
 ```mermaid
 xychart-beta
     title "dnotitia/akb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 162 --> 164
     line [163, 163]
 ```
 
-2026-10-18 163 → 2026-10-25 163（+0）
+2026-10-18 163 → 2026-10-26 163（+0）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thomasfermi/Algorithms-for-Automated-Driving 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 499 --> 501
     line [500, 500]
 ```
 
-2026-10-18 500 → 2026-10-25 500（+0）
+2026-10-18 500 → 2026-10-26 500（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikeOnBreeze/cc-crossbeam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "mikeOnBreeze/cc-crossbeam 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 295 --> 298
-    line [296, 297]
+    line [296, 297, 297]
 ```
 
-2026-10-18 296 → 2026-10-25 297（+1）
+2026-10-18 296 → 2026-10-26 297（+1）
 
 
 ---

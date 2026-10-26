@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xrpcommunity/XRP-community-wallet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 2276 --> 2302
-    line [2300, 2297, 2278]
+    title "xrpcommunity/XRP-community-wallet 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 2275 --> 2302
+    line [2300, 2297, 2278, 2277]
 ```
 
-2026-10-18 2,300 → 2026-10-25 2,278（-22）
+2026-10-18 2,300 → 2026-10-26 2,277（-23）
 
 
 ---

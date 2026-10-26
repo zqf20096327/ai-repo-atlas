@@ -45,12 +45,12 @@ Apress 书籍《Large Language Models》的非官方配套仓库，提供基于 
 ```mermaid
 xychart-beta
     title "peremartra/Large-Language-Model-Notebooks-Course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
     y-axis "stars" 1824 --> 1828
     line [1825, 1827, 1827]
 ```
 
-2026-10-18 1,825 → 2026-10-25 1,827（+2）
+2026-10-18 1,825 → 2026-10-26 1,827（+2）
 
 
 ---

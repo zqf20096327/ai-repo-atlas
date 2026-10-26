@@ -44,13 +44,13 @@ Sandbank 把 Agent 身份、memory、artifact、audit log 与 checkpoint 固化�
 
 ```mermaid
 xychart-beta
-    title "chekusu/sandbank 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    title "chekusu/sandbank 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 173 --> 176
-    line [175, 174, 175]
+    line [175, 174, 175, 175]
 ```
 
-2026-10-18 175 → 2026-10-25 175（+0）
+2026-10-18 175 → 2026-10-26 175（+0）
 
 
 ---

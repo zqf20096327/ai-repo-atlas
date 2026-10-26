@@ -46,12 +46,12 @@ TypeScript 库，提供可复用的 ReAct 风格 agent 循环、Model/Message/To
 ```mermaid
 xychart-beta
     title "MagicCube/helixent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
-    y-axis "stars" 682 --> 685
-    line [683, 684, 684]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    y-axis "stars" 682 --> 686
+    line [683, 684, 685]
 ```
 
-2026-10-18 683 → 2026-10-25 684（+1）
+2026-10-18 683 → 2026-10-26 685（+2）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "antgroup/Agentar-Scale-SQL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 477 --> 480
-    line [478, 479]
+    title "antgroup/Agentar-Scale-SQL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 477 --> 481
+    line [478, 479, 480]
 ```
 
-2026-10-18 478 → 2026-10-25 479（+1）
+2026-10-18 478 → 2026-10-26 480（+2）
 
 
 ---

@@ -45,12 +45,12 @@ FacePlugin 提供面向 .NET MAUI 与 C# 的人脸识别 SDK，功能覆盖人�
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceRecognition-.Net 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
     y-axis "stars" 49 --> 52
     line [50, 51, 51]
 ```
 
-2026-10-18 50 → 2026-10-25 51（+1）
+2026-10-18 50 → 2026-10-26 51（+1）
 
 
 ---

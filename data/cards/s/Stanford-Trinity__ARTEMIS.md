@@ -44,13 +44,13 @@ Stanford Trinity 项目的自主红队代理：由监督者（supervisor）调�
 
 ```mermaid
 xychart-beta
-    title "Stanford-Trinity/ARTEMIS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "Stanford-Trinity/ARTEMIS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 546 --> 550
-    line [549, 548, 547]
+    line [549, 548, 547, 548]
 ```
 
-2026-10-18 549 → 2026-10-25 547（-2）
+2026-10-18 549 → 2026-10-26 548（-1）
 
 
 ---

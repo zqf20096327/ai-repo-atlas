@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JonasGeiping/breaching 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 324 --> 328
-    line [325, 327]
+    title "JonasGeiping/breaching 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 324 --> 329
+    line [325, 327, 328]
 ```
 
-2026-10-18 325 → 2026-10-25 327（+2）
+2026-10-18 325 → 2026-10-26 328（+3）
 
 
 ---

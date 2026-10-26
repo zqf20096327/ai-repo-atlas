@@ -45,12 +45,12 @@ TensorLy-Torch 是构建于 TensorLy 与 PyTorch 之上的 Python 库，面向�
 ```mermaid
 xychart-beta
     title "tensorly/torch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 83 --> 85
     line [84, 84]
 ```
 
-2026-10-18 84 → 2026-10-25 84（+0）
+2026-10-18 84 → 2026-10-26 84（+0）
 
 
 ---

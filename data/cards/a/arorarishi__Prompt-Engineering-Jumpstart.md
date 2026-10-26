@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arorarishi/Prompt-Engineering-Jumpstart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 218 --> 220
-    line [219, 219]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 218 --> 221
+    line [219, 220]
 ```
 
-2026-10-18 219 → 2026-10-25 219（+0）
+2026-10-18 219 → 2026-10-26 220（+1）
 
 
 ---

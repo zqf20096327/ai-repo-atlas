@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bioinformatics-UM6P/MLOSSRF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "Bioinformatics-UM6P/MLOSSRF 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 48 --> 55
-    line [54, 49]
+    line [54, 49, 49]
 ```
 
-2026-10-18 54 → 2026-10-25 49（-5）
+2026-10-18 54 → 2026-10-26 49（-5）
 
 
 ---

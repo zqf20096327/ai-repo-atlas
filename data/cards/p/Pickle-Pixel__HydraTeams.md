@@ -45,12 +45,12 @@ TypeScript 编写的本地翻译代理：拦截 Claude Code Agent Teams 发出�
 ```mermaid
 xychart-beta
     title "Pickle-Pixel/HydraTeams 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-18 67 → 2026-10-25 67（+0）
+2026-10-18 67 → 2026-10-26 67（+0）
 
 
 ---

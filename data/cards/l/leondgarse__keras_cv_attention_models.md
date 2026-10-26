@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "leondgarse/keras_cv_attention_models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 624 --> 626
     line [625, 625]
 ```
 
-2026-10-18 625 → 2026-10-25 625（+0）
+2026-10-18 625 → 2026-10-26 625（+0）
 
 
 ---

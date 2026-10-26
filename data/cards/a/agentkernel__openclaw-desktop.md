@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentkernel/openclaw-desktop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 106 --> 110
-    line [107, 108, 109]
+    title "agentkernel/openclaw-desktop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 106 --> 111
+    line [107, 108, 109, 110]
 ```
 
-2026-10-18 107 → 2026-10-25 109（+2）
+2026-10-18 107 → 2026-10-26 110（+3）
 
 
 ---

@@ -41,6 +41,18 @@
 > L63: Since 0.5.0, llm4s ships as separate modules. RAG, knowledge graph, memory, MCP, shared media types, image, and spe
 > L53: LLM4S provides a simple, robust, and scalable framework for building LLM applications in Scala. While most LLM work
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "llm4s/llm4s 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 272 --> 274
+    line [273, 273]
+```
+
+2026-10-25 273 → 2026-10-26 273（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `683d9a16e87d` · [字段定义](../../DATASET.md)*

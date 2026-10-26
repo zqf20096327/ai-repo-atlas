@@ -44,13 +44,13 @@ Fidelius 是面向数据协作的隐私计算中间件，实践“数据可用�
 
 ```mermaid
 xychart-beta
-    title "YeeZTech/YeeZ-Privacy-Computing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "YeeZTech/YeeZ-Privacy-Computing 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 1059 --> 1062
-    line [1060, 1061]
+    line [1060, 1061, 1061]
 ```
 
-2026-10-18 1,060 → 2026-10-25 1,061（+1）
+2026-10-18 1,060 → 2026-10-26 1,061（+1）
 
 
 ---

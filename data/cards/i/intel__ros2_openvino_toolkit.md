@@ -45,12 +45,12 @@ Intel 维护的 ROS 2 工具与库集合，把 Intel OpenVINO 工具包封装为
 ```mermaid
 xychart-beta
     title "intel/ros2_openvino_toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 186 --> 188
-    line [187, 187]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 186 --> 189
+    line [187, 188]
 ```
 
-2026-10-18 187 → 2026-10-25 187（+0）
+2026-10-18 187 → 2026-10-26 188（+1）
 
 
 ---

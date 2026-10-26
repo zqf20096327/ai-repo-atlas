@@ -49,12 +49,12 @@
 ```mermaid
 xychart-beta
     title "alphaparkinc/genpark-immutable-double-entry-ledger-kernel-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-10-18 7 → 2026-10-25 7（+0）
+2026-10-18 7 → 2026-10-26 7（+0）
 
 
 ---

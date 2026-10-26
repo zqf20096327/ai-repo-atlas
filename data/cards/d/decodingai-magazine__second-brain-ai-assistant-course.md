@@ -45,13 +45,13 @@ Decoding AI 与 MongoDB、Comet、Opik、Unsloth、ZenML 协作推出的免费�
 
 ```mermaid
 xychart-beta
-    title "decodingai-magazine/second-brain-ai-assistant-course 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25"]
-    y-axis "stars" 3118 --> 3125
-    line [3119, 3120, 3122, 3123, 3124]
+    title "decodingai-magazine/second-brain-ai-assistant-course 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 3118 --> 3127
+    line [3119, 3120, 3122, 3123, 3124, 3126]
 ```
 
-2026-10-18 3,119 → 2026-10-25 3,124（+5）
+2026-10-18 3,119 → 2026-10-26 3,126（+7）
 
 
 ---

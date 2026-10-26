@@ -44,12 +44,12 @@ CMU 教授 Zico Kolter 的 Intro to Modern AI 课程配套仓库，面向无机�
 ```mermaid
 xychart-beta
     title "marimo-team/modernaicourse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 115 --> 117
     line [116, 116]
 ```
 
-2026-10-18 116 → 2026-10-25 116（+0）
+2026-10-18 116 → 2026-10-26 116（+0）
 
 
 ---

@@ -46,12 +46,12 @@ desplega.ai 维护的 monorepo，收录 17 个独立子工具，围绕 Claude Co
 ```mermaid
 xychart-beta
     title "desplega-ai/ai-toolbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-25 36（+0）
+2026-10-18 36 → 2026-10-26 36（+0）
 
 
 ---

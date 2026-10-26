@@ -46,12 +46,12 @@ claudex 的一个 fork（基于上游 v0.2.4），作为 Claude Code 到 OpenAI 
 ```mermaid
 xychart-beta
     title "pilc80/claudegpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-25 33（+0）
+2026-10-18 33 → 2026-10-26 33（+0）
 
 
 ---

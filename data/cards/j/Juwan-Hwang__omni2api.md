@@ -40,6 +40,18 @@ Rust + Axum 实现的自托管服务器，在通常由模型占据的位置设�
 > L5: Turn anything that can sit at a terminal into an OpenAI-compatible API
 > L128: ├── server/      # Rust + Axum server (`omni2api` binary): OpenAI/Anthropic ingress, seat API
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Juwan-Hwang/omni2api 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
+```
+
+2026-10-25 37 → 2026-10-26 38（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `27f79d2c595a` · [字段定义](../../DATASET.md)*

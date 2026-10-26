@@ -44,12 +44,12 @@ Polyaxon 官方维护的 Helm charts 仓库，提供三类 chart：自托管 Pol
 ```mermaid
 xychart-beta
     title "polyaxon/charts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-25 34（+0）
+2026-10-18 34 → 2026-10-26 34（+0）
 
 
 ---

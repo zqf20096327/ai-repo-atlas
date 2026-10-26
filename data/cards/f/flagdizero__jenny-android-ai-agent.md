@@ -45,13 +45,13 @@ Android 应用（内嵌 CPython 3.11/Chaquopy），以持续前台服务运行�
 
 ```mermaid
 xychart-beta
-    title "flagdizero/jenny-android-ai-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 105 --> 114
-    line [106, 108, 109, 113]
+    title "flagdizero/jenny-android-ai-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 105 --> 116
+    line [106, 108, 109, 113, 115]
 ```
 
-2026-10-18 106 → 2026-10-25 113（+7）
+2026-10-18 106 → 2026-10-26 115（+9）
 
 
 ---

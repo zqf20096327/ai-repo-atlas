@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dzhng/claude-agent-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "dzhng/claude-agent-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 584 --> 587
-    line [586, 585]
+    line [586, 585, 585]
 ```
 
-2026-10-18 586 → 2026-10-25 585（-1）
+2026-10-18 586 → 2026-10-26 585（-1）
 
 
 ---

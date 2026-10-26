@@ -44,12 +44,12 @@ Video Depth Anything 的非官方 ComfyUI 实现，以 custom_nodes 形式接入
 ```mermaid
 xychart-beta
     title "yuvraj108c/ComfyUI-Video-Depth-Anything 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-25 58（+0）
+2026-10-18 58 → 2026-10-26 58（+0）
 
 
 ---

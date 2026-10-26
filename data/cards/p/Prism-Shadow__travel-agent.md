@@ -44,13 +44,13 @@ Electron 桌面应用：用户用自然语言描述行程需求，agent 在应�
 
 ```mermaid
 xychart-beta
-    title "Prism-Shadow/travel-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "Prism-Shadow/travel-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 51 --> 54
-    line [53, 52]
+    line [53, 52, 52]
 ```
 
-2026-10-18 53 → 2026-10-25 52（-1）
+2026-10-18 53 → 2026-10-26 52（-1）
 
 
 ---

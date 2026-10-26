@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "QuenithAI/Video-Generation-Paper-List 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 170 --> 172
     line [171, 171]
 ```
 
-2026-10-18 171 → 2026-10-25 171（+0）
+2026-10-18 171 → 2026-10-26 171（+0）
 
 
 ---

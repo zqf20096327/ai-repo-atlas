@@ -44,12 +44,12 @@ lucidrains 维护的 WorldParticle 官方描述中论文实现：用 Transformer
 ```mermaid
 xychart-beta
     title "lucidrains/worldparticle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-25 45（+0）
+2026-10-18 45 → 2026-10-26 45（+0）
 
 
 ---

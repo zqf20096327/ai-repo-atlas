@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "omgitsbase/llmash 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 14 --> 31
-    line [15, 30]
+    title "omgitsbase/llmash 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 14 --> 34
+    line [15, 30, 33]
 ```
 
-2026-10-18 15 → 2026-10-25 30（+15）
+2026-10-18 15 → 2026-10-26 33（+18）
 
 
 ---

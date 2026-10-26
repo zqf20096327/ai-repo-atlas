@@ -45,13 +45,13 @@ CNLLM 是面向开发者的 Python 工具包，为 DeepSeek、KIMI、豆包、�
 
 ```mermaid
 xychart-beta
-    title "kanchengw/cnllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "kanchengw/cnllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 170 --> 174
-    line [173, 171]
+    line [173, 171, 171]
 ```
 
-2026-10-18 173 → 2026-10-25 171（-2）
+2026-10-18 173 → 2026-10-26 171（-2）
 
 
 ---

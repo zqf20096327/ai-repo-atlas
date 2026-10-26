@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "creatorofsomethingthatisgood/Open-Mythos-2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "creatorofsomethingthatisgood/Open-Mythos-2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 72 --> 77
-    line [75, 76, 73]
+    line [75, 76, 73, 73]
 ```
 
-2026-10-18 75 → 2026-10-25 73（-2）
+2026-10-18 75 → 2026-10-26 73（-2）
 
 
 ---

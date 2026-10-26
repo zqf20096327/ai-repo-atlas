@@ -45,13 +45,13 @@ Unreal Engine 插件（支持 UE 5.1-5.8，Windows/Android，Linux 标注即将�
 
 ```mermaid
 xychart-beta
-    title "endink/Mediapipe4u-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "endink/Mediapipe4u-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 509 --> 512
-    line [510, 511]
+    line [510, 511, 511]
 ```
 
-2026-10-18 510 → 2026-10-25 511（+1）
+2026-10-18 510 → 2026-10-26 511（+1）
 
 
 ---

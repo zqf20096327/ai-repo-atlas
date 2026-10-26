@@ -45,12 +45,12 @@ InfoBubble 是 macOS 上的 RSS/网站新闻聚合应用（App Store 分发，ma
 ```mermaid
 xychart-beta
     title "infobubble/infobubble-support 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
     y-axis "stars" 69 --> 72
     line [70, 71, 71]
 ```
 
-2026-10-18 70 → 2026-10-25 71（+1）
+2026-10-18 70 → 2026-10-26 71（+1）
 
 
 ---

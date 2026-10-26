@@ -45,13 +45,13 @@ ANP 协议的多语言 SDK 与参考实现仓库，覆盖身份、发现、调�
 
 ```mermaid
 xychart-beta
-    title "agent-network-protocol/anp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "agent-network-protocol/anp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 352 --> 355
-    line [353, 354]
+    line [353, 354, 354]
 ```
 
-2026-10-18 353 → 2026-10-25 354（+1）
+2026-10-18 353 → 2026-10-26 354（+1）
 
 
 ---

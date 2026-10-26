@@ -46,12 +46,12 @@ pi coding agent 的记忆扩展，忠实复现论文 Zero-Mem（arXiv:2607.29377
 ```mermaid
 xychart-beta
     title "woolcoxm/zero-mem-pi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-25 40（+0）
+2026-10-18 40 → 2026-10-26 40（+0）
 
 
 ---

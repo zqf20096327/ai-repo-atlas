@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ScaleFree-Tech/yishape-math 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "ScaleFree-Tech/yishape-math 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 251 --> 255
-    line [254, 252]
+    line [254, 252, 252]
 ```
 
-2026-10-18 254 → 2026-10-25 252（-2）
+2026-10-18 254 → 2026-10-26 252（-2）
 
 
 ---

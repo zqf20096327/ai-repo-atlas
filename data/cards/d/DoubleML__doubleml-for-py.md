@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DoubleML/doubleml-for-py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "DoubleML/doubleml-for-py 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 793 --> 796
-    line [794, 795]
+    line [794, 795, 795]
 ```
 
-2026-10-18 794 → 2026-10-25 795（+1）
+2026-10-18 794 → 2026-10-26 795（+1）
 
 
 ---

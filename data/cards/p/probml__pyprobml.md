@@ -43,13 +43,13 @@ Kevin Murphy 所著《Probabilistic Machine Learning: An Introduction》与《Ad
 
 ```mermaid
 xychart-beta
-    title "probml/pyprobml 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
+    title "probml/pyprobml 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 7168 --> 7172
-    line [7169, 7170, 7171, 7170]
+    line [7169, 7170, 7171, 7170, 7170]
 ```
 
-2026-10-18 7,169 → 2026-10-25 7,170（+1）
+2026-10-18 7,169 → 2026-10-26 7,170（+1）
 
 
 ---

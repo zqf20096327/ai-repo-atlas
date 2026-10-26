@@ -45,12 +45,12 @@ Kontext 在 AI agent（Claude Code、Claude Cowork、Codex）与工具调用之�
 ```mermaid
 xychart-beta
     title "kontext-security/kontext 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 221 --> 228
-    line [222, 226, 227, 227]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    y-axis "stars" 221 --> 229
+    line [222, 226, 227, 228]
 ```
 
-2026-10-18 222 → 2026-10-25 227（+5）
+2026-10-18 222 → 2026-10-26 228（+6）
 
 
 ---

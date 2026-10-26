@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "polaris-smart/mcd-agent-gourmet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 32 --> 95
-    line [37, 48, 90]
+    title "polaris-smart/mcd-agent-gourmet 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 26 --> 161
+    line [37, 48, 90, 150]
 ```
 
-2026-10-18 37 → 2026-10-25 90（+53）
+2026-10-18 37 → 2026-10-26 150（+113）
 
 
 ---

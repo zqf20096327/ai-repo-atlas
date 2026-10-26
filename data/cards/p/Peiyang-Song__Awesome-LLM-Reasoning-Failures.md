@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Peiyang-Song/Awesome-LLM-Reasoning-Failures 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "Peiyang-Song/Awesome-LLM-Reasoning-Failures 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 222 --> 225
-    line [223, 224]
+    line [223, 224, 224]
 ```
 
-2026-10-18 223 → 2026-10-25 224（+1）
+2026-10-18 223 → 2026-10-26 224（+1）
 
 
 ---

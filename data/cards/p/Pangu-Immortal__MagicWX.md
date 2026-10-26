@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pangu-Immortal/MagicWX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 856 --> 859
-    line [857, 858]
+    title "Pangu-Immortal/MagicWX 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 856 --> 860
+    line [857, 858, 859]
 ```
 
-2026-10-18 857 → 2026-10-25 858（+1）
+2026-10-18 857 → 2026-10-26 859（+2）
 
 
 ---

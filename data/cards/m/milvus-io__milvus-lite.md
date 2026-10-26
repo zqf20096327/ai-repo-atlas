@@ -45,13 +45,13 @@ Milvus 的轻量级纯 Python 实现，面向本地开发、notebook、测试与
 
 ```mermaid
 xychart-beta
-    title "milvus-io/milvus-lite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "milvus-io/milvus-lite 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 463 --> 466
-    line [465, 464]
+    line [465, 464, 464]
 ```
 
-2026-10-18 465 → 2026-10-25 464（-1）
+2026-10-18 465 → 2026-10-26 464（-1）
 
 
 ---

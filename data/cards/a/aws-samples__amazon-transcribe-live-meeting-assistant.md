@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/amazon-transcribe-live-meeting-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
     y-axis "stars" 167 --> 170
     line [168, 169, 169]
 ```
 
-2026-10-18 168 → 2026-10-25 169（+1）
+2026-10-18 168 → 2026-10-26 169（+1）
 
 
 ---

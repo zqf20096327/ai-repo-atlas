@@ -46,12 +46,12 @@ PyTorch 库，把 Blender Geometry Nodes 设计的程序化形状模型转译为
 ```mermaid
 xychart-beta
     title "vevenom/pytorchgeonodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-25 53（+0）
+2026-10-18 53 → 2026-10-26 53（+0）
 
 
 ---

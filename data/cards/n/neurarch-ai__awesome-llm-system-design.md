@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neurarch-ai/awesome-llm-system-design 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-25 31（+0）
+2026-10-18 31 → 2026-10-26 32（+1）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/agents-from-scratch-ts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 52 --> 55
+    line [54, 53]
 ```
 
-2026-10-18 54 → 2026-10-25 54（+0）
+2026-10-18 54 → 2026-10-26 53（-1）
 
 
 ---

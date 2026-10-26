@@ -46,12 +46,12 @@ TypeScript 编写的 Obsidian 插件，将 Claude Code CLI 嵌入侧边栏聊天
 ```mermaid
 xychart-beta
     title "KeloYuan/Niki-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-25 56（+0）
+2026-10-18 56 → 2026-10-26 56（+0）
 
 
 ---

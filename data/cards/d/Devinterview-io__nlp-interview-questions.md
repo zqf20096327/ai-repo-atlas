@@ -44,12 +44,12 @@ Devinterview.io 维护的 NLP 面试准备资料库，收录 2026 年 50 道核�
 ```mermaid
 xychart-beta
     title "Devinterview-io/nlp-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 113 --> 115
     line [114, 114]
 ```
 
-2026-10-18 114 → 2026-10-25 114（+0）
+2026-10-18 114 → 2026-10-26 114（+0）
 
 
 ---

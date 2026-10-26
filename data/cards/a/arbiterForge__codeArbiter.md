@@ -44,13 +44,13 @@ codeArbiter 是由仓库持有的治理层，为 Claude Code、Codex CLI 和 Pi 
 
 ```mermaid
 xychart-beta
-    title "arbiterForge/codeArbiter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "arbiterForge/codeArbiter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 147 --> 150
-    line [149, 148]
+    line [149, 148, 149]
 ```
 
-2026-10-18 149 → 2026-10-25 148（-1）
+2026-10-18 149 → 2026-10-26 149（+0）
 
 
 ---

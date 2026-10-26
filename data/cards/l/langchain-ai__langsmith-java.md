@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/langsmith-java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-25 33（+0）
+2026-10-18 33 → 2026-10-26 34（+1）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
     y-axis "stars" 527 --> 530
     line [529, 528, 528]
 ```
 
-2026-10-18 529 → 2026-10-25 528（-1）
+2026-10-18 529 → 2026-10-26 528（-1）
 
 
 ---

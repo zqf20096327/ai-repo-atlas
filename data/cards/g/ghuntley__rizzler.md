@@ -45,12 +45,12 @@ Rust 编写的 Git merge driver：注册为 Git 自定义合并驱动后，在 m
 ```mermaid
 xychart-beta
     title "ghuntley/rizzler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-25 68（+0）
+2026-10-18 68 → 2026-10-26 68（+0）
 
 
 ---

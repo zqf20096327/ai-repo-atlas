@@ -45,13 +45,13 @@ Baidu 与南洋理工作者团队的论文官方实现（ACL 2026 Oral）。SOE 
 
 ```mermaid
 xychart-beta
-    title "dayuwang401/spectral-orthogonal-exploration 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 9 --> 52
-    line [12, 30, 39, 49]
+    title "dayuwang401/spectral-orthogonal-exploration 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 7 --> 69
+    line [12, 30, 39, 49, 64]
 ```
 
-2026-10-19 12 → 2026-10-25 49（+37）
+2026-10-19 12 → 2026-10-26 64（+52）
 
 
 ---

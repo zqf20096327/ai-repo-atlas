@@ -45,12 +45,12 @@ Guia de Ciência de Dados 是面向巴西葡语读者的数据科学学习资源
 ```mermaid
 xychart-beta
     title "arthurspk/guiadecienciadedados 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-25 39（+0）
+2026-10-18 39 → 2026-10-26 39（+0）
 
 
 ---

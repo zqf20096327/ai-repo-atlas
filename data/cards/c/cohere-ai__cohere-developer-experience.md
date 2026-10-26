@@ -45,12 +45,12 @@ Cohere 公司维护的一站式开发者资源仓库：存放 docs.cohere.com �
 ```mermaid
 xychart-beta
     title "cohere-ai/cohere-developer-experience 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 121 --> 123
     line [122, 122]
 ```
 
-2026-10-18 122 → 2026-10-25 122（+0）
+2026-10-18 122 → 2026-10-26 122（+0）
 
 
 ---

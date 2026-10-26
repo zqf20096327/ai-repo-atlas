@@ -47,12 +47,12 @@ CollieAi 提供的 LLM Firewall 是部署在应用与 LLM 提供商之间的透�
 ```mermaid
 xychart-beta
     title "CollieAi/llm-firewall 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-25 47（+0）
+2026-10-18 47 → 2026-10-26 47（+0）
 
 
 ---

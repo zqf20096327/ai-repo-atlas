@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/protnote 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "microsoft/protnote 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 63 --> 66
-    line [64, 65]
+    line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-10-25 65（+1）
+2026-10-18 64 → 2026-10-26 65（+1）
 
 
 ---

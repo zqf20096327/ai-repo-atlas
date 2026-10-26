@@ -46,12 +46,12 @@ Routstr Core 是一个基于 FastAPI 的反向代理，部署在 OpenAI 兼容 A
 ```mermaid
 xychart-beta
     title "Routstr/routstr-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-18 85 → 2026-10-25 85（+0）
+2026-10-18 85 → 2026-10-26 85（+0）
 
 
 ---

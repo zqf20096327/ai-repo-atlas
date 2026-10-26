@@ -46,12 +46,12 @@ alp-data（Animal Language Processing data）为生物声学研究者提供 35+ 
 ```mermaid
 xychart-beta
     title "earthspecies/alp-data 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
     y-axis "stars" 46 --> 49
     line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-10-25 48（+1）
+2026-10-18 47 → 2026-10-26 48（+1）
 
 
 ---

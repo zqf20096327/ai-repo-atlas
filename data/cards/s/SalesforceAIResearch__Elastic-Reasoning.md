@@ -45,12 +45,12 @@ Salesforce AI Research 发布的可伸缩链式推理研究框架：将推理显
 ```mermaid
 xychart-beta
     title "SalesforceAIResearch/Elastic-Reasoning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-25 51（+0）
+2026-10-18 51 → 2026-10-26 51（+0）
 
 
 ---

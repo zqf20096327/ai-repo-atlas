@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fabriziosalmi/UglyFeed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "fabriziosalmi/UglyFeed 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 320 --> 323
-    line [321, 322]
+    line [321, 322, 322]
 ```
 
-2026-10-18 321 → 2026-10-25 322（+1）
+2026-10-18 321 → 2026-10-26 322（+1）
 
 
 ---

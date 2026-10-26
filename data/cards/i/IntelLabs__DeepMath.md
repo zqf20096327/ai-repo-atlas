@@ -46,12 +46,12 @@ Intel Labs 发布的轻量级数学推理 agent 框架：基于 Qwen3-4B Thinkin
 ```mermaid
 xychart-beta
     title "IntelLabs/DeepMath 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-25 52（+0）
+2026-10-18 52 → 2026-10-26 52（+0）
 
 
 ---

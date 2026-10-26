@@ -42,13 +42,13 @@ LlamaDeploy 是 LlamaIndex 团体的项目，用于把 agentic workflows 部署�
 
 ```mermaid
 xychart-beta
-    title "run-llama/llama_deploy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    title "run-llama/llama_deploy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 2065 --> 2069
-    line [2066, 2067, 2068]
+    line [2066, 2067, 2068, 2068]
 ```
 
-2026-10-18 2,066 → 2026-10-25 2,068（+2）
+2026-10-18 2,066 → 2026-10-26 2,068（+2）
 
 
 ---

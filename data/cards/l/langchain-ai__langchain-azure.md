@@ -45,12 +45,12 @@ langchain-ai 组织维护的 Azure 集成仓库，含 7 个包：langchain-azure
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-azure 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 146 --> 148
     line [147, 147]
 ```
 
-2026-10-18 147 → 2026-10-25 147（+0）
+2026-10-18 147 → 2026-10-26 147（+0）
 
 
 ---

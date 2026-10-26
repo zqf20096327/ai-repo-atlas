@@ -46,12 +46,12 @@ OpenAI 官方示例：基于 Go 与 Pion WebRTC 的多人站会应用，多名�
 ```mermaid
 xychart-beta
     title "openai/openai-realtime-meeting-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 272 --> 276
-    line [273, 275, 275]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    y-axis "stars" 272 --> 277
+    line [273, 275, 276]
 ```
 
-2026-10-18 273 → 2026-10-25 275（+2）
+2026-10-18 273 → 2026-10-26 276（+3）
 
 
 ---

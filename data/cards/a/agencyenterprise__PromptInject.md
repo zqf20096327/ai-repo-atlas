@@ -44,13 +44,13 @@ PromptInject 提供以掩码为基础的迭代式对抗提示组装框架，用�
 
 ```mermaid
 xychart-beta
-    title "agencyenterprise/PromptInject 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "agencyenterprise/PromptInject 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 525 --> 529
-    line [528, 527, 526]
+    line [528, 527, 526, 526]
 ```
 
-2026-10-18 528 → 2026-10-25 526（-2）
+2026-10-18 528 → 2026-10-26 526（-2）
 
 
 ---

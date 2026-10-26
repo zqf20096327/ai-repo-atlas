@@ -45,12 +45,12 @@ OneTwo 是 Google DeepMind 开发的 Python 库，面向在构建 LLM 应用与 
 ```mermaid
 xychart-beta
     title "google-deepmind/onetwo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 274 --> 276
-    line [275, 275]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 273 --> 276
+    line [275, 274]
 ```
 
-2026-10-18 275 → 2026-10-25 275（+0）
+2026-10-18 275 → 2026-10-26 274（-1）
 
 
 ---

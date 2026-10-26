@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/alphafold3-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "lucidrains/alphafold3-pytorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 1698 --> 1701
-    line [1699, 1700]
+    line [1699, 1700, 1700]
 ```
 
-2026-10-18 1,699 → 2026-10-25 1,700（+1）
+2026-10-18 1,699 → 2026-10-26 1,700（+1）
 
 
 ---

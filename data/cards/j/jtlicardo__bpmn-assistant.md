@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jtlicardo/bpmn-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 170 --> 173
-    line [171, 172]
+    title "jtlicardo/bpmn-assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 170 --> 175
+    line [171, 172, 174]
 ```
 
-2026-10-18 171 → 2026-10-25 172（+1）
+2026-10-18 171 → 2026-10-26 174（+3）
 
 
 ---

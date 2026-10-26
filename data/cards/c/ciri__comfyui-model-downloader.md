@@ -46,12 +46,12 @@ ComfyUI 的模型下载自定义节点，提供 HF Downloader 与 CivitAI Downlo
 ```mermaid
 xychart-beta
     title "ciri/comfyui-model-downloader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 129 --> 131
     line [130, 130]
 ```
 
-2026-10-18 130 → 2026-10-25 130（+0）
+2026-10-18 130 → 2026-10-26 130（+0）
 
 
 ---

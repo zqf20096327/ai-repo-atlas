@@ -45,12 +45,12 @@ VSCode 扩展，读取代码变更生成符合 Conventional Commits 规范的 Gi
 ```mermaid
 xychart-beta
     title "littleCareless/dish-ai-commit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
     y-axis "stars" 160 --> 163
     line [161, 162, 162]
 ```
 
-2026-10-18 161 → 2026-10-25 162（+1）
+2026-10-18 161 → 2026-10-26 162（+1）
 
 
 ---

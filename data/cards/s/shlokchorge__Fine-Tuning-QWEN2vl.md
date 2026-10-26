@@ -45,12 +45,12 @@ VisionTeX 是在 LaTeX OCR 数据集上用 Unsloth 与 LoRA 微调 Qwen2-VL-7B-I
 ```mermaid
 xychart-beta
     title "shlokchorge/Fine-Tuning-QWEN2vl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-10-25 33（+1）
+2026-10-18 32 → 2026-10-26 33（+1）
 
 
 ---

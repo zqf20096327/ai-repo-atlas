@@ -42,6 +42,18 @@
 > L133: │   ├── mcd_mcp.py      # 零依赖 MCP 客户端：Streamable HTTP + JSON-RPC + SSE 兼容
 > L167: 一是让 Skill 可以脱离任何 AI 客户端独立运行（`python src/cli.py` 即可）；
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yhyxzl/-mcd-chill 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 53 --> 77
+    line [55, 75]
+```
+
+2026-10-25 55 → 2026-10-26 75（+20）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 low · 依据 README sha `ae8df15bd410` · [字段定义](../../DATASET.md)*

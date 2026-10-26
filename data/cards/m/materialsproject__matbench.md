@@ -40,6 +40,18 @@
 > L3: matbench is an ImageNet for materials science; a set of 13 (with more to come!) curated machine learning tasks for b
 > L24: Dunn, A., Wang, Q., Ganose, A., Dopp, D., Jain, A. Benchmarking Materials Property
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "materialsproject/matbench 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 221 --> 223
+    line [222, 222]
+```
+
+2026-10-25 222 → 2026-10-26 222（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `815fb6ea0498` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ aws-samples 维护的示例工程，演示如何用 Amazon SageMaker Pipeline、
 ```mermaid
 xychart-beta
     title "aws-samples/mlops-e2e 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 163 --> 165
     line [164, 164]
 ```
 
-2026-10-18 164 → 2026-10-25 164（+0）
+2026-10-18 164 → 2026-10-26 164（+0）
 
 
 ---

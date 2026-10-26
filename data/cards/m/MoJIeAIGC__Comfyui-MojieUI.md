@@ -46,12 +46,12 @@ Mojie-UI（已更名奇画AI-2.0 beta，原开源版不再维护）是以 ComfyU
 ```mermaid
 xychart-beta
     title "MoJIeAIGC/Comfyui-MojieUI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-25 45（+0）
+2026-10-18 45 → 2026-10-26 45（+0）
 
 
 ---

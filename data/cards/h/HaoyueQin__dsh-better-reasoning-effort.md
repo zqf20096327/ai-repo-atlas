@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HaoyueQin/dsh-better-reasoning-effort 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
+    title "HaoyueQin/dsh-better-reasoning-effort 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 56 --> 66
-    line [57, 63, 64, 65]
+    line [57, 63, 64, 65, 65]
 ```
 
-2026-10-18 57 → 2026-10-25 65（+8）
+2026-10-18 57 → 2026-10-26 65（+8）
 
 
 ---

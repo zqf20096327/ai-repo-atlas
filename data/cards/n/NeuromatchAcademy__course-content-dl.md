@@ -46,12 +46,12 @@ Neuromatch Academy（NMA-DL）深度学习课程的公开内容仓库，覆盖�
 ```mermaid
 xychart-beta
     title "NeuromatchAcademy/course-content-dl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
     y-axis "stars" 816 --> 819
     line [817, 818, 818]
 ```
 
-2026-10-18 817 → 2026-10-25 818（+1）
+2026-10-18 817 → 2026-10-26 818（+1）
 
 
 ---

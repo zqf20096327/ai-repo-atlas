@@ -44,12 +44,12 @@ MagicTailor 是 IJCAI 2025 (Oral) 论文的官方实现，针对文生图扩散�
 ```mermaid
 xychart-beta
     title "Correr-Zhou/MagicTailor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 98 --> 100
     line [99, 99]
 ```
 
-2026-10-18 99 → 2026-10-25 99（+0）
+2026-10-18 99 → 2026-10-26 99（+0）
 
 
 ---

@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "OpenRaiser/awesome-world-model-evolution 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 135 --> 137
     line [136, 136]
 ```
 
-2026-10-18 136 → 2026-10-25 136（+0）
+2026-10-18 136 → 2026-10-26 136（+0）
 
 
 ---

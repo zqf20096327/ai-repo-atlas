@@ -45,12 +45,12 @@ musicinformationretrieval.com 的源码仓库，收录 Jupyter 教学笔记本�
 ```mermaid
 xychart-beta
     title "musicinformationretrieval/musicinformationretrieval.com 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
     y-axis "stars" 1290 --> 1294
     line [1291, 1292, 1293, 1293]
 ```
 
-2026-10-18 1,291 → 2026-10-25 1,293（+2）
+2026-10-18 1,291 → 2026-10-26 1,293（+2）
 
 
 ---

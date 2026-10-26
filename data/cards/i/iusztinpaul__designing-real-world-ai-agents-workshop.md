@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iusztinpaul/designing-real-world-ai-agents-workshop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "iusztinpaul/designing-real-world-ai-agents-workshop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 514 --> 518
-    line [515, 516, 517]
+    line [515, 516, 517, 517]
 ```
 
-2026-10-18 515 → 2026-10-25 517（+2）
+2026-10-18 515 → 2026-10-26 517（+2）
 
 
 ---

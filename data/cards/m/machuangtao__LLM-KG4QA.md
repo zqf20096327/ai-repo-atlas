@@ -46,12 +46,12 @@ EMNLP2025 主会综述《Large Language Models Meet Knowledge Graphs for Questio
 ```mermaid
 xychart-beta
     title "machuangtao/LLM-KG4QA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
     y-axis "stars" 165 --> 168
     line [166, 167, 167]
 ```
 
-2026-10-18 166 → 2026-10-25 167（+1）
+2026-10-18 166 → 2026-10-26 167（+1）
 
 
 ---

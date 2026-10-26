@@ -46,12 +46,12 @@ Argus 是一个由 Manager/Planner/Engineer/Reviewer 四角色分工的多智能
 ```mermaid
 xychart-beta
     title "microsoft/ArgusAgent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
-    y-axis "stars" 139 --> 143
-    line [140, 142, 142]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    y-axis "stars" 139 --> 144
+    line [140, 142, 143]
 ```
 
-2026-10-18 140 → 2026-10-25 142（+2）
+2026-10-18 140 → 2026-10-26 143（+3）
 
 
 ---

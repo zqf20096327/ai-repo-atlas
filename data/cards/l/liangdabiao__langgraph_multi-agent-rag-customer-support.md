@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liangdabiao/langgraph_multi-agent-rag-customer-support 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25"]
+    title "liangdabiao/langgraph_multi-agent-rag-customer-support 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 337 --> 344
-    line [338, 339, 341, 342, 343]
+    line [338, 339, 341, 342, 343, 343]
 ```
 
-2026-10-18 338 → 2026-10-25 343（+5）
+2026-10-18 338 → 2026-10-26 343（+5）
 
 
 ---

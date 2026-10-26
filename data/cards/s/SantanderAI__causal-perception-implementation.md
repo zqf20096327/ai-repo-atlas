@@ -46,12 +46,12 @@ Santander AI Lab 开源、José M. Álvarez 著作的机器学习研究代码，
 ```mermaid
 xychart-beta
     title "SantanderAI/causal-perception-implementation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-25 42（+0）
+2026-10-18 42 → 2026-10-26 42（+0）
 
 
 ---

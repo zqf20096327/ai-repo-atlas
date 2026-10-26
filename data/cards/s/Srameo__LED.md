@@ -45,12 +45,12 @@ ICCV 2023 / NeurIPS 2025 论文的官方实现：LED 是 Calibration-Free（隐�
 ```mermaid
 xychart-beta
     title "Srameo/LED 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 410 --> 412
-    line [411, 411]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 410 --> 413
+    line [411, 412]
 ```
 
-2026-10-18 411 → 2026-10-25 411（+0）
+2026-10-18 411 → 2026-10-26 412（+1）
 
 
 ---

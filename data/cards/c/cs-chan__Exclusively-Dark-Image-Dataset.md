@@ -45,12 +45,12 @@ CVIU2019 论文配套的 Exclusively Dark (ExDark) 数据集，收录 7,363 张�
 ```mermaid
 xychart-beta
     title "cs-chan/Exclusively-Dark-Image-Dataset 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 650 --> 654
-    line [651, 653, 653]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    y-axis "stars" 650 --> 655
+    line [651, 653, 654]
 ```
 
-2026-10-18 651 → 2026-10-25 653（+2）
+2026-10-18 651 → 2026-10-26 654（+3）
 
 
 ---

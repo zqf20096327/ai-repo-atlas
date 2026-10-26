@@ -46,12 +46,12 @@ TypeScript 库，基于官方 ollama 包实现，为 Vercel AI SDK 提供 Ollama
 ```mermaid
 xychart-beta
     title "jagreehal/ai-sdk-ollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 130 --> 132
     line [131, 131]
 ```
 
-2026-10-18 131 → 2026-10-25 131（+0）
+2026-10-18 131 → 2026-10-26 131（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Data Mining 2026 课程小组项目（5 名学生），用 Python 实现三类�
 ```mermaid
 xychart-beta
     title "Taylor3691/mining-beyond-boundaries 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 39 --> 42
+    line [41, 40]
 ```
 
-2026-10-18 41 → 2026-10-25 41（+0）
+2026-10-18 41 → 2026-10-26 40（-1）
 
 
 ---

@@ -45,12 +45,12 @@ Bagz 是一种存储字节记录（通常为序列化 protocol buffer）序列�
 ```mermaid
 xychart-beta
     title "google-deepmind/bagz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-18 70 → 2026-10-25 70（+0）
+2026-10-18 70 → 2026-10-26 70（+0）
 
 
 ---

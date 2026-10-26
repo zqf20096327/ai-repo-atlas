@@ -45,13 +45,13 @@ Atlas Cloud 官方维护的 agent 技能包，供 Claude Code、Codex、Gemini C
 
 ```mermaid
 xychart-beta
-    title "AtlasCloudAI/atlas-cloud-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25"]
+    title "AtlasCloudAI/atlas-cloud-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 37 --> 44
-    line [38, 39, 40, 41, 43]
+    line [38, 39, 40, 41, 43, 43]
 ```
 
-2026-10-18 38 → 2026-10-25 43（+5）
+2026-10-18 38 → 2026-10-26 43（+5）
 
 
 ---

@@ -45,12 +45,12 @@ MICCAI 2025 论文 CENet 的官方 PyTorch 实现，面向医学图像分割研�
 ```mermaid
 xychart-beta
     title "xmindflow/cenet 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-25"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-23", "2026-10-26"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-23 38 → 2026-10-25 38（+0）
+2026-10-23 38 → 2026-10-26 39（+1）
 
 
 ---

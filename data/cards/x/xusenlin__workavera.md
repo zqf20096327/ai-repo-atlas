@@ -41,6 +41,18 @@
 > L22: - **Permission-aware AI tool calling.** Chat can search your context and operate Board, Calendar, Docs, Reading, an
 > L151: - **Board** manages Kanban projects with custom workflow states, labels, members and roles, due dates, task activi
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xusenlin/workavera 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 62 --> 65
+    line [63, 64]
+```
+
+2026-10-25 63 → 2026-10-26 64（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `ab19a383cc27` · [字段定义](../../DATASET.md)*

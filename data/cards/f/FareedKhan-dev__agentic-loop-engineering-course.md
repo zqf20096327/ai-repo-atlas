@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/agentic-loop-engineering-course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    title "FareedKhan-dev/agentic-loop-engineering-course 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 58 --> 62
-    line [59, 60, 61]
+    line [59, 60, 61, 61]
 ```
 
-2026-10-18 59 → 2026-10-25 61（+2）
+2026-10-18 59 → 2026-10-26 61（+2）
 
 
 ---

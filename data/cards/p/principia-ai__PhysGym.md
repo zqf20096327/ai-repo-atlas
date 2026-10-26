@@ -45,12 +45,12 @@ NeurIPS 2025 Datasets and Benchmarks Track 收录的基准套件：提供 97 个
 ```mermaid
 xychart-beta
     title "principia-ai/PhysGym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-18 101 → 2026-10-25 101（+0）
+2026-10-18 101 → 2026-10-26 101（+0）
 
 
 ---

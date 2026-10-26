@@ -44,13 +44,13 @@ EEGMamba 是基于 Mamba 状态空间模型的脑电（EEG）基础模型，用�
 
 ```mermaid
 xychart-beta
-    title "wjq-learning/EEGMamba 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "wjq-learning/EEGMamba 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 99 --> 102
-    line [100, 101]
+    line [100, 101, 101]
 ```
 
-2026-10-18 100 → 2026-10-25 101（+1）
+2026-10-18 100 → 2026-10-26 101（+1）
 
 
 ---

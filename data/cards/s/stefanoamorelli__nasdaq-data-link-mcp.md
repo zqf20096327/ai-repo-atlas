@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stefanoamorelli/nasdaq-data-link-mcp 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-19", "2026-10-26"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-19 68 → 2026-10-25 68（+0）
+2026-10-19 68 → 2026-10-26 68（+0）
 
 
 ---

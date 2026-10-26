@@ -45,12 +45,12 @@ Active-Monitor 是一个 Kubernetes 自定义资源控制器，以 HealthCheck C
 ```mermaid
 xychart-beta
     title "keikoproj/active-monitor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 187 --> 189
     line [188, 188]
 ```
 
-2026-10-18 188 → 2026-10-25 188（+0）
+2026-10-18 188 → 2026-10-26 188（+0）
 
 
 ---

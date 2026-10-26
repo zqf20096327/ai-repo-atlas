@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "whitecircle/circle-guard-bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 80 --> 83
+    line [82, 81]
 ```
 
-2026-10-18 82 → 2026-10-25 82（+0）
+2026-10-18 82 → 2026-10-26 81（-1）
 
 
 ---

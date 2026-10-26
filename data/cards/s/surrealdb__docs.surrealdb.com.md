@@ -45,12 +45,12 @@ SurrealDB 数据库的官方文档网站源码，基于 Vike、React 与 Mantine
 ```mermaid
 xychart-beta
     title "surrealdb/docs.surrealdb.com 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 120 --> 122
     line [121, 121]
 ```
 
-2026-10-18 121 → 2026-10-25 121（+0）
+2026-10-18 121 → 2026-10-26 121（+0）
 
 
 ---

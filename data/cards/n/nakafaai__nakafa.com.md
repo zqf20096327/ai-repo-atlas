@@ -46,12 +46,12 @@ Nakafa 是生产站点 nakafa.com 的源码仓库，包含 React/Next.js 应用�
 ```mermaid
 xychart-beta
     title "nakafaai/nakafa.com 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-25 79（+0）
+2026-10-18 79 → 2026-10-26 79（+0）
 
 
 ---

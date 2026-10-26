@@ -41,6 +41,18 @@
 > L7:  一个面向全网研究与复杂数据分析的云端智能体，能在公开网络、YouTube、BiliBili、X、小红书、Hacker News上研究任何主题
 > L216: - **DeepResearch公域信息检索**：查询拆解、多轮 `extend/search/report` 阶段、并发检索、正文抓取、去重、摘要和 SSE 流式进度，支持 DuckDuckGo、Exa、Tavily、Brav
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "OWWZO/cute-agent 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 205 --> 208
+    line [206, 207]
+```
+
+2026-10-25 206 → 2026-10-26 207（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `781ce07042e9` · [字段定义](../../DATASET.md)*

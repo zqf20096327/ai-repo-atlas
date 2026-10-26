@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaixianggeng/mimi-remote 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 104 --> 107
-    line [105, 106]
+    title "gaixianggeng/mimi-remote 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 104 --> 108
+    line [105, 106, 107]
 ```
 
-2026-10-18 105 → 2026-10-25 106（+1）
+2026-10-18 105 → 2026-10-26 107（+2）
 
 
 ---

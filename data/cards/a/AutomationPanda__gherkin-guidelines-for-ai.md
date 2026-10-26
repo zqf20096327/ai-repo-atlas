@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AutomationPanda/gherkin-guidelines-for-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
+    title "AutomationPanda/gherkin-guidelines-for-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
     y-axis "stars" 56 --> 61
-    line [57, 58, 59, 60]
+    line [57, 58, 59, 60, 60]
 ```
 
-2026-10-18 57 → 2026-10-25 60（+3）
+2026-10-18 57 → 2026-10-26 60（+3）
 
 
 ---

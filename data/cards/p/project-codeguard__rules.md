@@ -42,12 +42,12 @@ Project CodeGuard 是模型无关的安全框架与规则集，将默认安全�
 ```mermaid
 xychart-beta
     title "project-codeguard/rules 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 424 --> 426
-    line [425, 425]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 424 --> 427
+    line [425, 426]
 ```
 
-2026-10-18 425 → 2026-10-25 425（+0）
+2026-10-18 425 → 2026-10-26 426（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Halcyonsong/liteagent-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    title "Halcyonsong/liteagent-template 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 50 --> 53
-    line [51, 52, 51]
+    line [51, 52, 51, 51]
 ```
 
-2026-10-18 51 → 2026-10-25 51（+0）
+2026-10-18 51 → 2026-10-26 51（+0）
 
 
 ---

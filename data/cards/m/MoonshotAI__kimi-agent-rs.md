@@ -45,13 +45,13 @@ MoonshotAI 维护的 Rust 工作区，实现 Kimi Code CLI 的 Wire 模式兼容
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/kimi-agent-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 72 --> 75
-    line [73, 74]
+    title "MoonshotAI/kimi-agent-rs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 72 --> 76
+    line [73, 74, 75]
 ```
 
-2026-10-18 73 → 2026-10-25 74（+1）
+2026-10-18 73 → 2026-10-26 75（+2）
 
 
 ---

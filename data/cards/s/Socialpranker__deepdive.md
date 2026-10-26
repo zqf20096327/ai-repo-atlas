@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Socialpranker/deepdive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "Socialpranker/deepdive 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 367 --> 374
-    line [373, 368]
+    line [373, 368, 368]
 ```
 
-2026-10-18 373 → 2026-10-25 368（-5）
+2026-10-18 373 → 2026-10-26 368（-5）
 
 
 ---

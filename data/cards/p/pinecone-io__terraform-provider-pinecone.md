@@ -46,12 +46,12 @@ Pinecone 官方维护的 Terraform Provider 插件，用 Go 编写，允许通�
 ```mermaid
 xychart-beta
     title "pinecone-io/terraform-provider-pinecone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-25 32（+0）
+2026-10-18 32 → 2026-10-26 32（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "slavabars/decision-cascade 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "slavabars/decision-cascade 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 0 --> 88
-    line [3, 81, 77]
+    line [3, 81, 77, 77]
 ```
 
-2026-10-18 3 → 2026-10-25 77（+74）
+2026-10-18 3 → 2026-10-26 77（+74）
 
 
 ---

@@ -45,12 +45,12 @@ Anthropic 官方维护的 Ruby 客户端库，通过 Gemfile 以 gem 'anthropic'
 ```mermaid
 xychart-beta
     title "anthropics/anthropic-sdk-ruby 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
     y-axis "stars" 373 --> 377
     line [374, 376, 376]
 ```
 
-2026-10-18 374 → 2026-10-25 376（+2）
+2026-10-18 374 → 2026-10-26 376（+2）
 
 
 ---

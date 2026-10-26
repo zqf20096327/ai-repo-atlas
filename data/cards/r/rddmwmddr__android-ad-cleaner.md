@@ -41,6 +41,18 @@
 > L59: |**一：AI 智能体替你跑**|有电脑，想省事|电脑、数据线、一个能执行命令的 AI 工具|docs/02-用AI智能体.md|
 > L60: |**二：聊天 AI 带你点**|只有手机|DeepSeek、豆包、ChatGPT 任意一个|docs/03-用聊天AI.md|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rddmwmddr/android-ad-cleaner 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 79 --> 724
+    line [132, 671]
+```
+
+2026-10-25 132 → 2026-10-26 671（+539）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `fef608deaf2c` · [字段定义](../../DATASET.md)*

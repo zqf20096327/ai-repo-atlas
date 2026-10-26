@@ -45,13 +45,13 @@ OpenMed Agent 是运行在终端的临床工作流 agent，供临床医生、医
 
 ```mermaid
 xychart-beta
-    title "openmed-labs/openmed-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "openmed-labs/openmed-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 33 --> 36
-    line [34, 35, 34]
+    line [34, 35, 34, 34]
 ```
 
-2026-10-18 34 → 2026-10-25 34（+0）
+2026-10-18 34 → 2026-10-26 34（+0）
 
 
 ---

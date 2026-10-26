@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Maximilian-Winter/llama-cpp-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 658 --> 660
-    line [659, 659]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 658 --> 661
+    line [659, 660]
 ```
 
-2026-10-18 659 → 2026-10-25 659（+0）
+2026-10-18 659 → 2026-10-26 660（+1）
 
 
 ---

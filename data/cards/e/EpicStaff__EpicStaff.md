@@ -45,13 +45,13 @@ EpicStaff 是一个源码可用的自托管 AI Agent 编排平台：基于节点
 
 ```mermaid
 xychart-beta
-    title "EpicStaff/EpicStaff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "EpicStaff/EpicStaff 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 357 --> 360
-    line [359, 358]
+    line [359, 358, 358]
 ```
 
-2026-10-18 359 → 2026-10-25 358（-1）
+2026-10-18 359 → 2026-10-26 358（-1）
 
 
 ---

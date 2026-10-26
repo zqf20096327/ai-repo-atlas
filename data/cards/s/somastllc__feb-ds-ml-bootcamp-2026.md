@@ -43,13 +43,13 @@ Goobo Labs 主办的一个月数据科学与机器学习训练营的课程资料
 
 ```mermaid
 xychart-beta
-    title "somastllc/feb-ds-ml-bootcamp-2026 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "somastllc/feb-ds-ml-bootcamp-2026 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 97 --> 100
-    line [98, 99]
+    line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-10-25 99（+1）
+2026-10-18 98 → 2026-10-26 99（+1）
 
 
 ---

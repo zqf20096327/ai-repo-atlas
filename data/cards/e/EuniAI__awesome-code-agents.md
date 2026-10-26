@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EuniAI/awesome-code-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "EuniAI/awesome-code-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 165 --> 169
-    line [166, 168]
+    line [166, 168, 168]
 ```
 
-2026-10-18 166 → 2026-10-25 168（+2）
+2026-10-18 166 → 2026-10-26 168（+2）
 
 
 ---

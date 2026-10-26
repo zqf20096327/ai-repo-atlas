@@ -40,6 +40,18 @@
 > L5: 小説や文章の原作から、脚本・ネーム・画像生成・文字入れ・検品・PDF出力までをCodexと進める漫画制作ツールです。
 > L51: Claude Code向け導入・制作手順とComfyUI構築手順を用意しています。画像生成は外部ComfyUI、視覚確認と独立レビューはClaude Code、組版・PDF・履歴・再現は共通CLIが担当します。GPU環境は別途必要
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "stockedge/manga-generator 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 71 --> 100
+    line [73, 98]
+```
+
+2026-10-25 73 → 2026-10-26 98（+25）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `e9c01c4d4a34` · [字段定义](../../DATASET.md)*

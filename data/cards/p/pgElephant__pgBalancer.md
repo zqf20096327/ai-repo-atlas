@@ -45,12 +45,12 @@ pgpool-II 的分支，面向 PostgreSQL 13-18 提供连接池、负载均衡、�
 ```mermaid
 xychart-beta
     title "pgElephant/pgBalancer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-25 32（+0）
+2026-10-18 32 → 2026-10-26 32（+0）
 
 
 ---

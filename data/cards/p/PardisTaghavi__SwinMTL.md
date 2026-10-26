@@ -45,12 +45,12 @@ IROS 2024 论文的官方代码库：基于 Swin Transformer 的共享架构多�
 ```mermaid
 xychart-beta
     title "PardisTaghavi/SwinMTL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-25 49（+0）
+2026-10-18 49 → 2026-10-26 49（+0）
 
 
 ---

@@ -45,13 +45,13 @@ CAGE 是一个不含内置应用的控制中间件与治理基底：在线侧通
 
 ```mermaid
 xychart-beta
-    title "google/cybernetic-agent-governance-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "google/cybernetic-agent-governance-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 36 --> 39
-    line [37, 38]
+    line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-10-25 38（+1）
+2026-10-18 37 → 2026-10-26 38（+1）
 
 
 ---

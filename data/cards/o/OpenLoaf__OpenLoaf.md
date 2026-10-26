@@ -45,13 +45,13 @@ OpenLoaf 是以项目为独立工作区的本地优先 AI 桌面应用（Electro
 
 ```mermaid
 xychart-beta
-    title "OpenLoaf/OpenLoaf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 109 --> 112
-    line [110, 111]
+    title "OpenLoaf/OpenLoaf 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 109 --> 113
+    line [110, 111, 112]
 ```
 
-2026-10-18 110 → 2026-10-25 111（+1）
+2026-10-18 110 → 2026-10-26 112（+2）
 
 
 ---

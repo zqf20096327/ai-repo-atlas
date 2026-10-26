@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "atharvnaik1/ipaship-audit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "atharvnaik1/ipaship-audit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 103 --> 109
-    line [108, 104]
+    line [108, 104, 104]
 ```
 
-2026-10-18 108 → 2026-10-25 104（-4）
+2026-10-18 108 → 2026-10-26 104（-4）
 
 
 ---

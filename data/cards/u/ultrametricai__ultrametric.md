@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ultrametricai/ultrametric 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 46 --> 55
-    line [47, 54]
+    title "ultrametricai/ultrametric 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 46 --> 57
+    line [47, 54, 56]
 ```
 
-2026-10-24 47 → 2026-10-25 54（+7）
+2026-10-24 47 → 2026-10-26 56（+9）
 
 
 ---

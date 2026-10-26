@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "StartLuxLabs/StartLux-Prism 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 54 --> 63
-    line [55, 62]
+    title "StartLuxLabs/StartLux-Prism 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 54 --> 71
+    line [55, 62, 70]
 ```
 
-2026-10-24 55 → 2026-10-25 62（+7）
+2026-10-24 55 → 2026-10-26 70（+15）
 
 
 ---

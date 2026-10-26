@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NativeMindBrowser/NativeMindExtension 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 1131 --> 1135
-    line [1133, 1132, 1134]
+    title "NativeMindBrowser/NativeMindExtension 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 1131 --> 1136
+    line [1133, 1132, 1134, 1135]
 ```
 
-2026-10-18 1,133 → 2026-10-25 1,134（+1）
+2026-10-18 1,133 → 2026-10-26 1,135（+2）
 
 
 ---

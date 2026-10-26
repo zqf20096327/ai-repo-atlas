@@ -44,13 +44,13 @@ InditexTech 维护的 Python 库，围绕 AI agent 的输入输出构建安全�
 
 ```mermaid
 xychart-beta
-    title "InditexTech/cerbia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "InditexTech/cerbia 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 29 --> 34
-    line [30, 32, 33]
+    line [30, 32, 33, 33]
 ```
 
-2026-10-18 30 → 2026-10-25 33（+3）
+2026-10-18 30 → 2026-10-26 33（+3）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joshpocock/Stride-AI-Agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "joshpocock/Stride-AI-Agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 362 --> 365
-    line [364, 363]
+    line [364, 363, 363]
 ```
 
-2026-10-18 364 → 2026-10-25 363（-1）
+2026-10-18 364 → 2026-10-26 363（-1）
 
 
 ---

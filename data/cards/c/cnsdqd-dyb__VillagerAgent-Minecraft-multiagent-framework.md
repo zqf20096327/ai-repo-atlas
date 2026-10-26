@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
+    title "cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 186 --> 189
-    line [188, 187, 188, 187]
+    line [188, 187, 188, 187, 187]
 ```
 
-2026-10-18 188 → 2026-10-25 187（-1）
+2026-10-18 188 → 2026-10-26 187（-1）
 
 
 ---

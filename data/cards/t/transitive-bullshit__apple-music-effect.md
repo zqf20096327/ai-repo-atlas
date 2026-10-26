@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "transitive-bullshit/apple-music-effect 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 27 --> 40
-    line [28, 39]
+    title "transitive-bullshit/apple-music-effect 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 27 --> 43
+    line [28, 39, 42]
 ```
 
-2026-10-24 28 → 2026-10-25 39（+11）
+2026-10-24 28 → 2026-10-26 42（+14）
 
 
 ---

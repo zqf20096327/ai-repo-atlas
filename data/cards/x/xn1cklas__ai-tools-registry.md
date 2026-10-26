@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "xn1cklas/ai-tools-registry 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "xn1cklas/ai-tools-registry 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 205 --> 208
-    line [207, 206]
+    line [207, 206, 206]
 ```
 
-2026-10-18 207 → 2026-10-25 206（-1）
+2026-10-18 207 → 2026-10-26 206（-1）
 
 
 ---

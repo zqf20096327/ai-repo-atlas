@@ -45,12 +45,12 @@ Corterm 是由 Gateway、Worker、Console 三部分组成的远程终端平台�
 ```mermaid
 xychart-beta
     title "monster-echo/CortexTerminal2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-25 35（+0）
+2026-10-18 35 → 2026-10-26 35（+0）
 
 
 ---

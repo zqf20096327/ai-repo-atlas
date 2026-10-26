@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fashn-AI/fashn-human-parser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "fashn-AI/fashn-human-parser 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 58 --> 61
-    line [59, 60]
+    line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-10-25 60（+1）
+2026-10-18 59 → 2026-10-26 60（+1）
 
 
 ---

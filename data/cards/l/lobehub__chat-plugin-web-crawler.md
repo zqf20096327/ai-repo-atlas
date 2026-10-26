@@ -43,12 +43,12 @@ LobeChat 的 Function Calling 插件，接收指定 URL，抓取该网页的主�
 ```mermaid
 xychart-beta
     title "lobehub/chat-plugin-web-crawler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-25 66（+0）
+2026-10-18 66 → 2026-10-26 66（+0）
 
 
 ---

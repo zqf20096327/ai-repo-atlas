@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wrab12/awesome-spatial-transcriptomics 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
+    title "wrab12/awesome-spatial-transcriptomics 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 47 --> 54
-    line [48, 50, 52, 53]
+    line [48, 50, 52, 53, 53]
 ```
 
-2026-10-18 48 → 2026-10-25 53（+5）
+2026-10-18 48 → 2026-10-26 53（+5）
 
 
 ---

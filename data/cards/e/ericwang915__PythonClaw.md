@@ -46,12 +46,12 @@ OpenClaw 的 Python 重实现：无 Node.js/Rust/C 扩展，pip 安装后以 CLI
 ```mermaid
 xychart-beta
     title "ericwang915/PythonClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 47]
 ```
 
-2026-10-18 45 → 2026-10-25 46（+1）
+2026-10-18 45 → 2026-10-26 47（+2）
 
 
 ---

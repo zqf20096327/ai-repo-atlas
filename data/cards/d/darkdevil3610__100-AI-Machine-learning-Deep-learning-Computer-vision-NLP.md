@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 423 --> 428
-    line [424, 425, 426, 427]
+    title "darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 423 --> 430
+    line [424, 425, 426, 427, 429]
 ```
 
-2026-10-18 424 → 2026-10-25 427（+3）
+2026-10-18 424 → 2026-10-26 429（+5）
 
 
 ---

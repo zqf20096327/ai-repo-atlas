@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AetherAI3/Unlimited-Context-LLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "AetherAI3/Unlimited-Context-LLM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 46 --> 49
-    line [47, 48]
+    line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-10-25 48（+1）
+2026-10-18 47 → 2026-10-26 48（+1）
 
 
 ---

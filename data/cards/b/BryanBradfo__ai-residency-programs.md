@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "BryanBradfo/ai-residency-programs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 31 --> 34
-    line [32, 33]
+    title "BryanBradfo/ai-residency-programs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-18 32 → 2026-10-25 33（+1）
+2026-10-18 32 → 2026-10-26 34（+2）
 
 
 ---

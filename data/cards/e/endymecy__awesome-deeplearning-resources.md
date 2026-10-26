@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "endymecy/awesome-deeplearning-resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 3029 --> 3031
-    line [3030, 3030]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 3028 --> 3031
+    line [3030, 3029]
 ```
 
-2026-10-18 3,030 → 2026-10-25 3,030（+0）
+2026-10-18 3,030 → 2026-10-26 3,029（-1）
 
 
 ---

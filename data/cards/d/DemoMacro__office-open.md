@@ -45,12 +45,12 @@ TypeScript/JavaScript 库集合，从纯 JSON 或全类型 API 生成 Word/Excel
 ```mermaid
 xychart-beta
     title "DemoMacro/office-open 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-25 38（+0）
+2026-10-18 38 → 2026-10-26 38（+0）
 
 
 ---

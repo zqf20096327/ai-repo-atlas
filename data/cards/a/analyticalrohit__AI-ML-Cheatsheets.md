@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "analyticalrohit/AI-ML-Cheatsheets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 1007 --> 1010
-    line [1008, 1009]
+    title "analyticalrohit/AI-ML-Cheatsheets 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 1007 --> 1011
+    line [1008, 1009, 1010]
 ```
 
-2026-10-18 1,008 → 2026-10-25 1,009（+1）
+2026-10-18 1,008 → 2026-10-26 1,010（+2）
 
 
 ---

@@ -42,6 +42,18 @@ Triptych OS (Agent OS) 的开源集成与治理入口：为已有 agent/框架�
 > L91: Keep the existing framework or runtime. Start with Harness Core for policy decisions, approvals, lifecycle evidence
 > L94: LangGraph       ─┐
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Agoragentic/agoragentic-integrations 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-10-25 41 → 2026-10-26 41（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `14854412dd7b` · [字段定义](../../DATASET.md)*

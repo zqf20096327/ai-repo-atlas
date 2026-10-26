@@ -45,12 +45,12 @@ Dynatrace 官方维护的示例仓库，演示如何为 AI agent 与 LLM SDK 埋
 ```mermaid
 xychart-beta
     title "dynatrace-oss/dynatrace-ai-agent-instrumentation-examples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
     y-axis "stars" 89 --> 92
     line [90, 91, 91]
 ```
 
-2026-10-18 90 → 2026-10-25 91（+1）
+2026-10-18 90 → 2026-10-26 91（+1）
 
 
 ---

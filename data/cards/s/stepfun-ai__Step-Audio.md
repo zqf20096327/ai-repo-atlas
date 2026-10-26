@@ -44,13 +44,13 @@ Step-Audio 是面向智能语音交互的模型框架，基于 130B 参数 LLM�
 
 ```mermaid
 xychart-beta
-    title "stepfun-ai/Step-Audio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "stepfun-ai/Step-Audio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 42 --> 45
-    line [43, 44]
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-10-25 44（+1）
+2026-10-18 43 → 2026-10-26 44（+1）
 
 
 ---

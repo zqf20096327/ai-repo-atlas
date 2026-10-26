@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "webfuse-com/awesome-webmcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "webfuse-com/awesome-webmcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 173 --> 176
-    line [175, 174]
+    line [175, 174, 174]
 ```
 
-2026-10-18 175 → 2026-10-25 174（-1）
+2026-10-18 175 → 2026-10-26 174（-1）
 
 
 ---

@@ -46,12 +46,12 @@ ICML 2026 FAGEN workshop 论文配套仓库：给定失败轨迹，恢复已保�
 ```mermaid
 xychart-beta
     title "DaoyuanLi2816/delta-mfp-local-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-25 51（+0）
+2026-10-18 51 → 2026-10-26 51（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SCIR-HI/Huatuo-Llama-Med-Chinese 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "SCIR-HI/Huatuo-Llama-Med-Chinese 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 5000 --> 5004
-    line [5001, 5003]
+    line [5001, 5003, 5003]
 ```
 
-2026-10-18 5,001 → 2026-10-25 5,003（+2）
+2026-10-18 5,001 → 2026-10-26 5,003（+2）
 
 
 ---

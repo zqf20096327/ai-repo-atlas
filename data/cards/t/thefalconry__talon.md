@@ -46,13 +46,13 @@ Talon 是自托管的 Node.js/TypeScript agentic AI harness，将一个 agent �
 
 ```mermaid
 xychart-beta
-    title "thefalconry/talon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "thefalconry/talon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 73 --> 80
-    line [79, 74]
+    line [79, 74, 74]
 ```
 
-2026-10-18 79 → 2026-10-25 74（-5）
+2026-10-18 79 → 2026-10-26 74（-5）
 
 
 ---

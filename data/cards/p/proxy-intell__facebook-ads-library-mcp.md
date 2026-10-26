@@ -44,13 +44,13 @@ Model Context Protocol 服务器，连接 Claude Desktop、Cursor、ChatGPT 等 
 
 ```mermaid
 xychart-beta
-    title "proxy-intell/facebook-ads-library-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
+    title "proxy-intell/facebook-ads-library-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 314 --> 319
-    line [315, 316, 317, 318]
+    line [315, 316, 317, 318, 318]
 ```
 
-2026-10-18 315 → 2026-10-25 318（+3）
+2026-10-18 315 → 2026-10-26 318（+3）
 
 
 ---

@@ -45,12 +45,12 @@ DeepSeek Harness 的 profile bundle：在 llm-pi-ai 上声明单条 agentrouter 
 ```mermaid
 xychart-beta
     title "aqiu817/dsh-llm-agentrouter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
     y-axis "stars" 31 --> 36
     line [32, 34, 35, 35]
 ```
 
-2026-10-18 32 → 2026-10-25 35（+3）
+2026-10-18 32 → 2026-10-26 35（+3）
 
 
 ---

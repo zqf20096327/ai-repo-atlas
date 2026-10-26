@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChetanXpro/nodejs-whisper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "ChetanXpro/nodejs-whisper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 211 --> 214
-    line [212, 213]
+    line [212, 213, 213]
 ```
 
-2026-10-18 212 → 2026-10-25 213（+1）
+2026-10-18 212 → 2026-10-26 213（+1）
 
 
 ---

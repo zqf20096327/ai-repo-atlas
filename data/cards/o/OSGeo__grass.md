@@ -46,12 +46,12 @@ GRASS（Geographic Resources Analysis Support System）是 OSGeo 托管、GPL �
 ```mermaid
 xychart-beta
     title "OSGeo/grass 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
-    y-axis "stars" 1178 --> 1181
-    line [1179, 1180, 1180]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    y-axis "stars" 1178 --> 1183
+    line [1179, 1180, 1182]
 ```
 
-2026-10-18 1,179 → 2026-10-25 1,180（+1）
+2026-10-18 1,179 → 2026-10-26 1,182（+3）
 
 
 ---

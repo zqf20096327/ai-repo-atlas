@@ -45,12 +45,12 @@ Typed async Rust 客户端库，封装 Anthropic Messages API：结构化请求�
 ```mermaid
 xychart-beta
     title "AbdelStark/anthropic-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 80 --> 83
+    line [81, 82]
 ```
 
-2026-10-18 81 → 2026-10-25 81（+0）
+2026-10-18 81 → 2026-10-26 82（+1）
 
 
 ---

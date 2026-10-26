@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/multi-agent-reference-architecture 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25"]
+    title "microsoft/multi-agent-reference-architecture 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
     y-axis "stars" 242 --> 248
-    line [243, 244, 246, 247]
+    line [243, 244, 246, 247, 247]
 ```
 
-2026-10-18 243 → 2026-10-25 247（+4）
+2026-10-18 243 → 2026-10-26 247（+4）
 
 
 ---

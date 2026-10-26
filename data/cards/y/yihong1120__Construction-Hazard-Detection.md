@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yihong1120/Construction-Hazard-Detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 347 --> 349
     line [348, 348]
 ```
 
-2026-10-18 348 → 2026-10-25 348（+0）
+2026-10-18 348 → 2026-10-26 348（+0）
 
 
 ---

@@ -45,12 +45,12 @@ skorch 是一个 Python 库，将 PyTorch 模块包装为 scikit-learn 风格的
 ```mermaid
 xychart-beta
     title "skorch-dev/skorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 6182 --> 6184
-    line [6183, 6183]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 6182 --> 6185
+    line [6183, 6184]
 ```
 
-2026-10-18 6,183 → 2026-10-25 6,183（+0）
+2026-10-18 6,183 → 2026-10-26 6,184（+1）
 
 
 ---

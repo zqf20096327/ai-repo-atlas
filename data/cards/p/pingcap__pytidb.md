@@ -45,12 +45,12 @@ PingCAP 维护的 Python SDK，封装 TiDB 作为 AI 应用与 Agent 的统一�
 ```mermaid
 xychart-beta
     title "pingcap/pytidb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-25 33（+0）
+2026-10-18 33 → 2026-10-26 33（+0）
 
 
 ---

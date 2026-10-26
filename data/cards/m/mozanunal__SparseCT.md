@@ -41,6 +41,18 @@ CT 重建算法研究框架，提出自监督方法 Proj2Proj：在 4x4 网格�
 > L18: Proj2Proj perturbs a subset of sinogram pixels on a 4 x 4 grid, reconstructs the
 > L19: masked projections with filtered backprojection (FBP), denoises the image with a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mozanunal/SparseCT 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 54 --> 56
+    line [55, 55]
+```
+
+2026-10-25 55 → 2026-10-26 55（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `887a76d9f920` · [字段定义](../../DATASET.md)*

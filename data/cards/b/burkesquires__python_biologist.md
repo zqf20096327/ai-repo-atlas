@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "burkesquires/python_biologist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "burkesquires/python_biologist 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 155 --> 158
-    line [156, 157]
+    line [156, 157, 157]
 ```
 
-2026-10-18 156 → 2026-10-25 157（+1）
+2026-10-18 156 → 2026-10-26 157（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Rust 编写的终端 AI 编程代理：任务由 Orchestrator/Writer/Researcher 
 ```mermaid
 xychart-beta
     title "enowdev/enowxcli 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-25"]
+    x-axis ["2026-10-22", "2026-10-26"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-22 68 → 2026-10-25 68（+0）
+2026-10-22 68 → 2026-10-26 68（+0）
 
 
 ---

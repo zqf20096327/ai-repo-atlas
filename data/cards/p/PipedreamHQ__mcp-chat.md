@@ -45,13 +45,13 @@ Pipedream 构建的开源聊天应用示例，基于 Vercel AI SDK 与 Pipedream
 
 ```mermaid
 xychart-beta
-    title "PipedreamHQ/mcp-chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "PipedreamHQ/mcp-chat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 191 --> 194
-    line [192, 193, 192]
+    line [192, 193, 192, 192]
 ```
 
-2026-10-18 192 → 2026-10-25 192（+0）
+2026-10-18 192 → 2026-10-26 192（+0）
 
 
 ---

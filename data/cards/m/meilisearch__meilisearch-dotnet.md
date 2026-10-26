@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "meilisearch/meilisearch-dotnet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "meilisearch/meilisearch-dotnet 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 344 --> 348
-    line [345, 346, 347]
+    line [345, 346, 347, 347]
 ```
 
-2026-10-18 345 → 2026-10-25 347（+2）
+2026-10-18 345 → 2026-10-26 347（+2）
 
 
 ---

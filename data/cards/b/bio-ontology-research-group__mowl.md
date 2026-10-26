@@ -45,12 +45,12 @@ mOWL 是 Python 机器学习库，将本体（ontologies）作为背景知识用
 ```mermaid
 xychart-beta
     title "bio-ontology-research-group/mowl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-10-25 97（+0）
+2026-10-18 97 → 2026-10-26 97（+0）
 
 
 ---

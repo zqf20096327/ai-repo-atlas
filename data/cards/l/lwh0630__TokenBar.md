@@ -40,6 +40,18 @@
 > L6: An open-source, cross-platform monitor for AI usage limits, balances and reset times.
 > L22: - **See everything in one place.** Codex, Claude, Cursor, OpenRouter, DeepSeek, z.ai and 44 more: remaining quota, 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lwh0630/TokenBar 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 9 --> 41
+    line [11, 39]
+```
+
+2026-10-25 11 → 2026-10-26 39（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 mid · 依据 README sha `15be848ab5f3` · [字段定义](../../DATASET.md)*

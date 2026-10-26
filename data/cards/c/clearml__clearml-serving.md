@@ -48,12 +48,12 @@ clearml-serving 是 ClearML 提供的命令行模型部署与编排工具，将�
 ```mermaid
 xychart-beta
     title "clearml/clearml-serving 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 169 --> 171
     line [170, 170]
 ```
 
-2026-10-18 170 → 2026-10-25 170（+0）
+2026-10-18 170 → 2026-10-26 170（+0）
 
 
 ---

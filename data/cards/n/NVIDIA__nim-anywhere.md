@@ -45,13 +45,13 @@ NVIDIA 官方维护的 Gen AI 项目模板（Clone Me），配合 NVIDIA AI Work
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/nim-anywhere 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "NVIDIA/nim-anywhere 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 282 --> 285
-    line [283, 284, 283]
+    line [283, 284, 283, 283]
 ```
 
-2026-10-18 283 → 2026-10-25 283（+0）
+2026-10-18 283 → 2026-10-26 283（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MisterBooo/llm-interview-questions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 70 --> 75
-    line [71, 72, 73, 74]
+    title "MisterBooo/llm-interview-questions 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 70 --> 78
+    line [71, 72, 73, 74, 77]
 ```
 
-2026-10-18 71 → 2026-10-25 74（+3）
+2026-10-18 71 → 2026-10-26 77（+6）
 
 
 ---

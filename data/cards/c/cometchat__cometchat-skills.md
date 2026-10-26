@@ -44,13 +44,13 @@ CometChat 官方发布的 agent skills 包（npm 包 @cometchat/skills v5）：�
 
 ```mermaid
 xychart-beta
-    title "cometchat/cometchat-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 148 --> 155
-    line [149, 150, 152, 154]
+    title "cometchat/cometchat-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 148 --> 156
+    line [149, 150, 152, 154, 155]
 ```
 
-2026-10-18 149 → 2026-10-25 154（+5）
+2026-10-18 149 → 2026-10-26 155（+6）
 
 
 ---

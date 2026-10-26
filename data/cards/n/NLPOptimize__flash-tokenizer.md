@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NLPOptimize/flash-tokenizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "NLPOptimize/flash-tokenizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 456 --> 459
-    line [458, 457]
+    line [458, 457, 457]
 ```
 
-2026-10-18 458 → 2026-10-25 457（-1）
+2026-10-18 458 → 2026-10-26 457（-1）
 
 
 ---

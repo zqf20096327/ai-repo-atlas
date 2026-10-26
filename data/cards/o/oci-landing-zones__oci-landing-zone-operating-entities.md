@@ -46,12 +46,12 @@ Oracle 维护的 OCI 落地区（Landing Zone）开源资产库，面向客户�
 ```mermaid
 xychart-beta
     title "oci-landing-zones/oci-landing-zone-operating-entities 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-19", "2026-10-26"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-19 67 → 2026-10-25 67（+0）
+2026-10-19 67 → 2026-10-26 67（+0）
 
 
 ---

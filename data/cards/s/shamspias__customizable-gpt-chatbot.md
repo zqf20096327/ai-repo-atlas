@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shamspias/customizable-gpt-chatbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "shamspias/customizable-gpt-chatbot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 406 --> 409
-    line [407, 408, 407]
+    line [407, 408, 407, 407]
 ```
 
-2026-10-18 407 → 2026-10-25 407（+0）
+2026-10-18 407 → 2026-10-26 407（+0）
 
 
 ---

@@ -46,12 +46,12 @@ GCPR 2023 论文 point2vec 的官方 PyTorch 实现：在 ShapeNet 上以自监�
 ```mermaid
 xychart-beta
     title "karimknaebel/point2vec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-10-25 102（+0）
+2026-10-18 102 → 2026-10-26 102（+0）
 
 
 ---

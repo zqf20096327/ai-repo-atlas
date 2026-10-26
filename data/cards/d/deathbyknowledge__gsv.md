@@ -41,6 +41,18 @@ Ship 是开源的个人 AI 代理系统：在用户自己的 Cloudflare 账号�
 > L23: - Run things across all your machines from one agent — kick off a job on your home server while your laptop's shut.
 > L27: - Spawn durable agents with their own memory and permissions, that can start sub-agents of their own.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deathbyknowledge/gsv 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 124 --> 126
+    line [125, 125]
+```
+
+2026-10-25 125 → 2026-10-26 125（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `85dc7fa134bf` · [字段定义](../../DATASET.md)*

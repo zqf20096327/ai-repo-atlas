@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/claude-repurpose 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "AgriciDaniel/claude-repurpose 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 160 --> 163
-    line [161, 162]
+    line [161, 162, 162]
 ```
 
-2026-10-18 161 → 2026-10-25 162（+1）
+2026-10-18 161 → 2026-10-26 162（+1）
 
 
 ---

@@ -45,12 +45,12 @@ pytrendseries 是一个 Python 库，读取 pandas.DataFrame 格式的时间序�
 ```mermaid
 xychart-beta
     title "rafa-rod/pytrendseries 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 166 --> 168
     line [167, 167]
 ```
 
-2026-10-18 167 → 2026-10-25 167（+0）
+2026-10-18 167 → 2026-10-26 167（+0）
 
 
 ---

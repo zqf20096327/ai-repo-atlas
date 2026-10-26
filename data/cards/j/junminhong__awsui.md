@@ -45,13 +45,13 @@ Python CLI 工具，解决 AWS profile 命名因机器而异的问题：将项�
 
 ```mermaid
 xychart-beta
-    title "junminhong/awsui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "junminhong/awsui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 123 --> 127
-    line [126, 124]
+    line [126, 124, 124]
 ```
 
-2026-10-18 126 → 2026-10-25 124（-2）
+2026-10-18 126 → 2026-10-26 124（-2）
 
 
 ---

@@ -45,12 +45,12 @@ PyTorchSpiking 提供 SpikingActivation 等工具，将任意激活函数转换�
 ```mermaid
 xychart-beta
     title "nengo/pytorch-spiking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-25 44（+0）
+2026-10-18 44 → 2026-10-26 44（+0）
 
 
 ---

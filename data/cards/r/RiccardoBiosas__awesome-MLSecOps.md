@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RiccardoBiosas/awesome-MLSecOps 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "RiccardoBiosas/awesome-MLSecOps 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 476 --> 482
-    line [477, 480, 481]
+    line [477, 480, 481, 481]
 ```
 
-2026-10-18 477 → 2026-10-25 481（+4）
+2026-10-18 477 → 2026-10-26 481（+4）
 
 
 ---

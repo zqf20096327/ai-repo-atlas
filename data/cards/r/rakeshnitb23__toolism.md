@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rakeshnitb23/toolism 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 11 --> 22
-    line [12, 21]
+    title "rakeshnitb23/toolism 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 10 --> 43
+    line [12, 21, 41]
 ```
 
-2026-10-24 12 → 2026-10-25 21（+9）
+2026-10-24 12 → 2026-10-26 41（+29）
 
 
 ---

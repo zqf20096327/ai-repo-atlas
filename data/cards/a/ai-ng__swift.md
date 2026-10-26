@@ -46,12 +46,12 @@ Next.js/TypeScript 编写的 AI 语音助手：Groq 上运行 OpenAI Whisper 做
 ```mermaid
 xychart-beta
     title "ai-ng/swift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 589 --> 591
     line [590, 590]
 ```
 
-2026-10-18 590 → 2026-10-25 590（+0）
+2026-10-18 590 → 2026-10-26 590（+0）
 
 
 ---

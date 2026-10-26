@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wahaha-potato/mcd-coupon-xray 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 6 --> 38
-    line [8, 36]
+    title "wahaha-potato/mcd-coupon-xray 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 0 --> 134
+    line [8, 36, 123]
 ```
 
-2026-10-24 8 → 2026-10-25 36（+28）
+2026-10-24 8 → 2026-10-26 123（+115）
 
 
 ---

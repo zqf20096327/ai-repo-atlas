@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/ai-sdk-slackbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "vercel-labs/ai-sdk-slackbot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 130 --> 133
-    line [132, 131]
+    line [132, 131, 131]
 ```
 
-2026-10-18 132 → 2026-10-25 131（-1）
+2026-10-18 132 → 2026-10-26 131（-1）
 
 
 ---

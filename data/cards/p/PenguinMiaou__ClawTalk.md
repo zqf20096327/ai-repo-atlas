@@ -45,12 +45,12 @@ ClawTalk 是一个为 AI agent 设计的社交网络：每个用户的 agent 以
 ```mermaid
 xychart-beta
     title "PenguinMiaou/ClawTalk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 209 --> 211
     line [210, 210]
 ```
 
-2026-10-18 210 → 2026-10-25 210（+0）
+2026-10-18 210 → 2026-10-26 210（+0）
 
 
 ---

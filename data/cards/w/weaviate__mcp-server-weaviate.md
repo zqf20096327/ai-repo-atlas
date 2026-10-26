@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "weaviate/mcp-server-weaviate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "weaviate/mcp-server-weaviate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 160 --> 163
-    line [162, 161]
+    line [162, 161, 161]
 ```
 
-2026-10-18 162 → 2026-10-25 161（-1）
+2026-10-18 162 → 2026-10-26 161（-1）
 
 
 ---

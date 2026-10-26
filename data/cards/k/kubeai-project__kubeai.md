@@ -45,13 +45,13 @@ KubeAI 是一个 Kubernetes Operator，由两部分组成：OpenAI 兼容的模�
 
 ```mermaid
 xychart-beta
-    title "kubeai-project/kubeai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 1283 --> 1286
-    line [1284, 1285, 1284]
+    title "kubeai-project/kubeai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 1283 --> 1287
+    line [1284, 1285, 1284, 1286]
 ```
 
-2026-10-18 1,284 → 2026-10-25 1,284（+0）
+2026-10-18 1,284 → 2026-10-26 1,286（+2）
 
 
 ---

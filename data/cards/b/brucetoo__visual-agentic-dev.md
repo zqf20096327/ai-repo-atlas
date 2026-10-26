@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brucetoo/visual-agentic-dev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "brucetoo/visual-agentic-dev 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 101 --> 104
-    line [103, 102]
+    line [103, 102, 102]
 ```
 
-2026-10-18 103 → 2026-10-25 102（-1）
+2026-10-18 103 → 2026-10-26 102（-1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "egregore-labs/egregore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "egregore-labs/egregore 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 291 --> 294
-    line [292, 293]
+    line [292, 293, 293]
 ```
 
-2026-10-18 292 → 2026-10-25 293（+1）
+2026-10-18 292 → 2026-10-26 293（+1）
 
 
 ---

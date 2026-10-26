@@ -45,12 +45,12 @@ MacPaw 出品的 GLiNER2 统一模式信息抽取框架的 Swift/MLX 实现，�
 ```mermaid
 xychart-beta
     title "MacPaw/Gliner2Swift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-25 43（+0）
+2026-10-18 43 → 2026-10-26 43（+0）
 
 
 ---

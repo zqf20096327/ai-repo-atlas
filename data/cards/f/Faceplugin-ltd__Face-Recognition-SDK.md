@@ -45,13 +45,13 @@ FacePlugin 维护的商用 SDK 产品仓库（product hub）：提供人脸检�
 
 ```mermaid
 xychart-beta
-    title "Faceplugin-ltd/Face-Recognition-SDK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "Faceplugin-ltd/Face-Recognition-SDK 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 55 --> 58
-    line [56, 57]
+    line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-10-25 57（+1）
+2026-10-18 56 → 2026-10-26 57（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Markdown 原生的富文本编辑器，定位为人类与编码类 agent（Claud
 ```mermaid
 xychart-beta
     title "travsteward/openwriter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-10-25 35（+0）
+2026-10-18 35 → 2026-10-26 36（+1）
 
 
 ---

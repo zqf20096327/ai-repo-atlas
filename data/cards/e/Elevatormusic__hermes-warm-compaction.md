@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Elevatormusic/hermes-warm-compaction 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
+    title "Elevatormusic/hermes-warm-compaction 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 46 --> 66
-    line [47, 50, 63, 65]
+    line [47, 50, 63, 65, 65]
 ```
 
-2026-10-18 47 → 2026-10-25 65（+18）
+2026-10-18 47 → 2026-10-26 65（+18）
 
 
 ---

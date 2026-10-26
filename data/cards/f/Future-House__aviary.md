@@ -46,12 +46,12 @@ Future-House 维护的 Python 库，为语言智能体提供 gymnasium 式的自
 ```mermaid
 xychart-beta
     title "Future-House/aviary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 283 --> 285
-    line [284, 284]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 283 --> 286
+    line [284, 285]
 ```
 
-2026-10-18 284 → 2026-10-25 284（+0）
+2026-10-18 284 → 2026-10-26 285（+1）
 
 
 ---

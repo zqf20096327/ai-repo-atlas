@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "selfimproving-agent/Awesome-Self-Improving-Agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 567 --> 591
-    line [569, 574, 584, 586, 589]
+    title "selfimproving-agent/Awesome-Self-Improving-Agents 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 567 --> 594
+    line [569, 574, 584, 586, 589, 592]
 ```
 
-2026-10-18 569 → 2026-10-25 589（+20）
+2026-10-18 569 → 2026-10-26 592（+23）
 
 
 ---

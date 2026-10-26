@@ -45,12 +45,12 @@ AISIX 是 API7 维护的开源 AI Gateway 与 LLM proxy，用 Rust + Tokio 实�
 ```mermaid
 xychart-beta
     title "api7/aisix-archived 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-25 59（+0）
+2026-10-18 59 → 2026-10-26 59（+0）
 
 
 ---

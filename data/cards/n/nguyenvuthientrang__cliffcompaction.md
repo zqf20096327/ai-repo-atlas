@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nguyenvuthientrang/cliffcompaction 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
+    title "nguyenvuthientrang/cliffcompaction 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 56 --> 68
-    line [57, 61, 65, 67]
+    line [57, 61, 65, 67, 67]
 ```
 
-2026-10-18 57 → 2026-10-25 67（+10）
+2026-10-18 57 → 2026-10-26 67（+10）
 
 
 ---

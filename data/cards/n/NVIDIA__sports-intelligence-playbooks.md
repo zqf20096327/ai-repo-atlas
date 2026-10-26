@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/sports-intelligence-playbooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "NVIDIA/sports-intelligence-playbooks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 67 --> 71
-    line [68, 69, 70]
+    line [68, 69, 70, 70]
 ```
 
-2026-10-18 68 → 2026-10-25 70（+2）
+2026-10-18 68 → 2026-10-26 70（+2）
 
 
 ---

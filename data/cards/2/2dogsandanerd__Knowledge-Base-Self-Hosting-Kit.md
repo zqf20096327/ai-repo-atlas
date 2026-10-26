@@ -45,12 +45,12 @@ Docker Compose 部署的自托管 RAG 系统：通过 ChromaDB 与 Docling 摄�
 ```mermaid
 xychart-beta
     title "2dogsandanerd/Knowledge-Base-Self-Hosting-Kit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
     y-axis "stars" 354 --> 357
     line [355, 356, 355, 355]
 ```
 
-2026-10-18 355 → 2026-10-25 355（+0）
+2026-10-18 355 → 2026-10-26 355（+0）
 
 
 ---

@@ -47,12 +47,12 @@ InstaDeep 维护的基因组学深度学习模型仓库，收录 Nucleotide Tran
 ```mermaid
 xychart-beta
     title "instadeepai/nucleotide-transformer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
     y-axis "stars" 925 --> 928
     line [926, 927, 927]
 ```
 
-2026-10-18 926 → 2026-10-25 927（+1）
+2026-10-18 926 → 2026-10-26 927（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Internetware 2022 论文《Represent Code as Action Sequence for Predicting Next
 ```mermaid
 xychart-beta
     title "JY0284/code_completion_as_human_action_prediction 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-19", "2026-10-26"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-19 56 → 2026-10-25 56（+0）
+2026-10-19 56 → 2026-10-26 56（+0）
 
 
 ---

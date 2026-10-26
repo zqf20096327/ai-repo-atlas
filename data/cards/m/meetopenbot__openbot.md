@@ -45,12 +45,12 @@ OpenBot 是一个 local-first 的 AI agent 运行 harness：在本地启动 agen
 ```mermaid
 xychart-beta
     title "meetopenbot/openbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 342 --> 345
-    line [343, 344, 344]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    y-axis "stars" 342 --> 346
+    line [343, 344, 345]
 ```
 
-2026-10-18 343 → 2026-10-25 344（+1）
+2026-10-18 343 → 2026-10-26 345（+2）
 
 
 ---

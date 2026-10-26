@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChongCyrus/Vibe-Mathematics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "ChongCyrus/Vibe-Mathematics 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 36 --> 44
-    line [37, 40, 43]
+    line [37, 40, 43, 43]
 ```
 
-2026-10-18 37 → 2026-10-25 43（+6）
+2026-10-18 37 → 2026-10-26 43（+6）
 
 
 ---

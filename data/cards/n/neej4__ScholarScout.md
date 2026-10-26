@@ -46,12 +46,12 @@ Flask 构成的本地 Web 应用：从 arXiv、OpenAlex、Semantic Scholar、Pub
 ```mermaid
 xychart-beta
     title "neej4/ScholarScout 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-10-25 41（+0）
+2026-10-18 41 → 2026-10-26 42（+1）
 
 
 ---

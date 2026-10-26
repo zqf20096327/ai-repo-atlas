@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oxbshw/LLM-Agents-Ecosystem-Handbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 554 --> 556
     line [555, 555]
 ```
 
-2026-10-18 555 → 2026-10-25 555（+0）
+2026-10-18 555 → 2026-10-26 555（+0）
 
 
 ---

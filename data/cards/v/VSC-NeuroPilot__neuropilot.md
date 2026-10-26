@@ -42,12 +42,12 @@ VS Code 扩展 NeuroPilot 的主仓库，允许通过 Neuro API 对 VS Code 进�
 ```mermaid
 xychart-beta
     title "VSC-NeuroPilot/neuropilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-25 42（+0）
+2026-10-18 42 → 2026-10-26 42（+0）
 
 
 ---

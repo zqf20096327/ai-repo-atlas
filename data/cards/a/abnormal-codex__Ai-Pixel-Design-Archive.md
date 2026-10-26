@@ -45,12 +45,12 @@ AiPixelPerfect 自述为基于修改版 Stable Diffusion 神经后端的 AI 图�
 ```mermaid
 xychart-beta
     title "abnormal-codex/Ai-Pixel-Design-Archive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 115 --> 117
     line [116, 116]
 ```
 
-2026-10-18 116 → 2026-10-25 116（+0）
+2026-10-18 116 → 2026-10-26 116（+0）
 
 
 ---

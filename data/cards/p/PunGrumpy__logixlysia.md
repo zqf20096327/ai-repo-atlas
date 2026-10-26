@@ -45,13 +45,13 @@ Logixlysia 是为 Bun 运行时上的 ElysiaJS 框架提供的日志库，以插
 
 ```mermaid
 xychart-beta
-    title "PunGrumpy/logixlysia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "PunGrumpy/logixlysia 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 270 --> 274
-    line [271, 273]
+    line [271, 273, 273]
 ```
 
-2026-10-18 271 → 2026-10-25 273（+2）
+2026-10-18 271 → 2026-10-26 273（+2）
 
 
 ---

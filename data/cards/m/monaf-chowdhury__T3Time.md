@@ -45,12 +45,12 @@ T3Time 论文（AAAI'26 Poster, arXiv:2508.04251）的官方代码实现：面�
 ```mermaid
 xychart-beta
     title "monaf-chowdhury/T3Time 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 64 --> 67
+    line [65, 66]
 ```
 
-2026-10-18 65 → 2026-10-25 65（+0）
+2026-10-18 65 → 2026-10-26 66（+1）
 
 
 ---

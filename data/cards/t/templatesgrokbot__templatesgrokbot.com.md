@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "templatesgrokbot/templatesgrokbot.com 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25"]
+    title "templatesgrokbot/templatesgrokbot.com 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
     y-axis "stars" 31 --> 36
-    line [34, 35, 32, 33]
+    line [34, 35, 32, 33, 33]
 ```
 
-2026-10-18 34 → 2026-10-25 33（-1）
+2026-10-18 34 → 2026-10-26 33（-1）
 
 
 ---

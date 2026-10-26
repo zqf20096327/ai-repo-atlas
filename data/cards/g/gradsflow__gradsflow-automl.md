@@ -41,6 +41,18 @@ GradsFlow 是基于 PyTorch 的开源 AutoML 库，面向初学者与专家两�
 > L43:  Gradsflow is built for both *beginners* and *experts*! `AutoTasks` provides zero-code AutoML while
 > L96: - `gradsflow.tuner`: AutoModel HyperParameter search with minimal code changes.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gradsflow/gradsflow-automl 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 305 --> 307
+    line [306, 306]
+```
+
+2026-10-18 306 → 2026-10-26 306（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `34ca2dfb1aa8` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ Picovoice 维护的语音转文字（STT）引擎基准测试框架，面向开�
 ```mermaid
 xychart-beta
     title "Picovoice/speech-to-text-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 698 --> 700
     line [699, 699]
 ```
 
-2026-10-18 699 → 2026-10-25 699（+0）
+2026-10-18 699 → 2026-10-26 699（+0）
 
 
 ---

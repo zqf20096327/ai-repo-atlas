@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Vibe-Company/megaparse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 7413 --> 7416
-    line [7415, 7414]
+    title "The-Vibe-Company/megaparse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 7413 --> 7417
+    line [7415, 7414, 7416]
 ```
 
-2026-10-18 7,415 → 2026-10-25 7,414（-1）
+2026-10-18 7,415 → 2026-10-26 7,416（+1）
 
 
 ---

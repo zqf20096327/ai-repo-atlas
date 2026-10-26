@@ -46,12 +46,12 @@ ICLR 2025 论文 Concept Bottleneck Large Language Models 的官方代码库，�
 ```mermaid
 xychart-beta
     title "Trustworthy-ML-Lab/CB-LLMs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-25 35（+0）
+2026-10-18 35 → 2026-10-26 35（+0）
 
 
 ---

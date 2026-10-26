@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "devnen/qwen3.6-windows-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "devnen/qwen3.6-windows-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 230 --> 233
-    line [231, 232]
+    line [231, 232, 232]
 ```
 
-2026-10-18 231 → 2026-10-25 232（+1）
+2026-10-18 231 → 2026-10-26 232（+1）
 
 
 ---

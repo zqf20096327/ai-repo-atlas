@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "felipelobomotta-blip/book-genesis-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
-    y-axis "stars" 143 --> 151
-    line [144, 146, 148, 150]
+    title "felipelobomotta-blip/book-genesis-studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 143 --> 152
+    line [144, 146, 148, 150, 151]
 ```
 
-2026-10-18 144 → 2026-10-25 150（+6）
+2026-10-18 144 → 2026-10-26 151（+7）
 
 
 ---

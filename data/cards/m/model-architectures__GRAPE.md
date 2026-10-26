@@ -46,12 +46,12 @@ ICLR 2026 论文 GRAPE 的官方实现：以群作用（SO(d) 旋转与 GL(d+k) 
 ```mermaid
 xychart-beta
     title "model-architectures/GRAPE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 120 --> 123
+    line [121, 122]
 ```
 
-2026-10-18 121 → 2026-10-25 121（+0）
+2026-10-18 121 → 2026-10-26 122（+1）
 
 
 ---

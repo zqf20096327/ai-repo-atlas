@@ -45,12 +45,12 @@ Python 3 工具包，含两个模块：PriceTradeAnalyzer 通过 Yahoo Finance �
 ```mermaid
 xychart-beta
     title "TimRivoli/Stock-Price-Trade-Analyzer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-10-25 78（+0）
+2026-10-18 78 → 2026-10-26 78（+0）
 
 
 ---

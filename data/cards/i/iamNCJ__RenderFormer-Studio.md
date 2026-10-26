@@ -45,12 +45,12 @@ RenderFormer（SIGGRAPH 2025）与 RenderFormer-V2（ECCV 2026）的官方代码
 ```mermaid
 xychart-beta
     title "iamNCJ/RenderFormer-Studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 36 --> 40
-    line [37, 38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
+    y-axis "stars" 36 --> 41
+    line [37, 38, 39, 40]
 ```
 
-2026-10-18 37 → 2026-10-25 39（+2）
+2026-10-18 37 → 2026-10-26 40（+3）
 
 
 ---

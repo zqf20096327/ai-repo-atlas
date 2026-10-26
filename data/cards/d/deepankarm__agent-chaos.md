@@ -45,12 +45,12 @@ Python 库，面向构建生产级 agent 的团队：通过 scenario（baseline 
 ```mermaid
 xychart-beta
     title "deepankarm/agent-chaos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-25 35（+0）
+2026-10-18 35 → 2026-10-26 35（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shootthesound/comfyUI-Realtime-Lora 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 571 --> 575
-    line [572, 573, 574]
+    title "shootthesound/comfyUI-Realtime-Lora 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 571 --> 576
+    line [572, 573, 574, 575]
 ```
 
-2026-10-18 572 → 2026-10-25 574（+2）
+2026-10-18 572 → 2026-10-26 575（+3）
 
 
 ---

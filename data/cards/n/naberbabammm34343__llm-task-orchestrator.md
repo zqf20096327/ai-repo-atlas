@@ -46,12 +46,12 @@ Polyphonic Decision Engine 是面向多模型工作流团队的 LLM 路由编排
 ```mermaid
 xychart-beta
     title "naberbabammm34343/llm-task-orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 123 --> 125
     line [124, 124]
 ```
 
-2026-10-18 124 → 2026-10-25 124（+0）
+2026-10-18 124 → 2026-10-26 124（+0）
 
 
 ---

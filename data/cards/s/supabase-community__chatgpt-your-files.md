@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "supabase-community/chatgpt-your-files 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "supabase-community/chatgpt-your-files 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 514 --> 517
-    line [516, 515]
+    line [516, 515, 515]
 ```
 
-2026-10-18 516 → 2026-10-25 515（-1）
+2026-10-18 516 → 2026-10-26 515（-1）
 
 
 ---

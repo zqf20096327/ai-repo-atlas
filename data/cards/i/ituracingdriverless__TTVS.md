@@ -46,12 +46,12 @@ ITU Racing Driverless 团队维护的土耳其交通标志图像与标注数据�
 ```mermaid
 xychart-beta
     title "ituracingdriverless/TTVS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 79 --> 81
     line [80, 80]
 ```
 
-2026-10-18 80 → 2026-10-25 80（+0）
+2026-10-18 80 → 2026-10-26 80（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Kubernetes operator，为 AI agent 工作负载提供集群内治理：通过 gV
 ```mermaid
 xychart-beta
     title "Clawdlinux/agentic-operator-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 50 --> 53
+    line [51, 52]
 ```
 
-2026-10-18 51 → 2026-10-25 51（+0）
+2026-10-18 51 → 2026-10-26 52（+1）
 
 
 ---

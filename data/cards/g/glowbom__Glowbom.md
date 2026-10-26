@@ -46,12 +46,12 @@ Glowbom Labs 的公开仓库，覆盖 Mobile（iPhone/iPad/Vision Pro，经 Test
 ```mermaid
 xychart-beta
     title "glowbom/Glowbom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-25 45（+0）
+2026-10-18 45 → 2026-10-26 45（+0）
 
 
 ---

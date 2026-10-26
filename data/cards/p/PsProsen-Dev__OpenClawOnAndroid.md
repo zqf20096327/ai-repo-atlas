@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PsProsen-Dev/OpenClawOnAndroid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "PsProsen-Dev/OpenClawOnAndroid 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 61 --> 64
-    line [62, 63, 62]
+    line [62, 63, 62, 62]
 ```
 
-2026-10-18 62 → 2026-10-25 62（+0）
+2026-10-18 62 → 2026-10-26 62（+0）
 
 
 ---

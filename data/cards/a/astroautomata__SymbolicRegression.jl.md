@@ -44,13 +44,13 @@ Julia 编写的分布式高性能符号回归库：对数据搜索使特定目�
 
 ```mermaid
 xychart-beta
-    title "astroautomata/SymbolicRegression.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 807 --> 810
-    line [809, 808, 809]
+    title "astroautomata/SymbolicRegression.jl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 807 --> 811
+    line [809, 808, 809, 810]
 ```
 
-2026-10-18 809 → 2026-10-25 809（+0）
+2026-10-18 809 → 2026-10-26 810（+1）
 
 
 ---

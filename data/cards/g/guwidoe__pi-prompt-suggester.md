@@ -46,12 +46,12 @@ pi-prompt-suggester 是 pi coding agent 的扩展：在每次 assistant 回答�
 ```mermaid
 xychart-beta
     title "guwidoe/pi-prompt-suggester 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-25 53（+0）
+2026-10-18 53 → 2026-10-26 53（+0）
 
 
 ---

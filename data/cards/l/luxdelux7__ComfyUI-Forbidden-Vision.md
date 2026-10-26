@@ -44,13 +44,13 @@ ComfyUI 自定义节点集，含 Fixer（人脸检测、修复与上下文感知
 
 ```mermaid
 xychart-beta
-    title "luxdelux7/ComfyUI-Forbidden-Vision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "luxdelux7/ComfyUI-Forbidden-Vision 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 103 --> 106
-    line [104, 105]
+    line [104, 105, 105]
 ```
 
-2026-10-18 104 → 2026-10-25 105（+1）
+2026-10-18 104 → 2026-10-26 105（+1）
 
 
 ---

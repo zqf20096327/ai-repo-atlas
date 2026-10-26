@@ -45,12 +45,12 @@ Recursion 维护的 GFlowNet（Generative Flow Network）库，专注于图（�
 ```mermaid
 xychart-beta
     title "recursionpharma/gflownet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
     y-axis "stars" 292 --> 295
     line [293, 294, 294]
 ```
 
-2026-10-18 293 → 2026-10-25 294（+1）
+2026-10-18 293 → 2026-10-26 294（+1）
 
 
 ---

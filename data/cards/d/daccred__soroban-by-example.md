@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "daccred/soroban-by-example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "daccred/soroban-by-example 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 116 --> 128
-    line [127, 117]
+    line [127, 117, 117]
 ```
 
-2026-10-18 127 → 2026-10-25 117（-10）
+2026-10-18 127 → 2026-10-26 117（-10）
 
 
 ---

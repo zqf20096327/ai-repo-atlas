@@ -43,13 +43,13 @@ Python 库：解析已训练的 scikit-learn 流水线和 PyTorch 前馈神经�
 
 ```mermaid
 xychart-beta
-    title "posit-dev/orbital 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "posit-dev/orbital 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 119 --> 122
-    line [120, 121]
+    line [120, 121, 121]
 ```
 
-2026-10-18 120 → 2026-10-25 121（+1）
+2026-10-18 120 → 2026-10-26 121（+1）
 
 
 ---

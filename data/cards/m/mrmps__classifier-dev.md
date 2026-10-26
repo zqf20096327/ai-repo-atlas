@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrmps/classifier-dev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 424 --> 430
-    line [425, 429]
+    title "mrmps/classifier-dev 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 424 --> 433
+    line [425, 429, 432]
 ```
 
-2026-10-18 425 → 2026-10-25 429（+4）
+2026-10-18 425 → 2026-10-26 432（+7）
 
 
 ---

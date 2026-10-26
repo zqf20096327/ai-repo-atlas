@@ -45,12 +45,12 @@ ComfyUI 自定义节点集合，提供 Apply Whisper（音频转录并输出分�
 ```mermaid
 xychart-beta
     title "yuvraj108c/ComfyUI-Whisper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 277 --> 279
-    line [278, 278]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 277 --> 280
+    line [278, 279]
 ```
 
-2026-10-18 278 → 2026-10-25 278（+0）
+2026-10-18 278 → 2026-10-26 279（+1）
 
 
 ---

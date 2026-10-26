@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DIAGNijmegen/pathology-whole-slide-data 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 118 --> 120
     line [119, 119]
 ```
 
-2026-10-18 119 → 2026-10-25 119（+0）
+2026-10-18 119 → 2026-10-26 119（+0）
 
 
 ---

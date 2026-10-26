@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TaewoooPark/Agent-Blackbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "TaewoooPark/Agent-Blackbox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 77 --> 80
-    line [78, 79]
+    line [78, 79, 79]
 ```
 
-2026-10-18 78 → 2026-10-25 79（+1）
+2026-10-18 78 → 2026-10-26 79（+1）
 
 
 ---

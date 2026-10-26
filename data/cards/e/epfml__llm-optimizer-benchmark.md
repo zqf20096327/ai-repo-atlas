@@ -46,12 +46,12 @@ EPFL 团队发布的 LLM 预训练优化器评测代码库，基于 nanoGPT 扩�
 ```mermaid
 xychart-beta
     title "epfml/llm-optimizer-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-25 60（+0）
+2026-10-18 60 → 2026-10-26 60（+0）
 
 
 ---

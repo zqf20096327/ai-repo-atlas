@@ -44,13 +44,13 @@ PCL 是一种治理优先的编程语言（TypeScript 实现），用于定义 A
 
 ```mermaid
 xychart-beta
-    title "personamanagmentlayer/pcl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "personamanagmentlayer/pcl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 42 --> 45
-    line [44, 43]
+    line [44, 43, 43]
 ```
 
-2026-10-18 44 → 2026-10-25 43（-1）
+2026-10-18 44 → 2026-10-26 43（-1）
 
 
 ---

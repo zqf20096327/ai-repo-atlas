@@ -45,12 +45,12 @@ horde-engine（Python 模块 hordelib）将一个固定 commit 的 ComfyUI 包�
 ```mermaid
 xychart-beta
     title "Haidra-Org/hordelib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-10-25 72（+0）
+2026-10-18 72 → 2026-10-26 72（+0）
 
 
 ---

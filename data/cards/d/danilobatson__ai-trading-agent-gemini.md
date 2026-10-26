@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "danilobatson/ai-trading-agent-gemini 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 462 --> 466
-    line [463, 464, 465]
+    title "danilobatson/ai-trading-agent-gemini 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 462 --> 467
+    line [463, 464, 465, 466]
 ```
 
-2026-10-18 463 → 2026-10-25 465（+2）
+2026-10-18 463 → 2026-10-26 466（+3）
 
 
 ---

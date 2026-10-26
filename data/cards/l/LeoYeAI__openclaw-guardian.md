@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LeoYeAI/openclaw-guardian 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "LeoYeAI/openclaw-guardian 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 566 --> 569
-    line [568, 567]
+    line [568, 567, 567]
 ```
 
-2026-10-18 568 → 2026-10-25 567（-1）
+2026-10-18 568 → 2026-10-26 567（-1）
 
 
 ---

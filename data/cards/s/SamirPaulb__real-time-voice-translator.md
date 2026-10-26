@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamirPaulb/real-time-voice-translator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 439 --> 442
-    line [440, 441]
+    title "SamirPaulb/real-time-voice-translator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 439 --> 443
+    line [440, 441, 442]
 ```
 
-2026-10-18 440 → 2026-10-25 441（+1）
+2026-10-18 440 → 2026-10-26 442（+2）
 
 
 ---

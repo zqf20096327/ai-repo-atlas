@@ -45,13 +45,13 @@ GOAT 是一个 TypeScript 与 Python 工具包，用于让 AI agent 具备链上
 
 ```mermaid
 xychart-beta
-    title "goat-sdk/goat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 1008 --> 1011
-    line [1009, 1010]
+    title "goat-sdk/goat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 1008 --> 1012
+    line [1009, 1010, 1011]
 ```
 
-2026-10-18 1,009 → 2026-10-25 1,010（+1）
+2026-10-18 1,009 → 2026-10-26 1,011（+2）
 
 
 ---

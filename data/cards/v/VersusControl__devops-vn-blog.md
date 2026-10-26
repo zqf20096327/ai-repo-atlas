@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VersusControl/devops-vn-blog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
-    y-axis "stars" 61 --> 67
-    line [62, 64, 66]
+    title "VersusControl/devops-vn-blog 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 61 --> 70
+    line [62, 64, 66, 69]
 ```
 
-2026-10-18 62 → 2026-10-25 66（+4）
+2026-10-18 62 → 2026-10-26 69（+7）
 
 
 ---

@@ -44,12 +44,12 @@ mangopy/Deep-Research-Survey 是一篇 Deep Research（深度研究系统）系�
 ```mermaid
 xychart-beta
     title "mangopy/Deep-Research-Survey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 320 --> 322
     line [321, 321]
 ```
 
-2026-10-18 321 → 2026-10-25 321（+0）
+2026-10-18 321 → 2026-10-26 321（+0）
 
 
 ---

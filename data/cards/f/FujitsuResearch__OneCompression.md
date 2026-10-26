@@ -45,12 +45,12 @@ Fujitsu 研究团队开发的 LLM 压缩 Python 包：一条命令检测 GPU VRA
 ```mermaid
 xychart-beta
     title "FujitsuResearch/OneCompression 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
     y-axis "stars" 435 --> 444
     line [436, 443, 443]
 ```
 
-2026-10-18 436 → 2026-10-25 443（+7）
+2026-10-18 436 → 2026-10-26 443（+7）
 
 
 ---

@@ -44,12 +44,12 @@ modelscope_studio 是基于 Gradio 的第三方组件库，将 Ant Design、Ant 
 ```mermaid
 xychart-beta
     title "modelscope/modelscope-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
     y-axis "stars" 150 --> 153
     line [152, 151, 151]
 ```
 
-2026-10-18 152 → 2026-10-25 151（-1）
+2026-10-18 152 → 2026-10-26 151（-1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NicoKhaghani/nexus-ai-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "NicoKhaghani/nexus-ai-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 112 --> 119
-    line [118, 113]
+    line [118, 113, 113]
 ```
 
-2026-10-18 118 → 2026-10-25 113（-5）
+2026-10-18 118 → 2026-10-26 113（-5）
 
 
 ---

@@ -45,12 +45,12 @@ DingoSpeed 是可自部署的 Hugging Face 镜像服务：缓存首次下载的�
 ```mermaid
 xychart-beta
     title "dingodb/dingospeed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-25 49（+0）
+2026-10-18 49 → 2026-10-26 49（+0）
 
 
 ---

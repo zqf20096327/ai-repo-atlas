@@ -46,12 +46,12 @@ Skill Bill 是面向 AI 编码 agent 的技能与运行时：安装单个 `/skil
 ```mermaid
 xychart-beta
     title "Sermilion/SkillBill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-25 45（+0）
+2026-10-18 45 → 2026-10-26 45（+0）
 
 
 ---

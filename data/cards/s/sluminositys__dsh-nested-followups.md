@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sluminositys/dsh-nested-followups 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "sluminositys/dsh-nested-followups 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 48 --> 51
-    line [50, 49]
+    line [50, 49, 49]
 ```
 
-2026-10-18 50 → 2026-10-25 49（-1）
+2026-10-18 50 → 2026-10-26 49（-1）
 
 
 ---

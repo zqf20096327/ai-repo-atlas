@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "keyuchen21/agentic-engineering-handbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25"]
-    y-axis "stars" 551 --> 563
-    line [552, 555, 561, 562]
+    title "keyuchen21/agentic-engineering-handbook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 551 --> 565
+    line [552, 555, 561, 562, 564]
 ```
 
-2026-10-18 552 → 2026-10-25 562（+10）
+2026-10-18 552 → 2026-10-26 564（+12）
 
 
 ---

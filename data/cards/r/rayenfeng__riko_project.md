@@ -41,6 +41,18 @@
 > L38: |👂 **Understands**|Speech to text with Faster-Whisper on your own PC, or Groq's fast online Whisper.|
 > L39: |🧠 **Thinks**|Replies come from OpenAI GPT, in whatever personality you write for her.|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rayenfeng/riko_project 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 1170 --> 1174
+    line [1173, 1171]
+```
+
+2026-10-25 1,173 → 2026-10-26 1,171（-2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `a56624226e03` · [字段定义](../../DATASET.md)*

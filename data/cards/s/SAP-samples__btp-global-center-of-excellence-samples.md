@@ -44,12 +44,12 @@ SAP 全球卓越中心（BTP 方向）维护的示例代码仓库：按博客或
 ```mermaid
 xychart-beta
     title "SAP-samples/btp-global-center-of-excellence-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-25 33（+0）
+2026-10-18 33 → 2026-10-26 33（+0）
 
 
 ---

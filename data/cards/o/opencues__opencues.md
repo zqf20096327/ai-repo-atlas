@@ -45,13 +45,13 @@ OpenCues 以 CLI 与集成方式，把 Claude Code、OpenCode、Gemini CLI、Chr
 
 ```mermaid
 xychart-beta
-    title "opencues/opencues 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
+    title "opencues/opencues 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 66 --> 71
-    line [67, 69, 70, 69]
+    line [67, 69, 70, 69, 69]
 ```
 
-2026-10-18 67 → 2026-10-25 69（+2）
+2026-10-18 67 → 2026-10-26 69（+2）
 
 
 ---

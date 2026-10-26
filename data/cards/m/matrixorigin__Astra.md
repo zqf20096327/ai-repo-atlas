@@ -46,12 +46,12 @@ Astra 是一个用 Rust/TypeScript 实现的自托管长时 agent 运行时，�
 ```mermaid
 xychart-beta
     title "matrixorigin/Astra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-25 35（+0）
+2026-10-18 35 → 2026-10-26 35（+0）
 
 
 ---

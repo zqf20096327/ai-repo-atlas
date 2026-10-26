@@ -44,12 +44,12 @@ Telekinesis Agentic OS 的示例仓库：Telekinesis 是面向通用机器人的
 ```mermaid
 xychart-beta
     title "telekinesis-ai/telekinesis-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
     y-axis "stars" 84 --> 87
     line [86, 85, 86, 86]
 ```
 
-2026-10-18 86 → 2026-10-25 86（+0）
+2026-10-18 86 → 2026-10-26 86（+0）
 
 
 ---

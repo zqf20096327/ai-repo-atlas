@@ -46,12 +46,12 @@ Java 17 / Spring Boot 3.3.8 实现的 AI Agent 平台后端，提供可视化拖
 ```mermaid
 xychart-beta
     title "nuwax-ai/nuwax-backend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-25 38（+0）
+2026-10-18 38 → 2026-10-26 38（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aryan-Pardeshi/CiteProof-AI-MCP 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 87 --> 90
-    line [89, 88]
+    title "Aryan-Pardeshi/CiteProof-AI-MCP 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 87 --> 92
+    line [89, 88, 91]
 ```
 
-2026-10-24 89 → 2026-10-25 88（-1）
+2026-10-24 89 → 2026-10-26 91（+2）
 
 
 ---

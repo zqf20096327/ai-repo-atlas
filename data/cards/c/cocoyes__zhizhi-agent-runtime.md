@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cocoyes/zhizhi-agent-runtime 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
+    title "cocoyes/zhizhi-agent-runtime 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
     y-axis "stars" 179 --> 192
-    line [191, 180]
+    line [191, 180, 180]
 ```
 
-2026-10-24 191 → 2026-10-25 180（-11）
+2026-10-24 191 → 2026-10-26 180（-11）
 
 
 ---

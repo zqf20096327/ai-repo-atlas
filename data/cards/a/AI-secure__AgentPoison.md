@@ -46,13 +46,13 @@ NeurIPS 2024 论文 AgentPoison 的官方 PyTorch 实现：面向科研人员，
 
 ```mermaid
 xychart-beta
-    title "AI-secure/AgentPoison 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "AI-secure/AgentPoison 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 247 --> 251
-    line [248, 249, 250]
+    line [248, 249, 250, 250]
 ```
 
-2026-10-18 248 → 2026-10-25 250（+2）
+2026-10-18 248 → 2026-10-26 250（+2）
 
 
 ---

@@ -45,12 +45,12 @@ hermescheck 是一个 Python CLI 工具，扫描 AI agent 代码库（首个深�
 ```mermaid
 xychart-beta
     title "huangrichao2020/hermescheck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-25 38（+0）
+2026-10-18 38 → 2026-10-26 38（+0）
 
 
 ---

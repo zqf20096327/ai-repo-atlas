@@ -46,13 +46,13 @@ Kelos 将编码代理（Claude Code、OpenAI Codex、Google Gemini、OpenCode、
 
 ```mermaid
 xychart-beta
-    title "kelos-dev/kelos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
-    y-axis "stars" 343 --> 348
-    line [344, 346, 347]
+    title "kelos-dev/kelos 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 343 --> 349
+    line [344, 346, 347, 348]
 ```
 
-2026-10-18 344 → 2026-10-25 347（+3）
+2026-10-18 344 → 2026-10-26 348（+4）
 
 
 ---

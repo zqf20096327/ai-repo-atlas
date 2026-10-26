@@ -46,12 +46,12 @@ MathWorks 官方维护的 MATLAB 附加功能（add-on），在 MATLAB 中连接
 ```mermaid
 xychart-beta
     title "matlab-deep-learning/llms-with-matlab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 236 --> 238
     line [237, 237]
 ```
 
-2026-10-18 237 → 2026-10-25 237（+0）
+2026-10-18 237 → 2026-10-26 237（+0）
 
 
 ---

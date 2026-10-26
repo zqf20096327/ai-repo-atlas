@@ -45,12 +45,12 @@ Claude Code 插件，通过 Git 远端仓库在多台机器间同步 CLAUDE.md�
 ```mermaid
 xychart-beta
     title "toroleapinc/claude-brain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-18 91 → 2026-10-25 91（+0）
+2026-10-18 91 → 2026-10-26 91（+0）
 
 
 ---

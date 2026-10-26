@@ -41,6 +41,18 @@ AnythingLLM Desktop 的便携 Windows 分支：打包为免安装的绿色版应
 > L34: * 🔒 **100% Privacy by Default:** Run local models (via Ollama, LM Studio, etc.) and keep all your documents and cha
 > L36: * 📚 **Enterprise-Grade RAG:** Drop in PDFs, Word docs, TXT files, or web links. The app automatically vectorizes th
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "QuickButlerPace65/AnythingLLM-Desktop 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 36 --> 38
+    line [37, 37]
+```
+
+2026-10-25 37 → 2026-10-26 37（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `55e2afc68c6b` · [字段定义](../../DATASET.md)*

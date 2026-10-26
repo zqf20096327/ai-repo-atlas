@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sami-mag07/ultimate-scraper-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "sami-mag07/ultimate-scraper-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 40 --> 44
-    line [43, 41]
+    line [43, 41, 41]
 ```
 
-2026-10-18 43 → 2026-10-25 41（-2）
+2026-10-18 43 → 2026-10-26 41（-2）
 
 
 ---

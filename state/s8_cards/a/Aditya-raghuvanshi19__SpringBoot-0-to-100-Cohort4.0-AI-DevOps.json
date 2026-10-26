@@ -1,1 +1,78 @@
-{"fn": "Aditya-raghuvanshi19/SpringBoot-0-to-100-Cohort4.0-AI-DevOps", "sha": "0a4c919b818a", "source": "readme", "identity": {"one_liner": "Spring Boot 后端学习课程仓库：从基础到微服务、DevOps 与 AI 集成", "review": "个人学习仓库，跟随 Coding Shuttle 的 Spring Boot 0 to 100 课程（Cohort 4.0），按 18 周教学大纲组织内容：Spring 核心、REST API、JPA、Spring Security、JUnit 测试、Kafka、微服务、Docker/Kubernetes 部署与 CI/CD；第 7 周涉及 Spring AI、OpenAI API、向量库、RAG 与 MCP 的后端集成。列出三个实战项目（AI SaaS 平台、Airbnb 克隆、LinkedIn 式微服务系统）。使用方式为克隆模板、按周提交作业到分支。", "highlights": ["18 周课程大纲覆盖 Spring Boot 全栈到生产部署", "第 7 周模块：Spring AI、RAG、向量库、MCP 集成", "三个实战项目含 AI SaaS 平台（Spring Boot + Spring AI + RAG + K8s）", "含 Docker、Kubernetes、AWS CI/CD 部署内容"], "use_cases": ["系统学习 Spring Boot 后端开发到生产部署", "学习在 Java 后端中集成 LLM、RAG 与向量数据库", "跟随课程做 Airbnb 克隆与微服务实战项目"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["学习仓库", "课程大纲", "Spring Boot", "后端开发", "AI集成教学"], "domain": "软件开发教学/后端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L1: 🚀 Spring Boot 0 to 100 – Cohort 4.0 [AI + DevOps] - Coding Shuttle", "L15: - AI integration: Spring AI, LLMs, RAG (Retrieval-Augmented Generation), Vector DB, MCP (Model Context Protocol)", "L30: | Week 7 | AI Integration with Spring AI, RAG & MCP | Spring AI, OpenAI API, Vector DB, Embeddings, RAG, MCP, AI SaaS pr"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-25", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Aditya-raghuvanshi19/SpringBoot-0-to-100-Cohort4.0-AI-DevOps",
+ "sha": "0a4c919b818a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Spring Boot 后端学习课程仓库：从基础到微服务、DevOps 与 AI 集成",
+  "review": "个人学习仓库，跟随 Coding Shuttle 的 Spring Boot 0 to 100 课程（Cohort 4.0），按 18 周教学大纲组织内容：Spring 核心、REST API、JPA、Spring Security、JUnit 测试、Kafka、微服务、Docker/Kubernetes 部署与 CI/CD；第 7 周涉及 Spring AI、OpenAI API、向量库、RAG 与 MCP 的后端集成。列出三个实战项目（AI SaaS 平台、Airbnb 克隆、LinkedIn 式微服务系统）。使用方式为克隆模板、按周提交作业到分支。",
+  "highlights": [
+   "18 周课程大纲覆盖 Spring Boot 全栈到生产部署",
+   "第 7 周模块：Spring AI、RAG、向量库、MCP 集成",
+   "三个实战项目含 AI SaaS 平台（Spring Boot + Spring AI + RAG + K8s）",
+   "含 Docker、Kubernetes、AWS CI/CD 部署内容"
+  ],
+  "use_cases": [
+   "系统学习 Spring Boot 后端开发到生产部署",
+   "学习在 Java 后端中集成 LLM、RAG 与向量数据库",
+   "跟随课程做 Airbnb 克隆与微服务实战项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习仓库",
+   "课程大纲",
+   "Spring Boot",
+   "后端开发",
+   "AI集成教学"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: 🚀 Spring Boot 0 to 100 – Cohort 4.0 [AI + DevOps] - Coding Shuttle",
+   "L15: - AI integration: Spring AI, LLMs, RAG (Retrieval-Augmented Generation), Vector DB, MCP (Model Context Protocol)",
+   "L30: | Week 7 | AI Integration with Spring AI, RAG & MCP | Spring AI, OpenAI API, Vector DB, Embeddings, RAG, MCP, AI SaaS pr"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

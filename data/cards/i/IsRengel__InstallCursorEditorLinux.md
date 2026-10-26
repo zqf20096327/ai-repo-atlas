@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IsRengel/InstallCursorEditorLinux 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "IsRengel/InstallCursorEditorLinux 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 156 --> 159
-    line [158, 157]
+    line [158, 157, 157]
 ```
 
-2026-10-18 158 → 2026-10-25 157（-1）
+2026-10-18 158 → 2026-10-26 157（-1）
 
 
 ---

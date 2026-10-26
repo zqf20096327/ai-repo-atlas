@@ -45,12 +45,12 @@ SwiftUI 编写的 iOS/iPadOS/macOS/visionOS 应用，通过用户自备的 OpenA
 ```mermaid
 xychart-beta
     title "cdillard/LogicSage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-25 56（+0）
+2026-10-18 56 → 2026-10-26 56（+0）
 
 
 ---

@@ -47,12 +47,12 @@ Python CLI 工具（3.9+），读取 Apple Health 的 export.xml，转换为 CSV
 ```mermaid
 xychart-beta
     title "krumjahn/applehealth 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
     y-axis "stars" 463 --> 466
     line [464, 465, 465]
 ```
 
-2026-10-18 464 → 2026-10-25 465（+1）
+2026-10-18 464 → 2026-10-26 465（+1）
 
 
 ---

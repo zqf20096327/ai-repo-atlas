@@ -45,13 +45,13 @@ BUPT-GAMMA 团队维护的多智能体系统编排框架，以 Node/Edge 图结�
 
 ```mermaid
 xychart-beta
-    title "BUPT-GAMMA/MASFactory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "BUPT-GAMMA/MASFactory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 557 --> 566
-    line [565, 558]
+    line [565, 558, 559]
 ```
 
-2026-10-18 565 → 2026-10-25 558（-7）
+2026-10-18 565 → 2026-10-26 559（-6）
 
 
 ---

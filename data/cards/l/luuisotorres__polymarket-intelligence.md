@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "luuisotorres/polymarket-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-10-25 38（+0）
+2026-10-18 38 → 2026-10-26 39（+1）
 
 
 ---

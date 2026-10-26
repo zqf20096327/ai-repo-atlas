@@ -44,12 +44,12 @@ O'Reilly 书籍 Harness Engineering: Optimization, Coordination, and Adaptive Ag
 ```mermaid
 xychart-beta
     title "Nicolepcx/harness_engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
     y-axis "stars" 160 --> 164
     line [161, 162, 163, 163]
 ```
 
-2026-10-18 161 → 2026-10-25 163（+2）
+2026-10-18 161 → 2026-10-26 163（+2）
 
 
 ---

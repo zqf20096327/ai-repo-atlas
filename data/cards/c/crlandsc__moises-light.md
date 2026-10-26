@@ -45,12 +45,12 @@ Moises-Light 论文（WASPAA 2025）的非官方 PyTorch 实现，论文未公�
 ```mermaid
 xychart-beta
     title "crlandsc/moises-light 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-25 36（+0）
+2026-10-18 36 → 2026-10-26 36（+0）
 
 
 ---

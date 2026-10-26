@@ -47,12 +47,12 @@ OpenAI 官方发布的 Claude Code 插件：捆绑公开的 OpenAI Docs MCP 服�
 ```mermaid
 xychart-beta
     title "openai/openai-developers-for-claude 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 31 --> 35
-    line [32, 33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    y-axis "stars" 31 --> 36
+    line [32, 33, 34, 35]
 ```
 
-2026-10-18 32 → 2026-10-25 34（+2）
+2026-10-18 32 → 2026-10-26 35（+3）
 
 
 ---

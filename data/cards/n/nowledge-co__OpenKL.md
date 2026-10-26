@@ -40,6 +40,18 @@ OpenKL 是面向个人 agent 的本地优先开源知识与记忆层，提供统
 > L3: A local-first, open-source knowledge and memory layer for AI agents. OpenKL provides a unified protocol and implemen
 > L11: - **Memory Management**: Distilled insights, facts, and user-provided notes with temporal organization
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nowledge-co/OpenKL 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 123 --> 125
+    line [124, 124]
+```
+
+2026-10-25 124 → 2026-10-26 124（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `c76199555cfd` · [字段定义](../../DATASET.md)*

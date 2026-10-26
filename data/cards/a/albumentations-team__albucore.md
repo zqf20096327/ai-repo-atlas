@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "albumentations-team/albucore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "albumentations-team/albucore 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 122 --> 125
-    line [123, 124]
+    line [123, 124, 124]
 ```
 
-2026-10-18 123 → 2026-10-25 124（+1）
+2026-10-18 123 → 2026-10-26 124（+1）
 
 
 ---

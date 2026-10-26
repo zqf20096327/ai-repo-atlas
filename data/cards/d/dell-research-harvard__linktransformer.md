@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dell-research-harvard/linktransformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 145 --> 147
-    line [146, 146]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 145 --> 148
+    line [146, 147]
 ```
 
-2026-10-18 146 → 2026-10-25 146（+0）
+2026-10-18 146 → 2026-10-26 147（+1）
 
 
 ---

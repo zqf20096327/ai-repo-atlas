@@ -45,12 +45,12 @@ MathWorks 维护的 MATLAB 预训练模型索引（Model Hub）：按计算机�
 ```mermaid
 xychart-beta
     title "matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
     y-axis "stars" 560 --> 563
     line [561, 562, 562]
 ```
 
-2026-10-18 561 → 2026-10-25 562（+1）
+2026-10-18 561 → 2026-10-26 562（+1）
 
 
 ---

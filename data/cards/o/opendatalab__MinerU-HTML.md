@@ -44,13 +44,13 @@ MinerU-HTML(Dripper) 使用基于 Qwen3 微调的 LLM 与状态机引导的 logi
 
 ```mermaid
 xychart-beta
-    title "opendatalab/MinerU-HTML 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
-    y-axis "stars" 294 --> 298
-    line [295, 296, 297]
+    title "opendatalab/MinerU-HTML 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 294 --> 299
+    line [295, 296, 297, 298]
 ```
 
-2026-10-18 295 → 2026-10-25 297（+2）
+2026-10-18 295 → 2026-10-26 298（+3）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LiteSuggarDEV/nonebot_plugin_suggarchat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 42 --> 45
+    line [44, 43]
 ```
 
-2026-10-18 44 → 2026-10-25 44（+0）
+2026-10-18 44 → 2026-10-26 43（-1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "waylaidwanderer/PandoraAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "waylaidwanderer/PandoraAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 853 --> 856
-    line [855, 854]
+    line [855, 854, 854]
 ```
 
-2026-10-18 855 → 2026-10-25 854（-1）
+2026-10-18 855 → 2026-10-26 854（-1）
 
 
 ---

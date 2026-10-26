@@ -45,12 +45,12 @@ Stable Diffusion Forge2 WebUI 的功能扩展：通过 SPLIT 关键字为 Flux�
 ```mermaid
 xychart-beta
     title "DenOfEquity/forgeFlux_dualPrompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-25 39（+0）
+2026-10-18 39 → 2026-10-26 39（+0）
 
 
 ---

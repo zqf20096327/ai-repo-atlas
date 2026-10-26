@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FonaTech/Project_Chronos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "FonaTech/Project_Chronos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 205 --> 208
-    line [206, 207]
+    line [206, 207, 207]
 ```
 
-2026-10-18 206 → 2026-10-25 207（+1）
+2026-10-18 206 → 2026-10-26 207（+1）
 
 
 ---

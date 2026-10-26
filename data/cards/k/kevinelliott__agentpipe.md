@@ -44,13 +44,13 @@ Go 编写的 CLI/TUI 应用，将 Claude、Gemini、Qwen、Codex、Copilot 等 A
 
 ```mermaid
 xychart-beta
-    title "kevinelliott/agentpipe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    title "kevinelliott/agentpipe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
     y-axis "stars" 150 --> 154
-    line [151, 153, 152]
+    line [151, 153, 152, 152]
 ```
 
-2026-10-18 151 → 2026-10-25 152（+1）
+2026-10-18 151 → 2026-10-26 152（+1）
 
 
 ---

@@ -44,12 +44,12 @@ Packt 出版书籍的代码仓库，内容按章节组织为文件夹（如 Chap
 ```mermaid
 xychart-beta
     title "PacktPublishing/Hands-On-Python-Deep-Learning-for-Web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-25 79（+0）
+2026-10-18 79 → 2026-10-26 79（+0）
 
 
 ---

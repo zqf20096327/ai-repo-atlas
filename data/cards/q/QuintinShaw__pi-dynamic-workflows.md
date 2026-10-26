@@ -44,6 +44,18 @@ Pi（coding agent）的包，把单个提示转化为确定性 JavaScript 编排
 > L37: 1. **Orchestrate** — Pi writes a deterministic JavaScript workflow with `agent()`, `parallel()`, `pipeline()`, and 
 > L38: 2. **Fan out** — fresh subagent sessions run concurrently, optionally on different models or isolated git worktrees
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "QuintinShaw/pi-dynamic-workflows 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-10-26"]
+    y-axis "stars" 554 --> 556
+    line [555, 555]
+```
+
+2026-10-25 555 → 2026-10-26 555（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `7b48a68fcc06` · [字段定义](../../DATASET.md)*

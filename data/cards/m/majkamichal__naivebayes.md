@@ -45,12 +45,12 @@ R 包 naivebayes，提供朴素贝叶斯分类的通用实现 naive_bayes() 与�
 ```mermaid
 xychart-beta
     title "majkamichal/naivebayes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-25 37（+0）
+2026-10-18 37 → 2026-10-26 37（+0）
 
 
 ---

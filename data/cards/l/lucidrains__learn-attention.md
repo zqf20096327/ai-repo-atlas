@@ -43,12 +43,12 @@ lucidrains 维护的教学性质仓库（标注 wip），目标是以作者自�
 ```mermaid
 xychart-beta
     title "lucidrains/learn-attention 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-25 60（+0）
+2026-10-18 60 → 2026-10-26 60（+0）
 
 
 ---

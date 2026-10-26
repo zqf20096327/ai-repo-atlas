@@ -46,12 +46,12 @@ TypeScript 编写的统一 AI agent 库，以 connector-first 认证方式接入
 ```mermaid
 xychart-beta
     title "aantich/oneringai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-25 73（+0）
+2026-10-18 73 → 2026-10-26 73（+0）
 
 
 ---

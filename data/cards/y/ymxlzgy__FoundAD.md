@@ -44,12 +44,12 @@ ICLR 2026 论文 Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detect
 ```mermaid
 xychart-beta
     title "ymxlzgy/FoundAD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
     y-axis "stars" 87 --> 90
     line [88, 89, 89]
 ```
 
-2026-10-18 88 → 2026-10-25 89（+1）
+2026-10-18 88 → 2026-10-26 89（+1）
 
 
 ---

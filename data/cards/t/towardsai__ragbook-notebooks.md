@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "towardsai/ragbook-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "towardsai/ragbook-notebooks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 558 --> 561
-    line [559, 560]
+    line [559, 560, 560]
 ```
 
-2026-10-18 559 → 2026-10-25 560（+1）
+2026-10-18 559 → 2026-10-26 560（+1）
 
 
 ---

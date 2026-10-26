@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fancydirty/subtitle-scout 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 125 --> 132
-    line [126, 131]
+    title "fancydirty/subtitle-scout 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 125 --> 136
+    line [126, 131, 135]
 ```
 
-2026-10-18 126 → 2026-10-25 131（+5）
+2026-10-18 126 → 2026-10-26 135（+9）
 
 
 ---

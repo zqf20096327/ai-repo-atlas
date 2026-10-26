@@ -46,12 +46,12 @@ Python 实现的 Model Context Protocol 服务器，把 Amazing Marvin 任务管
 ```mermaid
 xychart-beta
     title "bgheneti/Amazing-Marvin-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-26"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-25 44（+0）
+2026-10-18 44 → 2026-10-26 44（+0）
 
 
 ---

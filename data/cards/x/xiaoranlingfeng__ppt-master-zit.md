@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoranlingfeng/ppt-master-zit 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-25"]
-    y-axis "stars" 130 --> 133
-    line [131, 132]
+    title "xiaoranlingfeng/ppt-master-zit 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    y-axis "stars" 130 --> 134
+    line [131, 132, 133]
 ```
 
-2026-10-24 131 → 2026-10-25 132（+1）
+2026-10-24 131 → 2026-10-26 133（+2）
 
 
 ---

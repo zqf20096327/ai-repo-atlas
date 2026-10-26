@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hacrex/the-vibe-coding-handbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25"]
+    title "hacrex/the-vibe-coding-handbook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
     y-axis "stars" 85 --> 94
-    line [92, 93, 86]
+    line [92, 93, 86, 87]
 ```
 
-2026-10-18 92 → 2026-10-25 86（-6）
+2026-10-18 92 → 2026-10-26 87（-5）
 
 
 ---

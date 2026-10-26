@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alphastorm/omp-ninfer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
+    title "alphastorm/omp-ninfer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
     y-axis "stars" 44 --> 47
-    line [45, 46]
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-10-25 46（+1）
+2026-10-18 45 → 2026-10-26 46（+1）
 
 
 ---

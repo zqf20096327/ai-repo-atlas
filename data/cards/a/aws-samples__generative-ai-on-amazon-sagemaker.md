@@ -45,12 +45,12 @@ AWS 官方 samples 仓库，汇集在 Amazon SageMaker AI 与 Amazon Bedrock 上
 ```mermaid
 xychart-beta
     title "aws-samples/generative-ai-on-amazon-sagemaker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
     y-axis "stars" 112 --> 115
     line [113, 114, 114]
 ```
 
-2026-10-18 113 → 2026-10-25 114（+1）
+2026-10-18 113 → 2026-10-26 114（+1）
 
 
 ---

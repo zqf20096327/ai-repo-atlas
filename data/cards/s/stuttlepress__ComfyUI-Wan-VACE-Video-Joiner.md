@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stuttlepress/ComfyUI-Wan-VACE-Video-Joiner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-25"]
-    y-axis "stars" 106 --> 108
-    line [107, 107]
+    x-axis ["2026-10-18", "2026-10-26"]
+    y-axis "stars" 106 --> 110
+    line [107, 109]
 ```
 
-2026-10-18 107 → 2026-10-25 107（+0）
+2026-10-18 107 → 2026-10-26 109（+2）
 
 
 ---
