@@ -1,1 +1,77 @@
-{"fn": "zhouchunpong/multi-view-3DGPR", "sha": "3c5a635cb328", "source": "readme", "identity": {"one_liner": "3D 探地雷达路基病害检测的多视图融合蒸馏框架与数据集", "review": "论文《Multi-View Fusion and Distillation for Subgrade Distresses Detection based on 3D-GPR》的参考代码与数据集。方法利用原生 3D-GPR 数据构建多视图图像数据集，相比 A-scan/B-scan 提供更丰富空间信息，相比 C-scan 降低计算复杂度；提出 GPR-MVFD 框架，结合注意力融合与多视图蒸馏，并采用自适应学习机制稳定训练。数据集经 Google Drive 链接提供下载，训练与测试分别通过 Python 脚本运行，依赖 Python 3.7、PyTorch 1.11.0 与 CUDA 11.3。", "highlights": ["基于原生 3D-GPR 数据构建的多视图图像数据集", "GPR-MVFD 框架：注意力融合 + 多视图蒸馏 + 自适应学习机制", "提供训练与评估脚本（train/test_DenseNet121_MVFD.py）", "数据集通过 Google Drive 链接提供下载"], "use_cases": ["复现论文中的路基病害检测方法", "使用多视图 GPR 数据集做检测研究", "作为多视图学习/知识蒸馏方法的实验基线"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2308.04779", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["探地雷达", "路基病害检测", "知识蒸馏", "多视图学习", "论文代码"], "domain": "计算机视觉/道路工程检测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: The 3D ground-penetrating radar (3D-GPR) has been widely used for the subgrade distress detection. To enhance the effici", "L13: based fusion and multi-view distillation to facilitate significant feature extraction for subgrade distresses. In additi"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zhouchunpong/multi-view-3DGPR",
+ "sha": "3c5a635cb328",
+ "source": "readme",
+ "identity": {
+  "one_liner": "3D 探地雷达路基病害检测的多视图融合蒸馏框架与数据集",
+  "review": "论文《Multi-View Fusion and Distillation for Subgrade Distresses Detection based on 3D-GPR》的参考代码与数据集。方法利用原生 3D-GPR 数据构建多视图图像数据集，相比 A-scan/B-scan 提供更丰富空间信息，相比 C-scan 降低计算复杂度；提出 GPR-MVFD 框架，结合注意力融合与多视图蒸馏，并采用自适应学习机制稳定训练。数据集经 Google Drive 链接提供下载，训练与测试分别通过 Python 脚本运行，依赖 Python 3.7、PyTorch 1.11.0 与 CUDA 11.3。",
+  "highlights": [
+   "基于原生 3D-GPR 数据构建的多视图图像数据集",
+   "GPR-MVFD 框架：注意力融合 + 多视图蒸馏 + 自适应学习机制",
+   "提供训练与评估脚本（train/test_DenseNet121_MVFD.py）",
+   "数据集通过 Google Drive 链接提供下载"
+  ],
+  "use_cases": [
+   "复现论文中的路基病害检测方法",
+   "使用多视图 GPR 数据集做检测研究",
+   "作为多视图学习/知识蒸馏方法的实验基线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2308.04779",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "探地雷达",
+   "路基病害检测",
+   "知识蒸馏",
+   "多视图学习",
+   "论文代码"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: The 3D ground-penetrating radar (3D-GPR) has been widely used for the subgrade distress detection. To enhance the effici",
+   "L13: based fusion and multi-view distillation to facilitate significant feature extraction for subgrade distresses. In additi"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

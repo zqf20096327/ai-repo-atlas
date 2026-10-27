@@ -33,7 +33,7 @@ Gray 是以单个静态 Rust 二进制分发的编码与自动化 agent 框架�
 
 ## 场景标签
 
- · 领域:AI agent/开发工具
+`Agent 框架` `编码 Agent` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

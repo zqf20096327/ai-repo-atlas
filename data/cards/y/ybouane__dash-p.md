@@ -33,7 +33,7 @@ CLI 与 TypeScript 库，通过伪终端启动官方 claude 命令的交互式 T
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编排
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

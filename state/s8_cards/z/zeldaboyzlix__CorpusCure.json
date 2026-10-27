@@ -1,1 +1,76 @@
-{"fn": "zeldaboyzlix/CorpusCure", "sha": "7e80521441e4", "source": "readme", "identity": {"one_liner": "RAG 语料库诊断工具：检测注入、过期、重复等问题并打分", "review": "面向检索增强生成（RAG）语料库的数据质量检查工具，由两个组件构成：Python 审计器 corpuscure 解析文档并分块后运行五项启发式检测（提示注入签名、基于 front-matter 日期的过期检测、基于 Jaccard 重叠与非对称否定的矛盾候选、权威声明与溯源元数据交叉核验、过小块与内容指纹重复检测），按严重度扣分输出健康分与分级，可用作 CI 门禁；Go 扫描器 corpusscan 并发遍历目录做 SHA-256 哈希找字节级重复并生成清单。两者均零第三方依赖，纯标准库与 Go 工具链，输出确定性、每条发现带证据片段。", "highlights": ["五项启发式检测：注入/过期/矛盾/权威/可达性，输出健康分与 CI 退出码", "Go 扫描器 SHA-256 并发哈希查找字节级重复，64 KiB 流式处理大文件", "Python 部分纯标准库、Go 部分仅用工具链，无任何第三方依赖", "JSON 报告输出与 --fail-under 阈值门禁，可作 Python 库调用"], "use_cases": ["RAG 语料入库前检测提示注入与过期文档", "CI 流水线中用健康分阈值拦截不合格语料", "找出语料库中重复与不可检索的死块以精简索引"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RAG", "数据质量", "语料清洗", "CLI工具", "CI门禁"], "domain": "RAG 数据质量/数据工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: A retrieval-augmented generation system is only as trustworthy as the corpus it", "L29: |`corpuscure`|Python 3.10+|Reads documents, runs five diagnostic assays, emits a health-scored report.|", "L255: python -m corpuscure audit ./corpus --format json --output report.json --fail-under 70"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zeldaboyzlix/CorpusCure",
+ "sha": "7e80521441e4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RAG 语料库诊断工具：检测注入、过期、重复等问题并打分",
+  "review": "面向检索增强生成（RAG）语料库的数据质量检查工具，由两个组件构成：Python 审计器 corpuscure 解析文档并分块后运行五项启发式检测（提示注入签名、基于 front-matter 日期的过期检测、基于 Jaccard 重叠与非对称否定的矛盾候选、权威声明与溯源元数据交叉核验、过小块与内容指纹重复检测），按严重度扣分输出健康分与分级，可用作 CI 门禁；Go 扫描器 corpusscan 并发遍历目录做 SHA-256 哈希找字节级重复并生成清单。两者均零第三方依赖，纯标准库与 Go 工具链，输出确定性、每条发现带证据片段。",
+  "highlights": [
+   "五项启发式检测：注入/过期/矛盾/权威/可达性，输出健康分与 CI 退出码",
+   "Go 扫描器 SHA-256 并发哈希查找字节级重复，64 KiB 流式处理大文件",
+   "Python 部分纯标准库、Go 部分仅用工具链，无任何第三方依赖",
+   "JSON 报告输出与 --fail-under 阈值门禁，可作 Python 库调用"
+  ],
+  "use_cases": [
+   "RAG 语料入库前检测提示注入与过期文档",
+   "CI 流水线中用健康分阈值拦截不合格语料",
+   "找出语料库中重复与不可检索的死块以精简索引"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "数据质量",
+   "语料清洗",
+   "CLI工具",
+   "CI门禁"
+  ],
+  "domain": "RAG 数据质量/数据工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: A retrieval-augmented generation system is only as trustworthy as the corpus it",
+   "L29: |`corpuscure`|Python 3.10+|Reads documents, runs five diagnostic assays, emits a health-scored report.|",
+   "L255: python -m corpuscure audit ./corpus --format json --output report.json --fail-under 70"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

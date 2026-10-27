@@ -1,1 +1,78 @@
-{"fn": "una-auxme/ros2smolvla_docker", "sha": "d9d975c272e2", "source": "readme", "identity": {"one_liner": "在 UR 协作机器人上运行 LeRobot/SmoLVLA 的 Docker 容器套件", "review": "由三个 Docker 容器组成的机器人学习运行环境：ROS2 驱动容器（默认 UR10e + Robotiq Hand-E 夹爪）、Gazebo 仿真容器、以及与 ROS2 互联的 LeRobot 框架容器。支持游戏手柄遥操作录制数据集、基于 lerobot/smolvla_base 微调策略、经 Hugging Face 加载模型并在真机或仿真中执行；通过 Cartesian 速度/位置转换层与相机桥接包连接 LeRobot 与 ROS2。要求 NVIDIA GPU（CUDA 12.6.3）、NVIDIA Container Toolkit，在 Ubuntu 24.04 + ROS2 Jazzy 上测试。", "highlights": ["三容器架构：ROS2 驱动 + Gazebo 仿真 + LeRobot 框架", "手柄 6DOF 遥操作录制数据集、lerobot-train 微调 SmolVLA 策略", "ROS2↔LeRobot 转换层（Twist 速度→笛卡尔位置）与相机桥接包", "docker compose 按 sim/real profile 构建运行，支持 GPU 集成"], "use_cases": ["在 UR10e 真机或 Gazebo 仿真中录制机器人操作数据集", "微调 SmolVLA 视觉-语言-动作模型并部署到机械臂执行", "搭建 VLA 模型研究到工业级轻量机器人部署的完整流程"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器人学习", "VLA模型", "Docker容器化", "ROS2", "具身智能"], "domain": "机器人/机器学习基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This repository contains the Docker container definitions for running the LeRobot", "L6: The project is divided into three Docker containers:", "L74: lerobot-train \\"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "una-auxme/ros2smolvla_docker",
+ "sha": "d9d975c272e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 UR 协作机器人上运行 LeRobot/SmoLVLA 的 Docker 容器套件",
+  "review": "由三个 Docker 容器组成的机器人学习运行环境：ROS2 驱动容器（默认 UR10e + Robotiq Hand-E 夹爪）、Gazebo 仿真容器、以及与 ROS2 互联的 LeRobot 框架容器。支持游戏手柄遥操作录制数据集、基于 lerobot/smolvla_base 微调策略、经 Hugging Face 加载模型并在真机或仿真中执行；通过 Cartesian 速度/位置转换层与相机桥接包连接 LeRobot 与 ROS2。要求 NVIDIA GPU（CUDA 12.6.3）、NVIDIA Container Toolkit，在 Ubuntu 24.04 + ROS2 Jazzy 上测试。",
+  "highlights": [
+   "三容器架构：ROS2 驱动 + Gazebo 仿真 + LeRobot 框架",
+   "手柄 6DOF 遥操作录制数据集、lerobot-train 微调 SmolVLA 策略",
+   "ROS2↔LeRobot 转换层（Twist 速度→笛卡尔位置）与相机桥接包",
+   "docker compose 按 sim/real profile 构建运行，支持 GPU 集成"
+  ],
+  "use_cases": [
+   "在 UR10e 真机或 Gazebo 仿真中录制机器人操作数据集",
+   "微调 SmolVLA 视觉-语言-动作模型并部署到机械臂执行",
+   "搭建 VLA 模型研究到工业级轻量机器人部署的完整流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人学习",
+   "VLA模型",
+   "Docker容器化",
+   "ROS2",
+   "具身智能"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains the Docker container definitions for running the LeRobot",
+   "L6: The project is divided into three Docker containers:",
+   "L74: lerobot-train \\"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

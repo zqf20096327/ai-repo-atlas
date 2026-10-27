@@ -1,1 +1,77 @@
-{"fn": "yqzhong7/AIPW", "sha": "af3d6326ee36", "source": "readme", "identity": {"one_liner": "R 包：双重稳健的 AIPW 方法估计平均因果效应", "review": "R 统计包，实现增广逆概率加权（AIPW）双重稳健估计器，用于估计二分类暴露的平均处理效应（风险差 RD、风险比 RR、比值比 OR），支持用户自定义 stacked 机器学习算法（SuperLearner 或 sl3）。提供 R6 类的链式调用接口、Repeated 类做重复交叉拟合以降低数据划分随机性、基于 future.apply 的并行计算与 progressr 进度条，并可接收 tmle/tmle3 拟合对象。新 GitHub 版本（v0.6.3.1 后）不再支持 sl3 与 tmle3，需安装 aje_version 分支；使用者需自行检验因果假设。", "highlights": ["AIPW 双重稳健估计 RD/RR/OR 三种效应尺度", "Repeated 类支持重复交叉拟合与中位数汇总", "支持 SuperLearner/sl3 堆叠机器学习与 future.apply 并行", "AIPW_tmle 类可接收 tmle/tmle3 拟合对象作为输入"], "use_cases": ["流行病学研究中估计二分类暴露的平均处理效应", "用机器学习嵌套的半参数方法做因果推断", "通过重复交叉拟合获得更稳定的估计结果"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.1093/aje/kwab207", "demo_url": null, "self_declared_early": {"flag": false, "lines": [3]}}, "links": {"scenario_tags": ["因果推断", "统计估计", "R包", "机器学习"], "domain": "统计/因果推断", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: Augmented inverse probability weighting (AIPW) is a doubly robust", "L16: user-defined stacked machine learning algorithms", "L60: The major new feature introduced is the `Repeated` class, which allows"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yqzhong7/AIPW",
+ "sha": "af3d6326ee36",
+ "source": "readme",
+ "identity": {
+  "one_liner": "R 包：双重稳健的 AIPW 方法估计平均因果效应",
+  "review": "R 统计包，实现增广逆概率加权（AIPW）双重稳健估计器，用于估计二分类暴露的平均处理效应（风险差 RD、风险比 RR、比值比 OR），支持用户自定义 stacked 机器学习算法（SuperLearner 或 sl3）。提供 R6 类的链式调用接口、Repeated 类做重复交叉拟合以降低数据划分随机性、基于 future.apply 的并行计算与 progressr 进度条，并可接收 tmle/tmle3 拟合对象。新 GitHub 版本（v0.6.3.1 后）不再支持 sl3 与 tmle3，需安装 aje_version 分支；使用者需自行检验因果假设。",
+  "highlights": [
+   "AIPW 双重稳健估计 RD/RR/OR 三种效应尺度",
+   "Repeated 类支持重复交叉拟合与中位数汇总",
+   "支持 SuperLearner/sl3 堆叠机器学习与 future.apply 并行",
+   "AIPW_tmle 类可接收 tmle/tmle3 拟合对象作为输入"
+  ],
+  "use_cases": [
+   "流行病学研究中估计二分类暴露的平均处理效应",
+   "用机器学习嵌套的半参数方法做因果推断",
+   "通过重复交叉拟合获得更稳定的估计结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1093/aje/kwab207",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "因果推断",
+   "统计估计",
+   "R包",
+   "机器学习"
+  ],
+  "domain": "统计/因果推断",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Augmented inverse probability weighting (AIPW) is a doubly robust",
+   "L16: user-defined stacked machine learning algorithms",
+   "L60: The major new feature introduced is the `Repeated` class, which allows"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

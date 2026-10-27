@@ -33,7 +33,7 @@ Rust 实现的单二进制 AI agent 运行时，目标设备为 Raspberry Pi Zer
 
 ## 场景标签
 
- · 领域:AI agent 基础设施
+`Agent 框架` `Agent 记忆` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

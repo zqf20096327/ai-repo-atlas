@@ -1,1 +1,76 @@
-{"fn": "thinkingmachines/unicef-ai4d-poverty-mapping", "sha": "6579aaa9abe2", "source": "readme", "identity": {"one_liner": "东南亚九国相对财富（贫困）预测的开源数据集与机器学习模型", "review": "Thinking Machines 与 UNICEF AI4D 合作的贫困制图项目：开放数据集、训练好的模型及复现脚本，基于 DHS 调查数据、EOG 夜间灯光等公开地理空间数据构建相对财富估计模型，覆盖东南亚九国。训练与全国范围预测通过 Jupyter notebook 复现：有 DHS 数据的四国走单国 rollout，其余五国走跨国 rollout。原始 DHS 数据因使用条款不随仓库分发，需用户自行向 DHS 申请；EOG 夜光数据需注册账号；数据缓存需 40-50GB 磁盘空间。提供 conda/make 本地环境搭建和 Docker 镜像两种运行方式。", "highlights": ["开放数据集、训练模型与复现 notebook（单国/跨国两种 rollout 路径）", "读取 DHS 调查数据、EOG 夜间灯光等地理空间数据构建特征", "提供 ghcr.io Docker 镜像，支持交互式全国范围模型 rollout", "依赖 pip-tools 管理依赖，miniconda 安装 GDAL"], "use_cases": ["复现或扩展东南亚国家的相对财富预测模型", "用新年度夜光/Ookla 数据对其他国家做模型 rollout", "获取区域贫困制图的开源数据集与训练产物"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["地理空间分析", "贫困制图", "机器学习", "发展/社会影响", "开源科学"], "domain": "地理空间机器学习/社会发展", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: The UNICEF AI4D Relative Wealth Project aims to develop open datasets and machine learning (ML) models for poverty mappi", "L21: * For countries with available DHS training data (Cambodia, Myanmar, Philippines, and Timor-Leste), please refer to the ", "L23: * For the other countries without DHS training data (Indonesia, Laos, Malaysia, Thailand, and Vietnam), please refer to "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thinkingmachines/unicef-ai4d-poverty-mapping",
+ "sha": "6579aaa9abe2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "东南亚九国相对财富（贫困）预测的开源数据集与机器学习模型",
+  "review": "Thinking Machines 与 UNICEF AI4D 合作的贫困制图项目：开放数据集、训练好的模型及复现脚本，基于 DHS 调查数据、EOG 夜间灯光等公开地理空间数据构建相对财富估计模型，覆盖东南亚九国。训练与全国范围预测通过 Jupyter notebook 复现：有 DHS 数据的四国走单国 rollout，其余五国走跨国 rollout。原始 DHS 数据因使用条款不随仓库分发，需用户自行向 DHS 申请；EOG 夜光数据需注册账号；数据缓存需 40-50GB 磁盘空间。提供 conda/make 本地环境搭建和 Docker 镜像两种运行方式。",
+  "highlights": [
+   "开放数据集、训练模型与复现 notebook（单国/跨国两种 rollout 路径）",
+   "读取 DHS 调查数据、EOG 夜间灯光等地理空间数据构建特征",
+   "提供 ghcr.io Docker 镜像，支持交互式全国范围模型 rollout",
+   "依赖 pip-tools 管理依赖，miniconda 安装 GDAL"
+  ],
+  "use_cases": [
+   "复现或扩展东南亚国家的相对财富预测模型",
+   "用新年度夜光/Ookla 数据对其他国家做模型 rollout",
+   "获取区域贫困制图的开源数据集与训练产物"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "地理空间分析",
+   "贫困制图",
+   "机器学习",
+   "发展/社会影响",
+   "开源科学"
+  ],
+  "domain": "地理空间机器学习/社会发展",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: The UNICEF AI4D Relative Wealth Project aims to develop open datasets and machine learning (ML) models for poverty mappi",
+   "L21: * For countries with available DHS training data (Cambodia, Myanmar, Philippines, and Timor-Leste), please refer to the ",
+   "L23: * For the other countries without DHS training data (Indonesia, Laos, Malaysia, Thailand, and Vietnam), please refer to "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

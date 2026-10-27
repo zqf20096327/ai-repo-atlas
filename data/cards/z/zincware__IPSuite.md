@@ -33,7 +33,7 @@ IPSuite 提供生成 Machine Learned Interatomic Potentials（机器学习原子
 
 ## 场景标签
 
- · 领域:计算物理/化学·分子动力学
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

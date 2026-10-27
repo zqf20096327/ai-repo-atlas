@@ -1,1 +1,75 @@
-{"fn": "youngwoocho02/unity-scanner", "sha": "5733c6f7604a", "source": "readme", "identity": {"one_liner": "为 AI agent 压缩 Unity 资产输出的 CLI 扫描工具", "review": "面向 AI agent 工作流的 Unity 项目资产扫描 CLI，提供 list/read/search/refs 四个命令，直接读取当前项目文件，无需缓存或 Unity Editor 连接。它将 Unity YAML 对象转为 GameObject 树、折叠重复组件集合与编号名称、把 GUID 解析为路径、省略 .meta 文件，从而把 CLI 输出压缩后再交给模型，README 示例中字符量减少约 80%-99%。支持文件级并行扫描与 --depth/--limit 等控制选项，通过安装脚本分发二进制，源码用 Go 构建。", "highlights": ["list/read/search/refs 四命令覆盖资产列举、YAML 结构化读取、搜索与 GUID 引用查找", "Unity 感知压缩：层级树、组件组折叠、GUID 解析为路径、.meta 省略", "无缓存、无需 Editor 连接，直接读取当前项目文件", "广域搜索按文件并行，示例中名称搜索 1500ms 降至 600ms"], "use_cases": ["让 AI agent 以更少 token 浏览和理解 Unity 项目资产", "查找某资产或 GUID 被哪些 prefab/scene/asset 引用", "先以压缩视图定位目标，再下钻查看组件字段细节"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Unity", "CLI工具", "token压缩", "AI agent 工作流", "游戏开发"], "domain": "游戏开发/开发者工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L22: 1. Reduce token cost. Like RTK, reduce CLI output before it reaches the model by compressing repeated Unity paths, exten", "L28: - CLI reads current files only: no cache, no required editor state."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "youngwoocho02/unity-scanner",
+ "sha": "5733c6f7604a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI agent 压缩 Unity 资产输出的 CLI 扫描工具",
+  "review": "面向 AI agent 工作流的 Unity 项目资产扫描 CLI，提供 list/read/search/refs 四个命令，直接读取当前项目文件，无需缓存或 Unity Editor 连接。它将 Unity YAML 对象转为 GameObject 树、折叠重复组件集合与编号名称、把 GUID 解析为路径、省略 .meta 文件，从而把 CLI 输出压缩后再交给模型，README 示例中字符量减少约 80%-99%。支持文件级并行扫描与 --depth/--limit 等控制选项，通过安装脚本分发二进制，源码用 Go 构建。",
+  "highlights": [
+   "list/read/search/refs 四命令覆盖资产列举、YAML 结构化读取、搜索与 GUID 引用查找",
+   "Unity 感知压缩：层级树、组件组折叠、GUID 解析为路径、.meta 省略",
+   "无缓存、无需 Editor 连接，直接读取当前项目文件",
+   "广域搜索按文件并行，示例中名称搜索 1500ms 降至 600ms"
+  ],
+  "use_cases": [
+   "让 AI agent 以更少 token 浏览和理解 Unity 项目资产",
+   "查找某资产或 GUID 被哪些 prefab/scene/asset 引用",
+   "先以压缩视图定位目标，再下钻查看组件字段细节"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Unity",
+   "CLI工具",
+   "token压缩",
+   "AI agent 工作流",
+   "游戏开发"
+  ],
+  "domain": "游戏开发/开发者工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: 1. Reduce token cost. Like RTK, reduce CLI output before it reaches the model by compressing repeated Unity paths, exten",
+   "L28: - CLI reads current files only: no cache, no required editor state."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

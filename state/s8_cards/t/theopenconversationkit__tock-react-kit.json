@@ -1,1 +1,76 @@
-{"fn": "theopenconversationkit/tock-react-kit", "sha": "ac89da5ad0be", "source": "readme", "identity": {"one_liner": "将 Tock 对话机器人嵌入网页的 React 组件工具包", "review": "面向 Web 开发者的聊天界面工具包：通过 Bot API（可用 SSE）连接运行于 API 模式的 Tock Bot，提供对话用户界面、默认组件与动画、主题化样式（调色板/字号/尺寸/CSS 覆盖）、自定义渲染器（文本/图片/按钮）以及消息元数据与流式响应支持。可经 npm 作为 React 模块引入，或通过 unpkg 独立脚本在纯 HTML 页面使用（脚本自带 React 副本）。README 声明已被 SNCF、Enedis 等机构的对话助手用于生产环境。前提条件是需先运行一个 API 模式的 Tock Bot。", "highlights": ["通过 Bot API（可用 SSE）与 Tock Bot 通信，支持流式响应", "提供 renderChat 与可复用的 React 组件、useTock Hook", "主题化样式：调色板、排版、尺寸及各类 CSS 覆盖", "自定义渲染器支持文本/图片/按钮的重绘"], "use_cases": ["在 React 应用中嵌入 Tock 聊天机器人界面", "不用构建工具、在纯 HTML 页面用独立脚本渲染聊天窗口", "按品牌定制聊天界面的颜色、字体与组件样式"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["聊天机器人", "Web 前端组件", "对话式AI", "React"], "domain": "对话式 AI/前端组件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L21: A toolkit to easily embed Tock chatbots into Web pages.", "L25: - connection/dialog with a Tock bot using _Bot API_ (using SSE if available)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "theopenconversationkit/tock-react-kit",
+ "sha": "ac89da5ad0be",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Tock 对话机器人嵌入网页的 React 组件工具包",
+  "review": "面向 Web 开发者的聊天界面工具包：通过 Bot API（可用 SSE）连接运行于 API 模式的 Tock Bot，提供对话用户界面、默认组件与动画、主题化样式（调色板/字号/尺寸/CSS 覆盖）、自定义渲染器（文本/图片/按钮）以及消息元数据与流式响应支持。可经 npm 作为 React 模块引入，或通过 unpkg 独立脚本在纯 HTML 页面使用（脚本自带 React 副本）。README 声明已被 SNCF、Enedis 等机构的对话助手用于生产环境。前提条件是需先运行一个 API 模式的 Tock Bot。",
+  "highlights": [
+   "通过 Bot API（可用 SSE）与 Tock Bot 通信，支持流式响应",
+   "提供 renderChat 与可复用的 React 组件、useTock Hook",
+   "主题化样式：调色板、排版、尺寸及各类 CSS 覆盖",
+   "自定义渲染器支持文本/图片/按钮的重绘"
+  ],
+  "use_cases": [
+   "在 React 应用中嵌入 Tock 聊天机器人界面",
+   "不用构建工具、在纯 HTML 页面用独立脚本渲染聊天窗口",
+   "按品牌定制聊天界面的颜色、字体与组件样式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天机器人",
+   "Web 前端组件",
+   "对话式AI",
+   "React"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: A toolkit to easily embed Tock chatbots into Web pages.",
+   "L25: - connection/dialog with a Tock bot using _Bot API_ (using SSE if available)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

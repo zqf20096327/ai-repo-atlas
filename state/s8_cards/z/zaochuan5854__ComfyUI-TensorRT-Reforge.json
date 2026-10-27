@@ -1,1 +1,81 @@
-{"fn": "zaochuan5854/ComfyUI-TensorRT-Reforge", "sha": "c557337f18fd", "source": "readme", "identity": {"one_liner": "面向 ComfyUI 的 TensorRT 引擎导出与加载节点", "review": "ComfyUI 的自定义节点，将扩散模型导出为 TensorRT 引擎并在 ComfyUI 中加载运行，提供 NVIDIA GPU 上的推理加速。源自 ComfyUI_TensorRT 项目的重构版本，支持 Anima、Flux、SD3/SD3.5、SDXL、SD1.5、AuraFlow、SVD 等模型架构；通过 Dynamo ONNX 导出与动态 Opset 管理提升导出成功率，利用 NVIDIA Refit 实现接近即时的 LoRA 权重切换（实验性）。要求 CUDA 12.x 环境（推荐 12.8），不支持 CUDA 11 与 13.x。以 git clone 源码方式安装到 custom_nodes 目录并 pip 安装依赖。", "highlights": ["支持 Anima/Flux/SD3/SD3.5/SDXL/SD1.5/AuraFlow/SVD 架构的 TensorRT 引擎导出与加载", "基于 NVIDIA Refit 的 LoRA 近即时权重切换（实验性）", "Dynamo ONNX 导出与动态 Opset 管理（18 vs 25）", "LoRA 需在导出时启用并生成 .bundle 元数据文件"], "use_cases": ["在 ComfyUI 工作流中用 TensorRT 加速 Stable Diffusion 类模型推理", "导出引擎后快速切换不同 LoRA 而无需重建引擎", "为新架构扩散模型（如 Anima、Flux）生成 TensorRT 引擎"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [15], "note": "Refit LoRA 支持标注为 Experimental"}}, "links": {"scenario_tags": ["ComfyUI节点", "TensorRT", "图像生成加速", "LoRA", "推理优化"], "domain": "图像生成/推理加速", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L2: A modernized, robust, and highly extensible TensorRT engine exporter and loader for ComfyUI.", "L33: 1. Clone this repository into your `ComfyUI/custom_nodes` directory:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zaochuan5854/ComfyUI-TensorRT-Reforge",
+ "sha": "c557337f18fd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 ComfyUI 的 TensorRT 引擎导出与加载节点",
+  "review": "ComfyUI 的自定义节点，将扩散模型导出为 TensorRT 引擎并在 ComfyUI 中加载运行，提供 NVIDIA GPU 上的推理加速。源自 ComfyUI_TensorRT 项目的重构版本，支持 Anima、Flux、SD3/SD3.5、SDXL、SD1.5、AuraFlow、SVD 等模型架构；通过 Dynamo ONNX 导出与动态 Opset 管理提升导出成功率，利用 NVIDIA Refit 实现接近即时的 LoRA 权重切换（实验性）。要求 CUDA 12.x 环境（推荐 12.8），不支持 CUDA 11 与 13.x。以 git clone 源码方式安装到 custom_nodes 目录并 pip 安装依赖。",
+  "highlights": [
+   "支持 Anima/Flux/SD3/SD3.5/SDXL/SD1.5/AuraFlow/SVD 架构的 TensorRT 引擎导出与加载",
+   "基于 NVIDIA Refit 的 LoRA 近即时权重切换（实验性）",
+   "Dynamo ONNX 导出与动态 Opset 管理（18 vs 25）",
+   "LoRA 需在导出时启用并生成 .bundle 元数据文件"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中用 TensorRT 加速 Stable Diffusion 类模型推理",
+   "导出引擎后快速切换不同 LoRA 而无需重建引擎",
+   "为新架构扩散模型（如 Anima、Flux）生成 TensorRT 引擎"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15
+   ],
+   "note": "Refit LoRA 支持标注为 Experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI节点",
+   "TensorRT",
+   "图像生成加速",
+   "LoRA",
+   "推理优化"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: A modernized, robust, and highly extensible TensorRT engine exporter and loader for ComfyUI.",
+   "L33: 1. Clone this repository into your `ComfyUI/custom_nodes` directory:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

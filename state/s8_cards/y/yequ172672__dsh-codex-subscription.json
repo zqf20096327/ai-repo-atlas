@@ -1,1 +1,81 @@
-{"fn": "yequ172672/dsh-codex-subscription", "sha": "426762d071d1", "source": "readme", "identity": {"one_liner": "DSH 插件：复用 Codex CLI 登录凭证在 DSH 中使用 ChatGPT 订阅模型", "review": "面向 DeepSeek Harness（DSH）用户的 LLM 适配器插件：读取 Codex CLI 登录后写入 ~/.codex/auth.json 的 OAuth 令牌，通过 ChatGPT 订阅端点调用 gpt-6.1-sol 等模型，无需 API Key。机制包括凭证热跟随（每次请求重读 auth.json）、refresh_token 自动刷新并默认写回、实时模型目录拉取（带回退缓存）、OpenAI Responses API SSE 流式映射。限制：仅文本（图片被拒）、依赖版本门控（clientVersion 需 ≥0.160.1 才能取全量目录）、国内网络需配置代理。通过 dsh plugin 命令安装后自动激活。", "highlights": ["复用 Codex CLI 本地 OAuth 凭证，无需 API Key", "凭证热跟随与 refresh_token 自动刷新（默认写回 auth.json）", "模型目录实时拉取，失败时回退缓存与内置静态列表", "0.2.x 通过 Config 字段自动生成设置页表单，热生效"], "use_cases": ["已有 ChatGPT 订阅的用户想在 DSH 里直接用订阅模型对话", "在 DSH 中无缝使用 Codex 订阅模型并配合会话历史导入插件续聊", "国内网络下通过 proxy 配置经代理访问 ChatGPT 后端"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM 接入/适配器", "插件", "凭证复用", "ChatGPT 订阅", "DeepSeek Harness"], "domain": "LLM 基础设施/工具插件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "国内网络需代理的配置说明（如 127.0.0.1:7890）"]}, "trust": {"confidence": "high", "evidence": ["L7: DSH(DeepSeek Harness)LLM 适配器插件:**直接复用 Codex CLI 的本地登录凭证**,在 DSH 中", "L8: 使用 ChatGPT 订阅模型(gpt-6.1-sol 等),不需要 API Key。", "L78: 1. **已安装 dsh 本体**(本插件是 dsh 的 profile 层,必须先有 dsh):"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yequ172672/dsh-codex-subscription",
+ "sha": "426762d071d1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DSH 插件：复用 Codex CLI 登录凭证在 DSH 中使用 ChatGPT 订阅模型",
+  "review": "面向 DeepSeek Harness（DSH）用户的 LLM 适配器插件：读取 Codex CLI 登录后写入 ~/.codex/auth.json 的 OAuth 令牌，通过 ChatGPT 订阅端点调用 gpt-6.1-sol 等模型，无需 API Key。机制包括凭证热跟随（每次请求重读 auth.json）、refresh_token 自动刷新并默认写回、实时模型目录拉取（带回退缓存）、OpenAI Responses API SSE 流式映射。限制：仅文本（图片被拒）、依赖版本门控（clientVersion 需 ≥0.160.1 才能取全量目录）、国内网络需配置代理。通过 dsh plugin 命令安装后自动激活。",
+  "highlights": [
+   "复用 Codex CLI 本地 OAuth 凭证，无需 API Key",
+   "凭证热跟随与 refresh_token 自动刷新（默认写回 auth.json）",
+   "模型目录实时拉取，失败时回退缓存与内置静态列表",
+   "0.2.x 通过 Config 字段自动生成设置页表单，热生效"
+  ],
+  "use_cases": [
+   "已有 ChatGPT 订阅的用户想在 DSH 里直接用订阅模型对话",
+   "在 DSH 中无缝使用 Codex 订阅模型并配合会话历史导入插件续聊",
+   "国内网络下通过 proxy 配置经代理访问 ChatGPT 后端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 接入/适配器",
+   "插件",
+   "凭证复用",
+   "ChatGPT 订阅",
+   "DeepSeek Harness"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "国内网络需代理的配置说明（如 127.0.0.1:7890）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: DSH(DeepSeek Harness)LLM 适配器插件:**直接复用 Codex CLI 的本地登录凭证**,在 DSH 中",
+   "L8: 使用 ChatGPT 订阅模型(gpt-6.1-sol 等),不需要 API Key。",
+   "L78: 1. **已安装 dsh 本体**(本插件是 dsh 的 profile 层,必须先有 dsh):"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

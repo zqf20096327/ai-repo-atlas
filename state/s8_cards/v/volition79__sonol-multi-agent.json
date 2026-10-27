@@ -1,1 +1,83 @@
-{"fn": "volition79/sonol-multi-agent", "sha": "0876dd767617", "source": "readme", "identity": {"one_liner": "面向 Codex CLI 与 Claude Code 的本地多 agent 编排技能包", "review": "由 Source Playground 发布的两个 Sonol 技能（sonol-multi-agent 与 sonol-agent-runtime），须成对安装到 Codex CLI 或 Claude Code 的 skills 目录，用于多 agent 编排流程，包含 UI 仪表盘查看子 agent 流向，编排状态以本地 SQLite 为权威数据源，本地桥接负责仪表盘与运行时访问。仅在 WSL 上的 Codex CLI 与 Windows 上的 Claude Code 环境经过测试，其他环境未验证。", "highlights": ["两个技能（编排与运行时）成对安装，覆盖 Codex CLI 与 Claude Code", "UI 仪表盘审查子 agent 流向", "本地 SQLite 为编排状态的权威存储", "本地优先：浏览器存储不作为编排状态来源"], "use_cases": ["在 Codex CLI/Claude Code 中运行多 agent 编排流程", "通过仪表盘回看子 agent 的执行流向", "在本地保留编排状态便于追溯"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": [31, 36], "note": "仅声明测试环境有限，非早期阶段声明"}}, "links": {"scenario_tags": ["多agent编排", "agent技能", "本地优先", "开发者工具", "SQLite"], "domain": "AI agent 工具/编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: This repository contains the public release of two Sonol skills:", "L8: Both skills must be installed together. Installing only one of them can break the orchestration flow, runtime reporting,", "L80: - This repository publishes the external public-release payload for the local Sonol client/runtime surface.", "L81: - Local SQLite state remains authoritative for orchestration state."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "volition79/sonol-multi-agent",
+ "sha": "0876dd767617",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Codex CLI 与 Claude Code 的本地多 agent 编排技能包",
+  "review": "由 Source Playground 发布的两个 Sonol 技能（sonol-multi-agent 与 sonol-agent-runtime），须成对安装到 Codex CLI 或 Claude Code 的 skills 目录，用于多 agent 编排流程，包含 UI 仪表盘查看子 agent 流向，编排状态以本地 SQLite 为权威数据源，本地桥接负责仪表盘与运行时访问。仅在 WSL 上的 Codex CLI 与 Windows 上的 Claude Code 环境经过测试，其他环境未验证。",
+  "highlights": [
+   "两个技能（编排与运行时）成对安装，覆盖 Codex CLI 与 Claude Code",
+   "UI 仪表盘审查子 agent 流向",
+   "本地 SQLite 为编排状态的权威存储",
+   "本地优先：浏览器存储不作为编排状态来源"
+  ],
+  "use_cases": [
+   "在 Codex CLI/Claude Code 中运行多 agent 编排流程",
+   "通过仪表盘回看子 agent 的执行流向",
+   "在本地保留编排状态便于追溯"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    31,
+    36
+   ],
+   "note": "仅声明测试环境有限，非早期阶段声明"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "agent技能",
+   "本地优先",
+   "开发者工具",
+   "SQLite"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This repository contains the public release of two Sonol skills:",
+   "L8: Both skills must be installed together. Installing only one of them can break the orchestration flow, runtime reporting,",
+   "L80: - This repository publishes the external public-release payload for the local Sonol client/runtime surface.",
+   "L81: - Local SQLite state remains authoritative for orchestration state."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

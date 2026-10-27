@@ -1,1 +1,78 @@
-{"fn": "yghugardare/Elearning", "sha": "7802e1ba0fe2", "source": "readme", "identity": {"one_liner": "全栈在线课程平台：教师售课，AI 助手基于课程转录答疑", "review": "基于 Next.js 14 + Express + MongoDB 的全栈电商式学习平台：教师上传课程视频，学生购买后观看，平台提供实时订单/课程/用户分析仪表盘、即时通知、Stripe 支付与 VdoCipher DRM 视频保护。AI 部分为 ASKAI 答疑助手：视频经 FFMPEG 转音频、AssemblyAI 转录后，接 Google Generative AI（Gemini）按课程内容回答学生疑问；另有学生 Q&A 论坛。转录服务用 Streamlit + Docker 单独交付。", "highlights": ["视频→音频→转录→AI 问答的流水线（AssemblyAI + Gemini）", "管理端实时分析仪表盘（Recharts）与即时通知（socket.io）", "VdoCipher DRM 视频保护与 Stripe 支付", "课程问答论坛与 AI 助手双通道答疑"], "use_cases": ["教师上传课程视频并获得基于课程内容的 AI 答疑", "学生购买课程并通过 AI 助手或论坛提问", "讲师通过仪表盘跟踪销售与学生情况"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://elearning-front-end.vercel.app/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["在线教育", "课程平台", "AI答疑", "视频转录", "全栈Web应用"], "domain": "在线教育/Web 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This full-stack E-learning website allows tutors to upload courses and students to purchase them. Students can get doubt", "L63: - **@google/generative-ai:** Integration with Google's Generative AI LLM for AI assistance."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yghugardare/Elearning",
+ "sha": "7802e1ba0fe2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "全栈在线课程平台：教师售课，AI 助手基于课程转录答疑",
+  "review": "基于 Next.js 14 + Express + MongoDB 的全栈电商式学习平台：教师上传课程视频，学生购买后观看，平台提供实时订单/课程/用户分析仪表盘、即时通知、Stripe 支付与 VdoCipher DRM 视频保护。AI 部分为 ASKAI 答疑助手：视频经 FFMPEG 转音频、AssemblyAI 转录后，接 Google Generative AI（Gemini）按课程内容回答学生疑问；另有学生 Q&A 论坛。转录服务用 Streamlit + Docker 单独交付。",
+  "highlights": [
+   "视频→音频→转录→AI 问答的流水线（AssemblyAI + Gemini）",
+   "管理端实时分析仪表盘（Recharts）与即时通知（socket.io）",
+   "VdoCipher DRM 视频保护与 Stripe 支付",
+   "课程问答论坛与 AI 助手双通道答疑"
+  ],
+  "use_cases": [
+   "教师上传课程视频并获得基于课程内容的 AI 答疑",
+   "学生购买课程并通过 AI 助手或论坛提问",
+   "讲师通过仪表盘跟踪销售与学生情况"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://elearning-front-end.vercel.app/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "在线教育",
+   "课程平台",
+   "AI答疑",
+   "视频转录",
+   "全栈Web应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This full-stack E-learning website allows tutors to upload courses and students to purchase them. Students can get doubt",
+   "L63: - **@google/generative-ai:** Integration with Google's Generative AI LLM for AI assistance."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

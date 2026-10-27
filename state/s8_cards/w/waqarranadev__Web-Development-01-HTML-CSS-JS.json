@@ -1,1 +1,76 @@
-{"fn": "waqarranadev/Web-Development-01-HTML-CSS-JS", "sha": "1f5b9004fc06", "source": "readme", "identity": {"one_liner": "面向学生的 AI 辅助 Web 开发入门课程资料仓库", "review": "由讲师 Waqar Rana 组织的课程教学材料仓库：以 12 周大纲讲授 HTML、CSS、JavaScript 基础（响应式布局、DOM、异步、数据结构等），并在教学流程中引入 ChatGPT、Google Gemini、GitHub Copilot 等 AI 工具做代码生成、调试与提示词工程练习。含学习成果清单、期末项目要求（部署到 GitHub Pages 或 Netlify）、评分标准与学生提交作业的贡献指引（Fork/分支/PR）。仓库本体是课程文档，不含可运行的软件产品。", "highlights": ["12 周课程大纲覆盖 HTML/CSS/JS 基础到异步 JavaScript", "将 ChatGPT、Gemini、Copilot 纳入教学与练习流程", "期末项目要求含部署到 GitHub Pages 或 Netlify", "提供学生作业提交的 Fork/分支/PR 流程指引"], "use_cases": ["跟着周计划从零学习前端三件套", "在课程框架内练习用 AI 工具辅助写代码和提示词", "作为教学大纲与评分标准模板参考"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["课程/教程", "前端入门", "AI辅助编程教学", "教学材料"], "domain": "教育/Web 开发教学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: This repository contains all course materials, weekly topics, and resources for the **AI-Powered Web Development** cours", "L34: ## 🧭 Course Outline"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "waqarranadev/Web-Development-01-HTML-CSS-JS",
+ "sha": "1f5b9004fc06",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学生的 AI 辅助 Web 开发入门课程资料仓库",
+  "review": "由讲师 Waqar Rana 组织的课程教学材料仓库：以 12 周大纲讲授 HTML、CSS、JavaScript 基础（响应式布局、DOM、异步、数据结构等），并在教学流程中引入 ChatGPT、Google Gemini、GitHub Copilot 等 AI 工具做代码生成、调试与提示词工程练习。含学习成果清单、期末项目要求（部署到 GitHub Pages 或 Netlify）、评分标准与学生提交作业的贡献指引（Fork/分支/PR）。仓库本体是课程文档，不含可运行的软件产品。",
+  "highlights": [
+   "12 周课程大纲覆盖 HTML/CSS/JS 基础到异步 JavaScript",
+   "将 ChatGPT、Gemini、Copilot 纳入教学与练习流程",
+   "期末项目要求含部署到 GitHub Pages 或 Netlify",
+   "提供学生作业提交的 Fork/分支/PR 流程指引"
+  ],
+  "use_cases": [
+   "跟着周计划从零学习前端三件套",
+   "在课程框架内练习用 AI 工具辅助写代码和提示词",
+   "作为教学大纲与评分标准模板参考"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教程",
+   "前端入门",
+   "AI辅助编程教学",
+   "教学材料"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: This repository contains all course materials, weekly topics, and resources for the **AI-Powered Web Development** cours",
+   "L34: ## 🧭 Course Outline"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

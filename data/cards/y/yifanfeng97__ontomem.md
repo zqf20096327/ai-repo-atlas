@@ -33,7 +33,7 @@ OntoMem 是面向 AI agent 开发者的 Python 记忆库：以 Pydantic schema �
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 记忆
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

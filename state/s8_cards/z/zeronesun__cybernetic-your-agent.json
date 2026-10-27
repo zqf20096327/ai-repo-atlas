@@ -1,1 +1,82 @@
-{"fn": "zeronesun/cybernetic-your-agent", "sha": "73c00a60a25d", "source": "readme", "identity": {"one_liner": "用钱学森工程控制论重组 AI Agent 记忆与技能架构的教程", "review": "一套纯教程仓库（无代码库/API）：将工程控制论的前馈、积分控制、层级分离、自监控四个概念，适配到 Hermes 3、Claude（with MCP）、自定义 GPTs 等具备持久化记忆与技能模块的 Agent 平台。不增加 prompt 条目、不引入新模型，通过架构重组实现任务前加载偏好教训、二次错误下沉为规则、记忆/技能分层存储、输出前自检闸门与每周自动复盘。部署方式是把一句训练指令发给 Agent 或按第五章指令手动复制操作，仓库另提供指令提取版与示例文件。", "highlights": ["四个控制论概念：前馈避坑、积分防震荡、层级分离、交付自检", "三层记忆体 + 技能层架构，记忆只存'为什么'、技能只存'怎么做'", "一句指令触发 Agent 自动完成整套训练（约 40 分钟）", "适配 Hermes 3 / Claude（with MCP）/ 自定义 GPTs，无技能平台可降阶运行"], "use_cases": ["让自己的 AI Agent 记住偏好和历史教训，减少重复纠正", "为 Agent 建立分层记忆与技能架构", "让 Agent 交付前自动自检并定期复盘进化"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Agent教程", "工程控制论", "记忆管理", "Agent架构", "prompt工程之外"], "domain": "AI Agent 教程/知识", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文为源语言，英文文件名做兼容", "以钱学森《工程控制论》为理论基础", "translations/ 目录存放译本"]}, "trust": {"confidence": "high", "evidence": ["L9: 一套完整、可复制的实操教程。", "L11: 将钱学森《工程控制论》的核心思想适配到现代 AI Agent 平台（Hermes、Claude with MCP、自定义 GPTs 等）。不增加 prompt 条目，不引入新模型，而是**通过架构重组**让 Agent 实现：", "L30: 2. 阅读教程（建议按顺序，或至少先读第一章确认思路）"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zeronesun/cybernetic-your-agent",
+ "sha": "73c00a60a25d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用钱学森工程控制论重组 AI Agent 记忆与技能架构的教程",
+  "review": "一套纯教程仓库（无代码库/API）：将工程控制论的前馈、积分控制、层级分离、自监控四个概念，适配到 Hermes 3、Claude（with MCP）、自定义 GPTs 等具备持久化记忆与技能模块的 Agent 平台。不增加 prompt 条目、不引入新模型，通过架构重组实现任务前加载偏好教训、二次错误下沉为规则、记忆/技能分层存储、输出前自检闸门与每周自动复盘。部署方式是把一句训练指令发给 Agent 或按第五章指令手动复制操作，仓库另提供指令提取版与示例文件。",
+  "highlights": [
+   "四个控制论概念：前馈避坑、积分防震荡、层级分离、交付自检",
+   "三层记忆体 + 技能层架构，记忆只存'为什么'、技能只存'怎么做'",
+   "一句指令触发 Agent 自动完成整套训练（约 40 分钟）",
+   "适配 Hermes 3 / Claude（with MCP）/ 自定义 GPTs，无技能平台可降阶运行"
+  ],
+  "use_cases": [
+   "让自己的 AI Agent 记住偏好和历史教训，减少重复纠正",
+   "为 Agent 建立分层记忆与技能架构",
+   "让 Agent 交付前自动自检并定期复盘进化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent教程",
+   "工程控制论",
+   "记忆管理",
+   "Agent架构",
+   "prompt工程之外"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文为源语言，英文文件名做兼容",
+   "以钱学森《工程控制论》为理论基础",
+   "translations/ 目录存放译本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: 一套完整、可复制的实操教程。",
+   "L11: 将钱学森《工程控制论》的核心思想适配到现代 AI Agent 平台（Hermes、Claude with MCP、自定义 GPTs 等）。不增加 prompt 条目，不引入新模型，而是**通过架构重组**让 Agent 实现：",
+   "L30: 2. 阅读教程（建议按顺序，或至少先读第一章确认思路）"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

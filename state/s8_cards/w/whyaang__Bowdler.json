@@ -1,1 +1,78 @@
-{"fn": "whyaang/Bowdler", "sha": "87f1988e9f86", "source": "readme", "identity": {"one_liner": "Mac 本地 AI 视频文本编辑器：剪静音、消音脏话、生成字幕", "review": "运行于 Apple Silicon Mac 的视频编辑应用（非开源，Gumroad 售许可证）：通过编辑转写文本来剪辑视频，支持选中删除句词、去除填充词与废片、静音检测移除（可调灵敏度与最短时长）、脏话静音或蜂鸣替换（内置 32 种语言词表并支持自定义）、字幕生成与 32 种语言自动翻译，导出 SRT/VTT/FCPXML 或 MP4/MOV（最高 4K），也可导出时间线至 Final Cut Pro、DaVinci Resolve、Adobe Premiere。全部 AI 处理本地运行，无需联网。要求 macOS 14+ 与 M1 及以上芯片。", "highlights": ["转写文本驱动的视频剪辑：删句、去填充词、去废片", "静音检测移除与脏话静音/蜂鸣替换（32 语言词表+自定义）", "字幕生成与 32 语言自动翻译，导出 SRT/VTT/FCPXML", "全部 AI 模型本地运行于 Apple Silicon，无需联网与账号"], "use_cases": ["通过编辑文字快速剪掉口误、填充词与静音片段", "给视频自动上字幕并翻译成多语言", "把粗剪结果导出到 Final Cut Pro / DaVinci 做后续精修"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["视频编辑", "字幕/转写", "本地AI", "桌面应用", "内容创作"], "domain": "视频编辑/桌面应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L19: Bowdler automates and simplifies the whole editing routine using simple tools and local AI: silence, transcript, subtitl", "L51: Bowdler runs locally on Apple Silicon, so no internet connection required, no cloud processing, no accounts. Every AI mo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "whyaang/Bowdler",
+ "sha": "87f1988e9f86",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Mac 本地 AI 视频文本编辑器：剪静音、消音脏话、生成字幕",
+  "review": "运行于 Apple Silicon Mac 的视频编辑应用（非开源，Gumroad 售许可证）：通过编辑转写文本来剪辑视频，支持选中删除句词、去除填充词与废片、静音检测移除（可调灵敏度与最短时长）、脏话静音或蜂鸣替换（内置 32 种语言词表并支持自定义）、字幕生成与 32 种语言自动翻译，导出 SRT/VTT/FCPXML 或 MP4/MOV（最高 4K），也可导出时间线至 Final Cut Pro、DaVinci Resolve、Adobe Premiere。全部 AI 处理本地运行，无需联网。要求 macOS 14+ 与 M1 及以上芯片。",
+  "highlights": [
+   "转写文本驱动的视频剪辑：删句、去填充词、去废片",
+   "静音检测移除与脏话静音/蜂鸣替换（32 语言词表+自定义）",
+   "字幕生成与 32 语言自动翻译，导出 SRT/VTT/FCPXML",
+   "全部 AI 模型本地运行于 Apple Silicon，无需联网与账号"
+  ],
+  "use_cases": [
+   "通过编辑文字快速剪掉口误、填充词与静音片段",
+   "给视频自动上字幕并翻译成多语言",
+   "把粗剪结果导出到 Final Cut Pro / DaVinci 做后续精修"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频编辑",
+   "字幕/转写",
+   "本地AI",
+   "桌面应用",
+   "内容创作"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: Bowdler automates and simplifies the whole editing routine using simple tools and local AI: silence, transcript, subtitl",
+   "L51: Bowdler runs locally on Apple Silicon, so no internet connection required, no cloud processing, no accounts. Every AI mo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

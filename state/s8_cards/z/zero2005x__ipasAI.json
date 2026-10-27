@@ -1,1 +1,81 @@
-{"fn": "zero2005x/ipasAI", "sha": "5ef91c18a267", "source": "readme", "identity": {"one_liner": "iPAS AI 应用规划师（中级）备考开源教科书与题库（三册）", "review": "对应台湾经济部 iPAS 人工智慧应用规划师（中级）检定的开放教材：三册共 34 章、约 80 万字 Markdown 书稿，覆盖共通必考科、数据分析路线与算法路线；配 219 题原创情境模拟题（含逐项解析）、300 题官方公告试题双向索引、110 题学习指引练习题对位。附 Python 校验管线（考纲规格查核）与基于 Headless 浏览器的课本风 PDF 编译工具，可从 Releases 直接下载成品 PDF。教科书内容采用 CC BY-NC-SA 4.0，工具代码采用 MIT，非官方发行品。", "highlights": ["三册 34 章、约 80 万字，对齐经济部 115.06 版考纲", "219 题原创情境模拟题 + 300 题官方试题双向反查索引", "tools/build_pdf.py 编译 A4 课本风 PDF（可自定义 CSS）", "内置考纲规格严格校验管线（check_book.py）"], "use_cases": ["系统备考 iPAS AI 应用规划师中级检定", "按数据分析或算法路线选择对应分册精读", "通过官方试题索引回测章节掌握程度并自编讲义"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["备考教材", "题库", "AI治理/法规", "机器学习", "开放教科书"], "domain": "AI 职业认证/教育教材", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["繁体中文全书", "台湾经济部 iPAS 检定对应", "引用数位发展部《人工智慧风险分类框架》"]}, "trust": {"confidence": "high", "evidence": ["L13: 本專案為經濟部產業人才能力鑑定 **「iPAS 人工智慧應用規劃師（中級）」** 完整開源備考教科書與題庫體系（對應考綱規範：**經濟部 115.06 版**）。全書約 80 萬字、34 個章節，涵蓋共通必考科及雙專業路線，並配備完整的自動", "L11: > iPAS AI 應用規劃師（中級）考綱教科書 v0.3 開源版 — 全套三冊完整教材 + 219 題原創情境模擬題 + 300 題官方試題解析索引 + 課本風 PDF 排版編譯工具鏈"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zero2005x/ipasAI",
+ "sha": "5ef91c18a267",
+ "source": "readme",
+ "identity": {
+  "one_liner": "iPAS AI 应用规划师（中级）备考开源教科书与题库（三册）",
+  "review": "对应台湾经济部 iPAS 人工智慧应用规划师（中级）检定的开放教材：三册共 34 章、约 80 万字 Markdown 书稿，覆盖共通必考科、数据分析路线与算法路线；配 219 题原创情境模拟题（含逐项解析）、300 题官方公告试题双向索引、110 题学习指引练习题对位。附 Python 校验管线（考纲规格查核）与基于 Headless 浏览器的课本风 PDF 编译工具，可从 Releases 直接下载成品 PDF。教科书内容采用 CC BY-NC-SA 4.0，工具代码采用 MIT，非官方发行品。",
+  "highlights": [
+   "三册 34 章、约 80 万字，对齐经济部 115.06 版考纲",
+   "219 题原创情境模拟题 + 300 题官方试题双向反查索引",
+   "tools/build_pdf.py 编译 A4 课本风 PDF（可自定义 CSS）",
+   "内置考纲规格严格校验管线（check_book.py）"
+  ],
+  "use_cases": [
+   "系统备考 iPAS AI 应用规划师中级检定",
+   "按数据分析或算法路线选择对应分册精读",
+   "通过官方试题索引回测章节掌握程度并自编讲义"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "备考教材",
+   "题库",
+   "AI治理/法规",
+   "机器学习",
+   "开放教科书"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "繁体中文全书",
+   "台湾经济部 iPAS 检定对应",
+   "引用数位发展部《人工智慧风险分类框架》"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: 本專案為經濟部產業人才能力鑑定 **「iPAS 人工智慧應用規劃師（中級）」** 完整開源備考教科書與題庫體系（對應考綱規範：**經濟部 115.06 版**）。全書約 80 萬字、34 個章節，涵蓋共通必考科及雙專業路線，並配備完整的自動",
+   "L11: > iPAS AI 應用規劃師（中級）考綱教科書 v0.3 開源版 — 全套三冊完整教材 + 219 題原創情境模擬題 + 300 題官方試題解析索引 + 課本風 PDF 排版編譯工具鏈"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

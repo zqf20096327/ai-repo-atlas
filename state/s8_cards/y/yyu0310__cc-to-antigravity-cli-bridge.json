@@ -1,1 +1,79 @@
-{"fn": "yyu0310/cc-to-antigravity-cli-bridge", "sha": "e8f12b2df8a9", "source": "readme", "identity": {"one_liner": "从 Claude Code 驱动 Antigravity CLI 的桥接脚本与提示前缀", "review": "由两部分组成的薄桥接：research-prefix.md 提示前缀要求多角度搜索、注明日期来源并给出决策优先回答；scripts/ccagy.sh 在临时目录中应用前缀并调用 agy -p 一次性查询，避免项目 AGENTS.md 泄入。面向已持有 Claude Code 与 Gemini 订阅的用户，用 Gemini（或 Claude Sonnet/Opus、GPT-OSS）补足搜索与轻量辅助，并通过 AGENTS.md→CLAUDE.md 符号链接共享系统提示。限制：截至 2026-07 agy 无原生记忆 API 与 hook schema，无记忆同步。", "highlights": ["research-prefix.md 提示前缀：多角度搜索、带日期来源、决策优先回答", "ccagy.sh 在干净 cwd 运行并自动选取最新 Gemini Pro/Flash", "AGENTS.md 符号链接共享 Claude Code 系统提示", "可在 agy 中调用 Claude Sonnet/Opus 4.6 与 GPT-OSS 120B"], "use_cases": ["Claude web_search 失败时用 Gemini 双轨搜索补源", "用已有 Gemini 订阅额度在终端做一次性研究查询", "让 Claude Code 与 Antigravity CLI 共用同一系统提示"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CLI 桥接", "Claude Code", "Antigravity CLI", "提示工程", "研究辅助"], "domain": "LLM 工具/CLI 桥接", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["提供繁中/简中 README（README.zh-TW.md / README.zh-CN.md）"]}, "trust": {"confidence": "high", "evidence": ["L7: Drive Google's Antigravity CLI (`agy`) from Claude Code: use your Gemini subscription for search and model work that pai", "L88: - `scripts/ccagy.sh`: prefix + `agy -p` from a clean cwd"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yyu0310/cc-to-antigravity-cli-bridge",
+ "sha": "e8f12b2df8a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从 Claude Code 驱动 Antigravity CLI 的桥接脚本与提示前缀",
+  "review": "由两部分组成的薄桥接：research-prefix.md 提示前缀要求多角度搜索、注明日期来源并给出决策优先回答；scripts/ccagy.sh 在临时目录中应用前缀并调用 agy -p 一次性查询，避免项目 AGENTS.md 泄入。面向已持有 Claude Code 与 Gemini 订阅的用户，用 Gemini（或 Claude Sonnet/Opus、GPT-OSS）补足搜索与轻量辅助，并通过 AGENTS.md→CLAUDE.md 符号链接共享系统提示。限制：截至 2026-07 agy 无原生记忆 API 与 hook schema，无记忆同步。",
+  "highlights": [
+   "research-prefix.md 提示前缀：多角度搜索、带日期来源、决策优先回答",
+   "ccagy.sh 在干净 cwd 运行并自动选取最新 Gemini Pro/Flash",
+   "AGENTS.md 符号链接共享 Claude Code 系统提示",
+   "可在 agy 中调用 Claude Sonnet/Opus 4.6 与 GPT-OSS 120B"
+  ],
+  "use_cases": [
+   "Claude web_search 失败时用 Gemini 双轨搜索补源",
+   "用已有 Gemini 订阅额度在终端做一次性研究查询",
+   "让 Claude Code 与 Antigravity CLI 共用同一系统提示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI 桥接",
+   "Claude Code",
+   "Antigravity CLI",
+   "提示工程",
+   "研究辅助"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供繁中/简中 README（README.zh-TW.md / README.zh-CN.md）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Drive Google's Antigravity CLI (`agy`) from Claude Code: use your Gemini subscription for search and model work that pai",
+   "L88: - `scripts/ccagy.sh`: prefix + `agy -p` from a clean cwd"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

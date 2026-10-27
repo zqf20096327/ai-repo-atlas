@@ -1,1 +1,79 @@
-{"fn": "yuxiaopeng/hacker-news-summarizer", "sha": "438daec148c8", "source": "readme", "identity": {"one_liner": "Hacker News Top100 每日 AI 摘要中文翻译，自动更新", "review": "仓库 README 本身即交付物：展示 Hacker News Top 10 文章的每日中文摘要（含原文标题、链接与要点提炼），完整 Top 100 通过链接提供，页面标注最后自动更新时间，并附 300 余天的历史日期归档。摘要由 Google Gemini API 生成并翻译为中文，每日自动更新，部分条目会标注“生成摘要时出错”。面向想用中文快速了解 Hacker News 内容的读者，非供安装运行的软件项目，README 未提供安装或使用说明。", "highlights": ["每日自动更新 Top 10 摘要，附 350+ 天历史归档表", "条目包含原文标题、原文链接与中文摘要要点", "摘要生成与翻译由 Google Gemini API 完成"], "use_cases": ["用中文快速浏览 Hacker News 当日热门内容", "回溯查阅历史某天的 Hacker News 头条摘要", "作为中文技术资讯日报订阅阅读"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["内容聚合", "自动摘要", "中文化资讯", "GitHub Actions 内容发布"], "domain": "技术资讯/内容聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 内容为中文摘要与翻译", "面向中文读者的 Hacker News 中文化"]}, "trust": {"confidence": "mid", "evidence": ["L3: 这是 Top 10 的每日摘要，更多请点击 Top 100", "L5: *最后自动更新时间: 2026-10-24 19:47:46*"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yuxiaopeng/hacker-news-summarizer",
+ "sha": "438daec148c8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Hacker News Top100 每日 AI 摘要中文翻译，自动更新",
+  "review": "仓库 README 本身即交付物：展示 Hacker News Top 10 文章的每日中文摘要（含原文标题、链接与要点提炼），完整 Top 100 通过链接提供，页面标注最后自动更新时间，并附 300 余天的历史日期归档。摘要由 Google Gemini API 生成并翻译为中文，每日自动更新，部分条目会标注“生成摘要时出错”。面向想用中文快速了解 Hacker News 内容的读者，非供安装运行的软件项目，README 未提供安装或使用说明。",
+  "highlights": [
+   "每日自动更新 Top 10 摘要，附 350+ 天历史归档表",
+   "条目包含原文标题、原文链接与中文摘要要点",
+   "摘要生成与翻译由 Google Gemini API 完成"
+  ],
+  "use_cases": [
+   "用中文快速浏览 Hacker News 当日热门内容",
+   "回溯查阅历史某天的 Hacker News 头条摘要",
+   "作为中文技术资讯日报订阅阅读"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "内容聚合",
+   "自动摘要",
+   "中文化资讯",
+   "GitHub Actions 内容发布"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 内容为中文摘要与翻译",
+   "面向中文读者的 Hacker News 中文化"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 这是 Top 10 的每日摘要，更多请点击 Top 100",
+   "L5: *最后自动更新时间: 2026-10-24 19:47:46*"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

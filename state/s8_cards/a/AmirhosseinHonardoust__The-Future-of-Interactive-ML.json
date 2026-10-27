@@ -1,1 +1,76 @@
-{"fn": "AmirhosseinHonardoust/The-Future-of-Interactive-ML", "sha": "d776cb9683ca", "source": "readme", "identity": {"one_liner": "探讨以人为中心的交互式机器学习的长文（Streamlit 案例分析）", "review": "一篇关于以人为中心的交互式机器学习的研究型文章，阐述 Streamlit 如何让数据科学家以 Python 脚本方式构建交互式 ML 界面。内容涵盖 HCAI 理论（引用 Shneiderman 宣言与微软 HAI 指南）、以 ML Playground 项目为案例的架构说明（自动任务检测、预处理流水线、模型训练与可视化指标）以及对可解释性与民主化 AI 趋势的讨论。仓库为文章本体，不提供可运行代码或安装命令，仅含示例代码片段与参考文献。", "highlights": ["以 ML Playground 为案例说明 Streamlit 构建自适应 ML 环境（自动任务检测、流水线、指标可视化）", "梳理 HCAI 理论与设计原则（透明、可控、人在回路）", "含 8 条带注释的参考文献与引用来源"], "use_cases": ["了解以人为中心的 AI 与交互式机器学习的理论脉络", "参考用 Streamlit 构建 ML 应用界面的设计思路", "查找 HCAI 方向的延伸阅读文献"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["研究文章", "以人为本AI", "可解释性", "交互式机器学习", "Streamlit"], "domain": "AI 研究/知识传播", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: An in-depth exploration of the rise of human-centered, interactive machine learning. This article examines how Streamlit", "L5: ## Abstract"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "AmirhosseinHonardoust/The-Future-of-Interactive-ML",
+ "sha": "d776cb9683ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "探讨以人为中心的交互式机器学习的长文（Streamlit 案例分析）",
+  "review": "一篇关于以人为中心的交互式机器学习的研究型文章，阐述 Streamlit 如何让数据科学家以 Python 脚本方式构建交互式 ML 界面。内容涵盖 HCAI 理论（引用 Shneiderman 宣言与微软 HAI 指南）、以 ML Playground 项目为案例的架构说明（自动任务检测、预处理流水线、模型训练与可视化指标）以及对可解释性与民主化 AI 趋势的讨论。仓库为文章本体，不提供可运行代码或安装命令，仅含示例代码片段与参考文献。",
+  "highlights": [
+   "以 ML Playground 为案例说明 Streamlit 构建自适应 ML 环境（自动任务检测、流水线、指标可视化）",
+   "梳理 HCAI 理论与设计原则（透明、可控、人在回路）",
+   "含 8 条带注释的参考文献与引用来源"
+  ],
+  "use_cases": [
+   "了解以人为中心的 AI 与交互式机器学习的理论脉络",
+   "参考用 Streamlit 构建 ML 应用界面的设计思路",
+   "查找 HCAI 方向的延伸阅读文献"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "研究文章",
+   "以人为本AI",
+   "可解释性",
+   "交互式机器学习",
+   "Streamlit"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: An in-depth exploration of the rise of human-centered, interactive machine learning. This article examines how Streamlit",
+   "L5: ## Abstract"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

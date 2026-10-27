@@ -1,1 +1,82 @@
-{"fn": "yigehaozi/relay-status-monitor", "sha": "1eb1cf69042d", "source": "readme", "identity": {"one_liner": "自托管的 AI API 中转站状态监控面板", "review": "基于 Next.js 14 与 PostgreSQL 的自托管监控面板，统一管理多个 SUB2API 与 New API 上游：按 Key/分组采集余额、接口延迟、模型测速（含首 Token 延迟与流式 TPS），聚合在线/降级/离线状态，支持余额、延迟、连续失败与可用率告警规则，通过飞书 Webhook 通知。日常轻量采集只查余额与模型列表，重量采集会发送真实模型请求并消耗额度。凭证以 AES-256-GCM 加密存储，本地用户名密码登录。安装需 Node.js 20+、pnpm 9+、PostgreSQL 14+，通过 git clone 与 pnpm 命令运行。", "highlights": ["统一管理多个 SUB2API 与 New API 上游，支持多 Key/分组", "采集余额、延迟、首 Token 延迟与流式 TPS，轻重分层采集", "余额/延迟/连续失败/可用率告警规则与飞书 Webhook 通知", "上游凭证 AES-256-GCM 加密存储，适配器架构可扩展新上游类型"], "use_cases": ["自建 AI API 中转站的余额与可用率日常监控", "模型测速对比不同上游的延迟与流式 TPS", "中转站异常时通过飞书机器人接收告警"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["API监控", "自托管", "AI中转站", "运维面板", "飞书告警"], "domain": "AI API 运维/监控", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "飞书 Webhook 告警渠道", "SUB2API/New API（中文社区常用中转站）"]}, "trust": {"confidence": "mid", "evidence": ["L3: 一个面向 AI API 中转站的自托管状态监控面板。它可以统一管理多个 SUB2API 与 New API 上游，按 Key/分组采集余额、延迟、可用率和模型测速数据，并通过告警规则与飞书 Webhook 发送异常通知。", "L41: - 多上游管理：支持 SUB2API 与 New API，可为一个上游配置多个独立 Key/分组。", "L42: - 指标采集：记录余额、接口延迟、模型测试延迟、首 Token 延迟和流式 TPS。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yigehaozi/relay-status-monitor",
+ "sha": "1eb1cf69042d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 AI API 中转站状态监控面板",
+  "review": "基于 Next.js 14 与 PostgreSQL 的自托管监控面板，统一管理多个 SUB2API 与 New API 上游：按 Key/分组采集余额、接口延迟、模型测速（含首 Token 延迟与流式 TPS），聚合在线/降级/离线状态，支持余额、延迟、连续失败与可用率告警规则，通过飞书 Webhook 通知。日常轻量采集只查余额与模型列表，重量采集会发送真实模型请求并消耗额度。凭证以 AES-256-GCM 加密存储，本地用户名密码登录。安装需 Node.js 20+、pnpm 9+、PostgreSQL 14+，通过 git clone 与 pnpm 命令运行。",
+  "highlights": [
+   "统一管理多个 SUB2API 与 New API 上游，支持多 Key/分组",
+   "采集余额、延迟、首 Token 延迟与流式 TPS，轻重分层采集",
+   "余额/延迟/连续失败/可用率告警规则与飞书 Webhook 通知",
+   "上游凭证 AES-256-GCM 加密存储，适配器架构可扩展新上游类型"
+  ],
+  "use_cases": [
+   "自建 AI API 中转站的余额与可用率日常监控",
+   "模型测速对比不同上游的延迟与流式 TPS",
+   "中转站异常时通过飞书机器人接收告警"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API监控",
+   "自托管",
+   "AI中转站",
+   "运维面板",
+   "飞书告警"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "飞书 Webhook 告警渠道",
+   "SUB2API/New API（中文社区常用中转站）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 一个面向 AI API 中转站的自托管状态监控面板。它可以统一管理多个 SUB2API 与 New API 上游，按 Key/分组采集余额、延迟、可用率和模型测速数据，并通过告警规则与飞书 Webhook 发送异常通知。",
+   "L41: - 多上游管理：支持 SUB2API 与 New API，可为一个上游配置多个独立 Key/分组。",
+   "L42: - 指标采集：记录余额、接口延迟、模型测试延迟、首 Token 延迟和流式 TPS。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

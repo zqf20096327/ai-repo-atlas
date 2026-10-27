@@ -1,1 +1,83 @@
-{"fn": "yejingyang8963-byte/Swift-gemma4-core", "sha": "b207a0f3d8d7", "source": "readme", "identity": {"one_liner": "纯 Swift 实现的 Gemma 4 解码器，在 iPhone/iPad/Mac 上端侧运行", "review": "Google Gemma 4 文本解码器的纯 Swift 移植，以 sidecar 模型注册接入 Apple 的 mlx-swift-lm，可直接加载 HuggingFace 上的 Gemma 4 4-bit 仓库（如 mlx-community/gemma-4-e2b-it-4bit）。运行时无 Python、无 CoreML 转换，全部计算跑在 MLX Metal 内核上。实现 Gemma 4 的逐层嵌入（PLE）、后 20 层 KV 共享、比例 RoPE 与聊天模板旁路（token 序列与 Python mlx-lm 一致）。面向 Apple Silicon 开发者，以 SwiftPM 包提供；限制：仅支持 Gemma 4 一类模型，需 6GB 以上内存的 Apple Silicon 设备，模型权重约 1.5GB 需首次运行时下载。", "highlights": ["纯 Swift 移植 Gemma 4 解码器，运行时无 Python、无 CoreML 转换", "实现 PLE、后 20 层 KV 共享、比例 RoPE 与聊天模板旁路", "token 输出与 Python mlx-lm 数值一致性可复现验证（提供 baseline 脚本）", "实测 iPhone 上加载后内存 341–392 MB，生成 12–14 tok/s"], "use_cases": ["在 iOS/macOS 应用中端侧运行 Gemma 4 文本生成", "为 mlx-swift-lm 项目补充缺失的 Gemma 4 模型支持", "在无 Python 依赖的 Apple Silicon 环境做本地推理"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [196]}}, "links": {"scenario_tags": ["端侧推理", "Swift/iOS", "Gemma", "MLX", "LLM"], "domain": "LLM 端侧推理/Apple 生态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["作者署名含中文名（叶经扬）", "README 提供简体中文版本"]}, "trust": {"confidence": "mid", "evidence": ["L23: `Gemma4SwiftCore` is a **pure-Swift port** of Google's", "L30: There is no Python at runtime. There is no CoreML conversion step.", "L31: Everything from token IDs to logits runs on Apple's MLX Metal kernels,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yejingyang8963-byte/Swift-gemma4-core",
+ "sha": "b207a0f3d8d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 Swift 实现的 Gemma 4 解码器，在 iPhone/iPad/Mac 上端侧运行",
+  "review": "Google Gemma 4 文本解码器的纯 Swift 移植，以 sidecar 模型注册接入 Apple 的 mlx-swift-lm，可直接加载 HuggingFace 上的 Gemma 4 4-bit 仓库（如 mlx-community/gemma-4-e2b-it-4bit）。运行时无 Python、无 CoreML 转换，全部计算跑在 MLX Metal 内核上。实现 Gemma 4 的逐层嵌入（PLE）、后 20 层 KV 共享、比例 RoPE 与聊天模板旁路（token 序列与 Python mlx-lm 一致）。面向 Apple Silicon 开发者，以 SwiftPM 包提供；限制：仅支持 Gemma 4 一类模型，需 6GB 以上内存的 Apple Silicon 设备，模型权重约 1.5GB 需首次运行时下载。",
+  "highlights": [
+   "纯 Swift 移植 Gemma 4 解码器，运行时无 Python、无 CoreML 转换",
+   "实现 PLE、后 20 层 KV 共享、比例 RoPE 与聊天模板旁路",
+   "token 输出与 Python mlx-lm 数值一致性可复现验证（提供 baseline 脚本）",
+   "实测 iPhone 上加载后内存 341–392 MB，生成 12–14 tok/s"
+  ],
+  "use_cases": [
+   "在 iOS/macOS 应用中端侧运行 Gemma 4 文本生成",
+   "为 mlx-swift-lm 项目补充缺失的 Gemma 4 模型支持",
+   "在无 Python 依赖的 Apple Silicon 环境做本地推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    196
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端侧推理",
+   "Swift/iOS",
+   "Gemma",
+   "MLX",
+   "LLM"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "作者署名含中文名（叶经扬）",
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L23: `Gemma4SwiftCore` is a **pure-Swift port** of Google's",
+   "L30: There is no Python at runtime. There is no CoreML conversion step.",
+   "L31: Everything from token IDs to logits runs on Apple's MLX Metal kernels,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

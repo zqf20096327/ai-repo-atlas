@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:桌面 AI agent 平台
+`Agent 框架` `GUI 自动化` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,80 @@
-{"fn": "yzhao062/auditable", "sha": "95fc739bdec2", "source": "readme", "identity": {"one_liner": "AI agent 决策审计方法库：运行前/中/后三阶段统一接口", "review": "Python 库，收集在三个时点审计 LLM agent 的方法：运行前的配置审计（PRE）、运行中的在线监控（LIVE）、运行后的失败检测与错误步骤定位（POST）。方法分为 Config/Online/Run/Step 四族，每族一个接口，仿照 PyOD 的组织方式；收录 PyOD/PyGOD 检测器、GUARDIAN、G-Safeguard、Who&When LLM-judge 协议等基线及 GRADE 与 CatchBench 引入的方法。通过 agentpile 读取公开 agent 轨迹数据集与多种轨迹文件格式（OpenAI 消息、OTLP JSON、Claude Code 会话、MCP 工具列表），LLM judge 后端接受任意 prompt->reply 函数。限制：含子 agent 轨迹的运行不展平，需逐个读取或跳过；图方法需另行安装 torch 与 pyg-lib。", "highlights": ["PRE/LIVE/POST 三时点四族方法，每族统一接口，get_method(id) 一行切换", "收录 PyOD/PyGOD 检测器、GUARDIAN、G-Safeguard、Who&When LLM judge 等文献基线", "agentpile 转换公开数据集（Who&When、tau-bench、SWE-Gym 等）与多种轨迹文件格式", "出现在 CatchBench 榜单的方法逐样本复现其结果"], "use_cases": ["agent 上线前审计配置是否权限过度", "运行中按步骤输出告警分数拦截失败", "运行后判定是否失败并定位决定性错误步骤", "复现 CatchBench/GRADE 基准结果做方法对比"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent 可靠性", "AI 安全/风险评估", "异常检测", "评测/监控", "LLM Ops"], "domain": "LLM 基础设施/agent 可观测性", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: **A library of auditing methods for AI agents: configuration audits before a run, online monitors while it runs, and fai", "L14: `auditable` collects methods that audit LLM agents at three points: an agent configuration before it runs (PRE), a run w", "L62: Configuration rules and the step-by-step and binary-search LLM judges run on the core install, graph detectors need the "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yzhao062/auditable",
+ "sha": "95fc739bdec2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 决策审计方法库：运行前/中/后三阶段统一接口",
+  "review": "Python 库，收集在三个时点审计 LLM agent 的方法：运行前的配置审计（PRE）、运行中的在线监控（LIVE）、运行后的失败检测与错误步骤定位（POST）。方法分为 Config/Online/Run/Step 四族，每族一个接口，仿照 PyOD 的组织方式；收录 PyOD/PyGOD 检测器、GUARDIAN、G-Safeguard、Who&When LLM-judge 协议等基线及 GRADE 与 CatchBench 引入的方法。通过 agentpile 读取公开 agent 轨迹数据集与多种轨迹文件格式（OpenAI 消息、OTLP JSON、Claude Code 会话、MCP 工具列表），LLM judge 后端接受任意 prompt->reply 函数。限制：含子 agent 轨迹的运行不展平，需逐个读取或跳过；图方法需另行安装 torch 与 pyg-lib。",
+  "highlights": [
+   "PRE/LIVE/POST 三时点四族方法，每族统一接口，get_method(id) 一行切换",
+   "收录 PyOD/PyGOD 检测器、GUARDIAN、G-Safeguard、Who&When LLM judge 等文献基线",
+   "agentpile 转换公开数据集（Who&When、tau-bench、SWE-Gym 等）与多种轨迹文件格式",
+   "出现在 CatchBench 榜单的方法逐样本复现其结果"
+  ],
+  "use_cases": [
+   "agent 上线前审计配置是否权限过度",
+   "运行中按步骤输出告警分数拦截失败",
+   "运行后判定是否失败并定位决定性错误步骤",
+   "复现 CatchBench/GRADE 基准结果做方法对比"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent 可靠性",
+   "AI 安全/风险评估",
+   "异常检测",
+   "评测/监控",
+   "LLM Ops"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **A library of auditing methods for AI agents: configuration audits before a run, online monitors while it runs, and fai",
+   "L14: `auditable` collects methods that audit LLM agents at three points: an agent configuration before it runs (PRE), a run w",
+   "L62: Configuration rules and the step-by-step and binary-search LLM judges run on the core install, graph detectors need the "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

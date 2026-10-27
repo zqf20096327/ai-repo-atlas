@@ -1,1 +1,74 @@
-{"fn": "yhsure/riemannian-generative-decoder", "sha": "f34eefeb2f7f", "source": "readme", "identity": {"one_liner": "流形上表示学习研究代码：仅用解码器学习流形值隐变量", "review": "TMLR 2026 论文 Riemannian Generative Decoder 的官方代码库。方法：去除编码器，仅训练解码器网络，用 Riemannian 优化器求取流形值最大似然隐变量，避免近似流形密度的困难目标。提供三个案例的 Jupyter notebook（合成分支扩散过程、人类线粒体 DNA 推断迁移、细胞分裂周期），notebook 自动拉取数据，数据也可从 HuggingFace 直接下载。依赖 Python 3.11、requirements.txt 与 geoopt 0.5.1 子模块。", "highlights": ["仅解码器架构，以 Riemannian 优化器求流形值最大似然隐变量", "三个案例 notebook：分支扩散、线粒体 DNA、细胞周期", "notebook 自动获取数据，数据另发布于 HuggingFace", "提供更新线粒体序列的抓取与 haplogrep3 注释流程"], "use_cases": ["复现论文结果与图表", "在自定义流形数据上做几何感知的表示学习", "获取细胞周期与人类线粒体 DNA 的分析流程"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://openreview.net/forum?id=vuPMXg1FDT", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["几何深度学习", "表示学习", "科学计算", "生物信息"], "domain": "机器学习研究/几何深度学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L12: > Riemannian representation learning typically relies on approximating densities on chosen manifolds. This involves opti", "L23: 2. **Cell cycle in human fibroblasts [1]**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yhsure/riemannian-generative-decoder",
+ "sha": "f34eefeb2f7f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "流形上表示学习研究代码：仅用解码器学习流形值隐变量",
+  "review": "TMLR 2026 论文 Riemannian Generative Decoder 的官方代码库。方法：去除编码器，仅训练解码器网络，用 Riemannian 优化器求取流形值最大似然隐变量，避免近似流形密度的困难目标。提供三个案例的 Jupyter notebook（合成分支扩散过程、人类线粒体 DNA 推断迁移、细胞分裂周期），notebook 自动拉取数据，数据也可从 HuggingFace 直接下载。依赖 Python 3.11、requirements.txt 与 geoopt 0.5.1 子模块。",
+  "highlights": [
+   "仅解码器架构，以 Riemannian 优化器求流形值最大似然隐变量",
+   "三个案例 notebook：分支扩散、线粒体 DNA、细胞周期",
+   "notebook 自动获取数据，数据另发布于 HuggingFace",
+   "提供更新线粒体序列的抓取与 haplogrep3 注释流程"
+  ],
+  "use_cases": [
+   "复现论文结果与图表",
+   "在自定义流形数据上做几何感知的表示学习",
+   "获取细胞周期与人类线粒体 DNA 的分析流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://openreview.net/forum?id=vuPMXg1FDT",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "几何深度学习",
+   "表示学习",
+   "科学计算",
+   "生物信息"
+  ],
+  "domain": "机器学习研究/几何深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: > Riemannian representation learning typically relies on approximating densities on chosen manifolds. This involves opti",
+   "L23: 2. **Cell cycle in human fibroblasts [1]**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

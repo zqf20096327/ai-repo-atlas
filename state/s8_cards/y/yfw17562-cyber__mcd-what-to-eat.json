@@ -1,1 +1,78 @@
-{"fn": "yfw17562-cyber/mcd-what-to-eat", "sha": "3fba0919217b", "source": "readme", "identity": {"one_liner": "抽运势签并搭配麦当劳套餐的 MCP Skill（黑客松作品）", "review": "面向麦当劳爱好者的娱乐点餐 Skill：先以 SHA256(日期+签主+重抽序号) 种子生成六级签等的今日运势（签诗、宜忌、幸运数字），再从麦当劳中国官方 MCP 拉取指定门店实时菜单随机搭配套餐，价格热量来自官方营养表，多命中时输出热量区间。可安装为 WorkBuddy Skill 由 Agent 触发，也可命令行直接运行生成交互式像素风 HTML 单文件；无 Token 或断网时降级到内置参考菜单。仅调用 4 个只读 MCP 工具，不执行下单等写操作。", "highlights": ["种子化确定性抽签：同一天同一签主结果固定", "门店/价格/热量来自麦当劳官方 MCP 实时数据，热量多命中输出区间", "零依赖单文件 HTML 交付，星露谷像素风内联 SVG 界面", "无 Token 时优雅降级到内置参考菜单"], "use_cases": ["选择困难时一句话获得带抽签仪式感的麦当劳套餐推荐", "在 WorkBuddy 等 MCP 客户端中作为点餐娱乐 Skill 使用", "MCP/Skill 开发者参考商业 MCP 数据应用的落地实现"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "README 未给出直接 URL，仅声明提供在线体验入口（L7）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP Skill", "点餐/生活娱乐", "抽签运势", "黑客松作品"], "domain": "生活娱乐/MCP 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "麦当劳中国官方 MCP（open.mcd.cn）", "2026 麦当劳程序员创意开发大赛参赛作品"]}, "trust": {"confidence": "high", "evidence": ["L5: 一个基于**麦当劳中国官方 MCP** 开发的 Skill：把「今天吃什么」这个世纪难题，变成一次有仪式感的抽签——先摇今日运势，再随机搭配一整套麦当劳套餐。价格、热量、商品图全部来自官方实时数据。", "L46: cp -r skill ~/.workbuddy/skills/mcd-what-to-eat"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yfw17562-cyber/mcd-what-to-eat",
+ "sha": "3fba0919217b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "抽运势签并搭配麦当劳套餐的 MCP Skill（黑客松作品）",
+  "review": "面向麦当劳爱好者的娱乐点餐 Skill：先以 SHA256(日期+签主+重抽序号) 种子生成六级签等的今日运势（签诗、宜忌、幸运数字），再从麦当劳中国官方 MCP 拉取指定门店实时菜单随机搭配套餐，价格热量来自官方营养表，多命中时输出热量区间。可安装为 WorkBuddy Skill 由 Agent 触发，也可命令行直接运行生成交互式像素风 HTML 单文件；无 Token 或断网时降级到内置参考菜单。仅调用 4 个只读 MCP 工具，不执行下单等写操作。",
+  "highlights": [
+   "种子化确定性抽签：同一天同一签主结果固定",
+   "门店/价格/热量来自麦当劳官方 MCP 实时数据，热量多命中输出区间",
+   "零依赖单文件 HTML 交付，星露谷像素风内联 SVG 界面",
+   "无 Token 时优雅降级到内置参考菜单"
+  ],
+  "use_cases": [
+   "选择困难时一句话获得带抽签仪式感的麦当劳套餐推荐",
+   "在 WorkBuddy 等 MCP 客户端中作为点餐娱乐 Skill 使用",
+   "MCP/Skill 开发者参考商业 MCP 数据应用的落地实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "README 未给出直接 URL，仅声明提供在线体验入口（L7）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP Skill",
+   "点餐/生活娱乐",
+   "抽签运势",
+   "黑客松作品"
+  ],
+  "domain": "生活娱乐/MCP 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "麦当劳中国官方 MCP（open.mcd.cn）",
+   "2026 麦当劳程序员创意开发大赛参赛作品"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 一个基于**麦当劳中国官方 MCP** 开发的 Skill：把「今天吃什么」这个世纪难题，变成一次有仪式感的抽签——先摇今日运势，再随机搭配一整套麦当劳套餐。价格、热量、商品图全部来自官方实时数据。",
+   "L46: cp -r skill ~/.workbuddy/skills/mcd-what-to-eat"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

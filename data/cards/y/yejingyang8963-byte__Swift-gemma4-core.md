@@ -33,7 +33,7 @@ Google Gemma 4 文本解码器的纯 Swift 移植，以 sidecar 模型注册接�
 
 ## 场景标签
 
- · 领域:LLM 端侧推理/Apple 生态
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

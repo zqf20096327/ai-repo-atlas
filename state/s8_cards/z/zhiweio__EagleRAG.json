@@ -1,1 +1,87 @@
-{"fn": "zhiweio/EagleRAG", "sha": "adecf04d2122", "source": "readme", "identity": {"one_liner": "给企业的多租户多模态 RAG 平台：语义+视觉双路检索并带引用生成", "review": "Eagle-RAG 是面向企业场景的 RAG 平台：接入 PDF、Office、扫描件与网页，经 Knowhere 语义解析与 PixelRAG 视觉感知双通道入库，在 Milvus 上做多向量混合检索（RRR/RRF 融合、稠密+稀疏、图扩展），由 DeepSeek-V4-Pro 路由生成、Qwen-VL-Max 读图、qwen3-rerank 重排，回答带 [n] 行内引用与完整溯源坐标。采用微内核+仓库内插件架构，通过 EAGLE_RAG_PROFILE 绑定域（biomed 插件为实验性、lakehouse_bi 开发中），并以 MCP 工具服务器向下游 Agent 暴露 ingest/检索能力。基础设施含 Milvus/PostgreSQL/Redis/MinIO，Docker Compose 一键启动；模型仅支持 DeepSeek+Qwen，不使用 OpenAI/Cohere。", "highlights": ["Knowhere 语义分块 + PixelRAG 视觉瓦片的双通道摄取与多向量混合检索", "回答携带 [n] 行内引用及 path/document_id/page_nums 等完整溯源坐标", "两层隔离：plugin_namespace 绑定 Milvus Database，kb_name 标量过滤实现多租户", "MCP 工具服务器（streamable HTTP + stdio 回退）暴露 core_* 及域插件工具"], "use_cases": ["多团队各建独立知识库且数据互不混杂", "对扫描件、图表等视觉内容与文本一起做带引用的多模态问答", "作为后端数据层，通过 MCP 为下游 Agent 提供检索与问答工具"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": "https://www.youtube.com/（demo 链接位于 L23/L46，README 未给完整 URL）", "self_declared_early": {"flag": true, "lines": [32, 124]}}, "links": {"scenario_tags": ["RAG平台", "多模态检索", "企业知识库", "MCP", "多租户"], "domain": "企业 RAG/知识检索基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 提供中文版（L25 English | 中文）", "前端 next-intl 支持 zh/en（L74）"]}, "trust": {"confidence": "high", "evidence": ["L32: Eagle-RAG uses a **microkernel + in-repo plugins** architecture: Core (`namespace=core`) provides ingest, multimodal ret", "L55: - **MCP tool server** — exposes `core_ingest` / `core_query` / `core_retrieve_text` / `core_retrieve_visual` over stream", "L50: - **Dual ingestion pipelines** — Knowhere (external HTTP service `:5005`, invoked via the official `knowhere-python-sdk`"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zhiweio/EagleRAG",
+ "sha": "adecf04d2122",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给企业的多租户多模态 RAG 平台：语义+视觉双路检索并带引用生成",
+  "review": "Eagle-RAG 是面向企业场景的 RAG 平台：接入 PDF、Office、扫描件与网页，经 Knowhere 语义解析与 PixelRAG 视觉感知双通道入库，在 Milvus 上做多向量混合检索（RRR/RRF 融合、稠密+稀疏、图扩展），由 DeepSeek-V4-Pro 路由生成、Qwen-VL-Max 读图、qwen3-rerank 重排，回答带 [n] 行内引用与完整溯源坐标。采用微内核+仓库内插件架构，通过 EAGLE_RAG_PROFILE 绑定域（biomed 插件为实验性、lakehouse_bi 开发中），并以 MCP 工具服务器向下游 Agent 暴露 ingest/检索能力。基础设施含 Milvus/PostgreSQL/Redis/MinIO，Docker Compose 一键启动；模型仅支持 DeepSeek+Qwen，不使用 OpenAI/Cohere。",
+  "highlights": [
+   "Knowhere 语义分块 + PixelRAG 视觉瓦片的双通道摄取与多向量混合检索",
+   "回答携带 [n] 行内引用及 path/document_id/page_nums 等完整溯源坐标",
+   "两层隔离：plugin_namespace 绑定 Milvus Database，kb_name 标量过滤实现多租户",
+   "MCP 工具服务器（streamable HTTP + stdio 回退）暴露 core_* 及域插件工具"
+  ],
+  "use_cases": [
+   "多团队各建独立知识库且数据互不混杂",
+   "对扫描件、图表等视觉内容与文本一起做带引用的多模态问答",
+   "作为后端数据层，通过 MCP 为下游 Agent 提供检索与问答工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/（demo 链接位于 L23/L46，README 未给完整 URL）",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    32,
+    124
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG平台",
+   "多模态检索",
+   "企业知识库",
+   "MCP",
+   "多租户"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版（L25 English | 中文）",
+   "前端 next-intl 支持 zh/en（L74）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: Eagle-RAG uses a **microkernel + in-repo plugins** architecture: Core (`namespace=core`) provides ingest, multimodal ret",
+   "L55: - **MCP tool server** — exposes `core_ingest` / `core_query` / `core_retrieve_text` / `core_retrieve_visual` over stream",
+   "L50: - **Dual ingestion pipelines** — Knowhere (external HTTP service `:5005`, invoked via the official `knowhere-python-sdk`"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

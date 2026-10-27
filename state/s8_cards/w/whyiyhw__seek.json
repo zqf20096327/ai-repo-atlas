@@ -1,1 +1,88 @@
-{"fn": "whyiyhw/seek", "sha": "2c5a451d485a", "source": "readme", "identity": {"one_liner": "本地终端编码 agent 平台：计划、子 agent 并行与定时任务", "review": "以单个约 6MB 静态 Go 二进制运行的终端编码 agent 平台，无守护进程、无遥测。DeepSeek 优先，同时支持 OpenAI / Anthropic / Gemini 及 OpenAI 兼容端点（KIMI 等），用户自带 API key。核心机制：/plan 审批门控流程、子 agent 在独立 git worktree 中并行执行、基于 launchd/systemd/Task Scheduler 的零守护 cron 调度、三级记忆、OS 级沙箱（seatbelt/landlock）、MCP 客户端与 ACP/Zed 支持。约 85k 行 Go，CI 在三平台 -race 测试，当前 v0.10.3，MIT 许可。", "highlights": ["单个静态 Go 二进制（约 6MB），无守护进程、无遥测、无 Python/Node 运行时", "子 agent 在各自隔离的 git worktree 中并行工作", "零守护 cron 调度（launchd/systemd/Task Scheduler）与 webhook 推送到手机", "OS 级沙箱（seatbelt / landlock）、三级记忆、MCP 客户端、ACP/Zed 支持"], "use_cases": ["在终端里让 agent 按计划自主完成编码任务并提交", "夜间定时无人值守运行任务并把结果推送到手机", "配合 DeepSeek 等自有 key 做低成本的代码审查与批量小改动"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["coding agent", "终端工具", "本地优先", "自动化/定时任务", "开发者工具"], "domain": "软件开发/AI 编码助手", "alternative_to": [], "competitors_mentioned": ["Claude Code"], "ecosystem_compat": ["deepseek", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版", "界面支持 /lang zh 切换", "峰谷时段按北京时间标注"]}, "trust": {"confidence": "high", "evidence": ["L11: A coding agent that runs as a single **static Go binary** in your terminal — a **~6 MB download**, **no daemon, no telem", "L19: - **🧭 Plans before it acts** — `/plan` gates work behind `analyze → propose → you approve → execute`. Read-only until yo", "L21: - **🌙 Ships while you sleep** — **zero-daemon** scheduling on your OS (launchd / systemd / Task Scheduler). `seek cron`,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "whyiyhw/seek",
+ "sha": "2c5a451d485a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地终端编码 agent 平台：计划、子 agent 并行与定时任务",
+  "review": "以单个约 6MB 静态 Go 二进制运行的终端编码 agent 平台，无守护进程、无遥测。DeepSeek 优先，同时支持 OpenAI / Anthropic / Gemini 及 OpenAI 兼容端点（KIMI 等），用户自带 API key。核心机制：/plan 审批门控流程、子 agent 在独立 git worktree 中并行执行、基于 launchd/systemd/Task Scheduler 的零守护 cron 调度、三级记忆、OS 级沙箱（seatbelt/landlock）、MCP 客户端与 ACP/Zed 支持。约 85k 行 Go，CI 在三平台 -race 测试，当前 v0.10.3，MIT 许可。",
+  "highlights": [
+   "单个静态 Go 二进制（约 6MB），无守护进程、无遥测、无 Python/Node 运行时",
+   "子 agent 在各自隔离的 git worktree 中并行工作",
+   "零守护 cron 调度（launchd/systemd/Task Scheduler）与 webhook 推送到手机",
+   "OS 级沙箱（seatbelt / landlock）、三级记忆、MCP 客户端、ACP/Zed 支持"
+  ],
+  "use_cases": [
+   "在终端里让 agent 按计划自主完成编码任务并提交",
+   "夜间定时无人值守运行任务并把结果推送到手机",
+   "配合 DeepSeek 等自有 key 做低成本的代码审查与批量小改动"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "coding agent",
+   "终端工具",
+   "本地优先",
+   "自动化/定时任务",
+   "开发者工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Claude Code"
+  ],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版",
+   "界面支持 /lang zh 切换",
+   "峰谷时段按北京时间标注"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: A coding agent that runs as a single **static Go binary** in your terminal — a **~6 MB download**, **no daemon, no telem",
+   "L19: - **🧭 Plans before it acts** — `/plan` gates work behind `analyze → propose → you approve → execute`. Read-only until yo",
+   "L21: - **🌙 Ships while you sleep** — **zero-daemon** scheduling on your OS (launchd / systemd / Task Scheduler). `seek cron`,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

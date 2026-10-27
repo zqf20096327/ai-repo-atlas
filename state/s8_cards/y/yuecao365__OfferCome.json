@@ -1,1 +1,79 @@
-{"fn": "yuecao365/OfferCome", "sha": "c5a29394b551", "source": "readme", "identity": {"one_liner": "面向求职者的 AI 求职工作台：投递跟踪、简历管理与模拟面试", "review": "开源 Web 应用，用 Next.js 与 SQLite 构建，将投递记录管理、简历解析（PDF/Word/图片提取实习与项目）、面试记录与 AI 模拟面试整合在一处。模拟面试为主打功能：基于简历与职位描述提问，根据回答生成追问，结束后产出总结报告；另有跨面试的题目回顾与能力画像。面试动作由代码校验、事件溯源会话记录、独立评分 agent 与 42 个面试技能包。可在浏览器直接使用或 Docker/源码自部署，模型 API 由用户在设置中自行配置。", "highlights": ["基于简历与职位描述的 AI 模拟面试，含追问、评分与改进建议", "42 个按需加载的面试技能包与跨面试能力画像", "简历从 PDF/Word/图片提取实习与项目信息", "支持浏览器直接使用或 Docker/源码自部署"], "use_cases": ["针对目标岗位做模拟面试并获取复盘报告", "统一管理投递进度、简历与面试笔记", "回顾同类问题的历史回答并规划练习方向"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["求职", "模拟面试", "简历管理", "AI助手", "Web应用"], "domain": "职业发展/求职工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["Boss 直聘（Boss Zhipin）同步功能", "中文示例面试记录（从中文翻译）", "简体中文语言入口"]}, "trust": {"confidence": "high", "evidence": ["L16: Mock interviews are the main focus of development. Choose a resume and add a job description, and the AI asks about your", "L55: |**AI mock interviews**|Questions based on the role and your projects, with follow-ups based on your answers. Review sco"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yuecao365/OfferCome",
+ "sha": "c5a29394b551",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向求职者的 AI 求职工作台：投递跟踪、简历管理与模拟面试",
+  "review": "开源 Web 应用，用 Next.js 与 SQLite 构建，将投递记录管理、简历解析（PDF/Word/图片提取实习与项目）、面试记录与 AI 模拟面试整合在一处。模拟面试为主打功能：基于简历与职位描述提问，根据回答生成追问，结束后产出总结报告；另有跨面试的题目回顾与能力画像。面试动作由代码校验、事件溯源会话记录、独立评分 agent 与 42 个面试技能包。可在浏览器直接使用或 Docker/源码自部署，模型 API 由用户在设置中自行配置。",
+  "highlights": [
+   "基于简历与职位描述的 AI 模拟面试，含追问、评分与改进建议",
+   "42 个按需加载的面试技能包与跨面试能力画像",
+   "简历从 PDF/Word/图片提取实习与项目信息",
+   "支持浏览器直接使用或 Docker/源码自部署"
+  ],
+  "use_cases": [
+   "针对目标岗位做模拟面试并获取复盘报告",
+   "统一管理投递进度、简历与面试笔记",
+   "回顾同类问题的历史回答并规划练习方向"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职",
+   "模拟面试",
+   "简历管理",
+   "AI助手",
+   "Web应用"
+  ],
+  "domain": "职业发展/求职工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Boss 直聘（Boss Zhipin）同步功能",
+   "中文示例面试记录（从中文翻译）",
+   "简体中文语言入口"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: Mock interviews are the main focus of development. Choose a resume and add a job description, and the AI asks about your",
+   "L55: |**AI mock interviews**|Questions based on the role and your projects, with follow-ups based on your answers. Review sco"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

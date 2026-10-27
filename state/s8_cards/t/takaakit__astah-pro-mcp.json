@@ -1,1 +1,78 @@
-{"fn": "takaakit/astah-pro-mcp", "sha": "41256cf16b62", "source": "readme", "identity": {"one_liner": "Astah Professional 的 MCP 服务器插件：让 AI agent 操作 UML 模型", "review": "以 Astah Professional 插件形式运行的本地 MCP 服务器，使 AI agent（Claude Code、Codex CLI、Grok Build、Cursor 等）能够设计系统并生成 UML 模型、解释模型、在 UML 与源码间互相生成、从手绘草图创建图。支持 10 种图类型（部分仅查询）。提供程序化工具调用模式（端口 8888，85 个工具）与直接调用模式（端口 18888，392 个工具）。限制：项目处于实验阶段可能引入破坏性变更；模型数据会共享给 AI agent 存在保密风险；未实现 token 节省措施；须持有 Astah 有效许可且仅限本机自用。", "highlights": ["AI agent 可创建/解释 UML 模型并在 UML 与源码间互相生成", "两种工具调用模式：程序化（85 个工具）与直接（392 个工具）", "支持 10 种图类型，含类图、序列图、状态机图等", "从手绘草图创建 UML 图"], "use_cases": ["让 Claude Code 等 agent 按自然语言描述在 Astah 中画出系统设计图", "基于已有 Astah 模型生成序列图/活动图说明系统行为", "从 UML 模型生成源代码或反向生成模型"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [247, 272]}}, "links": {"scenario_tags": ["MCP", "UML建模", "AI agent 工具接入", "软件设计", "Astah 插件"], "domain": "软件开发/UML 建模工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A local MCP server plugin for Astah Professional, a UML modeling tool, that enables AI agents to:", "L10: This plugin experimentally implements a programmatic tool calling mode, inspired by the **\"Programmatic Tool Calling\"** "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "takaakit/astah-pro-mcp",
+ "sha": "41256cf16b62",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Astah Professional 的 MCP 服务器插件：让 AI agent 操作 UML 模型",
+  "review": "以 Astah Professional 插件形式运行的本地 MCP 服务器，使 AI agent（Claude Code、Codex CLI、Grok Build、Cursor 等）能够设计系统并生成 UML 模型、解释模型、在 UML 与源码间互相生成、从手绘草图创建图。支持 10 种图类型（部分仅查询）。提供程序化工具调用模式（端口 8888，85 个工具）与直接调用模式（端口 18888，392 个工具）。限制：项目处于实验阶段可能引入破坏性变更；模型数据会共享给 AI agent 存在保密风险；未实现 token 节省措施；须持有 Astah 有效许可且仅限本机自用。",
+  "highlights": [
+   "AI agent 可创建/解释 UML 模型并在 UML 与源码间互相生成",
+   "两种工具调用模式：程序化（85 个工具）与直接（392 个工具）",
+   "支持 10 种图类型，含类图、序列图、状态机图等",
+   "从手绘草图创建 UML 图"
+  ],
+  "use_cases": [
+   "让 Claude Code 等 agent 按自然语言描述在 Astah 中画出系统设计图",
+   "基于已有 Astah 模型生成序列图/活动图说明系统行为",
+   "从 UML 模型生成源代码或反向生成模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    247,
+    272
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "UML建模",
+   "AI agent 工具接入",
+   "软件设计",
+   "Astah 插件"
+  ],
+  "domain": "软件开发/UML 建模工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A local MCP server plugin for Astah Professional, a UML modeling tool, that enables AI agents to:",
+   "L10: This plugin experimentally implements a programmatic tool calling mode, inspired by the **\"Programmatic Tool Calling\"** "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
