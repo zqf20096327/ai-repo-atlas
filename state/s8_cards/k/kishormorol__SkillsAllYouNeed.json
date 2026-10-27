@@ -1,1 +1,77 @@
-{"fn": "kishormorol/SkillsAllYouNeed", "sha": "c95fef8b7b90", "source": "readme", "identity": {"one_liner": "13 个 AI 助手生态的官方技能/能力目录站（226 条）", "review": "覆盖 Claude、ChatGPT、Gemini、Cursor、Copilot 等 13 个 AI 助手生态的 226 个第一方技能条目，按 9 类组织，每条含触发短语、使用示例与官方来源链接。提供全文搜索、筛选、深链、收藏导出，以及 CC BY 4.0 的静态 skills.json API，可用于 RAG 语料或微调数据集。技术栈为模块化 HTML/CSS/JS，零构建、零运行时依赖，托管于 GitHub Pages。", "highlights": ["226 个技能条目覆盖 13 个生态、9 个类别", "每条含触发短语、示例与官方来源链接", "skills.json 静态 API（CC BY 4.0），可用于 RAG/微调数据集", "零构建零依赖的模块化 HTML/CSS/JS，GitHub Pages 托管"], "use_cases": ["查找某个 AI 助手的隐藏能力与触发方式", "对比 13 个生态的 36 项能力矩阵", "下载 skills.json 作为 RAG 管线或微调的数据集"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://kishormorol.github.io/SkillsAllYouNeed/skills.json", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["技能目录", "AI助手生态", "参考手册", "数据集/API"], "domain": "AI 助手生态/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: > The open registry of AI skills — ready-to-use capability definitions for Claude, Claude Code, ChatGPT, Codex, OpenCode", "L18: **SkillsAllYouNeed** is a searchable, filterable reference directory of every first-party skill, capability, tool, and e", "L74: - **skills.json API** — machine-readable corpus of all 226 skills (CC BY 4.0)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kishormorol/SkillsAllYouNeed",
+ "sha": "c95fef8b7b90",
+ "source": "readme",
+ "identity": {
+  "one_liner": "13 个 AI 助手生态的官方技能/能力目录站（226 条）",
+  "review": "覆盖 Claude、ChatGPT、Gemini、Cursor、Copilot 等 13 个 AI 助手生态的 226 个第一方技能条目，按 9 类组织，每条含触发短语、使用示例与官方来源链接。提供全文搜索、筛选、深链、收藏导出，以及 CC BY 4.0 的静态 skills.json API，可用于 RAG 语料或微调数据集。技术栈为模块化 HTML/CSS/JS，零构建、零运行时依赖，托管于 GitHub Pages。",
+  "highlights": [
+   "226 个技能条目覆盖 13 个生态、9 个类别",
+   "每条含触发短语、示例与官方来源链接",
+   "skills.json 静态 API（CC BY 4.0），可用于 RAG/微调数据集",
+   "零构建零依赖的模块化 HTML/CSS/JS，GitHub Pages 托管"
+  ],
+  "use_cases": [
+   "查找某个 AI 助手的隐藏能力与触发方式",
+   "对比 13 个生态的 36 项能力矩阵",
+   "下载 skills.json 作为 RAG 管线或微调的数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://kishormorol.github.io/SkillsAllYouNeed/skills.json",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "技能目录",
+   "AI助手生态",
+   "参考手册",
+   "数据集/API"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > The open registry of AI skills — ready-to-use capability definitions for Claude, Claude Code, ChatGPT, Codex, OpenCode",
+   "L18: **SkillsAllYouNeed** is a searchable, filterable reference directory of every first-party skill, capability, tool, and e",
+   "L74: - **skills.json API** — machine-readable corpus of all 226 skills (CC BY 4.0)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

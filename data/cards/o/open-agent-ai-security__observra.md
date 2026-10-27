@@ -33,7 +33,7 @@ Observra 是面向 AI agent 系统的观测与遥测框架，通过 Common Infor
 
 ## 场景标签
 
- · 领域:LLM 基础设施/可观测性
+`LLM 可观测性` · 领域:评测与运维
 
 ## 证据(README 行号)
 

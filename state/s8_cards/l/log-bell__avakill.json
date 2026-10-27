@@ -1,1 +1,81 @@
-{"fn": "log-bell/avakill", "sha": "0c3f957742a9", "source": "readme", "identity": {"one_liner": "AI agent 工具调用防火墙：拦截危险操作并按 YAML 策略拦截", "review": "面向在生产环境运行 AI agent 的开发者与团队的开源安全防护工具。在 agent 与工具之间拦截每次工具调用，按单一 YAML 策略（deny 默认、glob、参数匹配、shell 安全、路径解析、内容扫描、限流、审批门）做确定性规则判定，<1ms 无 ML 模型。提供三条独立执行路径：原生 hooks（Claude Code、Cursor 等 8 种 agent）、MCP proxy 包装、OS 沙箱（Landlock/sandbox-exec/AppContainer）。附带 Python SDK、CLI、审计日志、策略签名与 SOC 2 等合规报告。macOS 14+ 需用 pipx 或虚拟环境安装。AGPL-3.0 许可。", "highlights": ["三条独立执行路径：agent hooks / MCP proxy / OS 沙箱，无需守护进程", "81 条规则目录、14 类别，deny 默认的 YAML 策略，纯规则判定 <1ms", "内容扫描（secrets/PII/prompt injection）与人工审批工作流", "策略签名（HMAC-SHA256 + Ed25519）与 SOC 2/NIST AI RMF/EU AI Act 合规报告"], "use_cases": ["生产环境 agent 上线前拦截破坏性 shell 或文件操作", "为 Claude Code / Cursor 等 coding agent 统一安装安全 hook", "MCP 服务器的工具调用与响应内容审计", "生成并验证合规报告以应对 SOC 2 等框架要求"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI安全", "guardrails", "agent工具链", "策略引擎", "合规审计"], "domain": "AI 安全/开发者工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L31: **AvaKill is that missing layer.** A firewall that intercepts every tool call, evaluates it against your safety policies", "L44: 1. **Detects agents** across three enforcement paths (hooks, MCP proxy, OS sandbox)", "L84: **Native Agent Hooks**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "log-bell/avakill",
+ "sha": "0c3f957742a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 工具调用防火墙：拦截危险操作并按 YAML 策略拦截",
+  "review": "面向在生产环境运行 AI agent 的开发者与团队的开源安全防护工具。在 agent 与工具之间拦截每次工具调用，按单一 YAML 策略（deny 默认、glob、参数匹配、shell 安全、路径解析、内容扫描、限流、审批门）做确定性规则判定，<1ms 无 ML 模型。提供三条独立执行路径：原生 hooks（Claude Code、Cursor 等 8 种 agent）、MCP proxy 包装、OS 沙箱（Landlock/sandbox-exec/AppContainer）。附带 Python SDK、CLI、审计日志、策略签名与 SOC 2 等合规报告。macOS 14+ 需用 pipx 或虚拟环境安装。AGPL-3.0 许可。",
+  "highlights": [
+   "三条独立执行路径：agent hooks / MCP proxy / OS 沙箱，无需守护进程",
+   "81 条规则目录、14 类别，deny 默认的 YAML 策略，纯规则判定 <1ms",
+   "内容扫描（secrets/PII/prompt injection）与人工审批工作流",
+   "策略签名（HMAC-SHA256 + Ed25519）与 SOC 2/NIST AI RMF/EU AI Act 合规报告"
+  ],
+  "use_cases": [
+   "生产环境 agent 上线前拦截破坏性 shell 或文件操作",
+   "为 Claude Code / Cursor 等 coding agent 统一安装安全 hook",
+   "MCP 服务器的工具调用与响应内容审计",
+   "生成并验证合规报告以应对 SOC 2 等框架要求"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI安全",
+   "guardrails",
+   "agent工具链",
+   "策略引擎",
+   "合规审计"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: **AvaKill is that missing layer.** A firewall that intercepts every tool call, evaluates it against your safety policies",
+   "L44: 1. **Detects agents** across three enforcement paths (hooks, MCP proxy, OS sandbox)",
+   "L84: **Native Agent Hooks**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

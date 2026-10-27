@@ -1,1 +1,74 @@
-{"fn": "wso2/agent-flavored-markdown", "sha": "b6db1c0857d8", "source": "readme", "identity": {"one_liner": "用 Markdown+YAML 定义可移植 AI Agent 的开放规范", "review": "由 WSO2 维护的开放规范：以 Markdown 文件加 YAML front matter 的声明式格式定义 AI agent，将自然语言指令与框架技术配置分离，使 agent 定义可在不同平台与框架间迁移。面向不写框架代码的领域专家与开发者，提供无代码途径。仓库主体为规范文档（spec/docs/specification.md），附 MkDocs 文档站点与 Docker 构建流程，并有 IUI 2026 AgentCraft workshop 论文可供引用。不含运行时实现。", "highlights": ["Markdown + YAML front matter 的声明式 agent 定义格式", "指令与配置分离，定义跨框架可移植", "领域专家无需编程即可编写 agent 定义"], "use_cases": ["以平台无关格式编写和迁移 AI agent 定义", "让非技术领域专家参与 agent 编写", "作为论文引用或跨工具交换 agent 规范"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "IUI 2026 AgentCraft workshop 论文（README L36-43 提供 BibTeX）", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent规范", "互操作性", "无代码", "Markdown格式"], "domain": "AI agent 标准化/规范", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: A specification for no-code, portable AI Agents.", "L7: AFM (Agent-Flavored Markdown) is an open specification for defining AI agents in a simple, declarative, Markdown-based f", "L9: Most AI agent frameworks intertwine agent instructions with technical configurations, obscuring the core agent logic and"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wso2/agent-flavored-markdown",
+ "sha": "b6db1c0857d8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 Markdown+YAML 定义可移植 AI Agent 的开放规范",
+  "review": "由 WSO2 维护的开放规范：以 Markdown 文件加 YAML front matter 的声明式格式定义 AI agent，将自然语言指令与框架技术配置分离，使 agent 定义可在不同平台与框架间迁移。面向不写框架代码的领域专家与开发者，提供无代码途径。仓库主体为规范文档（spec/docs/specification.md），附 MkDocs 文档站点与 Docker 构建流程，并有 IUI 2026 AgentCraft workshop 论文可供引用。不含运行时实现。",
+  "highlights": [
+   "Markdown + YAML front matter 的声明式 agent 定义格式",
+   "指令与配置分离，定义跨框架可移植",
+   "领域专家无需编程即可编写 agent 定义"
+  ],
+  "use_cases": [
+   "以平台无关格式编写和迁移 AI agent 定义",
+   "让非技术领域专家参与 agent 编写",
+   "作为论文引用或跨工具交换 agent 规范"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "IUI 2026 AgentCraft workshop 论文（README L36-43 提供 BibTeX）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent规范",
+   "互操作性",
+   "无代码",
+   "Markdown格式"
+  ],
+  "domain": "AI agent 标准化/规范",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A specification for no-code, portable AI Agents.",
+   "L7: AFM (Agent-Flavored Markdown) is an open specification for defining AI agents in a simple, declarative, Markdown-based f",
+   "L9: Most AI agent frameworks intertwine agent instructions with technical configurations, obscuring the core agent logic and"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

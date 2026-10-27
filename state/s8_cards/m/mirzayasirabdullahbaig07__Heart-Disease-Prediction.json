@@ -1,1 +1,76 @@
-{"fn": "mirzayasirabdullahbaig07/Heart-Disease-Prediction", "sha": "f41bd2cf9c6e", "source": "readme", "identity": {"one_liner": "基于 Random Forest 的心脏病风险预测 Streamlit 应用", "review": "机器学习 Web 应用：输入年龄、胸痛类型、血压等 13 项临床特征，使用 scikit-learn 训练的 Random Forest 模型预测患者是否有心脏病风险。Notebook 中对比了 Logistic Regression、SVM、XGBoost 等 8 种算法，Random Forest 准确率约 90% 被选为最终部署模型。通过 Streamlit 本地运行或部署到 Streamlit Cloud，可在 Google Colab 中重新训练并替换模型文件。作者声明仅供教育用途，非认证医疗诊断工具。", "highlights": ["基于 13 项临床特征输出心脏病风险预测", "对比 8 种算法后选定 Random Forest（约 90% 准确率）", "提供 Streamlit 本地运行与 Streamlit Cloud 部署步骤", "支持在 Google Colab 中用新数据重新训练模型"], "use_cases": ["作为机器学习入门教学项目学习建模与部署流程", "在网页中输入临床指标获取风险预测演示", "替换数据集重新训练自有模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["医疗健康", "监督学习", "表格数据预测", "Web应用部署"], "domain": "医疗健康/机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A machine learning web app that predicts whether a patient is at risk of heart disease, based on 13 clinical features. B", "L25: |**Random Forest**|**~90%** ✅|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mirzayasirabdullahbaig07/Heart-Disease-Prediction",
+ "sha": "f41bd2cf9c6e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Random Forest 的心脏病风险预测 Streamlit 应用",
+  "review": "机器学习 Web 应用：输入年龄、胸痛类型、血压等 13 项临床特征，使用 scikit-learn 训练的 Random Forest 模型预测患者是否有心脏病风险。Notebook 中对比了 Logistic Regression、SVM、XGBoost 等 8 种算法，Random Forest 准确率约 90% 被选为最终部署模型。通过 Streamlit 本地运行或部署到 Streamlit Cloud，可在 Google Colab 中重新训练并替换模型文件。作者声明仅供教育用途，非认证医疗诊断工具。",
+  "highlights": [
+   "基于 13 项临床特征输出心脏病风险预测",
+   "对比 8 种算法后选定 Random Forest（约 90% 准确率）",
+   "提供 Streamlit 本地运行与 Streamlit Cloud 部署步骤",
+   "支持在 Google Colab 中用新数据重新训练模型"
+  ],
+  "use_cases": [
+   "作为机器学习入门教学项目学习建模与部署流程",
+   "在网页中输入临床指标获取风险预测演示",
+   "替换数据集重新训练自有模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医疗健康",
+   "监督学习",
+   "表格数据预测",
+   "Web应用部署"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A machine learning web app that predicts whether a patient is at risk of heart disease, based on 13 clinical features. B",
+   "L25: |**Random Forest**|**~90%** ✅|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

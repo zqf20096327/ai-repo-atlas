@@ -1,1 +1,81 @@
-{"fn": "prometeucorp/prometeu", "sha": "b1127c43037d", "source": "readme", "identity": {"one_liner": "并行运行多个编码 agent 的桌面应用，配 git worktree 隔离与 diff 审查", "review": "MIT 许可的开源桌面应用，用于在同一界面并行运行 Claude Code、Codex、Cursor CLI 和 Antigravity 四种编码 agent：每个任务自动创建独立 git worktree 隔离改动，内置可视化 diff 审查、提交与冲突处理，并附带编辑器、终端、MCP 服务器、Linear/GitHub 任务过滤等工具。自带 provider 账号，用量由 provider 计费。macOS(Apple Silicon)/Linux(x86_64) 提供安装包，Windows 为实验性且仅支持 WSL 内的 Codex；使用分析默认关闭。", "highlights": ["并行运行 4 种编码 agent，每个任务独立 git worktree 隔离", "可视化 diff 审查、暂存、提交与冲突解决", "内置编辑器、终端、浏览器预览、MCP 服务器、插件与技能", "可恢复中断的对话并查看本地 token 与成本历史"], "use_cases": ["同时让多个 AI 编码 agent 处理不同任务且互不干扰", "在提交合并前可视化审查 agent 的代码改动", "从 Linear/GitHub 筛选 issue 或 PR 直接发起 agent 工作区"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [14, 61]}}, "links": {"scenario_tags": ["AI编码agent", "桌面应用", "git worktree", "开发效率工具"], "domain": "开发者工具/AI 编码", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L2: Run Claude Code, Codex, Cursor CLI and Antigravity agents in parallel — each in its own git worktree, with built-in diff", "L20: - Create isolated worktrees automatically for separate tasks, so agents do not edit the same checkout."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "prometeucorp/prometeu",
+ "sha": "b1127c43037d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "并行运行多个编码 agent 的桌面应用，配 git worktree 隔离与 diff 审查",
+  "review": "MIT 许可的开源桌面应用，用于在同一界面并行运行 Claude Code、Codex、Cursor CLI 和 Antigravity 四种编码 agent：每个任务自动创建独立 git worktree 隔离改动，内置可视化 diff 审查、提交与冲突处理，并附带编辑器、终端、MCP 服务器、Linear/GitHub 任务过滤等工具。自带 provider 账号，用量由 provider 计费。macOS(Apple Silicon)/Linux(x86_64) 提供安装包，Windows 为实验性且仅支持 WSL 内的 Codex；使用分析默认关闭。",
+  "highlights": [
+   "并行运行 4 种编码 agent，每个任务独立 git worktree 隔离",
+   "可视化 diff 审查、暂存、提交与冲突解决",
+   "内置编辑器、终端、浏览器预览、MCP 服务器、插件与技能",
+   "可恢复中断的对话并查看本地 token 与成本历史"
+  ],
+  "use_cases": [
+   "同时让多个 AI 编码 agent 处理不同任务且互不干扰",
+   "在提交合并前可视化审查 agent 的代码改动",
+   "从 Linear/GitHub 筛选 issue 或 PR 直接发起 agent 工作区"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    14,
+    61
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码agent",
+   "桌面应用",
+   "git worktree",
+   "开发效率工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: Run Claude Code, Codex, Cursor CLI and Antigravity agents in parallel — each in its own git worktree, with built-in diff",
+   "L20: - Create isolated worktrees automatically for separate tasks, so agents do not edit the same checkout."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

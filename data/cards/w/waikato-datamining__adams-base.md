@@ -32,7 +32,7 @@ Java 编写、Maven 构建的项目，提供 ADAMS（Advanced Data Mining and Ma
 
 ## 场景标签
 
- · 领域:数据挖掘/机器学习基础设施
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

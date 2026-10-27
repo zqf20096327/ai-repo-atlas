@@ -1,1 +1,79 @@
-{"fn": "vttc08/demucs-karaoke-app", "sha": "47bd08894d83", "source": "readme", "identity": {"one_liner": "本地运行的家庭卡拉 OK 网页应用：AI 分离人声并生成逐字歌词", "review": "面向家庭卡拉 OK 场景的自托管网页应用：通过 Demucs 分离歌曲人声、WhisperX 生成逐字歌词时间轴，支持搜索/下载 YouTube 视频、用户点歌队列、舞台显示自定义、媒体编辑器与自带歌曲上传。ML 依赖被解耦为可选的 Demucs 服务，主应用可经 Docker Compose 部署在 Linux 家用服务器，Demucs 服务支持 CUDA 或纯 CPU 运行，需 Python 3.10 与 Hugging Face token（pyannote 模型）。iOS 设备不支持多轨音频同时播放。界面支持中英等多语言。", "highlights": ["Demucs 人声分离 + WhisperX 逐字歌词时间轴生成", "ML 依赖解耦为可独立部署的 Demucs 服务（CUDA/CPU）", "点歌队列、舞台显示自定义、字幕编辑器与视频裁剪", "自带歌曲上传后进行 AI/ML 卡拉 OK 处理"], "use_cases": ["在家用服务器自建免费无广告的卡拉 OK 系统", "把任意有音频和歌词的歌曲转成卡拉 OK 轨道", "用手机加入点歌队列、电视/大屏展示歌词舞台"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": "cpu-ok", "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["卡拉OK", "音频分离", "语音对齐", "自托管", "家庭娱乐"], "domain": "娱乐/音频处理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["界面与文档含简体中文翻译（L224）"]}, "trust": {"confidence": "mid", "evidence": ["L5: DMKaraoke is a lightweight web application for home karaoke. It uses machine learning to separate vocals and create word", "L183: - **AI/ML karaoke processing**: Remove vocals from songs with Demucs and generate word-by-word karaoke timing with Whisp"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vttc08/demucs-karaoke-app",
+ "sha": "47bd08894d83",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的家庭卡拉 OK 网页应用：AI 分离人声并生成逐字歌词",
+  "review": "面向家庭卡拉 OK 场景的自托管网页应用：通过 Demucs 分离歌曲人声、WhisperX 生成逐字歌词时间轴，支持搜索/下载 YouTube 视频、用户点歌队列、舞台显示自定义、媒体编辑器与自带歌曲上传。ML 依赖被解耦为可选的 Demucs 服务，主应用可经 Docker Compose 部署在 Linux 家用服务器，Demucs 服务支持 CUDA 或纯 CPU 运行，需 Python 3.10 与 Hugging Face token（pyannote 模型）。iOS 设备不支持多轨音频同时播放。界面支持中英等多语言。",
+  "highlights": [
+   "Demucs 人声分离 + WhisperX 逐字歌词时间轴生成",
+   "ML 依赖解耦为可独立部署的 Demucs 服务（CUDA/CPU）",
+   "点歌队列、舞台显示自定义、字幕编辑器与视频裁剪",
+   "自带歌曲上传后进行 AI/ML 卡拉 OK 处理"
+  ],
+  "use_cases": [
+   "在家用服务器自建免费无广告的卡拉 OK 系统",
+   "把任意有音频和歌词的歌曲转成卡拉 OK 轨道",
+   "用手机加入点歌队列、电视/大屏展示歌词舞台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "卡拉OK",
+   "音频分离",
+   "语音对齐",
+   "自托管",
+   "家庭娱乐"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "界面与文档含简体中文翻译（L224）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: DMKaraoke is a lightweight web application for home karaoke. It uses machine learning to separate vocals and create word",
+   "L183: - **AI/ML karaoke processing**: Remove vocals from songs with Demucs and generate word-by-word karaoke timing with Whisp"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

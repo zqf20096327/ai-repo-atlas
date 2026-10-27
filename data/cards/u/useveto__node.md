@@ -33,7 +33,7 @@ Node.js/TypeScript SDK，为 AI agent 提供运行时授权层：拦截每一次
 
 ## 场景标签
 
- · 领域:AI agent 安全基础设施
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

@@ -1,1 +1,80 @@
-{"fn": "mohamed-em2m/llmog", "sha": "7bbcdae4e6d7", "source": "readme", "identity": {"one_liner": "用 VLM 做零训练目标检测与 YOLO 数据集重标注的库", "review": "基于 Detector-Judge 迭代流水线的目标检测库：VLM 检测器提出边界框，VLM 评审器对照原图批评，循环自修正直至达到质量阈值或轮次上限。支持任意 OpenAI 兼容后端（llama.cpp、vLLM、Ollama、云端 API），内置 tiling、CLAHE、Set-of-Mark 提示、Crop-Verify 等小目标增强手段。auto_label 模式可遍历现有 YOLO 缺陷数据集做细粒度重分类并更新 data.yaml。提供统一 CLI、Gradio Web 界面与本地 llama-server/vLLM 生命周期管理器。需 Python 3.12+ 与 uv。", "highlights": ["Detector-Judge 迭代流水线，按类别列表零训练检测", "auto_label 模式将二分类 YOLO 数据集重标注为多分类", "tiling、CLAHE、Set-of-Mark、Crop-Verify 等小目标预处理", "内置 llama-server / llama-cpp-python / vLLM 服务器管理器与 Gradio Web 界面"], "use_cases": ["零训练检测自定义类别（如工业缺陷 crack/scratch/dent）", "把粗粒度二分类缺陷数据集细化为多分类标签", "在本地硬件上运行 VLM 检测，无需云端 API key"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["目标检测", "VLM", "自动标注", "计算机视觉", "本地推理"], "domain": "计算机视觉/目标检测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: **A library for object detection tasks using LLMs.**", "L7: This project implements an iterative **Detector-Judge pipeline**: a VLM \"detector\" agent proposes bounding boxes, a VLM "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mohamed-em2m/llmog",
+ "sha": "7bbcdae4e6d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 VLM 做零训练目标检测与 YOLO 数据集重标注的库",
+  "review": "基于 Detector-Judge 迭代流水线的目标检测库：VLM 检测器提出边界框，VLM 评审器对照原图批评，循环自修正直至达到质量阈值或轮次上限。支持任意 OpenAI 兼容后端（llama.cpp、vLLM、Ollama、云端 API），内置 tiling、CLAHE、Set-of-Mark 提示、Crop-Verify 等小目标增强手段。auto_label 模式可遍历现有 YOLO 缺陷数据集做细粒度重分类并更新 data.yaml。提供统一 CLI、Gradio Web 界面与本地 llama-server/vLLM 生命周期管理器。需 Python 3.12+ 与 uv。",
+  "highlights": [
+   "Detector-Judge 迭代流水线，按类别列表零训练检测",
+   "auto_label 模式将二分类 YOLO 数据集重标注为多分类",
+   "tiling、CLAHE、Set-of-Mark、Crop-Verify 等小目标预处理",
+   "内置 llama-server / llama-cpp-python / vLLM 服务器管理器与 Gradio Web 界面"
+  ],
+  "use_cases": [
+   "零训练检测自定义类别（如工业缺陷 crack/scratch/dent）",
+   "把粗粒度二分类缺陷数据集细化为多分类标签",
+   "在本地硬件上运行 VLM 检测，无需云端 API key"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "目标检测",
+   "VLM",
+   "自动标注",
+   "计算机视觉",
+   "本地推理"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "object-detection",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **A library for object detection tasks using LLMs.**",
+   "L7: This project implements an iterative **Detector-Judge pipeline**: a VLM \"detector\" agent proposes bounding boxes, a VLM "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

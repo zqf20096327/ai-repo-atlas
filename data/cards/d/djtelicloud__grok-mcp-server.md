@@ -34,7 +34,7 @@ UniGrok 是以 Docker Compose 运行的本地 MCP 服务与网关，在 4765 端
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发工具
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

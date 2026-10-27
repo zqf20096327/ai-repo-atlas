@@ -33,7 +33,7 @@ MergeWatch 是一个可自托管（Docker 三服务）或使用 SaaS 的 GitHub 
 
 ## 场景标签
 
- · 领域:开发工具/代码评审
+`代码审查` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

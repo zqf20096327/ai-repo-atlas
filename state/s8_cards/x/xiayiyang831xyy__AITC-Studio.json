@@ -1,1 +1,81 @@
-{"fn": "xiayiyang831xyy/AITC-Studio", "sha": "152d1571912b", "source": "readme", "identity": {"one_liner": "面向测试工程师的 AI 测试用例生成与管理平台", "review": "AITC 将需求文档到测试用例的流程组织为一条工程链路：需求导入与功能点结构化、项目级混合 RAG（向量+BM25+RRF+可选 Rerank）知识增强、基于 LangGraph 的多 Skill 用例生成（核心/安全/接口专项）、规则质检与 AI Judge 评分、人工评审采纳后入库，并支持测试任务执行与离线评测回归。技术栈为 React+FastAPI+SQLAlchemy+Chroma，模型接口采用 OpenAI-compatible 协议，默认支持 Mock 模式无需 Key 体验。当前版本以本地和中小规模部署为目标（默认 SQLite、单 Worker 锁），生产化需自行引入 PostgreSQL/Redis 等。", "highlights": ["LangGraph 状态节点拆分生成流程，支持断点恢复与幂等重试", "skill.yaml+Handler+Prompt+Pydantic Schema 的 Skill 插件体系，专项能力可动态发现", "向量+BM25+RRF 融合+可选 Rerank 的混合 RAG，引用来源随结果保存", "AgentRun 持久化、Worker 租约心跳、预算控制与事件追踪的运行治理"], "use_cases": ["把 PRD/需求文档批量转化为可评审的测试用例草稿", "沉淀业务规则与历史缺陷为项目知识库，约束用例生成上下文", "对 AI 生成用例做规则质检、AI Judge 评分与人工采纳后交付执行", "固化样本与模型快照，对生成质量做离线评测回归对比"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI测试工程", "测试用例生成", "RAG", "多Agent", "LangGraph"], "domain": "软件测试/AI 工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README"]}, "trust": {"confidence": "high", "evidence": ["L3: **从需求文档到可执行测试用例的 AI 测试工程平台**", "L45: AITC 面向测试工程师与测试负责人，解决三个典型问题：", "L54: 需求导入 → FeatureList 确认 → RAG 增强生成 → 规则质检 → AI Judge"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xiayiyang831xyy/AITC-Studio",
+ "sha": "152d1571912b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向测试工程师的 AI 测试用例生成与管理平台",
+  "review": "AITC 将需求文档到测试用例的流程组织为一条工程链路：需求导入与功能点结构化、项目级混合 RAG（向量+BM25+RRF+可选 Rerank）知识增强、基于 LangGraph 的多 Skill 用例生成（核心/安全/接口专项）、规则质检与 AI Judge 评分、人工评审采纳后入库，并支持测试任务执行与离线评测回归。技术栈为 React+FastAPI+SQLAlchemy+Chroma，模型接口采用 OpenAI-compatible 协议，默认支持 Mock 模式无需 Key 体验。当前版本以本地和中小规模部署为目标（默认 SQLite、单 Worker 锁），生产化需自行引入 PostgreSQL/Redis 等。",
+  "highlights": [
+   "LangGraph 状态节点拆分生成流程，支持断点恢复与幂等重试",
+   "skill.yaml+Handler+Prompt+Pydantic Schema 的 Skill 插件体系，专项能力可动态发现",
+   "向量+BM25+RRF 融合+可选 Rerank 的混合 RAG，引用来源随结果保存",
+   "AgentRun 持久化、Worker 租约心跳、预算控制与事件追踪的运行治理"
+  ],
+  "use_cases": [
+   "把 PRD/需求文档批量转化为可评审的测试用例草稿",
+   "沉淀业务规则与历史缺陷为项目知识库，约束用例生成上下文",
+   "对 AI 生成用例做规则质检、AI Judge 评分与人工采纳后交付执行",
+   "固化样本与模型快照，对生成质量做离线评测回归对比"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI测试工程",
+   "测试用例生成",
+   "RAG",
+   "多Agent",
+   "LangGraph"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **从需求文档到可执行测试用例的 AI 测试工程平台**",
+   "L45: AITC 面向测试工程师与测试负责人，解决三个典型问题：",
+   "L54: 需求导入 → FeatureList 确认 → RAG 增强生成 → 规则质检 → AI Judge"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

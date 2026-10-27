@@ -33,7 +33,7 @@ Nouverse Technologies 开发的单一二进制守护进程，将 Discord、Teleg
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 运行时
+`多智能体` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

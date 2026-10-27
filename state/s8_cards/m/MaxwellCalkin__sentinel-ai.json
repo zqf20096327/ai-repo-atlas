@@ -1,1 +1,82 @@
-{"fn": "MaxwellCalkin/sentinel-ai", "sha": "3651b660f681", "source": "readme", "identity": {"one_liner": "给 LLM 应用的实时安全防护层：11 类扫描器拦截注入与泄露", "review": "面向 LLM 应用开发者的安全中间件：以正则规则扫描提示注入、PII、有害内容、代码漏洞、混淆攻击等，自称平均约 0.05ms、无需 GPU 与 API 调用，核心依赖仅 regex。提供 Python/TypeScript SDK、CLI、FastAPI 中间件、LLM API 反向代理防火墙、MCP 服务器与 Claude Code 插件/hooks，另含项目级安全审计、依赖供应链与密钥扫描。定位为模型化安全工具之前的确定性过滤层。", "highlights": ["11 个内置扫描器覆盖 OWASP LLM Top 10，无需 GPU/API 调用", "Python + TypeScript 双 SDK，零重量级依赖（核心仅需 regex）", "LLM API 反向代理防火墙扫描请求/响应并自动脱敏 PII", "MCP 服务器（14 个工具）与 Claude Code hooks/插件集成", "项目级扫描：CLAUDE.md 注入、供应链、硬编码密钥、MCP 工具 schema 校验"], "use_cases": ["在 LLM 应用入口拦截提示注入与 PII 泄露", "给 Claude Code / MCP 客户端挂载自动安全扫描", "CI/CD 中对项目做依赖供应链与密钥审计", "以反向代理形式为任意 LLM API 加防护"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": "cpu-ok", "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM安全", "guardrails", "提示注入防护", "代码扫描", "MCP"], "domain": "LLM 安全/中间件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: Sentinel AI is a lightweight, zero-dependency safety layer that protects your LLM applications from prompt injection, PI", "L25: - **Drop-in integrations**: Works with Claude, OpenAI, LangChain, LlamaIndex, and any LLM.", "L292: Transparent reverse proxy that sits between your app and any LLM API, scanning all requests and responses:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "MaxwellCalkin/sentinel-ai",
+ "sha": "3651b660f681",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 LLM 应用的实时安全防护层：11 类扫描器拦截注入与泄露",
+  "review": "面向 LLM 应用开发者的安全中间件：以正则规则扫描提示注入、PII、有害内容、代码漏洞、混淆攻击等，自称平均约 0.05ms、无需 GPU 与 API 调用，核心依赖仅 regex。提供 Python/TypeScript SDK、CLI、FastAPI 中间件、LLM API 反向代理防火墙、MCP 服务器与 Claude Code 插件/hooks，另含项目级安全审计、依赖供应链与密钥扫描。定位为模型化安全工具之前的确定性过滤层。",
+  "highlights": [
+   "11 个内置扫描器覆盖 OWASP LLM Top 10，无需 GPU/API 调用",
+   "Python + TypeScript 双 SDK，零重量级依赖（核心仅需 regex）",
+   "LLM API 反向代理防火墙扫描请求/响应并自动脱敏 PII",
+   "MCP 服务器（14 个工具）与 Claude Code hooks/插件集成",
+   "项目级扫描：CLAUDE.md 注入、供应链、硬编码密钥、MCP 工具 schema 校验"
+  ],
+  "use_cases": [
+   "在 LLM 应用入口拦截提示注入与 PII 泄露",
+   "给 Claude Code / MCP 客户端挂载自动安全扫描",
+   "CI/CD 中对项目做依赖供应链与密钥审计",
+   "以反向代理形式为任意 LLM API 加防护"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM安全",
+   "guardrails",
+   "提示注入防护",
+   "代码扫描",
+   "MCP"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Sentinel AI is a lightweight, zero-dependency safety layer that protects your LLM applications from prompt injection, PI",
+   "L25: - **Drop-in integrations**: Works with Claude, OpenAI, LangChain, LlamaIndex, and any LLM.",
+   "L292: Transparent reverse proxy that sits between your app and any LLM API, scanning all requests and responses:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

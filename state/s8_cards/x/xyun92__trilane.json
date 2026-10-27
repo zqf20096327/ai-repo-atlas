@@ -1,1 +1,81 @@
-{"fn": "xyun92/trilane", "sha": "bc0be92df954", "source": "readme", "identity": {"one_liner": "面向授权灰盒测试的自主 AI 渗透测试与多 agent 安全审计工具", "review": "以 Rust + Tauri 构建的桌面应用，把一句自然语言目标转化为分阶段审计流程：先构建攻击面图（路由/代码路径/认证边界），再按六条语义车道（身份认证、注入、入口/文件/SSRF、业务逻辑、配置/密钥/加密、边缘覆盖）并行审计，合并去重后输出带严重度、证据、payload 与代码路径的发现报告。提供 Safe 与 Lab 两种模式，Lab 模式授予更广的本地文件与命令执行权限，仅限被明确授权的目标。npm 包内置 macOS Apple Silicon 预构建应用，其他平台可从源码构建。", "highlights": ["攻击面图先于深度审计构建", "六条语义车道并行审计后合并去重", "发现报告含严重度、证据、payload 与代码路径", "Safe/Lab 双模式与运行转录归档（~/.trilane/transcripts）"], "use_cases": ["对自有或授权的 Web 应用/API 做灰盒渗透测试", "内部代码库与训练应用的安全审计", "在授权范围内的 bug bounty 目标上做自动化审计"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["渗透测试", "安全审计", "多agent", "灰盒测试", "桌面应用"], "domain": "网络安全/应用安全", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["维护者邮箱为 chinamobile.com 域名"]}, "trust": {"confidence": "high", "evidence": ["L5:  Autonomous gray-box security auditing with visible lanes, attack-surface state, and evidence-backed findings.", "L20: TriLane turns one natural-language objective into a staged audit cockpit for authorized local labs, internal codebases, ", "L61: - Runs a six-lane semantic audit across identity/auth, injection/client-side sinks, ingress/files/SSRF, business logic, "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xyun92/trilane",
+ "sha": "bc0be92df954",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向授权灰盒测试的自主 AI 渗透测试与多 agent 安全审计工具",
+  "review": "以 Rust + Tauri 构建的桌面应用，把一句自然语言目标转化为分阶段审计流程：先构建攻击面图（路由/代码路径/认证边界），再按六条语义车道（身份认证、注入、入口/文件/SSRF、业务逻辑、配置/密钥/加密、边缘覆盖）并行审计，合并去重后输出带严重度、证据、payload 与代码路径的发现报告。提供 Safe 与 Lab 两种模式，Lab 模式授予更广的本地文件与命令执行权限，仅限被明确授权的目标。npm 包内置 macOS Apple Silicon 预构建应用，其他平台可从源码构建。",
+  "highlights": [
+   "攻击面图先于深度审计构建",
+   "六条语义车道并行审计后合并去重",
+   "发现报告含严重度、证据、payload 与代码路径",
+   "Safe/Lab 双模式与运行转录归档（~/.trilane/transcripts）"
+  ],
+  "use_cases": [
+   "对自有或授权的 Web 应用/API 做灰盒渗透测试",
+   "内部代码库与训练应用的安全审计",
+   "在授权范围内的 bug bounty 目标上做自动化审计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "渗透测试",
+   "安全审计",
+   "多agent",
+   "灰盒测试",
+   "桌面应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护者邮箱为 chinamobile.com 域名"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Autonomous gray-box security auditing with visible lanes, attack-surface state, and evidence-backed findings.",
+   "L20: TriLane turns one natural-language objective into a staged audit cockpit for authorized local labs, internal codebases, ",
+   "L61: - Runs a six-lane semantic audit across identity/auth, injection/client-side sinks, ingress/files/SSRF, business logic, "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

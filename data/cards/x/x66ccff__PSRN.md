@@ -33,7 +33,7 @@ Nature Computational Science 论文的官方 PyTorch 实现，包含 PSE（并�
 
 ## 场景标签
 
- · 领域:AI for Science/符号回归
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

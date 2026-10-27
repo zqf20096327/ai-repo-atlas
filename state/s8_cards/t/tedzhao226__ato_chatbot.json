@@ -1,1 +1,78 @@
-{"fn": "tedzhao226/ato_chatbot", "sha": "a81d0d3a2462", "source": "readme", "identity": {"one_liner": "面向澳大利亚税务局信息的 RAG 聊天机器人（LlamaIndex + OpenAI）", "review": "从 ato.gov.au 抓取并处理内容、用 Qdrant 存储向量索引，再通过 Streamlit 聊天界面以三步 RAG 流程（查询改写、知识检索、OpenAI 生成）回答澳大利亚税务相关问题。数据处理与索引构建由 ZenML 管道编排，Firecrawl 负责网页抓取，Docker Compose 启动依赖服务，MongoDB 做文档存储。提供在线演示站点。需 Python 3.12+、OpenAI API key，属特定领域问答应用而非通用框架。", "highlights": ["ZenML 编排的抓取-清洗-索引数据管道（Firecrawl + Qdrant）", "Streamlit 聊天界面实现三步 RAG：查询改写、检索、生成", "提供 Streamlit Cloud 在线演示", "Make 命令驱动管道运行与服务启动"], "use_cases": ["查询澳大利亚税务局（ATO）相关税务信息", "作为领域 RAG 应用的参考实现", "学习 ZenML + LlamaIndex + Qdrant 的端到端管道构建"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://ato-chat.streamlit.app/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RAG", "聊天机器人", "税务问答", "领域知识库"], "domain": "垂直领域问答/税务信息", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A RAG-based chatbot system for Australian Taxation Office (ATO) information retrieval and assistance, powered by data so", "L13: This project implements a Retrieval-Augmented Generation (RAG) chatbot system specifically designed for ATO-related quer", "L64: 1. **Query Rephrasing**: Improves query understanding"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tedzhao226/ato_chatbot",
+ "sha": "a81d0d3a2462",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向澳大利亚税务局信息的 RAG 聊天机器人（LlamaIndex + OpenAI）",
+  "review": "从 ato.gov.au 抓取并处理内容、用 Qdrant 存储向量索引，再通过 Streamlit 聊天界面以三步 RAG 流程（查询改写、知识检索、OpenAI 生成）回答澳大利亚税务相关问题。数据处理与索引构建由 ZenML 管道编排，Firecrawl 负责网页抓取，Docker Compose 启动依赖服务，MongoDB 做文档存储。提供在线演示站点。需 Python 3.12+、OpenAI API key，属特定领域问答应用而非通用框架。",
+  "highlights": [
+   "ZenML 编排的抓取-清洗-索引数据管道（Firecrawl + Qdrant）",
+   "Streamlit 聊天界面实现三步 RAG：查询改写、检索、生成",
+   "提供 Streamlit Cloud 在线演示",
+   "Make 命令驱动管道运行与服务启动"
+  ],
+  "use_cases": [
+   "查询澳大利亚税务局（ATO）相关税务信息",
+   "作为领域 RAG 应用的参考实现",
+   "学习 ZenML + LlamaIndex + Qdrant 的端到端管道构建"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ato-chat.streamlit.app/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "聊天机器人",
+   "税务问答",
+   "领域知识库"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A RAG-based chatbot system for Australian Taxation Office (ATO) information retrieval and assistance, powered by data so",
+   "L13: This project implements a Retrieval-Augmented Generation (RAG) chatbot system specifically designed for ATO-related quer",
+   "L64: 1. **Query Rephrasing**: Improves query understanding"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

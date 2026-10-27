@@ -33,7 +33,7 @@ yunus-0x/charon 的 fork，Node.js 编写的 Telegram 交易机器人：从 Sign
 
 ## 场景标签
 
- · 领域:加密货币/DeFi 交易
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 

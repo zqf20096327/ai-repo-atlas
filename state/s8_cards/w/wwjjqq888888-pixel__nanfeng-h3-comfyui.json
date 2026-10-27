@@ -1,1 +1,81 @@
-{"fn": "wwjjqq888888-pixel/nanfeng-h3-comfyui", "sha": "013299582048", "source": "readme", "identity": {"one_liner": "MiniMax H3 的 ComfyUI 一体化节点：多参考、分镜与音频驱动", "review": "非官方的 ComfyUI 自定义节点（NanFengH3MultiReferenceGeneratorV10），为 MiniMax H3 视频生成把模型、LoRA、图片/视频/音频参考、分段提示词、Sigma 与一采/二采参数收进单块节点界面。功能包括智能分镜（视觉/文本模型独立配置）、音频驱动的分段裁切与凭据隔离、NativeAudioLock 音频锁定、Sigma 预设持久化与可移植的节点目录相对路径。不含模型权重，需用户自行搭建 ComfyUI + MiniMax H3 环境并配置 API。节点 UI 中文优先，暂无完整语言切换。", "highlights": ["同一节点组织图片/视频/音频参考与分段提示词", "智能分镜：视觉与文本模型独立配置，结果追加不覆盖", "音频驱动分段与 NativeAudioLock 精确源音频区间", "共享 ModelPatcher、动态 LoRA 链与独立一采 Sigma 的连续一采/二采"], "use_cases": ["在 ComfyUI 中用多参考素材生成 MiniMax H3 视频", "按音频驱动自动切分分镜并逐段生成", "复用 Sigma 预设与恒定触发词管理长分段生成"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI自定义节点", "AI视频生成", "分镜", "音频驱动", "MiniMax H3"], "domain": "AI 视频生成/创作工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文优先的节点 UI 与 README", "节点搜索标题为中文（南风H3 V10）"]}, "trust": {"confidence": "high", "evidence": ["L3: > **一个节点，串起多参考素材、智能分镜、音频驱动与连续二采。** 这是我为 MiniMax H3 制作的非官方 ComfyUI 一体化工作台：把原本分散的模型、LoRA、参考图/视频/音频、提示词分段、Sigma 与二采参数收进同一块高", "L37: - 节点 ID：`NanFengH3MultiReferenceGeneratorV10`", "L147: No model weights, generated media, live credentials, vision-analysis cache, bytecode, or test cache are included. This e"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wwjjqq888888-pixel/nanfeng-h3-comfyui",
+ "sha": "013299582048",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MiniMax H3 的 ComfyUI 一体化节点：多参考、分镜与音频驱动",
+  "review": "非官方的 ComfyUI 自定义节点（NanFengH3MultiReferenceGeneratorV10），为 MiniMax H3 视频生成把模型、LoRA、图片/视频/音频参考、分段提示词、Sigma 与一采/二采参数收进单块节点界面。功能包括智能分镜（视觉/文本模型独立配置）、音频驱动的分段裁切与凭据隔离、NativeAudioLock 音频锁定、Sigma 预设持久化与可移植的节点目录相对路径。不含模型权重，需用户自行搭建 ComfyUI + MiniMax H3 环境并配置 API。节点 UI 中文优先，暂无完整语言切换。",
+  "highlights": [
+   "同一节点组织图片/视频/音频参考与分段提示词",
+   "智能分镜：视觉与文本模型独立配置，结果追加不覆盖",
+   "音频驱动分段与 NativeAudioLock 精确源音频区间",
+   "共享 ModelPatcher、动态 LoRA 链与独立一采 Sigma 的连续一采/二采"
+  ],
+  "use_cases": [
+   "在 ComfyUI 中用多参考素材生成 MiniMax H3 视频",
+   "按音频驱动自动切分分镜并逐段生成",
+   "复用 Sigma 预设与恒定触发词管理长分段生成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI自定义节点",
+   "AI视频生成",
+   "分镜",
+   "音频驱动",
+   "MiniMax H3"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文优先的节点 UI 与 README",
+   "节点搜索标题为中文（南风H3 V10）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **一个节点，串起多参考素材、智能分镜、音频驱动与连续二采。** 这是我为 MiniMax H3 制作的非官方 ComfyUI 一体化工作台：把原本分散的模型、LoRA、参考图/视频/音频、提示词分段、Sigma 与二采参数收进同一块高",
+   "L37: - 节点 ID：`NanFengH3MultiReferenceGeneratorV10`",
+   "L147: No model weights, generated media, live credentials, vision-analysis cache, bytecode, or test cache are included. This e"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 治理
+`LLM 可观测性` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

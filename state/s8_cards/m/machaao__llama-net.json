@@ -1,1 +1,81 @@
-{"fn": "machaao/llama-net", "sha": "2bc19be2592d", "source": "readme", "identity": {"one_liner": "把 Mac/GPU 变成 OpenAI 兼容推理节点并可共享为公网 API", "review": "基于 llama.cpp 的本地 GGUF LLM 推理服务器：在 Mac Apple Silicon、NVIDIA GPU 或 CPU 上运行 Mistral、Llama 3、Qwen、DeepSeek-R1 等 GGUF 模型，提供 OpenAI 兼容的 /v1/chat/completions 接口，并通过 Cloudflare 隧道在约 60 秒内生成公网 HTTPS URL，节点自动注册到 llamanet.app 网关，由网关做发现、路由与负载均衡。内置 Web UI 支持模型搜索下载、热切换、多模型池（LRU 淘汰）与聊天界面；也可自建私有网关（需 Supabase）。面向希望自建或共享本地推理算力的开发者。", "highlights": ["OpenAI 兼容 API（/v1/chat/completions），任何 OpenAI 客户端可直接替换使用", "Cloudflare 隧道自动生成公网 HTTPS URL，零配置共享节点", "多模型池：LRU 淘汰、按 RAM/VRAM 自动容量检测、模型即时切换", "可自建私有网关：FastAPI + Supabase，含节点质量门（GPU/延迟/TPS 校验）"], "use_cases": ["把闲置的 Mac 或 NVIDIA GPU 变成 OpenAI 兼容的推理 API 节点", "通过 Web UI 搜索 Hugging Face、下载并热切换 GGUF 模型", "团队或组织自建带认证与负载均衡的私有 LLM 网关"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://llamanet.app", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地LLM推理", "OpenAI兼容API", "分布式推理", "内网穿透/隧道", "模型服务化"], "domain": "LLM 基础设施/推理服务", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["llama.cpp"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L14: LlamaNet is a free, open-source local LLM inference server powered by llama.cpp. Run Mistral, Llama 3, Qwen, Phi, Gemma,", "L127: - **OpenAI-Compatible API** — Drop-in replacement for any OpenAI client", "L133: - **Gateway Routing** — Central gateway with automatic node discovery and load balancing"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "machaao/llama-net",
+ "sha": "2bc19be2592d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Mac/GPU 变成 OpenAI 兼容推理节点并可共享为公网 API",
+  "review": "基于 llama.cpp 的本地 GGUF LLM 推理服务器：在 Mac Apple Silicon、NVIDIA GPU 或 CPU 上运行 Mistral、Llama 3、Qwen、DeepSeek-R1 等 GGUF 模型，提供 OpenAI 兼容的 /v1/chat/completions 接口，并通过 Cloudflare 隧道在约 60 秒内生成公网 HTTPS URL，节点自动注册到 llamanet.app 网关，由网关做发现、路由与负载均衡。内置 Web UI 支持模型搜索下载、热切换、多模型池（LRU 淘汰）与聊天界面；也可自建私有网关（需 Supabase）。面向希望自建或共享本地推理算力的开发者。",
+  "highlights": [
+   "OpenAI 兼容 API（/v1/chat/completions），任何 OpenAI 客户端可直接替换使用",
+   "Cloudflare 隧道自动生成公网 HTTPS URL，零配置共享节点",
+   "多模型池：LRU 淘汰、按 RAM/VRAM 自动容量检测、模型即时切换",
+   "可自建私有网关：FastAPI + Supabase，含节点质量门（GPU/延迟/TPS 校验）"
+  ],
+  "use_cases": [
+   "把闲置的 Mac 或 NVIDIA GPU 变成 OpenAI 兼容的推理 API 节点",
+   "通过 Web UI 搜索 Hugging Face、下载并热切换 GGUF 模型",
+   "团队或组织自建带认证与负载均衡的私有 LLM 网关"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://llamanet.app",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM推理",
+   "OpenAI兼容API",
+   "分布式推理",
+   "内网穿透/隧道",
+   "模型服务化"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: LlamaNet is a free, open-source local LLM inference server powered by llama.cpp. Run Mistral, Llama 3, Qwen, Phi, Gemma,",
+   "L127: - **OpenAI-Compatible API** — Drop-in replacement for any OpenAI client",
+   "L133: - **Gateway Routing** — Central gateway with automatic node discovery and load balancing"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

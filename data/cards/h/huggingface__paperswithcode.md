@@ -33,7 +33,7 @@ Hugging Face 维护的 Papers with Code 重启版：聚合 arXiv 论文、官方
 
 ## 场景标签
 
- · 领域:AI 研究知识聚合
+`科研工具` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

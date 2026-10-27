@@ -1,1 +1,76 @@
-{"fn": "lycorp-jp/PASQA", "sha": "889516252537", "source": "readme", "identity": {"one_liner": "面向音高重音正确性的日语语音质量 MOS 预测模型", "review": "LY Corporation 为论文发布（已被 INTERSPEECH 2026 接收）的 MOS 预测模型 PASQA：在由重音可控 TTS 变换重音模式构建的受控日语重音错误数据集上训练，使用伪重音质量分数；方法上基于自监督表示，采用 mora 条件融合、排序损失、辅助重音错误定位任务与说话人不变训练。提供 uv 安装、Hugging Face 预训练 checkpoint 下载与 PasqaPredictor 推理接口。仓库为临时开源，可能随时转为只读或私有，不接受贡献。", "highlights": ["针对重音正确性的 MOS 预测模型", "基于重音可控 TSS 构建的日语重音错误数据集与伪质量分数训练", "自监督表示 + mora 条件融合 + 排序损失 + 重音错误定位辅助任务", "提供 Hugging Face 预训练 checkpoint 与 Python 推理接口"], "use_cases": ["评估合成日语语音的重音正确性", "为语音合成研究提供 MOS 预测打分", "重音错误定位分析"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音质量评估", "MOS预测", "TTS评测", "日语重音"], "domain": "语音处理/质量评估", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: **PASQA (Pitch-Accent-focused Speech Quality Assessment)** is a mean opinion score (MOS)", "L13: prediction model that explicitly targets pitch-accent correctness. It is trained on a"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lycorp-jp/PASQA",
+ "sha": "889516252537",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向音高重音正确性的日语语音质量 MOS 预测模型",
+  "review": "LY Corporation 为论文发布（已被 INTERSPEECH 2026 接收）的 MOS 预测模型 PASQA：在由重音可控 TTS 变换重音模式构建的受控日语重音错误数据集上训练，使用伪重音质量分数；方法上基于自监督表示，采用 mora 条件融合、排序损失、辅助重音错误定位任务与说话人不变训练。提供 uv 安装、Hugging Face 预训练 checkpoint 下载与 PasqaPredictor 推理接口。仓库为临时开源，可能随时转为只读或私有，不接受贡献。",
+  "highlights": [
+   "针对重音正确性的 MOS 预测模型",
+   "基于重音可控 TSS 构建的日语重音错误数据集与伪质量分数训练",
+   "自监督表示 + mora 条件融合 + 排序损失 + 重音错误定位辅助任务",
+   "提供 Hugging Face 预训练 checkpoint 与 Python 推理接口"
+  ],
+  "use_cases": [
+   "评估合成日语语音的重音正确性",
+   "为语音合成研究提供 MOS 预测打分",
+   "重音错误定位分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音质量评估",
+   "MOS预测",
+   "TTS评测",
+   "日语重音"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **PASQA (Pitch-Accent-focused Speech Quality Assessment)** is a mean opinion score (MOS)",
+   "L13: prediction model that explicitly targets pitch-accent correctness. It is trained on a"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

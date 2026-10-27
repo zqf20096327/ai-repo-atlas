@@ -1,1 +1,84 @@
-{"fn": "suonian/vidknot", "sha": "6b77b5631ff5", "source": "readme", "identity": {"one_liner": "从 11+ 视频平台提取转写并生成结构化笔记的命令行工具", "review": "VidkNot 是一个视频知识提取流水线：从 YouTube、B 站、抖音、小红书等 11+ 平台解析视频并下载音频（抖音有四层 fallback），用 SiliconFlow SenseVoice 与本地 faster-whisper 双 ASR 交叉校验转写，再由 OpenAI 兼容 LLM 生成含主题、要点、引用、术语的结构化 Markdown 笔记，可保存到 Obsidian、飞书、Notion、语雀。以 pip 安装的 Python 工具提供，支持 CLI、Python API、FastAPI 与 MCP 四种接入方式。运行需 FFmpeg（可用 bundled-ffmpeg 可选依赖替代），笔记生成需配置 OpenAI 兼容 API Key。", "highlights": ["双 ASR（SiliconFlow SenseVoice + 本地 faster-whisper）交叉校验转写", "11+ 平台解析与下载，抖音四层 fallback", "生成含主题/要点/引用/术语/时间戳转写的结构化 Markdown 笔记", "提供 CLI、Python API、FastAPI、MCP 四种使用方式"], "use_cases": ["把课程、访谈、播客视频整理成可检索的文字笔记", "将短视频内容沉淀到 Obsidian、飞书、Notion、语雀知识库", "给 Agent / MCP 客户端提供视频转笔记工具能力"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["视频转写", "知识库", "ASR", "笔记生成", "MCP工具"], "domain": "视频内容提取/知识管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "国内平台支持（B站/抖音/小红书/快手/视频号/微博）", "清华 pip 镜像与 HF 镜像安装支持", "作者微信联系"]}, "trust": {"confidence": "high", "evidence": ["L50: |双 ASR 转写|SiliconFlow SenseVoice + 本地 faster-whisper，默认启用交叉校正|", "L51: |结构化笔记|生成主题、要点、细节、引用、术语和完整转写|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "suonian/vidknot",
+ "sha": "6b77b5631ff5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从 11+ 视频平台提取转写并生成结构化笔记的命令行工具",
+  "review": "VidkNot 是一个视频知识提取流水线：从 YouTube、B 站、抖音、小红书等 11+ 平台解析视频并下载音频（抖音有四层 fallback），用 SiliconFlow SenseVoice 与本地 faster-whisper 双 ASR 交叉校验转写，再由 OpenAI 兼容 LLM 生成含主题、要点、引用、术语的结构化 Markdown 笔记，可保存到 Obsidian、飞书、Notion、语雀。以 pip 安装的 Python 工具提供，支持 CLI、Python API、FastAPI 与 MCP 四种接入方式。运行需 FFmpeg（可用 bundled-ffmpeg 可选依赖替代），笔记生成需配置 OpenAI 兼容 API Key。",
+  "highlights": [
+   "双 ASR（SiliconFlow SenseVoice + 本地 faster-whisper）交叉校验转写",
+   "11+ 平台解析与下载，抖音四层 fallback",
+   "生成含主题/要点/引用/术语/时间戳转写的结构化 Markdown 笔记",
+   "提供 CLI、Python API、FastAPI、MCP 四种使用方式"
+  ],
+  "use_cases": [
+   "把课程、访谈、播客视频整理成可检索的文字笔记",
+   "将短视频内容沉淀到 Obsidian、飞书、Notion、语雀知识库",
+   "给 Agent / MCP 客户端提供视频转笔记工具能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频转写",
+   "知识库",
+   "ASR",
+   "笔记生成",
+   "MCP工具"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "asr",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "国内平台支持（B站/抖音/小红书/快手/视频号/微博）",
+   "清华 pip 镜像与 HF 镜像安装支持",
+   "作者微信联系"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L50: |双 ASR 转写|SiliconFlow SenseVoice + 本地 faster-whisper，默认启用交叉校正|",
+   "L51: |结构化笔记|生成主题、要点、细节、引用、术语和完整转写|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

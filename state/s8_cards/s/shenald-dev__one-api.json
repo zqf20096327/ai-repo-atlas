@@ -1,1 +1,84 @@
-{"fn": "shenald-dev/one-api", "sha": "1860993f850c", "source": "readme", "identity": {"one_liner": "统一 20+ LLM 提供商的 OpenAI 兼容边缘 API 网关", "review": "Node.js/TypeScript（Hono）实现的单一部署单元 LLM 网关：将 OpenAI、Anthropic、Google Gemini、Azure OpenAI、DeepSeek、Groq、Together AI、Mistral 及 Ollama/LM Studio 本地推理等 20+ 提供商统一到单个 OpenAI 兼容端点，客户端仅需替换 baseURL 即可复用现有 SDK。支持 SSE 流式转发、响应压缩、环境变量配置路由，无需数据库。面向不想为各模型差异重写集成代码的开发者，可通过 npm 源码运行或 Docker 部署。", "highlights": ["20+ LLM 提供商统一为 OpenAI 兼容的 /v1/chat/completions 端点", "单一部署单元，无数据库、配置即全部状态", "原生 SSE 流式转发与自动响应压缩", "提供 Docker 镜像与 npm 两种运行方式"], "use_cases": ["开发中切换模型时避免重写 SDK 集成代码", "在现有 openai-node/LangChain 代码中只改 baseURL 接入多家模型", "将 OpenAI/Anthropic/本地推理统一到一个生产端点"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["API网关", "LLM路由", "OpenAI兼容", "边缘部署"], "domain": "LLM 基础设施/API 网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "anthropic", "azure", "groq", "mistral", "together", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16: A dead-simple, single-binary gateway that turns **dozens of LLM providers** into one clean, standard OpenAI-compatible A", "L26: - **100% OpenAI-Compatible**: Your existing code, libraries, and SDKs (like `openai-node` or `langchain`) work completel"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "shenald-dev/one-api",
+ "sha": "1860993f850c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "统一 20+ LLM 提供商的 OpenAI 兼容边缘 API 网关",
+  "review": "Node.js/TypeScript（Hono）实现的单一部署单元 LLM 网关：将 OpenAI、Anthropic、Google Gemini、Azure OpenAI、DeepSeek、Groq、Together AI、Mistral 及 Ollama/LM Studio 本地推理等 20+ 提供商统一到单个 OpenAI 兼容端点，客户端仅需替换 baseURL 即可复用现有 SDK。支持 SSE 流式转发、响应压缩、环境变量配置路由，无需数据库。面向不想为各模型差异重写集成代码的开发者，可通过 npm 源码运行或 Docker 部署。",
+  "highlights": [
+   "20+ LLM 提供商统一为 OpenAI 兼容的 /v1/chat/completions 端点",
+   "单一部署单元，无数据库、配置即全部状态",
+   "原生 SSE 流式转发与自动响应压缩",
+   "提供 Docker 镜像与 npm 两种运行方式"
+  ],
+  "use_cases": [
+   "开发中切换模型时避免重写 SDK 集成代码",
+   "在现有 openai-node/LangChain 代码中只改 baseURL 接入多家模型",
+   "将 OpenAI/Anthropic/本地推理统一到一个生产端点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "LLM路由",
+   "OpenAI兼容",
+   "边缘部署"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic",
+   "azure",
+   "groq",
+   "mistral",
+   "together",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: A dead-simple, single-binary gateway that turns **dozens of LLM providers** into one clean, standard OpenAI-compatible A",
+   "L26: - **100% OpenAI-Compatible**: Your existing code, libraries, and SDKs (like `openai-node` or `langchain`) work completel"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

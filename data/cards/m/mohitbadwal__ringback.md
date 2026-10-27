@@ -33,7 +33,7 @@ ringback 提供两个 MCP 服务器：ringback-voice 让 LLM 通过免费 Linpho
 
 ## 场景标签
 
- · 领域:AI Agent 基础设施/语音通信
+`语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 

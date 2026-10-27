@@ -34,7 +34,7 @@ Rust 实现的 AI agent 开发框架：提供多 LLM 接入（Claude/Anthropic A
 
 ## 场景标签
 
- · 领域:AI agent 框架/MCP 生态
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

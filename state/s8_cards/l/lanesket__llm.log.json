@@ -1,1 +1,83 @@
-{"fn": "lanesket/llm.log", "sha": "60bd46cf14ba", "source": "readme", "identity": {"one_liner": "本地代理记录 LLM 调用：成本、token 与完整请求响应", "review": "用 Go 编写的单二进制本地 HTTPS 代理，通过 MITM 拦截已知 LLM 域名的流量，记录每次请求/响应全文、token 用量并按 780+ 模型自动更新价格计算成本，数据存本地 SQLite。无需改代码，靠 HTTPS_PROXY 环境变量生效；提供 Web UI、TUI 仪表盘与 CLI，支持 CSV/JSON/JSONL 导出和按期清理请求体。支持 OpenAI、Anthropic、OpenRouter、Groq、Together 等 10 家提供商。限制：经工具自有服务器路由的流量（如带订阅的 Cursor、Copilot）无法记录；需要安装并信任自签 CA 证书。", "highlights": ["MITM 本地代理捕获完整 prompt/response，零代码改动", "自动更新 780+ 模型定价并计算成本、缓存 token 拆分", "Web UI + TUI 双仪表盘：热力图、按提供商/模型分解、延迟分析", "纯 Go 单二进制，无 CGO/Docker 依赖，SQLite 本地存储"], "use_cases": ["查看我在各家 LLM API 上的实际花费与 token 用量", "审计或回溯某次 LLM 调用的完整 prompt 和响应", "在 Claude Code 等工具中对比订阅与 API 按量付费成本", "导出调用记录到 Excel/pandas 做分析"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM观测/可观测性", "成本追踪", "本地代理", "CLI/TUI工具"], "domain": "LLM 基础设施/可观测性", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "openrouter", "groq", "deepseek", "together"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L25: A lightweight local proxy for LLM observability. It sits between your apps and LLM APIs, captures every request and resp", "L150:                               ├─ LLM provider? ──▸ MITM ──▸ parse usage ──▸ SQLite"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lanesket/llm.log",
+ "sha": "60bd46cf14ba",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地代理记录 LLM 调用：成本、token 与完整请求响应",
+  "review": "用 Go 编写的单二进制本地 HTTPS 代理，通过 MITM 拦截已知 LLM 域名的流量，记录每次请求/响应全文、token 用量并按 780+ 模型自动更新价格计算成本，数据存本地 SQLite。无需改代码，靠 HTTPS_PROXY 环境变量生效；提供 Web UI、TUI 仪表盘与 CLI，支持 CSV/JSON/JSONL 导出和按期清理请求体。支持 OpenAI、Anthropic、OpenRouter、Groq、Together 等 10 家提供商。限制：经工具自有服务器路由的流量（如带订阅的 Cursor、Copilot）无法记录；需要安装并信任自签 CA 证书。",
+  "highlights": [
+   "MITM 本地代理捕获完整 prompt/response，零代码改动",
+   "自动更新 780+ 模型定价并计算成本、缓存 token 拆分",
+   "Web UI + TUI 双仪表盘：热力图、按提供商/模型分解、延迟分析",
+   "纯 Go 单二进制，无 CGO/Docker 依赖，SQLite 本地存储"
+  ],
+  "use_cases": [
+   "查看我在各家 LLM API 上的实际花费与 token 用量",
+   "审计或回溯某次 LLM 调用的完整 prompt 和响应",
+   "在 Claude Code 等工具中对比订阅与 API 按量付费成本",
+   "导出调用记录到 Excel/pandas 做分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM观测/可观测性",
+   "成本追踪",
+   "本地代理",
+   "CLI/TUI工具"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "groq",
+   "deepseek",
+   "together"
+  ],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: A lightweight local proxy for LLM observability. It sits between your apps and LLM APIs, captures every request and resp",
+   "L150:                               ├─ LLM provider? ──▸ MITM ──▸ parse usage ──▸ SQLite"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

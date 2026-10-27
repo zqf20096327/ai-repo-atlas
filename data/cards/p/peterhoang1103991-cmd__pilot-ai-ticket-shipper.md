@@ -34,7 +34,7 @@ Python 编排工具：监控 GitHub/Linear/Jira/Asana 中带 pilot 标签的工�
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编码编排
+`编码 Agent` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

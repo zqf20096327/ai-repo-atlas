@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 基础设施/agent 运行时
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

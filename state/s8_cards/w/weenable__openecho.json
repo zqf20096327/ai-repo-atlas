@@ -1,1 +1,83 @@
-{"fn": "weenable/openecho", "sha": "c8f5224cd7a5", "source": "readme", "identity": {"one_liner": "macOS 本地语音助手：快捷键语音转文字/翻译/问答/备忘", "review": "面向 macOS（Apple Silicon）用户的桌面语音工具：按全局快捷键说话，本地运行的 Whisper 完成语音识别，文字经整理后粘贴到光标所在应用。提供五种模式：输入、翻译、语音提问（浮窗显示 AI 回答）、结构化备忘和语音合成（本地 Kokoro 或 OpenAI 兼容远程 TTS）。LLM 为可选配置，基础语音转文字可离线使用；音频不出设备。通过 Releases 页面的 .dmg 安装，也可用 Node.js 与 Rust 工具链从源码构建（Tauri）。", "highlights": ["Whisper 本地语音识别，音频不出设备", "单一快捷键覆盖输入/翻译/提问/备忘/语音生成五种模式", "LLM 与远程 TTS 为可选，OpenAI 兼容 API 接入", "本地 TTS 采用 Kokoro，可离线运行"], "use_cases": ["在任何应用中用语音输入整理后的文字", "语音提问并即时获得 AI 回答浮窗", "口述想法后生成可编辑的结构化备忘", "将文字转为语音并保存音频文件"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音输入", "桌面效率工具", "本地推理", "TTS", "macOS"], "domain": "桌面语音助手", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本链接"]}, "trust": {"confidence": "mid", "evidence": ["L9: OpenEcho is a macOS desktop app that turns your voice into polished text, translations, answers, and structured memos — ", "L29: - **Privacy first** — Whisper runs locally. Your voice stays on your Mac.", "L30: - **One shortcut, five modes** — Input, Translate, Question, Memo, Voice Generate. No app switching."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "weenable/openecho",
+ "sha": "c8f5224cd7a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 本地语音助手：快捷键语音转文字/翻译/问答/备忘",
+  "review": "面向 macOS（Apple Silicon）用户的桌面语音工具：按全局快捷键说话，本地运行的 Whisper 完成语音识别，文字经整理后粘贴到光标所在应用。提供五种模式：输入、翻译、语音提问（浮窗显示 AI 回答）、结构化备忘和语音合成（本地 Kokoro 或 OpenAI 兼容远程 TTS）。LLM 为可选配置，基础语音转文字可离线使用；音频不出设备。通过 Releases 页面的 .dmg 安装，也可用 Node.js 与 Rust 工具链从源码构建（Tauri）。",
+  "highlights": [
+   "Whisper 本地语音识别，音频不出设备",
+   "单一快捷键覆盖输入/翻译/提问/备忘/语音生成五种模式",
+   "LLM 与远程 TTS 为可选，OpenAI 兼容 API 接入",
+   "本地 TTS 采用 Kokoro，可离线运行"
+  ],
+  "use_cases": [
+   "在任何应用中用语音输入整理后的文字",
+   "语音提问并即时获得 AI 回答浮窗",
+   "口述想法后生成可编辑的结构化备忘",
+   "将文字转为语音并保存音频文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音输入",
+   "桌面效率工具",
+   "本地推理",
+   "TTS",
+   "macOS"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr",
+   "tts",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: OpenEcho is a macOS desktop app that turns your voice into polished text, translations, answers, and structured memos — ",
+   "L29: - **Privacy first** — Whisper runs locally. Your voice stays on your Mac.",
+   "L30: - **One shortcut, five modes** — Input, Translate, Question, Memo, Voice Generate. No app switching."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

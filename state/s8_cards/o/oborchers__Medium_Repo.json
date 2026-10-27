@@ -1,1 +1,74 @@
-{"fn": "oborchers/Medium_Repo", "sha": "201dd25bc5a2", "source": "readme", "identity": {"one_liner": "Medium 博文配套代码示例集（深度学习/数据科学）", "review": "个人作者将其 Medium 文章对应的代码示例按文件夹组织的仓库，每篇博文（如 Mixture Density Networks 指南、10 万条 Amazon 商品可视化、GPT-Neo 经 ONNX 部署、ONNX Runtime 与 TensorRT 性能问题复现）对应一个目录。内容以 notebook 为主，覆盖神经网络、NLP、数据可视化与商业分析等主题。作者为 IU Group 的 AI 工程负责人，现期文章见其个人网站 drborchers.com，许可见仓库 LICENSE 文件。README 未给出安装或运行说明。", "highlights": ["博文与代码目录一一对应", "包含 ONNX Runtime / TensorRT 性能问题复现 notebook", "主题覆盖神经网络、NLP、数据可视化"], "use_cases": ["阅读博文时对照运行代码示例", "参考 ONNX 部署与推理性能问题的复现方法"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://drborchers.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码示例", "博文配套", "机器学习", "数据可视化"], "domain": "数据科学/深度学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Code examples for my articles on Medium.", "L5: |Folder|Article|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "oborchers/Medium_Repo",
+ "sha": "201dd25bc5a2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Medium 博文配套代码示例集（深度学习/数据科学）",
+  "review": "个人作者将其 Medium 文章对应的代码示例按文件夹组织的仓库，每篇博文（如 Mixture Density Networks 指南、10 万条 Amazon 商品可视化、GPT-Neo 经 ONNX 部署、ONNX Runtime 与 TensorRT 性能问题复现）对应一个目录。内容以 notebook 为主，覆盖神经网络、NLP、数据可视化与商业分析等主题。作者为 IU Group 的 AI 工程负责人，现期文章见其个人网站 drborchers.com，许可见仓库 LICENSE 文件。README 未给出安装或运行说明。",
+  "highlights": [
+   "博文与代码目录一一对应",
+   "包含 ONNX Runtime / TensorRT 性能问题复现 notebook",
+   "主题覆盖神经网络、NLP、数据可视化"
+  ],
+  "use_cases": [
+   "阅读博文时对照运行代码示例",
+   "参考 ONNX 部署与推理性能问题的复现方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://drborchers.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码示例",
+   "博文配套",
+   "机器学习",
+   "数据可视化"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Code examples for my articles on Medium.",
+   "L5: |Folder|Article|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

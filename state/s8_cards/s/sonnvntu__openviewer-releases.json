@@ -1,1 +1,79 @@
-{"fn": "sonnvntu/openviewer-releases", "sha": "8fcbaee5cea2", "source": "readme", "identity": {"one_liner": "带 AI 视觉检测的跨平台远程桌面与摄像头监控工具", "review": "面向个人远程访问场景的客户端/主机架构软件：通过 P2P（DTLS 加密、STUN/TURN 穿透 NAT）远程查看与控制计算机，支持屏幕流、多显示器、文件传输，覆盖 Windows/Linux/macOS/Android/iOS。AI 部分接入网络摄像头或 IP 摄像头，可部署自定义 ONNX/NCNN 模型（CPU 或 Vulkan GPU 加速），执行检测→分类→规则→告警的流水线，识别人、火情、车辆等事件并推送通知。各平台以安装包（exe/AppImage/deb/dmg/apk）从 GitHub Releases 分发。", "highlights": ["远程桌面 + 摄像头 AI 检测（人/火情/车辆等事件）一体化", "自定义 AI 模型部署，CPU 与 Vulkan GPU 加速", "Detection→Classification→Rule→Alert 可视化 AI 工作流", "P2P 端到端加密（DTLS），NAT 穿透无需端口转发"], "use_cases": ["外出时远程查看并控制自己的电脑", "通过摄像头监控设备周边环境，检测有人闯入或火情并收到推送", "部署自己训练的检测模型实现定制化告警"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["远程桌面", "视频监控", "目标检测", "跨平台桌面应用", "物联网摄像头"], "domain": "远程访问/视频监控", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 提供越南语（Tiếng Việt）版本"]}, "trust": {"confidence": "high", "evidence": ["L23: That's why OpenViewer is built differently. Instead of just a Remote Access tool, OpenViewer connects webcams or IP came", "L32: - 📹 **AI-Powered Vision** — Transform cameras into intelligent sensors."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sonnvntu/openviewer-releases",
+ "sha": "8fcbaee5cea2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 视觉检测的跨平台远程桌面与摄像头监控工具",
+  "review": "面向个人远程访问场景的客户端/主机架构软件：通过 P2P（DTLS 加密、STUN/TURN 穿透 NAT）远程查看与控制计算机，支持屏幕流、多显示器、文件传输，覆盖 Windows/Linux/macOS/Android/iOS。AI 部分接入网络摄像头或 IP 摄像头，可部署自定义 ONNX/NCNN 模型（CPU 或 Vulkan GPU 加速），执行检测→分类→规则→告警的流水线，识别人、火情、车辆等事件并推送通知。各平台以安装包（exe/AppImage/deb/dmg/apk）从 GitHub Releases 分发。",
+  "highlights": [
+   "远程桌面 + 摄像头 AI 检测（人/火情/车辆等事件）一体化",
+   "自定义 AI 模型部署，CPU 与 Vulkan GPU 加速",
+   "Detection→Classification→Rule→Alert 可视化 AI 工作流",
+   "P2P 端到端加密（DTLS），NAT 穿透无需端口转发"
+  ],
+  "use_cases": [
+   "外出时远程查看并控制自己的电脑",
+   "通过摄像头监控设备周边环境，检测有人闯入或火情并收到推送",
+   "部署自己训练的检测模型实现定制化告警"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "远程桌面",
+   "视频监控",
+   "目标检测",
+   "跨平台桌面应用",
+   "物联网摄像头"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供越南语（Tiếng Việt）版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: That's why OpenViewer is built differently. Instead of just a Remote Access tool, OpenViewer connects webcams or IP came",
+   "L32: - 📹 **AI-Powered Vision** — Transform cameras into intelligent sensors."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

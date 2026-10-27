@@ -1,1 +1,80 @@
-{"fn": "magicdrive/ark", "sha": "43a6a7b8e426", "source": "readme", "identity": {"one_liner": "面向 AI 编码 agent 的代码智能引擎（MCP 服务器）", "review": "静态单二进制程序，解析代码仓库、抽取声明与引用、按各语言作用域规则解析引用指向，构建代码图谱并通过 MCP 协议的 21 个工具供编码 agent 查询调用关系、变更影响与符号上下文。分析 Go/TypeScript/TSX/PHP/Terraform/Rust/Java/JavaScript/Python 等，不执行仓库代码。每个答案带置信级别与未解析计数；不做类型推断，模块解析不等价于编译器。附 Claude Code/Cursor/Codex/Cline/Copilot 等客户端一键接入与仓库转储、秘密屏蔽功能。", "highlights": ["21 个 MCP 工具：调用者/被调用者追踪、变更影响分析、token 预算控制的符号上下文", "引用解析附 exact/strong/candidate/unresolved 置信级别，歧义名返回声明列表而非静默选择", "静态单二进制，不执行仓库代码，无出站网络连接", "秘密屏蔽与 .arkignore 排除机制"], "use_cases": ["让编码 agent 在大仓库中查函数调用关系与变更影响范围", "编辑前为 agent 提供聚焦的符号级上下文而非整文件", "将仓库结构转储为单文本供 agent 阅读"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "代码分析", "静态分析", "编码agent基础设施", "代码图谱"], "domain": "开发工具/代码智能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 含日本語入口"]}, "trust": {"confidence": "high", "evidence": ["L10: what each reference points to, and serves the resulting graph to coding", "L11: agents over the Model Context Protocol.", "L81: `setup` adds Ark's entry to the client's MCP configuration and leaves every"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "magicdrive/ark",
+ "sha": "43a6a7b8e426",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编码 agent 的代码智能引擎（MCP 服务器）",
+  "review": "静态单二进制程序，解析代码仓库、抽取声明与引用、按各语言作用域规则解析引用指向，构建代码图谱并通过 MCP 协议的 21 个工具供编码 agent 查询调用关系、变更影响与符号上下文。分析 Go/TypeScript/TSX/PHP/Terraform/Rust/Java/JavaScript/Python 等，不执行仓库代码。每个答案带置信级别与未解析计数；不做类型推断，模块解析不等价于编译器。附 Claude Code/Cursor/Codex/Cline/Copilot 等客户端一键接入与仓库转储、秘密屏蔽功能。",
+  "highlights": [
+   "21 个 MCP 工具：调用者/被调用者追踪、变更影响分析、token 预算控制的符号上下文",
+   "引用解析附 exact/strong/candidate/unresolved 置信级别，歧义名返回声明列表而非静默选择",
+   "静态单二进制，不执行仓库代码，无出站网络连接",
+   "秘密屏蔽与 .arkignore 排除机制"
+  ],
+  "use_cases": [
+   "让编码 agent 在大仓库中查函数调用关系与变更影响范围",
+   "编辑前为 agent 提供聚焦的符号级上下文而非整文件",
+   "将仓库结构转储为单文本供 agent 阅读"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "代码分析",
+   "静态分析",
+   "编码agent基础设施",
+   "代码图谱"
+  ],
+  "domain": "开发工具/代码智能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含日本語入口"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: what each reference points to, and serves the resulting graph to coding",
+   "L11: agents over the Model Context Protocol.",
+   "L81: `setup` adds Ark's entry to the client's MCP configuration and leaves every"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

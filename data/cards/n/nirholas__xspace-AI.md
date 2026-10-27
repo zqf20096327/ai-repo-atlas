@@ -34,7 +34,7 @@ TypeScript SDK 与 CLI，用于构建自动加入、监听并参与 X/Twitter Sp
 
 ## 场景标签
 
- · 领域:AI agent/语音社交自动化
+`语音 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

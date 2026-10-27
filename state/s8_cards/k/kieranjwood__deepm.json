@@ -1,1 +1,78 @@
-{"fn": "kieranjwood/deepm", "sha": "4aca8f4b68f0", "source": "readme", "identity": {"one_liner": "复现论文的宏观期货组合管理深度学习模型代码", "review": "DeePM 论文的官方代码库，提供端到端训练的深度学习宏观组合管理器：用 Directed Delay（Causal Sieve）机制处理异步 ragged filtration，用宏观经济图先验正则化跨资产依赖，以平滑最差窗口惩罚作为 EVaR 的可微代理做分布鲁棒优化。面向可获取自备期货日线数据的科研用户复现 2010–2025 年 50 个期货合约的回测实验。需 Python≥3.10 与 CUDA GPU，训练依赖 wandb（可离线模式），原始数据因许可限制需自行从 Bloomberg/Refinitiv 等来源获取。", "highlights": ["Directed Delay（Causal Sieve）机制处理异步 ragged filtration", "宏观经济图先验（GNN 邻接矩阵）正则化跨资产依赖", "最差窗口惩罚作为 EVaR 可微代理的分布鲁棒目标", "提供 reproduce.sh 全流程脚本与 smoke_test.sh 端到端检查"], "use_cases": ["复现论文中 50 个期货的回测与消融实验", "在自备期货日线数据上训练 DeePM 组合管理模型", "对比 Momentum Transformer 等时序基线"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2601.05975", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["量化金融", "组合管理", "深度学习", "论文复现", "时间序列预测"], "domain": "量化金融/组合管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: > We propose DeePM (Deep Portfolio Manager), a structured deep-learning macro portfolio manager trained end-to-end to ma", "L293: **3. Train models**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kieranjwood/deepm",
+ "sha": "4aca8f4b68f0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "复现论文的宏观期货组合管理深度学习模型代码",
+  "review": "DeePM 论文的官方代码库，提供端到端训练的深度学习宏观组合管理器：用 Directed Delay（Causal Sieve）机制处理异步 ragged filtration，用宏观经济图先验正则化跨资产依赖，以平滑最差窗口惩罚作为 EVaR 的可微代理做分布鲁棒优化。面向可获取自备期货日线数据的科研用户复现 2010–2025 年 50 个期货合约的回测实验。需 Python≥3.10 与 CUDA GPU，训练依赖 wandb（可离线模式），原始数据因许可限制需自行从 Bloomberg/Refinitiv 等来源获取。",
+  "highlights": [
+   "Directed Delay（Causal Sieve）机制处理异步 ragged filtration",
+   "宏观经济图先验（GNN 邻接矩阵）正则化跨资产依赖",
+   "最差窗口惩罚作为 EVaR 可微代理的分布鲁棒目标",
+   "提供 reproduce.sh 全流程脚本与 smoke_test.sh 端到端检查"
+  ],
+  "use_cases": [
+   "复现论文中 50 个期货的回测与消融实验",
+   "在自备期货日线数据上训练 DeePM 组合管理模型",
+   "对比 Momentum Transformer 等时序基线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2601.05975",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化金融",
+   "组合管理",
+   "深度学习",
+   "论文复现",
+   "时间序列预测"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: > We propose DeePM (Deep Portfolio Manager), a structured deep-learning macro portfolio manager trained end-to-end to ma",
+   "L293: **3. Train models**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,77 @@
-{"fn": "lamalab-org/macbench", "sha": "870e7f4ea72a", "source": "readme", "identity": {"one_liner": "化学与材料科学多模态语言模型评测基准", "review": "面向化学与材料研究领域多模态语言模型（VLM）的评测基准：人工策划覆盖科学生命周期全流程的任务，包括数据提取、实验执行与数据分析。本仓库收录评测报告并用于收集新贡献，基准数据集托管于 HuggingFace，通过 ChemBench 评测引擎运行；使用需 Python 3.10+ 并安装 chembench 包，配置模型供应商 API key 后以脚本方式执行，目前仅支持 batch_size=1，提供消融研究数据集与 HuggingFace Spaces 排行榜。", "highlights": ["覆盖数据提取、实验执行到数据分析的科学生命周期任务", "数据集托管于 HuggingFace，经 ChemBench 引擎运行", "提供消融研究数据集（MaCBench-Ablations）与在线排行榜", "附带论文与引用信息"], "use_cases": ["评测多模态语言模型在化学/材料任务上的表现", "对比不同模型在科学数据分析任务中的结果", "通过消融数据集研究任务设计对评测结果的影响"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2411.14721", "demo_url": "https://huggingface.co/spaces/jablonkagroup/MaCBench-Leaderboard", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["benchmark", "多模态", "化学/材料科学", "VLM评测", "数据集"], "domain": "科学评测/化学与材料科学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L34: *MaCBench* is a benchmark for multimodal language models in chemistry and materials research. We manually curated a benc", "L37: The benchmark dataset itself is hosted on HuggingFace and can be run using the *ChemBench* benchmark engine. You can fin"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lamalab-org/macbench",
+ "sha": "870e7f4ea72a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "化学与材料科学多模态语言模型评测基准",
+  "review": "面向化学与材料研究领域多模态语言模型（VLM）的评测基准：人工策划覆盖科学生命周期全流程的任务，包括数据提取、实验执行与数据分析。本仓库收录评测报告并用于收集新贡献，基准数据集托管于 HuggingFace，通过 ChemBench 评测引擎运行；使用需 Python 3.10+ 并安装 chembench 包，配置模型供应商 API key 后以脚本方式执行，目前仅支持 batch_size=1，提供消融研究数据集与 HuggingFace Spaces 排行榜。",
+  "highlights": [
+   "覆盖数据提取、实验执行到数据分析的科学生命周期任务",
+   "数据集托管于 HuggingFace，经 ChemBench 引擎运行",
+   "提供消融研究数据集（MaCBench-Ablations）与在线排行榜",
+   "附带论文与引用信息"
+  ],
+  "use_cases": [
+   "评测多模态语言模型在化学/材料任务上的表现",
+   "对比不同模型在科学数据分析任务中的结果",
+   "通过消融数据集研究任务设计对评测结果的影响"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2411.14721",
+  "demo_url": "https://huggingface.co/spaces/jablonkagroup/MaCBench-Leaderboard",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "benchmark",
+   "多模态",
+   "化学/材料科学",
+   "VLM评测",
+   "数据集"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L34: *MaCBench* is a benchmark for multimodal language models in chemistry and materials research. We manually curated a benc",
+   "L37: The benchmark dataset itself is hosted on HuggingFace and can be run using the *ChemBench* benchmark engine. You can fin"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

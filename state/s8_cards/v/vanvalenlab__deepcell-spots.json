@@ -1,1 +1,76 @@
-{"fn": "vanvalenlab/deepcell-spots", "sha": "bc30d2303fca", "source": "readme", "identity": {"one_liner": "空间转录组荧光点检测的深度学习 Python 库", "review": "面向空间转录组数据分析的深度学习包，提供 Polaris 应用：可用预训练模型或训练新模型进行荧光点检测（SpotDetection，返回斑点坐标），并用 SVI 概率模型做组合条形码解码（SpotDecoding，返回基因身份），两者配合 DeepCell 的细胞核/细胞质分割模型使用。基于 TensorFlow、Keras、PyTorch 与 DeepCell 构建，以 pip 包和 Docker 镜像形式提供，附示例 notebook。由 Caltech Van Valen Lab 维护，采用修改版 Apache 2 许可。", "highlights": ["SpotDetection 预训练模型输出荧光斑点坐标（RNA FISH / 原位测序）", "SpotDecoding 用 SVI 概率模型为每个斑点返回基因身份", "Polaris 组合点检测与解码及 DeepCell 细胞分割", "支持训练新的深度学习检测模型"], "use_cases": ["对 RNA FISH / 多重 FISH 图像做荧光点检测", "为多重 FISH 数据集做条形码解码得到基因身份", "结合细胞分割进行空间转录组分析"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["空间转录组", "荧光点检测", "生物图像分析", "深度学习"], "domain": "生物信息学/空间转录组", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: `deepcell-spots` is a deep learning package for analyzing spatial transcriptomics data sets. Its application, Polaris, a", "L29: `deepcell-spots` contains an applications that greatly simplify the implementation of machine learning models for spot d"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vanvalenlab/deepcell-spots",
+ "sha": "bc30d2303fca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "空间转录组荧光点检测的深度学习 Python 库",
+  "review": "面向空间转录组数据分析的深度学习包，提供 Polaris 应用：可用预训练模型或训练新模型进行荧光点检测（SpotDetection，返回斑点坐标），并用 SVI 概率模型做组合条形码解码（SpotDecoding，返回基因身份），两者配合 DeepCell 的细胞核/细胞质分割模型使用。基于 TensorFlow、Keras、PyTorch 与 DeepCell 构建，以 pip 包和 Docker 镜像形式提供，附示例 notebook。由 Caltech Van Valen Lab 维护，采用修改版 Apache 2 许可。",
+  "highlights": [
+   "SpotDetection 预训练模型输出荧光斑点坐标（RNA FISH / 原位测序）",
+   "SpotDecoding 用 SVI 概率模型为每个斑点返回基因身份",
+   "Polaris 组合点检测与解码及 DeepCell 细胞分割",
+   "支持训练新的深度学习检测模型"
+  ],
+  "use_cases": [
+   "对 RNA FISH / 多重 FISH 图像做荧光点检测",
+   "为多重 FISH 数据集做条形码解码得到基因身份",
+   "结合细胞分割进行空间转录组分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "空间转录组",
+   "荧光点检测",
+   "生物图像分析",
+   "深度学习"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: `deepcell-spots` is a deep learning package for analyzing spatial transcriptomics data sets. Its application, Polaris, a",
+   "L29: `deepcell-spots` contains an applications that greatly simplify the implementation of machine learning models for spot d"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

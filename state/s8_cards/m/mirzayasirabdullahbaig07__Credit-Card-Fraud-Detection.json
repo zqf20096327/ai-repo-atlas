@@ -1,1 +1,73 @@
-{"fn": "mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection", "sha": "53847ef41f23", "source": "readme", "identity": {"one_liner": "信用卡欺诈检测训练与部署全流程项目，Streamlit 在线预测应用", "review": "包含训练到部署的完整流水线：在 Google Colab notebook 中训练 Logistic Regression 与 Random Forest 并对比（默认保存 Random Forest），用仅作用于训练集的 SMOTE 处理类别不平衡，输出模型与 RobustScaler 等 4 个 .pkl 文件；部署为 Streamlit Community Cloud 应用，提供单笔交易录入与 CSV 批量预测，带阈值调节和深色主题 UI。给想做欺诈检测演示或课程项目并上线应用的用户。", "highlights": ["训练 notebook 训练并对比 Logistic Regression 与 Random Forest", "SMOTE 仅用于训练集，测试集保持原分布", "Streamlit 应用支持单笔预测与 CSV 批量打分及阈值调节"], "use_cases": ["我想训练一个信用卡欺诈检测模型并部署成在线应用", "对批量交易 CSV 打欺诈风险分并下载结果", "调阈值权衡查全率与误报"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["欺诈检测", "机器学习部署", "Streamlit", "教学/演示项目"], "domain": "金融风控/机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: |`app.py`|Streamlit app — single & batch fraud predictions, full custom UI|✅ Yes|", "L108: The notebook trains and compares **Logistic Regression** and"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection",
+ "sha": "53847ef41f23",
+ "source": "readme",
+ "identity": {
+  "one_liner": "信用卡欺诈检测训练与部署全流程项目，Streamlit 在线预测应用",
+  "review": "包含训练到部署的完整流水线：在 Google Colab notebook 中训练 Logistic Regression 与 Random Forest 并对比（默认保存 Random Forest），用仅作用于训练集的 SMOTE 处理类别不平衡，输出模型与 RobustScaler 等 4 个 .pkl 文件；部署为 Streamlit Community Cloud 应用，提供单笔交易录入与 CSV 批量预测，带阈值调节和深色主题 UI。给想做欺诈检测演示或课程项目并上线应用的用户。",
+  "highlights": [
+   "训练 notebook 训练并对比 Logistic Regression 与 Random Forest",
+   "SMOTE 仅用于训练集，测试集保持原分布",
+   "Streamlit 应用支持单笔预测与 CSV 批量打分及阈值调节"
+  ],
+  "use_cases": [
+   "我想训练一个信用卡欺诈检测模型并部署成在线应用",
+   "对批量交易 CSV 打欺诈风险分并下载结果",
+   "调阈值权衡查全率与误报"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "欺诈检测",
+   "机器学习部署",
+   "Streamlit",
+   "教学/演示项目"
+  ],
+  "domain": "金融风控/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: |`app.py`|Streamlit app — single & batch fraud predictions, full custom UI|✅ Yes|",
+   "L108: The notebook trains and compares **Logistic Regression** and"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

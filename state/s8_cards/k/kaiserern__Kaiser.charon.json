@@ -1,1 +1,77 @@
-{"fn": "kaiserern/Kaiser.charon", "sha": "0deb1e40fcfa", "source": "readme", "identity": {"one_liner": "Solana pump.fun 交易机器人：Telegram 筛选代币并经 Jupiter 执行", "review": "yunus-0x/charon 的 fork，Node.js 编写的 Telegram 交易机器人：从 Signal Server 与 PumpPortal WebSocket 接收 pump.fun 代币信号，经 FLOW 过滤器与流动性门槛筛选后通过 Jupiter 执行买卖，支持 dry_run（SQLite 纸面成交）、confirm（Telegram 批准）与 live（真实交易）三种模式。LLM 入场选择为可选子系统（默认关闭，走规则路径）。策略参数存于 SQLite 可热读，Telegram 内调参；含回测工具与 29 个离线测试。需 Node.js 20+ 与原生编译依赖。", "highlights": ["信号→富化→过滤→评分→决策→持仓的流水线，三种交易模式", "fill-to-fill 纸面成交使用可执行 Jupiter 报价而非合成标记价", "策略参数存 SQLite 支持热读，Telegram /menu 在线调参", "可选 LLM 入场选择子系统（use_llm 默认 false）"], "use_cases": ["在 dry_run 模式下用纸面成交跟踪 pump.fun 代币策略", "通过 Telegram 接收候选报告并批准/拒绝交易", "对比过滤器改动前后的本地交易历史回测结果"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["DeFi", "Solana", "交易机器人", "Telegram bot", "量化交易"], "domain": "加密货币/DeFi 交易", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L8: A Telegram bot that screens Solana pump.fun tokens, filters them through a strategy, optionally asks an LLM to pick entr", "L24: |**LLM**|off (`use_llm=false`) — decisions are rule-based|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kaiserern/Kaiser.charon",
+ "sha": "0deb1e40fcfa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Solana pump.fun 交易机器人：Telegram 筛选代币并经 Jupiter 执行",
+  "review": "yunus-0x/charon 的 fork，Node.js 编写的 Telegram 交易机器人：从 Signal Server 与 PumpPortal WebSocket 接收 pump.fun 代币信号，经 FLOW 过滤器与流动性门槛筛选后通过 Jupiter 执行买卖，支持 dry_run（SQLite 纸面成交）、confirm（Telegram 批准）与 live（真实交易）三种模式。LLM 入场选择为可选子系统（默认关闭，走规则路径）。策略参数存于 SQLite 可热读，Telegram 内调参；含回测工具与 29 个离线测试。需 Node.js 20+ 与原生编译依赖。",
+  "highlights": [
+   "信号→富化→过滤→评分→决策→持仓的流水线，三种交易模式",
+   "fill-to-fill 纸面成交使用可执行 Jupiter 报价而非合成标记价",
+   "策略参数存 SQLite 支持热读，Telegram /menu 在线调参",
+   "可选 LLM 入场选择子系统（use_llm 默认 false）"
+  ],
+  "use_cases": [
+   "在 dry_run 模式下用纸面成交跟踪 pump.fun 代币策略",
+   "通过 Telegram 接收候选报告并批准/拒绝交易",
+   "对比过滤器改动前后的本地交易历史回测结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "DeFi",
+   "Solana",
+   "交易机器人",
+   "Telegram bot",
+   "量化交易"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: A Telegram bot that screens Solana pump.fun tokens, filters them through a strategy, optionally asks an LLM to pick entr",
+   "L24: |**LLM**|off (`use_llm=false`) — decisions are rule-based|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

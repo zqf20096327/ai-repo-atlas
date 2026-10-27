@@ -1,1 +1,81 @@
-{"fn": "wso2/labs-agentic-engineer", "sha": "aa0c82bf3225", "source": "readme", "identity": {"one_liner": "WSO2 实验平台：在企业平台内用多 agent 驱动软件开发全流程", "review": "构建在 OpenChoreo 之上的实验性开源平台，将 SDLC 拆为 Specification→Design→Implementation→Build→Deploy→Manage 各阶段，每阶段配备专用 agent；需求以 Git 仓库中的 spec 文件为契约，编码 agent 通过 GitHub issue/分支/PR 执行任务（合并需人工评审），由 webhook 驱动任务状态流转。本地运行依赖 k3d 集群部署 OpenChoreo、Thunder 身份服务与 AEP 服务，模型连接支持 Anthropic Messages 或 OpenAI 兼容接口，编码 agent 以一次性 Pod 运行 Claude Agent SDK。README 自声明为早期实验室项目，API 与数据模型仍会变动。", "highlights": ["SDLC 六阶段各配备专用 agent，共享跨制品上下文", "spec 文件（需求/设计/原型/领域模型）作为下游 agent 的工作契约", "编码 agent 经 GitHub issues/branches/PRs 工作，合并需人工评审，以一次性 Pod 调度", "本地以 k3d + aectl 部署整个平台，模型连接支持 Anthropic Messages 或 OpenAI 兼容格式"], "use_cases": ["企业内从需求澄清到部署的 agent 驱动软件开发", "业务负责人通过对话引导需求抽取，产出规格与原型", "在已有 API 管理、身份、部署与可观测性平台内运行编码 agent"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": "https://github.com/user-attachments/assets/9723e5a5-c187-49b5-886e-50c217da6c28", "self_declared_early": {"flag": true, "lines": [3, 164]}}, "links": {"scenario_tags": ["agentic coding", "SDLC自动化", "企业平台", "agent编排"], "domain": "软件开发/agent 平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: An experimental, open-source platform that explores what **agent-driven software", "L30: It treats the SDLC as a chain of stages — **Specification → Design → Implementation", "L155: |`runners/`|`remote-worker`, the coding agent: a one-shot pod running the Claude Agent SDK. One image serves implementat"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wso2/labs-agentic-engineer",
+ "sha": "aa0c82bf3225",
+ "source": "readme",
+ "identity": {
+  "one_liner": "WSO2 实验平台：在企业平台内用多 agent 驱动软件开发全流程",
+  "review": "构建在 OpenChoreo 之上的实验性开源平台，将 SDLC 拆为 Specification→Design→Implementation→Build→Deploy→Manage 各阶段，每阶段配备专用 agent；需求以 Git 仓库中的 spec 文件为契约，编码 agent 通过 GitHub issue/分支/PR 执行任务（合并需人工评审），由 webhook 驱动任务状态流转。本地运行依赖 k3d 集群部署 OpenChoreo、Thunder 身份服务与 AEP 服务，模型连接支持 Anthropic Messages 或 OpenAI 兼容接口，编码 agent 以一次性 Pod 运行 Claude Agent SDK。README 自声明为早期实验室项目，API 与数据模型仍会变动。",
+  "highlights": [
+   "SDLC 六阶段各配备专用 agent，共享跨制品上下文",
+   "spec 文件（需求/设计/原型/领域模型）作为下游 agent 的工作契约",
+   "编码 agent 经 GitHub issues/branches/PRs 工作，合并需人工评审，以一次性 Pod 调度",
+   "本地以 k3d + aectl 部署整个平台，模型连接支持 Anthropic Messages 或 OpenAI 兼容格式"
+  ],
+  "use_cases": [
+   "企业内从需求澄清到部署的 agent 驱动软件开发",
+   "业务负责人通过对话引导需求抽取，产出规格与原型",
+   "在已有 API 管理、身份、部署与可观测性平台内运行编码 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/9723e5a5-c187-49b5-886e-50c217da6c28",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3,
+    164
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agentic coding",
+   "SDLC自动化",
+   "企业平台",
+   "agent编排"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: An experimental, open-source platform that explores what **agent-driven software",
+   "L30: It treats the SDLC as a chain of stages — **Specification → Design → Implementation",
+   "L155: |`runners/`|`remote-worker`, the coding agent: a one-shot pod running the Claude Agent SDK. One image serves implementat"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

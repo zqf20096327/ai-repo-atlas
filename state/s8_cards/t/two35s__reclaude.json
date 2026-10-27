@@ -1,1 +1,80 @@
-{"fn": "two35s/reclaude", "sha": "a19d6d03d638", "source": "readme", "identity": {"one_liner": "复用浏览器会话在终端直连 Claude.ai/ChatGPT/Meta AI 的客户端与代理", "review": "研究用途工具：从已登录的 Chrome 提取会话 Cookie（或经 CDP 自动抓取、手动粘贴），以用户自身账号访问 Claude.ai、chatgpt.com、meta.ai 的内部端点，流式返回回答，无需 API key。形态为终端 REPL/TUI 客户端、OpenAI 兼容代理（:8765 /v1）与 MCP 服务器三种入口；代理按模型 ID 路由三个后端，支持流式、多轮（X-Conversation-Id）与文本模拟的 OpenAI tool calling。README 警告此行为可能导致账号受限，建议使用可弃账号；账号限额与计费仍适用。", "highlights": ["三种入口：终端 REPL/TUI、OpenAI 兼容代理、MCP 服务器", "从 Chrome Cookie 库或 CDP 提取浏览器会话，免 API key", "一个代理同时服务 Claude、ChatGPT（chatgpt/）、Meta AI（meta/）模型", "文本模拟实现 OpenAI tool calling，避免原生工具通道死锁"], "use_cases": ["在终端里用自己账号的 Claude.ai/ChatGPT 直接对话", "把 Claude.ai 会话作为 OpenAI 兼容模型接入 OpenCode 等客户端", "让 agent 通过 MCP 工具调用 Claude/ChatGPT/Meta AI 而不切换模型提供商"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM客户端", "OpenAI兼容代理", "MCP服务器", "会话复用", "终端工具"], "domain": "LLM 基础设施/客户端代理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文/繁体中文等多语言版本（L1）"]}, "trust": {"confidence": "mid", "evidence": ["L6: Terminal client for Claude.ai, ChatGPT, and Meta AI — replays your own browser session against their internal endpoints ", "L21: si is three thin surfaces — a terminal client, an OpenAI-compatible proxy, and an MCP server — over three streaming back"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "two35s/reclaude",
+ "sha": "a19d6d03d638",
+ "source": "readme",
+ "identity": {
+  "one_liner": "复用浏览器会话在终端直连 Claude.ai/ChatGPT/Meta AI 的客户端与代理",
+  "review": "研究用途工具：从已登录的 Chrome 提取会话 Cookie（或经 CDP 自动抓取、手动粘贴），以用户自身账号访问 Claude.ai、chatgpt.com、meta.ai 的内部端点，流式返回回答，无需 API key。形态为终端 REPL/TUI 客户端、OpenAI 兼容代理（:8765 /v1）与 MCP 服务器三种入口；代理按模型 ID 路由三个后端，支持流式、多轮（X-Conversation-Id）与文本模拟的 OpenAI tool calling。README 警告此行为可能导致账号受限，建议使用可弃账号；账号限额与计费仍适用。",
+  "highlights": [
+   "三种入口：终端 REPL/TUI、OpenAI 兼容代理、MCP 服务器",
+   "从 Chrome Cookie 库或 CDP 提取浏览器会话，免 API key",
+   "一个代理同时服务 Claude、ChatGPT（chatgpt/）、Meta AI（meta/）模型",
+   "文本模拟实现 OpenAI tool calling，避免原生工具通道死锁"
+  ],
+  "use_cases": [
+   "在终端里用自己账号的 Claude.ai/ChatGPT 直接对话",
+   "把 Claude.ai 会话作为 OpenAI 兼容模型接入 OpenCode 等客户端",
+   "让 agent 通过 MCP 工具调用 Claude/ChatGPT/Meta AI 而不切换模型提供商"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM客户端",
+   "OpenAI兼容代理",
+   "MCP服务器",
+   "会话复用",
+   "终端工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文/繁体中文等多语言版本（L1）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: Terminal client for Claude.ai, ChatGPT, and Meta AI — replays your own browser session against their internal endpoints ",
+   "L21: si is three thin surfaces — a terminal client, an OpenAI-compatible proxy, and an MCP server — over three streaming back"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

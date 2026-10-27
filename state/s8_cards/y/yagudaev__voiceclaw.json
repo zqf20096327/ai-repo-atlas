@@ -1,1 +1,79 @@
-{"fn": "yagudaev/voiceclaw", "sha": "ded2e37e48e5", "source": "readme", "identity": {"one_liner": "给已有 AI agent 加实时语音的客户端：手机/桌面对话", "review": "开源语音层应用：包含 React Native (Expo) iOS 应用、Electron macOS 桌面端和 TypeScript WebSocket 中继服务器。实时语音模型（Gemini Live / Grok Voice / OpenAI Realtime）负责对话，需调用工具、记忆或外部 API 时通过 ask_brain 模式转交给任意 OpenAI 兼容的既有 agent 端点（如 OpenClaw、Hermes、MCP agent），结果回流后语音模型继续作答。不内置 agent，需自备 brain 端点与至少一个 provider API key，从源码克隆并用 yarn 启动。", "highlights": ["ask_brain 升级模式：语音模型可调用任意 OpenAI 兼容 agent 的工具与记忆", "三端结构：iOS 应用 + Electron macOS 桌面端（含屏幕共享）+ WebSocket 中继服务器", "支持 Gemini Live、Grok Voice、OpenAI Realtime 三种实时语音 provider", "支持 Langfuse tracing 集成"], "use_cases": ["让我用自己的 agent 通过手机或桌面进行实时语音对话", "在 macOS 上边共享屏幕边与语音 agent 协作", "为已部署的 MCP/OpenAI 兼容 agent 快速添加语音入口"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音助手", "实时语音", "agent客户端", "多模态交互", "移动应用"], "domain": "语音 AI / agent 客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["xai"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: VoiceClaw is a **thin voice layer on top of your existing AI agent**. Already have an agent that can search the web, man", "L79: 3. The relay server routes `ask_brain` to **your existing agent** -- any OpenAI-compatible chat completions endpoint"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yagudaev/voiceclaw",
+ "sha": "ded2e37e48e5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给已有 AI agent 加实时语音的客户端：手机/桌面对话",
+  "review": "开源语音层应用：包含 React Native (Expo) iOS 应用、Electron macOS 桌面端和 TypeScript WebSocket 中继服务器。实时语音模型（Gemini Live / Grok Voice / OpenAI Realtime）负责对话，需调用工具、记忆或外部 API 时通过 ask_brain 模式转交给任意 OpenAI 兼容的既有 agent 端点（如 OpenClaw、Hermes、MCP agent），结果回流后语音模型继续作答。不内置 agent，需自备 brain 端点与至少一个 provider API key，从源码克隆并用 yarn 启动。",
+  "highlights": [
+   "ask_brain 升级模式：语音模型可调用任意 OpenAI 兼容 agent 的工具与记忆",
+   "三端结构：iOS 应用 + Electron macOS 桌面端（含屏幕共享）+ WebSocket 中继服务器",
+   "支持 Gemini Live、Grok Voice、OpenAI Realtime 三种实时语音 provider",
+   "支持 Langfuse tracing 集成"
+  ],
+  "use_cases": [
+   "让我用自己的 agent 通过手机或桌面进行实时语音对话",
+   "在 macOS 上边共享屏幕边与语音 agent 协作",
+   "为已部署的 MCP/OpenAI 兼容 agent 快速添加语音入口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音助手",
+   "实时语音",
+   "agent客户端",
+   "多模态交互",
+   "移动应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: VoiceClaw is a **thin voice layer on top of your existing AI agent**. Already have an agent that can search the web, man",
+   "L79: 3. The relay server routes `ask_brain` to **your existing agent** -- any OpenAI-compatible chat completions endpoint"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

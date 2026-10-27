@@ -1,0 +1,58 @@
+# ihabkhaled/ClawAI
+
+⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ihabkhaled/ClawAI) · [官网](https://claw-ai.co) · 个人维护
+
+**本地优先的多模型 AI 工作区：统一接入 22 个模型提供商**
+
+可自托管的多模型 AI 聊天与编排平台：以微服务架构（Next.js 前端 + 20 余个服务，RabbitMQ 事件总线）提供多模态聊天、语音转录、网页研究爬取、文档生成（PDF/Word/Excel/PPT）、模型对比与 AUTO 路由、团队管理与按量计费、Threads 公开文章发布及 Grafana/Prometheus 可观测性。支持 OpenAI、Anthropic、Gemini 等 22 个提供商，本地可运行 Ollama、llama.cpp 与本地图像模型。通过安装脚本部署，前置要求 Docker、Node.js 22+、Git。README 声明 SSO 与团队共享账户尚未实现。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `permissive` | Apache-2.0 |
+| 部署形态 | `None` |  |
+| 模型依赖 | local-ok | 支持本地模型 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 22 个可用提供商，含 Ollama、llama.cpp 及 15 个 OpenAI 兼容预设
+- 模态与上下文感知的 AUTO 路由及共享提供商熔断器
+- 编排实验室：2–5 模型对比加评判排序，及 Consensus、Pipeline 等 9 个实验室
+- 聊天内生成 PDF/Word/Excel/PowerPoint 文件（Typst 排版）
+
+## 适用场景
+
+- 在自有硬件上部署统一的多模型 AI 工作区
+- 团队按角色权限管理 AI 使用并查看用量统计
+- 对比多个模型的回答并自动路由到合适模型
+
+## 场景标签
+
+`聊天机器人` `模型网关` `多模态` · 领域:Agent 开发
+
+## 证据(README 行号)
+
+> L16: Every frontier AI model in one workspace that sees, hears, researches and builds.
+> L64: 10. **22 usable providers** — OpenAI, Anthropic, Gemini, DeepSeek, xAI, Ollama,
+> L28: |**One workspace**|Not a chat box. The AI hears voice notes, watches video, reads PDFs and archives, researches the
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ihabkhaled/ClawAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 22 --> 25
+    line [23, 24, 24]
+```
+
+2026-10-18 23 → 2026-10-27 24（+1）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 high · 依据 README sha `a072cef2be2a` · [字段定义](../../DATASET.md)*

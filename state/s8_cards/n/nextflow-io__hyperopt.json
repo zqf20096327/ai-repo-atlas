@@ -1,1 +1,80 @@
-{"fn": "nextflow-io/hyperopt", "sha": "941fe90b2880", "source": "readme", "identity": {"one_liner": "Nextflow 机器学习模型超参数优化流程（概念验证）", "review": "基于 Nextflow 的工作流，用于机器学习模型的超参数优化：从 OpenML 下载或读取用户提供的数据集，划分训练/测试集并可视化，训练多种模型类型（默认 dummy/gb/lr/mlp/rf），逐一评估并按评估分数报告每个数据集的最佳模型。依赖 Unix-like 系统、Java >=17 与 Conda 或 Docker，通过 nextflow run 启动，可运行在本地、HPC 集群或云端；Python 依赖由 conda.yml 定义。自述为 proof-of-concept。", "highlights": ["从 OpenML 拉取数据集并自动划分训练/测试集", "训练并评估多种模型类型，按评估分数报告最佳模型", "借助 Nextflow 抽象可在本地、HPC 集群或云上执行", "支持 Conda 原生或 Wave 容器（Docker）两种运行方式"], "use_cases": ["用工作流方式批量训练并比较多个 ML 模型", "在自己的数据集上跑自动化超参数优化", "在 HPC 或云环境中复现模型选型流程"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [3]}}, "links": {"scenario_tags": ["超参数优化", "工作流", "Nextflow", "AutoML", "模型选型"], "domain": "机器学习/科学工作流", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A proof-of-concept pipeline for performing hyperparameter optimization of machine learning models with Nextflow.", "L41: 4. Train a variety of models on each training set", "L43: 6. Report the best model for each dataset based on evaluation score"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nextflow-io/hyperopt",
+ "sha": "941fe90b2880",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Nextflow 机器学习模型超参数优化流程（概念验证）",
+  "review": "基于 Nextflow 的工作流，用于机器学习模型的超参数优化：从 OpenML 下载或读取用户提供的数据集，划分训练/测试集并可视化，训练多种模型类型（默认 dummy/gb/lr/mlp/rf），逐一评估并按评估分数报告每个数据集的最佳模型。依赖 Unix-like 系统、Java >=17 与 Conda 或 Docker，通过 nextflow run 启动，可运行在本地、HPC 集群或云端；Python 依赖由 conda.yml 定义。自述为 proof-of-concept。",
+  "highlights": [
+   "从 OpenML 拉取数据集并自动划分训练/测试集",
+   "训练并评估多种模型类型，按评估分数报告最佳模型",
+   "借助 Nextflow 抽象可在本地、HPC 集群或云上执行",
+   "支持 Conda 原生或 Wave 容器（Docker）两种运行方式"
+  ],
+  "use_cases": [
+   "用工作流方式批量训练并比较多个 ML 模型",
+   "在自己的数据集上跑自动化超参数优化",
+   "在 HPC 或云环境中复现模型选型流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "超参数优化",
+   "工作流",
+   "Nextflow",
+   "AutoML",
+   "模型选型"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A proof-of-concept pipeline for performing hyperparameter optimization of machine learning models with Nextflow.",
+   "L41: 4. Train a variety of models on each training set",
+   "L43: 6. Report the best model for each dataset based on evaluation score"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

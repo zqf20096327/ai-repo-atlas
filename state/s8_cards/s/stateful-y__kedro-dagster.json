@@ -1,1 +1,76 @@
-{"fn": "stateful-y/kedro-dagster", "sha": "2feb0ca62db7", "source": "readme", "identity": {"one_liner": "将 Kedro 数据科学流水线接入 Dagster 编排的插件", "review": "面向 Kedro 用户的 Python 插件：把 Kedro 流水线对象转换为 Dagster 的 jobs/assets 定义，通过 dagster.yml 按环境集中配置执行器、调度与流水线过滤，并用 kedro dagster dev 启动 Dagster UI 监控执行。保留 Kedro hooks 在执行周期中被调用，统一两边日志，支持配合 Kedro-MLflow 与 Dagster 的 MLflow 集成做实验跟踪。分区支持标注为实验性。支持 Kedro 0.19.x/1.x 与 Dagster 1.10-1.12。", "highlights": ["kedro dagster init 自动生成 Dagster definitions.py 与 dagster.yml", "Kedro hooks 在流水线执行中被保留调用", "统一 Kedro 与 Dagster 日志到 Dagster UI", "与 Kedro-MLflow 及 Dagster 的 MLflow 集成配合使用"], "use_cases": ["把已有 Kedro 项目部署到 Dagster 做编排与监控", "为 Kedro 流水线配置定时调度与执行器", "在 Dagster UI 中追踪 Kedro 节点日志与运行状态"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["流水线编排", "MLOps", "数据工程", "插件/集成"], "domain": "数据工程/MLOps 编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: The Kedro-Dagster plugin enables seamless integration between Kedro, a framework for creating reproducible and maintaina", "L25: - **MLflow compatibility:** Use Kedro-MLflow with Dagster’s MLflow integration to track experiments, log models, and reg"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "stateful-y/kedro-dagster",
+ "sha": "2feb0ca62db7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Kedro 数据科学流水线接入 Dagster 编排的插件",
+  "review": "面向 Kedro 用户的 Python 插件：把 Kedro 流水线对象转换为 Dagster 的 jobs/assets 定义，通过 dagster.yml 按环境集中配置执行器、调度与流水线过滤，并用 kedro dagster dev 启动 Dagster UI 监控执行。保留 Kedro hooks 在执行周期中被调用，统一两边日志，支持配合 Kedro-MLflow 与 Dagster 的 MLflow 集成做实验跟踪。分区支持标注为实验性。支持 Kedro 0.19.x/1.x 与 Dagster 1.10-1.12。",
+  "highlights": [
+   "kedro dagster init 自动生成 Dagster definitions.py 与 dagster.yml",
+   "Kedro hooks 在流水线执行中被保留调用",
+   "统一 Kedro 与 Dagster 日志到 Dagster UI",
+   "与 Kedro-MLflow 及 Dagster 的 MLflow 集成配合使用"
+  ],
+  "use_cases": [
+   "把已有 Kedro 项目部署到 Dagster 做编排与监控",
+   "为 Kedro 流水线配置定时调度与执行器",
+   "在 Dagster UI 中追踪 Kedro 节点日志与运行状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "流水线编排",
+   "MLOps",
+   "数据工程",
+   "插件/集成"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: The Kedro-Dagster plugin enables seamless integration between Kedro, a framework for creating reproducible and maintaina",
+   "L25: - **MLflow compatibility:** Use Kedro-MLflow with Dagster’s MLflow integration to track experiments, log models, and reg"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

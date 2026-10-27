@@ -1,1 +1,74 @@
-{"fn": "tudelft-cda-lab/FlexFringe", "sha": "6843d9ab5c1c", "source": "readme", "identity": {"one_liner": "从轨迹学习确定性状态机的 C++ 状态合并框架", "review": "FlexFringe（原 DFASAT）是 C++ 编写的灵活状态合并框架，用于从轨迹/符号序列中归纳确定性自动机（状态机）。核心包含状态合并框架、多种合并例程、预测模块与主动学习模块；主动学习可通过 Python 集成做深度学习推理、通过数据库连接查询成员 oracle、可选 SAT 求解归约（仅限普通 DFA 且实现未验证正确性）。输入为 Abbadingo 格式轨迹，输出 .dot 与 JSON 模型文件。以源码 CMake 编译或 Docker 镜像方式提供，面向语法归纳/机器学习研究者。README 声明单元测试与日志功能不完整。", "highlights": ["状态合并法从轨迹学习 DFA/Mealy/Moore 等状态机", "主动学习模块：Python 深度学习集成、数据库 oracle、SAT 求解归约", "输出 .dot/JSON 模型，支持流式/在线与批处理模式", "Docker 镜像与跨平台 CMake 编译（Linux/macOS/Windows）"], "use_cases": ["从系统日志或测试轨迹归纳软件行为的状态机模型", "语法归纳与自动机学习研究及算法对比实验", "将学到的模型用于语言接受测试或作为分布函数使用"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2203.16331", "demo_url": "https://github.com/laxris/flexfringe-colab", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语法归纳", "自动机学习", "状态机", "机器学习工具"], "domain": "机器学习/语法归纳", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Flexfringe, formerly DFASAT, is a flexible state-merging framework written in C++. It consists of a core state merging f", "L109: Deep learning is done with python integration. This support is available behind the feature flag `ENABLE_PYTHON`. Enable"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tudelft-cda-lab/FlexFringe",
+ "sha": "6843d9ab5c1c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从轨迹学习确定性状态机的 C++ 状态合并框架",
+  "review": "FlexFringe（原 DFASAT）是 C++ 编写的灵活状态合并框架，用于从轨迹/符号序列中归纳确定性自动机（状态机）。核心包含状态合并框架、多种合并例程、预测模块与主动学习模块；主动学习可通过 Python 集成做深度学习推理、通过数据库连接查询成员 oracle、可选 SAT 求解归约（仅限普通 DFA 且实现未验证正确性）。输入为 Abbadingo 格式轨迹，输出 .dot 与 JSON 模型文件。以源码 CMake 编译或 Docker 镜像方式提供，面向语法归纳/机器学习研究者。README 声明单元测试与日志功能不完整。",
+  "highlights": [
+   "状态合并法从轨迹学习 DFA/Mealy/Moore 等状态机",
+   "主动学习模块：Python 深度学习集成、数据库 oracle、SAT 求解归约",
+   "输出 .dot/JSON 模型，支持流式/在线与批处理模式",
+   "Docker 镜像与跨平台 CMake 编译（Linux/macOS/Windows）"
+  ],
+  "use_cases": [
+   "从系统日志或测试轨迹归纳软件行为的状态机模型",
+   "语法归纳与自动机学习研究及算法对比实验",
+   "将学到的模型用于语言接受测试或作为分布函数使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2203.16331",
+  "demo_url": "https://github.com/laxris/flexfringe-colab",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语法归纳",
+   "自动机学习",
+   "状态机",
+   "机器学习工具"
+  ],
+  "domain": "机器学习/语法归纳",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Flexfringe, formerly DFASAT, is a flexible state-merging framework written in C++. It consists of a core state merging f",
+   "L109: Deep learning is done with python integration. This support is available behind the feature flag `ENABLE_PYTHON`. Enable"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

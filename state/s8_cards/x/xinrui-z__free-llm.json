@@ -1,1 +1,79 @@
-{"fn": "xinrui-z/free-llm", "sha": "6536fce0afb0", "source": "readme", "identity": {"one_liner": "免费 LLM API 提供商的实时状态监控仪表盘与清单", "review": "聚合免费 LLM API 提供商的监控站点：Cloudflare Worker 每小时对各提供商做健康检查并写入 KV，站点展示实时状态、响应延迟、RPM/RPD 限额、模型列表与 90 天可用性热力图，并自动记录宕机、恢复与模型变更的变更日志。所有收录提供商均为 OpenAI 兼容的 /v1/chat/completions 格式，且须有永久免费层。站点可导出 LiteLLM、Cursor、LobeChat、Open WebUI 的配置文件。前端为 Astro，自托管依托 Cloudflare 免费层；健康检查 Worker 本身不包含在仓库中。", "highlights": ["Cloudflare Workers 每小时健康检查 + 90 天可用性热力图", "自动生成宕机/恢复/模型变更日志", "导出 LiteLLM / Cursor / LobeChat / Open WebUI 可用配置", "收录标准要求永久免费层且 OpenAI 兼容"], "use_cases": ["挑选当前可用的免费 LLM API 提供商", "查看某提供商的限速、模型与历史可用性", "获取可直接导入常用 LLM 工具的配置文件"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://free-llm-apis.pages.dev", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["免费API清单", "状态监控", "LLM基础设施", "开发者资源"], "domain": "LLM 基础设施/开发者资源", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本链接"]}, "trust": {"confidence": "high", "evidence": ["L5: Real-time status monitoring for free LLM API providers — live status, latency, rate limits, and 90-day uptime history, u", "L15: Each provider page shows current status, response latency, RPM / RPD limits, model list, and a 90-day uptime heatmap. A ", "L33: - **OpenAI-compatible** — all listed providers use the `/v1/chat/completions` format"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xinrui-z/free-llm",
+ "sha": "6536fce0afb0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "免费 LLM API 提供商的实时状态监控仪表盘与清单",
+  "review": "聚合免费 LLM API 提供商的监控站点：Cloudflare Worker 每小时对各提供商做健康检查并写入 KV，站点展示实时状态、响应延迟、RPM/RPD 限额、模型列表与 90 天可用性热力图，并自动记录宕机、恢复与模型变更的变更日志。所有收录提供商均为 OpenAI 兼容的 /v1/chat/completions 格式，且须有永久免费层。站点可导出 LiteLLM、Cursor、LobeChat、Open WebUI 的配置文件。前端为 Astro，自托管依托 Cloudflare 免费层；健康检查 Worker 本身不包含在仓库中。",
+  "highlights": [
+   "Cloudflare Workers 每小时健康检查 + 90 天可用性热力图",
+   "自动生成宕机/恢复/模型变更日志",
+   "导出 LiteLLM / Cursor / LobeChat / Open WebUI 可用配置",
+   "收录标准要求永久免费层且 OpenAI 兼容"
+  ],
+  "use_cases": [
+   "挑选当前可用的免费 LLM API 提供商",
+   "查看某提供商的限速、模型与历史可用性",
+   "获取可直接导入常用 LLM 工具的配置文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://free-llm-apis.pages.dev",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "免费API清单",
+   "状态监控",
+   "LLM基础设施",
+   "开发者资源"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Real-time status monitoring for free LLM API providers — live status, latency, rate limits, and 90-day uptime history, u",
+   "L15: Each provider page shows current status, response latency, RPM / RPD limits, model list, and a 90-day uptime heatmap. A ",
+   "L33: - **OpenAI-compatible** — all listed providers use the `/v1/chat/completions` format"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

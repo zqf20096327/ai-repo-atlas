@@ -1,1 +1,77 @@
-{"fn": "wiltodelta/ComfyUI-remove-ai-watermarks", "sha": "7cff9b615231", "source": "readme", "identity": {"one_liner": "ComfyUI 自定义节点集：检测并移除图像中的可见/不可见 AI 水印", "review": "面向 ComfyUI 用户的自定义节点集，基于 remove-ai-watermarks 库提供 7 个节点：可见水印检测与移除（RAIW 注册标记、自动模式带灵敏度检测）、不可见水印/SynthID 移除（经 CUDA-only 的 qwen-zimage/sdxl-zimage/chroma-zimage 扩散再生）、C2PA 等溯源信息读取、AI 元数据无损剥离、区域擦除（cv2/LaMa/MI-GAN 填充）及一键全流程。像素节点在内存中处理图像批次，溯源类节点需传入文件路径。可通过 ComfyUI Manager 或手动 git clone + pip 安装，模型权重首次使用时下载。", "highlights": ["7 个节点覆盖可见/不可见水印移除、溯源识别、元数据剥离与区域擦除", "不可见水印移除通过 CUDA-only 扩散再生（qwen-zimage/sdxl-zimage/chroma-zimage/auto 四种 profile）", "可见水印检测与默认 cv2 填充无需 GPU", "支持 ComfyUI Manager 安装，模型权重首次使用时下载"], "use_cases": ["在 ComfyUI 工作流中移除图像上的可见 AI 溯源标记", "清除 SynthID 等不可见水印与 AI 元数据", "读取并验证图像的 C2PA 溯源报告", "擦除图像中指定遮罩区域并重新填充"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI 节点", "AI 水印移除", "图像处理", "C2PA/内容溯源"], "domain": "图像处理/生成式 AI 工具链", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: ComfyUI custom nodes for", "L13: |**Remove Visible Watermark (RAIW)**|Removes every detected registered AI-provenance mark when `mark = auto`, or forces "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wiltodelta/ComfyUI-remove-ai-watermarks",
+ "sha": "7cff9b615231",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 自定义节点集：检测并移除图像中的可见/不可见 AI 水印",
+  "review": "面向 ComfyUI 用户的自定义节点集，基于 remove-ai-watermarks 库提供 7 个节点：可见水印检测与移除（RAIW 注册标记、自动模式带灵敏度检测）、不可见水印/SynthID 移除（经 CUDA-only 的 qwen-zimage/sdxl-zimage/chroma-zimage 扩散再生）、C2PA 等溯源信息读取、AI 元数据无损剥离、区域擦除（cv2/LaMa/MI-GAN 填充）及一键全流程。像素节点在内存中处理图像批次，溯源类节点需传入文件路径。可通过 ComfyUI Manager 或手动 git clone + pip 安装，模型权重首次使用时下载。",
+  "highlights": [
+   "7 个节点覆盖可见/不可见水印移除、溯源识别、元数据剥离与区域擦除",
+   "不可见水印移除通过 CUDA-only 扩散再生（qwen-zimage/sdxl-zimage/chroma-zimage/auto 四种 profile）",
+   "可见水印检测与默认 cv2 填充无需 GPU",
+   "支持 ComfyUI Manager 安装，模型权重首次使用时下载"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中移除图像上的可见 AI 溯源标记",
+   "清除 SynthID 等不可见水印与 AI 元数据",
+   "读取并验证图像的 C2PA 溯源报告",
+   "擦除图像中指定遮罩区域并重新填充"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI 节点",
+   "AI 水印移除",
+   "图像处理",
+   "C2PA/内容溯源"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ComfyUI custom nodes for",
+   "L13: |**Remove Visible Watermark (RAIW)**|Removes every detected registered AI-provenance mark when `mark = auto`, or forces "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

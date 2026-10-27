@@ -1,1 +1,83 @@
-{"fn": "wundercorp/loki", "sha": "7fdc3a337cc7", "source": "readme", "identity": {"one_liner": "自我改进的个人 AI agent：学习循环+多平台消息接入", "review": "WunderCorp 开发的命令行 AI agent，核心机制是学习闭环：从任务经验自主创建技能并在使用中改进，维护持久化记忆与用户模型（Honcho dialectic），支持 FTS5 会话搜索。可接入 OpenRouter、OpenAI、Anthropic 等多种模型并随时切换。通过单一 gateway 进程连接 Telegram、Discord、Slack、WhatsApp、Signal 等消息平台；内置 cron 定时任务、子 agent 并行、MCP 集成，支持七种终端后端（本地、Docker、SSH、Modal、Daya 等）。Linux/macOS/WSL2/Termux 用 curl 安装脚本，Windows 原生 PowerShell 安装。", "highlights": ["学习闭环：任务后自主创建技能，技能在使用中自我改进", "单一 gateway 进程接入 Telegram/Discord/Slack/WhatsApp/Signal 多平台", "七种终端后端：本地、Docker、SSH、Singularity、Modal、Daytona、Vercel Sandbox", "内置 cron 调度器与 MCP 集成，支持 OpenClaw 迁移"], "use_cases": ["通过 Telegram 等消息平台随时与云端运行的 agent 对话", "让 agent 执行任务并沉淀为可复用、可自我改进的技能", "用自然语言设定定时报告、备份等无人值守自动化"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent", "个人助理", "多平台消息网关", "技能/记忆系统", "CLI工具"], "domain": "AI agent / 个人助理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["README 含中文语言入口（L11）"]}, "trust": {"confidence": "mid", "evidence": ["L15: **The self-improving AI agent built by WunderCorp, Inc..** It's the only agent with a built-in learning loop — it create", "L17: Use any model you want — OpenRouter, OpenAI, your own endpoint, and many others. Switch with `loki model` — no code chan", "L20:  Lives where you do Telegram, Discord, Slack, WhatsApp, Signal, and CLI — all from a single gateway process. Voice memo "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wundercorp/loki",
+ "sha": "7fdc3a337cc7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自我改进的个人 AI agent：学习循环+多平台消息接入",
+  "review": "WunderCorp 开发的命令行 AI agent，核心机制是学习闭环：从任务经验自主创建技能并在使用中改进，维护持久化记忆与用户模型（Honcho dialectic），支持 FTS5 会话搜索。可接入 OpenRouter、OpenAI、Anthropic 等多种模型并随时切换。通过单一 gateway 进程连接 Telegram、Discord、Slack、WhatsApp、Signal 等消息平台；内置 cron 定时任务、子 agent 并行、MCP 集成，支持七种终端后端（本地、Docker、SSH、Modal、Daya 等）。Linux/macOS/WSL2/Termux 用 curl 安装脚本，Windows 原生 PowerShell 安装。",
+  "highlights": [
+   "学习闭环：任务后自主创建技能，技能在使用中自我改进",
+   "单一 gateway 进程接入 Telegram/Discord/Slack/WhatsApp/Signal 多平台",
+   "七种终端后端：本地、Docker、SSH、Singularity、Modal、Daytona、Vercel Sandbox",
+   "内置 cron 调度器与 MCP 集成，支持 OpenClaw 迁移"
+  ],
+  "use_cases": [
+   "通过 Telegram 等消息平台随时与云端运行的 agent 对话",
+   "让 agent 执行任务并沉淀为可复用、可自我改进的技能",
+   "用自然语言设定定时报告、备份等无人值守自动化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "个人助理",
+   "多平台消息网关",
+   "技能/记忆系统",
+   "CLI工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文语言入口（L11）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: **The self-improving AI agent built by WunderCorp, Inc..** It's the only agent with a built-in learning loop — it create",
+   "L17: Use any model you want — OpenRouter, OpenAI, your own endpoint, and many others. Switch with `loki model` — no code chan",
+   "L20:  Lives where you do Telegram, Discord, Slack, WhatsApp, Signal, and CLI — all from a single gateway process. Voice memo "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

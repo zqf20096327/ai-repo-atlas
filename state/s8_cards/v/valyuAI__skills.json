@@ -1,1 +1,79 @@
-{"fn": "valyuAI/skills", "sha": "fd45d64f7b52", "source": "readme", "identity": {"one_liner": "让 AI agent 接入 Valyu 检索 API 的技能包", "review": "遵循 Agent Skills 规范的技能仓库，当前提供 valyu-search 一个技能，指导 AI agent 调用 Valyu 统一 API：跨 25+ 数据源（网页、学术、金融、医疗、经济、新闻、预测市场、专利等）检索、URL 内容提取为 markdown、带引用的 AI 回答与深度研究报告（fast/standard/heavy 三档时长）。通过 npx skills add 安装到 Claude Code 等 agent 平台，开发者可另用官方 JS/Python SDK 集成，需 Valyu API key（含 $10 免费额度）。", "highlights": ["valyu-search 技能覆盖搜索、内容提取、AI 回答、深度研究四类 API", "检索范围含 arXiv/PubMed 等学术源、SEC 金融数据、临床与药物数据等 25+ 来源", "提供 Claude/OpenAI/Vercel AI SDK/LangChain/LlamaIndex/MCP 六份集成指南", "附搜索/内容/回答/深度研究四类调用配方（Recipes）"], "use_cases": ["给 Claude Code 等 agent 添加跨领域实时检索能力", "让 agent 从学术论文、SEC 文件、临床数据等来源获取信息", "通过 DeepResearch API 让 agent 生成综合研究报告"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "搜索/检索API", "Skills规范", "研究工具"], "domain": "AI agent 工具/信息检索", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Agent skills for integrating Valyu APIs into AI agents and assistants.", "L25: |valyu-search|Complete Valyu API toolkit - search, content extraction, AI answers, deep research|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "valyuAI/skills",
+ "sha": "fd45d64f7b52",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 接入 Valyu 检索 API 的技能包",
+  "review": "遵循 Agent Skills 规范的技能仓库，当前提供 valyu-search 一个技能，指导 AI agent 调用 Valyu 统一 API：跨 25+ 数据源（网页、学术、金融、医疗、经济、新闻、预测市场、专利等）检索、URL 内容提取为 markdown、带引用的 AI 回答与深度研究报告（fast/standard/heavy 三档时长）。通过 npx skills add 安装到 Claude Code 等 agent 平台，开发者可另用官方 JS/Python SDK 集成，需 Valyu API key（含 $10 免费额度）。",
+  "highlights": [
+   "valyu-search 技能覆盖搜索、内容提取、AI 回答、深度研究四类 API",
+   "检索范围含 arXiv/PubMed 等学术源、SEC 金融数据、临床与药物数据等 25+ 来源",
+   "提供 Claude/OpenAI/Vercel AI SDK/LangChain/LlamaIndex/MCP 六份集成指南",
+   "附搜索/内容/回答/深度研究四类调用配方（Recipes）"
+  ],
+  "use_cases": [
+   "给 Claude Code 等 agent 添加跨领域实时检索能力",
+   "让 agent 从学术论文、SEC 文件、临床数据等来源获取信息",
+   "通过 DeepResearch API 让 agent 生成综合研究报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "搜索/检索API",
+   "Skills规范",
+   "研究工具"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "semantic-search",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Agent skills for integrating Valyu APIs into AI agents and assistants.",
+   "L25: |valyu-search|Complete Valyu API toolkit - search, content extraction, AI answers, deep research|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

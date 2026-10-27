@@ -1,1 +1,80 @@
-{"fn": "wmc837911722-del/fde-learning", "sha": "92ec5a4a398a", "source": "readme", "identity": {"one_liner": "24 周中文 FDE（前沿部署工程师）成长教程与模板仓库", "review": "面向已有编程基础、零 FDE 经验学习者的中文公开教程，第 1–24 周均已发布，以 GitHub Pages 站点形式在线阅读。内容沿岗位认知→客户发现→工程交付→AI 评测与生产化→作品集→面试的主线组织，覆盖 RAG 评测、MCP 工具安全、可观察性与运营交接，提供 Discovery Brief、Eval Plan、项目评分模板及企业 RAG+MCP Capstone 项目合同。本地运行需 Node.js 22.13+ 与 pnpm 11.19.0。仓库声明首版未附开源许可证，保留全部权利。", "highlights": ["24 周标准路线，可调整为 20 或 28 周", "三个递进式项目，Capstone 为企业 RAG + MCP 助手", "可复制的 Discovery Brief / Eval Plan / 项目评分模板", "面向传统搜索与生成式引擎的内容结构（sitemap、llms.txt、来源标注）"], "use_cases": ["按周路线从零学习 FDE 岗位所需能力", "用模板收敛客户需求、定义评测合同与发布门槛", "以企业 RAG + MCP Capstone 项目构建作品集并准备面试"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://wmc837911722-del.github.io/fde-learning/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["职业教程", "FDE", "RAG", "MCP", "中文内容"], "domain": "AI 工程教育/职业指南", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文教程内容", "提供微信沟通渠道"]}, "trust": {"confidence": "mid", "evidence": ["L3: 一套面向**已有编程基础、零 FDE 经验**学习者的中文公开教程，第 1–24 周均已发布。这里的 FDE 指 **Forward Deployed Engineer（前沿部署工程师 / 前线部署工程师）**。使用与转载边界见文末许可说明", "L5: 教程不以背诵工具清单为目标，而是沿着真实岗位要求完成一条可验证路径："], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wmc837911722-del/fde-learning",
+ "sha": "92ec5a4a398a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "24 周中文 FDE（前沿部署工程师）成长教程与模板仓库",
+  "review": "面向已有编程基础、零 FDE 经验学习者的中文公开教程，第 1–24 周均已发布，以 GitHub Pages 站点形式在线阅读。内容沿岗位认知→客户发现→工程交付→AI 评测与生产化→作品集→面试的主线组织，覆盖 RAG 评测、MCP 工具安全、可观察性与运营交接，提供 Discovery Brief、Eval Plan、项目评分模板及企业 RAG+MCP Capstone 项目合同。本地运行需 Node.js 22.13+ 与 pnpm 11.19.0。仓库声明首版未附开源许可证，保留全部权利。",
+  "highlights": [
+   "24 周标准路线，可调整为 20 或 28 周",
+   "三个递进式项目，Capstone 为企业 RAG + MCP 助手",
+   "可复制的 Discovery Brief / Eval Plan / 项目评分模板",
+   "面向传统搜索与生成式引擎的内容结构（sitemap、llms.txt、来源标注）"
+  ],
+  "use_cases": [
+   "按周路线从零学习 FDE 岗位所需能力",
+   "用模板收敛客户需求、定义评测合同与发布门槛",
+   "以企业 RAG + MCP Capstone 项目构建作品集并准备面试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://wmc837911722-del.github.io/fde-learning/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "职业教程",
+   "FDE",
+   "RAG",
+   "MCP",
+   "中文内容"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文教程内容",
+   "提供微信沟通渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 一套面向**已有编程基础、零 FDE 经验**学习者的中文公开教程，第 1–24 周均已发布。这里的 FDE 指 **Forward Deployed Engineer（前沿部署工程师 / 前线部署工程师）**。使用与转载边界见文末许可说明",
+   "L5: 教程不以背诵工具清单为目标，而是沿着真实岗位要求完成一条可验证路径："
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

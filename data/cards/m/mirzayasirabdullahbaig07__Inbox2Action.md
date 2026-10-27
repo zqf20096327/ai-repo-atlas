@@ -33,7 +33,7 @@ All Things Agentic Hackathon Taskmaster Track 的参赛作品，部署在 Stream
 
 ## 场景标签
 
- · 领域:企业自动化/Agent 应用
+`文档解析` `工作流自动化` `AI 写作` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

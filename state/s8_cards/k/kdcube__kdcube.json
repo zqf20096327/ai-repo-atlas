@@ -1,1 +1,78 @@
-{"fn": "kdcube/kdcube", "sha": "7fce8712aa37", "source": "readme", "identity": {"one_liner": "自托管 AI 应用服务器与 SDK：多用户托管运行 agent", "review": "面向 AI 应用与 agent 的自托管应用服务器与生产运行时：以租户/项目为单位部署，加载声明式应用描述符，对外提供 agent、REST、MCP 端点、widget、网站、事件与任务等服务面。开发者可保留 LangGraph、CrewAI、Claude Agent SDK、Claude Code 或自有 agent 逻辑，通过适配器接入共享 Harness 运行时；平台侧提供身份、有序投递、存储、密钥管理、预算控制、生成代码隔离与运行时策略执行。内置 Connection Hub 管理对外部 MCP 的可撤销委托访问。经 pip 安装 CLI，以本地 Docker Compose 启动。", "highlights": ["租户/项目部署内多用户、多应用共享运行时服务", "通过适配器托管 LangGraph / CrewAI / Claude Agent SDK / Claude Code 等既有 agent", "生成代码隔离执行（子进程/合并 Docker/分离 Docker 三档 profile）", "Connection Hub 提供外部 MCP 的按调用方画像授权与可撤销委托访问"], "use_cases": ["把已有的 LangGraph 或 Claude Code agent 部署为多用户生产服务", "为 agent 提供预算、密钥与生成代码隔离等运行时治理", "以可撤销的调用方画像向 agent 或 MCP 客户端开放受控工具"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent运行时", "应用服务器", "MCP", "自托管", "AI基础设施"], "domain": "AI 基础设施/agent 运行时", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: **The open-source, self-hosted application server and production runtime for AI applications and agents.**", "L20: Keep the agent and product code you already have. Run LangGraph, CrewAI,", "L58: KDCube is an application runtime and SDK, not a single MCP server or a"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kdcube/kdcube",
+ "sha": "7fce8712aa37",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI 应用服务器与 SDK：多用户托管运行 agent",
+  "review": "面向 AI 应用与 agent 的自托管应用服务器与生产运行时：以租户/项目为单位部署，加载声明式应用描述符，对外提供 agent、REST、MCP 端点、widget、网站、事件与任务等服务面。开发者可保留 LangGraph、CrewAI、Claude Agent SDK、Claude Code 或自有 agent 逻辑，通过适配器接入共享 Harness 运行时；平台侧提供身份、有序投递、存储、密钥管理、预算控制、生成代码隔离与运行时策略执行。内置 Connection Hub 管理对外部 MCP 的可撤销委托访问。经 pip 安装 CLI，以本地 Docker Compose 启动。",
+  "highlights": [
+   "租户/项目部署内多用户、多应用共享运行时服务",
+   "通过适配器托管 LangGraph / CrewAI / Claude Agent SDK / Claude Code 等既有 agent",
+   "生成代码隔离执行（子进程/合并 Docker/分离 Docker 三档 profile）",
+   "Connection Hub 提供外部 MCP 的按调用方画像授权与可撤销委托访问"
+  ],
+  "use_cases": [
+   "把已有的 LangGraph 或 Claude Code agent 部署为多用户生产服务",
+   "为 agent 提供预算、密钥与生成代码隔离等运行时治理",
+   "以可撤销的调用方画像向 agent 或 MCP 客户端开放受控工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent运行时",
+   "应用服务器",
+   "MCP",
+   "自托管",
+   "AI基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **The open-source, self-hosted application server and production runtime for AI applications and agents.**",
+   "L20: Keep the agent and product code you already have. Run LangGraph, CrewAI,",
+   "L58: KDCube is an application runtime and SDK, not a single MCP server or a"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

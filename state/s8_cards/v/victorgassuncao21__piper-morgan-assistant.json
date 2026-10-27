@@ -1,1 +1,80 @@
-{"fn": "victorgassuncao21/piper-morgan-assistant", "sha": "7113a7a900cc", "source": "readme", "identity": {"one_liner": "面向产品经理的对话式 PM 助手：自然语言处理站会/待办/状态更新", "review": "Piper Morgan 是一个自托管的 Python 产品管理助手应用，以对话为主要界面，接收自然语言请求后经意图解析、编排器、适配器与 AI 推理层，完成状态总结、风险提示、草拟更新、工单分类等 PM 日常工作。支持 Anthropic/OpenAI 提供商配置，需要 PostgreSQL、LLM provider API key，可选 GitHub/Slack 集成；随仓库提供 Dockerfile。README 声明 v1.0、仍在活跃开发，生产部署需自行评估。", "highlights": ["对话优先的任务执行：状态更新、待办分类、backlog 整理走自然语言", "分层管道：意图解析→编排→适配器→AI 推理→回复组装，支持多步链式工作流", "适配器抽象外部服务，编排与推理层与单一供应商解耦", "Apache 2.0 许可，仓库附带 Dockerfile"], "use_cases": ["用对话让 AI 草拟项目状态更新并总结风险", "把日常 PM 琐事（triage、backlog 梳理）转为自然语言交互", "在自有环境自托管运行并接入 GitHub/Slack"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [28, 234]}}, "links": {"scenario_tags": ["AI助手", "产品管理", "多agent/编排", "自托管"], "domain": "产品管理/AI 助手", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Piper Morgan is a Python-based product management assistant that turns routine PM work—standup notes, backlog triage, st", "L49: |**Reasoning layer**|Applies the AI analysis step — summarizing status, spotting risks, drafting updates, or answering q", "L94: |LLM provider API|Yes|Natural-language task handling and analysis|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "victorgassuncao21/piper-morgan-assistant",
+ "sha": "7113a7a900cc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向产品经理的对话式 PM 助手：自然语言处理站会/待办/状态更新",
+  "review": "Piper Morgan 是一个自托管的 Python 产品管理助手应用，以对话为主要界面，接收自然语言请求后经意图解析、编排器、适配器与 AI 推理层，完成状态总结、风险提示、草拟更新、工单分类等 PM 日常工作。支持 Anthropic/OpenAI 提供商配置，需要 PostgreSQL、LLM provider API key，可选 GitHub/Slack 集成；随仓库提供 Dockerfile。README 声明 v1.0、仍在活跃开发，生产部署需自行评估。",
+  "highlights": [
+   "对话优先的任务执行：状态更新、待办分类、backlog 整理走自然语言",
+   "分层管道：意图解析→编排→适配器→AI 推理→回复组装，支持多步链式工作流",
+   "适配器抽象外部服务，编排与推理层与单一供应商解耦",
+   "Apache 2.0 许可，仓库附带 Dockerfile"
+  ],
+  "use_cases": [
+   "用对话让 AI 草拟项目状态更新并总结风险",
+   "把日常 PM 琐事（triage、backlog 梳理）转为自然语言交互",
+   "在自有环境自托管运行并接入 GitHub/Slack"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    28,
+    234
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI助手",
+   "产品管理",
+   "多agent/编排",
+   "自托管"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Piper Morgan is a Python-based product management assistant that turns routine PM work—standup notes, backlog triage, st",
+   "L49: |**Reasoning layer**|Applies the AI analysis step — summarizing status, spotting risks, drafting updates, or answering q",
+   "L94: |LLM provider API|Yes|Natural-language task handling and analysis|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

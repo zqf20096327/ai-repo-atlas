@@ -1,1 +1,76 @@
-{"fn": "olonok69/LLM_Notebooks", "sha": "532e7bcb8bd0", "source": "readme", "identity": {"one_liner": "生成式 AI/LLM/MLOps 教学 notebook 集合，配套 YouTube 频道视频", "review": "个人维护的教程代码仓库，配套其 YouTube 频道 The Machine Learning Engineer 的视频内容：按主题（LangChain、LlamaIndex、RAG、MLOps、Databricks、Computer Vision、Neo4j、Microsoft/Google AI 等）组织成播放列表，每个视频对应仓库中的 Jupyter Notebook 或 VSCode 代码，以 Python 为主、含少量 C#，视频提供英语与西班牙语双版本。README 为播放列表索引，不含 issue 支持（作者声明仅通过 YouTube 评论答疑），仓库本身无统一安装说明。", "highlights": ["覆盖 LangChain（51 视频）、MLOps（100 视频）、RAG（27 视频）等多个主题的配套 notebook 与代码", "英语与西班牙语双语言视频版本", "主题含生成式 AI/LLM、CV、NLP、MLOps、Databricks、Neo4j 图数据科学"], "use_cases": ["跟着视频课程动手学 LLM/MLOps/RAG 相关技术", "按主题查找某个具体技术的示例代码", "西班牙语用户学习机器学习工程内容"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://www.youtube.com/channel/UCqAi1lTsd2wj7p05-Oos4ug", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教学资源", "notebook集合", "LLM", "MLOps", "视频课程配套"], "domain": "AI/ML 教育与知识", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This Repository contains all material supporting the Videos in my YouTube channel The Machine Learning Engineer https://", "L34: - Generative AI, LLM,s, Transformers, CV, NLP and more — 212 videos. YouTube"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "olonok69/LLM_Notebooks",
+ "sha": "532e7bcb8bd0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "生成式 AI/LLM/MLOps 教学 notebook 集合，配套 YouTube 频道视频",
+  "review": "个人维护的教程代码仓库，配套其 YouTube 频道 The Machine Learning Engineer 的视频内容：按主题（LangChain、LlamaIndex、RAG、MLOps、Databricks、Computer Vision、Neo4j、Microsoft/Google AI 等）组织成播放列表，每个视频对应仓库中的 Jupyter Notebook 或 VSCode 代码，以 Python 为主、含少量 C#，视频提供英语与西班牙语双版本。README 为播放列表索引，不含 issue 支持（作者声明仅通过 YouTube 评论答疑），仓库本身无统一安装说明。",
+  "highlights": [
+   "覆盖 LangChain（51 视频）、MLOps（100 视频）、RAG（27 视频）等多个主题的配套 notebook 与代码",
+   "英语与西班牙语双语言视频版本",
+   "主题含生成式 AI/LLM、CV、NLP、MLOps、Databricks、Neo4j 图数据科学"
+  ],
+  "use_cases": [
+   "跟着视频课程动手学 LLM/MLOps/RAG 相关技术",
+   "按主题查找某个具体技术的示例代码",
+   "西班牙语用户学习机器学习工程内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/channel/UCqAi1lTsd2wj7p05-Oos4ug",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教学资源",
+   "notebook集合",
+   "LLM",
+   "MLOps",
+   "视频课程配套"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This Repository contains all material supporting the Videos in my YouTube channel The Machine Learning Engineer https://",
+   "L34: - Generative AI, LLM,s, Transformers, CV, NLP and more — 212 videos. YouTube"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

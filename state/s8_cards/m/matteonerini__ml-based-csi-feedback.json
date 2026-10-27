@@ -1,1 +1,73 @@
-{"fn": "matteonerini/ml-based-csi-feedback", "sha": "4d11ff251d76", "source": "readme", "identity": {"one_liner": "复现 FDD 大规模 MIMO 变长 CSI 反馈论文代码", "review": "复现 2022 年 IEEE Trans. Wireless Commun. 论文“Machine learning-based CSI feedback with variable length in FDD massive MIMO”的代码仓库。提供数据集下载入口与 MATLAB 脚本 main.m，用于生成复现论文图 4 所需结果，结果保存在 results 文件夹。README 未给出安装命令或依赖说明，代码基于 MATLAB（.m 脚本）。适合无线通信研究者验证论文结果。", "highlights": ["MATLAB 脚本 main.m 生成复现论文图 4 的结果", "提供数据集下载入口", "结果保存至 results 文件夹便于复现"], "use_cases": ["复现并验证论文中的 CSI 反馈实验结果", "在变长 CSI 反馈方法基础上开展研究"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CSI反馈", "大规模MIMO", "无线通信", "论文复现代码"], "domain": "无线通信/机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: This repository contains code to reproduce the paper:", "L5: > M. Nerini, V. Rizzello, M. Joham, W. Utschick, B. Clerckx, \"Machine learning-based CSI feedback with variable length i", "L11: The script `main.m` generates the results needed to reproduce Fig. 4 in the paper."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "matteonerini/ml-based-csi-feedback",
+ "sha": "4d11ff251d76",
+ "source": "readme",
+ "identity": {
+  "one_liner": "复现 FDD 大规模 MIMO 变长 CSI 反馈论文代码",
+  "review": "复现 2022 年 IEEE Trans. Wireless Commun. 论文“Machine learning-based CSI feedback with variable length in FDD massive MIMO”的代码仓库。提供数据集下载入口与 MATLAB 脚本 main.m，用于生成复现论文图 4 所需结果，结果保存在 results 文件夹。README 未给出安装命令或依赖说明，代码基于 MATLAB（.m 脚本）。适合无线通信研究者验证论文结果。",
+  "highlights": [
+   "MATLAB 脚本 main.m 生成复现论文图 4 的结果",
+   "提供数据集下载入口",
+   "结果保存至 results 文件夹便于复现"
+  ],
+  "use_cases": [
+   "复现并验证论文中的 CSI 反馈实验结果",
+   "在变长 CSI 反馈方法基础上开展研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CSI反馈",
+   "大规模MIMO",
+   "无线通信",
+   "论文复现代码"
+  ],
+  "domain": "无线通信/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This repository contains code to reproduce the paper:",
+   "L5: > M. Nerini, V. Rizzello, M. Joham, W. Utschick, B. Clerckx, \"Machine learning-based CSI feedback with variable length i",
+   "L11: The script `main.m` generates the results needed to reproduce Fig. 4 in the paper."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

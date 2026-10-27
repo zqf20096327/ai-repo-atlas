@@ -1,1 +1,76 @@
-{"fn": "tigusigalpa/yandexgpt-php", "sha": "5465001493c1", "source": "readme", "identity": {"one_liner": "PHP 开发者接入 YandexGPT/YandexART API 的 SDK", "review": "面向 PHP 8.0+ 项目的 YandexGPT 与 YandexART API SDK，支持文本生成、对话、图像生成（异步与同步封装）及 Conversations API 服务端对话管理；内置 Laravel Service Provider/Facade 与自动发现，也可在非 Laravel 项目中直接使用客户端。自动获取并刷新 OAuth/IAM 令牌（IAM 有效期 12 小时），支持 YandexGPT Lite/Pro、Alice AI 模型及推理模式（Reasoning Mode，仅 Pro 模型，尚不支持流式输出）。经 Composer 安装，云端资源管理依赖配套包 yandex-cloud-client-php。", "highlights": ["覆盖 YandexGPT Lite/Pro/Alice AI 与 YandexART 图像生成", "Laravel 内置支持：Service Provider、Facade、自动发现", "OAuth→IAM 令牌自动获取与刷新（12 小时有效期）", "Conversations API 服务端对话与元素的完整增删改查"], "use_cases": ["在 PHP/Laravel 应用中集成 YandexGPT 文本生成与对话", "构建带历史记录的聊天机器人或客服自动化", "通过 YandexART 生成文章配图等内容图像", "按推理模式处理需要逻辑推理的请求"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["SDK/API 客户端", "LLM 接入", "PHP/Laravel", "图像生成", "俄罗斯云服务"], "domain": "LLM 基础设施/API SDK", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: PHP SDK для YandexGPT API и YandexART. Генерация текста, диалоги, изображения, Conversations API. Работает с любым PHP", "L27: - Laravel: Service Provider, Facade, конфигурация"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tigusigalpa/yandexgpt-php",
+ "sha": "5465001493c1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PHP 开发者接入 YandexGPT/YandexART API 的 SDK",
+  "review": "面向 PHP 8.0+ 项目的 YandexGPT 与 YandexART API SDK，支持文本生成、对话、图像生成（异步与同步封装）及 Conversations API 服务端对话管理；内置 Laravel Service Provider/Facade 与自动发现，也可在非 Laravel 项目中直接使用客户端。自动获取并刷新 OAuth/IAM 令牌（IAM 有效期 12 小时），支持 YandexGPT Lite/Pro、Alice AI 模型及推理模式（Reasoning Mode，仅 Pro 模型，尚不支持流式输出）。经 Composer 安装，云端资源管理依赖配套包 yandex-cloud-client-php。",
+  "highlights": [
+   "覆盖 YandexGPT Lite/Pro/Alice AI 与 YandexART 图像生成",
+   "Laravel 内置支持：Service Provider、Facade、自动发现",
+   "OAuth→IAM 令牌自动获取与刷新（12 小时有效期）",
+   "Conversations API 服务端对话与元素的完整增删改查"
+  ],
+  "use_cases": [
+   "在 PHP/Laravel 应用中集成 YandexGPT 文本生成与对话",
+   "构建带历史记录的聊天机器人或客服自动化",
+   "通过 YandexART 生成文章配图等内容图像",
+   "按推理模式处理需要逻辑推理的请求"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SDK/API 客户端",
+   "LLM 接入",
+   "PHP/Laravel",
+   "图像生成",
+   "俄罗斯云服务"
+  ],
+  "domain": "LLM 基础设施/API SDK",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: PHP SDK для YandexGPT API и YandexART. Генерация текста, диалоги, изображения, Conversations API. Работает с любым PHP",
+   "L27: - Laravel: Service Provider, Facade, конфигурация"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

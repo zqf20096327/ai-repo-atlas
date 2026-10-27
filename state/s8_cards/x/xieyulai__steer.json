@@ -1,1 +1,83 @@
-{"fn": "xieyulai/steer", "sha": "d01f3d95c4a1", "source": "readme", "identity": {"one_liner": "AI4R 自主实验治理框架：冻结任务与评分，agent 只改实现", "review": "面向自动/自主科研（AI for Research）的实验治理模板框架：用户把已有训练项目接入，冻结任务、数据边界、主指标、评测器与时间预算为 contract；agent 仅在 workspace 写代码并多轮搜索，scoreboard 记录每轮 diff/日志/分数，最后经审计由人盖章 keep/park/reject。通过 install.sh 把 17 个技能安装到 ~/.cursor/skills 与 ~/.claude/skills，在 Cursor 或 Claude Code 中以斜杠命令驱动五步循环（打分原仓库→接入→设下界与公开对照→搜索→审计）。支持监督学习、强化学习、物理约束训练等多范式场景示例。", "highlights": ["冻结任务/评分器/证据的 contract 治理机制，agent 不可改考卷", "17 个技能以斜杠命令运行（/auto-nn-init、/auto-nn-auto-run、/auto-nn-audit 等）", "每轮保留 diff、日志与分数的 scoreboard，按 scenario 分列", "审计含复现、多种子与消融，结论由人决定 keep/park/reject"], "use_cases": ["把我已有的训练仓库接入，让 agent 在治理下自主搜索更优实现", "为自主实验设置朴素下界与公开对照两条基准线", "对当前最优结果做复现/多种子/消融审计后再采纳"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI4R/自主科研", "实验治理", "LLM agent", "科研自动化", "PyTorch"], "domain": "科研自动化/机器学习实验", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本（L6）", "提供 Gitee 镜像克隆地址（L57）"]}, "trust": {"confidence": "mid", "evidence": ["L3:  STEER (Steerable and Traceable autonomous Experimentation for Evidence-governed AI Research) is an AI4R (AI for Researc", "L20: That fence is **governance**: the agent searches; the task, the official test, and the evidence stay yours. Health check", "L62: Skills are **linked** into `~/.cursor/skills/` and `~/.claude/skills/`. Your experiment project does not get a copy of `"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xieyulai/steer",
+ "sha": "d01f3d95c4a1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI4R 自主实验治理框架：冻结任务与评分，agent 只改实现",
+  "review": "面向自动/自主科研（AI for Research）的实验治理模板框架：用户把已有训练项目接入，冻结任务、数据边界、主指标、评测器与时间预算为 contract；agent 仅在 workspace 写代码并多轮搜索，scoreboard 记录每轮 diff/日志/分数，最后经审计由人盖章 keep/park/reject。通过 install.sh 把 17 个技能安装到 ~/.cursor/skills 与 ~/.claude/skills，在 Cursor 或 Claude Code 中以斜杠命令驱动五步循环（打分原仓库→接入→设下界与公开对照→搜索→审计）。支持监督学习、强化学习、物理约束训练等多范式场景示例。",
+  "highlights": [
+   "冻结任务/评分器/证据的 contract 治理机制，agent 不可改考卷",
+   "17 个技能以斜杠命令运行（/auto-nn-init、/auto-nn-auto-run、/auto-nn-audit 等）",
+   "每轮保留 diff、日志与分数的 scoreboard，按 scenario 分列",
+   "审计含复现、多种子与消融，结论由人决定 keep/park/reject"
+  ],
+  "use_cases": [
+   "把我已有的训练仓库接入，让 agent 在治理下自主搜索更优实现",
+   "为自主实验设置朴素下界与公开对照两条基准线",
+   "对当前最优结果做复现/多种子/消融审计后再采纳"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI4R/自主科研",
+   "实验治理",
+   "LLM agent",
+   "科研自动化",
+   "PyTorch"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "model-evaluation",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本（L6）",
+   "提供 Gitee 镜像克隆地址（L57）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  STEER (Steerable and Traceable autonomous Experimentation for Evidence-governed AI Research) is an AI4R (AI for Researc",
+   "L20: That fence is **governance**: the agent searches; the task, the official test, and the evidence stay yours. Health check",
+   "L62: Skills are **linked** into `~/.cursor/skills/` and `~/.claude/skills/`. Your experiment project does not get a copy of `"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

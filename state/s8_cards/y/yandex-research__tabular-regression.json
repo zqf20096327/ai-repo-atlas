@@ -1,1 +1,77 @@
-{"fn": "yandex-research/tabular-regression", "sha": "989a2ce190a7", "source": "readme", "identity": {"one_liner": "表格深度回归论文代码：18 种回归目标与早停研究复现", "review": "论文《Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping》的官方代码库：在 41 个 BeyondArena 数据集上比较 18 种回归目标，覆盖 MLP、TabM、TabPack、RealMLP 骨干，并研究不确定性依赖的早停与 AdaQR（联合学习输入依赖平滑与分位数预测）。仓库含调参/评估/集成入口脚本、已发布配置与机器可读报告；数据需从 Figshare 单独下载。环境用 uv 安装（Python 3.12.9 + PyTorch 2.7.1），从仓库根目录运行并用 CUDA_VISIBLE_DEVICES 选择加速器。", "highlights": ["18 种回归目标 × 4 种骨干（MLP/TabM/TabPack/RealMLP）的系统比较", "AdaQR：联合学习输入依赖平滑与分位数预测", "不确定性依赖的 cohort 早停机制（5 或 10 cohorts）", "保留全部调参配置与 15 种子的机器可读评估报告"], "use_cases": ["复现论文中的回归目标比较与 AdaQR 实验", "基于已发布配置在指定数据集上复跑训练与集成", "查阅各数据集的选中超参数与完整评估报告"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["表格数据", "深度回归", "论文代码", "可复现性", "不确定性估计"], "domain": "机器学习/表格数据回归", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: We compare 18 regression objectives on 41 BeyondArena datasets and study selected", "L8: uncertainty-dependent early stopping and Adaptive Quantile Regression (AdaQR),"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yandex-research/tabular-regression",
+ "sha": "989a2ce190a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "表格深度回归论文代码：18 种回归目标与早停研究复现",
+  "review": "论文《Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping》的官方代码库：在 41 个 BeyondArena 数据集上比较 18 种回归目标，覆盖 MLP、TabM、TabPack、RealMLP 骨干，并研究不确定性依赖的早停与 AdaQR（联合学习输入依赖平滑与分位数预测）。仓库含调参/评估/集成入口脚本、已发布配置与机器可读报告；数据需从 Figshare 单独下载。环境用 uv 安装（Python 3.12.9 + PyTorch 2.7.1），从仓库根目录运行并用 CUDA_VISIBLE_DEVICES 选择加速器。",
+  "highlights": [
+   "18 种回归目标 × 4 种骨干（MLP/TabM/TabPack/RealMLP）的系统比较",
+   "AdaQR：联合学习输入依赖平滑与分位数预测",
+   "不确定性依赖的 cohort 早停机制（5 或 10 cohorts）",
+   "保留全部调参配置与 15 种子的机器可读评估报告"
+  ],
+  "use_cases": [
+   "复现论文中的回归目标比较与 AdaQR 实验",
+   "基于已发布配置在指定数据集上复跑训练与集成",
+   "查阅各数据集的选中超参数与完整评估报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "表格数据",
+   "深度回归",
+   "论文代码",
+   "可复现性",
+   "不确定性估计"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: We compare 18 regression objectives on 41 BeyondArena datasets and study selected",
+   "L8: uncertainty-dependent early stopping and Adaptive Quantile Regression (AdaQR),"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

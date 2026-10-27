@@ -1,1 +1,79 @@
-{"fn": "xfbaby/acp-agent-hub", "sha": "9386846f6f5e", "source": "readme", "identity": {"one_liner": "多平台 ACP 客户端：在 VS Code/CLI/手机上连接 11 种 AI 编程 agent", "review": "Agent Client Protocol (ACP) 的开源多平台实现，为 vscode-acp 的 fork 并包含 Windows 修复。以 JSON-RPC 2.0 (stdio/WebSocket) 统一接入 11 个预配置 AI 编程 agent（GitHub Copilot、Claude Code、Gemini CLI、Qwen Code 等），提供 VS Code 扩展（聊天面板、会话树、文件系统集成、权限管理、协议流量日志）、CLI（Commander.js，REPL 与一次性命令）与移动端 App（经 Node.js WebSocket relay 中继，仅聊天、无文件/终端能力），三平台共享 packages/shared 核心库。需 Node.js 18+，主要从源码构建运行。", "highlights": ["11 个预配置 agent 开箱可用，支持下拉切换、自定义 agent 接入", "VS Code 扩展提供聊天 Webview、会话恢复、权限策略与 JSON-RPC 流量日志", "移动端经 WebSocket relay 服务器（SQLite 会话持久化）桥接手机与 agent 进程", "三平台共享同一 ACP 核心库（monorepo，npm workspaces）"], "use_cases": ["在同一个客户端里使用和切换多个 AI 编程 agent，避免工具割裂", "在手机上通过 relay 服务器远程操作桌面上的 agent", "在 VS Code 内调试 agent 的 JSON-RPC 协议交互"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent客户端", "开发工具", "协议桥接", "VS Code扩展", "CLI"], "domain": "开发者工具/AI agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版链接（L19）", "Related Projects 收录 WeChat ACP（L234）"]}, "trust": {"confidence": "high", "evidence": ["L21: **ACP Client** is an open-source, multi-platform implementation of the Agent Client Protocol (ACP). It acts as an **AI a", "L35: The AI coding tool landscape is fragmented. Each agent has its own UI, its own protocol, its own integration point. **AC", "L42: |Proprietary protocols|Open standard (JSON-RPC 2.0 over stdio/WebSocket)|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xfbaby/acp-agent-hub",
+ "sha": "9386846f6f5e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多平台 ACP 客户端：在 VS Code/CLI/手机上连接 11 种 AI 编程 agent",
+  "review": "Agent Client Protocol (ACP) 的开源多平台实现，为 vscode-acp 的 fork 并包含 Windows 修复。以 JSON-RPC 2.0 (stdio/WebSocket) 统一接入 11 个预配置 AI 编程 agent（GitHub Copilot、Claude Code、Gemini CLI、Qwen Code 等），提供 VS Code 扩展（聊天面板、会话树、文件系统集成、权限管理、协议流量日志）、CLI（Commander.js，REPL 与一次性命令）与移动端 App（经 Node.js WebSocket relay 中继，仅聊天、无文件/终端能力），三平台共享 packages/shared 核心库。需 Node.js 18+，主要从源码构建运行。",
+  "highlights": [
+   "11 个预配置 agent 开箱可用，支持下拉切换、自定义 agent 接入",
+   "VS Code 扩展提供聊天 Webview、会话恢复、权限策略与 JSON-RPC 流量日志",
+   "移动端经 WebSocket relay 服务器（SQLite 会话持久化）桥接手机与 agent 进程",
+   "三平台共享同一 ACP 核心库（monorepo，npm workspaces）"
+  ],
+  "use_cases": [
+   "在同一个客户端里使用和切换多个 AI 编程 agent，避免工具割裂",
+   "在手机上通过 relay 服务器远程操作桌面上的 agent",
+   "在 VS Code 内调试 agent 的 JSON-RPC 协议交互"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent客户端",
+   "开发工具",
+   "协议桥接",
+   "VS Code扩展",
+   "CLI"
+  ],
+  "domain": "开发者工具/AI agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版链接（L19）",
+   "Related Projects 收录 WeChat ACP（L234）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: **ACP Client** is an open-source, multi-platform implementation of the Agent Client Protocol (ACP). It acts as an **AI a",
+   "L35: The AI coding tool landscape is fragmented. Each agent has its own UI, its own protocol, its own integration point. **AC",
+   "L42: |Proprietary protocols|Open standard (JSON-RPC 2.0 over stdio/WebSocket)|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

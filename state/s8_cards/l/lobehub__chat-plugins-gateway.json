@@ -1,1 +1,76 @@
-{"fn": "lobehub/chat-plugins-gateway", "sha": "460d21e3847f", "source": "readme", "identity": {"one_liner": "LobeChat 插件网关后端服务：运行插件 Function Calling", "review": "LobeHub 维护的后端网关服务，为 LobeChat 插件生态提供统一的执行入口：主 API POST /api/v1/runner 以 Vercel Edge Function 形式部署，接收插件名与参数并返回执行结果；从 LobeChat Plugins 仓库拉取插件索引（可通过 PLUGINS_INDEX_URL 环境变量自定义）。提供 PROD/DEV 两个公开实例，支持一键部署到 Vercel 自托管，本地开发使用 Bun 运行 git clone 后 bun install / bun dev。面向 LobeChat 插件生态的开发者与自托管用户。", "highlights": ["POST /api/v1/runner 以 Edge Function 运行 LobeChat 插件并返回结果", "支持一键部署到 Vercel，可自定义插件索引 URL", "与 LobeChat 插件索引、插件 SDK、插件模板构成配套生态"], "use_cases": ["自托管 LobeChat 插件网关以私有化运行插件", "为 LobeChat 插件开发调试提供执行入口", "自定义插件索引源运行自有插件列表"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://chat-plugins-gateway.lobehub.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["API网关", "Function Calling", "插件生态", "LLM应用基础设施"], "domain": "LLM 基础设施/插件网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["LobeHub 团队", "README 提供简体中文语言入口"]}, "trust": {"confidence": "high", "evidence": ["L28: LobeChat Plugins Gateway is a backend service that provides a gateway for LobeChat plugins. We use vercel to deploy this", "L94: - [@lobehub/chat-plugins-gateway][chat-plugins-gateway]: The LobeChat Plugins Gateway is a backend service that provides"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lobehub/chat-plugins-gateway",
+ "sha": "460d21e3847f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LobeChat 插件网关后端服务：运行插件 Function Calling",
+  "review": "LobeHub 维护的后端网关服务，为 LobeChat 插件生态提供统一的执行入口：主 API POST /api/v1/runner 以 Vercel Edge Function 形式部署，接收插件名与参数并返回执行结果；从 LobeChat Plugins 仓库拉取插件索引（可通过 PLUGINS_INDEX_URL 环境变量自定义）。提供 PROD/DEV 两个公开实例，支持一键部署到 Vercel 自托管，本地开发使用 Bun 运行 git clone 后 bun install / bun dev。面向 LobeChat 插件生态的开发者与自托管用户。",
+  "highlights": [
+   "POST /api/v1/runner 以 Edge Function 运行 LobeChat 插件并返回结果",
+   "支持一键部署到 Vercel，可自定义插件索引 URL",
+   "与 LobeChat 插件索引、插件 SDK、插件模板构成配套生态"
+  ],
+  "use_cases": [
+   "自托管 LobeChat 插件网关以私有化运行插件",
+   "为 LobeChat 插件开发调试提供执行入口",
+   "自定义插件索引源运行自有插件列表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://chat-plugins-gateway.lobehub.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "Function Calling",
+   "插件生态",
+   "LLM应用基础设施"
+  ],
+  "domain": "LLM 基础设施/插件网关",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "LobeHub 团队",
+   "README 提供简体中文语言入口"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: LobeChat Plugins Gateway is a backend service that provides a gateway for LobeChat plugins. We use vercel to deploy this",
+   "L94: - [@lobehub/chat-plugins-gateway][chat-plugins-gateway]: The LobeChat Plugins Gateway is a backend service that provides"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

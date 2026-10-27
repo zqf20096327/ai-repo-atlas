@@ -33,7 +33,7 @@ WunderCorp 开发的命令行 AI agent，核心机制是学习闭环：从任务
 
 ## 场景标签
 
- · 领域:AI agent / 个人助理
+`AI 助手` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

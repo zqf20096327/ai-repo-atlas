@@ -1,1 +1,78 @@
-{"fn": "tomiholtz/s3-files-ai-sdk", "sha": "829a85801eb5", "source": "readme", "identity": {"one_liner": "端侧模型推理基准评测工具：跨 delegate 汇总延迟/内存/温度", "review": "由 Python CLI（stdlib only）与 Kotlin 设备端核心（JVM/Android，stdlib only）两部分组成的端侧推理基准工具，两部分仅通过行式文本协议（plan/sample）交互。流程为 manifest 校验 → 生成 plan（delegate×batch×threads 笛卡尔积）→ 采集样本 → 汇总为 p50/p90/p99、峰值内存、峰值温度、吞吐与降频标记的确定性报告。两侧使用相同百分位定义，输出可 diff 做回归检查。限制：Kotlin 核心未在作者环境本地编译，依赖 CI（JDK17+Gradle）构建；模板 delegate harness 等仍在路线图中。", "highlights": ["Python/Kotlin 双侧均零第三方依赖，以文本协议交换 plan 与 sample", "每 (model, delegate, config) 组合为一个 tile，聚合 p50/p90/p99、峰值内存/温度与降频标记", "manifest 校验非抛出式，一次列出全部错误/警告，可作 CI 门禁", "报告为确定性 JSON，可用 jq+diff 做回归对比；多样本流可跨设备拼接合并"], "use_cases": ["为手机端模型对比 CPU/GPU/NNAPI/XNNPACK 等 delegate 的延迟与温度表现", "把 manifest 校验接入 CI，拦截结构错误的模型清单", "汇总设备农场多机样本流生成统一基准报告"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["基准测试", "端侧推理", "Android", "评测工具", "移动AI"], "domain": "端侧 AI 基准评测/移动开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5:  Assemble a mosaic of on-device AI benchmarks — one tile per delegate.", "L36: |**Host CLI**|Python 3.9+|Validate manifests, build plans, aggregate samples, render reports|**stdlib only**|", "L83: | Model              | Delegate | n | p50 ms | p90 ms | p99 ms | peak MB | peak C | ips    | throttled |"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tomiholtz/s3-files-ai-sdk",
+ "sha": "829a85801eb5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "端侧模型推理基准评测工具：跨 delegate 汇总延迟/内存/温度",
+  "review": "由 Python CLI（stdlib only）与 Kotlin 设备端核心（JVM/Android，stdlib only）两部分组成的端侧推理基准工具，两部分仅通过行式文本协议（plan/sample）交互。流程为 manifest 校验 → 生成 plan（delegate×batch×threads 笛卡尔积）→ 采集样本 → 汇总为 p50/p90/p99、峰值内存、峰值温度、吞吐与降频标记的确定性报告。两侧使用相同百分位定义，输出可 diff 做回归检查。限制：Kotlin 核心未在作者环境本地编译，依赖 CI（JDK17+Gradle）构建；模板 delegate harness 等仍在路线图中。",
+  "highlights": [
+   "Python/Kotlin 双侧均零第三方依赖，以文本协议交换 plan 与 sample",
+   "每 (model, delegate, config) 组合为一个 tile，聚合 p50/p90/p99、峰值内存/温度与降频标记",
+   "manifest 校验非抛出式，一次列出全部错误/警告，可作 CI 门禁",
+   "报告为确定性 JSON，可用 jq+diff 做回归对比；多样本流可跨设备拼接合并"
+  ],
+  "use_cases": [
+   "为手机端模型对比 CPU/GPU/NNAPI/XNNPACK 等 delegate 的延迟与温度表现",
+   "把 manifest 校验接入 CI，拦截结构错误的模型清单",
+   "汇总设备农场多机样本流生成统一基准报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "端侧推理",
+   "Android",
+   "评测工具",
+   "移动AI"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Assemble a mosaic of on-device AI benchmarks — one tile per delegate.",
+   "L36: |**Host CLI**|Python 3.9+|Validate manifests, build plans, aggregate samples, render reports|**stdlib only**|",
+   "L83: | Model              | Delegate | n | p50 ms | p90 ms | p99 ms | peak MB | peak C | ips    | throttled |"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

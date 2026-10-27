@@ -1,1 +1,89 @@
-{"fn": "KunLabAI/KunFlix", "sha": "0315a3fd92a4", "source": "readme", "identity": {"one_liner": "面向影视广告创作者的 AI 多智能体内容创作平台", "review": "自托管的影视广告 AI 创作平台：基于 AgentScope 多智能体框架，在无限画布中以对话驱动剧本、角色、图像、视频、音乐的生成，生成内容自动存为可复用资产。后端 FastAPI + PostgreSQL，前端 Next.js，提供 dev.py 本地开发、Docker 与云服务器三种启动方式（PostgreSQL 缺失时可自动降级 SQLite）。支持在管理后台配置 OpenAI、Gemini、xAI、DeepSeek、Ollama 等十余家供应商 API Key，含积分计费、用户管理与 Agent 监控。Apache 2.0 附加条款，二次开发等情形需商业授权。", "highlights": ["剧本→角色→视音频→成片的多模态生成链路", "对话驱动的多智能体协作与可扩展 Skills 系统", "支持 OpenAI/Gemini/xAI/DeepSeek/Ollama 等十余家 AI 供应商接入", "dev.py 一键启动，PostgreSQL 缺失可自动降级 SQLite"], "use_cases": ["短剧、品牌广告片、MV 的全流程 AI 创作", "在无限画布中通过对话让智能体生成图像、视频与音乐", "广告团队批量生产竖屏短视频素材"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AIGC", "多智能体", "影视/广告创作", "自托管平台"], "domain": "AI 内容创作/影视广告", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "azure", "xai", "deepseek"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中文为主的 README", "支持阿里百炼、火山引擎、DeepSeek、MiniMax 等国内供应商", "联系邮箱为国内企业域名"]}, "trust": {"confidence": "mid", "evidence": ["L24: KunFlix 是一款**专注于影视广告的AI内容创作Agent平台**，将剧本写作、角色设计、视音频生成、资产管理和智能剪辑全链路打通，让创作者、广告公司和品牌方像拥有一个\"私人好莱坞团队\"一样，高效完成从0到1的完整影视作品。", "L37: ### 🎨 全链路多模态", "L55: |🎬 **多媒体制作**|视频生成、动画短片、短剧成片、广告宣传片|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "KunLabAI/KunFlix",
+ "sha": "0315a3fd92a4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向影视广告创作者的 AI 多智能体内容创作平台",
+  "review": "自托管的影视广告 AI 创作平台：基于 AgentScope 多智能体框架，在无限画布中以对话驱动剧本、角色、图像、视频、音乐的生成，生成内容自动存为可复用资产。后端 FastAPI + PostgreSQL，前端 Next.js，提供 dev.py 本地开发、Docker 与云服务器三种启动方式（PostgreSQL 缺失时可自动降级 SQLite）。支持在管理后台配置 OpenAI、Gemini、xAI、DeepSeek、Ollama 等十余家供应商 API Key，含积分计费、用户管理与 Agent 监控。Apache 2.0 附加条款，二次开发等情形需商业授权。",
+  "highlights": [
+   "剧本→角色→视音频→成片的多模态生成链路",
+   "对话驱动的多智能体协作与可扩展 Skills 系统",
+   "支持 OpenAI/Gemini/xAI/DeepSeek/Ollama 等十余家 AI 供应商接入",
+   "dev.py 一键启动，PostgreSQL 缺失可自动降级 SQLite"
+  ],
+  "use_cases": [
+   "短剧、品牌广告片、MV 的全流程 AI 创作",
+   "在无限画布中通过对话让智能体生成图像、视频与音乐",
+   "广告团队批量生产竖屏短视频素材"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AIGC",
+   "多智能体",
+   "影视/广告创作",
+   "自托管平台"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "azure",
+   "xai",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "multimodal",
+   "image-generation",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文为主的 README",
+   "支持阿里百炼、火山引擎、DeepSeek、MiniMax 等国内供应商",
+   "联系邮箱为国内企业域名"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L24: KunFlix 是一款**专注于影视广告的AI内容创作Agent平台**，将剧本写作、角色设计、视音频生成、资产管理和智能剪辑全链路打通，让创作者、广告公司和品牌方像拥有一个\"私人好莱坞团队\"一样，高效完成从0到1的完整影视作品。",
+   "L37: ### 🎨 全链路多模态",
+   "L55: |🎬 **多媒体制作**|视频生成、动画短片、短剧成片、广告宣传片|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

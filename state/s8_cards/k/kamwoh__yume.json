@@ -1,1 +1,85 @@
-{"fn": "kamwoh/yume", "sha": "8a35516835e4", "source": "readme", "identity": {"one_liner": "基于 Godot 的可编程显式世界模型引擎，世界以纯 JSON 描述并解释执行", "review": "运行于 Godot 4.6.1 之上的世界模拟引擎：用七个原语（Entity/Tag/Rule/Trigger/Effect/Query/Relation）以纯 JSON 描述世界的实体与规则，固定解释器逐 tick 推进状态，Godot 仅作只读投影层渲染为画面/音频/HUD。仓库由 Claude 编写，推荐通过 Claude Code 以自然语言驱动生成流水线（/yume-design 从散文提案生成完整游戏，/yume-create-scene 生成 3D 场景），也可手写 JSON 或运行内置 Sokoban 等示例，无需 API key。定位为游戏、强化学习/agent 评测测试床与神经世界模型训练数据来源的研究基底。当前为 pre-1.0 实验状态，七原语与 JSON schema 尚未冻结。", "highlights": ["世界状态与转移函数以纯 JSON 表达，固定解释器逐 tick 推进，Godot 只作只读投影", "七原语词汇表（Entity/Tag/Rule/Trigger/Effect/Query/Relation），引擎不含游戏特定代码", "/yume-design 流水线由 Claude 编排，散文提案端到端生成可玩游戏（含 shooter/racing 等类型专用专家）", "确定性、可设定种子的 gym 式步进（ADR 0060）与外部 agent IPC 接口（ADR 0020）"], "use_cases": ["用自然语言让 Claude 生成并运行一个小游戏", "为强化学习与 agent 评测搭建确定性、可复现的环境", "滚动展开 JSON 世界录制 (state, action, next_state) 轨迹作为神经世界模型训练数据", "研究 LLM 只生成世界规则（而非引擎代码）的游戏生成路径"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [30, 31]}}, "links": {"scenario_tags": ["世界模型", "游戏引擎", "LLM 代码生成", "程序化生成", "仿真/强化学习环境"], "domain": "游戏引擎/AI 研究基底", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L36: You describe a world in plain English. An LLM writes the JSON. A fixed", "L127: **JSON**, and an LLM (Claude) compiles prose into JSON. The world model is", "L187: > Claude wrote **all of this framework**. The author reviewed the code,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kamwoh/yume",
+ "sha": "8a35516835e4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Godot 的可编程显式世界模型引擎，世界以纯 JSON 描述并解释执行",
+  "review": "运行于 Godot 4.6.1 之上的世界模拟引擎：用七个原语（Entity/Tag/Rule/Trigger/Effect/Query/Relation）以纯 JSON 描述世界的实体与规则，固定解释器逐 tick 推进状态，Godot 仅作只读投影层渲染为画面/音频/HUD。仓库由 Claude 编写，推荐通过 Claude Code 以自然语言驱动生成流水线（/yume-design 从散文提案生成完整游戏，/yume-create-scene 生成 3D 场景），也可手写 JSON 或运行内置 Sokoban 等示例，无需 API key。定位为游戏、强化学习/agent 评测测试床与神经世界模型训练数据来源的研究基底。当前为 pre-1.0 实验状态，七原语与 JSON schema 尚未冻结。",
+  "highlights": [
+   "世界状态与转移函数以纯 JSON 表达，固定解释器逐 tick 推进，Godot 只作只读投影",
+   "七原语词汇表（Entity/Tag/Rule/Trigger/Effect/Query/Relation），引擎不含游戏特定代码",
+   "/yume-design 流水线由 Claude 编排，散文提案端到端生成可玩游戏（含 shooter/racing 等类型专用专家）",
+   "确定性、可设定种子的 gym 式步进（ADR 0060）与外部 agent IPC 接口（ADR 0020）"
+  ],
+  "use_cases": [
+   "用自然语言让 Claude 生成并运行一个小游戏",
+   "为强化学习与 agent 评测搭建确定性、可复现的环境",
+   "滚动展开 JSON 世界录制 (state, action, next_state) 轨迹作为神经世界模型训练数据",
+   "研究 LLM 只生成世界规则（而非引擎代码）的游戏生成路径"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    30,
+    31
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "世界模型",
+   "游戏引擎",
+   "LLM 代码生成",
+   "程序化生成",
+   "仿真/强化学习环境"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L36: You describe a world in plain English. An LLM writes the JSON. A fixed",
+   "L127: **JSON**, and an LLM (Claude) compiles prose into JSON. The world model is",
+   "L187: > Claude wrote **all of this framework**. The author reviewed the code,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

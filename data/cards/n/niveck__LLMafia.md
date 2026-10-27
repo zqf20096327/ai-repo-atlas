@@ -33,7 +33,7 @@ EMNLP 2025 Findings 论文 "Time to Talk" 的开源代码与数据：构建一�
 
 ## 场景标签
 
- · 领域:NLP 研究/LLM Agent
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

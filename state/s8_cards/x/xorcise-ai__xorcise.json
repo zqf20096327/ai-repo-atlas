@@ -1,1 +1,80 @@
-{"fn": "xorcise-ai/xorcise", "sha": "6062eb5a6dba", "source": "readme", "identity": {"one_liner": "网络安全 AI agent 实战评测平台：隔离环境执行任务并记录证据评分", "review": "面向安全测试场景的 agent 评测引擎：让 cyber-AI agent 在隔离的 Docker 环境中执行真实任务（mission），以 OpenTelemetry 记录每条命令、工具调用与失败路径，用确定性检查加自带模型 judge 对证据评分，输出 trace、报告（Markdown/HTML/JSONL）与排行榜。支持 OpenHands、Claude Code、Codex CLI 及自定义 agent 接入。每次运行使用独立私有网络与一次性环境。任务目标刻意含漏洞（SQL 注入、IDOR 等），仅限自有或获书面授权的系统；商业托管层不开源。", "highlights": ["OpenTelemetry 记录 agent 全部命令、工具调用与消息形成 trace", "确定性检查 + bring-your-own-model judge 双重评分", "每次运行独立私有网络与一次性环境，agent 无法触达宿主机", "支持 OpenHands/Claude Code/Codex CLI 及 REST 提交的自定义 agent"], "use_cases": ["评测我的安全 agent 在真实漏洞任务中的完整行为而非仅结果", "审计 agent 过程中的破坏性命令与失败路径", "跨多次运行对 agent 排名对比"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent评测", "网络安全/红队", "可观测性", "CTF", "基准测试"], "domain": "网络安全/AI agent 评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L24: it tried on the way there. XORCISE runs the agent against a live target inside a contained", "L25: environment, records every command, tool call and dead end as OpenTelemetry evidence, and", "L62: |**Score**|deterministic checks plus a bring-your-own-model judge|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xorcise-ai/xorcise",
+ "sha": "6062eb5a6dba",
+ "source": "readme",
+ "identity": {
+  "one_liner": "网络安全 AI agent 实战评测平台：隔离环境执行任务并记录证据评分",
+  "review": "面向安全测试场景的 agent 评测引擎：让 cyber-AI agent 在隔离的 Docker 环境中执行真实任务（mission），以 OpenTelemetry 记录每条命令、工具调用与失败路径，用确定性检查加自带模型 judge 对证据评分，输出 trace、报告（Markdown/HTML/JSONL）与排行榜。支持 OpenHands、Claude Code、Codex CLI 及自定义 agent 接入。每次运行使用独立私有网络与一次性环境。任务目标刻意含漏洞（SQL 注入、IDOR 等），仅限自有或获书面授权的系统；商业托管层不开源。",
+  "highlights": [
+   "OpenTelemetry 记录 agent 全部命令、工具调用与消息形成 trace",
+   "确定性检查 + bring-your-own-model judge 双重评分",
+   "每次运行独立私有网络与一次性环境，agent 无法触达宿主机",
+   "支持 OpenHands/Claude Code/Codex CLI 及 REST 提交的自定义 agent"
+  ],
+  "use_cases": [
+   "评测我的安全 agent 在真实漏洞任务中的完整行为而非仅结果",
+   "审计 agent 过程中的破坏性命令与失败路径",
+   "跨多次运行对 agent 排名对比"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent评测",
+   "网络安全/红队",
+   "可观测性",
+   "CTF",
+   "基准测试"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "cybersecurity",
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: it tried on the way there. XORCISE runs the agent against a live target inside a contained",
+   "L25: environment, records every command, tool call and dead end as OpenTelemetry evidence, and",
+   "L62: |**Score**|deterministic checks plus a bring-your-own-model judge|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

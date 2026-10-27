@@ -1,1 +1,78 @@
-{"fn": "leyna64/companella", "sha": "150e6f2f0def", "source": "readme", "identity": {"one_liner": "osu!mania 玩家与谱师的练习辅助桌面工具", "review": "面向 osu!mania 玩家和谱面制作者的 Windows 桌面伴侣程序：对本地谱面库建立 MSD 难度与 pattern 索引，基于会话数据生成个性化练习谱面推荐与训练计划，追踪 8 项技能集趋势；另提供变速谱生成、马拉松谱合成（含背景合成与 glitch 特效）、Dan 段位训练、BPM/SV/Offset 等制谱工具及游戏内覆盖层。通过安装包分发，自动连接 osu!；Dan 评级功能附有实验性声明。", "highlights": ["基于 MinaCalc MSD 的本地谱面索引与个性化推荐（Push/Consistency/Deficit Fixing 等模式）", "单人/批量变速谱生成与马拉松谱合成（含复合背景与 glitch 特效）", "8 项技能集趋势分析与实时会话追踪", "BPM 音频分析、SV 标准化、Offset 调整等制谱工具"], "use_cases": ["我想追踪自己的 osu!mania 技能进步并找出弱项", "我想让工具根据当前水平推荐练习谱并生成训练计划", "我想批量生成变速谱或把多张谱合成马拉松图"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://www.erdbee.re/", "self_declared_early": {"flag": false, "lines": [33], "note": "仅 Dan 评级功能标注实验性，非产品整体"}}, "links": {"scenario_tags": ["游戏工具", "技能分析", "节奏游戏", "桌面应用", "练习规划"], "domain": "游戏/桌面工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L31: A powerful companion tool for osu!mania players and mappers. Track your progress, get personalized practice recommendati", "L134: Get personalized beatmap recommendations based on your current skill level and goals."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "leyna64/companella",
+ "sha": "150e6f2f0def",
+ "source": "readme",
+ "identity": {
+  "one_liner": "osu!mania 玩家与谱师的练习辅助桌面工具",
+  "review": "面向 osu!mania 玩家和谱面制作者的 Windows 桌面伴侣程序：对本地谱面库建立 MSD 难度与 pattern 索引，基于会话数据生成个性化练习谱面推荐与训练计划，追踪 8 项技能集趋势；另提供变速谱生成、马拉松谱合成（含背景合成与 glitch 特效）、Dan 段位训练、BPM/SV/Offset 等制谱工具及游戏内覆盖层。通过安装包分发，自动连接 osu!；Dan 评级功能附有实验性声明。",
+  "highlights": [
+   "基于 MinaCalc MSD 的本地谱面索引与个性化推荐（Push/Consistency/Deficit Fixing 等模式）",
+   "单人/批量变速谱生成与马拉松谱合成（含复合背景与 glitch 特效）",
+   "8 项技能集趋势分析与实时会话追踪",
+   "BPM 音频分析、SV 标准化、Offset 调整等制谱工具"
+  ],
+  "use_cases": [
+   "我想追踪自己的 osu!mania 技能进步并找出弱项",
+   "我想让工具根据当前水平推荐练习谱并生成训练计划",
+   "我想批量生成变速谱或把多张谱合成马拉松图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.erdbee.re/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    33
+   ],
+   "note": "仅 Dan 评级功能标注实验性，非产品整体"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏工具",
+   "技能分析",
+   "节奏游戏",
+   "桌面应用",
+   "练习规划"
+  ],
+  "domain": "游戏/桌面工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L31: A powerful companion tool for osu!mania players and mappers. Track your progress, get personalized practice recommendati",
+   "L134: Get personalized beatmap recommendations based on your current skill level and goals."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

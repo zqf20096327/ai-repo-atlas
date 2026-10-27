@@ -1,1 +1,77 @@
-{"fn": "merantix-momentum/entquant", "sha": "249c0293b0c0", "source": "readme", "identity": {"one_liner": "给开发者的 LLM 无数据量化压缩库：8 位精度存 2 位体积", "review": "EntQuant 是面向 LLM 的后训练压缩库：权重保持 Float8/Int8 高精度格式，通过可微熵正则优化（以 L1 范数代理 Shannon 熵）使权重分布趋向低熵，再用 GPU 加速的 nvCOMP ANS 编解码器无损压缩，达到约 2 bits/参数的有效码率。无需校准数据与恢复训练，支持加载时即时 GPU 解压与逐块流式处理（完整模型不驻留内存）。以 Python 库提供，要求 Python>=3.11 与 CUDA GPU，依赖 NVIDIA nvCOMP 与 nvcc（后端 JIT 编译）。", "highlights": ["8 位精度下实现低至约 2 bits/参数的压缩，码率连续可调（LAMBDA）", "数据无关：无需校准数据与恢复训练，适用于指令微调与推理模型", "单 GPU 10 分钟内压缩 70B 模型，块流式架构避免全模型驻留内存", "ANS 压缩在加载时即时完成，解压集成进推理前向过程"], "use_cases": ["把大模型压到 2-4 bit 存储并直接推理加载", "无校准数据场景下快速压缩任意 HuggingFace 模型", "复现论文实验或批量压缩对比实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/2601.22787", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["模型压缩", "量化", "熵编码", "LLM 推理优化"], "domain": "LLM 压缩/推理基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L20: EntQuant breaks this coupling. It keeps weights in a high-precision 8-bit format (Float8 or Int8) but optimizes their", "L162:  It wraps a standard HuggingFace model and manages quantization, compression, and serialization.", "L166: - **`optimum-quanto`** provides the quantization primitives (`QLinear`, `WeightQBytesTensor`). EntQuant adds a custom"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "merantix-momentum/entquant",
+ "sha": "249c0293b0c0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的 LLM 无数据量化压缩库：8 位精度存 2 位体积",
+  "review": "EntQuant 是面向 LLM 的后训练压缩库：权重保持 Float8/Int8 高精度格式，通过可微熵正则优化（以 L1 范数代理 Shannon 熵）使权重分布趋向低熵，再用 GPU 加速的 nvCOMP ANS 编解码器无损压缩，达到约 2 bits/参数的有效码率。无需校准数据与恢复训练，支持加载时即时 GPU 解压与逐块流式处理（完整模型不驻留内存）。以 Python 库提供，要求 Python>=3.11 与 CUDA GPU，依赖 NVIDIA nvCOMP 与 nvcc（后端 JIT 编译）。",
+  "highlights": [
+   "8 位精度下实现低至约 2 bits/参数的压缩，码率连续可调（LAMBDA）",
+   "数据无关：无需校准数据与恢复训练，适用于指令微调与推理模型",
+   "单 GPU 10 分钟内压缩 70B 模型，块流式架构避免全模型驻留内存",
+   "ANS 压缩在加载时即时完成，解压集成进推理前向过程"
+  ],
+  "use_cases": [
+   "把大模型压到 2-4 bit 存储并直接推理加载",
+   "无校准数据场景下快速压缩任意 HuggingFace 模型",
+   "复现论文实验或批量压缩对比实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2601.22787",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型压缩",
+   "量化",
+   "熵编码",
+   "LLM 推理优化"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-quantization"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: EntQuant breaks this coupling. It keeps weights in a high-precision 8-bit format (Float8 or Int8) but optimizes their",
+   "L162:  It wraps a standard HuggingFace model and manages quantization, compression, and serialization.",
+   "L166: - **`optimum-quanto`** provides the quantization primitives (`QLinear`, `WeightQBytesTensor`). EntQuant adds a custom"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

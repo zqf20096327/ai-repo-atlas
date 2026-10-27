@@ -1,1 +1,75 @@
-{"fn": "kennethleungty/claude-music", "sha": "bd140a0d7c79", "source": "readme", "identity": {"one_liner": "在 Claude Code 会话中播放背景音乐的插件，含 AI DJ 选曲", "review": "面向 Claude Code 用户的开源音乐插件：从 SomaFM 与 24/7 YouTube 直播流等免费电台（8 种曲风、30+ 电台）在线播放背景音乐，通过 /play、/next 等斜杠命令控制，支持 macOS/Linux/Windows/WSL2 上的 mpv、ffplay、afplay 等播放器自动检测。内置 AI DJ（DJ Ken）可读取会话上下文自动选曲或按用户口述心情选曲，并随使用学习偏好；另提供番茄钟专注计时、状态栏显示、本地偏好持久化与自定义电台源管理。经 Claude Code 插件市场安装。", "highlights": ["8 种曲风、30+ 免费无广告电台流（SomaFM 与 YouTube 直播）", "AI DJ 读取会话上下文自动选曲，并随使用学习偏好", "/focus 番茄钟计时，结束音乐淡出并播放提示音", "跨平台音频播放器自动检测与引导安装"], "use_cases": ["编码会话中播放背景音乐辅助专注", "让 AI DJ 根据当前工作内容自动切换曲风", "用番茄钟音乐计时器安排专注时段"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Claude Code 插件", "音乐播放", "AI DJ", "开发者体验", "终端工具"], "domain": "开发者工具/音乐娱乐", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: Enjoy great music and vibes while Claude Code does the heavy lifting. Lofi, jazz, classical, ambient, and more — streami", "L64: The plugin includes a resident AI DJ (DJ Ken) that picks the right music for you. Debugging? He switches to lofi. Deep i"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kennethleungty/claude-music",
+ "sha": "bd140a0d7c79",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Claude Code 会话中播放背景音乐的插件，含 AI DJ 选曲",
+  "review": "面向 Claude Code 用户的开源音乐插件：从 SomaFM 与 24/7 YouTube 直播流等免费电台（8 种曲风、30+ 电台）在线播放背景音乐，通过 /play、/next 等斜杠命令控制，支持 macOS/Linux/Windows/WSL2 上的 mpv、ffplay、afplay 等播放器自动检测。内置 AI DJ（DJ Ken）可读取会话上下文自动选曲或按用户口述心情选曲，并随使用学习偏好；另提供番茄钟专注计时、状态栏显示、本地偏好持久化与自定义电台源管理。经 Claude Code 插件市场安装。",
+  "highlights": [
+   "8 种曲风、30+ 免费无广告电台流（SomaFM 与 YouTube 直播）",
+   "AI DJ 读取会话上下文自动选曲，并随使用学习偏好",
+   "/focus 番茄钟计时，结束音乐淡出并播放提示音",
+   "跨平台音频播放器自动检测与引导安装"
+  ],
+  "use_cases": [
+   "编码会话中播放背景音乐辅助专注",
+   "让 AI DJ 根据当前工作内容自动切换曲风",
+   "用番茄钟音乐计时器安排专注时段"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 插件",
+   "音乐播放",
+   "AI DJ",
+   "开发者体验",
+   "终端工具"
+  ],
+  "domain": "开发者工具/音乐娱乐",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Enjoy great music and vibes while Claude Code does the heavy lifting. Lofi, jazz, classical, ambient, and more — streami",
+   "L64: The plugin includes a resident AI DJ (DJ Ken) that picks the right music for you. Debugging? He switches to lofi. Deep i"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ CrewClaw 是一个本地优先的 AI Employee OS（Beta 0.8 prerelease），面�
 
 ## 场景标签
 
- · 领域:AI agent 平台/工具
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

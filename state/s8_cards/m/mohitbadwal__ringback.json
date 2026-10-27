@@ -1,1 +1,79 @@
-{"fn": "mohitbadwal/ringback", "sha": "e7240c91c18d", "source": "readme", "identity": {"one_liner": "让 AI agent 通过 SIP 打电话给用户的 MCP 服务器套件", "review": "ringback 提供两个 MCP 服务器：ringback-voice 让 LLM 通过免费 Linphone SIP 账号拨打用户手机并双向通话（whisper.cpp STT + Piper/say TTS，支持 barge-in 打断），ringback-alert 提供 ntfy/Pushover/SIP 分级通知。全链路自托管、无付费电话服务、无需额外对话 API key，MCP 客户端驱动的模型即语音大脑。支持 macOS/Linux 原生与 Windows（WSL2/Docker）。限制：原生安装需从源码编译 pjsua2（约 20-30 分钟），每轮语音约 1-2 秒延迟，无回声消除，语音功能涉及 GPL 依赖。", "highlights": ["ringback-voice 提供实时可打断的双向电话会话（call_start/converse/call_end）", "whisper.cpp 语音识别 + Piper/say TTS，含 barge-in 打断机制", "完全免费自托管：pjsua2 + Linphone SIP，无需 Twilio 或额外 API key", "ringback-alert 支持 ntfy/Pushover/SIP 三通道分级告警"], "use_cases": ["部署失败等紧急事件时让 agent 直接打电话通知我并对话决策", "离开电脑时通过手机接听 agent 来电处理事务", "为 MCP 客户端接入分级告警通道替代普通推送"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "语音通话", "agent通知", "SIP电话", "自托管"], "domain": "AI Agent 基础设施/语音通信", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: **ringback** gives an LLM (Claude, or any MCP client) tools to **reach you on your phone** — from a one-way \"fierce\" ale", "L18: It ships two MCP servers, `ringback-alert` and `ringback-voice`:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mohitbadwal/ringback",
+ "sha": "e7240c91c18d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 通过 SIP 打电话给用户的 MCP 服务器套件",
+  "review": "ringback 提供两个 MCP 服务器：ringback-voice 让 LLM 通过免费 Linphone SIP 账号拨打用户手机并双向通话（whisper.cpp STT + Piper/say TTS，支持 barge-in 打断），ringback-alert 提供 ntfy/Pushover/SIP 分级通知。全链路自托管、无付费电话服务、无需额外对话 API key，MCP 客户端驱动的模型即语音大脑。支持 macOS/Linux 原生与 Windows（WSL2/Docker）。限制：原生安装需从源码编译 pjsua2（约 20-30 分钟），每轮语音约 1-2 秒延迟，无回声消除，语音功能涉及 GPL 依赖。",
+  "highlights": [
+   "ringback-voice 提供实时可打断的双向电话会话（call_start/converse/call_end）",
+   "whisper.cpp 语音识别 + Piper/say TTS，含 barge-in 打断机制",
+   "完全免费自托管：pjsua2 + Linphone SIP，无需 Twilio 或额外 API key",
+   "ringback-alert 支持 ntfy/Pushover/SIP 三通道分级告警"
+  ],
+  "use_cases": [
+   "部署失败等紧急事件时让 agent 直接打电话通知我并对话决策",
+   "离开电脑时通过手机接听 agent 来电处理事务",
+   "为 MCP 客户端接入分级告警通道替代普通推送"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "语音通话",
+   "agent通知",
+   "SIP电话",
+   "自托管"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **ringback** gives an LLM (Claude, or any MCP client) tools to **reach you on your phone** — from a one-way \"fierce\" ale",
+   "L18: It ships two MCP servers, `ringback-alert` and `ringback-voice`:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

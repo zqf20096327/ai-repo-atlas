@@ -1,1 +1,81 @@
-{"fn": "peers-labs/peers-touch", "sha": "b8c1d0c06a0b", "source": "readme", "identity": {"one_liner": "去中心化 P2P 社交网络，含个人 AI 助手与自托管 Station", "review": "自托管、点对点的社交网络服务：每个用户运行或加入一个 Station（部署于 NAS、树莓派或云虚拟机的个人服务器），持有自己的身份、联系人、消息与内容；Station 间通过开放协议互联形成联邦网络，类比电子邮件的跨站通信。功能含端到端加密聊天、好友动态（Moments）、跨站加好友、Applet 扩展，以及可选模型与权限规则的个人 AI 助手。macOS 桌面端与 Android/iOS 应用（开发中），语音视频通话与端到端加密尚在开发，下载链接未发布。开发者需以 Go+PostgreSQL+Docker 从源码构建运行。", "highlights": ["Station 个人服务器模式，社交数据由用户持有", "Station 间通过开放协议联邦互联（libp2p 身份）", "个人 AI 助手：可选模型、工具、上下文与权限设置", "支持在 Station 上安装 Applet 扩展"], "use_cases": ["在自有设备上搭建社交空间，掌控自己的社交数据", "与运行在不同 Station 上的好友跨站聊天与分享动态", "在自己设备与数据上运行可定制模型与规则的个人 AI 助手"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [37, 41]}}, "links": {"scenario_tags": ["去中心化社交", "P2P", "自托管", "AI助手", "联邦网络"], "domain": "社交网络/去中心化应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: **Chat, share, and stay connected — on a social network nobody else controls.**", "L15: Agent — Personal AI assistant with tools, context, and permissions", "L23: - **Ask your AI** — an assistant on your devices and your data. Pick your model, set the rules."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "peers-labs/peers-touch",
+ "sha": "b8c1d0c06a0b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "去中心化 P2P 社交网络，含个人 AI 助手与自托管 Station",
+  "review": "自托管、点对点的社交网络服务：每个用户运行或加入一个 Station（部署于 NAS、树莓派或云虚拟机的个人服务器），持有自己的身份、联系人、消息与内容；Station 间通过开放协议互联形成联邦网络，类比电子邮件的跨站通信。功能含端到端加密聊天、好友动态（Moments）、跨站加好友、Applet 扩展，以及可选模型与权限规则的个人 AI 助手。macOS 桌面端与 Android/iOS 应用（开发中），语音视频通话与端到端加密尚在开发，下载链接未发布。开发者需以 Go+PostgreSQL+Docker 从源码构建运行。",
+  "highlights": [
+   "Station 个人服务器模式，社交数据由用户持有",
+   "Station 间通过开放协议联邦互联（libp2p 身份）",
+   "个人 AI 助手：可选模型、工具、上下文与权限设置",
+   "支持在 Station 上安装 Applet 扩展"
+  ],
+  "use_cases": [
+   "在自有设备上搭建社交空间，掌控自己的社交数据",
+   "与运行在不同 Station 上的好友跨站聊天与分享动态",
+   "在自己设备与数据上运行可定制模型与规则的个人 AI 助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    37,
+    41
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "去中心化社交",
+   "P2P",
+   "自托管",
+   "AI助手",
+   "联邦网络"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Chat, share, and stay connected — on a social network nobody else controls.**",
+   "L15: Agent — Personal AI assistant with tools, context, and permissions",
+   "L23: - **Ask your AI** — an assistant on your devices and your data. Pick your model, set the rules."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

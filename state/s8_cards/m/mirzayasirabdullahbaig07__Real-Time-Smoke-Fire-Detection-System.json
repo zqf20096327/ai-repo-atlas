@@ -1,1 +1,77 @@
-{"fn": "mirzayasirabdullahbaig07/Real-Time-Smoke-Fire-Detection-System", "sha": "31b01a4e0f25", "source": "readme", "identity": {"one_liner": "基于 YOLO11 的火烟实时检测系统，支持图片/视频/摄像头", "review": "端到端计算机视觉应用：使用自定义训练的 YOLO11 权重对图片、视频（逐帧处理）和实时摄像头流检测火焰与烟雾，输出标注边界框与置信度。附加功能包括 CLAHE 低光照增强预处理、推理分辨率/跳帧/置信度阈值等性能调节项、浏览器可播放的 H.264 MP4 输出，以及检测触发时经 Gmail SMTP 发送带截图的邮件告警（60 秒冷却）。以 Streamlit 网页应用形式提供，从源码安装运行，声明仅用于教育与科研目的。", "highlights": ["图片/视频/实时摄像头三种输入源的 YOLO11 火烟检测", "CLAHE 低光照图像增强预处理", "检测触发 Gmail SMTP 邮件告警（附检测截图，60 秒冷却）", "推理分辨率、跳帧、置信度阈值等实时性能调节"], "use_cases": ["上传图片或视频检查其中是否有火焰与烟雾", "用摄像头做实时火烟监控并接收邮件告警", "低光照环境下增强图像后再做检测"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://github.com/user-attachments/assets/27f18478-6ced-4087-9b68-d161c46659c9", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["计算机视觉", "目标检测", "YOLO11", "安防监控", "Streamlit应用"], "domain": "计算机视觉/安全监测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: This end-to-end Computer Vision application uses custom-trained YOLO11 weights to detect **fire** and **smoke** across m", "L132: |**Model**|YOLO11 / Ultralytics|Fire and smoke object detection|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mirzayasirabdullahbaig07/Real-Time-Smoke-Fire-Detection-System",
+ "sha": "31b01a4e0f25",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 YOLO11 的火烟实时检测系统，支持图片/视频/摄像头",
+  "review": "端到端计算机视觉应用：使用自定义训练的 YOLO11 权重对图片、视频（逐帧处理）和实时摄像头流检测火焰与烟雾，输出标注边界框与置信度。附加功能包括 CLAHE 低光照增强预处理、推理分辨率/跳帧/置信度阈值等性能调节项、浏览器可播放的 H.264 MP4 输出，以及检测触发时经 Gmail SMTP 发送带截图的邮件告警（60 秒冷却）。以 Streamlit 网页应用形式提供，从源码安装运行，声明仅用于教育与科研目的。",
+  "highlights": [
+   "图片/视频/实时摄像头三种输入源的 YOLO11 火烟检测",
+   "CLAHE 低光照图像增强预处理",
+   "检测触发 Gmail SMTP 邮件告警（附检测截图，60 秒冷却）",
+   "推理分辨率、跳帧、置信度阈值等实时性能调节"
+  ],
+  "use_cases": [
+   "上传图片或视频检查其中是否有火焰与烟雾",
+   "用摄像头做实时火烟监控并接收邮件告警",
+   "低光照环境下增强图像后再做检测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/27f18478-6ced-4087-9b68-d161c46659c9",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "目标检测",
+   "YOLO11",
+   "安防监控",
+   "Streamlit应用"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: This end-to-end Computer Vision application uses custom-trained YOLO11 weights to detect **fire** and **smoke** across m",
+   "L132: |**Model**|YOLO11 / Ultralytics|Fire and smoke object detection|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

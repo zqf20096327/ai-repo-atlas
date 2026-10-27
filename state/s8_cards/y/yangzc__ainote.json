@@ -1,1 +1,88 @@
-{"fn": "yangzc/ainote", "sha": "c08abdcc661a", "source": "readme", "identity": {"one_liner": "自托管 AI Agent 工作流平台：可视化编排、知识库 RAG、数字员工", "review": "面向构建智能应用的开源自托管平台：提供可视化工作流编辑器（分支/循环/AI 节点）、拖拽式表单构建器（16+ 字段类型）与数据管理；知识库支持文档摄取、pgvector 向量检索与 RAG 流水线；多模型 LLM 接入（OpenAI、DeepSeek、Qwen、OneAPI 代理）。数字员工可通过 iframe/JS SDK 嵌入第三方站点，或经钉钉、企微等网关渠道对话。提供 Tauri 桌面客户端与多租户组织管理。部署方式包括 GHCR 预构建镜像、源码 Docker Compose 与裸机手动安装；裸机需 Node.js≥20、pnpm≥8、PostgreSQL≥15（pgvector 扩展），Temporal 为推荐组件。", "highlights": ["可视化工作流编辑器（分支、循环、AI 节点）", "知识库 RAG：文档摄取 + pgvector 向量检索", "数字员工可经 iframe/JS SDK 嵌入或钉钉/企微渠道对话", "GHCR 预构建镜像一条 Docker 命令部署"], "use_cases": ["搭建带知识库问答的智能客服数字员工", "通过拖拽方式编排 AI 工作流并发布表单收集数据", "在钉钉/企微内接入 AI 对话机器人"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["低代码/无代码", "AI Agent 工作流", "RAG 知识库", "自托管", "表单/数据管理"], "domain": "AI 应用开发平台/LLM 工作流", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文文档入口", "钉钉/企微（WeTinker）渠道集成", "七牛/阿里云 OSS 存储选项", "zhparser 中文分词扩展"]}, "trust": {"confidence": "mid", "evidence": ["L10: An AI agent workflow platform for building intelligent applications with visual flow orchestration, knowledge bases, and", "L34: - **Visual Workflow Editor** — Drag-and-drop flow builder with branching, loops, and AI nodes", "L46: - **AI Agent Studio** — Multi-model LLM integration (OpenAI, DeepSeek, Qwen, etc.), tool orchestration"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yangzc/ainote",
+ "sha": "c08abdcc661a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI Agent 工作流平台：可视化编排、知识库 RAG、数字员工",
+  "review": "面向构建智能应用的开源自托管平台：提供可视化工作流编辑器（分支/循环/AI 节点）、拖拽式表单构建器（16+ 字段类型）与数据管理；知识库支持文档摄取、pgvector 向量检索与 RAG 流水线；多模型 LLM 接入（OpenAI、DeepSeek、Qwen、OneAPI 代理）。数字员工可通过 iframe/JS SDK 嵌入第三方站点，或经钉钉、企微等网关渠道对话。提供 Tauri 桌面客户端与多租户组织管理。部署方式包括 GHCR 预构建镜像、源码 Docker Compose 与裸机手动安装；裸机需 Node.js≥20、pnpm≥8、PostgreSQL≥15（pgvector 扩展），Temporal 为推荐组件。",
+  "highlights": [
+   "可视化工作流编辑器（分支、循环、AI 节点）",
+   "知识库 RAG：文档摄取 + pgvector 向量检索",
+   "数字员工可经 iframe/JS SDK 嵌入或钉钉/企微渠道对话",
+   "GHCR 预构建镜像一条 Docker 命令部署"
+  ],
+  "use_cases": [
+   "搭建带知识库问答的智能客服数字员工",
+   "通过拖拽方式编排 AI 工作流并发布表单收集数据",
+   "在钉钉/企微内接入 AI 对话机器人"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "低代码/无代码",
+   "AI Agent 工作流",
+   "RAG 知识库",
+   "自托管",
+   "表单/数据管理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "chatbot",
+   "rag",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档入口",
+   "钉钉/企微（WeTinker）渠道集成",
+   "七牛/阿里云 OSS 存储选项",
+   "zhparser 中文分词扩展"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: An AI agent workflow platform for building intelligent applications with visual flow orchestration, knowledge bases, and",
+   "L34: - **Visual Workflow Editor** — Drag-and-drop flow builder with branching, loops, and AI nodes",
+   "L46: - **AI Agent Studio** — Multi-model LLM integration (OpenAI, DeepSeek, Qwen, etc.), tool orchestration"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
